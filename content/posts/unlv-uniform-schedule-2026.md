@@ -13,7 +13,7 @@ teams: ["unlv-rebels", "mountain-west"]
 resurfaceOnUpdate: true
 ---
 
-Three games into 2026, UNLV has worn three different combinations and two different helmets, and the Rebels tell you exactly what is coming every week with a row of colored dots. This is the full UNLV 2026 uniform schedule: the red home jersey, the white road set, the silver and red helmets, the gray alternate sitting in the closet, and a week-by-week outlook for all twelve games, including a Halloween night game and the 52nd Battle for the Fremont Cannon. We update this page as each combination is confirmed.
+Five games into 2026, UNLV has worn five different combinations and two different helmets, and the Rebels tell you exactly what is coming every week with a row of colored dots. This is the full UNLV 2026 uniform schedule: the red home jersey, the white road set, the silver and red helmets, the gray alternate sitting in the closet, and a week-by-week outlook for all twelve games, including a Halloween night game and the 52nd Battle for the Fremont Cannon. We update this page as each combination is confirmed.
 
 ## The UNLV 2026 Uniform Sets
 
@@ -24,7 +24,7 @@ Three games into 2026, UNLV has worn three different combinations and two differ
   <div style="background: #a7a8aa; color: #14284b; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Two shells so far. A silver shell with the red UNLV arch, the Welcome to Las Vegas sign on the back and REBELS on the bumper, and a red shell with a white UNLV arch.</div></div>
 </div>
 
-Everything is Nike, and the whole closet runs on three colors: scarlet, white and a gray that UNLV treats as a real team color rather than a trim. That gray is why the Rebels are more interesting than most Mountain West programs. They can build a road look, a home look and a monochrome look out of the same three pieces, and in the last three seasons they have done all of it. Two games this year have used the silver helmet and one used the red, so the helmet is genuinely in play every week.
+Everything is Nike, and the whole closet runs on three colors: scarlet, white and a gray that UNLV treats as a real team color rather than a trim. That gray is why the Rebels are more interesting than most Mountain West programs. They can build a road look, a home look and a monochrome look out of the same three pieces, and in the last three seasons they have done all of it. Two games this year have used the silver helmet and three used the red, so the helmet is genuinely in play every week.
 
 UNLV announces every combination a couple of days before kickoff in a post the program calls threads, with one emoji per piece: helmet, jersey, pants. A gray dot is silver or gray, a red dot is red and a white dot is white. Game 1 was silver, red, gray.
 
@@ -93,7 +93,7 @@ UNLV put the full schedule out in March.
 
 ## Why UNLV Wore Red at Hawaii
 
-Most Mountain West road trips put the visitor in white. Hawaii flipped that on September 5 by making its home opener a White Out, with the Rainbow Warriors in white helmets, white jerseys and white pants and white shirts for the first 2,500 fans through the gates. That left UNLV in color, and the Rebels leaned all the way in with the red helmet over the red jersey. It was the only time the red shell has shown up so far, and it is the combination we would put at the top of the Rebels closet. The threads post called it island bound.
+Most Mountain West road trips put the visitor in white. Hawaii flipped that on September 5 by making its home opener a White Out, with the Rainbow Warriors in white helmets, white jerseys and white pants and white shirts for the first 2,500 fans through the gates. That left UNLV in color, and the Rebels leaned all the way in with the red helmet over the red jersey. It was the first time the red shell showed up this season, and it came back at Akron and against Cal. Red over red at Hawaii is the combination we would put at the top of the Rebels closet. The threads post called it island bound.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/unlvfootball/status/2095575715844657278"></a></blockquote>
@@ -115,17 +115,17 @@ UNLV is one of the few programs in the country that will go gray on gray on gray
 
 ## The Bottom Line
 
-Three games, three combinations and two helmets tells you UNLV is not a program that rides one look. Red is the default at Allegiant Stadium, white is the expected road set, and the gray alternate is the one we are waiting on. The red helmet over the red jersey at Hawaii was the best thing the Rebels have worn this year. Halloween night against Northern Illinois and the Fremont Cannon game against Nevada are the two dates we would circle. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Five games, five combinations and two helmets tells you UNLV is not a program that rides one look. Red is the default at Allegiant Stadium, white is the expected road set, and the gray alternate is the one we are waiting on. The red helmet over the red jersey at Hawaii was the best thing the Rebels have worn this year. Halloween night against Northern Illinois and the Fremont Cannon game against Nevada are the two dates we would circle. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is UNLV wearing this week?**
 
-UNLV wore the red helmet, white jersey and red pants at Akron on Saturday, September 26, and won 38-10. In its previous game, at North Texas on September 12, the Rebels wore the silver helmet, white jersey and white pants. Next is Cal at Allegiant Stadium on Saturday, October 3, and UNLV has confirmed the red helmet, red jersey and gray pants for Hispanic Heritage Day. Cal has announced its navy helmet and white jersey. The week-by-week grid above lists every game with the expected set.
+UNLV wore the red helmet, red jersey and gray pants against Cal at Allegiant Stadium on Saturday, October 3, for Hispanic Heritage Day, confirmed from the broadcast, and won 39-31 to move to 3-2. The week before, the Rebels wore the red helmet, white jersey and red pants at Akron. Next is North Dakota State at home on October 10 for Homecoming, where red is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are UNLV's football uniforms for 2026?**
 
-A scarlet home jersey with REBELS across the chest and white numerals, a white road jersey with gray numerals trimmed in red, and a gray alternate. Pants come in gray and white so far this season. There are two helmets in use: a silver shell with the red UNLV arch and the Welcome to Las Vegas sign on the back, and a red shell with a white UNLV arch. Everything is Nike.
+A scarlet home jersey with REBELS across the chest and white numerals, a white road jersey with gray numerals trimmed in red, and a gray alternate. Pants have come in gray, white and red so far this season. There are two helmets in use: a silver shell with the red UNLV arch and the Welcome to Las Vegas sign on the back, and a red shell with a white UNLV arch. Everything is Nike.
 
 **What did UNLV wear against Hawaii?**
 

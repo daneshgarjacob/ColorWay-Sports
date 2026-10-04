@@ -13,7 +13,7 @@ teams: ["wyoming-cowboys", "mountain-west"]
 resurfaceOnUpdate: true
 ---
 
-Wyoming has worn three different jerseys in four games, and every one of them has been under the same white helmet with the brown and gold Steamboat on the side. This is the full Wyoming 2026 uniform schedule: the brown home jersey, the white road set, the gold jersey from the Homecoming Gold Out, every game played so far and the expected look for the rest of the season, starting with a trip to Fargo to play North Dakota State on October 3. We update this page as each combination is confirmed.
+Wyoming has worn three different jerseys in five games, and every one of them has been under the same white helmet with the brown and gold Steamboat on the side. This is the full Wyoming 2026 uniform schedule: the brown home jersey, the white road set, the gold jersey from the Homecoming Gold Out, every game played so far, including the 28-0 loss at North Dakota State on October 3, and the expected look for the rest of the season. We update this page as each combination is confirmed.
 
 ## The Wyoming 2026 Uniform Sets
 
@@ -24,7 +24,7 @@ Wyoming has worn three different jerseys in four games, and every one of them ha
   <div style="background: #2b1b14; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9; color: #FFC425;">The Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">A white shell with a brown and gold center stripe and the bucking horse, the Steamboat, on the side. Worn in all four games.</div></div>
 </div>
 
-Wyoming's colors are among the most distinctive in the country. Very few programs wear brown, and the Cowboys pair it with a bright gold that reads as yellow from the stands. Through four games, the helmet has been the constant. Everything below it has changed: all white at Colorado State, brown over gold at home against Northern Colorado, white over brown at Central Michigan and gold over white for Homecoming.
+Wyoming's colors are among the most distinctive in the country. Very few programs wear brown, and the Cowboys pair it with a bright gold that reads as yellow from the stands. Through five games, the helmet has been the constant. Everything below it has changed: all white at Colorado State, brown over gold at home against Northern Colorado, white over brown at Central Michigan, gold over white for Homecoming and white over gold at North Dakota State.
 
 That last one is the look of the season so far. The athletic department billed the Hawaii game as a Gold Out of War Memorial Stadium, and the team matched the crowd in the gold jersey. Wyoming won 27-10 to open Mountain West play and took back the Paniolo Trophy.
 
@@ -74,17 +74,17 @@ That last one is the look of the season so far. The athletic department billed t
 
 ## Brown, Gold or White Pants?
 
-The pants are where Wyoming's closet gets interesting. The Cowboys have worn white, gold and brown pants in four games and have not repeated a full combination yet. At home, gold pants went under the brown jersey and white pants went under the gold jersey. On the road, the white jersey went over white pants in Fort Collins and brown pants in Mount Pleasant. Wyoming has not published a season uniform grid, so the grid above only names the expected jersey. We will not guess the pants until each one is confirmed.
+The pants are where Wyoming's closet gets interesting. The Cowboys have worn white, gold and brown pants in five games and have not repeated a full combination yet. At home, gold pants went under the brown jersey and white pants went under the gold jersey. On the road, the white jersey went over white pants in Fort Collins, brown pants in Mount Pleasant and gold pants in Fargo. Wyoming has not published a season uniform grid, so the grid above only names the expected jersey. We will not guess the pants until each one is confirmed.
 
 ## The Bottom Line
 
-Four games in, Wyoming has kept one helmet and spread everything else around: brown at home, white on the road and gold for the Homecoming Gold Out, which was the best look of the bunch and came with the first Mountain West win of the season. Brown and gold is one of the most recognizable color pairs in college football, and the Cowboys are getting a lot out of it. The questions left are whether the gold jersey comes back for another home date and which pants show up each week. The grid above has every date, and we add a star as each uniform is confirmed.
+Five games in, Wyoming has kept one helmet and spread everything else around: brown at home, white on the road and gold for the Homecoming Gold Out, which was the best look of the bunch and came with the first Mountain West win of the season. Brown and gold is one of the most recognizable color pairs in college football, and the Cowboys are getting a lot out of it. The questions left are whether the gold jersey comes back for another home date and which pants show up each week. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Wyoming wearing this week?**
 
-Wyoming plays at North Dakota State on Saturday, October 3, and the white road jersey is expected with the white helmet. The Cowboys wore white jerseys in both road games so far, with white pants at Colorado State and brown pants at Central Michigan. Wyoming has not announced its combination for the NDSU game.
+Wyoming wore the white helmet, white jersey and gold pants at North Dakota State on Saturday, October 3, confirmed from the broadcast, in a 28-0 loss that dropped the Cowboys to 2-3. Next is San Jose State on the road on Friday, October 9, where white is expected.
 
 **What did Wyoming wear for the Gold Out?**
 
@@ -100,7 +100,7 @@ It is the Steamboat, the bucking horse and rider that is the symbol of the Unive
 
 **What is the Battle of the Basins?**
 
-A new traveling trophy between Wyoming and North Dakota State, starting with their October 3, 2026 game in Fargo. The trophy has a wooden base with both schools' logos and an oil field drill bit on top, a nod to the petroleum industry in both states.
+A new traveling trophy between Wyoming and North Dakota State, starting with their October 3, 2026 game in Fargo, which North Dakota State won 28-0. The trophy has a wooden base with both schools' logos and an oil field drill bit on top, a nod to the petroleum industry in both states.
 
 **When does Wyoming play Air Force in 2026?**
 

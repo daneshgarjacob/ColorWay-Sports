@@ -13,7 +13,7 @@ teams: ["west-virginia-mountaineers", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-West Virginia opened 2026 in all white for Pat White and wore navy jerseys with gold pants in Week 2, and the Mountaineers head to Charlotte to face Virginia on September 19, where we expect white. This is the full West Virginia 2026 uniform schedule: navy, gold, and white jerseys that mix freely with navy, gold, and white pants, a new gloss white helmet, the black Coal Rush set, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+West Virginia opened 2026 in all white for Pat White and has worn a different look in each of its five games, most recently the white helmet, white jersey and navy pants in a 45-42 loss at Iowa State on October 3. Next is the Coal Rush game against Arizona on October 10, where black is expected. This is the full West Virginia 2026 uniform schedule: navy, gold, and white jerseys that mix freely with navy, gold, and white pants, a new gloss white helmet, the black Coal Rush set, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The West Virginia 2026 Uniform Sets
 
@@ -80,13 +80,13 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
 
 ## The Bottom Line
 
-Four games in, West Virginia has shown four different looks: head-to-toe white for the Pat White retirement, navy over gold pants for UT Martin, white over gold pants in Charlotte, and the gold jersey over navy pants for Gold Rush against Oklahoma State. That is how this closet works. No two WVU weeks need to match, and the program's promotional calendar tells you where the special looks land: gold for Oklahoma State, black for Arizona, a flag decal for Kansas. Road games should stay white, and the first one does: white helmet, white jersey and navy pants at Iowa State. The one set we are still waiting on is Country Roads, which has not shown up yet in 2026. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Five games in, West Virginia has shown five different looks: head-to-toe white for the Pat White retirement, navy over gold pants for UT Martin, white over gold pants in Charlotte, the gold jersey over navy pants for Gold Rush against Oklahoma State, and white over navy pants at Iowa State. That is how this closet works. No two WVU weeks need to match, and the program's promotional calendar tells you where the special looks land: gold for Oklahoma State, black for Arizona, a flag decal for Kansas. Road games should stay white, and the first one did: white helmet, white jersey and navy pants at Iowa State. The one set we are still waiting on is Country Roads, which has not shown up yet in 2026. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is West Virginia wearing this week?**
 
-West Virginia wore Gold Rush against Oklahoma State on Saturday, September 26: navy helmet with the gold Flying WV, gold jersey and navy pants, posted by the team before the game and confirmed on the FS1 broadcast, in a 41-24 loss. The week before, in Charlotte, it wore the navy helmet, white jersey and gold pants in a 38-27 win over Virginia. Next up is at Iowa State on October 3, and West Virginia has confirmed a white helmet, white jersey and navy pants. Iowa State has confirmed all cardinal for Homecoming. The grid above lists every game with the expected set.
+West Virginia wore the white helmet, white jersey and navy pants at Iowa State on Saturday, October 3, posted by the team before the game and matched in its own game photos, in a 45-42 loss. The week before, it wore Gold Rush against Oklahoma State: navy helmet, gold jersey and navy pants. Next up is Arizona at home on October 10, the Coal Rush game, where the black set is expected. The grid above lists every game with the expected set.
 
 **What are West Virginia's football uniforms for 2026?**
 

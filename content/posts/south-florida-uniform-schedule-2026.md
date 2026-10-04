@@ -13,7 +13,7 @@ teams: ["south-florida-bulls", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-South Florida has three helmets, three jersey colors and a brand new head coach who has already changed the pattern. This is the full South Florida 2026 uniform schedule: the green home jersey, the white road set, the black alternate, the metallic gold helmet that carried the program for years, and the Gold Standard white shell the Bulls brought back for their 30th season. Two games in, USF has worn the white helmet twice, which is not what the last few years looked like. We update this page as each combination is confirmed.
+South Florida has three helmets, three jersey colors and a brand new head coach who has already changed the pattern. This is the full South Florida 2026 uniform schedule: the green home jersey, the white road set, the black alternate, the metallic gold helmet that carried the program for years, and the Gold Standard white shell the Bulls brought back for their 30th season. Five games in, USF has worn a white helmet every time, which is not what the last few years looked like. We update this page as each combination is confirmed.
 
 ## The South Florida 2026 Uniform Sets
 
@@ -100,13 +100,13 @@ American Conference home teams wear color and visitors wear white, so every road
 
 ## The Bottom Line
 
-The story of South Florida's 2026 wardrobe so far is the helmet nobody has seen. USF revived the Gold Standard in May, built a whole reveal around it, and then opened the season in the plain white shell twice. The green jersey is the home default, white is locked in on the road, the black alternate is the wild card, and the metallic gold lid that defined the last decade has not appeared once. There are six home dates and four road dates left. Halloween against UAB and the finale against Tulane are the two cells we are watching hardest, and a Thursday night at UTSA is the most likely place for the gold flake to finally show up on television. The grid above has every date, and we add a star as each combination is confirmed.
+The story of South Florida's 2026 wardrobe so far is the helmet nobody has seen. USF revived the Gold Standard in May, built a whole reveal around it, and then wore the plain white shell with the green Bull U for the first four games. Against Temple on October 3 the Bulls finally went white and gold, with a gold bull on the white helmet, gold numbers and gold pants, in a 17-13 loss that dropped them to 4-1. The green jersey is the home default, white is locked in on the road, the black alternate is the wild card, and the metallic gold lid that defined the last decade has not appeared once. There are four home dates and three road dates left. Halloween against UAB and the finale against Tulane are the two cells we are watching hardest, and a Thursday night at UTSA is the most likely place for the gold flake to finally show up on television. The grid above has every date, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is South Florida wearing this week?**
 
-USF wore the white helmet, white jersey and green pants at Bowling Green on September 26, a 14-6 win, confirmed from the broadcast. The week before, the Bulls wore the white helmet, green jersey and green pants against Delaware State at Raymond James Stadium, a 59-17 win. They wore the white helmet with the green jersey and white pants against FIU in the opener and went all white at Army in Week 2, so the green pants are new for 2026. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+USF wore the white helmet, white jersey and gold pants against Temple on October 3, with a gold bull on the helmet and gold numbers, confirmed from the broadcast, in a 17-13 loss. The week before, the Bulls wore the white helmet, white jersey and green pants at Bowling Green, a 14-6 win. Next up is a Thursday night at UTSA on October 8, where white is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are South Florida's football uniforms for 2026?**
 

@@ -97,17 +97,17 @@ Toledo's gold shell is the one piece of this closet with real history attached, 
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ToledoFB/status/936658018460229643"></a></blockquote>
 </div>
 
-Nothing like that has been announced for 2026, and through two games Toledo has worn the blue helmet both times. If the gold shell or the anthracite jersey shows up this fall, Homecoming on October 10 and the Bowling Green game on November 20 are the two dates that fit.
+Nothing like that has been announced for 2026, and through five games Toledo has worn the midnight blue helmet every time. If the gold shell or the anthracite jersey shows up this fall, Homecoming on October 10 and the Bowling Green game on November 20 are the two dates that fit.
 
 ## The Bottom Line
 
-Two games in, Toledo has used one helmet, two jerseys and two pant colors, which is exactly the pace you would expect from a program that saves its variety for November. Midnight blue is the default in the Glass Bowl, white is locked in on the road under MAC color rules, and the gold jersey, the anthracite jersey and the gold helmet are the wild cards. The real unknown is the Glass City Edition and whether a light blue football jersey is part of it. The grid above has every date with the expected set, and we add a star as each uniform is confirmed.
+Five games in, Toledo has used one helmet, two jerseys and two pant colors, which is exactly the pace you would expect from a program that saves its variety for November. Midnight blue is the default in the Glass Bowl, white is locked in on the road under MAC color rules, and the gold jersey, the anthracite jersey and the gold helmet are the wild cards. The real unknown is the Glass City Edition and whether a light blue football jersey is part of it. The grid above has every date with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Toledo wearing this week?**
 
-Toledo wore the midnight blue helmet, midnight blue jersey and gold pants to beat San Diego State 41-16 on September 26 in the Glass Bowl. It is the same combination the Rockets wore to beat Temple 49-48 in overtime on September 19 and Central Connecticut 63-10 on September 12. The week-by-week grid above lists every game with the expected uniform.
+Toledo wore the midnight blue helmet, white jersey and midnight blue pants at Ball State on October 3, confirmed from the broadcast, and won the MAC opener 39-24 to move to 4-1. Next is Buffalo at home on October 10 for Homecoming, where midnight blue is expected and an alternate is possible. The week-by-week grid above lists every game with the expected uniform.
 
 **What are Toledo's football uniforms for 2026?**
 

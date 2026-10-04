@@ -13,7 +13,7 @@ teams: ["washington-huskies", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Washington has worn the same thing twice in 2026: gold helmet, purple jersey, gold pants, in the Apple Cup win over Washington State and again in the 16-14 escape against Utah State. That is the home look, with the all-black Dawgs alternate out once for the Minnesota blackout. This is the full Washington Huskies 2026 uniform schedule: the purple home set, the white road set, the all-purple option, the new all-black Dawgs alternate, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+Washington has worn the gold helmet in four of five games in 2026: purple over gold pants in the Apple Cup win over Washington State and the 16-14 escape against Utah State, purple over white pants against Eastern Washington, and white over white pants in the 25-21 loss at USC. The all-black Dawgs alternate came out once, for the Minnesota blackout. This is the full Washington Huskies 2026 uniform schedule: the purple home set, the white road set, the all-purple option, the new all-black Dawgs alternate, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The Washington Huskies 2026 Uniform Sets
 
@@ -80,17 +80,17 @@ See the [USC 2026 uniform schedule](/stories/usc-uniform-schedule-2026) for the 
 
 ## The Bottom Line
 
-Two games in, Washington has been as plain as it gets: gold helmet, purple jersey, gold pants, twice. That will not last. The athletic department has already told us where to look. The Minnesota blackout night is the obvious home for the new Dawgs jersey, Penn State's Purple Reign homecoming is the natural stage for the all-purple set, and Salute to Service against Indiana is where a camo surprise showed up last year. On the road, Washington opens with the gold helmet, white jersey and white pants at USC, confirmed by the team, and white is the jersey for all five trips. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Five games in, Washington has stayed close to the base set, with one big exception: the new Dawgs jersey came out for the Minnesota blackout night, as the athletic department's theme suggested it would. Penn State's Purple Reign homecoming is the natural stage for the all-purple set, and Salute to Service against Indiana is where a camo surprise showed up last year. On the road, Washington opened with the gold helmet, white jersey and white pants at USC, and white is the jersey for the four trips left. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Washington wearing this week?**
 
-Washington wore the gold helmet, purple jersey and white pants against Eastern Washington on Saturday, September 19, a 48-16 win, confirmed from the broadcast. The white pants are the change: the Huskies had gone gold below the belt in both games before it. The week after, against Minnesota on September 26, was the "Unleashed" blackout game in the all-black Dawgs uniform, black helmet, black jersey and black pants, confirmed from the game photos, a 27-24 loss. Next is USC on the road on October 3, and Washington has confirmed the gold helmet, white jersey and white pants.
+Washington wore the gold helmet, white jersey and white pants at USC on Saturday, October 3, as posted and confirmed in the team's game photos, in a 25-21 loss. The week before, against Minnesota, the Huskies wore the all-black Dawgs uniform for the "Unleashed" blackout game, a 27-24 loss. Next is Iowa at Husky Stadium on Friday, October 9, where purple is expected.
 
 **What are Washington's football uniforms for 2026?**
 
-A purple home jersey with gold-outlined white numerals and gold-and-white shoulder stripes, worn with gold pants; a white road jersey with gold-outlined purple numerals, worn with purple pants; an all-purple combination; and a new all-black alternate with DAWGS in gold script. The metallic gold helmet with the purple W is the standard shell. Everything is made by adidas.
+A purple home jersey with gold-outlined white numerals and gold-and-white shoulder stripes, worn with gold pants; a white road jersey with gold-outlined purple numerals, built to go with purple pants; an all-purple combination; and a new all-black alternate with DAWGS in gold script. The metallic gold helmet with the purple W is the standard shell. Everything is made by adidas.
 
 **Does Washington have a new alternate uniform in 2026?**
 
@@ -102,7 +102,7 @@ The standard home set: gold helmet, purple jersey, gold pants. Washington won 24
 
 **Does Washington wear white pants on the road?**
 
-Not with the current set. The 2025 adidas refresh dropped white pants from the core uniforms, so the road look is a white jersey over purple pants with gold and white stripes.
+They have in 2026. The 2025 adidas refresh paired the white road jersey with purple pants, but for the first road trip of 2026, at USC on October 3, Washington wore white pants with the white jersey and the gold helmet. The Huskies also wore white pants with the purple jersey at home against Eastern Washington.
 
 **How many games does Washington play in 2026?**
 

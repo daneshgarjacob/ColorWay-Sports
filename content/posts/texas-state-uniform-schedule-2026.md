@@ -13,7 +13,7 @@ teams: ["texas-state-bobcats", "pac-12"]
 resurfaceOnUpdate: true
 ---
 
-Texas State is playing its first Pac-12 season, and the Bobcats have already used two different gold helmets in San Marcos. This is the full Texas State 2026 uniform schedule: the maroon home jersey, the white road set, the gold and white helmets, the Bobcats script shell that showed up for Family Weekend, every game played so far and the expected uniform for the rest of the year, starting with the Pac-12 opener at San Diego State on October 3. We update this page as each combination is confirmed.
+Texas State is playing its first Pac-12 season, and the Bobcats have already used two different gold helmets in San Marcos. This is the full Texas State 2026 uniform schedule: the maroon home jersey, the white road set, the gold and white helmets, the Bobcats script shell that showed up for Family Weekend, every game played so far, including the 31-29 loss in the Pac-12 opener at San Diego State on October 3, and the expected uniform for the rest of the year. We update this page as each combination is confirmed.
 
 ## The Texas State 2026 Uniform Sets
 
@@ -80,17 +80,17 @@ This is also a new conference. Texas State spent 13 seasons in the Sun Belt befo
 
 ## Which Helmet Is Next?
 
-Texas State has worn three helmets in four games, and the script shell is the one to watch. It appeared for Family Weekend with the maroon pants and has not been announced for anything else. The Bobcat head gold shell looks like the default at home, and the white shell has been the road helmet so far. If the script helmet comes back, the Bobcats Blackout against Colorado State on October 15 and Homecoming against Utah State on October 24 are the two home dates that fit.
+Texas State has worn three helmets in five games, and the script shell is the one to watch. It appeared for Family Weekend with the maroon pants and has not been announced for anything else. The Bobcat head gold shell looks like the default at home, and the white shell has been the road helmet in both road games, at Texas and at San Diego State. If the script helmet comes back, the Bobcats Blackout against Colorado State on October 15 and Homecoming against Utah State on October 24 are the two home dates that fit.
 
 ## The Bottom Line
 
-Four games into its Pac-12 era, Texas State has run through white, gold and maroon without ever looking like anyone but Texas State. The maroon and old gold palette is one of the more distinctive in the conference, and the Bobcats have leaned on it: gold pants for the first two home games, maroon pants and a new script helmet for the third. The road helmet question at San Diego State is settled, with Texas State announcing the white helmet, white jersey and maroon pants for the Pac-12 opener. The open question now is whether the Blackout night on October 15 is a fan theme or a uniform. The grid above has every date, and we add a star as each uniform is confirmed.
+Five games into its Pac-12 era, Texas State has run through white, gold and maroon without ever looking like anyone but Texas State. The maroon and old gold palette is one of the more distinctive in the conference, and the Bobcats have leaned on it: gold pants for the first two home games, maroon pants and a new script helmet for the third. The road helmet question at San Diego State was settled the same way, with the white helmet, white jersey and maroon pants worn as announced in the 31-29 loss. The open question now is whether the Blackout night on October 15 is a fan theme or a uniform. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Texas State wearing this week?**
 
-Texas State plays at San Diego State on Saturday, October 3, and the Bobcats have confirmed a white helmet, white jersey and maroon pants. They wore the white helmet, white jersey and white pants in their only road game so far, at Texas on September 5, so the maroon pants are the change.
+Texas State wore the white helmet, white jersey and maroon pants at San Diego State on Saturday, October 3, as announced and confirmed on the broadcast, in a 31-29 loss. After a bye on October 10, the Bobcats host Colorado State on Thursday, October 15, where maroon is expected for the Bobcats Blackout night.
 
 **What helmet did Texas State wear against UIW?**
 
@@ -102,7 +102,7 @@ A maroon home jersey and a white road jersey, both with a TEXAS STATE wordmark, 
 
 **Is Texas State in the Pac-12?**
 
-Yes. 2026 is Texas State's first season in the Pac-12 after 13 seasons in the Sun Belt. Its Pac-12 opener is at San Diego State on October 3, and the Pac-12 Championship Game is Friday, December 4 at the home of the highest seed.
+Yes. 2026 is Texas State's first season in the Pac-12 after 13 seasons in the Sun Belt. Its Pac-12 opener was at San Diego State on October 3, a 31-29 loss, and the Pac-12 Championship Game is Friday, December 4 at the home of the highest seed.
 
 **Does Texas State have a blackout game in 2026?**
 

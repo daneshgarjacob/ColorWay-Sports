@@ -13,7 +13,7 @@ teams: ["utah-state-aggies", "pac-12"]
 resurfaceOnUpdate: true
 ---
 
-Utah State has worn three different helmets in its first three weeks as a Pac-12 program, and the fourth is already on the calendar. The Aggies opened in the cow print helmet, went to the white shell at Washington, are taking a navy shell to Utah on Saturday, brought back their 1992 to 1995 logo for Homecoming against Troy, and have confirmed the throwback Jumpin' Cow helmet for the trip to Boise State. This is the full Utah State 2026 uniform schedule: the blue home set, the white road set, every helmet in the drawer, the home game themes and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+Utah State has worn five different helmets in its first five games as a Pac-12 program. The Aggies opened in the cow print helmet, went to the white shell at Washington, took a navy shell to Utah, brought back their 1992 to 1995 logo for Homecoming against Troy, and wore the throwback Jumpin' Cow helmet Utah State announced for the trip to Boise State. This is the full Utah State 2026 uniform schedule: the blue home set, the white road set, every helmet in the drawer, the home game themes and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The Utah State 2026 Uniform Sets
 
@@ -80,7 +80,7 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @USUFootball</p>
 
-**October 9 vs. Washington State.** Blue expected. Friday night in Logan on The CW, and it is the Show Me game, with fans asked to wear blue. This would be the first appearance of the blue home jersey in 2026. See our [Washington State 2026 uniform schedule](/stories/washington-state-uniform-schedule-2026).
+**October 9 vs. Washington State.** Blue expected. Friday night in Logan on The CW, and it is the Show Me game, with fans asked to wear blue. The blue home jersey made its first 2026 appearance against Troy, so this would be its second. See our [Washington State 2026 uniform schedule](/stories/washington-state-uniform-schedule-2026).
 
 **October 17.** Bye. Utah State's only open date.
 
@@ -102,21 +102,21 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
 
 ## Why Utah State Wore White at Home
 
-The home team in college football usually picks its color and sends the visitor to white, but it can also choose white, and Utah State did exactly that for the opener. The Ag Day theme asked fans to wear cow print or white, and the team matched it: a white jersey and white pants to set off the white helmet with navy spots. Idaho State wore orange jerseys, so the colors never clashed. With the blue jersey still unused through two games, the October 9 Show Me game against Washington State, a Friday night with the crowd in blue, is our best guess for its debut.
+The home team in college football usually picks its color and sends the visitor to white, but it can also choose white, and Utah State did exactly that for the opener. The Ag Day theme asked fans to wear cow print or white, and the team matched it: a white jersey and white pants to set off the white helmet with navy spots. Idaho State wore orange jerseys, so the colors never clashed. The blue jersey finally debuted with navy pants for Homecoming against Troy, and the October 9 Show Me game against Washington State, a Friday night with the crowd in blue, is the next home date we expect it.
 
 ## The Bottom Line
 
-Four weeks, four helmets, and a fifth on the way. Utah State went cow print at home, white at Washington and navy at Utah, all over the white jersey, then brought out the 1992 retro helmet for Homecoming, and the blue home jersey finally appeared with it in the 21-10 win over Troy. The fifth helmet is already confirmed: the throwback Jumpin' Cow on a white shell, all white, at Boise State. After that, the Blackout against Colorado State on Halloween is the natural spot for black, and the flex date on November 28 is Senior Day at home. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Five games, five helmets. Utah State went cow print at home, white at Washington and navy at Utah, all over the white jersey, then brought out the 1992 retro helmet for Homecoming, and the blue home jersey finally appeared with it in the 21-10 win over Troy. The fifth helmet, confirmed by Utah State, was the throwback Jumpin' Cow on a white shell, all white, in a 37-18 loss at Boise State that left the Aggies 1-4. Next, the Blackout against Colorado State on Halloween is the natural spot for black, and the flex date on November 28 is Senior Day at home. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Utah State wearing this week?**
 
-Utah State wore the 1992 retro bull helmet with a navy jersey and navy pants for Homecoming against Troy on Saturday, September 26, confirmed from the CBS Sports Network broadcast, and won 21-10. Next up is at Boise State on Saturday, October 3, and Utah State has confirmed all white with the throwback Jumpin' Cow logo on the white helmet, white jersey and white pants. Boise State has confirmed all blue. The week-by-week grid above lists every game with the expected uniform.
+Utah State wore all white at Boise State on Saturday, October 3, the white helmet with the throwback Jumpin' Cow logo it announced, white jersey and white pants, and lost 37-18. Next up is Washington State at home on Friday, October 9, the Show Me game, where blue is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are Utah State's football uniforms for 2026?**
 
-A navy blue home jersey, a white jersey with a UTAH STATE wordmark and navy sleeve stripes, and black in the closet. Pants come in navy and white, and the Pac-12 patch is new this season. The helmets are a white shell with the navy U State logo, a navy shell with the logo in white, the cow print helmet and a retro homecoming helmet. Nike makes the uniforms.
+A navy blue home jersey, a white jersey with a UTAH STATE wordmark and navy sleeve stripes, and black in the closet. Pants come in navy and white, and the Pac-12 patch is new this season. The helmets are a white shell with the navy U State logo, a navy shell with the logo in white, the cow print helmet, a retro homecoming helmet and the throwback Jumpin' Cow helmet worn at Boise State. Nike makes the uniforms.
 
 **Why does Utah State wear a cow print helmet?**
 

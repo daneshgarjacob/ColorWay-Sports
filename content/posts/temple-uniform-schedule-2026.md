@@ -13,7 +13,7 @@ teams: ["temple-owls", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-Temple owns one of the cleanest two color closets in college football and mixes it four ways. This is the full Temple 2026 uniform schedule: the cherry jersey, the white jersey, the cherry helmet, the white helmet, the diamond striping that runs through all of it, and a week by week outlook for every game. Two games in, the Owls have worn the cherry jersey twice under two different helmets. We update this page as each combination is confirmed.
+Temple owns one of the cleanest two color closets in college football and mixes it four ways. This is the full Temple 2026 uniform schedule: the cherry jersey, the white jersey, the cherry helmet, the white helmet, the diamond striping that runs through all of it, and a week by week outlook for every game. Five games in, the Owls have worn five different combinations. We update this page as each combination is confirmed.
 
 ## The Temple 2026 Uniform Sets
 
@@ -97,13 +97,13 @@ American Conference home teams wear color and visitors wear white, so every road
 
 ## The Bottom Line
 
-Temple does not need an alternate. The diamond system gives the equipment staff four clean combinations out of two jerseys and two helmets, and the Owls have already used two of them in two weeks. Cherry is the home default, white is locked in on the road, and the interesting question every Saturday is which shell goes on top and whether the cherry pants come out. The two dates we are watching hardest are the Friday afternoon against Army on ESPN and the Thursday night finale at home against Rice, because those are the windows programs save their best looks for. The grid above has every game, and we add a star as each combination is confirmed.
+Temple does not need an alternate. The diamond system gives the equipment staff a long list of clean combinations out of two jerseys, two helmets and two pants, and the Owls have used five different ones in five games. Cherry is the home default, white is locked in on the road, and the interesting question every Saturday is which shell goes on top and whether the cherry pants come out. The Friday afternoon against Army brought out the full cherry monochrome. The date we are watching hardest now is the Thursday night finale at home against Rice, because that is the window programs save their best looks for. The grid above has every game, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Temple wearing this week?**
 
-Temple wore all cherry against Army on Friday, September 25, a cherry helmet, cherry jersey and cherry pants, and lost 21-17. A week earlier the Owls wore all white at Toledo and lost 49-48 in overtime. They had worn the white helmet with the cherry jersey and white pants against Rhode Island in the opener, then cherry on cherry with white pants against Penn State. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Temple wore the white helmet with the cherry diamond chain, the cherry jersey and cherry pants at South Florida on Saturday, October 3, confirmed from the broadcast, and won 17-13. A week earlier the Owls wore all cherry against Army and lost 21-17. Next is UConn at home on October 10, where cherry is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Temple's football uniforms for 2026?**
 

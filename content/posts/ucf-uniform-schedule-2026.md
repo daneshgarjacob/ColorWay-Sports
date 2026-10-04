@@ -47,7 +47,7 @@ The current jerseys arrived in June 2025, and the number font is the reason to c
 
 **September 3 vs. Bethune-Cookman.** ★ Confirmed: **gold helmet, black jersey, black pants**, the Thursday night opener at the Acrisure Bounce House. The gold shell with the stacked UCF in black is the loudest helmet in the closet and UCF used it first. The Knights won 73-6.
 
-**September 12 at Pittsburgh.** ★ Confirmed: **white helmet, white jersey, white pants**, the full Lightmode set in the rain at Acrisure Stadium against a Pitt team in blue. Lightmode exists because the Knightmode reaction was so strong that the staff went looking for a road version, and the reveal pulled roughly half a million views when it first ran. This one did not go UCF's way. Pitt won 12-7, the Knights' only loss so far.
+**September 12 at Pittsburgh.** ★ Confirmed: **white helmet, white jersey, white pants**, the full Lightmode set in the rain at Acrisure Stadium against a Pitt team in blue. Lightmode exists because the Knightmode reaction was so strong that the staff went looking for a road version, and the reveal pulled roughly half a million views when it first ran. This one did not go UCF's way. Pitt won 12-7, the Knights' first loss of the season.
 
 **September 19 vs. Georgia State.** ★ Knightmode, announced and now confirmed from the broadcast: **black helmet, black jersey with gold numerals, black pants**, head to toe black for Family Weekend at the Acrisure Bounce House, in a 44-30 win. UCF teased it Wednesday night with a single frame of a black helmet on a throne of swords.
 
@@ -101,21 +101,21 @@ Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and wi
 
 ## The Bottom Line
 
-Two games in, UCF has already shown two of its three helmets and both jerseys, which is exactly how this program operates. Black at home, white on the road, and a gold shell when the mood calls for it. The one date that matters most is October 30, when the tenth Space Game arrives on a Friday night and the Knights unveil whatever Nike has built for it. Everything else gets decided on a Monday and announced on a Thursday, and this grid gets a star the moment we see the uniform on the field.
+Five games in, UCF has already shown all three helmets and both jerseys, and added gold pants at Houston, which is exactly how this program operates. Black at home, white on the road, and a gold shell when the mood calls for it. The one date that matters most is October 30, when the tenth Space Game arrives on a Friday night and the Knights wear the Mission X set revealed on September 29. Everything else gets decided on a Monday and announced on a Thursday, and this grid gets a star the moment we see the uniform on the field.
 
 ## Frequently Asked Questions
 
 **What jersey is UCF wearing this week?**
 
-UCF beat TCU 21-13 at the Acrisure Bounce House on Saturday, September 26, in the Big 12 home opener, in the gold helmet, black jersey and white pants, confirmed from the game photos. The week before, UCF wore Knightmode against Georgia State, black helmet, black jersey and black pants, and won 44-30. Next is Houston on the road on October 3, where white is expected against Houston Blue.
+UCF wore the white helmet, white jersey and gold pants at Houston on Saturday, October 3, confirmed from the broadcast, and lost 27-17 to fall to 3-2. The week before, UCF beat TCU 21-13 in the gold helmet, black jersey and white pants. Next is Oklahoma State on the road on October 10, where white is expected.
 
 **What are UCF's football uniforms for 2026?**
 
-A black jersey with white numbers carrying a gold drop shadow and a white jersey with gold numbers, plus black and white pants with three Polaris stars down each side. Three helmets go with them: gold, black and white, each with the stacked UCF logo on the sides and a sword-shaped center stripe. The set is from Nike and dates to the June 2025 redesign.
+A black jersey with white numbers carrying a gold drop shadow and a white jersey with gold numbers, plus black and white pants with three Polaris stars down each side, and the Knights also wore gold pants at Houston on October 3. Three helmets go with them: gold, black and white, each with the stacked UCF logo on the sides and a sword-shaped center stripe. The set is from Nike and dates to the June 2025 redesign.
 
 **What is Knightmode?**
 
-Knightmode is UCF's all-black look: black helmet, black jersey and black pants. The all-white version is called Lightmode, and UCF built it as the road answer after Knightmode became a fan favorite. UCF wore Lightmode at Pittsburgh on September 12 and wears Knightmode against Georgia State on September 19.
+Knightmode is UCF's all-black look: black helmet, black jersey and black pants. The all-white version is called Lightmode, and UCF built it as the road answer after Knightmode became a fan favorite. UCF wore Lightmode at Pittsburgh on September 12 and Knightmode against Georgia State on September 19.
 
 **When is the UCF Space Game in 2026?**
 

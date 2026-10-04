@@ -72,13 +72,13 @@ The current Nike set arrived in June 2019 and leaned into tradition: the block S
 
 ## The Bottom Line
 
-Syracuse has worn the same uniform in both games: orange helmet, navy jersey, orange pants. Fran Brown runs the closet like a traditionalist, so the rest of the schedule reads cleanly: navy at home against Louisville, SMU, Clemson and Notre Dame, and white at Pitt, UConn, Virginia, North Carolina, NC State and Boston College. The only open question is whether the Orange do enough this season to earn the all-orange look, and the home dates against Clemson and Notre Dame are where it would appear. The grid above has every date, and we star each game once the combination is confirmed.
+Syracuse has worn the orange helmet, navy jersey and orange pants in both home games, and the orange helmet, white jersey and orange pants in the overtime win at UConn. Fran Brown runs the closet like a traditionalist, so the rest of the schedule reads cleanly: navy at home against Louisville, SMU, Clemson and Notre Dame, and white at Virginia, North Carolina, NC State and Boston College. The only open question is whether the Orange do enough this season to earn the all-orange look, and the home dates against Clemson and Notre Dame are where it would appear. The grid above has every date, and we star each game once the combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Syracuse wearing this week?**
 
-Syracuse plays at Pitt on Thursday, September 17, and the white road jersey is expected because Pitt wears royal blue at home. The Orange wore the orange helmet, navy jersey and orange pants in both home games so far. We star the grid cell as soon as the combination is confirmed.
+Syracuse wore the orange helmet, white jersey and orange pants at UConn on October 3, confirmed from the broadcast, in a 42-41 overtime win that moved the Orange to 2-2. Next is Virginia on the road on October 10, where the white road jersey is expected because Virginia shares the navy and orange palette. We star the grid cell as soon as the combination is confirmed.
 
 **What are Syracuse's football uniforms for 2026?**
 

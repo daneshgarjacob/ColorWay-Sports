@@ -13,7 +13,7 @@ teams: ["tcu-horned-frogs", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-TCU opens the 2026 season in Dublin against North Carolina, and the Horned Frogs built a uniform specifically for it. This is the full TCU 2026 uniform schedule: the confirmed black alternate and the helmet that goes with it, the purple and white base sets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+TCU opened the 2026 season in Dublin against North Carolina, and the Horned Frogs built a uniform specifically for it. Since then the Frogs have worn purple at home and white on the road, most recently the purple helmet, purple jersey and black pants in a 17-10 loss to BYU on October 3 that left them 2-3 going into the bye. This is the full TCU 2026 uniform schedule: the confirmed black alternate and the helmet that goes with it, the purple and white base sets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 <div style="margin: 1.75em 0; border: 2px solid #4D1979; border-radius: 16px; overflow: hidden;"><div style="background: #4D1979; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Season Opener &middot; Final</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Saturday, August 29</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 1.5em; font-weight: 900; color: #111111; line-height: 1.2;">TCU vs North Carolina</div><div style="font-size: 0.8em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Aviva Stadium, Dublin &middot; 11 a.m. CT &middot; ESPN</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">✅ Worn: The Black Frog Horn Alternate &middot; Final: North Carolina 15, TCU 10</div><div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">Paired with the Clover Frog helmet. North Carolina countered in the white throwback and took the opener 15-10 in the Dublin rain.</div></div></div>
 
@@ -94,15 +94,15 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
 
 ## The Bottom Line
 
-TCU spent its one big uniform swing of the year on the game with the largest audience, which is the correct way to use it. Carolina answered with a throwback, so the first game of the season is a costume against a history lesson. The Frog Horn black would be a good alternate on its own. The Clover Frog helmet is what makes it a great one, because it reaches for 2011 rather than for Ireland clichés.
+TCU spent its one big uniform swing of the year on the game with the largest audience, which is the correct way to use it. Carolina answered with a throwback, so the first game of the season was a costume against a history lesson. The Frog Horn black would be a good alternate on its own. The Clover Frog helmet is what makes it a great one, because it reaches for 2011 rather than for Ireland clichés.
 
 The rest of the season is purple at home and white on the road, with one obvious question: whether the black comes back for Halloween against Kansas. We will update this page when it does.
 
 ## Frequently Asked Questions
 
-**What is TCU wearing against North Carolina in Dublin?**
+**What did TCU wear against North Carolina in Dublin?**
 
-The new all-black Frog Horn alternate with the Clover Frog helmet. It has a purple collar ringed in white spikes with red flecks, the same treatment on the shoulders, and frog skin numbers. North Carolina counters in a white throwback with a Carolina blue helmet and pants. Kickoff is 11 a.m. CT on Saturday, August 29, on ESPN.
+The new all-black Frog Horn alternate with the Clover Frog helmet. It has a purple collar ringed in white spikes with red flecks, the same treatment on the shoulders, and frog skin numbers. North Carolina countered in a white throwback with a Carolina blue helmet and pants and won 15-10 on Saturday, August 29.
 
 **What is the Clover Frog helmet?**
 
@@ -111,6 +111,10 @@ TCU's 2011 Rose Bowl helmet showed a horned frog with a rose in its mouth, from 
 **When did TCU reveal the Ireland uniforms?**
 
 June 15, 2026, more than two months before the game, through TCU Athletics.
+
+**What did TCU wear in its last game?**
+
+The purple helmet, purple jersey and black pants against BYU at Amon G. Carter Stadium on October 3, confirmed from the broadcast, in a 17-10 loss. TCU has a bye on October 10, then plays at Baylor on October 17, where white is expected.
 
 **What are TCU's regular uniforms?**
 
@@ -128,9 +132,9 @@ The black Frog Horn alternate was built for the season opener against North Caro
 
 Red is a nod to the real horned frog, a horned lizard that can squirt blood from its eyes when threatened. TCU has used that story for alternates with heavy red accents, including a 2019 set against Texas, and the 2026 Frog Horn collar carries flecks of red.
 
-**When is TCU's 2026 season opener?**
+**When was TCU's 2026 season opener?**
 
-Saturday, August 29, against North Carolina at Aviva Stadium in Dublin, Ireland, at 11 a.m. CT on ESPN. It is a Week 0 game and the first college football game of the 2026 season.
+Saturday, August 29, against North Carolina at Aviva Stadium in Dublin, Ireland, at 11 a.m. CT on ESPN. It was a Week 0 game and the first college football game of the 2026 season.
 
 ## More TCU Coverage
 

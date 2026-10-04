@@ -13,7 +13,7 @@ teams: ["usc-trojans", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-USC opens in Week 0, which puts the Trojans on the field before almost everybody. This is the full USC 2026 uniform schedule: the cardinal home set, the white road set, gold pants with both, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+USC opened in Week 0, which put the Trojans on the field before almost everybody, and through six games the Trojans are 5-1. This is the full USC 2026 uniform schedule: the cardinal home set, the white road set, gold pants with both, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The USC 2026 Uniform Sets
 
@@ -81,7 +81,7 @@ Cardinal at home, white on the road, gold pants always. USC has one of the three
 
 **What jersey is USC wearing this week?**
 
-USC wore cardinal at home against Oregon on Saturday, September 26: cardinal helmet, cardinal jersey and gold pants, confirmed from the game photos, in a 41-27 loss to Oregon in Warp Speed. Next up is Washington at the Coliseum on October 3, where cardinal is expected and Washington has confirmed a gold helmet, white jersey and white pants. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 5 Uniforms 2026](/stories/college-football-week-5-uniforms-2026) guide.
+USC wore cardinal at home against Washington on Saturday, October 3: cardinal helmet, cardinal jersey and gold pants, confirmed from the game photos, in a 25-21 win. Next up is Penn State on the road on October 10, where white is expected. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game from October 3 is in our [College Football Week 5 Uniforms 2026](/stories/college-football-week-5-uniforms-2026) guide.
 
 **What are USC's uniforms for 2026?**
 

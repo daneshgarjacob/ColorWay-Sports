@@ -99,7 +99,7 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
 
 ## The Bottom Line
 
-Two games in, Stanford has worn the same thing twice: white helmet, cardinal jersey, white pants. That consistency is the brand, and the program has never apologized for it. The variety comes from the helmet rack and from the calendar. A tribal-pattern stripe and a red facemask for the opener, a Red Out under the lights against Georgia Tech, a Friday night against NC State, and a Big Game in Berkeley that could pull the cardinal script shell out of storage. The black jersey is the one thing that would genuinely change the picture, and it has not been seen since 2024. The grid above has every date, and we fill in the stars as each combination is confirmed.
+Five games in, Stanford has worn just two looks: white helmet, cardinal jersey and white pants in all three home games, and the white jersey over white pants on the road at Duke and Wake Forest. That consistency is the brand, and the program has never apologized for it. The variety comes from the helmet rack and from the calendar. A tribal-pattern stripe and a red facemask for the opener, a Friday night against NC State, and a Big Game in Berkeley that could pull the cardinal script shell out of storage. The black jersey is the one thing that would genuinely change the picture, and it has not been seen since 2024. The grid above has every date, and we fill in the stars as each combination is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/StanfordFball/status/2001035101807714750"></a></blockquote>
@@ -109,7 +109,7 @@ Two games in, Stanford has worn the same thing twice: white helmet, cardinal jer
 
 **What jersey is Stanford wearing this week?**
 
-Stanford wore the white helmet, cardinal jersey and white pants against Georgia Tech on Saturday, September 26, confirmed from the broadcast, in a 34-27 win on Red Out night. It is the same home set Stanford has worn in all three home games. Next is Wake Forest on the road on October 3, where the white road jersey is expected against Wake Forest's confirmed all black. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Stanford wore all white, white helmet, white jersey and white pants, at Wake Forest on Saturday, October 3, confirmed from the broadcast, in a 57-3 loss against Wake in all black. The week before, the Cardinal wore the white helmet, cardinal jersey and white pants against Georgia Tech in a 34-27 win. Next is Notre Dame on the road on October 10, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Stanford's football uniforms for 2026?**
 

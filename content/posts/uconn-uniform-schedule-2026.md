@@ -13,7 +13,7 @@ teams: ["uconn-huskies", "fbs-independents"]
 resurfaceOnUpdate: true
 ---
 
-UConn has not worn an alternate uniform since 2016, and that streak is about to end. The Huskies revealed a red jersey in August, the first primarily red jersey any UConn team is believed to have worn, and it debuted on October 3 for Homecoming against Syracuse. This is the full UConn 2026 uniform schedule: the navy home set, the white road set, the new red alternate, and a week-by-week outlook for all twelve games in Jason Candle's first season, including a Friday night game at The Rent. We update this page as each combination is confirmed.
+UConn had not worn an alternate uniform since 2016, and that streak is over. The Huskies revealed a red jersey in August, the first primarily red jersey any UConn team is believed to have worn, and it debuted on October 3 for Homecoming against Syracuse. This is the full UConn 2026 uniform schedule: the navy home set, the white road set, the new red alternate, and a week-by-week outlook for all twelve games in Jason Candle's first season, including a Friday night game at The Rent. We update this page as each combination is confirmed.
 
 ## The UConn 2026 Uniform Sets
 
@@ -40,7 +40,7 @@ Then on August 26 the real thing arrived. UConn dropped a hype video built aroun
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UConnFootball/status/2092629708991008958"></a></blockquote>
 </div>
 
-It looks like a standalone jersey. There is no red helmet and no red pants, so expect it with the white helmet and white pants the way it was shot, or with navy pants for a more familiar home look.
+It looks like a standalone jersey. There is no red helmet and no red pants. It was shot with the white helmet and white pants, but for its debut against Syracuse on October 3 UConn paired it with the navy helmet and navy pants.
 
 ## The Full UConn 2026 Uniform Schedule, Week by Week
 
@@ -98,13 +98,13 @@ UConn has not said, and nothing on the schedule is labeled as a red game. Here i
 
 ## The Bottom Line
 
-Two games in, UConn has worn the same thing twice: navy helmet, navy jersey, navy pants. That is a fine look and a very predictable one, which is why the red jersey is the story of the Huskies' closet this season. White is locked in for the five road games, starting Saturday at Southern Miss, and navy is the default for the rest of the home schedule. The dates we would circle for red are homecoming against Syracuse and the Friday night game against UMass. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Five games in, UConn has worn all navy in its first two home games, all white at Southern Miss, white over navy pants at Miami (OH), and the new red jersey with the navy helmet and navy pants for Homecoming against Syracuse. The red jersey is the story of the Huskies' closet this season. White is locked in for the road games, starting October 10 at Temple, and navy is the default for the rest of the home schedule. The next date we would circle for red is the Friday night game against UMass on October 23. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is UConn wearing this week?**
 
-UConn wore the white helmet, white jersey and navy pants at Miami (OH) on Saturday, September 26, and lost 24-21. The week before, the Huskies wore all white at Southern Miss in a 48-20 win. UConn wore the navy helmet, navy jersey and navy pants in both home games. The week-by-week grid above lists every game with the expected uniform.
+UConn wore the new red alternate jersey with the navy helmet and navy pants against Syracuse for Homecoming on Saturday, October 3, confirmed from the broadcast, and lost 42-41 in overtime. Next is Temple on the road on October 10, where white is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are UConn's football uniforms for 2026?**
 

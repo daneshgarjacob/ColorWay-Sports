@@ -13,7 +13,7 @@ teams: ["washington-state-cougars", "pac-12"]
 resurfaceOnUpdate: true
 ---
 
-Washington State builds its uniforms the way you build a wardrobe, four helmet shells, four jersey colors, four pants colors, two facemask colors, and a new arrangement almost every Saturday. The Cougars have worn 53 different combinations since the 2017 redesign, and they added the newest one this week. This is the full Washington State 2026 uniform schedule: the crimson home set, the Icy White road look, the Ketchup Bottle combo, the gray throwback helmets, and a week by week outlook for all twelve games in Kirby Moore's first season. We update this page as each combination is confirmed.
+Washington State builds its uniforms the way you build a wardrobe, four helmet shells, four jersey colors, four pants colors, two facemask colors, and a new arrangement almost every Saturday. The Cougars have worn 53 different combinations since the 2017 redesign, and they added the newest one against Duquesne. This is the full Washington State 2026 uniform schedule: the crimson home set, the Icy White road look, the Ketchup Bottle combo, the gray throwback helmets, and a week by week outlook for all twelve games in Kirby Moore's first season. We update this page as each combination is confirmed.
 
 ## The Washington State 2026 Uniform Sets
 
@@ -26,7 +26,7 @@ Washington State builds its uniforms the way you build a wardrobe, four helmet s
 
 The reason Washington State can do this is the 2017 Nike redesign. Nike stripped the shoulder stripes, the number outlines and the chest wordmark off the 2012 jerseys and left a big block number and a WSU logo on the collar, which sounds like subtraction until you realize it means every top matches every bottom matches every helmet. Reviews were mixed at the time. Nine seasons later it is the most flexible closet on the West Coast.
 
-The throwback history is the good part. The script Cougars helmet logo lived on the shells from 1976 through 1999, came back out for the Apple Cup wins of 2005, 2007 and 2008, and got a full turn back the clock treatment for the 2018 Apple Cup with a gray shell, crimson facemask and an all crimson uniform. Then in October 2024, against Hawaii, Washington State debuted something even older: a gray helmet carrying the WSC cougar in a freshman beanie, a mark drawn from the 1920s, 1930s and 1940s, rendered in crimson and white over crimson jerseys and gray pants. Nothing has been announced for 2026, but both of those lids exist, and the Cougars have plenty of dates left to use them.
+The throwback history is the good part. The script Cougars helmet logo lived on the shells from 1976 through 1999, came back out for the Apple Cup wins of 2005, 2007 and 2008, and got a full turn back the clock treatment for the 2018 Apple Cup with a gray shell, crimson facemask and an all crimson uniform. Then in October 2024, against Hawaii, Washington State debuted something even older: a gray helmet carrying the WSC cougar in a freshman beanie, a mark drawn from the 1920s, 1930s and 1940s, rendered in crimson and white over crimson jerseys and gray pants. The script helmet came back for the Stripe Out against Arizona on September 26, and the beanie lid is still waiting for a 2026 date.
 
 ## The Full Washington State 2026 Uniform Schedule, Week by Week
 
@@ -96,7 +96,7 @@ The throwback history is the good part. The script Cougars helmet logo lived on 
 
 ## The Bottom Line
 
-Two road games, two crimson and white looks, and the crimson jersey did not appear until the home opener. That is the shape of Washington State's 2026: white on the road, crimson at Gesa Field, and the gray and anthracite pieces held back for the dates that mean something. The Ketchup Bottle against Duquesne already counts as a new combination on a technicality, which tells you how finely the Cougars slice this. Homecoming against Boise State and Senior Day in the November 28 flex game are the two we are watching hardest. The grid above has every game, and we add a star as each one is confirmed.
+Two road games, two crimson and white looks, then three different home looks at Gesa Field: the Ketchup Bottle against Duquesne, the gray script helmet over a crimson jersey and gray pants for the Stripe Out against Arizona, and all gray against Fresno State. That is the shape of Washington State's 2026: white on the road, crimson as the home starting point, and the gray pieces coming out early, with anthracite still held back for the dates that mean something. The Ketchup Bottle against Duquesne already counts as a new combination on a technicality, which tells you how finely the Cougars slice this. Homecoming against Boise State and Senior Day in the November 28 flex game are the two we are watching hardest. The grid above has every game, and we add a star as each one is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/2050266211338903593"></a></blockquote>
@@ -106,7 +106,7 @@ Two road games, two crimson and white looks, and the crimson jersey did not appe
 
 **What jersey is Washington State wearing this week?**
 
-Washington State wore the gray script Cougars helmet, crimson jersey and gray pants for the Stripe Out against Arizona on Saturday, September 26, as posted and confirmed from the broadcast, in a 34-24 loss. Next up is Fresno State at home on October 3, and Washington State has confirmed all gray: gray helmet with the crimson Cougar head and crimson facemask, gray jersey with white numbers and gray pants. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Washington State wore all gray against Fresno State on Saturday, October 3: gray helmet with the crimson Cougar head and crimson facemask, gray jersey and gray pants, as posted and confirmed in game photos, in a 26-6 loss. Next up is Utah State on the road on Friday, October 9, where white is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Washington State's football uniforms for 2026?**
 
@@ -118,7 +118,7 @@ A crimson helmet with a white facemask, a white jersey and crimson pants at Husk
 
 **Does Washington State have a throwback uniform in 2026?**
 
-Nothing has been announced yet. The two throwback helmets in the closet are the gray shell with the script Cougars logo that the program wore from 1976 to 1999, and the gray shell with the WSC cougar in a freshman beanie that debuted against Hawaii in October 2024. We will add either to this page the moment one is confirmed.
+Yes, one helmet so far. The gray shell with the script Cougars logo, the look the program wore from 1976 to 1999, came back for the Stripe Out against Arizona on September 26 with a crimson jersey and gray pants. The other throwback in the closet, the gray shell with the WSC cougar in a freshman beanie that debuted against Hawaii in October 2024, has not been worn this season. We will add it to this page the moment it is confirmed.
 
 **What is the Ketchup Bottle uniform?**
 

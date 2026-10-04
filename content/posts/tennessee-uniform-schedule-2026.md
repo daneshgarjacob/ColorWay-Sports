@@ -15,7 +15,7 @@ teams: ["tennessee-volunteers", "sec"]
 resurfaceOnUpdate: true
 ---
 
-Wondering what jersey Tennessee is wearing this week? This is the full Tennessee 2026 uniform schedule, game by game. Orange at Neyland, white on the road, and two dates that break the pattern: the new Smokey Grey against Auburn on October 3, and orange against Alabama on the Third Saturday in October.
+Wondering what jersey Tennessee is wearing this week? This is the full Tennessee 2026 uniform schedule, game by game. Orange at Neyland, white on the road, and two dates that break the pattern: the new Smokey Grey, worn against Auburn on October 3 in a 24-14 win, and orange against Alabama on the Third Saturday in October.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Tennessee Athletics.</p>
 
@@ -46,7 +46,7 @@ This is also **the first Smokey Grey of the adidas era**. Tennessee left Nike th
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2090462881334616407"></a></blockquote>
 </div>
 
-**It debuts October 3 against Auburn at Neyland Stadium.** One game, as always with this series.
+**It debuted October 3 against Auburn at Neyland Stadium,** a 24-14 win. One game, as always with this series.
 
 ### Our Grade: B-
 
@@ -60,7 +60,7 @@ The SEC convention does most of the work here. The home team wears color, the vi
 
 - **Orange jersey, white pants, white helmet.** The home set.
 - **White jersey, white pants, white helmet.** The road set.
-- **Smokey Grey.** October 3 vs Auburn only.
+- **Smokey Grey.** Worn October 3 vs Auburn only.
 - **Dark Mode.** The all-black alternate is in the adidas rotation but **has not been assigned to a 2026 date**. We will add it here if it is.
 
 ## The Full Tennessee 2026 Uniform Schedule, Week by Week
@@ -113,11 +113,11 @@ Twelve games, seven at Neyland, one alternate on the calendar.
 
 Most of this schedule answers itself. Orange at home, white away, twelve games, no surprises in either direction. The two that are worth circling are **October 3** and **October 17**, two weeks apart, both at Neyland.
 
-October 3 is the only alternate uniform on the calendar. October 17 is the rarer thing: a road team showing up in color, which almost never happens in this sport and has not happened in this rivalry in more than fifty years. Back to back home dates where the field looks different than it normally does.
+October 3 was the only alternate uniform on the calendar, and the Smokey Grey went on as planned in a 24-14 win. October 17 is the rarer thing: a road team showing up in color, which almost never happens in this sport and has not happened in this rivalry in more than fifty years. Back to back home dates where the field looks different than it normally does.
 
 ## The Bottom Line
 
-Tennessee's 2026 uniform schedule is orange at Neyland and white on the road, with one alternate. The Smokey Grey Neyland centennial set goes on **October 3 against Auburn**, and the Vols wear **orange against Alabama on October 17** in the first color vs color Third Saturday in October since 1970. The Dark Mode black alternate has no date yet. We update this page when one is announced.
+Tennessee's 2026 uniform schedule is orange at Neyland and white on the road, with one alternate. The Smokey Grey Neyland centennial set went on **October 3 against Auburn**, a 24-14 win that moved Tennessee to 4-1, and the Vols wear **orange against Alabama on October 17** in the first color vs color Third Saturday in October since 1970. The Dark Mode black alternate has no date yet. We update this page when one is announced.
 
 For more, see the [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026) and the [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026).
 
@@ -125,11 +125,11 @@ For more, see the [Alabama 2026 uniform schedule](/stories/alabama-uniform-sched
 
 **What jersey is Tennessee wearing this week?**
 
-Tennessee wore the white helmet, orange jersey and white pants against Texas on Saturday, September 26, and lost 20-17 to the No. 1 Longhorns. For the season, Tennessee wears orange at Neyland Stadium and white on the road. The exceptions are October 3 against Auburn, when the Vols wear the Smokey Grey alternate, and October 17 against Alabama, which is an orange home game with Alabama also in color.
+Tennessee wore the Smokey Grey Neyland centennial set against Auburn on Saturday, October 3, confirmed from the broadcast, and won 24-14. Next is Arkansas on the road on October 10, in white. For the season, Tennessee wears orange at Neyland Stadium and white on the road. The other exception is October 17 against Alabama, which is an orange home game with Alabama also in color.
 
-**When does Tennessee wear the Smokey Grey uniform in 2026?**
+**When did Tennessee wear the Smokey Grey uniform in 2026?**
 
-October 3 against Auburn at Neyland Stadium. The Smokey Grey Series is a once-a-season uniform, and 2026's version is a tribute to General Robert Neyland marking one hundred years since his first season as head coach.
+It was worn October 3 against Auburn at Neyland Stadium, a 24-14 win, and is now retired for the year. The Smokey Grey Series is a once-a-season uniform, and 2026's version is a tribute to General Robert Neyland marking one hundred years since his first season as head coach.
 
 **What is on the 2026 Smokey Grey uniform?**
 

@@ -30,7 +30,7 @@ The 2026 story starts on August 5, the first day of fall camp, when Vanderbilt p
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/VandyFootball/status/2085178221562089511"></a></blockquote>
 </div>
 
-The other new thing on the jersey is a patch. Vanderbilt signed an all-sports jersey patch deal with SRM Concrete in July, brokered by Learfield, covering all seventeen sports beginning with the 2026-27 athletic year. SRM is run by Vanderbilt alum Jeff Hollingshead and already had its name on the club area at FirstBank Stadium. It makes Vanderbilt the third SEC program with a patch, after Arkansas with Tyson Foods and LSU with Woodside Energy, and the small black-and-white SRM mark has been on the right side of the chest in both games.
+The other new thing on the jersey is a patch. Vanderbilt signed an all-sports jersey patch deal with SRM Concrete in July, brokered by Learfield, covering all seventeen sports beginning with the 2026-27 athletic year. SRM is run by Vanderbilt alum Jeff Hollingshead and already had its name on the club area at FirstBank Stadium. It makes Vanderbilt the third SEC program with a patch, after Arkansas with Tyson Foods and LSU with Woodside Energy, and the small black-and-white SRM mark has been on the right side of the chest in every game.
 
 ## The Full Vanderbilt 2026 Uniform Schedule, Week by Week
 
@@ -100,13 +100,13 @@ The [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) has 
 
 ## The Bottom Line
 
-Vanderbilt is three games into 2026 and has already worn three different jerseys, two helmets and one pair of pants. White pants started the first four games before Vanderbilt announced black pants for Georgia, the black home jersey is the default, white is locked on the road because the SEC says so, and the gold is the variable. The helmet question got its first real answer against NC State, when the white shell that opened the year gave way to the black one. The strange part is that the gold has been worn and the reveal still has not happened, because the helmet and the pants stayed white when the jersey went gold. Ole Miss and Alabama are the home dates to circle if you want to see the whole thing at once. The grid above has every game, and we fill in the stars as each combination is confirmed.
+Vanderbilt is five games into 2026 and has already worn three different jerseys, three helmets and two colors of pants. White pants started the first four games before black pants came out at Georgia, the black home jersey is the default, white is locked on the road because the SEC says so, and the gold is the variable. The helmet question got its first real answer against NC State, when the white shell that opened the year gave way to the black one. The strange part is that the gold has been worn and the reveal still has not happened, because the helmet and the pants stayed white when the jersey went gold. Ole Miss and Alabama are the home dates to circle if you want to see the whole thing at once. The grid above has every game, and we fill in the stars as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Vanderbilt wearing this week?**
 
-Vanderbilt wore the gold helmet, white jersey and white pants at Auburn on Saturday, September 26, and lost 21-15. The week before, the Commodores hosted NC State in the black helmet, black jersey and white pants and won 35-31. Next is a trip to No. 2 Georgia on Saturday, October 3, and Vanderbilt has confirmed a white helmet, white jersey and black pants for it. We update the grid above the moment the team posts each game day fit.
+Vanderbilt wore the white helmet, white jersey and black pants at No. 2 Georgia on Saturday, October 3, as posted and confirmed on the broadcast, and lost 38-14 to fall to 3-2. The week before, the Commodores wore the gold helmet, white jersey and white pants at Auburn. Next is Ole Miss at FirstBank Stadium on October 10, where black is expected. We update the grid above the moment the team posts each game day fit.
 
 **What are Vanderbilt's football uniforms for 2026?**
 

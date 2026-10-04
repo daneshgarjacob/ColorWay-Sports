@@ -100,17 +100,17 @@ Wake Forest also asked the stands to match the uniform. A blackout is a fan them
 
 ## The Bottom Line
 
-Wake Forest has worn the matte black helmet in all three games so far, which tells you how this closet works: the shell almost never changes, the jersey is decided by whether the game is at home, and the pants carry whatever variety there is. Black over gold is the signature. Black over black is the statement, and the Demon Deacons spent it on Miami, a 33-20 loss in the ACC opener where the uniform outplayed the scoreboard. The five remaining road games all point to white. The four remaining home games all start from black, and Halloween against Virginia is the date to watch for something extra. The grid above has every game, and we add the star as each uniform is confirmed.
+Wake Forest wore the matte black helmet in its first three games, then went to a gold helmet with WAKE on the side at Louisville and a black helmet with the gold Deacs script against Stanford. The jersey is still decided by whether the game is at home, and the pants carry most of the variety. Black over gold is the signature. Black over black is the statement: the Demon Deacons spent it on Miami, a 33-20 loss in the ACC opener where the uniform outplayed the scoreboard, then went all black again with gold trim for a 57-3 rout of Stanford. The four remaining road games all point to white. The three remaining home games all start from black, and Halloween against Virginia is the date to watch for something extra. The grid above has every game, and we add the star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Wake Forest wearing this week?**
 
-Wake Forest wore the gold helmet, white jersey and gold pants at No. 16 Louisville on Saturday, September 26, and won 30-27 on a late Connor Calvert field goal. The week before, the Deacons wore the all black Dark Mode uniform against Miami: matte black helmet, black jersey and black pants, in a 33-20 loss. Next is Stanford at home on Saturday, October 3, and Wake Forest has confirmed all black again: a black helmet with the gold "Deacs" script, a black jersey with old gold numbers and black pants. The week-by-week grid above lists every game with the expected set.
+Wake Forest wore all black against Stanford on Saturday, October 3: a black helmet with the gold "Deacs" script, a black jersey with old gold numbers and black pants, as revealed and confirmed on the broadcast, in a 57-3 win. The week before, the Deacons wore the gold helmet, white jersey and gold pants in a 30-27 upset at No. 16 Louisville. Next is NC State on the road on October 10, where white is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are Wake Forest's football uniforms for 2026?**
 
-Two jerseys and two helmets. The black home jersey carries old gold numerals and a gold collar, and the white road jersey uses black numerals with a solid black collar and gold trim. Pants come in old gold, black and white. The helmets are a matte black shell with the gold block WF on both sides and a chrome gold shell with a black WF. The base design comes from Nike and dates to the 2019 cleanup that simplified the jerseys.
+Two jerseys and two helmets. The black home jersey carries old gold numerals and a gold collar, and the white road jersey uses black numerals with a solid black collar and gold trim. Pants come in old gold, black and white. The helmets are a matte black shell with the gold block WF on both sides and a chrome gold shell with a black WF, and in 2026 Wake has also worn a gold helmet with WAKE on the side at Louisville and a black helmet with a gold Deacs script against Stanford. The base design comes from Nike and dates to the 2019 cleanup that simplified the jerseys.
 
 **What did Wake Forest wear against Akron and Purdue?**
 

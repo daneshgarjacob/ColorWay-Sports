@@ -88,7 +88,7 @@ Wisconsin spent its first alternate on the opener, and it spent it well. An all-
 
 **What jersey is Wisconsin wearing this week?**
 
-Wisconsin wore the white Motion W helmet, red jersey and white pants for the 54-10 win over Eastern Michigan on September 19 at Camp Randall, confirmed from game photography rather than the broadcast. It is the same red home set the Badgers were expected in for the 36-9 win over Western Illinois on September 12, which we still have no published frame of. Wisconsin upset No. 13 Penn State 24-20 on September 26 at Beaver Stadium in all white, white Motion W helmet, white jersey and white pants, confirmed from the game photos. On October 3, Homecoming against Michigan State, Wisconsin wore the Red Out head to toe: the alternate red helmet with a white Motion W, red jersey with white numbers, red pants and red cleats. The Badgers won it 31-3. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+On October 3, Homecoming against Michigan State, Wisconsin wore the Red Out head to toe: the alternate red helmet with a white Motion W, red jersey with white numbers, red pants and red cleats, confirmed on the BTN broadcast. The Badgers won it 31-3 to move to 4-1. The week before, Wisconsin upset No. 13 Penn State 24-20 at Beaver Stadium in all white. After a bye on October 10, the Badgers play at UCLA on October 17, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What did Wisconsin wear against Notre Dame at Lambeau Field?**
 
@@ -100,11 +100,11 @@ Cardinal red jersey with white numerals, white pants and the white Motion W helm
 
 **Does Wisconsin have an alternate uniform in 2026?**
 
-Two so far. The all-red Lambeau Field set with silver numbers was worn against Notre Dame on September 6, and Wisconsin has confirmed the Red Out for Homecoming against Michigan State on October 3: the alternate red helmet with a large white Motion W and white center stripes, the red jersey with white numbers, red pants and red cleats.
+Two so far. The all-red Lambeau Field set with silver numbers was worn against Notre Dame on September 6, and Wisconsin wore the Red Out for Homecoming against Michigan State on October 3, a 31-3 win: the alternate red helmet with a large white Motion W and white center stripes, the red jersey with white numbers, red pants and red cleats.
 
-**What is Wisconsin wearing against Michigan State?**
+**What did Wisconsin wear against Michigan State?**
 
-The Red Out, confirmed by Wisconsin on October 1. Red helmet with a white Motion W, white stripes and a white facemask, red jersey with white numbers and two white sleeve stripes, red pants and red cleats, for Homecoming at Camp Randall Stadium on October 3. Michigan State is expected in white.
+The Red Out, announced by Wisconsin on October 1 and confirmed on the broadcast. Red helmet with a white Motion W, white stripes and a white facemask, red jersey with white numbers and two white sleeve stripes, red pants and red cleats, for Homecoming at Camp Randall Stadium on October 3. Michigan State wore a green helmet and white jersey, and Wisconsin won 31-3.
 
 **How many games does Wisconsin play in 2026?**
 

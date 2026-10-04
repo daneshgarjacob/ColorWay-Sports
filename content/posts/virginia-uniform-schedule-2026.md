@@ -13,7 +13,7 @@ teams: ["virginia-cavaliers", "acc"]
 resurfaceOnUpdate: true
 ---
 
-Virginia has three jersey colors, two helmets and a staff that treats every Saturday as a fresh decision. This is the full Virginia 2026 uniform schedule: the orange home set, the all navy look, the white road jersey, the helmet rotation, and a week by week outlook for all twelve games, starting with a Duke's Mayo Classic trip to Charlotte in a combination straight out of the 1980s. We update this page as each uniform is confirmed.
+Virginia has three jersey colors, two helmets and a staff that treats every Saturday as a fresh decision. This is the full Virginia 2026 uniform schedule: the orange home set, the all navy look, the white road jersey, the helmet rotation, and a week by week outlook for all twelve games, including a Duke's Mayo Classic trip to Charlotte in a combination straight out of the 1980s. We update this page as each uniform is confirmed.
 
 ## The Virginia 2026 Uniform Sets
 
@@ -30,7 +30,7 @@ The current Nike package is an update rather than a rebuild. Virginia rolled out
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UVAFootball/status/1813303957055250531"></a></blockquote>
 </div>
 
-What that leaves is a wardrobe with real range. Orange, navy and white jerseys, orange, navy and white pants, and two helmets add up to a lot of Saturdays that look different from each other. ACC home teams wear color and visitors wear white, so every road date on this schedule points to the white jersey and every home date is a question of which color and which helmet. Virginia has already used two completely different home looks in two games.
+What that leaves is a wardrobe with real range. Orange, navy and white jerseys, orange, navy and white pants, and two helmets add up to a lot of Saturdays that look different from each other. ACC home teams wear color and visitors wear white, so every road date on this schedule points to the white jersey and every home date is a question of which color and which helmet. Virginia has already used three completely different looks in three games at Scott Stadium.
 
 ## The Full Virginia 2026 Uniform Schedule, Week by Week
 
@@ -97,13 +97,13 @@ There is history in the building as well. Virginia's last trip to Bank of Americ
 
 ## The Bottom Line
 
-Two games in, Virginia has already worn two home looks that share nothing but a logo: orange over orange under the white helmet, then navy head to toe. Week 3 makes it three in a row, and the Charlotte combination is the most interesting of the group because it is the oldest, a white helmet and white pants around an orange jersey that the program wore in its 1980s rise. The road games are settled by ACC rules, so the white jersey is locked in at Florida State, SMU, Wake Forest and Virginia Tech. Everything left to decide happens at Scott Stadium, and the Friday night game against Duke on October 23 is the date to circle. The grid above has every game, and we add the star as each uniform is confirmed.
+Five games in, Virginia has worn five different combinations: orange over orange under the white helmet, navy head to toe, white helmet and white pants around an orange jersey in Charlotte, navy over white pants for the UVA Strong game, and white over navy pants at Florida State. The Charlotte combination is the most interesting of the group because it is the oldest, the look the program wore in its 1980s rise. The road games are settled by ACC rules, so the white jersey is locked in at SMU, Wake Forest and Virginia Tech, as it was at Florida State. Everything left to decide happens at Scott Stadium, and the Friday night game against Duke on October 23 is the date to circle. The grid above has every game, and we add the star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Virginia wearing this week?**
 
-Virginia wore the navy helmet, navy jersey and white pants against Delaware on Saturday, September 26, for the UVA Strong game, a 42-3 win at Scott Stadium, confirmed on the broadcast. The week before, the Cavaliers wore a white helmet, orange jersey and white pants in a 38-27 loss to West Virginia in Charlotte. Next up is at Florida State on October 3, where white is expected.
+Virginia wore the white helmet with an orange stripe, white jersey and navy pants at Florida State on Saturday, October 3, confirmed from the broadcast, in a 38-7 loss. The week before, the Cavaliers wore the navy helmet, navy jersey and white pants against Delaware for the UVA Strong game, a 42-3 win. Next up is Syracuse at Scott Stadium on October 10, where home color is expected.
 
 **What are Virginia's football uniforms for 2026?**
 
