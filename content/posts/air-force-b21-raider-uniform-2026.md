@@ -26,6 +26,8 @@ It debuted **Saturday, October 3 against Navy**, the first leg of the Commander-
 
 <p style="font-size: 0.78em; color: #7C8696; text-align: center; margin: -0.6em 0 1.6em;">Image: Air Force Athletics and Nike</p>
 
+<p style="font-size: 0.92em; color: #3a4a68; margin: 1.2em 0 1.6em;">Where to get it: <a href="https://fanatics.93n6tx.net/5kZn3j?subId1=air-force-b21-raider-uniform-2026&u=https%3A%2F%2Fwww.fanatics.com%2Fcollege%2Fair-force-falcons%2Fhats%2Fo-27%2Bt-45456521%2Bd-42331164%2Bz-96-1720654539" rel="sponsored noopener" target="_blank">Air Force Falcons hats, including the Air Power Legacy Series collection, at Fanatics</a>. That is an affiliate link and we earn a small commission if you buy.</p>
+
 ## What Is Actually On It
 
 The helmet is the piece that sells it. A matte black shell with a **dark camouflage wrap**, a black facemask, and **B-21** in small type above the mask where a player's number usually goes. There is no shine anywhere on it, which is the point of a stealth bomber.
@@ -79,9 +81,9 @@ The rest of Air Force's season is in our [Air Force 2026 uniform schedule](/stor
 
 ## Frequently Asked Questions
 
-**What uniform is Air Force wearing against Navy?**
+**What uniform did Air Force wear against Navy?**
 
-The 2026 Air Power Legacy Series B-21 Raider uniform: a matte black helmet with a dark camouflage wrap and B-21 above the facemask, a black jersey with chrome silver numerals, and black pants. Air Force wears it Saturday, October 3 at Falcon Stadium, 10 a.m. Mountain on CBS.
+The 2026 Air Power Legacy Series B-21 Raider uniform: a matte black helmet with a dark camouflage wrap and B-21 above the facemask, a black jersey with chrome silver numerals, and black pants. Air Force wore it Saturday, October 3 at Falcon Stadium and beat Navy 14-9.
 
 **What is the Air Power Legacy Series?**
 
@@ -98,5 +100,9 @@ Air Force Global Strike Command, the 412th Test Wing at Edwards Air Force Base, 
 **Does Air Force wear black every year?**
 
 No. Air Force's standard sets are white, silver and blue. The Air Power Legacy Series uniform is a one-game alternate, and its colors change with the aircraft being honored.
+
+**Can you buy the Air Force B-21 hat?**
+
+Yes. Air Force released a 2026 Air Power Legacy Series fan collection alongside the uniform, with B-21 Raider graphics on tees, hoodies, replica jerseys and hats in black and anthracite, sold through the official Air Force Falcons store and Fanatics. Sideline-issue staff gear can differ from the retail versions, so check the product photos before you buy.
 
 *Uniform images courtesy of Air Force Athletics and Nike. Air Force announced the uniform on August 25, 2026, with Northrop Grumman.*
