@@ -3,7 +3,7 @@ title: "Clemson Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: '2026-09-30'
+updatedDate: "2026-10-04"
 excerpt: "What Clemson wears every game in 2026, starting with orange in Baton Rouge on opening night, week by week."
 gradient: "linear-gradient(135deg, #F56600 0%, #b84a00 55%, #522D80 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
   <div style="background: #F56600; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Orange / White</div></div>
   <div style="background: #F56600; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Orange / White</div></div>
   <div style="background: #ffffff; color: #F56600; border: 2px solid #F56600; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / White</div></div>
-  <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
+  <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Orange / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charleston Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
@@ -52,7 +52,7 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
 
 **September 25 at California.** ★ Confirmed from the broadcast: **orange Tiger Paw helmet, white jersey, white pants**, the standard road set, for a Friday night kickoff at 10:30 p.m. Eastern on ESPN. Cal wore a navy helmet, gold jersey and navy pants for its Gold Out. Clemson won 24-10, with Bryant Wesco Jr. returning a punt 65 yards for a touchdown, and moved to 3-1. The other side of it is on our [Cal 2026 uniform schedule](/stories/cal-uniform-schedule-2026).
 
-**October 3 vs. Miami**, 7:30 p.m. ET on ABC. Orange expected. Miami has confirmed its all white road set, white helmet, white jersey and white pants, so Death Valley gets orange against white in prime time. See our [Miami 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026).
+**October 3 vs. Miami**, 7:30 p.m. ET on ABC. ★ Confirmed from the broadcast: **orange helmet, orange jersey, white pants**, the home orange in prime time. Miami wore the all white road set it announced, white helmet, white jersey and white pants. Miami won 41-13, and Clemson fell to 3-2. See our [Miami 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026).
 
 **October 10.** Bye.
 

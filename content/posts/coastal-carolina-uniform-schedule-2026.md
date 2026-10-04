@@ -3,7 +3,7 @@ title: "Coastal Carolina Uniform Schedule 2026: Every Jersey and When the Chanti
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: '2026-09-25'
+updatedDate: "2026-10-04"
 excerpt: "What Coastal Carolina wears every game in 2026: teal at home, white on the road, the Teal Out and Black Out dates, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #006F71 0%, #0a9a9a 55%, #111111 130%)"
 cardStyle: words
@@ -37,7 +37,7 @@ Under Armour outfits Coastal, and the whole closet is built around teal, bronze 
   <div style="background: #ffffff; color: #006F71; border: 2px solid #006F71; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Fordham</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #006F71; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Delaware</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Teal / White / Teal</div></div>
   <div style="background: #006F71; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 24 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Liberty</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Teal</div></div>
-  <div style="background: #006F71; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal</div></div>
+  <div style="background: #006F71; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Teal / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Marshall</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #006F71; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -68,7 +68,7 @@ Under Armour outfits Coastal, and the whole closet is built around teal, bronze 
 
 **September 24 vs. Liberty.** ★ Confirmed from team photography: **teal helmet, teal jersey with black side panels, teal pants**, all teal for the Teal Out on the teal turf at Brooks Stadium. Coastal led at halftime and lost 34-17 to fall to 1-3. Liberty wore all white, and we cover the visitors on our [Liberty 2026 uniform schedule](/stories/liberty-uniform-schedule-2026).
 
-**October 3 vs. Georgia Southern.** Teal expected. The Sun Belt opener doubles as Family Weekend and Hall of Fame weekend in Conway.
+**October 3 vs. Georgia Southern.** ★ Confirmed from the broadcast: **white helmet, teal jersey, white pants** for the Sun Belt opener, which doubled as Family Weekend and Hall of Fame weekend in Conway. Georgia Southern wore a navy helmet, white jersey and navy pants. Georgia Southern won 31-24, and Coastal fell to 1-4.
 
 **October 10 at Marshall.** White expected. Marshall's We Are Herd Strong game, with the Herd in green at Joan C. Edwards Stadium. More on our [Marshall 2026 uniform schedule](/stories/marshall-uniform-schedule-2026).
 

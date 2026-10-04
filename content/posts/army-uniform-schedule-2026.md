@@ -3,7 +3,7 @@ title: "Army Uniform Schedule 2026: Every Jersey and When the Black Knights Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Army wears every game in 2026: the black home jersey, the white road set, the gold helmet, and the December tribute uniform nobody has seen yet."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #D3BC8D 130%)"
 cardStyle: words
@@ -64,7 +64,7 @@ Everything else about this season comes down to pants. Black jersey with gold pa
 
 **September 25 at Temple.** ★ Confirmed from the broadcast: **black helmet, white jersey, black pants**. The white jersey was expected. The helmet was not: Army left the gold shell at home and wore a black one for its first road game of the season, at Lincoln Financial Field in Philadelphia on a Friday afternoon on ESPN, against Temple in all cherry. Army won 21-17, with Cale Hellums running for three touchdowns, the last one for the late lead, and moved to 2-1.
 
-**October 3 at Louisiana Tech**, 7:30 p.m. ET on ESPN+. ★ Confirmed by Army: **gold helmet, white jersey, white pants**. The gold helmet is back after the black shell at Temple, and the pants go white instead of black, so this is the cleanest road look Army has shown this season: gold on top, white everywhere else. It is a rare non-conference road trip to Ruston, and Louisiana Tech has not announced its uniform yet.
+**October 3 at Louisiana Tech**, 7:30 p.m. ET on ESPN+. ★ Confirmed by Army: **gold helmet, white jersey, white pants**. The gold helmet is back after the black shell at Temple, and the pants go white instead of black, so this is the cleanest road look Army has shown this season: gold on top, white everywhere else. It is a rare non-conference road trip to Ruston, and Louisiana Tech has not announced its uniform yet. ★ Confirmed from the broadcast: Army wore the **gold helmet, white jersey and white pants** it announced. Louisiana Tech wore a red helmet and a blue jersey. Louisiana Tech won 31-29, and Army fell to 2-2.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArmyWP_Football/status/2105728452234018871"></a></blockquote>

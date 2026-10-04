@@ -3,7 +3,7 @@ title: "Boise State Uniform Schedule 2026: Every Jersey and When the Broncos Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "Every Boise State jersey and uniform in 2026: blue on The Blue, white on the road, the 40th anniversary helmet, and the full Broncos schedule week by week."
 gradient: "linear-gradient(135deg, #0033A0 0%, #10275C 55%, #D64309 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 **September 26 at Western Michigan.** ★ Confirmed from the game photos: **blue helmet, white jersey, white pants.** Western Michigan wore a brown jersey and appeared to wear a white helmet and brown pants, which we only saw in the background. A Broncos-versus-Broncos game in Kalamazoo, and Boise State won it 32-7 to move to 3-1.
 
-**October 3 vs. Utah State**, Albertsons Stadium, 7:30 p.m. ET on CBS Sports Network. ★ Confirmed by Boise State: **blue helmet, blue jersey, blue pants.** All blue on The Blue for the Pac-12 home opener, the full home look we have been waiting on since the Memphis game, this time with the standard blue shell instead of the 40th anniversary helmet. Fans are asked to stripe the stadium in blue and orange. Utah State has confirmed all white with its throwback Jumpin' Cow logo on the white helmet, so it is blue on blue against white. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
+**October 3 vs. Utah State**, Albertsons Stadium, 7:30 p.m. ET on CBS Sports Network. ★ Confirmed by Boise State: **blue helmet, blue jersey, blue pants.** All blue on The Blue for the Pac-12 home opener, the full home look we have been waiting on since the Memphis game, this time with the standard blue shell instead of the 40th anniversary helmet. Fans are asked to stripe the stadium in blue and orange. Utah State has confirmed all white with its throwback Jumpin' Cow logo on the white helmet, so it is blue on blue against white. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026). ★ Confirmed from the broadcast: **blue helmet, blue jersey, blue pants**, all blue as announced, and Utah State wore white helmet, white jersey and white pants. Boise State won 37-18 to move to 4-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BroncoSportsFB/status/2105780945823334908"></a></blockquote>

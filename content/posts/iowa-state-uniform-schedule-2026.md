@@ -3,7 +3,7 @@ title: "Iowa State Uniform Schedule 2026: Every Jersey and When the Cyclones Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "Iowa State uniform schedule 2026: every Cyclones jersey by week, the cardinal home uniform, the all-white road look worn at Iowa, and what ISU wears next."
 gradient: "linear-gradient(135deg, #C8102E 0%, #9e0b23 55%, #F1BE48 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 **September 26 vs. Utah.** ★ Confirmed by Iowa State: the **Whiteout**, all white with black lettering and accents, the script Cyclones helmet and black stripes across the shoulders. We had cardinal down. The Big 12 opener at Jack Trice Stadium, 2:30 p.m. Central on FOX. Confirmed on the broadcast too: white helmet, white jersey, white pants, against Utah in all red. Utah led 24-3 at the half, Iowa State pulled within 24-17 in the fourth quarter, and the Utes won 31-17. The Cyclones are 2-2. Utah is on the [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026).
 
-**October 3 vs. West Virginia**, noon ET on TNT. ★ Confirmed by Iowa State: **cardinal helmet, cardinal jersey, cardinal pants**, all cardinal, revealed as the "homecoming threads." The helmet is the cardinal shell with "Cyclones" in script on the side, the script look that has been the default for three seasons. It is the first time this season Iowa State has gone cardinal on the pants too, after white pants in every color game so far, so Homecoming gets the one change we were watching for. West Virginia has also confirmed its look: white helmet, white jersey and navy pants. That is cardinal head to toe against white over navy at Jack Trice Stadium. The Mountaineers' side is on the [West Virginia 2026 uniform schedule](/stories/west-virginia-uniform-schedule-2026).
+**October 3 vs. West Virginia**, noon ET on TNT. ★ Confirmed by Iowa State: **cardinal helmet, cardinal jersey, cardinal pants**, all cardinal, revealed as the "homecoming threads." The helmet is the cardinal shell with "Cyclones" in script on the side, the script look that has been the default for three seasons. It is the first time this season Iowa State has gone cardinal on the pants too, after white pants in every color game so far, so Homecoming gets the one change we were watching for. West Virginia has also confirmed its look: white helmet, white jersey and navy pants. That is cardinal head to toe against white over navy at Jack Trice Stadium. The Mountaineers' side is on the [West Virginia 2026 uniform schedule](/stories/west-virginia-uniform-schedule-2026). ★ Confirmed from the game photos: Iowa State wore the **cardinal helmet, cardinal jersey and cardinal pants** it announced, and West Virginia wore the white helmet, white jersey and navy pants. Iowa State held on to win 45-42 on Homecoming and moved to 3-2.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CycloneFB/status/2105724555452899351"></a></blockquote>

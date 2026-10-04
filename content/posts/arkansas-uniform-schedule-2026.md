@@ -3,7 +3,7 @@ title: "Arkansas Uniform Schedule 2026: Every Jersey and When the Razorbacks Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "Arkansas jersey schedule 2026: cardinal home uniforms, the all-white road look worn at Utah, the new Tyson patch, and every Razorbacks game week by week."
 gradient: "linear-gradient(135deg, #9D2235 0%, #7a1a29 55%, #ffffff 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ The base sets are what Arkansas fans call the D-Mac era uniforms, a modern take 
 
 **September 26 vs. Tulsa.** ★ Confirmed from the broadcast: **cardinal helmet, cardinal jersey, white pants**, the standard home set for the last non-conference game of the season. Tulsa came in all white. KJ Jackson threw for 309 yards and ran for two touchdowns, Chris Marshall caught nine passes for 195 yards, Max Gilbert kicked four field goals, and Arkansas won 34-6 to get to 2-2. More: [Tulsa uniform schedule](/stories/tulsa-uniform-schedule-2026).
 
-**October 3 at Texas A&M**, Kyle Field, 7 p.m. ET on ESPN2. ★ Confirmed by Arkansas: **cardinal helmet, white jersey, white pants.** It is the standard road set, not the all-white look from Utah: the cardinal shell comes back on top of the white jersey and white pants. The Southwest Classic has produced Arkansas specials before, including Cowboys-inspired jerseys in 2017 and white helmets over cardinal jerseys in 2023, but this year the Razorbacks are leaving the spectacle to the other sideline. Texas A&M has confirmed its desert camo Honor and Support uniform, camo helmet, camo jersey and maroon pants, covered on our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026), so it is cardinal and white against camo.
+**October 3 at Texas A&M**, Kyle Field, 7 p.m. ET on ESPN2. ★ Confirmed by Arkansas: **cardinal helmet, white jersey, white pants.** It is the standard road set, not the all-white look from Utah: the cardinal shell comes back on top of the white jersey and white pants. The Southwest Classic has produced Arkansas specials before, including Cowboys-inspired jerseys in 2017 and white helmets over cardinal jerseys in 2023, but this year the Razorbacks are leaving the spectacle to the other sideline. Texas A&M has confirmed its desert camo Honor and Support uniform, camo helmet, camo jersey and maroon pants, covered on our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026), so it is cardinal and white against camo. ★ Confirmed from the broadcast: Arkansas wore exactly that, **cardinal helmet, white jersey, white pants**, and Texas A&M wore the desert camo helmet and jersey with maroon pants. Texas A&M won 34-7, and Arkansas fell to 2-3.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RazorbackFB/status/2105764791558291646"></a></blockquote>

@@ -3,7 +3,7 @@ title: "Florida State Uniform Schedule 2026: Every Jersey and When the Seminoles
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-04"
 excerpt: "Florida State's 2026 uniform schedule: every FSU jersey, helmet and pants combo, garnet home, white road, turquoise and alternates, week by week."
 gradient: "linear-gradient(135deg, #782F40 0%, #8f3a4e 55%, #CEB888 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ The current closet comes from the Nike refresh FSU unveiled at the 2023 spring g
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Garnet</div></div>
   <div style="background: #782F40; color: #ffffff; border: 2px solid #CEB888; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Central Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Garnet / Gold</div></div>
-  <div style="background: #782F40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
+  <div style="background: #782F40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Garnet / Garnet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -56,7 +56,7 @@ The current closet comes from the Nike refresh FSU unveiled at the 2023 spring g
 
 **September 26 vs. Central Arkansas.** ★ Confirmed from the broadcast: **gold helmet, garnet jersey, gold pants**, the traditional home set, for Family Weekend and Hall of Fame Weekend at Doak Campbell. Central Arkansas wore a purple helmet, white jersey and purple pants. Ashton Daniels threw touchdown passes to Duce Robinson and Jayvan Boggs, Ousmane Kromah ran for two scores, and Florida State won 34-7 to get back to 2-2.
 
-**October 3 vs. Virginia.** Garnet expected. This is FSU's Cancer Awareness game and the ACC home opener. When FSU visited Charlottesville last season, it wore all white with the white helmet.
+**October 3 vs. Virginia.** ★ Confirmed from the broadcast: **gold helmet, garnet jersey, garnet pants** for FSU's Cancer Awareness game and the ACC home opener. Virginia wore a white helmet, white jersey and navy pants. Florida State won 38-7 to move to 3-2. When FSU visited Charlottesville last season, it wore all white with the white helmet.
 
 **October 9 at Louisville.** White expected. It is a Friday night game on ESPN, 7 p.m. Eastern.
 

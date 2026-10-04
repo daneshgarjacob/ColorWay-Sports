@@ -3,7 +3,7 @@ title: "BYU Uniform Schedule 2026: Every Jersey and When the Cougars Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What BYU wears every game in 2026: royal home jerseys, white road uniforms, navy looks, helmet swaps, and the full Cougars uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002E5D 0%, #0062B8 55%, #ffffff 130%)"
 cardStyle: words
@@ -56,7 +56,7 @@ Starred cells are confirmed and list helmet / jersey / pants. Unstarred cells sh
 
 **September 26.** Bye.
 
-**October 3 at TCU**, 7 p.m. ET on ESPN. ★ Confirmed by BYU: **royal blue helmet, white jersey, white pants**. BYU posted it as "back at it again with the white threads," with a Gameday Threads vs TCU graphic. It is the second straight road game in the white jersey and white pants, but the helmet changes: the white shell from Colorado State gives way to the royal one, so this is the first royal helmet over the white road set this season. TCU is expected in purple for its Big 12 home opener at Amon G. Carter Stadium.
+**October 3 at TCU**, 7 p.m. ET on ESPN. ★ Confirmed by BYU: **royal blue helmet, white jersey, white pants**. BYU posted it as "back at it again with the white threads," with a Gameday Threads vs TCU graphic. It is the second straight road game in the white jersey and white pants, but the helmet changes: the white shell from Colorado State gives way to the royal one, so this is the first royal helmet over the white road set this season. TCU is expected in purple for its Big 12 home opener at Amon G. Carter Stadium. ★ Confirmed from the broadcast: BYU wore the **royal blue helmet, white jersey and white pants**, and TCU wore purple. BYU won 17-10 to move to 4-0.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2104579931846115725"></a></blockquote>

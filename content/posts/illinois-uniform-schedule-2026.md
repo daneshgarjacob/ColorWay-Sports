@@ -3,7 +3,7 @@ title: "Illinois Uniform Schedule 2026: Every Jersey and When the Illini Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Illinois wears every game in 2026: navy home jerseys, the white road set, the orange alternate, every helmet, and the full Fighting Illini uniform schedule."
 gradient: "linear-gradient(135deg, #13294B 0%, #1f3b66 55%, #E84A27 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
   <div style="background: #13294B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Navy / Orange</div></div>
   <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
-  <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #E84A27; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
@@ -52,7 +52,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 **September 26 at Ohio State.** ★ Confirmed from the game photos: **orange helmet, white jersey, orange pants**. Ohio State wore a silver helmet, scarlet jersey and gray pants. The Big Ten opener at Ohio Stadium, 11 a.m. Central on FOX, on the Buckeyes' Hall of Fame Weekend. Ohio State won 42-19, with Jeremiah Smith catching four touchdowns, and Illinois is 2-2. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) tracks the home side.
 
-**October 3 vs. Purdue.** Navy expected, with an asterisk. It is Homecoming and a "Hail to the Orange Out," and Illinois has the all-orange set in the closet, so orange is a real possibility for the Purdue Cannon game. Purdue has confirmed the gold helmet, white jersey and gold pants, per the [Purdue 2026 uniform schedule](/stories/purdue-uniform-schedule-2026). Kickoff is 4:15 p.m. ET on BTN.
+**October 3 vs. Purdue.** ★ Confirmed from the broadcast: **orange helmet, orange jersey, orange pants**, so the asterisk won: Illinois went all orange for Homecoming and the "Hail to the Orange Out" in the Purdue Cannon game. Purdue wore the gold helmet, white jersey and gold pants it announced, per the [Purdue 2026 uniform schedule](/stories/purdue-uniform-schedule-2026). Purdue won 24-17 and took the Cannon, and Illinois fell to 2-3.
 
 **October 10 at Michigan State.** White expected. It is Michigan State's Homecoming at Spartan Stadium, with the Spartans in green. The [Michigan State 2026 uniform schedule](/stories/michigan-state-uniform-schedule-2026) has their side.
 
@@ -90,7 +90,7 @@ Orange, almost every week. The primary has the navy block I, and the alternates 
 
 **Is Illinois wearing orange for the Purdue game?**
 
-Maybe. The October 3 Homecoming game against Purdue is a "Hail to the Orange Out," and Illinois has an all-orange uniform. The program has not announced the uniform yet, so our grid holds the navy home default until it does.
+Yes. Illinois wore the all-orange set, orange helmet, orange jersey and orange pants, for the October 3 Homecoming game against Purdue, a "Hail to the Orange Out." We confirmed it from the broadcast. Purdue won 24-17.
 
 **What did Illinois wear against Duke?**
 

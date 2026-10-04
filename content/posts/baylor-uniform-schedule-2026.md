@@ -3,7 +3,7 @@ title: "Baylor Uniform Schedule 2026: Every Jersey, and When the Gold Chrome Thr
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Baylor wears every game in 2026, week by week, including the date the gold chrome throwback uniform hits McLane Stadium."
 gradient: "linear-gradient(135deg, #154734 0%, #0c2a1f 55%, #FFB81C 130%)"
 homepageHero: false
@@ -102,7 +102,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **September 26 vs. Colorado**, Waco. **The Traditions Game, and the gold chrome throwback debut.** ★ Confirmed from the broadcast: **gold chrome helmet with the green stripe, green jersey with BAYLOR across the chest, white pants**. Colorado wore a black helmet, gold jersey and black pants. Baylor won the Big 12 opener 23-13 and is 3-1.
 
-**October 3 at Arizona State**, Tempe, 10:30 p.m. ET on ESPN. ★ Confirmed by Baylor: **white helmet, white jersey, green pants.** The white helmet carries the green and gold center stripe, and the green pants keep the road set from going all white. Baylor billed it as its attire for Arizona State and its Game Five fit. Arizona State has announced its Maroon Monsoon look for its Big 12 home opener: a maroon chrome helmet with a gold pitchfork and maroon facemask, and a maroon jersey with a gold ARIZONA STATE wordmark, so it will be white and green against maroon. Our [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026) has the Sun Devils' side.
+**October 3 at Arizona State**, Tempe, 10:30 p.m. ET on ESPN. ★ Confirmed by Baylor: **white helmet, white jersey, green pants.** The white helmet carries the green and gold center stripe, and the green pants keep the road set from going all white. Baylor billed it as its attire for Arizona State and its Game Five fit. Arizona State has announced its Maroon Monsoon look for its Big 12 home opener: a maroon chrome helmet with a gold pitchfork and maroon facemask, and a maroon jersey with a gold ARIZONA STATE wordmark, so it will be white and green against maroon. Our [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026) has the Sun Devils' side. ★ Confirmed from the broadcast: Baylor wore the **white helmet, white jersey and green pants** it announced, and Arizona State went all maroon, maroon pants included. Baylor won 55-19 to move to 4-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BUFootball/status/2105755842587070785"></a></blockquote>

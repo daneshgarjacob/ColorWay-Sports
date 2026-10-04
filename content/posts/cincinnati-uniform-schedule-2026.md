@@ -3,7 +3,7 @@ title: "Cincinnati Uniform Schedule 2026: Every Jersey and When the Bearcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: '2026-10-01'
+updatedDate: "2026-10-04"
 excerpt: "Cincinnati Bearcats uniform schedule 2026: every jersey and helmet week by week, from the all-red opener to black at Nipp at Night and white on the road."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #E00122 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
 
 **September 26 vs. Kansas State.** ★ Confirmed from the broadcast: **black helmet with the red logo, black jersey, black pants**, all black for the Big 12 opener under the lights at Nippert. Kansas State came in with the silver helmet, white jersey and silver pants. The Bearcats trailed 17-10 at halftime, then Cole Tabb ran for three second half touchdowns and Gi'Bran Payne ran for 126 yards, and Cincinnati won 31-26 to move to 4-0. See the [Kansas State 2026 uniform schedule](/stories/kansas-state-uniform-schedule-2026) for the Wildcats' side.
 
-**October 3 at Arizona**, 11 p.m. ET on FOX. ★ Confirmed by Cincinnati: **white helmet, white jersey, white pants.** The program posted it as its road threads, and it is the first time in 2026 the Bearcats have gone head to toe white, after four home games in red and black. It is also the first Big 12 road game of the season, and Arizona is expected in navy for its Big 12 home opener and Family Weekend, so Casino Del Sol Stadium should get white against navy. The [Arizona 2026 uniform schedule](/stories/arizona-uniform-schedule-2026) has the Wildcats' side.
+**October 3 at Arizona**, 11 p.m. ET on FOX. ★ Confirmed by Cincinnati: **white helmet, white jersey, white pants.** The program posted it as its road threads, and it is the first time in 2026 the Bearcats have gone head to toe white, after four home games in red and black. It is also the first Big 12 road game of the season, and Arizona is expected in navy for its Big 12 home opener and Family Weekend, so Casino Del Sol Stadium should get white against navy. The [Arizona 2026 uniform schedule](/stories/arizona-uniform-schedule-2026) has the Wildcats' side. ★ Confirmed from the broadcast: Cincinnati wore the **white helmet, white jersey and white pants** it announced, and Arizona wore a white helmet with a navy jersey and navy pants. Arizona won 34-7, and Cincinnati fell to 4-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoBearcatsFB/status/2105764802584814042"></a></blockquote>
