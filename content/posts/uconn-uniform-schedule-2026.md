@@ -3,7 +3,7 @@ title: "UConn Uniform Schedule 2026: Every Jersey and When the Huskies Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What UConn wears every game in 2026: the navy home set, the white road set, the new red alternate jersey, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1d3b66 55%, #E4002B 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["uconn-huskies", "fbs-independents"]
 resurfaceOnUpdate: true
 ---
 
-UConn has not worn an alternate uniform since 2016, and that streak is about to end. The Huskies revealed a red jersey in August, the first primarily red jersey any UConn team is believed to have worn, and it has not been assigned a date yet. This is the full UConn 2026 uniform schedule: the navy home set, the white road set, the new red alternate, and a week-by-week outlook for all twelve games in Jason Candle's first season, including a Friday night game at The Rent. We update this page as each combination is confirmed.
+UConn has not worn an alternate uniform since 2016, and that streak is about to end. The Huskies revealed a red jersey in August, the first primarily red jersey any UConn team is believed to have worn, and it debuted on October 3 for Homecoming against Syracuse. This is the full UConn 2026 uniform schedule: the navy home set, the white road set, the new red alternate, and a week-by-week outlook for all twelve games in Jason Candle's first season, including a Friday night game at The Rent. We update this page as each combination is confirmed.
 
 ## The UConn 2026 Uniform Sets
 
@@ -49,7 +49,7 @@ It looks like a standalone jersey. There is no red helmet and no red pants, so e
   <div style="background: #0C2340; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #000E2F; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami (OH)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Navy</div></div>
-  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #C8102E; color: #ffffff; border: 2px solid #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Red / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UMass</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
@@ -68,7 +68,7 @@ It looks like a standalone jersey. There is no red helmet and no red pants, so e
 
 **September 26 at Miami (OH).** ★ Confirmed from the broadcast: **white helmet, white jersey, navy pants**, a change from the all white at Southern Miss. Miami wore a white helmet, red jersey and white pants at Yager Stadium. UConn led 13-0 in the first quarter, but the RedHawks came back to win 24-21, and both teams are 2-2.
 
-**October 3 vs. Syracuse.** Navy expected. Homecoming at The Rent against the old Big East rival, noon on CBS Sports Network, with Syracuse expected in white. Homecoming is one of the two dates on any schedule where a new alternate is most likely to debut. Our [Syracuse 2026 uniform schedule](/stories/syracuse-uniform-schedule-2026) has the Orange side.
+**October 3 vs. Syracuse.** ★ Confirmed from the broadcast: **navy helmet, red jersey, navy pants**, the debut of the new red alternate, not the navy jersey we expected. Homecoming brought the red top, with navy numbers, under the navy shell with navy pants, and the red matches the red outline on the UConn end zone lettering in the same frame. Syracuse wore an orange helmet, white jersey and orange pants. UConn scored 27 straight points to get back into it and scored first in overtime, but Amari Odom hit Umari Hatcher on 4th-and-goal and ran in the 2-point conversion, and Syracuse won 42-41. UConn is 2-3. Our [Syracuse 2026 uniform schedule](/stories/syracuse-uniform-schedule-2026) has the Orange side.
 
 **October 10 at Temple.** White expected. Lincoln Financial Field in Philadelphia, kickoff time to be announced, against a Temple team in cherry. See our [Temple 2026 uniform schedule](/stories/temple-uniform-schedule-2026).
 
@@ -94,7 +94,7 @@ Here is the home slate the way UConn announced it in January, the first graphic 
 
 ## When Will UConn Wear the Red Jersey?
 
-UConn has not said, and nothing on the schedule is labeled as a red game. Here is how we read it. The jersey is built for the home crowd, the reveal video is about the noise at The Rent, and college road teams wear white unless the home team agrees otherwise. That points to the seven home dates. Homecoming against Syracuse on October 3 is the obvious debut: the biggest crowd of the year, an old conference rival and a noon national TV window. The Friday night game against UMass on October 23 is the backup, because night games are where alternates look best. We will star the date the moment UConn confirms it.
+UConn has not said, and nothing on the schedule is labeled as a red game. Here is how we read it. The jersey is built for the home crowd, the reveal video is about the noise at The Rent, and college road teams wear white unless the home team agrees otherwise. That points to the seven home dates. Homecoming against Syracuse on October 3 is the obvious debut: the biggest crowd of the year, an old conference rival and a noon national TV window. The Friday night game against UMass on October 23 is the backup, because night games are where alternates look best. Update: it was Homecoming. UConn wore the red jersey with the navy helmet and navy pants against Syracuse on October 3, confirmed from the CBS Sports Network broadcast.
 
 ## The Bottom Line
 
@@ -112,7 +112,7 @@ A navy home jersey with white numerals, a white road jersey with navy numerals t
 
 **Does UConn have a red jersey?**
 
-Yes. UConn revealed a red alternate jersey on August 26, 2026, its first alternate since 2016 and believed to be the first primarily red jersey any UConn team has worn. It uses the same design as the white road jersey. There is no red helmet or red pants. UConn has not announced when the Huskies will wear it.
+Yes. UConn revealed a red alternate jersey on August 26, 2026, its first alternate since 2016 and believed to be the first primarily red jersey any UConn team has worn. It uses the same design as the white road jersey. There is no red helmet or red pants. UConn debuted it on October 3, 2026 for Homecoming against Syracuse, with the navy helmet and navy pants.
 
 **What did UConn wear against Maryland?**
 

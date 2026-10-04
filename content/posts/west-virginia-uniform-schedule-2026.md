@@ -3,7 +3,7 @@ title: "West Virginia Uniform Schedule 2026: Every Jersey and When the Mountaine
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "West Virginia uniform schedule 2026: every Mountaineers jersey by week, the White Out opener, Gold Rush, Coal Rush black uniforms, and what WVU wears this week."
 gradient: "linear-gradient(135deg, #002855 0%, #0b3a6e 55%, #EAAA00 130%)"
 cardStyle: words
@@ -54,7 +54,7 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
 
 **September 26 vs. Oklahoma State.** ★ Confirmed pregame and confirmed from the broadcast: **navy helmet with the gold Flying WV, gold jersey, navy pants** for Gold Rush, posted as ["GOLD RUSH, Game 4"](https://x.com/WVUfootball/status/2103260374573236271). West Virginia wore gold pants with the gold jersey for Gold Rush last season, and this time went traditional below the belt. Oklahoma State came in with a black helmet, white jersey and black pants. Mike Hawkins Jr. ran for three touchdowns and the Mountaineers led 14-3, but the Cowboys scored 38 of the last 48 points and won 41-24, and West Virginia fell to 3-1 in the Big 12 opener. See what the Cowboys pack on the [Oklahoma State 2026 uniform schedule](/stories/oklahoma-state-uniform-schedule-2026).
 
-**October 3 at Iowa State**, noon ET on TNT. ★ Confirmed by West Virginia: **white helmet, white jersey, navy pants**, revealed under the line "Headed to the Heartland, Game 5." It is the first Big 12 road game, at Jack Trice Stadium, and a fifth different look in five games: the white top half from the Pat White opener, with navy pants underneath instead of white. Iowa State has confirmed all cardinal for Homecoming, a cardinal helmet with "Cyclones" in script, cardinal jersey and cardinal pants, so it is white over navy against cardinal head to toe. The Cyclones' side is on our [Iowa State 2026 uniform schedule](/stories/iowa-state-uniform-schedule-2026).
+**October 3 at Iowa State**, noon ET on TNT. ★ Confirmed by West Virginia: **white helmet, white jersey, navy pants**, revealed under the line "Headed to the Heartland, Game 5." It is the first Big 12 road game, at Jack Trice Stadium, and a fifth different look in five games: the white top half from the Pat White opener, with navy pants underneath instead of white. Iowa State has confirmed all cardinal for Homecoming, a cardinal helmet with "Cyclones" in script, cardinal jersey and cardinal pants, so it is white over navy against cardinal head to toe. The Cyclones' side is on our [Iowa State 2026 uniform schedule](/stories/iowa-state-uniform-schedule-2026). ★ West Virginia's own game photos match: **white helmet, white jersey, navy pants** with a gold stripe, worn as posted. Iowa State won a 45-42 shootout in which the teams combined for over 1,000 yards: Aiden Flora accounted for five touchdowns, the go-ahead score coming with 1:57 left, and Beni Ngoyi forced and recovered a fumble with 59 seconds left to seal it. West Virginia fell to 3-2.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WVUfootball/status/2105801326365987039"></a></blockquote>

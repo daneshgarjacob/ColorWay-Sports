@@ -3,7 +3,7 @@ title: "TCU Uniform Schedule 2026: The Black Ireland Alternate, the Clover Frog 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What TCU wears every game in 2026, starting with the black Frog Horn alternate and the Clover Frog helmet for the Dublin opener against North Carolina."
 gradient: "linear-gradient(135deg, #4D1979 0%, #111111 60%, #A3A9AC 130%)"
 cardStyle: words
@@ -55,7 +55,7 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
   <div style="background: #4D1979; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Grambling</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / Black</div></div>
   <div style="background: #4D1979; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple, Frogs Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #4D1979; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Purple</div></div>
-  <div style="background: #4D1979; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
+  <div style="background: #4D1979; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4D1979; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
@@ -74,7 +74,7 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
 
 **September 26 at UCF**, Acrisure Bounce House. ★ Confirmed from the game photos: **white helmet, white jersey, purple pants**. UCF wore a gold helmet, black jersey and white pants. UCF won the Big 12 game 21-13, and TCU fell to 2-2. More: [UCF uniform schedule](/stories/ucf-uniform-schedule-2026).
 
-**October 3 vs. BYU**, Amon G. Carter Stadium. Big 12 home opener. Purple expected. BYU has confirmed a royal blue helmet, white jersey and white pants, per the [BYU 2026 uniform schedule](/stories/byu-uniform-schedule-2026).
+**October 3 vs. BYU**, Amon G. Carter Stadium. Big 12 home opener. ★ Confirmed from the broadcast: **purple helmet, purple jersey, black pants**. BYU wore the royal blue helmet, white jersey and white pants it had announced, per the [BYU 2026 uniform schedule](/stories/byu-uniform-schedule-2026). On a rainy night, the game was tied 7-7 in the third quarter before Bear Bachmeier ran 21 yards for the clinching score with 2:06 left, and No. 10 BYU won 17-10. TCU fell to 2-3.
 
 **October 10.** Bye.
 

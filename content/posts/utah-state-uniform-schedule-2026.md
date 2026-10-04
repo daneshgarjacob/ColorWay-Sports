@@ -3,7 +3,7 @@ title: "Utah State Uniform Schedule 2026: Every Jersey and When the Aggies Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Utah State wears every game in 2026: blue at home, white on the road, the cow print helmet, the retro homecoming helmet, and every date."
 gradient: "linear-gradient(135deg, #0F2439 0%, #1f3a63 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -72,7 +72,7 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
 
 **September 26 vs. Troy.** ★ Retro helmet announced and confirmed from the broadcast: the **1992 to 1995 bull logo on a white shell**, worn with a **navy jersey and navy pants** for Homecoming at Maverik Stadium, the first time the blue home jersey has appeared this season. Troy wore a black helmet, white jersey and black pants. Grady Brosterhous threw for 242 yards and two touchdowns, Utah State scored the last 14 points, and the Aggies beat Troy 21-10 for their first win, now 1-3.
 
-**October 3 at Boise State**, Albertsons Stadium, 7:30 p.m. ET on CBS Sports Network. ★ Confirmed by Utah State: **white helmet with the throwback Jumpin' Cow logo, white jersey, white pants.** That makes five different helmets in five games: the Aggies are taking the leaping cow mark from the program's past to the blue turf, on a white shell over an all-white uniform. It is the first Pac-12 road game, and Boise State has confirmed all blue for its conference home opener, blue helmet, blue jersey and blue pants, so it is white against blue on blue. More on our [Boise State 2026 uniform schedule](/stories/boise-state-uniform-schedule-2026).
+**October 3 at Boise State**, Albertsons Stadium, 7:30 p.m. ET on CBS Sports Network. ★ Confirmed by Utah State: **white helmet with the throwback Jumpin' Cow logo, white jersey, white pants.** That makes five different helmets in five games: the Aggies are taking the leaping cow mark from the program's past to the blue turf, on a white shell over an all-white uniform. It is the first Pac-12 road game, and Boise State has confirmed all blue for its conference home opener, blue helmet, blue jersey and blue pants, so it is white against blue on blue. More on our [Boise State 2026 uniform schedule](/stories/boise-state-uniform-schedule-2026). The CBS frames match the all white, **white helmet, white jersey, white pants**, though they are too wide to make out the Jumpin' Cow decal itself. Boise State wore blue, blue and blue as announced. Maddux Madsen threw for 244 yards and two touchdowns, and Boise State won 37-18 in the first Pac-12 game for both teams. Utah State fell to 1-4.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USUFootball/status/2105802571092984122"></a></blockquote>

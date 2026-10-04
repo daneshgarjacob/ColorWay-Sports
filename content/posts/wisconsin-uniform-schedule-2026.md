@@ -3,7 +3,7 @@ title: "Wisconsin Uniform Schedule 2026: Every Jersey and When the Badgers Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-03"
+updatedDate: "2026-10-04"
 excerpt: "Wisconsin's 2026 uniform schedule: the Red Out with the red helmet for Michigan State, the all-red Lambeau alternate, and what the Badgers wear week by week."
 gradient: "linear-gradient(135deg, #C5050C 0%, #9e0409 55%, #f4f4f4 130%)"
 cardStyle: words
@@ -54,7 +54,7 @@ Twelve games: six at Camp Randall, five on the road, one neutral-site opener at 
 
 **September 26 at Penn State**, Beaver Stadium. ★ Confirmed from the game photos: **white helmet, white jersey, white pants**, all white. Penn State wore a white helmet, navy jersey and white pants. Big Ten opener, and the first road trip of the season in the white jersey. Wisconsin upset No. 13 Penn State 24-20. The Badgers trailed 17-0 in the second quarter, and Colton Joseph threw three interceptions, but he also threw two fourth quarter touchdowns, the winner a 72-yard strike to Jacob Harris with 1:13 left. Wisconsin is 3-1. See our [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026).
 
-**October 3 vs. Michigan State**, Camp Randall Stadium, 12:30 p.m. ET on BTN. ★ Confirmed by Wisconsin: **the Red Out, with the alternate red helmet.** It is Homecoming, and Homecoming delivered again. The helmet is red with a large white Motion W on each side, white center stripes and a white facemask. The jersey is the red home top with white block numbers outlined in red, two white sleeve stripes and the Bucky-in-the-W patch on the shoulder, plus the Culver's patch. Red pants and red cleats finish it, so it is red from the helmet to the shoes, the second time this season Wisconsin has gone all red after the Lambeau Field opener. The difference is the trim: Lambeau was silver, this one is white, which makes it read as a straight Wisconsin look rather than a Packers tribute. Michigan State is expected in white, so Camp Randall gets red against white with no confusion. **Worn as announced, and Wisconsin won 31-3.**
+**October 3 vs. Michigan State**, Camp Randall Stadium, 12:30 p.m. ET on BTN. ★ Confirmed by Wisconsin: **the Red Out, with the alternate red helmet.** It is Homecoming, and Homecoming delivered again. The helmet is red with a large white Motion W on each side, white center stripes and a white facemask. The jersey is the red home top with white block numbers outlined in red, two white sleeve stripes and the Bucky-in-the-W patch on the shoulder, plus the Culver's patch. Red pants and red cleats finish it, so it is red from the helmet to the shoes, the second time this season Wisconsin has gone all red after the Lambeau Field opener. The difference is the trim: Lambeau was silver, this one is white, which makes it read as a straight Wisconsin look rather than a Packers tribute. Michigan State is expected in white, so Camp Randall gets red against white with no confusion. ★ The BTN broadcast matches: **red helmet with the white Motion W, red jersey, red pants**, worn as announced, and Michigan State wore a green helmet and white jersey. Colton Joseph threw two touchdown passes and broke off a 47-yard touchdown run, and Wisconsin held the Spartans to a field goal and won 31-3 to move to 4-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BadgerFootball/status/2105779797292908811"></a></blockquote>

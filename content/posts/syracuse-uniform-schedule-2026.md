@@ -3,7 +3,7 @@ title: "Syracuse Uniform Schedule 2026: Every Jersey and When the Orange Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-18"
+updatedDate: "2026-10-04"
 excerpt: "What Syracuse wears every game in 2026: navy at home, white on the road, the orange helmet, and the full Orange uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002D72 0%, #1a3f85 55%, #F76900 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The current Nike set arrived in June 2019 and leaned into tradition: the block S
   <div style="background: #002D72; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Navy / Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 17 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #F76900; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #002D72; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -52,7 +52,7 @@ The current Nike set arrived in June 2019 and leaned into tradition: the block S
 
 **September 26.** Bye.
 
-**October 3 at UConn.** White expected. A noon kickoff on CBS Sports Network at Pratt & Whitney Stadium, against an old Big East rival that wears navy at home. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
+**October 3 at UConn.** ★ Confirmed from the broadcast: **orange helmet, white jersey, orange pants**. UConn did not wear navy at home: the Huskies came out in a navy helmet, red jersey and navy pants for Homecoming. In his first career start, Amari Odom threw five touchdown passes, the last to Umari Hatcher on 4th-and-goal from the 17 in overtime, then ran in the 2-point conversion on the final play, and Syracuse won 42-41 after UConn had scored 27 straight. The Orange are 2-2. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
 
 **October 10 at Virginia.** White expected. Scott Stadium in Charlottesville, kickoff time to be announced. Virginia shares the navy and orange palette, so white is the only sensible choice for the visitor.
 

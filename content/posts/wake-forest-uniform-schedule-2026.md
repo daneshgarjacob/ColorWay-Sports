@@ -3,7 +3,7 @@ title: "Wake Forest Uniform Schedule 2026: Every Jersey and When the Demon Deaco
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Wake Forest wears every game in 2026: the black home jersey, the white road set, the gold pants, and the full Demon Deacons uniform schedule."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 55%, #9E7E38 130%)"
 cardStyle: words
@@ -74,7 +74,7 @@ Wake Forest also asked the stands to match the uniform. A blackout is a fan them
 
 **September 26 at Louisville.** ★ Confirmed from the broadcast: **gold helmet with WAKE on the side, white jersey, gold pants**. Louisville wore the white helmet, red jersey and red pants. Connor Calvert kicked three field goals, the last a 32-yarder with 6:20 left, and Wake Forest upset No. 16 Louisville 30-27 to move to 3-1. See our [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026).
 
-**October 3 vs. Stanford**, noon ET on ACC Network. ★ Confirmed by Wake Forest: **black helmet, black jersey, black pants**, all black, revealed in a "Back in black" video. We had gold pants as the likeliest pairing for a day game, and the Deacons went black instead. This is not the Dark Mode set from the Miami game: the helmet carries the gold "Deacs" script on the side, and the black jersey has old gold numbers, so the trim reads gold rather than tonal. Stanford is expected in its white road set, so it is black against white at noon. The Cardinal's side is on our [Stanford 2026 uniform schedule](/stories/stanford-uniform-schedule-2026).
+**October 3 vs. Stanford**, noon ET on ACC Network. ★ Confirmed by Wake Forest: **black helmet, black jersey, black pants**, all black, revealed in a "Back in black" video. We had gold pants as the likeliest pairing for a day game, and the Deacons went black instead. This is not the Dark Mode set from the Miami game: the helmet carries the gold "Deacs" script on the side, and the black jersey has old gold numbers, so the trim reads gold rather than tonal. Stanford is expected in its white road set, so it is black against white at noon. The Cardinal's side is on our [Stanford 2026 uniform schedule](/stories/stanford-uniform-schedule-2026). The broadcast matches: **black helmet with the gold Deacs script, black jersey, black pants**, worn as revealed, and Stanford wore all white. Gio Lopez ran for three touchdowns and threw for two more in three quarters, and Wake Forest won 57-3, its largest margin of victory in an ACC game, to move to 4-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WakeFB/status/2105779916197498989"></a></blockquote>

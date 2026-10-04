@@ -3,7 +3,7 @@ title: "UNLV Uniform Schedule 2026: Every Jersey and When the Rebels Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "UNLV uniform schedule 2026: the red home jersey, white road set, silver and red helmets, and every Rebels game with the jersey worn or expected."
 gradient: "linear-gradient(135deg, #CF0A2C 0%, #a3081f 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -61,7 +61,7 @@ UNLV announces every combination a couple of days before kickoff in a post the p
 
 **September 26 at Akron.** ★ Confirmed from the broadcast: **red helmet, white jersey, red pants**, a change from the silver helmet and white pants at North Texas. Akron wore navy. Jackson Arnold threw three touchdown passes, Jai'Den Thomas had 167 total yards and three scores, and UNLV won 38-10 to move to 2-2.
 
-**October 3 vs. Cal**, Allegiant Stadium, 12:30 p.m. Pacific (3:30 p.m. ET) on CBS Sports Network. ★ Confirmed by UNLV: **red helmet, red jersey, gray pants.** It is Hispanic Heritage Day, and the Rebels go back to the red jersey at home with the red helmet on top, the same shell they wore at Hawaii and Akron. The gray pants are the ones from the Memphis opener, so this is the red top from that night with the red helmet swapped in for the silver one. Cal has also announced its look: the navy helmet with the gold Cal script and the white road jersey, so it is red against white in Las Vegas. See our [Cal 2026 uniform schedule](/stories/cal-uniform-schedule-2026) for the Bears.
+**October 3 vs. Cal**, Allegiant Stadium, 12:30 p.m. Pacific (3:30 p.m. ET) on CBS Sports Network. ★ Confirmed by UNLV: **red helmet, red jersey, gray pants.** It is Hispanic Heritage Day, and the Rebels go back to the red jersey at home with the red helmet on top, the same shell they wore at Hawaii and Akron. The gray pants are the ones from the Memphis opener, so this is the red top from that night with the red helmet swapped in for the silver one. Cal has also announced its look: the navy helmet with the gold Cal script and the white road jersey, so it is red against white in Las Vegas. See our [Cal 2026 uniform schedule](/stories/cal-uniform-schedule-2026) for the Bears. The CBS broadcast matches: **red helmet, red jersey, gray pants**, and Cal wore the navy helmet with the gold script, white jersey and navy pants. UNLV led 24-7 at halftime, Cal rallied to lead 25-24 early in the fourth, and Jackson Arnold answered with a touchdown pass and a 2-yard touchdown run. Arnold accounted for five touchdowns and UNLV won 39-31 to move to 3-2.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/unlvfootball/status/2105721067511898399"></a></blockquote>

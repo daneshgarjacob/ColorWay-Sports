@@ -3,7 +3,7 @@ title: "Vanderbilt Uniform Schedule 2026: Every Jersey and When the Commodores W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Vanderbilt wears every game in 2026: the black home jersey, the white road set, the new gold alternate, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #C9A227 130%)"
 cardStyle: words
@@ -72,7 +72,7 @@ The 6 p.m. Central opener at FirstBank Stadium never finished. Lightning in the 
 
 **September 26 at Auburn.** &#9733; Confirmed from the broadcast: **gold helmet with the V, white jersey with gold numbers, white pants** for the SEC opener at Jordan-Hare Stadium, against Auburn in the white helmet, navy jersey and white pants. Brock Taylor kicked three field goals and Sedrick Alexander ran for a touchdown, but a blocked punt returned for a score was the difference, and Vanderbilt lost 21-15 to fall to 3-1. See the [Auburn 2026 uniform schedule](/stories/auburn-uniform-schedule-2026) for the other side of that field.
 
-**October 3 at Georgia**, 12:45 p.m. ET on SEC Network. &#9733; Confirmed by Vanderbilt: **white helmet, white jersey, black pants**. The Commodores posted it as the "Game 5 Fit," and it is the first time this season the pants are anything but white, after four straight games in white pants. The white shell is back after the gold helmet at Auburn, so it is a white top half over black legs at Sanford Stadium. Georgia is expected in its standard home look, red helmet, red jersey and silver britches, so there is no color clash anywhere on the field.
+**October 3 at Georgia**, 12:45 p.m. ET on SEC Network. &#9733; Confirmed by Vanderbilt: **white helmet, white jersey, black pants**. The Commodores posted it as the "Game 5 Fit," and it is the first time this season the pants are anything but white, after four straight games in white pants. The white shell is back after the gold helmet at Auburn, so it is a white top half over black legs at Sanford Stadium. Georgia is expected in its standard home look, red helmet, red jersey and silver britches, so there is no color clash anywhere on the field. &#9733; The broadcast matches: **white helmet, white jersey, black pants**, worn as posted, and Georgia wore the red helmet, red jersey and silver britches. Backup quarterback Blaze Berlowitz hit Junior Sherrill for a 60-yard touchdown to tie it 7-7, but No. 2 Georgia scored the next 21 points and won 38-14. Vanderbilt fell to 3-2.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/VandyFootball/status/2105694567756624293"></a></blockquote>

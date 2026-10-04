@@ -3,7 +3,7 @@ title: "Washington Huskies Uniform Schedule 2026: Every Jersey and When the Husk
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "Washington Huskies uniform schedule 2026: every jersey and uniform week by week, from purple home and white road to the new all-black Dawgs alternate."
 gradient: "linear-gradient(135deg, #4B2E83 0%, #3a2366 55%, #B7A57A 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ The core set dates to the adidas refresh of June 2025, which brought back the go
 
 **September 26 vs. Minnesota.** ★ Confirmed by Washington and from the game photos: the new all-black **Dawgs** set, **matte black helmet, black jersey with DAWGS in gold script, black pants**, with a purple and gold stripe on the helmet and shoulders. Minnesota wore a maroon helmet, white jersey and white pants. This Big Ten opener was the "Unleashed" blackout game, with fans asked to wear black, 8 p.m. Pacific on FOX. Minnesota won 27-24: Demond Williams Jr. threw for 239 yards and two touchdowns and ran for a third with 1:53 left, and Washington fell to 3-1. The Dawgs jersey is a one-off, so this is the only game it is scheduled to appear. ESPN lists this game on September 27 because its feed runs on UTC.
 
-**October 3 at USC**, 7:30 p.m. ET on NBC. ★ Confirmed by Washington: **gold helmet, white jersey, white pants**. The Huskies posted it as "Week Five Threads vs USC." After the all-black Dawgs blackout against Minnesota, it is back to the gold helmet, now over the white road jersey and white pants for the first Big Ten road trip, to the Coliseum. USC is expected in cardinal at home, so it is cardinal against white with gold helmets on the Washington side.
+**October 3 at USC**, 7:30 p.m. ET on NBC. ★ Confirmed by Washington: **gold helmet, white jersey, white pants**. The Huskies posted it as "Week Five Threads vs USC." After the all-black Dawgs blackout against Minnesota, it is back to the gold helmet, now over the white road jersey and white pants for the first Big Ten road trip, to the Coliseum. USC is expected in cardinal at home, so it is cardinal against white with gold helmets on the Washington side. ★ Washington's own game photos match: **gold helmet, white jersey, white pants**, worn as posted, and USC wore the cardinal helmet, cardinal jersey and gold pants. Washington led by double digits in the second half, but USC scored the last 15 points, the go-ahead score a 48-yard fumble return by Jahkeem Stewart, and won 25-21. Demond Williams Jr. drove Washington to the USC 12 in the final minute, but his last pass fell incomplete. The Huskies are 3-2.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UW_Football/status/2105381242736955565"></a></blockquote>

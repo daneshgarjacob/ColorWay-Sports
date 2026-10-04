@@ -3,7 +3,7 @@ title: "Toledo Uniform Schedule 2026: Every Jersey and When the Rockets Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-04"
 excerpt: "What Toledo wears every game in 2026: the midnight blue home set, the white road jersey, the gold and anthracite alternates, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #0b2240 0%, #1b3a63 55%, #ffcd00 130%)"
 cardStyle: words
@@ -46,7 +46,7 @@ There is one more thing hanging over the season. In August the athletic departme
   <div style="background: #0b2240; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Central Connecticut</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Gold</div></div>
   <div style="background: #0b2240; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue &amp; Gold</div></div>
   <div style="background: #0b2240; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Gold</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ball State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #0b2240; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ball State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #0b2240; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Buffalo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Eastern Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0b2240; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -65,7 +65,7 @@ There is one more thing hanging over the season. In August the athletic departme
 
 **September 26 vs. San Diego State.** ★ Confirmed from the broadcast: **midnight blue helmet, midnight blue jersey, gold pants**, the same set as the last two home games. San Diego State wore the red helmet, white jersey and white pants. John Alan Richter threw three touchdown passes and Toledo won 41-16 to move to 3-1.
 
-**October 3 at Ball State.** White expected. MAC play opens in Muncie with a kickoff time still to be assigned.
+**October 3 at Ball State.** ★ Confirmed from the broadcast: **midnight blue helmet, white jersey, midnight blue pants**, with the gold Toledo script on the helmet and a gold facemask. Ball State wore a white helmet, black jersey and white pants in Muncie. CJ Miller ran for 196 yards and two touchdowns, Connor Walendzak added 103 and a score, and Toledo won the MAC opener 39-24, its fourth straight win, to move to 4-1.
 
 **October 10 vs. Buffalo.** Blue expected. Homecoming, which is the traditional slot for an alternate if one exists, so this is the home date we are watching hardest. Buffalo comes in as the designated visitor, so the Bulls should be in white.
 

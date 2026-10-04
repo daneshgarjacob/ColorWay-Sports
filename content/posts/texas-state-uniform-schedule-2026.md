@@ -3,7 +3,7 @@ title: "Texas State Uniform Schedule 2026: Every Jersey and When the Bobcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Texas State wears every game in its first Pac-12 season: maroon and gold at home, the white road set, the Bobcats script helmet and the full schedule."
 gradient: "linear-gradient(135deg, #501214 0%, #2e0a0c 55%, #8D734A 130%)"
 cardStyle: words
@@ -54,7 +54,7 @@ This is also a new conference. Texas State spent 13 seasons in the Sun Belt befo
 
 **September 26 vs. UIW.** ★ Confirmed from Texas State's game photography, dated to the day of the game: **gold helmet with a maroon Bobcats script, maroon jersey, maroon pants**, a new helmet and the first maroon-over-maroon look of the season for Family Weekend. Texas State scored 28 in the first quarter and won 63-10.
 
-**October 3 at San Diego State**, Snapdragon Stadium, 7:30 p.m. Pacific (10:30 p.m. ET) on The CW. ★ Confirmed by Texas State: **white helmet, white jersey, maroon pants.** The program posted it as its Week 05 threads with the line Keepin' it cool. It is white over white up top, as it was at Texas, with maroon pants in place of the white ones, the second straight game in maroon pants after the Family Weekend win over UIW. It is the Pac-12 opener for both teams, and San Diego State is expected in black at home, which should make for a sharp white and maroon against black pairing. See our [San Diego State 2026 uniform schedule](/stories/san-diego-state-uniform-schedule-2026).
+**October 3 at San Diego State**, Snapdragon Stadium, 7:30 p.m. Pacific (10:30 p.m. ET) on The CW. ★ Confirmed by Texas State: **white helmet, white jersey, maroon pants.** The program posted it as its Week 05 threads with the line Keepin' it cool. It is white over white up top, as it was at Texas, with maroon pants in place of the white ones, the second straight game in maroon pants after the Family Weekend win over UIW. It is the Pac-12 opener for both teams, and San Diego State is expected in black at home, which should make for a sharp white and maroon against black pairing. See our [San Diego State 2026 uniform schedule](/stories/san-diego-state-uniform-schedule-2026). The CW broadcast matches: **white helmet, white jersey, maroon pants**, worn as announced, and San Diego State wore a red helmet, black jersey and black pants. Texas State led 17-3 early in the third quarter, but Jaylon Hawkins returned the second-half kickoff 96 yards and Cameron Cooper added a 32-yard pick-six, and short-handed San Diego State won 31-29. Brad Jackson threw for 372 yards and three touchdowns in the loss, and Texas State is 2-3.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TXSTATEFOOTBALL/status/2105765545148825985"></a></blockquote>

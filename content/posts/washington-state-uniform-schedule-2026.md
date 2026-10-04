@@ -3,7 +3,7 @@ title: "Washington State Uniform Schedule 2026: Every Jersey and When the Cougar
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Washington State wears every game in 2026: the crimson home set, Icy White, the Ketchup Bottle combo, the gray throwback helmets, and the full Cougars uniform schedule."
 gradient: "linear-gradient(135deg, #981E32 0%, #7e1a2a 55%, #5E6A71 130%)"
 cardStyle: words
@@ -66,7 +66,7 @@ The throwback history is the good part. The script Cougars helmet logo lived on 
 
 **September 26 vs. Arizona.** ★ Confirmed by Washington State: **gray script Cougars helmet, crimson jersey, gray pants**, posted on September 23 as "Stripe Out Threads." It is the first time the script helmet has been out since the 2023 Apple Cup, with the crowd striping Gesa Field in crimson and gray. The CBS frames match: script helmet, crimson jersey, gray pants. Arizona was the visitor in a white helmet, white jersey and navy pants. Caden Pinnick ran for a touchdown and Jackquintin Bal returned an interception for another to put the Cougars up 14-0, and they led 17-14 at the half, but Arizona won 34-24 and Washington State is 1-3. The [Arizona 2026 uniform schedule](/stories/arizona-uniform-schedule-2026) has the Wildcats.
 
-**October 3 vs. Fresno State**, 6:30 p.m. Pacific (9:30 p.m. ET) on USA Network. ★ Confirmed by Washington State: **gray helmet, gray jersey, gray pants.** All gray, posted as Game 05 threads: the gray shell carries the crimson Cougar head with a crimson facemask, and the gray jersey has white numbers over gray pants. It is the first time this season the Cougars have gone head to toe in Cougar Gray, and the crimson we had penciled in for Family Weekend stays in the closet. Fresno State is expected in its road set, red helmet, white jersey and red pants, for the Pac-12 opener for both teams. The [Fresno State 2026 uniform schedule](/stories/fresno-state-uniform-schedule-2026) has the Bulldogs' side.
+**October 3 vs. Fresno State**, 6:30 p.m. Pacific (9:30 p.m. ET) on USA Network. ★ Confirmed by Washington State: **gray helmet, gray jersey, gray pants.** All gray, posted as Game 05 threads: the gray shell carries the crimson Cougar head with a crimson facemask, and the gray jersey has white numbers over gray pants. It is the first time this season the Cougars have gone head to toe in Cougar Gray, and the crimson we had penciled in for Family Weekend stays in the closet. Fresno State is expected in its road set, red helmet, white jersey and red pants, for the Pac-12 opener for both teams. The [Fresno State 2026 uniform schedule](/stories/fresno-state-uniform-schedule-2026) has the Bulldogs' side. ★ Fresno State's game photos, dated to the day of the game, match: **gray helmet with the crimson Cougar head and crimson facemask, gray jersey, gray pants**, with the jersey reading a shade darker than the pants in night light. Fresno State wore a red helmet, white jersey and red pants. Fresno State won 26-6 in its Pac-12 debut, scoring the go-ahead touchdown on a Josiah Freeman reverse in the third quarter, and Washington State, held to 30 rushing yards, fell to 1-4.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/WSUCougarFB/status/2105388693414642116"></a></blockquote>
