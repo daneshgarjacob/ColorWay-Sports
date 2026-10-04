@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Sunday, October 4
 
-Division Series Game 2 day, with two NL games on the board. The Padres and Brewers ran it back at American Family Field with the roof open on a sunny 68-degree afternoon: San Diego in the khaki road set with brown pinstripes and the all-brown cap, Milwaukee in home cream with the all-navy cap. It is the exact matchup from Game 1, so it gets the same grade, a **C**. Two sand-toned uniforms in the same frame blur together, and nothing about a second look changes that. The Braves and Dodgers play Game 2 tonight at Dodger Stadium, and we add that card once the uniforms are confirmed.
+Division Series Game 2 day, with two NL games on the board. The Padres and Brewers ran it back at American Family Field with the roof open on a sunny 68-degree afternoon: San Diego in the khaki road set with brown pinstripes and the all-brown cap, Milwaukee in home cream with the all-navy cap. It is the exact matchup from Game 1, so it gets the same grade, a **C**. Two sand-toned uniforms in the same frame blur together, and nothing about a second look changes that. Milwaukee rallied in the bottom of the ninth to win it 4-3 and take a 2-0 series lead. The Braves and Dodgers play Game 2 tonight at Dodger Stadium, and we add that card once the uniforms are confirmed.
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -36,7 +36,7 @@ Division Series Game 2 day, with two NL games on the board. The Padres and Brewe
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Brewers 4, Padres 3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
