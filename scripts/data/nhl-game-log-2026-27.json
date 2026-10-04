@@ -41,6 +41,8 @@
     "2026-10-03 BOS@MIN": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-03 DAL@NSH": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-03 STL@COL": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-03 CGY@VAN": { "confirmed": true, "source": "ESPN game photos", "home": { "call": "Black Skate Alternate", "color": "#000000", "image": "/images/posts/nhl-daily-tracker/canucks-skate.jpg" } },
+    "2026-10-03 LAK@SJS": { "confirmed": true, "source": "ESPN game photos" },
 
     "2026-10-03 MTL@PIT": { "confirmed": true, "source": "ESPN game photos (black home + white road seen; 60th patch per team announcement)", "home": { "call": "Home Dark + 60th Patch", "note": "Penguins announced 9/29: 60th logo on the shoulders for the home opener" } },
     "2026-10-09 NYR@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
