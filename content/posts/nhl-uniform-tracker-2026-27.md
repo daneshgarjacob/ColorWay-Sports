@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NHL"
 date: "2026-10-02"
-updatedDate: "2026-10-03"
+updatedDate: "2026-10-04"
 excerpt: "What every NHL team wore last night, game by game. Home darks, road whites, thirds and specials for all 32 clubs, confirmed from game photos every morning."
 gradient: "linear-gradient(135deg, #111821 0%, #1d2733 55%, #2f6bed 130%)"
 coverImage: "/images/posts/nhl-daily-tracker/cover-branded.jpg"
@@ -23,6 +23,41 @@ archiveLabel: "Every team's full 2026-27 uniform calendar"
 This is the ColorWay Sports NHL daily uniform tracker: what every team actually wore, every game, logged the morning after from game photos. Not just the thirds and the specials, the whole closet, home darks and road whites included, because the patterns only show up when you keep the full record.
 
 Wondering what sweater your team is wearing tonight? Every club's [2026-27 uniform schedule](/stories/nhl-uniform-schedule-2026-27) lays out the closet and the dates for thirds, throwbacks and Hometown Remix nights as they are announced, and each team's [uniform calendar](/nhl-tracker) files every game it has played. This page is the receipts: what they actually put on.
+
+## Sunday, October 4
+
+1 game on Sunday, every sweater confirmed from game photos. Every club wore its standard dark at home and white on the road.
+
+<!-- nhl-day:2026-10-04:start -->
+
+### Winnipeg Jets at Detroit Red Wings
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Jets 3, Red Wings 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/jets-road.jpg" alt="Winnipeg Jets Road White sweater worn October 4 2026 against the Red Wings, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">JETS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/red-wings-home.jpg" alt="Detroit Red Wings Home Red sweater worn October 4 2026 against the Jets, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RED WINGS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #CE1126; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Red</p>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- nhl-day:2026-10-04:end -->
 
 ## Saturday, October 3
 
