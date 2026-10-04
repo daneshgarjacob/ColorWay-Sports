@@ -3,7 +3,7 @@ title: "Air Force's B-21 Raider Uniform: The All-Black Stealth Bomber Set Air Fo
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-17"
+updatedDate: "2026-10-04"
 excerpt: "Air Force built its 2026 Air Power Legacy Series uniform around the B-21 Raider stealth bomber. Matte black, chrome numbers, four command patches. We grade it."
 gradient: "linear-gradient(135deg, #0b0b0d 0%, #1a1c20 55%, #8f9499 130%)"
 coverImage: "/images/posts/air-force-b21-raider-uniform-2026/full-look.jpg"
@@ -16,7 +16,7 @@ teams: ["air-force-falcons"]
 
 Air Force builds a uniform around an aircraft every year, and the 2026 edition is the best-looking one they have done in a while. The **Air Power Legacy Series** set honors the **B-21 Raider**, the stealth bomber Northrop Grumman is building for the Air Force, and it is head-to-toe matte black with chrome numerals that look like polished metal.
 
-It debuts **Saturday, October 3 against Navy**, the first leg of the Commander-in-Chief's Trophy, at 10 a.m. Mountain on CBS at Falcon Stadium.
+It debuted **Saturday, October 3 against Navy**, the first leg of the Commander-in-Chief's Trophy, at Falcon Stadium. ★ Confirmed from the broadcast: Air Force wore it head to toe, matte black helmet, black jersey and black pants, against Navy's gold helmets and white. The Falcons won 14-9 to move to 3-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AF_Football/status/2092280914013536640"></a></blockquote>
