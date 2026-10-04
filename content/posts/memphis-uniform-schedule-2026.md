@@ -13,7 +13,7 @@ teams: ["memphis-tigers", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-Memphis owns one of the deepest uniform closets in the American Conference and a brand new logo on the chest. This is the full Memphis 2026 uniform schedule: the blue home jersey, the white road set, the gray pants that showed up in Boise, the FedEx patch that is now on every Tigers jersey, and a week-by-week outlook for all twelve games. Three games are already confirmed. We update this page as each combination is locked in.
+Memphis owns one of the deepest uniform closets in the American Conference and a brand new logo on the chest. This is the full Memphis 2026 uniform schedule: the blue home jersey, the white road set, the gray pants that showed up in Boise, the FedEx patch that is now on every Tigers jersey, and a week-by-week outlook for all twelve games. Five games are already confirmed. We update this page as each combination is locked in.
 
 ## The Memphis 2026 Uniform Sets
 
@@ -34,7 +34,7 @@ Start with what is new, because it is on every jersey Memphis will wear this yea
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CollegeFBPortal/status/2042266863921709520"></a></blockquote>
 </div>
 
-Everything else is Nike, and the closet behind those four cards is genuinely deep. Memphis has been one of the busiest uniform programs in the sport for a decade, with blue, white, gray, black and a light blue set all appearing in recent seasons, and pants in white, blue, gray and black. Last year the Tigers changed something almost every week. This year, under first-year head coach Charles Huff, the first three games have been noticeably more conservative: one helmet, no alternates, and a rotation that has stuck to blue, white and gray.
+Everything else is Nike, and the closet behind those four cards is genuinely deep. Memphis has been one of the busiest uniform programs in the sport for a decade, with blue, white, gray, black and a light blue set all appearing in recent seasons, and pants in white, blue, gray and black. Last year the Tigers changed something almost every week. This year, under first-year head coach Charles Huff, the first three games were noticeably more conservative: one helmet, no alternates, and a rotation that stuck to blue, white and gray. Then came a blue helmet against UT Martin and a new black striped helmet at Charlotte.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MemphisFB/status/2093322716266840491"></a></blockquote>
@@ -101,21 +101,21 @@ The Tigers started 2026 with restraint, then let go: a blue helmet showed up on 
 
 The pieces most likely to surface in the back half of this schedule are the gray jersey, which Memphis refreshed in 2025 with a new MEMPHIS wordmark outlined in white, and the black alternate, which came out in November last season. The light blue set is the wild card. It is the loudest thing in the closet and it turned up under the lights at home last November.
 
-Nothing has been announced. Memphis has not put out a 2026 alternate reveal, so every cell below the top three in the grid is a color expectation rather than a confirmed combination, and we will star them one at a time.
+Nothing has been announced. Memphis has not put out a 2026 alternate reveal, so every unstarred cell in the grid is a color expectation rather than a confirmed combination, and we will star them one at a time.
 
 ## The Bottom Line
 
-Memphis is an easy program to predict at the color level and a hard one to predict past that. Blue at home, white on the road, and the pants are where the variety lives: white in Week 0 and the home opener, gray in Boise. The helmet has not changed once. The real questions are whether the black set gets Halloween against Army, whether the Thursday night game against East Carolina gets something, and whether anything at all gets revealed before the Temple finale. The grid above has every date with the expected set, and we add a star as each uniform is confirmed.
+Memphis is an easy program to predict at the color level and a hard one to predict past that. Blue at home, white on the road, and the pants are where the variety lives: white in Week 0 and the home opener, gray in Boise, black at Charlotte. The helmet has moved too: white for the first three games, blue against UT Martin, and the new black shell with blue tiger stripes at Charlotte. The real questions are whether the black set gets Halloween against Army, whether the Thursday night game against East Carolina gets something, and whether anything at all gets revealed before the Temple finale. The grid above has every date with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Memphis wearing this week?**
 
-Memphis wore the blue helmet, blue jersey and white pants against UT Martin on Saturday, September 19, a 45-21 win, confirmed from the broadcast. The Tigers had worn the white helmet, white jersey and gray pants in their last game at Boise State on September 12. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Memphis wore a new black helmet with blue tiger stripes, the white jersey and black pants at Charlotte on Saturday, October 3, a 59-8 win that moved the Tigers to 4-1, confirmed from the broadcast. Before the September 26 bye, they wore the blue helmet, blue jersey and white pants against UT Martin. Next is UAB at home on October 10, where blue is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Memphis's football uniforms for 2026?**
 
-A blue home jersey with a white MEMPHIS wordmark and tiger-striped shoulders, a white road jersey with blue lettering and tiger-striped numerals, and pants in white, gray and blue. The helmet through three games is a white shell with a blue tiger claw on each side and a blue UofM mark on the front bumper. All of it is Nike, and every jersey now carries a FedEx patch on the left chest.
+A blue home jersey with a white MEMPHIS wordmark and tiger-striped shoulders, a white road jersey with blue lettering and tiger-striped numerals, and pants in white, gray, blue and black. The helmet in the first three games was a white shell with a blue tiger claw on each side and a blue UofM mark on the front bumper; a blue helmet followed against UT Martin, and a black helmet with blue tiger stripes at Charlotte. All of it is Nike, and every jersey now carries a FedEx patch on the left chest.
 
 **Why is there a FedEx logo on the Memphis jersey?**
 
@@ -123,7 +123,7 @@ FedEx and Memphis Athletics announced a department wide jersey patch sponsorship
 
 **Does Memphis have a black uniform in 2026?**
 
-Memphis has a black jersey and black pants in the closet and wore the black set last season, but nothing has been announced for 2026 and the Tigers have not worn it in the first three games. The Halloween home game against Army on October 31 is the date we would watch first.
+Memphis has a black jersey and black pants in the closet and wore the black set last season, but nothing has been announced for 2026 and the Tigers have not worn the black jersey yet. Black did show up at Charlotte on October 3, in the new striped helmet and black pants with the white jersey. The Halloween home game against Army on October 31 is the date we would watch first.
 
 **When does Memphis play Temple?**
 

@@ -50,7 +50,7 @@ The uniform piece of that celebration is a **throwback to the 1980 ACC champions
 
 That stairstep mark is worth pausing on. It is the logo Bill Belichick wore on his own sideline gear through his first season in Chapel Hill, before it went anywhere near a jersey.
 
-✅ **The 1980 set debuted at home, and it is back for Notre Dame.** The white "Throwbacks" look Carolina wore in Dublin carried the interlocking NC, not the stairstep UNC, so the real 1980 set waited for Kenan. Carolina posted "Debuting Saturday" on September 10 and wore it for the home opener against East Tennessee State on September 12, the first game of the stadium's hundredth season. On October 1 the program confirmed it again for the biggest home game on the schedule: **"Rocking the 1980 throwbacks Saturday,"** against No. 3 Notre Dame. A uniform built to mark a hundred years of a stadium belongs in that stadium, and putting it on the Notre Dame game is exactly the right call.
+✅ **The 1980 set debuted at home, and it came back for Notre Dame.** The white "Throwbacks" look Carolina wore in Dublin carried the interlocking NC, not the stairstep UNC, so the real 1980 set waited for Kenan. Carolina posted "Debuting Saturday" on September 10 and wore it for the home opener against East Tennessee State on September 12, the first game of the stadium's hundredth season. On October 1 the program confirmed it again for the biggest home game on the schedule: **"Rocking the 1980 throwbacks Saturday,"** against No. 3 Notre Dame. A uniform built to mark a hundred years of a stadium belongs in that stadium, and putting it on the Notre Dame game is exactly the right call.
 
 ## The Full North Carolina 2026 Uniform Schedule, Week by Week
 
@@ -113,7 +113,7 @@ Against TCU's black, the white throwback is the quieter of the two uniforms in D
 
 **What is North Carolina wearing against TCU in Dublin?**
 
-A white throwback set, with Carolina blue pants and a Carolina blue helmet carrying the interlocking NC. TCU is in a new all-black alternate, so the Dublin opener is white against black. Kickoff is noon ET on Saturday, August 29, at Aviva Stadium on ESPN.
+A white throwback set, with Carolina blue pants and a Carolina blue helmet carrying the interlocking NC. TCU wore a new all-black alternate, so the Dublin opener was white against black. Carolina won 15-10 at Aviva Stadium on Saturday, August 29.
 
 **When is the first college football game of the 2026 season?**
 
@@ -121,11 +121,11 @@ North Carolina against TCU in Dublin, Ireland, at noon ET on Saturday, August 29
 
 **When does North Carolina wear the 1980 throwback uniform?**
 
-The 1980 throwbacks debuted against East Tennessee State on September 12, and Carolina has confirmed them again for No. 3 Notre Dame on Saturday, October 3, at Kenan Stadium. The set is a powder blue helmet with the stairstep UNC logo, a powder blue jersey with "Carolina" across the chest and white pants, a tribute to the 1980 ACC championship team in the 100th season of Kenan Stadium.
+The 1980 throwbacks debuted against East Tennessee State on September 12, and Carolina wore them again against No. 3 Notre Dame on Saturday, October 3, at Kenan Stadium, a 37-26 loss. The set is a powder blue helmet with the stairstep UNC logo, a powder blue jersey with "Carolina" across the chest and white pants, a tribute to the 1980 ACC championship team in the 100th season of Kenan Stadium.
 
-**What is North Carolina wearing against Notre Dame?**
+**What did North Carolina wear against Notre Dame?**
 
-The 1980 throwbacks: powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants. Carolina confirmed it on October 1. Kickoff is noon ET on ESPN, and Notre Dame is expected in white.
+The 1980 throwbacks: powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants, confirmed from the broadcast on October 3. Notre Dame wore the gold helmet, white jersey and gold pants and won 37-26. Carolina is 2-2, and next is a trip to Pitt on October 10, where white is expected.
 
 **What are North Carolina's regular uniforms?**
 

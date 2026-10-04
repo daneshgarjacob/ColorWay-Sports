@@ -13,7 +13,7 @@ teams: ["smu-mustangs", "acc"]
 resurfaceOnUpdate: true
 ---
 
-SMU has one helmet, three jersey colors, and a habit of wearing white pants with all of them. This is the full SMU 2026 uniform schedule: the blue home set, the all-white icy whites that opened the season at Florida State, the red and black alternates sitting in the closet, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+SMU has one helmet, three jersey colors, and a habit of wearing white pants with all of them. This is the full SMU 2026 uniform schedule: the blue home set, the all-white icy whites that opened the season at Florida State, the red alternate that came out for Missouri State, the black one still sitting in the closet, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The SMU 2026 Uniform Sets
 
@@ -89,7 +89,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 **October 17 vs. Virginia.** Blue expected. This is the Salute to Service game and the Hall of Fame game, with a Stripe Out in the stands. SMU has aimed the blackout at its Salute to Service date before, so this is the other candidate for the black jersey.
 
-**October 24 vs. Cal.** Blue or red. This is the one home date where SMU is pointing its own fans at a color other than blue or white: Fan Appreciation Day comes with a "wear red" instruction, which puts the red jersey in play for the first time this season. Cal will be in white.
+**October 24 vs. Cal.** Blue or red. This is the one home date where SMU is pointing its own fans at a color other than blue or white: Fan Appreciation Day comes with a "wear red" instruction, which puts the red jersey back in play after its debut against Missouri State. Cal will be in white.
 
 **October 31 at Syracuse.** White expected. Halloween in the dome, and orange against the icy whites is one of the better looking games on the SMU calendar. See the [Syracuse 2026 uniform schedule](/stories/syracuse-uniform-schedule-2026).
 
@@ -103,13 +103,13 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 ## The Bottom Line
 
-Two games in, SMU has used two of its jerseys and the only helmet it owns, which is the whole story of this uniform program: the white shell with the red Peruna never leaves, and the variable is what goes under it. Blue at home, icy whites on the road, and two alternates that need a reason to come out. The red has a natural landing spot on October 24, when the school is already asking the crowd to wear it. The black needs a night game, and Boston College and the Salute to Service date against Virginia are the two obvious candidates. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Five games in, SMU has used the blue, white and red jerseys and the only helmet it owns, which is the whole story of this uniform program: the white shell with the red Peruna never leaves, and the variable is what goes under it. Blue at home, icy whites on the road, and alternates that need a reason to come out. The red already did, with red pants for Family Weekend against Missouri State, and it has another natural landing spot on October 24, when the school is asking the crowd to wear red. The black needs a night game, and with Boston College getting the blue base set, the Salute to Service date against Virginia is the obvious candidate left. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is SMU wearing this week?**
 
-SMU wore red over red against Missouri State on Saturday, September 26: white helmet, red jersey and red pants, posted as "Week 4 thREDs" and confirmed from the broadcast, in a 34-24 win. Next up is Boston College at home on October 3, the ACC home opener, and SMU has confirmed the classic look: white helmet with the red facemask, blue jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+SMU wore the classic look against Boston College on Saturday, October 3: white helmet with the red facemask, blue jersey and white pants, confirmed from the broadcast, in a 25-16 win that moved the Mustangs to 4-1. The week before, they wore red over red in a 34-24 win over Missouri State. SMU is off on October 10, then hosts Virginia on October 17, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are SMU's football uniforms for 2026?**
 
@@ -121,7 +121,7 @@ That is SMU's own name for the all-white combination, white helmet, white jersey
 
 **Will SMU wear red or black in 2026?**
 
-Neither has been announced. The red jersey is the more likely of the two, and October 24 against Cal is the date to watch, because SMU has already told fans to wear red for Fan Appreciation Day. The all-black set has appeared roughly once a year since 2022 and tends to show up for a night game, which points at the Salute to Service game against Virginia on October 17, now that SMU has confirmed blue for Boston College on October 3.
+The red already has: SMU wore the red jersey and red pants against Missouri State on September 26. October 24 against Cal is the date to watch for it again, because SMU has told fans to wear red for Fan Appreciation Day. The black has not been announced. The all-black set has appeared roughly once a year since 2022 and tends to show up for a night game, which points at the Salute to Service game against Virginia on October 17, now that SMU wore blue for Boston College on October 3.
 
 **Why does ESPN list the Virginia Tech game on November 7?**
 

@@ -13,7 +13,7 @@ teams: ["mississippi-state-bulldogs", "sec"]
 resurfaceOnUpdate: true
 ---
 
-Mississippi State wears maroon at home and white on the road in 2026, and every helmet now carries the interlocking MSU. This week at South Carolina, we expect the Bulldogs in white. This is the full Mississippi State 2026 uniform schedule: the maroon home set, the white road set, the all-black set that lives in reserve, both helmets, and a week-by-week outlook for all twelve games. Two games in, both combinations are confirmed from the broadcast, and we update this page as each new one is locked in.
+Mississippi State wears maroon at home and white on the road in 2026, and the interlocking MSU is now the everyday helmet logo. After an October 10 bye, the Bulldogs visit LSU on October 17, where we expect them in maroon. This is the full Mississippi State 2026 uniform schedule: the maroon home set, the white road set, the all-black set that lives in reserve, both helmets, and a week-by-week outlook for all twelve games. Five games in, every combination is confirmed from the broadcast, and we update this page as each new one is locked in.
 
 ## The Mississippi State 2026 Uniform Sets
 
@@ -78,17 +78,17 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
 
 ## The Bottom Line
 
-The interlocking MSU won. What started as a fan campaign became a 2025 throwback, then most of the 2025 SEC slate, and now it is simply the Mississippi State helmet, on maroon at home and on white on the road. Two games in, the program has worn exactly those two combinations, and both were the look you would draw if you were asked to draw Mississippi State. The open question is the black set. It has only been worn for big occasions, and with Alabama, Oklahoma and Missouri all coming to Starkville, there are several candidates. The grid above has every date, and we star each cell as it is confirmed.
+The interlocking MSU won. What started as a fan campaign became a 2025 throwback, then most of the 2025 SEC slate, and now it is simply the Mississippi State helmet, on maroon at home and on white on the road. Five games in, the program has worn both of those, plus an all-white White Out against Missouri and the retro M-State logo on the maroon shell against Alabama. The open question is the black set. It has only been worn for big occasions, and it did not come out for Missouri or Alabama, which leaves Oklahoma's October 24 visit as the biggest candidate left in Starkville. The grid above has every date, and we star each cell as it is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Mississippi State wearing this week?**
 
-Mississippi State wore all white for the White Out against Missouri on Saturday, September 26: white helmet, white jersey and white pants, confirmed by the team and from the broadcast, in a 31-24 win over Missouri in all black. Next up is Alabama at home on October 3, and Mississippi State has confirmed a maroon helmet with the white retro M-State logo and white facemask, a maroon jersey with white numbers and sleeve stripes, and white pants. The week-by-week grid above lists every game, and we update it when each combination is confirmed.
+Mississippi State wore a maroon helmet with the white retro M-State logo, a maroon jersey and white pants against Alabama on Saturday, October 3, confirmed by the team and from the broadcast. No. 7 Alabama won 56-23, and the Bulldogs are 4-1. The week before, they wore all white for the White Out in a 31-24 win over Missouri. After an October 10 bye, Mississippi State visits LSU on October 17, where maroon is expected because LSU wears white at home. The week-by-week grid above lists every game, and we update it when each combination is confirmed.
 
 **What are Mississippi State's football uniforms for 2026?**
 
-A maroon home jersey with white numerals and white sleeve stripes, a white road jersey with the same design in maroon, white pants with a maroon stripe, and an all-black alternate set. The helmets are a maroon shell and a white shell, both carrying the interlocking MSU logo, which replaced the State script as the full-time helmet mark this season. The uniforms are made by adidas.
+A maroon home jersey with white numerals and white sleeve stripes, a white road jersey with the same design in maroon, white pants with a maroon stripe, and an all-black alternate set. The helmets are a maroon shell and a white shell, both carrying the interlocking MSU logo, which replaced the State script as the full-time helmet mark this season. Against Alabama on October 3, the maroon shell carried the white retro M-State logo instead. The uniforms are made by adidas.
 
 **Does Mississippi State have a new alternate uniform in 2026?**
 

@@ -143,7 +143,7 @@ Blue and gold are Notre Dame's official colors, and green has always been an alt
 
 **Why is there a SoFi patch on Notre Dame's jersey?**
 
-Notre Dame signed a six-year jersey-patch sponsorship with SoFi reported to average $18 to 20 million a year, the most valuable in college athletics. The patch appears on Notre Dame uniforms across all sports in 2026-27 and debuts in football at Lambeau Field on September 6.
+Notre Dame signed a six-year jersey-patch sponsorship with SoFi reported to average $18 to 20 million a year, the most valuable in college athletics. The patch appears on Notre Dame uniforms across all sports in 2026-27 and debuted in football at Lambeau Field on September 6.
 
 **Is Notre Dame the home team at Lambeau Field?**
 

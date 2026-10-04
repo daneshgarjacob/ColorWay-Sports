@@ -13,7 +13,7 @@ teams: ["oregon-state-beavers", "pac-12"]
 resurfaceOnUpdate: true
 ---
 
-Oregon State spent two years as a football independent and comes back into a conference in 2026, and the uniforms came along for the ride. This is the full Oregon State 2026 uniform schedule: the black home set, the all white road look, the orange jersey sitting in the closet, the white helmet the Beavers wore through September, the orange helmet confirmed for the Pac-12 opener at Colorado State, and a week by week outlook for all twelve games in JaMarcus Shephard's first season. We update this page as each combination is confirmed.
+Oregon State spent two years as a football independent and comes back into a conference in 2026, and the uniforms came along for the ride. This is the full Oregon State 2026 uniform schedule: the black home set, the all white road look, the orange jersey sitting in the closet, the white helmet the Beavers wore through September, the orange helmet that debuted in the Pac-12 opener at Colorado State, and a week by week outlook for all twelve games in JaMarcus Shephard's first season. We update this page as each combination is confirmed.
 
 ## The Oregon State 2026 Uniform Sets
 
@@ -36,7 +36,7 @@ The Beavers have been quieter than most about their weekly combinations. There i
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Oregonian/status/1961489792132055427"></a></blockquote>
 </div>
 
-That leaves the broadcast as the source of truth, and two games in the pattern is easy to read: white helmet every week so far, white jersey and pants on the road at Houston, black jersey and pants at home against Texas Tech. Pac-12 home teams wear color and visitors wear white, which locks in every road date and turns every home date into a question of black, orange or something new.
+That leaves the broadcast as the source of truth, and through September the pattern was easy to read: the white helmet in every game we saw, white jersey and pants on the road at Houston, black jersey and pants at home against Texas Tech, and white over black pants at UTEP. The orange helmet broke it at Colorado State on October 3. Pac-12 home teams wear color and visitors wear white, which locks in every road date and turns every home date into a question of black, orange or something new.
 
 ## The Full Oregon State 2026 Uniform Schedule, Week by Week
 
@@ -98,7 +98,7 @@ That leaves the broadcast as the source of truth, and two games in the pattern i
 
 ## The Bottom Line
 
-Two games, two uniforms, one helmet. Oregon State has gone all white on the road and all black at home, both times under the white shell, which is the least predictable part of the whole thing and the detail to keep watching. The orange helmet from the 2024 Nike redesign finally comes out for the Pac-12 opener at Colorado State, with orange pants and the white jersey. The orange jersey and the black helmet are still sitting in the closet, and the Beavers have six more home dates plus a flex road trip to use them. The grid above has every game, and we fill in a star as each combination is confirmed.
+Four confirmed games, four different uniforms. Oregon State went all white at Houston, all black at home against Texas Tech and white over black pants at UTEP, all under the white shell, before the orange helmet from the 2024 Nike redesign finally came out at Colorado State, with orange pants and the white jersey, in a 56-26 win. The helmet is the least predictable part of the whole thing and the detail to keep watching. The orange jersey and the black helmet are still sitting in the closet, and the Beavers have four home dates left plus a flex road trip to use them. The grid above has every game, and we fill in a star as each combination is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/2050266211338903593"></a></blockquote>
@@ -108,7 +108,7 @@ Two games, two uniforms, one helmet. Oregon State has gone all white on the road
 
 **What jersey is Oregon State wearing this week?**
 
-Oregon State wore white at UTEP on Saturday, September 26: white helmet, white jersey and black pants, confirmed from the game photos, in a 33-7 win. Next up is the Pac-12 opener at Colorado State on Saturday, October 3, and Oregon State has confirmed the orange helmet with the black Beaver logo, the white jersey and orange pants. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Oregon State wore the orange helmet with the black Beaver logo, the white jersey and orange pants at Colorado State on Saturday, October 3, confirmed from the team's own game photos, and won the Pac-12 opener 56-26 to move to 3-2. The week before, the Beavers wore the white helmet, white jersey and black pants in a 33-7 win at UTEP. Next up is San Diego State at Reser Stadium on October 10, where black is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Oregon State's football uniforms for 2026?**
 

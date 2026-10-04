@@ -91,7 +91,7 @@ Everything on this schedule follows the Big Ten pattern except three home games.
 
 ## The Bottom Line
 
-Ohio State's 2026 uniform schedule is scarlet at home, white on the road, and the silver buckeye-leaf helmet in every game. Three alternates exist, Scarlet Rush, Tunnel Vision and Sub Zero, and none of them has a date yet. The Texas trip on September 12 puts the Buckeyes in white in the biggest game of the non-conference season. The three home dates to keep an eye on are Oregon, the Military Appreciation game against Northwestern, and The Game.
+Ohio State's 2026 uniform schedule is scarlet at home, white on the road, and the silver buckeye-leaf helmet in every game. Three alternates exist, Scarlet Rush, Tunnel Vision and Sub Zero, and none of them has a date yet. The Buckeyes wore the white road set at Texas on September 12 and at Iowa on October 3, and none of the alternates has appeared through five games. The three home dates to keep an eye on are Oregon, the Military Appreciation game against Northwestern, and The Game.
 
 For more, see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026), the [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) and the [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
 
@@ -99,7 +99,7 @@ For more, see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-
 
 **What jersey is Ohio State wearing this week?**
 
-Ohio State beat Illinois 42-19 on Saturday, September 26, in the silver helmet, scarlet jersey and gray pants, confirmed from the game photos. Ohio State wears scarlet at home and white on the road in 2026, and the September 19 home game against Kent State was the standard scarlet set: silver helmet, scarlet jersey, silver gray pants, in a 59-3 win. Three alternates exist but none has been assigned to a game. Next is Iowa on the road on October 3, where white is expected. We update this page as each combination is confirmed in game week.
+Ohio State wore the silver helmet, white jersey and white pants at Iowa on Saturday, October 3, confirmed from the game photos, and won 31-14 to move to 4-1. The week before, the Buckeyes beat Illinois 42-19 in the silver helmet, scarlet jersey and gray pants. Ohio State wears scarlet at home and white on the road in 2026. Three alternates exist but none has been assigned to a game. Next is Homecoming against Maryland at Ohio Stadium on October 10, where scarlet is expected. We update this page as each combination is confirmed in game week.
 
 **Does Ohio State have alternate uniforms in 2026?**
 
@@ -113,9 +113,9 @@ Buckeye leaves. Players earn them for big plays and they accumulate on the silve
 
 The Game is at Ohio Stadium on November 28, so Ohio State is the home team and scarlet is expected. The Buckeyes have worn alternates for this fixture in past years, so it is the likeliest date for a surprise.
 
-**What will Ohio State wear at Texas?**
+**What did Ohio State wear at Texas?**
 
-White. The September 12 game is in Austin and Texas wears burnt orange at home, so the Buckeyes take the road set.
+The white road set: silver helmet, white jersey and silver pants, confirmed from the broadcast on September 12. Texas wore burnt orange at home and won 24-23.
 
 **Is Ohio State wearing black uniforms this year?**
 

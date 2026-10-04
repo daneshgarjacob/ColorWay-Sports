@@ -13,7 +13,7 @@ teams: ["marshall-thundering-herd", "sun-belt"]
 resurfaceOnUpdate: true
 ---
 
-Marshall has three helmet shells, one of the best greens in college football, and a brand new logo on the chest. This is the full Marshall 2026 uniform schedule: the kelly green home jersey, the white road set, the green pants that traveled to Penn State, the Marshall Health Network patch that is now on every Herd jersey, and a week-by-week outlook for all twelve games. Two are already confirmed. We update this page as each combination is locked in.
+Marshall has three helmet shells, one of the best greens in college football, and a brand new logo on the chest. This is the full Marshall 2026 uniform schedule: the kelly green home jersey, the white road set, the green pants that traveled to Penn State, the Marshall Health Network patch that is now on every Herd jersey, and a week-by-week outlook for all twelve games. Five are already confirmed. We update this page as each combination is locked in.
 
 ## The Marshall 2026 Uniform Sets
 
@@ -32,7 +32,7 @@ The jerseys underneath it are the set Marshall unveiled in June of 2025, a clean
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/wchstv/status/1935420520075338176"></a></blockquote>
 </div>
 
-The real story is the helmets. From 2010 through 2021 Marshall wore white and nothing else. Black shells came into the rotation a few years ago, and in August of 2025 the program brought green helmets back for the first time since the 2009 bowl season, using the modern stylized M instead of the old block letter. That gives the equipment staff three shells to work with, and through two games in 2026 they have already used two of them.
+The real story is the helmets. From 2010 through 2021 Marshall wore white and nothing else. Black shells came into the rotation a few years ago, and in August of 2025 the program brought green helmets back for the first time since the 2009 bowl season, using the modern stylized M instead of the old block letter. That gives the equipment staff three shells to work with, and through five games in 2026 they have already used two of them.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HerdFB/status/1971248586446025173"></a></blockquote>
@@ -98,13 +98,13 @@ The 75 uniform is usually the most carefully designed thing Marshall does all ye
 
 ## The Bottom Line
 
-Marshall's uniform year is built around one date. Everything from September to early November is a two-color rotation that the home and road rules mostly decide for you, green at The Joan and white on the road, with the pants and the helmet shell as the only real variables. Then November 14 arrives, the black shells come out, and the program puts on the most meaningful uniform in college football. Two games in, the Herd has already used the green helmet and the white helmet, which leaves the black one waiting for the game it was made for. The grid above has every date, and we add the stars as each combination is confirmed.
+Marshall's uniform year is built around one date. Everything from September to early November is a two-color rotation that the home and road rules mostly decide for you, green at The Joan and white on the road, with the pants and the helmet shell as the only real variables. Then November 14 arrives, the black shells come out, and the program puts on the most meaningful uniform in college football. Five games in, the Herd has already used the green helmet and the white helmet, which leaves the black one waiting for the game it was made for. The grid above has every date, and we add the stars as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What is Marshall wearing this week?**
 
-Marshall wore the white helmet with the green M, a green jersey and green pants for Homecoming against Gardner-Webb on Saturday, September 26, confirmed from the broadcast, and won 36-35 on a field goal with three seconds left. The week before, Marshall won 30-24 at Missouri State in white head to toe.
+Marshall wore the white helmet with the green M, white jersey and white pants at James Madison on Saturday, October 3, confirmed from the broadcast, and lost 45-17 to fall to 3-2. The week before, the Herd wore green over green for Homecoming and beat Gardner-Webb 36-35. Next is Coastal Carolina at home on October 10, the We Are Herd Strong game, where green is expected.
 
 **What are Marshall's football uniforms for 2026?**
 

@@ -98,13 +98,13 @@ One calendar note before you go looking for this game: ESPN files it under Septe
 
 ## The Bottom Line
 
-Three games into 2026 and James Madison has already used all three jerseys and both helmets, with the white shell coming out for the first road trip. Purple over white is the default at home, white is locked in for all six road games by Sun Belt rule, and the black set is the wild card that shows up when the program wants a night to feel bigger than the opponent. Homecoming against Georgia State is the date we are watching hardest. The grid above has every game, and we add the stars as each uniform is confirmed.
+Five games into 2026, James Madison is 5-0 and has already used all three jerseys and both helmets, with the white shell coming out for the first road trip. Purple over white is the default at home, white is locked in for all six road games by Sun Belt rule, and the black set is the wild card that shows up when the program wants a night to feel bigger than the opponent. Homecoming against Georgia State is the date we are watching hardest. The grid above has every game, and we add the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is James Madison wearing this week?**
 
-James Madison wore the gold helmet, white jersey and gold pants at Old Dominion on Saturday, September 26, a 46-20 win in the Royal Rivalry, confirmed from the broadcast. A week earlier the Dukes wore the white helmet, white jersey and white pants in a 26-13 win at San Diego State. Next is Marshall at home on October 3, where purple is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+James Madison wore the gold helmet, purple jersey and gold pants against Marshall at Bridgeforth Stadium on Saturday, October 3, a 45-17 win that moved the Dukes to 5-0, confirmed from the broadcast. A week earlier they wore the gold helmet, white jersey and gold pants in a 46-20 win at Old Dominion. Next is a trip to Georgia Southern on October 10, where white is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are James Madison's football uniforms for 2026?**
 

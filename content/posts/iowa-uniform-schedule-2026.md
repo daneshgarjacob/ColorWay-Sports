@@ -13,7 +13,7 @@ teams: ["iowa-hawkeyes", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Iowa wears the black jersey with gold pants at Kinnick Stadium and the white jersey with gold pants on the road, under the same black Tigerhawk helmet every week. That is the Iowa football uniform in one sentence, and it covers almost every Saturday. The exception so far in 2026 was the Cy-Hawk game, where the Hawkeyes went all black under the lights and beat Iowa State 16-13. This is the full Iowa 2026 uniform schedule: every jersey, every game week by week, and what the Hawkeyes are expected to wear next. We update this page as each combination is confirmed.
+Iowa wears the black jersey with gold pants at Kinnick Stadium and the white jersey with gold pants on the road, under the same black Tigerhawk helmet every week. That is the Iowa football uniform in one sentence, and it covers almost every Saturday. The exceptions so far in 2026 were the all-black nights: the Cy-Hawk game, where the Hawkeyes beat Iowa State 16-13, and the October 3 loss to Ohio State. This is the full Iowa 2026 uniform schedule: every jersey, every game week by week, and what the Hawkeyes are expected to wear next. We update this page as each combination is confirmed.
 
 ## The Iowa 2026 Uniform Sets
 
@@ -24,7 +24,7 @@ Iowa wears the black jersey with gold pants at Kinnick Stadium and the white jer
   <div style="background: #FFCD00; color: #111111; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Glossy black shell with a single gold center stripe and the gold Tigerhawk on both sides. For the annual military appreciation game, an American flag Tigerhawk decal goes on the right side.</div></div>
 </div>
 
-Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not change, the home and road jerseys follow the same stripe pattern, and the gold pants go with both. The variable is black. Iowa pulls out black pants, or the full all-black look, for the nights it wants Kinnick to feel different: Wisconsin in 2022, Oregon in 2025 with the stadium painted black, and Iowa State this September. A reported teaser video before the Cy-Hawk game was titled "Kinnick after dark." Big Ten home teams wear color and visitors wear white, so every road date below is predictable, and every night game at Kinnick is a candidate for black.
+Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not change, the home and road jerseys follow the same stripe pattern, and the gold pants go with both. The variable is black. Iowa pulls out black pants, or the full all-black look, for the nights it wants Kinnick to feel different: Wisconsin in 2022, Oregon in 2025 with the stadium painted black, Iowa State this September, and Ohio State on October 3. A reported teaser video before the Cy-Hawk game was titled "Kinnick after dark." Big Ten home teams wear color and visitors wear white, so every road date below is predictable, and every night game at Kinnick is a candidate for black.
 
 ## The Full Iowa 2026 Uniform Schedule, Week by Week
 
@@ -72,13 +72,13 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
 
 ## The Bottom Line
 
-Two games in, Iowa has shown both sides of its closet: the black and gold home set for Northern Illinois and the all-black alternate for Iowa State. Everything else on the calendar follows a simple rule. Black jersey and gold pants at Kinnick, white jersey and gold pants on the road, the same gold-striped Tigerhawk helmet every week. The open questions are the night games: Ohio State if it gets a prime-time slot, Wisconsin on Halloween, and whichever home date carries the flag decal. The grid above has every date, and we add a star as each uniform is confirmed.
+Five games in, Iowa has shown every piece of its closet: the black and gold home set for Northern Illinois, the white road set at Michigan, and the all-black alternate for Iowa State and Ohio State. Everything else on the calendar follows a simple rule. Black jersey and gold pants at Kinnick, white jersey and gold pants on the road, the same gold-striped Tigerhawk helmet every week. The open questions are Wisconsin on Halloween, the home date we are watching most closely for a third all-black night, and whichever home date carries the flag decal. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Iowa wearing this week?**
 
-Iowa wore the black helmet, white jersey and gold pants at No. 18 Michigan on Saturday, September 26, and won 20-19 to move to 4-0. The week before, the Hawkeyes beat Northern Iowa 55-0 at Kinnick Stadium. Ohio State comes to Iowa City on October 3, where the black home jersey is expected.
+Iowa went all black at Kinnick Stadium against Ohio State on Saturday, October 3: black helmet, black jersey and black pants. The Buckeyes won 31-14, and the Hawkeyes are 4-1. Next is a Friday night trip to Washington on October 9, where the white road jersey is expected.
 
 **What are Iowa's football uniforms for 2026?**
 
@@ -86,7 +86,7 @@ A black home jersey and a white road jersey, both with black and gold shoulder s
 
 **Does Iowa have a new alternate uniform in 2026?**
 
-Sort of. For the Cy-Hawk game on September 12 Iowa went all black, pairing the black home jersey with black pants that drop the gold stripe down the leg. The jersey itself is the standard home top; the pants are the change. It is the only alternate Iowa has worn so far this season, and we will add any others to this page when they are revealed.
+Sort of. For the Cy-Hawk game on September 12 Iowa went all black, pairing the black home jersey with black pants that drop the gold stripe down the leg. The jersey itself is the standard home top; the pants are the change. Iowa brought the same all-black look back for Ohio State on October 3. It is the only alternate Iowa has worn so far this season, and we will add any others to this page when they are revealed.
 
 **What did Iowa wear against Iowa State?**
 

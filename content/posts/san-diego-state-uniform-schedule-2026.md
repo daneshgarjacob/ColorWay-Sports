@@ -24,7 +24,7 @@ San Diego State opened its first Pac-12 season in black on black, followed it wi
   <div style="background: #A6192E; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The red and black Glyphs shell with the SD spear on the side, worn with both base jerseys, and the new black Ocelotl helmet that carries the jaguar head on one side and the player number on the other.</div></div>
 </div>
 
-Nike outfits the Aztecs, and the closet is built around the red and black palette San Diego State has used for a century. The wrinkle in 2026 is the Glyphs artwork. San Diego State introduced the glyph iconography in 2025 as a brand language, and this season it lives on the field: the print runs across the helmet panel, the shoulder caps and the pant stripe on both base uniforms. Both games so far have used the same helmet, so the only real question on most Saturdays is whether the jersey is black or white. In the Pac-12 the home team wears color and the visitor wears white, which locks every road date and leaves the home dates open.
+Nike outfits the Aztecs, and the closet is built around the red and black palette San Diego State has used for a century. The wrinkle in 2026 is the Glyphs artwork. San Diego State introduced the glyph iconography in 2025 as a brand language, and this season it lives on the field: the print runs across the helmet panel, the shoulder caps and the pant stripe on both base uniforms. The first two games used the same helmet, so the only real question on most Saturdays is whether the jersey is black or white. In the Pac-12 the home team wears color and the visitor wears white, which locks every road date and leaves the home dates open.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AztecFB/status/2097368587694690468"></a></blockquote>
@@ -98,13 +98,13 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
 
 ## The Bottom Line
 
-Three games in, San Diego State has used three combinations and two helmets, and the first two of those were about as disciplined as a season start gets. Then the Aztecs went and built a third uniform out of a jaguar. The Age of the Jaguar red is the headline of this season and the first red over red the program has ever worn, and it landed in Week 3 against James Madison exactly as announced. After that the pattern should settle: black at home, white on the road, with Halloween against Washington State as the date most likely to produce something else. The grid above has every game, and we add a star as each combination is confirmed.
+Five games in, San Diego State has used three combinations and two helmets, and the first two of those were about as disciplined as a season start gets. Then the Aztecs went and built a third uniform out of a jaguar. The Age of the Jaguar red is the headline of this season and the first red over red the program has ever worn, and it landed in Week 3 against James Madison exactly as announced. Since then the pattern has settled, white at Toledo and black at home against Texas State, and it should hold: black at home, white on the road, with Halloween against Washington State as the date most likely to produce something else. The grid above has every game, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What is San Diego State wearing this week?**
 
-San Diego State wore the red helmet, white jersey and white pants at Toledo on Saturday, September 26, and lost 41-16. The week before against James Madison, the Aztecs wore the new Age of the Jaguar uniform: the black Ocelotl helmet, a red jersey and red pants, the first red over red in program history. The week-by-week grid above lists every game with the expected set.
+San Diego State wore the red helmet, black jersey and black pants against Texas State on Saturday, October 3, confirmed from the broadcast, and won the Pac-12 opener 31-29 to get to 2-3. The week before, the Aztecs wore the red helmet, white jersey and white pants in a 41-16 loss at Toledo. Next is a trip to Oregon State on October 10, where white is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are San Diego State's football uniforms for 2026?**
 

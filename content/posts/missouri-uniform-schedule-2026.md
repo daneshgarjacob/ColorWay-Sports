@@ -15,7 +15,7 @@ teams: ["missouri-tigers", "sec"]
 resurfaceOnUpdate: true
 ---
 
-Wondering what jersey Missouri is wearing this week? This is the full Mizzou 2026 uniform schedule, game by game, and it comes with the date every Tigers fan is asking about: **the Memorial Stadium 100th anniversary throwback uniform debuts Saturday, September 19, against Troy at Faurot Field**.
+Wondering what jersey Missouri is wearing this week? This is the full Mizzou 2026 uniform schedule, game by game, and it comes with the date every Tigers fan is asking about: **the Memorial Stadium 100th anniversary throwback uniform debuted Saturday, September 19, against Troy at Faurot Field**.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Mizzou Athletics.</p>
 
@@ -124,11 +124,11 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **What jersey is Missouri wearing this week?**
 
-Missouri wore all black at Mississippi State on Saturday, September 26: black helmet, black jersey and black pants, confirmed from the broadcast, in a 31-24 loss, with the Bulldogs in all white for the White Out. Next up is Florida at home on October 3, where black or gold is expected. Mizzou announces each week's combination a few days before kickoff, usually Thursday or Friday, and this page is updated as each one is confirmed. Home games are black or gold, road games are usually white.
+Missouri wore the black helmet with the gold M, a black jersey and gold pants against Florida on Saturday, October 3, confirmed from the broadcast, in a 45-17 win over the No. 8 Gators that moved the Tigers to 4-1. The week before, they wore all black in a 31-24 loss at Mississippi State. Next up is Texas A&M at home on October 10, where black or gold is expected. Mizzou announces each week's combination a few days before kickoff, usually Thursday or Friday, and this page is updated as each one is confirmed. Home games are black or gold, road games are usually white.
 
 **When does Missouri wear the 100th anniversary throwback uniform?**
 
-Saturday, September 19, at home against Troy, for the Memorial Stadium 100th Anniversary Game.
+Missouri wore it on Saturday, September 19, at home against Troy, for the Memorial Stadium 100th Anniversary Game, and won 27-17.
 
 **What does the Missouri throwback uniform look like?**
 

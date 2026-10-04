@@ -78,7 +78,7 @@ There is no alternate to wait for and no combination chart to memorise. Navy at 
 
 **What jersey is Michigan wearing this week?**
 
-Michigan wore blue over blue against Iowa on Saturday, September 26: the winged helmet, blue jersey and blue pants, and lost 20-19. The week before, the Wolverines beat UTEP 52-17 in the navy jersey with maize pants. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Michigan wore the winged helmet, white jersey and blue pants at Minnesota on Saturday, October 3, and lost the Little Brown Jug game 20-14 to fall to 3-2. The week before, the Wolverines wore blue over blue in a 20-19 loss to Iowa. Michigan is off on October 10, then hosts Penn State on October 17, where navy is expected. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Michigan's uniforms for 2026?**
 
@@ -86,7 +86,7 @@ Navy jersey with maize numerals, maize pants, winged helmet. White jersey with n
 
 **Does Michigan have an alternate uniform in 2026?**
 
-None announced for 2026. Michigan runs one of the sport's least-changed wardrobes.
+None announced for 2026, though Michigan did wear the all-maize uniform against Western Michigan on September 5. Otherwise it runs one of the sport's least-changed wardrobes.
 
 **Why does Michigan wear winged helmets?**
 

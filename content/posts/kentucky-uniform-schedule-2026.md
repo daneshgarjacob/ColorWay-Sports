@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
 updatedDate: "2026-10-04"
-excerpt: "The full Kentucky 2026 uniform schedule: blue jerseys at home, white on the road, two helmets, and what the Wildcats wore against Alabama."
+excerpt: "The full Kentucky 2026 uniform schedule: blue jerseys at home, white on the road, three helmets, and what the Wildcats wore against Alabama."
 gradient: "linear-gradient(135deg, #0033A0 0%, #0a2a70 55%, #FFFFFF 130%)"
 cardStyle: words
 kicker: Schedule
@@ -28,7 +28,7 @@ The current Kentucky uniform dates to the 2023 Nike redesign, which moved the ch
 
 ## The Full Kentucky 2026 Uniform Schedule, Week by Week
 
-Twelve games, seven at Kroger Field, one bye, no alternates announced.
+Twelve games, seven at Kroger Field, one bye, no alternate jerseys announced.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Youngstown State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
@@ -76,21 +76,21 @@ Home cells are blue, road cells are white, and a star marks a combination that h
 
 ## The Helmet Is the Only Question
 
-Kentucky's jersey is decided by the schedule. Blue at home, white on the road, white pants under both, and no alternate assigned to any 2026 date. What the program does not decide in advance is the helmet. The white shell opened the season, the blue shell came back for Alabama, and Kentucky tends to announce the combination two or three days before kickoff. When a combination is confirmed we star the cell above and add the detail to the game entry.
+Kentucky's jersey is decided by the schedule. Blue at home, white on the road, white pants under both, and no alternate assigned to any 2026 date. What the program does not decide in advance is the helmet. The white shell opened the season, the blue shell came back for Alabama, a chrome shell debuted at South Carolina, and Kentucky tends to announce the combination two or three days before kickoff. When a combination is confirmed we star the cell above and add the detail to the game entry.
 
 ## The Bottom Line
 
-The Kentucky 2026 uniform schedule is two jerseys and two helmets. Blue jersey and white pants at Kroger Field, white jersey and white pants on the road, and a blue or white helmet on top depending on the week. The 2023 Nike set with the Wildcat shoulders and the checkerboard collar is in its fourth season, no alternate has been announced, and the November 28 Louisville game is the only date where we would not be surprised by a surprise.
+The Kentucky 2026 uniform schedule is two jerseys and three helmets. Blue jersey and white pants at Kroger Field, white jersey and white pants on the road, and a blue, white or chrome helmet on top depending on the week. The 2023 Nike set with the Wildcat shoulders and the checkerboard collar is in its fourth season, no alternate jersey has been announced, and the November 28 Louisville game is the only date where we would not be surprised by a surprise.
 
 ## Frequently Asked Questions
 
 **What jersey is Kentucky wearing this week?**
 
-Kentucky wore the white helmet, blue jersey and blue pants against South Alabama on Saturday, September 26, and won 45-21. Against Alabama on September 12, the Wildcats wore blue helmets, blue jerseys and white pants. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
+Kentucky wore the new chrome helmet with the white jersey and white pants at South Carolina on Saturday, October 3, and won 35-34 in overtime to move to 4-1. The week before, the Wildcats wore the white helmet, blue jersey and blue pants against South Alabama. Next is LSU at Kroger Field on October 10, where blue is expected. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
 
 **What are Kentucky's uniforms for 2026?**
 
-Royal blue jersey with white numerals and white pants at home. White jersey with blue numerals and white pants on the road. Both are worn with either the blue or the white helmet carrying the interlocking UK logo. The set dates to the 2023 Nike redesign, which put the Wildcat logo on the shoulders and kept a faint checkerboard in the collar.
+Royal blue jersey with white numerals and white pants at home. White jersey with blue numerals and white pants on the road. Both are worn with either the blue or the white helmet carrying the interlocking UK logo, and a chrome alternate helmet debuted at South Carolina on October 3. The set dates to the 2023 Nike redesign, which put the Wildcat logo on the shoulders and kept a faint checkerboard in the collar.
 
 **Does Kentucky have an alternate uniform in 2026?**
 

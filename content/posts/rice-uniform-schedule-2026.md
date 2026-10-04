@@ -13,7 +13,7 @@ teams: ["rice-owls", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-Rice is back in Nike for the first time since 2011, and four games into the new deal the Owls have already worn four different combinations. This is the full Rice 2026 uniform schedule: the new blue home set, the white and gray road looks, the blue and silver helmets, every game played so far and the expected uniform for the rest of the season, starting with UTSA at Rice Stadium on October 3. We update this page as each combination is confirmed.
+Rice is back in Nike for the first time since 2011, and five games into the new deal the Owls have already worn four different combinations. This is the full Rice 2026 uniform schedule: the new blue home set, the white and gray road looks, the blue and silver helmets, every game played so far and the expected uniform for the rest of the season, starting with East Carolina on October 10. We update this page as each combination is confirmed.
 
 ## The Rice 2026 Uniform Sets
 
@@ -78,17 +78,17 @@ This is not a rebrand. The Old English R stays on the helmet and the hip, the co
 
 ## White or Gray on the Road?
 
-This is the real question for the back half of the Rice schedule. The Owls have taken two road trips and worn two different sets: white with white pants at Notre Dame, then gray head to toe at Fresno State, both under the silver helmet. Rice has not published a season uniform grid, so we will not guess which one goes where. The pattern we can see is that the silver helmet has been the road helmet both times and the blue helmet has been the home helmet both times.
+This is the real question for the back half of the Rice schedule. The Owls have taken two road trips and worn two different sets: white with white pants at Notre Dame, then gray head to toe at Fresno State, both under the silver helmet. Rice has not published a season uniform grid, so we will not guess which one goes where. The pattern we can see is that the silver helmet has been the road helmet both times and the blue helmet has been the home helmet all three times.
 
 ## The Bottom Line
 
-Four games into the Nike era, Rice has worn the blue helmet at home and the silver helmet on the road, with blue, white and gray jerseys all already on the field. The update from Adidas is quiet, new numerals and moved stripes rather than a new identity, and that is the right call for a program built on the Old English R. The questions left are which road set shows up in Greenville, Boca Raton, Denton and Philadelphia, and whether Homecoming against Tulane gets anything special. The grid above has every date, and we add a star as each uniform is confirmed.
+Five games into the Nike era, Rice has worn the blue helmet at home and the silver helmet on the road, with blue, white and gray jerseys all already on the field. The update from Adidas is quiet, new numerals and moved stripes rather than a new identity, and that is the right call for a program built on the Old English R. The questions left are which road set shows up in Greenville, Boca Raton, Denton and Philadelphia, and whether Homecoming against Tulane gets anything special. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Rice wearing this week?**
 
-Rice hosts UTSA on Saturday, October 3, and the blue home jersey is expected. The Owls wore the blue helmet and blue jersey in both home games so far, with blue pants against Houston Christian and white pants against Western Michigan. Rice has not announced its combination for the UTSA game.
+Rice wore the blue helmet, blue jersey and blue pants against UTSA on Saturday, October 3, confirmed from the broadcast, and lost 16-14 to fall to 1-4. Next is a trip to East Carolina on October 10, where the white or gray road set is expected.
 
 **Did Rice get new uniforms in 2026?**
 
@@ -102,9 +102,9 @@ A blue home jersey, a white road jersey and a light gray alternate, with blue, w
 
 It is head coach Scott Abell's mantra, which the program describes as win everything, win everywhere and with everyone. It sits on the front bumper of the Rice helmets in 2026.
 
-**When does Rice play UTSA in 2026?**
+**When did Rice play UTSA in 2026?**
 
-Saturday, October 3 at 7 p.m. Eastern at Rice Stadium in Houston, on ESPN+. It is the American Conference opener for both teams and the first time Rice has opened league play at home since joining the conference.
+Saturday, October 3 at Rice Stadium in Houston, on ESPN+. It was the American Conference opener for both teams and the first time Rice has opened league play at home since joining the conference. UTSA won 16-14.
 
 **What is Rice's homecoming game in 2026?**
 

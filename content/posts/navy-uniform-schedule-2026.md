@@ -90,7 +90,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
 
 **November 28 at Charlotte.** White expected. Regular season finale at Jerry Richardson Stadium, kickoff to be announced.
 
-**December 5.** The American Conference Championship Game, if Navy gets there. The Midshipmen are 1-1 after two games.
+**December 5.** The American Conference Championship Game, if Navy gets there. The Midshipmen are 1-3 after four games.
 
 **December 12 vs. Army, MetLife Stadium.** The 127th Army-Navy Game, 3 p.m. Eastern on CBS, presented by USAA, back at MetLife Stadium for the first time since 2021. Navy is listed as the visitor on the schedule, which tells you nothing, because neither team wears a regular uniform in this game.
 
@@ -124,7 +124,7 @@ Navy's regular season uniform schedule is simple: navy and gold at home, white o
 
 **What jersey is Navy wearing this week?**
 
-Navy wore the gold helmet, a navy jersey and navy pants at UAB on Friday, September 25, and lost 24-20. It was a road game, but UAB chose white at home, so the Midshipmen wore their dark jersey. Next up is Air Force on October 3, where white is expected. The grid above lists every game with the expected set and we star each one as it is confirmed.
+Navy wore the gold helmet, white jersey and white pants at Air Force on Saturday, October 3, and lost 14-9 in the first leg of the Commander-in-Chief's Trophy. The Midshipmen are 1-3. The week before, at UAB, they wore the navy jersey and navy pants because UAB chose white at home. Next up is Tulsa in Annapolis on October 10, where the navy home jersey is expected. The grid above lists every game with the expected set and we star each one as it is confirmed.
 
 **What are Navy's football uniforms for 2026?**
 
@@ -136,7 +136,7 @@ Yes. Navy announced on September 15 that it will wear a commemorative Under Armo
 
 **What is Navy wearing for the Army-Navy Game in 2026?**
 
-Unknown as of September 17. The 127th Army-Navy Game is Saturday, December 12 at 3 p.m. Eastern on CBS at MetLife Stadium. Navy has honored a different part of the fleet each year, from the Jolly Rogers in 2024 to the USS Constitution and the Navy's 250th anniversary in 2025, and players wear individual unit patches on the jersey. We will update this page the day the 2026 design is revealed.
+Unknown as of October 4. The 127th Army-Navy Game is Saturday, December 12 at 3 p.m. Eastern on CBS at MetLife Stadium. Navy has honored a different part of the fleet each year, from the Jolly Rogers in 2024 to the USS Constitution and the Navy's 250th anniversary in 2025, and players wear individual unit patches on the jersey. We will update this page the day the 2026 design is revealed.
 
 **What did Navy wear against Florida Atlantic?**
 

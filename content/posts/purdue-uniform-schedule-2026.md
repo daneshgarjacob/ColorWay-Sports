@@ -13,7 +13,7 @@ teams: ["purdue-boilermakers", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Purdue only has two jersey colors, but between two helmets and three pants, the Boilermakers can change the look every Saturday without ever leaving black and gold. This is the full Purdue 2026 uniform schedule: the black home jersey, the white road jersey, the old gold and black helmets, and a week-by-week outlook for all twelve games in Barry Odom's second season. Two games in, Purdue has already used both helmets. We update this page as each combination is confirmed.
+Purdue only has two jersey colors, but between two helmets and three pants, the Boilermakers can change the look every Saturday without ever leaving black and gold. This is the full Purdue 2026 uniform schedule: the black home jersey, the white road jersey, the old gold and black helmets, and a week-by-week outlook for all twelve games in Barry Odom's second season. Five games in, Purdue has already used both helmets. We update this page as each combination is confirmed.
 
 ## The Purdue 2026 Uniform Sets
 
@@ -80,13 +80,13 @@ The Illini side is on the [Illinois 2026 uniform schedule](/stories/illinois-uni
 
 ## The Bottom Line
 
-Purdue has worn the black jersey twice, but it has not looked the same twice: the black helmet over white pants on a hot Friday night, then the old gold helmet over gold pants for a Saturday noon kickoff. That is the pattern to expect all season. Black at Ross-Ade, white on the road at UCLA, Illinois, Penn State, Iowa and Indiana, and the helmet and pants as the variables. The Friday night Washington game and Homecoming against Maryland are the two dates most likely to bring something different. The grid above has every date, and we star each game as the combination is confirmed.
+Purdue has worn the black jersey three times, and it has not looked the same twice: the black helmet over white pants on a hot Friday night, the old gold helmet over gold pants for a Saturday noon kickoff, then all black against Notre Dame. The white jersey has gone with the black helmet and white pants at UCLA and the gold helmet and gold pants at Illinois. That is the pattern to expect all season. Black at Ross-Ade, white on the road at Penn State, Iowa and Indiana, and the helmet and pants as the variables. The Friday night Washington game and Homecoming against Maryland are the two dates most likely to bring something different. The grid above has every date, and we star each game as the combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Purdue wearing this week?**
 
-Purdue wore all black against No. 3 Notre Dame on Saturday, September 26, black helmet, black jersey and black pants, confirmed from the game photos, and lost 49-10. The week before at UCLA, Purdue wore the black helmet, white jersey and white pants in a 52-38 loss. Next is Illinois on the road on October 3 for the Purdue Cannon, and Purdue has confirmed the gold helmet, white jersey and gold pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Purdue wore the gold helmet, white jersey and gold pants at Illinois on Saturday, October 3, confirmed from the broadcast, and won 24-17 to bring the Purdue Cannon home and end a 19-game Big Ten losing streak. The Boilermakers are 2-3. The week before, they wore all black in a 49-10 loss to No. 3 Notre Dame. Next is Minnesota at Ross-Ade Stadium on October 10, the Hammer Down Cancer game, where black is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Purdue's football uniforms for 2026?**
 

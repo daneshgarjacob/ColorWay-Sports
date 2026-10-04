@@ -13,7 +13,7 @@ teams: ["rutgers-scarlet-knights", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Rutgers keeps its base look simple and saves the surprises for the nights that mean something. This is the full Rutgers 2026 uniform schedule: the scarlet home set, the white road set, the white 9/11 tribute helmet that already made its appearance at Boston College, the all-black Blackout set, and a week-by-week outlook for all twelve games. Two games in, the Scarlet Knights have worn two different helmets. We update this page as each combination is confirmed.
+Rutgers keeps its base look simple and saves the surprises for the nights that mean something. This is the full Rutgers 2026 uniform schedule: the scarlet home set, the white road set, the white 9/11 tribute helmet that already made its appearance at Boston College, the all-black Blackout set, and a week-by-week outlook for all twelve games. Five games in, the Scarlet Knights have worn three different helmets. We update this page as each combination is confirmed.
 
 ## The Rutgers 2026 Uniform Sets
 
@@ -78,13 +78,13 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
 
 ## The Bottom Line
 
-Rutgers has already used two helmets in two games, and the tribute set at Boston College is the best-looking thing the Scarlet Knights have worn this season, even in a loss. From here, the Rutgers uniform schedule reads cleanly: scarlet for five of the six remaining home dates, black for the Blackout homecoming against Indiana, and white for all four remaining road trips. The Scarlet Out against USC is the next test for the jersey and the team. The grid above has every date, and we add the stars as each uniform is confirmed.
+Rutgers has already used three helmets in five games, and the tribute set at Boston College is the best-looking thing the Scarlet Knights have worn this season, even in a loss. The Blackout homecoming against Indiana brought out the black helmets and black uniforms as promised. From here, the Rutgers uniform schedule reads cleanly: scarlet for the three remaining home dates and white for all four remaining road trips, with Military Appreciation against Nebraska the date to watch for a patch or decal. The grid above has every date, and we add the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Rutgers wearing this week?**
 
-Rutgers wore the scarlet helmet, scarlet jersey and white pants against Howard on Friday, September 25, and won 58-7. A week earlier against USC it was scarlet over scarlet for the Scarlet Out. Next is Homecoming against Indiana on October 3, named The Blackout, and Rutgers has confirmed the black helmets and black uniforms for it. The week-by-week grid above lists every game with the expected set.
+Rutgers wore the Blackout set against Indiana on Saturday, October 3: black helmet with the red R, black jersey and black pants, confirmed from the broadcast. No. 6 Indiana won 47-15, and Rutgers is 1-4. The week before, the Scarlet Knights wore the scarlet helmet, scarlet jersey and white pants in a 58-7 win over Howard. Rutgers is off on October 10, then visits Maryland on October 17, where white is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are Rutgers's football uniforms for 2026?**
 
@@ -94,9 +94,9 @@ A scarlet home jersey, a white road jersey and an all-black alternate, all made 
 
 The 9/11 tribute uniform: a white helmet with a stars-and-stripes 37, an American flag decal and NEVER FORGET on the bumper, plus a scarlet jersey and scarlet pants with NEVER FORGET down the leg. It honored the 37 Rutgers alumni lost on September 11, 2001. Boston College won 28-21.
 
-**Why is Rutgers wearing black against Indiana?**
+**Why did Rutgers wear black against Indiana?**
 
-Rutgers has named its October 3 homecoming game against Indiana The Blackout. Rutgers confirmed in its Blackout announcement that the team will bring out its black uniforms and helmets, the all-black set that debuted in 2025. Kickoff is 8 p.m. Eastern on BTN, and fans are asked to wear black too.
+Rutgers named its October 3 homecoming game against Indiana The Blackout and said in its announcement that the team would bring out its black uniforms and helmets, the all-black set that debuted in 2025. The broadcast matched it: black helmet with the red R, black jersey and black pants, with fans asked to wear black too. Indiana won 47-15.
 
 **Does Rutgers have a new alternate uniform in 2026?**
 

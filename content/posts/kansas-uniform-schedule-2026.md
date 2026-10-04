@@ -13,7 +13,7 @@ teams: ["kansas-jayhawks", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-Kansas has three jersey colors, two helmets, and a habit of mixing them without much warning. This is the full Kansas 2026 uniform schedule: the blue home set, the white road set, the red alternate that showed up in the Border War, and a week-by-week outlook for all twelve games, including the first college football game ever played at Wembley Stadium. We update this page as each combination is confirmed.
+Kansas has three jersey colors, two helmets, and a habit of mixing them without much warning. This is the full Kansas 2026 uniform schedule: the blue home set, the white road set, the red alternate that showed up in the Border War and again against Middle Tennessee, and a week-by-week outlook for all twelve games, including the first college football game ever played at Wembley Stadium. We update this page as each combination is confirmed.
 
 ## The Kansas 2026 Uniform Sets
 
@@ -72,13 +72,13 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 ## The Bottom Line
 
-Three games in, Kansas has used two of its three jerseys and both helmets, which tells you how this season will go: blue is the default at home, white is locked in on the road, and the red set is the wild card that appears when the program wants a night to feel different. The Border War got the red, and Wembley got the standard blue set head to toe, with nothing new unveiled for the trip. The question now is whether homecoming against Baylor gets something else. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Four games in, Kansas has used two of its three jerseys and both helmets, which tells you how this season will go: blue is the default at home, white is locked in on the road, and the red set is the wild card that appears when the program wants a night to feel different. The Border War and Middle Tennessee got the red, and Wembley got the standard blue set head to toe, with nothing new unveiled for the trip. The question now is whether homecoming against Baylor gets something else. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Kansas wearing this week?**
 
-Kansas wore blue on blue on blue against Arizona State at Wembley Stadium on September 19, a 24-17 loss: blue helmet with the Jayhawk, blue jersey, blue pants, confirmed from the broadcast. Kansas is off on September 26 and hosts Middle Tennessee on October 3, where blue is expected again. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Kansas wore the white helmet with the Jayhawk, red jersey and blue pants against Middle Tennessee on Saturday, October 3, confirmed from the broadcast. The Jayhawks won 55-0, the program's first shutout since 2008, and are 2-2. Next is the first Big 12 road game, at Utah on October 10, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Kansas's football uniforms for 2026?**
 

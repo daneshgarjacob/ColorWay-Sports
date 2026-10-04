@@ -13,7 +13,7 @@ teams: ["maryland-terrapins", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Maryland opened 2026 in red at home and white on the road, and the first special look of the season is already locked in: the new "Los Terps" helmet against Virginia Tech on September 19, which Maryland says makes it one of the first college football programs to put Spanish on a helmet. This is the full Maryland 2026 uniform schedule: the Script Terps sets, the alternates in the Under Armour closet, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+Maryland opened 2026 in red at home and white on the road, and the first special look of the season has already come and gone: the new "Los Terps" helmet, worn against Virginia Tech on September 19, which Maryland says makes it one of the first college football programs to put Spanish on a helmet. This is the full Maryland 2026 uniform schedule: the Script Terps sets, the alternates in the Under Armour closet, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The Maryland 2026 Uniform Sets
 
@@ -73,13 +73,13 @@ Maryland has been Under Armour's showcase program for two decades, and no school
 
 ## The Bottom Line
 
-Two games in, Maryland has played it straight: red at home with white pants, white on the road with red pants, and the Script Terps helmet in red both times. That changes Saturday. The Los Terps helmet against Virginia Tech is the first new piece of 2026 gear, and with homecoming Red Out, Military Appreciation Day and a Maryland Forever finale still ahead, this is a program that rarely goes a full season without pulling the black, gold or something new out of the Under Armour closet. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Five games in, Maryland has mostly played it straight: red at home with white pants, white on the road with red pants, and the Script Terps helmet in red every week but one. The exception was the Los Terps helmet against Virginia Tech, the first new piece of 2026 gear, and with homecoming Red Out, Military Appreciation Day and a Maryland Forever finale still ahead, this is a program that rarely goes a full season without pulling the black, gold or something new out of the Under Armour closet. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Maryland wearing this week?**
 
-Maryland wore a red helmet, red jersey and white pants against UCLA on Saturday, September 26, a 54-3 loss on Family Weekend. The week before, the Terps debuted the "Los Terps" script helmet over the red jersey and white pants against Virginia Tech. The week-by-week grid above lists every game with the expected set.
+Maryland wore the red Terps script helmet, white jersey and red pants at Nebraska on Saturday, October 3, a 48-23 loss that left the Terps 2-3. The week before, they wore red over white in a 54-3 loss to UCLA. Next is a trip to Ohio State on October 10, where white is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are Maryland's football uniforms for 2026?**
 
@@ -87,7 +87,7 @@ Maryland wears the Script Terps uniforms from Under Armour: a red home jersey, a
 
 **Does Maryland have a new alternate uniform in 2026?**
 
-Yes, a new helmet. The "Los Terps" helmet, announced August 24, is a one-game alternate for Hispanic Heritage Night against Virginia Tech on September 19. It has a red shell, a white stripe outlined in black, a white facemask and "Los Terps" script on the sides. No new jersey has been revealed so far. We will add any other 2026 alternate to this page when it is announced.
+Yes, a new helmet. The "Los Terps" helmet, announced August 24, was a one-game alternate for Hispanic Heritage Night against Virginia Tech on September 19. It has a red shell, a white stripe outlined in black, a white facemask and "Los Terps" script on the sides. No new jersey has been revealed so far. We will add any other 2026 alternate to this page when it is announced.
 
 **What did Maryland wear against UConn?**
 

@@ -13,7 +13,7 @@ teams: ["nc-state-wolfpack", "acc"]
 resurfaceOnUpdate: true
 ---
 
-NC State has already used three very different looks in three games: a red helmet over white and red at Virginia, then full black camo for the home opener, then a red helmet over white and white at Vanderbilt. This is the full NC State 2026 uniform schedule: the red home set, the white road set, the black alternate, the new Wolfpack Warriors camo uniform, every helmet in the rotation, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+NC State has already used five different looks in five games: a red helmet over white and red at Virginia, full black camo for the home opener, a red helmet over white and white at Vanderbilt, then the white helmet and red jersey at home, over red pants against App State and white pants against Louisville. This is the full NC State 2026 uniform schedule: the red home set, the white road set, the black alternate, the new Wolfpack Warriors camo uniform, every helmet in the rotation, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The NC State 2026 Uniform Sets
 
@@ -76,13 +76,13 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
 
 ## The Bottom Line
 
-NC State has already shown its range: a traditional road look with a quieter Tuffy, then the most talked about alternate of its season in the home opener, then an all white bottom half at Vanderbilt. From here the home dates default to red, the road dates to white, and the question marks sit on night games and Military Appreciation against Duke on November 7. The grid above has every date, and we add a star as each uniform is confirmed.
+NC State has already shown its range: a traditional road look with a quieter Tuffy, then the most talked about alternate of its season in the home opener, then an all white bottom half at Vanderbilt, then red at home under the white helmet against App State and Louisville. From here the home dates default to red, the road dates to white, and the question marks sit on night games and Military Appreciation against Duke on November 7. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What is NC State wearing this week?**
 
-NC State wore red at home against App State on Saturday, September 26: white helmet, red jersey and red pants, confirmed from the broadcast, in a 41-31 win. Next up is Louisville at home on October 3, where red is expected for the ACC home opener and Louisville has confirmed a red helmet, white jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+NC State wore the white helmet, red jersey and white pants against Louisville on Saturday, October 3, confirmed from the broadcast, in a 31-28 win in the ACC home opener that got the Wolfpack to 3-2. The week before, they wore red pants with the same helmet and jersey against App State. Next up is Wake Forest at home on October 10, where red is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are NC State's football uniforms for 2026?**
 

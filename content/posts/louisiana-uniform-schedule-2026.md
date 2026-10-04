@@ -13,7 +13,7 @@ teams: ["louisiana-ragin-cajuns", "sun-belt"]
 resurfaceOnUpdate: true
 ---
 
-Louisiana has worn one helmet and two jerseys through four games, and the variety has all come from the pants. This is the full Louisiana Ragin' Cajuns 2026 uniform schedule: the red home set, the white road jersey, the red helmet with 337 on the bumper, every game played so far and the expected look for the rest of the season, starting with Homecoming against Arkansas State on October 3. We update this page as each combination is confirmed.
+Louisiana has worn two helmets and two jerseys through five games, and most of the variety has come from the pants. This is the full Louisiana Ragin' Cajuns 2026 uniform schedule: the red home set, the white road jersey, the red helmet with 337 on the bumper, every game played so far and the expected look for the rest of the season, starting with Louisiana Tech on October 10. We update this page as each combination is confirmed.
 
 ## The Louisiana 2026 Uniform Sets
 
@@ -25,7 +25,7 @@ Louisiana has worn one helmet and two jerseys through four games, and the variet
 
 The uniforms are Adidas, and the set is about as clean as it gets in the Sun Belt: red and white, with LOUISIANA spelled out across the chest and the stripes kept to the sleeves and the pants. The detail that makes it local is on the helmet bumper. The 337 is the area code for Lafayette and the rest of Acadiana, a small nod to home that shows up every time a player turns to face the camera.
 
-Four games into Michael Desormeaux's fifth season, the pattern is simple. Red jersey at Our Lady of Lourdes Stadium, white jersey on the road, and the pants change from week to week. Louisiana went red over white for the opener, white over red at USC, all red against UAB and all white at Charlotte. No two games have matched yet.
+Five games into Michael Desormeaux's fifth season, the pattern is simple. Red jersey at Our Lady of Lourdes Stadium, white jersey on the road, and the pants change from week to week. Louisiana went red over white for the opener, white over red at USC, all red against UAB, all white at Charlotte, and red over red under a white helmet for Homecoming against Arkansas State. No two games have matched yet.
 
 ## The Full Louisiana 2026 Uniform Schedule, Week by Week
 
@@ -73,17 +73,17 @@ Four games into Michael Desormeaux's fifth season, the pattern is simple. Red je
 
 ## Will Louisiana Wear an Alternate in 2026?
 
-Not yet. Four games in, Louisiana has stayed in red and white and has not shown an alternate jersey or helmet. The open dates for one are the themed home games: Homecoming against Arkansas State on October 3, Louisiana Salutes against South Alabama on November 7 and Senior Day against Coastal Carolina on November 21. The program has not announced anything for any of them, and we will not put an alternate in the grid until it does.
+Only the helmet so far. Louisiana wore the red helmet in its first four games, then switched to a white helmet with the red jersey and red pants for Homecoming against Arkansas State on October 3. No alternate jersey has appeared. The open dates left for one are the themed home games: Louisiana Salutes against South Alabama on November 7 and Senior Day against Coastal Carolina on November 21. The program has not announced anything for either of them, and we will not put an alternate in the grid until it does.
 
 ## The Bottom Line
 
-Louisiana runs one of the cleanest closets in the Sun Belt: one red helmet with 337 on the bumper, a red jersey at home, a white jersey on the road and a pants color that keeps changing. Four games have produced four different combinations, and the all-red look against UAB was the strongest of them. The questions left are what the Ragin' Cajuns wear for Homecoming and Louisiana Salutes, and whether anything beyond red and white comes out this season. The grid above has every date, and we add a star as each uniform is confirmed.
+Louisiana runs one of the cleanest closets in the Sun Belt: a red helmet with 337 on the bumper, a white helmet for Homecoming, a red jersey at home, a white jersey on the road and a pants color that keeps changing. Five games have produced five different combinations, and the all-red look against UAB was the strongest of them. The questions left are what the Ragin' Cajuns wear for Louisiana Salutes and Senior Day, and whether anything beyond red and white comes out this season. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Louisiana wearing this week?**
 
-Louisiana hosts Arkansas State for Homecoming on Saturday, October 3, and the red home jersey is expected with the red helmet. The Ragin' Cajuns wore red jerseys in both home games so far, with white pants against Lamar and red pants against UAB. Louisiana has not announced its combination for Homecoming.
+Louisiana wore the white helmet, red jersey and red pants for Homecoming against Arkansas State on Saturday, October 3, and won 23-20 on a field goal as time expired to move to 4-1. Next is a trip to Louisiana Tech on October 10, where the white road jersey is expected.
 
 **What does 337 on the Louisiana helmet mean?**
 
@@ -91,7 +91,7 @@ It is the area code for Lafayette and the surrounding Acadiana region. The numbe
 
 **What are Louisiana's football uniforms for 2026?**
 
-A red home jersey and a white road jersey, both with LOUISIANA across the chest, worn with red or white pants. The helmet in every game so far has been red with white center stripes and the Ragin' Cajuns logo.
+A red home jersey and a white road jersey, both with LOUISIANA across the chest, worn with red or white pants. The helmet in the first four games was red with white center stripes and the Ragin' Cajuns logo, and a white helmet came out for Homecoming on October 3.
 
 **Who makes Louisiana's uniforms?**
 
@@ -99,7 +99,7 @@ Adidas. The Adidas logo is on the jerseys, and both the red and white sets are A
 
 **What is Louisiana's homecoming game in 2026?**
 
-Arkansas State on Saturday, October 3 at 8 p.m. Eastern at Our Lady of Lourdes Stadium in Lafayette, on ESPN+. It is also Gridiron Alumni Day.
+Arkansas State on Saturday, October 3 at Our Lady of Lourdes Stadium in Lafayette, which was also Gridiron Alumni Day. Louisiana wore the white helmet, red jersey and red pants and won 23-20 on a field goal as time expired.
 
 **When does Louisiana play UL Monroe in 2026?**
 

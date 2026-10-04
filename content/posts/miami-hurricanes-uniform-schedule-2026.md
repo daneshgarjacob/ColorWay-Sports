@@ -13,7 +13,7 @@ teams: ["miami-hurricanes", "acc"]
 resurfaceOnUpdate: true
 ---
 
-Miami wears orange jerseys with white pants under the white U helmet at home, and all white on the road. This page is the full Miami Hurricanes 2026 uniform schedule: the orange home set, the white road set, the green alternate, the black Miami Nights set, and a week-by-week outlook for all twelve games. We add each combination here once it is confirmed. Three games in, Miami has stuck to the base sets every time, with the all-white look at Stanford and again at Wake Forest, and orange over white against Florida A&M.
+Miami wears orange jerseys with white pants under the white U helmet at home, and all white on the road. This page is the full Miami Hurricanes 2026 uniform schedule: the orange home set, the white road set, the green alternate, the black Miami Nights set, and a week-by-week outlook for all twelve games. We add each combination here once it is confirmed. Five games in, Miami is 5-0 and has worn the all-white road set three times, at Stanford, Wake Forest and Clemson, orange over white against Florida A&M, and the green alternate against Central Michigan.
 
 ## The Miami Hurricanes 2026 Uniform Sets
 
@@ -79,13 +79,13 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 
 ## The Bottom Line
 
-Miami has worn nothing but its two base sets in the first three games: all white at Stanford, orange over white at home against Florida A&M, and all white again at Wake Forest in a 33-20 win that opened ACC play. With the same helmet and pants every week, the jersey color is the only thing that changes. That changed against Central Michigan on September 26, when Miami wore the green alternate with green pants under the white helmet in a 52-3 win. Miami has confirmed all white at Clemson, and we expect white at North Carolina and Notre Dame too, and orange for most of the rest of the home slate until the program decides a night deserves black. Florida State's October 17 visit is the leading candidate, based on 2024, and it now has a second candidate to choose from: Miami revealed [2001 national championship throwbacks](/stories/miami-2001-throwback-uniforms) on September 22, in both the orange home and the white road version, with no date announced for either. We grade the road whites an A- and the orange a B+. Last season ended in the national championship game at Hard Rock Stadium, a 27-21 loss to Indiana, so any 2026 special set will get plenty of attention. The grid above has every date, and we star each game once the uniform is confirmed.
+Miami has worn nothing but its two base sets in the first three games: all white at Stanford, orange over white at home against Florida A&M, and all white again at Wake Forest in a 33-20 win that opened ACC play. With the same helmet and pants every week, the jersey color is the only thing that changes. That changed against Central Michigan on September 26, when Miami wore the green alternate with green pants under the white helmet in a 52-3 win. Miami wore all white again at Clemson in a 41-13 win, and we expect white at North Carolina and Notre Dame too, and orange for most of the rest of the home slate until the program decides a night deserves black. Florida State's October 17 visit is the leading candidate, based on 2024, and it now has a second candidate to choose from: Miami revealed [2001 national championship throwbacks](/stories/miami-2001-throwback-uniforms) on September 22, in both the orange home and the white road version, with no date announced for either. We grade the road whites an A- and the orange a B+. Last season ended in the national championship game at Hard Rock Stadium, a 27-21 loss to Indiana, so any 2026 special set will get plenty of attention. The grid above has every date, and we star each game once the uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Miami wearing this week?**
 
-Miami wore the green alternate against Central Michigan on Saturday, September 26: white helmet with the orange and green stripe, green jersey and green pants, announced by the team before the game and confirmed on the broadcast. It was the first green of the season, and Miami won 52-3 to move to 4-0. The week before, the Hurricanes wore all white in a 33-20 win at Wake Forest. Next up is at Clemson on Saturday, October 3, 7:30 p.m. ET on ABC, and Miami has confirmed all white: white helmet, white jersey and white pants. The grid above lists every game, and we update it as each combination is confirmed. Every other top game this Saturday is in our [College Football Week 5 Uniforms 2026](/stories/college-football-week-5-uniforms-2026) guide.
+Miami wore all white at Clemson on Saturday, October 3: white helmet, white jersey and white pants, announced by the team and confirmed on the broadcast, in a 41-13 win that moved the Hurricanes to 5-0. The week before, they wore the green alternate in a 52-3 win over Central Michigan. Miami is off on October 10, then hosts Florida State on October 17, where orange is expected and Miami Nights black is the alternate we are watching for. The grid above lists every game, and we update it as each combination is confirmed. Every other top game from that Saturday is in our [College Football Week 5 Uniforms 2026](/stories/college-football-week-5-uniforms-2026) guide.
 
 **What are Miami's football uniforms for 2026?**
 
@@ -93,7 +93,7 @@ Miami has an orange home jersey with white numerals trimmed in green, a white ro
 
 **Does Miami have a new alternate uniform in 2026?**
 
-None has been announced as of September 19. The most recent specialty uniforms were the all-black set revealed in July 2024 and worn against Florida State, and the camo Honor and Support uniforms worn against Stanford in October 2025. If Miami unveils a 2026 set, we will add it here with the game it is tied to.
+No new alternate has been tied to a 2026 game yet. On September 22 Miami revealed 2001 national championship throwbacks, in an orange home and a white road version, with no date announced for either. The most recent specialty uniforms were the all-black set revealed in July 2024 and worn against Florida State, and the camo Honor and Support uniforms worn against Stanford in October 2025. If Miami unveils a 2026 set, we will add it here with the game it is tied to.
 
 **What did Miami wear against Stanford?**
 

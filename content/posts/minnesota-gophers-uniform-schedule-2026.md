@@ -24,7 +24,7 @@ Minnesota plays its colors straight: maroon, gold and white, mixed and matched a
   <div style="background: #4a0010; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">A maroon shell with an oversized gold Block M and a gold center stripe is the everyday helmet. Gold and white shells joined with the 2024 set, and the chrome gold helmet is back.</div></div>
 </div>
 
-The current Nike set arrived in 2024, the first full relaunch since 2018. It added shoulder stripes to the jerseys and stripes down the sides of the pants, moved the maroon jersey to gold numerals, put the outline of the state of Minnesota on the outside of the collar and stitched Ski-U-Mah inside it. The big 2026 news is on the helmet. In August the program posted a hype video with the message "Chrome is back," bringing back the chromed metallic gold helmet with a maroon and white M and stripe that the Gophers wore from 2018 through 2023. Minnesota has not said when it will wear it. The other change is a first: starting September 12, the Visible logo sits on the back bumper of every Minnesota helmet. Big Ten home teams wear color and visitors wear white, so the road half of the schedule is predictable. The home dates come with themes, and those themes tell us a lot.
+The current Nike set arrived in 2024, the first full relaunch since 2018. It added shoulder stripes to the jerseys and stripes down the sides of the pants, moved the maroon jersey to gold numerals, put the outline of the state of Minnesota on the outside of the collar and stitched Ski-U-Mah inside it. The big 2026 news is on the helmet. In August the program posted a hype video with the message "Chrome is back," bringing back the chromed metallic gold helmet with a maroon and white M and stripe that the Gophers wore from 2018 through 2023. It made its 2026 debut on October 3 against Michigan. The other change is a first: starting September 12, the Visible logo sits on the back bumper of every Minnesota helmet. Big Ten home teams wear color and visitors wear white, so the road half of the schedule is predictable. The home dates come with themes, and those themes tell us a lot.
 
 ## The Full Minnesota Gophers 2026 Uniform Schedule, Week by Week
 
@@ -72,13 +72,13 @@ The current Nike set arrived in 2024, the first full relaunch since 2018. It add
 
 ## The Bottom Line
 
-Four games in, Minnesota has given us both of its color jerseys and, against Michigan on October 3, the chrome gold helmet. The rest of the Gophers uniform schedule is easy to read on the road: white in Seattle, West Lafayette, Bloomington, State College and Madison. At home, maroon is the default, the Maroon Out homecoming against Iowa is locked in, and the only real question now is whether the chrome gold helmet comes back for another home date. The grid above has every date, and we add the stars as each uniform is confirmed.
+Five games in, Minnesota has given us both of its color jerseys and, against Michigan on October 3, the chrome gold helmet. The rest of the Gophers uniform schedule is easy to read on the road: white in Seattle, West Lafayette, Bloomington, State College and Madison. At home, maroon is the default, the Maroon Out homecoming against Iowa is locked in, and the only real question now is whether the chrome gold helmet comes back for another home date. The grid above has every date, and we add the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Minnesota wearing this week?**
 
-Minnesota wore a maroon helmet, white jersey and white pants at Washington on Saturday, September 26, confirmed from the game photos, and won 27-24 against the Huskies in their all-black Dawgs set. The week before, the Gophers wore a maroon helmet, maroon jersey and gold pants for the 41-7 win over Akron, the same home look they opened the season in. Against Mississippi State on September 12, they wore the gold jersey with a maroon helmet and maroon pants for the Gold Out. Next is Michigan at home on October 3, where maroon is expected. The week-by-week grid above lists every game with the expected set.
+Minnesota wore the chrome gold helmet, maroon jersey and maroon pants against Michigan on Saturday, October 3, confirmed from the broadcast and the game photos, and won 20-14 to take the Little Brown Jug and move to 4-1. The week before, the Gophers wore a maroon helmet, white jersey and white pants in a 27-24 win at Washington. Next is a trip to Purdue on October 10, where white is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are the Minnesota Gophers football uniforms for 2026?**
 
@@ -94,7 +94,7 @@ A maroon helmet, gold jersey and maroon pants. The game was the Gold Out, and it
 
 **Why does ESPN list the Washington and Wisconsin games on different dates?**
 
-ESPN's schedule feed runs on UTC. The Washington game kicks off at 10 p.m. Central on Saturday, September 26, and the Wisconsin game kicks off at 6:30 p.m. Central on Friday, November 27, so both show the next day's date there. The opener against Eastern Illinois shows the same shift.
+ESPN's schedule feed runs on UTC. The Washington game kicked off at 10 p.m. Central on Saturday, September 26, and the Wisconsin game kicks off at 6:30 p.m. Central on Friday, November 27, so both show the next day's date there. The opener against Eastern Illinois shows the same shift.
 
 **How many games does Minnesota play in 2026?**
 

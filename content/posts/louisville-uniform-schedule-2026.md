@@ -13,7 +13,7 @@ teams: ["louisville-cardinals", "acc"]
 resurfaceOnUpdate: true
 ---
 
-Louisville wears a red jersey at home, white on the road, and has one announced 2026 alternate: the all-black For The Ville uniform, set for Stanford on October 31. This is the full Louisville 2026 uniform schedule: the all-white set from the Nashville opener against Ole Miss, the red jersey and Salute to Service helmet from the Villanova game, and a week-by-week outlook for all twelve games, starting with SMU on September 19. We update this page as each combination is confirmed.
+Louisville wears a red jersey at home, white on the road, and has one announced 2026 alternate: the all-black For The Ville uniform, set for Stanford on October 31. This is the full Louisville 2026 uniform schedule: the all-white set from the Nashville opener against Ole Miss, the red jersey and Salute to Service helmet from the Villanova game, and a week-by-week outlook for all twelve games, with Florida State up next on October 9. We update this page as each combination is confirmed.
 
 ## The Louisville 2026 Uniform Sets
 
@@ -80,13 +80,13 @@ The Wolfpack side is on the [NC State 2026 uniform schedule](/stories/nc-state-u
 
 ## The Bottom Line
 
-Two games in, Louisville has shown both sides of its base closet: all white in Nashville and red at home under a one-off flag helmet for the 9/11 anniversary. The rest of the calendar is simple. Red is the default for the other four home dates, white covers all five road trips, and the black For The Ville set is locked in for Stanford on Halloween. That game is the one to watch, because it is the first time Louisville takes the field with no red on the uniform at all. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Five games in, Louisville has shown both sides of its base closet: all white in Nashville, red at home under a one-off flag helmet for the 9/11 anniversary, red over white and then red over red against SMU and Wake Forest, and a red helmet over the white road set at NC State. The rest of the calendar is simple. Red is the default for Florida State and Pittsburgh, white covers the four road trips left, and the black For The Ville set is locked in for Stanford on Halloween. That game is the one to watch, because it is the first time Louisville takes the field with no red on the uniform at all. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Louisville wearing this week?**
 
-Louisville wore the white helmet, red jersey and red pants against Wake Forest on Saturday, September 26, and lost 30-27. Against Villanova earlier this month, the Cardinals wore the red jersey, white pants and a white Salute to Service helmet with a Cards script and an American flag stripe. Next is a trip to NC State on Saturday, October 3, and Louisville has confirmed a red helmet, white jersey and white pants for it. The grid above lists every game with the expected uniform.
+Louisville wore the red helmet, white jersey and white pants at NC State on Saturday, October 3, and lost 31-28 to fall to 2-3. The week before, the Cardinals wore the white helmet, red jersey and red pants in a 30-27 loss to Wake Forest. Next is Florida State at home on Friday, October 9, where the red jersey is expected. The grid above lists every game with the expected uniform.
 
 **What are Louisville's football uniforms for 2026?**
 

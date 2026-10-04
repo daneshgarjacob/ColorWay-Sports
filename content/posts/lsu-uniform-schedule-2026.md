@@ -74,15 +74,15 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 ## The Bottom Line
 
-White at home, white on the road against SEC hosts in color, purple only when the other side is in white, gold helmet and gold pants throughout, and a rule change from 1995 underneath all of it. LSU's schedule is the most useful one in the SEC to read, because it tells you what four other teams are wearing too.
+White at home for the big dates, purple for the two FCS and nonconference visitors so far, white on the road against SEC hosts in color, gold helmet and gold pants throughout, and a rule change from 1995 underneath all of it. LSU's schedule is the most useful one in the SEC to read, because it tells you what four other teams are wearing too.
 
-Want every big game in one place? Our [college football Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has what every top team is wearing this Saturday.
+Want every big game in one place? Our [college football Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has what every top team wore that weekend.
 
 ## Frequently Asked Questions
 
 **What jersey is LSU wearing this week?**
 
-LSU wore its home white against Texas A&amp;M on Saturday, September 26: gold helmet, white jersey and gold pants, confirmed from the broadcast, in a 35-6 win. Next up is McNeese at home on October 3, where the home white is expected. LSU wears white at home and, because its SEC hosts wear color, white on most road trips too. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+LSU wore purple against McNeese on Saturday, October 3: gold helmet, purple jersey and gold pants, confirmed from the broadcast, in a 63-14 win that moved the Tigers to 4-1. Next up is a trip to Kentucky on October 10, where white is expected with Kentucky in blue. LSU wears white at home and, because its SEC hosts wear color, white on most road trips too. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are LSU's uniforms for 2026?**
 
