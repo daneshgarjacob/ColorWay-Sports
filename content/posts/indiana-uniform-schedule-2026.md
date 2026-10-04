@@ -13,7 +13,7 @@ teams: ["indiana-hoosiers", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Indiana is the defending national champion and it is defending the title in the plainest uniform in the Big Ten. One helmet, two jerseys, one pair of pants for each, and no alternates. This is the full Indiana 2026 uniform schedule: the crimson home set, the white road set that says HOOSIERS instead of INDIANA, the one crimson helmet that goes with both, and a week-by-week outlook for all twelve games. Two games in, Indiana has worn the same combination twice. We update this page as each jersey is confirmed.
+Indiana is the defending national champion and it is defending the title in the plainest uniform in the Big Ten. Two jerseys, one pair of pants for each, no alternate jerseys, and until October 3 a single helmet. This is the full Indiana 2026 uniform schedule: the crimson home set, the white road set that says HOOSIERS instead of INDIANA, the crimson helmet that goes with both, the white helmet that showed up at Rutgers, and a week-by-week outlook for all twelve games. Five games in, Indiana is 5-0, in the crimson home set four times and all white, white helmet included, at Rutgers. We update this page as each jersey is confirmed.
 
 ## The Indiana 2026 Uniform Sets
 
@@ -80,7 +80,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
 
 **October 10 at Nebraska.** White expected. Memorial Stadium in Lincoln, with Nebraska in red at home. See the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026).
 
-**October 17 vs. Ohio State.** Crimson expected. The biggest home game on the board and the sort of night that usually produces a special jersey somewhere else in the country. Indiana's answer so far has been to wear the same thing it always wears. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) tracks the Buckeyes.
+**October 17 vs. Ohio State.** Crimson expected. The biggest home game on the board and the sort of night that usually produces a special jersey somewhere else in the country. Indiana's answer so far has mostly been to wear the same thing it always wears. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) tracks the Buckeyes.
 
 **October 24 at Michigan.** White expected. A November-style trip to Michigan Stadium in late October, with the [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026) on the other side.
 
@@ -96,17 +96,17 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
 
 ## The Bottom Line
 
-Indiana is the most predictable uniform team in the Big Ten and it is not an accident. The 2024 redesign took the black accents out, the 2026 update added a trident to the collar and stopped, and the program has now gone three full seasons without an alternate jersey or a second helmet. Crimson at home, white on the road, white pants with both, one helmet for everything. The grid above has all twelve games. If the defending national champion ever does break the pattern, Homecoming against Minnesota on October 31 and the Old Oaken Bucket game against Purdue on November 28 are the two dates to circle, and we will star this page the day it happens.
+Indiana is the most predictable uniform team in the Big Ten and it is not an accident. The 2024 redesign took the black accents out, the 2026 update added a trident to the collar and stopped, and the program has now gone three full seasons without an alternate jersey. The one break so far is a helmet: Indiana wore a white helmet with crimson trim at Rutgers on October 3, a 47-15 win. Crimson at home, white on the road, white pants with both. The grid above has all twelve games. If the defending national champion ever does break the pattern, Homecoming against Minnesota on October 31 and the Old Oaken Bucket game against Purdue on November 28 are the two dates to circle, and we will star this page the day it happens.
 
 ## Frequently Asked Questions
 
 **What jersey is Indiana wearing this week?**
 
-Indiana wore the crimson helmet, crimson jersey and white pants against Northwestern on Friday, September 25, and won 29-23 to move to 4-0. It is the same combination the Hoosiers wore in a 52-16 win over North Texas and a 55-0 win over Howard. Next is a trip to Rutgers on October 3, where white is expected against the Scarlet Knights' all-black Blackout set. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
+Indiana wore all white at Rutgers on Saturday, October 3, white helmet, white jersey and white pants, confirmed from the broadcast, and won 47-15 to move to 5-0. It was the first look at the road HOOSIERS jersey in 2026. Next is at Nebraska on October 10, where white is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
 
 **What are Indiana's football uniforms for 2026?**
 
-A crimson home jersey with white numerals and INDIANA across the chest, a white road jersey with crimson numerals and HOOSIERS across the chest, and white pants with both. One helmet covers the whole season: a crimson shell with a white center stripe, the white IU trident on both sides and INDIANA on the rear bumper. All of it is adidas, and the only change for 2026 is a new jersey template with the IU trident added at the base of the collar.
+A crimson home jersey with white numerals and INDIANA across the chest, a white road jersey with crimson numerals and HOOSIERS across the chest, and white pants with both. The primary helmet is a crimson shell with a white center stripe, the white IU trident on both sides and INDIANA on the rear bumper, and Indiana wore a white helmet with crimson trim at Rutgers on October 3. All of it is adidas, and the planned change for 2026 was a new jersey template with the IU trident added at the base of the collar.
 
 **Why does Indiana's road jersey say HOOSIERS instead of INDIANA?**
 
@@ -114,7 +114,7 @@ That is the design. Since the 2024 adidas redesign the home crimson jersey reads
 
 **Does Indiana have an alternate uniform in 2026?**
 
-Not one that has been announced. Indiana has not worn an alternate jersey or an alternate helmet in three seasons under Curt Cignetti, which covers the 2025 national championship run. The program has a history worth raiding, including the candy stripe alternates from 2016 and the six-helmet program from 2013, but nothing from that closet has come back out yet.
+Not one that has been announced. Indiana has not worn an alternate jersey in three seasons under Curt Cignetti, which covers the 2025 national championship run. The one new look in 2026 is a white helmet with crimson trim, worn with the white road set at Rutgers on October 3. The program has a history worth raiding, including the candy stripe alternates from 2016 and the six-helmet program from 2013, but nothing from that closet has come back out yet.
 
 **How many games does Indiana play in 2026?**
 

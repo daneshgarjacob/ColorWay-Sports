@@ -13,7 +13,7 @@ teams: ["cincinnati-bearcats", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-Cincinnati has worn two different uniforms in two home games this season: all red under a white Cincy script helmet against Boston College, then black jerseys and black pants under the red C-Paw helmet for the first Nipp at Night against Western Carolina. This is the full Cincinnati 2026 uniform schedule: the black, red and white Nike sets, the helmet rotation, and a week-by-week outlook for all twelve games, including the final Victory Bell game at TQL Stadium this Saturday. We update this page as each combination is confirmed.
+Cincinnati has worn a different uniform in each of its first five games this season, from all red under a white Cincy script helmet against Boston College to head-to-toe white at Arizona. This is the full Cincinnati 2026 uniform schedule: the black, red and white Nike sets, the helmet rotation, and a week-by-week outlook for all twelve games, including the Victory Bell game the Bearcats won at TQL Stadium. We update this page as each combination is confirmed.
 
 ## The Cincinnati 2026 Uniform Sets
 
@@ -78,13 +78,13 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
 
 ## The Bottom Line
 
-The first two games brought two different sets and two different helmets: Cincinnati went all red under the white script shell for the opener and black under the red C-Paw shell for the first night game. That is the pattern to expect all fall. Road dates at Arizona, West Virginia, Houston, Iowa State and BYU should be white, and every home date is a choice between black and red, with three helmet colors and two logos on top. Then came black helmet, red jersey and black pants for the Victory Bell game at TQL Stadium, and all black for the 31-26 Big 12 opener win over Kansas State, which makes four games in four different combinations. The fifth is announced too: all white, helmet included, at Arizona on October 3. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+The first two games brought two different sets and two different helmets: Cincinnati went all red under the white script shell for the opener and black under the red C-Paw shell for the first night game. That is the pattern to expect all fall. Road dates at Arizona, West Virginia, Houston, Iowa State and BYU should be white, and every home date is a choice between black and red, with three helmet colors and two logos on top. Then came black helmet, red jersey and black pants for the Victory Bell game at TQL Stadium, and all black for the 31-26 Big 12 opener win over Kansas State, The fifth was all white, helmet included, at Arizona on October 3, a 34-7 loss, which makes five games in five different combinations and a 4-1 record. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Cincinnati wearing this week?**
 
-Cincinnati wore all black against Kansas State on Saturday, September 26: black helmet with the red logo, black jersey and black pants, confirmed from the broadcast, and won the Big 12 opener 31-26 to move to 4-0. The week before, against Miami (OH) at TQL Stadium, the Bearcats wore a black helmet, red jersey and black pants. Next up is at Arizona on October 3, and Cincinnati has confirmed all white: white helmet, white jersey and white pants. The grid above lists every game, and we update it as each combination is confirmed.
+Cincinnati is off on October 10. Last time out, the Bearcats wore all white at Arizona on Saturday, October 3: white helmet, white jersey and white pants, confirmed from the broadcast, in a 34-7 loss that dropped them to 4-1. Next up is at West Virginia on October 17, where white is expected. The grid above lists every game, and we update it as each combination is confirmed.
 
 **What are Cincinnati's football uniforms for 2026?**
 
@@ -92,7 +92,7 @@ Three Nike sets introduced in 2025: Classic Black, Pure White and Cincy Red, eac
 
 **Does Cincinnati have a new alternate uniform in 2026?**
 
-Not that has been announced. The 2026 rotation is the Nike wardrobe from 2025. The Victory Bell game at TQL Stadium, the first football game ever played there, is the most likely place for a special look if one exists, and we will add it here if it is revealed.
+Not that has been announced. The 2026 rotation is the Nike wardrobe from 2025. The Victory Bell game at TQL Stadium on September 19, the first football game ever played there, was the most likely place for a special look, and Cincinnati wore a black helmet, red jersey and black pants from the regular wardrobe. We will add anything new here if it is revealed.
 
 **What did Cincinnati wear against Western Carolina?**
 

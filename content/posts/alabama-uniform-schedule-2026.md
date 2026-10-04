@@ -84,13 +84,13 @@ Alabama's 2026 uniform schedule is the most predictable in the SEC. Crimson at h
 
 For more, see the [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) and the [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026).
 
-Want every big game in one place? Our [college football Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has what every top team is wearing this Saturday.
+Want every big game in one place? Our [college football Week 5 uniform guide](/stories/college-football-week-5-uniforms-2026) has what every top team wore on October 3.
 
 ## Frequently Asked Questions
 
 **What jersey is Alabama wearing this week?**
 
-Alabama wore crimson at home against South Carolina on Saturday, September 26: crimson helmet, crimson jersey and white pants, confirmed from the broadcast, in a 49-18 win. Next up is at Mississippi State on October 3, where white is expected. Alabama wears crimson at home and white on the road. The one date that could break the pattern is November 7 at LSU, because LSU sometimes wears white at home, which would put Alabama in crimson.
+Alabama wore white at Mississippi State on Saturday, October 3: crimson helmet, white jersey and white pants, confirmed from the broadcast, in a 56-23 win that moved the Tide to 5-0. Next up is Georgia in Tuscaloosa on October 10, where crimson is expected. Alabama wears crimson at home and white on the road. The one date that could break the pattern is November 7 at LSU, because LSU sometimes wears white at home, which would put Alabama in crimson.
 
 **Does Alabama have alternate uniforms in 2026?**
 

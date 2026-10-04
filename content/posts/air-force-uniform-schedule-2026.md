@@ -13,7 +13,7 @@ teams: ["air-force-falcons", "mountain-west"]
 resurfaceOnUpdate: true
 ---
 
-No program in college football builds a one-off uniform with more research behind it than Air Force, and the 2026 version is already public. This is the full Air Force 2026 uniform schedule: the blue home set, the white road set, the Freedom 250 uniform the Falcons opened the season in, the B-21 Raider build from the Air Power Legacy Series that comes out against Navy on October 3, and a week-by-week outlook for all twelve games including both Commander-in-Chief's Trophy dates. We update this page as each combination is confirmed.
+No program in college football builds a one-off uniform with more research behind it than Air Force, and the 2026 version is already public. This is the full Air Force 2026 uniform schedule: the blue home set, the white road set, the Freedom 250 uniform the Falcons opened the season in, the B-21 Raider build from the Air Power Legacy Series that came out against Navy on October 3, and a week-by-week outlook for all twelve games including both Commander-in-Chief's Trophy dates. We update this page as each combination is confirmed.
 
 ## The Air Force 2026 Uniform Sets
 
@@ -52,7 +52,7 @@ The series started in 2016 with shark-teeth nose art and has since run through t
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AF_Football/status/1955332673104396730"></a></blockquote>
 </div>
 
-Air Force wears the B-21 against Navy on October 3, and 100 percent of the proceeds from game-worn gear go back to cadet-athletes.
+Air Force wore the B-21 against Navy on October 3 and won 14-9, and 100 percent of the proceeds from game-worn gear go back to cadet-athletes.
 
 One structural note before the grid. The 2026 slate gave Air Force seven home games, its first seven-game home schedule since 2022, and it put the Navy game in Colorado Springs rather than Annapolis. That is why the B-21 uniform is a home debut this year. In 2025 the Falcons wore the F-16 set on the road at Navy.
 
@@ -96,7 +96,7 @@ One structural note before the grid. The 2026 slate gave Air Force seven home ga
 
 **October 31 vs. UConn.** Blue expected. Halloween at Falcon Stadium. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
 
-**November 7 at Army.** White expected. The second Commander-in-Chief's Trophy game, at Michie Stadium on CBS, and Army's only home night game of the season. The Black Knights wear black at home, so the color assignment here is not in question. What Army does with its pants is the variable, and the [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026) tracks it. One thing worth being clear about: the B-21 uniform is spoken for on October 3, so do not expect the Air Power Legacy Series set to travel to West Point.
+**November 7 at Army.** White expected. The second Commander-in-Chief's Trophy game, at Michie Stadium on CBS, and Army's only home night game of the season. The Black Knights wear black at home, so the color assignment here is not in question. What Army does with its pants is the variable, and the [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026) tracks it. One thing worth being clear about: the B-21 uniform was spent on October 3, so do not expect the Air Power Legacy Series set to travel to West Point.
 
 **November 14 vs. San Jose State.** Blue expected.
 
@@ -112,19 +112,19 @@ Air Force runs the most disciplined base uniform in college football and then sp
 
 **What is Air Force wearing this week?**
 
-The B-21 Raider uniform. Air Force hosts Navy on Saturday, October 3, in the Air Power Legacy Series look. The Falcons beat Nevada 36-33 in double overtime on September 26 in the blue helmet, white jersey and blue pants, confirmed from the game photos.
+White is expected. Air Force plays at Northern Illinois on Saturday, October 10, the cross-country Mountain West trip to DeKalb. Last week the Falcons beat Navy 14-9 on October 3 in the B-21 Raider uniform, matte black helmet, black jersey and black pants, confirmed from the broadcast. They are 3-1.
 
 **What are Air Force's football uniforms for 2026?**
 
-A blue helmet with the silver lightning bolt paired with a blue home jersey or a white road jersey, both from Nike, plus two specials. The Freedom 250 uniform, a navy set with red and white trim and thirteen stars in several places, came out in the opener. The B-21 Raider uniform, matte black with chrome numerals, comes out against Navy. Every Air Force team also wears a Freedom 250 patch this season.
+A blue helmet with the silver lightning bolt paired with a blue home jersey or a white road jersey, both from Nike, plus two specials. The Freedom 250 uniform, a navy set with red and white trim and thirteen stars in several places, came out in the opener. The B-21 Raider uniform, matte black with chrome numerals, came out against Navy on October 3. Every Air Force team also wears a Freedom 250 patch this season.
 
 **When does Air Force wear the B-21 Raider uniform?**
 
-Saturday, October 3 against Navy at Falcon Stadium, 10 a.m. Mountain time on CBS. It is the 2026 edition of the Air Power Legacy Series, designed with Northrop Grumman, and the B-21 theme also runs across merchandise and signage at the stadium that day.
+It already has. Air Force wore it on Saturday, October 3 against Navy at Falcon Stadium and won 14-9 in the first leg of the Commander-in-Chief's Trophy. It is the 2026 edition of the Air Power Legacy Series, designed with Northrop Grumman, and the B-21 theme also ran across merchandise and signage at the stadium that day.
 
 **When are the Commander-in-Chief's Trophy games in 2026?**
 
-Air Force hosts Navy on October 3 and plays at Army on November 7. Army and Navy meet on December 12 at MetLife Stadium to finish the round robin. Air Force has won the trophy twenty-one times, more than either of the other academies, and Navy has held it the last two seasons.
+Air Force beat Navy 14-9 at home on October 3 and plays at Army on November 7. Army and Navy meet on December 12 at MetLife Stadium to finish the round robin. Air Force has won the trophy twenty-one times, more than either of the other academies, and Navy has held it the last two seasons.
 
 **How many games does Air Force play in 2026?**
 

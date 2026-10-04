@@ -106,17 +106,17 @@ A week later, at night against New Mexico State, the Rainbow Warriors went black
 
 ## Why Hawaii Plays at 9 a.m.
 
-Hawaii does not observe daylight saving time, so it sits two or three hours behind the Pacific time zone and five or six hours behind the East, so road games in the Mountain and Central time zones land early on the island. The Wyoming game kicks off at 9 a.m. Hawaii time and the Northern Illinois game at 9:30 a.m. Home games run the other direction: a 6 p.m. kickoff at the Ching Complex is 11 p.m. Central in September, which is why Hawaii home games are so often the last game on the national scoreboard.
+Hawaii does not observe daylight saving time, so it sits two or three hours behind the Pacific time zone and five or six hours behind the East, so road games in the Mountain and Central time zones land early on the island. The Wyoming game kicked off at 9 a.m. Hawaii time, and the Northern Illinois game is set for 9:30 a.m. Home games run the other direction: a 6 p.m. kickoff at the Ching Complex is 11 p.m. Central in September, which is why Hawaii home games are so often the last game on the national scoreboard.
 
 ## The Bottom Line
 
-Three games in, Hawaii has worn all white at home, all black at home and white over black on the road, which tells you the Rainbow Warriors choose the uniform for the moment rather than the calendar. White is locked in on the road. At home, black at night is the pattern so far, and the Senior Night White Out on November 28 should bring the all white set back. Homecoming against New Mexico on October 17 is the date we would circle for anything new. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Five games in, Hawaii is 1-4 and has worn all white at home, all black three times and white over black at Stanford, which tells you the Rainbow Warriors choose the uniform for the moment rather than the calendar. White is the expectation on the road, though Hawaii went all black at Wyoming. At home, black at night is the pattern so far, and the Senior Night White Out on November 28 should bring the all white set back. Homecoming against New Mexico on October 17 is the date we would circle for anything new. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Hawaii wearing this week?**
 
-Hawaii wore all black at Wyoming on Saturday, September 26, black helmet, black jersey and black pants, confirmed from the game photos, and lost 27-10. We had expected the white road set. It is the same all-black look Hawaii wore against New Mexico State on September 12. Next is San Jose State at home on October 3, where black is expected.
+Hawaii wore all black against San Jose State at the Ching Complex on Saturday, October 3, black helmet, black jersey and black pants, confirmed from the game photos, and lost 20-16 to fall to 1-4. It was the third straight game in the all-black set. Next is at Arizona State on October 10, where white is expected.
 
 **What are Hawaii's football uniforms for 2026?**
 

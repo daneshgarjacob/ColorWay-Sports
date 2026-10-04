@@ -88,7 +88,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
 
 ## The Bottom Line
 
-Two games in, Fresno State has shown two combinations and one helmet, and both combinations ran red pants. That is the signature here: the Bulldogs are a red pants team, on the road as well as at home, which is rarer than it sounds and gives the white jersey a bolder look than most road sets get. The black alternate is the wild card, and the schedule hands it two obvious slots, the Boise State night game on October 10 and Halloween against Oregon State. The grid above has every date, and we fill in a star as each combination is confirmed.
+Five games in, Fresno State is 4-1 and has shown two combinations and one helmet, all red at home and the white jersey over red pants on the road, and both combinations ran red pants. That is the signature here: the Bulldogs are a red pants team, on the road as well as at home, which is rarer than it sounds and gives the white jersey a bolder look than most road sets get. The black alternate is the wild card, and the schedule hands it two obvious slots, the Boise State night game on October 10 and Halloween against Oregon State. The grid above has every date, and we fill in a star as each combination is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FresnoStateFB/status/2100252334010016037"></a></blockquote>
@@ -98,7 +98,7 @@ Two games in, Fresno State has shown two combinations and one helmet, and both c
 
 **What is Fresno State wearing this week?**
 
-Fresno State wore all red against Rice on Saturday, September 26, red helmet, red jersey and red pants confirmed from the broadcast, in a 38-24 win. Next is Washington State on the road on October 3, where the white road jersey is expected and Washington State has confirmed all gray at home. The week-by-week grid above lists every game.
+Fresno State wore the red helmet, white jersey and red pants at Washington State on Saturday, October 3, confirmed from the game photos, and won the Pac-12 opener 26-6 to move to 4-1. Next is Boise State at home on October 10, where red is expected, and the 7:30 p.m. Pacific kickoff makes it the best chance on the schedule for the black set. The week-by-week grid above lists every game.
 
 **What are Fresno State's football uniforms for 2026?**
 
@@ -106,7 +106,7 @@ A red home jersey with FRESNO STATE in white across the chest, a white road jers
 
 **Does Fresno State wear red pants on the road?**
 
-Yes. The Bulldogs wore the red pants with the white jersey at USC on September 4 rather than going all white, which is how they have handled the road set. We will note it here if that changes.
+Yes. The Bulldogs wore the red pants with the white jersey at USC on September 4 rather than going all white, and did the same at San Jose State and Washington State, which is how they have handled the road set. We will note it here if that changes.
 
 **What is the Green V on the Fresno State helmet?**
 

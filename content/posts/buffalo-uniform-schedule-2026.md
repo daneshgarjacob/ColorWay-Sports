@@ -89,13 +89,13 @@ MAC programs built their national television identity on midweek November footba
 
 ## The Bottom Line
 
-Two games in, Buffalo has already used two helmets, two jersey colors and two pant colors, which tells you this is not a program that rides one look. Blue is the default at Broadview Stadium, white is locked in on the road under MAC color rules, and the black set is the one everybody is waiting on. Homecoming on September 26 and the Wednesday night Central Michigan game on November 18 are the two dates we would circle. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Five games in, Buffalo is 2-3 and has already used at least three helmets, three jersey colors and three pant colors, which tells you this is not a program that rides one look. Blue is the default at Broadview Stadium, white is locked in on the road under MAC color rules, and the dark set from the Western Michigan game on October 3 is the one we are still waiting on Buffalo to name. Homecoming on September 26 went with the standard blue set, so the Wednesday night Central Michigan game on November 18 is the date we would circle next. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Buffalo wearing this week?**
 
-Buffalo wore the blue helmet, blue jersey and white pants against Robert Morris on Homecoming, Saturday, September 26, and won 31-28. The week before, the Bulls wore the blue helmet, white jersey and blue pants in a 55-13 loss at Penn State. The week-by-week grid above lists every game with the expected uniform, and we star each one as it is confirmed.
+Buffalo wore a dark helmet with the blue bull, a dark jersey with light blue numbers and white pants against Western Michigan on Saturday, October 3, confirmed from the broadcast, and lost 20-17 in the MAC opener to fall to 2-3. The helmet and jersey read close to black, so it looks like a dark alternate, and we will name it once Buffalo does. Next up is at Toledo on October 10, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we star each one as it is confirmed.
 
 **What are Buffalo's football uniforms for 2026?**
 
@@ -107,7 +107,7 @@ The black helmet, the blue jersey and black pants in the season opener at Broadv
 
 **Does Buffalo have a black uniform in 2026?**
 
-Buffalo has a black helmet, a black jersey and black pants, and the black helmet and black pants have already appeared this season in the opener. The full black jersey has not been worn yet in 2026. We will star it on this page the moment it shows up.
+Buffalo has a black helmet, a black jersey and black pants, and the black helmet and black pants have already appeared this season in the opener. Against Western Michigan on October 3, Buffalo wore a dark helmet and dark jersey that read close to black on the broadcast, but the school has not named that set, so we are not calling it the black jersey yet. We will star it on this page once it is confirmed.
 
 **Where do the Buffalo Bulls play home games?**
 

@@ -13,7 +13,7 @@ teams: ["byu-cougars", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-BYU wears royal blue at home and white on the road, but the Cougars almost never wear the same full combination twice in a season. They pick a new pairing of helmet, jersey and pants every week and reveal it on the Monday of game week. This is the full BYU 2026 uniform schedule: the royal home set, the white road set, the navy accents, both helmets, and all twelve games week by week. Three games are confirmed so far, and this week's look at TCU is already announced. We update this page every Monday when BYU reveals the next one.
+BYU wears royal blue at home and white on the road, but the Cougars almost never wear the same full combination twice in a season. They pick a new pairing of helmet, jersey and pants every week and reveal it on the Monday of game week. This is the full BYU 2026 uniform schedule: the royal home set, the white road set, the navy accents, both helmets, and all twelve games week by week. All four games so far are confirmed, and BYU is 4-0. We update this page every Monday when BYU reveals the next one.
 
 ## The BYU 2026 Uniform Sets
 
@@ -84,13 +84,13 @@ See the [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026) for the 
 
 ## The Bottom Line
 
-BYU has one of the easiest color rules in the sport and one of the hardest wardrobes to predict. Royal is locked in at home and white is locked in on the road. The helmet, facemask and pants change every week. The first three weeks already show the range: a royal helmet over royal and white, a white helmet over all royal, and an all-white road look with navy trim, and TCU brings a fourth: the royal helmet over the white jersey and white pants. With Notre Dame coming to Provo and no 2026 alternate announced yet, the October 17 date is the one to watch. We update the grid every Monday when BYU posts the next combination.
+BYU has one of the easiest color rules in the sport and one of the hardest wardrobes to predict. Royal is locked in at home and white is locked in on the road. The helmet, facemask and pants change every week. The first four games already show the range: a royal helmet over royal and white, a white helmet over all royal, an all-white road look with navy trim, and the royal helmet over the white jersey and white pants at TCU. With Notre Dame coming to Provo and no 2026 alternate announced yet, the October 17 date is the one to watch. We update the grid every Monday when BYU posts the next combination.
 
 ## Frequently Asked Questions
 
 **What jersey is BYU wearing this week?**
 
-At TCU on Saturday, October 3, BYU will wear a royal blue helmet, white jersey and white pants, confirmed by the school during game week. BYU's last game was a 41-23 win at Colorado State on September 19 in all white with navy trim, white helmet included, followed by a bye on September 26.
+BYU hosts Iowa State on Friday, October 9, at 8:15 p.m. Mountain during homecoming week, and royal is expected, with the full combination revealed on Monday of game week. BYU's last game was a 17-10 win at TCU on Saturday, October 3, in the royal blue helmet, white jersey and white pants, confirmed from the broadcast. The Cougars are 4-0.
 
 **What are BYU's football uniforms for 2026?**
 

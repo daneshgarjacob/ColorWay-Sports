@@ -96,13 +96,13 @@ Most college teams treat the colored jersey as a home jersey and the white as a 
 
 ## The Bottom Line
 
-Three games in, Coastal has worn three completely different uniforms: all teal at West Virginia, all white at home against Fordham, and teal, white and teal at Delaware. Teal is the default in Conway, but the home calendar is stacked with themes: the Teal Out against Liberty, "Wait 'Til You See This Game" against App State and a Black Out for Homecoming against Old Dominion. October 16 and November 7 are the two dates we would circle. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Five games in, Coastal is 1-4 and has rarely repeated itself: all teal at West Virginia and again for the Teal Out against Liberty, all white at home against Fordham, teal, white and teal at Delaware, and a white helmet over the teal jersey against Georgia Southern. Teal is the default in Conway, but the home calendar is stacked with themes, and after the Teal Out come "Wait 'Til You See This Game" against App State and a Black Out for Homecoming against Old Dominion. October 16 and November 7 are the two dates we would circle. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Coastal Carolina wearing this week?**
 
-Coastal played at Delaware on Saturday, September 19 in a teal helmet, white jersey and teal pants, and lost 22-14 to a Delaware side in blue jerseys and gold pants. Then came the Teal Out against Liberty on Thursday, September 24, in all teal, a 34-17 loss. The week-by-week grid above lists every game with the expected uniform.
+Coastal wore a white helmet, teal jersey and white pants against Georgia Southern on Saturday, October 3, confirmed from the broadcast, and lost the Sun Belt opener 31-24 to fall to 1-4. Next is at Marshall on October 10, where white is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are Coastal Carolina's football uniforms for 2026?**
 
@@ -118,7 +118,7 @@ The home opener on September 12 was the White Out and Beach Bash, with fans aske
 
 **When is Coastal Carolina's Black Out game?**
 
-Saturday, November 7 against Old Dominion at Brooks Stadium. It is also Homecoming. The Teal Out is Thursday, September 24 against Liberty.
+Saturday, November 7 against Old Dominion at Brooks Stadium. It is also Homecoming. The Teal Out was Thursday, September 24 against Liberty, when Coastal wore all teal.
 
 **What color is Coastal Carolina's field?**
 

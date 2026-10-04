@@ -73,13 +73,13 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
 
 ## The Bottom Line
 
-Two games in, Arizona has worn exactly what the rules predict: the navy jersey under the white helmet at home, and head-to-toe white at BYU. The interesting part of this season is the promo calendar. Arizona has told fans what color to wear for every home game, and three of those calls point somewhere other than navy: red for Bear Down 100 at homecoming, white for Sandstorm night against TCU, and red for the 100th Territorial Cup. The road schedule should stay white all the way through. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Five games in, Arizona is 4-1 and has mostly worn what the rules predict: the navy jersey under the white helmet at home and white on the road. The twists so far are the red jersey against Northern Illinois and navy pants, at Washington State under the white jersey and again against Cincinnati under the navy one. The interesting part of this season is the promo calendar. Arizona has told fans what color to wear for every home game, and three of those calls point somewhere other than navy: red for Bear Down 100 at homecoming, white for Sandstorm night against TCU, and red for the 100th Territorial Cup. The road schedule should stay white all the way through. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Arizona wearing this week?**
 
-Arizona wore white at Washington State on Saturday, September 26: white helmet, white jersey and navy pants, confirmed from the broadcast, in a 34-24 win. Next up is Cincinnati in Tucson on October 3, where navy is the expected home jersey and Cincinnati has confirmed all white. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Arizona wore navy against Cincinnati in Tucson on Saturday, October 3: white helmet, navy jersey and navy pants, confirmed from the broadcast, in a 34-7 win that moved the Wildcats to 4-1. Next up is at West Virginia on October 10, where white is expected for the Mountaineers' Coal Rush game. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Arizona's football uniforms for 2026?**
 

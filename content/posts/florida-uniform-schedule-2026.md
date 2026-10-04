@@ -91,13 +91,13 @@ Florida is the rare college program that will tell you in August what it is wear
 
 For more, see our [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026), the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026) and [Florida's blue helmet uniforms graded](/stories/gators-blue-helmet-uniforms-2026).
 
-Want every big game in one place? Our [college football Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has what every top team is wearing this Saturday.
+Want every big game in one place? Our [college football Week 5 uniform guide](/stories/college-football-week-5-uniforms-2026) has what every top team wore on October 3.
 
 ## Frequently Asked Questions
 
 **What jersey is Florida wearing this week?**
 
-Florida wore the orange helmet, blue jersey and white pants against Ole Miss on Saturday, September 26, and won 52-28. Florida released a full 2026 uniform schedule in advance. Blue jerseys at home, white jerseys on the road every week, and one orange jersey, against Campbell on September 12.
+Florida wore the orange helmet, white jersey and blue pants at Missouri on Saturday, October 3, confirmed from the game photos, and lost 45-17 to fall to 4-1. Next is South Carolina at home on October 10, where the season schedule calls for the retro helmet with a white jersey and white pants. Florida released a full 2026 uniform schedule in advance. Blue jerseys at home, white jerseys on the road every week, and one orange jersey, against Campbell on September 12.
 
 **When does Florida wear the retro helmet in 2026?**
 

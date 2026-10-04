@@ -96,7 +96,7 @@ Pitt visiting in white makes the clash work either way. Their year is on the [Pi
 
 ## The Bottom Line
 
-Two games into 2026, Boston College has shown the two things that matter: the maroon stripe is back on the gold helmet, and the Red Bandanna uniform is still the best one-off in the sport. Everything else is mix and match. White and gold on the road, maroon at home, and a pants decision every week that quietly changes how the whole thing looks. The grid above has every date, and we fill in the stars as each combination is confirmed.
+Five games into 2026, Boston College is 2-3 and has shown the two things that matter: the maroon stripe is back on the gold helmet, and the Red Bandanna uniform is still the best one-off in the sport. Everything else is mix and match. White and gold on the road, maroon at home, and a pants decision every week that quietly changes how the whole thing looks. The grid above has every date, and we fill in the stars as each combination is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BCFootball/status/2015922918287417771"></a></blockquote>
@@ -106,7 +106,7 @@ Two games into 2026, Boston College has shown the two things that matter: the ma
 
 **What jersey is Boston College wearing this week?**
 
-Boston College wore the gold helmet, maroon jersey and gold pants against Virginia Tech on Saturday, September 26, and lost 21-14. It is the same set the Eagles wore to beat Maine 22-16 on September 19. They wore the Red Bandanna uniform against Rutgers on September 11 and the white road set at Cincinnati on September 5. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Boston College is off on October 10. Last time out, the Eagles wore the gold helmet and white jersey at SMU on Saturday, October 3, confirmed from the broadcast, with the pants not clear in the frames we have, and lost 25-16 to fall to 2-3. Next up is Pitt at Alumni Stadium on October 17 for Homecoming, where maroon is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Boston College's football uniforms for 2026?**
 

@@ -48,7 +48,7 @@ This season carries extra weight. Russell would have turned 100 on July 23, 2026
 
 **September 5 vs. Charleston Southern.** ★ Confirmed from the broadcast and Georgia Southern's game photography: **navy helmet, navy jersey, white pants** for the opener at Allen E. Paulson Stadium, Little Eagles Day and Teacher Appreciation. The Eagles led 21-0 after one quarter and won 31-0.
 
-**September 12 at Clemson.** ★ Confirmed from Georgia Southern's game photography, dated to the day of the game: **navy helmet, white jersey, navy pants**, the one look this season with navy below a white top. Clemson wore orange over white and won 22-7 after a weather-delayed start. Our [Clemson 2026 uniform schedule](/stories/clemson-uniform-schedule-2026) has the Tigers side.
+**September 12 at Clemson.** ★ Confirmed from Georgia Southern's game photography, dated to the day of the game: **navy helmet, white jersey, navy pants**, the first look this season with navy below a white top. Clemson wore orange over white and won 22-7 after a weather-delayed start. Our [Clemson 2026 uniform schedule](/stories/clemson-uniform-schedule-2026) has the Tigers side.
 
 **September 19 at Jacksonville State.** ★ Confirmed from Georgia Southern's game photography, dated to the day of the game: **navy helmet, white jersey, white pants**. Jacksonville State wore red at home. Georgia Southern led 24-10 at halftime, but the Gamecocks rallied in the second half and won 31-27.
 
@@ -74,17 +74,17 @@ This season carries extra weight. Russell would have turned 100 on July 23, 2026
 
 ## Will Georgia Southern Wear White Helmets for Erk 100?
 
-It is the best uniform question left on the Sun Belt calendar. Georgia Southern has worn the navy numbered helmet in all four games, and the program almost never changes it. The exception, in 2024, was the White Out, when the team announced white helmets two days before kickoff with Russell's name and his One More Time line on them. The Erk 100 White Out on October 31 is built around the same man. If Georgia Southern does it again, we expect the announcement late in game week, and we will update this page when it lands.
+It is the best uniform question left on the Sun Belt calendar. Georgia Southern has worn the navy numbered helmet in all five games, and the program almost never changes it. The exception, in 2024, was the White Out, when the team announced white helmets two days before kickoff with Russell's name and his One More Time line on them. The Erk 100 White Out on October 31 is built around the same man. If Georgia Southern does it again, we expect the announcement late in game week, and we will update this page when it lands.
 
 ## The Bottom Line
 
-Georgia Southern has used one helmet, two jerseys and two pant colors through four games, and that restraint is the brand. The navy shell with the number on the side does not need a logo to be recognized. The variety this season is in the pants, and the real event is still ahead: an Erk 100 White Out against App State that could bring back the white helmet with ERK on the front. The grid above has every date, and we add a star as each uniform is confirmed.
+Georgia Southern has used one helmet, two jerseys and two pant colors through five games, and that restraint is the brand. The navy shell with the number on the side does not need a logo to be recognized. The variety this season is in the pants, and the real event is still ahead: an Erk 100 White Out against App State that could bring back the white helmet with ERK on the front. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Georgia Southern wearing this week?**
 
-Georgia Southern plays at Coastal Carolina on Saturday, October 3, and the white road jersey is expected with the navy helmet. The Eagles wore white jerseys in both road games so far, with navy pants at Clemson and white pants at Jacksonville State. Georgia Southern has not announced its pants for the Coastal game.
+Georgia Southern hosts James Madison on Saturday, October 10, for Family Weekend and Tackling for a Cure, and navy is expected. Last week the Eagles wore the navy helmet, white jersey and navy pants at Coastal Carolina on October 3, confirmed from the broadcast, and won the Sun Belt opener 31-24 to move to 2-3.
 
 **Why does Georgia Southern have numbers on its helmet instead of a logo?**
 

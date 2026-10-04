@@ -13,7 +13,7 @@ teams: ["houston-cougars", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-Houston has three jerseys, three helmets and one alternate that the whole city plans a weekend around. This is the full Houston 2026 uniform schedule: the red home set, the white road set, the light blue Houston Blue alternate that comes back on October 3, and a week-by-week outlook for all twelve games. The Cougars are 2-1 and ranked, and the Icy Whites came out for Friday night in Lubbock. We update this page as each combination is confirmed.
+Houston has three jerseys, three helmets and one alternate that the whole city plans a weekend around. This is the full Houston 2026 uniform schedule: the red home set, the white road set, the light blue Houston Blue alternate that came back on October 3, and a week-by-week outlook for all twelve games. The Cougars are 4-1, and the Icy Whites came out for Friday night in Lubbock. We update this page as each combination is confirmed.
 
 ## The Houston 2026 Uniform Sets
 
@@ -84,25 +84,25 @@ That was the white shell with the red interlocking UH and a red facemask, the wh
 
 ## The Bottom Line
 
-Three games in, Houston has worn red twice at home, shown both pants, and taken the Icy Whites to Lubbock for a 28-26 loss to Texas Tech's all black Let's Ride set. The rest of the season sorts itself neatly: white on the road because the Big 12 says so, red at home, and two dates worth circling. October 3 brings Houston Blue back for the Built By Houston Game, and November 28 pairs Senior Day with a Wear Black crowd theme that the program has not explained yet. The grid above has every date, and we add a star as each uniform is confirmed on the field.
+Five games in, Houston is 4-1. It has worn red twice at home, shown both pants, taken the Icy Whites to Lubbock for a 28-26 loss to Texas Tech's all black Let's Ride set, and brought Houston Blue back with a dark gray helmet for a 27-17 win over UCF. The rest of the season sorts itself neatly: white on the road because the Big 12 says so, red at home, and one date worth circling. November 28 pairs Senior Day with a Wear Black crowd theme that the program has not explained yet. The grid above has every date, and we add a star as each uniform is confirmed on the field.
 
 ## Frequently Asked Questions
 
 **What jersey is Houston wearing this week?**
 
-Houston wore all white at Texas Tech on Friday, September 18, the look the program calls the Icy Whites: white helmet with the red interlocking UH and a red facemask, white jersey with the red script Houston, white pants, confirmed on the FOX broadcast. Texas Tech wore its all-black Patrick Mahomes "Let's Ride" set, and Houston lost 28-26. Houston then beat Georgia Southern 42-28 in Statesboro on Saturday, September 26, in the white helmet, white jersey and red pants, confirmed from the game photos. Next is UCF on October 3, and Houston has confirmed the light blue Houston Blue alternate for the Built By Houston Game.
+Houston wore the light blue Houston Blue alternate against UCF on Saturday, October 3, confirmed from the broadcast: the light blue jersey with red numbers and white pants, under a dark gray helmet rather than the white Houston Blue shell. Houston won 27-17 to move to 4-1. Next is at Kansas State on October 10, where white is expected.
 
 **What are Houston's football uniforms for 2026?**
 
-A red home jersey and a white road jersey, both with a script Houston wordmark and contrast collar and sleeve trim, plus the light blue Houston Blue alternate. The helmets are a red shell with a thick white center stripe and the interlocking UH, a white shell with the red UH, and the white Houston Blue shell with a light blue Houston script. Nike introduced the current set in June 2025.
+A red home jersey and a white road jersey, both with a script Houston wordmark and contrast collar and sleeve trim, plus the light blue Houston Blue alternate. The helmets are a red shell with a thick white center stripe and the interlocking UH, a white shell with the red UH, and the white Houston Blue shell with a light blue Houston script. Against UCF on October 3, Houston paired the Houston Blue jersey with a dark gray helmet instead of the white shell. Nike introduced the current set in June 2025.
 
 **When is Houston wearing the Houston Blue uniforms in 2026?**
 
-Saturday, October 3, at home against UCF. Houston is promoting the game as the Built By Houston Game with a Wear Houston Blue crowd theme, and the program's official game preview confirms the Cougars are in Houston Blue. It will be the fourth time the Cougars have worn the light blue set since it debuted in 2023.
+Houston wore it on Saturday, October 3, at home against UCF for the Built By Houston Game, with a Wear Houston Blue crowd theme, and won 27-17. The light blue jersey and white pants were paired with a dark gray helmet rather than the white Houston Blue shell. It was the fourth time the Cougars have worn the light blue set since it debuted in 2023.
 
 **What is the Houston Blue uniform?**
 
-It is Houston's tribute to the powder blue the Houston Oilers wore, a light blue jersey with red numbers, a white helmet with a light blue Houston script and white pants with a red stripe. The original 2023 version drew a cease and desist letter from the NFL over the Oilers marks, so Houston redesigned it for 2024 and has worn the updated version since.
+It is Houston's tribute to the powder blue the Houston Oilers wore, a light blue jersey with red numbers, a white helmet with a light blue Houston script and white pants with a red stripe. The original 2023 version drew a cease and desist letter from the NFL over the Oilers marks, so Houston redesigned it for 2024 and has worn the updated version since. Against UCF in 2026 it came with a dark gray helmet.
 
 **Why does ESPN list the Texas Tech game on September 19?**
 

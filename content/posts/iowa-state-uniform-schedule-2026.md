@@ -13,7 +13,7 @@ teams: ["iowa-state-cyclones", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-Iowa State wears a cardinal jersey with white pants at Jack Trice Stadium and a white jersey with white pants on the road, both under the cardinal Cyclones script helmet. That covers all three games so far in 2026: cardinal over white in the 38-10 opener against Southeast Missouri, all white under the cardinal lid in the 16-13 loss at Iowa, and cardinal over white again in the 55-7 win over Bowling Green. This is the full Iowa State 2026 uniform schedule, with every jersey and a week-by-week outlook for all twelve games in Jimmy Rogers' first season. We update this page as each combination is confirmed.
+Iowa State wears a cardinal jersey with white pants at Jack Trice Stadium and a white jersey with white pants on the road, both under the cardinal Cyclones script helmet. That covered the first three games of 2026: cardinal over white in the 38-10 opener against Southeast Missouri, all white under the cardinal lid in the 16-13 loss at Iowa, and cardinal over white again in the 55-7 win over Bowling Green. Since then Iowa State has worn the all white Whiteout against Utah and all cardinal for Homecoming against West Virginia. This is the full Iowa State 2026 uniform schedule, with every jersey and a week-by-week outlook for all twelve games in Jimmy Rogers' first season. We update this page as each combination is confirmed.
 
 ## The Iowa State 2026 Uniform Sets
 
@@ -78,21 +78,21 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 ## The Bottom Line
 
-Three games in, Iowa State has worn a cardinal helmet every week and changed only the jersey: cardinal at home, white on the road, white pants every time. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, the all white Whiteout came out against Utah, and the black alternate from the 2024 Nike set has not shown up yet. Homecoming against West Virginia is where that changes: Iowa State has confirmed all cardinal, script helmet, cardinal jersey and cardinal pants. The Halloween game against Oklahoma State is the next home date to watch. The grid above has every date, and we add a star as each uniform is confirmed.
+Through the first three games, Iowa State wore a cardinal helmet every week and changed only the jersey: cardinal at home, white on the road, white pants every time. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, the all white Whiteout came out against Utah, and the black alternate from the 2024 Nike set has not shown up yet. Homecoming against West Virginia was where the pants changed: all cardinal, script helmet, cardinal jersey and cardinal pants, in a 45-42 win. The Halloween game against Oklahoma State is the next home date to watch. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Iowa State wearing this week?**
 
-Iowa State wore the all white Whiteout against Utah on Saturday, September 26: white helmet, white jersey and white pants with black lettering and accents. Utah wore all red and won 31-17. The week before, Iowa State wore a cardinal helmet, cardinal jersey and white pants for the 55-7 win over Bowling Green. For Homecoming against West Virginia on Saturday, October 3, Iowa State has confirmed all cardinal: the cardinal helmet with "Cyclones" in script, cardinal jersey and cardinal pants. West Virginia has confirmed a white helmet, white jersey and navy pants.
+Iowa State wore all cardinal for Homecoming against West Virginia on Saturday, October 3: the cardinal helmet with "Cyclones" in script, cardinal jersey and cardinal pants, confirmed from the game photos. The Cyclones held on to win 45-42 and are 3-2. Next is a Friday night game at BYU on October 9, where white is expected.
 
 **What are Iowa State's football uniforms for 2026?**
 
-A cardinal home jersey with white numerals outlined in gold, a white road jersey with cardinal numerals outlined in gold, white pants with both, and black and all-white alternates from the 2024 Nike redesign. The primary helmet is cardinal with a white Cyclones script outlined in gold and a white and gold center stripe. A cardinal helmet with the I-State logo is also in the closet.
+A cardinal home jersey with white numerals outlined in gold, a white road jersey with cardinal numerals outlined in gold, white pants with both plus the cardinal pants worn for Homecoming, and black and all-white alternates from the 2024 Nike redesign. The primary helmet is cardinal with a white Cyclones script outlined in gold and a white and gold center stripe. A cardinal helmet with the I-State logo is also in the closet.
 
 **Does Iowa State have a new alternate uniform in 2026?**
 
-Not that has been announced. The one visible addition is the Big 12 chest patch, now allowed under the NCAA's 2026 patch rule. The existing black and all-white alternates have not been worn yet this season, and we will add any new look to this page as soon as it is revealed.
+Not that has been announced. The one visible addition is the Big 12 chest patch, now allowed under the NCAA's 2026 patch rule. The all-white alternate came out as the Whiteout against Utah on September 26, and the black alternate has not been worn yet this season, and we will add any new look to this page as soon as it is revealed.
 
 **What did Iowa State wear against Iowa?**
 
@@ -100,7 +100,7 @@ Iowa State wore the cardinal Cyclones script helmet, a white jersey and white pa
 
 **What helmet does Iowa State wear?**
 
-The cardinal Cyclones script helmet, which Iowa State revealed in June 2025 and has used as its primary helmet since, including the first two games of 2026. Iowa State wore a cardinal helmet again against Bowling Green. The script is a throwback to the Cyclones helmets of 1987 to 1994. It replaced the block I-State logo, which was the primary helmet mark from 2008 through 2023.
+The cardinal Cyclones script helmet, which Iowa State revealed in June 2025 and has used as its primary helmet since, including the opener, the Iowa game and Homecoming against West Virginia in 2026. Iowa State wore a cardinal helmet against Bowling Green, and the Whiteout against Utah put the script on a white helmet. The script is a throwback to the Cyclones helmets of 1987 to 1994. It replaced the block I-State logo, which was the primary helmet mark from 2008 through 2023.
 
 **How many games does Iowa State play in 2026?**
 

@@ -15,7 +15,7 @@ teams: ["colorado-state-rams", "pac-12"]
 resurfaceOnUpdate: true
 ---
 
-Wondering what jersey Colorado State is wearing this week? This is the full Colorado State 2026 uniform schedule, game by game, and it opens a brand-new chapter: **the Rams revealed their first adidas uniforms on August 24**, days before their first season in the Pac-12 kicks off at home against Wyoming on September 5.
+Wondering what jersey Colorado State is wearing this week? This is the full Colorado State 2026 uniform schedule, game by game, and it opens a brand-new chapter: **the Rams revealed their first adidas uniforms on August 24**, days before their first season in the Pac-12 kicked off at home against Wyoming on September 5.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Colorado State Athletics.</p>
 
@@ -60,7 +60,7 @@ The reliable rules for reading the grid below:
 - **The green home set has now been seen**, not in a reveal but on the field, against BYU on September 19: green helmet with gold trim, green jersey, white pants. Colorado State never released it publicly beforehand, so the broadcast was the first look. This year's Ag Day set came out on September 12.
 - **Home games at Canvas Stadium** project as the green home set, per the standard home-dark convention.
 - **Road games are white**, per NCAA visitor rules, and now we know exactly what that white looks like.
-- **September 5 vs. Wyoming** is the Border War, the season opener, the Pac-12 debut and the first game in adidas, all at once.
+- **September 5 vs. Wyoming** was the Border War, the season opener, the Pac-12 debut and the first game in adidas, all at once.
 
 ## The Full Colorado State 2026 Uniform Schedule, Week by Week
 
@@ -114,11 +114,11 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **What jersey is Colorado State wearing this week?**
 
-Colorado State wore the green helmet, white jersey and green pants at UTSA on Saturday, September 26, and lost 59-45. Next is Oregon State at home on Saturday, October 3, for Homecoming, where green is expected; Oregon State has confirmed an orange helmet, white jersey and orange pants. Green at home, white on the road is the standard projection. This page is updated as each combination and each remaining uniform is announced.
+Colorado State wore the green helmet with the gold horns, green jersey and white pants against Oregon State on Saturday, October 3, for Homecoming, confirmed from the game photos, and lost the Pac-12 opener 56-26 to fall to 2-3. The Rams are off on October 10, and next is a Thursday night game at Texas State on October 15, where white is expected. Green at home, white on the road is the standard projection. This page is updated as each combination and each remaining uniform is announced.
 
 **Who makes Colorado State's uniforms in 2026?**
 
-Adidas. The Rams signed a long-term partnership in August 2026, ending their Under Armour era. The first adidas game is September 5 against Wyoming.
+Adidas. The Rams signed a long-term partnership in August 2026, ending their Under Armour era. The first adidas game was September 5 against Wyoming.
 
 **What is the orange A on the Colorado State uniform?**
 
@@ -130,7 +130,7 @@ Yes. 2026 is the Rams' first season in the rebuilt Pac-12, and the new uniforms 
 
 **Has Colorado State revealed its green home uniform?**
 
-Not yet. The August 24 reveal covered the white set. The green home uniform and this year's Ag Day uniform are still to come, and both will be graded here the day they drop.
+Yes, on the field rather than in a reveal. The August 24 reveal covered the white set, and the green home set debuted against BYU on September 19: green helmet with gold trim, green jersey and white pants. The Rams wore it again for Homecoming against Oregon State on October 3. This year's Ag Day uniform, the orange Aggies throwback, came out on September 12.
 
 **Why is Colorado State wearing orange?**
 
@@ -138,4 +138,4 @@ Orange is the color of Colorado State's Aggies heritage, from the years the scho
 
 ## The Bottom Line
 
-Colorado State's 2026 uniform schedule starts a new era three ways at once: new conference, new manufacturer, new uniforms. The revealed white set earns an A- from us on the strength of its oversized green-and-gold numbers, the stitched wordmark plate, and the orange Aggies A at the collar, the best small detail on any college reveal this offseason. The green home set and the Ag Day uniform are still to come, the Border War opener on September 5 is the debut stage, and every combination gets logged here as the season unfolds.
+Colorado State's 2026 uniform schedule starts a new era three ways at once: new conference, new manufacturer, new uniforms. The revealed white set earns an A- from us on the strength of its oversized green-and-gold numbers, the stitched wordmark plate, and the orange Aggies A at the collar, the best small detail on any college reveal this offseason. The orange Ag Day throwback came out on September 12, the green home set debuted against BYU on September 19, and every combination gets logged here as the season unfolds.

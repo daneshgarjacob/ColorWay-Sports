@@ -78,7 +78,7 @@ Orange at home, white on the road, the paw on the helmet either way. The one dat
 
 **What jersey is Clemson wearing this week?**
 
-Clemson wore the orange helmet, white jersey and white pants at Cal on Friday, September 25, and won 24-10. Next is Miami at home on October 3, where orange is expected against Miami's confirmed all white. Clemson wears orange at home and white on the road in 2026, unless the home team picks white, as LSU did in the opener. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Clemson is off on October 10. Last time out, the Tigers wore the orange helmet, orange jersey and white pants against Miami on Saturday, October 3, confirmed from the broadcast, and lost 41-13 to fall to 3-2. Next is Charleston Southern at home on October 17, where orange is expected. Clemson wears orange at home and white on the road in 2026, unless the home team picks white, as LSU did in the opener. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Clemson's uniforms for 2026?**
 
@@ -94,7 +94,7 @@ Clemson wears purple for its Military Appreciation Day game as a tribute to the 
 
 **Why is Clemson wearing orange pants?**
 
-Orange pants are Clemson's championship look. Danny Ford first put the Tigers in orange pants against South Carolina on November 22, 1980, and Dabo Swinney saves them for games with a title on the line, such as the South Carolina rivalry, the ACC Championship Game, bowl games and the College Football Playoff. Clemson has worn white pants in all three of its 2026 games so far.
+Orange pants are Clemson's championship look. Danny Ford first put the Tigers in orange pants against South Carolina on November 22, 1980, and Dabo Swinney saves them for games with a title on the line, such as the South Carolina rivalry, the ACC Championship Game, bowl games and the College Football Playoff. Clemson has worn white pants in all five of its 2026 games so far.
 
 **How many games does Clemson play in 2026?**
 

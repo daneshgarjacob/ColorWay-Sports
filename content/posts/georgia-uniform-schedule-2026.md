@@ -22,7 +22,7 @@ Wondering what jersey Georgia is wearing this week? This is the full Georgia 202
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#C4CED4;">All-white uniform</strong> &middot; vs. Western Kentucky &middot; Saturday, September 12</p>
 </div>
 
-Georgia is putting a **white helmet** on the field for the first time in program history, and it happens on **September 12 against Western Kentucky** at Sanford Stadium. White helmet, white jersey, white pants. After more than a century of football in Athens the Bulldogs have never done this.
+Georgia put a **white helmet** on the field for the first time in program history, and it happened on **September 12 against Western Kentucky** at Sanford Stadium. White helmet, white jersey, white pants. After more than a century of football in Athens the Bulldogs had never done this.
 
 It is an alternate, not a rebrand. The red helmet with the oval G is not going anywhere. We graded the full set in our [Georgia all-white uniforms breakdown](/stories/georgia-all-white-uniforms-2026).
 
@@ -96,21 +96,21 @@ Georgia's 2026 uniform schedule has one locked alternate and it is a genuinely h
 
 For more, see our [Georgia all-white uniforms graded](/stories/georgia-all-white-uniforms-2026) and the [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026).
 
-Want every big game in one place? Our [college football Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has what every top team is wearing this Saturday.
+Want every big game in one place? Our [college football Week 5 uniform guide](/stories/college-football-week-5-uniforms-2026) has what every top team wore on October 3.
 
 ## Frequently Asked Questions
 
 **When does Georgia wear the white helmet in 2026?**
 
-Saturday, September 12, 2026, against Western Kentucky at Sanford Stadium. It is the first white helmet in Georgia football history and the only scheduled wearing of the all-white uniform.
+It already has: Saturday, September 12, 2026, against Western Kentucky at Sanford Stadium, a 70-20 win. It was the first white helmet in Georgia football history and the only scheduled wearing of the all-white uniform.
 
 **What jersey is Georgia wearing this week?**
 
-Georgia wore the red helmet, red jersey and silver britches against Oklahoma on Saturday, September 26, and won 41-13 to move to 4-0. The week before, the Bulldogs wore the white road set at Arkansas, red helmet, white jersey and silver britches, in a 45-17 win. The Bulldogs wear red at home and white on the road for most games in 2026, and the confirmed exception is the all-white set on September 12 against Western Kentucky.
+Georgia wore the red helmet, red jersey and silver britches against Vanderbilt on Saturday, October 3, confirmed from the broadcast, and won 38-14 to move to 5-0. Next is at Alabama on October 10, where white is expected. The Bulldogs wear red at home and white on the road for most games in 2026, and the confirmed exception is the all-white set on September 12 against Western Kentucky.
 
 **Does Georgia wear silver britches in 2026?**
 
-Yes. The silver britches pair with both the red home jersey and the white road jersey. The exception is September 12, when Georgia wears white pants as part of the all-white combination.
+Yes. The silver britches pair with both the red home jersey and the white road jersey. The exception was September 12, when Georgia wore white pants as part of the all-white combination.
 
 **Where is Georgia playing Florida in 2026?**
 

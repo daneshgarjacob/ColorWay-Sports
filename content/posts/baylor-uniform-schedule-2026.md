@@ -16,7 +16,7 @@ teams: ["baylor-bears", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-Wondering what jersey Baylor is wearing this week? This is the full Baylor 2026 uniform schedule, game by game, and it has one date circled: **the gold chrome throwback comes out Saturday, September 26, against Colorado at McLane Stadium** for the Traditions Game.
+Wondering what jersey Baylor is wearing this week? This is the full Baylor 2026 uniform schedule, game by game, and it has one date circled: **the gold chrome throwback came out Saturday, September 26, against Colorado at McLane Stadium** for the Traditions Game, a 23-13 Baylor win.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Baylor Athletics.</p>
 
@@ -132,11 +132,11 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **What jersey is Baylor wearing this week?**
 
-Baylor wore the gold chrome throwback against Colorado on Saturday, September 26: gold chrome helmet, green jersey with BAYLOR across the chest and white pants, and won 23-13. Next is Arizona State in Tempe on Saturday, October 3, and Baylor has confirmed a white helmet with the green and gold center stripe, white jersey and green pants. Baylor announces each week's combination a few days before kickoff, and this page is updated as each one is confirmed. Home games at McLane rotate between green, white, black and anthracite. Road games are white.
+Baylor is off on October 10. Last time out, the Bears wore a white helmet with the green and gold center stripe, white jersey and green pants at Arizona State on Saturday, October 3, confirmed from the broadcast, and won 55-19 to move to 4-1. Next is TCU in Waco on October 17, a blackout on the Brazos if it is a night kick and a whiteout if it is a day game, which makes it the most likely home date for the anthracite set. Baylor announces each week's combination a few days before kickoff, and this page is updated as each one is confirmed. Home games at McLane rotate between green, white, black and anthracite. Road games are white.
 
 **When does Baylor wear the gold chrome throwback uniform in 2026?**
 
-Saturday, September 26, at home against Colorado for the Traditions Game. Green jersey, white pants, gold chrome helmet.
+It came out Saturday, September 26, at home against Colorado for the Traditions Game. Green jersey, white pants, gold chrome helmet, and Baylor won 23-13.
 
 **What is Baylor's 254 Night uniform?**
 
@@ -152,4 +152,4 @@ Nike. The gold chrome shells are Riddell.
 
 ## The Bottom Line
 
-Baylor's 2026 uniform schedule has one locked date and it is the right one: September 26 against Colorado, when the gold chrome helmet comes back out with a green throwback jersey and white pants. We grade that set an A+, the best look in the program's wardrobe and the best college uniform of the offseason. Around it, expect Waco's usual week-to-week rotation, white on the road, and one fan-voted 254 Night combination in September. Each combination gets logged here as it is announced.
+Baylor's 2026 uniform schedule has one locked date and it is the right one: September 26 against Colorado, when the gold chrome helmet came back out with a green throwback jersey and white pants in a 23-13 win. We grade that set an A+, the best look in the program's wardrobe and the best college uniform of the offseason. Around it, expect Waco's usual week-to-week rotation, white on the road, and one fan-voted 254 Night combination in September. Each combination gets logged here as it is announced.

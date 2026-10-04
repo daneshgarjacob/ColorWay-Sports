@@ -13,7 +13,7 @@ teams: ["illinois-fighting-illini", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Illinois has three jersey colors, a rack of orange helmets and a navy one, and a home crowd that picks a color theme for the big games. This is the full Illinois 2026 uniform schedule: the navy home set, the white road set, the orange alternate, the helmets, and a week-by-week outlook for all twelve games in Bret Bielema's sixth season. Two games in, the Fighting Illini have worn navy over orange both times, with a patriotic helmet for Duke. We update this page as each combination is confirmed.
+Illinois has three jersey colors, a rack of orange helmets and a navy one, and a home crowd that picks a color theme for the big games. This is the full Illinois 2026 uniform schedule: the navy home set, the white road set, the orange alternate, the helmets, and a week-by-week outlook for all twelve games in Bret Bielema's sixth season. Five games in, the Fighting Illini are 2-3: navy over orange in both confirmed early home games, with a patriotic helmet for Duke, white at Ohio State and all orange for Homecoming against Purdue. We update this page as each combination is confirmed.
 
 ## The Illinois 2026 Uniform Sets
 
@@ -72,13 +72,13 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 ## The Bottom Line
 
-Illinois has opened 2026 in the same base look twice, orange helmet, navy jersey, orange pants, and used the helmet to mark the occasion against Duke. Expect navy at home and white on the road at Ohio State, Michigan State, Maryland, UCLA and Northwestern. The dates that could break the pattern are the themed ones: the Orange Out Homecoming against Purdue, Military Appreciation against Oregon and the Blue Out Friday night against Nebraska. The grid above has every date, and we star each game as the combination is confirmed.
+Illinois opened 2026 in the same base look twice, orange helmet, navy jersey, orange pants, and used the helmet to mark the occasion against Duke. Expect navy at home and white on the road at Michigan State, Maryland, UCLA and Northwestern, as it was at Ohio State. The themed dates are the ones that break the pattern: the Orange Out Homecoming against Purdue already brought out the all-orange set, and Military Appreciation against Oregon and the Blue Out Friday night against Nebraska are still to come. The grid above has every date, and we star each game as the combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Illinois wearing this week?**
 
-Illinois lost 42-19 at Ohio State on Saturday, September 26, in the orange helmet, white jersey and orange pants, confirmed from the game photos. Against Duke earlier this season, the Illini wore the orange helmet with a stars-and-stripes block I, the navy jersey and orange pants. Next is Purdue at home on October 3, where navy is expected and Purdue has confirmed a gold helmet, white jersey and gold pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Illinois wore the all-orange set, orange helmet, orange jersey and orange pants, for Homecoming against Purdue on Saturday, October 3, confirmed from the broadcast. Purdue won 24-17 and took the Cannon, and Illinois is 2-3. Next is at Michigan State on October 10, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Illinois's football uniforms for 2026?**
 

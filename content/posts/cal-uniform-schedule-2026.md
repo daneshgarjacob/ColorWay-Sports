@@ -106,13 +106,13 @@ Cal published its home themes in July, and they double as a decent map of where 
 
 ## The Bottom Line
 
-Two games in, Cal has worn the best throwback of the 2026 season and its plainest road set, which is a fair preview of how the rest of the fall should go. Blue is the default at home, white is locked in for all five road dates, and the Joe Roth uniform is the one that moves the needle. The open questions are whether the gold Big C helmet surfaces for the Clemson Gold Out and whether the Grateful Bears game gets a jersey to match the theme. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Five games in, Cal is 2-3 and has worn the best throwback of the 2026 season, its plainest road set and a gold jersey for the Clemson Gold Out, which is a fair preview of how the rest of the fall should go. Blue is the default at home, white is locked in for all five road dates, and the Joe Roth uniform is the one that moves the needle. The gold Big C helmet stayed in the closet for the Gold Out, so the open question now is whether the Grateful Bears game gets a jersey to match the theme. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Cal wearing this week?**
 
-Cal wore a navy helmet, a gold jersey and navy pants against Clemson on Friday, September 25, for the Gold Out, and lost 24-10. A week earlier against Wagner it was the navy helmet, navy jersey and gold pants in a 49-7 win. Next is UNLV at Allegiant Stadium on Saturday, October 3, and Cal has announced the navy helmet with the gold Cal script and the white road jersey; the pants are not clearly shown in the reveal. UNLV has confirmed red helmet, red jersey and gray pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Cal wore the navy helmet with the gold Cal script, the white road jersey and navy pants at UNLV on Saturday, October 3, confirmed from the broadcast, and lost 39-31 to fall to 2-3. Next is Virginia Tech at home on October 10 for Homecoming, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Cal's football uniforms for 2026?**
 

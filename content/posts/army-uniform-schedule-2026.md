@@ -80,7 +80,7 @@ Everything else about this season comes down to pants. Black jersey with gold pa
 
 **October 31 at Memphis.** White expected. Halloween at Simmons Bank Liberty Stadium, kickoff to be announced.
 
-**November 7 vs. Air Force.** Black expected. The Commander-in-Chief's Trophy game at Michie Stadium, 7:30 p.m. Eastern on CBS, and the only night game Army plays at home all year. Air Force built its 2026 Air Power Legacy Series uniform around the B-21 Raider, but the Falcons have that scheduled for the Navy game in October, so expect Air Force in a more conventional road look here.
+**November 7 vs. Air Force.** Black expected. The Commander-in-Chief's Trophy game at Michie Stadium, 7:30 p.m. Eastern on CBS, and the only night game Army plays at home all year. Air Force built its 2026 Air Power Legacy Series uniform around the B-21 Raider, but the Falcons wore it against Navy on October 3, so expect Air Force in a more conventional road look here.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArmyWP_Football/status/2060379370745704731"></a></blockquote>
@@ -92,7 +92,7 @@ Everything else about this season comes down to pants. Black jersey with gold pa
 
 **November 28 at Rice.** White expected. Regular season finale in Houston against a Rice team that switched from adidas to Nike over the offseason and rebuilt its uniform around UCLA stripes.
 
-**December 5.** The American Conference Championship Game, if Army gets there. Army is 1-1 and 0-1 in conference play after two games.
+**December 5.** The American Conference Championship Game, if Army gets there. Army is 2-2 after four games.
 
 **December 12 vs. Navy, MetLife Stadium.** This is the whole season. The 127th Army-Navy Game kicks at 3 p.m. Eastern on CBS, presented by USAA, and it is the first time America's Game has been played at MetLife Stadium since 2021. ESPN lists Army as the designated home team, but that convention means almost nothing here, because Army has not worn its regular black jersey in this game in years. Nike builds a bespoke uniform for the Black Knights every December that honors a unit or a chapter of Army history, and it has become the single most anticipated uniform reveal in college football.
 
@@ -122,7 +122,7 @@ Army is the rare program where the uniform schedule is almost entirely predictab
 
 **What jersey is Army wearing this week?**
 
-Army wore a black helmet, a white jersey and black pants at Temple on Friday, September 25, and won 21-17. The black helmet was the surprise, since Army had worn the gold helmet in both home games. Next up is Louisiana Tech on October 3, and Army has confirmed the gold helmet, white jersey and white pants. The grid above lists every date with the expected set and we star each cell as it is confirmed.
+Army wore the gold helmet, white jersey and white pants at Louisiana Tech on Saturday, October 3, confirmed from the broadcast, and lost 31-29 to fall to 2-2. That brought the gold helmet back after the black shell at Temple on September 25. Next up is Tulane at Michie Stadium on October 10, where black is expected. The grid above lists every date with the expected set and we star each cell as it is confirmed.
 
 **What are Army's football uniforms for 2026?**
 
