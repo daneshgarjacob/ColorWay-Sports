@@ -3,7 +3,7 @@ title: "Purdue Uniform Schedule 2026: Every Jersey and When the Boilermakers Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Purdue wears every game in 2026: black home jerseys, the white road set, gold and black helmets, and the full Boilermakers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #2a2a2a 55%, #CEB888 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ The Nike set is built on a simple idea: black and old gold, with a black and whi
 
 **September 26 vs. Notre Dame.** ★ Confirmed from the game photos: **black helmet, black jersey, black pants**, all black. Notre Dame wore a gold helmet, white jersey and gold pants. No. 3 Notre Dame won the Shillelagh Trophy game 49-10 in West Lafayette. Purdue managed 218 total yards, Ryan Browne lost a fumble that Notre Dame returned for a touchdown, and the Boilermakers have lost three straight to fall to 1-3. Our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) has the visitors.
 
-**October 3 at Illinois**, 4:15 p.m. ET on BTN. ★ Confirmed by Purdue: **gold helmet, white jersey, gold pants**. The team's game poster spells it out line by line: helmet gold, jersey white, pants gold. It is the first time this season the old gold helmet and gold pants go with the white road jersey, after the black helmet and white pants at UCLA, and it is the most Purdue looking road set in the closet. This is the Purdue Cannon game at Gies Memorial Stadium and Illinois Homecoming with a "Hail to the Orange Out" theme, so the Illini are expected in navy with all orange a real possibility.
+**October 3 at Illinois**, 4:15 p.m. ET on BTN. ★ Confirmed by Purdue: **gold helmet, white jersey, gold pants**. The team's game poster spells it out line by line: helmet gold, jersey white, pants gold. It is the first time this season the old gold helmet and gold pants go with the white road jersey, after the black helmet and white pants at UCLA, and it is the most Purdue looking road set in the closet. The broadcast matched it: gold helmet, white jersey, gold pants, for the Purdue Cannon game at Gies Memorial Stadium. Illinois answered its Homecoming Orange Out with an orange helmet and orange jersey. Jacobo Echeverria Lozano kicked three field goals, Antonio Harris scored on a 1-yard run late, and Purdue won 24-17 to bring the Cannon home and end a 19-game Big Ten losing streak. The Boilermakers are 2-3.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BoilerFootball/status/2105645076474978625"></a></blockquote>

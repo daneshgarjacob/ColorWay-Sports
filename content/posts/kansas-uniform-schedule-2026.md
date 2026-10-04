@@ -3,7 +3,7 @@ title: "Kansas Uniform Schedule 2026: Every Jersey and When the Jayhawks Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: '2026-09-19'
+updatedDate: "2026-10-04"
 excerpt: "What Kansas wears every game in 2026: blue home jerseys, the white road set, the red alternate, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #0051BA 0%, #1a5fc4 55%, #E8000D 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
   <div style="background: #E8000D; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
   <div style="background: #0051BA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State (London)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #0051BA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Middle Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #E8000D; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Middle Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0051BA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -52,7 +52,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 **September 26.** Bye.
 
-**October 3 vs. Middle Tennessee.** Blue expected. Back in Lawrence after the London trip and the off week.
+**October 3 vs. Middle Tennessee.** ★ Confirmed from the broadcast: **white helmet with the Jayhawk, red jersey, blue pants**. We had blue down, so this one is a correction: back in Lawrence after the London trip and the off week, Kansas went with red. Middle Tennessee wore a silver helmet, white jersey and white pants. Dylan Edwards ran for 137 yards and three touchdowns, Kansas outgained the Blue Raiders 706-136, and the 55-0 win was the program's first shutout since 2008. The Jayhawks are 2-2.
 
 **October 10 at Utah.** White expected. First Big 12 road game, at Rice-Eccles Stadium.
 

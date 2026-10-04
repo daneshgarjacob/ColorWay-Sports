@@ -3,7 +3,7 @@ title: "Missouri Uniform Schedule 2026: Every Jersey, and When the Memorial Stad
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-04"
 excerpt: "What Missouri wears every game in 2026, week by week, including the exact date the 100th anniversary throwback jersey hits Faurot Field."
 gradient: "linear-gradient(135deg, #000000 0%, #1b1b1b 55%, #F1B82D 130%)"
 coverImage: "/images/posts/missouri-uniform-schedule-2026/cover.jpg"
@@ -81,7 +81,7 @@ Twelve games, seven at Faurot Field, and one bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #F1B82D; color: #14140c; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 100th Throwback</div></div>
   <div style="background: #000000; color: #ffffff; border: 2px solid #F1B82D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
-  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Gold</div></div>
+  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Gold</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -100,7 +100,7 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **September 26 at Mississippi State**, Starkville. ★ Confirmed from the broadcast: **black helmet, black jersey, black pants**, all black on the road because Mississippi State wore all white at home for its White Out. Austin Simmons threw for 295 yards and three touchdowns and Cayden Lee caught 11 passes for 156 yards and two scores, but Mississippi State rallied in the fourth quarter to win 31-24, and Missouri is 3-1.
 
-**October 3 vs. Florida**, Columbia. First SEC home game, and a strong candidate for the anthracite set if it lands in prime time.
+**October 3 vs. Florida**, Columbia. ★ Confirmed from the broadcast: **black helmet with the gold M, black jersey, gold pants** for the first SEC home game. Florida wore the orange helmet, white jersey and blue pants. Jamal Roberts ran for 211 yards and three touchdowns, Austin Simmons threw for 340 yards, and No. 25 Missouri beat No. 8 Florida 45-17 to snap a nine-game losing streak against ranked teams. The Tigers are 4-1.
 
 **October 10 vs. Texas A&M**, Columbia. Black or gold.
 

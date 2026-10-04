@@ -3,7 +3,7 @@ title: "Memphis Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-19"
+updatedDate: "2026-10-04"
 excerpt: "What Memphis wears every game in 2026: the blue home jersey, the white road set, the gray pants, the new FedEx patch, and the full week-by-week schedule."
 gradient: "linear-gradient(135deg, #003087 0%, #1a4ba3 55%, #898D8D 130%)"
 cardStyle: words
@@ -48,7 +48,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
   <div style="background: #f1f3f8; color: #333; border: 2px solid #003087; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Gray</div></div>
   <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UT Martin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Tiger Stripe / White / Black</div></div>
   <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -77,7 +77,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
 
 **September 26.** Bye.
 
-**October 3 at Charlotte.** White expected. The American Conference opener at Jerry Richardson Stadium, kickoff still to be announced.
+**October 3 at Charlotte.** ★ Confirmed from the broadcast: **black helmet with blue tiger stripes, white jersey, black pants** for the American Conference opener at Jerry Richardson Stadium. White was expected; the striped helmet and black pants are new looks for 2026. Charlotte wore the white helmet, green jersey and white pants. Marcus Stokes threw for 318 yards and a career-high five touchdowns, and Memphis won 59-8 to move to 4-1.
 
 **October 10 vs. UAB.** Blue expected. Back in Memphis, kickoff to be announced.
 
@@ -97,7 +97,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
 
 ## What Memphis Has in the Closet That We Have Not Seen Yet
 
-Three games into 2026 the Tigers have used one helmet and three jersey and pant combinations. That is restraint by Memphis standards. For context, last season the program went through gray jerseys, blue jerseys, white jerseys, a black alternate and a light blue set with black pants, plus gray, white, blue and black helmet shells along the way.
+The Tigers started 2026 with restraint, then let go: a blue helmet showed up on September 19, and on October 3 against Charlotte they debuted a new black helmet with blue tiger stripes over the white jersey and black pants. That is more like Memphis. For context, last season the program went through gray jerseys, blue jerseys, white jerseys, a black alternate and a light blue set with black pants, plus gray, white, blue and black helmet shells along the way.
 
 The pieces most likely to surface in the back half of this schedule are the gray jersey, which Memphis refreshed in 2025 with a new MEMPHIS wordmark outlined in white, and the black alternate, which came out in November last season. The light blue set is the wild card. It is the loudest thing in the closet and it turned up under the lights at home last November.
 

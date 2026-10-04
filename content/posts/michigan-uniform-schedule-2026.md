@@ -3,7 +3,7 @@ title: "Michigan Uniform Schedule 2026: Every Jersey and When the Wolverines Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-04"
 excerpt: "What Michigan wears every game in 2026: the winged helmet, the navy home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #00274C 0%, #0b3a6b 55%, #FFCB05 130%)"
 cardStyle: words
@@ -33,7 +33,7 @@ The winged helmet is the whole identity, and it is worn with both sets, so the o
   <div style="background: #00274C; color: #ffffff; border: 2px solid #FFCB05; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Maize</div></div>
   <div style="background: #00274C; color: #ffffff; border: 2px solid #FFCB05; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTEP</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Maize</div></div>
   <div style="background: #00274C; color: #ffffff; border: 2px solid #FFCB05; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Winged / White / Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #00274C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #00274C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
@@ -52,7 +52,7 @@ The winged helmet is the whole identity, and it is worn with both sets, so the o
 
 **September 26 vs. Iowa.** ★ Confirmed by Michigan and on the broadcast: **winged helmet, blue jersey, blue pants**, with maize socks and accessories, for the Big Ten opener and the Stripe Out at Michigan Stadium. Iowa wore the black helmet, white jersey and gold pants. J.J. Buchanan scored after an Andrew Marsh catch, but Iowa answered with a 99-yard kickoff return, and Michigan lost 20-19 to fall to 3-1. See our [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026).
 
-**October 3 at Minnesota.** White expected.
+**October 3 at Minnesota.** ★ Confirmed from the game photos: **winged helmet, white jersey, blue pants** for the 100th Little Brown Jug game. Minnesota wore its chrome gold helmet with the maroon M, maroon jersey and maroon pants. Michigan led 14-7 at halftime after Nathaniel Staehling's 79-yard interception return, but Minnesota scored the last 13 points, with Darius Taylor catching the go-ahead touchdown early in the fourth quarter, and the Gophers won 20-14 to take the Jug. Michigan is 3-2. See our [Minnesota 2026 uniform schedule](/stories/minnesota-gophers-uniform-schedule-2026).
 
 **October 10.** Bye.
 

@@ -3,7 +3,7 @@ title: "Oregon State Uniform Schedule 2026: Every Jersey and When the Beavers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Oregon State wears every game in 2026: the black home set, the all white road look, the orange alternate, and the full Beavers uniform schedule."
 gradient: "linear-gradient(135deg, #D73F09 0%, #b8350a 55%, #000000 130%)"
 cardStyle: words
@@ -68,7 +68,7 @@ That leaves the broadcast as the source of truth, and two games in the pattern i
 
 **September 26 at UTEP.** ★ Confirmed from the game photos: **white helmet, white jersey, black pants** at the Sun Bowl in El Paso, the last of the four non-conference games the new Pac-12 front-loaded onto everybody's schedule. UTEP wore navy over white. Braden Atkinson threw for 301 yards and three touchdowns, two of them to Jesse Legree, AJ Newberry ran for 111 yards, and Oregon State won 33-7 to get to 2-2.
 
-**October 3 at Colorado State**, Canvas Stadium, 3 p.m. Pacific (6 p.m. ET) on USA Network. ★ Confirmed by Oregon State: **orange helmet, white jersey, orange pants.** It is the first time this season the Beavers have moved off the white shell: the orange helmet carries the black Beaver logo, and the orange pants under the white road jersey make this the most colorful road look Oregon State has put out in 2026. It is the Pac-12 opener and Colorado State's Homecoming, with the Rams expected in green, so it should be orange and white against green. See the [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026) for their side.
+**October 3 at Colorado State**, Canvas Stadium, 3 p.m. Pacific (6 p.m. ET) on USA Network. ★ Confirmed by Oregon State: **orange helmet, white jersey, orange pants.** It is the first time this season the Beavers have moved off the white shell: the orange helmet carries the black Beaver logo, and the orange pants under the white road jersey make this the most colorful road look Oregon State has put out in 2026. Oregon State's own game photos show it exactly as posted: orange helmet, white jersey, orange pants. Colorado State wore green jerseys and white pants for Homecoming. Braden Atkinson went 31 of 34 for 427 yards and five touchdowns, three of them to Jesse Legree, and Oregon State won the Pac-12 opener 56-26 to move to 3-2. See the [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026) for their side.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BeaverFootball/status/2105798234283343952"></a></blockquote>

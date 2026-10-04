@@ -3,7 +3,7 @@ title: "Mississippi State Uniform Schedule 2026: Every Jersey and When the Bulld
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "Mississippi State's 2026 uniform schedule: every jersey, helmet and combination the Bulldogs wear, maroon home, white road, the interlocking MSU helmet, week by week."
 gradient: "linear-gradient(135deg, #660000 0%, #7a1c1c 55%, #c9c9c9 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
 
 **September 26 vs. Missouri.** ★ Confirmed by Mississippi State and from the broadcast: **white helmet, white jersey, white pants**, all white at home to match the White Out in the stands. Missouri answered in all black. Kamario Taylor threw for 360 yards and three touchdowns, including a 24-yard go-ahead pass to Sanfrisco Magee with 3:57 left, Fluff Bothwell ran for 122 yards, and Mississippi State won 31-24 to move to 4-0. Our [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026) has the Tigers.
 
-**October 3 vs. Alabama**, noon ET on ABC. ★ Confirmed by Mississippi State: **maroon helmet, maroon jersey, white pants**, revealed in the "Game Five Threads" video. The helmet is the detail: a maroon shell with the white retro M-State logo and a white facemask. The maroon jersey carries white numbers and white sleeve stripes, and white pants finish it, so after last week's White Out the Bulldogs are back in color with a Stripe Out in the stands. Alabama is expected in its white road set, which makes this maroon against white, per our [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
+**October 3 vs. Alabama**, noon ET on ABC. ★ Confirmed by Mississippi State: **maroon helmet, maroon jersey, white pants**, revealed in the "Game Five Threads" video. The helmet is the detail: a maroon shell with the white retro M-State logo and a white facemask. The maroon jersey carries white numbers and white sleeve stripes, and white pants finish it, so after last week's White Out the Bulldogs are back in color with a Stripe Out in the stands. The broadcast matched it: maroon helmet, maroon jersey, white pants. Alabama wore the crimson helmet, white jersey and white pants, per our [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026). Keelon Russell threw for 285 yards and three touchdowns and ran for another, and No. 7 Alabama won 56-23 in a meeting of unbeaten teams. Anthony Evans III caught 12 passes for 166 yards and two scores for the Bulldogs, who are 4-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HailStateFB/status/2105780121881792986"></a></blockquote>

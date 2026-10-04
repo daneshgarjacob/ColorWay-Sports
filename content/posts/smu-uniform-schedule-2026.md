@@ -3,7 +3,7 @@ title: "SMU Uniform Schedule 2026: Every Jersey and When the Mustangs Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What SMU wears every game in 2026: the blue home set, the icy whites, the red and black alternates, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #354CA1 0%, #4a63bd 55%, #C8102E 130%)"
 cardStyle: words
@@ -77,7 +77,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 **September 26 vs. Missouri State.** ★ Confirmed by SMU and from the broadcast: **white helmet, red jersey, red pants**, posted as "Week 4 thREDs." We had blue down. It was Family Weekend and the start of a four-game homestand. Missouri State wore a white helmet, white jersey and maroon pants and led 10-0 after a pick-six, but Kevin Jennings went 33 of 39 for 464 yards and three touchdowns to become SMU's career passing leader, and SMU won 34-24 to move to 3-1.
 
-**October 3 vs. Boston College**, noon ET on The CW. ★ Confirmed by SMU: **white helmet, blue jersey, white pants**, posted with the line "Nothing beats the classic look." That settles the black question: Boston College was the opponent SMU picked for its all black set the last time the two met in Dallas in 2024, but for the 2026 ACC home opener, a Blue theme day, the Mustangs went with the base home set. The white helmet keeps its red facemask, and it is the same combination SMU wore against UC Davis on September 12. Boston College is expected in its white road set. The Eagles' side is on our [Boston College 2026 uniform schedule](/stories/boston-college-uniform-schedule-2026).
+**October 3 vs. Boston College**, noon ET on The CW. ★ Confirmed by SMU: **white helmet, blue jersey, white pants**, posted with the line "Nothing beats the classic look." That settles the black question: Boston College was the opponent SMU picked for its all black set the last time the two met in Dallas in 2024, but for the 2026 ACC home opener, a Blue theme day, the Mustangs went with the base home set. The white helmet keeps its red facemask, and it is the same combination SMU wore against UC Davis on September 12. The broadcast matched it: white helmet with the red facemask, blue jersey, white pants. Boston College wore the gold helmet and white jersey. In a soggy defensive game, Marques White had three of SMU's five sacks, Kevin Jennings threw two touchdown passes and ran for a third, and SMU won 25-16 to move to 4-1. The Eagles' side is on our [Boston College 2026 uniform schedule](/stories/boston-college-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SMUFB/status/2105795836815069201"></a></blockquote>

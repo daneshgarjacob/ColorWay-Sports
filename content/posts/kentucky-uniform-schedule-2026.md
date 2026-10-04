@@ -3,7 +3,7 @@ title: "Kentucky Uniform Schedule 2026: Every Jersey and When the Wildcats Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-04"
 excerpt: "The full Kentucky 2026 uniform schedule: blue jerseys at home, white on the road, two helmets, and what the Wildcats wore against Alabama."
 gradient: "linear-gradient(135deg, #0033A0 0%, #0a2a70 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ Twelve games, seven at Kroger Field, one bye, no alternates announced.
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0033A0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / Blue</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Chrome / White / White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -56,7 +56,7 @@ Home cells are blue, road cells are white, and a star marks a combination that h
 
 **September 26 vs. South Alabama**, Lexington. ★ Confirmed from the broadcast: **white helmet, blue jersey, blue pants**, the first blue over blue of the season, as the team posted during the week. South Alabama wore the white helmet, white jersey and navy pants. The Jaguars led 21-14 late in the first half, then Kentucky scored the last 31 points to win 45-21 and move to 3-1.
 
-**October 3 at South Carolina**, Columbia. White expected. Kentucky went all-white for this trip in 2025, so white pants are the safe assumption again.
+**October 3 at South Carolina**, Columbia. ★ Confirmed from the broadcast: **chrome helmet, white jersey, white pants**. The all-white road set was expected; the helmet was the surprise. It is a chrome silver shell with a blue center stripe and the blue UK logo, the first alternate helmet Kentucky has worn in 2026. South Carolina wore the white helmet, black jersey and black pants. Kentucky fell behind 17-0, rallied to force overtime, and won 35-34 when Kenny Minchey threw a 6-yard touchdown to Henry Boyer and the two-point conversion to Willie Rodriguez. The Wildcats are 4-1.
 
 **October 10 vs. LSU**, Lexington. Blue expected. LSU is the one SEC program that wears white at home, but this game is at Kroger Field, so the Tigers are the ones in white and Kentucky is in blue. [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026).
 
@@ -94,7 +94,7 @@ Royal blue jersey with white numerals and white pants at home. White jersey with
 
 **Does Kentucky have an alternate uniform in 2026?**
 
-No alternate has been announced or assigned to a 2026 game. Kentucky has worn black, grey and chrome-helmet alternates in past seasons, so one could still appear, and the Louisville game on November 28 would be the obvious candidate.
+The chrome helmet came out at South Carolina on October 3, with the white jersey and white pants. No other alternate has been announced or assigned to a 2026 game. Kentucky has worn black and grey alternates in past seasons, so one could still appear, and the Louisville game on November 28 would be the obvious candidate.
 
 **Why did Kentucky wear a white helmet against Youngstown State?**
 

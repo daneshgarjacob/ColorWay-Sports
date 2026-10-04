@@ -3,7 +3,7 @@ title: "North Carolina Uniform Schedule 2026: Every Jersey, Starting With Dublin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What North Carolina wears every game in 2026, starting with the Dublin opener against TCU, plus the 1980 throwbacks for Notre Dame and the Kenan 100 season."
 gradient: "linear-gradient(135deg, #4B9CD3 0%, #13294B 60%, #ffffff 130%)"
 cardStyle: words
@@ -77,7 +77,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
 
 **September 19 at Clemson**, Memorial Stadium, noon on ESPN. ★ Confirmed from the broadcast: **Carolina blue helmet with the interlocking NC, white jersey with Carolina blue numerals, Carolina blue pants**, the same white and Carolina blue pairing the Tar Heels opened the season with. Clemson met them in the orange Tiger Paw helmet, orange jersey and white pants, so Death Valley got orange against white with blue at both ends of it. Weather suspended the game in the third quarter with North Carolina ahead 17-15, and Clemson came back after the delay to win 28-20.
 
-**October 3 vs. No. 3 Notre Dame**, Kenan Stadium, noon ET on ESPN. ★ Confirmed by Carolina: **the 1980 throwbacks**, powder blue helmet with the stairstep UNC logo, powder blue jersey with "Carolina" across the chest, white pants. It is the second time the Kenan 100 set has been worn, after the East Tennessee State opener, and it gets the biggest home game on the schedule. The game is sold out, and Carolina is unveiling its new Hall of Fame displays at Kenan during the first half. Notre Dame is expected in white with the gold helmet, which puts powder blue against white and gold.
+**October 3 vs. No. 3 Notre Dame**, Kenan Stadium, noon ET on ESPN. ★ Confirmed by Carolina: **the 1980 throwbacks**, powder blue helmet with the stairstep UNC logo, powder blue jersey with "Carolina" across the chest, white pants. It is the second time the Kenan 100 set has been worn, after the East Tennessee State opener, and it gets the biggest home game on the schedule. The game is sold out, and Carolina is unveiling its new Hall of Fame displays at Kenan during the first half. The broadcast matched it: powder blue helmet, powder blue jersey, white pants. Notre Dame wore the gold helmet, white jersey and gold pants. Billy Edwards Jr. threw three touchdown passes and Carolina was within 21-20 in the third quarter, but the Irish kept running the ball in the rain, CJ Carr threw four touchdowns, and No. 3 Notre Dame won 37-26. Carolina is 2-2.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UNCFootball/status/2105767599527362783"></a></blockquote>

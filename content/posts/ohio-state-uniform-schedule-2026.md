@@ -3,7 +3,7 @@ title: "Ohio State Uniform Schedule 2026: Every Jersey and When the Buckeyes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-09-27"
+updatedDate: "2026-10-04"
 excerpt: "What Ohio State wears every game in 2026. Scarlet confirmed for the opener, white on the road, and the three alternates in the closet with no date yet."
 gradient: "linear-gradient(135deg, #BB0000 0%, #1a0505 55%, #C4CED4 130%)"
 cardStyle: words
@@ -42,7 +42,7 @@ Twelve games, seven at Ohio Stadium. Three alternates sit in the closet with no 
   <div style="background: #f1f3f8; color: #333; border: 2px solid #BB0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / White / Silver</div></div>
   <div style="background: #BB0000; color: #ffffff; border: 2px solid #C0C0C0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kent State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Scarlet / Silver</div></div>
   <div style="background: #BB0000; color: #ffffff; border: 2px solid #C0C0C0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Scarlet / Gray</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / White / White</div></div>
   <div style="background: #BB0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -67,7 +67,7 @@ Big Ten home teams wear color and visitors wear white, which makes the road date
 
 **September 26 vs. Illinois**, Ohio Stadium. Hall of Fame Weekend and the Buckeyes for a Cancer Free World game. ★ Confirmed from the game photos: **silver helmet, scarlet jersey, gray pants**. Illinois wore an orange helmet, white jersey and orange pants. Jeremiah Smith tied a school record with four touchdown catches, with 12 receptions for 217 yards, and Ohio State won 42-19 to move to 3-1.
 
-**October 3 at Iowa**, Iowa City. Road. White expected.
+**October 3 at Iowa**, Iowa City. ★ Confirmed from the game photos: **silver helmet, white jersey, white pants**. Iowa went all black: black helmet, black jersey and black pants. Julian Sayin threw for 324 yards and three touchdowns, Jeremiah Smith caught 11 passes for 206 yards and two scores to become the program's career leader in catches, receiving yards and receiving touchdowns, and Ohio State won 31-14 to move to 4-1. See our [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026).
 
 **October 10 vs. Maryland**, Ohio Stadium. Homecoming. Scarlet expected.
 

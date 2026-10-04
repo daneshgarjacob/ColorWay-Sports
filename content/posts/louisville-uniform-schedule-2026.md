@@ -3,7 +3,7 @@ title: "Louisville Uniform Schedule 2026: Every Jersey and When the Cardinals We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "Louisville's 2026 uniform schedule: red home jerseys, white road uniforms, the Salute to Service helmet, and the black For The Ville alternate for Stanford."
 gradient: "linear-gradient(135deg, #AD0000 0%, #7a0000 55%, #000000 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ adidas makes all of it. The base red and white sets share one template: an arche
 
 **September 26 vs. Wake Forest.** ★ Confirmed from the broadcast: **white helmet, red jersey, red pants**, the Kids Day look the team posted during the week. Wake Forest wore the gold helmet, white jersey and gold pants. Wake won 30-27 on a field goal with 6:20 left, and Louisville fell to 2-2. The other side is on our [Wake Forest 2026 uniform schedule](/stories/wake-forest-uniform-schedule-2026).
 
-**October 3 at NC State**, 3:30 p.m. ET on ACC Network. ★ Confirmed by Louisville: **red helmet, white jersey, white pants**. The team posted it as the "Game 5 fit" for the first ACC road game, at Carter-Finley Stadium. The headline is the helmet: after the white shell in every game so far, including the flag version for Villanova, Louisville is going to a red helmet over the white road set. NC State is expected in red for its ACC home opener, so it will be red against white at Carter-Finley.
+**October 3 at NC State**, 3:30 p.m. ET on ACC Network. ★ Confirmed by Louisville: **red helmet, white jersey, white pants**. The team posted it as the "Game 5 fit" for the first ACC road game, at Carter-Finley Stadium. The headline is the helmet: after the white shell in every game so far, including the flag version for Villanova, Louisville is going to a red helmet over the white road set. The broadcast matched it: red helmet, white jersey, white pants. NC State wore the white helmet, red jersey and white pants. CJ Bailey threw for a career-high 373 yards, Kanoah Vinesett's 28-yard field goal with 5:30 left was the difference, and NC State won 31-28. Louisville is 2-3, and the other side is on our [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LouisvilleFB/status/2105432558850965634"></a></blockquote>

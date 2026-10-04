@@ -3,7 +3,7 @@ title: "Rutgers Uniform Schedule 2026: Every Jersey and When the Scarlet Knights
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Rutgers wears every game in 2026: scarlet at home, white on the road, the 9/11 tribute set, the Blackout homecoming, and the full uniform schedule."
 gradient: "linear-gradient(135deg, #CC0033 0%, #a3002a 55%, #111111 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
 
 **September 25 vs. Howard.** ★ Confirmed from the broadcast: **scarlet helmet with the white block R, scarlet jersey, white pants**, the classic home look, for Sir Henry's Birthday Bash and R Community Day, featuring Eric LeGrand's A Walk to Believe. The helmets carried a BELIEVE bumper on the back. Howard wore a silver helmet, white jersey and navy pants. Rutgers won 58-7 on Big Ten Network for its first win of the season, with Antwan Raymond running for three touchdowns.
 
-**October 3 vs. Indiana**, 8 p.m. ET on BTN. ★ Confirmed by Rutgers: **The Blackout, black helmet and black uniform.** The athletic department's Blackout announcement says it plainly: "The team will bring out its black uniforms and helmets." That is the all-black set that debuted in 2025, built for exactly this kind of night: Homecoming and Family Weekend, an 8 p.m. kickoff against the national champions, a black-clad crowd and a pregame light and fireworks show. Rutgers has been promoting the game all week with the Blackout poster below. Indiana is expected in white, which makes it black against white under the lights. One calendar note: ESPN files this game under October 4 because its feed runs on UTC. It is a Saturday night game on October 3.
+**October 3 vs. Indiana**, 8 p.m. ET on BTN. ★ Confirmed by Rutgers: **The Blackout, black helmet and black uniform.** The athletic department's Blackout announcement says it plainly: "The team will bring out its black uniforms and helmets." That is the all-black set that debuted in 2025, built for exactly this kind of night: Homecoming and Family Weekend, an 8 p.m. kickoff against the national champions, a black-clad crowd and a pregame light and fireworks show. Rutgers has been promoting the game all week with the Blackout poster below. The broadcast matched it: black helmet with the red R, black jersey, black pants. Indiana wore a crimson helmet, white jersey and white pants. One calendar note: ESPN files this game under October 4 because its feed runs on UTC. It is a Saturday night game on October 3. Turbo Richard ran for 204 yards, Josh Hoover threw four touchdown passes, and No. 6 Indiana won 47-15 for its 21st straight win. Rutgers is 1-4.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RFootball/status/2104583223439511746"></a></blockquote>

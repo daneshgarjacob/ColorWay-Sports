@@ -3,7 +3,7 @@ title: "Louisiana Uniform Schedule 2026: Every Jersey and When the Ragin' Cajuns
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "What Louisiana wears every game in 2026: the red home set, the white road jersey, the 337 helmet and the week-by-week Ragin' Cajuns uniform schedule."
 gradient: "linear-gradient(135deg, #CE181E 0%, #8a0f14 55%, #ffffff 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ Four games into Michael Desormeaux's fifth season, the pattern is simple. Red je
   <div style="background: #ffffff; color: #CE181E; border: 2px solid #CE181E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #CE181E; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #ffffff; color: #CE181E; border: 2px solid #CE181E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / White</div></div>
-  <div style="background: #CE181E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red (Homecoming)</div></div>
+  <div style="background: #CE181E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #CE181E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -53,7 +53,7 @@ Four games into Michael Desormeaux's fifth season, the pattern is simple. Red je
 
 **September 26 at Charlotte.** ★ Confirmed from Louisiana's own game photography, dated to the day of the game: **red helmet, white jersey, white pants** at Jerry Richardson Stadium. Charlotte wore green at home. The Cajuns defense dominated in a 34-7 win, with Brent Gordon forcing a fumble on the way to national defensive honors.
 
-**October 3 vs. Arkansas State.** Red expected. Homecoming and Gridiron Alumni Day, 8 p.m. Eastern on ESPN+, and the Sun Belt opener. Homecoming is the home date most likely to bring something extra if Louisiana has it planned.
+**October 3 vs. Arkansas State.** ★ Confirmed from the broadcast: **white helmet, red jersey, red pants** for Homecoming and Gridiron Alumni Day, red over red under the white shell. Arkansas State wore a black helmet and white jersey. It was tied 20-20 late, and Tony Sterner kicked a 37-yard field goal as time expired for a 23-20 win in the Sun Belt opener. Louisiana is 4-1.
 
 **October 10 at Louisiana Tech.** White expected. An in-state game at Joe Aillet Stadium in Ruston, 7:30 p.m. Eastern on ESPN+.
 

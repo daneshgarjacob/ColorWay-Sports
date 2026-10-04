@@ -3,7 +3,7 @@ title: "Miami Hurricanes Uniform Schedule 2026: Every Jersey and When the Hurric
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-04"
 excerpt: "Miami Hurricanes uniform schedule 2026: orange home jerseys, the all-white road set, the Miami Nights black alternate, and every game's jersey week by week."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 cardStyle: words
@@ -53,7 +53,7 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 
 **September 26 vs. Central Michigan.** ★ Confirmed pregame and confirmed from the broadcast: **white helmet with the orange and green stripe, green jersey, green pants**, the first time the green alternate is out this season and the all-green look under the white U helmet that goes back to the State of Miami set. It breaks the orange-at-home pattern of the opener. Central Michigan came in a gold helmet, white jersey and maroon pants. Darian Mensah threw three second quarter touchdown passes, two of them to Daylyn Upshaw and Malachi Toney, and ran for a fourth, Miami scored 35 straight after a first quarter field goal, and the Hurricanes won 52-3 at Hard Rock Stadium to move to 4-0.
 
-**October 3 at Clemson**, 7:30 p.m. ET on ABC. ★ Confirmed by Miami: **white helmet, white jersey, white pants**, the all-white road set, under the caption "Business trip attire." It is the third time Miami has packed the all white look this season, after Stanford and Wake Forest, and it is the right call for the biggest road test of the first half. Clemson is expected in its orange home set in Death Valley, so with Miami in white the two oranges never touch. The other side of it is on our [Clemson 2026 uniform schedule](/stories/clemson-uniform-schedule-2026).
+**October 3 at Clemson**, 7:30 p.m. ET on ABC. ★ Confirmed by Miami: **white helmet, white jersey, white pants**, the all-white road set, under the caption "Business trip attire." It is the third time Miami has packed the all white look this season, after Stanford and Wake Forest, and it is the right call for the biggest road test of the first half. The broadcast matched it: all white, with the orange and green stripe on the helmet. Clemson wore the orange helmet, orange jersey and white pants. Darian Mensah threw for 227 yards and a touchdown and ran 34 yards for another, Mark Fletcher Jr. ran for two scores, and Miami won 41-13 in Death Valley to move to 5-0 and take sole possession of first place in the ACC. The other side of it is on our [Clemson 2026 uniform schedule](/stories/clemson-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2105332217048076558"></a></blockquote>
