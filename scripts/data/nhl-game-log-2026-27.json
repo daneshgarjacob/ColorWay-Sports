@@ -31,6 +31,12 @@
     "2026-10-02 BOS@WPG": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-02 STL@DAL": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-02 ANA@VGK": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-03 CHI@BUF": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-03 WSH@TBL": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-03 OTT@TOR": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-03 CAR@PHI": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-03 UTA@CBJ": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-03 SEA@EDM": { "confirmed": true, "source": "ESPN game photos" },
 
     "2026-10-03 MTL@PIT": { "home": { "call": "Home Dark + 60th Patch", "note": "Penguins announced 9/29: 60th logo on the shoulders for the home opener" } },
     "2026-10-09 NYR@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
