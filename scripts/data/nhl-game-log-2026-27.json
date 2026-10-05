@@ -45,7 +45,8 @@
     "2026-10-03 LAK@SJS": { "confirmed": true, "source": "ESPN game photos" },
 
     "2026-10-03 MTL@PIT": { "confirmed": true, "source": "ESPN game photos (black home + white road seen; 60th patch per team announcement)", "home": { "call": "Home Dark + 60th Patch", "note": "Penguins announced 9/29: 60th logo on the shoulders for the home opener" } },
-    "2026-10-04 WPG@DET": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-04 WPG@DET": { "confirmed": true, "source": "ESPN game photos" }
+    "2026-10-04 UTA@NYR": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-09 NYR@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
     "2026-10-17 NJD@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
     "2026-11-01 MIN@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
