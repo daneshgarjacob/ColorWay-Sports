@@ -33,6 +33,10 @@ That is two of the Canucks' first three home games of 2026-27 in the third jerse
 <p style="margin: 0;">I like Vancouver's normal colors, so I don't really love this. I like it as a throwback they wear now and then, but I really hope they don't make it a consistent thing. It is big news that they wore it on back-to-back home nights, but I don't love it.</p>
 </div>
 
+Here is the Black Skate in action on the first night, from the Canucks themselves:
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canucks/status/2106622456450724032"></a></blockquote>
+
 ## What the Canucks Wore in the First Week of 2026-27
 
 <div style="margin: 1.5em 0; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 14px; padding: 8px 18px 14px;">
