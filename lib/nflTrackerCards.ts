@@ -21,6 +21,8 @@ export type TrackerSide = {
   status: string;
   /** Only when the card's own write-up names this club's socks unambiguously. */
   socks?: string;
+  /** The jersey photo on the card (public path), when the card carries one per side. */
+  img?: string;
 };
 
 export type TrackerCard = {
@@ -117,10 +119,12 @@ export function nflTrackerCards(): TrackerCard[] {
     const pillText = pill ? ent(pill[1]) : "";
     const final = /^Final\b/.test(pillText);
 
+    const imgs = [...body.matchAll(/<img src="(\/images\/posts\/nfl-tracker-jerseys\/[^"]+)"/g)].map((m) => m[1]);
     const sides = [0, 1].map((s) => ({
       hexes: hexes.slice(s * 3, s * 3 + 3) as [string, string, string],
       words: combos[s] ?? [],
       status: final ? "" : (status[s] ?? ""),
+      ...(imgs.length === 2 ? { img: imgs[s] } : {}),
     })) as [TrackerSide, TrackerSide];
 
     const prose = body.trim().split("\n")[0] ?? "";
