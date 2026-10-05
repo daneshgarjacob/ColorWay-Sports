@@ -36,6 +36,8 @@ const nextConfig: NextConfig = {
     "/": ["public/**/*"],
     "/stories": ["public/**/*"],
     "/stories/[slug]": ["public/**/*"],
+    // The embed widget reads content/ only and references images by URL.
+    "/embed/[league]/[team]": ["public/**/*"],
   },
   outputFileTracingIncludes: {
     "/*": ["scripts/mlb-confirmed/**/*.json", "scripts/mlb-slate/**/*.json"],
@@ -50,10 +52,6 @@ const nextConfig: NextConfig = {
             value: "nosniff",
           },
           {
-            key: "X-Frame-Options",
-            value: "DENY",
-          },
-          {
             key: "Referrer-Policy",
             value: "strict-origin-when-cross-origin",
           },
@@ -61,6 +59,23 @@ const nextConfig: NextConfig = {
             key: "Permissions-Policy",
             value: "camera=(), microphone=(), geolocation=()",
           },
+        ],
+      },
+      // Every page stays unframeable EXCEPT the embed widget documents at
+      // /embed/<league>/<team>, which exist to be iframed by other sites.
+      // (A later header cannot unset X-Frame-Options, so the widget paths are
+      // excluded from this rule rather than overridden.)
+      {
+        source: "/((?!embed/[^/]+/[^/]+$).*)",
+        headers: [{ key: "X-Frame-Options", value: "DENY" }],
+      },
+      {
+        source: "/embed/:league/:team",
+        headers: [
+          { key: "Content-Security-Policy", value: "frame-ancestors *" },
+          // The card is a thin per-team document; keep it out of the index.
+          // Its links still pass, and the snippet carries a plain link too.
+          { key: "X-Robots-Tag", value: "noindex" },
         ],
       },
     ];
