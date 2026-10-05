@@ -16,7 +16,7 @@ teams:
   - atlanta-braves
 ---
 
-I'm a Los Angeles sports fan. I'm a Lakers fan, a Dodgers fan and, unfortunately, a Chargers fan. I was at Dodger Stadium on Sunday night for Game 2 of the NLDS, and I watched a lot of my fellow Dodgers fans walk out of a one-run playoff game before it was over.
+I'm a Los Angeles sports fan. I'm a Lakers fan, a Dodgers fan and, unfortunately, a Chargers fan. I was at Dodger Stadium on Sunday night for Game 2 of the NLDS, and I watched a lot of my fellow Dodgers fans walk out of a close playoff game before it was over.
 
 The Braves won 3-2 to tie the series 1-1. Atlanta led 3-1 after seven innings, and by the 8th the aisles were full of people heading for the parking lot. The Dodgers scored a run in the 9th to pull within one. A lot of the people who bought tickets to a home playoff game were not there to see it.
 
@@ -81,6 +81,6 @@ At Dodger Stadium on Friday, October 9, 2026, if the series goes the distance. E
 
 ## The Bottom Line on Dodgers Fans Leaving Early
 
-LA sports fans are spoiled, and I'm one of them. The Dodgers lead baseball in attendance, and when the team is rolling, Dodger Stadium is one of the loudest places in sports. But in Milwaukee and San Diego, the crowd carries the team. In LA, the team carries the crowd. Leaving in the 8th inning of a one-run NLDS game, and missing a 9th-inning run, is the clearest example of that. If there's a Game 5 at Dodger Stadium, let's stay for it.
+LA sports fans are spoiled, and I'm one of them. The Dodgers lead baseball in attendance, and when the team is rolling, Dodger Stadium is one of the loudest places in sports. But in Milwaukee and San Diego, the crowd carries the team. In LA, the team carries the crowd. Leaving in the 8th inning of an NLDS game, down two runs, and missing a 9th-inning run, is the clearest example of that. If there's a Game 5 at Dodger Stadium, let's stay for it.
 
 Every Dodgers jersey and when they wear it is in the [Dodgers uniform schedule](/stories/dodgers-uniform-schedule-2026), and every game this October is in the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
