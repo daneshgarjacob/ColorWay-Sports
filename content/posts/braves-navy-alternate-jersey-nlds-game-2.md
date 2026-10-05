@@ -75,7 +75,7 @@ That leaves the visiting team to decide what the matchup looks like, and Atlanta
 
 Navy against white is the cleanest contrast a road team can bring to Dodger Stadium. On a broadcast, there is never a question about who is who, and the red script on navy pops more than it does on gray.
 
-The problem is below the belt. The navy top over gray pants makes Atlanta look like it is wearing two different uniforms, a dark jersey and a road gray bottom that do not belong to the same set. The road gray uniform, top to bottom, is one complete look, and against Dodger white it is two of the most classic uniforms in baseball sharing a field. We graded that Game 1 matchup an **A-** in our [MLB uniform tracker](/stories/mlb-uniform-tracker-2026). The navy version is a step down from it.
+The problem is below the belt. The navy top over gray pants makes Atlanta look like it is wearing two different uniforms, a dark jersey and a road gray bottom that do not belong to the same set. The road gray uniform, top to bottom, is one complete look, and against Dodger white it is two of the most classic uniforms in baseball sharing a field. We graded that Game 1 matchup an **A-** in our [MLB uniform tracker](/stories/mlb-uniform-tracker-2026). The navy version matches it.
 
 ## The Braves' Record in the Navy Alternate
 
@@ -128,15 +128,15 @@ The ones who left missed the Dodgers scoring in the 9th to pull within a run bef
 
 Not in Atlanta. Games 3 and 4 are at Truist Park, and the navy has been a road jersey all season. At home, the Braves wear the home whites or the red alternate, and the red already has an October moment: Atlanta wore it over home white pants to close out the Phillies 6-2 in Game 3 of the Wild Card Series, a matchup we graded an **A-**. The Braves are 5-1 at home in the red alternate since July 8. If they want a change from white for Game 3, the red is the one.
 
-If the series goes to a Game 5 at Dodger Stadium on Friday, October 9, our pick is the road gray uniform. It is the better look against Dodger white, and it is the full uniform rather than a jersey and someone else's pants. We understand why a team that just won in navy would want to wear it again, and nobody in Atlanta will complain if they do. The navy won a game, and it looked great doing it. The road gray is still the more complete uniform.
+If the series goes to a Game 5 at Dodger Stadium on Friday, October 9, our pick is the navy again. It won Game 2, it is 5-1 in its last six, and against Dodger white it is the best look Atlanta has. The road gray is a great uniform too, but the navy has earned another night in Los Angeles.
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #13274F 0%, #CE1141 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(19, 39, 79, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #fff; line-height: 1; letter-spacing: -1px;">B+</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #fff; line-height: 1; letter-spacing: -1px;">A-</p>
   <p style="font-size: 0.9em; color: rgba(255,255,255,0.9); margin: 0.9em 0 0; letter-spacing: 1px;">Braves Navy Alternate vs Dodgers Home White &middot; NLDS Game 2</p>
 </div>
 
-Our grade for the Game 2 uniform matchup is a **B+**. The contrast against Dodger white is excellent and the red script reads better on navy than anywhere else in the closet. The gray pants keep it from going higher, and the Game 1 road gray matchup is still the best-looking game of this series so far.
+Our grade for the Game 2 uniform matchup is an **A-**, the same as the road grays in Game 1. The contrast against Dodger white is excellent and the red script reads better on navy than anywhere else in the closet. The gray pants are the only thing keeping it out of the A range.
 
 ## Frequently Asked Questions
 
@@ -166,6 +166,6 @@ The home white uniform with the blue "Dodgers" script for Games 1 and 2 at Dodge
 
 ## The Bottom Line on the Braves Navy Jersey in the NLDS
 
-The Braves wore the navy alternate jersey over road gray pants in NLDS Game 2 at Dodger Stadium and beat the Dodgers 3-2 to tie the series 1-1. It is 5-6 in our tracker since July 8, with five wins in its last six. We grade the matchup a B+: great contrast, mismatched pants, and a jersey that looked even better from the seats than on TV. The Dodger Stadium crowd, on the other hand, did not have its best night. For Games 3 and 4 at home, we want the red alternate. For a Game 5 in Los Angeles, the road gray is the better uniform, even if the navy is the hotter one.
+The Braves wore the navy alternate jersey over road gray pants in NLDS Game 2 at Dodger Stadium and beat the Dodgers 3-2 to tie the series 1-1. It is 5-6 in our tracker since July 8, with five wins in its last six. We grade the matchup an A-: great contrast, a small knock for the gray pants, and a jersey that looked even better from the seats than on TV. The Dodger Stadium crowd, on the other hand, did not have its best night. For Games 3 and 4 at home, we want the red alternate. For a Game 5 in Los Angeles, bring the navy back.
 
 Every Braves jersey and the dates they wear them are in the [Braves 2026 uniform schedule](/stories/braves-uniform-schedule-2026), every Division Series matchup is in our [ALDS and NLDS uniforms guide](/stories/mlb-division-series-uniforms-2026), and what every club wears, game by game, is in the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).

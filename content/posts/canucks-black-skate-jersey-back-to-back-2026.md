@@ -4,7 +4,7 @@ author: "jake-daneshgar"
 category: "NHL"
 date: "2026-10-05"
 updatedDate: "2026-10-05"
-excerpt: "Canucks Black Skate jersey worn back to back vs Flames and Golden Knights. Great throwback, wrong everyday jersey. Keep the blue orca."
+excerpt: "Canucks Black Skate jersey worn back to back vs Flames and Golden Knights. Nice throwback, wrong everyday jersey. Keep the blue orca."
 gradient: "linear-gradient(135deg, #111111 0%, #C8102E 70%, #FFC72C 130%)"
 coverImage: "/images/posts/canucks-black-skate-jersey-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -26,7 +26,7 @@ teams: ["vancouver-canucks"]
 
 The Vancouver Canucks wore their Black Skate alternate jersey on back-to-back nights this weekend at Rogers Arena. Saturday, October 3, they beat the Calgary Flames 4-1 in it. Sunday, October 4, they wore it again and lost 3-2 to the Vegas Golden Knights.
 
-That is two of the Canucks' first three home games of 2026-27 in the third jersey, and the club has not even published its Black Skate schedule for the season yet. So we have to ask the question Canucks fans have been asking for years: is the Skate becoming the real Vancouver jersey, with the blue orca hanging in the closet as the backup? We hope not. The Skate is a great throwback, but the blue and green are Vancouver's colors, and they should stay that way.
+That is two of the Canucks' first three home games of 2026-27 in the third jersey, and the club has not even published its Black Skate schedule for the season yet. So we have to ask the question Canucks fans have been asking for years: is the Skate becoming the real Vancouver jersey, with the blue orca hanging in the closet as the backup? We hope not. The Skate is a nice throwback, but the blue and green are Vancouver's colors, and they should stay that way.
 
 <div style="margin: 1.6em 0; padding: 1.2em 1.4em; background: #f4f6fb; border-left: 4px solid #00205B; border-radius: 10px;">
 <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 800; color: #00205B; text-transform: uppercase; letter-spacing: 2px;">Jake's Take</p>
@@ -94,7 +94,7 @@ The club has answered the way clubs answer: by wearing it more every season and 
 
 On the ice, it is close to a co-primary already. Half the home games in black and half in blue is not how a third jersey normally works, and back-to-back Skate nights to open the home schedule will only push the "make it permanent" conversation louder. That is big news. We just do not want it to go any further.
 
-The Skate is a great throwback. The black base, the red and gold striping and the Flying Skate crest carry real history, from Bure and Linden in 1994 to Gino Odjick. Pulling it out now and then for a big night at Rogers Arena is exactly how a throwback should be used.
+The Skate is a nice throwback. The black base, the red and gold striping and the Flying Skate crest carry real history, from Bure and Linden in 1994 to Gino Odjick. Pulling it out now and then for a big night at Rogers Arena is exactly how a throwback should be used.
 
 But the blue and green are Vancouver's colors. The orca is a clean, well balanced sweater that looks like the Pacific Northwest and like nobody else in the league, and it is the look the club still treats as official. Black, red and gold were a detour from the colors the club started with in 1970 and went back to with today's blue and green orca look. Wear the Skate too often and it stops feeling special, and the Canucks start looking like a different team.
 
@@ -102,8 +102,8 @@ There is also the road problem. The Skate is a dark sweater and the NHL's home t
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #111111 0%, #C8102E 140%); border-radius: 16px; box-shadow: 0 4px 20px rgba(17, 17, 17, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
-  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #FFC72C; line-height: 1; letter-spacing: -1px;">B-</p>
-  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Black Skate Alternate &middot; Great Throwback, Not an Everyday Jersey</p>
+  <p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #FFC72C; line-height: 1; letter-spacing: -1px;">C</p>
+  <p style="font-size: 0.9em; color: #ffffff; margin: 0.9em 0 0; letter-spacing: 1px;">Black Skate Alternate &middot; Nice Throwback, Not an Everyday Jersey</p>
 </div>
 
 See where every club's sweaters land in our [NHL jerseys ranked list](/stories/best-nhl-jerseys-2026-27-ranked). Every Canucks sweater and the date it goes on is on the [Canucks uniform schedule](/stories/canucks-uniform-schedule-2026-27).
@@ -132,7 +132,7 @@ No. The primary home sweater is still the blue orca, which carries the new RBC p
 
 **Should the Black Skate become the Canucks permanent jersey?**
 
-We hope not. It is a great throwback to wear now and then, but the blue and green orca is Vancouver's identity, and wearing the Skate every other night takes away what makes it special. Our grade for the Skate as an everyday jersey is a B-.
+We hope not. It is a nice throwback to wear now and then, but the blue and green orca is Vancouver's identity, and wearing the Skate every other night takes away what makes it special. Our grade for the Skate as an everyday jersey is a C.
 
 **What is the next Canucks home game?**
 
@@ -140,4 +140,4 @@ October 20, 2026 against the Carolina Hurricanes, after a six-game road trip. Th
 
 ## The Bottom Line on the Canucks Black Skate Jersey
 
-The Canucks opened 2026-27 with the Black Skate on back-to-back nights, beating Calgary 4-1 and losing 3-2 to Vegas, and the sweater is now worn at roughly half of Vancouver's home games. It is still officially the third jersey and the blue orca is still the primary, but on the ice the gap is almost gone. We love the Skate as a throwback for special nights, but we grade it a B- as an everyday jersey. Keep the blue orca as the primary, and keep the Skate rare enough to stay special.
+The Canucks opened 2026-27 with the Black Skate on back-to-back nights, beating Calgary 4-1 and losing 3-2 to Vegas, and the sweater is now worn at roughly half of Vancouver's home games. It is still officially the third jersey and the blue orca is still the primary, but on the ice the gap is almost gone. We like the Skate as a throwback for special nights, but as an everyday jersey it gets a C. Keep the blue orca as the primary, and keep the Skate rare enough to stay special.

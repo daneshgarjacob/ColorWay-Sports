@@ -39,9 +39,16 @@ I wasn't the only one who noticed. Braves site House That Hank Built wrote that 
 
 Nobody can say Dodgers fans don't show up. The Dodgers drew [4,034,219 fans in 2026](https://www.thescore.com/mlb/news/3608188/dodgers-set-a-franchise-attendance-record-with-4-034-219-fans-in-2026), a franchise record and the most in baseball, averaging 49,805 a game. It was their second straight season over 4 million. They also led the majors in road attendance.
 
-So the question isn't whether we come. It's whether we stay, and whether we're loud when the team isn't giving us a reason to be.
+So it's not that we don't show up. We show up more than anybody. It's that we don't stay, and we're not loud unless the team gives us something to cheer about.
 
 "Arrive late, leave early" has followed Dodger Stadium for a long time, and traffic is always the excuse. But people were writing about it back in 2012, when [a HuffPost column](https://www.huffpost.com/entry/dodger-fans_b_1832231) argued that every ballpark has gridlock and that Dodgers games often get treated as a social night out more than a ballgame.
+
+The arriving late part was on display too. This is from my seat a few minutes before first pitch of a home playoff game.
+
+<figure style="margin:1.8em auto;max-width:440px;">
+<img src="/images/posts/braves-navy-alternate-jersey-nlds-game-2/dodger-stadium-before-first-pitch.jpg" alt="Dodger Stadium a few minutes before first pitch of NLDS Game 2 on October 4 2026, with empty seats still showing in the field level" style="width:100%;border-radius:10px;" />
+<figcaption style="text-align:center;font-size:0.75em;color:#999;margin-top:0.5em;">Minutes before first pitch of NLDS Game 2, with plenty of seats still empty. Photo: Jake Daneshgar / ColorWay Sports</figcaption>
+</figure>
 
 ## What It Looked Like in Milwaukee and San Diego
 
@@ -49,13 +56,13 @@ On the same day, in the other NLDS, the Brewers were down 3-2 to the Padres goin
 
 A few days before that, the Padres swept the Cubs in the Wild Card Series at Petco Park, and Manny Machado, who has played in eight postseasons, said of the crowd: "I've never seen anything like it" ([MLB.com](https://www.mlb.com/news/cubs-padres-2026-wild-card-series-takeaways)). That's what a crowd that gives its team momentum looks like.
 
-As a uniform site, we'll add one thing. A Dodger Stadium crowd in white and Dodger blue looks great on TV. It looks less great when the empty seats start showing through it in the 8th inning.
+Since this is a uniform site, I'll say this too. When Dodger Stadium is full of white and Dodger blue jerseys, it looks amazing on TV. When half the seats are empty in the 8th inning, it doesn't.
 
 ## What Comes Next for the Dodgers and Their Fans
 
-Game 3 is Tuesday, October 6, in Atlanta. If the series goes five, Game 5 is back at Dodger Stadium on Friday, October 9. If we get that game, I hope we stay until the last out, up or down.
+Game 3 is Tuesday, October 6, in Atlanta. If the series goes five, Game 5 is back at Dodger Stadium on Friday, October 9. If we get that game, I really hope we stay until the last out, whether we're up or down.
 
-For what both teams wore on Sunday, including the Braves' navy alternate, see our [Braves navy jersey in NLDS Game 2](/stories/braves-navy-alternate-jersey-nlds-game-2) breakdown (coming soon).
+For what both teams wore on Sunday, including the Braves' navy alternate, see our [Braves navy jersey in NLDS Game 2](/stories/braves-navy-alternate-jersey-nlds-game-2) breakdown.
 
 ## Frequently Asked Questions
 
@@ -81,6 +88,6 @@ At Dodger Stadium on Friday, October 9, 2026, if the series goes the distance. E
 
 ## The Bottom Line on Dodgers Fans Leaving Early
 
-LA sports fans are spoiled, and I'm one of them. The Dodgers lead baseball in attendance, and when the team is rolling, Dodger Stadium is one of the loudest places in sports. But in Milwaukee and San Diego, the crowd carries the team. In LA, the team carries the crowd. Leaving in the 8th inning of an NLDS game, down two runs, and missing a 9th-inning run, is the clearest example of that. If there's a Game 5 at Dodger Stadium, let's stay for it.
+LA sports fans are spoiled, and I'm one of them. The Dodgers lead baseball in attendance, and when the team is rolling, Dodger Stadium is one of the loudest places in sports. But in Milwaukee and San Diego, the fans give the team momentum. In LA, the team has to give the fans momentum. Leaving in the 8th inning of an NLDS game, down two runs, and missing a 9th-inning run, is the clearest example of that. If there's a Game 5 at Dodger Stadium, let's actually stay for it.
 
 Every Dodgers jersey and when they wear it is in the [Dodgers uniform schedule](/stories/dodgers-uniform-schedule-2026), and every game this October is in the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
