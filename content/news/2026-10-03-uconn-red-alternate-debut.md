@@ -14,4 +14,4 @@ UConn's first alternate since 2016 came out on Saturday for Homecoming against S
 
 UConn came back from 34-14 down with 27 straight points and forced overtime, then lost 42-41 when Syracuse scored and converted the two-point try on the final play.
 
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UConnFootball/status/2092629708991008958"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UConnFootball/status/2106458591133650976"></a></blockquote>

@@ -14,4 +14,4 @@ South Florida announced in May that the Gold Standard helmet was coming back for
 
 It was not a happy debut. USF led 13-10 in the fourth quarter, and Temple scored late to win 17-13, the Bulls' first loss after a 4-0 start.
 
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USFFootball/status/2055045993008132328"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USFFootball/status/2106546632632180817"></a></blockquote>

@@ -14,4 +14,6 @@ New York wore the Legacy Blue uniform on Sunday at MetLife Stadium: the navy hel
 
 Arizona wore all white. The Giants won 36-24. Legacy Blue comes out once more this season, December 6 against the 49ers.
 
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2106861895135481957"></a></blockquote>
+
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2105313246265712959"></a></blockquote>
