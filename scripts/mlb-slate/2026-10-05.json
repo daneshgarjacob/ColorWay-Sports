@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-05",
+  "games": [
+    {
+      "away": "Chicago White Sox",
+      "awaySlug": "white-sox",
+      "home": "Cleveland Guardians",
+      "homeSlug": "guardians",
+      "time": "5:00 PM ET",
+      "gameNumber": 1
+    },
+    {
+      "away": "New York Yankees",
+      "awaySlug": "yankees",
+      "home": "Tampa Bay Rays",
+      "homeSlug": "rays",
+      "time": "8:00 PM ET",
+      "gameNumber": 1
+    }
+  ]
+}
