@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-09-30"
-updatedDate: "2026-10-02"
+updatedDate: "2026-10-05"
 excerpt: "2026 ALDS and NLDS uniforms: Yankees at Rays, White Sox at Guardians, Padres at Brewers and Braves at Dodgers. Home and road sets, October history and every date."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
@@ -62,8 +62,8 @@ Tampa Bay is back in the postseason for the first time since 2023, and back at T
 
 **Game log (updated each night):**
 
-- Game 1, Sat. Oct. 3: Yankees TBD at Rays TBD · Grade: pending
-- Game 2, Mon. Oct. 5: Yankees TBD at Rays TBD · Grade: pending
+- Game 1, Sat. Oct. 3: Yankees Road Gray at Rays Home White · Grade: **B** · Rays 1, Yankees 0
+- Game 2, Mon. Oct. 5: Yankees Road Gray at Rays TBD · Grade: pending
 - Game 3, Wed. Oct. 7: Rays TBD at Yankees TBD · Grade: pending
 - Game 4, Thu. Oct. 8 (if needed): Rays TBD at Yankees TBD · Grade: pending
 - Game 5, Sat. Oct. 10 (if needed): Yankees TBD at Rays TBD · Grade: pending
@@ -84,8 +84,8 @@ Tampa Bay is back in the postseason for the first time since 2023, and back at T
 
 **Game log (updated each night):**
 
-- Game 1, Sat. Oct. 3: White Sox TBD at Guardians TBD · Grade: pending
-- Game 2, Mon. Oct. 5: White Sox TBD at Guardians TBD · Grade: pending
+- Game 1, Sat. Oct. 3: White Sox Black Alternate at Guardians Home White · Grade: **B** · White Sox 3, Guardians 0
+- Game 2, Mon. Oct. 5: White Sox Black Alternate at Guardians Red Alternate · Grade: **A-** · in progress
 - Game 3, Wed. Oct. 7: Guardians TBD at White Sox TBD · Grade: pending
 - Game 4, Thu. Oct. 8 (if needed): Guardians TBD at White Sox TBD · Grade: pending
 - Game 5, Sat. Oct. 10 (if needed): White Sox TBD at Guardians TBD · Grade: pending
@@ -108,8 +108,8 @@ Milwaukee finished with the best record in baseball, 103-59.
 
 **Game log (updated each night):**
 
-- Game 1, Sat. Oct. 3: Padres TBD at Brewers TBD · Grade: pending
-- Game 2, Sun. Oct. 4: Padres TBD at Brewers TBD · Grade: pending
+- Game 1, Sat. Oct. 3: Padres Khaki Road at Brewers Home Cream · Grade: **C** · Brewers 3, Padres 2
+- Game 2, Sun. Oct. 4: Padres Khaki Road at Brewers Home Cream · Grade: **C** · Brewers 4, Padres 3
 - Game 3, Tue. Oct. 6: Brewers TBD at Padres TBD · Grade: pending
 - Game 4, Wed. Oct. 7 (if needed): Brewers TBD at Padres TBD · Grade: pending
 - Game 5, Fri. Oct. 9 (if needed): Padres TBD at Brewers TBD · Grade: pending
@@ -132,8 +132,8 @@ The Dodgers have won the last two World Series and open their bid for a third st
 
 **Game log (updated each night):**
 
-- Game 1, Sat. Oct. 3: Braves TBD at Dodgers TBD · Grade: pending
-- Game 2, Sun. Oct. 4: Braves TBD at Dodgers TBD · Grade: pending
+- Game 1, Sat. Oct. 3: Braves Road Gray at Dodgers Home White · Grade: **A-** · Dodgers 5, Braves 3
+- Game 2, Sun. Oct. 4: Braves Navy Alternate at Dodgers Home White · Grade: **A-** · Braves 3, Dodgers 2
 - Game 3, Tue. Oct. 6: Dodgers TBD at Braves TBD · Grade: pending
 - Game 4, Wed. Oct. 7 (if needed): Dodgers TBD at Braves TBD · Grade: pending
 - Game 5, Fri. Oct. 9 (if needed): Braves TBD at Dodgers TBD · Grade: pending
