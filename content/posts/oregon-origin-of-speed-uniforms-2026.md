@@ -10,7 +10,6 @@ coverImage: "/images/posts/oregon-origin-of-speed-2026/oregon-origin-of-speed-je
 coverImagePosition: "center 12%"
 coverImageFit: "cover"
 kicker: "Graded"
-homepageHero: true
 league: "college"
 teams: ["oregon-ducks", "big-ten"]
 ---

@@ -8,8 +8,11 @@ excerpt: "Braves navy alternate jersey vs Dodgers home white in NLDS Game 2: Atl
 gradient: "linear-gradient(135deg, #13274F 0%, #0b1730 60%, #CE1141 140%)"
 logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-atlanta-braves.png"
-cardStyle: words
+coverImage: "/images/posts/braves-navy-alternate-jersey-nlds-game-2/cover.jpg"
+coverImagePosition: "center 50%"
+coverImageFit: "cover"
 kicker: Graded
+homepageHero: true
 league: mlb
 teams:
   - atlanta-braves

@@ -8,7 +8,9 @@ excerpt: "Dodgers fans left NLDS Game 2 early, down two in the 8th, and missed a
 gradient: "linear-gradient(135deg, #005A9C 0%, #0b2a4a 60%, #EF3E42 140%)"
 logoSrc: "/logos/leagues/mlb.png"
 logoSrc2: "/logos/teams/mlb-los-angeles-dodgers.png"
-cardStyle: words
+coverImage: "/images/posts/braves-navy-alternate-jersey-nlds-game-2/la-fans-cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
 kicker: Opinion
 league: mlb
 teams:

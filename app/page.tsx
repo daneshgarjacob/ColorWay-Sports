@@ -123,9 +123,12 @@ export default function Home() {
     // frees its slot IN PLACE, and that slot auto-fills with the newest cover
     // post. `standing: true` never expires: the NFL tracker keeps the MIDDLE
     // card per Jake's 9/16 rule. To pin a story, add it with today's date.
-    { slug: "rays-new-gray-road-uniform", pinned: "2026-09-21" },
+    // 10/5: Jake's three bylined stories from NLDS Game 2 weekend. Braves navy
+    // (his own Acuna photo) holds the hero; his LA fans column (his own pregame
+    // Dodger Stadium photo) and the Canucks Black Skate story flank the tracker.
+    { slug: "dodgers-fans-leaving-early-la-sports-fans-spoiled", pinned: "2026-10-05" },
     { slug: "nfl-uniform-tracker-2026", pinned: "2026-09-16", standing: true },
-    { slug: "nfl-rivalries-uniforms-2026-ranked", pinned: "2026-09-22" },
+    { slug: "canucks-black-skate-jersey-back-to-back-2026", pinned: "2026-10-05" },
   ];
   // A slot is either a live pin or null (auto-fill), so the tracker stays in
   // the middle even when the pins on either side of it have expired.
@@ -248,7 +251,9 @@ export default function Home() {
         )}
 
         {/* The Wire sits under the hero and the Latest grid: Jake's order, 9/17 */}
-        <WireStrip />
+        {/* Six items (two rows) since 10/5: Jake's takes are the freshest
+            thing on the site, and three left most of them off. */}
+        <WireStrip limit={6} />
 
         {/* This week in the NFL: 32 chips, one per schedule post (the earners) */}
         <NflWeekZone />
