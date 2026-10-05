@@ -9,6 +9,7 @@ image: "/images/posts/nhl-daily-tracker/canucks-skate.jpg"
 imageAlt: "Vancouver Canucks Black Skate alternate jersey with the Flying Skate crest and red, gold and white striping"
 link: "/stories/canucks-uniform-schedule-2026-27"
 linkLabel: "Canucks uniform schedule"
+take: "I like Vancouver's normal colors, so I don't really love this. I like it as a throwback they wear now and then, but I really hope they don't make it a consistent thing. It is big news that they wore it on back-to-back home nights, but I don't love it."
 ---
 
 Vancouver went to the Black Skate alternate on Saturday against Calgary, a 4-1 win, and again on Sunday against Vegas, a 3-2 loss. Both were home games at Rogers Arena, and the visitors wore white both nights.

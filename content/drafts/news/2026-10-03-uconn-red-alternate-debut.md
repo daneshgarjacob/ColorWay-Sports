@@ -7,6 +7,7 @@ source: "UConn Athletics"
 sourceUrl: "https://uconnhuskies.com/news/2026/10/3/football-huskies-comeback-falls-short-as-they-fall-to-orange-in-overtime"
 link: "/stories/uconn-uniform-schedule-2026"
 linkLabel: "UConn uniform schedule"
+take: "UConn's red alternate actually looks good. I like the navy helmet with the pop of the red jersey and then the navy pants. I give it a B+."
 ---
 
 UConn's first alternate since 2016 came out on Saturday for Homecoming against Syracuse. The red jersey was revealed in August with a white helmet and white pants, but for the debut the Huskies paired it with the navy helmet and navy pants, from what we saw on the broadcast.

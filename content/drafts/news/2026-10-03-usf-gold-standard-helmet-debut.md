@@ -7,6 +7,7 @@ source: "ESPNU broadcast"
 sourceUrl: "https://www.espn.com/college-football/game/_/gameId/401862792"
 link: "/stories/south-florida-uniform-schedule-2026"
 linkLabel: "South Florida uniform schedule"
+take: "I'm conflicted. I don't usually like USF's normal colors, so this might be a step up, and it's a nice pop of color. My only concern is that it doesn't flow with their normal jersey."
 ---
 
 South Florida announced in May that the Gold Standard helmet was coming back for the program's 30th season. It finally came out on Saturday at Raymond James Stadium: the white shell with the gold Bull U outlined in white and a gold facemask, over the white jersey with gold numbers and gold pants. We expected green at home.

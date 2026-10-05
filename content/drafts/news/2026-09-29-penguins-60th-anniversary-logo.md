@@ -10,6 +10,7 @@ imageAlt: "Pittsburgh Penguins 60th anniversary logo, a black 60 with the skatin
 imageStyle: "full"
 link: "/stories/penguins-uniform-schedule-2026-27"
 linkLabel: "Penguins uniform schedule"
+take: "I like it. My favorite Penguins era was the three-headed monster, Jordan Staal, Evgeni Malkin and Sidney Crosby, in the Vegas gold and black. This one's nice too."
 ---
 
 Pittsburgh's 60th season has its own mark. Five stars for the five Stanley Cups, and gold, white and black stripes for the Three Rivers, with the skating penguin inside the 6.

@@ -7,6 +7,7 @@ source: "@Giants"
 sourceUrl: "https://x.com/Giants/status/2105313246265712959"
 link: "/stories/new-york-giants-uniform-schedule-2026"
 linkLabel: "Giants uniform schedule"
+take: "I love this jersey so much. I love when the helmet doesn't exactly match the jersey, like the Rams throwback used to do it, and here the Giants pair a darker navy helmet with a lighter blue jersey. The piping on the pants, the collar and the shoulders is incredible. This one gets an A+ from me."
 ---
 
 New York wore the Legacy Blue uniform on Sunday at MetLife Stadium: the navy helmet with the underlined GIANTS wordmark, the royal blue jersey with red and white trim, and white pants with red and blue stripes. The end zones went vintage to match. It is the look the 1986 team wore, and that team was honored at halftime, 40 years after the Super Bowl XXI win over Denver.

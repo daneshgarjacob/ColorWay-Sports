@@ -10,6 +10,7 @@ imageAlt: "Air Force B-21 Raider uniform: matte black helmet with camouflage wra
 imageStyle: "full"
 link: "/stories/air-force-b21-raider-uniform-2026"
 linkLabel: "B-21 Raider uniform breakdown"
+take: "I don't usually like dark jerseys, especially black ones, but I like this one because of the color pop. That silver looks good."
 ---
 
 The B-21 Raider uniform made its one appearance of the season on Saturday at Falcon Stadium, and Air Force won in it. Matte black helmet with the camouflage wrap, black jersey with chrome numerals, black pants, against Navy's gold helmets and white jerseys.

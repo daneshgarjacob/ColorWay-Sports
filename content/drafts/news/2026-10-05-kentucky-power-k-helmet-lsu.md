@@ -7,6 +7,7 @@ source: "@UKAthletics"
 sourceUrl: "https://x.com/UKAthletics/status/2107093459148657006"
 link: "/stories/kentucky-uniform-schedule-2026"
 linkLabel: "Kentucky uniform schedule"
+take: "I love the Power K for this game against LSU. We'll see it in the full set, but the K helmet gets a B+ from me."
 ---
 
 Kentucky Athletics put the Power K helmet front and center in its game graphic for Saturday night, and A Sea of Blue reports the throwback logo is coming back for the LSU game at Kroger Field. Kentucky wore the Power K on its helmets from 1975 to 1991.

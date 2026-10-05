@@ -7,6 +7,7 @@ source: "@BYUfootball"
 sourceUrl: "https://x.com/BYUfootball/status/2107116335117529308"
 link: "/stories/byu-uniform-schedule-2026"
 linkLabel: "BYU uniform schedule"
+take: "I like BYU's normal brighter blue more, but this is a classic look and it looks good for a home game. The facemask looks great, and the jersey looks great with the white pants. I'll give it a B."
 ---
 
 BYU revealed its combination for Iowa State on Monday morning: the classic navy home uniform, the Cougars' primary home look from 2005 to 2019. BYU moved to royal as its main color in 2020, and it has not worn this navy home set since beating USF in 2021, per BYU Cougars On SI.

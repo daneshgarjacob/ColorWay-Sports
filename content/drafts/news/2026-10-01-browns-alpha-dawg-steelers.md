@@ -7,6 +7,7 @@ source: "@Browns"
 sourceUrl: "https://x.com/Browns/status/2105451376851780040"
 link: "/stories/browns-uniform-schedule-2026"
 linkLabel: "Browns uniform schedule"
+take: "I hate this jersey. I know they won the game, but I hate it: no piping, no color contrast, boring colors. I give it an F."
 ---
 
 Cleveland wore Alpha Dawg for its only home primetime game of the season: brown helmet with orange center stripes, brown jersey with orange numbers, brown pants and brown socks. Pittsburgh wore white on the road with the black helmet and gold pants.
