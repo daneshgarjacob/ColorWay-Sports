@@ -6,8 +6,9 @@ import { getAllNewsMeta, stamp } from "@/lib/news";
  * homepage already carries a lot of images, and the job here is to show the site
  * was updated today, then get the reader into the feed.
  */
-export default function WireStrip({ limit = 3 }: { limit?: number }) {
-  const items = getAllNewsMeta().slice(0, limit);
+export default function WireStrip({ limit = 3, skip = [] }: { limit?: number; skip?: string[] }) {
+  // skip: items already shown higher on the page (the Jake's Takes rail).
+  const items = getAllNewsMeta().filter((n) => !skip.includes(n.slug)).slice(0, limit);
   if (items.length === 0) return null;
 
   return (

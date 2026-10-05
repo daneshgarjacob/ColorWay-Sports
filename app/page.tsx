@@ -3,7 +3,14 @@ import NflWeekZone from "@/components/NflWeekZone";
 import MlbUniformsZone from "@/components/MlbUniformsZone";
 import NhlUniformsZone from "@/components/NhlUniformsZone";
 import StoryCard from "@/components/StoryCard";
-import StoryHero from "@/components/StoryHero";
+import {
+  TodayBrief,
+  LeadStory,
+  JakesTakes,
+  TonightStrip,
+  FromTheStands,
+} from "@/components/home/HomeRefresh";
+import { getJakesTakes, getTonight, standsPhotoFor, todayBrief } from "@/lib/homeToday";
 import WireStrip from "@/components/WireStrip";
 import Footer from "@/components/Footer";
 import Link from "next/link";
@@ -213,6 +220,18 @@ export default function Home() {
     ...notShown.filter((p) => !picked.has(p)).sort(byNewest),
   ].slice(0, MORE_COUNT);
 
+  // MOCK 10/5: the self-updating pieces.
+  const takes = getJakesTakes(5, new Set([heroPost.slug, ...gridSlugs]));
+  const tonight = getTonight();
+  const brief = todayBrief(tonight, takes);
+  const standsPhoto = standsPhotoFor(todayEt);
+  const todayLong = new Date(`${todayEt}T12:00:00Z`).toLocaleDateString("en-US", {
+    weekday: "long",
+    month: "long",
+    day: "numeric",
+    timeZone: "UTC",
+  });
+
   return (
     <>
       <Header />
@@ -220,10 +239,16 @@ export default function Home() {
         <h1 className="sr-only">
           ColorWay Sports — Every Jersey. Every Logo. Every Detail. Covering sports jerseys, uniforms, logos, scorebugs, and stadium design.
         </h1>
-        {/* Hero story + Latest stories — the top story band, the visual identity of the site */}
+        {/* MOCK 10/5: dateline + a brief written from today's data */}
+        <TodayBrief day={todayLong} lines={brief} />
+
+        {/* MOCK 10/5: lead story (2/3) + Jake's Takes rail (1/3) */}
         {heroPost && (
-          <section className="max-w-[1200px] mx-auto px-5 pt-7 pb-2">
-            <StoryHero post={heroPost} />
+          <section className="max-w-[1200px] mx-auto px-5 pt-6 pb-2">
+            <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)] gap-8">
+              <LeadStory post={heroPost} />
+              <JakesTakes takes={takes} />
+            </div>
           </section>
         )}
 
@@ -250,71 +275,67 @@ export default function Home() {
           </section>
         )}
 
-        {/* The Wire sits under the hero and the Latest grid: Jake's order, 9/17 */}
-        {/* Six items (two rows) since 10/5: Jake's takes are the freshest
-            thing on the site, and three left most of them off. */}
-        <WireStrip limit={6} />
+        {/* MOCK 10/5: tonight across leagues, straight off the slate files */}
+        <TonightStrip leagues={tonight} />
 
-        {/* This week in the NFL: 32 chips, one per schedule post (the earners) */}
+        {/* The Wire: the next three items after the ones in the Takes rail */}
+        <div className="pt-10" />
+        <WireStrip
+          limit={3}
+          skip={takes.filter((t) => t.kind === "Wire").map((t) => t.key.slice(2))}
+        />
+
+        {/* MOCK 10/5: From the Stands (Jake's own photo, rotates daily) beside More Stories */}
+        <section className="max-w-[1200px] mx-auto px-5 pb-12">
+          <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,2fr)] gap-10">
+            <FromTheStands photo={standsPhoto} />
+            {compact.length > 0 && (
+              <div>
+                <div className="flex items-center justify-between border-b-2 border-black pb-2">
+                  <span className="font-display text-[11px] font-black tracking-[0.18em] uppercase text-black">
+                    More Stories
+                  </span>
+                  <Link prefetch={false} href="/stories" className="font-display text-[12px] font-extrabold text-orange">
+                    All stories &rarr;
+                  </Link>
+                </div>
+                <div className="grid grid-cols-1 sm:grid-cols-2 sm:gap-x-8">
+                  {compact.map((post) => (
+                    <Link
+                      prefetch={false}
+                      key={post.slug}
+                      href={`/stories/${post.slug}`}
+                      className="group flex gap-4 py-4 border-b border-border"
+                    >
+                      {post.coverImage && (
+                        <div className="relative h-[72px] w-[96px] shrink-0 overflow-hidden rounded-md bg-[#eef0f3]">
+                          <img
+                            src={post.coverImage}
+                            alt=""
+                            loading="lazy"
+                            className="absolute inset-0 h-full w-full object-cover"
+                            style={post.coverImagePosition ? { objectPosition: post.coverImagePosition } : undefined}
+                          />
+                        </div>
+                      )}
+                      <div className="min-w-0">
+                        <span className="text-[10px] font-bold uppercase tracking-widest text-orange">{post.category}</span>
+                        <h3 className="m-0 mt-1 text-[14.5px] font-bold text-black leading-snug group-hover:text-orange line-clamp-3">
+                          {post.title}
+                        </h3>
+                      </div>
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        </section>
+
+        {/* League tools move below the editorial top half */}
         <NflWeekZone />
-
-        {/* All the MLB uniform tools, grouped in one tinted zone */}
         <MlbUniformsZone />
-
-        {/* NHL uniform tools + last logged night (mock, pending Jake) */}
         <NhlUniformsZone />
-
-        {/* More stories — compact bordered grid */}
-        {compact.length > 0 && (
-          <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-10">
-            <h2 className="text-xs font-bold uppercase tracking-[0.25em] text-[#8A8F98] mb-3">
-              More Stories
-            </h2>
-            <hr className="border-border" />
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-              {compact.map((post, i) => (
-                <Link prefetch={false}
-                  key={post.slug}
-                  href={`/stories/${post.slug}`}
-                  className={[
-                    "group flex flex-col gap-2 py-6 border-b border-border transition-colors duration-150 hover:bg-[#f8f8fa]",
-                    "px-6 first:pl-0",
-                    i % 3 === 0 ? "lg:pl-0 lg:pr-6" : "",
-                    i % 3 === 1 ? "lg:px-6 lg:border-x lg:border-border" : "",
-                    i % 3 === 2 ? "lg:pr-0 lg:pl-6" : "",
-                  ]
-                    .filter(Boolean)
-                    .join(" ")}
-                >
-                  <div className="flex items-center gap-1.5">
-                    {post.logoSrc && <img src={post.logoSrc} alt="" className="h-[15px] w-auto object-contain" />}
-                    {post.logoSrc2 && <img src={post.logoSrc2} alt="" className="h-[15px] w-auto object-contain" />}
-                    <span className="text-[10px] font-bold uppercase tracking-widest text-orange">
-                      {post.category}
-                    </span>
-                  </div>
-                  <h3 className="text-[15px] font-bold text-[#0B1F4A] leading-snug group-hover:text-orange transition-colors duration-150">
-                    {post.title}
-                  </h3>
-                  <p className="text-[13px] text-[#6B7280] leading-relaxed line-clamp-2">
-                    {post.excerpt}
-                  </p>
-                </Link>
-              ))}
-            </div>
-
-            <div className="flex justify-center mt-10">
-              <Link prefetch={false}
-                href="/stories"
-                className="inline-block px-8 py-3 text-[13px] font-bold uppercase tracking-[0.15em] text-white bg-[#0021A5] hover:bg-[#001a84] rounded-lg transition-all duration-200"
-                style={{ boxShadow: "0 2px 8px rgba(0,33,165,0.25)" }}
-              >
-                View All Stories
-              </Link>
-            </div>
-          </section>
-        )}
-
       </main>
       <Footer />
     </>
