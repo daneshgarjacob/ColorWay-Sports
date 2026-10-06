@@ -29,7 +29,12 @@
 import fs from "node:fs";
 
 const POST = "content/posts/nhl-uniform-tracker-2026-27.md";
-const LOG = JSON.parse(fs.readFileSync("scripts/data/nhl-game-log-2026-27.json", "utf8")).games;
+const LOGFILE = JSON.parse(fs.readFileSync("scripts/data/nhl-game-log-2026-27.json", "utf8"));
+const LOG = LOGFILE.games;
+// Matchup grades live once per sweater pairing (same two sweaters, same home/away = same grade, every time).
+// Key = "<AWAY> <away call> @ <HOME> <home call>", e.g. "MTL Road White @ TOR Home Blue". A per-game "grade" in
+// the games entry overrides it (use sparingly; the pairing key is what keeps repeats consistent).
+const GRADES = LOGFILE.matchupGrades ?? {};
 const TEAMS = JSON.parse(fs.readFileSync("content/data/nhl-teams.json", "utf8")).teams;
 const TILE_DIR = "/images/posts/nhl-daily-tracker";
 
@@ -103,6 +108,12 @@ async function buildDay(date) {
     if (!TEAMS[A] || !TEAMS[H]) { problems.push(`${date} ${A}@${H}: unknown tricode`); continue; }
     const a = sideInfo(A, false, entry), h = sideInfo(H, true, entry);
     for (const s of [a, h]) if (!s.isDefault) specials.push(`${s.t.short} (${s.call})`);
+    const sig = `${A} ${a.call} @ ${H} ${h.call}`;
+    const grade = entry.grade ?? GRADES[sig];
+    if (!grade) problems.push(`${date} ${A}@${H}: no grade, add "${sig}" to matchupGrades`);
+    const gradeRow = grade
+      ? `<span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">${grade}</span>`
+      : `<span style="background: rgba(255,255,255,0.12); color: rgba(255,255,255,0.55); font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">&ndash;</span>`;
 
     let pill = "Final";
     if (done) {
@@ -126,6 +137,7 @@ ${side(a, h.t.short, date)}
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
 ${side(h, a.t.short, date)}
   </div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);">${gradeRow}<span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
 </div>
 </div>`);
   }
