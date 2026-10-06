@@ -75,6 +75,14 @@ export default function Footer() {
           ))}
         </nav>
 
+        {/* Embed widget pitch */}
+        <Link prefetch={false}
+          href="/embed"
+          className="mt-4 text-[12px] text-[#9FB6D6] hover:text-white underline underline-offset-2 transition-colors"
+        >
+          Put our uniform widget on your site
+        </Link>
+
         {/* Legal links */}
         <div className="flex gap-4 mt-5">
           <Link prefetch={false}

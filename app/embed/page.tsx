@@ -6,7 +6,7 @@ import { EMBED_LEAGUES } from "@/lib/embed/registry";
 import { EMBED_HEIGHT, SITE } from "@/lib/embed/types";
 
 // The pitch + snippet generator for the "What is my team wearing this week"
-// widget. MOCK (2026-10-05): not linked from the nav yet.
+// widget. Shipped 2026-10-05; linked from the site footer.
 
 export const revalidate = 3600;
 
