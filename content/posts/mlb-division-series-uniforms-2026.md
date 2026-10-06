@@ -63,7 +63,7 @@ Tampa Bay is back in the postseason for the first time since 2023, and back at T
 **Game log (updated each night):**
 
 - Game 1, Sat. Oct. 3: Yankees Road Gray at Rays Home White · Grade: **B** · Rays 1, Yankees 0
-- Game 2, Mon. Oct. 5: Yankees Road Gray at Rays TBD · Grade: pending
+- Game 2, Mon. Oct. 5: Yankees Road Gray at Rays Home White · Grade: **B** · in progress
 - Game 3, Wed. Oct. 7: Rays TBD at Yankees TBD · Grade: pending
 - Game 4, Thu. Oct. 8 (if needed): Rays TBD at Yankees TBD · Grade: pending
 - Game 5, Sat. Oct. 10 (if needed): Yankees TBD at Rays TBD · Grade: pending
@@ -85,7 +85,7 @@ Tampa Bay is back in the postseason for the first time since 2023, and back at T
 **Game log (updated each night):**
 
 - Game 1, Sat. Oct. 3: White Sox Black Alternate at Guardians Home White · Grade: **B** · White Sox 3, Guardians 0
-- Game 2, Mon. Oct. 5: White Sox Black Alternate at Guardians Red Alternate · Grade: **A-** · in progress
+- Game 2, Mon. Oct. 5: White Sox Black Alternate at Guardians Red Alternate · Grade: **A-** · White Sox 4, Guardians 3
 - Game 3, Wed. Oct. 7: Guardians TBD at White Sox TBD · Grade: pending
 - Game 4, Thu. Oct. 8 (if needed): Guardians TBD at White Sox TBD · Grade: pending
 - Game 5, Sat. Oct. 10 (if needed): White Sox TBD at Guardians TBD · Grade: pending
