@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Monday, October 5
 
-Division Series Game 2 day in the American League. Both clubs changed it up in Cleveland: the White Sox are back in the black "Sox" alternate over road gray pants with the black cap, but the Guardians swapped Game 1's home whites for the red alternate with white pants and the navy-crowned, red-billed "C" cap. A new matchup gets a new grade. Black against red is a loud, dark-on-bright pairing that finally looks like October baseball in Cleveland, and we grade it an **A-**. Chicago won it 4-3 and takes a 2-0 series lead home to Rate Field. Tonight at Tropicana Field, the Yankees are back in road gray with the navy cap and the Rays are in home white with the navy "TB" cap, the exact matchup from Game 1, so it gets the same grade, a **B**. Clean and classic, but nothing new on the field. For every round's uniforms, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
+Division Series Game 2 day in the American League. Cleveland changed it up: the White Sox were back in the black "Sox" alternate over road gray pants with the black cap, but the Guardians swapped Game 1's home whites for the red alternate with white pants and the navy-crowned, red-billed "C" cap. A new matchup gets a new grade. Black against red is a loud, dark-on-bright pairing that finally looks like October baseball in Cleveland, and we grade it an **A-**. Chicago won it 4-3 and takes a 2-0 series lead home to Rate Field. At Tropicana Field, the Yankees were back in road gray with the navy cap and the Rays were in home white with the navy "TB" cap, the exact matchup from Game 1, so it gets the same grade, a **B**. Clean and classic, but nothing new on the field. The Rays won it 5-2 and lead the series 2-0 heading to Yankee Stadium. For every round's uniforms, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
 
 <!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
@@ -36,7 +36,7 @@ Division Series Game 2 day in the American League. Both clubs changed it up in C
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rays 5, Yankees 2</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
