@@ -17,7 +17,7 @@ teams: []
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Card and logos via Todd Radom (toddradom.com)</p>
 </div>
 
-If you have watched a Nationals game, an Angels game, or Super Bowl XXXVIII in 2004, you have seen Todd Radom's work. He designed the Washington Nationals identity, the Los Angeles Angels identity, the Houston Astros' navy and orange refresh, the World Baseball Classic logo, the Super Bowl XXXVIII logo (2004), the 2009 NBA All-Star Game logo, the 2014, 2016 and 2018 MLB All-Star Game logos, the Lakers' 60th anniversary logo, and the look of Ice Cube's BIG3 league. He also wrote *Winning Ugly*, a visual history of baseball's strangest uniforms, and co-wrote *Fabric of the Game* on the history of the hockey sweater. After our conversation with [Orlando Magic CMO Shelly Wilkes on how NBA uniforms get made](/stories/how-nba-uniforms-are-made-orlando-magic-rebrand), we wanted the designer's side of the story. Todd was kind enough to sit down with us and walk through how a team identity actually gets made, and where he thinks sports design is heading.
+If you have watched a Nationals game, an Angels game, or Super Bowl XXXVIII in 2004, you have seen Todd Radom's work. He designed the Washington Nationals identity, the Los Angeles Angels identity, the Houston Astros' navy and orange refresh, the World Baseball Classic logo, the Super Bowl XXXVIII logo (2004), the 2009 NBA All-Star Game logo, the 2014 and 2016 MLB All-Star Game logos, the Lakers' 60th anniversary logo, and the look of Ice Cube's BIG3 league. He is also an author: his newest book, [*The Ballpark and Beyond*](https://www.toddradom.com/the-ballpark-and-beyond), an illustrated celebration of 150 years of baseball history, came out in May 2026. He also wrote *Winning Ugly*, a visual history of baseball's strangest uniforms, and co-wrote *Fabric of the Game* on the history of the hockey sweater. After our conversation with [Orlando Magic CMO Shelly Wilkes on how NBA uniforms get made](/stories/how-nba-uniforms-are-made-orlando-magic-rebrand), we wanted the designer's side of the story. Todd was kind enough to sit down with us and walk through how a team identity actually gets made, and where he thinks sports design is heading.
 
 <div style="margin: 1.5em 0;">
   <img src="/images/posts/todd-radom-interview/legacy-work.jpg" alt="A grid of Todd Radom logos including the Super Bowl XXXVIII logo, the Washington Nationals, the Cleveland Browns and Durham Athletic Park" style="width: 100%; border-radius: 10px; display: block;" />
@@ -50,11 +50,6 @@ The Montreal Expos were moving to Washington, the first MLB relocation since the
 </div>
 
 The name itself was the hardest part. "What is a National?" he asked. A team called the Eagles can put an eagle on its cap. "Nationals did not lend itself to something that was easily depicted," he said. His answer was to lean on color and type: "Red, white, blue, the colors of the national pastime and of the nation's capital, and a typographic approach that could be stacked out for uniforms and other things."
-
-<div style="margin: 1.5em 0;">
-  <img src="/images/posts/todd-radom-interview/nationals-2018-all-star-game.jpg" alt="Todd Radom's 2018 MLB All-Star Game logo for Washington, DC, with the Capitol dome" style="width: 100%; border-radius: 10px; display: block;" />
-  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Radom also designed the 2018 MLB All-Star Game logo for the Nationals. via Todd Radom (toddradom.com)</p>
-</div>
 
 ## Where the Curly W Came From
 
@@ -130,9 +125,17 @@ What gets lost is the system thinking that used to define a great identity. Rado
 
 We will admit the uniform churn is good for our business, since we track every one of them. But we are traditionalists at heart, and we agree with him.
 
-## Why the NHL Does Logos Best
+## Why Championship Logos All Look the Same Now
 
-When it comes to which league handles logos well, Radom did not hesitate. "I think the NHL does a really pretty terrific job," he said.
+After our call, we followed up with a question we forgot to ask: why do the logos for the Super Bowl, World Series, NBA Finals and Stanley Cup Final seem to follow the same league template every year instead of being unique?
+
+"A few things are at play here," Radom told us. "Whereas the NHL and NBA employ a truly templated approach, the NFL's previously rigid template has given way to more expressive, more colorful, and more location-based logos in recent years. MLB's current World Series look is a good one, rooted in tradition, but contemporary and flexible."
+
+The business side matters too. "Pairing these marks with sponsors is a challenge," he said, "and it's fair to say that our collectively diminished attention spans demand a repetitive approach, pounding home visual impressions with discipline."
+
+## What the NHL Does Well
+
+Radom pointed to the NHL as a league that handles its logos well. "I think the NHL does a really pretty terrific job," he said.
 
 His reason is practical. On a hockey sweater, the logo is huge and front and center, so it has to work. Compare that to an NFL helmet, where the logo gets "violated by various shapes and contours" and jammed into a curved space.
 
@@ -170,7 +173,12 @@ He also loves his work with the BIG3, Ice Cube's three-on-three league, which he
 
 ## The Bottom Line
 
-Todd Radom's career covers the entire history of sports design as a profession, from cutting and pasting minor league logos by hand to building a major league identity on a laptop in less than a month. His view of where things stand is clear: the creativity that used to go into deep, lasting team brands now goes into a constant stream of new uniforms, and the logos are suffering for it. He thinks the NHL still gets it right, and he hopes the rest of sports finds its way back. Our thanks to Todd for his time, his stories and his candor. You can see more of his work at [toddradom.com](https://www.toddradom.com), and his books *Winning Ugly* and *Fabric of the Game* are well worth a read for anyone who loves this stuff.
+Todd Radom's career covers the entire history of sports design as a profession, from cutting and pasting minor league logos by hand to building a major league identity on a laptop in less than a month. His view of where things stand is clear: the creativity that used to go into deep, lasting team brands now goes into a constant stream of new uniforms, and the logos are suffering for it. He hopes sports finds its way back to something deeper. Our thanks to Todd for his time, his stories and his candor. You can see more of his work at [toddradom.com](https://www.toddradom.com), and his books, including his newest, [*The Ballpark and Beyond*](https://www.toddradom.com/the-ballpark-and-beyond), plus *Winning Ugly* and *Fabric of the Game*, are well worth a read for anyone who loves this stuff.
+
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/todd-radom-interview/the-ballpark-and-beyond.jpg" alt="Cover of The Ballpark and Beyond, An Illustrated Celebration of Baseball's Rich History by Todd Radom, foreword by Buster Olney" style="width: 100%; max-width: 520px; margin: 0 auto; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">His newest book, The Ballpark and Beyond (2026). via Todd Radom (toddradom.com)</p>
+</div>
 
 <div style="margin: 1.5em 0;">
   <img src="/images/posts/todd-radom-interview/books.jpg" alt="Covers of Fabric of the Game by Chris Creamer and Todd Radom and Winning Ugly by Todd Radom" style="width: 100%; border-radius: 10px; display: block;" />
@@ -199,9 +207,9 @@ Todd Radom designed the official logo for Super Bowl XXXVIII (2004), played in H
 
 Designer Todd Radom says sports are at "peak uniform": the creative energy that used to go into full team brands, with deep sets of secondary logos, now goes almost entirely into new uniforms. Very few teams do full rebrands anymore, and he says the creativity in logos is lacking as a result.
 
-**Which league has the best logos?**
+**Why do championship logos all look the same now?**
 
-Todd Radom believes the NHL does logos best. Because the logo sits large on the front of a hockey sweater, it has to be effective, unlike an NFL logo, which has to fit the curves of a helmet.
+According to Todd Radom, the NHL and NBA use a truly templated approach for their championship marks, while the NFL's once-rigid Super Bowl template has given way to more expressive, colorful and location-based logos in recent years. He calls MLB's current World Series look "rooted in tradition, but contemporary and flexible." Pairing the marks with sponsors is a challenge, and he says shorter attention spans reward a repetitive approach that drives home the same visual impression.
 
 **Who designed the Houston Astros logo?**
 
@@ -217,4 +225,4 @@ Todd Radom designed the Lakers' 60th anniversary logo, which reads "Minneapolis"
 
 **Who is Todd Radom?**
 
-Todd Radom is a sports graphic designer based on the East Coast who has run his own studio since 1990. He graduated from the School of Visual Arts in New York in 1986. His work includes the Washington Nationals and Los Angeles Angels identities, the Houston Astros refresh, the World Baseball Classic logo, the Super Bowl XXXVIII logo (2004), the 2009 NBA All-Star Game logo, the 2014, 2016 and 2018 MLB All-Star Game logos, the Lakers' 60th anniversary logo, and the BIG3 basketball league. He wrote *Winning Ugly* and co-wrote *Fabric of the Game*.
+Todd Radom is a sports graphic designer based on the East Coast who has run his own studio since 1990. He graduated from the School of Visual Arts in New York in 1986. His work includes the Washington Nationals and Los Angeles Angels identities, the Houston Astros refresh, the World Baseball Classic logo, the Super Bowl XXXVIII logo (2004), the 2009 NBA All-Star Game logo, the 2014 and 2016 MLB All-Star Game logos, the Lakers' 60th anniversary logo, and the BIG3 basketball league. His books include *The Ballpark and Beyond* (2026) and *Winning Ugly*, and he co-wrote *Fabric of the Game*.
