@@ -6,7 +6,7 @@ date: "2026-09-17"
 updatedDate: "2026-10-04"
 excerpt: "Air Force built its 2026 Air Power Legacy Series uniform around the B-21 Raider stealth bomber. Matte black, chrome numbers, four command patches. We grade it."
 gradient: "linear-gradient(135deg, #0b0b0d 0%, #1a1c20 55%, #8f9499 130%)"
-coverImage: "/images/posts/air-force-b21-raider-uniform-2026/full-look.jpg"
+coverImage: "/images/posts/air-force-b21-raider-uniform-2026/cover.jpg"
 coverImagePosition: "center 25%"
 coverImageFit: "cover"
 kicker: Uniform Review
