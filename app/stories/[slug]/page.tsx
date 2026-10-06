@@ -37,6 +37,13 @@ export function generateStaticParams() {
   return posts.map((post) => ({ slug: post.slug }));
 }
 
+// Share image: the post's own cover when it is a format link previews can show
+// (JPG/PNG/WebP); otherwise the generated title card at ./og-card.
+function shareImage(slug: string, cover?: string): string {
+  if (cover && cover.startsWith("/") && /\.(jpe?g|png|webp)$/i.test(cover)) return cover;
+  return `/stories/${slug}/og-card`;
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const post = await getPostBySlug(slug);
@@ -56,11 +63,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       description: post.excerpt,
       siteName: "ColorWay Sports",
       type: "article",
+      images: [shareImage(slug, post.coverImage)],
     },
     twitter: {
       card: "summary_large_image",
       title: post.title,
       description: post.excerpt,
+      images: [shareImage(slug, post.coverImage)],
     },
   };
 }

@@ -1,23 +1,27 @@
 import { ImageResponse } from "next/og";
 import { getPostBySlug, getAllPosts } from "@/lib/posts";
 
-export const size = {
+// Title-card share image, used only for stories WITHOUT a JPG/PNG/WebP cover
+// (see generateMetadata in ../page.tsx). Stories with a cover share the cover
+// itself (Jake 10/6: links were showing this generic card instead).
+const size = {
   width: 1200,
   height: 630,
 };
-
-export const contentType = "image/png";
 
 export function generateStaticParams() {
   const posts = getAllPosts();
   return posts.map((post) => ({ slug: post.slug }));
 }
 
-export default async function OgImage({
-  params,
-}: {
-  params: Promise<{ slug: string }>;
-}) {
+export async function GET(
+  _req: Request,
+  {
+    params,
+  }: {
+    params: Promise<{ slug: string }>;
+  }
+) {
   const { slug } = await params;
   const post = await getPostBySlug(slug);
 
