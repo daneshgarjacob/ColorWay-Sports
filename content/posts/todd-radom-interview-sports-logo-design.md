@@ -13,10 +13,16 @@ teams: []
 ---
 
 <div style="margin: 0 0 1.5em;">
-  <img src="/images/posts/todd-radom-interview/cover.jpg" alt="Todd Radom interview cover: the designer behind the Washington Nationals, Los Angeles Angels and Super Bowl XXXVIII logos" style="width: 100%; border-radius: 10px; display: block;" />
+  <img src="/images/posts/todd-radom-interview/cover.jpg" alt="Sports logo designer Todd Radom on his Topps Allen and Ginter card, with his Angels, 2018 MLB All-Star Game and Lakers 60th anniversary logos" style="width: 100%; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Card and logos via Todd Radom (toddradom.com)</p>
 </div>
 
-If you have watched a Nationals game, an Angels game, or Super Bowl XXXVIII, you have seen Todd Radom's work. He designed the Washington Nationals identity, the Los Angeles Angels identity, the Super Bowl XXXVIII logo, the 2009 NBA All-Star Game logo, the 2014, 2016 and 2018 MLB All-Star Game logos, and the look of Ice Cube's BIG3 league. He also wrote *Winning Ugly*, a visual history of baseball's strangest uniforms, and co-wrote *Fabric of the Game* on the history of the hockey sweater. After our conversation with [Orlando Magic CMO Shelly Wilkes on how NBA uniforms get made](/stories/how-nba-uniforms-are-made-orlando-magic-rebrand), we wanted the designer's side of the story. Todd was kind enough to sit down with us and walk through how a team identity actually gets made, and where he thinks sports design is heading.
+If you have watched a Nationals game, an Angels game, or Super Bowl XXXVIII in 2004, you have seen Todd Radom's work. He designed the Washington Nationals identity, the Los Angeles Angels identity, the Super Bowl XXXVIII logo (2004), the 2009 NBA All-Star Game logo, the 2014, 2016 and 2018 MLB All-Star Game logos, the Lakers' 60th anniversary logo, and the look of Ice Cube's BIG3 league. He also wrote *Winning Ugly*, a visual history of baseball's strangest uniforms, and co-wrote *Fabric of the Game* on the history of the hockey sweater. After our conversation with [Orlando Magic CMO Shelly Wilkes on how NBA uniforms get made](/stories/how-nba-uniforms-are-made-orlando-magic-rebrand), we wanted the designer's side of the story. Todd was kind enough to sit down with us and walk through how a team identity actually gets made, and where he thinks sports design is heading.
+
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/todd-radom-interview/legacy-work.jpg" alt="A grid of Todd Radom logos including the Super Bowl XXXVIII logo, the Washington Nationals, the Cleveland Browns and Durham Athletic Park" style="width: 100%; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Todd Radom (toddradom.com)</p>
+</div>
 
 ## There Was No Such Thing as Sports Design When He Started
 
@@ -40,6 +46,11 @@ The Montreal Expos were moving to Washington, the first MLB relocation since the
 
 The name itself was the hardest part. "What is a National?" he asked. A team called the Eagles can put an eagle on its cap. "Nationals did not lend itself to something that was easily depicted," he said. His answer was to lean on color and type: "Red, white, blue, the colors of the national pastime and of the nation's capital, and a typographic approach that could be stacked out for uniforms and other things."
 
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/todd-radom-interview/nationals-2018-all-star-game.jpg" alt="Todd Radom's 2018 MLB All-Star Game logo for Washington, DC, with the Capitol dome" style="width: 100%; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Radom also designed the 2018 MLB All-Star Game logo for the Nationals. via Todd Radom (toddradom.com)</p>
+</div>
+
 ## Where the Curly W Came From
 
 We had to ask about the curly W, and whether it had any connection to the very similar Walgreens W. It does not. The curly W came from the Washington Senators, the last club to play in D.C.
@@ -58,9 +69,19 @@ The Angels wanted to get back to basics, and Radom's approach was to find what t
 
 Then there was the market. The Dodgers own blue in Los Angeles, so the answer was simple. "How do you differentiate yourself in that huge market? You go the opposite of blue," he said. "Coke is red, Pepsi is blue."
 
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/todd-radom-interview/angels-cap.jpg" alt="The Los Angeles Angels red cap with the halo A logo designed by Todd Radom" style="width: 100%; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Todd Radom (toddradom.com)</p>
+</div>
+
 The result was a more traditional look "without being doctrinaire and super traditional," and it has lasted for more than two decades. The Angels also won the World Series in its first season. "I had nothing to do with that," Radom said, "but I'll take whatever credit I can take."
 
 He also sees the Angels mark as an early step in a trend that may have gone too far since. "It was at the forefront of a movement toward simplifying our sports logos that maybe has swung all the way out there by now," he said. "But in 2001, going into 2002, it was kind of a radical rethinking."
+
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/todd-radom-interview/angels-jersey.jpg" alt="Los Angeles Angels road gray jersey with the halo wordmark designed by Todd Radom" style="width: 100%; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Todd Radom (toddradom.com)</p>
+</div>
 
 ## "We Are at Peak Uniform"
 
@@ -82,17 +103,39 @@ His reason is practical. On a hockey sweater, the logo is huge and front and cen
 
 The NFL, he noted, very rarely changes its logos at all. Even a recent update like the Rams' was "heavily based on where they've been for 75 years," which he meant as a compliment: painting around the edges rather than starting from scratch.
 
-## The Super Bowl Logo and the BIG3
+## The Super Bowl XXXVIII Logo, the Lakers and the BIG3
 
 Asked which project he is proudest of, Radom said he is proud of all of them, while admitting "some succeed better than others, some have aged better than others."
 
-The Super Bowl XXXVIII logo stands out. "It's the biggest one-day sporting event on the face of the earth," he said, "and the impressions that are attached to that image are just wildly off the charts." Unlike a team identity, a Super Bowl logo is designed to come and go, and getting it right for one enormous day is its own challenge.
+The Super Bowl XXXVIII logo, for the February 2004 game in Houston, stands out. "It's the biggest one-day sporting event on the face of the earth," he said, "and the impressions that are attached to that image are just wildly off the charts." Unlike a team identity, a Super Bowl logo is designed to come and go, and getting it right for one enormous day is its own challenge.
+
+His portfolio is also full of anniversary marks, including the Lakers' 60th anniversary logo, which ties the franchise's Minneapolis and Los Angeles eras together.
+
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/todd-radom-interview/lakers-60th-anniversary.jpg" alt="Los Angeles Lakers 60th anniversary logo designed by Todd Radom, reading Minneapolis and Los Angeles" style="width: 100%; max-width: 360px; margin: 0 auto; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Todd Radom (toddradom.com)</p>
+</div>
+
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/todd-radom-interview/anniversary-logos.jpg" alt="A collection of Todd Radom anniversary logos including the Mariners 40th, Royals 40th, Rockies 20th, Twins 60 Seasons, Mets 50th and Lakers 60th" style="width: 100%; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">A sampling of Radom's anniversary logos. via Todd Radom (toddradom.com)</p>
+</div>
 
 He also loves his work with the BIG3, Ice Cube's three-on-three league, which he has worked with since its launch in 2017. "An unusual opportunity to be part of something from the ground up," he said. "They said it couldn't be done, but I'm very proud to have been a part of that since day one."
+
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/todd-radom-interview/big3-logos.jpg" alt="The BIG3 league logo and team logos designed by Todd Radom" style="width: 100%; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Todd Radom (toddradom.com)</p>
+</div>
 
 ## The Bottom Line
 
 Todd Radom's career covers the entire history of sports design as a profession, from cutting and pasting minor league logos by hand to building a major league identity on a laptop in less than a month. His view of where things stand is clear: the creativity that used to go into deep, lasting team brands now goes into a constant stream of new uniforms, and the logos are suffering for it. He thinks the NHL still gets it right, and he hopes the rest of sports finds its way back. Our thanks to Todd for his time, his stories and his candor. You can see more of his work at [toddradom.com](https://www.toddradom.com), and his books *Winning Ugly* and *Fabric of the Game* are well worth a read for anyone who loves this stuff.
+
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/todd-radom-interview/books.jpg" alt="Covers of Fabric of the Game by Chris Creamer and Todd Radom and Winning Ugly by Todd Radom" style="width: 100%; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">His books, Fabric of the Game (with Chris Creamer) and Winning Ugly. via Todd Radom (toddradom.com)</p>
+</div>
 
 ## Frequently Asked Questions
 
@@ -110,7 +153,7 @@ Todd Radom designed the Angels identity that debuted for the 2002 season, the sa
 
 **Who designed the Super Bowl XXXVIII logo?**
 
-Todd Radom designed the official logo for Super Bowl XXXVIII, played in Houston in February 2004. He calls the Super Bowl "the biggest one-day sporting event on the face of the earth."
+Todd Radom designed the official logo for Super Bowl XXXVIII (2004), played in Houston on February 1, 2004, when the Patriots beat the Panthers. He calls the Super Bowl "the biggest one-day sporting event on the face of the earth."
 
 **Why do sports logos all look the same now?**
 
@@ -120,6 +163,10 @@ Designer Todd Radom says sports are at "peak uniform": the creative energy that 
 
 Todd Radom believes the NHL does logos best. Because the logo sits large on the front of a hockey sweater, it has to be effective, unlike an NFL logo, which has to fit the curves of a helmet.
 
+**Who designed the Lakers 60th anniversary logo?**
+
+Todd Radom designed the Lakers' 60th anniversary logo, which reads "Minneapolis" and "Los Angeles" around a purple and gold 60 to honor both eras of the franchise.
+
 **Who is Todd Radom?**
 
-Todd Radom is a sports graphic designer based on the East Coast who has run his own studio since 1990. He graduated from the School of Visual Arts in New York in 1986. His work includes the Washington Nationals and Los Angeles Angels identities, the Super Bowl XXXVIII logo, the 2009 NBA All-Star Game logo, the 2014, 2016 and 2018 MLB All-Star Game logos, and the BIG3 basketball league. He wrote *Winning Ugly* and co-wrote *Fabric of the Game*.
+Todd Radom is a sports graphic designer based on the East Coast who has run his own studio since 1990. He graduated from the School of Visual Arts in New York in 1986. His work includes the Washington Nationals and Los Angeles Angels identities, the Super Bowl XXXVIII logo (2004), the 2009 NBA All-Star Game logo, the 2014, 2016 and 2018 MLB All-Star Game logos, the Lakers' 60th anniversary logo, and the BIG3 basketball league. He wrote *Winning Ugly* and co-wrote *Fabric of the Game*.
