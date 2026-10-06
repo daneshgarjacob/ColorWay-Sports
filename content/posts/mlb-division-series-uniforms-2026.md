@@ -134,7 +134,7 @@ The Dodgers have won the last two World Series and open their bid for a third st
 
 - Game 1, Sat. Oct. 3: Braves Road Gray at Dodgers Home White · Grade: **A-** · Dodgers 5, Braves 3
 - Game 2, Sun. Oct. 4: Braves Navy Alternate at Dodgers Home White · Grade: **A-** · Braves 3, Dodgers 2
-- Game 3, Tue. Oct. 6: Dodgers TBD at Braves TBD · Grade: pending
+- Game 3, Tue. Oct. 6: Dodgers Road Gray at Braves Red Alternate · Grade: **A-**
 - Game 4, Wed. Oct. 7 (if needed): Dodgers TBD at Braves TBD · Grade: pending
 - Game 5, Fri. Oct. 9 (if needed): Braves TBD at Dodgers TBD · Grade: pending
 
