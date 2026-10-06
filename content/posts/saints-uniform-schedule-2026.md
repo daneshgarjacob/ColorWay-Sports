@@ -22,7 +22,7 @@ The Saints published their full 2026 uniform schedule on September 7, and the pl
 
 **Week 2 combination, announced:** gold helmet, black jersey, black pants for the trip to Baltimore on Sunday, September 20, at 1 p.m. It is the only road game all season where New Orleans wears color, and the captains went black on black under the gold shell rather than the gold pants. The Ravens are in their all-white White Noise look under the metallic Purple Rising helmet, so it is black and gold against head-to-toe white, about as clean a contrast as the schedule offers. The team posted the look on Friday under the caption "Sunday threads."
 
-**Week 4 combination, worn:** gold helmet, white jersey, gold pants against Atlanta on Monday Night Football, October 5, at the Superdome, confirmed from the in-game photos. White at home put the Falcons in red, black helmet and white pants, on the 20th anniversary of the Domecoming, the September 25, 2006 Monday night game against Atlanta that reopened the Superdome after Hurricane Katrina. We grade the matchup a B+.
+**Week 4 combination, worn:** gold helmet, white jersey, gold pants against Atlanta on Monday Night Football, October 5, at the Superdome, confirmed from the in-game photos. White at home put the Falcons in red, black helmet and white pants, on the 20th anniversary of the Domecoming, the September 25, 2006 Monday night game against Atlanta that reopened the Superdome after Hurricane Katrina. Atlanta won 45-24. We grade the matchup a B+.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Saints/status/2101046380592558346"></a></blockquote>
