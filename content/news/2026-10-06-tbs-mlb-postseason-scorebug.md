@@ -1,6 +1,6 @@
 ---
 title: "TBS has a new MLB playoff scorebug, and it is still one of the worst in baseball"
-at: "2026-10-05T21:00:00-07:00"
+at: "2026-10-06T13:30:00-07:00"
 tag: "MLB"
 league: "mlb"
 source: "@TVSportsUpdates"

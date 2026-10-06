@@ -17,7 +17,7 @@ teams: []
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Card and logos via Todd Radom (toddradom.com)</p>
 </div>
 
-If you have watched a Nationals game, an Angels game, or Super Bowl XXXVIII in 2004, you have seen Todd Radom's work. He designed the Washington Nationals identity, the Los Angeles Angels identity, the Houston Astros' navy and orange refresh, the World Baseball Classic logo, the Super Bowl XXXVIII logo (2004), the 2009 NBA All-Star Game logo, the 2014 and 2016 MLB All-Star Game logos, the Lakers' 60th anniversary logo, and the look of Ice Cube's BIG3 league. He is also an author: his newest book, [*The Ballpark and Beyond*](https://www.toddradom.com/the-ballpark-and-beyond), an illustrated celebration of 150 years of baseball history, came out in May 2026. He also wrote *Winning Ugly*, a visual history of baseball's strangest uniforms, and co-wrote *Fabric of the Game* on the history of the hockey sweater. After our conversation with [Orlando Magic CMO Shelly Wilkes on how NBA uniforms get made](/stories/how-nba-uniforms-are-made-orlando-magic-rebrand), we wanted the designer's side of the story. Todd was kind enough to sit down with us and walk through how a team identity actually gets made, and where he thinks sports design is heading.
+If you have watched a Nationals game, an Angels game, or Super Bowl XXXVIII in 2004, you have seen Todd Radom's work. He designed the Washington Nationals identity, the Los Angeles Angels identity, the Houston Astros' navy and orange refresh (in collaboration with Fanbrandz), the World Baseball Classic logo, the Super Bowl XXXVIII logo (2004), the 2009 NBA All-Star Game logo, the 2014 and 2016 MLB All-Star Game logos, the Lakers' 60th anniversary logo, and the look of Ice Cube's BIG3 league. He is also an author: his newest book, [*The Ballpark and Beyond*](https://www.toddradom.com/the-ballpark-and-beyond), an illustrated celebration of 150 years of baseball history, came out in May 2026. He also wrote *Winning Ugly*, a visual history of baseball's strangest uniforms, and co-wrote *Fabric of the Game* on the history of the hockey sweater. After our conversation with [Orlando Magic CMO Shelly Wilkes on how NBA uniforms get made](/stories/how-nba-uniforms-are-made-orlando-magic-rebrand), we wanted the designer's side of the story. Todd was kind enough to sit down with us and walk through how a team identity actually gets made, and where he thinks sports design is heading.
 
 <div style="margin: 1.5em 0;">
   <img src="/images/posts/todd-radom-interview/legacy-work.jpg" alt="A grid of Todd Radom logos including the Super Bowl XXXVIII logo, the Washington Nationals, the Cleveland Browns and Durham Athletic Park" style="width: 100%; border-radius: 10px; display: block;" />
@@ -85,17 +85,17 @@ He also sees the Angels mark as an early step in a trend that may have gone too 
 
 ## The Astros Went Back to Navy and Orange
 
-Radom's work goes well beyond the two clubs we talked about on the call. In 2012 he led the Houston Astros' visual refresh, working with MLB and the design agency Fanbrandz as the team changed owners and prepared to move from the National League to the American League for 2013. The answer was a return to navy blue and orange, the colors the franchise wore as the Colt .45s in 1962, in the Astrodome, and through its "tequila sunrise" years until 1993.
+Radom's work goes well beyond the two clubs we talked about on the call. In 2012 he worked on the Houston Astros' visual refresh, a collaboration between Radom and the design agency Fanbrandz, together with MLB, as the team changed owners and prepared to move from the National League to the American League for 2013. The answer was a return to navy blue and orange, the colors the franchise wore as the Colt .45s in 1962, in the Astrodome, and through its "tequila sunrise" years until 1993.
 
 The centerpiece was a cleaned-up version of the club's original H-star cap logo, rebuilt for the digital age, and the batting practice jerseys carried a subtle nod to the rainbow stripes. Four seasons later, the Astros won the first World Series in franchise history in that look.
 
 <div style="margin: 1.5em 0;">
-  <img src="/images/posts/todd-radom-interview/astros-h-star.jpg" alt="The Houston Astros H-star logo from the 2013 identity refresh by Todd Radom" style="width: 100%; max-width: 480px; margin: 0 auto; border-radius: 10px; display: block;" />
-  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The Astros H-star. via Todd Radom (toddradom.com)</p>
+  <img src="/images/posts/todd-radom-interview/astros-h-star.jpg" alt="The Houston Astros H-star logo from the 2013 identity refresh by Todd Radom and Fanbrandz" style="width: 100%; max-width: 480px; margin: 0 auto; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The Astros H-star, a collaboration with Fanbrandz. via Todd Radom (toddradom.com)</p>
 </div>
 
 <div style="margin: 1.5em 0;">
-  <img src="/images/posts/todd-radom-interview/astros-identity-system.jpg" alt="The Houston Astros navy and orange identity system by Todd Radom, with the Astros wordmark, Houston script, roundel and tequila sunrise stripes" style="width: 100%; border-radius: 10px; display: block;" />
+  <img src="/images/posts/todd-radom-interview/astros-identity-system.jpg" alt="The Houston Astros navy and orange identity system by Todd Radom and Fanbrandz, with the Astros wordmark, Houston script, roundel and tequila sunrise stripes" style="width: 100%; border-radius: 10px; display: block;" />
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The full Astros identity, including the tequila sunrise stripes. via Todd Radom (toddradom.com)</p>
 </div>
 
@@ -213,7 +213,7 @@ According to Todd Radom, the NHL and NBA use a truly templated approach for thei
 
 **Who designed the Houston Astros logo?**
 
-Todd Radom led the Astros' visual refresh in 2012, working with MLB and Fanbrandz ahead of the team's 2013 move to the American League. He restored navy blue and orange and refined the club's original H-star cap logo. The Astros won their first World Series in that identity in 2017.
+The Astros' 2012 visual refresh was a collaboration between Todd Radom and the design agency Fanbrandz, working with MLB, ahead of the team's 2013 move to the American League. It restored navy blue and orange and refined the club's original H-star cap logo. The Astros won their first World Series in that identity in 2017.
 
 **Who designed the World Baseball Classic logo?**
 
@@ -225,4 +225,4 @@ Todd Radom designed the Lakers' 60th anniversary logo, which reads "Minneapolis"
 
 **Who is Todd Radom?**
 
-Todd Radom is a sports graphic designer based on the East Coast who has run his own studio since 1990. He graduated from the School of Visual Arts in New York in 1986. His work includes the Washington Nationals and Los Angeles Angels identities, the Houston Astros refresh, the World Baseball Classic logo, the Super Bowl XXXVIII logo (2004), the 2009 NBA All-Star Game logo, the 2014 and 2016 MLB All-Star Game logos, the Lakers' 60th anniversary logo, and the BIG3 basketball league. His books include *The Ballpark and Beyond* (2026) and *Winning Ugly*, and he co-wrote *Fabric of the Game*.
+Todd Radom is a sports graphic designer based on the East Coast who has run his own studio since 1990. He graduated from the School of Visual Arts in New York in 1986. His work includes the Washington Nationals and Los Angeles Angels identities, the Houston Astros refresh (with Fanbrandz), the World Baseball Classic logo, the Super Bowl XXXVIII logo (2004), the 2009 NBA All-Star Game logo, the 2014 and 2016 MLB All-Star Game logos, the Lakers' 60th anniversary logo, and the BIG3 basketball league. His books include *The Ballpark and Beyond* (2026) and *Winning Ugly*, and he co-wrote *Fabric of the Game*.

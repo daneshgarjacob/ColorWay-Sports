@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NHL"
 date: "2026-10-02"
-updatedDate: "2026-10-05"
+updatedDate: "2026-10-06"
 excerpt: "What every NHL team wore last night, game by game. Home darks, road whites, thirds and specials for all 32 clubs, confirmed from game photos every morning."
 gradient: "linear-gradient(135deg, #111821 0%, #1d2733 55%, #2f6bed 130%)"
 coverImage: "/images/posts/nhl-daily-tracker/cover-branded.jpg"
@@ -174,7 +174,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #000000; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Black Skate Alternate</p>
     </div>
   </div>
-  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">B</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">C</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
 </div>
 </div>
 
@@ -322,7 +322,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #000000; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Black Skate Alternate</p>
     </div>
   </div>
-  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">B</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">C</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
 </div>
 </div>
 
