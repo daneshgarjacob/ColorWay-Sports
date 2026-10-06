@@ -2,7 +2,7 @@
 title: "Every NFL TV Broadcast Ranked for 2026: Sunday Night Football, Monday Night Football, Fox, CBS and Prime, and the Last Place Pick Will Surprise You"
 author: "jake-daneshgar"
 category: "NFL"
-date: "2026-10-06"
+date: "2026-10-05"
 excerpt: "Every 2026 NFL broadcast ranked, from Sunday Night Football to Monday Night Football. Graded on theme music, vibe, scorebug, graphics and the booth."
 gradient: "linear-gradient(135deg, #013369 0%, #0b1a33 55%, #D50A0A 140%)"
 coverImage: "/images/posts/nfl-broadcasts-ranked-2026/cover.jpg"
