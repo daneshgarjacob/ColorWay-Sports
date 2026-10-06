@@ -10,7 +10,8 @@ const SRC = process.argv[2];
 const W = 1500, H = 1000;
 const PAPER = '#F3EEE3', NAVY = '#14225A', RED = '#C8102E';
 const OUT = 'public/images/posts/todd-radom-interview';
-const F = 'Helvetica Neue, Helvetica, Arial, sans-serif';
+// Hanken Grotesk is the wordmark's typeface (installed in ~/Library/Fonts).
+const F = 'Hanken Grotesk, Helvetica Neue, Arial, sans-serif';
 
 // Faint drafting grid.
 const grid = [];
@@ -22,12 +23,12 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   ${grid.join('')}
   <rect x="0" y="0" width="${W}" height="14" fill="${NAVY}"/>
   <rect x="0" y="14" width="${W}" height="6" fill="${RED}"/>
-  <text x="742" y="168" font-family="${F}" font-size="26" font-weight="700" fill="${RED}" letter-spacing="7">THE COLORWAY INTERVIEW</text>
-  <text x="734" y="318" font-family="${F}" font-size="168" font-weight="900" fill="${NAVY}" letter-spacing="-5">TODD</text>
-  <text x="734" y="470" font-family="${F}" font-size="168" font-weight="900" fill="${NAVY}" letter-spacing="-5">RADOM</text>
+  <text x="742" y="172" font-family="${F}" font-size="40" font-weight="800" fill="${RED}" letter-spacing="-0.5">A ColorWay Interview</text>
+  <text x="734" y="318" font-family="${F}" font-size="168" font-weight="800" fill="${NAVY}" letter-spacing="-6">TODD</text>
+  <text x="734" y="470" font-family="${F}" font-size="168" font-weight="800" fill="${NAVY}" letter-spacing="-6">RADOM</text>
   <rect x="742" y="505" width="120" height="8" fill="${RED}"/>
-  <text x="742" y="572" font-family="${F}" font-size="34" font-weight="500" fill="${NAVY}">The designer behind the Nationals,</text>
-  <text x="742" y="616" font-family="${F}" font-size="34" font-weight="500" fill="${NAVY}">the Angels and Super Bowl XXXVIII</text>
+  <text x="742" y="572" font-family="${F}" font-size="34" font-weight="600" fill="${NAVY}">The designer behind the Nationals,</text>
+  <text x="742" y="616" font-family="${F}" font-size="34" font-weight="600" fill="${NAVY}">the Angels and Super Bowl XXXVIII</text>
   <line x1="742" y1="690" x2="1420" y2="690" stroke="${NAVY}" stroke-width="2" opacity="0.18"/>
 </svg>`;
 
