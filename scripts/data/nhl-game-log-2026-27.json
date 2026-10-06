@@ -50,7 +50,11 @@
     "UTA Road White @ NYR Home Blue": "B",
     "FLA Road White @ ANA Home Orange": "B",
     "CGY Road White @ SEA Home Deep Sea Blue": "B",
-    "VGK Road White @ VAN Black Skate Alternate": "B"
+    "VGK Road White @ VAN Black Skate Alternate": "B",
+    "PHI Road White @ TBL Home Blue": "B",
+    "OTT Road White @ BOS Home Black": "B+",
+    "WPG Road White @ PIT Home Black": "B",
+    "SJS Road White @ DAL Home Victory Green": "B"
   },
   "games": {
     "2026-09-29 FLA@CAR": { "confirmed": true, "source": "ESPN game photos + banner-night highlight" },
@@ -93,6 +97,7 @@
     "2026-10-04 FLA@ANA": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-04 CGY@SEA": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-04 VGK@VAN": { "confirmed": true, "source": "ESPN game photos", "home": { "call": "Black Skate Alternate", "color": "#000000", "image": "/images/posts/nhl-daily-tracker/canucks-skate.jpg" } },
+    "2026-10-05 PHI@TBL": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-09 NYR@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
     "2026-10-17 NJD@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
     "2026-11-01 MIN@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
