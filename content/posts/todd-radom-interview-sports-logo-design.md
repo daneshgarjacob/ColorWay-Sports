@@ -13,7 +13,7 @@ teams: []
 ---
 
 <div style="margin: 0 0 1.5em;">
-  <img src="/images/posts/todd-radom-interview/cover.jpg" alt="Sports logo designer Todd Radom on his Topps Allen and Ginter card, with his Angels, 2018 MLB All-Star Game and Lakers 60th anniversary logos" style="width: 100%; border-radius: 10px; display: block;" />
+  <img src="/images/posts/todd-radom-interview/cover.jpg" alt="Sports logo designer Todd Radom on his Topps Allen and Ginter card, with his Washington Nationals, Super Bowl XXXVIII and Lakers 60th anniversary logos" style="width: 100%; border-radius: 10px; display: block;" />
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Card and logos via Todd Radom (toddradom.com)</p>
 </div>
 
@@ -43,6 +43,11 @@ The Nationals identity is the project fans ask him about most, and the story beh
 The Montreal Expos were moving to Washington, the first MLB relocation since the Senators left for Texas after the 1971 season. The club was owned by Major League Baseball itself, and there was no playbook. Radom first met with a colleague at MLB during the ALCS in October 2004. "I embarked upon the Nationals brand during the World Series in Boston, on a laptop," he said. The new identity was unveiled less than a month later.
 
 "There's no model for this in baseball," he said. "A very quick process, a very unusual process."
+
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/todd-radom-interview/nationals-logo.jpg" alt="The original Washington Nationals logo designed by Todd Radom in 2004, with the Washington Nationals wordmark over a baseball and stars" style="width: 100%; max-width: 380px; margin: 0 auto; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The original Washington Nationals logo. via Todd Radom (toddradom.com)</p>
+</div>
 
 The name itself was the hardest part. "What is a National?" he asked. A team called the Eagles can put an eagle on its cap. "Nationals did not lend itself to something that was easily depicted," he said. His answer was to lean on color and type: "Red, white, blue, the colors of the national pastime and of the nation's capital, and a typographic approach that could be stacked out for uniforms and other things."
 
@@ -108,6 +113,11 @@ The NFL, he noted, very rarely changes its logos at all. Even a recent update li
 Asked which project he is proudest of, Radom said he is proud of all of them, while admitting "some succeed better than others, some have aged better than others."
 
 The Super Bowl XXXVIII logo, for the February 2004 game in Houston, stands out. "It's the biggest one-day sporting event on the face of the earth," he said, "and the impressions that are attached to that image are just wildly off the charts." Unlike a team identity, a Super Bowl logo is designed to come and go, and getting it right for one enormous day is its own challenge.
+
+<div style="margin: 1.5em 0;">
+  <img src="/images/posts/todd-radom-interview/super-bowl-xxxviii-logo.jpg" alt="The Super Bowl XXXVIII logo designed by Todd Radom for the February 2004 game in Houston" style="width: 100%; max-width: 380px; margin: 0 auto; border-radius: 10px; display: block;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The Super Bowl XXXVIII logo (2004). via Todd Radom (toddradom.com)</p>
+</div>
 
 His portfolio is also full of anniversary marks, including the Lakers' 60th anniversary logo, which ties the franchise's Minneapolis and Los Angeles eras together.
 
