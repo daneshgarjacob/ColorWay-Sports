@@ -29,8 +29,6 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 Division Series Game 2 day in the American League. Cleveland changed it up: the White Sox were back in the black "Sox" alternate over road gray pants with the black cap, but the Guardians swapped Game 1's home whites for the red alternate with white pants and the navy-crowned, red-billed "C" cap. A new matchup gets a new grade. Black against red is a loud, dark-on-bright pairing that finally looks like October baseball in Cleveland, and we grade it an **A-**. Chicago won it 4-3 and takes a 2-0 series lead home to Rate Field. At Tropicana Field, the Yankees were back in road gray with the navy cap and the Rays were in home white with the navy "TB" cap, the exact matchup from Game 1, so it gets the same grade, a **B**. Clean and classic, but nothing new on the field. The Rays won it 5-2 and lead the series 2-0 heading to Yankee Stadium. For every round's uniforms, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### New York Yankees at Tampa Bay Rays
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -93,8 +91,6 @@ Division Series Game 2 day in the American League. Cleveland changed it up: the 
 
 Division Series Game 2 day, with two NL games on the board. The Padres and Brewers ran it back at American Family Field with the roof open on a sunny 68-degree afternoon: San Diego in the khaki road set with brown pinstripes and the all-brown cap, Milwaukee in home cream with the all-navy cap. It is the exact matchup from Game 1, so it gets the same grade, a **C**. Two sand-toned uniforms in the same frame blur together, and nothing about a second look changes that. Milwaukee rallied in the bottom of the ninth to win it 4-3 and take a 2-0 series lead. At Dodger Stadium the Braves switched things up for Game 2, going to the navy alternate jersey with road gray pants and the all-navy cap, against the Dodgers in home white with the blue cap. Navy against white is clean contrast, and the red "Atlanta" script pops on navy more than anywhere else in their closet. The gray pants are the only nitpick. We grade it an **A-**, the same as the road grays in Game 1. Atlanta won it 3-2, so the series heads to Atlanta tied 1-1.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### Atlanta Braves at Los Angeles Dodgers
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -156,8 +152,6 @@ Division Series Game 2 day, with two NL games on the board. The Padres and Brewe
 ## Saturday, October 3
 
 Division Series Game 1 day: four openers, from 1:00 p.m. ET in Cleveland to 8:30 p.m. ET in Milwaukee. The White Sox opened the ALDS at Progressive Field in the black "Sox" alternate over road gray pants with the black cap, against the Guardians in home white with the red-crowned, navy-billed "C" cap. Black against white is clean but quiet for a playoff opener, and we grade it a **B**. Chicago won it 3-0. Out west, the Braves are in road gray with the all-navy cap at Dodger Stadium against the Dodgers in home white with the blue cap, two of the sport's most classic sets in the same frame, and we grade it an **A-**. The Dodgers won it 5-3. At Tropicana Field, the Yankees opened in road gray against the Rays in home white, a clean but familiar pairing we grade a **B**. The Rays won it 1-0. In Milwaukee, the Padres wore their brown pinstripe road alternate with the all-brown cap against the Brewers in home cream with the navy cap. Brown against cream is a lot of beige for one frame, and we grade it a **C**. The Brewers won 3-2. For every round's uniforms, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
-
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
 ### San Diego Padres at Milwaukee Brewers
 
@@ -279,8 +273,6 @@ Division Series Game 1 day: four openers, from 1:00 p.m. ET in Cleveland to 8:30
 
 Game 3 of the Wild Card Series, and the only one of the four that needed a third game. With the season on the line at Truist Park (8:00 p.m. ET), Atlanta finally changed clothes: after home whites in Games 1 and 2, the Braves came out in their red alternate jersey over home white pants with the red-billed cap. The Phillies stayed in road gray with the red cap for the third straight game. Red against gray is the best look of the series, a real October uniform for a winner-take-all night, and we grade it an **A-**. The Braves won it 6-2 to take the series 2-1, ending Philadelphia's season, and Atlanta heads to Los Angeles to face the Dodgers in the Division Series. For the round-by-round picture, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### Philadelphia Phillies at Atlanta Braves
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -313,8 +305,6 @@ Game 3 of the Wild Card Series, and the only one of the four that needed a third
 ## Wednesday, September 30
 
 Game 2 day of the Wild Card Series, and in all four series the Game 1 winner had the chance to close it out today. Philadelphia did not let Atlanta do it. The afternoon game at Truist Park (2:00 p.m. ET) went back to the same clothes as the opener, the Phillies in road gray with the red cap and the Braves in home white with the red-billed cap, and it gets the same grade as Game 1, a **B**. The Phillies won 4-3 in 10 innings, so that series goes to a Game 3 on Thursday. In Houston (5:00 p.m. ET), both clubs went to color: the White Sox back in the black "Sox" alternate over road gray pants, and the Astros answered in their orange alternate. Black against orange is a real October look and a step up from Game 1, and we grade it an **A-**. The White Sox won 7-3 to sweep the series and move on to Cleveland for the Division Series, which opens Saturday. In the Bronx (8:00 p.m. ET) it is Game 1 all over again: the Red Sox in road gray with the navy "B" cap, the Yankees in the home pinstripes. Same matchup, same grade, an **A-**. The Yankees won 9-2 to sweep the series, and they head to Tampa Bay for the Division Series on Saturday. Out west (10:00 p.m. ET), the Cubs changed it up: after the road gray in Game 1, they came out in the royal blue alternate over gray pants with the blue cap, against the Padres in the home pinstripes and brown caps. Blue against brown and pinstripes is a better look than the opener, and we grade it a **B+**. San Diego won 4-1 to sweep the series and heads to Milwaukee for the Division Series. Three of the four series ended in sweeps; only Phillies-Braves goes to a Game 3. For the round-by-round picture, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
-
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
 ### Chicago Cubs at San Diego Padres
 
@@ -445,8 +435,6 @@ The Clash of the Day for Wednesday goes back to the Bronx: the Red Sox in road g
 
 October starts here. Day one of the Wild Card Series is four games, all at the higher seed's park, and the first one was played exactly by the book: the Phillies in road gray at Truist Park, the Braves in home white, red caps on both sides. It is the classic look for an NL East rivalry in the postseason, clean if not loud, and we grade the matchup a **B**. Atlanta took Game 1, 5-3. In Houston, the White Sox skipped the road gray jersey and came out in the black "Sox" alternate over gray pants against the Astros' home whites, the first real color of the postseason. We grade that matchup a **B-**. Chicago took Game 1, 6-3. In the Bronx it is the oldest rivalry in its oldest clothes: Red Sox in road gray with the navy "B" cap, Yankees in the home pinstripes. It is the most historic matchup in the sport in its most classic clothes, and we grade it an **A-**. New York rolled, 9-0. Out west, the Cubs are in road gray with the blue cap against the Padres in the home pinstripes and brown caps (10:00 p.m. ET). It is a clean, traditional look that does not do much for us: **B-**. San Diego shut out Chicago, 8-0. Three of the four higher seeds took Game 1; only the White Sox won on the road. Every postseason game gets logged here, both teams and both jerseys; for the round-by-round picture, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### Chicago Cubs at San Diego Padres
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -575,8 +563,6 @@ The Clash of the Day for Tuesday is the oldest rivalry in the sport in its oldes
 ## Sunday, September 27
 
 Game 162, the last day of the 2026 regular season, and every uniform is confirmed. Fourteen games were played; Orioles at Yankees was rained out and cancelled, with no makeup date. The home side went colorful to close the year: the Mariners wore the Steelheads throwback in a 7-3 win over the red-clad Angels, the Marlins wore the teal throwback to beat the Braves (navy alternate) 5-3, the Padres wore the camouflage alternate and routed the Diamondbacks (Sedona red) 9-4, the Royals won 3-2 in powder blue, the Phillies closed in the cream alternate with a 7-3 win over Tampa Bay, and the Nationals and Red Sox both wore red. On the road, the Astros shut out the A's 9-0, the Dodgers beat the Giants 5-1, the Cubs won 6-2 at Fenway and the Pirates wore the black alternate in a 4-2 win in Detroit. Also final: Blue Jays 5, Reds 1; Twins 6, Rangers 4 (Texas in the royal blue alternate); White Sox 4, Rockies 2; Brewers 6, Cardinals 4. The Wild Card Series starts Tuesday.
-
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
 ### Cleveland Guardians at Kansas City Royals
 
@@ -997,8 +983,6 @@ The Clash of the Day, on the last day of the season, goes to T-Mobile Park. Seat
 
 Saturday brings 13 games, and we log each one as its uniforms are confirmed. The Giants break out Gigantes against the Dodgers, the Pirates go to the black alternate in Detroit, the Nationals wear City Connect against the Mets and Toronto is in the royal blue alternate. The Mets won 7-1 in Washington, the Tigers edged Pittsburgh 4-3, the Reds shut down Toronto 5-1, the Dodgers took the rivalry game in San Francisco 4-3 and the Braves won 8-3 in Miami and the Rangers beat the Twins 6-2. Out west, the A's wear the gold Sacramento alternate against Houston and the Angels go red at Seattle. The Twins are in the cream Twin Cities set against the Rangers, who wear the royal blue alternate. The evening and West Coast games get added as they are confirmed.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### Houston Astros at Athletics
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -1387,8 +1371,6 @@ The Clash goes to American Family Field. St. Louis brought the powder blue road 
 ## Friday, September 25
 
 Friday was a 17-game City Connect night with two doubleheaders, and every uniform is confirmed off the league's filings. Boston swept the Cubs, 4-3 in the Green Monster City Connect in the matinee and 2-0 in the home whites in game 2 against Chicago's royal blue alternate. The Bronx split: Baltimore won game 1 10-2 in road gray, and the Yankees took game 2 6-3 in the pinstripes against the Orioles' black alternate. Philadelphia shut out Tampa Bay 2-0 in the black City Connect, Miami blanked Atlanta 3-0 in the Retro Wave City Connect, Toronto beat Cincinnati 6-5 in the navy City Connect against the Reds' red script alternate, Milwaukee won 8-4 in the Wisco City Connect, the White Sox beat Colorado 6-1 in red City Connect, and Minnesota routed Texas 10-2 in the Ripple Effect City Connect. Kansas City's white City Connect lost 12-9 to Cleveland in road gray. Detroit changed its call to the orange alternate and edged Pittsburgh's black 8-7, and Washington beat the Mets 7-6 in the navy alternate. Out west, the Angels' red alternate beat Seattle's City Connect 7-5 in our Clash of the Day, the Dodgers blanked San Francisco 2-0 in road gray against the Giants' orange Friday alternate, Arizona beat San Diego's navy City Connect 11-4 in road gray, and the Athletics edged Houston's orange alternate 6-5 in Sacramento.
-
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
 ### Los Angeles Dodgers at San Francisco Giants
 
@@ -2255,8 +2237,6 @@ The Clash goes to Citizens Bank Park. Milwaukee's navy alternate and Philadelphi
 
 Wednesday was a 16-game slate with a doubleheader in Baltimore to make up Tuesday's rainout, and the Orioles swept it by the same 4-2 score twice: the Blue Jays wore the royal blue alternate against Baltimore's black in game 1 and powder blue against the home whites in game 2. In the Bronx the Rays wore the new road gray again, a night after its debut, and lost 9-2 to the pinstripes. Elsewhere, Washington won 4-2 in the navy alternate at Detroit, Minnesota beat San Francisco 4-2 in road gray against the Giants' home cream, Cleveland went navy at Fenway and lost 1-0, Milwaukee won 4-1 in navy at Philadelphia, Miami won 3-2 at Wrigley in the black alternate, Arizona wore black at Coors, the Angels brought red to Sacramento, and San Diego won 5-1 in khaki at Dodger Stadium. Game 1 in Baltimore, royal blue against black, is our Clash of the Day. Every card below is confirmed off the league's uniform filings, with every final score in.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### San Diego Padres at Los Angeles Dodgers
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -2733,8 +2713,6 @@ The Clash goes to Camden Yards and game 1 of the doubleheader. Two dark jerseys 
 
 Tuesday is a 15-game slate after the Blue Jays and Orioles were postponed, and the headline is in the Bronx. The Rays wore their brand-new road gray for the first time in game 2 of the doubleheader at Yankee Stadium, the gradient "TAMPA BAY" across the chest, after opening the day in the navy alternate and dropping game 1, 2-0. The gray debuted with a win: Rays 6, Yankees 1. Elsewhere, Pittsburgh went to the black "Pittsburgh" alternate against the Cardinals in road gray, the Rockies wore purple against Arizona, the Angels brought out red in Sacramento, and the Nationals and Guardians both played in navy alternates on the road. Every card below is confirmed off the league's uniform filings, with every final score in. The Rays gray debut is our Clash of the Day.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### San Diego Padres at Los Angeles Dodgers
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -3182,8 +3160,6 @@ The Clash goes to the Bronx. The Rays wore their new road gray for the first tim
 
 Monday is a three-game slate, and all three are confirmed. Each game had one club in an alternate and the other in its standard set. The best look of the night was in Detroit, where the Tigers wore the Navy City Connect against the Nationals in road gray and won 9-2. Baltimore brought out the orange alternate at Camden Yards against the Blue Jays in road gray, the white-front bird cap on top, and edged Toronto 4-3, our Clash of the Day. Out west the Twins wore the navy alternate at Oracle Park against the Giants in home cream, and San Francisco took it 5-2.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### Minnesota Twins at San Francisco Giants
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -3282,8 +3258,6 @@ The Clash goes to Baltimore. The Orioles wore the orange alternate with the whit
 ## Sunday, September 20
 
 Sunday is a 15-game slate and it belongs to the alternates, all fifteen of them confirmed. San Diego wore the camouflage alternate against the Marlins in road gray, the standing Sunday home tradition at Petco and the one date on the Padres calendar you can set a watch to. Houston answered with the orange alternate against the Braves in navy, our Clash of the Day, and Texas brought the powder blues out at home against the Blue Jays in road gray. Milwaukee wore its own powder blue in Baltimore against the Orioles in the black alternate, so two clubs in two cities reached for powder blue on the same afternoon. Seattle wore Northwest Green in Denver against the Rockies in home white. Both Chicago clubs travelled in blue, the Cubs in the royal blue alternate at Cincinnati in home white and the Royals in royal blue at PNC Park against the Pirates in the black alternate. Arizona went black again against the Yankees in road gray, Washington wore navy at Busch against the Cardinals in home white, Minnesota wore navy in Anaheim against the Angels in home white, and Detroit wore the navy alternate on the South Side against the White Sox in home white pinstripes after a delayed start. The rest went to form: the Giants in road gray at Dodger Stadium against the Dodgers in home white, the Phillies in road gray at Citi Field against the Mets in home white pinstripes, the Red Sox in road gray against the Rays in home white, and the Athletics in road gray in Cleveland against the Guardians in home white.
-
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
 ### Milwaukee Brewers at Baltimore Orioles
 
@@ -3731,8 +3705,6 @@ The Clash goes to Houston. The Astros wore the orange alternate and the Braves a
 
 Saturday is a 15-game slate and the powder blue is out in force. The Royals wore the powder blue alternate at PNC Park against the Pirates in the black alternate, and in Arlington the Blue Jays did the same, powder blue against the Rangers in the Tejas City Connect. The Reds went back to the black City Connect against the Cubs in the royal blue alternate, a second straight night in it. St. Louis answered with cream, the Cardinals in the cream alternate against the Nationals in navy, and in Houston the Astros wore home white against the Braves in the navy alternate. Out west the Marlins brought the black alternate to San Diego against the Padres in home white, the Mariners wore the navy alternate in Denver against the Rockies in home white, the Diamondbacks went black again against the Yankees in road gray, the Dodgers pulled out the cream City Connect for the Giants in road gray, and the Twins wore road gray in Anaheim against the Angels in home white. All fifteen are in. Earlier the Tigers wore road gray against the White Sox in home pinstripes, the Brewers stayed in the navy alternate at Baltimore against the Orioles in home white, the Red Sox traded Friday's red for road gray against the Rays in home white, the Phillies wore road gray at Citi Field against the Mets in home white pinstripes, and the Athletics wore road gray in Cleveland against the Guardians in home white.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### San Francisco Giants at Los Angeles Dodgers
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -4149,8 +4121,6 @@ The Clash goes to St. Louis. The Cardinals wore the cream alternate, the softest
 ## Friday, September 18
 
 Friday was a 15-game slate and it turned into City Connect night, with seven clubs in one. The Reds wore the black City Connect at home against the Cubs in road gray, and at PNC Park the Pirates did the same, black City Connect against the Royals in road gray. The Orioles wore the BMORE City Connect against the Brewers in the navy alternate, the Guardians the navy City Connect against the Athletics, the Rangers the Tejas City Connect against the Blue Jays, the Rockies the City Connect against the Mariners in the Northwest Green alternate, and in San Diego the Padres wore the navy City Connect against the Marlins in road gray. At Tropicana Field the Red Sox went red against the Rays in the white Devil Rays throwback, the Mets pulled out the black alternate against the Phillies, the White Sox wore the black alternate against the Tigers, the Astros went orange against the Braves in navy, and the Cardinals wore powder blue against the Nationals in navy. Out west the Twins brought the navy alternate to Anaheim, the Diamondbacks wore the black alternate against the Yankees in road gray, and the Dodgers were in home white against the Giants in road gray. All fifteen are in.
-
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
 ### San Francisco Giants at Los Angeles Dodgers
 
@@ -4599,8 +4569,6 @@ The Clash goes to Tropicana Field. The Rays pulled out the white Devil Rays thro
 
 Thursday was a nine-game slate and all nine are in. The Dodgers wore the road gray with the Dodgers script at Great American Ball Park and beat the Reds, who wore the red Reds script alternate. The Brewers brought the powder blue alternate to PNC Park, where the Pirates answered in the black Pittsburgh alternate and won. At Tropicana Field the Athletics were in road gray against the Rays in home whites, and at Coors Field the Rockies pulled out the purple alternate against the Padres in the khaki road set, which is where our Clash of the Day landed. The night games were heavy on gray: the Royals at the Astros, the Phillies at the Mets in home pinstripes, the Red Sox at the Rangers, and the Twins at the Angels. The one real break from the pattern came on the South Side, where the White Sox wore the original black Southside City Connect against the Tigers in road gray.
 
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
-
 ### Minnesota Twins at Los Angeles Angels
 
 <div style="margin: 1.4em 0 0.6em;">
@@ -4875,8 +4843,6 @@ The Clash goes to Coors Field. Colorado pulled out the purple alternate for a Th
 ## Wednesday, September 16
 
 Wednesday was a fifteen-game slate, and all fifteen are in. The White Sox brought the black alternate to Cleveland against the Guardians in home whites, a change from the road gray they wore in the first two games of the series, and Cleveland won 6-3. The Giants stayed in road gray at Busch Stadium against the Cardinals in home whites, and the Yankees did the same at Target Field against the Twins in home whites, the third straight day both of those matchups have looked exactly alike. Then Toronto broke the gray streak: the Tigers came out in the navy alternate and the Blue Jays answered in their powder blue, which is where our Clash of the Day landed. The evening games brought more color: the Reds went to the red script alternate against the Dodgers in road gray, and the Brewers wore the powder blue road alternate for a second straight night in Pittsburgh, this time against the Pirates in the black alternate. The Athletics in road gray at the Rays in home whites and the Phillies in road gray at the Nationals in home whites kept it classic. At Citi Field the Orioles stayed in the black alternate against the Mets in their home white pinstripes, and at Wrigley the Braves wore road gray against the Cubs in home white pinstripes. The night games stayed mostly traditional: the Red Sox in road gray at the Rangers in home whites, and the Padres in the khaki road set at Coors Field against the Rockies in their home white pinstripes. The Royals broke it up in Houston with the powder blue alternate against the Astros in home whites. The two West Coast games closed it with a repeat of Monday: the Mariners in the navy alternate at the Angels in home whites, and the Marlins in the black alternate at the Diamondbacks in home whites.
-
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
 ### Miami Marlins at Arizona Diamondbacks
 
@@ -5324,8 +5290,6 @@ The Clash goes to Toronto. Detroit wore the navy alternate with the Olde English
 ## Tuesday, September 15
 
 Tuesday was a fifteen-game slate, and all fifteen are in. The Dodgers switched from Monday's road gray to the blue Los Angeles alternate in Cincinnati against the Reds in home whites, the White Sox went back to road gray against Cleveland, which swapped Monday's red alternate for home whites, and the Phillies wore road gray in Washington against the Nationals in white. The Athletics went with road gray in St. Petersburg against the Rays in home whites, and the Brewers brought the powder blue road alternate to Pittsburgh against the Pirates in home whites, which is where our Clash of the Day landed. In Toronto the Tigers stayed in road gray while the Blue Jays traded Monday's royal blue alternate for the home whites, and at Citi Field the Orioles went back to the black alternate against the Mets in their home white pinstripes. The five night games that followed were a straight run of classics: the Braves in road gray at the Cubs in home white pinstripes, the Yankees in road gray at the Twins in home whites and the Giants in road gray at the Cardinals in home whites, all three an exact repeat of Monday's looks, plus the Red Sox in road gray in Arlington against the Rangers in white and the Royals in road gray in Houston against the Astros in their home whites. The three late West Coast games brought what color there was: the Padres wore the khaki road set in Denver against the Rockies in home whites, the Marlins stayed in road gray in Phoenix against the Diamondbacks in home whites, and the Angels pulled out the cream Surf City City Connect at home against the Mariners in the navy alternate. That is ten of the fifteen games with nothing but gray and white on the field.
-
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
 ### Miami Marlins at Arizona Diamondbacks
 
@@ -7895,8 +7859,6 @@ That handed the entire evening to the visitors, and ten of them took it. Two bla
 ## Tuesday, September 8
 
 All fifteen Tuesday games are in, and the night split cleanly between coasts. The East was gray and white with three alternates doing the work: the Twins wore the navy alternate at Detroit, the Rays the navy alternate at Atlanta and the Angels the red alternate at Fenway, all three against plain home whites. Pinstripes showed up three times, the Phillies against Houston's gray, the Yankees against Colorado's gray and the White Sox against a Pirates black alternate that was the only color-on-pinstripes pairing of the night. The Cubs stayed in royal blue at Milwaukee for a second straight game against the Brewers' home cream, still no pinstripes on that shirt, and Cleveland went back to gray in Baltimore after Monday's navy. The West brought the two loudest shirts of the day: the Reds in the red script alternate at Dodger Stadium against the home white, and the Giants in the black City Connect against St. Louis gray. The Rangers wore the royal blue alternate at Seattle, the Blue Jays gray at the Athletics, and the Nationals gray at San Diego, with the Padres in their home whites. Twenty-one of thirty jerseys were white, cream or gray.
-
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
 ### Cincinnati Reds at Los Angeles Dodgers
 
@@ -14056,8 +14018,6 @@ The frustrating part is that the concept deserves better. Motor City is a top-fi
   </div>
 </div>
 </div>
-
-<!-- JERSEY OF THE DAY / STINKER blocks go here -->
 
 ### Cleveland Guardians at Los Angeles Angels
 

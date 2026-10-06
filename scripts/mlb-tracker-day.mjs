@@ -154,8 +154,7 @@ function side(slug, oppName, uniform, dateWords) {
 const dateWords = new Date(date + "T12:00:00Z").toLocaleDateString("en-US",
   { month: "long", day: "numeric", year: "numeric", timeZone: "UTC" }).replace(",", "");
 
-const out = [`## ${pretty}`, "", "<!-- INTRO PARAGRAPH -->", "",
-  "<!-- JERSEY OF THE DAY / STINKER blocks go here -->", ""];
+const out = [`## ${pretty}`, "", "<!-- INTRO PARAGRAPH -->", ""];
 
 for (const g of games) {
   const aName = g.teams.away.team.name, hName = g.teams.home.team.name;
