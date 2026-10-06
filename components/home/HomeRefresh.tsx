@@ -4,7 +4,7 @@ import type { PostMeta } from "@/lib/posts";
 import { getAuthor } from "@/lib/authors";
 import type { Take, TonightLeague, StandsPhoto } from "@/lib/homeToday";
 
-// MOCK (homepage refresh, 10/5). Pieces of the proposed homepage. Every one of
+// Homepage refresh (shipped 10/5). Pieces of the proposed homepage. Every one of
 // them is fed by data the daily passes already write, so the page reads
 // differently each morning without anyone pinning anything.
 

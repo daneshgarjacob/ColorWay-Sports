@@ -7,7 +7,7 @@ import { buildWinterIndex, nhlTeams } from "@/lib/winterTrackerIndex";
 import fs from "node:fs";
 import path from "node:path";
 
-// MOCK (homepage refresh, 10/5). Everything the "changes by itself every day"
+// Homepage refresh (shipped 10/5). Everything the "changes by itself every day"
 // homepage needs, read from files the daily passes already write. Nothing here
 // is typed in by hand except the From the Stands photo list, and that is Jake's
 // own photography only.

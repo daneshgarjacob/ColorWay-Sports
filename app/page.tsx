@@ -83,9 +83,13 @@ export default function Home() {
   // single biggest query on the site at 87 clicks, plus 73 more on "rams jersey
   // schedule 2026". It earns a slot even though it is older than the rest.
   const FEATURED_SLUGS: { slug: string; pinned: string; standing?: boolean }[] = [
-    // Every slug here MUST have a real coverImage. The hero plus these three are
-    // the top of the page, and a words-only or ColorWay-generated card is never
-    // allowed in that group. Check the post's frontmatter before adding one.
+    // ⭐ STANDING RULE (Jake, 10/5): of the TOP FOUR IMAGES (the hero + these
+    // three cards), AT MOST ONE may be a ColorWay-generated / composite graphic
+    // (today that one is the NFL tracker). The rest must be real, professional
+    // team or league photography. Jake's own fan photos are OK in a Latest card
+    // but NEVER the hero; the hero is an HD professional team photo "like Oregon".
+    // Every slug here MUST have a real coverImage, and words-only cards are
+    // never allowed here. Check the post's frontmatter before adding one.
     // Refreshed 9/16 on GSC 7d (9/8-9/14): Bears #1 page, Texans #4 (team's
     // Wear White art), Buccaneers #6 (team closet art). Hero = Bengals (#2).
     // 9/16 (Jake): lead the grid with a tracker and a ranking story so the top of
@@ -130,13 +134,22 @@ export default function Home() {
     // frees its slot IN PLACE, and that slot auto-fills with the newest cover
     // post. `standing: true` never expires: the NFL tracker keeps the MIDDLE
     // card per Jake's 9/16 rule. To pin a story, add it with today's date.
-    // 10/5: Jake's three bylined stories from NLDS Game 2 weekend. Braves navy
-    // (his own Acuna photo) holds the hero; his LA fans column (his own pregame
-    // Dodger Stadium photo) and the Canucks Black Skate story flank the tracker.
-    { slug: "dodgers-fans-leaving-early-la-sports-fans-spoiled", pinned: "2026-10-05" },
+    // 10/5 (Jake): hero back to Oregon (HD team photo). Left = Braves navy NLDS
+    // G2 (Jake's own Acuna photo: fine in a card, never the hero). Middle = NFL
+    // tracker (the one allowed ColorWay graphic). Right = Air Force B-21 (official
+    // team photo; it debuted and beat Navy 10/3).
+    { slug: "braves-navy-alternate-jersey-nlds-game-2", pinned: "2026-10-05" },
     { slug: "nfl-uniform-tracker-2026", pinned: "2026-09-16", standing: true },
-    { slug: "canucks-black-skate-jersey-back-to-back-2026", pinned: "2026-10-05" },
+    { slug: "air-force-b21-raider-uniform-2026", pinned: "2026-10-05" },
   ];
+  // Jake 10/5: "I don't want that on the home screen." These never take an image
+  // slot on the homepage (no Latest auto-fill, no More Stories thumbnail). A
+  // text link in the Jake's Takes rail is fine. Canucks may come back only with
+  // an in-game shot we are allowed to host.
+  const HOMEPAGE_HIDE = new Set([
+    "dodgers-fans-leaving-early-la-sports-fans-spoiled",
+    "canucks-black-skate-jersey-back-to-back-2026",
+  ]);
   // A slot is either a live pin or null (auto-fill), so the tracker stays in
   // the middle even when the pins on either side of it have expired.
   const pinSlots = FEATURED_SLUGS.map((pin) => {
@@ -158,7 +171,8 @@ export default function Home() {
       (p) =>
         p.slug !== heroPost.slug &&
         !featuredSlugs.has(p.slug) &&
-        !GRID_EXCLUDE.has(p.slug)
+        !GRID_EXCLUDE.has(p.slug) &&
+        !HOMEPAGE_HIDE.has(p.slug)
     );
   const coverFirst = [
     ...gridPool.filter(hasCover),
@@ -196,7 +210,7 @@ export default function Home() {
   //     sit here all week between Monday re-ranks.
   //  3. NEWEST: backfill by publish date if the first two run short.
   const shownSlugs = new Set([heroPost.slug, ...gridSlugs, ...bandSlugs]);
-  const notShown = filtered.filter((p) => !shownSlugs.has(p.slug));
+  const notShown = filtered.filter((p) => !shownSlugs.has(p.slug) && !HOMEPAGE_HIDE.has(p.slug));
   const MORE_COUNT = 6;
   const fresh = notShown
     // >= 0 so a post dated ahead for tomorrow does not jump the queue today.
@@ -220,7 +234,7 @@ export default function Home() {
     ...notShown.filter((p) => !picked.has(p)).sort(byNewest),
   ].slice(0, MORE_COUNT);
 
-  // MOCK 10/5: the self-updating pieces.
+  // The self-updating pieces (homepage refresh, 10/5).
   const takes = getJakesTakes(5, new Set([heroPost.slug, ...gridSlugs]));
   const tonight = getTonight();
   const brief = todayBrief(tonight, takes);
@@ -239,10 +253,10 @@ export default function Home() {
         <h1 className="sr-only">
           ColorWay Sports — Every Jersey. Every Logo. Every Detail. Covering sports jerseys, uniforms, logos, scorebugs, and stadium design.
         </h1>
-        {/* MOCK 10/5: dateline + a brief written from today's data */}
+        {/* 10/5: dateline + a brief written from today's data */}
         <TodayBrief day={todayLong} lines={brief} />
 
-        {/* MOCK 10/5: lead story (2/3) + Jake's Takes rail (1/3) */}
+        {/* 10/5: lead story (2/3) + Jake's Takes rail (1/3) */}
         {heroPost && (
           <section className="max-w-[1200px] mx-auto px-5 pt-6 pb-2">
             <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)] gap-8">
@@ -252,9 +266,14 @@ export default function Home() {
           </section>
         )}
 
+        {/* Tonight across leagues, straight off the slate files. Above the
+            Latest cards per Jake, 10/5. */}
+        <div className="pt-8" />
+        <TonightStrip leagues={tonight} />
+
         {/* Latest stories grid */}
         {gridPosts.length > 0 && (
-          <section className="max-w-[1200px] mx-auto px-5 pt-5 pb-8">
+          <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-8">
             <div className="flex items-baseline justify-between mb-3">
               <h2 className="text-xs font-bold uppercase tracking-[0.25em] text-[#8A8F98]">
                 Latest Stories
@@ -275,9 +294,6 @@ export default function Home() {
           </section>
         )}
 
-        {/* MOCK 10/5: tonight across leagues, straight off the slate files */}
-        <TonightStrip leagues={tonight} />
-
         {/* The Wire: the next three items after the ones in the Takes rail */}
         <div className="pt-10" />
         <WireStrip
@@ -285,7 +301,7 @@ export default function Home() {
           skip={takes.filter((t) => t.kind === "Wire").map((t) => t.key.slice(2))}
         />
 
-        {/* MOCK 10/5: From the Stands (Jake's own photo, rotates daily) beside More Stories */}
+        {/* 10/5: From the Stands (Jake's own photo, rotates daily) beside More Stories */}
         <section className="max-w-[1200px] mx-auto px-5 pb-12">
           <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,2fr)] gap-10">
             <FromTheStands photo={standsPhoto} />

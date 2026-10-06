@@ -12,7 +12,6 @@ coverImage: "/images/posts/braves-navy-alternate-jersey-nlds-game-2/cover.jpg"
 coverImagePosition: "center 50%"
 coverImageFit: "cover"
 kicker: Graded
-homepageHero: true
 league: mlb
 teams:
   - atlanta-braves
