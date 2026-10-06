@@ -9,6 +9,7 @@ gradient: 'linear-gradient(135deg, #0C2340 0%, #C41E3A 50%, #0C2340 100%)'
 coverImage: /images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.jpg
 coverImagePosition: center 50%
 league: mlb
+updatedDate: '2026-10-05'
 teams: []
 ---
 
@@ -35,6 +36,20 @@ It is hard not to wonder if this is a reflection of ESPN pulling back from baseb
 **Grade: F**
 
 ## 5. TNT/TBS: D-
+
+**2026 postseason update (October 5):** TNT Sports has the American League this October. TBS, truTV and HBO Max carry both AL Division Series (White Sox vs Guardians and Yankees vs Rays, which started Saturday, October 3) and the ALCS. TNT debuted a new MLB scorebug for the ALDS, and it did not fix much.
+
+<img src="/images/posts/national-mlb-scorebugs-2026-ranked/tnt-scorebug-2026.jpg" alt="New TNT Sports MLB scorebug from 2026 ALDS Game 1, White Sox at Guardians" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2026 TNT/TBS MLB scorebug via TNT Sports (ALDS Game 1, White Sox at Guardians)</p>
+
+The new one is a smaller black box: the TNT Sports logo, the two team logos and scores, the inning, the count, the outs and the bases. The "ALDS, Best-of-5, Game 1" line floats above the box on no background, with the words spaced out unevenly across the top. In the debut frame there is no batter bar at all, so there is no batting order spot for the hitter. The old version below at least showed it ("1. S. Ohtani").
+
+<div style="margin: 1.6em 0; padding: 1.2em 1.4em; background: #f4f6fb; border-left: 4px solid #111111; border-radius: 10px;">
+<p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 800; color: #111111; text-transform: uppercase; letter-spacing: 2px;">Jake's Take</p>
+<p style="margin: 0;">I absolutely hate it. I've always hated the broadcast. I think it's so bad, and the scorebug is terrible. They don't show what number in the batting order the player is at. The text isn't aligned. It's just really bad. It's cheap.</p>
+</div>
+
+The new look does not move it up. TNT/TBS stays at No. 5 with a D-, and the original review of the old scorebug is below.
 
 <img src="/images/posts/national-mlb-scorebugs-2026-ranked/tnt-scorebug.jpg" alt="TNT Sports MLB scorebug from NLCS Game 4 showing Brewers vs Dodgers" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">TNT/TBS MLB scorebug via TNT Sports (NLCS Game 4, 2025)</p>
@@ -141,6 +156,30 @@ Before we wrap this up, take a look at what Nippon Professional Baseball does wi
 That Rubik's Cube style scorebug is one of the most creative things we have seen in any sport. The 3D rotating design packs an incredible amount of information into a small space while still looking visually interesting. It is bold, it is different, and it makes every American national scorebug look boring by comparison.
 
 We are not saying Fox or Netflix needs to copy this exactly, but the idea of making the scorebug something visually engaging rather than just a static box is worth thinking about. MLB broadcasts in the US have been stuck in the same layout philosophy for years. Japan is proving there is a way to make scorebugs a part of the entertainment, not just a necessary overlay. American networks should be paying attention.
+
+<span id="faq"></span>
+
+## Frequently Asked Questions
+
+**What is the best national MLB scorebug in 2026?**
+
+Fox, with an A+. The team color blocks, the big score and the base diamond in the center make it the easiest scorebug in baseball to read at a glance. Netflix is second with a B+.
+
+**What is the worst national MLB scorebug in 2026?**
+
+ESPN, with an F. The all-black design has almost no team color. TNT/TBS is right above it at No. 5 with a D-.
+
+**Did TBS change its MLB scorebug for the 2026 playoffs?**
+
+Yes. TNT Sports debuted a new, smaller scorebug for the 2026 ALDS. It is still a dark box, and the round and game info floats above it on no background. We still grade it a D-.
+
+**What MLB playoff games are on TBS in 2026?**
+
+TBS, truTV and HBO Max carry the 2026 American League Division Series (White Sox vs Guardians and Yankees vs Rays) and the American League Championship Series. Fox and FS1 have the National League side and the World Series.
+
+**Why does the TBS scorebug not show the batting order?**
+
+In the debut frame of the new 2026 TNT/TBS scorebug there is no batter bar, so the hitter's spot in the lineup is not shown. The old TNT version did show it, for example "1. S. Ohtani" in the 2025 NLCS.
 
 ## The Full Rankings
 
