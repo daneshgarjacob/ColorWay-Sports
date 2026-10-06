@@ -138,7 +138,10 @@ export default function Home() {
     // G2 (Jake's own Acuna photo: fine in a card, never the hero). Middle = NFL
     // tracker (the one allowed ColorWay graphic). Right = Air Force B-21 (official
     // team photo; it debuted and beat Navy 10/3).
-    { slug: "braves-navy-alternate-jersey-nlds-game-2", pinned: "2026-10-05" },
+    // 10/6 (Jake): Todd Radom interview takes the LEFT card (replaces Braves
+    // navy G2, a past game now that G3 is on). Its cover is built around a real
+    // photo (Todd's Topps card) plus his actual logos, not a generated graphic.
+    { slug: "todd-radom-interview-sports-logo-design", pinned: "2026-10-06" },
     { slug: "nfl-uniform-tracker-2026", pinned: "2026-09-16", standing: true },
     { slug: "air-force-b21-raider-uniform-2026", pinned: "2026-10-05" },
   ];
