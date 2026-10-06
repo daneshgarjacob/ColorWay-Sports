@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-06",
+  "games": [
+    {
+      "away": "Los Angeles Dodgers",
+      "awaySlug": "dodgers",
+      "home": "Atlanta Braves",
+      "homeSlug": "braves",
+      "time": "6:00 PM ET",
+      "gameNumber": 1
+    },
+    {
+      "away": "Milwaukee Brewers",
+      "awaySlug": "brewers",
+      "home": "San Diego Padres",
+      "homeSlug": "padres",
+      "time": "9:30 PM ET",
+      "gameNumber": 1
+    }
+  ]
+}

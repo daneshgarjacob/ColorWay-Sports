@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-09-30"
-updatedDate: "2026-10-05"
+updatedDate: "2026-10-06"
 excerpt: "2026 ALDS and NLDS uniforms: Yankees at Rays, White Sox at Guardians, Padres at Brewers and Braves at Dodgers. Home and road sets, October history and every date."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
@@ -30,15 +30,15 @@ This page is the Division Series zoom. For the whole postseason, including the W
 
 Both Division Series are best of five in a 2-2-1 format. The higher seed hosts Games 1, 2 and 5, and the Wild Card winner hosts Games 3 and 4. The ALDS presented by Booking.com airs on TBS, truTV and HBO Max. The NLDS airs on FOX and FS1.
 
-**ALDS: New York Yankees at Tampa Bay Rays (AL No. 1, 98-64).** Game 1: Saturday, October 3, 6:30 p.m. ET at Tropicana Field. Game 2: Monday, October 5, 8:00 p.m. ET at Tropicana Field. Game 3: Wednesday, October 7, at Yankee Stadium. Game 4 (if needed): Thursday, October 8, at Yankee Stadium. Game 5 (if needed): Saturday, October 10, at Tropicana Field.
+**ALDS: New York Yankees at Tampa Bay Rays (AL No. 1, 98-64).** Game 1: Saturday, October 3, 6:30 p.m. ET at Tropicana Field. Game 2: Monday, October 5, 8:00 p.m. ET at Tropicana Field. Game 3: Wednesday, October 7, 8:00 p.m. ET at Yankee Stadium on TBS. Game 4 (if needed): Thursday, October 8, at Yankee Stadium. Game 5 (if needed): Saturday, October 10, at Tropicana Field.
 
-**ALDS: Chicago White Sox at Cleveland Guardians (AL No. 2, 85-77).** Game 1: Saturday, October 3, 1:00 p.m. ET at Progressive Field. Game 2: Monday, October 5, 5:00 p.m. ET at Progressive Field. Game 3: Wednesday, October 7, at Rate Field. Game 4 (if needed): Thursday, October 8, at Rate Field. Game 5 (if needed): Saturday, October 10, at Progressive Field.
+**ALDS: Chicago White Sox at Cleveland Guardians (AL No. 2, 85-77).** Game 1: Saturday, October 3, 1:00 p.m. ET at Progressive Field. Game 2: Monday, October 5, 5:00 p.m. ET at Progressive Field. Game 3: Wednesday, October 7, 4:00 p.m. ET at Rate Field on TBS. Game 4 (if needed): Thursday, October 8, at Rate Field. Game 5 (if needed): Saturday, October 10, at Progressive Field.
 
-**NLDS: San Diego Padres at Milwaukee Brewers (NL No. 1, 103-59).** Game 1: Saturday, October 3, 8:30 p.m. ET at American Family Field. Game 2: Sunday, October 4, 4:00 p.m. ET at American Family Field. Game 3: Tuesday, October 6, at Petco Park. Game 4 (if needed): Wednesday, October 7, at Petco Park. Game 5 (if needed): Friday, October 9, at American Family Field.
+**NLDS: San Diego Padres at Milwaukee Brewers (NL No. 1, 103-59).** Game 1: Saturday, October 3, 8:30 p.m. ET at American Family Field. Game 2: Sunday, October 4, 4:00 p.m. ET at American Family Field. Game 3: Tuesday, October 6, 9:30 p.m. ET (6:30 p.m. PT) at Petco Park on FS1. Game 4 (if needed): Wednesday, October 7, 10:00 p.m. ET (7:00 p.m. PT) at Petco Park. Game 5 (if needed): Friday, October 9, at American Family Field.
 
-**NLDS: Atlanta Braves at Los Angeles Dodgers (NL No. 2, 100-62).** Game 1: Saturday, October 3, 4:00 p.m. ET (1:00 p.m. PT) at Dodger Stadium on FOX. Game 2: Sunday, October 4, 8:00 p.m. ET (5:00 p.m. PT) at Dodger Stadium on FS1. Game 3: Tuesday, October 6, at Truist Park. Game 4 (if needed): Wednesday, October 7, at Truist Park. Game 5 (if needed): Friday, October 9, at Dodger Stadium.
+**NLDS: Atlanta Braves at Los Angeles Dodgers (NL No. 2, 100-62).** Game 1: Saturday, October 3, 4:00 p.m. ET (1:00 p.m. PT) at Dodger Stadium on FOX. Game 2: Sunday, October 4, 8:00 p.m. ET (5:00 p.m. PT) at Dodger Stadium on FS1. Game 3: Tuesday, October 6, 6:00 p.m. ET (3:00 p.m. PT) at Truist Park on FS1. Game 4 (if needed): Wednesday, October 7, 6:00 p.m. ET (3:00 p.m. PT) at Truist Park. Game 5 (if needed): Friday, October 9, at Dodger Stadium.
 
-MLB has not yet set the Game 3 and 4 start times.
+All four Game 3s are set: both NLDS Game 3s are Tuesday, October 6, on FS1, and both ALDS Game 3s are Wednesday, October 7, on TBS.
 
 ## What Changes on the Uniform in the Division Series
 
