@@ -238,7 +238,7 @@ export default function Home() {
   const takes = getJakesTakes(5, new Set([heroPost.slug, ...gridSlugs]));
   const tonight = getTonight();
   const brief = todayBrief(tonight, takes);
-  const standsPhoto = standsPhotoFor(todayEt);
+  const standsPhoto = standsPhotoFor(todayEt, new Set([heroPost.slug, ...gridSlugs]));
   const todayLong = new Date(`${todayEt}T12:00:00Z`).toLocaleDateString("en-US", {
     weekday: "long",
     month: "long",

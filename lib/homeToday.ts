@@ -190,8 +190,17 @@ export const FROM_THE_STANDS: StandsPhoto[] = [
   },
 ];
 
-export function standsPhotoFor(date: string): StandsPhoto {
-  return FROM_THE_STANDS[dayNumber(date) % FROM_THE_STANDS.length];
+// Jake 10/6: the Stands photo must never repeat a photo already on the page.
+// A photo whose story is in the lead or Latest slots is skipped (that story's
+// cover is the same shot), and the rotation moves on to the next one.
+export function standsPhotoFor(date: string, shownSlugs: Set<string> = new Set()): StandsPhoto {
+  const n = FROM_THE_STANDS.length;
+  const start = dayNumber(date) % n;
+  for (let i = 0; i < n; i++) {
+    const photo = FROM_THE_STANDS[(start + i) % n];
+    if (!shownSlugs.has(photo.href.replace("/stories/", ""))) return photo;
+  }
+  return FROM_THE_STANDS[start];
 }
 
 // ---------------------------------------------------------------------------
