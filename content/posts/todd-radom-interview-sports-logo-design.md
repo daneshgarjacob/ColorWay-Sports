@@ -13,7 +13,7 @@ teams: []
 ---
 
 <div style="margin: 0 0 1.5em;">
-  <img src="/images/posts/todd-radom-interview/cover.jpg" alt="Sports logo designer Todd Radom on his Topps Allen and Ginter card, with his Washington Nationals, Super Bowl XXXVIII and Lakers 60th anniversary logos" style="width: 100%; border-radius: 10px; display: block;" />
+  <img src="/images/posts/todd-radom-interview/cover.jpg" alt="Sports logo designer Todd Radom on his Topps Allen and Ginter card, with his Washington Nationals, Los Angeles Angels and Super Bowl XXXVIII logos" style="width: 100%; border-radius: 10px; display: block;" />
   <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Card and logos via Todd Radom (toddradom.com)</p>
 </div>
 

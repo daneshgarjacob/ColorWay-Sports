@@ -1,7 +1,7 @@
 // Cover for the Todd Radom interview. Warm drafting-paper field, his Topps
 // Allen & Ginter card (from toddradom.com) tilted on the left, stacked name on
-// the right, and three of his marks (Nationals, Super Bowl XXXVIII, Lakers 60th)
-// multiplied onto the paper. 3:2 at 1500x1000 per the cover spec.
+// the right, three of his marks (Nationals, Angels, Super Bowl XXXVIII) and the
+// ColorWay wordmark lockup (recolored navy) along the bottom. 3:2 at 1500x1000 per the cover spec.
 // Source images live in the session scratchpad; pass the folder as argv[2].
 import sharp from 'sharp';
 import { mkdir } from 'node:fs/promises';
@@ -29,7 +29,6 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <text x="742" y="572" font-family="${F}" font-size="34" font-weight="500" fill="${NAVY}">The designer behind the Nationals,</text>
   <text x="742" y="616" font-family="${F}" font-size="34" font-weight="500" fill="${NAVY}">the Angels and Super Bowl XXXVIII</text>
   <line x1="742" y1="690" x2="1420" y2="690" stroke="${NAVY}" stroke-width="2" opacity="0.18"/>
-  <text x="742" y="955" font-family="${F}" font-size="20" font-weight="700" fill="${NAVY}" opacity="0.55" letter-spacing="6">COLORWAY SPORTS</text>
 </svg>`;
 
 // Card with white border, tilted, with a soft shadow.
@@ -47,13 +46,25 @@ const shadow = await sharp(shadowShape).blur(22).png().toBuffer();
 // Marks: trimmed to the same height, spaced evenly across the right column;
 // white backgrounds multiply away on the paper.
 const MARK_H = 170, COL_L = 742, COL_R = 1420;
-const trimmed = await Promise.all(['NATS.png', 'SB38.png', 'LAKERS60.png'].map(async (f) => {
-  const buf = await sharp(`${SRC}/${f}`).flatten({ background: '#ffffff' }).trim({ threshold: 12 }).resize({ height: MARK_H }).png().toBuffer();
-  return { buf, w: (await sharp(buf).metadata()).width };
+const trimmed = await Promise.all([
+  ['NATS.png', 'multiply'], ['ANGELS_A_cut.png', 'over'], ['SB38.png', 'multiply'],
+].map(async ([f, blend]) => {
+  let img = sharp(`${SRC}/${f}`);
+  if (blend === 'multiply') img = img.flatten({ background: '#ffffff' }).trim({ threshold: 12 });
+  const buf = await img.resize({ height: MARK_H }).png().toBuffer();
+  return { buf, blend, w: (await sharp(buf).metadata()).width };
 }));
 const gap = (COL_R - COL_L - trimmed.reduce((a, t) => a + t.w, 0)) / (trimmed.length - 1);
 let x = COL_L;
-const marks = trimmed.map((t) => { const m = { input: t.buf, left: Math.round(x), top: 735, blend: 'multiply' }; x += t.w + gap; return m; });
+const marks = trimmed.map((t) => { const m = { input: t.buf, left: Math.round(x), top: 715, blend: t.blend }; x += t.w + gap; return m; });
+
+// Brand lockup (flag badge + wordmark + tagline). The source is white, so keep
+// its alpha and fill it with brand navy.
+const LOCK_W = 430;
+const lockAlpha = await sharp(`${SRC}/wordmark-lockup.png`).resize({ width: LOCK_W }).extractChannel('alpha').toBuffer();
+const lockMeta = await sharp(lockAlpha).metadata();
+const lockup = await sharp({ create: { width: lockMeta.width, height: lockMeta.height, channels: 3, background: '#003087' } })
+  .joinChannel(lockAlpha).png().toBuffer();
 
 await mkdir(OUT, { recursive: true });
 await sharp(Buffer.from(svg))
@@ -61,6 +72,7 @@ await sharp(Buffer.from(svg))
     { input: shadow, left: 30, top: 40 },
     { input: tilted, left: 90, top: 100 },
     ...marks,
+    { input: lockup, left: COL_L, top: 925 },
   ])
   .jpeg({ quality: 88, mozjpeg: true })
   .toFile(`${OUT}/cover.jpg`);
