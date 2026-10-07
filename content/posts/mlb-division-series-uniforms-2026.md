@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-09-30"
-updatedDate: "2026-10-06"
+updatedDate: "2026-10-07"
 excerpt: "2026 ALDS and NLDS uniforms: Yankees at Rays, White Sox at Guardians, Padres at Brewers and Braves at Dodgers. Home and road sets, October history and every date."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
@@ -86,7 +86,7 @@ Tampa Bay is back in the postseason for the first time since 2023, and back at T
 
 - Game 1, Sat. Oct. 3: White Sox Black Alternate at Guardians Home White · Grade: **B** · White Sox 3, Guardians 0
 - Game 2, Mon. Oct. 5: White Sox Black Alternate at Guardians Red Alternate · Grade: **A-** · White Sox 4, Guardians 3
-- Game 3, Wed. Oct. 7: Guardians TBD at White Sox TBD · Grade: pending
+- Game 3, Wed. Oct. 7: Guardians Road Gray at White Sox Black Alternate · Grade: **B**
 - Game 4, Thu. Oct. 8 (if needed): Guardians TBD at White Sox TBD · Grade: pending
 - Game 5, Sat. Oct. 10 (if needed): White Sox TBD at Guardians TBD · Grade: pending
 
