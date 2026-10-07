@@ -3,7 +3,7 @@ title: "UNLV Uniform Schedule 2026: Every Jersey and When the Rebels Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-07"
 excerpt: "UNLV uniform schedule 2026: the red home jersey, white road set, silver and red helmets, and every Rebels game with the jersey worn or expected."
 gradient: "linear-gradient(135deg, #CF0A2C 0%, #a3081f 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -41,7 +41,7 @@ UNLV announces every combination a couple of days before kickoff in a post the p
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #ffffff; color: #CF0A2C; border: 2px solid #CF0A2C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Akron</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #CF0A2C; color: #ffffff; border: 2px solid #a7a8aa; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cal</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / Gray</div></div>
-  <div style="background: #CF0A2C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Dakota State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #CF0A2C; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Dakota State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 1976 Helmet / Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Air Force</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #CF0A2C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -69,7 +69,7 @@ UNLV announces every combination a couple of days before kickoff in a post the p
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @unlvfootball</p>
 
-**October 10 vs. North Dakota State.** Red expected. Homecoming and Breast Cancer Awareness Day at 4 p.m. Pacific on The CW. Homecoming is one of the two dates on any schedule where an alternate is most likely, and awareness days tend to bring pink accents rather than a new jersey.
+**October 10 vs. North Dakota State.** ★ Helmet confirmed by UNLV: **the 1976 Bicentennial throwback helmet.** For Homecoming, UNLV [announced a one-game helmet](https://unlvrebels.com/news/2026/8/31/football-patriotic-helmet-design-unveiled-for-oct-10-homecoming-game.aspx) from its 1976 season: a white shell with a red facemask and a red UNLV REBELS decal in a mid-1970s font, flanked by the Minute Man statue from Concord, Massachusetts. UNLV wore that helmet only in 1976, while the country celebrated its Bicentennial, and it comes back to mark 50 years since that team and the country's 250th birthday. It is the first time this season the Rebels have used a third helmet. The jersey and pants have not been announced yet, and red is still expected at home, so look for the threads post a couple of days before kickoff. It is also Breast Cancer Awareness Day, at 4 p.m. Pacific on The CW. Every Week 6 game is in our [college football Week 6 uniform guide](/stories/college-football-week-6-uniforms-2026).
 
 **October 17 at Air Force.** White expected. 12:30 p.m. Pacific at Falcon Stadium on CBS Sports Network, with the Falcons expected in blue on our [Air Force 2026 uniform schedule](/stories/air-force-uniform-schedule-2026).
 
@@ -121,11 +121,15 @@ Five games, five combinations and two helmets tells you UNLV is not a program th
 
 **What jersey is UNLV wearing this week?**
 
-UNLV wore the red helmet, red jersey and gray pants against Cal at Allegiant Stadium on Saturday, October 3, for Hispanic Heritage Day, confirmed from the broadcast, and won 39-31 to move to 3-2. The week before, the Rebels wore the red helmet, white jersey and red pants at Akron. Next is North Dakota State at home on October 10 for Homecoming, where red is expected. The week-by-week grid above lists every game with the expected set.
+UNLV wore the red helmet, red jersey and gray pants against Cal at Allegiant Stadium on Saturday, October 3, for Hispanic Heritage Day, confirmed from the broadcast, and won 39-31 to move to 3-2. The week before, the Rebels wore the red helmet, white jersey and red pants at Akron. Next is North Dakota State at home on October 10 for Homecoming, where UNLV has confirmed its 1976 Bicentennial throwback helmet: a white shell with a red facemask, a red UNLV REBELS decal and the Minute Man statue. The jersey and pants have not been announced, and red is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are UNLV's football uniforms for 2026?**
 
-A scarlet home jersey with REBELS across the chest and white numerals, a white road jersey with gray numerals trimmed in red, and a gray alternate. Pants have come in gray, white and red so far this season. There are two helmets in use: a silver shell with the red UNLV arch and the Welcome to Las Vegas sign on the back, and a red shell with a white UNLV arch. Everything is Nike.
+A scarlet home jersey with REBELS across the chest and white numerals, a white road jersey with gray numerals trimmed in red, and a gray alternate. Pants have come in gray, white and red so far this season. There are two helmets in use: a silver shell with the red UNLV arch and the Welcome to Las Vegas sign on the back, and a red shell with a white UNLV arch. A third, the white 1976 Bicentennial throwback helmet with the Minute Man statue, is set for one game, Homecoming against North Dakota State on October 10. Everything is Nike.
+
+**Is UNLV wearing a throwback helmet in 2026?**
+
+Yes, for one game. UNLV wears a throwback of its 1976 helmet for Homecoming against North Dakota State on Saturday, October 10, at Allegiant Stadium: a white shell, red facemask, a red UNLV REBELS decal in a 1970s font and the Minute Man statue from Concord, Massachusetts. It honors the 1976 team, the only one that wore it, and the country's 250th birthday.
 
 **What did UNLV wear against Hawaii?**
 

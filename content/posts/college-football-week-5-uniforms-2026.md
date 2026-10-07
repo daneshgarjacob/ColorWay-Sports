@@ -17,6 +17,8 @@ Week 5 of the 2026 college football season is the week the pre-announced alterna
 
 Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is expected to wear. A look is marked **Confirmed** when the school itself has announced it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. As of Thursday night, more than 30 teams on this page have posted or announced their Week 5 look, and we have marked each one Confirmed with the team's own post. **Update, Sunday, October 4:** every game below now has its final score, verified against the line score, and what was actually worn, marked **★ Worn** wherever we could confirm it from the broadcast or the schools' own game photos. The biggest surprises: UConn debuted its red alternate jersey for Homecoming, South Carolina wore black instead of garnet, South Florida went white at home, LSU wore purple instead of white, Kansas wore red and Kentucky brought out a chrome helmet. ESPN and the AP poll call this Week 5, and the rankings below are from this week's AP poll. All times are Eastern. Last week's looks and final scores are in our [Week 4 uniform guide](/stories/college-football-week-4-uniforms-2026).
 
+**Looking for this weekend?** Week 6 is here: [College Football Week 6 Uniforms 2026](/stories/college-football-week-6-uniforms-2026), with Oregon's Origin of Speed debut, Notre Dame in green, Kentucky's Power K throwback and every Top 25 look.
+
 ## Games of the Week
 
 ### Auburn at No. 17 Tennessee: Smokey Grey

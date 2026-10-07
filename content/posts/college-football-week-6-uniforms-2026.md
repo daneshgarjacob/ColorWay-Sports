@@ -2,8 +2,8 @@
 title: "College Football Week 6 Uniforms 2026: What Every Top Team Is Wearing, From Oregon's Origin of Speed to Notre Dame in Green"
 author: "colorway-sports-staff"
 category: "College"
-date: "2026-10-06"
-updatedDate: "2026-10-06"
+date: "2026-10-07"
+updatedDate: "2026-10-07"
 excerpt: "College football Week 6 uniforms: Oregon's Origin of Speed debut, Notre Dame in green, Florida's Spurrier throwback, the Penn State White Out and every Top 25 look."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["air-force-falcons", "alabama-crimson-tide", "appalachian-state-mountain
 resurfaceOnUpdate: true
 ---
 
-Week 6 of the 2026 college football season has the best set of games on the calendar so far, and three of the biggest uniforms of the year were locked in before it started. **Oregon debuts its new Origin of Speed uniform against No. 21 UCLA**, the Hayward Field tribute in Night Forest with Green Strike speed-streak wings. **No. 3 Notre Dame wears green against Stanford** for the annual Irish Wear Green game, and **Florida brings out the retro helmet against South Carolina**, the 60th anniversary nod to Steve Spurrier's 1966 Heisman season. On top of that, No. 2 Georgia visits No. 6 Alabama under the lights, No. 1 Texas and Oklahoma meet at the Cotton Bowl, and USC walks into the 19th full-stadium Penn State White Out.
+Week 6 of the 2026 college football season has the best set of games on the calendar so far, and three of the biggest uniforms of the year were locked in before it started. **Oregon debuts its new Origin of Speed uniform against No. 21 UCLA**, the Hayward Field tribute in Night Forest with Green Strike speed-streak wings. **No. 3 Notre Dame wears green against Stanford** for the annual Irish Wear Green game, and **Florida brings out the retro helmet against South Carolina**, the 60th anniversary nod to Steve Spurrier's 1966 Heisman season. Then on Wednesday, **Kentucky unveiled a Power K throwback for LSU**, a revival of the look it wore from 1975 to 1991. On top of that, No. 2 Georgia visits No. 6 Alabama under the lights, No. 1 Texas and Oklahoma meet at the Cotton Bowl, and USC walks into the 19th full-stadium Penn State White Out.
 
 Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is expected to wear. A look is marked **Confirmed** when the school itself has announced it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post their combination between Wednesday and game day, so expect a lot of Expected tags to flip to Confirmed by Friday night. We update this page as each school posts. ESPN and the AP poll call this Week 6, and the rankings below are from this week's AP poll. All times are Eastern. Last week's looks and final scores are in our [Week 5 uniform guide](/stories/college-football-week-5-uniforms-2026).
 
@@ -60,13 +60,16 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 **Saturday, 7 p.m., ESPN.** **Kentucky: Confirmed, Power K throwback.** Kentucky unveiled it on Wednesday: a revival of the 1975 to 1991 look, with a white helmet carrying a triple stripe, the Power K on the sides and CATS above the facemask, a plain blue jersey with CATS on the shoulders and no KENTUCKY on the chest, and white pants with a Power K on the right hip. A week after the chrome helmet at South Carolina, this is the second straight game Kentucky has broken from the standard set. **LSU: Expected in white**, the gold helmet, white jersey and gold pants on the road. LSU is the one SEC team that wears white at home, but in Lexington the Tigers are the visitor.
 
 <img src="/images/posts/kentucky-uniform-schedule-2026/power-k-throwback-lsu-tunnel.jpg" alt="Kentucky Power K throwback uniform for the LSU game, Week 6 2026" style="width:100%;max-width:520px;display:block;margin:1em auto 0.3em;border-radius:10px;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: Kentucky Football.</p> More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule](/stories/kentucky-uniform-schedule-2026).
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: Kentucky Football.</p>
+
+More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule](/stories/kentucky-uniform-schedule-2026).
 
 ## Alternates and Special Looks This Week
 
 - **Oregon, Origin of Speed (Confirmed).** The debut of the Night Forest Hayward Field tribute with Green Strike speed-streak wings, against UCLA.
 - **Notre Dame, Irish Wear Green (Confirmed).** Green jersey, green pants, gold helmet, Leprechaun on the sleeves, against Stanford.
 - **Florida, Spurrier retro helmet (Confirmed).** Royal blue helmet with the block F in a white oval, white jersey, white pants, from the published season schedule, against South Carolina.
+- **Kentucky, Power K throwback (Confirmed).** White triple-stripe helmet with the Power K and CATS above the facemask, a plain blue jersey with CATS on the shoulders and white pants, against LSU.
 - **UNLV, 1976 Bicentennial helmet (Confirmed).** For Homecoming against North Dakota State, UNLV [announced a throwback helmet](https://unlvrebels.com/news/2026/8/31/football-patriotic-helmet-design-unveiled-for-oct-10-homecoming-game.aspx) from its 1976 season: a white shell with a red facemask and a red UNLV REBELS decal in a mid-1970s font, flanked by the Minute Man statue from Concord, Massachusetts. It honors the 1976 team and the country's 250th birthday. The jersey and pants have not been announced.
 - **Penn State, White Out (crowd, Confirmed).** The stadium wears white against USC. The team is expected in its home navy.
 - **West Virginia, Coal Rush (watch).** WVU has made Arizona its Coal Rush game, with fans asked to wear black, and the Mountaineers wore the all black Coal Rush set for the two previous editions. Black is expected but not yet confirmed for this one.
@@ -277,13 +280,13 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ## The Bottom Line
 
-Week 6 has three alternates locked in and all three are worth staying up for. Oregon's Origin of Speed is the debut of the week, Notre Dame in green is the tradition of the week, and Florida's retro helmet against Spurrier's other school is the best story of the week. UNLV quietly added a fourth with the 1976 Minute Man helmet for Homecoming. The two biggest games should look like they always do: Alabama in crimson against Georgia in white, and Texas in white against Oklahoma in crimson at the Cotton Bowl. The open questions are the Homecoming hosts, Michigan State, Ohio State, Northwestern, Cal and Toledo, plus whether West Virginia confirms all black for Coal Rush and whether Pitt dresses up for the 1976 team. We will flip every Expected on this page to Confirmed as the schools post.
+Week 6 has five special looks locked in. Oregon's Origin of Speed is the debut of the week, Notre Dame in green is the tradition of the week, and Florida's retro helmet against Spurrier's other school is the best story of the week. Kentucky's Power K throwback against LSU is the late add we like most, and UNLV quietly added the 1976 Minute Man helmet for Homecoming. The two biggest games should look like they always do: Alabama in crimson against Georgia in white, and Texas in white against Oklahoma in crimson at the Cotton Bowl. The open questions are the Homecoming hosts, Michigan State, Ohio State, Northwestern, Cal and Toledo, plus whether West Virginia confirms all black for Coal Rush and whether Pitt dresses up for the 1976 team. We will flip every Expected on this page to Confirmed as the schools post.
 
 ## Frequently Asked Questions
 
 **What are college football teams wearing in Week 6?**
 
-Most top teams are in standard sets for Week 6, with home teams in color and visitors in white. The confirmed specials are Oregon's new Origin of Speed uniform against UCLA, Notre Dame's Irish Wear Green set against Stanford, Florida's retro helmet with a white jersey and white pants against South Carolina, and UNLV's 1976 Bicentennial throwback helmet for Homecoming against North Dakota State. Every game is listed above with its confirmed or expected uniform.
+Most top teams are in standard sets for Week 6, with home teams in color and visitors in white. The confirmed specials are Oregon's new Origin of Speed uniform against UCLA, Notre Dame's Irish Wear Green set against Stanford, Florida's retro helmet with a white jersey and white pants against South Carolina, Kentucky's Power K throwback against LSU, and UNLV's 1976 Bicentennial throwback helmet for Homecoming against North Dakota State. Every game is listed above with its confirmed or expected uniform.
 
 **What is Oregon wearing against UCLA?**
 
@@ -296,6 +299,10 @@ Saturday, October 10, against Stanford at Notre Dame Stadium, 3:30 p.m. on NBC. 
 **Is Florida wearing throwbacks against South Carolina?**
 
 Yes. Florida's published 2026 uniform schedule has the retro helmet, white jersey and white pants for South Carolina on October 10. The blue helmet with the block F in a white oval comes from the throwback set honoring Steve Spurrier's 1966 Heisman season, 60 years later. Spurrier later coached South Carolina for 11 seasons.
+
+**What is Kentucky wearing against LSU?**
+
+Kentucky wears its Power K throwback against LSU on Saturday, October 10, at Kroger Field: a white helmet with a triple stripe, the Power K and CATS above the facemask, a plain blue jersey with CATS on the shoulders, and white pants with a Power K on the hip. It brings back the look Kentucky wore from 1975 to 1991. LSU is expected in white.
 
 **What is Alabama wearing against Georgia?**
 
