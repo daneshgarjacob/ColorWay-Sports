@@ -3,8 +3,8 @@ title: "Troy Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-01"
-excerpt: "What Troy wears every game in 2026: three helmets in four games, the cardinal and white jerseys and the week-by-week Trojans uniform schedule."
+updatedDate: "2026-10-06"
+excerpt: "What Troy wears every game in 2026: a new black jersey, three helmets, the cardinal and white sets and the week-by-week Trojans uniform schedule."
 gradient: "linear-gradient(135deg, #862633 0%, #4a1219 55%, #b1b3b3 130%)"
 cardStyle: words
 kicker: Schedule
@@ -13,19 +13,20 @@ teams: ["troy-trojans", "sun-belt"]
 resurfaceOnUpdate: true
 ---
 
-Troy has already worn three different helmets in four games, which makes the Trojans one of the harder teams in the Sun Belt to predict week to week. This is the full Troy 2026 uniform schedule: the cardinal and white jerseys, the white, cardinal and black helmets, every game played so far and the expected look for the rest of the season, starting with Southern Miss on a Tuesday night at The Vet on October 6. We update this page as each combination is confirmed.
+Troy has worn three different helmets in five games and broke out a black jersey for the first time on a Tuesday night against Southern Miss, which makes the Trojans one of the harder teams in the Sun Belt to predict week to week. This is the full Troy 2026 uniform schedule: the cardinal, white and black jerseys, the white, cardinal and black helmets, every game played so far and the expected look for the rest of the season, starting with Louisiana on October 17. We update this page as each combination is confirmed.
 
 ## The Troy 2026 Uniform Sets
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: #862633; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Cardinal Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Cardinal jersey with white TROY across the chest and white numerals. Worn with cardinal pants against Sam Houston and silver pants against Alabama State.</div></div>
   <div style="background: #ffffff; color: #862633; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with cardinal TROY and cardinal numerals. Worn with cardinal pants at Missouri and black pants at Utah State.</div></div>
+  <div style="background: #111111; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Black Alternate</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Black jersey with white TROY across the chest and cardinal numerals trimmed in white. Worn for the first time against Southern Miss on October 6, with the white helmet and white pants.</div></div>
   <div style="background: #f4f4f4; color: #862633; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">A white shell with the cardinal T and a cardinal stripe. Worn against Sam Houston and at Missouri.</div></div>
   <div style="background: #4a1219; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Cardinal Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">A cardinal shell with a silver center stripe and the T on the front bumper. Worn once, against Alabama State.</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Black Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">A black shell with a cardinal and white stripe and a cardinal facemask. Worn once, at Utah State, with black pants.</div></div>
 </div>
 
-The uniforms are Adidas, and the base of the closet is cardinal and white with silver and black as accents. What sets Troy apart this season is how often the helmet changes. Head coach Gerad Parker's team opened in white helmets, went to cardinal for the second home game, back to white at Missouri and then black at Utah State. The jersey rule has held, cardinal at home and white on the road, but nothing above or below it has stayed fixed.
+The uniforms are Adidas, and the base of the closet is cardinal and white with silver and black as accents. What sets Troy apart this season is how often the helmet changes. Head coach Gerad Parker's team opened in white helmets, went to cardinal for the second home game, back to white at Missouri, black at Utah State and white again, this time with black trim on the T, for Southern Miss. The jersey rule held for four games, cardinal at home and white on the road, until the black jersey came out at The Vet on October 6.
 
 ## The Full Troy 2026 Uniform Schedule, Week by Week
 
@@ -34,7 +35,7 @@ The uniforms are Adidas, and the base of the closet is cardinal and white with s
   <div style="background: #862633; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / Silver</div></div>
   <div style="background: #ffffff; color: #862633; border: 2px solid #862633; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Cardinal</div></div>
   <div style="background: #ffffff; color: #111111; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
-  <div style="background: #862633; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 6 (TUE)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 6 (TUE)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Black / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #862633; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UL Monroe</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal (Military)</div></div>
@@ -53,7 +54,7 @@ The uniforms are Adidas, and the base of the closet is cardinal and white with s
 
 **September 26 at Utah State.** ★ Confirmed from Troy's own game photography, dated to the day of the game: **black helmet, white jersey, black pants**, the first appearance of the black helmet this season. Utah State wore navy. The Aggies won 21-10. More on our [Utah State 2026 uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
-**October 6 vs. Southern Miss.** Cardinal expected. A Tuesday night Sun Belt opener at The Vet, 8 p.m. Eastern on ESPN2, and the program has billed it as Pack The Vet. A midweek national TV game at home is exactly the kind of night for the cardinal or black helmet. Southern Miss is expected in white.
+**October 6 vs. Southern Miss.** ★ Confirmed from the ESPN2 broadcast: **white helmet, black jersey, white pants**, the first black jersey of the season, for the Tuesday night Sun Belt opener the program billed as Pack The Vet. The jersey has cardinal numerals trimmed in white, and the white helmet carried a black-outlined T. Southern Miss wore white jerseys and white pants with the black helmet. Troy won 55-34. Our [Southern Miss 2026 uniform schedule](/stories/southern-miss-uniform-schedule-2026) has the Golden Eagles side.
 
 **October 10.** Bye.
 
@@ -73,21 +74,21 @@ The uniforms are Adidas, and the base of the closet is cardinal and white with s
 
 ## Which Helmet Will Troy Wear?
 
-This is the question every week. Troy has used the white helmet twice, once at home and once on the road, and the cardinal and black helmets once each. The pants have changed every game too: cardinal, silver, cardinal again and black. Troy has not published a season uniform grid, so the grid above only names the expected jersey. The black helmet with black pants at Utah State was the boldest look so far, and the Tuesday night game against Southern Miss on ESPN2 is the obvious candidate to see it again at home. We will not guess until it is confirmed.
+This is the question every week. Troy has used the white helmet three times, twice at home and once on the road, and the cardinal and black helmets once each. The pants have changed nearly every game too: cardinal, silver, cardinal again, black and white. Troy has not published a season uniform grid, so the grid above only names the expected jersey. The Tuesday night game against Southern Miss on ESPN2 brought the black jersey instead of the black helmet, so both dark pieces are now in play for the rest of the home schedule. We will not guess until each one is confirmed.
 
 ## The Bottom Line
 
-Four games in, Troy has stuck to cardinal at home and white on the road and changed nearly everything else, with three helmets and three pant colors already on the field. The cardinal helmet with silver pants against Alabama State is the most distinctive look, and the black helmet at Utah State shows the Trojans are willing to go dark on the road. The questions left are what comes out for Pack The Vet, Military Appreciation and Homecoming. The grid above has every date, and we add a star as each uniform is confirmed.
+Five games in, Troy has worn cardinal, white and now black jerseys, with three helmets and four pant colors already on the field. The cardinal helmet with silver pants against Alabama State is the most distinctive look, and the black helmet at Utah State shows the Trojans are willing to go dark on the road. Pack The Vet brought the black jersey and a 55-34 win, and the questions left are what comes out for Military Appreciation and Homecoming. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Troy wearing this week?**
 
-Troy is off this week and hosts Southern Miss on Tuesday, October 6, where the cardinal home jersey is expected. The Trojans wore cardinal jerseys in both home games so far, with the white helmet and cardinal pants against Sam Houston and the cardinal helmet and silver pants against Alabama State. Troy has not announced its helmet for the Southern Miss game.
+Troy is off this week after beating Southern Miss 55-34 on Tuesday, October 6, in a white helmet, black jersey and white pants. The next game is at Louisiana on Saturday, October 17, where the white road jersey is expected. Troy has worn white in both road games so far.
 
 **How many helmets does Troy have in 2026?**
 
-At least three. Troy has worn a white helmet with the cardinal T, a cardinal helmet with a silver stripe and a black helmet with a cardinal and white stripe through the first four games.
+At least three. Troy has worn a white helmet with the cardinal T, a cardinal helmet with a silver stripe and a black helmet with a cardinal and white stripe, and the white helmet came out with a black-outlined T against Southern Miss.
 
 **What are Troy's football uniforms for 2026?**
 
@@ -99,7 +100,7 @@ Louisiana Tech on Saturday, November 7 at Veterans Memorial Stadium in Troy, Ala
 
 **When does Troy play Southern Miss in 2026?**
 
-Tuesday, October 6 at 8 p.m. Eastern at Veterans Memorial Stadium, on ESPN2. Troy has billed the game as Pack The Vet.
+Tuesday, October 6 at 8 p.m. Eastern at Veterans Memorial Stadium, on ESPN2, billed as Pack The Vet. Troy won 55-34 in its first black jersey of the season.
 
 **What is Troy's military appreciation game in 2026?**
 
