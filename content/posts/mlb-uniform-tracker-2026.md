@@ -27,7 +27,36 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Wednesday, October 7
 
-Division Series Game 3 day in the American League, and the first time either ALDS has moved. Up 2-0, the White Sox came home to a loud Rate Field with a chance to sweep and went with the **black alternate** again, the same "Sox" jersey they wore for both wins in Cleveland, this time over the home white pinstriped pants. The Guardians wore the **road gray** with "Cleveland" across the chest. Black against gray is darker and quieter than the red-against-black look from Game 2, and we grade it a **B**. The National League plays Game 4 tonight, Dodgers at Braves and Brewers at Padres, and the Rays and Yankees play Game 3 in the Bronx; those cards go up at first pitch.
+Division Series Game 3 day in the American League, and the first time either ALDS has moved. Up 2-0, the White Sox came home to a loud Rate Field with a chance to sweep and went with the **black alternate** again, the same "Sox" jersey they wore for both wins in Cleveland, this time over the home white pinstriped pants. The Guardians wore the **road gray** with "Cleveland" across the chest. Black against gray is darker and quieter than the red-against-black look from Game 2, and we grade it a **B**. In Atlanta, the Braves are down 2-1 to the Dodgers and facing elimination in NLDS Game 4, and they went back to the **home whites** after wearing red in Game 3. The Dodgers stayed in the **road gray** with the blue "LA" cap. The Rays and Yankees play ALDS Game 3 in the Bronx tonight and the Brewers and Padres play NLDS Game 4 in San Diego; those cards go up at first pitch.
+
+### Los Angeles Dodgers at Atlanta Braves
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/dodgers-road-gray.png" alt="Los Angeles Dodgers Road Gray jersey worn October 7 2026 against the Braves, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">DODGERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #b7b7bd; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
+      <p data-cap="Blue" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Blue</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/braves-home-white.jpg" alt="Atlanta Braves Home White jersey worn October 7 2026 against the Dodgers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BRAVES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f0f0f0; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <p data-cap="Red Bill" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Red Bill</p>
+    </div>
+  </div>
+</div>
+</div>
 
 ### Cleveland Guardians at Chicago White Sox
 
