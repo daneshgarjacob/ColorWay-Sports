@@ -34,9 +34,9 @@ Both Division Series are best of five in a 2-2-1 format. The higher seed hosts G
 
 **ALDS: Chicago White Sox at Cleveland Guardians (AL No. 2, 85-77).** Game 1: Saturday, October 3, 1:00 p.m. ET at Progressive Field. Game 2: Monday, October 5, 5:00 p.m. ET at Progressive Field. Game 3: Wednesday, October 7, 4:00 p.m. ET at Rate Field on TBS. Game 4 (if needed): Thursday, October 8, at Rate Field. Game 5 (if needed): Saturday, October 10, at Progressive Field.
 
-**NLDS: San Diego Padres at Milwaukee Brewers (NL No. 1, 103-59).** Game 1: Saturday, October 3, 8:30 p.m. ET at American Family Field. Game 2: Sunday, October 4, 4:00 p.m. ET at American Family Field. Game 3: Tuesday, October 6, 9:30 p.m. ET (6:30 p.m. PT) at Petco Park on FS1. Game 4 (if needed): Wednesday, October 7, 10:00 p.m. ET (7:00 p.m. PT) at Petco Park. Game 5 (if needed): Friday, October 9, at American Family Field.
+**NLDS: San Diego Padres at Milwaukee Brewers (NL No. 1, 103-59).** Game 1: Saturday, October 3, 8:30 p.m. ET at American Family Field. Game 2: Sunday, October 4, 4:00 p.m. ET at American Family Field. Game 3: Tuesday, October 6, 9:30 p.m. ET (6:30 p.m. PT) at Petco Park on FS1. Game 4: Wednesday, October 7, 10:00 p.m. ET (7:00 p.m. PT) at Petco Park. Game 5 (if needed): Friday, October 9, at American Family Field.
 
-**NLDS: Atlanta Braves at Los Angeles Dodgers (NL No. 2, 100-62).** Game 1: Saturday, October 3, 4:00 p.m. ET (1:00 p.m. PT) at Dodger Stadium on FOX. Game 2: Sunday, October 4, 8:00 p.m. ET (5:00 p.m. PT) at Dodger Stadium on FS1. Game 3: Tuesday, October 6, 6:00 p.m. ET (3:00 p.m. PT) at Truist Park on FS1. Game 4 (if needed): Wednesday, October 7, 6:00 p.m. ET (3:00 p.m. PT) at Truist Park. Game 5 (if needed): Friday, October 9, at Dodger Stadium.
+**NLDS: Atlanta Braves at Los Angeles Dodgers (NL No. 2, 100-62).** Game 1: Saturday, October 3, 4:00 p.m. ET (1:00 p.m. PT) at Dodger Stadium on FOX. Game 2: Sunday, October 4, 8:00 p.m. ET (5:00 p.m. PT) at Dodger Stadium on FS1. Game 3: Tuesday, October 6, 6:00 p.m. ET (3:00 p.m. PT) at Truist Park on FS1. Game 4: Wednesday, October 7, 6:00 p.m. ET (3:00 p.m. PT) at Truist Park. Game 5 (if needed): Friday, October 9, at Dodger Stadium.
 
 All four Game 3s are set: both NLDS Game 3s are Tuesday, October 6, on FS1, and both ALDS Game 3s are Wednesday, October 7, on TBS.
 
@@ -110,8 +110,8 @@ Milwaukee finished with the best record in baseball, 103-59.
 
 - Game 1, Sat. Oct. 3: Padres Khaki Road at Brewers Home Cream · Grade: **C** · Brewers 3, Padres 2
 - Game 2, Sun. Oct. 4: Padres Khaki Road at Brewers Home Cream · Grade: **C** · Brewers 4, Padres 3
-- Game 3, Tue. Oct. 6: Brewers Navy Alternate at Padres Home White · Grade: **B-**
-- Game 4, Wed. Oct. 7 (if needed): Brewers TBD at Padres TBD · Grade: pending
+- Game 3, Tue. Oct. 6: Brewers Navy Alternate at Padres Home White · Grade: **B-** · Padres 4, Brewers 3 (Brewers lead 2-1)
+- Game 4, Wed. Oct. 7: Brewers TBD at Padres TBD · Grade: pending
 - Game 5, Fri. Oct. 9 (if needed): Padres TBD at Brewers TBD · Grade: pending
 
 ## What Are the Dodgers Wearing in the NLDS?

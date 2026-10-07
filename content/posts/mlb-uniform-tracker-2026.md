@@ -27,14 +27,14 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Tuesday, October 6
 
-Division Series Game 3 day in the National League. With the Dodgers and Braves tied 1-1, Atlanta came home to Truist Park and went straight to the red alternate, the same look it wore to close out the Phillies in Game 3 of the Wild Card Series: red jersey with the navy "Braves" script, home white pants and the navy cap with the red bill. The Dodgers wore the road gray with the "Dodgers" script, gray pants and the blue "LA" cap. Red against gray is the best contrast this series has had, and we grade it an **A-**. Los Angeles won it 3-1 and leads the series 2-1. Out west, the Brewers took a 2-0 series lead to Petco Park and went with the navy alternate over gray pants and the navy cap with the yellow front panel, not the new powder blue road set. The Padres are in their home white pinstripes with the all-brown cap. Navy and brown are both dark, so the caps and trim blend more than they pop, and we grade it a **B-**. For every round's uniforms, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
+Division Series Game 3 day in the National League. With the Dodgers and Braves tied 1-1, Atlanta came home to Truist Park and went straight to the red alternate, the same look it wore to close out the Phillies in Game 3 of the Wild Card Series: red jersey with the navy "Braves" script, home white pants and the navy cap with the red bill. The Dodgers wore the road gray with the "Dodgers" script, gray pants and the blue "LA" cap. Red against gray is the best contrast this series has had, and we grade it an **A-**. Los Angeles won it 3-1 and leads the series 2-1. Out west, the Brewers took a 2-0 series lead to Petco Park and went with the navy alternate over gray pants and the navy cap with the yellow front panel, not the new powder blue road set. The Padres are in their home white pinstripes with the all-brown cap. Navy and brown are both dark, so the caps and trim blend more than they pop, and we grade it a **B-**. San Diego won it 4-3 to cut the Brewers' series lead to 2-1. For every round's uniforms, see our [MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026).
 
 ### Milwaukee Brewers at San Diego Padres
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Padres 4, Brewers 3</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
