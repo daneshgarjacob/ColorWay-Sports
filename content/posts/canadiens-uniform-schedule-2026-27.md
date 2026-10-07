@@ -39,7 +39,7 @@ We build these before the season rather than after it, so the closet is here fro
 
 **The Canadiens unveiled their Heritage Classic sweater on Wednesday, October 7: red, with a single blue band across the chest and arms, and a vintage off-white for the trim and the laced collar.** The CH has been redrawn to echo older versions of the crest and is cut from felt with running-stitch detailing. Two firsts: **"Les Habitants"** appears on a Canadiens sweater for the first time, and the event name at the back hem is in French, next to symbols from the flag of the city of Montreal. A fleur-de-lis loop label nods to Quebec. Fanatics designed it with the team and the league.
 
-It gets one game: Montreal at Winnipeg on Sunday, October 25, at 7 p.m. ET at Princess Auto Stadium. The Jets wear a white Heritage Classic sweater based on their 1980s and 1990s look, so it is red against white outdoors. See the [Winnipeg Jets 2026-27 uniform schedule](/stories/winnipeg-jets-uniform-schedule-2026-27).
+It gets one game: Montreal at Winnipeg on Sunday, October 25, at 7 p.m. ET at Princess Auto Stadium. The Jets wear a white Heritage Classic sweater based on their 1980s and 1990s look, so it is red against white outdoors. See the [Winnipeg Jets 2026-27 uniform schedule](/stories/winnipeg-jets-uniform-schedule-2026-27), and our [2026 Heritage Classic jerseys breakdown](/stories/2026-nhl-heritage-classic-jerseys) for both sweaters and our grades.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2107835727111405865"></a></blockquote>

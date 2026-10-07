@@ -117,7 +117,7 @@ As of September 29, these clubs have announced nothing new for 2026-27 other tha
 
 The NHL has three outdoor games this season. **The first two outdoor sweaters, for the Heritage Classic, were unveiled on October 7.**
 
-- **Heritage Classic, Sunday, October 25:** Montreal at Winnipeg, Princess Auto Stadium, 7 p.m. ET. **Unveiled October 7.** The Jets wear white, a take on their 1980s and 1990s look with a chain-stitched felt crest, navy and red stripes and a streaking jet along the hem. The Canadiens wear red with a single blue chest band, a redrawn felt CH, an off-white laced collar and "Les Habitants" on a Montreal sweater for the first time. Details: [Jets schedule](/stories/winnipeg-jets-uniform-schedule-2026-27) and [Canadiens schedule](/stories/canadiens-uniform-schedule-2026-27).
+- **Heritage Classic, Sunday, October 25:** Montreal at Winnipeg, Princess Auto Stadium, 7 p.m. ET. **Unveiled October 7.** The Jets wear white, a take on their 1980s and 1990s look with a chain-stitched felt crest, navy and red stripes and a streaking jet along the hem. The Canadiens wear red with a single blue chest band, a redrawn felt CH, an off-white laced collar and "Les Habitants" on a Montreal sweater for the first time. Details: [Jets schedule](/stories/winnipeg-jets-uniform-schedule-2026-27) and [Canadiens schedule](/stories/canadiens-uniform-schedule-2026-27). Full breakdown and grades: [2026 Heritage Classic jerseys](/stories/2026-nhl-heritage-classic-jerseys).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLJets/status/2107837097399001435"></a></blockquote>
