@@ -26,9 +26,65 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
 
 ## Tuesday, October 6
 
-9 games on Tuesday, and the five early games are confirmed from game photos, every club in its standard dark at home and white on the road. Carolina at Montreal is the best of the batch at a **B+**, Hurricanes white against the Canadiens red, and Carolina won it 6-4. Ottawa at Detroit (Red Wings 5-3) and Minnesota at Buffalo (Sabres 3-2 in overtime) also grade a **B+**. Toronto beat Nashville 5-4 in overtime in blue against the Predators whites, with No. 1 pick Gavin McKenna scoring his first NHL goal, and Utah won 5-3 in New Jersey against the Devils red; those two grade a **B**. The four late games are added once we see the photos.
+9 games on Tuesday, and the seven finished early are confirmed from game photos, every club in its standard dark at home and white on the road. Carolina at Montreal is one of the best of the night at a **B+**, Hurricanes white against the Canadiens red, and Carolina won it 6-4. The Rangers beat the Islanders 5-2 in blue against the Islanders whites, Chicago beat St. Louis 4-2 in red against the Blues whites, Detroit beat Ottawa 5-3 and Buffalo beat Minnesota 3-2 in overtime; all four also grade a **B+**. Toronto beat Nashville 5-4 in overtime in blue against the Predators whites, with No. 1 pick Gavin McKenna scoring his first NHL goal, and Utah won 5-3 in New Jersey against the Devils red; those two grade a **B**. Vegas at Seattle and Florida at Los Angeles are added once we see the photos.
 
 <!-- nhl-day:2026-10-06:start -->
+
+### St. Louis Blues at Chicago Blackhawks
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Blackhawks 4, Blues 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/blues-road.jpg" alt="St. Louis Blues Road White sweater worn October 6 2026 against the Blackhawks, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BLUES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/blackhawks-home.jpg" alt="Chicago Blackhawks Home Red sweater worn October 6 2026 against the Blues, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BLACKHAWKS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #CF0A2C; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Red</p>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">B+</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
+</div>
+</div>
+
+### New York Islanders at New York Rangers
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rangers 5, Islanders 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/islanders-road.jpg" alt="New York Islanders Road White sweater worn October 6 2026 against the Rangers, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ISLANDERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/rangers-home.jpg" alt="New York Rangers Home Blue sweater worn October 6 2026 against the Islanders, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RANGERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0038A8; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Blue</p>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">B+</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
+</div>
+</div>
 
 ### Nashville Predators at Toronto Maple Leafs
 

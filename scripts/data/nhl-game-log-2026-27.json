@@ -59,7 +59,9 @@
     "NSH Road White @ TOR Home Blue": "B",
     "OTT Road White @ DET Home Red": "B+",
     "UTA Road White @ NJD Home Red": "B",
-    "MIN Road White @ BUF Home Royal Blue": "B+"
+    "MIN Road White @ BUF Home Royal Blue": "B+",
+    "NYI Road White @ NYR Home Blue": "B+",
+    "STL Road White @ CHI Home Red": "B+"
   },
   "games": {
     "2026-09-29 FLA@CAR": { "confirmed": true, "source": "ESPN game photos + banner-night highlight" },
@@ -111,6 +113,8 @@
     "2026-10-06 OTT@DET": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-06 UTA@NJD": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-06 MIN@BUF": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-06 NYI@NYR": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-06 STL@CHI": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-09 NYR@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
     "2026-10-17 NJD@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
     "2026-11-01 MIN@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
