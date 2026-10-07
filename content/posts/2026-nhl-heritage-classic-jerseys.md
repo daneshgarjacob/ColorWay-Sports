@@ -17,7 +17,7 @@ teams: ["winnipeg-jets", "montreal-canadiens"]
 ---
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 0.4em;"><img src="/images/posts/winnipeg-jets-uniform-schedule-2026-27/heritage-classic-2026-white-jersey.jpg" alt="Winnipeg Jets 2026 Heritage Classic white jersey with the vintage round Jets crest and navy and red stripes" style="width:100%;border-radius:10px;" decoding="async" /><img src="/images/posts/winnipeg-jets-uniform-schedule-2026-27/heritage-classic-2026-full-uniform.jpg" alt="Full Winnipeg Jets 2026 Heritage Classic uniform: white sweater, red pants and striped socks" style="width:100%;border-radius:10px;" decoding="async" /></div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photos: Winnipeg Jets.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photos: Winnipeg Jets. Cover photos: Winnipeg Jets and Montreal Canadiens.</p>
 
 **The 2026 NHL Heritage Classic jerseys are out.** The Winnipeg Jets and Montreal Canadiens unveiled their outdoor sweaters on Wednesday, October 7, and both teams went back in time. Winnipeg wears a **white** sweater built on the original Jets look of the 1980s and 1990s. Montreal wears a **red** sweater with a single blue chest band, a redrawn felt CH and, for the first time ever on a Canadiens jersey, the words **"Les Habitants."**
 
@@ -60,6 +60,9 @@ Captain Adam Lowry modeled it, with the C on the chest, in the team's reveal:
 Then come the firsts. **"Les Habitants" appears on a Canadiens jersey for the first time**, on the back of the collar. The event name at the back hem is written in French and sits next to symbols from the flag of the City of Montreal. A fleur-de-lis loop label nods to Quebec.
 
 We are not running Montreal's product photos here, so here is the sweater straight from the Canadiens:
+
+<img src="/images/posts/2026-nhl-heritage-classic-jerseys/canadiens-heritage-classic-jersey.jpg" alt="Montreal Canadiens 2026 Heritage Classic red jersey with blue chest band, felt CH crest and Les Habitants collar" style="width:100%;max-width:520px;display:block;margin:1em auto 0.3em;border-radius:10px;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: Montreal Canadiens.</p>
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2107835727111405865"></a></blockquote>
