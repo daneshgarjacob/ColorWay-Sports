@@ -2,7 +2,7 @@
 title: "Atlanta Falcons 2026 Uniform Schedule: 1966 Throwback Dates, the New Red Home Set, and Every Week"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-05"
+updatedDate: "2026-10-07"
 excerpt: "The Falcons wear the 1966 throwback, red helmet and black jersey, in Week 7 vs the 49ers and Week 13 vs the Lions. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #A71930 0%, #6b0f1e 55%, #000000 130%)"
 coverImage: "/images/posts/falcons-uniform-schedule-2026/cover.jpg"
@@ -33,7 +33,7 @@ Nine home games including Madrid, eight on the road, and a Week 11 bye.
   <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Panthers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red &middot; Black Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Packers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White · Black Pants · TNF</div></div>
   <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Saints</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red · Black Helmet · White Pants · MNF</div></div>
-  <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ravens</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red · SNF</div></div>
+  <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ravens</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red · Black Pants · SNF</div></div>
   <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red</div></div>
   <div style="background: #101010; color: #ffffff; border: 2px solid #A71930; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs 49ers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ 1966 Throwback</div></div>
   <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Buccaneers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">Red &middot; Expected</div></div>
@@ -50,6 +50,12 @@ Nine home games including Madrid, eight on the road, and a Week 11 bye.
 </div>
 
 **Every game on that grid except Week 8 is a confirmed uniform assignment.** Atlanta released the full jersey schedule on September 10, split into three graphics for red, white and throwback. The rotation is red at home, white on the road, the 1966 throwback in Weeks 7 and 13, and two road games in red: Week 4 in New Orleans and Week 8 in Tampa Bay, where the home team wears white.
+
+**Week 5 combination, announced:** black helmet, red jersey, black pants for Sunday Night Football against Baltimore on October 11 at Mercedes-Benz Stadium. It is the first time the new red home jersey has been paired with the black pants, after white pants in both earlier red games, Week 2 against Carolina and Week 4 at New Orleans. Atlanta posted the full combination on October 7.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AtlantaFalcons/status/2107910085804691692"></a></blockquote>
+</div>
 
 **Week 3 combination, announced:** black helmet, white jersey, black pants at Green Bay on Thursday Night Football, September 24. With the Packers at home in green, the black helmet and pants give the road whites a dark frame top and bottom.
 

@@ -3,7 +3,7 @@ title: "LSU Uniform Schedule 2026: Why the Tigers Wear White at Home, and Every 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-07"
 excerpt: "What LSU wears every game in 2026, including the home white tradition that flips every visiting team into color, week by week."
 gradient: "linear-gradient(135deg, #461D7C 0%, #2d1250 55%, #FDD023 130%)"
 cardStyle: words
@@ -56,7 +56,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 **October 3 vs. McNeese.** ★ Confirmed from the broadcast: **gold helmet, purple jersey, gold pants**. We had Home White down, so this is a correction: LSU went to purple at Tiger Stadium against the FCS Cowboys. McNeese wore a white helmet, white jersey and white pants. Sam Leavitt threw three touchdown passes, Harlem Berry ran for 125 yards, and LSU piled up 731 yards and a school-record 101 plays in a 63-14 win. The Tigers are 4-1.
 
-**October 10 at Kentucky.** White expected, with Kentucky in blue at Kroger Field.
+**October 10 at Kentucky.** White expected. Kentucky will be in its **Power K throwback**, unveiled October 7: a white helmet with a triple stripe, a blue CATS jersey and white pants, the Wildcats' look from 1975 to 1991. See the [Kentucky 2026 uniform schedule](/stories/kentucky-uniform-schedule-2026).
 
 **October 17 vs. Mississippi State.** Home White expected.
 
@@ -82,7 +82,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is LSU wearing this week?**
 
-LSU wore purple against McNeese on Saturday, October 3: gold helmet, purple jersey and gold pants, confirmed from the broadcast, in a 63-14 win that moved the Tigers to 4-1. Next up is a trip to Kentucky on October 10, where white is expected with Kentucky in blue. LSU wears white at home and, because its SEC hosts wear color, white on most road trips too. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+LSU wore purple against McNeese on Saturday, October 3: gold helmet, purple jersey and gold pants, confirmed from the broadcast, in a 63-14 win that moved the Tigers to 4-1. Next up is a trip to Kentucky on October 10, where white is expected with Kentucky in its Power K throwback. LSU wears white at home and, because its SEC hosts wear color, white on most road trips too. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are LSU's uniforms for 2026?**
 

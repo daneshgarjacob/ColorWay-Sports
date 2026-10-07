@@ -2,8 +2,8 @@
 title: "Winnipeg Jets Uniform Schedule 2026-27: Every Sweater and When They Wear It"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-10-05"
-excerpt: "Every Winnipeg Jets sweater for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
+updatedDate: "2026-10-07"
+excerpt: "Every Winnipeg Jets sweater for 2026-27, including the new white Heritage Classic jersey for Oct. 25 vs Montreal, and the game-by-game schedule."
 gradient: "linear-gradient(135deg, #041E42 0%, #004C97 100%)"
 cardStyle: words
 kicker: Uniform Schedule
@@ -31,8 +31,21 @@ We build these before the season rather than after it, so the closet is here fro
   <div style="background: #041E42; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Polar night blue with a full aviator-blue shoulder yoke, slim-thick-slim silver and white stripes on the sleeves, a three-stripe hem and the roundel crest with the maple leaf and fighter jet. Unchanged since 2011 and unchanged for 2026-27.</div></div>
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White with a navy full-length yoke, matching sleeve and hem stripes and the roundel crest. Unchanged for 2026-27.</div></div>
   <div style="background: #004C97; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Heritage Blue</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The WHA-inspired heritage blue: one red band between thin blue bands on the arms and below the crest, red numbers outlined in white, the classic Jets wordmark and red pants. A permanent alternate since 2021-22 and worn 13 times in 2025-26, so it returns. The 2026-27 dates have not been published; last year's list came out August 14.</div></div>
-  <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Heritage Classic, Oct 25</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Winnipeg hosts Montreal at Princess Auto Stadium on Sunday, October 25, 2026, with the alumni game the day before. A Heritage Classic specialty sweater is expected and has not been unveiled.</div></div>
+  <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Heritage Classic, Oct 25</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Winnipeg hosts Montreal at Princess Auto Stadium on Sunday, October 25, 2026. Unveiled October 7: a white sweater built on the 1980s and 1990s Jets look, with navy and red stripes, a chain-stitched felt crest and a streaking jet along the hem. Full breakdown below.</div></div>
   <div style="background: #f1f3f8; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Hometown Remix (Coming)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The league-wide Fanatics special edition, one sweater per club, built around each city's local culture. The NHL says the designs arrive shortly after the season opens on September 29; nothing has been revealed yet. <a href="/stories/nhl-hometown-remix-2026-27" style="color: inherit; text-decoration: underline;">Our Hometown Remix tracker</a> grades each one as it lands.</div></div>
+</div>
+
+## The 2026 Heritage Classic Sweater
+
+**The Jets unveiled their Heritage Classic sweater on Wednesday, October 7, and it is a white take on the original Jets look of the 1980s and 1990s.** The round Jets crest is cut from felt with chain-stitched detailing, the back numbers get the same two-layer felt treatment, and an all-new streaking jet graphic frames the event name along the hem. The navy and red striping on the arms and hem matches the stripes on the socks, and it is worn with red pants. It was designed by Fanatics with the team and the league, and it is meant to pair with the navy Heritage alternate the Jets already wear, so the throwback look now comes in a dark and a white version.
+
+It gets one game: the Tim Hortons NHL Heritage Classic against the Montreal Canadiens on Sunday, October 25, at 7 p.m. ET at Princess Auto Stadium. Montreal's sweater, unveiled the same day, is red with a single blue chest band and a redrawn felt CH, so the outdoor game is white against red. The [Canadiens 2026-27 uniform schedule](/stories/canadiens-uniform-schedule-2026-27) has their side.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1.2em 0 0.4em;"><img src="/images/posts/winnipeg-jets-uniform-schedule-2026-27/heritage-classic-2026-white-jersey.jpg" alt="Winnipeg Jets 2026 Heritage Classic white jersey with the vintage Jets crest and navy and red stripes" style="width:100%;border-radius:10px;" loading="lazy" decoding="async" /><img src="/images/posts/winnipeg-jets-uniform-schedule-2026-27/heritage-classic-2026-full-uniform.jpg" alt="Full Winnipeg Jets Heritage Classic uniform for October 25, 2026: white sweater, red pants, striped socks" style="width:100%;border-radius:10px;" loading="lazy" decoding="async" /></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photos: Winnipeg Jets.</p>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLJets/status/2107837097399001435"></a></blockquote>
 </div>
 
 ## The Winnipeg Jets Game-by-Game Uniform Schedule
@@ -50,7 +63,7 @@ We build these before the season rather than after it, so the closet is here fro
 
 **What uniforms do the Winnipeg Jets have for 2026-27?**
 
-The home dark, the road white, and the Heritage Blue third. There is also a one-off: Heritage Classic, Oct 25. The league-wide Hometown Remix special edition joins them once the NHL reveals it after the season opens. The closet section above describes each one.
+The home dark, the road white, and the Heritage Blue third. There is also a one-off: the white Heritage Classic sweater, unveiled October 7, for the outdoor game against Montreal on October 25. The league-wide Hometown Remix special edition joins them once the NHL reveals it after the season opens. The closet section above describes each one.
 
 **What are the Winnipeg Jets wearing tonight?**
 

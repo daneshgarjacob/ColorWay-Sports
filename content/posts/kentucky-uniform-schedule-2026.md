@@ -3,8 +3,8 @@ title: "Kentucky Uniform Schedule 2026: Every Jersey and When the Wildcats Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-04"
-excerpt: "The full Kentucky 2026 uniform schedule: blue jerseys at home, white on the road, three helmets, and what the Wildcats wore against Alabama."
+updatedDate: "2026-10-07"
+excerpt: "Kentucky brings back the Power K throwback vs LSU on Oct. 10. The full 2026 uniform schedule: blue at home, white on the road, and every helmet."
 gradient: "linear-gradient(135deg, #0033A0 0%, #0a2a70 55%, #FFFFFF 130%)"
 cardStyle: words
 kicker: Schedule
@@ -36,7 +36,7 @@ Twelve games, seven at Kroger Field, one bye, no alternate jerseys announced.
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0033A0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Chrome / White / White</div></div>
-  <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Power K Throwback</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -58,7 +58,10 @@ Home cells are blue, road cells are white, and a star marks a combination that h
 
 **October 3 at South Carolina**, Columbia. ★ Confirmed from the broadcast: **chrome helmet, white jersey, white pants**. The all-white road set was expected; the helmet was the surprise. It is a chrome silver shell with a blue center stripe and the blue UK logo, the first alternate helmet Kentucky has worn in 2026. South Carolina wore the white helmet, black jersey and black pants. Kentucky fell behind 17-0, rallied to force overtime, and won 35-34 when Kenny Minchey threw a 6-yard touchdown to Henry Boyer and the two-point conversion to Willie Rodriguez. The Wildcats are 4-1.
 
-**October 10 vs. LSU**, Lexington. Blue expected. LSU is the one SEC program that wears white at home, but this game is at Kroger Field, so the Tigers are the ones in white and Kentucky is in blue. [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026).
+**October 10 vs. LSU**, Lexington. ★ Confirmed: the **Power K throwback**, unveiled by Kentucky on October 7. It brings back the look the Wildcats wore from 1975 to 1991. The **white helmet** has a triple stripe down the middle, the Power K on both sides and CATS above the facemask. The **blue jersey** is about as plain as a modern uniform gets: no KENTUCKY across the chest, just CATS on the shoulders and stripes on the sleeves. The **white pants** carry a large Power K on the right hip and stripes down the side. It is the second time in eight days Kentucky has gone off script with the helmet, after the chrome shell at South Carolina, and this one changes everything below the helmet too. LSU is the visitor, so the Tigers are in white. [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026).
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1.2em 0 0.4em;"><img src="/images/posts/kentucky-uniform-schedule-2026/power-k-throwback-lsu-tunnel.jpg" alt="Kentucky Power K throwback uniform for LSU 2026: white helmet with triple blue stripe, blue CATS jersey, white pants" style="width:100%;border-radius:10px;" loading="lazy" decoding="async" /><img src="/images/posts/kentucky-uniform-schedule-2026/power-k-throwback-lsu-midfield.jpg" alt="Kentucky Wildcats Power K throwback uniform at midfield of Kroger Field, worn against LSU on October 10, 2026" style="width:100%;border-radius:10px;" loading="lazy" decoding="async" /></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photos: Kentucky Football.</p>
 
 **October 17 at Oklahoma**, Norman. White expected. Kentucky's first trip to Memorial Stadium as SEC opponents.
 
@@ -76,7 +79,7 @@ Home cells are blue, road cells are white, and a star marks a combination that h
 
 ## The Helmet Is the Only Question
 
-Kentucky's jersey is decided by the schedule. Blue at home, white on the road, white pants under both, and no alternate assigned to any 2026 date. What the program does not decide in advance is the helmet. The white shell opened the season, the blue shell came back for Alabama, a chrome shell debuted at South Carolina, and Kentucky tends to announce the combination two or three days before kickoff. When a combination is confirmed we star the cell above and add the detail to the game entry.
+Kentucky's jersey is mostly decided by the schedule. Blue at home, white on the road, white pants under both, with one exception: the Power K throwback against LSU on October 10. What the program does not decide in advance is the helmet. The white shell opened the season, the blue shell came back for Alabama, a chrome shell debuted at South Carolina, and Kentucky tends to announce the combination two or three days before kickoff. When a combination is confirmed we star the cell above and add the detail to the game entry.
 
 ## The Bottom Line
 
@@ -86,7 +89,7 @@ The Kentucky 2026 uniform schedule is two jerseys and three helmets. Blue jersey
 
 **What jersey is Kentucky wearing this week?**
 
-Kentucky wore the new chrome helmet with the white jersey and white pants at South Carolina on Saturday, October 3, and won 35-34 in overtime to move to 4-1. The week before, the Wildcats wore the white helmet, blue jersey and blue pants against South Alabama. Next is LSU at Kroger Field on October 10, where blue is expected. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
+Kentucky wore the new chrome helmet with the white jersey and white pants at South Carolina on Saturday, October 3, and won 35-34 in overtime to move to 4-1. The week before, the Wildcats wore the white helmet, blue jersey and blue pants against South Alabama. Next is LSU at Kroger Field on October 10, in the Power K throwback: white helmet with the triple stripe, blue CATS jersey and white pants. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
 
 **What are Kentucky's uniforms for 2026?**
 
@@ -94,7 +97,7 @@ Royal blue jersey with white numerals and white pants at home. White jersey with
 
 **Does Kentucky have an alternate uniform in 2026?**
 
-The chrome helmet came out at South Carolina on October 3, with the white jersey and white pants. No other alternate has been announced or assigned to a 2026 game. Kentucky has worn black and grey alternates in past seasons, so one could still appear, and the Louisville game on November 28 would be the obvious candidate.
+Yes. Kentucky unveiled a **Power K throwback** on October 7 for the LSU game on October 10, a revival of the 1975 to 1991 uniform with the triple-stripe white helmet, CATS on the jersey shoulders and a Power K on the pants. The chrome helmet also came out at South Carolina on October 3, with the white jersey and white pants.
 
 **Why did Kentucky wear a white helmet against Youngstown State?**
 

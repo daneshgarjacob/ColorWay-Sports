@@ -3,7 +3,7 @@ title: "New NHL Jerseys 2026-27: Every New Sweater, Throwback and Alternate Comi
 author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-09-29"
-updatedDate: "2026-09-30"
+updatedDate: "2026-10-07"
 excerpt: "Every new NHL jersey for 2026-27: Hometown Remix for all 32 teams, the Flames' 2004 throwback, the Rangers' navy shield, outdoor games and which clubs changed nothing."
 gradient: "linear-gradient(135deg, #0038A8 0%, #14284b 100%)"
 cardStyle: words
@@ -57,7 +57,7 @@ Buffalo announced on September 23 that the black-and-red **Goathead** alternate 
 
 ### Winnipeg Jets: Four Sweaters, One Outdoors
 
-The Jets' schedule, reported by The Hockey News today, has four looks: the home (26 games), the **Heritage** blue alternate (7 games, starting October 7 vs Colorado), the **Hometown Remix** (8 games) and the **Heritage Classic** sweater for the outdoor game against Montreal on October 25. Neither the Remix nor the Heritage Classic design had been unveiled when the schedule came out. [Jets uniform schedule](/stories/winnipeg-jets-uniform-schedule-2026-27).
+The Jets' schedule, reported by The Hockey News today, has four looks: the home (26 games), the **Heritage** blue alternate (7 games, starting October 7 vs Colorado), the **Hometown Remix** (8 games) and the **Heritage Classic** sweater for the outdoor game against Montreal on October 25. Neither the Remix nor the Heritage Classic design had been unveiled when the schedule came out; the Heritage Classic sweater, in white, followed on October 7. [Jets uniform schedule](/stories/winnipeg-jets-uniform-schedule-2026-27).
 
 ### Edmonton Oilers: Oil Country Returns
 
@@ -115,9 +115,14 @@ As of September 29, these clubs have announced nothing new for 2026-27 other tha
 
 ## Outdoor Games and Global Series Jerseys for 2026-27
 
-The NHL has three outdoor games this season. **None of the six outdoor sweaters has been unveiled.**
+The NHL has three outdoor games this season. **The first two outdoor sweaters, for the Heritage Classic, were unveiled on October 7.**
 
-- **Heritage Classic, Sunday, October 25:** Montreal at Winnipeg, Princess Auto Stadium. The first outdoor game of the season and the next uniform reveal to watch, since it is less than four weeks away.
+- **Heritage Classic, Sunday, October 25:** Montreal at Winnipeg, Princess Auto Stadium, 7 p.m. ET. **Unveiled October 7.** The Jets wear white, a take on their 1980s and 1990s look with a chain-stitched felt crest, navy and red stripes and a streaking jet along the hem. The Canadiens wear red with a single blue chest band, a redrawn felt CH, an off-white laced collar and "Les Habitants" on a Montreal sweater for the first time. Details: [Jets schedule](/stories/winnipeg-jets-uniform-schedule-2026-27) and [Canadiens schedule](/stories/canadiens-uniform-schedule-2026-27).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLJets/status/2107837097399001435"></a></blockquote>
+</div>
+
 - **Winter Classic, Thursday, December 31:** Colorado at Utah, Rice-Eccles Stadium in Salt Lake City, the first outdoor NHL game in the state. The logo is out (see our [Winter Classic logo history](/stories/nhl-winter-classic-2027-logo-history-ranked)); the commissioner said specialty sweaters are planned. Colorado Hockey Now, citing Icethetics, reported on September 28 that the Avalanche will wear an off-white sweater with burgundy as the main accent. The team has not confirmed it.
 - **Stadium Series, Saturday, February 20, 2027:** Vegas at Dallas, AT&T Stadium in Arlington, on ABC.
 
@@ -163,7 +168,7 @@ Calgary (the 2004 home, four games), St. Louis (a 1990s retro, two games), Toron
 
 **What outdoor games are on the 2026-27 NHL schedule?**
 
-The Heritage Classic (Montreal at Winnipeg, October 25), the Winter Classic (Colorado at Utah, December 31 at Rice-Eccles Stadium) and the Stadium Series (Vegas at Dallas, February 20, 2027 at AT&T Stadium). None of the jerseys has been unveiled.
+The Heritage Classic (Montreal at Winnipeg, October 25), the Winter Classic (Colorado at Utah, December 31 at Rice-Eccles Stadium) and the Stadium Series (Vegas at Dallas, February 20, 2027 at AT&T Stadium). The Heritage Classic sweaters were unveiled October 7: white for the Jets, red for the Canadiens. The Winter Classic and Stadium Series jerseys have not been unveiled.
 
 **When does the 2026-27 NHL season start?**
 

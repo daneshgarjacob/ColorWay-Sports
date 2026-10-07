@@ -2,7 +2,7 @@
 title: "Canadiens Uniform Schedule 2026-27: Every Sweater and When They Wear It"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-10-06"
+updatedDate: "2026-10-07"
 excerpt: "Every Canadiens sweater for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #AF1E2D 0%, #192168 100%)"
 cardStyle: words
@@ -31,8 +31,18 @@ We build these before the season rather than after it, so the closet is here fro
   <div style="background: #AF1E2D; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Red with the CH and the blue band bordered in white across the chest, matching blue-and-white stripes on the arms and waist. The form dates to 1925 and is unchanged for 2026-27.</div></div>
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Away</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White with the CH, red shoulder yokes, red sleeve ends and a red-and-blue stripe across the waist. Unchanged for 2026-27.</div></div>
   <div style="background: #192168; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Third Jersey (None)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Montreal wore only home and road in 2025-26 and has no standing third. The last alternates were the two Reverse Retro sets. This season's extras are the two specials below and the league-wide Hometown Remix, which would make it the first four-sweater season since 2009-10.</div></div>
-  <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Heritage Classic, Oct 25</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Montreal visits Winnipeg for the Tim Hortons NHL Heritage Classic at Princess Auto Stadium on Sunday, October 25, 2026. The Canadiens' sweater for it had not been revealed as of early September; expect it around opening night.</div></div>
+  <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Heritage Classic, Oct 25</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Montreal visits Winnipeg for the Tim Hortons NHL Heritage Classic at Princess Auto Stadium on Sunday, October 25, 2026. Unveiled October 7: a red sweater with one blue chest band, a redrawn felt CH and an off-white laced collar. Full breakdown below.</div></div>
   <div style="background: #f1f3f8; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Hometown Remix (Coming)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The league-wide Fanatics special edition, one sweater per club, built around each city's local culture. The NHL says the designs arrive shortly after the season opens on September 29; nothing has been revealed yet. <a href="/stories/nhl-hometown-remix-2026-27" style="color: inherit; text-decoration: underline;">Our Hometown Remix tracker</a> grades each one as it lands.</div></div>
+</div>
+
+## The 2026 Heritage Classic Sweater
+
+**The Canadiens unveiled their Heritage Classic sweater on Wednesday, October 7: red, with a single blue band across the chest and arms, and a vintage off-white for the trim and the laced collar.** The CH has been redrawn to echo older versions of the crest and is cut from felt with running-stitch detailing. Two firsts: **"Les Habitants"** appears on a Canadiens sweater for the first time, and the event name at the back hem is in French, next to symbols from the flag of the city of Montreal. A fleur-de-lis loop label nods to Quebec. Fanatics designed it with the team and the league.
+
+It gets one game: Montreal at Winnipeg on Sunday, October 25, at 7 p.m. ET at Princess Auto Stadium. The Jets wear a white Heritage Classic sweater based on their 1980s and 1990s look, so it is red against white outdoors. See the [Winnipeg Jets 2026-27 uniform schedule](/stories/winnipeg-jets-uniform-schedule-2026-27).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2107835727111405865"></a></blockquote>
 </div>
 
 ## The Canadiens Game-by-Game Uniform Schedule
@@ -59,7 +69,7 @@ We build these before the season rather than after it, so the closet is here fro
 
 **What uniforms do the Montreal Canadiens have for 2026-27?**
 
-The home dark and the road white are the whole closet right now. There is also a one-off: Heritage Classic, Oct 25. The league-wide Hometown Remix special edition joins them once the NHL reveals it after the season opens. The closet section above describes each one.
+The home dark and the road white are the whole closet right now. There is also a one-off: the red Heritage Classic sweater, unveiled October 7, for the outdoor game at Winnipeg on October 25. The league-wide Hometown Remix special edition joins them once the NHL reveals it after the season opens. The closet section above describes each one.
 
 **What are the Montreal Canadiens wearing tonight?**
 

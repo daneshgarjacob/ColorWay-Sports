@@ -3,7 +3,7 @@ title: "NFL Week 5 Uniforms 2026: What Every Team Is Wearing, Including Pat Patr
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-09-30"
-updatedDate: "2026-09-30"
+updatedDate: "2026-10-07"
 excerpt: "NFL Week 5 uniforms (Oct. 8-12): Patriots Pat Patriot throwback vs Raiders, Packers Rivalries debut vs Bears, Bucs red in Dallas, Cardinals black, Falcons red on Sunday night."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -57,14 +57,14 @@ It is Dallas's only home game in the Crucial Catch window, so a pink-accented Th
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AZCardinals/status/2094856123279155339"></a></blockquote>
 </div>
 
-### Baltimore Ravens at Atlanta Falcons: Red on Sunday Night
+### Baltimore Ravens at Atlanta Falcons: Red Over Black Pants on Sunday Night
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/ravens-white-road.jpg" alt="Baltimore Ravens white road jersey, expected at Atlanta on Sunday Night Football in Week 5 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/falcons-red-alternate.jpg" alt="Atlanta Falcons red home jersey, confirmed against the Ravens on Sunday Night Football in Week 5 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Sunday, 8:20 p.m. ET, NBC. Falcons confirmed, Ravens expected.** Red is Atlanta's primary home jersey again after the April redesign, and the Falcons' own schedule, published September 10, has **red** for Sunday night, under the black helmet with the silver facemask. Baltimore is expected in its **white** road set under the black helmet. This is Atlanta's showcase home game of the year, one of the two possible dates for its Crucial Catch game, and the first time most of the country sees the new red set in primetime. See the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026).
+**Sunday, 8:20 p.m. ET, NBC. Falcons confirmed, Ravens expected.** Atlanta posted the full combination on Wednesday, October 7: **black helmet, red jersey, black pants.** That is the first time the new red home jersey has been paired with the black pants. The first two red games, Carolina in Week 2 and New Orleans in Week 4, both went with white pants, so Sunday night gets the darkest version of the home set yet. Red is Atlanta's primary home jersey again after the April redesign, and the team's schedule, published September 10, had **red** for this game. Baltimore is expected in its **white** road set under the black helmet. This is Atlanta's showcase home game of the year, one of the two possible dates for its Crucial Catch game, and the first time most of the country sees the new red set in primetime. See the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AtlantaFalcons/status/2098033752668856343"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AtlantaFalcons/status/2107910085804691692"></a></blockquote>
 </div>
 
 ### Philadelphia Eagles at Jacksonville Jaguars: Teal in London
@@ -114,7 +114,7 @@ Week 5 is the second of three Crucial Catch weekends. Eight clubs have tagged a 
 - **Denver Broncos at Los Angeles Chargers**, 4:05 p.m. ET, CBS. Broncos: Summit White jersey (confirmed), helmet and pants a game-week call. Chargers: white helmet, powder blue jersey, powder blue pants (confirmed).
 - **Detroit Lions at Arizona Cardinals**, 4:25 p.m. ET, FOX. Lions: silver helmet, white jersey (expected). Cardinals: black jersey and black helmet (confirmed), pants a game-week call.
 - **San Francisco 49ers at Seattle Seahawks**, 4:25 p.m. ET, FOX. 49ers: gold helmet, white jersey, gold pants (expected). Seahawks: navy helmet, college navy jersey (expected), pants a game-week call.
-- **Baltimore Ravens at Atlanta Falcons**, 8:20 p.m. ET, NBC. Ravens: black helmet, white jersey (expected). Falcons: red jersey (confirmed), black helmet and white pants (expected).
+- **Baltimore Ravens at Atlanta Falcons**, 8:20 p.m. ET, NBC. Ravens: black helmet, white jersey (expected). Falcons: black helmet, red jersey, black pants (confirmed October 7).
 
 ### Monday, October 12
 
@@ -132,7 +132,7 @@ Week 5 is the throwback-and-debut week. New England puts Pat Patriot on the fiel
 
 **What uniforms are NFL teams wearing in Week 5 of 2026?**
 
-Most teams are in their standard sets, home in color and visitors in white. The special looks are the Patriots' red Pat Patriot throwback against the Raiders, the Packers' Rivalries debut against the Bears, the Buccaneers expected in red at the Cowboys on Thursday night, the Cardinals in black with the black helmet against the Lions, the Falcons in red for Sunday Night Football against the Ravens, and the Chargers in powder blue over powder blue pants against the Broncos.
+Most teams are in their standard sets, home in color and visitors in white. The special looks are the Patriots' red Pat Patriot throwback against the Raiders, the Packers' Rivalries debut against the Bears, the Buccaneers expected in red at the Cowboys on Thursday night, the Cardinals in black with the black helmet against the Lions, the Falcons in red over black pants for Sunday Night Football against the Ravens, and the Chargers in powder blue over powder blue pants against the Broncos.
 
 **What are the Patriots wearing in Week 5?**
 
@@ -148,7 +148,7 @@ Dallas confirmed its standard white jersey for the Thursday, October 8 game at A
 
 **What are the Falcons wearing on Sunday Night Football in Week 5?**
 
-Red, under the black helmet with the silver facemask, against the Baltimore Ravens on Sunday, October 11 at 8:20 p.m. Eastern on NBC. Atlanta confirmed it in the full jersey schedule it published on September 10. Red became the Falcons' primary home jersey again with the April 2026 redesign. Baltimore is expected in white.
+Red with black pants, under the black helmet with the silver facemask, against the Baltimore Ravens on Sunday, October 11 at 8:20 p.m. Eastern on NBC. Atlanta posted the full combination on October 7, and it is the first time the new red jersey has been worn with the black pants. Red became the Falcons' primary home jersey again with the April 2026 redesign. Baltimore is expected in white.
 
 **What are the Eagles and Jaguars wearing in London?**
 
