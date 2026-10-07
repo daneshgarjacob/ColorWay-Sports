@@ -110,7 +110,7 @@ Milwaukee finished with the best record in baseball, 103-59.
 
 - Game 1, Sat. Oct. 3: Padres Khaki Road at Brewers Home Cream · Grade: **C** · Brewers 3, Padres 2
 - Game 2, Sun. Oct. 4: Padres Khaki Road at Brewers Home Cream · Grade: **C** · Brewers 4, Padres 3
-- Game 3, Tue. Oct. 6: Brewers TBD at Padres TBD · Grade: pending
+- Game 3, Tue. Oct. 6: Brewers Navy Alternate at Padres Home White · Grade: **B-**
 - Game 4, Wed. Oct. 7 (if needed): Brewers TBD at Padres TBD · Grade: pending
 - Game 5, Fri. Oct. 9 (if needed): Padres TBD at Brewers TBD · Grade: pending
 
