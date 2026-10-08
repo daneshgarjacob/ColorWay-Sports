@@ -64,7 +64,7 @@ Tampa Bay is back in the postseason for the first time since 2023, and back at T
 
 - Game 1, Sat. Oct. 3: Yankees Road Gray at Rays Home White · Grade: **B** · Rays 1, Yankees 0
 - Game 2, Mon. Oct. 5: Yankees Road Gray at Rays Home White · Grade: **B** · Rays 5, Yankees 2
-- Game 3, Wed. Oct. 7: Rays TBD at Yankees TBD · Grade: pending
+- Game 3, Wed. Oct. 7: Rays Road Gray at Yankees Home Pinstripes · Grade: pending
 - Game 4, Thu. Oct. 8 (if needed): Rays TBD at Yankees TBD · Grade: pending
 - Game 5, Sat. Oct. 10 (if needed): Yankees TBD at Rays TBD · Grade: pending
 
