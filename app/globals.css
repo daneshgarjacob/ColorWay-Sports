@@ -180,10 +180,13 @@ a {
   }
 }
 
+/* Centered captions and photo credits. !important because most credits carry an
+   inline `margin: 0.25em 0 1.5em`, whose 0 left/right would otherwise pin the
+   80%-wide box to the left and push the "centered" text off the photo's center. */
 .prose p[style*="text-align: center"] {
   max-width: 80%;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 .prose img + em {
