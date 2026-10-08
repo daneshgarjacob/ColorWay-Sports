@@ -3,8 +3,8 @@ title: "Arizona Uniform Schedule 2026: Every Jersey and When the Wildcats Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-04"
-excerpt: "Arizona football uniforms for 2026: navy home jerseys, the all-white road set, Sandstorm night vs. TCU, and every Wildcats jersey week by week."
+updatedDate: "2026-10-08"
+excerpt: "Arizona football uniforms for 2026: Sandstorm with red pants at West Virginia, navy at home, white on the road, and every Wildcats jersey week by week."
 gradient: "linear-gradient(135deg, #0C234B 0%, #1a3566 55%, #AB0520 130%)"
 cardStyle: words
 kicker: Schedule
@@ -35,7 +35,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
   <div style="background: #0C234B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #ffffff; color: #0C234B; border: 2px solid #0C234B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Navy</div></div>
   <div style="background: #0C234B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / Navy</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f3ece0; color: #AB0520; border: 1px solid #e2d6c2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Sandstorm / Red Pants</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #0C234B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -55,7 +55,10 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
 
 **October 3 vs. Cincinnati.** ★ Confirmed from the broadcast: **white helmet, navy jersey, navy pants**, navy as expected for the Big 12 home opener, Family Weekend and Pacific Islander Heritage, in front of a white-clad crowd. Cincinnati wore the all white it announced: white helmet, white jersey and white pants. Arizona won 34-7 to move to 4-1, after winning the first-ever meeting 30-24 in Cincinnati last season.
 
-**October 10 at West Virginia.** White expected. This is West Virginia's Coal Rush game, and the Mountaineers are expected in all black, so Arizona in white should make this one of the starkest contrasts on the conference calendar. More on the home side on the [West Virginia 2026 uniform schedule](/stories/west-virginia-uniform-schedule-2026).
+**October 10 at West Virginia.** Sandstorm, from Arizona's game week photos. The team posted "a storm is coming" on October 8 with the **red chrome helmet** carrying a desert ARIZONA decal with a cactus and sun, the **white Sandstorm jersey** with red numerals, a red collar insert and navy and red sleeve stripes, and **red pants** with the Cats script. When Sandstorm debuted against Oklahoma State in 2025 it came with off-white pants, so the red pants are the new twist, and this is the first time the set goes on the road. It lands on West Virginia's Coal Rush game, with the Mountaineers expected in all black.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1.2em 0 0.4em;"><img src="/images/posts/arizona-uniform-schedule-2026/sandstorm-west-virginia-full.jpg" alt="Arizona Sandstorm uniform at West Virginia 2026: red chrome helmet, white jersey with red 7, red pants" style="width:100%;border-radius:10px;" loading="lazy" decoding="async" /><img src="/images/posts/arizona-uniform-schedule-2026/sandstorm-west-virginia-front.jpg" alt="Arizona Wildcats Sandstorm white jersey with red numerals and red collar, red chrome ARIZONA helmet" style="width:100%;border-radius:10px;" loading="lazy" decoding="async" /></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photos: Arizona Football.</p> More on the home side on the [West Virginia 2026 uniform schedule](/stories/west-virginia-uniform-schedule-2026).
 
 **October 17.** Bye.
 
@@ -87,7 +90,7 @@ A navy home jersey with white numerals outlined in red, a white road jersey with
 
 **Does Arizona have a new alternate uniform in 2026?**
 
-No new uniform has been announced. The newest set is Sandstorm, which debuted against Oklahoma State in 2025, and Arizona has scheduled a Sandstorm-themed home game against TCU on Friday, November 6. We will add anything new to this page as soon as it is revealed.
+No brand new set, but there is a new combination. Arizona is wearing Sandstorm at West Virginia on October 10 with red pants instead of the off-white pants it debuted with against Oklahoma State in 2025, under the red chrome helmet with a desert ARIZONA decal. Arizona also has a Sandstorm-themed home game against TCU on Friday, November 6.
 
 **What did Arizona wear against BYU?**
 

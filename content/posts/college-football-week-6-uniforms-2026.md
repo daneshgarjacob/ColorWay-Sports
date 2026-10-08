@@ -69,6 +69,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - **Oregon, Origin of Speed (Confirmed).** The debut of the Night Forest Hayward Field tribute with Green Strike speed-streak wings, against UCLA.
 - **Notre Dame, Irish Wear Green (Confirmed).** Green jersey, green pants, gold helmet, Leprechaun on the sleeves, against Stanford.
 - **Florida, Spurrier retro helmet (Confirmed).** Royal blue helmet with the block F in a white oval, white jersey, white pants, from the published season schedule, against South Carolina.
+- **Arizona, Sandstorm with red pants (Confirmed).** Red chrome helmet with a desert ARIZONA decal, white jersey, red pants, from the team's game week photos. First road trip for the 2025 alternate, and the red pants are new.
 - **Kentucky, Power K throwback (Confirmed).** White triple-stripe helmet with the Power K and CATS above the facemask, a plain blue jersey with CATS on the shoulders and white pants, against LSU.
 - **UNLV, 1976 Bicentennial helmet (Confirmed).** For Homecoming against North Dakota State, UNLV [announced a throwback helmet](https://unlvrebels.com/news/2026/8/31/football-patriotic-helmet-design-unveiled-for-oct-10-homecoming-game.aspx) from its 1976 season: a white shell with a red facemask and a red UNLV REBELS decal in a mid-1970s font, flanked by the Minute Man statue from Concord, Massachusetts. It honors the 1976 team and the country's 250th birthday. The jersey and pants have not been announced.
 - **Penn State, White Out (crowd, Confirmed).** The stadium wears white against USC. The team is expected in its home navy.
@@ -137,7 +138,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Pitt: **Expected**, blue, for the 1976 national championship 50th anniversary game. See above.
 
 **[Arizona](/stories/arizona-uniform-schedule-2026) at [West Virginia](/stories/west-virginia-uniform-schedule-2026)**, noon, TNT.
-- Arizona: **Expected**, white.
+- Arizona: **Confirmed**, Sandstorm with red pants: red chrome helmet with a desert ARIZONA decal, white jersey with red numerals and a red collar, red pants. It is the first road trip for the Sandstorm set, and the red pants are new.
 - West Virginia: **Expected**, all black for Coal Rush, also Hall of Fame weekend.
 
 **[Wake Forest](/stories/wake-forest-uniform-schedule-2026) at [NC State](/stories/nc-state-uniform-schedule-2026)**, noon, The CW.
