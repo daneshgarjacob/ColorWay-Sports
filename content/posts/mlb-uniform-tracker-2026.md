@@ -27,7 +27,36 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Wednesday, October 7
 
-Division Series Game 3 day in the American League, and the first time either ALDS has moved. Up 2-0, the White Sox came home to a loud Rate Field with a chance to sweep and went with the **black alternate** again, the same "Sox" jersey they wore for both wins in Cleveland, this time over the home white pinstriped pants. The Guardians wore the **road gray** with "Cleveland" across the chest. Black against gray is darker and quieter than the red-against-black look from Game 2, and we grade it a **B**. Cleveland spoiled the sweep, winning 9-3 to cut the series to 2-1, so there is a Game 4 at Rate Field on Thursday. In Atlanta, the Braves are down 2-1 to the Dodgers and facing elimination in NLDS Game 4, and they went back to the **home whites** after wearing red in Game 3. The Dodgers stayed in the **road gray** with the "Dodgers" script and the blue "LA" cap. Script gray against home white is clean and classic, and we grade it a **B+**. In the Bronx, the Yankees are down 2-0 and wore the **home pinstripes** for ALDS Game 3, and the Rays wore the **road gray** with "Tampa Bay" in the gradient script, topped with the navy "Devil Rays" cap. The new gray against the pinstripes gets a **B**. The Brewers and Padres play NLDS Game 4 in San Diego tonight; that card goes up at first pitch.
+Division Series Game 3 day in the American League, and the first time either ALDS has moved. Up 2-0, the White Sox came home to a loud Rate Field with a chance to sweep and went with the **black alternate** again, the same "Sox" jersey they wore for both wins in Cleveland, this time over the home white pinstriped pants. The Guardians wore the **road gray** with "Cleveland" across the chest. Black against gray is darker and quieter than the red-against-black look from Game 2, and we grade it a **B**. Cleveland spoiled the sweep, winning 9-3 to cut the series to 2-1, so there is a Game 4 at Rate Field on Thursday. In Atlanta, the Braves are down 2-1 to the Dodgers and facing elimination in NLDS Game 4, and they went back to the **home whites** after wearing red in Game 3. The Dodgers stayed in the **road gray** with the "Dodgers" script and the blue "LA" cap. Script gray against home white is clean and classic, and we grade it a **B+**. Los Angeles won 4-1 to take the series 3-1 and moves on to the NLCS. In the Bronx, the Yankees are down 2-0 and wore the **home pinstripes** for ALDS Game 3, and the Rays wore the **road gray** with "Tampa Bay" in the gradient script, topped with the navy "Devil Rays" cap. The new gray against the pinstripes gets a **B**. Out west, the Brewers lead 2-1 and went back to the same look from Game 3 for NLDS Game 4: the **navy alternate** over road gray pants with the yellow-front cap, against the Padres in **home pinstripes** and the all-brown cap.
+
+### Milwaukee Brewers at San Diego Padres
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/brewers-navy-alternate.jpg" alt="Milwaukee Brewers Navy Alternate jersey worn October 7 2026 against the Padres, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">BREWERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #12284B; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Navy Alternate</p>
+      <p data-cap="Yellow Front" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Yellow Front</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/mlb-daily-tracker/padres-home-white.png" alt="San Diego Padres Home White jersey worn October 7 2026 against the Brewers, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">PADRES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #f0f0f0; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home White</p>
+      <p data-cap="All Brown" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; All Brown</p>
+    </div>
+  </div>
+</div>
+</div>
 
 ### Tampa Bay Rays at New York Yankees
 
@@ -43,7 +72,7 @@ Division Series Game 3 day in the American League, and the first time either ALD
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RAYS</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road Gray</p>
-      <p data-cap="Navy 'Devil Rays' Hat (Devil Ray on hat)" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; Navy 'Devil Rays' Hat (Devil Ray on hat)</p>
+      <p data-cap="navy 'TB' gradient" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; navy 'TB' gradient</p>
     </div>
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -63,7 +92,7 @@ Division Series Game 3 day in the American League, and the first time either ALD
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Dodgers 4, Braves 1</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
