@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { TEAM_LOGOS, teamSlug } from "@/lib/teamLogos";
+import { nflTrackerCards } from "@/lib/nflTrackerCards";
 
 // Per-team NFL uniform calendars, built from the week-by-week grid that already
 // lives inside each "<team>-uniform-schedule-2026" post.
@@ -38,6 +39,9 @@ export interface NflGame {
   window: string;
   /** Exact date when the post states one for this week, else undefined. */
   date?: string;
+  /** Jersey photo for the cell: the tracker card's own photo once the game is
+   *  logged, otherwise the club's photo whose name matches the jersey label. */
+  img?: string;
 }
 
 export interface NflTeamEntry {
@@ -124,6 +128,70 @@ function parseGames(markdown: string): NflGame[] {
   return games;
 }
 
+// Color words in jersey labels and photo names, folded to one family each so
+// "Scarlet" matches a "red" photo and never a "white" one.
+const COLOR_WORDS: Record<string, string> = {
+  white: "white", black: "black", red: "red", scarlet: "red", cardinal: "red", crimson: "red",
+  blue: "blue", royal: "blue", navy: "navy", powder: "powder", purple: "purple", gold: "gold",
+  green: "green", kelly: "green", orange: "orange", silver: "silver", gray: "silver", grey: "silver",
+  teal: "teal", aqua: "teal", brown: "brown", yellow: "gold", maroon: "red", burgundy: "red", color: "",
+};
+
+const JERSEY_DIR = path.join(process.cwd(), "public/images/posts/nfl-tracker-jerseys");
+let jerseyFiles: string[] | null = null;
+
+// Picks a jersey photo for one week. A logged game uses the photo on its tracker
+// card, which is what the club actually wore. Otherwise match the jersey half of
+// the label ("Powder Blue · Gold Pants" -> "powder blue") against the club's photo
+// names, falling back to its home or road photo for a plain "White" or color.
+function jerseyImage(teamName: string, nickname: string, g: NflGame): string | undefined {
+  if (g.bye) return undefined;
+  const card = nflTrackerCards().find(
+    (c) => c.week === g.week && (c.away === teamName || c.home === teamName)
+  );
+  const side = card ? card.sides[card.away === teamName ? 0 : 1] : undefined;
+  if (side?.img) return side.img;
+
+  if (!jerseyFiles) jerseyFiles = fs.existsSync(JERSEY_DIR) ? fs.readdirSync(JERSEY_DIR) : [];
+  const prefix = `${nickname.toLowerCase()}-`;
+  const mine = jerseyFiles.filter((f) => f.startsWith(prefix));
+  if (!mine.length) return undefined;
+
+  const jersey = g.uniform.split("·")[0].toLowerCase();
+  const words = jersey.match(/[a-z0-9]+/g)?.filter((w) => w !== "jersey" && w !== "set") ?? [];
+  const colorOf = (w: string) => COLOR_WORDS[w];
+  const labelColors = new Set(words.map(colorOf).filter(Boolean));
+  const venue = g.home ? "home" : "road";
+
+  let best: string | undefined;
+  let bestScore = 0;
+  for (const f of mine) {
+    const name = f.slice(prefix.length).replace(/\.\w+$/, "").split("-");
+    // Never show a jersey in a different color than the label names.
+    const fileColors = new Set(name.map(colorOf).filter(Boolean));
+    if (labelColors.size && [...fileColors].some((c) => !labelColors.has(c))) continue;
+    let score = words.filter((w) => name.includes(w) || (colorOf(w) && fileColors.has(colorOf(w)))).length;
+    if (!score) continue;
+    if (name.includes(venue)) score += 0.5; // tie-break: the venue's own photo
+    if (score > bestScore) {
+      best = f;
+      bestScore = score;
+    }
+  }
+  // A named special ("Darkness Falls", "1994 Throwback") with no matching photo
+  // gets no picture rather than the wrong one. Only a plain color label falls
+  // back to the club's home or road photo.
+  const special = words.some((w) => !colorOf(w));
+  if (best && special && words.filter((w) => !colorOf(w)).every((w) => !best!.includes(w)) && labelColors.size === 0) best = undefined;
+  if (best && special) {
+    const name = best.slice(prefix.length).replace(/\.\w+$/, "").split("-");
+    const specialHit = words.some((w) => !colorOf(w) && name.includes(w));
+    const fileSpecial = name.some((w) => !colorOf(w) && w !== "home" && w !== "road" && w !== "primary");
+    if (!specialHit && fileSpecial) best = undefined;
+  }
+  return best ? `/images/posts/nfl-tracker-jerseys/${best}` : undefined;
+}
+
 let cache: NflTeamEntry[] | null = null;
 
 /** Every NFL club whose schedule post carries a parseable week-by-week grid. */
@@ -153,6 +221,7 @@ export function buildNflTeamIndex(): NflTeamEntry[] {
     if (games.length < 17) continue; // no grid yet — see the gap list in the README of this build
 
     const nickname = team.name.split(" ").slice(-1)[0];
+    for (const g of games) g.img = jerseyImage(team.name, nickname, g);
     const firstHex = /#([0-9a-fA-F]{6})/.exec(String(data.gradient ?? ""));
 
     out.push({

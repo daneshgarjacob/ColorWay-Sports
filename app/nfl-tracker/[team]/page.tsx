@@ -57,6 +57,18 @@ function WeekCard({ game }: { game: NflGame }) {
         opacity: game.bye ? 0.55 : 1,
       }}
     >
+      {game.img && (
+        <div className="mx-auto mb-2 h-[72px] w-[72px] rounded-lg bg-white/90 flex items-center justify-center overflow-hidden">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={game.img}
+            alt={`${game.uniform} jersey, ${game.matchup}`}
+            className="max-h-[66px] max-w-[66px] object-contain"
+            loading="lazy"
+            decoding="async"
+          />
+        </div>
+      )}
       <div className="text-[10px] font-bold tracking-[0.1em] opacity-80">WEEK {game.week}</div>
       <div className="text-[14px] font-extrabold my-1 leading-tight">{game.matchup}</div>
       <div className="text-[11px] font-bold uppercase tracking-[0.04em] leading-tight">
