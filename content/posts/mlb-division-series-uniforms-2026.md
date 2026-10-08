@@ -111,7 +111,7 @@ Milwaukee finished with the best record in baseball, 103-59.
 - Game 1, Sat. Oct. 3: Padres Khaki Road at Brewers Home Cream · Grade: **C** · Brewers 3, Padres 2
 - Game 2, Sun. Oct. 4: Padres Khaki Road at Brewers Home Cream · Grade: **C** · Brewers 4, Padres 3
 - Game 3, Tue. Oct. 6: Brewers Navy Alternate at Padres Home White · Grade: **B-** · Padres 4, Brewers 3 (Brewers lead 2-1)
-- Game 4, Wed. Oct. 7: Brewers Navy Alternate at Padres Home White · Grade: pending · Brewers 3, Padres 1 (Brewers win series 3-1)
+- Game 4, Wed. Oct. 7: Brewers Navy Alternate at Padres Home White · Grade: **B-** · Brewers 3, Padres 1 (Brewers win series 3-1)
 - Game 5: not needed (Brewers won 3-1)
 
 ## What Are the Dodgers Wearing in the NLDS?
