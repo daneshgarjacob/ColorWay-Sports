@@ -63,6 +63,15 @@ function GameCard({ game, accent, today }: { game: WinterGame; accent: string; t
         <span className="opacity-70">{game.home ? "vs" : "at"} </span>
         {game.opponentAbbr || game.opponent}
       </div>
+      {!logged && game.expectedImage && game.date >= today && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          src={game.expectedImage}
+          alt={`Expected ${game.expected} sweater ${game.home ? "against" : "at"} the ${game.opponent}`}
+          loading="lazy"
+          className="h-[56px] w-full object-contain mb-1 opacity-90"
+        />
+      )}
       <div className="text-[10px] font-bold uppercase tracking-[0.04em] leading-tight opacity-80">
         {game.uniform ??
           (game.expected && game.date >= today ? `Expected: ${game.expected}` : "Not yet logged")}

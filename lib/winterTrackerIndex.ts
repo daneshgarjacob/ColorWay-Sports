@@ -115,6 +115,9 @@ export interface WinterGame {
   /** NHL only: the expected sweater for a game not yet confirmed (league
    *  default, or an announced special from the game log). */
   expected?: string;
+  /** NHL only: the club's standard home or road sweater photo for a future game
+   *  whose expected look is the default (announced specials get none). */
+  expectedImage?: string;
 }
 
 export interface WinterTeamEntry {
@@ -187,7 +190,12 @@ export function buildWinterIndex(): WinterTeamEntry[] {
       games: t.games.map((g) => {
         const game: WinterGame = { date: g.d, opponent: g.o, opponentAbbr: g.a, home: g.h === 1 };
         const worn = nhl ? nhlWorn.get(`${nhl.tri}|${g.d}`) : undefined;
-        if (nhl) game.expected = expectedCalls.get(`${nhl.tri}|${g.d}`) ?? (game.home ? nhl.homeLabel : "Road White");
+        if (nhl) {
+          const special = expectedCalls.get(`${nhl.tri}|${g.d}`);
+          game.expected = special ?? (game.home ? nhl.homeLabel : "Road White");
+          const tile = `${NHL_TILES}/${nhl.key}-${game.home ? "home" : "road"}.jpg`;
+          if (!special && nhlTileExists(tile)) game.expectedImage = tile;
+        }
         if (worn) {
           game.uniform = worn.uniform;
           game.confirmed = true;

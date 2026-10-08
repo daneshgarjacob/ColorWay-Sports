@@ -127,6 +127,7 @@
     "2026-10-07 EDM@ANA": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-09 NYR@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
     "2026-10-17 NJD@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
+    "2026-10-25 MTL@WPG": { "note": "Heritage Classic, sweaters revealed by both teams 10/7", "home": { "call": "Heritage Classic", "color": "#041E42" }, "away": { "call": "Heritage Classic", "color": "#AF1E2D" } },
     "2026-11-01 MIN@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
     "2026-11-14 NJD@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
     "2026-12-26 CBJ@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E" } },
