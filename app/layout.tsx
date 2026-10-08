@@ -145,15 +145,15 @@ export default function RootLayout({
           src="https://www.instagram.com/embed.js"
           strategy="afterInteractive"
         />
-        {/* OneSignal web push (free plan). lazyOnload so it never competes with
-            the ad stack or first paint; the subscribe prompt itself is configured
+        {/* OneSignal web push (free plan). afterInteractive like GA (lazyOnload never fired
+            on ad-heavy pages); the subscribe prompt itself is configured
             in the OneSignal dashboard to appear 45 seconds into a reader's first
             article. Worker file: public/OneSignalSDKWorker.js. */}
         <Script
           src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js"
-          strategy="lazyOnload"
+          strategy="afterInteractive"
         />
-        <Script id="onesignal-init" strategy="lazyOnload">
+        <Script id="onesignal-init" strategy="afterInteractive">
           {`
             window.OneSignalDeferred = window.OneSignalDeferred || [];
             OneSignalDeferred.push(async function(OneSignal) {
