@@ -58,7 +58,7 @@ export default function NewsletterPage() {
 
       <InlineNewsletter
         eyebrow="Sign up"
-        heading="Get every uniform drop in your inbox."
+        heading="Get Every Uniform Drop in Your Inbox."
         body="Enter your email and you are on the list. It takes one click."
       />
 

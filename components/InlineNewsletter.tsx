@@ -12,7 +12,7 @@ type Props = {
 
 export default function InlineNewsletter({
   eyebrow = "The ColorWay Sports Newsletter",
-  heading = "Get every uniform drop in your inbox.",
+  heading = "Get Every Uniform Drop in Your Inbox.",
   body = "New jerseys, playoff trackers, and uniform news the moment it lands. Free, no spam.",
   stacked = false,
 }: Props = {}) {

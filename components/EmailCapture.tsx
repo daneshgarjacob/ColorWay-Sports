@@ -110,7 +110,7 @@ export default function EmailCapture() {
         ) : (
           <>
             <h2 className="text-2xl font-bold text-gray-900 mb-2 pr-8">
-              Don't miss a jersey drop.
+              Don't Miss a Jersey Drop.
             </h2>
             <p className="text-gray-500 mb-6">
               Get uniform news and jersey reviews before anyone else. No spam, just the good stuff.
