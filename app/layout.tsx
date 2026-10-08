@@ -145,6 +145,22 @@ export default function RootLayout({
           src="https://www.instagram.com/embed.js"
           strategy="afterInteractive"
         />
+        {/* OneSignal web push (free plan). lazyOnload so it never competes with
+            the ad stack or first paint; the subscribe prompt itself is configured
+            in the OneSignal dashboard to appear 45 seconds into a reader's first
+            article. Worker file: public/OneSignalSDKWorker.js. */}
+        <Script
+          src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js"
+          strategy="lazyOnload"
+        />
+        <Script id="onesignal-init" strategy="lazyOnload">
+          {`
+            window.OneSignalDeferred = window.OneSignalDeferred || [];
+            OneSignalDeferred.push(async function(OneSignal) {
+              await OneSignal.init({ appId: "28c90f83-e544-4a72-a8b2-660a8d94c840" });
+            });
+          `}
+        </Script>
         <Script id="grow-me" strategy="afterInteractive" data-grow-initializer="">
           {`!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTplOGYwYTcxYy0yYzk3LTQ0NGItODFjYS03MzY4ZTViZmFlMTQ=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();`}
         </Script>
