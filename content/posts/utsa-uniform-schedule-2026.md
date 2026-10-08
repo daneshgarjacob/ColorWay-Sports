@@ -3,7 +3,7 @@ title: "UTSA Uniform Schedule 2026: Every Jersey and When the Roadrunners Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-08"
 excerpt: "What UTSA wears every game in 2026: navy at the Alamodome, white on the road, the Fiesta helmet and the full week-by-week Roadrunners uniform schedule."
 gradient: "linear-gradient(135deg, #0C2340 0%, #13294b 55%, #F15A22 130%)"
 cardStyle: words
@@ -60,7 +60,7 @@ The piece that got national attention this season is the helmet UTSA wore for it
 
 **October 3 at Rice.** ★ Confirmed from the broadcast: **navy helmet with orange trim, white jersey, white pants**. We expected the white helmet from the first two road games, and the Roadrunners went with the dark shell instead. Rice wore a navy helmet, navy jersey and navy pants. Michael Petro kicked three field goals and Will Henderson III ran for a touchdown, Rice cut it to 16-14 with 13:35 left, and UTSA held on to win 16-14 in the American Conference opener. UTSA is 4-1. Our [Rice 2026 uniform schedule](/stories/rice-uniform-schedule-2026) has the Owls side.
 
-**October 8 vs. South Florida.** Navy expected, with a caveat. A Thursday night at the Alamodome on ESPN, 7:30 p.m. Eastern, and UTSA's game theme is Lights Out. A national weeknight window and a lights-out theme is exactly the spot a program saves a special look for, so this is the home date we are watching hardest. Nothing has been announced. USF should be in white; see our [South Florida 2026 uniform schedule](/stories/south-florida-uniform-schedule-2026).
+**October 8 vs. South Florida.** Navy expected, with a caveat. A Thursday night at the Alamodome on ESPN, 7:30 p.m. Eastern, and UTSA's game theme is Lights Out. A national weeknight window and a lights-out theme is exactly the spot a program saves a special look for, so this is the home date we are watching hardest. Lights Out is also the name of the black uniforms UTSA debuted on November 2, 2024, when it beat No. 25 Memphis for its first ever win over a ranked team. Nothing has been announced. USF should be in white; see our [South Florida 2026 uniform schedule](/stories/south-florida-uniform-schedule-2026).
 
 **October 17 vs. Navy.** Navy expected. UTSA's Salute to Armed Forces and Veterans game, presented by USAA, and a service academy opponent on the same day. Military appreciation games are a common place for a special helmet or decal. Our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026) has the Midshipmen.
 

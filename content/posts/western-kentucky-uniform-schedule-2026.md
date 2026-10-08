@@ -3,7 +3,7 @@ title: "Western Kentucky Uniform Schedule 2026: Every Jersey and When the Hillto
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-08"
 excerpt: "What WKU wears every game in 2026: red, black and white helmets, the White Out, Black Out and Red Out dates and the week-by-week Hilltoppers uniform schedule."
 gradient: "linear-gradient(135deg, #C8102E 0%, #7a0a1c 55%, #111111 130%)"
 cardStyle: words
@@ -57,7 +57,7 @@ The schedule did WKU no favors early. The Hilltoppers opened with three straight
 
 **October 1 at New Mexico State.** White expected. The Conference USA opener on a Thursday night at Aggie Memorial Stadium in Las Cruces, 8 p.m. Eastern on CBS Sports Network. This game is tonight, and we will confirm the uniform after it is played.
 
-**October 8 vs. Missouri State.** To be announced. A Thursday night Black Out at home, 7 p.m. Eastern on CBS Sports Network, also Community Heroes Night and Faculty and Staff Night. WKU matched its White Out in head-to-toe white, and it already has a black helmet and black pants, so black is the obvious candidate. We will not put it in the grid until WKU confirms it.
+**October 8 vs. Missouri State.** To be announced. A Thursday night Black Out at home, 7 p.m. Eastern on CBS Sports Network, also Community Heroes Night and Faculty and Staff Night. WKU's game day graphic on October 8 shows a black helmet with the red and white center stripe and a black jersey with red numbers outlined in white, the first look at a black jersey this season. The pants were not shown. We will put it in the grid once the full uniform is confirmed in game.
 
 **October 14 at Sam Houston.** White expected. A Wednesday night at Elliott T. Bowers Stadium in Huntsville, Texas, 8 p.m. Eastern on ESPN2.
 
@@ -93,7 +93,7 @@ The white helmet with the Red Towel logo, the white jersey and white pants for t
 
 **When is the WKU Black Out game in 2026?**
 
-Thursday, October 8 against Missouri State at Houchens Industries-L.T. Smith Stadium in Bowling Green, at 7 p.m. Eastern on CBS Sports Network. WKU has not announced whether the team will wear black.
+Thursday, October 8 against Missouri State at Houchens Industries-L.T. Smith Stadium in Bowling Green, at 7 p.m. Eastern on CBS Sports Network. WKU's game day graphic shows a black helmet and black jersey for the Black Out, and the pants have not been shown yet.
 
 **What is the Red Towel on the WKU helmet?**
 
