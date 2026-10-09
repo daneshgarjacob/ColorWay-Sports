@@ -14,6 +14,7 @@ logoSrc: "/logos/teams/nhl-winnipeg-jets.png"
 logoSrc2: "/logos/teams/nhl-montreal-canadiens.png"
 league: "nhl"
 teams: ["winnipeg-jets", "montreal-canadiens"]
+homepageHero: true
 ---
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 0.4em;"><img src="/images/posts/winnipeg-jets-uniform-schedule-2026-27/heritage-classic-2026-white-jersey.jpg" alt="Winnipeg Jets 2026 Heritage Classic white jersey with the vintage round Jets crest and navy and red stripes" style="width:100%;border-radius:10px;" decoding="async" /><img src="/images/posts/winnipeg-jets-uniform-schedule-2026-27/heritage-classic-2026-full-uniform.jpg" alt="Full Winnipeg Jets 2026 Heritage Classic uniform: white sweater, red pants and striped socks" style="width:100%;border-radius:10px;" decoding="async" /></div>

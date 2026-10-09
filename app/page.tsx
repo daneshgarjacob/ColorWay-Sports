@@ -141,9 +141,14 @@ export default function Home() {
     // 10/6 (Jake): Todd Radom interview takes the LEFT card (replaces Braves
     // navy G2, a past game now that G3 is on). Its cover is built around a real
     // photo (Todd's Topps card) plus his actual logos, not a generated graphic.
-    { slug: "todd-radom-interview-sports-logo-design", pinned: "2026-10-06" },
+    // 10/9 (Jake): Oregon held the hero too long. Heritage Classic (real team
+    // photography, 3:2) takes the hero; Dieter goes in the lead card because Jake
+    // said its cover is good enough for the homepage (his call, so the top four
+    // carry two generated graphics today: Dieter + the tracker). Oregon drops to
+    // the third card so it does not vanish from the page.
+    { slug: "dieter-ruehle-returns-lakers-organist-2026", pinned: "2026-10-09" },
     { slug: "nfl-uniform-tracker-2026", pinned: "2026-09-16", standing: true },
-    { slug: "air-force-b21-raider-uniform-2026", pinned: "2026-10-05" },
+    { slug: "oregon-origin-of-speed-uniforms-2026", pinned: "2026-10-09" },
   ];
   // Jake 10/5: "I don't want that on the home screen." These never take an image
   // slot on the homepage (no Latest auto-fill, no More Stories thumbnail). A
