@@ -27,14 +27,14 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Thursday, October 8
 
-ALDS Game 4 at Rate Field, with the White Sox up 2-1 and one win from the ALCS against the Rays. After wearing the black alternate in all three games so far, Chicago switched to the **home white pinstripes** at home, and the Guardians wore the **road gray** with "Cleveland" across the chest. White against gray is the most standard look of the series and we grade it a **C+**. If Cleveland wins, the series goes back to Progressive Field for Game 5.
+ALDS Game 4 at Rate Field, with the White Sox up 2-1 and one win from the ALCS against the Rays. After wearing the black alternate in all three games so far, Chicago switched to the **home white pinstripes** at home, and the Guardians wore the **road gray** with "Cleveland" across the chest. White against gray is the most standard look of the series and we grade it a **C+**. Cleveland won 9-5 to tie the series 2-2, so it goes back to Progressive Field for Game 5 on Saturday, October 10, with the winner facing the Rays in the ALCS.
 
 ### Cleveland Guardians at Chicago White Sox
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Guardians 9, White Sox 5</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
