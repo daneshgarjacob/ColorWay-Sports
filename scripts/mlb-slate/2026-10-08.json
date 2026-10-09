@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-08",
+  "games": [
+    {
+      "away": "Cleveland Guardians",
+      "awaySlug": "guardians",
+      "home": "Chicago White Sox",
+      "homeSlug": "white-sox",
+      "time": "8:00 PM ET",
+      "gameNumber": 1
+    }
+  ]
+}
