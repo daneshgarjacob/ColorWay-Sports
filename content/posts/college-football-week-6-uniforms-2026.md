@@ -3,7 +3,7 @@ title: "College Football Week 6 Uniforms 2026: What Every Top Team Is Wearing, F
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-07"
-updatedDate: "2026-10-08"
+updatedDate: "2026-10-09"
 excerpt: "College football Week 6 uniforms: Oregon's Origin of Speed debut, Notre Dame in green, Florida's Spurrier throwback, the Penn State White Out and every Top 25 look."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -86,16 +86,16 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 ### Thursday, October 8
 
 **Sam Houston at [Liberty](/stories/liberty-uniform-schedule-2026)**, 7 p.m., ESPNU.
-- Liberty: **Expected**, red, for Midweek on the Mountain. Themed weeknight games are where Liberty tends to try something, so this could flip.
-- Sam Houston: TBA, announced game week.
+- Liberty: **Confirmed**, all navy: navy helmet, navy jersey, navy pants. Liberty 35, Sam Houston 3.
+- Sam Houston: **Confirmed**, orange helmet, white jersey, white pants.
 
 **Missouri State at [Western Kentucky](/stories/western-kentucky-uniform-schedule-2026)**, 7 p.m., CBSSN.
-- Western Kentucky: **Expected**, black. WKU's game day graphic for the Black Out shows a black helmet with the red and white center stripe and a black jersey with red numbers, a look we have not seen from the Hilltoppers this season. Pants were not shown, but black is the likely match.
-- Missouri State: TBA, announced game week.
+- Western Kentucky: **Confirmed**, all black for the Black Out: black helmet, black jersey, black pants, its first black jersey of the season. WKU 34, Missouri State 13.
+- Missouri State: **Confirmed**, all white.
 
 **[South Florida](/stories/south-florida-uniform-schedule-2026) at [UTSA](/stories/utsa-uniform-schedule-2026)**, 7:30 p.m., ESPN.
-- South Florida: **Expected**, white. The Gold Standard helmet built to go with the white jersey is a candidate here.
-- UTSA: **Expected**, navy, but watch for black. The Lights Out name belongs to the black uniforms UTSA debuted on November 2, 2024, in its first ever win over a ranked team (No. 25 Memphis), and the game day graphic shows a dark jersey.
+- South Florida: **Confirmed**, all white with the green bull helmet. UTSA 31, USF 24.
+- UTSA: **Confirmed**, the black Lights Out look: silver helmet, black jersey, black pants.
 
 ### Friday, October 9
 
