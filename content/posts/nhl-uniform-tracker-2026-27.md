@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NHL"
 date: "2026-10-02"
-updatedDate: "2026-10-08"
+updatedDate: "2026-10-09"
 excerpt: "What every NHL team wore last night, game by game. Home darks, road whites, thirds and specials for all 32 clubs, confirmed from game photos every morning."
 gradient: "linear-gradient(135deg, #111821 0%, #1d2733 55%, #2f6bed 130%)"
 coverImage: "/images/posts/nhl-daily-tracker/cover-branded.jpg"
@@ -300,7 +300,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
     <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <svg viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Carolina Hurricanes Home Red sweater"><path d="M38 14 L60 22 L82 14 L112 34 L102 58 L90 52 L90 108 L30 108 L30 52 L18 58 L8 34 Z" fill="#CE1126" stroke="rgba(0,0,0,0.25)" stroke-width="2.5" stroke-linejoin="round"/></svg>
+        <img src="/images/posts/nhl-daily-tracker/hurricanes-red.jpg" alt="Carolina Hurricanes Home Red sweater worn October 8 2026 against the Canucks, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">HURRICANES</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #CE1126; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Red</p>
