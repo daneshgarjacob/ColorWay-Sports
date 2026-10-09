@@ -43,7 +43,7 @@ Before kickoff, a card shows the look we expect. **Confirmed** means the team ha
 
 ## Week 5: 15 Games From Thursday to Monday
 
-Week 5 opens on Thursday, October 8, with Tampa Bay at Dallas, and closes with Baltimore at Atlanta on Sunday night, Atlanta's new red over black pants against the Ravens in white over purple pants. Every look we have confirmed is on the [Week 5 uniform board](/stories/nfl-week-5-uniforms-2026).
+Week 5 opens on Thursday, October 8, with Tampa Bay at Dallas, and closes with Buffalo at the Rams on Monday night, the Bills all white against royal over sol pants. Sunday night is Baltimore at Atlanta, the Falcons' new red over black pants against the Ravens in white over purple pants, and Cincinnati brings an orange combination to Miami that the Bengals have never worn before. Every look we have confirmed is on the [Week 5 uniform board](/stories/nfl-week-5-uniforms-2026).
 
 ## Thursday, October 8
 

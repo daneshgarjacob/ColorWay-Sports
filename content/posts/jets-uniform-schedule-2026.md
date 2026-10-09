@@ -3,7 +3,7 @@ topViewsRank: 10
 title: "New York Jets 2026 Uniform Schedule: When They Wear the White Out, Classic, and Gotham City Rivalries"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-09"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -41,7 +41,7 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
   <div style="background: #ffffff; color: #125740; border: 2px solid #125740; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Packers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White Out</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White &middot; Green Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Green Pants</div></div>
-  <div style="background: #125740; color: #8fe3bd; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #125740; color: #8fe3bd; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Green · White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Patriots</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #ffffff; color: #125740; border: 2px solid #125740; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Dolphins</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Classic</div></div>
   <div style="background: #125740; color: #8fe3bd; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -82,7 +82,7 @@ Closing the home schedule with it is the right call. A Jets-Patriots December da
 
 ## Gotham Green (The Home Base, Expected)
 
-The green home jersey is still the foundation, and it projects to four home dates: the Browns in Week 5, the Raiders in Week 8, the Broncos in Week 14, and the Vikings in Week 17. The Stripe Out against Cleveland carries an announced theme but no named jersey, so green is the projection rather than a confirmation. Week 10 against Buffalo, the Salute to Service game, is the black alternate.
+The green home jersey is still the foundation, and it projects to four home dates: the Browns in Week 5, the Raiders in Week 8, the Broncos in Week 14, and the Vikings in Week 17. The Stripe Out against Cleveland is now confirmed in green: green helmet, green jersey, white pants, the first time the Jets have worn that look this season. Week 10 against Buffalo, the Salute to Service game, is the black alternate.
 
 Gotham Green remains one of the more distinctive base colors in the league. Nobody else in the NFL is wearing that shade, and in a conference full of blue and red it reads instantly on broadcast.
 
@@ -108,7 +108,7 @@ Gotham green at home and white on the road, with three confirmed exceptions, all
 
 **What jerseys are the Jets wearing this week?**
 
-White at Detroit. For Week 3 against the Lions on Sunday, September 27, the Jets confirmed the green helmet, white road jersey and green pants in their game-day post, the same set they wore in Tennessee in Week 1. Detroit is at home in Honolulu blue.
+Green at home against Cleveland in Week 5 on Sunday, October 11: green helmet, green jersey, white pants, confirmed, and the team says it is the first time this season for that look. The Browns are in white. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
 
 **What uniform did the Jets wear last week?**
 

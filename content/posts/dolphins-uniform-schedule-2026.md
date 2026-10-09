@@ -2,7 +2,7 @@
 title: "Miami Dolphins 2026 Uniform Schedule: When They Wear the White Throwback and Dark Water Rivalries"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-09"
 excerpt: "The Dolphins' 2026 uniform schedule: confirmed dates for the white throwback jersey and the Dark Water Rivalries uniform, plus a week-by-week look at the aqua and white sets."
 gradient: "linear-gradient(135deg, #008E97 0%, #005e64 55%, #00272b 130%)"
 coverImage: "/images/posts/dolphins-uniform-schedule-2026/cover.jpg"
@@ -41,7 +41,7 @@ Here is the whole season at a glance. The two confirmed jersey games are marked 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at 49ers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White &middot; Aqua Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vikings</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ All White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ All White</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #008E97; color: #FC4C02; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">at Jets</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Aqua</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Patriots</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -79,7 +79,7 @@ The consolation is the matchup. Buffalo will be in its white road set, which we 
 
 ## White at Home, Aqua on Select Dates (Expected)
 
-Miami wears the standard white jersey at home for five of the eight home dates: the Chiefs in Week 3, the Bengals in Week 5, the Patriots in Week 8, the Lions in Week 9, and the Jets in Week 12. That puts every one of those visitors in color. Kansas City comes to Hard Rock Stadium in red, Cincinnati brings its orange alternate, New England wears navy, and Detroit wears Honolulu blue. The aqua home jersey gets one home date, the Chargers in Week 16. The home dates carry announced themes, from Hispanic Heritage to Salute to Service to Home for the Holidays, but none of those name a jersey, so these are our projection rather than a confirmation.
+Miami wears the standard white jersey at home for five of the eight home dates: the Chiefs in Week 3, the Bengals in Week 5, the Patriots in Week 8, the Lions in Week 9, and the Jets in Week 12. That puts every one of those visitors in color. Kansas City comes to Hard Rock Stadium in red, Cincinnati brings its orange alternate, New England wears navy, and Detroit wears Honolulu blue. The aqua home jersey gets one home date, the Chargers in Week 16. The home dates carry announced themes, from Hispanic Heritage to Salute to Service to Home for the Holidays, but none of those name a jersey, so these are our projection rather than a confirmation. Week 5 against Cincinnati is now set: all white, white helmet, white jersey and white pants, with the Bengals in orange.
 
 Aqua still comes out, and aqua is the point. Nobody else in the NFL owns this color, and on a bright afternoon in South Florida it is the most distinctive base uniform in the league. The orange numbers give it a second signal that reads from the upper deck. It is a genuinely great uniform that Miami sometimes seems less excited about than everyone else is.
 
@@ -107,7 +107,7 @@ Mostly white, home and away. Aqua comes out three times: at the Jets in Week 7, 
 
 **What jerseys are the Dolphins wearing this week?**
 
-Mostly white, home and away. Aqua comes out three times: at the Jets in Week 7, at Buffalo in Week 11, and at home against the Chargers in Week 16. The two confirmed specials are the white throwback in Week 14 against Chicago and the Dark Water Rivalries set in Week 17 against Buffalo, both at Hard Rock Stadium.
+All white against Cincinnati in Week 5 on Sunday, October 11: white helmet, white jersey, white pants at Hard Rock Stadium. The Bengals come in orange, a combination they have never worn before. For the rest of the season: Mostly white, home and away. Aqua comes out three times: at the Jets in Week 7, at Buffalo in Week 11, and at home against the Chargers in Week 16. The two confirmed specials are the white throwback in Week 14 against Chicago and the Dark Water Rivalries set in Week 17 against Buffalo, both at Hard Rock Stadium.
 
 **What uniform did the Dolphins wear last week?**
 

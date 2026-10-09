@@ -2,7 +2,7 @@
 title: "Arizona Cardinals 2026 Uniform Schedule: All 17 Games Announced, Two Black Jersey Dates, and Red in Dallas"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-09"
 excerpt: "The Cardinals released the full 2026 uniform schedule: the desert Rivalries jersey once, black twice, red seven times including two road games, and white seven times."
 gradient: "linear-gradient(135deg, #97233F 0%, #5e1628 55%, #141414 130%)"
 coverImage: "/images/posts/arizona-cardinals-uniform-schedule-2026/cover.jpg"
@@ -43,7 +43,7 @@ Here is the whole season at a glance, every game as the team announced it. The R
   <div style="background: #C69A5A; color: #3d1420; border: 2px solid #97233F; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #3d1420;">vs Seahawks</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Rivalries</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at 49ers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ All White</div></div>
-  <div style="background: #141414; color: #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85; color: #ffffff;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Lions</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #141414; color: #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85; color: #ffffff;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Lions</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ All Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rams</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #97233F; color: #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal Red</div></div>
   <div style="background: #97233F; color: #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal Red</div></div>
@@ -80,7 +80,7 @@ Seattle has confirmed its side of the matchup: navy helmet, navy jersey and wolf
 <img src="/images/posts/arizona-cardinals-uniform-schedule-2026/black-games.jpg" alt="Arizona Cardinals 2026 uniform schedule graphic for the black alternate jersey with a black helmet, assigned to Week 5 against the Lions and Week 12 against the Commanders" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Credit: Arizona Cardinals</p>
 
-We expected the black set to sit out 2026. Instead it gets two home games: the Lions in Week 5 and the Commanders in Week 12, both with the black helmet. The Week 12 game is the one to look at, because Washington has already published white for that trip, so it is a true black-versus-white matchup rather than the muddled black-on-color look that usually sinks this uniform. The Lions game is trickier: Detroit is in the Rivalries program this year, and if they bring their own dark alternate to Glendale, that is a game that will be hard to watch.
+We expected the black set to sit out 2026. Instead it gets two home games: the Lions in Week 5 and the Commanders in Week 12, both with the black helmet. The Week 12 game is the one to look at, because Washington has already published white for that trip, so it is a true black-versus-white matchup rather than the muddled black-on-color look that usually sinks this uniform. The Lions game is now set, and it avoids the worst case: Arizona goes all black, black helmet, black jersey and black pants, and Detroit comes in its white road jersey under the silver helmet, so it is black against white after all.
 
 Our position on the black jersey has not changed. It is the least Arizona-looking thing the Cardinals own, and two wearings is one more than we would give it. But it is a fair reading of what the team is doing: red, white, black, and the desert set gives them four distinct looks in a nine-game home slate, and two black nights is how you keep the red from feeling like a rerun.
 
@@ -125,7 +125,7 @@ Every game is assigned in the grid above. The short version: red in Weeks 7, 8, 
 
 **What jerseys are the Cardinals wearing this week?**
 
-Every game is assigned in the grid above. The short version: red in Weeks 7, 8, 10, 13, 16, 17 and 18, white in Weeks 1, 3, 4, 6, 9, 11 and 15, black in Weeks 5 and 12, and the desert Rivalries jersey in Week 2 against Seattle.
+All black against Detroit in Week 5 on Sunday, October 11: black helmet, black jersey, black pants, confirmed. The Lions are in white. For the rest of the season: Every game is assigned in the grid above. The short version: red in Weeks 7, 8, 10, 13, 16, 17 and 18, white in Weeks 1, 3, 4, 6, 9, 11 and 15, black in Weeks 5 and 12, and the desert Rivalries jersey in Week 2 against Seattle.
 
 **What uniform did the Cardinals wear last week?**
 

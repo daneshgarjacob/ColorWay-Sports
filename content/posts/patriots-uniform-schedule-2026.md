@@ -2,7 +2,7 @@
 title: "New England Patriots 2026 Uniform Schedule: Pat Patriot Throwback Dates, the Nor'easter Game, and Every Week"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-09"
 excerpt: "The Patriots have dated both alternates: the red Pat Patriot throwback in Weeks 5 and 14, and the Nor'easter Rivalries uniform in Week 13. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #002244 0%, #0b3a63 55%, #C60C30 130%)"
 coverImage: "/images/posts/patriots-uniform-schedule-2026/cover.jpg"
@@ -107,7 +107,7 @@ Navy if New England is at Gillette Stadium, white if they are on the road, excep
 
 **What jerseys are the Patriots wearing this week?**
 
-White on white at Jacksonville. For Week 3 against the Jaguars on Sunday, September 27, the Patriots confirmed the silver helmet, white jersey and white pants. The Jaguars wear their teal Prowler throwback. After that, home is navy, away is white except navy at Miami in Week 8, and Weeks 5, 13 and 14 are the alternate games.
+The red Pat Patriot throwback against the Raiders in Week 5 on Sunday, October 11: white helmet, red jersey, white pants, confirmed. Las Vegas is in its classic white with silver pants. For the rest of the season: Navy if New England is at Gillette Stadium, white if they are on the road, except navy at Miami in Week 8. The three confirmed alternate games are the red Pat Patriot throwback in Week 5 against the Raiders and Week 14 against the Vikings, and the Storm Blue Nor'easter in Week 13 against the Bills.
 
 **What uniform did the Patriots wear last week?**
 

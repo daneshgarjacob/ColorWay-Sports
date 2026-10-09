@@ -2,7 +2,7 @@
 title: "Tennessee Titans 2026 Uniform Schedule: The Brand-New Blue and White Sets and the 'Music City' Rivalries Uniform"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-09"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus the new Music City Rivalries uniform and its confirmed Week 10 debut."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -39,7 +39,7 @@ Here is the whole season at a glance. Week 9 is the bye. One game is now starred
   <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Titans Blue (Confirmed)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Light Blue Pants</div></div>
-  <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Titans Blue</div></div>
+  <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Titans Blue · White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4B92DB; color: #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Titans Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -55,7 +55,7 @@ Here is the whole season at a glance. Week 9 is the bye. One game is now starred
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat: <strong>Week 10 is the only game with a team-confirmed uniform.</strong> Tennessee has published no home-game uniform schedule beyond the Music City debut, so every other assignment above follows the standard NFL home-and-away convention and is our projection. Week 11 at Dallas is genuinely open because the Cowboys wear white at home. Pants are a week-of-game decision in both directions. The Week 18 kickoff time has not been set.</p>
+<p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat: <strong>Week 10 is the only game Tennessee announced in advance.</strong> The starred weeks were confirmed during game week (Week 5 against Houston: white helmet, light blue jersey, white pants). Tennessee has published no home-game uniform schedule beyond the Music City debut, so every other assignment above follows the standard NFL home-and-away convention and is our projection. Week 11 at Dallas is genuinely open because the Cowboys wear white at home. Pants are a week-of-game decision in both directions. The Week 18 kickoff time has not been set.</p>
 
 ## Titans Blue at Home (The New Base Set)
 
@@ -128,11 +128,11 @@ How does every one of these jerseys stack up? See our [Titans jerseys 2026 ranki
 
 **What jersey are the Titans wearing today?**
 
-Titans Blue at home and white on the road in the new uniform set, with one confirmed exception: the Music City Rivalries uniform in Week 10 against Jacksonville. This week, Week 3 at the Giants, is confirmed all white: white helmet, white jersey, white pants. Week 11 at Dallas could go either way because the Cowboys wear white at home.
+Titans Blue at home and white on the road in the new uniform set, with one confirmed exception: the Music City Rivalries uniform in Week 10 against Jacksonville. Week 11 at Dallas could go either way because the Cowboys wear white at home.
 
 **What jerseys are the Titans wearing this week?**
 
-Titans Blue at home and white on the road in the new uniform set, with one confirmed exception: the Music City Rivalries uniform in Week 10 against Jacksonville. Week 11 at Dallas could go either way because the Cowboys wear white at home.
+Titans blue at home against Houston in Week 5 on Sunday, October 11: white helmet, light blue jersey, white pants and light blue socks, confirmed. The Texans are all white under the navy helmet. For the rest of the season: Titans Blue at home and white on the road in the new uniform set, with one confirmed exception: the Music City Rivalries uniform in Week 10 against Jacksonville. Week 11 at Dallas could go either way because the Cowboys wear white at home.
 
 **What uniform did the Titans wear last week?**
 

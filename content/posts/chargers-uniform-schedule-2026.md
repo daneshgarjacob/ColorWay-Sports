@@ -2,7 +2,7 @@
 title: "Chargers Uniform Schedule 2026: What They're Wearing This Week, Plus Every Powder Blue Date"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-09-29"
+updatedDate: "2026-10-09"
 excerpt: "The Chargers released the full 2026 uniform schedule: every jersey and pants combo for all 17 games, from powder blue at home to the Super Chargers navy nights."
 gradient: "linear-gradient(135deg, #0080C6 0%, #00477e 55%, #001a37 130%)"
 coverImage: "/images/posts/chargers-uniform-schedule-2026/cover.jpg"
@@ -118,7 +118,7 @@ Powder blue at home and white on the road, with four confirmed exceptions. The S
 
 **What jerseys are the Chargers wearing this week?**
 
-Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
+Powder blue over powder blue pants under the white helmet against Denver in Week 5 on Sunday, October 11, as the team published. The Broncos are in Summit White under the navy helmet. For the rest of the season: Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
 
 **What uniform did the Chargers wear last week?**
 

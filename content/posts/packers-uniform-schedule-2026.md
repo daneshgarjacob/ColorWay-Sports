@@ -2,7 +2,7 @@
 title: "Green Bay Packers 2026 Uniform Schedule: All Four Uniforms and When the Rivalries Set Arrives"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-09"
 excerpt: "Green Bay published its 2026 uniform lineup: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set, which debuts in Week 5 against the Bears."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
@@ -119,7 +119,7 @@ Vintage Green at Lambeau and Classic White on the road, with one confirmed excep
 
 **What jerseys are the Packers wearing this week?**
 
-Vintage Green at Lambeau and Classic White on the road, unless the week is the Week 5 Bears game, where the Packers wear the new Rivalries uniform, or Week 14 against Buffalo, which is the 1923 throwback. The week-by-week grid above shows every game.
+The Rivalries debut against the Bears in Week 5 on Sunday, October 11: cream matte helmet, hunter green jersey, cream pants. Chicago is in white. For the rest of the season: Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
 
 **What uniform did the Packers wear last week?**
 
