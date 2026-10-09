@@ -3,7 +3,7 @@ title: "NFL Week 5 Uniforms 2026: What Every Team Is Wearing, Including Pat Patr
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-09-30"
-updatedDate: "2026-10-08"
+updatedDate: "2026-10-09"
 excerpt: "NFL Week 5 uniforms (Oct. 8-12): Patriots Pat Patriot throwback vs Raiders, Packers Rivalries debut vs Bears, Bucs red in Dallas, Cardinals black, Falcons red on Sunday night."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -43,7 +43,7 @@ Chicago gets its own turn on Christmas Day, when the Bears debut their Rivalries
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/buccaneers-red-home.jpg" alt="Tampa Bay Buccaneers red jersey, expected at Dallas on Thursday Night Football in Week 5 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-white-home.jpg" alt="Dallas Cowboys white jersey, confirmed at home against the Buccaneers in Week 5 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Thursday, 8:15 p.m. ET, Prime Video. Cowboys confirmed, Buccaneers expected.** Dallas published all 17 games on September 2, and this one is the standard **white** jersey at AT&T Stadium, with our read the silver star helmet and silver-blue pants. Because Dallas wears white at home, the visitor gets to bring color, and this is the one road game on Tampa Bay's calendar where we have the Bucs in **red**, under the pewter helmet. Tampa has not announced it, so it stays expected until game week.
+**Final: Buccaneers 24, Cowboys 16. Both teams confirmed.** Tampa Bay wore the **red jersey with the pewter helmet and white pants**, and Dallas wore the **silver star helmet, white jersey and silver-blue pants**. We grade the matchup a B-. Before the game: Dallas published all 17 games on September 2, and this one is the standard **white** jersey at AT&T Stadium, with our read the silver star helmet and silver-blue pants. Because Dallas wears white at home, the visitor gets to bring color, and this is the one road game on Tampa Bay's calendar where we have the Bucs in **red**, under the pewter helmet. Tampa has not announced it, so it stays expected until game week.
 
 It is Dallas's only home game in the Crucial Catch window, so a pink-accented Thursday night is likely, though the Cowboys have not named their Crucial Catch game. See the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and the [Buccaneers 2026 uniform schedule](/stories/buccaneers-uniform-schedule-2026).
 
@@ -102,7 +102,7 @@ Week 5 is the second of three Crucial Catch weekends. Eight clubs have tagged a 
 
 ### Thursday, October 8
 
-- **Tampa Bay Buccaneers at Dallas Cowboys**, 8:15 p.m. ET, Prime Video. Buccaneers: pewter helmet, red jersey, pewter pants (expected). Cowboys: white jersey (confirmed), silver helmet and silver-blue pants (expected).
+- **Tampa Bay Buccaneers at Dallas Cowboys**, Thursday, Prime Video. Final: Buccaneers 24, Cowboys 16. Buccaneers: pewter helmet, red jersey, white pants (confirmed). Cowboys: silver helmet, white jersey, silver-blue pants (confirmed). Grade: B-.
 
 ### Sunday, October 11
 
