@@ -113,7 +113,7 @@ The Eagles have confirmed only one Kelly Green date so far, Week 9 against the G
 
 Dallas has one white helmet shell and it appears on four dates in 2026, in two guises. For the three Color Rush games it carries the current star and a white facemask. For the Thanksgiving Classic it switches to the vintage star and a gray facemask. The team swaps the decals between looks rather than carrying two separate helmets.
 
-The one combination missing from the 2026 schedule is the one Dallas debuted on Christmas Day 2025 at Washington: the white helmet with the **navy jersey** and white pants, a pairing the franchise had never worn before. It was a one-off for a holiday road game, and with all three 2026 navy dates assigned as the standard navy look, it does not return this season unless the team changes a listing.
+The one combination missing from the 2026 schedule is the one Dallas debuted on Christmas Day 2025 at Washington: the white helmet with the **navy jersey** and white pants, a pairing the franchise had not worn since 1963. It was a one-off for a holiday road game, and with all three 2026 navy dates assigned as the standard navy look, it does not return this season unless the team changes a listing.
 
 How does every one of these jerseys stack up? See our [Cowboys jerseys 2026 ranking](/stories/cowboys-jerseys-2026-ranked), every jersey in the closet graded from best to worst.
 

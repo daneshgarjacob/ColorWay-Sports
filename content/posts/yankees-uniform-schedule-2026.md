@@ -2,7 +2,7 @@
 title: "Yankees Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-10-08"
+updatedDate: "2026-10-09"
 excerpt: "The Yankees have the simplest uniform schedule in baseball. Pinstripes at home, gray on the road, and a navy alternate they refuse to wear. We break down every Yankees jersey for the 2026 season."
 gradient: "linear-gradient(135deg, #0C2340 0%, #C4CED4 50%, #0C2340 100%)"
 coverImage: "/images/posts/yankees-uniform-schedule-2026/cover.jpg"
@@ -112,7 +112,7 @@ As of the date of this post, the Yankees have not worn the navy alternate in a 2
 
 Most MLB teams have four or five uniforms in active rotation across a season, with City Connects, throwback Sundays, holiday tributes, and ballpark-specific alternates pulling fans through different looks every week. The Phillies have a full five-jersey scheduled rotation. The Marlins built a weekend uniform schedule with a different look every Friday, Saturday, and Sunday at home. Most teams treat the uniform rotation as a branding opportunity.
 
-The Yankees do the opposite. The team has never participated in the City Connect program. The team did not wear Players' Weekend nicknames in 2019 when the rest of the league did. The team has never worn Turn Ahead the Clock or Negro Leagues throwback alternates. The team's All-Star patch placement and World Series patches are the only seasonal additions the franchise allows. The Yankees uniform schedule is a deliberate choice to keep the visual identity locked in across decades.
+The Yankees do the opposite. The team has never participated in the City Connect program. The team skipped Turn Ahead the Clock in 1999, and outside of Players' Weekend nicknames from 2017 to 2019 and a 1996 New York Black Yankees tribute game, it has never put anything but the pinstripes and road grays on the field. The team's All-Star patch placement and World Series patches are the only seasonal additions the franchise allows. The Yankees uniform schedule is a deliberate choice to keep the visual identity locked in across decades.
 
 A child watching a Yankees game in 2026 sees the same look on Aaron Judge that their grandparents saw on Mickey Mantle. That continuity is the brand. The simplicity of the schedule is the schedule.
 
