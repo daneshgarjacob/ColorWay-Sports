@@ -5,6 +5,7 @@ import TwitterEmbed from "@/components/TwitterEmbed";
 import InstagramEmbed from "@/components/InstagramEmbed";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import RelatedStories from "@/components/RelatedStories";
+import PreferredSourceCard from "@/components/PreferredSourceCard";
 import StorySidebar from "@/components/StorySidebar";
 import ReadingProgress from "@/components/ReadingProgress";
 import TrackerJumpNav, { type JumpNavItem } from "@/components/TrackerJumpNav";
@@ -435,6 +436,8 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         <AuthorBio author={author} />
 
         <FollowCard />
+
+        <PreferredSourceCard />
 
         {/* Inline newsletter signup */}
         <InlineNewsletter />
