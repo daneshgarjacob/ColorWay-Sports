@@ -1,0 +1,10 @@
+{
+  "_about": "Verified uniform facts. check-uniform-claims.mjs fails if a post contradicts one. Add a fact only with a source (game photo or official). namesOnBack: true = game jerseys carry player names; false = they do not; 'home-only-none' = no names at home, names on road.",
+  "facts": [
+    { "team": "Alabama", "aliases": ["Alabama", "Crimson Tide"], "namesOnBack": true, "source": "Game photos 2025 (ROBERTS 77 crimson, SIMPSON 15 white); names since 1981 apart from Ray Perkins break. Reader correction 2026-10-09." },
+    { "team": "Dodgers", "aliases": ["Dodgers"], "namesOnBack": true, "source": "Names returned to home and road in 2007 after 2005-06 nameless seasons." },
+    { "team": "Penn State", "aliases": ["Penn State", "Nittany Lions"], "namesOnBack": false, "source": "Names removed 2015 (gopsusports.com 2015-07-16); 2025 game photos bare numbers." },
+    { "team": "Yankees", "aliases": ["Yankees"], "namesOnBack": false, "source": "Never worn names, home or road." },
+    { "team": "Red Sox", "aliases": ["Red Sox"], "namesOnBack": "home-only-none", "source": "No names on home whites; road grays carry names." }
+  ]
+}

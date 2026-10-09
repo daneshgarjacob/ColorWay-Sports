@@ -3,7 +3,7 @@ title: "Alabama Uniform Schedule 2026: Every Jersey and When the Crimson Tide We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-09"
 excerpt: "What Alabama wears every game in 2026. Crimson at home, white on the road, and why the Tide's uniform schedule is the most locked-down in the SEC."
 gradient: "linear-gradient(135deg, #9E1B32 0%, #2a0a10 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -17,7 +17,7 @@ Wondering what jersey Alabama is wearing this week? This is the full Alabama 202
 
 ## Alabama Does Not Do Alternates
 
-The Crimson Tide uniform has barely changed in fifty years, and that is the point. Crimson jersey with white block numbers at home, white jersey with crimson numbers on the road, white pants and the crimson helmet with the player's number on the side. No nameplates on the back. No throwback weeks. No blackouts.
+The Crimson Tide uniform has barely changed in fifty years, and that is the point. Crimson jersey with white block numbers at home, white jersey with crimson numbers on the road, white pants and the crimson helmet with the player's number on the side. Player names on the back, as Alabama has worn them since 1981 apart from a short break under Ray Perkins. No throwback weeks. No blackouts.
 
 Alabama has not assigned an alternate uniform to any 2026 game, and the program's history suggests it will not. If that changes we will add the date here.
 
@@ -48,7 +48,7 @@ Twelve games, seven at Bryant-Denny, no alternates announced.
 
 SEC home teams wear color and visitors wear white, so the road games below are close to automatic.
 
-**September 5 vs. East Carolina**, Tuscaloosa. Home opener. ★ Confirmed: **crimson helmet, crimson jersey, white pants**, the standard Alabama home uniform with the player's number on the helmet and no nameplate on the back. East Carolina answered in the white jersey with white pants. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026).
+**September 5 vs. East Carolina**, Tuscaloosa. Home opener. ★ Confirmed: **crimson helmet, crimson jersey, white pants**, the standard Alabama home uniform with the player's number on the helmet and the player's name on the back. East Carolina answered in the white jersey with white pants. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026).
 
 **September 12 at Kentucky**, Lexington. ★ Confirmed from the broadcast: **crimson helmet, white jersey, white pants**, the standard road set at Kroger Field against Kentucky in blue over white pants. Alabama won 45-17.
 
@@ -102,7 +102,7 @@ Alabama's crimson helmet carries the player's jersey number on the side rather t
 
 **Does Alabama put names on the back of its jerseys?**
 
-No. Alabama does not wear nameplates on its game jerseys, one of the few remaining programs in major college football that does not.
+Yes. Alabama's game jerseys carry the player's last name above the number, home and road. Names first appeared in 1981, were dropped when Ray Perkins ordered new nameless uniforms for 1983, and came back during the 1980s. They have been part of the uniform ever since.
 
 **What does Alabama wear in the Iron Bowl?**
 
