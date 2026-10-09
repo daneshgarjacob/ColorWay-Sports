@@ -3,7 +3,7 @@ title: "Louisville Uniform Schedule 2026: Every Jersey and When the Cardinals We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-09"
 excerpt: "Louisville's 2026 uniform schedule: red home jerseys, white road uniforms, the Salute to Service helmet, and the black For The Ville alternate for Stanford."
 gradient: "linear-gradient(135deg, #AD0000 0%, #7a0000 55%, #000000 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ adidas makes all of it. The base red and white sets share one template: an arche
   <div style="background: #AD0000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / White</div></div>
   <div style="background: #AD0000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #AD0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / White</div></div>
-  <div style="background: #AD0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">All Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">For The Ville (Black)</div></div>
@@ -62,7 +62,7 @@ adidas makes all of it. The base red and white sets share one template: an arche
 
 The Wolfpack side is on the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026).
 
-**October 9 vs. Florida State.** Red expected. A Friday night game on ESPN at 7 p.m. Eastern, and the biggest home stage before Halloween. If Louisville adds a surprise helmet this fall, a Friday night national TV slot is a natural place for it. Nothing has been announced. Florida State's plan is on the [Florida State 2026 uniform schedule](/stories/florida-state-uniform-schedule-2026).
+**October 9 vs. Florida State.** Announced: **all black.** Louisville is going black for the Friday night game on ESPN at 7 p.m. Eastern, its biggest home stage before Halloween, according to WHAS11's game-day preview. The For The Ville set is still listed for its debut against Stanford on October 31, so we will confirm from the broadcast exactly which black uniform and helmet Louisville wears tonight. Florida State's plan is on the [Florida State 2026 uniform schedule](/stories/florida-state-uniform-schedule-2026).
 
 **October 17 at Syracuse.** White expected. Inside the JMA Wireless Dome.
 
@@ -86,7 +86,7 @@ Five games in, Louisville has shown both sides of its base closet: all white in 
 
 **What jersey is Louisville wearing this week?**
 
-Louisville wore the red helmet, white jersey and white pants at NC State on Saturday, October 3, and lost 31-28 to fall to 2-3. The week before, the Cardinals wore the white helmet, red jersey and red pants in a 30-27 loss to Wake Forest. Next is Florida State at home on Friday, October 9, where the red jersey is expected. The grid above lists every game with the expected uniform.
+Louisville wore the red helmet, white jersey and white pants at NC State on Saturday, October 3, and lost 31-28 to fall to 2-3. The week before, the Cardinals wore the white helmet, red jersey and red pants in a 30-27 loss to Wake Forest. Next is Florida State at home on Friday, October 9, where Louisville is wearing all black. The grid above lists every game with the expected uniform.
 
 **What are Louisville's football uniforms for 2026?**
 
