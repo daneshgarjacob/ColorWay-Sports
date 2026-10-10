@@ -3,7 +3,7 @@ title: "Georgia Tech Uniform Schedule 2026: Every Jersey and When the Yellow Jac
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-10"
 excerpt: "What Georgia Tech wears every game in 2026: the new Under Armour gold and white jerseys, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #003057 0%, #0b3a6b 55%, #B3A369 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Te
   <div style="background: #003057; color: #ffffff; border: 2px solid #B3A369; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mercer</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Gold / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #B3A369; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Gold</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #003057; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Gold</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #B3A369; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003057; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -54,7 +54,7 @@ The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Te
 
 **October 3.** Bye.
 
-**October 10 vs. Duke.** Gold expected. The defending ACC champion visits Atlanta.
+**October 10 vs. Duke.** ★ Confirmed from the broadcast: **white helmet with gold stripes, white jersey, black pants**. Gold had been expected at home, and Georgia Tech went with white at Bobby Dodd Stadium instead. Duke, the defending ACC champion, came in all black with royal blue trim, black helmet, black jersey and black pants; the Blue Devils' side is on the [Duke 2026 uniform schedule](/stories/duke-uniform-schedule-2026). Georgia Tech led 14-10 at halftime and won 28-25, handing Duke its first loss and moving to 2-3.
 
 **October 17 at Virginia Tech.** White expected. Lane Stadium.
 
@@ -72,13 +72,13 @@ The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Te
 
 ## The Bottom Line
 
-Three games in, Georgia Tech has shown most of the new Under Armour wardrobe: the all-white anniversary look against Colorado, gold over white pants against Tennessee, and gold over black pants against Mercer. From here the ACC convention takes over, gold at Bobby Dodd and white on the road. We will mark each combination on the grid as it is confirmed.
+Five games in, Georgia Tech has shown most of the new Under Armour wardrobe: the all-white anniversary look against Colorado, gold over white pants against Tennessee, gold over black pants against Mercer, white over gold pants at Stanford, and white over black pants at home against Duke. White at Bobby Dodd twice means the gold-at-home baseline is a guide, not a rule. We will mark each combination on the grid as it is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Georgia Tech wearing this week?**
 
-Georgia Tech wore a white helmet, white jersey and gold pants at Stanford on September 26, as posted and confirmed from the broadcast, in a 34-27 loss. That followed gold over black against Mercer, gold over white against Tennessee and the all-white opener against Colorado. Georgia Tech is off on October 3 and hosts Duke on October 10, where gold is expected. Georgia Tech wears gold at home and white on the road in 2026, and we update the grid above as combinations are confirmed.
+Georgia Tech wore a white helmet with gold stripes, white jersey and black pants against Duke at Bobby Dodd Stadium on Saturday, October 10, confirmed from the broadcast, and won 28-25 to move to 2-3. Gold had been expected at home. Before that came white over gold at Stanford, gold over black against Mercer, gold over white against Tennessee and the all-white opener against Colorado. Next is at Virginia Tech on October 17, where white is expected. Georgia Tech wears gold at home and white on the road in 2026, and we update the grid above as combinations are confirmed.
 
 **What are Georgia Tech's uniforms for 2026?**
 
@@ -94,7 +94,7 @@ All white: white helmet, white jersey, white pants, for the season-opening white
 
 **Why does Georgia Tech wear white at home?**
 
-Georgia Tech opened 2026 in all white at Bobby Dodd Stadium on September 3 against Colorado because the game was a Whiteout, a program tradition that began with a Thursday night win over Miami in 2008, with the crowd asked to wear white too. The jersey was a 30th Anniversary Edition marking thirty years since Georgia Tech became the first college program to buy from Under Armour. Gold is expected for the rest of the home schedule.
+Georgia Tech opened 2026 in all white at Bobby Dodd Stadium on September 3 against Colorado because the game was a Whiteout, a program tradition that began with a Thursday night win over Miami in 2008, with the crowd asked to wear white too. The jersey was a 30th Anniversary Edition marking thirty years since Georgia Tech became the first college program to buy from Under Armour. Georgia Tech wore white at home again on October 10 against Duke, white helmet, white jersey and black pants, when gold had been expected. Gold is expected for the remaining home dates on the grid above.
 
 **How many games does Georgia Tech play in 2026?**
 

@@ -3,7 +3,7 @@ title: "Buffalo Uniform Schedule 2026: Every Jersey and When the Bulls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Buffalo wears every game in 2026: the blue home jersey, the white road set, the black alternate, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #005BBB 0%, #1a7ad8 55%, #101820 130%)"
 cardStyle: words
@@ -41,7 +41,7 @@ Buffalo announces the combination each week with a post the program calls Thread
   <div style="background: #f1f3f8; color: #333; border: 2px solid #005BBB; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #005BBB; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Robert Morris</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Toledo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #14284b; border: 2px solid #005BBB; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Toledo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #005BBB; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UMass</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #005BBB; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bowling Green</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -61,7 +61,7 @@ Buffalo announces the combination each week with a post the program calls Thread
 
 **October 3 vs. Western Michigan.** ★ Confirmed from the broadcast and Buffalo's own game photography: **black helmet with the blue bull, black jersey with blue numbers, white pants.** On the broadcast the helmet and jersey read close to black, and UB Athletics' photos from the game, where Western Michigan's white jerseys and brown pants show true color, settle it: this was the black set, not the standard blue. Buffalo did not give the combination a name in its game recap. Western Michigan wore a white helmet, white jersey and brown pants. Western Michigan won 20-17 in the MAC opener, and Buffalo fell to 2-3.
 
-**October 10 at Toledo.** White expected. Toledo's homecoming in the Glass Bowl, which means Buffalo in white against a midnight blue home team. The Rockets have not worn anything but midnight blue at home this season.
+**October 10 at Toledo.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the full white road set for Toledo's Homecoming in the Glass Bowl, the same look Buffalo wore at Florida International. Toledo wore its midnight blue jersey with gold pants; the Rockets' side is on the [Toledo 2026 uniform schedule](/stories/toledo-uniform-schedule-2026). Buffalo led 13-0 at halftime, held Toledo scoreless until the fourth quarter and won 23-8 to even its record at 3-3.
 
 **October 17 vs. UMass.** Blue expected. Buffalo lists this one as the Flagship Cup.
 
@@ -89,13 +89,13 @@ MAC programs built their national television identity on midweek November footba
 
 ## The Bottom Line
 
-Five games in, Buffalo is 2-3 and has already used at least three helmets, three jersey colors and three pant colors, which tells you this is not a program that rides one look. Blue is the default at Broadview Stadium, white is locked in on the road under MAC color rules, and the black helmet and black jersey came out together for the first time against Western Michigan on October 3. Homecoming on September 26 went with the standard blue set, so the Wednesday night Central Michigan game on November 18 is the date we would circle next. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Six games in, Buffalo is 3-3 and has already used at least three helmets, three jersey colors and three pant colors, which tells you this is not a program that rides one look. Blue is the default at Broadview Stadium, white is locked in on the road under MAC color rules, and the black helmet and black jersey came out together for the first time against Western Michigan on October 3. Homecoming on September 26 went with the standard blue set, so the Wednesday night Central Michigan game on November 18 is the date we would circle next. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Buffalo wearing this week?**
 
-Buffalo wore the black helmet with the blue bull, a black jersey with blue numbers and white pants against Western Michigan on Saturday, October 3, confirmed from the broadcast and Buffalo's own game photos, and lost 20-17 in the MAC opener to fall to 2-3. Next up is at Toledo on October 10, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we star each one as it is confirmed.
+Buffalo wore all white, white helmet, white jersey and white pants, at Toledo on Saturday, October 10, confirmed from the broadcast, and won 23-8 to move to 3-3. The week before, the Bulls wore the black helmet with the blue bull, a black jersey with blue numbers and white pants in a 20-17 loss to Western Michigan. Next up is UMass at home on October 17, where blue is expected. The week-by-week grid above lists every game with the expected uniform, and we star each one as it is confirmed.
 
 **What are Buffalo's football uniforms for 2026?**
 

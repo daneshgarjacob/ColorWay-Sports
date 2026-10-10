@@ -3,7 +3,7 @@ title: "Duke Uniform Schedule 2026: Every Jersey and When the Blue Devils Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-10"
 excerpt: "Duke uniform schedule 2026: blue home jerseys, the all-white road set, the Gothic Duke helmet, black alternates, and every Blue Devils game's jersey week by week."
 gradient: "linear-gradient(135deg, #012169 0%, #00539B 55%, #ffffff 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ Nike outfits Duke, and the base jerseys have barely moved in years. The helmet i
   <div style="background: #00539B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Blue / Black</div></div>
   <div style="background: #00539B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs William &amp; Mary</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #00539B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #00539B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #00539B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -54,7 +54,7 @@ Nike outfits Duke, and the base jerseys have barely moved in years. The helmet i
 
 **October 3.** Bye.
 
-**October 10 at Georgia Tech.** White expected, with Georgia Tech in its home colors at Bobby Dodd Stadium. See the [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026) for the Yellow Jackets' side.
+**October 10 at Georgia Tech.** ★ Confirmed from the broadcast: **black helmet, black jersey, black pants**, all black with royal blue trim. White had been expected on the road, and Duke went to the black alternate instead. Georgia Tech wore a white helmet with gold stripes, white jersey and black pants at Bobby Dodd Stadium. See the [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026) for the Yellow Jackets' side. Georgia Tech led 14-10 at halftime and won 28-25, Duke's first loss of the season, and the Blue Devils are 4-1.
 
 **October 17 vs. North Carolina.** Blue expected. The Victory Bell game in Durham, with the Tar Heels in white on the [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026). Rivalry week is when Duke tends to reach for something beyond the block D.
 
@@ -78,7 +78,7 @@ Duke's jersey pattern is about as predictable as it gets: blue at home, all whit
 
 **What is Duke wearing this week?**
 
-Duke wore the blue helmet, blue jersey and blue pants against William & Mary on Saturday, September 26, and won 62-7 to move to 4-0. The week before, the Blue Devils beat Stanford 35-7 in a black helmet, blue jersey and black pants. Duke is off on October 3. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Duke wore all black with royal blue trim, black helmet, black jersey and black pants, at Georgia Tech on Saturday, October 10, confirmed from the broadcast, when white had been expected. Georgia Tech won 28-25, Duke's first loss, and the Blue Devils are 4-1. Before the October 3 bye, Duke wore blue head to toe in a 62-7 win over William & Mary. Next is North Carolina at home on October 17, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Duke's football uniforms for 2026?**
 

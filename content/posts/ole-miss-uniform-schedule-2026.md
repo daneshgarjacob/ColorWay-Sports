@@ -3,7 +3,7 @@ title: "Ole Miss Uniform Schedule 2026: Every Jersey and When the Rebels Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-10"
 excerpt: "The Ole Miss 2026 uniform schedule: red and navy home jerseys, powder blue alternates, the white road set, Realtree helmets, and every Rebels game week by week."
 gradient: "linear-gradient(135deg, #14213D 0%, #CE1126 60%, #6CACE4 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
   <div style="background: #CE1126; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Powder Blue</div></div>
   <div style="background: #ffffff; color: #14213D; border: 2px solid #6CACE4; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Powder / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #14213D; border: 2px solid #6CACE4; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Powder Blue / White / White</div></div>
   <div style="background: #CE1126; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Navy, Realtree?</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #CE1126; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Navy</div></div>
@@ -55,7 +55,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 
 **October 3.** Bye.
 
-**October 10 at Vanderbilt, FirstBank Stadium, Nashville.** White expected. The Rebels' second trip to Nashville this season, this time as the visitor.
+**October 10 at Vanderbilt, FirstBank Stadium, Nashville.** ★ Confirmed from the broadcast: **powder blue helmet with the red center stripe and the Ole Miss script, white jersey with powder blue numbers, white pants**. White was expected, and it is the same powder blue over white road look the Rebels wore at Florida. The Rebels' second trip to Nashville this season, this time as the visitor, at 3:30 p.m. ET on ESPN. Vanderbilt wore all black: the black helmet with the gold stripe and the V, the black jersey with gold numbers and black pants. No. 9 Ole Miss led 42-3 at halftime and won 52-17 to move to 4-1. Vanderbilt's side is on our [Vanderbilt 2026 uniform schedule](/stories/vanderbilt-uniform-schedule-2026).
 
 **October 17 vs. Missouri, Oxford.** Home color expected, but this is the date to watch for the Realtree helmet, since the fan schedule labels it "White - Realtree." The white fan theme also leaves room for the Rebels to wear white at home, which they did with the camo helmet in 2025. If that happens, Missouri would need to bring a color. Missouri's side is on our [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026).
 
@@ -73,7 +73,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 
 ## The Bottom Line
 
-Three games in, Ole Miss has shown the navy and red jerseys under the navy helmet over gray pants, and then went to the full powder blue set for LSU, which is exactly the pattern: traditional looks for the ordinary weeks, powder blue for the night the season turns on. The white road look and a new Realtree helmet are still to come. Missouri on October 17 is the likeliest camo date, and every road trip projects white. The grid above has every game, and we star each cell as the uniform is confirmed.
+Five games in, Ole Miss has shown the navy and red jerseys under the navy helmet over gray pants, and then went to the full powder blue set for LSU, which is exactly the pattern: traditional looks for the ordinary weeks, powder blue for the night the season turns on. On the road it has been the powder blue helmet, white jersey and white pants both times, at Florida and at Vanderbilt. A new Realtree helmet is still to come. Missouri on October 17 is the likeliest camo date, and every road trip projects white. The grid above has every game, and we star each cell as the uniform is confirmed.
 
 Want every big game in one place? Our [college football Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has what every top team is wearing this Saturday.
 
@@ -81,7 +81,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Ole Miss wearing this week?**
 
-Ole Miss wore the powder blue helmet, white jersey and white pants at Florida on Saturday, September 26, posted by the team as "Powder, White, White" and confirmed on the broadcast. Florida won 52-28, and the Rebels are 3-1. The week before, Ole Miss wore the full powder blue set, powder blue helmet, powder blue jersey and white pants, in a 32-24 win over LSU.
+Ole Miss wore the powder blue helmet with the red center stripe, a white jersey with powder blue numbers and white pants at Vanderbilt on Saturday, October 10, confirmed from the broadcast, and won 52-17 to move to 4-1. It is the same road look the Rebels wore at Florida on September 26. Next is Missouri in Oxford on October 17, where a home color is expected and the Realtree helmet is the thing to watch.
 
 **What are Ole Miss's football uniforms for 2026?**
 

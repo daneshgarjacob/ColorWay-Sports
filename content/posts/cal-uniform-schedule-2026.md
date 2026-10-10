@@ -3,7 +3,7 @@ title: "Cal Uniform Schedule 2026: Every Jersey and When the Golden Bears Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Cal wears every game in 2026: the blue home set, the white road set, the Joe Roth throwback, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #003262 0%, #0a4a86 55%, #FDB515 130%)"
 cardStyle: words
@@ -56,7 +56,7 @@ There is also a white version of the Joe Roth jersey. Cal introduced a Road Edit
   <div style="background: #003262; color: #ffffff; border: 2px solid #FDB515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wagner</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Gold</div></div>
   <div style="background: #FDB515; color: #003262; border: 2px solid #003262; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Gold / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #003262; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UNLV</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / Navy</div></div>
-  <div style="background: #003262; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #003262; color: #ffffff; border: 2px solid #FDB515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Blue / Gold</div></div>
   <div style="background: #003262; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -88,7 +88,7 @@ Cal published its home themes in July, and they double as a decent map of where 
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @CalFootball</p>
 
-**October 10 vs. Virginia Tech.** Blue expected. Homecoming, which at most programs is the traditional slot for an alternate if one exists.
+**October 10 vs. Virginia Tech**, Homecoming, 3:30 p.m. ET on ACC Network. ★ Confirmed from the broadcast: **gold helmet, blue jersey, gold pants**. Blue was the expected jersey, and the change for Homecoming came on the helmet, with the gold shell in place of the navy one Cal had worn in its other home games. Virginia Tech wore the white helmet with the maroon stripe, a white jersey and maroon pants. The Hokies led 14-10 at halftime, Cal scored 12 points in the fourth quarter and won 25-20, and the Bears are 3-3. More: [Virginia Tech uniform schedule](/stories/virginia-tech-uniform-schedule-2026).
 
 **October 17 vs. Wake Forest.** Blue expected, with an asterisk. This is Cal's first Grateful Dead theme game, built around the band's long history of playing on and around campus. Nothing has been announced on the uniform side, but if there is one date in 2026 where Cal puts something new on the field, this is it.
 
@@ -106,13 +106,13 @@ Cal published its home themes in July, and they double as a decent map of where 
 
 ## The Bottom Line
 
-Five games in, Cal is 2-3 and has worn the best throwback of the 2026 season, its plainest road set and a gold jersey for the Clemson Gold Out, which is a fair preview of how the rest of the fall should go. Blue is the default at home, white is locked in for all five road dates, and the Joe Roth uniform is the one that moves the needle. The gold Big C helmet stayed in the closet for the Gold Out, so the open question now is whether the Grateful Bears game gets a jersey to match the theme. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Six games in, Cal is 3-3 and has worn the best throwback of the 2026 season, its plainest road set, a gold jersey for the Clemson Gold Out and a gold helmet over the blue jersey for Homecoming, which is a fair preview of how the rest of the fall should go. Blue is the default at home, white is locked in for all five road dates, and the Joe Roth uniform is the one that moves the needle. The gold Big C helmet stayed in the closet for the Gold Out, so the open question now is whether the Grateful Bears game gets a jersey to match the theme. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Cal wearing this week?**
 
-Cal wore the navy helmet with the gold Cal script, the white road jersey and navy pants at UNLV on Saturday, October 3, confirmed from the broadcast, and lost 39-31 to fall to 2-3. Next is Virginia Tech at home on October 10 for Homecoming, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Cal wore the gold helmet, blue jersey and gold pants against Virginia Tech for Homecoming on Saturday, October 10, confirmed from the broadcast, and won 25-20 to get back to 3-3. The week before, the Bears wore the navy helmet, white road jersey and navy pants at UNLV. Next is Wake Forest at home on October 17 for the Grateful Dead theme game, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Cal's football uniforms for 2026?**
 

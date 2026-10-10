@@ -3,7 +3,7 @@ title: "Temple Uniform Schedule 2026: Every Jersey and When the Owls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Temple wears every game in 2026: the cherry home jersey, the white road set, both diamond helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #9D2235 0%, #b62a3f 55%, #5e1220 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["temple-owls", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-Temple owns one of the cleanest two color closets in college football and mixes it four ways. This is the full Temple 2026 uniform schedule: the cherry jersey, the white jersey, the cherry helmet, the white helmet, the diamond striping that runs through all of it, and a week by week outlook for every game. Five games in, the Owls have worn five different combinations. We update this page as each combination is confirmed.
+Temple owns one of the cleanest two color closets in college football and mixes it four ways. This is the full Temple 2026 uniform schedule: the cherry jersey, the white jersey, the cherry helmet, the white helmet, the diamond striping that runs through all of it, and a week by week outlook for every game. Six games in, the Owls have worn five different combinations. We update this page as each combination is confirmed.
 
 ## The Temple 2026 Uniform Sets
 
@@ -55,7 +55,7 @@ American Conference home teams wear color and visitors wear white, so every road
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Toledo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #9D2235; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cherry / Cherry / Cherry</div></div>
   <div style="background: #9D2235; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Cherry / Cherry</div></div>
-  <div style="background: #9D2235; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cherry</div></div>
+  <div style="background: #9D2235; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cherry / Cherry / White</div></div>
   <div style="background: #9D2235; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cherry</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -79,7 +79,7 @@ American Conference home teams wear color and visitors wear white, so every road
 
 **October 3 at South Florida.** ★ Confirmed from the broadcast: **white helmet with the cherry diamond chain, cherry jersey, cherry pants**. Temple wore color on the road because USF went white at home, a white helmet, white jersey and gold pants, instead of the green we had penciled in. Temple trailed 13-10 in the fourth quarter, then Ajani Sheppard broke a 34-yard touchdown run, and the Owls won 17-13 to hand USF its first loss. Temple is 2-3. More: [South Florida uniform schedule](/stories/south-florida-uniform-schedule-2026).
 
-**October 10 vs. UConn.** Cherry expected. Back home after two weeks away. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
+**October 10 vs. UConn.** ★ Confirmed from the broadcast: **cherry helmet with the white T, cherry jersey, white pants**, the same combination Temple wore against Penn State. Cherry was expected, and the Owls were back home at Lincoln Financial Field after two weeks away, a 3:45 p.m. Eastern kickoff on ESPNU. UConn wore a navy helmet, white jersey and navy pants. UConn led 24-17 at halftime and won 34-20, and Temple is 2-4. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
 
 **October 17 vs. Charlotte.** Cherry expected. The middle of a three game home stretch.
 
@@ -97,13 +97,13 @@ American Conference home teams wear color and visitors wear white, so every road
 
 ## The Bottom Line
 
-Temple does not need an alternate. The diamond system gives the equipment staff a long list of clean combinations out of two jerseys, two helmets and two pants, and the Owls have used five different ones in five games. Cherry is the home default, white is locked in on the road, and the interesting question every Saturday is which shell goes on top and whether the cherry pants come out. The Friday afternoon against Army brought out the full cherry monochrome. The date we are watching hardest now is the Thursday night finale at home against Rice, because that is the window programs save their best looks for. The grid above has every game, and we add a star as each combination is confirmed.
+Temple does not need an alternate. The diamond system gives the equipment staff a long list of clean combinations out of two jerseys, two helmets and two pants, and the Owls have used five different ones in six games. Cherry is the home default, white is locked in on the road, and the interesting question every Saturday is which shell goes on top and whether the cherry pants come out. The Friday afternoon against Army brought out the full cherry monochrome. The date we are watching hardest now is the Thursday night finale at home against Rice, because that is the window programs save their best looks for. The grid above has every game, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Temple wearing this week?**
 
-Temple wore the white helmet with the cherry diamond chain, the cherry jersey and cherry pants at South Florida on Saturday, October 3, confirmed from the broadcast, and won 17-13. A week earlier the Owls wore all cherry against Army and lost 21-17. Next is UConn at home on October 10, where cherry is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Temple wore the cherry helmet with the white T, the cherry jersey and white pants against UConn on Saturday, October 10, confirmed from the broadcast, and lost 34-20 to fall to 2-4. A week earlier the Owls wore the white helmet, cherry jersey and cherry pants at South Florida and won 17-13. Next is Charlotte at home on October 17, where cherry is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Temple's football uniforms for 2026?**
 
