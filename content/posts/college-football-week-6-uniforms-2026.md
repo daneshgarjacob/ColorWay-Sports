@@ -3,7 +3,7 @@ title: "College Football Week 6 Uniforms 2026: What Every Top Team Is Wearing, F
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-07"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-10"
 excerpt: "College football Week 6 uniforms: Oregon's Origin of Speed debut, Notre Dame in green, Florida's Spurrier throwback, the Penn State White Out and every Top 25 look."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -45,7 +45,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### South Carolina at No. 16 Florida: The Spurrier Throwback
 
-**Saturday, 12:45 p.m., SEC Network.** **Florida: Confirmed, retro helmet, white jersey, white pants.** Florida is the one program that published its entire 2026 uniform schedule in August, and that grid has held every week so far. This is the one date on it with the retro helmet: a royal blue shell with an orange and white center stripe and the block F inside a white oval, from the throwback the Gators revealed on August 10 to mark 60 years since Steve Spurrier won the 1966 Heisman. The opponent makes it better, since Spurrier went on to coach South Carolina for 11 seasons. The full set is graded in our [Florida throwback breakdown](/stories/florida-gators-throwback-uniforms-2026). **South Carolina: Expected in garnet**, because with Florida in white the visitor has to wear color. Last week the Gamecocks wore black at home against Kentucky, so black is a live option too. More: [Florida schedule](/stories/florida-uniform-schedule-2026) and [South Carolina schedule](/stories/south-carolina-uniform-schedule-2026).
+**Saturday, 12:45 p.m., SEC Network.** **Florida: Confirmed, retro helmet, white jersey, white pants.** Florida is the one program that published its entire 2026 uniform schedule in August, and that grid has held every week so far. This is the one date on it with the retro helmet: a royal blue shell with an orange and white center stripe and the block F inside a white oval, from the throwback the Gators revealed on August 10 to mark 60 years since Steve Spurrier won the 1966 Heisman. The opponent makes it better, since Spurrier went on to coach South Carolina for 11 seasons. The full set is graded in our [Florida throwback breakdown](/stories/florida-gators-throwback-uniforms-2026). **South Carolina: Confirmed in garnet**, the garnet helmet, garnet jersey and white pants. **Update:** Florida wore the retro helmet, white jersey and white pants exactly as planned, confirmed from the SEC Network broadcast: a royal blue shell with the orange and white center stripe and the block F in a white oval. More: [Florida schedule](/stories/florida-uniform-schedule-2026) and [South Carolina schedule](/stories/south-carolina-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GatorsFB/status/2086807502864167064"></a></blockquote>
@@ -126,16 +126,16 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Nebraska: **Expected**, scarlet, the white helmet and scarlet jersey it wore against Maryland.
 
 **[Texas A&M](/stories/texas-am-uniform-schedule-2026) at No. 14 [Missouri](/stories/missouri-uniform-schedule-2026)**, noon, ABC.
-- Texas A&M: **Expected**, white, a week after the camo Honor and Support game.
-- Missouri: **Expected**, black or gold, TBA until Missouri posts late in the week. The Tigers wore the black helmet, black jersey and gold pants to beat Florida last week.
+- Texas A&M: **Confirmed**, maroon helmet, white jersey, white pants.
+- Missouri: **Confirmed**, black helmet, black jersey, gold pants, the same combination that beat Florida last week.
 
 **[UCF](/stories/ucf-uniform-schedule-2026) at No. 18 [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026)**, noon, ESPN2.
-- UCF: **Expected**, white, on its first trip to Stillwater.
-- Oklahoma State: **Expected**, orange, for a Stripe the Stadium night.
+- UCF: **Confirmed**, gold helmet, white jersey, white pants, on its first trip to Stillwater.
+- Oklahoma State: **Confirmed**, orange helmet, black jersey, orange pants for the Stripe the Stadium night. Orange was expected for the jersey; it was black.
 
 **[North Carolina](/stories/north-carolina-uniform-schedule-2026) at No. 25 [Pitt](/stories/pitt-uniform-schedule-2026)**, noon, ESPN.
-- North Carolina: **Expected**, white, a week after the 1980 powder blue throwbacks against Notre Dame.
-- Pitt: **Expected**, blue, for the 1976 national championship 50th anniversary game. See above.
+- North Carolina: **Confirmed**, Carolina blue helmet, white jersey, Carolina blue pants.
+- Pitt: **Confirmed**, gold helmet, royal blue jersey, gold pants for the 1976 national championship 50th anniversary game. No throwback.
 
 **[Arizona](/stories/arizona-uniform-schedule-2026) at [West Virginia](/stories/west-virginia-uniform-schedule-2026)**, noon, TNT.
 - Arizona: **Confirmed**, Sandstorm with red pants: red chrome helmet with a desert ARIZONA decal, white jersey with red numerals and a red collar, red pants. It is the first road trip for the Sandstorm set, and the red pants are new.
@@ -146,16 +146,16 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - NC State: **Expected**, red, in its third straight home game.
 
 **[Tulane](/stories/tulane-uniform-schedule-2026) at [Army](/stories/army-uniform-schedule-2026)**, noon, CBSSN.
-- Tulane: **Expected**, white.
-- Army: **Expected**, black at Michie Stadium.
+- Tulane: **Confirmed**, green helmet, white jersey, white pants. Army 20, Tulane 17.
+- Army: **Confirmed**, gold helmet and black jersey at Michie Stadium. The pants were not clear in the frames we saw.
 
 **Ball State at [Northwestern](/stories/northwestern-uniform-schedule-2026)**, 12:30 p.m., BTN.
-- Northwestern: **Expected**, purple, for Homecoming and the first Saturday afternoon game at the new Ryan Field. The new Purple Gothics alternate is still set for October 24.
-- Ball State: TBA, announced game week.
+- Northwestern: **Confirmed**, purple helmet, purple jersey, black pants for Homecoming and the first Saturday afternoon game at the new Ryan Field. The new Purple Gothics alternate is still set for October 24.
+- Ball State: **Confirmed**, white helmet, white jersey, red pants.
 
 **South Carolina at No. 16 Florida**, 12:45 p.m., SEC Network.
-- [South Carolina](/stories/south-carolina-uniform-schedule-2026): **Expected**, garnet.
-- [Florida](/stories/florida-uniform-schedule-2026): **Confirmed**, retro helmet, white jersey, white pants. See above.
+- [South Carolina](/stories/south-carolina-uniform-schedule-2026): **Confirmed**, garnet helmet, garnet jersey, white pants.
+- [Florida](/stories/florida-uniform-schedule-2026): **Confirmed**, retro helmet, white jersey, white pants, worn as announced. See above.
 
 ### Also on the Early Slate
 
@@ -212,8 +212,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Temple: **Expected**, cherry.
 
 **[Rice](/stories/rice-uniform-schedule-2026) at [East Carolina](/stories/east-carolina-uniform-schedule-2026)**, 4 p.m., ESPN+.
-- Rice: **Expected**, white or gray, on its first trip to Greenville since 2009.
-- East Carolina: **Expected**, purple, for Homecoming and Letterwinners Weekend.
+- Rice: **Confirmed**, blue helmet, white jersey, blue pants, on its first trip to Greenville since 2009.
+- East Carolina: **Confirmed**, purple helmet, purple jersey, white pants for Homecoming and Letterwinners Weekend.
 
 **[Maryland](/stories/maryland-uniform-schedule-2026) at No. 5 [Ohio State](/stories/ohio-state-uniform-schedule-2026)**, 4:15 p.m., BTN.
 - Maryland: **Expected**, white.
