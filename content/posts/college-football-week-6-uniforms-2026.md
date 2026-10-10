@@ -25,7 +25,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 1 Texas vs. Oklahoma: Red River at the Cotton Bowl
 
-**Saturday, 3:30 p.m., ABC.** The Red River rivalry at the State Fair of Texas, with the stadium split down the 50 between burnt orange and crimson. Oklahoma is the designated home team this year. **Oklahoma: Confirmed in crimson**, the crimson helmet with the white interlocking OU, crimson jersey and white pants. **Texas: Confirmed in white**, white helmet, white jersey and white pants, which makes this the one game on the schedule outside a true road trip where the Longhorns are not in burnt orange. Both looks are confirmed from the ABC broadcast. More: [Texas schedule](/stories/texas-uniform-schedule-2026) and [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026).
+**Saturday, 3:30 p.m., ABC.** The Red River rivalry at the State Fair of Texas, with the stadium split down the 50 between burnt orange and crimson. Oklahoma is the designated home team this year. **Oklahoma: Confirmed in crimson**, the crimson helmet with the white interlocking OU, crimson jersey and white pants. **Texas: Confirmed in white**, white helmet, white jersey and white pants, which makes this the one game on the schedule outside a true road trip where the Longhorns are not in burnt orange. Both looks are confirmed from the ABC broadcast. Oklahoma trailed 17-7 at halftime, scored 17 in the fourth quarter and beat No. 1 Texas 27-24. More: [Texas schedule](/stories/texas-uniform-schedule-2026) and [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026).
 
 ### No. 21 UCLA at No. 13 Oregon: Origin of Speed
 
@@ -164,7 +164,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 ### Saturday, October 10: Afternoon Window
 
 **No. 1 Texas vs. Oklahoma**, 3:30 p.m., ABC, at the Cotton Bowl in Dallas.
-- [Texas](/stories/texas-uniform-schedule-2026): **Confirmed**, all white: white helmet, white jersey, white pants.
+- [Texas](/stories/texas-uniform-schedule-2026): **Confirmed**, all white: white helmet, white jersey, white pants. Oklahoma 27, Texas 24.
 - [Oklahoma](/stories/oklahoma-uniform-schedule-2026): **Confirmed**, crimson helmet, crimson jersey, white pants, as the designated home team.
 
 **Stanford at No. 3 Notre Dame**, 3:30 p.m., NBC.
@@ -216,11 +216,11 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - East Carolina: **Confirmed**, purple helmet, purple jersey, white pants for Homecoming and Letterwinners Weekend.
 
 **[Maryland](/stories/maryland-uniform-schedule-2026) at No. 5 [Ohio State](/stories/ohio-state-uniform-schedule-2026)**, 4:15 p.m., BTN.
-- Maryland: **Confirmed**, red helmet, white jersey, red pants.
+- Maryland: **Confirmed**, red helmet, white jersey, red pants. Ohio State 45, Maryland 16.
 - Ohio State: **Confirmed**, silver helmet, scarlet jersey, gray pants, the standard home set for Homecoming.
 
 **No. 15 [Tennessee](/stories/tennessee-uniform-schedule-2026) at [Arkansas](/stories/arkansas-uniform-schedule-2026)**, 4:15 p.m., SEC Network.
-- Tennessee: **Confirmed**, all white: white helmet, white jersey, white pants, a week after the one-time Smokey Grey against Auburn.
+- Tennessee: **Confirmed**, all white: white helmet, white jersey, white pants, a week after the one-time Smokey Grey against Auburn. Tennessee 24, Arkansas 17.
 - Arkansas: **Confirmed**, cardinal helmet, cardinal jersey, white pants, so it is cardinal against white with orange trim.
 
 ### Saturday, October 10: Night Window
