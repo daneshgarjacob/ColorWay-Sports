@@ -29,7 +29,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 21 UCLA at No. 13 Oregon: Origin of Speed
 
-**Saturday, 3:30 p.m., CBS.** **Oregon: Confirmed, Origin of Speed.** Oregon and Nike revealed the uniform on September 29 and named this game for the debut. It is a Night Forest set, Nike's darkest green, with electric green and yellow wings streaking across the shoulders as a tribute to Hayward Field and the track history of Eugene, and a dark helmet with a matching streaked wing. It is the third and final uniform in Oregon's Generation O series. We graded it a B in our [Origin of Speed breakdown](/stories/oregon-origin-of-speed-uniforms-2026). **UCLA: Expected in white**, the road set, which is the right answer against a near-black home uniform. More: [Oregon schedule](/stories/oregon-uniform-schedule-2026) and [UCLA schedule](/stories/ucla-uniform-schedule-2026).
+**Saturday, 3:30 p.m., CBS.** **Oregon: Confirmed, Origin of Speed.** Oregon and Nike revealed the uniform on September 29 and named this game for the debut. It is a Night Forest set, Nike's darkest green, with electric green and yellow wings streaking across the shoulders as a tribute to Hayward Field and the track history of Eugene, and a dark helmet with a matching streaked wing. It is the third and final uniform in Oregon's Generation O series. We graded it a B in our [Origin of Speed breakdown](/stories/oregon-origin-of-speed-uniforms-2026). **UCLA: Confirmed in white**, the gold helmet, white jersey and gold pants of the road set, which is the right answer against a near-black home uniform. **Update:** both looks are confirmed from the CBS broadcast. Oregon wore Origin of Speed as announced, dark Night Forest from helmet to pants with electric green numbers and the green speed streaks across the shoulders, and the gold and white of UCLA against it made this the best looking matchup of the afternoon. Our matchup grade: **A+**. More: [Oregon schedule](/stories/oregon-uniform-schedule-2026) and [UCLA schedule](/stories/ucla-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2104965287158358365"></a></blockquote>
@@ -176,8 +176,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Vanderbilt: **Expected**, black, for the first SEC home game of the season. Vanderbilt's new gold alternate already came out once in Week 2, and a marquee home game is where it could come back.
 
 **No. 21 UCLA at No. 13 Oregon**, 3:30 p.m., CBS.
-- [UCLA](/stories/ucla-uniform-schedule-2026): **Expected**, white.
-- [Oregon](/stories/oregon-uniform-schedule-2026): **Confirmed**, Origin of Speed. See above.
+- [UCLA](/stories/ucla-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants.
+- [Oregon](/stories/oregon-uniform-schedule-2026): **Confirmed**, Origin of Speed, worn as announced. Matchup grade: **A+**. See above.
 
 **No. 22 [Houston](/stories/houston-uniform-schedule-2026) at [Kansas State](/stories/kansas-state-uniform-schedule-2026)**, 3:30 p.m., FOX.
 - Houston: **Expected**, white, a week after Houston Blue against UCF.
