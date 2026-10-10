@@ -3,7 +3,7 @@ title: "Appalachian State Uniform Schedule 2026: Every Jersey and When the Mount
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-10"
 excerpt: "What App State wears every game in 2026: the black home set, the white road look, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #3d3526 55%, #FFCC00 130%)"
 cardStyle: words
@@ -46,7 +46,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
   <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #1A1A1A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Homecoming)</div></div>
+  <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Coastal Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Family Weekend)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -70,7 +70,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
 
 **October 3.** Bye.
 
-**October 10 vs. Old Dominion.** Black expected. Homecoming at Kidd Brewer Stadium, 1 p.m., and homecoming is the other date worth circling if App State has anything held back.
+**October 10 vs. Old Dominion.** ★ Confirmed from the broadcast: **black helmet, black jersey, black pants**, all black for Homecoming at Kidd Brewer Stadium, as expected, on a rainy and foggy 1 p.m. afternoon on ESPN+. Old Dominion wore a light blue helmet and light blue pants, and its jersey was not clear in the frames we saw. Old Dominion won 10-3, scoring all 10 of its points in the second half, and App State's only points came on a third quarter field goal. The Mountaineers fell to 3-2.
 
 **October 16 at Coastal Carolina.** White expected. A Friday night on ESPN2 in Conway, and the calendar note matters here: this one is Friday, not Saturday, so it shows up in a different week than most of the Sun Belt slate. More: [Coastal Carolina uniform schedule](/stories/coastal-carolina-uniform-schedule-2026).
 
@@ -92,13 +92,13 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
 
 ## The Bottom Line
 
-App State is not a uniform program in the Oregon sense and does not want to be. Black at home, white on the road, a matching helmet either way, gold on the edges of everything. Two games in, the Mountaineers have already used both sets exactly as you would guess, which makes the three home night and event games the ones worth watching: Black Saturday against Charlotte, homecoming against Old Dominion, and the Thursday nighter against James Madison. If anything new is coming in 2026, it shows up on one of those three. The grid above has every date, and we add the stars as each look is confirmed.
+App State is not a uniform program in the Oregon sense and does not want to be. Black at home, white on the road, a matching helmet either way, gold on the edges of everything. Five games in, the Mountaineers have used both sets exactly as you would guess, including all black for Black Saturday against Charlotte and again for Homecoming against Old Dominion. That leaves the Thursday nighter against James Madison on October 22 as the big home date still to come, and the most likely spot for anything new in 2026. The grid above has every date, and we add the stars as each look is confirmed.
 
 ## Frequently Asked Questions
 
 **What is App State wearing this week?**
 
-App State wore a black helmet, white jersey and black pants at NC State on Saturday, September 26, confirmed from the broadcast, in a 41-31 loss. The Mountaineers are off on October 3, and next up is Old Dominion at home on October 10, with black expected for Homecoming. The week before, App State wore all black against Charlotte in a 26-21 win.
+App State wore a black helmet, black jersey and black pants for Homecoming against Old Dominion on Saturday, October 10, confirmed from the broadcast, in a 10-3 loss that dropped the Mountaineers to 3-2. Next up is a Friday night trip to Coastal Carolina on October 16, with white expected. Before the October 3 bye, App State wore a black helmet, white jersey and black pants at NC State in a 41-31 loss.
 
 **What are App State's football uniforms for 2026?**
 
@@ -110,7 +110,7 @@ Black helmet, black jersey and black pants for the 55-3 win over Maine on Septem
 
 **Does App State have an alternate uniform in 2026?**
 
-Nothing has been announced. App State has stayed with the same two Nike sets through the first two games. If an alternate appears, the most likely spots are the Black Saturday night game against Charlotte on September 19, homecoming against Old Dominion on October 10, or the Thursday night game against James Madison on October 22.
+Nothing has been announced. App State has stayed with the same two Nike sets through the first five games, including all black for Black Saturday against Charlotte on September 19 and for Homecoming against Old Dominion on October 10. If an alternate appears, the most likely spot is the Thursday night game against James Madison on October 22.
 
 **What conference is App State in for 2026?**
 

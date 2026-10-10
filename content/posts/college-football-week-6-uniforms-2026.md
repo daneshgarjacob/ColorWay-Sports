@@ -151,7 +151,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 
 **Ball State at [Northwestern](/stories/northwestern-uniform-schedule-2026)**, 12:30 p.m., BTN.
 - Northwestern: **Confirmed**, purple helmet, purple jersey, black pants for Homecoming and the first Saturday afternoon game at the new Ryan Field. The new Purple Gothics alternate is still set for October 24.
-- Ball State: **Confirmed**, white helmet, white jersey, red pants.
+- Ball State: **Confirmed**, white helmet, white jersey, red pants. Northwestern 45, Ball State 14.
 
 **South Carolina at No. 16 Florida**, 12:45 p.m., SEC Network.
 - [South Carolina](/stories/south-carolina-uniform-schedule-2026): **Confirmed**, garnet helmet, garnet jersey, white pants.
@@ -159,7 +159,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 
 ### Also on the Early Slate
 
-- **Old Dominion at [App State](/stories/appalachian-state-uniform-schedule-2026)**, 1 p.m., ESPN+. App State **Expected** in black for Homecoming. Old Dominion: TBA, announced game week.
+- **Old Dominion at [App State](/stories/appalachian-state-uniform-schedule-2026)**, 1 p.m., ESPN+. App State **Confirmed** all black for Homecoming: black helmet, black jersey, black pants. Old Dominion **Confirmed** in a light blue helmet and light blue pants; its jersey was not clear in the rainy frames we saw. Old Dominion 10, App State 3.
 
 ### Saturday, October 10: Afternoon Window
 
@@ -211,8 +211,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - UConn: **Expected**, white. The new red alternate debuted for Homecoming last week.
 - Temple: **Expected**, cherry.
 
-**[Rice](/stories/rice-uniform-schedule-2026) at [East Carolina](/stories/east-carolina-uniform-schedule-2026)**, 4 p.m., ESPN+.
-- Rice: **Confirmed**, blue helmet, white jersey, blue pants, on its first trip to Greenville since 2009.
+**[Rice](/stories/rice-uniform-schedule-2026) at [East Carolina](/stories/east-carolina-uniform-schedule-2026)**, 1 p.m., ESPN+.
+- Rice: **Confirmed**, blue helmet, white jersey, blue pants, on its first trip to Greenville since 2009. East Carolina 28, Rice 12.
 - East Carolina: **Confirmed**, purple helmet, purple jersey, white pants for Homecoming and Letterwinners Weekend.
 
 **[Maryland](/stories/maryland-uniform-schedule-2026) at No. 5 [Ohio State](/stories/ohio-state-uniform-schedule-2026)**, 4:15 p.m., BTN.

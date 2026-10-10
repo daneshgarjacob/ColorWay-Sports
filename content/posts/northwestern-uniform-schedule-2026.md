@@ -3,7 +3,7 @@ title: "Northwestern Uniform Schedule 2026: Every Jersey and When the Wildcats W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-10"
 excerpt: "What Northwestern wears every game in 2026: the purple home set, the white road look, the new Purple Gothics alternate, and every game week by week."
 gradient: "linear-gradient(135deg, #4E2A84 0%, #6b3fa0 55%, #B6862C 130%)"
 cardStyle: words
@@ -62,7 +62,7 @@ One more thing shapes this schedule, and it is not a jersey. Northwestern played
   <div style="background: #4E2A84; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / Purple</div></div>
   <div style="background: #ffffff; color: #4E2A84; border: 2px solid #4E2A84; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / White / Purple</div></div>
   <div style="background: #4E2A84; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 2 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / White</div></div>
-  <div style="background: #4E2A84; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ball State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple (Homecoming)</div></div>
+  <div style="background: #4E2A84; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ball State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #3b1f66; color: #ffffff; border: 2px solid #B6862C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple Gothics</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -92,7 +92,7 @@ One more thing shapes this schedule, and it is not a jersey. Northwestern played
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ESPNRittenberg/status/2079600955981480400"></a></blockquote>
 </div>
 
-**October 10 vs. Ball State.** Purple expected. Homecoming, and the first Saturday afternoon game in the new Ryan Field.
+**October 10 vs. Ball State**, 12:30 p.m. ET on BTN. ★ Confirmed from the broadcast: **purple helmet, purple jersey, black pants**. Homecoming, and the first Saturday afternoon game at the new Ryan Field, and Northwestern swapped the white pants from the Ryan Field opener for black ones under the purple top. Ball State wore a white helmet, white jersey and red pants. Northwestern won 45-14 after leading 31-14 at the half, with a pick-six from Robert Fitzgerald, and moved to 4-1.
 
 **October 17 at Michigan State.** White expected. Spartan Stadium, where Michigan State wears green at home. There is a storyline attached, because Chiles started at quarterback for Michigan State before transferring to Northwestern. See the [Michigan State 2026 uniform schedule](/stories/michigan-state-uniform-schedule-2026).
 
@@ -110,13 +110,13 @@ One more thing shapes this schedule, and it is not a jersey. Northwestern played
 
 ## The Bottom Line
 
-Northwestern is the rare program where the uniform is genuinely part of the week. Purple and white are the base, but the Wildcats mixed helmets, jerseys and pants ten different ways a year ago, and 2026 adds the Purple Gothics to a closet that already held two black Gothic sets. We know one date for certain: Rutgers on October 24 gets the new purple and gold look. For October 2, when the new Ryan Field opens on the hundredth anniversary of the old one, Northwestern has confirmed the classic purple helmet, purple jersey and white pants. The grid above has every game, and we star each cell as the combination is confirmed.
+Northwestern is the rare program where the uniform is genuinely part of the week. Purple and white are the base, but the Wildcats mixed helmets, jerseys and pants ten different ways a year ago, and 2026 adds the Purple Gothics to a closet that already held two black Gothic sets. We know one date for certain: Rutgers on October 24 gets the new purple and gold look. The new Ryan Field opened on October 2 with the classic purple helmet, purple jersey and white pants, and Homecoming against Ball State on October 10 brought purple over black pants in a 45-14 win. The grid above has every game, and we star each cell as the combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Northwestern wearing this week?**
 
-Northwestern has confirmed the purple helmet, purple jersey and white pants for the new Ryan Field opener against Penn State on Friday, October 2, 8 p.m. ET on FOX. Last week the Wildcats wore the purple helmet, white jersey and purple pants at Indiana and lost 29-23. A week before that they went purple head to toe in a 41-7 win over Colorado, and they opened the season in the same purple helmet, purple jersey and white pants against South Dakota State. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
+Northwestern wore the purple helmet, purple jersey and black pants for Homecoming against Ball State on Saturday, October 10, confirmed from the broadcast, and won 45-14 to move to 4-1. Next is a trip to Michigan State on October 17, where white is expected. The week before Ball State, the Wildcats opened the new Ryan Field against Penn State in the purple helmet, purple jersey and white pants, and they wore the purple helmet, white jersey and purple pants at Indiana in a 29-23 loss. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
 
 **What are Northwestern's football uniforms for 2026?**
 

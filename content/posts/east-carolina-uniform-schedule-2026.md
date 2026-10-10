@@ -3,7 +3,7 @@ title: "East Carolina Uniform Schedule 2026: Every Jersey and When the Pirates W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-10"
 excerpt: "What East Carolina wears every game in 2026: the purple home set, the white road set, the black Night of the Boneyard alternate, and every date."
 gradient: "linear-gradient(135deg, #592A8A 0%, #6f3fa3 55%, #FDC82F 130%)"
 cardStyle: words
@@ -44,7 +44,7 @@ The other thing to know is that ECU ties its uniforms to what the crowd is told 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Purple</div></div>
   <div style="background: #592A8A; color: #ffffff; border: 2px solid #FDC82F; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs NC Central</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / Gold</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #592A8A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
+  <div style="background: #592A8A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 15 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #592A8A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
@@ -64,7 +64,7 @@ The other thing to know is that ECU ties its uniforms to what the crowd is told 
 
 **October 3.** Bye. ECU's only Saturday off before conference play.
 
-**October 10 vs. Rice.** Purple expected. Homecoming and Letterwinners Weekend opens American Conference play, kickoff time to be announced. Homecoming is one of the two dates on any schedule where a throwback is most likely, and ECU has the helmets to do it.
+**October 10 vs. Rice.** ★ Confirmed from the broadcast: **purple helmet with a gold facemask, purple jersey, white pants** for Homecoming and Letterwinners Weekend in Greenville, on ESPN+. We had a throwback helmet on the watch list for Homecoming, and it did not appear. Rice wore a blue helmet, white jersey and blue pants. East Carolina won 28-12 to open American Conference play and moved to 3-2. Our [Rice 2026 uniform schedule](/stories/rice-uniform-schedule-2026) has the Owls side.
 
 **October 15 at UAB.** White expected. Thursday night at Protective Stadium in Birmingham, 7:30 p.m. Eastern on ESPN or ESPN2, against a UAB team in green at home.
 
@@ -96,7 +96,7 @@ The American sells weeknight games to ESPN, and ECU carries three of them in 202
 
 ## The Bottom Line
 
-Two games in, East Carolina has used two helmets, two jerseys and two pant colors, and both looks were good ones. White is the call for the six road games, starting Saturday at Old Dominion, and purple is the default in Greenville, with the pants and helmet genuinely in play each week. The dates we would circle are homecoming against Rice on October 10, when a throwback helmet would fit, and the Friday night Boneyard game against South Florida on November 6, the most likely spot for the black set. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Two games in, East Carolina has used two helmets, two jerseys and two pant colors, and both looks were good ones. White is the call for the road games, and purple is the default in Greenville, with the pants and helmet genuinely in play each week. Homecoming against Rice on October 10 brought the purple helmet and purple jersey over white pants rather than a throwback, which leaves the Friday night Boneyard game against South Florida on November 6 as the date we would circle, the most likely spot for the black set. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ECUPiratesFB/status/2096218037242482699"></a></blockquote>
@@ -106,7 +106,7 @@ Two games in, East Carolina has used two helmets, two jerseys and two pant color
 
 **What jersey is East Carolina wearing this week?**
 
-East Carolina wore the purple helmet, purple jersey and gold pants against NC Central on Saturday, September 26, a 42-9 win, confirmed from the broadcast. The week before, the Pirates wore the white helmet, white jersey and purple pants at Old Dominion in a 20-17 win, after white at Alabama and all purple at home against App State. The week-by-week grid above lists every game with the expected uniform.
+East Carolina wore the purple helmet, purple jersey and white pants for Homecoming against Rice on Saturday, October 10, a 28-12 win, confirmed from the broadcast. The Pirates are 3-2, and next is a Thursday night trip to UAB on October 15, where white is expected. Before the October 3 bye, ECU wore the purple helmet, purple jersey and gold pants in a 42-9 win over NC Central, after white with purple pants at Old Dominion, white at Alabama and all purple at home against App State. The week-by-week grid above lists every game with the expected uniform.
 
 **What are East Carolina's football uniforms for 2026?**
 

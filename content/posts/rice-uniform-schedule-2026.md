@@ -3,7 +3,7 @@ title: "Rice Uniform Schedule 2026: Every Jersey and When the Owls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Rice wears every game in 2026: the new Nike blue, white and gray sets, both helmets, and the week-by-week Owls uniform schedule."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b1a3a 55%, #9ea3a8 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["rice-owls", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-Rice is back in Nike for the first time since 2011, and five games into the new deal the Owls have already worn four different combinations. This is the full Rice 2026 uniform schedule: the new blue home set, the white and gray road looks, the blue and silver helmets, every game played so far and the expected uniform for the rest of the season, starting with East Carolina on October 10. We update this page as each combination is confirmed.
+Rice is back in Nike for the first time since 2011, and six games into the new deal the Owls have already worn five different combinations. This is the full Rice 2026 uniform schedule: the new blue home set, the white and gray road looks, the blue and silver helmets, every game played so far and the expected uniform for the rest of the season, starting with Tulsa on October 17. We update this page as each combination is confirmed.
 
 ## The Rice 2026 Uniform Sets
 
@@ -40,7 +40,7 @@ This is not a rebrand. The Old English R stays on the helmet and the hip, the co
   <div style="background: #00205B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / White</div></div>
   <div style="background: #9ea3a8; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Gray</div></div>
   <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Blue</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White or Gray</div></div>
+  <div style="background: #ffffff; color: #00205B; border: 2px solid #00205B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White or Gray</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -60,7 +60,7 @@ This is not a rebrand. The Old English R stays on the helmet and the hip, the co
 
 **October 3 vs. UTSA.** ★ Confirmed from the broadcast: **blue helmet, blue jersey, blue pants**, all navy blue for the first American Conference home game. UTSA wore a navy helmet with a red stripe, white jersey and white pants. Jacurri Brown ran for both Rice touchdowns and cut it to 16-14 with 13:35 left, but Michael Petro's three field goals held up and UTSA won 16-14. Rice is 1-4. See our [UTSA 2026 uniform schedule](/stories/utsa-uniform-schedule-2026) for the other side.
 
-**October 10 at East Carolina.** White or gray expected. Rice's first trip to Greenville since 2009, a 3 p.m. Central kickoff on ESPN+. ECU has worn purple at home, and our [East Carolina 2026 uniform schedule](/stories/east-carolina-uniform-schedule-2026) tracks the Pirates.
+**October 10 at East Carolina.** ★ Confirmed from the broadcast: **blue helmet, white jersey, blue pants**, Rice's first trip to Greenville since 2009, on ESPN+. The white jersey was one of the two road options we expected, but the Owls paired it with the blue helmet and blue pants rather than the silver helmet they wore on their first two road trips. East Carolina wore a purple helmet with a gold facemask, purple jersey and white pants for its Homecoming. ECU won 28-12, and Rice is 1-5. Our [East Carolina 2026 uniform schedule](/stories/east-carolina-uniform-schedule-2026) tracks the Pirates.
 
 **October 17 vs. Tulsa.** Blue expected. Kickoff time still to be set. Tulsa debuted a red throwback this season, which makes the [Tulsa 2026 uniform schedule](/stories/tulsa-uniform-schedule-2026) worth a look before this one.
 
@@ -78,17 +78,17 @@ This is not a rebrand. The Old English R stays on the helmet and the hip, the co
 
 ## White or Gray on the Road?
 
-This is the real question for the back half of the Rice schedule. The Owls have taken two road trips and worn two different sets: white with white pants at Notre Dame, then gray head to toe at Fresno State, both under the silver helmet. Rice has not published a season uniform grid, so we will not guess which one goes where. The pattern we can see is that the silver helmet has been the road helmet both times and the blue helmet has been the home helmet all three times.
+This is the real question for the back half of the Rice schedule. The Owls have taken three road trips and worn three different sets: white with white pants at Notre Dame, then gray head to toe at Fresno State, both under the silver helmet, then the blue helmet, white jersey and blue pants at East Carolina. Rice has not published a season uniform grid, so we will not guess which one goes where. The blue helmet has been the home helmet every time, and East Carolina showed it can travel too, so the road helmet is now an open question as well.
 
 ## The Bottom Line
 
-Five games into the Nike era, Rice has worn the blue helmet at home and the silver helmet on the road, with blue, white and gray jerseys all already on the field. The update from Adidas is quiet, new numerals and moved stripes rather than a new identity, and that is the right call for a program built on the Old English R. The questions left are which road set shows up in Greenville, Boca Raton, Denton and Philadelphia, and whether Homecoming against Tulane gets anything special. The grid above has every date, and we add a star as each uniform is confirmed.
+Six games into the Nike era, Rice has worn the blue helmet at every home game and both the silver and blue helmets on the road, with blue, white and gray jerseys all already on the field. The update from Adidas is quiet, new numerals and moved stripes rather than a new identity, and that is the right call for a program built on the Old English R. The questions left are which road set shows up in Boca Raton, Denton and Philadelphia, and whether Homecoming against Tulane gets anything special. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Rice wearing this week?**
 
-Rice wore the blue helmet, blue jersey and blue pants against UTSA on Saturday, October 3, confirmed from the broadcast, and lost 16-14 to fall to 1-4. Next is a trip to East Carolina on October 10, where the white or gray road set is expected.
+Rice wore the blue helmet, white jersey and blue pants at East Carolina on Saturday, October 10, confirmed from the broadcast, and lost 28-12 to fall to 1-5. Next is Tulsa at home on October 17, where blue is expected. The week before, Rice wore the blue helmet, blue jersey and blue pants against UTSA in a 16-14 loss.
 
 **Did Rice get new uniforms in 2026?**
 
