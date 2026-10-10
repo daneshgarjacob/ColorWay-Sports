@@ -29,7 +29,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 21 UCLA at No. 13 Oregon: Origin of Speed
 
-**Saturday, 3:30 p.m., CBS.** **Oregon: Confirmed, Origin of Speed.** Oregon and Nike revealed the uniform on September 29 and named this game for the debut. It is a Night Forest set, Nike's darkest green, with electric green and yellow wings streaking across the shoulders as a tribute to Hayward Field and the track history of Eugene, and a dark helmet with a matching streaked wing. It is the third and final uniform in Oregon's Generation O series. We graded it a B in our [Origin of Speed breakdown](/stories/oregon-origin-of-speed-uniforms-2026). **UCLA: Confirmed in white**, the gold helmet, white jersey and gold pants of the road set, which is the right answer against a near-black home uniform. **Update:** both looks are confirmed from the CBS broadcast. Oregon wore Origin of Speed as announced, dark Night Forest from helmet to pants with electric green numbers and the green speed streaks across the shoulders, and the gold and white of UCLA against it made this the best looking matchup of the afternoon. Our matchup grade: **A+**. More: [Oregon schedule](/stories/oregon-uniform-schedule-2026) and [UCLA schedule](/stories/ucla-uniform-schedule-2026).
+**Saturday, 3:30 p.m., CBS.** **Oregon: Confirmed, Origin of Speed.** Oregon and Nike revealed the uniform on September 29 and named this game for the debut. It is a Night Forest set, Nike's darkest green, with electric green and yellow wings streaking across the shoulders as a tribute to Hayward Field and the track history of Eugene, and a dark helmet with a matching streaked wing. It is the third and final uniform in Oregon's Generation O series. We graded it a B in our [Origin of Speed breakdown](/stories/oregon-origin-of-speed-uniforms-2026). **UCLA: Confirmed in white**, the gold helmet, white jersey and gold pants of the road set, which is the right answer against a near-black home uniform. **Update:** both looks are confirmed from the CBS broadcast. Oregon wore Origin of Speed as announced, dark Night Forest from helmet to pants with electric green numbers and the green speed streaks across the shoulders, and the gold and white of UCLA against it made this the best looking matchup of the afternoon. Our matchup grade: **A+**. UCLA spoiled the debut on the scoreboard, 17-15. More: [Oregon schedule](/stories/oregon-uniform-schedule-2026) and [UCLA schedule](/stories/ucla-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2104965287158358365"></a></blockquote>
@@ -172,11 +172,11 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Confirmed**, Irish Wear Green as announced: gold helmet, green jersey, green pants. See above.
 
 **No. 9 [Ole Miss](/stories/ole-miss-uniform-schedule-2026) at [Vanderbilt](/stories/vanderbilt-uniform-schedule-2026)**, 3:30 p.m., ESPN.
-- Ole Miss: **Confirmed**, powder blue helmet with the red stripe, white jersey, white pants, coming off its bye.
+- Ole Miss: **Confirmed**, powder blue helmet with the red stripe, white jersey, white pants, coming off its bye. Ole Miss 52, Vanderbilt 17.
 - Vanderbilt: **Confirmed**, all black: black helmet, black jersey, black pants, for the first SEC home game of the season. The gold alternate stayed in the closet.
 
 **No. 21 UCLA at No. 13 Oregon**, 3:30 p.m., CBS.
-- [UCLA](/stories/ucla-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants.
+- [UCLA](/stories/ucla-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants. UCLA 17, Oregon 15.
 - [Oregon](/stories/oregon-uniform-schedule-2026): **Confirmed**, Origin of Speed, worn as announced. Matchup grade: **A+**. See above.
 
 **No. 22 [Houston](/stories/houston-uniform-schedule-2026) at [Kansas State](/stories/kansas-state-uniform-schedule-2026)**, 3:30 p.m., FOX.
@@ -188,7 +188,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Georgia Tech: **Confirmed**, white helmet, white jersey, black pants at Bobby Dodd Stadium. Gold was expected; Tech went white at home.
 
 **[Virginia Tech](/stories/virginia-tech-uniform-schedule-2026) at [Cal](/stories/cal-uniform-schedule-2026)**, 3:30 p.m., ACC Network.
-- Virginia Tech: **Confirmed**, white helmet with the maroon stripe, white jersey, maroon pants.
+- Virginia Tech: **Confirmed**, white helmet with the maroon stripe, white jersey, maroon pants. Cal 25, Virginia Tech 20.
 - Cal: **Confirmed**, gold helmet, blue jersey, gold pants, for Homecoming.
 
 **[Illinois](/stories/illinois-uniform-schedule-2026) at [Michigan State](/stories/michigan-state-uniform-schedule-2026)**, 3:30 p.m., FS1.
@@ -208,7 +208,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Toledo: **Confirmed**, midnight blue jersey and gold pants for Homecoming in the Glass Bowl. The helmet was not clear in the frames we saw.
 
 **[UConn](/stories/uconn-uniform-schedule-2026) at [Temple](/stories/temple-uniform-schedule-2026)**, 3:45 p.m., ESPNU, at Lincoln Financial Field.
-- UConn: **Confirmed**, navy helmet, white jersey, navy pants. The new red alternate debuted for Homecoming last week.
+- UConn: **Confirmed**, navy helmet, white jersey, navy pants. UConn 34, Temple 20. The new red alternate debuted for Homecoming last week.
 - Temple: **Confirmed**, cherry helmet, cherry jersey, white pants.
 
 **[Rice](/stories/rice-uniform-schedule-2026) at [East Carolina](/stories/east-carolina-uniform-schedule-2026)**, 1 p.m., ESPN+.

@@ -58,7 +58,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
 
 **October 3.** Bye.
 
-**October 10 vs. UCLA.** ★ Confirmed from the broadcast: the new **Origin of Speed** uniform, worn as announced. Dark Night Forest helmet, jersey and pants, with electric green numbers and the Green Strike speed streaks across the shoulders, revealed by Oregon and Nike on September 29. UCLA wore the gold helmet, white jersey and gold pants, and the gold and white against the near-black home set made it the best looking matchup of the afternoon. Our matchup grade: **A+**. Every detail of the uniform is in our [Origin of Speed breakdown](/stories/oregon-origin-of-speed-uniforms-2026), and UCLA's season is on the [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026).
+**October 10 vs. UCLA.** ★ Confirmed from the broadcast: the new **Origin of Speed** uniform, worn as announced. Dark Night Forest helmet, jersey and pants, with electric green numbers and the Green Strike speed streaks across the shoulders, revealed by Oregon and Nike on September 29. UCLA wore the gold helmet, white jersey and gold pants, and the gold and white against the near-black home set made it the best looking matchup of the afternoon. Our matchup grade: **A+**. The result did not match the look: No. 21 UCLA won 17-15 at Autzen, Oregon's second loss, and the Ducks are 3-2. Every detail of the uniform is in our [Origin of Speed breakdown](/stories/oregon-origin-of-speed-uniforms-2026), and UCLA's season is on the [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026).
 
 **October 17 vs. Nebraska.** Green expected.
 
@@ -82,7 +82,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oregon wearing this week?**
 
-Oregon wore Warp Speed at USC on Saturday, September 26: silver helmet, white jersey and white pants, confirmed by Oregon on September 23 and matched by the game photos, in a 41-27 win over USC in cardinal and gold. The week before, Oregon wore all green against Portland State: green helmet with the yellow wing, green jersey with yellow numbers and green pants, in an 84-0 win. Oregon is off on October 3, and next up is UCLA at Autzen on October 10, where Oregon debuts the new [Origin of Speed uniform](/stories/oregon-origin-of-speed-uniforms-2026), revealed September 29. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 4 Uniforms 2026](/stories/college-football-week-4-uniforms-2026) guide.
+Oregon debuted the new [Origin of Speed uniform](/stories/oregon-origin-of-speed-uniforms-2026) against UCLA at Autzen on Saturday, October 10: dark Night Forest helmet, jersey and pants with electric green numbers and speed streaks, confirmed from the broadcast. UCLA won 17-15, and Oregon is 3-2. Two weeks earlier, Oregon wore Warp Speed at USC, silver helmet, white jersey and white pants, in a 41-27 win. Next up is Nebraska at home on October 17, where green is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 6 Uniforms 2026](/stories/college-football-week-6-uniforms-2026) guide.
 
 **What are Oregon's uniforms for 2026?**
 

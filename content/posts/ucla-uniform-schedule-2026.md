@@ -54,7 +54,7 @@ The base sets are Jordan Brand, which took over UCLA in 2021 and put the Jumpman
 
 **October 3.** Bye.
 
-**October 10 at Oregon.** ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**, the road set, at Autzen Stadium. Oregon debuted its new, near-black [Origin of Speed uniform](/stories/oregon-origin-of-speed-uniforms-2026), dark Night Forest from helmet to pants with electric green numbers and speed streaks, and the gold and white against it made this the best looking matchup of the afternoon. Our matchup grade: **A+**.
+**October 10 at Oregon.** ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**, the road set, at Autzen Stadium. Oregon debuted its new, near-black [Origin of Speed uniform](/stories/oregon-origin-of-speed-uniforms-2026), dark Night Forest from helmet to pants with electric green numbers and speed streaks, and the gold and white against it made this the best looking matchup of the afternoon. Our matchup grade: **A+**. UCLA won it too, 17-15 over No. 13 Oregon, to move to 5-0.
 
 **October 17 vs. Wisconsin.** Blue expected. A Big Ten home date at the Rose Bowl, with Wisconsin in white.
 
@@ -78,7 +78,7 @@ UCLA runs one of the tightest uniform rotations in the Big Ten: one gold helmet,
 
 **What jersey is UCLA wearing this week?**
 
-UCLA wore the gold helmet, white jersey and gold pants at Maryland on Saturday, September 26, and won 54-3 to move to 4-0. The week before, the Bruins beat Purdue 52-38 at the Rose Bowl in the home set, gold helmet, blue jersey and gold pants. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+UCLA wore the gold helmet, white jersey and gold pants at No. 13 Oregon on Saturday, October 10, confirmed from the broadcast, and won 17-15 to move to 5-0. It was the same road set the Bruins wore in the 54-3 win at Maryland on September 26. Next up is Wisconsin at the Rose Bowl on October 17, where the blue home jersey is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are UCLA's football uniforms for 2026?**
 
