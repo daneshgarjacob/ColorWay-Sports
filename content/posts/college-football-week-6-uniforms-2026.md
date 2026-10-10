@@ -37,7 +37,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### Stanford at No. 3 Notre Dame: Irish Wear Green
 
-**Saturday, 3:30 p.m., NBC.** **Notre Dame: Confirmed, Irish Wear Green.** Notre Dame revealed its refreshed green set on July 30 for this game: Kelly green jersey, Kelly green pants and green and gold cleats under the traditional gold helmet, with white block numbers trimmed in metallic gold and the football Leprechaun logo on the sleeves. It is the annual green game Marcus Freeman started in 2022, and the Irish are 3-1 in it. Our grade is in [Notre Dame's Irish Wear Green jersey](/stories/notre-dame-irish-wear-green-2026). **Stanford: Confirmed in white**, the white helmet with the cardinal S, white jersey and white pants, so it is green and gold against white and cardinal. **Update:** the game photos show the full set as announced: gold helmet, green jersey and green pants. More: [Notre Dame schedule](/stories/notre-dame-uniform-schedule-2026) and [Stanford schedule](/stories/stanford-uniform-schedule-2026).
+**Saturday, 3:30 p.m., NBC.** **Notre Dame: Confirmed, Irish Wear Green.** Notre Dame revealed its refreshed green set on July 30 for this game: Kelly green jersey, Kelly green pants and green and gold cleats under the traditional gold helmet, with white block numbers trimmed in metallic gold and the football Leprechaun logo on the sleeves. It is the annual green game Marcus Freeman started in 2022, and the Irish are 3-1 in it. Our grade is in [Notre Dame's Irish Wear Green jersey](/stories/notre-dame-irish-wear-green-2026). **Stanford: Confirmed in white**, the white helmet with the cardinal S, white jersey and white pants, so it is green and gold against white and cardinal. **Update:** the game photos show the full set as announced: gold helmet, green jersey and green pants. Notre Dame won 58-7 to move to 6-0 and 4-1 all time in the green game. More: [Notre Dame schedule](/stories/notre-dame-uniform-schedule-2026) and [Stanford schedule](/stories/stanford-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NDFootball/status/2082816430391587019"></a></blockquote>
@@ -168,7 +168,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - [Oklahoma](/stories/oklahoma-uniform-schedule-2026): **Confirmed**, crimson helmet, crimson jersey, white pants, as the designated home team.
 
 **Stanford at No. 3 Notre Dame**, 3:30 p.m., NBC.
-- [Stanford](/stories/stanford-uniform-schedule-2026): **Confirmed**, white helmet, white jersey, white pants.
+- [Stanford](/stories/stanford-uniform-schedule-2026): **Confirmed**, white helmet, white jersey, white pants. Notre Dame 58, Stanford 7.
 - [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Confirmed**, Irish Wear Green as announced: gold helmet, green jersey, green pants. See above.
 
 **No. 9 [Ole Miss](/stories/ole-miss-uniform-schedule-2026) at [Vanderbilt](/stories/vanderbilt-uniform-schedule-2026)**, 3:30 p.m., ESPN.
@@ -196,11 +196,11 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Michigan State: **Expected**, green, for Homecoming, the home date we are watching most closely for a special helmet.
 
 **Charlotte at [North Texas](/stories/north-texas-uniform-schedule-2026)**, 3:30 p.m., ESPN+.
-- North Texas: **Confirmed**, all green: green helmet, green jersey, green pants, for Jammin' at DATCU.
+- North Texas: **Confirmed**, all green: green helmet, green jersey, green pants, for Jammin' at DATCU. North Texas 50, Charlotte 10.
 - Charlotte: **Confirmed**, white helmet, white jersey, white pants.
 
 **[Tulsa](/stories/tulsa-uniform-schedule-2026) at [Navy](/stories/navy-uniform-schedule-2026)**, 3:30 p.m., CBSSN.
-- Tulsa: **Confirmed**, blue helmet and white jersey. The pants were not clear in the frames we saw.
+- Tulsa: **Confirmed**, all white: white helmet with the blue Tulsa script, white jersey, white pants. Navy 34, Tulsa 26.
 - Navy: **Confirmed**, gold helmet, navy jersey, gold pants, back in Annapolis after the loss at Air Force.
 
 **[Buffalo](/stories/buffalo-uniform-schedule-2026) at [Toledo](/stories/toledo-uniform-schedule-2026)**, 3:30 p.m., ESPN+.
