@@ -3,7 +3,7 @@ title: "Navy Uniform Schedule 2026: Every Jersey and When the Midshipmen Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Navy wears every game in 2026: the navy home jersey, the white road set, the 1926 centennial throwback against Notre Dame, and the December tribute."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b3072 55%, #C5B783 130%)"
 cardStyle: words
@@ -40,7 +40,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #00205B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Air Force</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / White</div></div>
-  <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #00205B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Navy / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy (Homecoming)</div></div>
   <div style="background: #C5B783; color: #00205B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame (Foxborough)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">1926 Centennial</div></div>
@@ -70,7 +70,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AF_Football/status/2092280914013536640"></a></blockquote>
 </div>
 
-**October 10 vs. Tulsa.** Navy expected. Back in Annapolis at 3:30 p.m. Eastern on CBS Sports Network. More: [Tulsa uniform schedule](/stories/tulsa-uniform-schedule-2026).
+**October 10 vs. Tulsa.** ★ Confirmed from the broadcast: **gold helmet, navy jersey, gold pants**, the standard home set as expected, back in Annapolis at 3:30 p.m. Eastern on CBS Sports Network. Tulsa wore all white, a white helmet with the blue Tulsa script, white jersey and white pants. Tulsa led 20-14 at halftime, Navy scored 14 in the fourth quarter, and Navy won 34-26 to get to 2-3. More: [Tulsa uniform schedule](/stories/tulsa-uniform-schedule-2026).
 
 **October 17 at UTSA.** White expected. Indoors at the Alamodome in San Antonio, kickoff still to be announced.
 
@@ -90,7 +90,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
 
 **November 28 at Charlotte.** White expected. Regular season finale at Jerry Richardson Stadium, kickoff to be announced.
 
-**December 5.** The American Conference Championship Game, if Navy gets there. The Midshipmen are 1-3 after four games.
+**December 5.** The American Conference Championship Game, if Navy gets there. The Midshipmen are 2-3 after five games.
 
 **December 12 vs. Army, MetLife Stadium.** The 127th Army-Navy Game, 3 p.m. Eastern on CBS, presented by USAA, back at MetLife Stadium for the first time since 2021. Navy is listed as the visitor on the schedule, which tells you nothing, because neither team wears a regular uniform in this game.
 
@@ -124,7 +124,7 @@ Navy's regular season uniform schedule is simple: navy and gold at home, white o
 
 **What jersey is Navy wearing this week?**
 
-Navy wore the gold helmet, white jersey and white pants at Air Force on Saturday, October 3, and lost 14-9 in the first leg of the Commander-in-Chief's Trophy. The Midshipmen are 1-3. The week before, at UAB, they wore the navy jersey and navy pants because UAB chose white at home. Next up is Tulsa in Annapolis on October 10, where the navy home jersey is expected. The grid above lists every game with the expected set and we star each one as it is confirmed.
+Navy wore the gold helmet, navy jersey and gold pants at home against Tulsa on Saturday, October 10, confirmed from the broadcast, and won 34-26. The Midshipmen are 2-3. The week before, at Air Force, they wore the gold helmet, white jersey and white pants in a 14-9 loss. Next up is at UTSA on October 17, where white is expected. The grid above lists every game with the expected set and we star each one as it is confirmed.
 
 **What are Navy's football uniforms for 2026?**
 
@@ -136,7 +136,7 @@ Yes. Navy announced on September 15 that it will wear a commemorative Under Armo
 
 **What is Navy wearing for the Army-Navy Game in 2026?**
 
-Unknown as of October 4. The 127th Army-Navy Game is Saturday, December 12 at 3 p.m. Eastern on CBS at MetLife Stadium. Navy has honored a different part of the fleet each year, from the Jolly Rogers in 2024 to the USS Constitution and the Navy's 250th anniversary in 2025, and players wear individual unit patches on the jersey. We will update this page the day the 2026 design is revealed.
+Unknown as of October 10. The 127th Army-Navy Game is Saturday, December 12 at 3 p.m. Eastern on CBS at MetLife Stadium. Navy has honored a different part of the fleet each year, from the Jolly Rogers in 2024 to the USS Constitution and the Navy's 250th anniversary in 2025, and players wear individual unit patches on the jersey. We will update this page the day the 2026 design is revealed.
 
 **What did Navy wear against Florida Atlantic?**
 

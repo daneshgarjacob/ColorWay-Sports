@@ -3,7 +3,7 @@ title: "Notre Dame Uniform Schedule 2026: Every Jersey and the Date the Irish We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Notre Dame wears every game in 2026: the confirmed green jersey date, the Lambeau Field Shamrock Series uniform, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #00843D 55%, #C99700 130%)"
 cardStyle: words
@@ -21,7 +21,7 @@ Notre Dame is a better team than most to build this page around, because unlike 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: linear-gradient(135deg, #0C2340 0%, #1c3557 100%); color: #ffffff; border-radius: 14px; padding: 18px 16px; border: 2px solid #C99700;"><div style="font-size: 0.68em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #C99700;">Sunday, September 6</div><div style="font-size: 1.15em; font-weight: 900; margin: 6px 0 4px;">Shamrock Series</div><div style="font-size: 0.88em; line-height: 1.5; color: rgba(255,255,255,0.9);">vs Wisconsin at Lambeau Field. A deep blue set built on the 1920s Acme Packers, worn against an all-red Wisconsin with silver numbers. <strong>Kit matchup graded A-.</strong></div></div>
-  <div style="background: linear-gradient(135deg, #00843D 0%, #026330 100%); color: #ffffff; border-radius: 14px; padding: 18px 16px; border: 2px solid #C99700;"><div style="font-size: 0.68em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #FFE07A;">Saturday, October 10</div><div style="font-size: 1.15em; font-weight: 900; margin: 6px 0 4px;">Irish Wear Green</div><div style="font-size: 0.88em; line-height: 1.5; color: rgba(255,255,255,0.9);">vs Stanford, 3:30 p.m. Green jersey, green pants, gold helmet.</div></div>
+  <div style="background: linear-gradient(135deg, #00843D 0%, #026330 100%); color: #ffffff; border-radius: 14px; padding: 18px 16px; border: 2px solid #C99700;"><div style="font-size: 0.68em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #FFE07A;">Saturday, October 10</div><div style="font-size: 1.15em; font-weight: 900; margin: 6px 0 4px;">Irish Wear Green</div><div style="font-size: 0.88em; line-height: 1.5; color: rgba(255,255,255,0.9);">vs Stanford, 3:30 p.m. Green jersey, green pants, gold helmet. <strong>Worn as announced, W 58-7.</strong></div></div>
 </div>
 
 Everything else on the calendar follows Notre Dame's own convention rather than a conference rule, and that convention is simple: **navy at home, white on the road, gold helmet and gold pants either way.**
@@ -47,7 +47,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
-  <div style="background: #00843D; color: #ffffff; border: 2px solid #C99700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #00843D; color: #ffffff; border: 2px solid #C99700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Green / Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #eef1f6; color: #333; border: 1px dashed #9aa4b2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Watch This One</div></div>
@@ -67,7 +67,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
 
 **October 3 at North Carolina**, Kenan Stadium. ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**. North Carolina wore its 1980 throwbacks as announced: powder blue helmet, powder blue jersey and white pants. Carolina was within 21-20 in the third quarter, but Notre Dame leaned on the run in the pouring rain, Jonaz Walton ran for 120 yards, CJ Carr threw four touchdown passes, two of them to Jordan Faison, and the Irish won 37-26 for their 15th straight win and a 5-0 start. See our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026) for the Tar Heels' side.
 
-**October 10 vs. Stanford**, Notre Dame Stadium, 3:30 p.m. ✅ **Confirmed: Irish Wear Green.** This is the annual green-out, and the game is already sold out.
+**October 10 vs. Stanford**, Notre Dame Stadium, 3:30 p.m. on NBC. ★ Confirmed from the game photos: **gold helmet, Kelly green jersey, green pants**, the Irish Wear Green set exactly as announced for the annual green-out. Stanford wore all white, a white helmet with the cardinal S, white jersey and white pants. Notre Dame led 37-0 at halftime and won 58-7 to move to 6-0, and the Irish are now 4-1 in the Irish Wear Green game since it started in 2022. See our [Stanford 2026 uniform schedule](/stories/stanford-uniform-schedule-2026) for the Cardinal side.
 
 **October 17 at BYU**, LaVell Edwards Stadium. White expected.
 
@@ -111,7 +111,7 @@ The rest is the most predictable wardrobe in college football, which is the poin
 
 **When does Notre Dame wear green in 2026?**
 
-Saturday, October 10, against Stanford at Notre Dame Stadium, with a 3:30 p.m. kickoff. It is the annual Irish Wear Green game. The 2026 set is green jersey, green pants and the traditional gold helmet, with the Leprechaun logo replacing the ND monogram on the shoulders.
+Notre Dame wore green on Saturday, October 10, against Stanford at Notre Dame Stadium in the annual Irish Wear Green game. Confirmed from the game photos: gold helmet, Kelly green jersey and green pants, with the Leprechaun logo replacing the ND monogram on the shoulders. Notre Dame won 58-7 to move to 6-0. Next up is at BYU on October 17, where white is expected.
 
 **What uniform is Notre Dame wearing against Wisconsin at Lambeau Field?**
 
@@ -127,11 +127,11 @@ Navy jersey with gold numerals at home, white jersey with navy numerals on the r
 
 **How many alternate uniforms does Notre Dame wear in 2026?**
 
-Two are confirmed: the Shamrock Series set on September 6 and the Irish Wear Green set on October 10. Every other game is expected to be the standard navy or white.
+Two, both now worn: the Shamrock Series set on September 6 and the Irish Wear Green set on October 10. Every other game is expected to be the standard navy or white.
 
 **Why does Notre Dame wear green?**
 
-Green started under Knute Rockne in the 1920s as a way to stand out when an opponent also wore blue, and he turned it into a motivational tool, including a switch from blue to green against Navy in 1927. Dan Devine sent the Irish out in surprise green jerseys against USC in 1977, a 49-19 win on the way to a national title. In 2026 Notre Dame wears green on October 10 against Stanford.
+Green started under Knute Rockne in the 1920s as a way to stand out when an opponent also wore blue, and he turned it into a motivational tool, including a switch from blue to green against Navy in 1927. Dan Devine sent the Irish out in surprise green jerseys against USC in 1977, a 49-19 win on the way to a national title. In 2026 Notre Dame wore green on October 10 against Stanford and won 58-7.
 
 **Why does Notre Dame wear gold helmets?**
 

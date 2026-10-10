@@ -3,7 +3,7 @@ title: "Tulsa Uniform Schedule 2026: Every Jersey and When the Golden Hurricane 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-10"
 excerpt: "Tulsa 2026 uniform schedule: the blue home set, white road set, gold helmet, the new red throwback, and what the Golden Hurricane wear every game."
 gradient: "linear-gradient(135deg, #003595 0%, #1f4fb8 55%, #C4A962 130%)"
 cardStyle: words
@@ -56,7 +56,7 @@ Tulsa also brought back its city flag helmet for 918 Day on September 18, the go
   <div style="background: #C8102E; color: #ffffff; border: 2px solid #C4A962; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red Throwback</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C4A962; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #003595; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 1 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #C4A962; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003595; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -84,7 +84,7 @@ Tulsa also brought back its city flag helmet for 918 Day on September 18, the go
 
 **October 1 vs. North Texas.** Blue expected. Thursday night at 8 p.m. Central on ESPN, the American opener, and a Block Party night at Chapman. North Texas has confirmed a green helmet, white jersey and green pants, the same road look it wore at Indiana, and our [North Texas 2026 uniform schedule](/stories/north-texas-uniform-schedule-2026) has what the Mean Green have worn so far.
 
-**October 10 at Navy.** White expected. A 2:30 p.m. Central kickoff on CBS Sports Network in Annapolis, with Navy in navy. See our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026).
+**October 10 at Navy**, 2:30 p.m. Central on CBS Sports Network in Annapolis. ★ Confirmed from the broadcast: **white helmet with the blue Tulsa script, white jersey, white pants**, the same all white set Tulsa wore at Arkansas, rather than the gold helmet. Navy wore its standard home set, a gold helmet, navy jersey and gold pants. Tulsa led 20-14 at halftime, but Navy scored 14 in the fourth quarter and won 34-26, and Tulsa fell to 3-3. See our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026).
 
 **October 17 at Rice.** White expected. Kickoff time still to be announced in Houston.
 
@@ -108,7 +108,7 @@ Two games, two wins, one helmet and one pair of pants. Tulsa has been as discipl
 
 **What is Tulsa wearing this week?**
 
-Tulsa wore all white at Arkansas on Saturday, September 26: white helmet with the blue Tulsa script, white jersey and white pants, confirmed from the broadcast, in a 34-6 loss. Next up is North Texas at home on Thursday, October 1, where blue is expected for the American opener. North Texas has confirmed a green helmet, white jersey and green pants. The week before, Tulsa wore the red throwback against East Texas A&M: gold helmet, red jersey and gold pants, in a 42-0 shutout.
+Tulsa wore all white at Navy on Saturday, October 10: white helmet with the blue Tulsa script, white jersey and white pants, confirmed from the broadcast, in a 34-26 loss that dropped the Golden Hurricane to 3-3. It was the same all white set Tulsa wore at Arkansas on September 26. Next up is at Rice on October 17, where white is expected.
 
 **What are Tulsa's football uniforms for 2026?**
 

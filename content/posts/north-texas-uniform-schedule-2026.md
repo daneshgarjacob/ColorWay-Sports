@@ -3,7 +3,7 @@ title: "North Texas Uniform Schedule 2026: Every Jersey and When the Mean Green 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-10"
 excerpt: "North Texas 2026 uniform schedule: the green home set, white road set, Icy Whites at Texas State, both helmets, and what the Mean Green wear every game."
 gradient: "linear-gradient(135deg, #00853E 0%, #0aa152 55%, #0b3d24 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["north-texas-mean-green", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-North Texas has played four games under Neal Brown and worn four different combinations, including the all-white Icy Whites at Texas State. This is the full North Texas 2026 uniform schedule: the green home set, the white road set, the green and white helmets, the Icy Whites, and a week-by-week outlook for all twelve games, including two Thursday night games in October. We update this page as each combination is confirmed.
+North Texas has played six games under Neal Brown and worn five different combinations, including the all-white Icy Whites at Texas State and all green against Charlotte. This is the full North Texas 2026 uniform schedule: the green home set, the white road set, the green and white helmets, the Icy Whites, and a week-by-week outlook for all twelve games, including two Thursday night games in October. We update this page as each combination is confirmed.
 
 ## The North Texas 2026 Uniform Sets
 
@@ -48,7 +48,7 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
   <div style="background: #ffffff; color: #00853E; border: 2px solid #00853E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Icy Whites</div></div>
   <div style="background: #00853E; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston Christian</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #00853E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 1 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / Green</div></div>
-  <div style="background: #00853E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #00853E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Green</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #00853E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 29 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -82,7 +82,7 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @MeanGreenFB</p>
 
-**October 10 vs. Charlotte.** Green expected. North Texas bills it as Jammin' at DATCU, with kickoff still to be announced.
+**October 10 vs. Charlotte**, 3:30 p.m. Eastern on ESPN+. ★ Confirmed from the broadcast: **green helmet, green jersey, green pants**, all green for Jammin' at DATCU. Charlotte wore all white, a white helmet, white jersey and white pants. North Texas scored 30 points in the second quarter and won 50-10 to move to 4-2.
 
 **October 17.** Bye.
 
@@ -100,13 +100,13 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
 
 ## The Bottom Line
 
-Four games, four different combinations, all of them now confirmed. North Texas has used both helmets, both jerseys and both pant colors already, and the program announces every one of them in game week, so this page will keep moving. The base rule is simple enough: green jersey at DATCU Stadium, white on the road. The helmet and pants are where the Mean Green play. Beyond the Icy Whites, the dates to circle are the Thursday night Halloween TX Game against Florida Atlantic on October 29, Homecoming against Rice on November 7 and Salute to Service against UAB on November 28. The grid above has every game, and we add a star as each combination is confirmed.
+Six games, five different combinations, all of them now confirmed. North Texas has used both helmets, both jerseys and both pant colors already, and the program announces every one of them in game week, so this page will keep moving. The base rule is simple enough: green jersey at DATCU Stadium, white on the road. The helmet and pants are where the Mean Green play. Beyond the Icy Whites, the dates to circle are the Thursday night Halloween TX Game against Florida Atlantic on October 29, Homecoming against Rice on November 7 and Salute to Service against UAB on November 28. The grid above has every game, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What is North Texas wearing this week?**
 
-North Texas wore green at home against Houston Christian on Saturday, September 26: white helmet, green jersey and green pants, confirmed from the broadcast, in a 63-14 win. Next up is at Tulsa on Thursday, October 1, and North Texas has confirmed the green helmet, white jersey and green pants, the same road look it wore at Indiana. The week before, North Texas wore the Icy Whites, all white, in its 49-35 loss at Texas State.
+North Texas wore all green at home against Charlotte on Saturday, October 10: green helmet, green jersey and green pants, confirmed from the broadcast, in a 50-10 win that moved the Mean Green to 4-2. The game before, at Tulsa on Thursday, October 1, North Texas wore the green helmet, white jersey and green pants. After a bye on October 17, next up is at Navy on October 24, where white is expected.
 
 **What are North Texas's football uniforms for 2026?**
 
