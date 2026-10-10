@@ -100,8 +100,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 ### Friday, October 9
 
 **[Florida State](/stories/florida-state-uniform-schedule-2026) at [Louisville](/stories/louisville-uniform-schedule-2026)**, 7 p.m., ESPN.
-- Florida State: **Expected**, white.
-- Louisville: **Announced**, all black, for the biggest home stage before Halloween. The For The Ville set is still slated to debut against Stanford on October 31, so we will confirm which black look it is from the broadcast.
+- Florida State: **Confirmed**, white jersey and white pants.
+- Louisville: **Confirmed**, all black: black helmet with the red Cardinal head, black jersey, black pants, with black end zones. The For The Ville set is still slated to debut against Stanford on October 31.
 
 **No. 20 [Iowa](/stories/iowa-uniform-schedule-2026) at [Washington](/stories/washington-huskies-uniform-schedule-2026)**, 9 p.m., FOX or FS1.
 - Iowa: **Expected**, white, in its first game at Husky Stadium since 1963. Iowa went all black at home against Ohio State last week.

@@ -62,7 +62,7 @@ adidas makes all of it. The base red and white sets share one template: an arche
 
 The Wolfpack side is on the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026).
 
-**October 9 vs. Florida State.** Announced: **all black.** Louisville is going black for the Friday night game on ESPN at 7 p.m. Eastern, its biggest home stage before Halloween, according to WHAS11's game-day preview. The For The Ville set is still listed for its debut against Stanford on October 31, so we will confirm from the broadcast exactly which black uniform and helmet Louisville wears tonight. Florida State's plan is on the [Florida State 2026 uniform schedule](/stories/florida-state-uniform-schedule-2026).
+**October 9 vs. Florida State.** ★ Confirmed from the broadcast: **black helmet with the red Cardinal head, black jersey, black pants**, in front of black end zones at L&N Stadium for the Friday night game on ESPN. Florida State wore white jerseys and white pants. The For The Ville set is still listed for its debut against Stanford on October 31. Florida State's plan is on the [Florida State 2026 uniform schedule](/stories/florida-state-uniform-schedule-2026).
 
 **October 17 at Syracuse.** White expected. Inside the JMA Wireless Dome.
 
