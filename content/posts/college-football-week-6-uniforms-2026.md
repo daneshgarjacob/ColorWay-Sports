@@ -37,7 +37,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### Stanford at No. 3 Notre Dame: Irish Wear Green
 
-**Saturday, 3:30 p.m., NBC.** **Notre Dame: Confirmed, Irish Wear Green.** Notre Dame revealed its refreshed green set on July 30 for this game: Kelly green jersey, Kelly green pants and green and gold cleats under the traditional gold helmet, with white block numbers trimmed in metallic gold and the football Leprechaun logo on the sleeves. It is the annual green game Marcus Freeman started in 2022, and the Irish are 3-1 in it. Our grade is in [Notre Dame's Irish Wear Green jersey](/stories/notre-dame-irish-wear-green-2026). **Stanford: Confirmed in white**, the white helmet with the cardinal S, white jersey and white pants, so it is green and gold against white and cardinal. **Update:** in-game video from Notre Dame shows the Irish in the gold helmet and green jersey as announced. We have not yet seen a clear look at the pants. More: [Notre Dame schedule](/stories/notre-dame-uniform-schedule-2026) and [Stanford schedule](/stories/stanford-uniform-schedule-2026).
+**Saturday, 3:30 p.m., NBC.** **Notre Dame: Confirmed, Irish Wear Green.** Notre Dame revealed its refreshed green set on July 30 for this game: Kelly green jersey, Kelly green pants and green and gold cleats under the traditional gold helmet, with white block numbers trimmed in metallic gold and the football Leprechaun logo on the sleeves. It is the annual green game Marcus Freeman started in 2022, and the Irish are 3-1 in it. Our grade is in [Notre Dame's Irish Wear Green jersey](/stories/notre-dame-irish-wear-green-2026). **Stanford: Confirmed in white**, the white helmet with the cardinal S, white jersey and white pants, so it is green and gold against white and cardinal. **Update:** the game photos show the full set as announced: gold helmet, green jersey and green pants. More: [Notre Dame schedule](/stories/notre-dame-uniform-schedule-2026) and [Stanford schedule](/stories/stanford-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NDFootball/status/2082816430391587019"></a></blockquote>
@@ -169,7 +169,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 
 **Stanford at No. 3 Notre Dame**, 3:30 p.m., NBC.
 - [Stanford](/stories/stanford-uniform-schedule-2026): **Confirmed**, white helmet, white jersey, white pants.
-- [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Confirmed**, Irish Wear Green: gold helmet and green jersey seen in game video. See above.
+- [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Confirmed**, Irish Wear Green as announced: gold helmet, green jersey, green pants. See above.
 
 **No. 9 [Ole Miss](/stories/ole-miss-uniform-schedule-2026) at [Vanderbilt](/stories/vanderbilt-uniform-schedule-2026)**, 3:30 p.m., ESPN.
 - Ole Miss: **Confirmed**, powder blue helmet with the red stripe, white jersey, white pants, coming off its bye.
