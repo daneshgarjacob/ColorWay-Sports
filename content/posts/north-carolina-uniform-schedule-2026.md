@@ -3,7 +3,7 @@ title: "North Carolina Uniform Schedule 2026: Every Jersey, Starting With Dublin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What North Carolina wears every game in 2026, starting with the Dublin opener against TCU, plus the 1980 throwbacks for Notre Dame and the Kenan 100 season."
 gradient: "linear-gradient(135deg, #4B9CD3 0%, #13294B 60%, #ffffff 130%)"
 cardStyle: words
@@ -61,7 +61,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
   <div style="background: #4B9CD3; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Tennessee St</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 1980 Throwback</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 1980 Throwback</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -87,7 +87,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
 
 See our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) for the other side of it.
 
-**October 10 at Pitt**, Acrisure Stadium. White expected.
+**October 10 at Pitt**, Acrisure Stadium, noon ET on ESPN. ★ Confirmed from the broadcast: **Carolina blue helmet, white jersey, Carolina blue pants**, the same road pairing the Tar Heels wore at Clemson. It was Pitt's 1976 national championship 50th anniversary game, and Pitt wore its standard home set, gold helmet, royal blue jersey and gold pants, with no throwback. Shamar Easter scored the go-ahead touchdown in the fourth quarter on a 75-yard play, and North Carolina won 21-17 to move to 3-2. See our [Pitt 2026 uniform schedule](/stories/pitt-uniform-schedule-2026) for the other side of it.
 
 **October 17 at Duke**, Wallace Wade Stadium. White expected.
 
@@ -125,7 +125,7 @@ The 1980 throwbacks debuted against East Tennessee State on September 12, and Ca
 
 **What did North Carolina wear against Notre Dame?**
 
-The 1980 throwbacks: powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants, confirmed from the broadcast on October 3. Notre Dame wore the gold helmet, white jersey and gold pants and won 37-26. Carolina is 2-2, and next is a trip to Pitt on October 10, where white is expected.
+The 1980 throwbacks: powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants, confirmed from the broadcast on October 3. Notre Dame wore the gold helmet, white jersey and gold pants and won 37-26. A week later Carolina won 21-17 at Pitt on October 10 in the Carolina blue helmet, white jersey and Carolina blue pants to move to 3-2. Next is a trip to Duke on October 17, where white is expected.
 
 **What are North Carolina's regular uniforms?**
 

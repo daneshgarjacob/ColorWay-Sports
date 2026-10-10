@@ -3,7 +3,7 @@ title: "Tulane Uniform Schedule 2026: Every Jersey and When the Green Wave Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-10"
 excerpt: "What Tulane wears every game in 2026: the green home jersey, the white road set, the sky blue alternate, the Mardi Gras City Edition, and every date."
 gradient: "linear-gradient(135deg, #006747 0%, #0a4f3a 55%, #418FDE 130%)"
 cardStyle: words
@@ -54,7 +54,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
   <div style="background: #f1f3f8; color: #333; border: 2px solid #006747; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Blue</div></div>
   <div style="background: #71C5E8; color: #004B30; border: 2px solid #006747; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Sky Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #006747; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / White</div></div>
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -78,7 +78,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
 
 **October 3.** Bye.
 
-**October 10 at Army.** White expected. Noon Central at Michie Stadium on CBS Sports Network, and Army is expected in black, which would make this one of the better color clashes on Tulane's schedule. Our [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026) tracks the other sideline.
+**October 10 at Army.** ★ Confirmed from the broadcast: **green helmet, white jersey, white pants**, the road white under the green shell at Michie Stadium, noon Eastern on CBS Sports Network. Army wore the gold helmet and black jersey, as expected. Army scored 13 points in the fourth quarter and won 20-17, and Tulane fell to 2-3. Our [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026) tracks the other sideline.
 
 **October 16 vs. Memphis.** Green expected. A Friday night conference game at Yulman on ESPN, 6:30 p.m. Central, and the biggest national television window Tulane gets all year at home. If the sky blue set is going to appear, this is the date we would circle first. Memphis is expected in white.
 
@@ -112,7 +112,7 @@ Tulane spent its best uniform of the year in Week 2 and that was clearly the pla
 
 **What jersey is Tulane wearing this week?**
 
-Tulane wore all sky blue against Southern Miss on Saturday, September 26: sky blue helmet, sky blue jersey and sky blue pants for the Battle for the Bell, announced by the team before the game and confirmed on the broadcast, and won 24-21 to move to 2-2. The week before, the Green Wave wore a white helmet, white jersey and light blue pants in a 31-20 loss at Kansas State. Tulane has a bye on October 3, then plays at Army on October 10, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Tulane wore a green helmet, white jersey and white pants at Army on Saturday, October 10, confirmed from the broadcast, and lost 20-17 to fall to 2-3. Before the bye, the Green Wave wore all sky blue against Southern Miss on September 26 for the Battle for the Bell and won 24-21. Next is Memphis at Yulman Stadium on Friday, October 16, where green is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Tulane's football uniforms for 2026?**
 

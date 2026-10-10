@@ -130,11 +130,11 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Missouri: **Confirmed**, black helmet, black jersey, gold pants, the same combination that beat Florida last week.
 
 **[UCF](/stories/ucf-uniform-schedule-2026) at No. 18 [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026)**, noon, ESPN2.
-- UCF: **Confirmed**, gold helmet, white jersey, white pants, on its first trip to Stillwater.
+- UCF: **Confirmed**, gold helmet, white jersey, white pants, on its first trip to Stillwater. Oklahoma State 42, UCF 28.
 - Oklahoma State: **Confirmed**, orange helmet, black jersey, orange pants for the Stripe the Stadium night. Orange was expected for the jersey; it was black.
 
 **[North Carolina](/stories/north-carolina-uniform-schedule-2026) at No. 25 [Pitt](/stories/pitt-uniform-schedule-2026)**, noon, ESPN.
-- North Carolina: **Confirmed**, Carolina blue helmet, white jersey, Carolina blue pants.
+- North Carolina: **Confirmed**, Carolina blue helmet, white jersey, Carolina blue pants. North Carolina 21, Pitt 17.
 - Pitt: **Confirmed**, gold helmet, royal blue jersey, gold pants for the 1976 national championship 50th anniversary game. No throwback.
 
 **[Arizona](/stories/arizona-uniform-schedule-2026) at [West Virginia](/stories/west-virginia-uniform-schedule-2026)**, noon, TNT.
@@ -142,7 +142,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - West Virginia: **Expected**, all black for Coal Rush, also Hall of Fame weekend.
 
 **[Wake Forest](/stories/wake-forest-uniform-schedule-2026) at [NC State](/stories/nc-state-uniform-schedule-2026)**, noon, The CW.
-- Wake Forest: **Expected**, white, a week after going all black against Stanford.
+- Wake Forest: **Expected**, white, a week after going all black against Stanford. Wake Forest 38, NC State 14.
 - NC State: **Expected**, red, in its third straight home game.
 
 **[Tulane](/stories/tulane-uniform-schedule-2026) at [Army](/stories/army-uniform-schedule-2026)**, noon, CBSSN.

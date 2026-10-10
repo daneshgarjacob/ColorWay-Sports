@@ -3,7 +3,7 @@ title: "UCF Uniform Schedule 2026: Every Jersey and When the Knights Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What UCF wears every game in 2026: the black Knightmode set, the white Lightmode road look, the Space Game alternate, and every week's combination."
 gradient: "linear-gradient(135deg, #000000 0%, #2a2a2a 55%, #BA9B37 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ The current jerseys arrived in June 2025, and the number font is the reason to c
   <div style="background: #000000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Knightmode</div></div>
   <div style="background: #000000; color: #ffffff; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Gold</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #10213f; color: #ffffff; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Space Game</div></div>
@@ -77,7 +77,7 @@ Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and wi
 
 **October 3 at Houston.** ★ Confirmed from the broadcast: **white helmet, white jersey, gold pants**. Houston wore its light blue Houston Blue alternate with white pants for the Built By Houston Game, as it had announced. UCF led 17-0 in the third quarter, but Conner Weigman ran for three second-half touchdowns and No. 20 Houston won 27-17. UCF fell to 3-2. See the [Houston 2026 uniform schedule](/stories/houston-uniform-schedule-2026).
 
-**October 10 at Oklahoma State.** White expected, at Boone Pickens Stadium. Oklahoma State has a Stripe the Stadium night planned, so the Knights in white against orange is the likely picture. More: [Oklahoma State schedule](/stories/oklahoma-state-uniform-schedule-2026).
+**October 10 at Oklahoma State.** ★ Confirmed from the broadcast: **gold helmet, white jersey, white pants**, the gold shell back for a noon kickoff on ESPN2 at Boone Pickens Stadium. It was Stripe the Stadium night, and Oklahoma State skipped the expected orange jersey for an orange helmet with the Pokes script, a black jersey and orange pants. Oklahoma State won 42-28, and UCF fell to 3-3. More: [Oklahoma State schedule](/stories/oklahoma-state-uniform-schedule-2026).
 
 **October 17.** Bye.
 
@@ -101,13 +101,13 @@ Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and wi
 
 ## The Bottom Line
 
-Five games in, UCF has already shown all three helmets and both jerseys, and added gold pants at Houston, which is exactly how this program operates. Black at home, white on the road, and a gold shell when the mood calls for it. The one date that matters most is October 30, when the tenth Space Game arrives on a Friday night and the Knights wear the Mission X set revealed on September 29. Everything else gets decided on a Monday and announced on a Thursday, and this grid gets a star the moment we see the uniform on the field.
+Six games in, UCF has already shown all three helmets and both jerseys, added gold pants at Houston, and paired the gold helmet with white over white at Oklahoma State, which is exactly how this program operates. Black at home, white on the road, and a gold shell when the mood calls for it. The one date that matters most is October 30, when the tenth Space Game arrives on a Friday night and the Knights wear the Mission X set revealed on September 29. Everything else gets decided on a Monday and announced on a Thursday, and this grid gets a star the moment we see the uniform on the field.
 
 ## Frequently Asked Questions
 
 **What jersey is UCF wearing this week?**
 
-UCF wore the white helmet, white jersey and gold pants at Houston on Saturday, October 3, confirmed from the broadcast, and lost 27-17 to fall to 3-2. The week before, UCF beat TCU 21-13 in the gold helmet, black jersey and white pants. Next is Oklahoma State on the road on October 10, where white is expected.
+UCF wore the gold helmet, white jersey and white pants at Oklahoma State on Saturday, October 10, confirmed from the broadcast, and lost 42-28 to fall to 3-3. The week before, UCF lost 27-17 at Houston in the white helmet, white jersey and gold pants. UCF has a bye on October 17, then hosts BYU on October 24, where black is expected.
 
 **What are UCF's football uniforms for 2026?**
 
