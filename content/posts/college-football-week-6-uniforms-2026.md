@@ -180,11 +180,11 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - [Oregon](/stories/oregon-uniform-schedule-2026): **Confirmed**, Origin of Speed, worn as announced. Matchup grade: **A+**. See above.
 
 **No. 22 [Houston](/stories/houston-uniform-schedule-2026) at [Kansas State](/stories/kansas-state-uniform-schedule-2026)**, 3:30 p.m., FOX.
-- Houston: **Expected**, white, a week after Houston Blue against UCF.
-- Kansas State: **Expected**, purple, for the Celebrate Ag game, back from its off week.
+- Houston: **Confirmed**, red helmet with the Houston script, white jersey, red pants, a week after Houston Blue against UCF. Houston 35, Kansas State 16.
+- Kansas State: **Confirmed**, silver helmet, purple jersey, silver pants, for the Celebrate Ag game, back from its off week.
 
 **[Duke](/stories/duke-uniform-schedule-2026) at [Georgia Tech](/stories/georgia-tech-uniform-schedule-2026)**, 3:30 p.m., ESPN2.
-- Duke: **Confirmed**, all black with royal blue trim: black helmet, black jersey, black pants. White was expected.
+- Duke: **Confirmed**, all black with royal blue trim: black helmet, black jersey, black pants. White was expected. Georgia Tech 28, Duke 25.
 - Georgia Tech: **Confirmed**, white helmet, white jersey, black pants at Bobby Dodd Stadium. Gold was expected; Tech went white at home.
 
 **[Virginia Tech](/stories/virginia-tech-uniform-schedule-2026) at [Cal](/stories/cal-uniform-schedule-2026)**, 3:30 p.m., ACC Network.
@@ -204,7 +204,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Navy: **Confirmed**, gold helmet, navy jersey, gold pants, back in Annapolis after the loss at Air Force.
 
 **[Buffalo](/stories/buffalo-uniform-schedule-2026) at [Toledo](/stories/toledo-uniform-schedule-2026)**, 3:30 p.m., ESPN+.
-- Buffalo: **Confirmed**, white helmet, white jersey, white pants.
+- Buffalo: **Confirmed**, white helmet, white jersey, white pants. Buffalo 23, Toledo 8.
 - Toledo: **Confirmed**, midnight blue jersey and gold pants for Homecoming in the Glass Bowl. The helmet was not clear in the frames we saw.
 
 **[UConn](/stories/uconn-uniform-schedule-2026) at [Temple](/stories/temple-uniform-schedule-2026)**, 3:45 p.m., ESPNU, at Lincoln Financial Field.
