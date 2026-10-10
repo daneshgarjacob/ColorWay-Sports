@@ -3,7 +3,7 @@ title: "Texas Uniform Schedule 2026: Every Jersey and When the Longhorns Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-10"
 excerpt: "What Texas wears every game in 2026. Burnt orange at home, the icy whites on the road, and why the Longhorns are one of the few programs that refuse alternates."
 gradient: "linear-gradient(135deg, #BF5700 0%, #2a1607 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -36,7 +36,7 @@ Twelve games, zero alternates, and the most predictable wardrobe in college foot
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Burnt Orange</div></div>
   <div style="background: #ffffff; color: #BF5700; border: 2px solid #BF5700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Open</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #BF5700; border: 2px solid #BF5700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
@@ -56,7 +56,7 @@ Twelve games, zero alternates, and the most predictable wardrobe in college foot
 
 **October 3.** Open date.
 
-**October 10 vs. Oklahoma**, Cotton Bowl, Dallas. The Red River rivalry at a neutral site. Texas has traditionally worn white for this one with Oklahoma in crimson, which makes it the one non-road game where the Longhorns are not in burnt orange. Watch for confirmation in game week.
+**October 10 vs. Oklahoma**, Cotton Bowl, Dallas. The Red River rivalry at a neutral site, with Oklahoma the designated home team. ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the all-white look Texas has traditionally taken in Dallas. Oklahoma wore the crimson helmet with the white interlocking OU, a crimson jersey and white pants. Texas led 17-7 at halftime, but Oklahoma scored 17 in the fourth quarter, with a Peyton Bowen pick-six putting the Sooners ahead, and won 27-24. It is the first loss of the season for Texas, now 4-1. More: [Oklahoma uniform schedule](/stories/oklahoma-uniform-schedule-2026).
 
 **October 17 vs. Florida**, Austin. Burnt orange.
 
@@ -74,11 +74,11 @@ Twelve games, zero alternates, and the most predictable wardrobe in college foot
 
 ## The Two Games Worth Watching
 
-Everything above is close to automatic except two dates. **Red River on October 10** is a neutral-site game where Texas has historically taken white, and **the LSU trip on November 14** is the road game where the host sometimes wears white and flips the visitor into color. Those are the only two spots on a thirteen-week schedule where the answer is genuinely in question.
+Everything above is close to automatic except two dates. **Red River on October 10** was the neutral-site game where Texas has historically taken white, and it did again: all white against Oklahoma's crimson, in a 27-24 loss. That leaves **the LSU trip on November 14**, the road game where the host sometimes wears white and flips the visitor into color, as the one spot left on the schedule where the answer is genuinely in question.
 
 ## The Bottom Line
 
-Texas is the most predictable uniform schedule in college football and the program is proud of it. Burnt orange at home, icy whites on the road, one helmet all year, and no alternates by explicit policy. The only two dates worth checking are Red River on October 10 and the LSU road game on November 14.
+Texas is the most predictable uniform schedule in college football and the program is proud of it. Burnt orange at home, icy whites on the road, one helmet all year, and no alternates by explicit policy. Red River on October 10 went as expected, all white in Dallas, so the date left to check is the LSU road game on November 14.
 
 For more, see our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026) and [college football brand switches for 2026, ranked](/stories/college-football-brand-switches-2026-ranked).
 
@@ -86,7 +86,7 @@ For more, see our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-sc
 
 **What jersey is Texas wearing this week?**
 
-Texas wore the icy whites, white helmet, white jersey and white pants, at Tennessee on Saturday, September 26, and won 20-17 to move to 4-0. Texas wears burnt orange at home and the all-white icy whites on the road. The exceptions to watch are the Red River game against Oklahoma on October 10, where Texas has traditionally worn white at the neutral site, and the November 14 trip to LSU.
+Texas wore all white, white helmet, white jersey and white pants, against Oklahoma at the Cotton Bowl on Saturday, October 10, confirmed from the broadcast. Oklahoma won 27-24, and Texas is 4-1. Next is Florida in Austin on October 17, in burnt orange. Texas wears burnt orange at home and the all-white icy whites on the road. The exception left to watch is the November 14 trip to LSU.
 
 **Does Texas have alternate uniforms in 2026?**
 
@@ -98,7 +98,7 @@ The icy whites are Texas's all-white road uniform: white jersey, white pants and
 
 **What does Texas wear against Oklahoma?**
 
-Texas has traditionally worn white for the Red River rivalry at the Cotton Bowl with Oklahoma in crimson. The 2026 game is October 10 and we will update this page when the combination is confirmed.
+White. Texas has traditionally worn white for the Red River rivalry at the Cotton Bowl, and on October 10, 2026 it wore all white, white helmet, white jersey and white pants, confirmed from the broadcast. Oklahoma wore a crimson helmet, crimson jersey and white pants and won 27-24.
 
 **What color helmet does Texas wear?**
 

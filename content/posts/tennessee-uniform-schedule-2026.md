@@ -3,7 +3,7 @@ title: "Tennessee Uniform Schedule 2026: Every Jersey and When the Vols Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-20"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Tennessee wears every game in 2026, including the new Smokey Grey Neyland tribute against Auburn and orange against Alabama."
 gradient: "linear-gradient(135deg, #FF8200 0%, #3a2408 55%, #58595B 130%)"
 coverImage: "/images/posts/tennessee-uniform-schedule-2026/cover.jpg"
@@ -73,7 +73,7 @@ Twelve games, seven at Neyland, one alternate on the calendar.
   <div style="background: #FF8200; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kennesaw State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Orange / White</div></div>
   <div style="background: #FF8200; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Orange / White</div></div>
   <div style="background: #58595B; color: #ffffff; border: 2px solid #FF8200; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #FF8200;">&#9733; Smokey Grey</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #FF8200; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #FF8200; color: #ffffff; border: 2px solid #9E1B32; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -93,7 +93,7 @@ Twelve games, seven at Neyland, one alternate on the calendar.
 
 **October 3 vs. Auburn**, Knoxville. ★ Confirmed from the broadcast: **Smokey Grey**, the Neyland centennial set described above, with a grey helmet carrying an orange stripe, the grey jersey with orange numbers and the cream pants. Auburn wore a white helmet, white jersey and white pants with orange and navy stripes. Tennessee trailed 7-3 at halftime, then DeSean Bishop ran for a career-high 220 yards and three touchdowns, and the Vols won 24-14 to move to 4-1. The Smokey Grey is now retired for the year.
 
-**October 10 at Arkansas**, Fayetteville. Road. White.
+**October 10 at Arkansas**, Fayetteville. Road. ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the standard all-white road set. Arkansas wore a cardinal helmet, cardinal jersey and white pants. Tennessee led 7-0 at halftime, scored 14 in the fourth quarter and won 24-17 to move to 5-1. More: [Arkansas uniform schedule](/stories/arkansas-uniform-schedule-2026).
 
 **October 17 vs. Alabama**, Knoxville. **Orange, and Alabama is in crimson.** Both programs announced on August 19 that they will wear home jerseys for the Third Saturday in October in 2026 and 2027. It is the first color vs color meeting in this rivalry since 1970. [Full story on the color vs color announcement](/stories/alabama-tennessee-color-vs-color-third-saturday-october-2026).
 
@@ -125,7 +125,7 @@ For more, see the [Alabama 2026 uniform schedule](/stories/alabama-uniform-sched
 
 **What jersey is Tennessee wearing this week?**
 
-Tennessee wore the Smokey Grey Neyland centennial set against Auburn on Saturday, October 3, confirmed from the broadcast, and won 24-14. Next is Arkansas on the road on October 10, in white. For the season, Tennessee wears orange at Neyland Stadium and white on the road. The other exception is October 17 against Alabama, which is an orange home game with Alabama also in color.
+Tennessee wore the all-white road set, white helmet, white jersey and white pants, at Arkansas on Saturday, October 10, confirmed from the broadcast, and won 24-17 to move to 5-1. The week before, the Vols beat Auburn 24-14 in the Smokey Grey Neyland centennial set. Next is Alabama at Neyland on October 17, in orange. For the season, Tennessee wears orange at Neyland Stadium and white on the road. The other exception is October 17 against Alabama, which is an orange home game with Alabama also in color.
 
 **When did Tennessee wear the Smokey Grey uniform in 2026?**
 

@@ -3,7 +3,7 @@ title: "Ohio State Uniform Schedule 2026: Every Jersey and When the Buckeyes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Ohio State wears every game in 2026. Scarlet confirmed for the opener, white on the road, and the three alternates in the closet with no date yet."
 gradient: "linear-gradient(135deg, #BB0000 0%, #1a0505 55%, #C4CED4 130%)"
 cardStyle: words
@@ -43,7 +43,7 @@ Twelve games, seven at Ohio Stadium. Three alternates sit in the closet with no 
   <div style="background: #BB0000; color: #ffffff; border: 2px solid #C0C0C0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kent State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Scarlet / Silver</div></div>
   <div style="background: #BB0000; color: #ffffff; border: 2px solid #C0C0C0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Scarlet / Gray</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / White / White</div></div>
-  <div style="background: #BB0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
+  <div style="background: #BB0000; color: #ffffff; border: 2px solid #C0C0C0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Scarlet / Gray</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -69,7 +69,7 @@ Big Ten home teams wear color and visitors wear white, which makes the road date
 
 **October 3 at Iowa**, Iowa City. ★ Confirmed from the game photos: **silver helmet, white jersey, white pants**. Iowa went all black: black helmet, black jersey and black pants. Julian Sayin threw for 324 yards and three touchdowns, Jeremiah Smith caught 11 passes for 206 yards and two scores to become the program's career leader in catches, receiving yards and receiving touchdowns, and Ohio State won 31-14 to move to 4-1. See our [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026).
 
-**October 10 vs. Maryland**, Ohio Stadium. Homecoming. Scarlet expected.
+**October 10 vs. Maryland**, Ohio Stadium. Homecoming. ★ Confirmed from the broadcast: **silver helmet, scarlet jersey, gray pants**, the standard home set, as expected. Maryland wore a red helmet, white jersey and red pants. Ohio State led 31-10 at halftime and won 45-16 to move to 5-1. See our [Maryland 2026 uniform schedule](/stories/maryland-uniform-schedule-2026).
 
 **October 17 at Indiana**, Bloomington. Road. White expected.
 
@@ -91,7 +91,7 @@ Everything on this schedule follows the Big Ten pattern except three home games.
 
 ## The Bottom Line
 
-Ohio State's 2026 uniform schedule is scarlet at home, white on the road, and the silver buckeye-leaf helmet in every game. Three alternates exist, Scarlet Rush, Tunnel Vision and Sub Zero, and none of them has a date yet. The Buckeyes wore the white road set at Texas on September 12 and at Iowa on October 3, and none of the alternates has appeared through five games. The three home dates to keep an eye on are Oregon, the Military Appreciation game against Northwestern, and The Game.
+Ohio State's 2026 uniform schedule is scarlet at home, white on the road, and the silver buckeye-leaf helmet in every game. Three alternates exist, Scarlet Rush, Tunnel Vision and Sub Zero, and none of them has a date yet. The Buckeyes wore the white road set at Texas on September 12 and at Iowa on October 3, and none of the alternates has appeared through six games. The three home dates to keep an eye on are Oregon, the Military Appreciation game against Northwestern, and The Game.
 
 For more, see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026), the [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) and the [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
 
@@ -99,7 +99,7 @@ For more, see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-
 
 **What jersey is Ohio State wearing this week?**
 
-Ohio State wore the silver helmet, white jersey and white pants at Iowa on Saturday, October 3, confirmed from the game photos, and won 31-14 to move to 4-1. The week before, the Buckeyes beat Illinois 42-19 in the silver helmet, scarlet jersey and gray pants. Ohio State wears scarlet at home and white on the road in 2026. Three alternates exist but none has been assigned to a game. Next is Homecoming against Maryland at Ohio Stadium on October 10, where scarlet is expected. We update this page as each combination is confirmed in game week.
+Ohio State wore the silver helmet, scarlet jersey and gray pants for Homecoming against Maryland on Saturday, October 10, confirmed from the broadcast, and won 45-16 to move to 5-1. The week before, the Buckeyes won 31-14 at Iowa in the silver helmet, white jersey and white pants. Ohio State wears scarlet at home and white on the road in 2026. Three alternates exist but none has been assigned to a game. Next is a trip to Indiana on October 17, where white is expected. We update this page as each combination is confirmed in game week.
 
 **Does Ohio State have alternate uniforms in 2026?**
 

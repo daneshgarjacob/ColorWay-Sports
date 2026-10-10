@@ -3,7 +3,7 @@ title: "Oklahoma Uniform Schedule 2026: Every Jersey and When the Sooners Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-10"
 excerpt: "The full Oklahoma 2026 uniform schedule: crimson jerseys at home, white on the road, the anthracite and throwback alternates, and every Sooners date week by week."
 gradient: "linear-gradient(135deg, #841617 0%, #5c0f10 55%, #FDF9D8 130%)"
 cardStyle: words
@@ -36,7 +36,7 @@ Under the SEC convention the home team wears color and the visitor wears white, 
   <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs New Mexico</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #841617; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas (Dallas)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas (Dallas)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
   <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
@@ -56,7 +56,7 @@ Under the SEC convention the home team wears color and the visitor wears white, 
 
 **October 3.** Bye.
 
-**October 10 vs. Texas**, Cotton Bowl, Dallas. The Red River rivalry at a neutral site, with Oklahoma the designated home team this year. Texas has traditionally worn white in Dallas, which puts Oklahoma in crimson, and that is what we expect until either program says otherwise. The Longhorns' side is on our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
+**October 10 vs. Texas**, Cotton Bowl, Dallas. The Red River rivalry at a neutral site, with Oklahoma the designated home team this year. ★ Confirmed from the broadcast: **crimson helmet with the white interlocking OU, crimson jersey, white pants**, the crimson look the Sooners have traditionally worn in Dallas. No. 1 Texas wore all white, white helmet, white jersey, white pants. Texas led 17-7 at halftime, then Oklahoma scored 17 in the fourth quarter, with a Peyton Bowen pick-six putting the Sooners in front, and won 27-24 to move to 3-2. The Longhorns' side is on our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
 
 **October 17 vs. Kentucky**, Norman. Crimson expected.
 
@@ -74,13 +74,13 @@ Under the SEC convention the home team wears color and the visitor wears white, 
 
 ## The Bottom Line
 
-Crimson at home, white on the road, the same crimson helmet on both, and one or two alternate weeks that Oklahoma announces on short notice. The one uniform date already in the books is the white road set at Michigan on September 12. The dates worth watching are the Red River game on October 10, where the neutral site has historically put the Sooners in crimson, and whichever home Saturday gets the anthracite Unity jersey or the Wilkinson throwback.
+Crimson at home, white on the road, the same crimson helmet on both, and one or two alternate weeks that Oklahoma announces on short notice. The Red River game on October 10 went as expected: crimson helmet, crimson jersey and white pants against Texas in all white, in a 27-24 win. The dates left to watch are whichever home Saturday gets the anthracite Unity jersey or the Wilkinson throwback.
 
 ## Frequently Asked Questions
 
 **What jersey is Oklahoma wearing this week?**
 
-Oklahoma wore the white road set, crimson helmet, white jersey and white pants, at No. 2 Georgia on Saturday, September 26, and lost 41-13. The week before, the Sooners beat New Mexico 14-6 in the crimson home set. The Sooners wear crimson at home and white on the road in 2026. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Oklahoma wore the crimson helmet, crimson jersey and white pants against No. 1 Texas at the Cotton Bowl on Saturday, October 10, confirmed from the broadcast, and won 27-24 to move to 3-2. Next is Kentucky in Norman on October 17, where crimson is expected. The Sooners wear crimson at home and white on the road in 2026. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Oklahoma's uniforms for 2026?**
 
@@ -92,7 +92,7 @@ Two are in the closet, the anthracite Unity uniform and the 1950s Wilkinson thro
 
 **What does Oklahoma wear against Texas?**
 
-Oklahoma has traditionally worn crimson at the Cotton Bowl with Texas in white. The 2026 Red River game is October 10 and we will update this page when the combination is confirmed.
+Crimson. Oklahoma has traditionally worn crimson at the Cotton Bowl with Texas in white, and on October 10, 2026 it wore the crimson helmet with the white interlocking OU, a crimson jersey and white pants, confirmed from the broadcast. Texas wore all white, and Oklahoma won 27-24.
 
 **Why is Oklahoma wearing Unity jerseys?**
 
