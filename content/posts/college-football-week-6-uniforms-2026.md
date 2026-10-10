@@ -184,12 +184,12 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Kansas State: **Expected**, purple, for the Celebrate Ag game, back from its off week.
 
 **[Duke](/stories/duke-uniform-schedule-2026) at [Georgia Tech](/stories/georgia-tech-uniform-schedule-2026)**, 3:30 p.m., ESPN2.
-- Duke: **Expected**, white.
-- Georgia Tech: **Expected**, gold at Bobby Dodd Stadium.
+- Duke: **Confirmed**, all black with royal blue trim: black helmet, black jersey, black pants. White was expected.
+- Georgia Tech: **Confirmed**, white helmet, white jersey, black pants at Bobby Dodd Stadium. Gold was expected; Tech went white at home.
 
 **[Virginia Tech](/stories/virginia-tech-uniform-schedule-2026) at [Cal](/stories/cal-uniform-schedule-2026)**, 3:30 p.m., ACC Network.
-- Virginia Tech: **Expected**, white.
-- Cal: **Expected**, blue, for Homecoming.
+- Virginia Tech: **Confirmed**, white helmet with the maroon stripe, white jersey, maroon pants.
+- Cal: **Confirmed**, gold helmet, blue jersey, gold pants, for Homecoming.
 
 **[Illinois](/stories/illinois-uniform-schedule-2026) at [Michigan State](/stories/michigan-state-uniform-schedule-2026)**, 3:30 p.m., FS1.
 - Illinois: **Expected**, white, a week after going all orange for the Orange Out.
@@ -208,20 +208,20 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Toledo: **Confirmed**, midnight blue jersey and gold pants for Homecoming in the Glass Bowl. The helmet was not clear in the frames we saw.
 
 **[UConn](/stories/uconn-uniform-schedule-2026) at [Temple](/stories/temple-uniform-schedule-2026)**, 3:45 p.m., ESPNU, at Lincoln Financial Field.
-- UConn: **Expected**, white. The new red alternate debuted for Homecoming last week.
-- Temple: **Expected**, cherry.
+- UConn: **Confirmed**, navy helmet, white jersey, navy pants. The new red alternate debuted for Homecoming last week.
+- Temple: **Confirmed**, cherry helmet, cherry jersey, white pants.
 
 **[Rice](/stories/rice-uniform-schedule-2026) at [East Carolina](/stories/east-carolina-uniform-schedule-2026)**, 1 p.m., ESPN+.
 - Rice: **Confirmed**, blue helmet, white jersey, blue pants, on its first trip to Greenville since 2009. East Carolina 28, Rice 12.
 - East Carolina: **Confirmed**, purple helmet, purple jersey, white pants for Homecoming and Letterwinners Weekend.
 
 **[Maryland](/stories/maryland-uniform-schedule-2026) at No. 5 [Ohio State](/stories/ohio-state-uniform-schedule-2026)**, 4:15 p.m., BTN.
-- Maryland: **Expected**, white.
-- Ohio State: **Expected**, scarlet, for Homecoming. The Buckeyes post their full combination at 3:30 p.m. the day before kickoff.
+- Maryland: **Confirmed**, red helmet, white jersey, red pants.
+- Ohio State: **Confirmed**, silver helmet, scarlet jersey, gray pants, the standard home set for Homecoming.
 
 **No. 15 [Tennessee](/stories/tennessee-uniform-schedule-2026) at [Arkansas](/stories/arkansas-uniform-schedule-2026)**, 4:15 p.m., SEC Network.
-- Tennessee: **Expected**, white, a week after the one-time Smokey Grey against Auburn.
-- Arkansas: **Expected**, cardinal, so it is cardinal against white with orange trim.
+- Tennessee: **Confirmed**, all white: white helmet, white jersey, white pants, a week after the one-time Smokey Grey against Auburn.
+- Arkansas: **Confirmed**, cardinal helmet, cardinal jersey, white pants, so it is cardinal against white with orange trim.
 
 ### Saturday, October 10: Night Window
 
