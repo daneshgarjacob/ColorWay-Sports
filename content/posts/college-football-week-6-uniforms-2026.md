@@ -73,7 +73,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - **Kentucky, Power K throwback (Confirmed).** White triple-stripe helmet with the Power K and CATS above the facemask, a plain blue jersey with CATS on the shoulders and white pants, against LSU.
 - **UNLV, 1976 Bicentennial helmet (Confirmed).** For Homecoming against North Dakota State, UNLV [announced a throwback helmet](https://unlvrebels.com/news/2026/8/31/football-patriotic-helmet-design-unveiled-for-oct-10-homecoming-game.aspx) from its 1976 season: a white shell with a red facemask and a red UNLV REBELS decal in a mid-1970s font, flanked by the Minute Man statue from Concord, Massachusetts. It honors the 1976 team and the country's 250th birthday. The jersey and pants have not been announced.
 - **Penn State, White Out (crowd, Confirmed).** The stadium wears white against USC. The team is expected in its home navy.
-- **West Virginia, Coal Rush (watch).** WVU has made Arizona its Coal Rush game, with fans asked to wear black, and the Mountaineers wore the all black Coal Rush set for the two previous editions. Black is expected but not yet confirmed for this one.
+- **West Virginia, Coal Rush (Confirmed).** WVU made Arizona its Coal Rush game, with fans asked to wear black, and the Mountaineers wore all black: black helmet, black jersey, black pants, confirmed from the game photos.
 - **Pitt, 1976 national championship 50th anniversary (watch).** The 1976 team is honored at halftime against North Carolina, with a Heisman Foundation ceremony for Tony Dorsett. Pitt has not announced a throwback, and the current blue and gold set already looks a lot like 1976.
 - **Western Kentucky, Black Out (watch).** WKU calls Thursday night's game against Missouri State a Black Out, and its game day graphic shows a black helmet and a black jersey. The black jersey would be its first appearance this season.
 - **UTSA, Lights Out (watch).** A Thursday night national TV window with a Lights Out theme at the Alamodome against South Florida.
@@ -123,7 +123,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 
 **No. 7 [Indiana](/stories/indiana-uniform-schedule-2026) at [Nebraska](/stories/nebraska-uniform-schedule-2026)**, noon, FOX.
 - Indiana: **Confirmed**, crimson helmet, white jersey, white pants, from the game photos. Indiana 20, Nebraska 17.
-- Nebraska: **Expected**, scarlet, the white helmet and scarlet jersey it wore against Maryland. We have not yet seen a clear game photo of Nebraska to confirm it.
+- Nebraska: **Confirmed**, white helmet, scarlet jersey, white pants, the same look it wore against Maryland.
 
 **[Texas A&M](/stories/texas-am-uniform-schedule-2026) at No. 14 [Missouri](/stories/missouri-uniform-schedule-2026)**, noon, ABC.
 - Texas A&M: **Confirmed**, maroon helmet, white jersey, white pants. Missouri 27, Texas A&M 6.
@@ -138,8 +138,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Pitt: **Confirmed**, gold helmet, royal blue jersey, gold pants for the 1976 national championship 50th anniversary game. No throwback.
 
 **[Arizona](/stories/arizona-uniform-schedule-2026) at [West Virginia](/stories/west-virginia-uniform-schedule-2026)**, noon, TNT.
-- Arizona: **Confirmed**, Sandstorm with red pants: red chrome helmet with a desert ARIZONA decal, white jersey with red numerals and a red collar, red pants. It is the first road trip for the Sandstorm set, and the red pants are new. Arizona 52, West Virginia 31. We are still waiting on game photos to confirm what both teams wore.
-- West Virginia: **Expected**, all black for Coal Rush, also Hall of Fame weekend.
+- Arizona: **Confirmed**, Sandstorm with red pants: red chrome helmet with a desert ARIZONA decal, white jersey with red numerals and a red collar, red pants. It is the first road trip for the Sandstorm set, and the red pants are new. Arizona 52, West Virginia 31. The game photos match: red helmet, white jersey with red numbers, red pants.
+- West Virginia: **Confirmed**, all black for Coal Rush: black helmet, black jersey, black pants, also Hall of Fame weekend.
 
 **[Wake Forest](/stories/wake-forest-uniform-schedule-2026) at [NC State](/stories/nc-state-uniform-schedule-2026)**, noon, The CW.
 - Wake Forest: **Confirmed**, black helmet with the gold Deacs script, white jersey, gold pants. Wake Forest 38, NC State 14.

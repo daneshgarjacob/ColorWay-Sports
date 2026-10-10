@@ -3,7 +3,7 @@ title: "West Virginia Uniform Schedule 2026: Every Jersey and When the Mountaine
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "West Virginia uniform schedule 2026: every Mountaineers jersey by week, the White Out opener, Gold Rush, Coal Rush black uniforms, and what WVU wears this week."
 gradient: "linear-gradient(135deg, #002855 0%, #0b3a6e 55%, #EAAA00 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["west-virginia-mountaineers", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-West Virginia opened 2026 in all white for Pat White and has worn a different look in each of its five games, most recently the white helmet, white jersey and navy pants in a 45-42 loss at Iowa State on October 3. Next is the Coal Rush game against Arizona on October 10, where black is expected. This is the full West Virginia 2026 uniform schedule: navy, gold, and white jerseys that mix freely with navy, gold, and white pants, a new gloss white helmet, the black Coal Rush set, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+West Virginia opened 2026 in all white for Pat White and has worn a different look in each of its six games, most recently all black for Coal Rush in a 52-31 loss to Arizona on October 10. Next is Cincinnati at home on October 17 for Homecoming, where navy or gold is expected. This is the full West Virginia 2026 uniform schedule: navy, gold, and white jerseys that mix freely with navy, gold, and white pants, a new gloss white helmet, the black Coal Rush set, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The West Virginia 2026 Uniform Sets
 
@@ -36,7 +36,7 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia (Charlotte)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / Gold</div></div>
   <div style="background: #EAAA00; color: #111111; border: 2px solid #002855; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Gold / Navy</div></div>
   <div style="background: #ffffff; color: #14284b; border: 2px solid #EAAA00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Navy</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Coal Rush Black</div></div>
+  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #002855; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy or Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -62,7 +62,7 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @WVUfootball</p>
 
-**October 10 vs. Arizona.** Coal Rush black expected. WVU has made Arizona its Coal Rush game, with fans asked to wear black, and it wore the black set for the two previous Coal Rush games. It is also Hall of Fame weekend.
+**October 10 vs. Arizona**, noon ET on TNT. ★ Confirmed from the game photos: **black helmet, black jersey, black pants** for Coal Rush, with WEST VIRGINIA across the chest. Black was expected, since WVU wore the black set for the two previous Coal Rush games, and fans were asked to wear black on Hall of Fame weekend at Milan Puskar Stadium. Arizona brought its Sandstorm set with red pants on its first road trip: red helmet, white jersey with red numbers and red pants. More on the [Arizona 2026 uniform schedule](/stories/arizona-uniform-schedule-2026). Arizona led 24-17 at halftime and scored 14 in each of the third and fourth quarters to win 52-31, and West Virginia fell to 3-3.
 
 **October 17 vs. Cincinnati.** Navy or gold expected. Homecoming doubles as Stripe the Stadium, with even-numbered sections and students in gold and odd-numbered sections in blue, so the uniform could lean either way. Navy is the home default.
 
@@ -80,13 +80,13 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
 
 ## The Bottom Line
 
-Five games in, West Virginia has shown five different looks: head-to-toe white for the Pat White retirement, navy over gold pants for UT Martin, white over gold pants in Charlotte, the gold jersey over navy pants for Gold Rush against Oklahoma State, and white over navy pants at Iowa State. That is how this closet works. No two WVU weeks need to match, and the program's promotional calendar tells you where the special looks land: gold for Oklahoma State, black for Arizona, a flag decal for Kansas. Road games should stay white, and the first one did: white helmet, white jersey and navy pants at Iowa State. The one set we are still waiting on is Country Roads, which has not shown up yet in 2026. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Six games in, West Virginia has shown six different looks: head-to-toe white for the Pat White retirement, navy over gold pants for UT Martin, white over gold pants in Charlotte, the gold jersey over navy pants for Gold Rush against Oklahoma State, white over navy pants at Iowa State, and all black for Coal Rush against Arizona. That is how this closet works. No two WVU weeks need to match, and the program's promotional calendar tells you where the special looks land: gold for Oklahoma State, black for Arizona, a flag decal for Kansas. Road games should stay white, and the first one did: white helmet, white jersey and navy pants at Iowa State. The one set we are still waiting on is Country Roads, which has not shown up yet in 2026. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is West Virginia wearing this week?**
 
-West Virginia wore the white helmet, white jersey and navy pants at Iowa State on Saturday, October 3, posted by the team before the game and matched in its own game photos, in a 45-42 loss. The week before, it wore Gold Rush against Oklahoma State: navy helmet, gold jersey and navy pants. Next up is Arizona at home on October 10, the Coal Rush game, where the black set is expected. The grid above lists every game with the expected set.
+West Virginia wore all black for Coal Rush against Arizona on Saturday, October 10: black helmet, black jersey and black pants, confirmed from the game photos, in a 52-31 loss that dropped the Mountaineers to 3-3. The week before, it wore the white helmet, white jersey and navy pants at Iowa State. Next up is Cincinnati at home on October 17, Homecoming and Stripe the Stadium, where navy or gold is expected. The grid above lists every game with the expected set.
 
 **What are West Virginia's football uniforms for 2026?**
 
@@ -94,7 +94,7 @@ Navy, gold, and white jerseys with the crescent shoulder stripe, plus navy, gold
 
 **Does West Virginia have a new alternate uniform in 2026?**
 
-No new jersey has been announced. The new piece for 2026 is the gloss white helmet, which replaced the matte white helmet used since 2013 and debuted in the White Out opener. Coal Rush returns against Arizona on October 10, and a flag helmet decal is expected for Heroes Day against Kansas on November 14.
+No new jersey has been announced. The new piece for 2026 is the gloss white helmet, which replaced the matte white helmet used since 2013 and debuted in the White Out opener. Coal Rush returned against Arizona on October 10 in all black, and a flag helmet decal is expected for Heroes Day against Kansas on November 14.
 
 **Why did West Virginia wear all white against Coastal Carolina?**
 
@@ -102,7 +102,7 @@ The September 5 opener was "All White for 5," the game where West Virginia retir
 
 **When is the West Virginia Coal Rush game in 2026?**
 
-October 10 against Arizona in Morgantown, with fans asked to wear black. The Coal Rush uniform is all black with reflective silver numerals and a flat black helmet, and WVU wore it against Iowa State in 2024 and against TCU in 2025.
+It was October 10 against Arizona in Morgantown, with fans asked to wear black. West Virginia wore the set head to toe, black helmet, black jersey and black pants, and Arizona won 52-31. The Coal Rush uniform is all black with reflective silver numerals and a flat black helmet, and WVU wore it against Iowa State in 2024 and against TCU in 2025.
 
 **How many games does West Virginia play in 2026?**
 

@@ -3,7 +3,7 @@ title: "Nebraska Uniform Schedule 2026: Every Jersey and When the Cornhuskers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "Nebraska uniform schedule 2026: every Huskers jersey by week, the scarlet home uniform, white road set, and the black alternate jersey for the Halloween Blackout against Washington."
 gradient: "linear-gradient(135deg, #E41C38 0%, #a8142a 55%, #111111 130%)"
 cardStyle: words
@@ -36,7 +36,7 @@ The black alternate is where 2026 gets interesting. Nebraska Athletics unveiled 
   <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Dakota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #E41C38; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Scarlet</div></div>
   <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Scarlet / White</div></div>
-  <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
+  <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Scarlet / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #E41C38; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black Alt (Announced)</div></div>
@@ -56,7 +56,7 @@ The black alternate is where 2026 gets interesting. Nebraska Athletics unveiled 
 
 **October 3 vs. Maryland.** ★ Confirmed from the game photos: **white helmet, scarlet jersey, white pants**, the home set. Maryland wore the red helmet with the Terps script, white jersey and red pants. Maryland led for most of the first half, then Dwayne McDougle III returned an interception 81 yards for a touchdown, Kwazi Gilmer caught 11 passes for 147 yards and two scores, and Nebraska won 48-23 to move to 5-0, its best start since 2016.
 
-**October 10 vs. Indiana.** Scarlet expected. Kickoff time is still to be announced.
+**October 10 vs. Indiana.** ★ Confirmed from the game photos: **white helmet, scarlet jersey, white pants**, the same home look as the Maryland win. No. 7 Indiana wore the crimson helmet, white jersey and white pants. Nebraska led 10-3 at halftime, but Indiana scored 14 points in the fourth quarter and won 20-17 at noon on FOX, the first loss of the season for the Huskers, who are 5-1. More: [Indiana uniform schedule](/stories/indiana-uniform-schedule-2026).
 
 **October 17 at Oregon.** White expected, as the visitor at Autzen Stadium. Oregon decides its own combination week to week; we track the Ducks' side on the [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026).
 
@@ -80,7 +80,7 @@ Five games in, Nebraska is 5-0 and has done exactly what it said it would: white
 
 **What jersey is Nebraska wearing this week?**
 
-Nebraska wore the white helmet, scarlet jersey and white pants against Maryland on Saturday, October 3, a 48-23 win that moved the Huskers to 5-0, confirmed from the game photos. The week before, they debuted the new white road set, white jersey and scarlet pants, in a 31-13 win at Michigan State. Next up is Indiana at home on October 10, where scarlet is expected. The week-by-week grid above lists every date, and we update it as each look is confirmed.
+Nebraska wore the white helmet, scarlet jersey and white pants against No. 7 Indiana on Saturday, October 10, confirmed from the game photos, and lost 20-17 after leading 10-3 at halftime, the first loss of the season. The Huskers are 5-1. The week before, they wore the same look in a 48-23 win over Maryland. Next up is a trip to Oregon on October 17, where white is expected. The week-by-week grid above lists every date, and we update it as each look is confirmed.
 
 **What are Nebraska's football uniforms for 2026?**
 
