@@ -122,11 +122,11 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 ### Saturday, October 10: Noon Window
 
 **No. 7 [Indiana](/stories/indiana-uniform-schedule-2026) at [Nebraska](/stories/nebraska-uniform-schedule-2026)**, noon, FOX.
-- Indiana: **Expected**, white. The national champions went all white at Rutgers last week, white helmet included.
+- Indiana: **Expected**, white. The national champions went all white at Rutgers last week, white helmet included. Indiana 20, Nebraska 17. We have not yet seen game photos to confirm either side.
 - Nebraska: **Expected**, scarlet, the white helmet and scarlet jersey it wore against Maryland.
 
 **[Texas A&M](/stories/texas-am-uniform-schedule-2026) at No. 14 [Missouri](/stories/missouri-uniform-schedule-2026)**, noon, ABC.
-- Texas A&M: **Confirmed**, maroon helmet, white jersey, white pants.
+- Texas A&M: **Confirmed**, maroon helmet, white jersey, white pants. Missouri 27, Texas A&M 6.
 - Missouri: **Confirmed**, black helmet, black jersey, gold pants, the same combination that beat Florida last week.
 
 **[UCF](/stories/ucf-uniform-schedule-2026) at No. 18 [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026)**, noon, ESPN2.
@@ -138,12 +138,12 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Pitt: **Confirmed**, gold helmet, royal blue jersey, gold pants for the 1976 national championship 50th anniversary game. No throwback.
 
 **[Arizona](/stories/arizona-uniform-schedule-2026) at [West Virginia](/stories/west-virginia-uniform-schedule-2026)**, noon, TNT.
-- Arizona: **Confirmed**, Sandstorm with red pants: red chrome helmet with a desert ARIZONA decal, white jersey with red numerals and a red collar, red pants. It is the first road trip for the Sandstorm set, and the red pants are new.
+- Arizona: **Confirmed**, Sandstorm with red pants: red chrome helmet with a desert ARIZONA decal, white jersey with red numerals and a red collar, red pants. It is the first road trip for the Sandstorm set, and the red pants are new. Arizona 52, West Virginia 31. We are still waiting on game photos to confirm what both teams wore.
 - West Virginia: **Expected**, all black for Coal Rush, also Hall of Fame weekend.
 
 **[Wake Forest](/stories/wake-forest-uniform-schedule-2026) at [NC State](/stories/nc-state-uniform-schedule-2026)**, noon, The CW.
-- Wake Forest: **Expected**, white, a week after going all black against Stanford. Wake Forest 38, NC State 14.
-- NC State: **Expected**, red, in its third straight home game.
+- Wake Forest: **Confirmed**, black helmet with the gold Deacs script, white jersey, gold pants. Wake Forest 38, NC State 14.
+- NC State: **Confirmed**, white helmet, red jersey, red pants, in its third straight home game.
 
 **[Tulane](/stories/tulane-uniform-schedule-2026) at [Army](/stories/army-uniform-schedule-2026)**, noon, CBSSN.
 - Tulane: **Confirmed**, green helmet, white jersey, white pants. Army 20, Tulane 17.
