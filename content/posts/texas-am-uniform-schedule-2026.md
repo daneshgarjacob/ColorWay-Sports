@@ -3,7 +3,7 @@ title: "Texas A&M Uniform Schedule 2026: Every Jersey and When the Aggies Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Texas A&M wears every game in 2026. The confirmed camo date, the maroon home set, the white road set, and a week-by-week outlook for all twelve games."
 gradient: "linear-gradient(135deg, #500000 0%, #2a1414 55%, #C2B280 130%)"
 cardStyle: words
@@ -48,7 +48,7 @@ Twelve games, one confirmed alternate, and an October 31 bye.
   <div style="background: #500000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon</div></div>
   <div style="background: #500000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon</div></div>
   <div style="background: #8C7A4E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Camo</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / White / White</div></div>
   <div style="background: #500000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs The Citadel</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -70,7 +70,7 @@ One thing to understand before the table below: **SEC home teams wear colored je
 
 **October 3 vs. Arkansas, Kyle Field.** ✅ **Confirmed: Honor and Support camo.** Camo jersey, camo helmet, maroon pants. The 150th anniversary game. ★ The broadcast matches: **camo helmet, camo jersey, maroon pants**, worn as announced. Arkansas wore its standard road set, cardinal helmet, white jersey and white pants, so it was camo against white. KJ Edwards ran for two touchdowns, Marcel Reed threw for 170 yards and ran for a score, and Texas A&M won 34-7 to snap a two-game skid and move to 3-2. More: [Arkansas uniform schedule](/stories/arkansas-uniform-schedule-2026).
 
-**October 10 at Missouri, Columbia.** Road. White expected.
+**October 10 at Missouri, Columbia.** ★ Confirmed from the broadcast: **maroon helmet, white jersey, white pants**, the road set as expected. Missouri wore the black helmet, black jersey and gold pants. Missouri intercepted two passes and won 27-6, and Texas A&M fell to 3-3.
 
 **October 17 vs. The Citadel, Kyle Field.** Home non-conference game. Maroon expected.
 
@@ -102,7 +102,7 @@ For more, see our [Texas A&M camo uniforms graded](/stories/texas-am-camo-honor-
 
 **What jersey is Texas A&M wearing this week?**
 
-Texas A&M wore the desert camouflage Honor and Support uniform against Arkansas at Kyle Field on Saturday, October 3: camo helmet, camo jersey and maroon pants, confirmed from the broadcast, in a 34-7 win. Next up is Missouri on the road on October 10, where white is expected. Texas A&M wears maroon at home and white on the road for most games in 2026. We update this page as each combination is confirmed in game week.
+Texas A&M wore its white road set at Missouri on Saturday, October 10: maroon helmet, white jersey and white pants, confirmed from the broadcast, in a 27-6 loss that dropped the Aggies to 3-3. The week before, they wore the desert camouflage Honor and Support uniform against Arkansas at Kyle Field in a 34-7 win. Next up is The Citadel at home on October 17, where maroon is expected. Texas A&M wears maroon at home and white on the road for most games in 2026. We update this page as each combination is confirmed in game week.
 
 **When did Texas A&M wear the camo uniforms in 2026?**
 

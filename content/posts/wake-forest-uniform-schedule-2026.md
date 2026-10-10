@@ -3,7 +3,7 @@ title: "Wake Forest Uniform Schedule 2026: Every Jersey and When the Demon Deaco
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Wake Forest wears every game in 2026: the black home jersey, the white road set, the gold pants, and the full Demon Deacons uniform schedule."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 55%, #9E7E38 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ The Nike set dates to a 2019 cleanup that stripped out the architecture inspired
   <div style="background: #000000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 18 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #ffffff; color: #9E7E38; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -82,7 +82,7 @@ Wake Forest also asked the stands to match the uniform. A blackout is a fan them
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @WakeFB</p>
 
-**October 10 at NC State.** White expected at Carter-Finley Stadium, with NC State in red. Big Four rivalry week, and our [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026) covers the home side.
+**October 10 at NC State**, noon ET on The CW. ★ Confirmed from the broadcast: **black helmet with the gold Deacs script, white jersey, gold pants**, the same helmet from the Stanford game paired with the white road set. NC State wore the white helmet, red jersey and red pants, and our [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026) covers the home side. NC State led 14-10 in the third quarter, Wake Forest scored the last 28 points, and the Deacons won 38-14 at Carter-Finley Stadium to move to 5-1.
 
 **October 17 at California.** White expected. The longest trip on the schedule and the kind of late kickoff that usually produces the best photos of the white set.
 
@@ -100,13 +100,13 @@ Wake Forest also asked the stands to match the uniform. A blackout is a fan them
 
 ## The Bottom Line
 
-Wake Forest wore the matte black helmet in its first three games, then went to a gold helmet with WAKE on the side at Louisville and a black helmet with the gold Deacs script against Stanford. The jersey is still decided by whether the game is at home, and the pants carry most of the variety. Black over gold is the signature. Black over black is the statement: the Demon Deacons spent it on Miami, a 33-20 loss in the ACC opener where the uniform outplayed the scoreboard, then went all black again with gold trim for a 57-3 rout of Stanford. The four remaining road games all point to white. The three remaining home games all start from black, and Halloween against Virginia is the date to watch for something extra. The grid above has every game, and we add the star as each uniform is confirmed.
+Wake Forest wore the matte black helmet in its first three games, then went to a gold helmet with WAKE on the side at Louisville and a black helmet with the gold Deacs script against Stanford and again at NC State. The jersey is still decided by whether the game is at home, and the pants carry most of the variety. Black over gold is the signature. Black over black is the statement: the Demon Deacons spent it on Miami, a 33-20 loss in the ACC opener where the uniform outplayed the scoreboard, then went all black again with gold trim for a 57-3 rout of Stanford. The white road set came out at NC State with gold pants in a 38-14 win, and the three remaining road games all point to white. The three remaining home games all start from black, and Halloween against Virginia is the date to watch for something extra. The grid above has every game, and we add the star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Wake Forest wearing this week?**
 
-Wake Forest wore all black against Stanford on Saturday, October 3: a black helmet with the gold "Deacs" script, a black jersey with old gold numbers and black pants, as revealed and confirmed on the broadcast, in a 57-3 win. The week before, the Deacons wore the gold helmet, white jersey and gold pants in a 30-27 upset at No. 16 Louisville. Next is NC State on the road on October 10, where white is expected. The week-by-week grid above lists every game with the expected set.
+Wake Forest wore the black helmet with the gold "Deacs" script, a white jersey and gold pants at NC State on Saturday, October 10, confirmed from the broadcast, in a 38-14 win that moved the Deacons to 5-1. The week before, they wore all black against Stanford in a 57-3 win. Next is California on the road on October 17, where white is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are Wake Forest's football uniforms for 2026?**
 
