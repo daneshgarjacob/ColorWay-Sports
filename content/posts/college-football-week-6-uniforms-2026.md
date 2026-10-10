@@ -172,8 +172,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - [Notre Dame](/stories/notre-dame-uniform-schedule-2026): **Confirmed**, Irish Wear Green: gold helmet and green jersey seen in game video. See above.
 
 **No. 9 [Ole Miss](/stories/ole-miss-uniform-schedule-2026) at [Vanderbilt](/stories/vanderbilt-uniform-schedule-2026)**, 3:30 p.m., ESPN.
-- Ole Miss: **Expected**, white, coming off its bye.
-- Vanderbilt: **Expected**, black, for the first SEC home game of the season. Vanderbilt's new gold alternate already came out once in Week 2, and a marquee home game is where it could come back.
+- Ole Miss: **Confirmed**, powder blue helmet with the red stripe, white jersey, white pants, coming off its bye.
+- Vanderbilt: **Confirmed**, all black: black helmet, black jersey, black pants, for the first SEC home game of the season. The gold alternate stayed in the closet.
 
 **No. 21 UCLA at No. 13 Oregon**, 3:30 p.m., CBS.
 - [UCLA](/stories/ucla-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants.
@@ -196,16 +196,16 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Michigan State: **Expected**, green, for Homecoming, the home date we are watching most closely for a special helmet.
 
 **Charlotte at [North Texas](/stories/north-texas-uniform-schedule-2026)**, 3:30 p.m., ESPN+.
-- North Texas: **Expected**, green, for Jammin' at DATCU.
-- Charlotte: TBA, announced game week.
+- North Texas: **Confirmed**, all green: green helmet, green jersey, green pants, for Jammin' at DATCU.
+- Charlotte: **Confirmed**, white helmet, white jersey, white pants.
 
 **[Tulsa](/stories/tulsa-uniform-schedule-2026) at [Navy](/stories/navy-uniform-schedule-2026)**, 3:30 p.m., CBSSN.
-- Tulsa: **Expected**, white.
-- Navy: **Expected**, navy, back in Annapolis after the loss at Air Force.
+- Tulsa: **Confirmed**, blue helmet and white jersey. The pants were not clear in the frames we saw.
+- Navy: **Confirmed**, gold helmet, navy jersey, gold pants, back in Annapolis after the loss at Air Force.
 
 **[Buffalo](/stories/buffalo-uniform-schedule-2026) at [Toledo](/stories/toledo-uniform-schedule-2026)**, 3:30 p.m., ESPN+.
-- Buffalo: **Expected**, white.
-- Toledo: **Expected**, midnight blue, for Homecoming in the Glass Bowl.
+- Buffalo: **Confirmed**, white helmet, white jersey, white pants.
+- Toledo: **Confirmed**, midnight blue jersey and gold pants for Homecoming in the Glass Bowl. The helmet was not clear in the frames we saw.
 
 **[UConn](/stories/uconn-uniform-schedule-2026) at [Temple](/stories/temple-uniform-schedule-2026)**, 3:45 p.m., ESPNU, at Lincoln Financial Field.
 - UConn: **Expected**, white. The new red alternate debuted for Homecoming last week.
