@@ -3,7 +3,7 @@ title: "Indiana Uniform Schedule 2026: Every Jersey and When the Hoosiers Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Indiana wears every game in 2026: the crimson home jersey, the white Hoosiers road set, and the full Hoosiers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #b71c1c 55%, #EDEBEB 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["indiana-hoosiers", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Indiana is the defending national champion and it is defending the title in the plainest uniform in the Big Ten. Two jerseys, one pair of pants for each, no alternate jerseys, and until October 3 a single helmet. This is the full Indiana 2026 uniform schedule: the crimson home set, the white road set that says HOOSIERS instead of INDIANA, the crimson helmet that went with both until October, the white helmet that showed up at Rutgers, and a week-by-week outlook for all twelve games. Five games in, Indiana is 5-0, in the crimson home set four times and all white, white helmet included, at Rutgers. We update this page as each jersey is confirmed.
+Indiana is the defending national champion and it is defending the title in the plainest uniform in the Big Ten. Two jerseys, one pair of pants for each, no alternate jerseys, and until October 3 a single helmet. This is the full Indiana 2026 uniform schedule: the crimson home set, the white road set that says HOOSIERS instead of INDIANA, the crimson helmet that goes with both, the white helmet that showed up at Rutgers, and a week-by-week outlook for all twelve games. Six games in, Indiana is 6-0, in the crimson home set four times, all white, white helmet included, at Rutgers, and the crimson helmet with the white road set at Nebraska. We update this page as each jersey is confirmed.
 
 ## The Indiana 2026 Uniform Sets
 
@@ -51,7 +51,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
   <div style="background: #990000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / White / White</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson (Homecoming)</div></div>
@@ -79,7 +79,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
 
 **October 3 at Rutgers.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants** under the lights at SHI Stadium, the first look at the road HOOSIERS jersey in 2026. Rutgers wore The Blackout it announced for Homecoming, black helmets and black uniforms, so it was white against black. Indiana won 47-15 to move to 5-0. The [Rutgers 2026 uniform schedule](/stories/rutgers-uniform-schedule-2026) covers the Scarlet Knights' side.
 
-**October 10 at Nebraska.** White expected. Memorial Stadium in Lincoln, with Nebraska in red at home. See the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026).
+**October 10 at Nebraska.** ★ Confirmed from a game photo: **crimson helmet, white jersey, white pants**, the road jersey with HOOSIERS across the chest and the crimson helmet back on after the white helmet at Rutgers. We have not yet seen a clear game photo of Nebraska's look. Indiana trailed 10-3 at halftime, scored 14 in the fourth quarter at Memorial Stadium in Lincoln and won 20-17 to move to 6-0. See the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026).
 
 **October 17 vs. Ohio State.** Crimson expected. The biggest home game on the board and the sort of night that usually produces a special jersey somewhere else in the country. Indiana's answer so far has mostly been to wear the same thing it always wears. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) tracks the Buckeyes.
 
@@ -97,13 +97,13 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
 
 ## The Bottom Line
 
-Indiana is the most predictable uniform team in the Big Ten and it is not an accident. The 2024 redesign took the black accents out, the 2026 update added a trident to the collar and stopped, and the program has now gone three full seasons without an alternate jersey. The one break so far is a helmet: Indiana wore a white helmet with crimson trim at Rutgers on October 3, a 47-15 win. Crimson at home, white on the road, white pants with both. The grid above has all twelve games. If the defending national champion breaks the pattern with a jersey too, Homecoming against Minnesota on October 31 and the Old Oaken Bucket game against Purdue on November 28 are the two dates to circle, and we will star this page the day it happens.
+Indiana is the most predictable uniform team in the Big Ten and it is not an accident. The 2024 redesign took the black accents out, the 2026 update added a trident to the collar and stopped, and the program has now gone three full seasons without an alternate jersey. The one break so far is a helmet: Indiana wore a white helmet with crimson trim at Rutgers on October 3, a 47-15 win, then went back to the crimson helmet with the white road set at Nebraska on October 10. Crimson at home, white on the road, white pants with both. The grid above has all twelve games. If the defending national champion breaks the pattern with a jersey too, Homecoming against Minnesota on October 31 and the Old Oaken Bucket game against Purdue on November 28 are the two dates to circle, and we will star this page the day it happens.
 
 ## Frequently Asked Questions
 
 **What jersey is Indiana wearing this week?**
 
-Indiana wore all white at Rutgers on Saturday, October 3, white helmet, white jersey and white pants, confirmed from the broadcast, and won 47-15 to move to 5-0. It was the first look at the road HOOSIERS jersey in 2026. Next is at Nebraska on October 10, where white is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
+Indiana wore the crimson helmet, the white HOOSIERS road jersey and white pants at Nebraska on Saturday, October 10, confirmed from a game photo, and won 20-17 to move to 6-0. Next is Ohio State at home on October 17, where crimson is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
 
 **What are Indiana's football uniforms for 2026?**
 

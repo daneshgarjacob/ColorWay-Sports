@@ -3,7 +3,7 @@ title: "South Carolina Uniform Schedule 2026: Every Jersey and When the Gamecock
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "South Carolina uniform schedule 2026: every Gamecocks jersey and helmet, garnet, white and glossy black Nike sets, the Cocky helmet, and what they wear each week."
 gradient: "linear-gradient(135deg, #73000A 0%, #4a0007 55%, #000000 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["south-carolina-gamecocks", "sec"]
 resurfaceOnUpdate: true
 ---
 
-South Carolina wore garnet jerseys under white helmets for the opener against Kent State, then went black with a one-night Cocky helmet against Towson. Then came Mississippi State at Williams-Brice Stadium on September 19, where the Gamecocks went garnet head to toe. They went all white at Alabama on September 26, then wore a white helmet with a black jersey and black pants against Kentucky on October 3. This is the full South Carolina 2026 uniform schedule: the garnet, white and black sets from the program's first Nike season, the helmets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+South Carolina wore garnet jerseys under white helmets for the opener against Kent State, then went black with a one-night Cocky helmet against Towson. Then came Mississippi State at Williams-Brice Stadium on September 19, where the Gamecocks went garnet head to toe. They went all white at Alabama on September 26, wore a white helmet with a black jersey and black pants against Kentucky on October 3, then wore a garnet helmet, garnet jersey and white pants in a 38-19 win at Florida on October 10. This is the full South Carolina 2026 uniform schedule: the garnet, white and black sets from the program's first Nike season, the helmets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The South Carolina 2026 Uniform Sets
 
@@ -34,7 +34,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
   <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Garnet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #73000A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #73000A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Black / Black</div></div>
-  <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
+  <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Garnet / Garnet / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -54,7 +54,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
 
 **October 3 vs. Kentucky.** ★ Confirmed from the broadcast: **white helmet, black jersey, black pants**, not the garnet we expected. The jersey reads black against the garnet paint in the Williams-Brice end zones, with black pants underneath. [Kentucky](/stories/kentucky-uniform-schedule-2026) wore a chrome helmet with a blue stripe, white jersey and white pants. South Carolina led 17-0 and still led in overtime after LaNorris Sellers hit Maurice Brown II for a 5-yard score, but Kenny Minchey answered with a touchdown pass and a 2-point conversion, and Kentucky won 35-34. The Gamecocks are 2-3.
 
-**October 10 at Florida.** Garnet expected. This is the one road game where the host has already told us its look: Florida's released grid has the Gators in a retro helmet, white jersey and white pants, which leaves the visitor in color. Details are on our [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026).
+**October 10 at Florida.** ★ Confirmed from the broadcast: **garnet helmet, garnet jersey, white pants**. Garnet was expected because Florida's released grid had the Gators in white. Florida wore its retro helmet, a royal blue shell with an orange and white center stripe and the block F inside a white oval, with a white jersey and white pants. Details are on our [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026). South Carolina led 17-10 at halftime, outscored Florida 21-9 in the second half and won 38-19. The Gamecocks are 3-3.
 
 **October 17.** Bye.
 
@@ -72,13 +72,13 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
 
 ## The Bottom Line
 
-Five games into the Nike era, South Carolina has shown five different looks: the white helmet and garnet jersey for the opener, black jersey and a gloss black Cocky helmet for Towson, all garnet with the new large Block C helmet against Mississippi State, all white at Alabama, and a white helmet over black jersey and black pants against Kentucky. The full all-black set with the gloss black helmet and black pants has not appeared yet, so it is still in play for the SEC schedule. Garnet is the home default, white is the road default, and the trip to Gainesville flips to garnet because Florida is wearing white. The grid above has every date, and we star each cell once the uniform is confirmed.
+Six games into the Nike era, South Carolina has shown six different combinations: the white helmet and garnet jersey for the opener, black jersey and a gloss black Cocky helmet for Towson, all garnet with the new large Block C helmet against Mississippi State, all white at Alabama, a white helmet over black jersey and black pants against Kentucky, and a garnet helmet with a garnet jersey and white pants at Florida. The full all-black set with the gloss black helmet and black pants has not appeared yet, so it is still in play for the SEC schedule. Garnet is the home default, white is the road default, and the trip to Gainesville went garnet because Florida wore white. The grid above has every date, and we star each cell once the uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is South Carolina wearing this week?**
 
-South Carolina wore a white helmet, black jersey and black pants against Kentucky on Saturday, October 3, confirmed from the broadcast, in a 35-34 overtime loss. Next up is the trip to Florida on October 10, where garnet is expected because the Gators are wearing white. The grid above lists every game, and we update it when each combination is confirmed.
+South Carolina wore a garnet helmet, garnet jersey and white pants at Florida on Saturday, October 10, confirmed from the broadcast, in a 38-19 win that evened the record at 3-3. After a bye on October 17, next up is Tennessee at home on October 24, where garnet is expected. The grid above lists every game, and we update it when each combination is confirmed.
 
 **What are South Carolina's football uniforms for 2026?**
 
@@ -92,9 +92,9 @@ The black set is updated rather than new: the helmet moved from matte to gloss, 
 
 A glossy black helmet with the Cocky mascot logo on both sides instead of the Block C, a black jersey and white pants, in a 45-9 win on September 12. The helmet celebrated Cocky's induction into the Mascot Hall of Fame and was meant for that night only.
 
-**What will South Carolina wear at Florida?**
+**What did South Carolina wear at Florida?**
 
-Garnet is expected on October 10. Florida released its full 2026 uniform schedule and will wear a retro helmet with a white jersey and white pants against South Carolina, so the Gamecocks should be in color at Ben Hill Griffin Stadium.
+A garnet helmet, garnet jersey and white pants on October 10, confirmed from the broadcast. Florida wore its retro helmet with a white jersey and white pants, as its released 2026 uniform schedule said, so the Gamecocks were in color at Ben Hill Griffin Stadium. South Carolina won 38-19.
 
 **How many games does South Carolina play in 2026?**
 

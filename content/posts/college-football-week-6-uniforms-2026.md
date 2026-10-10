@@ -25,7 +25,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 1 Texas vs. Oklahoma: Red River at the Cotton Bowl
 
-**Saturday, 3:30 p.m., ABC.** The Red River rivalry at the State Fair of Texas, with the stadium split down the 50 between burnt orange and crimson. Oklahoma is the designated home team this year. **Oklahoma: Expected in crimson**, the crimson jersey under the white helmet with the interlocking OU. **Texas: Expected in white**, which makes this the one game on the schedule outside a true road trip where the Longhorns are not in burnt orange. Neither school has posted yet, and both usually do it late in the week. More: [Texas schedule](/stories/texas-uniform-schedule-2026) and [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026).
+**Saturday, 3:30 p.m., ABC.** The Red River rivalry at the State Fair of Texas, with the stadium split down the 50 between burnt orange and crimson. Oklahoma is the designated home team this year. **Oklahoma: Confirmed in crimson**, the crimson helmet with the white interlocking OU, crimson jersey and white pants. **Texas: Confirmed in white**, white helmet, white jersey and white pants, which makes this the one game on the schedule outside a true road trip where the Longhorns are not in burnt orange. Both looks are confirmed from the ABC broadcast. More: [Texas schedule](/stories/texas-uniform-schedule-2026) and [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026).
 
 ### No. 21 UCLA at No. 13 Oregon: Origin of Speed
 
@@ -45,7 +45,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### South Carolina at No. 16 Florida: The Spurrier Throwback
 
-**Saturday, 12:45 p.m., SEC Network.** **Florida: Confirmed, retro helmet, white jersey, white pants.** Florida is the one program that published its entire 2026 uniform schedule in August, and that grid has held every week so far. This is the one date on it with the retro helmet: a royal blue shell with an orange and white center stripe and the block F inside a white oval, from the throwback the Gators revealed on August 10 to mark 60 years since Steve Spurrier won the 1966 Heisman. The opponent makes it better, since Spurrier went on to coach South Carolina for 11 seasons. The full set is graded in our [Florida throwback breakdown](/stories/florida-gators-throwback-uniforms-2026). **South Carolina: Confirmed in garnet**, the garnet helmet, garnet jersey and white pants. **Update:** Florida wore the retro helmet, white jersey and white pants exactly as planned, confirmed from the SEC Network broadcast: a royal blue shell with the orange and white center stripe and the block F in a white oval. More: [Florida schedule](/stories/florida-uniform-schedule-2026) and [South Carolina schedule](/stories/south-carolina-uniform-schedule-2026).
+**Saturday, 12:45 p.m., SEC Network.** **Florida: Confirmed, retro helmet, white jersey, white pants.** Florida is the one program that published its entire 2026 uniform schedule in August, and that grid has held every week so far. This is the one date on it with the retro helmet: a royal blue shell with an orange and white center stripe and the block F inside a white oval, from the throwback the Gators revealed on August 10 to mark 60 years since Steve Spurrier won the 1966 Heisman. The opponent makes it better, since Spurrier went on to coach South Carolina for 11 seasons. The full set is graded in our [Florida throwback breakdown](/stories/florida-gators-throwback-uniforms-2026). **South Carolina: Confirmed in garnet**, the garnet helmet, garnet jersey and white pants. **Update:** Florida wore the retro helmet, white jersey and white pants exactly as planned, confirmed from the SEC Network broadcast: a royal blue shell with the orange and white center stripe and the block F in a white oval. Spurrier's other school spoiled the day, though: South Carolina won 38-19. More: [Florida schedule](/stories/florida-uniform-schedule-2026) and [South Carolina schedule](/stories/south-carolina-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GatorsFB/status/2086807502864167064"></a></blockquote>
@@ -122,8 +122,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 ### Saturday, October 10: Noon Window
 
 **No. 7 [Indiana](/stories/indiana-uniform-schedule-2026) at [Nebraska](/stories/nebraska-uniform-schedule-2026)**, noon, FOX.
-- Indiana: **Expected**, white. The national champions went all white at Rutgers last week, white helmet included. Indiana 20, Nebraska 17. We have not yet seen game photos to confirm either side.
-- Nebraska: **Expected**, scarlet, the white helmet and scarlet jersey it wore against Maryland.
+- Indiana: **Confirmed**, crimson helmet, white jersey, white pants, from the game photos. Indiana 20, Nebraska 17.
+- Nebraska: **Expected**, scarlet, the white helmet and scarlet jersey it wore against Maryland. We have not yet seen a clear game photo of Nebraska to confirm it.
 
 **[Texas A&M](/stories/texas-am-uniform-schedule-2026) at No. 14 [Missouri](/stories/missouri-uniform-schedule-2026)**, noon, ABC.
 - Texas A&M: **Confirmed**, maroon helmet, white jersey, white pants. Missouri 27, Texas A&M 6.
@@ -154,7 +154,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Ball State: **Confirmed**, white helmet, white jersey, red pants. Northwestern 45, Ball State 14.
 
 **South Carolina at No. 16 Florida**, 12:45 p.m., SEC Network.
-- [South Carolina](/stories/south-carolina-uniform-schedule-2026): **Confirmed**, garnet helmet, garnet jersey, white pants.
+- [South Carolina](/stories/south-carolina-uniform-schedule-2026): **Confirmed**, garnet helmet, garnet jersey, white pants. South Carolina 38, Florida 19.
 - [Florida](/stories/florida-uniform-schedule-2026): **Confirmed**, retro helmet, white jersey, white pants, worn as announced. See above.
 
 ### Also on the Early Slate
@@ -164,8 +164,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 ### Saturday, October 10: Afternoon Window
 
 **No. 1 Texas vs. Oklahoma**, 3:30 p.m., ABC, at the Cotton Bowl in Dallas.
-- [Texas](/stories/texas-uniform-schedule-2026): **Expected**, white.
-- [Oklahoma](/stories/oklahoma-uniform-schedule-2026): **Expected**, crimson, as the designated home team.
+- [Texas](/stories/texas-uniform-schedule-2026): **Confirmed**, all white: white helmet, white jersey, white pants.
+- [Oklahoma](/stories/oklahoma-uniform-schedule-2026): **Confirmed**, crimson helmet, crimson jersey, white pants, as the designated home team.
 
 **Stanford at No. 3 Notre Dame**, 3:30 p.m., NBC.
 - [Stanford](/stories/stanford-uniform-schedule-2026): **Expected**, white.
@@ -311,7 +311,7 @@ Alabama is expected in its home set, crimson helmet, crimson jersey and white pa
 
 **What are Texas and Oklahoma wearing in the Red River rivalry?**
 
-Oklahoma is the designated home team at the Cotton Bowl this year, so it is expected in crimson, with Texas in white. Both programs usually confirm late in game week.
+Oklahoma, the designated home team at the Cotton Bowl this year, wore the crimson helmet, crimson jersey and white pants. Texas wore all white. Both looks are confirmed from the broadcast.
 
 **Is Penn State vs. USC the White Out?**
 
