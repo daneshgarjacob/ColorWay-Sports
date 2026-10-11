@@ -3,7 +3,7 @@ title: "Alabama Uniform Schedule 2026: Every Jersey and When the Crimson Tide We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-10"
 excerpt: "What Alabama wears every game in 2026. Crimson at home, white on the road, and why the Tide's uniform schedule is the most locked-down in the SEC."
 gradient: "linear-gradient(135deg, #9E1B32 0%, #2a0a10 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -36,7 +36,7 @@ Twelve games, seven at Bryant-Denny, no alternates announced.
   <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson</div></div>
   <div style="background: #9E1B32; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / White / White</div></div>
-  <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
   <div style="background: #9E1B32; color: #ffffff; border: 1px solid #7d1527; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
   <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -58,7 +58,7 @@ SEC home teams wear color and visitors wear white, so the road games below are c
 
 **October 3 at Mississippi State**, Starkville, noon ET on ABC. ★ Confirmed from the broadcast: **crimson helmet, white jersey, white pants**, the standard road set. Mississippi State wore what it announced, the maroon helmet with the white retro M-State logo, a maroon jersey and white pants, so it was white against maroon. Alabama scored 56 points and won 56-23 to move to 5-0. See our [Mississippi State 2026 uniform schedule](/stories/mississippi-state-uniform-schedule-2026).
 
-**October 10 vs. Georgia**, Tuscaloosa. The biggest home game of the year. Crimson.
+**October 10 vs. Georgia**, Tuscaloosa, 7:30 p.m. ET on ABC. ★ Confirmed from the broadcast: **crimson helmet, crimson jersey, white pants**, the standard home uniform for the biggest home game of the year. Georgia wore the red helmet, white jersey and silver pants, so it was crimson against white. Alabama led 14-10 at halftime, Georgia kicked the only points of the fourth quarter, a field goal, and Georgia won 20-17. Alabama is 5-1 with its first loss. More: [Georgia uniform schedule](/stories/georgia-uniform-schedule-2026).
 
 **October 17 at Tennessee**, Knoxville. **Crimson, not white.** Announced August 19: Alabama and Tennessee will both wear their home jerseys for the Third Saturday in October, crimson against orange, for the first time since 1970. The same arrangement holds when the game returns to Tuscaloosa in 2027. This is the one road game all season where Alabama is not in white. [Full story on the color vs color announcement](/stories/alabama-tennessee-color-vs-color-third-saturday-october-2026).
 
@@ -90,7 +90,7 @@ Want every big game in one place? Our [college football Week 5 uniform guide](/s
 
 **What jersey is Alabama wearing this week?**
 
-Alabama wore white at Mississippi State on Saturday, October 3: crimson helmet, white jersey and white pants, confirmed from the broadcast, in a 56-23 win that moved the Tide to 5-0. Next up is Georgia in Tuscaloosa on October 10, where crimson is expected. Alabama wears crimson at home and white on the road. The one date that could break the pattern is November 7 at LSU, because LSU sometimes wears white at home, which would put Alabama in crimson.
+Alabama wore crimson against Georgia on Saturday, October 10: crimson helmet, crimson jersey and white pants, confirmed from the broadcast, in a 20-17 loss that dropped the Tide to 5-1. The week before, Alabama wore the crimson helmet, white jersey and white pants in a 56-23 win at Mississippi State. Next up is Tennessee in Knoxville on October 17, where Alabama will wear crimson, not white, because both teams are wearing their home jerseys. Alabama wears crimson at home and white on the road. The one date that could break the pattern is November 7 at LSU, because LSU sometimes wears white at home, which would put Alabama in crimson.
 
 **Does Alabama have alternate uniforms in 2026?**
 

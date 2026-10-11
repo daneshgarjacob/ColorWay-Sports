@@ -3,7 +3,7 @@ title: "Georgia Uniform Schedule 2026: Every Jersey and When the Bulldogs Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Georgia wears every game in 2026, including the confirmed date for the first white helmet in Bulldogs history and the red-and-silver-britches home set."
 gradient: "linear-gradient(135deg, #BA0C2F 0%, #111111 55%, #C4CED4 130%)"
 cardStyle: words
@@ -42,7 +42,7 @@ Twelve games, the first white helmet in program history, and an October 24 bye.
   <div style="background: #f1f3f8; color: #333; border: 2px solid #BA0C2F; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Silver</div></div>
   <div style="background: #BA0C2F; color: #ffffff; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / Silver</div></div>
   <div style="background: #BA0C2F; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / Silver</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Silver</div></div>
   <div style="background: #BA0C2F; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #BA0C2F; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -70,7 +70,7 @@ Game week made it official on Tuesday: the program's own graphic for Western Ken
 
 **October 3 vs. Vanderbilt**, Athens. ★ Confirmed from the broadcast: **red helmet with the oval G, red jersey, silver britches**, the standard home set. Vanderbilt wore what it announced, a white helmet, white jersey and black pants, so it was red against white at Sanford Stadium. Georgia won 38-14 to move to 5-0. See the [Vanderbilt 2026 uniform schedule](/stories/vanderbilt-uniform-schedule-2026).
 
-**October 10 at Alabama**, Tuscaloosa. The biggest road game on the schedule. White expected.
+**October 10 at Alabama**, Tuscaloosa, 7:30 p.m. ET on ABC. ★ Confirmed from the broadcast: **red helmet with the oval G, white jersey, silver britches**, the standard road set for the biggest road game on the schedule. Alabama wore the crimson helmet, crimson jersey and white pants, so it was white against crimson at Bryant-Denny Stadium. Georgia trailed 14-10 at halftime, kicked a field goal for the only points of the fourth quarter, and won 20-17 to move to 6-0. See the [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
 
 **October 17 vs. Auburn**, Athens. Rivalry game at home. Red expected.
 
@@ -106,7 +106,7 @@ It already has: Saturday, September 12, 2026, against Western Kentucky at Sanfor
 
 **What jersey is Georgia wearing this week?**
 
-Georgia wore the red helmet, red jersey and silver britches against Vanderbilt on Saturday, October 3, confirmed from the broadcast, and won 38-14 to move to 5-0. Next is at Alabama on October 10, where white is expected. The Bulldogs wear red at home and white on the road for most games in 2026, and the confirmed exception is the all-white set on September 12 against Western Kentucky.
+Georgia wore the red helmet, white jersey and silver britches at Alabama on Saturday, October 10, confirmed from the broadcast, and won 20-17 to move to 6-0. The week before, the Bulldogs wore the red helmet, red jersey and silver britches in a 38-14 win over Vanderbilt. Next is Auburn in Athens on October 17, where red is expected. The Bulldogs wear red at home and white on the road for most games in 2026, and the confirmed exception is the all-white set on September 12 against Western Kentucky.
 
 **Does Georgia wear silver britches in 2026?**
 

@@ -270,7 +270,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Louisiana Tech: TBA, announced game week.
 
 **[Minnesota](/stories/minnesota-gophers-uniform-schedule-2026) at [Purdue](/stories/purdue-uniform-schedule-2026)**, 8 p.m., BTN.
-- Minnesota: **Confirmed**, maroon helmet, white jersey, white pants, a week after taking the Little Brown Jug.
+- Minnesota: **Confirmed**, maroon helmet, white jersey, white pants, a week after taking the Little Brown Jug. Purdue 41, Minnesota 13.
 - Purdue: **Confirmed**, gold helmet, black jersey, gold pants, for the Hammer Down Cancer game.
 
 ### Also Late
