@@ -3,7 +3,7 @@ title: "Illinois Uniform Schedule 2026: Every Jersey and When the Illini Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Illinois wears every game in 2026: navy home jerseys, the white road set, the orange alternate, every helmet, and the full Fighting Illini uniform schedule."
 gradient: "linear-gradient(135deg, #13294B 0%, #1f3b66 55%, #E84A27 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["illinois-fighting-illini", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Illinois has three jersey colors, a rack of orange helmets and a navy one, and a home crowd that picks a color theme for the big games. This is the full Illinois 2026 uniform schedule: the navy home set, the white road set, the orange alternate, the helmets, and a week-by-week outlook for all twelve games in Bret Bielema's sixth season. Five games in, the Fighting Illini are 2-3: navy over orange in all three early home games, with a patriotic helmet for Duke, white at Ohio State and all orange for Homecoming against Purdue. We update this page as each combination is confirmed.
+Illinois has three jersey colors, a rack of orange helmets and a navy one, and a home crowd that picks a color theme for the big games. This is the full Illinois 2026 uniform schedule: the navy home set, the white road set, the orange alternate, the helmets, and a week-by-week outlook for all twelve games in Bret Bielema's sixth season. Six games in, the Fighting Illini are 3-3: navy over orange in all three early home games, with a patriotic helmet for Duke, white at Ohio State, all orange for Homecoming against Purdue and white again in the overtime win at Michigan State. We update this page as each combination is confirmed.
 
 ## The Illinois 2026 Uniform Sets
 
@@ -34,7 +34,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
   <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Navy / Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #E84A27; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Orange</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -54,7 +54,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 **October 3 vs. Purdue.** ★ Confirmed from the broadcast: **orange helmet, orange jersey, orange pants**, so the asterisk won: Illinois went all orange for Homecoming and the "Hail to the Orange Out" in the Purdue Cannon game. Purdue wore the gold helmet, white jersey and gold pants it announced, per the [Purdue 2026 uniform schedule](/stories/purdue-uniform-schedule-2026). Purdue won 24-17 and took the Cannon, and Illinois fell to 2-3.
 
-**October 10 at Michigan State.** White expected. It is Michigan State's Homecoming at Spartan Stadium, with the Spartans in green. The [Michigan State 2026 uniform schedule](/stories/michigan-state-uniform-schedule-2026) has their side.
+**October 10 at Michigan State.** ★ Confirmed from the game photos: **orange helmet, white jersey, orange pants**, the same road set Illinois wore at Ohio State. It was Michigan State's Homecoming at Spartan Stadium, 3:30 p.m. ET on FS1, and the Spartans wore their standard home set: green helmet, green jersey and white pants. Illinois led 20-7 at halftime, it was 31-31 after regulation, and Illinois won 38-37 in overtime to get back to 3-3. The [Michigan State 2026 uniform schedule](/stories/michigan-state-uniform-schedule-2026) has their side.
 
 **October 17.** Bye.
 
@@ -72,13 +72,13 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 ## The Bottom Line
 
-Illinois wore the same base look in its first three home games, orange helmet, navy jersey, orange pants, and used the helmet to mark the occasion against Duke. Expect navy at home and white on the road at Michigan State, Maryland, UCLA and Northwestern, as it was at Ohio State. The themed dates are the ones that break the pattern: the Orange Out Homecoming against Purdue already brought out the all-orange set, and Military Appreciation against Oregon and the Blue Out Friday night against Nebraska are still to come. The grid above has every date, and we star each game as the combination is confirmed.
+Illinois wore the same base look in its first three home games, orange helmet, navy jersey, orange pants, and used the helmet to mark the occasion against Duke. Expect navy at home and white on the road at Maryland, UCLA and Northwestern, as it was at Ohio State and Michigan State. The themed dates are the ones that break the pattern: the Orange Out Homecoming against Purdue already brought out the all-orange set, and Military Appreciation against Oregon and the Blue Out Friday night against Nebraska are still to come. The grid above has every date, and we star each game as the combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Illinois wearing this week?**
 
-Illinois wore the all-orange set, orange helmet, orange jersey and orange pants, for Homecoming against Purdue on Saturday, October 3, confirmed from the broadcast. Purdue won 24-17 and took the Cannon, and Illinois is 2-3. Next is at Michigan State on October 10, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Illinois wore the orange helmet, white jersey and orange pants at Michigan State on Saturday, October 10, confirmed from the game photos. Illinois won 38-37 in overtime and is 3-3. The week before, it wore all orange for Homecoming against Purdue. After a bye on October 17, next is Oregon at home on October 24, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Illinois's football uniforms for 2026?**
 
