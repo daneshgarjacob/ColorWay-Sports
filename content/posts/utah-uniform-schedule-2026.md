@@ -3,7 +3,7 @@ title: "Utah Uniform Schedule 2026: Every Jersey and When the Utes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-10"
 excerpt: "Utah Utes uniform schedule 2026: every jersey, helmet and uniform combo week by week, from the all-red opener to Ute Proud, Red Out and the Holy War."
 gradient: "linear-gradient(135deg, #CC0000 0%, #a10000 55%, #000000 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
   <div style="background: #CC0000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Ute Proud</div></div>
   <div style="background: #CC0000; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -55,7 +55,7 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
 
 **October 3.** Bye.
 
-**October 10 vs. Kansas.** Red expected. Utah still lists the promotion for this date as "To Be Announced," so this is the open home slot on the calendar. Kansas will be in white; the Jayhawks' side is on our [Kansas 2026 uniform schedule](/stories/kansas-uniform-schedule-2026).
+**October 10 vs. Kansas.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, all white at home at Rice-Eccles Stadium, where red had been expected. Kansas wore a black jersey with KANSAS across the chest and black pants; the helmet was not clear enough in the frames we saw to name its color. Utah led 21-17 at halftime, scored 14 in the fourth quarter and won 41-24 to move to 5-0. Kickoff was 8 p.m. Eastern on ESPNEWS. The Jayhawks' side is on our [Kansas 2026 uniform schedule](/stories/kansas-uniform-schedule-2026).
 
 **October 17 at Colorado.** White expected. The Rumble in the Rockies at Folsom Field, where Colorado is expected in black. More on the Buffaloes' options on our [Colorado 2026 uniform schedule](/stories/colorado-uniform-schedule-2026).
 
@@ -73,13 +73,13 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
 
 ## The Bottom Line
 
-Three games, two looks: Utah went all red at home twice and then swapped the shell for the Ute Proud white tribal helmet against Utah State, and with a Red Out still ahead against BYU, red is the base of this season. The real uniform stories are the helmets. Somewhere on the home schedule sits the annual hand-painted helmet, with Kansas, Houston and West Virginia the open candidates. Road dates at Iowa State, Colorado, Cincinnati, Arizona and TCU should all be white. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Five games, three looks: Utah went all red three times, including the road trip to Iowa State, swapped the shell for the Ute Proud white tribal helmet against Utah State, and then went all white at home against Kansas. With a Red Out still ahead against BYU, red is still the base of this season. The real uniform stories are the helmets. Somewhere on the remaining home schedule sits the annual hand-painted helmet, with Houston and West Virginia the open candidates. The remaining road dates at Colorado, Cincinnati, Arizona and TCU are expected in white. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Utah wearing this week?**
 
-Utah wore all red at Iowa State on Saturday, September 26: the red helmet, red jersey and red pants, in a 31-17 win against the Cyclones' Whiteout. The week before, Utah wore the Ute Proud combination against Utah State: a white helmet with tribal interlocking U's and a tribal center stripe, a red jersey and red pants, in a 33-0 win.
+Utah wore all white against Kansas on Saturday, October 10: the white helmet, white jersey and white pants, confirmed from the broadcast, in a 41-24 win that moved the Utes to 5-0. Red had been expected. Before the bye, Utah wore all red at Iowa State on September 26 in a 31-17 win. Next is the Rumble in the Rockies at Colorado on October 17, where white is expected.
 
 **What are Utah's football uniforms for 2026?**
 

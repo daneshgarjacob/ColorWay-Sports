@@ -3,7 +3,7 @@ title: "James Madison Uniform Schedule 2026: Every Jersey and When the Dukes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What James Madison wears every game in 2026: the purple home jersey, the white road set, the black alternate, and the full Dukes uniform schedule week by week."
 gradient: "linear-gradient(135deg, #450084 0%, #5a1a9e 55%, #CBB677 130%)"
 cardStyle: words
@@ -40,7 +40,7 @@ Read it left to right and it is helmet, jersey, pants. Gold, black, black. That 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div><div style="font-size: 0.68em; font-weight: 700; opacity: 0.85; margin-top: 2px;">W 26-13</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div><div style="font-size: 0.68em; font-weight: 700; opacity: 0.85; margin-top: 2px;">W 46-20</div></div>
   <div style="background: #450084; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Marshall</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Purple / Gold</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Purple</div><div style="font-size: 0.68em; font-weight: 700; opacity: 0.85; margin-top: 2px;">W 27-24</div></div>
   <div style="background: #450084; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #450084; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 29 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
@@ -76,7 +76,7 @@ One calendar note before you go looking for this game: ESPN files it under Septe
 
 **October 3 vs. Marshall.** ★ Confirmed from the broadcast: **gold helmet, purple jersey, gold pants** for Family Weekend and the Sun Belt home opener. Marshall wore the white helmet with the green M, white jersey and white pants. The Dukes trailed for the first time all season, then scored 28 straight points in the second quarter. George Pettaway ran for a career-high 206 yards and two touchdowns, Camden Coleman threw three touchdown passes, and James Madison won 45-17 to move to 5-0. See our [Marshall 2026 uniform schedule](/stories/marshall-uniform-schedule-2026) for the Herd.
 
-**October 10 at Georgia Southern.** White expected. A trip to Statesboro with kickoff still to be set.
+**October 10 at Georgia Southern.** ★ Confirmed from the broadcast: **gold helmet, white jersey, purple pants**, the white jersey as expected for the trip to Statesboro, this time with purple below it. Kickoff was 7:30 p.m. Eastern on ESPNU, on Georgia Southern's Family Weekend and Tackling for a Cure game. Georgia Southern wore the navy helmet, navy jersey and white pants; see our [Georgia Southern 2026 uniform schedule](/stories/georgia-southern-uniform-schedule-2026). The Dukes trailed 10-6 at halftime and won 27-24 to move to 6-0.
 
 **October 17 vs. Georgia State.** Purple expected, with an asterisk. This is Homecoming Weekend, which is historically the date programs save an alternate for, and JMU has already shown it will wear black in September. If the Dukes go to the closet again, this is the most likely home date.
 
@@ -98,13 +98,13 @@ One calendar note before you go looking for this game: ESPN files it under Septe
 
 ## The Bottom Line
 
-Five games into 2026, James Madison is 5-0 and has already used all three jerseys and both helmets, with the white shell coming out for the first road trip. Purple over white is the default at home, white is locked in for all six road games by Sun Belt rule, and the black set is the wild card that shows up when the program wants a night to feel bigger than the opponent. Homecoming against Georgia State is the date we are watching hardest. The grid above has every game, and we add the stars as each uniform is confirmed.
+Six games into 2026, James Madison is 6-0 and has already used all three jerseys and both helmets, with the white shell coming out for the first road trip. Purple over white is the default at home, white is locked in for all six road games by Sun Belt rule, and the black set is the wild card that shows up when the program wants a night to feel bigger than the opponent. Homecoming against Georgia State is the date we are watching hardest. The grid above has every game, and we add the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is James Madison wearing this week?**
 
-James Madison wore the gold helmet, purple jersey and gold pants against Marshall at Bridgeforth Stadium on Saturday, October 3, a 45-17 win that moved the Dukes to 5-0, confirmed from the broadcast. A week earlier they wore the gold helmet, white jersey and gold pants in a 46-20 win at Old Dominion. Next is a trip to Georgia Southern on October 10, where white is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+James Madison wore the gold helmet, white jersey and purple pants at Georgia Southern on Saturday, October 10, a 27-24 win that moved the Dukes to 6-0, confirmed from the broadcast. A week earlier they wore the gold helmet, purple jersey and gold pants in a 45-17 win over Marshall. Next is Homecoming against Georgia State on October 17, where purple is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are James Madison's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Georgia Southern Uniform Schedule 2026: Every Jersey and When the Eagles
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Georgia Southern wears every game in 2026: the navy numbered helmet, navy and white jerseys, the Erk 100 White Out and the full Eagles uniform schedule."
 gradient: "linear-gradient(135deg, #011E41 0%, #0a1a33 55%, #ffffff 130%)"
 cardStyle: words
@@ -18,9 +18,9 @@ Georgia Southern wears one of the plainest uniforms in college football on purpo
 ## The Georgia Southern 2026 Uniform Sets
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
-  <div style="background: #011E41; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Navy Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Navy jersey with white numerals and names on the back. Worn with white pants in both home games so far.</div></div>
+  <div style="background: #011E41; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Navy Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Navy jersey with white numerals and names on the back. Worn with white pants in all three home games so far.</div></div>
   <div style="background: #ffffff; color: #011E41; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with navy numerals and the Sun Belt patch. Worn with navy pants at Clemson and white pants at Jacksonville State.</div></div>
-  <div style="background: #0a1a33; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">A navy shell with a white center stripe and the player's number in white on the side. No logo needed. Worn in all four games.</div></div>
+  <div style="background: #0a1a33; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">A navy shell with a white center stripe and the player's number in white on the side. No logo needed. Worn in every game so far.</div></div>
   <div style="background: #f4f6fa; color: #011E41; border: 1px dashed #b8c2d3; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The White Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Rarely used. In 2024 Georgia Southern wore white helmets with ERK on the front and One More Time on the back bumper for a White Out. Not seen yet in 2026.</div></div>
 </div>
 
@@ -36,7 +36,7 @@ This season carries extra weight. Russell would have turned 100 on July 23, 2026
   <div style="background: #ffffff; color: #011E41; border: 2px solid #011E41; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jacksonville State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / White</div></div>
   <div style="background: #011E41; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Coastal Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / Navy</div></div>
-  <div style="background: #011E41; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #011E41; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 15 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #ffffff; color: #011E41; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White Out (TBA)</div></div>
@@ -56,7 +56,7 @@ This season carries extra weight. Russell would have turned 100 on July 23, 2026
 
 **October 3 at Coastal Carolina.** ★ Confirmed from the broadcast: **navy helmet, white jersey, navy pants** for the Sun Belt opener at Brooks Stadium. Coastal wore a white helmet, teal jersey and white pants, which made it one of the better color matchups on the schedule. Georgia Southern won 31-24 to move to 2-3. See our [Coastal Carolina 2026 uniform schedule](/stories/coastal-carolina-uniform-schedule-2026).
 
-**October 10 vs. James Madison.** Navy expected. Family Weekend and Tackling for a Cure at Paulson Stadium, 6 p.m. Eastern on ESPN+. JMU is expected in white; our [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026) has the Dukes.
+**October 10 vs. James Madison.** ★ Confirmed from the broadcast: **navy helmet, navy jersey, white pants**, the home set as expected for Family Weekend and Tackling for a Cure at Paulson Stadium, 7:30 p.m. Eastern on ESPNU. JMU wore the gold helmet, white jersey and purple pants; our [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026) has the Dukes. Georgia Southern led 10-6 at halftime, but James Madison won 27-24, and the Eagles are 2-4.
 
 **October 15 at Old Dominion.** White expected. A Thursday night at S.B. Ballard Stadium, 7:30 p.m. Eastern.
 
@@ -74,17 +74,17 @@ This season carries extra weight. Russell would have turned 100 on July 23, 2026
 
 ## Will Georgia Southern Wear White Helmets for Erk 100?
 
-It is the best uniform question left on the Sun Belt calendar. Georgia Southern has worn the navy numbered helmet in all five games, and the program almost never changes it. The exception, in 2024, was the White Out, when the team announced white helmets two days before kickoff with Russell's name and his One More Time line on them. The Erk 100 White Out on October 31 is built around the same man. If Georgia Southern does it again, we expect the announcement late in game week, and we will update this page when it lands.
+It is the best uniform question left on the Sun Belt calendar. Georgia Southern has worn the navy numbered helmet in all six games, and the program almost never changes it. The exception, in 2024, was the White Out, when the team announced white helmets two days before kickoff with Russell's name and his One More Time line on them. The Erk 100 White Out on October 31 is built around the same man. If Georgia Southern does it again, we expect the announcement late in game week, and we will update this page when it lands.
 
 ## The Bottom Line
 
-Georgia Southern has used one helmet, two jerseys and two pant colors through five games, and that restraint is the brand. The navy shell with the number on the side does not need a logo to be recognized. The variety this season is in the pants, and the real event is still ahead: an Erk 100 White Out against App State that could bring back the white helmet with ERK on the front. The grid above has every date, and we add a star as each uniform is confirmed.
+Georgia Southern has used one helmet, two jerseys and two pant colors through six games, and that restraint is the brand. The navy shell with the number on the side does not need a logo to be recognized. The variety this season is in the pants, and the real event is still ahead: an Erk 100 White Out against App State that could bring back the white helmet with ERK on the front. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Georgia Southern wearing this week?**
 
-Georgia Southern hosts James Madison on Saturday, October 10, for Family Weekend and Tackling for a Cure, and navy is expected. Last week the Eagles wore the navy helmet, white jersey and navy pants at Coastal Carolina on October 3, confirmed from the broadcast, and won the Sun Belt opener 31-24 to move to 2-3.
+Georgia Southern wore the navy helmet, navy jersey and white pants against James Madison on Saturday, October 10, for Family Weekend and Tackling for a Cure, confirmed from the broadcast. The Eagles led 10-6 at halftime but lost 27-24 and are 2-4. Next is a Thursday night trip to Old Dominion on October 15, where white is expected.
 
 **Why does Georgia Southern have numbers on its helmet instead of a logo?**
 

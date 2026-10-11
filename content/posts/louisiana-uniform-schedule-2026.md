@@ -3,7 +3,7 @@ title: "Louisiana Uniform Schedule 2026: Every Jersey and When the Ragin' Cajuns
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Louisiana wears every game in 2026: the red home set, the white road jersey, the 337 helmet and the week-by-week Ragin' Cajuns uniform schedule."
 gradient: "linear-gradient(135deg, #CE181E 0%, #8a0f14 55%, #ffffff 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["louisiana-ragin-cajuns", "sun-belt"]
 resurfaceOnUpdate: true
 ---
 
-Louisiana has worn two helmets and two jerseys through five games, and most of the variety has come from the pants. This is the full Louisiana Ragin' Cajuns 2026 uniform schedule: the red home set, the white road jersey, the red helmet with 337 on the bumper, every game played so far and the expected look for the rest of the season, starting with Louisiana Tech on October 10. We update this page as each combination is confirmed.
+Louisiana has worn two helmets and two jerseys through six games, and most of the variety has come from the pants. This is the full Louisiana Ragin' Cajuns 2026 uniform schedule: the red home set, the white road jersey, the red helmet with 337 on the bumper, every game played so far and the expected look for the rest of the season, starting with Troy on October 17. We update this page as each combination is confirmed.
 
 ## The Louisiana 2026 Uniform Sets
 
@@ -25,7 +25,7 @@ Louisiana has worn two helmets and two jerseys through five games, and most of t
 
 The uniforms are Adidas, and the set is about as clean as it gets in the Sun Belt: red and white, with LOUISIANA spelled out across the chest and the stripes kept to the sleeves and the pants. The detail that makes it local is on the helmet bumper. The 337 is the area code for Lafayette and the rest of Acadiana, a small nod to home that shows up every time a player turns to face the camera.
 
-Five games into Michael Desormeaux's fifth season, the pattern is simple. Red jersey at Our Lady of Lourdes Stadium, white jersey on the road, and the pants change from week to week. Louisiana went red over white for the opener, white over red at USC, all red against UAB, all white at Charlotte, and red over red under a white helmet for Homecoming against Arkansas State. No two games have matched yet.
+Six games into Michael Desormeaux's fifth season, the pattern is simple. Red jersey at Our Lady of Lourdes Stadium, white jersey on the road, and the pants change from week to week. Louisiana went red over white for the opener, white over red at USC, all red against UAB, all white at Charlotte, red over red under a white helmet for Homecoming against Arkansas State, and all white at Louisiana Tech. No two games have matched yet.
 
 ## The Full Louisiana 2026 Uniform Schedule, Week by Week
 
@@ -35,7 +35,7 @@ Five games into Michael Desormeaux's fifth season, the pattern is simple. Red je
   <div style="background: #CE181E; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #ffffff; color: #CE181E; border: 2px solid #CE181E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / White</div></div>
   <div style="background: #CE181E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #CE181E; border: 2px solid #CE181E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #CE181E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -55,7 +55,7 @@ Five games into Michael Desormeaux's fifth season, the pattern is simple. Red je
 
 **October 3 vs. Arkansas State.** ★ Confirmed from the broadcast: **white helmet, red jersey, red pants** for Homecoming and Gridiron Alumni Day, red over red under the white shell. Arkansas State wore a black helmet and white jersey. It was tied 20-20 late, and Tony Sterner kicked a 37-yard field goal as time expired for a 23-20 win in the Sun Belt opener. Louisiana is 4-1.
 
-**October 10 at Louisiana Tech.** White expected. An in-state game at Joe Aillet Stadium in Ruston, 7:30 p.m. Eastern on ESPN+.
+**October 10 at Louisiana Tech.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, all white for the in-state game at Joe Aillet Stadium in Ruston, 7:30 p.m. Eastern on ESPN+. The white jersey was expected, and the white helmet came back out after Homecoming. Louisiana Tech wore royal blue jerseys. Louisiana Tech scored 19 in the fourth quarter and won 32-31, and Louisiana is 4-2.
 
 **October 17 vs. Troy.** Red expected. Family Weekend and the Hall of Fame Game in Lafayette. The TV slot is set to be announced October 5.
 
@@ -73,17 +73,17 @@ Five games into Michael Desormeaux's fifth season, the pattern is simple. Red je
 
 ## Will Louisiana Wear an Alternate in 2026?
 
-Only the helmet so far. Louisiana wore the red helmet in its first four games, then switched to a white helmet with the red jersey and red pants for Homecoming against Arkansas State on October 3. No alternate jersey has appeared. The open dates left for one are the themed home games: Louisiana Salutes against South Alabama on November 7 and Senior Day against Coastal Carolina on November 21. The program has not announced anything for either of them, and we will not put an alternate in the grid until it does.
+Only the helmet so far. Louisiana wore the red helmet in its first four games, then switched to a white helmet with the red jersey and red pants for Homecoming against Arkansas State on October 3, and wore the white helmet again with the white jersey and white pants at Louisiana Tech on October 10. No alternate jersey has appeared. The open dates left for one are the themed home games: Louisiana Salutes against South Alabama on November 7 and Senior Day against Coastal Carolina on November 21. The program has not announced anything for either of them, and we will not put an alternate in the grid until it does.
 
 ## The Bottom Line
 
-Louisiana runs one of the cleanest closets in the Sun Belt: a red helmet with 337 on the bumper, a white helmet for Homecoming, a red jersey at home, a white jersey on the road and a pants color that keeps changing. Five games have produced five different combinations, and the all-red look against UAB was the strongest of them. The questions left are what the Ragin' Cajuns wear for Louisiana Salutes and Senior Day, and whether anything beyond red and white comes out this season. The grid above has every date, and we add a star as each uniform is confirmed.
+Louisiana runs one of the cleanest closets in the Sun Belt: a red helmet with 337 on the bumper, a white helmet for Homecoming and the all-white look at Louisiana Tech, a red jersey at home, a white jersey on the road and a pants color that keeps changing. Six games have produced six different combinations, and the all-red look against UAB was the strongest of them. The questions left are what the Ragin' Cajuns wear for Louisiana Salutes and Senior Day, and whether anything beyond red and white comes out this season. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Louisiana wearing this week?**
 
-Louisiana wore the white helmet, red jersey and red pants for Homecoming against Arkansas State on Saturday, October 3, and won 23-20 on a field goal as time expired to move to 4-1. Next is a trip to Louisiana Tech on October 10, where the white road jersey is expected.
+Louisiana wore all white at Louisiana Tech on Saturday, October 10: the white helmet, white jersey and white pants, confirmed from the broadcast. Louisiana Tech won 32-31, and the Ragin' Cajuns are 4-2. A week earlier they wore the white helmet, red jersey and red pants for Homecoming against Arkansas State and won 23-20. Next is Troy at home on October 17, where red is expected.
 
 **What does 337 on the Louisiana helmet mean?**
 
@@ -91,7 +91,7 @@ It is the area code for Lafayette and the surrounding Acadiana region. The numbe
 
 **What are Louisiana's football uniforms for 2026?**
 
-A red home jersey and a white road jersey, both with LOUISIANA across the chest, worn with red or white pants. The helmet in the first four games was red with white center stripes and the Ragin' Cajuns logo, and a white helmet came out for Homecoming on October 3.
+A red home jersey and a white road jersey, both with LOUISIANA across the chest, worn with red or white pants. The helmet in the first four games was red with white center stripes and the Ragin' Cajuns logo, and a white helmet came out for Homecoming on October 3 and again at Louisiana Tech on October 10.
 
 **Who makes Louisiana's uniforms?**
 
