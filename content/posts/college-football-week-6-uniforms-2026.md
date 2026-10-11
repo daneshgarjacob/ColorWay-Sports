@@ -226,8 +226,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 ### Saturday, October 10: Night Window
 
 **[San Diego State](/stories/san-diego-state-uniform-schedule-2026) at [Oregon State](/stories/oregon-state-uniform-schedule-2026)**, 6 p.m., USA Network.
-- San Diego State: **Expected**, white.
-- Oregon State: **Expected**, black, which would make this the sharpest black against white pairing of the night.
+- San Diego State: **Confirmed**, scarlet helmet, white jersey, white pants. Oregon State 66, San Diego State 14.
+- Oregon State: **Confirmed**, all orange: orange helmet, orange jersey, orange pants. Black was expected; the Beavers went orange instead.
 
 **No. 10 LSU at Kentucky**, 7 p.m., ESPN.
 - [LSU](/stories/lsu-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants.
