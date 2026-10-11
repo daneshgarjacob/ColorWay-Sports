@@ -275,8 +275,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 
 ### Also Late
 
-- **[Hawaii](/stories/hawaii-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 9:30 p.m., FS1. Arizona State **Expected** in maroon; a non-conference home night is a live spot for another helmet after last week's maroon chrome Maroon Monsoon. Hawaii **Expected** in white.
-- **[Kansas](/stories/kansas-uniform-schedule-2026) at No. 12 [Utah](/stories/utah-uniform-schedule-2026)**, 10:15 p.m., ESPN. Utah **Expected** in red, with the game promotion still listed as To Be Announced. Kansas **Expected** in white.
+- **[Hawaii](/stories/hawaii-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 10:30 p.m., FS1. Arizona State **Expected** in maroon; a non-conference home night is a live spot for another helmet after last week's maroon chrome Maroon Monsoon. Hawaii **Expected** in white.
+- **[Kansas](/stories/kansas-uniform-schedule-2026) at No. 12 [Utah](/stories/utah-uniform-schedule-2026)**, 8 p.m., ESPNEWS. Utah **Expected** in red, with the game promotion still listed as To Be Announced. Kansas **Expected** in white.
 - **No. 23 [Boise State](/stories/boise-state-uniform-schedule-2026) at [Fresno State](/stories/fresno-state-uniform-schedule-2026)**, 10:30 p.m., The CW. Boise State **Expected** in white. Fresno State **Expected** in red, though a late kickoff against Boise is the best chance on its schedule for the black set.
 
 ## The Bottom Line
