@@ -3,7 +3,7 @@ title: "Penn State Uniform Schedule 2026: Every Jersey and When the Nittany Lion
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-10"
 excerpt: "What Penn State wears every game in 2026: the plain white helmet, no names on the jerseys, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #041E42 0%, #14336b 55%, #ffffff 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ The no-names rule is the part people ask about. Penn State leaves the back of th
   <div style="background: #041E42; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Buffalo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #041E42; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 2 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #041E42; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #041E42; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #041E42; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
@@ -54,7 +54,7 @@ The no-names rule is the part people ask about. Penn State leaves the back of th
 
 **October 2 at Northwestern**, Friday, 8 p.m. ET on FOX. White expected. It is the opening game at the new Ryan Field, and Northwestern has confirmed the purple helmet, purple jersey and white pants, so the all white road set makes for a clean purple against white look. See our [Northwestern 2026 uniform schedule](/stories/northwestern-uniform-schedule-2026).
 
-**October 10 vs. USC.** Navy expected. USC in Beaver Stadium. A candidate for a White Out, which is a crowd instruction rather than a uniform change: the team still wears navy.
+**October 10 vs. USC.** ★ Confirmed from the game photos: **white helmet, navy jersey, white pants**, the home set. It was the 2026 White Out, which is a crowd instruction rather than a uniform change: the fans wore white and the team still wore navy. USC wore a cardinal helmet, white jersey and gold pants. It was 17-17 at halftime, and USC won 31-23. Penn State is 3-3. See our [USC 2026 uniform schedule](/stories/usc-uniform-schedule-2026).
 
 **October 17 at Michigan.** White expected. At Michigan. Two blank-canvas wardrobes in one game.
 
@@ -78,7 +78,7 @@ Nothing here will surprise you, and Penn State would take that as a compliment. 
 
 **What jersey is Penn State wearing this week?**
 
-Penn State wore the white helmet, navy jersey and white pants against Wisconsin on Saturday, September 26, confirmed from the game photos, in a 24-20 loss. Penn State wears navy at home and white on the road in 2026, and the September 19 home game against Buffalo was the same plain home set in a 55-13 win. Next is Northwestern on the road on Friday, October 2, where white is expected against Northwestern's confirmed purple helmet, purple jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Penn State wore the white helmet, navy jersey and white pants against USC at the White Out on Saturday, October 10, confirmed from the game photos, in a 31-23 loss that dropped the Nittany Lions to 3-3. Penn State wears navy at home and white on the road in 2026. Next is Michigan on the road on October 17, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Penn State's uniforms for 2026?**
 
@@ -94,7 +94,7 @@ Helmet numbers are a Penn State throwback. The Nittany Lions wore them in the la
 
 **Why does Penn State wear blue during the White Out?**
 
-The White Out is a crowd instruction, not a uniform change. Fans at Beaver Stadium dress in white and the team still wears its navy home jersey, which is why Penn State is in blue in a sea of white. The October 10 game against USC is a candidate for a 2026 White Out.
+The White Out is a crowd instruction, not a uniform change. Fans at Beaver Stadium dress in white and the team still wears its navy home jersey, which is why Penn State is in blue in a sea of white. The October 10 game against USC was the 2026 White Out, and Penn State wore its navy home set.
 
 **How many games does Penn State play in 2026?**
 

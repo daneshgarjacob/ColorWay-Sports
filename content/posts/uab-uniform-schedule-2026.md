@@ -3,7 +3,7 @@ title: "UAB Uniform Schedule 2026: Every Jersey and When the Blazers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What UAB wears every game in 2026: the gold and green helmets, green and white jerseys, gold pants and the week-by-week Blazers uniform schedule."
 gradient: "linear-gradient(135deg, #1A5632 0%, #0e3a20 55%, #C8B568 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["uab-blazers", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-UAB has worn five different combinations in five games, and the one rule we can see so far is that the Blazers do not mind wearing white at home. This is the full UAB 2026 uniform schedule: the green and white jerseys, the metallic gold and green helmets, every game played so far, including the all green look in the 33-14 win over Samford on October 3, and the expected look for the rest of the season. We update this page as each combination is confirmed.
+UAB has worn five different combinations in six games, and the one rule we can see so far is that the Blazers do not mind wearing white at home. This is the full UAB 2026 uniform schedule: the green and white jerseys, the metallic gold and green helmets, every game played so far, including the all green look in the 33-14 win over Samford on October 3, and the expected look for the rest of the season. We update this page as each combination is confirmed.
 
 ## The UAB 2026 Uniform Sets
 
@@ -36,7 +36,7 @@ The surprise is the white at home. UAB wore the green jersey for the home opener
   <div style="background: #ffffff; color: #1A5632; border: 2px solid #1A5632; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / Green</div></div>
   <div style="background: #ffffff; color: #1A5632; border: 2px solid #C8B568; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #1A5632; color: #ffffff; border: 2px solid #C8B568; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Samford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Green</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #1A5632; border: 2px solid #C8B568; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #1A5632; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 15 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green or White (Homecoming)</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -62,7 +62,7 @@ The surprise is the white at home. UAB wore the green jersey for the home opener
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Smile-A-Mile jersey name announcement, via @UAB_FB</p>
 
-**October 10 at Memphis.** White expected. Simmons Bank Liberty Stadium, with the kickoff time and network (ESPN2 or ESPNU) to be set after the October 3 games. Our [Memphis 2026 uniform schedule](/stories/memphis-uniform-schedule-2026) has the Tigers.
+**October 10 at Memphis.** ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**, the same set UAB wore against Navy on September 25. White was expected. Memphis wore all blue: blue helmet, blue jersey and blue pants. UAB led 13-10 at halftime at Simmons Bank Liberty Stadium on ESPN2, but Memphis scored the last 28 points and won 38-13. UAB is 3-3. Our [Memphis 2026 uniform schedule](/stories/memphis-uniform-schedule-2026) has the Tigers.
 
 **October 15 vs. East Carolina.** Green or white expected. Homecoming on a Thursday night, 7:30 p.m. Eastern on ESPN or ESPN2. The home date most likely to bring something extra if UAB has it planned. See our [East Carolina 2026 uniform schedule](/stories/east-carolina-uniform-schedule-2026).
 
@@ -90,7 +90,7 @@ Five games into 2026, UAB has worn green and white jerseys, gold and green helme
 
 **What jersey is UAB wearing this week?**
 
-UAB wore all green, green helmet, green jersey and green pants, against Samford on Saturday, October 3, confirmed from the broadcast, for Family Weekend and the fourth annual Smile-A-Mile game, and won 33-14 to move to 3-2. Next is Memphis on the road on October 10, where white is expected.
+UAB wore the gold helmet, white jersey and gold pants at Memphis on Saturday, October 10, confirmed from the broadcast, in a 38-13 loss that dropped the Blazers to 3-3. The week before, UAB wore all green against Samford for Family Weekend and the fourth annual Smile-A-Mile game. Next is East Carolina at home for Homecoming on Thursday, October 15, where green or white is expected.
 
 **What are UAB's football uniforms for 2026?**
 

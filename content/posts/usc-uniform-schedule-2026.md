@@ -3,7 +3,7 @@ title: "USC Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What USC wears every game in 2026, starting with the Week 0 opener: the cardinal home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #6d0000 55%, #FFC72C 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ USC's uniform is a two-item wardrobe and has been for decades. The gold pants st
   <div style="background: #f1f3f8; color: #333; border: 2px solid #990000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / Gold</div></div>
   <div style="background: #990000; color: #ffffff; border: 2px solid #FFC72C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / Gold</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / Gold</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #990000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / Gold</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
@@ -57,7 +57,7 @@ USC's uniform is a two-item wardrobe and has been for decades. The gold pants st
 
 **October 3 vs. Washington.** ★ Confirmed from the game photos: **cardinal helmet, cardinal jersey, gold pants**, the standard Coliseum look. Washington wore the gold helmet, white jersey and white pants it had announced, per the [Washington Huskies 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026). USC trailed by double digits in the second half, then scored the last 15 points, and Jahkeem Stewart returned a fumble 48 yards for the go-ahead touchdown. USC won 25-21, its first win over Washington since 2016, to move to 5-1.
 
-**October 10 at Penn State.** White expected.
+**October 10 at Penn State.** ★ Confirmed from the game photos: **cardinal helmet, white jersey, gold pants**, the road set, as expected. It was the 2026 White Out at Beaver Stadium, with the crowd in white. Penn State wore the white helmet, navy jersey and white pants, its home set. It was 17-17 at halftime, and USC won 31-23 to move to 6-1. See our [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026).
 
 **October 17.** Bye.
 
@@ -81,7 +81,7 @@ Cardinal at home, white on the road, gold pants always. USC has one of the three
 
 **What jersey is USC wearing this week?**
 
-USC wore cardinal at home against Washington on Saturday, October 3: cardinal helmet, cardinal jersey and gold pants, confirmed from the game photos, in a 25-21 win. Next up is Penn State on the road on October 10, where white is expected. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game from October 3 is in our [College Football Week 5 Uniforms 2026](/stories/college-football-week-5-uniforms-2026) guide.
+USC wore white at Penn State on Saturday, October 10: cardinal helmet, white jersey and gold pants, confirmed from the game photos, in a 31-23 win at the White Out that moved the Trojans to 6-1. USC has a bye on October 17, and next up is Wisconsin on the road on October 24, where white is expected. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game from October 3 is in our [College Football Week 5 Uniforms 2026](/stories/college-football-week-5-uniforms-2026) guide.
 
 **What are USC's uniforms for 2026?**
 

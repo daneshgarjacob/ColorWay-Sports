@@ -246,7 +246,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Marshall: **Confirmed**, white helmet with the green M, green jersey, white pants, for the We Are Herd Strong cancer awareness game.
 
 **No. 2 Georgia at No. 6 Alabama**, 7:30 p.m., ABC.
-- [Georgia](/stories/georgia-uniform-schedule-2026): **Confirmed**, red helmet, white jersey, silver pants.
+- [Georgia](/stories/georgia-uniform-schedule-2026): **Confirmed**, red helmet, white jersey, silver pants. Georgia 20, Alabama 17.
 - [Alabama](/stories/alabama-uniform-schedule-2026): **Confirmed**, crimson helmet, crimson jersey, white pants. See above.
 
 **No. 19 USC at Penn State**, 7:30 p.m., NBC.
@@ -254,7 +254,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - [Penn State](/stories/penn-state-uniform-schedule-2026): **Confirmed**, white helmet, navy jersey, white pants, for the White Out. See above.
 
 **[Syracuse](/stories/syracuse-uniform-schedule-2026) at [Virginia](/stories/virginia-uniform-schedule-2026)**, 7:30 p.m., ACC Network.
-- Syracuse: **Confirmed**, orange helmet, white jersey, orange pants.
+- Syracuse: **Confirmed**, orange helmet, white jersey, orange pants. Virginia 28, Syracuse 25.
 - Virginia: **Confirmed**, white helmet, navy jersey, white pants, so the orange stayed on the Syracuse side.
 
 **[Air Force](/stories/air-force-uniform-schedule-2026) at Northern Illinois**, 7:30 p.m., CBSSN.

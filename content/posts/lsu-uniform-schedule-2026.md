@@ -3,7 +3,7 @@ title: "LSU Uniform Schedule 2026: Why the Tigers Wear White at Home, and Every 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-07"
+updatedDate: "2026-10-10"
 excerpt: "What LSU wears every game in 2026, including the home white tradition that flips every visiting team into color, week by week."
 gradient: "linear-gradient(135deg, #461D7C 0%, #2d1250 55%, #FDD023 130%)"
 cardStyle: words
@@ -36,7 +36,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
   <div style="background: #461D7C; color: #ffffff; border: 2px solid #FDD023; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Home White / Gold</div></div>
   <div style="background: #461D7C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs McNeese</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Purple / Gold</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #461D7C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Home White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -56,7 +56,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 **October 3 vs. McNeese.** ★ Confirmed from the broadcast: **gold helmet, purple jersey, gold pants**. We had Home White down, so this is a correction: LSU went to purple at Tiger Stadium against the FCS Cowboys. McNeese wore a white helmet, white jersey and white pants. Sam Leavitt threw three touchdown passes, Harlem Berry ran for 125 yards, and LSU piled up 731 yards and a school-record 101 plays in a 63-14 win. The Tigers are 4-1.
 
-**October 10 at Kentucky.** White expected. Kentucky will be in its **Power K throwback**, unveiled October 7: a white helmet with a triple stripe, a blue CATS jersey and white pants, the Wildcats' look from 1975 to 1991. See the [Kentucky 2026 uniform schedule](/stories/kentucky-uniform-schedule-2026).
+**October 10 at Kentucky.** ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**, the road white we expected. Kentucky wore its **Power K throwback**, unveiled October 7: the white helmet with the triple stripe and the Power K, a blue jersey and white pants, the Wildcats' look from 1975 to 1991. Kentucky won 35-34 in overtime after LSU scored a touchdown and extra point in the extra period and the Wildcats answered with a touchdown and a two-point conversion. The Tigers are 4-2. See the [Kentucky 2026 uniform schedule](/stories/kentucky-uniform-schedule-2026).
 
 **October 17 vs. Mississippi State.** Home White expected.
 
@@ -82,7 +82,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is LSU wearing this week?**
 
-LSU wore purple against McNeese on Saturday, October 3: gold helmet, purple jersey and gold pants, confirmed from the broadcast, in a 63-14 win that moved the Tigers to 4-1. Next up is a trip to Kentucky on October 10, where white is expected with Kentucky in its Power K throwback. LSU wears white at home and, because its SEC hosts wear color, white on most road trips too. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+LSU wore white at Kentucky on Saturday, October 10: gold helmet, white jersey and gold pants, confirmed from the broadcast, against Kentucky in its Power K throwback. LSU lost 35-34 in overtime and is 4-2. Next up is Mississippi State at Tiger Stadium on October 17, where the home white is expected. LSU wears white at home and, because its SEC hosts wear color, white on most road trips too. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are LSU's uniforms for 2026?**
 
