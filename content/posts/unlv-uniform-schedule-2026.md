@@ -3,7 +3,7 @@ title: "UNLV Uniform Schedule 2026: Every Jersey and When the Rebels Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-07"
+updatedDate: "2026-10-10"
 excerpt: "UNLV uniform schedule 2026: the red home jersey, white road set, silver and red helmets, and every Rebels game with the jersey worn or expected."
 gradient: "linear-gradient(135deg, #CF0A2C 0%, #a3081f 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -69,7 +69,7 @@ UNLV announces every combination a couple of days before kickoff in a post the p
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @unlvfootball</p>
 
-**October 10 vs. North Dakota State.** ★ Helmet confirmed by UNLV: **the 1976 Bicentennial throwback helmet.** For Homecoming, UNLV [announced a one-game helmet](https://unlvrebels.com/news/2026/8/31/football-patriotic-helmet-design-unveiled-for-oct-10-homecoming-game.aspx) from its 1976 season: a white shell with a red facemask and a red UNLV REBELS decal in a mid-1970s font, flanked by the Minute Man statue from Concord, Massachusetts. UNLV wore that helmet only in 1976, while the country celebrated its Bicentennial, and it comes back to mark 50 years since that team and the country's 250th birthday. It is the first time this season the Rebels have used a third helmet. The jersey and pants have not been announced yet, and red is still expected at home, so look for the threads post a couple of days before kickoff. It is also Breast Cancer Awareness Day, at 4 p.m. Pacific on The CW. Every Week 6 game is in our [college football Week 6 uniform guide](/stories/college-football-week-6-uniforms-2026).
+**October 10 vs. North Dakota State.** ★ Helmet confirmed by UNLV: **the 1976 Bicentennial throwback helmet.** For Homecoming, UNLV [announced a one-game helmet](https://unlvrebels.com/news/2026/8/31/football-patriotic-helmet-design-unveiled-for-oct-10-homecoming-game.aspx) from its 1976 season: a white shell with a red facemask and a red UNLV REBELS decal in a mid-1970s font, flanked by the Minute Man statue from Concord, Massachusetts. UNLV wore that helmet only in 1976, while the country celebrated its Bicentennial, and it comes back to mark 50 years since that team and the country's 250th birthday. It is the first time this season the Rebels have used a third helmet. UNLV beat North Dakota State 13-7 at Allegiant Stadium on The CW. We have not yet seen a clear game photo, so the helmet, jersey and pants actually worn are still unconfirmed; we will update this as soon as we do. Every Week 6 game is in our [college football Week 6 uniform guide](/stories/college-football-week-6-uniforms-2026).
 
 **October 17 at Air Force.** White expected. 12:30 p.m. Pacific at Falcon Stadium on CBS Sports Network, with the Falcons expected in blue on our [Air Force 2026 uniform schedule](/stories/air-force-uniform-schedule-2026).
 

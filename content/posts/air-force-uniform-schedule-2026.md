@@ -3,7 +3,7 @@ title: "Air Force Uniform Schedule 2026: Every Jersey and When the Falcons Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Air Force wears every game in 2026: the blue home set, the Freedom 250 opener, the B-21 Raider uniform against Navy, and both trophy games."
 gradient: "linear-gradient(135deg, #003087 0%, #0b47a8 55%, #8A8D8F 130%)"
 cardStyle: words
@@ -88,7 +88,7 @@ One structural note before the grid. The 2026 slate gave Air Force seven home ga
 
 **October 3 vs. Navy.** Our full breakdown and grade is in [Air Force's B-21 Raider uniform](/stories/air-force-b21-raider-uniform-2026). **B-21 Raider.** The Air Power Legacy Series uniform debuts here, at 10 a.m. Mountain on CBS, in the first leg of the Commander-in-Chief's Trophy. Navy is the visitor and wears white, which sets up a matte black service academy uniform against the plainest white set in the sport. Navy has its own reasons to be interesting this fall, and the [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026) has the Midshipmen's side of it, including the [1926 centennial throwback](/stories/navy-1926-centennial-uniform-2026) they are saving for Notre Dame. ★ Confirmed from the broadcast: **matte black helmet, black jersey, black pants**, the B-21 Raider set head to toe. Navy wore the gold helmet, white jersey and white pants. Air Force won the first leg of the Commander-in-Chief's Trophy 14-9 to move to 3-1.
 
-**October 10 at Northern Illinois.** White expected. The cross-country Mountain West trip to DeKalb, Illinois.
+**October 10 at Northern Illinois.** White expected. The cross-country Mountain West trip to DeKalb, Illinois. Air Force won 28-7 to move to 4-1. We have not yet seen a clear game photo, so the look is still unconfirmed.
 
 **October 17 vs. UNLV.** Blue expected. More: [UNLV uniform schedule](/stories/unlv-uniform-schedule-2026).
 
