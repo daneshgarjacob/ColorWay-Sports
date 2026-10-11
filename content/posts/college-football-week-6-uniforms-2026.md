@@ -275,9 +275,9 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 
 ### Also Late
 
-- **[Hawaii](/stories/hawaii-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 10:30 p.m., FS1. Arizona State **Expected** in maroon; a non-conference home night is a live spot for another helmet after last week's maroon chrome Maroon Monsoon. Hawaii **Expected** in white.
+- **[Hawaii](/stories/hawaii-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 10:30 p.m., FS1. Arizona State **Expected** in maroon; a non-conference home night is a live spot for another helmet after last week's maroon chrome Maroon Monsoon. Hawaii **Expected** in white. Arizona State 30, Hawaii 12. We have not yet seen game photos to confirm either side.
 - **[Kansas](/stories/kansas-uniform-schedule-2026) at No. 12 [Utah](/stories/utah-uniform-schedule-2026)**, 8 p.m., ESPNEWS. Utah **Confirmed** all white at home: white helmet, white jersey, white pants, not the red that was expected. Kansas **Confirmed** in a black jersey and black pants. Utah 41, Kansas 24.
-- **No. 23 [Boise State](/stories/boise-state-uniform-schedule-2026) at [Fresno State](/stories/fresno-state-uniform-schedule-2026)**, 10:30 p.m., The CW. Boise State **Expected** in white. Fresno State **Expected** in red, though a late kickoff against Boise is the best chance on its schedule for the black set.
+- **No. 23 [Boise State](/stories/boise-state-uniform-schedule-2026) at [Fresno State](/stories/fresno-state-uniform-schedule-2026)**, 10:30 p.m., The CW. Boise State **Expected** in white. Fresno State **Expected** in red, though a late kickoff against Boise is the best chance on its schedule for the black set. Boise State 38, Fresno State 31. We have not yet seen game photos to confirm either side.
 
 ## The Bottom Line
 
