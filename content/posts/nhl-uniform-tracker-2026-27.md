@@ -26,9 +26,37 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
 
 ## Saturday, October 10
 
-Saturday is a 14-game night, and the first 8 are final and confirmed from game photos. The other 6 go up here as they finish. Two alternates so far. The Oilers brought back the tan Oil Country alternate in San Jose, its first appearance of 2026-27, and beat the Sharks 3-1. The Sabres opened their Black and Red Goathead schedule at home against Utah, the first of 10 nights for it this season, but the Mammoth spoiled it 4-1. Tan and blue against Sharks teal is our favorite matchup of the night so far. Everyone else wore the usual dark at home and white on the road.
+Saturday is a 14-game night, and 12 are final and confirmed from game photos. Ducks at Flames and Kings at Golden Knights go up here when they finish. Three alternates came out, all for the first time this season. The Oilers wore the tan Oil Country alternate in San Jose and beat the Sharks 3-1. The Sabres opened their Black and Red Goathead schedule at home against Utah, the first of 10 nights for it, but the Mammoth won 4-1. The Penguins went gold at home for the first time in 2026-27 and beat Dallas in a shootout. Tan and blue against Sharks teal is one of our two favorites of the night. The other is one of the most classic matchups in hockey: Red Wings white at Canadiens red, settled 1-0 in a shootout. Everyone else wore the usual dark at home and white on the road.
 
 <!-- nhl-day:2026-10-10:start -->
+
+### Tampa Bay Lightning at New York Islanders
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Lightning 5, Islanders 3</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/lightning-road.jpg" alt="Tampa Bay Lightning Road White sweater worn October 10 2026 against the Islanders, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">LIGHTNING</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/islanders-home.jpg" alt="New York Islanders Home Royal Blue sweater worn October 10 2026 against the Lightning, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">ISLANDERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #00539B; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Royal Blue</p>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">B</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
+</div>
+</div>
 
 ### Utah Mammoth at Buffalo Sabres
 
@@ -52,6 +80,90 @@ Saturday is a 14-game night, and the first 8 are final and confirmed from game p
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">SABRES</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #111111; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Black and Red Goathead</p>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">B+</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
+</div>
+</div>
+
+### Detroit Red Wings at Montreal Canadiens
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final/SO &middot; Canadiens 1, Red Wings 0</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/red-wings-road.jpg" alt="Detroit Red Wings Road White sweater worn October 10 2026 against the Canadiens, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RED WINGS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/canadiens-home.jpg" alt="Montreal Canadiens Home Red sweater worn October 10 2026 against the Red Wings, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CANADIENS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #AF1E2D; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Red</p>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">A-</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
+</div>
+</div>
+
+### Nashville Predators at Ottawa Senators
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final/SO &middot; Senators 3, Predators 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/predators-road.jpg" alt="Nashville Predators Road White sweater worn October 10 2026 against the Senators, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">PREDATORS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/senators-home.jpg" alt="Ottawa Senators Home Black sweater worn October 10 2026 against the Predators, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">SENATORS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #111111; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Black</p>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">B</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
+</div>
+</div>
+
+### Dallas Stars at Pittsburgh Penguins
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final/SO &middot; Penguins 2, Stars 1</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/stars-road.jpg" alt="Dallas Stars Road White sweater worn October 10 2026 against the Penguins, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">STARS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/penguins-gold.jpg" alt="Pittsburgh Penguins Gold Third sweater worn October 10 2026 against the Stars, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">PENGUINS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #FCB514; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Gold Third</p>
     </div>
   </div>
   <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">B+</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
