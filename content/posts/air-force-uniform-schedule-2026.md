@@ -112,7 +112,7 @@ Air Force runs the most disciplined base uniform in college football and then sp
 
 **What is Air Force wearing this week?**
 
-White is expected. Air Force plays at Northern Illinois on Saturday, October 10, the cross-country Mountain West trip to DeKalb. Last week the Falcons beat Navy 14-9 on October 3 in the B-21 Raider uniform, matte black helmet, black jersey and black pants, confirmed from the broadcast. They are 3-1.
+Air Force wore the white helmet with the blue stripe, a white jersey and blue pants at Northern Illinois on Saturday, October 10, confirmed from the game photos, and won 28-7 to move to 4-1. The week before, the Falcons beat Navy 14-9 in the B-21 Raider uniform. Next up is UNLV at home on October 17, where blue is expected.
 
 **What are Air Force's football uniforms for 2026?**
 
