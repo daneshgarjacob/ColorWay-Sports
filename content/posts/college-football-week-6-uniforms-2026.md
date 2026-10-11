@@ -21,7 +21,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 2 Georgia at No. 6 Alabama
 
-**Saturday, 7:30 p.m., ABC.** The biggest game of the weekend, in Tuscaloosa in prime time. **Alabama: Expected in crimson**, the crimson helmet, crimson jersey and white pants Alabama wears at Bryant-Denny Stadium every week. Alabama almost never strays from it at home, so this is about as close to a lock as an Expected gets. **Georgia: Expected in white**, the red helmet, white jersey and silver britches of the road set. Georgia did break out an all white alternate with the first white helmet in program history this season, but that was billed as a one-game look against Western Kentucky on September 12. Crimson against white with red trim is the classic look for this series. More: [Alabama schedule](/stories/alabama-uniform-schedule-2026) and [Georgia schedule](/stories/georgia-uniform-schedule-2026).
+**Saturday, 7:30 p.m., ABC.** The biggest game of the weekend, in Tuscaloosa in prime time. **Alabama: Confirmed in crimson**, the crimson helmet, crimson jersey and white pants Alabama wears at Bryant-Denny Stadium every week. Alabama almost never strays from it at home, so this is about as close to a lock as an Expected gets. **Georgia: Confirmed in white**, the red helmet, white jersey and silver britches of the road set. Both are confirmed from the ABC broadcast. Georgia did break out an all white alternate with the first white helmet in program history this season, but that was billed as a one-game look against Western Kentucky on September 12. Crimson against white with red trim is the classic look for this series. More: [Alabama schedule](/stories/alabama-uniform-schedule-2026) and [Georgia schedule](/stories/georgia-uniform-schedule-2026).
 
 ### No. 1 Texas vs. Oklahoma: Red River at the Cotton Bowl
 
@@ -246,8 +246,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Marshall: **Confirmed**, white helmet with the green M, green jersey, white pants, for the We Are Herd Strong cancer awareness game.
 
 **No. 2 Georgia at No. 6 Alabama**, 7:30 p.m., ABC.
-- [Georgia](/stories/georgia-uniform-schedule-2026): **Expected**, white.
-- [Alabama](/stories/alabama-uniform-schedule-2026): **Expected**, crimson. See above.
+- [Georgia](/stories/georgia-uniform-schedule-2026): **Confirmed**, red helmet, white jersey, silver pants.
+- [Alabama](/stories/alabama-uniform-schedule-2026): **Confirmed**, crimson helmet, crimson jersey, white pants. See above.
 
 **No. 19 USC at Penn State**, 7:30 p.m., NBC.
 - [USC](/stories/usc-uniform-schedule-2026): **Expected**, white.
@@ -276,7 +276,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 ### Also Late
 
 - **[Hawaii](/stories/hawaii-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 10:30 p.m., FS1. Arizona State **Expected** in maroon; a non-conference home night is a live spot for another helmet after last week's maroon chrome Maroon Monsoon. Hawaii **Expected** in white.
-- **[Kansas](/stories/kansas-uniform-schedule-2026) at No. 12 [Utah](/stories/utah-uniform-schedule-2026)**, 8 p.m., ESPNEWS. Utah **Expected** in red, with the game promotion still listed as To Be Announced. Kansas **Expected** in white.
+- **[Kansas](/stories/kansas-uniform-schedule-2026) at No. 12 [Utah](/stories/utah-uniform-schedule-2026)**, 8 p.m., ESPNEWS. Utah **Confirmed** all white at home: white helmet, white jersey, white pants, not the red that was expected. Kansas **Confirmed** in a black jersey and black pants.
 - **No. 23 [Boise State](/stories/boise-state-uniform-schedule-2026) at [Fresno State](/stories/fresno-state-uniform-schedule-2026)**, 10:30 p.m., The CW. Boise State **Expected** in white. Fresno State **Expected** in red, though a late kickoff against Boise is the best chance on its schedule for the black set.
 
 ## The Bottom Line
