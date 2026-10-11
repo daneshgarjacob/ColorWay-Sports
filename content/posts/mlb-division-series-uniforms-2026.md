@@ -88,7 +88,7 @@ Tampa Bay is back in the postseason for the first time since 2023, and back at T
 - Game 2, Mon. Oct. 5: White Sox Black Alternate at Guardians Red Alternate · Grade: **A-** · White Sox 4, Guardians 3
 - Game 3, Wed. Oct. 7: Guardians Road Gray at White Sox Black Alternate · Grade: **B** · Guardians 9, White Sox 3
 - Game 4, Thu. Oct. 8: Guardians Road Gray at White Sox Home White Pinstripes · Grade: **C+** · Guardians 9, White Sox 5 (series tied 2-2)
-- Game 5, Sat. Oct. 10, 8:00 p.m. ET: White Sox Black Alternate at Guardians Red Alternate · Grade: **A-** (same matchup as Game 2) · Final to follow
+- Game 5, Sat. Oct. 10, 8:00 p.m. ET: White Sox Black Alternate at Guardians Red Alternate · Grade: **A-** (same matchup as Game 2) · Guardians 2, White Sox 0 (Guardians win series 3-2)
 
 ## What Are the Brewers Wearing in the NLDS?
 

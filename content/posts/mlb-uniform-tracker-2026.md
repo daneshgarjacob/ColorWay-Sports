@@ -27,14 +27,14 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Saturday, October 10
 
-ALDS Game 5 at Progressive Field, winner to the ALCS against the Rays, with the series tied 2-2. Both teams went back to the Game 2 look: the White Sox in the black "Sox" alternate over road gray pants with the black cap, and the Guardians in the red alternate with white pants and the navy-crowned, red-billed "C" cap. It is the exact matchup from Game 2, so it gets the same grade, an **A-**. Black against red is the loudest pairing of the series, and it is the right look for a winner-take-all night in Cleveland. Final score to follow. For every round's uniforms, see our [MLB postseason uniform guide](/stories/mlb-division-series-uniforms-2026).
+ALDS Game 5 at Progressive Field, winner to the ALCS against the Rays, with the series tied 2-2. Both teams went back to the Game 2 look: the White Sox in the black "Sox" alternate over road gray pants with the black cap, and the Guardians in the red alternate with white pants and the navy-crowned, red-billed "C" cap. It is the exact matchup from Game 2, so it gets the same grade, an **A-**. Black against red is the loudest pairing of the series, and it is the right look for a winner-take-all night in Cleveland. Cleveland won it 2-0 to take the series 3-2 and moves on to the ALCS against the Rays. For every round's uniforms, see our [MLB postseason uniform guide](/stories/mlb-division-series-uniforms-2026).
 
 ### Chicago White Sox at Cleveland Guardians
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
   <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final</span>
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Guardians 2, White Sox 0</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
