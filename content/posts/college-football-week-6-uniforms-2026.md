@@ -239,7 +239,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 
 **North Dakota State at [UNLV](/stories/unlv-uniform-schedule-2026)**, 7 p.m., The CW, at Allegiant Stadium.
 - UNLV: **Confirmed helmet**, the 1976 Bicentennial throwback for Homecoming: white shell, red facemask, a red UNLV REBELS decal in a 1970s font and the Minute Man statue. The jersey and pants are not announced; UNLV usually posts its full combination a couple of days before kickoff. It is also Breast Cancer Awareness Day.
-- North Dakota State: TBA, announced game week.
+- North Dakota State: not yet confirmed from game photos. UNLV 13, North Dakota State 7.
 
 **[Coastal Carolina](/stories/coastal-carolina-uniform-schedule-2026) at [Marshall](/stories/marshall-uniform-schedule-2026)**, 7 p.m., ESPN+.
 - Coastal Carolina: **Confirmed**, black helmet, white jersey, black pants. Coastal Carolina 27, Marshall 21.
@@ -258,7 +258,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Virginia: **Confirmed**, white helmet, navy jersey, white pants, so the orange stayed on the Syracuse side.
 
 **[Air Force](/stories/air-force-uniform-schedule-2026) at Northern Illinois**, 7:30 p.m., CBSSN.
-- Air Force: **Expected**, white, a week after the B-21 Raider win over Navy.
+- Air Force: **Expected**, white, a week after the B-21 Raider win over Navy. We have not yet seen game photos to confirm either side. Air Force 28, Northern Illinois 7.
 - Northern Illinois: TBA, announced game week.
 
 **[James Madison](/stories/james-madison-uniform-schedule-2026) at [Georgia Southern](/stories/georgia-southern-uniform-schedule-2026)**, 7:30 p.m., ESPNU.
