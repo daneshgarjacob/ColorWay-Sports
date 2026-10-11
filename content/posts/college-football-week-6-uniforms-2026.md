@@ -192,8 +192,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Cal: **Confirmed**, gold helmet, blue jersey, gold pants, for Homecoming.
 
 **[Illinois](/stories/illinois-uniform-schedule-2026) at [Michigan State](/stories/michigan-state-uniform-schedule-2026)**, 3:30 p.m., FS1.
-- Illinois: **Expected**, white, a week after going all orange for the Orange Out.
-- Michigan State: **Expected**, green, for Homecoming, the home date we are watching most closely for a special helmet.
+- Illinois: **Confirmed**, orange helmet, white jersey, orange pants, a week after going all orange for the Orange Out. Illinois 38, Michigan State 37 in overtime.
+- Michigan State: **Confirmed**, green helmet, green jersey, white pants, for Homecoming. No special helmet appeared.
 
 **Charlotte at [North Texas](/stories/north-texas-uniform-schedule-2026)**, 3:30 p.m., ESPN+.
 - North Texas: **Confirmed**, all green: green helmet, green jersey, green pants, for Jammin' at DATCU. North Texas 50, Charlotte 10.
