@@ -53,7 +53,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 19 USC at Penn State: The White Out
 
-**Saturday, 7:30 p.m., NBC.** Penn State made USC its 2026 White Out game in August, the 19th full-stadium edition and the first of the Matt Campbell era. The White Out is a crowd instruction: fans wear white, and the team stays in its home look. **Penn State: Expected in navy**, the white helmet and navy jersey of the home set, in its first adidas season. **USC: Expected in white**, the road set under the cardinal helmet. It is USC's first White Out and the first meeting between these teams at Beaver Stadium since 1994. More: [Penn State schedule](/stories/penn-state-uniform-schedule-2026) and [USC schedule](/stories/usc-uniform-schedule-2026).
+**Saturday, 7:30 p.m., NBC.** Penn State made USC its 2026 White Out game in August, the 19th full-stadium edition and the first of the Matt Campbell era. The White Out is a crowd instruction: fans wear white, and the team stays in its home look. **Penn State: Confirmed in navy**, the white helmet, navy jersey and white pants of the home set, in its first adidas season. **USC: Confirmed in white**, the cardinal helmet, white jersey and gold pants of the road set. Both are confirmed from the game photos. It is USC's first White Out and the first meeting between these teams at Beaver Stadium since 1994. More: [Penn State schedule](/stories/penn-state-uniform-schedule-2026) and [USC schedule](/stories/usc-uniform-schedule-2026).
 
 ### No. 10 LSU at Kentucky: The Power K Is Back
 
@@ -250,8 +250,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - [Alabama](/stories/alabama-uniform-schedule-2026): **Confirmed**, crimson helmet, crimson jersey, white pants. See above.
 
 **No. 19 USC at Penn State**, 7:30 p.m., NBC.
-- [USC](/stories/usc-uniform-schedule-2026): **Expected**, white.
-- [Penn State](/stories/penn-state-uniform-schedule-2026): **Expected**, navy, for the White Out. See above.
+- [USC](/stories/usc-uniform-schedule-2026): **Confirmed**, cardinal helmet, white jersey, gold pants.
+- [Penn State](/stories/penn-state-uniform-schedule-2026): **Confirmed**, white helmet, navy jersey, white pants, for the White Out. See above.
 
 **[Syracuse](/stories/syracuse-uniform-schedule-2026) at [Virginia](/stories/virginia-uniform-schedule-2026)**, 7:30 p.m., ACC Network.
 - Syracuse: **Confirmed**, orange helmet, white jersey, orange pants.
