@@ -238,8 +238,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Memphis: **Confirmed**, all blue: blue helmet, blue jersey, blue pants.
 
 **North Dakota State at [UNLV](/stories/unlv-uniform-schedule-2026)**, 7 p.m., The CW, at Allegiant Stadium.
-- UNLV: **Confirmed helmet**, the 1976 Bicentennial throwback for Homecoming: white shell, red facemask, a red UNLV REBELS decal in a 1970s font and the Minute Man statue. The jersey and pants are not announced; UNLV usually posts its full combination a couple of days before kickoff. It is also Breast Cancer Awareness Day.
-- North Dakota State: not yet confirmed from game photos. UNLV 13, North Dakota State 7.
+- UNLV: **Confirmed**, red jersey and red pants under a white helmet with a red facemask, from UNLV's game photos. That matches the announced 1976 Bicentennial throwback helmet, though the side decal was not visible in the photo we saw. It was Homecoming and Breast Cancer Awareness Day.
+- North Dakota State: **Confirmed**, green helmet, white jersey, green pants. UNLV 13, North Dakota State 7.
 
 **[Coastal Carolina](/stories/coastal-carolina-uniform-schedule-2026) at [Marshall](/stories/marshall-uniform-schedule-2026)**, 7 p.m., ESPN+.
 - Coastal Carolina: **Confirmed**, black helmet, white jersey, black pants. Coastal Carolina 27, Marshall 21.
@@ -281,7 +281,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 
 ## The Bottom Line
 
-Every special look we had circled and could check made it onto the field as announced; UNLV's 1976 Minute Man helmet is still waiting on a game photo. Oregon debuted Origin of Speed, Notre Dame wore the full Irish Wear Green set, Florida wore the Spurrier retro helmet, Kentucky wore the Power K throwback, Arizona took the Sandstorm set on the road and West Virginia went all black for Coal Rush. The scoreboard was another story: Oklahoma beat No. 1 Texas 27-24, UCLA won 17-15 in Oregon's debut game, South Carolina won 38-19 in Gainesville, Georgia won 20-17 in Tuscaloosa and Kentucky beat LSU 35-34 in overtime. The real surprises were the uniforms nobody announced: Oklahoma State in a black jersey for Stripe the Stadium, Georgia Tech and Utah in white at home, Duke all black on the road, and Oregon State in all orange. The best looking matchup of the day was UCLA in gold and white against the near-black Origin of Speed, which we graded A+. A few late games and smaller programs are still being confirmed, and we flip each one on this page as the game photos come in.
+Every special look we had circled and could check made it onto the field as announced; UNLV's white 1976 helmet showed up in the game photos, though we could not see the Minute Man decal itself. Oregon debuted Origin of Speed, Notre Dame wore the full Irish Wear Green set, Florida wore the Spurrier retro helmet, Kentucky wore the Power K throwback, Arizona took the Sandstorm set on the road and West Virginia went all black for Coal Rush. The scoreboard was another story: Oklahoma beat No. 1 Texas 27-24, UCLA won 17-15 in Oregon's debut game, South Carolina won 38-19 in Gainesville, Georgia won 20-17 in Tuscaloosa and Kentucky beat LSU 35-34 in overtime. The real surprises were the uniforms nobody announced: Oklahoma State in a black jersey for Stripe the Stadium, Georgia Tech and Utah in white at home, Duke all black on the road, and Oregon State in all orange. The best looking matchup of the day was UCLA in gold and white against the near-black Origin of Speed, which we graded A+. A few late games and smaller programs are still being confirmed, and we flip each one on this page as the game photos come in.
 
 ## Frequently Asked Questions
 
