@@ -262,16 +262,16 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Northern Illinois: TBA, announced game week.
 
 **[James Madison](/stories/james-madison-uniform-schedule-2026) at [Georgia Southern](/stories/georgia-southern-uniform-schedule-2026)**, 7:30 p.m., ESPNU.
-- James Madison: **Expected**, white.
-- Georgia Southern: **Expected**, navy, for Family Weekend and Tackling for a Cure.
+- James Madison: **Confirmed**, gold helmet, white jersey, purple pants.
+- Georgia Southern: **Confirmed**, navy helmet, navy jersey, white pants, for Family Weekend and Tackling for a Cure.
 
 **[Louisiana](/stories/louisiana-uniform-schedule-2026) at Louisiana Tech**, 7:30 p.m., ESPN+.
-- Louisiana: **Expected**, white.
+- Louisiana: **Confirmed**, all white: white helmet, white jersey, white pants.
 - Louisiana Tech: TBA, announced game week.
 
 **[Minnesota](/stories/minnesota-gophers-uniform-schedule-2026) at [Purdue](/stories/purdue-uniform-schedule-2026)**, 8 p.m., BTN.
 - Minnesota: **Expected**, white, a week after taking the Little Brown Jug.
-- Purdue: **Expected**, black, for the Hammer Down Cancer game.
+- Purdue: **Confirmed**, gold helmet, black jersey, gold pants, for the Hammer Down Cancer game.
 
 ### Also Late
 
