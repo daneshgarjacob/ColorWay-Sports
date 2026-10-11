@@ -266,7 +266,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Georgia Southern: **Confirmed**, navy helmet, navy jersey, white pants, for Family Weekend and Tackling for a Cure.
 
 **[Louisiana](/stories/louisiana-uniform-schedule-2026) at Louisiana Tech**, 7:30 p.m., ESPN+.
-- Louisiana: **Confirmed**, all white: white helmet, white jersey, white pants.
+- Louisiana: **Confirmed**, all white: white helmet, white jersey, white pants. Louisiana Tech 32, Louisiana 31.
 - Louisiana Tech: TBA, announced game week.
 
 **[Minnesota](/stories/minnesota-gophers-uniform-schedule-2026) at [Purdue](/stories/purdue-uniform-schedule-2026)**, 8 p.m., BTN.
