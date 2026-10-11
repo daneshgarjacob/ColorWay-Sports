@@ -242,7 +242,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - North Dakota State: TBA, announced game week.
 
 **[Coastal Carolina](/stories/coastal-carolina-uniform-schedule-2026) at [Marshall](/stories/marshall-uniform-schedule-2026)**, 7 p.m., ESPN+.
-- Coastal Carolina: **Confirmed**, black helmet, white jersey, black pants.
+- Coastal Carolina: **Confirmed**, black helmet, white jersey, black pants. Coastal Carolina 27, Marshall 21.
 - Marshall: **Confirmed**, white helmet with the green M, green jersey, white pants, for the We Are Herd Strong cancer awareness game.
 
 **No. 2 Georgia at No. 6 Alabama**, 7:30 p.m., ABC.
