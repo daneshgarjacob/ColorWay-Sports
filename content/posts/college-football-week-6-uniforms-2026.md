@@ -262,7 +262,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Northern Illinois: TBA, announced game week.
 
 **[James Madison](/stories/james-madison-uniform-schedule-2026) at [Georgia Southern](/stories/georgia-southern-uniform-schedule-2026)**, 7:30 p.m., ESPNU.
-- James Madison: **Confirmed**, gold helmet, white jersey, purple pants.
+- James Madison: **Confirmed**, gold helmet, white jersey, purple pants. James Madison 27, Georgia Southern 24.
 - Georgia Southern: **Confirmed**, navy helmet, navy jersey, white pants, for Family Weekend and Tackling for a Cure.
 
 **[Louisiana](/stories/louisiana-uniform-schedule-2026) at Louisiana Tech**, 7:30 p.m., ESPN+.
@@ -276,7 +276,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 ### Also Late
 
 - **[Hawaii](/stories/hawaii-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 10:30 p.m., FS1. Arizona State **Expected** in maroon; a non-conference home night is a live spot for another helmet after last week's maroon chrome Maroon Monsoon. Hawaii **Expected** in white.
-- **[Kansas](/stories/kansas-uniform-schedule-2026) at No. 12 [Utah](/stories/utah-uniform-schedule-2026)**, 8 p.m., ESPNEWS. Utah **Confirmed** all white at home: white helmet, white jersey, white pants, not the red that was expected. Kansas **Confirmed** in a black jersey and black pants.
+- **[Kansas](/stories/kansas-uniform-schedule-2026) at No. 12 [Utah](/stories/utah-uniform-schedule-2026)**, 8 p.m., ESPNEWS. Utah **Confirmed** all white at home: white helmet, white jersey, white pants, not the red that was expected. Kansas **Confirmed** in a black jersey and black pants. Utah 41, Kansas 24.
 - **No. 23 [Boise State](/stories/boise-state-uniform-schedule-2026) at [Fresno State](/stories/fresno-state-uniform-schedule-2026)**, 10:30 p.m., The CW. Boise State **Expected** in white. Fresno State **Expected** in red, though a late kickoff against Boise is the best chance on its schedule for the black set.
 
 ## The Bottom Line
