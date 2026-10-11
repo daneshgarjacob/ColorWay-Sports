@@ -2,7 +2,7 @@
 title: "Milwaukee Brewers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-11"
 excerpt: "The Milwaukee Brewers run five uniforms in 2026 — the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the 'Wisco' City Connect. Here's every jersey, when they wear it, and why the road grays are gone."
 gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-uniform-schedule-2026/cover.jpg"
@@ -15,7 +15,7 @@ teams:
   - milwaukee-brewers
 ---
 
-<div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Brewers Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Saturday, October 10, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #5a6472; line-height: 1.1;">NO GAME TODAY</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Check back on the next Brewers game</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Brewers are off.</div><a href="/mlb-tracker/brewers" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
+<div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Brewers Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Sunday, October 11, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #14284b; line-height: 1.1;">Home Uniform</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; we confirm it the morning after</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Los Angeles Dodgers at Brewers &middot; 8:00 PM ET</div><div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">At home the exact jersey follows the rotation in the table below, which is set by the day of the week and whether it is a day or night game.</div><a href="/mlb-tracker/brewers" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
 The Milwaukee Brewers carry five uniforms in 2026, and the closet looks different than it did a year ago. The traditional road grays are gone — retired in favor of a brand-new powder blue road set that revives the franchise's 1970s look — and the team rolled out a second City Connect, the ["Wisco" kit](/stories/brewers-wisco-city-connect-2026), to go with it. The rotation runs more on feel than a published timetable, but there are a couple of reliable anchors once you know them. Here's the full Brewers wardrobe for 2026 and when each jersey actually comes out.
 
@@ -26,11 +26,13 @@ The Milwaukee Brewers carry five uniforms in 2026, and the closet looks differen
   <a href="/mlb-tracker/brewers" style="display: inline-block; padding: 8px 16px; background: #ffffff; color: #12284B; border-radius: 999px; font-size: 0.82em; font-weight: 800; text-decoration: none; letter-spacing: 0.03em;">Open the Brewers uniform calendar →</a>
 </div>
 
-## 2026 Postseason: Brewers in the NLDS
+## 2026 Postseason: Brewers in the NLCS
 
-The Brewers (103-59) won the NL Central with the best record in baseball and the No. 1 seed in the National League, so they have a bye through the Wild Card Series. The NLDS starts **Saturday, October 3 at American Family Field** against the Padres-Cubs winner. Game 2 is Sunday, October 4 at 3:00 p.m. CT, Games 3 and 4 are on the road October 6 and 7, and a Game 5, if needed, is back in Milwaukee on Friday, October 9. The series airs on FOX and FS1.
+The Brewers beat the Padres 3-1 in the NLDS and host the Dodgers in the National League Championship Series, a best of seven. Game 1 is **Sunday, October 11 at 7:00 p.m. CT (8:00 p.m. ET) at American Family Field on FOX**, and Game 2 is Monday, October 12 at 4:00 p.m. CT. Games 3 and 4 are at Dodger Stadium on Wednesday, October 14 and Thursday, October 15, with Game 5, if needed, there on Friday, October 16. Games 6 and 7, if needed, are back in Milwaukee on October 18 and 19.
 
-The Brewers wore the cream in all five home games of the 2025 postseason. The new twist is the road: with the grays retired, Games 3 and 4 should be the first playoff games in the powder blue. For every matchup and what each team is wearing, see our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026), and we log every game on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
+**What we expect them to wear.** At home, the cream. The Brewers wore it for NLDS Games 1 and 2 against San Diego and for all five home games of the 2025 postseason, including NLCS Games 1 and 2 against these same Dodgers. On the road, the navy alternate, which they wore for both NLDS games at Petco Park, so the powder blue road set is still waiting on its first playoff game. These are expectations, not confirmed calls: we confirm each game's jerseys at first pitch on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
+
+Every NLDS game, with our grades, is on our [ALDS and NLDS uniforms guide](/stories/mlb-division-series-uniforms-2026), and the whole October picture is in our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026). [Dodgers uniform schedule](/stories/dodgers-uniform-schedule-2026)
 
 ## Sample Home-and-Road Week at a Glance
 

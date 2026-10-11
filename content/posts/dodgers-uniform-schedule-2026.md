@@ -2,7 +2,7 @@
 title: "Dodgers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: "MLB"
 date: "2026-05-25"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-11"
 excerpt: "The Dodgers have four uniforms in active rotation for 2026. Home whites, road grays, the new royal blue road alternate, and the City Connect. We break down the full Dodgers uniform schedule and when each jersey hits the field."
 gradient: "linear-gradient(135deg, #005A9C 0%, #FFFFFF 50%, #005A9C 100%)"
 coverImage: "/images/posts/dodgers-uniform-schedule-2026/cover.jpg"
@@ -13,7 +13,7 @@ league: "mlb"
 teams: ["los-angeles-dodgers"]
 ---
 
-<div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Dodgers Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Saturday, October 10, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #5a6472; line-height: 1.1;">NO GAME TODAY</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Check back on the next Dodgers game</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Dodgers are off.</div><a href="/mlb-tracker/dodgers" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
+<div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Dodgers Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Sunday, October 11, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #14284b; line-height: 1.1;">Road Grays</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; we confirm it the morning after</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Dodgers at Milwaukee Brewers &middot; 8:00 PM ET</div><div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">Road games are the gray road set every time, regardless of the day.</div><a href="/mlb-tracker/dodgers" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
 <img src="/images/posts/dodgers-blue-road-jersey-in-game-2026/dodgers-blue-road-in-game.jpg" alt="Los Angeles Dodgers royal blue road alternate jersey worn in-game during the 2026 MLB season, paired with the home whites and the cream City of Dreamers City Connect uniform" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Dodgers</p>
@@ -29,11 +29,13 @@ The Los Angeles Dodgers run one of the cleanest uniform rotations in baseball fo
 
 This page is the plan. For the receipts, our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026) logs what the Dodgers and all 29 other clubs actually wore in every game, updated every morning, and our [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) maps the same thing across the whole league.
 
-## 2026 Postseason: Dodgers in the NLDS
+## 2026 Postseason: Dodgers in the NLCS
 
-The Dodgers (100-62) won the NL West and the No. 2 seed in the National League, so they have a bye through the Wild Card Series. The NLDS starts **Saturday, October 3 at Dodger Stadium** against the Braves-Phillies winner, a series that goes to Game 3 on Thursday. Game 2 is Sunday, October 4 at 5:00 p.m. PT on FS1, Games 3 and 4 are on the road October 6 and 7, and a Game 5, if needed, is back at Dodger Stadium on Friday, October 9.
+The Dodgers beat the Braves 3-1 in the NLDS and now face the Brewers in the National League Championship Series, a best of seven that opens in Milwaukee because the Brewers had the better record. Game 1 is **Sunday, October 11 at 5:00 p.m. PT (8:00 p.m. ET) at American Family Field on FOX**, and Game 2 is Monday, October 12 at 2:00 p.m. PT. The series moves to Dodger Stadium for Game 3 on Wednesday, October 14 at 5:00 p.m. PT and Game 4 on Thursday, October 15 at 6:00 p.m. PT, with Game 5, if needed, there on Friday, October 16. Games 6 and 7, if needed, are back in Milwaukee on October 18 and 19.
 
-Expect the classics. MLB's game uniform records show the Dodgers in home whites for every home playoff game in 2024 and 2025, and in the gray with the "Dodgers" script for all but one road playoff game. Every playoff team also wears the 2026 postseason patch on the side of its cap. For every matchup and what each team is wearing, see our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026), and we log every game on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
+**What we expect them to wear.** In Milwaukee, the road gray with the "Dodgers" script, the same look they wore for NLDS Games 3 and 4 in Atlanta. At Dodger Stadium, home whites, which they wore for NLDS Games 1 and 2 and for every home playoff game in 2024 and 2025. None of the home games falls on a Saturday, so the cream City Connect is not in the picture. These are expectations, not confirmed calls: we confirm each game's jerseys at first pitch on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
+
+**How the NLDS looked.** Home whites for Games 1 and 2 at Dodger Stadium against the Braves in road gray and then the navy alternate, and the "Dodgers" road gray for Games 3 and 4 at Truist Park, against Atlanta's red alternate and then its home whites. Every game, with our grades, is on our [ALDS and NLDS uniforms guide](/stories/mlb-division-series-uniforms-2026), and the whole October picture is in our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026). [Brewers uniform schedule](/stories/brewers-uniform-schedule-2026)
 
 ## Sample Week at a Glance
 
