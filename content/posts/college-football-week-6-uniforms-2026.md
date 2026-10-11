@@ -234,8 +234,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - [Kentucky](/stories/kentucky-uniform-schedule-2026): **Confirmed**, the Power K throwback worn as unveiled, from the ESPN broadcast: white triple-stripe helmet with the Power K, blue jersey, white pants. See above.
 
 **UAB at [Memphis](/stories/memphis-uniform-schedule-2026)**, 7 p.m., ESPN2.
-- [UAB](/stories/uab-uniform-schedule-2026): **Expected**, white.
-- Memphis: **Expected**, blue.
+- [UAB](/stories/uab-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants.
+- Memphis: **Confirmed**, all blue: blue helmet, blue jersey, blue pants.
 
 **North Dakota State at [UNLV](/stories/unlv-uniform-schedule-2026)**, 7 p.m., The CW, at Allegiant Stadium.
 - UNLV: **Confirmed helmet**, the 1976 Bicentennial throwback for Homecoming: white shell, red facemask, a red UNLV REBELS decal in a 1970s font and the Minute Man statue. The jersey and pants are not announced; UNLV usually posts its full combination a couple of days before kickoff. It is also Breast Cancer Awareness Day.
@@ -254,8 +254,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - [Penn State](/stories/penn-state-uniform-schedule-2026): **Expected**, navy, for the White Out. See above.
 
 **[Syracuse](/stories/syracuse-uniform-schedule-2026) at [Virginia](/stories/virginia-uniform-schedule-2026)**, 7:30 p.m., ACC Network.
-- Syracuse: **Expected**, white.
-- Virginia: **Expected**, orange or navy. Syracuse's white set carries the same orange Virginia wears at home, so this one is worth checking.
+- Syracuse: **Confirmed**, orange helmet, white jersey, orange pants.
+- Virginia: **Confirmed**, white helmet, navy jersey, white pants, so the orange stayed on the Syracuse side.
 
 **[Air Force](/stories/air-force-uniform-schedule-2026) at Northern Illinois**, 7:30 p.m., CBSSN.
 - Air Force: **Expected**, white, a week after the B-21 Raider win over Navy.
