@@ -234,7 +234,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - [Kentucky](/stories/kentucky-uniform-schedule-2026): **Confirmed**, the Power K throwback worn as unveiled, from the ESPN broadcast: white triple-stripe helmet with the Power K, blue jersey, white pants. See above.
 
 **UAB at [Memphis](/stories/memphis-uniform-schedule-2026)**, 7 p.m., ESPN2.
-- [UAB](/stories/uab-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants.
+- [UAB](/stories/uab-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants. Memphis 38, UAB 13.
 - Memphis: **Confirmed**, all blue: blue helmet, blue jersey, blue pants.
 
 **North Dakota State at [UNLV](/stories/unlv-uniform-schedule-2026)**, 7 p.m., The CW, at Allegiant Stadium.

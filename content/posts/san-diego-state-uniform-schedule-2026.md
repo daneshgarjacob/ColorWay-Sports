@@ -3,7 +3,7 @@ title: "San Diego State Uniform Schedule 2026: Every Jersey and When the Aztecs 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What San Diego State wears every game in 2026: the black home set, the white road set, the new Age of the Jaguar red alternate, and every date."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 50%, #A6192E 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
   <div style="background: #D22030; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Ocelotl / Red / Red</div><div style="font-size: 0.68em; font-weight: 700; opacity: 0.85; margin-top: 2px;">L 13-26</div></div>
   <div style="background: #ffffff; color: #A6192E; border: 2px solid #A6192E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Toledo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #A6192E; border: 2px solid #A6192E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -76,7 +76,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
 
 **October 3 vs. Texas State.** ★ Confirmed from the broadcast: **red helmet, black jersey, black pants** for the Pac-12 opener at Snapdragon Stadium. Texas State wore the white helmet, white jersey and maroon pants it announced. Jaylon Hawkins returned the second-half kickoff 96 yards for a touchdown, Cameron Cooper had a 32-yard pick-six, and the Aztecs won 31-29 while missing 13 players to a mumps outbreak. San Diego State is 2-3. Our [Texas State 2026 uniform schedule](/stories/texas-state-uniform-schedule-2026) has the Bobcats' side.
 
-**October 10 at Oregon State.** White expected. Oregon State has gone all black at home this season, which would make this the sharpest black-versus-white pairing on the schedule.
+**October 10 at Oregon State.** ★ Confirmed from the game photos: **scarlet helmet, white jersey, white pants**, the road white as expected, at Reser Stadium on USA Network. Oregon State had been expected in black and went all orange instead, orange helmet, orange jersey and orange pants. Oregon State led 38-7 at halftime and won 66-14, and San Diego State is 2-4. More: [Oregon State uniform schedule](/stories/oregon-state-uniform-schedule-2026).
 
 **October 17 vs. Fresno State.** Black expected. This is the Battle for the Old Oil Can, the trophy game San Diego State and Fresno State have contested since the trophy was unveiled in 2011 for a rivalry that dates to 1923. San Diego State shut out the Bulldogs 23-0 in Fresno last October and brought the can home, and the Aztecs host this time, so Fresno State should be in its white road set.
 
@@ -98,13 +98,13 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
 
 ## The Bottom Line
 
-Five games in, San Diego State has used three combinations and two helmets, and the first two of those were about as disciplined as a season start gets. Then the Aztecs went and built a third uniform out of a jaguar. The Age of the Jaguar red is the headline of this season and the first red over red the program has ever worn, and it landed in Week 3 against James Madison exactly as announced. Since then the pattern has settled, white at Toledo and black at home against Texas State, and it should hold: black at home, white on the road, with Halloween against Washington State as the date most likely to produce something else. The grid above has every game, and we add a star as each combination is confirmed.
+Through five games, San Diego State had used three combinations and two helmets, and the first two of those were about as disciplined as a season start gets. Then the Aztecs went and built a third uniform out of a jaguar. The Age of the Jaguar red is the headline of this season and the first red over red the program has ever worn, and it landed in Week 3 against James Madison exactly as announced. Since then the pattern has settled, white at Toledo, black at home against Texas State and white again under the scarlet helmet in a 66-14 loss at Oregon State, and it should hold: black at home, white on the road, with Halloween against Washington State as the date most likely to produce something else. The grid above has every game, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What is San Diego State wearing this week?**
 
-San Diego State wore the red helmet, black jersey and black pants against Texas State on Saturday, October 3, confirmed from the broadcast, and won the Pac-12 opener 31-29 to get to 2-3. The week before, the Aztecs wore the red helmet, white jersey and white pants in a 41-16 loss at Toledo. Next is a trip to Oregon State on October 10, where white is expected. The week-by-week grid above lists every game with the expected set.
+San Diego State wore the scarlet helmet, white jersey and white pants at Oregon State on Saturday, October 10, confirmed from the game photos, and lost 66-14 to fall to 2-4. The week before, the Aztecs wore the red helmet, black jersey and black pants in a 31-29 win over Texas State. Next is Fresno State at Snapdragon Stadium on October 17, the Battle for the Old Oil Can, where black is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are San Diego State's football uniforms for 2026?**
 

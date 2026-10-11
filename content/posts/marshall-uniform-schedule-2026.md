@@ -3,7 +3,7 @@ title: "Marshall Uniform Schedule 2026: Every Jersey and When the Thundering Her
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Marshall wears every game in 2026: the kelly green home jersey, the white road set, three helmet shells, the new chest patch, and the week-by-week schedule."
 gradient: "linear-gradient(135deg, #00B140 0%, #049c3c 55%, #111111 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["marshall-thundering-herd", "sun-belt"]
 resurfaceOnUpdate: true
 ---
 
-Marshall has three helmet shells, one of the best greens in college football, and a brand new logo on the chest. This is the full Marshall 2026 uniform schedule: the kelly green home jersey, the white road set, the green pants that traveled to Penn State, the Marshall Health Network patch that is now on every Herd jersey, and a week-by-week outlook for all twelve games. Five are already confirmed. We update this page as each combination is locked in.
+Marshall has three helmet shells, one of the best greens in college football, and a brand new logo on the chest. This is the full Marshall 2026 uniform schedule: the kelly green home jersey, the white road set, the green pants that traveled to Penn State, the Marshall Health Network patch that is now on every Herd jersey, and a week-by-week outlook for all twelve games. Six are already confirmed. We update this page as each combination is locked in.
 
 ## The Marshall 2026 Uniform Sets
 
@@ -32,7 +32,7 @@ The jerseys underneath it are the set Marshall unveiled in June of 2025, a clean
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/wchstv/status/1935420520075338176"></a></blockquote>
 </div>
 
-The real story is the helmets. From 2010 through 2021 Marshall wore white and nothing else. Black shells came into the rotation a few years ago, and in August of 2025 the program brought green helmets back for the first time since the 2009 bowl season, using the modern stylized M instead of the old block letter. That gives the equipment staff three shells to work with, and through five games in 2026 they have already used two of them.
+The real story is the helmets. From 2010 through 2021 Marshall wore white and nothing else. Black shells came into the rotation a few years ago, and in August of 2025 the program brought green helmets back for the first time since the 2009 bowl season, using the modern stylized M instead of the old block letter. That gives the equipment staff three shells to work with, and through six games in 2026 they have already used two of them.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HerdFB/status/1971248586446025173"></a></blockquote>
@@ -46,7 +46,7 @@ The real story is the helmets. From 2010 through 2021 Marshall wore white and no
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #00B140; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Gardner-Webb</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #00B140; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Coastal Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green (Herd Strong)</div></div>
+  <div style="background: #00B140; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Coastal Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / White</div></div>
   <div style="background: #00B140; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 20 (TUE)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Open</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -70,7 +70,7 @@ The real story is the helmets. From 2010 through 2021 Marshall wore white and no
 
 **October 3 at James Madison.** ★ Confirmed from the broadcast: **white helmet with the green M, white jersey, white pants**, all white for the Sun Belt opener on the road. James Madison wore the gold helmet, purple jersey and gold pants, per the [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026). Marshall led early, but the Dukes scored 28 straight in the second quarter, George Pettaway ran for 206 yards, and James Madison won 45-17. Marshall is 3-2.
 
-**October 10 vs. Coastal Carolina.** Green expected. This is the We Are Herd Strong game, Marshall's annual cancer awareness date, and fans are being asked to wear pink. Programs that run this theme often add a pink accent on the field, so the gloves, towels and captain patches are worth watching even if the jersey does not change. More: [Coastal Carolina uniform schedule](/stories/coastal-carolina-uniform-schedule-2026).
+**October 10 vs. Coastal Carolina.** ★ Confirmed from the broadcast: **white helmet with the green M, green jersey, white pants**, the classic home look for the We Are Herd Strong game, Marshall's annual cancer awareness date, 7 p.m. ET on ESPN+. Coastal Carolina wore a black helmet, white jersey and black pants. Coastal led 13-0 at halftime and 27-7 after three quarters, Marshall scored 14 in the fourth, and Coastal Carolina won 27-21. Marshall is 3-3. More: [Coastal Carolina uniform schedule](/stories/coastal-carolina-uniform-schedule-2026).
 
 **October 20 vs. South Alabama.** Green expected. A Tuesday night, 7:30 p.m., which in the Sun Belt means a national television window with nothing else on. Weeknight home games are the kind of slot where a program reaches for something different, and Marshall has a black helmet and black pants in the closet to do it with.
 
@@ -98,13 +98,13 @@ The 75 uniform is usually the most carefully designed thing Marshall does all ye
 
 ## The Bottom Line
 
-Marshall's uniform year is built around one date. Everything from September to early November is a two-color rotation that the home and road rules mostly decide for you, green at The Joan and white on the road, with the pants and the helmet shell as the only real variables. Then November 14 arrives, the black shells come out, and the program puts on the most meaningful uniform in college football. Five games in, the Herd has already used the green helmet and the white helmet, which leaves the black one waiting for the game it was made for. The grid above has every date, and we add the stars as each combination is confirmed.
+Marshall's uniform year is built around one date. Everything from September to early November is a two-color rotation that the home and road rules mostly decide for you, green at The Joan and white on the road, with the pants and the helmet shell as the only real variables. Then November 14 arrives, the black shells come out, and the program puts on the most meaningful uniform in college football. Six games in, the Herd has already used the green helmet and the white helmet, which leaves the black one waiting for the game it was made for. The grid above has every date, and we add the stars as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What is Marshall wearing this week?**
 
-Marshall wore the white helmet with the green M, white jersey and white pants at James Madison on Saturday, October 3, confirmed from the broadcast, and lost 45-17 to fall to 3-2. The week before, the Herd wore green over green for Homecoming and beat Gardner-Webb 36-35. Next is Coastal Carolina at home on October 10, the We Are Herd Strong game, where green is expected.
+Marshall wore the white helmet with the green M, green jersey and white pants against Coastal Carolina on Saturday, October 10, the We Are Herd Strong game, confirmed from the broadcast, and lost 27-21 to fall to 3-3. The week before, the Herd went all white in a 45-17 loss at James Madison. Next is South Alabama at home on Tuesday, October 20, where green is expected.
 
 **What are Marshall's football uniforms for 2026?**
 

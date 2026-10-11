@@ -3,7 +3,7 @@ title: "Oregon State Uniform Schedule 2026: Every Jersey and When the Beavers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-10"
 excerpt: "What Oregon State wears every game in 2026: the black home set, the all white road look, the orange alternate, and the full Beavers uniform schedule."
 gradient: "linear-gradient(135deg, #D73F09 0%, #b8350a 55%, #000000 130%)"
 cardStyle: words
@@ -13,14 +13,14 @@ teams: ["oregon-state-beavers", "pac-12"]
 resurfaceOnUpdate: true
 ---
 
-Oregon State spent two years as a football independent and comes back into a conference in 2026, and the uniforms came along for the ride. This is the full Oregon State 2026 uniform schedule: the black home set, the all white road look, the orange jersey sitting in the closet, the white helmet the Beavers wore through September, the orange helmet that debuted in the Pac-12 opener at Colorado State, and a week by week outlook for all twelve games in JaMarcus Shephard's first season. We update this page as each combination is confirmed.
+Oregon State spent two years as a football independent and comes back into a conference in 2026, and the uniforms came along for the ride. This is the full Oregon State 2026 uniform schedule: the black home set, the all white road look, the orange jersey that finally came out for an all orange look against San Diego State, the white helmet the Beavers wore through September, the orange helmet that debuted in the Pac-12 opener at Colorado State, and a week by week outlook for all twelve games in JaMarcus Shephard's first season. We update this page as each combination is confirmed.
 
 ## The Oregon State 2026 Uniform Sets
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: #111111; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Black Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Black jersey with BEAVS across the chest in orange, white numerals outlined in orange, an orange collar and a white sleeve stripe. Black pants with an orange and white stripe down the leg.</div></div>
   <div style="background: #ffffff; color: #1a1a1a; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with BEAVS in black, black numerals outlined in orange and orange shoulder trim. White pants with a beaver head on the hip. The default look away from Corvallis.</div></div>
-  <div style="background: #D73F09; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Orange Alternate</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Beaver Orange jersey and orange pants, part of the 2024 Nike redesign along with an orange helmet and a graphite set. It has not appeared yet in 2026.</div></div>
+  <div style="background: #D73F09; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Orange Alternate</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Beaver Orange jersey and orange pants, part of the 2024 Nike redesign along with an orange helmet and a graphite set. It came out on October 10 against San Diego State, worn with the orange helmet and orange pants.</div></div>
   <div style="background: #2b2b2b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Black, white and orange shells. The black shell carries the orange beaver head, the white shell has an orange script on the side and an orange center stripe, and both read OSU on the front bumper.</div></div>
 </div>
 
@@ -46,7 +46,7 @@ That leaves the broadcast as the source of truth, and through September the patt
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Montana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #D73F09; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTEP</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #D73F09; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #D73F09; color: #ffffff; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Orange</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -76,7 +76,7 @@ That leaves the broadcast as the source of truth, and through September the patt
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @BeaverFootball</p>
 
-**October 10 vs. San Diego State.** Black expected. First conference home game, 3 p.m. Pacific.
+**October 10 vs. San Diego State**, Reser Stadium, 3 p.m. Pacific (6 p.m. ET) on USA Network. ★ Confirmed from the game photos: **orange helmet, orange jersey, orange pants.** Black was expected for the first conference home game, and the Beavers went all orange instead. San Diego State wore a scarlet helmet, white jersey and white pants. Oregon State led 38-7 at halftime and won 66-14 to move to 4-2. More: [San Diego State uniform schedule](/stories/san-diego-state-uniform-schedule-2026).
 
 **October 17 vs. Washington State.** Black expected. The first Pac-12 meeting with the Cougars. Washington State is a mix and match program, so this is the best color clash on the home slate.
 
@@ -98,7 +98,7 @@ That leaves the broadcast as the source of truth, and through September the patt
 
 ## The Bottom Line
 
-Four confirmed games, four different uniforms. Oregon State went all white at Houston, all black at home against Texas Tech and white over black pants at UTEP, all under the white shell, before the orange helmet from the 2024 Nike redesign finally came out at Colorado State, with orange pants and the white jersey, in a 56-26 win. The helmet is the least predictable part of the whole thing and the detail to keep watching. The orange jersey and the black helmet are still sitting in the closet, and the Beavers have four home dates left plus a flex road trip to use them. The grid above has every game, and we fill in a star as each combination is confirmed.
+Five confirmed games, five different uniforms. Oregon State went all white at Houston, all black at home against Texas Tech and white over black pants at UTEP, all under the white shell, before the orange helmet from the 2024 Nike redesign finally came out at Colorado State, with orange pants and the white jersey, in a 56-26 win. A week later the orange jersey joined it for an all orange look in a 66-14 win over San Diego State, when black had been expected. The helmet is the least predictable part of the whole thing and the detail to keep watching. The black helmet is still sitting in the closet, and the Beavers have three home dates left plus a flex road trip to use it. The grid above has every game, and we fill in a star as each combination is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/2050266211338903593"></a></blockquote>
@@ -108,7 +108,7 @@ Four confirmed games, four different uniforms. Oregon State went all white at Ho
 
 **What jersey is Oregon State wearing this week?**
 
-Oregon State wore the orange helmet with the black Beaver logo, the white jersey and orange pants at Colorado State on Saturday, October 3, confirmed from the team's own game photos, and won the Pac-12 opener 56-26 to move to 3-2. The week before, the Beavers wore the white helmet, white jersey and black pants in a 33-7 win at UTEP. Next up is San Diego State at Reser Stadium on October 10, where black is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Oregon State went all orange, orange helmet, orange jersey and orange pants, against San Diego State at Reser Stadium on Saturday, October 10, confirmed from the game photos, and won 66-14 to move to 4-2. Black had been expected. The week before, the Beavers wore the orange helmet, white jersey and orange pants in a 56-26 win at Colorado State. Next up is Washington State at Reser Stadium on October 17, where black is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Oregon State's football uniforms for 2026?**
 
