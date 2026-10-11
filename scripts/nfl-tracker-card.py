@@ -23,6 +23,7 @@ NAMES = {  # bar hex -> colour word used in the combination line
     "#FF7900": "Orange", "#311D00": "Brown", "#0B162A": "Navy", "#4B92DB": "Light Blue", "#1D428A": "Royal", "#ACC0C6": "Silver Green",
     "#A5A9AD": "Gray", "#002C5F": "Blue", "#3B3F45": "Anthracite", "#869397": "Silver", "#0A1C33": "Midnight Navy",
     "#A71930": "Red", "#FFC20E": "Gold", "#EFE6D2": "Cream", "#D8C3A0": "Sand", "#97233F": "Cardinal",
+    "#2F3B2C": "Hunter Green", "#C60C30": "Red", "#A2AAAD": "Wolf Grey",
 }
 SHORT = lambda name: name.split()[-1].upper() if name not in ("Washington Commanders",) else "COMMANDERS"
 
