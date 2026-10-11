@@ -53,11 +53,11 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 19 USC at Penn State: The White Out
 
-**Saturday, 7:30 p.m., NBC.** Penn State made USC its 2026 White Out game in August, the 19th full-stadium edition and the first of the Matt Campbell era. The White Out is a crowd instruction: fans wear white, and the team stays in its home look. **Penn State: Confirmed in navy**, the white helmet, navy jersey and white pants of the home set, in its first adidas season. **USC: Confirmed in white**, the cardinal helmet, white jersey and gold pants of the road set. Both are confirmed from the game photos. It is USC's first White Out and the first meeting between these teams at Beaver Stadium since 1994. More: [Penn State schedule](/stories/penn-state-uniform-schedule-2026) and [USC schedule](/stories/usc-uniform-schedule-2026).
+**Saturday, 7:30 p.m., NBC.** Penn State made USC its 2026 White Out game in August, the 19th full-stadium edition and the first of the Matt Campbell era. The White Out is a crowd instruction: fans wear white, and the team stays in its home look. **Penn State: Confirmed in navy**, the white helmet, navy jersey and white pants of the home set, in its first adidas season. **USC: Confirmed in white**, the cardinal helmet, white jersey and gold pants of the road set. Both are confirmed from the game photos. USC won 31-23. It was USC's first White Out and the first meeting between these teams at Beaver Stadium since 1994. More: [Penn State schedule](/stories/penn-state-uniform-schedule-2026) and [USC schedule](/stories/usc-uniform-schedule-2026).
 
 ### No. 10 LSU at Kentucky: The Power K Is Back
 
-**Saturday, 7 p.m., ESPN.** **Kentucky: Confirmed, Power K throwback.** Kentucky unveiled it on Wednesday: a revival of the 1975 to 1991 look, with a white helmet carrying a triple stripe, the Power K on the sides and CATS above the facemask, a plain blue jersey with CATS on the shoulders and no KENTUCKY on the chest, and white pants with a Power K on the right hip. A week after the chrome helmet at South Carolina, this is the second straight game Kentucky has broken from the standard set. **LSU: Confirmed in white**, the gold helmet, white jersey and gold pants on the road. **Update:** Kentucky wore the Power K throwback as unveiled, confirmed from the ESPN broadcast: the white triple-stripe helmet with the Power K, a blue jersey and white pants.
+**Saturday, 7 p.m., ESPN.** **Kentucky: Confirmed, Power K throwback.** Kentucky unveiled it on Wednesday: a revival of the 1975 to 1991 look, with a white helmet carrying a triple stripe, the Power K on the sides and CATS above the facemask, a plain blue jersey with CATS on the shoulders and no KENTUCKY on the chest, and white pants with a Power K on the right hip. A week after the chrome helmet at South Carolina, this is the second straight game Kentucky has broken from the standard set. **LSU: Confirmed in white**, the gold helmet, white jersey and gold pants on the road. **Update:** Kentucky wore the Power K throwback as unveiled, confirmed from the ESPN broadcast: the white triple-stripe helmet with the Power K, a blue jersey and white pants. Kentucky won 35-34 in overtime on a two-point conversion.
 
 <img src="/images/posts/kentucky-uniform-schedule-2026/power-k-throwback-lsu-tunnel.jpg" alt="Kentucky Power K throwback uniform for the LSU game, Week 6 2026" style="width:100%;max-width:520px;display:block;margin:1em auto 0.3em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: Kentucky Football.</p>
@@ -230,7 +230,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Oregon State: **Confirmed**, all orange: orange helmet, orange jersey, orange pants. Black was expected; the Beavers went orange instead.
 
 **No. 10 LSU at Kentucky**, 7 p.m., ESPN.
-- [LSU](/stories/lsu-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants.
+- [LSU](/stories/lsu-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants. Kentucky 35, LSU 34 in overtime.
 - [Kentucky](/stories/kentucky-uniform-schedule-2026): **Confirmed**, the Power K throwback worn as unveiled, from the ESPN broadcast: white triple-stripe helmet with the Power K, blue jersey, white pants. See above.
 
 **UAB at [Memphis](/stories/memphis-uniform-schedule-2026)**, 7 p.m., ESPN2.
@@ -250,7 +250,7 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - [Alabama](/stories/alabama-uniform-schedule-2026): **Confirmed**, crimson helmet, crimson jersey, white pants. See above.
 
 **No. 19 USC at Penn State**, 7:30 p.m., NBC.
-- [USC](/stories/usc-uniform-schedule-2026): **Confirmed**, cardinal helmet, white jersey, gold pants.
+- [USC](/stories/usc-uniform-schedule-2026): **Confirmed**, cardinal helmet, white jersey, gold pants. USC 31, Penn State 23.
 - [Penn State](/stories/penn-state-uniform-schedule-2026): **Confirmed**, white helmet, navy jersey, white pants, for the White Out. See above.
 
 **[Syracuse](/stories/syracuse-uniform-schedule-2026) at [Virginia](/stories/virginia-uniform-schedule-2026)**, 7:30 p.m., ACC Network.
