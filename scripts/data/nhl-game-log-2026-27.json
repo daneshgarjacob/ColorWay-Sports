@@ -39,6 +39,10 @@
     "VAN Road White @ NJD Home Red": "B",
     "EDM Oil Country Tan @ SJS Home Teal": "A-",
     "MIN Road White @ FLA Home Red": "B",
+    "UTA Road White @ BUF Black and Red Goathead": "B+",
+    "CAR Road White @ CHI Home Red": "B+",
+    "CBJ Road White @ STL Home Blue": "B",
+    "TOR Road White @ COL Home Burgundy": "B",
     "EDM Road White @ ANA Home Orange": "B+",
     "COL Road White @ WPG Heritage Alternate": "B+",
     "BUF Road White @ CBJ Home Navy": "B-",
@@ -161,6 +165,10 @@
     "2026-10-10 VAN@NJD": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-10 EDM@SJS": { "confirmed": true, "source": "ESPN game photos (tan Oil Country alternate with blue Oilers script, first wear of 2026-27)", "away": { "call": "Oil Country Tan", "color": "#FF4C00", "swatch": "#E8DCC0", "image": "/images/posts/nhl-daily-tracker/oilers-tan.jpg", "note": "Oil Country Tan Alternate (Sept 2025 third) worn on the road" } },
     "2026-10-10 MIN@FLA": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-10 UTA@BUF": { "confirmed": true, "source": "ESPN game photos (black goathead crest, red/white/silver striping); Sabres 2026-27 alternate schedule (nhl.com/sabres, 9/23) lists this game", "home": { "call": "Black and Red Goathead", "color": "#C8102E", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/sabres-goathead.jpg" } },
+    "2026-10-10 CAR@CHI": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-10 CBJ@STL": { "confirmed": true, "source": "ESPN game photos" },
+    "2026-10-10 TOR@COL": { "confirmed": true, "source": "ESPN game photos" },
     "2026-10-17 NJD@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } },
     "2026-10-25 MTL@WPG": { "note": "Heritage Classic, sweaters revealed by both teams 10/7", "home": { "call": "Heritage Classic", "color": "#041E42" }, "away": { "call": "Heritage Classic", "color": "#AF1E2D" } },
     "2026-11-01 MIN@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } },
@@ -170,6 +178,15 @@
     "2027-01-22 NYI@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } },
     "2027-02-16 ANA@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } },
     "2027-03-26 BOS@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } },
-    "2027-04-03 CBJ@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } }
+    "2027-04-03 CBJ@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } },
+    "2026-11-08 VGK@BUF": { "note": "Sabres 2026-27 Black and Red schedule (nhl.com/sabres, 9/23)", "home": { "call": "Black and Red Goathead", "color": "#C8102E", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/sabres-goathead.jpg" } },
+    "2026-11-27 PIT@BUF": { "note": "Sabres 2026-27 Black and Red schedule (nhl.com/sabres, 9/23)", "home": { "call": "Black and Red Goathead", "color": "#C8102E", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/sabres-goathead.jpg" } },
+    "2026-12-26 NJD@BUF": { "note": "Sabres 2026-27 Black and Red schedule (nhl.com/sabres, 9/23)", "home": { "call": "Black and Red Goathead", "color": "#C8102E", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/sabres-goathead.jpg" } },
+    "2027-01-14 COL@BUF": { "note": "Sabres 2026-27 Black and Red schedule (nhl.com/sabres, 9/23)", "home": { "call": "Black and Red Goathead", "color": "#C8102E", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/sabres-goathead.jpg" } },
+    "2027-01-21 SEA@BUF": { "note": "Sabres 2026-27 Black and Red schedule (nhl.com/sabres, 9/23)", "home": { "call": "Black and Red Goathead", "color": "#C8102E", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/sabres-goathead.jpg" } },
+    "2027-02-18 CAR@BUF": { "note": "Sabres 2026-27 Black and Red schedule (nhl.com/sabres, 9/23)", "home": { "call": "Black and Red Goathead", "color": "#C8102E", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/sabres-goathead.jpg" } },
+    "2027-03-15 SJS@BUF": { "note": "Sabres 2026-27 Black and Red schedule (nhl.com/sabres, 9/23)", "home": { "call": "Black and Red Goathead", "color": "#C8102E", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/sabres-goathead.jpg" } },
+    "2027-03-25 TOR@BUF": { "note": "Sabres 2026-27 Black and Red schedule (nhl.com/sabres, 9/23)", "home": { "call": "Black and Red Goathead", "color": "#C8102E", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/sabres-goathead.jpg" } },
+    "2027-04-10 DET@BUF": { "note": "Sabres 2026-27 Black and Red schedule (nhl.com/sabres, 9/23)", "home": { "call": "Black and Red Goathead", "color": "#C8102E", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/sabres-goathead.jpg" } }
   }
 }
