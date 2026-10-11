@@ -258,8 +258,8 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Virginia: **Confirmed**, white helmet, navy jersey, white pants, so the orange stayed on the Syracuse side.
 
 **[Air Force](/stories/air-force-uniform-schedule-2026) at Northern Illinois**, 7:30 p.m., CBSSN.
-- Air Force: **Expected**, white, a week after the B-21 Raider win over Navy. We have not yet seen game photos to confirm either side. Air Force 28, Northern Illinois 7.
-- Northern Illinois: TBA, announced game week.
+- Air Force: **Confirmed**, white helmet with the blue stripe, white jersey, blue pants, a week after the B-21 Raider win over Navy. Air Force 28, Northern Illinois 7.
+- Northern Illinois: **Confirmed**, all black: black helmet, black jersey, black pants.
 
 **[James Madison](/stories/james-madison-uniform-schedule-2026) at [Georgia Southern](/stories/georgia-southern-uniform-schedule-2026)**, 7:30 p.m., ESPNU.
 - James Madison: **Confirmed**, gold helmet, white jersey, purple pants. James Madison 27, Georgia Southern 24.
