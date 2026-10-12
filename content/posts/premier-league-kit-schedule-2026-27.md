@@ -3,7 +3,7 @@ title: "Premier League Kit Schedule 2026/27: What Every Club Is Wearing This Mat
 author: "colorway-sports-staff"
 category: "Soccer"
 date: "2026-08-21"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-12"
 excerpt: "Every Premier League kit matchup, matchweek by matchweek. What jersey each club wears, who has to change, and the rule that decides every uniform three days before kickoff."
 gradient: "linear-gradient(135deg, #3D195B 0%, #1c0b2b 55%, #00FF87 130%)"
 coverImage: "/images/posts/premier-league-kit-schedule-2026-27/cover-branded-v2.jpg"
@@ -228,7 +228,7 @@ Manchester United's red carries the 1977 polo collar in the fiftieth year of tha
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/premier-league-kit-schedule-2026-27/sunderland-home.png" alt="Sunderland red and white striped home shirt colorway render, worn against Fulham on August 30 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/sunderland-home.png" alt="Sunderland 2026/27 hummel red and white striped home shirt with the white polo collar and 1937 shield crest, worn against Fulham on August 30 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">SUNDERLAND</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #d0021b; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, Red and White Stripes</p>
@@ -253,7 +253,7 @@ Manchester United's red carries the 1977 polo collar in the fiftieth year of tha
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
       <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="/images/posts/premier-league-kit-schedule-2026-27/leeds-home.png" alt="Leeds United white home shirt colorway render with blue and gold pinstripes, worn against Brentford on August 30 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+        <img src="/images/posts/premier-league-kit-schedule-2026-27/leeds-home.png" alt="Leeds United white home shirt with blue and gold pinstripes, worn against Brentford on August 30 2026" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
       </div>
       <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">LEEDS UNITED</p>
       <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home, Blue and Gold Pins</p>
@@ -295,7 +295,7 @@ Manchester United's red carries the 1977 polo collar in the fiftieth year of tha
 </div>
 </div>
 
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">United and Chelsea shirt photos via Soccer Wearhouse and Azteca Soccer, Ipswich via the club's official store. Brighton, Fulham, Brentford, Sunderland and Leeds shown as ColorWay colorway renders from each club's launch description.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">United and Chelsea shirt photos via Soccer Wearhouse and Azteca Soccer, Ipswich via the club's official store, Sunderland via Rebel Sport, Leeds via Soccer Wearhouse. Brighton, Fulham and Brentford shown as ColorWay colorway renders from each club's launch description.</p>
 
 Saturday's four are now played, and the day produced the first kit debut of the season: **Nottingham Forest wore the new light blue third shirt at Anfield the day after it went on sale**, and took a point off Liverpool's red in it. Hull City did the opposite of a debut, keeping the amber and black home stripes at Coventry because sky blue clashes with nothing they own. Everton finally gave the white pinstripe away shirt, the best shirt in their wardrobe, a league outing at Bournemouth, and Newcastle's Night Navy won 2-0 at a Tottenham side booed off in lilywhite. Verified from match photography, not preview graphics.
 
@@ -553,11 +553,11 @@ Palace brought the most interesting shirt of the weekend, and they did it withou
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/ipswich-home.png" alt="Ipswich Town 2026/27 blue home shirt, worn in the 2-1 win over Sunderland on the opening weekend" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">IPSWICH &middot; BLUE HOME</p></div>
     <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
-    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/sunderland-home.png" alt="Sunderland 2026/27 red and white striped home shirt with black trim, worn at Ipswich Town on the opening weekend" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">SUNDERLAND &middot; RED STRIPES HOME</p></div>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/sunderland-home.png" alt="Sunderland 2026/27 hummel red and white striped home shirt with the white polo collar and 1937 shield crest, worn at Ipswich Town on the opening weekend" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">SUNDERLAND &middot; RED STRIPES HOME</p></div>
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Ipswich 2, Sunderland 1</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Ipswich and Sunderland shown as ColorWay colorway renders, not photographs.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Sunderland shirt photo via Rebel Sport. Ipswich shown as a ColorWay colorway render, not a photograph.</p>
 
 This is what English football looked like for most of the last century, and there is a reason it keeps working. Plain blue against red and white stripes needs no ruling, no third kit and no conversation, and the stripes do all the visual work while Ipswich's block blue sits underneath them as a clean background. It is a comfortable, well-built matchup rather than a memorable one. Sunderland's stripes carry it, Ipswich's shirt is honest but plain, and nothing here surprises you. **B+.**
 
@@ -595,11 +595,16 @@ The contrast is fine. Red and white stripes against a dark navy separates cleanl
 
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 12px; padding: 20px 28px 22px; margin: 1.5em 0;">
   <div style="text-align: center; margin-bottom: 12px;"><span style="padding: 5px 14px; background: linear-gradient(90deg, #d69a00 0%, #e8e2d0 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px; display: inline-block;">Matchweek 1 &middot; Kit Matchup Grade B-</span></div>
-  <p style="color: #fff; font-size: 15px; font-weight: 900; text-align: center; margin: 0 0 4px;">HULL AMBER STRIPES HOME &middot; VS &middot; MAN UNITED IVORY THIRD</p>
-  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 10px 0 0; font-weight: 700;">Final &middot; Hull 2, Man United 0</p>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/hull-home.png" alt="Hull City 2026/27 amber and black striped home shirt colorway render, worn against Manchester United on August 22 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">HULL &middot; AMBER STRIPES HOME</p></div>
+    <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/manchester-united-third.png" alt="Manchester United 2026/27 adidas ivory third shirt with maroon collar and cuffs and the hand-drawn rose print, worn at Hull City on August 22 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">MAN UNITED &middot; IVORY THIRD</p></div>
+  </div>
+  <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Hull 2, Man United 0</p>
 </div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Manchester United shirt photo via Ultra Football. Hull shown as a ColorWay colorway render, not a photograph.</p>
 
-Hull did their part. Amber with black central and side stripes is one of the most distinctive home shirts in the country, it photographs beautifully, and a promoted club opening its Premier League return in it is exactly right. United are the problem. Ivory is a warm off-white, Hull's amber is a warm yellow, and putting the two beside each other flattens a matchup that should have been vivid. Their blue away kit would have separated better and there was no rule forcing them past it, which makes the third kit a marketing decision dressed up as a clash solution. Add three centralised badges to a shirt with no red anywhere on it and you have something that reads as a merchandise drop rather than a Manchester United kit. Great home shirt, avoidable away call. **B-.**
+Hull did their part. Amber with black central and side stripes is one of the most distinctive home shirts in the country, it photographs beautifully, and a promoted club opening its Premier League return in it is exactly right. United are the problem. Ivory is a warm off-white, Hull's amber is a warm yellow, and putting the two beside each other flattens a matchup that should have been vivid. Their blue away kit would have separated better and there was no rule forcing them past it, which makes the third kit a marketing decision dressed up as a clash solution. Add three centralised badges to a shirt whose only red is a dark maroon trim and you have something that reads as a merchandise drop rather than a Manchester United kit. Great home shirt, avoidable away call. **B-.**
 
 ### What Actually Happened on Friday and Saturday
 
