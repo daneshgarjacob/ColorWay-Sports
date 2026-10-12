@@ -2,7 +2,7 @@
 title: "Milwaukee Brewers Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-12"
 excerpt: "The Milwaukee Brewers run five uniforms in 2026 — the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the 'Wisco' City Connect. Here's every jersey, when they wear it, and why the road grays are gone."
 gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-uniform-schedule-2026/cover.jpg"
@@ -30,7 +30,7 @@ The Milwaukee Brewers carry five uniforms in 2026, and the closet looks differen
 
 The Brewers beat the Padres 3-1 in the NLDS and host the Dodgers in the National League Championship Series, a best of seven. Game 1 is **Sunday, October 11 at 7:00 p.m. CT (8:00 p.m. ET) at American Family Field on FOX**, and Game 2 is Monday, October 12 at 4:00 p.m. CT. Games 3 and 4 are at Dodger Stadium on Wednesday, October 14 and Thursday, October 15, with Game 5, if needed, there on Friday, October 16. Games 6 and 7, if needed, are back in Milwaukee on October 18 and 19.
 
-**Game 1, confirmed:** the home cream with the all-navy cap, against the Dodgers in the road gray with the "Dodgers" script. Our grade: **B**. The Brewers won Game 1, 2-1, to take a 1-0 series lead.
+**Game 1, confirmed:** the home cream with the all-navy cap, against the Dodgers in the road gray with the "Dodgers" script. Our grade: **B-**. The Brewers won Game 1, 2-1, to take a 1-0 series lead.
 
 **What we expect for the rest of the series.** At home, the cream. The Brewers wore it for NLDS Games 1 and 2 against San Diego and for all five home games of the 2025 postseason, including NLCS Games 1 and 2 against these same Dodgers. On the road, the navy alternate, which they wore for both NLDS games at Petco Park, so the powder blue road set is still waiting on its first playoff game. Those are expectations, not confirmed calls: we confirm each game's jerseys at first pitch on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 

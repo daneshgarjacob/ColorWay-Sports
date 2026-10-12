@@ -6,7 +6,7 @@ resurfaceOnUpdate: true
 newsletterTop: true
 category: MLB
 date: "2026-07-09"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-12"
 excerpt: "What every MLB team wore last night and what jersey your team is wearing tonight. Every uniform, alternate, and City Connect from the full slate, logged every morning."
 gradient: "linear-gradient(135deg, #002D72 0%, #101528 55%, #E81828 130%)"
 coverImage: "/images/posts/mlb-daily-tracker/cover-branded-v4.jpg"
@@ -27,7 +27,7 @@ Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule gu
 
 ## Sunday, October 11
 
-NLCS Game 1 at American Family Field, the first game of the National League Championship Series. The Dodgers are in the road gray with the "Dodgers" script and the all-blue "LA" cap, the same look they wore for both NLDS games in Atlanta, and the Brewers are in home cream with the all-navy cap, as they were for both NLDS home games against San Diego. Gray against cream is a classic October pairing, but two light uniforms sit close together on the field, so the Dodgers' royal blue script does most of the work. We grade it a **B**. The Brewers won it 2-1 to take a 1-0 lead in the series. For every round's uniforms, see our [MLB postseason uniform guide](/stories/mlb-division-series-uniforms-2026).
+NLCS Game 1 at American Family Field, the first game of the National League Championship Series. The Dodgers are in the road gray with the "Dodgers" script and the all-blue "LA" cap, the same look they wore for both NLDS games in Atlanta, and the Brewers are in home cream with the all-navy cap, as they were for both NLDS home games against San Diego. Gray against cream is a classic October pairing, but two light uniforms sit close together on the field, so the Dodgers' royal blue script does most of the work. We grade it a **B-**. The Brewers won it 2-1 to take a 1-0 lead in the series. For every round's uniforms, see our [MLB postseason uniform guide](/stories/mlb-division-series-uniforms-2026).
 
 ### Los Angeles Dodgers at Milwaukee Brewers
 

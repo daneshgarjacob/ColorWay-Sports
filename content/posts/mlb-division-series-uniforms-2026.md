@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-09-30"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-12"
 excerpt: "2026 ALDS and NLDS uniforms: Yankees at Rays, White Sox at Guardians, Padres at Brewers and Braves at Dodgers. Home and road sets, October history and every date."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
@@ -24,7 +24,7 @@ teams:
 
 What are the teams wearing in the Division Series? All four matchups are set: the **Yankees at the Rays** and the **White Sox at the Guardians** in the ALDS, and the **Padres at the Brewers** and the **Braves at the Dodgers** in the NLDS. Atlanta beat Philadelphia 6-2 in Game 3 on Thursday night to win its Wild Card Series 2-1. All four series open on **Saturday, October 3**, at the top seeds' parks. Below is every ALDS and NLDS date, each team's home and road set, what they wore in their most recent October home games, and what they have worn down the stretch in 2026. We log every game, both jerseys, the same night.
 
-**The Division Series is over. Follow the LCS on our new [ALCS and NLCS uniforms guide](/stories/mlb-championship-series-uniforms-2026).** The Dodgers beat the Braves 3-1 and the Brewers beat the Padres 3-1, and in NLCS Game 1 on Sunday, October 11, the Dodgers wore the road gray with the "Dodgers" script against the Brewers in the home cream (our grade: **B**). The Brewers won it 2-1. In the AL, the Rays swept the Yankees and the Guardians beat the White Sox 3-2, and ALCS Game 1 is **Guardians at Rays, Monday, October 12 at 8:00 p.m. ET at Tropicana Field on TBS**. Every LCS game, with expected and confirmed uniforms, is on the [MLB Championship Series uniforms guide](/stories/mlb-championship-series-uniforms-2026).
+**The Division Series is over. Follow the LCS on our new [ALCS and NLCS uniforms guide](/stories/mlb-championship-series-uniforms-2026).** The Dodgers beat the Braves 3-1 and the Brewers beat the Padres 3-1, and in NLCS Game 1 on Sunday, October 11, the Dodgers wore the road gray with the "Dodgers" script against the Brewers in the home cream (our grade: **B-**). The Brewers won it 2-1. In the AL, the Rays swept the Yankees and the Guardians beat the White Sox 3-2, and ALCS Game 1 is **Guardians at Rays, Monday, October 12 at 8:00 p.m. ET at Tropicana Field on TBS**. Every LCS game, with expected and confirmed uniforms, is on the [MLB Championship Series uniforms guide](/stories/mlb-championship-series-uniforms-2026).
 
 This page is the Division Series zoom. For the whole postseason, including the Wild Card results, who picks the jersey and whether City Connects are allowed in October, see our [2026 MLB postseason uniforms hub](/stories/mlb-postseason-uniforms-2026). Every game, both teams and both jerseys, goes on the [2026 MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 
