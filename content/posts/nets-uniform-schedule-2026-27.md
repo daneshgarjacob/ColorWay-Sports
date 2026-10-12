@@ -2,7 +2,7 @@
 title: "Nets Uniform Schedule 2026-27: Every Jersey for All 80 Games, Including 16 Classic Nights"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-09-28"
+updatedDate: "2026-10-12"
 excerpt: "The Nets set a jersey for all 80 games: 22 Association, 17 Statement, 16 Classic, 14 Icon, 11 City. Every date, home and road, counted."
 gradient: "linear-gradient(135deg, #000000 0%, #FFFFFF 100%)"
 cardStyle: words
@@ -16,6 +16,8 @@ teams: ["brooklyn-nets"]
 The Brooklyn Nets have already picked a jersey for every game of the 2026-27 season. It is not in a press release. It is on the team's own schedule page at nba.com/nets/schedule, where every one of the 80 regular season games carries a jersey tag, and we counted all of them as of September 28, 2026. Thanks to the reader who sent it in.
 
 The headline is the **Classic Edition**. Brooklyn has it booked for **16 games**, more than the Icon black (14), and it opens the season on October 21 against Charlotte. The City Edition does not show up until January 23.
+
+**Update, October 12:** The Nets released the Classic Edition uniform and a new Classic Court for the ABA-NBA 50th anniversary and 60 seasons of Nets basketball, along with a Classic Edition uniform schedule that matches the 16 dates already on the team's schedule page. We graded the jersey an **A-** and the court an **A+** in our [NBA Classic Edition jerseys and courts ranking](/stories/nba-classic-edition-jerseys-courts-2026-27).
 
 ## How Many Times the Nets Wear Each Jersey in 2026-27
 
@@ -43,8 +45,18 @@ A few things jump out of the count:
   <div style="background: #000000; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Icon Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The black primary set. 14 games, including the April 11 finale.</div></div>
   <div style="background: #FFFFFF; color: #14284b; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Statement Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The alternate. 17 games, most of February at home.</div></div>
   <div style="background: #101010; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">City Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The Biggie Coogi set returns. 11 games, starting January 23.</div></div>
-  <div style="background: #C8102E; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Classic Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The throwback. 16 games, every Eras Night, and Opening Night.</div></div>
+  <div style="background: #C8102E; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Classic Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White with the red Nets script and red, white and blue piping, for the ABA-NBA 50th. 16 games, every Eras Night, and Opening Night.</div></div>
 </div>
+
+## The Nets Classic Edition, Graded A- (Court A+)
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 10px; margin: 1.25em 0 0.4em;"><img src="/images/posts/nba-classic-edition-jerseys-courts-2026-27/nets-classic-edition-jersey.jpg" alt="Brooklyn Nets 2026-27 Classic Edition jersey: white with a red Nets script and red, white and blue piping" style="display: block; width: 100%; border-radius: 10px;" loading="lazy" decoding="async" /><img src="/images/posts/nba-classic-edition-jerseys-courts-2026-27/nets-classic-edition-uniform-schedule.jpg" alt="Brooklyn Nets 2026-27 Classic Edition uniform schedule, 16 games from October 21 vs Charlotte to April 9 at Charlotte" style="display: block; width: 100%; border-radius: 10px;" loading="lazy" decoding="async" /></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Photos: Brooklyn Nets</p>
+
+The Classic Edition is a great classic: white, the red Nets script, and red, white and blue piping, which is our favorite part. We wish the white popped a little more and the piping were more prominent, so it gets an **A-** for now, and we want to see it on the court. The new Classic Court, with a Sixty Seasons logo at center court, red lane arcs and the names of every Nets alum on the sideline, is an **A+**. Brooklyn finished No. 2 in our [ranking of all four ABA Classic Edition jerseys and courts](/stories/nba-classic-edition-jerseys-courts-2026-27). The Nets say the uniform goes on sale October 19.
+
+<img src="/images/posts/nba-classic-edition-jerseys-courts-2026-27/nets-classic-court-overhead.jpg" alt="Brooklyn Nets 2026-27 Classic Court from above with herringbone wood, red lane arcs, blue keys and a Sixty Seasons center court logo" style="display: block; width: 100%; max-width: 640px; margin: 1.25em auto 0.4em; border-radius: 10px;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Photo: Brooklyn Nets</p>
 
 ## The Nets Game-by-Game Uniform Schedule
 
@@ -59,6 +71,7 @@ A few things jump out of the count:
 
 ## More Nets Coverage
 
+- [NBA Classic Edition Jerseys 2026-27 Ranked: All 4 ABA Throwbacks and Their New Courts, Graded](/stories/nba-classic-edition-jerseys-courts-2026-27)
 - [Leaked: New 2026-27 NBA Wordmarks for the Hawks, Nets, Rockets, and Timberwolves Reveal Three Throwbacks and One Wild Card](/stories/nba-wordmarks-2026-27)
 
 ## Frequently Asked Questions
@@ -77,7 +90,7 @@ The Classic Edition, at home against the Charlotte Hornets on October 21, 2026, 
 
 **When do the Nets wear the Classic Edition?**
 
-16 times: Oct 21 and 25, Nov 1, 18, 23 and 28, Dec 18, 23 and 27, Jan 9, and March 1, 4, 15 and 25, plus April 4 and 9. It covers every Eras Night on the promotional schedule.
+16 times: Oct 21 and 25, Nov 1, 18, 23 and 28, Dec 18, 23 and 27, Jan 9, and March 1, 4, 15 and 25, plus April 4 and 9. It covers every Eras Night on the promotional schedule, and the Nets' own Classic Edition uniform schedule released October 12 lists the same 16 dates.
 
 **Did the Nets release a uniform schedule for 2026-27?**
 

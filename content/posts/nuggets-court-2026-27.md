@@ -2,7 +2,7 @@
 title: "Denver Nuggets New Court for 2026-27: Every Change From Last Season's Floor, Graded C"
 category: "NBA"
 date: "2026-08-25"
-updatedDate: "2026-08-26"
+updatedDate: "2026-10-12"
 excerpt: "The Nuggets revealed a new Ball Arena floor for 2026-27. The navy borders are gone, mountains are in, and the center logo shrank. Every change, graded C."
 gradient: "linear-gradient(135deg, #0E2240 0%, #FEC524 55%, #8B2131 130%)"
 coverImage: "/images/posts/nuggets-court-2026-27/cover.jpg"
@@ -17,6 +17,10 @@ teams: ["denver-nuggets"]
 
 <img src="/images/posts/nuggets-court-2026-27/nuggets-court-2026-27.jpg" alt="Denver Nuggets new 2026-27 court at Ball Arena, with wood borders, navy painted keys, a mountain and skyline silhouette, and a smaller center logo" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Denver Nuggets</p>
+
+<div style="margin: 0 0 1.75em; padding: 1.1em 1.3em; background: #fff4ec; border: 1px solid #f6c9a8; border-left: 5px solid #E8591A; border-radius: 12px;"><p style="margin: 0 0 6px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; color: #c1440e;">Update, October 12: Denver Has a Second Court</p><p style="margin: 0; color: #14284b; line-height: 1.55;">For the ABA-NBA 50th anniversary, the Nuggets also unveiled an orange <strong>ABA court</strong> to go with their Throwback Nights Classic Edition jersey: an orange apron, orange lanes and an arched DENVER at center court. We like it much more than the regular floor below and graded it an <strong>A-</strong>. See it, and every Throwback Nights date, in our <a href="/stories/nba-classic-edition-jerseys-courts-2026-27">NBA Classic Edition jerseys and courts ranking</a>.</p></div>
+<img src="/images/posts/nba-classic-edition-jerseys-courts-2026-27/nuggets-aba-court.jpg" alt="Denver Nuggets ABA court for 2026-27 with an orange apron, orange lanes and an arched DENVER at center court" style="display: block; width: 100%; max-width: 520px; margin: 0 auto 0.4em; border-radius: 10px;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 2em;">The Nuggets ABA court. Photo: Denver Nuggets</p>
 
 The Nuggets have a new floor for 2026-27, and the easiest way to describe it is that Denver did not add navy or remove navy so much as move it. The color that used to frame the entire court now sits inside the paint, and that single relocation changes how the whole floor reads on television.
 

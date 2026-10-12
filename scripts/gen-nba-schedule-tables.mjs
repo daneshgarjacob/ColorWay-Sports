@@ -18,7 +18,9 @@
 // When a club publishes its own uniform schedule, its calls go in
 // scripts/data/nba-announced-uniforms-2026-27.json (keyed by tricode, dates
 // ISO). Those rows read "Announced"; that club's rows it left off read
-// "Not Yet Announced" instead of guessing a default.
+// "Not Yet Announced" instead of guessing a default. A club entry with
+// "partial": true only names some nights (e.g. a Classic Edition list): its
+// other rows keep the Expected defaults instead of turning TBA.
 
 import fs from "node:fs";
 
@@ -75,13 +77,16 @@ for (const [slug, tri] of Object.entries(TEAMS)) {
     const opp = SHORT[home ? g.a : g.h];
     const ha = home ? "vs" : "at";
     if (ann && ann.games[g.d]) body += row(`${MON_ABBR[m]} ${d}`, ha, opp, ann.games[g.d], "Announced");
-    else if (ann) body += row(`${MON_ABBR[m]} ${d}`, ha, opp, "Not Yet Announced", "TBA");
+    else if (ann && !ann.partial) body += row(`${MON_ABBR[m]} ${d}`, ha, opp, "Not Yet Announced", "TBA");
     else body += row(`${MON_ABBR[m]} ${d}`, ha, opp, home ? "Association White" : "Icon Edition");
   }
 
   const short = NAME[tri];
   let note = `Expected calls are the traditional defaults, the Association white at home and the Icon color on the road, not league rules: the NBA lets clubs dress from the full wardrobe game by game, and Statement, City and Classic nights are slotted in as the ${short} announce them.`;
-  if (ann) {
+  if (ann && ann.partial) {
+    const n = Object.keys(ann.games).length;
+    note = `${ann.label || "Announced"} rows come from the ${short}' own ${ann.what || "uniform schedule"}, published ${ann.announced}: ${n} dated games. Every other row is an Expected call, the traditional default of the Association white at home and the Icon color on the road, not a league rule, and flips as the ${short} announce more nights.`;
+  } else if (ann) {
     const tally = {};
     for (const call of Object.values(ann.games)) tally[call] = (tally[call] || 0) + 1;
     const n = Object.keys(ann.games).length;
