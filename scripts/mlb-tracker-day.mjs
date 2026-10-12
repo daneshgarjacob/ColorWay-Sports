@@ -14,6 +14,7 @@
 
 import fs from "node:fs";
 import { fetchCaps } from "./mlb-caps.mjs";
+import { cardD5, sideD5, originalOf, MLB_TEAM } from "./mlb-card-d5.mjs";
 
 const TRACKER = "content/posts/mlb-uniform-tracker-2026.md";
 const SLUG = {
@@ -41,9 +42,12 @@ if (!date) { console.error("usage: mlb-tracker-day.mjs YYYY-MM-DD"); process.exi
 
 // ---- learn the card vocabulary from the existing tracker -------------------
 const md = fs.readFileSync(TRACKER, "utf8");
-// (?!round-logos\/) keeps the postseason round logo above the pill from being
-// learned as the away team's jersey tile.
-const SIDE = /<img src="(\/images\/posts\/mlb-daily-tracker\/(?!round-logos\/)[^"]+)" alt="([^"]*)"[\s\S]*?line-height: 1\.2;">([^<]+)<\/p>[\s\S]*?background: (#[0-9A-Fa-f]{6});[^>]*><\/span>([^<]+)<\/p>/g;
+// (?!round-logos\/) keeps an old-path round logo from being learned as the away
+// team's jersey tile. Reads BOTH card styles:
+//   old (to 10/12): team label <p ... line-height: 1.2;">DODGERS</p>, uniform as bare text then </p>
+//   Direction 5:    <div data-label ...>DODGERS</div>, uniform in <span data-uni ...>Road Gray</span>
+// A Direction 5 card may carry the -cut.webp; originalOf() maps it back to the tile file.
+const SIDE = /<img src="(\/images\/posts\/mlb-daily-tracker\/(?!round-logos\/)[^"]+)" alt="([^"]*)"[\s\S]*?(?:line-height: 1\.2;">|data-label[^>]*>)([^<]+)<\/(?:p|div)>[\s\S]*?background: (#[0-9A-Fa-f]{6});[^>]*><\/span>(?:<span[^>]*>)?([^<]+)<\/(?:p|span)>/g;
 
 const tile = new Map();     // `${slug}|${uniform}` -> {src, swatch}
 const label = new Map();    // slug -> short label e.g. SOX
@@ -60,7 +64,8 @@ for (const card of cards) {
   let m, i = 0;
   SIDE.lastIndex = 0;
   while ((m = SIDE.exec(card)) !== null && i < 2) {
-    const [, src, , lbl, swatch, uniform] = m;
+    const [, rawSrc, , lbl, swatch, uniform] = m;
+    const src = originalOf(rawSrc);
     const slug = slugs[i++];
     tile.set(`${slug}|${uniform.trim()}`, { src, swatch });
     label.set(slug, lbl.trim());
@@ -114,12 +119,13 @@ games.sort((a, b) => new Date(b.gameDate) - new Date(a.gameDate));
 // Caps from the uniform feed (Jake 9/14: build the hats in). Empty when not filed yet.
 const caps = await fetchCaps(date, SLUG);
 
-// ---- postseason round logo (Jake approved "Option A" 10/12) ---------------
-// The official round logo sits centered above the status pill. Detected from the
-// statsapi game (gameType L + seriesDescription "AL..."/"NL..." -> alcs/nlcs,
-// gameType W -> world-series). The confirmed file can force it with an optional
-// "_round" key ("alcs" | "nlcs" | "world-series" | "none"). Missing file = warn
-// and render no logo. Regular season, Wild Card and Division Series get nothing.
+// ---- postseason round logo ------------------------------------------------
+// Direction 5 cards (Jake approved 10/12) put the official round logo top-left.
+// Detected from the statsapi game (gameType L + seriesDescription "AL..."/"NL..."
+// -> alcs/nlcs, gameType W -> world-series). The confirmed file can force it with
+// an optional "_round" key ("alcs" | "nlcs" | "world-series" | "none"). Missing
+// file = warn and use the MLB league logo, which regular season, Wild Card and
+// Division Series cards always get. (height is from the old centered layout.)
 const LOGO_DIR = "/images/posts/mlb-round-logos";
 const ROUND = {
   alcs: { file: "alcs-2026.png", alt: "2026 ALCS logo", height: 22 },
@@ -137,17 +143,32 @@ function roundOf(g) {
   }
   return null;
 }
-function roundLogo(g) {
+// Top-left logo of the Direction 5 card: the round logo for LCS / World Series,
+// otherwise the MLB league logo (regular season, Wild Card, Division Series).
+// trimmed copy of public/logos/leagues/mlb.png (that one is padded to a square,
+// so the mark rendered half-size in the 30px band)
+const MLB_LOGO = { src: "/images/posts/mlb-round-logos/mlb-league-logo.png", alt: "MLB logo" };
+function cardLogo(g) {
   const key = roundOf(g);
-  if (!key) return "";
+  if (!key) return MLB_LOGO;
   const r = ROUND[key];
-  if (!r) { problems.push(`_round "${key}" unknown - no round logo`); return ""; }
+  if (!r) { problems.push(`_round "${key}" unknown - MLB logo used`); return MLB_LOGO; }
   if (!fs.existsSync(`public${LOGO_DIR}/${r.file}`)) {
-    problems.push(`round logo public${LOGO_DIR}/${r.file} missing - card emitted without it`);
-    return "";
+    problems.push(`round logo public${LOGO_DIR}/${r.file} missing - MLB logo used`);
+    return MLB_LOGO;
   }
-  return `
-  <div style="text-align: center; margin: 0 0 12px;"><img src="${LOGO_DIR}/${r.file}" alt="${r.alt}" title="via MLB" style="height: ${r.height}px; width: auto; display: inline-block; vertical-align: middle;" /></div>`;
+  return { src: `${LOGO_DIR}/${r.file}`, alt: r.alt, round: true };
+}
+// Second line under FINAL in the score bar. LCS/WS: the logo names the round, so
+// just "Game N". Wild Card / Division Series: "NLDS · Game 4". Regular season:
+// "Game 2" for the back half of a doubleheader, else nothing.
+function subLine(g, logo) {
+  const n = g.seriesGameNumber;
+  const lg = (g.seriesDescription ?? "").startsWith("AL") ? "AL" : (g.seriesDescription ?? "").startsWith("NL") ? "NL" : "";
+  if (logo.round) return n ? `Game ${n}` : "";
+  if (g.gameType === "D") return `${lg}DS${n ? ` &middot; Game ${n}` : ""}`;
+  if (g.gameType === "F") return `${lg ? lg + " " : ""}Wild Card${n ? ` &middot; Game ${n}` : ""}`;
+  return g.gameNumber > 1 ? `Game ${g.gameNumber}` : "";
 }
 
 const pretty = new Date(date + "T12:00:00Z").toLocaleDateString("en-US",
@@ -179,14 +200,14 @@ function side(slug, oppName, uniform, dateWords) {
     return null;
   }
   const name = Object.keys(SLUG).find((n) => SLUG[n] === slug);
-  return `    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-      <div style="width: 100%; height: 150px; background: #ececf0; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
-        <img src="${hit.src}" alt="${name} ${uniform} jersey worn ${dateWords} against the ${oppName}, from the MLB daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
-      </div>
-      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">${label.get(slug)}</p>
-      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: ${hit.swatch}; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>${uniform}</p>${caps[slug] ? `
-      <p data-cap="${caps[slug]}" style="color: #ffffff; font-size: 9px; letter-spacing: 1.4px; text-transform: uppercase; opacity: 0.7; margin: 3px 0 0; font-weight: 600;">Cap &middot; ${caps[slug]}</p>` : ""}
-    </div>`;
+  return sideD5({
+    src: hit.src,
+    alt: `${name} ${uniform} jersey worn ${dateWords} against the ${oppName}, from the MLB daily uniform tracker`,
+    label: label.get(slug) ?? short(name).toUpperCase(),
+    swatch: hit.swatch,
+    uniform,
+    cap: caps[slug],
+  });
 }
 
 const dateWords = new Date(date + "T12:00:00Z").toLocaleDateString("en-US",
@@ -217,33 +238,31 @@ for (const g of games) {
   }
 
   const aR = g.teams.away.score, hR = g.teams.home.score;
-  const win = hR > aR ? `${short(hName)} ${hR}, ${short(aName)} ${aR}`
-                      : `${short(aName)} ${aR}, ${short(hName)} ${hR}`;
-  const gameNo = g.gameNumber > 1 ? ` &middot; Game ${g.gameNumber}` : "";
-  // A game that has not actually ended must never carry a score in the pill - a
-  // suspended 3-3 tie reading "Final - Sox 3, Cubs 3" is just wrong. House style
-  // never says "Live", so an unfinished game gets a bare Final and a patch later.
+  // A game that has not actually ended must never carry a score - a suspended 3-3
+  // tie reading as a final is just wrong. House style never says "Live", so an
+  // unfinished game gets a bare FINAL with en-dash scores, filled in later by
+  // scripts/mlb-backfill-scores.mjs.
   const done = ["Final", "Game Over", "Completed Early"].includes(g.status.detailedState);
-  const pill = done ? `Final${gameNo} &middot; ${win}` : `Final${gameNo}`;
-  if (!done) problems.push(`${aName} at ${hName}: ${g.status.detailedState} (${aR}-${hR}) - bare Final pill, PATCH the score once it ends`);
+  if (!done) problems.push(`${aName} at ${hName}: ${g.status.detailedState} (${aR}-${hR}) - bare Final, run mlb-backfill-scores.mjs once it ends`);
+  if (!MLB_TEAM[aSlug] || !MLB_TEAM[hSlug]) { problems.push(`${aName} at ${hName}: no score-bar colors in MLB_TEAM`); continue; }
+
+  // Matchup grade (Jake's call), optional: "_grades": {"dodgers@brewers": "B-"}
+  // in the confirmed file; "dodgers@brewers|2" for game 2 of a doubleheader.
+  // No grade = the pending "–" chip; add the key and regenerate (or edit the chip).
+  const gkey = `${aSlug}@${hSlug}`;
+  const grade = confirmed._grades?.[`${gkey}|${g.gameNumber}`] ?? confirmed._grades?.[gkey] ?? "";
 
   const a = side(aSlug, short(hName), aU, dateWords);
   const h = side(hSlug, short(aName), hU, dateWords);
   if (!a || !h) continue;
 
+  const logo = cardLogo(g);
   out.push(`### ${aName} at ${hName}${g.gameNumber > 1 ? `, Game ${g.gameNumber}` : ""}`, "",
-`<div style="margin: 1.4em 0 0.6em;">
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">${roundLogo(g)}
-  <div style="text-align: center; margin-bottom: 12px;">
-    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">${pill}</span>
-  </div>
-  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
-${a}
-    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
-${h}
-  </div>
-</div>
-</div>`, "");
+    cardD5({
+      logo, grade, away: a, home: h, awaySlug: aSlug, homeSlug: hSlug,
+      awayScore: done ? aR : null, homeScore: done ? hR : null,
+      sub: subLine(g, logo),
+    }), "");
 }
 
 process.stdout.write(out.join("\n"));

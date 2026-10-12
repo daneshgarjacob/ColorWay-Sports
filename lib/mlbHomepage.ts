@@ -4,7 +4,8 @@
 // automatically each morning.
 
 const STANDARD = /^(home white pinstripes|home white|road gray|road grey|home grey|home cream)$/i;
-const LABEL_RE = /background: ([^;]+);[^>]*vertical-align: middle;"><\/span>([^<]+)<\/p>/g;
+// Old cards: dot span then "Label</p>". Direction 5 cards: dot span then <span data-uni>Label</span>.
+const LABEL_RE = /background: ([^;]+);[^>]*vertical-align: middle;"><\/span>(?:<span[^>]*>)?([^<]+)<\/(?:p|span)>/g;
 const strip = (x: string) => x.replace(/<[^>]+>/g, "").trim();
 
 // A day counts as COMPLETE once its awards are pasted in. Jake picks all three

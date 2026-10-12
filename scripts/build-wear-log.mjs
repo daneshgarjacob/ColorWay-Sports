@@ -189,8 +189,14 @@ function parseMlb() {
   const url = postUrl(file);
   const H3 = /^(.+?) at (.+?)(?:,\s*Game (\d+)|\s*\((?:Doubleheader )?Game (\d+)\))?\s*$/;
   const PILL = /letter-spacing: 2px; display: inline-block;">([^<]*)<\/span>/;
-  // team label line then the swatch + uniform name line, once per side
-  const SIDE = /line-height: 1\.2;">([^<]+)<\/p>\s*<p[^>]*><span[^>]*background: (#[0-9A-Fa-f]{3,6})[^>]*><\/span>([^<]+)<\/p>/g;
+  // team label line then the swatch + uniform name line, once per side. Reads both
+  // the old card (<p> lines) and the Direction 5 card (10/12+: <div data-label>,
+  // uniform in <span data-uni>).
+  const SIDE = /(?:line-height: 1\.2;">|data-label[^>]*>)([^<]+)<\/(?:p|div)>\s*<(?:p|div)[^>]*><span[^>]*background: (#[0-9A-Fa-f]{3,6})[^>]*><\/span>(?:<span[^>]*>)?([^<]+)<\/(?:p|span)>/g;
+  // Direction 5: no pill. Status, scores and the letter grade live in data- hooks.
+  const D5_STATUS = /data-status[^>]*>([^<]*)</;
+  const D5_SCORE = /data-score="(away|home)"[^>]*>([^<]*)</g;
+  const D5_GRADE = /data-grade="([^"]*)"/;
   const GRADE = /Matchup Grade:\s*([0-9.]+)\s*\/\s*10/;
   const resolve = (n) => MLB_BY_NAME.get(decode(n).toLowerCase()) ?? null;
 
@@ -204,7 +210,10 @@ function parseMlb() {
       const away = resolve(h[1]), home = resolve(h[2]);
       if (!away || !home) { bad(file, `${date} ### ${game.heading} (team not recognised)`); continue; }
       const gameNo = Number(h[3] || h[4] || 1);
-      const pill = decode((game.body.match(PILL) || [])[1] || "");
+      const d5 = D5_STATUS.test(game.body);
+      const pill = d5
+        ? decode((game.body.match(D5_STATUS) || [])[1] || "")
+        : decode((game.body.match(PILL) || [])[1] || "");
       if (/^postponed/i.test(pill)) { postponed++; continue; }
       const sides = [...game.body.matchAll(SIDE)].slice(0, 2);
       if (sides.length < 2) { bad(file, `${date} ### ${game.heading} (found ${sides.length} jersey tiles)`); continue; }
@@ -214,12 +223,22 @@ function parseMlb() {
       row.homeTeam = home; row.awayTeam = away;
       row.awayUniform = decode(sides[0][3]); row.homeUniform = decode(sides[1][3]);
       row.status = "confirmed";
+      if (d5) {
+        if (!/^final/i.test(pill)) bad(file, `${date} ### ${game.heading} (status "${pill}")`);
+        for (const [, sideName, v] of game.body.matchAll(D5_SCORE)) {
+          if (!/^\d+$/.test(v.trim())) continue; // en dash = not backfilled yet
+          if (sideName === "away") row.awayScore = Number(v); else row.homeScore = Number(v);
+        }
+        if (row.homeScore === null || row.awayScore === null) row.homeScore = row.awayScore = null;
+        row.grade = (game.body.match(D5_GRADE) || [])[1] || null;
+      } else {
       const scores = namedScores(pill); // a pill carrying a score is a final even without the word
       if (/^late game/i.test(pill)) lateGame++;
       else if (!/^final/i.test(pill) && !scores) bad(file, `${date} ### ${game.heading} (pill "${pill}")`);
       assignScores(row, scores, resolve);
       const g = game.body.match(GRADE);
       row.grade = g ? `${g[1]}/10` : null;
+      }
       row.source = `${POSTS}/${file}`; row.sourceUrl = url;
       rows.push(row);
     }

@@ -26,7 +26,7 @@ export function buildAlternatesWatch(contentHtml: string): AlternatesDay | null 
   const { day, slice } = d;
 
   const labels = [...slice.matchAll(
-    /background: ([^;]+);[^>]*vertical-align: middle;"><\/span>([^<]+)<\/p>/g,
+    /background: ([^;]+);[^>]*vertical-align: middle;"><\/span>(?:<span[^>]*>)?([^<]+)<\/(?:p|span)>/g,
   )].map((u) => ({ color: u[1].trim(), label: u[2].trim() }));
   if (!labels.length) return null;
 

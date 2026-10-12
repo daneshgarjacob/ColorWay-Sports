@@ -192,7 +192,9 @@ export function buildMlbTeamIndex(contentHtml: string): TeamIndexEntry[] {
     const slice = contentHtml.slice(slot.start, slot.end);
     // Each jersey card carries its own colored dot next to the uniform label —
     // lift both so the index swatch always matches the card exactly.
-    const uniLabels = [...slice.matchAll(/background: ([^;]+);[^>]*vertical-align: middle;"><\/span>([^<]+)<\/p>/g)].map(
+    // Old cards end the label with </p>; Direction 5 cards (10/12+) wrap it in
+    // <span data-uni>…</span>. The jersey src may be a -cut.webp cutout.
+    const uniLabels = [...slice.matchAll(/background: ([^;]+);[^>]*vertical-align: middle;"><\/span>(?:<span[^>]*>)?([^<]+)<\/(?:p|span)>/g)].map(
       (u) => ({ color: u[1].trim(), label: u[2].trim() }),
     );
     // Jersey shots appear in the same away-then-home order as the labels.

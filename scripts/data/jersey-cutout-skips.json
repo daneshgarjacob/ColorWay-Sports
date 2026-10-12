@@ -1,0 +1,15 @@
+{
+  "_doc": "Read by scripts/make-jersey-cutouts.mjs and scripts/mlb-tracker-day.mjs. noCut = no -cut.webp (card falls back to the original on a tile). flood = use the white-background flood fill instead of Apple Vision.",
+  "noCut": {
+    "/images/posts/mlb-daily-tracker/calendars-cover.jpg": "post cover graphic, not a jersey",
+    "/images/posts/mlb-daily-tracker/cover-branded.jpg": "post cover graphic, not a jersey",
+    "/images/posts/mlb-daily-tracker/cover-branded-v2.jpg": "post cover graphic, not a jersey",
+    "/images/posts/mlb-daily-tracker/cover-branded-v4.jpg": "post cover graphic, not a jersey",
+    "/images/posts/nhl-daily-tracker/cover-branded.jpg": "post cover graphic, not a jersey",
+    "/images/posts/mlb-daily-tracker/rays-road-gray.jpg": "crop of a reveal photo (player torso), no clean subject",
+    "/images/posts/nhl-daily-tracker/oilers-tan.jpg": "player model photo, cutout keeps the arms/stick/gloves"
+  },
+  "flood": {
+    "/images/posts/mlb-daily-tracker/phillies-powder-blue.jpg": "Vision tore the back jersey of the front+back pair"
+  }
+}

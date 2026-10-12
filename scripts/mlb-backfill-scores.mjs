@@ -15,6 +15,7 @@
 //   node scripts/mlb-backfill-scores.mjs --dry     # report only
 //   node scripts/mlb-backfill-scores.mjs           # write
 import { readFileSync, writeFileSync } from "node:fs";
+import { scoreSpan } from "./mlb-card-d5.mjs";
 
 const DRY = process.argv.includes("--dry");
 const FILE = "content/posts/mlb-uniform-tracker-2026.md";
@@ -48,6 +49,11 @@ async function slate(date) {
 }
 
 const BARE = /(letter-spacing: 2px; display: inline-block;">)Final(<\/span>)/;
+// Direction 5 cards (10/12+) have no pill: an unfinished game is emitted with
+// en-dash score cells, which this fills (scoreSpan styles the winner).
+const D5_PENDING = /<span data-score="(away|home)" style="[^"]*">&ndash;<\/span>/;
+const D5_PENDING_G = new RegExp(D5_PENDING.source, "g");
+const needsPatch = (t) => BARE.test(t) || D5_PENDING.test(t);
 // Must be IDEMPOTENT: it is applied to full API names ("Toronto Blue Jays")
 // and to already-short heading names ("Blue Jays") alike. A naive last-word
 // split turns the short form into "Jays" and breaks the match.
@@ -67,7 +73,7 @@ for (let i = days.length - 1; i >= 0; i--) {
   const d = days[i];
   const iso = `2026-${String(d.month).padStart(2, "0")}-${String(d.day).padStart(2, "0")}`;
   let sec = md.slice(d.start, d.end);
-  if (!BARE.test(sec)) continue;
+  if (!needsPatch(sec)) continue;
 
   const games = await slate(iso);
   const used = new Set();
@@ -76,14 +82,14 @@ for (let i = days.length - 1; i >= 0; i--) {
   const parts = sec.split(/(?=^### )/m);
   for (let pi = 0; pi < parts.length; pi++) {
     const hm = parts[pi].match(/^### (.+?) at (.+?)$/m);
-    if (!hm || !BARE.test(parts[pi])) continue;
+    if (!hm || !needsPatch(parts[pi])) continue;
     const away = hm[1];
-    // Doubleheaders carry a "(Game 1)" / "(Game 2)" suffix on the home name.
-    // Strip it for matching and use the number to pick which of the day's two
-    // meetings this card is.
-    const dh = hm[2].match(/^(.*?)\s*\(Game (\d)\)$/);
+    // Doubleheaders carry a "(Game 1)" / "(Game 2)" suffix on the home name, or
+    // ", Game 2" as scripts/mlb-tracker-day.mjs writes it. Strip it for matching
+    // and use the number to pick which of the day's two meetings this card is.
+    const dh = hm[2].match(/^(.*?)(?:\s*\(Game (\d)\)|,\s*Game (\d))$/);
     const home = dh ? dh[1] : hm[2];
-    const gameNo = dh ? +dh[2] : null;
+    const gameNo = dh ? +(dh[2] ?? dh[3]) : null;
 
     // ⚠️ The tracker uses TWO heading conventions: recent days write full club
     // names ("Colorado Rockies at Washington Nationals"), older days write short
@@ -102,7 +108,12 @@ for (let i = days.length - 1; i >= 0; i--) {
     const [wN, wS, lN, lS] = g.as > g.hs
       ? [away, g.as, home, g.hs]
       : [home, g.hs, away, g.as];
-    parts[pi] = parts[pi].replace(BARE, `$1Final &middot; ${short(wN)} ${wS}, ${short(lN)} ${lS}$2`);
+    if (BARE.test(parts[pi])) {
+      parts[pi] = parts[pi].replace(BARE, `$1Final &middot; ${short(wN)} ${wS}, ${short(lN)} ${lS}$2`);
+    } else {
+      parts[pi] = parts[pi].replace(D5_PENDING_G, (_, side) =>
+        side === "away" ? scoreSpan("away", g.as, g.as > g.hs) : scoreSpan("home", g.hs, g.hs > g.as));
+    }
     patched++;
   }
   sec = parts.join("");

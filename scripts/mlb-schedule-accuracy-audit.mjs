@@ -31,7 +31,8 @@ const DAYS = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Satur
 
 // ---- 1. what they actually wore -------------------------------------------
 const md = fs.readFileSync(TRACKER, "utf8");
-const SIDE = /<img src="\/images\/posts\/mlb-daily-tracker\/[^"]+"[\s\S]*?background: #[0-9A-Fa-f]{6};[^>]*><\/span>([^<]+)<\/p>/g;
+// old cards: "...</span>Uniform</p>"; Direction 5 cards: "...</span><span data-uni ...>Uniform</span>"
+const SIDE = /<img src="\/images\/posts\/mlb-daily-tracker\/[^"]+"[\s\S]*?background: #[0-9A-Fa-f]{6};[^>]*><\/span>(?:<span[^>]*>)?([^<]+)<\/(?:p|span)>/g;
 
 const worn = new Map(); // slug -> [{weekday, home, uniform}]
 const dayBlocks = md.split(/^## /m).slice(1);
