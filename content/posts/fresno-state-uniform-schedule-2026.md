@@ -3,7 +3,7 @@ title: "Fresno State Uniform Schedule 2026: Every Jersey and When the Bulldogs W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-11"
 excerpt: "What Fresno State wears every game in 2026: the all red home set, the white road jersey with red pants, the black alternate, and every date week by week."
 gradient: "linear-gradient(135deg, #DB0032 0%, #a8002a 55%, #006747 130%)"
 cardStyle: words
@@ -38,7 +38,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Jose State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #DB0032; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
-  <div style="background: #DB0032; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #DB0032; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #DB0032; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -66,7 +66,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
 
 **October 3 at Washington State.** ★ Confirmed from the game photos: **red helmet, white jersey, red pants** for the Pac-12 opener. Washington State went with the all gray it had announced, a gray helmet, gray jersey and gray pants. Fresno State won 26-6 to move to 4-1.
 
-**October 10 vs. Boise State.** Red expected. Boise State in white at Valley Children's Stadium, and a 7:30 p.m. Pacific kickoff on The CW gives this one the best chance on the schedule of being the night the black comes out.
+**October 10 vs. Boise State.** ★ Confirmed from the broadcast: **red helmet, red jersey, red pants**, the all red home set for a third straight home game. The black alternate stayed in the closet for the 7:30 p.m. Pacific kickoff on The CW. Boise State wore all white. Ezekiel Avit dove in for a 59-yard touchdown and the Bulldogs scored 11 points in the fourth quarter, but Boise State won 38-31, and Fresno State is 4-2. See our [Boise State 2026 uniform schedule](/stories/boise-state-uniform-schedule-2026).
 
 **October 17 at San Diego State.** White expected. The Battle for the Old Oil Can, the trophy that has been on the line since 2011 in a rivalry that goes back to 1923. San Diego State shut Fresno State out 23-0 in Fresno last October and took the can south, and the Aztecs host the rematch, so expect black over black on their side and white on this one.
 
@@ -88,7 +88,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
 
 ## The Bottom Line
 
-Five games in, Fresno State is 4-1 and has shown two combinations and one helmet, all red at home and the white jersey over red pants on the road, and both combinations ran red pants. That is the signature here: the Bulldogs are a red pants team, on the road as well as at home, which is rarer than it sounds and gives the white jersey a bolder look than most road sets get. The black alternate is the wild card, and the schedule hands it two obvious slots, the Boise State night game on October 10 and Halloween against Oregon State. The grid above has every date, and we fill in a star as each combination is confirmed.
+Six games in, Fresno State is 4-2 and has shown two combinations and one helmet, all red at home and the white jersey over red pants on the road, and both combinations ran red pants. That is the signature here: the Bulldogs are a red pants team, on the road as well as at home, which is rarer than it sounds and gives the white jersey a bolder look than most road sets get. The black alternate is the wild card. It did not come out for the Boise State night game on October 10, which leaves Halloween against Oregon State as the obvious slot. The grid above has every date, and we fill in a star as each combination is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FresnoStateFB/status/2100252334010016037"></a></blockquote>
@@ -98,7 +98,7 @@ Five games in, Fresno State is 4-1 and has shown two combinations and one helmet
 
 **What is Fresno State wearing this week?**
 
-Fresno State wore the red helmet, white jersey and red pants at Washington State on Saturday, October 3, confirmed from the game photos, and won the Pac-12 opener 26-6 to move to 4-1. Next is Boise State at home on October 10, where red is expected, and the 7:30 p.m. Pacific kickoff makes it the best chance on the schedule for the black set. The week-by-week grid above lists every game.
+Fresno State wore all red against Boise State on Saturday, October 10: red helmet, red jersey and red pants, confirmed from the broadcast, in a 38-31 loss that dropped the Bulldogs to 4-2. The black alternate did not appear. Next is the Battle for the Old Oil Can at San Diego State on October 17, where white is expected. The week-by-week grid above lists every game.
 
 **What are Fresno State's football uniforms for 2026?**
 

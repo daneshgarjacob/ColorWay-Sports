@@ -34,6 +34,8 @@ The Guardians (85-77) won the AL Central and the No. 2 seed in the American Leag
 
 Watch for the red alternate in Game 1. Cleveland wore it for Game 1 of the 2024 ALDS and Game 1 of the 2025 Wild Card Series before going to home whites. For every matchup and what each team is wearing, see our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026), and we log every game on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 
+**Update: the Guardians are in the ALCS.** Cleveland beat the White Sox 3-2, wearing home white for Game 1, the red alternate for Games 2 and 5 and the road gray for Games 3 and 4. The ALCS at the Rays starts **Monday, October 12 at 8:00 p.m. ET at Tropicana Field**. Every ALCS game, with what we expect each team to wear, is on our [MLB Championship Series uniforms guide](/stories/mlb-championship-series-uniforms-2026).
+
 ## Sample Home-and-Road Week at a Glance
 
 <div style="margin: 1.5em 0 1em; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">

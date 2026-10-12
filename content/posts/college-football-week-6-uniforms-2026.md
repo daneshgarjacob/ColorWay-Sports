@@ -3,7 +3,7 @@ title: "College Football Week 6 Uniforms 2026: What Every Top Team Is Wearing, F
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-07"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-11"
 excerpt: "College football Week 6 uniforms: Oregon's Origin of Speed debut, Notre Dame in green, Florida's Spurrier throwback, the Penn State White Out and every Top 25 look."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -104,20 +104,20 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 - Louisville: **Confirmed**, all black: black helmet with the red Cardinal head, black jersey, black pants, with black end zones. The For The Ville set is still slated to debut against Stanford on October 31.
 
 **No. 20 [Iowa](/stories/iowa-uniform-schedule-2026) at [Washington](/stories/washington-huskies-uniform-schedule-2026)**, 9 p.m., FOX or FS1.
-- Iowa: **Expected**, white, in its first game at Husky Stadium since 1963. Iowa went all black at home against Ohio State last week.
-- Washington: **Expected**, purple, for Huskies for a Cure, with fans asked to wear purple.
+- Iowa: **Confirmed**, black helmet, white jersey, gold pants, from Iowa's own game photos, in its first game at Husky Stadium since 1963. Iowa 41, Washington 24.
+- Washington: **Confirmed**, all purple for Huskies for a Cure: gold helmet, purple jersey, purple pants.
 
 **[Washington State](/stories/washington-state-uniform-schedule-2026) at [Utah State](/stories/utah-state-uniform-schedule-2026)**, 9 p.m., The CW.
-- Washington State: **Expected**, white, in its only Friday game of the season.
-- Utah State: **Expected**, blue, for the Show Me game, with fans asked to wear blue.
+- Washington State: **Confirmed**, white helmet with the crimson Cougar head, white jersey, gray pants. Utah State 17, Washington State 16.
+- Utah State: **Confirmed**, head to toe navy for the Show Me game: navy helmet, navy jersey, navy pants.
 
 **[Wyoming](/stories/wyoming-uniform-schedule-2026) at San Jose State**, 9 p.m., CBSSN.
-- Wyoming: **Expected**, white.
-- San Jose State: TBA, announced game week.
+- Wyoming: **Confirmed**, all white: white helmet, white jersey, white pants. Wyoming 16, San Jose State 13 in overtime.
+- San Jose State: **Confirmed**, blue helmet, blue jersey, gold pants.
 
 **[Iowa State](/stories/iowa-state-uniform-schedule-2026) at No. 8 [BYU](/stories/byu-uniform-schedule-2026)**, 10:15 p.m., ESPN.
-- Iowa State: **Expected**, white, a week after going all cardinal for Homecoming.
-- BYU: **Expected**, royal blue at home, during Homecoming week. BYU changes the helmet, facemask and pants almost every week, so only the jersey color is safe.
+- Iowa State: **Confirmed**, cardinal helmet, white jersey, cardinal pants, a week after going all cardinal for Homecoming. BYU 24, Iowa State 10.
+- BYU: **Confirmed in navy**, not royal: white helmet, navy jersey, white pants, during Homecoming week. It is BYU's first navy jersey of 2026.
 
 ### Saturday, October 10: Noon Window
 
@@ -275,13 +275,13 @@ More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Kentucky schedule]
 
 ### Also Late
 
-- **[Hawaii](/stories/hawaii-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 10:30 p.m., FS1. Arizona State **Expected** in maroon; a non-conference home night is a live spot for another helmet after last week's maroon chrome Maroon Monsoon. Hawaii **Expected** in white. Arizona State 30, Hawaii 12. We have not yet seen game photos to confirm either side.
+- **[Hawaii](/stories/hawaii-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 10:30 p.m., FS1. Arizona State **Confirmed** in a white helmet with Sparky, maroon jersey and white pants, a new helmet a week after the maroon chrome Maroon Monsoon. Hawaii **Confirmed** all white. Arizona State 30, Hawaii 12.
 - **[Kansas](/stories/kansas-uniform-schedule-2026) at No. 12 [Utah](/stories/utah-uniform-schedule-2026)**, 8 p.m., ESPNEWS. Utah **Confirmed** all white at home: white helmet, white jersey, white pants, not the red that was expected. Kansas **Confirmed** in a black jersey and black pants. Utah 41, Kansas 24.
-- **No. 23 [Boise State](/stories/boise-state-uniform-schedule-2026) at [Fresno State](/stories/fresno-state-uniform-schedule-2026)**, 10:30 p.m., The CW. Boise State **Expected** in white. Fresno State **Expected** in red, though a late kickoff against Boise is the best chance on its schedule for the black set. Boise State 38, Fresno State 31. We have not yet seen game photos to confirm either side.
+- **No. 23 [Boise State](/stories/boise-state-uniform-schedule-2026) at [Fresno State](/stories/fresno-state-uniform-schedule-2026)**, 10:30 p.m., The CW. Boise State **Confirmed** all white: white helmet, white jersey, white pants. Fresno State **Confirmed** all red, red helmet, red jersey and red pants, so the black set stayed in the closet. Boise State 38, Fresno State 31.
 
 ## The Bottom Line
 
-Every special look we had circled and could check made it onto the field as announced; UNLV's white 1976 helmet showed up in the game photos, though we could not see the Minute Man decal itself. Oregon debuted Origin of Speed, Notre Dame wore the full Irish Wear Green set, Florida wore the Spurrier retro helmet, Kentucky wore the Power K throwback, Arizona took the Sandstorm set on the road and West Virginia went all black for Coal Rush. The scoreboard was another story: Oklahoma beat No. 1 Texas 27-24, UCLA won 17-15 in Oregon's debut game, South Carolina won 38-19 in Gainesville, Georgia won 20-17 in Tuscaloosa and Kentucky beat LSU 35-34 in overtime. The real surprises were the uniforms nobody announced: Oklahoma State in a black jersey for Stripe the Stadium, Georgia Tech and Utah in white at home, Duke all black on the road, and Oregon State in all orange. The best looking matchup of the day was UCLA in gold and white against the near-black Origin of Speed, which we graded A+. A few late games and smaller programs are still being confirmed, and we flip each one on this page as the game photos come in.
+Every special look we had circled and could check made it onto the field as announced; UNLV's white 1976 helmet showed up in the game photos, though we could not see the Minute Man decal itself. Oregon debuted Origin of Speed, Notre Dame wore the full Irish Wear Green set, Florida wore the Spurrier retro helmet, Kentucky wore the Power K throwback, Arizona took the Sandstorm set on the road and West Virginia went all black for Coal Rush. The scoreboard was another story: Oklahoma beat No. 1 Texas 27-24, UCLA won 17-15 in Oregon's debut game, South Carolina won 38-19 in Gainesville, Georgia won 20-17 in Tuscaloosa and Kentucky beat LSU 35-34 in overtime. The real surprises were the uniforms nobody announced: Oklahoma State in a black jersey for Stripe the Stadium, Georgia Tech and Utah in white at home, Duke all black on the road, Oregon State in all orange, BYU in navy instead of royal on Friday night, and Arizona State in a white Sparky helmet against Hawaii. The best looking matchup of the day was UCLA in gold and white against the near-black Origin of Speed, which we graded A+. A few late games and smaller programs are still being confirmed, and we flip each one on this page as the game photos come in.
 
 ## Frequently Asked Questions
 

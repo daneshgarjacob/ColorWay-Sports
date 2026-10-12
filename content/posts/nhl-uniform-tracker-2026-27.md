@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NHL"
 date: "2026-10-02"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-11"
 excerpt: "What every NHL team wore last night, game by game. Home darks, road whites, thirds and specials for all 32 clubs, confirmed from game photos every morning."
 gradient: "linear-gradient(135deg, #111821 0%, #1d2733 55%, #2f6bed 130%)"
 coverImage: "/images/posts/nhl-daily-tracker/cover-branded.jpg"
@@ -23,6 +23,98 @@ archiveLabel: "Every team's full 2026-27 uniform calendar"
 This is the ColorWay Sports NHL daily uniform tracker: what every team actually wore, every game, logged the morning after from game photos. Not just the thirds and the specials, the whole closet, home darks and road whites included, because the patterns only show up when you keep the full record. Every matchup also gets a ColorWay Sports letter grade: the same two sweaters in the same home and road roles always get the same grade, and a strong alternate or a color-on-color night can beat the standard dark-versus-white look.
 
 Wondering what sweater your team is wearing tonight? Every club's [2026-27 uniform schedule](/stories/nhl-uniform-schedule-2026-27) lays out the closet and the dates for thirds, throwbacks and Hometown Remix nights as they are announced, and each team's [uniform calendar](/nhl-tracker) files every game it has played. This page is the receipts: what they actually put on.
+
+## Sunday, October 11
+
+3 games on Sunday, every sweater confirmed from game photos. The Rangers wore their navy Shield third for the first time this season, the shield crest on navy with red, white and blue striping, and it was a good night for it: New York beat the Canucks 6-2 at the Garden. Canucks white against Rangers navy is our favorite matchup of the night. The Kraken won 5-3 in Washington, and the Hurricanes beat the Flyers 4-1 in Philadelphia. Everyone else wore the usual dark at home and white on the road.
+
+<!-- nhl-day:2026-10-11:start -->
+
+### Carolina Hurricanes at Philadelphia Flyers
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Hurricanes 4, Flyers 1</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/hurricanes-road.jpg" alt="Carolina Hurricanes Road White sweater worn October 11 2026 against the Flyers, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">HURRICANES</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/flyers-home.jpg" alt="Philadelphia Flyers Home Orange sweater worn October 11 2026 against the Hurricanes, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">FLYERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #F74902; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Orange</p>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">B</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
+</div>
+</div>
+
+### Vancouver Canucks at New York Rangers
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Rangers 6, Canucks 2</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/canucks-road.jpg" alt="Vancouver Canucks Road White sweater worn October 11 2026 against the Rangers, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CANUCKS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <svg viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="New York Rangers Navy Shield Third sweater"><path d="M38 14 L60 22 L82 14 L112 34 L102 58 L90 52 L90 108 L30 108 L30 52 L18 58 L8 34 Z" fill="#0A1D3F" stroke="rgba(0,0,0,0.25)" stroke-width="2.5" stroke-linejoin="round"/></svg>
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">RANGERS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0A1D3F; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Navy Shield Third</p>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">B+</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
+</div>
+</div>
+
+### Seattle Kraken at Washington Capitals
+
+<div style="margin: 1.4em 0 0.6em;">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin-bottom: 12px;">
+    <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Kraken 5, Capitals 3</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/kraken-road.jpg" alt="Seattle Kraken Road White sweater worn October 11 2026 against the Capitals, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">KRAKEN</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Road White</p>
+    </div>
+    <p style="font-size: 11px; font-weight: 800; color: #ffffff; letter-spacing: 2.5px; opacity: 0.8; margin: 0 18px;">AT</p>
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <div style="width: 100%; height: 150px; background: #ffffff; border-radius: 10px; display: flex; align-items: center; justify-content: center; padding: 8px; box-sizing: border-box;">
+        <img src="/images/posts/nhl-daily-tracker/capitals-home.jpg" alt="Washington Capitals Home Red sweater worn October 11 2026 against the Kraken, from the NHL daily uniform tracker" style="max-height: 132px; max-width: 100%; object-fit: contain;" />
+      </div>
+      <p style="color: #ffffff; font-size: 13px; font-weight: 900; margin: 11px 0 0; line-height: 1.2;">CAPITALS</p>
+      <p style="color: #ffffff; font-size: 9px; letter-spacing: 1.8px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C8102E; border: 1px solid rgba(255,255,255,0.45); margin-right: 5px; vertical-align: middle;"></span>Home Red</p>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; gap: 11px; margin: 14px 0 0; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.12);"><span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">B</span><span style="font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: rgba(255,255,255,0.6);">ColorWay Sports Matchup Grade</span></div>
+</div>
+</div>
+
+<!-- nhl-day:2026-10-11:end -->
 
 ## Saturday, October 10
 

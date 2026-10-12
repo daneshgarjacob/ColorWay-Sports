@@ -3,7 +3,7 @@ title: "Hawaii Uniform Schedule 2026: Every Jersey and When the Rainbow Warriors
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-11"
 excerpt: "Hawaii uniform schedule 2026: the black set, the white set, White Out and blackout nights, and every Rainbow Warriors game with the jersey worn or expected."
 gradient: "linear-gradient(135deg, #024731 0%, #0b3b2a 55%, #111111 130%)"
 cardStyle: words
@@ -46,7 +46,7 @@ The black set was revealed the day before, with the feathered black helmet.
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #024731; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wyoming</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Jose State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #024731; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs New Mexico</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -74,7 +74,7 @@ All times below are Hawaii time.
 
 **October 3 vs. San Jose State.** ★ Confirmed from the game photos: **black helmet, black jersey, black pants** under the lights at the Ching Complex for the Dick Tomey Legacy Game and Ultimate Keiki Night, which is where the black set has lived so far. San Jose State wore a white helmet, white jersey and gold pants. San Jose State won 20-16, and Hawaii fell to 1-4.
 
-**October 10 at Arizona State.** White expected. Kickoff time still to be set. Arizona State is expected in maroon at home on our [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026).
+**October 10 at Arizona State.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, all white in Tempe, with the green pattern on the sleeves. Arizona State wore a white helmet with Sparky, a maroon jersey and white pants; see our [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026). Micah Alejado found Audric Harris for a fourth quarter touchdown, but Arizona State won 30-12, and Hawaii is 1-5.
 
 **October 17 vs. New Mexico.** Black expected. Homecoming at the Ching Complex, kickoff time still to be set. Homecoming is one of the two dates on any schedule where a special look is most likely.
 
@@ -110,13 +110,13 @@ Hawaii does not observe daylight saving time, so it sits two or three hours behi
 
 ## The Bottom Line
 
-Five games in, Hawaii is 1-4 and has worn all white at home, all black three times and white over black at Stanford, which tells you the Rainbow Warriors choose the uniform for the moment rather than the calendar. White is the expectation on the road, though Hawaii went all black at Wyoming. At home, black at night is the pattern so far, and the Senior Night White Out on November 28 should bring the all white set back. Homecoming against New Mexico on October 17 is the date we would circle for anything new. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Six games in, Hawaii is 1-5 and has worn all white twice, all black three times and white over black at Stanford, which tells you the Rainbow Warriors choose the uniform for the moment rather than the calendar. White is the expectation on the road, as it was at Arizona State, though Hawaii went all black at Wyoming. At home, black at night is the pattern so far, and the Senior Night White Out on November 28 should bring the all white set back. Homecoming against New Mexico on October 17 is the date we would circle for anything new. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Hawaii wearing this week?**
 
-Hawaii wore all black against San Jose State at the Ching Complex on Saturday, October 3, black helmet, black jersey and black pants, confirmed from the game photos, and lost 20-16 to fall to 1-4. It was the third straight game in the all-black set. Next is at Arizona State on October 10, where white is expected.
+Hawaii wore all white at Arizona State on Saturday, October 10, white helmet, white jersey and white pants, confirmed from the broadcast, and lost 30-12 to fall to 1-5. Next is Homecoming against New Mexico at the Ching Complex on October 17, where black is expected.
 
 **What are Hawaii's football uniforms for 2026?**
 

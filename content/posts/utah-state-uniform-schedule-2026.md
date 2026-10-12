@@ -3,7 +3,7 @@ title: "Utah State Uniform Schedule 2026: Every Jersey and When the Aggies Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-11"
 excerpt: "What Utah State wears every game in 2026: blue at home, white on the road, the cow print helmet, the retro homecoming helmet, and every date."
 gradient: "linear-gradient(135deg, #0F2439 0%, #1f3a63 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -46,7 +46,7 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / White</div></div>
   <div style="background: #0F2439; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Retro / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Jumpin' Cow / White / White</div></div>
-  <div style="background: #0F2439; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #0F2439; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Navy</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -80,7 +80,7 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @USUFootball</p>
 
-**October 9 vs. Washington State.** Blue expected. Friday night in Logan on The CW, and it is the Show Me game, with fans asked to wear blue. The blue home jersey made its first 2026 appearance against Troy, so this would be its second. See our [Washington State 2026 uniform schedule](/stories/washington-state-uniform-schedule-2026).
+**October 9 vs. Washington State.** ★ Confirmed from the broadcast: **navy helmet, navy jersey, navy pants**, head to toe navy for the Show Me game, with fans asked to wear blue. It is the second appearance of the blue home jersey, after Troy. Washington State wore the white helmet, white jersey and gray pants. The Aggies trailed 16-3 at halftime, then shut Washington State out in the second half and won 17-16 to move to 2-4. Grady Brosterhous threw a 27-yard touchdown pass to Eli Wood. See our [Washington State 2026 uniform schedule](/stories/washington-state-uniform-schedule-2026).
 
 **October 17.** Bye. Utah State's only open date.
 
@@ -106,13 +106,13 @@ The home team in college football usually picks its color and sends the visitor 
 
 ## The Bottom Line
 
-Five games, five helmets. Utah State went cow print at home, white at Washington and navy at Utah, all over the white jersey, then brought out the 1992 retro helmet for Homecoming, and the blue home jersey finally appeared with it in the 21-10 win over Troy. The fifth helmet, confirmed by Utah State, was the throwback Jumpin' Cow on a white shell, all white, in a 37-18 loss at Boise State that left the Aggies 1-4. Next, the Blackout against Colorado State on Halloween is the natural spot for black, and the flex date on November 28 is Senior Day at home. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Five games, five helmets. Utah State went cow print at home, white at Washington and navy at Utah, all over the white jersey, then brought out the 1992 retro helmet for Homecoming, and the blue home jersey finally appeared with it in the 21-10 win over Troy. The fifth helmet, confirmed by Utah State, was the throwback Jumpin' Cow on a white shell, all white, in a 37-18 loss at Boise State that left the Aggies 1-4. For the Show Me game against Washington State, the navy helmet came back with the navy jersey and navy pants, and Utah State came back from 16-3 down at halftime to win 17-16. Next, the Blackout against Colorado State on Halloween is the natural spot for black, and the flex date on November 28 is Senior Day at home. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Utah State wearing this week?**
 
-Utah State wore all white at Boise State on Saturday, October 3, the white helmet with the throwback Jumpin' Cow logo it announced, white jersey and white pants, and lost 37-18. Next up is Washington State at home on Friday, October 9, the Show Me game, where blue is expected. The week-by-week grid above lists every game with the expected uniform.
+Utah State wore head to toe navy against Washington State on Friday, October 9, the Show Me game: navy helmet, navy jersey and navy pants, confirmed from the broadcast, in a 17-16 comeback win that moved the Aggies to 2-4. After the October 17 bye, Utah State visits Texas State on October 24, where white is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are Utah State's football uniforms for 2026?**
 

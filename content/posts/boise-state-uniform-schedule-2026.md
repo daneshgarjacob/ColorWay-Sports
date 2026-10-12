@@ -3,7 +3,7 @@ title: "Boise State Uniform Schedule 2026: Every Jersey and When the Broncos Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-11"
 excerpt: "Every Boise State jersey and uniform in 2026: blue on The Blue, white on the road, the 40th anniversary helmet, and the full Broncos schedule week by week."
 gradient: "linear-gradient(135deg, #0033A0 0%, #10275C 55%, #D64309 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Dakota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #D64309; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Western Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / White</div></div>
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #D64309; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Blue</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #D64309; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -60,7 +60,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 5 uniform reveal, via @BroncoSportsFB</p>
 
-**October 10 at Fresno State.** White expected. A late kickoff in Fresno and the last game before the only bye.
+**October 10 at Fresno State.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, all white for the late kickoff at Valley Children's Stadium. Fresno State wore its all red home set, not the black alternate. Dylan Riley scored twice, one of them on a 72-yard run, and Boise State held on 38-31 to move to 5-1 heading into the only bye. See our [Fresno State 2026 uniform schedule](/stories/fresno-state-uniform-schedule-2026).
 
 **October 17.** Bye.
 
@@ -78,13 +78,13 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 ## The Bottom Line
 
-Five games in, Boise State is 4-1 and has done exactly what its closet predicts, white on the road and blue at home, with one big exception on top: the 40th anniversary helmet, which turned an ordinary blue-over-blue home opener into the most detailed helmet the program has worn. From here the road dates are locked into white and the home dates are blue by default, so the questions are Texas State on Halloween with a black fan call, and whether the orange pants or orange helmet from last season make a return. The grid above has every date, and we add a star as each uniform is confirmed.
+Six games in, Boise State is 5-1 and has done exactly what its closet predicts, white on the road and blue at home, with one big exception on top: the 40th anniversary helmet, which turned an ordinary blue-over-blue home opener into the most detailed helmet the program has worn. From here the road dates are locked into white and the home dates are blue by default, so the questions are Texas State on Halloween with a black fan call, and whether the orange pants or orange helmet from last season make a return. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Boise State wearing this week?**
 
-Boise State beat Utah State 37-18 at home on Saturday, October 3, in all blue: blue helmet, blue jersey and blue pants for the Pac-12 home opener, confirmed from the broadcast. Utah State wore all white. The Broncos are 4-1, and next is Fresno State on the road on October 10, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Boise State wore all white at Fresno State on Saturday, October 10: white helmet, white jersey and white pants, confirmed from the broadcast, in a 38-31 win. Fresno State wore all red. The Broncos are 5-1, and after the October 17 bye they visit Washington State on October 24, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Boise State's football uniforms for 2026?**
 

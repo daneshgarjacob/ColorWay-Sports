@@ -3,7 +3,7 @@ title: "Iowa Uniform Schedule 2026: Every Jersey and When the Hawkeyes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-11"
 excerpt: "Iowa uniform schedule 2026: every Hawkeyes jersey by game, the black home uniform, white road jersey, the all-black Cy-Hawk alternate, and what Iowa wears this week."
 gradient: "linear-gradient(135deg, #000000 0%, #1a1a1a 55%, #FFCD00 130%)"
 cardStyle: words
@@ -34,7 +34,7 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northern Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #FFCD00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Gold</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #FFCD00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Gold</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -54,7 +54,7 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
 
 **October 3 vs. Ohio State.** ★ Confirmed from the game photos: **black helmet, black jersey, black pants**, all black at Kinnick, with the gold Tigerhawk on the helmet. Ohio State wore the silver helmet, white jersey and white pants. Julian Sayin threw for 324 yards and three touchdowns, two of them to Jeremiah Smith, who caught 11 passes for 206 yards, and No. 5 Ohio State won 31-14 to hand Iowa its first loss. The Hawkeyes are 4-1. The Buckeyes' side is on our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026).
 
-**October 9 at Washington (Friday).** White expected. A Friday night trip to Husky Stadium, 9 p.m. Eastern and 6 p.m. local. Washington wears purple at home, which leaves Iowa in white. ESPN files this game under October 10 because its feed runs on UTC.
+**October 9 at Washington (Friday).** ★ Confirmed from Iowa's own game photos: **black helmet, white jersey, gold pants**, the road set, on a Friday night at Husky Stadium. Washington wore the gold helmet, purple jersey and purple pants; see our [Washington 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026). Iowa led 27-3 at halftime, rushed for 263 yards, recorded six sacks and won 41-24 to move to 5-1. ESPN files this game under October 10 because its feed runs on UTC.
 
 **October 17.** Bye.
 
@@ -72,13 +72,13 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
 
 ## The Bottom Line
 
-Five games in, Iowa has shown every piece of its closet: the black and gold home set for Northern Illinois, the white road set at Michigan, and the all-black alternate for Iowa State and Ohio State. Everything else on the calendar follows a simple rule. Black jersey and gold pants at Kinnick, white jersey and gold pants on the road, the same gold-striped Tigerhawk helmet every week. The open questions are Wisconsin on Halloween, the home date we are watching most closely for a third all-black night, and whichever home date carries the flag decal. The grid above has every date, and we add a star as each uniform is confirmed.
+Six games in, Iowa has shown every piece of its closet: the black and gold home set for Northern Illinois, the white road set at Michigan and Washington, and the all-black alternate for Iowa State and Ohio State. Everything else on the calendar follows a simple rule. Black jersey and gold pants at Kinnick, white jersey and gold pants on the road, the same gold-striped Tigerhawk helmet every week. The open questions are Wisconsin on Halloween, the home date we are watching most closely for a third all-black night, and whichever home date carries the flag decal. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Iowa wearing this week?**
 
-Iowa went all black at Kinnick Stadium against Ohio State on Saturday, October 3: black helmet, black jersey and black pants. The Buckeyes won 31-14, and the Hawkeyes are 4-1. Next is a Friday night trip to Washington on October 9, where the white road jersey is expected.
+Iowa wore the black helmet, white jersey and gold pants at Washington on Friday, October 9, confirmed from Iowa's own game photos, and won 41-24 to move to 5-1. A week earlier the Hawkeyes went all black against Ohio State at Kinnick Stadium. After the October 17 bye, Iowa visits Minnesota for Floyd of Rosedale on October 24, where white is expected.
 
 **What are Iowa's football uniforms for 2026?**
 

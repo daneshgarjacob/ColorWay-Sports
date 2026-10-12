@@ -5,7 +5,9 @@ import { getAllPosts } from "@/lib/posts";
 // leads with the postseason uniforms post and shows one chip per team still
 // alive, linking that team's schedule post. Built 2026-09-28.
 export const MLB_POSTSEASON_START = "2026-09-29";
-export const MLB_POSTSEASON_POST = "mlb-postseason-uniforms-2026";
+// Points at the current round's guide. Was mlb-postseason-uniforms-2026 (the
+// hub) through the Division Series; switched to the LCS guide 2026-10-11.
+export const MLB_POSTSEASON_POST = "mlb-championship-series-uniforms-2026";
 
 // Nickname for each playoff team, keyed by the schedule-post prefix
 // (<key>-uniform-schedule-2026).

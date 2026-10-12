@@ -34,6 +34,8 @@ The Rays (98-64) won the AL East and the No. 1 seed in the American League, so t
 
 The big uniform question is the road. The new gray with "TAMPA BAY" on the chest debuted September 22 and the Rays wore it on every day of their final road trip, so Games 3 and 4 could be its first postseason games. For every matchup and what each team is wearing, see our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026), and we log every game on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 
+**Update: the Rays are in the ALCS.** Tampa Bay swept the Yankees 3-0, wearing home whites for Games 1 and 2 and the new gray for its first postseason game in Game 3 at Yankee Stadium. The ALCS against the Guardians starts **Monday, October 12 at 8:00 p.m. ET at Tropicana Field**. Every ALCS game, with what we expect each team to wear, is on our [MLB Championship Series uniforms guide](/stories/mlb-championship-series-uniforms-2026).
+
 ## Sample Home-and-Road Week at a Glance
 
 <div style="margin: 1.5em 0 1em; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">

@@ -43,8 +43,8 @@ const TOOLS: { href: string; title: string; dek: string; theme: TileTheme }[] = 
 const POSTSEASON_TOOLS: typeof TOOLS = [
   {
     href: `/stories/${MLB_POSTSEASON_POST}`,
-    title: "Postseason Uniforms",
-    dek: "Every Matchup, What Each Team Wears And Who Picks.",
+    title: "ALCS & NLCS Uniforms",
+    dek: "Every Game, What Each Team Wears, Expected And Confirmed.",
     theme: "blue",
   },
   {
