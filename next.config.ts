@@ -78,6 +78,19 @@ const nextConfig: NextConfig = {
           { key: "X-Robots-Tag", value: "noindex" },
         ],
       },
+      // Team and league logos change almost never, but public/ files default to
+      // max-age=0, so every page view re-requested them (2026-10: 26M edge
+      // requests). A week of browser cache; a replaced logo shows within 7 days
+      // (rename the file if it must change sooner).
+      {
+        source: "/logos/:path*",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=604800, stale-while-revalidate=86400",
+          },
+        ],
+      },
     ];
   },
   async redirects() {

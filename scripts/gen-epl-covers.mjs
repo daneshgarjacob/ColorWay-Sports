@@ -13,7 +13,7 @@ import { homedir } from 'node:os';
 
 const W = 1500, H = 1000;
 const LIB = `${homedir()}/Desktop/colorway-archive/epl-2026-27-kits`;
-const PL = 'public/logos/leagues/soccer-premier-league.png';
+const PL = 'assets/logos-hires/leagues/soccer-premier-league.png';
 
 // shirt: file in LIB · label: what that shirt is, printed under the name
 const CLUBS = {
@@ -102,7 +102,7 @@ async function build(key) {
     const m = await sharp(mark).metadata();
     layers.push({ input: mark, left: Math.round(350 - m.width / 2), top: Math.round(500 - m.height / 2) });
   } else {
-    const src = `public/logos/teams/epl-${key}.png`;
+    const src = `assets/logos-hires/teams/epl-${key}.png`;
     if (!existsSync(src)) throw new Error(`missing crest ${src}`);
     const crest = await sharp(src).resize({ height: 400, width: 400, fit: 'inside' }).toBuffer();
     const m = await sharp(crest).metadata();

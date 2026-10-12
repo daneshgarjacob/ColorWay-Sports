@@ -8,7 +8,7 @@ const T = { primary: '#241773', deep: '#100a38', accent: '#C9A227', logo: 'nfl-b
 const COND = 'Avenir Next Condensed, Arial Narrow, Arial, sans-serif';
 
 async function logoBuf(height) {
-  const b = await sharp(`public/logos/teams/${T.logo}.png`).resize({ height, fit: 'inside' }).toBuffer();
+  const b = await sharp(`assets/logos-hires/teams/${T.logo}.png`).resize({ height, fit: 'inside' }).toBuffer();
   return { b, m: await sharp(b).metadata() };
 }
 const flag = (fill, s, x, y) => `

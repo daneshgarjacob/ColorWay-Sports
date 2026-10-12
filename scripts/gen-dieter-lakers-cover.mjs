@@ -38,7 +38,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <text x="${TX}" y="636" font-family="${F}" font-size="38" font-weight="600" fill="#ffffff">First time since 2016</text>
 </svg>`;
 
-const logo = await sharp('public/logos/teams/nba-los-angeles-lakers.png').trim().resize({ width: 600 }).png().toBuffer();
+const logo = await sharp('assets/logos-hires/teams/nba-los-angeles-lakers.png').trim().resize({ width: 600 }).png().toBuffer();
 const lm = await sharp(logo).metadata();
 const lockup = await sharp(LOCKUP).resize({ width: 360 }).png().toBuffer();
 

@@ -69,7 +69,7 @@ buffers.forEach(({ b, w }, i) => {
   composites.unshift({ input: b, left: X0 + i * STEP, top: TOP + (i % 2 ? 0 : 14) });
 });
 
-const bills = await sharp('public/logos/teams/nfl-buffalo-bills.png').resize({ height: 140, fit: 'inside' }).toBuffer();
+const bills = await sharp('assets/logos-hires/teams/nfl-buffalo-bills.png').resize({ height: 140, fit: 'inside' }).toBuffer();
 const billsMeta = await sharp(bills).metadata();
 composites.push({ input: bills, left: W - billsMeta.width - 90, top: 74 });
 

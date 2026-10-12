@@ -12,8 +12,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const DIR = resolve(__dirname, "../public/images/posts/cardinals-uniform-schedule-2026");
 const ART = `${DIR}/navy-caps-road.jpg`;
 const OUT = `${DIR}/cover.jpg`;
-const TEAM = resolve(__dirname, "../public/logos/teams/mlb-st-louis-cardinals.png");
-const LEAGUE = resolve(__dirname, "../public/logos/leagues/mlb.png");
+const TEAM = resolve(__dirname, "../assets/logos-hires/teams/mlb-st-louis-cardinals.png");
+const LEAGUE = resolve(__dirname, "../assets/logos-hires/leagues/mlb.png");
 
 const W = 1500;
 const H = 1000;

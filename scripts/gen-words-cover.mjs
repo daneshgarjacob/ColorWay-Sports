@@ -22,8 +22,8 @@ const CONFIGS = {
   'white-sox-southside': {
     out: 'public/images/posts/white-sox-southside-city-connect-tim-anderson',
     base: '#27251F', mid: '#1a1917', deep: '#0a0a0a', accent: '#C4CED4',
-    teamLogo: 'public/logos/teams/mlb-chicago-white-sox.png',
-    leagueLogo: 'public/logos/leagues/mlb.png',
+    teamLogo: 'assets/logos-hires/teams/mlb-chicago-white-sox.png',
+    leagueLogo: 'assets/logos-hires/leagues/mlb.png',
     // The White Sox mark is black, so it needs the light disc.
     disc: true,
     eyebrow: 'CHICAGO WHITE SOX',
@@ -34,8 +34,8 @@ const CONFIGS = {
   'buccaneers-schedule': {
     out: 'public/images/posts/buccaneers-uniform-schedule-2026',
     base: '#34302B', mid: '#211f1b', deep: '#0d0c0a', accent: '#D50A0A',
-    teamLogo: 'public/logos/teams/nfl-tampa-bay-buccaneers.png',
-    leagueLogo: 'public/logos/leagues/nfl.png',
+    teamLogo: 'assets/logos-hires/teams/nfl-tampa-bay-buccaneers.png',
+    leagueLogo: 'assets/logos-hires/leagues/nfl.png',
     eyebrow: 'TAMPA BAY BUCCANEERS',
     line1: 'ALL PEWTER',
     line2: 'IS HERE',
@@ -53,7 +53,7 @@ const CONFIGS = {
   'ty-gibbs-mms-bristol': {
     out: 'public/images/posts/ty-gibbs-mms-kyle-busch-bristol-2026',
     base: '#45230D', mid: '#2b1608', deep: '#120902', accent: '#FFD200',
-    leagueLogo: 'public/logos/leagues/racing-nascar.png',
+    leagueLogo: 'assets/logos-hires/leagues/racing-nascar.png',
     // No licensable sponsor mark, so the car number carries the left plate.
     mark: '54',
     markColor: '#FFD200',

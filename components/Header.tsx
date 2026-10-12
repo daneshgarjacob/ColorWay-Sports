@@ -345,6 +345,16 @@ export default function Header() {
   const searchInputRef = useRef<HTMLInputElement>(null);
   const searchBoxRef = useRef<HTMLDivElement>(null);
   const dropdownTimeout = useRef<ReturnType<typeof setTimeout> | null>(null);
+  // Logo <img> tags inside a menu render only once that menu has been opened.
+  // The links themselves are always in the server HTML (internal-link SEO),
+  // but ~350 hidden logo images on every page drove most of the 2026-10
+  // Vercel edge-request and transfer overage. Once a menu has opened, its
+  // logos stay mounted so reopening never flickers.
+  // Keys: desktop dropdowns = league label, mobile accordions = "m:" + label,
+  // the mobile drawer itself = "m:drawer".
+  const [openedMenus, setOpenedMenus] = useState<Set<string>>(() => new Set());
+  const markOpened = (key: string) =>
+    setOpenedMenus((prev) => (prev.has(key) ? prev : new Set(prev).add(key)));
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -438,6 +448,7 @@ export default function Header() {
 
   const handleMouseEnter = (label: string) => {
     if (dropdownTimeout.current) clearTimeout(dropdownTimeout.current);
+    markOpened(label);
     setOpenDropdown(label);
   };
 
@@ -565,6 +576,7 @@ export default function Header() {
           <button
             className="lg:hidden relative w-10 h-10"
             onClick={() => {
+              markOpened("m:drawer");
               setMobileOpen(!mobileOpen);
               setMobileLeague(null);
             }}
@@ -599,12 +611,13 @@ export default function Header() {
                       window.location.href = league.storiesLink.href;
                       return;
                     }
+                    markOpened(league.label);
                     setOpenDropdown(openDropdown === league.label ? null : league.label);
                     setOpenSub(null);
                   }}
                 >
                   {league.leagueLogo && (
-                    <img src={league.leagueLogo} alt="" className="w-[18px] h-[18px] object-contain flex-shrink-0" />
+                    <img src={league.leagueLogo} alt="" loading="lazy" className="w-[18px] h-[18px] object-contain flex-shrink-0" />
                   )}
                   {league.label}
                   {hasDropdown(league) && (
@@ -636,9 +649,11 @@ export default function Header() {
                         className="flex items-center gap-2 px-4 py-2.5 text-[13px] font-bold text-orange hover:bg-orange/5 transition-colors border-b border-border"
                         onClick={() => setOpenDropdown(null)}
                       >
-                        {league.leagueLogo && (
+                        {league.leagueLogo && (openedMenus.has(league.label) ? (
                           <img src={league.leagueLogo} alt="" className="w-5 h-5 object-contain flex-shrink-0" />
-                        )}
+                        ) : (
+                          <span className="w-5 h-5 flex-shrink-0" />
+                        ))}
                         {league.storiesLink.label}
                       </Link>
 
@@ -657,7 +672,7 @@ export default function Header() {
                                 className="flex items-center gap-2.5 px-4 py-2 text-[13px] text-gray-medium hover:text-orange transition-colors flex-1 min-w-0"
                                 onClick={() => setOpenDropdown(null)}
                               >
-                                {teamLogos[team] ? (
+                                {teamLogos[team] && openedMenus.has(league.label) ? (
                                   <img src={teamLogos[team]} alt="" className="w-5 h-5 object-contain flex-shrink-0" />
                                 ) : (
                                   <span className="w-5 h-5 flex-shrink-0" />
@@ -774,11 +789,13 @@ export default function Header() {
                   <button
                     className="w-full text-xl font-medium text-black transition-colors flex items-center justify-center gap-2 hover:text-[var(--league-accent)]"
                     style={{ "--league-accent": leagueColor(league.label) } as React.CSSProperties}
-                    onClick={() => { setMobileLeague(mobileLeague === league.label ? null : league.label); setMobileSub(null); }}
+                    onClick={() => { markOpened(`m:${league.label}`); setMobileLeague(mobileLeague === league.label ? null : league.label); setMobileSub(null); }}
                   >
-                    {league.leagueLogo && (
+                    {league.leagueLogo && (openedMenus.has("m:drawer") ? (
                       <img src={league.leagueLogo} alt="" className="w-[22px] h-[22px] object-contain flex-shrink-0" />
-                    )}
+                    ) : (
+                      <span className="w-[22px] h-[22px] flex-shrink-0" />
+                    ))}
                     {league.label}
                     <svg className={`w-4 h-4 transition-transform duration-200 ${mobileLeague === league.label ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
@@ -796,9 +813,11 @@ export default function Header() {
                         className="flex items-center gap-2 text-sm font-bold text-orange hover:text-orange/80 transition-colors py-1.5"
                         onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
                       >
-                        {league.leagueLogo && (
+                        {league.leagueLogo && (openedMenus.has(`m:${league.label}`) ? (
                           <img src={league.leagueLogo} alt="" className="w-4 h-4 object-contain" />
-                        )}
+                        ) : (
+                          <span className="w-4 h-4" />
+                        ))}
                         {league.storiesLink.label}
                       </Link>
                       {league.teams.map((team) => {
@@ -812,9 +831,11 @@ export default function Header() {
                               className="flex items-center gap-2 text-sm text-gray-medium hover:text-orange transition-colors py-1"
                               onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
                             >
-                              {teamLogos[team] && (
+                              {teamLogos[team] && (openedMenus.has(`m:${league.label}`) ? (
                                 <img src={teamLogos[team]} alt="" className="w-4 h-4 object-contain" />
-                              )}
+                              ) : (
+                                <span className="w-4 h-4" />
+                              ))}
                               {team}
                             </Link>
                             {clubs && (
@@ -866,9 +887,11 @@ export default function Header() {
                   className="flex items-center justify-center gap-2 text-xl font-medium text-black hover:text-orange transition-colors"
                   onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
                 >
-                  {league.leagueLogo && (
+                  {league.leagueLogo && (openedMenus.has("m:drawer") ? (
                     <img src={league.leagueLogo} alt="" className="w-[22px] h-[22px] object-contain flex-shrink-0" />
-                  )}
+                  ) : (
+                    <span className="w-[22px] h-[22px] flex-shrink-0" />
+                  ))}
                   {league.label}
                 </Link>
               )}

@@ -1,7 +1,7 @@
 import sharp from 'sharp';
 import { readdirSync } from 'node:fs';
 const W = 1500, H = 1000;
-const logos = readdirSync('public/logos/teams').filter(f => f.startsWith('mlb-')).sort();
+const logos = readdirSync('assets/logos-hires/teams').filter(f => f.startsWith('mlb-')).sort();
 const M = 92; // shared left margin for kicker, logos, headline
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
@@ -42,7 +42,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
 const comps = [];
 // 3 rows x 10, left edge of every column aligned, first column flush at M
 for (let i = 0; i < 30; i++) {
-  const buf = await sharp(`public/logos/teams/${logos[i]}`).resize({ height: 94, width: 116, fit: 'inside' }).toBuffer();
+  const buf = await sharp(`assets/logos-hires/teams/${logos[i]}`).resize({ height: 94, width: 116, fit: 'inside' }).toBuffer();
   const m = await sharp(buf).metadata();
   const row = Math.floor(i / 10), col = i % 10;
   const cellX = M + col * 138;
@@ -50,7 +50,7 @@ for (let i = 0; i < 30; i++) {
   comps.push({ input: buf, left: cellX, top: Math.round(cy - m.height / 2) });
 }
 // real wordmark bottom-right next to the drawn flag roundel
-const shield = await sharp('public/logos/leagues/mlb.png').resize({ height: 84, width: 150, fit: 'inside' }).toBuffer();
+const shield = await sharp('assets/logos-hires/leagues/mlb.png').resize({ height: 84, width: 150, fit: 'inside' }).toBuffer();
 const sm = await sharp(shield).metadata();
 comps.push({ input: shield, left: Math.round(M + 8 * 138 + 69 + 58 - sm.width / 2), top: 50 }); // centred between the Rockies and Tigers columns
 const wm = await sharp('public/brand/colorway-sports-logo-white.png').resize({ height: 30 }).toBuffer();

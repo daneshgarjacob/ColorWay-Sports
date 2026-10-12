@@ -114,7 +114,7 @@ for (let i = 0; i < slugs.length && i < MAX; i++) {
 }
 
 // NBA logo top-right, level with the kicker bars (same placement idea as the MLB/NFL marks);
-const logo = await sharp("public/logos/leagues/nba.png").trim({ threshold: 1 }).resize({ height: 96, width: 150, fit: "inside" }).toBuffer();
+const logo = await sharp("assets/logos-hires/leagues/nba.png").trim({ threshold: 1 }).resize({ height: 96, width: 150, fit: "inside" }).toBuffer();
 const lm = await sharp(logo).metadata();
 // right edge of the logo lines up with the right edge of the last jersey column
 comps.push({ input: logo, left: Math.round(M + (COLS - 1) * CELL_W + BOX_W - lm.width), top: 42 });

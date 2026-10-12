@@ -208,11 +208,11 @@ async function build(key) {
         font-weight="700" fill="#ffffff" opacity="0.42" letter-spacing="4">COLORWAY SPORTS</text>
 </svg>`;
 
-  const team = await sharp(`public/logos/teams/${t.logo}.png`)
+  const team = await sharp(`assets/logos-hires/teams/${t.logo}.png`)
     .resize({ height: 250, fit: 'inside' }).toBuffer();
   const teamMeta = await sharp(team).metadata();
 
-  const nfl = await sharp('public/logos/leagues/nfl.png')
+  const nfl = await sharp('assets/logos-hires/leagues/nfl.png')
     .resize({ height: 86, fit: 'inside' }).toBuffer();
   const nflMeta = await sharp(nfl).metadata();
 

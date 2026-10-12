@@ -47,7 +47,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
 const LOGO_H = 220;
 const composites = [];
 for (let i = 0; i < LOGOS.length; i++) {
-  const buf = await sharp(`public/logos/teams/${LOGOS[i]}.png`)
+  const buf = await sharp(`assets/logos-hires/teams/${LOGOS[i]}.png`)
     .resize({ height: LOGO_H, width: 260, fit: 'inside' }).toBuffer();
   const meta = await sharp(buf).metadata();
   const row = Math.floor(i / 4), col = i % 4;
@@ -62,7 +62,7 @@ for (let i = 0; i < LOGOS.length; i++) {
 }
 
 // NFL shield centered between the crest rows, where the ghost wordmark peaks.
-const shield = await sharp('public/logos/leagues/nfl.png')
+const shield = await sharp('assets/logos-hires/leagues/nfl.png')
   .resize({ height: 84, fit: "inside" }).toBuffer();
 const shieldMeta = await sharp(shield).metadata();
 composites.push({

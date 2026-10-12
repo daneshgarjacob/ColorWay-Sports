@@ -10,7 +10,7 @@ const RED = '#D50A0A';        // NFL red
 const BRAND = '#2f6bed';      // site brand blue (app/globals.css --color-orange)
 const PAD = 24;               // inner padding on the kicker bars
 
-const logos = readdirSync('public/logos/teams').filter(f => f.startsWith('nfl-')).sort();
+const logos = readdirSync('assets/logos-hires/teams').filter(f => f.startsWith('nfl-')).sort();
 if (logos.length !== 32) throw new Error(`expected 32 NFL logos, found ${logos.length}`);
 
 // measure painted text so both kicker bars get even padding instead of a guessed width
@@ -59,14 +59,14 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
 const comps = [];
 // 4 rows x 8, centred in a 140-wide cell
 for (let i = 0; i < 32; i++) {
-  const buf = await sharp(`public/logos/teams/${logos[i]}`).resize({ height: 104, width: 140, fit: 'inside' }).toBuffer();
+  const buf = await sharp(`assets/logos-hires/teams/${logos[i]}`).resize({ height: 104, width: 140, fit: 'inside' }).toBuffer();
   const m = await sharp(buf).metadata();
   const cx = M + (i % 8) * 158 + 70, cy = 213 + Math.floor(i / 8) * 128;
   comps.push({ input: buf, left: Math.round(cx - m.width / 2), top: Math.round(cy - m.height / 2) });
 }
 
 // NFL shield, centred between the Bengals and Browns columns
-const shield = await sharp('public/logos/leagues/nfl.png').resize({ height: 96, width: 140, fit: 'inside' }).toBuffer();
+const shield = await sharp('assets/logos-hires/leagues/nfl.png').resize({ height: 96, width: 140, fit: 'inside' }).toBuffer();
 const sm = await sharp(shield).metadata();
 comps.push({ input: shield, left: Math.round(M + 6 * 158 + 70 + 79 - sm.width / 2), top: 44 });
 

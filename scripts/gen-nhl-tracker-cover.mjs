@@ -5,7 +5,7 @@
 import sharp from 'sharp';
 import { readdirSync } from 'node:fs';
 const W = 1500, H = 1000;
-const logos = readdirSync('public/logos/teams').filter(f => f.startsWith('nhl-')).sort();
+const logos = readdirSync('assets/logos-hires/teams').filter(f => f.startsWith('nhl-')).sort();
 const M = 92;
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
@@ -47,14 +47,14 @@ ${Array.from({ length: 32 }, (_, i) => `<circle cx="${M + (i % 8) * 140 + 54}" c
 const comps = [];
 // 4 rows x 8, left edge of every column aligned, first column flush at M
 for (let i = 0; i < 32; i++) {
-  const buf = await sharp(`public/logos/teams/${logos[i]}`).resize({ height: 66, width: 76, fit: 'inside' }).toBuffer();
+  const buf = await sharp(`assets/logos-hires/teams/${logos[i]}`).resize({ height: 66, width: 76, fit: 'inside' }).toBuffer();
   const m = await sharp(buf).metadata();
   const row = Math.floor(i / 8), col = i % 8;
   const cellX = M + col * 140;
   const cy = 170 + row * 112 + 41;
   comps.push({ input: buf, left: Math.round(cellX + 54 - m.width / 2), top: Math.round(cy - m.height / 2) });
 }
-const shield = await sharp('public/logos/leagues/nhl.png').resize({ height: 120, width: 150, fit: 'inside' }).toBuffer();
+const shield = await sharp('assets/logos-hires/leagues/nhl.png').resize({ height: 120, width: 150, fit: 'inside' }).toBuffer();
 const sm = await sharp(shield).metadata();
 comps.push({ input: shield, left: Math.round(1250 - sm.width / 2), top: 36 });
 const wm = await sharp('public/brand/colorway-sports-logo-white.png').resize({ height: 30 }).toBuffer();

@@ -45,7 +45,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <text x="${TX}" y="612" font-family="${F}" font-size="36" font-weight="600" fill="#ffffff">Sunday Night Football vs. Ravens</text>
 </svg>`;
 
-const logo = await sharp('public/logos/teams/nfl-atlanta-falcons.png').trim().resize({ height: 520 }).png().toBuffer();
+const logo = await sharp('assets/logos-hires/teams/nfl-atlanta-falcons.png').trim().resize({ height: 520 }).png().toBuffer();
 const lm = await sharp(logo).metadata();
 const lockup = await sharp(LOCKUP).resize({ width: 340 }).png().toBuffer();
 

@@ -13,8 +13,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const DIR = resolve(__dirname, "../public/images/posts/broncos-uniform-schedule-2026");
 const ART = `${DIR}/uniform-schedule-graphic.jpg`;
 const OUT = `${DIR}/cover.jpg`;
-const TEAM = resolve(__dirname, "../public/logos/teams/nfl-denver-broncos.png");
-const LEAGUE = resolve(__dirname, "../public/logos/leagues/nfl.png");
+const TEAM = resolve(__dirname, "../assets/logos-hires/teams/nfl-denver-broncos.png");
+const LEAGUE = resolve(__dirname, "../assets/logos-hires/leagues/nfl.png");
 
 const W = 1500;
 const H = 1000;

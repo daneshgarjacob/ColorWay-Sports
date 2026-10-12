@@ -60,11 +60,11 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
         font-weight="700" fill="#ffffff" opacity="0.42" letter-spacing="4">COLORWAY SPORTS</text>
 </svg>`;
 
-const jets = await sharp('public/logos/teams/nfl-new-york-jets.png')
+const jets = await sharp('assets/logos-hires/teams/nfl-new-york-jets.png')
   .resize({ height: 250, fit: 'inside' }).toBuffer();
 const jetsMeta = await sharp(jets).metadata();
 
-const nfl = await sharp('public/logos/leagues/nfl.png')
+const nfl = await sharp('assets/logos-hires/leagues/nfl.png')
   .resize({ height: 86, fit: 'inside' }).toBuffer();
 const nflMeta = await sharp(nfl).metadata();
 

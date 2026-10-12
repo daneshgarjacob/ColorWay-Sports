@@ -20,7 +20,7 @@ const flag = (fill, s = 1, x = 0, y = 0) => `
   </g>`;
 
 async function logoBuf(height, maxW = 480) {
-  const b = await sharp(`public/logos/teams/${TEAM.logo}.png`).resize({ height, width: maxW, fit: 'inside' }).toBuffer();
+  const b = await sharp(`assets/logos-hires/teams/${TEAM.logo}.png`).resize({ height, width: maxW, fit: 'inside' }).toBuffer();
   return { b, m: await sharp(b).metadata() };
 }
 

@@ -9,7 +9,7 @@
 import sharp from 'sharp';
 import { readdirSync } from 'node:fs';
 const W = 1500, H = 1000;
-const logos = readdirSync('public/logos/teams').filter(f => f.startsWith('epl-')).sort();
+const logos = readdirSync('assets/logos-hires/teams').filter(f => f.startsWith('epl-')).sort();
 if (logos.length !== 20) throw new Error(`expected 20 epl-*.png logos, found ${logos.length}`);
 const M = 92; // shared left margin for kicker, badges, headline
 
@@ -54,7 +54,7 @@ const comps = [];
 // 2 rows x 10, left edge of every column aligned, first column flush at M.
 // Two rows instead of the MLB three, so the badges run larger.
 for (let i = 0; i < 20; i++) {
-  const buf = await sharp(`public/logos/teams/${logos[i]}`).resize({ height: 138, width: 118, fit: 'inside' }).toBuffer();
+  const buf = await sharp(`assets/logos-hires/teams/${logos[i]}`).resize({ height: 138, width: 118, fit: 'inside' }).toBuffer();
   const m = await sharp(buf).metadata();
   const row = Math.floor(i / 10), col = i % 10;
   const cellX = M + col * 138 + Math.round((118 - m.width) / 2);

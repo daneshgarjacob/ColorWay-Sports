@@ -63,7 +63,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
         font-weight="800" fill="#ffffff" opacity="0.4" letter-spacing="4">COLORWAYSPORTS.COM</text>
 </svg>`;
 
-const team = await sharp(`public/logos/teams/${logo}.png`)
+const team = await sharp(`assets/logos-hires/teams/${logo}.png`)
   .resize({ height: 360, width: 420, fit: 'inside' }).toBuffer();
 const teamMeta = await sharp(team).metadata();
 
