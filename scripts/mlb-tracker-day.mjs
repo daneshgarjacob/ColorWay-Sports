@@ -41,7 +41,9 @@ if (!date) { console.error("usage: mlb-tracker-day.mjs YYYY-MM-DD"); process.exi
 
 // ---- learn the card vocabulary from the existing tracker -------------------
 const md = fs.readFileSync(TRACKER, "utf8");
-const SIDE = /<img src="(\/images\/posts\/mlb-daily-tracker\/[^"]+)" alt="([^"]*)"[\s\S]*?line-height: 1\.2;">([^<]+)<\/p>[\s\S]*?background: (#[0-9A-Fa-f]{6});[^>]*><\/span>([^<]+)<\/p>/g;
+// (?!round-logos\/) keeps the postseason round logo above the pill from being
+// learned as the away team's jersey tile.
+const SIDE = /<img src="(\/images\/posts\/mlb-daily-tracker\/(?!round-logos\/)[^"]+)" alt="([^"]*)"[\s\S]*?line-height: 1\.2;">([^<]+)<\/p>[\s\S]*?background: (#[0-9A-Fa-f]{6});[^>]*><\/span>([^<]+)<\/p>/g;
 
 const tile = new Map();     // `${slug}|${uniform}` -> {src, swatch}
 const label = new Map();    // slug -> short label e.g. SOX
@@ -111,6 +113,42 @@ const games = sched?.dates?.[0]?.games ?? [];
 games.sort((a, b) => new Date(b.gameDate) - new Date(a.gameDate));
 // Caps from the uniform feed (Jake 9/14: build the hats in). Empty when not filed yet.
 const caps = await fetchCaps(date, SLUG);
+
+// ---- postseason round logo (Jake approved "Option A" 10/12) ---------------
+// The official round logo sits centered above the status pill. Detected from the
+// statsapi game (gameType L + seriesDescription "AL..."/"NL..." -> alcs/nlcs,
+// gameType W -> world-series). The confirmed file can force it with an optional
+// "_round" key ("alcs" | "nlcs" | "world-series" | "none"). Missing file = warn
+// and render no logo. Regular season, Wild Card and Division Series get nothing.
+const LOGO_DIR = "/images/posts/mlb-round-logos";
+const ROUND = {
+  alcs: { file: "alcs-2026.png", alt: "2026 ALCS logo", height: 22 },
+  nlcs: { file: "nlcs-2026.png", alt: "2026 NLCS logo", height: 22 },
+  "world-series": { file: "world-series-2026.png", alt: "2026 World Series logo", height: 44 },
+};
+function roundOf(g) {
+  const o = confirmed._round;
+  if (o) return o === "none" ? null : o;
+  if (g.gameType === "W") return "world-series";
+  if (g.gameType === "L") {
+    const d = g.seriesDescription ?? "";
+    if (d.startsWith("AL")) return "alcs";
+    if (d.startsWith("NL")) return "nlcs";
+  }
+  return null;
+}
+function roundLogo(g) {
+  const key = roundOf(g);
+  if (!key) return "";
+  const r = ROUND[key];
+  if (!r) { problems.push(`_round "${key}" unknown - no round logo`); return ""; }
+  if (!fs.existsSync(`public${LOGO_DIR}/${r.file}`)) {
+    problems.push(`round logo public${LOGO_DIR}/${r.file} missing - card emitted without it`);
+    return "";
+  }
+  return `
+  <div style="text-align: center; margin: 0 0 12px;"><img src="${LOGO_DIR}/${r.file}" alt="${r.alt}" title="via MLB" style="height: ${r.height}px; width: auto; display: inline-block; vertical-align: middle;" /></div>`;
+}
 
 const pretty = new Date(date + "T12:00:00Z").toLocaleDateString("en-US",
   { weekday: "long", month: "long", day: "numeric", timeZone: "UTC" });
@@ -195,7 +233,7 @@ for (const g of games) {
 
   out.push(`### ${aName} at ${hName}${g.gameNumber > 1 ? `, Game ${g.gameNumber}` : ""}`, "",
 `<div style="margin: 1.4em 0 0.6em;">
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">${roundLogo(g)}
   <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">${pill}</span>
   </div>

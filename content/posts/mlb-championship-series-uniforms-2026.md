@@ -26,6 +26,7 @@ What are the teams wearing in the 2026 MLB Championship Series? Four teams are l
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+  <div style="text-align: center; margin: 0 0 12px;"><img src="/images/posts/mlb-round-logos/nlcs-2026.png" alt="2026 NLCS logo" title="via MLB" style="height: 22px; width: auto; display: inline-block; vertical-align: middle;" /></div>
   <div style="text-align: center; margin-bottom: 12px;">
     <span style="padding: 4px 14px; background: linear-gradient(90deg, #005A9C 0%, #0E3386 100%); border-radius: 999px; font-size: 10px; font-weight: 800; color: #ffffff; text-transform: uppercase; letter-spacing: 2px; display: inline-block;">Final &middot; Brewers 2, Dodgers 1</span>
   </div>
