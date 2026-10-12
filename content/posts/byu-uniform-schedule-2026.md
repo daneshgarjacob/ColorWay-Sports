@@ -3,7 +3,7 @@ title: "BYU Uniform Schedule 2026: Every Jersey and When the Cougars Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-12"
 excerpt: "What BYU wears every game in 2026: royal home jerseys, white road uniforms, navy looks, helmet swaps, and the full Cougars uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002E5D 0%, #0062B8 55%, #ffffff 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["byu-cougars", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-BYU wears royal blue at home and white on the road, but the Cougars almost never wear the same full combination twice in a season. They pick a new pairing of helmet, jersey and pants every week and reveal it on the Monday of game week. This is the full BYU 2026 uniform schedule: the royal home set, the white road set, the navy accents, both helmets, and all twelve games week by week. All five games so far are confirmed, and BYU is 5-0. We update this page every Monday when BYU reveals the next one.
+BYU wears royal blue at home and white on the road, but the Cougars almost never wear the same full combination twice in a season. They pick a new pairing of helmet, jersey and pants every week and reveal it on the Monday of game week. This is the full BYU 2026 uniform schedule: the royal home set, the white road set, the navy accents, both helmets, and all twelve games week by week. All five games so far are confirmed, BYU is 5-0, and the Notre Dame look is already announced. We update this page every Monday when BYU reveals the next one.
 
 ## The BYU 2026 Uniform Sets
 
@@ -37,7 +37,7 @@ BYU has not announced a 2026 alternate or throwback yet. Its past specials inclu
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #002E5D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Royal / White / White</div></div>
   <div style="background: #002E5D; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
-  <div style="background: #0062B8; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Royal</div></div>
+  <div style="background: #0062B8; color: #ffffff; border: 2px solid #002E5D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Announced: White / Royal / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0062B8; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Royal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -68,7 +68,7 @@ See the [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026) for the 
 
 **October 9 vs. Iowa State.** ★ Confirmed from the broadcast: **white helmet, navy jersey, white pants**, not the royal we expected. It is BYU's first navy jersey of 2026, and the broadcast makes the difference easy to see: the jersey reads clearly darker than the royal blue end zones and stadium wall in the same frames. The Big 12 moved this game from Saturday to Friday night, 8:15 p.m. Mountain, BYU's only weeknight game this season, during homecoming week. Iowa State wore the cardinal helmet, white jersey and cardinal pants; see our [Iowa State 2026 uniform schedule](/stories/iowa-state-uniform-schedule-2026). Bear Bachmeier threw a 74-yard touchdown pass, and BYU won 24-10 to move to 5-0.
 
-**October 17 vs. Notre Dame.** Royal expected. BYU's schedule release says this is Notre Dame's first trip to Provo in more than 20 years. It is the biggest home game on the schedule, and the last time these teams met, in Las Vegas in 2022, BYU wore black with a gradient helmet. If BYU has a special uniform planned for 2026, this is the date we would watch. Notre Dame is expected in white; see the [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026).
+**October 17 vs. Notre Dame**, LaVell Edwards Stadium, 7:30 p.m. ET (5:30 p.m. Mountain) on ABC. Announced: **white helmet, royal jersey, white pants**. BYU revealed it on Monday of game week with a Gameday Threads vs Notre Dame graphic: the white shell with royal stripes, a royal facemask and the royal oval Y, over the royal home jersey with white numbers and white pants. It is the royal jersey, not the navy BYU wore against Iowa State a week earlier, and the graphic shows the Entrata patch on the chest. BYU has not worn this exact helmet, jersey and pants combination yet in 2026: the royal helmet sat over royal and white against Utah Tech, and the white helmet went over all royal against Arizona. So there is no special uniform for the biggest home game on the schedule, which BYU's schedule release calls Notre Dame's first trip to Provo in more than 20 years. The last time these teams met, in Las Vegas in 2022, BYU wore black with a gradient helmet. We will star it once we see it on the broadcast. Notre Dame is expected in white; see the [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026).
 
 **October 24 at UCF.** White expected. A road trip to Orlando and the Acrisure Bounce House.
 
@@ -84,13 +84,13 @@ See the [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026) for the 
 
 ## The Bottom Line
 
-BYU has one of the easiest color rules in the sport and one of the hardest wardrobes to predict. Royal is the default at home and white is locked in on the road. The helmet, facemask and pants change every week. The first five games already show the range: a royal helmet over royal and white, a white helmet over all royal, an all-white road look with navy trim, the royal helmet over the white jersey and white pants at TCU, and a white helmet over a navy jersey and white pants for homecoming week against Iowa State, the first time BYU stepped out of royal at home. With Notre Dame coming to Provo and no 2026 alternate announced yet, the October 17 date is the one to watch. We update the grid every Monday when BYU posts the next combination.
+BYU has one of the easiest color rules in the sport and one of the hardest wardrobes to predict. Royal is the default at home and white is locked in on the road. The helmet, facemask and pants change every week. The first five games already show the range: a royal helmet over royal and white, a white helmet over all royal, an all-white road look with navy trim, the royal helmet over the white jersey and white pants at TCU, and a white helmet over a navy jersey and white pants for homecoming week against Iowa State, the first time BYU stepped out of royal at home. For Notre Dame's visit to Provo on October 17, BYU skipped a special look and went with the white helmet over the royal jersey and white pants. We update the grid every Monday when BYU posts the next combination.
 
 ## Frequently Asked Questions
 
 **What jersey is BYU wearing this week?**
 
-BYU wore the white helmet, a navy jersey and white pants against Iowa State on Friday, October 9, during homecoming week, confirmed from the broadcast, and won 24-10 to move to 5-0. It was BYU's first navy jersey of 2026. Next is Notre Dame in Provo on October 17, where royal is expected, with the full combination revealed on Monday of game week.
+Against Notre Dame in Provo on Saturday, October 17, BYU will wear a white helmet, royal jersey and white pants. BYU announced it on Monday of game week with its Gameday Threads graphic, and the jersey is royal, not navy. Kickoff is 7:30 p.m. ET on ABC. BYU's last game was a 24-10 win over Iowa State on Friday, October 9, in the white helmet, a navy jersey and white pants, its first navy jersey of 2026.
 
 **What are BYU's football uniforms for 2026?**
 
@@ -98,7 +98,7 @@ A royal blue home jersey with white numerals and white shoulder stripes, a white
 
 **Does BYU have a new alternate uniform in 2026?**
 
-Not yet. BYU has not announced a throwback or alternate for 2026. It reveals each game's combination on the Monday before kickoff, so a special look could show up with little notice. The Notre Dame game on October 17 is the most likely spot.
+Not yet. BYU has not announced a throwback or alternate for 2026. It reveals each game's combination on the Monday before kickoff, so a special look could show up with little notice. The Notre Dame game on October 17 looked like the most likely spot, but BYU announced its regular white helmet, royal jersey and white pants for it.
 
 **What did BYU wear against Arizona?**
 

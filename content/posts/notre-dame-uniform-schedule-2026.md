@@ -3,7 +3,7 @@ title: "Notre Dame Uniform Schedule 2026: Every Jersey and the Date the Irish We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-12"
 excerpt: "What Notre Dame wears every game in 2026: the confirmed green jersey date, the Lambeau Field Shamrock Series uniform, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #00843D 55%, #C99700 130%)"
 cardStyle: words
@@ -69,7 +69,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
 
 **October 10 vs. Stanford**, Notre Dame Stadium, 3:30 p.m. on NBC. ★ Confirmed from the game photos: **gold helmet, Kelly green jersey, green pants**, the Irish Wear Green set exactly as announced for the annual green-out. Stanford wore all white, a white helmet with the cardinal S, white jersey and white pants. Notre Dame led 37-0 at halftime and won 58-7 to move to 6-0, and the Irish are now 4-1 in the Irish Wear Green game since it started in 2022. See our [Stanford 2026 uniform schedule](/stories/stanford-uniform-schedule-2026) for the Cardinal side.
 
-**October 17 at BYU**, LaVell Edwards Stadium. White expected.
+**October 17 at BYU**, LaVell Edwards Stadium, 7:30 p.m. ET on ABC. White expected. BYU has already announced its side: **white helmet, royal jersey, white pants**, revealed on Monday of game week with its Gameday Threads graphic. That is the royal blue home jersey, not the navy BYU wore against Iowa State on October 9, so a white Notre Dame would be gold and white against royal and white. See our [BYU 2026 uniform schedule](/stories/byu-uniform-schedule-2026) for the Cougars' week by week looks.
 
 **October 24.** Bye.
 
@@ -111,7 +111,7 @@ The rest is the most predictable wardrobe in college football, which is the poin
 
 **When does Notre Dame wear green in 2026?**
 
-Notre Dame wore green on Saturday, October 10, against Stanford at Notre Dame Stadium in the annual Irish Wear Green game. Confirmed from the game photos: gold helmet, Kelly green jersey and green pants, with the Leprechaun logo replacing the ND monogram on the shoulders. Notre Dame won 58-7 to move to 6-0. Next up is at BYU on October 17, where white is expected.
+Notre Dame wore green on Saturday, October 10, against Stanford at Notre Dame Stadium in the annual Irish Wear Green game. Confirmed from the game photos: gold helmet, Kelly green jersey and green pants, with the Leprechaun logo replacing the ND monogram on the shoulders. Notre Dame won 58-7 to move to 6-0. Next up is at BYU on October 17, where white is expected. BYU has announced a white helmet, royal jersey and white pants for that game.
 
 **What uniform is Notre Dame wearing against Wisconsin at Lambeau Field?**
 
