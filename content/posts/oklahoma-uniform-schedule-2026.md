@@ -3,7 +3,7 @@ title: "Oklahoma Uniform Schedule 2026: Every Jersey and When the Sooners Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-13"
 excerpt: "The full Oklahoma 2026 uniform schedule: crimson jerseys at home, white on the road, the anthracite and throwback alternates, and every Sooners date week by week."
 gradient: "linear-gradient(135deg, #841617 0%, #5c0f10 55%, #FDF9D8 130%)"
 cardStyle: words
@@ -58,7 +58,7 @@ Under the SEC convention the home team wears color and the visitor wears white, 
 
 **October 10 vs. Texas**, Cotton Bowl, Dallas. The Red River rivalry at a neutral site, with Oklahoma the designated home team this year. ★ Confirmed from the broadcast: **crimson helmet with the white interlocking OU, crimson jersey, white pants**, the crimson look the Sooners have traditionally worn in Dallas. No. 1 Texas wore all white, white helmet, white jersey, white pants. Texas led 17-7 at halftime, then Oklahoma scored 17 in the fourth quarter, with a Peyton Bowen pick-six putting the Sooners in front, and won 27-24 to move to 3-2. The Longhorns' side is on our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
 
-**October 17 vs. Kentucky**, Norman. Crimson expected.
+**October 17 vs. Kentucky**, Norman. Crimson expected. Kentucky has announced a new look for this game: black helmet, white jersey and black pants. [Kentucky 2026 uniform schedule](/stories/kentucky-uniform-schedule-2026).
 
 **October 24 at Mississippi State**, Starkville. White expected. Mississippi State wears maroon at home, so no clash risk here.
 

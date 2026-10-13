@@ -3,7 +3,7 @@ topViewsRank: 9
 title: "Seattle Seahawks Jerseys and Uniform Schedule 2026: Throwback Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "The Seahawks' 2026 uniform schedule: confirmed dates for two royal blue throwback games and the Christmas Day Rivalries jersey, plus the college navy and white sets."
 gradient: "linear-gradient(135deg, #0b3a6b 0%, #002244 55%, #000d1c 130%)"
 coverImage: "/images/posts/seahawks-uniform-schedule-2026/cover.jpg"
@@ -60,7 +60,7 @@ Here is the whole season at a glance. The confirmed games are marked with a star
 
 ## The Royal Blue Throwback (Weeks 6, 7 and 13)
 
-Seattle is wearing its royal blue throwback three times, and every time in primetime. The first is on the road, Week 6 at Denver on Thursday Night Football, with the Broncos in their orange classic throwback, so both clubs go retro. The second is Week 7 against Kansas City on Sunday, October 25 on Sunday Night Football, which the team is billing around the royal blue uniform. The third is Week 13 against Dallas on Monday, December 7, another throwback night under the lights.
+Seattle is wearing its royal blue throwback three times, and every time in primetime. The first is on the road, Week 6 at Denver on Thursday Night Football, with the Broncos in their orange classic throwback, so both clubs go retro. On October 13 both teams confirmed it for Thursday, October 15: Seattle wears the royal blue jersey with the silver helmet and silver pants, and Denver showed its royal blue helmets with the orange "D" logo and white facemasks to go with the orange jersey. The second is Week 7 against Kansas City on Sunday, October 25 on Sunday Night Football, which the team is billing around the royal blue uniform. The third is Week 13 against Dallas on Monday, December 7, another throwback night under the lights.
 
 This is the best decision on the schedule. The royal blue and silver set, with the green trim and the original logo, is the uniform the franchise built its identity on, and it is one of the few genuine throwbacks in the league that looks better than the modern set it replaced. The current college navy is fine. The royal blue is memorable, and the difference is not subtle.
 
@@ -120,7 +120,7 @@ College Navy at home and white on the road, with three confirmed exceptions: the
 
 **What jerseys are the Seahawks wearing this week?**
 
-Navy at home against San Francisco in Week 5 on Sunday, October 11: navy helmet, college navy jersey, wolf grey pants, confirmed. The 49ers are in white with gold pants. For the rest of the season: College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day. Seattle also wears the royal blue throwback on the road in Week 6 at Denver, with the Broncos in their orange classic throwback.
+Week 6 at Denver on Thursday Night Football, October 15: the royal blue throwback with the silver helmet and silver pants, confirmed by the team on October 13. Denver wears its orange throwback with the royal blue "D" helmet. Last week, Seattle wore the navy helmet, college navy jersey and wolf grey pants at home against San Francisco. For the rest of the season: College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day. Seattle also wears the royal blue throwback on the road in Week 6 at Denver, with the Broncos in their orange classic throwback.
 
 **What uniform did the Seahawks wear last week?**
 

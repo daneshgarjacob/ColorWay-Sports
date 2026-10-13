@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-13"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -167,13 +167,21 @@ Denver announced them separately, and the wording on the second one tells you th
 <img src="/images/posts/broncos-uniform-schedule-2026/throwback-week-18-chargers.jpg" alt="Denver Broncos Orange Crush throwback uniform for Week 18 against the Chargers at Empower Field at Mile High" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Denver Broncos</p>
 
-Look at what the set actually is. The royal blue helmet with the white "D", the orange jersey with white numbers outlined in blue, white pants, and the striped socks that nobody else in the league is running. It is a complete late-70s package rather than a modern uniform with a retro logo dropped on it, and it photographs beautifully in daylight at altitude.
+Look at what the set actually is. The royal blue helmet with the orange "D" and the white bucking bronco inside it, an orange center stripe and a white facemask, the orange jersey with white numbers outlined in blue, white pants with an orange and blue side stripe, and the striped socks that nobody else in the league is running. It is a complete late-70s package rather than a modern uniform with a retro logo dropped on it, and it photographs beautifully in daylight at altitude.
 
 This is the one real complaint we have with an otherwise well-built schedule. The Orange Crush throwback is the best uniform the Broncos own and one of the best in the league, full stop. It is the rare throwback that does not feel like a costume, because Denver never stopped being that team in the fan base's head. It grades an A from us and we would not argue with anyone who called it higher.
 
 And it gets the same two games as a modern alternate that was invented in 2024.
 
 We understand the constraint. Teams are capped on alternate games, and Denver used its full allotment of four. But the allocation inside that cap was a choice, and splitting it two-and-two treats the throwback and the Midnight Navy as equals. They are not. If you have four alternate games and one of your alternates is a genuine classic, give it three and give the modern one a single primetime slot. The Christmas game would still have been a great navy showcase on its own.
+
+### Week 6 Is This Thursday: The "D" Helmets Are Out
+
+Denver showed the Week 6 look on Tuesday, October 13, two days before kickoff: a rack of royal blue helmets with the orange "D" and white bronco, an orange center stripe trimmed in white, and white facemasks, plus a locker room video of the decals going on and the orange throwback jerseys hanging with blue and white sleeve stripes. The team's own release describes the full set as orange jerseys with oversized white numbers and Legacy Blue trim, pants with an orange and Legacy Blue side stripe, and orange and blue striped socks. The Broncos' Week 18 graphic shows those pants in white. Seattle comes in wearing its royal blue throwback with silver helmets and silver pants, so this is a true color vs color game. Kickoff is Thursday, October 15, at 6:15 p.m. Mountain on Prime Video.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2110062290292625502"></a></blockquote>
+</div>
 
 There is a small consolation. The Week 6 throwback is on Thursday Night Football, so at least one of the two lands in a standalone national window rather than getting buried in the 1 p.m. wall. The Week 18 date against the Chargers is scheduled for January 9 or 10, 2027, with the broadcast still to be determined, which means it could end up in a good window or a forgotten one depending on what the season looks like by then.
 
@@ -203,7 +211,7 @@ Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7,
 
 **What jerseys are the Broncos wearing this week?**
 
-Week 5 at the Chargers on Sunday, October 11, worn: navy helmet, Summit White jersey and white pants, confirmed from the game photos. The Chargers wore powder blue over powder blue pants, and Denver won 23-17. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
+Week 6 against Seattle on Thursday Night Football, October 15: the Orange Crush throwback. Royal blue helmet with the orange "D" logo and a white facemask, orange jersey with white numbers and blue trim, white pants with an orange and blue stripe, and striped socks. The Broncos showed the helmets on October 13. Seattle wears its royal blue throwback. Last week, at the Chargers on Sunday, October 11, Denver wore the navy helmet, Summit White jersey and white pants and won 23-17. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
 
 **What uniform did the Broncos wear last week?**
 
