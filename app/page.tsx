@@ -71,8 +71,15 @@ export default function Home() {
 
   // A post can pin itself to the hero slot with `homepageHero: true`; otherwise
   // lead with the newest post that carries a real cover image.
-  const pinnedHero = filtered.find((p) => p.homepageHero);
-  const heroPost = pinnedHero || byDateDesc.find(hasCover) || byDateDesc[0];
+  // Jake 10/13: up to TWO posts can share the lead as a pair. The story that was
+  // pinned first (older date) keeps the left slot; the newer one joins beside it.
+  const pinnedHeroes = filtered
+    .filter((p) => p.homepageHero)
+    .sort((a, b) => a.date.localeCompare(b.date))
+    .slice(0, 2);
+  const heroPost = pinnedHeroes[0] || byDateDesc.find(hasCover) || byDateDesc[0];
+  const heroPost2 = pinnedHeroes[1] ?? null;
+  const heroSlugs = [heroPost.slug, ...(heroPost2 ? [heroPost2.slug] : [])];
 
   // The 3 Latest cards are curated to nice visual covers: Chargers + Rams stay
   // pinned (Jake wants them kept), and any remaining slot fills with the newest
@@ -163,7 +170,7 @@ export default function Home() {
   const pinSlots = FEATURED_SLUGS.map((pin) => {
     if (!pin.standing && daysSince(pin.pinned) > PIN_DAYS) return null;
     const p = filtered.find((x) => x.slug === pin.slug);
-    return p && p.slug !== heroPost.slug ? p : null;
+    return p && !heroSlugs.includes(p.slug) ? p : null;
   });
   const featuredSlugs = new Set(
     pinSlots.filter((p): p is Post => Boolean(p)).map((p) => p.slug)
@@ -177,7 +184,7 @@ export default function Home() {
     .sort(byNewest)
     .filter(
       (p) =>
-        p.slug !== heroPost.slug &&
+        !heroSlugs.includes(p.slug) &&
         !featuredSlugs.has(p.slug) &&
         !GRID_EXCLUDE.has(p.slug) &&
         !HOMEPAGE_HIDE.has(p.slug)
@@ -188,9 +195,14 @@ export default function Home() {
   ];
   // Fill the empty (unpinned or expired) slots, in place, newest first.
   let fillAt = 0;
-  const gridPosts = pinSlots
-    .map((p) => p ?? coverFirst[fillAt++])
-    .filter((p): p is Post => Boolean(p));
+  // Jake 10/13: one big lead, then three right under it. A second pinned hero
+  // takes the first of the three slots.
+  const gridPosts = [
+    ...(heroPost2 ? [heroPost2] : []),
+    ...pinSlots.map((p) => p ?? coverFirst[fillAt++]),
+  ]
+    .filter((p): p is Post => Boolean(p))
+    .slice(0, 3);
   const gridSlugs = new Set(gridPosts.map((p) => p.slug));
 
   // Every story the bands below already link to. More Stories used to be the
@@ -217,7 +229,7 @@ export default function Home() {
   //     day when there are more ranked posts than slots, so the same six do not
   //     sit here all week between Monday re-ranks.
   //  3. NEWEST: backfill by publish date if the first two run short.
-  const shownSlugs = new Set([heroPost.slug, ...gridSlugs, ...bandSlugs]);
+  const shownSlugs = new Set([...heroSlugs, ...gridSlugs, ...bandSlugs]);
   const notShown = filtered.filter((p) => !shownSlugs.has(p.slug) && !HOMEPAGE_HIDE.has(p.slug));
   const MORE_COUNT = 6;
   const fresh = notShown
@@ -246,11 +258,11 @@ export default function Home() {
   ].slice(0, MORE_COUNT);
 
   // The self-updating pieces (homepage refresh, 10/5).
-  const takes = getJakesTakes(5, new Set([heroPost.slug, ...gridSlugs]));
+  const takes = getJakesTakes(5, new Set([...heroSlugs, ...gridSlugs]));
   const tonight = getTonight();
   const brief = todayBrief(tonight, takes);
-  const standsPhoto = standsPhotoFor(todayEt, new Set([heroPost.slug, ...gridSlugs]));
-  const standsPhotos = standsPool(new Set([heroPost.slug, ...gridSlugs]));
+  const standsPhoto = standsPhotoFor(todayEt, new Set([...heroSlugs, ...gridSlugs]));
+  const standsPhotos = standsPool(new Set([...heroSlugs, ...gridSlugs]));
   const todayLong = new Date(`${todayEt}T12:00:00Z`).toLocaleDateString("en-US", {
     weekday: "long",
     month: "long",
@@ -278,14 +290,9 @@ export default function Home() {
           </section>
         )}
 
-        {/* Tonight across leagues, straight off the slate files. Above the
-            Latest cards per Jake, 10/5. */}
-        <div className="pt-8" />
-        <TonightStrip leagues={tonight} />
-
         {/* Latest stories grid */}
         {gridPosts.length > 0 && (
-          <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-8">
+          <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-2">
             <div className="flex items-baseline justify-between mb-3">
               <h2 className="text-xs font-bold uppercase tracking-[0.25em] text-[#8A8F98]">
                 Latest Stories
@@ -305,6 +312,11 @@ export default function Home() {
             </div>
           </section>
         )}
+
+        {/* Tonight across leagues, straight off the slate files. Moved below the
+            lead + three cards 10/13 (Jake: one up top, three underneath). */}
+        <div className="pt-8" />
+        <TonightStrip leagues={tonight} />
 
         {/* The Wire: the next three items after the ones in the Takes rail */}
         <div className="pt-10" />

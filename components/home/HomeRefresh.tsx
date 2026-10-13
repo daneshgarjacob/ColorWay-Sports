@@ -40,7 +40,7 @@ export function TodayBrief({ day, lines }: { day: string; lines: string[] }) {
 }
 
 /* ── 2. Lead story, stacked (image over headline) to sit beside the rail ── */
-export function LeadStory({ post }: { post: PostMeta }) {
+export function LeadStory({ post, compact = false }: { post: PostMeta; compact?: boolean }) {
   const author = getAuthor(post.author);
   return (
     <Link prefetch={false} href={`/stories/${post.slug}`} className="group block">
@@ -64,10 +64,10 @@ export function LeadStory({ post }: { post: PostMeta }) {
           <span className="text-[11px] font-bold uppercase tracking-widest text-steel">· {post.kicker}</span>
         )}
       </div>
-      <h2 className="mt-2 font-display text-[26px] sm:text-[32px] font-extrabold leading-[1.12] tracking-tight text-black group-hover:text-orange transition-colors">
+      <h2 className={`mt-2 font-display ${compact ? "text-[21px] sm:text-[22px]" : "text-[26px] sm:text-[32px]"} font-extrabold leading-[1.12] tracking-tight text-black group-hover:text-orange transition-colors`}>
         {post.title}
       </h2>
-      <p className="mt-3 text-[15.5px] leading-relaxed text-[#4b5260] max-w-[680px]">{post.excerpt}</p>
+      <p className={`mt-3 ${compact ? "text-[14px]" : "text-[15.5px]"} leading-relaxed text-[#4b5260] max-w-[680px]`}>{post.excerpt}</p>
       <p className="mt-3 text-[12px] font-semibold text-steel">By {author.name}</p>
     </Link>
   );
