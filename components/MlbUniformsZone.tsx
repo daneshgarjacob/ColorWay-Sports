@@ -107,6 +107,12 @@ export default async function MlbUniformsZone() {
   const tools = postseason ? POSTSEASON_TOOLS : TOOLS;
   const chips = postseason ? getMlbPostseasonChips() : [];
   const recapDay = data?.day ?? null;
+  // "last night, Sunday, October 11 (1 game)" vs "our last logged night, ..."
+  // so a one- or two-game postseason night still reads naturally.
+  const recapGames = data ? `${data.games} ${data.games === 1 ? "game" : "games"}` : "";
+  const recapPhrase = data
+    ? `${data.isLastNight ? "last night" : "our last logged night"}, ${data.day} (${recapGames})`
+    : null;
   const trackerLink = (
     <Link prefetch={false} href={href} className="font-semibold text-orange hover:underline">
       daily tracker
@@ -126,7 +132,7 @@ export default async function MlbUniformsZone() {
     dek = (
       <>
         {tonight.games} games tonight, {tonight.day}. None are confirmed yet
-        {recapDay ? <>, so below is our last logged night, {recapDay}</> : null}. The {trackerLink}{" "}
+        {recapPhrase ? <>, so below is {recapPhrase}</> : null}. The {trackerLink}{" "}
         updates as the jerseys land.
       </>
     );
@@ -134,22 +140,22 @@ export default async function MlbUniformsZone() {
     dek = (
       <>
         No MLB games today, {tonight.day}.{" "}
-        {recapDay ? <>Our last logged night is {recapDay}, below. </> : null}Tap the {trackerLink}{" "}
+        {recapPhrase ? <>Below is {recapPhrase}. </> : null}Tap the {trackerLink}{" "}
         for the full log.
       </>
     );
   } else if (recapDay && postseason) {
     dek = (
       <>
-        Every jersey from our last logged night, {recapDay}, plus the {chips.length} teams still
-        playing. Tap the {trackerLink} for the full log.
+        Every jersey from {recapPhrase}, plus the {chips.length} teams still playing. Tap the{" "}
+        {trackerLink} for the full log.
       </>
     );
   } else if (recapDay) {
     dek = (
       <>
-        Every jersey from our last logged night, {recapDay}, plus the season plan for all 30 teams.
-        Tap the {trackerLink} for the full log.
+        Every jersey from {recapPhrase}, plus the season plan for all 30 teams. Tap the{" "}
+        {trackerLink} for the full log.
       </>
     );
   }
@@ -314,7 +320,7 @@ export default async function MlbUniformsZone() {
                 </span>
               </span>
               <span className="text-[10px] font-semibold uppercase tracking-[0.14em] text-[#8A8F98]">
-                Last Night · {data.day}
+                {data.isLastNight ? "Last Night" : "Latest Night"} · {data.day}
               </span>
             </div>
 
@@ -325,10 +331,11 @@ export default async function MlbUniformsZone() {
               <div>
                 <div className="flex items-baseline justify-between mb-3">
                   <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#8A8F98]">
-                    Last Night&rsquo;s Mix
+                    {data.isLastNight ? <>Last Night&rsquo;s Mix</> : <>The Mix</>}
                   </span>
                   <span className="text-[11px] font-bold text-[#0B1F4A] tabular-nums">
-                    {data.totalUniforms - (data.categories[0]?.count ?? 0)} of {data.totalUniforms} in color
+                    {recapGames} · {data.totalUniforms - (data.categories[0]?.count ?? 0)} of{" "}
+                    {data.totalUniforms} jerseys in color
                   </span>
                 </div>
                 <div className="space-y-3.5">

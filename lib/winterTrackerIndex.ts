@@ -282,7 +282,13 @@ export function nhlLastNight(): NhlLastNight | null {
     .map(([k]) => /^(\d{4}-\d{2}-\d{2}) ([A-Z]{3})@([A-Z]{3})$/.exec(k))
     .filter((m): m is RegExpExecArray => Boolean(m));
   if (keys.length === 0) return null;
-  const date = keys.map((m) => m[1]).sort().at(-1)!;
+  // Cap at the latest night BEFORE today in Pacific time. Today's games get
+  // confirmed at puck drop, so taking the newest date labelled tonight's
+  // in-progress slate "Last Night" (2026-10-12). Falls back to the newest date
+  // only if nothing earlier exists.
+  const todayPt = new Date().toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" });
+  const dates = keys.map((m) => m[1]).sort();
+  const date = dates.filter((d) => d < todayPt).at(-1) ?? dates.at(-1)!;
   const side = (tri: string): NhlLastNightSide | null => {
     const t = teams[tri];
     const w = worn.get(`${tri}|${date}`);

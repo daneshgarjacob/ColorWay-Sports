@@ -7,12 +7,13 @@
 // the same day. Reading the newest day instead published a mix computed off a
 // partial slate the moment a day was spliced in (2026-08-27).
 
-import { newestCompleteDaySlice } from "./mlbHomepage";
+import { dayHeadingIso, newestCompleteDaySlice, yesterdayPacificIso } from "./mlbHomepage";
 
 const PRIMARY = /^(home white pinstripes|home white|road gray|road grey|home grey|home cream)$/i;
 
 export type AlternatesDay = {
   day: string;            // "Sunday, July 19"
+  isLastNight: boolean;   // true when `day` is yesterday in Pacific time
   totalUniforms: number;  // uniforms logged that day (2 per game)
   alternates: number;     // non-primary uniforms
   games: number;
@@ -51,6 +52,7 @@ export function buildAlternatesWatch(contentHtml: string): AlternatesDay | null 
 
   return {
     day,
+    isLastNight: dayHeadingIso(day) === yesterdayPacificIso(),
     totalUniforms: labels.length,
     alternates: alternates.length,
     games: Math.round(labels.length / 2),

@@ -226,7 +226,10 @@ export default function Home() {
     .sort(byNewest)
     .slice(0, MORE_COUNT);
   const ranked = notShown
-    .filter((p) => typeof p.topViewsRank === "number" && !fresh.includes(p))
+    // Popular + backfill slots need a cover (10/12: a coverless, long-past
+    // "College Football Week 3" post sat here as a bare text card). Only the
+    // FRESH slot above may show a words-only post.
+    .filter((p) => typeof p.topViewsRank === "number" && !fresh.includes(p) && hasCover(p))
     .sort((a, b) => (a.topViewsRank ?? 999) - (b.topViewsRank ?? 999));
   const rankedSlots = MORE_COUNT - fresh.length;
   const offset =
@@ -239,7 +242,7 @@ export default function Home() {
   const compact = [
     ...fresh,
     ...rotated,
-    ...notShown.filter((p) => !picked.has(p)).sort(byNewest),
+    ...notShown.filter((p) => !picked.has(p) && hasCover(p)).sort(byNewest),
   ].slice(0, MORE_COUNT);
 
   // The self-updating pieces (homepage refresh, 10/5).
@@ -332,7 +335,7 @@ export default function Home() {
                       className="group flex gap-4 py-4 border-b border-border"
                     >
                       {post.coverImage && (
-                        <div className="relative h-[72px] w-[96px] shrink-0 overflow-hidden rounded-md bg-[#eef0f3]">
+                        <div className="relative h-[72px] w-[108px] shrink-0 overflow-hidden rounded-md bg-[#eef0f3]">
                           <img
                             src={post.coverImage}
                             alt=""

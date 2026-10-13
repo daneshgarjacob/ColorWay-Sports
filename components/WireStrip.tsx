@@ -1,6 +1,12 @@
 import Link from "next/link";
 import { getAllNewsMeta, stamp } from "@/lib/news";
 
+// Only items from the last WIRE_DAYS days. Wire items are written for the day
+// (e.g. "for Friday night against Iowa State"), so a week-old one read as
+// upcoming on 10/12. When nothing is that fresh the strip hides; /news keeps
+// the full week.
+const WIRE_DAYS = 3;
+
 /**
  * The Wire's three newest items, for the homepage. Deliberately text only: the
  * homepage already carries a lot of images, and the job here is to show the site
@@ -8,7 +14,10 @@ import { getAllNewsMeta, stamp } from "@/lib/news";
  */
 export default function WireStrip({ limit = 3, skip = [] }: { limit?: number; skip?: string[] }) {
   // skip: items already shown higher on the page (the Jake's Takes rail).
-  const items = getAllNewsMeta().filter((n) => !skip.includes(n.slug)).slice(0, limit);
+  const cutoff = Date.now() - WIRE_DAYS * 24 * 60 * 60 * 1000;
+  const items = getAllNewsMeta()
+    .filter((n) => !skip.includes(n.slug) && new Date(n.at).getTime() >= cutoff)
+    .slice(0, limit);
   if (items.length === 0) return null;
 
   return (
@@ -30,6 +39,12 @@ export default function WireStrip({ limit = 3, skip = [] }: { limit?: number; sk
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-[18px]">
           {items.map((item) => {
             const { time, zone } = stamp(item.at);
+            const day = new Date(item.at).toLocaleDateString("en-US", {
+              weekday: "short",
+              month: "short",
+              day: "numeric",
+              timeZone: "America/Los_Angeles",
+            });
             return (
               <Link
                 prefetch={false}
@@ -44,7 +59,7 @@ export default function WireStrip({ limit = 3, skip = [] }: { limit?: number; sk
                   {item.title}
                 </p>
                 <span className="text-[11px] text-steel mt-[6px] block">
-                  {time} {zone}
+                  {day} · {time} {zone}
                 </span>
               </Link>
             );

@@ -43,11 +43,46 @@ function daySlices(html: string): DaySlice[] {
 // Falling back to the last complete day keeps the homepage truthful until the
 // day is finished. Everything moves together so the card cannot contradict its
 // own "Last Night · <day>" header.
+//
+// ⚠️ Update 2026-10-12: the daily awards were retired on 10/1, so "carries its
+// awards" stopped being a usable signal and the homepage froze on 9/30. A day
+// is now also COMPLETE once it is in the past in Pacific time (every West Coast
+// game is over by then). Today's day, still in progress, is never used.
+const MONTH_INDEX: Record<string, number> = {
+  January: 1, February: 2, March: 3, April: 4, May: 5, June: 6,
+  July: 7, August: 8, September: 9, October: 10, November: 11, December: 12,
+};
+
+/** Today's date in Pacific time as YYYY-MM-DD. */
+export function todayPacificIso(now: Date = new Date()): string {
+  return now.toLocaleDateString("en-CA", { timeZone: "America/Los_Angeles" });
+}
+
+// "Monday, October 12" -> "2026-10-12" (year taken from today, Pacific).
+export function dayHeadingIso(day: string, today: string = todayPacificIso()): string | null {
+  const m = /^[A-Z][a-z]+, ([A-Z][a-z]+) (\d+)/.exec(day);
+  const mo = m ? MONTH_INDEX[m[1]] : undefined;
+  if (!m || !mo) return null;
+  return `${today.slice(0, 4)}-${String(mo).padStart(2, "0")}-${m[2].padStart(2, "0")}`;
+}
+
+/** Yesterday's date in Pacific time as YYYY-MM-DD. */
+export function yesterdayPacificIso(now: Date = new Date()): string {
+  const [y, m, d] = todayPacificIso(now).split("-").map(Number);
+  return new Date(Date.UTC(y, m - 1, d - 1)).toISOString().slice(0, 10);
+}
+
 export function newestCompleteDaySlice(html: string): DaySlice | null {
   const days = daySlices(html);
-  // If nothing has awards at all, fall back to the newest day rather than
-  // blanking the zone entirely.
-  return days.find((d) => AWARD_RE.test(d.slice)) ?? days[0] ?? null;
+  const today = todayPacificIso();
+  // Newest day already over in Pacific time (days are listed newest first).
+  const past = days.find((d) => {
+    const iso = dayHeadingIso(d.day, today);
+    return iso !== null && iso < today;
+  });
+  // Else the newest day with awards, else the newest day rather than blanking
+  // the zone entirely.
+  return past ?? days.find((d) => AWARD_RE.test(d.slice)) ?? days[0] ?? null;
 }
 
 // Returns the first match of `re` that is NOT immediately preceded by a
