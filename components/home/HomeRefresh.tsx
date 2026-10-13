@@ -2,7 +2,7 @@ import Link from "next/link";
 import { leagueColor } from "@/lib/leagueColors";
 import type { PostMeta } from "@/lib/posts";
 import { getAuthor } from "@/lib/authors";
-import type { Take, TonightLeague, StandsPhoto } from "@/lib/homeToday";
+import type { Take, TonightLeague } from "@/lib/homeToday";
 
 // Homepage refresh (shipped 10/5). Pieces of the proposed homepage. Every one of
 // them is fed by data the daily passes already write, so the page reads
@@ -168,25 +168,3 @@ export function TonightStrip({ leagues }: { leagues: TonightLeague[] }) {
   );
 }
 
-/* ── 5. From the Stands ────────────────────────────────────────────────── */
-export function FromTheStands({ photo }: { photo: StandsPhoto }) {
-  return (
-    <Link prefetch={false} href={photo.href} className="group block">
-      <div className="flex items-center justify-between border-b-2 border-black pb-2 mb-4">
-        <span className={`${LABEL} text-black`}>From the Stands</span>
-        <span className="text-[11px] text-steel">Our photo · new every day</span>
-      </div>
-      <div className="relative aspect-[4/5] overflow-hidden rounded-xl bg-[#e9ebef]">
-        <img
-          src={photo.src}
-          alt={photo.caption}
-          loading="lazy"
-          className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
-          style={photo.position ? { objectPosition: photo.position } : undefined}
-        />
-      </div>
-      <p className="m-0 mt-3 text-[15px] font-bold leading-snug text-black group-hover:text-orange">{photo.caption}</p>
-      <p className="m-0 mt-1 text-[12px] text-steel">{photo.where} · Photo by Jake Daneshgar</p>
-    </Link>
-  );
-}

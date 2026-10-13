@@ -8,23 +8,28 @@ import { nhlLastNight, type NhlLastNightSide } from "@/lib/winterTrackerIndex";
 const TRACKER = "/stories/nhl-uniform-tracker-2026-27";
 
 type TileTheme = "black" | "white" | "silver";
-const TOOLS: { href: string; title: string; dek: string; theme: TileTheme }[] = [
+// Jake 10/13 (labels Option B, "Right Now" for the tracker): same order as MLB,
+// coming up -> right now -> all season.
+const TOOLS: { href: string; kicker: string; title: string; dek: string; theme: TileTheme }[] = [
   {
-    href: TRACKER,
-    title: "Daily Uniform Tracker",
-    dek: "What Every Team Wore Last Night, Logged Every Morning.",
+    href: "/stories/nhl-uniform-schedule-2026-27",
+    kicker: "Coming Up",
+    title: "Uniform Schedule",
+    dek: "All 32 Teams: Every Sweater And The Dates They Wear It.",
     theme: "black",
   },
   {
-    href: "/nhl-tracker",
-    title: "Team Uniform Calendars",
-    dek: "Every Sweater, Team By Team, All Season.",
+    href: TRACKER,
+    kicker: "Right Now",
+    title: "Game-by-Game Tracker",
+    dek: "What Both Teams Are Wearing, Updated As The Sweaters Land.",
     theme: "white",
   },
   {
-    href: "/stories/nhl-uniform-schedule-2026-27",
-    title: "Uniform Schedule",
-    dek: "What Each Team Wears And When, For All 32 Teams.",
+    href: "/nhl-tracker",
+    kicker: "All Season",
+    title: "Team Calendars",
+    dek: "One Calendar Per Team, Every Sweater Worn This Year.",
     theme: "silver",
   },
 ];
@@ -137,6 +142,9 @@ export default function NhlUniformsZone() {
                   )}
                   <CwStamp color={th.stamp} />
                 </div>
+                <span className="mb-1 text-[10px] font-extrabold uppercase tracking-[0.16em]" style={{ color: th.cta }}>
+                  {t.kicker}
+                </span>
                 <p className="text-lg font-bold leading-tight" style={{ color: th.title }}>
                   {t.title}
                 </p>

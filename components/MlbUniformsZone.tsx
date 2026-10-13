@@ -15,48 +15,56 @@ const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 // 3-across over a rotating strip), color-blocked blue / white / red:
 // tracker | calendars | schedule. Deks in Title Case (Jake's call).
 type TileTheme = "blue" | "white" | "red";
-const TOOLS: { href: string; title: string; dek: string; theme: TileTheme }[] = [
+// Jake 10/13 (labels Option B, with "Right Now" for the tracker): every league
+// band runs the same order, coming up -> right now -> all season, and each tile
+// carries a small time kicker over a short, searchable title.
+const TOOLS: { href: string; kicker: string; title: string; dek: string; theme: TileTheme }[] = [
   {
-    href: "/stories/mlb-uniform-tracker-2026",
-    title: "Daily Uniform Tracker",
-    dek: "What Every Team Wore Last Night, Logged Every Morning.",
+    href: "/stories/mlb-uniform-schedule-2026",
+    kicker: "Coming Up",
+    title: "Uniform Schedule",
+    dek: "What Each Team Wears And When, For All 30 Teams.",
     theme: "blue",
   },
   {
-    href: "/mlb-tracker",
-    title: "Team Uniform Calendars",
-    dek: "Every Jersey, Team By Team, Laid Out All Season.",
+    href: "/stories/mlb-uniform-tracker-2026",
+    kicker: "Right Now",
+    title: "Game-by-Game Tracker",
+    dek: "What Both Teams Are Wearing, Updated As The Jerseys Land.",
     theme: "white",
   },
   {
-    href: "/stories/mlb-uniform-schedule-2026",
-    title: "Uniform Schedule",
-    dek: "What Each Team Wears And When, For All 30 Teams.",
+    href: "/mlb-tracker",
+    kicker: "All Season",
+    title: "Team Calendars",
+    dek: "One Calendar Per Team, Every Jersey Worn This Year.",
     theme: "red",
   },
 ];
 
-// Postseason mode (from 2026-09-29, see lib/mlbPostseason.ts): same three
-// tiles and colors, but the postseason uniforms post takes the lead (blue) slot,
-// the tracker moves to white and the team calendars to red. The all-30-teams
-// schedule hub drops out, since the chips below link each playoff team's own.
+// Postseason mode (from 2026-09-29, see lib/mlbPostseason.ts): the postseason
+// uniforms post takes the Coming Up slot; the all-30-teams schedule hub drops
+// out, since the chips below link each playoff team's own.
 const POSTSEASON_TOOLS: typeof TOOLS = [
   {
     href: `/stories/${MLB_POSTSEASON_POST}`,
-    title: "ALCS & NLCS Uniforms",
-    dek: "Every Game, What Each Team Wears, Expected And Confirmed.",
+    kicker: "Coming Up",
+    title: "ALCS & NLCS Uniform Schedule",
+    dek: "Every Remaining Game And What Each Team Will Wear.",
     theme: "blue",
   },
   {
     href: "/stories/mlb-uniform-tracker-2026",
-    title: "Daily Uniform Tracker",
-    dek: "Every Playoff Game, Both Teams, Both Jerseys.",
+    kicker: "Right Now",
+    title: "Game-by-Game Tracker",
+    dek: "Every Playoff Game, Both Teams, Both Jerseys, Updated As They Land.",
     theme: "white",
   },
   {
     href: "/mlb-tracker",
-    title: "Team Uniform Calendars",
-    dek: "Every Jersey, Team By Team, Laid Out All Season.",
+    kicker: "All Season",
+    title: "Team Calendars",
+    dek: "One Calendar Per Team, Every Jersey Worn This Year.",
     theme: "red",
   },
 ];
@@ -251,6 +259,9 @@ export default async function MlbUniformsZone() {
                   )}
                   <CwStamp color={th.stamp} />
                 </div>
+                <span className="mb-1 text-[10px] font-extrabold uppercase tracking-[0.16em]" style={{ color: th.cta }}>
+                  {t.kicker}
+                </span>
                 <p className="text-lg font-bold leading-tight" style={{ color: th.title }}>
                   {t.title}
                 </p>

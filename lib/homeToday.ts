@@ -162,6 +162,41 @@ export type StandsPhoto = { src: string; caption: string; where: string; href: s
 
 export const FROM_THE_STANDS: StandsPhoto[] = [
   {
+    src: "/images/posts/from-the-stands/rams-bills-2026-10-12/sofi-tied-34-late.jpg",
+    caption: "Tied at 34 late, before the Bills won it in overtime",
+    where: "SoFi Stadium · Oct 12",
+    href: "/stories/nfl-uniform-tracker-2026",
+    position: "center 55%",
+  },
+  {
+    src: "/images/posts/from-the-stands/rams-bills-2026-10-12/sofi-halftime-latino-youth-honors.jpg",
+    caption: "The SoFi halo board during the first half of Monday Night Football",
+    where: "SoFi Stadium · Oct 12",
+    href: "/stories/rams-uniform-schedule-2026",
+    position: "center 45%",
+  },
+  {
+    src: "/images/posts/from-the-stands/rams-bills-2026-10-12/sofi-rams-bills-wide.jpg",
+    caption: "Rams royal against an all-white Bills, Monday Night Football",
+    where: "SoFi Stadium · Oct 12",
+    href: "/stories/rams-uniform-schedule-2026",
+    position: "center 60%",
+  },
+  {
+    src: "/images/posts/from-the-stands/rams-bills-2026-10-12/sofi-halo-board.jpg",
+    caption: "Under the halo board before the Bills took a 37-34 overtime win",
+    where: "SoFi Stadium · Oct 12",
+    href: "/stories/nfl-uniform-tracker-2026",
+    position: "center 40%",
+  },
+  {
+    src: "/images/posts/from-the-stands/rams-bills-2026-10-12/sofi-rams-end-zone.jpg",
+    caption: "The Los Angeles end zone from the top of SoFi",
+    where: "SoFi Stadium · Oct 12",
+    href: "/stories/rams-uniform-schedule-2026",
+    position: "75% 60%",
+  },
+  {
     src: "/images/posts/braves-navy-alternate-jersey-nlds-game-2/acuna-navy-dodger-stadium.jpg",
     caption: "Acuña in the navy alternate, NLDS Game 2",
     where: "Dodger Stadium · Oct 4",
@@ -193,6 +228,12 @@ export const FROM_THE_STANDS: StandsPhoto[] = [
 // Jake 10/6: the Stands photo must never repeat a photo already on the page.
 // A photo whose story is in the lead or Latest slots is skipped (that story's
 // cover is the same shot), and the rotation moves on to the next one.
+// Every photo whose story is not already on the page (the browser picks one at random).
+export function standsPool(shownSlugs: Set<string> = new Set()): StandsPhoto[] {
+  const pool = FROM_THE_STANDS.filter((p) => !shownSlugs.has(p.href.replace("/stories/", "")));
+  return pool.length ? pool : FROM_THE_STANDS;
+}
+
 export function standsPhotoFor(date: string, shownSlugs: Set<string> = new Set()): StandsPhoto {
   const n = FROM_THE_STANDS.length;
   const start = dayNumber(date) % n;

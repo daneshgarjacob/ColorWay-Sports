@@ -470,7 +470,7 @@ Ten fixtures across four days to open the season, all played and confirmed. Two 
 
 ## Matchweek 1, Graded
 
-Every fixture gets a kit matchup grade once it kicks off. Nine played, nine graded, one still to come. Best of the weekend is Newcastle against Liverpool, the fixture nobody has to think about and nobody ever needs to fix.
+Every fixture gets a kit matchup grade once it kicks off. All ten played and graded. Best of the weekend is Newcastle against Liverpool, the fixture nobody has to think about and nobody ever needs to fix.
 
 ### Arsenal vs Coventry City: B+
 
@@ -632,7 +632,7 @@ Three fixtures, and one of them broke the pattern.
 
 **Newcastle vs Liverpool.** Called correctly, and the best looking fixture of the weekend. Black and white stripes against all red is the perfect contrast, both clubs at home in their own colors, nothing for the league to resolve. The match matched the shirts: 2-2, with Elanga, Gakpo and Willock trading goals before Szoboszlai's penalty nine minutes into stoppage time saved a point for Liverpool.
 
-### Still to Come
+### Monday Night
 
 **Fulham vs Chelsea**, Monday. White against royal blue, both home, exactly as expected, and this time the club posted it: Chelsea confirmed the new home shirt with its Midwest Gold badge accents for the trip to the Cottage, and Fulham stayed in white with black shorts. A clean, classic contrast to close the matchweek, graded B+ below. Chelsea won it 3-2.
 

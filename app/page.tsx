@@ -8,9 +8,9 @@ import {
   LeadStory,
   JakesTakes,
   TonightStrip,
-  FromTheStands,
 } from "@/components/home/HomeRefresh";
-import { getJakesTakes, getTonight, standsPhotoFor, todayBrief } from "@/lib/homeToday";
+import { getJakesTakes, getTonight, standsPhotoFor, standsPool, todayBrief } from "@/lib/homeToday";
+import FromTheStandsRandom from "@/components/home/FromTheStandsRandom";
 import WireStrip from "@/components/WireStrip";
 import Footer from "@/components/Footer";
 import Link from "next/link";
@@ -250,6 +250,7 @@ export default function Home() {
   const tonight = getTonight();
   const brief = todayBrief(tonight, takes);
   const standsPhoto = standsPhotoFor(todayEt, new Set([heroPost.slug, ...gridSlugs]));
+  const standsPhotos = standsPool(new Set([heroPost.slug, ...gridSlugs]));
   const todayLong = new Date(`${todayEt}T12:00:00Z`).toLocaleDateString("en-US", {
     weekday: "long",
     month: "long",
@@ -312,10 +313,10 @@ export default function Home() {
           skip={takes.filter((t) => t.kind === "Wire").map((t) => t.key.slice(2))}
         />
 
-        {/* 10/5: From the Stands (Jake's own photo, rotates daily) beside More Stories */}
+        {/* From the Stands (Jake's own photos, random each visit since 10/13) beside More Stories */}
         <section className="max-w-[1200px] mx-auto px-5 pb-12">
           <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,2fr)] gap-10">
-            <FromTheStands photo={standsPhoto} />
+            <FromTheStandsRandom photos={standsPhotos} initial={standsPhoto} />
             {compact.length > 0 && (
               <div>
                 <div className="flex items-center justify-between border-b-2 border-black pb-2">

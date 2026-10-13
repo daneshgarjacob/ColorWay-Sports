@@ -1,0 +1,760 @@
+{
+ "_readme": [
+  "NBA court library for the 2026-27 season. One entry per club, keyed by nickname slug (same slugs as the Cup image files). abbr = NBA tricode; schedulePost = the team's 2026-27 uniform schedule post slug.",
+  "courts holds one slot per floor type: regular (primary/Core home court), city (City Edition), classic (Classic Edition), cup (Emirates NBA Cup), statement (Statement court), playoff. null = not revealed yet or not in the repo yet. Add new slot keys (e.g. 'alternate') as needed.",
+  "Each filled slot: name, image (public path), sourceUrl (original post; null when our story did not record one), revealed (ISO date), description (factual, no grades), credit, and optionally post (our story slug), extraImages, firstUsed, sourceImage (original full-res URL).",
+  "Library images live under public/images/courts/nba/<season>/<slot>/<slug>.jpg; slots filled from older stories point at those stories' existing images instead of copying them. Run node scripts/compress-images.mjs after adding any image."
+ ],
+ "season": "2026-27",
+ "leagueWide": {
+  "cup": {
+   "name": "Emirates NBA Cup 2026",
+   "courtsRevealed": "2026-10-13",
+   "courtsSource": "https://x.com/NBA/status/2110038191545663961",
+   "allCourtsComposite": "https://media.nbcsportsphiladelphia.com/2026/10/All-Courts-Comms-and-Editorial-NBA-Cup-26-v4-1536x864-1.jpg (NBC Sports Philadelphia, league composite of all 30, 1536x864)",
+   "facts": [
+    {
+     "fact": "NBA unveiled all 30 team courts for the Emirates NBA Cup 2026 on Oct. 13, 2026 (@NBA thread 9:01 AM ET; @NBAPR: 'Cup games will be played on the custom-designed, fully painted courts').",
+     "source": "https://x.com/NBAPR/status/2110039663444427240"
+    },
+    {
+     "fact": "Shared template on all 30: solid team-color painted playing surface with an oversized tonal brush-style team wordmark; team logo set on a gold NBA Cup trophy graphic at center court; gold trophy graphic filling each lane; city or team-name wordmarks on the baseline aprons; Emirates NBA Cup logos on the sideline apron; Michelob Ultra Courtside marks on the baselines; tagline '30 TEAMS. 8 ADVANCE. 1 CHAMPION.' near each corner three.",
+     "source": "Official renders in the @NBA thread https://x.com/NBA/status/2110038191545663961; tagline/trophy also in https://www.nbcsportsphiladelphia.com/nba/nba-cup-court-designs-2026/758456/ and https://sports.yahoo.com/articles/why-celtics-far-best-2026-185207647.html"
+    },
+    {
+     "fact": "Design inspired by Nike's 'End of Ordinary' NBA Standard Issue Collection; oversized wordmarks styled after the Nike Standard Issue jackets.",
+     "source": "https://www.nbcsports.com/nba/news/nba-unveils-nba-cup-courts-bold-colors-are-back-fans-will-know-its-a-cup-game"
+    },
+    {
+     "fact": "Group play: Oct. 30; Nov. 6, 13, 20, 24, 25 & 27 (Cup Nights Nov. 24-25). Quarterfinals Dec. 4-5, semifinals Dec. 8/9, Championship Fri. Dec. 11 at Hinkle Fieldhouse, Indianapolis (Prime Video). Three five-team groups per conference; group winners plus one wild card per conference advance.",
+     "source": "https://www.nba.com/news/emirates-nba-cup-2026-groups-announced"
+    },
+    {
+     "fact": "Teams wear Statement Edition uniforms for all NBA Cup games; Knicks beat Spurs in last season's Cup final.",
+     "source": "https://www.nbcsports.com/nba/news/nba-unveils-nba-cup-courts-bold-colors-are-back-fans-will-know-its-a-cup-game"
+    },
+    {
+     "fact": "Prize money: more than $500,000 per player on the winning team (fourth edition).",
+     "source": "https://www.espn.com/nba/story/_/id/50174098/2026-nba-cup-tournament-court-designs"
+    }
+   ]
+  }
+ },
+ "teams": {
+  "hawks": {
+   "name": "Atlanta Hawks",
+   "abbr": "ATL",
+   "schedulePost": "hawks-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/hawks.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038194599457101",
+     "sourceImage": "https://pbs.twimg.com/media/HUhTPfGXMAAB05A?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Red playing surface with a tonal oversized team wordmark; Hawks primary logo on the gold trophy at center court and gold trophy graphics in both lanes. Yellow apron with black HAWKS wordmarks on the baselines and State Farm Arena logos near midcourt.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "celtics": {
+   "name": "Boston Celtics",
+   "abbr": "BOS",
+   "schedulePost": "celtics-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/celtics.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038199032832417",
+     "sourceImage": "https://pbs.twimg.com/media/HUhTobgXAAAqYjr?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Kelly green playing surface with a lighter-green oversized wordmark; black CELTICS shamrock roundel (not the primary Lucky logo) on the trophy at center. Gray apron with a parquet-style rectangle pattern, white BOSTON wordmarks, a Red Auerbach signature on the sideline and Bill Russell's retired No. 6 in green at midcourt.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "nets": {
+   "name": "Brooklyn Nets",
+   "abbr": "BKN",
+   "schedulePost": "nets-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": {
+     "name": "Classic Court",
+     "image": "/images/posts/nba-classic-edition-jerseys-courts-2026-27/nets-classic-court-overhead.jpg",
+     "extraImages": [
+      "/images/posts/nba-classic-edition-jerseys-courts-2026-27/nets-classic-court-logos.jpg",
+      "/images/posts/nba-classic-edition-jerseys-courts-2026-27/nets-classic-court-sideline-alumni.jpg"
+     ],
+     "sourceUrl": null,
+     "revealed": "2026-10-12",
+     "description": "Herringbone floor with large red arcs around the lanes, blue keys and a blue apron. A new Sixty Seasons logo at center court, the ABA-NBA 50th logo on the baseline, and a 60th anniversary NETS wordmark on the sideline printed over the names of every Nets alum.",
+     "credit": "Brooklyn Nets",
+     "post": "nba-classic-edition-jerseys-courts-2026-27"
+    },
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/nets.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038202538950992",
+     "sourceImage": "https://pbs.twimg.com/media/HUhTs74XEAAaxa3?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Light gray playing surface with a tonal oversized wordmark; Nets B-ball logo on the trophy at center and blue Barclays Center logos. Dark charcoal apron with BROOKLYN NETS wordmarks on the baselines and a black chevron-pattern strip along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "hornets": {
+   "name": "Charlotte Hornets",
+   "abbr": "CHA",
+   "schedulePost": "hornets-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/hornets.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038205852471421",
+     "sourceImage": "https://pbs.twimg.com/media/HUhT0meXIAAZlPd?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Teal playing surface with a tonal oversized wordmark; Hornets primary logo on the trophy at center and white Spectrum Center logos. Gray apron with purple CHARLOTTE wordmarks and \"THE HIVE IS ALIVE\" along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "bulls": {
+   "name": "Chicago Bulls",
+   "abbr": "CHI",
+   "schedulePost": "bulls-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/bulls.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038208733929968",
+     "sourceImage": "https://pbs.twimg.com/media/HUhT5w9XMAEUxA7?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Red playing surface with a tonal oversized wordmark; Bulls primary logo on the trophy at center and white United Center logos. Gray apron with white CHICAGO wordmarks on the baselines.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "cavaliers": {
+   "name": "Cleveland Cavaliers",
+   "abbr": "CLE",
+   "schedulePost": "cavaliers-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/cavaliers.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038211611255163",
+     "sourceImage": "https://pbs.twimg.com/media/HUhT-omXgAAJmek?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Wine playing surface with a tonal oversized wordmark; Cavs \"C\" logo in wine with gold edges on the trophy at center and white Rocket Arena logos. Gold apron with wine CLEVELAND wordmarks and \"LET EM KNOW.\" along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "mavericks": {
+   "name": "Dallas Mavericks",
+   "abbr": "DAL",
+   "schedulePost": "mavericks-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/mavericks.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038214727639418",
+     "sourceImage": "https://pbs.twimg.com/media/HUhUDNuWUAACdPh?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Royal blue playing surface with a tonal oversized wordmark; Mavericks horse-head logo on the trophy at center and American Airlines Center logos. Black apron with white DALLAS wordmarks and a spaced-out MAVERICKS wordmark along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "nuggets": {
+   "name": "Denver Nuggets",
+   "abbr": "DEN",
+   "schedulePost": "nuggets-uniform-schedule-2026-27",
+   "courts": {
+    "regular": {
+     "name": "Ball Arena home court",
+     "image": "/images/posts/nuggets-court-2026-27/nuggets-court-2026-27.jpg",
+     "sourceUrl": "https://twitter.com/nuggets/status/2092266301146468798",
+     "revealed": "2026-08-25",
+     "description": "Natural wood out-of-bounds borders replace the old navy borders, the keys are solid navy, a mountain range and city skyline silhouette runs across the lower half, and the center logo is smaller. DENVER and NUGGETS sit in navy directly on the wood.",
+     "credit": "Denver Nuggets",
+     "post": "nuggets-court-2026-27"
+    },
+    "city": null,
+    "classic": {
+     "name": "ABA Court (Throwback Nights)",
+     "image": "/images/posts/nba-classic-edition-jerseys-courts-2026-27/nuggets-aba-court.jpg",
+     "sourceUrl": null,
+     "revealed": "2026-10-12",
+     "description": "Natural wood with an orange-stained apron, orange lanes and the arched DENVER from the jersey at center court. The ABA-NBA 50th logo and old Denver marks run along the baselines, MILE HIGH BASKETBALL on the sideline. Paired with the orange Throwback Nights Classic Edition jersey.",
+     "credit": "Denver Nuggets",
+     "post": "nba-classic-edition-jerseys-courts-2026-27",
+     "firstUsed": "2026-12-27"
+    },
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/nuggets.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038217701429252",
+     "sourceImage": "https://pbs.twimg.com/media/HUhUIBPXAAAtwqn?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Dark red (maroon) playing surface with a tonal oversized wordmark; Nuggets primary logo on the trophy at center and white Ball Arena logos. Yellow apron with blue DENVER wordmarks and \"MILE HIGH BASKETBALL\" flanked by pickaxe logos along the sideline, plus a small blue star in one apron corner.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   },
+   "notes": "Regular court post says nothing further announced for Denver beyond the regular and ABA courts."
+  },
+  "pistons": {
+   "name": "Detroit Pistons",
+   "abbr": "DET",
+   "schedulePost": "pistons-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/pistons.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038222235648402",
+     "sourceImage": "https://pbs.twimg.com/media/HUhUNUIXgAACfAD?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Royal blue playing surface with a tonal oversized wordmark; red Detroit Pistons ball logo on the trophy at center and white Platinum Equity script logos. Red apron with white PISTONS wordmarks and \"IN IT FOR MY CITY\" between red-white-blue stripes on the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "warriors": {
+   "name": "Golden State Warriors",
+   "abbr": "GSW",
+   "schedulePost": "warriors-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/warriors.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038225758699759",
+     "sourceImage": "https://pbs.twimg.com/media/HUhUUNNXoAAmqTv?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Light gray playing surface with a tonal oversized wordmark; Warriors Golden Gate Bridge logo on the trophy at center and white Chase Center logos. Royal blue apron with gold GOLDEN STATE wordmarks on the baselines.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "rockets": {
+   "name": "Houston Rockets",
+   "abbr": "HOU",
+   "schedulePost": "rockets-uniform-schedule-2026-27",
+   "courts": {
+    "regular": {
+     "name": "Core Court",
+     "image": "/images/posts/houston-rockets-court-2026-27-graded/core-court.jpg",
+     "sourceUrl": "https://twitter.com/HoustonRockets/status/2090121595410952322",
+     "revealed": "2026-08-19",
+     "description": "Light hardwood with a large red rocket R logo outlined in yellow at center court, red painted lanes and red baselines with yellow accents.",
+     "credit": "Houston Rockets",
+     "post": "houston-rockets-court-2026-27-graded"
+    },
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/rockets.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038228656906566",
+     "sourceImage": "https://pbs.twimg.com/media/HUhUZdcW4AA-6fH?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Red playing surface with a tonal oversized wordmark; Rockets triangle crest logo on the trophy at center and Toyota Center logos. Charcoal apron with red HOUSTON wordmarks and \"CLUTCH CITY\" between gold stars along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": {
+     "name": "Statement Court",
+     "image": "/images/posts/houston-rockets-court-2026-27-graded/statement-court.jpg",
+     "sourceUrl": "https://twitter.com/HoustonRockets/status/2090125445375099060",
+     "revealed": "2026-08-19",
+     "description": "Light hardwood with a large black Dunkstronaut (dunking astronaut) logo outlined in red at center court.",
+     "credit": "Houston Rockets",
+     "post": "houston-rockets-court-2026-27-graded"
+    },
+    "playoff": null
+   }
+  },
+  "pacers": {
+   "name": "Indiana Pacers",
+   "abbr": "IND",
+   "schedulePost": "pacers-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": {
+     "name": "Classic Court",
+     "image": "/images/posts/nba-classic-edition-jerseys-courts-2026-27/pacers-classic-court.jpg",
+     "sourceUrl": null,
+     "revealed": "2026-10-12",
+     "description": "Inspired by two of the team's old ABA courts. Plaid lanes honor coach Bobby \"Slick\" Leonard, the 1970, 1972 and 1973 ABA championship years are on the floor, and the ABA championship trophy silhouette sits at center court.",
+     "credit": "Indiana Pacers",
+     "post": "nba-classic-edition-jerseys-courts-2026-27"
+    },
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/pacers.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038231542649249",
+     "sourceImage": "https://pbs.twimg.com/media/HUhUfLjXwAA2H5S?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Navy playing surface with a tonal oversized wordmark; Pacers \"P\" ball logo on the trophy at center and white Gainbridge Fieldhouse logos. Yellow apron with navy pinstripes and angular navy trim, navy INDIANA wordmarks and \"BOOM BABY!\" along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "clippers": {
+   "name": "LA Clippers",
+   "abbr": "LAC",
+   "schedulePost": "clippers-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/clippers.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038234424086705",
+     "sourceImage": "https://pbs.twimg.com/media/HUhUlHfXIAA2c5o?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Navy playing surface with a tonal oversized wordmark; Clippers ship-wheel \"C\" logo on the trophy at center and white Intuit Dome logos. Light blue apron with white script Los Angeles wordmarks and \"MAKE WAVES\" along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "lakers": {
+   "name": "Los Angeles Lakers",
+   "abbr": "LAL",
+   "schedulePost": "lakers-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/lakers.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038237590827102",
+     "sourceImage": "https://pbs.twimg.com/media/HUhUqlLW8AA9WZT?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Gold playing surface with a tonal oversized wordmark; Lakers primary logo on the trophy at center and Crypto.com Arena logos. Black apron with purple-and-gold stripes, white LOS ANGELES wordmarks and a row of 17 stars labeled with the franchise's championship years ('49 through '20) along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   },
+   "notes": "Aug 18, 2026 'Fresh court' reveal (https://twitter.com/Lakers/status/2089816980723585068) showed the UCLA Health Training Center practice floor with the LA logo, not Crypto.com Arena; the 2026-27 arena floor is unconfirmed, so regular stays null. See /stories/lakers-new-court-2026."
+  },
+  "grizzlies": {
+   "name": "Memphis Grizzlies",
+   "abbr": "MEM",
+   "schedulePost": "grizzlies-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/grizzlies.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038241328165163",
+     "sourceImage": "https://pbs.twimg.com/media/HUhUvd-WMAAXVG9?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Gray playing surface with a tonal oversized wordmark; Grizzlies bear-head logo on the trophy at center and white FedExForum logos. Navy apron with light blue MEMPHIS wordmarks and a light-blue patterned stripe along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "heat": {
+   "name": "Miami Heat",
+   "abbr": "MIA",
+   "schedulePost": "miami-heat-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/heat.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038246080319978",
+     "sourceImage": "https://pbs.twimg.com/media/HUhU2wVXwAAUOQ7?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Light orange/gold playing surface with a tonal oversized wordmark; Heat flaming-ball logo on the trophy at center and \"Pat Riley Court at Kaseya Center\" logos. Black apron with red HEAT wordmarks on the baselines.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "bucks": {
+   "name": "Milwaukee Bucks",
+   "abbr": "MIL",
+   "schedulePost": "bucks-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/bucks.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038249607405681",
+     "sourceImage": "https://pbs.twimg.com/media/HUhU8zIXYAAW444?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Hunter green playing surface with a tonal oversized wordmark; Bucks deer-head logo on the trophy at center and white Fiserv Forum logos. Cream apron with black MILWAUKEE wordmarks and \"FEAR the DEER\" along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "timberwolves": {
+   "name": "Minnesota Timberwolves",
+   "abbr": "MIN",
+   "schedulePost": "timberwolves-uniform-schedule-2026-27",
+   "courts": {
+    "regular": {
+     "name": "Core Court",
+     "image": "/images/posts/official-wolves-rebrand-2026/HKPa7A6W0AAPp9u.jpg",
+     "sourceUrl": null,
+     "revealed": "2026-06-08",
+     "description": "New wolf head crest at center court inside a green outer ring, a gray-painted key, the TIMBERWOLVES wordmark in green on navy baselines, and a row of green pine tree silhouettes under each baseline.",
+     "credit": "Minnesota Timberwolves",
+     "post": "timberwolves-officially-release-new-uniforms-2026-27"
+    },
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/timberwolves.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038253264916640",
+     "sourceImage": "https://pbs.twimg.com/media/HUhVCHAX0AEqp15?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Light gray playing surface with a tonal oversized wordmark; Timberwolves primary logo on the trophy at center and white Target Center logos. Royal blue apron with white MINNESOTA wordmarks accented with green tree icons.",
+     "credit": "NBA"
+    },
+    "statement": {
+     "name": "Statement Court",
+     "image": "/images/posts/official-wolves-rebrand-2026/HKPZzkGXoAAz6vq.jpg",
+     "sourceUrl": null,
+     "revealed": "2026-06-08",
+     "description": "Stained dark hardwood center section with the WOLVES wordmark across the middle, black-painted ends with MINNESOTA in white on the baselines, and Target Center wordmarks along both sidelines. Paired with the Statement Edition black uniform.",
+     "credit": "Minnesota Timberwolves",
+     "post": "timberwolves-officially-release-new-uniforms-2026-27"
+    },
+    "playoff": null
+   }
+  },
+  "pelicans": {
+   "name": "New Orleans Pelicans",
+   "abbr": "NOP",
+   "schedulePost": "pelicans-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/pelicans.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038256750567520",
+     "sourceImage": "https://pbs.twimg.com/media/HUhVG5qXYAAPA-a?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Navy playing surface with a tonal oversized wordmark; Pelicans primary logo on the trophy at center and white Smoothie King Center logos. Gold apron with tonal pelican, cypress-tree and river-map silhouettes, white CRESCENT CITY wordmarks and a Crescent City Basketball roundel at midcourt.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "knicks": {
+   "name": "New York Knicks",
+   "abbr": "NYK",
+   "schedulePost": "knicks-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/knicks.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038260777156722",
+     "sourceImage": "https://pbs.twimg.com/media/HUhVMT4WwAApcX5?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Royal blue playing surface with a tonal oversized wordmark; Knicks primary logo on the trophy at center and white Madison Square Garden / Chase logos. Orange apron with white NEW YORK wordmarks on the baselines.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "thunder": {
+   "name": "Oklahoma City Thunder",
+   "abbr": "OKC",
+   "schedulePost": "oklahoma-city-thunder-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/thunder.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038265101455685",
+     "sourceImage": "https://pbs.twimg.com/media/HUhVS2HXcAA3LXF?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Navy playing surface with a tonal oversized wordmark; Thunder shield logo on the trophy at center and white Paycom Center logos. Blue apron with white spaced-out OKLAHOMA CITY wordmarks on the baselines.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "magic": {
+   "name": "Orlando Magic",
+   "abbr": "ORL",
+   "schedulePost": "orlando-magic-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/magic.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038269346079213",
+     "sourceImage": "https://pbs.twimg.com/media/HUhVXHLWIAEXmY6?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Light gray playing surface with a tonal oversized wordmark; Magic star-and-ball logo on the trophy at center and white Kia Center logos. Royal blue apron with white ORLANDO star wordmarks and \"Rich & Helen DeVos Court\" signature marks along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "76ers": {
+   "name": "Philadelphia 76ers",
+   "abbr": "PHI",
+   "schedulePost": "76ers-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/76ers.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038272776790072",
+     "sourceImage": "https://pbs.twimg.com/media/HUhVbmkWQAAF2x4?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Royal blue playing surface with a tonal oversized wordmark; 76ers primary \"76\" logo with stars on the trophy at center and white Xfinity Mobile Arena logos. Navy apron with white PHILADELPHIA wordmarks and \"Brotherly Love\" script along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "suns": {
+   "name": "Phoenix Suns",
+   "abbr": "PHX",
+   "schedulePost": "suns-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/suns.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038276933652765",
+     "sourceImage": "https://pbs.twimg.com/media/HUhVgCgXAAA2Ado?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Orange playing surface with a tonal oversized wordmark; Suns sunburst ball logo on the trophy at center and Mortgage Matchup Center logos. Purple apron with white PHOENIX wordmarks and \"SUNS UP\" along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "trail-blazers": {
+   "name": "Portland Trail Blazers",
+   "abbr": "POR",
+   "schedulePost": "trail-blazers-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/trail-blazers.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038809585049971",
+     "sourceImage": "https://pbs.twimg.com/media/HUhdDOPWwAAkJX7?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Gray playing surface with a tonal oversized wordmark; Trail Blazers pinwheel logo on the trophy at center and white Moda Center logos. Black apron with white TRAIL BLAZERS wordmarks and \"rip city runs deep\" between red stripes on the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "kings": {
+   "name": "Sacramento Kings",
+   "abbr": "SAC",
+   "schedulePost": "sacramento-kings-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/kings.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110038940355002551",
+     "sourceImage": "https://pbs.twimg.com/media/HUhdOchWcAAyb_R?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Gray playing surface with a tonal oversized wordmark; Kings primary crown-shield logo on the trophy at center and Golden 1 Center logos. Purple apron with white SACRAMENTO wordmarks and a black-and-purple checkerboard strip with \"PROUD\" (SAC crown in the O) along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "spurs": {
+   "name": "San Antonio Spurs",
+   "abbr": "SAS",
+   "schedulePost": "spurs-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": {
+     "name": "Classic Edition court",
+     "image": "/images/posts/nba-classic-edition-jerseys-courts-2026-27/spurs-classic-court-arena.jpg",
+     "extraImages": [
+      "/images/posts/nba-classic-edition-jerseys-courts-2026-27/spurs-classic-court-center-circle.jpg",
+      "/images/posts/nba-classic-edition-jerseys-courts-2026-27/spurs-classic-court-baseline.jpg",
+      "/images/posts/nba-classic-edition-jerseys-courts-2026-27/spurs-aba-nba-50th-logo-court.jpg"
+     ],
+     "sourceUrl": null,
+     "revealed": "2026-10-12",
+     "description": "Blue apron, red lanes and natural wood. The center circle reads SAN ANTONIO TEXAS in red around a red map of Texas ringed with stars; the ABA-NBA 50th Spurs logo is on the apron and the spur sits on the wood near the baseline.",
+     "credit": "San Antonio Spurs",
+     "post": "nba-classic-edition-jerseys-courts-2026-27",
+     "firstUsed": "2026-11-04"
+    },
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/spurs.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110039035767066676",
+     "sourceImage": "https://pbs.twimg.com/media/HUhdUOfXIAA4tGc?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Charcoal playing surface with a tonal oversized wordmark; Spurs spur logo on the trophy at center and white Frost Bank Center logos. Black apron with white SAN ANTONIO wordmarks and a \"GO SPURS GO\" logo along the sideline.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "raptors": {
+   "name": "Toronto Raptors",
+   "abbr": "TOR",
+   "schedulePost": "raptors-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/raptors.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110039166562222444",
+     "sourceImage": "https://pbs.twimg.com/media/HUhdb0kXYAADOTf?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Light gray playing surface with a tonal oversized wordmark; red Raptors claw-ball logo on the trophy at center and red Scotiabank Arena logos. Red apron with a tonal maple-leaf pattern, white TORONTO wordmarks, a maple-leaf mark at midcourt and the latitude \"43.6435° N\" in the corner.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "jazz": {
+   "name": "Utah Jazz",
+   "abbr": "UTA",
+   "schedulePost": "utah-jazz-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/jazz.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110039304982680015",
+     "sourceImage": "https://pbs.twimg.com/media/HUhdii8XwAA93SB?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Purple playing surface with a tonal oversized wordmark; Jazz note logo on the trophy at center and \"Larry H. Miller Court / Delta Center\" logos. Light blue apron with tonal mountain shapes, black UTAH JAZZ wordmarks and a Utah Jazz logo at midcourt.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  },
+  "wizards": {
+   "name": "Washington Wizards",
+   "abbr": "WAS",
+   "schedulePost": "wizards-uniform-schedule-2026-27",
+   "courts": {
+    "regular": null,
+    "city": null,
+    "classic": null,
+    "cup": {
+     "name": "Emirates NBA Cup court",
+     "image": "/images/courts/nba/2026-27/cup/wizards.jpg",
+     "sourceUrl": "https://x.com/NBA/status/2110039399329419545",
+     "sourceImage": "https://pbs.twimg.com/media/HUhdnUIWoAAtuJG?format=jpg&name=orig",
+     "revealed": "2026-10-13",
+     "description": "Red playing surface with a tonal oversized wordmark; Wizards monument-ball logo on the trophy at center and white Capital One Arena logos. Gray apron with lowercase navy script washington wordmarks (a basketball dots the i) on the baselines.",
+     "credit": "NBA"
+    },
+    "statement": null,
+    "playoff": null
+   }
+  }
+ }
+}
