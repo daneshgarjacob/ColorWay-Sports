@@ -2,7 +2,7 @@
 title: "Buffalo Bills 2026 Uniform Schedule: Red Alternate Dates and This Week's Jersey"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-12"
 excerpt: "Every confirmed 2026 Bills uniform: two Nickel City games, Cold Front against Miami, a red alternate finale, the A+ red helmet on Christmas Day, and the fan-voted red end zones for the opener."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-uniform-schedule-2026/cover.jpg"
@@ -162,7 +162,7 @@ Red. Bills Mafia voted for red end zones in an official poll posted by team COO 
 
 **What jerseys are the Bills wearing this week?**
 
-All white at the Rams on Monday Night Football in Week 5, October 12: white helmet, white jersey, white pants, confirmed by the team. Los Angeles wears royal with sol pants. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
+Week 5 at the Rams on Monday Night Football, October 12, worn: all white, white helmet, white jersey, white pants, as the team announced and confirmed from the game photos. Los Angeles wore royal with sol pants, and Buffalo won 37-34 in overtime on a Tyler Bass field goal. We grade the matchup a B+. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
 
 **What uniform did the Bills wear last week?**
 

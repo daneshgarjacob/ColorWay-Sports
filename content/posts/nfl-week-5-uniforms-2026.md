@@ -3,7 +3,7 @@ title: "NFL Week 5 Uniforms 2026: What Every Team Is Wearing, Including Pat Patr
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-09-30"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-12"
 excerpt: "NFL Week 5 uniforms (Oct. 8-12): Patriots Pat Patriot throwback vs Raiders, Packers Rivalries debut vs Bears, Bucs red in Dallas, Cardinals black, Falcons red on Sunday night."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -96,7 +96,7 @@ Week 5 is the second of three Crucial Catch weekends. Eight clubs have tagged a 
 - **The Giants in blue on the road.** Washington wears **white** at home against New York, the only regular-season game at Northwest Stadium where it does, under the burgundy helmet with **burgundy pants**. The Giants answer in **blue helmet, royal blue jersey, white pants**. Both teams confirmed. [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026) and [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026).
 - **Cincinnati in orange at Miami, a first.** The Bengals confirmed **orange helmet, orange jersey, white pants with orange stripes and white socks** on October 6, and the team says it has never worn that combination before. It is also the first time Cincinnati has worn orange on the road since the 2021 redesign. Miami answers **all white**: white helmet, white jersey, white pants. [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026) and [Dolphins 2026 uniform schedule](/stories/dolphins-uniform-schedule-2026).
 - **The Saints in black against Minnesota.** New Orleans published black under the gold helmet for this one, and the captains went with **black pants**. The Vikings wore white under the purple helmet with purple pants, and won 23-13. [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) and [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026).
-- **Royal at SoFi on Monday night.** The Rams published **royal** for Buffalo and go **royal helmet, royal jersey, sol pants**. The Bills posted their LA look: **all white**, white helmet, white jersey, white pants. [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) and [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
+- **Royal at SoFi on Monday night.** The Rams wore **royal helmet, royal jersey, sol pants** against Buffalo, as published, and the Bills wore their announced LA look, **all white**: white helmet, white jersey, white pants. Buffalo won 37-34 in overtime. [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) and [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
 
 ## Every Week 5 Game
 
@@ -122,7 +122,7 @@ Week 5 is the second of three Crucial Catch weekends. Eight clubs have tagged a 
 
 ### Monday, October 12
 
-- **Buffalo Bills at Los Angeles Rams**, 8:15 p.m. ET, ESPN and ABC. Bills: white helmet, white jersey, white pants (confirmed). Rams: royal helmet, royal jersey, sol pants (confirmed).
+- **Buffalo Bills at Los Angeles Rams**, Monday, ESPN and ABC. Final: Bills 37, Rams 34 in overtime. Bills: white helmet, white jersey, white pants (worn). Rams: royal helmet, royal jersey, sol pants (worn). Grade: B+.
 
 ### Byes
 

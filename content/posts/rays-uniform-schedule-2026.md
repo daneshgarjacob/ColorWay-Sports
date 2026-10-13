@@ -2,7 +2,7 @@
 title: "Tampa Bay Rays Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-12"
 excerpt: "The Tampa Bay Rays run a deep, color-soaked closet in 2026 — home whites, the Columbia blue and navy alternates, the 1998 Devil Rays 'rainbow' throwback, the black 'Grit x Glow' City Connect, and the new road gray that debuts September 22. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #092C5C 0%, #8FBCE6 50%, #092C5C 100%)"
 coverImage: "/images/posts/rays-uniform-schedule-2026/cover.jpg"
@@ -35,6 +35,8 @@ The Rays (98-64) won the AL East and the No. 1 seed in the American League, so t
 The big uniform question is the road. The new gray with "TAMPA BAY" on the chest debuted September 22 and the Rays wore it on every day of their final road trip, so Games 3 and 4 could be its first postseason games. For every matchup and what each team is wearing, see our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026), and we log every game on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 
 **Update: the Rays are in the ALCS.** Tampa Bay swept the Yankees 3-0, wearing home whites for Games 1 and 2 and the new gray for its first postseason game in Game 3 at Yankee Stadium. The ALCS against the Guardians starts **Monday, October 12 at 8:00 p.m. ET at Tropicana Field**. Every ALCS game, with what we expect each team to wear, is on our [MLB Championship Series uniforms guide](/stories/mlb-championship-series-uniforms-2026).
+
+**ALCS Game 1, confirmed:** the home white with the navy "TB" cap, against the Guardians in the road gray with the blue, red-billed "C" cap. Our grade: **C+**. The Guardians won 7-3, so Cleveland leads the series 1-0.
 
 ## Sample Home-and-Road Week at a Glance
 

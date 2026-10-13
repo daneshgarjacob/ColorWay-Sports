@@ -3,7 +3,7 @@ topViewsRank: 12
 title: "Los Angeles Rams 2026 Uniform Schedule: All 17 Games Announced, From Classic Sol to White at Home Against Dallas"
 category: NFL
 date: "2026-07-24"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-12"
 excerpt: "The Rams published the full 2026 jersey schedule: royal five times, white eight times including at home against Dallas, plus Classic Sol, Fearsome White, and Midnight Mode."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -130,7 +130,7 @@ Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; whit
 
 **What jerseys are the Rams wearing this week?**
 
-Royal at home against Buffalo on Monday Night Football in Week 5, October 12: royal helmet, royal jersey, sol pants. The Bills are all white. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
+Week 5 against Buffalo on Monday Night Football, October 12, worn: royal helmet, royal jersey, sol pants, as published and confirmed from the game photos. The Bills wore all white, and Buffalo won 37-34 in overtime. We grade the matchup a B+. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
 
 **What uniform did the Rams wear last week?**
 

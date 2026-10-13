@@ -2,7 +2,7 @@
 title: "Cleveland Guardians Uniform Schedule 2026: Every Jersey and When They Wear It"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-12"
 excerpt: "The Cleveland Guardians run five uniforms in 2026 — home whites, road grays, the red alternate, the navy alternate, and the 'CLE' City Connect built from the Guardians of Traffic statues. Here's every jersey and when they wear it."
 gradient: "linear-gradient(135deg, #0C2340 0%, #E31937 50%, #0C2340 100%)"
 coverImage: "/images/posts/guardians-uniform-schedule-2026/cover.jpg"
@@ -35,6 +35,8 @@ The Guardians (85-77) won the AL Central and the No. 2 seed in the American Leag
 Watch for the red alternate in Game 1. Cleveland wore it for Game 1 of the 2024 ALDS and Game 1 of the 2025 Wild Card Series before going to home whites. For every matchup and what each team is wearing, see our [2026 MLB postseason uniforms guide](/stories/mlb-postseason-uniforms-2026), and we log every game on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 
 **Update: the Guardians are in the ALCS.** Cleveland beat the White Sox 3-2, wearing home white for Game 1, the red alternate for Games 2 and 5 and the road gray for Games 3 and 4. The ALCS at the Rays starts **Monday, October 12 at 8:00 p.m. ET at Tropicana Field**. Every ALCS game, with what we expect each team to wear, is on our [MLB Championship Series uniforms guide](/stories/mlb-championship-series-uniforms-2026).
+
+**ALCS Game 1, confirmed:** the road gray with the blue, red-billed "C" cap, against the Rays in home white with the navy "TB" cap. Our grade: **C+**. The Guardians won 7-3 at Tropicana Field to lead the series 1-0.
 
 ## Sample Home-and-Road Week at a Glance
 
