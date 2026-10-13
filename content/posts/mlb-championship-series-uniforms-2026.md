@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-10-11"
-updatedDate: "2026-10-12"
+updatedDate: "2026-10-13"
 excerpt: "2026 ALCS and NLCS uniforms: Guardians at Rays and Dodgers at Brewers. Every date, home and road sets, October history and every game logged."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
@@ -21,6 +21,8 @@ teams:
 What are the teams wearing in the 2026 MLB Championship Series? Four teams are left. In the National League Championship Series, the **Dodgers are at the Brewers**, a rematch of the 2025 NLCS, and Game 1 was **Sunday, October 11** at American Family Field. In the American League Championship Series, the **Guardians are at the Rays**, starting **Monday, October 12** at Tropicana Field. Below is every ALCS and NLCS date, each team's home and road set, what they wore in the Division Series and in recent Octobers, and what we expect in every game. We log every game, both jerseys, the same night.
 
 **NLCS Game 1 is in the books.** **Confirmed:** the Dodgers wore the road gray with the "Dodgers" script and the blue cap, as in their two NLDS road games, and the Brewers wore the home cream with the all-navy cap they wore for both NLDS home games. Our grade: **B-**. The Brewers won it 2-1, then took Game 2 7-4 to lead the series 2-0. The card is also on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
+
+**ALCS Game 2 tonight (Tuesday, 8:00 p.m. ET):** the Rays are reported to be switching it up and wearing the **white Devil Rays throwback with the Devil Rays cap** at Tropicana Field, with the Guardians expected in their **road gray**. MLB has not confirmed it yet, so we will update this at first pitch.
 
 ### Guardians at Rays, ALCS Game 1
 
@@ -191,7 +193,7 @@ Cleveland won the AL Central at 85-77 and beat the White Sox 3-2 in the ALDS, ta
 Expected looks are our calls from each team's patterns, not confirmed. We confirm each game's jerseys at first pitch.
 
 - Game 1, Mon. Oct. 12: Guardians Road Gray at Rays Home White · Grade: **C+** · Guardians 7, Rays 3 (Guardians lead 1-0)
-- Game 2, Tue. Oct. 13, 8:00 p.m. ET: Expected: Guardians Road Gray at Rays Home White
+- Game 2, Tue. Oct. 13, 8:00 p.m. ET: **Reported:** Guardians Road Gray at Rays **Devil Rays Throwback** (the white Devil Rays jersey with the Devil Rays cap). Not yet confirmed by MLB; we will update at first pitch.
 - Game 3, Thu. Oct. 15, 6:00 p.m. ET: Expected: Rays Road Gray at Guardians Red Alternate or Home White
 - Game 4, Fri. Oct. 16, 6:00 p.m. ET: Expected: Rays Road Gray at Guardians Red Alternate or Home White
 - Game 5 (if needed), Sat. Oct. 17, 8:00 p.m. ET: Expected: Rays Road Gray at Guardians Red Alternate or Home White
