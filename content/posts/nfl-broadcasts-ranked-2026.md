@@ -11,6 +11,7 @@ coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 league: "nfl"
 teams: []
+updatedDate: "2026-10-13"
 ---
 
 There are five ways to watch the NFL on national TV in 2026: Sunday Night Football on NBC, Fox and CBS on Sunday afternoons, Thursday Night Football on Prime Video and Monday Night Football on ESPN and ABC. We ranked every one of them, and one of the biggest names in sports TV finishes last.
@@ -24,7 +25,7 @@ This is not just an announcer ranking. We graded the whole broadcast: the theme 
 
 **The vibe:** Monday Night Football is supposed to be the big game of the week, the one standalone game on a weeknight with the whole country watching. On ESPN it does not feel that way. The presentation leans on bits and add-ons instead of making the game itself feel like the main event, and the result feels smaller than the name on the broadcast.
 
-**The scorebug:** ESPN soft-launched a brand new NFL graphics package and scorebug during a Raiders vs. Texans preseason game on August 20. It is a long, flat bar with the team logos at each end on team color, and ESPN says it will keep changing through the season on the way to Super Bowl LXI in February 2027, ESPN's first Super Bowl. Right now it reads like a work in progress.
+**The scorebug:** ESPN soft-launched a brand new NFL graphics package and scorebug during a Raiders vs. Texans preseason game on August 20. It is a long, flat bar with the team logos at each end on team color, and ESPN says it will keep changing through the season on the way to Super Bowl LXI in February 2027, ESPN's first Super Bowl. Right now it reads like a work in progress. On the scorebug alone, Jake gives it a B-: "It's an improvement over years past, but I think it's still boring. They got rid of the neon yellow theme and went to a more simple look. It's just very boring and doesn't have a lot of personality."
 
 **The booth:** Joe Buck on play-by-play and Troy Aikman as the analyst, with Lisa Salters and Laura Rutledge on the sidelines. Buck and Aikman are in their 25th season together, going back to their Fox days. The booth is good. It is the rest of the broadcast that holds it back.
 
@@ -162,7 +163,7 @@ J.J. Watt. He took over as CBS's lead NFL analyst next to Jim Nantz when Romo wa
 
 **Did ESPN change its NFL scorebug in 2026?**
 
-Yes. ESPN soft-launched a new NFL scorebug and graphics package during a Raiders vs. Texans preseason game on August 20, 2026. It is used on Monday Night Football and will be built out for Super Bowl LXI in February 2027.
+Yes. ESPN soft-launched a new NFL scorebug and graphics package during a Raiders vs. Texans preseason game on August 20, 2026. It is used on Monday Night Football and will be built out for Super Bowl LXI in February 2027. We grade the new scorebug a B-: cleaner than the old neon yellow look, but still short on personality.
 
 **Which network has the best NFL scorebug?**
 

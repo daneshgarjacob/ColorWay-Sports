@@ -1,24 +1,26 @@
 ---
-title: Every National MLB Scorebug Ranked for 2026
+title: "Every National MLB Scorebug Ranked for 2026, Including FOX's New NLCS Scorebug"
 category: MLB
 date: '2026-04-06'
 excerpt: >-
-  We ranked every national MLB broadcast scorebug for 2026 from Fox to ESPN to
-  Netflix. Fox takes the top spot and ESPN lands at the bottom.
+  We ranked every national MLB scorebug for 2026, now with FOX's new NLCS
+  scorebug. Netflix and FOX share the top grade, and ESPN lands at the bottom.
 gradient: 'linear-gradient(135deg, #0C2340 0%, #C41E3A 50%, #0C2340 100%)'
-coverImage: /images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.jpg
+coverImage: /images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug-old-vs-new-cover.jpg
 coverImagePosition: center 50%
 league: mlb
-updatedDate: '2026-10-05'
+updatedDate: '2026-10-13'
 teams: []
 ---
 
-<img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.jpg" alt="Fox MLB scorebug from the 2025 World Series showing Dodgers vs Blue Jays" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Fox MLB scorebug via Fox Sports</p>
+<img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug-old-vs-new.jpg" alt="Old FOX MLB scorebug from the 2025 World Series next to the new 2026 FOX NLCS scorebug" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Old and new FOX MLB scorebugs via FOX Sports. 2026 screenshot via MLB on YouTube</p>
+
+**Update (October 13):** FOX debuted a new MLB scorebug for the NLCS on Sunday, October 11, and it cost FOX the top spot. FOX drops from an A+ to a B+, and Netflix moves up to No. 1. [Jump to the new FOX scorebug](#fox-nlcs-scorebug).
 
 We ranked [every local MLB broadcast scorebug for 2026](/stories/every-mlb-local-tv-scorebug-2026-ranked) earlier today, and we promised a national broadcast edition. Here it is. Six networks now carry Major League Baseball nationally, and the gap between the best and worst scorebug is massive.
 
-One note on ESPN: they have significantly reduced their number of nationally broadcast MLB games this season. Their first 2026 game is Mets vs Dodgers on April 15, so the scorebug shown below is from their 2025 broadcast. We will update this post if anything changes.
+One note on ESPN: they have significantly reduced their number of nationally broadcast MLB games this season, and the ESPN scorebug shown below is from their 2025 broadcast.
 
 Let's get into it, worst to first.
 
@@ -88,7 +90,56 @@ The pitcher and batter info is displayed cleanly at the bottom, and the base run
 
 **Grade: C**
 
-## 2. Netflix: B+
+## 2. FOX: B+
+
+<span id="fox-nlcs-scorebug"></span>
+
+### FOX's New NLCS Scorebug (October 2026)
+
+<img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug-2026-nlcs.jpg" alt="New 2026 FOX MLB scorebug from NLCS Game 1, Dodgers at Brewers, with Misiorowski pitching to Betts" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">2026 FOX MLB scorebug via FOX Sports (NLCS Game 1, Dodgers at Brewers). Screenshot via MLB on YouTube</p>
+
+FOX debuted a new MLB scorebug on Sunday, October 11, for Game 1 of the NLCS, a 2-1 Brewers win over the Dodgers in Milwaukee. FOX announced it on X during the game.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MLBONFOX/status/2109438864779583844"></a></blockquote>
+</div>
+
+Here is the old one next to the new one.
+
+<img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug-old-vs-new.jpg" alt="Old FOX MLB scorebug from the 2025 World Series next to the new FOX scorebug from 2026 NLCS Game 1" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Old (2025 World Series) and new (2026 NLCS Game 1) FOX MLB scorebugs via FOX Sports. 2026 screenshot via MLB on YouTube</p>
+
+The old bug put the team abbreviation (LAD, TOR) over a big faded team logo that filled each side, with the score underneath and a white center panel. The new one drops the abbreviations and the big background logos. Each side now has a small team logo next to a much bigger score on a striped team color block, and the center panel with the inning, count and outs is black. The pitcher and batter bars on top and the 3D bases underneath carried over, and there are now small yellow markers under each team block.
+
+<div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #003A70 0%, #111111 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0, 58, 112, 0.25); text-align: center;">
+<p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
+<p style="margin: 0; font-size: 2.75em; font-weight: 900; color: #fff; line-height: 1; letter-spacing: -1px;">B+</p>
+</div>
+
+<div style="margin: 1.6em 0; padding: 1.2em 1.4em; background: #f4f6fb; border-left: 4px solid #111111; border-radius: 10px;">
+<p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 800; color: #111111; text-transform: uppercase; letter-spacing: 2px;">Jake's Take</p>
+<p style="margin: 0;">It's not terrible, but I'm very disappointed in the change. The sections where the team names and team logos go got significantly worse, with the logos smaller, and I don't like that black space in the middle now either.</p>
+</div>
+
+It is still clean and easy to read, which is why it lands at a B+ and not lower. But the team color identity that made the old one great is weaker now, so FOX drops from an A+ to a B+ and from No. 1 to No. 2.
+
+### FOX's Old Scorebug (2025 World Series)
+
+<img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.jpg" alt="Old FOX MLB scorebug from the 2025 World Series showing Dodgers vs Blue Jays with Rojas at bat" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Old FOX MLB scorebug via FOX Sports (2025 World Series)</p>
+
+This was the best national scorebug in baseball, and it was not close. The design is colorful, clean, and perfectly balanced. Each team gets its own color block with the logo, the score is massive and easy to read from across the room, and the inning, count, and outs are all laid out logically in the center panel.
+
+The base-runner diamond sits right in the middle where your eye naturally goes. The pitcher info and batter info with their batting average sit above the main scorebug in a translucent bar that adds context without adding clutter. Everything has a place. Nothing feels crammed or forced.
+
+What made FOX the clear number one was the color. The team color blocks on each side give the scorebug instant identity. You can glance at the screen for half a second and know exactly who is playing. That is what a great scorebug does. Compare that to ESPN or TNT where everything is dark and you have to actually search for the team logos.
+
+FOX had been the gold standard for MLB scorebugs for a while, and this is the version it used until the 2026 NLCS. That is the bug we originally graded an A+.
+
+**Grade: B+** (new 2026 NLCS scorebug)
+
+## 1. Netflix: B+
 
 <img src="/images/posts/national-mlb-scorebugs-2026-ranked/netflix-scorebug.png" alt="Netflix MLB scorebug 2026 showing Yankees vs Giants" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Netflix MLB scorebug via Netflix</p>
@@ -97,34 +148,21 @@ A lot of people hated the Netflix scorebug when it debuted. We actually liked it
 
 What separates Netflix from Apple TV+ is that Netflix's scorebug has a little more substance to it. The colors are richer, the layout is more balanced, and the transition graphics heading into commercial breaks carry the same design language. The whole broadcast package feels cohesive, like someone actually thought about how all the pieces fit together.
 
-We did a [full breakdown of the Netflix scorebug](/stories/netflix-mlb-scorebug-2026-review) earlier this season. For a first attempt at live baseball, this was impressive. It is not the best scorebug in baseball, but it is far from the worst.
+We did a [full breakdown of the Netflix scorebug](/stories/netflix-mlb-scorebug-2026-review) earlier this season. For a first attempt at live baseball, this was impressive.
+
+Netflix and FOX both sit at a B+ now, and Netflix gets the top spot. FOX went backward with its new NLCS scorebug, and Netflix's first try still holds up. When the grades are tied, we take the one that did not get worse.
 
 **Grade: B+**
-
-## 1. Fox: A+
-
-<img src="/images/posts/national-mlb-scorebugs-2026-ranked/fox-scorebug.jpg" alt="Fox MLB scorebug from the 2025 World Series showing Dodgers vs Blue Jays with Rojas at bat" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Fox MLB scorebug via Fox Sports (2025 World Series)</p>
-
-Fox has the best national scorebug in baseball and it is not close. The design is colorful, clean, and perfectly balanced. Each team gets its own color block with the logo, the score is massive and easy to read from across the room, and the inning, count, and outs are all laid out logically in the center panel.
-
-The base-runner diamond sits right in the middle where your eye naturally goes. The pitcher info and batter info with their batting average sit above the main scorebug in a translucent bar that adds context without adding clutter. Everything has a place. Nothing feels crammed or forced.
-
-What makes Fox the clear number one is the color. The team color blocks on each side give the scorebug instant identity. You can glance at the screen for half a second and know exactly who is playing. That is what a great scorebug does. Compare that to ESPN or TNT where everything is dark and you have to actually search for the team logos.
-
-Fox has been the gold standard for MLB scorebugs for a while now, and this version has not changed for 2026 because it does not need to. When you already have the best one, you leave it alone.
-
-**Grade: A+**
 
 ## The Full Rankings
 
 <div style="margin: 2em 0; padding: 1.5em; background: #f8f8f8; border-radius: 12px;">
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75em 0; border-bottom: 1px solid #e5e5e5;">
-    <span style="font-weight: 800; font-size: 1.1em;">1. Fox</span>
-    <span style="font-weight: 800; font-size: 1.1em; color: #4CAF50;">A+</span>
+    <span style="font-weight: 800; font-size: 1.1em;">1. Netflix</span>
+    <span style="font-weight: 800; font-size: 1.1em; color: #4CAF50;">B+</span>
   </div>
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75em 0; border-bottom: 1px solid #e5e5e5;">
-    <span style="font-weight: 800; font-size: 1.1em;">2. Netflix</span>
+    <span style="font-weight: 800; font-size: 1.1em;">2. FOX</span>
     <span style="font-weight: 800; font-size: 1.1em; color: #4CAF50;">B+</span>
   </div>
   <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75em 0; border-bottom: 1px solid #e5e5e5;">
@@ -155,7 +193,7 @@ Before we wrap this up, take a look at what Nippon Professional Baseball does wi
 
 That Rubik's Cube style scorebug is one of the most creative things we have seen in any sport. The 3D rotating design packs an incredible amount of information into a small space while still looking visually interesting. It is bold, it is different, and it makes every American national scorebug look boring by comparison.
 
-We are not saying Fox or Netflix needs to copy this exactly, but the idea of making the scorebug something visually engaging rather than just a static box is worth thinking about. MLB broadcasts in the US have been stuck in the same layout philosophy for years. Japan is proving there is a way to make scorebugs a part of the entertainment, not just a necessary overlay. American networks should be paying attention.
+We are not saying FOX or Netflix needs to copy this exactly, but the idea of making the scorebug something visually engaging rather than just a static box is worth thinking about. MLB broadcasts in the US have been stuck in the same layout philosophy for years. Japan is proving there is a way to make scorebugs a part of the entertainment, not just a necessary overlay. American networks should be paying attention.
 
 <span id="faq"></span>
 
@@ -163,7 +201,19 @@ We are not saying Fox or Netflix needs to copy this exactly, but the idea of mak
 
 **What is the best national MLB scorebug in 2026?**
 
-Fox, with an A+. The team color blocks, the big score and the base diamond in the center make it the easiest scorebug in baseball to read at a glance. Netflix is second with a B+.
+Netflix, with a B+. FOX was No. 1 with an A+ until it debuted a new scorebug for the 2026 NLCS. The new FOX bug also gets a B+, and Netflix takes the tiebreaker because FOX's change made its scorebug worse.
+
+**Did FOX change its MLB scorebug?**
+
+Yes. FOX debuted a new MLB scorebug on October 11, 2026, in Game 1 of the NLCS between the Dodgers and Brewers. It replaces the team abbreviations and big background logos with small team logos and bigger scores, and the center panel is now black. We grade it a B+, down from the A+ we gave the old one.
+
+**Why did FOX change its scorebug for the NLCS?**
+
+FOX has not given a public reason beyond announcing it as a "New scorebug for the NLCS!" on its MLB account. It rolled the new design out at the start of the NLCS, the biggest stage FOX has had this season before the World Series.
+
+**What channel is the NLCS on?**
+
+The 2026 NLCS between the Brewers and Dodgers is on FOX and FS1. Games 1 and 2 aired on FOX, Games 3 through 6 are scheduled for FS1, and a Game 7 would air on FOX and FS1. The ALCS between the Guardians and Rays is on TBS and truTV, with streaming on HBO Max.
 
 **What is the worst national MLB scorebug in 2026?**
 
@@ -181,10 +231,10 @@ TBS, truTV and HBO Max carry the 2026 American League Division Series (White Sox
 
 In the debut frame of the new 2026 TNT/TBS scorebug there is no batter bar, so the hitter's spot in the lineup is not shown. The old TNT version did show it, for example "1. S. Ohtani" in the 2025 NLCS.
 
-## The Full Rankings
+## The Bottom Line on National MLB Scorebugs
 
-The gap between Fox and everyone else is significant. Netflix proved that a streaming platform can make a quality scorebug if they actually put the effort in. Apple TV+ and NBC are fine but forgettable. And TNT/TBS and ESPN are dragging down the viewing experience for some of the biggest games on the baseball calendar.
+The gap at the top closed in October. Netflix proved that a streaming platform can make a quality scorebug if they actually put the effort in, and FOX's new NLCS bug dropped it into a tie with Netflix at a B+. Apple TV+ and NBC are fine but forgettable. And TNT/TBS and ESPN are dragging down the viewing experience for some of the biggest games on the baseball calendar.
 
-We will update this post once ESPN debuts their 2026 scorebug on April 15 for Mets vs Dodgers. If you want to see how the local broadcast scorebugs stack up, check out our [full ranking of every MLB local TV scorebug for 2026](/stories/every-mlb-local-tv-scorebug-2026-ranked).
+If you want to see how the local broadcast scorebugs stack up, check out our [full ranking of every MLB local TV scorebug for 2026](/stories/every-mlb-local-tv-scorebug-2026-ranked).
 
 *All scorebug screenshots captured from broadcast footage for editorial review purposes.*
