@@ -33,7 +33,7 @@ This page is the plan. For the receipts, our [MLB daily uniform tracker](/storie
 
 The Dodgers beat the Braves 3-1 in the NLDS and now face the Brewers in the National League Championship Series, a best of seven that opens in Milwaukee because the Brewers had the better record. Game 1 is **Sunday, October 11 at 5:00 p.m. PT (8:00 p.m. ET) at American Family Field on FOX**, and Game 2 is Monday, October 12 at 2:00 p.m. PT. The series moves to Dodger Stadium for Game 3 on Wednesday, October 14 at 5:00 p.m. PT and Game 4 on Thursday, October 15 at 6:00 p.m. PT, with Game 5, if needed, there on Friday, October 16. Games 6 and 7, if needed, are back in Milwaukee on October 18 and 19.
 
-**Game 1, confirmed:** the road gray with the "Dodgers" script and the blue cap, the same look they wore for NLDS Games 3 and 4 in Atlanta, against the Brewers in home cream. Our grade: **B-**. The Brewers won Game 1, 2-1, to take a 1-0 series lead.
+**Game 1, confirmed:** the road gray with the "Dodgers" script and the blue cap, the same look they wore for NLDS Games 3 and 4 in Atlanta, against the Brewers in home cream. Our grade: **B-**. The Brewers won Game 1, 2-1, and Game 2, 7-4, in the same uniforms (both graded B-), to lead the series 2-0.
 
 **What we expect for the rest of the series.** In Milwaukee, the road gray with the "Dodgers" script. At Dodger Stadium, home whites, which they wore for NLDS Games 1 and 2 and for every home playoff game in 2024 and 2025. None of the home games falls on a Saturday, so the cream City Connect is not in the picture. Those are expectations, not confirmed calls: we confirm each game's jerseys at first pitch on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 
