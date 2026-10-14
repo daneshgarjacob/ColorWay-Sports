@@ -114,8 +114,8 @@ export default async function NewsFeed() {
 
               <InlineNewsletter
                 eyebrow="The Wire, once a week"
-                heading="Get the week's uniform news on Fridays."
-                body="Every reveal, combination and mess-up from the week, in one email."
+                heading="Get the week's uniform news in one weekly email."
+                body="Every reveal, combination and mess-up from the week, all in one place."
                 stacked
               />
             </aside>

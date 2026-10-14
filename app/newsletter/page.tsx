@@ -7,12 +7,12 @@ import InlineNewsletter from "@/components/InlineNewsletter";
 export const metadata: Metadata = {
   title: "Newsletter | ColorWay Sports",
   description:
-    "Sign up for the free ColorWay Sports newsletter: the week's uniform news, jersey debuts and tracker highlights, sent every Friday.",
+    "Sign up for the free ColorWay Sports newsletter: the week's uniform news, jersey debuts and tracker highlights, sent once a week.",
   alternates: { canonical: "https://www.colorwaysports.com/newsletter" },
   openGraph: {
     title: "The ColorWay Sports Newsletter",
     description:
-      "The week's uniform news, jersey debuts and tracker highlights, sent every Friday. Free.",
+      "The week's uniform news, jersey debuts and tracker highlights, sent weekly. Free.",
     url: "https://www.colorwaysports.com/newsletter",
     type: "website",
   },
@@ -42,7 +42,7 @@ export default function NewsletterPage() {
         className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#2f6bed] mb-3 text-center"
         style={{ fontFamily: "var(--font-sans)" }}
       >
-        Free, every Friday
+        Free, every week
       </p>
       <h1
         className="text-3xl sm:text-5xl font-extrabold text-black leading-[1.05] tracking-tight text-center"
