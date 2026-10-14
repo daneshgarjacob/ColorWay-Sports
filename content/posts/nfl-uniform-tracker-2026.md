@@ -51,6 +51,11 @@ Week 6 opens on Thursday, October 15, with Seattle at Denver and both teams in t
 
 What the Seahawks and Broncos will wear, helmet to pants. Both teams confirmed throwbacks for Thursday night on October 13. Denver wears its orange throwback under the royal blue helmet with the orange "D" logo and a white facemask, with white pants carrying an orange and blue stripe. Seattle answers in its royal blue throwback with the silver helmet and silver pants. Orange against royal blue is the most colorful matchup of the week. We log the real combination and grade the matchup once the game is played.
 
+Denver is dressing the field to match, with an orange BRONCOS end zone, the classic "D" logo and the classic orange "D" at midfield.
+
+<img src="/images/posts/nfl-week-6-uniforms-2026/broncos-week-6-field-design.jpg" alt="Denver Broncos Week 6 field design for Seahawks at Broncos on Thursday Night Football, October 15, 2026: retro field with an orange BRONCOS end zone and the classic orange D logo at midfield" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Graphic: Denver Broncos</p>
+
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
   <div style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: space-between; gap: 8px 10px; margin: 0 0 4px;">

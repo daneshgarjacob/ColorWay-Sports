@@ -3,7 +3,7 @@ title: "NFL Week 6 Uniforms 2026: What Every Team Is Wearing, Including the Bron
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-10-13"
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-14"
 excerpt: "NFL Week 6 uniforms (Oct. 15-19): Broncos orange throwback vs Seahawks royal blue on Thursday night, Saints all white at the Giants, Chargers gold pants in Kansas City."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -27,11 +27,19 @@ Below is every Week 6 look we know, starting with the special ones and then all 
 
 The Broncos wear the throwback twice this season, here and in Week 18 against the Chargers. Seattle wears its royal blue three times, all in primetime: this game, Week 7 against Kansas City on Sunday night and Week 13 against Dallas on Monday night. Every date is in the [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026) and the [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026).
 
+The field goes retro too. Denver's field design for the game has an orange end zone reading BRONCOS with the classic "D" logo and the classic orange "D" at midfield, a match for the throwback uniforms.
+
+<img src="/images/posts/nfl-week-6-uniforms-2026/broncos-week-6-field-design.jpg" alt="Denver Broncos Week 6 field design for Seahawks at Broncos on Thursday Night Football, October 15, 2026: retro field with an orange BRONCOS end zone, the classic orange D logo at midfield, and the Seahawks silver throwback helmet vs the Broncos royal blue D throwback helmet" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Graphic: Denver Broncos</p>
+
+<img src="/images/posts/nfl-week-6-uniforms-2026/seahawks-broncos-tnf-lockers.jpg" alt="Seahawks and Broncos throwback lockers for Thursday Night Football in Week 6 of 2026: Seattle royal blue throwback jersey with the silver helmet and Denver orange throwback jersey with the royal blue D helmet" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Graphic: Ticketmaster</p>
+
 ### New Orleans Saints: All White at the Giants
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/saints-white-alternate.jpg" alt="New Orleans Saints white alternate jersey, confirmed at the Giants in Week 6 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/giants-royal-home.jpg" alt="New York Giants royal blue home jersey, confirmed against the Saints in Week 6 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Sunday, 1:00 p.m. ET, FOX. Confirmed on both sides.** New Orleans published its 2026 schedule on September 7, and Week 6 at MetLife is the **white alternate under the white helmet**, the all-white set with gold numbers. Our read is white pants to complete it. The Giants published all 17 games too, and this one is **royal blue** at home under the blue NY helmet with white pants. It is also the Giants' Crucial Catch game. The Saints' white alternate travels again in Week 12 at Cincinnati before it appears at home against Arizona in Week 16. See the [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) and the [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, FOX. Confirmed on both sides.** New Orleans published its 2026 schedule on September 7, and Week 6 at MetLife is the **white alternate under the white helmet**, the all-white set with gold numbers: white helmet, white jersey, white pants. The Giants published all 17 games too, and this one is **royal blue** at home under the blue NY helmet with white pants. It is also the Giants' Crucial Catch game. The Saints' white alternate travels again in Week 12 at Cincinnati before it appears at home against Arizona in Week 16. See the [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) and the [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026).
 
 ### Los Angeles Chargers: White Over Gold Pants in Kansas City
 

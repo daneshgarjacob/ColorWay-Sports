@@ -1,27 +1,30 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import { Inter, Playfair_Display, Hanken_Grotesk } from "next/font/google";
+import localFont from "next/font/local";
 import EmailCapture from "@/components/EmailCapture";
 import PushPromptGate from "@/components/PushPromptGate";
 import "./globals.css";
 
-const inter = Inter({
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700", "800", "900"],
+// Self-hosted (latin variable fonts from Google Fonts, saved 10/14). next/font/google broke
+// builds: Google now sometimes serves /l/font?kit=..&skey=.. URLs that Turbopack's font
+// loader rejects ("queries have exactly one entry"), failing Vercel deploys at random.
+const inter = localFont({
+  src: "./fonts/inter-latin.woff2",
+  weight: "400 900",
   variable: "--font-inter",
   display: "swap",
 });
 
-const playfair = Playfair_Display({
-  subsets: ["latin"],
-  weight: ["700", "800", "900"],
+const playfair = localFont({
+  src: "./fonts/playfair-display-latin.woff2",
+  weight: "700 900",
   variable: "--font-playfair",
   display: "swap",
 });
 
-const hanken = Hanken_Grotesk({
-  subsets: ["latin"],
-  weight: ["500", "700", "800", "900"],
+const hanken = localFont({
+  src: "./fonts/hanken-grotesk-latin.woff2",
+  weight: "500 900",
   variable: "--font-hanken",
   display: "swap",
 });
