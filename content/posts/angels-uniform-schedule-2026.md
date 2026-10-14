@@ -1,5 +1,5 @@
 ---
-title: "Los Angeles Angels Uniform Schedule 2026: The Road Grays Are Back, Every Jersey Explained"
+title: "Los Angeles Angels Jerseys & Uniforms 2026: Full Schedule"
 category: MLB
 date: "2026-06-23"
 updatedDate: "2026-10-13"
@@ -18,6 +18,8 @@ teams:
 <div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Angels Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Tuesday, October 13, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #5a6472; line-height: 1.1;">SEASON OVER</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Back in 2027</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Angels finished their 2026 season on Sunday, September 27.</div><a href="/mlb-tracker/angels" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
 The Los Angeles Angels carry five uniforms in 2026, and the headline is that the road grays are back. The "Los Angeles" road set looked like it was on its way out at the start of the year, and for a stretch the red "Angels" jersey did the travelling on its own, but the grays have returned to the rotation. Mike Trout wore them at the All-Star Game, and the club ran them through Hall of Fame Weekend in July. Add the 1980s throwback white that turns up in home stretches, and this closet is deeper than the version most people have in their heads. Unlike a rigidly scheduled club such as the Phillies, the Angels run on feel rather than a published timetable, with one soft anchor: the cream City Connect that owns Friday nights at Angel Stadium. Here's the full Angels wardrobe for 2026 and when each jersey actually comes out.
+
+Want them graded instead? Here is [every Los Angeles Angels jersey ranked](/stories/angels-jerseys-2026-ranked), worst to best.
 
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #BA0021 0%, #BA0021cc 100%);">

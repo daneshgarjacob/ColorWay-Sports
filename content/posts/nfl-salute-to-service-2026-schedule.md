@@ -1,9 +1,9 @@
 ---
-title: "NFL Salute to Service 2026 Schedule: Every Team's Camo Game, the Veterans Day Weeks, and When the Gear Drops"
+title: "NFL Salute to Service 2026: Dates, Gear Release Date, Every Game"
 category: "NFL"
 date: "2026-09-14"
-updatedDate: "2026-09-14"
-excerpt: "The NFL Salute to Service 2026 schedule: 21 team-confirmed military appreciation games, the 11 still unannounced, what players wear, and when the olive gear arrives."
+updatedDate: "2026-10-13"
+excerpt: "NFL Salute to Service 2026 dates and release date: the 2026 gear is already out, 22 teams have named their game, most fall November 5 to 9."
 gradient: "linear-gradient(135deg, #3d4a2c 0%, #1f2716 52%, #2f6bed 100%)"
 cardStyle: words
 kicker: Uniform Schedule
@@ -12,9 +12,11 @@ league: "nfl"
 teams: []
 ---
 
-The **NFL Salute to Service 2026 schedule** is the question every November: why is the whole sideline suddenly in olive green and camo, and which game is your team's? The league has not published a 2026 calendar yet, so we went club by club instead. **Twenty-one teams have already named their 2026 Salute to Service game**, most of them in home game themes announcements from June through September, and we list every one below with the date, the opponent and the uniform we expect on the field.
+**NFL Salute to Service 2026 dates:** team games run from **October 25 to November 30**, and the biggest wave is Week 9, **November 5 to 9**, just before Veterans Day. **Release date:** the 2026 Salute to Service gear is already out. New Era's online store data shows its 2026 Salute to Service caps went live on **September 21, 2026**, and the 2026 Nike sideline hoodies were on sale at [NFL Shop](https://www.nflshop.com/salute-to-service/c-39087453+z-9625009-3234416133) for $119.99 when we checked on October 13. The NFL has not announced its official 2026 Salute to Service weeks yet.
 
-Here is the surprise: the dates do not sit neatly in one week. They run from **October 25 in Nashville to November 30 in Tampa**, and ten of the 21 land on a single weekend, Week 9, just before Veterans Day on Wednesday, November 11.
+The **NFL Salute to Service 2026 schedule** is the question every November: why is the whole sideline suddenly in olive green and camo, and which game is your team's? The league has not published a 2026 calendar yet, so we went club by club instead. **Twenty-two teams have already named their 2026 Salute to Service game**, most of them in home game themes announcements from June through September, and we list every one below with the date, the opponent and the uniform we expect on the field.
+
+Here is the surprise: the dates do not sit neatly in one week. They run from **October 25 in Nashville to November 30 in Tampa**, and ten of the 22 land on a single weekend, Week 9, just before Veterans Day on Wednesday, November 11.
 
 
 Looking for October first? Our [NFL Crucial Catch 2026 schedule](/stories/nfl-crucial-catch-2026-schedule) has every team's cancer awareness game.
@@ -35,7 +37,7 @@ The program also carries an award. The **Salute to Service Award presented by US
 
 ## Has the NFL Announced the 2026 Salute to Service Weeks?
 
-**Not yet.** The league typically announces its on-field window close to the games themselves. Its 2025 release came out on October 30, 2025, and put Salute to Service on the field **during Weeks 9 through 11**. The 2024 release came out on November 7, 2024, and covered **Weeks 10 through 12**.
+**Not yet**, as of October 13. The league typically announces its on-field window close to the games themselves. Its 2025 release came out on October 30, 2025, and put Salute to Service on the field **during Weeks 9 through 11**. The 2024 release came out on November 7, 2024, and covered **Weeks 10 through 12**.
 
 For 2026, the calendar math matters. Week 1 opened Thursday, September 10, so the November weeks fall like this:
 
@@ -47,7 +49,7 @@ For 2026, the calendar math matters. Week 1 opened Thursday, September 10, so th
 
 Veterans Day, Wednesday, November 11, falls between Week 9 and Week 10. The team dates below cluster around exactly that line. We will add the league's official weeks here as soon as the NFL announces them.
 
-## Salute to Service 2026 Schedule: The 21 Confirmed Team Games
+## Salute to Service 2026 Schedule: The 22 Confirmed Team Games
 
 Each date below comes from the team's own 2026 home game themes announcement or official schedule. The uniform line is what our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026) has for that game. **Confirmed** means the club announced the jersey. **Expected** means it follows the standard home-and-away convention and has not been announced.
 
@@ -82,6 +84,7 @@ Each date below comes from the team's own 2026 home game themes announcement or 
 ### Week 11
 
 - **Buffalo Bills** vs. Miami Dolphins, Sunday, November 22. Confirmed uniform: **Cold Front**, Buffalo's all-white Rivalries set with the metal-flake white helmet. The Bills listed the game as "Salute to Service" with the uniform "Rivalries." [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026)
+- **Los Angeles Chargers** vs. New York Jets, Sunday, November 22. The Chargers' [2026 game themes](https://www.chargers.com/news/game-themes-2026-sofi-stadium), published September 8, list Week 11 against the Jets as Salute to Service, presented by American Airlines. Confirmed uniform: **powder blue**. [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026)
 - **New York Giants** vs. Jacksonville Jaguars, Sunday, November 22, with a military knit beanie giveaway. Expected uniform: blue. [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026)
 
 ### Week 12
@@ -90,14 +93,13 @@ Each date below comes from the team's own 2026 home game themes announcement or 
 - **Jacksonville Jaguars** vs. Tennessee Titans, Sunday, November 29. Expected uniform: teal. [Jaguars 2026 uniform schedule](/stories/jaguars-uniform-schedule-2026)
 - **Tampa Bay Buccaneers** vs. Carolina Panthers, Monday, November 30, Monday Night Football, combined with My Cause My Cleats. Expected uniform: red. [Buccaneers 2026 uniform schedule](/stories/buccaneers-uniform-schedule-2026)
 
-## The 11 Teams That Have Not Named a 2026 Salute to Service Game
+## The 10 Teams That Have Not Named a 2026 Salute to Service Game
 
-These clubs have not published a 2026 Salute to Service date that we could find on the team's site or schedule. Below are their home games from November 1 through Thanksgiving week, which is where the game has landed in recent seasons. **These are possibilities, not announcements.**
+These clubs have not published a 2026 Salute to Service date that we could find on the team's site or schedule, as of October 13. Below are their home games from November 1 through Thanksgiving week, which is where the game has landed in recent seasons. **These are possibilities, not announcements.**
 
 - **Cincinnati Bengals:** Titans (November 1), Steelers (November 15, confirmed White Bengal uniform) and Saints (November 29). The November 8 game against Atlanta is in Madrid with the Falcons as the home team. [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026)
 - **Denver Broncos:** Chiefs (November 1) and Raiders (November 22). [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026)
 - **Cleveland Browns:** Texans (November 15) and Raiders (November 29). Cleveland has usually announced its Salute to Service game in a press release during game week. [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026)
-- **Los Angeles Chargers:** Texans (November 8), Jets (November 22) and Patriots (November 29). All three have confirmed uniforms: Super Chargers navy, powder blue, then Super Chargers again. [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026)
 - **Dallas Cowboys:** Cardinals (November 1), 49ers (November 15), Titans (November 22) and the Eagles on Thanksgiving. Dallas has worn a **red center stripe on its helmet** for its Salute to Service game every year since 2021, most recently against Arizona in 2025. The Cowboys' September 4 uniform schedule did not name the 2026 red-stripe game. [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026)
 - **Philadelphia Eagles:** Giants (November 8, confirmed Kelly Green) and Steelers (November 22). [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026)
 - **Atlanta Falcons:** Chiefs (November 15) is Atlanta's only November game at Mercedes-Benz Stadium. The Madrid game against Cincinnati on November 8 is also a Falcons home game. [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026)
@@ -121,11 +123,14 @@ A few clubs go further with the uniform itself. The Cowboys' red helmet stripe i
 
 For how every team actually looked on game day, the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs each game once it is played.
 
-## When the 2026 Salute to Service Gear Drops
+## Salute to Service 2026 Release Date: The Gear Is Out
 
-**It is not out yet.** As of September 14, the Salute to Service collection on NFL Shop is still selling 2025-labeled product, and we found no official 2026 release date.
+**The 2026 Salute to Service collection is already on sale.** Neither the NFL nor its retailers announced a single launch date, so here is what we could verify:
 
-The recent pattern gives a good read. New Era's 2025 Salute to Service caps went up on **October 16, 2025**, about two weeks before the first on-field weekend. Expect the 2026 Nike sideline hoodies and New Era caps in the **middle of October**, ahead of the Week 9 cluster on November 5 through 9. We will update this page with the date once the collection goes live.
+- **New Era caps: live September 21, 2026.** The publish dates in New Era's own online store show the 2026 Salute to Service caps going live on September 21, with a few more styles following on September 23 and September 30. The [New Era collection](https://www.neweracap.com/collections/nfl-salute-to-service) lists styles such as the 19TWENTY snapback ($44.99), the 9FIFTY snapback ($54.99), the 59FIFTY fitted ($58.99) and the pom knit ($37.99), and describes an army green crown, a digi-camo interior and a team logo shield on the undervisor.
+- **Nike sideline hoodies: on sale now.** When we checked [NFL Shop](https://www.nflshop.com/salute-to-service/c-39087453+z-9625009-3234416133) on October 13, the 2026 Salute to Service Sideline Dri-FIT pullover hoodie was listed for every team we looked at, at $119.99, alongside 2026 tees ($54.99), lightweight hooded long sleeves ($89.99) and bomber jackets ($199.99). Fanatics carries the same 2026 line.
+
+That is earlier than last year. New Era's 2025 Salute to Service caps went up on October 16, 2025. Popular team and size combinations tend to sell through before the November games.
 
 The NFL says all of its proceeds from Salute to Service apparel go to its military charitable partners, and game-worn items are auctioned on NFL.com.
 
@@ -139,13 +144,13 @@ It is the NFL's Salute to Service program, which honors service members, veteran
 
 The green hoodies, jackets and caps are Salute to Service sideline gear. The olive and army green colors are a military tribute, and the NFL donates its proceeds from the fan versions to partners including the USO, Wounded Warrior Project and the Pat Tillman Foundation.
 
-**When is Salute to Service in 2026?**
+**When is Salute to Service NFL 2026?**
 
-The NFL has not announced its official 2026 weeks. Team-announced dates run from October 25 (Titans) to November 30 (Buccaneers), with ten games in Week 9, November 5 through 9. The league used Weeks 9 through 11 in 2025 and Weeks 10 through 12 in 2024.
+Salute to Service 2026 team games run from October 25 to November 30, with the biggest group in Week 9, November 5 to 9, right before Veterans Day on November 11. The NFL has not announced its official 2026 weeks. Team-announced dates run from October 25 (Titans) to November 30 (Buccaneers), with ten games in Week 9, November 5 through 9. The league used Weeks 9 through 11 in 2025 and Weeks 10 through 12 in 2024.
 
 **What is my team's 2026 Salute to Service game?**
 
-Twenty-one teams have named theirs, listed week by week above. The Bengals, Broncos, Browns, Chargers, Cowboys, Eagles, Falcons, Lions, Panthers, Rams and Saints have not announced a 2026 date yet.
+Twenty-two teams have named theirs, listed week by week above. The Bengals, Broncos, Browns, Cowboys, Eagles, Falcons, Lions, Panthers, Rams and Saints have not announced a 2026 date yet.
 
 **Do NFL teams wear special jerseys for Salute to Service?**
 
@@ -155,9 +160,17 @@ Usually not. The tribute lives on sideline apparel, helmet decals and field mark
 
 Dallas adds a red center stripe for its Salute to Service game, a throwback to the 1976 Bicentennial season. The Cowboys have brought it back every year since 2021, and the 2026 game has not been announced.
 
+**What is the NFL Salute to Service 2026 release date?**
+
+The 2026 gear is already out. New Era's store data shows its 2026 Salute to Service caps went live on September 21, 2026, and NFL Shop was selling the 2026 Nike sideline hoodies at $119.99 when we checked on October 13. The NFL did not announce a single launch date.
+
 **When does the 2026 Salute to Service collection come out?**
 
-No date has been announced, and NFL Shop is still selling 2025 product. The 2025 New Era caps arrived October 16, 2025, so a mid-October 2026 release is the best bet.
+It is out now. The New Era caps went live September 21, 2026, about three weeks earlier than the 2025 caps, which arrived October 16, 2025. The 2026 Nike hoodies, tees and jackets are on NFL Shop and Fanatics.
+
+**When are the NFL Salute to Service 2026 games?**
+
+From October 25 (Titans vs. Browns) to November 30 (Buccaneers vs. Panthers). Ten of the 22 announced games fall in Week 9, November 5 to 9.
 
 **Where does the money from Salute to Service go?**
 
@@ -165,4 +178,4 @@ To the program's five partners: the Bob Woodruff Foundation, Pat Tillman Foundat
 
 ## The Bottom Line
 
-Salute to Service is not one weekend in 2026. It is a five-week run of team games, with the biggest wave on November 5 through 9 and the first one in Nashville on October 25. Twenty-one clubs have named their game, two of them with confirmed alternates, and eleven are still to come, including the Cowboys and their red-stripe helmet. The olive gear should hit shelves in mid-October. We will fill in the league's official weeks, the remaining eleven teams and the apparel release date as each one is announced.
+Salute to Service is not one weekend in 2026. It is a five-week run of team games, with the biggest wave on November 5 through 9 and the first one in Nashville on October 25. Twenty-two clubs have named their game, two of them with confirmed alternates, and ten are still to come, including the Cowboys and their red-stripe helmet. The 2026 gear is already on shelves, with the New Era caps live since September 21. We will fill in the league's official weeks and the remaining ten teams as each one is announced.

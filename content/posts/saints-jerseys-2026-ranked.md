@@ -1,8 +1,8 @@
 ---
-title: "New Orleans Saints Jerseys 2026: Every Jersey Ranked, From White Alternate to Black"
+title: "Every New Orleans Saints Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "New Orleans Saints jerseys 2026, ranked: black, white, the all-white alternate and gold, graded with the helmet each wears and every date on the calendar."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 author: "colorway-sports-staff"

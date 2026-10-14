@@ -1,9 +1,9 @@
 ---
 topViewsRank: 6
-title: "Baltimore Ravens 2026 Uniform Schedule: White Noise, Purple Rising, and Darkness Falls Dates Confirmed"
+title: "Baltimore Ravens Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-13"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -16,6 +16,8 @@ teams: ["baltimore-ravens"]
 ---
 
 Baltimore has now named all three of its Next Flight theme games. The all-white **White Noise** look debuts in **Week 2 against the Saints, Sunday, September 20 at 1:00**. The all-purple **Purple Rising** uniform, with the new Purple Rising helmet, gets **Thursday Night Football in Week 9 against the Jaguars, November 5 at 8:15**. And the all-black **Darkness Falls** set, with the matte black Darkness helmet and its red-eyed raven, debuts on **Monday Night Football in Week 10 against the Chargers, November 16 at 8:15**. White Noise was announced August 24; the other two landed September 1. Here is the full Baltimore Ravens 2026 uniform schedule, week by week, with the three confirmed dates first and our calls for everything else.
+
+Want them graded instead? Here is [every Baltimore Ravens jersey ranked](/stories/ravens-jerseys-2026-ranked), worst to best.
 
 ## The Full 2026 Ravens Uniform Schedule, Week by Week
 

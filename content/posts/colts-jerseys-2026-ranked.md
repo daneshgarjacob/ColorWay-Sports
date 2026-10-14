@@ -1,8 +1,8 @@
 ---
-title: "Indianapolis Colts Jerseys 2026: Every Jersey Ranked, From Indiana Nights to Anvil Strike"
+title: "Every Indianapolis Colts Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Indianapolis Colts jerseys 2026, ranked: Indiana Nights, the royal blue home, the white and the new Anvil Strike, graded with every date each is worn."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 author: "colorway-sports-staff"

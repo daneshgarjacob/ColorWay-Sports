@@ -1,8 +1,8 @@
 ---
-title: "Kansas City Chiefs Jerseys 2026: Every Jersey Ranked, From Red to White"
+title: "Every Kansas City Chiefs Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Kansas City Chiefs jerseys 2026, ranked: red at home and white on the road, both graded, with the helmet, pants and every date each one is worn."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 author: "colorway-sports-staff"

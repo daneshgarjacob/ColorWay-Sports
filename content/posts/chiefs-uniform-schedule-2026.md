@@ -1,8 +1,8 @@
 ---
-title: "Kansas City Chiefs 2026 Uniform Schedule: Every Jersey, Every Week, and Why the Closet Stays This Small"
+title: "Kansas City Chiefs Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-13"
 excerpt: "The Chiefs 2026 uniform schedule: red at home, white on the road except red at Miami, no new alternate, and the one combination that passes for variety."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 cardStyle: words
@@ -13,6 +13,8 @@ teams: ["kansas-city-chiefs"]
 ---
 
 While Buffalo was unveiling a gray alternate and a new blue helmet, and the Bears and Packers were being fitted for brand-new Rivalries uniforms, the Kansas City Chiefs announced nothing at all. That is not an oversight. The Chiefs are the most conservative uniform team in the league, and going into 2026 they have no new alternate, no throwback, and no announced plans for either. What they have is red for home, white for the road, and one combination that passes for variety. Here is the full Chiefs 2026 uniform schedule week by week.
+
+Want them graded instead? Here is [every Kansas City Chiefs jersey ranked](/stories/chiefs-jerseys-2026-ranked), worst to best.
 
 ## The Full 2026 Chiefs Uniform Schedule, Week by Week
 

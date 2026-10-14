@@ -1,8 +1,8 @@
 ---
-title: "Every Toronto Blue Jays Jersey in 2026, Ranked: The Blues Rule and the City Connect Bombs"
+title: "Every Blue Jays Jersey Ranked (2026): The Blues Rule, the City Connect Bombs"
 category: MLB
 date: "2026-07-28"
-updatedDate: "2026-07-28"
+updatedDate: "2026-10-13"
 excerpt: "Every Toronto Blue Jays jersey and uniform for 2026, ranked and graded worst to first, from the F-graded 'Night Mode' City Connect up to the powder blue and royal blue we love the most."
 gradient: "linear-gradient(135deg, #134A8E 0%, #1d1d1d 50%, #A5C8E4 100%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Blue Jays are the rare team that lives in its alternates. Between the royal blue and the powder blue, Toronto spends the large majority of its calendar in some shade of blue, treating color as the house style instead of a once-a-week treat, and it works because both blues are excellent. This is also the franchise's 50th-season year, so every jersey but one carries a commemorative 50th mark on the sleeve.
+
+Looking for dates? Here is [the full 2026 Toronto Blue Jays uniform schedule](/stories/blue-jays-uniform-schedule-2026), with every jersey and when it is worn.
 
 Then there is the City Connect, which we cannot stand. Here is every Toronto Blue Jays jersey and uniform for 2026, ranked worst to first and graded.
 

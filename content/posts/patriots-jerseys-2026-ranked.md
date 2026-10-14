@@ -1,8 +1,8 @@
 ---
-title: "New England Patriots Jerseys 2026: Every Jersey Ranked, From Pat Patriot to Nor'easter"
+title: "Every New England Patriots Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "New England Patriots jerseys 2026, ranked: the Pat Patriot red throwback, white, navy and Nor'easter, graded with the helmet, pants and every date each is worn."
 gradient: "linear-gradient(135deg, #002244 0%, #0b3a63 55%, #C60C30 130%)"
 author: "colorway-sports-staff"

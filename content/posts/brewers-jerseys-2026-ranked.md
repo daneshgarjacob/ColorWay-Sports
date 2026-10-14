@@ -1,8 +1,8 @@
 ---
-title: "Every Milwaukee Brewers Jersey in 2026, Ranked: The Powder Blue Is the Only Great One and the Wisco City Connect Bombs"
+title: "Every Brewers Jersey Ranked (2026): The Powder Blue Is the Only Great One"
 category: MLB
 date: "2026-07-31"
-updatedDate: "2026-07-31"
+updatedDate: "2026-10-13"
 excerpt: "Every Milwaukee Brewers jersey and uniform for 2026, ranked worst to first and graded, from the D-grade Wisco City Connect up to the excellent powder blue road set."
 gradient: "linear-gradient(135deg, #12284B 0%, #1a3a63 50%, #FFC52F 120%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 Milwaukee made one genuinely great decision for 2026, bringing powder blue back as the everyday road uniform, and it is comfortably the best thing they own. The rest of the closet is harder to love. The home set splits between cream and white pinstripes with no real logic, the navy alternate leans on the best logo in baseball and still comes out flat, and the new City Connect barely reads as a baseball jersey at all. Here is every Milwaukee Brewers jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Milwaukee Brewers uniform schedule](/stories/brewers-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. Wisco City Connect
 

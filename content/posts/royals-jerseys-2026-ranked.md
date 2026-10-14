@@ -1,8 +1,8 @@
 ---
-title: "Every Kansas City Royals Jersey in 2026, Ranked: The Powder Blues Are the Best Alternate in Baseball"
+title: "Every Royals Jersey Ranked (2026): The Powder Blues Are the Best Alternate"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-08-03"
+updatedDate: "2026-10-13"
 excerpt: "Every Kansas City Royals jersey and uniform for 2026, ranked worst to first and graded, from the C-plus Forever Fountains City Connect up to the powder blues."
 gradient: "linear-gradient(135deg, #004687 0%, #0a2a4d 55%, #7BAFD4 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 Kansas City owns light blue the way Colorado owns purple and the Athletics own kelly green, and this closet is essentially a study in what happens the further you get from that colour. The powder blues are the best alternate in baseball. The whites are excellent. Everything below that is a version of the same blue rendered less well, and at the bottom sits a City Connect that swapped the blue out for a gradient. Here is every Kansas City Royals jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Kansas City Royals uniform schedule](/stories/royals-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. "Forever Fountains" City Connect
 

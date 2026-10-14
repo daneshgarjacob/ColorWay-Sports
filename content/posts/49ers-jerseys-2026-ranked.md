@@ -1,8 +1,8 @@
 ---
-title: "San Francisco 49ers Jerseys 2026: Every Jersey Ranked, From the 1994 Throwbacks to the Black Rivalries Set"
+title: "Every San Francisco 49ers Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 author: "colorway-sports-staff"
 excerpt: "49ers jerseys 2026, ranked and graded: scarlet, white, both 1994 throwback uniforms and the all-black Rivalries set, with every date San Francisco wears them."
 gradient: "linear-gradient(135deg, #AA0000 0%, #1d1d1d 55%, #B3995D 130%)"
@@ -16,6 +16,8 @@ teams:
 ---
 
 San Francisco's closet is a story of one great idea and one bad one. The 49ers jersey schedule 2026 brings back the 1994 throwbacks three times, the look from the Super Bowl XXIX team, and it also brings back the all-black Rivalries uniform for one game against the Rams. In between sit the scarlet and white primaries, which carry most of the season and all wear the new 80th anniversary patch on the chest.
+
+Looking for dates? Here is [the full 2026 San Francisco 49ers uniform schedule](/stories/49ers-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every San Francisco 49ers jersey and uniform for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 

@@ -1,8 +1,8 @@
 ---
-title: "Cincinnati Bengals Jerseys 2026: Every Jersey Ranked, From Orange to White"
+title: "Every Cincinnati Bengals Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-23"
+updatedDate: "2026-10-13"
 excerpt: "Cincinnati Bengals jerseys 2026, ranked: all three jerseys graded, orange, black and white, with the helmet, pants and every date each one is worn."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 author: "colorway-sports-staff"
@@ -15,6 +15,8 @@ teams: ["cincinnati-bengals"]
 ---
 
 The Bengals build every jersey they own on one idea, the tiger stripe, and in 2026 they have three of them: black at home, white on the road and for the White Bengal night, and orange for the home opener plus two more dates. We put Cincinnati twelfth in our [best NFL uniforms of 2026](/stories/best-nfl-uniforms-2026-ranked) at a B+, and the individual looks show where that grade comes from. The top of this closet is as good as anything in the league.
+
+Looking for dates? Here is [the full 2026 Cincinnati Bengals uniform schedule](/stories/bengals-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here are all three Cincinnati Bengals jerseys for 2026, ranked worst to first and graded, with the helmet and pants each one wears and every date it comes out.
 

@@ -1,8 +1,8 @@
 ---
-title: "Every Houston Astros Jersey in 2026, Ranked: The White 'Stros' City Connect Leads a Navy-and-Orange Closet"
+title: "Every Astros Jersey Ranked (2026): The 'Stros' City Connect Leads"
 category: MLB
 date: "2026-07-28"
-updatedDate: "2026-07-28"
+updatedDate: "2026-10-13"
 excerpt: "Every Houston Astros jersey and uniform for 2026, ranked and graded worst to first, from the navy alternate up to the white 'Stros' City Connect and the classic Houston orange."
 gradient: "linear-gradient(135deg, #002D62 0%, #1d1d1d 50%, #EB6E1F 100%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Astros run a five-jersey rotation in 2026 built entirely around navy and orange, and it is a solid, cohesive closet without a single weak identity in it. It is also a closet without a real showstopper. Every one of these looks is somewhere between fine and good, nothing is offensive, and nothing quite breaks into the A tier for us either. The headline change is the City Connect: the beloved all-navy "Space City" kit is gone, retired after 2024 and replaced by an almost entirely white "Stros" design.
+
+Looking for dates? Here is [the full 2026 Houston Astros uniform schedule](/stories/astros-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every Houston Astros jersey and uniform for 2026, ranked worst to first and graded.
 

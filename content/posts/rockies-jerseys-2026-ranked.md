@@ -1,8 +1,8 @@
 ---
-title: "Every Colorado Rockies Jersey in 2026, Ranked: Purple Monday Wins Easily and the New City Connect Is a Disaster"
+title: "Every Rockies Jersey Ranked (2026): Purple Monday Wins Easily"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-08-03"
+updatedDate: "2026-10-13"
 excerpt: "Every Colorado Rockies jersey and uniform for 2026, ranked worst to first and graded, from the D-grade day-to-night City Connect up to the purple alternate."
 gradient: "linear-gradient(135deg, #33006F 0%, #17003a 50%, #C4CED4 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 Almost nobody in baseball owns a colour the way Colorado owns purple. It is on the pinstripes, the road wordmark, the cap, and an alternate with its own weekday named after it, and every time the Rockies simply let purple be purple they end up with something good. The gap in this ranking is what happens when they get clever instead. Here is every Colorado Rockies jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Colorado Rockies uniform schedule](/stories/rockies-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 4. City Connect
 

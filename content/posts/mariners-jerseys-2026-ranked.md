@@ -1,8 +1,8 @@
 ---
-title: "Every Seattle Mariners Jersey in 2026, Ranked: The Northwest Green Wins and the Road Navy Comes Last"
+title: "Every Mariners Jersey Ranked (2026): The Northwest Green Wins"
 category: MLB
 date: "2026-07-29"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-13"
 excerpt: "Every Seattle Mariners jersey and uniform for 2026, ranked and graded worst to first, from the workhorse road navy up to the beloved Northwest green alternate."
 gradient: "linear-gradient(135deg, #0C2C56 0%, #1d1d1d 50%, #005C5C 100%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Mariners quietly run one of the most cohesive closets in baseball, built almost entirely around deep navy and Pacific Northwest green, with no road grays anywhere in sight. For 2026 they added a black-and-cream Steelheads throwback with real weight behind it and kept the 2023 City Connect for a fourth season, but the crown still belongs to the color that has defined the franchise for three decades. Here is every Seattle Mariners jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Seattle Mariners uniform schedule](/stories/mariners-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. Road Navy
 

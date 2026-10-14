@@ -1,8 +1,8 @@
 ---
-title: "Every Minnesota Twins Jersey in 2026, Ranked: The Home Whites Are Untouchable and the Ripple Effect City Connect Bombs"
+title: "Every Twins Jersey Ranked (2026): The Home Whites Are Untouchable"
 category: MLB
 date: "2026-07-31"
-updatedDate: "2026-07-31"
+updatedDate: "2026-10-13"
 excerpt: "Every Minnesota Twins jersey and uniform for 2026, ranked worst to first and graded, from the D-grade Ripple Effect City Connect up to the classic home whites."
 gradient: "linear-gradient(135deg, #002B5C 0%, #0a1f3c 50%, #D31145 120%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Twins own one of the best chest marks in the American League and one of the worst City Connects, and the gap between them is enormous. That "Twins" script is a genuinely beautiful piece of lettering, and every jersey that carries it lands somewhere between fine and excellent. The one that does not carry it is the one that falls off a cliff. Here is every Minnesota Twins jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Minnesota Twins uniform schedule](/stories/twins-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. Ripple Effect City Connect
 

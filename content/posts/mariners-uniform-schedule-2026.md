@@ -1,5 +1,5 @@
 ---
-title: "Seattle Mariners Uniform Schedule 2026: Every Jersey and When They Wear It"
+title: "Seattle Mariners Jerseys & Uniforms 2026: Full Schedule"
 category: MLB
 date: "2026-06-23"
 updatedDate: "2026-10-13"
@@ -18,6 +18,8 @@ teams:
 <div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Mariners Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Tuesday, October 13, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #5a6472; line-height: 1.1;">SEASON OVER</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Back in 2027</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Mariners finished their 2026 season on Sunday, September 27.</div><a href="/mlb-tracker/mariners" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
 The Seattle Mariners carry five uniforms in 2026, and this is the most interesting their closet has looked in years. The brand-new piece is a black-and-cream Seattle Steelheads throwback that takes over Sundays, while the rush-blue "Seattle" City Connect from 2023 keeps its Friday night slot for a fourth season. Under MLB's "4+1" framework, that leaves the whites, the road navy, and the Northwest green alternate to do the rest. Here's the full Mariners wardrobe for 2026 and when each jersey actually comes out.
+
+Want them graded instead? Here is [every Seattle Mariners jersey ranked](/stories/mariners-jerseys-2026-ranked), worst to best.
 
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #0C2C56 0%, #0C2C56cc 100%);">

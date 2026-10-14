@@ -1,9 +1,9 @@
 ---
 topViewsRank: 1
-title: "Chicago Bears Jerseys and Uniform Schedule 2026: What They Wear Every Week, Plus the Christmas Rivalries Debut"
+title: "Chicago Bears Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-12"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-13"
 excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 coverImage: "/images/posts/bears-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,8 @@ teams: ["chicago-bears"]
 ---
 
 The Bears have one confirmed uniform date in 2026 and they could not have picked a better one. Chicago debuts its new Nike Rivalries uniform, revealed August 25 and built on the Monsters of the Midway, on **Christmas Day against the Green Bay Packers at Soldier Field**, on Netflix, in the oldest rivalry in the sport. They wear it exactly once all season. Here is the full Chicago Bears 2026 uniform schedule, week by week, with the confirmed date first and an honest label on everything that is still a projection.
+
+Want them graded instead? Here is [every Chicago Bears jersey ranked](/stories/bears-jerseys-2026-ranked), worst to best.
 
 ## The Full 2026 Bears Uniform Schedule, Week by Week
 

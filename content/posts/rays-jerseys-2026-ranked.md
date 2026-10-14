@@ -1,8 +1,8 @@
 ---
-title: "Every Tampa Bay Rays Jersey in 2026, Ranked: The Navy Wins and the Powder Blue Is One Wordmark Away From Greatness"
+title: "Every Tampa Bay Rays Jersey Ranked (2026): The Navy Wins"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-09-21"
+updatedDate: "2026-10-13"
 excerpt: "Every Tampa Bay Rays jersey and uniform for 2026, ranked worst to first and graded. Five uniforms, no road gray until the new one arrived in September, and the tightest closet in the American League."
 gradient: "linear-gradient(135deg, #092C5C 0%, #0a1d3a 55%, #8FBCE6 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Rays run one of the most colour-soaked closets in baseball and, for almost all of this season, no road gray at all. From 2023 until September 2026 Tampa Bay travelled in its coloured alternates instead, which means every jersey here is doing real work rather than filling a slot. Only one jersey here really misses, and nothing quite reaches an A either. In two cases a single design decision is the only thing standing in the way. Here is every Tampa Bay Rays jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Tampa Bay Rays uniform schedule](/stories/rays-uniform-schedule-2026), with every jersey and when it is worn.
 
 <div style="margin: 1.6em 0; padding: 14px 16px; border-left: 4px solid #37A85B; background: #f4f8f5; border-radius: 0 10px 10px 0;"><p style="margin: 0; font-size: 0.92em; line-height: 1.5; color: #14223f;"><strong>Update, September 21, 2026:</strong> the Rays have revealed a new gray road uniform, their first road gray since 2023, with TAMPA BAY across the chest in a blue-to-green-to-yellow gradient. It debuts Tuesday, September 22 in the second game of the doubleheader against the Yankees, and we grade it an A, higher than anything on this list. <a href="/stories/rays-new-gray-road-uniform">Full breakdown and grade</a>. This ranking covers the five uniforms Tampa Bay wore in 2026 and is unchanged.</p></div>
 

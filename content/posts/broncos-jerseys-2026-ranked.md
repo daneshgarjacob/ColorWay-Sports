@@ -1,8 +1,8 @@
 ---
-title: "Denver Broncos Jerseys 2026: Every Jersey Ranked, From the Orange Crush Throwback to Summit White"
+title: "Every Denver Broncos Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 author: "colorway-sports-staff"
 excerpt: "Broncos jerseys 2026, ranked and graded: Sunset Orange, Summit White, Midnight Navy and the Orange Crush throwback uniforms, with every date Denver wears them."
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
@@ -16,6 +16,8 @@ teams:
 ---
 
 Denver published its full jersey schedule 2026 before the season started, all 17 games, and it makes the ranking easy to put in context. Summit White goes nine times, Sunset Orange four, the Midnight Navy alternate twice, and the Orange Crush throwback twice. The catch is that the two best uniforms in the closet are the two Denver wears least.
+
+Looking for dates? Here is [the full 2026 Denver Broncos uniform schedule](/stories/broncos-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every Denver Broncos jersey and uniform for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 

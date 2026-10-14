@@ -1,8 +1,8 @@
 ---
-title: "Every Dodgers Jersey in 2026, Ranked: The Home Whites Are the Best Uniform in Baseball, and the City Connect Comes in Last"
+title: "Every Dodgers Jersey Ranked (2026): The Home Whites Are the Best in Baseball"
 category: MLB
 date: "2026-07-23"
-updatedDate: "2026-07-23"
+updatedDate: "2026-10-13"
 excerpt: "Every Los Angeles Dodgers jersey and uniform for 2026, ranked and graded worst to first, from the City Connect up to the home whites we think are the best in baseball."
 gradient: "linear-gradient(135deg, #005A9C 0%, #12244a 55%, #EF3E42 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 We are going to be upfront about where we are coming from. We are from Los Angeles and we grew up Dodgers fans, so this is our team and this is the closet we know best. It would be easy to assume that tilts the whole list, except the thing we love most about the Dodgers is exactly the thing that makes them easy to rank fairly: they do not overthink it.
+
+Looking for dates? Here is [the full 2026 Los Angeles Dodgers uniform schedule](/stories/dodgers-uniform-schedule-2026), with every jersey and when it is worn.
 
 Most of this rotation is one idea, drawn once, decades ago, and left alone. The script, the blue, the red numbers, the clean white. Four of these five jerseys are variations on that theme, and they range from very good to the single best uniform in the sport. The fifth steps outside the palette, and it is the one look we still have not fully made peace with.
 

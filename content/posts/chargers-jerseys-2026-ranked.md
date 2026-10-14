@@ -1,8 +1,8 @@
 ---
-title: "Los Angeles Chargers Jerseys 2026: Every Jersey Ranked, From Powder Blue to Charger Power Gold"
+title: "Every Los Angeles Chargers Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 author: "colorway-sports-staff"
 excerpt: "Chargers jerseys 2026, ranked and graded: powder blue, the white road set, the Super Chargers navy and the gold Charger Power alternate, with dates for all four uniforms."
 gradient: "linear-gradient(135deg, #0080C6 0%, #002A5E 55%, #FFC20E 130%)"
@@ -16,6 +16,8 @@ teams:
 ---
 
 We graded the Chargers the best uniform in the NFL this year, and the closet is the reason. Four jerseys, three pant colors, and every piece comes from the same palette of powder blue, navy, gold and white. The team also published its full jersey schedule 2026 on September 1, jersey and pants for all 17 games, so there is no guessing about when each look appears.
+
+Looking for dates? Here is [the full 2026 Los Angeles Chargers uniform schedule](/stories/chargers-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every Los Angeles Chargers jersey and uniform for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 

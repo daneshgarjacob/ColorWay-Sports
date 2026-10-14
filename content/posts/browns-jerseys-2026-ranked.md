@@ -1,8 +1,8 @@
 ---
-title: "Cleveland Browns Jerseys 2026: Every Jersey Ranked, From White to Brown"
+title: "Every Cleveland Browns Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Cleveland Browns jerseys 2026, ranked: the white road jersey and the brown home jersey, graded with the helmet, pants and every date each one is worn."
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 author: "colorway-sports-staff"

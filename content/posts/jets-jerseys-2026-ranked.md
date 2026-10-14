@@ -1,8 +1,8 @@
 ---
-title: "New York Jets Jerseys 2026: Every Jersey Ranked, From Legacy Green to Gotham City"
+title: "Every New York Jets Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "New York Jets jerseys 2026, ranked: Legacy Green, Legacy White, the Classic throwback and Gotham City, graded with the helmet, pants and every date each is worn."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 55%, #1f7a55 130%)"
 author: "colorway-sports-staff"

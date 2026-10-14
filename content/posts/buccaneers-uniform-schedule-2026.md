@@ -1,9 +1,9 @@
 ---
 topViewsRank: 4
-title: "Tampa Bay Buccaneers 2026 Uniform Schedule: Every Confirmed Jersey and Date, Including the All-Pewter Game"
+title: "Tampa Bay Buccaneers Jerseys & Uniforms 2026: Full Schedule"
 category: "NFL"
 date: "2026-08-13"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "Tampa Bay has confirmed two special uniform dates: the creamsicle throwbacks on December 6 and the all-pewter jersey on December 20. Every confirmed game so far."
 gradient: "linear-gradient(135deg, #34302B 0%, #1a1815 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -16,6 +16,8 @@ teams: ["tampa-bay-buccaneers"]
 ---
 
 This is the running guide to what the Tampa Bay Buccaneers wear in 2026, updated as the team confirms games. Two special uniforms already have dates on them, and they land two weeks apart in December.
+
+Want them graded instead? Here is [every Tampa Bay Buccaneers jersey ranked](/stories/buccaneers-jerseys-2026-ranked), worst to best.
 
 Tampa Bay has not published a full week-by-week uniform schedule. Most NFL teams release theirs in pieces across the summer and into the season, so this page grows as the Buccaneers announce.
 

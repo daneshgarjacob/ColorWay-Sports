@@ -1,8 +1,8 @@
 ---
-title: "Carolina Panthers Jerseys 2026: Every Jersey Ranked, From Panther Blue to Black"
+title: "Every Carolina Panthers Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Carolina Panthers jerseys 2026, ranked: Panther Blue, white and black, graded with the helmet, pants and every confirmed date each jersey is worn."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 author: "colorway-sports-staff"

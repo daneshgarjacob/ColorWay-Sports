@@ -1,8 +1,8 @@
 ---
-title: "Los Angeles Rams Jerseys 2026: Every Jersey Ranked, From Primary White to Midnight Mode"
+title: "Every Los Angeles Rams Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Los Angeles Rams jerseys 2026, ranked: all five graded, from Primary White to Midnight Mode, with the helmet, pants and every date each one is worn."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 author: "colorway-sports-staff"

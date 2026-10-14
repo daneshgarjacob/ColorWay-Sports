@@ -1,9 +1,9 @@
 ---
 topViewsRank: 12
-title: "Los Angeles Rams 2026 Uniform Schedule: All 17 Games Announced, From Classic Sol to White at Home Against Dallas"
+title: "Los Angeles Rams Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-07-24"
-updatedDate: "2026-10-12"
+updatedDate: "2026-10-13"
 excerpt: "The Rams published the full 2026 jersey schedule: royal five times, white eight times including at home against Dallas, plus Classic Sol, Fearsome White, and Midnight Mode."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -17,6 +17,8 @@ homepageFeature: true
 ---
 
 The Los Angeles Rams carry five uniforms for 2026, and as of September 1 every one of the 17 games has a jersey. The alternate dates were set in August: the gold **Classic Sol** twice, both in prime time, the royal-and-white **Fearsome White** once on the holiday slate, and the black **Midnight Mode** Rivalries jersey on Christmas Day at Seattle. The September 1 release filled in the other 13: primary royal five times, primary white eight times, and the white count includes one home game, Week 15 against Dallas, where the Rams are wearing white on purpose to make the Cowboys wear navy. Here is the full Rams 2026 uniform schedule, week by week, as the team announced it.
+
+Want them graded instead? Here is [every Los Angeles Rams jersey ranked](/stories/rams-jerseys-2026-ranked), worst to best.
 
 <img src="/images/posts/rams-uniform-schedule-2026/jersey-schedule-cover.jpg" alt="Los Angeles Rams 2026 jersey schedule graphic showing all five uniforms: the gold Classic Sol, the white primary, the black Midnight Mode, the Fearsome White alternate, and the royal blue primary worn by a player in the foreground" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Credit: Los Angeles Rams</p>

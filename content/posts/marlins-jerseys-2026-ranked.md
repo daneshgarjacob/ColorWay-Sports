@@ -1,8 +1,8 @@
 ---
-title: "Every Miami Marlins Jersey in 2026, Ranked: Teal Sunday Is an A and Everything Else Falls Off a Cliff"
+title: "Every Marlins Jersey Ranked (2026): Teal Sunday Is an A"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-13"
 excerpt: "Every Miami Marlins jersey and uniform for 2026, ranked worst to first and graded, from the D-grade Retro Wave City Connect up to the 1993 teal throwback."
 gradient: "linear-gradient(135deg, #00A3A3 0%, #111111 55%, #FF1493 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 This is the widest gap in any closet we have ranked. One Marlins jersey is an A. Nothing else clears a C+. That is not a team with a bad designer, it is a team whose best idea is thirty-three years old and only comes out on Sundays, while the identity it actually built in the meantime cannot get out of the C range. Here is every Miami Marlins jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Miami Marlins uniform schedule](/stories/marlins-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. Retro Wave City Connect
 

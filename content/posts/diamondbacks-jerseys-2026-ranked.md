@@ -1,8 +1,8 @@
 ---
-title: "Every Arizona Diamondbacks Jersey in 2026, Ranked: A Closet Stuck Between Two Identities"
+title: "Every Diamondbacks Jersey Ranked (2026): Stuck Between Two Identities"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-08-03"
+updatedDate: "2026-10-13"
 excerpt: "Every Arizona Diamondbacks jersey and uniform for 2026, ranked worst to first and graded. Five uniforms, one grade step apart, and a palette that never quite settles."
 gradient: "linear-gradient(135deg, #A71930 0%, #1a1a1a 50%, #30CED8 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 This is the tightest ranking we have done, and that is the story rather than a cop-out. Every Diamondbacks jersey lands within one grade step, because the problem with this closet is not any individual uniform. It is that the five of them do not agree with each other. Arizona's 2024 overhaul pulled sand out of the wardrobe and installed teal as the everyday accent, reaching back to the 1998 expansion palette, and teal is a genuinely good colour for this franchise. It just does not want to sit next to Sedona red. So you get a set that is half committed to the old purple-and-teal identity and half committed to the red-and-black one, with nothing quite resolving. Here is every Arizona Diamondbacks jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Arizona Diamondbacks uniform schedule](/stories/diamondbacks-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. Road Grays
 

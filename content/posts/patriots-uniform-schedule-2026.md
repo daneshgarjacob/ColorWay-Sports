@@ -1,8 +1,8 @@
 ---
-title: "New England Patriots 2026 Uniform Schedule: Pat Patriot Throwback Dates, the Nor'easter Game, and Every Week"
+title: "New England Patriots Jerseys & Uniforms 2026: Full Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "The Patriots have dated both alternates: the red Pat Patriot throwback in Weeks 5 and 14, and the Nor'easter Rivalries uniform in Week 13. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #002244 0%, #0b3a63 55%, #C60C30 130%)"
 coverImage: "/images/posts/patriots-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,8 @@ teams: ["new-england-patriots"]
 ---
 
 New England owns two of the better alternate uniforms in the AFC, and as of the end of August both have dates. The red **Pat Patriot** throwback comes out twice: Week 5 against the Raiders on Sunday, October 11, the day the team honors the 25th anniversary of the 2001 Super Bowl champions, and Week 14 against the Vikings on Thursday night, December 10. The Storm Blue **Nor'easter** Rivalries uniform gets Week 13 against Buffalo. Here is the full New England Patriots 2026 uniform schedule, week by week, with the three alternate dates first.
+
+Want them graded instead? Here is [every New England Patriots jersey ranked](/stories/patriots-jerseys-2026-ranked), worst to best.
 
 ## The Full 2026 Patriots Uniform Schedule, Week by Week
 

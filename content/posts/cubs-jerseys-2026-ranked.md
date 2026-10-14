@@ -1,8 +1,8 @@
 ---
-title: "Every Chicago Cubs Jersey in 2026, Ranked: The Wrigley Pinstripes Are Untouchable and the Road Grays Come in Last"
+title: "Every Cubs Jersey Ranked (2026): The Wrigley Pinstripes Are Untouchable"
 category: MLB
 date: "2026-07-28"
-updatedDate: "2026-07-28"
+updatedDate: "2026-10-13"
 excerpt: "Every Chicago Cubs jersey and uniform for 2026, ranked and graded worst to first, from the road grays up to the timeless Wrigley home pinstripes we love the most."
 gradient: "linear-gradient(135deg, #0E3386 0%, #1d1d1d 50%, #CC3433 100%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Cubs run a loose, four-jersey rotation in 2026, and the story of the closet is a subtraction as much as anything: the navy "Wrigleyville" City Connect is gone, retired after 2024 and replaced by a powder-blue alternate. That leaves four looks, all of them carrying a commemorative "150" patch this year for the franchise's 150th anniversary, next to the Motorola sleeve ad.
+
+Looking for dates? Here is [the full 2026 Chicago Cubs uniform schedule](/stories/cubs-uniform-schedule-2026), with every jersey and when it is worn.
 
 None of these are bad. But the gap between the best one and the rest is enormous, because Chicago owns one of the two or three most iconic home uniforms in the sport and everything else is measured against it. Here is every Chicago Cubs jersey and uniform for 2026, ranked worst to first and graded.
 

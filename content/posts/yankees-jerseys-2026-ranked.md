@@ -1,8 +1,8 @@
 ---
-title: "Every Yankees Jersey in 2026, Ranked: The Pinstripes Are Untouchable and the New Alternate Doesn't Count"
+title: "Every Yankees Jersey Ranked (2026): The Pinstripes Are Untouchable"
 category: MLB
 date: "2026-07-23"
-updatedDate: "2026-07-23"
+updatedDate: "2026-10-13"
 excerpt: "Every New York Yankees jersey and uniform for 2026, ranked and graded. The home pinstripes, the road grays, and the first designated alternate in franchise history the Yankees refuse to actually wear."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1c2a4a 55%, #8a8d8f 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 Most of our team ranking posts have four or five jerseys to sort through. This one has two, and that is the entire story.
+
+Looking for dates? Here is [the full 2026 New York Yankees uniform schedule](/stories/yankees-uniform-schedule-2026), with every jersey and when it is worn.
 
 The New York Yankees wear home pinstripes and road grays. That is it. No City Connect, no powder blue Sunday alternate, no black weeknight set, none of the things half the league now rotates through in a single homestand. In 2026 the team technically designated a third uniform, the first "alternate" in its 123-year history, and then did the most Yankees thing imaginable with it: they left it on the rack. We will get to that one, but it does not get a number, because you cannot rank a jersey the team refuses to wear.
 

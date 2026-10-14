@@ -1,8 +1,8 @@
 ---
-title: "Chicago Bears Jerseys 2026: Every Jersey Ranked, From the Navy Home to the Rivalries Set"
+title: "Every Chicago Bears Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-13"
 author: "colorway-sports-staff"
 excerpt: "Chicago Bears jerseys 2026, ranked and graded: the navy home, the white road and the Christmas Day Rivalries set, with every date each one is worn."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
@@ -16,6 +16,8 @@ teams:
 ---
 
 The Bears run one of the smallest closets in the NFL, and it barely matters, because the base set is one of the best in football. Navy with orange trim, the wishbone C on a navy helmet, and the GSH initials for George Halas on the sleeve have carried this franchise for decades. In 2026 Chicago adds exactly one new look, the "Return of the Monsters" Rivalries uniform, and wears it once, on Christmas Day against Green Bay.
+
+Looking for dates? Here is [the full 2026 Chicago Bears uniform schedule](/stories/bears-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here are all three Chicago Bears jerseys for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 

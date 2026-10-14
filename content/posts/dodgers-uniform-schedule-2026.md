@@ -1,5 +1,5 @@
 ---
-title: "Dodgers Uniform Schedule 2026: Every Jersey and When They Wear It"
+title: "Los Angeles Dodgers Jerseys & Uniforms 2026: Full Schedule"
 category: "MLB"
 date: "2026-05-25"
 updatedDate: "2026-10-13"
@@ -19,6 +19,8 @@ teams: ["los-angeles-dodgers"]
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Los Angeles Dodgers</p>
 
 The Los Angeles Dodgers run one of the cleanest uniform rotations in baseball for 2026, with four jerseys in active circulation and clear context for when each one shows up. Home whites with the Dodgers script for the vast majority of home games at Dodger Stadium. Road grays for most away games. The royal blue road alternate that the franchise added recently for select road series. The cream "City of Dreamers" City Connect for Saturday home games. The closet stays focused around the classic Dodgers visual identity while giving fans new looks to track across the calendar.
+
+Want them graded instead? Here is [every Los Angeles Dodgers jersey ranked](/stories/dodgers-jerseys-2026-ranked), worst to best.
 
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #005A9C 0%, #005A9Ccc 100%);">

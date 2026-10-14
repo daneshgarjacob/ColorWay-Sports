@@ -1,8 +1,8 @@
 ---
-title: "Green Bay Packers Jerseys 2026: Every Jersey Ranked, From Vintage Green to the Rivalries Set"
+title: "Every Green Bay Packers Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Green Bay Packers jerseys 2026, ranked: Vintage Green, Classic White and the new Rivalries set, graded with the helmet, pants and every date each is worn."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 author: "colorway-sports-staff"

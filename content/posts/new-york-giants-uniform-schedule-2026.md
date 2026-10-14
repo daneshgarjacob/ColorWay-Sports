@@ -1,8 +1,8 @@
 ---
-title: "New York Giants Jerseys and Uniform Schedule 2026: Legacy Game Dates and This Week's Jersey"
+title: "New York Giants Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "The Giants 2026 uniform schedule is official: Legacy throwbacks twice, Vintage White twice, and blue on the road at Washington and Dallas. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #0B2265 0%, #14224a 55%, #A71930 130%)"
 coverImage: "/images/posts/new-york-giants-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,8 @@ teams: ["new-york-giants"]
 ---
 
 The Giants published their full 2026 uniform schedule on September 2, and the throwbacks got four games instead of one. New York wears the **Legacy Blue uniform twice**, on October 4 against Arizona for the fortieth anniversary of the Super Bowl XXI team and again on December 6 against San Francisco, and brings back the **Vintage White** Color Rush set for back-to-back games in Weeks 9 and 10. The rest is royal blue and white, with blue travelling to Washington and Dallas. Here is the complete New York Giants 2026 uniform schedule, week by week, every game now confirmed by the team.
+
+Want them graded instead? Here is [every New York Giants jersey ranked](/stories/new-york-giants-jerseys-2026-ranked), worst to best.
 
 <img src="/images/posts/new-york-giants-uniform-schedule-2026/schedule-announcement.jpg" alt="New York Giants 2026 uniform schedule announcement graphic showing the four uniforms for the season: Legacy Blue, white, blue, and Vintage White, with players in each set" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Credit: New York Giants</p>

@@ -1,8 +1,8 @@
 ---
-title: "Every San Francisco Giants Jersey in 2026, Ranked: The Cream Home Wins and the Gigantes Alternate Bombs"
+title: "Every San Francisco Giants Jersey Ranked (2026): The Cream Home Wins"
 category: MLB
 date: "2026-07-28"
-updatedDate: "2026-07-28"
+updatedDate: "2026-10-13"
 excerpt: "Every San Francisco Giants jersey and uniform for 2026, ranked and graded worst to first, from the D-graded black Gigantes alternate up to the classic cream home uniform."
 gradient: "linear-gradient(135deg, #FD5A1E 0%, #1d1d1d 50%, #000000 100%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Giants build their closet on one of the most classic looks in baseball, the cream home uniform with the black-and-orange script, and then surround it with a set of themed home jerseys tied to specific days: Orange Friday, the Tuesday City Connect, and the new Saturday Gigantes alternate. When the anchor is this good, everything else is measured against it, and in 2026 not all of it clears the bar.
+
+Looking for dates? Here is [the full 2026 San Francisco Giants uniform schedule](/stories/giants-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every San Francisco Giants jersey and uniform for 2026, ranked worst to first and graded.
 

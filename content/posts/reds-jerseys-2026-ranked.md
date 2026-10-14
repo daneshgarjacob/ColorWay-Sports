@@ -1,8 +1,8 @@
 ---
-title: "Every Cincinnati Reds Jersey in 2026, Ranked: Both City Connects Finish Last and the Road Grays Win"
+title: "Every Reds Jersey Ranked (2026): Both City Connects Finish Last"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-08-03"
+updatedDate: "2026-10-13"
 excerpt: "Every Cincinnati Reds jersey and uniform for 2026, ranked worst to first and graded. The only club running two City Connects, and both finish at the bottom."
 gradient: "linear-gradient(135deg, #C6011F 0%, #1a0206 55%, #000000 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 Cincinnati is the only club in baseball running two City Connects at once, and this ranking is the clearest verdict we have produced on that program. Both of them finish last. The three jerseys the Reds have barely touched, the pinstriped whites, the grays and the red alternate, all clear the two that got the design budget and the press release. For the oldest franchise in the sport, sitting on one of the best classic identities anyone owns, that ought to say something. Here is every Cincinnati Reds jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Cincinnati Reds uniform schedule](/stories/reds-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. Red City Connect 2.0
 

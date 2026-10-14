@@ -1,5 +1,5 @@
 ---
-title: 'Baltimore Orioles Uniform Schedule 2026: Every Jersey and When They Wear It'
+title: "Baltimore Orioles Jerseys & Uniforms 2026: Full Schedule"
 category: MLB
 date: '2026-06-16'
 updatedDate: "2026-10-13"

@@ -1,5 +1,5 @@
 ---
-title: "Athletics Uniform Schedule 2026: Every Jersey and When They Wear It"
+title: "Athletics Jerseys & Uniforms 2026: Full Schedule"
 category: MLB
 date: "2026-06-23"
 updatedDate: "2026-10-13"
@@ -18,6 +18,8 @@ teams:
 <div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Athletics Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Tuesday, October 13, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #5a6472; line-height: 1.1;">SEASON OVER</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Back in 2027</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Athletics finished their 2026 season on Sunday, September 27.</div><a href="/mlb-tracker/athletics" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
 The Athletics run four uniforms in 2026, and while their rotation isn't as rigidly scheduled as a team like the Phillies, there's a clear logic to it once you know the anchors. Two of those four are kelly-green-and-gold alternates — the green that owns Friday nights and the brand-new gold "Sacramento" jersey that owns Saturdays — and they're the looks fans plan around. This is also the franchise in its strangest chapter yet: branded simply the "Athletics," with no city on the chest, while it plays out a three-year stay in West Sacramento. Here's the full A's closet for 2026 and exactly when each jersey comes out.
+
+Want them graded instead? Here is [every Athletics jersey ranked](/stories/athletics-jerseys-2026-ranked), worst to best.
 
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #003831 0%, #003831cc 100%);">

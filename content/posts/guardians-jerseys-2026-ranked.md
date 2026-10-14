@@ -1,8 +1,8 @@
 ---
-title: "Every Cleveland Guardians Jersey in 2026, Ranked: The Diamond C Navy Is a Knockout and the City Connect Tries Too Hard"
+title: "Every Guardians Jersey Ranked (2026): The Diamond C Navy Is a Knockout"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-08-03"
+updatedDate: "2026-10-13"
 excerpt: "Every Cleveland Guardians jersey and uniform for 2026, ranked worst to first and graded, from the C-plus 'CLE' City Connect up to the A-minus Diamond C navy."
 gradient: "linear-gradient(135deg, #0C2340 0%, #16294a 50%, #E31937 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 Cleveland is four years into building an identity from scratch, and the 2025 refresh is where it started to click. Straighter script on the whites, the Bridge Print font drawn from the Hope Memorial Bridge, and a navy alternate that threw out its wordmark entirely. What emerges from ranking the closet is a clear rule: the more this team trusts a single strong graphic, the better it looks, and the more it explains itself, the worse. Here is every Cleveland Guardians jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Cleveland Guardians uniform schedule](/stories/guardians-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. "CLE" City Connect
 

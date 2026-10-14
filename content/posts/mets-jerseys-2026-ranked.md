@@ -1,8 +1,8 @@
 ---
-title: "Every Mets Jersey in 2026, Ranked: The Black Alternate Is Untouchable"
+title: "Every Mets Jersey Ranked (2026): The Black Alternate Is Untouchable"
 category: MLB
 date: "2026-07-27"
-updatedDate: "2026-07-27"
+updatedDate: "2026-10-13"
 excerpt: "Every New York Mets jersey for 2026, ranked and graded. The timeless black alternate takes the crown, the home pinstripes sit right behind, and the City Connect finishes last."
 gradient: "linear-gradient(135deg, #002D72 0%, #1a1a1a 55%, #FF5910 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The New York Mets carry five uniforms in 2026, and unlike the buttoned-up two-piece closet up the road in the Bronx, the Mets actually use theirs. Pinstripes, road grays, a royal blue alternate, the black set that fans spent a decade begging to get back, and a City Connect that tries to bottle the entire subway map. It is one of the deeper wardrobes in the National League, and it gives us real jerseys to argue about.
+
+Looking for dates? Here is [the full 2026 New York Mets uniform schedule](/stories/mets-uniform-schedule-2026), with every jersey and when it is worn.
 
 So we ranked all five, worst to best, and graded each one. These grades are our take on the full package, cap to socks, not just the shirt. Here is every Mets jersey in 2026, counted down to the best.
 

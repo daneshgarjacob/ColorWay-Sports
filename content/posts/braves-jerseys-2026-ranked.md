@@ -1,8 +1,8 @@
 ---
-title: "Every Braves Jersey in 2026, Ranked: The Powder Blue City Connect Is an A+ and One Braves Uniform Has Quietly Vanished"
+title: "Every Braves Jersey Ranked (2026): The Powder Blue City Connect Is an A+"
 category: MLB
 date: "2026-07-22"
-updatedDate: "2026-09-26"
+updatedDate: "2026-10-13"
 excerpt: "Every Atlanta Braves jersey and uniform for 2026, ranked and graded worst to first, plus the one alternate that has disappeared from the rotation."
 gradient: "linear-gradient(135deg, #8FBCE6 0%, #CE1141 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Atlanta Braves have spent forty years building a uniform identity around one idea: the script, the tomahawk, navy and red, do not touch it. It is one of the most stable looks in baseball and it has aged better than almost anything else from its era.
+
+Looking for dates? Here is [the full 2026 Atlanta Braves uniform schedule](/stories/braves-uniform-schedule-2026), with every jersey and when it is worn.
 
 Then in April they put out a powder blue City Connect and quietly made the best uniform they own.
 

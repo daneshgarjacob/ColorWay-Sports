@@ -1,8 +1,8 @@
 ---
-title: "Minnesota Vikings Jerseys 2026: Every Jersey Ranked, From Classic to Rivalries"
+title: "Every Minnesota Vikings Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Minnesota Vikings jerseys 2026, ranked: purple, white, the Classic throwback, Winter Warrior and the new Rivalries set, graded with every date each is worn."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 author: "colorway-sports-staff"

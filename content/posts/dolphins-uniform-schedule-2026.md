@@ -1,8 +1,8 @@
 ---
-title: "Miami Dolphins 2026 Uniform Schedule: When They Wear the White Throwback and Dark Water Rivalries"
+title: "Miami Dolphins Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "The Dolphins' 2026 uniform schedule: confirmed dates for the white throwback jersey and the Dark Water Rivalries uniform, plus a week-by-week look at the aqua and white sets."
 gradient: "linear-gradient(135deg, #008E97 0%, #005e64 55%, #00272b 130%)"
 coverImage: "/images/posts/dolphins-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,8 @@ teams: ["miami-dolphins"]
 ---
 
 Miami has confirmed two uniform games for 2026, and they sit at opposite ends of the taste spectrum. The white throwback comes out in Week 14 against Chicago, and it is still the best thing the franchise owns. The Dark Water Rivalries uniform closes the home schedule against Buffalo on January 3, and we have already said our piece about that one. Here is the full Miami Dolphins 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the aqua and white sets.
+
+Want them graded instead? Here is [every Miami Dolphins jersey ranked](/stories/dolphins-jerseys-2026-ranked), worst to best.
 
 ## The Confirmed Dolphins Uniform Games
 
