@@ -5,7 +5,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: NFL
 date: "2026-08-04"
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-14"
 excerpt: "What NFL teams are wearing, game by game. Every helmet, jersey and pants combination logged and graded, all 32 teams, from Week 1 onward."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -57,7 +57,7 @@ What the Seahawks and Broncos will wear, helmet to pants. Both teams confirmed t
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">Thursday Night Football</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="A+" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">A+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
