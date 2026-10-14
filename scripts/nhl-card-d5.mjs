@@ -1,7 +1,7 @@
 // "Direction 5" NHL matchup card: the MLB design Jake approved 10/12
 // (scripts/mlb-card-d5.mjs) with the NHL shield top-left and NHL score-bar colors.
-// MOCK STAGE (10/13): nothing calls this yet. scripts/nhl-tracker-day.mjs still
-// emits the old black card until Jake approves review-screens/card-d5-nfl-nhl-mock.html.
+// LIVE since 10/13 (Jake approved the mock): scripts/nhl-tracker-day.mjs emits this
+// card for every NEW day. Day sections already published in the old black card keep it.
 //
 // Reused from MLB as-is: sideD5 (cutout on the spotlight, or the original on a light
 // tile when there is no good -cut.webp, via pickJersey + jersey-cutout-skips.json),
@@ -12,7 +12,8 @@
 //   data-label>TEAM</div>   then   <span ... background: #hex; ... vertical-align: middle;"></span><span data-uni ...>Call</span>
 //   data-grade="B+" (empty = pending)  data-status>Final<  data-score="away|home">N or &ndash;<
 // Nothing in lib/ parses the NHL tracker cards today (lib/winterTrackerIndex.ts reads
-// scripts/data/nhl-game-log-2026-27.json and the tile folder, not the post).
+// scripts/data/nhl-game-log-2026-27.json and the tile folder, not the post), and
+// scripts/build-wear-log.mjs does not read the NHL tracker.
 //
 // Rules: inline styles only. No <p> inside the card. Every <img> resets .prose img.
 // Status is always "Final" (never "Live"); OT / SO go on the second line.
@@ -83,11 +84,13 @@ export function gradeChip(grade) {
 //   A, H        score-bar entries ({abbr, top, bot, accent})
 //   away, home  side HTML
 //   logo        { src, alt, via, height?, style? }
-//   sub         second line under FINAL ("OT", "SO", "Week 5 · MNF"...)
+//   sub         second line under the status ("OT", "SO"...)
+//   status      score-bar center word: "Final" (default) once played; a preview card
+//               passes its kickoff ("Thu 5:15 PT") instead. Never "Live".
 //   caption     small text next to the logo (optional)
 //   chip        grade chip HTML (default gradeChip(grade))
 //   hidden      extra machine-readable markup appended inside the card (optional)
-export function cardShell({ id, logo, grade, chip, caption, A, H, away, home, awayScore, homeScore, sub, hidden = "" }) {
+export function cardShell({ id, logo, grade, chip, caption, A, H, away, home, awayScore, homeScore, sub, status = "Final", hidden = "" }) {
   const done = typeof awayScore === "number" && typeof homeScore === "number";
   const aWon = done && awayScore > homeScore, hWon = done && homeScore > awayScore;
   const subHtml = sub ? `<span style="color: rgba(255,255,255,0.6); font-size: 8.5px; font-weight: 700; letter-spacing: 1.2px; text-transform: uppercase; margin-top: 2px; white-space: nowrap;">${sub}</span>` : "";
@@ -107,7 +110,7 @@ ${home}
   </div>
   <div style="margin: clamp(12px, 3vw, 16px) 0 0; display: grid; grid-template-columns: minmax(0,1fr) auto minmax(0,1fr); align-items: stretch; border-radius: 8px; overflow: hidden; border: 1px solid rgba(255,255,255,0.14); box-shadow: 0 4px 14px rgba(0,0,0,0.30);">
     <div style="display: flex; align-items: center; min-height: 42px; min-width: 0; background: linear-gradient(180deg, ${A.top} 0%, ${A.bot} 100%); border-left: 4px solid ${A.accent};">${abbrSpan(A.abbr, "left")}${scoreSpan("away", done ? awayScore : null, aWon)}</div>
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 clamp(6px, 2.4vw, 14px); background: #050c17;"><span data-status style="color: #ffffff; font-size: 10px; font-weight: 900; letter-spacing: 2px; text-transform: uppercase;">Final</span>${subHtml}</div>
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 clamp(6px, 2.4vw, 14px); background: #050c17;"><span data-status style="color: #ffffff; font-size: 10px; font-weight: 900; letter-spacing: 2px; text-transform: uppercase; white-space: nowrap;">${status}</span>${subHtml}</div>
     <div style="display: flex; align-items: center; min-height: 42px; min-width: 0; background: linear-gradient(180deg, ${H.top} 0%, ${H.bot} 100%); border-right: 4px solid ${H.accent};">${scoreSpan("home", done ? homeScore : null, hWon)}${abbrSpan(H.abbr, "right")}</div>
   </div>${hidden}
 </div>

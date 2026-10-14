@@ -1,8 +1,11 @@
 // "Direction 5" NFL matchup card: the MLB design Jake approved 10/12
 // (scripts/mlb-card-d5.mjs) with the NFL shield top-left, the week under it, NFL
 // score-bar colors, and the helmet / jersey / pants icon row kept under each jersey.
-// MOCK STAGE (10/13): nothing calls this yet. scripts/nfl-tracker-card.py still
-// emits the old black card until Jake approves review-screens/card-d5-nfl-nhl-mock.html.
+// LIVE since 10/13 (Jake approved the mock): scripts/nfl-tracker-card.py builds every
+// NEW card through this file (python pipes a JSON spec to `node scripts/nfl-card-d5.mjs
+// --emit`). Cards already published in the old black style stay as they are.
+// Preview cards (before kickoff) show the kickoff ("Thu 5:15 PT") in the score-bar
+// center and en dashes for the scores; they never say Final or Live.
 //
 // Reused from MLB: the card shell, grade chip, score bar and score cells (through
 // scripts/nhl-card-d5.mjs's cardShell, which is MLB's cardD5 with inputs), pickJersey
@@ -19,7 +22,8 @@
 //       combo style ENDS "text-transform:uppercase;opacity:.85;margin:4px 0 0;font-weight:600;"   lib/nflTrackerCards.ts
 //   "Week N" visible text, followed by "<"                     gen-week-in-color.mjs, lib/nflTeamLatest.ts
 //   hidden data-pill span, style ENDS "letter-spacing:2px;display:inline-block;", text "Final &middot; <score>"
-//                                                              lib/nflTrackerCards.ts (final + score), lib/nflTeamLatest.ts, gen-week-in-color.mjs
+//       (preview: "Week N &middot; <window>")                  lib/nflTrackerCards.ts (final + score + label), lib/nflTeamLatest.ts, gen-week-in-color.mjs
+//   data-kickoff="Thu 5:15 PT" on the hidden pill               scripts/nfl-tracker-card.py (keeps the kickoff on re-runs)
 //   grade chip style ENDS "letter-spacing:-.5px;"              scripts/nfl-tracker-card.py grade regex
 //   data-grade / data-status / data-score                      the shared D5 hooks (build-wear-log.mjs D5_*)
 // The <p>s use compact CSS ("text-align:center", no space) so app/globals.css's
@@ -152,11 +156,14 @@ function nflChip(grade) {
 // week = 5, windowLabel = "Monday Night Football". score = "Bills 37, Rams 34 (OT)"
 // (winner first, the old pill text) for the hidden compat pill; awayScore/homeScore
 // numbers drive the score bar. sub = second line under FINAL ("OT").
-export function nflCardD5({ grade, week, windowLabel, awayName, homeName, away, home, awayScore, homeScore, score, sub }) {
+// kickoff = "Thu 5:15 PT": the score-bar center until the game is final.
+export function nflCardD5({ grade, week, windowLabel, kickoff = "", awayName, homeName, away, home, awayScore, homeScore, score, sub }) {
   const caption = `<span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week ${week}</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">${windowLabel}</span>`;
   const done = typeof awayScore === "number" && typeof homeScore === "number";
+  if (!done && !kickoff) throw new Error(`preview card ${awayName} at ${homeName} needs a kickoff ("Thu 5:15 PT")`);
   const pill = done ? `Final &middot; ${score}` : `Week ${week} &middot; ${windowLabel}`;
-  const hidden = `\n  <span data-pill aria-hidden="true" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;letter-spacing:2px;display:inline-block;">${pill}</span>`;
+  const kick = kickoff ? ` data-kickoff="${kickoff}"` : "";
+  const hidden = `\n  <span data-pill${kick} aria-hidden="true" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;letter-spacing:2px;display:inline-block;">${pill}</span>`;
   return cardShell({
     id: "nfl-d5",
     logo: NFL_LOGO,
@@ -168,9 +175,45 @@ export function nflCardD5({ grade, week, windowLabel, awayName, homeName, away, 
     home,
     awayScore,
     homeScore,
-    sub,
+    sub: done ? sub : "",
+    status: done ? "Final" : kickoff,
     hidden,
   });
+}
+
+// One whole card from a plain JSON spec (what scripts/nfl-tracker-card.py sends):
+// { grade, week, windowLabel, kickoff, score, awayScore, homeScore, sub, dateWords,
+//   away: { name, slug, hexes:[h,j,p], words:[h,j,p], status }, home: {...} }
+// slug = jersey file in public/images/posts/nfl-tracker-jerseys without extension.
+export function nflCardFromSpec(g) {
+  const LIB = "/images/posts/nfl-tracker-jerseys";
+  const side = (s, opp) => {
+    const src = [".jpg", ".png", ".webp"].map((e) => `${LIB}/${s.slug}${e}`).find((p) => fs.existsSync(`public${p}`));
+    if (!src) throw new Error(`no jersey image for ${s.slug} in public${LIB}`);
+    const alt = `${s.name} ${s.slug.split("-").slice(1).join(" ")} jersey${g.awayScore === undefined ? " expected" : " worn"} ${g.dateWords} against the ${opp.name.split(" ").pop()}, from the ColorWay Sports NFL uniform tracker`;
+    return nflSide({ src, alt, label: s.label ?? s.name.split(" ").pop().toUpperCase(), words: s.words, hexes: s.hexes, status: s.status ?? "" });
+  };
+  return nflCardD5({
+    grade: g.grade ?? "",
+    week: g.week,
+    windowLabel: g.windowLabel,
+    kickoff: g.kickoff ?? "",
+    awayName: g.away.name,
+    homeName: g.home.name,
+    away: side(g.away, g.home),
+    home: side(g.home, g.away),
+    awayScore: g.awayScore,
+    homeScore: g.homeScore,
+    score: g.score,
+    sub: g.sub,
+  });
+}
+
+// node scripts/nfl-card-d5.mjs --emit < spec.json   (one spec object or an array; prints the card(s), NUL-separated)
+if (process.argv[1]?.endsWith("nfl-card-d5.mjs") && process.argv.includes("--emit")) {
+  const spec = JSON.parse(fs.readFileSync(0, "utf8"));
+  const list = Array.isArray(spec) ? spec : [spec];
+  process.stdout.write(list.map(nflCardFromSpec).join("\0"));
 }
 
 // Every jersey in the library has a score-bar entry? (run: node scripts/nfl-card-d5.mjs --check)

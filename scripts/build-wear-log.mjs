@@ -165,7 +165,7 @@ function sections(md, level) {
 }
 // "Final · Twins 4, Royals 3" -> [["Twins",4],["Royals",3]]
 function namedScores(text) {
-  const m = decode(text).match(/([A-Za-z.' ]+?)\s+(\d+),\s+([A-Za-z.' ]+?)\s+(\d+)/);
+  const m = decode(text).match(/([A-Za-z0-9.' ]+?)\s+(\d+),\s+([A-Za-z0-9.' ]+?)\s+(\d+)/);
   return m ? [[m[1].trim(), Number(m[2])], [m[3].trim(), Number(m[4])]] : null;
 }
 function assignScores(row, pairs, resolve) {
@@ -301,6 +301,35 @@ function parseNflTracker() {
       if (!h) { bad(file, `${date} ### ${game.heading}`); continue; }
       const away = resolve(h[1]), home = resolve(h[2]);
       if (!away || !home) { bad(file, `${date} ### ${game.heading} (team not recognised)`); continue; }
+      // The black jersey card (9/13+) and the Direction 5 card (10/13+) carry the six
+      // colours as data-color in helmet/jersey/pants order, away first.
+      const dark = /data-card="nfl-d5"|background:linear-gradient\(135deg,#1a1a1a/.test(game.body);
+      if (dark) {
+        const hexes = [...game.body.matchAll(/data-color="(#[0-9A-Fa-f]{6})"/g)].map((m) => m[1].toUpperCase());
+        if (hexes.length !== 6) { bad(file, `${date} ### ${game.heading} (${hexes.length} colours on the card)`); continue; }
+        const isD5 = /data-card="nfl-d5"/.test(game.body);
+        const pill = decode((game.body.match(/letter-spacing:2px;display:inline-block;">([^<]*)</) || [])[1] || "");
+        if (!/^final/i.test(pill)) { unplayed++; continue; }
+        const row = blank();
+        row.league = "nfl"; row.season = String(year); row.date = date;
+        row.gameKey = `nfl-${date}-${slugify(nick(away))}-${slugify(nick(home))}`;
+        row.homeTeam = home; row.awayTeam = away;
+        [row.awayHelmet, row.awayUniform, row.awayPants, row.homeHelmet, row.homeUniform, row.homePants] = hexes;
+        row.status = "confirmed";
+        if (isD5) {
+          for (const [, sideName, v] of game.body.matchAll(/data-score="(away|home)"[^>]*>([^<]*)</g)) {
+            if (/^\d+$/.test(v.trim())) row[sideName === "away" ? "awayScore" : "homeScore"] = Number(v);
+          }
+          row.grade = (game.body.match(/data-grade="([^"]*)"/) || [])[1] || null;
+        } else {
+          assignScores(row, namedScores(pill), resolve);
+          const g = decode((game.body.match(/letter-spacing:-\.5px;">([^<]+)<\/span>/) || [])[1] || "");
+          row.grade = g && g !== "–" ? g : null;
+        }
+        row.source = `${POSTS}/${file}`; row.sourceUrl = url;
+        rows.push(row);
+        continue;
+      }
       const card = game.body.split("\n").find((l) => l.startsWith('<div style="border:1px solid #e3e6ec'));
       if (!card) { bad(file, `${date} ### ${game.heading} (no card)`); continue; }
       const halves = card.split(/>AT<\/span>/);

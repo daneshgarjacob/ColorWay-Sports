@@ -4,6 +4,8 @@ games.json = [ {"away":"Green Bay Packers","home":"Minnesota Vikings",
                 "prose":"...", "grade":"-"} ]
 Bars order = helmet, jersey, pants. The card draws them as helmet/jersey/pants icons (scripts/nfl_uniform_icons.py);
 white pieces get the darker outline automatically.
+Direction 5 cards (every card built from 10/13 on) are handed to scripts/nfl-tracker-card.py with the same entry, so this
+script works on any card; add "score" ("Bills 37, Rams 34 (OT)", winner first) to flip a D5 card to Final.
 """
 import json, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -19,6 +21,7 @@ def bar_span(hex_):
     b = WHITE_BORDER if hex_ == "#FFFFFF" else ""
     return f'<span style="flex:1;height:11px;border-radius:3px;background:{hex_};{b}display:block;"></span>'
 
+d5_games = []  # Direction 5 cards (10/13+) are logged by nfl-tracker-card.py, see the end of this file
 for g in games:
     h3 = f"### {g['away']} at {g['home']}\n"
     i = md.find(h3)
@@ -27,6 +30,9 @@ for g in games:
     k = md.find("\n## ", i + 1)
     end = min(x for x in (j, k, len(md)) if x > 0)
     card = md[i:end]
+    if 'data-card="nfl-d5"' in card:
+        d5_games.append(g)
+        continue
     # prose: replace the placeholder paragraph (first non-empty line after the h3)
     lines = card.split("\n")
     assert lines[2].startswith("What the "), lines[2][:60]
@@ -65,3 +71,13 @@ for g in games:
 import datetime
 md = re.sub(r'updatedDate: "\d{4}-\d{2}-\d{2}"', f'updatedDate: "{datetime.date.today().isoformat()}"', md, 1)
 open(F, "w").write(md)
+
+# D5 cards: same fields (awayBars/homeBars/prose/grade, plus score once final) go straight to the D5 builder.
+if d5_games:
+    import subprocess, tempfile
+    for g in d5_games:
+        if g.get("grade") in ("-", ""): g.pop("grade")
+    with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False) as t:
+        json.dump(d5_games, t)
+    subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "nfl-tracker-card.py"), t.name], check=True)
+    os.unlink(t.name)

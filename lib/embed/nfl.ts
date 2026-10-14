@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { buildNflTeamIndex, nflTeamByKey, type NflGame, type NflTeamEntry } from "@/lib/nflTrackerTeamIndex";
-import { findTrackerCard, type TrackerCard } from "@/lib/nflTrackerCards";
+import { findTrackerCard, originalJerseySrc, type TrackerCard } from "@/lib/nflTrackerCards";
 import { nflCurrentWeek } from "@/lib/teamWearAnswers";
 import { SITE, type EmbedCard, type EmbedLeague, type EmbedPart } from "./types";
 
@@ -77,9 +77,13 @@ function allJerseyPhotos(): string[] {
   for (const f of fs.readdirSync(dir)) {
     if (!f.endsWith(".md")) continue;
     const raw = fs.readFileSync(path.join(dir, f), "utf8");
-    for (const m of raw.matchAll(/\/images\/posts\/nfl-tracker-jerseys\/[a-z0-9-]+\.jpg/g)) found.add(m[0]);
+    // .jpg / .png originals, plus the D5 card's "-cut.webp" cutouts mapped back
+    // to the original they were cut from.
+    for (const m of raw.matchAll(/\/images\/posts\/nfl-tracker-jerseys\/[a-z0-9-]+\.(?:jpg|png|webp)/g)) {
+      found.add(originalJerseySrc(m[0]));
+    }
   }
-  return (jerseyPhotos = [...found]);
+  return (jerseyPhotos = [...found].filter((p) => !/-cut\.webp$/.test(p)));
 }
 
 const STOP = new Set(["jersey", "jerseys", "uniform", "uniforms", "set", "the", "primary", "edition", "standard"]);
@@ -89,8 +93,8 @@ function photoForLabel(entry: NflTeamEntry, label: string, home: boolean): strin
   const want = label.toLowerCase().split(/[^a-z0-9]+/).filter((w) => w && !STOP.has(w));
   if (want.length === 0) return undefined;
   const prefix = `${entry.key}-`;
-  const scored = allJerseyPhotos()
-    .map((p) => p.split("/").pop()!.replace(/\.jpg$/, ""))
+  const photos = new Map(allJerseyPhotos().map((p) => [p.split("/").pop()!.replace(/\.(jpg|png|webp)$/, ""), p]));
+  const scored = [...photos.keys()]
     .filter((f) => f.startsWith(prefix))
     .map((f) => {
       const words = f.slice(prefix.length).split("-");
@@ -106,7 +110,7 @@ function photoForLabel(entry: NflTeamEntry, label: string, home: boolean): strin
   if (scored.length === 0) return undefined;
   scored.sort((a, b) => b.score - a.score);
   if (scored.length > 1 && scored[0].score === scored[1].score) return undefined;
-  return `/images/posts/nfl-tracker-jerseys/${scored[0].f}.jpg`;
+  return photos.get(scored[0].f);
 }
 
 // ---- The card -----------------------------------------------------------------

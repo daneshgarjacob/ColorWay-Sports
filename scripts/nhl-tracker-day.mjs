@@ -25,8 +25,15 @@
 //
 // Only games marked confirmed in the log get a card. Scores come live from
 // api-web.nhle.com/v1/score/<date>; the pill says "Final" (never "Live").
+//
+// CARD STYLE (Jake approved Direction 5 on 10/13): a day that is NOT in the post
+// yet, or whose block already holds D5 cards, is built with the D5 card
+// (scripts/nhl-card-d5.mjs). A day already published with the old black card keeps
+// the old card on every re-run, so --all never restyles published days.
+// --d5 forces the D5 card for the dates given (review screenshots only).
 
 import fs from "node:fs";
+import { nhlSide, nhlCardD5 } from "./nhl-card-d5.mjs";
 
 const POST = "content/posts/nhl-uniform-tracker-2026-27.md";
 const LOGFILE = JSON.parse(fs.readFileSync("scripts/data/nhl-game-log-2026-27.json", "utf8"));
@@ -89,7 +96,22 @@ function side(info, oppShort, date) {
     </div>`;
 }
 
-async function buildDay(date) {
+// D5 side; a club with no tile on disk gets the team-colour sweater outline on the light tile.
+function sideD5(info, oppShort, date) {
+  const html = nhlSide({ name: info.t.name, short: info.t.short, call: info.call, swatch: info.swatch, image: info.image }, oppShort, dateWords(date));
+  if (fs.existsSync(`public${info.image}`)) return html;
+  problems.push(`${date} ${info.t.short}: no tile at public${info.image} -> placeholder sweater used`);
+  return html.replace(/<img src="[^"]*"[^>]*\/>/, placeholder(info).replace('width="120" height="120"', 'width="100%" height="100%"'));
+}
+
+// Which card a date gets: D5 unless that day is already published in the old card.
+function useD5(date, md) {
+  if (args.includes("--d5")) return true;
+  const m = md.match(new RegExp(`<!-- nhl-day:${date}:start -->([\\s\\S]*?)<!-- nhl-day:${date}:end -->`));
+  return !m || m[1].includes('data-card="nhl-d5"') || !m[1].includes("### ");
+}
+
+async function buildDay(date, d5) {
   const res = await fetch(`https://api-web.nhle.com/v1/score/${date}`).then((r) => r.json());
   const games = (res.games ?? []).filter((g) => g.gameDate === date && g.gameType !== 1);
   // Standing rule from the MLB tracker: newest game at the top of the day.
@@ -114,6 +136,21 @@ async function buildDay(date) {
     const gradeRow = grade
       ? `<span style="background: #ffffff; color: #0a0a0a; font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">${grade}</span>`
       : `<span style="background: rgba(255,255,255,0.12); color: rgba(255,255,255,0.55); font-size: 1em; font-weight: 900; padding: 5px 0; border-radius: 8px; min-width: 52px; text-align: center; letter-spacing: -0.5px;">&ndash;</span>`;
+
+    if (d5) {
+      if (!done) problems.push(`${date} ${A}@${H}: ${g.gameState}, score cells left as dashes, re-run once it ends`);
+      cards.push(`### ${a.t.name} at ${h.t.name}\n\n` + nhlCardD5({
+        grade: grade ?? "",
+        awayTri: A,
+        homeTri: H,
+        away: sideD5(a, h.t.short, date),
+        home: sideD5(h, a.t.short, date),
+        awayScore: done ? g.awayTeam.score : undefined,
+        homeScore: done ? g.homeTeam.score : undefined,
+        lastPeriod: done ? g.gameOutcome?.lastPeriodType : undefined,
+      }));
+      continue;
+    }
 
     let pill = "Final";
     if (done) {
@@ -152,8 +189,9 @@ ${side(h, a.t.short, date)}
 }
 
 let md = write ? fs.readFileSync(POST, "utf8") : "";
+const published = fs.readFileSync(POST, "utf8");
 for (const date of dates) {
-  const day = await buildDay(date);
+  const day = await buildDay(date, useD5(date, published));
   if (!day.n) { problems.push(`${date}: no confirmed games, nothing emitted`); continue; }
   if (!write) {
     process.stdout.write(`${day.heading}\n\n${day.intro}\n\n${day.block}\n\n`);
