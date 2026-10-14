@@ -97,8 +97,8 @@ export function cardShell({ id, logo, grade, chip, caption, A, H, away, home, aw
   const capHtml = caption ? `<span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;">${caption}</span>` : "";
   return `<div style="margin: 1.4em 0 0.6em;">
 <div data-card="${id}" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
-  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 10px; margin: 0 0 4px;">
-    <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="${logo.src}" alt="${logo.alt}" title="${logo.via}" style="display: block; height: ${logo.height ?? "clamp(26px, 7vw, 36px)"}; width: auto; ${IMG_RESET} ${logo.style ?? ""}" />${capHtml}</div>
+  <div style="display: flex; flex-wrap: ${caption ? "nowrap" : "wrap"}; align-items: center; justify-content: space-between; gap: 8px 10px; margin: 0 0 4px;">
+    <div style="min-width: 0; flex: ${caption ? "1 1 auto" : "0 1 auto"}; display: flex; align-items: center; gap: 10px;"><img src="${logo.src}" alt="${logo.alt}" title="${logo.via}" style="display: block; height: ${logo.height ?? "clamp(26px, 7vw, 36px)"}; width: auto; ${IMG_RESET} ${logo.style ?? ""}" />${capHtml}</div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
       ${chip ?? gradeChip(grade)}

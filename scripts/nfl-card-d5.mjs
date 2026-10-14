@@ -143,7 +143,9 @@ export function nflSide({ src, alt, label, words, hexes, status = "" }) {
   return `    <div style="min-width: 0; display: flex; flex-direction: column; align-items: center;">${jerseyBox(src, alt)}` +
     `<p data-label style="color:#ffffff;font-family:${DISPLAY};font-size:clamp(12px, 2.6vw, 14px);line-height:1.15;letter-spacing:.6px;text-align:center;text-transform:uppercase;margin:6px 0 0;font-weight:900;">${label}</p>` +
     `<p data-uni style="color:#ffffff;font-size:10px;line-height:1.35;letter-spacing:1.2px;text-align:center;text-transform:uppercase;opacity:.85;margin:4px 0 0;font-weight:600;">${words.join(" &middot; ")}</p>` +
-    statusHtml + darkRow(hexes) + `</div>`;
+    statusHtml +
+    // icon row pinned to the bottom so both sides line up when one combo line wraps on a phone
+    `<div style="margin-top:auto;width:100%;">${darkRow(hexes)}</div>` + `</div>`;
 }
 
 // Compact grade chip: the old NFL card's grade regex (letter-spacing:-.5px;">X<) still reads it.
