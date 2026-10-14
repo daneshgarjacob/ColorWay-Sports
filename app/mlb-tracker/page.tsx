@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getPostBySlug } from "@/lib/posts";
-import { buildMlbTeamIndex } from "@/lib/mlbTrackerTeamIndex";
+import { buildMlbTeamIndex, firstLoggedDay } from "@/lib/mlbTrackerTeamIndex";
 
 const TRACKER_SLUG = "mlb-uniform-tracker-2026";
 const DIVISIONS = ["AL East", "AL Central", "AL West", "NL East", "NL Central", "NL West"];
@@ -27,6 +27,9 @@ export default async function MlbTrackerHub() {
   const teams = post ? buildMlbTeamIndex(post.contentHtml) : [];
   const totalGames = teams.reduce((n, t) => n + t.games.length, 0);
   const logged = teams.filter((t) => t.games.length > 0).length;
+  // The tracker started mid-season, so the calendars cover every game since the
+  // first logged day, not the whole 2026 season.
+  const since = firstLoggedDay(teams);
 
   return (
     <>
@@ -41,8 +44,9 @@ export default async function MlbTrackerHub() {
               MLB Uniform Calendars
             </h1>
             <p className="text-white/80 text-[16px] max-w-[620px] m-0 leading-relaxed">
-              Pick a team to see every jersey they have worn in 2026 laid out on a calendar, one
-              tile per game, plus how many times each uniform has come out at home and on the road.
+              Pick a team to see every jersey they have worn
+              {since ? ` since we started logging on ${since}` : " this season"}, laid out on a
+              calendar, one tile per game, plus how many times each uniform has come out at home and on the road.
             </p>
             <div className="flex flex-wrap gap-x-9 gap-y-3 mt-8">
               <Stat label="Teams tracked" value={logged} />

@@ -291,6 +291,28 @@ const MONTH_INDEX: Record<string, number> = {
   July: 6, August: 7, September: 8, October: 9, November: 10, December: 11,
 };
 
+/**
+ * Earliest logged game across one or more clubs, as "July 17". The tracker
+ * started mid-season, so copy has to say "since we started logging", not
+ * "every jersey worn in 2026". Null when nothing is logged.
+ */
+export function firstLoggedDay(entries: TeamIndexEntry[]): string | null {
+  let best: TeamGame | null = null;
+  for (const e of entries) {
+    for (const g of e.games) {
+      if (!g.month || !(g.month in MONTH_INDEX)) continue;
+      if (
+        !best ||
+        MONTH_INDEX[g.month] < MONTH_INDEX[best.month] ||
+        (g.month === best.month && g.date < best.date)
+      ) {
+        best = g;
+      }
+    }
+  }
+  return best ? `${best.month} ${best.date}` : null;
+}
+
 export type CalendarCell =
   | { kind: "blank" }
   | { kind: "off"; date: number }
