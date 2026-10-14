@@ -1,9 +1,9 @@
 ---
-title: "Cleveland Browns 2026 Uniform Schedule: Every Jersey, Every Week, and the Alpha Dawg Question"
+title: "Cleveland Browns Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
 excerpt: "The Browns confirmed Alpha Dawg, all brown, for Thursday night against Pittsburgh. Here is the full 2026 jersey schedule, week by week."
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 coverImage: "/images/posts/browns-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -15,6 +15,8 @@ teams: ["cleveland-browns"]
 ---
 
 **The Browns have confirmed Alpha Dawg for Thursday Night Football against the Steelers on October 1:** the all-brown look, with the brown helmet and its orange center stripes, the brown jersey with orange numbers, brown pants and brown socks. Pittsburgh is confirmed in white on the road, with black helmet, gold pants and black socks. **Our verdict on the matchup: C-**, and the brown-on-brown Browns side is the reason. Cleveland has published its 2026 schedule but not a full uniform schedule, so the rest of this page is the week-by-week grid with our calls, including Alpha Dawg in Weeks 10 and 14, plus the rest of the closet and where it fits.
+
+Want them graded instead? Here is [every Cleveland Browns jersey ranked](/stories/browns-jerseys-2026-ranked), worst to best.
 
 ## The Full 2026 Browns Uniform Schedule, Week by Week
 

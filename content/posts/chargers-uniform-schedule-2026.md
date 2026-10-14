@@ -1,8 +1,8 @@
 ---
-title: "Chargers Uniform Schedule 2026: What They're Wearing This Week, Plus Every Powder Blue Date"
+title: "Chargers Jerseys & Uniforms 2026: What They're Wearing This Week"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "The Chargers released the full 2026 uniform schedule: every jersey and pants combo for all 17 games, from powder blue at home to the Super Chargers navy nights."
 gradient: "linear-gradient(135deg, #0080C6 0%, #00477e 55%, #001a37 130%)"
 coverImage: "/images/posts/chargers-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,8 @@ teams: ["los-angeles-chargers"]
 ---
 
 The Chargers did the thing we wish every team would do: on September 1 they published the entire 2026 uniform schedule, jersey and pants, for all 17 games. No projections needed anymore. Powder blue gets five of the eight home dates, the white road set covers eight of the nine away games, and the four alternate games we already knew about hold their spots: three all-navy Super Chargers nights at SoFi and the gold Charger Power trip to Tampa. Even the pants are locked in, and the pants are where this schedule gets interesting, because Los Angeles runs three different pant colors under each of its base jerseys. Here is the full Los Angeles Chargers 2026 uniform schedule, week by week, combo by combo.
+
+Want them graded instead? Here is [every Los Angeles Chargers jersey ranked](/stories/chargers-jerseys-2026-ranked), worst to best.
 
 ## The Alternate Uniform Games
 

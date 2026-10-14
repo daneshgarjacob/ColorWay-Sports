@@ -1,9 +1,9 @@
 ---
 topViewsRank: 11
-title: "Pittsburgh Steelers 2026 Uniform Schedule: Every Jersey, Every Week, and the 1933 Throwback Question"
+title: "Pittsburgh Steelers Jerseys & Uniforms 2026: Full Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "The Steelers are bringing back the 1933 throwback, and we have it on Black Friday against Denver. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,8 @@ teams: ["pittsburgh-steelers"]
 ---
 
 The Steelers have confirmed that the **1933 throwback and its gold helmet are coming back in 2026**, and we have it on **Black Friday against Denver in Week 12**. That is the headline uniform story in Pittsburgh this year, and the all-black Color Rush follows nine days later on Sunday night against Houston. In the meantime, here is the full Pittsburgh Steelers 2026 uniform schedule, week by week, with a clear line between what the team has actually said and what is still a projection.
+
+Want them graded instead? Here is [every Pittsburgh Steelers jersey ranked](/stories/steelers-jerseys-2026-ranked), worst to best.
 
 ## The Full 2026 Steelers Uniform Schedule, Week by Week
 

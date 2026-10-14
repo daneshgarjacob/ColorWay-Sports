@@ -1,7 +1,5 @@
 ---
-title: >-
-  Marlins Uniform Schedule 2026: Retro Wave Fridays, Home Whites Saturdays, Teal
-  Sundays
+title: "Miami Marlins Jerseys & Uniforms 2026: Full Schedule"
 category: MLB
 date: '2026-04-24'
 updatedDate: "2026-10-13"
@@ -26,6 +24,8 @@ homepageOrder: 9
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Miami Marlins</p>
 
 The Miami Marlins built a weekend uniform schedule for 2026, and it is one of the smartest jersey programs in baseball this year. Every Friday, Saturday, and Sunday home game at loanDepot park has a designated look. Retro Wave on Fridays, home whites on Saturdays, and the throwback teal jersey on Sundays. Fans know exactly what to expect when they walk into the ballpark, and each uniform has its own identity instead of showing up in random spots on the calendar.
+
+Want them graded instead? Here is [every Miami Marlins jersey ranked](/stories/marlins-jerseys-2026-ranked), worst to best.
 
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #00A3E0 0%, #00A3E0cc 100%);">

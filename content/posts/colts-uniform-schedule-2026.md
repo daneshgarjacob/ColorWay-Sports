@@ -1,8 +1,8 @@
 ---
-title: "Colts 2026 Uniform Schedule: The 'Anvil Strike' Rivalries Jersey, a Cowboys White Out, and Indiana Nights Under the Lights"
+title: "Indianapolis Colts Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "The Colts' 2026 alternate schedule: the new Anvil Strike Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -17,6 +17,8 @@ teams: ["indianapolis-colts"]
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: -2em; margin-bottom: 2.5em;">via the Indianapolis Colts</p>
 
 The Colts have locked in their 2026 alternate uniform schedule, and it is a three-game slate with real range: a brand-new Rivalries jersey, an all-white "White Out," and the return of the Indiana Nights set that has quietly become one of the best alternates in the AFC. All three come out at home at Lucas Oil Stadium, and they are spread cleanly across the season so no single stretch gets loud all at once.
+
+Want them graded instead? Here is [every Indianapolis Colts jersey ranked](/stories/colts-jerseys-2026-ranked), worst to best.
 
 ## Week 3 vs. Texans: The "Anvil Strike" Rivalries Jersey Debuts
 

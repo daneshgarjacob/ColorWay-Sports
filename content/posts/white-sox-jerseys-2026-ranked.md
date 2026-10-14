@@ -1,8 +1,8 @@
 ---
-title: "Every White Sox Jersey in 2026, Ranked: The Black Alternate Is Elite and the Red City Connect Is a Disaster"
+title: "Every White Sox Jersey Ranked (2026): The Black Alternate Is Elite"
 category: MLB
 date: "2026-07-21"
-updatedDate: "2026-07-21"
+updatedDate: "2026-10-13"
 excerpt: "The Chicago White Sox jerseys and uniforms they have actually worn in 2026, ranked and graded, from the red City Connect at the bottom to the black alternate at number one."
 gradient: "linear-gradient(135deg, #27251F 0%, #C4CED4 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Chicago White Sox have had a miserable few years on the field, but the closet has never been the problem. Since the 1991 rebrand that traded red and blue for black and silver, this has been one of the cleanest, most disciplined visual identities in baseball. The monochrome palette does not have a weak entry, and the team is smart enough to mostly leave it alone.
+
+Looking for dates? Here is [the full 2026 Chicago White Sox uniform schedule](/stories/white-sox-uniform-schedule-2026), with every jersey and when it is worn.
 
 The trouble starts when they reach outside it. Three of the four uniforms they have actually worn this season are black, white, silver, and gray, exactly as they should be. The fourth is red, and it is the whole argument of this list.
 

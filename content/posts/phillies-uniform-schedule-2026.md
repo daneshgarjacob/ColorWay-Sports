@@ -1,5 +1,5 @@
 ---
-title: 'Phillies Uniform Schedule 2026: When the Powder Blues and City Connect Come Out'
+title: "Philadelphia Phillies Jerseys & Uniforms 2026: Full Schedule"
 homepageFeature: true
 category: MLB
 date: '2026-04-06'

@@ -1,8 +1,8 @@
 ---
-title: "Houston Texans Jerseys 2026: Every Jersey Ranked, From Battle Red to the H-Town Blue Alternate"
+title: "Every Houston Texans Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 author: "colorway-sports-staff"
 excerpt: "Texans jerseys 2026, ranked and graded: Battle Red, the HOUSTON/US Rivalries set, Liberty White, Deep Steel Blue and the H-Town Blue alternate, plus when each of these uniforms appears."
 gradient: "linear-gradient(135deg, #03202F 0%, #12405c 55%, #A71930 130%)"
@@ -16,6 +16,8 @@ teams:
 ---
 
 Houston has climbed further than any team in the league on uniforms. The Texans went from what we considered the worst look in the NFL to a respectable closet built on Deep Steel Blue, Liberty White and Battle Red, with horn-shaped shoulder stripes and numbers that finally read from a distance. In 2026 they add a fifth look, the HOUSTON/US Rivalries uniform, with the first white helmet in franchise history.
+
+Looking for dates? Here is [the full 2026 Houston Texans uniform schedule](/stories/texans-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every Houston Texans jersey and uniform for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 

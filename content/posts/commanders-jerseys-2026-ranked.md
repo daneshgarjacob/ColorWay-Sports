@@ -1,8 +1,8 @@
 ---
-title: "Washington Commanders Jerseys 2026: Every Jersey Ranked, From the Hail Raiser to the White Primary"
+title: "Every Washington Commanders Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 author: "colorway-sports-staff"
 excerpt: "Commanders jerseys 2026, ranked and graded: the black Hail Raiser, the burgundy heritage set and the new white primary, plus when Washington wears each of its uniforms."
 gradient: "linear-gradient(135deg, #5A1414 0%, #3a0d0d 55%, #FFB612 130%)"
@@ -16,6 +16,8 @@ teams:
 ---
 
 Washington rebuilt its entire closet this year, and the result is the best redesign in the NFL. In April the Commanders went back to the look of the Joe Gibbs years: block numbers, burgundy and gold sleeve stripes, and a glossy burgundy helmet with a gold facemask. Then the jersey schedule 2026 added a twist nobody expected. The white jersey, an alternate in 2025, is now the primary, burgundy is the nine-game heritage set, and the all-black "Hail Raiser" gets two home dates.
+
+Looking for dates? Here is [the full 2026 Washington Commanders uniform schedule](/stories/commanders-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every Washington Commanders jersey and uniform for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 

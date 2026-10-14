@@ -1,8 +1,8 @@
 ---
-title: "Tampa Bay Buccaneers Jerseys 2026: Every Jersey Ranked, From Creamsicle Throwback to All-Pewter"
+title: "Every Tampa Bay Buccaneers Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Tampa Bay Buccaneers jerseys 2026, ranked: the Creamsicle throwback, red home, white road and the new All-Pewter set, graded with every date each is worn."
 gradient: "linear-gradient(135deg, #34302B 0%, #1a1815 55%, #D50A0A 130%)"
 author: "colorway-sports-staff"

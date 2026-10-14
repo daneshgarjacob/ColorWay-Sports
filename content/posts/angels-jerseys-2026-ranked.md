@@ -1,8 +1,8 @@
 ---
-title: "Every Los Angeles Angels Jersey in 2026, Ranked: The Throwback White Is Perfect and the Surf City Connect Finishes Last"
+title: "Every Angels Jersey Ranked (2026): The Throwback White Is Perfect"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-08-03"
+updatedDate: "2026-10-13"
 excerpt: "Every Los Angeles Angels jersey and uniform for 2026, ranked worst to first and graded, from the B-minus Surf City Connect up to the A-plus throwback white."
 gradient: "linear-gradient(135deg, #BA0021 0%, #2c0710 50%, #003263 120%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Angels closet is smaller than most and better than people give it credit for, and the reason is that the best thing in it is a jersey the team only pulls out occasionally. Los Angeles owns three different white tops, which is unusual on its own, and they are not remotely equal: one of them is the sharpest uniform the franchise has worn in forty years, one is perfectly fine, and one is cream and finishes last. Here is every Los Angeles Angels jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Los Angeles Angels uniform schedule](/stories/angels-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. Surf City City Connect
 

@@ -1,8 +1,8 @@
 ---
-title: "New Orleans Saints 2026 Uniform Schedule: The Gold Jersey Date, Three Helmets, and the Paris Home Game"
+title: "New Orleans Saints Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "The Saints published their 2026 uniform schedule: the gold jersey once under the black helmet, white at home twice, and the white helmet three times. Every jersey and uniform, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,8 @@ teams: ["new-orleans-saints"]
 ---
 
 The Saints published their full 2026 uniform schedule on September 7, and the plan is built on helmets rather than jerseys. The **gold jersey comes out once**, against Cleveland under the black helmet, **white gets two home dates**, black travels to Baltimore, and all three helmets are on the calendar: the gold shell as the base, the white shell three times, the black shell twice. The one thing the team left open is pants, which the captains pick the week of each game. Here is the full New Orleans Saints 2026 uniform schedule, week by week, every game confirmed by the club.
+
+Want them graded instead? Here is [every New Orleans Saints jersey ranked](/stories/saints-jerseys-2026-ranked), worst to best.
 
 ## The Full 2026 Saints Uniform Schedule, Week by Week
 

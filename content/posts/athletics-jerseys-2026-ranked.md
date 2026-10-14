@@ -1,8 +1,8 @@
 ---
-title: "Every Athletics Jersey in 2026, Ranked: The Kelly Greens Are Untouchable and the Sacramento Gold Is Complicated"
+title: "Every Athletics Jersey Ranked (2026): The Kelly Greens Are Untouchable"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-08-03"
+updatedDate: "2026-10-13"
 excerpt: "Every Athletics jersey and uniform for 2026, ranked worst to first and graded, from the B-grade gold Sacramento alternate up to the A-grade kelly greens."
 gradient: "linear-gradient(135deg, #006341 0%, #0a2a1c 50%, #EFB21E 120%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 No franchise in baseball is wearing its own situation as plainly as this one. The Athletics have no city on their chest, play in a minor league park in Sacramento, and have a jersey that thanks the town taking them in while carrying an advertising patch for the city they are leaving it for. All four uniforms are legible as a story about a team between homes. The good news, and it is genuinely good news, is that the best thing in the closet is the piece nobody has been allowed to touch in fifty years. Here is every Athletics jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Athletics uniform schedule](/stories/athletics-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 4. Gold "Sacramento" Alternate
 

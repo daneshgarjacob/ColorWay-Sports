@@ -1,5 +1,5 @@
 ---
-title: 'St. Louis Cardinals Uniform Schedule 2026: Every Jersey and When They Wear It'
+title: "St. Louis Cardinals Jerseys & Uniforms 2026: Full Schedule"
 category: MLB
 date: '2026-06-16'
 updatedDate: "2026-10-13"

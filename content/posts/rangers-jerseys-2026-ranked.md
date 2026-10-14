@@ -1,8 +1,8 @@
 ---
-title: "Every Texas Rangers Jersey in 2026, Ranked: The Royal Blue Alternate Wins and the Home Whites Come Last"
+title: "Every Texas Rangers Jersey Ranked (2026): The Royal Blue Alternate Wins"
 category: MLB
 date: "2026-07-31"
-updatedDate: "2026-07-31"
+updatedDate: "2026-10-13"
 excerpt: "Every Texas Rangers jersey and uniform for 2026, ranked worst to first and graded, from the B- home whites up to the royal blue road alternate."
 gradient: "linear-gradient(135deg, #003278 0%, #0a2f6b 50%, #C0111F 120%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Rangers have quietly built one of the more balanced closets in the American League. Five looks, no dead weight, and a color palette that actually gets used instead of sitting in a drawer. The interesting part is that the two best jerseys here are the ones doing the least: the road gray and the royal blue alternate both win on the strength of the full package rather than on any one trick. The lettering is where we have our reservations, and that is what keeps the home white at the bottom. Here is every Texas Rangers jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Texas Rangers uniform schedule](/stories/rangers-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. Home White
 

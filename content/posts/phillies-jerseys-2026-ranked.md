@@ -1,8 +1,8 @@
 ---
-title: "Every Phillies Jersey in 2026, Ranked: The Creams Are the Best Thing They Wear and the City Connect Is the Worst"
+title: "Every Phillies Jersey Ranked (2026): The Creams Are the Best Thing They Wear"
 category: MLB
 date: "2026-07-21"
-updatedDate: "2026-07-21"
+updatedDate: "2026-10-13"
 excerpt: "All five Philadelphia Phillies jerseys and uniforms for 2026 ranked and graded, from the City Connect at the bottom to the cream alternates at number one."
 gradient: "linear-gradient(135deg, #E81828 0%, #284898 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Philadelphia Phillies run the best-organized uniform rotation in baseball. Five jerseys, each tied to a specific day of the week, nothing left to chance. Night games get the pinstripes, day games get the creams, Thursday belongs to the powder blues, Friday belongs to the City Connect. You can look at a schedule in March and know what they will be wearing in July.
+
+Looking for dates? Here is [the full 2026 Philadelphia Phillies uniform schedule](/stories/phillies-uniform-schedule-2026), with every jersey and when it is worn.
 
 The system is so good that it hides how uneven the closet actually is. The top of this list contains two of the best uniforms in the National League. The bottom contains the only Phillies jersey that does not look like the Phillies.
 

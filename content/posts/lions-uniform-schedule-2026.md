@@ -1,9 +1,9 @@
 ---
 topViewsRank: 3
-title: "Detroit Lions 2026 Uniform Schedule: Every Jersey, Every Week, and the November 1 Rivalries Debut"
+title: "Detroit Lions Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-13"
 excerpt: "Detroit debuts its Rivalries uniform on November 1 against the Vikings. Here is the full 2026 Lions jersey schedule, week by week, with Munich and Thanksgiving explained."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 coverImage: "/images/posts/lions-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,8 @@ teams: ["detroit-lions"]
 ---
 
 The Lions have one confirmed uniform date in 2026 and it lands in the middle of the best stretch of their schedule. Detroit debuts its new Nike Rivalries uniform on **Sunday, November 1 against the Minnesota Vikings at Ford Field**, the design was unveiled August 25, silver with carbon-fiber numbers and an electric-blue helmet, and they wear it exactly once. Here is the full Detroit Lions 2026 uniform schedule, week by week, with the confirmed date first and an honest label on everything still projected.
+
+Want them graded instead? Here is [every Detroit Lions jersey ranked](/stories/lions-jerseys-2026-ranked), worst to best.
 
 ## The Full 2026 Lions Uniform Schedule, Week by Week
 

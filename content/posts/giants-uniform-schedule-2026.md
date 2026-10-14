@@ -1,5 +1,5 @@
 ---
-title: 'San Francisco Giants Uniform Schedule 2026: Every Jersey and When They Wear It'
+title: "San Francisco Giants Jerseys & Uniforms 2026: Full Schedule"
 category: MLB
 date: '2026-06-16'
 updatedDate: "2026-10-13"
@@ -19,6 +19,8 @@ teams:
 <div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Giants Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Tuesday, October 13, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #5a6472; line-height: 1.1;">SEASON OVER</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Back in 2027</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Giants finished their 2026 season on Sunday, September 27.</div><a href="/mlb-tracker/giants" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
 The Giants carry five uniforms in 2026, and the closet got a real shake-up this year. The big news is the new Gigantes alternate, a black-and-orange jersey with cream pants that honors the franchise's Latino heritage. It joins a rotation that already had a clear backbone at Oracle Park: certain themed jerseys are tied to specific home days. If you know the day of the week, you can usually guess the look. We walk through every jersey below and lay out when each one comes out.
+
+Want them graded instead? Here is [every San Francisco Giants jersey ranked](/stories/giants-jerseys-2026-ranked), worst to best.
 
 One thing to clear up first, because it trips up almost everyone, including plenty of Giants fans: **San Francisco does not have a plain white home jersey.** Their home uniform is cream. In bright Oracle Park daylight the cream reads white on camera, which is why you will see it described both ways, but it is one jersey, not two. The old white "fog" City Connect was retired after 2024, and the current City Connect is black, so there is no true-white top in the 2026 rotation at all.
 

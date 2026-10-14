@@ -1,6 +1,6 @@
 ---
 topViewsRank: 13
-title: "Braves Uniform Schedule 2026: Every Jersey and When They Wear It"
+title: "Atlanta Braves Jerseys & Uniforms 2026: Full Schedule"
 category: "MLB"
 date: "2026-05-25"
 updatedDate: "2026-10-13"
@@ -17,6 +17,8 @@ teams: ["atlanta-braves"]
 <div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Braves Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Tuesday, October 13, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #5a6472; line-height: 1.1;">SEASON OVER</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Back in 2027</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">The Braves' 2026 season ended in the Division Series on Wednesday, October 7.</div><a href="/mlb-tracker/braves" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
 The Atlanta Braves have one of the deeper uniform closets in the National League for 2026, with five jerseys in active rotation across the season. Home whites with the script Braves wordmark for the bulk of home games at Truist Park. Road grays with the Atlanta script for most away games. A red alternate and a navy alternate splitting select weeknights. The new powder blue City Connect for Saturday home games. The Braves rotate enough looks to give fans something to track across a homestand without crowding the broadcast.
+
+Want them graded instead? Here is [every Atlanta Braves jersey ranked](/stories/braves-jerseys-2026-ranked), worst to best.
 
 
 <div style="margin: 1.6em 0; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, #CE1141 0%, #CE1141cc 100%);">

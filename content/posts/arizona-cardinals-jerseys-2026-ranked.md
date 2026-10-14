@@ -1,8 +1,8 @@
 ---
-title: "Arizona Cardinals Jerseys 2026: Every Jersey Ranked, From the Rivalries Jersey to Black"
+title: "Every Arizona Cardinals Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Arizona Cardinals jerseys 2026, ranked: the desert Rivalries jersey, cardinal red, white and black, graded with the helmet, pants and every date each is worn."
 gradient: "linear-gradient(135deg, #97233F 0%, #5e1628 55%, #141414 130%)"
 author: "colorway-sports-staff"

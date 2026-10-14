@@ -1,5 +1,5 @@
 ---
-title: "Broncos Uniform Schedule 2026: What Denver Is Wearing This Week and Every Jersey Date"
+title: "Broncos Jerseys & Uniforms 2026: What They're Wearing This Week"
 category: NFL
 date: "2026-08-12"
 excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Orange, two in Midnight Navy, and the best thing they own gets only two."
@@ -15,6 +15,8 @@ teams: ["denver-broncos"]
 ---
 
 The Broncos did the thing more teams should do: they published the whole uniform schedule at once, all 17 games, jersey by jersey, before the season starts. No week-of guessing, no waiting for a Wednesday practice photo. Here is the complete Denver Broncos 2026 uniform schedule, and one honest complaint about how they spent their alternates.
+
+Want them graded instead? Here is [every Denver Broncos jersey ranked](/stories/broncos-jerseys-2026-ranked), worst to best.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2087570857732247611"></a></blockquote>

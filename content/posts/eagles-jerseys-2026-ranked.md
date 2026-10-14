@@ -1,8 +1,8 @@
 ---
-title: "Philadelphia Eagles Jerseys 2026: Every Jersey Ranked, From Kelly Green to the Black Alternate"
+title: "Every Philadelphia Eagles Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 author: "colorway-sports-staff"
 excerpt: "Eagles jerseys 2026, ranked and graded: Kelly Green, midnight green, the white road set and the black alternate, plus the dates for all four Philadelphia uniforms."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007A33 130%)"
@@ -16,6 +16,8 @@ teams:
 ---
 
 Philadelphia has the rare closet where the alternate is better than the primary, and everybody knows it. Midnight green is one of the most distinctive colors in the NFL, but Kelly Green is the jersey fans actually want, and the Eagles ration it. Their jersey schedule 2026 gives Kelly Green two home dates, the black alternate one, and adds a small change to the everyday sets: an updated EAGLES wordmark across the chest.
+
+Looking for dates? Here is [the full 2026 Philadelphia Eagles uniform schedule](/stories/eagles-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every Philadelphia Eagles jersey and uniform for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 

@@ -1,8 +1,8 @@
 ---
-title: "Atlanta Falcons 2026 Uniform Schedule: 1966 Throwback Dates, the New Red Home Set, and Every Week"
+title: "Atlanta Falcons Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-13"
 excerpt: "The Falcons wear the 1966 throwback, red helmet and black jersey, in Week 7 vs the 49ers and Week 13 vs the Lions. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #A71930 0%, #6b0f1e 55%, #000000 130%)"
 coverImage: "/images/posts/falcons-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,8 @@ teams: ["atlanta-falcons"]
 ---
 
 **Atlanta published its full 2026 jersey schedule on September 10, and every week below is the team's own assignment except Week 8 at Tampa Bay, where we expect red.** Atlanta unveiled a new uniform set on April 2, 2026, and the headline change is that **red is the primary home jersey again**. That single decision reshapes what the Falcons look like this season, and the other alternate now has its dates: the **1966 throwback**, the red helmet with the black jersey and white pants, comes out twice, **Week 7 against the 49ers on Sunday, October 25** and **Week 13 against the Lions on Sunday, December 6**, both at Mercedes-Benz Stadium. Here is the full Atlanta Falcons 2026 uniform schedule, week by week.
+
+Want them graded instead? Here is [every Atlanta Falcons jersey ranked](/stories/falcons-jerseys-2026-ranked), worst to best.
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Cover: the Falcons' 2026 jersey schedule graphic, via the Atlanta Falcons.</p>
 

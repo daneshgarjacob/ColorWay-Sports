@@ -1,8 +1,8 @@
 ---
-title: "49ers 2026 Uniform Schedule: The Beloved 1994 Throwbacks Return, and the Polarizing Black Rivalries Is Back"
+title: "49ers Jerseys & Uniforms 2026: Schedule and 1994 Throwback Dates"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "The 49ers' 2026 uniform schedule is set: the fan-favorite 1994 throwbacks come out three times, and the polarizing all-black Rivalries returns in Week 14 against the Rams."
 gradient: "linear-gradient(135deg, #AA0000 0%, #1d1d1d 55%, #B3995D 130%)"
 cardStyle: words
@@ -13,6 +13,8 @@ teams: ["san-francisco-49ers"]
 ---
 
 The 49ers released their 2026 uniform schedule, and it is a tale of two alternates: the look everybody loves and the look nobody asked for. San Francisco will break out its gorgeous 1994 throwbacks three separate times, and it will also bring back the all-black Rivalries uniform that has divided the fan base since the day it dropped. Here is every special look on the calendar and what we make of each.
+
+Want them graded instead? Here is [every San Francisco 49ers jersey ranked](/stories/49ers-jerseys-2026-ranked), worst to best.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NBCS49ers/status/2080058441599799710"></a></blockquote>

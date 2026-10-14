@@ -1,8 +1,8 @@
 ---
-title: "Detroit Lions Jerseys 2026: Every Jersey Ranked, From Honolulu Blue to the Rivalries Set"
+title: "Every Detroit Lions Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 author: "colorway-sports-staff"
 excerpt: "Lions jerseys 2026, ranked and graded: the Honolulu blue home and white road uniforms, plus the silver Rivalries set Detroit wears once, on November 1."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
@@ -16,6 +16,8 @@ teams:
 ---
 
 Detroit's 2026 closet is three uniforms deep, and two of them are the same idea: Honolulu blue and silver, the pairing nobody else in the league can use. The 2024 clean-up gave the Lions sharper numbers and dropped black from the primary set, and it made them one of the best-dressed teams in the NFL. The third uniform is the new one, the silver Rivalries set with carbon-fiber numbers, and it is the only true departure on the Lions jersey schedule 2026 has to offer.
+
+Looking for dates? Here is [the full 2026 Detroit Lions uniform schedule](/stories/lions-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every Detroit Lions jersey and uniform for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 

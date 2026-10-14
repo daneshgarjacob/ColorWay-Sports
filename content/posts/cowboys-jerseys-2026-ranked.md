@@ -1,8 +1,8 @@
 ---
-title: "Dallas Cowboys Jerseys 2026: Every Jersey Ranked, From the Thanksgiving Classic to the Navy Road Jersey"
+title: "Every Dallas Cowboys Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 author: "colorway-sports-staff"
 excerpt: "Cowboys jerseys 2026, ranked and graded: the white home set, the navy road jersey, the all-white Color Rush and the Thanksgiving Classic uniforms, plus every date."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
@@ -16,6 +16,8 @@ teams:
 ---
 
 Dallas is the rare NFL team that picks white at home, and its whole closet is built around that choice. The Cowboys published their jersey schedule 2026 in full on September 2, and it breaks down cleanly: the white set ten times, the navy jersey three times, the all-white Color Rush three times, and the 1960s Thanksgiving Classic once. That is four uniforms, and the gap between the best and the worst of them is bigger than most fans would guess.
+
+Looking for dates? Here is [the full 2026 Dallas Cowboys uniform schedule](/stories/cowboys-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every Dallas Cowboys jersey and uniform for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 

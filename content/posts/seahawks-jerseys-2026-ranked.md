@@ -1,8 +1,8 @@
 ---
-title: "Seattle Seahawks Jerseys 2026: Every Jersey Ranked, From the Royal Blue Throwback to the White Road Set"
+title: "Every Seattle Seahawks Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Seahawks jerseys 2026, ranked: all four Seattle uniforms graded, from the white road set up to the royal blue throwback, plus when each one is worn."
 gradient: "linear-gradient(135deg, #002244 0%, #0b3a6b 55%, #69BE28 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -16,6 +16,8 @@ teams:
 ---
 
 Seattle's closet is a strange one to rank, because the best jersey in it is the oldest one. The modern college navy and white set carries the ordinary weeks, the Rivalries uniform gets Christmas Day, and the royal blue throwback gets two primetime nights. The throwback is the jersey everybody wants the team to wear every week, and the defending Super Bowl LX champions only bring it out twice.
+
+Looking for dates? Here is [the full 2026 Seattle Seahawks uniform schedule](/stories/seahawks-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every Seattle Seahawks jersey and uniform for 2026, ranked worst to first and graded, with when each one is worn and what it pairs with.
 

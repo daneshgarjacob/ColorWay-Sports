@@ -1,8 +1,8 @@
 ---
-title: "Carolina Panthers 2026 Uniform Schedule: Every Jersey Date and This Week's Look"
+title: "Carolina Panthers Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-13"
 excerpt: "Carolina published its 2026 jersey schedule: black six times at home, Panther blue three, white on every road trip. The full week-by-week, confirmed."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,8 @@ teams: ["carolina-panthers"]
 ---
 
 Carolina was the hardest team in the NFL to predict week to week, and now it is not. The Panthers spent years treating **black and Panther blue as co-primaries**, wearing both at home and announcing the choice a few days out, which made them the one club nobody could schedule around. On September 4 they [published the whole thing](https://www.panthers.com/news/carolina-panthers-release-the-2026-jersey-schedule-uniforms-alternates): every jersey, every week, all seventeen games.
+
+Want them graded instead? Here is [every Carolina Panthers jersey ranked](/stories/panthers-jerseys-2026-ranked), worst to best.
 
 The headline is that black won. Here is the full Carolina Panthers 2026 uniform schedule, week by week, with what is now confirmed and the one piece that still is not.
 

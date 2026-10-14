@@ -1,9 +1,9 @@
 ---
-title: "Vikings 2026 Uniform Schedule: When They Wear Classic, Rivalries, and the Winter Warrior Whiteout"
+title: "Minnesota Vikings Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-13"
 excerpt: "The Vikings confirmed every 2026 home uniform: Classic throwbacks against Green Bay, the new Rivalries jersey against Detroit, and the Winter Warrior whiteout."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -18,6 +18,8 @@ teams: ["minnesota-vikings"]
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: -2em; margin-bottom: 2.5em;">via the Minnesota Vikings</p>
 
 Most teams let their uniform news trickle out one week at a time. The Vikings did not. Minnesota published its 2026 game themes with the jersey attached to every single home date, which means the U.S. Bank Stadium half of this schedule is confirmed rather than projected. Three of the nine are genuine uniform changes: the **Classic** throwback opens the season against Green Bay on the 25th anniversary of 9/11, the brand-new **Rivalries** jersey debuts against Detroit on Sunday Night Football in Week 15, and the **Winter Warrior** whiteout returns against Washington in Week 16. Add the all-purple combo against the Colts and the purple-over-white primary for the rest, and here is the full Vikings 2026 uniform schedule, week by week.
+
+Want them graded instead? Here is [every Minnesota Vikings jersey ranked](/stories/vikings-jerseys-2026-ranked), worst to best.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet">

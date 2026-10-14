@@ -1,8 +1,8 @@
 ---
-title: "Every Pittsburgh Pirates Jersey in 2026, Ranked: The Road Grays Win and the New City Connect Lands With a Thud"
+title: "Every Pirates Jersey Ranked (2026): The Road Grays Win"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-08-03"
+updatedDate: "2026-10-13"
 excerpt: "Every Pittsburgh Pirates jersey and uniform for 2026, ranked worst to first and graded, from the C-grade new City Connect up to the cursive road grays."
 gradient: "linear-gradient(135deg, #27251F 0%, #3a3730 50%, #FDB827 120%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 Black and gold is one of the best colour combinations in American sport, and Pittsburgh is the only city that owns it outright across three teams. That should make the Pirates closet easy. Instead it produces a ranking where the two most ordinary jerseys finish on top and the loudest, newest, most-promoted uniform finishes last. The reason is a single design decision the team made twice, once brilliantly and once badly. Here is every Pittsburgh Pirates jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Pittsburgh Pirates uniform schedule](/stories/pirates-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 4. City Connect
 

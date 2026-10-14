@@ -1,8 +1,8 @@
 ---
-title: "Tennessee Titans 2026 Uniform Schedule: The Brand-New Blue and White Sets and the 'Music City' Rivalries Uniform"
+title: "Tennessee Titans Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "The Titans' 2026 uniform schedule: the first season in the new jerseys, week by week, plus the new Music City Rivalries uniform and its confirmed Week 10 debut."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 coverImage: "/images/posts/titans-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,8 @@ teams: ["tennessee-titans"]
 ---
 
 Tennessee's 2026 uniform schedule is different from everyone else's, because every single week is a debut. The Titans unveiled a full rebrand in March, their first uniform change since 2018, and the new light blue home set has not played a regular season snap yet. There is no throwback on the calendar. What there is instead is a clean two-uniform system plus one brand-new third look: the Music City Rivalries uniform, revealed August 25 and confirmed for Week 10 against Jacksonville. Here is the full Tennessee Titans 2026 uniform schedule, week by week.
+
+Want them graded instead? Here is [every Tennessee Titans jersey ranked](/stories/titans-jerseys-2026-ranked), worst to best.
 
 ## The New Titans Uniform Set, Explained
 

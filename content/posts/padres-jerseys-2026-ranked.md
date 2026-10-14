@@ -1,8 +1,8 @@
 ---
-title: "Every Padres Jersey in 2026, Ranked: The Camo Takes the Top Spot and the City Connect Is Overrated"
+title: "Every Padres Jersey Ranked (2026): The Camo Takes the Top Spot"
 category: MLB
 date: "2026-07-23"
-updatedDate: "2026-07-23"
+updatedDate: "2026-10-13"
 excerpt: "Every San Diego Padres jersey and uniform for 2026, ranked and graded worst to first. The military camo tribute is the best thing they own, and the hyped City Connect lands near the bottom."
 gradient: "linear-gradient(135deg, #2F241D 0%, #4a3626 55%, #FFC425 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 Nobody in baseball owns a color the way the Padres own brown. It is the whole identity, the thing that makes them instantly recognizable and impossible to confuse with anyone else, and it is the reason this closet is one of the most fun in the sport to rank. Five uniforms, a real range of looks, and a color story no other team can touch.
+
+Looking for dates? Here is [the full 2026 San Diego Padres uniform schedule](/stories/padres-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is the honest throughline, though: we love this set and we still think almost every piece of it is a little underpowered. The brown, the khaki, the camo are all handsome and all a touch too soft, like they are one notch of contrast away from being great. The one everybody raves about, the City Connect, is the one we have cooled on the most. Here is every Padres jersey and uniform for 2026, ranked worst to first and graded.
 

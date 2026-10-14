@@ -1,8 +1,8 @@
 ---
-title: "Every Washington Nationals Jersey in 2026, Ranked: The Navy Still Carries 2019 and the District Blueprint Is the Worst in Baseball"
+title: "Every Nationals Jersey Ranked (2026): The District Blueprint Comes Last"
 category: MLB
 date: "2026-08-03"
-updatedDate: "2026-08-03"
+updatedDate: "2026-10-13"
 excerpt: "Every Washington Nationals jersey and uniform for 2026, ranked worst to first and graded, from the D-minus District Blueprint City Connect up to the navy alternate."
 gradient: "linear-gradient(135deg, #14225A 0%, #0a1130 55%, #AB0003 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 Washington's closet is a red, white and navy set that should be almost impossible to get wrong, and mostly it is not wrong. What it is, in places, is empty. The 2024 cleanup stripped the front chest number off the home white and the navy in the name of a tidier finish, and the ranking below is partly a story about what that number was holding together. Add a City Connect that replaced a genuinely beloved kit with a street map, and you get the widest spread we have seen outside Miami. Here is every Washington Nationals jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Washington Nationals uniform schedule](/stories/nationals-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. "District Blueprint" City Connect
 

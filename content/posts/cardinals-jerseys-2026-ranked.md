@@ -1,8 +1,8 @@
 ---
-title: "Every St. Louis Cardinals Jersey in 2026, Ranked: The Birds on the Bat Still Rule and the City Connect Comes in Last"
+title: "Every St. Louis Cardinals Jersey Ranked (2026): The Birds on the Bat Rule"
 category: MLB
 date: "2026-07-28"
-updatedDate: "2026-08-12"
+updatedDate: "2026-10-13"
 excerpt: "Every St. Louis Cardinals jersey and uniform for 2026, ranked and graded worst to first, from the all-red City Connect up to the timeless birds-on-the-bat home white."
 gradient: "linear-gradient(135deg, #C41E3A 0%, #1d1d1d 50%, #0C2340 100%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Cardinals run one of the most disciplined uniform rotations in all of baseball, and that is exactly what makes them so satisfying to rank. There are no random alternates thrown on for a Tuesday afternoon and no closet full of gimmicks. St. Louis ties a specific look to a specific day and leaves the whole thing alone, and for 2026 they cleaned it up even further, bringing back the classic Majestic-style cut and restoring real braid piping on the throwbacks.
+
+Looking for dates? Here is [the full 2026 St. Louis Cardinals uniform schedule](/stories/cardinals-uniform-schedule-2026), with every jersey and when it is worn.
 
 What you are left with is five uniforms that range from very good to genuinely great, plus one bold swing that the whole fan base still argues about. Here is every St. Louis Cardinals jersey and uniform for 2026, ranked worst to first and graded.
 

@@ -1,8 +1,8 @@
 ---
-title: "Tennessee Titans Jerseys 2026: Every Jersey Ranked, From White to Music City"
+title: "Every Tennessee Titans Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Tennessee Titans jerseys 2026, ranked: the new white and Titans Blue sets and the Music City Rivalries uniform, graded with the helmet, pants and every date."
 gradient: "linear-gradient(135deg, #4B92DB 0%, #2b6ea8 55%, #0C2340 130%)"
 author: "colorway-sports-staff"

@@ -1,8 +1,8 @@
 ---
-title: "Atlanta Falcons Jerseys 2026: Every Jersey Ranked, From 1966 Throwback to White"
+title: "Every Atlanta Falcons Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Atlanta Falcons jerseys 2026, ranked: the new red home and white road jerseys and the 1966 throwback, graded with the helmet, pants and every date each is worn."
 gradient: "linear-gradient(135deg, #A71930 0%, #6b0f1e 55%, #000000 130%)"
 author: "colorway-sports-staff"

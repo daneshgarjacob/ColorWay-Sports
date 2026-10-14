@@ -1,8 +1,8 @@
 ---
-title: "Every Detroit Tigers Jersey in 2026, Ranked: The Historic New Orange Wins and the Motor City City Connect Comes Last"
+title: "Every Tigers Jersey Ranked (2026): The Historic New Orange Wins"
 category: MLB
 date: "2026-07-29"
-updatedDate: "2026-07-29"
+updatedDate: "2026-10-13"
 excerpt: "Every Detroit Tigers jersey, ranked worst to first, from the C-graded Motor City City Connect up to the historic new orange alternate, the first Tigers orange in 126 years."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1d1d1d 50%, #FA4616 120%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 Detroit has always been one of the most conservative uniform franchises in baseball, an identity built on a single letter. Then 2026 happened: the Tigers rolled out orange for the first time in 126 years plus a matching navy road alternate, and those two new looks immediately jumped to the top of the closet. The City Connect, on the other hand, is the one we could do without. Here is every Detroit Tigers jersey and uniform for 2026, ranked worst to first and graded.
+
+Looking for dates? Here is [the full 2026 Detroit Tigers uniform schedule](/stories/tigers-uniform-schedule-2026), with every jersey and when it is worn.
 
 ## 5. Motor City City Connect
 

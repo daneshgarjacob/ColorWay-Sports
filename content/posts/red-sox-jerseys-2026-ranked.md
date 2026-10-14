@@ -1,8 +1,8 @@
 ---
-title: "Every Red Sox Jersey in 2026, Ranked: The Yellow City Connect Is a Problem"
+title: "Every Red Sox Jersey Ranked (2026): The Yellow City Connect Is a Problem"
 category: MLB
 date: "2026-07-20"
-updatedDate: "2026-07-20"
+updatedDate: "2026-10-13"
 excerpt: "All five Boston Red Sox jerseys and uniforms for 2026 ranked and graded, from the yellow City Connect at the bottom to the red alternate at number one."
 gradient: "linear-gradient(135deg, #BD3039 0%, #0C2340 130%)"
 coverImage: "/images/posts/red-sox-jerseys-2026/cover.jpg"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Boston Red Sox carry five jerseys in 2026, and the gap between the best and worst uniform in that closet is enormous. Two of them are among the cleanest looks in baseball. Two of them are ideas we like a lot more in theory than on the field. And the one jersey Boston should never have taken out of the rotation is not in the closet at all anymore, which remains the single most annoying thing about this team's uniform program.
+
+Looking for dates? Here is [the full 2026 Boston Red Sox uniform schedule](/stories/red-sox-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every Red Sox jersey for 2026, ranked worst to first and graded.
 

@@ -1,8 +1,8 @@
 ---
-title: "Baltimore Ravens Jerseys 2026: Every Jersey Ranked, From Purple Rising to White"
+title: "Every Baltimore Ravens Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-23"
+updatedDate: "2026-10-13"
 author: "colorway-sports-staff"
 excerpt: "Ravens jerseys 2026, ranked and graded: all four Next Flight jerseys, from Purple Rising and Darkness Falls to purple and white, with White Noise and every date."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
@@ -16,6 +16,8 @@ teams:
 ---
 
 Few teams changed more about how they look in 2026 than Baltimore. The Next Flight collection, revealed in April, refreshed the purple and white primaries, rebuilt the Purple Rising alternate, and added the all-black Darkness set with a new matte helmet. Then the Ravens gave every alternate its own named night, and the Ravens jersey schedule 2026 now has four jerseys and five different looks on it, including the all-white White Noise game this Sunday, which puts the white jersey under a white helmet.
+
+Looking for dates? Here is [the full 2026 Baltimore Ravens uniform schedule](/stories/ravens-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every Baltimore Ravens jersey and uniform for 2026, ranked worst to first and graded, with the helmet and pants each one pairs with and the weeks it is on the field.
 

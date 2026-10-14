@@ -1,8 +1,8 @@
 ---
-title: "Las Vegas Raiders Jerseys 2026: Every Jersey Ranked, From White to Black"
+title: "Every Las Vegas Raiders Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Las Vegas Raiders jerseys 2026, ranked: the white road jersey and the black home jersey, graded with the helmet, pants and every date each one is worn."
 gradient: "linear-gradient(135deg, #101820 0%, #3a3a3a 55%, #A5ACAF 130%)"
 author: "colorway-sports-staff"

@@ -1,9 +1,9 @@
 ---
-title: "Las Vegas Raiders 2026 Uniform Schedule: Every Jersey, Every Week, and the White Helmet Question"
+title: "Las Vegas Raiders Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
 excerpt: "The Raiders named no uniforms in their 2026 home themes. Here is the full jersey schedule: black at home, white on the road, classic white throwback at New England."
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 gradient: "linear-gradient(135deg, #101820 0%, #3a3a3a 55%, #A5ACAF 130%)"
 coverImage: "/images/posts/raiders-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -15,6 +15,8 @@ teams: ["las-vegas-raiders"]
 ---
 
 The Raiders published their 2026 home game themes and named a uniform for exactly none of them. That is not an oversight so much as a statement of philosophy: this is the least variable wardrobe in the NFL and the club likes it that way. Here is the full Las Vegas Raiders 2026 uniform schedule, week by week.
+
+Want them graded instead? Here is [every Las Vegas Raiders jersey ranked](/stories/raiders-jerseys-2026-ranked), worst to best.
 
 ## The Full 2026 Raiders Uniform Schedule, Week by Week
 

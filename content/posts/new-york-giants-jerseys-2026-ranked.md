@@ -1,8 +1,8 @@
 ---
-title: "New York Giants Jerseys 2026: Every Jersey Ranked, From Legacy Blue to the White Road Set"
+title: "Every New York Giants Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "New York Giants jerseys 2026, ranked: all four uniforms graded from the Legacy Blue throwback to the white road set, with every date each one is worn."
 gradient: "linear-gradient(135deg, #0B2265 0%, #14224a 55%, #A71930 130%)"
 author: "colorway-sports-staff"
@@ -15,6 +15,8 @@ teams: ["new-york-giants"]
 ---
 
 The Giants carry four uniforms in 2026 and not one of them is new. That is the whole point of this closet. The royal blue home set and the white road set do most of the work, and two throwbacks from the club's 1980s and 1990s teams, Legacy Blue and Vintage White, get two games each. We already rank the Giants as the second-best uniform in the league in our [best NFL uniforms of 2026](/stories/best-nfl-uniforms-2026-ranked), and the individual pieces hold up just as well.
+
+Looking for dates? Here is [the full 2026 New York Giants uniform schedule](/stories/new-york-giants-uniform-schedule-2026), with every jersey and when it is worn.
 
 Here is every New York Giants jersey for 2026, ranked worst to first and graded, with the helmet and pants each one wears and every date it comes out.
 

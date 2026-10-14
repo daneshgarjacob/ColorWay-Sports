@@ -1,8 +1,8 @@
 ---
-title: "Arizona Cardinals 2026 Uniform Schedule: All 17 Games Announced, Two Black Jersey Dates, and Red in Dallas"
+title: "Arizona Cardinals Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "The Cardinals released the full 2026 uniform schedule: the desert Rivalries jersey once, black twice, red seven times including two road games, and white seven times."
 gradient: "linear-gradient(135deg, #97233F 0%, #5e1628 55%, #141414 130%)"
 coverImage: "/images/posts/arizona-cardinals-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,8 @@ teams: ["arizona-cardinals"]
 ---
 
 Arizona published its entire 2026 uniform schedule on September 1, and it is more interesting than the usual red-at-home, white-on-the-road plan. The desert Rivalries jersey comes out once, against Seattle in Week 2 on the team's Hispanic Heritage game day. The black alternate, which we assumed would stay in the closet, gets two home dates. Cardinal red covers seven games, and two of them are on the road, in Dallas and New Orleans. And white covers seven, including one at home against the Jets. Here is the full Arizona Cardinals 2026 uniform schedule, week by week, exactly as the team announced it.
+
+Want them graded instead? Here is [every Arizona Cardinals jersey ranked](/stories/arizona-cardinals-jerseys-2026-ranked), worst to best.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AZCardinals/status/2094856123279155339"></a></blockquote>
 

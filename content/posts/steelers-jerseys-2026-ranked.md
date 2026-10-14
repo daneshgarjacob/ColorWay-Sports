@@ -1,8 +1,8 @@
 ---
-title: "Pittsburgh Steelers Jerseys 2026: Every Jersey Ranked, From Black to White"
+title: "Every Pittsburgh Steelers Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Pittsburgh Steelers jerseys 2026, ranked: the black home and white road jerseys graded, plus where the 1933 throwback and Color Rush stand."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 author: "colorway-sports-staff"

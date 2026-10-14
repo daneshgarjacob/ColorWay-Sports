@@ -1,9 +1,9 @@
 ---
 topViewsRank: 2
-title: "Cincinnati Bengals Jerseys and Uniform Schedule 2026: White Bengal Dates and This Week's Jersey"
+title: "Bengals Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-13"
 excerpt: "Every Bengals jersey for 2026, week by week. The all-white White Bengal comes out at home in Week 10 vs. Pittsburgh on SNF, and New Year's Eve is White Bengal Stripe night."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"
@@ -17,6 +17,8 @@ teams: ["cincinnati-bengals"]
 ---
 
 The Bengals have two confirmed uniform games in 2026, and the schedule does something almost nobody else in the NFL does: Cincinnati wears white at home, on purpose, in primetime. The White Bengal comes out once, for Sunday Night Football against Pittsburgh in Week 10, and we have Cincinnati in its standard white at home again on New Year's Eve against Baltimore in Week 17, the night the team has named White Bengal Stripe. The season opens in the orange helmet against Tampa Bay. The orange jersey comes back twice more, on the road at Miami in Week 5 and at home against Kansas City in Week 14. Here is the full Cincinnati Bengals 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the orange, black and white sets.
+
+Want them graded instead? Here is [every Cincinnati Bengals jersey ranked](/stories/bengals-jerseys-2026-ranked), worst to best.
 
 ## The Confirmed Bengals Uniform Games
 

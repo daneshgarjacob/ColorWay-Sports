@@ -1,8 +1,8 @@
 ---
-title: "Miami Dolphins Jerseys 2026: Every Jersey Ranked, From Throwback to Dark Water"
+title: "Every Miami Dolphins Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-10-01"
+updatedDate: "2026-10-13"
 excerpt: "Miami Dolphins jerseys 2026, ranked: the white throwback, aqua home, white road and Dark Water Rivalries set, graded with every date each is worn."
 gradient: "linear-gradient(135deg, #008E97 0%, #005e64 55%, #00272b 130%)"
 author: "colorway-sports-staff"

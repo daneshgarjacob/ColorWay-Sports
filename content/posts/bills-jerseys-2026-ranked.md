@@ -1,8 +1,8 @@
 ---
-title: "Buffalo Bills Jerseys 2026: Every Jersey Ranked, From Royal Blue to Nickel City"
+title: "Every Buffalo Bills Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-09-16"
+updatedDate: "2026-10-13"
 excerpt: "Buffalo Bills jerseys 2026, ranked: royal blue, white, the red alternate, Cold Front and the new Nickel City gray, graded with every date each one is worn."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 author: "colorway-sports-staff"

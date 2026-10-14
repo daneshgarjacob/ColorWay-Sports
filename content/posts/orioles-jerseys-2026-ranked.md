@@ -1,8 +1,8 @@
 ---
-title: "Every Baltimore Orioles Jersey in 2026, Ranked: The Cartoon-Bird Home Whites Reign and the New City Connect Lands Last"
+title: "Every Orioles Jersey Ranked (2026): The Cartoon-Bird Home Whites Reign"
 category: MLB
 date: "2026-07-28"
-updatedDate: "2026-07-28"
+updatedDate: "2026-10-13"
 excerpt: "Every Baltimore Orioles jersey and uniform for 2026, ranked and graded worst to first, from the cream 'BMORE' City Connect up to the beloved cartoon-bird home whites."
 gradient: "linear-gradient(135deg, #DF4601 0%, #1d1d1d 50%, #000000 100%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -15,6 +15,8 @@ teams:
 ---
 
 The Orioles run a deep, loose rotation in 2026, and it is one of the more fun closets in baseball to work through. There is no rigid day-by-day script the way the Phillies or Cardinals run one, just a stack of good options the team picks from game to game, with the lone fixed rule being the City Connect on Friday home games. Orange, black, cream, and the classic Baltimore white all get their turns.
+
+Looking for dates? Here is [the full 2026 Baltimore Orioles uniform schedule](/stories/orioles-uniform-schedule-2026), with every jersey and when it is worn.
 
 And at the center of it is one of the best home uniforms in the sport. Here is every Baltimore Orioles jersey and uniform for 2026, ranked worst to first and graded.
 
