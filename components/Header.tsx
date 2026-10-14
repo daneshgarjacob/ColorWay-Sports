@@ -302,6 +302,15 @@ const navLinks = [
   { label: "Contact", href: "/contact" },
 ];
 
+// The live daily trackers, pinned to the top of the phone menu: on a game night
+// these are what most phone readers are looking for. `calendar` is each league's
+// per-team view (the NFL has no calendar hub, so it points at the schedule hub).
+const trackerLinks = [
+  { league: "NFL", logo: "/logos/leagues/nfl.png", href: "/stories/nfl-uniform-tracker-2026", calendar: { label: "Schedules", href: "/stories/nfl-uniform-schedule-2026" } },
+  { league: "MLB", logo: "/logos/leagues/mlb.png", href: "/stories/mlb-uniform-tracker-2026", calendar: { label: "Calendars", href: "/mlb-tracker" } },
+  { league: "NHL", logo: "/logos/leagues/nhl.png", href: "/stories/nhl-uniform-tracker-2026-27", calendar: { label: "Calendars", href: "/nhl-tracker" } },
+];
+
 type SearchIndex = {
   posts: { t: string; s: string; l: string; e?: string }[];
   teams: { n: string; s: string; g?: string }[];
@@ -344,6 +353,7 @@ export default function Header() {
   const [activeSug, setActiveSug] = useState(-1);
   const searchInputRef = useRef<HTMLInputElement>(null);
   const searchBoxRef = useRef<HTMLDivElement>(null);
+  const mobileSearchRef = useRef<HTMLInputElement>(null);
   const dropdownTimeout = useRef<ReturnType<typeof setTimeout> | null>(null);
   // Logo <img> tags inside a menu render only once that menu has been opened.
   // The links themselves are always in the server HTML (internal-link SEO),
@@ -476,7 +486,7 @@ export default function Header() {
               <span className="text-[22px] sm:text-[28px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", WebkitTextStroke: "1.5px #2f6bed", paintOrder: "stroke fill", whiteSpace: "nowrap", textIndent: "-0.118em" }}>
                 ColorWay Sports
               </span>
-              <span className="text-[8px] sm:text-[9px] max-[359px]:text-[7px] uppercase tracking-[0.18em] max-[359px]:tracking-[0.09em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap", textIndent: "-0.04em" }}>
+              <span className="text-[8px] sm:text-[9px] max-[359px]:text-[7px] uppercase tracking-[0.18em] max-[389px]:tracking-[0.07em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap", textIndent: "-0.04em" }}>
                 Every Jersey. Every Logo. Every Detail.
               </span>
             </div>
@@ -571,10 +581,29 @@ export default function Header() {
             ))}
           </nav>
 
+          {/* Phone search — opens the menu sheet with its search field focused.
+              focus() runs inside the tap handler so iOS raises the keyboard. */}
+          <div className="lg:hidden flex items-center flex-shrink-0">
+          <button
+            type="button"
+            className="relative w-9 h-10 flex items-center justify-center text-white/90 hover:text-white transition-colors"
+            onClick={() => {
+              markOpened("m:drawer");
+              setMobileOpen(true);
+              setMobileLeague(null);
+              mobileSearchRef.current?.focus();
+            }}
+            aria-label="Search"
+          >
+            <svg className="w-[22px] h-[22px]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+            </svg>
+          </button>
+
           {/* Mobile hamburger — three absolutely centered bars so the open
               state forms a geometrically exact X with no stray pixels */}
           <button
-            className="lg:hidden relative w-10 h-10"
+            className="relative w-10 h-10"
             onClick={() => {
               markOpened("m:drawer");
               setMobileOpen(!mobileOpen);
@@ -586,6 +615,7 @@ export default function Header() {
             <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
             <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
           </button>
+          </div>
         </div>
 
         {/* Row 2 — the league rail. Light so the full-colour league marks read
@@ -752,11 +782,14 @@ export default function Header() {
           <form onSubmit={handleSearch} className="w-full max-w-[300px] mb-4">
             <div className="flex items-center border border-border rounded-lg overflow-hidden">
               <input
-                type="text"
+                ref={mobileSearchRef}
+                type="search"
+                enterKeyHint="search"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="Discover teams, jerseys, logos"
-                className="flex-1 px-4 py-2.5 text-[15px] focus:outline-none"
+                aria-label="Search teams, jerseys and stories"
+                className="flex-1 min-w-0 px-4 py-2.5 text-[16px] bg-transparent focus:outline-none [&::-webkit-search-cancel-button]:hidden"
               />
               <button type="submit" className="px-3 py-2.5 text-gray-medium hover:text-orange transition-colors">
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -766,7 +799,39 @@ export default function Header() {
             </div>
           </form>
 
-          {/* Regular nav links first — matches desktop order */}
+          {/* Trackers — the live daily logs, above everything else */}
+          <section aria-label="Uniform trackers" className="w-full max-w-[300px] mb-2">
+            <p className="text-[10.5px] font-bold uppercase tracking-[0.16em] text-black/45 mb-2 text-center">
+              Uniform Trackers
+            </p>
+            <ul className="m-0 p-0 list-none rounded-xl border border-black/[0.08] bg-white divide-y divide-black/[0.06]">
+              {trackerLinks.map((t) => (
+                <li key={t.league} className="flex items-center">
+                  <Link prefetch={false}
+                    href={t.href}
+                    className="flex-1 min-w-0 flex items-center gap-2.5 pl-3.5 pr-2 h-12 text-[15.5px] font-semibold text-black hover:text-orange transition-colors"
+                    onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+                  >
+                    {openedMenus.has("m:drawer") ? (
+                      <img src={t.logo} alt="" className="w-[22px] h-[22px] object-contain flex-shrink-0" />
+                    ) : (
+                      <span className="w-[22px] h-[22px] flex-shrink-0" />
+                    )}
+                    {t.league} Tracker
+                  </Link>
+                  <Link prefetch={false}
+                    href={t.calendar.href}
+                    className="flex items-center h-12 px-3.5 text-[13px] font-bold text-orange hover:text-orange/80 transition-colors whitespace-nowrap"
+                    onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+                  >
+                    {t.calendar.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </section>
+
+          {/* Regular nav links — matches desktop order */}
           {navLinks.map((link) => (
             <Link prefetch={false}
               key={link.label}

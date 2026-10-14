@@ -11,6 +11,7 @@ import ReadingProgress from "@/components/ReadingProgress";
 import TrackerJumpNav, { type JumpNavItem } from "@/components/TrackerJumpNav";
 import TrackerSearch from "@/components/TrackerSearch";
 import TrackerTeamIndex from "@/components/TrackerTeamIndex";
+import TrackerToolbar from "@/components/TrackerToolbar";
 import TeamQuickLinks from "@/components/TeamQuickLinks";
 import { buildTeamQuickLinks, resolveTeamQuickLinks } from "@/lib/teamQuickLinks";
 import { buildMlbTeamIndex } from "@/lib/mlbTrackerTeamIndex";
@@ -353,6 +354,10 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         </div>
         </div>
       </div>
+
+      {/* NFL / MLB / NHL trackers only: jump to the newest week or day, plus
+          a row of team chips to each club's calendar. Renders nothing elsewhere. */}
+      <TrackerToolbar slug={slug} headings={view.headings} />
 
       {teamLatest?.latest && (
         <TeamWoreLastNight data={teamLatest} accent={leagueColor(post.category)} answers={mlbWear} />
