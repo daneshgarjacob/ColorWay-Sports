@@ -1,9 +1,9 @@
 ---
-title: "NFL Crucial Catch 2026 Schedule: Every Team's Cancer Awareness Game, and the Gear Is Already Out"
+title: "NFL Crucial Catch 2026: This Week's Games, Dates and Full Schedule"
 category: "NFL"
 date: "2026-09-14"
-updatedDate: "2026-09-30"
-excerpt: "The NFL Crucial Catch 2026 schedule: 21 team-confirmed games, the expected date for the other 11, and what the new sideline hats look like."
+updatedDate: "2026-10-13"
+excerpt: "NFL Crucial Catch 2026 dates and this week's Crucial Catch games: Week 6 is the final weekend. Every team's game, plus the 2026 hats and hoodies."
 gradient: "linear-gradient(135deg, #13294B 0%, #6b1f55 55%, #e8488a 100%)"
 cardStyle: words
 kicker: Uniform Schedule
@@ -12,7 +12,9 @@ league: "nfl"
 teams: []
 ---
 
-NFL Crucial Catch 2026 runs almost entirely across three October Sundays: October 4, October 11 and October 18, which are Weeks 4, 5 and 6 of the season. The league has not put out a single team-by-team calendar, so we built one from each club's own 2026 home game theme announcements.
+**This week's Crucial Catch games (Week 6, the final Crucial Catch weekend of 2026):** the Colts host the Titans, the Giants host the Saints, the Raiders host the Bills, the Chiefs host the Chargers and the Patriots host the Jets, all on Sunday, October 18. Those are the five clubs that have named a Week 6 home game as their Crucial Catch game.
+
+NFL Crucial Catch 2026 runs in Weeks 4 through 6, which the American Cancer Society confirmed in its [October 5, 2026 release](https://pressroom.cancer.org/crucial-catch-2026). On the calendar that is October 1 to October 19: the October 4, October 11 and October 18 weekends. The league has not put out a single team-by-team calendar, so we built one from each club's own 2026 home game theme announcements.
 
 Here is where it stands: **21 of the 32 teams have named their Crucial Catch game.** The other 11 have not, and for those we list the October home games where it is most likely to land, clearly marked as expected. One team breaks the pattern entirely. Jacksonville holds its Crucial Catch game in September, because the Jaguars spend Weeks 5 and 6 in London.
 
@@ -28,15 +30,15 @@ Pink has not vanished. The Bears still pair their game with Bears Care's Real Be
 
 ## When Is Crucial Catch in 2026?
 
-The pattern is steady. The NFL and the ACS activated Crucial Catch in **Weeks 4 through 6** in both 2024 and 2025, per the American Cancer Society's September 26 releases in each of those years.
+Crucial Catch 2026 is in **Weeks 4 through 6**. The American Cancer Society's [2026 Crucial Catch release](https://pressroom.cancer.org/crucial-catch-2026), dated October 5, says the campaign "returns to the field during Weeks 4-6." That is the same window the NFL and the ACS used in 2024 and 2025.
 
-The 2026 team announcements match it exactly. Week 1 opened Thursday, September 10, which puts the three Crucial Catch Sundays here:
+Week 1 opened Thursday, September 10, which puts the three Crucial Catch weekends here:
 
-- **Week 4:** Sunday, October 4 (plus Thursday, Oct. 1 and Monday, Oct. 5)
-- **Week 5:** Sunday, October 11 (plus Thursday, Oct. 8 and Monday, Oct. 12)
-- **Week 6:** Sunday, October 18 (plus Thursday, Oct. 15)
+- **Week 4:** Sunday, October 4 (plus Thursday, Oct. 1 and Monday, Oct. 5). Played.
+- **Week 5:** Sunday, October 11 (plus Thursday, Oct. 8 and Monday, Oct. 12). Played.
+- **Week 6:** Sunday, October 18 (plus Thursday, Oct. 15, Seahawks at Broncos, and Monday, Oct. 19, Commanders at 49ers). This week, and the last Crucial Catch weekend of 2026.
 
-We have not found a 2026 league release that names the weeks outright. Every confirmed game except Jacksonville's falls on one of those three weekends, so we treat Weeks 4 to 6 as the 2026 window.
+Every team-confirmed game except Jacksonville's falls on one of those three weekends.
 
 ## Crucial Catch 2026 Schedule, Week by Week
 
@@ -67,7 +69,9 @@ These are the 21 games the teams themselves have tagged as Crucial Catch. The un
 - **[Los Angeles Chargers](/stories/chargers-uniform-schedule-2026)** vs Denver Broncos. Uniform: powder blue jersey, powder pants (confirmed).
 - **[Tennessee Titans](/stories/titans-uniform-schedule-2026)** vs Houston Texans. Uniform: Titans blue home (projected).
 
-### Week 6: Sunday, October 18
+### Week 6: Sunday, October 18 (This Week)
+
+The Chiefs game is also confirmed by Kansas City's own game-week coverage, which [Yahoo Sports carried on October 12](https://sports.yahoo.com/articles/chiefs-honor-cancer-survivors-crucial-130038257.html). The Giants (with a pennant giveaway), the Raiders and the Patriots each list the game in their 2026 home game themes.
 
 - **[Indianapolis Colts](/stories/colts-uniform-schedule-2026)** vs Tennessee Titans. Uniform: blue home (projected). Shared with Adam Vinatieri's Ring of Honor day.
 - **[New York Giants](/stories/new-york-giants-uniform-schedule-2026)** vs New Orleans Saints. Uniform: blue home (projected).
@@ -77,7 +81,9 @@ These are the 21 games the teams themselves have tagged as Crucial Catch. The un
 
 ## The 11 Teams That Have Not Named a Crucial Catch Game
 
-None of these clubs has published a 2026 Crucial Catch date that we could find. Below are their home games inside the Weeks 4 to 6 window. **These are expected, not confirmed.** We will move each team up to the schedule above as soon as it announces.
+None of these clubs has published a 2026 Crucial Catch date that we could find, as of October 13. Below are their home games inside the Weeks 4 to 6 window. **These are expected, not confirmed.** We will move each team up to the schedule above as soon as it announces.
+
+With Weeks 4 and 5 played, six of these clubs still have a home game left in the window, all in Week 6: the Broncos against Seattle on Thursday, the Eagles against Carolina, the Browns against Baltimore, the Rams against Arizona, the Falcons against Chicago and the Packers against Dallas. None of those six clubs has tagged its game as Crucial Catch, so we do not list them as this week's Crucial Catch games.
 
 - **[Dallas Cowboys](/stories/cowboys-uniform-schedule-2026)**: expected Week 5, Thursday, Oct. 8 vs Tampa Bay Buccaneers. It is Dallas's only home game in the window, and the Cowboys have confirmed white for it.
 - **[Philadelphia Eagles](/stories/eagles-uniform-schedule-2026)**: Week 4, Oct. 4 vs Los Angeles Rams, or Week 6, Oct. 18 vs Carolina Panthers. Both are Midnight Green (projected).
@@ -111,7 +117,7 @@ What is out so far:
 - **Hoodies (Nike):** the 2026 NFL Crucial Catch Sideline Standard Issue Dri-FIT pullover, in pink and black, at $109.99.
 - **T-shirts (Nike):** the 2026 NFL Crucial Catch Tri-Blend Dri-FIT tee, in pink and black, at $49.99.
 
-Some team and style combinations are already sold out or showing "notify me," so the popular hats go fast in the weeks before October. The NFL says it does not profit from Crucial Catch merchandise. Sales go to the American Cancer Society, and the league reported $35 million raised since 2009 as of 2025.
+Some team and style combinations are already sold out or showing "notify me," so the popular hats go fast in the weeks before October. The NFL says it does not profit from Crucial Catch merchandise. Sales go to the American Cancer Society, and the ACS's 2026 release puts the NFL's total at more than $38 million.
 
 ## Frequently Asked Questions
 
@@ -119,9 +125,17 @@ Some team and style combinations are already sold out or showing "notify me," so
 
 Crucial Catch is the NFL's cancer screening campaign run with the American Cancer Society. It started in 2009 as a breast cancer awareness initiative and expanded in 2017 to early detection and risk reduction for multiple cancers. Every team holds one Crucial Catch home game each season, and money from merchandise and auctions goes to the ACS.
 
-**When is NFL Crucial Catch 2026?**
+**When is Crucial Catch 2026?**
 
-Mostly Weeks 4 through 6, which in 2026 means the weekends of October 4, October 11 and October 18. That matches the Weeks 4 to 6 window the league used in 2024 and 2025. Jacksonville is the exception, holding its game on September 27 against New England.
+Weeks 4 through 6 of the NFL season, which in 2026 means October 1 to October 19: the weekends of October 4, October 11 and October 18. The American Cancer Society confirmed the Weeks 4 to 6 window in its October 5, 2026 release. Jacksonville is the exception, holding its game on September 27 against New England.
+
+**What are this week's Crucial Catch games?**
+
+Week 6 is the last Crucial Catch weekend of 2026. Five clubs have named a Week 6 home game: the Colts against the Titans, the Giants against the Saints, the Raiders against the Bills, the Chiefs against the Chargers and the Patriots against the Jets, all on Sunday, October 18.
+
+**When is NFL Crucial Catch 2026 over?**
+
+After Week 6. The final Crucial Catch weekend runs from Thursday, October 15 (Seahawks at Broncos) to Monday, October 19 (Commanders at 49ers). The American Cancer Society lists Weeks 4 to 6 as the 2026 window.
 
 **Has the NFL released the 2026 Crucial Catch schedule?**
 
@@ -145,17 +159,17 @@ No. Teams wear their regular home or road jerseys. Crucial Catch shows up in the
 
 **Which NFL teams have not announced a Crucial Catch game for 2026?**
 
-As of September 15: the Cowboys, Eagles, Browns, Texans, Broncos, Rams, Lions, Packers, Falcons, Saints and Panthers. Green Bay has a Packers Vs. Cancer game against Dallas on October 18 that does not use the Crucial Catch name.
+As of October 13, we could not find an announcement from the Cowboys, Eagles, Browns, Texans, Broncos, Rams, Lions, Packers, Falcons, Saints and Panthers. Green Bay has a Packers Vs. Cancer game against Dallas on October 18 that does not use the Crucial Catch name.
 
 **Where does the money from Crucial Catch go?**
 
-To the American Cancer Society. The NFL says it does not profit from Crucial Catch merchandise, and game-worn gear is auctioned on NFL Auction for the same cause. The league reported $35 million raised since 2009 as of its 2025 announcement.
+To the American Cancer Society. The NFL says it does not profit from Crucial Catch merchandise, and game-worn gear is auctioned on NFL Auction for the same cause. The American Cancer Society's October 2026 release puts the NFL's total at more than $38 million.
 
 November is next: our [NFL Salute to Service 2026 schedule](/stories/nfl-salute-to-service-2026-schedule) lists every team's camo game.
 
 ## The Bottom Line
 
-Crucial Catch 2026 is a three-weekend event: October 4, 11 and 18, with Jacksonville going early on September 27. Twenty-one teams have told us exactly which game it is, and the 11 that have not are mostly down to one or two realistic dates. The jerseys will not change, but the hats and hoodies will, and those are already on the shelves. We will update this page as the remaining teams announce.
+Crucial Catch 2026 is a three-weekend event: October 4, 11 and 18, with Jacksonville going early on September 27. Twenty-one teams have told us exactly which game it is, and Week 6 (October 15 to 19) closes the window. This week's Crucial Catch games are Colts vs Titans, Giants vs Saints, Raiders vs Bills, Chiefs vs Chargers and Patriots vs Jets. The jerseys will not change, but the hats and hoodies will, and those are already on the shelves. We will update this page as the remaining teams announce.
 
 ## More NFL Uniform Coverage
 
