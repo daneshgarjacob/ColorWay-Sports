@@ -22,6 +22,7 @@ import { buildNflWeekSlate, nflWeekAnswers } from "@/lib/nflWeekSlate";
 import { getNflLatestFromTracker, nflComboSentence, nflWearQuestions } from "@/lib/nflTeamLatest";
 import { buildNflTeamIndex } from "@/lib/nflTrackerTeamIndex";
 import { buildCollegeWear, buildMlbWear, buildNflWear, normQuestion } from "@/lib/teamWearAnswers";
+import { gameDayForPost, revalidatePageWithin } from "@/lib/gameDayTitle";
 import UpNext from "@/components/UpNext";
 import { leagueColor } from "@/lib/leagueColors";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
@@ -53,9 +54,15 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     return { title: "Story Not Found | ColorWay Sports" };
   }
 
+  // Team schedule posts answer "what are the <team> wearing today" in the
+  // title and snippet on game days (lib/gameDayTitle.ts); every other day, and
+  // every other post, keeps its normal title.
+  const { gameDay, revalidate } = gameDayForPost(post, new Date());
+  await revalidatePageWithin(revalidate);
+
   return {
-    title: `${post.title} | ColorWay Sports`,
-    description: post.excerpt,
+    title: gameDay ? gameDay.title : `${post.title} | ColorWay Sports`,
+    description: gameDay ? gameDay.description : post.excerpt,
     alternates: {
       canonical: `https://www.colorwaysports.com/stories/${slug}`,
     },
@@ -140,10 +147,26 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const nflLatest =
     nflTeam && nflTracker ? getNflLatestFromTracker(nflTracker.contentHtml, nflTeam.name) : null;
 
-  // "Today" is the build date: the site redeploys many times a day, and every
-  // deploy re-renders these pages.
+  // "Today" is the render date. Most posts render only on deploy; team schedule
+  // posts also re-render around game days (see revalidatePageWithin below).
   const now = new Date();
   const nflWear = nflTeam ? buildNflWear(nflTeam, nflLatest, now) : null;
+
+  // Game days: same window as the <title>. Re-rendering on that schedule is
+  // what keeps the title, this heading and the "this week" box current
+  // between deploys.
+  const { gameDay, revalidate: gameDayTtl } = gameDayForPost(post, now);
+  await revalidatePageWithin(gameDayTtl);
+  // The NFL box keeps its design; on game days its heading asks the question
+  // the way people search it ("What Are the Packers Wearing Today?"), but only
+  // when the box is showing that same game.
+  if (
+    nflWear?.headline &&
+    gameDay?.week !== undefined &&
+    nflWear.headline.detail.startsWith(`Week ${gameDay.week} ·`)
+  ) {
+    nflWear.headline = { ...nflWear.headline, question: gameDay.question };
+  }
 
   // College football schedule posts read their own week-by-week grid, where a
   // star marks a look confirmed from the game.
