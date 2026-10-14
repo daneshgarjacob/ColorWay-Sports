@@ -66,6 +66,8 @@ export type TonightGame = {
   time?: string;
   awayLook?: string;
   homeLook?: string;
+  /** NFL: the home look is announced or worn, not just the expected grid jersey. */
+  homeLookConfirmed?: boolean;
   note?: string;
 };
 export type TonightLeague = {
@@ -74,6 +76,20 @@ export type TonightLeague = {
   href: string;
   games: TonightGame[];
   confirmed: string;
+  /**
+   * NFL only: where the week stands, so the brief never says a week "still
+   * has" games to play before it has kicked off.
+   * - before: first game is on a later day
+   * - kickoff: first game is today and nothing is Final yet
+   * - underway: at least one game is Final, or the first game day has passed
+   */
+  phase?: "before" | "kickoff" | "underway";
+  /** NFL only: day the week's first game is played ("Thursday"). */
+  startDay?: string;
+  /** NFL only: games[0] is the dated opener, not just first alphabetically. */
+  openerKnown?: boolean;
+  /** NFL only: sides with an announced or worn look this week. */
+  confirmedSides?: number;
 };
 
 const cap = (s: string) => s.split("-").map((w) => w[0].toUpperCase() + w.slice(1)).join(" ");
@@ -109,7 +125,38 @@ export function getTonight(now = new Date()): TonightLeague[] {
   if (nfl) {
     const left = nfl.games.filter((g) => !g.score).slice(0, 3);
     if (left.length) {
+      // Slate games are sorted by date, so the first one opens the week once the
+      // tracker has dated it ("Thursday, October 15"). Before the week's cards
+      // are built every game only carries the window ("Thu, Oct 15 – Mon,
+      // Oct 19"), and the slate order is alphabetical, so no opener is named.
+      const opener = nfl.games[0]?.when ?? "";
+      const openerKnown = /^[A-Z][a-z]+day, [A-Z][a-z]+ \d+$/.test(opener);
+      const startMatch = nfl.window.match(/^(\w{3}), (\w{3}) (\d+)/);
+      const startTs = openerKnown
+        ? Date.parse(`${opener} 2026`)
+        : startMatch
+          ? Date.parse(`${startMatch[2]} ${startMatch[3]} 2026`)
+          : NaN;
+      const todayTs = Date.parse(`${today}T00:00:00`);
+      const phase: TonightLeague["phase"] =
+        nfl.games.some((g) => g.score) || Number.isNaN(startTs) || startTs < todayTs
+          ? "underway"
+          : startTs > todayTs
+            ? "before"
+            : "kickoff";
+      const DAY: Record<string, string> = {
+        Mon: "Monday", Tue: "Tuesday", Wed: "Wednesday", Thu: "Thursday",
+        Fri: "Friday", Sat: "Saturday", Sun: "Sunday",
+      };
       out.push({
+        phase,
+        startDay: openerKnown
+          ? opener.split(",")[0]
+          : startMatch
+            ? DAY[startMatch[1]] ?? startMatch[1]
+            : undefined,
+        openerKnown,
+        confirmedSides: nfl.confirmedSides,
         league: "NFL",
         label: `Week ${nfl.week}`,
         href: "/stories/nfl-uniform-tracker-2026",
@@ -120,6 +167,7 @@ export function getTonight(now = new Date()): TonightLeague[] {
           time: g.label || g.when,
           awayLook: g.away?.uniform,
           homeLook: g.home.uniform,
+          homeLookConfirmed: g.home.look.state !== "tba" || g.home.game.confirmed,
         })),
       });
     }
@@ -260,8 +308,36 @@ export function todayBrief(tonight: TonightLeague[], takes: Take[]): string[] {
   }
   const nfl = tonight.find((l) => l.league === "NFL");
   if (nfl && nfl.games[0]) {
+    // Reads right before, on and after the opening night of the week:
+    //   before:   "NFL Week 6 starts Thursday with the Seahawks at the Broncos, ..."
+    //             (or, before the tracker has dated the opener,
+    //             "NFL Week 6 starts Thursday, and no uniforms are confirmed yet.")
+    //   kickoff:  "NFL Week 6 kicks off tonight with the Seahawks at the Broncos, ..."
+    //   underway: "Still to play in NFL Week 6: Commanders at 49ers, ..."
     const g = nfl.games[0];
-    lines.push(`NFL ${nfl.label} still has ${g.away} at ${g.home} to play, with the ${g.home} in ${g.homeLook ?? "TBA"}.`);
+    const look = g.homeLook
+      ? `, with the ${g.home} ${g.homeLookConfirmed ? "in" : "expected in"} ${g.homeLook}`
+      : "";
+    const n = nfl.confirmedSides ?? 0;
+    const status = n
+      ? `, with ${n} look${n === 1 ? "" : "s"} already confirmed`
+      : ", and no uniforms are confirmed yet";
+    if (nfl.phase === "before") {
+      const when = nfl.startDay ? `starts ${nfl.startDay}` : "is up next";
+      lines.push(
+        nfl.openerKnown
+          ? `NFL ${nfl.label} ${when} with the ${g.away} at the ${g.home}${look}.`
+          : `NFL ${nfl.label} ${when}${status}.`,
+      );
+    } else if (nfl.phase === "kickoff") {
+      lines.push(
+        nfl.openerKnown
+          ? `NFL ${nfl.label} kicks off tonight with the ${g.away} at the ${g.home}${look}.`
+          : `NFL ${nfl.label} kicks off tonight${status}.`,
+      );
+    } else {
+      lines.push(`Still to play in NFL ${nfl.label}: ${g.away} at ${g.home}${look}.`);
+    }
   }
   const latestWire = takes.find((t) => t.kind === "Wire");
   if (latestWire) {

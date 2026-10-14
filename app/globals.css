@@ -316,3 +316,9 @@ a {
 .wire-body blockquote.twitter-tweet {
   margin: 1em 0;
 }
+
+/* One bottom bar at a time on phones: while the newsletter bar is up
+   (components/EmailCapture.tsx sets the flag), the story "Up Next" bar waits. */
+html[data-cw-bottom-bar] .cw-upnext {
+  display: none;
+}

@@ -61,7 +61,7 @@ export default function UpNext({ slug, title, category, gradient, coverImage, co
 
   return (
     <div
-      className={`lg:hidden fixed inset-x-0 bottom-0 z-40 px-3 pb-3 transition-all duration-500 ${
+      className={`cw-upnext lg:hidden fixed inset-x-0 bottom-0 z-40 px-3 pb-3 transition-all duration-500 ${
         visible ? "translate-y-0 opacity-100" : "translate-y-full opacity-0 pointer-events-none"
       }`}
       style={adhesionOffset ? { paddingBottom: adhesionOffset + 12 } : undefined}

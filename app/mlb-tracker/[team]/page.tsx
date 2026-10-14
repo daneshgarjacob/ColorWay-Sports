@@ -15,6 +15,7 @@ import {
   monthCalendar,
   allTeamKeys,
   teamMetaByKey,
+  firstLoggedDay,
 } from "@/lib/mlbTrackerTeamIndex";
 
 const WEEKDAYS = ["S", "M", "T", "W", "T", "F", "S"];
@@ -79,6 +80,9 @@ export default async function TeamTrackerPage({
 
   const entry = buildMlbTeamIndex(post.contentHtml).find((t) => t.key === team);
   if (!entry) notFound();
+  // The tracker started mid-season: say so instead of "every jersey worn in 2026".
+  const since = firstLoggedDay([entry]);
+  const sinceText = since ? `since we started logging on ${since}` : "this season";
 
   const usage = uniformUsage(entry);
   const months = gamesByMonth(entry);
@@ -121,7 +125,7 @@ export default async function TeamTrackerPage({
               name: `What Are the ${entry.name} Wearing Today?`,
               url: `https://www.colorwaysports.com/mlb-tracker/${team}`,
               dateModified: updatedIso,
-              description: `The ${entry.name}${entry.name.endsWith("s") ? "'" : "'s"} uniform for today's game plus a day-by-day calendar of every jersey they have worn in 2026, updated every game.`,
+              description: `The ${entry.name}${entry.name.endsWith("s") ? "'" : "'s"} uniform for today's game plus a day-by-day calendar of every jersey they have worn ${sinceText}, updated every game.`,
             }),
           }}
         />
@@ -166,7 +170,7 @@ export default async function TeamTrackerPage({
             </h1>
             <p className="text-white/80 text-[15px] max-w-[560px] m-0">
               Tonight&rsquo;s expected uniform, what they wore last night, and every jersey the{" "}
-              {entry.name} have worn in 2026, day by day.
+              {entry.name} have worn {sinceText}, day by day.
             </p>
             {/* The direct answer to "what did they wear last night", above the
                 fold and labelled with the real date so it stays true. */}

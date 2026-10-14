@@ -20,6 +20,9 @@ function ago(when: string): string {
 const LABEL = "font-display text-[11px] font-black tracking-[0.18em] uppercase";
 
 /* ── 1. Dateline + Today's brief ─────────────────────────────────────────── */
+// About three lines of 14.5px Inter in the 350px text column of a 390px phone.
+const PHONE_BRIEF_CHARS = 150;
+
 export function TodayBrief({ day, lines }: { day: string; lines: string[] }) {
   if (lines.length === 0) return null;
   return (
@@ -28,11 +31,20 @@ export function TodayBrief({ day, lines }: { day: string; lines: string[] }) {
         <div className="shrink-0">
           <span className={`${LABEL} text-black`}>{day}</span>
         </div>
-        {/* Phones get three lines so the lead photo stays above the fold. */}
-        <div className="text-[14.5px] leading-relaxed text-[#3a3f47] line-clamp-3 sm:line-clamp-none">
-          {lines.map((l, i) => (
-            <span key={i}>{l} </span>
-          ))}
+        {/* Phones keep the brief short so the lead photo stays above the fold,
+            but by whole sentences: a line-clamp cut the last one off mid-word.
+            The first sentence always shows; later ones show on phones only
+            while the total stays within about three lines at 390px. */}
+        <div className="text-[14.5px] leading-relaxed text-[#3a3f47]">
+          {lines.map((l, i) => {
+            const before = lines.slice(0, i + 1).join(" ").length;
+            const phone = i === 0 || before <= PHONE_BRIEF_CHARS;
+            return (
+              <span key={i} className={phone ? undefined : "hidden sm:inline"}>
+                {l}{" "}
+              </span>
+            );
+          })}
         </div>
       </div>
     </section>

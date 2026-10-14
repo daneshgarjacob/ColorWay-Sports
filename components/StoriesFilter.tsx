@@ -3,6 +3,7 @@
 import type { ReactNode } from "react";
 import { useSearchParams } from "next/navigation";
 import StoryCard from "@/components/StoryCard";
+import { searchPosts } from "@/lib/search";
 import { TEAM_LOGO_BY_SLUG, LEAGUE_LOGOS, LEAGUE_NAMES, displayNameForSlug } from "@/lib/teamLogos";
 
 interface PostMeta {
@@ -24,8 +25,11 @@ interface PostMeta {
 export default function StoriesFilter({
   posts,
   quickLinks,
+  prioritySlugs = [],
 }: {
   posts: PostMeta[];
+  /** Schedule posts for a team named in the search, ranked first. */
+  prioritySlugs?: string[];
   /** Server-rendered uniform schedule / calendar bar for the team in view. */
   quickLinks?: ReactNode;
 }) {
@@ -40,14 +44,9 @@ export default function StoriesFilter({
   let headingLogo: string | undefined;
 
   if (query) {
-    const q = query.toLowerCase();
-    filtered = posts.filter(
-      (p) =>
-        p.title.toLowerCase().includes(q) ||
-        p.excerpt.toLowerCase().includes(q) ||
-        p.category.toLowerCase().includes(q) ||
-        p.teams?.some((t) => t.toLowerCase().includes(q))
-    );
+    // Word-based match with filler words dropped, ranked, with the named
+    // team's uniform schedule post first. See lib/search.ts.
+    filtered = searchPosts(posts, query, prioritySlugs);
     heading = `Search: "${query}"`;
     description = `${filtered.length} result${filtered.length !== 1 ? "s" : ""} found.`;
   }
