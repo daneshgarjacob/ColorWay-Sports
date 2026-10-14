@@ -38,7 +38,7 @@ function todayPacific(now: Date): number {
   return Date.UTC(y, m - 1, d);
 }
 
-const clean = (s: string) =>
+export const clean = (s: string) =>
   s
     .replace(/<[^>]+>/g, "")
     .replace(/&middot;/g, "·")
@@ -210,19 +210,40 @@ export function buildCollegeWear(
  * Reads the dated "What the <Team> Are Wearing" block that
  * scripts/mlb-wearing-blocks.mjs writes into each MLB schedule post.
  */
-export function buildMlbWear(
-  team: string,
-  contentHtml: string,
-  now: Date = new Date(),
-): WearAnswer[] {
+export type MlbWearingBlock = {
+  /** Raw block HTML, for fields only one reader needs (the cap). */
+  html: string;
+  /** "Tuesday, October 13, 2026" (raw, may carry entities). */
+  date: string;
+  /** "Road Gray", or "NO GAME TODAY" on an off day. */
+  uniform: string;
+  /** "Confirmed" or "Expected &middot; we confirm it the morning after". */
+  status: string;
+  /** "Guardians at Tampa Bay Rays &middot; 8:00 PM ET". */
+  matchup: string;
+};
+
+/** The dated block's fields, shared by the wear answers and the game-day title. */
+export function readMlbWearingBlock(contentHtml: string): MlbWearingBlock | null {
   const block = /<div data-mlb-wearing[\s\S]*?Every jersey they have worn/.exec(contentHtml);
-  if (!block) return [];
+  if (!block) return null;
   const b = block[0];
   const date = /rgba\(255,255,255,0\.9\);">([^<]+)</.exec(b)?.[1];
   const uniform = /font-size: 2em;[^"]*">([^<]+)</.exec(b)?.[1];
   const status = /letter-spacing: 1px;">([^<]+)</.exec(b)?.[1];
   const matchup = /margin-top: 14px;[^"]*">([^<]+)</.exec(b)?.[1];
-  if (!date || !uniform || !status || !matchup) return [];
+  if (!date || !uniform || !status || !matchup) return null;
+  return { html: b, date, uniform, status, matchup };
+}
+
+export function buildMlbWear(
+  team: string,
+  contentHtml: string,
+  now: Date = new Date(),
+): WearAnswer[] {
+  const block = readMlbWearingBlock(contentHtml);
+  if (!block) return [];
+  const { html: b, date, uniform, status, matchup } = block;
 
   // On an off day scripts/mlb-wearing-blocks.mjs writes "NO GAME TODAY" into the
   // uniform slot, so the generic path below rendered "are expected to wear the NO
