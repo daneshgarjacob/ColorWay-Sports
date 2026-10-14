@@ -75,12 +75,12 @@ Week 6 is the last of the three Crucial Catch weekends. Five clubs have tagged a
 - **Baltimore Ravens at Cleveland Browns**, 1:00 p.m. ET, FOX. Ravens: black helmet, white jersey, purple pants (expected). Browns: orange helmet, brown jersey, orange pants (expected).
 - **Tennessee Titans at Indianapolis Colts**, 1:00 p.m. ET, FOX. Titans: white helmet, white jersey, Titans blue pants (expected). Colts: white helmet, royal blue jersey, white pants (expected).
 - **New York Jets at New England Patriots**, 1:00 p.m. ET, CBS. Jets: green helmet, white jersey, green pants (expected). Patriots: silver helmet, navy jersey, silver pants (expected).
-- **New Orleans Saints at New York Giants**, 1:00 p.m. ET, FOX. Saints: white helmet and white alternate jersey (confirmed), white pants (expected). Giants: blue helmet, royal blue jersey, white pants (confirmed).
+- **New Orleans Saints at New York Giants**, 1:00 p.m. ET, FOX. Saints: white helmet, white alternate jersey, white pants (confirmed). Giants: blue helmet, royal blue jersey, white pants (confirmed).
 - **Carolina Panthers at Philadelphia Eagles**, 1:00 p.m. ET, CBS. Panthers: white jersey (confirmed), silver helmet and Panther blue pants (expected). Eagles: midnight green helmet, midnight green jersey, white pants (expected).
 - **Pittsburgh Steelers at Tampa Bay Buccaneers**, 1:00 p.m. ET, CBS. Steelers: black helmet, black jersey, gold pants (expected). Buccaneers: pewter helmet, white jersey, white pants (expected).
 - **Arizona Cardinals at Los Angeles Rams**, 4:05 p.m. ET, FOX. Cardinals: white jersey (confirmed), white helmet and white pants (expected). Rams: royal jersey (confirmed), royal helmet and sol pants (expected).
 - **Los Angeles Chargers at Kansas City Chiefs**, 4:25 p.m. ET, CBS. Chargers: white helmet, white jersey, gold pants (confirmed). Chiefs: red helmet, red jersey, white pants (expected).
-- **Buffalo Bills at Las Vegas Raiders**, 4:25 p.m. ET, CBS. Bills: white helmet, white jersey, white pants (expected). Raiders: silver helmet, black jersey, silver pants (expected).
+- **Buffalo Bills at Las Vegas Raiders**, 4:25 p.m. ET, CBS. Bills: white helmet, white jersey, white pants (expected). Raiders: silver helmet, black jersey, silver pants (confirmed).
 - **Dallas Cowboys at Green Bay Packers**, 8:20 p.m. ET, NBC. Cowboys: white jersey (confirmed), silver helmet and silver-blue pants (expected). Packers: gold helmet, green jersey, gold pants (expected).
 
 ### Monday, October 19
