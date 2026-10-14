@@ -10,7 +10,38 @@ import path from "path";
 // data-status line per side ("Confirmed", "Jersey confirmed", "Projected")
 // until the game is played, when the pill flips to "Final · score".
 
+// Two card styles live in the file and both parse here: the old black jersey card
+// (Weeks 1-5) and the Direction 5 card (scripts/nfl-card-d5.mjs, every card built
+// from 10/13 on). The D5 card shows a transparent "-cut.webp" cutout; readers want
+// the original product shot, so img is mapped back with originalJerseySrc().
+
 const TRACKER_FILE = path.join(process.cwd(), "content/posts/nfl-uniform-tracker-2026.md");
+
+/**
+ * "/images/posts/nfl-tracker-jerseys/bills-white-road-cut.webp" -> ".../bills-white-road.jpg"
+ * (whichever original exists on disk). Anything that is not a cutout comes back as is.
+ * Same idea as originalOf() in scripts/mlb-card-d5.mjs.
+ */
+// Read ONE literal folder, never path.join(cwd, "public", x): a dynamic path into
+// public/ makes Vercel's file tracer bundle all of public/ into the function (see
+// lib/winterTrackerIndex.ts, the 2026-10-02 deploy failure).
+const JERSEY_URL = "/images/posts/nfl-tracker-jerseys/";
+let jerseyFiles: Set<string> | null = null;
+export function originalJerseySrc(src: string): string {
+  if (!/-cut\.webp$/i.test(src) || !src.startsWith(JERSEY_URL)) return src;
+  if (!jerseyFiles) {
+    try {
+      jerseyFiles = new Set(fs.readdirSync(path.join(process.cwd(), "public/images/posts/nfl-tracker-jerseys")));
+    } catch {
+      jerseyFiles = new Set();
+    }
+  }
+  const base = src.slice(JERSEY_URL.length).replace(/-cut\.webp$/i, "");
+  for (const ext of [".jpg", ".png", ".jpeg", ".webp"]) {
+    if (jerseyFiles.has(base + ext)) return JERSEY_URL + base + ext;
+  }
+  return src;
+}
 
 export type TrackerSide = {
   /** Helmet, jersey, pants. */
@@ -119,7 +150,9 @@ export function nflTrackerCards(): TrackerCard[] {
     const pillText = pill ? ent(pill[1]) : "";
     const final = /^Final\b/.test(pillText);
 
-    const imgs = [...body.matchAll(/<img src="(\/images\/posts\/nfl-tracker-jerseys\/[^"]+)"/g)].map((m) => m[1]);
+    const imgs = [...body.matchAll(/<img src="(\/images\/posts\/nfl-tracker-jerseys\/[^"]+)"/g)].map((m) =>
+      originalJerseySrc(m[1]),
+    );
     const sides = [0, 1].map((s) => ({
       hexes: hexes.slice(s * 3, s * 3 + 3) as [string, string, string],
       words: combos[s] ?? [],

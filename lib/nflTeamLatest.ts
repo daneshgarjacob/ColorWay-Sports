@@ -1,3 +1,5 @@
+import { originalJerseySrc } from "@/lib/nflTrackerCards";
+
 // Pulls one club's most recent PLAYED game out of the NFL uniform tracker so the
 // team's schedule post (the page that ranks for "what are the Chargers wearing")
 // can answer "what were they wearing" with the real helmet, jersey and pants.
@@ -88,11 +90,14 @@ export function getNflLatestFromTracker(trackerHtml: string, team: string): NflL
     if (latest) continue;
 
     // Two sides per card, away first: label, then "Helmet · Jersey · Pants".
+    // Only jersey photos count: the Direction 5 card opens with the NFL logo <img>,
+    // which would otherwise pair with the away label. Its cutout maps back to the
+    // original product shot.
     const sides = [
       ...s.body.matchAll(
-        /<img src="([^"]+)"[\s\S]*?font-weight:900;[^"]*">([^<]+)<\/p><p[^>]*>([^<]+)<\/p>/g,
+        /<img src="(\/images\/posts\/nfl-tracker-jerseys\/[^"]+)"[\s\S]*?font-weight:900;[^"]*">([^<]+)<\/p><p[^>]*>([^<]+)<\/p>/g,
       ),
-    ];
+    ].map((m) => [m[0], originalJerseySrc(m[1]), m[2], m[3]] as const);
     const side = sides.find((m) => strip(m[2]).toLowerCase() === nickname.toLowerCase());
     if (!side) continue;
     const [helmet, jersey, pants] = strip(side[3]).split(" · ");

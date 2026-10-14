@@ -152,7 +152,12 @@ function jerseyImage(teamName: string, nickname: string, g: NflGame): string | u
   const side = card ? card.sides[card.away === teamName ? 0 : 1] : undefined;
   if (side?.img) return side.img;
 
-  if (!jerseyFiles) jerseyFiles = fs.existsSync(JERSEY_DIR) ? fs.readdirSync(JERSEY_DIR) : [];
+  // The folder also holds the D5 card's "-cut.webp" cutouts; only originals are candidates
+  // (a cutout sorts ahead of its .jpg and would otherwise win every tie).
+  if (!jerseyFiles)
+    jerseyFiles = fs.existsSync(JERSEY_DIR)
+      ? fs.readdirSync(JERSEY_DIR).filter((f) => !/-cut\.webp$/i.test(f))
+      : [];
   const prefix = `${nickname.toLowerCase()}-`;
   const mine = jerseyFiles.filter((f) => f.startsWith(prefix));
   if (!mine.length) return undefined;
