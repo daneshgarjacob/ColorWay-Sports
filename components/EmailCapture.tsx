@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { usePathname } from "next/navigation";
 import {
   EMAIL_DISMISSED_KEY,
@@ -17,16 +17,66 @@ import {
 //   - phones (<768px) get a slim bottom bar that sits above Mediavine's sticky
 //     bottom ad, never a full-screen modal (Google's intrusive interstitial
 //     guidance); desktop keeps the centred modal;
+//   - the phone bar hides while a Mediavine floating video player is on
+//     screen and comes back when it closes (it must never cover the player);
 //   - closing it stays closed for 7 days; subscribing stays closed for good.
 // The subscribe call is unchanged: POST /api/subscribe (beehiiv).
 
 const PHONE_MAX = 767;
+
+// Mediavine's floating video players. On phones the Universal Video Player
+// floats in #fixed_container_bottom (#universalPlayer_wrapper, close button
+// .universalPlayer_close) right where the bar sits, and the in-content player
+// (.mv-video-target) can go sticky too. Seen live on 10/14: the player's "Ad
+// loading" box sat on top of the bar's Subscribe button. Named selectors first,
+// then any visible <video> or video-ad iframe inside a position:fixed box, so a
+// renamed class still gets caught.
+const FLOATING_PLAYER_SELECTORS = [
+  "#universalPlayer_wrapper",
+  ".universalPlayer_wrap",
+  "[class*='mv-video__sticky']",
+  "[class*='mv-sticky-video']",
+  ".mediavine-video__sticky-container",
+  "#mv-sticky-video",
+].join(",");
+
+function isOnScreen(el: Element): boolean {
+  const r = el.getBoundingClientRect();
+  if (r.width < 40 || r.height < 40) return false;
+  if (r.bottom <= 0 || r.top >= window.innerHeight || r.right <= 0 || r.left >= window.innerWidth) return false;
+  const cs = getComputedStyle(el);
+  return cs.display !== "none" && cs.visibility !== "hidden" && Number(cs.opacity) > 0.05;
+}
+
+function insideFixedBox(el: Element, ours: Element | null): boolean {
+  for (let n: Element | null = el; n && n !== document.body; n = n.parentElement) {
+    if (ours && n === ours) return false;
+    if (getComputedStyle(n).position === "fixed") return true;
+  }
+  return false;
+}
+
+/** True while a Mediavine floating/sticky video player is visible on screen. */
+function floatingPlayerVisible(ours: Element | null): boolean {
+  for (const el of document.querySelectorAll(FLOATING_PLAYER_SELECTORS)) {
+    if (isOnScreen(el)) return true;
+  }
+  for (const el of document.querySelectorAll("video, iframe[id*='universal_player'], iframe[src*='imasdk']")) {
+    if (el.closest(".adhesion_wrapper")) continue; // the bottom banner, handled by adOffset
+    if (isOnScreen(el) && insideFixedBox(el, ours)) return true;
+  }
+  return false;
+}
 
 export default function EmailCapture() {
   const pathname = usePathname();
   const [show, setShow] = useState(false);
   const [phone, setPhone] = useState(false);
   const [adOffset, setAdOffset] = useState(0);
+  // Hidden (not dismissed) while a Mediavine floating video is up, so the bar
+  // never covers the player or its close button; it comes back once it closes.
+  const [playerUp, setPlayerUp] = useState(false);
+  const barRef = useRef<HTMLDivElement>(null);
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
   const [errorMsg, setErrorMsg] = useState("");
@@ -76,11 +126,27 @@ export default function EmailCapture() {
       const ad = document.querySelector(".adhesion_wrapper");
       const h = ad ? ad.getBoundingClientRect().height : 0;
       setAdOffset((prev) => (prev === h ? prev : h));
+      const up = floatingPlayerVisible(barRef.current);
+      setPlayerUp((prev) => (prev === up ? prev : up));
     };
     measure();
+    // The player is injected, floated and closed by Mediavine's script, so watch
+    // the DOM (batched to one check per frame) with the 1s poll as a backstop.
+    let frame = 0;
+    const schedule = () => {
+      if (!frame) frame = window.requestAnimationFrame(() => { frame = 0; measure(); });
+    };
+    const mo = new MutationObserver(schedule);
+    mo.observe(document.body, { childList: true, subtree: true, attributes: true, attributeFilter: ["class", "style"] });
+    window.addEventListener("scroll", schedule, { passive: true });
+    window.addEventListener("resize", schedule);
     const id = window.setInterval(measure, 1000);
     return () => {
       window.clearInterval(id);
+      mo.disconnect();
+      window.removeEventListener("scroll", schedule);
+      window.removeEventListener("resize", schedule);
+      if (frame) window.cancelAnimationFrame(frame);
       delete root.dataset.cwBottomBar;
     };
   }, [show, phone]);
@@ -134,10 +200,16 @@ export default function EmailCapture() {
   if (phone) {
     return (
       <div
+        ref={barRef}
         className="fixed inset-x-0 bottom-0 z-40 px-3 pb-3"
-        style={adOffset ? { paddingBottom: adOffset + 8 } : undefined}
+        style={{
+          ...(adOffset ? { paddingBottom: adOffset + 8 } : null),
+          ...(playerUp ? { display: "none" } : null),
+        }}
         role="dialog"
         aria-label="Newsletter sign-up"
+        aria-hidden={playerUp || undefined}
+        data-cw-player-up={playerUp ? "" : undefined}
       >
         <div
           className="relative rounded-2xl bg-white border border-black/10 shadow-[0_-4px_24px_rgba(0,0,0,0.10),0_8px_24px_rgba(0,0,0,0.12)] px-3.5 pt-2.5 pb-3"
