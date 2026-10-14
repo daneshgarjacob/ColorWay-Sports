@@ -279,8 +279,17 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     if (gameItems.length >= 8) jumpItems = gameItems;
   }
   const jumpNavIsGames = slug === "mlb-uniform-tracker-2026";
+  // The story page renders only the most recent log days (trimLogSections), so
+  // the "Find a team on this page" control only offers games that are actually
+  // on the page; the rest live on each team's /mlb-tracker calendar.
+  const onPage = new Set(view.headings.map((h) => h.id));
   const teamIndex =
-    slug === "mlb-uniform-tracker-2026" ? buildMlbTeamIndex(post.contentHtml) : null;
+    slug === "mlb-uniform-tracker-2026"
+      ? buildMlbTeamIndex(post.contentHtml).map((t) => ({
+          ...t,
+          games: t.games.filter((g) => onPage.has(g.id)),
+        }))
+      : null;
 
   // The club this story is about gets its schedule + calendar shortcuts right
   // under the hero. Only for single-team posts — a league roundup tagged with a
