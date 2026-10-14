@@ -15,7 +15,7 @@ teams: []
 
 Every NFL team now carries a closet instead of a uniform. A home jersey, a road white, a color rush or throwback, and in 2026 a brand-new Rivalries jersey that most clubs wear exactly once. The hard part is finding out **when** each one actually comes out, because the league does not publish a single calendar and most teams announce their alternate dates one press release at a time.
 
-So we built the whole thing. Below is the 2026 uniform and jersey schedule for all 32 teams, division by division, with a link to the full week-by-week breakdown for every club. For this week's games, including the Giants' Legacy Blue throwback, see our [NFL Week 4 uniforms guide](/stories/nfl-week-4-uniforms-2026), and for next week, including the Patriots' Pat Patriot throwback and the Packers' Rivalries debut, our [NFL Week 5 uniforms guide](/stories/nfl-week-5-uniforms-2026).
+So we built the whole thing. Below is the 2026 uniform and jersey schedule for all 32 teams, division by division, with a link to the full week-by-week breakdown for every club. For this week's games, including the Broncos' orange throwback against the Seahawks' royal blue on Thursday night, see our [NFL Week 6 uniforms guide](/stories/nfl-week-6-uniforms-2026), and for last week, with every Week 5 look and grade, our [NFL Week 5 uniforms guide](/stories/nfl-week-5-uniforms-2026).
 
 Here is what surprised us most: **25 of the 32 teams have now confirmed specific dates for their alternates, and three never published an alternate schedule at all.** The Steelers are bringing back the 1933 throwback and the gold helmet without ever putting out a calendar for it, and it lands Week 12 against Denver. The Raiders published their home game themes and did not mention a uniform once, and their one departure is a classic white throwback at New England in Week 5.
 
@@ -79,7 +79,8 @@ The 2026 season is the most jersey-heavy year the NFL has had, and the Rivalries
 
 ## More NFL Uniform Coverage
 
-- [NFL Week 5 Uniforms 2026](/stories/nfl-week-5-uniforms-2026): what every team wears October 8 to 12, including Pat Patriot and the Packers' Rivalries debut
+- [NFL Week 6 Uniforms 2026](/stories/nfl-week-6-uniforms-2026): what every team wears October 15 to 19, including the Broncos and Seahawks throwbacks on Thursday night
+- [NFL Week 5 Uniforms 2026](/stories/nfl-week-5-uniforms-2026): what every team wore October 8 to 12, including Pat Patriot and the Packers' Rivalries debut
 - [NFL Uniform Rankings 2026: All 32 Teams Graded](/stories/best-nfl-uniforms-2026-ranked) — every team's look, worst to first
 - [NFL Crucial Catch 2026 Schedule](/stories/nfl-crucial-catch-2026-schedule) — every team's October cancer awareness game and the gear
 - [NFL Salute to Service 2026 Schedule](/stories/nfl-salute-to-service-2026-schedule) — every team's November camo game and when the gear drops
