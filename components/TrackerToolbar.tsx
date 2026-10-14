@@ -22,6 +22,8 @@ interface TrackerConfig {
   jump: (headings: HeadingItem[]) => { id: string; label: string } | null;
   chips: () => Chip[];
   hub: { href: string; label: string };
+  /** Optional second destination, shown beside the "Your team's calendar" label. */
+  also?: { href: string; label: string };
 }
 
 const MONTH_SHORT: Record<string, string> = {
@@ -58,7 +60,9 @@ const TRACKERS: Record<string, TrackerConfig> = {
       buildNflTeamIndex()
         .map((t) => ({ href: `/nfl-tracker/${t.key}`, name: t.nickname, logo: t.logo }))
         .sort(byName),
-    hub: { href: "/stories/nfl-uniform-schedule-2026", label: "All 32 schedules" },
+    hub: { href: "/nfl-tracker", label: "All 32 calendars" },
+    // The schedule post is still the right place for the league-wide week grid.
+    also: { href: "/stories/nfl-uniform-schedule-2026", label: "2026 schedule guide" },
   },
   "mlb-uniform-tracker-2026": {
     league: "MLB",
@@ -119,9 +123,19 @@ export default function TrackerToolbar({ slug, headings }: { slug: string; headi
 
         {chips.length > 0 && (
           <>
-            <p className="mt-4 mb-2 text-[10.5px] font-bold uppercase tracking-[0.16em] text-black/45">
-              Your team&rsquo;s calendar
-            </p>
+            <div className="mt-4 mb-2 flex items-baseline justify-between gap-3">
+              <p className="m-0 text-[10.5px] font-bold uppercase tracking-[0.16em] text-black/45">
+                Your team&rsquo;s calendar
+              </p>
+              {cfg.also && (
+                <a
+                  href={cfg.also.href}
+                  className="text-[12px] font-semibold text-black/55 whitespace-nowrap hover:text-[#2f6bed] hover:underline"
+                >
+                  {cfg.also.label}&nbsp;&rarr;
+                </a>
+              )}
+            </div>
             {/* Phones: one row that scrolls sideways, fading at the right edge so
                 it reads as scrollable. sm+: the names drop and the logos wrap into
                 two tidy rows, so desktop readers never have to scroll sideways. */}

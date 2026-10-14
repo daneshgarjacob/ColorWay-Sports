@@ -72,6 +72,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "daily" as const,
       priority: 0.7,
     })),
+    {
+      url: "https://www.colorwaysports.com/nfl-tracker",
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.8,
+    },
     ...allNflTeamKeys().map((team) => ({
       url: `https://www.colorwaysports.com/nfl-tracker/${team}`,
       lastModified: new Date(),
