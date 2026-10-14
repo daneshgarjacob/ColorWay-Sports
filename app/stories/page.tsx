@@ -89,6 +89,13 @@ export default async function StoriesPage({
       <Suspense fallback={<div className="max-w-[1200px] mx-auto px-5 py-12">Loading...</div>}>
         <StoriesFilter
           posts={allCards}
+          // A team named in a search ("what are the bears wearing") pins that
+          // team's uniform schedule post to the top of the results.
+          prioritySlugs={quickLinkTeams.flatMap((t) =>
+            t.links
+              .filter((l) => l.kind === "schedule")
+              .map((l) => l.href.replace(/^\/stories\//, ""))
+          )}
           quickLinks={<TeamQuickLinks teams={quickLinkTeams} />}
         />
       </Suspense>
