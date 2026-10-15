@@ -3,7 +3,7 @@ title: "NFL Week 6 Uniforms 2026: What Every Team Is Wearing, Including the Bron
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-10-13"
-updatedDate: "2026-10-14"
+updatedDate: "2026-10-15"
 excerpt: "NFL Week 6 uniforms (Oct. 15-19): Broncos orange throwback vs Seahawks royal blue on Thursday night, Saints all white at the Giants, Chargers gold pants in Kansas City."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -80,7 +80,7 @@ Week 6 is the last of the three Crucial Catch weekends. Five clubs have tagged a
 
 - **Houston Texans at Jacksonville Jaguars** (London, Wembley Stadium), 9:30 a.m. ET, NFL Network. Texans: navy helmet, white jersey, white pants (expected). Jaguars: black helmet, teal jersey, black pants (expected).
 - **Chicago Bears at Atlanta Falcons**, 1:00 p.m. ET, FOX. Bears: navy helmet, white jersey, navy pants (expected). Falcons: red jersey (confirmed), black helmet and black pants (expected).
-- **Baltimore Ravens at Cleveland Browns**, 1:00 p.m. ET, FOX. Ravens: black helmet, white jersey, purple pants (expected). Browns: orange helmet, brown jersey, orange pants (expected).
+- **Baltimore Ravens at Cleveland Browns**, 1:00 p.m. ET, FOX. Ravens: black helmet, white jersey, black pants (confirmed). Browns: orange helmet, brown jersey, orange pants (confirmed).
 - **Tennessee Titans at Indianapolis Colts**, 1:00 p.m. ET, FOX. Titans: white helmet, white jersey, Titans blue pants (expected). Colts: white helmet, royal blue jersey, white pants (expected).
 - **New York Jets at New England Patriots**, 1:00 p.m. ET, CBS. Jets: green helmet, white jersey, green pants (expected). Patriots: silver helmet, navy jersey, silver pants (expected).
 - **New Orleans Saints at New York Giants**, 1:00 p.m. ET, FOX. Saints: white helmet, white alternate jersey, white pants (confirmed). Giants: blue helmet, royal blue jersey, white pants (confirmed).
@@ -93,7 +93,7 @@ Week 6 is the last of the three Crucial Catch weekends. Five clubs have tagged a
 
 ### Monday, October 19
 
-- **Washington Commanders at San Francisco 49ers**, 8:15 p.m. ET, ESPN and ABC. Commanders: burgundy helmet, white jersey, burgundy pants (expected). 49ers: gold helmet, scarlet jersey, gold pants (expected).
+- **Washington Commanders at San Francisco 49ers**, 8:15 p.m. ET, ESPN and ABC. Commanders: burgundy helmet, white jersey, gold pants (confirmed). 49ers: gold helmet, scarlet jersey, gold pants (confirmed).
 
 ### Byes
 
@@ -135,7 +135,7 @@ The standard white jersey at Lambeau Field, from the schedule Dallas published o
 
 **What are the Commanders and 49ers wearing on Monday Night Football?**
 
-San Francisco is expected in scarlet at home with the gold helmet and gold pants, and Washington in white under the burgundy helmet. Neither team has announced a uniform for the game, which kicks off at 8:15 p.m. Eastern on Monday, October 19, on ESPN and ABC.
+Both teams have announced their uniforms. Washington wears its white jersey under the standard burgundy helmet with gold pants, and San Francisco wears scarlet at home with the gold helmet and gold pants. The game kicks off at 8:15 p.m. Eastern on Monday, October 19, on ESPN and ABC.
 
 **Which NFL teams are on bye in Week 6?**
 
