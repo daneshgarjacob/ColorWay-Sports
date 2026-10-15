@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-14",
+  "games": [
+    {
+      "away": "Milwaukee Brewers",
+      "awaySlug": "brewers",
+      "home": "Los Angeles Dodgers",
+      "homeSlug": "dodgers",
+      "time": "8:00 PM ET",
+      "gameNumber": 1
+    }
+  ]
+}
