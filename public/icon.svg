@@ -1,21 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <style>
-    @media (prefers-color-scheme: dark) {
-      .bg { fill: #0021A5; }
-      .swatch1 { fill: #ffffff; }
-    }
-  </style>
-
-  <!-- Background - Gators Blue -->
-  <rect class="bg" width="512" height="512" rx="96" fill="#0021A5"/>
-
-  <!-- Color swatch fan - 4 rounded pills -->
-  <g transform="translate(256, 380)">
-    <rect class="swatch1" x="-30" y="-300" width="60" height="220" rx="30" fill="#ffffff" transform="rotate(-24)"/>
-    <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#4A90D9" transform="rotate(-8)"/>
-    <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#FF5910" transform="rotate(8)"/>
-    <rect x="-30" y="-300" width="60" height="220" rx="30" fill="#6B9E8F" transform="rotate(24)"/>
-    <!-- Pin -->
-    <circle cx="0" cy="0" r="22" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512" role="img" aria-label="ColorWay Sports">
+  <g transform="translate(50 50) scale(1.3) translate(-50 -50)">
+    <circle cx="50" cy="50" r="37.9" fill="#003087"/>
+    <circle cx="50" cy="50" r="30.5" fill="none" stroke="#ffffff" stroke-width="1.1" opacity="0.45"/>
+    <g transform="translate(0,3)">
+      <circle cx="40.8" cy="32" r="2.4" fill="#ffffff"/>
+      <rect x="39.6" y="33" width="2.6" height="33" rx="1.3" fill="#ffffff"/>
+      <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill="#ffffff"/>
+    </g>
   </g>
 </svg>
