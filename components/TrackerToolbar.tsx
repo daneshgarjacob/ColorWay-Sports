@@ -137,10 +137,12 @@ export default function TrackerToolbar({ slug, headings }: { slug: string; headi
               )}
             </div>
             {/* Phones: one row that scrolls sideways, fading at the right edge so
-                it reads as scrollable. sm+: the names drop and the logos wrap into
-                two tidy rows, so desktop readers never have to scroll sideways. */}
+                it reads as scrollable. sm+: the names drop and the logos sit in an
+                even grid (three rows on small tablets, two from md up) so the rows
+                split evenly, 16 + 16 instead of 17 + 15. */}
             <ul
-              className="m-0 p-0 list-none flex gap-2 overflow-x-auto overscroll-x-contain -mx-5 px-5 pb-1 sm:mx-0 sm:px-0 sm:pb-0 sm:flex-wrap sm:overflow-visible sm:gap-1.5 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden [mask-image:linear-gradient(to_right,#000_85%,transparent)] sm:[mask-image:none]"
+              style={{ "--cols2": Math.ceil(chips.length / 2), "--cols3": Math.ceil(chips.length / 3) } as React.CSSProperties}
+              className="m-0 p-0 list-none flex gap-2 overflow-x-auto overscroll-x-contain -mx-5 px-5 pb-1 sm:mx-0 sm:px-0 sm:pb-0 sm:grid sm:grid-cols-[repeat(var(--cols3),2.25rem)] md:grid-cols-[repeat(var(--cols2),2.25rem)] sm:overflow-visible sm:gap-1.5 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden [mask-image:linear-gradient(to_right,#000_85%,transparent)] sm:[mask-image:none]"
             >
               {chips.map((c) => (
                 <li key={c.href} className="shrink-0">
