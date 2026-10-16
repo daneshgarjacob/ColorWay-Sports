@@ -172,7 +172,7 @@ const leagues: NavLeague[] = [
       ],
     },
     extraLinks: [
-      { label: "College Football Week 4 Uniforms", href: "/stories/college-football-week-4-uniforms-2026" },
+      { label: "College Football Week 7 Uniforms", href: "/stories/college-football-week-7-uniforms-2026" },
     ],
   },
   {
