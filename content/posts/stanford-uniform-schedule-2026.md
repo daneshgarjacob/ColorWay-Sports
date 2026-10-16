@@ -3,7 +3,7 @@ title: "Stanford Uniform Schedule 2026: Every Jersey and When the Cardinal Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-16"
 excerpt: "What Stanford wears every game in 2026: the cardinal home jersey, the white road set, the black alternate, and the full Cardinal uniform schedule week by week."
 gradient: "linear-gradient(135deg, #8C1515 0%, #a81c1c 55%, #ffffff 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
   <div style="background: #8C1515; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Cardinal / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #8C1515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #8C1515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
-  <div style="background: #8C1515; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Elon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
+  <div style="background: #8C1515; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Elon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Throwback Helmet / Cardinal</div></div>
   <div style="background: #8C1515; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -75,7 +75,9 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
 
 **October 10 at Notre Dame**, 12:30 p.m. Pacific on NBC. ★ Confirmed from the game photos: **white helmet with the cardinal S, white jersey, white pants**, all white for the second straight road game. Notre Dame wore its Irish Wear Green set, the gold helmet, Kelly green jersey and green pants. Notre Dame led 37-0 at halftime and won 58-7, and Stanford fell to 2-4. The Irish are on the [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026).
 
-**October 17 vs. Elon.** Cardinal expected. Reunion Homecoming at Stanford Stadium.
+**October 17 vs. Elon**, 4:30 p.m. Pacific on ACC Network Extra. **Throwback helmet with the cardinal home jersey.** Stanford announced it will wear its throwback helmet for Reunion Homecoming: a white shell with a smaller block "S" and a gray facemask. Stanford used the same small S and gray mask in 2021 to honor Jim Plunkett and the 1970 and 1971 Rose Bowl teams. The jersey is not a separate throwback. Stanford's own announcement points out that not much has changed in the Cardinal uniform over the years, so the regular cardinal home jersey already matches the old look. It is the same throwback Stanford broke out at last year's Reunion Homecoming, a 20-13 win over Florida State sealed by a goal-line stand. Elon is the first meeting between the two programs and Stanford's last non-conference game.
+
+**Our grade: A-.** The small block S and the gray mask are a great look, and Stanford's simple, clean cardinal and white has always been one of the best color pairings in college football. It gets an A- instead of an A because the throwback stops at the helmet. A full throwback jersey, like the 2021 Plunkett tribute set, would have finished the job.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/2067390517432754658"></a></blockquote>
@@ -109,7 +111,7 @@ Six games in, Stanford has worn just two looks: white helmet, cardinal jersey an
 
 **What jersey is Stanford wearing this week?**
 
-Stanford wore all white, white helmet with the cardinal S, white jersey and white pants, at Notre Dame on Saturday, October 10, confirmed from the game photos, in a 58-7 loss against the Irish in their green. The week before, the Cardinal also wore all white at Wake Forest in a 57-3 loss. Next is Elon at home on October 17, where cardinal is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Stanford wore all white, white helmet with the cardinal S, white jersey and white pants, at Notre Dame on Saturday, October 10, confirmed from the game photos, in a 58-7 loss against the Irish in their green. The week before, the Cardinal also wore all white at Wake Forest in a 57-3 loss. Next is Elon at home on October 17 for Reunion Homecoming, where Stanford wears its throwback helmet, with the smaller block S and a gray facemask, over the cardinal home jersey. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Stanford's football uniforms for 2026?**
 
