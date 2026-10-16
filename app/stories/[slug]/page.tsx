@@ -360,6 +360,22 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
               })}
             </time>
           </div>
+          {post.coverCredit && (
+            <p className="mt-2 text-xs text-black/50">
+              Cover photo:{" "}
+              <a href={post.coverCredit.url} rel="nofollow noopener" target="_blank" className="underline hover:text-black">
+                {post.coverCredit.author}
+              </a>
+              {" / "}
+              {post.coverCredit.licenseUrl ? (
+                <a href={post.coverCredit.licenseUrl} rel="nofollow noopener" target="_blank" className="underline hover:text-black">
+                  {post.coverCredit.license}
+                </a>
+              ) : (
+                post.coverCredit.license
+              )}
+            </p>
+          )}
         </div>
         </div>
       </div>

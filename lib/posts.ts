@@ -56,6 +56,8 @@ export interface PostMeta {
   coverImage?: string;
   coverImagePosition?: string;
   coverImageFit?: string;
+  /** Credit for a licensed cover photo, shown under the byline: author, its source page, license name and license URL. */
+  coverCredit?: { author: string; url: string; license: string; licenseUrl?: string };
   cardStyle?: "words";
   kicker?: string;
   bodyPreview?: string;
@@ -313,6 +315,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     coverImage: data.coverImage,
     coverImagePosition: data.coverImagePosition,
     coverImageFit: data.coverImageFit,
+    coverCredit: data.coverCredit,
     league: data.league,
     teams: data.teams || [],
     recentSections: data.recentSections,
