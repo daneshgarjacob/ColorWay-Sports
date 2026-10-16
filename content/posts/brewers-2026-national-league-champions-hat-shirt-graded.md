@@ -34,7 +34,6 @@ The Fanatics locker room hoodie carries the exact same chest graphic as the T-sh
 
 The art is the same art, so most of what we like about the shirt carries over. The problem is the canvas. The graphic is scaled down to fit between the hood opening and the pocket, and in the product photo the drawstrings hang straight through "Milwaukee Brewers" and the top of the "Champions" script. On a shirt the design has room to breathe. On the hoodie it reads cramped, and the gold numerals and the ball-in-glove, the best parts of the piece, end up just above the pocket seam. We did not find a report of the players wearing this one in the celebration, so it is graded strictly as the fan version of the shirt.
 
-<!-- PROPOSED GRADE, Jake to confirm -->
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2); text-align: center;">
   <p style="font-size: 1.5em; font-weight: 900; margin: 0;">Hoodie Grade: B-</p>
 </div>
@@ -52,7 +51,6 @@ What works is the bottom half. The ball-in-glove is the best logo in the sport a
 
 What does not work is the top half. The chrome "Champions" script is the trendy effect of the moment and it is the loudest thing on the shirt, louder than anything that says Brewers. The navy bar and the gold wordmark are doing the team-identity work in a much smaller size. Count the marks, too: the World Series logo, the Fanatics logo, the National League logo and the Brewers logo all on one chest. And the base is heather charcoal, not Brewers navy, so the shirt leans on the print for all of its color. It is a good shirt with one effect too many.
 
-<!-- PROPOSED GRADE, Jake to confirm -->
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(200, 180, 0, 0.1); border-radius: 12px; border: 1px solid rgba(200, 180, 0, 0.2); text-align: center;">
   <p style="font-size: 1.5em; font-weight: 900; margin: 0;">Shirt Grade: B</p>
 </div>
@@ -75,7 +73,6 @@ The knocks are color and personality. Charcoal is the default locker room shade,
   <img src="/images/posts/brewers-2026-national-league-champions-hat-shirt-graded/brewers-locker-room-hat-back.jpg" alt="Back of the Milwaukee Brewers 2026 New Era locker room 9SEVENTY hat with a white League Champs wordmark under the MLB logo inside gray scrollwork above a gray stretch-snap strap" style="max-width: 100%; border-radius: 12px;" />
 </div>
 
-<!-- PROPOSED GRADE, Jake to confirm -->
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2); text-align: center;">
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; color: #00c864;">Hat Grade: A-</p>
 </div>
@@ -92,7 +89,6 @@ This one is not locker room gear and nobody has worn it in a game yet, so we wan
 
 It tops the list because it does the least and gets the most out of it. The ball-in-glove, navy crown, gold outline: the team's real cap, untouched, with one small mark that dates it to the Brewers' first World Series trip in 44 years. The gold numerals in the patch pick up the gold in the logo, so the side of the cap matches the front instead of fighting it. No chrome, no scrollwork, no charcoal stand-in for navy. If you want one piece that says "October 2026" five years from now and still looks like a Brewers cap, this is it. The only thing holding it back from an A+ is that the patch is the standard World Series mark rather than anything built for Milwaukee.
 
-<!-- PROPOSED GRADE, Jake to confirm -->
 <div style="margin: 1.5em 0; padding: 1.25em; background: rgba(0, 200, 100, 0.1); border-radius: 12px; border: 1px solid rgba(0, 200, 100, 0.2); text-align: center;">
   <p style="font-size: 1.5em; font-weight: 900; margin: 0; color: #00c864;">Cap Grade: A</p>
 </div>
