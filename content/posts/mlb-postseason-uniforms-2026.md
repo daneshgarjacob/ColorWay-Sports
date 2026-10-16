@@ -86,7 +86,7 @@ All twelve of these teams made the field. The notes below were written on Septem
 
 ### National League
 
-**Milwaukee Brewers (94-57, NL Central champion).** The best record in baseball, and a new look for October. The Brewers retired their road grays for 2026 and replaced them with a powder blue road set, so expect powder blue for Brewers road playoff games, as in Pittsburgh on Tuesday, with the navy alternate as the other road option. At home they have mixed the home pinstripes, the cream and the City Connect. [Brewers uniform schedule](/stories/brewers-uniform-schedule-2026).
+**Milwaukee Brewers (103-59, NL Central champion).** The best record in baseball, and a new look for October. The Brewers retired their road grays for 2026 and replaced them with a powder blue road set, so expect powder blue for Brewers road playoff games, as in Pittsburgh on Tuesday, with the navy alternate as the other road option. At home they have mixed the home pinstripes, the cream and the City Connect. [Brewers uniform schedule](/stories/brewers-uniform-schedule-2026).
 
 **Los Angeles Dodgers (92-59, NL West leader, clinched).** Home whites at Dodger Stadium, road grays with the Dodgers script on the road. That is the Dodgers' default, and it has been most of September, though they did take the blue road alternate to Cincinnati on Tuesday. We expect the whites and grays in October. [Dodgers uniform schedule](/stories/dodgers-uniform-schedule-2026).
 
