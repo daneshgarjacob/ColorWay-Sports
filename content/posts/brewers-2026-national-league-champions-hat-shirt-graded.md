@@ -7,7 +7,7 @@ excerpt: "The Brewers swept the Dodgers and are going to the World Series for th
 gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-2026-national-league-champions-hat-shirt-graded/cover.jpg"
 coverImagePosition: "center center"
-coverImageFit: "contain"
+coverImageFit: "cover"
 coverCredit:
   author: "Erik Drost"
   url: "https://commons.wikimedia.org/wiki/File:Cleveland_Indians_vs._Milwaukee_Brewers_(27801463407).jpg"
