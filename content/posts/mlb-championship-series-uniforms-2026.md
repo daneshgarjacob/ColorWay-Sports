@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-10-11"
-updatedDate: "2026-10-14"
+updatedDate: "2026-10-15"
 excerpt: "2026 ALCS and NLCS uniforms: Guardians at Rays and Dodgers at Brewers. Every date, home and road sets, October history and every game logged."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
@@ -23,6 +23,10 @@ What are the teams wearing in the 2026 MLB Championship Series? Four teams are l
 **NLCS Game 1 is in the books.** **Confirmed:** the Dodgers wore the road gray with the "Dodgers" script and the blue cap, as in their two NLDS road games, and the Brewers wore the home cream with the all-navy cap they wore for both NLDS home games. Our grade: **B-**. The Brewers won it 2-1, took Game 2 7-4, then won Game 3 6-2 in Los Angeles to lead the series 3-0. The card is also on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 
 **ALCS Game 2: confirmed.** The Rays switched it up and wore the **white Devil Rays throwback with the navy Devil Rays cap** at Tropicana Field. The Guardians wore their **road gray** with the blue, red-billed "C" cap. The Rays won 3-1, and the series is tied 1-1.
+
+**NLCS Game 4: the Brewers are going to the World Series.** At Dodger Stadium, Milwaukee wore the **navy alternate** with road gray pants and the yellow-front cap for the second straight night, and the Dodgers wore the **home white** with the all-blue "LA" cap. Same two uniforms as Game 3, so the same grade: **B**. The Brewers won 6-4 to finish a 4-0 sweep.
+
+**ALCS Game 3: confirmed.** At Progressive Field, the Rays wore their **road gray** with the "Tampa Bay" gradient lettering and the navy gradient "TB" cap, and the Guardians wore the **red alternate** with home white pants and the blue, red-billed "C" cap. Our grade: **B-**. The Guardians won 3-2 and lead the series 2-1.
 
 **NLCS Game 3: confirmed.** At Dodger Stadium, the Brewers wore the **navy alternate** with road gray pants and the yellow-front cap, and the Dodgers wore the **home white** with the all-blue "LA" cap. Our grade: **B**. The Brewers won 6-2 and lead the series 3-0.
 
@@ -211,7 +215,7 @@ Expected looks are our calls from each team's patterns, not confirmed. We confir
 - Game 1, Sun. Oct. 11: Dodgers Road Gray at Brewers Home Cream · Grade: **B-** · Brewers 2, Dodgers 1 (Brewers lead 1-0)
 - Game 2, Mon. Oct. 12: Dodgers Road Gray at Brewers Home Cream · Grade: **B-** · Brewers 7, Dodgers 4 (Brewers lead 2-0)
 - Game 3, Wed. Oct. 14, 8:00 p.m. ET: **Confirmed:** Brewers Navy Alternate at Dodgers Home White · Grade: **B** · Brewers 6, Dodgers 2 (Brewers lead 3-0)
-- Game 4, Thu. Oct. 15, 9:00 p.m. ET: Expected: Brewers Navy Alternate at Dodgers Home White
+- Game 4, Thu. Oct. 15, 8:00 p.m. ET: **Confirmed:** Brewers Navy Alternate at Dodgers Home White · Grade: **B** · Brewers 6, Dodgers 4 (Brewers win the series 4-0)
 - Game 5 (if needed), Fri. Oct. 16, 9:00 p.m. ET: Expected: Brewers Navy Alternate at Dodgers Home White
 - Game 6 (if needed), Sun. Oct. 18, 8:00 p.m. ET: Expected: Dodgers Road Gray at Brewers Home Cream
 - Game 7 (if needed), Mon. Oct. 19, 8:00 p.m. ET: Expected: Dodgers Road Gray at Brewers Home Cream
@@ -250,7 +254,7 @@ Expected looks are our calls from each team's patterns, not confirmed. We confir
 
 - Game 1, Mon. Oct. 12: Guardians Road Gray at Rays Home White · Grade: **C+** · Guardians 7, Rays 3 (Guardians lead 1-0)
 - Game 2, Tue. Oct. 13, 8:00 p.m. ET: **Confirmed:** Guardians Road Gray at Rays **Devil Rays Throwback** (the white Devil Rays jersey with the navy Devil Rays cap) · Grade: **B** · Rays 3, Guardians 1 (series tied 1-1)
-- Game 3, Thu. Oct. 15, 6:00 p.m. ET: Expected: Rays Road Gray at Guardians Red Alternate or Home White
+- Game 3, Thu. Oct. 15, 1:00 p.m. ET: **Confirmed:** Rays Road Gray at Guardians Red Alternate · Grade: **B-** · Guardians 3, Rays 2 (Guardians lead 2-1)
 - Game 4, Fri. Oct. 16, 6:00 p.m. ET: Expected: Rays Road Gray at Guardians Red Alternate or Home White
 - Game 5 (if needed), Sat. Oct. 17, 8:00 p.m. ET: Expected: Rays Road Gray at Guardians Red Alternate or Home White
 - Game 6 (if needed), Mon. Oct. 19, 5:00 p.m. ET: Expected: Guardians Road Gray at Rays Home White

@@ -85,7 +85,17 @@ for (const [slug, { tri, short }] of Object.entries(TEAMS)) {
   const path = `content/posts/${slug}-uniform-schedule-2026-27.md`;
   if (!fs.existsSync(path)) { console.error(`✗ ${slug}: no post at ${path}`); process.exitCode = 1; continue; }
 
-  const data = await fetch(`https://api-web.nhle.com/v1/club-schedule-season/${tri}/20262027`).then(r => r.json());
+  await new Promise(r => setTimeout(r, 400)); // be gentle: 32 back-to-back requests trip a 429
+  // The NHL API sometimes answers a burst of requests with an HTML error page; retry with a short backoff.
+  let data;
+  for (let attempt = 1; ; attempt++) {
+    const res = await fetch(`https://api-web.nhle.com/v1/club-schedule-season/${tri}/20262027`);
+    const text = await res.text();
+    try { data = JSON.parse(text); break; } catch {
+      if (attempt >= 8) throw new Error(`${tri}: NHL API did not return JSON after 8 tries (HTTP ${res.status})`);
+      await new Promise(r => setTimeout(r, 5000 * attempt));
+    }
+  }
   const games = (data.games ?? []).filter(g => g.gameType === 2)
     .sort((a, b) => a.gameDate.localeCompare(b.gameDate));
   if (games.length !== 84) { console.error(`✗ ${slug}: ${games.length} regular-season games (expected 84)`); process.exitCode = 1; continue; }
