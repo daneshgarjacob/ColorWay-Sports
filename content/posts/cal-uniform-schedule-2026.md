@@ -3,7 +3,7 @@ title: "Cal Uniform Schedule 2026: Every Jersey and When the Golden Bears Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-16"
 excerpt: "What Cal wears every game in 2026: the new Grateful Dead helmet for Wake Forest, the Joe Roth throwback, home and road sets, and the full schedule."
 gradient: "linear-gradient(135deg, #003262 0%, #0a4a86 55%, #FDB515 130%)"
 cardStyle: words
@@ -68,7 +68,7 @@ Cal Football revealed a Grateful Dead helmet on the night of Monday, October 12,
 
 **The bumper.** The best detail is on the back. The white rear bumper carries a line of the Grateful Dead dancing bears in blue-gray, pink, orange and green, and right in the middle of them is Oski, Cal's mascot, in a blue sweater and a cap that says CAL.
 
-Cal has not shown the jersey or pants for Saturday yet. Blue at home is the expected call, and we will update the grid below once the full combination is confirmed.
+On Thursday, October 15, Cal posted the rest of the set, and its own caption sums it up: the lids are yellow and the jerseys are blue. That is the blue jersey with gold numbers and gold pants under the Grateful Dead helmet, plus towels with a gold dancing bear in a Cal cap.
 
 <div style="margin: 1.6em 0; padding: 1.2em 1.4em; background: #f4f6fb; border-left: 4px solid #003262; border-radius: 10px;">
 <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 800; color: #003262; text-transform: uppercase; letter-spacing: 2px;">Jake's Take</p>
@@ -90,7 +90,7 @@ Cal has not shown the jersey or pants for Saturday yet. Blue at home is the expe
   <div style="background: #FDB515; color: #003262; border: 2px solid #003262; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 25 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Gold / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #003262; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UNLV</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / Navy</div></div>
   <div style="background: #003262; color: #ffffff; border: 2px solid #FDB515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Blue / Gold</div></div>
-  <div style="background: #003262; color: #ffffff; border: 2px solid #FDB515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Grateful Dead Helmet</div></div>
+  <div style="background: #003262; color: #ffffff; border: 2px solid #FDB515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Grateful Dead / Blue / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -123,7 +123,7 @@ Cal published its home themes in July, and they double as a decent map of where 
 
 **October 10 vs. Virginia Tech**, Homecoming, 3:30 p.m. ET on ACC Network. ★ Confirmed from the broadcast: **gold helmet, blue jersey, gold pants**. Blue was the expected jersey, and the change for Homecoming came on the helmet, with the gold shell in place of the navy one Cal had worn in its other home games. Virginia Tech wore the white helmet with the maroon stripe, a white jersey and maroon pants. The Hokies led 14-10 at halftime, Cal scored 12 points in the fourth quarter and won 25-20, and the Bears are 3-3. More: [Virginia Tech uniform schedule](/stories/virginia-tech-uniform-schedule-2026).
 
-**October 17 vs. No. 21 Wake Forest**, Grateful Bears game, 7:30 p.m. Pacific on ESPN2. ★ Revealed by Cal: **the gold Grateful Dead helmet**, with the Cal script in a Steal Your Face skull, a tie-dye blue lightning bolt stripe and the dancing bears on the back bumper. The jersey and pants have not been shown yet, and blue is the expected home jersey. Full breakdown and our A+ grade in the [Grateful Dead helmet section](#the-cal-grateful-dead-helmet-for-wake-forest) above.
+**October 17 vs. No. 21 Wake Forest**, Grateful Bears game, 7:30 p.m. Pacific on ESPN2. ★ Revealed by Cal: **the gold Grateful Dead helmet**, with the Cal script in a Steal Your Face skull, a tie-dye blue lightning bolt stripe and the dancing bears on the back bumper. On Thursday Cal posted the rest of the set: **the blue jersey with gold numbers and gold pants**, plus towels with a gold dancing bear in a Cal cap. Wake Forest has posted a gloss black helmet, white jersey and black pants. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). Full breakdown and our A+ grade in the [Grateful Dead helmet section](#the-cal-grateful-dead-helmet-for-wake-forest) above.
 
 **October 24 at SMU.** White expected. Cal visits Gerald J. Ford Stadium, where SMU has Fan Appreciation Day and is asking its own fans to wear red, so this could be the rare road game where Cal's white gets a red backdrop instead of a blue one.
 
@@ -145,7 +145,7 @@ Six games in, Cal is 3-3 and has worn the best throwback of the 2026 season, its
 
 **What jersey is Cal wearing this week?**
 
-Cal wore the gold helmet, blue jersey and gold pants against Virginia Tech for Homecoming on Saturday, October 10, confirmed from the broadcast, and won 25-20 to get back to 3-3. The week before, the Bears wore the navy helmet, white road jersey and navy pants at UNLV. Next is No. 21 Wake Forest at home on October 17 for the Grateful Bears game, where Cal will wear its new gold Grateful Dead helmet. The jersey has not been shown yet, and blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Cal wore the gold helmet, blue jersey and gold pants against Virginia Tech for Homecoming on Saturday, October 10, confirmed from the broadcast, and won 25-20 to get back to 3-3. The week before, the Bears wore the navy helmet, white road jersey and navy pants at UNLV. Next is No. 21 Wake Forest at home on October 17 for the Grateful Bears game, where Cal wears its new gold Grateful Dead helmet with the blue jersey and gold pants, as posted by the team. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Cal's football uniforms for 2026?**
 
@@ -157,11 +157,11 @@ They are Cal's tribute to quarterback Joe Roth, who played in 1975 and 1976, fin
 
 **Does Cal have a new alternate uniform in 2026?**
 
-Yes, a new helmet. Cal revealed a gold Grateful Dead helmet on October 12 for the Grateful Bears game against Wake Forest on October 17. No new jersey has been announced. The Joe Roth throwback is the special set this season and has already been worn, and the Gold Out against Clemson on September 25 brought out a gold jersey with navy helmet and pants.
+Yes, a new helmet. Cal revealed a gold Grateful Dead helmet on October 12 for the Grateful Bears game against Wake Forest on October 17, worn with the regular blue jersey and gold pants. No new jersey has been announced. The Joe Roth throwback is the special set this season and has already been worn, and the Gold Out against Clemson on September 25 brought out a gold jersey with navy helmet and pants.
 
 **Is Cal wearing a Grateful Dead helmet?**
 
-Yes. Cal Football revealed a Grateful Dead helmet on October 12, and it is set for the Grateful Bears game against No. 21 Wake Forest on Saturday, October 17, at 7:30 p.m. Pacific on ESPN2. It is a gold helmet with the Cal script inside a Steal Your Face skull, a tie-dye blue center stripe with a white lightning bolt, and the dancing bears on the rear bumper.
+Yes. Cal Football revealed a Grateful Dead helmet on October 12, and it is set for the Grateful Bears game against No. 21 Wake Forest on Saturday, October 17, at 7:30 p.m. Pacific on ESPN2. It is a gold helmet with the Cal script inside a Steal Your Face skull, a tie-dye blue center stripe with a white lightning bolt, and the dancing bears on the rear bumper. It goes with the blue jersey and gold pants.
 
 **What is on the back of the Cal Grateful Dead helmet?**
 

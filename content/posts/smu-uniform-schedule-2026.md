@@ -3,7 +3,7 @@ title: "SMU Uniform Schedule 2026: Every Jersey and When the Mustangs Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-16"
 excerpt: "What SMU wears every game in 2026: the blue home set, the icy whites, the red and black alternates, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #354CA1 0%, #4a63bd 55%, #C8102E 130%)"
 cardStyle: words
@@ -60,7 +60,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
   <div style="background: #C8102E; color: #ffffff; border: 2px solid #354CA1; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Missouri State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
   <div style="background: #354CA1; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #354CA1; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #354CA1; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cal</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue or Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #354CA1; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -87,7 +87,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 **October 10.** Bye.
 
-**October 17 vs. Virginia.** Blue expected. This is the Salute to Service game and the Hall of Fame game, with a Stripe Out in the stands. SMU has aimed the blackout at its Salute to Service date before, so this is the other candidate for the black jersey.
+**October 17 vs. Virginia**, noon ET on The CW. ★ Confirmed by SMU: **the classic look, white helmet, blue jersey, white pants.** This is the Salute to Service game and the Hall of Fame game, with a Stripe Out in the stands. SMU has aimed the blackout at its Salute to Service date before, but not this year. Virginia is confirmed in all white, white helmet, white jersey and white pants. Every look this week is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
 **October 24 vs. Cal.** Blue or red. This is the one home date where SMU is pointing its own fans at a color other than blue or white: Fan Appreciation Day comes with a "wear red" instruction, which puts the red jersey back in play after its debut against Missouri State. Cal will be in white.
 
@@ -103,13 +103,13 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 ## The Bottom Line
 
-Five games in, SMU has used the blue, white and red jerseys and the only helmet it owns, which is the whole story of this uniform program: the white shell with the red Peruna never leaves, and the variable is what goes under it. Blue at home, icy whites on the road, and alternates that need a reason to come out. The red already did, with red pants for Family Weekend against Missouri State, and it has another natural landing spot on October 24, when the school is asking the crowd to wear red. The black needs a night game, and with Boston College getting the blue base set, the Salute to Service date against Virginia is the obvious candidate left. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Five games in, SMU has used the blue, white and red jerseys and the only helmet it owns, which is the whole story of this uniform program: the white shell with the red Peruna never leaves, and the variable is what goes under it. Blue at home, icy whites on the road, and alternates that need a reason to come out. The red already did, with red pants for Family Weekend against Missouri State, and it has another natural landing spot on October 24, when the school is asking the crowd to wear red. The black needs a night game, and SMU passed on it for Boston College and again for the Salute to Service date against Virginia, which gets the classic blue set. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is SMU wearing this week?**
 
-SMU wore the classic look against Boston College on Saturday, October 3: white helmet with the red facemask, blue jersey and white pants, confirmed from the broadcast, in a 25-16 win that moved the Mustangs to 4-1. The week before, they wore red over red in a 34-24 win over Missouri State. SMU is off on October 10, then hosts Virginia on October 17, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+SMU wore the classic look against Boston College on Saturday, October 3: white helmet with the red facemask, blue jersey and white pants, confirmed from the broadcast, in a 25-16 win that moved the Mustangs to 4-1. The week before, they wore red over red in a 34-24 win over Missouri State. SMU is off on October 10, then hosts Virginia on October 17 in the classic look, white helmet, blue jersey and white pants, confirmed by the team for the Salute to Service and Hall of Fame game. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are SMU's football uniforms for 2026?**
 
@@ -121,7 +121,7 @@ That is SMU's own name for the all-white combination, white helmet, white jersey
 
 **Will SMU wear red or black in 2026?**
 
-The red already has: SMU wore the red jersey and red pants against Missouri State on September 26. October 24 against Cal is the date to watch for it again, because SMU has told fans to wear red for Fan Appreciation Day. The black has not been announced. The all-black set has appeared roughly once a year since 2022 and tends to show up for a night game, which points at the Salute to Service game against Virginia on October 17, now that SMU wore blue for Boston College on October 3.
+The red already has: SMU wore the red jersey and red pants against Missouri State on September 26. October 24 against Cal is the date to watch for it again, because SMU has told fans to wear red for Fan Appreciation Day. The black has not been announced. The all-black set has appeared roughly once a year since 2022 and tends to show up for a night game. It did not come out for Boston College on October 3 or for the Salute to Service game against Virginia on October 17, where SMU confirmed the classic blue look.
 
 **Why does ESPN list the Virginia Tech game on November 7?**
 

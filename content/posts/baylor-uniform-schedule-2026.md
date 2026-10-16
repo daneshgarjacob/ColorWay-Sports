@@ -3,7 +3,7 @@ title: "Baylor Uniform Schedule 2026: Every Jersey, and When the Gold Chrome Thr
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-16"
 excerpt: "What Baylor wears every game in 2026, week by week, including the date the gold chrome throwback uniform hits McLane Stadium."
 gradient: "linear-gradient(135deg, #154734 0%, #0c2a1f 55%, #FFB81C 130%)"
 homepageHero: false
@@ -85,7 +85,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
   <div style="background: #FFB81C; color: #14281f; border: 2px solid #154734; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold Chrome / Green / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #154734; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Green</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #154734; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blackout or Whiteout</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #FFB81C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blackout: Gold Chrome / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #154734; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Homecoming</div></div>
@@ -112,7 +112,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **October 10.** Bye week.
 
-**October 17 vs. TCU**, Waco. Blackout on the Brazos if it is a night kick, whiteout if it is a day game, which makes this the most likely home date for the anthracite set.
+**October 17 vs. TCU**, Waco, 7 p.m. Eastern on FS1. **Blackout on the Brazos.** ★ Confirmed by Baylor: **gold chrome helmet, black jersey, black pants**. TCU is expected in white. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
 **October 24 at Kansas**, Lawrence. White.
 
@@ -132,7 +132,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **What jersey is Baylor wearing this week?**
 
-Baylor is off on October 10. Last time out, the Bears wore a white helmet with the green and gold center stripe, white jersey and green pants at Arizona State on Saturday, October 3, confirmed from the broadcast, and won 55-19 to move to 4-1. Next is TCU in Waco on October 17, a blackout on the Brazos if it is a night kick and a whiteout if it is a day game, which makes it the most likely home date for the anthracite set. Baylor announces each week's combination a few days before kickoff, and this page is updated as each one is confirmed. Home games at McLane rotate between green, white, black and anthracite. Road games are white.
+Baylor is off on October 10. Last time out, the Bears wore a white helmet with the green and gold center stripe, white jersey and green pants at Arizona State on Saturday, October 3, confirmed from the broadcast, and won 55-19 to move to 4-1. Next is TCU in Waco on October 17 for Blackout on the Brazos, where Baylor has confirmed a gold chrome helmet, black jersey and black pants. Baylor announces each week's combination a few days before kickoff, and this page is updated as each one is confirmed. Home games at McLane rotate between green, white, black and anthracite. Road games are white.
 
 **When does Baylor wear the gold chrome throwback uniform in 2026?**
 

@@ -3,7 +3,7 @@ title: "Kentucky Uniform Schedule 2026: Every Jersey and When the Wildcats Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-16"
 excerpt: "Kentucky goes black helmet, white jersey, black pants at Oklahoma on Oct. 17. The full 2026 uniform schedule: blue at home, white on the road, every helmet."
 gradient: "linear-gradient(135deg, #0033A0 0%, #0a2a70 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -63,7 +63,7 @@ Home cells are blue, road cells are white, and a star marks a combination that h
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1.2em 0 0.4em;"><img src="/images/posts/kentucky-uniform-schedule-2026/power-k-throwback-lsu-tunnel.jpg" alt="Kentucky Power K throwback uniform for LSU 2026: white helmet with triple blue stripe, blue CATS jersey, white pants" style="width:100%;border-radius:10px;" loading="lazy" decoding="async" /><img src="/images/posts/kentucky-uniform-schedule-2026/power-k-throwback-lsu-midfield.jpg" alt="Kentucky Wildcats Power K throwback uniform at midfield of Kroger Field, worn against LSU on October 10, 2026" style="width:100%;border-radius:10px;" loading="lazy" decoding="async" /></div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photos: Kentucky Football.</p>
 
-**October 17 at Oklahoma**, Norman, 7:30 p.m. Eastern. Announced by the team on October 13 as a "new look for week seven": **black helmet, white jersey, black pants**. In the team's photos the helmet is a black shell with the blue interlocking UK logo. The jersey is white with KENTUCKY across the chest in blue, blue numbers and the Wildcat logo on the shoulders. The pants are black with a blue and white stripe down the side and a blue UK logo on the hip, worn with black cleats. It is the third different helmet Kentucky has brought out in three weeks, after the chrome shell at South Carolina and the Power K white shell against LSU. Oklahoma is expected in crimson at home. Kentucky's first trip to Memorial Stadium as SEC opponents. [Oklahoma 2026 uniform schedule](/stories/oklahoma-uniform-schedule-2026).
+**October 17 at Oklahoma**, Norman, 7:30 p.m. Eastern on SEC Network. Announced by the team on October 13 as a "new look for week seven": **black helmet, white jersey, black pants**. In the team's photos the helmet is a black shell with the blue interlocking UK logo. The jersey is white with KENTUCKY across the chest in blue, blue numbers and the Wildcat logo on the shoulders. The pants are black with a blue and white stripe down the side and a blue UK logo on the hip, worn with black cleats. It is the third different helmet Kentucky has brought out in three weeks, after the chrome shell at South Carolina and the Power K white shell against LSU. Oklahoma has confirmed its Bud Wilkinson throwback for this game: a plain white helmet with a single crimson stripe and no logo, a crimson jersey and white pants. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). Kentucky's first trip to Memorial Stadium as SEC opponents. [Oklahoma 2026 uniform schedule](/stories/oklahoma-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UKFootball/status/2110115926938931520"></a></blockquote>

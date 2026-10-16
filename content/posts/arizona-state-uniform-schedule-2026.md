@@ -3,7 +3,7 @@ title: "Arizona State Uniform Schedule 2026: Every Jersey and When the Sun Devil
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-16"
 excerpt: "The Arizona State 2026 uniform schedule: every jersey and helmet combination the Sun Devils wear, confirmed game by game, plus the throwback still waiting on a date."
 gradient: "linear-gradient(135deg, #8C1D40 0%, #5c132a 55%, #FFC627 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ The thing to understand about the Sun Devils is that the helmet, jersey and pant
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #8C1D40; color: #ffffff; border: 2px solid #FFC627; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon / Maroon</div></div>
   <div style="background: #8C1D40; color: #ffffff; border: 2px solid #FFC627; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Hawai'i</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Maroon / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White Jersey</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #8C1D40; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Maroon</div></div>
   <div style="background: #8C1D40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon Jersey</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White Jersey</div></div>
   <div style="background: #8C1D40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon Jersey</div></div>
@@ -62,7 +62,7 @@ The thing to understand about the Sun Devils is that the helmet, jersey and pant
 
 **October 10 vs. Hawai'i, Tempe.** ★ Confirmed from the broadcast: **white helmet with Sparky, maroon jersey, white pants**. The maroon jersey was the one piece we expected, and the rest is new: it is the first white helmet and the first white pants we have seen from Arizona State in 2026. Hawai'i wore all white. Cardae Mack broke a 67-yard touchdown run, Cutter Boley found Reed Harris for the score that put it away, and Arizona State won 30-12 to move to 3-2. See our [Hawaii 2026 uniform schedule](/stories/hawaii-uniform-schedule-2026).
 
-**October 17 at Texas Tech, Lubbock.** White jersey expected. Texas Tech's homecoming, and the Red Raiders historically go red-heavy for it, so Arizona State should be in white. Announced in game week.
+**October 17 at Texas Tech, Lubbock**, 3:30 p.m. ET on FOX. ★ Confirmed by Arizona State: **white helmet with Sparky, white jersey, maroon pants.** It is Texas Tech's homecoming, and the Red Raiders have confirmed a black helmet, red jersey and white pants honoring their 1976 team. More: [Texas Tech 2026 uniform schedule](/stories/texas-tech-uniform-schedule-2026) and [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
 **October 24 vs. Kansas State, Tempe.** Maroon jersey expected. Announced in game week.
 
@@ -84,7 +84,7 @@ Through the first three games, Arizona State wore the gold helmet every week and
 
 **What jersey is Arizona State wearing this week?**
 
-Arizona State wore a white helmet with Sparky, a maroon jersey and white pants against Hawai'i in Tempe on Saturday, October 10, confirmed from the broadcast, and won 30-12 to move to 3-2. The week before, against Baylor, the Sun Devils wore the Maroon Monsoon look: a maroon chrome helmet with a gold pitchfork, maroon jersey and maroon pants. Arizona State announces each combination in game week, and the grid above is updated as each one is confirmed.
+Arizona State wore a white helmet with Sparky, a maroon jersey and white pants against Hawai'i in Tempe on Saturday, October 10, confirmed from the broadcast, and won 30-12 to move to 3-2. The week before, against Baylor, the Sun Devils wore the Maroon Monsoon look: a maroon chrome helmet with a gold pitchfork, maroon jersey and maroon pants. Next is Texas Tech in Lubbock on October 17, where Arizona State has confirmed a white helmet with Sparky, a white jersey and maroon pants. Arizona State announces each combination in game week, and the grid above is updated as each one is confirmed.
 
 **What are Arizona State's uniforms for 2026?**
 

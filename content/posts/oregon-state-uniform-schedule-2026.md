@@ -3,7 +3,7 @@ title: "Oregon State Uniform Schedule 2026: Every Jersey and When the Beavers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-16"
 excerpt: "What Oregon State wears every game in 2026: the black home set, the all white road look, the orange alternate, and the full Beavers uniform schedule."
 gradient: "linear-gradient(135deg, #D73F09 0%, #b8350a 55%, #000000 130%)"
 cardStyle: words
@@ -47,7 +47,7 @@ That leaves the broadcast as the source of truth, and through September the patt
   <div style="background: #f1f3f8; color: #333; border: 2px solid #D73F09; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTEP</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #D73F09; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #D73F09; color: #ffffff; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Orange</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #D73F09; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -78,7 +78,7 @@ That leaves the broadcast as the source of truth, and through September the patt
 
 **October 10 vs. San Diego State**, Reser Stadium, 3 p.m. Pacific (6 p.m. ET) on USA Network. ★ Confirmed from the game photos: **orange helmet, orange jersey, orange pants.** Black was expected for the first conference home game, and the Beavers went all orange instead. San Diego State wore a scarlet helmet, white jersey and white pants. Oregon State led 38-7 at halftime and won 66-14 to move to 4-2. More: [San Diego State uniform schedule](/stories/san-diego-state-uniform-schedule-2026).
 
-**October 17 vs. Washington State.** Black expected. The first Pac-12 meeting with the Cougars. Washington State is a mix and match program, so this is the best color clash on the home slate.
+**October 17 vs. Washington State**, Reser Stadium, 3 p.m. Pacific (6 p.m. ET) on USA Network. ★ Confirmed by Oregon State: **black helmet, black jersey, black pants with orange trim**, the set the Beavers' reveal graphic labels "Homecoming." Every look this week is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). The first Pac-12 meeting with the Cougars. Washington State is a mix and match program, so this is the best color clash on the home slate.
 
 **October 24.** Bye.
 
@@ -108,7 +108,7 @@ Five confirmed games, five different uniforms. Oregon State went all white at Ho
 
 **What jersey is Oregon State wearing this week?**
 
-Oregon State went all orange, orange helmet, orange jersey and orange pants, against San Diego State at Reser Stadium on Saturday, October 10, confirmed from the game photos, and won 66-14 to move to 4-2. Black had been expected. The week before, the Beavers wore the orange helmet, white jersey and orange pants in a 56-26 win at Colorado State. Next up is Washington State at Reser Stadium on October 17, where black is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Oregon State went all orange, orange helmet, orange jersey and orange pants, against San Diego State at Reser Stadium on Saturday, October 10, confirmed from the game photos, and won 66-14 to move to 4-2. Black had been expected. The week before, the Beavers wore the orange helmet, white jersey and orange pants in a 56-26 win at Colorado State. Next up is Washington State at Reser Stadium on October 17 for Homecoming in a black helmet, black jersey and black pants, confirmed by the team. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Oregon State's football uniforms for 2026?**
 

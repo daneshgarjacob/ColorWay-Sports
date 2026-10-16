@@ -3,7 +3,7 @@ title: "UTSA Uniform Schedule 2026: Every Jersey and When the Roadrunners Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-16"
 excerpt: "What UTSA wears every game in 2026: navy at the Alamodome, white on the road, the Fiesta helmet and the full week-by-week Roadrunners uniform schedule."
 gradient: "linear-gradient(135deg, #0C2340 0%, #13294b 55%, #F15A22 130%)"
 cardStyle: words
@@ -41,7 +41,7 @@ The piece that got national attention this season is the helmet UTSA wore for it
   <div style="background: #0C2340; color: #ffffff; border: 2px solid #F15A22; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Fiesta / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #F15A22; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 8 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Florida</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Lights Out Black</div></div>
-  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #0C2340; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Salute Helmet / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 5 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -62,7 +62,7 @@ The piece that got national attention this season is the helmet UTSA wore for it
 
 **October 8 vs. South Florida.** ★ Confirmed from the broadcast: the **Lights Out** look, a silver helmet with a black center stripe and the roadrunner logo, a **black jersey** with the RUNNERS wordmark and **black pants**. It is the same name as the black uniforms UTSA debuted on November 2, 2024, when it beat No. 25 Memphis for its first ever win over a ranked team. USF wore all white. UTSA won 31-24.
 
-**October 17 vs. Navy.** Navy expected. UTSA's Salute to Armed Forces and Veterans game, presented by USAA, and a service academy opponent on the same day. Military appreciation games are a common place for a special helmet or decal. Our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026) has the Midshipmen.
+**October 17 vs. Navy**, 8 p.m. Eastern (7 p.m. Central) on ESPNU. ★ Confirmed by the team: the **Salute to Service helmet**, a white shell with a stars and stripes center stripe and "San Antonio" on the back, with a **navy jersey** and **navy pants**. It is UTSA's Salute to Armed Forces and Veterans game, presented by USAA, against a service academy opponent on the same day. Navy is expected in white. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). Our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026) has the Midshipmen.
 
 **October 24 at Tulane.** White expected. Yulman Stadium in New Orleans, kickoff time still to be set. See our [Tulane 2026 uniform schedule](/stories/tulane-uniform-schedule-2026).
 
@@ -78,17 +78,17 @@ The piece that got national attention this season is the helmet UTSA wore for it
 
 ## Will the Fiesta Helmet Come Back?
 
-Nothing says it will. UTSA built the helmet for its annual Hispanic Heritage Game and has not attached it to any other date. What the season has shown is a fairly clear system everywhere else: the navy 210 helmet at home, the white helmet on the first two road trips before the navy shell went to Rice, and the jersey and pants mixed from there. If UTSA has one more special look in the closet this fall, the Thursday night Lights Out game against South Florida on October 8 and the Salute to Armed Forces game against Navy on October 17 are the two dates that fit.
+Nothing says it will. UTSA built the helmet for its annual Hispanic Heritage Game and has not attached it to any other date. What the season has shown is a fairly clear system everywhere else: the navy 210 helmet at home, the white helmet on the first two road trips before the navy shell went to Rice, and the jersey and pants mixed from there. UTSA has still found room for special looks: the Lights Out black against South Florida on October 8, and the Salute to Service helmet, white with a stars and stripes center stripe, against Navy on October 17.
 
 ## The Bottom Line
 
-Five games in, UTSA has worn five different combinations and one genuinely great helmet. The Fiesta shell worked because it was about San Antonio, not about a trend, with the 210 and the city's name carrying the idea and the uniform below staying clean. The rest of the closet runs on a simple rule, navy helmet at home and white jersey away, and the open questions are which helmet and pants go with the white jersey, after the navy shell showed up at Rice, and whether the Lights Out night brings something new. The grid above has every date, and we add a star as each uniform is confirmed.
+Five games in, UTSA has worn five different combinations and one genuinely great helmet. The Fiesta shell worked because it was about San Antonio, not about a trend, with the 210 and the city's name carrying the idea and the uniform below staying clean. The rest of the closet runs on a simple rule, navy helmet at home and white jersey away, and the open questions are which helmet and pants go with the white jersey, after the navy shell showed up at Rice, and the next special look is already set: the Salute to Service helmet with navy over navy against Navy on October 17. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is UTSA wearing this week?**
 
-UTSA wore the navy helmet with orange trim, white jersey and white pants at Rice on Saturday, October 3, confirmed from the broadcast, and won the American Conference opener 16-14 to move to 4-1. Next is South Florida at the Alamodome on Thursday, October 8, the Lights Out game, where navy is expected.
+UTSA wears its Salute to Service helmet, a white shell with a stars and stripes center stripe and "San Antonio" on the back, with a navy jersey and navy pants against Navy at the Alamodome on Saturday, October 17, confirmed by the team. Last time out, the Roadrunners wore the Lights Out black, a silver helmet with a black jersey and black pants, and beat South Florida 31-24 on Thursday, October 8.
 
 **What helmet did UTSA wear for the Hispanic Heritage game?**
 

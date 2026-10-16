@@ -3,7 +3,7 @@ title: "Mississippi State Uniform Schedule 2026: Every Jersey and When the Bulld
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-16"
 excerpt: "Mississippi State's 2026 uniform schedule: every jersey, helmet and combination the Bulldogs wear, maroon home, white road, the interlocking MSU helmet, week by week."
 gradient: "linear-gradient(135deg, #660000 0%, #7a1c1c 55%, #c9c9c9 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["mississippi-state-bulldogs", "sec"]
 resurfaceOnUpdate: true
 ---
 
-Mississippi State wears maroon at home and white on the road in 2026, and the interlocking MSU is now the everyday helmet logo. After an October 10 bye, the Bulldogs visit LSU on October 17, where we expect them in maroon. This is the full Mississippi State 2026 uniform schedule: the maroon home set, the white road set, the all-black set that lives in reserve, both helmets, and a week-by-week outlook for all twelve games. Five games in, every combination is confirmed from the broadcast, and we update this page as each new one is locked in.
+Mississippi State wears maroon at home and white on the road in 2026, and the interlocking MSU is now the everyday helmet logo. After an October 10 bye, the Bulldogs visit LSU on October 17 in a maroon helmet, maroon jersey and white pants, confirmed by the team. This is the full Mississippi State 2026 uniform schedule: the maroon home set, the white road set, the all-black set that lives in reserve, both helmets, and a week-by-week outlook for all twelve games. Five games in, every combination is confirmed from the broadcast, and we update this page as each new one is locked in.
 
 ## The Mississippi State 2026 Uniform Sets
 
@@ -35,7 +35,7 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
   <div style="background: #ffffff; color: #660000; border: 2px solid #660000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #660000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #660000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
+  <div style="background: #660000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon / White</div></div>
   <div style="background: #660000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #660000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
@@ -62,7 +62,7 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
 
 **October 10.** Bye.
 
-**October 17 at LSU.** Maroon expected, and this is the exception to the visitors-in-white rule. LSU wears white at home in Tiger Stadium, as noted on our [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026), so the visitor wears color. Mississippi State in maroon in Baton Rouge.
+**October 17 at LSU**, noon ET on ESPN. ★ Confirmed by Mississippi State: **maroon helmet, maroon jersey, white pants**, and this is the exception to the visitors-in-white rule. LSU wears white at home in Tiger Stadium, as noted on our [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026), so the visitor wears color. Mississippi State in maroon in Baton Rouge. Every look this week is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
 **October 24 vs. Oklahoma.** Maroon expected. The Sooners visit in white, per our [Oklahoma 2026 uniform schedule](/stories/oklahoma-uniform-schedule-2026).
 
@@ -84,7 +84,7 @@ The interlocking MSU won. What started as a fan campaign became a 2025 throwback
 
 **What jersey is Mississippi State wearing this week?**
 
-Mississippi State wore a maroon helmet with the white retro M-State logo, a maroon jersey and white pants against Alabama on Saturday, October 3, confirmed by the team and from the broadcast. No. 7 Alabama won 56-23, and the Bulldogs are 4-1. The week before, they wore all white for the White Out in a 31-24 win over Missouri. After an October 10 bye, Mississippi State visits LSU on October 17, where maroon is expected because LSU wears white at home. The week-by-week grid above lists every game, and we update it when each combination is confirmed.
+Mississippi State wore a maroon helmet with the white retro M-State logo, a maroon jersey and white pants against Alabama on Saturday, October 3, confirmed by the team and from the broadcast. No. 7 Alabama won 56-23, and the Bulldogs are 4-1. The week before, they wore all white for the White Out in a 31-24 win over Missouri. After an October 10 bye, Mississippi State visits LSU on October 17 in a maroon helmet, maroon jersey and white pants, confirmed by the team, because LSU wears white at home. The week-by-week grid above lists every game, and we update it when each combination is confirmed.
 
 **What are Mississippi State's football uniforms for 2026?**
 

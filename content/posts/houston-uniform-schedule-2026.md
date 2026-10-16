@@ -3,7 +3,7 @@ title: "Houston Uniform Schedule 2026: Every Jersey and When the Cougars Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-16"
 excerpt: "What Houston wears every game in 2026: the red home set, the all-white road look, the Houston Blue alternate, and every week's uniform combination."
 gradient: "linear-gradient(135deg, #C8102E 0%, #d8233f 55%, #78BCE2 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ The base sets come from Nike's 2025 redesign, Houston's first real overhaul sinc
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Red</div></div>
   <div style="background: #78BCE2; color: #14284b; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Houston Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
-  <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #C8102E; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -68,7 +68,7 @@ That was the white shell with the red interlocking UH and a red facemask, the wh
 
 **October 10 at Kansas State.** ★ Confirmed from the broadcast: **red helmet with the Houston script, white jersey, red pants**, red at both ends of the road white for K-State's Celebrate Ag game at Bill Snyder Family Stadium. Kansas State wore the silver helmet, purple jersey and silver pants. More: [Kansas State schedule](/stories/kansas-state-uniform-schedule-2026). No. 22 Houston led 21-3 at halftime and won 35-16 to move to 5-1.
 
-**October 17 vs. Oklahoma State.** Red expected. Family Weekend and Hispanic Heritage day at TDECU Stadium, with Oklahoma State in white. More: [Oklahoma State schedule](/stories/oklahoma-state-uniform-schedule-2026).
+**October 17 vs. Oklahoma State**, 7:30 p.m. ET on FOX. ★ Confirmed by Houston: **"classic home colors," red helmet with the Houston script, red jersey, white pants.** Family Weekend and Hispanic Heritage day at TDECU Stadium. Oklahoma State has confirmed a white helmet with an orange facemask, white jersey and orange pants. More: [Oklahoma State schedule](/stories/oklahoma-state-uniform-schedule-2026) and [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
 **October 24 at Utah.** White expected, at Rice-Eccles Stadium, where Utah wears red at home. More: [Utah schedule](/stories/utah-uniform-schedule-2026).
 
@@ -90,7 +90,7 @@ Six games in, Houston is 5-1. It has worn red twice at home, shown both pants, t
 
 **What jersey is Houston wearing this week?**
 
-Houston wore the red helmet with the Houston script, white jersey and red pants at Kansas State on Saturday, October 10, confirmed from the broadcast, and won 35-16 to move to 5-1. The week before, the Cougars wore the light blue Houston Blue alternate with a dark gray helmet in a 27-17 win over UCF. Next is Oklahoma State at home on October 17, where red is expected.
+Houston wore the red helmet with the Houston script, white jersey and red pants at Kansas State on Saturday, October 10, confirmed from the broadcast, and won 35-16 to move to 5-1. The week before, the Cougars wore the light blue Houston Blue alternate with a dark gray helmet in a 27-17 win over UCF. Next is Oklahoma State at home on October 17, where Houston has confirmed its "classic home colors": red helmet with the Houston script, red jersey and white pants.
 
 **What are Houston's football uniforms for 2026?**
 

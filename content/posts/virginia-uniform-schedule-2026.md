@@ -3,7 +3,7 @@ title: "Virginia Uniform Schedule 2026: Every Jersey and When the Cavaliers Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-16"
 excerpt: "What Virginia wears every game in 2026: the orange home set, the all navy look, the white road jersey, and the full Cavaliers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #232D4B 0%, #2f3b63 55%, #F84C1E 130%)"
 cardStyle: words
@@ -42,7 +42,7 @@ What that leaves is a wardrobe with real range. Orange, navy and white jerseys, 
   <div style="background: #232D4B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Delaware</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #232D4B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Navy</div></div>
   <div style="background: #232D4B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #232D4B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #232D4B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange or Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -81,7 +81,7 @@ There is history in the building as well. Virginia's last trip to Bank of Americ
 
 **October 10 vs. Syracuse.** ★ Confirmed from the broadcast: **white helmet, navy jersey, white pants**, 7:30 p.m. Eastern on ACC Network. Home color was expected, and Virginia went navy rather than orange. Syracuse wore the orange helmet, white jersey and orange pants. The Orange led 17-7 at halftime, Virginia scored 14 in the fourth quarter, and the Cavaliers won 28-25 to move to 4-2. Details on the visitor in our [Syracuse 2026 uniform schedule](/stories/syracuse-uniform-schedule-2026).
 
-**October 17 at SMU.** White expected. The long trip of the season and Virginia's only game in Texas.
+**October 17 at SMU**, noon Eastern on The CW. ★ Confirmed by Virginia: **all white, white helmet, white jersey, white pants.** SMU is confirmed in its classic look, white helmet, blue jersey and white pants, for its Salute to Service and Hall of Fame game. Every look this week is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). The long trip of the season and Virginia's only game in Texas.
 
 **October 23 vs. Duke.** Home color expected, 7 p.m. Eastern on ESPN. This is the home date we are watching hardest. Friday night at Scott Stadium is exactly the slot Virginia used for its 1995 throwbacks last season against Florida State, navy jerseys with the old V sleeve detail, white pants and navy helmets, and it is also a rematch of the ACC title game. If there is a special uniform on this schedule, this is the most likely night for it. Our [Duke 2026 uniform schedule](/stories/duke-uniform-schedule-2026) has the visitor.
 
@@ -103,7 +103,7 @@ Six games in, Virginia has worn six different combinations: orange over orange u
 
 **What jersey is Virginia wearing this week?**
 
-Virginia wore the white helmet, navy jersey and white pants against Syracuse on Saturday, October 10, confirmed from the broadcast, in a 28-25 win that moved the Cavaliers to 4-2. The week before, they wore the white helmet with an orange stripe, white jersey and navy pants in a 38-7 loss at Florida State. Next up is SMU on the road on October 17, where white is expected.
+Virginia wore the white helmet, navy jersey and white pants against Syracuse on Saturday, October 10, confirmed from the broadcast, in a 28-25 win that moved the Cavaliers to 4-2. The week before, they wore the white helmet with an orange stripe, white jersey and navy pants in a 38-7 loss at Florida State. Next up is SMU on the road on October 17 in all white, white helmet, white jersey and white pants, confirmed by the team.
 
 **What are Virginia's football uniforms for 2026?**
 

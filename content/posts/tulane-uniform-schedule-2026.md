@@ -3,7 +3,7 @@ title: "Tulane Uniform Schedule 2026: Every Jersey and When the Green Wave Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-16"
 excerpt: "What Tulane wears every game in 2026: the green home jersey, the white road set, the sky blue alternate, the Mardi Gras City Edition, and every date."
 gradient: "linear-gradient(135deg, #006747 0%, #0a4f3a 55%, #418FDE 130%)"
 cardStyle: words
@@ -55,7 +55,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
   <div style="background: #71C5E8; color: #004B30; border: 2px solid #006747; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Sky Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #006747; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / White</div></div>
-  <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #006747; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Green / White</div></div>
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green (Homecoming)</div></div>
@@ -80,7 +80,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
 
 **October 10 at Army.** ★ Confirmed from the broadcast: **green helmet, white jersey, white pants**, the road white under the green shell at Michie Stadium, noon Eastern on CBS Sports Network. Army wore the gold helmet and black jersey, as expected. Army scored 13 points in the fourth quarter and won 20-17, and Tulane fell to 2-3. Our [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026) tracks the other sideline.
 
-**October 16 vs. Memphis.** Green expected. A Friday night conference game at Yulman on ESPN, 6:30 p.m. Central, and the biggest national television window Tulane gets all year at home. If the sky blue set is going to appear, this is the date we would circle first. Memphis is expected in white.
+**October 16 vs. Memphis.** ★ Confirmed by the team: **green helmet, green jersey, white pants**. A Friday night conference game at Yulman on ESPN, 6:30 p.m. Central, and the biggest national television window Tulane gets all year at home. Memphis is confirmed in a blue helmet with the tiger stripe, a white jersey with tiger-striped sleeves and blue pants. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026), and the Tigers side is on the [Memphis uniform schedule](/stories/memphis-uniform-schedule-2026).
 
 **October 24 vs. UTSA.** Green expected. Back at Yulman with kickoff still to be announced.
 
@@ -96,7 +96,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
 
 ## The Sky Blue Question
 
-Tulane has three jersey colors and has only used two of them so far. The sky blue set, jersey and helmet both, was all over last season. It has not appeared in 2026, and the two home dates with the most air under them are the Friday night Memphis game in October and Homecoming against Tulsa in November.
+Tulane has three jersey colors and has only used two of them so far. The sky blue set, jersey and helmet both, was all over last season. It came out head to toe against Southern Miss on September 26, and Tulane went green for the Friday night Memphis game, so the next home date with real air under it is Homecoming against Tulsa in November.
 
 It is also worth saying what the City Edition series is and is not. Tulane introduced its first City Edition uniform in October 2025 for a November debut, then made the Mardi Gras build for 2026. That is two City Edition sets in two seasons, both one-offs, both retired immediately after the game. If there is a third piece coming this year it would be a separate reveal, and nothing has been announced.
 
@@ -112,7 +112,7 @@ Tulane spent its best uniform of the year in Week 2 and that was clearly the pla
 
 **What jersey is Tulane wearing this week?**
 
-Tulane wore a green helmet, white jersey and white pants at Army on Saturday, October 10, confirmed from the broadcast, and lost 20-17 to fall to 2-3. Before the bye, the Green Wave wore all sky blue against Southern Miss on September 26 for the Battle for the Bell and won 24-21. Next is Memphis at Yulman Stadium on Friday, October 16, where green is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Tulane wore a green helmet, white jersey and white pants at Army on Saturday, October 10, confirmed from the broadcast, and lost 20-17 to fall to 2-3. Before the bye, the Green Wave wore all sky blue against Southern Miss on September 26 for the Battle for the Bell and won 24-21. Next is Memphis at Yulman Stadium on Friday, October 16, where Tulane wears a green helmet, green jersey and white pants, confirmed by the team. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Tulane's football uniforms for 2026?**
 
@@ -124,11 +124,11 @@ No. Tulane said the King of Mardi Gras set was a one-game uniform, worn against 
 
 **Does Tulane still have the sky blue uniforms?**
 
-Yes. The sky blue jersey and the sky blue helmet are both part of the current closet and were used several times last season. Neither has appeared in 2026 through two games, and the Friday night home game against Memphis on October 16 is the most likely spot for them.
+Yes. The sky blue jersey and the sky blue helmet are both part of the current closet and were used several times last season. Both came out head to toe for the 24-21 Battle for the Bell win over Southern Miss on September 26.
 
 **When is Tulane's Homecoming game in 2026?**
 
-Saturday, November 7 against Tulsa at Yulman Stadium, with kickoff still to be announced. Green is expected. Homecoming and the October 16 Memphis game are the two home dates we are watching most closely for an alternate.
+Saturday, November 7 against Tulsa at Yulman Stadium, with kickoff still to be announced. Green is expected. With the October 16 Memphis game confirmed in green, Homecoming is the home date we are watching most closely for an alternate.
 
 **How many games does Tulane play in 2026?**
 

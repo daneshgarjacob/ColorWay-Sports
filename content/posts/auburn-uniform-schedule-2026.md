@@ -3,7 +3,7 @@ title: "Auburn Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-16"
 excerpt: "What jersey is Auburn wearing this week? The full 2026 Auburn uniform schedule: navy home jerseys, the white road uniform, and every game, week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #13315c 55%, #E87722 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ Auburn moved from Under Armour to Nike in July 2025 and used the switch to chang
   <div style="background: #0C2340; color: #ffffff; border: 2px solid #E87722; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
@@ -56,7 +56,7 @@ Auburn moved from Under Armour to Nike in July 2025 and used the switch to chang
 
 **October 10.** Bye.
 
-**October 17 at Georgia.** White expected. The Deep South's Oldest Rivalry in Athens, and Auburn in white against Georgia's red jerseys and silver pants.
+**October 17 at Georgia**, 3:30 p.m. Eastern on ESPN. ★ Confirmed by Auburn's Game Six uniform graphic: **all white, white helmet, white jersey, white pants.** The Deep South's Oldest Rivalry in Athens, with Georgia expected in the red helmet, red jersey and silver pants. More: [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) and [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
 **October 24 vs. LSU.** Navy expected, the home default, in an 11 a.m. Central kickoff.
 
@@ -80,7 +80,7 @@ Want every big game in one place? Our [college football Week 5 uniform guide](/s
 
 **What jersey is Auburn wearing this week?**
 
-Auburn is off on October 10. Last time out, the Tigers wore all white at Tennessee on Saturday, October 3: white helmet, white jersey and white pants, confirmed from the broadcast, in a 24-14 loss that dropped them to 3-2. Next up is at Georgia on October 17, where white is expected. The week-by-week grid above lists every game.
+Auburn is off on October 10. Last time out, the Tigers wore all white at Tennessee on Saturday, October 3: white helmet, white jersey and white pants, confirmed from the broadcast, in a 24-14 loss that dropped them to 3-2. Next up is at Georgia on October 17, where Auburn has confirmed all white again: white helmet, white jersey and white pants. The week-by-week grid above lists every game.
 
 **What are Auburn's football uniforms for 2026?**
 

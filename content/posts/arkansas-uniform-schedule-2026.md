@@ -3,7 +3,7 @@ title: "Arkansas Uniform Schedule 2026: Every Jersey and When the Razorbacks Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-16"
 excerpt: "Arkansas jersey schedule 2026: cardinal home uniforms, the all-white road look worn at Utah, the new Tyson patch, and every Razorbacks game week by week."
 gradient: "linear-gradient(135deg, #9D2235 0%, #7a1a29 55%, #ffffff 130%)"
 cardStyle: words
@@ -35,7 +35,7 @@ The base sets are what Arkansas fans call the D-Mac era uniforms, a modern take 
   <div style="background: #9D2235; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #9D2235; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / White</div></div>
   <div style="background: #9D2235; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #9D2235; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #9D2235; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -62,7 +62,7 @@ The base sets are what Arkansas fans call the D-Mac era uniforms, a modern take 
 
 **October 10 vs. Tennessee.** ★ Confirmed from the broadcast: **cardinal helmet, cardinal jersey, white pants**, the standard home set, as expected. No. 15 Tennessee wore all white, white helmet, white jersey and white pants, as projected on our [Tennessee 2026 uniform schedule](/stories/tennessee-uniform-schedule-2026). Tennessee led 7-0 at halftime and scored 14 in the fourth quarter to win 24-17, and Arkansas fell to 2-4.
 
-**October 17 at Vanderbilt.** White expected. Road SEC game in Nashville at FirstBank Stadium.
+**October 17 at Vanderbilt**, FirstBank Stadium, 7 p.m. ET on ESPN2. ★ Confirmed by Arkansas: **cardinal helmet, white jersey, white pants**, the standard road set. Vanderbilt is confirmed in a white helmet, black jersey and white pants. Every look this week is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
 **October 24.** Bye.
 
@@ -86,7 +86,7 @@ Want every big game in one place? Our [college football Week 5 uniform guide](/s
 
 **What jersey is Arkansas wearing this week?**
 
-Arkansas wore the standard home set against Tennessee on Saturday, October 10: cardinal helmet, cardinal jersey and white pants, confirmed from the broadcast, against the Vols in all white. Tennessee won 24-17, and Arkansas is 2-4. Next up is a trip to Vanderbilt on October 17, where white is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Arkansas wore the standard home set against Tennessee on Saturday, October 10: cardinal helmet, cardinal jersey and white pants, confirmed from the broadcast, against the Vols in all white. Tennessee won 24-17, and Arkansas is 2-4. Next up is a trip to Vanderbilt on October 17 in the cardinal helmet, white jersey and white pants, confirmed by the team. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Arkansas's football uniforms for 2026?**
 

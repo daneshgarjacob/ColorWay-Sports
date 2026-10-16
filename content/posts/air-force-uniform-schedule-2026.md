@@ -3,7 +3,7 @@ title: "Air Force Uniform Schedule 2026: Every Jersey and When the Falcons Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-16"
 excerpt: "What Air Force wears every game in 2026: the blue home set, the Freedom 250 opener, the B-21 Raider uniform against Navy, and both trophy games."
 gradient: "linear-gradient(135deg, #003087 0%, #0b47a8 55%, #8A8D8F 130%)"
 cardStyle: words
@@ -69,7 +69,7 @@ One structural note before the grid. The 2026 slate gave Air Force seven home ga
   <div style="background: #f1f3f8; color: #333; border: 2px solid #003087; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Nevada</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #1a1a1a; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; B-21 Raider</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #003594; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Blue</div></div>
-  <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UNLV</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #003087; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UNLV</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wyoming</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -90,7 +90,7 @@ One structural note before the grid. The 2026 slate gave Air Force seven home ga
 
 **October 10 at Northern Illinois.** ★ Confirmed from the game photos: **white helmet with the blue stripe, white jersey, blue pants**, on the cross-country Mountain West trip to DeKalb, Illinois. Northern Illinois wore all black. Air Force won 28-7 to move to 4-1.
 
-**October 17 vs. UNLV.** Blue expected. More: [UNLV uniform schedule](/stories/unlv-uniform-schedule-2026).
+**October 17 vs. UNLV**, 1:30 p.m. Mountain (3:30 p.m. Eastern) on CBS Sports Network. ★ Confirmed by Air Force: **white helmet, blue jersey, white pants.** UNLV has confirmed a silver helmet with the Rebels script, white jersey and silver pants. More: [UNLV uniform schedule](/stories/unlv-uniform-schedule-2026) and [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
 **October 23 at Wyoming.** White expected. A Friday night at War Memorial Stadium in Laramie, on The CW.
 
@@ -112,7 +112,7 @@ Air Force runs the most disciplined base uniform in college football and then sp
 
 **What is Air Force wearing this week?**
 
-Air Force wore the white helmet with the blue stripe, a white jersey and blue pants at Northern Illinois on Saturday, October 10, confirmed from the game photos, and won 28-7 to move to 4-1. The week before, the Falcons beat Navy 14-9 in the B-21 Raider uniform. Next up is UNLV at home on October 17, where blue is expected.
+Air Force wore the white helmet with the blue stripe, a white jersey and blue pants at Northern Illinois on Saturday, October 10, confirmed from the game photos, and won 28-7 to move to 4-1. The week before, the Falcons beat Navy 14-9 in the B-21 Raider uniform. Next up is UNLV at home on October 17, where Air Force has confirmed a white helmet, blue jersey and white pants.
 
 **What are Air Force's football uniforms for 2026?**
 

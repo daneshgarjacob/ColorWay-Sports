@@ -3,7 +3,7 @@ title: "Memphis Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-16"
 excerpt: "What Memphis wears every game in 2026: the blue home jersey, the white road set, the gray pants, the new FedEx patch, and the full week-by-week schedule."
 gradient: "linear-gradient(135deg, #003087 0%, #1a4ba3 55%, #898D8D 130%)"
 cardStyle: words
@@ -50,7 +50,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Tiger Stripe / White / Black</div></div>
   <div style="background: #003087; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Blue</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #003087; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue (Halloween)</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -81,7 +81,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
 
 **October 10 vs. UAB.** ★ Confirmed from the broadcast: **blue helmet, blue jersey, blue pants**, all blue. Blue was expected; the blue pants were the change from the white pants Memphis wore at home against UT Martin. UAB wore the gold helmet, white jersey and gold pants. UAB led 13-10 at halftime, then Memphis scored the last 28 points to win 38-13 and move to 5-1. More: [UAB uniform schedule](/stories/uab-uniform-schedule-2026).
 
-**October 16 at Tulane.** White expected. A Friday night conference game at Yulman Stadium on ESPN, 6:30 p.m. Central, and the most interesting uniform matchup on the Memphis schedule because of who is on the other side. Tulane is one of the more adventurous uniform programs in the league and this is the Green Wave's biggest home television window of the year.
+**October 16 at Tulane.** ★ Confirmed by the team: **blue helmet with the tiger stripe, white jersey with tiger-striped sleeves, blue pants**. A Friday night conference game at Yulman Stadium on ESPN, 6:30 p.m. Central, and the most interesting uniform matchup on the Memphis schedule because of who is on the other side. Tulane goes green helmet, green jersey and white pants, as posted. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026), and the Green Wave side is on the [Tulane uniform schedule](/stories/tulane-uniform-schedule-2026).
 
 **October 22 vs. East Carolina.** Blue expected. A Thursday night home game on ESPN2, 6:30 p.m. Central, and midweek national television is exactly the window a program uses for an alternate. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026).
 
@@ -111,7 +111,7 @@ Memphis is an easy program to predict at the color level and a hard one to predi
 
 **What jersey is Memphis wearing this week?**
 
-Memphis wore all blue against UAB at home on Saturday, October 10: blue helmet, blue jersey and blue pants, confirmed from the broadcast, in a 38-13 win that moved the Tigers to 5-1. The week before, they wore a new black helmet with blue tiger stripes, the white jersey and black pants at Charlotte. Next is Tulane on the road on Friday, October 16, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Memphis wore all blue against UAB at home on Saturday, October 10: blue helmet, blue jersey and blue pants, confirmed from the broadcast, in a 38-13 win that moved the Tigers to 5-1. The week before, they wore a new black helmet with blue tiger stripes, the white jersey and black pants at Charlotte. Next is Tulane on the road on Friday, October 16, where Memphis wears a blue helmet with the tiger stripe, a white jersey with tiger-striped sleeves and blue pants, confirmed by the team. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Memphis's football uniforms for 2026?**
 
