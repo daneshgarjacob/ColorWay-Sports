@@ -17,7 +17,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { getAllPosts, type PostMeta as Post } from "@/lib/posts";
 import { currentNflWeek, getNflWeekChips } from "@/lib/nflWeek";
-import { mlbBandSlugs } from "@/lib/mlbPostseason";
+import { isEliminatedMlbTeamPost, mlbBandSlugs } from "@/lib/mlbPostseason";
 
 export const metadata: Metadata = {
   alternates: {
@@ -230,7 +230,12 @@ export default function Home() {
   //     sit here all week between Monday re-ranks.
   //  3. NEWEST: backfill by publish date if the first two run short.
   const shownSlugs = new Set([...heroSlugs, ...gridSlugs, ...bandSlugs]);
-  const notShown = filtered.filter((p) => !shownSlugs.has(p.slug) && !HOMEPAGE_HIDE.has(p.slug));
+  const notShown = filtered.filter(
+    (p) =>
+      !shownSlugs.has(p.slug) &&
+      !HOMEPAGE_HIDE.has(p.slug) &&
+      !isEliminatedMlbTeamPost(p.slug, p.league, todayEt)
+  );
   const MORE_COUNT = 6;
   const fresh = notShown
     // >= 0 so a post dated ahead for tomorrow does not jump the queue today.

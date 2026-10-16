@@ -49,7 +49,7 @@ const POSTSEASON_TOOLS: typeof TOOLS = [
   {
     href: `/stories/${MLB_POSTSEASON_POST}`,
     kicker: "Coming Up",
-    title: "ALCS & NLCS Uniform Schedule",
+    title: "ALCS Uniform Schedule",
     dek: "Every Remaining Game And What Each Team Will Wear.",
     theme: "blue",
   },

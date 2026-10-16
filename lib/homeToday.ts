@@ -210,6 +210,41 @@ export type StandsPhoto = { src: string; caption: string; where: string; href: s
 
 export const FROM_THE_STANDS: StandsPhoto[] = [
   {
+    src: "/images/posts/from-the-stands/brewers-dodgers-2026-10-15/dodgers-fans-ohtani-turner-jerseys.jpg",
+    caption: "Ohtani and Turner jerseys in the stands for NLCS Game 4, the night the Brewers finished the sweep",
+    where: "Dodger Stadium · Oct 15",
+    href: "/stories/brewers-uniform-schedule-2026",
+    position: "center 60%",
+  },
+  {
+    src: "/images/posts/from-the-stands/brewers-dodgers-2026-10-15/dodger-stadium-dusk-scoreboard.jpg",
+    caption: "Dusk over the palm trees and the 76 ball during NLCS Game 4",
+    where: "Dodger Stadium · Oct 15",
+    href: "/stories/dodgers-uniform-schedule-2026",
+    position: "center 50%",
+  },
+  {
+    src: "/images/posts/from-the-stands/brewers-dodgers-2026-10-15/make-some-noise-under-the-lights.jpg",
+    caption: "Make Some Noise: Dodger Stadium under the lights with the season on the line",
+    where: "Dodger Stadium · Oct 15",
+    href: "/stories/mlb-uniform-tracker-2026",
+    position: "center 55%",
+  },
+  {
+    src: "/images/posts/from-the-stands/brewers-dodgers-2026-10-15/dodgers-dugout-nlcs-game-4.jpg",
+    caption: "The Dodgers dugout in home whites during NLCS Game 4",
+    where: "Dodger Stadium · Oct 15",
+    href: "/stories/dodgers-uniform-schedule-2026",
+    position: "center 70%",
+  },
+  {
+    src: "/images/posts/from-the-stands/brewers-dodgers-2026-10-15/dodger-stadium-first-pitch-light.jpg",
+    caption: "Early light at Dodger Stadium as NLCS Game 4 gets going",
+    where: "Dodger Stadium · Oct 15",
+    href: "/stories/brewers-uniform-schedule-2026",
+    position: "center 60%",
+  },
+  {
     src: "/images/posts/from-the-stands/rams-bills-2026-10-12/sofi-tied-34-late.jpg",
     caption: "Tied at 34 late, before the Bills won it in overtime",
     where: "SoFi Stadium · Oct 12",

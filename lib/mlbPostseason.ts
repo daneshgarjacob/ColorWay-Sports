@@ -37,9 +37,9 @@ export const MLB_POSTSEASON_ALIVE: string[] = [
   // "yankees" eliminated 2026-10-07 (Rays swept the ALDS, 3-0)
   // "cubs" eliminated 2026-09-30 (Padres swept the Wild Card, 2-0)
   // "padres" eliminated 2026-10-07 (Brewers won the NLDS, 3-1)
+  // "dodgers" eliminated 2026-10-15 (Brewers swept the NLCS, 4-0)
   "rays",
   "guardians",
-  "dodgers",
   "brewers",
 ];
 
@@ -47,11 +47,11 @@ export const MLB_POSTSEASON_ALIVE: string[] = [
 // this list, then any alive team not in a series (the byes). Optional to update:
 // when a round ends, replace these with the next round's matchups.
 export const MLB_POSTSEASON_SERIES: { round: string; away: string; home: string }[] = [
-  { round: "NLCS", away: "dodgers", home: "brewers" },
+  // NLCS (dodgers at brewers) ended 2026-10-15; the Brewers now wait as a bye.
   { round: "ALCS", away: "guardians", home: "rays" },
 ];
 // Where the teams without a series are waiting.
-const BYE_LABEL = "Bye · Division Series";
+const BYE_LABEL = "World Series · Game 1 Oct 23";
 
 export interface MlbPostseasonChip {
   slug: string;
@@ -93,7 +93,7 @@ export function getMlbPostseasonChips(): MlbPostseasonChip[] {
   }
   for (const key of MLB_POSTSEASON_ALIVE) {
     if (placed.has(key)) continue;
-    ordered.push({ key, opponent: "Waiting on a winner", label: BYE_LABEL });
+    ordered.push({ key, opponent: "Waiting on the ALCS winner", label: BYE_LABEL });
   }
 
   const chips: MlbPostseasonChip[] = [];
@@ -124,4 +124,14 @@ export function mlbBandSlugs(today: string = todayEt()): string[] {
     "mlb-uniform-tracker-2026",
     ...getMlbPostseasonChips().map((c) => c.slug),
   ];
+}
+
+// Jake 10/16: More Stories was surfacing the Braves schedule post a week after
+// the Braves went home. Once the postseason starts, an MLB team schedule post
+// only earns a homepage slot while that team is still playing.
+export function isEliminatedMlbTeamPost(slug: string, league?: string, today: string = todayEt()): boolean {
+  if (!isMlbPostseason(today) || league !== "mlb") return false;
+  const m = slug.match(/^(.+)-uniform-schedule-2026$/);
+  if (!m || m[1] === "mlb") return false;
+  return !MLB_POSTSEASON_ALIVE.includes(m[1]);
 }
