@@ -1,5 +1,5 @@
 import Header from "@/components/Header";
-import NflWeekZone from "@/components/NflWeekZone";
+import NflWeekZoneV2 from "@/components/NflWeekZoneV2";
 import MlbUniformsZone from "@/components/MlbUniformsZone";
 import WorldSeriesZone from "@/components/WorldSeriesZone";
 import { getFeaturedSeries } from "@/lib/worldSeries";
@@ -386,7 +386,7 @@ export default function Home() {
         {/* Jake 10/16: once the World Series is set, its band leads, above NFL,
             and replaces the postseason MLB band. */}
         {worldSeriesOn && <WorldSeriesZone />}
-        <NflWeekZone />
+        <NflWeekZoneV2 />
         {/* Jake 10/16: during the ALCS the series band replaces the MLB band in its usual spot. */}
         {alcsOn && <WorldSeriesZone />}
         {!worldSeriesOn && !alcsOn && <MlbUniformsZone />}

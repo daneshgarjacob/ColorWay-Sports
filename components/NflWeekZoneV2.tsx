@@ -7,8 +7,8 @@ import { getNflWeekChips, getNflWeekStats } from "@/lib/nflWeek";
 // same week slate as the schedule hub: a dark game-of-the-week hero, every game
 // grouped by day with jersey-over-pants swatches, then doors to what people
 // search for (GSC 9/17-10/14: schedule, week N uniforms, Salute to Service,
-// Crucial Catch, rankings, sideline hats). MOCK: only rendered on
-// /nfl-band-preview until Jake approves it for the homepage.
+// Crucial Catch, rankings, sideline hats). On the homepage since 10/17
+// (Jake: "if you think it's better, just do it"); replaced NflWeekZone.
 
 const NAVY = "#0d1a33";
 const GOLD = "#e8b931";
