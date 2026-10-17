@@ -4,6 +4,7 @@ import { buildMlbTonight, type MlbSlateGame } from "@/lib/mlbTonight";
 import { getConfirmedUniforms, mlbEtToday } from "@/lib/mlbConfirmed";
 import { buildNflWeekSlate } from "@/lib/nflWeekSlate";
 import { buildWinterIndex, nhlTeams } from "@/lib/winterTrackerIndex";
+import { getFeaturedSeries } from "@/lib/worldSeries";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -107,7 +108,10 @@ export function getTonight(now = new Date()): TonightLeague[] {
     const conf = getConfirmedUniforms(mlb.date);
     out.push({
       league: "MLB",
-      label: "Division Series",
+      // The round follows the postseason results file: ALCS until the AL
+      // champion is set, then World Series. ("Division Series" was hardcoded
+      // and still showed on ALCS Game 4, 10/17.)
+      label: getFeaturedSeries()?.kind ?? "Postseason",
       href: "/stories/mlb-uniform-tracker-2026",
       // A confirmed file marked "_expected": true holds our expected looks
       // (Jake's call during a rain delay), not team confirmations.
