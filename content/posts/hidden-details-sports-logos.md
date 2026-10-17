@@ -6,7 +6,14 @@ date: "2026-10-16"
 updatedDate: "2026-10-16"
 excerpt: "The hidden letters, secret numbers and real-life stories inside 23 famous sports logos. A glove made of two letters, a leaf that counts Stanley Cups, a fang dug up under a bank and a silhouette the NBA has never officially confirmed. Every detail confirmed by the team, the designer or the press."
 gradient: "linear-gradient(135deg, #013369 0%, #0B1A2F 60%, #D50A0A 140%)"
-cardStyle: words
+coverImage: "/images/posts/hidden-details-sports-logos/cover.jpg"
+coverImagePosition: "center 30%"
+coverImageFit: "cover"
+coverCredit:
+  author: "Erik Drost"
+  url: "https://commons.wikimedia.org/wiki/File:Ben_Roethlisberger_(51655005670).jpg"
+  license: "CC BY 2.0"
+  licenseUrl: "https://creativecommons.org/licenses/by/2.0"
 kicker: "Explained"
 logoSrc: "/logos/leagues/nfl.png"
 league: "nfl"
@@ -34,6 +41,9 @@ This follows our team-name history series. If you liked [How Every NFL Team Got 
 ### Pittsburgh Steelers: The Stars Are a Recipe
 
 <img src="/images/posts/hidden-details-sports-logos/nfl-pittsburgh-steelers.png" alt="Pittsburgh Steelers Steelmark logo with yellow, orange and blue hypocycloids" style="width:100%;max-width:220px;display:block;margin:1.2em auto;box-shadow:none;border-radius:0;" loading="lazy" decoding="async" />
+
+<img src="/images/posts/hidden-details-sports-logos/steelers-in-game.jpg" alt="Ben Roethlisberger in the Steelers' white road uniform with the yellow, orange and blue Steelmark on the side of his black helmet, against the Browns in Cleveland, October 31, 2021" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Ben_Roethlisberger_(51655005670).jpg" rel="nofollow noopener" target="_blank">Erik Drost</a> / <a href="https://creativecommons.org/licenses/by/2.0" rel="nofollow noopener" target="_blank">CC BY 2.0</a></p>
 
 Those aren't diamonds or stars. They're hypocycloids, and they come from the Steelmark, a symbol the American Iron and Steel Institute made for the steel industry. The Steelers say each color stands for something used to make steel: yellow for coal, orange for iron ore and blue for steel scrap. Republic Steel suggested the team wear it in 1962. Art Rooney Sr. then asked permission to change the word "Steel" to "Steelers."
 
@@ -71,11 +81,17 @@ The Titans' new logo, revealed March 12, 2026, puts three white stars around the
 
 <img src="/images/posts/hidden-details-sports-logos/mlb-milwaukee-brewers.png" alt="Milwaukee Brewers ball-in-glove logo" style="width:100%;max-width:220px;display:block;margin:1.2em auto;box-shadow:none;border-radius:0;" loading="lazy" decoding="async" />
 
+<img src="/images/posts/hidden-details-sports-logos/brewers-in-game.jpg" alt="Christian Yelich in the Brewers' gray road uniform with the navy-and-gold ball-in-glove logo on the front of his cap, in left field at Angel Stadium, June 18, 2024" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Yelich_5_61824.jpg" rel="nofollow noopener" target="_blank">Sewageboy</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="nofollow noopener" target="_blank">CC BY-SA 4.0</a></p>
+
 The most famous hidden detail in baseball. The fingers are a lowercase m and the thumb and pocket are a lowercase b: m for Milwaukee, b for Brewers. Tom Meindel, a 30-year-old art student at the University of Wisconsin-Eau Claire, drew it for a team contest in fall 1977 that drew 1,932 entries. He was paid $2,000. The logo was used from 1978 to 1993 and came back as the primary logo in 2020, just in time for this year's World Series run. [Milwaukee Brewers uniform schedule 2026](/stories/brewers-uniform-schedule-2026)
 
 ### New York Mets: Every Building Has a Job
 
 <img src="/images/posts/hidden-details-sports-logos/mlb-new-york-mets.png" alt="New York Mets logo" style="width:100%;max-width:220px;display:block;margin:1.2em auto;box-shadow:none;border-radius:0;" loading="lazy" decoding="async" />
+
+<img src="/images/posts/hidden-details-sports-logos/mets-in-game.jpg" alt="Pete Alonso in the Mets' royal blue jersey with the round skyline-and-bridge Mets logo patch on his left sleeve, playing first base during a spring training game against the Cardinals, March 25, 2023" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Pete_Alonso_playing_defense,_March_25,_2023_(6).jpg" rel="nofollow noopener" target="_blank">D. Benjamin Miller</a> / <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="nofollow noopener" target="_blank">CC0</a></p>
 
 The Mets' round logo, by sports cartoonist Ray Gotto, was unveiled November 16, 1961, and the skyline isn't random. From left: a church spire for Brooklyn, the "borough of churches," then the Williamsburgh Savings Bank, Brooklyn's tallest building at the time, then the Woolworth Building, midtown, the Empire State Building and the United Nations. The bridge in front stands for the Mets bringing the National League back to all five boroughs.
 
@@ -119,6 +135,9 @@ Plenty of people assume it's the Golden Gate. It isn't. The Warriors' logo has s
 
 <img src="/images/posts/hidden-details-sports-logos/nhl-toronto-maple-leafs.png" alt="Toronto Maple Leafs logo" style="width:100%;max-width:220px;display:block;margin:1.2em auto;box-shadow:none;border-radius:0;" loading="lazy" decoding="async" />
 
+<img src="/images/posts/hidden-details-sports-logos/maple-leafs-in-game.jpg" alt="Auston Matthews in the Maple Leafs' white road sweater with the blue leaf crest on the chest, skating with the puck against the Capitals in Washington, February 28, 2022" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:2022-02-28_Auston_Matthews.jpeg" rel="nofollow noopener" target="_blank">All-Pro Reels</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0" rel="nofollow noopener" target="_blank">CC BY-SA 2.0</a></p>
+
 Count them. The leaf the Maple Leafs introduced in 2016 has 31 points for 1931, the year Maple Leaf Gardens opened. It has 17 veins for 1917, the year the franchise was founded. And there are 13 veins at the top, one for each of the team's 13 Stanley Cups. If Toronto ever wins a 14th, the leaf will be out of date. [Toronto Maple Leafs uniform schedule 2026-27](/stories/maple-leafs-uniform-schedule-2026-27)
 
 ### Hartford Whalers: The H Was a Bonus
@@ -129,11 +148,17 @@ The best hidden letter in sports belongs to a team that doesn't exist anymore. P
 
 <img src="/images/posts/hidden-details-sports-logos/nhl-nashville-predators.png" alt="Nashville Predators saber-toothed cat logo" style="width:100%;max-width:220px;display:block;margin:1.2em auto;box-shadow:none;border-radius:0;" loading="lazy" decoding="async" />
 
+<img src="/images/posts/hidden-details-sports-logos/predators-in-game.jpg" alt="Filip Forsberg in the Predators' white road sweater with the gold saber-toothed cat crest on the chest, during a game against the Capitals in Washington, February 5, 2026" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Forsberg2026.jpg" rel="nofollow noopener" target="_blank">The Kip</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="nofollow noopener" target="_blank">CC BY-SA 4.0</a></p>
+
 The Predators' saber-toothed cat is based on a real one. In 1971, workers digging the foundation of the First American National Bank building in downtown Nashville found a cave with a nine-inch fang and a foreleg bone of a saber-toothed cat, extinct for at least 10,000 years. The team unveiled its logo in that same building on September 25, 1997, 26 years later. [Nashville Predators uniform schedule 2026-27](/stories/predators-uniform-schedule-2026-27)
 
 ### Minnesota Wild: A Forest, or an Animal
 
 <img src="/images/posts/hidden-details-sports-logos/nhl-minnesota-wild.png" alt="Minnesota Wild logo" style="width:100%;max-width:220px;display:block;margin:1.2em auto;box-shadow:none;border-radius:0;" loading="lazy" decoding="async" />
+
+<img src="/images/posts/hidden-details-sports-logos/wild-in-game.jpg" alt="Joel Eriksson Ek and Kirill Kaprizov in the Wild's white road sweaters with the forest-and-animal-head crest on the chest and round Minnesota Wild patches on the shoulders, at Climate Pledge Arena in Seattle, December 10, 2023" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Joel_Eriksson_Ek_and_Kirill_Kaprizov.jpg" rel="nofollow noopener" target="_blank">Jenn G</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0" rel="nofollow noopener" target="_blank">CC BY-SA 2.0</a></p>
 
 Look at it one way and the Wild logo is a Minnesota landscape: pine trees, a winding river, a shooting star and a sun setting in a red sky. Look again and it's an animal's head, with an eye, a nose, a mouth and an ear all drawn from the scene. NHL.com says the animal isn't a bear, as many people think. It's meant to be a generic wild animal. [Minnesota Wild uniform schedule 2026-27](/stories/minnesota-wild-uniform-schedule-2026-27)
 
@@ -141,11 +166,17 @@ Look at it one way and the Wild logo is a Minnesota landscape: pine trees, a win
 
 <img src="/images/posts/hidden-details-sports-logos/nhl-vegas-golden-knights.png" alt="Vegas Golden Knights helmet logo" style="width:100%;max-width:220px;display:block;margin:1.2em auto;box-shadow:none;border-radius:0;" loading="lazy" decoding="async" />
 
+<img src="/images/posts/hidden-details-sports-logos/golden-knights-in-game.jpg" alt="Golden Knights goalie Robin Lehner in the black sweater with the gold-and-black knight's helmet crest on the chest, in net with more helmet logos on the boards behind him, January 6, 2022" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Las_Vegas_Golden_Knights_Goalie_Robin_Lehner_(51804963931).jpg" rel="nofollow noopener" target="_blank">slgckgc</a> / <a href="https://creativecommons.org/licenses/by/2.0" rel="nofollow noopener" target="_blank">CC BY 2.0</a></p>
+
 Look at the dark space in the middle of the helmet. The eye slits and the gap below them form a V for Vegas. The team revealed it in November 2016, and The Hockey News pointed out it was the same negative-space trick that made the Whalers' H famous. [Vegas Golden Knights uniform schedule 2026-27](/stories/golden-knights-uniform-schedule-2026-27)
 
 ### Montreal Canadiens: The H Isn't for Habitants
 
 <img src="/images/posts/hidden-details-sports-logos/nhl-montreal-canadiens.png" alt="Montreal Canadiens CH logo" style="width:100%;max-width:220px;display:block;margin:1.2em auto;box-shadow:none;border-radius:0;" loading="lazy" decoding="async" />
+
+<img src="/images/posts/hidden-details-sports-logos/canadiens-in-game.jpg" alt="Canadiens goalie Jakub Dobeš in the white road sweater with the red, white and blue CH crest on the chest, with Nick Suzuki beside the crease, at Climate Pledge Arena in Seattle, March 12, 2025" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Nick_Suzuki_and_Jakub_Dobeš.jpg" rel="nofollow noopener" target="_blank">Jenn G</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0" rel="nofollow noopener" target="_blank">CC BY-SA 2.0</a></p>
 
 The CH stands for Club de hockey Canadien, the team's official name, and it has been on the sweater since 1917. The H means hockey. The "Habitants" story is a myth that The Canadian Encyclopedia traces to Madison Square Garden owner Tex Rickard, who told a reporter in 1924 that the H stood for habitant. The nickname "Habs" stuck anyway. [Montreal Canadiens uniform schedule 2026-27](/stories/canadiens-uniform-schedule-2026-27)
 
@@ -153,11 +184,17 @@ The CH stands for Club de hockey Canadien, the team's official name, and it has 
 
 <img src="/images/posts/hidden-details-sports-logos/nhl-seattle-kraken.png" alt="Seattle Kraken S logo" style="width:100%;max-width:220px;display:block;margin:1.2em auto;box-shadow:none;border-radius:0;" loading="lazy" decoding="async" />
 
+<img src="/images/posts/hidden-details-sports-logos/kraken-in-game.jpg" alt="Jordan Eberle in the Kraken's ice blue sweater with the big navy S crest, its tentacle curling through the middle of the letter, January 22, 2023" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Jordan_Eberle_with_the_Seattle_Kraken_(1).jpg" rel="nofollow noopener" target="_blank">Jenn G</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0" rel="nofollow noopener" target="_blank">CC BY-SA 2.0</a></p>
+
 The Kraken's S borrows its shape from the Seattle Metropolitans, who in 1917 became the first American team to win the Stanley Cup. Look closer and the S isn't just a letter. NHL.com described it at the reveal as an S like the Metropolitans' logo, "but with a tentacle and red eye." The tentacle curls through the middle of the letter, and the single red spot is the Kraken's eye. The team revealed it July 23, 2020, with adidas. [Seattle Kraken uniform schedule 2026-27](/stories/seattle-kraken-uniform-schedule-2026-27)
 
 ### Washington Capitals: A Stick, a Puck and Three Stars
 
 <img src="/images/posts/hidden-details-sports-logos/nhl-washington-capitals.png" alt="Washington Capitals script logo with three stars" style="width:100%;max-width:220px;display:block;margin:1.2em auto;box-shadow:none;border-radius:0;" loading="lazy" decoding="async" />
+
+<img src="/images/posts/hidden-details-sports-logos/capitals-in-game.jpg" alt="Alex Ovechkin in the Capitals' red home sweater with the Capitals script and three stars across the chest, against the Devils in Washington, January 2, 2022" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Alex_Ovechkin_1.jpg" rel="nofollow noopener" target="_blank">All-Pro Reels</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0" rel="nofollow noopener" target="_blank">CC BY-SA 2.0</a></p>
 
 Check the t in the Capitals' script logo, which came back in 2007. The team says it's a hockey stick, with a puck at the end, just like on the original 1970s jerseys. The three stars above it stand for Maryland, Virginia and Washington, D.C., the three parts of the Capitals' market. They're also a nod to hockey's three stars of the game. [Washington Capitals uniform schedule 2026-27](/stories/capitals-uniform-schedule-2026-27)
 
