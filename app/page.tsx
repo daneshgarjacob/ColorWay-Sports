@@ -1,6 +1,8 @@
 import Header from "@/components/Header";
 import NflWeekZone from "@/components/NflWeekZone";
 import MlbUniformsZone from "@/components/MlbUniformsZone";
+import WorldSeriesZone from "@/components/WorldSeriesZone";
+import { getWorldSeries } from "@/lib/worldSeries";
 import NhlUniformsZone from "@/components/NhlUniformsZone";
 import StoryCard from "@/components/StoryCard";
 import {
@@ -42,6 +44,7 @@ const PIN_DAYS = 3;
 const FRESH_DAYS = 2;
 
 export default function Home() {
+  const worldSeriesOn = getWorldSeries() !== null;
   const posts = getAllPosts();
   const filtered = posts.filter((p) => !TRACKER_SLUGS.has(p.slug));
 
@@ -378,8 +381,11 @@ export default function Home() {
         </section>
 
         {/* League tools move below the editorial top half */}
+        {/* Jake 10/16: once the World Series is set, its band leads, above NFL,
+            and replaces the postseason MLB band. */}
+        {worldSeriesOn && <WorldSeriesZone />}
         <NflWeekZone />
-        <MlbUniformsZone />
+        {!worldSeriesOn && <MlbUniformsZone />}
         <NhlUniformsZone />
       </main>
       <Footer />
