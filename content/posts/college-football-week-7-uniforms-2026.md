@@ -3,6 +3,7 @@ title: "College Football Week 7 Uniforms 2026: Cal's Grateful Dead Helmets, Coas
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-16"
+updatedDate: "2026-10-17"
 excerpt: "College football Week 7 uniforms: Cal's Grateful Dead helmet, Coastal Carolina's '90s night, Oklahoma's Bud Wilkinson throwback, Utah's icy white, Stanford's throwback helmet and every Top 25 look."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -14,7 +15,7 @@ resurfaceOnUpdate: true
 
 Week 7 of the 2026 college football season is the best uniform week of the year so far, and most of the big looks were posted before Thursday night. **Cal wears a Grateful Dead helmet against No. 21 Wake Forest** for its Grateful Bears game, **Coastal Carolina goes full 1990s on Friday night against App State**, and **Oklahoma brings back its Bud Wilkinson era throwback against No. 15 Kentucky**, which is wearing a black helmet and black pants of its own. No. 11 Utah runs back its icy white set at Colorado, Stanford breaks out its throwback helmet for Reunion Homecoming, Ole Miss puts a Realtree camo helmet on against No. 13 Missouri, and Alabama and Tennessee meet in home colors for the first time since 1970. On top of that, No. 4 Ohio State visits No. 5 Indiana, No. 2 Notre Dame goes to No. 8 BYU and Florida State visits No. 3 Miami.
 
-Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post their combination between Monday and game day, so expect more Expected tags to flip to Confirmed by Saturday morning. We update this page as each school posts. The rankings below are from this week's AP poll. All times are Eastern. Last week's looks and final scores are in our [Week 6 uniform guide](/stories/college-football-week-6-uniforms-2026).
+Below is every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it, and **Expected** when it has not, in which case we give the set the program normally wears in that spot. Most schools post their combination between Monday and game day, and on Saturday we confirm the rest from the game broadcasts and team photos, then add final scores. The rankings below are from this week's AP poll. All times are Eastern. Last week's looks and final scores are in our [Week 6 uniform guide](/stories/college-football-week-6-uniforms-2026).
 
 ## Games of the Week
 
@@ -39,7 +40,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Our take:** we love it, and it is a little funny. Coastal Carolina did not play football in the 1990s. The program played its first season in 2003 and moved up to FBS in 2017. So this is not a throwback to anything the Chanticleers wore. It is a tribute to a decade, the Trapper Keeper and the Saturday morning lineup, and it is exactly the kind of swing a Friday night on ESPN2 is for. Keeping teal on the helmet and pants stops it from looking like a costume.
 
-**App State: Confirmed**, black helmet, black jersey, gold pants, from the team's Splash Warning post. More: [Coastal Carolina schedule](/stories/coastal-carolina-uniform-schedule-2026) and [App State schedule](/stories/appalachian-state-uniform-schedule-2026).
+**App State: Confirmed**, black helmet, black jersey, gold pants, from the team's Splash Warning post. App State spoiled the party, 35-32. More: [Coastal Carolina schedule](/stories/coastal-carolina-uniform-schedule-2026) and [App State schedule](/stories/appalachian-state-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CoastalFootball/status/2109787043555402002"></a></blockquote>
@@ -84,7 +85,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 13 Missouri at No. 9 Ole Miss: Realtree in Oxford
 
-**Saturday, 3:30 p.m., SEC Network.** **Ole Miss: Confirmed, Realtree helmet.** Ole Miss posted "Rockin' RealTree" on Thursday: a gray and white camo helmet with the Ole Miss script and a red and navy stripe, a red jersey and gray pants. The crowd has been asked to wear white. **Missouri: Expected in white.** More: [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026) and [Missouri schedule](/stories/missouri-uniform-schedule-2026).
+**Saturday, 3:30 p.m., SEC Network.** **Ole Miss: Confirmed, Realtree helmet.** Ole Miss posted "Rockin' RealTree" on Thursday: a gray and white camo helmet with the Ole Miss script and a red and navy stripe, a red jersey and gray pants. The crowd has been asked to wear white. **Missouri: Confirmed**, gold helmet, white jersey and gold pants, from the game broadcast. More: [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026) and [Missouri schedule](/stories/missouri-uniform-schedule-2026).
 
 ## Alternates and Special Looks This Week
 
@@ -127,52 +128,52 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **[Memphis](/stories/memphis-uniform-schedule-2026) at [Tulane](/stories/tulane-uniform-schedule-2026)**, 7:30 p.m., ESPN.
 - Memphis: **Confirmed**, blue helmet with the tiger stripe, white jersey with tiger-striped sleeves, blue pants.
-- Tulane: **Confirmed**, green helmet, green jersey, white pants, as posted.
+- Tulane: **Confirmed**, green helmet, green jersey, white pants, as posted. **Tulane 31, Memphis 17.**
 
 **[Washington](/stories/washington-huskies-uniform-schedule-2026) at [Purdue](/stories/purdue-uniform-schedule-2026)**, 8 p.m., FOX.
-- Washington: **Expected**, white.
-- Purdue: **Expected**, black. Purdue has asked the crowd to wear black.
+- Washington: **Confirmed**, gold helmet, white jersey, purple pants, from the team's game photos. **Washington 38, Purdue 26.**
+- Purdue: **Confirmed**, all black: black helmet, black jersey, black pants, from the team's game photos, with the crowd asked to wear black too.
 
 **App State at Coastal Carolina**, 8 p.m., ESPN2.
 - [App State](/stories/appalachian-state-uniform-schedule-2026): **Confirmed**, black helmet, black jersey, gold pants.
-- [Coastal Carolina](/stories/coastal-carolina-uniform-schedule-2026): **Confirmed**, the '90s uniform. See above.
+- [Coastal Carolina](/stories/coastal-carolina-uniform-schedule-2026): **Confirmed**, the '90s uniform. See above. **App State 35, Coastal Carolina 32.**
 
 ### Saturday, October 17: Noon Window
 
 **No. 4 [Ohio State](/stories/ohio-state-uniform-schedule-2026) at No. 5 [Indiana](/stories/indiana-uniform-schedule-2026)**, noon, FOX.
-- Ohio State: **Expected**, white on the road.
-- Indiana: **Expected**, crimson. Indiana has asked fans to wear crimson for the biggest home game on its schedule.
+- Ohio State: **Confirmed**, the core road look: silver helmet, white jersey, gray pants, from ESPN's game photos. **Ohio State 19, Indiana 15.**
+- Indiana: **Confirmed**, crimson helmet, crimson jersey, white pants, with the crowd in crimson for the biggest home game on its schedule.
 
 **[Florida](/stories/florida-uniform-schedule-2026) at No. 7 [Texas](/stories/texas-uniform-schedule-2026)**, noon, ABC.
-- Florida: **Confirmed** from its published season schedule: orange helmet, white jersey, blue pants.
-- Texas: **Expected**, burnt orange at home.
+- Florida: **Confirmed**, blue helmet, white jersey, blue pants. Florida's published season schedule had listed the orange helmet for this trip, but the Gators came out in the blue helmet. **Florida 27, Texas 24.**
+- Texas: **Confirmed**, white helmet, burnt orange jersey, white pants, from the game broadcast.
 
 **No. 16 [Mississippi State](/stories/mississippi-state-uniform-schedule-2026) at No. 22 [LSU](/stories/lsu-uniform-schedule-2026)**, noon, ESPN.
-- Mississippi State: **Confirmed**, maroon helmet, maroon jersey, white pants. LSU wears white at home, so the visitor wears color in Tiger Stadium.
-- LSU: **Expected**, home white with the gold helmet.
+- Mississippi State: **Confirmed**, maroon helmet, maroon jersey, white pants. LSU wears white at home, so the visitor wears color in Tiger Stadium. **LSU 31, Mississippi State 0.**
+- LSU: **Confirmed**, gold helmet, white jersey, gold pants, from the game broadcast.
 
 **[Virginia](/stories/virginia-uniform-schedule-2026) at No. 24 [SMU](/stories/smu-uniform-schedule-2026)**, noon, The CW.
 - Virginia: **Confirmed**, all white: white helmet, white jersey, white pants.
-- SMU: **Confirmed**, the classic look: white helmet, blue jersey, white pants, for the Salute to Service and Hall of Fame game.
+- SMU: **Confirmed**, the classic look: white helmet, blue jersey, white pants, for the Salute to Service and Hall of Fame game. **SMU 23, Virginia 13.**
 
 **No. 25 [Northwestern](/stories/northwestern-uniform-schedule-2026) at [Michigan State](/stories/michigan-state-uniform-schedule-2026)**, noon, Peacock.
-- Northwestern: **Confirmed**, black helmet with the purple N, white jersey, black pants.
-- Michigan State: **Expected**, green.
+- Northwestern: **Confirmed**, black helmet with the purple N, white jersey, black pants. **Northwestern 24, Michigan State 21.**
+- Michigan State: **Confirmed**, green head to toe: green helmet with the Gruff Sparty logo back on the side, green jersey, green pants, from the team's game photos.
 
 **[Cincinnati](/stories/cincinnati-uniform-schedule-2026) at [West Virginia](/stories/west-virginia-uniform-schedule-2026)**, noon, TNT.
 - Cincinnati: **Confirmed**, red helmet, white jersey, red pants.
-- West Virginia: **Expected**, navy or gold for Homecoming and Stripe the Stadium.
+- West Virginia: **Expected**, navy or gold for Homecoming and Stripe the Stadium. **West Virginia 45, Cincinnati 42.**
 
 **[Kansas](/stories/kansas-uniform-schedule-2026) at [Kansas State](/stories/kansas-state-uniform-schedule-2026)**, noon, FS1.
-- Kansas: **Expected**, white.
-- Kansas State: **Expected**, purple for the Sunflower Showdown.
+- Kansas: **Confirmed**, all white: white helmet, white jersey, white pants, from the team's game photos.
+- Kansas State: **Confirmed**, silver Powercat helmet and purple jersey for the Sunflower Showdown, from the game photos. **Kansas State 35, Kansas 24.**
 
 **Charleston Southern at [Clemson](/stories/clemson-uniform-schedule-2026)**, noon, ACC Network.
-- Clemson: **Confirmed**, orange helmet, purple jersey, purple pants for Military Appreciation.
+- Clemson: **Confirmed**, orange helmet, purple jersey, purple pants for Military Appreciation. **Clemson 37, Charleston Southern 0.**
 
 **[Pitt](/stories/pitt-uniform-schedule-2026) at [Boston College](/stories/boston-college-uniform-schedule-2026)**, noon, ESPN2.
-- Pitt: **Expected**, white.
-- Boston College: **Confirmed**, gold helmet, maroon jersey, gold pants, with the Soar High collar and eagle head shoulders. See the list above.
+- Pitt: **Confirmed**, all white: white helmet, white jersey, white pants, from the game broadcast.
+- Boston College: **Confirmed**, gold helmet, maroon jersey, gold pants, with the Soar High collar and eagle head shoulders. See the list above. **Boston College 27, Pitt 21.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BCFootball/status/2110722848998510963"></a></blockquote>
@@ -180,33 +181,33 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Florida Atlantic at [Army](/stories/army-uniform-schedule-2026)**, noon, CBSSN.
 - Florida Atlantic: **Confirmed**, all white.
-- Army: **Confirmed**, black and gold: the team's post codes it as black helmet, black jersey, gold pants.
+- Army: **Confirmed**, black and gold: the team's post codes it as black helmet, black jersey, gold pants. **Army 56, Florida Atlantic 24.**
 
 **Georgia State at [James Madison](/stories/james-madison-uniform-schedule-2026)**, noon, ESPNU.
-- James Madison: **Expected**, purple for Homecoming, the most likely home date for an alternate.
+- James Madison: **Confirmed**, gold helmet, purple jersey, purple pants for Homecoming, from the game broadcast. **James Madison 49, Georgia State 22.**
 
 **[Rutgers](/stories/rutgers-uniform-schedule-2026) at [Maryland](/stories/maryland-uniform-schedule-2026)**, 12:30 p.m., BTN.
-- Rutgers: **Expected**, white.
-- Maryland: **Expected**, red for Homecoming and the Retro Red Out. The retro part is the rally towel the first 10,000 fans get, not a throwback uniform.
+- Rutgers: **Confirmed**, all white: white helmet, white jersey, white pants, from the game broadcast.
+- Maryland: **Confirmed**, all red: red helmet, red jersey, red pants for Homecoming and the Retro Red Out. The retro part is the rally towel the first 10,000 fans get, not a throwback uniform.
 
 ### Also on the Early Slate
 
-- **The Citadel at [Texas A&M](/stories/texas-am-uniform-schedule-2026)**, 1 p.m., SECN+. Texas A&M **Expected** in maroon.
-- **Charlotte at [Temple](/stories/temple-uniform-schedule-2026)**, 1 p.m., ESPN+. Temple **Expected** in cherry.
-- **UMass at [Buffalo](/stories/buffalo-uniform-schedule-2026)**, 1 p.m., ESPN+. Buffalo **Expected** in blue for the Flagship Cup.
+- **The Citadel at [Texas A&M](/stories/texas-am-uniform-schedule-2026)**, 1 p.m., SECN+. Texas A&M **Confirmed** in a maroon helmet, maroon jersey and white pants, from the game broadcast.
+- **Charlotte at [Temple](/stories/temple-uniform-schedule-2026)**, 1 p.m., ESPN+. Temple **Confirmed** in cherry head to toe: cherry helmet, cherry jersey, cherry pants, from the game broadcast.
+- **UMass at [Buffalo](/stories/buffalo-uniform-schedule-2026)**, 1 p.m., ESPN+. Buffalo **Confirmed** in blue head to toe for the Flagship Cup: blue helmet, blue jersey, blue pants, from the game broadcast.
 
 ### Saturday, October 17: Afternoon Window
 
 **Auburn at No. 1 Georgia**, 3:30 p.m., ESPN.
 - [Auburn](/stories/auburn-uniform-schedule-2026): **Confirmed**, all white: white helmet, white jersey, white pants, from its Game Six uniform graphic.
-- [Georgia](/stories/georgia-uniform-schedule-2026): **Expected**, red helmet, red jersey, silver pants.
+- [Georgia](/stories/georgia-uniform-schedule-2026): **Confirmed**, red helmet and red jersey with the light home pants, from the game broadcast.
 
 **No. 6 Alabama at No. 14 Tennessee**, 3:30 p.m., ABC.
 - [Alabama](/stories/alabama-uniform-schedule-2026): **Confirmed**, crimson, by agreement. See above.
 - [Tennessee](/stories/tennessee-uniform-schedule-2026): **Confirmed**, orange. See above.
 
 **No. 13 Missouri at No. 9 Ole Miss**, 3:30 p.m., SEC Network.
-- [Missouri](/stories/missouri-uniform-schedule-2026): **Expected**, white.
+- [Missouri](/stories/missouri-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants, from the game broadcast.
 - [Ole Miss](/stories/ole-miss-uniform-schedule-2026): **Confirmed**, Realtree helmet, red jersey, gray pants. See above.
 
 **[Arizona State](/stories/arizona-state-uniform-schedule-2026) at No. 10 [Texas Tech](/stories/texas-tech-uniform-schedule-2026)**, 3:30 p.m., FOX.
@@ -214,11 +215,11 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - Texas Tech: **Confirmed**, black helmet, red jersey, white pants for Homecoming, honoring the 1976 team.
 
 **[Georgia Tech](/stories/georgia-tech-uniform-schedule-2026) at [Virginia Tech](/stories/virginia-tech-uniform-schedule-2026)**, 3:30 p.m., ACC Network.
-- Georgia Tech: **Expected**, white.
-- Virginia Tech: **Expected**, maroon.
+- Georgia Tech: **Confirmed**, gold helmet, white jersey, white pants, from the game broadcast.
+- Virginia Tech: **Confirmed**, maroon head to toe: maroon helmet, maroon jersey, maroon pants, from the game broadcast.
 
 **[North Carolina](/stories/north-carolina-uniform-schedule-2026) at [Duke](/stories/duke-uniform-schedule-2026)**, 3:30 p.m., ESPN2.
-- North Carolina: **Expected**, white.
+- North Carolina: **Confirmed**, Carolina blue helmet, white jersey, Carolina blue pants, from the game broadcast.
 - Duke: **Confirmed**, "Back in Blue": white helmet, royal blue jersey, white pants, for the Victory Bell, a week after going all black at Georgia Tech.
 
 **[Penn State](/stories/penn-state-uniform-schedule-2026) at [Michigan](/stories/michigan-uniform-schedule-2026)**, 3:30 p.m., CBS.
@@ -238,7 +239,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **[Tulsa](/stories/tulsa-uniform-schedule-2026) at [Rice](/stories/rice-uniform-schedule-2026)**, 4:30 p.m., ESPN+.
 - Tulsa: **Confirmed**, "the return of the gold lids": gold helmet with the blue Tulsa script, white jersey, gold pants.
-- Rice: **Expected**, blue.
+- Rice: **Confirmed**, navy blue head to toe: navy helmet, navy jersey, navy pants, from the game broadcast.
 
 **[Troy](/stories/troy-uniform-schedule-2026) at [Louisiana](/stories/louisiana-uniform-schedule-2026)**, 5 p.m., ESPN+.
 - Troy: **Expected**, white.
@@ -308,11 +309,11 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - **No. 21 Wake Forest at Cal**, 10:30 p.m., ESPN2. [Cal](/stories/cal-uniform-schedule-2026) **Confirmed** in the Grateful Dead helmet, blue jersey and gold pants. [Wake Forest](/stories/wake-forest-uniform-schedule-2026) **Confirmed** in a gloss black helmet, white jersey and black pants. See above.
 - **[Fresno State](/stories/fresno-state-uniform-schedule-2026) at [San Diego State](/stories/san-diego-state-uniform-schedule-2026)**, 10:30 p.m., CBSSN. The Battle for the Old Oil Can on San Diego State's Homecoming. San Diego State **Expected** in black, Fresno State **Expected** in white.
 - **New Mexico at [Hawaii](/stories/hawaii-uniform-schedule-2026)**, 10:30 p.m., FS1. Hawaii **Expected** in black for Homecoming.
-- **[Nebraska](/stories/nebraska-uniform-schedule-2026) at [Oregon](/stories/oregon-uniform-schedule-2026)**, 11 p.m., FOX. Oregon **Confirmed** in a green chrome helmet and black jersey, with the team's post coding the set as green, black, green. Nebraska **Expected** in white.
+- **[Nebraska](/stories/nebraska-uniform-schedule-2026) at [Oregon](/stories/oregon-uniform-schedule-2026)**, 11 p.m., FOX. Oregon **Confirmed** in a green chrome helmet with black wings, the black Fly Era jersey and bright green pants, with the team's post coding the set as green, black, green. Nebraska **Expected** in white.
 
 ## The Bottom Line
 
-This is the week college football remembered uniforms are supposed to be fun. Cal's Grateful Dead helmet is the best special helmet of the season so far because it keeps Cal's own blue and gold and lets the stealie, the bolt and the dancing bears do the talking. Coastal Carolina is honoring a decade it never played in, and we are fine with that on a Friday night. Oklahoma's Bud Wilkinson throwback against Kentucky's black helmet and black pants is the best contrast of styles on the board, Stanford's small S and gray mask earned an A- from us, and Alabama in crimson at Tennessee is a picture this rivalry has not had since 1970. A handful of big programs, Ohio State, Indiana, Texas, Georgia and Notre Dame among them, have not posted yet, and we flip each one on this page as they do, then add final scores after the games.
+This is the week college football remembered uniforms are supposed to be fun. Cal's Grateful Dead helmet is the best special helmet of the season so far because it keeps Cal's own blue and gold and lets the stealie, the bolt and the dancing bears do the talking. Coastal Carolina is honoring a decade it never played in, and we are fine with that on a Friday night. Oklahoma's Bud Wilkinson throwback against Kentucky's black helmet and black pants is the best contrast of styles on the board, Stanford's small S and gray mask earned an A- from us, and Alabama in crimson at Tennessee is a picture this rivalry has not had since 1970. The noon window is in the books: Ohio State wore its silver helmet and road whites and won 19-15 at Indiana, and Florida came out in the blue helmet, not the orange one its season schedule listed, and won 27-24 at Texas. We are flipping the afternoon and night games from Expected to Confirmed as the broadcasts and team photos come in, and adding final scores as each game ends.
 
 ## Frequently Asked Questions
 

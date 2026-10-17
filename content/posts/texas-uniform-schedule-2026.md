@@ -3,7 +3,7 @@ title: "Texas Uniform Schedule 2026: Every Jersey and When the Longhorns Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-17"
 excerpt: "What Texas wears every game in 2026. Burnt orange at home, the icy whites on the road, and why the Longhorns are one of the few programs that refuse alternates."
 gradient: "linear-gradient(135deg, #BF5700 0%, #2a1607 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -37,7 +37,7 @@ Twelve games, zero alternates, and the most predictable wardrobe in college foot
   <div style="background: #ffffff; color: #BF5700; border: 2px solid #BF5700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Open</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #ffffff; color: #BF5700; border: 2px solid #BF5700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
-  <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
+  <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Burnt Orange</div></div>
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Icy Whites</div></div>
@@ -58,7 +58,7 @@ Twelve games, zero alternates, and the most predictable wardrobe in college foot
 
 **October 10 vs. Oklahoma**, Cotton Bowl, Dallas. The Red River rivalry at a neutral site, with Oklahoma the designated home team. ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**, the all-white look Texas has traditionally taken in Dallas. Oklahoma wore the crimson helmet with the white interlocking OU, a crimson jersey and white pants. Texas led 17-7 at halftime, but Oklahoma scored 17 in the fourth quarter, with a Peyton Bowen pick-six putting the Sooners ahead, and won 27-24. It is the first loss of the season for Texas, now 4-1. More: [Oklahoma uniform schedule](/stories/oklahoma-uniform-schedule-2026).
 
-**October 17 vs. Florida**, Austin. Burnt orange.
+**October 17 vs. Florida**, Austin. ★ Confirmed: **white helmet, burnt orange jersey, white pants**, the standard home look. Florida wore a blue helmet, white jersey and blue pants. Florida won 27-24, and Texas fell to 4-2. More: [Florida uniform schedule](/stories/florida-uniform-schedule-2026).
 
 **October 24 vs. Ole Miss**, Austin. Burnt orange.
 
@@ -86,7 +86,7 @@ For more, see our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-sc
 
 **What jersey is Texas wearing this week?**
 
-Texas wore all white, white helmet, white jersey and white pants, against Oklahoma at the Cotton Bowl on Saturday, October 10, confirmed from the broadcast. Oklahoma won 27-24, and Texas is 4-1. Next is Florida in Austin on October 17, in burnt orange. Texas wears burnt orange at home and the all-white icy whites on the road. The exception left to watch is the November 14 trip to LSU.
+Texas wore the white helmet, burnt orange jersey and white pants against Florida in Austin on Saturday, October 17. Florida won 27-24, and Texas is 4-2. The week before, Texas wore all white against Oklahoma at the Cotton Bowl. Texas wears burnt orange at home and the all-white icy whites on the road. The exception left to watch is the November 14 trip to LSU.
 
 **Does Texas have alternate uniforms in 2026?**
 
