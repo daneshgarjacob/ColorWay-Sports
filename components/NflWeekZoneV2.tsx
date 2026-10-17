@@ -1,7 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import { buildNflWeekSlate, type SlateGame, type SlateSide } from "@/lib/nflWeekSlate";
-import { getNflWeekChips, getNflWeekStats } from "@/lib/nflWeek";
 
 // NFL band, v2 (Jake 10/16: "as polished as the ALCS band"). Built from the
 // same week slate as the schedule hub: a dark game-of-the-week hero, every game
@@ -57,7 +56,9 @@ function GameCard({ g }: { g: SlateGame }) {
             </span>
             <span className="flex items-center gap-1.5 text-[11.5px] text-[#5f7085] min-w-0">
               <Swatch s={s} />
-              <span className="truncate">{s.uniform}</span>
+              {/* Jake 10/17: tease, don't answer. The look itself lives on the
+                  team's schedule post (an article with ads), one tap away. */}
+              <span className="truncate group-hover:text-orange">See the full look →</span>
               {sideConfirmed(s) && <span className="text-[#2f6bed]">★</span>}
             </span>
           </span>
@@ -71,8 +72,6 @@ function GameCard({ g }: { g: SlateGame }) {
 export default function NflWeekZoneV2() {
   const slate = buildNflWeekSlate(new Date());
   if (!slate || slate.games.length < 5) return null;
-  const chips = getNflWeekChips(slate.week);
-  const stats = getNflWeekStats(chips);
 
   const open = slate.games.filter((g) => !g.score);
   const hero = open.find((g) => isPrime(g) && g.away) ?? open.find((g) => g.away) ?? slate.games[0];
@@ -127,10 +126,7 @@ export default function NflWeekZoneV2() {
       {s && <img src={s.team.logo} alt="" className="h-12 w-12 sm:h-16 sm:w-16 rounded-xl bg-white p-1.5 object-contain flex-none" />}
       <div className="min-w-0">
         <div className="text-[18px] sm:text-[26px] font-extrabold leading-tight truncate">{s?.team.nickname ?? name}</div>
-        <div className="text-[12px] text-[#aab6cc]">
-          {s?.uniform}
-          {s && sideConfirmed(s) ? " ★" : ""}
-        </div>
+        <div className="text-[12px] text-[#aab6cc]">{s && sideConfirmed(s) ? "★ Announced" : "Look TBA"}</div>
       </div>
       {s && (
         <span className="hidden sm:inline-flex">
@@ -161,8 +157,8 @@ export default function NflWeekZoneV2() {
           </Link>
         </div>
         <p className="-mt-2 text-[13px] text-[#5f7085] max-w-[70ch]">
-          What every team is wearing this week, game by game. ★ means the team announced it; the rest follow the
-          standard home and road rotation until the team confirms.
+          Every game this week, with each team&apos;s colors. Tap a team for its full look and season schedule. ★ means
+          the team announced it.
         </p>
 
         {/* Game of the week */}
@@ -178,20 +174,14 @@ export default function NflWeekZoneV2() {
             </div>
             {heroSide(hero.home, hero.home.team.nickname, true)}
           </div>
-          <div className="grid grid-cols-2 sm:grid-cols-5 gap-2">
-            {[
-              { v: `${stats.homeColor} of ${stats.homeTotal}`, k: "Color at home" },
-              { v: `${stats.alternates}`, k: "Alternates & specials" },
-              { v: `${stats.colorVsColor}`, k: "Color vs color" },
-              { v: `${slate.confirmedSides} of ${slate.totalSides}`, k: "Looks confirmed" },
-              { v: `${slate.byes.length}`, k: "Teams on bye" },
-            ].map((s) => (
-              <div key={s.k} className="rounded-[10px] border border-white/10 bg-white/[.03] px-3 py-2.5">
-                <div className="text-[20px] font-black tabular-nums">{s.v}</div>
-                <div className="text-[10px] uppercase tracking-[0.12em] text-[#aab6cc]">{s.k}</div>
-              </div>
-            ))}
-          </div>
+          <Link
+            prefetch={false}
+            href={`/stories/nfl-week-${slate.week}-uniforms-2026`}
+            className="self-center rounded-full px-5 py-2 text-[13px] font-bold text-[#0d1a33] hover:opacity-90"
+            style={{ background: GOLD }}
+          >
+            See both uniforms →
+          </Link>
           <div className="absolute inset-x-0 bottom-0 h-1" style={{ background: `linear-gradient(90deg, ${GOLD}, #f5d76e, ${GOLD})` }} />
         </div>
 
@@ -210,7 +200,7 @@ export default function NflWeekZoneV2() {
             </div>
           ))}
           <p className="text-[11.5px] text-[#5f7085]">
-            Blue edge = both looks announced. ★ = announced by the team. Swatches show jersey over pants.
+            Blue edge = both looks announced. ★ = announced by the team. Swatches show jersey over pants once a look is known.
             {slate.byes.length > 0 && <> On bye: {slate.byes.map((b) => b.nickname).join(", ")}.</>}
           </p>
         </div>
