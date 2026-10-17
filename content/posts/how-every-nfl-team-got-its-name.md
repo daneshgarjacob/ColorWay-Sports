@@ -57,7 +57,7 @@ Owner Billy Sullivan ran a fan contest in 1960, and "Patriots" was the pick for 
 
 ### New York Jets
 
-This team started as the New York Titans in 1960. A group led by Sonny Werblin bought the club in 1963 and renamed it the Jets on April 15, 1963. Their new home, Shea Stadium, sat between LaGuardia and Idlewild (now JFK) airports, right at the start of the jet age. The new owners also switched from navy and gold to green and white. A club spokesman said green stood for "hope, freshness and high spirits." [New York Jets uniform schedule 2026](/stories/jets-uniform-schedule-2026)
+This team started as the New York Titans in 1960. A group led by Sonny Werblin bought the club in 1963 and renamed it the Jets on April 15, 1963. Their new home, Shea Stadium, sat between LaGuardia and Idlewild (now JFK) airports, right at the start of the jet age. The new owners also dropped the Titans' colors for green and white. Werblin was born on St. Patrick's Day, and he once said the colors were green "because they're my colors." [New York Jets uniform schedule 2026](/stories/jets-uniform-schedule-2026)
 
 ## AFC North
 
@@ -253,7 +253,7 @@ A 1965 name-the-team contest produced the Falcons. Several people entered the na
 
 ### Carolina Panthers
 
-No contest and no focus groups. The Richardson family picked "Panthers" before the franchise was awarded in October 1993, and the logo and helmet were already finished. Mark Richardson, Jerry's son, said the name stood for what a team should be: "powerful, sleek and strong." Jerry Richardson picked the black, silver and blue himself, with the blue set between the shades of North Carolina and Duke. [Carolina Panthers uniform schedule 2026](/stories/panthers-uniform-schedule-2026)
+No contest and no focus groups. The Richardson family picked "Panthers" before the franchise was awarded in October 1993, and the logo and helmet were already finished. Mark Richardson, Jerry's son, said the name stood for what a team should be: "powerful, sleek and strong." [Carolina Panthers uniform schedule 2026](/stories/panthers-uniform-schedule-2026)
 
 <img src="/images/posts/how-every-nfl-team-got-its-name/panthers-logo-history.jpg" alt="Carolina Panthers logo evolution, left to right: Inaugural wordmark (1995); Italic wordmark (1996-2011); Panther, redrawn (2012-present); Current wordmark (2012-present)" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Panthers marks, 1995 to today.</p>
