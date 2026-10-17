@@ -109,7 +109,11 @@ export function getTonight(now = new Date()): TonightLeague[] {
       league: "MLB",
       label: "Division Series",
       href: "/stories/mlb-uniform-tracker-2026",
-      confirmed: `${mlb.confirmedTeams} of ${mlb.games * 2} uniforms confirmed`,
+      // A confirmed file marked "_expected": true holds our expected looks
+      // (Jake's call during a rain delay), not team confirmations.
+      confirmed: expectedOnly(mlb.date)
+        ? "expected looks posted, confirmed at first pitch"
+        : `${mlb.confirmedTeams} of ${mlb.games * 2} uniforms confirmed`,
       games: slate.games.map((g) => ({
         away: cap(g.awaySlug),
         home: cap(g.homeSlug),
@@ -203,6 +207,15 @@ export function getTonight(now = new Date()): TonightLeague[] {
 }
 
 // ---------------------------------------------------------------------------
+function expectedOnly(date: string): boolean {
+  try {
+    const raw = JSON.parse(fs.readFileSync(path.join(process.cwd(), "scripts", "mlb-confirmed", `${date}.json`), "utf8"));
+    return raw?._expected === true;
+  } catch {
+    return false;
+  }
+}
+
 // From the Stands: Jake's own photos, one per day, rotating on its own.
 // Add a line every time Jake shoots a game. His photography only.
 // ---------------------------------------------------------------------------

@@ -56,7 +56,12 @@ export function buildMlbTonight(now = new Date()): MlbTonight | null {
   // A game counts as confirmed only when we have BOTH uniforms, so the number
   // matches what a reader sees on the tracker card for that matchup.
   // A "<slug>|<gameNumber>" key covers one game of a doubleheader.
-  const conf = (slug: string, gn?: number) => confirmed[`${slug}|${gn ?? 1}`] ?? confirmed[slug];
+  // "_expected": true marks a file of expected looks (e.g. during a rain
+  // delay), which must not count as confirmed.
+  const expectedOnly =
+    readJson<{ _expected?: boolean }>(path.join(root, "scripts", "mlb-confirmed", `${date}.json`))?._expected === true;
+  const conf = (slug: string, gn?: number) =>
+    expectedOnly ? undefined : (confirmed[`${slug}|${gn ?? 1}`] ?? confirmed[slug]);
   const confirmedGames = games.filter((g) => conf(g.awaySlug, g.gameNumber) && conf(g.homeSlug, g.gameNumber)).length;
   const confirmedTeams = games.reduce(
     (n, g) => n + (conf(g.awaySlug, g.gameNumber) ? 1 : 0) + (conf(g.homeSlug, g.gameNumber) ? 1 : 0),

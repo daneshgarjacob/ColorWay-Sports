@@ -3,5 +3,6 @@
   "guardians": "Red Alternate",
   "_grades": {
     "rays@guardians": "B-"
-  }
+  },
+  "_expected": true
 }
