@@ -227,6 +227,20 @@ export type StandsPhoto = { src: string; caption: string; where: string; href: s
 
 export const FROM_THE_STANDS: StandsPhoto[] = [
   {
+    src: "/images/posts/from-the-stands/lakers-nuggets-2026-10-16/crypto-arena-halo-board-lakers-gold.jpg",
+    caption: "The Lakers in gold against the Nuggets in navy under the Crypto.com Arena board, four nights before opening night",
+    where: "Crypto.com Arena · Oct 16",
+    href: "/stories/lakers-uniform-schedule-2026-27",
+    position: "center 65%",
+  },
+  {
+    src: "/images/posts/from-the-stands/lakers-nuggets-2026-10-16/lakers-banners-and-nuggets-navy.jpg",
+    caption: "Lakers championship banners over the floor as the Nuggets bring it up in navy",
+    where: "Crypto.com Arena · Oct 16",
+    href: "/stories/nuggets-uniform-schedule-2026-27",
+    position: "center 60%",
+  },
+  {
     src: "/images/posts/from-the-stands/brewers-dodgers-2026-10-15/dodgers-fans-ohtani-turner-jerseys.jpg",
     caption: "Ohtani and Turner jerseys in the stands for NLCS Game 4, the night the Brewers finished the sweep",
     where: "Dodger Stadium · Oct 15",

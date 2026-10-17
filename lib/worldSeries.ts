@@ -193,12 +193,16 @@ function buildSeries(
       }
       return g;
     });
-  // Games 5-7 are "if necessary" until they are needed.
+  // A game is "if necessary" only while the series could end before it.
+  // The earliest possible clinch is the games played plus the wins the
+  // leader still needs, so at 2-1 Game 5 is guaranteed (Jake 10/17: it
+  // showed "if necessary" when the series could not end in 4).
   const decided = wins[left.key] >= 4 || wins[right.key] >= 4;
   const playedCount = games.filter((g) => g.played).length;
+  const earliestEnd = playedCount + (4 - Math.max(wins[left.key], wins[right.key]));
   for (const g of games) {
     if (g.played) g.ifNecessary = false;
-    else if (g.n >= 5) g.ifNecessary = decided || playedCount < g.n - 1;
+    else g.ifNecessary = decided || g.n > earliestEnd;
   }
   const next = decided ? null : (games.find((g) => !g.played && !g.ifNecessary) ?? null);
 
