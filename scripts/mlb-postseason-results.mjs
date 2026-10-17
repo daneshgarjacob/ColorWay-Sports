@@ -10,6 +10,8 @@ const data = await (await fetch(url)).json();
 const games = [];
 for (const d of data.dates) {
   for (const g of d.games) {
+    // A postponed game reappears on its makeup date; keep only that one.
+    if (g.status.detailedState === "Postponed") continue;
     games.push({
       date: d.date,
       round: g.gameType,

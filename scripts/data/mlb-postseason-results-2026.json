@@ -352,20 +352,20 @@
   "final": true
  },
  {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "round": "L",
   "description": "ALCS Game 4",
   "gameNumber": 4,
   "away": "rays",
   "home": "guardians",
-  "awayScore": 0,
-  "homeScore": 0,
+  "awayScore": null,
+  "homeScore": null,
   "final": false
  },
  {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "round": "L",
-  "description": "ALCS Game 5",
+  "description": "ALCS Game 5, Makeup of 10/16",
   "gameNumber": 5,
   "away": "rays",
   "home": "guardians",

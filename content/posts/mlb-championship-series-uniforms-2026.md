@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-10-11"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-16"
 excerpt: "2026 ALCS and NLCS uniforms: Guardians at Rays and Dodgers at Brewers. Every date, home and road sets, October history and every game logged."
 gradient: "linear-gradient(135deg, #0A2A66 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
@@ -176,7 +176,7 @@ Both League Championship Series are best of seven in a 2-3-2 format. The higher 
 
 **NLCS: Los Angeles Dodgers (NL No. 2, 100-62) at Milwaukee Brewers (NL No. 1, 103-59).** Game 1: Sunday, October 11, 8:00 p.m. ET at American Family Field on FOX. Game 2: Monday, October 12, 5:00 p.m. ET (4:00 p.m. CT) at American Family Field on FOX. Game 3: Wednesday, October 14, 8:00 p.m. ET (5:00 p.m. PT) at Dodger Stadium on FS1. Game 4: Thursday, October 15, 9:00 p.m. ET (6:00 p.m. PT) at Dodger Stadium on FS1. Game 5 (if needed): Friday, October 16, 9:00 p.m. ET (6:00 p.m. PT) at Dodger Stadium on FS1. Game 6 (if needed): Sunday, October 18, 8:00 p.m. ET at American Family Field on FS1. Game 7 (if needed): Monday, October 19, 8:00 p.m. ET at American Family Field on FOX.
 
-**ALCS: Cleveland Guardians (AL No. 2, 85-77) at Tampa Bay Rays (AL No. 1, 98-64).** Game 1: Monday, October 12, 8:00 p.m. ET at Tropicana Field. Game 2: Tuesday, October 13, 8:00 p.m. ET at Tropicana Field. Game 3: Thursday, October 15, 6:00 p.m. ET at Progressive Field. Game 4: Friday, October 16, 6:00 p.m. ET at Progressive Field. Game 5 (if needed): Saturday, October 17, 8:00 p.m. ET at Progressive Field. Game 6 (if needed): Monday, October 19, 5:00 p.m. ET at Tropicana Field. Game 7 (if needed): Tuesday, October 20, 8:00 p.m. ET at Tropicana Field.
+**ALCS: Cleveland Guardians (AL No. 2, 85-77) at Tampa Bay Rays (AL No. 1, 98-64).** Game 1: Monday, October 12, 8:00 p.m. ET at Tropicana Field. Game 2: Tuesday, October 13, 8:00 p.m. ET at Tropicana Field. Game 3: Thursday, October 15, 6:00 p.m. ET at Progressive Field. Game 4: Saturday, October 17, 8:00 p.m. ET at Progressive Field (rained out Friday, October 16). Game 5: Sunday, October 18, 5:00 p.m. ET at Progressive Field. Game 6 (if needed): Monday, October 19, 8:00 p.m. ET at Tropicana Field. Game 7 (if needed): Tuesday, October 20, 8:00 p.m. ET at Tropicana Field.
 
 ## What Changes on the Uniform in the Championship Series
 

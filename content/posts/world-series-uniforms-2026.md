@@ -93,7 +93,7 @@ The Brewers are 7-1 this postseason and have used just two jerseys: cream at hom
 
 ## Cleveland Guardians: What They Have Worn This October
 
-The Guardians lead the ALCS 2-1, with Game 4 tonight and Game 5 Saturday in Cleveland.
+The Guardians lead the ALCS 2-1. Game 4 was rained out Friday, so it is Saturday in Cleveland, with Game 5 there on Sunday.
 
 <div style="overflow-x:auto;margin:1.5em 0;border:1px solid #e3e7ec;border-radius:12px;"><table style="width:100%;border-collapse:collapse;min-width:640px;margin:0;">
 <thead><tr><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Date</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Game</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Opponent</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Jersey</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Result</th></tr></thead><tbody>
