@@ -352,7 +352,7 @@ export function todayBrief(tonight: TonightLeague[], takes: Take[]): string[] {
       .map((x) => `${x.away} at ${x.home}${x.awayLook && x.homeLook ? ` (${x.awayLook} vs ${x.homeLook})` : ""}`)
       .join(" and ");
     const n = ["No", "One", "Two", "Three", "Four"][mlb.games.length] ?? String(mlb.games.length);
-    lines.push(`${n} playoff game${mlb.games.length === 1 ? "" : "s"} tonight: ${g}. ${mlb.confirmed[0].toUpperCase()}${mlb.confirmed.slice(1)} so far.`);
+    lines.push(`${n} playoff game${mlb.games.length === 1 ? "" : "s"} tonight: ${g}. ${mlb.confirmed[0].toUpperCase()}${mlb.confirmed.slice(1)}${mlb.confirmed.startsWith("expected") ? "" : " so far"}.`);
   }
   const nfl = tonight.find((l) => l.league === "NFL");
   if (nfl && nfl.games[0]) {

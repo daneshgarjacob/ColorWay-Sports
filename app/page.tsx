@@ -2,7 +2,7 @@ import Header from "@/components/Header";
 import NflWeekZone from "@/components/NflWeekZone";
 import MlbUniformsZone from "@/components/MlbUniformsZone";
 import WorldSeriesZone from "@/components/WorldSeriesZone";
-import { getWorldSeries } from "@/lib/worldSeries";
+import { getFeaturedSeries } from "@/lib/worldSeries";
 import NhlUniformsZone from "@/components/NhlUniformsZone";
 import StoryCard from "@/components/StoryCard";
 import {
@@ -44,7 +44,9 @@ const PIN_DAYS = 3;
 const FRESH_DAYS = 2;
 
 export default function Home() {
-  const worldSeriesOn = getWorldSeries() !== null;
+  const series = getFeaturedSeries();
+  const worldSeriesOn = series?.kind === "World Series";
+  const alcsOn = series?.kind === "ALCS";
   const posts = getAllPosts();
   const filtered = posts.filter((p) => !TRACKER_SLUGS.has(p.slug));
 
@@ -385,7 +387,9 @@ export default function Home() {
             and replaces the postseason MLB band. */}
         {worldSeriesOn && <WorldSeriesZone />}
         <NflWeekZone />
-        {!worldSeriesOn && <MlbUniformsZone />}
+        {/* Jake 10/16: during the ALCS the series band replaces the MLB band in its usual spot. */}
+        {alcsOn && <WorldSeriesZone />}
+        {!worldSeriesOn && !alcsOn && <MlbUniformsZone />}
         <NhlUniformsZone />
       </main>
       <Footer />

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getWorldSeries, shortLabel } from "@/lib/worldSeries";
+import { getFeaturedSeries, shortLabel } from "@/lib/worldSeries";
 
 // The homepage World Series band (Jake approved the mock 10/16, placed above
 // the NFL band). Renders nothing until the AL champion is known; see
@@ -7,29 +7,29 @@ import { getWorldSeries, shortLabel } from "@/lib/worldSeries";
 const GOLD = "#c9a13b";
 const GOLD_LIGHT = "#f5d77a";
 
+const CITY: Record<string, string> = { MIL: "Milwaukee", TB: "Tampa Bay", CLE: "Cleveland" };
+
 export default function WorldSeriesZone() {
-  const ws = getWorldSeries();
+  const ws = getFeaturedSeries();
   if (!ws) return null;
-  const { nl, al, games, wins, next, records } = ws;
-  const leader =
-    wins[nl.key] === wins[al.key]
-      ? null
-      : wins[nl.key] > wins[al.key]
-        ? nl
-        : al;
-  const decided = wins[nl.key] >= 4 || wins[al.key] >= 4;
+  const { kind, left, right, games, wins, next, records, decided } = ws;
+  const isWs = kind === "World Series";
+  const leader = wins[left.key] === wins[right.key] ? null : wins[left.key] > wins[right.key] ? left : right;
+  const tv = isWs ? "FOX" : "TBS";
   const status = decided
-    ? `${leader!.name} win the World Series`
+    ? `${leader!.name} win the ${kind}`
     : next
-      ? `Game ${next.n} · ${next.dayLabel} · ${next.site === nl.short ? "Milwaukee" : al.name === "Rays" ? "Tampa Bay" : "Cleveland"} · FOX`
+      ? `Game ${next.n} · ${next.dayLabel} · ${CITY[next.site] ?? next.site} · ${tv}`
       : "";
+  const guideHref = isWs ? "/stories/world-series-uniforms-2026" : "/stories/mlb-championship-series-uniforms-2026";
+  const logo = isWs ? "/images/posts/mlb-round-logos/world-series-2026.png" : "/images/posts/mlb-round-logos/alcs-2026.png";
 
   const tools = [
     {
-      href: "/stories/world-series-uniforms-2026",
+      href: guideHref,
       kicker: "Coming Up",
-      title: "World Series Uniforms & Patch",
-      dek: "Every Game, Both Teams, The 2026 Patch.",
+      title: isWs ? "World Series Uniforms & Patch" : "ALCS Uniform Schedule",
+      dek: isWs ? "Every Game, Both Teams, The 2026 Patch." : "Every Remaining Game And What Each Team Will Wear.",
       cls: "bg-[#0b1a2f] text-white",
       style: { border: `2px solid ${GOLD}` },
       kickerColor: GOLD_LIGHT,
@@ -66,25 +66,24 @@ export default function WorldSeriesZone() {
               ● Live Tracker
             </span>
             <img
-              src="/images/posts/mlb-round-logos/world-series-2026.png"
-              alt="2026 World Series logo"
+              src={logo}
+              alt={`2026 ${kind} logo`}
               className="h-[30px] w-auto object-contain"
             />
             <h2 className="text-[13px] font-black text-[#0B1F4A] uppercase tracking-widest">
-              2026 World Series
+              2026 {kind}
             </h2>
           </div>
           <Link
             prefetch={false}
-            href="/stories/world-series-uniforms-2026"
+            href={guideHref}
             className="text-[11px] font-semibold text-orange hover:underline uppercase tracking-widest"
           >
-            World Series Uniforms →
+            {isWs ? "World Series Uniforms →" : "ALCS Guide →"}
           </Link>
         </div>
         <p className="text-[12px] text-[#5f7085] mb-5">
-          Every World Series game, both jerseys, logged the night it&apos;s played. Expected looks
-          get a ★ once the clubs confirm them.
+          {`Every ${kind} game, both jerseys, logged the night it's played. Expected looks get a ★ once the clubs confirm them.`}
         </p>
 
         {/* Matchup hero */}
@@ -93,14 +92,14 @@ export default function WorldSeriesZone() {
           style={{ border: `2px solid ${GOLD}` }}
         >
           <div className="grid grid-cols-[1fr_auto_1fr] items-center gap-2 sm:gap-4">
-            {[al, null, nl].map((t, i) =>
+            {[left, null, right].map((t, i) =>
               t === null ? (
                 <div key="score" className="text-center px-1">
                   <div className="text-[10px] sm:text-[11px] font-extrabold tracking-[0.2em]" style={{ color: GOLD_LIGHT }}>
                     {decided ? "FINAL" : "SERIES"}
                   </div>
                   <div className="text-[28px] sm:text-[40px] font-black leading-tight tabular-nums whitespace-nowrap">
-                    {wins[al.key]} - {wins[nl.key]}
+                    {wins[left.key]} - {wins[right.key]}
                   </div>
                 </div>
               ) : (
@@ -116,7 +115,7 @@ export default function WorldSeriesZone() {
                   <div className="min-w-0">
                     <div className="text-[18px] sm:text-[26px] lg:text-[28px] font-black leading-none">{t.name}</div>
                     <div className="mt-1 text-[9px] sm:text-[11px] font-bold tracking-[0.08em] text-[#c9d4ea] uppercase">
-                      {t.record} · {t.league} Champions
+                      {isWs ? `${t.record} · ${t.league} Champions` : `${t.record} · ${t.key === "rays" ? "AL No. 1 seed" : "AL No. 2 seed"}`}
                     </div>
                   </div>
                 </div>
@@ -124,6 +123,16 @@ export default function WorldSeriesZone() {
             )}
           </div>
           {status && <div className="mt-3 text-center text-[11px] sm:text-[12px] text-[#c9d4ea]">{status}</div>}
+          {!isWs && (
+            <Link
+              prefetch={false}
+              href="/stories/world-series-uniforms-2026"
+              className="mt-3 mx-auto flex w-fit items-center gap-2 rounded-full border border-[#234071] bg-[#13284a] px-3 py-1.5 text-[11px] font-bold text-[#c9d4ea] hover:text-white"
+            >
+              <img src="/logos/teams-hd/mlb-brewers.png" alt="Brewers logo" className="h-4 w-4 object-contain" />
+              Winner faces the Brewers · World Series Game 1 Fri, Oct 23 →
+            </Link>
+          )}
 
           <div className="mt-6 grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-2">
             {games.map((g) => (
