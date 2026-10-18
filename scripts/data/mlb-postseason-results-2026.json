@@ -358,9 +358,9 @@
   "gameNumber": 4,
   "away": "rays",
   "home": "guardians",
-  "awayScore": null,
-  "homeScore": null,
-  "final": false
+  "awayScore": 7,
+  "homeScore": 3,
+  "final": true
  },
  {
   "date": "2026-10-18",
