@@ -78,7 +78,14 @@ for (const [slug, tri] of Object.entries(TEAMS)) {
     const ha = home ? "vs" : "at";
     if (ann && ann.games[g.d]) body += row(`${MON_ABBR[m]} ${d}`, ha, opp, ann.games[g.d], "Announced");
     else if (ann && !ann.partial) body += row(`${MON_ABBR[m]} ${d}`, ha, opp, "Not Yet Announced", "TBA");
-    else body += row(`${MON_ABBR[m]} ${d}`, ha, opp, home ? "Association White" : "Icon Edition");
+    else {
+      // The default home white can't be right when the visitor has already
+      // announced white for that night (10/17: Bucks at Wizards, Pacers at
+      // Pelicans on opening Wednesday). Then the home club needs a color.
+      const oppAnn = ANNOUNCED[home ? g.a : g.h];
+      const oppWhite = oppAnn && /white|association/i.test(oppAnn.games[g.d] || "");
+      body += row(`${MON_ABBR[m]} ${d}`, ha, opp, home ? (oppWhite ? "Color Jersey (TBA)" : "Association White") : "Icon Edition");
+    }
   }
 
   const short = NAME[tri];
