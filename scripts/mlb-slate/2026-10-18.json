@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-18",
+  "games": [
+    {
+      "away": "Tampa Bay Rays",
+      "awaySlug": "rays",
+      "home": "Cleveland Guardians",
+      "homeSlug": "guardians",
+      "time": "5:08 PM ET",
+      "gameNumber": 1
+    }
+  ]
+}
