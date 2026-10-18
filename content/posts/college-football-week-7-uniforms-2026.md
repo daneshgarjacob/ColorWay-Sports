@@ -52,7 +52,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Kentucky: Confirmed, black helmet and black pants.** Kentucky posted a "new look for week seven" on Tuesday: a black helmet with the blue interlocking UK, the white jersey with KENTUCKY and the numbers in blue, and black pants with a blue and white side stripe and a blue UK on the hip. It is the third different helmet in three weeks for Kentucky, after the chrome shell at South Carolina and the Power K throwback against LSU.
 
-**Our take:** two very different ideas on one field. Oklahoma's throwback is as plain as a uniform gets, and that is the point. Kentucky's black and white is sharp, but next to that crimson it will look like the modern team it is. More: [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026) and [Kentucky schedule](/stories/kentucky-uniform-schedule-2026).
+**Our take:** two very different ideas on one field. Oklahoma's throwback is as plain as a uniform gets, and that is the point. Kentucky's black and white is sharp, but next to that crimson it will look like the modern team it is. **Kentucky 21, Oklahoma 13.** More: [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026) and [Kentucky schedule](/stories/kentucky-uniform-schedule-2026).
 
 <img src="/images/posts/college-football-week-7-uniforms-2026/oklahoma-bud-wilkinson-1950.jpg" alt="Oklahoma tackle Jim Weatherall in a dark jersey with white numbers and striped sleeves next to coach Bud Wilkinson in 1950" style="width:100%;max-width:560px;display:block;margin:1em auto 0.3em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Oklahoma tackle Jim Weatherall and coach Bud Wilkinson in 1950, the era the throwback honors. Photo: <a href="https://commons.wikimedia.org/wiki/File:Jim_Weatherall_and_Bud_Wilkinson_1950.jpg" target="_blank" rel="noopener">Los Angeles Daily News</a>, via Wikimedia Commons. Public domain.</p>
@@ -63,11 +63,11 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 6 Alabama at No. 14 Tennessee: The Third Saturday in Full Color
 
-**Saturday, 3:30 p.m., ABC.** **Both teams: Confirmed in home colors.** Alabama and Tennessee announced in August that both will wear home jerseys for the Third Saturday in October in 2026 and 2027, crimson against orange, the first color vs. color meeting in this rivalry since 1970. Tennessee is in its orange home set at Neyland Stadium, and Alabama is in the crimson helmet and crimson jersey it would normally save for Tuscaloosa. Tennessee called it "a historic look" in a Tuesday video. Our full story: [Alabama and Tennessee go color vs. color](/stories/alabama-tennessee-color-vs-color-third-saturday-october-2026). More: [Alabama schedule](/stories/alabama-uniform-schedule-2026) and [Tennessee schedule](/stories/tennessee-uniform-schedule-2026).
+**Saturday, 3:30 p.m., ABC.** **Both teams: Confirmed in home colors.** Alabama and Tennessee announced in August that both will wear home jerseys for the Third Saturday in October in 2026 and 2027, crimson against orange, the first color vs. color meeting in this rivalry since 1970. Tennessee is in its orange home set at Neyland Stadium, and Alabama is in the crimson helmet and crimson jersey it would normally save for Tuscaloosa. Tennessee called it "a historic look" in a Tuesday video. **Tennessee 26, Alabama 10.** Our full story: [Alabama and Tennessee go color vs. color](/stories/alabama-tennessee-color-vs-color-third-saturday-october-2026). More: [Alabama schedule](/stories/alabama-uniform-schedule-2026) and [Tennessee schedule](/stories/tennessee-uniform-schedule-2026).
 
 ### No. 11 Utah at Colorado: Icy White Again
 
-**Saturday, 10:15 p.m., ESPN.** **Utah: Confirmed, icy white.** Utah wore an all white look with an ice and snow theme against Kansas last week, and on Wednesday it posted "One week wasn't enough. Run it back." It is a white helmet covered in a frosty mountain graphic with the Utah script on the side, a white jersey with red trim and white pants with red stripes. **Colorado: Expected in black** for Family Weekend and a Gold Rush crowd, with the gold jersey a real possibility. More: [Utah schedule](/stories/utah-uniform-schedule-2026) and [Colorado schedule](/stories/colorado-uniform-schedule-2026).
+**Saturday, 10:15 p.m., ESPN.** **Utah: Confirmed, icy white.** Utah wore an all white look with an ice and snow theme against Kansas last week, and on Wednesday it posted "One week wasn't enough. Run it back." It is a white helmet covered in a frosty mountain graphic with the Utah script on the side, a white jersey with red trim and white pants with red stripes. **Colorado: Confirmed**, black helmet, gray jersey, gray pants, from the game broadcast. It was not the black or gold we expected for Family Weekend and the Gold Rush crowd, but the gray alternate. More: [Utah schedule](/stories/utah-uniform-schedule-2026) and [Colorado schedule](/stories/colorado-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Utah_Football/status/2110522610916475242"></a></blockquote>
@@ -77,7 +77,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Saturday, 7:30 p.m. (4:30 p.m. Pacific), ACC Network Extra.** **Stanford: Confirmed, throwback helmet.** Stanford posted "Breaking out the throwback threads" on Thursday, and the photos match what it announced: a white helmet with a smaller block S, a single cardinal stripe down the middle and a gray facemask, with the regular cardinal home jersey and white pants. It is Reunion Homecoming, and the same small S and gray mask Stanford used in 2021 to honor Jim Plunkett and the 1970 and 1971 Rose Bowl teams.
 
-**Our grade: A-.** The small block S and the gray mask are a great look, and Stanford's cardinal and white is one of the best color pairings in the sport. It stops short of an A because the throwback stops at the helmet. Full breakdown on our [Stanford schedule](/stories/stanford-uniform-schedule-2026).
+**Our grade: A-.** The small block S and the gray mask are a great look, and Stanford's cardinal and white is one of the best color pairings in the sport. It stops short of an A because the throwback stops at the helmet. **Stanford 34, Elon 7.** Full breakdown on our [Stanford schedule](/stories/stanford-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/StanfordFball/status/2110872231123570924"></a></blockquote>
@@ -85,7 +85,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### No. 13 Missouri at No. 9 Ole Miss: Realtree in Oxford
 
-**Saturday, 3:30 p.m., SEC Network.** **Ole Miss: Confirmed, Realtree helmet.** Ole Miss posted "Rockin' RealTree" on Thursday: a gray and white camo helmet with the Ole Miss script and a red and navy stripe, a red jersey and gray pants. The crowd has been asked to wear white. **Missouri: Confirmed**, gold helmet, white jersey and gold pants, from the game broadcast. More: [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026) and [Missouri schedule](/stories/missouri-uniform-schedule-2026).
+**Saturday, 3:30 p.m., SEC Network.** **Ole Miss: Confirmed, Realtree helmet.** Ole Miss posted "Rockin' RealTree" on Thursday: a gray and white camo helmet with the Ole Miss script and a red and navy stripe, a red jersey and gray pants. The crowd has been asked to wear white. **Missouri: Confirmed**, gold helmet, white jersey and gold pants, from the game broadcast. **Ole Miss 31, Missouri 3.** More: [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026) and [Missouri schedule](/stories/missouri-uniform-schedule-2026).
 
 ## Alternates and Special Looks This Week
 
@@ -103,7 +103,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - **Texas Tech, honoring the 1976 team (Confirmed).** Homecoming honors the 1976 Red Raiders on their 50th anniversary. The uniform Texas Tech posted is its standard home look, black helmet, red jersey and white pants.
 - **Oregon State, Homecoming set (Confirmed).** The Beavers' reveal graphic labels it "Homecoming": black helmet, black jersey and black pants with orange trim, against Washington State.
 - **Baylor, Blackout on the Brazos (Confirmed).** Gold chrome helmet, black jersey, black pants against TCU.
-- **Wisconsin, Ron Dayne tease (watch).** Wisconsin teased its Rose Bowl look with a fake text thread to Ron Dayne that ends with a photo of him from his playing days. The full combination has not been posted.
+- **Wisconsin, Ron Dayne tease.** Wisconsin teased its Rose Bowl look with a fake text thread to Ron Dayne that ends with a photo of him from his playing days. In UCLA's game photos the Badgers wore a white helmet, white jersey and red pants.
 - **Homecoming watch.** Boston College, Texas Tech, Stanford, Maryland, West Virginia, Oregon State, South Florida, James Madison, Hawaii, Eastern Michigan, San Diego State and UAB all have Homecoming this week.
 
 **Off this week:** No. 17 Iowa, No. 19 USC and No. 23 Boise State, along with Arizona, Illinois, Iowa State, Minnesota, NC State, South Carolina, UCF, UConn, Liberty, North Texas and Utah State.
@@ -162,7 +162,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **[Cincinnati](/stories/cincinnati-uniform-schedule-2026) at [West Virginia](/stories/west-virginia-uniform-schedule-2026)**, noon, TNT.
 - Cincinnati: **Confirmed**, red helmet, white jersey, red pants.
-- West Virginia: **Expected**, navy or gold for Homecoming and Stripe the Stadium. **West Virginia 45, Cincinnati 42.**
+- West Virginia: **Confirmed**, navy helmet, navy jersey, gold pants for Homecoming and Stripe the Stadium, from the team's game photos. **West Virginia 45, Cincinnati 42.**
 
 **[Kansas](/stories/kansas-uniform-schedule-2026) at [Kansas State](/stories/kansas-state-uniform-schedule-2026)**, noon, FS1.
 - Kansas: **Confirmed**, all white: white helmet, white jersey, white pants, from the team's game photos.
@@ -188,116 +188,116 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **[Rutgers](/stories/rutgers-uniform-schedule-2026) at [Maryland](/stories/maryland-uniform-schedule-2026)**, 12:30 p.m., BTN.
 - Rutgers: **Confirmed**, all white: white helmet, white jersey, white pants, from the game broadcast.
-- Maryland: **Confirmed**, all red: red helmet, red jersey, red pants for Homecoming and the Retro Red Out. The retro part is the rally towel the first 10,000 fans get, not a throwback uniform.
+- Maryland: **Confirmed**, all red: red helmet, red jersey, red pants for Homecoming and the Retro Red Out. The retro part is the rally towel the first 10,000 fans get, not a throwback uniform. **Rutgers 37, Maryland 30.**
 
 ### Also on the Early Slate
 
-- **The Citadel at [Texas A&M](/stories/texas-am-uniform-schedule-2026)**, 1 p.m., SECN+. Texas A&M **Confirmed** in a maroon helmet, maroon jersey and white pants, from the game broadcast.
-- **Charlotte at [Temple](/stories/temple-uniform-schedule-2026)**, 1 p.m., ESPN+. Temple **Confirmed** in cherry head to toe: cherry helmet, cherry jersey, cherry pants, from the game broadcast.
-- **UMass at [Buffalo](/stories/buffalo-uniform-schedule-2026)**, 1 p.m., ESPN+. Buffalo **Confirmed** in blue head to toe for the Flagship Cup: blue helmet, blue jersey, blue pants, from the game broadcast.
+- **The Citadel at [Texas A&M](/stories/texas-am-uniform-schedule-2026)**, 1 p.m., SECN+. Texas A&M **Confirmed** in a maroon helmet, maroon jersey and white pants, from the game broadcast. **Texas A&M 41, The Citadel 0.**
+- **Charlotte at [Temple](/stories/temple-uniform-schedule-2026)**, 1 p.m., ESPN+. Temple **Confirmed** in cherry head to toe: cherry helmet, cherry jersey, cherry pants, from the game broadcast. **Charlotte 38, Temple 31.**
+- **UMass at [Buffalo](/stories/buffalo-uniform-schedule-2026)**, 1 p.m., ESPN+. Buffalo **Confirmed** in blue head to toe for the Flagship Cup: blue helmet, blue jersey, blue pants, from the game broadcast. **Buffalo 25, UMass 18, in overtime.**
 
 ### Saturday, October 17: Afternoon Window
 
 **Auburn at No. 1 Georgia**, 3:30 p.m., ESPN.
 - [Auburn](/stories/auburn-uniform-schedule-2026): **Confirmed**, all white: white helmet, white jersey, white pants, from its Game Six uniform graphic.
-- [Georgia](/stories/georgia-uniform-schedule-2026): **Confirmed**, red helmet and red jersey with the light home pants, from the game broadcast.
+- [Georgia](/stories/georgia-uniform-schedule-2026): **Confirmed**, red helmet and red jersey with the light home pants, from the game broadcast. **Auburn 27, Georgia 24.**
 
 **No. 6 Alabama at No. 14 Tennessee**, 3:30 p.m., ABC.
 - [Alabama](/stories/alabama-uniform-schedule-2026): **Confirmed**, crimson, by agreement. See above.
-- [Tennessee](/stories/tennessee-uniform-schedule-2026): **Confirmed**, orange. See above.
+- [Tennessee](/stories/tennessee-uniform-schedule-2026): **Confirmed**, orange. See above. **Tennessee 26, Alabama 10.**
 
 **No. 13 Missouri at No. 9 Ole Miss**, 3:30 p.m., SEC Network.
 - [Missouri](/stories/missouri-uniform-schedule-2026): **Confirmed**, gold helmet, white jersey, gold pants, from the game broadcast.
-- [Ole Miss](/stories/ole-miss-uniform-schedule-2026): **Confirmed**, Realtree helmet, red jersey, gray pants. See above.
+- [Ole Miss](/stories/ole-miss-uniform-schedule-2026): **Confirmed**, Realtree helmet, red jersey, gray pants. See above. **Ole Miss 31, Missouri 3.**
 
 **[Arizona State](/stories/arizona-state-uniform-schedule-2026) at No. 10 [Texas Tech](/stories/texas-tech-uniform-schedule-2026)**, 3:30 p.m., FOX.
 - Arizona State: **Confirmed**, white helmet with Sparky, white jersey, maroon pants.
-- Texas Tech: **Confirmed**, black helmet, red jersey, white pants for Homecoming, honoring the 1976 team.
+- Texas Tech: **Confirmed**, black helmet, red jersey, white pants for Homecoming, honoring the 1976 team. **Texas Tech 53, Arizona State 25.**
 
 **[Georgia Tech](/stories/georgia-tech-uniform-schedule-2026) at [Virginia Tech](/stories/virginia-tech-uniform-schedule-2026)**, 3:30 p.m., ACC Network.
 - Georgia Tech: **Confirmed**, gold helmet, white jersey, white pants, from the game broadcast.
-- Virginia Tech: **Confirmed**, maroon head to toe: maroon helmet, maroon jersey, maroon pants, from the game broadcast.
+- Virginia Tech: **Confirmed**, maroon head to toe: maroon helmet, maroon jersey, maroon pants, from the game broadcast. **Virginia Tech 34, Georgia Tech 24.**
 
 **[North Carolina](/stories/north-carolina-uniform-schedule-2026) at [Duke](/stories/duke-uniform-schedule-2026)**, 3:30 p.m., ESPN2.
 - North Carolina: **Confirmed**, Carolina blue helmet, white jersey, Carolina blue pants, from the game broadcast.
-- Duke: **Confirmed**, "Back in Blue": white helmet, royal blue jersey, white pants, for the Victory Bell, a week after going all black at Georgia Tech.
+- Duke: **Confirmed**, "Back in Blue": white helmet, royal blue jersey, white pants, for the Victory Bell, a week after going all black at Georgia Tech. **North Carolina 24, Duke 20.**
 
 **[Penn State](/stories/penn-state-uniform-schedule-2026) at [Michigan](/stories/michigan-uniform-schedule-2026)**, 3:30 p.m., CBS.
 - Penn State: **Confirmed**, all white: white helmet, white jersey, white pants.
-- Michigan: **Confirmed**, maize helmet with the blue wings, blue jersey, maize pants.
+- Michigan: **Confirmed**, maize helmet with the blue wings, blue jersey, maize pants. **Michigan 21, Penn State 18.**
 
 **Northern Illinois at [Wyoming](/stories/wyoming-uniform-schedule-2026)**, 3:30 p.m., The CW.
-- Wyoming: **Expected**, brown at War Memorial Stadium.
+- Wyoming: **Confirmed**, white helmet, brown jersey, gold pants, from the game broadcast. **Wyoming 41, Northern Illinois 23.**
 
 **[UNLV](/stories/unlv-uniform-schedule-2026) at [Air Force](/stories/air-force-uniform-schedule-2026)**, 3:30 p.m., CBSSN.
 - UNLV: **Confirmed**, silver helmet with the Rebels script, white jersey, silver pants.
-- Air Force: **Confirmed**, white helmet, blue jersey, white pants.
+- Air Force: **Confirmed**, white helmet, blue jersey, white pants. **Air Force 41, UNLV 31.**
 
 **[Toledo](/stories/toledo-uniform-schedule-2026) at Eastern Michigan**, 3:30 p.m., ESPN+.
 - Toledo: **Confirmed**, white helmet, white jersey, blue pants.
-- Eastern Michigan: **Confirmed**, green helmet, black jersey, green pants for Homecoming.
+- Eastern Michigan: **Confirmed**, green helmet, black jersey, green pants for Homecoming. **Toledo 34, Eastern Michigan 14.**
 
 **[Tulsa](/stories/tulsa-uniform-schedule-2026) at [Rice](/stories/rice-uniform-schedule-2026)**, 4:30 p.m., ESPN+.
 - Tulsa: **Confirmed**, "the return of the gold lids": gold helmet with the blue Tulsa script, white jersey, gold pants.
-- Rice: **Confirmed**, navy blue head to toe: navy helmet, navy jersey, navy pants, from the game broadcast.
+- Rice: **Confirmed**, navy blue head to toe: navy helmet, navy jersey, navy pants, from the game broadcast. **Tulsa 38, Rice 17.**
 
 **[Troy](/stories/troy-uniform-schedule-2026) at [Louisiana](/stories/louisiana-uniform-schedule-2026)**, 5 p.m., ESPN+.
-- Troy: **Expected**, white.
-- Louisiana: **Expected**, red for Family Weekend and the Hall of Fame game, with fans asked to wear red.
+- Troy: **Confirmed**, cardinal helmet, white jersey, white pants, from the game broadcast.
+- Louisiana: **Confirmed**, red helmet, red jersey, white pants for Family Weekend and the Hall of Fame game, from the game broadcast. **Louisiana 33, Troy 6.**
 
 ### Saturday, October 17: Night Window
 
 **[Washington State](/stories/washington-state-uniform-schedule-2026) at [Oregon State](/stories/oregon-state-uniform-schedule-2026)**, 6 p.m., USA Network.
-- Washington State: **Expected**, white.
-- Oregon State: **Confirmed**, the Homecoming set: black helmet, black jersey, black pants.
+- Washington State: **Confirmed**, gray helmet, white jersey, gray pants, from the team's game photos.
+- Oregon State: **Confirmed**, the Homecoming set: black helmet, black jersey, black pants. **Oregon State 48, Washington State 30.**
 
 **[Florida State](/stories/florida-state-uniform-schedule-2026) at No. 3 [Miami](/stories/miami-hurricanes-uniform-schedule-2026)**, 7 p.m., ESPN.
-- Florida State: **Expected**, white.
-- Miami: **Confirmed**, white helmet, orange jersey, white pants, from its Week 7 uniform combo graphic. No Miami Nights black this time.
+- Florida State: **Confirmed**, gold helmet, white jersey, gold pants, from the game broadcast.
+- Miami: **Confirmed**, white helmet, orange jersey, white pants, from its Week 7 uniform combo graphic. No Miami Nights black this time. **Miami 43, Florida State 35, in double overtime.**
 
 **[Arkansas](/stories/arkansas-uniform-schedule-2026) at [Vanderbilt](/stories/vanderbilt-uniform-schedule-2026)**, 7 p.m., ESPN2.
 - Arkansas: **Confirmed**, cardinal helmet, white jersey, white pants.
-- Vanderbilt: **Confirmed**, white helmet, black jersey, white pants.
+- Vanderbilt: **Confirmed**, white helmet, black jersey, white pants. **Arkansas 31, Vanderbilt 21.**
 
 **[TCU](/stories/tcu-uniform-schedule-2026) at [Baylor](/stories/baylor-uniform-schedule-2026)**, 7 p.m., FS1.
-- TCU: **Expected**, white.
-- Baylor: **Confirmed**, gold chrome helmet, black jersey, black pants for Blackout on the Brazos.
+- TCU: **Confirmed**, purple helmet, white jersey, purple pants, from the game broadcast.
+- Baylor: **Confirmed**, gold chrome helmet, black jersey, black pants for Blackout on the Brazos. **TCU 17, Baylor 6.**
 
 **Kent State at [South Florida](/stories/south-florida-uniform-schedule-2026)**, 7 p.m., ESPN+.
-- South Florida: **Confirmed**, gold helmet, green jersey, gold pants for Homecoming.
+- South Florida: **Confirmed**, gold helmet, green jersey, gold pants for Homecoming. **South Florida 29, Kent State 2.**
 
 **Arkansas State at [Southern Miss](/stories/southern-miss-uniform-schedule-2026)**, 7 p.m., ESPN+.
-- Southern Miss: **Expected**, black, with fans asked to wear black or gold.
+- Southern Miss: **Confirmed**, black helmet, black jersey, gold pants, from the game broadcast. It is the first time this season Southern Miss has worn the gold pants. **Arkansas State 23, Southern Miss 13.**
 
 **No. 2 [Notre Dame](/stories/notre-dame-uniform-schedule-2026) at No. 8 [BYU](/stories/byu-uniform-schedule-2026)**, 7:30 p.m., ABC.
-- Notre Dame: **Expected**, white on the road.
-- BYU: **Confirmed**, white helmet, royal jersey, white pants, revealed Monday. It is royal, not the navy BYU wore against Iowa State.
+- Notre Dame: **Confirmed**, gold helmet, white jersey, gold pants, from the game broadcast.
+- BYU: **Confirmed**, white helmet, royal jersey, white pants, revealed Monday. It is royal, not the navy BYU wore against Iowa State. **BYU 28, Notre Dame 24.**
 
 **Wisconsin at No. 12 UCLA**, 7:30 p.m., NBC, at the Rose Bowl.
-- [Wisconsin](/stories/wisconsin-uniform-schedule-2026): **Expected**, white. Wisconsin teased the look with Ron Dayne but has not shown it.
-- [UCLA](/stories/ucla-uniform-schedule-2026): **Expected**, blue.
+- [Wisconsin](/stories/wisconsin-uniform-schedule-2026): **Confirmed**, white helmet, white jersey, red pants, from UCLA's game photos.
+- [UCLA](/stories/ucla-uniform-schedule-2026): **Confirmed**, gold helmet, blue jersey, gold pants, from the team's game photos. **UCLA 17, Wisconsin 7.**
 
 **No. 15 Kentucky at Oklahoma**, 7:30 p.m., SEC Network.
 - [Kentucky](/stories/kentucky-uniform-schedule-2026): **Confirmed**, black helmet, white jersey, black pants. See above.
-- [Oklahoma](/stories/oklahoma-uniform-schedule-2026): **Confirmed**, the Bud Wilkinson throwback. See above.
+- [Oklahoma](/stories/oklahoma-uniform-schedule-2026): **Confirmed**, the Bud Wilkinson throwback. See above. **Kentucky 21, Oklahoma 13.**
 
 **No. 18 [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026) at No. 20 [Houston](/stories/houston-uniform-schedule-2026)**, 7:30 p.m., FOX.
 - Oklahoma State: **Confirmed**, white helmet with the orange facemask, white jersey, orange pants.
-- Houston: **Confirmed**, "classic home colors": red helmet with the Houston script, red jersey, white pants.
+- Houston: **Confirmed**, "classic home colors": red helmet with the Houston script, red jersey, white pants. **Houston 35, Oklahoma State 32.**
 
 **Elon at [Stanford](/stories/stanford-uniform-schedule-2026)**, 7:30 p.m., ACC Network Extra.
-- Stanford: **Confirmed**, throwback helmet, cardinal jersey, white pants. Our grade: **A-**. See above.
+- Stanford: **Confirmed**, throwback helmet, cardinal jersey, white pants. Our grade: **A-**. See above. **Stanford 34, Elon 7.**
 
 **[Louisville](/stories/louisville-uniform-schedule-2026) at [Syracuse](/stories/syracuse-uniform-schedule-2026)**, 7:30 p.m., ACC Network.
 - Louisville: **Confirmed**, white helmet, white jersey, red pants.
-- Syracuse: **Expected**, navy, back in the Dome.
+- Syracuse: **Confirmed**, orange helmet, navy jersey, orange pants, from the game broadcast. **Louisville 34, Syracuse 26.**
 
 **[Navy](/stories/navy-uniform-schedule-2026) at [UTSA](/stories/utsa-uniform-schedule-2026)**, 8 p.m., ESPNU.
-- Navy: **Expected**, white.
-- UTSA: **Confirmed**, the Salute to Service helmet with a navy jersey and navy pants. See the list above.
+- Navy: **Confirmed**, gold helmet, white jersey, gold pants, from the game broadcast.
+- UTSA: **Confirmed**, the Salute to Service helmet with a navy jersey and navy pants. See the list above. **UTSA 38, Navy 34.**
 
 **San Jose State at UTEP**, 9 p.m., MW+.
-- UTEP: **Confirmed**, all navy with the new Paydirt Pete decal the fans picked, for Innovation Night at the Sun Bowl.
+- UTEP: **Confirmed**, all navy with the new Paydirt Pete decal the fans picked, for Innovation Night at the Sun Bowl. **San Jose State 24, UTEP 11.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UTEPFB/status/2110090640008646969"></a></blockquote>
@@ -305,15 +305,15 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### Also Late
 
-- **No. 11 Utah at [Colorado](/stories/colorado-uniform-schedule-2026)**, 10:15 p.m., ESPN. [Utah](/stories/utah-uniform-schedule-2026) **Confirmed** in icy white for a second straight week. Colorado **Expected** in black. See above.
-- **No. 21 Wake Forest at Cal**, 10:30 p.m., ESPN2. [Cal](/stories/cal-uniform-schedule-2026) **Confirmed** in the Grateful Dead helmet, blue jersey and gold pants. [Wake Forest](/stories/wake-forest-uniform-schedule-2026) **Confirmed** in a gloss black helmet, white jersey and black pants. See above.
-- **[Fresno State](/stories/fresno-state-uniform-schedule-2026) at [San Diego State](/stories/san-diego-state-uniform-schedule-2026)**, 10:30 p.m., CBSSN. The Battle for the Old Oil Can on San Diego State's Homecoming. San Diego State **Expected** in black, Fresno State **Expected** in white.
-- **New Mexico at [Hawaii](/stories/hawaii-uniform-schedule-2026)**, 10:30 p.m., FS1. Hawaii **Expected** in black for Homecoming.
-- **[Nebraska](/stories/nebraska-uniform-schedule-2026) at [Oregon](/stories/oregon-uniform-schedule-2026)**, 11 p.m., FOX. Oregon **Confirmed** in a green chrome helmet with black wings, the black Fly Era jersey and bright green pants, with the team's post coding the set as green, black, green. Nebraska **Expected** in white.
+- **No. 11 Utah at [Colorado](/stories/colorado-uniform-schedule-2026)**, 10:15 p.m., ESPN. [Utah](/stories/utah-uniform-schedule-2026) **Confirmed** in icy white for a second straight week. Colorado **Confirmed** in a black helmet, gray jersey and gray pants, from the game broadcast. See above. In progress at press time: Utah led 13-7 in the third quarter.
+- **No. 21 Wake Forest at Cal**, 10:30 p.m., ESPN2. [Cal](/stories/cal-uniform-schedule-2026) **Confirmed** in the Grateful Dead helmet, blue jersey and gold pants. [Wake Forest](/stories/wake-forest-uniform-schedule-2026) **Confirmed** in a gloss black helmet, white jersey and black pants. Both looks match the game broadcast. See above. In progress at press time: Wake Forest led 34-0 at halftime.
+- **[Fresno State](/stories/fresno-state-uniform-schedule-2026) at [San Diego State](/stories/san-diego-state-uniform-schedule-2026)**, 10:30 p.m., CBSSN. The Battle for the Old Oil Can on San Diego State's Homecoming. San Diego State **Confirmed** in a red helmet, black jersey and black pants, and Fresno State **Confirmed** in a red helmet, white jersey and red pants, both from the game broadcast. In progress at press time: San Diego State led 16-10 in the third quarter.
+- **New Mexico at [Hawaii](/stories/hawaii-uniform-schedule-2026)**, 10:30 p.m., FS1. Hawaii **Expected** in black for Homecoming. In progress at press time: Hawaii led 10-0 in the third quarter.
+- **[Nebraska](/stories/nebraska-uniform-schedule-2026) at [Oregon](/stories/oregon-uniform-schedule-2026)**, 11 p.m., FOX. Oregon **Confirmed** in a green chrome helmet with black wings, the black Fly Era jersey and bright green pants, with the team's post coding the set as green, black, green. Nebraska **Expected** in white. In progress at press time: 0-0 late in the second quarter.
 
 ## The Bottom Line
 
-This is the week college football remembered uniforms are supposed to be fun. Cal's Grateful Dead helmet is the best special helmet of the season so far because it keeps Cal's own blue and gold and lets the stealie, the bolt and the dancing bears do the talking. Coastal Carolina is honoring a decade it never played in, and we are fine with that on a Friday night. Oklahoma's Bud Wilkinson throwback against Kentucky's black helmet and black pants is the best contrast of styles on the board, Stanford's small S and gray mask earned an A- from us, and Alabama in crimson at Tennessee is a picture this rivalry has not had since 1970. The noon window is in the books: Ohio State wore its silver helmet and road whites and won 19-15 at Indiana, and Florida came out in the blue helmet, not the orange one its season schedule listed, and won 27-24 at Texas. We are flipping the afternoon and night games from Expected to Confirmed as the broadcasts and team photos come in, and adding final scores as each game ends.
+This is the week college football remembered uniforms are supposed to be fun. Cal's Grateful Dead helmet is the best special helmet of the season so far because it keeps Cal's own blue and gold and lets the stealie, the bolt and the dancing bears do the talking. Coastal Carolina is honoring a decade it never played in, and we are fine with that on a Friday night. Oklahoma's Bud Wilkinson throwback against Kentucky's black helmet and black pants is the best contrast of styles on the board, Stanford's small S and gray mask earned an A- from us, and Alabama in crimson at Tennessee is a picture this rivalry has not had since 1970. The noon window went to the road teams in the big games: Ohio State wore its silver helmet and road whites and won 19-15 at Indiana, and Florida came out in the blue helmet, not the orange one its season schedule listed, and won 27-24 at Texas. Then the afternoon got wild. Auburn, in all white, beat No. 1 Georgia 27-24 in Athens, Tennessee won the color vs. color game 26-10, and at night Kentucky's black helmet and black pants beat Oklahoma's throwback 21-13 and BYU, in royal, beat No. 2 Notre Dame 28-24. The surprises on the uniform side were Colorado in gray against Utah and Southern Miss in gold pants for the first time this season. The West Coast games were still going at press time, and we will add those final scores when they end.
 
 ## Frequently Asked Questions
 

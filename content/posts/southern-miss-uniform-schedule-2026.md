@@ -3,7 +3,7 @@ title: "Southern Miss Uniform Schedule 2026: Every Jersey and When the Golden Ea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-06"
+updatedDate: "2026-10-17"
 excerpt: "What Southern Miss wears every game in 2026: the all-black home set, the white road jersey, both helmets and the week-by-week Golden Eagles uniform schedule."
 gradient: "linear-gradient(135deg, #000000 0%, #1a1a1a 55%, #FFC72C 130%)"
 cardStyle: words
@@ -36,7 +36,7 @@ Two habits stand out so far. At home, Southern Miss has gone black from helmet t
   <div style="background: #000000; color: #ffffff; border: 2px solid #FFC72C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #ffffff; color: #000000; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #ffffff; color: #000000; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 6 (TUE)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / White</div></div>
-  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #FFC72C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Gold</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Homecoming)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UL Monroe</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 5 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Blackout)</div></div>
@@ -55,7 +55,7 @@ Two habits stand out so far. At home, Southern Miss has gone black from helmet t
 
 **October 6 at Troy.** ★ Confirmed from the ESPN2 broadcast: **black helmet, white jersey, white pants** for the Tuesday night Sun Belt opener at Veterans Memorial Stadium. Troy debuted a black jersey with a white helmet and white pants. Troy won 55-34. Our [Troy 2026 uniform schedule](/stories/troy-uniform-schedule-2026) has the Trojans side.
 
-**October 17 vs. Arkansas State.** Black expected. Kids Takeover at The Rock and M-Club Hall of Fame and Letterwinners Day. Kickoff time still to be set.
+**October 17 vs. Arkansas State.** ★ Confirmed from the broadcast: **black helmet, black jersey, gold pants**, the first time the gold pants have made it onto the field this season. It was Kids Takeover at The Rock and M-Club Hall of Fame and Letterwinners Day. Arkansas State wore white jerseys with scarlet pants and won 23-13.
 
 **October 24 vs. Louisiana.** Black expected. Homecoming at Renasant Stadium, and one of the home dates where gold pants or a special touch would fit if Southern Miss has one planned. Kickoff time still to be set.
 
@@ -71,25 +71,25 @@ Two habits stand out so far. At home, Southern Miss has gone black from helmet t
 
 ## Will Southern Miss Wear Gold Pants in 2026?
 
-It is the open question in the Southern Miss closet. Gold pants are part of the set, and the school's own game-week poster for UConn showed a player in a black jersey over gold. But in both home games so far the Golden Eagles have worn black pants, and on the road they have gone black at Auburn and white at Tulane. We will not put gold in the grid until we see it. Homecoming against Louisiana on October 24 and Senior Day against South Alabama on November 21 are the home dates where a change would make the most sense. The November 5 Blackout against JMU is the one date we would bet stays black.
+Yes. After black pants in every home game through September, Southern Miss finally wore the gold pants with the black helmet and black jersey against Arkansas State on October 17, confirmed from the broadcast. Gold pants are part of the set, and the school's own game-week poster for UConn had already shown a player in a black jersey over gold. Homecoming against Louisiana on October 24 and Senior Day against South Alabama on November 21 are the next home dates to watch for them. The November 5 Blackout against JMU is the one date we would bet stays all black.
 
 ## The Bottom Line
 
-Five games into the Blake Anderson era, Southern Miss has worn black at home and white on the road, with the black helmet four times and the white helmet once. All black at The Rock is a strong, simple look, and it fits a program that wants its home field to feel like a hard place to play. The questions left are whether gold pants ever make it onto the field and what the Golden Eagles wear for Homecoming, the Thursday night Blackout and Senior Day. The grid above has every date, and we add a star as each uniform is confirmed.
+Six games into the Blake Anderson era, Southern Miss has worn black jerseys at home and white on the road, with the black helmet five times and the white helmet once. All black at The Rock is a strong, simple look, and the gold pants finally showed up against Arkansas State on October 17. The questions left are what the Golden Eagles wear for Homecoming, the Thursday night Blackout and Senior Day. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Southern Miss wearing this week?**
 
-Southern Miss is off this week after a 55-34 loss at Troy on Tuesday, October 6, in the black helmet, white jersey and white pants. The next game is Arkansas State at home on Saturday, October 17, where the all-black home set is expected. The Golden Eagles have worn black from helmet to cleats in both home games so far.
+Southern Miss wore the black helmet, black jersey and gold pants against Arkansas State at home on Saturday, October 17, confirmed from the broadcast, in a 23-13 loss. It was the first appearance of the gold pants this season. Next is Homecoming against Louisiana at home on October 24, where the black home jersey is expected.
 
 **What color does Southern Miss wear at home?**
 
-Black. Southern Miss wore the black helmet, black jersey and black pants in both home games of 2026, against Alcorn State and UConn.
+Black. Southern Miss wore the black helmet, black jersey and black pants in its first two home games of 2026, against Alcorn State and UConn, then paired the black helmet and black jersey with gold pants against Arkansas State on October 17.
 
 **Does Southern Miss have a white helmet?**
 
-Yes. The Golden Eagles wore a white helmet with a gold stripe and the gold SOUTHERN MISS wordmark with an all-white uniform at Tulane on September 26. The black helmet has been worn in the other four games.
+Yes. The Golden Eagles wore a white helmet with a gold stripe and the gold SOUTHERN MISS wordmark with an all-white uniform at Tulane on September 26. The black helmet has been worn in the other five games.
 
 **Who makes Southern Miss's uniforms?**
 
