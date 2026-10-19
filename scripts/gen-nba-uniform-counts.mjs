@@ -96,7 +96,7 @@ for (const [slug, tri] of Object.entries(TEAMS)) {
     "Statement Edition": card("Statement Edition") || { bg: "#2f6bed", fg: "#ffffff", border: "" },
     "City Edition": card("City Edition") || { bg: "#101010", fg: "#ffffff", border: "" },
     "Classic Edition": card("Classic Edition") || { bg: "#7a4a12", fg: "#ffffff", border: "" },
-    "Specter Edition": { bg: "#1a1426", fg: "#ffffff", border: "" },
+    "Specter Edition": card("Specter Edition") || { bg: "#1a1426", fg: "#ffffff", border: "" },
   };
   const box = (call, t) => {
     const st = style[call];
