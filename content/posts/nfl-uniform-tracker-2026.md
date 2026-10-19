@@ -82,7 +82,7 @@ Denver is dressing the field to match, with an orange BRONCOS end zone, the clas
 
 ### Houston Texans at Jacksonville Jaguars
 
-What the Texans and Jaguars wore, helmet to pants. Jacksonville was the designated home team at Wembley Stadium and wore the black helmet, teal jersey and black pants, the same look it wore at Tottenham a week earlier. Houston wore the navy helmet and white jersey with navy pants, not the white pants we had projected. Teal over black against white over navy, and the navy pants gave the Texans a sharper look than all white would have. Houston won 34-31.
+What the Texans and Jaguars wore, helmet to pants. Jacksonville was the designated home team at Wembley Stadium and wore the black helmet, teal jersey and black pants, the same look it wore at Tottenham a week earlier. Houston wore the navy helmet and white jersey with navy pants, not the white pants we had projected. Teal over black against white over navy, and the navy pants gave the Texans a sharper look than all white would have. Houston won 34-31. We grade it a B+.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -90,7 +90,7 @@ What the Texans and Jaguars wore, helmet to pants. Jacksonville was the designat
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">9:30 ET &middot; London</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="B+" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">B+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -108,7 +108,7 @@ What the Texans and Jaguars wore, helmet to pants. Jacksonville was the designat
 
 ### Chicago Bears at Atlanta Falcons
 
-What the Bears and Falcons wore, helmet to pants. Atlanta wore red at home under the black helmet, but with white pants, not the black pants we had projected. Chicago wore its road set, navy helmet, white jersey and navy pants, as expected. Red over white against white over navy is a clean, traditional pairing. The Bears won 31-23.
+What the Bears and Falcons wore, helmet to pants. Atlanta wore red at home under the black helmet, but with white pants, not the black pants we had projected. Chicago wore its road set, navy helmet, white jersey and navy pants, as expected. Red over white against white over navy is a clean, traditional pairing. The Bears won 31-23. We grade it a B.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -116,7 +116,7 @@ What the Bears and Falcons wore, helmet to pants. Atlanta wore red at home under
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">1:00 ET</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="B" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">B</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -134,7 +134,7 @@ What the Bears and Falcons wore, helmet to pants. Atlanta wore red at home under
 
 ### Baltimore Ravens at Cleveland Browns
 
-What the Ravens and Browns wore, helmet to pants. Both teams wore exactly what they announced: Cleveland in the orange helmet, brown jersey and orange pants on its Crucial Catch day, and Baltimore in the black helmet, white jersey and black pants. Brown and orange against white and black is one of the most distinct matchups in the division. Cleveland won 13-10.
+What the Ravens and Browns wore, helmet to pants. Both teams wore exactly what they announced: Cleveland in the orange helmet, brown jersey and orange pants on its Crucial Catch day, and Baltimore in the black helmet, white jersey and black pants. Brown and orange against white and black is one of the most distinct matchups in the division. Cleveland won 13-10. We grade it an A-.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -142,7 +142,7 @@ What the Ravens and Browns wore, helmet to pants. Both teams wore exactly what t
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">1:00 ET</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="A-" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">A-</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -160,7 +160,7 @@ What the Ravens and Browns wore, helmet to pants. Both teams wore exactly what t
 
 ### Tennessee Titans at Indianapolis Colts
 
-What the Titans and Colts wore, helmet to pants. Indianapolis wore royal blue at home under the white helmet with white pants for its Crucial Catch game, and Tennessee wore the white helmet, white jersey and light blue pants, both as projected. Two blues that never clashed: royal over white against white over light blue. Tennessee won 26-20.
+What the Titans and Colts wore, helmet to pants. Indianapolis wore royal blue at home under the white helmet with white pants for its Crucial Catch game, and Tennessee wore the white helmet, white jersey and light blue pants, both as projected. Two blues that never clashed: royal over white against white over light blue. Tennessee won 26-20. We grade it a B+.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -168,7 +168,7 @@ What the Titans and Colts wore, helmet to pants. Indianapolis wore royal blue at
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">1:00 ET</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="B+" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">B+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -186,7 +186,7 @@ What the Titans and Colts wore, helmet to pants. Indianapolis wore royal blue at
 
 ### New York Jets at New England Patriots
 
-What the Jets and Patriots wore, helmet to pants. New England wore the navy home jersey under the silver helmet, but with navy pants striped in red and white, not the silver pants we had projected. The Jets wore the green helmet, white jersey and green pants they have worn on every road trip. Navy on navy against white over green. The Patriots won 26-19.
+What the Jets and Patriots wore, helmet to pants. New England wore the navy home jersey under the silver helmet, but with navy pants striped in red and white, not the silver pants we had projected. The Jets wore the green helmet, white jersey and green pants they have worn on every road trip. Navy on navy against white over green. The Patriots won 26-19. We grade it a B.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -194,7 +194,7 @@ What the Jets and Patriots wore, helmet to pants. New England wore the navy home
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">1:00 ET</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="B" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">B</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -212,7 +212,7 @@ What the Jets and Patriots wore, helmet to pants. New England wore the navy home
 
 ### New Orleans Saints at New York Giants
 
-What the Saints and Giants wore, helmet to pants. New Orleans wore the all-white alternate it announced, white helmet, white jersey with gold numbers and white pants, and the Giants wore royal blue under the blue helmet with white pants on their Crucial Catch day. All white against royal over white was bright and easy to follow at MetLife. The Saints won 34-27.
+What the Saints and Giants wore, helmet to pants. New Orleans wore the all-white alternate it announced, white helmet, white jersey with gold numbers and white pants, and the Giants wore royal blue under the blue helmet with white pants on their Crucial Catch day. All white against royal over white was bright and easy to follow at MetLife. The Saints won 34-27. We grade it a B+.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -220,7 +220,7 @@ What the Saints and Giants wore, helmet to pants. New Orleans wore the all-white
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">1:00 ET</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="B+" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">B+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -238,7 +238,7 @@ What the Saints and Giants wore, helmet to pants. New Orleans wore the all-white
 
 ### Carolina Panthers at Philadelphia Eagles
 
-What the Panthers and Eagles wore, helmet to pants. Philadelphia wore midnight green at home under the green helmet with white pants, as projected. Carolina wore its announced white jersey under the silver helmet, but with black pants, not the blue pants we had expected. White over black against midnight green over white. Carolina won 25-14.
+What the Panthers and Eagles wore, helmet to pants. Philadelphia wore midnight green at home under the green helmet with white pants, as projected. Carolina wore its announced white jersey under the silver helmet, but with black pants, not the blue pants we had expected. White over black against midnight green over white. Carolina won 25-14. We grade it a B.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -246,7 +246,7 @@ What the Panthers and Eagles wore, helmet to pants. Philadelphia wore midnight g
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">1:00 ET</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="B" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">B</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -264,7 +264,7 @@ What the Panthers and Eagles wore, helmet to pants. Philadelphia wore midnight g
 
 ### Pittsburgh Steelers at Tampa Bay Buccaneers
 
-What the Steelers and Buccaneers wore, helmet to pants. Tampa Bay wore white at home in the Florida heat, under the pewter helmet with white pants, and Pittsburgh answered in the black helmet, black jersey and gold pants, both exactly as we had projected. Black and gold against white and pewter in bright sun is about as clear as a matchup gets. Pittsburgh won 26-19 in overtime.
+What the Steelers and Buccaneers wore, helmet to pants. Tampa Bay wore white at home in the Florida heat, under the pewter helmet with white pants, and Pittsburgh answered in the black helmet, black jersey and gold pants, both exactly as we had projected. Black and gold against white and pewter in bright sun is about as clear as a matchup gets. Pittsburgh won 26-19 in overtime. We grade it a B+.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -272,7 +272,7 @@ What the Steelers and Buccaneers wore, helmet to pants. Tampa Bay wore white at 
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">1:00 ET</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="B+" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">B+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -290,7 +290,7 @@ What the Steelers and Buccaneers wore, helmet to pants. Tampa Bay wore white at 
 
 ### Arizona Cardinals at Los Angeles Rams
 
-What the Cardinals and Rams wore, helmet to pants. Los Angeles wore royal at home under the royal helmet with Sol pants, and Arizona went all white at SoFi Stadium, white helmet, white jersey and white pants, both as projected. Royal and Sol against clean white is one of the brightest looks in the division. Arizona won 18-16.
+What the Cardinals and Rams wore, helmet to pants. Los Angeles wore royal at home under the royal helmet with Sol pants, and Arizona went all white at SoFi Stadium, white helmet, white jersey and white pants, both as projected. Royal and Sol against clean white is one of the brightest looks in the division. Arizona won 18-16. We grade it an A-.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -298,7 +298,7 @@ What the Cardinals and Rams wore, helmet to pants. Los Angeles wore royal at hom
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">4:05 ET</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="A-" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">A-</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -316,7 +316,7 @@ What the Cardinals and Rams wore, helmet to pants. Los Angeles wore royal at hom
 
 ### Los Angeles Chargers at Kansas City Chiefs
 
-What the Chargers and Chiefs wore, helmet to pants. The Chargers wore the white jersey over gold pants under the white helmet, as their published schedule said, and Kansas City wore red at home under the red helmet with white pants for its Crucial Catch game. Red over white against white over gold at Arrowhead is a classic AFC West look. The Chiefs won 22-6.
+What the Chargers and Chiefs wore, helmet to pants. The Chargers wore the white jersey over gold pants under the white helmet, as their published schedule said, and Kansas City wore red at home under the red helmet with white pants for its Crucial Catch game. Red over white against white over gold at Arrowhead is a classic AFC West look. The Chiefs won 22-6. We grade it an A.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -324,7 +324,7 @@ What the Chargers and Chiefs wore, helmet to pants. The Chargers wore the white 
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">4:25 ET</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="A" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">A</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -342,7 +342,7 @@ What the Chargers and Chiefs wore, helmet to pants. The Chargers wore the white 
 
 ### Buffalo Bills at Las Vegas Raiders
 
-What the Bills and Raiders wore, helmet to pants. Las Vegas wore its standard home look for its Crucial Catch game, silver helmet, black jersey and silver pants. Buffalo wore the white helmet and white jersey, but with royal blue pants, not the all-white look we had projected. The blue pants gave the Bills a red, white and blue look against the Silver and Black. Buffalo won 33-30.
+What the Bills and Raiders wore, helmet to pants. Las Vegas wore its standard home look for its Crucial Catch game, silver helmet, black jersey and silver pants. Buffalo wore the white helmet and white jersey, but with royal blue pants, not the all-white look we had projected. The blue pants gave the Bills a red, white and blue look against the Silver and Black. Buffalo won 33-30. We grade it a B+.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -350,7 +350,7 @@ What the Bills and Raiders wore, helmet to pants. Las Vegas wore its standard ho
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">4:25 ET</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="B+" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">B+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
