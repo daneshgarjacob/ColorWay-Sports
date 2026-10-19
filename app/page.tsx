@@ -16,6 +16,7 @@ import FromTheStandsRandom from "@/components/home/FromTheStandsRandom";
 import WireStrip from "@/components/WireStrip";
 import Footer from "@/components/Footer";
 import Link from "next/link";
+import NbaTonightZone from "@/components/NbaTonightZone";
 import type { Metadata } from "next";
 import { getAllPosts, type PostMeta as Post } from "@/lib/posts";
 import { currentNflWeek, getNflWeekChips } from "@/lib/nflWeek";
@@ -387,6 +388,8 @@ export default function Home() {
             and replaces the postseason MLB band. */}
         {worldSeriesOn && <WorldSeriesZone />}
         <NflWeekZoneV2 />
+        {/* Jake 10/19: NBA band with every game's jerseys and our matchup grade. */}
+        <NbaTonightZone />
         {/* Jake 10/16: during the ALCS the series band replaces the MLB band in its usual spot. */}
         {alcsOn && <WorldSeriesZone />}
         {!worldSeriesOn && !alcsOn && <MlbUniformsZone />}

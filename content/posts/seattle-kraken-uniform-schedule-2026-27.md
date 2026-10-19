@@ -2,7 +2,7 @@
 title: "Seattle Kraken Uniform Schedule 2026-27: Every Sweater and When They Wear It"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-10-17"
+updatedDate: "2026-10-19"
 excerpt: "Every Seattle Kraken sweater for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #001628 0%, #99D9D9 100%)"
 cardStyle: words
@@ -35,6 +35,14 @@ We build these before the season rather than after it, so the closet is here fro
   <div style="background: #f1f3f8; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Hometown Remix (Coming)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The league-wide Fanatics special edition, one sweater per club, built around each city's local culture. The NHL says the designs arrive shortly after the season opens on September 29; nothing has been revealed yet. <a href="/stories/nhl-hometown-remix-2026-27" style="color: inherit; text-decoration: underline;">Our Hometown Remix tracker</a> grades each one as it lands.</div></div>
 </div>
 
+## When Do the Kraken Wear The Abyss Third Jersey in 2026-27?
+
+The Abyss Awakens is Seattle's all-black third jersey: black with black-on-black detailing, a crest outline and numbers that glow in the dark, sonar-ping stripes on the sleeves and socks, and the arena's coordinates inside the collar. It debuted in 2025-26, and readers keep asking us for this season's dates.
+
+**As of October 19, 2026, the Kraken have not published their 2026-27 Abyss dates.** The team's theme-night list and printable schedule for this season do not mark any jersey nights, and we found no sign Seattle has worn it in its first two home games, October 4 against Calgary and October 6 against Vegas. We will add every date to this page the day the team names them.
+
+**Last season is the best guide.** In 2025-26 the Kraken wore The Abyss 12 times, debuting it on November 1 against the Rangers. The dates were November 1 vs the Rangers, November 5 vs San Jose, November 26 vs Dallas, December 4 at Edmonton (its only road game), December 8 vs Minnesota, December 29 vs Vancouver, January 6 vs Boston, January 23 vs Anaheim, January 25 vs New Jersey, March 4 vs St. Louis, March 12 vs Colorado and April 9 vs Vegas. If Seattle follows the same pattern, expect roughly a dozen Abyss nights again, nearly all at Climate Pledge Arena, starting in November.
+
 ## The Seattle Kraken Game-by-Game Uniform Schedule
 
 <!-- nhl-key-dates:start -->
@@ -47,6 +55,14 @@ We build these before the season rather than after it, so the closet is here fro
 <!-- nhl-game-log:end -->
 
 ## Frequently Asked Questions
+
+**When do the Kraken wear the black Abyss jersey in 2026-27?**
+
+Seattle has not published its 2026-27 Abyss dates yet. Last season the Kraken wore it 12 times, starting November 1 against the Rangers, and all but one were home games. We add this season's dates here as soon as the team announces them.
+
+**What does the Kraken Abyss jersey look like?**
+
+All black with black-on-black detailing, a crest outline, nameplate and numbers that glow in the dark, sonar-ping stripes on the sleeves and socks, and the arena's coordinates in the collar. The Kraken call it The Abyss Awakens.
 
 **What uniforms do the Seattle Kraken have for 2026-27?**
 

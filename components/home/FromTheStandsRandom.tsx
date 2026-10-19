@@ -21,7 +21,7 @@ export default function FromTheStandsRandom({ photos, initial }: { photos: Stand
         <span className={`${LABEL} text-black`}>From the Stands</span>
         <span className="text-[11px] text-steel">Our photos · from our seats</span>
       </div>
-      <div className="relative aspect-[4/5] overflow-hidden rounded-xl bg-[#e9ebef]">
+      <div className="relative aspect-[4/5] lg:aspect-[4/3] overflow-hidden rounded-xl bg-[#e9ebef]">
         <img
           key={photo.src}
           src={photo.src}
