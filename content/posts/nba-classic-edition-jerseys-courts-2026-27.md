@@ -10,7 +10,7 @@ coverImage: "/images/posts/nba-classic-edition-jerseys-courts-2026-27/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 kicker: Ranked
-homepageHero: true
+homepageHero: false
 logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["brooklyn-nets", "denver-nuggets", "indiana-pacers", "san-antonio-spurs"]

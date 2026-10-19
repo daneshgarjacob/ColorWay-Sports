@@ -19,6 +19,7 @@ logoSrc: "/logos/leagues/nba.png"
 league: nba
 teams: ["boston-celtics", "detroit-pistons", "philadelphia-76ers", "new-york-knicks", "oklahoma-city-thunder", "san-antonio-spurs", "atlanta-hawks", "orlando-magic", "milwaukee-bucks", "washington-wizards", "minnesota-timberwolves", "miami-heat", "charlotte-hornets", "brooklyn-nets", "chicago-bulls", "toronto-raptors", "utah-jazz", "memphis-grizzlies", "indiana-pacers", "new-orleans-pelicans", "dallas-mavericks", "houston-rockets", "golden-state-warriors", "los-angeles-lakers", "phoenix-suns", "portland-trail-blazers", "sacramento-kings", "la-clippers"]
 resurfaceOnUpdate: true
+homepageHero: true
 ---
 
 The 2026-27 NBA season tips off on **Tuesday, October 20**, with a three-game Opening Night on NBC and Peacock, and 22 more teams open on **Wednesday, October 21**. That is 14 games across the first two nights and 28 of the 30 clubs. The other two, Cleveland and Denver, open on Thursday.
