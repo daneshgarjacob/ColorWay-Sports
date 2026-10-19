@@ -19,6 +19,8 @@ The Chicago Bulls open 2026-27 at United Center in October 2026. This is the ful
 **Update, October 19:** The full Bulls jersey schedule for 2026-27 is out, a call for all 80 dated games. The Association Edition is the most-worn Bulls jersey this season at **27 games** (22 home, 5 road), ahead of the Icon Edition at 25. Opening night, October 21 at the Raptors, is the **Statement Edition**. The City Edition debuts **January 14 vs the Timberwolves** and is scheduled for six games in all. Every game is filled in below.
 <!-- nba-uniform-counts:intro:end -->
 
+**Update, October 19:** The Bulls released their [2026-27 City Edition](/stories/nba-city-edition-jerseys-2026-27) on NBA Jersey Day: the 2017-18 Chicago flag set returns, a white shirt with the red "Chicago" script and the city flag's four red stars down the side. It is on for six games: January 14 vs the Timberwolves, February 25, March 6, March 15, March 24 and April 7, all at the United Center. We grade it a B-.
+
 <!-- nba-uniform-counts:grid:start -->
 ## How Many Times the Bulls Wear Each Jersey in 2026-27
 
@@ -38,7 +40,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Association Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The white set. Worn at home for most of the season.</div></div>
   <div style="background: #CE1141; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Icon Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The primary color set, worn on the road and for most national windows.</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Statement Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The alternate. Usually the boldest thing in the closet.</div></div>
-  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">City Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Revealed league-wide on September 15, 2026. Year ten of the program.</div></div>
+  <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">City Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The 2017-18 Chicago flag set returns, released October 19: white, red Chicago script, the flag's four red stars. Six games, from January 14. We grade it a B-.</div></div>
 </div>
 
 ## The Bulls Game-by-Game Uniform Schedule

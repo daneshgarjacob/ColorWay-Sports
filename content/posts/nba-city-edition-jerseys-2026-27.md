@@ -290,20 +290,7 @@ It is one of the better-looking dark jerseys in the collection because the blue 
 
 <div style="margin: 1.25em auto 1.5em; max-width: 360px; padding: 1em 1.5em; background: linear-gradient(135deg, #5D76A9 0%, #12173F 100%); border-radius: 16px; box-shadow: 0 4px 18px rgba(0,0,0,0.18); text-align: center;"><p style="margin: 0 0 4px; font-size: 0.68em; font-weight: 700; color: rgba(255,255,255,0.8); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p><p style="margin: 0; font-size: 2.5em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">C+</p></div>
 
-## 11. Chicago Bulls
-
-<img src="/images/posts/nba-city-edition-jerseys-2026-27/bulls-city-edition.jpg" alt="Chicago Bulls 2017-18 City Edition jersey, white with a red Chicago script and four red six-pointed stars from the Chicago flag down the side, returning for 2026-27" style="display: block; width: 100%; max-width: 560px; margin: 1.25em auto 0.4em; border-radius: 10px;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Chicago Bulls</p>
-
-<p style="font-size: 0.8em; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #57607a; margin: 0 0 1em;"><span style="color: #b8641a;">Leaked</span> &middot; Returning: 2017-18 Chicago flag set</p>
-
-Chicago brings back the 2017-18 set built from the city flag: a white shirt, a red "Chicago" script, and the flag's four six-pointed stars running down the side, with light blue at the collar.
-
-This is exactly what a City Edition should be. It uses a real piece of Chicago identity that locals actually care about, and it still looks like the Bulls. It sits at the top of the C range only because the script and white base feel close to a standard road shirt.
-
-<div style="margin: 1.25em auto 1.5em; max-width: 360px; padding: 1em 1.5em; background: linear-gradient(135deg, #CE1141 0%, #1a1a1a 100%); border-radius: 16px; box-shadow: 0 4px 18px rgba(0,0,0,0.18); text-align: center;"><p style="margin: 0 0 4px; font-size: 0.68em; font-weight: 700; color: rgba(255,255,255,0.8); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p><p style="margin: 0; font-size: 2.5em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">C+</p></div>
-
-## 10. LA Clippers
+## 11. LA Clippers
 
 <img src="/images/posts/nba-city-edition-jerseys-2026-27/clippers-city-edition.jpg" alt="LA Clippers 2021-22 City Edition jersey, Pacific Blue with a white Clippers script and orange and navy trim, returning for 2026-27" style="display: block; width: 100%; max-width: 560px; margin: 1.25em auto 0.4em; border-radius: 10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image: NBA</p>
@@ -315,6 +302,23 @@ The Clippers bring back the 2021-22 Mixtape set in Pacific Blue, with a white "C
 Light blue is a great look for this team and it is a color nobody else in the league owns. The script is clean, the orange trim adds just enough warmth, and it makes the Clippers look like their own franchise instead of a smaller version of the Lakers.
 
 <div style="margin: 1.25em auto 1.5em; max-width: 360px; padding: 1em 1.5em; background: linear-gradient(135deg, #1D428A 0%, #C8102E 100%); border-radius: 16px; box-shadow: 0 4px 18px rgba(0,0,0,0.18); text-align: center;"><p style="margin: 0 0 4px; font-size: 0.68em; font-weight: 700; color: rgba(255,255,255,0.8); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p><p style="margin: 0; font-size: 2.5em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B-</p></div>
+
+## 10. Chicago Bulls
+
+<img src="/images/posts/nba-city-edition-jerseys-2026-27/bulls-city-edition.jpg" alt="Chicago Bulls 2026-27 City Edition jersey, white with a red Chicago script and four red six-pointed stars from the Chicago flag down the side" style="display: block; width: 100%; max-width: 560px; margin: 1.25em auto 0.4em; border-radius: 10px;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Chicago Bulls</p>
+
+<p style="font-size: 0.8em; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #57607a; margin: 0 0 1em;"><span style="color: #1f8a4c;">Confirmed</span> &middot; Released October 19 &middot; Returning: 2017-18 Chicago flag set</p>
+
+**Update, October 19: it is official.** The Bulls released their 2026-27 City Edition on NBA Jersey Day, and it is the 2017-18 Chicago flag set coming back: a white shirt, a red "Chicago" script, the Chicago city flag's four red six-pointed stars down the side, and the flag's light blue at the collar. Chicago wears it six times, starting January 14 against the Timberwolves. Every date is in our [Bulls uniform schedule](/stories/bulls-uniform-schedule-2026-27).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/chicagobulls/status/2112212185170481516"></a></blockquote>
+</div>
+
+Jake's take: "I like them, and I like the elements of red as well as the light blue that they've used in years past. My favorite part of the jersey is the shorts. I love the Bulls logo staying on the side of the shorts. My only issue is that it is a bit boring, but I like that they stayed consistent with their City Edition themes from the past." That moves the Bulls up from a C+ to a **B-**. It uses a real piece of Chicago identity that locals care about, and it still looks like the Bulls. The white base and script keep it from climbing higher, because from a distance it reads close to a standard road shirt.
+
+<div style="margin: 1.25em auto 1.5em; max-width: 360px; padding: 1em 1.5em; background: linear-gradient(135deg, #CE1141 0%, #1a1a1a 100%); border-radius: 16px; box-shadow: 0 4px 18px rgba(0,0,0,0.18); text-align: center;"><p style="margin: 0 0 4px; font-size: 0.68em; font-weight: 700; color: rgba(255,255,255,0.8); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p><p style="margin: 0; font-size: 2.5em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">B-</p></div>
 
 ## 9. Utah Jazz
 
