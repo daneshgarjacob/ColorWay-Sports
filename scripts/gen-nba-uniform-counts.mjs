@@ -88,7 +88,7 @@ for (const [slug, tri] of Object.entries(TEAMS)) {
   // --- colors for the count grid, read from the post's own closet cards
   const card = (label) => {
     const m = s.slice(s.indexOf("Uniform Closet for")).match(new RegExp(`<div style="background: (#[0-9A-Fa-f]{3,6}); color: (#[0-9A-Fa-f]{3,6});[^"]*"><div[^>]*>${label}</div>`));
-    return m ? { bg: m[1], fg: m[2], border: "" } : null;
+    return m ? { bg: m[1], fg: m[2], border: /border: 1px solid/.test(m[0]) ? " border: 1px solid #dfe3ea;" : "" } : null;
   };
   const style = {
     "Association White": { bg: "#ffffff", fg: "#14284b", border: " border: 1px solid #dfe3ea;" },
