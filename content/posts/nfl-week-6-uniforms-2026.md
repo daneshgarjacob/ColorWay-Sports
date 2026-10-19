@@ -3,7 +3,7 @@ title: "NFL Week 6 Uniforms 2026: What Every Team Is Wearing, Including the Bron
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-10-13"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-19"
 excerpt: "NFL Week 6 uniforms (Oct. 15-19): Broncos orange throwback vs Seahawks royal blue on Thursday night, Saints all white at the Giants, Chargers gold pants in Kansas City."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Week 6 of the 2026 NFL season runs from Thursday, October 15 to Monday, October 19, with 14 games and four teams on bye: the Cincinnati Bengals, Detroit Lions, Miami Dolphins and Minnesota Vikings. It opens with the best-dressed Thursday night of the season so far. Denver wears its **orange throwback** under the royal blue "D" helmet, and Seattle answers in its **royal blue throwback**, both confirmed by the teams on October 13. On Sunday, New Orleans brings its **all-white alternate** under the white helmet to the Giants, the Chargers wear **white over gold pants** in Kansas City, Houston and Jacksonville play at **Wembley Stadium**, and Dallas visits Green Bay on Sunday night. It is also the third and last weekend of [Crucial Catch](/stories/nfl-crucial-catch-2026-schedule).
+
+**Update, October 19:** Every Thursday and Sunday game is final, and the list below now shows what each team actually wore, with scores and our matchup grades. Five teams changed something from our projection: the Texans (navy pants), Falcons (white pants), Patriots (navy pants), Panthers (black pants) and Bills (royal blue pants). The best-dressed game was the opener, Seattle's royal throwback at Denver's orange throwback, an A+. Monday night is Washington in white over gold at San Francisco in scarlet, both announced.
 
 Below is every Week 6 look we know, starting with the special ones and then all 14 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Expected** is our read from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Helmets and jerseys project reliably; pants are the piece teams change the week of the game, so treat every expected pants call as the least certain part of the line.
 
@@ -74,22 +76,22 @@ Week 6 is the last of the three Crucial Catch weekends. Five clubs have tagged a
 
 ### Thursday, October 15
 
-- **Seattle Seahawks at Denver Broncos**, 8:15 p.m. ET, Prime Video. Seahawks: silver helmet, royal blue throwback jersey, silver pants (confirmed). Broncos: royal blue "D" helmet, orange throwback jersey, white pants with an orange and blue stripe (confirmed).
+- **Seattle Seahawks at Denver Broncos**, 8:15 p.m. ET, Prime Video. Worn: Seahawks silver helmet, royal blue throwback jersey, silver pants. Broncos royal blue "D" helmet, orange throwback jersey, white pants with an orange and blue stripe. **Final: Broncos 17, Seahawks 14 (OT).** Matchup grade: A+.
 
 ### Sunday, October 18
 
-- **Houston Texans at Jacksonville Jaguars** (London, Wembley Stadium), 9:30 a.m. ET, NFL Network. Texans: navy helmet, white jersey, white pants (expected). Jaguars: black helmet, teal jersey, black pants (expected).
-- **Chicago Bears at Atlanta Falcons**, 1:00 p.m. ET, FOX. Bears: navy helmet, white jersey, navy pants (expected). Falcons: red jersey (confirmed), black helmet and black pants (expected).
-- **Baltimore Ravens at Cleveland Browns**, 1:00 p.m. ET, FOX. Ravens: black helmet, white jersey, black pants (confirmed). Browns: orange helmet, brown jersey, orange pants (confirmed).
-- **Tennessee Titans at Indianapolis Colts**, 1:00 p.m. ET, FOX. Titans: white helmet, white jersey, Titans blue pants (expected). Colts: white helmet, royal blue jersey, white pants (expected).
-- **New York Jets at New England Patriots**, 1:00 p.m. ET, CBS. Jets: green helmet, white jersey, green pants (expected). Patriots: silver helmet, navy jersey, silver pants (expected).
-- **New Orleans Saints at New York Giants**, 1:00 p.m. ET, FOX. Saints: white helmet, white alternate jersey, white pants (confirmed). Giants: blue helmet, royal blue jersey, white pants (confirmed).
-- **Carolina Panthers at Philadelphia Eagles**, 1:00 p.m. ET, CBS. Panthers: white jersey (confirmed), silver helmet and Panther blue pants (expected). Eagles: midnight green helmet, midnight green jersey, white pants (expected).
-- **Pittsburgh Steelers at Tampa Bay Buccaneers**, 1:00 p.m. ET, CBS. Steelers: black helmet, black jersey, gold pants (expected). Buccaneers: pewter helmet, white jersey, white pants (expected).
-- **Arizona Cardinals at Los Angeles Rams**, 4:05 p.m. ET, FOX. Cardinals: white jersey (confirmed), white helmet and white pants (expected). Rams: royal jersey (confirmed), royal helmet and sol pants (expected).
-- **Los Angeles Chargers at Kansas City Chiefs**, 4:25 p.m. ET, CBS. Chargers: white helmet, white jersey, gold pants (confirmed). Chiefs: red helmet, red jersey, white pants (expected).
-- **Buffalo Bills at Las Vegas Raiders**, 4:25 p.m. ET, CBS. Bills: white helmet, white jersey, white pants (expected). Raiders: silver helmet, black jersey, silver pants (confirmed).
-- **Dallas Cowboys at Green Bay Packers**, 8:20 p.m. ET, NBC. Cowboys: white jersey (confirmed), silver helmet and silver-blue pants (expected). Packers: gold helmet, green jersey, gold pants (expected).
+- **Houston Texans at Jacksonville Jaguars** (London, Wembley Stadium), 9:30 a.m. ET, NFL Network. Worn: Texans navy helmet, white jersey, navy pants. Jaguars black helmet, teal jersey, black pants. **Final: Texans 34, Jaguars 31.** Matchup grade: B+.
+- **Chicago Bears at Atlanta Falcons**, 1:00 p.m. ET, FOX. Worn: Bears navy helmet, white jersey, navy pants. Falcons black helmet, red jersey, white pants. **Final: Bears 31, Falcons 23.** Matchup grade: B.
+- **Baltimore Ravens at Cleveland Browns**, 1:00 p.m. ET, FOX. Worn: Ravens black helmet, white jersey, black pants. Browns orange helmet, brown jersey, orange pants. **Final: Browns 13, Ravens 10.** Matchup grade: A-.
+- **Tennessee Titans at Indianapolis Colts**, 1:00 p.m. ET, FOX. Worn: Titans white helmet, white jersey, light blue pants. Colts white helmet, royal blue jersey, white pants. **Final: Titans 26, Colts 20.** Matchup grade: B+.
+- **New York Jets at New England Patriots**, 1:00 p.m. ET, CBS. Worn: Jets green helmet, white jersey, green pants. Patriots silver helmet, navy jersey, navy pants. **Final: Patriots 26, Jets 19.** Matchup grade: B.
+- **New Orleans Saints at New York Giants**, 1:00 p.m. ET, FOX. Worn: Saints white helmet, white alternate jersey, white pants. Giants blue helmet, royal blue jersey, white pants. **Final: Saints 34, Giants 27.** Matchup grade: B+.
+- **Carolina Panthers at Philadelphia Eagles**, 1:00 p.m. ET, CBS. Worn: Panthers silver helmet, white jersey, black pants. Eagles midnight green helmet, midnight green jersey, white pants. **Final: Panthers 25, Eagles 14.** Matchup grade: B.
+- **Pittsburgh Steelers at Tampa Bay Buccaneers**, 1:00 p.m. ET, CBS. Worn: Steelers black helmet, black jersey, gold pants. Buccaneers pewter helmet, white jersey, white pants. **Final: Steelers 26, Buccaneers 19 (OT).** Matchup grade: B+.
+- **Arizona Cardinals at Los Angeles Rams**, 4:05 p.m. ET, FOX. Worn: Cardinals white helmet, white jersey, white pants. Rams royal helmet, royal jersey, Sol pants. **Final: Cardinals 18, Rams 16.** Matchup grade: A-.
+- **Los Angeles Chargers at Kansas City Chiefs**, 4:25 p.m. ET, CBS. Worn: Chargers white helmet, white jersey, gold pants. Chiefs red helmet, red jersey, white pants. **Final: Chiefs 22, Chargers 6.** Matchup grade: A.
+- **Buffalo Bills at Las Vegas Raiders**, 4:25 p.m. ET, CBS. Worn: Bills white helmet, white jersey, royal blue pants. Raiders silver helmet, black jersey, silver pants. **Final: Bills 33, Raiders 30.** Matchup grade: B+.
+- **Dallas Cowboys at Green Bay Packers**, 8:20 p.m. ET, NBC. Worn: Cowboys silver star helmet, white jersey, blue-green silver pants. Packers gold helmet, green jersey, gold pants. **Final: Packers 23, Cowboys 13.** Matchup grade: A.
 
 ### Monday, October 19
 

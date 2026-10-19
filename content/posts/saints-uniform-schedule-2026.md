@@ -2,7 +2,7 @@
 title: "New Orleans Saints Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-19"
 excerpt: "The Saints published their 2026 uniform schedule: the gold jersey once under the black helmet, white at home twice, and the white helmet three times. Every jersey and uniform, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"
@@ -40,7 +40,7 @@ Nine home games including Paris, eight on the road, and a Week 8 bye.
   <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black</div></div>
   <div style="background: #ffffff; color: #101820; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Gold Helmet · Gold Pants · MNF</div></div>
   <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vikings</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black &middot; Black Pants</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White Alt · White Helmet</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White Alt · White Helmet</div></div>
   <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black · Paris</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #D3BC8D; color: #101820; border: 2px solid #101820; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold · Black Helmet</div></div>
@@ -130,7 +130,7 @@ Check the week in the grid above, because the Saints published a full plan: blac
 
 **What jerseys are the Saints wearing this week?**
 
-Black at home against Minnesota in Week 5 on Sunday, October 11: gold helmet, black jersey, black pants. The Vikings are in white under the purple helmet. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
+Week 6 at the Giants, October 18, worn: the all-white alternate it announced, white helmet, white jersey with gold numbers and white pants. The Giants wore royal blue over white pants on their Crucial Catch day, and New Orleans won 34-27. We grade the matchup a B+. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
 
 **What uniform did the Saints wear last week?**
 

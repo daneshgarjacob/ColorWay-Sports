@@ -3,7 +3,7 @@ topViewsRank: 12
 title: "Los Angeles Rams Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-07-24"
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-19"
 excerpt: "The Rams published the full 2026 jersey schedule: royal five times, white eight times including at home against Dallas, plus Classic Sol, Fearsome White, and Midnight Mode."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -53,7 +53,7 @@ Here is the whole season at a glance, every game as the team announced it. Class
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White &middot; White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Royal Pants</div></div>
   <div style="background: #003594; color: #FFD100; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Royal · Sol Pants · MNF</div></div>
-  <div style="background: #003594; color: #FFD100; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Royal</div></div>
+  <div style="background: #003594; color: #FFD100; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Royal · Sol Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003594; color: #FFD100; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Royal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Commanders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -132,7 +132,7 @@ Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; whit
 
 **What jerseys are the Rams wearing this week?**
 
-Week 5 against Buffalo on Monday Night Football, October 12, worn: royal helmet, royal jersey, sol pants, as published and confirmed from the game photos. The Bills wore all white, and Buffalo won 37-34 in overtime. We grade the matchup a B+. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
+Week 6 against Arizona, October 18, worn: royal helmet, royal jersey and Sol pants. The Cardinals went all white, and Arizona won 18-16. We grade the matchup an A-. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
 
 **What uniform did the Rams wear last week?**
 

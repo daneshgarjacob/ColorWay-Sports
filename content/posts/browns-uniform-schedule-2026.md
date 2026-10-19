@@ -3,7 +3,7 @@ title: "Cleveland Browns Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
 excerpt: "The Browns confirmed Alpha Dawg, all brown, for Thursday night against Pittsburgh. Here is the full 2026 jersey schedule, week by week."
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-19"
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 coverImage: "/images/posts/browns-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -121,7 +121,7 @@ Brown if Cleveland is at Huntington Bank Field, white if they are on the road, e
 
 **What jerseys are the Browns wearing this week?**
 
-Brown at home against Baltimore in Week 6 on Sunday, October 18: orange helmet, brown jersey, orange pants, confirmed. The Ravens are in white with the black helmet and black pants. For the rest of the season: Brown if Cleveland is at Huntington Bank Field, white if they are on the road, except for the Alpha Dawg games: Week 4 against Pittsburgh (confirmed), Week 10 against Houston and Week 14 against Atlanta.
+Week 6 against Baltimore on Crucial Catch day, October 18, worn: orange helmet, brown jersey and orange pants, exactly as announced. The Ravens wore white over black pants, and Cleveland won 13-10. We grade the matchup an A-. For the rest of the season: Brown if Cleveland is at Huntington Bank Field, white if they are on the road, except for the Alpha Dawg games: Week 4 against Pittsburgh (confirmed), Week 10 against Houston and Week 14 against Atlanta.
 
 **What uniform did the Browns wear last week?**
 

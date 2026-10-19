@@ -3,7 +3,7 @@ title: "Las Vegas Raiders Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
 excerpt: "The Raiders named no uniforms in their 2026 home themes. Here is the full jersey schedule: black at home, white on the road, classic white throwback at New England."
-updatedDate: "2026-10-14"
+updatedDate: "2026-10-19"
 gradient: "linear-gradient(135deg, #101820 0%, #3a3a3a 55%, #A5ACAF 130%)"
 coverImage: "/images/posts/raiders-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -102,7 +102,7 @@ Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The o
 
 **What jerseys are the Raiders wearing this week?**
 
-Classic white at New England in Week 5 on Sunday, October 11: silver helmet, white jersey, silver pants, confirmed. The Patriots wear the red Pat Patriot throwback. For the rest of the season: Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The one exception is Week 5 at New England, where the Raiders wear the classic white throwback.
+Week 6 against Buffalo on Crucial Catch day, October 18, worn: silver helmet, black jersey and silver pants. The Bills wore white over royal blue pants, and Buffalo won 33-30. We grade the matchup a B+. For the rest of the season: Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The one exception is Week 5 at New England, where the Raiders wear the classic white throwback.
 
 **What uniform did the Raiders wear last week?**
 
