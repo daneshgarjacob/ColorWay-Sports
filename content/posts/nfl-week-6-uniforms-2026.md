@@ -103,7 +103,7 @@ Cincinnati Bengals, Detroit Lions, Miami Dolphins, Minnesota Vikings.
 
 ## The Bottom Line
 
-Week 6 is the throwback Thursday week. Denver's orange and Seattle's royal blue share the field on Prime Video, New Orleans takes its all-white alternate to MetLife, the Chargers break out gold pants in Kansas City, Jacksonville hosts Houston at Wembley, and Crucial Catch wraps up across five home clubs. If you missed last week, our [Week 5 uniform guide](/stories/nfl-week-5-uniforms-2026) has every Week 5 look and grade. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
+Week 6 is the throwback Thursday week. Denver's orange and Seattle's royal blue share the field on Prime Video, New Orleans takes its all-white alternate to MetLife, the Chargers break out gold pants in Kansas City, Jacksonville hosts Houston at Wembley, and Crucial Catch wraps up across five home clubs. If you missed last week, our [Week 5 uniform guide](/stories/nfl-week-5-uniforms-2026) has every Week 5 look and grade. Next up, our [Week 7 uniform guide](/stories/nfl-week-7-uniforms-2026) has every Week 7 look, from the Falcons' 1966 throwback to the Saints and Steelers in Paris. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
 
 ## Frequently Asked Questions
 
