@@ -132,7 +132,7 @@ The orange dot in the middle of the Flyers' winged P is a puck. Sam Ciccone of t
 
 John Alogna designed the Islanders' logo in three days in 1972. The tail of the Y is a hockey stick, and the shape behind the letters is a map of Long Island. The Hockey News adds that the four stripes on the stick came to stand for the team's four straight Stanley Cups, though that was a meaning fans gave it later. [New York Islanders uniform schedule](/stories/islanders-uniform-schedule-2026-27)
 
-<img src="/images/posts/hidden-logos-part-2/photo-islanders-jersey.jpg" alt="Islanders defenseman Carson Soucy in the white jersey, showing the NY logo with the hockey-stick Y and the map of Long Island, during warmups on Feb. 2, 2026" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<img src="/images/posts/hidden-logos-part-2/photo-islanders-jersey.jpg" alt="Islanders defenseman Carson Soucy in the white jersey, showing the NY logo with the hockey-stick Y and the map of Long Island, during warmups on Feb. 2, 2026" style="width:100%;max-width:440px;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File%3ASoucy2026.jpg" rel="nofollow noopener" target="_blank">The Kip</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="nofollow noopener" target="_blank">CC BY-SA 4.0</a></p>
 
 ### Columbus Blue Jackets: A Flag and a Capital
@@ -150,7 +150,7 @@ The Blue Jackets' logo is an Ohio flag curved into a C for Columbus, and the sta
 
 The shield behind the Panthers' 2016 logo comes from the patch of the U.S. Army's 101st Airborne Division. Owner Vincent Viola served in the 101st, and NHL.com says the shape is a tribute to it. [Florida Panthers uniform schedule](/stories/florida-panthers-uniform-schedule-2026-27)
 
-<img src="/images/posts/hidden-logos-part-2/photo-panthers-jersey.jpg" alt="A Panthers player in the white road jersey with the shield-shaped panther crest, against the Kraken in Seattle on Dec. 3, 2022" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<img src="/images/posts/hidden-logos-part-2/photo-panthers-jersey.jpg" alt="A Panthers player in the white road jersey with the shield-shaped panther crest, against the Kraken in Seattle on Dec. 3, 2022" style="width:100%;max-width:440px;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File%3AAndre_Burakovsky_and_Aleksi_Heponiemi.jpg" rel="nofollow noopener" target="_blank">Jenn G</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0" rel="nofollow noopener" target="_blank">CC BY-SA 2.0</a></p>
 
 ### San Jose Sharks: The Triangle Is a Real Place
@@ -159,7 +159,7 @@ The shield behind the Panthers' 2016 logo comes from the patch of the U.S. Army'
 
 Terry Smith drew the original Sharks logo in 1991, a shark biting through a hockey stick. The triangle behind it is a nod to the "Red Triangle," the stretch of Northern California coast known for great white sharks, and its three points have also been read as the Bay Area's three big cities, KQED reported. [San Jose Sharks uniform schedule](/stories/sharks-uniform-schedule-2026-27)
 
-<img src="/images/posts/hidden-logos-part-2/photo-sharks-jersey.jpg" alt="Sharks forward Tomas Hertl in the white road jersey, showing the shark biting a stick in front of the triangle, in Seattle on Nov. 22, 2023" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<img src="/images/posts/hidden-logos-part-2/photo-sharks-jersey.jpg" alt="Sharks forward Tomas Hertl in the white road jersey, showing the shark biting a stick in front of the triangle, in Seattle on Nov. 22, 2023" style="width:100%;max-width:440px;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File%3ASan_Jose_Sharks_at_Seattle_Kraken_-_November_22,_2023_-_Tomas_Hertl_(53351816983)_(cropped).jpg" rel="nofollow noopener" target="_blank">Jenn G</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0" rel="nofollow noopener" target="_blank">CC BY-SA 2.0</a></p>
 
 ### Anaheim Ducks: The Eyebrows Are Waves
@@ -202,7 +202,7 @@ The tree inside Stanford's block S is El Palo Alto, the redwood that gave the ci
 
 The two herons on Inter Miami's crest have legs that form an M, and the sun behind them has seven rays, a nod to co-owner David Beckham's No. 7, NBC Miami reported when the club launched.
 
-<img src="/images/posts/hidden-logos-part-2/photo-inter-miami-crest.jpg" alt="Lionel Messi in Inter Miami's pink home kit, with the crest's two herons and their M-shaped legs on the chest, at Gillette Stadium on July 9, 2025" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<img src="/images/posts/hidden-logos-part-2/photo-inter-miami-crest.jpg" alt="Lionel Messi in Inter Miami's pink home kit, with the crest's two herons and their M-shaped legs on the chest, at Gillette Stadium on July 9, 2025" style="width:100%;max-width:440px;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File%3ALionel_Messi_NE_Revolution_Inter_Miami_7.9.25-055.jpg" rel="nofollow noopener" target="_blank">Bryan Berlin</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="nofollow noopener" target="_blank">CC BY-SA 4.0</a></p>
 
 ### New York City FC: A Subway Token
@@ -211,7 +211,7 @@ The two herons on Inter Miami's crest have legs that form an M, and the sun behi
 
 NYCFC's round crest is shaped like the 1953 New York City subway token, and the design firm behind it, Alfalfa Studio, says the five shapes in the center stand for the city's five boroughs.
 
-<img src="/images/posts/hidden-logos-part-2/photo-nycfc-crest.jpg" alt="NYCFC defender Mitja Ilenič in the sky blue home kit with the round subway-token crest, after a game in Philadelphia on Nov. 23, 2025" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<img src="/images/posts/hidden-logos-part-2/photo-nycfc-crest.jpg" alt="NYCFC defender Mitja Ilenič in the sky blue home kit with the round subway-token crest, after a game in Philadelphia on Nov. 23, 2025" style="width:100%;max-width:440px;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File%3AMitja_Ileni%C4%8D_Philadelphia_Union_New_York_City_FC_Nov_23_2025-109.jpg" rel="nofollow noopener" target="_blank">Bryan Berlin</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="nofollow noopener" target="_blank">CC BY-SA 4.0</a></p>
 
 ### Atletico Madrid: Seven Stars in the Sky
@@ -226,7 +226,7 @@ The seven stars on Atletico Madrid's crest come from the flag of the Community o
 
 Manchester City's 2016 crest has three wavy lines for the city's three rivers, the Irwell, the Medlock and the Irk. City Football Group said 85% of fans backed keeping the ship, a symbol of Manchester's trading history.
 
-<img src="/images/posts/hidden-logos-part-2/photo-manchester-city-crest.jpg" alt="The Manchester City crest, with its ship and three diagonal river stripes, lit up behind the Sergio Aguero statue outside the Etihad Stadium" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
+<img src="/images/posts/hidden-logos-part-2/photo-manchester-city-crest.jpg" alt="The Manchester City crest, with its ship and three diagonal river stripes, lit up behind the Sergio Aguero statue outside the Etihad Stadium" style="width:100%;max-width:440px;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File%3ASergio_Aguero_statue_-_Etihad_Stadium.jpg" rel="nofollow noopener" target="_blank">Christian David</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="nofollow noopener" target="_blank">CC BY-SA 4.0</a></p>
 
 ### Arsenal: The Cannon Kept Turning Around
