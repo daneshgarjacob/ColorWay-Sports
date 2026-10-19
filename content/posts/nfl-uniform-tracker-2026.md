@@ -368,7 +368,7 @@ What the Bills and Raiders wore, helmet to pants. Las Vegas wore its standard ho
 
 ### Dallas Cowboys at Green Bay Packers
 
-What the Cowboys and Packers are wearing, helmet to pants. Both teams' pregame videos from Lambeau Field show the looks: Dallas in the silver star helmet, white jersey and silver-green pants, and Green Bay in the gold helmet and green jersey for its Packers Vs. Cancer game, with gold pants. Green and gold against white and silver under the lights is one of the NFL's great prime-time matchups. We log the final score and grade the matchup after the game.
+What the Cowboys and Packers are wearing, helmet to pants. Both teams' pregame videos from Lambeau Field show the looks: Green Bay in its primary home set, gold helmet, green jersey and gold pants, for its Packers Vs. Cancer game, and Dallas in the silver star helmet and white jersey with the blue-green silver pants that make the Cowboys' road look one of a kind. Green and gold against white and that seafoam silver under the lights is one of the best uniform matchups in the NFL. We grade it an A.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
@@ -376,7 +376,7 @@ What the Cowboys and Packers are wearing, helmet to pants. Both teams' pregame v
     <div style="min-width: 0; flex: 1 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nfl.png" alt="NFL logo" title="via NFL" style="display: block; height: clamp(30px, 8vw, 40px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; " /><span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25;"><span style="display: block; color: #ffffff; font-size: clamp(10px, 2.6vw, 11.5px); letter-spacing: 1.4px;">Week 6</span><span style="display: block; color: rgba(255,255,255,0.6); font-weight: 700; margin-top: 1px;">Sunday Night Football</span></span></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background:rgba(255,255,255,0.08);border:1px dashed rgba(255,255,255,0.35);color:rgba(255,255,255,0.7);font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:800;line-height:1;padding:6px 9px;min-width:44px;text-align:center;border-radius:8px;box-sizing:border-box;letter-spacing:-.5px;">&ndash;</span>
+      <span data-grade="A" style="background:linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%);color:#ffffff;font-family:var(--font-display, 'Hanken Grotesk', Inter, sans-serif);font-size:clamp(17px, 4.4vw, 22px);font-weight:900;line-height:1;padding:7px 10px;min-width:44px;text-align:center;border-radius:8px;box-shadow:0 2px 10px rgba(47,107,237,0.35);letter-spacing:-.5px;">A</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">

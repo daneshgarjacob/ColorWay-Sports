@@ -4,11 +4,44 @@ import { LinkedInIcon, XIcon } from "@/components/FollowCard";
 const navLinks = [
   { label: "Home", href: "/" },
   { label: "News", href: "/news" },
-  { label: "All Stories", href: "/stories" },
+  { label: "Stories", href: "/stories" },
   { label: "Newsletter", href: "/newsletter" },
-  { label: "Team Kits", href: "/team-kits" },
   { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },
+];
+
+function InstagramIcon({ className = "w-[16px] h-[16px]" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+      <rect x="3" y="3" width="18" height="18" rx="5" />
+      <circle cx="12" cy="12" r="4.2" />
+      <circle cx="17.3" cy="6.7" r="1.1" fill="currentColor" stroke="none" />
+    </svg>
+  );
+}
+
+function TikTokIcon({ className = "w-[15px] h-[15px]" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" className={className} fill="currentColor" aria-hidden="true">
+      <path d="M16.6 2h-3.3v13.4a2.9 2.9 0 1 1-2.9-2.9c.3 0 .6 0 .9.1V9.2a6.3 6.3 0 1 0 5.3 6.2V8.6a7.9 7.9 0 0 0 4.4 1.4V6.6A4.6 4.6 0 0 1 16.6 2Z" />
+    </svg>
+  );
+}
+
+function FacebookIcon({ className = "w-[17px] h-[17px]" }: { className?: string }) {
+  return (
+    <svg viewBox="5 4 14 19" className={className} fill="currentColor" aria-hidden="true">
+      <path d="M13.5 21.9v-7.4h2.5l.4-2.9h-2.9V9.8c0-.8.3-1.4 1.5-1.4h1.5V5.8a20 20 0 0 0-2.2-.1c-2.2 0-3.7 1.3-3.7 3.8v2.1H8.1v2.9h2.5v7.4h2.9Z" />
+    </svg>
+  );
+}
+
+const socials = [
+  { label: "Instagram", href: "https://www.instagram.com/colorwaysports/", icon: <InstagramIcon /> },
+  { label: "TikTok", href: "https://www.tiktok.com/@colorway.sports", icon: <TikTokIcon /> },
+  { label: "X", href: "https://x.com/ColorWaySports", icon: <XIcon /> },
+  { label: "Facebook", href: "https://www.facebook.com/profile.php?id=61595102422539", icon: <FacebookIcon /> },
+  { label: "LinkedIn", href: "https://www.linkedin.com/company/colorwaysports/", icon: <LinkedInIcon /> },
 ];
 
 export default function Footer() {
@@ -35,35 +68,31 @@ export default function Footer() {
         </div>
 
         {/* Follow */}
-        <div className="mt-7 flex items-center gap-3">
+        <div className="mt-8 flex flex-col items-center gap-3">
           <span
             className="text-[10px] uppercase tracking-[0.18em] text-[#9FB6D6]"
             style={{ fontFamily: "var(--font-display)", fontWeight: 700 }}
           >
             Follow Us
           </span>
-          <a
-            href="https://x.com/ColorWaySports"
-            target="_blank"
-            rel="noopener"
-            aria-label="ColorWay Sports on X"
-            className="w-9 h-9 rounded-full border border-white/25 text-white flex items-center justify-center hover:bg-white hover:text-[#003087] transition-colors"
-          >
-            <XIcon />
-          </a>
-          <a
-            href="https://www.linkedin.com/company/colorwaysports/"
-            target="_blank"
-            rel="noopener"
-            aria-label="ColorWay Sports on LinkedIn"
-            className="w-9 h-9 rounded-full border border-white/25 text-white flex items-center justify-center hover:bg-white hover:text-[#003087] transition-colors"
-          >
-            <LinkedInIcon />
-          </a>
+          <div className="flex items-center gap-2.5">
+            {socials.map((s) => (
+              <a
+                key={s.label}
+                href={s.href}
+                target="_blank"
+                rel="noopener"
+                aria-label={`ColorWay Sports on ${s.label}`}
+                className="w-10 h-10 rounded-full border border-white/25 text-white flex items-center justify-center hover:bg-white hover:text-[#003087] transition-colors"
+              >
+                {s.icon}
+              </a>
+            ))}
+          </div>
         </div>
 
         {/* Nav */}
-        <nav className="flex flex-wrap justify-center gap-x-6 gap-y-3 mt-6">
+        <nav className="flex flex-wrap justify-center gap-x-6 gap-y-3 mt-8">
           {navLinks.map((link) => (
             <Link prefetch={false}
               key={link.label}
@@ -75,13 +104,15 @@ export default function Footer() {
           ))}
         </nav>
 
-        {/* Embed widget pitch */}
-        <Link prefetch={false}
-          href="/embed"
-          className="mt-4 text-[12px] text-[#9FB6D6] hover:text-white underline underline-offset-2 transition-colors"
-        >
-          Put our uniform widget on your site
-        </Link>
+        {/* Secondary links */}
+        <div className="mt-5 flex flex-wrap justify-center gap-x-4 gap-y-2 text-[12px]">
+          <Link prefetch={false} href="/team-kits" className="text-[#9FB6D6] hover:text-white underline underline-offset-2 transition-colors">
+            Custom team kits
+          </Link>
+          <Link prefetch={false} href="/embed" className="text-[#9FB6D6] hover:text-white underline underline-offset-2 transition-colors">
+            Put our uniform widget on your site
+          </Link>
+        </div>
 
         {/* Legal links */}
         <div className="flex gap-4 mt-5">
