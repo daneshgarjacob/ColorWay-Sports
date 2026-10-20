@@ -25,6 +25,7 @@ import { buildNflTeamIndex } from "@/lib/nflTrackerTeamIndex";
 import { buildCollegeWear, buildMlbWear, buildNflWear, normQuestion } from "@/lib/teamWearAnswers";
 import { gameDayForPost, revalidatePageWithin } from "@/lib/gameDayTitle";
 import UpNext from "@/components/UpNext";
+import { getNbaTeamNext } from "@/lib/nbaTonight";
 import { leagueColor } from "@/lib/leagueColors";
 import { HomeAwayChart, HomeRatioChart, FullSeasonChart, TotalAppearancesChart } from "@/components/LakersCharts";
 import Link from "next/link";
@@ -152,6 +153,9 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   // posts also re-render around game days (see revalidatePageWithin below).
   const now = new Date();
   const nflWear = nflTeam ? buildNflWear(nflTeam, nflLatest, now) : null;
+  // NBA team schedule posts: next game, both jerseys, our grade, link to the opponent's page.
+  const nbaFull = (j: string) => ({ Association: "Association Edition (White)", Icon: "Icon Edition", Statement: "Statement Edition", Classic: "Classic Edition", Specter: "Specter Edition" } as Record<string, string>)[j] ?? j;
+  const nbaNext = post.league === "nba" && slug.endsWith("-uniform-schedule-2026-27") ? getNbaTeamNext(slug, now) : null;
 
   // Game days: same window as the <title>. Re-rendering on that schedule is
   // what keeps the title, this heading and the "this week" box current
@@ -408,6 +412,30 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           }
           answers={nflWear.answers}
           link={nflLatest ? { href: nflLatest.trackerHref, label: "See the game in the NFL uniform tracker" } : null}
+        />
+      )}
+
+      {nbaNext && (
+        <TeamWearBox
+          accent="#C8102E"
+          badge="Official NBA uniform schedule · graded by ColorWay"
+          confirmedLabel="Confirmed by the NBA's uniform schedule"
+          headline={{
+            question: nbaNext.isToday ? `What are the ${nbaNext.team} wearing tonight?` : `What are the ${nbaNext.team} wearing next game?`,
+            uniform: nbaFull(nbaNext.jersey),
+            confirmed: nbaNext.jersey !== "TBA",
+            detail: `${nbaNext.isToday ? "Tonight" : "Next game"} · ${nbaNext.dayLabel} · ${nbaNext.home ? "vs" : "at"} ${nbaNext.opp.name}`,
+          }}
+          answers={[
+            {
+              q: `What are the ${nbaNext.opp.name} wearing ${nbaNext.isToday ? "tonight" : "that night"}?`,
+              a: `The ${nbaNext.opp.name} are in their ${nbaFull(nbaNext.opp.jersey)}.`,
+            },
+            ...(nbaNext.grade
+              ? [{ q: "How does the matchup look?", a: `We grade the ${nbaNext.team}-${nbaNext.opp.name} jersey matchup a ${nbaNext.grade}.` }]
+              : []),
+          ]}
+          link={{ href: nbaNext.opp.href, label: `See every ${nbaNext.opp.name} jersey this season` }}
         />
       )}
 

@@ -7,6 +7,7 @@ import { storiesMetadata } from "@/lib/storyFilters";
 import TeamQuickLinks from "@/components/TeamQuickLinks";
 import { buildTeamQuickLinks, resolveTeamQuickLinks } from "@/lib/teamQuickLinks";
 import { Suspense } from "react";
+import { StoriesGuide } from "@/components/StoriesGuide";
 
 type SearchParams = Promise<{ [key: string]: string | string[] | undefined }>;
 
@@ -99,6 +100,8 @@ export default async function StoriesPage({
           quickLinks={<TeamQuickLinks teams={quickLinkTeams} />}
         />
       </Suspense>
+      {/* Editorial guide for the main view only, so Mediavine's in-content ads have paragraphs to sit between. */}
+      {!first(sp.league) && !first(sp.team) && !first(sp.q) && <StoriesGuide />}
       <Footer />
     </>
   );

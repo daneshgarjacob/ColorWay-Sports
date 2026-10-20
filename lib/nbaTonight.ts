@@ -96,3 +96,52 @@ export function getNbaSlate(now = new Date()): NbaSlate | null {
       .map((g) => ({ away: side(g.a), home: side(g.h), grade: grades[`${date}|${g.a}|${g.h}`] ?? null })),
   };
 }
+
+// Per-team "next game" for the NBA team schedule posts' wear box: the team's
+// next game on or after today (ET), both jerseys and our matchup grade.
+export type NbaTeamNext = {
+  team: string;
+  opp: { name: string; href: string; jersey: string };
+  jersey: string;
+  home: boolean;
+  isToday: boolean;
+  dayLabel: string;
+  grade: string | null;
+};
+
+export function getNbaTeamNext(postSlug: string, now = new Date()): NbaTeamNext | null {
+  const slug = postSlug.replace(/-uniform-schedule-2026-27$/, "");
+  const tri = Object.keys(TEAMS).find((t) => TEAMS[t].slug === slug);
+  if (!tri) return null;
+  const dir = path.join(process.cwd(), "scripts", "data");
+  let lines: string[];
+  let ann: Record<string, { games: Record<string, string> }>;
+  let grades: Record<string, string> = {};
+  try {
+    lines = fs.readFileSync(path.join(dir, "nba-schedule-2026-27.txt"), "utf8").trim().split("\n");
+    ann = JSON.parse(fs.readFileSync(path.join(dir, "nba-announced-uniforms-2026-27.json"), "utf8"));
+    grades = JSON.parse(fs.readFileSync(path.join(dir, "nba-matchup-grades-2026-27.json"), "utf8"));
+  } catch {
+    return null;
+  }
+  const today = mlbEtToday(now);
+  const g = lines
+    .map((l) => { const [d, a, h] = l.split("|"); return { d, a, h }; })
+    .filter((x) => x.d >= today && (x.a === tri || x.h === tri))
+    .sort((x, y) => x.d.localeCompare(y.d))[0];
+  if (!g) return null;
+  const home = g.h === tri;
+  const oTri = home ? g.a : g.h;
+  const label = (t: string) => LABEL[ann[t]?.games?.[g.d] ?? ""] ?? "TBA";
+  const [y, m, d] = g.d.split("-").map(Number);
+  const dow = DOW[new Date(Date.UTC(y, m - 1, d)).getUTCDay()].slice(0, 3);
+  return {
+    team: TEAMS[tri].name,
+    opp: { name: TEAMS[oTri].name, href: `/stories/${TEAMS[oTri].slug}-uniform-schedule-2026-27`, jersey: label(oTri) },
+    jersey: label(tri),
+    home,
+    isToday: g.d === today,
+    dayLabel: `${dow}, ${MON[m]} ${d}`,
+    grade: grades[`${g.d}|${g.a}|${g.h}`] ?? null,
+  };
+}

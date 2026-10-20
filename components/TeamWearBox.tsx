@@ -17,6 +17,7 @@ export default function TeamWearBox({
   lastGame,
   answers,
   link,
+  confirmedLabel = "Confirmed by the team",
 }: {
   accent?: string;
   badge: string;
@@ -30,6 +31,7 @@ export default function TeamWearBox({
   } | null;
   answers: WearAnswer[];
   link?: { href: string; label: string } | null;
+  confirmedLabel?: string;
 }) {
   if (!headline && !lastGame) return null;
   const title = headline?.question ?? answers[answers.length - 1]?.q ?? "";
@@ -56,7 +58,7 @@ export default function TeamWearBox({
                 {headline.uniform}
               </p>
               <p className="mt-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-black/50">
-                {headline.confirmed ? "Confirmed by the team" : "Expected · not yet confirmed"}
+                {headline.confirmed ? confirmedLabel : "Expected · not yet confirmed"}
               </p>
             </div>
           )}
