@@ -156,6 +156,14 @@ export default function RootLayout({
         <Script id="grow-me" strategy="afterInteractive" data-grow-initializer="">
           {`!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTplOGYwYTcxYy0yYzk3LTQ0NGItODFjYS03MzY4ZTViZmFlMTQ=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();`}
         </Script>
+        {/* Hide Grow's floating heart (bookmark) and share/menu buttons; Jake
+            10/20: they earn nothing and crowd the phone screen. Grow's portal
+            has no switch for them alone, and the "What's Next" recommended-post
+            bubble rides on the same widget, so we keep Grow and hide just the
+            two buttons inside its open shadow root. */}
+        <Script id="grow-me-hide-buttons" strategy="afterInteractive">
+          {`(function(){var n=0;var t=setInterval(function(){var r=document.getElementById("grow-me-root");if(r&&r.shadowRoot){var s=document.createElement("style");s.textContent='button[aria-label="Bookmark Page"],button[aria-label="Open Grow Menu"]{display:none!important}';r.shadowRoot.appendChild(s);clearInterval(t);}else if(++n>120){clearInterval(t);}},500);})();`}
+        </Script>
       </body>
     </html>
   );
