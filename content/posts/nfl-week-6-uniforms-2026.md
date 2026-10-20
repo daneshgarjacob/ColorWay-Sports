@@ -95,7 +95,7 @@ Week 6 is the last of the three Crucial Catch weekends. Five clubs have tagged a
 
 ### Monday, October 19
 
-- **Washington Commanders at San Francisco 49ers**, 8:15 p.m. ET, ESPN and ABC. Commanders: burgundy helmet, white jersey, gold pants (confirmed). 49ers: gold helmet, scarlet jersey, gold pants (confirmed).
+- **Washington Commanders at San Francisco 49ers**, 8:15 p.m. ET, ESPN and ABC. Worn: Commanders burgundy helmet, white jersey, gold pants. 49ers gold helmet, scarlet jersey, gold pants. Matchup grade: B+. Final score to come.
 
 ### Byes
 

@@ -2,7 +2,7 @@
 title: "49ers Jerseys & Uniforms 2026: Schedule and 1994 Throwback Dates"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-19"
 excerpt: "The 49ers' 2026 uniform schedule is set: the fan-favorite 1994 throwbacks come out three times, and the polarizing all-black Rivalries returns in Week 14 against the Rams."
 gradient: "linear-gradient(135deg, #AA0000 0%, #1d1d1d 55%, #B3995D 130%)"
 cardStyle: words
@@ -79,7 +79,7 @@ Scarlet at Levi's, white on the road, and four dates that break the pattern. Wee
   <div style="background: #AA0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
   <div style="background: #AA0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Scarlet · Gold Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Seahawks</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Gold Pants</div></div>
-  <div style="background: #AA0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Commanders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Scarlet · Gold Pants</div></div>
+  <div style="background: #AA0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Commanders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Scarlet · Gold Pants · MNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #AA0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
@@ -110,7 +110,7 @@ Scarlet at home and white on the road for most of the season, including a five-g
 
 **What jerseys are the 49ers wearing this week?**
 
-Scarlet at home against Washington in Week 6 on Monday Night Football, October 19: gold helmet, scarlet jersey, gold pants, confirmed. The Commanders are in white with the burgundy helmet and gold pants. For the rest of the season: Scarlet at home and white on the road for most of the season, including a five-game run of road whites. Four dates are different: the red 1994 throwback at Dallas in Week 10 and at home against Philadelphia in Week 17, the white 1994 throwback on Thursday night against the Chargers in Week 15, and the all-black Rivalries uniform at home against the Rams in Week 14.
+Week 6 against Washington on Monday Night Football, October 19, worn: gold helmet, scarlet jersey and gold pants, as announced. The Commanders wore white over gold pants. We grade the matchup a B+. For the rest of the season: Scarlet at home and white on the road for most of the season, including a five-game run of road whites. Four dates are different: the red 1994 throwback at Dallas in Week 10 and at home against Philadelphia in Week 17, the white 1994 throwback on Thursday night against the Chargers in Week 15, and the all-black Rivalries uniform at home against the Rams in Week 14.
 
 **What uniform did the 49ers wear last week?**
 

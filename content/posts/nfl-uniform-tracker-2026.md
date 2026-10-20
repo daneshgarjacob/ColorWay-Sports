@@ -396,7 +396,7 @@ What the Cowboys and Packers wore, helmet to pants. Green Bay wore its primary h
 
 ### Washington Commanders at San Francisco 49ers
 
-What the Commanders and 49ers will wear, helmet to pants. Both teams announced their uniforms for Monday night. Washington wears its white jersey under the standard burgundy helmet with gold pants. San Francisco wears its scarlet home jersey with the gold helmet and gold pants. White over gold against scarlet over gold. We log the real combination and grade the matchup once the game is played.
+What the Commanders and 49ers are wearing, helmet to pants. Both teams wore exactly what they announced: Washington in the burgundy helmet, white jersey and gold pants, and San Francisco in the gold helmet, scarlet jersey and gold pants at Levi's Stadium. Gold pants on both sides tie it together, and white against scarlet keeps it easy to follow. We grade it a B+. Final score once the game ends.
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
