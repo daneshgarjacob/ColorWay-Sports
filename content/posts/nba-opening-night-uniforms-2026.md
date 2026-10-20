@@ -6,8 +6,8 @@ date: "2026-10-18"
 updatedDate: "2026-10-19"
 excerpt: "NBA Opening Night uniforms for Oct. 20-21, 2026: all 14 games, the Knicks' banner night vs LeBron's 76ers, the Nets' Classic throwback, and Houston's new ketchup and mustard set."
 gradient: "linear-gradient(135deg, #1D428A 0%, #0B1A2F 55%, #C8102E 130%)"
-coverImage: "/images/posts/nba-opening-night-uniforms-2026/lakers-luka-gold-vs-cavaliers.jpg"
-coverImagePosition: "70% 40%"
+coverImage: "/images/posts/nba-opening-night-uniforms-2026/cover-opening-night-luka.jpg"
+coverImagePosition: "center center"
 coverImageFit: "cover"
 coverCredit:
   author: "Erik Drost"
@@ -26,7 +26,7 @@ The 2026-27 NBA season tips off on **Tuesday, October 20**, with a three-game Op
 
 The headline is at Madison Square Garden. The New York Knicks get their **championship rings** and raise their **first title banner since 1973**, and then they play **LeBron James** in his first regular season game for the Philadelphia 76ers. On Wednesday, Brooklyn opens in its **ABA Classic Edition throwback**, Houston plays its first regular season game in the **new ketchup and mustard uniforms**, Minnesota brings its **rebranded uniforms** to Miami for Giannis Antetokounmpo's Heat debut, and Indiana wears **white on the road** in New Orleans.
 
-**Update, October 19:** The NBA's official game-by-game uniform schedule is out, and all 28 Opening Night calls on this page are now confirmed. Nine games changed from our earlier read. Atlanta wears white at Orlando, with the Magic in their Icon. Washington wears its navy Statement, "The District of Columbia" jersey, against Milwaukee. Chicago wears its black Statement at Toronto, with the Raptors in their Icon. Utah wears white at Memphis, with the Grizzlies in their Statement. New Orleans wears its Statement against Indiana. Houston opens in its new Icon at home, so it is Icon against Icon with Dallas. The Lakers wear their gold Icon at home against the Warriors' blue Icon. Phoenix wears its Statement at Portland. Sacramento wears white at the Clippers, with LA in its Icon. Thursday flipped too: the 76ers and Thunder wear their Icons at home, and the Cavaliers and Nuggets wear white.
+**Update, October 19:** Every Opening Night game now carries our matchup grade, in the game list below. The NBA's official game-by-game uniform schedule is out, and all 28 Opening Night calls on this page are now confirmed. Nine games changed from our earlier read. Atlanta wears white at Orlando, with the Magic in their Icon. Washington wears its navy Statement, "The District of Columbia" jersey, against Milwaukee. Chicago wears its black Statement at Toronto, with the Raptors in their Icon. Utah wears white at Memphis, with the Grizzlies in their Statement. New Orleans wears its Statement against Indiana. Houston opens in its new Icon at home, so it is Icon against Icon with Dallas. The Lakers wear their gold Icon at home against the Warriors' blue Icon. Phoenix wears its Statement at Portland. Sacramento wears white at the Clippers, with LA in its Icon. Thursday flipped too: the 76ers and Thunder wear their Icons at home, and the Cavaliers and Nuggets wear white.
 
 Below is every look for both nights, starting with the special ones. Every call is **confirmed** by the NBA's official uniform schedule, published October 19, and matches each team's [2026-27 uniform schedule](/stories/nba-uniform-schedule-2026-27) on our site. Teams can still change a jersey on the night, but it rarely happens. We will log what was actually worn the morning after.
 
@@ -95,23 +95,23 @@ Every new number for the season is in our [NBA new jersey numbers guide](/storie
 
 ### Tuesday, October 20
 
-- **Boston Celtics at Detroit Pistons**, 3:00 p.m. ET, NBC and Peacock. Celtics: green Icon (confirmed). Pistons: Association white (confirmed).
-- **Philadelphia 76ers at New York Knicks**, 7:00 p.m. ET, NBC and Peacock. Ring night and banner raising. 76ers: royal blue Icon (confirmed). Knicks: Association white (confirmed).
-- **Oklahoma City Thunder at San Antonio Spurs**, 9:30 p.m. ET, NBC and Peacock. Thunder: blue Icon (confirmed). Spurs: Association white (confirmed).
+- **Boston Celtics at Detroit Pistons**, 3:00 p.m. ET, NBC and Peacock. Celtics: green Icon (confirmed). Pistons: Association white (confirmed). Our grade: **A-**.
+- **Philadelphia 76ers at New York Knicks**, 7:00 p.m. ET, NBC and Peacock. Ring night and banner raising. 76ers: royal blue Icon (confirmed). Knicks: Association white (confirmed). Our grade: **B+**.
+- **Oklahoma City Thunder at San Antonio Spurs**, 9:30 p.m. ET, NBC and Peacock. Thunder: blue Icon (confirmed). Spurs: Association white (confirmed). Our grade: **B**.
 
 ### Wednesday, October 21
 
-- **Atlanta Hawks at Orlando Magic**, 7:00 p.m. ET. Hawks: Association white (confirmed). Magic: Icon Edition (confirmed).
-- **Milwaukee Bucks at Washington Wizards**, 7:00 p.m. ET. Bucks: Association white (confirmed). Wizards: navy Statement Edition (confirmed).
-- **Minnesota Timberwolves at Miami Heat**, 7:30 p.m. ET, ESPN. Timberwolves: new blue Icon (confirmed). Heat: Association white (confirmed).
-- **Charlotte Hornets at Brooklyn Nets**, 7:30 p.m. ET. Hornets: teal Icon (confirmed). Nets: white Classic Edition (confirmed).
-- **Chicago Bulls at Toronto Raptors**, 7:30 p.m. ET. Bulls: black Statement Edition (confirmed). Raptors: Icon Edition (confirmed).
-- **Utah Jazz at Memphis Grizzlies**, 8:00 p.m. ET. Jazz: Association white (confirmed). Grizzlies: Statement Edition (confirmed).
-- **Indiana Pacers at New Orleans Pelicans**, 8:00 p.m. ET. Pacers: Association white (confirmed). Pelicans: Statement Edition (confirmed).
-- **Dallas Mavericks at Houston Rockets**, 8:30 p.m. ET. Mavericks: Icon Edition (confirmed). Rockets: new Icon Edition (confirmed).
-- **Golden State Warriors at Los Angeles Lakers**, 10:00 p.m. ET, ESPN. Warriors: blue Icon (confirmed). Lakers: gold Icon (confirmed).
-- **Phoenix Suns at Portland Trail Blazers**, 10:00 p.m. ET. Suns: Statement Edition (confirmed). Trail Blazers: Association white (confirmed).
-- **Sacramento Kings at LA Clippers**, 10:30 p.m. ET. Kings: Association white (confirmed). Clippers: Icon Edition (confirmed).
+- **Atlanta Hawks at Orlando Magic**, 7:00 p.m. ET. Hawks: Association white (confirmed). Magic: Icon Edition (confirmed). Our grade: **B**.
+- **Milwaukee Bucks at Washington Wizards**, 7:00 p.m. ET. Bucks: Association white (confirmed). Wizards: navy Statement Edition (confirmed). Our grade: **B+**.
+- **Minnesota Timberwolves at Miami Heat**, 7:30 p.m. ET, ESPN. Timberwolves: new blue Icon (confirmed). Heat: Association white (confirmed). Our grade: **B+**.
+- **Charlotte Hornets at Brooklyn Nets**, 7:30 p.m. ET. Hornets: teal Icon (confirmed). Nets: white Classic Edition (confirmed). Our grade: **A-**.
+- **Chicago Bulls at Toronto Raptors**, 7:30 p.m. ET. Bulls: black Statement Edition (confirmed). Raptors: Icon Edition (confirmed). Our grade: **C+**.
+- **Utah Jazz at Memphis Grizzlies**, 8:00 p.m. ET. Jazz: Association white (confirmed). Grizzlies: Statement Edition (confirmed). Our grade: **B**.
+- **Indiana Pacers at New Orleans Pelicans**, 8:00 p.m. ET. Pacers: Association white (confirmed). Pelicans: Statement Edition (confirmed). Our grade: **B**.
+- **Dallas Mavericks at Houston Rockets**, 8:30 p.m. ET. Mavericks: Icon Edition (confirmed). Rockets: new Icon Edition (confirmed). Our grade: **A**.
+- **Golden State Warriors at Los Angeles Lakers**, 10:00 p.m. ET, ESPN. Warriors: blue Icon (confirmed). Lakers: gold Icon (confirmed). Our grade: **A**.
+- **Phoenix Suns at Portland Trail Blazers**, 10:00 p.m. ET. Suns: Statement Edition (confirmed). Trail Blazers: Association white (confirmed). Our grade: **B**.
+- **Sacramento Kings at LA Clippers**, 10:30 p.m. ET. Kings: Association white (confirmed). Clippers: Icon Edition (confirmed). Our grade: **B**.
 
 ### Still to Open on Thursday, October 22
 
