@@ -3,7 +3,7 @@ title: "NBA Opening Night Uniforms 2026: What Every Team Is Wearing, Including t
 author: "colorway-sports-staff"
 category: NBA
 date: "2026-10-18"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-20"
 excerpt: "NBA Opening Night uniforms for Oct. 20-21, 2026: all 14 games, the Knicks' banner night vs LeBron's 76ers, the Nets' Classic throwback, and Houston's new ketchup and mustard set."
 gradient: "linear-gradient(135deg, #1D428A 0%, #0B1A2F 55%, #C8102E 130%)"
 coverImage: "/images/posts/nba-opening-night-uniforms-2026/cover-opening-night-luka.jpg"
@@ -41,7 +41,7 @@ The official schedule also shows how freely NBA teams pick home jerseys compared
 <img src="/images/posts/how-every-nba-team-got-its-name/76ers-game.jpg" alt="Tyrese Maxey in the 76ers royal blue Icon uniform with PHILA across the chest, April 2026" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The 76ers royal blue Icon, the jersey Philadelphia will wear at the Garden (Tyrese Maxey, April 2026). Photo: <a href="https://commons.wikimedia.org/wiki/File:1_tyrese_maxey_2026.jpg" rel="nofollow noopener" target="_blank">Chensiyuan</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="nofollow noopener" target="_blank">CC BY-SA 4.0</a></p>
 
-That settles the biggest question of the night. Champions sometimes go to their color for ring night, as Oklahoma City did with its blue Icon at home for its 2025 ring night, but the Knicks raise their banner in white.
+That settles the biggest question of the night. Champions sometimes go to their color for ring night, as Oklahoma City did with its blue Icon at home for its 2025 ring night, but the Knicks raise their banner in white. On Tuesday the Knicks showed that white with a twist: gold lettering, gold numbers, a gold 2025-26 Champions patch and a gold "3" tag at the collar. Every detail, and our A+ grade, is in our [Knicks gold ring night uniform breakdown](/stories/knicks-gold-championship-uniforms-ring-night-2026).
 
 LeBron's number and why it is not 6 are in our [LeBron 76ers jersey number explainer](/stories/lebron-james-76ers-jersey-number). If you want to see how little the Knicks' look has changed since the last banner, our [1973 vs 2026 Knicks championship uniforms](/stories/knicks-1973-vs-2026-championship-uniforms-compared) puts them side by side. More dates in the [Knicks 2026-27 uniform schedule](/stories/knicks-uniform-schedule-2026-27) and the [76ers 2026-27 uniform schedule](/stories/76ers-uniform-schedule-2026-27).
 
