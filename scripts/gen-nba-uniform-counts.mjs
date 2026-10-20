@@ -37,7 +37,7 @@ const NAME = {
 };
 const MONTH = ["", "January", "February", "March", "April", "May", "June",
   "July", "August", "September", "October", "November", "December"];
-const ORDER = ["Association White", "Icon Edition", "Statement Edition", "City Edition", "Classic Edition", "Specter Edition"];
+const ORDER = ["Association White", "Icon Edition", "Statement Edition", "City Edition", "Classic Edition", "Specter Edition", "Vice City Edition"];
 const LABEL = { "Association White": "Association Edition" };
 const lab = (c) => LABEL[c] || c;
 const NUM = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"];
@@ -97,6 +97,8 @@ for (const [slug, tri] of Object.entries(TEAMS)) {
     "City Edition": card("City Edition") || { bg: "#101010", fg: "#ffffff", border: "" },
     "Classic Edition": card("Classic Edition") || { bg: "#7a4a12", fg: "#ffffff", border: "" },
     "Specter Edition": card("Specter Edition") || { bg: "#1a1426", fg: "#ffffff", border: "" },
+    // Heat one-night GTA VI "A Night in Vice City" uniform (Nov 18, 2026 vs Bucks).
+    "Vice City Edition": { bg: "#1a1530", fg: "#ffffff", border: "" },
   };
   const box = (call, t) => {
     const st = style[call];
