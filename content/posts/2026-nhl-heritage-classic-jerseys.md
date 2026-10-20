@@ -3,7 +3,7 @@ title: "2026 NHL Heritage Classic Jerseys: Jets and Canadiens Uniforms Revealed 
 author: "jake-daneshgar"
 category: "NHL"
 date: "2026-10-07"
-updatedDate: "2026-10-07"
+updatedDate: "2026-10-20"
 excerpt: "The Jets go white with a 1980s throwback and the Canadiens wear Les Habitants for the first time. Our grades for both Heritage Classic jerseys."
 gradient: "linear-gradient(135deg, #041E42 0%, #AF1E2D 100%)"
 coverImage: "/images/posts/2026-nhl-heritage-classic-jerseys/cover.jpg"
@@ -57,7 +57,7 @@ Captain Adam Lowry modeled it, with the C on the chest, in the team's reveal:
 
 **The Canadiens' Heritage Classic sweater is red, with one blue band across the chest and arms trimmed in off-white pinstriping.** The trim and the laced collar are a vintage off-white instead of bright white, which gives the whole thing an older feel. The CH has been redrawn to echo past versions of the crest and is cut from felt with running-stitch detailing.
 
-Then come the firsts. **"Les Habitants" appears on a Canadiens jersey for the first time**, on the back of the collar. The event name at the back hem is written in French and sits next to symbols from the flag of the City of Montreal. A fleur-de-lis loop label nods to Quebec.
+Then come the firsts. **"Les Habitants" appears on a Canadiens jersey for the first time**, on the back of the collar. A fleur-de-lis loop label nods to Quebec.
 
 We are not running Montreal's product photos here, so here is the sweater straight from the Canadiens:
 
@@ -92,6 +92,20 @@ Both clubs have been here before. Montreal played in the very first Heritage Cla
 
 For more on each team's season, see the [Winnipeg Jets 2026-27 uniform schedule](/stories/winnipeg-jets-uniform-schedule-2026-27) and the [Canadiens 2026-27 uniform schedule](/stories/canadiens-uniform-schedule-2026-27). Every new sweater this season is in our [new NHL jerseys for 2026-27](/stories/new-nhl-jerseys-2026-27) guide, and you can see where both clubs' regular sets land in our [best NHL jerseys ranking](/stories/best-nhl-jerseys-2026-27-ranked).
 
+## The Heritage Classic Rink: A Canadian Cabin at Princess Auto Stadium
+
+The NHL showed the field design on October 19, and it matches the sweaters' throwback feel. The theme is a **Canadian cabin retreat**: rustic timber-log walls around the rink, oversized team crests, pennants, framed jerseys and plaques, and crossed wooden sticks with antlers. A big **stone fireplace** with a glowing fire sits along the front of the field, next to a giant skate for each team. Four color-lit entertainment stages ring the field, and there is a Timbits U7 rink beside the main sheet. The NHL says the design took close to a year.
+
+## Heritage Classic Weekend: Ceremonies, Alumni Game and Fan Festival
+
+- **Alumni game:** Saturday, October 24, indoors at Canada Life Centre. Winnipeg's roster includes Dustin Byfuglien, Andrew Ladd and Blake Wheeler, and Montreal's includes honorary captain Mike Keane.
+- **Fan festival:** the Scotiabank NHL PreGame, Sunday from 12 to 5:30 p.m. CDT at the University of Manitoba, for ticketholders, with the Stanley Cup on site.
+- **Puck drop:** Byfuglien, Ladd and Wheeler drop the ceremonial puck.
+- **Anthem:** SoulBear sings, with Jordan Sangalang.
+- **Second intermission:** a tribute to 15 years of the Jets in Winnipeg, with Byfuglien, Ladd, Wheeler and other former Jets.
+
+It is the eighth Heritage Classic and the first since 2023. The Jets are 1-1-0 outdoors and play their third outdoor game, and the Canadiens are 2-2-0 and play their fifth, their first since 2017.
+
 ## The Bottom Line
 
 The Jets went white with their 1980s and 1990s crest and earn an A-. The Canadiens went red with one blue band, a redrawn CH and "Les Habitants" for the first time, and earn an A for changing just enough without losing who they are. Both get worn once, on Sunday, October 25, at Princess Auto Stadium in Winnipeg.
@@ -108,11 +122,19 @@ The Jets wear a white sweater based on their 1980s and 1990s look, with the vint
 
 **What are the Canadiens wearing for the Heritage Classic?**
 
-The Canadiens wear a red sweater with a single blue band across the chest and arms, off-white pinstriping, a vintage off-white laced collar and a redrawn felt CH. The event name at the back hem is in French next to symbols from the City of Montreal flag. We grade it an A.
+The Canadiens wear a red sweater with a single blue band across the chest and arms, off-white pinstriping, a vintage off-white laced collar and a redrawn felt CH. We grade it an A.
 
 **What does "Les Habitants" mean on the Canadiens jersey?**
 
 "Les Habitants" is the old nickname for the Canadiens, and it is where the "Habs" name comes from. The Heritage Classic sweater is the first Canadiens jersey to carry the words, on the back of the collar.
+
+**What does the 2026 Heritage Classic rink look like?**
+
+The 2026 Heritage Classic field at Princess Auto Stadium has a Canadian cabin theme: timber-log walls, a stone fireplace with a glowing fire, giant skates for the Jets and Canadiens, framed jerseys and pennants, and four color-lit stages. The NHL revealed the design on October 19, 2026.
+
+**Is there a Heritage Classic alumni game?**
+
+Yes. Jets and Canadiens alumni play on Saturday, October 24, 2026, the day before the main game, indoors at Canada Life Centre in Winnipeg.
 
 **How can I watch the 2026 Heritage Classic?**
 
