@@ -110,7 +110,7 @@ Scarlet at home and white on the road for most of the season, including a five-g
 
 **What jerseys are the 49ers wearing this week?**
 
-Week 6 against Washington on Monday Night Football, October 19, worn: gold helmet, scarlet jersey and gold pants, as announced. The Commanders wore white over gold pants. We grade the matchup a B+. For the rest of the season: Scarlet at home and white on the road for most of the season, including a five-game run of road whites. Four dates are different: the red 1994 throwback at Dallas in Week 10 and at home against Philadelphia in Week 17, the white 1994 throwback on Thursday night against the Chargers in Week 15, and the all-black Rivalries uniform at home against the Rams in Week 14.
+Week 6 against Washington on Monday Night Football, October 19, worn: gold helmet, scarlet jersey and gold pants, as announced. The Commanders wore white over gold pants. San Francisco won 23-17. We grade the matchup a B+. For the rest of the season: Scarlet at home and white on the road for most of the season, including a five-game run of road whites. Four dates are different: the red 1994 throwback at Dallas in Week 10 and at home against Philadelphia in Week 17, the white 1994 throwback on Thursday night against the Chargers in Week 15, and the all-black Rivalries uniform at home against the Rams in Week 14.
 
 **What uniform did the 49ers wear last week?**
 

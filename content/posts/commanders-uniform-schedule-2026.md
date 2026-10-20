@@ -92,7 +92,7 @@ Burgundy is the most likely answer, since Washington wears it nine times includi
 
 **What jerseys are the Commanders wearing this week?**
 
-Week 6 at San Francisco on Monday Night Football, October 19, worn: burgundy helmet, white jersey and gold pants, as announced. The 49ers wore scarlet over gold pants. We grade the matchup a B+. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
+Week 6 at San Francisco on Monday Night Football, October 19, worn: burgundy helmet, white jersey and gold pants, as announced. The 49ers wore scarlet over gold pants. San Francisco won 23-17. We grade the matchup a B+. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
 
 **What uniform did the Commanders wear last week?**
 

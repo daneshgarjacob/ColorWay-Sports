@@ -38,8 +38,8 @@ export const MLB_POSTSEASON_ALIVE: string[] = [
   // "cubs" eliminated 2026-09-30 (Padres swept the Wild Card, 2-0)
   // "padres" eliminated 2026-10-07 (Brewers won the NLDS, 3-1)
   // "dodgers" eliminated 2026-10-15 (Brewers swept the NLCS, 4-0)
+  // "guardians" eliminated 2026-10-19 (Rays won the ALCS, 4-2)
   "rays",
-  "guardians",
   "brewers",
 ];
 
@@ -47,8 +47,8 @@ export const MLB_POSTSEASON_ALIVE: string[] = [
 // this list, then any alive team not in a series (the byes). Optional to update:
 // when a round ends, replace these with the next round's matchups.
 export const MLB_POSTSEASON_SERIES: { round: string; away: string; home: string }[] = [
-  // NLCS (dodgers at brewers) ended 2026-10-15; the Brewers now wait as a bye.
-  { round: "ALCS", away: "guardians", home: "rays" },
+  // ALCS (guardians at rays) ended 2026-10-19, Rays 4-2. World Series: Rays at Brewers, Game 1 Oct 23.
+  { round: "World Series", away: "rays", home: "brewers" },
 ];
 // Where the teams without a series are waiting.
 const BYE_LABEL = "World Series · Game 1 Oct 23";
