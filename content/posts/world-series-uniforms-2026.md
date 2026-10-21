@@ -25,6 +25,8 @@ teams:
 
 What will the teams wear in the 2026 World Series? It is set: the **Tampa Bay Rays vs. the Milwaukee Brewers**. The Rays beat the Guardians 7-3 in Game 6 of the ALCS on Monday night at Tropicana Field to win the pennant 4-2, wearing the white Devil Rays throwback. The Brewers swept the Dodgers 4-0 in the NLCS for their first World Series since 1982 and their first as a National League team. Game 1 is **Friday, October 23 at American Family Field** at 8:00 p.m. ET on FOX. Below is every game date and time, which games are under the Tropicana Field roof, the 2026 World Series patch, what both teams have worn in every playoff game this October with their record in each jersey, and what we expect game by game. We confirm both jerseys at first pitch of every game.
 
+**Why the Rays look like the 1998 Devil Rays this October:** the rainbow TAMPA BAY road gray, the Friday throwback and what is left of the sunburst, in [Are the Rays Becoming the Devil Rays Again?](/stories/rays-devil-rays-comeback-world-series-2026)
+
 ## Quick Answers
 
 - **Brewers at home (Games 1, 2, 6, 7):** the cream, expected. They have worn it in all four home playoff games this October and won all four.
