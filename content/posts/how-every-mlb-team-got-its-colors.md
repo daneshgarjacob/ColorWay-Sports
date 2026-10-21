@@ -17,7 +17,7 @@ Baseball colors are older than baseball logos. Four teams, the Reds, Red Sox, Wh
 
 Both World Series teams are a good example. The Rays started in 1998 as the Devil Rays, in a rainbow gradient, switched to navy, Columbia blue and a yellow sunburst when they dropped the "Devil" in 2008, and are now bringing the rainbow back. The Brewers wore navy, green and gold in the 1990s and navy and gold after that, then brought back the 1978 ball-in-glove logo in 2020. Game 1 is Friday, October 23. Here is [what both teams will wear in the World Series](/stories/world-series-uniforms-2026), and [how the Rays are turning back into the Devil Rays](/stories/rays-devil-rays-comeback-world-series-2026).
 
-So we went back to the start for all 30 teams, using each club's own history on MLB.com, the Society for American Baseball Research, the Hall of Fame and newspaper archives. Where the famous story doesn't hold up, we say so. This is the follow-up to [How Every MLB Team Got Its Name](/stories/how-every-mlb-team-got-its-name) the MLB version of [How Every NFL Team Got Its Colors](/stories/how-every-nfl-team-got-its-colors).
+So we went back to the start for all 30 teams, using each club's own history on MLB.com, the Society for American Baseball Research, the Hall of Fame and newspaper archives. Where the famous story doesn't hold up, we say so. This is the follow-up to [How Every MLB Team Got Its Name](/stories/how-every-mlb-team-got-its-name) and the MLB version of [How Every NFL Team Got Its Colors](/stories/how-every-nfl-team-got-its-colors).
 
 ## Quick Facts: MLB Team Colors
 
