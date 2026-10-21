@@ -22,7 +22,7 @@ teams: ["buffalo-bills", "miami-dolphins", "new-england-patriots", "new-york-jet
 
 Colors are the part of a uniform that lasts. Logos get redrawn and helmets change, but most NFL teams still wear the colors they picked decades ago. Some came from a college. Some came from a city flag. One came from a laundry business, and one came from a car interior.
 
-So we went back to the start for all 32 teams, using the clubs' own histories, the Pro Football Hall of Fame, NFL.com and newspaper archives. Where the famous story doesn't hold up, we say so. This is the follow-up to [How Every NFL Team Got Its Name](/stories/how-every-nfl-team-got-its-name). We have also covered how every [MLB](/stories/how-every-mlb-team-got-its-name), [NBA](/stories/how-every-nba-team-got-its-name) and [NHL](/stories/how-every-nhl-team-got-its-name) team got its name.
+So we went back to the start for all 32 teams, using the clubs' own histories, the Pro Football Hall of Fame, NFL.com and newspaper archives. Where the famous story doesn't hold up, we say so. This is the follow-up to [How Every NFL Team Got Its Name](/stories/how-every-nfl-team-got-its-name). For baseball, see [How Every MLB Team Got Its Colors](/stories/how-every-mlb-team-got-its-colors). We have also covered how every [MLB](/stories/how-every-mlb-team-got-its-name), [NBA](/stories/how-every-nba-team-got-its-name) and [NHL](/stories/how-every-nhl-team-got-its-name) team got its name.
 
 ## Quick Facts: NFL Team Colors
 

@@ -26,6 +26,9 @@ So we went back to the start for all 30 MLB teams, using each club's own history
 
 This is part two of our team-name history series, after [How Every NFL Team Got Its Name](/stories/how-every-nfl-team-got-its-name). The NBA and NHL are next.
 
+
+The follow-up is out: [How Every MLB Team Got Its Colors](/stories/how-every-mlb-team-got-its-colors), the story behind all 30 color schemes.
+
 ## Quick Facts: MLB Team Names
 
 - **Oldest continuous nickname:** the Giants, since 1885. The Phillies are the oldest one-name, one-city franchise, since 1883.
