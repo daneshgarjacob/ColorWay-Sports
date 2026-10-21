@@ -2,7 +2,7 @@
 title: "Lakers Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-21"
 excerpt: "The full Lakers uniform schedule for 2026-27: the jersey for all 80 dated games, how many times they wear each one, and every City Edition date."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 100%)"
 cardStyle: words
@@ -18,6 +18,8 @@ The Los Angeles Lakers open 2026-27 at Crypto.com Arena in October 2026. This is
 <!-- nba-uniform-counts:intro:start -->
 **Update, October 19:** The full Lakers jersey schedule for 2026-27 is out, a call for all 80 dated games. The Icon Edition is the most-worn Lakers jersey this season at **28 games** (9 home, 19 road), ahead of the Statement Edition at 19. Opening night, October 21 vs the Warriors, is the **Icon Edition**. The City Edition debuts **January 14 vs the Magic** and is scheduled for 12 games in all. The new [Specter Edition](/stories/nba-specter-edition-jerseys-2026-27) gets three nights: December 14 vs the Pelicans, December 21 vs the Pacers and December 23 vs the Nuggets. Every game is filled in below.
 <!-- nba-uniform-counts:intro:end -->
+
+**Purple beats gold at home:** the Lakers wear the purple Statement 13 times at Crypto.com Arena this season and gold just 9. We charted every home game by jersey in [Lakers Home Jerseys 2026-27](/stories/lakers-home-jerseys-2026-27-purple-over-gold).
 
 <!-- nba-uniform-counts:grid:start -->
 ## How Many Times the Lakers Wear Each Jersey in 2026-27

@@ -156,6 +156,13 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   // NBA team schedule posts: next game, both jerseys, our grade, link to the opponent's page.
   const nbaFull = (j: string) => ({ Association: "Association Edition (White)", Icon: "Icon Edition", Statement: "Statement Edition", Classic: "Classic Edition", Specter: "Specter Edition" } as Record<string, string>)[j] ?? j;
   const nbaNext = post.league === "nba" && slug.endsWith("-uniform-schedule-2026-27") ? getNbaTeamNext(slug, now) : null;
+  // The jersey's colors, read from the post's own Uniform Closet cards (Lakers Icon = gold).
+  const nbaSwatch = (j: string) => {
+    if (j === "Association") return { bg: "#ffffff", fg: "#14284b" };
+    const html = post.contentHtml.slice(Math.max(0, post.contentHtml.indexOf("Uniform Closet for")));
+    const m = html.match(new RegExp(`<div style="background: (#[0-9A-Fa-f]{3,6}); color: (#[0-9A-Fa-f]{3,6});[^"]*"><div[^>]*>${nbaFull(j)}</div>`));
+    return m ? { bg: m[1], fg: m[2] } : undefined;
+  };
 
   // Game days: same window as the <title>. Re-rendering on that schedule is
   // what keeps the title, this heading and the "this week" box current
@@ -423,6 +430,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           headline={{
             question: nbaNext.isToday ? `What are the ${nbaNext.team} wearing tonight?` : `What are the ${nbaNext.team} wearing next game?`,
             uniform: nbaFull(nbaNext.jersey),
+            swatch: nbaSwatch(nbaNext.jersey),
             confirmed: nbaNext.jersey !== "TBA",
             detail: `${nbaNext.isToday ? "Tonight" : "Next game"} · ${nbaNext.dayLabel} · ${nbaNext.home ? "vs" : "at"} ${nbaNext.opp.name}`,
           }}

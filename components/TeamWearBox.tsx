@@ -54,9 +54,24 @@ export default function TeamWearBox({
           {headline && (
             <div className="mb-5">
               <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#8A8F98]">{headline.detail}</p>
-              <p className="mt-1 text-2xl sm:text-[28px] font-extrabold leading-tight" style={{ color: accent }}>
-                {headline.uniform}
-              </p>
+              {headline.swatch ? (
+                <p className="mt-2">
+                  <span
+                    className="inline-block rounded-xl px-4 py-1.5 text-2xl sm:text-[28px] font-extrabold leading-tight"
+                    style={{
+                      background: headline.swatch.bg,
+                      color: headline.swatch.fg,
+                      border: /^#f{3,6}$/i.test(headline.swatch.bg) ? "1px solid #d5dae3" : undefined,
+                    }}
+                  >
+                    {headline.uniform}
+                  </span>
+                </p>
+              ) : (
+                <p className="mt-1 text-2xl sm:text-[28px] font-extrabold leading-tight" style={{ color: accent }}>
+                  {headline.uniform}
+                </p>
+              )}
               <p className="mt-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-black/50">
                 {headline.confirmed ? confirmedLabel : "Expected · not yet confirmed"}
               </p>

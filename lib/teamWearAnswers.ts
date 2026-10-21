@@ -25,6 +25,8 @@ export type WearHeadline = {
   confirmed: boolean;
   /** "Week 2 · Sun, Sep 20 · vs Raiders" */
   detail: string;
+  /** The jersey's own colors (NBA): shows the uniform as a chip in them. */
+  swatch?: { bg: string; fg: string };
 };
 
 const DAY = 86400000;
