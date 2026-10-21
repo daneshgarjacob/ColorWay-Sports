@@ -68,7 +68,8 @@ export interface PostMeta {
   /** Opt-in: let updatedDate resurface this post in Latest. Trackers only —
    *  routine refreshes (e.g. uniform-schedule posts) should NOT jump the feed. */
   resurfaceOnUpdate?: boolean;
-  homepageHero?: boolean;
+  /** "YYYY-MM-DD" (Eastern): lead the homepage on that day only. */
+  homepageHero?: string;
   homepageFeature?: boolean;
   /** Render a newsletter signup above the article body too (daily-updated posts). */
   newsletterTop?: boolean;
@@ -240,7 +241,12 @@ function readAllPosts(): PostMeta[] {
       featuredOrder: data.featuredOrder,
       homepageOrder: data.homepageOrder,
       resurfaceOnUpdate: data.resurfaceOnUpdate,
-      homepageHero: data.homepageHero,
+      homepageHero:
+        data.homepageHero instanceof Date
+          ? data.homepageHero.toISOString().slice(0, 10)
+          : typeof data.homepageHero === "string"
+            ? data.homepageHero
+            : undefined,
       homepageFeature: data.homepageFeature,
       newsletterTop: data.newsletterTop,
       topViewsRank: data.topViewsRank,

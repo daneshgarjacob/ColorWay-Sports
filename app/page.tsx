@@ -19,6 +19,7 @@ import Link from "next/link";
 import NbaTonightZone from "@/components/NbaTonightZone";
 import type { Metadata } from "next";
 import { getAllPosts, type PostMeta as Post } from "@/lib/posts";
+import { revalidatePageWithin } from "@/lib/gameDayTitle";
 import { currentNflWeek, getNflWeekChips } from "@/lib/nflWeek";
 import { isEliminatedMlbTeamPost, mlbBandSlugs } from "@/lib/mlbPostseason";
 
@@ -43,8 +44,20 @@ const TRACKER_SLUGS = new Set([
 const PIN_DAYS = 3;
 // Posts published within this many days lead More Stories.
 const FRESH_DAYS = 2;
+// Jake 10/21: a different lead story every day, never the same one two days
+// running ("people think it's stagnant"). A post can claim one day with
+// `homepageHero: "YYYY-MM-DD"` (Eastern); on any other day the lead comes from
+// this list, one per day. Only HD professional team/league photos belong here
+// (10/5 rule), so check the cover before adding a slug, and drop stories once
+// they go stale.
+const HERO_ROTATION = [
+  "world-series-uniforms-2026",
+  "nba-opening-night-uniforms-2026",
+  "2026-nhl-heritage-classic-jerseys",
+  "knicks-gold-championship-uniforms-ring-night-2026",
+];
 
-export default function Home() {
+export default async function Home() {
   const series = getFeaturedSeries();
   const worldSeriesOn = series?.kind === "World Series";
   const alcsOn = series?.kind === "ALCS";
@@ -74,16 +87,36 @@ export default function Home() {
   });
   const dayNumber = (d: string) => Math.floor(Date.parse(d.slice(0, 10) + "T00:00:00Z") / 86_400_000);
   const daysSince = (d: string) => dayNumber(todayEt) - dayNumber(d);
+  // Re-render just after midnight Eastern, so the lead story, the pins and the
+  // More Stories rotation turn over every day even with no deploy.
+  const etNow = new Date(new Date().toLocaleString("en-US", { timeZone: "America/New_York" }));
+  const secsToEtMidnight = 86_400 - (etNow.getHours() * 3600 + etNow.getMinutes() * 60 + etNow.getSeconds());
+  await revalidatePageWithin(Math.max(300, secsToEtMidnight + 120));
 
-  // A post can pin itself to the hero slot with `homepageHero: true`; otherwise
-  // lead with the newest post that carries a real cover image.
-  // Jake 10/13: up to TWO posts can share the lead as a pair. The story that was
-  // pinned first (older date) keeps the left slot; the newer one joins beside it.
+  // Up to TWO posts can claim today's lead as a pair (Jake 10/13). The one
+  // published first keeps the left slot; the newer one joins beside it.
   const pinnedHeroes = filtered
-    .filter((p) => p.homepageHero)
+    .filter((p) => p.homepageHero === todayEt)
     .sort((a, b) => a.date.localeCompare(b.date))
     .slice(0, 2);
-  const heroPost = pinnedHeroes[0] || byDateDesc.find(hasCover) || byDateDesc[0];
+  const rotation = HERO_ROTATION.map((slug) => filtered.find((p) => p.slug === slug)).filter(
+    (p): p is Post => Boolean(p)
+  );
+  // The lead for any day: that day's pin, else the rotation's pick, moved on
+  // by one when it would repeat the day before's lead.
+  const isoOfDay = (n: number) => new Date(n * 86_400_000).toISOString().slice(0, 10);
+  const leadFor = (n: number, lookback: number): Post | undefined => {
+    const pinned = filtered.filter((p) => p.homepageHero === isoOfDay(n)).sort((a, b) => a.date.localeCompare(b.date))[0];
+    if (pinned) return pinned;
+    if (!rotation.length) return undefined;
+    const pick = rotation[n % rotation.length];
+    if (lookback > 0 && rotation.length > 1 && leadFor(n - 1, lookback - 1)?.slug === pick.slug) {
+      return rotation[(n + 1) % rotation.length];
+    }
+    return pick;
+  };
+  const dailyLead = leadFor(dayNumber(todayEt), 14);
+  const heroPost = pinnedHeroes[0] || dailyLead || byDateDesc.find(hasCover) || byDateDesc[0];
   const heroPost2 = pinnedHeroes[1] ?? null;
   const heroSlugs = [heroPost.slug, ...(heroPost2 ? [heroPost2.slug] : [])];
 

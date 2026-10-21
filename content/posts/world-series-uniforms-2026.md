@@ -5,6 +5,7 @@ resurfaceOnUpdate: true
 category: MLB
 date: "2026-10-16"
 updatedDate: "2026-10-20"
+homepageHero: "2026-10-21"
 excerpt: "2026 World Series uniforms for Rays vs. Brewers: what each team will wear in Milwaukee and under the Tropicana Field dome, every playoff jersey and record, the Devil Rays throwback question, the patch and the full schedule."
 gradient: "linear-gradient(135deg, #12284B 0%, #0B1A2F 55%, #FFC52F 140%)"
 coverImage: "/images/posts/world-series-uniforms-2026/brewers-cream-home-misiorowski.jpg"
