@@ -27,11 +27,10 @@ The core template has barely moved in two decades, and the City Edition reported
 
 ## 9. Los Angeles Lakers Specter Edition <span style="display:inline-block;background:#2f6bed;color:#fff;font-weight:800;border-radius:999px;padding:2px 12px;margin-left:6px;font-size:0.9em;">C</span>
 
-<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/jerseyarchive/status/2041883997291114548"></a></blockquote>
-</div>
+<img src="/images/posts/worst-uniforms-in-sports-2026/lakers-specter-edition-nba.jpg" alt="Los Angeles Lakers 2026-27 Specter Edition jersey: black base with purple streaks, gold 77 and gold LAKERS wordmark" style="display:block;width:100%;max-width:520px;margin:1.5em auto 0.6em;border-radius:12px;" loading="lazy" decoding="async" />
+<p style="text-align:center;font-size:0.78em;color:#7C8696;margin:0 0 2em;">The Lakers Specter Edition at its Nike reveal. Image: <a href="https://www.nba.com/news/nike-nba-standard-issue-collection-reinvents-fan-wear">NBA</a></p>
 
-Full disclosure: we are Lakers fans, and this one still makes the list. Dark purple satin texture on a black base buries the most famous color pair in basketball. Purple and gold is supposed to be loud. This is Showtime with the lights off. It is on the floor three times at Crypto.com Arena: December 14, 21 and 23. [Lakers home jerseys this season](/stories/lakers-home-jerseys-2026-27-purple-over-gold).
+Full disclosure: we are Lakers fans, and this one still makes the list. Purple streaks on a black base, with the gold pushed down to the numbers and trim, bury the most famous color pair in basketball. Purple and gold is supposed to be loud. This is Showtime with the lights off. It is on the floor three times at Crypto.com Arena: December 14, 21 and 23. [Lakers home jerseys this season](/stories/lakers-home-jerseys-2026-27-purple-over-gold).
 
 ## 8. Florida Panthers Home and Road <span style="display:inline-block;background:#2f6bed;color:#fff;font-weight:800;border-radius:999px;padding:2px 12px;margin-left:6px;font-size:0.9em;">C-</span>
 
