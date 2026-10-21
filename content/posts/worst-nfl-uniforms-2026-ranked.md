@@ -15,7 +15,7 @@ teams: ["minnesota-vikings", "green-bay-packers", "indianapolis-colts", "new-orl
 
 We have graded 116 NFL jerseys this season, every uniform in every team's closet. Most of the league is in good shape. These ten are not. Three of them earned an F, and all three come from the NFL's new Rivalries program, which was supposed to be the most exciting uniform idea of the year.
 
-The rule for this list: current 2026 uniforms only, the ones teams are actually wearing this season, ranked by the grades we gave them in each team's jersey ranking. We are counting down from 10 to the worst uniform in the NFL.
+The rule for this list: current 2026 uniforms only, the ones teams are actually wearing this season, ranked by the grades we gave them in each team's jersey ranking. We are counting down from 10 to the worst uniform in the NFL. (Across all four leagues? See [the 10 worst uniforms in sports right now](/stories/worst-uniforms-in-sports-2026-ranked).)
 
 ## 10. New England Patriots Nor'easter Rivalries Uniform <span style="display:inline-block;background:#2f6bed;color:#fff;font-weight:800;border-radius:999px;padding:2px 12px;margin-left:6px;font-size:0.9em;">C</span>
 
