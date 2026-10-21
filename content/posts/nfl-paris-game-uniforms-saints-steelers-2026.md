@@ -5,7 +5,12 @@ category: NFL
 date: "2026-10-21"
 excerpt: "The NFL's first game in France is Saints vs. Steelers at the Stade de France on Sunday. New Orleans is the home team in black, Pittsburgh wears white, and Paris Saint-Germain just dropped two NFL-style jerseys for the occasion. Here is every uniform detail."
 gradient: "linear-gradient(135deg, #101820 0%, #002654 55%, #D3BC8D 100%)"
-cardStyle: words
+coverImage: "/images/posts/nfl-paris-game-uniforms-2026/psg-nfl-jerseys-exterior.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
+coverCredit:
+  author: "Paris Saint-Germain"
+  url: "https://www.psg.fr/en/content/pr_nfl_football_is_football"
 kicker: "Paris Game"
 logoSrc: "/logos/leagues/nfl.png"
 league: nfl
@@ -16,17 +21,21 @@ The NFL plays its first regular-season game in France on **Sunday, October 25**:
 
 Here is what both teams will wear, and the Paris Saint-Germain jerseys made for the game.
 
+<img src="/images/posts/nfl-paris-game-uniforms-2026/stade-de-france-2024.jpg" alt="The Stade de France in Saint-Denis during the 2024 Paris Olympics, host of the first NFL game in France" style="width:100%;border-radius:12px;margin:1.4em 0 0.8em;" loading="lazy" decoding="async" />
+<p style="text-align:center;font-size:0.78em;color:#7C8696;margin:-0.4em 0 1.6em;">The Stade de France during the 2024 Olympics. Photo: <a href="https://commons.wikimedia.org/wiki/File:Stade_de_France_5_August_2024.jpg">Ilan Costica</a> / CC0</p>
+
 ## Quick Answers
 
 - **Who is the home team?** The Saints. New Orleans is the designated home team, and the game counts as one of its nine home games.
 - **What are the Saints wearing?** The **black home jersey** with the **gold helmet**, confirmed by the team. Captains pick the pants each week, and they have chosen black pants for both black home games so far.
 - **What are the Steelers wearing?** **White**, as the road team. We expect the black helmet with gold pants, Pittsburgh's usual road look.
-- **Is there a special PSG jersey?** Yes. Paris Saint-Germain released two NFL-style jerseys for the game, designed by Fanatics with the NFL and Nike.
+- **Is there a special PSG jersey?** Yes, two: the blue Paris Red & Blue and the garnet and gold Monogramme, both with PARIS and 75 (see below).
 - **Where is the game?** The Stade de France in Saint-Denis, just north of Paris, home of France's national rugby and soccer teams.
 
 ## The Saints: Black at "Home" in Paris
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:220px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/saints-black-home.jpg" alt="New Orleans Saints black home jersey, confirmed for the Paris game against the Steelers" style="max-height:200px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:220px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/steelers-white-road.jpg" alt="Pittsburgh Steelers white road jersey, expected for the Paris game against the Saints" style="max-height:200px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
+<img src="/images/posts/nfl-paris-game-uniforms-2026/saints-black-superdome.jpg" alt="New Orleans Saints wide receiver in the black home jersey and gold helmet at the Superdome" style="display:block;width:100%;max-width:460px;margin-left:auto;margin-right:auto;border-radius:12px;margin:1.4em 0 0.8em;" loading="lazy" decoding="async" />
+<p style="text-align:center;font-size:0.78em;color:#7C8696;margin:-0.4em 0 1.6em;">The Saints' black home jersey and gold helmet at the Superdome (2013). Photo: <a href="https://commons.wikimedia.org/wiki/File:Kenny_Stills,_-84,_New_Orleans_Saints_wide_receiver,_New_Orleans_Saints_vs_Carolina_Panthers,_Mercedes_Benz_Superdome,_New_Orleans,_Louisiana,_Tammy_Anthony_Baker,_Photographer_(23893505755)_(cropped).jpg">Tammy Anthony Baker</a> / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></p>
 
 Because New Orleans is the home team, the Saints get first choice, and they published **black** for this game on September 7. It is their standard home look: the black jersey under the gold helmet with the fleur-de-lis. The black home set covers six of the Saints' home dates this season, and Paris is one of them.
 
@@ -34,19 +43,27 @@ The pants are the open question. The Saints' captains choose them each week, and
 
 ## The Steelers: White on the Road
 
+<img src="/images/posts/nfl-paris-game-uniforms-2026/steelers-white-road-cleveland.jpg" alt="Pittsburgh Steelers in white road jerseys, gold pants and black helmets at Cleveland" style="width:100%;border-radius:12px;margin:1.4em 0 0.8em;" loading="lazy" decoding="async" />
+<p style="text-align:center;font-size:0.78em;color:#7C8696;margin:-0.4em 0 1.6em;">The Steelers' road look, white over gold with the black helmet, at Cleveland (2019). Photo: <a href="https://commons.wikimedia.org/wiki/File:Steelers_vs_Browns_1.jpg">Erik Drost</a> / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></p>
+
 With the Saints in black, Pittsburgh wears **white**. Our read is the **black helmet with gold pants**, the road look Pittsburgh wore on Thursday night in Cleveland. The full Pittsburgh closet, including the 1933 throwback and the black alternate, is in our [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
 
 That makes it black and gold vs. white and gold, two franchises built on the same two colors. We grade the matchup a **B+**: clean contrast, and the Saints' gold helmet against the Steelers' black helmet keeps the two sides easy to tell apart.
 
 ## PSG's NFL Jerseys for the Paris Game
 
-Paris Saint-Germain marked the game with two jerseys styled like NFL tops, with a loose fit and a deep V-neck, designed by **Fanatics in collaboration with the NFL and Nike**, according to ESPN. They went on sale this week.
+<img src="/images/posts/nfl-paris-game-uniforms-2026/psg-nfl-jerseys-cover.jpg" alt="PSG x NFL jerseys for the Paris game: the blue Paris Red and Blue jersey and the garnet and gold Monogramme jersey, both with PARIS and 75" style="width:100%;border-radius:12px;margin:1.4em 0 0.8em;" loading="lazy" decoding="async" />
+<p style="text-align:center;font-size:0.78em;color:#7C8696;margin:-0.4em 0 1.6em;">The two PSG x NFL jerseys. Image: <a href="https://www.psg.fr/en/content/pr_nfl_football_is_football">Paris Saint-Germain</a></p>
 
-- **Colorways:** one in PSG's traditional **blue, red and white**, and one in a **maroon and gold** mix.
-- **Details:** PSG's crest, monograms, and **75**, the French department code for Paris.
-- **The fleur-de-lis link:** the fleur-de-lis appears on both PSG's crest and the Saints' helmet, which is part of why the Saints and PSG have been paired for the week, including a joint merchandise collection with Fanatics.
+Paris Saint-Germain made two NFL-style jerseys for the game, designed by **Fanatics**, with a loose fit and a deep V-neck. Both put **PARIS** across the chest and **75** as the number, the department code for Paris, and both carry the **fleur-de-lis**, the emblem PSG's crest shares with the Saints' helmet.
 
-They are not game uniforms. Neither NFL team wears them on the field. They join a long line of soccer-meets-football crossover shirts, from Chelsea and Tottenham's NFL-style tops for the 2018 London games to Nike's 2026 World Cup "football x football" jerseys.
+- **Paris Red & Blue:** PSG's home colors. A royal blue body, white numbers trimmed in red, red shoulders and a PSG crest on the sleeve.
+- **Monogramme:** garnet and gold, from the club's historic colors, with gold numbers. Saints running back **Alvin Kamara revealed it on October 18**. The look nods to PSG's 2006-07 monogram kit.
+
+<img src="/images/posts/nfl-paris-game-uniforms-2026/psg-nfl-jerseys-exterior.jpg" alt="Close-up of the blue PSG x NFL Paris Red and Blue jersey with PARIS, the number 75, the fleur-de-lis and the PSG crest on the sleeve" style="width:100%;border-radius:12px;margin:1.4em 0 0.8em;" loading="lazy" decoding="async" />
+<p style="text-align:center;font-size:0.78em;color:#7C8696;margin:-0.4em 0 1.6em;">The Paris Red &amp; Blue jersey up close. Image: <a href="https://www.psg.fr/en/content/pr_nfl_football_is_football">Paris Saint-Germain</a></p>
+
+Both went on sale **October 19** on PSG's online store, in its Paris and New York stores and at the NFL store in Paris. A PSG x Saints capsule of other pieces follows on **October 22**. They are fan jerseys, not game uniforms: neither NFL team wears them on the field. They join a long line of soccer-meets-football crossover shirts, from Chelsea and Tottenham's NFL-style tops for the 2018 London games to Nike's 2026 World Cup "football x football" jerseys.
 
 ## Why the Stade de France
 
@@ -72,7 +89,7 @@ Sunday, October 25 at 9:30 a.m. ET, 2:30 p.m. in Paris, on NFL Network.
 
 **Is there a PSG Steelers or Saints jersey?**
 
-PSG released two NFL-style jerseys for the game, made by Fanatics with the NFL and Nike: one in PSG blue, red and white and one in maroon and gold, with the PSG crest and the Paris department number 75. They are fan jerseys, not what either team wears on the field.
+PSG released two NFL-style jerseys for the game, designed by Fanatics: the blue Paris Red & Blue and the garnet and gold Monogramme, both with PARIS, the number 75 and the fleur-de-lis. They went on sale October 19. They are fan jerseys, not what either team wears on the field.
 
 **Is there a special patch for the Paris game?**
 
@@ -92,4 +109,4 @@ It is a big throwback week. Every game is in our [NFL Week 7 uniforms guide](/st
 
 ## The Bottom Line
 
-Paris gets the NFL in its classic colors: the Saints in black and gold at "home," the Steelers in white and gold on the road. The fashion story is off the field, where PSG's two NFL-style jerseys turn the city's club into part of the week. We will confirm both uniforms at kickoff on Sunday morning. Full schedules: [Saints](/stories/saints-uniform-schedule-2026) and [Steelers](/stories/steelers-uniform-schedule-2026).
+Paris gets the NFL in its classic colors: the Saints in black and gold at "home," the Steelers in white and gold on the road. The fashion story is off the field, where PSG's blue and garnet 75 jerseys turn the city's club into part of the week. We will confirm both uniforms at kickoff on Sunday morning. Full schedules: [Saints](/stories/saints-uniform-schedule-2026) and [Steelers](/stories/steelers-uniform-schedule-2026).
