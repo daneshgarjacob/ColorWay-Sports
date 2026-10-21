@@ -54,7 +54,7 @@ Fans named the Raptors, but they did not pick the colors. Those came from the de
 
 ### Chicago Bulls
 
-The Bulls have worn red, black and white since 1966 and have never changed them. Founding owner Dick Klein is said to have taken red and black from his high school in Fort Madison, Iowa, where he played in the 1930s, though we found that only in secondary sources. The logo is better documented. Designer Dean Wessel told the Chicago Tribune in 1993 that Klein sent back his first bull with a note: "I want blood on the horns. Blood!" That is why the tips of the horns are red. The bull itself fits the name, which came from Klein's son calling his father's early ideas "a bunch of bull." In 2025-26 the Bulls brought back black pinstripes for their Statement uniform, still in red, black and white. [Chicago Bulls uniform schedule 2026-27](/stories/bulls-uniform-schedule-2026-27)
+The Bulls have worn red, black and white since 1966 and have never changed them. Founding owner Dick Klein is said to have taken red and black from his high school in Fort Madison, Iowa, where he played in the 1930s, though we found that only in secondary sources. The logo is better documented. Designer Dean Wessel told the Chicago Tribune in 1993 that Klein sent back his first bull with a note: "I want blood on the horns. Blood!" That is why the tips of the horns are red. The bull itself fits the name, which came from Klein's son calling his father's early ideas "a bunch of bull." [Chicago Bulls uniform schedule 2026-27](/stories/bulls-uniform-schedule-2026-27)
 
 ### Cleveland Cavaliers
 
@@ -70,7 +70,7 @@ The Pacers' blue and gold are Indiana's colors. A group of investors founded the
 
 ### Milwaukee Bucks
 
-The Bucks named one of their colors after their city's bricks. Milwaukee started in 1968 in green and white with red trim. In 1993 the team switched to purple, green and silver with a realistic buck head, a 1990s look that lasted until purple was dropped in 2006. The 2015 rebrand gave every color a local name. The team said Good Land Green is "the traditional color of the franchise." Cream City Cream honors Milwaukee's "Cream City" nickname, which comes from the pale bricks many of its buildings were built with, and the team said "we're the only NBA team to feature a cream hue." Great Lakes Blue "underlines the importance of the Great Lakes and multiple rivers." Red was dropped. Purple returned only as a Classic Edition in 2022-23. [Milwaukee Bucks uniform schedule 2026-27](/stories/bucks-uniform-schedule-2026-27)
+The Bucks named one of their colors after their city's bricks. Milwaukee started in 1968 in green and white with red trim. In 1993 the team switched to purple, green and silver with a realistic buck head, a 1990s look that lasted until purple was dropped in 2006. The 2015 rebrand gave every color a local name. The team said Good Land Green is "the traditional color of the franchise." Cream City Cream honors Milwaukee's "Cream City" nickname, which comes from the pale bricks many of its buildings were built with, and the team said "we're the only NBA team to feature a cream hue." Great Lakes Blue "underlines the importance of the Great Lakes and multiple rivers." Red was dropped. Purple has come back only on throwback uniforms. [Milwaukee Bucks uniform schedule 2026-27](/stories/bucks-uniform-schedule-2026-27)
 
 ## Southeast Division
 
@@ -84,7 +84,7 @@ The Hornets' teal came from a fashion designer. When George Shinn's expansion te
 
 ### Miami Heat
 
-The Heat's colors are the most obvious in the league, and we still could not find anyone explaining them. Miami entered the NBA in 1988 with a logo of a flaming ball dropping through a hoop, in red, orange, yellow and black. Fire colors for a team called the Heat need little explanation, but we found no team statement or newspaper account of who chose them, and the logo designer credits we found come only from logo blogs. The palette has barely changed. The flame was pushed further toward red in 1999, and black remains the dominant color on the court. The best-known detour was the 2017-18 "Vice" City Edition, built on 1980s Miami pinks and blues, which has come back many times since. The colors today are red, black, yellow and white. [Miami Heat uniform schedule 2026-27](/stories/miami-heat-uniform-schedule-2026-27)
+The Heat's colors are the most obvious in the league, and we still could not find anyone explaining them. Miami entered the NBA in 1988 with a logo of a flaming ball dropping through a hoop, in red, orange, yellow and black. Fire colors for a team called the Heat need little explanation, but we found no team statement or newspaper account of who chose them, and the logo designer credits we found come only from logo blogs. The palette has barely changed. Black remains the dominant color on the court. The best-known detour was the 2017-18 "Vice" City Edition, built on 1980s Miami pinks and blues, which has come back many times since. The colors today are red, black, yellow and white. [Miami Heat uniform schedule 2026-27](/stories/miami-heat-uniform-schedule-2026-27)
 
 ### Orlando Magic
 
@@ -136,7 +136,7 @@ The Suns took their colors from the sky. When general manager Jerry Colangelo bu
 
 ### Sacramento Kings
 
-The Kings were red, white and blue for most of their history, through Rochester, Cincinnati, Kansas City and their first years in Sacramento. Purple came in 1994. The Kings' own history blog says the team nearly went with burgundy, gold and black instead, and a Sacramento TV report later said the team liked the purple the new Colorado Rockies were selling so well. We could only confirm those details secondhand. The purple, silver, black and white look carried the Chris Webber teams of the early 2000s. In 2016, for the move to Golden 1 Center, owner Vivek Ranadivé introduced a logo in royal purple and granite gray that honors the 1985 Sacramento logo. The colors today are purple, gray, black and white. [Sacramento Kings uniform schedule 2026-27](/stories/sacramento-kings-uniform-schedule-2026-27)
+The Kings were red, white and blue for most of their history, through Rochester, Cincinnati, Kansas City and their first years in Sacramento. Purple came in 1994. The Kings' own history blog says the team nearly went with burgundy, gold and black instead, though we could only confirm that secondhand. The purple, silver, black and white look carried the Chris Webber teams of the early 2000s. In 2016, for the move to Golden 1 Center, owner Vivek Ranadivé introduced a logo in royal purple and granite gray that honors the 1985 Sacramento logo. The colors today are purple, gray, black and white. [Sacramento Kings uniform schedule 2026-27](/stories/sacramento-kings-uniform-schedule-2026-27)
 
 ### Dallas Mavericks
 
@@ -150,7 +150,7 @@ The Rockets' red and yellow started as green. The team was founded in San Diego 
 
 ### Memphis Grizzlies
 
-The Grizzlies' first colors were Vancouver's. The 1995 expansion team was announced in turquoise, bronze and red, and we found no account of who chose them. When the team moved to Memphis in 2001 it kept the Vancouver look for three seasons. The 2004 rebrand gave Memphis its own palette, with names built on the city: Memphis Midnight Blue, Beale Street Blue, Smoke Blue and Grizzlies Gold. The team's release described the gold as a subtle reference to the colors of Egyptian royalty, since Memphis is named after the ancient Egyptian capital. That line comes from the team's 2004 announcement, which we could only read in excerpts. A 2018 refresh moved more Beale Street Blue into the bear. The colors today are Beale Street Blue, Memphis Midnight Blue and gold. [Memphis Grizzlies uniform schedule 2026-27](/stories/grizzlies-uniform-schedule-2026-27)
+The Grizzlies' first colors were Vancouver's. The 1995 expansion team was announced in turquoise, bronze and red, and we found no account of who chose them. When the team moved to Memphis in 2001 it kept the Vancouver look for three seasons. The 2004 rebrand gave Memphis its own palette, with names built on the city: Memphis Midnight Blue, Beale Street Blue, Smoke Blue and Grizzlies Gold. The team's release described the gold as a subtle reference to the colors of Egyptian royalty, since Memphis is named after the ancient Egyptian capital. That line comes from the team's 2004 announcement, which we could only read in excerpts. The colors today are Beale Street Blue, Memphis Midnight Blue and gold. [Memphis Grizzlies uniform schedule 2026-27](/stories/grizzlies-uniform-schedule-2026-27)
 
 ### New Orleans Pelicans
 

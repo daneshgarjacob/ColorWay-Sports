@@ -26,6 +26,9 @@ So we went back to the start for all 30, using the teams' own histories, newspap
 
 This is part three of our team-name history series, after [How Every NFL Team Got Its Name](/stories/how-every-nfl-team-got-its-name) and [How Every MLB Team Got Its Name](/stories/how-every-mlb-team-got-its-name). The NHL is next.
 
+
+The follow-up is out: [How Every NBA Team Got Its Colors](/stories/how-every-nba-team-got-its-colors), the story behind all 30 color schemes.
+
 ## Quick Facts: NBA Team Names
 
 - **Oldest names still in use:** the Celtics, Knicks and Warriors, all from 1946. The Celtics and Knicks have never moved.
