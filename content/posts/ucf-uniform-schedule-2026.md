@@ -3,7 +3,7 @@ title: "UCF Uniform Schedule 2026: Every Jersey and When the Knights Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-22"
 excerpt: "What UCF wears every game in 2026: the black Knightmode set, the white Lightmode road look, the Space Game alternate, and every week's combination."
 gradient: "linear-gradient(135deg, #000000 0%, #2a2a2a 55%, #BA9B37 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 UCF has three helmets, two jerseys, three pants and a Thursday tradition of telling everyone exactly which ones are coming. This is the full UCF 2026 uniform schedule: the black home set the Knights call Knightmode, the all-white Lightmode road look, the Space Game alternate that lands on Halloween weekend, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 22:** UCF posted its Homecoming combo for BYU on Saturday, October 24, labeled Drip U: a **gold helmet, black jersey and black pants**, confirmed by the team.
 
 ## The UCF 2026 Uniform Sets
 
@@ -37,7 +39,7 @@ The current jerseys arrived in June 2025, and the number font is the reason to c
   <div style="background: #f1f3f8; color: #333; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Black</div></div>
   <div style="background: #10213f; color: #ffffff; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Space Game</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -81,7 +83,13 @@ Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and wi
 
 **October 17.** Bye.
 
-**October 24 vs. BYU.** Black expected. Homecoming at the Bounce House against a ranked BYU team. Homecoming is a natural slot for something extra, but UCF has already committed its one true alternate to the following week, so we would expect a helmet or pants twist rather than a new jersey. More: [BYU schedule](/stories/byu-uniform-schedule-2026).
+**October 24 vs. BYU**, 3:30 p.m. ET on FOX. ★ Confirmed by UCF: **gold helmet, black jersey, black pants**, posted as "This Homecoming Combo" with a Game 7 graphic labeled DRIP U. The gold shell has the stacked UCF logo and a black facemask, and the black jersey has white numbers trimmed in gold. Homecoming at the Bounce House against No. 2 BYU. It is the same combination UCF opened the season in against Bethune-Cookman. More: [BYU schedule](/stories/byu-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Football/status/2113330573397852161"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Homecoming uniform reveal, via @UCF_Football</p>
 
 **October 30 vs. Baylor.** Space Game. This is the tenth annual Space Game and the biggest uniform date on the calendar, moved to a Friday night by the Big 12 for the second straight season, 7:30 p.m. Eastern on ESPN. The 2025 version was called HyperSpace, built around a carbon fiber helmet and a center stripe that shifted from Canaveral blue to pink to mimic shock diamonds off a rocket nozzle. The 2026 set was revealed on September 29 under the name Mission X, built around NASA's earliest crewed programs, Mercury, Gemini and Apollo, from the decade the university was founded. The helmet carries a red stripe and a chrome gold facemask like the ones Apollo commanders wore, plus a chrome silver stacked logo over an American flag, and the reveal shows it over a white jersey and white pants. It is the tenth Space Game uniform. The Knights also lost their first Space Game ever last year, 30-27 to Houston, so there is some history to reset. More: [Baylor schedule](/stories/baylor-uniform-schedule-2026).
 
@@ -107,7 +115,7 @@ Six games in, UCF has already shown all three helmets and both jerseys, added go
 
 **What jersey is UCF wearing this week?**
 
-UCF wore the gold helmet, white jersey and white pants at Oklahoma State on Saturday, October 10, confirmed from the broadcast, and lost 42-28 to fall to 3-3. The week before, UCF lost 27-17 at Houston in the white helmet, white jersey and gold pants. UCF has a bye on October 17, then hosts BYU on October 24, where black is expected.
+UCF wore the gold helmet, white jersey and white pants at Oklahoma State on Saturday, October 10, confirmed from the broadcast, and lost 42-28 to fall to 3-3. The week before, UCF lost 27-17 at Houston in the white helmet, white jersey and gold pants. UCF has a bye on October 17, then hosts BYU on October 24 for Homecoming in the gold helmet, black jersey and black pants, confirmed by the team on October 22.
 
 **What are UCF's football uniforms for 2026?**
 

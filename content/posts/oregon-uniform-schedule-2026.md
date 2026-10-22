@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-17"
+updatedDate: "2026-10-22"
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Oregon is the one program where this page cannot be written in advance, and that is exactly why it is worth keeping. This is the full Oregon 2026 uniform schedule: the pieces in the closet, what we expect week to week, and a record of what actually goes on the field. We update this page as each combination is confirmed.
+
+**Update, October 22:** Oregon posted its combo for Illinois on Saturday, October 24: a **yellow helmet with green chrome wings, a white jersey and white pants**, confirmed by the team.
 
 ## The Oregon 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #0f2a1f; color: #ffffff; border: 2px solid #39FF14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Origin of Speed</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #39FF14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Black / Green</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Varies</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #154733; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Yellow / White / White</div></div>
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Varies</div></div>
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -62,7 +64,13 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
 
 **October 17 vs. Nebraska.** ★ Confirmed by Oregon's uniform post and the team's game photos: **green chrome helmet with black wings, the black Fly Era jersey and bright green pants**, coded by the team as green, black, green. We expected the green jersey, and the Ducks went black instead. Nebraska wore a white helmet, white jersey and red pants. Nebraska led 14-9 late, and Oregon won it 17-14 on a touchdown and a two-point conversion with 28 seconds left. The Ducks are 4-2. Nebraska's side is on the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026).
 
-**October 24 at Illinois.** Varies expected.
+**October 24 at Illinois**, 3 p.m. ET (noon Pacific) on BTN. ★ Confirmed by Oregon: **yellow helmet with green chrome wings, white jersey, white pants**, posted as "Turn it up." The helmet has a yellow facemask and MIGHTY OREGON on the back bumper, and the white jersey has green numbers trimmed in yellow with the Duck on the shoulder. Illinois wears a military appreciation helmet; see the [Illinois 2026 uniform schedule](/stories/illinois-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2113057824938803638"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Illinois uniform reveal, via @GoDucks</p>
 
 **October 31 vs. Northwestern.** Green expected.
 
@@ -82,7 +90,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oregon wearing this week?**
 
-Oregon wore the green chrome helmet with black wings, the black Fly Era jersey and bright green pants against Nebraska at Autzen on Saturday, October 17, confirmed by the team's uniform post and game photos, and won 17-14 with a touchdown in the final minute. The Ducks are 4-2. The week before, Oregon debuted the new [Origin of Speed uniform](/stories/oregon-origin-of-speed-uniforms-2026) in a 17-15 loss to UCLA. Next is Illinois on the road on October 24. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 7 Uniforms 2026](/stories/college-football-week-7-uniforms-2026) guide.
+Oregon wore the green chrome helmet with black wings, the black Fly Era jersey and bright green pants against Nebraska at Autzen on Saturday, October 17, confirmed by the team's uniform post and game photos, and won 17-14 with a touchdown in the final minute. The Ducks are 4-2. The week before, Oregon debuted the new [Origin of Speed uniform](/stories/oregon-origin-of-speed-uniforms-2026) in a 17-15 loss to UCLA. Next is Illinois on the road on October 24, in a yellow helmet with green chrome wings, a white jersey and white pants, confirmed by the team on October 21. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 7 Uniforms 2026](/stories/college-football-week-7-uniforms-2026) guide.
 
 **What are Oregon's uniforms for 2026?**
 

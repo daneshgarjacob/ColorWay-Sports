@@ -3,7 +3,7 @@ title: "Tennessee Uniform Schedule 2026: Every Jersey and When the Vols Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-20"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-22"
 excerpt: "What Tennessee wears every game in 2026, including the new Smokey Grey Neyland tribute against Auburn and orange against Alabama."
 gradient: "linear-gradient(135deg, #FF8200 0%, #3a2408 55%, #58595B 130%)"
 coverImage: "/images/posts/tennessee-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Tennessee is wearing this week? This is the full Tennessee 2026 uniform schedule, game by game. Orange at Neyland, white on the road, and two dates that break the pattern: the new Smokey Grey, worn against Auburn on October 3 in a 24-14 win, and orange against Alabama on the Third Saturday in October.
+
+**Update, October 22:** Tennessee is "hitting the road" at South Carolina on Saturday, October 24 in **all white: white helmet, white jersey, white pants**, confirmed by the team.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Tennessee Athletics.</p>
 
@@ -75,7 +77,7 @@ Twelve games, seven at Neyland, one alternate on the calendar.
   <div style="background: #58595B; color: #ffffff; border: 2px solid #FF8200; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #FF8200;">&#9733; Smokey Grey</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #FF8200; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #FF8200; color: #ffffff; border: 2px solid #9E1B32; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #FF8200; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #FF8200; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -97,7 +99,13 @@ Twelve games, seven at Neyland, one alternate on the calendar.
 
 **October 17 vs. Alabama**, Knoxville, 3:30 p.m. Eastern on ABC. ★ Confirmed by the teams: **orange, and Alabama is in crimson.** Tennessee is in its orange home set at Neyland Stadium, and called it "a historic look" in a video this week. Alabama wears the crimson helmet and crimson jersey it would normally save for Tuscaloosa. Both programs announced on August 19 that they will wear home jerseys for the Third Saturday in October in 2026 and 2027. It is the first color vs color meeting in this rivalry since 1970. [Full story on the color vs color announcement](/stories/alabama-tennessee-color-vs-color-third-saturday-october-2026). Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 at South Carolina**, Columbia. Road. White.
+**October 24 at South Carolina**, Columbia, 3:30 p.m. ET on ESPN. ★ Confirmed by Tennessee: **white helmet, white jersey, white pants**, posted as "hitting the road" with three white squares and a "Road Threads" graphic showing the orange T on the helmet and orange numbers on the white jersey. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2113284994193932723"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The South Carolina uniform reveal, via @Vol_Football</p>
 
 **October 31.** Bye week.
 

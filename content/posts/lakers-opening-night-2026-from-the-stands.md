@@ -61,6 +61,12 @@ Here is our take. With LeBron not around, it feels like a weight has come off ev
 
 It was a very, very enjoyable atmosphere, and it was exciting to be there.
 
+Even the pregame hype video felt like old Lakers:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MarkG_Medina/status/2113091599282683960"></a></blockquote>
+</div>
+
 <img src="/images/posts/lakers-opening-night-2026/crypto-arena-opening-night-tall.jpg" alt="Crypto.com Arena center-hung scoreboard over the Lakers court during the 2026-27 home opener against the Warriors" style="display: block; width: 100%; max-width: 520px; margin: 1.5em auto 0; border-radius: 10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Crypto.com Arena on opening night. Photo: ColorWay Sports</p>
 

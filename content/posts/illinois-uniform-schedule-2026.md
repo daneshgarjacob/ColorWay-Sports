@@ -3,7 +3,7 @@ title: "Illinois Uniform Schedule 2026: Every Jersey and When the Illini Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-22"
 excerpt: "What Illinois wears every game in 2026: navy home jerseys, the white road set, the orange alternate, every helmet, and the full Fighting Illini uniform schedule."
 gradient: "linear-gradient(135deg, #13294B 0%, #1f3b66 55%, #E84A27 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Illinois has three jersey colors, a rack of orange helmets and a navy one, and a home crowd that picks a color theme for the big games. This is the full Illinois 2026 uniform schedule: the navy home set, the white road set, the orange alternate, the helmets, and a week-by-week outlook for all twelve games in Bret Bielema's sixth season. Six games in, the Fighting Illini are 3-3: navy over orange in all three early home games, with a patriotic helmet for Duke, white at Ohio State, all orange for Homecoming against Purdue and white again in the overtime win at Michigan State. We update this page as each combination is confirmed.
+
+**Update, October 22:** Illinois revealed its military appreciation helmet for Oregon on Saturday, October 24: **orange with the ILLINI wordmark, flag decals, a navy and white center stripe, and a white rear bumper with the seals of the military branches**. The jersey and pants have not been shown yet.
 
 ## The Illinois 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
   <div style="background: #E84A27; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #13294B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Military Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -58,7 +60,13 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 **October 17.** Bye.
 
-**October 24 vs. Oregon.** Navy expected. Military Appreciation and Foundation Weekend. Illinois has already used a stars-and-stripes helmet this season, so a patriotic helmet could make a return for this one. Oregon brings more combinations than anyone in the conference; see the [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026).
+**October 24 vs. Oregon**, 2 p.m. Central (3 p.m. ET) on BTN. ★ Confirmed by Illinois: **a military appreciation helmet**, posted as "Honoring service. Recognizing sacrifice." It is orange with the arched ILLINI wordmark in navy and white, an American flag decal on each side, a navy, white and navy center stripe and a white facemask with flag details. The back carries a POW/MIA emblem, an outline of the state of Illinois and a white rear bumper with the seals of the military branches, including the Army, Navy, Marine Corps, Coast Guard and Space Force. **The jersey and pants have not been shown yet.** Military Appreciation and Foundation Weekend. Oregon wears a yellow helmet with green chrome wings, a white jersey and white pants; see the [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/IlliniFootball/status/2113027687686062350"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The military appreciation helmet reveal, via @IlliniFootball</p>
 
 **October 31 at Maryland.** White expected. Halloween at SECU Stadium, where the Terrapins are expected in red. The [Maryland 2026 uniform schedule](/stories/maryland-uniform-schedule-2026) covers the home side.
 
@@ -78,7 +86,7 @@ Illinois wore the same base look in its first three home games, orange helmet, n
 
 **What jersey is Illinois wearing this week?**
 
-Illinois wore the orange helmet, white jersey and orange pants at Michigan State on Saturday, October 10, confirmed from the game photos. Illinois won 38-37 in overtime and is 3-3. The week before, it wore all orange for Homecoming against Purdue. After a bye on October 17, next is Oregon at home on October 24, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Illinois wore the orange helmet, white jersey and orange pants at Michigan State on Saturday, October 10, confirmed from the game photos. Illinois won 38-37 in overtime and is 3-3. The week before, it wore all orange for Homecoming against Purdue. After a bye on October 17, next is Oregon at home on October 24, in a military appreciation helmet with the military branch seals on the back, revealed by the team on October 21. The jersey and pants have not been shown yet. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Illinois's football uniforms for 2026?**
 

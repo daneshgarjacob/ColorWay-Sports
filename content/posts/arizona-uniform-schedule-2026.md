@@ -3,7 +3,7 @@ title: "Arizona Uniform Schedule 2026: Every Jersey and When the Wildcats Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-22"
 excerpt: "Arizona football uniforms for 2026: Sandstorm with red pants at West Virginia, navy at home, white on the road, and every Wildcats jersey week by week."
 gradient: "linear-gradient(135deg, #0C234B 0%, #1a3566 55%, #AB0520 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Arizona wears a navy jersey under a white helmet at home and goes all white on the road, and both of those looks are already on the board in 2026. This is the full Arizona 2026 uniform schedule: the navy home set, the white road set, the all-red Red Out look, the Sandstorm alternate that gets its own themed game against TCU, and a week-by-week outlook for all twelve games, including the 100th Territorial Cup. We update this page as each combination is confirmed.
+
+**Update, October 22:** Arizona is wearing its "classic look for homecoming" against Iowa State on Saturday, October 24: a **white helmet with the red block A, a navy jersey and white pants**, confirmed by the team.
 
 ## The Arizona 2026 Uniform Sets
 
@@ -37,7 +39,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
   <div style="background: #0C234B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / Navy</div></div>
   <div style="background: #f3ece0; color: #AB0520; border: 1px solid #e2d6c2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Sandstorm &middot; Red / White / Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #0C234B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #0C234B; color: #ffffff; border: 2px solid #AB0520; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f3ece0; color: #AB0520; border: 1px solid #e2d6c2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Sandstorm</div></div>
   <div style="background: #0C234B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
@@ -62,7 +64,13 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
 
 **October 17.** Bye.
 
-**October 24 vs. Iowa State.** Navy expected. Homecoming, and a big one: Arizona is marking 100 years of Bear Down, the words quarterback John "Button" Salmon left for the team before his death in 1926. Fans are asked to wear red. If Arizona has a one-off uniform in its pocket this season, this is the date we would bet on.
+**October 24 vs. Iowa State**, 4:30 p.m. Arizona time (7:30 p.m. ET) on ESPN2. ★ Confirmed by Arizona: **white helmet, navy jersey, white pants**, posted as a "classic look for homecoming." The helmet has the red block A and red and navy stripes down the middle, and the navy jersey has white numbers trimmed in red with red and white stripes at the shoulders. Homecoming, and a big one: Arizona is marking 100 years of Bear Down, the words quarterback John "Button" Salmon left for the team before his death in 1926. Fans are asked to wear red. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArizonaFBall/status/2113300597742923960"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Homecoming uniform reveal, via @ArizonaFBall</p>
 
 **October 31 at Texas Tech.** White expected. Halloween in Lubbock, where the Red Raiders are expected in red or black.
 
@@ -82,7 +90,7 @@ Six games in, Arizona is 5-1 and has mostly worn what the rules predict: the nav
 
 **What jersey is Arizona wearing this week?**
 
-Arizona wore Sandstorm at West Virginia on Saturday, October 10: red helmet, white jersey with red numbers and red pants, confirmed from the game photos, in a 52-31 win that moved the Wildcats to 5-1. The week before, it wore navy against Cincinnati: white helmet, navy jersey and navy pants. Arizona has a bye on October 17, and next up is Iowa State at home on October 24 for Homecoming, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Arizona wore Sandstorm at West Virginia on Saturday, October 10: red helmet, white jersey with red numbers and red pants, confirmed from the game photos, in a 52-31 win that moved the Wildcats to 5-1. The week before, it wore navy against Cincinnati: white helmet, navy jersey and navy pants. Arizona has a bye on October 17, and next up is Iowa State at home on October 24 for Homecoming, in a white helmet, navy jersey and white pants, confirmed by the team on October 22. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Arizona's football uniforms for 2026?**
 

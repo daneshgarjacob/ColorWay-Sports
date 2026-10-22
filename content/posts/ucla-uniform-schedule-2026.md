@@ -3,7 +3,7 @@ title: "UCLA Uniform Schedule 2026: Every Jersey and When the Bruins Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-22"
 excerpt: "What jersey is UCLA wearing this week? The full UCLA uniform schedule for 2026: powder blue home jerseys, white road uniforms, the throwback alternate and every game."
 gradient: "linear-gradient(135deg, #2774AE 0%, #005587 55%, #FFD100 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 UCLA wears its powder blue jersey at the Rose Bowl and white on the road, both under a metallic gold helmet and almost always with gold pants. That is the short answer. This is the full UCLA 2026 uniform schedule: the blue home set, the white road set, the 1954 throwback the Bruins have pulled out once a season for three years running, and a week-by-week outlook for all twelve games of Bob Chesney's first season. Two games are in the books and both uniforms are confirmed from the broadcast. We update this page as each combination is confirmed.
+
+**Update, October 22:** UCLA posted its "Homecoming threads" for Michigan State on Saturday, October 24: the **powder blue jersey with white shoulder stripes, the gold helmet and gold pants**, the look honoring the 1954 national champions, confirmed by the team.
 
 ## The UCLA 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ The base sets are Jordan Brand, which took over UCLA in 2021 and put the Jumpman
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #2774AE; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #2774AE; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
-  <div style="background: #2774AE; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #5b9bd5; color: #ffffff; border: 2px solid #FFD100; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Powder Blue Throwback</div></div>
   <div style="background: #2774AE; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nevada</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #2774AE; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -58,7 +60,13 @@ The base sets are Jordan Brand, which took over UCLA in 2021 and put the Jumpman
 
 **October 17 vs. Wisconsin.** Blue expected. A Big Ten home date at the Rose Bowl, with Wisconsin in white.
 
-**October 24 vs. Michigan State.** Blue expected. The throwback was the homecoming uniform in 2023 and 2025, so if this is homecoming weekend, this is the date we are watching most closely for the 1954 look. UCLA has not announced anything yet, and we will update the cell the moment it does.
+**October 24 vs. Michigan State**, 12:30 p.m. Pacific (3:30 p.m. ET) on CBS. ★ Confirmed by UCLA: **gold helmet, powder blue jersey, gold pants**, posted as "Homecoming threads" with Jordan Brand. The jersey is the lighter powder blue with white shoulder stripes and white numbers, the 1954 tribute look UCLA wore for Homecoming in 2023 and 2025, so the throwback is back for a fourth straight season. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCLAFootball/status/2113017474702811376"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Homecoming uniform reveal, via @UCLAFootball</p>
 
 **October 31 vs. Nevada.** Blue expected. Halloween at the Rose Bowl, and the last nonconference game on the schedule.
 

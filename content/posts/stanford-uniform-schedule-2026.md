@@ -3,7 +3,7 @@ title: "Stanford Uniform Schedule 2026: Every Jersey and When the Cardinal Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-22"
 excerpt: "What Stanford wears every game in 2026: the cardinal home jersey, the white road set, the black alternate, and the full Cardinal uniform schedule week by week."
 gradient: "linear-gradient(135deg, #8C1515 0%, #a81c1c 55%, #ffffff 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Stanford is the most restrained uniform program in the ACC and it still found a way to open 2026 with something new. This is the full Stanford 2026 uniform schedule: the cardinal home jersey, the white road set, the black alternate, the cardinal script helmet that only comes out for special occasions, the tribal-pattern helmet stripe the Cardinal wore in the season opener, and a week-by-week outlook for all twelve games in Tavita Pritchard's first year as head coach. We update this page as each combination is confirmed.
+
+**Update, October 22:** Stanford is going "All red for FNL" against NC State on Friday, October 23: a **cardinal helmet with a white stripe and the Stanford script, and the cardinal jersey**, confirmed by the team in a video. The pants only show for a moment, but the team calls it all red.
 
 ## The Stanford 2026 Uniform Sets
 
@@ -53,7 +55,7 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
   <div style="background: #f1f3f8; color: #333; border: 2px solid #8C1515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #8C1515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #8C1515; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Elon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Throwback Helmet / Cardinal</div></div>
-  <div style="background: #8C1515; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
+  <div style="background: #8C1515; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -83,7 +85,13 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/2067390517432754658"></a></blockquote>
 </div>
 
-**October 23 vs. NC State.** Cardinal expected. A Friday night game for Heroes Appreciation, 7:30 p.m. Pacific on ESPN, and the second prime-time home date in a month. NC State's year is on the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026).
+**October 23 vs. NC State.** ★ Confirmed by Stanford: **all red**, posted as "All red for FNL." The team's video shows a cardinal helmet with a white center stripe, the Stanford script on the side and a white facemask, with the cardinal jersey and white numbers. The pants only show for a moment, but the caption calls it all red. A Friday night game for Heroes Appreciation, 7:30 p.m. Pacific on ESPN, and the second prime-time home date in a month. NC State's year is on the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026), and every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/StanfordFball/status/2113335144027419076"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The all red reveal, via @StanfordFball</p>
 
 **October 31 at Louisville.** White expected. Halloween in Louisville, and Stanford in white against a red home team means the pants call does all the work. See the [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026).
 

@@ -3,7 +3,7 @@ topViewsRank: 8
 title: "Texans Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-22"
 excerpt: "Every Texans jersey for 2026, week by week. Battle Red is Week 7 vs. the Giants, and the white-helmet HOUSTON/US Rivalries uniform debuts Week 11 on Thursday night."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,12 @@ teams: ["houston-texans"]
 ---
 
 Houston published one of the more useful uniform announcements in the league this year: three of its eight home games come with a named jersey, and as of August 25 all three have a face. The Texans open in Liberty White, run the Battle Red game in Week 7, and debut the brand-new HOUSTON/US Rivalries uniform, the first white helmet in franchise history included, against the Colts on Thursday night in Week 11. Here is the full Houston Texans 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the Deep Steel Blue home set and the white road set.
+
+**Update, October 22: Battle Red is all red.** Against the Giants on Sunday, October 25 (1:00 p.m. ET, FOX), the Texans wear the **red helmet, red jersey and red pants**. Every Week 7 look is in our [NFL Week 7 uniform guide](/stories/nfl-week-7-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2113285597376725033"></a></blockquote>
+</div>
 
 Want them graded instead? Here is [every Houston Texans jersey ranked](/stories/texans-jerseys-2026-ranked), worst to best.
 

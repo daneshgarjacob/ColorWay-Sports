@@ -3,7 +3,7 @@ title: "Baylor Uniform Schedule 2026: Every Jersey, and When the Gold Chrome Thr
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-22"
 excerpt: "What Baylor wears every game in 2026, week by week, including the date the gold chrome throwback uniform hits McLane Stadium."
 gradient: "linear-gradient(135deg, #154734 0%, #0c2a1f 55%, #FFB81C 130%)"
 homepageHero: false
@@ -17,6 +17,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Baylor is wearing this week? This is the full Baylor 2026 uniform schedule, game by game, and it has one date circled: **the gold chrome throwback came out Saturday, September 26, against Colorado at McLane Stadium** for the Traditions Game, a 23-13 Baylor win.
+
+**Update, October 22:** Baylor posted its "Game 7 Threads vs Kansas" for Saturday, October 24: a **green helmet with the gold interlocking BU, a white jersey and green pants**, confirmed by the team.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Baylor Athletics.</p>
 
@@ -86,7 +88,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
   <div style="background: #f1f3f8; color: #333; border: 2px solid #154734; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Green</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #FFB81C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blackout: Gold Chrome / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #154734; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #154734; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Homecoming</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -114,7 +116,13 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **October 17 vs. TCU**, Waco, 7 p.m. Eastern on FS1. **Blackout on the Brazos.** ★ Confirmed by Baylor: **gold chrome helmet, black jersey, black pants**. TCU is expected in white. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 at Kansas**, Lawrence. White.
+**October 24 at Kansas**, Lawrence, noon Central (1 p.m. ET) on TNT. ★ Confirmed by Baylor: **green helmet, white jersey, green pants**, posted as "Game 7 Threads vs Kansas." The green helmet has the gold interlocking BU and a gold center stripe, the white jersey has green numbers and green and gold sleeve stripes, and the green pants have a gold side stripe. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BUFootball/status/2113306891514442121"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Kansas uniform reveal, via @BUFootball</p>
 
 **October 30 at UCF**, Orlando. Friday night. White.
 

@@ -17,7 +17,7 @@ Week 7 of the 2026 NFL season runs from Thursday, October 22 to Monday, October 
 
 Below is every Week 7 look we know, starting with the special ones and then all 14 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Expected** is our read from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Helmets and jerseys project reliably; pants are the piece teams change the week of the game, so treat every expected pants call as the least certain part of the line.
 
-**Update, October 22:** Five more teams have shown their full Sunday looks. The **Lions** go **black jersey, black pants and the Honolulu blue helmet** against Green Bay. The **Packers** confirm **gold helmet, white jersey, gold pants**. The **Cardinals** go **red on red**: white helmet, cardinal red jersey, **cardinal red pants**. The **Browns** debut what they call a **new road combo** in Nashville: **orange helmet, white jersey, brown pants**. And the **Ravens** are **purple over purple**: black helmet, purple jersey, **purple pants**. Seattle also confirmed the royal blue throwback for Sunday night, and the Falcons wore the red helmets at practice.
+**Update, October 22:** Five more teams have shown their full Sunday looks. The **Lions** go **black jersey, black pants and the Honolulu blue helmet** against Green Bay. The **Packers** confirm **gold helmet, white jersey, gold pants**. The **Cardinals** go **red on red**: white helmet, cardinal red jersey, **cardinal red pants**. The **Browns** debut what they call a **new road combo** in Nashville: **orange helmet, white jersey, brown pants**. And the **Ravens** are **purple over purple**: black helmet, purple jersey, **purple pants**. Houston confirmed **all red** for its Battle Red game, red helmet, red jersey and red pants, and the Jets confirmed **the Classic in all white**. Seattle also confirmed the royal blue throwback for Sunday night, and the Falcons wore the red helmets at practice.
 
 ## The Week 7 Throwbacks and Special Looks
 
@@ -61,7 +61,11 @@ Seattle confirmed it on Wednesday:
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/dolphins-aqua-home.jpg" alt="Miami Dolphins aqua jersey, expected at the Jets in Week 7 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/jets-white-classic-alternate.jpg" alt="New York Jets white Classic throwback jersey, confirmed against the Dolphins in Week 7 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Jets confirmed, Dolphins expected.** The Jets named the Classic for this game when they announced their 2026 home themes on July 22. It is their First Responders Appreciation day at MetLife Stadium. The Classic is a **white** uniform, a nod to the 1968 Super Bowl III team, with a **white helmet and a gray facemask**. When it debuted in 2024 it came with **white pants**, and that is our read, but the team has not detailed the combination for Sunday. With New York in white at home, Miami gets to wear color on the road, and we expect **aqua** under the white helmet with white pants. Aqua against the old-school white. Our matchup grade: **A-**. See the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026) and the [Dolphins 2026 uniform schedule](/stories/dolphins-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, CBS. Jets confirmed, Dolphins expected.** The Jets named the Classic for this game when they announced their 2026 home themes on July 22. It is their First Responders Appreciation day at MetLife Stadium. The Classic is a **white** uniform, a nod to the 1968 Super Bowl III team, with a **white helmet and a gray facemask**. The team has now confirmed the full look, **white helmet, white jersey, white pants**:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2113254505445761199"></a></blockquote>
+</div> With New York in white at home, Miami gets to wear color on the road, and we expect **aqua** under the white helmet with white pants. Aqua against the old-school white. Our matchup grade: **A-**. See the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026) and the [Dolphins 2026 uniform schedule](/stories/dolphins-uniform-schedule-2026).
 
 ### Tampa Bay Buccaneers at Carolina Panthers: Panther Blue
 
@@ -73,7 +77,11 @@ Seattle confirmed it on Wednesday:
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/giants-white-road.jpg" alt="New York Giants white road jersey, confirmed at Houston in Week 7 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/texans-red-battle.jpg" alt="Houston Texans Battle Red jersey, confirmed against the Giants in Week 7 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Sunday, 1:00 p.m. ET, FOX. Confirmed on both sides.** Houston's home themes name this the **Battle Red** game, a Texans tradition since 2003, with the team in its red uniforms and the crowd asked to wear red. It is Houston's one Battle Red date this season. Our read is the **red helmet** with the red jersey, and pants are a game-week call. The Giants published all 17 games on September 2, and the Houston trip is the **white jersey with white pants** under the blue NY helmet. Red against white is about as loud as this matchup gets. Our matchup grade: **B+**. More in the [Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026) and the [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, FOX. Confirmed on both sides.** Houston's home themes name this the **Battle Red** game, a Texans tradition since 2003, with the team in its red uniforms and the crowd asked to wear red. It is Houston's one Battle Red date this season. Houston has now confirmed it head to toe: **red helmet, red jersey, red pants**.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2113285597376725033"></a></blockquote>
+</div> The Giants published all 17 games on September 2, and the Houston trip is the **white jersey with white pants** under the blue NY helmet. Red against white is about as loud as this matchup gets. Our matchup grade: **B+**. More in the [Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026) and the [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026).
 
 ### Pittsburgh Steelers vs. New Orleans Saints: Paris
 
@@ -107,10 +115,10 @@ Seattle confirmed it on Wednesday:
 - **San Francisco 49ers at Atlanta Falcons**, 1:00 p.m. ET, FOX. 49ers: gold helmet, white jersey, gold pants (expected). Falcons: 1966 throwback, red helmet, black jersey, white pants (confirmed).
 - **Cleveland Browns at Tennessee Titans**, 1:00 p.m. ET, CBS. Browns: orange helmet, white jersey, brown pants (confirmed). Titans: white helmet, Titans blue jersey, white pants (expected).
 - **Indianapolis Colts at Minnesota Vikings**, 1:00 p.m. ET, CBS. Colts: white helmet, white jersey, white pants (expected). Vikings: all purple, purple helmet, purple jersey, purple pants (confirmed).
-- **Miami Dolphins at New York Jets**, 1:00 p.m. ET, CBS. Dolphins: white helmet, aqua jersey, white pants (expected). Jets: the Classic, white helmet, white jersey (confirmed), white pants (expected).
+- **Miami Dolphins at New York Jets**, 1:00 p.m. ET, CBS. Dolphins: white helmet, aqua jersey, white pants (expected). Jets: the Classic, white helmet, white jersey, white pants (confirmed).
 - **Tampa Bay Buccaneers at Carolina Panthers**, 1:00 p.m. ET, FOX. Buccaneers: pewter helmet, white jersey, pewter pants (expected). Panthers: black helmet, Panther blue jersey (confirmed), pants to be announced in game week.
 - **Cincinnati Bengals at Baltimore Ravens**, 1:00 p.m. ET, CBS. Bengals: striped orange helmet, white jersey, black pants (expected). Ravens: black helmet, purple jersey, purple pants (confirmed).
-- **New York Giants at Houston Texans**, 1:00 p.m. ET, FOX. Giants: blue helmet, white jersey, white pants (confirmed). Texans: Battle Red jersey (confirmed), red helmet (expected), pants a game-week call.
+- **New York Giants at Houston Texans**, 1:00 p.m. ET, FOX. Giants: blue helmet, white jersey, white pants (confirmed). Texans: Battle Red, red helmet, red jersey, red pants (confirmed).
 - **Denver Broncos at Arizona Cardinals**, 4:05 p.m. ET, CBS. Broncos: Summit White jersey (confirmed), navy helmet and white pants (expected). Cardinals: white helmet, cardinal red jersey, cardinal red pants (confirmed).
 - **Green Bay Packers at Detroit Lions**, 4:25 p.m. ET, FOX. Packers: gold helmet, white jersey, gold pants (confirmed). Lions: Honolulu blue helmet, black alternate jersey, black pants (confirmed).
 - **Los Angeles Rams at Las Vegas Raiders**, 4:25 p.m. ET, FOX. Rams: royal helmet, white jersey (confirmed), white pants (expected). Raiders: silver helmet, black jersey, silver pants (expected).
@@ -164,11 +172,11 @@ All purple: the purple helmet, purple jersey and purple pants, listed on Minneso
 
 **What are the Jets wearing against the Dolphins?**
 
-The Classic, a white throwback with a white helmet and gray facemask, for the team's First Responders Appreciation game. The jersey is confirmed; white pants are our read. Miami is expected in aqua.
+The Classic, a white throwback with a white helmet and gray facemask, for the team's First Responders Appreciation game. The team confirmed white helmet, white jersey and white pants on October 22. Miami is expected in aqua.
 
 **What are the Texans wearing against the Giants?**
 
-Battle Red, for Houston's annual Battle Red game, with fans asked to wear red too. The Giants wear white jerseys and white pants under the blue helmet, from the schedule they published on September 2.
+All red: red helmet, red jersey and red pants for Houston's annual Battle Red game, with fans asked to wear red too. The Giants wear white jerseys and white pants under the blue helmet, from the schedule they published on September 2.
 
 **What are the Panthers wearing against the Buccaneers?**
 

@@ -3,7 +3,7 @@ topViewsRank: 10
 title: "New York Jets Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-22"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,12 @@ teams: ["new-york-jets"]
 ---
 
 The Jets have confirmed three uniform games for 2026, and the first one is the most interesting thing they have done with their look in years. A brand-new all-white helmet comes out of the box in Week 2 for a full White Out against Green Bay. The Classic uniform gets a October date against Miami. And the Gotham City Football Rivalries jersey returns to close the home schedule against New England. Here is the full New York Jets 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the green home set and the white road set.
+
+**Update, October 22: the Classic is all white.** Against Miami on Sunday, October 25 (1:00 p.m. ET, CBS), the Jets wear the Classic with the **white helmet, white jersey and white pants**. Every Week 7 look is in our [NFL Week 7 uniform guide](/stories/nfl-week-7-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2113254505445761199"></a></blockquote>
+</div>
 
 Want them graded instead? Here is [every New York Jets jersey ranked](/stories/jets-jerseys-2026-ranked), worst to best.
 

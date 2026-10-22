@@ -3,7 +3,7 @@ title: "Houston Uniform Schedule 2026: Every Jersey and When the Cougars Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-22"
 excerpt: "What Houston wears every game in 2026: the red home set, the all-white road look, the Houston Blue alternate, and every week's uniform combination."
 gradient: "linear-gradient(135deg, #C8102E 0%, #d8233f 55%, #78BCE2 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Houston has three jerseys, three helmets and one alternate that the whole city plans a weekend around. This is the full Houston 2026 uniform schedule: the red home set, the white road set, the light blue Houston Blue alternate that came back on October 3, and a week-by-week outlook for all twelve games. The Cougars are 5-1, and the Icy Whites came out for Friday night in Lubbock. We update this page as each combination is confirmed.
+
+**Update, October 22:** Houston posted its "Game 8 combo" for No. 10 Utah on Saturday, October 24: a **white helmet, white jersey and red pants**, confirmed by the team.
 
 ## The Houston 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ The base sets come from Nike's 2025 redesign, Houston's first real overhaul sinc
   <div style="background: #78BCE2; color: #14284b; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Houston Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #C8102E; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -70,7 +72,13 @@ That was the white shell with the red interlocking UH and a red facemask, the wh
 
 **October 17 vs. Oklahoma State**, 7:30 p.m. ET on FOX. ★ Confirmed by Houston: **"classic home colors," red helmet with the Houston script, red jersey, white pants.** Family Weekend and Hispanic Heritage day at TDECU Stadium. Oklahoma State has confirmed a white helmet with an orange facemask, white jersey and orange pants. More: [Oklahoma State schedule](/stories/oklahoma-state-uniform-schedule-2026) and [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 at Utah.** White expected, at Rice-Eccles Stadium, where Utah wears red at home. More: [Utah schedule](/stories/utah-uniform-schedule-2026).
+**October 24 at Utah**, 8:15 p.m. Mountain (10:15 p.m. ET) on ESPN. ★ Confirmed by Houston: **white helmet, white jersey, red pants**, posted as "Game 8 combo" coded white, white, red. The helmet has the red Houston script and a red facemask, the white jersey has Houston in red script, and the red pants carry the white UH logo. At Rice-Eccles Stadium, where Utah wears red at home. More: [Utah schedule](/stories/utah-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UHCougarFB/status/2113368132144263642"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Utah uniform reveal, via @UHCougarFB</p>
 
 **October 31.** Bye.
 

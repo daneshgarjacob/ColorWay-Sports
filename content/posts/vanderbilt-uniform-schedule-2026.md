@@ -3,7 +3,7 @@ title: "Vanderbilt Uniform Schedule 2026: Every Jersey and When the Commodores W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-22"
 excerpt: "What Vanderbilt wears every game in 2026: the black home jersey, the white road set, the new gold alternate, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #C9A227 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Vanderbilt added a color to its closet this year and then wore it in Week 2, which means the most interesting question of the Commodores' season has already been answered once and is still not fully settled. This is the full Vanderbilt 2026 uniform schedule: the black home set, the white road set, the gold alternate that debuted against Delaware, the white helmet that started the first two games, the black shell that came out for NC State, and a week-by-week outlook for all twelve games ending with Tennessee at FirstBank Stadium. We update this page as each combination is confirmed.
+
+**Update, October 22:** Vanderbilt posted its "Game 8 Fit" for Kentucky on Saturday, October 24: a **gold helmet, white jersey and gold pants**, confirmed by the team.
 
 ## The Vanderbilt 2026 Uniform Sets
 
@@ -42,7 +44,7 @@ The other new thing on the jersey is a patch. Vanderbilt signed an all-sports je
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C9A227; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Black</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Black / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #C9A227; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -86,7 +88,13 @@ The [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) has 
 
 **October 17 vs. Arkansas**, 7 p.m. ET on ESPN2. &#9733; Confirmed by Vanderbilt: **white helmet, black jersey, white pants**. Arkansas is confirmed in a cardinal helmet, white jersey and white pants. Every look this week is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). Two of the three SEC teams with jersey patches on the same field. [Arkansas 2026 uniform schedule](/stories/arkansas-uniform-schedule-2026).
 
-**October 24 at Kentucky.** White expected. Kroger Field is where Vanderbilt last wore gold jerseys, in a 2020 loss, which makes this the most sentimental possible spot for the gold to travel. Road rules say white. [Kentucky 2026 uniform schedule](/stories/kentucky-uniform-schedule-2026).
+**October 24 at Kentucky**, 7:30 p.m. ET on SEC Network. ★ Confirmed by Vanderbilt: **gold helmet, white jersey, gold pants**, from its "Game 8 Fit" graphic. The gold helmet has a black center stripe and black facemask, the white jersey has black numbers, and the gold pants have a black and white side stripe. Kroger Field is where Vanderbilt last wore gold jerseys, in a 2020 loss, but this trip the gold is on the helmet and pants. [Kentucky 2026 uniform schedule](/stories/kentucky-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/VandyFootball/status/2113330752863486446"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Kentucky uniform reveal, via @VandyFootball</p>
 
 **October 31.** Bye.
 
