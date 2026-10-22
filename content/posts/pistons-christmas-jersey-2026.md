@@ -5,8 +5,8 @@ date: "2026-04-09"
 updatedDate: "2026-09-10"
 excerpt: "The Pistons' Specter Edition jersey features Motor City flames and turquoise accents on a black base. It is the best of all eight leaked Nike holiday designs."
 gradient: "linear-gradient(135deg, #C8102E 0%, #006BB6 50%, #000000 100%)"
-coverImage: "/images/posts/nba-xmas-2026-pistons/pistons-xmas-hero.jpg"
-coverImagePosition: "center 10%"
+coverImage: "/images/posts/nba-xmas-2026-pistons/pistons-specter-nba.jpg"
+coverImagePosition: "center 55%"
 logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["detroit-pistons"]
@@ -23,13 +23,13 @@ teams: ["detroit-pistons"]
   </div>
 </div>
 
-<img src="/images/posts/nba-xmas-2026-pistons/pistons-xmas-hero.jpg" alt="Detroit Pistons 2026 NBA Christmas jersey with Motor City flames and turquoise trim on black base" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
+<img src="/images/posts/nba-xmas-2026-pistons/pistons-specter-nba.jpg" alt="Detroit Pistons Specter Edition jersey at the Nike and NBA reveal" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via NBA</p>
 
 We graded all eight of the leaked Nike NBA Christmas jerseys for 2026, and most of them were rough. Black bases, neon graphics that had nothing to do with Christmas, and designs that felt more like tech demos than basketball jerseys. But there was one that stood out from the rest, and it was not even close.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
-<blockquote class="twitter-tweet"><a href="https://twitter.com/jerseyarchive/status/2041911835058675751"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DetroitPistons/status/2098160051328344074"></a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
@@ -39,15 +39,9 @@ The Detroit Pistons Christmas jersey is the clear winner of this collection. Whi
 
 Flames on a jersey is almost always a bad idea. It worked in the '90s for a brief moment, and it has not worked since. But the Pistons pulled it off here because the flames are tied to the city's identity, not just thrown on for style points. Detroit is the Motor City. Hot rods, muscle cars, and automotive culture are baked into the franchise's DNA. The flames are not random. They tell a story, and that is the difference between a good design choice and a gimmick.
 
-<img src="/images/posts/nba-xmas-2026-pistons/pistons-xmas-detail1.jpg" alt="Detail of Detroit Pistons 2026 Christmas jersey flame design on black base" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
-
 ## The Turquoise Piping
 
 The neon turquoise trim is the other thing that sets this apart. Most of the other Christmas jerseys used neon accents that clashed with their team colors or felt forced. The Pistons' turquoise piping running along the collar and side panels pops against the black base without overwhelming the rest of the design. It adds just enough color to give the jersey dimension, and it pairs really well with the red and blue flame work throughout.
-
-<img src="/images/posts/nba-xmas-2026-pistons/pistons-xmas-detail2.jpg" alt="Close-up of Detroit Pistons 2026 Christmas jersey turquoise piping and trim detail" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
 
 ## Why It Is the Best of the Eight
 
@@ -73,4 +67,4 @@ If Nike is going to force every team into an all-black template for Christmas Da
 
 The best of all eight by a wide margin. Check out our [Full 2026 NBA Christmas Jersey Rankings](/stories/nba-christmas-jerseys-2026-leaked) to see how the rest of the collection stacked up.
 
-*Image sources: Basketball Jersey Archive*
+*Image via NBA*

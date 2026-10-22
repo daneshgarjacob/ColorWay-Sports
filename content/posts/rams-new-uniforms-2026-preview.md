@@ -34,8 +34,8 @@ The biggest confirmed change is the death of the gradient. The white-to-yellow g
 
 Reports also indicate the Rams are introducing a brand new wordmark. The draft hat leak showed an angular, italicized "RAMS" typeface on the snapback that has a speed-stripe feel to it. If that wordmark carries over to the jerseys and brand materials, it would be a major upgrade over the plain block text the team has been using since 2020.
 
-<img src="/images/posts/rams-draft-hat-2026/rams-wordmark-history.webp" alt="Rams wordmark history comparison showing evolution from 2017 through 2026" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via u/blueprint012 on r/LosAngelesRams</p>
+<img src="/images/posts/rams-new-uniforms-2026-review/HGCYhDTbcAAgtIc.jpg" alt="Los Angeles Rams new italicized RAMS wordmark, 2026 blueprint" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The new RAMS wordmark as officially revealed. Image via Los Angeles Rams</p>
 
 The Rams are also expected to release two alternate uniforms later this offseason, meaning tomorrow's reveal will likely focus on the primary home and away sets plus the updated logo package.
 

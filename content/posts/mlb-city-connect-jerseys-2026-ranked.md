@@ -42,8 +42,8 @@ The 2026 MLB City Connect jersey cycle has been one of the more active ones yet.
 
 ## 8. Royals City Connect: C+
 
-<img src="/images/posts/mlb-city-connect-2026-ranked/royals-cc-leak.jpg" alt="Kansas City Royals 2026 City Connect jersey leaked" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Leaked image via @Tha_Chadwick on Reddit</p>
+<img src="/images/posts/city-connect-2026-royals/royals-cc-hero.jpg" alt="Kansas City Royals 2026 City Connect jersey and cap" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Kansas City Royals</p>
 
 <div style="display: flex; justify-content: center;">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kansas City energy just got a new look. Catch the all-new 2026 Kansas City Royals City Connect Jersey and wear the pride of the "City of Fountains" on game day. <a href="https://t.co/vALc9ZRNS3">pic.twitter.com/vALc9ZRNS3</a></p>&mdash; Grishko Fashion (@GrishkoFashion) <a href="https://twitter.com/GrishkoFashion/status/2037180240766918897">March 26, 2026</a></blockquote>
@@ -61,8 +61,8 @@ The cream base is nice, and the piping along the sides and sleeves adds some str
 
 ## 7. Reds City Connect: C+
 
-<img src="/images/posts/reds-city-connect-2026/reds-cc-front.jpg" alt="Cincinnati Reds City Connect jersey 2026 leaked" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @drewsturgell19 / @TalkinBaseball_ on X</p>
+<img src="/images/posts/city-connect-2026-reds/reds-cc-hero.jpg" alt="Cincinnati Reds 2026 City Connect jersey" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Cincinnati Reds</p>
 
 The Reds City Connect that leaked earlier this season is fine. It does not do anything wrong, but it does not do anything that makes you want to buy it either. The color scheme stays in the red family, which is a plus, but the overall design feels safe. For a franchise with as much history as the Reds, we expected something with more personality. We covered the full breakdown in our [Reds City Connect leak post](/stories/reds-city-connect-jersey-leaked-2026).
 
@@ -75,15 +75,15 @@ The Reds City Connect that leaked earlier this season is fine. It does not do an
 
 ## 6. Orioles City Connect: B-
 
-<img src="/images/posts/mlb-city-connect-2026-ranked/orioles-bmore-leak.webp" alt="Baltimore Orioles BMORE City Connect jersey leaked" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Leaked image via @Tha_Chadwick on Reddit</p>
+<img src="/images/posts/city-connect-2026-orioles/orioles-cc-hero.jpg" alt="Baltimore Orioles BMORE City Connect jersey 2026" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Baltimore Orioles</p>
 
 There is a lot to like here. The cream base is clean, the dark green sleeves are a bold departure, and the Oriole bird sitting on top of the logo is a great touch. The "From the Stoop to the Yard" sleeve patch with the 410 area code is the kind of local detail that City Connects should have. But "BMORE" as the chest wordmark is holding this one back. It feels like a nickname that works on a hoodie but not on a game jersey. The colors are nice and the overall package is solid, but the name choice keeps it from reaching the next level.
 
-<img src="/images/posts/mlb-city-connect-2026-ranked/orioles-cc-hat.jpg" alt="Baltimore Orioles City Connect hat leaked" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The Orioles City Connect hat with cream and green colorway. Leaked image via @nuthistory</p>
+<img src="/images/posts/city-connect-2026-orioles/orioles-cc-flatlay.jpg" alt="Baltimore Orioles City Connect hat and jersey" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The Orioles City Connect hat and jersey. Image via Baltimore Orioles</p>
 
-The hat is solid too. Cream front panel with a green brim and a stylized "B" in orange. It matches the jersey well and would sell on its own.
+The hat is solid too. Cream front panel, green sides, an orange brim and a stylized "B" in orange. It matches the jersey well and would sell on its own.
 
 <div style="background: linear-gradient(135deg, #1a4731, #DF4601); border-radius: 12px; padding: 24px 32px; text-align: center; min-width: 180px; margin: 2em auto; max-width: 220px;">
 <div style="font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.15em; color: rgba(255,255,255,0.6); margin-bottom: 4px;">Orioles</div>
@@ -94,8 +94,8 @@ The hat is solid too. Cream front panel with a green brim and a stylized "B" in 
 
 ## 5. Rangers City Connect: B-
 
-<img src="/images/posts/rangers-cc-front.webp" alt="Texas Rangers Tejas City Connect jersey front 2026" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via u/Tha_Chadwick on Reddit</p>
+<img src="/images/posts/city-connect-2026-rangers/rangers-cc-front.jpg" alt="Texas Rangers Tejas City Connect jersey 2026" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Texas Rangers</p>
 
 The Rangers went with a red base and "TEJAS" across the chest in a retro-style font. The color is a good direction, and the throwback lettering is a nice nod to the team's Texas roots. The sleeve details are cool. But at the end of the day, it is a red jersey with a different name on it, and it does not push the envelope far enough to stand out in a crowded City Connect field. We broke this one down fully in our [Rangers Tejas post](/stories/rangers-tejas-city-connect-2026).
 
@@ -108,8 +108,8 @@ The Rangers went with a red base and "TEJAS" across the chest in a retro-style f
 
 ## 4. Padres City Connect: B
 
-<img src="/images/posts/padres-city-connect-jersey-2026/padres-cc-leaked-jersey.jpg" alt="San Diego Padres City Connect jersey 2026 leaked" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Leaked image via Reddit</p>
+<img src="/images/posts/city-connect-2026-padres/padres-cc-hero.jpg" alt="San Diego Padres 2026 City Connect jersey" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via San Diego Padres</p>
 
 The Padres finally moved away from the brown and gold for their City Connect, going with a navy base and orange accents inspired by Dia de los Muertos. The brush-style "San Diego" wordmark is bold, and the skull patch on the sleeve is a strong cultural detail. The navy and orange color combo just looks better on the Padres than brown ever did. The hat is clean and wearable too. It is trendy and might not age perfectly, but right now this is one of the more unique City Connects in the league. Full breakdown in our [Padres City Connect post](/stories/padres-city-connect-jersey-2026).
 
@@ -122,13 +122,13 @@ The Padres finally moved away from the brown and gold for their City Connect, go
 
 ## 3. Pirates City Connect: B+
 
-<img src="/images/posts/pirates-city-connect-front.webp" alt="Pittsburgh Pirates City Connect jersey front" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Leaked image via Reddit</p>
+<img src="/images/posts/city-connect-2026-pirates/pirates-cc-hero.jpg" alt="Pittsburgh Pirates 2026 City Connect jersey" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Pittsburgh Pirates</p>
 
 The Pirates kept it simple and it works. Black jersey with gold "PIRATES" lettering on the front. The color scheme stays true to the franchise, and the overall look is clean without trying too hard. What bumps this one up is the hat that leaked alongside it.
 
-<img src="/images/posts/mlb-city-connect-2026-ranked/pirates-cc-hat.jpg" alt="Pittsburgh Pirates City Connect hat 2026 leaked" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The Pirates City Connect hat with the classic Jolly Roger. Leaked image via @nuthistory</p>
+<img src="/images/posts/city-connect-2026-pirates/pirates-cc-hat.jpg" alt="Pittsburgh Pirates City Connect hat 2026" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The Pirates City Connect hat with the classic Jolly Roger. Image via Pittsburgh Pirates</p>
 
 That Jolly Roger pirate logo on the hat is one of the best cap designs in this entire City Connect cycle. The black crown with the gold and red pirate face is clean and aggressive in the best way. This hat alone could carry the entire set. Full jersey breakdown in our [Pirates City Connect post](/stories/pirates-city-connect-2026-leaked).
 
@@ -141,13 +141,13 @@ That Jolly Roger pirate logo on the hat is one of the best cap designs in this e
 
 ## 2. Brewers City Connect: B+
 
-<img src="/images/posts/mlb-city-connect-2026-ranked/brewers-cc-front.jpg" alt="Milwaukee Brewers Wisco City Connect jersey front 2026" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Leaked image via Christina Lorey on Facebook</p>
+<img src="/images/posts/city-connect-2026-brewers/brewers-cc-hero.jpg" alt="Milwaukee Brewers Wisco City Connect jersey front 2026" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Milwaukee Brewers</p>
 
 The Brewers went all in on Wisconsin with "Wisco" across the chest in a cream script font, and we are here for it. The blue base is a departure from the Brewers' usual navy and gold, and the orange accents on the Nike swoosh, numbers, and lettering give it a retro feel that stands out. The "FORWARD" text inside the collar is a nice nod to Wisconsin's state motto.
 
-<img src="/images/posts/mlb-city-connect-2026-ranked/brewers-cc-back.jpg" alt="Milwaukee Brewers Wisco City Connect jersey back Yelich 22" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The back of the Brewers City Connect with Yelich #22. Leaked image via Christina Lorey on Facebook</p>
+<img src="/images/posts/city-connect-2026-brewers/brewers-cc-yelich.jpg" alt="Milwaukee Brewers Wisco City Connect jersey, Yelich 22" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Christian Yelich in the Brewers City Connect, with the YELICH 22 back. Image via Milwaukee Brewers</p>
 
 The back is where this jersey really shines. The orange name lettering pops against the blue, and the number treatment with the cream fill and blue outline is clean. The colors are not the traditional Brewers palette, which might bother some fans, but this is a City Connect that represents the whole state, not just the team. Pat Murphy said this is not just Milwaukee's team, it is Wisconsin's team, and the jersey reflects that.
 
@@ -176,4 +176,4 @@ This is the only City Connect this cycle that we would actually want to wear. It
 
 *This post will be updated as more City Connect jerseys are revealed throughout the 2026 season.*
 
-*Leaked images credited to @Tha_Chadwick on Reddit (Orioles jersey), @nuthistory (Orioles hat, Pirates hat), and Christina Lorey on Facebook (Brewers). All other images via official team accounts or previous leaks.*
+*All images via the official team accounts of each club.*

@@ -5,8 +5,8 @@ date: "2026-04-09"
 updatedDate: "2026-09-10"
 excerpt: "The Kings' Specter Edition jersey features a purple Light the Beam-inspired gradient on a black base. Simple and not bad, but nothing special either."
 gradient: "linear-gradient(135deg, #5A2D81 0%, #000000 100%)"
-coverImage: "/images/posts/nba-xmas-2026-kings/kings-xmas-hero.jpg"
-coverImagePosition: "center 10%"
+coverImage: "/images/posts/nba-xmas-2026-kings/kings-specter-nba.jpg"
+coverImagePosition: "center 55%"
 logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["sacramento-kings"]
@@ -23,22 +23,14 @@ teams: ["sacramento-kings"]
   </div>
 </div>
 
-<img src="/images/posts/nba-xmas-2026-kings/kings-xmas-hero.jpg" alt="Sacramento Kings 2026 NBA Christmas Day jersey with purple Light the Beam gradient on black base" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
+<img src="/images/posts/nba-xmas-2026-kings/kings-specter-nba.jpg" alt="Sacramento Kings Specter Edition jersey at the Nike and NBA reveal" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via NBA</p>
 
 We genuinely did not expect to be writing about a Sacramento Kings Christmas jersey. The Kings have not been a Christmas Day team in a very long time, and unless something dramatic happens next season, we are not sure they will be one in 2026 either. But here we are. Nike gave Sacramento a Christmas jersey, and honestly, it is fine.
-
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-<blockquote class="twitter-tweet"><a href="https://twitter.com/jerseyarchive/status/2041914110909063334"></a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 
 ## The Light the Beam Concept
 
 The design is built around the Kings' "Light the Beam" tradition, which started during the 2022-23 season when Sacramento ended the longest playoff drought in NBA history. After every home win, a purple beam of light shoots up from Golden 1 Center into the Sacramento sky. It became a real cultural moment for that fanbase, and Nike ran with it here. The jersey features a purple gradient that rises from the bottom hem up through the torso, fading into the black base. It is a clean concept that actually ties to something meaningful for the franchise.
-
-<img src="/images/posts/nba-xmas-2026-kings/kings-xmas-detail1.jpg" alt="Sacramento Kings Christmas jersey 2026 purple gradient detail" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
 
 ## What Works
 
@@ -47,9 +39,6 @@ The purple is the best part of this jersey. Sacramento's purple has always been 
 ## What Doesn't
 
 The problem is that this jersey does not really do anything special beyond the gradient. It is a black jersey with some purple on it. If you took the Christmas patch off the back, you would have no idea this was meant for December 25th. There is nothing festive about it, nothing that makes you think of the holiday or the occasion. We said this in our [Full 2026 NBA Christmas Jersey Rankings](/stories/nba-christmas-jerseys-2026-leaked) and it applies here too. Nike forgot that Christmas jerseys are supposed to feel like an event.
-
-<img src="/images/posts/nba-xmas-2026-kings/kings-xmas-detail2.jpg" alt="Sacramento Kings Christmas jersey 2026 back detail" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
 
 ## The Bigger Question
 

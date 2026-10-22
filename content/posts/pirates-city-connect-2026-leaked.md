@@ -13,8 +13,8 @@ teams: ["pittsburgh-pirates"]
 
 The Pittsburgh Pirates' 2026 City Connect uniform just leaked on Reddit, courtesy of user dannotheiceman. And honestly? We don't hate it.
 
-![Pirates City Connect - Front](/images/posts/pirates-city-connect-front.webp)
-*Images via dannotheiceman / Reddit*
+![Pittsburgh Pirates 2026 City Connect jersey](/images/posts/city-connect-2026-pirates/pirates-cc-hero.jpg)
+*Image via Pittsburgh Pirates*
 
 The jersey is black with gold "PIRATES" lettering across the chest in a gothic typeface that leans hard into the Gotham City angle. If you didn't know, Pittsburgh doubled as Gotham in *The Dark Knight Rises*, and Nike clearly took that and ran with it. Gold piping lines the collar and sleeve cuffs, and the red Nike swoosh adds just enough of a secondary color pop to keep it from being one-note.
 
@@ -22,15 +22,12 @@ Down near the bottom hem you can spot a small "PITTSBURGH" tag, and the collar r
 
 ## The Back: Clemente Forever
 
-![Pirates City Connect - Back](/images/posts/pirates-city-connect-back.webp)
-*Images via dannotheiceman / Reddit*
-
 The back features Clemente #21, which is always going to hit. Gold lettering and numbers on black is clean. The nameplate font matches the front, keeping the gothic feel consistent throughout. There's nothing flashy here, and that's the right call. Let the name do the talking.
 
 ## The Sleeve Patch: PGH Goes Hard
 
-![Pirates City Connect - Sleeve Patch](/images/posts/pirates-city-connect-logo.webp)
-*Images via dannotheiceman / Reddit*
+![Pirates City Connect PGH sleeve patch](/images/posts/city-connect-2026-pirates/pirates-cc-pgh-patch-mlb.jpg)
+*Image via Pittsburgh Pirates / MLB.com*
 
 This might be the best part of the whole uniform. The sleeve patch features "PGH" in that same gothic lettering with crossed swords behind it, the classic Pirates mascot in the center, and "1887" flanking the sides. There are hints of red in the bandana and details on the pirate, which ties back to the red swoosh on the front. The whole patch is outlined in gold and sits on the black sleeve like a coat of arms. It looks like something you'd see on a medieval shield, and we mean that as a compliment.
 

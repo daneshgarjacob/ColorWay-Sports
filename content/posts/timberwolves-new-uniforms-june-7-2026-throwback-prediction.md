@@ -40,7 +40,8 @@ The leaks already showed us where this is going. Two new Timberwolves logos surf
 The June 7 reveal is the next step. The leaked logos do not exist on their own. NBA teams do not commission new logos and let them sit on a shelf. New logos arrive paired with a full identity rollout, which means new primary uniforms, new alternates, new court paint at Target Center, and the throwback-as-the-future design language that has been the dominant trend across the NBA for the past three seasons. The Knicks just did this in reverse with their Icon Edition blue. The Spurs did it with the Fiesta colors. The Wizards did it with the Cherry Blossom palette. The Timberwolves are next, and the design destination is already public.
 
 <div style="margin: 2em 0; text-align: center;">
-  <img src="/images/posts/timberwolves-leaked-wolf-logo.webp" alt="Minnesota Timberwolves leaked new wolf head logo crest in classic blue and green inside a basketball circle with the National Basketball Association Since 1989 wordmark, the leaked design that surfaced on r/timberwolves earlier in 2026 and points directly to the throwback look returning for the June 7 2026 uniform reveal" style="max-width: 380px; width: 100%; height: auto; display: inline-block; border-radius: 12px;" />
+  <img src="/images/posts/official-wolves-rebrand-2026/wolves-logo-2026.png" alt="Minnesota Timberwolves wolf head logo in classic blue and green inside a basketball circle, the mark that first leaked in 2026 and was made official with the rebrand" style="max-width: 380px; width: 100%; height: auto; display: inline-block; border-radius: 12px;" />
+  <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The wolf head logo as officially released. Image via Minnesota Timberwolves</p>
 </div>
 
 ## Why the Throwback Is the Right Move

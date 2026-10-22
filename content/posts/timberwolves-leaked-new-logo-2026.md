@@ -4,8 +4,8 @@ category: "NBA"
 date: "2026-03-26"
 excerpt: "New Timberwolves logos have leaked and they're bringing back the classic blue and green. Here's what we know and why this is the right move."
 gradient: "linear-gradient(135deg, #0C2340 0%, #236192 40%, #78BE20 100%)"
-coverImage: "/images/posts/timberwolves-leaked-wolf-logo.webp"
-coverImagePosition: "center 35%"
+coverImage: "/images/posts/official-wolves-rebrand-2026/wolves-logo-2026.png"
+coverImagePosition: "center 50%"
 league: "nba"
 teams: ["minnesota-timberwolves"]
 ---
@@ -14,12 +14,8 @@ Two new Timberwolves logos have leaked, and if they're real, Minnesota is headin
 
 <div style="display: flex; gap: 1em; justify-content: center; flex-wrap: wrap; margin: 2em 0;">
   <div style="flex: 1; min-width: 250px; max-width: 400px;">
-    <img src="/images/posts/timberwolves-leaked-wolf-logo.webp" alt="Leaked Timberwolves wolf logo with classic blue and green colors" style="width: 100%; border-radius: 10px;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Leaked wolf logo via u/Impossible_Low_2539 on r/timberwolves</p>
-  </div>
-  <div style="flex: 1; min-width: 250px; max-width: 400px;">
-    <img src="/images/posts/timberwolves-leaked-minn-logo.webp" alt="Leaked Timberwolves MINN alternate logo with blue and green" style="width: 100%; border-radius: 10px;" />
-    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Leaked MINN alternate logo via u/Impossible_Low_2539 on r/timberwolves</p>
+    <img src="/images/posts/official-wolves-rebrand-2026/wolves-logo-2026.png" alt="Minnesota Timberwolves wolf head logo in classic blue and green, the mark that leaked and was later made official" style="width: 100%; border-radius: 10px;" />
+    <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The wolf head logo as officially released. Image via Minnesota Timberwolves</p>
   </div>
 </div>
 

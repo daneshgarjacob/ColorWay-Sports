@@ -137,7 +137,7 @@ Saturday produced four change kits, not the three we flagged, and it answered on
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Arsenal 2, Chelsea 1</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Arsenal shirt photo via Soccer Wearhouse, Chelsea via Azteca Soccer.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Arsenal shirt photo via Arsenal, Chelsea via Chelsea FC.</p>
 
 This is the one we have been waiting for, and it is the first A+ of the season. Red with white sleeves against royal blue with a gold lion is, to us, the best kit matchup in football: two shirts that have barely changed their silhouette in decades, worn by two London clubs who have spent most of this century deciding trophies between them, on the same pitch with nothing altered. Arsenal's home shirt is the most distinctive in the league because of the sleeves, and the sleeves are exactly what a royal blue opponent shows off. Chelsea's blue is deep enough to hold its own against a red that loud, and the gold on the crest and sponsor picks up the gold in Arsenal's cannon. Neither club changed, neither club needed to, and the broadcast picture was as clean as this league gets.
 
@@ -150,11 +150,11 @@ We have marked other home-versus-home pairings down this season for being the de
   <div style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
     <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/everton-home.png" alt="Everton 2026/27 royal blue home shirt colorway render with amber collar and cuff trim, worn against Manchester United on September 6 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">EVERTON &middot; ROYAL BLUE HOME</p></div>
     <p style="font-size: 12px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 18px;">VS</p>
-    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/manchester-united-home.png" alt="Manchester United 2026/27 red home shirt colorway render with the white 1977 polo collar, worn at Everton on September 6 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">MAN UNITED &middot; RED HOME</p></div>
+    <div style="text-align: center;"><div style="width: 100%; height: 180px; background: #e8e8e8; border-radius: 8px; display: flex; align-items: center; justify-content: center; padding: 10px; box-sizing: border-box;"><img src="/images/posts/premier-league-kit-schedule-2026-27/manchester-united-home.png" alt="Manchester United 2026/27 red home shirt with the white 1977 polo collar, worn at Everton on September 6 2026" style="max-height: 160px; max-width: 100%; object-fit: contain;" /></div><p style="color: #fff; font-size: 13px; font-weight: 900; margin: 10px 0 0;">MAN UNITED &middot; RED HOME</p></div>
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Everton 2, Man United 2</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Everton and Manchester United shown as ColorWay colorway renders from each club's launch description, not photographs.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Everton shown as a ColorWay colorway render from the club's launch description, not a photograph. Manchester United shirt photo via Manchester United.</p>
 
 Royal blue against red is the other great no-clash pairing in English football, and this one has the history to go with it: Everton and United have met in the top flight more than almost any two clubs in the country, and the picture has looked like this in nearly every decade of it. Everton's Castore home shirt is a flat, saturated royal blue with amber at the collar and cuffs, and the amber is the detail that earns the grade. It gives the shirt a second colour to play off United's white collar and cuffs, so the two kits share a structure, a solid body with a contrast trim, in colours that could not be further apart. United's red carries the 1977 polo collar, and a polo collar against a round amber-trimmed neck is the kind of small difference that reads on a broadcast.
 
@@ -171,7 +171,7 @@ What keeps it a half-step below the Emirates is the same thing that kept Ipswich
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Ipswich Town 0, Liverpool 2</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Liverpool shirt photo via Soccer Wearhouse, Ipswich via the club's official store.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Liverpool shirt photo via Liverpool FC. Ipswich shown as a ColorWay colorway render, not a photograph.</p>
 
 Blue against red is the oldest no-argument pairing in the sport, and it is the reason neither club had to think about this one. Ipswich's home shirt is a flat, deep block blue with no pattern to speak of, and it works precisely because it does not try: it reads instantly at broadcast distance and it lets the away side carry the detail. Liverpool obliged. The Candy-era geometric print across the red is the best home shirt in the league this season and it is at its most legible against a plain opponent, which is exactly what Portman Road provided.
 
@@ -214,7 +214,7 @@ Manchester United's red carries the 1977 polo collar in the fiftieth year of tha
 </div>
 </div>
 
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Both shirts shown in retailer product photography via Soccer Wearhouse.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Aston Villa shirt photo via Aston Villa, Arsenal via Arsenal.</p>
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
@@ -316,7 +316,7 @@ Manchester United's red carries the 1977 polo collar in the fiftieth year of tha
 </div>
 </div>
 
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">United and Chelsea shirt photos via Soccer Wearhouse and Azteca Soccer, Ipswich via the club's official store, Sunderland via Rebel Sport, Leeds via Soccer Wearhouse. Brighton, Fulham and Brentford shown as ColorWay colorway renders from each club's launch description.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">United shirt photo via Manchester United, Chelsea via Chelsea FC, Ipswich via the club's official store, Sunderland via Sunderland AFC, Leeds via Leeds United. Brighton, Fulham and Brentford shown as ColorWay colorway renders from each club's launch description.</p>
 
 Saturday's four are now played, and the day produced the first kit debut of the season: **Nottingham Forest wore the new light blue third shirt at Anfield the day after it went on sale**, and took a point off Liverpool's red in it. Hull City did the opposite of a debut, keeping the amber and black home stripes at Coventry because sky blue clashes with nothing they own. Everton finally gave the white pinstripe away shirt, the best shirt in their wardrobe, a league outing at Bournemouth, and Newcastle's Night Navy won 2-0 at a Tottenham side booed off in lilywhite. Verified from match photography, not preview graphics.
 
@@ -345,7 +345,7 @@ Saturday's four are now played, and the day produced the first kit debut of the 
 </div>
 </div>
 
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Liverpool shown in retailer product photography. Forest third shown as a ColorWay colorway render, not a photograph.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Liverpool shirt photo via Liverpool FC. Forest third shown as a ColorWay colorway render, not a photograph.</p>
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
@@ -372,7 +372,7 @@ Saturday's four are now played, and the day produced the first kit debut of the 
 </div>
 </div>
 
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Bournemouth shown in retailer product photography. Everton away shown as a ColorWay colorway render, not a photograph.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Bournemouth shirt photo via the official AFC Bournemouth Superstore. Everton away shown as a ColorWay colorway render, not a photograph.</p>
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
@@ -399,7 +399,7 @@ Saturday's four are now played, and the day produced the first kit debut of the 
 </div>
 </div>
 
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Coventry shown in retailer product photography. Hull shown as a ColorWay colorway render, not a photograph.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Coventry shirt photo via the official Coventry City club shop. Hull shown as a ColorWay colorway render, not a photograph.</p>
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
@@ -426,7 +426,7 @@ Saturday's four are now played, and the day produced the first kit debut of the 
 </div>
 </div>
 
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Tottenham shirt photo via Soccer Wearhouse. Newcastle away shown as a ColorWay colorway render, not a photograph.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Tottenham shirt photo via Tottenham Hotspur. Newcastle away shown as a ColorWay colorway render, not a photograph.</p>
 
 <div style="margin: 1.4em 0 0.6em;">
 <div style="background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%); border-radius: 14px; padding: 18px 22px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
@@ -452,6 +452,7 @@ Saturday's four are now played, and the day produced the first kit debut of the 
   </div>
 </div>
 </div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Crystal Palace shown as a ColorWay colorway render, not a photograph. Manchester City shirt photo via Manchester City.</p>
 
 The season's best home shirt against its lowest-graded away shirt, on the same pitch. Palace wore the white sash exactly as scheduled. City changed into the black worker-bee even though nothing forced it, and put four past Palace wearing it.
 
@@ -504,7 +505,7 @@ Every fixture gets a kit matchup grade once it kicks off. All ten played and gra
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Arsenal 3, Coventry 0</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Arsenal shirt photo via Soccer Wearhouse. Coventry shirt photo via the official Coventry City club shop, shown from the back for the gold 1987 stamp at the collar.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Arsenal shirt photo via Arsenal. Coventry shirt photo via the official Coventry City club shop, shown from the back for the gold 1987 stamp at the collar.</p>
 
 Red with white sleeves against sky blue with white stripes is the kind of contrast the opening night of a season deserves, and Coventry's 1987 pinstripes gave the away end a shirt with an actual story on it. What keeps it from the A range is that this is the league's default look: Arsenal's home red is the expected call at the Emirates, and a great kit matchup usually needs one side to bring something you do not see every week. Clean, classic, a half-step short of special. **B+.**
 
@@ -519,7 +520,7 @@ Red with white sleeves against sky blue with white stripes is the kind of contra
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Newcastle 2, Liverpool 2</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Newcastle and Liverpool shirt photos via Soccer Wearhouse.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Newcastle shirt photo via Newcastle United, Liverpool via Liverpool FC.</p>
 
 The best kit matchup of the opening weekend, and the one that required the least work from anybody. Black and white stripes against plain red is about as far apart as two shirts can get, so no away kit, no third kit, no sock swap, no conversation. What lifts it above Forest and Leeds is that both shirts have something going on inside the classic. Newcastle's stripes are broken up by a bright blue flash across the shoulder and down the cuff, the first time in years the club has let a third color onto the home shirt, and Liverpool's red is covered in a scattered white and pink graphic that only resolves when the camera gets close. Two of the oldest looks in English football, both quietly modernised, neither one compromised. **A.**
 
@@ -536,7 +537,7 @@ It finished 2-2, and it took until the ninth minute of stoppage time to get ther
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Forest 0, Leeds 1</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Leeds shirt photo via Soccer Wearhouse. Forest shown as a ColorWay colorway render, not a photograph.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Leeds shirt photo via Leeds United. Forest shown as a ColorWay colorway render, not a photograph.</p>
 
 The best looking fixture of the weekend, and it did not need a single intervention from anybody. Forest's plain red and Leeds' white produce the cleanest separation on the card without either club reaching for an alternate, and all white is genuinely rare in this league: Leeds are the only club who own it outright, so this is not a default pairing even though both sides are at home in their own colors. And this year's Leeds white has something to say up close, too. The horizontal blue and yellow pinstripes are a first in the club's history, a deliberate flip of the constantly cited 2005/06 vertical-pinstripe Admiral shirt. Heritage color, new idea, perfect contrast. **A-.**
 
@@ -551,7 +552,7 @@ The best looking fixture of the weekend, and it did not need a single interventi
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Brighton 4, Aston Villa 0</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Brighton shirt photo via the official Brighton and Hove Albion club store. Aston Villa shirt photo via Ultra Football.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Brighton shirt photo via the official Brighton and Hove Albion club store. Aston Villa shirt photo via Aston Villa.</p>
 
 The kit story of Sunday. Villa did not wear claret. They went to the Amex in the **black and gold away shirt that only reached the club shop on Saturday**, which means a kit that had been on sale for roughly twenty four hours made its competitive debut in the season opener. It is a genuinely good shirt: black with a tonal zigzag through the body, a gold lion, gold adidas trefoil, and claret and sky blue banded into the collar and cuffs so the club colors are still in there if you look. Against Brighton's royal blue and white pinstripes it produces total separation, and Brighton's own shirt is carrying the club's 125th anniversary with a **We are Brighton 1901-2026** inscription stitched inside the white collar.
 
@@ -578,7 +579,7 @@ Palace brought the most interesting shirt of the weekend, and they did it withou
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Ipswich 2, Sunderland 1</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Sunderland shirt photo via Rebel Sport. Ipswich shown as a ColorWay colorway render, not a photograph.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Sunderland shirt photo via Sunderland AFC. Ipswich shown as a ColorWay colorway render, not a photograph.</p>
 
 This is what English football looked like for most of the last century, and there is a reason it keeps working. Plain blue against red and white stripes needs no ruling, no third kit and no conversation, and the stripes do all the visual work while Ipswich's block blue sits underneath them as a clean background. It is a comfortable, well-built matchup rather than a memorable one. Sunderland's stripes carry it, Ipswich's shirt is honest but plain, and nothing here surprises you. **B+.**
 
@@ -593,7 +594,7 @@ This is what English football looked like for most of the last century, and ther
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Man City 2, Bournemouth 1</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Manchester City shirt photo via Soccer Wearhouse. Bournemouth shirt photo via the official AFC Bournemouth Superstore.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Manchester City shirt photo via Manchester City. Bournemouth shirt photo via the official AFC Bournemouth Superstore.</p>
 
 Sky blue against red and black stripes needs no intervention, so both clubs wore home and the league never had to get involved. The reason this sits at B+ rather than higher is the same reason Arsenal against Coventry did: it is the default. Neither club reached for anything, and a great kit matchup usually needs one side to turn up in something you do not see every week. What it does have is a debut. This is **Bournemouth's first home shirt under hummel** after years with Umbro, and the chevrons land better than expected, running in gold across the shoulders with a tonal crest pattern inside the red stripes. City's own home shirt fades from sky blue into white at the hem, which reads well in a stadium and slightly less well next to a shirt as busy as Bournemouth's. Clean, legible, unremarkable. **B+.**
 
@@ -623,7 +624,7 @@ The contrast is fine. Red and white stripes against a dark navy separates cleanl
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Final &middot; Hull 2, Man United 0</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Manchester United shirt photo via Ultra Football. Hull shown as a ColorWay colorway render, not a photograph.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Manchester United shirt photo via Manchester United. Hull shown as a ColorWay colorway render, not a photograph.</p>
 
 Hull did their part. Amber with black central and side stripes is one of the most distinctive home shirts in the country, it photographs beautifully, and a promoted club opening its Premier League return in it is exactly right. United are the problem. Ivory is a warm off-white, Hull's amber is a warm yellow, and putting the two beside each other flattens a matchup that should have been vivid. Their blue away kit would have separated better and there was no rule forcing them past it, which makes the third kit a marketing decision dressed up as a clash solution. Add three centralised badges to a shirt whose only red is a dark maroon trim and you have something that reads as a merchandise drop rather than a Manchester United kit. Great home shirt, avoidable away call. **B-.**
 

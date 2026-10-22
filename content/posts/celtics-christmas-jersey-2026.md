@@ -5,8 +5,8 @@ date: "2026-04-09"
 updatedDate: "2026-09-29"
 excerpt: "The Celtics' Specter Edition jersey uses neon green on a black base and it is one of the better designs in Nike's holiday collection. Full review and grade."
 gradient: "linear-gradient(135deg, #007A33 0%, #000000 100%)"
-coverImage: "/images/posts/nba-xmas-2026-celtics/celtics-xmas-hero.jpg"
-coverImagePosition: "center 40%"
+coverImage: "/images/posts/nba-xmas-2026-celtics/celtics-specter-nba.jpg"
+coverImagePosition: "center 55%"
 logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["boston-celtics"]
@@ -23,17 +23,12 @@ teams: ["boston-celtics"]
   </div>
 </div>
 
-<img src="/images/posts/nba-xmas-2026-celtics/celtics-xmas-hero.jpg" alt="Boston Celtics 2026 NBA Christmas Day jersey with neon green on black design" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
+<img src="/images/posts/nba-xmas-2026-celtics/celtics-specter-nba.jpg" alt="Boston Celtics Specter Edition jersey at the Nike and NBA reveal" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via NBA</p>
 
 We already covered the [full 2026 NBA Christmas jersey collection](/stories/nba-christmas-jerseys-2026-leaked) and gave the overall set a pretty rough grade. Most of those designs missed the mark. But when you pull the Celtics jersey out on its own and really look at it, this one actually holds up better than the rest of the group.
 
 The neon green on a black base just works for Boston. The Celtics have always owned that shade of green, and when you light it up against a dark background, it pops in a way that feels natural for the brand. It does not feel forced the way some of the other teams' Christmas jerseys do. The green aurora-style graphics woven into the fabric have an energy to them that actually fits the Celtics aesthetic.
-
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-<blockquote class="twitter-tweet"><a href="https://twitter.com/jerseyarchive/status/2040239176810127723"></a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 
 ## The Matching Shorts (Update, September 29)
 
@@ -71,4 +66,4 @@ And then there is the Nike swoosh sitting dead center on the chest. We have said
 
 This is one of the better jerseys in Nike's 2026 Christmas collection. The color works, the design is not overly busy, and it feels like something that actually belongs on the Celtics. The number placement and the centered Nike logo keep it from reaching that next tier, but compared to the rest of the leaked Christmas designs, Boston came out ahead. Check out our [full 2026 NBA Christmas jersey rankings](/stories/nba-christmas-jerseys-2026-leaked) to see how every team stacked up.
 
-*Image via Basketball Jersey Archive*
+*Image via NBA*

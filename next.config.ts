@@ -41,6 +41,12 @@ const nextConfig: NextConfig = {
   },
   outputFileTracingIncludes: {
     "/*": ["scripts/mlb-confirmed/**/*.json", "scripts/mlb-slate/**/*.json"],
+    // nhlTileExists() lists this folder at render time. Pages re-rendered by ISR
+    // (the homepage) run without public/, so every sweater fell back to a plain
+    // swatch dot. Ship just this one folder (~6 MB) with the functions that read it.
+    "/": ["public/images/posts/nhl-daily-tracker/*"],
+    "/nhl-tracker": ["public/images/posts/nhl-daily-tracker/*"],
+    "/nhl-tracker/*": ["public/images/posts/nhl-daily-tracker/*"],
   },
   async headers() {
     return [

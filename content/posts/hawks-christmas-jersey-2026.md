@@ -5,8 +5,8 @@ date: "2026-04-09"
 updatedDate: "2026-09-10"
 excerpt: "The Hawks' Specter Edition jersey uses blue and green brushstroke patterns that make it one of the most colorful designs in Nike's holiday collection."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #26282A 100%)"
-coverImage: "/images/posts/nba-xmas-2026-hawks/hawks-xmas-cover.jpg"
-coverImagePosition: "center 10%"
+coverImage: "/images/posts/nba-xmas-2026-hawks/hawks-specter-nba.jpg"
+coverImagePosition: "center 55%"
 logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["atlanta-hawks"]
@@ -23,33 +23,22 @@ teams: ["atlanta-hawks"]
   </div>
 </div>
 
-<img src="/images/posts/nba-xmas-2026-hawks/hawks-xmas-hero.jpg" alt="Atlanta Hawks 2026 NBA Christmas Day jersey with blue and green brushstroke pattern" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
+<img src="/images/posts/nba-xmas-2026-hawks/hawks-specter-nba.jpg" alt="Atlanta Hawks Specter Edition jersey at the Nike and NBA reveal" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via NBA</p>
 
 We graded the entire [2026 NBA Christmas jersey collection](/stories/nba-christmas-jerseys-2026-leaked) and were pretty disappointed with the set overall. Most of the designs leaned too far into dark, moody aesthetics that had nothing to do with Christmas. But the Atlanta Hawks jersey is a different story. This one actually works.
 
 The Hawks' Christmas Day jersey stands out because it is the most colorful design in the bunch. While every other team got stuck with a dark black base and muted accents, Atlanta's jersey uses a blue and green brushstroke pattern that stretches across the entire front and back of the jersey. The strokes are bold, they are layered, and they give the whole design a sense of energy that none of the other Christmas jerseys come close to matching.
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-<blockquote class="twitter-tweet"><a href="https://twitter.com/jerseyarchive/status/2041909553755820260"></a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
 ## The Brushstroke Pattern
 
 The blue and green tones are not traditional Hawks colors, and that is part of what makes this work. Nike pulled from a different palette to create something that feels artistic and bold rather than just slapping team colors on a black template. The brushstrokes have a hand-painted quality that gives the jersey texture and movement. On court, this is going to look completely different from anything else in the rotation.
-
-<img src="/images/posts/nba-xmas-2026-hawks/hawks-xmas-detail1.jpg" alt="Close-up of Atlanta Hawks Christmas jersey brushstroke pattern detail" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
 
 The pattern wraps around the sides and does not just sit on the front panel, which is a nice touch. It makes the jersey feel like a complete piece rather than a graphic slapped onto a blank. That full-coverage approach is what separates this from the busier designs in the collection that felt cluttered rather than intentional.
 
 ## How It Compares to the Rest of the Collection
 
 We were not kind to the 2026 Christmas jersey set as a whole. Most of the designs felt like they were trying too hard to be edgy without giving us anything that actually felt like the holidays. The Hawks jersey has that same black base, but the vibrant brushstrokes save it. Where other teams got dark and forgettable, Atlanta got colorful and memorable.
-
-<img src="/images/posts/nba-xmas-2026-hawks/hawks-xmas-detail2.jpg" alt="Atlanta Hawks 2026 Christmas jersey side view showing full brushstroke design" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
 
 This is easily one of our favorites from the entire collection. If Nike had brought this level of color and creativity to every team in the set, the whole Christmas jersey program would have landed a lot better. The Hawks got the best version of what Nike was going for, and it is not particularly close.
 

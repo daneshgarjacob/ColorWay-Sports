@@ -53,7 +53,7 @@ The nights are listed newest first, so Thursday's fixtures sit at the top and Tu
 
 ## Matchday 1: The Kit Matchups, Up Close
 
-The shirts below are the actual 2026/27 products, cut out from retailer and club-store photography so you can see what was on the pitch rather than a preview graphic. Grades for each pairing follow the way they do on the Premier League page. Where a visiting club has no retail product image yet, its side of the block is a colour tile rather than a shirt, and it says so.
+The shirts below are the actual 2026/27 products, cut out from official club-store photography so you can see what was on the pitch rather than a preview graphic. Grades for each pairing follow the way they do on the Premier League page. Where a visiting club has no retail product image yet, its side of the block is a colour tile rather than a shirt, and it says so.
 
 ### Man United vs Sabah
 
@@ -66,7 +66,7 @@ The shirts below are the actual 2026/27 products, cut out from retailer and club
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Man United 4, Sabah 0</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Manchester United shirt product photo sourced from a retailer listing. No retail image of Sabah's change shirt exists yet; the tile shows the confirmed colour.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Manchester United shirt photo via Manchester United. No retail image of Sabah's change shirt exists yet; the tile shows the confirmed colour.</p>
 
 United's return to the competition came in the home shirt with the white polo collar, and Sabah, the Azerbaijani debutants, changed into black. It made for a clean, old-fashioned picture: solid red against solid black, the white collar and shoulder stripes the only light on the United side and Sabah's red crest the only colour on theirs. There is not much to argue about in a 4-0 where the home side wears its most recognisable shirt, and there is not much to grade either. Red against black separates on any camera. United looked like United, which on a European night at Old Trafford is most of the job.
 
@@ -81,7 +81,7 @@ United's return to the competition came in the home shirt with the white polo co
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Bayern Munich 5, Bodo/Glimt 0</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Bayern shirt product photo sourced from a retailer listing. Bodo/Glimt did not appear in any of the night's match photography, so their tile shows the expected shirt.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Bayern shirt photo via FC Bayern. Bodo/Glimt did not appear in any of the night's match photography, so their tile shows the expected shirt.</p>
 
 Bayern wore the red home shirt, confirmed from the match photography, and it is the best version of a Bayern home in several years: the tonal pinstripes give the red some depth under floodlights, the shoulder stripes carry a thin gold edge, and the five stars sit above a crest that has not needed changing in decades. Bodo/Glimt's home shirt is a bright yellow, and if that is what they wore, red against yellow is one of the loudest pairings the league phase can produce, the kind of contrast that reads from the top tier. We could not confirm the visitors' shirt from any photograph, which is why their side is a tile rather than a cutout, and we will fill it in when we can.
 
@@ -96,7 +96,7 @@ Bayern wore the red home shirt, confirmed from the match photography, and it is 
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Arsenal 1, Napoli 0 &middot; Graded A-</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Shirt product photos sourced from retailer listings.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Napoli shirt photo via SSC Napoli, Arsenal via Arsenal.</p>
 
 **Grade: A-.** The Arsenal half of this is the story, and it is genuinely special. They wore **red shorts** instead of the usual white, a version of the kit they have barely put on the pitch in years. Arsenal in white shorts is the default and it is perfectly fine, but it breaks the shirt off at the waist and leaves a visitor reading as two separate halves on a wide camera angle. In red over red they become one solid block of colour, and the white sleeves stop competing with a white waist and turn into the only light on that side of the pitch. We would take the all-red every single week.
 
@@ -113,7 +113,7 @@ What holds it just short of the top mark is that the interest was one-sided. Nap
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Liverpool 2, Atletico Madrid 1</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Shirt product photos sourced from retailer listings.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Liverpool shirt photo via Liverpool FC, Atletico Madrid via Atletico de Madrid.</p>
 
 Red against black is a pairing that usually needs help, because both colours go dark under floodlights and a broadcast camera flattens them into the same mass. Two things rescued this one. Liverpool's home shirt is not plain red any more, it carries the scattered pink and white Candy graphic that reads as texture from distance and keeps the shirt from going matte. And Atletico's away shirt runs lime green through the sleeves, the crest and the sponsor, which is the single loudest colour on the pitch and does all the separating by itself. Take the lime out and this is a hard watch. With it, the away side is the one you follow.
 
@@ -128,7 +128,7 @@ Red against black is a pairing that usually needs help, because both colours go 
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Real Madrid 2, Inter 1</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Real Madrid shirt photo via Ultra Football, Inter via Soccer Wearhouse.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Real Madrid shirt photo via Real Madrid, Inter via Nike.</p>
 
 White against black and blue is the pairing the Champions League anthem was written for, and neither club had to think about it. Madrid's home shirt is the plainest it has been in years, white with the collar and cuffs picked out in dark green, and the one loud decision on it, the pink three stripes across the shoulders, is exactly what a striped navy opponent shows off. Inter's shirt does the rest of the work: the stripes are back to a broad, old-fashioned width, the collar is back for the first time in a while, and every mark on it, from the crest to the sponsor, is rendered in gold. Two shirts with real history on them, in their own colors, with nothing changed and nothing needing to change. We would put this among the best-looking matchups the league phase will produce.
 
@@ -143,7 +143,7 @@ White against black and blue is the pairing the Champions League anthem was writ
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Borussia Dortmund 3, Villarreal 2</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Dortmund shirt photo via Ultra Football, Villarreal via the official Villarreal CF store.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Dortmund shirt photo via Borussia Dortmund, Villarreal via the official Villarreal CF store.</p>
 
 Yellow against yellow is the one clash in football nobody argues about, so Villarreal were always going to change, and the interesting part is what they changed into. The 2026/27 away shirt is a pearl grey body with royal blue raglan sleeves and a thin line of yellow piping, a deliberate callback to the grey change kits Villarreal wore in 2003 and 2004, and against Dortmund's yellow it reads almost white from distance, which is why plenty of viewers logged it as a white shirt. Grey and blue against the loudest yellow in the sport is a genuinely good picture: the blue sleeves give the away side one strong color of their own, and the grey keeps the whole frame from turning into a yellow wall. Dortmund's home shirt does what it always does. The tonal graphic pulled from the Minister Stein colliery framework is a texture rather than a pattern at broadcast distance, and the black trim at the collar is the only thing breaking the yellow. Five goals, and a change kit that earned its place.
 
@@ -158,7 +158,7 @@ Yellow against yellow is the one clash in football nobody argues about, so Villa
   </div>
   <p style="color: #fff; font-size: 11px; text-align: center; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.75; margin: 14px 0 0; font-weight: 700;">Full Time &middot; Porto 0, Man City 2</p>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Porto shirt photo via Ultra Football, Manchester City via Soccer Wearhouse.</p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 1.5em;">Porto shirt photo via FC Porto, Manchester City via Manchester City.</p>
 
 This is the first time the black away shirt has had a European night, and it looked built for one. City could not wear sky blue against Porto's blue and white stripes, so the choice was the black bee shirt or the white third, and black was the right call: Porto's stripes are bright and busy, and a dark, single-color opponent lets them carry the picture. The gold bee pattern is almost invisible from the stands and reads as texture on television, which is what a good travelling shirt should do. Porto's New Balance home shirt is one of the cleaner striped kits in the competition, with the stripes running edge to edge and a plain white collar, and it needed a dark partner to look its best. It got one.
 

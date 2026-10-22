@@ -28,10 +28,8 @@ The back of the hat is where things get really interesting. The snapback closure
 
 We really like this. The new wordmark has some attitude to it. It's going to be interesting to see how it looks on the jerseys, on the helmet, and across the full brand. If the Rams are going all-in on a new visual identity, this wordmark is a strong foundation.
 
-Here's how it compares to the previous Rams wordmarks:
-
-<img src="/images/posts/rams-draft-hat-2026/rams-wordmark-history.webp" alt="Rams wordmark history comparison 2017 to 2026" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Rams wordmark history via u/blueprint012 on r/LosAngelesRams</p>
+<img src="/images/posts/rams-new-uniforms-2026-review/HGCYhDTbcAAgtIc.jpg" alt="Los Angeles Rams new italicized RAMS wordmark, 2026 blueprint" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The new RAMS wordmark as officially revealed. Image via Los Angeles Rams</p>
 
 The evolution is pretty clear. The 2017-2020 wordmark was curvy and scripted. The 2020-2026 version went the complete opposite direction with a plain block text that felt corporate and forgettable. This new 2026 version actually has some personality to it. It's sharp, it's dynamic, and it feels like it belongs on an NFL uniform.
 

@@ -13,8 +13,8 @@ teams: ["texas-rangers"]
 
 The Texas Rangers' 2026 City Connect uniform has leaked, and we have thoughts.
 
-![Rangers Tejas City Connect - Front](/images/posts/rangers-cc-front.webp)
-*Image via u/Tha_Chadwick / Reddit*
+![Rangers Tejas City Connect - Front](/images/posts/city-connect-2026-rangers/rangers-cc-hero.jpg)
+*Image via Texas Rangers*
 
 The new look features a red jersey with "TEJAS" across the chest in a typeface straight out of the late 1980s Rangers era. Down the middle is beige piping, and the jock tag reads "Viva Tejas." The name comes from the Spanish spelling of a Caddo word meaning "friend" or "ally," which eventually became the name of the state itself.
 
@@ -22,13 +22,13 @@ The new look features a red jersey with "TEJAS" across the chest in a typeface s
 
 We don't love City Connects in general, and putting a different name on the front instead of just "Texas" is always going to be a tough sell for us. But this one isn't bad.
 
-![Rangers Tejas City Connect - Back](/images/posts/rangers-cc-back-langford.webp)
-*Image via u/Tha_Chadwick / Reddit*
+![Rangers Tejas City Connect - Back](/images/posts/city-connect-2026-rangers/rangers-cc-back.jpg)
+*The back of the Tejas City Connect, modeled by Evan Carter. Image via Texas Rangers*
 
-The red works. The back of the jersey with Langford's #36 is probably the strongest angle. Red on red with the number in the jersey color looks sharp. It's a clean back.
+The red works. The back of the jersey, shown here on Evan Carter's #32, is probably the strongest angle. Red on red with the number in the jersey color looks sharp. It's a clean back.
 
-![Rangers Tejas City Connect - Sleeve Detail](/images/posts/rangers-cc-sleeve-detail.jpg)
-*Image via u/Tha_Chadwick / Reddit*
+![Rangers Tejas City Connect - Design details including the charro-inspired sleeve pattern](/images/posts/city-connect-2026-rangers/rangers-cc-breakdown.jpg)
+*Image via Texas Rangers*
 
 The sleeves have a step fret pattern that ties in with the "T" shape from the wordmark, and that's a nice detail. It gives the jersey some texture without going overboard.
 

@@ -20,9 +20,6 @@ The alternate scorebug carries the same data layout as the regular White Sox gra
 
 The redesign extends to the full broadcast and not just the corner scorebug. The lower-third player graphic that runs when a hitter steps in carries the same matching treatment, with the player name in a heavier, kid-friendly typeface and the stat line cleanly broken out into season averages plus a series-to-date row.
 
-<img src="/images/posts/white-sox-kids-day-scorebug/white-sox-kids-day-james-wood-graphic.jpg" alt="James Wood Washington Nationals lower-third player graphic during White Sox Kids Day broadcast 2026 showing series stats and season averages" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Broadcast still via NBC Sports Chicago, surfaced on <a href="https://www.reddit.com/r/baseball/comments/1swfola/the_white_sox_have_unveiled_some_interesting/" style="color:#999; text-decoration: underline;">r/baseball by u/FadedToBeige</a></p>
-
 This is the kind of graphic package that should be a standard part of every MLB team's broadcast playbook. Themed days are already a real thing across the league. Kids Day, Mother's Day, Father's Day, Pride Night, opening day, jersey reveals. Every one of those days could carry a custom scorebug and a matching lower-third package the way the White Sox did here, and the cost to a broadcast partner of cutting one alternate template is genuinely low compared to the goodwill it builds with the audience showing up for the day.
 
 The execution lands. The lower-third for James Wood is clean, the kid-friendly weight reads well on a smaller screen, and the broadcast did not flip back and forth between the regular graphics package and the alternate. It was the alternate package, all game.

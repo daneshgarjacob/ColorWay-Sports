@@ -5,8 +5,8 @@ date: "2026-04-09"
 updatedDate: "2026-09-10"
 excerpt: "The 76ers' Specter Edition jersey wraps glowing neon-red stars around the sides of a black base. The concept is nice but we wish there was more color throughout."
 gradient: "linear-gradient(135deg, #006BB6 0%, #ED174C 100%)"
-coverImage: "/images/posts/nba-xmas-2026-sixers/sixers-xmas-cover.jpg"
-coverImagePosition: "center 10%"
+coverImage: "/images/posts/nba-xmas-2026-sixers/sixers-specter-nba.jpg"
+coverImagePosition: "center 55%"
 logoSrc: "/logos/leagues/nba.png"
 league: "nba"
 teams: ["philadelphia-76ers"]
@@ -23,31 +23,20 @@ teams: ["philadelphia-76ers"]
   </div>
 </div>
 
-<img src="/images/posts/nba-xmas-2026-sixers/sixers-xmas-hero.jpg" alt="Philadelphia 76ers 2026 NBA Christmas Day jersey with glowing red stars on black" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
+<img src="/images/posts/nba-xmas-2026-sixers/sixers-specter-nba.jpg" alt="Philadelphia 76ers Specter Edition jersey at the Nike and NBA reveal" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via NBA</p>
 
 The Philadelphia 76ers got one of the more interesting designs in the 2026 NBA Christmas Day jersey collection. While every team in the leaked batch shares the same black base template, the Sixers version leans into a star motif that actually works better than most of the others.
-
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-<blockquote class="twitter-tweet"><a href="https://twitter.com/jerseyarchive/status/2041893166383567323"></a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 
 ## The Stars Are the Best Part
 
 The glowing neon-red stars that wrap around the sides of the jersey are the standout element here. They have a real glow to them, almost like they are radiating light off the fabric. It gives the jersey a premium, almost theatrical feel that actually fits the Christmas Day stage. Of all the design choices Nike made across the eight leaked jerseys, the Sixers' star treatment is one of the few that feels like it belongs on a holiday uniform.
-
-<img src="/images/posts/nba-xmas-2026-sixers/sixers-xmas-detail1.jpg" alt="Detail of glowing star pattern on 76ers 2026 Christmas jersey" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
 
 The stars tie directly into the Sixers' identity too. Philadelphia has always had the star connection through the 76ers branding and the city's history, so this is not just a random graphic slapped onto a black jersey. There is actual thought behind it.
 
 ## Where It Falls Short
 
 The issue is the same one that plagues this entire Christmas collection. There is just not enough color. The black base swallows everything. You have these beautiful glowing stars on the sides, and then the rest of the jersey is just... dark. We wish Nike had pushed the red and blue further throughout the design. More color in the numbers, more color in the collar, more color anywhere. The Sixers have one of the best color palettes in the NBA and this jersey barely uses it.
-
-<img src="/images/posts/nba-xmas-2026-sixers/sixers-xmas-detail2.jpg" alt="Philadelphia 76ers 2026 Christmas jersey full front view" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via Basketball Jersey Archive</p>
 
 On the court, we think the glowing effect will look solid under arena lighting. But from a distance, on your TV at home, this is just going to read as another dark jersey with some red accents. That is a missed opportunity when you have a team with royal blue, red, and white to work with.
 

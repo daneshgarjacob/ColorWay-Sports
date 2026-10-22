@@ -4,14 +4,14 @@ category: "MLB"
 date: "2026-04-06"
 excerpt: "The Padres new City Connect jersey for 2026 has leaked ahead of the April 9 reveal. We break down the leaked navy and orange design, the hat, and grade the full set."
 gradient: "linear-gradient(135deg, #1B2B4A 0%, #E8792B 50%, #1B2B4A 100%)"
-coverImage: "/images/posts/padres-city-connect-jersey-2026/padres-cc-leaked-jersey.jpg"
-coverImagePosition: "center 55%"
+coverImage: "/images/posts/city-connect-2026-padres/padres-cc-hero.jpg"
+coverImagePosition: "center 30%"
 league: "mlb"
 teams: ["san-diego-padres"]
 ---
 
-<img src="/images/posts/padres-city-connect-jersey-2026/padres-cc-leaked-jersey.jpg" alt="San Diego Padres 2026 City Connect jersey leaked with San Diego wordmark and Dia de los Muertos patch" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via u/j_f10res on Reddit</p>
+<img src="/images/posts/city-connect-2026-padres/padres-cc-hero.jpg" alt="San Diego Padres 2026 City Connect jersey with the San Diego wordmark" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via San Diego Padres</p>
 
 The Padres 2026 City Connect jersey has leaked. Photos have been circulating for weeks now, but with a launch tag stamped "April 6th at 9:00 AM," we can essentially confirm these are the real deal. San Diego is set to officially reveal the full set on April 9, with the on-field debut coming April 10 against the Rockies.
 
@@ -33,8 +33,8 @@ The Dia de los Muertos theme on the sleeve is not something we would have chosen
 
 ## The Hat
 
-<img src="/images/posts/padres-city-connect-jersey-2026/padres-cc-leaked-hat.jpg" alt="San Diego Padres 2026 City Connect leaked hat with navy and orange SD logo on cream crown" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via u/j_f10res on Reddit</p>
+<img src="/images/posts/city-connect-2026-padres/padres-cc-profile.jpg" alt="San Diego Padres 2026 City Connect hat with navy and orange SD logo on cream crown" style="width: 100%; border-radius: 10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image via San Diego Padres</p>
 
 If that hat leak is real, it is a win for the overall set. It is simple, wearable, and gets the job done without being too over the top. The cream crown with the navy brim is a classic combination, and the interlocking SD logo in navy with orange trim looks clean. This is the kind of hat fans will actually buy and wear outside the stadium, which is really the whole point.
 
@@ -68,4 +68,4 @@ The jersey could be a bit cleaner overall. The brush-style font is trendy and mi
 
 The official reveal is set for April 9, and the Padres will wear these for every Friday home game this season. We will update this post with official photos once they drop.
 
-*Image sources: u/j_f10res on Reddit, San Diego Padres official website*
+*Image sources: San Diego Padres*
