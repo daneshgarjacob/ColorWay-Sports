@@ -2,7 +2,7 @@
 title: "Green Bay Packers Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-22"
 excerpt: "Green Bay published its 2026 uniform lineup: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set, which debuts in Week 5 against the Bears."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,12 @@ teams: ["green-bay-packers"]
 ---
 
 Green Bay is getting a new uniform this year, and now we have seen all of it. The Packers are part of the 2026 Rivalries wave alongside the rest of the NFC North, and their set arrived at the league-wide reveal on August 25: a vintage 1919-inspired look with a cream matte helmet, the old interlocking GB logo, and a debut confirmed for **Week 5 against the Bears on October 11**. Here is the Packers 2026 uniform schedule week by week, with the new uniform where it lands.
+
+**Update, October 22: Week 7 is confirmed.** At Detroit on Sunday, October 25 (4:25 p.m. ET, FOX), the Packers wear the **gold helmet, white jersey and gold pants**. The Lions go black. Every Week 7 look is in our [NFL Week 7 uniform guide](/stories/nfl-week-7-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/packers/status/2113299351120629904"></a></blockquote>
+</div>
 
 Want them graded instead? Here is [every Green Bay Packers jersey ranked](/stories/packers-jerseys-2026-ranked), worst to best.
 

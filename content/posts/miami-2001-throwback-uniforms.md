@@ -3,8 +3,8 @@ title: "Miami's 2001 Throwback Uniforms: The National Championship Set Is Back, 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-22"
-updatedDate: "2026-09-22"
-excerpt: "Miami revealed throwbacks of the 2001 national championship uniforms, and released both the orange home and the white road version. We grade the white an A- and the orange a B+, and argue these should be the primary sets."
+updatedDate: "2026-10-22"
+excerpt: "Miami wears the orange 2001 Tribute set against Pittsburgh on October 24. Miami revealed throwbacks of the 2001 national championship uniforms, and released both the orange home and the white road version. We grade the white an A- and the orange a B+, and argue these should be the primary sets."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 coverImage: "/images/posts/miami-2001-throwback-uniforms/cover.jpg"
 coverImagePosition: "center 40%"
@@ -13,6 +13,8 @@ kicker: Uniform Review
 league: "college"
 teams: ["miami-hurricanes"]
 ---
+
+**Update, October 22:** It is official. Miami wears the **2001 Tribute** uniform against **Pittsburgh on Saturday, October 24, at noon Eastern on ESPN** at Hard Rock Stadium: **white helmet, throwback orange jersey, throwback white pants**, the home half of this set. The team called it "A legendary look for Week 8." The white road version, with the green pants, still has no date. Details are in the new section below.
 
 Miami has brought back the uniforms of the 2001 national championship team, and did the thing almost nobody does with a throwback: released **both** versions. The orange home set and the white road set, together, on the same day.
 
@@ -85,15 +87,23 @@ There is nothing in the current wardrobe these do not beat. The orange home set 
 
 There is some weight to that this year. Last season ended in the national championship game at Hard Rock Stadium, a 27-21 loss to Indiana. The last time Miami finished the job was the team these uniforms belong to.
 
-## When Will Miami Wear Them?
+## When Will Miami Wear Them? October 24 vs. Pittsburgh
 
-No date has been announced. Our [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026) already flagged **Florida State's October 17 visit** as the most likely home date for a special set, based on 2024, and that remains the obvious slot for the orange version. The whites need a road game, and Miami has North Carolina on October 31 and Notre Dame on November 7 left.
+The orange set goes on first. Miami confirmed on October 22 that it wears the 2001 Tribute uniform against **Pittsburgh on Saturday, October 24**, a noon Eastern kickoff on ESPN at Hard Rock Stadium: **white helmet with the orange and green center stripe, throwback orange jersey, throwback white pants**. We had pointed at Florida State's October 17 visit as the likeliest slot, but Miami announced its regular orange over white for that night and saved the throwback for a week later.
 
-We will update this post and the schedule page the moment either is confirmed.
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2113300898227142824"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The 2001 Tribute reveal for Week 8, via @CanesFootball</p>
+
+The reveal graphic is titled "2001 Tribute" and says that 25 years later, the 2001 uniform represents the Miami brand. That is the right framing. The 2001 Hurricanes went **12-0** under first-year head coach Larry Coker and beat **Nebraska 37-14 in the Rose Bowl** on January 3, 2002, the BCS national championship game and the fifth national title in program history. Ken Dorsey and Andre Johnson were the Rose Bowl's players of the game, and that roster is still talked about as one of the best college football teams ever assembled.
+
+The white road version is still waiting. Miami's remaining road trips are North Carolina on October 31 and Notre Dame on November 7, and we will update this post and the [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026) the moment the whites get a date.
 
 ## The Bottom Line
 
-Miami brought back both halves of the 2001 national championship uniform, and the road whites over green pants are the best thing the program owns right now. We grade the whites an A- and the orange a B+. One game each is the likely plan. Making them the primary sets would be the better one.
+Miami brought back both halves of the 2001 national championship uniform, and the road whites over green pants are the best thing the program owns right now. We grade the whites an A- and the orange a B+. The orange goes first, against Pittsburgh on October 24, and the whites still need a date. One game each is the likely plan. Making them the primary sets would be the better one.
 
 Every jersey Miami wears this season, and the week-by-week grid, is in the [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026).
 
@@ -107,9 +117,17 @@ Throwbacks of the set worn by Miami's 2001 national championship team, released 
 
 The pants. Miami's current road set is all white. The throwback pairs the white jersey with green pants, which puts the program's green on the field instead of leaving the road look almost entirely white.
 
+**What is Miami wearing against Pittsburgh?**
+
+The 2001 Tribute uniform: a white helmet with the orange and green center stripe, the throwback orange jersey and throwback white pants. Miami hosts Pittsburgh on Saturday, October 24, at noon Eastern on ESPN at Hard Rock Stadium.
+
 **When will Miami wear the 2001 throwbacks?**
 
-No date has been announced. Florida State's October 17 visit is the most likely home date for a special set, and the road version would need one of the remaining trips, North Carolina on October 31 or Notre Dame on November 7.
+The orange home version is worn against Pittsburgh on October 24. The white road version, with green pants, has no date yet. It would need one of the remaining road trips, North Carolina on October 31 or Notre Dame on November 7.
+
+**Why is Miami honoring the 2001 team?**
+
+The 2001 Hurricanes went 12-0 and beat Nebraska 37-14 in the Rose Bowl, the BCS national championship game, for the program's fifth national title. 2026 is the 25th anniversary of that season, and Miami's reveal graphic calls the 2001 uniform the Miami brand.
 
 **What grade do you give the Miami 2001 throwbacks?**
 
@@ -117,6 +135,6 @@ The white road set gets an A- and the orange home set a B+. The whites win on th
 
 **Did Miami release both the home and away throwbacks?**
 
-Yes. Both the orange home version and the white road version were revealed together, which is unusual — a throwback release is normally a single jersey for a single game.
+Yes. Both the orange home version and the white road version were revealed together, which is unusual, since a throwback release is normally a single jersey for a single game.
 
 *Images courtesy of the Miami Hurricanes and adidas.*

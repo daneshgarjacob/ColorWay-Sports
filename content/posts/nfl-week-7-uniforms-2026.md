@@ -3,7 +3,7 @@ title: "NFL Week 7 Uniforms 2026: What Every Team Is Wearing, Including the Falc
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-10-19"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-22"
 excerpt: "NFL Week 7 uniforms (Oct. 22-26): Falcons 1966 throwback vs the 49ers, Seahawks royal blue throwback vs the Chiefs on Sunday night, Cowboys Color Rush at the Eagles on Monday, Saints and Steelers in Paris."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #A71930 130%)"
 cardStyle: words
@@ -17,19 +17,33 @@ Week 7 of the 2026 NFL season runs from Thursday, October 22 to Monday, October 
 
 Below is every Week 7 look we know, starting with the special ones and then all 14 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Expected** is our read from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Helmets and jerseys project reliably; pants are the piece teams change the week of the game, so treat every expected pants call as the least certain part of the line.
 
+**Update, October 22:** Five more teams have shown their full Sunday looks. The **Lions** go **black jersey, black pants and the Honolulu blue helmet** against Green Bay. The **Packers** confirm **gold helmet, white jersey, gold pants**. The **Cardinals** go **red on red**: white helmet, cardinal red jersey, **cardinal red pants**. The **Browns** debut what they call a **new road combo** in Nashville: **orange helmet, white jersey, brown pants**. And the **Ravens** are **purple over purple**: black helmet, purple jersey, **purple pants**. Seattle also confirmed the royal blue throwback for Sunday night, and the Falcons wore the red helmets at practice.
+
 ## The Week 7 Throwbacks and Special Looks
 
 ### San Francisco 49ers at Atlanta Falcons: The 1966 Throwback
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/49ers-white-road.jpg" alt="San Francisco 49ers white road jersey, expected at Atlanta in Week 7 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/falcons-black-throwback.jpg" alt="Atlanta Falcons black 1966 throwback jersey, confirmed against the 49ers in Week 7 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
-**Sunday, 1:00 p.m. ET, FOX. Falcons confirmed, 49ers expected.** Atlanta published all 17 games on September 10, and Week 7 is the first of two dates for the **1966 throwback**: the **red helmet, black jersey and white pants**, with tri-color socks. The second is Week 13 against Detroit. These are the two games all season where the Falcons wear black, because red took over as the home jersey in the April redesign. San Francisco is expected in its **white** road set under the gold helmet, and our read is **gold pants**, the look it wore at Seattle in Week 5. Red shell, black shirt, against white and gold. Our matchup grade: **A-**. More in the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, FOX. Falcons confirmed, 49ers expected.** Atlanta published all 17 games on September 10, and Week 7 is the first of two dates for the **1966 throwback**: the **red helmet, black jersey and white pants**, with tri-color socks. The second is Week 13 against Detroit. These are the two games all season where the Falcons wear black, because red took over as the home jersey in the April redesign. San Francisco is expected in its **white** road set under the gold helmet, and our read is **gold pants**, the look it wore at Seattle in Week 5. Red shell, black shirt, against white and gold. The Falcons showed off the red helmets at practice on Wednesday:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AtlantaFalcons/status/2113028743690178781"></a></blockquote>
+</div>
+
+Our matchup grade: **A-**. More in the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026).
 
 ### Kansas City Chiefs at Seattle Seahawks: Royal Blue on Sunday Night
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1em 0 0.6em;"><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-white-road.jpg" alt="Kansas City Chiefs white road jersey, expected at Seattle on Sunday Night Football in Week 7 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div><div style="background:#ececf0;border-radius:10px;height:190px;display:flex;align-items:center;justify-content:center;padding:10px;box-sizing:border-box;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-royal-throwback.jpg" alt="Seattle Seahawks royal blue throwback jersey, confirmed against the Chiefs on Sunday Night Football in Week 7 of 2026" style="max-height:170px;max-width:100%;object-fit:contain;" loading="lazy" decoding="async" /></div></div>
 
 **Sunday, 8:20 p.m. ET, NBC. Seahawks confirmed, Chiefs expected.** Seattle wears the royal blue throwback three times this season, all in primetime, and this is the second. The team has the game on its schedule as a royal blue night. Last Thursday at Denver it was the **silver helmet, royal blue jersey and silver pants**, and we expect the same combination at Lumen Field. Kansas City is expected in **white** on the road, and when the Chiefs wore white at Las Vegas in Week 4 it came with the **red helmet and red pants**. Royal and silver against white and red, under the lights. Our matchup grade: **A**. The last royal blue date is Week 13 against Dallas on Monday night. See the [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) and the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026).
+
+Seattle confirmed it on Wednesday:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2112966029823586573"></a></blockquote>
+</div>
 
 ### Dallas Cowboys at Philadelphia Eagles: Arctic White on Monday Night
 
@@ -75,10 +89,11 @@ Below is every Week 7 look we know, starting with the special ones and then all 
 
 ### Also Worth Watching
 
-- **Black in Detroit, maybe.** Our Lions grid has the **black alternate** at home against Green Bay, but Detroit has not announced it, and the Lions have worn the black mostly in primetime games in recent seasons. This is a 4:25 p.m. FOX game, so treat black as our lean and **Honolulu blue** as the fallback. Green Bay is expected in **white** under the gold helmet with gold pants. [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) and [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
-- **Red at home in Glendale.** The Cardinals published **cardinal red** with the white helmet for Denver back on September 1, and the Broncos published **Summit White** for the trip. Denver has paired the white jersey with the navy helmet in its last two road games, with navy pants at San Francisco and white pants at the Chargers. [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026) and [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026).
+- **Black in Detroit, confirmed.** The Lions announced the **black alternate** for Green Bay: **Honolulu blue helmet, black jersey, black pants**. Green Bay confirmed **white** under the gold helmet with **gold pants**. [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) and [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
+- **Red at home in Glendale.** The Cardinals published **cardinal red** with the white helmet for Denver back on September 1, and the Broncos published **Summit White** for the trip. Arizona has now confirmed the full look: **red on red**, the white helmet with the cardinal red jersey and **cardinal red pants**. Denver has paired the white jersey with the navy helmet in its last two road games, with navy pants at San Francisco and white pants at the Chargers. [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026) and [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026).
 - **The Rams in white in Las Vegas.** Los Angeles published **white** for this trip on September 1, and the Raiders wear their black home set, which covers all eight games at Allegiant Stadium. [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) and [Raiders 2026 uniform schedule](/stories/raiders-uniform-schedule-2026).
-- **Bengals at Ravens.** Baltimore is expected in **purple** at home, and Cincinnati in **white** under the striped orange helmet, as at Pittsburgh in Week 3. [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026) and [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026).
+- **The Browns' new road combo.** Cleveland calls it a **new road combo**: the **orange helmet, white jersey and brown pants** at Tennessee. [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026).
+- **Bengals at Ravens.** Baltimore confirmed **purple over purple**: black helmet, purple jersey, purple pants. Cincinnati is expected in **white** under the striped orange helmet, as at Pittsburgh in Week 3. [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026) and [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026).
 
 ## Every Week 7 Game
 
@@ -90,14 +105,14 @@ Below is every Week 7 look we know, starting with the special ones and then all 
 
 - **Pittsburgh Steelers vs. New Orleans Saints** (Paris, Stade de France; Saints are the home team), 9:30 a.m. ET, NFL Network. Steelers: black helmet, white jersey, gold pants (expected). Saints: gold helmet, black jersey (confirmed), black pants (expected).
 - **San Francisco 49ers at Atlanta Falcons**, 1:00 p.m. ET, FOX. 49ers: gold helmet, white jersey, gold pants (expected). Falcons: 1966 throwback, red helmet, black jersey, white pants (confirmed).
-- **Cleveland Browns at Tennessee Titans**, 1:00 p.m. ET, CBS. Browns: orange helmet, white jersey, white pants (expected). Titans: white helmet, Titans blue jersey, white pants (expected).
+- **Cleveland Browns at Tennessee Titans**, 1:00 p.m. ET, CBS. Browns: orange helmet, white jersey, brown pants (confirmed). Titans: white helmet, Titans blue jersey, white pants (expected).
 - **Indianapolis Colts at Minnesota Vikings**, 1:00 p.m. ET, CBS. Colts: white helmet, white jersey, white pants (expected). Vikings: all purple, purple helmet, purple jersey, purple pants (confirmed).
 - **Miami Dolphins at New York Jets**, 1:00 p.m. ET, CBS. Dolphins: white helmet, aqua jersey, white pants (expected). Jets: the Classic, white helmet, white jersey (confirmed), white pants (expected).
 - **Tampa Bay Buccaneers at Carolina Panthers**, 1:00 p.m. ET, FOX. Buccaneers: pewter helmet, white jersey, pewter pants (expected). Panthers: black helmet, Panther blue jersey (confirmed), pants to be announced in game week.
-- **Cincinnati Bengals at Baltimore Ravens**, 1:00 p.m. ET, CBS. Bengals: striped orange helmet, white jersey, black pants (expected). Ravens: black helmet, purple jersey, white pants (expected).
+- **Cincinnati Bengals at Baltimore Ravens**, 1:00 p.m. ET, CBS. Bengals: striped orange helmet, white jersey, black pants (expected). Ravens: black helmet, purple jersey, purple pants (confirmed).
 - **New York Giants at Houston Texans**, 1:00 p.m. ET, FOX. Giants: blue helmet, white jersey, white pants (confirmed). Texans: Battle Red jersey (confirmed), red helmet (expected), pants a game-week call.
-- **Denver Broncos at Arizona Cardinals**, 4:05 p.m. ET, CBS. Broncos: Summit White jersey (confirmed), navy helmet and white pants (expected). Cardinals: white helmet, cardinal red jersey (confirmed), white pants (expected).
-- **Green Bay Packers at Detroit Lions**, 4:25 p.m. ET, FOX. Packers: gold helmet, white jersey, gold pants (expected). Lions: black alternate jersey (expected, with Honolulu blue the fallback), helmet and pants a game-week call.
+- **Denver Broncos at Arizona Cardinals**, 4:05 p.m. ET, CBS. Broncos: Summit White jersey (confirmed), navy helmet and white pants (expected). Cardinals: white helmet, cardinal red jersey, cardinal red pants (confirmed).
+- **Green Bay Packers at Detroit Lions**, 4:25 p.m. ET, FOX. Packers: gold helmet, white jersey, gold pants (confirmed). Lions: Honolulu blue helmet, black alternate jersey, black pants (confirmed).
 - **Los Angeles Rams at Las Vegas Raiders**, 4:25 p.m. ET, FOX. Rams: royal helmet, white jersey (confirmed), white pants (expected). Raiders: silver helmet, black jersey, silver pants (expected).
 - **Kansas City Chiefs at Seattle Seahawks**, 8:20 p.m. ET, NBC. Chiefs: red helmet, white jersey, red pants (expected). Seahawks: royal blue throwback jersey (confirmed), silver helmet and silver pants (expected).
 
@@ -169,7 +184,23 @@ We expect the Bears in navy with white pants at Soldier Field and the Patriots i
 
 **Are the Lions wearing black against the Packers?**
 
-It is our lean, not an announcement. Detroit has a black alternate and our grid has it here, but the Lions have mostly worn it in primetime, so Honolulu blue is the fallback. Green Bay is expected in white.
+Yes. Detroit confirmed the black alternate on October 21: Honolulu blue helmet, black jersey and black pants. Green Bay wears white with the gold helmet and gold pants.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2113093733868789884"></a></blockquote>
+</div>
+
+**What are the Browns wearing against the Titans?**
+
+The orange helmet, white jersey and brown pants, which Cleveland calls a new road combo. Kickoff is Sunday at 1:00 p.m. ET on CBS.
+
+**What are the Cardinals wearing against the Broncos?**
+
+Red on red: the white helmet, cardinal red jersey and cardinal red pants. Denver wears its Summit White jersey.
+
+**What are the Ravens wearing against the Bengals?**
+
+Purple over purple: the black helmet, purple jersey and purple pants at M&T Bank Stadium.
 
 **Which NFL teams are on bye in Week 7?**
 

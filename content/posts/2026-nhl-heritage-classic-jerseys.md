@@ -3,7 +3,7 @@ title: "2026 NHL Heritage Classic Jerseys: Jets and Canadiens Uniforms Revealed 
 author: "jake-daneshgar"
 category: "NHL"
 date: "2026-10-07"
-updatedDate: "2026-10-20"
+updatedDate: "2026-10-22"
 excerpt: "The Jets go white with a 1980s throwback and the Canadiens wear Les Habitants for the first time. Our grades for both Heritage Classic jerseys."
 gradient: "linear-gradient(135deg, #041E42 0%, #AF1E2D 100%)"
 coverImage: "/images/posts/2026-nhl-heritage-classic-jerseys/cover.jpg"
@@ -24,6 +24,8 @@ teams: ["winnipeg-jets", "montreal-canadiens"]
 Both were designed by Fanatics with the NHL and the two clubs. They get one game: the Tim Hortons NHL Heritage Classic, Montreal at Winnipeg, on Sunday, October 25, 2026, at 7 p.m. ET at Princess Auto Stadium. So it is white against red, outdoors, in late October in Manitoba.
 
 Here is what each team is wearing, and how we grade them.
+
+**Update, October 22:** The rink is built. The Jets posted the first photos of the finished Heritage Classic sheet at Princess Auto Stadium, and it looks like the renderings: the Heritage Classic logo at center ice, oversized Jets and Canadiens crests on the field and timber-look walls around the boards. The Jets' photos are in the rink section below.
 
 <div style="margin: 1.6em 0; padding: 1.2em 1.4em; background: #f4f6fb; border-left: 4px solid #041E42; border-radius: 10px;">
 <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 800; color: #041E42; text-transform: uppercase; letter-spacing: 2px;">Jake's Take</p>
@@ -95,6 +97,14 @@ For more on each team's season, see the [Winnipeg Jets 2026-27 uniform schedule]
 ## The Heritage Classic Rink: A Canadian Cabin at Princess Auto Stadium
 
 The NHL showed the field design on October 19, and it matches the sweaters' throwback feel. The theme is a **Canadian cabin retreat**: rustic timber-log walls around the rink, oversized team crests, pennants, framed jerseys and plaques, and crossed wooden sticks with antlers. A big **stone fireplace** with a glowing fire sits along the front of the field, next to a giant skate for each team. Four color-lit entertainment stages ring the field, and there is a Timbits U7 rink beside the main sheet. The NHL says the design took close to a year.
+
+On October 22 the Jets shared the finished build. The photos show the Heritage Classic crest at center ice, a big Canadiens CH and a Jets crest on the field at either end of the rink, an NHL shield on the timber-look wall behind the boards, and the glow of the fireplace at the front of the field.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLJets/status/2113286822474506659"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The finished Heritage Classic rink at Princess Auto Stadium, via @NHLJets</p>
 
 ## Heritage Classic Weekend: Ceremonies, Alumni Game and Fan Festival
 

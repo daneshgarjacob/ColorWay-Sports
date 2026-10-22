@@ -3,7 +3,7 @@ title: "Miami Hurricanes Uniform Schedule 2026: Every Jersey and When the Hurric
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-22"
 excerpt: "Miami Hurricanes uniform schedule 2026: orange home jerseys, the all-white road set, the Miami Nights black alternate, and every game's jersey week by week."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Miami wears orange jerseys with white pants under the white U helmet at home, and all white on the road. This page is the full Miami Hurricanes 2026 uniform schedule: the orange home set, the white road set, the green alternate, the black Miami Nights set, and a week-by-week outlook for all twelve games. We add each combination here once it is confirmed. Five games in, Miami is 5-0 and has worn the all-white road set three times, at Stanford, Wake Forest and Clemson, orange over white against Florida A&M, and the green alternate against Central Michigan.
+
+**Update, October 22:** Miami is wearing its **2001 national championship tribute uniforms** against Pittsburgh on Saturday, October 24 (noon ET, ESPN): **white helmet, throwback orange jersey, throwback white pants**, announced by the team as "A legendary look for Week 8." Our full breakdown is in [Miami's 2001 throwback uniforms, graded](/stories/miami-2001-throwback-uniforms).
 
 ## The Miami Hurricanes 2026 Uniform Sets
 
@@ -37,7 +39,7 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
   <div style="background: #f1f3f8; color: #333; border: 2px solid #005030; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #F47321; color: #ffffff; border: 2px solid #005030; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Orange / White</div></div>
-  <div style="background: #F47321; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Pittsburgh</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
+  <div style="background: #F47321; color: #ffffff; border: 2px solid #005030; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Pittsburgh</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 2001 Tribute: White / Orange / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #F47321; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
@@ -65,7 +67,13 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 
 **October 17 vs. Florida State**, 7 p.m. Eastern on ESPN. ★ Confirmed by Miami's Week 7 uniform combo graphic: **white helmet, orange jersey, white pants**. No Miami Nights black this time, even though Miami wore black for Florida State's last visit to Hard Rock Stadium in 2024. Florida State is expected in white. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 vs. Pittsburgh.** Orange expected, since it is a home game.
+**October 24 vs. Pittsburgh**, noon Eastern on ESPN at Hard Rock Stadium. ★ Confirmed by Miami: the **2001 Tribute** uniform, **white helmet with the orange and green center stripe, throwback orange jersey, throwback white pants**. It is the home half of the [2001 national championship throwbacks](/stories/miami-2001-throwback-uniforms) revealed on September 22, and the first time either version goes on the field. Miami's graphic calls it "A legendary look for Week 8." The 2001 team went 12-0 and beat Nebraska 37-14 in the Rose Bowl for the program's fifth national title, and 25 years later the orange throwback finally gets a Saturday. The white road version, with green pants, still has no date.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2113300898227142824"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Week 8 2001 Tribute reveal, via @CanesFootball</p>
 
 **October 31 at North Carolina.** White expected, since Miami is the visitor. A Halloween trip to Kenan Stadium in Chapel Hill.
 
@@ -79,13 +87,13 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 
 ## The Bottom Line
 
-Miami has worn nothing but its two base sets in the first three games: all white at Stanford, orange over white at home against Florida A&M, and all white again at Wake Forest in a 33-20 win that opened ACC play. With the same helmet and pants every week, the jersey color is the only thing that changes. That changed against Central Michigan on September 26, when Miami wore the green alternate with green pants under the white helmet in a 52-3 win. Miami wore all white again at Clemson in a 41-13 win, and we expect white at North Carolina and Notre Dame too, and orange for most of the rest of the home slate until the program decides a night deserves black. Florida State's October 17 visit looked like the leading candidate, based on 2024, but Miami confirmed orange over white for that night. There is also a second candidate to choose from: Miami revealed [2001 national championship throwbacks](/stories/miami-2001-throwback-uniforms) on September 22, in both the orange home and the white road version, with no date announced for either. We grade the road whites an A- and the orange a B+. Last season ended in the national championship game at Hard Rock Stadium, a 27-21 loss to Indiana, so any 2026 special set will get plenty of attention. The grid above has every date, and we star each game once the uniform is confirmed.
+Miami has worn nothing but its two base sets in the first three games: all white at Stanford, orange over white at home against Florida A&M, and all white again at Wake Forest in a 33-20 win that opened ACC play. With the same helmet and pants every week, the jersey color is the only thing that changes. That changed against Central Michigan on September 26, when Miami wore the green alternate with green pants under the white helmet in a 52-3 win. Miami wore all white again at Clemson in a 41-13 win, and we expect white at North Carolina and Notre Dame too, and orange for most of the rest of the home slate until the program decides a night deserves black. Florida State's October 17 visit looked like the leading candidate, based on 2024, but Miami confirmed orange over white for that night. The special set lands a week later instead: Miami wears the orange home version of its [2001 national championship throwbacks](/stories/miami-2001-throwback-uniforms) against Pittsburgh on October 24, white helmet, orange jersey and white pants. The white road version, with green pants, still has no date. We grade the road whites an A- and the orange a B+. Last season ended in the national championship game at Hard Rock Stadium, a 27-21 loss to Indiana, so any 2026 special set will get plenty of attention. The grid above has every date, and we star each game once the uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Miami wearing this week?**
 
-Miami wore all white at Clemson on Saturday, October 3: white helmet, white jersey and white pants, announced by the team and confirmed on the broadcast, in a 41-13 win that moved the Hurricanes to 5-0. The week before, they wore the green alternate in a 52-3 win over Central Michigan. Miami is off on October 10, then hosts Florida State on October 17 at 7 p.m. Eastern on ESPN, where the team has confirmed a white helmet, orange jersey and white pants, with no Miami Nights black this time. The grid above lists every game, and we update it as each combination is confirmed. Every other top game from that Saturday is in our [College Football Week 5 Uniforms 2026](/stories/college-football-week-5-uniforms-2026) guide.
+Miami wears the 2001 Tribute uniform against Pittsburgh on Saturday, October 24, at noon Eastern on ESPN: a white helmet, the throwback orange jersey and throwback white pants, confirmed by the team on October 22. The week before, against Florida State on October 17, Miami announced a white helmet, orange jersey and white pants. Earlier this season Miami wore all white at Stanford, Wake Forest and Clemson, and the green alternate against Central Michigan. The grid above lists every game, and we update it as each combination is confirmed.
 
 **What are Miami's football uniforms for 2026?**
 
@@ -93,7 +101,7 @@ Miami has an orange home jersey with white numerals trimmed in green, a white ro
 
 **Does Miami have a new alternate uniform in 2026?**
 
-No new alternate has been tied to a 2026 game yet. On September 22 Miami revealed 2001 national championship throwbacks, in an orange home and a white road version, with no date announced for either. The most recent specialty uniforms were the all-black set revealed in July 2024 and worn against Florida State, and the camo Honor and Support uniforms worn against Stanford in October 2025. If Miami unveils a 2026 set, we will add it here with the game it is tied to.
+Yes. On September 22 Miami revealed 2001 national championship throwbacks, in an orange home and a white road version. The orange home version is worn against Pittsburgh on October 24 with a white helmet and white pants. The white road version, with green pants, has no date yet. The most recent specialty uniforms were the all-black set revealed in July 2024 and worn against Florida State, and the camo Honor and Support uniforms worn against Stanford in October 2025. If Miami unveils a 2026 set, we will add it here with the game it is tied to.
 
 **What did Miami wear against Stanford?**
 
