@@ -99,3 +99,5 @@ Three: 2008 against the Phillies, 2020 against the Dodgers, and 2026 against the
 ## The Bottom Line
 
 The Rays did not become the Devil Rays again, but they are dressing like it. The rainbow is on the road, on Friday nights and on the pennant-winning night, and it will be on the field in Milwaukee on Friday for Game 1. The sunburst still lives on the home white. If they ever do go all the way back, start with the cap: TB with the ray, home and road.
+
+More: [Every Rays and Brewers logo ever, from the Devil Rays to the ball-in-glove](/stories/rays-brewers-logo-history-world-series-2026)

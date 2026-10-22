@@ -233,3 +233,5 @@ Pink is the Mother's Day look. On Sunday, May 10, 2026, the Brewers and the rest
 - [Philadelphia Phillies 2026 Uniform Schedule](/stories/phillies-uniform-schedule-2026) — the gold standard of a true scheduled rotation
 
 *Uniform details compiled from team and league sources. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Milwaukee Brewers or Major League Baseball.*
+
+More: [Every Brewers and Rays logo ever, from the Seattle Pilots to the ball-in-glove](/stories/rays-brewers-logo-history-world-series-2026)
