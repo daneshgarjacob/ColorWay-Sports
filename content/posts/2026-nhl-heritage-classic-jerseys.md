@@ -25,7 +25,7 @@ Both were designed by Fanatics with the NHL and the two clubs. They get one game
 
 Here is what each team is wearing, and how we grade them.
 
-**Update, October 22:** The rink is built. The Jets posted the first photos of the finished Heritage Classic sheet at Princess Auto Stadium, and it looks like the renderings: the Heritage Classic logo at center ice, oversized Jets and Canadiens crests on the field and timber-look walls around the boards. The Jets' photos are in the rink section below.
+**Update, October 22:** The rink is built. The Jets posted the first photos of the finished Heritage Classic sheet at Princess Auto Stadium, and it looks like the renderings: the Heritage Classic logo at center ice, oversized Jets and Canadiens crests on the field and timber-look walls around the boards. We added the NHL's official renderings and build photos, the full pregame plan from the NHL (Byfuglien, Ladd and Wheeler drop the puck, SoulBear sings the anthem, and a second-intermission tribute marks 15 years of the Jets), the alumni game details for Saturday, October 24, and a closer look at the French-language event patch on Montreal's sleeve.
 
 <div style="margin: 1.6em 0; padding: 1.2em 1.4em; background: #f4f6fb; border-left: 4px solid #041E42; border-radius: 10px;">
 <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 800; color: #041E42; text-transform: uppercase; letter-spacing: 2px;">Jake's Take</p>
@@ -59,7 +59,7 @@ Captain Adam Lowry modeled it, with the C on the chest, in the team's reveal:
 
 **The Canadiens' Heritage Classic sweater is red, with one blue band across the chest and arms trimmed in off-white pinstriping.** The trim and the laced collar are a vintage off-white instead of bright white, which gives the whole thing an older feel. The CH has been redrawn to echo past versions of the crest and is cut from felt with running-stitch detailing.
 
-Then come the firsts. **"Les Habitants" appears on a Canadiens jersey for the first time**, on the back of the collar. A fleur-de-lis loop label nods to Quebec.
+Then come the firsts. **"Les Habitants" appears on a Canadiens jersey for the first time**, on the back of the collar. A fleur-de-lis loop label nods to Quebec. The Canadiens also wear the French version of the event patch on the shoulder, reading **"Classique Héritage"** with Winnipeg, 20 26, a maple leaf, antlers and an LNH shield, and the league shield below the collar is the French **LNH** version too. The Jets' patch is in English.
 
 We are not running Montreal's product photos here, so here is the sweater straight from the Canadiens:
 
@@ -98,6 +98,18 @@ For more on each team's season, see the [Winnipeg Jets 2026-27 uniform schedule]
 
 The NHL showed the field design on October 19, and it matches the sweaters' throwback feel. The theme is a **Canadian cabin retreat**: rustic timber-log walls around the rink, oversized team crests, pennants, framed jerseys and plaques, and crossed wooden sticks with antlers. A big **stone fireplace** with a glowing fire sits along the front of the field, next to a giant skate for each team. Four color-lit entertainment stages ring the field, and there is a Timbits U7 rink beside the main sheet. The NHL says the design took close to a year.
 
+Here is the NHL's first look at the design, posted with the renderings on October 19:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHL/status/2112276360584691890"></a></blockquote>
+</div>
+
+By October 21 the ice was down. The NHL's build photo shows the sheet in place inside the stadium, with the fireplace graphic already laid out on the field in front of the rink:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHL/status/2112932657608982862"></a></blockquote>
+</div>
+
 On October 22 the Jets shared the finished build. The photos show the Heritage Classic crest at center ice, a big Canadiens CH and a Jets crest on the field at either end of the rink, an NHL shield on the timber-look wall behind the boards, and the glow of the fireplace at the front of the field.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
@@ -108,11 +120,17 @@ On October 22 the Jets shared the finished build. The photos show the Heritage C
 
 ## Heritage Classic Weekend: Ceremonies, Alumni Game and Fan Festival
 
-- **Alumni game:** Saturday, October 24, indoors at Canada Life Centre. Winnipeg's roster includes Dustin Byfuglien, Andrew Ladd and Blake Wheeler, and Montreal's includes honorary captain Mike Keane.
+**The game:** Sunday, October 25, at 7 p.m. ET (6 p.m. local time in Winnipeg) at Princess Auto Stadium. It airs on SN and TVA Sports in Canada and on TNT, truTV and HBO Max in the United States.
+
+Here is the rest of the weekend, from the NHL and the two clubs:
+
+- **Alumni game:** Saturday, October 24, indoors at Canada Life Centre, the day before the outdoor game. The first rosters, announced by the Canadiens, have Blake Wheeler as Winnipeg's captain with Dustin Byfuglien, Andrew Ladd, Bryan Little, Mathieu Perreault, Paul Stastny and Chris Thorburn. Montreal's side has Mike Keane as honorary captain with Patrice Brisebois, Paul Byron, David Desharnais, David Savard and Dale Weise. Keane and Weise are both from Winnipeg.
 - **Fan festival:** the Scotiabank NHL PreGame, Sunday from 12 to 5:30 p.m. CDT at the University of Manitoba, for ticketholders, with the Stanley Cup on site.
-- **Puck drop:** Byfuglien, Ladd and Wheeler drop the ceremonial puck.
-- **Anthem:** SoulBear sings, with Jordan Sangalang.
-- **Second intermission:** a tribute to 15 years of the Jets in Winnipeg, with Byfuglien, Ladd, Wheeler and other former Jets.
+- **Anthem:** the Opening Ceremony starts with the Canadian national anthem by bilingual singer-songwriter SoulBear. Jordan Sangalang performs it as the Canadian Anthem Deaf Performer, through the NHL's partnership with P-X-P.
+- **Flag:** members of 17 Wing, 38 Canadian Brigade Group and HMCS Chippawa unfurl the Canadian flag.
+- **Puck drop:** the ceremony ends with a ceremonial puck drop by Jets favorites Dustin Byfuglien, Andrew Ladd and Blake Wheeler.
+- **Second intermission:** Byfuglien, Ladd and Wheeler come back out with 15 more former Jets, including Bryan Little, Toby Enstrom, Paul Stastny, Mark Stuart and Mathieu Perreault, for a tribute to the last 15 years of the Winnipeg Jets.
+- **Timbits rink:** a Tim Hortons auxiliary rink beside the main sheet hosts Timbits Under-7 players during the game.
 
 It is the eighth Heritage Classic and the first since 2023. The Jets are 1-1-0 outdoors and play their third outdoor game, and the Canadiens are 2-2-0 and play their fifth, their first since 2017.
 
@@ -124,7 +142,7 @@ The Jets went white with their 1980s and 1990s crest and earn an A-. The Canadie
 
 **When is the 2026 NHL Heritage Classic?**
 
-The Tim Hortons NHL Heritage Classic is Sunday, October 25, 2026, at 7 p.m. ET. The Montreal Canadiens visit the Winnipeg Jets at Princess Auto Stadium in Winnipeg.
+The Tim Hortons NHL Heritage Classic is Sunday, October 25, 2026, at 7 p.m. ET, which is 6 p.m. local time in Winnipeg. The Montreal Canadiens visit the Winnipeg Jets at Princess Auto Stadium in Winnipeg.
 
 **What are the Jets wearing for the Heritage Classic?**
 
@@ -145,6 +163,22 @@ The 2026 Heritage Classic field at Princess Auto Stadium has a Canadian cabin th
 **Is there a Heritage Classic alumni game?**
 
 Yes. Jets and Canadiens alumni play on Saturday, October 24, 2026, the day before the main game, indoors at Canada Life Centre in Winnipeg.
+
+**Who drops the ceremonial puck at the 2026 Heritage Classic?**
+
+Former Jets Dustin Byfuglien, Andrew Ladd and Blake Wheeler drop the ceremonial puck at the end of the Opening Ceremony, per the NHL. All three return in the second intermission for a tribute to 15 years of the Winnipeg Jets.
+
+**Who sings the anthem at the Heritage Classic?**
+
+Bilingual singer-songwriter SoulBear sings the Canadian national anthem, with Jordan Sangalang as the Canadian Anthem Deaf Performer.
+
+**Who is playing in the Heritage Classic alumni game?**
+
+Blake Wheeler captains the Jets alumni, with Dustin Byfuglien, Andrew Ladd, Bryan Little, Mathieu Perreault, Paul Stastny and Chris Thorburn on the first roster. Mike Keane is the Canadiens' honorary captain, with Patrice Brisebois, Paul Byron, David Desharnais, David Savard and Dale Weise. The game is Saturday, October 24, at Canada Life Centre.
+
+**Is there French on the Canadiens Heritage Classic jersey?**
+
+Yes. The words "Les Habitants" are on the back of the collar, the shoulder patch is the French "Classique Héritage" version of the event logo, and the league shield below the collar reads LNH.
 
 **How can I watch the 2026 Heritage Classic?**
 
