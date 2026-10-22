@@ -2,7 +2,7 @@
 title: "Miami Heat Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-10-20"
+updatedDate: "2026-10-22"
 excerpt: "The full Heat uniform schedule for 2026-27: the jersey for all 80 dated games, how many times they wear each one, and every City Edition date."
 gradient: "linear-gradient(135deg, #98002E 0%, #F9A01B 100%)"
 cardStyle: words
@@ -44,7 +44,18 @@ That covers all 80 games the league has dated. The last two December dates wait 
 
 ## The Heat's One-Night Vice City Uniform: November 18 vs the Bucks
 
-On **Wednesday, November 18**, the Heat host the Milwaukee Bucks as **"A Night in Vice City,"** a one-game promotion with Rockstar Games for the release of Grand Theft Auto VI the next day. The team says it will wear a new, completely reimagined uniform and play on a custom court built for that night only. The design has only been teased so far, and we will add it here when the Heat reveal it. Tipoff is 7 p.m. ET at Kaseya Center on ESPN, and it is also Giannis Antetokounmpo's first game against his old team.
+**Update, October 22:** The Heat's own 2026-27 uniform schedule graphic lists "11/18 vs MIL" in the **Icon Black** column, and so did the first version of this page. That is not what Miami will wear. Right under the graphic, the Heat posted: "FYI, special uniform for 11/18 is still a go." So November 18 is the one-night Vice City uniform, not the black Icon, and our table below now says so.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiHEAT/status/2112224211242570222"></a></blockquote>
+</div>
+
+On **Wednesday, November 18**, the Heat host the Milwaukee Bucks as **"A Night in Vice City,"** a one-game promotion with Rockstar Games for the release of Grand Theft Auto VI the next day. The team says it will wear a new, completely reimagined uniform and play on a custom court built for that night only. The uniform itself has not been shown yet. The Heat's October 2 announcement graphic shows only the branding for the night: "A NIGHT IN Vice City" in glowing pink neon script over a dark court, "MILWAUKEE VS VICE CITY," the date, and the Grand Theft Auto VI, Miami HEAT, ESPN and Rockstar Games logos along the bottom. We will add the uniform here when the Heat reveal it.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiHEAT/status/2106007519545974792"></a></blockquote>
+</div>
+ Tipoff is 7 p.m. ET at Kaseya Center on ESPN, and it is also Giannis Antetokounmpo's first game against his old team.
 
 ## The Miami Heat Game-by-Game Uniform Schedule
 
@@ -81,6 +92,10 @@ The Heat wear a one-night "Vice City" uniform on November 18, 2026 against the M
 No. The Association white is scheduled for 10 of the Heat's 40 home games this season. The rest of the home schedule goes to the color and alternate jerseys, so check the table for the night you are going.
 <!-- nba-uniform-counts:faq:end -->
 
+**Do the Heat wear the black Icon jersey on November 18 vs the Bucks?**
+
+No. The Heat's 2026-27 uniform schedule graphic lists November 18 vs Milwaukee under Icon Black, but the team posted the same day that its "special uniform for 11/18 is still a go." Miami wears the one-night Vice City uniform for "A Night in Vice City," a Grand Theft Auto VI promotion with Rockstar Games, on a custom court at Kaseya Center.
+
 **What uniforms do the Miami Heat have for 2026-27?**
 
 Association Edition, Icon Edition, City Edition, Statement Edition and Vice City Edition. Five jerseys in all for 2026-27, and the count grid above shows how many games each one gets.
@@ -99,4 +114,4 @@ Right here. This page is the Miami Heat uniform record for 2026-27. Every other 
 
 ## The Bottom Line
 
-The Miami Heat schedule for 2026-27 is set, all 80 dated games. It is an Association Edition season first, 29 games of it, with 21 Icon Edition, 18 City Edition and 12 Statement Edition. This page logs what is actually worn every night from the opener on.
+The Miami Heat schedule for 2026-27 is set, all 80 dated games. It is an Association Edition season first, 29 games of it, with 20 Icon Edition, 18 City Edition, 12 Statement Edition and one night in the Vice City uniform on November 18. This page logs what is actually worn every night from the opener on.
