@@ -70,7 +70,7 @@ It gets a B- because the execution is a touch soft. The contrast between the san
 
 This is the one everybody thinks of, the brown-and-gold that is the entire reason the Padres look like the Padres. We love it. It is the most identifiable jersey the franchise has, no other team in baseball owns brown, and every time it is on the field it is doing something nobody else can do. On history and identity alone it is one of the most important uniforms in the sport, and it is the jersey that should define this team.
 
-So why only a B, and why behind the camo? Because the jersey itself, as drawn, does not quite live up to the color it is built on. The brown-on-brown with gold trim is a little flat, the pop we keep wanting from this whole set is missing here too, and it leans more handsome than knockout. We are grading the uniform, not the idea, and the idea is an A+ that the execution only partly cashes in. Iconic, essential, and still a notch short of its own ceiling.
+So why only a B, and why behind the camo? Because the jersey itself, as drawn, does not quite live up to the color it is built on. The gold lettering on dark brown is a little flat, the pop we keep wanting from this whole set is missing here too, and it leans more handsome than knockout. We are grading the uniform, not the idea, and the idea is an A+ that the execution only partly cashes in. Iconic, essential, and still a notch short of its own ceiling.
 
 ## 1. Camouflage Alternate
 
