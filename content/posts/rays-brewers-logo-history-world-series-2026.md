@@ -80,6 +80,16 @@ In 2026 the Brewers went one step further back and replaced their road grays wit
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2079395502869602339"></a></blockquote>
 </div>
 
+For World Series Game 1 on October 23, the cream "Cream City" home jersey got the 2026 World Series patch, and the Brewers showed it off before first pitch.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2113698090913796320"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2113760302852342256"></a></blockquote>
+</div>
+
 Every Brewers jersey and when they wear it is in our [Brewers uniform schedule](/stories/brewers-uniform-schedule-2026), and we graded all five in our [Brewers jerseys ranked](/stories/brewers-jerseys-2026-ranked).
 
 ## Our Take: The Best and Worst Brewers Logos

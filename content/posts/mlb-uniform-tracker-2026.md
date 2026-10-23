@@ -6,7 +6,7 @@ resurfaceOnUpdate: true
 newsletterTop: true
 category: MLB
 date: "2026-07-09"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-23"
 excerpt: "What every MLB team wore last night and what jersey your team is wearing tonight. Every uniform, alternate, and City Connect from the full slate, logged every morning."
 gradient: "linear-gradient(135deg, #002D72 0%, #101528 55%, #E81828 130%)"
 coverImage: "/images/posts/mlb-daily-tracker/cover-branded-v4.jpg"
@@ -24,6 +24,35 @@ archiveLabel: "Every team's full 2026 uniform calendar"
 This is the ColorWay Sports MLB daily uniform tracker: what every team actually wore, every game, every day, logged the morning after. Not just the City Connects and throwbacks, the whole wardrobe, home whites and road grays included, because you can't spot the patterns without the full record. Every matchup also gets a ColorWay grade for how the two uniforms looked sharing a field.
 
 Wondering what jersey your team is wearing tonight? Our [MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026) and the per-team schedule pages linked at the bottom of this tracker map what all 30 teams plan to wear and when, so you can call tonight's uniform before first pitch. This page is the receipts: what they actually put on.
+
+## Friday, October 23
+
+World Series Game 1 at American Family Field, first pitch 5:00 p.m. PT on FOX. The Rays are in their road gray with the Devil Rays-era "Tampa Bay" script and the ray, the same road jersey they wore in all four road playoff games, and the Brewers are in the cream home uniform with the 2026 World Series patch. Our grade: **B+**. Score to follow after the final out. Every game of the Series is in our [2026 World Series uniforms guide](/stories/world-series-uniforms-2026).
+
+### Tampa Bay Rays at Milwaukee Brewers
+
+<div style="margin: 1.4em 0 0.6em;">
+<div data-card="mlb-d5" style="background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 10px; margin: 0 0 4px;">
+    <div style="min-width: 0; flex: 0 1 auto;"><img src="/images/posts/mlb-round-logos/world-series-2026.png" alt="2026 World Series logo" title="via MLB" style="display: block; height: clamp(19px, 6vw, 30px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none;" /></div>
+    <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
+      <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
+      <span data-grade="B+" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B+</span>
+    </div>
+  </div>
+  <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
+    <div style="min-width: 0;"><div style="width: 100%; aspect-ratio: 5 / 6; max-height: 320px; background: radial-gradient(closest-side at 50% 48%, rgba(132,170,240,0.30) 0%, rgba(80,128,230,0.14) 50%, rgba(47,107,237,0) 100%); padding: 4% 6% 2%; box-sizing: border-box;"><img src="/images/posts/mlb-daily-tracker/rays-road-gray-tampa-bay-cut.webp" alt="Tampa Bay Rays Road Gray jersey worn October 23 2026 against the Brewers, from the MLB daily uniform tracker" style="display: block; width: 100%; height: 100%; object-fit: contain; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 10px 14px rgba(0,0,0,0.45)) drop-shadow(0 2px 3px rgba(0,0,0,0.30));" /></div><div data-label style="margin: 6px 0 0; color: #ffffff; font-size: clamp(12px, 2.6vw, 14px); font-weight: 900; letter-spacing: 0.6px; text-transform: uppercase; line-height: 1.15; text-align: center;">RAYS</div>
+      <div style="margin: 3px 0 0; font-size: 10px; line-height: 1.35; letter-spacing: 1.2px; text-transform: uppercase; font-weight: 600; color: rgba(255,255,255,0.78); text-align: center;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #C4CED4; border: 1px solid rgba(255,255,255,0.5); margin-right: 5px; vertical-align: middle;"></span><span data-uni style="color: rgba(255,255,255,0.78);">Road Gray</span></div></div>
+    <div style="min-width: 0;"><div style="width: 100%; aspect-ratio: 5 / 6; max-height: 320px; background: radial-gradient(closest-side at 50% 48%, rgba(132,170,240,0.30) 0%, rgba(80,128,230,0.14) 50%, rgba(47,107,237,0) 100%); padding: 4% 6% 2%; box-sizing: border-box;"><img src="/images/posts/mlb-daily-tracker/brewers-home-cream-world-series-cut.webp" alt="Milwaukee Brewers Home Cream jersey worn October 23 2026 against the Rays, from the MLB daily uniform tracker" style="display: block; width: 100%; height: 100%; object-fit: contain; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 10px 14px rgba(0,0,0,0.45)) drop-shadow(0 2px 3px rgba(0,0,0,0.30));" /></div><div data-label style="margin: 6px 0 0; color: #ffffff; font-size: clamp(12px, 2.6vw, 14px); font-weight: 900; letter-spacing: 0.6px; text-transform: uppercase; line-height: 1.15; text-align: center;">BREWERS</div>
+      <div style="margin: 3px 0 0; font-size: 10px; line-height: 1.35; letter-spacing: 1.2px; text-transform: uppercase; font-weight: 600; color: rgba(255,255,255,0.78); text-align: center;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #F6EEDD; border: 1px solid rgba(255,255,255,0.5); margin-right: 5px; vertical-align: middle;"></span><span data-uni style="color: rgba(255,255,255,0.78);">Home Cream</span></div></div>
+  </div>
+  <div style="margin: clamp(12px, 3vw, 16px) 0 0; display: grid; grid-template-columns: minmax(0,1fr) auto minmax(0,1fr); align-items: stretch; border-radius: 8px; overflow: hidden; border: 1px solid rgba(255,255,255,0.14); box-shadow: 0 4px 14px rgba(0,0,0,0.30);">
+    <div style="display: flex; align-items: center; min-height: 42px; min-width: 0; background: linear-gradient(180deg, #1f4a80 0%, #163a66 100%); border-left: 4px solid #8FBCE6;"><span style="flex: 1; min-width: 0; padding: 0 clamp(6px, 2.4vw, 12px); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(13px, 3vw, 16px); font-weight: 900; letter-spacing: 1.4px; text-align: left;">TB</span><span data-score="away" style="display: flex; align-items: center; justify-content: center; min-width: clamp(34px, 9vw, 52px); align-self: stretch; background: rgba(0,0,0,0.26); color: rgba(255,255,255,0.6); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(18px, 4.6vw, 24px); font-weight: 700; font-variant-numeric: tabular-nums; letter-spacing: -0.5px;">&ndash;</span></div>
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 clamp(6px, 2.4vw, 14px); background: #050c17;"><span data-status style="color: #ffffff; font-size: 10px; font-weight: 900; letter-spacing: 2px; text-transform: uppercase;">Final</span><span style="color: rgba(255,255,255,0.6); font-size: 8.5px; font-weight: 700; letter-spacing: 1.2px; text-transform: uppercase; margin-top: 2px; white-space: nowrap;">Game 1</span></div>
+    <div style="display: flex; align-items: center; min-height: 42px; min-width: 0; background: linear-gradient(180deg, #24467e 0%, #1a3563 100%); border-right: 4px solid #FFC52F;"><span data-score="home" style="display: flex; align-items: center; justify-content: center; min-width: clamp(34px, 9vw, 52px); align-self: stretch; background: rgba(0,0,0,0.26); color: rgba(255,255,255,0.6); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(18px, 4.6vw, 24px); font-weight: 700; font-variant-numeric: tabular-nums; letter-spacing: -0.5px;">&ndash;</span><span style="flex: 1; min-width: 0; padding: 0 clamp(6px, 2.4vw, 12px); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(13px, 3vw, 16px); font-weight: 900; letter-spacing: 1.4px; text-align: right;">MIL</span></div>
+  </div>
+</div>
+</div>
 
 ## Monday, October 19
 

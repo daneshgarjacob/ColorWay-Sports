@@ -2,7 +2,7 @@
 title: "Tampa Bay Rays Jerseys & Uniforms 2026: Full Schedule"
 category: MLB
 date: "2026-06-23"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-23"
 excerpt: "The Tampa Bay Rays run a deep, color-soaked closet in 2026 — home whites, the Columbia blue and navy alternates, the 1998 Devil Rays 'rainbow' throwback, the black 'Grit x Glow' City Connect, and the new road gray that debuts September 22. Here's every jersey, when they wear it, and how loose the rotation really is."
 gradient: "linear-gradient(135deg, #092C5C 0%, #8FBCE6 50%, #092C5C 100%)"
 coverImage: "/images/posts/rays-uniform-schedule-2026/cover.jpg"
@@ -15,7 +15,7 @@ teams:
   - tampa-bay-rays
 ---
 
-<div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Rays Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Monday, October 19, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #1a7f37; line-height: 1.1;">Devil Rays Throwback</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Confirmed</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Cleveland Guardians at Rays &middot; 8:08 PM ET</div><div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">Confirmed for tonight's game against the Guardians.</div><div data-cap="Navy 'Devil Rays' Hat (Devil Ray on hat)" style="margin-top: 10px; font-size: 0.9em; color: #1c1c1c; font-weight: 700;">Cap: Navy 'Devil Rays' Hat (Devil Ray on hat)</div><a href="/mlb-tracker/rays" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
+<div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Rays Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Friday, October 23, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #1a7f37; line-height: 1.1;">Road Gray</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Confirmed</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Rays at Milwaukee Brewers &middot; 8:00 PM ET</div><div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">Confirmed for tonight's game against the Brewers.</div><a href="/mlb-tracker/rays" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
 **Why the Rays look like the 1998 Devil Rays this October:** the rainbow TAMPA BAY road gray, the Friday throwback and what is left of the sunburst, in [Are the Rays Becoming the Devil Rays Again?](/stories/rays-devil-rays-comeback-world-series-2026)
 
@@ -31,6 +31,16 @@ Want them graded instead? Here is [every Tampa Bay Rays jersey ranked](/stories/
 </div>
 
 If you are trying to call tonight's Rays uniform before first pitch, pair this page with our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026), which logs every team's look every day, and the league-wide [2026 MLB uniform schedule guide](/stories/mlb-uniform-schedule-2026).
+
+## 2026 World Series: Rays vs. Brewers
+
+The Rays beat the Guardians 4-2 in the ALCS and face the Brewers in the World Series. Game 1 is **Friday, October 23 at 8:00 p.m. ET at American Family Field in Milwaukee on FOX**.
+
+**World Series Game 1, confirmed:** the road gray with the Devil Rays-era "TAMPA BAY" script and the ray, the same road jersey from all four road playoff games, against the Brewers in the home cream with the 2026 World Series patch. Our grade: **B+**. Score to follow.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MLB/status/2113431513396093063"></a></blockquote>
+
+Every World Series game, expected and confirmed, is on our [2026 World Series uniforms guide](/stories/world-series-uniforms-2026).
 
 ## 2026 Postseason: Rays in the ALDS
 
