@@ -278,10 +278,6 @@ That story is often told, but we couldn't find a primary source for it.
 
 No. The few Viking Age helmets that survive, like the Gjermundbu helmet from Norway, have no horns. The horned look came mostly from 1800s art and an 1876 Wagner opera production.
 
-**Who designed the Minnesota Vikings helmet?**
-
-It's disputed. Cartoonist Karl Hubenthal's notes say he designed the helmet and logo in 1961. The family of equipment supplier John Merritt Aldritt says he designed the horn. The team has said both stories could be true.
-
 **Why did the Ravens change their logo?**
 
 A jury found in 1998 that the original "Flying B" logo infringed on a drawing by Frederick Bouchat, a Baltimore security guard. The Ravens switched to the raven-head logo in 1999.
