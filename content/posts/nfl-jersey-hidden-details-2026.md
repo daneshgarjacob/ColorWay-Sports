@@ -239,5 +239,5 @@ Giants Mara motto: https://www.giants.com/news/legacy-games-are-back-history-of-
 Vikings knots, sword, runes, nose guard: https://www.vikings.com/rivalries
 Rams USC sleeves + Fearsome White shoulder stripe/TV numbers: Los Angeles Rams official design graphics; https://www.espn.com/nfl/story/_/id/49435669/los-angeles-rams-alternate-uniforms-2026 (Sol monogram neck tag, 1951 75th anniversary)
 Titans stars, 6-string stripe, WE tab, woodblock font: https://www.tennesseetitans.com/news/titans-unveil-new-uniforms-logo-to-represent-the-next-chapter-of-franchise-history
-Bears GSH: https://nbcchicago.com/news/sports/nfl/chicago-bears/heres-what-the-gsh-on-the-bears-uniforms-stands-for/3566415 ; https://news.sportslogos.net/2024/05/18/chicago-bears-add-george-s-halas-initials-to-1936-throwback-uniforms/football/ ; Rivalries replica patch: Chicago Bears graphic
+Bears GSH: https://nbcchicago.com/news/sports/nfl/chicago-bears/heres-what-the-gsh-on-the-bears-uniforms-stands-for/3566415 ; Rivalries replica patch: Chicago Bears graphic
 -->
