@@ -266,6 +266,8 @@ The best logos do two jobs. From the upper deck they read as one simple shape, a
 
 ## More Logo and Uniform Coverage
 
+- [More hidden details in sports logos, Part 2](/stories/hidden-details-sports-logos-part-2)
+- [Hidden details in sports logos, Part 3](/stories/hidden-details-sports-logos-part-3)
 - [How every NFL team got its name](/stories/how-every-nfl-team-got-its-name)
 - [How every MLB team got its name](/stories/how-every-mlb-team-got-its-name)
 - [How every NBA team got its name](/stories/how-every-nba-team-got-its-name)

@@ -334,6 +334,7 @@ Part 1 was about letters hiding in negative space. Part 2 is about where logos c
 ## More Logo and Uniform Coverage
 
 - [Hidden details in sports logos, Part 1](/stories/hidden-details-sports-logos)
+- [Hidden details in sports logos, Part 3: the Ravens' hidden B, Pistol Pete and the Jayhawk's shoes](/stories/hidden-details-sports-logos-part-3)
 - [How every NFL team got its colors](/stories/how-every-nfl-team-got-its-colors)
 - [How every NBA team got its name](/stories/how-every-nba-team-got-its-name)
 - [How every NHL team got its name](/stories/how-every-nhl-team-got-its-name)
