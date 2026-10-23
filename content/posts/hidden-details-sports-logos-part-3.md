@@ -103,9 +103,6 @@ A jayhawk isn't a real bird, so nobody knew what it should look like until 1912.
 
 ### Oklahoma State: Pistol Pete Was a Real Man
 
-<img src="/images/posts/hidden-logos-part-3/photo-frank-eaton.jpg" alt="Black and white photo of Frank Eaton, the real Pistol Pete, in a cowboy hat, vest and boots with a holstered pistol" style="width:100%;max-width:280px;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File%3AFrankEaton1.gif" rel="nofollow noopener" target="_blank">Wikimedia Commons</a>. Public domain.</p>
-
 The cowboy on Oklahoma State's logo is a portrait. Frank Eaton (1860-1958) was a real Old West cowboy and lawman who went by "Pistol Pete." In 1923, students at what was then Oklahoma A&M saw him riding in a parade in Stillwater and proposed making him the mascot in place of the tiger, Sports Illustrated reported, citing the school's athletic department. Oklahoma State marked 100 years of Pistol Pete in 2023. [Oklahoma State uniform schedule 2026](/stories/oklahoma-state-uniform-schedule-2026)
 
 <img src="/images/posts/hidden-logos-part-3/photo-pistol-pete.jpg" alt="Oklahoma State's Pistol Pete mascot, with the oversized cowboy head, in front of the marching band in 2014" style="width:100%;max-width:440px;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
