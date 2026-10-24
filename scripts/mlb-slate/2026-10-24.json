@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-24",
+  "games": [
+    {
+      "away": "Tampa Bay Rays",
+      "awaySlug": "rays",
+      "home": "Milwaukee Brewers",
+      "homeSlug": "brewers",
+      "time": "8:00 PM ET",
+      "gameNumber": 1
+    }
+  ]
+}

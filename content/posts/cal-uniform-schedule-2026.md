@@ -3,7 +3,7 @@ title: "Cal Uniform Schedule 2026: Every Jersey and When the Golden Bears Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-24"
 excerpt: "What Cal wears every game in 2026: the new Grateful Dead helmet for Wake Forest, the Joe Roth throwback, home and road sets, and the full schedule."
 gradient: "linear-gradient(135deg, #003262 0%, #0a4a86 55%, #FDB515 130%)"
 cardStyle: words
@@ -91,7 +91,7 @@ On Thursday, October 15, Cal posted the rest of the set, and its own caption sum
   <div style="background: #f1f3f8; color: #333; border: 2px solid #003262; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UNLV</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / Navy</div></div>
   <div style="background: #003262; color: #ffffff; border: 2px solid #FDB515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Blue / Gold</div></div>
   <div style="background: #003262; color: #ffffff; border: 2px solid #FDB515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Grateful Dead / Blue / Gold</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #003262; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -125,7 +125,13 @@ Cal published its home themes in July, and they double as a decent map of where 
 
 **October 17 vs. No. 21 Wake Forest**, Grateful Bears game, 7:30 p.m. Pacific on ESPN2. ★ Revealed by Cal: **the gold Grateful Dead helmet**, with the Cal script in a Steal Your Face skull, a tie-dye blue lightning bolt stripe and the dancing bears on the back bumper. On Thursday Cal posted the rest of the set: **the blue jersey with gold numbers and gold pants**, plus towels with a gold dancing bear in a Cal cap. Wake Forest has posted a gloss black helmet, white jersey and black pants. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). Full breakdown and our A+ grade in the [Grateful Dead helmet section](#the-cal-grateful-dead-helmet-for-wake-forest) above.
 
-**October 24 at SMU.** White expected. Cal visits Gerald J. Ford Stadium, where SMU has Fan Appreciation Day and is asking its own fans to wear red, so this could be the rare road game where Cal's white gets a red backdrop instead of a blue one.
+**October 24 at SMU**, noon ET on The CW at Gerald J. Ford Stadium. ★ Confirmed by Cal: **navy helmet, white jersey, navy pants**, posted Saturday morning as blue, white, blue with locker room photos of the navy helmet with the gold Cal script, white jerseys with gold numbers trimmed in navy, and navy pants. SMU wore its new Dallas set, royal blue with Dallas in script. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CalFootball/status/2114003561893773706"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The SMU uniform post, via @CalFootball</p>
 
 **October 31 at NC State.** White expected. Halloween in Raleigh.
 

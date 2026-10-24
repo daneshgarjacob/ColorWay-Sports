@@ -3,7 +3,7 @@ title: "College Football Week 8 Uniforms 2026: Miami's 2001 Tribute, ASU's Eclip
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-22"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-24"
 excerpt: "College football Week 8 uniforms: No. 1 Miami's 2001 Tribute against Pitt, Arizona State's eclipse black, UCLA's powder blue homecoming throwback, Illinois' military helmet against Oregon and every Top 25 look."
 gradient: "linear-gradient(135deg, #14284b 0%, #2f6bed 60%, #c8102e 130%)"
 cardStyle: words
@@ -23,10 +23,14 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Saturday, noon, ESPN.** **Miami: Confirmed, 2001 Tribute.** Miami posted "A legendary look for Week 8" on Thursday with a graphic titled 2001 TRIBUTE. It is a white helmet with the orange and green U and an orange center stripe trimmed in green, an orange jersey with white numbers trimmed in green and green trim on the shoulders and sleeves, and white pants with a green and orange stripe down the side. The graphic puts the new set next to photos of the 2001 team in the same look, under the line "25 years later, the 2001 uniform represents the Miami brand."
 
-**Our take:** this is the right throwback for this team. The 2001 Hurricanes are the standard every Miami roster gets measured against, and this year's team is 6-0 and No. 1. The uniform is not a costume either. It is Miami's own colors in the cleanest arrangement the program has ever worn, and the white helmet with the stripe looks better than anything on the current rotation. **Pitt:** not posted yet. Pitt wore all white at Boston College last week. More: [the full 2001 throwback story](/stories/miami-2001-throwback-uniforms), [Miami schedule](/stories/miami-hurricanes-uniform-schedule-2026) and [Pitt schedule](/stories/pitt-uniform-schedule-2026).
+**Our take:** this is the right throwback for this team. The 2001 Hurricanes are the standard every Miami roster gets measured against, and this year's team is 6-0 and No. 1. The uniform is not a costume either. It is Miami's own colors in the cleanest arrangement the program has ever worn, and the white helmet with the stripe looks better than anything on the current rotation. **Pitt: Confirmed**, gold helmet, white jersey, gold pants. Pitt posted its combination as gold, white, gold on Saturday morning with locker room photos: the gold helmet with the blue Pitt script and a blue facemask, white jerseys with blue numbers and gold pants with a blue stripe hanging in the stalls. More: [the full 2001 throwback story](/stories/miami-2001-throwback-uniforms), [Miami schedule](/stories/miami-hurricanes-uniform-schedule-2026) and [Pitt schedule](/stories/pitt-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2113300898227142824"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Pitt_FB/status/2113990192826868036"></a></blockquote>
 </div>
 
 ### Kansas State at Arizona State: Enter the Eclipse
@@ -43,10 +47,14 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Saturday, 3:30 p.m. (12:30 p.m. Pacific), CBS, at the Rose Bowl.** **UCLA: Confirmed, powder blue Homecoming set.** UCLA posted "Homecoming threads" with Jordan Brand on Wednesday. The photos show a lighter powder blue jersey with white shoulder stripes and white numbers, gold pants and the gold helmet with a gray facemask. That is the powder blue look honoring the 1954 national champions, the same idea UCLA wore for Homecoming in 2023 and 2025, with white stripes where the regular home jersey has gold.
 
-**Our take:** we have been waiting on this one since August. The regular blue and gold home set is great, but the powder blue with white stripes is the UCLA uniform people picture when they close their eyes, and the gold pants keep it from looking washed out. UCLA is 6-0. **Michigan State:** not posted yet. More: [UCLA schedule](/stories/ucla-uniform-schedule-2026) and [Michigan State schedule](/stories/michigan-state-uniform-schedule-2026).
+**Our take:** we have been waiting on this one since August. The regular blue and gold home set is great, but the powder blue with white stripes is the UCLA uniform people picture when they close their eyes, and the gold pants keep it from looking washed out. UCLA is 6-0. **Michigan State: Confirmed**, green helmet, white jersey, green pants. Michigan State posted "Gameday Threads" coded green, white, green on Thursday night: the green helmet with the Spartan stripe and STATE on the front bumper, a white jersey with MICHIGAN STATE across the chest and green numbers, and green pants. More: [UCLA schedule](/stories/ucla-uniform-schedule-2026) and [Michigan State schedule](/stories/michigan-state-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCLAFootball/status/2113017474702811376"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MSU_Football/status/2113429407817932843"></a></blockquote>
 </div>
 
 ### Oregon at Illinois: Military Helmet vs. Yellow Wings
@@ -67,10 +75,14 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Saturday, noon (11 a.m. Central), The CW.** **SMU: Confirmed, Dallas set.** SMU posted "Putting on for the Triple D" on Wednesday night with photos shot around downtown Dallas. The helmet is white with blue stripes down the middle, a blue facemask and a new side logo: the red Peruna inside a big blue D. The jersey is royal blue with Dallas in white script across the chest and white numbers, and the pants are white with a blue stripe.
 
-**Our take:** Dallas across the chest works for a school whose campus sits in University Park, surrounded on all sides by Dallas, and the royal blue is SMU's best color. The D around Peruna is the kind of helmet detail that should become permanent. **Cal:** not posted yet. Cal lost 41-7 to Wake Forest in its Grateful Dead helmet last week. More: [SMU schedule](/stories/smu-uniform-schedule-2026) and [Cal schedule](/stories/cal-uniform-schedule-2026).
+**Our take:** Dallas across the chest works for a school whose campus sits in University Park, surrounded on all sides by Dallas, and the royal blue is SMU's best color. The D around Peruna is the kind of helmet detail that should become permanent. **Cal: Confirmed**, navy helmet, white jersey, navy pants. Cal posted its combination as blue, white, blue on Saturday morning with locker room photos: the navy helmet with the gold Cal script, a white jersey with gold numbers trimmed in navy, and navy pants. Cal lost 41-7 to Wake Forest in its Grateful Dead helmet last week. More: [SMU schedule](/stories/smu-uniform-schedule-2026) and [Cal schedule](/stories/cal-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SMUFB/status/2113066051164676503"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CalFootball/status/2114003561893773706"></a></blockquote>
 </div>
 
 ### Iowa State at No. 25 Arizona: The Classic Look for Homecoming
@@ -127,6 +139,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - **Baylor, green and gold at Kansas (Confirmed).** Green helmet with the gold interlocking BU, white jersey, green pants.
 - **Tennessee, road whites (Confirmed).** White helmet, white jersey, white pants at South Carolina.
 - **Vanderbilt, gold and white (Confirmed).** Gold helmet, white jersey, gold pants at Kentucky.
+- **Texas A&M, Aggie Script helmet (Confirmed).** White helmet with Aggies in maroon script at Alabama.
 - **Homecoming watch.** UCLA, UCF, Arizona and Washington State all have Homecoming this week.
 
 **Off this week:** No. 3 Ohio State, No. 4 Notre Dame, No. 5 Georgia, No. 17 Wake Forest, No. 20 Florida and No. 22 Missouri, along with Penn State, Nebraska, Purdue, Washington, Maryland, Louisville, Florida State, Arkansas, Oregon State, Fresno State, UNLV, Coastal Carolina, South Florida, Temple and UAB.
@@ -165,11 +178,16 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 ### Saturday, October 24: Noon Window
 
 **[Pitt](/stories/pitt-uniform-schedule-2026) at No. 1 [Miami](/stories/miami-hurricanes-uniform-schedule-2026)**, noon, ESPN.
-- Pitt: not posted yet.
+- Pitt: **Confirmed**, gold helmet, white jersey, gold pants. See above.
 - Miami: **Confirmed**, the 2001 Tribute: white helmet, orange jersey, white pants. See above.
 
 **No. 6 [Indiana](/stories/indiana-uniform-schedule-2026) at [Michigan](/stories/michigan-uniform-schedule-2026)**, noon, FOX.
-- Neither team has posted yet.
+- Indiana: **Confirmed**, crimson helmet with the white center stripe, white jersey with crimson numbers, white pants, from the team's own photo from the first quarter in Ann Arbor.
+- Michigan: **Confirmed**, maize helmet with the navy wings, navy jersey with maize numbers, navy pants, from its "Saturday's Threads" graphic with Jordan Brand.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UMichFootball/status/2113708422784802884"></a></blockquote>
+</div>
 
 **No. 8 [Texas Tech](/stories/texas-tech-uniform-schedule-2026) at [Cincinnati](/stories/cincinnati-uniform-schedule-2026)**, noon, FS1.
 - Neither team has posted yet.
@@ -178,7 +196,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - Neither team has posted yet.
 
 **[Cal](/stories/cal-uniform-schedule-2026) at No. 23 [SMU](/stories/smu-uniform-schedule-2026)**, noon, The CW.
-- Cal: not posted yet.
+- Cal: **Confirmed**, navy helmet with the gold Cal script, white jersey, navy pants. See above.
 - SMU: **Confirmed**, the Dallas set: white helmet with Peruna inside a blue D, royal blue Dallas jersey, white pants. See above.
 
 **[Rutgers](/stories/rutgers-uniform-schedule-2026) at No. 24 [Northwestern](/stories/northwestern-uniform-schedule-2026)**, noon, Peacock.
@@ -212,7 +230,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - UCF: **Confirmed**, gold helmet, black jersey, black pants for Homecoming. See above.
 
 **[Michigan State](/stories/michigan-state-uniform-schedule-2026) at No. 9 [UCLA](/stories/ucla-uniform-schedule-2026)**, 3:30 p.m., CBS.
-- Michigan State: not posted yet.
+- Michigan State: **Confirmed**, green helmet, white jersey, green pants. See above.
 - UCLA: **Confirmed**, gold helmet, powder blue jersey with white stripes, gold pants for Homecoming. See above.
 
 **No. 11 [Tennessee](/stories/tennessee-uniform-schedule-2026) at [South Carolina](/stories/south-carolina-uniform-schedule-2026)**, 3:30 p.m., ESPN.
@@ -224,7 +242,16 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 </div>
 
 **[Texas A&M](/stories/texas-am-uniform-schedule-2026) at No. 13 [Alabama](/stories/alabama-uniform-schedule-2026)**, 3:30 p.m., ABC.
-- Neither team has posted yet.
+- Texas A&M: **Confirmed**, the Aggie Script helmet: white with Aggies in maroon script and a maroon facemask, posted Thursday as "The Aggie Script Lid," with a white jersey with maroon lettering in Saturday's "Today's Threads" photos. Pants not shown yet.
+- Alabama: **Confirmed**, crimson helmet, crimson jersey, white pants, from its locker room post coded crimson, crimson, white.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AggieFootball/status/2113405042967351662"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AlabamaFTBL/status/2114030502692663538"></a></blockquote>
+</div>
 
 **No. 15 [Iowa](/stories/iowa-uniform-schedule-2026) at [Minnesota](/stories/minnesota-gophers-uniform-schedule-2026)**, 3:30 p.m., FS1.
 - Neither team has posted yet. Minnesota has asked its crowd to wear maroon.
@@ -270,7 +297,12 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 - Neither team has posted yet.
 
 **No. 7 [Ole Miss](/stories/ole-miss-uniform-schedule-2026) at No. 19 [Texas](/stories/texas-uniform-schedule-2026)**, 7:30 p.m., ABC.
-- Neither team has posted a uniform yet. Texas posted a lights and fireworks video, "Flip the switch," ahead of the night game.
+- Ole Miss: **Confirmed**, powder blue helmet with the red center stripe, white jersey with powder blue numbers, white pants, from its "Texas Unis" video.
+- Texas: not posted yet. Texas posted a lights and fireworks video, "Flip the switch," ahead of the night game.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OleMissFB/status/2113420581269885298"></a></blockquote>
+</div>
 
 **[Vanderbilt](/stories/vanderbilt-uniform-schedule-2026) at No. 12 [Kentucky](/stories/kentucky-uniform-schedule-2026)**, 7:30 p.m., SEC Network.
 - Vanderbilt: **Confirmed**, gold helmet, white jersey, gold pants with a black and white side stripe, from its "Game 8 Fit" graphic.

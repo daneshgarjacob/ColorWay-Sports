@@ -3,7 +3,7 @@ title: "Pitt Uniform Schedule 2026: Every Jersey and When the Panthers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-24"
 excerpt: "What Pitt wears every game in 2026: royal blue at home, white on the road, the gold script helmet, and the full Panthers uniform schedule."
 gradient: "linear-gradient(135deg, #003594 0%, #1a4aa8 55%, #FFB81C 130%)"
 cardStyle: words
@@ -36,7 +36,7 @@ The current look goes back to 2019, when Pitt dropped navy and "Vegas" gold and 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 2 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003594; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Blue / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #003594; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #003594; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #003594; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -58,7 +58,13 @@ The current look goes back to 2019, when Pitt dropped navy and "Vegas" gold and 
 
 **October 17 at Boston College.** White expected. Kickoff time to be announced at Alumni Stadium, with BC in maroon.
 
-**October 24 at Miami.** White expected. A trip to Hard Rock Stadium, kickoff time to be announced. The [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026) has the Canes' side.
+**October 24 at Miami**, noon ET on ESPN at Hard Rock Stadium. ★ Confirmed by Pitt: **gold helmet, white jersey, gold pants**, posted Saturday morning as gold, white, gold with locker room photos of the gold helmet with the blue Pitt script and blue facemask, white jerseys with blue numbers and gold pants. Miami wore its 2001 Tribute: white helmet with an orange stripe, orange jersey and white pants. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026). The [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026) has the Canes' side.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Pitt_FB/status/2113990192826868036"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Miami uniform post, via @Pitt_FB</p>
 
 **October 31 vs. Georgia Tech.** Blue expected. Hail to Heroes, Pitt's tribute to the military, frontline workers and first responders, on Halloween. A patch or helmet decal is the most likely addition. Georgia Tech should be in white, per our [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026).
 

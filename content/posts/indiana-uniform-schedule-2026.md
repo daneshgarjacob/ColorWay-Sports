@@ -3,7 +3,7 @@ title: "Indiana Uniform Schedule 2026: Every Jersey and When the Hoosiers Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-24"
 excerpt: "What Indiana wears every game in 2026: the crimson home jersey, the white Hoosiers road set, and the full Hoosiers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #b71c1c 55%, #EDEBEB 130%)"
 cardStyle: words
@@ -53,7 +53,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / White / White</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #990000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / White / White</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson (Homecoming)</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
@@ -83,7 +83,13 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
 
 **October 17 vs. Ohio State.** Crimson expected. The biggest home game on the board and the sort of night that usually produces a special jersey somewhere else in the country. Indiana's answer so far has mostly been to wear the same thing it always wears. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) tracks the Buckeyes.
 
-**October 24 at Michigan.** White expected. A November-style trip to Michigan Stadium in late October, with the [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026) on the other side.
+**October 24 at Michigan**, noon ET on FOX at Michigan Stadium. ★ Confirmed from Indiana's own game photo: **crimson helmet, white jersey, white pants**, the standard road set, against Michigan's maize winged helmet, navy jersey and navy pants. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026), with the [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026) on the other side.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/IndianaFootball/status/2114037287772111008"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">First quarter in Ann Arbor, via @IndianaFootball</p>
 
 **October 31 vs. Minnesota.** Crimson expected. Homecoming, which is historically the date Indiana has used for something different. The candy stripe alternate came out on Homecoming in 2016. If a 2026 alternate exists at all, this is the most likely Saturday for it, and we will update the cell the moment anything is announced. The [Minnesota Gophers 2026 uniform schedule](/stories/minnesota-gophers-uniform-schedule-2026) has the visitors.
 

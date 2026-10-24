@@ -3,7 +3,7 @@ title: "Ole Miss Uniform Schedule 2026: Every Jersey and When the Rebels Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-24"
 excerpt: "The Ole Miss 2026 uniform schedule: red and navy home jerseys, powder blue alternates, the white road set, Realtree helmets, and every Rebels game week by week."
 gradient: "linear-gradient(135deg, #14213D 0%, #CE1126 60%, #6CACE4 130%)"
 cardStyle: words
@@ -37,7 +37,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #ffffff; color: #14213D; border: 2px solid #6CACE4; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Powder Blue / White / White</div></div>
   <div style="background: #CE1126; color: #ffffff; border: 2px solid #6CACE4; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Realtree / Red / Gray</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #CE1126; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Powder Blue / White / White</div></div>
   <div style="background: #CE1126; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Navy</div></div>
   <div style="background: #CE1126; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -59,7 +59,13 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 
 **October 17 vs. Missouri, Oxford**, 3:30 p.m. ET on SEC Network. ★ Confirmed by Ole Miss, posted Thursday as "Rockin' RealTree": **gray and white Realtree camo helmet with the Ole Miss script and a red and navy stripe, red jersey, gray pants**. The fan schedule labeled this one "White - Realtree," and the white part is for the crowd, which has been asked to wear white. The Rebels stay in a home color, so No. 13 Missouri is expected in white. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). Missouri's side is on our [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026).
 
-**October 24 at Texas, Austin.** White expected. Texas wears burnt orange at home, so the only open question is the helmet. The [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026) has the Longhorns' side.
+**October 24 at Texas, Austin**, 7:30 p.m. ET on ABC. ★ Confirmed by Ole Miss: **powder blue helmet with the red center stripe, white jersey with powder blue numbers, white pants**, from its "Texas Unis" video. Texas wears burnt orange at home. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026), and the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026) has the Longhorns' side.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OleMissFB/status/2113420581269885298"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Texas uniform post, via @OleMissFB</p>
 
 **October 31 vs. Auburn, Oxford.** Home color expected. Halloween in Oxford with a powder blue fan theme, which makes this a candidate date for the powder blue set.
 
