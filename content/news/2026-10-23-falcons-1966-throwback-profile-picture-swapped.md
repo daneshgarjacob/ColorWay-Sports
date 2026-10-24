@@ -12,7 +12,7 @@ link: "/stories/falcons-uniform-schedule-2026"
 linkLabel: "Falcons 2026 uniform schedule"
 ---
 
-The Atlanta Falcons changed their X and Instagram profile pictures on Wednesday, October 21, to a retro graphic that nods to the 1966 expansion team: the original black falcon over vertical red, white and black stripes, the colors of the striping on Atlanta's first red helmets and uniforms. The post was captioned "New PFP" with an eyes emoji.
+The Atlanta Falcons changed their X and Instagram profile pictures on Wednesday, October 21, to a retro graphic that nods to the 1966 expansion team: the original black falcon over vertical red, white and black stripes. The post was captioned "New PFP" with an eyes emoji.
 
 The timing lines up with the uniforms. Atlanta wears its 1966 throwback, the **red helmet, black jersey and white pants**, on Sunday, October 25, against the 49ers at Mercedes-Benz Stadium. It is the first of two throwback dates this season. The second is Week 13 against the Lions on Sunday, December 6.
 
