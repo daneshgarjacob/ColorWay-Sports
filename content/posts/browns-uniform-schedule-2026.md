@@ -16,7 +16,7 @@ teams: ["cleveland-browns"]
 
 **The Browns have confirmed Alpha Dawg for Thursday Night Football against the Steelers on October 1:** the all-brown look, with the brown helmet and its orange center stripes, the brown jersey with orange numbers, brown pants and brown socks. Pittsburgh is confirmed in white on the road, with black helmet, gold pants and black socks. **Our verdict on the matchup: C-**, and the brown-on-brown Browns side is the reason. Cleveland has published its 2026 schedule but not a full uniform schedule, so the rest of this page is the week-by-week grid with our calls, including Alpha Dawg in Weeks 10 and 14, plus the rest of the closet and where it fits.
 
-**Update, October 22: a new road combo for Week 7.** At Tennessee on Sunday, October 25 (1:00 p.m. ET, CBS), the Browns wear the **orange helmet, white jersey and brown pants**, which the team calls a new road combo. Every Week 7 look is in our [NFL Week 7 uniform guide](/stories/nfl-week-7-uniforms-2026).
+**Update, October 22: a new road combo for Week 7.** At Tennessee on Sunday, October 25 (1:00 p.m. ET, CBS), the Browns wear the **orange helmet, white jersey and brown pants**, which the team calls a new road combo. It is the first time Cleveland has worn white over brown in a regular-season game since January 7, 2024: [when the Browns last wore brown pants with white jerseys](/stories/browns-brown-pants-white-jerseys-week-7-2026). Every Week 7 look is in our [NFL Week 7 uniform guide](/stories/nfl-week-7-uniforms-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Browns/status/2113329545596359104"></a></blockquote>
