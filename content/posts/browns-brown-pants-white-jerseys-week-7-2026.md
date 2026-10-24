@@ -43,7 +43,7 @@ It is easy to assume white over brown is a classic Cleveland look, but the recor
 
 Solid brown pants did not appear until **August 18, 2008**, in a preseason game at the Meadowlands against the Giants on ESPN, per the Gridiron Uniform Database. The Browns' timeline says the brown pants then became "a fixture with the white jerseys" in 2009, when Cleveland wore them in every white-jersey game. In 2010 the team went back to white pants with the white jersey.
 
-<img src="/images/posts/browns-brown-pants-white-jerseys-week-7-2026/browns-white-brown-pants-2009-kansas-city.jpg" alt="Cleveland Browns players in white jerseys, brown pants and orange helmets at Arrowhead Stadium in Kansas City, December 20, 2009" style="width:100%;border-radius:12px;margin:1.4em 0 0.8em;" loading="lazy" decoding="async" />
+<img src="/images/posts/browns-brown-pants-white-jerseys-week-7-2026/browns-white-brown-pants-2009-kansas-city.jpg" alt="Cleveland Browns players in white jerseys, brown pants and orange helmets at Arrowhead Stadium in Kansas City, December 20, 2009" style="display:block;width:100%;border-radius:12px;margin:1.4em auto 0.8em;" loading="lazy" decoding="async" />
 <p style="text-align:center;font-size:0.78em;color:#7C8696;margin:-0.4em 0 1.6em;">Browns in white over brown at Kansas City, December 20, 2009. Photo: <a href="https://commons.wikimedia.org/wiki/File:Hadnot_Vickers_and_Cribbs.JPG">RF23</a> / <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></p>
 
 Brown pants came back in 2013, both with the white jersey on the road and for the first all-brown look in team history, a Thursday night game against Buffalo. From there the Gridiron Uniform Database shows the combination as an occasional road option rather than a default:
@@ -56,7 +56,7 @@ Brown pants came back in 2013, both with the white jersey on the road and for th
 - **2022:** preseason only
 - **2023:** at Seattle and Cincinnati
 
-<img src="/images/posts/browns-brown-pants-white-jerseys-week-7-2026/browns-white-brown-pants-2014.jpg" alt="Browns center Alex Mack and quarterback Brian Hoyer in white jerseys, brown pants and orange helmets, August 23, 2014" style="width:100%;border-radius:12px;margin:1.4em 0 0.8em;" loading="lazy" decoding="async" />
+<img src="/images/posts/browns-brown-pants-white-jerseys-week-7-2026/browns-white-brown-pants-2014.jpg" alt="Browns center Alex Mack and quarterback Brian Hoyer in white jerseys, brown pants and orange helmets, August 23, 2014" style="display:block;width:100%;border-radius:12px;margin:1.4em auto 0.8em;" loading="lazy" decoding="async" />
 <p style="text-align:center;font-size:0.78em;color:#7C8696;margin:-0.4em 0 1.6em;">Alex Mack and Brian Hoyer in white jerseys and brown pants, preseason against the Rams, August 23, 2014. Photo: <a href="https://commons.wikimedia.org/wiki/File:Alex_Mack_and_Brian_Hoyer_(14835643299).jpg">Erik Drost</a> / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></p>
 
 So the honest version of "they haven't worn it in years" is close: just under two calendar years and two full seasons.
