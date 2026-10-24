@@ -3,7 +3,7 @@ topViewsRank: 11
 title: "Pittsburgh Steelers Jerseys & Uniforms 2026: Full Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-24"
 excerpt: "The Steelers are bringing back the 1933 throwback, and we have it on Black Friday against Denver. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -34,7 +34,7 @@ Eight home games at Acrisure Stadium, nine on the road, and a Week 9 bye. One of
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Browns</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White · TNF</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colts</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Black · Gold Pants</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Black · Gold Pants</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · Paris</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Black Pants</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black · SNF</div></div>
@@ -48,7 +48,7 @@ Eight home games at Acrisure Stadium, nine on the road, and a Week 9 bye. One of
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-**Starred weeks are confirmed; the rest of the grid is not.** Week 4 at Cleveland is confirmed as black helmet, white jersey, gold pants and black socks. Pittsburgh has published its 2026 game themes, and unlike a number of clubs this year, that announcement names no jerseys at all. The grid is our call: black at Acrisure and white on the road, with black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback on Black Friday against Denver in Week 12, and the all-black Color Rush on Sunday night against Houston in Week 13.
+**Starred weeks are confirmed; the rest of the grid is not.** Week 4 at Cleveland is confirmed as black helmet, white jersey, gold pants and black socks. Week 7 in Paris is confirmed as black helmet, white jersey and **black pants**, a combination the team calls new. Pittsburgh has published its 2026 game themes, and unlike a number of clubs this year, that announcement names no jerseys at all. The grid is our call: black at Acrisure and white on the road, with black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback on Black Friday against Denver in Week 12, and the all-black Color Rush on Sunday night against Houston in Week 13.
 
 ## The 1933 Throwback Is Confirmed for the Season, Not for a Game
 
@@ -88,12 +88,18 @@ The Steelers play New Orleans at the Stade de France on **Sunday, October 25**, 
 
 That means Pittsburgh wears white and the Saints wear black. It also means the game does not count as one of Pittsburgh's eight home dates, which is why the team's own themes announcement for Acrisure Stadium skips October 25 entirely. Both clubs' schedule widgets render the game as "vs", which is the source of the confusion.
 
+**Confirmed October 24:** the Steelers announced a **new combination** for Paris, the **black helmet, white jersey and black pants**, with black socks in the team's photos. The black pants, with a gold stripe down each leg, come from Pittsburgh's all-black Color Rush uniform; on the road the white jersey normally goes with gold pants, as it did at Cleveland in Week 4. The full story is in [the Steelers' black pants in Paris](/stories/steelers-black-pants-white-jerseys-paris-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2113990882210824620"></a></blockquote>
+</div>
+
 ## How the Steelers Rotation Works in 2026
 
 1. **Black at home, white on the road**, unless the team designates otherwise.
 2. **The 1933 throwback and gold helmet are confirmed to return**, and we have them on Black Friday against Denver in Week 12.
 3. **The all-black Color Rush goes to Week 13** against Houston, the only home night game.
-4. **Paris is a road game.** White, not black.
+4. **Paris is a road game.** White, not black, and with black pants, confirmed by the team.
 5. **Pants and helmet combinations** are a week-of call, as they are for every club.
 
 ## The Bottom Line
@@ -112,7 +118,7 @@ Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with 
 
 **What jerseys are the Steelers wearing this week?**
 
-Week 6 at Tampa Bay, October 18, worn: black helmet, black jersey and gold pants, as we had projected, with the Buccaneers in white at home. Pittsburgh won 26-19 in overtime. We grade the matchup a B+. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
+Week 7 against New Orleans in Paris, October 25, confirmed by the team: black helmet, white jersey and black pants, a new combination for Pittsburgh, with the Saints as the designated home team. Week 6 at Tampa Bay, October 18, worn: black helmet, black jersey and gold pants, as we had projected, with the Buccaneers in white at home. Pittsburgh won 26-19 in overtime. We grade the matchup a B+. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
 
 **What uniform did the Steelers wear last week?**
 
@@ -136,7 +142,7 @@ Yes. We have the all-black Color Rush in Week 13 on Sunday night against Houston
 
 **Are the Steelers the home team in Paris?**
 
-No. New Orleans is the designated home team for the Week 7 game at the Stade de France on October 25, so Pittsburgh wears white. Both clubs' schedule pages show it as "vs", but NFL.com lists it as Steelers at Saints.
+No. New Orleans is the designated home team for the Week 7 game at the Stade de France on October 25, so Pittsburgh wears white, with the black helmet and black pants, as the team confirmed on October 24. Both clubs' schedule pages show it as "vs", but NFL.com lists it as Steelers at Saints.
 
 **What are the Steelers wearing on Black Friday?**
 

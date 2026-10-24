@@ -3,8 +3,8 @@ title: "NFL Week 7 Uniforms 2026: What Every Team Is Wearing, Including the Falc
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-10-19"
-updatedDate: "2026-10-22"
-excerpt: "NFL Week 7 uniforms (Oct. 22-26): Falcons 1966 throwback vs the 49ers, Seahawks royal blue throwback vs the Chiefs on Sunday night, Cowboys Color Rush at the Eagles on Monday, Saints and Steelers in Paris."
+updatedDate: "2026-10-24"
+excerpt: "NFL Week 7 uniforms (Oct. 22-26): Falcons 1966 throwback vs the 49ers, Seahawks royal blue throwback vs the Chiefs on Sunday night, Cowboys Color Rush at the Eagles on Monday, and the Steelers in white jerseys with black pants in Paris."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #A71930 130%)"
 cardStyle: words
 kicker: "This Week"
@@ -18,6 +18,8 @@ Week 7 of the 2026 NFL season runs from Thursday, October 22 to Monday, October 
 Below is every Week 7 look we know, starting with the special ones and then all 14 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Expected** is our read from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Helmets and jerseys project reliably; pants are the piece teams change the week of the game, so treat every expected pants call as the least certain part of the line.
 
 **Update, October 22:** Five more teams have shown their full Sunday looks. The **Lions** go **black jersey, black pants and the Honolulu blue helmet** against Green Bay. The **Packers** confirm **gold helmet, white jersey, gold pants**. The **Cardinals** go **red on red**: white helmet, cardinal red jersey, **cardinal red pants**. The **Browns** debut what they call a **new road combo** in Nashville: **orange helmet, white jersey, brown pants**. And the **Ravens** are **purple over purple**: black helmet, purple jersey, **purple pants**. Houston confirmed **all red** for its Battle Red game, red helmet, red jersey and red pants, and the Jets confirmed **the Classic in all white**. Seattle also confirmed the royal blue throwback for Sunday night, and the Falcons wore the red helmets at practice.
+
+**Update, October 24:** The **Steelers** announced a **new combination** for Paris: **black helmet, white jersey and black pants**, the gold-striped black pants from Pittsburgh's all-black Color Rush uniform. The team's photos show black socks. More in our story on [the Steelers' black pants in Paris](/stories/steelers-black-pants-white-jerseys-paris-2026).
 
 ## The Week 7 Throwbacks and Special Looks
 
@@ -81,9 +83,11 @@ Below is every Week 7 look we know, starting with the special ones and then all 
 
 ### Pittsburgh Steelers vs. New Orleans Saints: Paris
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/steelers-white-road.jpg" alt="Pittsburgh Steelers white road jersey, expected against the Saints in Paris in Week 7 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Steelers · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/saints-black-home.jpg" alt="New Orleans Saints black home jersey, confirmed against the Steelers in Paris in Week 7 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Saints · Confirmed</figcaption></figure></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2113990882210824620"></a></blockquote>
+</div>
 
-**Sunday, 9:30 a.m. ET, NFL Network, at the Stade de France. Saints confirmed, Steelers expected.** This is the league's first-ever game in Paris, kicking off at 2:30 p.m. local time in Saint-Denis. **New Orleans is the designated home team**, so the Saints wear **black**, as they published on September 7, under the **gold helmet**. The captains pick the pants each week, and they have gone with black pants in both of their black home games so far. That puts Pittsburgh in **white**, and our read is the black helmet with **gold pants**, the road look from Thursday night in Cleveland. It is the Saints' fourth regular-season game overseas, after three in London. More on the PSG crossover jerseys and the uniforms in our [Paris game guide](/stories/nfl-paris-game-uniforms-saints-steelers-2026). Our matchup grade: **B+**. See the [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) and the [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
+**Sunday, 9:30 a.m. ET, NFL Network, at the Stade de France. Steelers confirmed, Saints jersey confirmed.** This is the league's first-ever game in Paris, kicking off at 2:30 p.m. local time in Saint-Denis. **New Orleans is the designated home team**, so the Saints wear **black**, as they published on September 7, under the **gold helmet**. The captains pick the pants each week, and they have gone with black pants in both of their black home games so far. That puts Pittsburgh in **white**, and on October 24 the Steelers announced what the team calls a **new combination**: the **black helmet, white jersey and black pants**, the gold-striped black pants from the Color Rush set, instead of the gold pants Pittsburgh wore on the road in Cleveland. Black socks complete it in the team's photos. The full story is in [the Steelers' black pants in Paris](/stories/steelers-black-pants-white-jerseys-paris-2026). It is the Saints' fourth regular-season game overseas, after three in London. More on the PSG crossover jerseys and the uniforms in our [Paris game guide](/stories/nfl-paris-game-uniforms-saints-steelers-2026). Our matchup grade: **B+**. See the [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) and the [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
 
 ### New England Patriots at Chicago Bears: Thursday Night Football
 
@@ -113,7 +117,7 @@ Our matchup grade: **B**. See the [Bears 2026 uniform schedule](/stories/bears-u
 
 ### Sunday, October 25
 
-- **Pittsburgh Steelers vs. New Orleans Saints** (Paris, Stade de France; Saints are the home team), 9:30 a.m. ET, NFL Network. Steelers: black helmet, white jersey, gold pants (expected). Saints: gold helmet, black jersey (confirmed), black pants (expected).
+- **Pittsburgh Steelers vs. New Orleans Saints** (Paris, Stade de France; Saints are the home team), 9:30 a.m. ET, NFL Network. Steelers: black helmet, white jersey, black pants (confirmed). Saints: gold helmet, black jersey (confirmed), black pants (expected).
 - **San Francisco 49ers at Atlanta Falcons**, 1:00 p.m. ET, FOX. 49ers: gold helmet, white jersey, gold pants (expected). Falcons: 1966 throwback, red helmet, black jersey, white pants (confirmed).
 - **Cleveland Browns at Tennessee Titans**, 1:00 p.m. ET, CBS. Browns: orange helmet, white jersey, brown pants (confirmed). Titans: white helmet, Titans blue jersey, white pants (expected).
 - **Indianapolis Colts at Minnesota Vikings**, 1:00 p.m. ET, CBS. Colts: white helmet, white jersey, white pants (expected). Vikings: all purple, purple helmet, purple jersey, purple pants (confirmed).
@@ -186,7 +190,7 @@ Panther blue under the black helmet, from the schedule Carolina published on Sep
 
 **What are the Saints and Steelers wearing in Paris?**
 
-New Orleans is the designated home team at the Stade de France, so the Saints wear black under the gold helmet, as published on September 7, and the Steelers wear white. Kickoff is Sunday, October 25 at 9:30 a.m. Eastern, 2:30 p.m. in Paris, on NFL Network.
+New Orleans is the designated home team at the Stade de France, so the Saints wear black under the gold helmet, as published on September 7, and the Steelers wear white with the black helmet and, in a new combination for the team, black pants. Kickoff is Sunday, October 25 at 9:30 a.m. Eastern, 2:30 p.m. in Paris, on NFL Network.
 
 **What are the Patriots and Bears wearing on Thursday Night Football?**
 
