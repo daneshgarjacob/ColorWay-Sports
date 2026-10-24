@@ -32,7 +32,7 @@ Here is every Detroit Lions jersey and uniform for 2026, ranked worst to first a
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2093150718161023154"></a></blockquote>
 </div>
 
-The one new Lions jersey in 2026 is the most interesting thing Detroit has put on a field in years, and it still finishes last here. The jersey is what the Lions call Rivalries Silver, a pale silver rather than bright white, with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. Black comes back as a real accent, the shoulder pattern is meant to mimic a lion's gaze, and "Defend the Den" is stitched on the back neckline.
+The one new Lions jersey in 2026 is the most interesting thing Detroit has put on a field in years, and it still finishes last here. The jersey is what the Lions call Rivalries Silver, a pale silver rather than bright white, with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. Black comes back as a real accent, the shoulder pattern is meant to mimic a lion's gaze, and "Defend the Den" is sewn inside the collar.
 
 It pairs with the best part of the set: a metallic electric-blue helmet with glossy carbon-fiber racing stripes and a carbon-fiber lion logo. We ranked it third in the [2026 Rivalries helmet class](/stories/nfl-rivalries-helmets-2026-ranked), and it is the best alternate lid Detroit has ever worn. The team has not said which pants go with it.
 
@@ -108,7 +108,7 @@ In Week 2, Detroit plays at the Buffalo Bills on Thursday, September 17, on Thur
 
 **Do the Lions have a new jersey in 2026?**
 
-Yes, one. The Rivalries uniform was revealed on August 25: a silver jersey with a DETROIT wordmark, italicized carbon-fiber numbers, black and blue accents, "Defend the Den" on the back neckline, and a metallic electric-blue helmet with carbon-fiber stripes and a carbon-fiber lion logo. We grade it a C.
+Yes, one. The Rivalries uniform was revealed on August 25: a silver jersey with a DETROIT wordmark, italicized carbon-fiber numbers, black and blue accents, "Defend the Den" sewn inside the collar, and a metallic electric-blue helmet with carbon-fiber stripes and a carbon-fiber lion logo. We grade it a C.
 
 **When do the Lions wear the Rivalries uniform?**
 

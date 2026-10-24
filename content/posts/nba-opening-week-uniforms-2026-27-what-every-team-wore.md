@@ -3,7 +3,7 @@ title: "NBA Opening Week 2026-27 Uniforms: What Every Team Wore, From the Knicks
 author: "colorway-sports-staff"
 category: NBA
 date: "2026-10-22"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-23"
 excerpt: "Every NBA opening week uniform, Oct. 20-22, 2026: the Knicks' gold-trimmed ring night white, the Nets' Classic Edition debut, the Lakers in gold, and the Bulls in white at Toronto when the official schedule said black."
 gradient: "linear-gradient(135deg, #1D428A 0%, #0B1A2F 55%, #C8102E 130%)"
 cardStyle: words
@@ -81,10 +81,10 @@ The 2026-27 NBA season tipped off on Tuesday, October 20, and by the end of Wedn
 
 ### Thursday, October 22
 
-Tonight's two games had not tipped off when we published, so both are listed as scheduled per the NBA uniform schedule. We will flip them to what was worn once we see the photos.
+Both Thursday games went exactly to schedule. We confirmed all four jerseys in the teams' own game photo galleries: the Cavaliers' [gallery from Philadelphia](https://www.nba.com/cavaliers/photos/photogallery-clephi-261022) and the Thunder's [gallery from Paycom Center](https://www.nba.com/thunder/photos/okcvsden-261022).
 
-- **Cleveland Cavaliers at Philadelphia 76ers, 7:00 p.m. ET, ESPN.** Cavaliers: **Association white**, as scheduled (not yet confirmed). 76ers: **Icon Edition**, as scheduled (not yet confirmed). [Cavaliers schedule](/stories/cavaliers-uniform-schedule-2026-27) · [76ers schedule](/stories/76ers-uniform-schedule-2026-27)
-- **Denver Nuggets at Oklahoma City Thunder, 9:30 p.m. ET.** Nuggets: **Association white**, as scheduled (not yet confirmed). Thunder: **Icon Edition**, as scheduled (not yet confirmed). [Nuggets schedule](/stories/nuggets-uniform-schedule-2026-27) · [Thunder schedule](/stories/oklahoma-city-thunder-uniform-schedule-2026-27)
+- **Cleveland Cavaliers at Philadelphia 76ers. Final: 76ers 114, Cavaliers 106.** Cavaliers: scheduled **Association white**, wore the white (confirmed). 76ers: scheduled **Icon Edition**, wore the **royal blue** Icon (confirmed). [Cavaliers schedule](/stories/cavaliers-uniform-schedule-2026-27) · [76ers schedule](/stories/76ers-uniform-schedule-2026-27)
+- **Denver Nuggets at Oklahoma City Thunder. Final: Thunder 96, Nuggets 84.** Nuggets: scheduled **Association white**, wore the white (confirmed). Thunder: scheduled **Icon Edition**, wore the **blue** Icon (confirmed). [Nuggets schedule](/stories/nuggets-uniform-schedule-2026-27) · [Thunder schedule](/stories/oklahoma-city-thunder-uniform-schedule-2026-27)
 
 ## The Biggest Surprises
 
@@ -120,13 +120,13 @@ It is white with the red "Nets" script and red, white and blue piping, tied to t
 
 No. No team was scheduled for a City Edition from October 20 through October 22, and none of the 28 teams that played through October 21 wore one. The City Edition debuts start later in the season. Each team's schedule post lists its City Edition dates.
 
-**What are the 76ers wearing against the Cavaliers on October 22?**
+**What did the 76ers and Cavaliers wear on October 22?**
 
-The NBA schedule has Philadelphia in its royal blue Icon Edition and Cleveland in the Association white. We will confirm it once the game is played.
+Exactly what the NBA schedule called: Philadelphia in its royal blue Icon Edition and Cleveland in the Association white, confirmed in the Cavaliers' game photos. The 76ers won 114-106.
 
-**What are the Thunder and Nuggets wearing on October 22?**
+**What did the Thunder and Nuggets wear on October 22?**
 
-The schedule has Oklahoma City in the blue Icon Edition and Denver in the Association white. Tip-off is 9:30 p.m. Eastern.
+Oklahoma City wore its blue Icon Edition and Denver wore the Association white, both as scheduled and confirmed in the Thunder's game photos. The Thunder won 96-84.
 
 **Where can I find what every NBA team is wearing for every game?**
 
@@ -138,8 +138,8 @@ We check the official game photos the teams post, from either side of the matchu
 
 **Who won the NBA opening night games?**
 
-On October 20, the Pistons beat the Celtics 121-113, the 76ers beat the Knicks 106-100, and the Thunder beat the Spurs 116-104. On October 21, the Hawks, Wizards, Timberwolves, Hornets, Raptors, Grizzlies, Pacers, Rockets, Lakers, Trail Blazers and Clippers all won.
+On October 20, the Pistons beat the Celtics 121-113, the 76ers beat the Knicks 106-100, and the Thunder beat the Spurs 116-104. On October 21, the Hawks, Wizards, Timberwolves, Hornets, Raptors, Grizzlies, Pacers, Rockets, Lakers, Trail Blazers and Clippers all won. On October 22, the 76ers beat the Cavaliers 114-106 and the Thunder beat the Nuggets 96-84.
 
 ## The Bottom Line
 
-Opening week was almost perfectly on schedule. Twenty-seven of the 28 teams that played through Wednesday wore exactly what the NBA said they would, and the one that did not, Chicago, swapped black for white at Toronto. The look of the week belonged to the Knicks, whose gold ring night white was the best uniform on any floor, even in a loss. The Nets brought out their Classic Edition early, and the Lakers opened in gold with Dieter on the organ. Check back after tonight's games, and follow each team's schedule post for every call the rest of the way.
+Opening week was almost perfectly on schedule. Twenty-seven of the 28 teams that played through Wednesday wore exactly what the NBA said they would, and the one that did not, Chicago, swapped black for white at Toronto. The look of the week belonged to the Knicks, whose gold ring night white was the best uniform on any floor, even in a loss. The Nets brought out their Classic Edition early, and the Lakers opened in gold with Dieter on the organ. Thursday's two games went to script as well, so 29 of the 30 teams wore exactly what the NBA called in opening week. Follow each team's schedule post for every call the rest of the way.
