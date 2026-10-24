@@ -77,6 +77,8 @@ Atlanta kept the 1966-inspired throwback: a **red helmet, black jersey, white pa
 
 **The two 2026 dates are set.** The throwback comes out for the **Week 7 home game against San Francisco on Sunday, October 25**, and again for the **Week 13 home game against Detroit on Sunday, December 6**. Both are 1 p.m. kickoffs at Mercedes-Benz Stadium, and both opponents will be in white, which is the best possible backdrop for a red shell over a black jersey. Two games leaves one throwback date unused under the three-game cap, so a third is possible but nothing has been announced. Our earlier read that the Sunday night game against Baltimore in Week 5 was the natural slot turned out to be wrong; that game stays in the red home set.
 
+Ahead of the Week 7 game, the team briefly used a 1966-style retro graphic as its social media profile picture before replacing it; [here is what happened](/news/2026-10-23-falcons-1966-throwback-profile-picture-swapped).
+
 ## Atlanta Hosts the Madrid Game (Week 9)
 
 The Falcons play Cincinnati at the Santiago Bernabéu on **Sunday, November 8**, and **Atlanta is the designated home team**. That means the Falcons wear red and the Bengals wear white, and the game counts as one of Atlanta's nine home dates.
