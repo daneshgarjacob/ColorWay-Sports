@@ -102,7 +102,7 @@ Our matchup grade: **B**. See the [Bears 2026 uniform schedule](/stories/bears-u
 - **Black in Detroit, confirmed.** The Lions announced the **black alternate** for Green Bay: **Honolulu blue helmet, black jersey, black pants**. Green Bay confirmed **white** under the gold helmet with **gold pants**. [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) and [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
 - **Red at home in Glendale.** The Cardinals published **cardinal red** with the white helmet for Denver back on September 1, and the Broncos published **Summit White** for the trip. Arizona has now confirmed the full look: **red on red**, the white helmet with the cardinal red jersey and **cardinal red pants**. Denver has paired the white jersey with the navy helmet in its last two road games, with navy pants at San Francisco and white pants at the Chargers. [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026) and [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026).
 - **The Rams in white in Las Vegas.** Los Angeles published **white** for this trip on September 1, and the Raiders wear their black home set, which covers all eight games at Allegiant Stadium. [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) and [Raiders 2026 uniform schedule](/stories/raiders-uniform-schedule-2026).
-- **The Browns' new road combo.** Cleveland calls it a **new road combo**: the **orange helmet, white jersey and brown pants** at Tennessee. [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026).
+- **The Browns' new road combo.** Cleveland calls it a **new road combo**: the **orange helmet, white jersey and brown pants** at Tennessee, the first time Cleveland has paired white jerseys with brown pants in a regular-season game since January 7, 2024. [The full history](/stories/browns-brown-pants-white-jerseys-week-7-2026) and the [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026).
 - **Bengals at Ravens.** Baltimore confirmed **purple over purple**: black helmet, purple jersey, purple pants. Cincinnati is expected in **white** under the striped orange helmet, as at Pittsburgh in Week 3. [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026) and [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026).
 
 ## Every Week 7 Game
@@ -202,7 +202,7 @@ Yes. Detroit confirmed the black alternate on October 21: Honolulu blue helmet, 
 
 **What are the Browns wearing against the Titans?**
 
-The orange helmet, white jersey and brown pants, which Cleveland calls a new road combo. Kickoff is Sunday at 1:00 p.m. ET on CBS.
+The orange helmet, white jersey and brown pants, which Cleveland calls a new road combo. It is their first white-over-brown game since January 7, 2024 ([here is the history](/stories/browns-brown-pants-white-jerseys-week-7-2026)). Kickoff is Sunday at 1:00 p.m. ET on CBS.
 
 **What are the Cardinals wearing against the Broncos?**
 
