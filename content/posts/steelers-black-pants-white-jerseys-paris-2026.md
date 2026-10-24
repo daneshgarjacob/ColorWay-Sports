@@ -24,7 +24,11 @@ The Steelers are changing their pants for Paris. Against the New Orleans Saints 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2113990882210824620"></a></blockquote>
 </div>
 
-Steelers.com calls it ["a new combination"](https://www.steelers.com/news/steelers-to-sport-a-new-uniform-combination-in-paris), and tight end Darnell Washington told the team site, "it's unique for us to wear." Pittsburgh almost never mixes and matches, so a pants swap is real news.
+Steelers.com calls it ["a new combination"](https://www.steelers.com/news/steelers-to-sport-a-new-uniform-combination-in-paris), and tight end Darnell Washington told the team site, "it's unique for us to wear." The team's own countdown post put it plainly: "aaand with a new uni combo." Pittsburgh almost never mixes and matches, so a pants swap is real news.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2113986368154005513"></a></blockquote>
+</div>
 
 ## The Paris Look, Piece by Piece
 
@@ -63,7 +67,7 @@ So the black pants are not new. Wearing them under the white jersey is.
 
 ## Is It the First Time in Team History?
 
-The team's word is "new," and the published history of the team's pants above shows no earlier white-over-black set. A SteelersNOW report carried by Pittsburgh's WPXI calls it "never-before-worn." But neither the team nor the NFL has said "first time in franchise history" in so many words, so we describe it as what the sources support: a combination the Steelers have rarely, if ever, worn. If the team confirms it, we will update this story.
+The team's word is "new," in both its X post and on Steelers.com, and the published history of the team's pants above shows no earlier white-over-black set. A SteelersNOW report carried by Pittsburgh's WPXI calls it "never-before-worn." But neither the team nor the NFL has said "first time in franchise history" in so many words, so we describe it as what the sources support: a combination the Steelers have rarely, if ever, worn. If the team confirms it, we will update this story.
 
 ## Our Take
 
