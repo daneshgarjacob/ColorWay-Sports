@@ -11,6 +11,7 @@ coverImageFit: "cover"
 coverCredit:
   author: "Pittsburgh Steelers"
   url: "https://x.com/steelers/status/2113990882210824620"
+  license: "Official team photo"
 kicker: "Uniform News"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-pittsburgh-steelers.png"
