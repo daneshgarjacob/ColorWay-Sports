@@ -61,7 +61,7 @@ Only Week 8 is confirmed by the team. Everything else is our call: Honolulu blue
 <img src="/images/posts/lions-uniform-schedule-2026/rivalries-hero.jpg" alt="Detroit Lions Rivalries uniform reveal, player in the white jersey with DETROIT wordmark, carbon fiber numbers, and electric blue helmet" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Detroit Lions</p>
 
-The design landed with the rest of the 2026 class on August 25, and Detroit went somewhere it has never gone before. The jersey is what the Lions call Rivalries Silver, a pale silver rather than bright white, with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. Black returns as a real accent alongside the blue, a shoulder pattern mimics a lion's gaze, and "Defend the Den" is stitched on the back neckline. The headliner is the helmet: a metallic electric-blue shell with glossy carbon-fiber racing stripes and a carbon-fiber lion logo, the loudest lid Detroit has ever put on the field.
+The design landed with the rest of the 2026 class on August 25, and Detroit went somewhere it has never gone before. The jersey is what the Lions call Rivalries Silver, a pale silver rather than bright white, with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. Black returns as a real accent alongside the blue, a shoulder pattern mimics a lion's gaze, and "Defend the Den" is sewn inside the collar. The headliner is the helmet: a metallic electric-blue shell with glossy carbon-fiber racing stripes and a carbon-fiber lion logo, the loudest lid Detroit has ever put on the field.
 
 <img src="/images/posts/lions-uniform-schedule-2026/rivalries-helmet.jpg" alt="Detroit Lions Rivalries electric blue helmet with carbon fiber stripes and carbon fiber lion logo" style="width: 100%; border-radius: 10px; margin-bottom: 0.5em;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">via the Detroit Lions</p>
@@ -177,7 +177,7 @@ Once, in Week 8 on Sunday, November 1 at 1:00 p.m. Eastern, at home against the 
 
 **Have the Lions revealed their Rivalries uniform?**
 
-Yes, on August 25. It is a silver jersey with a DETROIT wordmark, italicized carbon-fiber numbers inspired by the city's car and racing culture, black and blue accents, "Defend the Den" on the back neckline, and a metallic electric-blue helmet with carbon-fiber stripes and a carbon-fiber lion logo. It stays in the rotation for three seasons.
+Yes, on August 25. It is a silver jersey with a DETROIT wordmark, italicized carbon-fiber numbers inspired by the city's car and racing culture, black and blue accents, "Defend the Den" sewn inside the collar, and a metallic electric-blue helmet with carbon-fiber stripes and a carbon-fiber lion logo. It stays in the rotation for three seasons.
 
 **What are the Lions wearing in Munich?**
 
