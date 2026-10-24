@@ -63,7 +63,9 @@ So the honest version of "they haven't worn it in years" is close: just under tw
 
 ## Our Take
 
-We really like this look. The brown pants make the orange helmet pop more than any other road combination Cleveland owns. With white pants, the helmet carries almost all of the color; with brown underneath, the orange has something to play off, and the whole uniform finally looks like the Browns from head to toe. Honestly, we wish Cleveland would go back to it full time on the road. Sunday at Tennessee is a good start.
+We really like this look, and we give it an **A-**. The brown pants make the orange helmet pop more than any other road combination Cleveland owns. With white pants, the helmet carries almost all of the color; with brown underneath, the orange has something to play off, and the whole uniform finally looks like the Browns from head to toe. Honestly, we wish Cleveland would go back to it full time on the road. Sunday at Tennessee is a good start.
+
+Also this week: the Steelers wear [black pants with white jerseys in Paris](/stories/steelers-black-pants-white-jerseys-paris-2026), and we like that one a lot less.
 
 ## The Bottom Line
 

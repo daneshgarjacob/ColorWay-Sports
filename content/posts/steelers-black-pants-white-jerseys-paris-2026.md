@@ -1,6 +1,6 @@
 ---
 title: "Steelers Wear Black Pants With White Jerseys in Paris, a New Uniform Combination for Pittsburgh"
-author: "colorway-sports-staff"
+author: "jake-daneshgar"
 category: NFL
 date: "2026-10-24"
 excerpt: "For the first NFL game in France, the Steelers swap their usual gold pants for black: black helmet, white jersey, black pants and black socks against the Saints at the Stade de France. Here is the look, where the pants come from, and how rare it is."
@@ -72,11 +72,9 @@ The team's word is "new," in both its X post and on Steelers.com, and the publis
 
 ## Our Take
 
-We like it, and we give it a **B+**. Black pants pull the white jersey together with the black helmet into a sharper, heavier road look than white over gold, and the gold stripe keeps the team's colors in the picture. As a one-time look for a historic game, it works.
+We give it a **B-**. It's a new look for a big game, and the gold stripe down the black pants keeps the team's colors in it. But we prefer the Steelers in gold pants. White over gold is one of the cleanest road looks in the league, and the black pants make this one heavier and darker without making it better. Fun for one game in Paris; we'd keep the gold pants the rest of the way.
 
-<!-- TODO: fill in the Browns story slug, then uncomment this exact line:
-Also this week: [the Browns' brown-pants look](/stories/TODO-BROWNS-SLUG).
--->
+Also this week: [the Browns' brown-pants look](/stories/browns-brown-pants-white-jerseys-week-7-2026), which we like a lot more.
 
 ## Frequently Asked Questions
 

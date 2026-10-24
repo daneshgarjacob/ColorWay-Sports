@@ -55,7 +55,7 @@ With the Saints in black, Pittsburgh wears **white**, and on October 24 the team
 
 The full Pittsburgh closet, including the 1933 throwback and the all-black Color Rush, is in our [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
 
-That makes it black and gold vs. white and black, two franchises built on the same two colors. We grade the matchup a **B+**: clean contrast, and the Saints' gold helmet against the Steelers' black helmet keeps the two sides easy to tell apart, even with both teams likely in black pants.
+That makes it black and gold vs. white and black, two franchises built on the same two colors. The matchup reads clean, and the Saints' gold helmet against the Steelers' black helmet keeps the two sides easy to tell apart, even with both teams likely in black pants. Our grade on the Steelers' look itself is a **B-**: we prefer them in gold pants ([our full take](/stories/steelers-black-pants-white-jerseys-paris-2026)).
 
 ## PSG's NFL Jerseys for the Paris Game
 
