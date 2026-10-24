@@ -22,6 +22,6 @@ A team representative told NBC News the Falcons do not have a "new logo" and dec
 
 None of this changes Sunday. The throwback itself is not new. Atlanta brought back the red helmet with the black jersey in 2022, and kept it as the alternate when it [released updated uniforms in April 2026](/stories/falcons-new-uniforms-2026), the set where red became the home jersey again. Because of that switch, the two throwback games are the only times all season the Falcons wear black.
 
-San Francisco is expected in its white road set. Every Week 7 look is in our [NFL Week 7 uniforms guide](/stories/nfl-week-7-uniforms-2026), and every Falcons game is in the [2026 Falcons uniform schedule](/stories/falcons-uniform-schedule-2026).
+On Saturday, October 24, the team confirmed the full look in a ["Sunday attire" post](https://x.com/AtlantaFalcons/status/2114069790536917315): the throwback red helmet, throwback black jersey and throwback white pants. San Francisco is expected in its white road set. Every Week 7 look is in our [NFL Week 7 uniforms guide](/stories/nfl-week-7-uniforms-2026), and every Falcons game is in the [2026 Falcons uniform schedule](/stories/falcons-uniform-schedule-2026).
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image: Atlanta Falcons</p>

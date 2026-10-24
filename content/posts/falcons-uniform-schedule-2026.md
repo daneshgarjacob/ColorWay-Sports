@@ -2,7 +2,7 @@
 title: "Atlanta Falcons Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-24"
 excerpt: "The Falcons wear the 1966 throwback, red helmet and black jersey, in Week 7 vs the 49ers and Week 13 vs the Lions. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #A71930 0%, #6b0f1e 55%, #000000 130%)"
 coverImage: "/images/posts/falcons-uniform-schedule-2026/cover.jpg"
@@ -53,6 +53,12 @@ Nine home games including Madrid, eight on the road, and a Week 11 bye.
 
 **Every game on that grid except Week 8 is a confirmed uniform assignment.** Atlanta released the full jersey schedule on September 10, split into three graphics for red, white and throwback. The rotation is red at home, white on the road, the 1966 throwback in Weeks 7 and 13, and two road games in red: Week 4 in New Orleans and Week 8 in Tampa Bay, where the home team wears white.
 
+**Week 7 combination, confirmed:** against San Francisco, Sunday, October 25: the 1966 throwback, with the **throwback red helmet, throwback black jersey and throwback white pants**, as the team showed in its "Sunday attire" post on October 24. Our grade on the look: **A-**. We love it.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AtlantaFalcons/status/2114069790536917315"></a></blockquote>
+</div>
+
 **Week 6 combination, worn:** against Chicago, October 18: black helmet, red jersey and white pants, not the black pants we had projected. The Bears wore white over navy pants, and Chicago won 31-23. We grade the matchup a B.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
@@ -76,6 +82,8 @@ Red is the right call. Atlanta is one of only a handful of clubs whose red is ge
 Atlanta kept the 1966-inspired throwback: a **red helmet, black jersey, white pants** and tri-color red, black and white socks. It is the only time the Falcons wear a red shell, and under the league's alternate-helmet rule it can appear in up to three games.
 
 **The two 2026 dates are set.** The throwback comes out for the **Week 7 home game against San Francisco on Sunday, October 25**, and again for the **Week 13 home game against Detroit on Sunday, December 6**. Both are 1 p.m. kickoffs at Mercedes-Benz Stadium, and both opponents will be in white, which is the best possible backdrop for a red shell over a black jersey. Two games leaves one throwback date unused under the three-game cap, so a third is possible but nothing has been announced. Our earlier read that the Sunday night game against Baltimore in Week 5 was the natural slot turned out to be wrong; that game stays in the red home set.
+
+**Week 7 is confirmed.** On Saturday, October 24, the Falcons posted their "Sunday attire" for the 49ers game: the throwback red helmet, throwback black jersey and throwback white pants. Our grade: **A-**. We love it.
 
 Ahead of the Week 7 game, the team briefly used a 1966-style retro graphic as its social media profile picture before replacing it. [Here is what happened](/news/2026-10-23-falcons-1966-throwback-profile-picture-swapped).
 

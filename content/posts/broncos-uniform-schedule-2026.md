@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-24"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -27,6 +27,12 @@ Want them graded instead? Here is [every Denver Broncos jersey ranked](/stories/
 **Their Week 1 opponent:** the [Kansas City Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
 Nine games in Summit White, four in Sunset Orange, two in Midnight Navy, two in the Orange Crush throwback, and a Week 10 bye.
+
+**Week 7 combination, as announced for game week:** navy helmet, Summit White jersey, navy pants at the Cardinals on Sunday, October 25, from the team's "Arizona Attire" post on October 24. It is the same navy-over-white-over-navy road look Denver wore at San Francisco in Week 4. Arizona has confirmed red on red: white helmet, cardinal red jersey, cardinal red pants.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2114025398086316034"></a></blockquote>
+</div>
 
 **Week 4 combination, as announced for game week:** navy helmet, Summit White jersey, Midnight Navy pants at the 49ers on Sunday, October 4. That is the first navy-over-white road look of the season; the opener at Kansas City was all white under the white helmet.
 

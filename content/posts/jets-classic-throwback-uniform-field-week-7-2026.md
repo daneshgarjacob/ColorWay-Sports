@@ -8,6 +8,7 @@ gradient: "linear-gradient(135deg, #0f3d2e 0%, #125740 55%, #ffffff 130%)"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-new-york-jets.png"
 cardStyle: words
+author: "jake-daneshgar"
 kicker: News
 league: nfl
 teams: ["new-york-jets", "miami-dolphins", "atlanta-falcons", "seattle-seahawks"]
@@ -75,7 +76,9 @@ The uniform debuted on October 14, 2024, against the Bills at MetLife Stadium. I
 
 The field is what makes this one different. Most NFL throwback games stop at the uniform. Here the Jets carry the same oval logo from the helmet to midfield and into the end zone corners, so the whole broadcast picture matches the uniform. The end zones bring back the italic JETS wordmark, and the green oval at midfield is the same logo the players wear on their helmets.
 
-<!-- JAKE TAKE: owner loves the uniform and the field; add his grade -->
+## Our Take
+
+We love these throwbacks: the white helmet with the green stripes and the gray facemask, the clean white jersey and the striped socks. And the throwback field ties it together. The same oval logo runs from the helmet to midfield, so the field and the uniform look like one set.
 
 ## Also Throwing Back This Week
 

@@ -3,7 +3,7 @@ topViewsRank: 10
 title: "New York Jets Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-24"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -78,7 +78,7 @@ The Jets are also asking the crowd to wear white, with white towels handed out a
 
 The Jets have confirmed the Classic uniform for their First Responders Appreciation game against Miami on Sunday, October 25. This is the throwback side of the closet, the look that reaches back to the era fans still ask for, and it comes with the white helmet that carries green striping and a gray facemask rather than the new White Out shell.
 
-The team has not detailed the full combination for that afternoon, so treat the jersey as confirmed and the pants as a game-week decision. Pinning a throwback to the Dolphins game is a good instinct: an old-school divisional matchup is exactly where a heritage uniform earns its afternoon.
+The team laid out the full combination on October 22: the white helmet with green striping and a gray facemask, the white Classic jersey, white pants with a green side stripe, and white socks with green stripes. The team also posted a rendering of a matching throwback field, with the green oval logo at midfield and the italic JETS wordmark in both end zones ([our story on the uniform and the field](/stories/jets-classic-throwback-uniform-field-week-7-2026)). Pinning a throwback to the Dolphins game is a good instinct: an old-school divisional matchup is exactly where a heritage uniform earns its afternoon.
 
 
 ## Gotham City Rivalries (Week 16 vs. Patriots, Confirmed)
