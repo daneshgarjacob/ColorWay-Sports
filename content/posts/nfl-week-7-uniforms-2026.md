@@ -61,7 +61,7 @@ Below is every Week 7 look we know, starting with the special ones and then all 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2113254505445761199"></a></blockquote>
 </div>
 
-**Sunday, 1:00 p.m. ET, CBS. Jets confirmed, Dolphins expected.** The Jets named the Classic for this game when they announced their 2026 home themes on July 22. It is their First Responders Appreciation day at MetLife Stadium. The Classic is a **white** uniform, a nod to the 1968 Super Bowl III team, with a **white helmet and a gray facemask**. The team has now confirmed the full look: **white helmet, white jersey, white pants**.
+**Sunday, 1:00 p.m. ET, CBS. Jets confirmed, Dolphins expected.** The Jets named the Classic for this game when they announced their 2026 home themes on July 22. It is their First Responders Appreciation day at MetLife Stadium. The Classic is a **white** uniform, a nod to the 1968 Super Bowl III team, with a **white helmet and a gray facemask**. The team has now confirmed the full look: **white helmet, white jersey, white pants**. The field is getting a throwback too: the Jets' rendering puts the green oval logo at midfield and the italic JETS in both end zones. [Here is the full Jets Classic and throwback field breakdown](/stories/jets-classic-throwback-uniform-field-week-7-2026).
 
  With New York in white at home, Miami gets to wear color on the road, and we expect **aqua** under the white helmet with white pants. Aqua against the old-school white. Our matchup grade: **A-**. See the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026) and the [Dolphins 2026 uniform schedule](/stories/dolphins-uniform-schedule-2026).
 
