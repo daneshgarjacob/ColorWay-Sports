@@ -11,6 +11,8 @@
     "Daily pass: node scripts/nhl-game-photos.mjs <YYYYMMDD> (view the frames), add/adjust entries here, then npm run nhl:daily (schedule tables + daily tracker post; /nhl-tracker team pages read this file at build)"
   ],
   "matchupGrades": {
+    "MTL Road White @ CHI Black Alternate": "B+",
+    "TBL Road White @ COL Home Burgundy": "B",
     "PHI Road White @ BUF Home Royal Blue": "B+",
     "FLA Road White @ OTT Home Black": "B",
     "TBL Road White @ VGK Home Gold": "B+",
@@ -316,6 +318,8 @@
     "2026-10-20 TBL@VGK": { "confirmed": true, "source": "ESPN game photos (Golden Knights home gold, Lightning road white)" },
     "2026-10-21 PHI@BUF": { "confirmed": true, "source": "ESPN game photos (Sabres home royal blue, Flyers road white)" },
     "2026-10-21 FLA@OTT": { "confirmed": true, "source": "ESPN game photos (Senators home black, Panthers road white)" },
+    "2026-10-23 MTL@CHI": { "confirmed": true, "source": "ESPN game photos (Blackhawks black alternate: black body, red-and-white waist and arm stripes, Indianhead crest; Canadiens road white)", "home": { "call": "Black Alternate", "color": "#000000", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/blackhawks-black.jpg", "note": "No product tile yet -> placeholder sweater until a front shot is added" } },
+    "2026-10-23 TBL@COL": { "confirmed": true, "source": "ESPN game photos (Avalanche home burgundy, Lightning road white)" },
     "2026-10-25 MTL@WPG": { "note": "Heritage Classic, sweaters revealed by both teams 10/7", "home": { "call": "Heritage Classic", "color": "#041E42" }, "away": { "call": "Heritage Classic", "color": "#AF1E2D" } },
     "2026-11-01 MIN@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } },
     "2026-11-14 NJD@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } },

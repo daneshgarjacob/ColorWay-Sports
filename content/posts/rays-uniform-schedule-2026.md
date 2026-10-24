@@ -34,9 +34,9 @@ If you are trying to call tonight's Rays uniform before first pitch, pair this p
 
 ## 2026 World Series: Rays vs. Brewers
 
-The Rays beat the Guardians 4-2 in the ALCS and face the Brewers in the World Series. Game 1 is **Friday, October 23 at 8:00 p.m. ET at American Family Field in Milwaukee on FOX**.
+The Rays beat the Guardians 4-2 in the ALCS and face the Brewers in the World Series. Game 1 was **Friday, October 23 at 8:00 p.m. ET at American Family Field in Milwaukee on FOX**.
 
-**World Series Game 1, confirmed:** the road gray with the Devil Rays-era "TAMPA BAY" script and the ray, the same road jersey from all four road playoff games, against the Brewers in the home cream with the 2026 World Series patch. Our grade: **B+**. Score to follow.
+**World Series Game 1, confirmed:** the road gray with the Devil Rays-era "TAMPA BAY" script and the ray, the same road jersey from all four road playoff games, against the Brewers in the home cream with the 2026 World Series patch. Our grade: **B+**. Final: Brewers 3, Rays 2.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MLB/status/2113431513396093063"></a></blockquote>
 

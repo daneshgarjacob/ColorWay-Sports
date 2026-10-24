@@ -30,12 +30,12 @@ What will the teams wear in the 2026 World Series? It is set: the **Tampa Bay Ra
 
 ## Game 1 Uniforms: Rays Gray vs. Brewers Cream (Confirmed)
 
-Game 1 is tonight, Friday, October 23, at American Family Field, first pitch 8:00 p.m. ET (5:00 p.m. PT) on FOX. Both jerseys are confirmed, and both match what we expected.
+Game 1 was Friday, October 23, at American Family Field on FOX, and the Brewers won it 3-2. Both jerseys are confirmed, and both match what we expected.
 
 - **Rays:** the **road gray** with the Devil Rays-era "TAMPA BAY" script and the ray under it, the same road jersey they wore in all four road playoff games this October. Game 1 starter Nick Martinez is pictured in it below.
 - **Brewers:** the **cream home uniform** with "BREWERS" in navy and gold, now with the 2026 World Series patch high on the chest. It is the jersey they wore in all four home playoff games this October.
 
-Gray against cream with the World Series patch gets a **B+** from us for the matchup. Score to follow after the final out. Every game of the Series is logged on our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026).
+Gray against cream with the World Series patch gets a **B+** from us for the matchup. Final: Brewers 3, Rays 2. Every game of the Series is logged on our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026).
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2113698090913796320"></a></blockquote>
 

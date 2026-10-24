@@ -30,9 +30,9 @@ Want them graded instead? Here is [every Milwaukee Brewers jersey ranked](/stori
 
 ## 2026 World Series: Brewers vs. Rays
 
-The Brewers swept the Dodgers 4-0 in the NLCS and host the Rays in the World Series. Game 1 is **Friday, October 23 at 8:00 p.m. ET (7:00 p.m. CT) at American Family Field on FOX**.
+The Brewers swept the Dodgers 4-0 in the NLCS and host the Rays in the World Series. Game 1 was **Friday, October 23 at 8:00 p.m. ET (7:00 p.m. CT) at American Family Field on FOX**.
 
-**World Series Game 1, confirmed:** the home cream with "BREWERS" in navy and gold, now with the 2026 World Series patch on the chest, against the Rays in the road gray with the "TAMPA BAY" script. Our grade: **B+**. Score to follow.
+**World Series Game 1, confirmed:** the home cream with "BREWERS" in navy and gold, now with the 2026 World Series patch on the chest, against the Rays in the road gray with the "TAMPA BAY" script. Our grade: **B+**. Final: Brewers 3, Rays 2.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2113698090913796320"></a></blockquote>
 
