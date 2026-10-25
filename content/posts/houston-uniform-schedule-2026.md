@@ -3,7 +3,7 @@ title: "Houston Uniform Schedule 2026: Every Jersey and When the Cougars Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "What Houston wears every game in 2026: the red home set, the all-white road look, the Houston Blue alternate, and every week's uniform combination."
 gradient: "linear-gradient(135deg, #C8102E 0%, #d8233f 55%, #78BCE2 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Houston has three jerseys, three helmets and one alternate that the whole city plans a weekend around. This is the full Houston 2026 uniform schedule: the red home set, the white road set, the light blue Houston Blue alternate that came back on October 3, and a week-by-week outlook for all twelve games. The Cougars are 5-1, and the Icy Whites came out for Friday night in Lubbock. We update this page as each combination is confirmed.
 
-**Update, October 22:** Houston posted its "Game 8 combo" for No. 10 Utah on Saturday, October 24: a **white helmet, white jersey and red pants**, confirmed by the team.
+**Update, October 24:** Houston wore its posted **white helmet, white jersey and red pants** at No. 10 Utah, confirmed in the team's halftime graphic. Utah went all black and won **21-13**.
 
 ## The Houston 2026 Uniform Sets
 
@@ -72,7 +72,7 @@ That was the white shell with the red interlocking UH and a red facemask, the wh
 
 **October 17 vs. Oklahoma State**, 7:30 p.m. ET on FOX. ★ Confirmed by Houston: **"classic home colors," red helmet with the Houston script, red jersey, white pants.** Family Weekend and Hispanic Heritage day at TDECU Stadium. Oklahoma State has confirmed a white helmet with an orange facemask, white jersey and orange pants. More: [Oklahoma State schedule](/stories/oklahoma-state-uniform-schedule-2026) and [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 at Utah**, 8:15 p.m. Mountain (10:15 p.m. ET) on ESPN. ★ Confirmed by Houston: **white helmet, white jersey, red pants**, posted as "Game 8 combo" coded white, white, red. The helmet has the red Houston script and a red facemask, the white jersey has Houston in red script, and the red pants carry the white UH logo. At Rice-Eccles Stadium, where Utah wears red at home. More: [Utah schedule](/stories/utah-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 at Utah**, 8:15 p.m. Mountain (10:15 p.m. ET) on ESPN. ★ Confirmed by Houston: **white helmet, white jersey, red pants**, posted as "Game 8 combo" coded white, white, red. The helmet has the red Houston script and a red facemask, the white jersey has Houston in red script, and the red pants carry the white UH logo. At Rice-Eccles Stadium, where Utah wears red at home. More: [Utah schedule](/stories/utah-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). Worn as posted, confirmed from the team's halftime graphic. Utah wore a black helmet, black jersey and black pants, not red. **Final: Utah 21, Houston 13.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UHCougarFB/status/2113368132144263642"></a></blockquote>

@@ -3,7 +3,7 @@ title: "Stanford Uniform Schedule 2026: Every Jersey and When the Cardinal Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "What Stanford wears every game in 2026: the cardinal home jersey, the white road set, the black alternate, and the full Cardinal uniform schedule week by week."
 gradient: "linear-gradient(135deg, #8C1515 0%, #a81c1c 55%, #ffffff 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Stanford is the most restrained uniform program in the ACC and it still found a way to open 2026 with something new. This is the full Stanford 2026 uniform schedule: the cardinal home jersey, the white road set, the black alternate, the cardinal script helmet that only comes out for special occasions, the tribal-pattern helmet stripe the Cardinal wore in the season opener, and a week-by-week outlook for all twelve games in Tavita Pritchard's first year as head coach. We update this page as each combination is confirmed.
 
-**Update, October 22:** Stanford is going "All red for FNL" against NC State on Friday, October 23: a **cardinal helmet with a white stripe and the Stanford script, and the cardinal jersey**, confirmed by the team in a video. The pants only show for a moment, but the team calls it all red.
+**Update, October 23:** Stanford's "All red for FNL" really was all red against NC State: a **cardinal helmet with a white stripe and the Stanford script, the cardinal jersey and cardinal pants**, confirmed from the team's game photos. Stanford won **31-28**.
 
 ## The Stanford 2026 Uniform Sets
 
@@ -85,7 +85,7 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/2067390517432754658"></a></blockquote>
 </div>
 
-**October 23 vs. NC State.** ★ Confirmed by Stanford: **all red**, posted as "All red for FNL." The team's video shows a cardinal helmet with a white center stripe, the Stanford script on the side and a white facemask, with the cardinal jersey and white numbers. The pants only show for a moment, but the caption calls it all red. A Friday night game for Heroes Appreciation, 7:30 p.m. Pacific on ESPN, and the second prime-time home date in a month. NC State's year is on the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026), and every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 23 vs. NC State.** ★ Confirmed by Stanford: **all red**, posted as "All red for FNL." The team's video shows a cardinal helmet with a white center stripe, the Stanford script on the side and a white facemask, with the cardinal jersey and white numbers. A Friday night game for Heroes Appreciation, 7:30 p.m. Pacific on ESPN, and the second prime-time home date in a month. NC State's year is on the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026), and every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). **Worn: cardinal pants**, so all red it was, confirmed from the team's game photos. **Final: Stanford 31, NC State 28.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/StanfordFball/status/2113335144027419076"></a></blockquote>

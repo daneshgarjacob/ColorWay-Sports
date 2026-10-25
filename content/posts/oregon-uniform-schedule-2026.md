@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Oregon is the one program where this page cannot be written in advance, and that is exactly why it is worth keeping. This is the full Oregon 2026 uniform schedule: the pieces in the closet, what we expect week to week, and a record of what actually goes on the field. We update this page as each combination is confirmed.
 
-**Update, October 22:** Oregon posted its combo for Illinois on Saturday, October 24: a **yellow helmet with green chrome wings, a white jersey and white pants**, confirmed by the team.
+**Update, October 24:** Oregon wore its posted combo at Illinois, a **yellow helmet with green chrome wings, a white jersey and white pants**, and lost **21-10**. Illinois wore its military appreciation helmet with a navy jersey and orange pants.
 
 ## The Oregon 2026 Uniform Sets
 
@@ -64,7 +64,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
 
 **October 17 vs. Nebraska.** ★ Confirmed by Oregon's uniform post and the team's game photos: **green chrome helmet with black wings, the black Fly Era jersey and bright green pants**, coded by the team as green, black, green. We expected the green jersey, and the Ducks went black instead. Nebraska wore a white helmet, white jersey and red pants. Nebraska led 14-9 late, and Oregon won it 17-14 on a touchdown and a two-point conversion with 28 seconds left. The Ducks are 4-2. Nebraska's side is on the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026).
 
-**October 24 at Illinois**, 3 p.m. ET (noon Pacific) on BTN. ★ Confirmed by Oregon: **yellow helmet with green chrome wings, white jersey, white pants**, posted as "Turn it up." The helmet has a yellow facemask and MIGHTY OREGON on the back bumper, and the white jersey has green numbers trimmed in yellow with the Duck on the shoulder. Illinois wears a military appreciation helmet; see the [Illinois 2026 uniform schedule](/stories/illinois-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 at Illinois**, 3 p.m. ET (noon Pacific) on BTN. ★ Confirmed by Oregon: **yellow helmet with green chrome wings, white jersey, white pants**, posted as "Turn it up." The helmet has a yellow facemask and MIGHTY OREGON on the back bumper, and the white jersey has green numbers trimmed in yellow with the Duck on the shoulder. Illinois wears a military appreciation helmet; see the [Illinois 2026 uniform schedule](/stories/illinois-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). Worn as posted, seen in Illinois' game photos. Illinois wore the military helmet with a navy jersey and orange pants. **Final: Illinois 21, Oregon 10.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2113057824938803638"></a></blockquote>

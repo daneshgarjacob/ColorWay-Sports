@@ -3,7 +3,7 @@ title: "Illinois Uniform Schedule 2026: Every Jersey and When the Illini Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "What Illinois wears every game in 2026: navy home jerseys, the white road set, the orange alternate, every helmet, and the full Fighting Illini uniform schedule."
 gradient: "linear-gradient(135deg, #13294B 0%, #1f3b66 55%, #E84A27 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Illinois has three jersey colors, a rack of orange helmets and a navy one, and a home crowd that picks a color theme for the big games. This is the full Illinois 2026 uniform schedule: the navy home set, the white road set, the orange alternate, the helmets, and a week-by-week outlook for all twelve games in Bret Bielema's sixth season. Six games in, the Fighting Illini are 3-3: navy over orange in all three early home games, with a patriotic helmet for Duke, white at Ohio State, all orange for Homecoming against Purdue and white again in the overtime win at Michigan State. We update this page as each combination is confirmed.
 
-**Update, October 22:** Illinois revealed its military appreciation helmet for Oregon on Saturday, October 24: **orange with the ILLINI wordmark, flag decals, a navy and white center stripe, and a white rear bumper with the seals of the military branches**. The jersey and pants have not been shown yet.
+**Update, October 24:** Illinois wore its military appreciation helmet against Oregon with a **navy jersey and orange pants**, confirmed from the team's game photos, and won **21-10**. The helmet is orange with the ILLINI wordmark, flag decals, a navy and white center stripe and a white rear bumper with the seals of the military branches.
 
 ## The Illinois 2026 Uniform Sets
 
@@ -60,7 +60,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 **October 17.** Bye.
 
-**October 24 vs. Oregon**, 2 p.m. Central (3 p.m. ET) on BTN. ★ Confirmed by Illinois: **a military appreciation helmet**, posted as "Honoring service. Recognizing sacrifice." It is orange with the arched ILLINI wordmark in navy and white, an American flag decal on each side, a navy, white and navy center stripe and a white facemask with flag details. The back carries a POW/MIA emblem, an outline of the state of Illinois and a white rear bumper with the seals of the military branches, including the Army, Navy, Marine Corps, Coast Guard and Space Force. **The jersey and pants have not been shown yet.** Military Appreciation and Foundation Weekend. Oregon wears a yellow helmet with green chrome wings, a white jersey and white pants; see the [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 vs. Oregon**, 2 p.m. Central (3 p.m. ET) on BTN. ★ Confirmed by Illinois: **a military appreciation helmet**, posted as "Honoring service. Recognizing sacrifice." It is orange with the arched ILLINI wordmark in navy and white, an American flag decal on each side, a navy, white and navy center stripe and a white facemask with flag details. The back carries a POW/MIA emblem, an outline of the state of Illinois and a white rear bumper with the seals of the military branches, including the Army, Navy, Marine Corps, Coast Guard and Space Force. Military Appreciation and Foundation Weekend. Oregon wears a yellow helmet with green chrome wings, a white jersey and white pants; see the [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). **Worn: navy jersey and orange pants** with the military helmet, confirmed from the team's game photos. Oregon wore its yellow helmet, white jersey and white pants as posted. **Final: Illinois 21, Oregon 10.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/IlliniFootball/status/2113027687686062350"></a></blockquote>
@@ -86,7 +86,7 @@ Illinois wore the same base look in its first three home games, orange helmet, n
 
 **What jersey is Illinois wearing this week?**
 
-Illinois wore the orange helmet, white jersey and orange pants at Michigan State on Saturday, October 10, confirmed from the game photos. Illinois won 38-37 in overtime and is 3-3. The week before, it wore all orange for Homecoming against Purdue. After a bye on October 17, next is Oregon at home on October 24, in a military appreciation helmet with the military branch seals on the back, revealed by the team on October 21. The jersey and pants have not been shown yet. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Illinois wore the orange helmet, white jersey and orange pants at Michigan State on Saturday, October 10, confirmed from the game photos. Illinois won 38-37 in overtime and is 3-3. The week before, it wore all orange for Homecoming against Purdue. After a bye on October 17, Illinois beat Oregon 21-10 at home on October 24 in its military appreciation helmet, revealed by the team on October 21, with a navy jersey and orange pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Illinois's football uniforms for 2026?**
 

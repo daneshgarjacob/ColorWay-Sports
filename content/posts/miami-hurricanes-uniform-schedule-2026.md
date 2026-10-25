@@ -3,7 +3,7 @@ title: "Miami Hurricanes Uniform Schedule 2026: Every Jersey and When the Hurric
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "Miami Hurricanes uniform schedule 2026: orange home jerseys, the all-white road set, the Miami Nights black alternate, and every game's jersey week by week."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Miami wears orange jerseys with white pants under the white U helmet at home, and all white on the road. This page is the full Miami Hurricanes 2026 uniform schedule: the orange home set, the white road set, the green alternate, the black Miami Nights set, and a week-by-week outlook for all twelve games. We add each combination here once it is confirmed. Five games in, Miami is 5-0 and has worn the all-white road set three times, at Stanford, Wake Forest and Clemson, orange over white against Florida A&M, and the green alternate against Central Michigan.
 
-**Update, October 22:** Miami is wearing its **2001 national championship tribute uniforms** against Pittsburgh on Saturday, October 24 (noon ET, ESPN): **white helmet, throwback orange jersey, throwback white pants**, announced by the team as "A legendary look for Week 8." Our full breakdown is in [Miami's 2001 throwback uniforms, graded](/stories/miami-2001-throwback-uniforms).
+**Update, October 24:** Miami wore its **2001 Tribute** uniform against Pittsburgh, as posted: **white helmet, throwback orange jersey, throwback white pants**, confirmed from the team's game photos, and won **52-23**. Our full breakdown is in [Miami's 2001 throwback uniforms, graded](/stories/miami-2001-throwback-uniforms).
 
 ## The Miami Hurricanes 2026 Uniform Sets
 
@@ -67,7 +67,7 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 
 **October 17 vs. Florida State**, 7 p.m. Eastern on ESPN. ★ Confirmed by Miami's Week 7 uniform combo graphic: **white helmet, orange jersey, white pants**. No Miami Nights black this time, even though Miami wore black for Florida State's last visit to Hard Rock Stadium in 2024. Florida State is expected in white. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 vs. Pittsburgh**, noon Eastern on ESPN at Hard Rock Stadium. ★ Confirmed by Miami: the **2001 Tribute** uniform, **white helmet with the orange and green center stripe, throwback orange jersey, throwback white pants**. It is the home half of the [2001 national championship throwbacks](/stories/miami-2001-throwback-uniforms) revealed on September 22, and the first time either version goes on the field. Miami's graphic calls it "A legendary look for Week 8." The 2001 team went 12-0 and beat Nebraska 37-14 in the Rose Bowl for the program's fifth national title, and 25 years later the orange throwback finally gets a Saturday. The white road version, with green pants, still has no date.
+**October 24 vs. Pittsburgh**, noon Eastern on ESPN at Hard Rock Stadium. ★ Confirmed by Miami: the **2001 Tribute** uniform, **white helmet with the orange and green center stripe, throwback orange jersey, throwback white pants**. It is the home half of the [2001 national championship throwbacks](/stories/miami-2001-throwback-uniforms) revealed on September 22, and the first time either version goes on the field. Miami's graphic calls it "A legendary look for Week 8." The 2001 team went 12-0 and beat Nebraska 37-14 in the Rose Bowl for the program's fifth national title, and 25 years later the orange throwback finally gets a Saturday. The white road version, with green pants, still has no date. Worn as posted, confirmed from the team's game photos. Pitt wore a gold helmet, white jersey and gold pants. **Final: Miami 52, Pitt 23.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2113300898227142824"></a></blockquote>

@@ -3,7 +3,7 @@ title: "Arizona Uniform Schedule 2026: Every Jersey and When the Wildcats Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "Arizona football uniforms for 2026: Sandstorm with red pants at West Virginia, navy at home, white on the road, and every Wildcats jersey week by week."
 gradient: "linear-gradient(135deg, #0C234B 0%, #1a3566 55%, #AB0520 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Arizona wears a navy jersey under a white helmet at home and goes all white on the road, and both of those looks are already on the board in 2026. This is the full Arizona 2026 uniform schedule: the navy home set, the white road set, the all-red Red Out look, the Sandstorm alternate that gets its own themed game against TCU, and a week-by-week outlook for all twelve games, including the 100th Territorial Cup. We update this page as each combination is confirmed.
 
-**Update, October 22:** Arizona is wearing its "classic look for homecoming" against Iowa State on Saturday, October 24: a **white helmet with the red block A, a navy jersey and white pants**, confirmed by the team.
+**Update, October 24:** Arizona wore its "classic look for homecoming" against Iowa State, a **white helmet with the red block A, a navy jersey and white pants**, confirmed from the team's game photos, and won **39-3**.
 
 ## The Arizona 2026 Uniform Sets
 
@@ -64,7 +64,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
 
 **October 17.** Bye.
 
-**October 24 vs. Iowa State**, 4:30 p.m. Arizona time (7:30 p.m. ET) on ESPN2. ★ Confirmed by Arizona: **white helmet, navy jersey, white pants**, posted as a "classic look for homecoming." The helmet has the red block A and red and navy stripes down the middle, and the navy jersey has white numbers trimmed in red with red and white stripes at the shoulders. Homecoming, and a big one: Arizona is marking 100 years of Bear Down, the words quarterback John "Button" Salmon left for the team before his death in 1926. Fans are asked to wear red. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 vs. Iowa State**, 4:30 p.m. Arizona time (7:30 p.m. ET) on ESPN2. ★ Confirmed by Arizona: **white helmet, navy jersey, white pants**, posted as a "classic look for homecoming." The helmet has the red block A and red and navy stripes down the middle, and the navy jersey has white numbers trimmed in red with red and white stripes at the shoulders. Homecoming, and a big one: Arizona is marking 100 years of Bear Down, the words quarterback John "Button" Salmon left for the team before his death in 1926. Fans are asked to wear red. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). Worn as posted, confirmed from the team's game photos. Iowa State wore a cardinal helmet, white jersey and cardinal pants. **Final: Arizona 39, Iowa State 3.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArizonaFBall/status/2113300597742923960"></a></blockquote>

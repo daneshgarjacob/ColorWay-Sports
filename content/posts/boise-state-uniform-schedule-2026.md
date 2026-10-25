@@ -3,7 +3,7 @@ title: "Boise State Uniform Schedule 2026: Every Jersey and When the Broncos Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "Every Boise State jersey and uniform in 2026: blue on The Blue, white on the road, the 40th anniversary helmet, and the full Broncos schedule week by week."
 gradient: "linear-gradient(135deg, #0033A0 0%, #10275C 55%, #D64309 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Boise State wears blue at home and white on the road, and the blue at home is the whole point: a blue jersey over blue pants on a blue field is the most recognizable look in college football. This is the full Boise State 2026 uniform schedule, with every game so far confirmed. **The Broncos wore a blue helmet, white jersey and blue pants at Oregon on September 5**, then **debuted the hand-painted 40th anniversary helmet with blue jerseys and blue pants against Memphis on September 12**. Below is every date of the first Pac-12 season, including the bye and the flex game that closes the regular season. We update this page as each combination is confirmed.
 
-**Update, October 22:** Boise State is "hitting the road" at Washington State on Saturday, October 24 in a **white helmet, white jersey and blue pants**, confirmed by the team. Kickoff is 3 p.m. Pacific at Martin Stadium in Pullman.
+**Update, October 24:** Boise State wore its posted **white helmet, white jersey and blue pants** at Washington State, confirmed from the team's halftime photos, and won **31-10**. Washington State wore all crimson for Homecoming.
 
 ## The Boise State 2026 Uniform Sets
 
@@ -66,7 +66,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 **October 17.** Bye.
 
-**October 24 at Washington State**, 3 p.m. Pacific (6 p.m. ET) on USA Network at Martin Stadium in Pullman. ★ Confirmed by Boise State: **white helmet, white jersey, blue pants**, posted as "Hitting the road in" white, white and blue. It is the first time this season the Broncos have paired the white helmet with the white jersey and blue pants. At Fresno State they went all white, and at Oregon the white jersey and blue pants came under the blue helmet. Washington State's crimson should make it one of the cleaner contrasts on the Broncos' schedule.
+**October 24 at Washington State**, 3 p.m. Pacific (6 p.m. ET) on USA Network at Martin Stadium in Pullman. ★ Confirmed by Boise State: **white helmet, white jersey, blue pants**, posted as "Hitting the road in" white, white and blue. It is the first time this season the Broncos have paired the white helmet with the white jersey and blue pants. At Fresno State they went all white, and at Oregon the white jersey and blue pants came under the blue helmet. Washington State's crimson should make it one of the cleaner contrasts on the Broncos' schedule. Worn as posted, confirmed from the team's halftime photos. Washington State wore a crimson helmet, crimson jersey and crimson pants for Homecoming. **Final: Boise State 31, Washington State 10.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BroncoSportsFB/status/2113345946792681665"></a></blockquote>

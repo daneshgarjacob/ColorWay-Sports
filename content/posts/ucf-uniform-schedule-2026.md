@@ -3,7 +3,7 @@ title: "UCF Uniform Schedule 2026: Every Jersey and When the Knights Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "What UCF wears every game in 2026: the black Knightmode set, the white Lightmode road look, the Space Game alternate, and every week's combination."
 gradient: "linear-gradient(135deg, #000000 0%, #2a2a2a 55%, #BA9B37 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 UCF has three helmets, two jerseys, three pants and a Thursday tradition of telling everyone exactly which ones are coming. This is the full UCF 2026 uniform schedule: the black home set the Knights call Knightmode, the all-white Lightmode road look, the Space Game alternate that lands on Halloween weekend, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 22:** UCF posted its Homecoming combo for BYU on Saturday, October 24, labeled Drip U: a **gold helmet, black jersey and black pants**, confirmed by the team.
+**Update, October 24:** UCF wore its Drip U Homecoming set against No. 2 BYU, a **gold helmet, black jersey and black pants**, confirmed from the team's game photos, and won **39-31 in double overtime**, which UCF called the highest ranked win in program history.
 
 ## The UCF 2026 Uniform Sets
 
@@ -83,7 +83,7 @@ Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and wi
 
 **October 17.** Bye.
 
-**October 24 vs. BYU**, 3:30 p.m. ET on FOX. ★ Confirmed by UCF: **gold helmet, black jersey, black pants**, posted as "This Homecoming Combo" with a Game 7 graphic labeled DRIP U. The gold shell has the stacked UCF logo and a black facemask, and the black jersey has white numbers trimmed in gold. Homecoming at the Bounce House against No. 2 BYU. It is the same combination UCF opened the season in against Bethune-Cookman. More: [BYU schedule](/stories/byu-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 vs. BYU**, 3:30 p.m. ET on FOX. ★ Confirmed by UCF: **gold helmet, black jersey, black pants**, posted as "This Homecoming Combo" with a Game 7 graphic labeled DRIP U. The gold shell has the stacked UCF logo and a black facemask, and the black jersey has white numbers trimmed in gold. Homecoming at the Bounce House against No. 2 BYU. It is the same combination UCF opened the season in against Bethune-Cookman. More: [BYU schedule](/stories/byu-uniform-schedule-2026) and our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). Worn as posted, confirmed from the team's game photos. BYU wore its road whites: royal blue helmet, white jersey, white pants. **Final: UCF 39, BYU 31 (2OT).**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Football/status/2113330573397852161"></a></blockquote>

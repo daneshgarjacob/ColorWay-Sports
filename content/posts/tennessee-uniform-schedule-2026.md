@@ -3,7 +3,7 @@ title: "Tennessee Uniform Schedule 2026: Every Jersey and When the Vols Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-20"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "What Tennessee wears every game in 2026, including the new Smokey Grey Neyland tribute against Auburn and orange against Alabama."
 gradient: "linear-gradient(135deg, #FF8200 0%, #3a2408 55%, #58595B 130%)"
 coverImage: "/images/posts/tennessee-uniform-schedule-2026/cover.jpg"
@@ -17,7 +17,7 @@ resurfaceOnUpdate: true
 
 Wondering what jersey Tennessee is wearing this week? This is the full Tennessee 2026 uniform schedule, game by game. Orange at Neyland, white on the road, and two dates that break the pattern: the new Smokey Grey, worn against Auburn on October 3 in a 24-14 win, and orange against Alabama on the Third Saturday in October.
 
-**Update, October 22:** Tennessee is "hitting the road" at South Carolina on Saturday, October 24 in **all white: white helmet, white jersey, white pants**, confirmed by the team.
+**Update, October 24:** Tennessee wore **all white** at South Carolina, as posted: white helmet, white jersey, white pants, confirmed from the team's game photos. South Carolina went all black and won **27-24**.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Tennessee Athletics.</p>
 
@@ -99,7 +99,7 @@ Twelve games, seven at Neyland, one alternate on the calendar.
 
 **October 17 vs. Alabama**, Knoxville, 3:30 p.m. Eastern on ABC. ★ Confirmed by the teams: **orange, and Alabama is in crimson.** Tennessee is in its orange home set at Neyland Stadium, and called it "a historic look" in a video this week. Alabama wears the crimson helmet and crimson jersey it would normally save for Tuscaloosa. Both programs announced on August 19 that they will wear home jerseys for the Third Saturday in October in 2026 and 2027. It is the first color vs color meeting in this rivalry since 1970. [Full story on the color vs color announcement](/stories/alabama-tennessee-color-vs-color-third-saturday-october-2026). Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 at South Carolina**, Columbia, 3:30 p.m. ET on ESPN. ★ Confirmed by Tennessee: **white helmet, white jersey, white pants**, posted as "hitting the road" with three white squares and a "Road Threads" graphic showing the orange T on the helmet and orange numbers on the white jersey. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 at South Carolina**, Columbia, 3:30 p.m. ET on ESPN. ★ Confirmed by Tennessee: **white helmet, white jersey, white pants**, posted as "hitting the road" with three white squares and a "Road Threads" graphic showing the orange T on the helmet and orange numbers on the white jersey. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). Worn as posted, confirmed from the team's game photos. South Carolina wore a black helmet, black jersey and black pants. **Final: South Carolina 27, Tennessee 24.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2113284994193932723"></a></blockquote>

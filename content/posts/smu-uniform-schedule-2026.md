@@ -3,7 +3,7 @@ title: "SMU Uniform Schedule 2026: Every Jersey and When the Mustangs Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "What SMU wears every game in 2026: the blue home set, the icy whites, the red and black alternates, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #354CA1 0%, #4a63bd 55%, #C8102E 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 SMU has one helmet, three jersey colors, and a habit of wearing white pants with all of them. This is the full SMU 2026 uniform schedule: the blue home set, the all-white icy whites that opened the season at Florida State, the red alternate that came out for Missouri State, the black one still sitting in the closet, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 22:** SMU is wearing a new Dallas themed set against Cal on Saturday, October 24, posted as "Putting on for the Triple D": a **white helmet with the red Peruna inside a blue D, a royal blue jersey with Dallas in white script, and white pants**, confirmed by the team.
+**Update, October 24:** SMU wore its new Dallas set against Cal, as posted: a **white helmet with the red Peruna inside a blue D, a royal blue jersey with Dallas in white script, and white pants**, confirmed from the team's game photos. Cal led 20-17 at halftime, and SMU scored the last 42 points to win **59-20**.
 
 ## The SMU 2026 Uniform Sets
 
@@ -91,7 +91,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 **October 17 vs. Virginia**, noon ET on The CW. ★ Confirmed by SMU: **the classic look, white helmet, blue jersey, white pants.** This is the Salute to Service game and the Hall of Fame game, with a Stripe Out in the stands. SMU has aimed the blackout at its Salute to Service date before, but not this year. Virginia is confirmed in all white, white helmet, white jersey and white pants. Every look this week is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 vs. Cal**, noon ET (11 a.m. Central) on The CW. ★ Confirmed by SMU: **white helmet, royal blue jersey, white pants**, in a Dallas themed version posted as "Putting on for the Triple D." The helmet keeps the white shell but puts the red Peruna inside a big blue D, with blue stripes down the middle and a blue facemask, and the blue jersey has Dallas in white script across the chest above white numbers. It is Fan Appreciation Day, and SMU had asked fans to wear red, but the team went with the blue. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 vs. Cal**, noon ET (11 a.m. Central) on The CW. ★ Confirmed by SMU: **white helmet, royal blue jersey, white pants**, in a Dallas themed version posted as "Putting on for the Triple D." The helmet keeps the white shell but puts the red Peruna inside a big blue D, with blue stripes down the middle and a blue facemask, and the blue jersey has Dallas in white script across the chest above white numbers. It is Fan Appreciation Day, and SMU had asked fans to wear red, but the team went with the blue. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). Worn as posted, confirmed from the team's game photos. Cal wore a navy helmet, white jersey and navy pants. **Final: SMU 59, Cal 20.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SMUFB/status/2113066051164676503"></a></blockquote>

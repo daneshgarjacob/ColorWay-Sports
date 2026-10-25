@@ -3,7 +3,7 @@ title: "Arizona State Uniform Schedule 2026: Every Jersey and When the Sun Devil
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "The Arizona State 2026 uniform schedule: every jersey and helmet combination the Sun Devils wear, confirmed game by game, plus the throwback still waiting on a date."
 gradient: "linear-gradient(135deg, #8C1D40 0%, #5c132a 55%, #FFC627 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Arizona State does not have a home uniform and a road uniform so much as a closet. Gold, maroon, white and black helmets, pitchfork or Sparky on the side, three jersey colors and a throwback still waiting for a date. This is the full Arizona State 2026 uniform schedule: the combinations confirmed so far, including the gold Sparky helmet and white jersey the Sun Devils took to Wembley, and a week-by-week outlook for all twelve games. Arizona State announces each combination in game week, so we update this page as every one lands.
 
-**Update, October 22:** Dark Mode is on. Arizona State's graphic for Saturday's blackout against Kansas State shows a **black helmet and black jersey** with a gold ARIZONA STATE wordmark and gold numbers. The pants are not shown yet, so we are leaving that piece open. Kickoff is 12:45 p.m. Arizona time at Mountain America Stadium.
+**Update, October 24:** Dark Mode was a full blackout. Arizona State wore a **black helmet, black jersey and black pants** against Kansas State, confirmed from the team's game photos, and won **28-17** behind four rushing touchdowns from Cardae Mack.
 
 ## The Arizona State 2026 Uniform Sets
 
@@ -38,7 +38,7 @@ The thing to understand about the Sun Devils is that the helmet, jersey and pant
   <div style="background: #8C1D40; color: #ffffff; border: 2px solid #FFC627; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon / Maroon</div></div>
   <div style="background: #8C1D40; color: #ffffff; border: 2px solid #FFC627; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Hawai'i</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Maroon / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #8C1D40; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Maroon</div></div>
-  <div style="background: #111111; color: #ffffff; border: 2px solid #FFC627; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Pants TBA</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #FFC627; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White Jersey</div></div>
   <div style="background: #8C1D40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon Jersey</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White Jersey</div></div>
@@ -66,7 +66,7 @@ The thing to understand about the Sun Devils is that the helmet, jersey and pant
 
 **October 17 at Texas Tech, Lubbock**, 3:30 p.m. ET on FOX. ★ Confirmed by Arizona State: **white helmet with Sparky, white jersey, maroon pants.** It is Texas Tech's homecoming, and the Red Raiders have confirmed a black helmet, red jersey and white pants honoring their 1976 team. More: [Texas Tech 2026 uniform schedule](/stories/texas-tech-uniform-schedule-2026) and [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 vs. Kansas State, Tempe**, 12:45 p.m. MST (3:45 p.m. ET) on ESPN2. ★ Confirmed by Arizona State: **black helmet, black jersey**, under the headline "Dark Mode: Activated." The jersey carries a gold ARIZONA STATE wordmark and gold numbers, and fans are asked to wear black for a stadium blackout. The pants are not shown in the graphic, so that piece stays open until we see it. It is the first time the black helmet and black jersey are out this season, the same pairing Arizona State wore as a full blackout against TCU in 2025.
+**October 24 vs. Kansas State, Tempe**, 12:45 p.m. MST (3:45 p.m. ET) on ESPN2. ★ Confirmed by Arizona State: **black helmet, black jersey**, under the headline "Dark Mode: Activated." The jersey carries a gold ARIZONA STATE wordmark and gold numbers, and fans are asked to wear black for a stadium blackout. The pants were not shown in the graphic. It is the first time the black helmet and black jersey are out this season, the same pairing Arizona State wore as a full blackout against TCU in 2025. **Worn: black pants**, so it was black on black on black, confirmed from the team's game photos. Kansas State wore a purple helmet, white jersey and purple pants. **Final: Arizona State 28, Kansas State 17.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ASUFootball/status/2113003892263002230"></a></blockquote>
@@ -92,7 +92,7 @@ Through the first three games, Arizona State wore the gold helmet every week and
 
 **What jersey is Arizona State wearing this week?**
 
-Arizona State wore a white helmet with Sparky, a maroon jersey and white pants against Hawai'i in Tempe on Saturday, October 10, confirmed from the broadcast, and won 30-12 to move to 3-2. The week before, against Baylor, the Sun Devils wore the Maroon Monsoon look: a maroon chrome helmet with a gold pitchfork, maroon jersey and maroon pants. At Texas Tech on October 17, Arizona State announced a white helmet with Sparky, a white jersey and maroon pants. Next is Kansas State in Tempe on Saturday, October 24, where Arizona State has confirmed Dark Mode: a black helmet and black jersey, with the pants not shown yet. Arizona State announces each combination in game week, and the grid above is updated as each one is confirmed.
+Arizona State wore a white helmet with Sparky, a maroon jersey and white pants against Hawai'i in Tempe on Saturday, October 10, confirmed from the broadcast, and won 30-12 to move to 3-2. The week before, against Baylor, the Sun Devils wore the Maroon Monsoon look: a maroon chrome helmet with a gold pitchfork, maroon jersey and maroon pants. At Texas Tech on October 17, Arizona State announced a white helmet with Sparky, a white jersey and maroon pants. Against Kansas State in Tempe on Saturday, October 24, Arizona State went Dark Mode: a black helmet, black jersey and black pants, confirmed from the game photos, in a 28-17 win. Arizona State announces each combination in game week, and the grid above is updated as each one is confirmed.
 
 **What are Arizona State's uniforms for 2026?**
 
@@ -104,7 +104,7 @@ Arizona State has not announced a date. The throwback, a gold helmet with the fu
 
 **Does Arizona State have a black uniform in 2026?**
 
-Yes. The black jersey and satin black helmet with gold-trimmed pitchforks were worn as a full blackout against TCU in 2025, and both remain in the wardrobe. Their first 2026 game is Kansas State on October 24: Arizona State's Dark Mode graphic shows the black helmet and black jersey, with the pants not shown yet.
+Yes. The black jersey and satin black helmet with gold-trimmed pitchforks were worn as a full blackout against TCU in 2025, and both remain in the wardrobe. Their first 2026 game was Kansas State on October 24, where Arizona State wore the black helmet, black jersey and black pants in a 28-17 win.
 
 **How many games does Arizona State play in 2026?**
 

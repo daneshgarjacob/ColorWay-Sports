@@ -3,7 +3,7 @@ title: "UCLA Uniform Schedule 2026: Every Jersey and When the Bruins Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-25"
 excerpt: "What jersey is UCLA wearing this week? The full UCLA uniform schedule for 2026: powder blue home jerseys, white road uniforms, the throwback alternate and every game."
 gradient: "linear-gradient(135deg, #2774AE 0%, #005587 55%, #FFD100 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 UCLA wears its powder blue jersey at the Rose Bowl and white on the road, both under a metallic gold helmet and almost always with gold pants. That is the short answer. This is the full UCLA 2026 uniform schedule: the blue home set, the white road set, the 1954 throwback the Bruins have pulled out once a season for three years running, and a week-by-week outlook for all twelve games of Bob Chesney's first season. Two games are in the books and both uniforms are confirmed from the broadcast. We update this page as each combination is confirmed.
 
-**Update, October 22:** UCLA posted its "Homecoming threads" for Michigan State on Saturday, October 24: the **powder blue jersey with white shoulder stripes, the gold helmet and gold pants**, the look honoring the 1954 national champions, confirmed by the team.
+**Update, October 24:** UCLA wore its powder blue "Homecoming threads" against Michigan State, the **powder blue jersey with white shoulder stripes, the gold helmet and gold pants**, confirmed from the team's game photos, and won **28-10** to move to 7-0.
 
 ## The UCLA 2026 Uniform Sets
 
@@ -60,7 +60,7 @@ The base sets are Jordan Brand, which took over UCLA in 2021 and put the Jumpman
 
 **October 17 vs. Wisconsin.** Blue expected. A Big Ten home date at the Rose Bowl, with Wisconsin in white.
 
-**October 24 vs. Michigan State**, 12:30 p.m. Pacific (3:30 p.m. ET) on CBS. ★ Confirmed by UCLA: **gold helmet, powder blue jersey, gold pants**, posted as "Homecoming threads" with Jordan Brand. The jersey is the lighter powder blue with white shoulder stripes and white numbers, the 1954 tribute look UCLA wore for Homecoming in 2023 and 2025, so the throwback is back for a fourth straight season. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 vs. Michigan State**, 12:30 p.m. Pacific (3:30 p.m. ET) on CBS. ★ Confirmed by UCLA: **gold helmet, powder blue jersey, gold pants**, posted as "Homecoming threads" with Jordan Brand. The jersey is the lighter powder blue with white shoulder stripes and white numbers, the 1954 tribute look UCLA wore for Homecoming in 2023 and 2025, so the throwback is back for a fourth straight season. Every look this week is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). Worn as posted, confirmed from the team's game photos. Michigan State wore a green helmet, white jersey and green pants. **Final: UCLA 28, Michigan State 10.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCLAFootball/status/2113017474702811376"></a></blockquote>
