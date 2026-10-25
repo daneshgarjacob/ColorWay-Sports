@@ -2,7 +2,7 @@
 title: "Jets Wear Classic Throwback Uniforms and a Throwback Field vs the Dolphins in Week 7"
 category: NFL
 date: "2026-10-24"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-25"
 excerpt: "The Jets wear the Classic, an all-white nod to the 1968 Super Bowl III team, against Miami on Sunday, and the team's field rendering swaps in the old oval logo at midfield and the italic JETS in the end zones."
 gradient: "linear-gradient(135deg, #0f3d2e 0%, #125740 55%, #ffffff 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -36,6 +36,14 @@ The green is Legacy Green, the team's current shade, which it describes as a ble
 
 <img src="/images/posts/jets-classic-throwback-uniform-field-week-7-2026/jets-classic-uniform-player.jpg" alt="Jets offensive lineman in the Classic throwback uniform: white helmet with green stripes and gray facemask, white jersey number 70 with green sleeve stripes, white pants" style="display:block;width:100%;max-width:480px;border-radius:12px;margin:1.4em auto 0.8em;" loading="lazy" decoding="async" />
 <p style="text-align:center;font-size:0.78em;color:#7C8696;margin:-0.4em 0 1.6em;">Image: New York Jets</p>
+
+## How It Looked
+
+The Classic looked just like the renders, white helmet with the green oval logo, white jersey with green numbers and green and white sleeve stripes, and white pants, and the throwback oval shows up in the background of the team's game photos. Miami came in aqua with white helmets and white pants, which made it one of the brightest matchups of the week. The result did not match the look: the Dolphins won **28-25**.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2114410265886294300"></a></blockquote>
+</div>
 
 ## What Changed on the Field
 

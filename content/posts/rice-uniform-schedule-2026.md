@@ -3,7 +3,7 @@ title: "Rice Uniform Schedule 2026: Every Jersey and When the Owls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What Rice wears every game in 2026: the new Nike blue, white and gray sets, both helmets, and the week-by-week Owls uniform schedule."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b1a3a 55%, #9ea3a8 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Rice is back in Nike for the first time since 2011, and six games into the new deal the Owls have already worn five different combinations. This is the full Rice 2026 uniform schedule: the new blue home set, the white and gray road looks, the blue and silver helmets, every game played so far and the expected uniform for the rest of the season, starting with Tulsa on October 17. We update this page as each combination is confirmed.
+
+**Update, October 24:** Rice wore **a gray helmet with a navy stripe, white jersey and navy pants** at Florida Atlantic on Saturday, confirmed from Rice's game photos, and lost 51-49. **Final: Florida Atlantic 51, Rice 49.**
 
 ## The Rice 2026 Uniform Sets
 
@@ -42,7 +44,7 @@ This is not a rebrand. The Old English R stays on the helmet and the hip, the co
   <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Blue</div></div>
   <div style="background: #ffffff; color: #00205B; border: 2px solid #00205B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White or Gray</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #00205B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gray / White / Navy</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White or Gray</div></div>
   <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -64,7 +66,7 @@ This is not a rebrand. The Old English R stays on the helmet and the hip, the co
 
 **October 17 vs. Tulsa.** Blue expected. Kickoff time still to be set. Tulsa debuted a red throwback this season, which makes the [Tulsa 2026 uniform schedule](/stories/tulsa-uniform-schedule-2026) worth a look before this one.
 
-**October 24 at Florida Atlantic.** White or gray expected. Kickoff time still to be set.
+**October 24 at Florida Atlantic.** White or gray expected. Kickoff time still to be set. **Worn: a gray helmet with a navy stripe, white jersey and navy pants**, confirmed from Rice's game photos. **Final: Florida Atlantic 51, Rice 49.**
 
 **October 31.** Bye. Rice's only open date.
 
@@ -88,7 +90,7 @@ Six games into the Nike era, Rice has worn the blue helmet at every home game an
 
 **What jersey is Rice wearing this week?**
 
-Rice wore the blue helmet, white jersey and blue pants at East Carolina on Saturday, October 10, confirmed from the broadcast, and lost 28-12 to fall to 1-5. Next is Tulsa at home on October 17, where blue is expected. The week before, Rice wore the blue helmet, blue jersey and blue pants against UTSA in a 16-14 loss.
+Rice wore a gray helmet with a navy stripe, white jersey and navy pants at Florida Atlantic on Saturday, October 24, confirmed from Rice's game photos, and lost 51-49. Earlier this season, Rice wore the blue helmet, white jersey and blue pants at East Carolina on Saturday, October 10, confirmed from the broadcast, and lost 28-12 to fall to 1-5. The week before, Rice wore the blue helmet, blue jersey and blue pants against UTSA in a 16-14 loss. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **Did Rice get new uniforms in 2026?**
 

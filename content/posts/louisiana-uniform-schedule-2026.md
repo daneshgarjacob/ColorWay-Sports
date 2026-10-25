@@ -3,7 +3,7 @@ title: "Louisiana Uniform Schedule 2026: Every Jersey and When the Ragin' Cajuns
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What Louisiana wears every game in 2026: the red home set, the white road jersey, the 337 helmet and the week-by-week Ragin' Cajuns uniform schedule."
 gradient: "linear-gradient(135deg, #CE181E 0%, #8a0f14 55%, #ffffff 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Louisiana has worn two helmets and two jerseys through six games, and most of the variety has come from the pants. This is the full Louisiana Ragin' Cajuns 2026 uniform schedule: the red home set, the white road jersey, the red helmet with 337 on the bumper, every game played so far and the expected look for the rest of the season, starting with Troy on October 17. We update this page as each combination is confirmed.
+
+**Update, October 24:** Louisiana wore **a red helmet, white jersey and white pants with a red stripe** at Southern Miss on Saturday, confirmed from Louisiana's game photos, and lost 35-31 on a late touchdown. **Final: Southern Miss 35, Louisiana 31.**
 
 ## The Louisiana 2026 Uniform Sets
 
@@ -37,7 +39,7 @@ Six games into Michael Desormeaux's fifth season, the pattern is simple. Red jer
   <div style="background: #CE181E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
   <div style="background: #ffffff; color: #CE181E; border: 2px solid #CE181E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #CE181E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #CE181E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #CE181E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 12 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UL Monroe</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -59,7 +61,7 @@ Six games into Michael Desormeaux's fifth season, the pattern is simple. Red jer
 
 **October 17 vs. Troy.** Red expected. Family Weekend and the Hall of Fame Game in Lafayette. The TV slot is set to be announced October 5.
 
-**October 24 at Southern Miss.** White expected. It is Southern Miss's Homecoming at Renasant Stadium in Hattiesburg, and the Golden Eagles have worn all black at home this season. Kickoff time still to be set.
+**October 24 at Southern Miss.** White expected. It is Southern Miss's Homecoming at Renasant Stadium in Hattiesburg, and the Golden Eagles have worn all black at home this season. Kickoff time still to be set. **Worn: a red helmet, white jersey and white pants with a red stripe**, confirmed from Louisiana's game photos. Southern Miss wore a black helmet, gold jersey and black pants. **Final: Southern Miss 35, Louisiana 31.**
 
 **October 31.** Bye.
 
@@ -83,7 +85,7 @@ Louisiana runs one of the cleanest closets in the Sun Belt: a red helmet with 33
 
 **What jersey is Louisiana wearing this week?**
 
-Louisiana wore all white at Louisiana Tech on Saturday, October 10: the white helmet, white jersey and white pants, confirmed from the broadcast. Louisiana Tech won 32-31, and the Ragin' Cajuns are 4-2. A week earlier they wore the white helmet, red jersey and red pants for Homecoming against Arkansas State and won 23-20. Next is Troy at home on October 17, where red is expected.
+Louisiana wore a red helmet, white jersey and white pants with a red stripe at Southern Miss on Saturday, October 24, confirmed from Louisiana's game photos, and lost 35-31 on a late touchdown. Earlier this season, Louisiana wore all white at Louisiana Tech on Saturday, October 10: the white helmet, white jersey and white pants, confirmed from the broadcast. Louisiana Tech won 32-31, and the Ragin' Cajuns are 4-2. A week earlier they wore the white helmet, red jersey and red pants for Homecoming against Arkansas State and won 23-20. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What does 337 on the Louisiana helmet mean?**
 

@@ -3,7 +3,7 @@ title: "Michigan State Uniform Schedule 2026: Every Jersey and When the Spartans
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-25"
 excerpt: "What Michigan State wears every game in 2026: green home jerseys, the white road set, the Greek key helmet, the black alternate, and the full Spartans uniform schedule."
 gradient: "linear-gradient(135deg, #18453B 0%, #236352 55%, #ffffff 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Michigan State wears green at home and white on the road, but the Spartans reveal a new helmet, jersey and pants combination almost every week, so the base colors are only half the answer. This is the full Michigan State 2026 uniform schedule: the green home set, the white road set, the Greek key helmets, the black alternate, and a week-by-week outlook for all twelve games in Pat Fitzgerald's first season. Six games in, the Spartans have worn green over white pants twice, green head to toe twice, and the white jersey on both road trips. We update this page as each combination is confirmed.
+
+**Update, October 24:** Michigan State wore the **green helmet, white jersey and green pants** it posted for UCLA and lost **28-10** at the Rose Bowl.
 
 ## The Michigan State 2026 Uniform Sets
 
@@ -58,7 +60,7 @@ The current Nike set arrived in 2023 and built everything around a Greek key pat
 
 **October 17 vs. Northwestern.** Green expected. Fitzgerald coached Northwestern for 17 seasons, so this one comes with a storyline before anyone picks a uniform.
 
-**October 24 at UCLA**, 3:30 p.m. ET on CBS at the Rose Bowl. ★ Confirmed by Michigan State: **green helmet, white jersey, green pants**, posted as "Gameday Threads" coded green, white, green: the green helmet with the Spartan stripe, a white jersey with MICHIGAN STATE across the chest and green numbers, and green pants. UCLA is in its powder blue Homecoming set with gold pants. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026), and the [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026) has the Bruins' side.
+**October 24 at UCLA**, 3:30 p.m. ET on CBS at the Rose Bowl. ★ Confirmed by Michigan State: **green helmet, white jersey, green pants**, posted as "Gameday Threads" coded green, white, green: the green helmet with the Spartan stripe, a white jersey with MICHIGAN STATE across the chest and green numbers, and green pants. UCLA is in its powder blue Homecoming set with gold pants. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026), and the [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026) has the Bruins' side. Worn as posted, confirmed from the team's game photos. UCLA wore the gold helmet, powder blue jersey with white stripes and gold pants. **Final: UCLA 28, Michigan State 10.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MSU_Football/status/2113429407817932843"></a></blockquote>
@@ -84,7 +86,7 @@ Michigan State has used the green jersey and the green helmet in all four home g
 
 **What jersey is Michigan State wearing this week?**
 
-Michigan State wore the green helmet, green jersey and white pants for Homecoming against Illinois on Saturday, October 10, confirmed from the game photos. Illinois won 38-37 in overtime, and the Spartans are 2-4. The week before, they wore a black helmet, white jersey and black pants at Wisconsin. Next up is Northwestern at Spartan Stadium on October 17, where green is expected. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
+Michigan State wore the green helmet, white jersey and green pants at UCLA on Saturday, October 24, as posted in its "Gameday Threads" video, and lost 28-10 to the Bruins in their powder blue Homecoming set. Michigan State is off on October 31. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
 
 **What are Michigan State's football uniforms for 2026?**
 

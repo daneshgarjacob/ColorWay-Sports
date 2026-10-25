@@ -3,7 +3,7 @@ title: "USC Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What USC wears every game in 2026, starting with the Week 0 opener: the cardinal home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #6d0000 55%, #FFC72C 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 USC opened in Week 0, which put the Trojans on the field before almost everybody, and through six games the Trojans are 5-1. This is the full USC 2026 uniform schedule: the cardinal home set, the white road set, gold pants with both, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** USC wore a **cardinal helmet and white jersey** at Wisconsin, confirmed from the team's halftime graphic, and lost **24-7**.
 
 ## The USC 2026 Uniform Sets
 
@@ -37,7 +39,7 @@ USC's uniform is a two-item wardrobe and has been for decades. The gold pants st
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #990000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / Gold</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal Helmet / White Jersey</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -61,7 +63,7 @@ USC's uniform is a two-item wardrobe and has been for decades. The gold pants st
 
 **October 17.** Bye.
 
-**October 24 at Wisconsin.** White expected.
+**October 24 at Wisconsin.** White expected. **Worn: cardinal helmet and white jersey**, from the team's halftime graphic. Wisconsin wore a white helmet, red jersey and white pants. **Final: Wisconsin 24, USC 7.**
 
 **October 31 vs. Ohio State.** Cardinal expected.
 
@@ -81,7 +83,7 @@ Cardinal at home, white on the road, gold pants always. USC has one of the three
 
 **What jersey is USC wearing this week?**
 
-USC wore white at Penn State on Saturday, October 10: cardinal helmet, white jersey and gold pants, confirmed from the game photos, in a 31-23 win at the White Out that moved the Trojans to 6-1. USC has a bye on October 17, and next up is Wisconsin on the road on October 24, where white is expected. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game from October 3 is in our [College Football Week 5 Uniforms 2026](/stories/college-football-week-5-uniforms-2026) guide.
+USC wore a cardinal helmet and white jersey at Wisconsin on Saturday, October 24, confirmed from the team's halftime graphic, and lost 24-7. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are USC's uniforms for 2026?**
 

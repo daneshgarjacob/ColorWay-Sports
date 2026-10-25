@@ -3,7 +3,7 @@ title: "UConn Uniform Schedule 2026: Every Jersey and When the Huskies Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What UConn wears every game in 2026: the navy home set, the white road set, the new red alternate jersey, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1d3b66 55%, #E4002B 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 UConn had not worn an alternate uniform since 2016, and that streak is over. The Huskies revealed a red jersey in August, the first primarily red jersey any UConn team is believed to have worn, and it debuted on October 3 for Homecoming against Syracuse. This is the full UConn 2026 uniform schedule: the navy home set, the white road set, the new red alternate, and a week-by-week outlook for all twelve games in Jason Candle's first season, including a Friday night game at The Rent. We update this page as each combination is confirmed.
+
+**Update, October 23:** UConn beat UMass **35-16** on Friday night in a **navy helmet and navy jersey**, confirmed from the team's halftime graphic.
 
 ## The UConn 2026 Uniform Sets
 
@@ -52,7 +54,7 @@ It looks like a standalone jersey. There is no red helmet and no red pants. It w
   <div style="background: #C8102E; color: #ffffff; border: 2px solid #0C2340; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Red / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #000E2F; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / Navy</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UMass</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #0C2340; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UMass</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy Helmet / Navy Jersey</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Air Force</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
@@ -74,7 +76,7 @@ It looks like a standalone jersey. There is no red helmet and no red pants. It w
 
 **October 17.** Bye. UConn's only open date.
 
-**October 23 vs. UMass.** Navy expected. A Friday night at 7 p.m. that UConn is billing as Cancer Awareness and The Rent at Night. UConn's January home schedule graphic had this game on Saturday, October 24, and it has since moved to Friday. A night game against a regional rival is the other natural spot for the red jersey.
+**October 23 vs. UMass.** Navy expected. A Friday night at 7 p.m. that UConn is billing as Cancer Awareness and The Rent at Night. UConn's January home schedule graphic had this game on Saturday, October 24, and it has since moved to Friday. A night game against a regional rival is the other natural spot for the red jersey. **Worn: navy helmet and navy jersey**, confirmed from the team's halftime graphic. **Final: UConn 35, UMass 16.**
 
 **October 31 at Air Force.** White expected. Halloween at Falcon Stadium, 1 p.m. Mountain time, with Air Force in blue. Our [Air Force 2026 uniform schedule](/stories/air-force-uniform-schedule-2026) tracks the Falcons.
 
@@ -104,7 +106,7 @@ Six games in, UConn has worn all navy in its first two home games, all white at 
 
 **What jersey is UConn wearing this week?**
 
-UConn wore the navy helmet, white jersey and navy pants at Temple on Saturday, October 10, confirmed from the broadcast, and won 34-20 to get back to 3-3. The week before, the Huskies debuted the new red alternate jersey with the navy helmet and navy pants against Syracuse for Homecoming. UConn is off on October 17, and next is UMass at home on Friday, October 23, where navy is expected. The week-by-week grid above lists every game with the expected uniform.
+UConn wore a navy helmet and navy jersey against UMass on Friday, October 23, confirmed from the team's halftime graphic, and won 35-16. The week-by-week grid above lists every game with the expected uniform.
 
 **What are UConn's football uniforms for 2026?**
 

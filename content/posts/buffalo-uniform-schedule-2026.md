@@ -3,7 +3,7 @@ title: "Buffalo Uniform Schedule 2026: Every Jersey and When the Bulls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What Buffalo wears every game in 2026: the blue home jersey, the white road set, the black alternate, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #005BBB 0%, #1a7ad8 55%, #101820 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Buffalo has three helmets, four jersey colors and no fear of mixing them, which makes the Bulls one of the harder MAC programs to predict week to week. This is the full Buffalo 2026 uniform schedule: the blue home jersey, the white road set, the black alternate, the graphite jersey sitting in the back of the closet, and a week-by-week outlook for all twelve games, including three weeknight kickoffs in November. We update this page as each combination is confirmed.
+
+**Update, October 24:** Buffalo wore **all black: the black helmet with the blue bull, a black jersey with blue numbers and black pants** against Bowling Green on Saturday, confirmed from Buffalo's game photos, and won 31-24 on Senior Day. **Final: Buffalo 31, Bowling Green 24.**
 
 ## The Buffalo 2026 Uniform Sets
 
@@ -43,7 +45,7 @@ Buffalo announces the combination each week with a post the program calls Thread
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / White</div></div>
   <div style="background: #ffffff; color: #14284b; border: 2px solid #005BBB; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Toledo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #005BBB; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UMass</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
-  <div style="background: #005BBB; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bowling Green</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #005BBB; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bowling Green</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 3 (TUE)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami (OH)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 11 (WED)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ball State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -65,7 +67,7 @@ Buffalo announces the combination each week with a post the program calls Thread
 
 **October 17 vs. UMass.** Blue expected. Buffalo lists this one as the Flagship Cup.
 
-**October 24 vs. Bowling Green.** Blue expected. Senior Day, and the last Saturday home game of the season, because every home game after this is a weeknight.
+**October 24 vs. Bowling Green.** Blue expected. Senior Day, and the last Saturday home game of the season, because every home game after this is a weeknight. **Worn: all black: the black helmet with the blue bull, a black jersey with blue numbers and black pants**, confirmed from Buffalo's game photos. Bowling Green wore white jerseys with brown pants. **Final: Buffalo 31, Bowling Green 24.**
 
 **October 31.** Bye. Buffalo's only open date, on Halloween.
 
@@ -95,7 +97,7 @@ Six games in, Buffalo is 3-3 and has already used at least three helmets, three 
 
 **What jersey is Buffalo wearing this week?**
 
-Buffalo wore all white, white helmet, white jersey and white pants, at Toledo on Saturday, October 10, confirmed from the broadcast, and won 23-8 to move to 3-3. The week before, the Bulls wore the black helmet with the blue bull, a black jersey with blue numbers and white pants in a 20-17 loss to Western Michigan. Next up is UMass at home on October 17, where blue is expected. The week-by-week grid above lists every game with the expected uniform, and we star each one as it is confirmed.
+Buffalo wore all black: the black helmet with the blue bull, a black jersey with blue numbers and black pants against Bowling Green on Saturday, October 24, confirmed from Buffalo's game photos, and won 31-24 on Senior Day. Earlier this season, Buffalo wore all white, white helmet, white jersey and white pants, at Toledo on Saturday, October 10, confirmed from the broadcast, and won 23-8 to move to 3-3. The week before, the Bulls wore the black helmet with the blue bull, a black jersey with blue numbers and white pants in a 20-17 loss to Western Michigan. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Buffalo's football uniforms for 2026?**
 

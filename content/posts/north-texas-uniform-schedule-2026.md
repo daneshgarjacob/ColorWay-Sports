@@ -3,7 +3,7 @@ title: "North Texas Uniform Schedule 2026: Every Jersey and When the Mean Green 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "North Texas 2026 uniform schedule: the green home set, white road set, Icy Whites at Texas State, both helmets, and what the Mean Green wear every game."
 gradient: "linear-gradient(135deg, #00853E 0%, #0aa152 55%, #0b3d24 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 North Texas has played six games under Neal Brown and worn five different combinations, including the all-white Icy Whites at Texas State and all green against Charlotte. This is the full North Texas 2026 uniform schedule: the green home set, the white road set, the green and white helmets, the Icy Whites, and a week-by-week outlook for all twelve games, including two Thursday night games in October. We update this page as each combination is confirmed.
+
+**Update, October 24:** North Texas wore a **green helmet, white jersey and white pants** at Navy, confirmed from the team's game photos, and won **49-39**.
 
 ## The North Texas 2026 Uniform Sets
 
@@ -50,7 +52,7 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
   <div style="background: #f1f3f8; color: #333; border: 2px solid #00853E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 1 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / Green</div></div>
   <div style="background: #00853E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Green</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #00853E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / White</div></div>
   <div style="background: #00853E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 29 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #00853E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -86,7 +88,7 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
 
 **October 17.** Bye.
 
-**October 24 at Navy.** White expected. Navy's Homecoming in Annapolis at 2:30 p.m. Central on CBS Sports Network, with the Midshipmen in navy. See our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026).
+**October 24 at Navy.** White expected. Navy's Homecoming in Annapolis at 2:30 p.m. Central on CBS Sports Network, with the Midshipmen in navy. See our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026). **Worn: green helmet, white jersey and white pants**, confirmed from the team's game photos. Navy wore a gold helmet, navy jersey and navy pants. **Final: North Texas 49, Navy 39.**
 
 **October 29 vs. Florida Atlantic.** Green expected, and this is the home date we are watching. A Thursday night kickoff at 6:30 p.m. Central on ESPN or ESPN2, and North Texas calls it the Halloween TX Game. A national TV window two days before Halloween is exactly where a program pulls out something dark.
 
@@ -106,7 +108,7 @@ Six games, five different combinations, all of them now confirmed. North Texas h
 
 **What is North Texas wearing this week?**
 
-North Texas wore all green at home against Charlotte on Saturday, October 10: green helmet, green jersey and green pants, confirmed from the broadcast, in a 50-10 win that moved the Mean Green to 4-2. The game before, at Tulsa on Thursday, October 1, North Texas wore the green helmet, white jersey and green pants. After a bye on October 17, next up is at Navy on October 24, where white is expected.
+North Texas wore a green helmet, white jersey and white pants at Navy on Saturday, October 24, confirmed from the team's game photos, and won 49-39. Next is Florida Atlantic at home on Thursday, October 29, where green is expected.
 
 **What are North Texas's football uniforms for 2026?**
 

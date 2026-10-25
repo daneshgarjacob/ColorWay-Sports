@@ -3,7 +3,7 @@ title: "James Madison Uniform Schedule 2026: Every Jersey and When the Dukes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What James Madison wears every game in 2026: the purple home jersey, the white road set, the black alternate, and the full Dukes uniform schedule week by week."
 gradient: "linear-gradient(135deg, #450084 0%, #5a1a9e 55%, #CBB677 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 James Madison has three jersey colors, two helmets, and a program that just went to the College Football Playoff. This is the full James Madison 2026 uniform schedule: the purple home set, the white road set, the all black look the Dukes have already pulled out once, and a week by week outlook for all twelve games in Billy Napier's first season in Harrisonburg. We update this page as each combination is confirmed.
+
+**Update, October 22:** James Madison went **all white** at App State on Thursday night, posted before kickoff and confirmed from the team's game photos, and lost **34-31 in overtime**.
 
 ## The James Madison 2026 Uniform Sets
 
@@ -42,7 +44,7 @@ Read it left to right and it is helmet, jersey, pants. Gold, black, black. That 
   <div style="background: #450084; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Marshall</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Purple / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Purple</div><div style="font-size: 0.68em; font-weight: 700; opacity: 0.85; margin-top: 2px;">W 27-24</div></div>
   <div style="background: #450084; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #450084; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #450084; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 29 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 5 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -80,7 +82,7 @@ One calendar note before you go looking for this game: ESPN files it under Septe
 
 **October 17 vs. Georgia State.** Purple expected, with an asterisk. This is Homecoming Weekend, which is historically the date programs save an alternate for, and JMU has already shown it will wear black in September. If the Dukes go to the closet again, this is the most likely home date.
 
-**October 22 at App State.** White expected. A Thursday night at Kidd Brewer Stadium, 7 p.m., and JMU in white against a black home side is one of the better looking road games on the schedule.
+**October 22 at App State.** White expected. A Thursday night at Kidd Brewer Stadium, 7 p.m., and JMU in white against a black home side is one of the better looking road games on the schedule. **Worn: all white**, white helmet, white jersey with purple numbers and white pants, posted before kickoff as three white circles and confirmed from the team's game photos. App State wore a black helmet, black jersey and white pants. **Final: App State 34, James Madison 31 (OT).**
 
 **October 29 vs. Troy.** Purple expected. Thursday night at 7:30 p.m., a rematch of last season's Sun Belt Championship Game, which JMU hosted and won.
 
@@ -104,7 +106,7 @@ Six games into 2026, James Madison is 6-0 and has already used all three jerseys
 
 **What jersey is James Madison wearing this week?**
 
-James Madison wore the gold helmet, white jersey and purple pants at Georgia Southern on Saturday, October 10, a 27-24 win that moved the Dukes to 6-0, confirmed from the broadcast. A week earlier they wore the gold helmet, purple jersey and gold pants in a 45-17 win over Marshall. Next is Homecoming against Georgia State on October 17, where purple is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+James Madison wore all white at App State on Thursday, October 22: white helmet, white jersey with purple numbers and white pants, posted before kickoff and confirmed from the team's game photos. App State won 34-31 in overtime. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are James Madison's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Tulane Uniform Schedule 2026: Every Jersey and When the Green Wave Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "What Tulane wears every game in 2026: the green home jersey, the white road set, the sky blue alternate, the Mardi Gras City Edition, and every date."
 gradient: "linear-gradient(135deg, #006747 0%, #0a4f3a 55%, #418FDE 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Tulane has more fun with uniforms than anyone else in the American Conference, and the fans have the receipts to prove it. This is the full Tulane 2026 uniform schedule: the green home jersey, the white road set, the sky blue alternate, the one-night Mardi Gras City Edition the Green Wave already burned in Week 2, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** Tulane wore **a sky blue helmet, sky blue jersey and white pants** against UTSA on Saturday, confirmed from Tulane's game photos, and lost 42-19. **Final: UTSA 42, Tulane 19.**
 
 ## The Tulane 2026 Uniform Sets
 
@@ -56,7 +58,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #006747; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / White</div></div>
   <div style="background: #006747; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Green / White</div></div>
-  <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #71C5E8; color: #0b2a1f; border: 2px solid #006747; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Sky Blue / Sky Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green (Homecoming)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -82,7 +84,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
 
 **October 16 vs. Memphis.** ★ Confirmed by the team: **green helmet, green jersey, white pants**. A Friday night conference game at Yulman on ESPN, 6:30 p.m. Central, and the biggest national television window Tulane gets all year at home. Memphis is confirmed in a blue helmet with the tiger stripe, a white jersey with tiger-striped sleeves and blue pants. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026), and the Tigers side is on the [Memphis uniform schedule](/stories/memphis-uniform-schedule-2026).
 
-**October 24 vs. UTSA.** Green expected. Back at Yulman with kickoff still to be announced.
+**October 24 vs. UTSA.** Green expected. Back at Yulman with kickoff still to be announced. **Worn: a sky blue helmet, sky blue jersey and white pants**, confirmed from Tulane's game photos. UTSA wore a navy helmet, white jersey and navy pants. **Final: UTSA 42, Tulane 19.**
 
 **October 30 at Charlotte.** White expected. A Friday night trip to Jerry Richardson Stadium, 6 p.m. Central on ESPN2, the night before Halloween.
 
@@ -112,7 +114,7 @@ Tulane spent its best uniform of the year in Week 2 and that was clearly the pla
 
 **What jersey is Tulane wearing this week?**
 
-Tulane wore a green helmet, white jersey and white pants at Army on Saturday, October 10, confirmed from the broadcast, and lost 20-17 to fall to 2-3. Before the bye, the Green Wave wore all sky blue against Southern Miss on September 26 for the Battle for the Bell and won 24-21. Next is Memphis at Yulman Stadium on Friday, October 16, where Tulane wears a green helmet, green jersey and white pants, confirmed by the team. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Tulane wore a sky blue helmet, sky blue jersey and white pants against UTSA on Saturday, October 24, confirmed from Tulane's game photos, and lost 42-19. Earlier this season, Tulane wore a green helmet, white jersey and white pants at Army on Saturday, October 10, confirmed from the broadcast, and lost 20-17 to fall to 2-3. Before the bye, the Green Wave wore all sky blue against Southern Miss on September 26 for the Battle for the Bell and won 24-21. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Tulane's football uniforms for 2026?**
 

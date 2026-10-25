@@ -3,7 +3,7 @@ title: "Iowa Uniform Schedule 2026: Every Jersey and When the Hawkeyes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-25"
 excerpt: "Iowa uniform schedule 2026: every Hawkeyes jersey by game, the black home uniform, white road jersey, the all-black Cy-Hawk alternate, and what Iowa wears this week."
 gradient: "linear-gradient(135deg, #000000 0%, #1a1a1a 55%, #FFCD00 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Iowa wears the black jersey with gold pants at Kinnick Stadium and the white jersey with gold pants on the road, under the same black Tigerhawk helmet every week. That is the Iowa football uniform in one sentence, and it covers almost every Saturday. The exceptions so far in 2026 were the all-black nights: the Cy-Hawk game, where the Hawkeyes beat Iowa State 16-13, and the October 3 loss to Ohio State. This is the full Iowa 2026 uniform schedule: every jersey, every game week by week, and what the Hawkeyes are expected to wear next. We update this page as each combination is confirmed.
+
+**Update, October 24:** Iowa wore the **black helmet, white jersey and gold pants** at Minnesota, confirmed from the team's game photos, and lost the Floyd of Rosedale game **13-10**.
 
 ## The Iowa 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #FFCD00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Gold</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #FFCD00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Gold</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -58,7 +60,7 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
 
 **October 17.** Bye.
 
-**October 24 at Minnesota.** White expected. The Floyd of Rosedale game at Huntington Bank Stadium, with Minnesota in maroon at home.
+**October 24 at Minnesota.** White expected. The Floyd of Rosedale game at Huntington Bank Stadium, with Minnesota in maroon at home. **Worn: black helmet, white jersey and gold pants**, confirmed from the team's game photos. Minnesota wore a maroon helmet, maroon jersey and gold pants. **Final: Minnesota 13, Iowa 10**, and Floyd of Rosedale goes back to Minneapolis.
 
 **October 31 vs. Wisconsin.** Black expected, with an asterisk. It is Halloween at Kinnick against the program Iowa went all black for in 2022, so this is the home date we are watching most closely for the alternate. Wisconsin will be the team in white.
 
@@ -78,7 +80,7 @@ Six games in, Iowa has shown every piece of its closet: the black and gold home 
 
 **What jersey is Iowa wearing this week?**
 
-Iowa wore the black helmet, white jersey and gold pants at Washington on Friday, October 9, confirmed from Iowa's own game photos, and won 41-24 to move to 5-1. A week earlier the Hawkeyes went all black against Ohio State at Kinnick Stadium. After the October 17 bye, Iowa visits Minnesota for Floyd of Rosedale on October 24, where white is expected.
+Iowa wore the black helmet, white jersey and gold pants at Minnesota on Saturday, October 24, confirmed from the team's game photos, and lost the Floyd of Rosedale game 13-10. Next is Wisconsin at Kinnick Stadium on Halloween, October 31, where black is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Iowa's football uniforms for 2026?**
 

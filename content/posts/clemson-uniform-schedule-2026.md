@@ -3,7 +3,7 @@ title: "Clemson Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "What Clemson wears every game in 2026, starting with orange in Baton Rouge on opening night, week by week."
 gradient: "linear-gradient(135deg, #F56600 0%, #b84a00 55%, #522D80 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Clemson opens the season in Baton Rouge, and because of who they are playing, they open it in orange. This is the full Clemson 2026 uniform schedule: the orange home set, the white road set, the tiger paw, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** Clemson wore the **orange helmet and orange jersey** against Virginia Tech, confirmed from the team's game photos, and lost **20-16**.
 
 ## The Clemson 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
   <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Orange / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #522D80; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charleston Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Purple / Purple</div></div>
-  <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
+  <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange Helmet / Orange Jersey</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #F56600; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
@@ -58,7 +60,7 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
 
 **October 17 vs. Charleston Southern**, noon Eastern on ACC Network. ★ Confirmed by Clemson: **orange helmet, purple jersey, purple pants** for Military Appreciation. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 vs. Virginia Tech.** Orange expected.
+**October 24 vs. Virginia Tech.** Orange expected. **Worn: orange helmet and orange jersey**, confirmed from the team's game photos. Virginia Tech wore a maroon helmet, white jersey and white pants. **Final: Virginia Tech 20, Clemson 16.**
 
 **October 31 at Florida State.** White expected.
 
@@ -78,7 +80,7 @@ Orange at home, white on the road, the paw on the helmet either way. The first d
 
 **What jersey is Clemson wearing this week?**
 
-Clemson is off on October 10. Last time out, the Tigers wore the orange helmet, orange jersey and white pants against Miami on Saturday, October 3, confirmed from the broadcast, and lost 41-13 to fall to 3-2. Next is Charleston Southern at home on October 17 for Military Appreciation, where Clemson wears the orange helmet, purple jersey and purple pants, as posted by the team. Clemson wears orange at home and white on the road in 2026, unless the home team picks white, as LSU did in the opener. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Clemson wore the orange helmet and orange jersey against Virginia Tech at Memorial Stadium on Saturday, October 24, confirmed from the team's game photos, and lost 20-16. Next is Florida State on the road on October 31, where white is expected. Clemson wears orange at home and white on the road in 2026, unless the home team picks white, as LSU did in the opener. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Clemson's uniforms for 2026?**
 

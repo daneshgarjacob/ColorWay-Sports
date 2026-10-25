@@ -3,7 +3,7 @@ title: "Oklahoma State Uniform Schedule 2026: Every Jersey and When the Cowboys 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "The Oklahoma State 2026 uniform schedule: orange, white and black jerseys, multiple helmets, and the combination the Cowboys wore to beat Oregon, tracked week by week."
 gradient: "linear-gradient(135deg, #FF7300 0%, #c25500 55%, #000000 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Oklahoma State does not have a home uniform and a road uniform. It has a closet, and the Cowboys pick from it every week. This is the full Oklahoma State 2026 uniform schedule: the jerseys, pants and helmets in the rotation, what we expect for each of the twelve games in Eric Morris's first season, and a record of what actually goes on the field. The program announces each combination in game week, usually on the @CowboyFB account a day or two before kickoff, and we update this page as each one lands.
+
+**Update, October 24:** Oklahoma State wore a **white helmet and orange jersey** for Homecoming against Colorado, confirmed from the team's game photos, and won **57-24**.
 
 ## The Oklahoma State 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #000000; color: #ffffff; border: 2px solid #FF7300; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Black / Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #FF7300; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Orange</div></div>
-  <div style="background: #FF7300; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
+  <div style="background: #FF7300; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White Helmet / Orange Jersey</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #FF7300; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
@@ -58,7 +60,7 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
 
 **October 17 at Houston**, 7:30 p.m. Eastern on FOX. ★ Confirmed by Oklahoma State: **white helmet with the orange facemask, white jersey, orange pants.** Houston has confirmed its "classic home colors," red helmet with the Houston script, red jersey and white pants. More: [Houston uniform schedule](/stories/houston-uniform-schedule-2026) and [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 vs. Colorado.** Orange expected. America's Greatest Homecoming. This is the date to watch: Homecoming has drawn special looks before, including the black Oklahoma A&M throwback for the 125th anniversary in 2024, and nothing has been announced for 2026. If a one-off uniform is coming this season, this is the likeliest week.
+**October 24 vs. Colorado.** Orange expected. America's Greatest Homecoming. This is the date to watch: Homecoming has drawn special looks before, including the black Oklahoma A&M throwback for the 125th anniversary in 2024, and nothing has been announced for 2026. If a one-off uniform is coming this season, this is the likeliest week. **Worn: white helmet and orange jersey**, confirmed from the team's game photos. Colorado wore a gold helmet and white jersey. **Final: Oklahoma State 57, Colorado 24.**
 
 **October 31 at Iowa State.** White expected. The first Halloween road game since 2015, in Ames, at the start of the only back-to-back road stretch on the schedule. Black jerseys on Halloween would be very on brand for this program, but that is a guess, not a report.
 
@@ -78,7 +80,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oklahoma State wearing this week?**
 
-Oklahoma State wore an orange helmet with the Pokes script, a black jersey with "OKLAHOMA ST" across the chest and orange pants against UCF on Saturday, October 10, confirmed from the ESPN2 broadcast, and won 42-28 to move to 4-1. Orange had been expected for Stripe the Stadium night. Two weeks earlier, the Cowboys beat West Virginia 41-24 in a black helmet, white jersey and black pants. Next is a trip to Houston on October 17, where the Cowboys have confirmed a white helmet with the orange facemask, white jersey and orange pants. The Cowboys announce each week's combination in game week, usually on the program's social accounts a day or two before kickoff, and the grid above is updated as each one is confirmed.
+Oklahoma State wore a white helmet and orange jersey for Homecoming against Colorado on Saturday, October 24, confirmed from the team's game photos, and won 57-24. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The Cowboys announce each week's combination in game week, usually on the program's social accounts a day or two before kickoff, and the grid above is updated as each one is confirmed.
 
 **What are Oklahoma State's uniforms for 2026?**
 

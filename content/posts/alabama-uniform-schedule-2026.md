@@ -3,7 +3,7 @@ title: "Alabama Uniform Schedule 2026: Every Jersey and When the Crimson Tide We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-25"
 excerpt: "What Alabama wears every game in 2026. Crimson at home, white on the road, and why the Tide's uniform schedule is the most locked-down in the SEC."
 gradient: "linear-gradient(135deg, #9E1B32 0%, #2a0a10 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Alabama is wearing this week? This is the full Alabama 2026 uniform schedule, game by game. The short version: crimson at home, white on the road, and almost nothing else, because Alabama guards its uniform more carefully than any program in the sport.
+
+**Update, October 24:** Alabama beat Texas A&M **31-20** in the standard home look, **crimson helmet, crimson jersey and white pants**, as posted and confirmed from the team's halftime photos.
 
 ## Alabama Does Not Do Alternates
 
@@ -62,7 +64,7 @@ SEC home teams wear color and visitors wear white, so the road games below are c
 
 **October 17 at Tennessee**, Knoxville, 3:30 p.m. Eastern (2:30 p.m. Central) on ABC. ★ Confirmed by the teams: **crimson helmet and crimson jersey, not white.** Announced August 19: Alabama and Tennessee will both wear their home jerseys for the Third Saturday in October, crimson against orange, for the first time since 1970. The same arrangement holds when the game returns to Tuscaloosa in 2027. This is the one road game all season where Alabama is not in white, in the crimson helmet and crimson jersey it would normally save for Tuscaloosa, against Tennessee's orange home set. Tennessee called it "a historic look" in a video this week. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). [Full story on the color vs color announcement](/stories/alabama-tennessee-color-vs-color-third-saturday-october-2026).
 
-**October 24 vs. Texas A&M**, Tuscaloosa, 3:30 p.m. ET on ABC. ★ Confirmed by Alabama: **crimson helmet, crimson jersey, white pants**, the standard home uniform, from its locker room post coded crimson, crimson, white. A&M visits in white with its Aggie Script helmet. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 vs. Texas A&M**, Tuscaloosa, 3:30 p.m. ET on ABC. ★ Confirmed by Alabama: **crimson helmet, crimson jersey, white pants**, the standard home uniform, from its locker room post coded crimson, crimson, white. A&M visits in white with its Aggie Script helmet. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026). Worn as posted, confirmed from the team's halftime photos. Texas A&M wore all white with the Aggie Script helmet. **Final: Alabama 31, Texas A&M 20.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AlabamaFTBL/status/2114030502692663538"></a></blockquote>
@@ -96,7 +98,7 @@ Want every big game in one place? Our [college football Week 5 uniform guide](/s
 
 **What jersey is Alabama wearing this week?**
 
-Alabama wore crimson against Georgia on Saturday, October 10: crimson helmet, crimson jersey and white pants, confirmed from the broadcast, in a 20-17 loss that dropped the Tide to 5-1. The week before, Alabama wore the crimson helmet, white jersey and white pants in a 56-23 win at Mississippi State. Next up is Tennessee in Knoxville on October 17, where Alabama wears the crimson helmet and crimson jersey, not white, because both teams are wearing their home jerseys. Alabama wears crimson at home and white on the road. The one date that could break the pattern is November 7 at LSU, because LSU sometimes wears white at home, which would put Alabama in crimson.
+Alabama wore the crimson helmet, crimson jersey and white pants against Texas A&M on Saturday, October 24, as posted and confirmed from the team's halftime photos, and won 31-20. Texas A&M wore all white with its Aggie Script helmet. Alabama wears crimson at home and white on the road. The one date that could break the pattern is November 7 at LSU, because LSU sometimes wears white at home, which would put Alabama in crimson.
 
 **Does Alabama have alternate uniforms in 2026?**
 

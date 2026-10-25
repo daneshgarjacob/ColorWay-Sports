@@ -3,7 +3,7 @@ title: "Tulsa Uniform Schedule 2026: Every Jersey and When the Golden Hurricane 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "Tulsa 2026 uniform schedule: the blue home set, white road set, gold helmet, the new red throwback, and what the Golden Hurricane wear every game."
 gradient: "linear-gradient(135deg, #003595 0%, #1f4fb8 55%, #C4A962 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Tulsa is 2-0 for the first time since 2015, it has beaten Oklahoma State two years running, and on Wednesday the program dropped a red jersey that nobody saw coming. This is the full Tulsa 2026 uniform schedule: the royal blue home set, the white road set, the gold helmet that goes with everything, the new red throwback, and a week-by-week outlook for all twelve games, including a Thursday night game against North Texas and a Friday night game against Army. We update this page as each combination is confirmed.
+
+**Update, October 23:** Tulsa wore a **gold helmet and royal blue jersey** against Army on Friday night, confirmed from the team's halftime graphic, and lost **38-35** on a 50-yard field goal at the horn.
 
 ## The Tulsa 2026 Uniform Sets
 
@@ -58,7 +60,7 @@ Tulsa also brought back its city flag helmet for 918 Day on September 18, the go
   <div style="background: #003595; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 1 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C4A962; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C4A962; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
-  <div style="background: #003595; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #003595; color: #ffffff; border: 2px solid #C4A962; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold Helmet / Blue Jersey</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003595; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -88,7 +90,7 @@ Tulsa also brought back its city flag helmet for 918 Day on September 18, the go
 
 **October 17 at Rice**, 3:30 p.m. Central (4:30 p.m. ET) on ESPN+ in Houston. ★ Confirmed by Tulsa, billed as "the return of the gold lids": **gold helmet with the blue Tulsa script, white jersey, gold pants**, after the white helmet at Arkansas and Navy. Every look this week is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). Our [Rice 2026 uniform schedule](/stories/rice-uniform-schedule-2026) has the Owls' side.
 
-**October 23 vs. Army.** Blue expected. Friday night at 7:30 p.m. Central on ESPN2, and Tulsa lists it as Military Appreciation Night, which is the kind of date programs build a one-off look around. Army should be in white; our [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026) tracks the Black Knights.
+**October 23 vs. Army.** Blue expected. Friday night at 7:30 p.m. Central on ESPN2, and Tulsa lists it as Military Appreciation Night, which is the kind of date programs build a one-off look around. Army should be in white; our [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026) tracks the Black Knights. **Worn: gold helmet and royal blue jersey**, confirmed from the team's halftime graphic. Army wore a black helmet, white jersey and white pants. **Final: Army 38, Tulsa 35**, on a 50-yard field goal at the horn.
 
 **October 31.** Bye.
 
@@ -108,7 +110,7 @@ Two games, two wins, one helmet and one pair of pants. Tulsa has been as discipl
 
 **What is Tulsa wearing this week?**
 
-Tulsa wore all white at Navy on Saturday, October 10: white helmet with the blue Tulsa script, white jersey and white pants, confirmed from the broadcast, in a 34-26 loss that dropped the Golden Hurricane to 3-3. It was the same all white set Tulsa wore at Arkansas on September 26. Next up is at Rice on October 17 in the gold helmet with the blue Tulsa script, white jersey and gold pants, confirmed by the team as "the return of the gold lids."
+Tulsa wore a gold helmet and royal blue jersey against Army on Friday, October 23, confirmed from the team's halftime graphic, and lost 38-35 on a 50-yard field goal at the horn. Army wore a black helmet, white jersey and white pants.
 
 **What are Tulsa's football uniforms for 2026?**
 

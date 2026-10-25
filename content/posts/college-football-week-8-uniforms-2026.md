@@ -105,7 +105,7 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 ### NC State at Stanford: All Red for Friday Night
 
-**Friday, 10:30 p.m. (7:30 p.m. Pacific), ESPN.** **Stanford: Confirmed, all red.** Stanford posted "All red for FNL" on Thursday with a short video: a cardinal helmet with a white center stripe, the Stanford script on the side and a white facemask, and the cardinal jersey with white numbers. The pants only show for a moment in the video, but the team's own caption calls it all red. It is Heroes Appreciation night on the Farm, a week after Stanford's throwback helmet against Elon. **Worn: all red**, with cardinal pants, from the team's game photos. **NC State:** we could not confirm NC State's uniform from its own posts. **Final: Stanford 31, NC State 28.** More: [Stanford schedule](/stories/stanford-uniform-schedule-2026) and [NC State schedule](/stories/nc-state-uniform-schedule-2026).
+**Friday, 10:30 p.m. (7:30 p.m. Pacific), ESPN.** **Stanford: Confirmed, all red.** Stanford posted "All red for FNL" on Thursday with a short video: a cardinal helmet with a white center stripe, the Stanford script on the side and a white facemask, and the cardinal jersey with white numbers. The pants only show for a moment in the video, but the team's own caption calls it all red. It is Heroes Appreciation night on the Farm, a week after Stanford's throwback helmet against Elon. **Worn: all red**, with cardinal pants, from the team's game photos. **NC State: Confirmed**, black helmet and white jersey, from the team's tunnel photos. **Final: Stanford 31, NC State 28.** More: [Stanford schedule](/stories/stanford-uniform-schedule-2026) and [NC State schedule](/stories/nc-state-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/StanfordFball/status/2113335144027419076"></a></blockquote>
@@ -169,7 +169,7 @@ Final scores are from ESPN. A look is marked **Confirmed** when the school poste
 
 **[Duke](/stories/duke-uniform-schedule-2026) at [Virginia](/stories/virginia-uniform-schedule-2026)**, 7 p.m., ESPN. **Duke 19, Virginia 16.**
 - Duke: **Confirmed**, royal blue helmet and white jersey, from the team's locker room and postgame photos.
-- Virginia: not confirmed from the team's posts.
+- Virginia: **Confirmed**, white helmet with the orange stripe, navy jersey, navy pants, from the team's game photos.
 
 **UMass at [UConn](/stories/uconn-uniform-schedule-2026)**, 7 p.m., CBSSN. **UConn 35, UMass 16.**
 - UConn: **Confirmed**, navy helmet and navy jersey, from the team's halftime graphic.
@@ -183,7 +183,7 @@ Final scores are from ESPN. A look is marked **Confirmed** when the school poste
 - Wyoming: **Confirmed**, all black: black helmet, black jersey, black pants, posted as "Men in Black" with the student section blacked out to match.
 
 **[NC State](/stories/nc-state-uniform-schedule-2026) at [Stanford](/stories/stanford-uniform-schedule-2026)**, 10:30 p.m., ESPN. **Stanford 31, NC State 28.**
-- NC State: not confirmed from the team's posts.
+- NC State: **Confirmed**, black helmet and white jersey with red numbers, from the team's tunnel photos.
 - Stanford: **Confirmed**, all red, as posted: cardinal helmet with the Stanford script, cardinal jersey and cardinal pants, from the team's game photos. See above.
 
 ### Saturday, October 24: Noon Window
@@ -213,7 +213,7 @@ Final scores are from ESPN. A look is marked **Confirmed** when the school poste
 - SMU: **Confirmed**, the Dallas set, as posted: white helmet with Peruna inside a blue D, royal blue Dallas jersey, white pants. See above.
 
 **[Rutgers](/stories/rutgers-uniform-schedule-2026) at No. 24 [Northwestern](/stories/northwestern-uniform-schedule-2026)**, noon, Peacock. **Northwestern 42, Rutgers 14.**
-- Rutgers: not confirmed from the team's posts.
+- Rutgers: **Confirmed**, scarlet helmet, white jersey, scarlet pants, from the team's game photos.
 - Northwestern: **Confirmed**, all purple: purple helmet, purple jersey, purple pants, from the team's halftime graphic.
 
 **[West Virginia](/stories/west-virginia-uniform-schedule-2026) at [TCU](/stories/tcu-uniform-schedule-2026)**, noon, ESPN2. **West Virginia 24, TCU 20.**
@@ -221,10 +221,10 @@ Final scores are from ESPN. A look is marked **Confirmed** when the school poste
 - TCU: **Confirmed**, purple helmet and black jersey for Homecoming, from the team's game photos.
 
 **[Rice](/stories/rice-uniform-schedule-2026) at Florida Atlantic**, noon, ESPNU. **Florida Atlantic 51, Rice 49.**
-- Rice: not confirmed from the team's posts.
+- Rice: **Confirmed**, gray helmet with a navy stripe, white jersey, navy pants, from the team's game photos.
 
 **Western Michigan at [Toledo](/stories/toledo-uniform-schedule-2026)**, noon, CBSSN. **Toledo 45, Western Michigan 38.**
-- Toledo: not confirmed from the team's posts.
+- Toledo: **Confirmed**, midnight blue helmet, gold jersey, midnight blue pants, from the team's game photos.
 
 **[Baylor](/stories/baylor-uniform-schedule-2026) at [Kansas](/stories/kansas-uniform-schedule-2026)**, 1 p.m., TNT. **Kansas 25, Baylor 24.**
 - Baylor: **Confirmed**, green helmet with the gold interlocking BU, white jersey, green pants, as posted in its "Game 7 Threads vs Kansas" post and seen in its game photos.
@@ -285,20 +285,21 @@ Final scores are from ESPN. A look is marked **Confirmed** when the school poste
 - Navy: **Confirmed**, gold helmet, navy jersey, navy pants, from the team's halftime graphic.
 
 **[Hawaii](/stories/hawaii-uniform-schedule-2026) at Northern Illinois**, 3:30 p.m., MW+. **Hawaii 56, Northern Illinois 21.**
-- Hawaii: not confirmed from the team's posts.
+- Hawaii: **Confirmed**, all white: white helmet, white jersey, white pants, from the team's game photos.
 
 **Bowling Green at [Buffalo](/stories/buffalo-uniform-schedule-2026)**, 3:30 p.m., ESPN+. **Buffalo 31, Bowling Green 24.**
-- Buffalo: not confirmed from the team's posts.
+- Buffalo: **Confirmed**, all black: black helmet with the blue bull, black jersey, black pants, from the team's game photos.
 
 **[Kansas State](/stories/kansas-state-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 3:45 p.m., ESPN2. **Arizona State 28, Kansas State 17.**
 - Kansas State: **Confirmed**, purple helmet with the white Powercat, white jersey, purple pants, from the team's game photos.
 - Arizona State: **Confirmed**, all black: black helmet, black jersey, black pants, from the team's game photos. See above.
 
 **UL Monroe at [Troy](/stories/troy-uniform-schedule-2026)**, 4 p.m., ESPN+. **UL Monroe 21, Troy 14.**
-- Troy: not confirmed from the team's posts.
+- Troy: **Confirmed**, white helmet and white jersey, from the team's game photos.
 
 **[Louisiana](/stories/louisiana-uniform-schedule-2026) at [Southern Miss](/stories/southern-miss-uniform-schedule-2026)**, 5 p.m., ESPN+. **Southern Miss 35, Louisiana 31.**
-- Neither team's uniform was confirmed from its own posts.
+- Louisiana: **Confirmed**, red helmet, white jersey, white pants, from the team's game photos.
+- Southern Miss: **Confirmed**, black helmet, gold jersey, black pants for Homecoming, from the team's game photos.
 
 ### Saturday, October 24: Night Window
 
@@ -307,7 +308,8 @@ Final scores are from ESPN. A look is marked **Confirmed** when the school poste
 - Washington State: **Confirmed**, all crimson: crimson helmet, crimson jersey, crimson pants for Homecoming, from the team's game photos.
 
 **[San Diego State](/stories/san-diego-state-uniform-schedule-2026) at [Colorado State](/stories/colorado-state-uniform-schedule-2026)**, 6:30 p.m., The CW. **Colorado State 56, San Diego State 49.**
-- Neither team's uniform was confirmed from its own posts.
+- San Diego State: **Confirmed**, red helmet, white jersey, white pants, from the team's game photos.
+- Colorado State: **Confirmed**, green helmet, green jersey, white pants, from the team's game photos.
 
 **[Colorado](/stories/colorado-uniform-schedule-2026) at [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026)**, 7 p.m., FS1. **Oklahoma State 57, Colorado 24.**
 - Colorado: **Confirmed**, gold helmet and white jersey, from the team's halftime graphic.
@@ -346,10 +348,12 @@ Final scores are from ESPN. A look is marked **Confirmed** when the school poste
 - North Carolina: **Confirmed**, Carolina blue helmet and Carolina blue jersey, from the team's game photos.
 
 **[Utah State](/stories/utah-state-uniform-schedule-2026) at [Texas State](/stories/texas-state-uniform-schedule-2026)**, 7:30 p.m., CBSSN. **Texas State 20, Utah State 17.**
-- Neither team's uniform was confirmed from its own posts.
+- Utah State: **Confirmed**, all white: white helmet, white jersey, white pants, from Texas State's game photos.
+- Texas State: **Confirmed**, white helmet, maroon jersey, white pants for Homecoming, from the team's game photos.
 
 **[UTSA](/stories/utsa-uniform-schedule-2026) at [Tulane](/stories/tulane-uniform-schedule-2026)**, 8 p.m., ESPNU. **UTSA 42, Tulane 19.**
-- Neither team's uniform was confirmed from its own posts.
+- UTSA: **Confirmed**, navy helmet with an orange stripe and a "Patty" tribute decal, white jersey, navy pants, from the team's game photos.
+- Tulane: **Confirmed**, sky blue helmet, sky blue jersey, white pants, from the team's game photos.
 
 **No. 14 [Houston](/stories/houston-uniform-schedule-2026) at No. 10 [Utah](/stories/utah-uniform-schedule-2026)**, 10:15 p.m., ESPN. **Utah 21, Houston 13.**
 - Houston: **Confirmed**, white helmet, white jersey, red pants, as posted and seen in its halftime graphic. See above.

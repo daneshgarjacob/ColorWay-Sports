@@ -3,7 +3,7 @@ title: "Indiana Uniform Schedule 2026: Every Jersey and When the Hoosiers Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-25"
 excerpt: "What Indiana wears every game in 2026: the crimson home jersey, the white Hoosiers road set, and the full Hoosiers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #b71c1c 55%, #EDEBEB 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Indiana is the defending national champion and it is defending the title in the plainest uniform in the Big Ten. Two jerseys, one pair of pants for each, no alternate jerseys, and until October 3 a single helmet. This is the full Indiana 2026 uniform schedule: the crimson home set, the white road set that says HOOSIERS instead of INDIANA, the crimson helmet that goes with both, the white helmet that showed up at Rutgers, and a week-by-week outlook for all twelve games. Six games in, Indiana is 6-0, in the crimson home set four times, all white, white helmet included, at Rutgers, and the crimson helmet with the white road set at Nebraska. We update this page as each jersey is confirmed.
+
+**Update, October 24:** Indiana wore the **crimson helmet, white jersey and white pants** at Michigan, confirmed from the team's game photos, and won **13-6 in overtime**.
 
 ## The Indiana 2026 Uniform Sets
 
@@ -83,7 +85,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
 
 **October 17 vs. Ohio State.** Crimson expected. The biggest home game on the board and the sort of night that usually produces a special jersey somewhere else in the country. Indiana's answer so far has mostly been to wear the same thing it always wears. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) tracks the Buckeyes.
 
-**October 24 at Michigan**, noon ET on FOX at Michigan Stadium. ★ Confirmed from Indiana's own game photo: **crimson helmet, white jersey, white pants**, the standard road set, against Michigan's maize winged helmet, navy jersey and navy pants. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026), with the [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026) on the other side.
+**October 24 at Michigan**, noon ET on FOX at Michigan Stadium. ★ Confirmed from Indiana's own game photo: **crimson helmet, white jersey, white pants**, the standard road set, against Michigan's maize winged helmet, navy jersey and navy pants. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026), with the [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026) on the other side. **Worn as confirmed**: crimson helmet, white jersey and white pants, from the team's game photos. Michigan wore its maize winged helmet and navy jersey. **Final: Indiana 13, Michigan 6 (OT).**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/IndianaFootball/status/2114037287772111008"></a></blockquote>
@@ -109,7 +111,7 @@ Indiana is the most predictable uniform team in the Big Ten and it is not an acc
 
 **What jersey is Indiana wearing this week?**
 
-Indiana wore the crimson helmet, the white HOOSIERS road jersey and white pants at Nebraska on Saturday, October 10, confirmed from a game photo, and won 20-17 to move to 6-0. Next is Ohio State at home on October 17, where crimson is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
+Indiana wore the crimson helmet, white jersey and white pants at Michigan on Saturday, October 24, confirmed from the team's game photos, and won 13-6 in overtime. Next is Minnesota at home on October 31 for Homecoming, where crimson is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
 
 **What are Indiana's football uniforms for 2026?**
 

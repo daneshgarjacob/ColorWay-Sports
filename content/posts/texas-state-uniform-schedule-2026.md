@@ -3,7 +3,7 @@ title: "Texas State Uniform Schedule 2026: Every Jersey and When the Bobcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-25"
 excerpt: "What Texas State wears every game in its first Pac-12 season: maroon and gold at home, the white road set, the Bobcats script helmet and the full schedule."
 gradient: "linear-gradient(135deg, #501214 0%, #2e0a0c 55%, #8D734A 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Texas State is playing its first Pac-12 season, and the Bobcats have already used two different gold helmets in San Marcos. This is the full Texas State 2026 uniform schedule: the maroon home jersey, the white road set, the gold and white helmets, the Bobcats script shell that showed up for Family Weekend, every game played so far, including the 31-29 loss in the Pac-12 opener at San Diego State on October 3, and the expected uniform for the rest of the year. We update this page as each combination is confirmed.
+
+**Update, October 24:** Texas State wore **a white helmet, maroon jersey and white pants** against Utah State on Saturday, confirmed from Texas State's game photos, and won 20-17 for Homecoming. **Final: Texas State 20, Utah State 17.**
 
 ## The Texas State 2026 Uniform Sets
 
@@ -38,7 +40,7 @@ This is also a new conference. Texas State spent 13 seasons in the Sun Belt befo
   <div style="background: #ffffff; color: #501214; border: 2px solid #501214; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Maroon</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #501214; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 15 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
-  <div style="background: #501214; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
+  <div style="background: #501214; color: #ffffff; border: 2px solid #8D734A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Maroon / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #501214; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
@@ -66,7 +68,7 @@ This is also a new conference. Texas State spent 13 seasons in the Sun Belt befo
 
 **October 15 vs. Colorado State.** Maroon expected, with a caveat. A Thursday night at UFCU Stadium, 7 p.m. Central on CBS Sports Network, and the game theme is Bobcats Blackout. That is a fan theme and Texas State has not announced a black uniform, but a blackout on a national weeknight is the home date we are watching hardest. Our [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026) has the Rams.
 
-**October 24 vs. Utah State.** Maroon expected. Homecoming, 6:30 p.m. Central on CBS Sports Network. See our [Utah State 2026 uniform schedule](/stories/utah-state-uniform-schedule-2026).
+**October 24 vs. Utah State.** Maroon expected. Homecoming, 6:30 p.m. Central on CBS Sports Network. See our [Utah State 2026 uniform schedule](/stories/utah-state-uniform-schedule-2026). **Worn: a white helmet, maroon jersey and white pants**, confirmed from Texas State's game photos. Utah State wore all white. **Final: Texas State 20, Utah State 17.**
 
 **October 31 at Boise State.** White expected. Halloween night on the blue turf, 8 p.m. Mountain on The CW. More on our [Boise State 2026 uniform schedule](/stories/boise-state-uniform-schedule-2026).
 
@@ -90,7 +92,7 @@ Five games into its Pac-12 era, Texas State has run through white, gold and maro
 
 **What jersey is Texas State wearing this week?**
 
-Texas State wore the white helmet, white jersey and maroon pants at San Diego State on Saturday, October 3, as announced and confirmed on the broadcast, in a 31-29 loss. After a bye on October 10, the Bobcats host Colorado State on Thursday, October 15, where maroon is expected for the Bobcats Blackout night.
+Texas State wore a white helmet, maroon jersey and white pants against Utah State on Saturday, October 24, confirmed from Texas State's game photos, and won 20-17 for Homecoming. Earlier this season, Texas State wore the white helmet, white jersey and maroon pants at San Diego State on Saturday, October 3, as announced and confirmed on the broadcast, in a 31-29 loss. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What helmet did Texas State wear against UIW?**
 

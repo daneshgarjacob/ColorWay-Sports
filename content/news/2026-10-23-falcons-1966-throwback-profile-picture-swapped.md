@@ -25,3 +25,9 @@ None of this changes Sunday. The throwback itself is not new. Atlanta brought ba
 On Saturday, October 24, the team confirmed the full look in a ["Sunday attire" post](https://x.com/AtlantaFalcons/status/2114069790536917315): the throwback red helmet, throwback black jersey and throwback white pants. San Francisco is expected in its white road set. Every Week 7 look is in our [NFL Week 7 uniforms guide](/stories/nfl-week-7-uniforms-2026), and every Falcons game is in the [2026 Falcons uniform schedule](/stories/falcons-uniform-schedule-2026).
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image: Atlanta Falcons</p>
+
+**How it looked (updated Sunday, October 25):** the throwback went on exactly as posted, red helmet, black jersey and white pants, and Atlanta beat San Francisco **29-20**, with Michael Penix Jr. throwing a touchdown pass to Drake London.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AtlantaFalcons/status/2114434419608224007"></a></blockquote>
+</div>

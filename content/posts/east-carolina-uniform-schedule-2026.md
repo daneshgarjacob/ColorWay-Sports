@@ -3,7 +3,7 @@ title: "East Carolina Uniform Schedule 2026: Every Jersey and When the Pirates W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What East Carolina wears every game in 2026: the purple home set, the white road set, the black Night of the Boneyard alternate, and every date."
 gradient: "linear-gradient(135deg, #592A8A 0%, #6f3fa3 55%, #FDC82F 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 East Carolina has worn two completely different uniforms in two games: a white helmet with the old Pirates script at Alabama, then purple from head to toe for the home opener against App State. That is the ECU closet in a nutshell, deep enough that the helmet changes as often as the jersey. This is the full East Carolina 2026 uniform schedule: the purple home set, the white road set, the black alternate that comes out for Night of the Boneyard, and a week-by-week outlook for all twelve games, including two Thursday nights and a Friday night in Greenville. We update this page as each combination is confirmed.
+
+**Update, October 22:** East Carolina lost **41-34 in overtime** at Memphis on Thursday night in a **purple helmet with a gold facemask and a white jersey**, confirmed from the team's halftime graphic.
 
 ## The East Carolina 2026 Uniform Sets
 
@@ -46,7 +48,7 @@ The other thing to know is that ECU ties its uniforms to what the crowd is told 
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #592A8A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 15 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #592A8A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple Helmet / White Jersey</div></div>
   <div style="background: #592A8A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #592A8A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple or Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -68,7 +70,7 @@ The other thing to know is that ECU ties its uniforms to what the crowd is told 
 
 **October 15 at UAB.** White expected. Thursday night at Protective Stadium in Birmingham, 7:30 p.m. Eastern on ESPN or ESPN2, against a UAB team in green at home.
 
-**October 22 at Memphis.** White expected. A second straight Thursday night, 7:30 p.m. Eastern on ESPN2 at Simmons Bank Liberty Stadium, with Memphis in blue. Our [Memphis 2026 uniform schedule](/stories/memphis-uniform-schedule-2026) tracks the Tigers.
+**October 22 at Memphis.** White expected. A second straight Thursday night, 7:30 p.m. Eastern on ESPN2 at Simmons Bank Liberty Stadium, with Memphis in blue. Our [Memphis 2026 uniform schedule](/stories/memphis-uniform-schedule-2026) tracks the Tigers. **Worn: purple helmet with a gold facemask and a white jersey**, confirmed from the team's halftime graphic. Memphis wore a royal blue jersey with tiger-striped sleeves and gray pants. **Final: Memphis 41, East Carolina 34 (OT).**
 
 **October 31 vs. Temple.** Purple expected. Halloween in Greenville for Fan Appreciation, kickoff time to be announced, with Temple expected in white. See our [Temple 2026 uniform schedule](/stories/temple-uniform-schedule-2026).
 
@@ -106,7 +108,7 @@ Two games in, East Carolina has used two helmets, two jerseys and two pant color
 
 **What jersey is East Carolina wearing this week?**
 
-East Carolina wore the purple helmet, purple jersey and white pants for Homecoming against Rice on Saturday, October 10, a 28-12 win, confirmed from the broadcast. The Pirates are 3-2, and next is a Thursday night trip to UAB on October 15, where white is expected. Before the October 3 bye, ECU wore the purple helmet, purple jersey and gold pants in a 42-9 win over NC Central, after white with purple pants at Old Dominion, white at Alabama and all purple at home against App State. The week-by-week grid above lists every game with the expected uniform.
+East Carolina wore a purple helmet with a gold facemask and a white jersey at Memphis on Thursday, October 22, confirmed from the team's halftime graphic, and lost 41-34 in overtime. Memphis wore royal blue with gray pants. The week-by-week grid above lists every game with the expected uniform.
 
 **What are East Carolina's football uniforms for 2026?**
 

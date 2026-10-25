@@ -3,7 +3,7 @@ title: "Wisconsin Uniform Schedule 2026: Every Jersey and When the Badgers Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-25"
 excerpt: "Wisconsin's 2026 uniform schedule: the Red Out with the red helmet for Michigan State, the all-red Lambeau alternate, and what the Badgers wear week by week."
 gradient: "linear-gradient(135deg, #C5050C 0%, #9e0409 55%, #f4f4f4 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Wisconsin opened 2026 in a uniform the program had never worn before, and then went straight back to one of the most settled wardrobes in the Big Ten. This is the full Wisconsin 2026 uniform schedule: the red home set, the white road set, the white Motion W helmet that goes with both, the all-red Lambeau Field alternate that already came and went, the Red Out with the red helmet for Homecoming against Michigan State, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** Wisconsin wore the **white helmet, red jersey and white pants** against No. 16 USC, confirmed from the team's uniform post and game photos, and won **24-7**.
 
 ## The Wisconsin 2026 Uniform Sets
 
@@ -38,7 +40,7 @@ Twelve games: six at Camp Randall, five on the road, one neutral-site opener at 
   <div style="background: #C5050C; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red Out: Red / Red / Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -68,7 +70,7 @@ For the other side of it, see our [Michigan State 2026 uniform schedule](/storie
 
 **October 17 at UCLA**, Rose Bowl, Pasadena. White expected. Wisconsin in white on the Rose Bowl grass is a picture the program has plenty of history with.
 
-**October 24 vs. USC**, Camp Randall Stadium. Red expected. The biggest home date of the year on paper, red against USC's road white.
+**October 24 vs. USC**, Camp Randall Stadium. Red expected. The biggest home date of the year on paper, red against USC's road white. **Worn: white helmet, red jersey and white pants**, from the team's uniform post and game photos. USC wore a cardinal helmet and white jersey. **Final: Wisconsin 24, USC 7.**
 
 **October 31 at Iowa**, Kinnick Stadium. White expected. The Heartland Trophy game, and one of the better white-on-black looks the road schedule offers.
 
@@ -88,7 +90,7 @@ Wisconsin spent its first alternate on the opener, and it spent it well. An all-
 
 **What jersey is Wisconsin wearing this week?**
 
-On October 3, Homecoming against Michigan State, Wisconsin wore the Red Out head to toe: the alternate red helmet with a white Motion W, red jersey with white numbers, red pants and red cleats, confirmed on the BTN broadcast. The Badgers won it 31-3 to move to 4-1. The week before, Wisconsin upset No. 13 Penn State 24-20 at Beaver Stadium in all white. After a bye on October 10, the Badgers play at UCLA on October 17, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Wisconsin wore the white helmet, red jersey and white pants against USC at Camp Randall on Saturday, October 24, confirmed from the team's uniform post and game photos, and won 24-7. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What did Wisconsin wear against Notre Dame at Lambeau Field?**
 

@@ -3,7 +3,7 @@ title: "Cal Uniform Schedule 2026: Every Jersey and When the Golden Bears Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-25"
 excerpt: "What Cal wears every game in 2026: the new Grateful Dead helmet for Wake Forest, the Joe Roth throwback, home and road sets, and the full schedule."
 gradient: "linear-gradient(135deg, #003262 0%, #0a4a86 55%, #FDB515 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Cal opened the Tosh Lupoi era by pulling the single best uniform in its closet out of storage, and the season has been about blue and gold ever since. This is the full Cal 2026 uniform schedule: the blue home set, the white road set, the Joe Roth throwback that came back for UCLA, the new Grateful Dead helmet Cal revealed for the Wake Forest game on October 17, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** Cal wore the **navy helmet, white jersey and navy pants** at SMU, as posted, and lost **59-20** after leading 20-17 at halftime.
 
 ## The Cal 2026 Uniform Sets
 
@@ -125,7 +127,7 @@ Cal published its home themes in July, and they double as a decent map of where 
 
 **October 17 vs. No. 21 Wake Forest**, Grateful Bears game, 7:30 p.m. Pacific on ESPN2. ★ Revealed by Cal: **the gold Grateful Dead helmet**, with the Cal script in a Steal Your Face skull, a tie-dye blue lightning bolt stripe and the dancing bears on the back bumper. On Thursday Cal posted the rest of the set: **the blue jersey with gold numbers and gold pants**, plus towels with a gold dancing bear in a Cal cap. Wake Forest has posted a gloss black helmet, white jersey and black pants. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). Full breakdown and our A+ grade in the [Grateful Dead helmet section](#the-cal-grateful-dead-helmet-for-wake-forest) above.
 
-**October 24 at SMU**, noon ET on The CW at Gerald J. Ford Stadium. ★ Confirmed by Cal: **navy helmet, white jersey, navy pants**, posted Saturday morning as blue, white, blue with locker room photos of the navy helmet with the gold Cal script, white jerseys with gold numbers trimmed in navy, and navy pants. SMU wore its new Dallas set, royal blue with Dallas in script. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 at SMU**, noon ET on The CW at Gerald J. Ford Stadium. ★ Confirmed by Cal: **navy helmet, white jersey, navy pants**, posted Saturday morning as blue, white, blue with locker room photos of the navy helmet with the gold Cal script, white jerseys with gold numbers trimmed in navy, and navy pants. SMU wore its new Dallas set, royal blue with Dallas in script. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026). Worn as posted. **Final: SMU 59, Cal 20.** Cal led 20-17 at halftime, and SMU scored the last 42 points.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CalFootball/status/2114003561893773706"></a></blockquote>
@@ -151,7 +153,7 @@ Six games in, Cal is 3-3 and has worn the best throwback of the 2026 season, its
 
 **What jersey is Cal wearing this week?**
 
-Cal wore the gold helmet, blue jersey and gold pants against Virginia Tech for Homecoming on Saturday, October 10, confirmed from the broadcast, and won 25-20 to get back to 3-3. The week before, the Bears wore the navy helmet, white road jersey and navy pants at UNLV. Next is No. 21 Wake Forest at home on October 17 for the Grateful Bears game, where Cal wears its new gold Grateful Dead helmet with the blue jersey and gold pants, as posted by the team. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Cal wore the navy helmet, white jersey and navy pants at SMU on Saturday, October 24, as posted by the team, and lost 59-20 after leading 20-17 at halftime. SMU wore its new Dallas set. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Cal's football uniforms for 2026?**
 

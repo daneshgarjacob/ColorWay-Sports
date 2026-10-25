@@ -3,7 +3,7 @@ title: "Colorado Uniform Schedule 2026: Every Jersey and When the Buffaloes Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-17"
+updatedDate: "2026-10-25"
 excerpt: "Colorado uniform schedule 2026: every Buffaloes jersey, black home, white road, gold and gray alternates, plus which uniform Colorado wears each game this season."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #CFB87C 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Colorado has worn a black jersey in three of its six 2026 games, including on the road at Georgia Tech. The gold jersey came out at Baylor, and the gray alternate made its first appearance against Utah on October 17. The gold-on-gold look Deion Sanders showed off in May is still to come. This is the full Colorado 2026 uniform schedule: the black home set, the white road set, the gold and gray alternates, the four helmets, and a week-by-week outlook for all twelve games, starting with the Thursday night opener at Georgia Tech and running through Senior Day against UCF. We update this page as each combination is confirmed.
+
+**Update, October 24:** Colorado wore a **gold helmet and white jersey** at Oklahoma State, confirmed from the team's halftime graphic, and lost **57-24**.
 
 ## The Colorado 2026 Uniform Sets
 
@@ -37,7 +39,7 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Gold</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #8a8d8f; color: #ffffff; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Gray / Gray</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold Helmet / White Jersey</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -59,7 +61,7 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
 
 **October 17 vs. Utah.** ★ Confirmed from the broadcast: **black helmet, gray jersey, gray pants**, the first appearance of the gray alternate this season. We expected black, with gold as the other candidate for Family Weekend and the Gold Rush crowd theme, but Colorado went gray head to toe below the helmet. Utah wore its icy white set for a second straight week. More on the Utes side on our [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026).
 
-**October 24 at Oklahoma State.** White expected. A trip to Boone Pickens Stadium in Stillwater, where the Cowboys usually wear orange or black at home. More on our [Oklahoma State 2026 uniform schedule](/stories/oklahoma-state-uniform-schedule-2026).
+**October 24 at Oklahoma State.** White expected. A trip to Boone Pickens Stadium in Stillwater, where the Cowboys usually wear orange or black at home. More on our [Oklahoma State 2026 uniform schedule](/stories/oklahoma-state-uniform-schedule-2026). **Worn: gold helmet and white jersey**, confirmed from the team's halftime graphic. Oklahoma State wore a white helmet and orange jersey. **Final: Oklahoma State 57, Colorado 24.**
 
 **October 31 vs. Kansas State.** Black expected. Halloween in Boulder, with Military Appreciation and the CU Hall of Fame celebration on the same day.
 
@@ -79,7 +81,7 @@ Six games in, Colorado has worn a black jersey three times, all white at Northwe
 
 **What jersey is Colorado wearing this week?**
 
-Colorado wore the black helmet, gray jersey and gray pants against Utah at Folsom Field on Saturday, October 17, confirmed from the broadcast. It was the first time the gray alternate has been worn this season. Next is Oklahoma State on the road on October 24, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Colorado wore a gold helmet and white jersey at Oklahoma State on Saturday, October 24, confirmed from the team's halftime graphic, and lost 57-24. The week before, the Buffaloes wore the black helmet, gray jersey and gray pants against Utah, the first time the gray alternate was out this season. Next is Kansas State at home on Halloween, October 31, where black is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Colorado's football uniforms for 2026?**
 

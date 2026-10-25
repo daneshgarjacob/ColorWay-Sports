@@ -3,7 +3,7 @@ title: "Texas Uniform Schedule 2026: Every Jersey and When the Longhorns Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-17"
+updatedDate: "2026-10-25"
 excerpt: "What Texas wears every game in 2026. Burnt orange at home, the icy whites on the road, and why the Longhorns are one of the few programs that refuse alternates."
 gradient: "linear-gradient(135deg, #BF5700 0%, #2a1607 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Texas is wearing this week? The answer is easier here than anywhere else in college football, and that is the whole story. This is the full Texas 2026 uniform schedule, game by game, plus why the Longhorns are the one major program you can predict twelve months out.
+
+**Update, October 24:** Texas wore the **white helmet, burnt orange jersey and white pants** against No. 7 Ole Miss, confirmed from the team's game photos, and won **34-27**.
 
 ## Texas Has No Alternate Uniforms, and That Is on Purpose
 
@@ -38,7 +40,7 @@ Twelve games, zero alternates, and the most predictable wardrobe in college foot
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Open</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #ffffff; color: #BF5700; border: 2px solid #BF5700; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Burnt Orange</div></div>
-  <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
+  <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Burnt Orange / White</div></div>
   <div style="background: #BF5700; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burnt Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Icy Whites</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Icy Whites</div></div>
@@ -60,7 +62,7 @@ Twelve games, zero alternates, and the most predictable wardrobe in college foot
 
 **October 17 vs. Florida**, Austin. ★ Confirmed: **white helmet, burnt orange jersey, white pants**, the standard home look. Florida wore a blue helmet, white jersey and blue pants. Florida won 27-24, and Texas fell to 4-2. More: [Florida uniform schedule](/stories/florida-uniform-schedule-2026).
 
-**October 24 vs. Ole Miss**, Austin. Burnt orange.
+**October 24 vs. Ole Miss**, Austin. Burnt orange. **Worn: white helmet, burnt orange jersey and white pants**, confirmed from the team's game photos. Ole Miss wore a powder blue helmet with a red center stripe, white jersey and white pants. **Final: Texas 34, Ole Miss 27.**
 
 **October 31 vs. Mississippi State**, Austin. Burnt orange.
 
@@ -86,7 +88,7 @@ For more, see our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-sc
 
 **What jersey is Texas wearing this week?**
 
-Texas wore the white helmet, burnt orange jersey and white pants against Florida in Austin on Saturday, October 17. Florida won 27-24, and Texas is 4-2. The week before, Texas wore all white against Oklahoma at the Cotton Bowl. Texas wears burnt orange at home and the all-white icy whites on the road. The exception left to watch is the November 14 trip to LSU.
+Texas wore the white helmet, burnt orange jersey and white pants against Ole Miss in Austin on Saturday, October 24, confirmed from the team's game photos, and won 34-27. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). Texas wears burnt orange at home and the all-white icy whites on the road. The exception left to watch is the November 14 trip to LSU.
 
 **Does Texas have alternate uniforms in 2026?**
 

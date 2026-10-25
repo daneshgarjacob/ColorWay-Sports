@@ -3,7 +3,7 @@ title: "Appalachian State Uniform Schedule 2026: Every Jersey and When the Mount
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "What App State wears every game in 2026: the black home set, the white road look, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #3d3526 55%, #FFCC00 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 App State runs one of the cleanest uniform programs in the Sun Belt: two jerseys, two helmets, gold on everything, and almost no gimmicks. This is the full Appalachian State 2026 uniform schedule, the black home set, the white road look, the helmets that go with each, and a week-by-week outlook for all twelve games. Two are already confirmed. We update this page as each combination is locked in.
+
+**Update, October 22:** App State beat James Madison **34-31 in overtime** on Thursday night in a **black helmet, black jersey and white pants**, confirmed from the team's game photos.
 
 ## The App State 2026 Uniform Sets
 
@@ -48,7 +50,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Coastal Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Gold</div></div>
-  <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Family Weekend)</div></div>
+  <div style="background: #1A1A1A; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Heroes Day)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Marshall</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -74,7 +76,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
 
 **October 16 at Coastal Carolina**, 8 p.m. Eastern on ESPN2. ★ Confirmed by the team in its Splash Warning post: **black helmet, black jersey, gold pants**. That is the black jersey on the road instead of the white we expected, with gold pants we had not seen yet this season. Coastal Carolina wears its limited edition '90s uniform for its annual "Wait 'Til You See This" game: a white jersey with COASTAL in a teal graffiti script and '90s confetti graphics, with a teal helmet and teal pants. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). A Friday night in Conway, and the calendar note matters here: this one is Friday, not Saturday, so it shows up in a different week than most of the Sun Belt slate. More: [Coastal Carolina uniform schedule](/stories/coastal-carolina-uniform-schedule-2026).
 
-**October 22 vs. James Madison.** Black expected. Thursday night at 7 p.m. on ESPNU for Family Weekend, the biggest home game on the schedule, and the [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026) has the Dukes in white for the trip to Boone.
+**October 22 vs. James Madison.** Black expected. Thursday night at 7 p.m. on ESPNU for Family Weekend, the biggest home game on the schedule, and the [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026) has the Dukes in white for the trip to Boone. **Worn: black helmet, black jersey with gold and white sleeve stripes, white pants**, confirmed from the team's game photos. James Madison wore all white. **Final: App State 34, James Madison 31 (OT).**
 
 **October 31 at Georgia Southern.** White expected. Halloween in Statesboro.
 
@@ -98,7 +100,7 @@ App State is not a uniform program in the Oregon sense and does not want to be. 
 
 **What is App State wearing this week?**
 
-App State wore a black helmet, black jersey and black pants for Homecoming against Old Dominion on Saturday, October 10, confirmed from the broadcast, in a 10-3 loss that dropped the Mountaineers to 3-2. Next up is a Friday night trip to Coastal Carolina on October 16, where App State wears a black helmet, black jersey and gold pants, confirmed by the team, against Coastal's '90s uniform. Before the October 3 bye, App State wore a black helmet, white jersey and black pants at NC State in a 41-31 loss.
+App State wore a black helmet, black jersey with gold and white sleeve stripes and white pants against James Madison on Thursday, October 22, confirmed from the team's game photos, and won 34-31 in overtime for Family Weekend. James Madison wore all white. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are App State's football uniforms for 2026?**
 
@@ -110,7 +112,7 @@ Black helmet, black jersey and black pants for the 55-3 win over Maine on Septem
 
 **Does App State have an alternate uniform in 2026?**
 
-Nothing has been announced. App State has stayed with the same two Nike sets through the first five games, including all black for Black Saturday against Charlotte on September 19 and for Homecoming against Old Dominion on October 10. If an alternate appears, the most likely spot is the Thursday night game against James Madison on October 22.
+Nothing has been announced. App State has stayed with the same two Nike sets through the first five games, including all black for Black Saturday against Charlotte on September 19 and for Homecoming against Old Dominion on October 10. For the Thursday night game against James Madison on October 22, App State wore its regular black helmet and black jersey with white pants.
 
 **What conference is App State in for 2026?**
 

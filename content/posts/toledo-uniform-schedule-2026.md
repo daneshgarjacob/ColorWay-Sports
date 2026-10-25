@@ -3,7 +3,7 @@ title: "Toledo Uniform Schedule 2026: Every Jersey and When the Rockets Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "What Toledo wears every game in 2026: the midnight blue home set, the white road jersey, the gold and anthracite alternates, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #0b2240 0%, #1b3a63 55%, #ffcd00 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Toledo changed helmets before this season even started, and the rest of the closet is deeper than most people outside the MAC realize. This is the full Toledo 2026 uniform schedule: the midnight blue home jersey, the white road set, the gold and anthracite alternates, the new glossy shell, and a week-by-week outlook for all twelve games, including three weeknight kickoffs and a trip to Sacramento. We update this page as each combination is confirmed.
+
+**Update, October 24:** Toledo wore **the midnight blue helmet with the gold TOLEDO wordmark, a gold jersey and midnight blue pants** against Western Michigan on Saturday, confirmed from Toledo's game photos, and won 45-38 on Senior Day. **Final: Toledo 45, Western Michigan 38.**
 
 ## The Toledo 2026 Uniform Sets
 
@@ -49,7 +51,7 @@ There is one more thing hanging over the season. In August the athletic departme
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0b2240; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ball State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #0b2240; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Buffalo</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0b2240; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Eastern Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Blue</div></div>
-  <div style="background: #0b2240; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #FFCE00; color: #0b2240; border: 2px solid #0b2240; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Gold / Navy</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 4 (WED)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Sacramento State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0b2240; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 11 (WED)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UMass</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -71,7 +73,7 @@ There is one more thing hanging over the season. In August the athletic departme
 
 **October 17 at Eastern Michigan**, Rynearson Stadium, 3:30 p.m. ET on ESPN+. ★ Confirmed by Toledo: **white helmet, white jersey, blue pants.** Eastern Michigan is confirmed in a green helmet, black jersey and green pants for its Homecoming. Every look this week is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 vs. Western Michigan.** Blue expected. Toledo lists this as Senior Day, which makes sense once you look at the calendar: it is the last Saturday home game of the season, because everything after it is a weeknight or a Friday.
+**October 24 vs. Western Michigan.** Blue expected. Toledo lists this as Senior Day, which makes sense once you look at the calendar: it is the last Saturday home game of the season, because everything after it is a weeknight or a Friday. **Worn: the midnight blue helmet with the gold TOLEDO wordmark, a gold jersey and midnight blue pants**, confirmed from Toledo's game photos. Western Michigan wore white jerseys with brown pants. **Final: Toledo 45, Western Michigan 38.**
 
 **October 31.** Bye. Toledo's only open date of the year, and it lands on Halloween.
 
@@ -107,7 +109,7 @@ Six games in, Toledo has used two jerseys and two pant colors, with the midnight
 
 **What jersey is Toledo wearing this week?**
 
-Toledo wore the midnight blue jersey and gold pants against Buffalo at Homecoming on Saturday, October 10, confirmed from the broadcast, though the helmet was not clear in the frames we saw. Buffalo won 23-8 and Toledo is 4-2. The week before, Toledo wore the midnight blue helmet, white jersey and midnight blue pants in a 39-24 win at Ball State. Next is at Eastern Michigan on October 17 in a white helmet, white jersey and blue pants, confirmed by the team. The week-by-week grid above lists every game with the expected uniform.
+Toledo wore the midnight blue helmet with the gold TOLEDO wordmark, a gold jersey and midnight blue pants against Western Michigan on Saturday, October 24, confirmed from Toledo's game photos, and won 45-38 on Senior Day. Earlier this season, Toledo wore the midnight blue jersey and gold pants against Buffalo at Homecoming on Saturday, October 10, confirmed from the broadcast, though the helmet was not clear in the frames we saw. Buffalo won 23-8 and Toledo is 4-2. The week before, Toledo wore the midnight blue helmet, white jersey and midnight blue pants in a 39-24 win at Ball State. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Toledo's football uniforms for 2026?**
 

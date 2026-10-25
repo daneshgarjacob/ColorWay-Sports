@@ -3,7 +3,7 @@ title: "Troy Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-06"
+updatedDate: "2026-10-25"
 excerpt: "What Troy wears every game in 2026: a new black jersey, three helmets, the cardinal and white sets and the week-by-week Trojans uniform schedule."
 gradient: "linear-gradient(135deg, #862633 0%, #4a1219 55%, #b1b3b3 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Troy has worn three different helmets in five games and broke out a black jersey for the first time on a Tuesday night against Southern Miss, which makes the Trojans one of the harder teams in the Sun Belt to predict week to week. This is the full Troy 2026 uniform schedule: the cardinal, white and black jerseys, the white, cardinal and black helmets, every game played so far and the expected look for the rest of the season, starting with Louisiana on October 17. We update this page as each combination is confirmed.
+
+**Update, October 24:** Troy wore **a white helmet and white jersey** against UL Monroe on Saturday, confirmed from Troy's game photos, and lost 21-14. **Final: UL Monroe 21, Troy 14.**
 
 ## The Troy 2026 Uniform Sets
 
@@ -38,7 +40,7 @@ The uniforms are Adidas, and the base of the closet is cardinal and white with s
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 6 (TUE)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Southern Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Black / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #862633; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UL Monroe</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal (Military)</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #862633; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UL Monroe</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White Helmet / White Jersey</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 29 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #862633; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal (Homecoming)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -60,7 +62,7 @@ The uniforms are Adidas, and the base of the closet is cardinal and white with s
 
 **October 17 at Louisiana.** White expected. It is Louisiana's Family Weekend and Hall of Fame Game in Lafayette, and the Ragin' Cajuns are expected in red. Kickoff time still to be set.
 
-**October 24 vs. UL Monroe.** Cardinal expected. Military Appreciation Day, with Parents and Family Weekend and Youth Sports Day. A special helmet decal or patch is common on military appreciation dates.
+**October 24 vs. UL Monroe.** Cardinal expected. Military Appreciation Day, with Parents and Family Weekend and Youth Sports Day. A special helmet decal or patch is common on military appreciation dates. **Worn: a white helmet and white jersey**, confirmed from Troy's game photos. The pants were not clear enough in the photos we saw to call. **Final: UL Monroe 21, Troy 14.**
 
 **October 29 at James Madison.** White expected. A Thursday night at Bridgeforth Stadium, 7:30 p.m. Eastern. JMU is expected in purple at home; our [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026) has the Dukes.
 
@@ -84,7 +86,7 @@ Five games in, Troy has worn cardinal, white and now black jerseys, with three h
 
 **What jersey is Troy wearing this week?**
 
-Troy is off this week after beating Southern Miss 55-34 on Tuesday, October 6, in a white helmet, black jersey and white pants. The next game is at Louisiana on Saturday, October 17, where the white road jersey is expected. Troy has worn white in both road games so far.
+Troy wore a white helmet and white jersey against UL Monroe on Saturday, October 24, confirmed from Troy's game photos, and lost 21-14. Earlier this season, Troy beat Southern Miss 55-34 on Tuesday, October 6, in a white helmet, black jersey and white pants. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **How many helmets does Troy have in 2026?**
 

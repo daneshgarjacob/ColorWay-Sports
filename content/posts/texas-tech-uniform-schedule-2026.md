@@ -3,7 +3,7 @@ title: "Texas Tech Uniform Schedule 2026: Every Jersey, and When the Mahomes Let
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "What Texas Tech wears every game in 2026, week by week, including the exact date the new Patrick Mahomes Let's Ride jersey hits the field."
 gradient: "linear-gradient(135deg, #CC0000 0%, #1a0505 55%, #000000 130%)"
 coverImage: "/images/posts/texas-tech-uniform-schedule-2026/cover.jpg"
@@ -18,6 +18,8 @@ resurfaceOnUpdate: true
 Wondering what jersey Texas Tech is wearing this week? This is the full Texas Tech 2026 uniform schedule, game by game, and it now includes the date every Red Raiders fan was asking about: **the new Patrick Mahomes "Let's Ride" uniform debuted Friday night, September 18, against No. 23 Houston in Lubbock**, in prime time on FOX, and Texas Tech won 28-26. Most recently the Red Raiders wore a red helmet, white jersey and red pants in a 29-7 win at Colorado on October 3 to move to 5-0, and after an October 10 bye they host Arizona State for Homecoming on October 17 in a black helmet, red jersey and white pants, confirmed by the team, honoring the 1976 team.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Texas Tech Athletics.</p>
+
+**Update, October 24:** Texas Tech wore a **white helmet with the red Double T and a white jersey** at Cincinnati, confirmed from the team's game photos, and lost **37-24**.
 
 ## The Let's Ride Uniform Is the Headline
 
@@ -75,7 +77,7 @@ Twelve games, seven in Lubbock, one bye, and one Mahomes night.
   <div style="background: #f1f3f8; color: #333; border: 2px solid #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #CC0000; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Red / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White Helmet / White Jersey</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Black</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -97,7 +99,7 @@ Twelve games, seven in Lubbock, one bye, and one Mahomes night.
 
 **October 17 vs. Arizona State**, Lubbock, 3:30 p.m. ET on FOX. ★ Confirmed by the team: **black helmet, red jersey, white pants**, the standard home look, for Homecoming. Texas Tech is honoring the 1976 Red Raiders on their 50th anniversary. Arizona State is confirmed in a white helmet with Sparky, white jersey and maroon pants. Every look this week is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 24 at Cincinnati.** White.
+**October 24 at Cincinnati.** White. **Worn: white helmet with the red Double T and white jersey**, confirmed from the team's game photos. Cincinnati wore all red. **Final: Cincinnati 37, Texas Tech 24.**
 
 **October 31 vs. Arizona**, Lubbock. Halloween home game, and if a blackout shows up anywhere on this schedule, this is the night.
 

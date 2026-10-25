@@ -3,7 +3,7 @@ title: "Browns Bring Back Brown Pants With White Jerseys for Week 7 at Tennessee
 category: NFL
 author: "jake-daneshgar"
 date: "2026-10-24"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-25"
 excerpt: "The Browns wear the orange helmet, white jersey and brown pants at Tennessee on Sunday. The last time Cleveland wore that combo in a regular-season game was January 7, 2024."
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -27,6 +27,14 @@ It is new for 2026, but it is not new to the franchise. According to the Gridiro
 The team's graphic shows every piece: the orange helmet with its center stripe, the white jersey with brown numbers and the brown and orange sleeve stripes, brown pants, white socks with brown and orange stripes, and orange cleats. No alternate helmet, no throwback patch. It is the standard white road jersey with a different pair of pants, which is exactly why it reads so well.
 
 In 2026 so far, Cleveland has worn white jerseys with white pants on the road (Week 1 at Jacksonville, Week 5 at the Jets) and the brown jersey with white pants for the trip to Tampa Bay. At home the Browns have worn the brown jersey with orange pants against Carolina and against Baltimore on Crucial Catch day, plus the all-brown Alpha Dawg set against Pittsburgh. Our full grid is on the [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026).
+
+## How It Looked
+
+Exactly as announced: the orange helmet, the white jersey with the orange and brown sleeve stripes, and **brown pants**, the first time Cleveland has worn that combination since January 2024. And it came with a win. The Browns beat the Titans **27-24** at Nissan Stadium, with the go-ahead points in the final minute.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Browns/status/2114410640202989992"></a></blockquote>
+</div>
 
 ## When the Browns Last Wore White Over Brown
 

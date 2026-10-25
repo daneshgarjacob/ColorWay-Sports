@@ -3,7 +3,7 @@ title: "Virginia Tech Uniform Schedule 2026: Every Jersey and When the Hokies We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "Virginia Tech uniform schedule 2026: the maroon home jersey, white road set, all-orange alternate, Hokie Stone, and every Hokies game's uniform week by week."
 gradient: "linear-gradient(135deg, #630031 0%, #7a1a45 55%, #CF4420 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Virginia Tech wears maroon at home and white on the road, but it announces a helmet, jersey, and pants combination before every game and changes it often. This page is the full Virginia Tech 2026 uniform schedule: the maroon home set, the white road set, the all-orange alternate, the Hokie Stone gray, and a week-by-week outlook for all twelve games in James Franklin's first season. Two games in, the Hokies have gone orange over orange under the white helmet against VMI and maroon over white under the white helmet against Old Dominion. We add each combination here once it is confirmed.
+
+**Update, October 24:** Virginia Tech wore a **maroon helmet, white jersey and white pants** at Clemson, confirmed from the team's game photos, and won **20-16**.
 
 ## The Virginia Tech 2026 Uniform Sets
 
@@ -37,7 +39,7 @@ The current base sets are Nike's 2024 refresh, which pulled from the 1999 and 20
   <div style="background: #630031; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Pittsburgh</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
   <div style="background: #ffffff; color: #861F41; border: 2px solid #861F41; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Maroon</div></div>
   <div style="background: #630031; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #630031; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
@@ -59,7 +61,7 @@ The current base sets are Nike's 2024 refresh, which pulled from the 1999 and 20
 
 **October 17 vs. Georgia Tech.** Maroon expected, since it is a home game. Georgia Tech won 35-20 in Atlanta in 2025, and the Yellow Jackets should be in white.
 
-**October 24 at Clemson.** White expected, since Virginia Tech is the visitor. Clemson wears orange at home, so a Hokies set with orange pants would be the one thing to avoid in Death Valley.
+**October 24 at Clemson.** White expected, since Virginia Tech is the visitor. Clemson wears orange at home, so a Hokies set with orange pants would be the one thing to avoid in Death Valley. **Worn: maroon helmet, white jersey and white pants**, confirmed from the team's game photos. Clemson wore an orange helmet and orange jersey. **Final: Virginia Tech 20, Clemson 16.**
 
 **October 31.** Bye.
 
@@ -79,7 +81,7 @@ Virginia Tech is the rare program where the home and road colors tell you only h
 
 **What jersey is Virginia Tech wearing this week?**
 
-Virginia Tech wore the white helmet with the maroon stripe, the white jersey and maroon pants at Cal on Saturday, October 10, confirmed from the broadcast, and lost 25-20 to fall to 4-2. Next is Georgia Tech at Lane Stadium on October 17, where maroon is expected. The Hokies usually reveal the full helmet, jersey, and pants combination a few days before kickoff, and we star each cell above once it is confirmed. Against Old Dominion earlier this season, Virginia Tech wore a white helmet, maroon jersey, and white pants.
+Virginia Tech wore a maroon helmet, white jersey and white pants at Clemson on Saturday, October 24, confirmed from the team's game photos, and won 20-16. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The Hokies usually reveal the full helmet, jersey, and pants combination a few days before kickoff, and we star each cell above once it is confirmed.
 
 **What are Virginia Tech's football uniforms for 2026?**
 

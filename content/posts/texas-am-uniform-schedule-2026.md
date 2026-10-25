@@ -3,7 +3,7 @@ title: "Texas A&M Uniform Schedule 2026: Every Jersey and When the Aggies Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-25"
 excerpt: "What Texas A&M wears every game in 2026. The confirmed camo date, the maroon home set, the white road set, and a week-by-week outlook for all twelve games."
 gradient: "linear-gradient(135deg, #500000 0%, #2a1414 55%, #C2B280 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Texas A&M is wearing this week? This is the full Texas A&M 2026 uniform schedule: the one confirmed alternate date, the maroon home set, the white road set, and a week-by-week outlook for all twelve games. College programs announce most uniform combinations in the week of the game rather than in advance, so we update this page as each one is confirmed.
+
+**Update, October 24:** Texas A&M wore the **Aggie Script helmet with a white jersey and white pants** at No. 13 Alabama, confirmed from the team's game photos, and lost **31-20**.
 
 ## The One Confirmed Alternate
 
@@ -50,7 +52,7 @@ Twelve games, one confirmed alternate, and an October 31 bye.
   <div style="background: #8C7A4E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Camo</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / White / White</div></div>
   <div style="background: #500000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs The Citadel</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 2px solid #500000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Script Helmet / White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #500000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Script Helmet / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #500000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
@@ -74,7 +76,7 @@ One thing to understand before the table below: **SEC home teams wear colored je
 
 **October 17 vs. The Citadel, Kyle Field.** Home non-conference game. Maroon expected.
 
-**October 24 at Alabama, Tuscaloosa**, 3:30 p.m. ET on ABC. ★ Confirmed by Texas A&M: **the Aggie Script helmet**, white with Aggies in maroon script and a maroon facemask, posted Thursday as "The Aggie Script Lid," with a **white jersey** with maroon lettering in Saturday's "Today's Threads" photos. The pants have not been shown yet. Alabama is in a crimson helmet, crimson jersey and white pants. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 at Alabama, Tuscaloosa**, 3:30 p.m. ET on ABC. ★ Confirmed by Texas A&M: **the Aggie Script helmet**, white with Aggies in maroon script and a maroon facemask, posted Thursday as "The Aggie Script Lid," with a **white jersey** with maroon lettering in Saturday's "Today's Threads" photos. The pants were not shown in those posts. Alabama is in a crimson helmet, crimson jersey and white pants. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026). **Worn: white pants**, so it was all white with the Aggie Script helmet, confirmed from the team's game photos. Alabama wore a crimson helmet, crimson jersey and white pants. **Final: Alabama 31, Texas A&M 20.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AggieFootball/status/2113405042967351662"></a></blockquote>
@@ -108,7 +110,7 @@ For more, see our [Texas A&M camo uniforms graded](/stories/texas-am-camo-honor-
 
 **What jersey is Texas A&M wearing this week?**
 
-Texas A&M wore its white road set at Missouri on Saturday, October 10: maroon helmet, white jersey and white pants, confirmed from the broadcast, in a 27-6 loss that dropped the Aggies to 3-3. The week before, they wore the desert camouflage Honor and Support uniform against Arkansas at Kyle Field in a 34-7 win. Next up is The Citadel at home on October 17, where maroon is expected. Texas A&M wears maroon at home and white on the road for most games in 2026. We update this page as each combination is confirmed in game week.
+Texas A&M wore all white with the Aggie Script helmet at Alabama on Saturday, October 24: a white helmet with Aggies in maroon script, a white jersey and white pants, confirmed from the team's game photos. Alabama won 31-20. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). Texas A&M wears maroon at home and white on the road for most games in 2026. We update this page as each combination is confirmed in game week.
 
 **When did Texas A&M wear the camo uniforms in 2026?**
 

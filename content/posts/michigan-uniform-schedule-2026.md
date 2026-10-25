@@ -3,7 +3,7 @@ title: "Michigan Uniform Schedule 2026: Every Jersey and When the Wolverines Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-25"
 excerpt: "What Michigan wears every game in 2026: the winged helmet, the navy home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #00274C 0%, #0b3a6b 55%, #FFCB05 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Michigan's wardrobe is the least complicated in college football and that is entirely the point. This is the full Michigan 2026 uniform schedule: the navy home set, the white road set, the winged helmet that never comes off, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** Michigan wore the **maize winged helmet, navy jersey and navy pants** it posted as "Saturday's Threads" against Indiana, and lost **13-6 in overtime**.
 
 ## The Michigan 2026 Uniform Sets
 
@@ -58,7 +60,7 @@ The winged helmet is the whole identity, and it is worn with both sets, so the o
 
 **October 17 vs. Penn State.** Navy expected. Penn State visit. Two of the most conservative wardrobes in the sport in one stadium.
 
-**October 24 vs. Indiana**, noon ET on FOX. ★ Confirmed by Michigan: **maize winged helmet, navy jersey, navy pants**, posted as "Saturday's Threads" with Jordan Brand. Indiana came in a crimson helmet, white jersey and white pants. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026).
+**October 24 vs. Indiana**, noon ET on FOX. ★ Confirmed by Michigan: **maize winged helmet, navy jersey, navy pants**, posted as "Saturday's Threads" with Jordan Brand. Indiana came in a crimson helmet, white jersey and white pants. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026). Worn as posted: the maize winged helmet and navy jersey are confirmed from the team's halftime photos. Indiana wore the crimson helmet, white jersey and white pants. **Final: Indiana 13, Michigan 6 (OT).**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UMichFootball/status/2113708422784802884"></a></blockquote>
@@ -84,7 +86,7 @@ Michigan's wardrobe is still short, but 2026 has already bent it. The all-maize 
 
 **What jersey is Michigan wearing this week?**
 
-Michigan wore the winged helmet, white jersey and blue pants at Minnesota on Saturday, October 3, and lost the Little Brown Jug game 20-14 to fall to 3-2. The week before, the Wolverines wore blue over blue in a 20-19 loss to Iowa. Michigan is off on October 10, then hosts Penn State on October 17, where navy is expected. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Michigan wore the maize winged helmet, navy jersey and navy pants against Indiana at Michigan Stadium on Saturday, October 24, as posted in its "Saturday's Threads" graphic, and lost 13-6 in overtime. Next is at Rutgers on October 31, where white is expected. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Michigan's uniforms for 2026?**
 

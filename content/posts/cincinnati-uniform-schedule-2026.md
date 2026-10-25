@@ -3,7 +3,7 @@ title: "Cincinnati Uniform Schedule 2026: Every Jersey and When the Bearcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "Cincinnati Bearcats uniform schedule 2026: every jersey and helmet week by week, from the all-red opener to black at Nipp at Night and white on the road."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #E00122 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Cincinnati has worn a different uniform in each of its first five games this season, from all red under a white Cincy script helmet against Boston College to head-to-toe white at Arizona. This is the full Cincinnati 2026 uniform schedule: the black, red and white Nike sets, the helmet rotation, and a week-by-week outlook for all twelve games, including the Victory Bell game the Bearcats won at TQL Stadium. We update this page as each combination is confirmed.
+
+**Update, October 24:** Cincinnati went **all red** against No. 8 Texas Tech, confirmed from the team's game photos, and won **37-24**.
 
 ## The Cincinnati 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
   <div style="background: #f1f3f8; color: #333; border: 2px solid #E00122; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #E00122; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Red</div></div>
+  <div style="background: #E00122; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / Red</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -64,7 +66,7 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
 
 **October 17 at West Virginia**, noon ET on TNT. ★ Confirmed by Cincinnati: **red helmet, white jersey, red pants.** Every look this week is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). It is homecoming in Morgantown, and the [West Virginia 2026 uniform schedule](/stories/west-virginia-uniform-schedule-2026) has the Mountaineers in navy or gold.
 
-**October 24 vs. Texas Tech.** Black or red expected. Texas Tech comes to Nippert in white.
+**October 24 vs. Texas Tech.** Black or red expected. Texas Tech comes to Nippert in white. **Worn: all red**, red helmet, red jersey and red pants, confirmed from the team's game photos. Texas Tech wore a white helmet with the red Double T and a white jersey. **Final: Cincinnati 37, Texas Tech 24.**
 
 **October 31 vs. Utah.** Black or red expected. Halloween at Nippert. Last year's meeting was Utah's all-black Dark Mode game in Salt Lake City, where Cincinnati wore a black C-Paw helmet over all white. This time the Utes are the visitors, and the [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026) has them in white.
 
@@ -84,7 +86,7 @@ The first two games brought two different sets and two different helmets: Cincin
 
 **What jersey is Cincinnati wearing this week?**
 
-Cincinnati is off on October 10. Last time out, the Bearcats wore all white at Arizona on Saturday, October 3: white helmet, white jersey and white pants, confirmed from the broadcast, in a 34-7 loss that dropped them to 4-1. Next up is at West Virginia on October 17 in a red helmet, white jersey and red pants, confirmed by the team. The grid above lists every game, and we update it as each combination is confirmed.
+Cincinnati went all red against No. 8 Texas Tech on Saturday, October 24, red helmet, red jersey and red pants, confirmed from the team's game photos, and won 37-24. Texas Tech wore a white helmet and white jersey. The grid above lists every game, and we update it as each combination is confirmed.
 
 **What are Cincinnati's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "North Carolina Uniform Schedule 2026: Every Jersey, Starting With Dublin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What North Carolina wears every game in 2026, starting with the Dublin opener against TCU, plus the 1980 throwbacks for Notre Dame and the Kenan 100 season."
 gradient: "linear-gradient(135deg, #4B9CD3 0%, #13294B 60%, #ffffff 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 North Carolina opens the 2026 season in Dublin, and it is the first game of the entire college football season. This is the full North Carolina 2026 uniform schedule: the opener combination, the Carolina blue and white sets, the 100th season of Kenan Stadium, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** North Carolina wore a **Carolina blue helmet and Carolina blue jersey** against Syracuse, confirmed from the team's game photos, and lost **31-30 in overtime**.
 
 <div style="margin: 1.75em 0; border: 2px solid #4B9CD3; border-radius: 16px; overflow: hidden;"><div style="background: #13294B; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Season Opener &middot; Final</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Saturday, August 29</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 1.5em; font-weight: 900; color: #13294B; line-height: 1.2;">North Carolina vs TCU</div><div style="font-size: 0.8em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Aviva Stadium, Dublin &middot; Noon ET &middot; ESPN</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">✅ Worn: The White Throwbacks &middot; Final: North Carolina 15, TCU 10</div><div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">The first game of the 2026 season, Bill Belichick's second opener at Carolina, and the first international game in the program's 136-season history. Carolina won it 15-10 over TCU's black alternate.</div></div></div>
 
@@ -63,7 +65,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
   <div style="background: #4B9CD3; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 1980 Throwback</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue Helmet / Blue Jersey</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -91,7 +93,7 @@ See our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-
 
 **October 17 at Duke**, Wallace Wade Stadium. White expected.
 
-**October 24 vs. Syracuse**, Kenan Stadium. Family Football Day. Carolina blue expected.
+**October 24 vs. Syracuse**, Kenan Stadium. Family Football Day. Carolina blue expected. **Worn: Carolina blue helmet and Carolina blue jersey**, confirmed from the team's game photos. Syracuse wore an orange helmet, white jersey and orange pants. **Final: Syracuse 31, North Carolina 30 (OT).**
 
 **October 31 vs. Miami**, Kenan Stadium. Rams Club Day. Carolina blue expected.
 

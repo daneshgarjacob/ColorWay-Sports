@@ -3,7 +3,7 @@ title: "Duke Uniform Schedule 2026: Every Jersey and When the Blue Devils Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "Duke uniform schedule 2026: blue home jerseys, the all-white road set, the Gothic Duke helmet, black alternates, and every Blue Devils game's jersey week by week."
 gradient: "linear-gradient(135deg, #012169 0%, #00539B 55%, #ffffff 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Duke keeps its jerseys simple and plays with its helmets. The blue home jersey and the white road jersey do most of the work, and the variety comes from the shell: a block D one week, Gothic Duke lettering the next, black when the night calls for it. This is the full Duke 2026 uniform schedule: the blue home set, the white road set, the black alternate, every helmet in the rotation, and a week-by-week outlook for all twelve games. Two games in, the defending ACC champions have worn two different helmets, and we update this page as each combination is confirmed.
+
+**Update, October 23:** Duke won **19-16** at Virginia on Friday night in a **royal blue helmet and white jersey**, confirmed from the team's locker room and postgame photos.
 
 ## The Duke 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ Nike outfits Duke, and the base jerseys have barely moved in years. The helmet i
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #00539B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #00539B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #00539B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue Helmet / White Jersey</div></div>
   <div style="background: #00539B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -58,7 +60,7 @@ Nike outfits Duke, and the base jerseys have barely moved in years. The helmet i
 
 **October 17 vs. North Carolina**, 3:30 p.m. Eastern on ESPN2. ★ Confirmed by Duke: **"Back in Blue," white helmet, royal blue jersey, white pants** for the Victory Bell game in Durham, a week after going all black at Georgia Tech. The Tar Heels are expected in white on the [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026). Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026).
 
-**October 23 at Virginia.** White expected. A Friday night game at Scott Stadium, 7 p.m. Eastern on ESPN.
+**October 23 at Virginia.** White expected. A Friday night game at Scott Stadium, 7 p.m. Eastern on ESPN. **Worn: royal blue helmet and white jersey**, confirmed from the team's locker room and postgame photos; the pants were not clear in the photos we saw. **Final: Duke 19, Virginia 16.**
 
 **October 31 vs. Boston College.** Blue expected. A Halloween home game, and the kind of date where a black alternate would not surprise us.
 
@@ -78,7 +80,7 @@ Duke's jersey pattern is about as predictable as it gets: blue at home, all whit
 
 **What is Duke wearing this week?**
 
-Duke wore all black with royal blue trim, black helmet, black jersey and black pants, at Georgia Tech on Saturday, October 10, confirmed from the broadcast, when white had been expected. Georgia Tech won 28-25, Duke's first loss, and the Blue Devils are 4-1. Before the October 3 bye, Duke wore blue head to toe in a 62-7 win over William & Mary. Next is North Carolina at home on October 17 for the Victory Bell, where Duke has confirmed it goes "Back in Blue": white helmet, royal blue jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Duke wore a royal blue helmet and white jersey at Virginia on Friday, October 23, confirmed from the team's locker room and postgame photos, and won 19-16. The pants were not clear in the photos we saw. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Duke's football uniforms for 2026?**
 

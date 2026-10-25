@@ -3,7 +3,7 @@ title: "Boston College Uniform Schedule 2026: Every Jersey and When the Eagles W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "What Boston College wears every game in 2026: the maroon home set, the white road set, the Red Bandanna uniform, and the full Eagles uniform schedule."
 gradient: "linear-gradient(135deg, #8C2232 0%, #a62b3d 55%, #BC9B6A 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Boston College owns one of the cleanest closets in the ACC and one of the most meaningful uniforms in all of college football. This is the full Boston College 2026 uniform schedule: the maroon home set, the white road set, the gold helmet that finally got its stripe back, the Red Bandanna uniform the Eagles wore on the 25th anniversary of 9/11, and a week-by-week outlook for all twelve games in Bill O'Brien's third season. We update this page as each combination is confirmed.
+
+**Update, October 24:** Boston College wore its **gold helmet and maroon jersey** on the road at Georgia Tech, confirmed from the team's game photos, and won **49-27**.
 
 ## The Boston College 2026 Uniform Sets
 
@@ -48,7 +50,7 @@ ACC home teams wear color and visitors wear white, so every road date on this sc
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #8C2232; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Maroon / Gold</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #8C2232; color: #ffffff; border: 2px solid #BC9B6A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold Helmet / Maroon Jersey</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #8C2232; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -86,7 +88,7 @@ Boston College won 28-21 for its first victory of the season. Rutgers wore red o
 
 Pitt is expected to visit in white, which makes the clash work. Their year is on the [Pitt 2026 uniform schedule](/stories/pitt-uniform-schedule-2026).
 
-**October 24 at Georgia Tech.** White expected. Gold pants against a gold home team in Atlanta, which is the kind of detail that decides whether this one photographs well. See the [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026).
+**October 24 at Georgia Tech.** White expected. Gold pants against a gold home team in Atlanta, which is the kind of detail that decides whether this one photographs well. See the [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026). **Worn: gold helmet and maroon jersey**, not white, confirmed from the team's game photos. Georgia Tech wore a gold helmet, white jersey and gold pants for Homecoming. **Final: Boston College 49, Georgia Tech 27.**
 
 **October 31 at Duke.** White expected. Halloween in Durham. More on the other side at the [Duke 2026 uniform schedule](/stories/duke-uniform-schedule-2026).
 
@@ -110,7 +112,7 @@ Five games into 2026, Boston College is 2-3 and has shown the two things that ma
 
 **What jersey is Boston College wearing this week?**
 
-Boston College is off on October 10. Last time out, the Eagles wore the gold helmet and white jersey at SMU on Saturday, October 3, confirmed from the broadcast, with the pants not clear in the frames we have, and lost 25-16 to fall to 2-3. Next up is Pitt at Alumni Stadium on October 17 for Homecoming, where Boston College wears the gold helmet, maroon jersey and gold pants, with "Soar High!" inside the collar and the eagle head on the shoulders, confirmed by the team. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Boston College wore the gold helmet and maroon jersey at Georgia Tech on Saturday, October 24, confirmed from the team's game photos, and won 49-27. Georgia Tech wore white for Homecoming, so the Eagles kept their home color on the road. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Boston College's football uniforms for 2026?**
 

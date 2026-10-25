@@ -3,7 +3,7 @@ title: "Ole Miss Uniform Schedule 2026: Every Jersey and When the Rebels Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-25"
 excerpt: "The Ole Miss 2026 uniform schedule: red and navy home jerseys, powder blue alternates, the white road set, Realtree helmets, and every Rebels game week by week."
 gradient: "linear-gradient(135deg, #14213D 0%, #CE1126 60%, #6CACE4 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Ole Miss opened 2026 in the navy helmet, navy jersey and gray pants against Louisville, then switched to the red jersey with the same helmet and pants against Charlotte. This is the full Ole Miss 2026 uniform schedule: the red and navy home jerseys, the powder blue alternate, the white road set, four helmet shells including the Realtree camo, and a week-by-week outlook for all twelve games, starting with Lane Kiffin's return to Oxford with LSU on September 19. We update this page as each combination is confirmed.
+
+**Update, October 24:** Ole Miss wore its posted road look at Texas, a **powder blue helmet with the red center stripe, white jersey and white pants**, confirmed from the team's game photos, and lost **34-27**.
 
 ## The Ole Miss 2026 Uniform Sets
 
@@ -59,7 +61,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 
 **October 17 vs. Missouri, Oxford**, 3:30 p.m. ET on SEC Network. ★ Confirmed by Ole Miss, posted Thursday as "Rockin' RealTree": **gray and white Realtree camo helmet with the Ole Miss script and a red and navy stripe, red jersey, gray pants**. The fan schedule labeled this one "White - Realtree," and the white part is for the crowd, which has been asked to wear white. The Rebels stay in a home color, so No. 13 Missouri is expected in white. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). Missouri's side is on our [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026).
 
-**October 24 at Texas, Austin**, 7:30 p.m. ET on ABC. ★ Confirmed by Ole Miss: **powder blue helmet with the red center stripe, white jersey with powder blue numbers, white pants**, from its "Texas Unis" video. Texas wears burnt orange at home. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026), and the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026) has the Longhorns' side.
+**October 24 at Texas, Austin**, 7:30 p.m. ET on ABC. ★ Confirmed by Ole Miss: **powder blue helmet with the red center stripe, white jersey with powder blue numbers, white pants**, from its "Texas Unis" video. Texas wears burnt orange at home. Every Week 8 look is in [our Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026), and the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026) has the Longhorns' side. Worn as posted, confirmed from the team's game photos. Texas wore a white helmet, burnt orange jersey and white pants. **Final: Texas 34, Ole Miss 27.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OleMissFB/status/2113420581269885298"></a></blockquote>
@@ -87,7 +89,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Ole Miss wearing this week?**
 
-Ole Miss wore the powder blue helmet with the red center stripe, a white jersey with powder blue numbers and white pants at Vanderbilt on Saturday, October 10, confirmed from the broadcast, and won 52-17 to move to 4-1. It is the same road look the Rebels wore at Florida on September 26. Next is Missouri in Oxford on October 17, where Ole Miss wears the Realtree camo helmet, gray and white with the Ole Miss script and a red and navy stripe, with a red jersey and gray pants, confirmed by the team.
+Ole Miss wore the powder blue helmet with the red center stripe, a white jersey and white pants at Texas on Saturday, October 24, as posted in its "Texas Unis" video and confirmed from the game photos. Texas won 34-27. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Ole Miss's football uniforms for 2026?**
 

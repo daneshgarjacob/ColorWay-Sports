@@ -3,7 +3,7 @@ title: "TCU Uniform Schedule 2026: The Black Ireland Alternate, the Clover Frog 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-25"
 excerpt: "What TCU wears every game in 2026, starting with the black Frog Horn alternate and the Clover Frog helmet for the Dublin opener against North Carolina."
 gradient: "linear-gradient(135deg, #4D1979 0%, #111111 60%, #A3A9AC 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 TCU opened the 2026 season in Dublin against North Carolina, and the Horned Frogs built a uniform specifically for it. Since then the Frogs have worn purple at home and white on the road, most recently the purple helmet, purple jersey and black pants in a 17-10 loss to BYU on October 3 that left them 2-3 going into the bye. This is the full TCU 2026 uniform schedule: the confirmed black alternate and the helmet that goes with it, the purple and white base sets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** TCU wore a **purple helmet and black jersey** for Homecoming against West Virginia, confirmed from the team's game photos, and lost **24-20**.
 
 <div style="margin: 1.75em 0; border: 2px solid #4D1979; border-radius: 16px; overflow: hidden;"><div style="background: #4D1979; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">Season Opener &middot; Final</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Saturday, August 29</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 1.5em; font-weight: 900; color: #111111; line-height: 1.2;">TCU vs North Carolina</div><div style="font-size: 0.8em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Aviva Stadium, Dublin &middot; 11 a.m. CT &middot; ESPN</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">✅ Worn: The Black Frog Horn Alternate &middot; Final: North Carolina 15, TCU 10</div><div style="margin-top: 6px; font-size: 0.95em; color: #444; line-height: 1.5;">Paired with the Clover Frog helmet. North Carolina countered in the white throwback and took the opener 15-10 in the Dublin rain.</div></div></div>
 
@@ -58,7 +60,7 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
   <div style="background: #4D1979; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #4D1979; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
+  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple Helmet / Black Jersey</div></div>
   <div style="background: #4D1979; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4D1979; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
@@ -80,7 +82,7 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
 
 **October 17 at Baylor**, McLane Stadium. White expected. The Revivalry, and the best candidate on the road slate for something out of the ordinary. See our [Baylor 2026 uniform schedule](/stories/baylor-uniform-schedule-2026) for the other side.
 
-**October 24 vs. West Virginia**, Amon G. Carter Stadium. Purple expected.
+**October 24 vs. West Virginia**, Amon G. Carter Stadium. Purple expected. **Worn: purple helmet and black jersey** for Homecoming, confirmed from the team's game photos. West Virginia wore all white, with the gold Flying WV on a white helmet. **Final: West Virginia 24, TCU 20.**
 
 **October 31 vs. Kansas**, Amon G. Carter Stadium. Halloween at home, which is the obvious slot for the black set to come back. Watch this one.
 

@@ -3,7 +3,7 @@ title: "San Diego State Uniform Schedule 2026: Every Jersey and When the Aztecs 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What San Diego State wears every game in 2026: the black home set, the white road set, the new Age of the Jaguar red alternate, and every date."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 50%, #A6192E 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 San Diego State opened its first Pac-12 season in black on black, followed it with white on white, and then announced a red jersey with red pants for the first time in program history. This is the full San Diego State 2026 uniform schedule: the black home set, the white road set, the new Age of the Jaguar alternate that debuted against James Madison on September 19, and a week-by-week outlook for all twelve games plus the Pac-12 flex date. We update this page as each combination is confirmed.
+
+**Update, October 24:** San Diego State wore **a red helmet, white jersey and white pants with a red side panel** at Colorado State on Saturday, confirmed from San Diego State's game photos, and lost 56-49. **Final: Colorado State 56, San Diego State 49.**
 
 ## The San Diego State 2026 Uniform Sets
 
@@ -54,7 +56,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Black / Black</div></div>
   <div style="background: #ffffff; color: #A6192E; border: 2px solid #A6192E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #A6192E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -84,7 +86,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AztecFB/status/1982219979052535878"></a></blockquote>
 </div>
 
-**October 24 at Colorado State.** White expected. An afternoon trip to Canvas Stadium against a green home side.
+**October 24 at Colorado State.** White expected. An afternoon trip to Canvas Stadium against a green home side. **Worn: a red helmet, white jersey and white pants with a red side panel**, confirmed from San Diego State's game photos. Colorado State wore a green helmet, green jersey and white pants. **Final: Colorado State 56, San Diego State 49.**
 
 **October 31 vs. Washington State.** Black expected, and this is the home date we are watching hardest. Halloween, a 4 p.m. Pacific kickoff on CBS Sports Network, and a program that just built an alternate around a night-sky god. If anything extra is coming, it comes here.
 
@@ -104,7 +106,7 @@ Through five games, San Diego State had used three combinations and two helmets,
 
 **What is San Diego State wearing this week?**
 
-San Diego State wore the scarlet helmet, white jersey and white pants at Oregon State on Saturday, October 10, confirmed from the game photos, and lost 66-14 to fall to 2-4. The week before, the Aztecs wore the red helmet, black jersey and black pants in a 31-29 win over Texas State. Next is Fresno State at Snapdragon Stadium on October 17, the Battle for the Old Oil Can, where black is expected. The week-by-week grid above lists every game with the expected set.
+San Diego State wore a red helmet, white jersey and white pants with a red side panel at Colorado State on Saturday, October 24, confirmed from San Diego State's game photos, and lost 56-49. Earlier this season, San Diego State wore the scarlet helmet, white jersey and white pants at Oregon State on Saturday, October 10, confirmed from the game photos, and lost 66-14 to fall to 2-4. The week before, the Aztecs wore the red helmet, black jersey and black pants in a 31-29 win over Texas State. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are San Diego State's football uniforms for 2026?**
 

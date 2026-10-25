@@ -3,7 +3,7 @@ title: "Liberty Uniform Schedule 2026: Every Jersey and When the Flames Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-09"
+updatedDate: "2026-10-25"
 excerpt: "What Liberty wears every game in 2026: the red home jersey, the white road set, the navy and black alternates, and the full Flames uniform schedule."
 gradient: "linear-gradient(135deg, #0a254e 0%, #14386e 55%, #B72025 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Liberty owns one of the deepest closets in Conference USA and is not shy about opening it. Four jersey colors, four helmet shells, and a habit of building a new look for a specific Saturday. This is the full Liberty 2026 uniform schedule: the red home set, the white road set, the navy and black alternates, the custom helmets, and a week by week outlook for all twelve games in Jamey Chadwell's fourth season. We update this page as each combination is confirmed.
+
+**Update, October 22:** Liberty beat Kennesaw State **34-6** on Thursday night in a **red helmet, white jersey with the Liberty script and red pants**, confirmed from the team's game photos.
 
 ## The Liberty 2026 Uniform Sets
 
@@ -54,7 +56,7 @@ The default helmet is still the red shell with the white Flames script on the si
   <div style="background: #f1f3f8; color: #333; border: 2px solid #B72025; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 2 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Delaware</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Red</div></div>
   <div style="background: #0A254E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 8 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Sam Houston</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Navy</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kennesaw State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #B72025; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kennesaw State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #B72025; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs FIU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at New Mexico State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #B72025; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Middle Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red (Watch This One)</div></div>
@@ -86,7 +88,7 @@ The default helmet is still the red shell with the white Flames script on the si
 
 **October 17.** Bye.
 
-**October 22 at Kennesaw State.** White expected. Another Thursday, 7 p.m. Eastern, at Fifth Third Stadium.
+**October 22 at Kennesaw State.** White expected. Another Thursday, 7 p.m. Eastern, at Fifth Third Stadium. **Worn: red helmet, white jersey with the Liberty script, red pants**, confirmed from the team's game photos. **Final: Liberty 34, Kennesaw State 6.**
 
 **October 31 vs. FIU.** Red expected, and this is the obvious blackout candidate. It is Homecoming and Hall of Fame Weekend, it is Halloween, and Liberty already owns a full black helmet, jersey and pants set that it wore against James Madison in 2025. Kickoff is 3:30 p.m. Eastern.
 
@@ -116,7 +118,7 @@ Liberty has the jerseys to do almost anything and the willingness to use them, w
 
 **What jersey is Liberty wearing this week?**
 
-Liberty wore all white at Coastal Carolina on Thursday, September 24, white helmet, white jersey and white pants, in a 34-17 win. Next is Delaware on Friday, October 2, and Liberty has confirmed a white helmet with a red facemask, white jersey and red pants. On September 19 against Ball State, it was a navy helmet with the red LU, a navy jersey and white pants in a 51-15 win. The navy was a change from the all red look, red helmet with red jersey and red pants, that the Flames wore against Gardner-Webb on September 12, and it means red is not automatic at Williams Stadium this season. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Liberty wore a red helmet, a white jersey with the Liberty script and red pants at Kennesaw State on Thursday, October 22, confirmed from the team's game photos, and won 34-6. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Liberty's football uniforms for 2026?**
 

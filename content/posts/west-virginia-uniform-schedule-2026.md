@@ -3,7 +3,7 @@ title: "West Virginia Uniform Schedule 2026: Every Jersey and When the Mountaine
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "West Virginia uniform schedule 2026: every Mountaineers jersey by week, the White Out opener, Gold Rush, Coal Rush black uniforms, and what WVU wears this week."
 gradient: "linear-gradient(135deg, #002855 0%, #0b3a6e 55%, #EAAA00 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 West Virginia opened 2026 in all white for Pat White and has worn a different look in each of its six games, most recently all black for Coal Rush in a 52-31 loss to Arizona on October 10. Next is Cincinnati at home on October 17 for Homecoming, where navy or gold is expected. This is the full West Virginia 2026 uniform schedule: navy, gold, and white jerseys that mix freely with navy, gold, and white pants, a new gloss white helmet, the black Coal Rush set, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** West Virginia wore **all white** at TCU, with the gold Flying WV on a white helmet, confirmed from the team's game photos, and won **24-20**.
 
 ## The West Virginia 2026 Uniform Sets
 
@@ -38,7 +40,7 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
   <div style="background: #ffffff; color: #14284b; border: 2px solid #EAAA00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Navy</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #002855; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy or Gold</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #002855; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
@@ -66,7 +68,7 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
 
 **October 17 vs. Cincinnati.** Navy or gold expected. Homecoming doubles as Stripe the Stadium, with even-numbered sections and students in gold and odd-numbered sections in blue, so the uniform could lean either way. Navy is the home default.
 
-**October 24 at TCU.** White expected. TCU wears purple at home, so we expect a clean white-on-purple matchup in Fort Worth. More on the [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026).
+**October 24 at TCU.** White expected. TCU wears purple at home, so we expect a clean white-on-purple matchup in Fort Worth. More on the [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026). **Worn: all white**, the white helmet with the gold Flying WV, white jersey and white pants, confirmed from the team's game photos. TCU wore a purple helmet and black jersey for Homecoming. **Final: West Virginia 24, TCU 20.**
 
 **October 31.** Bye.
 
@@ -86,7 +88,7 @@ Six games in, West Virginia has shown six different looks: head-to-toe white for
 
 **What jersey is West Virginia wearing this week?**
 
-West Virginia wore all black for Coal Rush against Arizona on Saturday, October 10: black helmet, black jersey and black pants, confirmed from the game photos, in a 52-31 loss that dropped the Mountaineers to 3-3. The week before, it wore the white helmet, white jersey and navy pants at Iowa State. Next up is Cincinnati at home on October 17, Homecoming and Stripe the Stadium, where navy or gold is expected. The grid above lists every game with the expected set.
+West Virginia wore all white at TCU on Saturday, October 24: the white helmet with the gold Flying WV, a white jersey and white pants, confirmed from the team's game photos, in a 24-20 win. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The grid above lists every game with the expected set.
 
 **What are West Virginia's football uniforms for 2026?**
 

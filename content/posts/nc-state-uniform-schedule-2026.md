@@ -3,7 +3,7 @@ title: "NC State Uniform Schedule 2026: Every Jersey and When the Wolfpack Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "NC State uniform schedule 2026: red home jerseys, the white road set, the Wolfpack Warriors camo alternate, and every Wolfpack game's jersey week by week."
 gradient: "linear-gradient(135deg, #CC0000 0%, #990000 55%, #111111 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 NC State used five different looks in its first five games: a red helmet over white and red at Virginia, full black camo for the home opener, a red helmet over white and white at Vanderbilt, then the white helmet and red jersey at home, over red pants against App State and white pants against Louisville. Against Wake Forest on October 10 it went back to the App State combination: white helmet, red jersey, red pants. This is the full NC State 2026 uniform schedule: the red home set, the white road set, the black alternate, the new Wolfpack Warriors camo uniform, every helmet in the rotation, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 23:** NC State wore **a black helmet and white jersey with red numbers** at Stanford on Friday, confirmed from NC State's tunnel photos, and lost 31-28. **Final: Stanford 31, NC State 28.**
 
 ## The NC State 2026 Uniform Sets
 
@@ -38,7 +40,7 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / White</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Red</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black Helmet / White Jersey</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
@@ -62,7 +64,7 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
 
 **October 17.** Bye.
 
-**October 23 at Stanford.** White expected. NC State's first game ever at Stanford, a Friday night kickoff at 10:30 p.m. Eastern (7:30 p.m. Pacific) on ESPN. ESPN files it under October 24 because its feed runs on UTC.
+**October 23 at Stanford.** White expected. NC State's first game ever at Stanford, a Friday night kickoff at 10:30 p.m. Eastern (7:30 p.m. Pacific) on ESPN. ESPN files it under October 24 because its feed runs on UTC. **Worn: a black helmet and white jersey with red numbers**, confirmed from NC State's tunnel photos. The pants were not visible in the photos we saw. Stanford wore all red. **Final: Stanford 31, NC State 28.**
 
 **October 31 vs. California.** Red expected. This is Homecoming, on Halloween.
 
@@ -82,7 +84,7 @@ NC State has already shown its range: a traditional road look with a quieter Tuf
 
 **What is NC State wearing this week?**
 
-NC State wore the white helmet, red jersey and red pants against Wake Forest on Saturday, October 10, confirmed from the broadcast, in a 38-14 loss that dropped the Wolfpack to 3-3. The week before, they wore white pants with the same helmet and jersey in a 31-28 win over Louisville. After a bye on October 17, next up is Stanford on the road on Friday, October 23, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+NC State wore a black helmet and white jersey with red numbers at Stanford on Friday, October 23, confirmed from NC State's tunnel photos, and lost 31-28. Earlier this season, NC State wore the white helmet, red jersey and red pants against Wake Forest on Saturday, October 10, confirmed from the broadcast, in a 38-14 loss that dropped the Wolfpack to 3-3. The week before, they wore white pants with the same helmet and jersey in a 31-28 win over Louisville. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are NC State's football uniforms for 2026?**
 

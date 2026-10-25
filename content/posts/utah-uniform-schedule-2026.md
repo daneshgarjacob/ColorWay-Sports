@@ -3,7 +3,7 @@ title: "Utah Uniform Schedule 2026: Every Jersey and When the Utes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "Utah Utes uniform schedule 2026: every jersey, helmet and uniform combo week by week, from the all-red opener to Ute Proud, Red Out and the Holy War."
 gradient: "linear-gradient(135deg, #CC0000 0%, #a10000 55%, #000000 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Utah opened 2026 in all red twice and then broke out the Ute Proud look against Utah State on September 19, a white helmet with tribal interlocking U's over a red jersey and red pants, in a 33-0 win. This is the full Utah 2026 uniform schedule: the red home set, the white road set, the black alternate, the Ute Proud look and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** Utah went **all black against No. 14 Houston**, black helmet, black jersey and black pants, confirmed from the team's game photos, and won **21-13**.
 
 ## The Utah 2026 Uniform Sets
 
@@ -37,7 +39,7 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Icy White</div></div>
-  <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -59,7 +61,7 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
 
 **October 17 at Colorado**, 10:15 p.m. Eastern on ESPN. ★ Confirmed by Utah: **the icy white set, for the second straight week**. On Wednesday Utah posted "One week wasn't enough. Run it back." It is a white helmet covered in a frosty mountain graphic with the Utah script on the side, a white jersey with red trim and white pants with red stripes. The Rumble in the Rockies at Folsom Field, where Colorado is expected in black for Family Weekend and a Gold Rush crowd, with the gold jersey a real possibility. Every Week 7 look is in [our Week 7 uniform guide](/stories/college-football-week-7-uniforms-2026). More on the Buffaloes' options on our [Colorado 2026 uniform schedule](/stories/colorado-uniform-schedule-2026).
 
-**October 24 vs. Houston.** Red expected. Homecoming and Parent Family Weekend, a traditional spot for a themed helmet if Utah wants one.
+**October 24 vs. Houston.** Red expected. Homecoming and Parent Family Weekend, a traditional spot for a themed helmet if Utah wants one. **Worn: all black**, a black helmet, black jersey and black pants, confirmed from the team's game photos. Houston wore a white helmet, white jersey and red pants. **Final: Utah 21, Houston 13.**
 
 **October 31 at Cincinnati.** White expected. Halloween at Nippert Stadium. Last season's all-black Dark Mode game with hand-painted helmets came against Cincinnati in Salt Lake City, but this year's meeting is on the road, where Utah wears white.
 
@@ -79,7 +81,7 @@ Five games, three looks: Utah went all red three times, including the road trip 
 
 **What jersey is Utah wearing this week?**
 
-Utah wore all white against Kansas on Saturday, October 10: the white helmet, white jersey and white pants, confirmed from the broadcast, in a 41-24 win that moved the Utes to 5-0. Red had been expected. Before the bye, Utah wore all red at Iowa State on September 26 in a 31-17 win. Next is the Rumble in the Rockies at Colorado on October 17, where Utah runs back the icy white set for a second straight week: a white helmet with a frosty mountain graphic, a white jersey and white pants, as posted by the team.
+Utah wore all black against Houston on Saturday, October 24: a black helmet, black jersey and black pants, confirmed from the team's game photos, in a 21-13 win. Red had been expected. It came after two straight weeks in the icy white set. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
 
 **What are Utah's football uniforms for 2026?**
 

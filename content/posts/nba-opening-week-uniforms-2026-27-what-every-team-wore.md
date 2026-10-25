@@ -3,8 +3,8 @@ title: "NBA Opening Week 2026-27 Uniforms: What Every Team Wore, From the Knicks
 author: "colorway-sports-staff"
 category: NBA
 date: "2026-10-22"
-updatedDate: "2026-10-23"
-excerpt: "Every NBA opening week uniform, Oct. 20-22, 2026: the Knicks' gold-trimmed ring night white, the Nets' Classic Edition debut, the Lakers in gold, and the Bulls in white at Toronto when the official schedule said black."
+updatedDate: "2026-10-25"
+excerpt: "Every NBA opening week uniform, Oct. 20-24, 2026: the Knicks' gold-trimmed ring night white, the Nets' Classic Edition debut, the Lakers in gold, and the Bulls in white at Toronto when the official schedule said black."
 gradient: "linear-gradient(135deg, #1D428A 0%, #0B1A2F 55%, #C8102E 130%)"
 cardStyle: words
 kicker: "This Week"
@@ -86,6 +86,36 @@ Both Thursday games went exactly to schedule. We confirmed all four jerseys in t
 - **Cleveland Cavaliers at Philadelphia 76ers. Final: 76ers 114, Cavaliers 106.** Cavaliers: scheduled **Association white**, wore the white (confirmed). 76ers: scheduled **Icon Edition**, wore the **royal blue** Icon (confirmed). [Cavaliers schedule](/stories/cavaliers-uniform-schedule-2026-27) · [76ers schedule](/stories/76ers-uniform-schedule-2026-27)
 - **Denver Nuggets at Oklahoma City Thunder. Final: Thunder 96, Nuggets 84.** Nuggets: scheduled **Association white**, wore the white (confirmed). Thunder: scheduled **Icon Edition**, wore the **blue** Icon (confirmed). [Nuggets schedule](/stories/nuggets-uniform-schedule-2026-27) · [Thunder schedule](/stories/oklahoma-city-thunder-uniform-schedule-2026-27)
 
+### Friday, October 23
+
+Twelve games, and all 24 jerseys went exactly to the NBA's schedule. We confirmed every one in the game highlights, linked on each line. The color-on-color calls held up: the Knicks' black Statement against the Celtics' green, the Mavericks' navy against the Pacers' gold pinstripes, the Rockets' red against the Spurs' black and the Trail Blazers' red against the Kings' black.
+
+- **Chicago Bulls at Milwaukee Bucks. Final: Bulls 132, Bucks 125.** Bulls: scheduled **Association white**, wore the white (confirmed). Bucks: scheduled **Icon Edition**, wore the **green** Icon (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909848) · [Bulls schedule](/stories/bulls-uniform-schedule-2026-27) · [Bucks schedule](/stories/bucks-uniform-schedule-2026-27)
+- **New York Knicks at Boston Celtics. Final: Celtics 107, Knicks 103.** Knicks: scheduled **Statement Edition**, wore the **black** Statement (confirmed). Celtics: scheduled **Icon Edition**, wore the **green** Icon (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909095) · [Knicks schedule](/stories/knicks-uniform-schedule-2026-27) · [Celtics schedule](/stories/celtics-uniform-schedule-2026-27)
+- **Atlanta Hawks at Charlotte Hornets. Final: Hawks 128, Hornets 81.** Hawks: scheduled **Association white**, wore the white (confirmed). Hornets: scheduled **Statement Edition**, wore the **purple** Statement (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909843) · [Hawks schedule](/stories/hawks-uniform-schedule-2026-27) · [Hornets schedule](/stories/hornets-uniform-schedule-2026-27)
+- **Dallas Mavericks at Indiana Pacers. Final: Mavericks 121, Pacers 105.** Mavericks: scheduled **Statement Edition**, wore the **navy "MAVS"** Statement (confirmed). Pacers: scheduled **Statement Edition**, wore the **gold pinstripe** Statement (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909844) · [Mavericks schedule](/stories/mavericks-uniform-schedule-2026-27) · [Pacers schedule](/stories/pacers-uniform-schedule-2026-27)
+- **Minnesota Timberwolves at Orlando Magic. Final: Timberwolves 115, Magic 93.** Timberwolves: scheduled **Icon Edition**, wore the **blue** Icon (confirmed). Magic: scheduled **Association white**, wore the white (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909845) · [Timberwolves schedule](/stories/timberwolves-uniform-schedule-2026-27) · [Magic schedule](/stories/orlando-magic-uniform-schedule-2026-27)
+- **Toronto Raptors at Washington Wizards. Final: Raptors 112, Wizards 102.** Raptors: scheduled **Statement Edition**, wore the **black** Statement (confirmed). Wizards: scheduled **Association white**, wore the white (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909846) · [Raptors schedule](/stories/raptors-uniform-schedule-2026-27) · [Wizards schedule](/stories/wizards-uniform-schedule-2026-27)
+- **Detroit Pistons at Miami Heat. Final: Pistons 128, Heat 111.** Pistons: scheduled **Association white**, wore the white (confirmed). Heat: scheduled **Icon Edition**, wore the **black** Icon (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909847) · [Pistons schedule](/stories/pistons-uniform-schedule-2026-27) · [Heat schedule](/stories/miami-heat-uniform-schedule-2026-27)
+- **Houston Rockets at San Antonio Spurs. Final: Rockets 114, Spurs 110.** Rockets: scheduled **Icon Edition**, wore the **red** Icon (confirmed). Spurs: scheduled **Icon Edition**, wore the **black** Icon (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909096) · [Rockets schedule](/stories/rockets-uniform-schedule-2026-27) · [Spurs schedule](/stories/spurs-uniform-schedule-2026-27)
+- **New Orleans Pelicans at Utah Jazz. Final: Jazz 120, Pelicans 119.** Pelicans: scheduled **Icon Edition**, wore the **navy** Icon (confirmed). Jazz: scheduled **Association white**, wore the white (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909849) · [Pelicans schedule](/stories/pelicans-uniform-schedule-2026-27) · [Jazz schedule](/stories/utah-jazz-uniform-schedule-2026-27)
+- **Memphis Grizzlies at Golden State Warriors. Final: Grizzlies 111, Warriors 108.** Grizzlies: scheduled **Icon Edition**, wore the **navy** Icon (confirmed). Warriors: scheduled **Association white**, wore the white (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909850) · [Grizzlies schedule](/stories/grizzlies-uniform-schedule-2026-27) · [Warriors schedule](/stories/warriors-uniform-schedule-2026-27)
+- **LA Clippers at Los Angeles Lakers. Final: Lakers 125, Clippers 117.** Clippers: scheduled **Association white**, wore the white (confirmed). Lakers: scheduled **Statement Edition**, wore the **purple** Statement (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909851) · [Clippers schedule](/stories/clippers-uniform-schedule-2026-27) · [Lakers schedule](/stories/lakers-uniform-schedule-2026-27)
+- **Portland Trail Blazers at Sacramento Kings. Final: Trail Blazers 128, Kings 120.** Trail Blazers: scheduled **Statement Edition**, wore the **red** Statement (confirmed). Kings: scheduled **Icon Edition**, wore the **black** Icon (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909852) · [Trail Blazers schedule](/stories/trail-blazers-uniform-schedule-2026-27) · [Kings schedule](/stories/sacramento-kings-uniform-schedule-2026-27)
+
+### Saturday, October 24
+
+Eight more games, 16 more jerseys, and again every team wore what the schedule called, confirmed in the game highlights.
+
+- **Miami Heat at Charlotte Hornets. Final: Hornets 115, Heat 110.** Heat: scheduled **Association white**, wore the white (confirmed). Hornets: scheduled **Icon Edition**, wore the **teal** Icon (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909853) · [Heat schedule](/stories/miami-heat-uniform-schedule-2026-27) · [Hornets schedule](/stories/hornets-uniform-schedule-2026-27)
+- **Brooklyn Nets at Cleveland Cavaliers. Final: Cavaliers 125, Nets 121.** Nets: scheduled **Icon Edition**, wore the **black** Icon (confirmed). Cavaliers: scheduled **Association white**, wore the white (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909854) · [Nets schedule](/stories/nets-uniform-schedule-2026-27) · [Cavaliers schedule](/stories/cavaliers-uniform-schedule-2026-27)
+- **Milwaukee Bucks at Philadelphia 76ers. Final: 76ers 127, Bucks 116.** Bucks: scheduled **Icon Edition**, wore the **green** Icon (confirmed). 76ers: scheduled **Association white**, wore the white (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909855) · [Bucks schedule](/stories/bucks-uniform-schedule-2026-27) · [76ers schedule](/stories/76ers-uniform-schedule-2026-27)
+- **Washington Wizards at Chicago Bulls. Final: Wizards 124, Bulls 120.** Wizards: scheduled **Statement Edition**, wore the **navy** Statement (confirmed). Bulls: scheduled **Association white**, wore the white (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909857) · [Wizards schedule](/stories/wizards-uniform-schedule-2026-27) · [Bulls schedule](/stories/bulls-uniform-schedule-2026-27)
+- **San Antonio Spurs at Dallas Mavericks. Final: Spurs 122, Mavericks 106.** Spurs: scheduled **Association white**, wore the white (confirmed). Mavericks: scheduled **Icon Edition**, wore the **royal blue** Icon (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909858) · [Spurs schedule](/stories/spurs-uniform-schedule-2026-27) · [Mavericks schedule](/stories/mavericks-uniform-schedule-2026-27)
+- **Houston Rockets at Atlanta Hawks. Final: Rockets 121, Hawks 114.** Rockets: scheduled **Icon Edition**, wore the **red** Icon (confirmed). Hawks: scheduled **Association white**, wore the white (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909856) · [Rockets schedule](/stories/rockets-uniform-schedule-2026-27) · [Hawks schedule](/stories/hawks-uniform-schedule-2026-27)
+- **New Orleans Pelicans at Denver Nuggets. Final: Nuggets 141, Pelicans 135 (OT).** Pelicans: scheduled **Association white**, wore the white (confirmed). Nuggets: scheduled **Icon Edition**, wore the **navy** Icon (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909859) · [Pelicans schedule](/stories/pelicans-uniform-schedule-2026-27) · [Nuggets schedule](/stories/nuggets-uniform-schedule-2026-27)
+- **Golden State Warriors at Phoenix Suns. Final: Suns 131, Warriors 122.** Warriors: scheduled **Association white**, wore the white (confirmed). Suns: scheduled **Icon Edition**, wore the **purple** Icon (confirmed). [Game highlights](https://www.espn.com/nba/game/_/gameId/401909860) · [Warriors schedule](/stories/warriors-uniform-schedule-2026-27) · [Suns schedule](/stories/suns-uniform-schedule-2026-27)
+
 ## The Biggest Surprises
 
 **1. The Bulls threw out the schedule on day one.** Twenty-eight teams played through Wednesday, and 27 of them wore exactly what the NBA said they would. Chicago was the exception. The league had the Bulls in the Statement Edition at Toronto, and they came out in white. We have not seen an explanation from the team yet. Our hot take: it was the right call. Black against the Raptors' red is a dark, muddy matchup on TV. White against red is the cleanest look in basketball.
@@ -118,7 +148,7 @@ It is white with the red "Nets" script and red, white and blue piping, tied to t
 
 **Did any NBA team wear a City Edition in opening week?**
 
-No. No team was scheduled for a City Edition from October 20 through October 22, and none of the 28 teams that played through October 21 wore one. The City Edition debuts start later in the season. Each team's schedule post lists its City Edition dates.
+No. No team was scheduled for a City Edition from October 20 through October 24, and no team wore one. The City Edition debuts start later in the season. Each team's schedule post lists its City Edition dates.
 
 **What did the 76ers and Cavaliers wear on October 22?**
 
@@ -128,13 +158,17 @@ Exactly what the NBA schedule called: Philadelphia in its royal blue Icon Editio
 
 Oklahoma City wore its blue Icon Edition and Denver wore the Association white, both as scheduled and confirmed in the Thunder's game photos. The Thunder won 96-84.
 
+**Did any team break from the NBA uniform schedule on October 23 or 24?**
+
+No. All 20 games on Friday and Saturday went to script, 40 jerseys in all, each confirmed in the game highlights. Chicago's white at Toronto on October 21 is still the only schedule miss of the season.
+
 **Where can I find what every NBA team is wearing for every game?**
 
 Every team has a 2026-27 uniform schedule post with its full game-by-game jersey list, linked from our [NBA uniforms 2026-27 guide](/stories/nba-uniforms-2026-27). The rows update to what was actually worn the morning after each game.
 
 **How do you confirm what a team wore?**
 
-We check the official game photos the teams post, from either side of the matchup, for every game. If we have not seen a photo, we label the jersey "as scheduled" instead of guessing.
+We check the official game photos the teams post, from either side of the matchup, and the game highlights for every game. If we have not seen a photo, we label the jersey "as scheduled" instead of guessing.
 
 **Who won the NBA opening night games?**
 
@@ -142,4 +176,4 @@ On October 20, the Pistons beat the Celtics 121-113, the 76ers beat the Knicks 1
 
 ## The Bottom Line
 
-Opening week was almost perfectly on schedule. Twenty-seven of the 28 teams that played through Wednesday wore exactly what the NBA said they would, and the one that did not, Chicago, swapped black for white at Toronto. The look of the week belonged to the Knicks, whose gold ring night white was the best uniform on any floor, even in a loss. The Nets brought out their Classic Edition early, and the Lakers opened in gold with Dieter on the organ. Thursday's two games went to script as well, so 29 of the 30 teams wore exactly what the NBA called in opening week. Follow each team's schedule post for every call the rest of the way.
+Opening week was almost perfectly on schedule. Twenty-seven of the 28 teams that played through Wednesday wore exactly what the NBA said they would, and the one that did not, Chicago, swapped black for white at Toronto. The look of the week belonged to the Knicks, whose gold ring night white was the best uniform on any floor, even in a loss. The Nets brought out their Classic Edition early, and the Lakers opened in gold with Dieter on the organ. Thursday's two games went to script as well, so 29 of the 30 teams wore exactly what the NBA called in opening week. Friday and Saturday made it 20 more games without a single change. Follow each team's schedule post for every call the rest of the way.

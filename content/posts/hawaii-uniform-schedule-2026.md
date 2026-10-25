@@ -3,7 +3,7 @@ title: "Hawaii Uniform Schedule 2026: Every Jersey and When the Rainbow Warriors
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-11"
+updatedDate: "2026-10-25"
 excerpt: "Hawaii uniform schedule 2026: the black set, the white set, White Out and blackout nights, and every Rainbow Warriors game with the jersey worn or expected."
 gradient: "linear-gradient(135deg, #024731 0%, #0b3b2a 55%, #111111 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Hawaii has already worn all white and all black at home this season, a week apart, which makes the Rainbow Warriors one of the few programs in the country with no fixed home jersey. This is the full Hawaii 2026 uniform schedule: the black set, the white set, the two helmets, the Senior Night White Out on the calendar, and a week-by-week outlook for all twelve games, including early morning kickoffs in Laramie and DeKalb. We update this page as each combination is confirmed.
+
+**Update, October 24:** Hawaii wore **all white: white helmet, white jersey with green trim and white pants** at Northern Illinois on Saturday, confirmed from Hawaii's game photos, and won 56-21. **Final: Hawaii 56, Northern Illinois 21.**
 
 ## The Hawaii 2026 Uniform Sets
 
@@ -48,7 +50,7 @@ The black set was revealed the day before, with the feathered black helmet.
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Jose State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #024731; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs New Mexico</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #024731; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northern Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTEP</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Dakota State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -78,7 +80,7 @@ All times below are Hawaii time.
 
 **October 17 vs. New Mexico.** Black expected. Homecoming at the Ching Complex, kickoff time still to be set. Homecoming is one of the two dates on any schedule where a special look is most likely.
 
-**October 24 at Northern Illinois.** White expected. A 9:30 a.m. kickoff in DeKalb on MW+, Hawaii's first Mountain West trip to Illinois.
+**October 24 at Northern Illinois.** White expected. A 9:30 a.m. kickoff in DeKalb on MW+, Hawaii's first Mountain West trip to Illinois. **Worn: all white: white helmet, white jersey with green trim and white pants**, confirmed from Hawaii's game photos. **Final: Hawaii 56, Northern Illinois 21.**
 
 **October 31.** Bye.
 
@@ -116,7 +118,7 @@ Six games in, Hawaii is 1-5 and has worn all white twice, all black three times 
 
 **What jersey is Hawaii wearing this week?**
 
-Hawaii wore all white at Arizona State on Saturday, October 10, white helmet, white jersey and white pants, confirmed from the broadcast, and lost 30-12 to fall to 1-5. Next is Homecoming against New Mexico at the Ching Complex on October 17, where black is expected.
+Hawaii wore all white: white helmet, white jersey with green trim and white pants at Northern Illinois on Saturday, October 24, confirmed from Hawaii's game photos, and won 56-21. Earlier this season, Hawaii wore all white at Arizona State on Saturday, October 10, white helmet, white jersey and white pants, confirmed from the broadcast, and lost 30-12 to fall to 1-5. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Hawaii's football uniforms for 2026?**
 

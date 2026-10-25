@@ -3,7 +3,7 @@ title: "Kansas Uniform Schedule 2026: Every Jersey and When the Jayhawks Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What Kansas wears every game in 2026: blue home jerseys, the white road set, the red alternate, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #0051BA 0%, #1a5fc4 55%, #E8000D 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Kansas has blue, white, red and black jerseys, two helmets, and a habit of mixing them without much warning. This is the full Kansas 2026 uniform schedule: the blue home set, the white road set, the red alternate that showed up in the Border War and again against Middle Tennessee, the black jersey it wore at Utah on October 10, and a week-by-week outlook for all twelve games, including the first college football game ever played at Wembley Stadium. We update this page as each combination is confirmed.
+
+**Update, October 24:** Kansas wore a **white helmet, royal blue jersey and royal blue pants** for Homecoming against Baylor, confirmed from the team's game photos, and won **25-24**.
 
 ## The Kansas 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
   <div style="background: #E8000D; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Middle Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Blue</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black Jersey / Black Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #0051BA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #0051BA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0051BA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -58,7 +60,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 **October 17 at Kansas State.** White expected. The Sunflower Showdown in Manhattan, and Kansas in white against a purple home side is one of the better color clashes on the conference calendar.
 
-**October 24 vs. Baylor.** Blue expected. Homecoming weekend is the traditional slot for an alternate if one exists, so this is the home date we are watching most closely.
+**October 24 vs. Baylor.** Blue expected. Homecoming weekend is the traditional slot for an alternate if one exists, so this is the home date we are watching most closely. **Worn: white helmet, royal blue jersey and royal blue pants** for Homecoming, confirmed from the team's game photos. Baylor wore a green helmet with the gold interlocking BU, a white jersey and green pants. **Final: Kansas 25, Baylor 24.**
 
 **October 31 at TCU.** White expected. Halloween in Fort Worth, and the last time Kansas visited Amon G. Carter Stadium in 2024 it went all red. Visitor rules say white this time.
 
@@ -78,7 +80,7 @@ Five games in, the confirmed jerseys are blue, red and black, with both helmets 
 
 **What jersey is Kansas wearing this week?**
 
-Kansas wore a black jersey with KANSAS across the chest and black pants at Utah on Saturday, October 10, confirmed from the broadcast. The helmet was not clear enough in the frames we saw to name its color. The Jayhawks lost 41-24 and are 2-3. A week earlier they wore the white helmet with the Jayhawk, red jersey and blue pants in a 55-0 win over Middle Tennessee. Next is the Sunflower Showdown at Kansas State on October 17, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Kansas wore a white helmet, royal blue jersey and royal blue pants for Homecoming against Baylor on Saturday, October 24, confirmed from the team's game photos, and won 25-24. Next is at TCU on Halloween, October 31, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Kansas's football uniforms for 2026?**
 

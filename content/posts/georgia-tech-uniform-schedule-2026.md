@@ -3,7 +3,7 @@ title: "Georgia Tech Uniform Schedule 2026: Every Jersey and When the Yellow Jac
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What Georgia Tech wears every game in 2026: the new Under Armour gold and white jerseys, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #003057 0%, #0b3a6b 55%, #B3A369 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Georgia Tech changed brands this summer, and the wardrobe changed with it. This is the full Georgia Tech 2026 uniform schedule: the new Under Armour gold and white sets, the gold and white helmets, the three pant colors, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** Georgia Tech wore a **gold helmet, white jersey and gold pants** for Homecoming against Boston College, confirmed from the team's game photos, and lost **49-27**.
 
 ## The Georgia Tech 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Te
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #B3A369; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #003057; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Gold</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #B3A369; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003057; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -58,7 +60,7 @@ The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Te
 
 **October 17 at Virginia Tech.** White expected. Lane Stadium.
 
-**October 24 vs. Boston College.** Gold expected.
+**October 24 vs. Boston College.** Gold expected. **Worn: gold helmet, white jersey and gold pants** for Homecoming, confirmed from the team's game photos, rather than the gold jersey we expected. Boston College wore a gold helmet and maroon jersey. **Final: Boston College 49, Georgia Tech 27.**
 
 **October 31 at Pitt.** White expected. Halloween in Pittsburgh.
 
@@ -78,7 +80,7 @@ Five games in, Georgia Tech has shown most of the new Under Armour wardrobe: the
 
 **What jersey is Georgia Tech wearing this week?**
 
-Georgia Tech wore a white helmet with gold stripes, white jersey and black pants against Duke at Bobby Dodd Stadium on Saturday, October 10, confirmed from the broadcast, and won 28-25 to move to 2-3. Gold had been expected at home. Before that came white over gold at Stanford, gold over black against Mercer, gold over white against Tennessee and the all-white opener against Colorado. Next is at Virginia Tech on October 17, where white is expected. Georgia Tech wears gold at home and white on the road in 2026, and we update the grid above as combinations are confirmed.
+Georgia Tech wore a gold helmet, white jersey and gold pants for Homecoming against Boston College at Bobby Dodd Stadium on Saturday, October 24, confirmed from the team's game photos, and lost 49-27. Gold had been expected at home. Next is at Pitt on Halloween, October 31, where white is expected. Georgia Tech wears gold at home and white on the road in 2026, and we update the grid above as combinations are confirmed.
 
 **What are Georgia Tech's uniforms for 2026?**
 

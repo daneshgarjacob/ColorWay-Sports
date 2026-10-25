@@ -3,7 +3,7 @@ title: "Colorado State Uniform Schedule 2026: The New Adidas Uniforms, Every Jer
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-24"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-25"
 excerpt: "Colorado State revealed its first adidas uniforms for the Pac-12 era. Every 2026 jersey, week by week, and what the orange A at the collar means."
 gradient: "linear-gradient(135deg, #1E4D2B 0%, #123420 55%, #C8C372 130%)"
 coverImage: "/images/posts/colorado-state-uniform-schedule-2026/jersey-sky.jpg"
@@ -16,6 +16,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Colorado State is wearing this week? This is the full Colorado State 2026 uniform schedule, game by game, and it opens a brand-new chapter: **the Rams revealed their first adidas uniforms on August 24**, days before their first season in the Pac-12 kicked off at home against Wyoming on September 5.
+
+**Update, October 24:** Colorado State wore **a green helmet, green jersey and white pants** against San Diego State on Saturday, confirmed from Colorado State's game photos, and won 56-49 for its first Pac-12 win. **Final: Colorado State 56, San Diego State 49.**
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Colorado State Athletics.</p>
 
@@ -74,7 +76,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
   <div style="background: #1E4D2B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Green / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White &middot; Thu</div></div>
-  <div style="background: #1E4D2B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #1E4D2B; color: #ffffff; border: 2px solid #C8C372; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Green / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #1E4D2B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -96,7 +98,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **October 15 at Texas State**, San Marcos. A Thursday night road game in white.
 
-**October 24 vs. San Diego State**, Fort Collins.
+**October 24 vs. San Diego State**, Fort Collins. **Worn: a green helmet, green jersey and white pants**, confirmed from Colorado State's game photos. San Diego State wore a red helmet, white jersey and white pants. **Final: Colorado State 56, San Diego State 49.**
 
 **October 31 at Utah State**, Logan. Halloween in white, unless the schedule gods get a costume idea. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
 
@@ -114,7 +116,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **What jersey is Colorado State wearing this week?**
 
-Colorado State wore the green helmet with the gold horns, green jersey and white pants against Oregon State on Saturday, October 3, for Homecoming, confirmed from the game photos, and lost the Pac-12 opener 56-26 to fall to 2-3. The Rams are off on October 10, and next is a Thursday night game at Texas State on October 15, where white is expected. Green at home, white on the road is the standard projection. This page is updated as each combination and each remaining uniform is announced.
+Colorado State wore a green helmet, green jersey and white pants against San Diego State on Saturday, October 24, confirmed from Colorado State's game photos, and won 56-49 for its first Pac-12 win. Earlier this season, Colorado State wore the green helmet with the gold horns, green jersey and white pants against Oregon State on Saturday, October 3, for Homecoming, confirmed from the game photos, and lost the Pac-12 opener 56-26 to fall to 2-3. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **Who makes Colorado State's uniforms in 2026?**
 

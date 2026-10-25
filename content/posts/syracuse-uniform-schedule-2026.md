@@ -3,7 +3,7 @@ title: "Syracuse Uniform Schedule 2026: Every Jersey and When the Orange Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What Syracuse wears every game in 2026: navy at home, white on the road, the orange helmet, and the full Orange uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002D72 0%, #1a3f85 55%, #F76900 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Syracuse used to be one of the most unpredictable dressers in the ACC. Under Fran Brown it is one of the most disciplined: navy jerseys at home, white jerseys on the road, orange helmets and orange pants almost every time. That makes the Syracuse uniform schedule easy to read, as long as you know the rule and the one thing that could break it. This is the full Syracuse 2026 uniform schedule: the navy home set, the white road set, the alternates still sitting in the closet, and a week-by-week outlook for all twelve games in Brown's third season. We update this page as each combination is confirmed.
+
+**Update, October 24:** Syracuse wore the **orange helmet, white jersey and orange pants** at North Carolina, confirmed from the team's game photos, and won **31-30 in overtime**.
 
 ## The Syracuse 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ The current Nike set arrived in June 2019 and leaned into tradition: the block S
   <div style="background: #f1f3f8; color: #333; border: 2px solid #F76900; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #002D72; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #002D72; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #002D72; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -58,7 +60,7 @@ The current Nike set arrived in June 2019 and leaned into tradition: the block S
 
 **October 17 vs. Louisville.** Navy expected. Back in the Dome after five weeks away, with Louisville in white. The [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026) covers the Cardinals.
 
-**October 24 at North Carolina.** White expected. Kenan Stadium, with the Tar Heels expected in Carolina blue. See our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026).
+**October 24 at North Carolina.** White expected. Kenan Stadium, with the Tar Heels expected in Carolina blue. See our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026). **Worn: orange helmet, white jersey and orange pants**, confirmed from the team's game photos. North Carolina wore a Carolina blue helmet and Carolina blue jersey. **Final: Syracuse 31, North Carolina 30 (OT).**
 
 **October 31 vs. SMU.** Navy expected. Halloween in the Dome, with SMU the visitor in white.
 
@@ -78,7 +80,7 @@ Syracuse has worn the orange helmet, navy jersey and orange pants in both home g
 
 **What jersey is Syracuse wearing this week?**
 
-Syracuse wore the orange helmet, white jersey and orange pants at Virginia on October 10, confirmed from the broadcast, in a 28-25 loss that dropped the Orange to 2-3. The week before, they wore the same road set in a 42-41 overtime win at UConn. Next is Louisville in the Dome on October 17, where navy is expected. We star the grid cell as soon as the combination is confirmed.
+Syracuse wore the orange helmet, white jersey and orange pants at North Carolina on Saturday, October 24, confirmed from the team's game photos, and won 31-30 in overtime. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). We star the grid cell as soon as the combination is confirmed.
 
 **What are Syracuse's football uniforms for 2026?**
 

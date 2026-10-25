@@ -3,7 +3,7 @@ title: "Navy Uniform Schedule 2026: Every Jersey and When the Midshipmen Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "What Navy wears every game in 2026: the navy home jersey, the white road set, the 1926 centennial throwback against Notre Dame, and the December tribute."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b3072 55%, #C5B783 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Navy owns two of the biggest uniform dates on the college football calendar and it has already announced what it is wearing for one of them. This is the full Navy 2026 uniform schedule: the navy home jersey, the white road set, the gold helmet that never changes, the 1926 centennial throwback the Midshipmen will wear against Notre Dame at Gillette Stadium, and the December tribute uniform that still has not been revealed. We update this page as each combination is confirmed.
+
+**Update, October 24:** Navy wore the **gold helmet, navy jersey and navy pants** for Homecoming against North Texas, confirmed from the team's halftime graphic, and lost **49-39**.
 
 ## The Navy 2026 Uniform Sets
 
@@ -42,7 +44,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Air Force</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / White</div></div>
   <div style="background: #00205B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Navy / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy (Homecoming)</div></div>
+  <div style="background: #00205B; color: #ffffff; border: 2px solid #C5B783; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Navy / Navy (Homecoming)</div></div>
   <div style="background: #C5B783; color: #00205B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame (Foxborough)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">1926 Centennial</div></div>
   <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -74,7 +76,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
 
 **October 17 at UTSA.** White expected. Indoors at the Alamodome in San Antonio, kickoff still to be announced.
 
-**October 24 vs. North Texas.** Navy expected. Homecoming at Navy-Marine Corps Memorial Stadium, 3:30 p.m. Eastern on CBS Sports Network. Homecoming is the sort of date a program sometimes saves an alternate for, but Navy has already committed its alternate to the following week. More: [North Texas uniform schedule](/stories/north-texas-uniform-schedule-2026).
+**October 24 vs. North Texas.** Navy expected. Homecoming at Navy-Marine Corps Memorial Stadium, 3:30 p.m. Eastern on CBS Sports Network. Homecoming is the sort of date a program sometimes saves an alternate for, but Navy has already committed its alternate to the following week. More: [North Texas uniform schedule](/stories/north-texas-uniform-schedule-2026). **Worn: gold helmet, navy jersey and navy pants**, confirmed from the team's halftime graphic. North Texas wore a green helmet, white jersey and white pants. **Final: North Texas 49, Navy 39.**
 
 **October 31 vs. Notre Dame, Gillette Stadium, Foxborough.** The 1926 centennial uniform, which we break down piece by piece and grade in [Navy's 1926 centennial uniform revealed](/stories/navy-1926-centennial-uniform-2026). Navy is the designated home team for the 99th meeting in the series, the first ever played at Gillette Stadium and Notre Dame's first game in the building, with a noon Eastern kickoff. One detail worth clearing up: Notre Dame's 2026 Shamrock Series uniform went to the Lambeau Field game against Wisconsin in September, not to this one, so the Irish should be in a standard white road set across from the Chevron Stripe. You can see what the Irish are wearing week to week on our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026).
 
@@ -124,7 +126,7 @@ Navy's regular season uniform schedule is simple: navy and gold at home, white o
 
 **What jersey is Navy wearing this week?**
 
-Navy wore the gold helmet, navy jersey and gold pants at home against Tulsa on Saturday, October 10, confirmed from the broadcast, and won 34-26. The Midshipmen are 2-3. The week before, at Air Force, they wore the gold helmet, white jersey and white pants in a 14-9 loss. Next up is at UTSA on October 17, where white is expected. The grid above lists every game with the expected set and we star each one as it is confirmed.
+Navy wore the gold helmet, navy jersey and navy pants for Homecoming against North Texas on Saturday, October 24, confirmed from the team's halftime graphic, and lost 49-39. Next is Notre Dame at Gillette Stadium on October 31 in the 1926 centennial uniform. The grid above lists every game with the expected set and we star each one as it is confirmed.
 
 **What are Navy's football uniforms for 2026?**
 

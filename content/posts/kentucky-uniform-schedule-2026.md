@@ -3,7 +3,7 @@ title: "Kentucky Uniform Schedule 2026: Every Jersey and When the Wildcats Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-25"
 excerpt: "Kentucky goes black helmet, white jersey, black pants at Oklahoma on Oct. 17. The full 2026 uniform schedule: blue at home, white on the road, every helmet."
 gradient: "linear-gradient(135deg, #0033A0 0%, #0a2a70 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Kentucky is wearing this week? This is the full Kentucky 2026 uniform schedule, game by game, in Will Stein's first season at Kroger Field. The short version: blue jersey at home, white jersey on the road, and the main week-to-week variable is which helmet sits on top. We update this page as each combination is confirmed.
+
+**Update, October 24:** Kentucky wore a **blue helmet with a gray jersey and gray pants** against Vanderbilt, confirmed from the team's halftime graphic, and won **34-17**.
 
 ## The Kentucky 2026 Uniform Sets
 
@@ -38,7 +40,7 @@ Twelve games, seven at Kroger Field, one bye, the Power K throwback against LSU,
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Chrome / White / White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Power K Throwback</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black / White / Black</div></div>
-  <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #8D9093; color: #ffffff; border: 2px solid #0033A0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Gray / Gray</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
@@ -69,7 +71,7 @@ Home cells are blue, road cells are white, and a star marks a combination that h
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UKFootball/status/2110115926938931520"></a></blockquote>
 </div>
 
-**October 24 vs. Vanderbilt**, Lexington. Blue expected.
+**October 24 vs. Vanderbilt**, Lexington. Blue expected. **Worn: blue helmet, gray jersey and gray pants**, confirmed from the team's halftime graphic. Vanderbilt wore a gold helmet, white jersey and gold pants. **Final: Kentucky 34, Vanderbilt 17.**
 
 **October 31.** Bye week.
 
@@ -93,7 +95,7 @@ The Kentucky 2026 uniform schedule is two jerseys and three helmets. Blue jersey
 
 **What jersey is Kentucky wearing this week?**
 
-Kentucky wore the Power K throwback against LSU at Kroger Field on Saturday, October 10, confirmed from the broadcast: white helmet with the triple stripe and the Power K, blue jersey and white pants. The Wildcats won 35-34 in overtime to move to 5-1. The week before, they wore the new chrome helmet with the white jersey and white pants at South Carolina. Next is Oklahoma on the road on Saturday, October 17, and Kentucky has announced a new look for it: black helmet, white jersey and black pants. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
+Kentucky wore a blue helmet with a gray jersey and gray pants against Vanderbilt at Kroger Field on Saturday, October 24, confirmed from the team's halftime graphic, and won 34-17. Kentucky is off on October 31. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
 
 **What are Kentucky's uniforms for 2026?**
 

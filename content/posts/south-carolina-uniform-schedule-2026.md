@@ -3,7 +3,7 @@ title: "South Carolina Uniform Schedule 2026: Every Jersey and When the Gamecock
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-10"
+updatedDate: "2026-10-25"
 excerpt: "South Carolina uniform schedule 2026: every Gamecocks jersey and helmet, garnet, white and glossy black Nike sets, the Cocky helmet, and what they wear each week."
 gradient: "linear-gradient(135deg, #73000A 0%, #4a0007 55%, #000000 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 South Carolina wore garnet jerseys under white helmets for the opener against Kent State, then went black with a one-night Cocky helmet against Towson. Then came Mississippi State at Williams-Brice Stadium on September 19, where the Gamecocks went garnet head to toe. They went all white at Alabama on September 26, wore a white helmet with a black jersey and black pants against Kentucky on October 3, then wore a garnet helmet, garnet jersey and white pants in a 38-19 win at Florida on October 10. This is the full South Carolina 2026 uniform schedule: the garnet, white and black sets from the program's first Nike season, the helmets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 24:** South Carolina went **all black against No. 11 Tennessee**, black helmet, black jersey and black pants, confirmed from the team's pregame photos, and won **27-24**.
 
 ## The South Carolina 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
   <div style="background: #111111; color: #ffffff; border: 2px solid #73000A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Black / Black</div></div>
   <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Garnet / Garnet / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
+  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -58,7 +60,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
 
 **October 17.** Bye.
 
-**October 24 vs. Tennessee.** Garnet expected. First game back from the bye, and a rivalry date where the black set would make sense if the program wants a night to feel different. The Vols' side is on our [Tennessee 2026 uniform schedule](/stories/tennessee-uniform-schedule-2026).
+**October 24 vs. Tennessee.** Garnet expected. First game back from the bye, and a rivalry date where the black set would make sense if the program wants a night to feel different. The Vols' side is on our [Tennessee 2026 uniform schedule](/stories/tennessee-uniform-schedule-2026). **Worn: all black**, a black helmet, black jersey with garnet trim and black pants with a garnet stripe, confirmed from the team's pregame photos. Tennessee wore its road whites: white helmet with the orange T, white jersey and white pants. **Final: South Carolina 27, Tennessee 24.**
 
 **October 31 at Oklahoma.** White expected. Halloween in Norman, with [Oklahoma](/stories/oklahoma-uniform-schedule-2026) expected in crimson.
 
@@ -78,7 +80,7 @@ Six games into the Nike era, South Carolina has shown six different combinations
 
 **What jersey is South Carolina wearing this week?**
 
-South Carolina wore a garnet helmet, garnet jersey and white pants at Florida on Saturday, October 10, confirmed from the broadcast, in a 38-19 win that evened the record at 3-3. After a bye on October 17, next up is Tennessee at home on October 24, where garnet is expected. The grid above lists every game, and we update it when each combination is confirmed.
+South Carolina wore all black against Tennessee on Saturday, October 24: a black helmet, black jersey with garnet trim and black pants with a garnet stripe, confirmed from the team's pregame photos. The Gamecocks won 27-24. Garnet had been expected. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The grid above lists every game, and we update it when each combination is confirmed.
 
 **What are South Carolina's football uniforms for 2026?**
 

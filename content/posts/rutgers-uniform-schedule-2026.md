@@ -3,7 +3,7 @@ title: "Rutgers Uniform Schedule 2026: Every Jersey and When the Scarlet Knights
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-04"
+updatedDate: "2026-10-25"
 excerpt: "What Rutgers wears every game in 2026: scarlet at home, white on the road, the 9/11 tribute set, the Blackout homecoming, and the full uniform schedule."
 gradient: "linear-gradient(135deg, #CC0033 0%, #a3002a 55%, #111111 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Rutgers keeps its base look simple and saves the surprises for the nights that mean something. This is the full Rutgers 2026 uniform schedule: the scarlet home set, the white road set, the white 9/11 tribute helmet that already made its appearance at Boston College, the all-black Blackout set, and a week-by-week outlook for all twelve games. Five games in, the Scarlet Knights have worn three different helmets. We update this page as each combination is confirmed.
+
+**Update, October 24:** Rutgers wore **a scarlet helmet, white jersey and scarlet pants** at No. 24 Northwestern on Saturday, confirmed from Rutgers' game photos, and lost 42-14. **Final: Northwestern 42, Rutgers 14.**
 
 ## The Rutgers 2026 Uniform Sets
 
@@ -36,7 +38,7 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
   <div style="background: #111111; color: #ffffff; border: 2px solid #CC0033; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; The Blackout: All Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #CC0033; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet / White / Scarlet</div></div>
   <div style="background: #CC0033; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #CC0033; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
@@ -64,7 +66,7 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
 
 **October 17 at Maryland.** White expected. Rutgers is the visitor in College Park, with kickoff set for no later than 5 p.m. Eastern. The [Maryland 2026 uniform schedule](/stories/maryland-uniform-schedule-2026) tracks what the Terrapins pull from their closet.
 
-**October 24 at Northwestern.** White expected. A Big Ten road trip to Evanston, with the kickoff time still to be announced.
+**October 24 at Northwestern.** White expected. A Big Ten road trip to Evanston, with the kickoff time still to be announced. **Worn: a scarlet helmet, white jersey and scarlet pants**, confirmed from Rutgers' game photos. Northwestern wore all purple. **Final: Northwestern 42, Rutgers 14.**
 
 **October 31 vs. Michigan.** Scarlet expected. Halloween On the Banks, with Michigan in white. See the [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026) for the visitors.
 
@@ -84,7 +86,7 @@ Rutgers has already used three helmets in five games, and the tribute set at Bos
 
 **What jersey is Rutgers wearing this week?**
 
-Rutgers wore the Blackout set against Indiana on Saturday, October 3: black helmet with the red R, black jersey and black pants, confirmed from the broadcast. No. 6 Indiana won 47-15, and Rutgers is 1-4. The week before, the Scarlet Knights wore the scarlet helmet, scarlet jersey and white pants in a 58-7 win over Howard. Rutgers is off on October 10, then visits Maryland on October 17, where white is expected. The week-by-week grid above lists every game with the expected set.
+Rutgers wore a scarlet helmet, white jersey and scarlet pants at No. 24 Northwestern on Saturday, October 24, confirmed from Rutgers' game photos, and lost 42-14. Earlier this season, Rutgers wore the Blackout set against Indiana on Saturday, October 3: black helmet with the red R, black jersey and black pants, confirmed from the broadcast. No. 6 Indiana won 47-15, and Rutgers is 1-4. The week before, the Scarlet Knights wore the scarlet helmet, scarlet jersey and white pants in a 58-7 win over Howard. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Rutgers's football uniforms for 2026?**
 
