@@ -5,14 +5,14 @@ import Footer from "@/components/Footer";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import { JotdTile, PhotoCredit, TodayFeature } from "@/components/JerseyOfTheDay";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
-import { longDay, pickFor, ptToday, secsToPtMidnight, shortDate, weekEnding } from "@/lib/jerseyOfTheDay";
+import { longDay, pickFor, etToday, secsToEtMidnight, shortDate, weekEnding } from "@/lib/jerseyOfTheDay";
 
-// Jersey of the Day (MOCK on a branch for Jake, 2026-10-24). Not linked from
-// the nav, homepage or sitemap yet; see the flagged suggestions in
-// components/Header.tsx and app/page.tsx.
+// Jersey of the Day (launches Mon 2026-10-26). In the sitemap, not yet in the
+// nav or on the homepage; see the flagged suggestions in components/Header.tsx
+// and app/page.tsx.
 //
-// Static page. "Today" is the Pacific date at render time, and the page asks
-// to be re-rendered just after the next Pacific midnight (the same ISR hint
+// Static page. "Today" is the US Eastern date at render time, and the page asks
+// to be re-rendered just after the next Eastern midnight (the same ISR hint
 // the homepage uses for its daily lead story), so the pick turns over daily
 // with no deploy. Data: content/data/jersey-of-the-day.json.
 
@@ -37,8 +37,8 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 export default async function JerseyOfTheDayPage() {
-  const today = ptToday();
-  await revalidatePageWithin(secsToPtMidnight());
+  const today = etToday();
+  await revalidatePageWithin(secsToEtMidnight());
 
   const { entry, isToday } = pickFor(today);
   const week = entry ? weekEnding(entry.date) : [];
@@ -52,7 +52,7 @@ export default async function JerseyOfTheDayPage() {
         url: `${SITE}${PATH}`,
         name: `Jersey of the Day: ${entry.team} ${entry.jerseyName}`,
         description: entry.story,
-        dateModified: new Date(entry.date + "T07:00:00Z").toISOString(),
+        dateModified: entry.date,
         isPartOf: { "@type": "WebSite", name: "ColorWay Sports", url: SITE },
         publisher: {
           "@type": "Organization",

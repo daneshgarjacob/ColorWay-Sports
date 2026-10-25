@@ -5,9 +5,9 @@ import Footer from "@/components/Footer";
 import { PhotoCredit } from "@/components/JerseyOfTheDay";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
 import { leagueColor } from "@/lib/leagueColors";
-import { longDay, ptToday, publishedEntries, secsToPtMidnight } from "@/lib/jerseyOfTheDay";
+import { imgFitClass, longDay, etToday, publishedEntries, secsToEtMidnight } from "@/lib/jerseyOfTheDay";
 
-// Jersey of the Day archive (MOCK). Every published pick, newest first; a
+// Jersey of the Day archive. Every published pick, newest first; a
 // future day in the data file never shows here. Same daily turnover as the
 // main page.
 
@@ -21,8 +21,8 @@ export const metadata: Metadata = {
 };
 
 export default async function JerseyOfTheDayArchive() {
-  await revalidatePageWithin(secsToPtMidnight());
-  const entries = [...publishedEntries(ptToday())].reverse();
+  await revalidatePageWithin(secsToEtMidnight());
+  const entries = [...publishedEntries(etToday())].reverse();
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -68,7 +68,7 @@ export default async function JerseyOfTheDayArchive() {
                         alt={e.imageAlt}
                         loading="lazy"
                         decoding="async"
-                        className="absolute inset-0 w-full h-full object-cover"
+                        className={`absolute inset-0 w-full h-full ${imgFitClass(e)}`}
                         style={e.imagePosition ? { objectPosition: e.imagePosition } : undefined}
                       />
                     </div>

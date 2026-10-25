@@ -1,8 +1,8 @@
 import Link from "next/link";
 import { leagueColor } from "@/lib/leagueColors";
-import { shortDate, shortDow, wornWhen, type JotdCredit, type JotdEntry } from "@/lib/jerseyOfTheDay";
+import { imgFitClass, shortDate, shortDow, wornWhen, type JotdCredit, type JotdEntry } from "@/lib/jerseyOfTheDay";
 
-// Jersey of the Day pieces (MOCK). Built from the story card / StoryHero
+// Jersey of the Day pieces. Built from the story card / StoryHero
 // language: white rounded-xl .story-card, league-color tag, Hanken display
 // type for labels, Inter for body, brand blue (text-orange) for links.
 
@@ -38,6 +38,7 @@ const STATUS_STYLE: Record<string, string> = {
   Confirmed: "text-[#128a4a]",
   Announced: "text-orange",
   Scheduled: "text-orange",
+  Expected: "text-steel",
   Projected: "text-steel",
 };
 
@@ -53,7 +54,7 @@ export function TodayFeature({ entry, isToday }: { entry: JotdEntry; isToday: bo
             loading="eager"
             fetchPriority="high"
             decoding="async"
-            className="absolute inset-0 w-full h-full object-cover"
+            className={`absolute inset-0 w-full h-full ${imgFitClass(entry)}`}
             style={entry.imagePosition ? { objectPosition: entry.imagePosition } : undefined}
           />
           <span className="absolute left-3 top-3 font-display text-[10px] font-extrabold uppercase tracking-[0.18em] px-2.5 py-[5px] rounded bg-white/95 text-black">
@@ -94,20 +95,17 @@ export function TodayFeature({ entry, isToday }: { entry: JotdEntry; isToday: bo
           </p>
         </div>
 
-        {/* Jake's line */}
-        <div className="mt-5 border-l-[3px] pl-4" style={{ borderColor: accent }}>
-          <p className="m-0 font-display text-[10.5px] font-extrabold uppercase tracking-[0.16em] text-orange">
-            Why it&rsquo;s great
-            {entry.whyPlaceholder && (
-              <span className="ml-2 align-middle text-[9.5px] tracking-[0.12em] px-1.5 py-[2px] rounded border border-dashed border-orange">
-                Placeholder
-              </span>
-            )}
-          </p>
-          <p className={`mt-1.5 mb-0 text-[17px] leading-snug font-semibold ${entry.whyPlaceholder ? "text-gray-light italic" : "text-black"}`}>
-            {entry.why}
-          </p>
-        </div>
+        {/* Jake's line. whyPlaceholder marks a drafted line still awaiting
+            Jake's approval; it is a data flag only and renders like an
+            approved line, so the public page never shows a placeholder. */}
+        {entry.why && (
+          <div className="mt-5 border-l-[3px] pl-4" style={{ borderColor: accent }}>
+            <p className="m-0 font-display text-[10.5px] font-extrabold uppercase tracking-[0.16em] text-orange">
+              Why it&rsquo;s great
+            </p>
+            <p className="mt-1.5 mb-0 text-[17px] leading-snug font-semibold text-black">{entry.why}</p>
+          </div>
+        )}
 
         {/* The story */}
         <h3 className="mt-6 mb-0 font-display text-[11px] font-extrabold uppercase tracking-[0.18em] text-steel">
@@ -154,7 +152,7 @@ export function JotdTile({ entry, active, href }: { entry: JotdEntry; active?: b
             alt=""
             loading="lazy"
             decoding="async"
-            className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-[1.04]"
+            className={`absolute inset-0 w-full h-full ${imgFitClass(entry)} transition-transform duration-500 ease-out group-hover:scale-[1.04]`}
             style={entry.imagePosition ? { objectPosition: entry.imagePosition } : undefined}
           />
         </div>

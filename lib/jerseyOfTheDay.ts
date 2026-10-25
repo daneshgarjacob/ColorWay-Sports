@@ -1,17 +1,18 @@
-// Jersey of the Day (MOCK, 2026-10-24, not linked from the site yet).
+// Jersey of the Day (launches Mon 2026-10-26; not in the nav or homepage yet).
 //
-// One entry per day in content/data/jersey-of-the-day.json, keyed by Pacific
-// date. Adding a day = adding one entry; nothing else changes. The page is
-// static and re-renders just after midnight Pacific (same ISR hint the
-// homepage uses for its daily lead, see app/page.tsx), so a new day turns
-// over by itself without a deploy.
+// One entry per day in content/data/jersey-of-the-day.json, keyed by US
+// Eastern date, the same day boundary the homepage lead and the MLB/NFL
+// "today" code use. Adding a day = adding one entry; nothing else changes.
+// The page is static and re-renders just after midnight Eastern (same ISR
+// hint the homepage uses for its daily lead, see app/page.tsx), so a new day
+// turns over by itself without a deploy.
 
 import data from "@/content/data/jersey-of-the-day.json";
 
 export type JotdCredit = { text: string; url?: string; license?: string; licenseUrl?: string };
-export type JotdStatus = "Confirmed" | "Announced" | "Scheduled" | "Projected";
+export type JotdStatus = "Confirmed" | "Announced" | "Scheduled" | "Expected" | "Projected";
 export type JotdEntry = {
-  date: string; // YYYY-MM-DD, Pacific
+  date: string; // YYYY-MM-DD, Eastern
   team: string;
   teamShort: string;
   league: string;
@@ -21,11 +22,15 @@ export type JotdEntry = {
   image: string;
   imageAlt: string;
   imagePosition?: string;
+  /** "contain" for product cutouts on white so the whole jersey shows. */
+  imageFit?: "cover" | "contain";
   imageCaption?: string;
   credit: JotdCredit;
   worn: { date: string; matchup: string; status: JotdStatus; note?: string };
   why: string;
   whyPlaceholder?: boolean;
+  /** Internal note for whoever fills the schedule; never rendered. */
+  _editorNote?: string;
   story: string;
   scheduleSlug: string;
   scheduleLabel: string;
@@ -38,25 +43,27 @@ const ALL: JotdEntry[] = Object.entries((data as { days: Record<string, RawEntry
   .map(([date, e]) => ({ ...e, date, worn: { ...e.worn, status: e.worn.status as JotdStatus } }))
   .sort((a, b) => a.date.localeCompare(b.date));
 
-export const JOTD_TZ = "America/Los_Angeles";
+export const JOTD_TZ = "America/New_York";
 
-/** Today's date in Pacific time, YYYY-MM-DD. JOTD_PREVIEW_DATE overrides it
- *  at build time so a mock can be screenshotted on a future sample day. */
-export function ptToday(now: Date = new Date()): string {
+/** Today's date in US Eastern, YYYY-MM-DD (same as mlbEtToday in
+ *  lib/mlbConfirmed.ts). JOTD_PREVIEW_DATE overrides it at build time so a
+ *  future day can be previewed or screenshotted before it goes live. */
+export function etToday(now: Date = new Date()): string {
   const preview = process.env.JOTD_PREVIEW_DATE;
   if (preview && /^\d{4}-\d{2}-\d{2}$/.test(preview)) return preview;
   return now.toLocaleDateString("en-CA", { timeZone: JOTD_TZ });
 }
 
-/** Seconds until just after the next Pacific midnight (ISR hint). */
-export function secsToPtMidnight(now: Date = new Date()): number {
-  const pt = new Date(now.toLocaleString("en-US", { timeZone: JOTD_TZ }));
-  const secs = pt.getHours() * 3600 + pt.getMinutes() * 60 + pt.getSeconds();
+/** Seconds until just after the next Eastern midnight (ISR hint), computed
+ *  the same way as the homepage's daily lead in app/page.tsx. */
+export function secsToEtMidnight(now: Date = new Date()): number {
+  const et = new Date(now.toLocaleString("en-US", { timeZone: JOTD_TZ }));
+  const secs = et.getHours() * 3600 + et.getMinutes() * 60 + et.getSeconds();
   return Math.max(300, 86_400 - secs + 120);
 }
 
 /** Entries published so far (never shows a future day). */
-export function publishedEntries(today = ptToday()): JotdEntry[] {
+export function publishedEntries(today = etToday()): JotdEntry[] {
   return ALL.filter((e) => e.date <= today);
 }
 
@@ -65,7 +72,7 @@ export function publishedEntries(today = ptToday()): JotdEntry[] {
  * missed day never leaves the page empty), else the first entry on file
  * (only before launch, so the mock always has something to show).
  */
-export function pickFor(today = ptToday()): { entry: JotdEntry | null; isToday: boolean } {
+export function pickFor(today = etToday()): { entry: JotdEntry | null; isToday: boolean } {
   const past = publishedEntries(today);
   const entry = past[past.length - 1] ?? ALL[0] ?? null;
   return { entry, isToday: entry?.date === today };
@@ -92,6 +99,10 @@ export const shortDow = (d: string) => fmt(d, { weekday: "short" });
 export const shortDate = (d: string) => fmt(d, { month: "short", day: "numeric" });
 
 /** "Worn tonight" / "Worn Sunday" / "Worn Oct 25", relative to the pick's day. */
+/** Classes for a framed jersey image: cutouts sit whole on white with padding. */
+export const imgFitClass = (e: JotdEntry) =>
+  e.imageFit === "contain" ? "object-contain p-[6%] bg-white" : "object-cover";
+
 export function wornWhen(entry: JotdEntry): string {
   const diff = (Date.parse(entry.worn.date) - Date.parse(entry.date)) / 86_400_000;
   if (diff === 0) return "Today";

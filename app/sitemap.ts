@@ -176,6 +176,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly",
       priority: 0.8,
     },
+    {
+      url: "https://www.colorwaysports.com/jersey-of-the-day",
+      lastModified: new Date(),
+      changeFrequency: "daily",
+      priority: 0.8,
+    },
+    {
+      url: "https://www.colorwaysports.com/jersey-of-the-day/archive",
+      lastModified: new Date(),
+      changeFrequency: "daily",
+      priority: 0.5,
+    },
     ...newsUrls,
     ...authorUrls,
     ...filterUrls,
