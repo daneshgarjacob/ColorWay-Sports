@@ -1,0 +1,521 @@
+{
+  "_readme": [
+    "Worn-jersey log for the 30 NBA team schedule posts and /nba-tracker/<team>. Read by scripts/gen-nba-schedule-tables.mjs and lib/winterTrackerIndex.ts.",
+    "Key = '<YYYY-MM-DD> <AWAY>@<HOME>' using the tricodes in scripts/data/nba-schedule-2026-27.txt (game date in US Eastern).",
+    "score = final {away, home}; ot: true for overtime. A key with no score is not treated as played.",
+    "Per side: call = the jersey worn, spelled exactly like the announced file (Association White, Icon Edition, Statement Edition, City Edition, Classic Edition, ...). detail = optional short qualifier shown after the call (e.g. 'gold ring-night trim'). note = internal only.",
+    "A side left out falls back to that club's announced call (scripts/data/nba-announced-uniforms-2026-27.json). A call that differs from the announced one renders as 'Changed' on the schedule post.",
+    "confirmed: true = we SAW both jerseys (team game photos, ESPN highlights). Unconfirmed played rows show the score with the announced call and read 'Final', never 'Worn'.",
+    "Nightly pass: node scripts/nba-worn-log.mjs <YYYYMMDD> (adds finals, pre-fills worn = announced, confirmed:false), check photos, override any changed call + set confirmed:true, then node scripts/gen-nba-schedule-tables.mjs."
+  ],
+  "games": {
+    "2026-10-20 BOS@DET": {
+      "score": {
+        "away": 113,
+        "home": 121
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-20 OKC@SAS": {
+      "score": {
+        "away": 116,
+        "home": 104
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-20 PHI@NYK": {
+      "score": {
+        "away": 106,
+        "home": 100
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White",
+        "detail": "gold ring-night trim",
+        "note": "One-night white with metallic gold lettering, gold 2025-26 Champions patch, gold 3 tag"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-21 ATL@ORL": {
+      "score": {
+        "away": 132,
+        "home": 125
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-21 CHA@BKN": {
+      "score": {
+        "away": 110,
+        "home": 103
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Classic Edition"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-21 CHI@TOR": {
+      "score": {
+        "away": 92,
+        "home": 135
+      },
+      "away": {
+        "call": "Association White",
+        "note": "Schedule said Statement Edition; every Bulls game photo shows the white Association"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-21 DAL@HOU": {
+      "score": {
+        "away": 110,
+        "home": 128
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-21 GSW@LAL": {
+      "score": {
+        "away": 105,
+        "home": 127
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Seen in person at Crypto.com Arena + team game photos"
+    },
+    "2026-10-21 IND@NOP": {
+      "score": {
+        "away": 123,
+        "home": 120
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-21 MIL@WAS": {
+      "score": {
+        "away": 116,
+        "home": 128
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-21 MIN@MIA": {
+      "score": {
+        "away": 131,
+        "home": 106
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-21 PHX@POR": {
+      "score": {
+        "away": 83,
+        "home": 124
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-21 SAC@LAC": {
+      "score": {
+        "away": 96,
+        "home": 121
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-21 UTA@MEM": {
+      "score": {
+        "away": 103,
+        "home": 123
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "Team game photos (both clubs' X/IG game posts)"
+    },
+    "2026-10-22 CLE@PHI": {
+      "score": {
+        "away": 106,
+        "home": 114
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Team game photo galleries (nba.com/cavaliers, nba.com/thunder)"
+    },
+    "2026-10-22 DEN@OKC": {
+      "score": {
+        "away": 84,
+        "home": 96
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Team game photo galleries (nba.com/cavaliers, nba.com/thunder)"
+    },
+    "2026-10-23 ATL@CHA": {
+      "score": {
+        "away": 128,
+        "home": 81
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909843)"
+    },
+    "2026-10-23 CHI@MIL": {
+      "score": {
+        "away": 132,
+        "home": 125
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909848)"
+    },
+    "2026-10-23 DAL@IND": {
+      "score": {
+        "away": 121,
+        "home": 105
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909844)"
+    },
+    "2026-10-23 DET@MIA": {
+      "score": {
+        "away": 128,
+        "home": 111
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909847)"
+    },
+    "2026-10-23 HOU@SAS": {
+      "score": {
+        "away": 114,
+        "home": 110
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909096)"
+    },
+    "2026-10-23 LAC@LAL": {
+      "score": {
+        "away": 117,
+        "home": 125
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909851)"
+    },
+    "2026-10-23 MEM@GSW": {
+      "score": {
+        "away": 111,
+        "home": 108
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909850)"
+    },
+    "2026-10-23 MIN@ORL": {
+      "score": {
+        "away": 115,
+        "home": 93
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909845)"
+    },
+    "2026-10-23 NOP@UTA": {
+      "score": {
+        "away": 119,
+        "home": 120
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909849)"
+    },
+    "2026-10-23 NYK@BOS": {
+      "score": {
+        "away": 103,
+        "home": 107
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909095)"
+    },
+    "2026-10-23 POR@SAC": {
+      "score": {
+        "away": 128,
+        "home": 120
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909852)"
+    },
+    "2026-10-23 TOR@WAS": {
+      "score": {
+        "away": 112,
+        "home": 102
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909846)"
+    },
+    "2026-10-24 BKN@CLE": {
+      "score": {
+        "away": 121,
+        "home": 125
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909854)"
+    },
+    "2026-10-24 GSW@PHX": {
+      "score": {
+        "away": 122,
+        "home": 131
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909860)"
+    },
+    "2026-10-24 HOU@ATL": {
+      "score": {
+        "away": 121,
+        "home": 114
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909856)"
+    },
+    "2026-10-24 MIA@CHA": {
+      "score": {
+        "away": 110,
+        "home": 115
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909853)"
+    },
+    "2026-10-24 MIL@PHI": {
+      "score": {
+        "away": 116,
+        "home": 127
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909855)"
+    },
+    "2026-10-24 NOP@DEN": {
+      "score": {
+        "away": 135,
+        "home": 141
+      },
+      "ot": true,
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909859)"
+    },
+    "2026-10-24 SAS@DAL": {
+      "score": {
+        "away": 122,
+        "home": 106
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909858)"
+    },
+    "2026-10-24 WAS@CHI": {
+      "score": {
+        "away": 124,
+        "home": 120
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909857)"
+    }
+  }
+}

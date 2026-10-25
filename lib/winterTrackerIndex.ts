@@ -43,6 +43,61 @@ function nhlTileExists(src: string): boolean {
 }
 const NHL_TILES = "/images/posts/nhl-daily-tracker";
 
+// NBA: the official announced uniform schedule and the nightly worn log (finals
+// from scripts/nba-worn-log.mjs, jerseys confirmed from game photos). The same
+// worn log drives the tables in the 30 NBA team schedule posts
+// (scripts/gen-nba-schedule-tables.mjs). A game counts as worn here only once
+// it is marked confirmed in the log.
+const nbaAnnouncedFile = path.join(process.cwd(), "scripts/data/nba-announced-uniforms-2026-27.json");
+const nbaWornFile = path.join(process.cwd(), "scripts/data/nba-worn-2026-27.json");
+const NBA_TRI: Record<string, string> = {
+  "atlanta-hawks": "ATL", "boston-celtics": "BOS", "brooklyn-nets": "BKN", "charlotte-hornets": "CHA",
+  "chicago-bulls": "CHI", "cleveland-cavaliers": "CLE", "dallas-mavericks": "DAL", "denver-nuggets": "DEN",
+  "detroit-pistons": "DET", "golden-state-warriors": "GSW", "houston-rockets": "HOU", "indiana-pacers": "IND",
+  "la-clippers": "LAC", "los-angeles-lakers": "LAL", "memphis-grizzlies": "MEM", "miami-heat": "MIA",
+  "milwaukee-bucks": "MIL", "minnesota-timberwolves": "MIN", "new-orleans-pelicans": "NOP", "new-york-knicks": "NYK",
+  "oklahoma-city-thunder": "OKC", "orlando-magic": "ORL", "philadelphia-76ers": "PHI", "phoenix-suns": "PHX",
+  "portland-trail-blazers": "POR", "sacramento-kings": "SAC", "san-antonio-spurs": "SAS", "toronto-raptors": "TOR",
+  "utah-jazz": "UTA", "washington-wizards": "WAS",
+};
+interface NbaWornEntry {
+  score?: { away: number; home: number };
+  ot?: boolean;
+  confirmed?: boolean;
+  away?: { call?: string };
+  home?: { call?: string };
+}
+interface NbaGameState { scheduled?: string; uniform?: string; result?: string }
+
+/** "<tri>|<date>" -> announced call, final result and (confirmed games only) the jersey worn. */
+function nbaByTeamDate(): Map<string, NbaGameState> {
+  const out = new Map<string, NbaGameState>();
+  let ann: Record<string, { games: Record<string, string> }> = {};
+  let worn: Record<string, NbaWornEntry> = {};
+  try { ann = JSON.parse(fs.readFileSync(nbaAnnouncedFile, "utf8")); } catch {}
+  try { worn = JSON.parse(fs.readFileSync(nbaWornFile, "utf8")).games ?? {}; } catch {}
+  for (const [tri, t] of Object.entries(ann)) {
+    for (const [d, call] of Object.entries(t.games ?? {})) out.set(`${tri}|${d}`, { scheduled: call });
+  }
+  for (const [k, e] of Object.entries(worn)) {
+    const m = /^(\d{4}-\d{2}-\d{2}) ([A-Z]{3})@([A-Z]{3})$/.exec(k);
+    if (!m || !e.score) continue;
+    const [, date, away, home] = m;
+    for (const [tri, isHome] of [[away, false], [home, true]] as const) {
+      const key = `${tri}|${date}`;
+      const st = out.get(key) ?? {};
+      const mine = isHome ? e.score.home : e.score.away;
+      const theirs = isHome ? e.score.away : e.score.home;
+      st.result = `${mine > theirs ? "W" : "L"} ${mine}-${theirs}${e.ot ? " OT" : ""}`;
+      if (e.confirmed) {
+        st.uniform = (isHome ? e.home : e.away)?.call ?? st.scheduled ?? (isHome ? "Association White" : "Icon Edition");
+      }
+      out.set(key, st);
+    }
+  }
+  return out;
+}
+
 export interface NhlTeam {
   name: string;
   short: string;
@@ -118,6 +173,11 @@ export interface WinterGame {
   /** NHL only: the club's standard home or road sweater photo for a future game
    *  whose expected look is the default (announced specials get none). */
   expectedImage?: string;
+  /** NBA only: final result from the club's side, e.g. "W 121-113". */
+  result?: string;
+  /** NBA only: the announced call, set on a confirmed game only when the club
+   *  wore something else (a schedule miss). */
+  scheduled?: string;
 }
 
 export interface WinterTeamEntry {
@@ -167,6 +227,7 @@ export function buildWinterIndex(): WinterTeamEntry[] {
 
   const nhlBySlug = new Map(Object.entries(nhlTeams()).map(([tri, t]) => [t.slug, { tri, ...t }]));
   const nhlWorn = nhlConfirmedByTeamDate();
+  const nbaState = nbaByTeamDate();
 
   const out: WinterTeamEntry[] = [];
   for (const [slug, t] of Object.entries(raw.teams)) {
@@ -195,6 +256,17 @@ export function buildWinterIndex(): WinterTeamEntry[] {
           game.expected = special ?? (game.home ? nhl.homeLabel : "Road White");
           const tile = `${NHL_TILES}/${nhl.key}-${game.home ? "home" : "road"}.jpg`;
           if (!special && nhlTileExists(tile)) game.expectedImage = tile;
+        }
+        const nbaTri = t.league === "nba" ? NBA_TRI[slug] : undefined;
+        const nba = nbaTri ? nbaState.get(`${nbaTri}|${g.d}`) : undefined;
+        if (nba) {
+          if (nba.scheduled) game.expected = nba.scheduled;
+          if (nba.result) game.result = nba.result;
+          if (nba.uniform) {
+            game.uniform = nba.uniform;
+            game.confirmed = true;
+            if (nba.scheduled && nba.scheduled !== nba.uniform) game.scheduled = nba.scheduled;
+          }
         }
         if (worn) {
           game.uniform = worn.uniform;

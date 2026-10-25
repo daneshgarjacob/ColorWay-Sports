@@ -76,6 +76,15 @@ function GameCard({ game, accent, today }: { game: WinterGame; accent: string; t
         {game.uniform ??
           (game.expected && game.date >= today ? `Expected: ${game.expected}` : "Not yet logged")}
       </div>
+      {/* NBA: a jersey that broke from the announced schedule, and the final. */}
+      {game.scheduled && (
+        <div className="text-[9px] font-bold uppercase tracking-[0.06em] opacity-75 mt-0.5">
+          Changed from {game.scheduled.replace(" Edition", "")}
+        </div>
+      )}
+      {game.result && (
+        <div className="text-[10px] font-extrabold tracking-[0.06em] mt-1 opacity-90">{game.result}</div>
+      )}
     </div>
   );
 }

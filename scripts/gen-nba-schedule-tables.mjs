@@ -21,6 +21,13 @@
 // "Not Yet Announced" instead of guessing a default. A club entry with
 // "partial": true only names some nights (e.g. a Classic Edition list): its
 // other rows keep the Expected defaults instead of turning TBA.
+//
+// Played games: scripts/data/nba-worn-2026-27.json (written nightly by
+// scripts/nba-worn-log.mjs, confirmed from photos by hand). A game with a final
+// score there renders as played: the jersey worn plus W/L and the score.
+// Confirmed rows read "Worn"; a worn call that differs from the announced one
+// reads "Changed" with the scheduled call shown; unconfirmed rows read "Final"
+// and keep the announced call until someone has seen the photos.
 
 import fs from "node:fs";
 
@@ -51,9 +58,33 @@ const games = fs.readFileSync("scripts/data/nba-schedule-2026-27.txt", "utf8")
   .trim().split("\n").map((l) => { const [d, a, h] = l.split("|"); return { d, a, h }; });
 
 const ANNOUNCED = JSON.parse(fs.readFileSync("scripts/data/nba-announced-uniforms-2026-27.json", "utf8"));
+const WORN = fs.existsSync("scripts/data/nba-worn-2026-27.json")
+  ? JSON.parse(fs.readFileSync("scripts/data/nba-worn-2026-27.json", "utf8")).games
+  : {};
 
-const row = (dateTxt, ha, opp, call, status = "Expected") =>
-  `<div style="display: flex; align-items: baseline; gap: 10px; padding: 7px 4px; border-bottom: 1px solid #eef0f4; font-size: 0.85em;"><span style="flex: 0 0 92px; color: #8892a0; font-weight: 700; font-size: 0.85em;">${dateTxt}</span><span style="flex: 1 1 auto; color: #14284b; font-weight: 700;">${ha} ${opp}</span><span style="flex: 0 0 auto; font-weight: 800; font-size: 0.85em; color: ${status === "TBA" ? "#8892a0" : "#14284b"};">${call}</span><span style="flex: 0 0 74px; text-align: right; color: ${status === "Announced" ? "#2f6bed" : "#8892a0"}; font-weight: 700; font-size: 0.85em;">${status}</span></div>`;
+const STATUS_COLOR = { Announced: "#2f6bed", Worn: "#1a8f4c", Changed: "#c8102e" };
+
+const row = (dateTxt, ha, opp, call, status = "Expected", result = "") =>
+  `<div style="display: flex; align-items: baseline; gap: 10px; padding: 7px 4px; border-bottom: 1px solid #eef0f4; font-size: 0.85em;"><span style="flex: 0 0 92px; color: #8892a0; font-weight: 700; font-size: 0.85em;">${dateTxt}</span><span style="flex: 1 1 auto; color: #14284b; font-weight: 700;">${ha} ${opp}${result ? ` <span style="color: #5b6474; font-weight: 600; font-size: 0.9em; white-space: nowrap;">${result}</span>` : ""}</span><span style="flex: 0 0 auto; font-weight: 800; font-size: 0.85em; text-align: right; color: ${status === "TBA" ? "#8892a0" : "#14284b"};">${call}</span><span style="flex: 0 0 74px; text-align: right; color: ${STATUS_COLOR[status] || "#8892a0"}; font-weight: 700; font-size: 0.85em;">${status}</span></div>`;
+
+// A played game from the worn log, or null if the game has no final yet.
+function playedRow(g, tri, dateTxt, ha, opp) {
+  const w = WORN[`${g.d} ${g.a}@${g.h}`];
+  if (!w || !w.score) return null;
+  const home = g.h === tri;
+  const mine = home ? w.score.home : w.score.away;
+  const theirs = home ? w.score.away : w.score.home;
+  const result = `${mine > theirs ? "W" : "L"} ${mine}-${theirs}${w.ot ? " (OT)" : ""}`;
+  const scheduled = ANNOUNCED[tri]?.games[g.d] || (home ? "Association White" : "Icon Edition");
+  const side = (home ? w.home : w.away) || {};
+  const worn = side.call || scheduled;
+  if (!w.confirmed) return row(dateTxt, ha, opp, scheduled, "Final", result);
+  const label = side.detail ? `${worn} (${side.detail})` : worn;
+  if (worn !== scheduled) {
+    return row(dateTxt, ha, opp, `${label} <span style="color: #8892a0; font-weight: 600;">(sched. ${scheduled.replace(" Edition", "")})</span>`, "Changed", result);
+  }
+  return row(dateTxt, ha, opp, label, "Worn", result);
+}
 
 const monthHead = (name) =>
   `<p style="margin: 16px 0 4px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; color: #2f6bed;">${name}</p>`;
@@ -76,7 +107,9 @@ for (const [slug, tri] of Object.entries(TEAMS)) {
     const home = g.h === tri;
     const opp = SHORT[home ? g.a : g.h];
     const ha = home ? "vs" : "at";
-    if (ann && ann.games[g.d]) body += row(`${MON_ABBR[m]} ${d}`, ha, opp, ann.games[g.d], "Announced");
+    const played = playedRow(g, tri, `${MON_ABBR[m]} ${d}`, ha, opp);
+    if (played) body += played;
+    else if (ann && ann.games[g.d]) body += row(`${MON_ABBR[m]} ${d}`, ha, opp, ann.games[g.d], "Announced");
     else if (ann && !ann.partial) body += row(`${MON_ABBR[m]} ${d}`, ha, opp, "Not Yet Announced", "TBA");
     else {
       // The default home white can't be right when the visitor has already
@@ -101,7 +134,7 @@ for (const [slug, tri] of Object.entries(TEAMS)) {
     note = `Announced rows come from ${ann.what || `the ${short}' own uniform schedule`}, published ${ann.announced}: ${n} of ${mine.length} dated games, ${parts.slice(0, -1).join(", ")} and ${parts.at(-1)}.` + (mine.length > n ? ` The ${mine.length - n} rows marked TBA were left off it, and we fill them in as the ${short} name them.` : "");
   }
   const table = `<!-- nba-game-log:start -->
-<div style="margin: 1.5em 0; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 14px; padding: 8px 18px 14px;"><p style="margin: 10px 0 2px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; color: #5b6474;">The Game-by-Game Jersey Schedule</p>${body}<p style="font-size: 0.75em; color: #8892a0; margin: 12px 0 2px; line-height: 1.5;">${note} Every played row flips to the jersey actually worn, updated the morning after. Two December dates are still unscheduled league-wide, waiting on the NBA Cup knockout draw.</p></div>
+<div style="margin: 1.5em 0; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 14px; padding: 8px 18px 14px;"><p style="margin: 10px 0 2px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; color: #5b6474;">The Game-by-Game Jersey Schedule</p>${body}<p style="font-size: 0.75em; color: #8892a0; margin: 12px 0 2px; line-height: 1.5;">${note} Played rows show the final score and the jersey actually worn, marked Worn once we have seen it in the game photos (updated the morning after); Changed means the ${short} wore something other than the announced call. Two December dates are still unscheduled league-wide, waiting on the NBA Cup knockout draw.</p></div>
 <!-- nba-game-log:end -->`;
 
   let s = fs.readFileSync(path, "utf8");
