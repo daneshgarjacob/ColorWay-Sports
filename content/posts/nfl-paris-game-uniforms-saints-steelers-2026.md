@@ -28,7 +28,7 @@ Here is what both teams will wear, and the Paris Saint-Germain jerseys made for 
 ## Quick Answers
 
 - **Who is the home team?** The Saints. New Orleans is the designated home team, and the game counts as one of its nine home games.
-- **What are the Saints wearing?** The **black home jersey** with the **gold helmet**, confirmed by the team. Captains pick the pants each week, and they have chosen black pants for both black home games so far.
+- **What are the Saints wearing?** The **black home jersey** with the **gold helmet**, confirmed by the team. Saints pants not announced: the captains pick them each week, and the team's October 23 graphic shows gold pants, but it reads as promo art, not a uniform call.
 - **What are the Steelers wearing?** **White**, as the road team, with the **black helmet and black pants**, confirmed by the team on October 24. The team calls it a new combination; Pittsburgh's usual road look is white over gold pants.
 - **Is there a special PSG jersey?** Yes, two: the blue Paris Red & Blue and the garnet and gold Monogramme, both with PARIS and 75 (see below).
 - **Where is the game?** The Stade de France in Saint-Denis, just north of Paris, home of France's national rugby and soccer teams.
@@ -40,7 +40,7 @@ Here is what both teams will wear, and the Paris Saint-Germain jerseys made for 
 
 Because New Orleans is the home team, the Saints get first choice, and they published **black** for this game on September 7. It is their standard home look: the black jersey under the gold helmet with the fleur-de-lis. The black home set covers six of the Saints' home dates this season, and Paris is one of them.
 
-The pants are the open question. The Saints' captains choose them each week, and they have gone with black pants in both black home games so far, so we expect the all-black-and-gold look on Sunday.
+The pants are the open question: Saints pants not announced. The captains choose them each week, and the team's October 23 graphic shows the black jersey over gold pants, but it reads as promo art rather than a uniform announcement, so we are not calling it either way until kickoff.
 
 ## The Steelers: White on the Road
 
@@ -55,7 +55,7 @@ With the Saints in black, Pittsburgh wears **white**, and on October 24 the team
 
 The full Pittsburgh closet, including the 1933 throwback and the all-black Color Rush, is in our [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
 
-That makes it black and gold vs. white and black, two franchises built on the same two colors. The matchup reads clean, and the Saints' gold helmet against the Steelers' black helmet keeps the two sides easy to tell apart, even with both teams likely in black pants. Our grade on the Steelers' look itself is a **B-**: we prefer them in gold pants ([our full take](/stories/steelers-black-pants-white-jerseys-paris-2026)).
+That makes it black and gold vs. white and black, two franchises built on the same two colors. The matchup reads clean, and the Saints' gold helmet against the Steelers' black helmet keeps the two sides easy to tell apart, whichever pants New Orleans picks. Our grade on the Steelers' look itself is a **B-**: we prefer them in gold pants ([our full take](/stories/steelers-black-pants-white-jerseys-paris-2026)).
 
 ## PSG's NFL Jerseys for the Paris Game
 
@@ -80,7 +80,7 @@ The Stade de France opened in 1998 for the World Cup that France won on that sam
 
 **What are the Saints wearing in Paris?**
 
-The black home jersey with the gold helmet. New Orleans is the designated home team and published black for the game on September 7. We expect black pants, which the captains have chosen for both black home games so far.
+The black home jersey with the gold helmet. New Orleans is the designated home team and published black for the game on September 7. Saints pants not announced; the captains pick them each week, and the team's October 23 graphic showing gold pants reads as promo art.
 
 **What are the Steelers wearing in Paris?**
 

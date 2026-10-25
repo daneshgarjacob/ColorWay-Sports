@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-10-16"
-updatedDate: "2026-10-23"
+updatedDate: "2026-10-24"
 homepageHero: "2026-10-21"
 excerpt: "2026 World Series uniforms for Rays vs. Brewers: what each team will wear in Milwaukee and under the Tropicana Field dome, every playoff jersey and record, the Devil Rays throwback question, the patch and the full schedule."
 gradient: "linear-gradient(135deg, #12284B 0%, #0B1A2F 55%, #FFC52F 140%)"
@@ -28,6 +28,19 @@ What will the teams wear in the 2026 World Series? It is set: the **Tampa Bay Ra
 
 **Why the Rays look like the 1998 Devil Rays this October:** the rainbow TAMPA BAY road gray, the Friday throwback and what is left of the sunburst, in [Are the Rays Becoming the Devil Rays Again?](/stories/rays-devil-rays-comeback-world-series-2026)
 
+## Game 2 Uniforms: Rays Gray vs. Brewers Cream Again (Confirmed)
+
+Game 2 was Saturday, October 24, at American Family Field on FOX, and the Brewers won it 5-4 to take a 2-0 Series lead. Both teams wore the same uniforms as in Game 1, confirmed by their own in-game posts below.
+
+- **Rays:** the **road gray** with the "TAMPA BAY" script and the ray, with the World Series patch on the chest.
+- **Brewers:** the **cream home uniform** with "BREWERS" in navy and gold, their sixth straight home playoff game in it this October, all wins.
+
+Identical uniforms to Game 1, so the same grade: **B+**. Final: Brewers 5, Rays 4. Every game of the Series is logged on our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026).
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RaysBaseball/status/2114165744128999934"></a></blockquote>
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2114191246776311858"></a></blockquote>
+
 ## Game 1 Uniforms: Rays Gray vs. Brewers Cream (Confirmed)
 
 Game 1 was Friday, October 23, at American Family Field on FOX, and the Brewers won it 3-2. Both jerseys are confirmed, and both match what we expected.
@@ -45,10 +58,10 @@ Gray against cream with the World Series patch gets a **B+** from us for the mat
 
 ## Quick Answers
 
-- **Game 1, confirmed:** Rays in the road gray, Brewers in the cream with the World Series patch.
-- **Brewers at home (Games 1, 2, 6, 7):** the cream, confirmed for Game 1 and expected after that. They have worn it in all four home playoff games this October and won all four.
+- **Games 1 and 2, confirmed:** Rays in the road gray, Brewers in the cream with the World Series patch. The Brewers won both (3-2 and 5-4) and lead the Series 2-0.
+- **Brewers at home (Games 1, 2, 6, 7):** the cream, confirmed for Games 1 and 2 and expected after that. They have worn it in all six home playoff games this October and won all six.
 - **Brewers on the road at Tropicana Field (Games 3, 4, 5):** the navy alternate with the yellow-front ball-in-glove cap, expected. They have worn it in all four road playoff games and are 3-1 in it.
-- **Rays on the road in Milwaukee (Games 1, 2, 6, 7):** the new gray with "TAMPA BAY" in a gradient script, confirmed for Game 1 and expected after that. It has been their road jersey in all four road playoff games, and they are 3-1 in it.
+- **Rays on the road in Milwaukee (Games 1, 2, 6, 7):** the new gray with "TAMPA BAY" in a gradient script, confirmed for Games 1 and 2 and expected after that. It has been their road jersey in all six road playoff games, and they are 3-3 in it after the two losses in Milwaukee.
 - **Rays at home under the Tropicana Field roof (Games 3, 4, 5):** home white or the Devil Rays throwback, our expectation. They are 2-1 in the home white and 2-0 in the throwback this October.
 - **The patch:** the 2026 World Series logo goes on the jersey as a small patch high on the chest, and on the side of the cap.
 - **Home field:** Milwaukee, with the best record in baseball at 103-59. The Rays went 98-64.
@@ -149,7 +162,7 @@ The wrinkle is the calendar. The Rays' home games in this Series fall on Monday,
 
 On paper, this is a great uniform World Series. Milwaukee's navy and gold against Tampa Bay's navy and Columbia blue are two of the cleanest color sets in baseball, and both teams arrive with a throwback story: the Brewers' ball-in-glove logo on every cap, and the Rays' 1998 Devil Rays rainbow. It also puts a powder blue road jersey (Milwaukee's, unused so far this October) and a Columbia blue team in the same Series.
 
-**Games 1 and 2 in Milwaukee (Game 1 confirmed, graded B+):** Brewers cream vs. the Rays' new "TAMPA BAY" gray. Cream against gray is a softer contrast than white against gray, but the gold on the Brewers' script and the gradient on the Rays' wordmark keep it from washing out.
+**Games 1 and 2 in Milwaukee (both confirmed, both graded B+):** Brewers cream vs. the Rays' new "TAMPA BAY" gray. Cream against gray is a softer contrast than white against gray, but the gold on the Brewers' script and the gradient on the Rays' wordmark keep it from washing out.
 
 **Games 3, 4 and 5 at the Trop, expected:** Brewers navy with the yellow-front cap vs. the Rays' home white, with the Devil Rays throwback as the wild card. Navy against the rainbow throwback would be the most colorful matchup of the Series.
 
@@ -194,6 +207,10 @@ The cream home jersey, confirmed, with the 2026 World Series patch on the chest.
 **What are the Rays wearing in Game 1?**
 
 The road gray with the Devil Rays-era "TAMPA BAY" script and the ray, confirmed. It is the same road jersey they wore in all four road playoff games this October.
+
+**What did the Rays and Brewers wear in Game 2?**
+
+The same as Game 1: the Rays in the road gray with the "TAMPA BAY" script and the Brewers in the cream home uniform, both with the World Series patch. The Brewers won 5-4 to lead the Series 2-0.
 
 **What are the Brewers wearing in the World Series?**
 

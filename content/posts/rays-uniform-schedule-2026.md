@@ -15,7 +15,7 @@ teams:
   - tampa-bay-rays
 ---
 
-<div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Rays Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Saturday, October 24, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #14284b; line-height: 1.1;">Road Grays</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; we confirm it the morning after</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Rays at Milwaukee Brewers &middot; 8:00 PM ET</div><div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">Road games are the gray road set every time, regardless of the day.</div><a href="/mlb-tracker/rays" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
+<div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Rays Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Saturday, October 24, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #1a7f37; line-height: 1.1;">Road Gray</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Confirmed</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Rays at Milwaukee Brewers &middot; 8:00 PM ET</div><div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">Confirmed for tonight's game against the Brewers.</div><div data-cap="navy 'TB' gradient" style="margin-top: 10px; font-size: 0.9em; color: #1c1c1c; font-weight: 700;">Cap: navy 'TB' gradient</div><a href="/mlb-tracker/rays" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
 **Why the Rays look like the 1998 Devil Rays this October:** the rainbow TAMPA BAY road gray, the Friday throwback and what is left of the sunburst, in [Are the Rays Becoming the Devil Rays Again?](/stories/rays-devil-rays-comeback-world-series-2026)
 
@@ -34,11 +34,15 @@ If you are trying to call tonight's Rays uniform before first pitch, pair this p
 
 ## 2026 World Series: Rays vs. Brewers
 
-The Rays beat the Guardians 4-2 in the ALCS and face the Brewers in the World Series. Game 1 was **Friday, October 23 at 8:00 p.m. ET at American Family Field in Milwaukee on FOX**.
+The Rays beat the Guardians 4-2 in the ALCS and face the Brewers in the World Series. Game 1 was **Friday, October 23 at 8:00 p.m. ET at American Family Field in Milwaukee on FOX**, and Game 2 was Saturday, October 24, also in Milwaukee.
 
 **World Series Game 1, confirmed:** the road gray with the Devil Rays-era "TAMPA BAY" script and the ray, the same road jersey from all four road playoff games, against the Brewers in the home cream with the 2026 World Series patch. Our grade: **B+**. Final: Brewers 3, Rays 2.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MLB/status/2113431513396093063"></a></blockquote>
+
+**World Series Game 2, confirmed:** the same road gray with the "TAMPA BAY" script and the ray, against the Brewers in the home cream again. Same uniforms as Game 1, same grade: **B+**. Final: Brewers 5, Rays 4, so Milwaukee leads the Series 2-0 heading to Tropicana Field.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RaysBaseball/status/2114165744128999934"></a></blockquote>
 
 Every World Series game, expected and confirmed, is on our [2026 World Series uniforms guide](/stories/world-series-uniforms-2026).
 

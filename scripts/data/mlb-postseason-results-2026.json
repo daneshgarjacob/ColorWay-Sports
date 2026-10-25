@@ -402,9 +402,9 @@
   "gameNumber": 2,
   "away": "rays",
   "home": "brewers",
-  "awayScore": null,
-  "homeScore": null,
-  "final": false
+  "awayScore": 4,
+  "homeScore": 5,
+  "final": true
  },
  {
   "date": "2026-10-26",

@@ -41,7 +41,7 @@ It is a near replica of the red sweater Calgary wore at home from 2003-04 throug
   <div style="display: grid; grid-template-columns: 1fr 2.4fr; gap: 8px; padding: 8px 0; border-top: 1px solid #eef1f5; font-size: 0.88em;"><span style="font-weight: 800;">Patch</span><span>The current Play Alberta sponsor patch on the chest</span></div>
 </div>
 
-The black C is the whole story. Calgary's everyday home sweater uses a white Flaming C with yellow trim on red. Fill the C in black and the crest jumps off the jersey, and the black at the waist and cuffs ties it all together. The club has shown the sweater itself so far; we will add the socks and helmet once we see the full uniform on the ice tonight.
+The black C is the whole story. Calgary's everyday home sweater uses a white Flaming C with yellow trim on red. Fill the C in black and the crest jumps off the jersey, and the black at the waist and cuffs ties it all together. In the debut it came with black helmets, black pants and red socks striped in black, white and yellow (more below).
 
 ## When Do the Flames Wear the 2004 Jersey?
 
@@ -62,6 +62,12 @@ Tonight is also the club's '04 Celebration Night, with 2,004 replica green hard 
 The rest of the home schedule is 29 games in the classic red and nine in Calgary's Hometown Remix sweater, starting November 6 against Anaheim. The black Blasty third, the alternate since 2022-23, is not on the announced home schedule. Every date is on our [Flames uniform schedule](/stories/flames-uniform-schedule-2026-27), and the [Flames uniform calendar](/nhl-tracker/flames) logs what they actually wear each night.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlames/status/2102571131009925475"></a></blockquote>
+
+## How It Looked in the Debut
+
+It looked exactly like the render. The Flames wore the 2004 retro for the first time on Saturday, October 24, and beat the Detroit Red Wings 4-1 at the Saddledome, with Detroit in its road white. On the ice it came with black helmets, black pants and red socks striped in black, white and yellow to match the waist, and the black C read from every camera angle. One debut, one win.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlames/status/2114215182738354272"></a></blockquote>
 
 ## Why 2004 Still Matters in Calgary
 
@@ -98,7 +104,7 @@ Four times in 2026-27, all at home: October 24 vs Detroit, December 26 vs Vancou
 
 **What are the Flames wearing tonight against Detroit?**
 
-The 2004 retro jersey with the black C. Saturday, October 24 is its regular-season debut, on the club's '04 Celebration Night.
+The 2004 retro jersey with the black C, confirmed. Saturday, October 24 was its regular-season debut, on the club's '04 Celebration Night, and the Flames won 4-1.
 
 **Why did the Flames bring back the 2004 jersey?**
 

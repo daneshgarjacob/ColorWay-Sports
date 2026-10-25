@@ -15,7 +15,7 @@ teams:
   - milwaukee-brewers
 ---
 
-<div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Brewers Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Saturday, October 24, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #14284b; line-height: 1.1;">Home Uniform</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Expected &middot; we confirm it the morning after</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Tampa Bay Rays at Brewers &middot; 8:00 PM ET</div><div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">At home the exact jersey follows the rotation in the table below, which is set by the day of the week and whether it is a day or night game.</div><a href="/mlb-tracker/brewers" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
+<div data-mlb-wearing style="margin: 1.75em 0; border: 2px solid #14284b; border-radius: 16px; overflow: hidden;"><div style="background: #14284b; padding: 9px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;"><span style="font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #ffffff;">What the Brewers Are Wearing</span><span style="font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.9);">Saturday, October 24, 2026</span></div><div style="padding: 1.5em; text-align: center; background: #ffffff;"><div style="font-size: 2em; font-weight: 900; color: #1a7f37; line-height: 1.1;">Home Cream</div><div style="font-size: 0.78em; color: #777; margin-top: 6px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">Confirmed</div><div style="margin-top: 14px; font-size: 1em; color: #1c1c1c; font-weight: 600;">Tampa Bay Rays at Brewers &middot; 8:00 PM ET</div><div style="margin-top: 8px; font-size: 0.95em; color: #444; line-height: 1.55;">Confirmed for tonight's game against the Rays.</div><div data-cap="All Navy" style="margin-top: 10px; font-size: 0.9em; color: #1c1c1c; font-weight: 700;">Cap: All Navy</div><a href="/mlb-tracker/brewers" style="display: inline-block; margin-top: 16px; padding: 10px 22px; background: #14284b; color: #ffffff; border-radius: 999px; font-weight: 800; font-size: 0.85em; text-decoration: none;">Every jersey they have worn &rarr;</a></div></div>
 
 The Milwaukee Brewers carry five uniforms in 2026, and the closet looks different than it did a year ago. The traditional road grays are gone — retired in favor of a brand-new powder blue road set that revives the franchise's 1970s look — and the team rolled out a second City Connect, the ["Wisco" kit](/stories/brewers-wisco-city-connect-2026), to go with it. The rotation runs more on feel than a published timetable, but there are a couple of reliable anchors once you know them. Here's the full Brewers wardrobe for 2026 and when each jersey actually comes out.
 
@@ -30,11 +30,15 @@ Want them graded instead? Here is [every Milwaukee Brewers jersey ranked](/stori
 
 ## 2026 World Series: Brewers vs. Rays
 
-The Brewers swept the Dodgers 4-0 in the NLCS and host the Rays in the World Series. Game 1 was **Friday, October 23 at 8:00 p.m. ET (7:00 p.m. CT) at American Family Field on FOX**.
+The Brewers swept the Dodgers 4-0 in the NLCS and host the Rays in the World Series. Game 1 was **Friday, October 23 at 8:00 p.m. ET (7:00 p.m. CT) at American Family Field on FOX**, and Game 2 was Saturday, October 24, also at home.
 
 **World Series Game 1, confirmed:** the home cream with "BREWERS" in navy and gold, now with the 2026 World Series patch on the chest, against the Rays in the road gray with the "TAMPA BAY" script. Our grade: **B+**. Final: Brewers 3, Rays 2.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2113698090913796320"></a></blockquote>
+
+**World Series Game 2, confirmed:** the home cream again, with the World Series patch, against the Rays in the road gray. Same uniforms as Game 1, same grade: **B+**. Final: Brewers 5, Rays 4, and the Brewers lead the Series 2-0, now 6-0 at home in the cream this October.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Brewers/status/2114191246776311858"></a></blockquote>
 
 Every World Series game, expected and confirmed, is on our [2026 World Series uniforms guide](/stories/world-series-uniforms-2026).
 
