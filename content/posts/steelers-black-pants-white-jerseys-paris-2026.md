@@ -3,6 +3,7 @@ title: "Steelers Wear Black Pants With White Jerseys in Paris, a New Uniform Com
 author: "jake-daneshgar"
 category: NFL
 date: "2026-10-24"
+updatedDate: "2026-10-25"
 excerpt: "For the first NFL game in France, the Steelers swap their usual gold pants for black: black helmet, white jersey, black pants and black socks against the Saints at the Stade de France. Here is the look, where the pants come from, and how rare it is."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-black-pants-white-jerseys-paris-2026/cover.jpg"
@@ -31,6 +32,16 @@ Steelers.com calls it ["a new combination"](https://www.steelers.com/news/steele
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2113986368154005513"></a></blockquote>
 </div>
 
+## How It Looked in Paris
+
+It looked sharp, and it came with a win. The Steelers beat the Saints **16-10** at the Stade de France on Sunday, October 25, in the black helmet, white jersey, **black pants** with the gold stripe and black socks, exactly the kit the team posted on Saturday. New Orleans wore its black home jersey with the gold helmet and **gold pants**, so the field read black and gold on one side and white and black on the other.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2114402540418703835"></a></blockquote>
+</div>
+
+The team's postgame graphic put six players in the Paris look in front of the Arc de Triomphe. One new combination, one win. We still prefer the gold pants, but this one will be remembered.
+
 ## The Paris Look, Piece by Piece
 
 - **Helmet:** the standard black shell with the Steelers logo on one side, unchanged.
@@ -42,7 +53,7 @@ Steelers.com calls it ["a new combination"](https://www.steelers.com/news/steele
 <img src="/images/posts/steelers-black-pants-white-jerseys-paris-2026/herbig-paris-patch.jpg" alt="Steelers linebacker Nick Herbig in the white jersey and black pants for the 2026 Paris game, with the NFL Paris patch on the chest" style="display:block;width:100%;max-width:460px;margin:1.4em auto 0.8em;border-radius:12px;" loading="lazy" decoding="async" />
 <p style="text-align:center;font-size:0.78em;color:#7C8696;margin:-0.4em 0 1.6em;">Nick Herbig in the Paris look. Image: <a href="https://x.com/steelers/status/2113990882210824620">Pittsburgh Steelers</a></p>
 
-New Orleans is the designated home team, which is why Pittsburgh is in white at all. The Saints published their **black home jersey** with the **gold helmet** for this game back on September 7. Their pants have not been announced; they have gone with black in both black home games so far. Everything else about the game is in our [Paris game uniform guide](/stories/nfl-paris-game-uniforms-saints-steelers-2026).
+New Orleans is the designated home team, which is why Pittsburgh is in white at all. The Saints published their **black home jersey** with the **gold helmet** for this game back on September 7. They paired it with gold pants on game day. Everything else about the game is in our [Paris game uniform guide](/stories/nfl-paris-game-uniforms-saints-steelers-2026).
 
 ## What the Steelers Usually Wear on the Road
 
@@ -100,7 +111,7 @@ The team's photos show a shield-shaped NFL Paris patch on the chest of the white
 
 **What are the Saints wearing against the Steelers?**
 
-The black home jersey with the gold helmet, which New Orleans published on September 7. The Saints' pants have not been announced.
+The black home jersey with the gold helmet, which New Orleans published on September 7, with gold pants. Pittsburgh won 16-10.
 
 **Will the Steelers wear the Color Rush uniform this season?**
 
