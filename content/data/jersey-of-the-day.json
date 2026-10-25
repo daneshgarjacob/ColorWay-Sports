@@ -1,0 +1,168 @@
+{
+  "_readme": "Jersey of the Day. One entry per day, keyed by Pacific date (YYYY-MM-DD). To add a day, copy an entry, change the key and fill every field. Images must already be on the site (public/images/...) or verified PD/CC Commons images with credit, never Getty/AP/fan/retailer. Run node scripts/compress-images.mjs after adding a new image. 'why' is Jake's line; leave whyPlaceholder true until he writes it. worn.status: Confirmed (team or game photos), Announced (team schedule), Scheduled (team date list), Projected (our read, not a team call).",
+  "days": {
+    "2026-10-26": {
+      "team": "Indiana Pacers",
+      "teamShort": "Pacers",
+      "league": "NBA",
+      "season": "2026-27",
+      "edition": "Classic Edition (ABA Days)",
+      "jerseyName": "Classic Threads",
+      "image": "/images/posts/nba-classic-edition-jerseys-courts-2026-27/pacers-classic-threads-team-on-court.jpg",
+      "imageAlt": "Indiana Pacers players in the blue 2026-27 Classic Threads ABA Classic Edition uniform with an arched INDIANA and yellow block numbers",
+      "imagePosition": "center 35%",
+      "credit": { "text": "Indiana Pacers" },
+      "worn": { "date": "2026-10-26", "matchup": "at Milwaukee Bucks", "status": "Announced" },
+      "why": "PLACEHOLDER for Jake: one line, in our voice, on why this jersey is great.",
+      "whyPlaceholder": true,
+      "story": "Classic Threads recreates the blue road uniform the Pacers wore in the ABA from 1971 to 1974: royal blue, a white arched INDIANA, yellow block numbers and a yellow and white racing stripe that runs over one shoulder and down the side. The team says it won two of its three ABA championships in this look. It is one of four ABA Classic Editions marking the 50th anniversary of the ABA-NBA merger, and Indiana has it on the schedule for 15 games.",
+      "scheduleSlug": "pacers-uniform-schedule-2026-27",
+      "scheduleLabel": "Pacers 2026-27 uniform schedule",
+      "related": [
+        { "slug": "nba-classic-edition-jerseys-courts-2026-27", "label": "All four ABA Classic Editions, graded" }
+      ]
+    },
+    "2026-10-27": {
+      "team": "Tampa Bay Rays",
+      "teamShort": "Rays",
+      "league": "MLB",
+      "season": "2026",
+      "edition": "Throwback alternate",
+      "jerseyName": "Devil Rays Throwback",
+      "image": "/images/posts/rays-brewers-logo-history-world-series-2026/devil-rays-1998-jersey.jpg",
+      "imageAlt": "An inaugural-season Tampa Bay Devil Rays white home jersey with the gradient DEVIL RAYS script and ray logo, worn 1998 to 2000",
+      "imagePosition": "center center",
+      "imageCaption": "The original 1998 Devil Rays home jersey the throwback is based on.",
+      "credit": {
+        "text": "Zeng8r",
+        "url": "https://commons.wikimedia.org/wiki/File:TB_Devil_Rays_1998_unis.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "worn": {
+        "date": "2026-10-27",
+        "matchup": "vs Milwaukee Brewers, World Series Game 4",
+        "status": "Projected",
+        "note": "Our read, not a team call. We confirm at first pitch."
+      },
+      "why": "PLACEHOLDER for Jake: one line, in our voice, on why this jersey is great.",
+      "whyPlaceholder": true,
+      "story": "The white Devil Rays throwback came back as an alternate in 2023 and became the Rays' Friday home look. Tampa Bay is 2-0 in it this October, including the 7-3 win over Cleveland in ALCS Game 6 that clinched the pennant. The Rays have not announced their World Series jerseys, and our read is that Game 4 or a Game 5 at Tropicana Field is the strongest spot for it.",
+      "scheduleSlug": "rays-uniform-schedule-2026",
+      "scheduleLabel": "Rays 2026 uniform schedule",
+      "related": [
+        { "slug": "world-series-uniforms-2026", "label": "World Series uniforms, game by game" },
+        { "slug": "rays-devil-rays-comeback-world-series-2026", "label": "Are the Rays becoming the Devil Rays again?" }
+      ]
+    },
+    "2026-10-28": {
+      "team": "Jacksonville Jaguars",
+      "teamShort": "Jaguars",
+      "league": "NFL",
+      "season": "2026",
+      "edition": "Nike Rivalries",
+      "jerseyName": "Bold City",
+      "image": "/images/posts/jaguars-uniform-schedule-2026/rivalries-bold-city-group.jpg",
+      "imageAlt": "Jacksonville Jaguars Bold City Rivalries uniform reveal, five players in alabaster jerseys with teal helmets and gold face masks",
+      "imagePosition": "center center",
+      "credit": { "text": "Jacksonville Jaguars" },
+      "worn": { "date": "2026-11-01", "matchup": "vs Indianapolis Colts, Week 8", "status": "Confirmed" },
+      "why": "PLACEHOLDER for Jake: one line, in our voice, on why this jersey is great.",
+      "whyPlaceholder": true,
+      "story": "Revealed August 25 under the motto \"Fortune Favors the Bold,\" the set pairs an alabaster jersey and a gold-outlined cursive Jaguars script with jaguar-spot numbers and black spotted pants. The helmet is a gloss teal shell with a metallic gold face mask and a 904 bumper for the area code, and the outer collar reads \"Since '95.\" It is the only game Jacksonville has assigned a uniform to all season: Sunday against the Colts.",
+      "scheduleSlug": "jaguars-uniform-schedule-2026",
+      "scheduleLabel": "Jaguars 2026 uniform schedule",
+      "related": [
+        { "slug": "nfl-rivalries-uniforms-2026-ranked", "label": "Every 2026 Rivalries uniform, ranked" }
+      ]
+    },
+    "2026-10-29": {
+      "team": "Washington Capitals",
+      "teamShort": "Capitals",
+      "league": "NHL",
+      "season": "2026-27",
+      "edition": "Third jersey",
+      "jerseyName": "Red Screaming Eagle",
+      "image": "/images/jersey-of-the-day/capitals-screaming-eagle-red-third.jpg",
+      "imageAlt": "Washington Capitals player in the red Screaming Eagle third jersey with a white shoulder yoke and the Capitol Dome shoulder patch, February 2026",
+      "imagePosition": "center 30%",
+      "imageCaption": "The red Screaming Eagle on February 25, 2026, against the Flyers.",
+      "credit": {
+        "text": "Quintin Soloviev",
+        "url": "https://commons.wikimedia.org/wiki/File:Alexander_Ovechkin_in_2026.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      },
+      "worn": { "date": "2026-11-01", "matchup": "vs Minnesota Wild", "status": "Scheduled" },
+      "why": "PLACEHOLDER for Jake: one line, in our voice, on why this jersey is great.",
+      "whyPlaceholder": true,
+      "story": "The red Screaming Eagle has the diving eagle across the chest, a white rounded shoulder yoke, 1970s hem striping, a lace-up collar and the 1990s Capitol Dome patch on the shoulders. It went 15 times in its first season, 2025-26, and Washington has it down for 10 home games this season. Sunday against the Wild is the third of them.",
+      "scheduleSlug": "capitals-uniform-schedule-2026-27",
+      "scheduleLabel": "Capitals 2026-27 uniform schedule",
+      "related": []
+    },
+    "2026-10-30": {
+      "team": "Navy Midshipmen",
+      "teamShort": "Navy",
+      "league": "College Football",
+      "season": "2026",
+      "edition": "Centennial special",
+      "jerseyName": "1926 Centennial",
+      "image": "/images/posts/navy-1926-centennial-uniform/full-look.jpg",
+      "imageAlt": "Navy 1926 Centennial uniform: navy jersey with gold chevron stripes and gold numbers, gold helmet and gold pants",
+      "imagePosition": "center 20%",
+      "credit": { "text": "Navy Athletics and Under Armour" },
+      "worn": { "date": "2026-10-31", "matchup": "vs Notre Dame at Gillette Stadium", "status": "Announced" },
+      "why": "PLACEHOLDER for Jake: one line, in our voice, on why this jersey is great.",
+      "whyPlaceholder": true,
+      "story": "Navy and Under Armour revealed this set on September 15 to honor the 1926 national championship team, the only national title in program history. It is a modern take on the Chevron Stripe jersey Navy wore that year, with nine gold stripes, four on the front and five on the back, one for every 1926 win. The numbers are drawn from the Class of 1926 pin, and it goes on the field Saturday against Notre Dame.",
+      "scheduleSlug": "navy-uniform-schedule-2026",
+      "scheduleLabel": "Navy 2026 uniform schedule",
+      "related": [
+        { "slug": "navy-1926-centennial-uniform-2026", "label": "Navy's 1926 Centennial uniform, graded" }
+      ]
+    },
+    "2026-10-31": {
+      "team": "Nebraska Cornhuskers",
+      "teamShort": "Nebraska",
+      "league": "College Football",
+      "season": "2026",
+      "edition": "Blackout alternate",
+      "jerseyName": "Our Red Burns Brighter Blackout",
+      "image": "/images/posts/college-football-blackout-uniforms-2026-ranked/nebraska-pointing.jpg",
+      "imageAlt": "Nebraska Cornhuskers 2026 blackout uniform, a black jersey with NEBRASKA in red across the chest and large white numbers, worn with a black helmet and red facemask",
+      "imagePosition": "center 25%",
+      "credit": { "text": "Nebraska Athletics / adidas" },
+      "worn": { "date": "2026-10-31", "matchup": "vs Washington, Blackout game", "status": "Announced" },
+      "why": "PLACEHOLDER for Jake: one line, in our voice, on why this jersey is great.",
+      "whyPlaceholder": true,
+      "story": "Nebraska revealed its black alternate on August 15 under the theme \"Our Red Burns Brighter,\" with huge white numbers outlined in red, a black helmet with metallic red details and GBR on the bumper. The metallic finishes nod to the fire towers and fireworks at Memorial Stadium, and a perforated Block N on the back panel was inspired by the stadium's drone shows. It debuts on Halloween against Washington in the second annual Blackout game.",
+      "scheduleSlug": "nebraska-uniform-schedule-2026",
+      "scheduleLabel": "Nebraska 2026 uniform schedule",
+      "related": [
+        { "slug": "college-football-blackout-uniforms-2026-ranked", "label": "College football blackout uniforms, ranked" }
+      ]
+    },
+    "2026-11-01": {
+      "team": "Detroit Lions",
+      "teamShort": "Lions",
+      "league": "NFL",
+      "season": "2026",
+      "edition": "Nike Rivalries",
+      "jerseyName": "Rivalries Silver",
+      "image": "/images/posts/lions-uniform-schedule-2026/rivalries-detroit-flex.jpg",
+      "imageAlt": "Detroit Lions Rivalries uniform, player flexing in the silver jersey with carbon fiber numbers and an electric blue helmet",
+      "imagePosition": "center 30%",
+      "credit": { "text": "Detroit Lions" },
+      "worn": { "date": "2026-11-01", "matchup": "vs Minnesota Vikings, Week 8", "status": "Confirmed" },
+      "why": "PLACEHOLDER for Jake: one line, in our voice, on why this jersey is great.",
+      "whyPlaceholder": true,
+      "story": "Detroit calls the jersey Rivalries Silver: a pale silver base with DETROIT across the chest and italic numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. The helmet is a metallic electric blue shell with glossy carbon-fiber stripes and a carbon-fiber lion logo, and \"Defend the Den\" is sewn inside the collar. The Lions wear it once this season, today against the Vikings at Ford Field.",
+      "scheduleSlug": "lions-uniform-schedule-2026",
+      "scheduleLabel": "Lions 2026 uniform schedule",
+      "related": [
+        { "slug": "nfl-rivalries-uniforms-2026-ranked", "label": "Every 2026 Rivalries uniform, ranked" }
+      ]
+    }
+  }
+}

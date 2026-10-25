@@ -288,6 +288,9 @@ const leagues: NavLeague[] = [
       { label: "Rugby", href: "/stories?league=rugby" },
       { label: "Cricket", href: "/stories?league=cricket" },
       { label: "UFL", href: "/stories?league=ufl" },
+      // SUGGESTION (Jersey of the Day mock, not live): once Jake approves the
+      // page, add it here, or as a top-level navLinks item next to News.
+      // { label: "Jersey of the Day", href: "/jersey-of-the-day" },
     ],
   },
 ];

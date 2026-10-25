@@ -361,6 +361,9 @@ export default async function Home() {
             lead + three cards 10/13 (Jake: one up top, three underneath). */}
         <div className="pt-8" />
         <TonightStrip leagues={tonight} />
+        {/* SUGGESTION (Jersey of the Day mock, not live): a one-tile teaser
+            under Tonight, e.g. <JotdTile entry={pickFor().entry} href="/jersey-of-the-day" />
+            from components/JerseyOfTheDay.tsx. Waiting on Jake's OK. */}
 
         {/* The Wire: the next three items after the ones in the Takes rail */}
         <div className="pt-10" />
