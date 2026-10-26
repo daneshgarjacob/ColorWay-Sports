@@ -26,6 +26,8 @@ export type JotdEntry = {
   imageFit?: "cover" | "contain";
   imageCaption?: string;
   credit: JotdCredit;
+  /** A team's own X post showing the jersey in a real game, embedded under the photo. */
+  tweet?: { url: string; label: string };
   worn: { date: string; matchup: string; status: JotdStatus; note?: string };
   why: string;
   whyPlaceholder?: boolean;

@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import { JotdTile, PhotoCredit, TodayFeature } from "@/components/JerseyOfTheDay";
+import TwitterEmbed from "@/components/TwitterEmbed";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
 import { longDay, pickFor, etToday, secsToEtMidnight, shortDate, weekEnding } from "@/lib/jerseyOfTheDay";
 
@@ -105,6 +106,17 @@ export default async function JerseyOfTheDayPage() {
               <section className="pt-6" aria-label="Today's jersey">
                 <TodayFeature entry={entry} isToday={isToday} />
                 <PhotoCredit credit={entry.credit} caption={entry.imageCaption} />
+                {entry.tweet && (
+                  <div className="mt-8 max-w-[560px] mx-auto">
+                    <h2 className="font-display text-[12px] font-extrabold tracking-[0.18em] uppercase text-steel m-0 mb-2 text-center">
+                      {entry.tweet.label}
+                    </h2>
+                    <blockquote className="twitter-tweet" data-dnt="true" data-conversation="none">
+                      <a href={entry.tweet.url}>{entry.tweet.url}</a>
+                    </blockquote>
+                    <TwitterEmbed />
+                  </div>
+                )}
               </section>
 
               <section className="pt-10" aria-labelledby="this-week">
