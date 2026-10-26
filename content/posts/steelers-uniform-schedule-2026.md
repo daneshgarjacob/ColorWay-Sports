@@ -3,7 +3,7 @@ topViewsRank: 11
 title: "Pittsburgh Steelers Jerseys & Uniforms 2026: Full Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-26"
 excerpt: "The Steelers are bringing back the 1933 throwback, and we have it on Black Friday against Denver. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -118,7 +118,7 @@ Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with 
 
 **What jerseys are the Steelers wearing this week?**
 
-Week 7 against New Orleans in Paris, October 25, confirmed by the team: black helmet, white jersey and black pants, a new combination for Pittsburgh, with the Saints as the designated home team. Week 6 at Tampa Bay, October 18, worn: black helmet, black jersey and gold pants, as we had projected, with the Buccaneers in white at home. Pittsburgh won 26-19 in overtime. We grade the matchup a B+. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
+Week 7 against New Orleans in Paris, October 25, worn: black helmet, white jersey and black pants, a new combination for Pittsburgh. The Saints, the designated home team, wore black over gold pants, and Pittsburgh won 16-10. We grade the matchup a B-. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
 
 **What uniform did the Steelers wear last week?**
 

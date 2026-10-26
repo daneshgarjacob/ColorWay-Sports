@@ -2,7 +2,7 @@
 title: "Atlanta Falcons Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-26"
 excerpt: "The Falcons wear the 1966 throwback, red helmet and black jersey, in Week 7 vs the 49ers and Week 13 vs the Lions. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #A71930 0%, #6b0f1e 55%, #000000 130%)"
 coverImage: "/images/posts/falcons-uniform-schedule-2026/cover.jpg"
@@ -53,7 +53,7 @@ Nine home games including Madrid, eight on the road, and a Week 11 bye.
 
 **Every game on that grid except Week 8 is a confirmed uniform assignment.** Atlanta released the full jersey schedule on September 10, split into three graphics for red, white and throwback. The rotation is red at home, white on the road, the 1966 throwback in Weeks 7 and 13, and two road games in red: Week 4 in New Orleans and Week 8 in Tampa Bay, where the home team wears white.
 
-**Week 7 combination, confirmed:** against San Francisco, Sunday, October 25: the 1966 throwback, with the **throwback red helmet, throwback black jersey and throwback white pants**, as the team showed in its "Sunday attire" post on October 24. Our grade on the look: **A-**. We love it.
+**Week 7 combination, worn:** against San Francisco, Sunday, October 25: the 1966 throwback, with the **throwback red helmet, throwback black jersey and throwback white pants**, as the team showed in its "Sunday attire" post on October 24 and as the game photos confirm. The 49ers wore white over gold pants, and Atlanta won 29-20. We grade the matchup an **A-**. We love it.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AtlantaFalcons/status/2114069790536917315"></a></blockquote>
@@ -134,7 +134,7 @@ Red if Atlanta is at home, white if they are on the road, except red at New Orle
 
 **What jerseys are the Falcons wearing this week?**
 
-Same rule. Check whether Atlanta is home or away in the grid above. Home is red, away is white, with red on the road at New Orleans in Week 4 and Tampa Bay in Week 8.
+Week 7 against San Francisco, October 25, worn: the 1966 throwback, red helmet, black jersey and white pants. The 49ers wore white over gold pants, and Atlanta won 29-20. We grade the matchup an A-. For the rest of the season: check whether Atlanta is home or away in the grid above. Home is red, away is white, with red on the road at New Orleans in Week 4 and Tampa Bay in Week 8.
 
 **What uniform did the Falcons wear last week?**
 

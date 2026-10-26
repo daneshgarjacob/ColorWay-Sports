@@ -3,7 +3,7 @@ topViewsRank: 8
 title: "Texans Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-22"
+updatedDate: "2026-10-26"
 excerpt: "Every Texans jersey for 2026, week by week. Battle Red is Week 7 vs. the Giants, and the white-helmet HOUSTON/US Rivalries uniform debuts Week 11 on Thursday night."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -154,7 +154,7 @@ Deep Steel Blue at home and white on the road, with three confirmed exceptions. 
 
 **What jerseys are the Texans wearing this week?**
 
-Week 6 against Jacksonville at Wembley Stadium, October 18, worn: navy helmet, white jersey and navy pants, not the white pants we had projected. The Jaguars, the designated home team, wore black helmet, teal jersey and black pants, and Houston won 34-31. We grade the matchup a B+. For the rest of the season: Deep Steel Blue at home and white on the road, with three confirmed exceptions. Liberty White opens the season in Week 1 against Buffalo, Battle Red comes out in Week 7 against the Giants, and the new Rivalries uniform debuts in Week 11 against Indianapolis. Week 18 against Tennessee is the Blue Alternate. The Week 6 London game against Jacksonville is a white road-style set even though Houston is technically the visitor.
+Week 7 against the Giants, October 25, worn: Battle Red, red helmet, red jersey and red pants, as announced. The Giants wore white over white pants, and New York won 27-21 in overtime. We grade the matchup a B+. For the rest of the season: Deep Steel Blue at home and white on the road, with three confirmed exceptions. Liberty White opens the season in Week 1 against Buffalo, Battle Red comes out in Week 7 against the Giants, and the new Rivalries uniform debuts in Week 11 against Indianapolis. Week 18 against Tennessee is the Blue Alternate. The Week 6 London game against Jacksonville is a white road-style set even though Houston is technically the visitor.
 
 **What uniform did the Texans wear last week?**
 

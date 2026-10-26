@@ -3,7 +3,7 @@ topViewsRank: 10
 title: "New York Jets Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-26"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -116,7 +116,7 @@ Gotham green at home and white on the road, with three confirmed exceptions, all
 
 **What jerseys are the Jets wearing this week?**
 
-Week 6 at New England, October 18, worn: green helmet, white jersey and green pants, the look the Jets have worn on every road trip. The Patriots wore navy over navy pants, and New England won 26-19. We grade the matchup a B. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
+Week 7 against Miami, October 25, worn: the Classic set, white helmet, white jersey and white pants with green trim. The Dolphins wore aqua over white pants, and Miami won 28-25. We grade the matchup an A-. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
 
 **What uniform did the Jets wear last week?**
 

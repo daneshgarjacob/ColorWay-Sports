@@ -3,7 +3,7 @@ title: "NFL Week 7 Uniforms 2026: What Every Team Is Wearing, Including the Falc
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-10-19"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-26"
 excerpt: "NFL Week 7 uniforms (Oct. 22-26): Falcons 1966 throwback vs the 49ers, Seahawks royal blue throwback vs the Chiefs on Sunday night, Cowboys Color Rush at the Eagles on Monday, and the Steelers in white jerseys with black pants in Paris."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #A71930 130%)"
 cardStyle: words
@@ -13,9 +13,11 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 7 of the 2026 NFL season runs from Thursday, October 22 to Monday, October 26, with 14 games and four teams on bye: the Buffalo Bills, Jacksonville Jaguars, Los Angeles Chargers and Washington Commanders. It is the deepest throwback week of the season so far. Atlanta brings out its **1966 throwback**, red helmet over a black jersey, against San Francisco. Seattle wears its **royal blue throwback** for the second straight week, this time at home against Kansas City on Sunday night. The Jets wear **the Classic** against Miami, Minnesota goes **all purple** against the Colts, Houston has its **Battle Red** game against the Giants, and Dallas closes the week in the **Arctic White Color Rush** at Philadelphia on Monday night. On Sunday morning, New Orleans and Pittsburgh play at the **Stade de France** in Paris.
+Week 7 of the 2026 NFL season runs from Thursday, October 22 to Monday, October 26, with 14 games and four teams on bye: the Buffalo Bills, Jacksonville Jaguars, Los Angeles Chargers and Washington Commanders. It is the deepest throwback week of the season so far. Atlanta brings out its **1966 throwback**, red helmet over a black jersey, against San Francisco. Seattle wears its **royal blue throwback** for the second straight week, this time at home against Kansas City on Sunday night. The Jets wear **the Classic** against Miami, Minnesota listed **all purple** against the Colts (it wore white pants on the day), Houston has its **Battle Red** game against the Giants, and Dallas closes the week in the **Arctic White Color Rush** at Philadelphia on Monday night. On Sunday morning, New Orleans and Pittsburgh play at the **Stade de France** in Paris.
 
 Below is every Week 7 look we know, starting with the special ones and then all 14 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Expected** is our read from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Helmets and jerseys project reliably; pants are the piece teams change the week of the game, so treat every expected pants call as the least certain part of the line.
+
+**Update, October 26:** Every Thursday and Sunday game is final, and the list below now shows what each team actually wore, checked against the game photos, with scores and our matchup grades. Three teams changed their pants from what was expected: the **Vikings** wore **white pants** with the purple jersey instead of the all-purple set, the **Bengals** wore **white pants** at Baltimore, and the **Rams** wore **royal pants** in Las Vegas. The best-dressed game was Seattle's royal blue throwback against Kansas City on Sunday night (A). Monday night's Cowboys at Eagles game is still to come.
 
 **Update, October 22:** Five more teams have shown their full Sunday looks. The **Lions** go **black jersey, black pants and the Honolulu blue helmet** against Green Bay. The **Packers** confirm **gold helmet, white jersey, gold pants**. The **Cardinals** go **red on red**: white helmet, cardinal red jersey, **cardinal red pants**. The **Browns** debut what they call a **new road combo** in Nashville: **orange helmet, white jersey, brown pants**. And the **Ravens** are **purple over purple**: black helmet, purple jersey, **purple pants**. Houston confirmed **all red** for its Battle Red game, red helmet, red jersey and red pants, and the Jets confirmed **the Classic in all white**. Seattle also confirmed the royal blue throwback for Sunday night, and the Falcons wore the red helmets at practice.
 
@@ -49,11 +51,11 @@ Below is every Week 7 look we know, starting with the special ones and then all 
 
 **Monday, 8:15 p.m. ET, ESPN and ABC. Confirmed on both sides.** Dallas published all 17 games on September 2, and the Monday night trip is the second of three dates for the **Arctic White Color Rush**: a **white helmet** with the current star and a white facemask, a **white jersey with navy shoulders** and navy numbers, and **white pants with twin navy stripes**. It is a separate uniform, not a pants swap. Philadelphia posted its ["Week 7 Uniform"](https://x.com/Eagles/status/2113386184919617737) on October 22: **midnight green** under the midnight green helmet with white pants, the home look it wore in Weeks 4 and 6. A lot of fans hoped for Kelly Green here, but the Eagles announced all three alternate dates on September 4, Kelly Green in Weeks 9 and 16 and black in Week 15, and this game is not one of them. Our matchup grade: **B+**. See the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and the [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026).
 
-### Indianapolis Colts at Minnesota Vikings: All Purple
+### Indianapolis Colts at Minnesota Vikings: All Purple Listed, White Pants Worn
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/colts-white-road.jpg" alt="Indianapolis Colts white road jersey, expected at Minnesota in Week 7 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Colts · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/vikings-purple-home.jpg" alt="Minnesota Vikings purple home jersey, confirmed with purple pants against the Colts in Week 7 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Vikings · Confirmed</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Vikings confirmed, Colts expected.** Minnesota put a jersey on every home date when it published its 2026 game themes, and Week 7 is the **all-purple** combination: **purple helmet, purple jersey, purple pants**. It is the same home jersey, worn with purple pants instead of white, and it gets this one date. Indianapolis is expected in its standard road set, **white helmet, white jersey, white pants**, the look it wore at Pittsburgh in Week 5. Monochrome purple against monochrome white. Our matchup grade: **B+**. More in the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026) and the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026).
+**Update, October 26: the Vikings wore white pants, not purple.** The game photos show Minnesota in the purple helmet and purple jersey with white pants, and the Colts in all white. Minnesota won 16-10, and our final matchup grade is a B. Our preview: **Sunday, 1:00 p.m. ET, CBS. Vikings confirmed, Colts expected.** Minnesota put a jersey on every home date when it published its 2026 game themes, and Week 7 is the **all-purple** combination: **purple helmet, purple jersey, purple pants**. It is the same home jersey, worn with purple pants instead of white, and it gets this one date. Indianapolis is expected in its standard road set, **white helmet, white jersey, white pants**, the look it wore at Pittsburgh in Week 5. Monochrome purple against monochrome white. Our matchup grade: **B+**. More in the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026) and the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026).
 
 ### Miami Dolphins at New York Jets: The Classic
 
@@ -118,22 +120,22 @@ Our matchup grade: **B**. See the [Bears 2026 uniform schedule](/stories/bears-u
 
 ### Thursday, October 22
 
-- **New England Patriots at Chicago Bears**, 8:15 p.m. ET, Prime Video. Patriots: silver helmet, white jersey, navy pants (expected). Bears: navy helmet, navy jersey, white pants (expected).
+- **New England Patriots at Chicago Bears**, 8:15 p.m. ET, Prime Video. Worn: Patriots silver helmet, white jersey, white pants. Bears navy helmet, navy jersey, white pants. **Final: Bears 30, Patriots 24.** Matchup grade: B.
 
 ### Sunday, October 25
 
-- **Pittsburgh Steelers vs. New Orleans Saints** (Paris, Stade de France; Saints are the home team), 9:30 a.m. ET, NFL Network. Steelers: black helmet, white jersey, black pants (confirmed). Saints: gold helmet, black jersey (confirmed), pants not announced.
-- **San Francisco 49ers at Atlanta Falcons**, 1:00 p.m. ET, FOX. 49ers: gold helmet, white jersey, gold pants (expected). Falcons: 1966 throwback, red helmet, black jersey, white pants (confirmed).
-- **Cleveland Browns at Tennessee Titans**, 1:00 p.m. ET, CBS. Browns: orange helmet, white jersey, brown pants (confirmed). Titans: white helmet, Titans blue jersey, white pants (expected).
-- **Indianapolis Colts at Minnesota Vikings**, 1:00 p.m. ET, CBS. Colts: white helmet, white jersey, white pants (expected). Vikings: all purple, purple helmet, purple jersey, purple pants (confirmed).
-- **Miami Dolphins at New York Jets**, 1:00 p.m. ET, CBS. Dolphins: white helmet, aqua jersey, white pants (confirmed). Jets: the Classic, white helmet, white jersey, white pants (confirmed).
-- **Tampa Bay Buccaneers at Carolina Panthers**, 1:00 p.m. ET, FOX. Buccaneers: pewter helmet, white jersey, pewter pants (confirmed). Panthers: black helmet, Panther blue jersey (confirmed), pants to be announced in game week.
-- **Cincinnati Bengals at Baltimore Ravens**, 1:00 p.m. ET, CBS. Bengals: striped orange helmet, white jersey, black pants (expected). Ravens: black helmet, purple jersey, purple pants (confirmed).
-- **New York Giants at Houston Texans**, 1:00 p.m. ET, FOX. Giants: blue helmet, white jersey, white pants (confirmed). Texans: Battle Red, red helmet, red jersey, red pants (confirmed).
-- **Denver Broncos at Arizona Cardinals**, 4:05 p.m. ET, CBS. Broncos: navy helmet, Summit White jersey, navy pants (confirmed). Cardinals: white helmet, cardinal red jersey, cardinal red pants (confirmed).
-- **Green Bay Packers at Detroit Lions**, 4:25 p.m. ET, FOX. Packers: gold helmet, white jersey, gold pants (confirmed). Lions: Honolulu blue helmet, black alternate jersey, black pants (confirmed).
-- **Los Angeles Rams at Las Vegas Raiders**, 4:25 p.m. ET, FOX. Rams: royal helmet, white jersey (confirmed), white pants (expected). Raiders: silver helmet, black jersey, silver pants (expected).
-- **Kansas City Chiefs at Seattle Seahawks**, 8:20 p.m. ET, NBC. Chiefs: red helmet, white jersey, white pants (confirmed). Seahawks: royal blue throwback jersey (confirmed), silver helmet and silver pants (expected).
+- **Pittsburgh Steelers vs. New Orleans Saints** (Paris, Stade de France; Saints are the home team), 9:30 a.m. ET, NFL Network. Worn: Steelers black helmet, white jersey, black pants. Saints gold helmet, black jersey, gold pants. **Final: Steelers 16, Saints 10.** Matchup grade: B-.
+- **San Francisco 49ers at Atlanta Falcons**, 1:00 p.m. ET, FOX. Worn: 49ers gold helmet, white jersey, gold pants. Falcons 1966 throwback, red helmet, black jersey, white pants. **Final: Falcons 29, 49ers 20.** Matchup grade: A-.
+- **Cleveland Browns at Tennessee Titans**, 1:00 p.m. ET, CBS. Worn: Browns orange helmet, white jersey, brown pants. Titans white helmet, Titans blue jersey, white pants. **Final: Browns 27, Titans 24.** Matchup grade: A-.
+- **Indianapolis Colts at Minnesota Vikings**, 1:00 p.m. ET, CBS. Worn: Colts white helmet, white jersey, white pants. Vikings purple helmet, purple jersey, white pants, not the all-purple set the team had listed. **Final: Vikings 16, Colts 10.** Matchup grade: B.
+- **Miami Dolphins at New York Jets**, 1:00 p.m. ET, CBS. Worn: Dolphins white helmet, aqua jersey, white pants. Jets the Classic, white helmet, white jersey, white pants. **Final: Dolphins 28, Jets 25.** Matchup grade: A-.
+- **Tampa Bay Buccaneers at Carolina Panthers**, 1:00 p.m. ET, FOX. Worn: Buccaneers pewter helmet, white jersey, pewter pants. Panthers black helmet, Panther blue jersey, black pants. **Final: Buccaneers 43, Panthers 13.** Matchup grade: B+.
+- **Cincinnati Bengals at Baltimore Ravens**, 1:00 p.m. ET, CBS. Worn: Bengals striped orange helmet, white jersey, white pants. Ravens black helmet, purple jersey, purple pants. **Final: Bengals 35, Ravens 13.** Matchup grade: B.
+- **New York Giants at Houston Texans**, 1:00 p.m. ET, FOX. Worn: Giants blue helmet, white jersey, white pants. Texans Battle Red, red helmet, red jersey, red pants. **Final: Giants 27, Texans 21 (OT).** Matchup grade: B+.
+- **Denver Broncos at Arizona Cardinals**, 4:05 p.m. ET, CBS. Worn: Broncos navy helmet, Summit White jersey, navy pants. Cardinals white helmet, cardinal red jersey, cardinal red pants. **Final: Broncos 30, Cardinals 16.** Matchup grade: B.
+- **Green Bay Packers at Detroit Lions**, 4:25 p.m. ET, FOX. Worn: Packers gold helmet, white jersey, gold pants. Lions blue helmet, black alternate jersey, black pants. **Final: Lions 20, Packers 17.** Matchup grade: B.
+- **Los Angeles Rams at Las Vegas Raiders**, 4:25 p.m. ET, FOX. Worn: Rams royal helmet, white jersey, royal pants. Raiders silver helmet, black jersey, silver pants. **Final: Rams 35, Raiders 21.** Matchup grade: B+.
+- **Kansas City Chiefs at Seattle Seahawks**, 8:20 p.m. ET, NBC. Worn: Chiefs red helmet, white jersey, white pants. Seahawks silver helmet, royal blue throwback jersey, silver pants. **Final: Seahawks 20, Chiefs 3.** Matchup grade: A.
 
 ### Monday, October 26
 
@@ -145,7 +147,7 @@ Buffalo Bills, Jacksonville Jaguars, Los Angeles Chargers, Washington Commanders
 
 ## The Bottom Line
 
-Week 7 is the throwback week. Atlanta's 1966 set debuts against San Francisco, Seattle's royal blue gets a Sunday night stage, the Jets wear the Classic, Minnesota goes all purple, Houston turns the stadium red, and Dallas brings the Arctic White Color Rush to Philadelphia on Monday night. Add the Saints and Steelers in Paris and it is the busiest week for special looks so far. If you missed last week, our [Week 6 uniform guide](/stories/nfl-week-6-uniforms-2026) has every Week 6 look and grade. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
+Week 7 is the throwback week. Atlanta's 1966 set debuts against San Francisco, Seattle's royal blue gets a Sunday night stage, the Jets wear the Classic, Minnesota listed all purple (and wore white pants), Houston turns the stadium red, and Dallas brings the Arctic White Color Rush to Philadelphia on Monday night. Add the Saints and Steelers in Paris and it is the busiest week for special looks so far. If you missed last week, our [Week 6 uniform guide](/stories/nfl-week-6-uniforms-2026) has every Week 6 look and grade. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
 
 ## Frequently Asked Questions
 
@@ -179,7 +181,7 @@ We do not expect it. Philadelphia announced its three alternate dates on Septemb
 
 **What are the Vikings wearing against the Colts?**
 
-All purple: the purple helmet, purple jersey and purple pants, listed on Minnesota's own home schedule. It is the one all-purple date of the season. The Colts are expected in all white.
+Minnesota listed all purple on its own home schedule, but on the day the Vikings wore the purple helmet and purple jersey with white pants, confirmed from the game photos. The Colts wore all white, and Minnesota won 16-10.
 
 **What are the Jets wearing against the Dolphins?**
 

@@ -3,7 +3,7 @@ topViewsRank: 9
 title: "Seahawks Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-26"
 excerpt: "The Seahawks' 2026 uniform schedule: confirmed dates for two royal blue throwback games and the Christmas Day Rivalries jersey, plus the college navy and white sets."
 gradient: "linear-gradient(135deg, #0b3a6b 0%, #002244 55%, #000d1c 130%)"
 coverImage: "/images/posts/seahawks-uniform-schedule-2026/cover.jpg"
@@ -122,7 +122,7 @@ College Navy at home and white on the road, with three confirmed exceptions: the
 
 **What jerseys are the Seahawks wearing this week?**
 
-Week 6 at Denver on Thursday Night Football, October 15, worn: the royal blue throwback jersey with the silver helmet and silver pants, as the team announced on October 13. Denver wore its orange throwback, and the Broncos won 17-14 in overtime. We grade the matchup an A+, the most colorful game of the week. For the rest of the season: College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day. Seattle also wears the royal blue throwback on the road in Week 6 at Denver, with the Broncos in their orange classic throwback.
+Week 7 against Kansas City on Sunday Night Football, October 25, worn: the royal blue throwback with the silver helmet and silver pants. The Chiefs wore white over white pants, and Seattle won 20-3. We grade the matchup an A. For the rest of the season: College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day. Seattle also wears the royal blue throwback on the road in Week 6 at Denver, with the Broncos in their orange classic throwback.
 
 **What uniform did the Seahawks wear last week?**
 

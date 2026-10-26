@@ -2,7 +2,7 @@
 title: "Every Minnesota Vikings Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-26"
 excerpt: "Minnesota Vikings jerseys 2026, ranked: purple, white, the Classic throwback, Winter Warrior and the new Rivalries set, graded with every date each is worn."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 author: "colorway-sports-staff"
@@ -82,7 +82,7 @@ It grades a B+. It ranks above the Winter Warrior because it lets purple frame t
 
 The purple home jersey has white numbers outlined in gold and the same horn stripe on the shoulders, worn under the purple helmet with the white horn. Minnesota has confirmed it for six home games. Five are purple over white pants: the Miami Dolphins in Week 4 on Sunday, October 4, the Buffalo Bills on Monday, November 9, when Adrian Peterson enters the Ring of Honor, the Atlanta Falcons in Week 12, the Carolina Panthers in Week 13, and the Chicago Bears in Week 18.
 
-The sixth is the All-Purple game against the Indianapolis Colts on Sunday, October 25, which is this same jersey worn with purple pants. That is the boldest thing the Vikings do with their standard set, and we are on the side that likes it: it is the one version of the uniform where the color is the whole statement. The white pants are the more classic look. The purple pants are the more Minnesota one.
+The sixth was listed as the All-Purple game against the Indianapolis Colts on Sunday, October 25, this same jersey worn with purple pants, though on the day Minnesota wore white pants instead. That is the boldest thing the Vikings do with their standard set, and we are on the side that likes it: it is the one version of the uniform where the color is the whole statement. The white pants are the more classic look. The purple pants are the more Minnesota one.
 
 It grades an A-. Minnesota owns one of the two or three best base colors in football, and this jersey puts it front and center without getting in its own way.
 
@@ -107,7 +107,7 @@ It grades an A-, the same as the purple home jersey, and it takes the top spot b
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #eef2f7; border: 1px solid #d6e0ec; border-radius: 14px;">
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>1. Classic</strong> · A- · Week 1 vs. Packers (worn)</p>
-  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>2. Purple Home</strong> · A- · six home games, including All-Purple in Week 7</p>
+  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>2. Purple Home</strong> · A- · six home games, including the Week 7 game listed as All-Purple</p>
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>3. White Road</strong> · B+ · eight road games</p>
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>4. Winter Warrior</strong> · B+ · Week 16 vs. Commanders</p>
   <p style="margin: 0; color: #000000; font-size: 0.98em;"><strong>5. Rivalries</strong> · F · Week 15 vs. Lions</p>
@@ -125,7 +125,7 @@ The Rivalries uniform is the exception, an F that takes the strongest hand in th
 
 **What jerseys do the Vikings have in 2026?**
 
-Five: the purple home jersey, the white road jersey, the Classic throwback, the all-white Winter Warrior, and the new Rivalries uniform. The All-Purple look in Week 7 is the purple home jersey worn with purple pants, not a separate jersey.
+Five: the purple home jersey, the white road jersey, the Classic throwback, the all-white Winter Warrior, and the new Rivalries uniform. The All-Purple look listed for Week 7 is the purple home jersey worn with purple pants, not a separate jersey; the Vikings wore white pants in that game.
 
 **What is the best Vikings jersey?**
 

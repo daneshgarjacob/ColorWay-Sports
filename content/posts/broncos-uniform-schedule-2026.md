@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-26"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -28,7 +28,7 @@ Want them graded instead? Here is [every Denver Broncos jersey ranked](/stories/
 
 Nine games in Summit White, four in Sunset Orange, two in Midnight Navy, two in the Orange Crush throwback, and a Week 10 bye.
 
-**Week 7 combination, as announced for game week:** navy helmet, Summit White jersey, navy pants at the Cardinals on Sunday, October 25, from the team's "Arizona Attire" post on October 24. It is the same navy-over-white-over-navy road look Denver wore at San Francisco in Week 4. Arizona has confirmed red on red: white helmet, cardinal red jersey, cardinal red pants.
+**Week 7 combination, worn:** navy helmet, Summit White jersey, navy pants at the Cardinals on Sunday, October 25, as announced in the team's "Arizona Attire" post on October 24 and confirmed from the game photos. It is the same navy-over-white-over-navy road look Denver wore at San Francisco in Week 4. Arizona wore red on red, white helmet, cardinal red jersey and cardinal red pants, and Denver won 30-16.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2114025398086316034"></a></blockquote>
@@ -47,7 +47,7 @@ Nine games in Summit White, four in Sunset Orange, two in Midnight Navy, two in 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at 49ers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Summit White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Summit White · White Pants</div></div>
   <div style="background: #1b6ac9; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Seahawks</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Orange Throwback · TNF</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Summit White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Summit White · Navy Pants</div></div>
   <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Sunset Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Summit White</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -219,7 +219,7 @@ Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7,
 
 **What jerseys are the Broncos wearing this week?**
 
-Week 6 against Seattle on Thursday Night Football, October 15, worn: the orange throwback jersey under the royal blue "D" helmet, with white pants carrying an orange and blue stripe, as the team announced on October 13. Seattle wore its royal blue throwback with the silver helmet and silver pants, and Denver won 17-14 in overtime. We grade the matchup an A+, the most colorful game of the week. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
+Week 7 at Arizona, October 25, worn: navy helmet, Summit White jersey and navy pants, as announced. The Cardinals wore red over red pants, and Denver won 30-16. We grade the matchup a B. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
 
 **What uniform did the Broncos wear last week?**
 
