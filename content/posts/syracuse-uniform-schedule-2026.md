@@ -3,7 +3,7 @@ title: "Syracuse Uniform Schedule 2026: Every Jersey and When the Orange Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-10-26"
 excerpt: "What Syracuse wears every game in 2026: navy at home, white on the road, the orange helmet, and the full Orange uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002D72 0%, #1a3f85 55%, #F76900 130%)"
 cardStyle: words
@@ -15,7 +15,9 @@ resurfaceOnUpdate: true
 
 Syracuse used to be one of the most unpredictable dressers in the ACC. Under Fran Brown it is one of the most disciplined: navy jerseys at home, white jerseys on the road, orange helmets and orange pants almost every time. That makes the Syracuse uniform schedule easy to read, as long as you know the rule and the one thing that could break it. This is the full Syracuse 2026 uniform schedule: the navy home set, the white road set, the alternates still sitting in the closet, and a week-by-week outlook for all twelve games in Brown's third season. We update this page as each combination is confirmed.
 
-**Update, October 24:** Syracuse wore the **orange helmet, white jersey and orange pants** at North Carolina, confirmed from the team's game photos, and won **31-30 in overtime**.
+**Update, October 26:** Syracuse will wear a **white helmet featuring Otto the Orange** against SMU on Halloween, the first time ever the team has put Otto on its helmets. Only the helmet has been shown.
+
+**October 24:** Syracuse wore the **orange helmet, white jersey and orange pants** at North Carolina, confirmed from the team's game photos, and won **31-30 in overtime**.
 
 ## The Syracuse 2026 Uniform Sets
 
@@ -39,7 +41,7 @@ The current Nike set arrived in June 2019 and leaned into tradition: the block S
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #002D72; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
-  <div style="background: #002D72; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #002D72; color: #ffffff; border: 2px solid #F76900; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Announced: Otto Helmet (White) / Navy expected</div></div>
   <div style="background: #002D72; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -58,11 +60,17 @@ The current Nike set arrived in June 2019 and leaned into tradition: the block S
 
 **October 10 at Virginia.** ★ Confirmed from the broadcast: **orange helmet, white jersey, orange pants**, the standard road set at Scott Stadium, 7:30 p.m. Eastern on ACC Network. Virginia wore the white helmet, navy jersey and white pants. Syracuse led 17-7 at halftime, but Virginia scored 14 in the fourth quarter and won 28-25, and the Orange fell to 2-3. See the [Virginia 2026 uniform schedule](/stories/virginia-uniform-schedule-2026).
 
-**October 17 vs. Louisville.** Navy expected. Back in the Dome after five weeks away, with Louisville in white. The [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026) covers the Cardinals.
+**October 17 vs. Louisville.** Navy expected. Back in the Dome after five weeks away, with Louisville in white. **Final: Louisville 34, Syracuse 26.** The [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026) covers the Cardinals.
 
 **October 24 at North Carolina.** White expected. Kenan Stadium, with the Tar Heels expected in Carolina blue. See our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026). **Worn: orange helmet, white jersey and orange pants**, confirmed from the team's game photos. North Carolina wore a Carolina blue helmet and Carolina blue jersey. **Final: Syracuse 31, North Carolina 30 (OT).**
 
-**October 31 vs. SMU.** Navy expected. Halloween in the Dome, with SMU the visitor in white.
+**October 31 vs. SMU**, noon Eastern on ESPN2. Announced: **the Otto helmet**. Syracuse said it will "debut helmets featuring our Hall of Fame mascot Otto for the FIRST TIME ever" on Halloween. The team's photos show a white Riddell SpeedFlex shell with a cartoon Otto decal (an orange Otto in an orange cap with a navy S, pointing), an orange center stripe with navy on both sides, a white facemask and ACC in orange on the front bumper. It is the first non-orange helmet Syracuse has announced this season. Only the helmet has been shown, so the navy jersey is still expected at home. SMU, ranked No. 19, is the visitor and expected in white; see the [SMU 2026 uniform schedule](/stories/smu-uniform-schedule-2026). Syracuse Athletics says it is only the third meeting between the programs and SMU's first trip to the Dome.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CuseFootball/status/2114800798463140343"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Otto helmet reveal, via @CuseFootball</p>
 
 **November 7 vs. Clemson.** Navy expected. Clemson in white, and two orange helmets on the same field. This is a matchup where an alternate would get noticed, but under Brown we expect the standard set. The [Clemson 2026 uniform schedule](/stories/clemson-uniform-schedule-2026) has the Tigers.
 
@@ -74,13 +82,13 @@ The current Nike set arrived in June 2019 and leaned into tradition: the block S
 
 ## The Bottom Line
 
-Syracuse has worn the orange helmet, navy jersey and orange pants in both home games, and the orange helmet, white jersey and orange pants in all three road games, the loss at Pitt, the overtime win at UConn and the 28-25 loss at Virginia. Fran Brown runs the closet like a traditionalist, so the rest of the schedule reads cleanly: navy at home against Louisville, SMU, Clemson and Notre Dame, and white at North Carolina, NC State and Boston College. The only open question is whether the Orange do enough this season to earn the all-orange look, and the home dates against Clemson and Notre Dame are where it would appear. The grid above has every date, and we star each game once the combination is confirmed.
+Syracuse has worn the orange helmet, navy jersey and orange pants in both home games, and the orange helmet, white jersey and orange pants in all three road games, the loss at Pitt, the overtime win at UConn and the 28-25 loss at Virginia. Fran Brown runs the closet like a traditionalist, so the rest of the schedule reads cleanly: navy at home against Louisville, SMU, Clemson and Notre Dame, and white at North Carolina, NC State and Boston College. The one confirmed change is the white Otto helmet against SMU on Halloween, the first Otto helmet in program history. The other open question is whether the Orange do enough this season to earn the all-orange look, and the home dates against Clemson and Notre Dame are where it would appear. The grid above has every date, and we star each game once the combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Syracuse wearing this week?**
 
-Syracuse wore the orange helmet, white jersey and orange pants at North Carolina on Saturday, October 24, confirmed from the team's game photos, and won 31-30 in overtime. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). We star the grid cell as soon as the combination is confirmed.
+Syracuse will wear a white helmet featuring Otto the Orange against SMU on Saturday, October 31, the first time ever the team has worn an Otto helmet. The jersey and pants have not been announced; navy is expected at home. Last week Syracuse wore the orange helmet, white jersey and orange pants at North Carolina, confirmed from the team's game photos, and won 31-30 in overtime. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). We star the grid cell as soon as the combination is confirmed.
 
 **What are Syracuse's football uniforms for 2026?**
 
@@ -88,11 +96,15 @@ A navy home jersey, a white road jersey, and orange pants, all from Nike, with a
 
 **Does Syracuse have a new alternate uniform in 2026?**
 
-Nothing has been announced. Fran Brown has said alternates like the all-orange set have to be earned, and Syracuse has stuck to navy at home and white on the road under him. If that changes, the home games against Clemson on November 7 and Notre Dame on November 28 are the most likely dates.
+A new helmet, yes. Syracuse will debut a white helmet featuring Otto the Orange against SMU on October 31, the first time it has ever put Otto on its helmets. No alternate jersey has been announced. Fran Brown has said alternates like the all-orange set have to be earned, and Syracuse has stuck to navy at home and white on the road under him. If that changes, the home games against Clemson on November 7 and Notre Dame on November 28 are the most likely dates.
 
 **Why doesn't Syracuse wear orange jerseys anymore?**
 
 Head coach Fran Brown prefers a traditional approach, with one uniform at home and one on the road, and he turned down an all-orange request from the athletic department in 2024. The orange jersey's last notable outing came in 2023, with white helmets and white pants against Western Michigan.
+
+**Why is Otto on Syracuse's helmet?**
+
+Syracuse is debuting a helmet featuring Otto, which the team calls its Hall of Fame mascot, for its Halloween home game against SMU on October 31, 2026. Syracuse revealed it with photos of the white helmet in fall leaves next to a pumpkin. It is the first time ever Syracuse has worn an Otto helmet.
 
 **What did Syracuse wear against Cal?**
 

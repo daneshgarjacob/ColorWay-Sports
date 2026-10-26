@@ -3,7 +3,7 @@ title: "BYU Uniform Schedule 2026: Every Jersey and When the Cougars Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-10-26"
 excerpt: "What BYU wears every game in 2026: royal home jerseys, white road uniforms, navy looks, helmet swaps, and the full Cougars uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002E5D 0%, #0062B8 55%, #ffffff 130%)"
 cardStyle: words
@@ -13,9 +13,11 @@ teams: ["byu-cougars", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-BYU wears royal blue at home and white on the road, but the Cougars almost never wear the same full combination twice in a season. They pick a new pairing of helmet, jersey and pants every week and reveal it on the Monday of game week. This is the full BYU 2026 uniform schedule: the royal home set, the white road set, the navy accents, both helmets, and all twelve games week by week. All five games so far are confirmed, BYU is 5-0, and the Notre Dame look is already announced. We update this page every Monday when BYU reveals the next one.
+BYU wears royal blue at home and white on the road, but the Cougars almost never wear the same full combination twice in a season. They pick a new pairing of helmet, jersey and pants every week and reveal it on the Monday of game week. This is the full BYU 2026 uniform schedule: the royal home set, the white road set, the navy accents, both helmets, and all twelve games week by week. BYU is 6-1, and the Arizona State look is already announced. We update this page every Monday when BYU reveals the next one.
 
-**Update, October 24:** BYU wore its road whites at UCF, a **royal blue helmet, white jersey and white pants**, confirmed from the team's game photos, and lost **39-31 in double overtime**, its first loss of the season.
+**Update, October 26:** BYU announced an **all-navy** uniform for Game 8 against Arizona State on Halloween: a **navy helmet, navy jersey and navy pants**.
+
+**October 24:** BYU wore its road whites at UCF, a **royal blue helmet, white jersey and white pants**, confirmed from the team's game photos, and lost **39-31 in double overtime**, its first loss of the season.
 
 ## The BYU 2026 Uniform Sets
 
@@ -41,7 +43,7 @@ BYU has not announced a 2026 alternate or throwback yet. Its past specials inclu
   <div style="background: #002E5D; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #0062B8; color: #ffffff; border: 2px solid #002E5D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Announced: White / Royal / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #002E5D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Royal / White / White</div></div>
-  <div style="background: #0062B8; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Royal</div></div>
+  <div style="background: #002E5D; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Announced: Navy / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0062B8; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Royal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -74,7 +76,13 @@ See the [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026) for the 
 
 **October 24 at UCF.** White expected. A road trip to Orlando and the Acrisure Bounce House. **Worn: royal blue helmet, white jersey, white pants**, posted as "road whites looking clean" and confirmed from the team's game photos. UCF wore a gold helmet, black jersey and black pants for Homecoming. **Final: UCF 39, BYU 31 (2OT).**
 
-**October 31 vs. Arizona State.** Royal expected. A Halloween game in Provo, with the Sun Devils expected in white; see the [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026).
+**October 31 vs. Arizona State**, LaVell Edwards Stadium, 1:30 p.m. Mountain on FOX. Announced: **navy helmet, navy jersey, navy pants**. BYU revealed it on Monday of game week as "this week's uni combo," with a Gameday Threads, Game 08, vs Arizona State graphic: a navy helmet with a navy and white center stripe, the white oval Y and a navy facemask, a navy jersey with white numbers and the oval Y in the collar V, and navy pants with white side stripes. The Big 12 and Entrata patches are on the jersey. It is not the royal we expected, and it goes further than the Iowa State look, which paired the navy jersey with a white helmet and white pants. We will star it once we see it on the broadcast. The Sun Devils are expected in white; see the [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2114812629210612155"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Game 8 uniform reveal, via @BYUfootball</p>
 
 **November 7 at Utah.** White expected. The Holy War at Rice-Eccles Stadium, with Utah in red at home. A royal and white BYU against a red Utah is one of the cleanest color clashes in the Big 12.
 
@@ -92,7 +100,7 @@ BYU has one of the easiest color rules in the sport and one of the hardest wardr
 
 **What jersey is BYU wearing this week?**
 
-BYU wore a royal blue helmet, white jersey and white pants at UCF on Saturday, October 24, posted as "road whites looking clean" and confirmed from the team's game photos. UCF won 39-31 in double overtime, BYU's first loss of the season. The week before, BYU beat Notre Dame in a white helmet, royal jersey and white pants.
+BYU announced an all-navy uniform for Saturday, October 31, against Arizona State: a navy helmet with white stripes and the white oval Y, a navy jersey and navy pants with white side stripes. Kickoff is 1:30 p.m. Mountain on FOX. Last week BYU wore a royal blue helmet, white jersey and white pants at UCF, confirmed from the team's game photos, and lost 39-31 in double overtime, its first loss of the season.
 
 **What are BYU's football uniforms for 2026?**
 
@@ -101,6 +109,10 @@ A royal blue home jersey with white numerals and white shoulder stripes, a white
 **Does BYU have a new alternate uniform in 2026?**
 
 Not yet. BYU has not announced a throwback or alternate for 2026. It reveals each game's combination on the Monday before kickoff, so a special look could show up with little notice. The Notre Dame game on October 17 looked like the most likely spot, but BYU announced its regular white helmet, royal jersey and white pants for it.
+
+**What is BYU wearing against Arizona State?**
+
+All navy. BYU announced a navy helmet, navy jersey and navy pants for the October 31 game in Provo, revealed on Monday of game week with a Gameday Threads graphic. White is the only other color, on the helmet stripes, the oval Y, the numbers and the pants stripes.
 
 **What did BYU wear against Arizona?**
 
