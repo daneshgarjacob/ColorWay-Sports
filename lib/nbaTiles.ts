@@ -1,5 +1,4 @@
-import fs from "fs";
-import path from "path";
+import tileFiles from "./nbaTileFiles.json";
 
 // NBA jersey tiles (480x600 product shots on white) in
 // public/images/posts/nba-daily-tracker/<nickname>-<edition>.jpg.
@@ -27,17 +26,13 @@ function edition(call: string): string | null {
   return null;
 }
 
-// Read ONE literal folder, never path.join(cwd, "public", x): a dynamic path
-// into public/ makes Vercel's tracer bundle all of public/ (see winterTrackerIndex).
-let tiles: Set<string> | null = null;
+// The tile list ships as JSON, not a readdir of public/: pages that re-render
+// on Vercel after deploy (homepage ISR at ET midnight) have no public/ folder to
+// read, so a runtime readdir returned nothing and every game fell back to logos
+// (10/26). After adding or renaming a tile, regenerate it:
+//   node scripts/gen-nba-tile-list.mjs
+const tiles = new Set<string>(tileFiles as string[]);
 function tileSet(): Set<string> {
-  if (!tiles) {
-    try {
-      tiles = new Set(fs.readdirSync(path.join(process.cwd(), "public/images/posts/nba-daily-tracker")));
-    } catch {
-      tiles = new Set();
-    }
-  }
   return tiles;
 }
 
