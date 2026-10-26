@@ -131,7 +131,15 @@ export function getTonight(now = new Date()): TonightLeague[] {
   // NFL: games on this week's slate that have not gone Final yet.
   const nfl = buildNflWeekSlate(now);
   if (nfl) {
-    const left = nfl.games.filter((g) => !g.score).slice(0, 3);
+    // Not Final yet AND not on an earlier day: a game from a past date drops off
+    // even before its score is logged, so "Tonight" never shows yesterday.
+    const todayStart = Date.parse(`${today}T00:00:00`);
+    const notPast = (when?: string) => {
+      if (!when || !/^[A-Z][a-z]+day, [A-Z][a-z]+ \d+$/.test(when)) return true;
+      const ts = Date.parse(`${when.split(", ")[1]} 2026`);
+      return Number.isNaN(ts) || ts >= todayStart;
+    };
+    const left = nfl.games.filter((g) => !g.score && notPast(g.when)).slice(0, 3);
     if (left.length) {
       // Slate games are sorted by date, so the first one opens the week once the
       // tracker has dated it ("Thursday, October 15"). Before the week's cards

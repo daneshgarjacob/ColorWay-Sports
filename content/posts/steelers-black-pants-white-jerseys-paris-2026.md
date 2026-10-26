@@ -7,7 +7,7 @@ updatedDate: "2026-10-25"
 excerpt: "For the first NFL game in France, the Steelers swap their usual gold pants for black: black helmet, white jersey, black pants and black socks against the Saints at the Stade de France. Here is the look, where the pants come from, and how rare it is."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-black-pants-white-jerseys-paris-2026/cover.jpg"
-coverImagePosition: "center 30%"
+coverImagePosition: "center 8%"
 coverImageFit: "cover"
 coverCredit:
   author: "Pittsburgh Steelers"

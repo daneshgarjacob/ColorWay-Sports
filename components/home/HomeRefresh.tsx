@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { imgFitClass, type JotdEntry } from "@/lib/jerseyOfTheDay";
 import { leagueColor } from "@/lib/leagueColors";
 import type { PostMeta } from "@/lib/posts";
 import { getAuthor } from "@/lib/authors";
@@ -86,10 +87,23 @@ export function LeadStory({ post, compact = false }: { post: PostMeta; compact?:
 }
 
 /* ── 3. Jake's Takes rail ───────────────────────────────────────────────── */
-export function JakesTakes({ takes }: { takes: Take[] }) {
-  if (takes.length === 0) return null;
+export function JakesTakes({ takes, jotd }: { takes: Take[]; jotd?: JotdEntry | null }) {
+  if (takes.length === 0 && !jotd) return null;
   return (
     <aside className="lg:border-l lg:border-border lg:pl-7">
+      {jotd && (
+        <Link prefetch={false} href="/jersey-of-the-day" className="group mb-6 flex gap-4 no-underline rounded-xl border border-border bg-white p-3">
+          <div className="relative w-[92px] shrink-0 aspect-[4/5] rounded-lg bg-[#f1f3f8] overflow-hidden">
+            <img src={jotd.image} alt={jotd.imageAlt} loading="lazy" decoding="async" className={`absolute inset-0 w-full h-full ${imgFitClass(jotd)}`} style={jotd.imagePosition ? { objectPosition: jotd.imagePosition } : undefined} />
+          </div>
+          <div className="min-w-0">
+            <p className="m-0 font-display text-[10px] font-extrabold uppercase tracking-[0.16em] text-orange">Jersey of the Day</p>
+            <p className="mt-1 mb-0 font-display text-[17px] font-extrabold text-black leading-tight group-hover:text-orange transition-colors">{jotd.jerseyName}</p>
+            <p className="mt-0.5 mb-0 text-[12px] font-semibold text-steel">{jotd.teamShort} &middot; {jotd.worn.matchup.split(",")[0]}</p>
+            <p className="mt-1.5 mb-0 text-[13px] text-[#3a3f47] leading-snug line-clamp-2">{jotd.why}</p>
+          </div>
+        </Link>
+      )}
       <div className="flex items-center justify-between border-b-2 border-black pb-2">
         <span className={`${LABEL} text-black`}>Jake&rsquo;s Takes</span>
         <Link prefetch={false} href="/authors/jake-daneshgar" className="font-display text-[12px] font-extrabold text-orange">
@@ -133,47 +147,49 @@ export function JakesTakes({ takes }: { takes: Take[] }) {
 export function TonightStrip({ leagues }: { leagues: TonightLeague[] }) {
   if (leagues.length === 0) return null;
   return (
-    <section className="bg-[#0A1733] text-white">
-      <div className="max-w-[1200px] mx-auto px-5 py-7">
+    <section className="max-w-[1200px] mx-auto px-5">
+      <div className="bg-white border border-border rounded-2xl px-5 sm:px-6 pt-[18px] pb-5">
         <div className="flex items-baseline justify-between mb-4">
-          <span className={`${LABEL} text-white`}>Tonight&rsquo;s Uniforms</span>
-          <span className="text-[11px] text-sky">Updated with every confirmation</span>
+          <span className={`${LABEL} text-black`}>Tonight&rsquo;s Uniforms</span>
+          <span className="text-[11px] text-[#8A8F98]">Updated with every confirmation</span>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-0 md:divide-x md:divide-white/15">
-          {leagues.map((l) => (
-            <div key={l.league} className="md:px-6 md:first:pl-0 md:last:pr-0">
-              <div className="flex items-baseline justify-between">
-                <span className="font-display text-[13px] font-black tracking-[0.12em] uppercase">
-                  {l.league} <span className="text-sky font-bold">· {l.label}</span>
-                </span>
-                <Link prefetch={false} href={l.href} className="text-[11px] font-bold text-sky hover:text-white">
-                  Tracker &rarr;
-                </Link>
+        <div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-0 md:divide-x md:divide-border min-w-0">
+            {leagues.map((l) => (
+              <div key={l.league} className="md:px-5 md:first:pl-0 md:last:pr-0 min-w-0">
+                <div className="flex items-baseline justify-between">
+                  <span className="font-display text-[13px] font-black tracking-[0.12em] uppercase text-blue-dark">
+                    {l.league} <span className="text-[#8A8F98] font-bold">&middot; {l.label}</span>
+                  </span>
+                  <Link prefetch={false} href={l.href} className="text-[11px] font-bold text-orange hover:underline">
+                    Tracker &rarr;
+                  </Link>
+                </div>
+                <ul className="m-0 mt-2 p-0 list-none">
+                  {l.games.map((g, i) => (
+                    <li key={i} className="border-t border-border py-2.5">
+                      <div className="flex items-baseline justify-between gap-3">
+                        <span className="text-[14px] font-bold text-blue-dark">
+                          {g.away} <span className="text-[#8A8F98] font-medium">at</span> {g.home}
+                        </span>
+                        {g.time && <span className="shrink-0 text-[11px] text-[#8A8F98]">{g.time}</span>}
+                      </div>
+                      <div className="mt-0.5 text-[12px] text-[#5b6474]">
+                        {g.awayLook || g.homeLook ? (
+                          <>
+                            {g.awayLook ?? "TBA"} <span className="text-[#aab0ba]">vs</span> {g.homeLook ?? "TBA"}
+                          </>
+                        ) : (
+                          "Uniforms TBA"
+                        )}
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+                <p className="m-0 mt-1 text-[11px] text-[#8A8F98]">{l.confirmed}</p>
               </div>
-              <ul className="m-0 mt-2 p-0 list-none">
-                {l.games.map((g, i) => (
-                  <li key={i} className="border-t border-white/10 py-2.5">
-                    <div className="flex items-baseline justify-between gap-3">
-                      <span className="text-[14px] font-bold">
-                        {g.away} <span className="text-sky font-medium">at</span> {g.home}
-                      </span>
-                      {g.time && <span className="shrink-0 text-[11px] text-sky">{g.time}</span>}
-                    </div>
-                    <div className="mt-0.5 text-[12px] text-white/70">
-                      {g.awayLook || g.homeLook ? (
-                        <>
-                          {g.awayLook ?? "TBA"} <span className="text-white/40">vs</span> {g.homeLook ?? "TBA"}
-                        </>
-                      ) : (
-                        "Uniforms TBA"
-                      )}
-                    </div>
-                  </li>
-                ))}
-              </ul>
-              <p className="m-0 mt-1 text-[11px] text-sky">{l.confirmed}</p>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
       </div>
     </section>

@@ -313,6 +313,7 @@ const trackerLinks = [
   { league: "NFL", logo: "/logos/leagues/nfl.png", href: "/stories/nfl-uniform-tracker-2026", calendar: { label: "Calendars", href: "/nfl-tracker" } },
   { league: "MLB", logo: "/logos/leagues/mlb.png", href: "/stories/mlb-uniform-tracker-2026", calendar: { label: "Calendars", href: "/mlb-tracker" } },
   { league: "NHL", logo: "/logos/leagues/nhl.png", href: "/stories/nhl-uniform-tracker-2026-27", calendar: { label: "Calendars", href: "/nhl-tracker" } },
+  { league: "NBA", logo: "/logos/leagues/nba.png", href: "/stories/nba-uniform-schedule-2026-27", calendar: { label: "All 30", href: "/stories/nba-uniforms-2026-27" } },
 ];
 
 type SearchIndex = {

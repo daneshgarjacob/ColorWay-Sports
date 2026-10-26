@@ -17,6 +17,7 @@ import WireStrip from "@/components/WireStrip";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import NbaTonightZone from "@/components/NbaTonightZone";
+import { pickFor } from "@/lib/jerseyOfTheDay";
 import type { Metadata } from "next";
 import { getAllPosts, type PostMeta as Post } from "@/lib/posts";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
@@ -92,6 +93,7 @@ export default async function Home() {
   const etNow = new Date(new Date().toLocaleString("en-US", { timeZone: "America/New_York" }));
   const secsToEtMidnight = 86_400 - (etNow.getHours() * 3600 + etNow.getMinutes() * 60 + etNow.getSeconds());
   await revalidatePageWithin(Math.max(300, secsToEtMidnight + 120));
+  const jotd = pickFor(todayEt);
 
   // Up to TWO posts can claim today's lead as a pair (Jake 10/13). The one
   // published first keeps the left slot; the newer one joins beside it.
@@ -302,7 +304,7 @@ export default async function Home() {
   ].slice(0, MORE_COUNT);
 
   // The self-updating pieces (homepage refresh, 10/5).
-  const takes = getJakesTakes(5, new Set([...heroSlugs, ...gridSlugs]));
+  const takes = getJakesTakes(4, new Set([...heroSlugs, ...gridSlugs]));
   const tonight = getTonight();
   const brief = todayBrief(tonight, takes);
   const standsPhoto = standsPhotoFor(todayEt, new Set([...heroSlugs, ...gridSlugs]));
@@ -329,7 +331,7 @@ export default async function Home() {
           <section className="max-w-[1200px] mx-auto px-5 pt-6 pb-2">
             <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)] gap-8">
               <LeadStory post={heroPost} />
-              <JakesTakes takes={takes} />
+              <JakesTakes takes={takes} jotd={jotd.entry} />
             </div>
           </section>
         )}
@@ -361,16 +363,8 @@ export default async function Home() {
             lead + three cards 10/13 (Jake: one up top, three underneath). */}
         <div className="pt-8" />
         <TonightStrip leagues={tonight} />
-        {/* SUGGESTION (Jersey of the Day mock, not live): a one-tile teaser
-            under Tonight, e.g. <JotdTile entry={pickFor().entry} href="/jersey-of-the-day" />
-            from components/JerseyOfTheDay.tsx. Waiting on Jake's OK. */}
-
-        {/* The Wire: the next three items after the ones in the Takes rail */}
+        {/* The Wire now lives in the Jake's Takes rail up top (Jake 10/25). */}
         <div className="pt-10" />
-        <WireStrip
-          limit={3}
-          skip={takes.filter((t) => t.kind === "Wire").map((t) => t.key.slice(2))}
-        />
 
         {/* From the Stands (Jake's own photos, random each visit since 10/13) beside More Stories */}
         <section className="max-w-[1200px] mx-auto px-5 pb-12">
