@@ -3,7 +3,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import TwitterEmbed from "@/components/TwitterEmbed";
 import SponsorStrip from "@/components/SponsorStrip";
-import { sponsorForPost } from "@/lib/sponsors";
+import { revalidateForSponsors, sponsorForPost } from "@/lib/sponsors";
 import InstagramEmbed from "@/components/InstagramEmbed";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import RelatedStories from "@/components/RelatedStories";
@@ -171,6 +171,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   // between deploys.
   const { gameDay, revalidate: gameDayTtl } = gameDayForPost(post, now);
   await revalidatePageWithin(gameDayTtl);
+  await revalidateForSponsors(slug, now);
   // The NFL box keeps its design; on game days its heading asks the question
   // the way people search it ("What Are the Packers Wearing Today?"), but only
   // when the box is showing that same game.

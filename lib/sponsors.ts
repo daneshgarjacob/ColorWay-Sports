@@ -3,6 +3,8 @@
 // Eastern) is inside [start, end]. Flip `enabled` and push to start or stop a deal.
 // Links carry UTM tags so the sponsor can see visits and sales from each page.
 
+import { unstable_cache } from "next/cache";
+
 export type Sponsor = {
   id: string;
   name: string;
@@ -28,8 +30,8 @@ const NFL_TEAM_SCHEDULES = [
 
 export const SPONSORS: Sponsor[] = [
   {
-    // Daps one-week trial (Matthew Makabeh, 10/26). Waiting on Mediavine's OK for
-    // direct-sold static units before going live; set the dates when it starts.
+    // Daps trial (Matthew Makabeh, 10/26): Sun Nov 1 through Sun Nov 8, two NFL
+    // Sundays. Commission only (20% of sales via the UTM link).
     id: "daps",
     name: "Daps",
     label: "NFL Uniform Schedules presented by",
@@ -39,9 +41,9 @@ export const SPONSORS: Sponsor[] = [
     logoHeight: 142,
     url: "https://daps.shop/products/energy-strips",
     campaign: "colorway_nfl_schedules_trial",
-    enabled: false,
+    enabled: true,
     start: "2026-11-01",
-    end: "2026-11-07",
+    end: "2026-11-08",
     slugs: NFL_TEAM_SCHEDULES,
   },
 ];
@@ -63,4 +65,20 @@ export function sponsorForPost(slug: string, now = new Date()): (Sponsor & { hre
     utm_content: content,
   });
   return { ...s, href: `${s.url}?${q.toString()}` };
+}
+
+/** Keep sponsored pages re-rendering while a deal is upcoming or running, so the
+ * strip appears on its start date and comes down after its end date without a
+ * deploy (static pages otherwise only re-render on deploy or around game days). */
+export async function revalidateForSponsors(slug: string, now = new Date()): Promise<void> {
+  const today = etToday(now);
+  const live = SPONSORS.some((x) => x.enabled && x.slugs.includes(slug) && today <= dayAfter(x.end));
+  if (!live) return;
+  await unstable_cache(async () => true, ["sponsor-window-ttl"], { revalidate: 3 * 3600 })();
+}
+
+function dayAfter(ymd: string): string {
+  const d = new Date(`${ymd}T12:00:00Z`);
+  d.setUTCDate(d.getUTCDate() + 1);
+  return d.toISOString().slice(0, 10);
 }
