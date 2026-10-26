@@ -307,13 +307,13 @@ const navLinks = [
 
 // The live daily trackers, pinned to the top of the phone menu: on a game night
 // these are what most phone readers are looking for. `calendar` is each league's
-// per-team calendar hub (/nfl-tracker, /mlb-tracker, /nhl-tracker); the NFL hub
+// per-team calendar hub (/nfl-tracker, /mlb-tracker, /nhl-tracker, /nba-tracker); the NFL hub
 // links on to the uniform schedule post.
 const trackerLinks = [
   { league: "NFL", logo: "/logos/leagues/nfl.png", href: "/stories/nfl-uniform-tracker-2026", calendar: { label: "Calendars", href: "/nfl-tracker" } },
   { league: "MLB", logo: "/logos/leagues/mlb.png", href: "/stories/mlb-uniform-tracker-2026", calendar: { label: "Calendars", href: "/mlb-tracker" } },
   { league: "NHL", logo: "/logos/leagues/nhl.png", href: "/stories/nhl-uniform-tracker-2026-27", calendar: { label: "Calendars", href: "/nhl-tracker" } },
-  { league: "NBA", logo: "/logos/leagues/nba.png", href: "/stories/nba-uniform-schedule-2026-27", calendar: { label: "All 30", href: "/stories/nba-uniforms-2026-27" } },
+  { league: "NBA", logo: "/logos/leagues/nba.png", href: "/stories/nba-uniform-tracker-2026-27", calendar: { label: "Calendars", href: "/nba-tracker" } },
 ];
 
 type SearchIndex = {

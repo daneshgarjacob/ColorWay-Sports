@@ -18,7 +18,13 @@
 //   3. node scripts/gen-nba-schedule-tables.mjs
 //        rewrites the 30 team schedule posts' tables (played rows: worn + score,
 //        Changed when the call differs). /nba-tracker/<team> reads the same JSON
-//        at build, so nothing else to run.
+//        at build.
+//   4. node scripts/nba-tracker-day.mjs --all --write
+//        refreshes the NBA daily tracker post (content/posts/nba-uniform-tracker-2026-27.md):
+//        one D5 card per confirmed game, newest night first. A new night gets an auto
+//        intro under its "## Weekday, Month D" heading; rewrite it in our voice if
+//        there is a story. Add grades to scripts/data/nba-matchup-grades-2026-27.json
+//        first if you want them on the cards (ungraded games get the pending chip).
 //
 // Never set confirmed:true without having seen both jerseys.
 

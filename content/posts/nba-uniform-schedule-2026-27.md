@@ -2,7 +2,7 @@
 title: "NBA Uniform Schedule 2026-27: Every Team's Jerseys and When They Wear Them"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-26"
 excerpt: "Every NBA team's 2026-27 uniform schedule in one place: the jersey for all 1,200 dated games, all 30 clubs, every City Edition date, and who wears what the most."
 gradient: "linear-gradient(135deg, #C8102E 0%, #14284b 100%)"
 cardStyle: words
@@ -13,6 +13,8 @@ teams: []
 ---
 
 Every NBA club's 2026-27 uniform schedule, in one place. Each page below carries that team's full closet, what each jersey is for, and a game-by-game record that fills in as the season runs.
+
+**New, October 26, 2026: the [NBA daily uniform tracker](/stories/nba-uniform-tracker-2026-27) is live.** What every team actually wore last night, game by game, confirmed from game photos every morning, and every team's full season on its [uniform calendar](/nba-tracker).
 
 **Update, October 19, 2026: every jersey for every game is now set.** The NBA's official uniform schedule is out for all 30 clubs, a call for each of the 1,200 dated games, and every club page below has its full game-by-game table, a count of how many times each jersey is worn, and every City Edition date. Opening night is Tuesday, October 20.
 
@@ -67,7 +69,7 @@ Every NBA club's 2026-27 uniform schedule, in one place. Each page below carries
 
 ## How These Pages Work
 
-Every club page carries the full closet and the scheduled jersey for all 80 dated games, from the NBA's official uniform schedule and the clubs' own announcements. Nothing on a club page is a guess, and once a game is played we flip the row to what was actually worn, the morning after.
+Every club page carries the full closet and the scheduled jersey for all 80 dated games, from the NBA's official uniform schedule and the clubs' own announcements. Nothing on a club page is a guess, and once a game is played we flip the row to what was actually worn, the morning after. The [daily uniform tracker](/stories/nba-uniform-tracker-2026-27) collects every game from the night before in one place, and each team's [uniform calendar](/nba-tracker) shows its whole season at a glance.
 
 It is the same format we run for [every NFL club](/stories/nfl-uniform-schedule-2026) and [every MLB club](/stories/mlb-uniform-schedule-2026), which are the two most-read things on this site.
 

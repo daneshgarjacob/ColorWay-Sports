@@ -5,6 +5,7 @@ import { getNbaSlate, type NbaSide } from "@/lib/nbaTonight";
 // from the official uniform schedule (jersey tiles where we have them), and our
 // matchup grade. No tile: edition pill, white for the Association, navy for the rest.
 const HUB = "/stories/nba-uniform-schedule-2026-27";
+const TRACKER = "/stories/nba-uniform-tracker-2026-27";
 
 // One side of a game: the jersey tile on white (NHL band look), team name and
 // edition under it. No tile yet (most City / Specter): team logo + edition pill.
@@ -92,10 +93,19 @@ export default function NbaTonightZone() {
               </div>
             ))}
           </div>
-          <p className="mt-3 text-[10.5px] text-[#8A8F98]">
-            Grades are ours, made before tip-off, on how the two uniforms look together. Every row flips to what was actually worn the
-            morning after.
-          </p>
+          <div className="mt-3 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1.5">
+            <p className="m-0 text-[10.5px] text-[#8A8F98]">
+              Grades are ours, made before tip-off, on how the two uniforms look together. Every row flips to what was actually worn the
+              morning after.
+            </p>
+            <Link
+              prefetch={false}
+              href={TRACKER}
+              className="text-[11px] font-semibold text-orange hover:underline uppercase tracking-widest whitespace-nowrap"
+            >
+              Every game, every night →
+            </Link>
+          </div>
         </div>
       </div>
     </section>
