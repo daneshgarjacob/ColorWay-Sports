@@ -13,9 +13,9 @@ import {
 // Shared body for /nba-tracker/<team> and /nhl-tracker/<team>. The two routes are
 // separate so the URLs read properly; everything below is one implementation.
 
-function GameCard({ game, accent, today }: { game: WinterGame; accent: string; today: string }) {
+function GameCard({ game, accent, today, kit }: { game: WinterGame; accent: string; today: string; kit: string }) {
   const logged = Boolean(game.uniform);
-  // Confirmed NHL games carry the product shot of the sweater worn.
+  // Confirmed games carry the product shot of the jersey/sweater worn.
   if (logged && game.image) {
     return (
       <div
@@ -29,7 +29,7 @@ function GameCard({ game, accent, today }: { game: WinterGame; accent: string; t
         </div>
         <img
           src={game.image}
-          alt={`${game.uniform} sweater worn ${game.home ? "against" : "at"} the ${game.opponent} on ${shortDate(game.date)}`}
+          alt={`${game.uniform} ${kit} worn ${game.home ? "against" : "at"} the ${game.opponent} on ${shortDate(game.date)}`}
           loading="lazy"
           className="h-[70px] w-full object-contain my-1.5"
         />
@@ -43,7 +43,15 @@ function GameCard({ game, accent, today }: { game: WinterGame; accent: string; t
           )}
           {game.uniform}
         </div>
+        {game.scheduled && (
+          <div className="text-[9px] font-bold uppercase tracking-[0.06em] text-[#5b6474] mt-0.5">
+            Changed from {game.scheduled.replace(" Edition", "")}
+          </div>
+        )}
         <div className="text-[9px] font-extrabold uppercase tracking-[0.12em] text-[#1a8f4c] mt-1">Confirmed</div>
+        {game.result && (
+          <div className="text-[10px] font-extrabold tracking-[0.06em] mt-0.5 text-blue-dark">{game.result}</div>
+        )}
       </div>
     );
   }
@@ -67,7 +75,7 @@ function GameCard({ game, accent, today }: { game: WinterGame; accent: string; t
         // eslint-disable-next-line @next/next/no-img-element
         <img
           src={game.expectedImage}
-          alt={`Expected ${game.expected} sweater ${game.home ? "against" : "at"} the ${game.opponent}`}
+          alt={`Expected ${game.expected} ${kit} ${game.home ? "against" : "at"} the ${game.opponent}`}
           loading="lazy"
           className="h-[56px] w-full object-contain mb-1 opacity-90"
         />
@@ -289,7 +297,7 @@ export default function WinterCalendarPage({
               </h3>
               <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-6 gap-2.5">
                 {games.map((g) => (
-                  <GameCard key={g.date + g.opponentAbbr} game={g} accent={entry.color} today={today} />
+                  <GameCard key={g.date + g.opponentAbbr} game={g} accent={entry.color} today={today} kit={isNba ? "jersey" : "sweater"} />
                 ))}
               </div>
             </div>

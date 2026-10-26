@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { TEAM_LOGOS, teamSlug } from "@/lib/teamLogos";
+import { nbaTile } from "@/lib/nbaTiles";
 
 // Per-club NBA and NHL uniform calendars, the winter counterpart to
 // /nfl-tracker and /mlb-tracker.
@@ -163,15 +164,15 @@ export interface WinterGame {
   uniform?: string;
   /** NHL only: true once both sweaters were seen in game photos. */
   confirmed?: boolean;
-  /** NHL only: product shot of the sweater worn (confirmed games). */
+  /** Product shot of the jersey/sweater worn (confirmed games). */
   image?: string;
   /** NHL only: swatch hex for the sweater worn. */
   swatch?: string;
   /** NHL only: the expected sweater for a game not yet confirmed (league
    *  default, or an announced special from the game log). */
   expected?: string;
-  /** NHL only: the club's standard home or road sweater photo for a future game
-   *  whose expected look is the default (announced specials get none). */
+  /** Tile for a future game's expected look. NHL: the standard home/road
+   *  sweater (announced specials get none). NBA: the announced edition. */
   expectedImage?: string;
   /** NBA only: final result from the club's side, e.g. "W 121-113". */
   result?: string;
@@ -260,12 +261,18 @@ export function buildWinterIndex(): WinterTeamEntry[] {
         const nbaTri = t.league === "nba" ? NBA_TRI[slug] : undefined;
         const nba = nbaTri ? nbaState.get(`${nbaTri}|${g.d}`) : undefined;
         if (nba) {
-          if (nba.scheduled) game.expected = nba.scheduled;
+          if (nba.scheduled) {
+            game.expected = nba.scheduled;
+            const tile = nbaTile(nbaTri!, nba.scheduled);
+            if (tile) game.expectedImage = tile;
+          }
           if (nba.result) game.result = nba.result;
           if (nba.uniform) {
             game.uniform = nba.uniform;
             game.confirmed = true;
             if (nba.scheduled && nba.scheduled !== nba.uniform) game.scheduled = nba.scheduled;
+            const tile = nbaTile(nbaTri!, nba.uniform);
+            if (tile) game.image = tile;
           }
         }
         if (worn) {

@@ -110,7 +110,7 @@ export default function Footer() {
             Custom team kits
           </Link>
           <Link prefetch={false} href="/embed" className="text-[#9FB6D6] hover:text-white underline underline-offset-2 transition-colors">
-            Put our uniform widget on your site
+            Embed our uniform tracker
           </Link>
         </div>
 

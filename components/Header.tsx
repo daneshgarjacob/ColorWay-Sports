@@ -579,7 +579,8 @@ export default function Header() {
               <Link prefetch={false}
                 key={link.label}
                 href={link.href}
-                className="text-[13.5px] font-semibold tracking-[0.01em] text-white/80 hover:text-white hover:bg-white/10 rounded-full px-3 py-1.5 transition-colors"
+                className="text-[13.5px] tracking-[0.01em] text-white/80 hover:text-white hover:bg-white/10 rounded-full px-3 py-1.5 transition-colors"
+                style={{ fontFamily: "var(--font-display)", fontWeight: 700 /* nav uses the logo font (Jake 10/25) */ }}
               >
                 {link.label}
               </Link>
@@ -638,7 +639,7 @@ export default function Header() {
               >
                 <button
                   className="text-[13.5px] font-bold text-[#14223f]/85 transition-colors flex items-center gap-1.5 hover:text-[#2f6bed] whitespace-nowrap rounded-full px-3 py-1.5 hover:bg-[#2f6bed]/[0.07]"
-                  style={{ "--league-accent": leagueColor(league.label) } as React.CSSProperties}
+                  style={{ "--league-accent": leagueColor(league.label), fontFamily: "var(--font-display)", fontWeight: 700 /* logo font (Jake 10/25) */ } as React.CSSProperties}
                   onClick={(e) => {
                     e.stopPropagation();
                     // Leagues with no team list go straight to their stories page

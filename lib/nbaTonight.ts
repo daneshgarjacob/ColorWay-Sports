@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { mlbEtToday } from "@/lib/mlbConfirmed";
+import { nbaTile } from "@/lib/nbaTiles";
 
 // NBA slate for the homepage band: today's games (ET), or the next night with
 // games when today has none. Jerseys come from the official 2026-27 uniform
@@ -49,7 +50,7 @@ const LABEL: Record<string, string> = {
   "Specter Edition": "Specter",
 };
 
-export type NbaSide = { tri: string; name: string; href: string; logo: string; jersey: string; white: boolean };
+export type NbaSide = { tri: string; name: string; href: string; logo: string; jersey: string; white: boolean; image: string };
 export type NbaGame = { away: NbaSide; home: NbaSide; grade: string | null };
 export type NbaSlate = { date: string; label: string; isToday: boolean; games: NbaGame[] };
 
@@ -83,6 +84,7 @@ export function getNbaSlate(now = new Date()): NbaSlate | null {
       logo: `/logos/teams/${t.logo}.png`,
       jersey: LABEL[call] ?? "TBA",
       white: call === "Association White",
+      image: nbaTile(tri, call),
     };
   };
   const [y, m, d] = date.split("-").map(Number);

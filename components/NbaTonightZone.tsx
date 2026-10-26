@@ -2,20 +2,30 @@ import Link from "next/link";
 import { getNbaSlate, type NbaSide } from "@/lib/nbaTonight";
 
 // The NBA band: tonight's games (or the next night with games), both jerseys
-// from the official uniform schedule, and our matchup grade. Edition names
-// only, no guessed colors: white pill for the Association, navy for the rest.
+// from the official uniform schedule (jersey tiles where we have them), and our
+// matchup grade. No tile: edition pill, white for the Association, navy for the rest.
 const HUB = "/stories/nba-uniform-schedule-2026-27";
 
-function Side({ s, align }: { s: NbaSide; align: "left" | "right" }) {
+// One side of a game: the jersey tile on white (NHL band look), team name and
+// edition under it. No tile yet (most City / Specter): team logo + edition pill.
+function Side({ s }: { s: NbaSide }) {
   return (
-    <Link
-      prefetch={false}
-      href={s.href}
-      className={`flex min-w-0 flex-1 items-center gap-2 ${align === "right" ? "flex-row-reverse text-right" : ""}`}
-    >
-      <img src={s.logo} alt={`${s.name} logo`} loading="lazy" className="h-9 w-9 flex-none object-contain" />
-      <span className="min-w-0">
-        <span className="block truncate text-[13px] font-extrabold text-[#0B1F4A] hover:underline">{s.name}</span>
+    <Link prefetch={false} href={s.href} className="group flex min-w-0 flex-1 flex-col items-center">
+      <div className="flex h-[88px] w-full items-center justify-center rounded-md bg-white p-1">
+        {s.image ? (
+          <img src={s.image} alt={`${s.name} ${s.jersey} jersey`} loading="lazy" className="max-h-full max-w-full object-contain" />
+        ) : (
+          <img src={s.logo} alt={`${s.name} logo`} loading="lazy" className="h-10 w-10 object-contain" />
+        )}
+      </div>
+      <span className="mt-1.5 w-full truncate text-center text-[11px] font-extrabold text-[#0B1F4A] group-hover:underline">
+        {s.name}
+      </span>
+      {s.image ? (
+        <span className="w-full truncate text-center text-[9.5px] font-semibold uppercase tracking-[0.06em] text-[#5f6468]">
+          {s.jersey}
+        </span>
+      ) : (
         <span
           className={`mt-0.5 inline-block rounded-full px-2 py-[1px] text-[9.5px] font-bold uppercase tracking-[0.08em] ${
             s.white ? "border border-[#d5dae3] bg-white text-[#0B1F4A]" : "bg-[#0B1F4A] text-white"
@@ -23,7 +33,7 @@ function Side({ s, align }: { s: NbaSide; align: "left" | "right" }) {
         >
           {s.jersey}
         </span>
-      </span>
+      )}
     </Link>
   );
 }
@@ -65,20 +75,20 @@ export default function NbaTonightZone() {
               {slate.games.length} {slate.games.length === 1 ? "Game" : "Games"} · Away at Home
             </span>
           </div>
-          <div className="grid grid-cols-1 gap-2 md:grid-cols-2 lg:grid-cols-3">
+          <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 sm:gap-3 lg:grid-cols-4">
             {slate.games.map((g) => (
-              <div key={`${g.away.tri}-${g.home.tri}`} className="flex items-center gap-2 rounded-lg bg-[#F7F5F1] p-2.5">
-                <Side s={g.away} align="left" />
-                <span className="flex flex-none flex-col items-center px-1">
+              <div key={`${g.away.tri}-${g.home.tri}`} className="flex items-start gap-1.5 rounded-lg bg-[#F7F5F1] p-2">
+                <Side s={g.away} />
+                <span className="mt-[30px] flex flex-none flex-col items-center">
                   {g.grade ? (
-                    <span className="flex h-9 w-9 items-center justify-center rounded-full bg-orange text-[13px] font-black text-white">
+                    <span className="flex h-8 w-8 items-center justify-center rounded-full bg-orange text-[12px] font-black text-white">
                       {g.grade}
                     </span>
                   ) : (
                     <span className="text-[9px] font-extrabold tracking-[0.12em] text-[#8A8F98]">AT</span>
                   )}
                 </span>
-                <Side s={g.home} align="right" />
+                <Side s={g.home} />
               </div>
             ))}
           </div>
