@@ -1,238 +1,273 @@
 {
-  "_readme": "Jersey of the Day. One entry per day, keyed by US Eastern date (YYYY-MM-DD). To add a day, copy an entry, change the key and fill every field. Images must already be on the site (public/images/...) or verified PD/CC Commons images with credit, never Getty/AP/fan/retailer. Run node scripts/compress-images.mjs after adding a new image. 'why' is Jake's line; whyPlaceholder true means it is a draft awaiting his OK (the page renders it like any other line). Optional '_editorNote' is internal only, never rendered. worn.status: Confirmed (team or game photos), Announced (team schedule), Scheduled (team date list), Expected (league or team default, not announced), Projected (our read, not a team call).",
-  "days": {
-    "2026-10-26": {
-      "team": "Indiana Pacers",
-      "teamShort": "Pacers",
-      "league": "NBA",
-      "season": "2026-27",
-      "edition": "Classic Edition (ABA Days)",
-      "jerseyName": "Classic Threads",
-      "image": "/images/posts/nba-classic-edition-jerseys-courts-2026-27/pacers-classic-threads-team-on-court.jpg",
-      "imageAlt": "Indiana Pacers players in the blue 2026-27 Classic Threads ABA Classic Edition uniform with an arched INDIANA and yellow block numbers",
-      "imagePosition": "center 35%",
-      "credit": {
-        "text": "Indiana Pacers"
-      },
-      "worn": {
-        "date": "2026-10-26",
-        "matchup": "at Milwaukee Bucks",
-        "status": "Announced"
-      },
-      "why": "Royal blue, an arched INDIANA and that yellow racing stripe over the shoulder. It's the best throwback in the NBA this year.",
-      "whyPlaceholder": true,
-      "story": "Classic Threads recreates the blue road uniform the Pacers wore in the ABA from 1971 to 1974: royal blue, a white arched INDIANA, yellow block numbers and a yellow and white racing stripe that runs over one shoulder and down the side. The team says it won two of its three ABA championships in this look. It is one of four ABA Classic Editions marking the 50th anniversary of the ABA-NBA merger, and Indiana has it on the schedule for 15 games.",
-      "scheduleSlug": "pacers-uniform-schedule-2026-27",
-      "scheduleLabel": "Pacers 2026-27 uniform schedule",
-      "related": [
-        {
-          "slug": "nba-classic-edition-jerseys-courts-2026-27",
-          "label": "All four ABA Classic Editions, graded"
-        }
-      ]
+ "_readme": "Jersey of the Day. One entry per day, keyed by US Eastern date (YYYY-MM-DD). To add a day, copy an entry, change the key and fill every field. Images must already be on the site (public/images/...) or verified PD/CC Commons images with credit, never Getty/AP/fan/retailer. Run node scripts/compress-images.mjs after adding a new image. 'why' is Jake's line; whyPlaceholder true means it is a draft awaiting his OK (the page renders it like any other line). Optional '_editorNote' is internal only, never rendered. worn.status: Confirmed (team or game photos), Announced (team schedule), Scheduled (team date list), Expected (league or team default, not announced), Projected (our read, not a team call).",
+ "days": {
+  "2026-10-25": {
+   "team": "Seattle Seahawks",
+   "teamShort": "Seahawks",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Throwback",
+   "jerseyName": "Royal Blue Throwback",
+   "image": "/images/posts/nfl-tracker-jerseys/seahawks-royal-throwback.jpg",
+   "imageAlt": "Seattle Seahawks royal blue throwback jersey with green and white stripes",
+   "imagePosition": "center center",
+   "credit": {
+    "text": "Product image"
+   },
+   "worn": {
+    "date": "2026-10-25",
+    "matchup": "vs Kansas City Chiefs, Sunday Night Football, Week 7",
+    "status": "Confirmed"
+   },
+   "why": "Royal blue and silver under the lights on Sunday night. It's the best look Seattle has, and it's not close.",
+   "whyPlaceholder": true,
+   "story": "Seattle's royal blue throwback goes with the silver helmet and silver pants. The Seahawks wore it at Denver on Thursday night in Week 6 and bring it home for Sunday Night Football against Kansas City, one of the three primetime jersey games on their 2026 schedule.",
+   "scheduleSlug": "seahawks-uniform-schedule-2026",
+   "scheduleLabel": "Seahawks 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "nfl-uniform-tracker-2026",
+     "label": "NFL uniform tracker: what every team wore"
     },
-    "2026-10-27": {
-      "team": "Tampa Bay Rays",
-      "teamShort": "Rays",
-      "league": "MLB",
-      "season": "2026",
-      "edition": "Throwback alternate",
-      "jerseyName": "Devil Rays Throwback",
-      "image": "/images/posts/rays-brewers-logo-history-world-series-2026/devil-rays-1998-jersey.jpg",
-      "imageAlt": "An inaugural-season Tampa Bay Devil Rays white home jersey with the gradient DEVIL RAYS script and ray logo, worn 1998 to 2000",
-      "imagePosition": "center center",
-      "imageCaption": "The original 1998 Devil Rays home jersey the throwback is based on.",
-      "credit": {
-        "text": "Zeng8r",
-        "url": "https://commons.wikimedia.org/wiki/File:TB_Devil_Rays_1998_unis.JPG",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
-      },
-      "worn": {
-        "date": "2026-10-27",
-        "matchup": "vs Milwaukee Brewers, World Series Game 4",
-        "status": "Projected",
-        "note": "Our read, not a team call. If the Rays announce a different jersey for Game 4, we swap the pick."
-      },
-      "why": "The rainbow DEVIL RAYS script in a World Series game would be the most fun look of the whole postseason.",
-      "whyPlaceholder": true,
-      "story": "The white Devil Rays throwback came back as an alternate in 2023 and became the Rays' Friday home look. Tampa Bay is 2-0 in it this October, including the 7-3 win over Cleveland in ALCS Game 6 that clinched the pennant. The Rays have not announced their World Series jerseys, and our read is that Game 4 or a Game 5 at Tropicana Field is the strongest spot for it.",
-      "scheduleSlug": "rays-uniform-schedule-2026",
-      "scheduleLabel": "Rays 2026 uniform schedule",
-      "related": [
-        {
-          "slug": "world-series-uniforms-2026",
-          "label": "World Series uniforms, game by game"
-        },
-        {
-          "slug": "rays-devil-rays-comeback-world-series-2026",
-          "label": "Are the Rays becoming the Devil Rays again?"
-        }
-      ],
-      "_editorNote": "Projected. If the Rays announce a different Game 4 jersey (or wear the throwback in Game 3), swap this day before Oct 27."
-    },
-    "2026-10-28": {
-      "team": "Edmonton Oilers",
-      "teamShort": "Oilers",
-      "league": "NHL",
-      "season": "2026-27",
-      "edition": "Home",
-      "jerseyName": "Royal Blue Home",
-      "image": "/images/posts/nhl-daily-tracker/oilers-home.jpg",
-      "imageAlt": "Edmonton Oilers royal blue home sweater with an orange shoulder yoke, orange and white sleeve and hem stripes and the oil-drop crest",
-      "imagePosition": "center center",
-      "credit": {
-        "text": "Product image"
-      },
-      "worn": {
-        "date": "2026-10-28",
-        "matchup": "vs Calgary Flames, Battle of Alberta",
-        "status": "Expected",
-        "note": "League default: the dark sweater at home. No third jersey night is set for this game."
-      },
-      "why": "Royal blue and orange against Calgary red is the best color clash in hockey, and the oil drop has never looked better.",
-      "whyPlaceholder": true,
-      "story": "Royal blue has been the Oilers' primary home sweater again since 2022-23, with an orange shoulder yoke, orange and white stripes on the sleeves and hem and the classic oil-drop crest, unchanged for 2026-27. It has been the sweater for every Oilers home game this season, and with no third jersey or Hometown Remix night announced for this one, it is the call against Calgary.",
-      "scheduleSlug": "oilers-uniform-schedule-2026-27",
-      "scheduleLabel": "Oilers 2026-27 uniform schedule",
-      "related": [
-        {
-          "slug": "nhl-uniform-tracker-2026-27",
-          "label": "NHL uniform tracker: every game, every sweater"
-        }
-      ],
-      "imageFit": "contain"
-    },
-    "2026-10-29": {
-      "team": "Green Bay Packers",
-      "teamShort": "Packers",
-      "league": "NFL",
-      "season": "2026",
-      "edition": "Home",
-      "jerseyName": "Vintage Green",
-      "image": "/images/posts/nfl-tracker-jerseys/packers-green-home.jpg",
-      "imageAlt": "Green Bay Packers Vintage Green home jersey, dark green with gold and white sleeve stripes and white numbers",
-      "imagePosition": "center center",
-      "credit": {
-        "text": "Product image"
-      },
-      "worn": {
-        "date": "2026-10-29",
-        "matchup": "vs Carolina Panthers, Thursday Night Football, Week 8",
-        "status": "Expected",
-        "note": "Green Bay has not published a game-by-game schedule; this is the standard home call. We confirm at kickoff."
-      },
-      "why": "Dark green, gold pants, gold helmet. They've barely changed it in decades because there's nothing to fix.",
-      "whyPlaceholder": true,
-      "story": "Green Bay calls it Vintage Green, one of the four uniforms in the club's 2026 lineup alongside 1923, Classic White and Rivalries. The green jersey with gold pants is one of the least-changed uniforms in American sport, and it carries most of the home schedule, including Atlanta on a Thursday in Week 3, Dallas in Week 6 and Carolina on a Thursday night in Week 8.",
-      "scheduleSlug": "packers-uniform-schedule-2026",
-      "scheduleLabel": "Packers 2026 uniform schedule",
-      "related": [
-        {
-          "slug": "packers-jerseys-2026-ranked",
-          "label": "Every Packers jersey, ranked worst to best"
-        },
-        {
-          "slug": "nfl-uniform-tracker-2026",
-          "label": "NFL uniform tracker: what every team wore"
-        }
-      ],
-      "imageFit": "contain"
-    },
-    "2026-10-30": {
-      "team": "Tampa Bay Rays",
-      "teamShort": "Rays",
-      "league": "MLB",
-      "season": "2026",
-      "edition": "Road",
-      "jerseyName": "TAMPA BAY Road Gray",
-      "image": "/images/posts/rays-new-gray-road-uniform/cover.jpg",
-      "imageAlt": "Tampa Bay Rays gray road uniform with TAMPA BAY across the chest in a blue to green to yellow gradient wordmark and the navy ray logo beneath it",
-      "imagePosition": "center 60%",
-      "credit": {
-        "text": "Tampa Bay Rays"
-      },
-      "worn": {
-        "date": "2026-10-30",
-        "matchup": "at Milwaukee Brewers, World Series Game 6 (if necessary)",
-        "status": "Expected",
-        "note": "Only played if the Series reaches Game 6. The Brewers lead 2-0."
-      },
-      "why": "TAMPA BAY in a blue to green to yellow gradient finally gave the Rays a road gray worth a World Series.",
-      "whyPlaceholder": true,
-      "_editorNote": "IF NECESSARY. Brewers lead the Series 2-0 after Game 2. If the Series ends before Game 6 (Game 4 on Oct 27 or Game 5 on Oct 28), replace this day with a jersey worn Oct 30.",
-      "story": "Tampa Bay revealed this gray on September 21 and debuted it the next day against the Yankees. It is the Rays' first road gray since 2023: TAMPA BAY arched across the chest in a gradient that runs light blue into green into yellow, the ray mark underneath and navy piping everywhere else. It has been their road jersey in every road game this postseason, including Games 1 and 2 in Milwaukee.",
-      "scheduleSlug": "rays-uniform-schedule-2026",
-      "scheduleLabel": "Rays 2026 uniform schedule",
-      "related": [
-        {
-          "slug": "rays-new-gray-road-uniform",
-          "label": "The Rays' new road gray, graded A"
-        },
-        {
-          "slug": "world-series-uniforms-2026",
-          "label": "World Series uniforms, game by game"
-        }
-      ]
-    },
-    "2026-10-31": {
-      "team": "Nebraska Cornhuskers",
-      "teamShort": "Nebraska",
-      "league": "College Football",
-      "season": "2026",
-      "edition": "Blackout alternate",
-      "jerseyName": "Our Red Burns Brighter Blackout",
-      "image": "/images/posts/college-football-blackout-uniforms-2026-ranked/nebraska-pointing.jpg",
-      "imageAlt": "Nebraska Cornhuskers 2026 blackout uniform, a black jersey with NEBRASKA in red across the chest and large white numbers, worn with a black helmet and red facemask",
-      "imagePosition": "center 25%",
-      "credit": {
-        "text": "Nebraska Athletics / adidas"
-      },
-      "worn": {
-        "date": "2026-10-31",
-        "matchup": "vs Washington, Blackout game",
-        "status": "Announced"
-      },
-      "why": "Black and metallic red on Halloween night in Lincoln. Nebraska could not have picked a better night to debut it.",
-      "whyPlaceholder": true,
-      "story": "Nebraska revealed its black alternate on August 15 under the theme \"Our Red Burns Brighter,\" with huge white numbers outlined in red, a black helmet with metallic red details and GBR on the bumper. The metallic finishes nod to the fire towers and fireworks at Memorial Stadium, and a perforated Block N on the back panel was inspired by the stadium's drone shows. It debuts on Halloween against Washington in the second annual Blackout game.",
-      "scheduleSlug": "nebraska-uniform-schedule-2026",
-      "scheduleLabel": "Nebraska 2026 uniform schedule",
-      "related": [
-        {
-          "slug": "college-football-blackout-uniforms-2026-ranked",
-          "label": "College football blackout uniforms, ranked"
-        }
-      ]
-    },
-    "2026-11-01": {
-      "team": "Washington Capitals",
-      "teamShort": "Capitals",
-      "league": "NHL",
-      "season": "2026-27",
-      "edition": "Third jersey",
-      "jerseyName": "Red Screaming Eagle",
-      "image": "/images/jersey-of-the-day/capitals-screaming-eagle-red-third.jpg",
-      "imageAlt": "Washington Capitals player in the red Screaming Eagle third jersey with a white shoulder yoke and the Capitol Dome shoulder patch, February 2026",
-      "imagePosition": "center 30%",
-      "imageCaption": "The red Screaming Eagle on February 25, 2026, against the Flyers.",
-      "credit": {
-        "text": "Quintin Soloviev",
-        "url": "https://commons.wikimedia.org/wiki/File:Alexander_Ovechkin_in_2026.jpg",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
-      },
-      "worn": {
-        "date": "2026-11-01",
-        "matchup": "vs Minnesota Wild",
-        "status": "Scheduled"
-      },
-      "why": "The diving eagle across a red chest is the best third jersey in hockey, and I'm glad they're bringing it out 10 times.",
-      "whyPlaceholder": true,
-      "story": "The red Screaming Eagle has the diving eagle across the chest, a white rounded shoulder yoke, 1970s hem striping, a lace-up collar and the 1990s Capitol Dome patch on the shoulders. It went 15 times in its first season, 2025-26, and Washington has it down for 10 home games this season. Tonight against the Wild is the third of them.",
-      "scheduleSlug": "capitals-uniform-schedule-2026-27",
-      "scheduleLabel": "Capitals 2026-27 uniform schedule",
-      "related": []
+    {
+     "slug": "nfl-week-7-uniforms-2026",
+     "label": "NFL Week 7 uniforms: every game"
     }
+   ],
+   "imageFit": "contain"
+  },
+  "2026-10-26": {
+   "team": "Indiana Pacers",
+   "teamShort": "Pacers",
+   "league": "NBA",
+   "season": "2026-27",
+   "edition": "Classic Edition (ABA Days)",
+   "jerseyName": "Classic Threads",
+   "image": "/images/posts/nba-classic-edition-jerseys-courts-2026-27/pacers-classic-threads-team-on-court.jpg",
+   "imageAlt": "Indiana Pacers players in the blue 2026-27 Classic Threads ABA Classic Edition uniform with an arched INDIANA and yellow block numbers",
+   "imagePosition": "center 35%",
+   "credit": {
+    "text": "Indiana Pacers"
+   },
+   "worn": {
+    "date": "2026-10-26",
+    "matchup": "at Milwaukee Bucks",
+    "status": "Announced"
+   },
+   "why": "Royal blue, an arched INDIANA and that yellow racing stripe over the shoulder. It's the best throwback in the NBA this year.",
+   "whyPlaceholder": true,
+   "story": "Classic Threads recreates the blue road uniform the Pacers wore in the ABA from 1971 to 1974: royal blue, a white arched INDIANA, yellow block numbers and a yellow and white racing stripe that runs over one shoulder and down the side. The team says it won two of its three ABA championships in this look. It is one of four ABA Classic Editions marking the 50th anniversary of the ABA-NBA merger, and Indiana has it on the schedule for 15 games.",
+   "scheduleSlug": "pacers-uniform-schedule-2026-27",
+   "scheduleLabel": "Pacers 2026-27 uniform schedule",
+   "related": [
+    {
+     "slug": "nba-classic-edition-jerseys-courts-2026-27",
+     "label": "All four ABA Classic Editions, graded"
+    }
+   ]
+  },
+  "2026-10-27": {
+   "team": "Tampa Bay Rays",
+   "teamShort": "Rays",
+   "league": "MLB",
+   "season": "2026",
+   "edition": "Throwback alternate",
+   "jerseyName": "Devil Rays Throwback",
+   "image": "/images/posts/rays-brewers-logo-history-world-series-2026/devil-rays-1998-jersey.jpg",
+   "imageAlt": "An inaugural-season Tampa Bay Devil Rays white home jersey with the gradient DEVIL RAYS script and ray logo, worn 1998 to 2000",
+   "imagePosition": "center center",
+   "imageCaption": "The original 1998 Devil Rays home jersey the throwback is based on.",
+   "credit": {
+    "text": "Zeng8r",
+    "url": "https://commons.wikimedia.org/wiki/File:TB_Devil_Rays_1998_unis.JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   },
+   "worn": {
+    "date": "2026-10-27",
+    "matchup": "vs Milwaukee Brewers, World Series Game 4",
+    "status": "Projected",
+    "note": "Our read, not a team call. If the Rays announce a different jersey for Game 4, we swap the pick."
+   },
+   "why": "The rainbow DEVIL RAYS script in a World Series game would be the most fun look of the whole postseason.",
+   "whyPlaceholder": true,
+   "story": "The white Devil Rays throwback came back as an alternate in 2023 and became the Rays' Friday home look. Tampa Bay is 2-0 in it this October, including the 7-3 win over Cleveland in ALCS Game 6 that clinched the pennant. The Rays have not announced their World Series jerseys, and our read is that Game 4 or a Game 5 at Tropicana Field is the strongest spot for it.",
+   "scheduleSlug": "rays-uniform-schedule-2026",
+   "scheduleLabel": "Rays 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "world-series-uniforms-2026",
+     "label": "World Series uniforms, game by game"
+    },
+    {
+     "slug": "rays-devil-rays-comeback-world-series-2026",
+     "label": "Are the Rays becoming the Devil Rays again?"
+    }
+   ],
+   "_editorNote": "Projected. If the Rays announce a different Game 4 jersey (or wear the throwback in Game 3), swap this day before Oct 27."
+  },
+  "2026-10-28": {
+   "team": "Edmonton Oilers",
+   "teamShort": "Oilers",
+   "league": "NHL",
+   "season": "2026-27",
+   "edition": "Home",
+   "jerseyName": "Royal Blue Home",
+   "image": "/images/posts/nhl-daily-tracker/oilers-home.jpg",
+   "imageAlt": "Edmonton Oilers royal blue home sweater with an orange shoulder yoke, orange and white sleeve and hem stripes and the oil-drop crest",
+   "imagePosition": "center center",
+   "credit": {
+    "text": "Product image"
+   },
+   "worn": {
+    "date": "2026-10-28",
+    "matchup": "vs Calgary Flames, Battle of Alberta",
+    "status": "Expected",
+    "note": "League default: the dark sweater at home. No third jersey night is set for this game."
+   },
+   "why": "Royal blue and orange against Calgary red is the best color clash in hockey, and the oil drop has never looked better.",
+   "whyPlaceholder": true,
+   "story": "Royal blue has been the Oilers' primary home sweater again since 2022-23, with an orange shoulder yoke, orange and white stripes on the sleeves and hem and the classic oil-drop crest, unchanged for 2026-27. It has been the sweater for every Oilers home game this season, and with no third jersey or Hometown Remix night announced for this one, it is the call against Calgary.",
+   "scheduleSlug": "oilers-uniform-schedule-2026-27",
+   "scheduleLabel": "Oilers 2026-27 uniform schedule",
+   "related": [
+    {
+     "slug": "nhl-uniform-tracker-2026-27",
+     "label": "NHL uniform tracker: every game, every sweater"
+    }
+   ],
+   "imageFit": "contain"
+  },
+  "2026-10-29": {
+   "team": "Green Bay Packers",
+   "teamShort": "Packers",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Home",
+   "jerseyName": "Vintage Green",
+   "image": "/images/posts/nfl-tracker-jerseys/packers-green-home.jpg",
+   "imageAlt": "Green Bay Packers Vintage Green home jersey, dark green with gold and white sleeve stripes and white numbers",
+   "imagePosition": "center center",
+   "credit": {
+    "text": "Product image"
+   },
+   "worn": {
+    "date": "2026-10-29",
+    "matchup": "vs Carolina Panthers, Thursday Night Football, Week 8",
+    "status": "Expected",
+    "note": "Green Bay has not published a game-by-game schedule; this is the standard home call. We confirm at kickoff."
+   },
+   "why": "Dark green, gold pants, gold helmet. They've barely changed it in decades because there's nothing to fix.",
+   "whyPlaceholder": true,
+   "story": "Green Bay calls it Vintage Green, one of the four uniforms in the club's 2026 lineup alongside 1923, Classic White and Rivalries. The green jersey with gold pants is one of the least-changed uniforms in American sport, and it carries most of the home schedule, including Atlanta on a Thursday in Week 3, Dallas in Week 6 and Carolina on a Thursday night in Week 8.",
+   "scheduleSlug": "packers-uniform-schedule-2026",
+   "scheduleLabel": "Packers 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "packers-jerseys-2026-ranked",
+     "label": "Every Packers jersey, ranked worst to best"
+    },
+    {
+     "slug": "nfl-uniform-tracker-2026",
+     "label": "NFL uniform tracker: what every team wore"
+    }
+   ],
+   "imageFit": "contain"
+  },
+  "2026-10-30": {
+   "team": "Tampa Bay Rays",
+   "teamShort": "Rays",
+   "league": "MLB",
+   "season": "2026",
+   "edition": "Road",
+   "jerseyName": "TAMPA BAY Road Gray",
+   "image": "/images/posts/rays-new-gray-road-uniform/cover.jpg",
+   "imageAlt": "Tampa Bay Rays gray road uniform with TAMPA BAY across the chest in a blue to green to yellow gradient wordmark and the navy ray logo beneath it",
+   "imagePosition": "center 60%",
+   "credit": {
+    "text": "Tampa Bay Rays"
+   },
+   "worn": {
+    "date": "2026-10-30",
+    "matchup": "at Milwaukee Brewers, World Series Game 6 (if necessary)",
+    "status": "Expected",
+    "note": "Only played if the Series reaches Game 6. The Brewers lead 2-0."
+   },
+   "why": "TAMPA BAY in a blue to green to yellow gradient finally gave the Rays a road gray worth a World Series.",
+   "whyPlaceholder": true,
+   "_editorNote": "IF NECESSARY. Brewers lead the Series 2-0 after Game 2. If the Series ends before Game 6 (Game 4 on Oct 27 or Game 5 on Oct 28), replace this day with a jersey worn Oct 30.",
+   "story": "Tampa Bay revealed this gray on September 21 and debuted it the next day against the Yankees. It is the Rays' first road gray since 2023: TAMPA BAY arched across the chest in a gradient that runs light blue into green into yellow, the ray mark underneath and navy piping everywhere else. It has been their road jersey in every road game this postseason, including Games 1 and 2 in Milwaukee.",
+   "scheduleSlug": "rays-uniform-schedule-2026",
+   "scheduleLabel": "Rays 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "rays-new-gray-road-uniform",
+     "label": "The Rays' new road gray, graded A"
+    },
+    {
+     "slug": "world-series-uniforms-2026",
+     "label": "World Series uniforms, game by game"
+    }
+   ]
+  },
+  "2026-10-31": {
+   "team": "Nebraska Cornhuskers",
+   "teamShort": "Nebraska",
+   "league": "College Football",
+   "season": "2026",
+   "edition": "Blackout alternate",
+   "jerseyName": "Our Red Burns Brighter Blackout",
+   "image": "/images/posts/college-football-blackout-uniforms-2026-ranked/nebraska-pointing.jpg",
+   "imageAlt": "Nebraska Cornhuskers 2026 blackout uniform, a black jersey with NEBRASKA in red across the chest and large white numbers, worn with a black helmet and red facemask",
+   "imagePosition": "center 25%",
+   "credit": {
+    "text": "Nebraska Athletics / adidas"
+   },
+   "worn": {
+    "date": "2026-10-31",
+    "matchup": "vs Washington, Blackout game",
+    "status": "Announced"
+   },
+   "why": "Black and metallic red on Halloween night in Lincoln. Nebraska could not have picked a better night to debut it.",
+   "whyPlaceholder": true,
+   "story": "Nebraska revealed its black alternate on August 15 under the theme \"Our Red Burns Brighter,\" with huge white numbers outlined in red, a black helmet with metallic red details and GBR on the bumper. The metallic finishes nod to the fire towers and fireworks at Memorial Stadium, and a perforated Block N on the back panel was inspired by the stadium's drone shows. It debuts on Halloween against Washington in the second annual Blackout game.",
+   "scheduleSlug": "nebraska-uniform-schedule-2026",
+   "scheduleLabel": "Nebraska 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "college-football-blackout-uniforms-2026-ranked",
+     "label": "College football blackout uniforms, ranked"
+    }
+   ]
+  },
+  "2026-11-01": {
+   "team": "Washington Capitals",
+   "teamShort": "Capitals",
+   "league": "NHL",
+   "season": "2026-27",
+   "edition": "Third jersey",
+   "jerseyName": "Red Screaming Eagle",
+   "image": "/images/jersey-of-the-day/capitals-screaming-eagle-red-third.jpg",
+   "imageAlt": "Washington Capitals player in the red Screaming Eagle third jersey with a white shoulder yoke and the Capitol Dome shoulder patch, February 2026",
+   "imagePosition": "center 30%",
+   "imageCaption": "The red Screaming Eagle on February 25, 2026, against the Flyers.",
+   "credit": {
+    "text": "Quintin Soloviev",
+    "url": "https://commons.wikimedia.org/wiki/File:Alexander_Ovechkin_in_2026.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+   },
+   "worn": {
+    "date": "2026-11-01",
+    "matchup": "vs Minnesota Wild",
+    "status": "Scheduled"
+   },
+   "why": "The diving eagle across a red chest is the best third jersey in hockey, and I'm glad they're bringing it out 10 times.",
+   "whyPlaceholder": true,
+   "story": "The red Screaming Eagle has the diving eagle across the chest, a white rounded shoulder yoke, 1970s hem striping, a lace-up collar and the 1990s Capitol Dome patch on the shoulders. It went 15 times in its first season, 2025-26, and Washington has it down for 10 home games this season. Tonight against the Wild is the third of them.",
+   "scheduleSlug": "capitals-uniform-schedule-2026-27",
+   "scheduleLabel": "Capitals 2026-27 uniform schedule",
+   "related": []
   }
+ }
 }
