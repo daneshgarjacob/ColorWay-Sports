@@ -2,6 +2,8 @@ import { ARTICLE_ROW, ARTICLE_COL } from "@/lib/articleColumn";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import TwitterEmbed from "@/components/TwitterEmbed";
+import SponsorStrip from "@/components/SponsorStrip";
+import { sponsorForPost } from "@/lib/sponsors";
 import InstagramEmbed from "@/components/InstagramEmbed";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import RelatedStories from "@/components/RelatedStories";
@@ -371,6 +373,10 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
               })}
             </time>
           </div>
+          {(() => {
+            const sponsor = sponsorForPost(post.slug);
+            return sponsor ? <SponsorStrip sponsor={sponsor} /> : null;
+          })()}
           {post.coverCredit && (
             <p className="mt-2 text-xs text-black/50">
               Cover photo:{" "}
