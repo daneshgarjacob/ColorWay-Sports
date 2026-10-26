@@ -82,7 +82,7 @@ It grades a B+. It ranks above the Winter Warrior because it lets purple frame t
 
 The purple home jersey has white numbers outlined in gold and the same horn stripe on the shoulders, worn under the purple helmet with the white horn. Minnesota has confirmed it for six home games. Five are purple over white pants: the Miami Dolphins in Week 4 on Sunday, October 4, the Buffalo Bills on Monday, November 9, when Adrian Peterson enters the Ring of Honor, the Atlanta Falcons in Week 12, the Carolina Panthers in Week 13, and the Chicago Bears in Week 18.
 
-The sixth was listed as the All-Purple game against the Indianapolis Colts on Sunday, October 25, this same jersey worn with purple pants, though on the day Minnesota wore white pants instead. That is the boldest thing the Vikings do with their standard set, and we are on the side that likes it: it is the one version of the uniform where the color is the whole statement. The white pants are the more classic look. The purple pants are the more Minnesota one.
+The sixth was listed in the team's [2026 home game themes](https://www.vikings.com/news/2026-game-themes-us-bank-stadium) as the All-Purple (purple jersey, purple pants) game against the Indianapolis Colts on Sunday, October 25, this same jersey worn with purple pants, though on the day Minnesota wore white pants instead. That is the boldest thing the Vikings do with their standard set, and we are on the side that likes it: it is the one version of the uniform where the color is the whole statement. The white pants are the more classic look. The purple pants are the more Minnesota one.
 
 It grades an A-. Minnesota owns one of the two or three best base colors in football, and this jersey puts it front and center without getting in its own way.
 
