@@ -516,6 +516,104 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909857)"
+    },
+    "2026-10-25 DET@PHI": {
+      "score": {
+        "away": 106,
+        "home": 93
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909866)"
+    },
+    "2026-10-25 IND@BKN": {
+      "score": {
+        "away": 136,
+        "home": 109
+      },
+      "away": {
+        "call": "Classic Edition"
+      },
+      "home": {
+        "call": "Classic Edition"
+      },
+      "confirmed": true,
+      "source": "Pacers X game post (https://x.com/Pacers/status/2114550114962342235) + ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909862)"
+    },
+    "2026-10-25 LAC@OKC": {
+      "score": {
+        "away": 101,
+        "home": 108
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909865)"
+    },
+    "2026-10-25 LAL@UTA": {
+      "score": {
+        "away": 132,
+        "home": 123
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909861)"
+    },
+    "2026-10-25 MEM@SAC": {
+      "score": {
+        "away": 123,
+        "home": 112
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909867)"
+    },
+    "2026-10-25 ORL@NYK": {
+      "score": {
+        "away": 111,
+        "home": 102
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909863)"
+    },
+    "2026-10-25 TOR@MIN": {
+      "score": {
+        "away": 94,
+        "home": 117
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909864)"
     }
   }
 }
