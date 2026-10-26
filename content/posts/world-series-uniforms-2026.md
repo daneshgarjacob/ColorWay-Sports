@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-10-16"
-updatedDate: "2026-10-24"
+updatedDate: "2026-10-26"
 homepageHero: "2026-10-21"
 excerpt: "2026 World Series uniforms for Rays vs. Brewers: what each team will wear in Milwaukee and under the Tropicana Field dome, every playoff jersey and record, the Devil Rays throwback question, the patch and the full schedule."
 gradient: "linear-gradient(135deg, #12284B 0%, #0B1A2F 55%, #FFC52F 140%)"
@@ -45,7 +45,7 @@ Identical uniforms to Game 1, so the same grade: **B+**. Final: Brewers 5, Rays 
 
 Game 1 was Friday, October 23, at American Family Field on FOX, and the Brewers won it 3-2. Both jerseys are confirmed, and both match what we expected.
 
-- **Rays:** the **road gray** with the Devil Rays-era "TAMPA BAY" script and the ray under it, the same road jersey they wore in all four road playoff games this October. Game 1 starter Nick Martinez is pictured in it below.
+- **Rays:** the **road gray** with the Devil Rays-era "TAMPA BAY" script and the ray under it, the same road jersey they wore in their first four road playoff games this October. Game 1 starter Nick Martinez is pictured in it below.
 - **Brewers:** the **cream home uniform** with "BREWERS" in navy and gold, now with the 2026 World Series patch high on the chest. It is the jersey they wore in all four home playoff games this October.
 
 Gray against cream with the World Series patch gets a **B+** from us for the matchup. Final: Brewers 3, Rays 2. Every game of the Series is logged on our [MLB daily uniform tracker](/stories/mlb-uniform-tracker-2026).
@@ -98,7 +98,7 @@ The 2026 World Series logo is a white cursive "World Series" script on a navy di
 
 ## Milwaukee Brewers: What They Have Worn This October
 
-The Brewers are 7-1 this postseason and have used just two jerseys: cream at home (4-0), navy on the road (3-1).
+The Brewers are 9-1 this postseason and have used just two jerseys: cream at home (6-0, World Series Games 1 and 2 included), navy on the road (3-1).
 
 <div style="overflow-x:auto;margin:1.5em 0;border:1px solid #e3e7ec;border-radius:12px;"><table style="width:100%;border-collapse:collapse;min-width:640px;margin:0;">
 <thead><tr><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Date</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Game</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Opponent</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Jersey</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Cap</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Result</th></tr></thead><tbody>
@@ -126,7 +126,7 @@ The Brewers are 7-1 this postseason and have used just two jerseys: cream at hom
 
 ## Tampa Bay Rays: What They Have Worn This October
 
-The Rays are 7-2 this postseason. They swept the Yankees 3-0 in the ALDS, then fell behind the Guardians 2-1 in the ALCS before winning three straight. They have used three jerseys, and the record in each one is below.
+The Rays are 7-4 this postseason. They swept the Yankees 3-0 in the ALDS, fell behind the Guardians 2-1 in the ALCS before winning three straight, then lost World Series Games 1 and 2 in Milwaukee. They have used three jerseys, and the record in each one is below.
 
 <div style="overflow-x:auto;margin:1.5em 0;border:1px solid #e3e7ec;border-radius:12px;"><table style="width:100%;border-collapse:collapse;min-width:640px;margin:0;">
 <thead><tr><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Date</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Game</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Opponent</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Jersey</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Result</th></tr></thead><tbody>
@@ -143,12 +143,12 @@ The Rays are 7-2 this postseason. They swept the Yankees 3-0 in the ALDS, then f
 
 <div style="overflow-x:auto;margin:1.5em 0;border:1px solid #e3e7ec;border-radius:12px;"><table style="width:100%;border-collapse:collapse;min-width:420px;margin:0;">
 <thead><tr><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Rays jersey</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Games</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Record</th></tr></thead><tbody>
-<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;font-weight:700;">New "Tampa Bay" gray (road)</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">4</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">3-1</td></tr>
+<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;font-weight:700;">New "Tampa Bay" gray (road)</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">6</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">3-3</td></tr>
 <tr style="background:#f6f7f9;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;font-weight:700;">Home white</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">3</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">2-1</td></tr>
 <tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;font-weight:700;">Devil Rays throwback (home)</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">2</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">2-0</td></tr>
 </tbody></table></div>
 
-**In Milwaukee: the new gray, expected.** The gray jersey with "TAMPA BAY" in a gradient wordmark, worn with the navy "TB" gradient cap, debuted September 22 and has been the Rays' road jersey for all four road playoff games. They won three of them, including Games 4 and 5 in Cleveland that turned the ALCS. That is a change: the navy alternate was their everyday road jersey in the regular season, and it has not been worn once this October.
+**In Milwaukee: the new gray, expected.** The gray jersey with "TAMPA BAY" in a gradient wordmark, worn with the navy "TB" gradient cap, debuted September 22 and has been the Rays' road jersey for all six road playoff games. They are 3-3 in it: wins in Games 4 and 5 in Cleveland that turned the ALCS, then losses in World Series Games 1 and 2. That is a change: the navy alternate was their everyday road jersey in the regular season, and it has not been worn once this October.
 
 **At Tropicana Field: home white or the Devil Rays, our expectation.** The home whites with the sunburst "Rays" script opened both series at home and are 2-1. The 1998 Devil Rays rainbow throwback has been worn twice, in ALCS Games 2 and 6, and the Rays won both. The full set is on the [Rays uniform schedule](/stories/rays-uniform-schedule-2026).
 
@@ -198,7 +198,7 @@ Friday, October 23, at American Family Field in Milwaukee, at 8:00 p.m. ET on FO
 
 **What are the Rays wearing in the World Series?**
 
-We expect the new gray with "TAMPA BAY" in a gradient script in Milwaukee (Games 1, 2, 6 and 7), the same road jersey they wore in all four road playoff games, going 3-1. At Tropicana Field (Games 3, 4 and 5) we expect the home white or the Devil Rays throwback. Those are our projections; we confirm each game at first pitch.
+We expect the new gray with "TAMPA BAY" in a gradient script in Milwaukee (Games 1, 2, 6 and 7), the road jersey they have worn in all six road playoff games, now 3-3 after the two losses in Milwaukee. At Tropicana Field (Games 3, 4 and 5) we expect the home white or the Devil Rays throwback. Those are our projections; we confirm each game at first pitch.
 
 **What are the Brewers wearing in Game 1?**
 
@@ -206,7 +206,7 @@ The cream home jersey, confirmed, with the 2026 World Series patch on the chest.
 
 **What are the Rays wearing in Game 1?**
 
-The road gray with the Devil Rays-era "TAMPA BAY" script and the ray, confirmed. It is the same road jersey they wore in all four road playoff games this October.
+The road gray with the Devil Rays-era "TAMPA BAY" script and the ray, confirmed. It is the same road jersey they wore in their first four road playoff games this October.
 
 **What did the Rays and Brewers wear in Game 2?**
 
@@ -226,7 +226,7 @@ At least Games 3, 4 and 5 are, because Tropicana Field is a fixed dome. American
 
 **What is the Rays' record in each uniform this postseason?**
 
-3-1 in the new "TAMPA BAY" road gray, 2-1 in the home white and 2-0 in the Devil Rays throwback, for a 7-2 record overall.
+3-3 in the new "TAMPA BAY" road gray, 2-1 in the home white and 2-0 in the Devil Rays throwback, for a 7-4 record overall.
 
 **What did the Rays wear in ALCS Game 6?**
 
