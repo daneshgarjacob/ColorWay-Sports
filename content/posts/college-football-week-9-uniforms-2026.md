@@ -28,7 +28,7 @@ Below is every Halloween uniform announced so far, then every game this week inv
 - **Nebraska: black alternate debut (Confirmed).** Black helmet with a metallic red Huskers script and a red crop-row stripe, black jersey, black pants, vs. Washington.
 - **Syracuse: first-ever Otto helmet (Confirmed).** White helmet with a cartoon Otto decal and a navy and orange stripe, vs. No. 19 SMU.
 - **BYU: all navy (Confirmed).** Navy helmet, navy jersey, navy pants, vs. Arizona State.
-- **UCF: Space Game, Mission X (Confirmed).** White helmet with a red stripe, a flag-filled UCF logo and a chrome gold facemask and visor, white jersey, white pants, Friday vs. Baylor. The full helmet was shown Tuesday.
+- **UCF: Space Game, Mission X (Confirmed).** White helmet with a red stripe, a stars-and-stripes UCF logo and a chrome gold facemask and visor, white jersey, white pants, Friday vs. Baylor. The full helmet was shown Tuesday.
 - **Navy: 1926 centennial throwback (Confirmed).** Gold helmet, navy jersey with nine gold chevron stripes, gold pants, vs. No. 5 Notre Dame.
 - **Iowa State: "halloween threads" (Confirmed).** Black helmet with a white Cynado logo, black jersey, black pants, vs. No. 24 Oklahoma State.
 - **UNLV: "Black is back" (Confirmed).** Red helmet, black jersey with REBELS across the chest, vs. Northern Illinois.
@@ -80,7 +80,7 @@ Syracuse has only shown the helmet. It wore the navy jersey and orange pants in 
 
 The reveal photo shows a **white helmet with a red center stripe and a chrome gold facemask**, a **white jersey** with navy numbers trimmed in light blue and a light blue V at the collar, and **white pants**. It is a long way from last year's HyperSpace set and its carbon fiber helmet. UCF comes in off what it called the highest ranked win in program history, 39-31 in double overtime over a BYU team that was No. 2.
 
-**New Tuesday: the full SpaceU helmet.** UCF posted "The 2026 SpaceU helmet" on October 27, and the 360-degree video shows details the September reveal did not. The UCF logo on the side is filled with an American flag, stars on top and stripes below, outlined in black. The chrome gold facemask carries a matching gold visor, the front bumper reads SPACEU, and the back bumper reads Walt Disney World, above a "26" with a flag decal and a cartoon astronaut. It is the most detailed helmet UCF has made for the Space Game, and it is the one piece of this set worth seeing up close.
+**New Tuesday: the full SpaceU helmet.** UCF posted "The 2026 SpaceU helmet" on October 27, and the 360-degree video shows details the September reveal did not. The UCF logo on the side is filled with a silver stars-and-stripes pattern, stars on top and stripes below, outlined in black. The chrome gold facemask carries a matching gold visor, the front bumper reads SPACEU, and the back bumper reads Walt Disney World, above a "26" with a flag decal and a cartoon astronaut. It is the most detailed helmet UCF has made for the Space Game, and it is the one piece of this set worth seeing up close.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Football/status/2115194098118189481"></a></blockquote>
@@ -393,7 +393,7 @@ All navy: a navy helmet with a navy and white stripe and the white oval Y, a nav
 
 **When is the UCF Space Game in 2026, and what is UCF wearing?**
 
-Friday, October 30, at 7:30 p.m. Eastern on ESPN, against Baylor. It is the tenth Space Game. UCF's 2026 set, Mission X, has a white helmet with a red stripe, a flag-filled UCF logo and a chrome gold facemask and visor, a white jersey with navy numbers and a light blue collar, and white pants.
+Friday, October 30, at 7:30 p.m. Eastern on ESPN, against Baylor. It is the tenth Space Game. UCF's 2026 set, Mission X, has a white helmet with a red stripe, a stars-and-stripes UCF logo and a chrome gold facemask and visor, a white jersey with navy numbers and a light blue collar, and white pants.
 
 **What is Navy wearing against Notre Dame?**
 

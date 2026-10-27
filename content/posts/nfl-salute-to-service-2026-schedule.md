@@ -1,9 +1,9 @@
 ---
-title: "NFL Salute to Service 2026: Dates, Gear Release Date, Every Game"
+title: "NFL Salute to Service 2026 Schedule: Every Team's Game, Week by Week, Plus What They Wear and When the Gear Drops"
 category: "NFL"
 date: "2026-09-14"
-updatedDate: "2026-10-13"
-excerpt: "NFL Salute to Service 2026 dates and release date: the 2026 gear is already out, 22 teams have named their game, most fall November 5 to 9."
+updatedDate: "2026-10-27"
+excerpt: "NFL Salute to Service 2026 schedule: all 22 team-announced games from the Titans on October 25 to the Buccaneers on November 30, ten of them November 5 to 9. Which teams wear alternates (Ravens Purple Rising, Bills Cold Front), what the camo is, and when the 2026 gear dropped."
 gradient: "linear-gradient(135deg, #3d4a2c 0%, #1f2716 52%, #2f6bed 100%)"
 cardStyle: words
 kicker: Uniform Schedule
@@ -11,6 +11,8 @@ logoSrc: "/logos/leagues/nfl.png"
 league: "nfl"
 teams: []
 ---
+
+**Update, October 27:** The first 2026 Salute to Service game is in the books: the Titans hosted the Browns on October 25 and lost 27-24. **Next up is the Steelers vs. the Browns on Sunday, November 1**, then ten games in Week 9. The full week-by-week table is below.
 
 **NFL Salute to Service 2026 dates:** team games run from **October 25 to November 30**, and the biggest wave is Week 9, **November 5 to 9**, just before Veterans Day. **Release date:** the 2026 Salute to Service gear is already out. New Era's online store data shows its 2026 Salute to Service caps went live on **September 21, 2026**, and the 2026 Nike sideline hoodies were on sale at [NFL Shop](https://www.nflshop.com/salute-to-service/c-39087453+z-9625009-3234416133) for $119.99 when we checked on October 13. The NFL has not announced its official 2026 Salute to Service weeks yet.
 
@@ -37,7 +39,7 @@ The program also carries an award. The **Salute to Service Award presented by US
 
 ## Has the NFL Announced the 2026 Salute to Service Weeks?
 
-**Not yet**, as of October 13. The league typically announces its on-field window close to the games themselves. Its 2025 release came out on October 30, 2025, and put Salute to Service on the field **during Weeks 9 through 11**. The 2024 release came out on November 7, 2024, and covered **Weeks 10 through 12**.
+**Not that we could find**, as of October 27. The league typically announces its on-field window close to the games themselves. Its 2025 release came out on October 30, 2025, and put Salute to Service on the field **during Weeks 9 through 11**. The 2024 release came out on November 7, 2024, and covered **Weeks 10 through 12**.
 
 For 2026, the calendar math matters. Week 1 opened Thursday, September 10, so the November weeks fall like this:
 
@@ -53,19 +55,53 @@ Veterans Day, Wednesday, November 11, falls between Week 9 and Week 10. The team
 
 Each date below comes from the team's own 2026 home game themes announcement or official schedule. The uniform line is what our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026) has for that game. **Confirmed** means the club announced the jersey. **Expected** means it follows the standard home-and-away convention and has not been announced.
 
+### Salute to Service 2026 at a Glance
+
+<div style="overflow-x:auto;margin:1.2em 0 1.6em;">
+<table style="width:100%;border-collapse:collapse;font-size:0.9em;min-width:520px;">
+<thead><tr style="background:#12284B;color:#ffffff;"><th style="padding:10px 12px;text-align:left;font-weight:700;">Week</th><th style="padding:10px 12px;text-align:left;font-weight:700;">Date</th><th style="padding:10px 12px;text-align:left;font-weight:700;">Home team</th><th style="padding:10px 12px;text-align:left;font-weight:700;">Opponent</th><th style="padding:10px 12px;text-align:left;font-weight:700;">Home uniform</th></tr></thead>
+<tbody>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">7</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Oct 25</td><td style="padding:9px 12px;font-weight:700;">Titans</td><td style="padding:9px 12px;">Browns</td><td style="padding:9px 12px;">Played: Titans blue, white helmet, white pants. Browns won 27-24</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">8</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 1</td><td style="padding:9px 12px;font-weight:700;">Steelers</td><td style="padding:9px 12px;">Browns</td><td style="padding:9px 12px;">Black (expected)</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Thu, Nov 5</td><td style="padding:9px 12px;font-weight:700;">Ravens</td><td style="padding:9px 12px;">Jaguars</td><td style="padding:9px 12px;">Purple Rising (confirmed)</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Chiefs</td><td style="padding:9px 12px;">Jets</td><td style="padding:9px 12px;">Red (expected)</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Dolphins</td><td style="padding:9px 12px;">Lions</td><td style="padding:9px 12px;">White (expected)</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">49ers</td><td style="padding:9px 12px;">Raiders</td><td style="padding:9px 12px;">Scarlet (expected)</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Seahawks</td><td style="padding:9px 12px;">Cardinals</td><td style="padding:9px 12px;">College navy (expected)</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Bears</td><td style="padding:9px 12px;">Buccaneers</td><td style="padding:9px 12px;">Navy (expected)</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Commanders</td><td style="padding:9px 12px;">Rams</td><td style="padding:9px 12px;">Burgundy (expected)</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Patriots</td><td style="padding:9px 12px;">Packers</td><td style="padding:9px 12px;">Navy (expected)</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Mon, Nov 9</td><td style="padding:9px 12px;font-weight:700;">Vikings</td><td style="padding:9px 12px;">Bills</td><td style="padding:9px 12px;">Purple over white pants (confirmed)</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">10</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 15</td><td style="padding:9px 12px;font-weight:700;">Jets</td><td style="padding:9px 12px;">Bills</td><td style="padding:9px 12px;">Green (expected)</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">10</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 15</td><td style="padding:9px 12px;font-weight:700;">Raiders</td><td style="padding:9px 12px;">Seahawks</td><td style="padding:9px 12px;">Black (expected)</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">10</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 15</td><td style="padding:9px 12px;font-weight:700;">Cardinals</td><td style="padding:9px 12px;">Rams</td><td style="padding:9px 12px;">Cardinal red (expected)</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">10</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 15</td><td style="padding:9px 12px;font-weight:700;">Colts</td><td style="padding:9px 12px;">Dolphins</td><td style="padding:9px 12px;">Blue (expected)</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">10</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 15</td><td style="padding:9px 12px;font-weight:700;">Packers</td><td style="padding:9px 12px;">Vikings</td><td style="padding:9px 12px;">Green (expected)</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">11</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 22</td><td style="padding:9px 12px;font-weight:700;">Bills</td><td style="padding:9px 12px;">Dolphins</td><td style="padding:9px 12px;">Cold Front Rivalries (confirmed)</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">11</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 22</td><td style="padding:9px 12px;font-weight:700;">Chargers</td><td style="padding:9px 12px;">Jets</td><td style="padding:9px 12px;">Powder blue (confirmed)</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">11</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 22</td><td style="padding:9px 12px;font-weight:700;">Giants</td><td style="padding:9px 12px;">Jaguars</td><td style="padding:9px 12px;">Blue (expected)</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">12</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 29</td><td style="padding:9px 12px;font-weight:700;">Texans</td><td style="padding:9px 12px;">Ravens</td><td style="padding:9px 12px;">Deep Steel Blue (expected)</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">12</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 29</td><td style="padding:9px 12px;font-weight:700;">Jaguars</td><td style="padding:9px 12px;">Titans</td><td style="padding:9px 12px;">Teal (expected)</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">12</td><td style="padding:9px 12px;white-space:nowrap;">Mon, Nov 30</td><td style="padding:9px 12px;font-weight:700;">Buccaneers</td><td style="padding:9px 12px;">Panthers</td><td style="padding:9px 12px;">Red (expected)</td></tr>
+</tbody>
+</table>
+</div>
+
+The week-by-week detail, with links to each team's full uniform schedule:
+
 ### Week 7
 
-- **Tennessee Titans** vs. Cleveland Browns, Sunday, October 25. Expected uniform: Titans blue. This is the outlier: Tennessee's only November home game is Week 10 against Jacksonville. [Titans 2026 uniform schedule](/stories/titans-uniform-schedule-2026)
+- **Tennessee Titans** vs. Cleveland Browns, Sunday, October 25. **Played.** The Titans wore the white helmet, Titans blue jersey and white pants, as ESPN's game video shows, and the Browns, in white over brown pants, won 27-24. This was the outlier date: Tennessee's only November home game is Week 10 against Jacksonville. [Titans 2026 uniform schedule](/stories/titans-uniform-schedule-2026)
 
 ### Week 8
 
-- **Pittsburgh Steelers** vs. Cleveland Browns, Sunday, November 1. Expected uniform: black. [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026)
+- **Pittsburgh Steelers** vs. Cleveland Browns, Sunday, November 1. Steelers.com lists it as the team's 2026 Salute to Service game. Expected uniform: black. The Steelers come in off their 16-10 win over the Saints in Paris, where they wore [white over black pants](/stories/steelers-black-pants-white-jerseys-paris-2026). [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026)
 
 ### Week 9
 
 - **Baltimore Ravens** vs. Jacksonville Jaguars, Thursday, November 5, Thursday Night Football. Confirmed uniform: **Purple Rising**, the all-purple set with the new Purple Rising helmet. The Ravens billed the night as "Purple Rising + Salute to Service." [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026)
 - **Kansas City Chiefs** vs. New York Jets, Sunday, November 8. Expected uniform: red. [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026)
-- **Miami Dolphins** vs. Detroit Lions, Sunday, November 8. Confirmed uniform: **white at home**, per the uniform schedule Miami distributes to credentialed photographers. [Dolphins 2026 uniform schedule](/stories/dolphins-uniform-schedule-2026)
+- **Miami Dolphins** vs. Detroit Lions, Sunday, November 8. Expected uniform: **white at home**. [Dolphins 2026 uniform schedule](/stories/dolphins-uniform-schedule-2026)
 - **San Francisco 49ers** vs. Las Vegas Raiders, Sunday, November 8. Expected uniform: scarlet. [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026)
 - **Seattle Seahawks** vs. Arizona Cardinals, Sunday, November 8. Expected uniform: college navy. [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026)
 - **Chicago Bears** vs. Tampa Bay Buccaneers, Sunday, November 8, Sunday Night Football. Expected uniform: navy. [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026)
@@ -95,7 +131,7 @@ Each date below comes from the team's own 2026 home game themes announcement or 
 
 ## The 10 Teams That Have Not Named a 2026 Salute to Service Game
 
-These clubs have not published a 2026 Salute to Service date that we could find on the team's site or schedule, as of October 13. Below are their home games from November 1 through Thanksgiving week, which is where the game has landed in recent seasons. **These are possibilities, not announcements.**
+These clubs have not published a 2026 Salute to Service date that we could find on the team's site or schedule, as of October 27. Below are their home games from November 1 through Thanksgiving week, which is where the game has landed in recent seasons. **These are possibilities, not announcements.**
 
 - **Cincinnati Bengals:** Titans (November 1), Steelers (November 15, confirmed White Bengal uniform) and Saints (November 29). The November 8 game against Atlanta is in Madrid with the Falcons as the home team. [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026)
 - **Denver Broncos:** Chiefs (November 1) and Raiders (November 22). [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026)
@@ -171,6 +207,34 @@ It is out now. The New Era caps went live September 21, 2026, about three weeks 
 **When are the NFL Salute to Service 2026 games?**
 
 From October 25 (Titans vs. Browns) to November 30 (Buccaneers vs. Panthers). Ten of the 22 announced games fall in Week 9, November 5 to 9.
+
+**Which NFL teams wear Salute to Service uniforms in 2026?**
+
+All 32 teams take part, but almost all of them wear their regular jerseys with Salute to Service sideline gear, helmet decals and field markings. Two clubs have put announced alternates on their Salute to Service dates: the Ravens in Purple Rising on November 5 against the Jaguars and the Bills in their Cold Front Rivalries uniform on November 22 against the Dolphins. The Vikings announced purple over white pants for theirs on November 9.
+
+**Is there a Salute to Service game this week?**
+
+Yes. The Steelers host the Browns on Sunday, November 1, in Week 8, the second team-announced Salute to Service game of 2026 and the only one that week.
+
+**When is the Steelers' Salute to Service game in 2026?**
+
+Sunday, November 1, against the Cleveland Browns at Acrisure Stadium. Steelers.com lists it as the Salute to Service game in the team's 2026 game themes.
+
+**Which teams have Salute to Service games in Week 9?**
+
+Ten: the Ravens (Thursday, November 5 vs. the Jaguars), the Chiefs, Dolphins, 49ers, Seahawks, Bears, Commanders and Patriots (all Sunday, November 8), and the Vikings (Monday, November 9 vs. the Bills).
+
+**What did the Titans wear for Salute to Service?**
+
+The white helmet, Titans blue jersey and white pants against the Browns on October 25, 2026. Tennessee lost 27-24.
+
+**Is the Buccaneers' Salute to Service game on Monday Night Football?**
+
+Yes. Tampa Bay hosts the Carolina Panthers on Monday, November 30, the last team-announced Salute to Service game of 2026, combined with My Cause My Cleats.
+
+**Do the Bills wear a special uniform for Salute to Service?**
+
+In 2026, yes. Buffalo's official schedule lists the November 22 game against Miami as "Salute to Service, Rivalries Uniform," which is the all-white Cold Front set with the metal-flake white helmet.
 
 **Where does the money from Salute to Service go?**
 

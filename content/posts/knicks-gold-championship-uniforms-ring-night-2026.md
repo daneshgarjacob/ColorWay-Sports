@@ -1,10 +1,10 @@
 ---
-title: "Knicks Gold Championship Uniforms for Ring Night: Gold Letters, a 2025-26 Champions Patch and a Gold '3' Tag, Graded"
+title: "Knicks Gold Championship Jersey: What It Looks Like, When They Wore It, Will It Return and Can You Buy One (Graded A+)"
 author: "colorway-sports-staff"
 category: NBA
 date: "2026-10-20"
-updatedDate: "2026-10-22"
-excerpt: "The Knicks raise their first banner since 1973 in a gold-trimmed Association white: gold NEW YORK, gold names and numbers, a gold 2025-26 Champions patch on the back and a gold '3' tag at the collar for the franchise's third title. We give it an A+."
+updatedDate: "2026-10-27"
+excerpt: "The Knicks gold championship jersey, explained: a gold-trimmed Association white with gold NEW YORK, gold names and numbers, a 2025-26 Champions patch and a gold '3' tag, worn for ring night on October 20, 2026. When it could come back, whether you can buy one, and why the Knicks are now in black. Graded A+."
 gradient: "linear-gradient(135deg, #006BB6 0%, #C99A3B 55%, #F58426 120%)"
 coverImage: "/images/posts/knicks-gold-championship-uniforms-2026/cover-knicks-gold-champions-patch.jpg"
 coverImagePosition: "center center"
@@ -14,6 +14,8 @@ logoSrc: "/logos/leagues/nba.png"
 league: nba
 teams: ["new-york-knicks", "philadelphia-76ers"]
 ---
+
+**Update, October 27:** Searching for the Knicks gold championship jersey? It has been worn once so far: ring night, October 20, 2026, against the 76ers. The Knicks have not announced another gold game, and they have since switched to their **black Statement Edition** for three straight games (more below). We also answer whether you can buy one.
 
 **Update, October 22:** Ring night is in the books. The Knicks wore the gold-trimmed white for the whole game, raised a royal blue **"2025-26 World Champions"** banner to the Garden rafters, and got their rings from Jason of Beverly Hills. Then the 76ers spoiled the party, **106-100**. The banner and the rings are in the new section below.
 
@@ -92,6 +94,27 @@ The team also played a tribute video before the raising, a "Thank you, fans" pie
 
 Every other Opening Night matchup is in our [NBA Opening Night uniforms guide](/stories/nba-opening-night-uniforms-2026), and the rest of New York's season is in the [Knicks 2026-27 uniform schedule](/stories/knicks-uniform-schedule-2026-27).
 
+## When Did the Knicks Wear the Gold Jersey, and Will They Wear It Again?
+
+- **Worn so far:** once, for the full game on ring night, Tuesday, October 20, 2026, a 106-100 loss to the 76ers at Madison Square Garden.
+- **Next gold game:** none announced. The Knicks presented it as their ring night uniform, and their 2026-27 jersey schedule lists only the regular Nike editions (Association, Icon, Statement, City and the new Specter) for the rest of the season. If the team brings the gold back for another night, we will add it here and to the [Knicks 2026-27 uniform schedule](/stories/knicks-uniform-schedule-2026-27).
+
+## Can You Buy the Knicks Gold Championship Jersey?
+
+Not the ring night version. As of October 27, neither the Knicks nor Fanatics has put the gold-trimmed white from October 20 on sale, and the Knicks have not said it will be sold. Here is what fans can actually get:
+
+1. **The "Gold Standard" Brunson jersey (sold out in practice).** In June, Fanatics ran a raffle-style Product Drop for a Jalen Brunson Nike 2026 NBA Finals Champions Authentic Icon "Gold Standard" jersey, numbered 1 to 36 and priced at $750, [per Sports Illustrated](https://www.si.com/onsi/jerseys/news/jalen-brunson-gold-knicks-jersey-is-extremely-rare). Entries closed June 20. It is a different jersey from the one the team wore on ring night.
+2. **2026 Finals patch jerseys.** Nike Swingman jerseys with the 2026 NBA Finals patch went on sale at Fanatics and the NBA Store, [about $150 for the blue Icon Edition](https://www.si.com/onsi/jerseys/news/new-york-knicks-nba-finals-jerseys-just-dropped-online), with pricier Authentic versions.
+3. **Championship shirts and hats,** which we graded in our [Knicks 2026 NBA champions hat and shirt review](/stories/knicks-2026-nba-champions-hat-shirt-graded).
+
+## Since Ring Night: The Knicks Switch to Black
+
+After the gold night, the Knicks went to their **black Statement Edition**: black with "NEW YORK" in orange, orange numbers trimmed in blue, the Jordan Jumpman on the chest and orange and blue stripes down the side. ESPN's game video shows it in Boston on October 23 (a 107-103 loss to the Celtics, who wore green) and at the Garden on October 25 (a 111-102 loss to the Magic, who wore white). The Strickland, a Knicks account on X, posted a photo and said that the Knicks are wearing it for a **third straight game** tonight, October 27, against the Pistons at MSG:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TheStrickland/status/2115100638782927202"></a></blockquote>
+</div>
+
 ## Frequently Asked Questions
 
 **What did the Knicks wear for ring night?**
@@ -140,7 +163,27 @@ Three: 1970, 1973 and 2026.
 
 **Can you buy the Knicks gold championship jersey?**
 
-The gold ring night jersey was a game uniform for the ceremony. For fans, the Knicks and Fanatics have released 2026 championship shirts and hats, which we graded in our [Knicks 2026 NBA champions hat and shirt review](/stories/knicks-2026-nba-champions-hat-shirt-graded).
+Not the ring night version. As of October 27, 2026, the gold-trimmed white the Knicks wore on October 20 has not been released for sale. The closest thing was a Fanatics "Gold Standard" Jalen Brunson Authentic jersey in June, limited to 36 numbered pieces at $750 and sold by raffle. Fans can still buy 2026 Finals patch jerseys and championship shirts and hats, which we graded in our [Knicks 2026 NBA champions hat and shirt review](/stories/knicks-2026-nba-champions-hat-shirt-graded).
+
+**What does the Knicks gold championship jersey look like?**
+
+It is the Knicks' white Association jersey with the trim switched to metallic gold: a gold "NEW YORK" wordmark outlined in blue and gray, gold names and numbers, a gold 2025-26 Champions patch on the back above the name, and a small gold "3" tag at the back of the collar. The collar keeps its blue and orange stripes.
+
+**When did the Knicks wear the gold jersey?**
+
+Once so far: Tuesday, October 20, 2026, ring night at Madison Square Garden against the 76ers. They wore it for the whole game, a 106-100 loss.
+
+**Will the Knicks wear the gold jersey again?**
+
+The Knicks have not announced another gold game. Their 2026-27 jersey schedule lists only the regular Association, Icon, Statement, City and Specter editions for the rest of the season. We will update this post if that changes.
+
+**Is the Knicks gold jersey the same as the Brunson Gold Standard jersey?**
+
+No. The Gold Standard jersey Fanatics sold in June was a limited Brunson Authentic Icon release of 36 pieces. The ring night jersey is the team's game uniform, a gold-trimmed version of the white Association.
+
+**Why are the Knicks wearing black jerseys?**
+
+The black jersey is the Knicks' Statement Edition, their alternate. They wore it at Boston on October 23 and at home against Orlando on October 25, and they are wearing it for a third straight game on October 27 against the Pistons. The Statement Edition is scheduled for 14 Knicks games this season.
 
 ## The Bottom Line
 

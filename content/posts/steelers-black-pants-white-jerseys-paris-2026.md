@@ -1,10 +1,10 @@
 ---
-title: "Steelers Wear Black Pants With White Jerseys in Paris, a New Uniform Combination for Pittsburgh"
+title: "Steelers Beat Saints 16-10 in Paris in Black Pants and White Jerseys: Pittsburgh's New Uniform Combination, Recapped"
 author: "jake-daneshgar"
 category: NFL
 date: "2026-10-24"
-updatedDate: "2026-10-25"
-excerpt: "For the first NFL game in France, the Steelers swap their usual gold pants for black: black helmet, white jersey, black pants and black socks against the Saints at the Stade de France. Here is the look, where the pants come from, and how rare it is."
+updatedDate: "2026-10-27"
+excerpt: "Steelers 16, Saints 10 at the Stade de France: Pittsburgh won the first NFL game in France in a new combination, black helmet, white jersey and black pants with a gold stripe, while New Orleans wore black over gold. What both teams wore, how the game went, where the black pants come from and how rare the look is."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-black-pants-white-jerseys-paris-2026/cover.jpg"
 coverImagePosition: "center 20%"
@@ -20,7 +20,7 @@ league: nfl
 teams: ["pittsburgh-steelers", "new-orleans-saints"]
 ---
 
-The Steelers are changing their pants for Paris. Against the New Orleans Saints at the Stade de France on **Sunday, October 25** (9:30 a.m. ET, NFL Network), Pittsburgh wears the **black helmet, white jersey and black pants**, with **black socks** in the team's photos. The team posted the look on Saturday morning with two words: "Tomorrow's kit."
+**Final: Steelers 16, Saints 10.** Pittsburgh changed its pants for Paris and won. Against the New Orleans Saints at the Stade de France on **Sunday, October 25** (Week 7), the Steelers wore the **black helmet, white jersey and black pants** with a gold stripe, plus black socks, in front of 78,488 fans in the NFL's first regular-season game in France. The Saints, the designated home team, wore **black jerseys, gold helmets and gold pants**. The team posted the Pittsburgh look the morning before with two words: "Tomorrow's kit."
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2113990882210824620"></a></blockquote>
@@ -34,7 +34,17 @@ Steelers.com calls it ["a new combination"](https://www.steelers.com/news/steele
 
 ## How It Looked in Paris
 
-It looked sharp, and it came with a win. The Steelers beat the Saints **16-10** at the Stade de France on Sunday, October 25, in the black helmet, white jersey, **black pants** with the gold stripe and black socks, exactly the kit the team posted on Saturday. New Orleans wore its black home jersey with the gold helmet and **gold pants**, so the field read black and gold on one side and white and black on the other.
+It looked sharp, and it came with a win. The Steelers beat the Saints **16-10** at the Stade de France on Sunday, October 25, in the black helmet, white jersey, **black pants** with the gold stripe and black socks, exactly the kit the team posted on Saturday. ESPN's game photos show Aaron Rodgers in it on his late scramble: white No. 8 with the black and gold sleeve stripes, black pants with the gold stripe down the leg. New Orleans wore its black home jersey with gold numbers, the gold helmet and **gold pants**, so the field read black and gold on one side and white and black on the other.
+
+### Steelers vs Saints in Paris: What Happened
+
+- **Final score:** Steelers 16, Saints 10. Pittsburgh is 5-2 with three straight wins; New Orleans fell to 2-5.
+- **The touchdown:** Rodgers hit tight end **Darnell Washington** from 4 yards out for a 10-3 lead, set up by a 51-yard catch by DK Metcalf. It was Rodgers' 540th career touchdown pass, moving him past Peyton Manning for third in NFL history. Washington is the same player who told the team site the black-pants look was "unique for us to wear."
+- **The turning point:** linebacker Payton Wilson intercepted Tyler Shough in the red zone early in the third quarter, and Chris Boswell's 39-yard field goal made it 16-10. Boswell kicked three field goals in all.
+- **The numbers:** Jaylen Warren ran for 101 yards on 18 carries. Rodgers went 19 of 30 for 212 yards. The Saints ran for just 18 yards.
+- **Attendance:** 78,488 at the Stade de France.
+
+Scoring and stats are from ESPN's game recap.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2114402540418703835"></a></blockquote>
@@ -89,9 +99,21 @@ Also this week: [the Browns' brown-pants look](/stories/browns-brown-pants-white
 
 ## Frequently Asked Questions
 
-**What are the Steelers wearing in Paris?**
+**What did the Steelers wear in Paris?**
 
-The black helmet, white jersey, black pants and black socks, against the Saints at the Stade de France on Sunday, October 25. New Orleans is the designated home team, so Pittsburgh is in white.
+The black helmet, white jersey, black pants with a gold stripe and black socks, against the Saints at the Stade de France on Sunday, October 25, 2026. New Orleans was the designated home team, so Pittsburgh wore white.
+
+**Who won the Steelers vs Saints game in Paris?**
+
+The Steelers won 16-10. Aaron Rodgers threw a 4-yard touchdown pass to Darnell Washington, Chris Boswell kicked three field goals and Payton Wilson intercepted Tyler Shough in the red zone in the third quarter.
+
+**When was the Steelers vs Saints Paris game?**
+
+Sunday, October 25, 2026, in Week 7, at the Stade de France in Saint-Denis, just outside Paris. It was the NFL's first regular-season game in France, and the attendance was 78,488.
+
+**Why did the Steelers wear white in Paris?**
+
+The Saints were the designated home team, so they wore their black home jerseys and Pittsburgh wore its white road jerseys.
 
 **Have the Steelers ever worn black pants with white jerseys before?**
 
@@ -105,11 +127,11 @@ They are the black Color Rush pants, black with a gold stripe, first worn with t
 
 Gold. The white road jersey normally goes with gold pants and the black helmet, as it did at Cleveland in Week 4 this season.
 
-**Are the Steelers wearing a special patch in Paris?**
+**Did the Steelers wear a special patch in Paris?**
 
 The team's photos show a shield-shaped NFL Paris patch on the chest of the white jersey, opposite the Steelers logo.
 
-**What are the Saints wearing against the Steelers?**
+**What did the Saints wear against the Steelers in Paris?**
 
 The black home jersey with the gold helmet, which New Orleans published on September 7, with gold pants. Pittsburgh won 16-10.
 
@@ -119,4 +141,4 @@ We have the full all-black Color Rush for Week 13, Sunday night against Houston 
 
 ## The Bottom Line
 
-For the first NFL game in France, the most conservative wardrobe in the league tries something it calls new: white over black. Every other Week 7 look is in our [NFL Week 7 uniforms guide](/stories/nfl-week-7-uniforms-2026), and we will log what Pittsburgh actually wears in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) after kickoff.
+For the first NFL game in France, the most conservative wardrobe in the league tried something it called new, white over black, and went home 16-10 winners. Every other Week 7 look is in our [NFL Week 7 uniforms guide](/stories/nfl-week-7-uniforms-2026) and the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
