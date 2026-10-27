@@ -91,7 +91,7 @@ The slot itself is well chosen. Rivalries uniforms are meant to be worn against 
 
 The NFC North produces two separate Rivalries games this year between the same two teams, and neither club wears its set in the other's game.
 
-Detroit debuts at Ford Field in Week 8 on November 1. Minnesota debuts its own set at home against the Lions in **Week 15 on December 20**. So the Lions are in white at U.S. Bank Stadium in December while the Vikings unveil theirs, and the Vikings are in white at Ford Field in November while Detroit unveils. Each club gets its own home moment, which is the sensible way to split it, and it makes Lions-Vikings worth watching twice for reasons unrelated to the standings. Our [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026) has the other half.
+Detroit debuts at Ford Field in Week 8 on November 1. Minnesota debuts its own set at home against the Lions in **Week 15 on December 20**. So the Lions are in white at U.S. Bank Stadium in December while the Vikings unveil theirs, and the Vikings are expected in purple at Ford Field in November, against Detroit's silver, while the Lions unveil. Each club gets its own home moment, which is the sensible way to split it, and it makes Lions-Vikings worth watching twice for reasons unrelated to the standings. Our [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026) has the other half.
 
 The same thing is happening one rivalry over. Chicago debuts its Rivalries set against Green Bay on Christmas Day, and Green Bay debuts against Chicago back in Week 5. All four NFC North clubs are in this year's class.
 
