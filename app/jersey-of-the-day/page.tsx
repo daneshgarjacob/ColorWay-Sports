@@ -66,8 +66,19 @@ export default async function JerseyOfTheDayPage() {
           "@type": "ImageObject",
           contentUrl: `${SITE}${entry.image}`,
           caption: entry.imageAlt,
-          creditText: entry.credit.text,
-          ...(entry.credit.licenseUrl ? { license: entry.credit.licenseUrl } : {}),
+          // Google's Image Metadata report wants creator, copyrightNotice,
+          // license and acquireLicensePage together once any credit field is
+          // present. Only openly licensed photos (Commons etc.) have all four;
+          // product shots get no credit fields so they don't trip the report.
+          ...(entry.credit.licenseUrl
+            ? {
+                creditText: entry.credit.text,
+                creator: { "@type": "Person", name: entry.credit.text },
+                copyrightNotice: entry.credit.text,
+                license: entry.credit.licenseUrl,
+                ...(entry.credit.url ? { acquireLicensePage: entry.credit.url } : {}),
+              }
+            : {}),
         },
         about: { "@type": "SportsTeam", name: entry.team },
       },
