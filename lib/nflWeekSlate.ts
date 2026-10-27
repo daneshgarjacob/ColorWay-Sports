@@ -14,6 +14,23 @@
 import { buildNflTeamIndex, type NflGame, type NflTeamEntry } from "./nflTrackerTeamIndex";
 import { nflCurrentWeek, type WearAnswer } from "./teamWearAnswers";
 import { findTrackerCard, type TrackerCard } from "./nflTrackerCards";
+import kickoffs from "@/content/data/nfl-kickoffs-2026.json";
+
+// ESPN kickoff times (content/data/nfl-kickoffs-2026.json) give every game its
+// real day when neither team's schedule post states one, so the board never
+// falls back to the "Thu – Mon" week window for an ordinary Sunday game.
+function kickoffDay(week: number, home: string): string | undefined {
+  const k = (kickoffs as { games: { week: number; home: string; kickoff: string }[] }).games.find(
+    (g) => g.week === week && g.home === home,
+  );
+  if (!k) return undefined;
+  return new Date(k.kickoff).toLocaleDateString("en-US", {
+    timeZone: "America/New_York",
+    weekday: "long",
+    month: "long",
+    day: "numeric",
+  });
+}
 
 /**
  * How much of a side's uniform is known, and in what colours.
@@ -126,7 +143,7 @@ export function buildNflWeekSlate(now: Date): NflWeekSlate | null {
       away: awayTeam && awayGame ? side(awayTeam, awayGame, card, 0) : null,
       awayName: awayTeam?.nickname ?? oppName,
       home: side(team, game, card, 1),
-      when: game.date ?? awayGame?.date ?? card?.day ?? game.window,
+      when: game.date ?? awayGame?.date ?? kickoffDay(week, team.nickname) ?? card?.day ?? game.window,
       label: card?.label ?? "",
       score: card?.score,
       order: card?.order ?? Number.MAX_SAFE_INTEGER,

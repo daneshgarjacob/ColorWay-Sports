@@ -99,6 +99,12 @@ Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and wi
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The 2026 Space Game uniform reveal, via @UCF_Football</p>
 
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Football/status/2115194098118189481"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The 2026 SpaceU helmet, revealed October 27, via @UCF_Football</p>
+
 **November 7 at Kansas.** White expected. Kansas wears blue at home, so the Knights go white in Lawrence. More: [Kansas schedule](/stories/kansas-uniform-schedule-2026).
 
 **November 14 vs. Arizona State.** Black expected, with Arizona State in white. More: [Arizona State schedule](/stories/arizona-state-uniform-schedule-2026).
