@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 BYU wears royal blue at home and white on the road, but the Cougars almost never wear the same full combination twice in a season. They pick a new pairing of helmet, jersey and pants every week and reveal it on the Monday of game week. This is the full BYU 2026 uniform schedule: the royal home set, the white road set, the navy accents, both helmets, and all twelve games week by week. BYU is 6-1, and the Arizona State look is already announced. We update this page every Monday when BYU reveals the next one.
 
-**Update, October 26:** BYU announced an **all-navy** uniform for Game 8 against Arizona State on Halloween: a **navy helmet, navy jersey and navy pants**.
+**Update, October 26:** BYU announced an **all-navy** uniform for Game 8 against Arizona State on Halloween: a **navy helmet, navy jersey and navy pants**. [Every detail of the all-navy look →](/stories/byu-all-navy-uniforms-arizona-state-2026)
 
 **October 24:** BYU wore its road whites at UCF, a **royal blue helmet, white jersey and white pants**, confirmed from the team's game photos, and lost **39-31 in double overtime**, its first loss of the season.
 

@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Syracuse used to be one of the most unpredictable dressers in the ACC. Under Fran Brown it is one of the most disciplined: navy jerseys at home, white jerseys on the road, orange helmets and orange pants almost every time. That makes the Syracuse uniform schedule easy to read, as long as you know the rule and the one thing that could break it. This is the full Syracuse 2026 uniform schedule: the navy home set, the white road set, the alternates still sitting in the closet, and a week-by-week outlook for all twelve games in Brown's third season. We update this page as each combination is confirmed.
 
-**Update, October 26:** Syracuse will wear a **white helmet featuring Otto the Orange** against SMU on Halloween, the first time ever the team has put Otto on its helmets. Only the helmet has been shown.
+**Update, October 26:** Syracuse will wear a **white helmet featuring Otto the Orange** against SMU on Halloween, the first time ever the team has put Otto on its helmets. Only the helmet has been shown. [Every detail of the Otto helmet →](/stories/syracuse-otto-helmet-halloween-smu-2026)
 
 **October 24:** Syracuse wore the **orange helmet, white jersey and orange pants** at North Carolina, confirmed from the team's game photos, and won **31-30 in overtime**.
 
