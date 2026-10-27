@@ -1,10 +1,10 @@
 ---
-title: "2026 NHL Heritage Classic Jerseys: Jets and Canadiens Uniforms Revealed and Graded"
+title: "2026 NHL Heritage Classic Jerseys: How the Jets and Canadiens Looked Outdoors, Plus Our Grades"
 author: "jake-daneshgar"
 category: "NHL"
 date: "2026-10-07"
-updatedDate: "2026-10-22"
-excerpt: "The Jets go white with a 1980s throwback and the Canadiens wear Les Habitants for the first time. Our grades for both Heritage Classic jerseys."
+updatedDate: "2026-10-26"
+excerpt: "The Canadiens beat the Jets 2-1 outdoors in Winnipeg. See how the Jets white throwback and the Canadiens Les Habitants sweater looked in the game, plus our grades for both Heritage Classic jerseys."
 gradient: "linear-gradient(135deg, #041E42 0%, #AF1E2D 100%)"
 coverImage: "/images/posts/2026-nhl-heritage-classic-jerseys/cover.jpg"
 coverImagePosition: "center center"
@@ -24,6 +24,36 @@ teams: ["winnipeg-jets", "montreal-canadiens"]
 Both were designed by Fanatics with the NHL and the two clubs. They get one game: the Tim Hortons NHL Heritage Classic, Montreal at Winnipeg, on Sunday, October 25, 2026, at 7 p.m. ET at Princess Auto Stadium. So it is white against red, outdoors, in late October in Manitoba.
 
 Here is what each team is wearing, and how we grade them.
+
+## How the Heritage Classic Jerseys Looked Outdoors
+
+**Update, October 26:** Both sweaters got their one night, and they looked even better outside than they did in the reveal photos. The Canadiens won 2-1 at Princess Auto Stadium. Under the lights the matchup was exactly what we hoped for: clean white against deep red, with the timber walls and the fireplace glowing on the field behind the glass.
+
+The Jets' white is the one that popped on camera. The vintage roundel reads from the upper deck, and the red pants with the navy, red and white striped socks make the full uniform look like a 1985 hockey card. Here are the Jets in warmups and on the ice:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLJets/status/2114490883819090391"></a></blockquote>
+</div>
+
+Montreal's red held up just as well. The single blue band is the first thing you see from a distance, and the off-white trim kept it looking old rather than shiny. The Canadiens' photos from the win:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2114790591607214364"></a></blockquote>
+</div>
+
+The best shot of the night is the one with both teams in it. White and red in the handshake line, outdoors, is the whole point of the Heritage Classic:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2114542705321689238"></a></blockquote>
+</div>
+
+And here is the full scene from above, with the cabin-theme field, the giant maple leaf on the ice and the fireworks:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLJets/status/2114506586152653047"></a></blockquote>
+</div>
+
+**Our call after seeing them in the game:** we are keeping the grades, Canadiens A and Jets A-. On TV the Jets' white was the bigger visual moment. But Montreal's sweater still looked like the Canadiens from every angle, and that is still the harder thing to do.
 
 **Update, October 22:** The rink is built. The Jets posted the first photos of the finished Heritage Classic sheet at Princess Auto Stadium, and it looks like the renderings: the Heritage Classic logo at center ice, oversized Jets and Canadiens crests on the field and timber-look walls around the boards. We added the NHL's official renderings and build photos, the full pregame plan from the NHL (Byfuglien, Ladd and Wheeler drop the puck, SoulBear sings the anthem, and a second-intermission tribute marks 15 years of the Jets), the alumni game details for Saturday, October 24, and a closer look at the French-language event patch on Montreal's sleeve.
 
