@@ -3,7 +3,7 @@ title: "Iowa State Uniform Schedule 2026: Every Jersey and When the Cyclones Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-10-27"
 excerpt: "Iowa State uniform schedule 2026: every Cyclones jersey by week, the cardinal home uniform, the all-white road look worn at Iowa, and what ISU wears next."
 gradient: "linear-gradient(135deg, #C8102E 0%, #9e0b23 55%, #F1BE48 130%)"
 cardStyle: words
@@ -39,7 +39,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 9 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / Cardinal</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / Cardinal</div></div>
-  <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
+  <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Blackout</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -68,7 +68,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 **October 24 at Arizona.** White expected. Iowa State's second trip west this month, to Casino Del Sol Stadium in Tucson. **Worn: cardinal helmet, white jersey and cardinal pants**, confirmed from the team's game photos. Arizona wore a white helmet, navy jersey and white pants for Homecoming. **Final: Arizona 39, Iowa State 3.**
 
-**October 31 vs. Oklahoma State.** Cardinal expected. A Halloween game in Ames, with Oklahoma State expected in white.
+**October 31 vs. Oklahoma State.** Confirmed: blackout. Iowa State posted "halloween threads" on October 27: a black helmet with a white center stripe and a white Cynado logo, a black jersey and black pants, the first time Iowa State has gone black this season. Oklahoma State is expected in white. Full Halloween weekend rundown: [college football Week 9 uniforms](/stories/college-football-week-9-uniforms-2026).
 
 **November 7 at Baylor.** White expected. It is Baylor's homecoming at McLane Stadium, which usually means a green-heavy look from the Bears.
 
@@ -86,7 +86,7 @@ Through the first three games, Iowa State wore a cardinal helmet every week and 
 
 **What jersey is Iowa State wearing this week?**
 
-Iowa State wore the cardinal helmet, white jersey and cardinal pants at Arizona on Saturday, October 24, confirmed from the team's game photos, and lost 39-3. Next is Oklahoma State at home on Halloween, October 31, where cardinal is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Iowa State wore the cardinal helmet, white jersey and cardinal pants at Arizona on Saturday, October 24, confirmed from the team's game photos, and lost 39-3. Next is Oklahoma State at home on Halloween, October 31, in the confirmed blackout with the Cynado helmet. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Iowa State's football uniforms for 2026?**
 

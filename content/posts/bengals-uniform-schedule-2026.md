@@ -3,7 +3,7 @@ topViewsRank: 2
 title: "Bengals Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-26"
+updatedDate: "2026-10-27"
 excerpt: "Every Bengals jersey for 2026, week by week. The all-white White Bengal comes out at home in Week 10 vs. Pittsburgh on SNF, and New Year's Eve is White Bengal Stripe night."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"
@@ -89,7 +89,7 @@ Worth being precise here, because the naming invites confusion. White Bengal Str
 
 ## Black at Home (The Base Set, Expected)
 
-The black home jersey is confirmed for the Jaguars in Week 4, with black pants under the orange helmet, and projects to the other home dates not claimed by another uniform: the Titans in Week 8, the Saints in Week 12, and the Browns in Week 18.
+The black home jersey is confirmed for the Jaguars in Week 4, with black pants under the orange helmet, and projects to the other home dates not claimed by another uniform: the Titans in Week 8, the Saints in Week 12, and the Browns in Week 18. **Week 8 against the Titans on November 1 is now confirmed: orange helmet, black jersey and white pants**, a different bottom half from the all-black-below-the-helmet look in Week 4.
 
 Black with orange tiger stripes is the look the franchise is known for, and the 2021 redesign left it alone in the ways that mattered. The home dates it gives up are the White Bengal in Week 10, the white New Year's Eve game in Week 17, and Week 14, because the orange jersey is not just an opener. We have Cincinnati in orange twice more: on the road at Miami in Week 5, now confirmed as orange helmet, orange jersey and white pants with the Dolphins all white at home, and at Paycor Stadium against Kansas City in Week 14. The Chiefs game is also Stripe The Jungle, the crowd effect, and our [Chiefs 2026 schedule](/stories/chiefs-uniform-schedule-2026) has Kansas City in their white road set for that trip, so it is orange against white on both of those dates.
 

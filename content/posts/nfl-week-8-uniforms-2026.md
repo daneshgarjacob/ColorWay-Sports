@@ -132,7 +132,7 @@ The teal helmet is the best piece of the set, and the cream against royal blue s
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/titans-white-road.jpg" alt="Tennessee Titans white road jersey, expected at Cincinnati in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Titans · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bengals-black-home.jpg" alt="Cincinnati Bengals black home jersey, expected against the Titans in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bengals · Expected</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Expected on both sides.** We expect Cincinnati in its **black** home jersey under the striped orange helmet and Tennessee in **white**. Our matchup grade: **B-**. See the [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026) and the [Titans 2026 uniform schedule](/stories/titans-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, CBS. Bengals confirmed, Titans expected.** Cincinnati is confirmed in its **black** home jersey under the striped orange helmet, with **white pants**, not the black pants it wore with this jersey against Jacksonville in Week 4. We expect Tennessee in **white**. Our matchup grade: **B-**. See the [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026) and the [Titans 2026 uniform schedule](/stories/titans-uniform-schedule-2026).
 
 ## Every Week 8 Game
 
@@ -143,7 +143,7 @@ The teal helmet is the best piece of the set, and the cream against royal blue s
 ### Sunday, November 1
 
 - **Baltimore Ravens at Buffalo Bills**, 1:00 p.m. ET, CBS. Ravens: white (expected). Bills: white helmet, royal blue jersey for Native American Heritage (confirmed). Matchup grade: B.
-- **Tennessee Titans at Cincinnati Bengals**, 1:00 p.m. ET, CBS. Titans: white (expected). Bengals: striped orange helmet, black jersey (expected). Matchup grade: B-.
+- **Tennessee Titans at Cincinnati Bengals**, 1:00 p.m. ET, CBS. Titans: white (expected). Bengals: striped orange helmet, black jersey, white pants (confirmed). Matchup grade: B-.
 - **Arizona Cardinals at Dallas Cowboys**, 1:00 p.m. ET, FOX. Cardinals: white helmet, cardinal red jersey (scheduled). Cowboys: silver helmet, white jersey (scheduled). Matchup grade: B+.
 - **Minnesota Vikings at Detroit Lions**, 1:00 p.m. ET, FOX. Vikings: purple (expected). Lions: Rivalries debut, electric blue helmet, silver jersey (confirmed). Matchup grade: B+.
 - **Las Vegas Raiders at New York Jets**, 1:00 p.m. ET, FOX. Raiders: silver helmet, white jersey (expected). Jets: green (expected). Matchup grade: B.

@@ -28,9 +28,9 @@ Below is every Halloween uniform announced so far, then every game this week inv
 - **Nebraska: black alternate debut (Confirmed).** Black helmet with a metallic red Huskers script and a red crop-row stripe, black jersey, black pants, vs. Washington.
 - **Syracuse: first-ever Otto helmet (Confirmed).** White helmet with a cartoon Otto decal and a navy and orange stripe, vs. No. 19 SMU.
 - **BYU: all navy (Confirmed).** Navy helmet, navy jersey, navy pants, vs. Arizona State.
-- **UCF: Space Game, Mission X (Confirmed).** White helmet with a red stripe and a chrome gold facemask, white jersey, white pants, Friday vs. Baylor.
+- **UCF: Space Game, Mission X (Confirmed).** White helmet with a red stripe, a flag-filled UCF logo and a chrome gold facemask and visor, white jersey, white pants, Friday vs. Baylor. The full helmet was shown Tuesday.
 - **Navy: 1926 centennial throwback (Confirmed).** Gold helmet, navy jersey with nine gold chevron stripes, gold pants, vs. No. 5 Notre Dame.
-- **Iowa State: "halloween threads" (Confirmed).** Black helmet, black jersey, posted as three black circles, vs. No. 24 Oklahoma State.
+- **Iowa State: "halloween threads" (Confirmed).** Black helmet with a white Cynado logo, black jersey, black pants, vs. No. 24 Oklahoma State.
 - **UNLV: "Black is back" (Confirmed).** Red helmet, black jersey with REBELS across the chest, vs. Northern Illinois.
 - **East Carolina: marching PeeDee helmet (Confirmed).** White helmet with PeeDee the Pirate marching on the side, vs. Temple.
 - **Louisville: For The Ville debut (Announced in August).** Black jersey and pants built on Muhammad Ali's boxing gear, vs. Stanford.
@@ -80,6 +80,12 @@ Syracuse has only shown the helmet. It wore the navy jersey and orange pants in 
 
 The reveal photo shows a **white helmet with a red center stripe and a chrome gold facemask**, a **white jersey** with navy numbers trimmed in light blue and a light blue V at the collar, and **white pants**. It is a long way from last year's HyperSpace set and its carbon fiber helmet. UCF comes in off what it called the highest ranked win in program history, 39-31 in double overtime over a BYU team that was No. 2.
 
+**New Tuesday: the full SpaceU helmet.** UCF posted "The 2026 SpaceU helmet" on October 27, and the 360-degree video shows details the September reveal did not. The UCF logo on the side is filled with an American flag, stars on top and stripes below, outlined in black. The chrome gold facemask carries a matching gold visor, the front bumper reads SPACEU, and the back bumper reads Walt Disney World, above a "26" with a flag decal and a cartoon astronaut. It is the most detailed helmet UCF has made for the Space Game, and it is the one piece of this set worth seeing up close.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Football/status/2115194098118189481"></a></blockquote>
+</div>
+
 **Baylor: Expected, white.** Baylor had not posted as of Tuesday. More: [UCF schedule](/stories/ucf-uniform-schedule-2026) and [Baylor schedule](/stories/baylor-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
@@ -102,7 +108,7 @@ The reveal photo shows a **white helmet with a red center stripe and a chrome go
 
 ### No. 24 Oklahoma State at Iowa State: Halloween Threads
 
-**Saturday, 7 p.m. (6 p.m. Central), FS1.** **Iowa State: Confirmed, blacked out.** Iowa State posted "halloween threads" with three black circles on Tuesday, and the video shows a black helmet with a white center stripe and a black jersey with IOWA STATE across the chest in white, white numbers and white stripes on the shoulders. The three black circles are the team's shorthand for helmet, jersey and pants, so expect black pants too. Iowa State is coming off a 39-3 loss at Arizona.
+**Saturday, 7 p.m. (6 p.m. Central), FS1.** **Iowa State: Confirmed, blacked out.** Iowa State posted "halloween threads" with three black circles on Tuesday, and the video shows a black helmet with a white center stripe and a big white **Cynado** on the side, the logo of Cy the Cardinal riding a tornado, in place of the usual script. The jersey is black with IOWA STATE across the chest in white, white numbers and white stripes on the shoulders, and the full-length shots show **black pants**, so it is black from top to bottom: the three black circles. The video opens with a player tossing away the cardinal jersey and helmet, which is the point. Former Cyclone tight end Jake Ferguson summed it up: blackout uniforms, Cynado on the helmet. Iowa State is coming off a 39-3 loss at Arizona.
 
 **Oklahoma State: Expected, white.** More: [Iowa State schedule](/stories/iowa-state-uniform-schedule-2026) and [Oklahoma State schedule](/stories/oklahoma-state-uniform-schedule-2026).
 
@@ -155,7 +161,7 @@ The reveal photo shows a **white helmet with a red center stripe and a chrome go
 - **Utah State** is calling its game against Colorado State a Black Out and dropped black merch for fans. The team has not shown a uniform.
 - **Air Force** is calling for a blackout against UConn and posted that "the Space Force look is set," with a Space Force merch relaunch. It has not shown a game uniform.
 - **Boise State** calls its night game against Texas State "The Blue After Dark," with a T-shirt giveaway, a trunk-or-treat tailgate and costumes encouraged. That is a fan theme, not a uniform.
-- **Indiana** has Homecoming against Minnesota, and ESPN's College GameDay is coming to Bloomington.
+- **Indiana** has Homecoming against Minnesota, and ESPN's College GameDay is coming to Bloomington. Indiana posted "It's Homecoming week in Bloomington" on Tuesday with a game-week graphic, but no uniform yet. Indiana usually shows its combination later in the week.
 - **Duke** is promoting a costume contest at Wallace Wade Stadium against Boston College.
 - **Homecoming watch:** Indiana, Iowa, Arkansas and NC State all have Homecoming on Halloween.
 
@@ -308,7 +314,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **No. 24 [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026) at [Iowa State](/stories/iowa-state-uniform-schedule-2026)**, 7 p.m., FS1.
 - Oklahoma State: **Expected**, white.
-- Iowa State: **Confirmed**, black helmet and black jersey, "halloween threads." See above.
+- Iowa State: **Confirmed**, black helmet with the white Cynado logo, black jersey, black pants, "halloween threads." See above.
 
 **[Clemson](/stories/clemson-uniform-schedule-2026) at [Florida State](/stories/florida-state-uniform-schedule-2026)**, 7 p.m., ACC Network.
 - Clemson: **Expected**, white.
@@ -387,7 +393,7 @@ All navy: a navy helmet with a navy and white stripe and the white oval Y, a nav
 
 **When is the UCF Space Game in 2026, and what is UCF wearing?**
 
-Friday, October 30, at 7:30 p.m. Eastern on ESPN, against Baylor. It is the tenth Space Game. UCF's 2026 set, Mission X, has a white helmet with a red stripe and a chrome gold facemask, a white jersey with navy numbers and a light blue collar, and white pants.
+Friday, October 30, at 7:30 p.m. Eastern on ESPN, against Baylor. It is the tenth Space Game. UCF's 2026 set, Mission X, has a white helmet with a red stripe, a flag-filled UCF logo and a chrome gold facemask and visor, a white jersey with navy numbers and a light blue collar, and white pants.
 
 **What is Navy wearing against Notre Dame?**
 
@@ -395,7 +401,7 @@ The 1926 centennial uniform: a navy jersey with nine gold chevron stripes, one f
 
 **Is Iowa State wearing black on Halloween?**
 
-Yes. Iowa State posted "halloween threads" with three black circles for its game against Oklahoma State, and the video shows a black helmet with a white stripe and a black jersey with IOWA STATE in white.
+Yes. Iowa State posted "halloween threads" with three black circles for its game against Oklahoma State, and the video shows a black helmet with a white stripe and the white Cynado logo, a black jersey with IOWA STATE in white, and black pants.
 
 **What is UNLV wearing against Northern Illinois?**
 
