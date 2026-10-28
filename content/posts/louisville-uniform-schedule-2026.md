@@ -3,7 +3,7 @@ title: "Louisville Uniform Schedule 2026: Every Jersey and When the Cardinals We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-16"
+updatedDate: "2026-10-27"
 excerpt: "Louisville's 2026 uniform schedule: red home jerseys, white road uniforms, the Salute to Service helmet, and the black For The Ville alternate for Stanford."
 gradient: "linear-gradient(135deg, #AD0000 0%, #7a0000 55%, #000000 130%)"
 cardStyle: words
@@ -20,7 +20,7 @@ Louisville wears a red jersey at home, white on the road, and has one announced 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: #AD0000; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Red Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Red jersey with LOUISVILLE arched across the chest in white, white numerals outlined in black, and a wide white shoulder stripe edged in thin red and black bands. White pants.</div></div>
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with the arched wordmark and numerals in red outlined in black, a red shoulder stripe trimmed in black, and white pants with a red side stripe and the Cardinal head on the hip.</div></div>
-  <div style="background: #000000; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">For The Ville Alternate</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">All black, built on Muhammad Ali's Everlast gloves and trunks: an oversized white LOUISVILLE in a vintage block font, three gold stripes on the collar and pants, gold circles on the hips, red gloves. Debuts October 31.</div></div>
+  <div style="background: #000000; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">For The Ville Alternate</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">All black, built on Muhammad Ali's Everlast gloves and trunks: an oversized white LOUISVILLE in a vintage block font, three gold stripes on the collar and pants, gold circles on the hips. The reveal photos posed players in black boxing gloves. Debuts October 31.</div></div>
   <div style="background: #1a1a1a; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White shell with the red Cardinal head and a red facemask, worn in Nashville. A Salute to Service version swaps in a Cards script and center stripe filled with the American flag.</div></div>
 </div>
 
@@ -68,7 +68,7 @@ The Wolfpack side is on the [NC State 2026 uniform schedule](/stories/nc-state-u
 
 **October 24.** Bye.
 
-**October 31 vs. Stanford.** For The Ville expected. This is the one special date the program has announced: Louisville Football said the uniform "will make its on-field debut Oct. 31 against Stanford." Black jersey and pants, the oversized white wordmark, gold stripes and gold hip circles, and red gloves that are meant to read as boxing gloves.
+**October 31 vs. Stanford.** For The Ville expected. This is the one special date the program has announced: Louisville Football said the uniform "will make its on-field debut Oct. 31 against Stanford." Black jersey and pants, the oversized white wordmark, gold stripes and gold hip circles. In the team's reveal photos the players wear black boxing gloves with gray trim.
 
 **November 7 at Georgia Tech.** White expected. Georgia Tech hosts in gold at Bobby Dodd Stadium, per the [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026).
 
@@ -94,7 +94,7 @@ A red home jersey with a white arched LOUISVILLE and black-outlined numerals, a 
 
 **Does Louisville have a new alternate uniform in 2026?**
 
-Yes. The For The Ville uniform, revealed in August, is all black with an oversized white wordmark in the style of Muhammad Ali's Everlast boxing gear, three gold stripes on the collar and pants, gold circles on the hips, and red gloves. It debuts October 31 against Stanford at L&N Federal Credit Union Stadium.
+Yes. The For The Ville uniform, revealed in August, is all black with an oversized white wordmark in the style of Muhammad Ali's Everlast boxing gear, three gold stripes on the collar and pants, gold circles on the hips. The reveal photos show players in black boxing gloves. It debuts October 31 against Stanford at L&N Federal Credit Union Stadium.
 
 **What did Louisville wear against Ole Miss?**
 

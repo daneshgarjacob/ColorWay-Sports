@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: MLB
 date: "2026-10-16"
-updatedDate: "2026-10-27"
+updatedDate: "2026-10-28"
 homepageHero: "2026-10-21"
 excerpt: "2026 World Series uniforms for Rays vs. Brewers: what each team will wear in Milwaukee and under the Tropicana Field dome, every playoff jersey and record, the Devil Rays throwback question, the patch and the full schedule."
 gradient: "linear-gradient(135deg, #12284B 0%, #0B1A2F 55%, #FFC52F 140%)"
@@ -28,9 +28,18 @@ What will the teams wear in the 2026 World Series? It is set: the **Tampa Bay Ra
 
 **Why the Rays look like the 1998 Devil Rays this October:** the rainbow TAMPA BAY road gray, the Friday throwback and what is left of the sunburst, in [Are the Rays Becoming the Devil Rays Again?](/stories/rays-devil-rays-comeback-world-series-2026)
 
+## Game 4 Uniforms: Rays Home White vs. Brewers Navy (Confirmed)
+
+Game 4 was Tuesday, October 27, at Tropicana Field, and the Rays stayed alive with a 4-3 walk-off win in 12 innings. Cooper Pratt's solo homer put the Brewers ahead in the top of the 12th, then Jonny DeLuca tied it with an RBI single and Ben Williamson won it with a single to right. The Brewers still lead the Series 3-1. Game 5 is Wednesday night at the Trop.
+
+- **Rays:** the **home white** with the sunburst "Rays" script, not the Devil Rays throwback they wore in Game 3. They are now 3-1 in the home white this October.
+- **Brewers:** the **navy alternate** again, with the yellow-front ball-in-glove cap and the World Series patch. It is their sixth road game of the postseason in it, and they are now 4-2.
+
+Classic home white against navy and gold, with no throwback needed. We grade the matchup an **A-**, the best of the Series so far. Final: Rays 4, Brewers 3 (12 innings).
+
 ## Game 3 Uniforms: Rays Devil Rays Throwback vs. Brewers Navy (Confirmed)
 
-Game 3 was Monday, October 26, at Tropicana Field, and the Brewers won it 10-1 behind an eight-run fifth inning to take a 3-0 Series lead. They can clinch their first World Series title in Game 4 on Tuesday night.
+Game 3 was Monday, October 26, at Tropicana Field, and the Brewers won it 10-1 behind an eight-run fifth inning to take a 3-0 Series lead. 
 
 - **Rays:** the **white Devil Rays throwback**, with purple numbers and a navy cap. It was their first loss in the throwback this October after two wins, including the ALCS Game 6 pennant clincher.
 - **Brewers:** the **navy alternate** with "Milwaukee" in gold script, the two-tone ball-in-glove cap and gray pants, with the World Series patch on the chest. They are now 4-1 in it on the road this postseason.
@@ -67,11 +76,11 @@ Gray against cream with the World Series patch gets a **B+** from us for the mat
 
 ## Quick Answers
 
-- **Games 1 and 2, confirmed:** Rays in the road gray, Brewers in the cream with the World Series patch. The Brewers won both (3-2 and 5-4). **Game 3, confirmed:** Rays in the white Devil Rays throwback, Brewers in the navy alternate; Brewers won 10-1 and lead the Series 3-0.
+- **Games 1 and 2, confirmed:** Rays in the road gray, Brewers in the cream with the World Series patch. The Brewers won both (3-2 and 5-4). **Game 3, confirmed:** Rays in the white Devil Rays throwback, Brewers in the navy alternate; Brewers won 10-1. **Game 4, confirmed:** Rays in the home white, Brewers in the navy alternate; Rays won 4-3 in 12 innings, and Milwaukee leads the Series 3-1.
 - **Brewers at home (Games 1, 2, 6, 7):** the cream, confirmed for Games 1 and 2 and expected after that. They have worn it in all six home playoff games this October and won all six.
-- **Brewers on the road at Tropicana Field (Games 3, 4, 5):** the navy alternate with the yellow-front ball-in-glove cap, expected. Confirmed in Game 3. They have worn it in all five road playoff games and are 4-1 in it.
+- **Brewers on the road at Tropicana Field (Games 3, 4, 5):** the navy alternate with the yellow-front ball-in-glove cap, expected. Confirmed in Games 3 and 4. They have worn it in all six road playoff games and are 4-2 in it.
 - **Rays on the road in Milwaukee (Games 1, 2, 6, 7):** the new gray with "TAMPA BAY" in a gradient script, confirmed for Games 1 and 2 and expected after that. It has been their road jersey in all six road playoff games, and they are 3-3 in it after the two losses in Milwaukee.
-- **Rays at home under the Tropicana Field roof (Games 3, 4, 5):** home white or the Devil Rays throwback, our expectation. They are 2-1 in the home white and 2-0 in the throwback this October.
+- **Rays at home under the Tropicana Field roof (Games 3, 4, 5):** home white in Game 4, the Devil Rays throwback in Game 3, both confirmed. They are 3-1 in the home white and 2-1 in the throwback this October.
 - **The patch:** the 2026 World Series logo goes on the jersey as a small patch high on the chest, and on the side of the cap.
 - **Home field:** Milwaukee, with the best record in baseball at 103-59. The Rays went 98-64.
 
@@ -193,7 +202,7 @@ The Brewers' only other World Series was 1982, as an American League team, and t
 
 ## The Bottom Line
 
-The Brewers have been the most predictable team in October: cream at home, navy on the road, 7-1. The Rays have been nearly as steady on the road, wearing the new "TAMPA BAY" gray in every road game, and have picked between home white and the Devil Rays throwback at the Trop. We expect cream vs. gray in Milwaukee and navy vs. Rays white or the throwback in St. Petersburg, all with the 2026 World Series patch on the chest and cap. The open questions are when the Devil Rays come out and whether Milwaukee's powder blue finally gets a playoff night 44 years after the last one. We log every game, both jerseys, on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
+The Brewers have been the most predictable team in October: cream at home, navy on the road, 10-2 heading into Game 5 with a 3-1 Series lead. The Rays have been nearly as steady on the road, wearing the new "TAMPA BAY" gray in every road game, and have picked between home white and the Devil Rays throwback at the Trop. We expect cream vs. gray in Milwaukee and navy vs. Rays white or the throwback in St. Petersburg, all with the 2026 World Series patch on the chest and cap. The open questions are when the Devil Rays come out and whether Milwaukee's powder blue finally gets a playoff night 44 years after the last one. We log every game, both jerseys, on the [MLB uniform tracker](/stories/mlb-uniform-tracker-2026).
 
 ## Frequently Asked Questions
 
@@ -235,7 +244,7 @@ At least Games 3, 4 and 5 are, because Tropicana Field is a fixed dome. American
 
 **What is the Rays' record in each uniform this postseason?**
 
-3-3 in the new "TAMPA BAY" road gray, 2-1 in the home white and 2-0 in the Devil Rays throwback, for a 7-4 record overall.
+3-3 in the new "TAMPA BAY" road gray, 3-1 in the home white and 2-1 in the Devil Rays throwback, for an 8-5 record overall.
 
 **What did the Rays wear in ALCS Game 6?**
 
