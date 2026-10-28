@@ -2,100 +2,16 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import InlineNewsletter from "@/components/InlineNewsletter";
+import WinterGameCard from "@/components/WinterGameCard";
 import {
   winterTeamByKey,
   winterGamesByMonth,
   winterUniformUsage,
   shortDate,
-  type WinterGame,
 } from "@/lib/winterTrackerIndex";
 
 // Shared body for /nba-tracker/<team> and /nhl-tracker/<team>. The two routes are
 // separate so the URLs read properly; everything below is one implementation.
-
-function GameCard({ game, accent, today, kit }: { game: WinterGame; accent: string; today: string; kit: string }) {
-  const logged = Boolean(game.uniform);
-  // Confirmed games carry the product shot of the jersey/sweater worn.
-  if (logged && game.image) {
-    return (
-      <div
-        className="rounded-xl px-2.5 pt-2.5 pb-3 text-center flex flex-col items-center border-2 bg-white"
-        style={{ borderColor: accent }}
-      >
-        <div className="text-[10px] font-bold tracking-[0.08em] text-[#5b6474]">{shortDate(game.date)}</div>
-        <div className="text-[13px] font-extrabold mt-0.5 leading-tight text-blue-dark">
-          <span className="opacity-60">{game.home ? "vs" : "at"} </span>
-          {game.opponentAbbr || game.opponent}
-        </div>
-        <img
-          src={game.image}
-          alt={`${game.uniform} ${kit} worn ${game.home ? "against" : "at"} the ${game.opponent} on ${shortDate(game.date)}`}
-          loading="lazy"
-          className="h-[70px] w-full object-contain my-1.5"
-        />
-        <div className="text-[10px] font-bold uppercase tracking-[0.04em] leading-tight text-blue-dark">
-          {game.swatch && (
-            <span
-              aria-hidden
-              className="inline-block w-2 h-2 rounded-full mr-1 align-middle border border-black/20"
-              style={{ background: game.swatch }}
-            />
-          )}
-          {game.uniform}
-        </div>
-        {game.scheduled && (
-          <div className="text-[9px] font-bold uppercase tracking-[0.06em] text-[#5b6474] mt-0.5">
-            Changed from {game.scheduled.replace(" Edition", "")}
-          </div>
-        )}
-        <div className="text-[9px] font-extrabold uppercase tracking-[0.12em] text-[#1a8f4c] mt-1">Confirmed</div>
-        {game.result && (
-          <div className="text-[10px] font-extrabold tracking-[0.06em] mt-0.5 text-blue-dark">{game.result}</div>
-        )}
-      </div>
-    );
-  }
-  return (
-    <div
-      className="rounded-xl px-3 py-3 text-center min-h-[96px] flex flex-col justify-center border"
-      style={{
-        background: logged ? accent : "#f7f9fc",
-        color: logged ? "#ffffff" : "#333",
-        borderColor: logged ? accent : "#e3e7ec",
-      }}
-    >
-      <div className="text-[10px] font-bold tracking-[0.08em] opacity-75">
-        {shortDate(game.date)}
-      </div>
-      <div className="text-[13px] font-extrabold my-1 leading-tight">
-        <span className="opacity-70">{game.home ? "vs" : "at"} </span>
-        {game.opponentAbbr || game.opponent}
-      </div>
-      {!logged && game.expectedImage && game.date >= today && (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img
-          src={game.expectedImage}
-          alt={`Expected ${game.expected} ${kit} ${game.home ? "against" : "at"} the ${game.opponent}`}
-          loading="lazy"
-          className="h-[56px] w-full object-contain mb-1 opacity-90"
-        />
-      )}
-      <div className="text-[10px] font-bold uppercase tracking-[0.04em] leading-tight opacity-80">
-        {game.uniform ??
-          (game.expected && game.date >= today ? `Expected: ${game.expected}` : "Not yet logged")}
-      </div>
-      {/* NBA: a jersey that broke from the announced schedule, and the final. */}
-      {game.scheduled && (
-        <div className="text-[9px] font-bold uppercase tracking-[0.06em] opacity-75 mt-0.5">
-          Changed from {game.scheduled.replace(" Edition", "")}
-        </div>
-      )}
-      {game.result && (
-        <div className="text-[10px] font-extrabold tracking-[0.06em] mt-1 opacity-90">{game.result}</div>
-      )}
-    </div>
-  );
-}
 
 export default function WinterCalendarPage({
   league,
@@ -297,7 +213,15 @@ export default function WinterCalendarPage({
               </h3>
               <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-6 gap-2.5">
                 {games.map((g) => (
-                  <GameCard key={g.date + g.opponentAbbr} game={g} accent={entry.color} today={today} kit={isNba ? "jersey" : "sweater"} />
+                  <WinterGameCard
+                    key={g.date + g.opponentAbbr}
+                    game={g}
+                    accent={entry.color}
+                    today={today}
+                    kit={garment}
+                    dateLabel={shortDate(g.date)}
+                    nickname={entry.nickname}
+                  />
                 ))}
               </div>
             </div>

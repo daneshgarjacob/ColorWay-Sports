@@ -102,33 +102,33 @@
    "imageFit": "contain"
   },
   "2026-10-28": {
-   "team": "Edmonton Oilers",
-   "teamShort": "Oilers",
-   "league": "NHL",
+   "team": "Los Angeles Lakers",
+   "teamShort": "Lakers",
+   "league": "NBA",
    "season": "2026-27",
-   "edition": "Home",
-   "jerseyName": "Royal Blue Home",
-   "image": "/images/posts/nhl-daily-tracker/oilers-home.jpg",
-   "imageAlt": "Edmonton Oilers royal blue home sweater with an orange shoulder yoke, orange and white sleeve and hem stripes and the oil-drop crest",
+   "edition": "Icon Edition",
+   "jerseyName": "Gold Icon Edition",
+   "image": "/images/posts/nba-daily-tracker/lakers-icon.jpg",
+   "imageAlt": "Los Angeles Lakers gold Icon Edition jersey with purple LAKERS wordmark and numbers",
    "imagePosition": "center center",
    "credit": {
     "text": "Product image"
    },
    "worn": {
     "date": "2026-10-28",
-    "matchup": "vs Calgary Flames, Battle of Alberta",
+    "matchup": "at LA Clippers, Intuit Dome",
     "status": "Expected",
-    "note": "League default: the dark sweater at home. No third jersey night is set for this game."
+    "note": "The NBA's official uniform schedule has the Lakers in the gold Icon and the Clippers in their blue Icon."
    },
-   "why": "Royal blue and orange against Calgary red is the best color clash in hockey, and the oil drop has never looked better.",
+   "why": "Forum gold is the most famous color in basketball, and tonight it goes across town against Clippers blue in the LA rivalry.",
    "whyPlaceholder": true,
-   "story": "Royal blue has been the Oilers' primary home sweater again since 2022-23, with an orange shoulder yoke, orange and white stripes on the sleeves and hem and the classic oil-drop crest, unchanged for 2026-27. It has been the sweater for every Oilers home game this season, and with no third jersey or Hometown Remix night announced for this one, it is the call against Calgary.",
-   "scheduleSlug": "oilers-uniform-schedule-2026-27",
-   "scheduleLabel": "Oilers 2026-27 uniform schedule",
+   "story": "The gold Icon Edition is the Lakers' most-worn jersey of 2026-27, scheduled for 28 of 80 dated games, and 19 of those come on the road. Tonight is one of them: the second Lakers-Clippers game in six days, this time at Intuit Dome, with the Clippers in their blue Icon. The Lakers won the first meeting 125-117 at Crypto.com Arena on October 23 in purple.",
+   "scheduleSlug": "lakers-uniform-schedule-2026-27",
+   "scheduleLabel": "Lakers 2026-27 uniform schedule",
    "related": [
     {
-     "slug": "nhl-uniform-tracker-2026-27",
-     "label": "NHL uniform tracker: every game, every sweater"
+     "slug": "nba-uniform-tracker-2026-27",
+     "label": "NBA uniform tracker: every game, every jersey"
     }
    ],
    "imageFit": "contain"

@@ -179,6 +179,17 @@ export interface WinterGame {
   /** NBA only: the announced call, set on a confirmed game only when the club
    *  wore something else (a schedule miss). */
   scheduled?: string;
+  /** The other club's side of the same game, for the calendar's matchup view:
+   *  what they wore once confirmed, else what they are expected to wear. */
+  opp?: WinterOppSide;
+}
+
+export interface WinterOppSide {
+  nickname: string;
+  uniform?: string;
+  expected?: string;
+  image?: string;
+  swatch?: string;
 }
 
 export interface WinterTeamEntry {
@@ -200,6 +211,12 @@ interface RawFile {
   fetched: string;
   teams: Record<string, { name: string; league: "nba" | "nhl"; games: { d: string; o: string; a: string; h: number }[] }>;
 }
+
+// The fixture file carries ESPN abbreviations; the logs are keyed by tricode.
+const ESPN_TRI: Record<string, string> = {
+  GS: "GSW", NY: "NYK", NO: "NOP", SA: "SAS", UTAH: "UTA", WSH: "WAS",
+};
+const ESPN_NHL_TRI: Record<string, string> = { NJ: "NJD", SJ: "SJS", LA: "LAK", TB: "TBL" };
 
 const TWO_WORD = ["Trail Blazers", "Red Wings", "Blue Jackets", "Maple Leafs", "Golden Knights"];
 const nickname = (name: string) =>
@@ -281,6 +298,7 @@ export function buildWinterIndex(): WinterTeamEntry[] {
           game.swatch = worn.swatch;
           if (worn.image) game.image = worn.image;
         }
+        game.opp = oppSide(t.league, g, nhlWorn, nbaState);
         return game;
       }),
     });
@@ -289,6 +307,41 @@ export function buildWinterIndex(): WinterTeamEntry[] {
   out.sort((a, b) => a.name.localeCompare(b.name));
   cache = out;
   return out;
+}
+
+function oppSide(
+  league: "nba" | "nhl",
+  g: { d: string; o: string; a: string; h: number },
+  nhlWorn: ReturnType<typeof nhlConfirmedByTeamDate>,
+  nbaState: Map<string, NbaGameState>,
+): WinterOppSide {
+  const side: WinterOppSide = { nickname: nickname(g.o) };
+  const oppHome = g.h !== 1;
+  if (league === "nba") {
+    const tri = ESPN_TRI[g.a] ?? g.a;
+    const st = nbaState.get(`${tri}|${g.d}`);
+    if (st?.uniform) side.uniform = st.uniform;
+    else if (st?.scheduled) side.expected = st.scheduled;
+    const tile = nbaTile(tri, st?.uniform ?? st?.scheduled);
+    if (tile) side.image = tile;
+    return side;
+  }
+  const tri = ESPN_NHL_TRI[g.a] ?? g.a;
+  const team = nhlTeams()[tri];
+  const worn = nhlWorn.get(`${tri}|${g.d}`);
+  if (worn) {
+    side.uniform = worn.uniform;
+    side.swatch = worn.swatch;
+    if (worn.image) side.image = worn.image;
+    return side;
+  }
+  if (!team) return side;
+  const special = expectedCalls.get(`${tri}|${g.d}`);
+  side.expected = special ?? (oppHome ? team.homeLabel : "Road White");
+  side.swatch = oppHome ? team.homeSwatch : "#ffffff";
+  const tile = `${NHL_TILES}/${team.key}-${oppHome ? "home" : "road"}.jpg`;
+  if (!special && nhlTileExists(tile)) side.image = tile;
+  return side;
 }
 
 export function winterTeamKeys(league: "nba" | "nhl"): string[] {
