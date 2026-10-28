@@ -116,7 +116,7 @@ The 2026 World Series logo is a white cursive "World Series" script on a navy di
 
 ## Milwaukee Brewers: What They Have Worn This October
 
-The Brewers are 10-1 this postseason and have used just two jerseys: cream at home (6-0, World Series Games 1 and 2 included), navy on the road (4-1, World Series Game 3 included).
+The Brewers are 10-2 this postseason and have used just two jerseys: cream at home (6-0, World Series Games 1 and 2 included), navy on the road (4-2, World Series Games 3 and 4 included).
 
 <div style="overflow-x:auto;margin:1.5em 0;border:1px solid #e3e7ec;border-radius:12px;"><table style="width:100%;border-collapse:collapse;min-width:640px;margin:0;">
 <thead><tr><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Date</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Game</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Opponent</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Jersey</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Cap</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Result</th></tr></thead><tbody>
