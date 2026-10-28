@@ -5,11 +5,12 @@ tag: "College"
 league: "college"
 source: "Saturday Down South"
 sourceUrl: "https://www.saturdaydownsouth.com/news/college-football/arkansas-declined-mizzous-request-to-wear-home-jerseys-for-battle-line-matchup-per-eli-drinkwitz/"
-image: "/images/posts/missouri-uniform-schedule-2026/cover.jpg"
-imageAlt: "Missouri Tigers football uniforms in black and gold"
+image: "/images/posts/news/mizzou-arkansas-color-on-color.jpg"
+imageAlt: "What could have been: Missouri in its black helmet, black jersey and gold pants against Arkansas in its cardinal helmet, cardinal jersey and white pants"
 imageStyle: "full"
 link: "/stories/college-football-week-9-uniforms-2026"
 linkLabel: "Every college football Week 9 uniform"
+take: "It would have been so cool to see color-on-color. I especially love it in football for special occasions, and a Halloween rivalry game is exactly that, so I don't agree with the decision."
 ---
 
 Missouri asked to wear its home jerseys at Arkansas on Saturday, and Arkansas said no. Mizzou head coach Eli Drinkwitz shared it this week, as [Saturday Down South reported](https://www.saturdaydownsouth.com/news/college-football/arkansas-declined-mizzous-request-to-wear-home-jerseys-for-battle-line-matchup-per-eli-drinkwitz/). The Tigers wanted a color-on-color game, with both teams in their home colors. Arkansas has not commented.
@@ -18,4 +19,3 @@ Under NCAA rules, the visiting team wears white unless the home team agrees to s
 
 Kickoff is **7:45 p.m. ET on SEC Network**, Saturday, October 31. Every Week 9 look is in our [college football Week 9 uniforms guide](/stories/college-football-week-9-uniforms-2026), and both teams' full seasons are in the [Missouri](/stories/missouri-uniform-schedule-2026) and [Arkansas](/stories/arkansas-uniform-schedule-2026) uniform schedules.
 
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Image: via Mizzou Athletics</p>
