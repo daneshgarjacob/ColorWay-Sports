@@ -322,7 +322,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Florida State: **Expected**, garnet, for Military Appreciation.
 
 **[Washington State](/stories/washington-state-uniform-schedule-2026) at [San Diego State](/stories/san-diego-state-uniform-schedule-2026)**, 7 p.m., CBSSN.
-- Washington State: **Expected**, white.
+- Washington State: **Confirmed**, white helmet, white jersey and crimson pants ([team post](https://x.com/WSUCougarFB/status/2115508158227734759)). 247Sports reports WSU last wore this combo at Arizona in 2017.
 - San Diego State: **Expected**, black.
 
 **No. 1 [Miami](/stories/miami-hurricanes-uniform-schedule-2026) at [North Carolina](/stories/north-carolina-uniform-schedule-2026)**, 7:30 p.m., ABC.
