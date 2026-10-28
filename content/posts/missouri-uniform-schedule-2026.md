@@ -108,7 +108,7 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **October 24.** Bye week.
 
-**October 31 at Arkansas**, Fayetteville. Halloween road game. White, per NCAA visitor rules, no matter how much fun a blackout would be.
+**October 31 at Arkansas**, Fayetteville. Halloween road game. White, per NCAA visitor rules. Missouri asked to wear its home jerseys for a color-on-color game and Arkansas declined, per Eli Drinkwitz ([story](/news/2026-10-28-arkansas-declines-mizzou-color-on-color)).
 
 **November 7 vs. Texas**, Columbia. The biggest home date on the schedule. If Mizzou has a second special uniform in reserve, this is where it shows up.
 

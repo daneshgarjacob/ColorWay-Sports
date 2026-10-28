@@ -342,8 +342,8 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Pitt: **Expected**, blue, for its Hail to Heroes game.
 
 **No. 23 [Missouri](/stories/missouri-uniform-schedule-2026) at [Arkansas](/stories/arkansas-uniform-schedule-2026)**, 7:45 p.m., SEC Network.
-- Missouri: **Expected**, white.
-- Arkansas: **Expected**, cardinal, for Homecoming.
+- Missouri: **Expected**, white. Mizzou asked to wear its home jerseys for a color-on-color game, and Arkansas said no, per Eli Drinkwitz ([full story](/news/2026-10-28-arkansas-declines-mizzou-color-on-color)).
+- Arkansas: **Expected**, cardinal, for Homecoming. Fans want a blackout, but none has been announced.
 
 **[Washington](/stories/washington-huskies-uniform-schedule-2026) at [Nebraska](/stories/nebraska-uniform-schedule-2026)**, 8 p.m., BTN.
 - Washington: **Expected**, white.
