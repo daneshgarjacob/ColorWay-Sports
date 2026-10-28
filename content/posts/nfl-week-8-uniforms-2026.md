@@ -2,6 +2,7 @@
 title: "NFL Week 8 Uniforms 2026: What Every Team Is Wearing, Including Two Rivalries Debuts as the Lions and Jaguars Unveil New Looks"
 author: "colorway-sports-staff"
 category: NFL
+homepageHero: "2026-10-29"
 date: "2026-10-27"
 updatedDate: "2026-10-27"
 excerpt: "NFL Week 8 uniforms (Oct. 29-Nov. 2): the Lions debut their Defend the Den Rivalries uniform against the Vikings, the Jaguars debut Bold City against the Colts, plus the Bills, Cowboys and Chargers calls and every other game."
