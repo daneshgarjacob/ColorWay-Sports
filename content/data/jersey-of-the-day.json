@@ -71,44 +71,36 @@
    ]
   },
   "2026-10-27": {
-   "team": "Tampa Bay Rays",
-   "teamShort": "Rays",
-   "league": "MLB",
-   "season": "2026",
-   "edition": "Throwback alternate",
-   "jerseyName": "Devil Rays Throwback",
-   "image": "/images/posts/rays-brewers-logo-history-world-series-2026/devil-rays-1998-jersey.jpg",
-   "imageAlt": "An inaugural-season Tampa Bay Devil Rays white home jersey with the gradient DEVIL RAYS script and ray logo, worn 1998 to 2000",
+   "team": "Anaheim Ducks",
+   "teamShort": "Ducks",
+   "league": "NHL",
+   "season": "2026-27",
+   "edition": "Home",
+   "jerseyName": "Orange Home",
+   "image": "/images/posts/nhl-daily-tracker/ducks-home.jpg",
+   "imageAlt": "Anaheim Ducks orange home sweater with the duck-mask crest, black, white and gold stripes at the waist and sleeves, black cuffs and the webbed-foot D on the shoulders",
    "imagePosition": "center center",
-   "imageCaption": "The original 1998 Devil Rays home jersey the throwback is based on.",
    "credit": {
-    "text": "Zeng8r",
-    "url": "https://commons.wikimedia.org/wiki/File:TB_Devil_Rays_1998_unis.JPG",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    "text": "Product image"
    },
    "worn": {
     "date": "2026-10-27",
-    "matchup": "vs Milwaukee Brewers, World Series Game 4",
-    "status": "Projected",
-    "note": "Our read, not a team call. If the Rays announce a different jersey for Game 4, we swap the pick."
+    "matchup": "vs Vancouver Canucks",
+    "status": "Expected",
+    "note": "League default: the dark sweater at home. Anaheim has no third jersey this season."
    },
-   "why": "The rainbow DEVIL RAYS script in a World Series game would be the most fun look of the whole postseason.",
-   "whyPlaceholder": true,
-   "story": "The white Devil Rays throwback came back as an alternate in 2023 and became the Rays' Friday home look. Tampa Bay won in it twice this October, including the 7-3 win over Cleveland in ALCS Game 6 that clinched the pennant, then lost 10-1 in it in World Series Game 3. Down 3-0, the Rays face elimination in Game 4 at Tropicana Field.",
-   "scheduleSlug": "rays-uniform-schedule-2026",
-   "scheduleLabel": "Rays 2026 uniform schedule",
+   "why": "Nobody else in the NHL wears orange this bright at home, and the duck mask on it looks like it belongs in the '90s in the best way.",
+   "story": "Orange became the Ducks' primary color in the 2024 rebrand, which also brought back the duck-mask crest from the Mighty Ducks years in a refreshed form. The home sweater has that crest, black, white and gold stripes at the waist, chevron sleeve stripes that run into a black cuff and the old webbed-foot D on the shoulders, unchanged for 2026-27. Anaheim said there would be no alternate when the orange set launched, so this is the sweater for every home game, including tonight against Vancouver at Honda Center.",
+   "scheduleSlug": "ducks-uniform-schedule-2026-27",
+   "scheduleLabel": "Ducks 2026-27 uniform schedule",
    "related": [
     {
-     "slug": "world-series-uniforms-2026",
-     "label": "World Series uniforms, game by game"
-    },
-    {
-     "slug": "rays-devil-rays-comeback-world-series-2026",
-     "label": "Are the Rays becoming the Devil Rays again?"
+     "slug": "nhl-uniform-tracker-2026-27",
+     "label": "NHL uniform tracker: every game, every sweater"
     }
    ],
-   "_editorNote": "Projected. Rays wore the throwback in G3 (lost). Confirm the G4 jersey from the Rays pregame post and swap if needed."
+   "imageFit": "contain",
+   "_editorNote": "Jake's pick 10/27 after the Rays wore home white (not the Devil Rays throwback) in WS Game 4. Confirm from the game photos and set status Confirmed."
   },
   "2026-10-28": {
    "team": "Edmonton Oilers",
