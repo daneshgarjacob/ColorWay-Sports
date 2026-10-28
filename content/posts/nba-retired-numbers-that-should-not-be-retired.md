@@ -28,15 +28,17 @@ This is my list, built from the players I actually watched. Every one of them wa
 
 ## Zydrunas Ilgauskas, Cavaliers No. 11
 
-<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/ilgauskas.jpg" alt="Illustrated rafter banner for Zydrunas Ilgauskas' retired No. 11, Cleveland Cavaliers, 1997 to 2010" style="width:100%;border-radius:10px;" />
+<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/photo-ilgauskas.jpg" alt="The real Zydrunas Ilgauskas No. 11 banner hanging beside the retired numbers of Larry Nance, Mark Price and Brad Daugherty in the Cavaliers arena rafters, 2014" style="width:100%;border-radius:10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Quicken_Loans_Arena_3.jpg">Erik Drost</a> / <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></p>
 
-**Retired:** March 8, 2014. **The case for it:** two All-Star games (2003 and 2005), 13 seasons in Cleveland, and the starting center on the 2007 team that reached the NBA Finals. He played through foot injuries that nearly ended his career before it started, and Cleveland loves him for it.
+**Retired:** March 8, 2014. That is the real banner above, hanging next to Larry Nance, Mark Price and Brad Daugherty. **The case for it:** two All-Star games (2003 and 2005), 13 seasons in Cleveland, and the starting center on the 2007 team that reached the NBA Finals. He played through foot injuries that nearly ended his career before it started, and Cleveland loves him for it.
 
 **Why it shouldn't be up there:** two All-Star games and 13.0 points a game for his career is a very good player, not a rafters player. No title, no All-NBA team, and the Finals run is remembered as LeBron's. Ilgauskas does not deserve it.
 
 ## Tony Allen, Grizzlies No. 9
 
-<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/allen.jpg" alt="Illustrated rafter banner for Tony Allen's retired No. 9, Memphis Grizzlies, 2010 to 2017" style="width:100%;border-radius:10px;" />
+<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/photo-allen.jpg" alt="Tony Allen in the navy Memphis Grizzlies No. 9 road jersey on defense against the Cavaliers" style="width:100%;border-radius:10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:C.J._Miles_Cleveland_Cavaliers.jpg">Erik Drost</a> / <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></p>
 
 **Retired:** March 15, 2025. **The case for it:** the Grindfather was the heart of Grit and Grind, a three-time All-Defensive First Team pick and one of the best perimeter defenders of his era.
 
@@ -44,7 +46,8 @@ This is my list, built from the players I actually watched. Every one of them wa
 
 ## Nick Collison, Thunder No. 4
 
-<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/collison.jpg" alt="Illustrated rafter banner for Nick Collison's retired No. 4, Oklahoma City Thunder, 2004 to 2018" style="width:100%;border-radius:10px;" />
+<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/photo-collison.jpg" alt="Nick Collison in the blue Oklahoma City Thunder No. 4 jersey" style="width:100%;border-radius:10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Nick_Collison_2.jpg">Keith Allison</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a></p>
 
 **Retired:** March 20, 2019, the **first number the Thunder ever retired**. **The case for it:** Collison played his whole career for one franchise, from the Seattle SuperSonics through the move to Oklahoma City, and was the glue guy behind the Durant and Westbrook years.
 
@@ -52,7 +55,8 @@ This is my list, built from the players I actually watched. Every one of them wa
 
 ## Shawn Marion, Suns No. 31
 
-<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/marion.jpg" alt="Illustrated rafter banner for Shawn Marion's retired No. 31, Phoenix Suns, 1999 to 2008" style="width:100%;border-radius:10px;" />
+<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/photo-marion.jpg" alt="Shawn Marion in the purple Phoenix Suns No. 31 road jersey during the 2006 Western Conference semifinals" style="width:100%;border-radius:10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Marion_focus.jpg">Dalauder</a> / Public domain</p>
 
 **Retired:** December 2023, alongside Amar'e Stoudemire's No. 32. **The case for it:** four All-Star games with Phoenix (2003 and 2005 to 2007), the Matrix in the Seven Seconds or Less offense, and 15.2 points a game for his career. He did win a title, in 2011, but with Dallas.
 
@@ -60,7 +64,8 @@ This is my list, built from the players I actually watched. Every one of them wa
 
 ## Andre Iguodala, Warriors No. 9
 
-<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/iguodala.jpg" alt="Illustrated rafter banner for Andre Iguodala's retired No. 9, Golden State Warriors, 2013 to 2023" style="width:100%;border-radius:10px;" />
+<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/photo-iguodala.jpg" alt="Andre Iguodala in the blue Golden State Warriors No. 9 jersey" style="width:100%;border-radius:10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Andre_Iguodala_2016.jpg">Keith Allison</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a></p>
 
 **Retired:** February 23, 2025. **The case for it:** four championships with Golden State and the 2015 Finals MVP, the award that turned a sixth man into a franchise legend.
 
@@ -68,7 +73,8 @@ This is my list, built from the players I actually watched. Every one of them wa
 
 ## Muggsy Bogues, Hornets No. 1
 
-<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/bogues.jpg" alt="Illustrated rafter banner for Muggsy Bogues' No. 1, Charlotte Hornets, 1988 to 1998, to be retired February 11, 2027" style="width:100%;border-radius:10px;" />
+<img src="/images/posts/nba-retired-numbers-that-should-not-be-retired/photo-bogues.jpg" alt="Muggsy Bogues in a black Charlotte Hornets Swarm to Serve hoodie with two Air Force members on the Spectrum Center concourse, January 2025" style="width:100%;border-radius:10px;" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Photo: <a href="https://commons.wikimedia.org/wiki/File:Hornets_Military_Care_Event_(250128-Z-KG453-1009).jpg">U.S. National Guard</a> / Public domain</p>
 
 **Retiring:** February 11, 2027, at halftime against the Bucks. **The case for it:** the shortest player in NBA history at 5-foot-3, 10 seasons in Charlotte and a beloved part of the original teal-and-purple Hornets.
 
@@ -108,4 +114,4 @@ No. None of the six has been inducted into the Naismith Basketball Hall of Fame 
 
 The team does. There is no league rule or standard, which is exactly why the list keeps getting longer.
 
-*Retirement dates via the teams and ESPN. Career statistics and honors via NBA.com and Basketball-Reference. Banner art is ColorWay Sports' own illustration, not the teams' banners.*
+*Retirement dates via the teams and ESPN. Career statistics and honors via NBA.com and Basketball-Reference. Photos via Wikimedia Commons under the licenses credited. Cover banner art is ColorWay Sports' own illustration, not the teams' banners.*
