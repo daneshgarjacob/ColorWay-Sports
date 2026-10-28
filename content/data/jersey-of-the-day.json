@@ -86,7 +86,7 @@
    "worn": {
     "date": "2026-10-27",
     "matchup": "vs Vancouver Canucks",
-    "status": "Expected",
+    "status": "Confirmed",
     "note": "League default: the dark sweater at home. Anaheim has no third jersey this season."
    },
    "why": "Nobody else in the NHL wears orange this bright at home, and the duck mask on it looks like it belongs in the '90s in the best way.",
@@ -99,8 +99,7 @@
      "label": "NHL uniform tracker: every game, every sweater"
     }
    ],
-   "imageFit": "contain",
-   "_editorNote": "Jake's pick 10/27 after the Rays wore home white (not the Devil Rays throwback) in WS Game 4. Confirm from the game photos and set status Confirmed."
+   "imageFit": "contain"
   },
   "2026-10-28": {
    "team": "Edmonton Oilers",

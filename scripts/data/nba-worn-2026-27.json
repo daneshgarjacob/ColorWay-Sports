@@ -614,6 +614,176 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909864)"
+    },
+    "2026-10-26 ATL@HOU": {
+      "score": {
+        "away": 110,
+        "home": 120
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909874)"
+    },
+    "2026-10-26 CHI@BOS": {
+      "score": {
+        "away": 99,
+        "home": 134
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909870)"
+    },
+    "2026-10-26 DAL@MIA": {
+      "score": {
+        "away": 113,
+        "home": 109
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909871)"
+    },
+    "2026-10-26 GSW@DEN": {
+      "score": {
+        "away": 134,
+        "home": 114
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909876)"
+    },
+    "2026-10-26 IND@MIL": {
+      "score": {
+        "away": 102,
+        "home": 110
+      },
+      "away": {
+        "call": "Classic Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909872)"
+    },
+    "2026-10-26 MEM@UTA": {
+      "score": {
+        "away": 110,
+        "home": 105
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909875)"
+    },
+    "2026-10-26 MIN@CLE": {
+      "score": {
+        "away": 125,
+        "home": 127
+      },
+      "ot": true,
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909869)"
+    },
+    "2026-10-26 PHX@OKC": {
+      "score": {
+        "away": 114,
+        "home": 125
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909873)"
+    },
+    "2026-10-26 WAS@CHA": {
+      "score": {
+        "away": 103,
+        "home": 110
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909868)"
+    },
+    "2026-10-27 BKN@BOS": {
+      "score": {
+        "away": 124,
+        "home": 125
+      },
+      "ot": true,
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909877)"
+    },
+    "2026-10-27 DET@NYK": {
+      "score": {
+        "away": 97,
+        "home": 111
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909878)"
+    },
+    "2026-10-27 SAC@SAS": {
+      "score": {
+        "away": 103,
+        "home": 130
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909879)"
     }
   }
 }
