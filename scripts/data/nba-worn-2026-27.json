@@ -771,6 +771,20 @@
       "confirmed": true,
       "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909878)"
     },
+    "2026-10-27 POR@LAL": {
+      "score": {
+        "away": 136,
+        "home": 129
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (https://www.espn.com/nba/game/_/gameId/401909880)"
+    },
     "2026-10-27 SAC@SAS": {
       "score": {
         "away": 103,

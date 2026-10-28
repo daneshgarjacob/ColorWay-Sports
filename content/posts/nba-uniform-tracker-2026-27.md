@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NBA"
 date: "2026-10-26"
-updatedDate: "2026-10-27"
+updatedDate: "2026-10-28"
 excerpt: "What every NBA team wore last night, game by game. Association, Icon, Statement, City and Classic Editions for all 30 teams, confirmed from game photos every morning, with our grade for every matchup."
 gradient: "linear-gradient(135deg, #0f1628 0%, #1b2540 55%, #2f6bed 130%)"
 coverImage: "/images/posts/nba-uniform-tracker-2026-27/cover-branded.jpg"
@@ -29,6 +29,31 @@ Wondering what jersey your team is wearing tonight? The [2026-27 NBA uniform sch
 3 games on Tuesday, every jersey confirmed from game photos. Every club wore its Association, Icon or Statement Edition exactly as the NBA's schedule called it.
 
 <!-- nba-day:2026-10-27:start -->
+
+### Portland Trail Blazers at Los Angeles Lakers
+
+<div style="margin: 1.4em 0 0.6em;">
+<div data-card="nba-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 10px; margin: 0 0 4px;">
+    <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nba.png" alt="NBA logo" title="via NBA" style="display: block; height: clamp(34px, 9vw, 44px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
+    <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
+      <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
+      <span data-grade="B+" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B+</span>
+    </div>
+  </div>
+  <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
+    <div style="min-width: 0;"><div style="width: 100%; aspect-ratio: 5 / 6; max-height: 320px; padding: 4% 6% 2%; box-sizing: border-box;"><div style="width: 100%; height: 100%; background: #eef0f5; border-radius: 10px; padding: 6%; box-sizing: border-box;"><img src="/images/posts/nba-daily-tracker/trail-blazers-association.jpg" alt="Portland Trail Blazers Association White jersey worn October 27 2026 against the Lakers, from the NBA daily uniform tracker" style="display: block; width: 100%; height: 100%; object-fit: contain; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none;" /></div></div><div data-label style="margin: 6px 0 0; color: #ffffff; font-size: clamp(12px, 2.6vw, 14px); font-weight: 900; letter-spacing: 0.6px; text-transform: uppercase; line-height: 1.15; text-align: center;">TRAIL BLAZERS</div>
+      <div style="margin: 3px 0 0; font-size: 10px; line-height: 1.35; letter-spacing: 1.2px; text-transform: uppercase; font-weight: 600; color: rgba(255,255,255,0.78); text-align: center;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #ffffff; border: 1px solid rgba(255,255,255,0.5); margin-right: 5px; vertical-align: middle;"></span><span data-uni style="color: rgba(255,255,255,0.78);">Association White</span></div></div>
+    <div style="min-width: 0;"><div style="width: 100%; aspect-ratio: 5 / 6; max-height: 320px; padding: 4% 6% 2%; box-sizing: border-box;"><div style="width: 100%; height: 100%; background: #eef0f5; border-radius: 10px; padding: 6%; box-sizing: border-box;"><img src="/images/posts/nba-daily-tracker/lakers-statement.jpg" alt="Los Angeles Lakers Statement Edition jersey worn October 27 2026 against the Trail Blazers, from the NBA daily uniform tracker" style="display: block; width: 100%; height: 100%; object-fit: contain; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none;" /></div></div><div data-label style="margin: 6px 0 0; color: #ffffff; font-size: clamp(12px, 2.6vw, 14px); font-weight: 900; letter-spacing: 0.6px; text-transform: uppercase; line-height: 1.15; text-align: center;">LAKERS</div>
+      <div style="margin: 3px 0 0; font-size: 10px; line-height: 1.35; letter-spacing: 1.2px; text-transform: uppercase; font-weight: 600; color: rgba(255,255,255,0.78); text-align: center;"><span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #3c206d; border: 1px solid rgba(255,255,255,0.5); margin-right: 5px; vertical-align: middle;"></span><span data-uni style="color: rgba(255,255,255,0.78);">Statement Edition</span></div></div>
+  </div>
+  <div style="margin: clamp(12px, 3vw, 16px) 0 0; display: grid; grid-template-columns: minmax(0,1fr) auto minmax(0,1fr); align-items: stretch; border-radius: 8px; overflow: hidden; border: 1px solid rgba(255,255,255,0.14); box-shadow: 0 4px 14px rgba(0,0,0,0.30);">
+    <div style="display: flex; align-items: center; min-height: 42px; min-width: 0; background: linear-gradient(180deg, #E03A3E 0%, #a82a2d 100%); border-left: 4px solid #ffffff;"><span style="flex: 1; min-width: 0; padding: 0 clamp(6px, 2.4vw, 12px); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(13px, 3vw, 16px); font-weight: 900; letter-spacing: 1.4px; text-align: left;">POR</span><span data-score="away" style="display: flex; align-items: center; justify-content: center; min-width: clamp(34px, 9vw, 52px); align-self: stretch; background: rgba(0,0,0,0.26); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(18px, 4.6vw, 24px); font-weight: 900; font-variant-numeric: tabular-nums; letter-spacing: -0.5px;">136</span></div>
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 0 clamp(6px, 2.4vw, 14px); background: #050c17;"><span data-status style="color: #ffffff; font-size: 10px; font-weight: 900; letter-spacing: 2px; text-transform: uppercase; white-space: nowrap;">Final</span></div>
+    <div style="display: flex; align-items: center; min-height: 42px; min-width: 0; background: linear-gradient(180deg, #6a35a0 0%, #552583 100%); border-right: 4px solid #FDB927;"><span data-score="home" style="display: flex; align-items: center; justify-content: center; min-width: clamp(34px, 9vw, 52px); align-self: stretch; background: rgba(0,0,0,0.26); color: rgba(255,255,255,0.6); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(18px, 4.6vw, 24px); font-weight: 700; font-variant-numeric: tabular-nums; letter-spacing: -0.5px;">129</span><span style="flex: 1; min-width: 0; padding: 0 clamp(6px, 2.4vw, 12px); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(13px, 3vw, 16px); font-weight: 900; letter-spacing: 1.4px; text-align: right;">LAL</span></div>
+  </div>
+</div>
+</div>
 
 ### Detroit Pistons at New York Knicks
 
