@@ -34,6 +34,8 @@ We build these before the season rather than after it, so the closet is here fro
   <div style="background: #f1f3f8; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Hometown Remix (Coming)</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The league-wide Fanatics special edition, one sweater per club, built around each city's local culture. The NHL says the designs arrive shortly after the season opens on September 29; nothing has been revealed yet. <a href="/stories/nhl-hometown-remix-2026-27" style="color: inherit; text-decoration: underline;">Our Hometown Remix tracker</a> grades each one as it lands.</div></div>
 </div>
 
+<figure style="margin: 1.5em auto; max-width: 360px; text-align: center;"><img src="/images/posts/oilers-uniform-schedule-2026-27/oil-country-tan.jpg" alt="Edmonton Oilers Oil Country Tan alternate jersey: tan body, royal blue collar and shoulders, blue Oilers script with orange underline, blue and orange sleeve and hem stripes" style="display: block; width: 100%; height: auto; margin: 0 auto; border-radius: 10px;" loading="lazy" decoding="async" /><figcaption style="margin-top: 6px; font-size: 0.8em; color: #5b6474; text-align: center;">The Oil Country Tan alternate. Image: Fanatics</figcaption></figure>
+
 ## The Oilers Game-by-Game Uniform Schedule
 
 <!-- nhl-key-dates:start -->
