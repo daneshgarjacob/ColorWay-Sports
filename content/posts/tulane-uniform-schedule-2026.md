@@ -3,7 +3,7 @@ title: "Tulane Uniform Schedule 2026: Every Jersey and When the Green Wave Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-10-28"
 excerpt: "What Tulane wears every game in 2026: the green home jersey, the white road set, the sky blue alternate, the Mardi Gras City Edition, and every date."
 gradient: "linear-gradient(135deg, #006747 0%, #0a4f3a 55%, #418FDE 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Tulane has more fun with uniforms than anyone else in the American Conference, and the fans have the receipts to prove it. This is the full Tulane 2026 uniform schedule: the green home jersey, the white road set, the sky blue alternate, the one-night Mardi Gras City Edition the Green Wave already burned in Week 2, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 28:** The **Wumbo is back.** Tulane will wear its white helmet with the oversized green Angry Wave at Charlotte on Friday night.
 
 **Update, October 24:** Tulane wore **a sky blue helmet, sky blue jersey and white pants** against UTSA on Saturday, confirmed from Tulane's game photos, and lost 42-19. **Final: UTSA 42, Tulane 19.**
 
@@ -59,7 +61,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
   <div style="background: #f1f3f8; color: #333; border: 2px solid #006747; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / White</div></div>
   <div style="background: #006747; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 16 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Green / White</div></div>
   <div style="background: #71C5E8; color: #0b2a1f; border: 2px solid #006747; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Sky Blue / Sky Blue / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Wumbo helmet</div></div>
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green (Homecoming)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -86,7 +88,11 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
 
 **October 24 vs. UTSA.** Green expected. Back at Yulman with kickoff still to be announced. **Worn: a sky blue helmet, sky blue jersey and white pants**, confirmed from Tulane's game photos. UTSA wore a navy helmet, white jersey and navy pants. **Final: UTSA 42, Tulane 19.**
 
-**October 30 at Charlotte.** White expected. A Friday night trip to Jerry Richardson Stadium, 6 p.m. Central on ESPN2, the night before Halloween.
+**October 30 at Charlotte.** ★ Helmet confirmed: **the Wumbo**, a white helmet with an oversized green Angry Wave and a green facemask, posted by Tulane on October 28 as "WUMBO is BACK." Jersey and pants not shown yet; white is still expected on the road.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GreenWaveFB/status/2115502508038586513"></a></blockquote>
+
+ A Friday night trip to Jerry Richardson Stadium, 6 p.m. Central on ESPN2, the night before Halloween.
 
 **November 7 vs. Tulsa.** Green expected. Homecoming in New Orleans, kickoff to be announced, and Homecoming is the other date on this schedule where a program normally saves something. More: [Tulsa uniform schedule](/stories/tulsa-uniform-schedule-2026).
 

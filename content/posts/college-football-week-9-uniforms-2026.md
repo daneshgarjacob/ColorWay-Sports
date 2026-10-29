@@ -35,6 +35,8 @@ Below is every Halloween uniform announced so far, then every game this week inv
 - **UNLV: "Black is back" (Confirmed).** Red helmet, black jersey with REBELS across the chest, vs. Northern Illinois.
 - **East Carolina: marching PeeDee helmet (Confirmed).** White helmet with PeeDee the Pirate marching on the side, vs. Temple.
 - **Louisville: For The Ville debut (Announced in August).** Black jersey and pants built on Muhammad Ali's boxing gear, vs. Stanford.
+- **Oregon: black helmet, white wings (Confirmed).** Matte black helmet with white wings, black jersey with green-outlined numbers, white pants, vs. No. 20 Northwestern.
+- **Tulane: the Wumbo is back (Confirmed).** White helmet with an oversized green Angry Wave, Friday at Charlotte.
 - **Fresno State: "new look set to debut" (Teased).** A new helmet shown only in shadow, vs. Oregon State.
 
 ## Games of the Week
@@ -186,7 +188,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 ### Friday, October 30
 
 **[Tulane](/stories/tulane-uniform-schedule-2026) at Charlotte**, 7 p.m., ESPN2.
-- Tulane: **Expected**, white.
+- Tulane: **Confirmed helmet**, the Wumbo: a white helmet with an oversized green Angry Wave and a green facemask. Tulane posted "WUMBO is BACK" on Wednesday; jersey and pants not shown yet.
 
 **[Baylor](/stories/baylor-uniform-schedule-2026) at [UCF](/stories/ucf-uniform-schedule-2026)**, 7:30 p.m., ESPN.
 - Baylor: **Expected**, white.
@@ -272,7 +274,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **No. 20 [Northwestern](/stories/northwestern-uniform-schedule-2026) at [Oregon](/stories/oregon-uniform-schedule-2026)**, 3:30 p.m., Peacock.
 - Northwestern: **Expected**, white.
-- Oregon: **Expected**, green.
+- Oregon: **Confirmed**, matte black helmet with white wings, black jersey with silver numbers outlined in green, white pants. Posted by Oregon on Wednesday as "Bold by design."
 
 **[Kansas](/stories/kansas-uniform-schedule-2026) at [TCU](/stories/tcu-uniform-schedule-2026)**, 3:30 p.m., FS1.
 - Kansas: **Expected**, white.
