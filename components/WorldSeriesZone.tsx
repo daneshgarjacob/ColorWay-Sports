@@ -27,7 +27,7 @@ export default function WorldSeriesZone() {
   const tools = [
     {
       href: guideHref,
-      kicker: "Coming Up",
+      kicker: decided ? "Recap" : "Coming Up",
       title: isWs ? "World Series Uniforms & Patch" : "ALCS Uniform Schedule",
       dek: isWs ? "Every Game, Both Teams, The 2026 Patch." : "Every Remaining Game And What Each Team Will Wear.",
       cls: "bg-[#0b1a2f] text-white",
@@ -63,7 +63,7 @@ export default function WorldSeriesZone() {
               style={{ fontFamily: "'JetBrains Mono', 'Courier New', monospace" }}
               className="text-[10px] font-bold uppercase tracking-[0.15em] text-orange"
             >
-              ● Live Tracker
+              {decided ? "● Final" : "● Live Tracker"}
             </span>
             <img
               src={logo}
@@ -134,8 +134,8 @@ export default function WorldSeriesZone() {
             </Link>
           )}
 
-          <div className="mt-6 grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-2">
-            {games.map((g) => (
+          <div className={`mt-6 grid grid-cols-2 sm:grid-cols-4 ${decided ? "lg:grid-cols-5" : "lg:grid-cols-7"} gap-2`}>
+            {games.filter((g) => !decided || g.played).map((g) => (
               <div
                 key={g.n}
                 className="rounded-lg border border-[#234071] bg-[#13284a] p-2.5 text-[11px]"
