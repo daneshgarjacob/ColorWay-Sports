@@ -83,9 +83,15 @@ The teal helmet is the best piece of the set, and the cream against royal blue s
 
 ### Baltimore Ravens at Buffalo Bills: Native American Heritage
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/ravens-white-road.jpg" alt="Baltimore Ravens white road jersey, expected at Buffalo in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Ravens · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg" alt="Buffalo Bills royal blue home jersey, confirmed by the team for Native American Heritage day against the Ravens in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Confirmed</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/ravens-white-road.jpg" alt="Baltimore Ravens white road jersey, confirmed with white pants and the black primary helmet at Buffalo in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Ravens · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg" alt="Buffalo Bills royal blue home jersey, confirmed by the team for Native American Heritage day against the Ravens in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Confirmed</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Bills confirmed, Ravens expected.** Buffalo assigned a jersey to all eight home games itself, and this one is the **royal blue primary** under the white helmet for the team's Native American Heritage game. Baltimore is expected in **white** on the road. Our matchup grade: **B**. See the [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026) and the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, CBS. Both teams confirmed.** Buffalo assigned a jersey to all eight home games itself, and this one is the **royal blue primary** under the white helmet for the team's Native American Heritage game. Baltimore posted its Gameday Threads on Thursday: the **black primary helmet, white jersey, white pants and white socks**, all white below the helmet, where the opener at Indianapolis paired the white jersey with black pants.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2115886995683852488"></a></blockquote>
+</div>
+
+ Our matchup grade: **B**. See the [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026) and the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026).
 
 ### Arizona Cardinals at Dallas Cowboys: Red in Arlington
 
@@ -149,7 +155,7 @@ For the rest of the season's looks, see the [Jets 2026 uniform schedule](/storie
 
 ### Sunday, November 1
 
-- **Baltimore Ravens at Buffalo Bills**, 1:00 p.m. ET, CBS. Ravens: white (expected). Bills: white helmet, royal blue jersey for Native American Heritage (confirmed). Matchup grade: B.
+- **Baltimore Ravens at Buffalo Bills**, 1:00 p.m. ET, CBS. Ravens: black helmet, white jersey, white pants (confirmed). Bills: white helmet, royal blue jersey for Native American Heritage (confirmed). Matchup grade: B.
 - **Tennessee Titans at Cincinnati Bengals**, 1:00 p.m. ET, CBS. Titans: white (expected). Bengals: striped orange helmet, black jersey, white pants (confirmed). Matchup grade: B-.
 - **Arizona Cardinals at Dallas Cowboys**, 1:00 p.m. ET, FOX. Cardinals: white helmet, cardinal red jersey (scheduled). Cowboys: silver helmet, white jersey (scheduled). Matchup grade: B+.
 - **Minnesota Vikings at Detroit Lions**, 1:00 p.m. ET, FOX. Vikings: purple (expected). Lions: Rivalries debut, electric blue helmet, silver jersey (confirmed). Matchup grade: B+.

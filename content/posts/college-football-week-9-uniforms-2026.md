@@ -32,6 +32,7 @@ Below is every Halloween uniform announced so far, then every game this week inv
 - **UCF: Space Game, Mission X (Confirmed).** White helmet with a red stripe, a stars-and-stripes UCF logo and a chrome gold facemask and visor, white jersey, white pants, Friday vs. Baylor. The full helmet was shown Tuesday.
 - **Navy: 1926 centennial throwback (Confirmed).** Gold helmet, navy jersey with nine gold chevron stripes, gold pants, vs. No. 5 Notre Dame.
 - **Iowa State: "halloween threads" (Confirmed).** Black helmet with a white Cynado logo, black jersey, black pants, vs. No. 24 Oklahoma State.
+- **Oklahoma State: all orange (Confirmed).** Orange helmet, orange jersey, orange pants and black skeleton-print cleats, at Iowa State: "THE uniform matchup of the weekend."
 - **UNLV: "Black is back" (Confirmed).** Red helmet, black jersey with REBELS across the chest, vs. Northern Illinois.
 - **East Carolina: marching PeeDee helmet (Confirmed).** White helmet with PeeDee the Pirate marching on the side, vs. Temple.
 - **Louisville: For The Ville debut (Announced in August).** Black jersey and pants built on Muhammad Ali's boxing gear, vs. Stanford.
@@ -112,12 +113,16 @@ The reveal photo shows a **white helmet with a red center stripe and a chrome go
 
 ### No. 24 Oklahoma State at Iowa State: Halloween Threads
 
-**Saturday, 7 p.m. (6 p.m. Central), FS1.** **Iowa State: Confirmed, blacked out.** Iowa State posted "halloween threads" with three black circles on Tuesday, and the video shows a black helmet with a white center stripe and a big white **Cynado** on the side, the logo of Cy the Cardinal riding a tornado, in place of the usual script. The jersey is black with IOWA STATE across the chest in white, white numbers and white stripes on the shoulders, and the full-length shots show **black pants**, so it is black from top to bottom: the three black circles. The video opens with a player tossing away the cardinal jersey and helmet, which is the point. Former Cyclone tight end Jake Ferguson summed it up: blackout uniforms, Cynado on the helmet. Iowa State is coming off a 39-3 loss at Arizona.
+**Saturday, 7 p.m. (6 p.m. Central), now on FOX.** **Iowa State: Confirmed, blacked out.** Iowa State posted "halloween threads" with three black circles on Tuesday, and the video shows a black helmet with a white center stripe and a big white **Cynado** on the side, the logo of Cy the Cardinal riding a tornado, in place of the usual script. The jersey is black with IOWA STATE across the chest in white, white numbers and white stripes on the shoulders, and the full-length shots show **black pants**, so it is black from top to bottom: the three black circles. The video opens with a player tossing away the cardinal jersey and helmet, which is the point. Former Cyclone tight end Jake Ferguson summed it up: blackout uniforms, Cynado on the helmet. Iowa State is coming off a 39-3 loss at Arizona.
 
-**Oklahoma State: Expected, white.** More: [Iowa State schedule](/stories/iowa-state-uniform-schedule-2026) and [Oklahoma State schedule](/stories/oklahoma-state-uniform-schedule-2026).
+**Oklahoma State: Confirmed, all orange.** The Cowboys answered with "THE uniform matchup of the weekend" and three orange circles: orange helmet, orange jersey, orange pants, shown on a hay-bale Halloween set with black cleats printed with white skeleton bones and an orange swoosh. Black against orange on Halloween night. The game moved from FS1 to FOX. More: [Iowa State schedule](/stories/iowa-state-uniform-schedule-2026) and [Oklahoma State schedule](/stories/oklahoma-state-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CycloneFB/status/2115167222327091517"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CowboyFB/status/2115559361724502104"></a></blockquote>
 </div>
 
 ### Northern Illinois at UNLV: Black Is Back
@@ -324,8 +329,8 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - App State: **Expected**, white.
 - Georgia Southern: not announced. It is the Erk 100 game and a stadium-wide White Out, and Georgia Southern wore white helmets for its last White Out in 2024.
 
-**No. 24 [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026) at [Iowa State](/stories/iowa-state-uniform-schedule-2026)**, 7 p.m., FS1.
-- Oklahoma State: **Expected**, white.
+**No. 24 [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026) at [Iowa State](/stories/iowa-state-uniform-schedule-2026)**, 7 p.m., FOX.
+- Oklahoma State: **Confirmed**, orange helmet, orange jersey, orange pants.
 - Iowa State: **Confirmed**, black helmet with the white Cynado logo, black jersey, black pants, "halloween threads." See above.
 
 **[Clemson](/stories/clemson-uniform-schedule-2026) at [Florida State](/stories/florida-state-uniform-schedule-2026)**, 7 p.m., ACC Network.

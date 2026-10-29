@@ -3,7 +3,7 @@ title: "Oklahoma State Uniform Schedule 2026: Every Jersey and When the Cowboys 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-25"
+updatedDate: "2026-10-29"
 excerpt: "The Oklahoma State 2026 uniform schedule: orange, white and black jerseys, multiple helmets, and the combination the Cowboys wore to beat Oregon, tracked week by week."
 gradient: "linear-gradient(135deg, #FF7300 0%, #c25500 55%, #000000 130%)"
 cardStyle: words
@@ -39,7 +39,7 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
   <div style="background: #000000; color: #ffffff; border: 2px solid #FF7300; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Black / Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #FF7300; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Orange</div></div>
   <div style="background: #FF7300; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White Helmet / Orange Jersey</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #FF7300; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -62,7 +62,13 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
 
 **October 24 vs. Colorado.** Orange expected. America's Greatest Homecoming. This is the date to watch: Homecoming has drawn special looks before, including the black Oklahoma A&M throwback for the 125th anniversary in 2024, and nothing has been announced for 2026. If a one-off uniform is coming this season, this is the likeliest week. **Worn: white helmet and orange jersey**, confirmed from the team's game photos. Colorado wore a gold helmet and white jersey. **Final: Oklahoma State 57, Colorado 24.**
 
-**October 31 at Iowa State.** White expected. The first Halloween road game since 2015, in Ames, at the start of the only back-to-back road stretch on the schedule. Black jerseys on Halloween would be very on brand for this program, but that is a guess, not a report.
+**October 31 at Iowa State. Confirmed: all orange.** Orange helmet, orange jersey and orange pants, with black skeleton-print cleats, which the team called "THE uniform matchup of the weekend." Iowa State is blacked out in black helmets with the Cynado logo, so it is orange against black on Halloween night in Ames, now on FOX. It is the first Halloween road game since 2015.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CowboyFB/status/2115559361724502104"></a></blockquote>
+</div>
+
+
 
 **November 7 at Kansas State.** White expected. The 17th straight season against Kansas State, the longest active streak against any Cowboy opponent.
 

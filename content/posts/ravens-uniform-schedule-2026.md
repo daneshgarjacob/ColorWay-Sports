@@ -3,7 +3,7 @@ topViewsRank: 6
 title: "Baltimore Ravens Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-26"
+updatedDate: "2026-10-29"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -39,7 +39,7 @@ Eight home games at M&T Bank Stadium, nine on the road, and a Week 13 bye. The R
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Falcons</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Purple Pants · SNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Black Pants</div></div>
   <div style="background: #241773; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Purple · Purple Pants</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div></div>
   <div style="background: #241773; color: #E8B923; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Jaguars</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Purple Rising · TNF</div></div>
   <div style="background: #0b0b0d; color: #d94040; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85; color: #ffffff;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Chargers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Darkness Falls · MNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -156,7 +156,13 @@ A white home look from the Next Flight collection: white jersey, white pants and
 
 **What jerseys are the Ravens wearing this week?**
 
-Week 7 against Cincinnati, October 25, worn: black helmet, purple jersey and purple pants, as announced. The Bengals wore white over white pants, and Cincinnati won 35-13. We grade the matchup a B. For the rest of the season: Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
+Week 8 at Buffalo, Sunday, November 1, 1:00 p.m. ET on CBS, confirmed by the Ravens: **black primary helmet, white jersey, white pants and white socks**. It is the first time this season Baltimore has gone white on white on the road; the opener at Indianapolis used black pants. The Bills wear their royal blue primary for Native American Heritage day.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2115886995683852488"></a></blockquote>
+</div>
+
+Last week, Week 7 against Cincinnati, October 25, worn: black helmet, purple jersey and purple pants, as announced. The Bengals wore white over white pants, and Cincinnati won 35-13. We grade the matchup a B. For the rest of the season: Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
 
 **What uniform did the Ravens wear last week?**
 
