@@ -69,13 +69,13 @@ Same verdict as the shirt: a bit boring, but I like it. It is bolder than the ch
 
 We did not grade these, since the players did not wear them in the celebration, but here is everything else in the official collection.
 
-### Brewers 2026 World Series Champions Side Patch 59FIFTY ($53)
+### Brewers 2026 World Series Champions Side Patch 59FIFTY (Yellow Front)
 
 <div style="margin: 2em 0; text-align: center;">
-  <img src="/images/posts/brewers-2026-world-series-champions-gear-graded/side-patch-59fifty.jpg" alt="New Era Milwaukee Brewers 2026 World Series Champions side patch 59FIFTY fitted cap in navy with the ball-in-glove logo on the front and a round 2026 World Series Champions patch on the side" style="max-width: 100%; border-radius: 12px;" />
+  <img src="/images/posts/brewers-2026-world-series-champions-gear-graded/side-patch-59fifty-yellow-front.jpg" alt="New Era Milwaukee Brewers 2026 World Series Champions side patch 59FIFTY fitted cap with a yellow front, navy crown and brim, the navy ball-in-glove logo and a round 2026 World Series Champions patch on the side" style="max-width: 100%; border-radius: 12px;" />
 </div>
 
-This is the cap for people who want to wear it in April. It is the Brewers' regular navy 59FIFTY with the ball-in-glove on the front, plus a round "2026 World Series Champions" patch on the side.
+This is the cap the Brewers wore on the field all October on the road, including the clincher: the two-tone ball-in-glove 59FIFTY with a yellow front panel, navy back and brim, and the navy ball-in-glove, plus a round "2026 World Series Champions" patch on the side. It is the cap for people who want to wear the title in April.
 
 ### Brewers 2026 World Series Champions Home Replica Jersey ($175)
 
@@ -119,7 +119,7 @@ The parade hat from New Era is a cream A-frame 9FIFTY with a gray brim. The ball
 
 ## Bottom Line
 
-The locker room hat and shirt get a B. The gold-on-black art is clean and the ball-in-glove leads, but black is not a Brewers color, and a title this long in the making deserved navy and gold. If you want something in actual Brewers colors, the cream champions jersey and the navy side patch 59FIFTY are the picks from the rest of the collection. For what Milwaukee wore on the field all October, see the [Brewers uniform schedule](/stories/brewers-uniform-schedule-2026), and for the gear from the pennant two weeks ago, our [NL Champions hat and shirt grades](/stories/brewers-2026-national-league-champions-hat-shirt-graded).
+The locker room hat and shirt get a B. The gold-on-black art is clean and the ball-in-glove leads, but black is not a Brewers color, and a title this long in the making deserved navy and gold. If you want something in actual Brewers colors, the cream champions jersey and the yellow-front side patch 59FIFTY are the picks from the rest of the collection. For what Milwaukee wore on the field all October, see the [Brewers uniform schedule](/stories/brewers-uniform-schedule-2026), and for the gear from the pennant two weeks ago, our [NL Champions hat and shirt grades](/stories/brewers-2026-national-league-champions-hat-shirt-graded).
 
 ## Frequently Asked Questions
 
