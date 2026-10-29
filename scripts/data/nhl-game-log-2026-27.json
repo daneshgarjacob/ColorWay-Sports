@@ -204,7 +204,11 @@
     "FLA Road White @ WPG Home Navy": "B",
     "MIN Road White @ UTA Home Black": "B",
     "OTT Road White @ VGK Home Gold": "B+",
-    "VAN Road White @ ANA Home Orange": "B+"
+    "VAN Road White @ ANA Home Orange": "B+",
+    "PHI Road White @ WSH Home Red": "B",
+    "CGY Red on the Road @ EDM Oil Country Tan": "A-",
+    "NJD Road White @ COL Home Burgundy": "B",
+    "TOR Road White @ SEA Home Deep Sea Blue": "B"
   },
   "games": {
     "2026-09-29 FLA@CAR": { "confirmed": true, "source": "ESPN game photos + banner-night highlight" },
@@ -409,6 +413,10 @@
     "2026-10-27 OTT@VGK": { "confirmed": true, "source": "ESPN game photos (Golden Knights home gold, Senators road white)" },
     "2026-10-27 VAN@ANA": { "confirmed": true, "source": "ESPN game photos (Ducks home orange with black and white stripes, Canucks road white)" },
     "2026-10-27 BUF@SJS": { "confirmed": true, "source": "ESPN game photos (Sharks home teal, Sabres road white)" },
+    "2026-10-28 PHI@WSH": { "confirmed": true, "source": "ESPN game photos (Capitals home red, Flyers road white)" },
+    "2026-10-28 CGY@EDM": { "confirmed": true, "source": "ESPN highlight frames (color vs color: Oilers wore the cream Oil Country Tan alternate with navy shoulders and orange/navy stripes, navy pants, first home wear of 2026-27 after road wears 10/10 SJS and 10/13 LAK; Flames wore their red home sweater with yellow and white stripes, red helmets, Rogers Place boards)", "home": { "call": "Oil Country Tan", "color": "#FF4C00", "swatch": "#E8DCC0", "image": "/images/posts/nhl-daily-tracker/oilers-tan.jpg", "note": "Oil Country Tan Alternate, first home wear (expected royal blue)" }, "away": { "call": "Red on the Road", "color": "#C8102E", "swatch": "#C8102E", "image": "/images/posts/nhl-daily-tracker/flames-home.jpg", "note": "Flames wore their dark red in Edmonton opposite the tan" } },
+    "2026-10-28 NJD@COL": { "confirmed": true, "source": "ESPN game photos (Avalanche home burgundy, Devils road white)" },
+    "2026-10-28 TOR@SEA": { "confirmed": true, "source": "ESPN game photos (Kraken home deep sea blue, Maple Leafs road white)" },
     "2026-11-01 MIN@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } },
     "2026-11-14 NJD@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } },
     "2026-12-26 CBJ@WSH": { "home": { "call": "Screaming Eagle", "color": "#C8102E", "image": "/images/posts/nhl-daily-tracker/capitals-screaming-eagle.jpg" } },
