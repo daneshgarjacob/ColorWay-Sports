@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: NFL
 homepageHero: "2026-10-29"
 date: "2026-10-27"
-updatedDate: "2026-10-27"
+updatedDate: "2026-10-29"
 excerpt: "NFL Week 8 uniforms (Oct. 29-Nov. 2): the Lions debut their Defend the Den Rivalries uniform against the Vikings, the Jaguars debut Bold City against the Colts, plus the Bills, Cowboys and Chargers calls and every other game."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #0076B6 130%)"
 coverImage: "/images/posts/nfl-week-8-uniforms-2026/cover.jpg"
@@ -125,9 +125,13 @@ The teal helmet is the best piece of the set, and the cream against royal blue s
 
 ### Las Vegas Raiders at New York Jets
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/raiders-white-road.jpg" alt="Las Vegas Raiders white road jersey, expected at the Jets in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Raiders · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jets-green-home.jpg" alt="New York Jets green home jersey, expected against the Raiders in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jets · Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/raiders-white-road.jpg" alt="Las Vegas Raiders white road jersey, expected at the Jets in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Raiders · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jets-green-home.jpg" alt="New York Jets green home jersey, worn with green pants against the Raiders in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jets · Confirmed</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, FOX. Expected on both sides.** We expect the Jets in **green** at MetLife and the Raiders in their standard **white** road set under the silver helmet. Our matchup grade: **B**. See the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026) and the [Raiders 2026 uniform schedule](/stories/raiders-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, FOX. Jets confirmed, Raiders expected.** The Jets announced **green on green**: the green helmet with a white facemask, the green jersey and green pants, their first all-green look of the season (they wore white pants with the green jersey against Cleveland in Week 5). We expect the Raiders in their standard **white** road set under the silver helmet. Our matchup grade: **B+**.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2115443769134678515"></a></blockquote>
+
+For the rest of the season's looks, see the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026) and the [Raiders 2026 uniform schedule](/stories/raiders-uniform-schedule-2026).
 
 ### Tennessee Titans at Cincinnati Bengals
 
@@ -147,7 +151,7 @@ The teal helmet is the best piece of the set, and the cream against royal blue s
 - **Tennessee Titans at Cincinnati Bengals**, 1:00 p.m. ET, CBS. Titans: white (expected). Bengals: striped orange helmet, black jersey, white pants (confirmed). Matchup grade: B-.
 - **Arizona Cardinals at Dallas Cowboys**, 1:00 p.m. ET, FOX. Cardinals: white helmet, cardinal red jersey (scheduled). Cowboys: silver helmet, white jersey (scheduled). Matchup grade: B+.
 - **Minnesota Vikings at Detroit Lions**, 1:00 p.m. ET, FOX. Vikings: purple (expected). Lions: Rivalries debut, electric blue helmet, silver jersey (confirmed). Matchup grade: B+.
-- **Las Vegas Raiders at New York Jets**, 1:00 p.m. ET, FOX. Raiders: silver helmet, white jersey (expected). Jets: green (expected). Matchup grade: B.
+- **Las Vegas Raiders at New York Jets**, 1:00 p.m. ET, FOX. Raiders: silver helmet, white jersey (expected). Jets: green helmet, green jersey, green pants (confirmed). Matchup grade: B+.
 - **Cleveland Browns at Pittsburgh Steelers**, 1:00 p.m. ET, CBS. Browns: orange helmet, white jersey (expected). Steelers: black helmet, black jersey (expected). Matchup grade: B+.
 - **Atlanta Falcons at Tampa Bay Buccaneers**, 1:00 p.m. ET, FOX. Falcons: red (expected). Buccaneers: white (expected). Matchup grade: B.
 - **Indianapolis Colts at Jacksonville Jaguars**, 1:00 p.m. ET, CBS. Colts: royal blue (expected). Jaguars: Bold City debut, teal helmet, alabaster jersey, spotted black pants (confirmed). Matchup grade: B.
