@@ -3,7 +3,7 @@ topViewsRank: 9
 title: "Seahawks Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-26"
+updatedDate: "2026-10-29"
 excerpt: "The Seahawks' 2026 uniform schedule: confirmed dates for two royal blue throwback games and the Christmas Day Rivalries jersey, plus the college navy and white sets."
 gradient: "linear-gradient(135deg, #0b3a6b 0%, #002244 55%, #000d1c 130%)"
 coverImage: "/images/posts/seahawks-uniform-schedule-2026/cover.jpg"
@@ -45,7 +45,7 @@ Here is the whole season at a glance. The confirmed games are marked with a star
   <div style="background: #002244; color: #69BE28; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs 49ers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Navy · Wolf Grey Pants</div></div>
   <div style="background: #4B7BA8; color: #ffffff; border: 2px solid #A5ACAF; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">at Broncos</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Royal Throwback · TNF</div></div>
   <div style="background: #4B7BA8; color: #ffffff; border: 2px solid #A5ACAF; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Chiefs</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Royal Throwback</div></div>
-  <div style="background: #002244; color: #69BE28; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">College Navy · MNF</div></div>
+  <div style="background: #002244; color: #69BE28; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy · Grey Pants · MNF</div></div>
   <div style="background: #002244; color: #69BE28; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">College Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
@@ -122,7 +122,13 @@ College Navy at home and white on the road, with three confirmed exceptions: the
 
 **What jerseys are the Seahawks wearing this week?**
 
-Week 7 against Kansas City on Sunday Night Football, October 25, worn: the royal blue throwback with the silver helmet and silver pants. The Chiefs wore white over white pants, and Seattle won 20-3. We grade the matchup an A. For the rest of the season: College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day. Seattle also wears the royal blue throwback on the road in Week 6 at Denver, with the Broncos in their orange classic throwback.
+Week 8 against Chicago on Monday Night Football, November 2, 8:15 p.m. ET on ESPN, confirmed by the Seahawks: **navy and grey**, the navy helmet, the college navy jersey with action green numbers and grey pants.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2115587643509723630"></a></blockquote>
+</div>
+
+Last week, Week 7 against Kansas City on Sunday Night Football, October 25, worn: the royal blue throwback with the silver helmet and silver pants. The Chiefs wore white over white pants, and Seattle won 20-3. We grade the matchup an A. For the rest of the season: College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day. Seattle also wears the royal blue throwback on the road in Week 6 at Denver, with the Broncos in their orange classic throwback.
 
 **What uniform did the Seahawks wear last week?**
 

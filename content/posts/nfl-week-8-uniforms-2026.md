@@ -65,7 +65,13 @@ The teal helmet is the best piece of the set, and the cream against royal blue s
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/panthers-white-road.jpg" alt="Carolina Panthers white road jersey, confirmed by the team for Thursday Night Football at Green Bay in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Panthers · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/packers-green-home.jpg" alt="Green Bay Packers green home jersey, expected against the Panthers on Thursday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Packers · Expected</figcaption></figure></div>
 
-**Thursday, 8:15 p.m. ET, Prime Video. Panthers jersey scheduled, Packers expected.** Carolina published a jersey for all 17 games on September 4, and every road game is **white**, this one included. The helmet (black or silver) and pants are announced closer to kickoff. Green Bay has not published a game-by-game schedule, and we expect the standard home look at Lambeau: **gold helmet, green jersey, gold pants**. Green and gold against white, under the lights. Our matchup grade: **B+**. See the [Panthers 2026 uniform schedule](/stories/panthers-uniform-schedule-2026) and the [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
+**Thursday, 8:15 p.m. ET, Prime Video. Panthers confirmed, Packers expected.** Carolina posted its Game Threads on Wednesday: **silver helmet, white jersey, white pants and blue socks**, all white and silver at Lambeau.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Panthers/status/2115497115115983341"></a></blockquote>
+</div>
+
+ Green Bay has not published a game-by-game schedule, and we expect the standard home look at Lambeau: **gold helmet, green jersey, gold pants**. Green and gold against white, under the lights. Our matchup grade: **B+**. See the [Panthers 2026 uniform schedule](/stories/panthers-uniform-schedule-2026) and the [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
 
 ### Philadelphia Eagles at Washington Commanders: Sunday Night Football
 
@@ -75,9 +81,15 @@ The teal helmet is the best piece of the set, and the cream against royal blue s
 
 ### Chicago Bears at Seattle Seahawks: Monday Night Football
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bears-white-road.jpg" alt="Chicago Bears white road jersey, expected at Seattle on Monday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bears · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-navy-home.jpg" alt="Seattle Seahawks college navy home jersey, expected against the Bears on Monday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Seahawks · Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bears-white-road.jpg" alt="Chicago Bears white road jersey, expected at Seattle on Monday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bears · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-navy-home.jpg" alt="Seattle Seahawks college navy home jersey, expected against the Bears on Monday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Seahawks · Confirmed</figcaption></figure></div>
 
-**Monday, 8:15 p.m. ET, ESPN. Expected on both sides.** Seattle is expected in its **college navy** home set with the action green numbers, and Chicago in **white** under the navy helmet. Seattle's royal blue throwback already had its three primetime dates set, and this is not one of them. Navy and green against white and orange is a clean Monday night frame. Our matchup grade: **B**. See the [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) and the [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026).
+**Monday, 8:15 p.m. ET, ESPN. Seahawks confirmed, Bears expected.** Seattle announced **navy and grey** for Monday night: the navy helmet, the college navy jersey with action green numbers and **grey pants**. Chicago is expected in **white** under the navy helmet.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2115587643509723630"></a></blockquote>
+</div>
+
+ Seattle's royal blue throwback already had its three primetime dates set, and this is not one of them. Navy and green against white and orange is a clean Monday night frame. Our matchup grade: **B**. See the [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) and the [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026).
 
 ## Also Worth Watching
 
@@ -151,7 +163,7 @@ For the rest of the season's looks, see the [Jets 2026 uniform schedule](/storie
 
 ### Thursday, October 29
 
-- **Carolina Panthers at Green Bay Packers**, 8:15 p.m. ET, Prime Video. Panthers: white jersey (scheduled), helmet and pants announced game week. Packers: gold helmet, green jersey, gold pants (expected). Matchup grade: B+.
+- **Carolina Panthers at Green Bay Packers**, 8:15 p.m. ET, Prime Video. Panthers: silver helmet, white jersey, white pants (confirmed). Packers: gold helmet, green jersey, gold pants (expected). Matchup grade: B+.
 
 ### Sunday, November 1
 
@@ -170,7 +182,7 @@ For the rest of the season's looks, see the [Jets 2026 uniform schedule](/storie
 
 ### Monday, November 2
 
-- **Chicago Bears at Seattle Seahawks**, 8:15 p.m. ET, ESPN. Bears: navy helmet, white jersey (expected). Seahawks: college navy (expected). Matchup grade: B.
+- **Chicago Bears at Seattle Seahawks**, 8:15 p.m. ET, ESPN. Bears: navy helmet, white jersey (expected). Seahawks: navy helmet, college navy jersey, grey pants (confirmed). Matchup grade: B.
 
 ### Byes
 
