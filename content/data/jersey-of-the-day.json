@@ -170,40 +170,36 @@
    "imageFit": "contain"
   },
   "2026-10-30": {
-   "team": "Tampa Bay Rays",
-   "teamShort": "Rays",
-   "league": "MLB",
-   "season": "2026",
-   "edition": "Road",
-   "jerseyName": "TAMPA BAY Road Gray",
-   "image": "/images/posts/rays-new-gray-road-uniform/cover.jpg",
-   "imageAlt": "Tampa Bay Rays gray road uniform with TAMPA BAY across the chest in a blue to green to yellow gradient wordmark and the navy ray logo beneath it",
-   "imagePosition": "center 60%",
+   "team": "Philadelphia 76ers",
+   "teamShort": "76ers",
+   "league": "NBA",
+   "season": "2026-27",
+   "edition": "Statement Edition",
+   "jerseyName": "Red Statement Edition",
+   "image": "/images/posts/nba-daily-tracker/76ers-statement.jpg",
+   "imageAlt": "Philadelphia 76ers red Statement Edition jersey with white Phila script and blue side panels with white stars",
+   "imagePosition": "center center",
    "credit": {
-    "text": "Tampa Bay Rays"
+    "text": "Product image"
    },
    "worn": {
     "date": "2026-10-30",
-    "matchup": "at Milwaukee Brewers, World Series Game 6 (if necessary)",
-    "status": "Expected",
-    "note": "Only played if the Series reaches Game 6. The Brewers lead 2-0."
+    "matchup": "vs New York Knicks, Prime Video",
+    "status": "Announced",
+    "note": "On the 76ers' published schedule: red Statement at home, Knicks in white."
    },
-   "why": "TAMPA BAY in a blue to green to yellow gradient finally gave the Rays a road gray worth a World Series.",
+   "why": "Red Phila script, blue star panels down the side and the Knicks in white on national TV. It's the 76ers' first red night of the season.",
    "whyPlaceholder": true,
-   "_editorNote": "IF NECESSARY. Brewers lead the Series 2-0 after Game 2. If the Series ends before Game 6 (Game 4 on Oct 27 or Game 5 on Oct 28), replace this day with a jersey worn Oct 30.",
-   "story": "Tampa Bay revealed this gray on September 21 and debuted it the next day against the Yankees. It is the Rays' first road gray since 2023: TAMPA BAY arched across the chest in a gradient that runs light blue into green into yellow, the ray mark underneath and navy piping everywhere else. It has been their road jersey in every road game this postseason, including Games 1 and 2 in Milwaukee.",
-   "scheduleSlug": "rays-uniform-schedule-2026",
-   "scheduleLabel": "Rays 2026 uniform schedule",
+   "story": "The 76ers have opened 2026-27 in their blue Icon and white Association jerseys. Friday is the first scheduled night for the red Statement Edition: white Phila script, white numbers trimmed in blue, and blue side panels with white stars. The Knicks wear white, and it is the second Sixers-Knicks game of the season after Philadelphia won 106-100 at Madison Square Garden on opening night.",
+   "scheduleSlug": "76ers-uniform-schedule-2026-27",
+   "scheduleLabel": "76ers 2026-27 uniform schedule",
    "related": [
     {
-     "slug": "rays-new-gray-road-uniform",
-     "label": "The Rays' new road gray, graded A"
-    },
-    {
-     "slug": "world-series-uniforms-2026",
-     "label": "World Series uniforms, game by game"
+     "slug": "nba-uniform-tracker-2026-27",
+     "label": "NBA uniform tracker: every game, every jersey"
     }
-   ]
+   ],
+   "imageFit": "contain"
   },
   "2026-10-31": {
    "team": "Nebraska Cornhuskers",
