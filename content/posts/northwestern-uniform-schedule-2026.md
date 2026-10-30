@@ -3,7 +3,7 @@ title: "Northwestern Uniform Schedule 2026: Every Jersey and When the Wildcats W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-10-30"
 excerpt: "What Northwestern wears every game in 2026: the purple home set, the white road look, the new Purple Gothics alternate, and every game week by week."
 gradient: "linear-gradient(135deg, #4E2A84 0%, #6b3fa0 55%, #B6862C 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Northwestern ran through ten different uniform combinations last season, so "purple at home, white on the road" only gets you halfway. This is the full Northwestern 2026 uniform schedule: the purple home set, the white road set, the black Gothics, the brand new Purple Gothics alternate that has a debut date already circled, and a week-by-week outlook for all twelve games. The season also splits across two stadiums, because the new Ryan Field opens in October. We update this page as each combination is confirmed.
+
+**Update, October 30:** Northwestern will wear **all white at Oregon on Halloween**, a white helmet, white jersey and white pants the team calls "Stormtroopers for Halloween."
 
 **Update, October 24:** Northwestern went **all purple against Rutgers**, purple helmet, purple jersey and purple pants, confirmed from the team's halftime graphic, and won **42-14**.
 
@@ -67,7 +69,7 @@ One more thing shapes this schedule, and it is not a jersey. Northwestern played
   <div style="background: #4E2A84; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ball State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / Black</div></div>
   <div style="background: #ffffff; color: #4E2A84; border: 2px solid #4E2A84; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
   <div style="background: #3b1f66; color: #ffffff; border: 2px solid #B6862C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / Purple / Purple</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #4E2A84; border: 2px solid #4E2A84; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #4E2A84; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -100,7 +102,11 @@ One more thing shapes this schedule, and it is not a jersey. Northwestern played
 
 **October 24 vs. Rutgers.** Purple Gothics. This is the announced debut for the new alternate, at home against Rutgers, which makes it the one date on the whole board where we already know the jersey. Rutgers is in white. The [Rutgers 2026 uniform schedule](/stories/rutgers-uniform-schedule-2026) covers the Scarlet Knights. **Worn: purple helmet, purple jersey and purple pants**, from the team's halftime graphic. We could not confirm from that graphic whether the jersey was the new Gothic alternate. **Final: Northwestern 42, Rutgers 14.**
 
-**October 31 at Oregon.** White expected. Halloween at Autzen Stadium, against the one program in the country that changes uniforms more often than Northwestern does. The [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) is worth reading alongside this one.
+**October 31 at Oregon**, 3:30 p.m. ET on Peacock. ★ Confirmed by Northwestern: **all white, "Stormtroopers for Halloween."** The team posted its "Game 8 combo" on Thursday: a **white helmet with the purple N and WILDCATS on the front bumper, a white jersey with NORTHWESTERN and purple numbers and purple shoulder stripes, and white pants**. Halloween at Autzen Stadium, against the one program in the country that changes uniforms more often than Northwestern does, and Oregon has posted a matte black helmet with white wings, a black jersey and white pants, so it is white against black. Every Halloween look is in [our Week 9 uniform guide](/stories/college-football-week-9-uniforms-2026), and the [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) has the Ducks' side.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NUFBFamily/status/2115930499138961720"></a></blockquote>
+</div>
 
 **November 7 vs. Iowa.** Purple expected. Iowa in white at Ryan Field. See the [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026).
 
@@ -118,7 +124,7 @@ Northwestern is the rare program where the uniform is genuinely part of the week
 
 **What jersey is Northwestern wearing this week?**
 
-Northwestern wore a purple helmet, purple jersey and purple pants against Rutgers on Saturday, October 24, confirmed from the team's halftime graphic, and won 42-14. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
+All white at Oregon on Saturday, October 31: a white helmet with the purple N, a white jersey and white pants, posted by Northwestern on Thursday as "Stormtroopers for Halloween." Oregon is in a black helmet, black jersey and white pants. Every Week 9 look is in our [Week 9 college uniform guide](/stories/college-football-week-9-uniforms-2026). Last week Northwestern wore a purple helmet, purple jersey and purple pants against Rutgers and won 42-14. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
 
 **What are Northwestern's football uniforms for 2026?**
 

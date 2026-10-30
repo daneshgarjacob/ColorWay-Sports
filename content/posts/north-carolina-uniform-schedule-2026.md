@@ -3,7 +3,7 @@ title: "North Carolina Uniform Schedule 2026: Every Jersey, Starting With Dublin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-25"
+updatedDate: "2026-10-30"
 excerpt: "What North Carolina wears every game in 2026, starting with the Dublin opener against TCU, plus the 1980 throwbacks for Notre Dame and the Kenan 100 season."
 gradient: "linear-gradient(135deg, #4B9CD3 0%, #13294B 60%, #ffffff 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 North Carolina opens the 2026 season in Dublin, and it is the first game of the entire college football season. This is the full North Carolina 2026 uniform schedule: the opener combination, the Carolina blue and white sets, the 100th season of Kenan Stadium, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, October 30:** North Carolina will wear **all Carolina blue against No. 1 Miami on Halloween**, a Carolina blue helmet, jersey and pants, posted by the team as "The attire for Halloween night."
 
 **Update, October 24:** North Carolina wore a **Carolina blue helmet and Carolina blue jersey** against Syracuse, confirmed from the team's game photos, and lost **31-30 in overtime**.
 
@@ -66,7 +68,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
   <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue Helmet / Blue Jersey</div></div>
-  <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #4B9CD3; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -95,7 +97,11 @@ See our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-
 
 **October 24 vs. Syracuse**, Kenan Stadium. Family Football Day. Carolina blue expected. **Worn: Carolina blue helmet and Carolina blue jersey**, confirmed from the team's game photos. Syracuse wore an orange helmet, white jersey and orange pants. **Final: Syracuse 31, North Carolina 30 (OT).**
 
-**October 31 vs. Miami**, Kenan Stadium. Rams Club Day. Carolina blue expected.
+**October 31 vs. Miami**, Kenan Stadium, 7:30 p.m. ET on ABC. Rams Club Day. ★ Confirmed by North Carolina: **all Carolina blue.** The team posted "The attire for Halloween night" on Thursday with a "Game Eight Uniform" graphic: a **Carolina blue helmet with the UNC logo and a white facemask, a Carolina blue jersey with white numbers outlined in navy and argyle trim at the collar and sleeves, and Carolina blue pants with an argyle side stripe**. The graphic is printed in a blue tint, but the white numbers and facemask read white, so the blue on the helmet, jersey and pants is the real color. No. 1 Miami is expected in white. Every Halloween look is in [our Week 9 uniform guide](/stories/college-football-week-9-uniforms-2026), and the [Miami 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026) has the Hurricanes' side.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UNCFootball/status/2115918199724327010"></a></blockquote>
+</div>
 
 **November 7 at UConn**, Rentschler Field, noon on CBS Sports Network. White expected. More: [UConn uniform schedule](/stories/uconn-uniform-schedule-2026).
 

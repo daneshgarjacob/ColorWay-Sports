@@ -5,7 +5,7 @@ category: "College"
 homepageHero: "2026-10-31"
 date: "2026-10-27"
 updatedDate: "2026-10-30"
-excerpt: "College football Halloween uniforms for Week 9: Nebraska's new black alternate debuts against Washington, Syracuse puts Otto on the helmet, BYU goes all navy, UCF wears its Space Game set and Navy brings out its 1926 throwback against Notre Dame. Every announced look and every Top 25 game."
+excerpt: "College football Halloween uniforms for Week 9: Nebraska's new black alternate debuts against Washington, Syracuse puts Otto on the helmet, BYU goes all navy, UCF wears its Space Game set, Navy brings out its 1926 throwback against Notre Dame, Northwestern goes all white at Oregon and TCU blacks out against Kansas. Every announced look and every Top 25 game."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #3a1d08 60%, #F28C28 130%)"
 coverImage: "/images/posts/college-football-week-9-uniforms-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -20,7 +20,7 @@ teams: ["nebraska-cornhuskers", "washington-huskies", "ucf-knights", "baylor-bea
 resurfaceOnUpdate: true
 ---
 
-Halloween falls on a Saturday this year, and college football is dressing for it. Week 9 of the 2026 season has the best set of Halloween uniforms we have seen in years. **Nebraska debuts its new black alternate against Washington** in the second Blackout game at Memorial Stadium. **Syracuse wears an Otto the Orange helmet for the first time ever** against No. 19 SMU. **No. 8 BYU goes all navy** for Arizona State, **UCF wears its tenth Space Game uniform** against Baylor on Friday night, and **Navy wears its 1926 national championship throwback against No. 5 Notre Dame** at Gillette Stadium. Iowa State, UNLV, East Carolina and Louisville have all announced something different, and Fresno State is going all black for Fright Night. On the field, No. 3 Georgia and No. 17 Florida meet in Atlanta, No. 2 Ohio State visits USC on Saturday night, and No. 1 Miami goes to North Carolina.
+Halloween falls on a Saturday this year, and college football is dressing for it. Week 9 of the 2026 season has the best set of Halloween uniforms we have seen in years. **Nebraska debuts its new black alternate against Washington** in the second Blackout game at Memorial Stadium. **Syracuse wears an Otto the Orange helmet for the first time ever** against No. 19 SMU. **No. 8 BYU goes all navy** for Arizona State, **UCF wears its tenth Space Game uniform** against Baylor on Friday night, and **Navy wears its 1926 national championship throwback against No. 5 Notre Dame** at Gillette Stadium. Iowa State, UNLV, East Carolina and Louisville have all announced something different, and Fresno State is going all black for Fright Night. **No. 20 Northwestern goes all white at Oregon**, a look it calls "Stormtroopers for Halloween," against the Ducks in black. **TCU goes all black** against Kansas, **North Carolina goes all Carolina blue** against No. 1 Miami, and **Arizona State brings a black helmet** to Provo. On the field, No. 3 Georgia and No. 17 Florida meet in Atlanta, No. 2 Ohio State visits USC on Saturday night, and No. 1 Miami goes to North Carolina.
 
 Below is every Halloween uniform announced so far, then every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it. When a school has not posted yet, we give our projection from that team's uniform schedule and label it **Expected**. Most schools post their combination between Monday and game day, so this page fills in all week, and on Saturday we confirm every look from the game broadcasts and team photos, then add final scores. Rankings are from this week's AP poll. All times are Eastern. Last week's looks and final scores are in our [Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026).
 
@@ -40,6 +40,10 @@ Below is every Halloween uniform announced so far, then every game this week inv
 - **Tulane: the Wumbo is back (Confirmed).** White helmet with an oversized green Angry Wave, Friday at Charlotte.
 - **Maryland: red, black, black (Confirmed).** Red helmet, black jersey, black pants, "dressed for spooky season," vs. Illinois.
 - **Fresno State: "Fright Night" blackout (Reported).** A black "Dark mode" helmet with silver crossbones on a team wallpaper; Sports Illustrated reports all black with matte helmets, vs. Oregon State.
+- **Northwestern: "Stormtroopers for Halloween" (Confirmed).** White helmet with the purple N, white jersey, white pants, at Oregon.
+- **TCU: all black (Confirmed).** Black helmet with the white TCU and horned frog, black jersey, black pants, vs. Kansas, for "Black Out The Carter."
+- **North Carolina: all Carolina blue (Confirmed).** Carolina blue helmet, Carolina blue jersey, Carolina blue pants with argyle trim, "The attire for Halloween night," vs. No. 1 Miami.
+- **Arizona State: black helmet (Confirmed).** Black helmet with Sparky, white jersey, black pants, "Dressed for the occasion," at No. 8 BYU.
 
 ## Games of the Week
 
@@ -73,10 +77,28 @@ Syracuse has only shown the helmet. It wore the navy jersey and orange pants in 
 
 **Saturday, 3:30 p.m. (1:30 p.m. Mountain), FOX.** **BYU: Confirmed, all navy.** BYU posted "this week's uni combo" on Monday with a Gameday Threads, Game 08, vs Arizona State graphic: a navy helmet with a navy and white center stripe, the white oval Y and a navy facemask, a navy jersey with white numbers, white shoulder stripes and the oval Y set in the collar, and navy pants with white side stripes. White is the only other color on the uniform. BYU is coming off its first loss of the season, 39-31 in double overtime at UCF.
 
-**Arizona State: Expected, white.** The Sun Devils had not posted a look as of Tuesday. Full breakdown: [BYU goes all navy vs. Arizona State](/stories/byu-all-navy-uniforms-arizona-state-2026). More: [BYU schedule](/stories/byu-uniform-schedule-2026) and [Arizona State schedule](/stories/arizona-state-uniform-schedule-2026).
+**Arizona State: Confirmed, black helmet, white jersey, black pants.** The Sun Devils posted "Dressed for the occasion," their Game 8 uniforms at BYU, on Thursday, then "The Devil in the details" with the photos: a **black helmet with Sparky on the side, SUN DEVILS on the front bumper and a black facemask**, a **white jersey with ARIZONA STATE across the chest in maroon and maroon numbers trimmed in gold**, and **black pants**. Against BYU's all navy that reads cleanly: navy against white in the jerseys, with a dark helmet and dark pants on both sides, so the contrast is in the tops. Full breakdown: [BYU goes all navy vs. Arizona State](/stories/byu-all-navy-uniforms-arizona-state-2026). More: [BYU schedule](/stories/byu-uniform-schedule-2026) and [Arizona State schedule](/stories/arizona-state-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2114812629210612155"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ASUFootball/status/2115956849560187003"></a></blockquote>
+</div>
+
+### No. 20 Northwestern at Oregon: Stormtroopers vs. Black
+
+**Saturday, 3:30 p.m. (12:30 p.m. Pacific), Peacock.** **Northwestern: Confirmed, all white.** Northwestern posted "Stormtroopers for Halloween. Game 8 combo" with three white circles on Thursday: a **white helmet with the purple N and WILDCATS on the front bumper**, a **white jersey with NORTHWESTERN across the chest, purple numbers and purple shoulder stripes**, and **white pants**.
+
+**Oregon: Confirmed, black helmet with white wings.** Oregon posted "Bold by design" on Wednesday: a **matte black helmet with white wings and a black facemask**, a **black jersey with silver numbers outlined in green**, and **white pants**. So it is white head to toe against black over white, and both teams share the white pants. More: [Northwestern schedule](/stories/northwestern-uniform-schedule-2026) and [Oregon schedule](/stories/oregon-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NUFBFamily/status/2115930499138961720"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2115594518598676950"></a></blockquote>
 </div>
 
 ### Baylor at UCF: The Tenth Space Game
@@ -125,6 +147,14 @@ The reveal photo shows a **white helmet with a red center stripe and a chrome go
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CowboyFB/status/2115559361724502104"></a></blockquote>
 </div>
 
+### Kansas at TCU: Black Out The Carter
+
+**Saturday, 3:30 p.m. (2:30 p.m. Central), FS1.** **TCU: Confirmed, all black.** TCU called the game "Black Out The Carter" on Monday and asked fans to wear black, then posted three black squares on Friday morning: a **black helmet with the white TCU and horned frog logo**, a **black jersey with white numbers** and **black pants**, with purple gloves. TCU has not said whether this is the Frog Horn black it wore in Dublin, so we are not calling it that. **Kansas: Expected, white.** Kansas had not posted its look as of Friday afternoon. More: [TCU schedule](/stories/tcu-uniform-schedule-2026) and [Kansas schedule](/stories/kansas-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TCUFootball/status/2116173734629278037"></a></blockquote>
+</div>
+
 ### Northern Illinois at UNLV: Black Is Back
 
 **Saturday, 10:30 p.m. (7:30 p.m. Pacific), CBSSN, at Allegiant Stadium.** **UNLV: Confirmed, red helmet and black jersey.** UNLV posted "Black is back" on Tuesday with a casino-themed video. It shows a red helmet with the white UNLV wordmark on the side, a black jersey with REBELS across the chest in white trimmed in red, white numbers trimmed in red and the UNLV logo on the chest, and black pants in the full-length shot. UNLV also called the game "Halloween under the lights." More: [UNLV schedule](/stories/unlv-uniform-schedule-2026).
@@ -165,6 +195,18 @@ The reveal photo shows a **white helmet with a red center stripe and a chrome go
 
 **Saturday, 3:30 p.m., ABC, at Mercedes-Benz Stadium.** The rivalry moves to Atlanta this year while EverBank Stadium in Jacksonville is renovated. **Florida: Expected, orange helmet, white jersey, white pants.** That comes from Florida's own published 2026 uniform schedule, but Florida switched to the blue helmet at Texas after listing orange, so we will wait for the game-week post. **Georgia: Expected, red jersey.** More: [Georgia schedule](/stories/georgia-uniform-schedule-2026) and [Florida schedule](/stories/florida-uniform-schedule-2026).
 
+### No. 1 Miami at North Carolina: White vs. Carolina Blue
+
+**Saturday, 7:30 p.m., ABC.** **North Carolina: Confirmed, all Carolina blue.** North Carolina posted "The attire for Halloween night" on Thursday with a "Game Eight Uniform" graphic: a **Carolina blue helmet with the UNC logo and a white facemask**, a **Carolina blue jersey with white numbers outlined in navy and argyle trim at the collar and sleeves**, and **Carolina blue pants with an argyle side stripe**. The graphic is printed in a blue tint, but the white numbers and facemask read white, so the blue on all three pieces is the real color. **Miami: Confirmed, all white.** Miami posted "All white, all business" with its Week 9 uniform combo: white helmet, white jersey, white pants. More: [North Carolina schedule](/stories/north-carolina-uniform-schedule-2026) and [Miami schedule](/stories/miami-hurricanes-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UNCFootball/status/2115918199724327010"></a></blockquote>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2115819312615391646"></a></blockquote>
+</div>
+
 ### No. 2 Ohio State at USC: Saturday Night at the Coliseum
 
 **Saturday, 7:30 p.m. (4:30 p.m. Pacific), NBC.** Neither team has posted yet. **USC: Expected, cardinal. Ohio State: Expected, white.** More: [Ohio State schedule](/stories/ohio-state-uniform-schedule-2026) and [USC schedule](/stories/usc-uniform-schedule-2026).
@@ -175,6 +217,7 @@ The reveal photo shows a **white helmet with a red center stripe and a chrome go
 - **Air Force** is calling for a blackout against UConn and posted that "the Space Force look is set," with a Space Force merch relaunch. It has not shown a game uniform.
 - **Boise State** calls its night game against Texas State "The Blue After Dark," with a T-shirt giveaway, a trunk-or-treat tailgate and costumes encouraged. That is a fan theme, not a uniform.
 - **Indiana** has Homecoming against Minnesota, and ESPN's College GameDay is coming to Bloomington. Indiana posted "It's Homecoming week in Bloomington" on Tuesday with a game-week graphic, but no uniform yet. Indiana usually shows its combination later in the week.
+- **Idaho**, from the FCS Big Sky, posted its "Halloween Game Threads" for Saturday at Portland State in Hillsboro, Ore. (4 p.m., ESPN+): a **silver helmet** with the Joe Vandal logo, a **white jersey** with IDAHO across the chest and black numbers trimmed in gold, and **black pants** ([team post](https://x.com/VandalFootball/status/2115942018795122735)).
 - **Duke** is promoting a costume contest at Wallace Wade Stadium against Boston College.
 - **Homecoming watch:** Indiana, Iowa, Arkansas and NC State all have Homecoming on Halloween.
 
@@ -283,16 +326,16 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Indiana: **Expected**, crimson. It is Homecoming, the date Indiana has used for something different before.
 
 **[Arizona State](/stories/arizona-state-uniform-schedule-2026) at No. 8 [BYU](/stories/byu-uniform-schedule-2026)**, 3:30 p.m., FOX.
-- Arizona State: **Expected**, white.
+- Arizona State: **Confirmed**, black helmet with Sparky, white jersey, black pants. See above.
 - BYU: **Confirmed**, all navy. See above.
 
 **No. 20 [Northwestern](/stories/northwestern-uniform-schedule-2026) at [Oregon](/stories/oregon-uniform-schedule-2026)**, 3:30 p.m., Peacock.
-- Northwestern: **Expected**, white.
+- Northwestern: **Confirmed**, all white: white helmet, white jersey, white pants, "Stormtroopers for Halloween." See above.
 - Oregon: **Confirmed**, matte black helmet with white wings, black jersey with silver numbers outlined in green, white pants. Posted by Oregon on Wednesday as "Bold by design."
 
 **[Kansas](/stories/kansas-uniform-schedule-2026) at [TCU](/stories/tcu-uniform-schedule-2026)**, 3:30 p.m., FS1.
 - Kansas: **Expected**, white.
-- TCU: **Expected**, purple, with Halloween the obvious slot for its black set.
+- TCU: **Confirmed**, all black: black helmet, black jersey, black pants, for "Black Out The Carter." See above.
 
 **[Colorado State](/stories/colorado-state-uniform-schedule-2026) at [Utah State](/stories/utah-state-uniform-schedule-2026)**, 3:30 p.m., USA Network.
 - Colorado State: **Expected**, white.
@@ -342,8 +385,8 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - San Diego State: **Expected**, black.
 
 **No. 1 [Miami](/stories/miami-hurricanes-uniform-schedule-2026) at [North Carolina](/stories/north-carolina-uniform-schedule-2026)**, 7:30 p.m., ABC.
-- Miami: **Expected**, white.
-- North Carolina: **Expected**, Carolina blue.
+- Miami: **Confirmed**, white helmet, white jersey, white pants. See above.
+- North Carolina: **Confirmed**, all Carolina blue: Carolina blue helmet, jersey and pants. See above.
 
 **No. 2 [Ohio State](/stories/ohio-state-uniform-schedule-2026) at [USC](/stories/usc-uniform-schedule-2026)**, 7:30 p.m., NBC.
 - Ohio State: **Expected**, white.
@@ -384,13 +427,13 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 ## The Bottom Line
 
-Halloween on a Saturday has brought out the best uniform week of 2026. Nebraska's black alternate with the red Huskers script is the headliner, Syracuse's Otto helmet is the most fun, BYU's all navy and Iowa State's blackout are the cleanest, and Navy's 1926 throwback against Notre Dame is the one with the most history behind it. UCF adds its tenth Space Game on Friday, and UNLV, East Carolina, Louisville and Fresno State all have something new. Most of the Top 25 has not posted yet, so check back: we add every combination as it is announced and confirm all of them, with final scores, on Saturday.
+Halloween on a Saturday has brought out the best uniform week of 2026. Nebraska's black alternate with the red Huskers script is the headliner, Syracuse's Otto helmet is the most fun, BYU's all navy and Iowa State's blackout are the cleanest, and Navy's 1926 throwback against Notre Dame is the one with the most history behind it. UCF adds its tenth Space Game on Friday, and UNLV, East Carolina, Louisville and Fresno State all have something new. Northwestern's all-white Stormtroopers against Oregon's black is the best contrast of the afternoon, and TCU's blackout and North Carolina's all Carolina blue against Miami fill out the evening. Most of the Top 25 has not posted yet, so check back: we add every combination as it is announced and confirm all of them, with final scores, on Saturday.
 
 ## Frequently Asked Questions
 
 **What college football teams are wearing Halloween uniforms in 2026?**
 
-The announced Halloween weekend looks are Nebraska's new black alternate against Washington, Syracuse's first-ever Otto helmet against SMU, BYU's all navy against Arizona State, UCF's Mission X Space Game set against Baylor, Navy's 1926 throwback against Notre Dame, Iowa State's black "halloween threads" against Oklahoma State, UNLV's black jersey against Northern Illinois, East Carolina's marching PeeDee helmet against Temple, Louisville's For The Ville set against Stanford and Maryland's red helmet with a black jersey and black pants against Illinois. Fresno State is teasing a new look for Oregon State.
+The announced Halloween weekend looks are Nebraska's new black alternate against Washington, Syracuse's first-ever Otto helmet against SMU, BYU's all navy against Arizona State, UCF's Mission X Space Game set against Baylor, Navy's 1926 throwback against Notre Dame, Iowa State's black "halloween threads" against Oklahoma State, UNLV's black jersey against Northern Illinois, East Carolina's marching PeeDee helmet against Temple, Louisville's For The Ville set against Stanford and Maryland's red helmet with a black jersey and black pants against Illinois, Northwestern's all white "Stormtroopers" at Oregon, Oregon's black helmet with white wings, TCU's all black against Kansas, North Carolina's all Carolina blue against Miami and Arizona State's black helmet at BYU. Fresno State is reported to be in all black for Fright Night against Oregon State.
 
 **What is Nebraska wearing against Washington?**
 
@@ -406,7 +449,19 @@ A white helmet with a cartoon Otto the Orange decal, an orange center stripe tri
 
 **What is BYU wearing against Arizona State?**
 
-All navy: a navy helmet with a navy and white stripe and the white oval Y, a navy jersey with white numbers and navy pants with white side stripes. BYU announced it on Monday of game week. More in [BYU goes all navy vs. Arizona State](/stories/byu-all-navy-uniforms-arizona-state-2026).
+All navy: a navy helmet with a navy and white stripe and the white oval Y, a navy jersey with white numbers and navy pants with white side stripes. BYU announced it on Monday of game week. More in [BYU goes all navy vs. Arizona State](/stories/byu-all-navy-uniforms-arizona-state-2026). Arizona State counters with a black helmet with Sparky, a white jersey and black pants.
+
+**What is Northwestern wearing at Oregon?**
+
+All white: a white helmet with the purple N, a white jersey with purple numbers and shoulder stripes, and white pants. Northwestern posted it on Thursday as "Stormtroopers for Halloween." Oregon wears a matte black helmet with white wings, a black jersey and white pants.
+
+**Is TCU wearing black against Kansas?**
+
+Yes. TCU is all black for "Black Out The Carter": a black helmet with the white TCU and horned frog, a black jersey and black pants, posted by the team on Friday morning.
+
+**What is North Carolina wearing against Miami?**
+
+All Carolina blue: a Carolina blue helmet, Carolina blue jersey and Carolina blue pants with argyle trim, posted by the team as "The attire for Halloween night." Miami is in all white. Kickoff is 7:30 p.m. Eastern on ABC.
 
 **When is the UCF Space Game in 2026, and what is UCF wearing?**
 

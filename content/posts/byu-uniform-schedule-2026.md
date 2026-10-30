@@ -3,7 +3,7 @@ title: "BYU Uniform Schedule 2026: Every Jersey and When the Cougars Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-26"
+updatedDate: "2026-10-30"
 excerpt: "What BYU wears every game in 2026: royal home jerseys, white road uniforms, navy looks, helmet swaps, and the full Cougars uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002E5D 0%, #0062B8 55%, #ffffff 130%)"
 cardStyle: words
@@ -76,7 +76,7 @@ See the [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026) for the 
 
 **October 24 at UCF.** White expected. A road trip to Orlando and the Acrisure Bounce House. **Worn: royal blue helmet, white jersey, white pants**, posted as "road whites looking clean" and confirmed from the team's game photos. UCF wore a gold helmet, black jersey and black pants for Homecoming. **Final: UCF 39, BYU 31 (2OT).**
 
-**October 31 vs. Arizona State**, LaVell Edwards Stadium, 1:30 p.m. Mountain on FOX. Announced: **navy helmet, navy jersey, navy pants**. BYU revealed it on Monday of game week as "this week's uni combo," with a Gameday Threads, Game 08, vs Arizona State graphic: a navy helmet with a navy and white center stripe, the white oval Y and a navy facemask, a navy jersey with white numbers and the oval Y in the collar V, and navy pants with white side stripes. The Big 12 and Entrata patches are on the jersey. It is not the royal we expected, and it goes further than the Iowa State look, which paired the navy jersey with a white helmet and white pants. We will star it once we see it on the broadcast. The Sun Devils are expected in white; see the [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026).
+**October 31 vs. Arizona State**, LaVell Edwards Stadium, 1:30 p.m. Mountain on FOX. Announced: **navy helmet, navy jersey, navy pants**. BYU revealed it on Monday of game week as "this week's uni combo," with a Gameday Threads, Game 08, vs Arizona State graphic: a navy helmet with a navy and white center stripe, the white oval Y and a navy facemask, a navy jersey with white numbers and the oval Y in the collar V, and navy pants with white side stripes. The Big 12 and Entrata patches are on the jersey. It is not the royal we expected, and it goes further than the Iowa State look, which paired the navy jersey with a white helmet and white pants. We will star it once we see it on the broadcast. Arizona State has posted its look: a **black helmet with Sparky, a white jersey and black pants**, so it is navy against white with dark helmets on both sides; see the [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2114812629210612155"></a></blockquote>

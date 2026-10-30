@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { LinkedInIcon, XIcon } from "@/components/FollowCard";
+import { InstagramIcon, LinkedInIcon, TikTokIcon, XIcon } from "@/components/FollowCard";
 
 const navLinks = [
   { label: "Home", href: "/" },
@@ -9,24 +9,6 @@ const navLinks = [
   { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },
 ];
-
-function InstagramIcon({ className = "w-[16px] h-[16px]" }: { className?: string }) {
-  return (
-    <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
-      <rect x="3" y="3" width="18" height="18" rx="5" />
-      <circle cx="12" cy="12" r="4.2" />
-      <circle cx="17.3" cy="6.7" r="1.1" fill="currentColor" stroke="none" />
-    </svg>
-  );
-}
-
-function TikTokIcon({ className = "w-[15px] h-[15px]" }: { className?: string }) {
-  return (
-    <svg viewBox="0 0 24 24" className={className} fill="currentColor" aria-hidden="true">
-      <path d="M16.6 2h-3.3v13.4a2.9 2.9 0 1 1-2.9-2.9c.3 0 .6 0 .9.1V9.2a6.3 6.3 0 1 0 5.3 6.2V8.6a7.9 7.9 0 0 0 4.4 1.4V6.6A4.6 4.6 0 0 1 16.6 2Z" />
-    </svg>
-  );
-}
 
 function FacebookIcon({ className = "w-[17px] h-[17px]" }: { className?: string }) {
   return (

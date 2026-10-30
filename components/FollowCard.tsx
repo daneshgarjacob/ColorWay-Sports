@@ -14,7 +14,25 @@ export function LinkedInIcon({ className = "w-[15px] h-[15px]" }: { className?: 
   );
 }
 
-/** End-of-article "Follow ColorWay Sports" card (Jake approved the mock 9/14). */
+export function InstagramIcon({ className = "w-[16px] h-[16px]" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+      <rect x="3" y="3" width="18" height="18" rx="5" />
+      <circle cx="12" cy="12" r="4.2" />
+      <circle cx="17.3" cy="6.7" r="1.1" fill="currentColor" stroke="none" />
+    </svg>
+  );
+}
+
+export function TikTokIcon({ className = "w-[15px] h-[15px]" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" className={className} fill="currentColor" aria-hidden="true">
+      <path d="M16.6 2h-3.3v13.4a2.9 2.9 0 1 1-2.9-2.9c.3 0 .6 0 .9.1V9.2a6.3 6.3 0 1 0 5.3 6.2V8.6a7.9 7.9 0 0 0 4.4 1.4V6.6A4.6 4.6 0 0 1 16.6 2Z" />
+    </svg>
+  );
+}
+
+/** End-of-article "Follow ColorWay Sports" card (Jake approved the mock 9/14; buttons switched to Instagram + TikTok 10/30). */
 export default function FollowCard() {
   return (
     <aside
@@ -30,22 +48,22 @@ export default function FollowCard() {
       </div>
       <div className="flex flex-col sm:flex-row gap-2.5 shrink-0">
         <a
-          href="https://x.com/ColorWaySports"
+          href="https://www.instagram.com/colorwaysports/"
           target="_blank"
           rel="noopener"
           className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#2f6bed] px-4 py-2.5 text-[14px] font-bold text-white hover:bg-[#2459c9] transition-colors whitespace-nowrap"
         >
-          <XIcon />
-          Follow on X
+          <InstagramIcon />
+          Follow on Instagram
         </a>
         <a
-          href="https://www.linkedin.com/company/colorwaysports/"
+          href="https://www.tiktok.com/@colorway.sports"
           target="_blank"
           rel="noopener"
           className="inline-flex items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-4 py-2.5 text-[14px] font-bold text-black hover:border-[#2f6bed] hover:text-[#2f6bed] transition-colors whitespace-nowrap"
         >
-          <LinkedInIcon />
-          Follow on LinkedIn
+          <TikTokIcon />
+          Follow on TikTok
         </a>
       </div>
     </aside>

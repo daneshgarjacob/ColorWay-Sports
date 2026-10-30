@@ -3,7 +3,7 @@ title: "Kansas Uniform Schedule 2026: Every Jersey and When the Jayhawks Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-25"
+updatedDate: "2026-10-30"
 excerpt: "What Kansas wears every game in 2026: blue home jerseys, the white road set, the red alternate, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #0051BA 0%, #1a5fc4 55%, #E8000D 130%)"
 cardStyle: words
@@ -62,7 +62,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 **October 24 vs. Baylor.** Blue expected. Homecoming weekend is the traditional slot for an alternate if one exists, so this is the home date we are watching most closely. **Worn: white helmet, royal blue jersey and royal blue pants** for Homecoming, confirmed from the team's game photos. Baylor wore a green helmet with the gold interlocking BU, a white jersey and green pants. **Final: Kansas 25, Baylor 24.**
 
-**October 31 at TCU.** White expected. Halloween in Fort Worth, and the last time Kansas visited Amon G. Carter Stadium in 2024 it went all red. Visitor rules say white this time.
+**October 31 at TCU**, 2:30 p.m. Central on FS1. White expected. Halloween in Fort Worth, and the last time Kansas visited Amon G. Carter Stadium in 2024 it went all red. Visitor rules say white this time, and Kansas has not posted a look yet. TCU has: **all black**, a black helmet, black jersey and black pants for "Black Out The Carter." The [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026) has the Frogs' side.
 
 **November 7 vs. UCF.** Blue expected.
 
@@ -80,7 +80,7 @@ Five games in, the confirmed jerseys are blue, red and black, with both helmets 
 
 **What jersey is Kansas wearing this week?**
 
-Kansas wore a white helmet, royal blue jersey and royal blue pants for Homecoming against Baylor on Saturday, October 24, confirmed from the team's game photos, and won 25-24. Next is at TCU on Halloween, October 31, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Kansas wore a white helmet, royal blue jersey and royal blue pants for Homecoming against Baylor on Saturday, October 24, confirmed from the team's game photos, and won 25-24. Next is at TCU on Halloween, October 31, where white is expected against TCU in all black. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Kansas's football uniforms for 2026?**
 

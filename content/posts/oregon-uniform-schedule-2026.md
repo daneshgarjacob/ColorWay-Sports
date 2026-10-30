@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-28"
+updatedDate: "2026-10-30"
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["oregon-ducks", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-**Update, October 28:** Oregon will wear a **matte black helmet with white wings, a black jersey and white pants** against Northwestern on Halloween, posted by the team Wednesday night.
+**Update, October 28:** Oregon will wear a **matte black helmet with white wings, a black jersey and white pants** against Northwestern on Halloween, posted by the team Wednesday night. Northwestern is coming in all white.
 
 Oregon is the one program where this page cannot be written in advance, and that is exactly why it is worth keeping. This is the full Oregon 2026 uniform schedule: the pieces in the closet, what we expect week to week, and a record of what actually goes on the field. We update this page as each combination is confirmed.
 
@@ -74,7 +74,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Illinois uniform reveal, via @GoDucks</p>
 
-**October 31 vs. Northwestern.** ★ Confirmed by Oregon ("Bold by design"): **matte black helmet with white wings and a black facemask, black jersey with silver numbers outlined in green and diamond-plate shoulders, white pants.** 3:30 p.m. Eastern on Peacock against No. 20 Northwestern.
+**October 31 vs. Northwestern.** ★ Confirmed by Oregon ("Bold by design"): **matte black helmet with white wings and a black facemask, black jersey with silver numbers outlined in green and diamond-plate shoulders, white pants.** 3:30 p.m. Eastern on Peacock against No. 20 Northwestern, which has posted an **all-white** look it calls "Stormtroopers for Halloween": white helmet, white jersey, white pants. Black against white at Autzen. The [Northwestern 2026 uniform schedule](/stories/northwestern-uniform-schedule-2026) has the Wildcats' side.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2115594518598676950"></a></blockquote>
 
