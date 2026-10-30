@@ -40,7 +40,7 @@ The Ravens are unveiling the new uniforms at a PSL event at Merriweather Post Pa
 
 The Ravens have had essentially the same uniform template since the franchise started in 1996, with tweaks along the way. The purple, black, and white color scheme has always been strong, but the jersey designs themselves have never quite matched the quality of the logo and helmet. The shield crest on the chest has looked dated for a while, and the number font has been unchanged since day one.
 
-We want to see the Ravens modernize without overthinking it. A cleaner chest design, updated number fonts, and maybe a fresh take on the sleeve striping. The Color Rush gold pants they wore a few years ago proved that this team can pull off a bold look when they want to. If the iridescent raven feather accents are real, that could be one of the most creative design details in the NFL. The key is keeping it subtle enough that the uniforms still look like football jerseys and not fashion experiments.
+We want to see the Ravens modernize without overthinking it. A cleaner chest design, updated number fonts, and maybe a fresh take on the sleeve striping. The all-purple Color Rush set they wore a few years ago proved that this team can pull off a bold look when they want to. If the iridescent raven feather accents are real, that could be one of the most creative design details in the NFL. The key is keeping it subtle enough that the uniforms still look like football jerseys and not fashion experiments.
 
 For a deeper look at how the Ravens' uniforms have evolved over the years, check out our [full Ravens uniform history post](/stories/ravens-uniform-history-every-jersey).
 

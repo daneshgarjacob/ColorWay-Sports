@@ -74,13 +74,13 @@ The Ravens have one of the most stable visual identities in the NFL. Purple, bla
 
 **2012 Super Bowl XLVII.** A new Nike-era template launched in 2012, and the Ravens wore the white road version when they beat the 49ers in Super Bowl XLVII. The collar, sleeve cuffs, and number font all updated for the modern Nike fit.
 
-**2016 Color Rush.** The Ravens went full purple top to bottom with gold pants for the Color Rush program, one of the more loved Color Rush kits across the league.
+**2016 Color Rush.** The Ravens went full purple top to bottom for the Color Rush program, purple jersey with gold numbers over purple pants with a gold and white stripe, one of the more loved Color Rush kits across the league.
 
 **2024 Purple Rising.** A metallic purple alternate helmet with gold talon stripes paired with the existing purple jersey, the first preview of where the rebrand would head a year later.
 
 **2026 The Next Flight.** Four jerseys, three helmets, the new Darkness blackout, and the biggest uniform change in franchise history.
 
-The full visual timeline covers Super Bowl XXXV in 2000, the Reebok era through 2011, the Nike era launching with Super Bowl XLVII in 2012, the Color Rush gold pants in 2016, the 2018 number font update, the 2024 Purple Rising helmet, and the 2026 The Next Flight reveal. We have a photo of every era in the [Ravens uniform history post](/stories/ravens-uniform-history-every-jersey).
+The full visual timeline covers Super Bowl XXXV in 2000, the Reebok era through 2011, the Nike era launching with Super Bowl XLVII in 2012, the all-purple Color Rush set in 2016, the 2018 number font update, the 2024 Purple Rising helmet, and the 2026 The Next Flight reveal. We have a photo of every era in the [Ravens uniform history post](/stories/ravens-uniform-history-every-jersey).
 
 ## What The Next Flight Means for Baltimore
 
