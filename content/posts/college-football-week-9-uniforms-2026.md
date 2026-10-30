@@ -2,7 +2,7 @@
 title: "College Football Halloween Uniforms 2026: Every Week 9 Look, From Nebraska's Black Debut to Syracuse's Otto Helmet"
 author: "colorway-sports-staff"
 category: "College"
-homepageHero: "2026-10-28"
+homepageHero: "2026-10-31"
 date: "2026-10-27"
 updatedDate: "2026-10-29"
 excerpt: "College football Halloween uniforms for Week 9: Nebraska's new black alternate debuts against Washington, Syracuse puts Otto on the helmet, BYU goes all navy, UCF wears its Space Game set and Navy brings out its 1926 throwback against Notre Dame. Every announced look and every Top 25 game."

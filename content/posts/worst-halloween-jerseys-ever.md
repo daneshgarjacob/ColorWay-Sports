@@ -4,15 +4,16 @@ author: "colorway-sports-staff"
 category: "Sports Design"
 date: "2026-10-29"
 updatedDate: "2026-10-29"
+homepageHero: "2026-10-30"
 excerpt: "The worst Halloween jerseys in sports, ranked: Belfast's neon-pink rave, Fife's pumpkin crest, Coventry's graveyard covered in ads, Tennessee's 2009 pumpkin suit and the Reading Royals' vampire lion. Every one shown, and our pick for the worst ever."
 gradient: "linear-gradient(135deg, #2a1640 0%, #4b2a73 55%, #ff7a1a 140%)"
-coverImage: "/images/posts/worst-halloween-jerseys-ever/belfast-giants-halloween-2026.jpg"
-coverImagePosition: "center 50%"
+coverImage: "/images/posts/worst-halloween-jerseys-ever/cover.jpg"
+coverImagePosition: "center center"
 coverImageFit: "cover"
 coverCredit:
-  author: "Belfast Giants"
-  url: "https://x.com/BelfastGiants/status/2113933554451190054"
-  license: "via the team on X"
+  author: "Reading Royals, Coventry Blaze, Fife Flyers, Tennessee Football, Belfast Giants"
+  url: "https://x.com/ReadingRoyals/status/526826459000995842"
+  license: "team images via X"
 kicker: "Ranked"
 league: "nhl"
 teams: []
@@ -131,5 +132,5 @@ Changing the color and keeping the crest. One-color looks like all orange or all
 Halloween falls on Saturday this year. Oklahoma State is in all orange at Iowa State, Maryland is in red, black and black against Illinois, and Nebraska is blacking out. Every confirmed look is in our [college football Week 9 uniform guide](/stories/college-football-week-9-uniforms-2026).
 
 <div style="margin: 2em 0 0; padding: 0.9em 1.2em; background: #f6f7f9; border-radius: 10px; font-size: 0.85em; color: #555;">
-Jersey images are embedded from each team's own post on X. Cover image: Belfast Giants.
+Jersey images are embedded from each team's own post on X. Cover images: Reading Royals, Coventry Blaze, Fife Flyers, Tennessee Football and Belfast Giants.
 </div>
