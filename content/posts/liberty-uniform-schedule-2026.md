@@ -92,7 +92,7 @@ The default helmet is still the red shell with the white Flames script on the si
 
 **October 31 vs. FIU.** Red expected, and this is the obvious blackout candidate. It is Homecoming and Hall of Fame Weekend, it is Halloween, and Liberty already owns a full black helmet, jersey and pants set that it wore against James Madison in 2025. Kickoff is 3:30 p.m. Eastern.
 
-**November 7 at New Mexico State.** White expected. The longest trip on the schedule, 5 p.m. Eastern in Las Cruces.
+**November 7 at New Mexico State.** White expected. The longest trip on the schedule, 8 p.m. Eastern in Las Cruces.
 
 **November 14 vs. Middle Tennessee.** Red expected, but watch this one. Liberty has Military Appreciation Day on this date, and Military Appreciation is the game where the program has built one off helmets in the past, including the custom shell honoring the Bedford Boys in November 2024.
 

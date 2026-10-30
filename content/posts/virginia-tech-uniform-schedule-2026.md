@@ -65,7 +65,7 @@ The current base sets are Nike's 2024 refresh, which pulled from the 1999 and 20
 
 **October 31.** Bye.
 
-**November 6 at SMU.** White expected, since Virginia Tech is the visitor. A Friday night game in Dallas at 8 p.m. Eastern on ESPN. ESPN's schedule feed lists it under November 7 because it runs on UTC. It is played Friday, November 6.
+**November 6 at SMU.** White expected, since Virginia Tech is the visitor. A Friday night game in Dallas at 7 p.m. Eastern on ESPN. ESPN's schedule feed lists it under November 7 because it runs on UTC. It is played Friday, November 6.
 
 **November 14 vs. Stanford.** Maroon expected, since it is a home game. The kickoff time has not been set.
 
