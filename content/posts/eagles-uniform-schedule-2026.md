@@ -129,7 +129,7 @@ Four uniforms. The midnight green primary carries the home schedule, and the onl
 
 **When do the Eagles wear Kelly Green in 2026?**
 
-Two dates, both confirmed and both at Lincoln Financial Field: Week 9 against the New York Giants on Sunday, November 8, and Week 16 against the Houston Texans on Thursday, December 24. The Eagles announced the pair on September 4.
+Two dates, both confirmed and both at Lincoln Financial Field: Week 9 against the New York Giants on Sunday, November 8, and Week 16 against the Houston Texans on Thursday, December 24. The Eagles announced the Giants game on September 2 and posted both dates together on September 4.
 
 **When do the Eagles wear the black alternate in 2026?**
 
