@@ -2,7 +2,7 @@
 title: "Carolina Panthers Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-29"
+updatedDate: "2026-10-30"
 excerpt: "Carolina published its 2026 jersey schedule: black six times at home, Panther blue three, white on every road trip. The full week-by-week, confirmed."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
@@ -118,7 +118,7 @@ Check the grid above, because Carolina has now published all seventeen games. Bl
 
 **What jerseys are the Panthers wearing this week?**
 
-Week 8 at Green Bay on Thursday Night Football, October 29, 8:15 p.m. ET on Prime Video, confirmed by the Panthers: **silver helmet, white jersey, white pants and blue socks**. Green Bay is expected in its gold helmet, green jersey and gold pants.
+Week 8 at Green Bay on Thursday Night Football, October 29, worn: **silver helmet, white jersey, white pants and blue socks**. Green Bay wore its gold helmet, green jersey and gold pants, and the Packers won 27-19. We grade the matchup a B+.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Panthers/status/2115497115115983341"></a></blockquote>

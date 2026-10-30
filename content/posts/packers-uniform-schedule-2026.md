@@ -2,7 +2,7 @@
 title: "Green Bay Packers Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-10-26"
+updatedDate: "2026-10-30"
 excerpt: "Green Bay published its 2026 uniform lineup: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set, which debuts in Week 5 against the Bears."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
@@ -127,7 +127,7 @@ Vintage Green at Lambeau and Classic White on the road, with one confirmed excep
 
 **What jerseys are the Packers wearing this week?**
 
-Week 7 at Detroit, October 25, worn: gold helmet, white jersey and gold pants. The Lions wore their black alternate with black pants, and Detroit won 20-17. We grade the matchup a B. For the rest of the season: Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
+Week 8 vs. Carolina on Thursday Night Football, October 29, worn: gold helmet, green jersey and gold pants. The Panthers wore silver helmets, white jerseys and white pants, and Green Bay won 27-19. We grade the matchup a B+. Week 7 at Detroit, October 25: gold helmet, white jersey and gold pants against the Lions' black, a 20-17 Detroit win (B). For the rest of the season: Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
 
 **What uniform did the Packers wear last week?**
 
