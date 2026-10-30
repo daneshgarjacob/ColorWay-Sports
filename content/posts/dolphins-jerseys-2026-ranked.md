@@ -2,7 +2,7 @@
 title: "Every Miami Dolphins Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-30"
 excerpt: "Miami Dolphins jerseys 2026, ranked: the white throwback, aqua home, white road and Dark Water Rivalries set, graded with every date each is worn."
 gradient: "linear-gradient(135deg, #008E97 0%, #005e64 55%, #00272b 130%)"
 author: "colorway-sports-staff"
@@ -14,7 +14,7 @@ league: nfl
 teams: ["miami-dolphins"]
 ---
 
-The Dolphins have four jerseys on the field in 2026, and they cover the whole range: aqua at home, white on the road, the white throwback with the leaping dolphin, and the near-black Dark Water Rivalries set. Miami has the best palette in the NFL, aqua and orange, and only one of these jerseys uses it the way it deserves. We put the Dolphins twenty-fifth in our [best NFL uniforms of 2026](/stories/best-nfl-uniforms-2026-ranked) at a B-, and the color is the only thing that kept the grade in the B range.
+The Dolphins have four jerseys on the field in 2026, and they cover the whole range: aqua, white (which Miami wears at home as often as on the road), the white throwback with the leaping dolphin, and the near-black Dark Water Rivalries set. Miami has the best palette in the NFL, aqua and orange, and only one of these jerseys uses it the way it deserves. We put the Dolphins twenty-fifth in our [best NFL uniforms of 2026](/stories/best-nfl-uniforms-2026-ranked) at a B-, and the color is the only thing that kept the grade in the B range.
 
 Here are all four Miami Dolphins jerseys for 2026, ranked worst to first and graded, with the helmet and pants each one wears. For the week-by-week jersey schedule 2026, the [Dolphins 2026 uniform schedule](/stories/dolphins-uniform-schedule-2026) has every game.
 
@@ -46,7 +46,7 @@ It grades a C+, the same mark it holds in our [Rivalries uniforms ranking](/stor
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiDolphins/status/2099198011448737939"></a></blockquote>
 </div>
 
-The white jersey is the road set, and Miami opened the season in it at Las Vegas over aqua pants: white helmet, white jersey, aqua pants, a 27-13 loss. It projects to all nine road games: at the Raiders, 49ers, Vikings, Jets, Colts, Bills, Broncos and Packers, and the Week 18 trip to New England. It also comes out once at home. The uniform schedule Miami distributes to credentialed photographers has the Dolphins in white against the Detroit Lions on Sunday, November 8 in Week 9, which puts Detroit in Honolulu blue. Only that home date comes from a team document. The road games follow the standard convention and are our projection. Week 11 at Buffalo is the one to watch, since the Bills plan to wear their all-white Cold Front set that day.
+The white jersey does most of the work in 2026, home and away. Miami opened the season in it at Las Vegas over aqua pants: white helmet, white jersey, aqua pants, a 27-13 loss. It projects to twelve games: seven on the road (the Raiders, 49ers, Vikings, Colts, Broncos and Packers, and the Week 18 trip to New England) and five at Hard Rock Stadium: the Chiefs in Week 3, the Bengals in Week 5, the Patriots in Week 8, the Lions in Week 9 and the Jets in Week 12. The Patriots game is confirmed by the team as White on White, and the uniform schedule Miami distributes to credentialed photographers has white against Detroit in Week 9. The rest follow how Miami has dressed this season and are our projection. More on why: [Why Do the Dolphins Wear White at Home?](/stories/why-do-the-dolphins-wear-white-at-home).
 
 All white is the best way to wear this jersey, because every bit of aqua on the field belongs to Miami, and against the Raiders' silver and black it made for a clean picture. The jersey itself is where the set shows its age. The aqua and orange live only in the numbers and the trim, the modern dolphin logo is colder than the original, and next to the throwback it looks like a draft of the same idea.
 
@@ -63,7 +63,7 @@ It grades a C+. Readable and correct, and a long way from what this palette can 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiDolphins/status/2088446771852677469"></a></blockquote>
 </div>
 
-The aqua home jersey has white numbers outlined in orange, and it projects to five home games at Hard Rock Stadium: the Kansas City Chiefs in Week 3, the Cincinnati Bengals in Week 5, the New England Patriots in Week 8, the New York Jets in Week 12 and the Los Angeles Chargers in Week 16. All five carry announced home themes, but none of those themes names a jersey, so aqua is our projection rather than a confirmation.
+The aqua home jersey has white numbers outlined in orange, and in 2026 it is the rarest of Miami's regular looks: three games. The Dolphins wore it at the Jets in Week 7 (aqua jersey, white pants, against the Jets' all-white Classic set), and it projects to the Week 11 trip to Buffalo and one home game, the Los Angeles Chargers in Week 16. Aqua at home only once is our projection, not a team announcement, but it is how the season has gone so far.
 
 Aqua is the point. Nobody else in the NFL owns this color, and on a bright South Florida afternoon it is the most distinctive base jersey in the league. The orange outline gives the numbers a second signal that reads from the upper deck. What holds it back is everything around the color. The striping and the modern logo feel dated, and the set looks like a team that has a great palette and is not quite sure what to do with it.
 
@@ -90,8 +90,8 @@ It grades an A, the top mark in the closet. This is the direction Miami should b
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #eef2f7; border: 1px solid #d6e0ec; border-radius: 14px;">
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>1. Throwback</strong> · A · Week 14 vs. Bears</p>
-  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>2. Aqua</strong> · B · five home games</p>
-  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>3. White</strong> · C+ · nine road games plus Week 9 vs. Lions</p>
+  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>2. Aqua</strong> · B · three games, one at home</p>
+  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>3. White</strong> · C+ · twelve games, five at home</p>
   <p style="margin: 0; color: #000000; font-size: 0.98em;"><strong>4. Dark Water Rivalries</strong> · C+ · Week 17 vs. Bills</p>
 </div>
 
@@ -107,7 +107,7 @@ Both special dates land in the final month, the throwback on December 13 and Dar
 
 **What jerseys do the Dolphins have in 2026?**
 
-Four: aqua at home, white on the road, the white throwback with the leaping dolphin helmet, and the Dark Water Rivalries set.
+Four: aqua, white, the white throwback with the leaping dolphin helmet, and the Dark Water Rivalries set.
 
 **What is the best Dolphins jersey?**
 
