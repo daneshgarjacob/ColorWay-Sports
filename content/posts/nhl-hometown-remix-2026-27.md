@@ -4,8 +4,8 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NHL"
 date: "2026-08-19"
-updatedDate: "2026-10-27"
-excerpt: "Capitals bronze practice gear, a gold Flames hem, navy Predators helmets and black Oilers pants: every Hometown Remix tease and leak so far, plus confirmed debut dates for the Flyers (Nov. 3), Sabres (Nov. 4), Islanders (Nov. 5) and Flames (Nov. 6)."
+updatedDate: "2026-10-30"
+excerpt: "All 32 Hometown Remix jerseys launch Monday, Nov. 2 at 10 a.m. ET, and the Panthers wear theirs first that night against Detroit. Every tease and leak so far, plus debut dates for the Flyers (Nov. 3), Sabres (Nov. 4), Islanders (Nov. 5) and Flames (Nov. 6)."
 gradient: "linear-gradient(135deg, #1b2733 0%, #111a24 55%, #5ec8f0 130%)"
 coverImage: "/images/posts/nhl-hometown-remix-2026-27/hometown-remix-logo.jpg"
 coverImagePosition: "center center"
@@ -16,6 +16,8 @@ teams: []
 ---
 
 The NHL and Fanatics announced on August 19 that all 32 teams will wear a special edition jersey in 2026-27 under a program called **Hometown Remix**. It is the first league-wide uniform program Fanatics has run since taking over as the NHL's on-ice outfitter in 2024, and it is the first league-wide program of any kind since adidas closed out Reverse Retro.
+
+**Update, October 30: the reveal date is set.** The NHL announced on October 29 that all 32 Hometown Remix jerseys launch on **Monday, November 2 at 10 a.m. ET**, per [Russian Machine Never Breaks](https://russianmachineneverbreaks.com/2026/10/29/nhl-hometown-remix-jerseys-official-release-date-fanatics-capitals/). The Capitals team shop says its version goes on sale at 10 a.m. that day, and the [Golden Knights](https://news3lv.com/news/local/golden-knights-hometown-remix-jerseys-to-debut-monday-limited-stock-at-the-arsenal) say theirs debut Monday too. **The Florida Panthers wear theirs first, that night at home against the Detroit Red Wings.**
 
 **No team has officially revealed its full design yet.** This page is where we will grade all 32 as they land.
 
@@ -70,7 +72,7 @@ These come from team announcements. We will add the rest as clubs post them.
 
 Toronto has also named nine Remix Nights starting Nov. 7, though the Maple Leafs have not said the sweater debuts that night.
 
-**Not confirmed:** RMNB reports that the first Hometown Remix debut is the Panthers on **Nov. 2**. Florida has a Hometown Remix schedule page, but we could not confirm that date from the team, so treat it as a report for now. The league has not announced a single reveal date either. The Islanders' "early November" is the closest thing to official.
+**Panthers first, on Nov. 2:** with the league-wide launch set for Monday, November 2, the Panthers wear the first Hometown Remix jersey in a game that night at home against the Detroit Red Wings, per [Russian Machine Never Breaks](https://russianmachineneverbreaks.com/2026/10/29/nhl-hometown-remix-jerseys-official-release-date-fanatics-capitals/) and [Florida Hockey Now](https://floridahockeynow.com/pink-florida-panthers-jersey-hometown-remix-monday-v-detroit-red-wings/). The Flyers follow on Nov. 3.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Fanatics/status/2090091280688668994"></a></blockquote>
@@ -132,7 +134,7 @@ No full design has been officially revealed. Teases and leaks are in the October
 
 ## The Bottom Line
 
-A 32-team program is the biggest uniform story on the NHL calendar and this one carries an extra layer, because it is the first time Fanatics has been asked to design rather than manufacture. The brief has produced both the best and the worst alternates in other leagues. The sweater is a better canvas than most, and hockey fans are less forgiving than most. The first ones hit the ice the week of November 2.
+A 32-team program is the biggest uniform story on the NHL calendar and this one carries an extra layer, because it is the first time Fanatics has been asked to design rather than manufacture. The brief has produced both the best and the worst alternates in other leagues. The sweater is a better canvas than most, and hockey fans are less forgiving than most. All 32 are revealed on Monday, November 2, and the Panthers wear the first one that night.
 
 ## Frequently Asked Questions
 
@@ -140,7 +142,7 @@ A 32-team program is the biggest uniform story on the NHL calendar and this one 
 A 2026-27 special edition uniform, apparel, and headwear program covering all 32 NHL teams, designed and developed by Fanatics. Each team's jersey is meant to celebrate its fans, its city, and its local culture.
 
 **When will the Hometown Remix jerseys be revealed?**
-The Islanders say the jerseys are unveiled in early November as part of a league-wide campaign with Fanatics. The NHL has not announced one exact reveal date. As of October 27, teams have only shown teases such as practice gear and close-up details.
+Monday, November 2 at 10 a.m. ET. The NHL announced on October 29 that all 32 teams' jerseys launch at the same time, and they go on sale that morning.
 
 **Which teams are getting a Hometown Remix jersey?**
 All 32.
@@ -155,7 +157,7 @@ No. Reverse Retro was an adidas program that took real uniforms from a team's hi
 It varies by team. The Flyers have announced 13 games, the Islanders 11, the Predators and Blues 10 each, the Flames nine and the Sabres eight.
 
 **Which team debuts its Hometown Remix jersey first?**
-The earliest team-announced debut is the Philadelphia Flyers on Tuesday, Nov. 3 at home against the Minnesota Wild. Russian Machine Never Breaks reports the Florida Panthers go first on Nov. 2, but we have not seen the Panthers confirm that date.
+The Florida Panthers, on Monday, Nov. 2 at home against the Detroit Red Wings, the same day all 32 jerseys are revealed. The Philadelphia Flyers are next on Tuesday, Nov. 3 at home against the Minnesota Wild.
 
 **What do the Capitals' Hometown Remix jerseys look like?**
 Washington has not revealed the jersey. At practice on October 26 the team wore blue, black and bronze gear with black pants carrying three bronze stars. A leak passed along by Icethetics describes a Capitol Dome logo, bronze stripes, marble textures and a cherry blossom tribute, but the team has not confirmed it.

@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: "College"
 homepageHero: "2026-10-31"
 date: "2026-10-27"
-updatedDate: "2026-10-29"
+updatedDate: "2026-10-30"
 excerpt: "College football Halloween uniforms for Week 9: Nebraska's new black alternate debuts against Washington, Syracuse puts Otto on the helmet, BYU goes all navy, UCF wears its Space Game set and Navy brings out its 1926 throwback against Notre Dame. Every announced look and every Top 25 game."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #3a1d08 60%, #F28C28 130%)"
 coverImage: "/images/posts/college-football-week-9-uniforms-2026/cover.jpg"
@@ -20,7 +20,7 @@ teams: ["nebraska-cornhuskers", "washington-huskies", "ucf-knights", "baylor-bea
 resurfaceOnUpdate: true
 ---
 
-Halloween falls on a Saturday this year, and college football is dressing for it. Week 9 of the 2026 season has the best set of Halloween uniforms we have seen in years. **Nebraska debuts its new black alternate against Washington** in the second Blackout game at Memorial Stadium. **Syracuse wears an Otto the Orange helmet for the first time ever** against No. 19 SMU. **No. 8 BYU goes all navy** for Arizona State, **UCF wears its tenth Space Game uniform** against Baylor on Friday night, and **Navy wears its 1926 national championship throwback against No. 5 Notre Dame** at Gillette Stadium. Iowa State, UNLV, East Carolina and Louisville have all announced something different, and Fresno State is teasing a new look. On the field, No. 3 Georgia and No. 17 Florida meet in Atlanta, No. 2 Ohio State visits USC on Saturday night, and No. 1 Miami goes to North Carolina.
+Halloween falls on a Saturday this year, and college football is dressing for it. Week 9 of the 2026 season has the best set of Halloween uniforms we have seen in years. **Nebraska debuts its new black alternate against Washington** in the second Blackout game at Memorial Stadium. **Syracuse wears an Otto the Orange helmet for the first time ever** against No. 19 SMU. **No. 8 BYU goes all navy** for Arizona State, **UCF wears its tenth Space Game uniform** against Baylor on Friday night, and **Navy wears its 1926 national championship throwback against No. 5 Notre Dame** at Gillette Stadium. Iowa State, UNLV, East Carolina and Louisville have all announced something different, and Fresno State is going all black for Fright Night. On the field, No. 3 Georgia and No. 17 Florida meet in Atlanta, No. 2 Ohio State visits USC on Saturday night, and No. 1 Miami goes to North Carolina.
 
 Below is every Halloween uniform announced so far, then every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it. When a school has not posted yet, we give our projection from that team's uniform schedule and label it **Expected**. Most schools post their combination between Monday and game day, so this page fills in all week, and on Saturday we confirm every look from the game broadcasts and team photos, then add final scores. Rankings are from this week's AP poll. All times are Eastern. Last week's looks and final scores are in our [Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026).
 
@@ -39,7 +39,7 @@ Below is every Halloween uniform announced so far, then every game this week inv
 - **Oregon: black helmet, white wings (Confirmed).** Matte black helmet with white wings, black jersey with green-outlined numbers, white pants, vs. No. 20 Northwestern.
 - **Tulane: the Wumbo is back (Confirmed).** White helmet with an oversized green Angry Wave, Friday at Charlotte.
 - **Maryland: red, black, black (Confirmed).** Red helmet, black jersey, black pants, "dressed for spooky season," vs. Illinois.
-- **Fresno State: "new look set to debut" (Teased).** A dark helmet shown in shadow, then a black "Dark mode" helmet with silver crossbones on a team wallpaper, vs. Oregon State.
+- **Fresno State: "Fright Night" blackout (Reported).** A black "Dark mode" helmet with silver crossbones on a team wallpaper; Sports Illustrated reports all black with matte helmets, vs. Oregon State.
 
 ## Games of the Week
 
@@ -149,9 +149,9 @@ The reveal photo shows a **white helmet with a red center stripe and a chrome go
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LouisvilleFB/status/2088317226042769763"></a></blockquote>
 </div>
 
-### Oregon State at Fresno State: A New Look, Still in the Shadows
+### Oregon State at Fresno State: Fright Night in All Black
 
-**Saturday, 11 p.m. (8 p.m. Pacific), USA Network.** **Fresno State: Teased.** Fresno State posted "new look set to debut on Saturday" on Monday with a short video. It shows a dark helmet with an outline of the Bulldog head on the side and 'DOGS on the front bumper, all lit in purple and red. On Wednesday the team followed with a "Dark mode" wallpaper: a black helmet with the Bulldog head, set against rows of silver crossbones. That points to black, but Fresno State has still not shown the jersey or pants, so we have it as teased until the team posts the full uniform. **Oregon State: Expected, white.** More: [Fresno State schedule](/stories/fresno-state-uniform-schedule-2026) and [Oregon State schedule](/stories/oregon-state-uniform-schedule-2026).
+**Saturday, 11 p.m. (8 p.m. Pacific), USA Network.** **Fresno State: Reported, all black.** Fresno State posted "new look set to debut on Saturday" on Monday with a short video. It shows a dark helmet with an outline of the Bulldog head on the side and 'DOGS on the front bumper, all lit in purple and red. On Wednesday the team followed with a "Dark mode" wallpaper: a black helmet with the Bulldog head, set against rows of silver crossbones. On Wednesday, [The Collegian](https://fscollegian.com/2026/10/back-in-black/) confirmed the game is the **Fright Night** blackout, and [Sports Illustrated](https://www.si.com/onsi/jerseys/news/10-best-week-9-uniforms-in-college-football) reports **all-black uniforms with matte helmets, crossbones stripes and Bulldog decals**. Fresno State itself has still not posted the jersey or pants, so we have it as reported until the team shows the full uniform. **Oregon State: Expected, white.** More: [Fresno State schedule](/stories/fresno-state-uniform-schedule-2026) and [Oregon State schedule](/stories/oregon-state-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FresnoStateFB/status/2114859845526647130"></a></blockquote>
@@ -378,7 +378,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[Oregon State](/stories/oregon-state-uniform-schedule-2026) at [Fresno State](/stories/fresno-state-uniform-schedule-2026)**, 11 p.m., USA Network.
 - Oregon State: **Expected**, white.
-- Fresno State: **Teased**, new look. See above.
+- Fresno State: **Reported**, all black for Fright Night. See above.
 
 **Off this week:** No. 9 Kentucky, No. 10 Alabama, No. 15 LSU, No. 16 Tennessee and No. 18 Houston, along with Texas A&M, Vanderbilt, Michigan State, Virginia Tech, West Virginia, Tulsa, Rice, Hawaii, Toledo and UTSA.
 
