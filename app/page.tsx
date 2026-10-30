@@ -414,9 +414,6 @@ export default async function Home() {
         </section>
 
         {/* League tools move below the editorial top half */}
-        {/* Jake 10/16: once the World Series is set, its band leads, above NFL,
-            and replaces the postseason MLB band. */}
-        {worldSeriesOn && <WorldSeriesZone />}
         <NflWeekZoneV2 />
         {/* Jake 10/19: NBA band with every game's jerseys and our matchup grade. */}
         <NbaTonightZone />
@@ -424,6 +421,9 @@ export default async function Home() {
         {alcsOn && <WorldSeriesZone />}
         {!worldSeriesOn && !alcsOn && <MlbUniformsZone />}
         <NhlUniformsZone />
+        {/* Jake 10/30: the World Series is over, so its recap band sits last
+            (it led above NFL from 10/16 while the series was live). */}
+        {worldSeriesOn && <WorldSeriesZone />}
       </main>
       <Footer />
     </>

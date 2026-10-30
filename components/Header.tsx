@@ -285,6 +285,8 @@ const leagues: NavLeague[] = [
     storiesLink: { label: "All Stories", href: "/stories" },
     teams: [],
     extraLinks: [
+      // Jake 10/30: WNBA posts were filed under NBA (Comets logo); own league now.
+      { label: "WNBA", href: "/stories?league=wnba" },
       { label: "Rugby", href: "/stories?league=rugby" },
       { label: "Cricket", href: "/stories?league=cricket" },
       { label: "UFL", href: "/stories?league=ufl" },

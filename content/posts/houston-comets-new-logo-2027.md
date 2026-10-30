@@ -1,7 +1,7 @@
 ---
 title: "Houston Comets Unveil New Logos for 2027 WNBA Return: Slanted H, Four Stars for Four Titles, Graded"
 author: "jake-daneshgar"
-category: "NBA"
+category: "WNBA"
 date: "2026-10-30"
 updatedDate: "2026-10-30"
 excerpt: "The Houston Comets revealed their new logos on October 29, 2026: a slanted navy H with a red basketball comet through the middle, four stars for the four titles (the white one is for Texas), a round HOUSTON COMETS badge and two wordmarks. Old vs. new and a grade for every mark."
@@ -15,7 +15,7 @@ coverCredit:
   license: "via the team"
 kicker: "Logo News"
 logoSrc: "/images/posts/houston-comets-new-logo-2027/primary-h-logo.png"
-league: "nba"
+league: "wnba"
 teams: ["houston-comets", "houston-rockets"]
 ---
 

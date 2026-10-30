@@ -139,7 +139,13 @@ export function getTonight(now = new Date()): TonightLeague[] {
       const ts = Date.parse(`${when.split(", ")[1]} 2026`);
       return Number.isNaN(ts) || ts >= todayStart;
     };
-    const left = nfl.games.filter((g) => !g.score && notPast(g.when)).slice(0, 3);
+    // Jake 10/30: the strip is "today", so NFL shows only games dated today (a
+    // Friday strip listing Sunday's games read as wrong). Off days it drops out.
+    const isToday = (when?: string) => {
+      if (!when || !/^[A-Z][a-z]+day, [A-Z][a-z]+ \d+$/.test(when)) return false;
+      return Date.parse(`${when.split(", ")[1]} 2026`) === todayStart;
+    };
+    const left = nfl.games.filter((g) => !g.score && notPast(g.when) && isToday(g.when)).slice(0, 3);
     if (left.length) {
       // Slate games are sorted by date, so the first one opens the week once the
       // tracker has dated it ("Thursday, October 15"). Before the week's cards

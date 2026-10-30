@@ -565,6 +565,7 @@ export const LEAGUE_LOGOS: Record<string, string> = {
 export const LEAGUE_NAMES: Record<string, string> = {
   nfl: "NFL",
   nba: "NBA",
+  wnba: "WNBA",
   mlb: "MLB",
   nhl: "NHL",
   f1: "F1",
