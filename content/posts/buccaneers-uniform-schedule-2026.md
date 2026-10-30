@@ -3,7 +3,7 @@ topViewsRank: 4
 title: "Tampa Bay Buccaneers Jerseys & Uniforms 2026: Full Schedule"
 category: "NFL"
 date: "2026-08-13"
-updatedDate: "2026-10-26"
+updatedDate: "2026-10-30"
 excerpt: "Tampa Bay has confirmed two special uniform dates: the creamsicle throwbacks on December 6 and the all-pewter jersey on December 20. Every confirmed game so far."
 gradient: "linear-gradient(135deg, #34302B 0%, #1a1815 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -143,7 +143,7 @@ Unknown. Only the December 20 game has been confirmed.
 
 **What are the Buccaneers wearing this week?**
 
-Week 7 at Carolina, October 25, worn: pewter helmet, white jersey and pewter pants. The Panthers wore Panther blue over black pants under the black helmet, and Tampa Bay won 43-13. We grade the matchup a B+. For the rest of the season: Tampa Bay has not published week-by-week uniform assignments. The two confirmed special dates are December 6 and December 20. We update this page as the team announces more.
+Week 8 against Atlanta, Sunday, November 1, 1:00 p.m. ET on FOX: we expect the white jersey at home, with the Falcons confirmed by their own game-week post in black helmet, red jersey and white pants. Tampa Bay has not posted its look yet. Last week, Week 7 at Carolina, October 25, worn: pewter helmet, white jersey and pewter pants. The Panthers wore Panther blue over black pants under the black helmet, and Tampa Bay won 43-13. We grade the matchup a B+. For the rest of the season: Tampa Bay has not published week-by-week uniform assignments. The two confirmed special dates are December 6 and December 20. We update this page as the team announces more.
 
 **What color pants do the Buccaneers wear with the pewter jersey?**
 

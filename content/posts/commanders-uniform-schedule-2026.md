@@ -2,7 +2,7 @@
 title: "Commanders Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-10-19"
+updatedDate: "2026-10-30"
 excerpt: "The Washington Commanders' full 2026 uniform schedule: white is the new primary, burgundy goes nine times, and the black Hail Raiser alternate drops twice. Every jersey, every week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -36,7 +36,7 @@ Here is the entire season at a glance. Burgundy is the heritage jersey, white is
   <div style="background: #f1efe9; color: #333; border: 1px solid #e2ddd2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Burgundy Pants</div></div>
   <div style="background: #f1efe9; color: #333; border: 1px solid #e2ddd2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at 49ers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Gold Pants · MNF</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy</div></div>
+  <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Burgundy · Gold Pants</div></div>
   <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Rams</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy</div></div>
   <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy</div></div>
   <div style="background: #111111; color: #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Hail Raiser</div></div>
@@ -70,6 +70,12 @@ It is the right call for this specific game and it is not close. Philadelphia we
 
 The burgundy is the heart of the wardrobe, and it works the hardest, going nine times in 2026. This is the jersey that carries the franchise's history, the deep burgundy with gold numbers and the gold spear-W on the burgundy helmet, and Washington saves it for the games that matter most on the calendar. It debuts Week 2 at Dallas, and the team confirmed the full combination on September 17: burgundy helmet, burgundy jersey, white pants and burgundy socks at AT&amp;T Stadium ([the team's post](https://x.com/Commanders/status/2100662320300970418)). Dallas is in Arctic White head to toe that afternoon, so this is a color against white game with no overlap. From there burgundy holds down the home opener against Seattle, and goes to London for Week 4 against the Colts, a game where Washington is the designated home team. From there it owns the heavy NFC East and prime-time stretch: home against the Eagles, home against the Rams, at the Giants, home against the Texans, at the Vikings, and the Week 18 finale against the Cowboys. Nine wearings is a clear signal that burgundy is still the emotional primary even if white is the technical one, and it keeps the franchise's most recognizable jersey and uniform in heavy rotation for the biggest matchups of the year.
 
+**Week 8 combination, announced:** against the Eagles on Sunday Night Football, November 1: **burgundy jersey, gold pants and burgundy socks**, the full burgundy and gold, from the team's "Uniform Combo" post on October 30. The helmet is the standard burgundy shell with the gold spear-W. Philadelphia posted its side on October 29: midnight green helmet, white jersey, midnight green pants.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2116224865749565836"></a></blockquote>
+</div>
+
 
 ## The "Hail Raiser" Black Alternate (2 Games, Both at Home)
 
@@ -92,7 +98,7 @@ Burgundy is the most likely answer, since Washington wears it nine times includi
 
 **What jerseys are the Commanders wearing this week?**
 
-Week 6 at San Francisco on Monday Night Football, October 19, worn: burgundy helmet, white jersey and gold pants, as announced. The 49ers wore scarlet over gold pants. San Francisco won 23-17. We grade the matchup a B+. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
+Week 8 against Philadelphia on Sunday Night Football, November 1, 8:20 p.m. ET on NBC, confirmed by the team's "Uniform Combo" post: burgundy jersey, gold pants and burgundy socks under the standard burgundy helmet. The Eagles wear white over midnight green pants. Before the Week 7 bye, Week 6 at San Francisco on Monday Night Football, October 19, worn: burgundy helmet, white jersey and gold pants, as announced. The 49ers wore scarlet over gold pants. San Francisco won 23-17. We grade the matchup a B+. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
 
 **What uniform did the Commanders wear last week?**
 

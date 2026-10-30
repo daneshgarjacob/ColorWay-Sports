@@ -2,7 +2,7 @@
 title: "New England Patriots Jerseys & Uniforms 2026: Full Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-29"
+updatedDate: "2026-10-30"
 excerpt: "The Patriots have dated both alternates: the red Pat Patriot throwback in Weeks 5 and 14, and the Nor'easter Rivalries uniform in Week 13. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #002244 0%, #0b3a63 55%, #C60C30 130%)"
 coverImage: "/images/posts/patriots-uniform-schedule-2026/cover.jpg"
@@ -109,7 +109,7 @@ Navy if New England is at Gillette Stadium, white if they are on the road, excep
 
 **What jerseys are the Patriots wearing this week?**
 
-Week 8 at Miami, Sunday, November 1, 4:25 p.m. ET on CBS, confirmed by the Patriots: **navy on silver**, the silver helmet, navy jersey and silver pants. It is the only road game this season where New England is projected in navy, because the Dolphins wear white at home.
+Week 8 at Miami, Sunday, November 1, 4:25 p.m. ET on CBS, confirmed by the Patriots: **navy on silver**, the silver helmet, navy jersey and silver pants. It is the only road game this season where New England is in navy, because the Dolphins wear white at home, and Miami has confirmed it: white helmet, white jersey and white pants, a look the team calls White on White.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;"><blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Patriots/status/2115881855765623153"></a></blockquote></div>
 
