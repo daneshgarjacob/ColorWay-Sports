@@ -1,9 +1,9 @@
 ---
-title: "NBA City Edition Jerseys 2026-27 Ranked: All 30 Teams Graded"
+title: "NBA City Jerseys 2027: All 30 City Edition Jerseys Ranked + Release Date"
 category: "NBA"
 date: "2026-08-27"
-updatedDate: "2026-10-19"
-excerpt: "Every NBA City Edition jersey for 2026-27, ranked 30 to 1 and graded. Year ten brings back each team's favorite design. Here is which returns worked."
+updatedDate: "2026-10-31"
+excerpt: "Every 2027 NBA City jersey, ranked 30 to 1 and graded, plus the release date: the 2026-27 City Editions hit the floor January 14, 2027. Year ten brings back each team's favorite design. Here is which returns worked."
 gradient: "linear-gradient(135deg, #2d2540 0%, #1d2340 55%, #12172b 100%)"
 coverImage: "/images/posts/nba-city-edition-jerseys-2026-27/cover.jpg"
 coverImagePosition: "center center"
@@ -20,7 +20,7 @@ The full lineup has now surfaced. Atlanta and Washington confirmed their picks e
 
 <div style="margin: 1.75em 0; padding: 1.25em 1.5em; background: #f5f7fb; border: 1px solid #dfe3ea; border-left: 5px solid #2f6bed; border-radius: 12px;"><p style="margin: 0 0 0.5em; font-size: 0.75em; font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; color: #2f6bed;">How to Read This Ranking</p><p style="margin: 0 0 0.5em; font-size: 0.95em; color: #1c1c1c; line-height: 1.55;"><strong>The images</strong> show each design as it was first released, from the team, the league or the official store. The 2026-27 versions add the anniversary details below.</p><p style="margin: 0; font-size: 0.95em; color: #1c1c1c; line-height: 1.55;"><strong>The status</strong> on each entry tells you how solid it is: Confirmed means the team announced it, Reported means a credible report, Leaked means it comes from the leaked lineup and the team has not shown it yet.</p></div>
 
-## When Do the 2026-27 NBA City Edition Jerseys Come Out?
+## When Do the 2027 NBA City Jerseys Come Out?
 
 Not on September 15, which is what nearly everyone expected. Every NBA club teased that date in August, and it turned out to be the launch of Nike's **Standard Issue** apparel collection, the warmup and practice gear, rather than the City Edition uniforms. We broke that down in [what the 09.15.26 teaser actually was](/stories/nba-september-15-2026-uniform-reveal).
 
@@ -438,6 +438,14 @@ It is the best uniform in the collection. It remixes two of the franchise's best
 <div style="margin: 1.25em auto 1.5em; max-width: 360px; padding: 1em 1.5em; background: linear-gradient(135deg, #002D62 0%, #0b4a8f 100%); border-radius: 16px; box-shadow: 0 4px 18px rgba(0,0,0,0.18); text-align: center;"><p style="margin: 0 0 4px; font-size: 0.68em; font-weight: 700; color: rgba(255,255,255,0.8); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p><p style="margin: 0; font-size: 2.5em; font-weight: 900; color: #ffffff; line-height: 1; letter-spacing: -1px;">A</p></div>
 
 ## Frequently Asked Questions
+
+**What are the NBA City jerseys for 2027?**
+
+The 2026-27 City Edition jerseys, the ones teams wear in the 2027 part of the season. For year ten of the program, every team is bringing back a City Edition from its first nine years instead of a new design. Our No. 1 is the Indiana Pacers, and the full ranking from 30 to 1 is above.
+
+**What is the release date for the 2027 NBA City jerseys?**
+
+The first City Edition games are January 14, 2027, and the jerseys are expected in stores in January 2027, later than the usual November drop. They were not part of the September 15 Nike release, which was warmup and practice gear.
 
 **When do NBA teams start wearing City Edition jerseys in 2026-27?**
 

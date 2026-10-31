@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: "College"
 homepageHero: "2026-10-31"
 date: "2026-10-27"
-updatedDate: "2026-10-30"
+updatedDate: "2026-10-31"
 excerpt: "College football Halloween uniforms for Week 9: Nebraska's new black alternate debuts against Washington, Syracuse puts Otto on the helmet, BYU goes all navy, UCF wears its Space Game set, Navy brings out its 1926 throwback against Notre Dame, Northwestern goes all white at Oregon and TCU blacks out against Kansas. Every announced look and every Top 25 game."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #3a1d08 60%, #F28C28 130%)"
 coverImage: "/images/posts/college-football-week-9-uniforms-2026/cover.jpg"
@@ -21,6 +21,18 @@ resurfaceOnUpdate: true
 ---
 
 Halloween falls on a Saturday this year, and college football is dressing for it. Week 9 of the 2026 season has the best set of Halloween uniforms we have seen in years. **Nebraska debuts its new black alternate against Washington** in the second Blackout game at Memorial Stadium. **Syracuse wears an Otto the Orange helmet for the first time ever** against No. 19 SMU. **No. 8 BYU goes all navy** for Arizona State, **UCF wears its tenth Space Game uniform** against Baylor on Friday night, and **Navy wears its 1926 national championship throwback against No. 5 Notre Dame** at Gillette Stadium. Iowa State, UNLV, East Carolina and Louisville have all announced something different, and Fresno State is going all black for Fright Night. **No. 20 Northwestern goes all white at Oregon**, a look it calls "Stormtroopers for Halloween," against the Ducks in black. **TCU goes all black** against Kansas, **North Carolina goes all Carolina blue** against No. 1 Miami, and **Arizona State brings a black helmet** to Provo. On the field, No. 3 Georgia and No. 17 Florida meet in Atlanta, No. 2 Ohio State visits USC on Saturday night, and No. 1 Miami goes to North Carolina.
+
+
+**Update, Saturday afternoon: the early Halloween games are final.** Checked against the game photos:
+
+- **Syracuse 30, No. 19 SMU 27.** The Otto helmet debuted with an **orange jersey and orange pants**, not the navy jersey we expected, and Syracuse won on a touchdown with 17 seconds left. All orange under a white Otto helmet: the best look of the weekend.
+- **No. 5 Notre Dame 35, Navy 13.** Navy wore the 1926 centennial set as announced: gold helmet, navy jersey with the gold chevrons, gold pants. Notre Dame wore white with gold helmets.
+- **Louisville 52, Stanford 24.** The For The Ville debut was all black, black jersey and black pants, as announced in August. Stanford wore white.
+- **East Carolina 17, Temple 9.** The marching PeeDee helmet with a **purple jersey and gold pants**. Temple wore white.
+- **Baylor 41, UCF 9 (Friday).** UCF wore the Mission X Space Game set, white from helmet to pants. Baylor wore green.
+- **Oregon 34, No. 20 Northwestern 26** and **Illinois 20, Maryland 17** are also final. We have not checked those two against game photos yet, so the looks above stay as announced for now.
+
+Oklahoma State at Iowa State (orange vs. black), Nebraska's blackout debut against Washington and Fresno State's Fright Night are still to come tonight.
 
 Below is every Halloween uniform announced so far, then every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it. When a school has not posted yet, we give our projection from that team's uniform schedule and label it **Expected**. Most schools post their combination between Monday and game day, so this page fills in all week, and on Saturday we confirm every look from the game broadcasts and team photos, then add final scores. Rankings are from this week's AP poll. All times are Eastern. Last week's looks and final scores are in our [Week 8 uniform guide](/stories/college-football-week-8-uniforms-2026).
 

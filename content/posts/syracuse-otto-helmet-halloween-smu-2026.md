@@ -3,7 +3,7 @@ title: "Syracuse Puts Otto on the Helmet for Halloween: First-Ever Otto Helmet D
 author: "jake-daneshgar"
 category: "College"
 date: "2026-10-27"
-updatedDate: "2026-10-27"
+updatedDate: "2026-10-31"
 excerpt: "Syracuse will wear helmets featuring Otto the Orange for the first time ever on Saturday, October 31 against No. 19 SMU: a white helmet, the Otto decal, a navy and orange center stripe. Every detail, the game info and our take."
 gradient: "linear-gradient(135deg, #3d1a08 0%, #8a3a0c 55%, #F76900 130%)"
 coverImage: "/images/posts/syracuse-otto-helmet-halloween-smu-2026/cover.jpg"
@@ -19,6 +19,13 @@ logoSrc2: "/logos/teams/ncaa-syracuse-orange.png"
 league: "college"
 teams: ["syracuse-orange", "acc"]
 ---
+
+
+**Update, October 31: the Otto helmet debuted in a win.** Syracuse paired the white Otto helmet with an **orange jersey and orange pants**, all orange from the shoulders down, not the navy jersey we expected, and beat No. 19 SMU 30-27 on a touchdown pass from Angeli to Meyers with 17 seconds left. It was our favorite Halloween look of the weekend.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CuseFootball/status/2116613973684699192"></a></blockquote>
+</div>
 
 **Otto is going on the Syracuse helmet.** Syracuse Football announced on Monday, October 26, that it will "debut helmets featuring our Hall of Fame mascot Otto for the FIRST TIME ever" this Saturday, October 31. That is Halloween, and the Orange host **No. 19 SMU** at the JMA Wireless Dome at **noon Eastern on ESPN2**. The game has not been played yet, so this is what Syracuse announced, and we will confirm it from the broadcast on Saturday.
 
@@ -85,7 +92,7 @@ A white Riddell SpeedFlex shell with a cartoon Otto decal on the side, an orange
 
 **What is Syracuse wearing against SMU?**
 
-The Otto helmet has been announced. Syracuse has not said which jersey and pants go with it. Syracuse wore the navy jersey and orange pants in its confirmed home games against New Hampshire and Cal, so that is the expected pairing.
+Syracuse wore the Otto helmet with an orange jersey and orange pants on October 31 and beat SMU 30-27. Before the game we expected the navy jersey, which Syracuse had worn with orange pants at home against New Hampshire and Cal.
 
 **When is Syracuse vs. SMU in 2026?**
 
