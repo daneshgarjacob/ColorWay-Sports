@@ -202,32 +202,37 @@
    "imageFit": "contain"
   },
   "2026-10-31": {
-   "team": "Nebraska Cornhuskers",
-   "teamShort": "Nebraska",
+   "team": "Oklahoma State Cowboys",
+   "teamShort": "Oklahoma State",
    "league": "College Football",
    "season": "2026",
-   "edition": "Blackout alternate",
-   "jerseyName": "Our Red Burns Brighter Blackout",
-   "image": "/images/posts/college-football-blackout-uniforms-2026-ranked/nebraska-pointing.jpg",
-   "imageAlt": "Nebraska Cornhuskers 2026 blackout uniform, a black jersey with NEBRASKA in red across the chest and large white numbers, worn with a black helmet and red facemask",
-   "imagePosition": "center 25%",
+   "edition": "Halloween all orange",
+   "jerseyName": "All Orange",
+   "image": "/images/jersey-of-the-day/oklahoma-state-all-orange-halloween.jpg",
+   "imageAlt": "Oklahoma State all-orange Halloween uniform: orange helmet with the OSU logo, orange OKLAHOMA STATE jersey and orange pants on hay bales under a Happy Halloween banner, with black skeleton-print Nike cleats",
+   "imagePosition": "center 70%",
    "credit": {
-    "text": "Nebraska Athletics / adidas"
+    "text": "Oklahoma State Football"
+   },
+   "tweet": {
+    "url": "https://x.com/CowboyFB/status/2115559361724502104",
+    "label": "The reveal: \"THE uniform matchup of the weekend\""
    },
    "worn": {
     "date": "2026-10-31",
-    "matchup": "vs Washington, Blackout game",
-    "status": "Announced"
+    "matchup": "at Iowa State, 7 p.m. ET on FOX",
+    "status": "Announced",
+    "note": "Oklahoma State posted the all-orange look for Halloween; Iowa State answers in all black."
    },
-   "why": "Black and metallic red on Halloween night in Lincoln. Nebraska could not have picked a better night to debut it.",
+   "why": "Orange helmet, orange jersey, orange pants and skeleton cleats on Halloween night, against Iowa State in all black. It was No. 2 in our Halloween ranking.",
    "whyPlaceholder": true,
-   "story": "Nebraska revealed its black alternate on August 15 under the theme \"Our Red Burns Brighter,\" with huge white numbers outlined in red, a black helmet with metallic red details and GBR on the bumper. The metallic finishes nod to the fire towers and fireworks at Memorial Stadium, and a perforated Block N on the back panel was inspired by the stadium's drone shows. It debuts on Halloween against Washington in the second annual Blackout game.",
-   "scheduleSlug": "nebraska-uniform-schedule-2026",
-   "scheduleLabel": "Nebraska 2026 uniform schedule",
+   "story": "Oklahoma State revealed the look as \"THE uniform matchup of the weekend\": an orange helmet, orange jersey and orange pants, staged on hay bales with black Nike cleats printed with white skeleton bones and an orange swoosh. Iowa State answered with its own \"halloween threads,\" a black helmet with a white Cynado, black jersey and black pants, so it is orange against black on Halloween night in Ames.",
+   "scheduleSlug": "oklahoma-state-uniform-schedule-2026",
+   "scheduleLabel": "Oklahoma State 2026 uniform schedule",
    "related": [
     {
-     "slug": "college-football-blackout-uniforms-2026-ranked",
-     "label": "College football blackout uniforms, ranked"
+     "slug": "college-football-week-9-uniforms-2026",
+     "label": "Every College Football Week 9 Halloween uniform"
     }
    ]
   },
