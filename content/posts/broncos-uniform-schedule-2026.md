@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-10-26"
+updatedDate: "2026-10-31"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -27,6 +27,8 @@ Want them graded instead? Here is [every Denver Broncos jersey ranked](/stories/
 **Their Week 1 opponent:** the [Kansas City Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
 Nine games in Summit White, four in Sunset Orange, two in Midnight Navy, two in the Orange Crush throwback, and a Week 10 bye.
+
+**Week 8 combination, as announced for game week:** navy helmet, Sunset Orange jersey, Summit White pants and Midnight Navy socks against the Chiefs on Sunday, November 1, per the team's game-week announcement on October 31. Denver is 2-1 in orange over white since the Mile High Collection debuted in 2024, with wins over the Colts in 2024 and the Packers in 2025. Kansas City is expected in white.
 
 **Week 7 combination, worn:** navy helmet, Summit White jersey, navy pants at the Cardinals on Sunday, October 25, as announced in the team's "Arizona Attire" post on October 24 and confirmed from the game photos. It is the same navy-over-white-over-navy road look Denver wore at San Francisco in Week 4. Arizona wore red on red, white helmet, cardinal red jersey and cardinal red pants, and Denver won 30-16.
 
