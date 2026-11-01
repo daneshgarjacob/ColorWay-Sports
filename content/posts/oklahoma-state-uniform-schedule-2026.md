@@ -3,7 +3,7 @@ title: "Oklahoma State Uniform Schedule 2026: Every Jersey and When the Cowboys 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-29"
+updatedDate: "2026-11-01"
 excerpt: "The Oklahoma State 2026 uniform schedule: orange, white and black jerseys, multiple helmets, and the combination the Cowboys wore to beat Oregon, tracked week by week."
 gradient: "linear-gradient(135deg, #FF7300 0%, #c25500 55%, #000000 130%)"
 cardStyle: words
@@ -62,7 +62,7 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
 
 **October 24 vs. Colorado.** Orange expected. America's Greatest Homecoming. This is the date to watch: Homecoming has drawn special looks before, including the black Oklahoma A&M throwback for the 125th anniversary in 2024, and nothing has been announced for 2026. If a one-off uniform is coming this season, this is the likeliest week. **Worn: white helmet and orange jersey**, confirmed from the team's game photos. Colorado wore a gold helmet and white jersey. **Final: Oklahoma State 57, Colorado 24.**
 
-**October 31 at Iowa State. Confirmed: all orange.** Orange helmet, orange jersey and orange pants, with black skeleton-print cleats, which the team called "THE uniform matchup of the weekend." Iowa State is blacked out in black helmets with the Cynado logo, so it is orange against black on Halloween night in Ames, now on FOX. It is the first Halloween road game since 2015.
+**October 31 at Iowa State. Confirmed: all orange.** Orange helmet, orange jersey and orange pants, with black skeleton-print cleats, which the team called "THE uniform matchup of the weekend." Iowa State is blacked out in black helmets with the Cynado logo, so it was orange against black on Halloween night in Ames on FOX, the first Halloween road game since 2015. ★ Confirmed from game photos. **Iowa State 51, Oklahoma State 49**: the Cowboys scored with 53 seconds left, and Iowa State won on a 34-yard field goal as time expired. The full matchup: [Oklahoma State vs Iowa State, orange vs black](/stories/oklahoma-state-iowa-state-halloween-uniforms-orange-vs-black-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CowboyFB/status/2115559361724502104"></a></blockquote>

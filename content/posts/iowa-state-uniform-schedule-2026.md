@@ -3,7 +3,7 @@ title: "Iowa State Uniform Schedule 2026: Every Jersey and When the Cyclones Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-27"
+updatedDate: "2026-11-01"
 excerpt: "Iowa State uniform schedule 2026: every Cyclones jersey by week, the cardinal home uniform, the all-white road look worn at Iowa, and what ISU wears next."
 gradient: "linear-gradient(135deg, #C8102E 0%, #9e0b23 55%, #F1BE48 130%)"
 cardStyle: words
@@ -68,7 +68,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 **October 24 at Arizona.** White expected. Iowa State's second trip west this month, to Casino Del Sol Stadium in Tucson. **Worn: cardinal helmet, white jersey and cardinal pants**, confirmed from the team's game photos. Arizona wore a white helmet, navy jersey and white pants for Homecoming. **Final: Arizona 39, Iowa State 3.**
 
-**October 31 vs. Oklahoma State.** Confirmed: blackout. Iowa State posted "halloween threads" on October 27: a black helmet with a white center stripe and a white Cynado logo, a black jersey and black pants, the first time Iowa State has gone black this season. Oklahoma State is expected in white. Full Halloween weekend rundown: [college football Week 9 uniforms](/stories/college-football-week-9-uniforms-2026).
+**October 31 vs. Oklahoma State.** Confirmed: blackout. Iowa State posted "halloween threads" on October 27: a black helmet with a white center stripe and a white Cynado logo, a black jersey and black pants, the first time Iowa State has gone black this season. ★ Confirmed from game photos: Oklahoma State came in all orange, so it was black against orange on Halloween night, and the Big 12 called it "the most perfect Halloween Night jersey matchup" in history. **Iowa State 51, No. 24 Oklahoma State 49**, on a 34-yard Kyle Konrardy field goal as time expired. More on the matchup: [Oklahoma State vs Iowa State, orange vs black](/stories/oklahoma-state-iowa-state-halloween-uniforms-orange-vs-black-2026). Full Halloween weekend rundown: [college football Week 9 uniforms](/stories/college-football-week-9-uniforms-2026).
 
 **November 7 at Baylor.** White expected. It is Baylor's homecoming at McLane Stadium, which usually means a green-heavy look from the Bears.
 
@@ -86,7 +86,7 @@ Through the first three games, Iowa State wore a cardinal helmet every week and 
 
 **What jersey is Iowa State wearing this week?**
 
-Iowa State wore the cardinal helmet, white jersey and cardinal pants at Arizona on Saturday, October 24, confirmed from the team's game photos, and lost 39-3. Next is Oklahoma State at home on Halloween, October 31, in the confirmed blackout with the Cynado helmet. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Iowa State wore the cardinal helmet, white jersey and cardinal pants at Arizona on Saturday, October 24, confirmed from the team's game photos, and lost 39-3. Then came the Halloween blackout against Oklahoma State on October 31, black helmet with the Cynado logo, black jersey and black pants, against the Cowboys in all orange, and a 51-49 win on the last kick. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Iowa State's football uniforms for 2026?**
 

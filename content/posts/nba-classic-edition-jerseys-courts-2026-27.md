@@ -3,7 +3,7 @@ title: "NBA Classic Edition Jerseys 2026-27 Ranked: Pacers, Nets, Spurs and Nugg
 author: "colorway-sports-staff"
 category: "NBA"
 date: "2026-10-12"
-updatedDate: "2026-10-12"
+updatedDate: "2026-11-01"
 excerpt: "The Nets, Nuggets, Pacers and Spurs ABA Classic Edition jerseys and courts for 2026-27, graded and ranked, plus every date each uniform is worn."
 gradient: "linear-gradient(135deg, #0B4DA2 0%, #14284b 50%, #E8591A 130%)"
 coverImage: "/images/posts/nba-classic-edition-jerseys-courts-2026-27/cover.jpg"
@@ -156,6 +156,10 @@ We absolutely love it. The pop of blue is fantastic, and it fits where the Pacer
 **The court:** The Pacers' **Classic Court** is inspired by two of the team's old ABA courts. The lanes are **plaid, honoring Bobby "Slick" Leonard**, the coach who led all three ABA title teams. The years **1970, 1972 and 1973** are on the floor for those three championships, the silhouette of the ABA championship trophy sits at center court, and banners honor George McGinnis, Mel Daniels, Roger Brown and Leonard, the Hall of Famers who built that dynasty.
 
 The court is beautiful. The plaid is a detail you could only do in Indiana, and it is packed with history without looking busy. It is an **A**, and paired with the best jersey of the set, it makes the Pacers our No. 1.
+
+**Update, November 1:** the Classic Court made its debut at Gainbridge Fieldhouse against the Nets, with both teams in their ABA Classic Editions.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Pacers/status/2116961084707930213"></a></blockquote>
 
 **When the Pacers wear it:** 15 games, which Indiana is calling **ABA Days**, home and road. Six of them are against other ABA teams in their Classic Editions, including a blue vs orange night at Denver on December 27.
 

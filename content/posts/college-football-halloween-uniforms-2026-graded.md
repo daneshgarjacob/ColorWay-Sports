@@ -111,7 +111,9 @@ A pirate is already halfway to a costume. Put him on a white shell, march him ac
 
 **What they wore:** all orange, orange helmet, orange jersey and orange pants, with the skeleton-print cleats from the reveal. Iowa State answered in all black, black helmet, black jersey and black pants. **Result:** Iowa State 51, No. 24 Oklahoma State 49, on a 34-yard field goal by Kyle Konrardy as time expired.
 
-Orange against black is the Halloween color scheme, and these two teams split it down the middle. It was the best-looking matchup of the night and the best game, too: 100 points, an Oklahoma State touchdown with 53 seconds left, and a penalty on the celebration that set up the winning kick. Oklahoma State lost, but nobody on this list dressed more for the holiday. It was also [our Jersey of the Day](/jersey-of-the-day). **Grade: A-.**
+Orange against black is the Halloween color scheme, and these two teams split it down the middle. It was the best-looking matchup of the night and the best game, too: 100 points, an Oklahoma State touchdown with 53 seconds left, and a penalty on the celebration that set up the winning kick. Oklahoma State lost, but nobody on this list dressed more for the holiday. It was also [our Jersey of the Day](/jersey-of-the-day). **Grade: A-.** More on the night: [Oklahoma State vs Iowa State, orange vs black](/stories/oklahoma-state-iowa-state-halloween-uniforms-orange-vs-black-2026).
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Big12Conference/status/2116706071364690107"></a></blockquote>
 
 ## 1. Syracuse: Our Favorite Look of the Weekend
 
