@@ -31,6 +31,8 @@ A few of these picks go against the early consensus. We have the Panthers' coral
 
 Vegas went all in on a casino theme: a black sweater, a jade shoulder yoke with a felt-table texture and card suits, red-and-black roulette bands on the sleeves and numbers in a playing-card font. Every one of those ideas is on the sweater at the same time, and none of them work together. This is by far the ugliest jersey in the program and one of the worst sweaters the NHL has put on the ice in years.
 
+**Our full take:** [The Golden Knights' Hometown Remix jersey is the ugliest in the NHL](/stories/golden-knights-hometown-remix-jersey-worst).
+
 **First worn Sunday, Nov. 15 vs. Vancouver. Five games.** [Golden Knights uniform schedule](/stories/golden-knights-uniform-schedule-2026-27)
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
@@ -70,6 +72,8 @@ Winnipeg's northern lights idea is the best of the three bland blue sweaters at 
 ## 28. Florida Panthers
 
 Here is where we split from almost everyone. Florida's coral sweater, with sunrise bands and the palm-tree logo on the chest, is near the top of most rankings. To us the pink-coral base is an eyesore, and no amount of good retro detail saves it.
+
+**Our full take:** [Everyone loves the Panthers' pink Remix. We think it's an eyesore](/stories/panthers-hometown-remix-jersey-overrated).
 
 **First worn Monday, Nov. 2 vs. Detroit. 10 games, all at home.** [Panthers uniform schedule](/stories/florida-panthers-uniform-schedule-2026-27)
 
@@ -340,6 +344,8 @@ Blue with a white marble yoke, bronze trim, the Screaming Eagle on the shoulders
 ## 1. Pittsburgh Penguins
 
 Perfect. A pop-art penguin for Pittsburgh's Andy Warhol, light blue trim and halftone dots, on a deep blue sweater. It reminds us of the Penguins' 2008 Winter Classic jersey, which is about as perfect as a hockey sweater gets. Pittsburgh and Washington are our two favorite uniform teams in the league, and they finish one and two again.
+
+**Our full take:** [The Penguins' Hometown Remix jersey is the best in the NHL](/stories/penguins-hometown-remix-jersey-best). When every team wears its Remix: [all 32 debut dates](/stories/nhl-hometown-remix-jersey-schedule-debut-dates).
 
 **First worn Tuesday, Nov. 3 vs. Vegas. 10 games.** [Penguins uniform schedule](/stories/penguins-uniform-schedule-2026-27)
 

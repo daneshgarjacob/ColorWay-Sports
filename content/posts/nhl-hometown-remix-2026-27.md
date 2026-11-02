@@ -27,6 +27,8 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 ## Every Hometown Remix Jersey
 
+Want the dates first? Here is [when every team debuts its Remix jersey](/stories/nhl-hometown-remix-jersey-schedule-debut-dates). Our picks: [the Penguins' is the best](/stories/penguins-hometown-remix-jersey-best), [the Golden Knights' is the worst](/stories/golden-knights-hometown-remix-jersey-worst).
+
 ### Anaheim Ducks
 
 **Green, purple and gold.** The Mighty Ducks green is back. The original duck-mask crest returns in a refreshed version on a gold base, the sleeves borrow the Flying V cut from the current home sweater, and the purple-and-gold striping is a direct nod to the District 5 jerseys from the movies. A wave pattern runs along the hem, and "Orange Country" is stitched inside it.
