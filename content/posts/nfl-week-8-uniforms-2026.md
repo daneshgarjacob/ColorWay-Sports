@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: NFL
 homepageHero: "2026-10-29"
 date: "2026-10-27"
-updatedDate: "2026-10-31"
+updatedDate: "2026-11-02"
 excerpt: "NFL Week 8 uniforms (Oct. 29-Nov. 2): the Lions debut their Defend the Den Rivalries uniform against the Vikings, the Jaguars debut Bold City against the Colts, plus the Falcons in red at Tampa, the Dolphins all white, the Commanders in burgundy and gold, and every other game."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #0076B6 130%)"
 coverImage: "/images/posts/nfl-week-8-uniforms-2026/cover.jpg"
@@ -20,6 +20,8 @@ resurfaceOnUpdate: true
 Week 8 of the 2026 NFL season runs from Thursday, October 29 to Monday, November 2, with 14 games and four teams on bye: the New Orleans Saints, New York Giants, Houston Texans and San Francisco 49ers. The headline is two brand-new uniforms on the same Sunday afternoon. **Detroit debuts its Rivalries uniform**, the silver set with "Defend the Den" inside the collar and the electric blue carbon-fiber helmet, at Ford Field against Minnesota. At the same 1:00 p.m. kickoff, **Jacksonville debuts "Bold City"**, the alabaster jersey with spotted black pants and a gloss teal helmet, against Indianapolis. Both dates come straight from the Nike and NFL reveal on August 25, as reported by [ESPN](https://www.espn.com/nfl/story/_/id/49578264/nfl-nike-2026-rivalries-uniform-gear-series-unveiling-nfc-north-afc-south) and [NFL.com](https://www.nfl.com/news/nike-nfl-rivalries-2026-uniform-reveal).
 
 Around them: Buffalo wears royal blue for its Native American Heritage game against Baltimore, Dallas is in white at home with Arizona answering in red, the Chargers bring the all-white look they announced for the Rams game at SoFi, Atlanta wears red at Tampa Bay, Miami goes white on white against New England, and Washington wears burgundy over gold pants on Sunday night. The week opens with Carolina at Green Bay on Thursday night.
+
+**Update, Monday, November 2:** every Sunday game is final, and the full list below now shows what each team actually wore, checked against game photos. The biggest surprise: Minnesota went **purple from helmet to pants** at Detroit, and Cleveland paired orange pants with its white jerseys in Pittsburgh. Chicago at Seattle on Monday night is the last game of the week.
 
 Below is every Week 8 look we know, special ones first and then all 14 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
 
@@ -201,22 +203,22 @@ For the rest of the season's looks, see the [Jets 2026 uniform schedule](/storie
 
 ### Sunday, November 1
 
-- **Baltimore Ravens at Buffalo Bills**, 1:00 p.m. ET, CBS. Ravens: black helmet, white jersey, white pants (confirmed). Bills: white helmet, royal blue jersey for Native American Heritage (confirmed). Matchup grade: B.
-- **Tennessee Titans at Cincinnati Bengals**, 1:00 p.m. ET, CBS. Titans: white (expected). Bengals: striped orange helmet, black jersey, white pants (confirmed). Matchup grade: B-.
-- **Arizona Cardinals at Dallas Cowboys**, 1:00 p.m. ET, FOX. Cardinals: white helmet, cardinal red jersey (scheduled). Cowboys: silver helmet, white jersey (scheduled). Matchup grade: B+.
-- **Minnesota Vikings at Detroit Lions**, 1:00 p.m. ET, FOX. Vikings: purple (expected). Lions: Rivalries debut, electric blue helmet, silver jersey (confirmed). Matchup grade: B+.
-- **Las Vegas Raiders at New York Jets**, 1:00 p.m. ET, FOX. Raiders: silver helmet, white jersey (expected). Jets: green helmet, green jersey, green pants (confirmed). Matchup grade: B+.
-- **Cleveland Browns at Pittsburgh Steelers**, 1:00 p.m. ET, CBS. Browns: orange helmet, white jersey (expected). Steelers: black helmet, black jersey (expected). Matchup grade: B+.
-- **Atlanta Falcons at Tampa Bay Buccaneers**, 1:00 p.m. ET, FOX. Falcons: black helmet, red jersey, white pants (confirmed). Buccaneers: white (expected). Matchup grade: B.
-- **Indianapolis Colts at Jacksonville Jaguars**, 1:00 p.m. ET, CBS. Colts: royal blue (expected). Jaguars: Bold City debut, teal helmet, alabaster jersey, spotted black pants (confirmed). Matchup grade: B.
-- **Los Angeles Chargers at Los Angeles Rams**, 4:05 p.m. ET, FOX. Chargers: white helmet, white jersey, white pants (confirmed). Rams: royal jersey, Sol pants (confirmed). Matchup grade: B+.
-- **Kansas City Chiefs at Denver Broncos**, 4:25 p.m. ET, CBS. Chiefs: red helmet, white jersey (expected). Broncos: navy helmet, Sunset Orange jersey, Summit White pants (confirmed). Matchup grade: B+.
-- **New England Patriots at Miami Dolphins**, 4:25 p.m. ET, CBS. Patriots: silver helmet, navy jersey, silver pants (confirmed). Dolphins: white helmet, white jersey, white pants (confirmed). Matchup grade: B.
-- **Philadelphia Eagles at Washington Commanders**, 8:20 p.m. ET, NBC. Eagles: midnight green helmet, white jersey, midnight green pants (confirmed). Commanders: burgundy jersey, gold pants (confirmed). Matchup grade: B+.
+- **Baltimore Ravens at Buffalo Bills**, 1:00 p.m. ET, CBS. Ravens: black helmet, white jersey, white pants (worn). Bills: white helmet, royal blue jersey, white pants for Native American Heritage (worn). Final: Bills 36, Ravens 10. Matchup grade: B.
+- **Tennessee Titans at Cincinnati Bengals**, 1:00 p.m. ET, CBS. Titans: white helmet, white jersey, light blue pants (worn). Bengals: striped orange helmet, black jersey, white pants (worn). Final: Bengals 43, Titans 36. Matchup grade: B-.
+- **Arizona Cardinals at Dallas Cowboys**, 1:00 p.m. ET, FOX. Cardinals: white helmet, cardinal red jersey, cardinal red pants (worn). Cowboys: silver helmet, white jersey, silver-green pants (worn). Final: Cardinals 33, Cowboys 30. Matchup grade: B+.
+- **Minnesota Vikings at Detroit Lions**, 1:00 p.m. ET, FOX. Vikings: purple helmet, purple jersey, purple pants (worn). Lions: Rivalries debut, electric blue helmet, silver jersey, silver pants (worn). Final: Lions 19, Vikings 15. Matchup grade: B+.
+- **Las Vegas Raiders at New York Jets**, 1:00 p.m. ET, FOX. Raiders: silver helmet, white jersey, silver pants (worn). Jets: green helmet, green jersey, green pants (worn). Final: Raiders 38, Jets 33. Matchup grade: B+.
+- **Cleveland Browns at Pittsburgh Steelers**, 1:00 p.m. ET, CBS. Browns: orange helmet, white jersey, orange pants (worn). Steelers: black helmet, black jersey, gold pants (worn). Final: Steelers 27, Browns 6. Matchup grade: B+.
+- **Atlanta Falcons at Tampa Bay Buccaneers**, 1:00 p.m. ET, FOX. Falcons: black helmet, red jersey, white pants (worn). Buccaneers: pewter helmet, white jersey, pewter pants (worn). Final: Buccaneers 16, Falcons 0. Matchup grade: B.
+- **Indianapolis Colts at Jacksonville Jaguars**, 1:00 p.m. ET, CBS. Colts: white helmet, royal blue jersey, white pants (worn). Jaguars: Bold City debut, teal helmet, alabaster jersey, spotted black pants (worn). Final: Jaguars 42, Colts 7. Matchup grade: B.
+- **Los Angeles Chargers at Los Angeles Rams**, 4:05 p.m. ET, FOX. Chargers: white helmet, white jersey, white pants, powder blue socks (worn). Rams: royal helmet, royal jersey, Sol pants (worn). Final: Rams 24, Chargers 9. Matchup grade: B+.
+- **Kansas City Chiefs at Denver Broncos**, 4:25 p.m. ET, CBS. Chiefs: red helmet, white jersey, red pants (worn). Broncos: navy helmet, Sunset Orange jersey, Summit White pants (worn). Final: Broncos 28, Chiefs 24. Matchup grade: B+.
+- **New England Patriots at Miami Dolphins**, 4:25 p.m. ET, CBS. Patriots: silver helmet, navy jersey, silver pants (worn). Dolphins: white helmet, white jersey, white pants (worn). Final: Patriots 24, Dolphins 19. Matchup grade: B.
+- **Philadelphia Eagles at Washington Commanders**, 8:20 p.m. ET, NBC. Eagles: midnight green helmet, white jersey, midnight green pants (worn). Commanders: burgundy helmet, burgundy jersey, gold pants (worn). Final: Commanders 27, Eagles 10. Matchup grade: B+.
 
 ### Monday, November 2
 
-- **Chicago Bears at Seattle Seahawks**, 8:15 p.m. ET, ESPN. Bears: navy helmet, white jersey (expected). Seahawks: navy helmet, college navy jersey, grey pants (confirmed). Matchup grade: B.
+- **Chicago Bears at Seattle Seahawks**, 8:15 p.m. ET, ESPN. Bears: navy helmet, white jersey (the team's gameday graphic shows white). Seahawks: navy helmet, college navy jersey, grey pants (confirmed). Matchup grade: B.
 
 ### Byes
 
