@@ -1,11 +1,11 @@
 ---
-title: "NHL Hometown Remix Jerseys: Every Leak, Tease and Debut Date"
+title: "NHL Hometown Remix Jerseys: All 32 Revealed, With Photos and Debut Dates"
 author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: "NHL"
 date: "2026-08-19"
-updatedDate: "2026-10-30"
-excerpt: "All 32 Hometown Remix jerseys launch Monday, Nov. 2 at 10 a.m. ET, and the Panthers wear theirs first that night against Detroit. Every tease and leak so far, plus debut dates for the Flyers (Nov. 3), Sabres (Nov. 4), Islanders (Nov. 5) and Flames (Nov. 6)."
+updatedDate: "2026-11-02"
+excerpt: "All 32 NHL Hometown Remix jerseys are out: Mighty Ducks green, a brown Bruins varsity sweater, coral Panthers, a pop-art Penguins sweater and more. Every jersey, what it means and when each team wears it."
 gradient: "linear-gradient(135deg, #1b2733 0%, #111a24 55%, #5ec8f0 130%)"
 coverImage: "/images/posts/nhl-hometown-remix-2026-27/hometown-remix-logo.jpg"
 coverImagePosition: "center center"
@@ -15,89 +15,323 @@ league: "nhl"
 teams: []
 ---
 
-The NHL and Fanatics announced on August 19 that all 32 teams will wear a special edition jersey in 2026-27 under a program called **Hometown Remix**. It is the first league-wide uniform program Fanatics has run since taking over as the NHL's on-ice outfitter in 2024, and it is the first league-wide program of any kind since adidas closed out Reverse Retro.
+All 32 NHL Hometown Remix jerseys were revealed on Monday, November 2 at 10 a.m. ET, and they went on sale at the same time. Hometown Remix is the first league-wide uniform program Fanatics has designed since it became the NHL's on-ice outfitter in 2024. The brief to every team was the same: celebrate your city, your fans and your local culture.
 
-**Update, October 30: the reveal date is set.** The NHL announced on October 29 that all 32 Hometown Remix jerseys launch on **Monday, November 2 at 10 a.m. ET**, per [Russian Machine Never Breaks](https://russianmachineneverbreaks.com/2026/10/29/nhl-hometown-remix-jerseys-official-release-date-fanatics-capitals/). The Capitals team shop says its version goes on sale at 10 a.m. that day, and the [Golden Knights](https://news3lv.com/news/local/golden-knights-hometown-remix-jerseys-to-debut-monday-limited-stock-at-the-arsenal) say theirs debut Monday too. **The Florida Panthers wear theirs first, that night at home against the Detroit Red Wings.**
+The results range from Mighty Ducks green in Anaheim to a brown collegiate sweater in Boston, a coral beach-shirt look in Florida and a pop-art penguin in Pittsburgh. Below is every jersey, A to Z, with the team's own reveal post where it posted one, what the design is built around, and when each team first wears it.
 
-**No team has officially revealed its full design yet.** This page is where we will grade all 32 as they land.
+<div style="margin: 1.75em 0; padding: 1.25em 1.5em; background: #f5f7fb; border: 1px solid #dfe3ea; border-left: 5px solid #2f6bed; border-radius: 12px;"><p style="margin: 0 0 0.5em; font-size: 0.75em; font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; color: #2f6bed;">Hometown Remix at a glance</p><p style="margin: 0; font-size: 0.95em; color: #1c1c1c; line-height: 1.6;"><strong>32 teams</strong>, one special edition jersey each, designed from scratch by Fanatics over about two years.<br><strong>261 games</strong> feature a Remix jersey this season, including 19 where both teams wear theirs.<br><strong>On sale now</strong> at NHLShop.com, Fanatics.com and team stores. Premium jerseys are about $275 with a name and number; Authentic Pro jerseys run about $500.<br><strong>One season only</strong> for now. The NHL and Fanatics say they will judge the fan response before deciding on a second run.</p></div>
 
-**Update, October 27:** The reveal is days away and teams have started showing pieces of their Hometown Remix looks at practice and on social. Everything below is a **tease or a leak**, not a confirmed design. The Islanders say the jerseys are unveiled in **early November** as part of a league-wide campaign with Fanatics, and four teams have announced debut dates in the first week of November: the **Flyers on Nov. 3, the Sabres on Nov. 4, the Islanders on Nov. 5 and the Flames on Nov. 6**.
+**Who wears it first:** the Panthers, Blackhawks and Sharks all debuted theirs on Monday night. The Blue Jackets, Canadiens, Flyers and Penguins follow on Tuesday, Nov. 3.
 
-### Capitals: Blue, Black and Bronze at Practice
+**How the leaks held up:** almost every pre-reveal leak turned out to be right. The Capitals' Capitol Dome, marble and cherry blossom design matched the Icethetics report from October, and the Flyers' gray Liberty Bell sweater, the Islanders' white Fisherman and the Sharks' shark-teeth sleeves all matched earlier leaks.
 
-Washington broke in its Hometown Remix gear at practice on Monday, October 26. Per [Russian Machine Never Breaks](https://russianmachineneverbreaks.com/2026/10/26/washington-capitals-new-gear-goalie-masks-hometown-remix-jerseys/), the gear is mostly **blue, black and bronze**, with white logos and numbers. Skaters wore blue helmets and blue gloves with white cuffs and a bronze outline around the logo, and black pants with three bronze stars running down the side.
+## Every Hometown Remix Jersey
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Capitals/status/2114736559815631313"></a></blockquote>
+### Anaheim Ducks
+
+**Green, purple and gold.** The Mighty Ducks green is back. The original duck-mask crest returns in a refreshed version on a gold base, the sleeves borrow the Flying V cut from the current home sweater, and the purple-and-gold striping is a direct nod to the District 5 jerseys from the movies. A wave pattern runs along the hem, and "Orange Country" is stitched inside it.
+
+*Debuts Sunday, Nov. 8 vs. Pittsburgh. Worn 10 times, all at home.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AnaheimDucks/status/2117271009749508586"></a></blockquote>
 </div>
 
-Both goalies got new masks. Logan Thompson's is a new take on his 2024 Flaming Skull design, and Charlie Lindgren's new set carries the zig-zag pattern from his regular gear.
+### Boston Bruins
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Capitals/status/2114748729303437645"></a></blockquote>
+**Brown and gold.** Boston calls it the Varsity Sweater. It is the first all-brown Bruins uniform since 1924, with an arched collegiate "BRUINS" wordmark across the chest, a front number for the first time since the 1940s and rugby-style double stripes. It is a tribute to Boston's college hockey scene, with the brick pattern of the Freedom Trail tucked inside the hem.
+
+*Debuts Thursday, Nov. 12 vs. Montreal. Worn 12 times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLBruins/status/2117270706023182670"></a></blockquote>
 </div>
 
-**The leak:** the same RMNB report passes along a claim from Icethetics, which says it has seen the jersey: the Capitol Dome as the main logo, white, black and bronze stripes, marble textures, a Screaming Eagle shoulder patch and a cherry blossom tribute. The Capitals have not confirmed any of it, and they have not announced a debut date. Their promotional calendar has Remix giveaways on Nov. 7, Dec. 1, Jan. 12 and Jan. 14.
+### Buffalo Sabres
 
-### Flames: A Gold Hem and "One Last Ride"
+**Royal blue, white and gold.** The goat head returns in blue, white and gold with a red eye and a metallic gold outline. Buffalo built the sweater around its nickname as the City of Light, the first city lit by power from Niagara Falls, so lightning bolts and stars are debossed into the sleeve stripes and the shoulder patch pairs the B with an electrified sabre.
 
-On October 21 the Flames posted a teaser that appears to show the bottom hem of the new jersey in **gold**, with the words "one last ride" running vertically. That line ties it to the Saddledome's farewell season. Calgary will wear the jersey **nine times**, starting **Friday, Nov. 6 at home against Anaheim**, according to [Yardbarker](https://www.yardbarker.com/nhl/articles/calgary_flames_tease_key_new_detail_in_newest_jersey/s1_17830_44455994).
+*Debuts Wednesday, Nov. 4 vs. Ottawa. Worn eight times.*
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlames/status/2112937605507723566"></a></blockquote>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloSabres/status/2117270549898379478"></a></blockquote>
 </div>
 
-### Predators: Navy Helmets and Navy Pants
+### Calgary Flames
 
-At practice on Monday, October 12, Nashville skated in **navy helmets** instead of its usual white practice lids, plus a new version of **navy pants with gold trim** carrying a nod to the tri-star from the Tennessee state flag, [Yardbarker reported](https://www.yardbarker.com/nhl/articles/nashville_teases_hometown_remix_jerseys_at_practice/s1_17802_44421343). The Predators wear their Remix jersey **10 times**, starting **Nov. 7 against St. Louis**, and one of those nights will carry a Dolly Parton patch, per the [team's schedule announcement](https://www.nhl.com/predators/news/nashville-predators-to-wear-hometown-remix-jerseys-10-times-in-2026-27-season-will-also-honor-dolly-parton-2026-09-25).
+**Red and gold.** This one is a farewell to the Scotiabank Saddledome in its final season. The Flaming C is done in "88 Gold" with a texture taken from the arena's ceiling, the hem stripe traces the Saddledome's curved roofline, and 1983 and 2027 sit inside the hem for the building's first and last years.
 
-### Oilers: Black Pants and "Oil Country After Midnight"
+*Debuts Friday, Nov. 6 vs. Anaheim. Worn nine times, all at home.*
 
-Edmonton practiced in **black gloves and black pants** with a recolored Oilers logo, a black wordmark outlined in orange and grey, according to [Daily Hive](https://dailyhive.com/edmonton/oilers-tease-hometown-remix-logo-jersey). [Bleacher Report](https://bleacherreport.com/articles/25517184-nhl-teams-tease-hometown-remix-uniforms-photos-ahead-official-release) says the team's cipher teaser decodes to **"Oil Country After Midnight."** Black and orange plus a late-night theme points to a dark jersey, but that is a read on a tease, not a design. No debut date yet.
-
-### Confirmed Hometown Remix Debut Dates
-
-These come from team announcements. We will add the rest as clubs post them.
-
-<div style="overflow-x:auto;margin:1.5em 0;border:1px solid #e3e7ec;border-radius:12px;"><table style="width:100%;border-collapse:collapse;min-width:560px;margin:0;">
-<thead><tr><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Team</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Debut</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Opponent</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Remix games</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#12284B;">Source</th></tr></thead><tbody>
-<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;font-weight:700;">Flyers</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">Tue., Nov. 3</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">vs. Minnesota</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">13</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;"><a href="https://thehockeynews.com/nhl/philadelphia-flyers/latest-news/flyers-reveal-anticipated-hometown-remix-jersey-schedule">The Hockey News</a></td></tr>
-<tr style="background:#f6f7f9;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;font-weight:700;">Sabres</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">Wed., Nov. 4</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">vs. Ottawa</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">8</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;"><a href="https://www.nhl.com/sabres/news/2026-27-buffalo-sabres-alternate-jersey-schedule">Sabres</a></td></tr>
-<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;font-weight:700;">Islanders</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">Thu., Nov. 5</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">vs. Carolina</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">11</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;"><a href="https://www.nhl.com/islanders/news/islanders-announce-2026-27-hometown-remix-jersey-schedule">Islanders</a></td></tr>
-<tr style="background:#f6f7f9;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;font-weight:700;">Flames</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">Fri., Nov. 6</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">vs. Anaheim</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">9</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;"><a href="https://www.yardbarker.com/nhl/articles/calgary_flames_tease_key_new_detail_in_newest_jersey/s1_17830_44455994">Yardbarker</a></td></tr>
-<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;font-weight:700;">Predators</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">Sat., Nov. 7</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">vs. St. Louis</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">10</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;"><a href="https://www.nhl.com/predators/news/nashville-predators-to-wear-hometown-remix-jerseys-10-times-in-2026-27-season-will-also-honor-dolly-parton-2026-09-25">Predators</a></td></tr>
-<tr style="background:#f6f7f9;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;font-weight:700;">Blues</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">Tue., Nov. 17</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">vs. Anaheim</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">10</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;"><a href="https://www.nhl.com/blues/news/blues-announce-2026-27-sweater-schedule">Blues</a></td></tr>
-<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;font-weight:700;">Jets</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">Tue., Nov. 17</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">vs. Ottawa</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;">n/a</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;vertical-align:top;font-size:0.9em;line-height:1.45;"><a href="https://bleacherreport.com/articles/25517184-nhl-teams-tease-hometown-remix-uniforms-photos-ahead-official-release">Bleacher Report</a></td></tr>
-</tbody></table></div>
-
-Toronto has also named nine Remix Nights starting Nov. 7, though the Maple Leafs have not said the sweater debuts that night.
-
-**Panthers first, on Nov. 2:** with the league-wide launch set for Monday, November 2, the Panthers wear the first Hometown Remix jersey in a game that night at home against the Detroit Red Wings, per [Russian Machine Never Breaks](https://russianmachineneverbreaks.com/2026/10/29/nhl-hometown-remix-jerseys-official-release-date-fanatics-capitals/) and [Florida Hockey Now](https://floridahockeynow.com/pink-florida-panthers-jersey-hometown-remix-monday-v-detroit-red-wings/). The Flyers follow on Nov. 3.
-
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Fanatics/status/2090091280688668994"></a></blockquote>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlames/status/2117270868116033640"></a></blockquote>
 </div>
 
-<img src="/images/posts/nhl-hometown-remix-2026-27/hometown-remix-logo.jpg" alt="NHL Hometown Remix program logo, HOMETOWN in white block capitals with REMIX below it in a green graffiti script and an arrow, on black" style="width:100%;max-width:640px;display:block;margin:1.4em auto;border-radius:12px;border:1px solid #ececec;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the NHL and Fanatics</p>
+### Carolina Hurricanes
 
-Back in August, the program logo was the only thing anyone had seen: block capitals for HOMETOWN, a green graffiti script for REMIX, and an arrow. It is a music-and-street-culture reference rather than a hockey one, which tells you something about the direction before a single sweater exists.
+**Storm gray, red and black.** Carolina's first gray sweater puts mascot Stormy on the chest for the first time, strutting in a collegiate-style mark. Oak leaves are debossed into the red sleeve stripes for Raleigh, the City of Oaks, and one shoulder patch carries the State Capitol dome as a nod to the old Raleigh IceCaps.
 
-<div style="display: flex; justify-content: center; margin: 2em 0;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLPR/status/2090091784798122396"></a></blockquote>
+*Debuts Saturday, Nov. 7 vs. Chicago. Worn 11 times, on Saturday home dates.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canes/status/2117270656173604881"></a></blockquote>
 </div>
 
-## What Hometown Remix Actually Is
+### Chicago Blackhawks
 
-Here is everything the league has confirmed, and it is worth being precise because a lot of the early coverage is filling gaps with guesses.
+**Kelly green, black and cream.** The Blackhawks' first green on-ice sweater keeps the primary crest and adds four six-pointed Chicago flag stars to each sleeve. The striping honors the 1961 Stanley Cup team, the collar laces up like a 1960s sweater, and "I Will" is stitched inside the hem. Green ties to the river the city dyes every March.
 
-- **All 32 teams** get one special edition jersey.
-- **Designed and developed by Fanatics**, the NHL's authentic on-ice uniform outfitter since 2024.
-- The brief is to **celebrate the fans, the city, and the local culture** of each team.
-- It is not jerseys alone. The collection includes **authentic and replica sweaters plus a broader apparel and headwear range**.
-- **More information follows shortly after the season begins on September 29, 2026.**
+*Debuted Monday, Nov. 2 vs. Colorado. Worn six times.*
 
-What the league itself has **not** said: one reveal date for all 32, and what any of the jerseys look like. Teams have since filled in some gaps on their own. Game counts vary by club, from eight for the Sabres to 13 for the Flyers, and debuts are spread across different nights rather than one league-wide opener (see the October 27 update above).
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLBlackhawks/status/2117273842599227687"></a></blockquote>
+</div>
+
+### Colorado Avalanche
+
+**White, blues and silver.** Colorado went for a frosted look. The flag-style C alternate logo takes the chest, filled with a topographic pattern that shades from light to dark blue like elevation lines on a map, and the same pattern runs through the numbers. The traditional Avalanche crest moves to the shoulders, with metallic silver trim on the sleeves.
+
+*Debuts Saturday, Nov. 7 vs. Detroit. Worn six times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Avalanche/status/2117270570148712643"></a></blockquote>
+</div>
+
+### Columbus Blue Jackets
+
+**Gray, navy and blue.** Columbus's first gray sweater puts the lone cannon from its Stadium Series jersey on the chest, outlined in white. The sleeves arch for the Arch City nickname, the old kepi shoulder patch returns, and "5th Line" is printed inside the hem for the fans.
+
+*Debuts Tuesday, Nov. 3 vs. Colorado. Worn 13 times, the most of any team.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJacketsNHL/status/2117270570895106535"></a></blockquote>
+</div>
+
+### Dallas Stars
+
+**White, black and neon green.** The neon green from the Blackout alternates is back, this time on a white base. The Stars logo is filled with thin lines meant to look like the Dallas skyline lit up at night, the black arm stripes carry a lattice texture taken from city architecture, and a neon-style "Dallas" sits inside the hem.
+
+*Debuts Wednesday, Nov. 25 vs. Nashville. Worn five times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DallasStars/status/2117270525139427718"></a></blockquote>
+</div>
+
+### Detroit Red Wings
+
+**Red and white.** The most traditional sweater of the 32. Detroit kept its red-and-white look and arched "HOCKEYTOWN" across the chest above the Winged Wheel. The details are inside: a purple octopus pattern in the hem for the Joe Louis Arena tradition, and copper lace eyelets at the collar.
+
+*The Red Wings have not posted their Remix dates yet.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DetroitRedWings/status/2117270542998802704"></a></blockquote>
+</div>
+
+### Edmonton Oilers
+
+**Black, orange and gray.** Edmonton went dark. The crest is black-on-black with orange outlines and an oil-splatter texture, the left shoulder reads "Oil Country", the right shoulder brings back a 1990s-style oil rig worker, and the hem reads "This is Oil Country" between rows of warning stripes.
+
+*Debuts Nov. 5 vs. Anaheim. Worn seven times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/EdmontonOilers/status/2117270580630302812"></a></blockquote>
+</div>
+
+### Florida Panthers
+
+**Coral, navy and gold.** The first NHL sweater with coral as its main color. The palm-tree-and-stick logo from the old shoulder patch takes the chest in front of horizontal sunrise bands, a nod to South Florida mornings and to Sunrise, the city the arena sits in. Navy shoulders and big yellow numbers finish it off. It reads like a vintage beach shirt, on purpose.
+
+*Debuted Monday, Nov. 2 vs. Detroit. Worn 10 times, all at home.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FlaPanthers/status/2117270711722979524"></a></blockquote>
+</div>
+
+### Los Angeles Kings
+
+**Purple, gold and black.** For their 60th season the Kings went back to purple and gold. The crest uses a Hollywood-style serif with a crown outline and pinstripe detailing, palm trees are debossed into the sleeves, and six diamonds inside the hem stand for six decades.
+
+*Debuts Wednesday, Nov. 4 vs. San Jose. Worn seven times, on Wednesday home dates.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/los-angeles-kings.jpg" alt="Los Angeles Kings Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+
+### Minnesota Wild
+
+**Black, green and white.** Minnesota turned its logo into a night sky, swapping the usual sun for a crescent moon. The Big Dipper and Little Dipper are debossed into the sleeves, and two small stars in every number stand for the Twin Cities.
+
+*Debuts Tuesday, Nov. 17 vs. Nashville. Worn 10 times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/mnwild/status/2117274288638329099"></a></blockquote>
+</div>
+
+### Montreal Canadiens
+
+**White, red and blue.** The CH gets an etched stonework treatment inspired by Old Montreal. The five symbols from the city flag, the white pine, fleur-de-lys, rose, thistle and shamrock, run down the sleeves, and the side panels fade like the slope of Mount Royal.
+
+*Debuts Tuesday, Nov. 3 vs. Winnipeg. Worn 10 times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2117270510841012386"></a></blockquote>
+</div>
+
+### Nashville Predators
+
+**Navy and gold.** Nashville dressed its sweater like a country singer's stage suit. The gold sabre-tooth crest sits on tonal navy filigree embroidery inspired by rhinestone stagewear, gold flourishes run down the lower sleeves, and an iris, the state flower, is worked into the sleeve detail.
+
+*Debuts Saturday, Nov. 7 vs. St. Louis. Worn 10 times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PredsNHL/status/2117270705184084026"></a></blockquote>
+</div>
+
+### New Jersey Devils
+
+**Black and red.** New Jersey flipped its 2024 Stadium Series look. The NJ monogram comes out of its circle, enlarged in red on a black body, with sharp angled red sleeve stripes and new lettering that mixes curves and hard cuts. It replaces the retired black "Jersey" alternate.
+
+*Debuts Wednesday, Nov. 18 vs. Montreal. Worn 10 times, all at home.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/new-jersey-devils.jpg" alt="New Jersey Devils Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+
+### New York Islanders
+
+**White, navy, teal and orange.** The Fisherman is back. The 1995-97 crest returns, cleaned up, on a white sweater with a navy yoke, lace-up collar and wavy teal, orange and navy stripes that echo the Atlantic. The lighthouse logo goes on the shoulder.
+
+*Debuts Thursday, Nov. 5 vs. Carolina. Worn 11 times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/new-york-islanders.jpg" alt="New York Islanders Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+
+### New York Rangers
+
+**Navy, red and white.** The Rangers dropped the team name for "NEW YORK" in diagonal stair-step lettering, with the 1990s Lady Liberty head as a patch over the heart. A textured red sleeve band carries a pattern from the base of the Statue of Liberty's torch, and the captain's patch honors first responders.
+
+*The Rangers have not posted their Remix dates yet.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/new-york-rangers.jpg" alt="New York Rangers Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+
+### Ottawa Senators
+
+**Black and gold.** Ottawa's centurion crest is done in brushed metallic gold on a black body. The sleeve stripes and the arched numbers are drawn from the Gothic architecture of Parliament Hill, and the English and French logos sit on opposite shoulders for the bilingual capital.
+
+*Debuts Thursday, Nov. 12 vs. Colorado. Worn nine times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/ottawa-senators.jpg" alt="Ottawa Senators Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+
+### Philadelphia Flyers
+
+**Gray, orange and black.** Philadelphia built its sweater around the Liberty Bell and America's 250th birthday. Six orange bands circle each arm for six decades of Flyers hockey, the Bell's inscription is stamped tone-on-tone into the black bands between them, and every number carries the Bell's crack.
+
+*Debuts Tuesday, Nov. 3 vs. Minnesota. Worn 13 times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlyers/status/2117270614830362945"></a></blockquote>
+</div>
+
+### Pittsburgh Penguins
+
+**Blue, light blue and gold.** A pop-art Penguins sweater for Pittsburgh native Andy Warhol. The skating penguin gets halftone dots and offset color like a 1960s screen print, the numbers get the same dot treatment, and the shoulder patches show an igloo for the old Civic Arena and a triangle for the Three Rivers.
+
+*Debuts Tuesday, Nov. 3 vs. Vegas. Worn 10 times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/penguins/status/2117270834507075988"></a></blockquote>
+</div>
+
+### San Jose Sharks
+
+**Teal, black and salmon pink.** San Jose turned its sleeves into a shark's mouth. The bands are cut into rows of teeth with a thin pink gum line, a tribute to the giant shark head the team skates out of before home games. The SJ secondary mark with a shark swimming through it takes the chest.
+
+*Debuted Monday, Nov. 2 vs. Calgary. Worn eight times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SanJoseSharks/status/2117272736406081769"></a></blockquote>
+</div>
+
+### Seattle Kraken
+
+**Deep sea blue, cream and ice blue.** The fan-favorite anchor logo finally gets the chest, in cream with scrimshaw-style etching. Two cream stripes echo the 2024 Winter Classic sweater, the numbers use lettering from hand-painted harbor boats, and red rhododendrons, the state flower, sit inside the hem.
+
+*Debuts Wednesday, Nov. 4 vs. Calgary. Worn six times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/seattle-kraken.jpg" alt="Seattle Kraken Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+
+### St. Louis Blues
+
+**Black, blue and silver.** St. Louis brought back its round "ST. LOUIS BLUES" crest with the Gateway Arch around the Blue Note and three wave lines for the Mississippi. Wave patterns are debossed into the black sleeve bands, and the numbers are beveled to look like the Arch's steel.
+
+*Debuts Tuesday, Nov. 17 vs. Anaheim. Worn 10 times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/st-louis-blues.jpg" alt="St. Louis Blues Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+
+### Tampa Bay Lightning
+
+**Black, sky blue and gray.** The pirate skull from this year's Stadium Series moves to the chest inside a round "TAMPA BAY LIGHTNING" crest. The bolt logo returns in sky blue on the shoulder for the first time since 2013-14, and the railing along Bayshore Boulevard is printed inside the hem.
+
+*Debuts Saturday, Nov. 14 vs. Detroit. Worn on Saturday home dates.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TBLightning/status/2117273387533787525"></a></blockquote>
+</div>
+
+### Toronto Maple Leafs
+
+**Cream and navy.** Toronto marks 100 years of the Maple Leafs name with the original 1927 many-pointed leaf in navy over an arched "TORONTO", on a cream sweater with navy stripes. Leaf veins are debossed into the stripes and numbers, and "TORONTO FOREVER" runs inside the hem.
+
+*Debuts Sunday, Nov. 8 vs. New Jersey.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MapleLeafs/status/2117275123581645246"></a></blockquote>
+</div>
+
+### Utah Mammoth
+
+**Mountain blue, black and white.** Utah's first sweater that is not black or white. The U-and-tusk logo takes the chest, and the black and white stripes are shaped so they form rising tusks when the arms hang down. The Wasatch Range is printed inside the hem.
+
+*Debuts Thursday, Nov. 5 at Montreal. Worn at least five times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/utah-mammoth.jpg" alt="Utah Mammoth Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+
+### Vancouver Canucks
+
+**Navy and bright blue.** Vancouver after dark. The orca is in tonal dark blues with only a silver eye and a bright blue outline, the bright blue sleeve bands carry a debossed skyline reflected in the water, and the lions of the Lions Gate Bridge sit inside the hem.
+
+*Debuts Friday, Nov. 13 vs. the Rangers. Worn six times, all at home.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/vancouver-canucks.jpg" alt="Vancouver Canucks Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+
+### Vegas Golden Knights
+
+**Black, gold, jade and red.** Vegas went full casino. The knight shield sits in an ornate jade frame, the jade shoulders carry a felt-table texture with card suits, the sleeve bands are cut like a roulette wheel in red and black, and the numbers use a playing-card typeface.
+
+*Debuts Sunday, Nov. 15 vs. Vancouver. Worn five times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/vegas-golden-knights.jpg" alt="Vegas Golden Knights Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+
+### Washington Capitals
+
+**Blue, marble white and bronze.** The Capitol Dome logo is back, with stars, crossed sticks and the Statue of Freedom. The yoke and stripes carry a white marble texture trimmed in bronze for the monuments on the Mall, the Screaming Eagle returns on the shoulders, and cherry blossoms surround "THE DMV" inside the hem.
+
+*Debuts Saturday, Nov. 7 vs. Florida. Worn 11 times.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/washington-capitals.jpg" alt="Washington Capitals Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+
+### Winnipeg Jets
+
+**Midnight navy with northern lights.** Winnipeg's sweater is the northern lights. The body is a night-sky navy, the sleeves fade from blue to light green, the crest and numbers glow in aurora colors, and a full aurora scene is printed inside the hem.
+
+*Debuts Tuesday, Nov. 17 vs. Ottawa. Worn eight times, all at home.*
+
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLJets/status/2117272136947736827"></a></blockquote>
+</div>
+
+## Which Hometown Remix Jerseys Are People Calling the Best and Worst?
+
+Early reaction has a clear favorite. Anaheim's Mighty Ducks green is at or near the top of nearly every ranking published on reveal day, with Florida's coral close behind. ESPN put Pittsburgh's pop-art sweater first, though its polka-dot numbers split Penguins fans.
+
+The most panned is Chicago. ESPN and The Athletic both ranked the green Blackhawks sweater last, and the St. Patrick's Day jokes started within minutes. Vancouver's all-navy sweater drew the "too safe" complaint, and the Rangers' "NEW YORK" lettering got a rough reception from Rangers fans. Boston's brown, Buffalo's royal blue and Montreal's white are the most divisive, landing near the top of some lists and near the bottom of others.
+
+Our own ranking of all 32 is coming.
 
 ## Why This Is a Bigger Deal Than a Normal Alternate
 
@@ -115,62 +349,51 @@ The comparison everyone will reach for is **Reverse Retro**, adidas's two league
 
 The lesson from both editions is consistent. **Programs anchored in something real outperform programs anchored in a concept.** Hometown Remix is a concept brief, which makes it higher risk and higher ceiling than Reverse Retro was.
 
-## When Do the Hometown Remix Jerseys Come Out?
-
-The NHL said in August that more information would come **shortly after the season began on September 29, 2026**. The Islanders have since said the jerseys are **unveiled in early November** as part of a league-wide campaign with Fanatics, and the first confirmed on-ice debut is the **Flyers on Nov. 3** against Minnesota. No exact league reveal date has been announced.
-
-We will update this page the moment anything is shown.
-
-## Every Hometown Remix Jersey, Graded
-
-No full design has been officially revealed. Teases and leaks are in the October 27 update above. As designs drop we will add each team here with a ColorWay grade, the same way we handle every league-wide program.
-
-<div style="margin: 1.5em 0; padding: 1.4em 1.6em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px; text-align: center;">
-  <p style="font-size: 0.72em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.6em;">0 of 32 revealed</p>
-  <p style="margin: 0; color: #14284b; font-size: 15px; line-height: 1.6;">Reveals are expected in <strong>early November</strong>. Every jersey gets added here with a grade as soon as it is official.</p>
-</div>
 
 <div style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The other NHL jersey story right now</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">The Islanders let fans vote a third jersey concept in. Hometown Remix is the league doing the opposite.</p><a href="/stories/islanders-third-jersey-navy-lighthouse" style="display: block; padding: 9px 0; color: #14284b; font-weight: 700; text-decoration: none;">Islanders Third Jersey: The Fan-Voted Navy Lighthouse, Graded</a></div>
 
 ## The Bottom Line
 
-A 32-team program is the biggest uniform story on the NHL calendar and this one carries an extra layer, because it is the first time Fanatics has been asked to design rather than manufacture. The brief has produced both the best and the worst alternates in other leagues. The sweater is a better canvas than most, and hockey fans are less forgiving than most. All 32 are revealed on Monday, November 2, and the Panthers wear the first one that night.
+Fanatics needed this to go well. Its 2024 takeover of NHL jerseys from adidas was not popular, and a 32-team program was the most public test it could take. The best of the set, Anaheim, Florida, Pittsburgh and Nashville, show what happens when a team commits to one idea from its own city. The weakest are the ones that played it safe or swapped in a new color without a reason. Either way, the NHL says orders are running four times ahead of the second Reverse Retro, so expect to see a lot of these in the stands.
 
 ## Frequently Asked Questions
 
-**What is the NHL Hometown Remix program?**
-A 2026-27 special edition uniform, apparel, and headwear program covering all 32 NHL teams, designed and developed by Fanatics. Each team's jersey is meant to celebrate its fans, its city, and its local culture.
+**When were the NHL Hometown Remix jerseys revealed?**
+Monday, November 2, 2026 at 10 a.m. ET. All 32 teams revealed at the same time, and the jerseys went on sale that morning.
 
-**When will the Hometown Remix jerseys be revealed?**
-Monday, November 2 at 10 a.m. ET. The NHL announced on October 29 that all 32 teams' jerseys launch at the same time, and they go on sale that morning.
-
-**Which teams are getting a Hometown Remix jersey?**
-All 32.
-
-**Who designed the Hometown Remix jerseys?**
-Fanatics, which has been the NHL's authentic on-ice uniform outfitter since 2024. This is its first league-wide creative program for the league.
-
-**Is Hometown Remix the same as Reverse Retro?**
-No. Reverse Retro was an adidas program that took real uniforms from a team's history and flipped the color scheme. Hometown Remix is a Fanatics program built around city and local culture rather than a team's own archive.
+**Where can I buy a Hometown Remix jersey?**
+NHLShop.com, NHLShop.ca, Fanatics.com, team stores and the NHL Shop in New York City. Premium jerseys run about $275 with a name and number, and Authentic Pro jerseys about $500.
 
 **How many games will teams wear the Hometown Remix jersey?**
-It varies by team. The Flyers have announced 13 games, the Islanders 11, the Predators and Blues 10 each, the Flames nine and the Sabres eight.
+It varies by team, from five games (Dallas, Vegas) to 13 (Columbus, Philadelphia). Across the league, 261 games feature a Remix jersey, and in 19 of them both teams wear theirs.
 
-**Which team debuts its Hometown Remix jersey first?**
-The Florida Panthers, on Monday, Nov. 2 at home against the Detroit Red Wings, the same day all 32 jerseys are revealed. The Philadelphia Flyers are next on Tuesday, Nov. 3 at home against the Minnesota Wild.
+**Which teams wore their Hometown Remix jerseys first?**
+The Florida Panthers, Chicago Blackhawks and San Jose Sharks, all on Monday, Nov. 2. Columbus, Montreal, Philadelphia and Pittsburgh debut theirs on Tuesday, Nov. 3.
+
+**Who designed the Hometown Remix jerseys?**
+Fanatics, which has been the NHL's authentic on-ice uniform outfitter since 2024. It is the first league-wide uniform program Fanatics has designed for any league.
+
+**Is Hometown Remix the same as Reverse Retro?**
+No. Reverse Retro was an adidas program that took a real uniform from a team's past and flipped its colors. Hometown Remix jerseys were designed from scratch around each team's city and local culture.
+
+**Will there be Hometown Remix jerseys next season?**
+Not yet announced. The NHL says the program is for 2026-27, and the league and Fanatics will look at the fan response before deciding on another edition.
 
 **What do the Capitals' Hometown Remix jerseys look like?**
-Washington has not revealed the jersey. At practice on October 26 the team wore blue, black and bronze gear with black pants carrying three bronze stars. A leak passed along by Icethetics describes a Capitol Dome logo, bronze stripes, marble textures and a cherry blossom tribute, but the team has not confirmed it.
+Blue with a white marble-textured yoke trimmed in bronze, the Capitol Dome logo on the chest, the Screaming Eagle on the shoulders and cherry blossoms around "THE DMV" inside the hem. Washington debuts it Nov. 7 against Florida.
 
-**What did the Flames tease for their Hometown Remix jersey?**
-A gold hem with the words "one last ride," a nod to the final season at the Scotiabank Saddledome. Calgary debuts the jersey Nov. 6 against Anaheim and wears it nine times.
+**Why are the Ducks' Hometown Remix jerseys green?**
+They are a tribute to the Mighty Ducks movies and the team's original identity, with purple and gold striping modeled on the District 5 sweaters. Anaheim says the green also stands for Orange County's parks and the gold for its sunsets.
 
-**What does "Oil Country After Midnight" mean?**
-Bleacher Report says it is the decoded message from the Oilers' Hometown Remix cipher tease. Edmonton has also practiced in black gloves and black pants, which points to a dark black-and-orange look. The team has not revealed the jersey or a debut date.
+**When do the Maple Leafs wear their Hometown Remix jersey?**
+Toronto debuts it Sunday, Nov. 8 against New Jersey and wears it on themed nights through the season, including Feb. 16 against Carolina for 100 years of the Maple Leafs name.
 
-**When do the Sabres, Islanders and Flames wear their Hometown Remix jerseys?**
-The Sabres debut theirs Nov. 4 against Ottawa, the Islanders Nov. 5 against Carolina, and the Flames Nov. 6 against Anaheim.
+**Which Hometown Remix jersey is the best?**
+Early rankings from ESPN, theScore and others most often put Anaheim's Mighty Ducks green on top, with Florida's coral and Pittsburgh's pop-art sweater close behind.
+
+**Which Hometown Remix jersey is the worst?**
+Chicago's green sweater is the most criticized so far. ESPN and The Athletic both ranked it last of the 32.
 
 <div style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">More NHL design</p><a href="/stories/canadiens-new-center-ice-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Montreal's New Center Ice for 2026-27, Graded</a><a href="/stories/nhl-stanley-cup-playoffs-logo-on-ice-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">The Stanley Cup Playoffs Ice Logo, Explained</a></div>
 
-*Hometown Remix logo via the NHL and Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Hockey League or Fanatics.*
+*Hometown Remix logo via the NHL and Fanatics. Product photos via Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Hockey League or Fanatics.*
