@@ -97,7 +97,7 @@ Burgundy and gold against white and midnight green is a proper rivalry frame und
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bears-white-road.jpg" alt="Chicago Bears white road jersey, expected at Seattle on Monday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bears · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-navy-home.jpg" alt="Seattle Seahawks college navy home jersey, expected against the Bears on Monday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Seahawks · Confirmed</figcaption></figure></div>
 
-**Monday, 8:15 p.m. ET, ESPN. Seahawks confirmed, Bears expected.** Seattle announced **navy and grey** for Monday night: the navy helmet, the college navy jersey with action green numbers and **grey pants**. Chicago is expected in **white** under the navy helmet.
+**Monday, 8:15 p.m. ET, ESPN. Both confirmed.** Seattle announced **navy and grey** for Monday night: the navy helmet, the college navy jersey with action green numbers and **grey pants**. Chicago wears **white** on the road with the navy helmet and **navy pants**, the look on the Bears' gameday graphic.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2115587643509723630"></a></blockquote>
@@ -218,7 +218,7 @@ For the rest of the season's looks, see the [Jets 2026 uniform schedule](/storie
 
 ### Monday, November 2
 
-- **Chicago Bears at Seattle Seahawks**, 8:15 p.m. ET, ESPN. Bears: navy helmet, white jersey (the team's gameday graphic shows white). Seahawks: navy helmet, college navy jersey, grey pants (confirmed). Matchup grade: B.
+- **Chicago Bears at Seattle Seahawks**, 8:15 p.m. ET, ESPN. Bears: navy helmet, white jersey, navy pants (confirmed). Seahawks: navy helmet, college navy jersey, grey pants (confirmed). Matchup grade: B.
 
 ### Byes
 

@@ -65,7 +65,7 @@ export function MyTeamsRow({ teams }: { teams: MyTeamCard[] }) {
           {editing ? "Done" : "Edit"}
         </button>
       </div>
-      <div className="flex gap-3 overflow-x-auto pb-2 snap-x">
+      <div className="flex gap-3 overflow-x-auto pt-2 pr-2 pb-2 snap-x lg:flex-wrap lg:overflow-visible">
         {mine.map((t) => (
           <div key={t.id} className="relative snap-start shrink-0 w-[260px] sm:w-[280px]">
             <Link
@@ -138,7 +138,8 @@ export function TeamPicker({ teams }: { teams: MyTeamCard[] }) {
           </button>
         ))}
       </div>
-      <div className="flex gap-2.5 overflow-x-auto pb-2">
+      {/* Phones swipe the row; wider screens wrap it, since a mouse cannot swipe (Jake 11/2). */}
+      <div className="flex gap-2.5 overflow-x-auto pt-2 pr-2 pb-2 lg:flex-wrap lg:overflow-visible">
         {shown.map((t) => {
           const on = ids.includes(t.id);
           return (
