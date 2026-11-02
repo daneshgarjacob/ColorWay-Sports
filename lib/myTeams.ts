@@ -8,6 +8,7 @@ import fs from "fs";
 import path from "path";
 import { buildNflTeamIndex } from "./nflTrackerTeamIndex";
 import { buildWinterIndex, shortDate } from "./winterTrackerIndex";
+import { NBA_TILE_COLORS } from "./nbaTileColors";
 import kickoffData from "@/content/data/nfl-kickoffs-2026.json";
 
 export type MyTeamLeague = "NFL" | "NBA" | "NHL" | "MLB";
@@ -74,6 +75,17 @@ function nflCards(now: Date): MyTeamCard[] {
   });
 }
 
+// NBA calls are edition names ("Icon Edition"), which mean nothing to most
+// readers, so the card names the jersey's color from its tile instead.
+function lookWords(league: "nba" | "nhl", call: string | undefined, img: string | undefined): string {
+  if (!call) return "Uniform to come";
+  if (league !== "nba") return call;
+  const color = img ? NBA_TILE_COLORS[img.split("/").pop() ?? ""] : undefined;
+  if (!color) return call;
+  const kind = /city/i.test(call) ? " City" : /classic/i.test(call) ? " Classic" : "";
+  return `${color}${kind} jersey`;
+}
+
 function winterCards(now: Date): MyTeamCard[] {
   const today = etToday(now);
   return buildWinterIndex().map((t) => {
@@ -88,7 +100,7 @@ function winterCards(now: Date): MyTeamCard[] {
     card.next = {
       when: g.date === today ? "Tonight" : shortDate(g.date),
       opp: `${g.home ? "vs" : "at"} ${opp}`,
-      look: g.uniform ?? g.expected ?? "Uniform to come",
+      look: lookWords(t.league, g.uniform ?? g.expected, g.image ?? g.expectedImage),
       img: g.image ?? g.expectedImage,
       confirmed: g.confirmed,
       at: Date.parse(`${g.date}T12:00:00Z`),
