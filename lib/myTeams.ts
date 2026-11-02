@@ -8,7 +8,7 @@ import fs from "fs";
 import path from "path";
 import { buildNflTeamIndex } from "./nflTrackerTeamIndex";
 import { buildWinterIndex, shortDate } from "./winterTrackerIndex";
-import { currentNflWeek } from "./nflWeek";
+import kickoffData from "@/content/data/nfl-kickoffs-2026.json";
 
 export type MyTeamLeague = "NFL" | "NBA" | "NHL" | "MLB";
 
@@ -36,26 +36,33 @@ export type MyTeamCard = {
   note?: string;
 };
 
-const MONTHS: Record<string, number> = { Jan: 0, Feb: 1, Mar: 2, Apr: 3, May: 4, Jun: 5, Jul: 6, Aug: 7, Sep: 8, Oct: 9, Nov: 10, Dec: 11 };
-
 function etToday(now: Date): string {
   return now.toLocaleDateString("en-CA", { timeZone: "America/New_York" });
 }
 
+type Kickoff = { week: number; away: string; home: string; kickoff: string };
+const KICKOFFS = (kickoffData as { games: Kickoff[] }).games;
+
 function nflCards(now: Date): MyTeamCard[] {
-  const week = currentNflWeek(now);
+  // A game stays "next" until about four hours after kickoff, then the card
+  // moves on to the following week (exact times from content/data/nfl-kickoffs-2026.json).
+  const live = now.getTime() - 4 * 3600_000;
   return buildNflTeamIndex().map((t) => {
     const card: MyTeamCard = {
       id: `nfl:${t.slug}`, league: "NFL", name: t.name, nickname: t.nickname, logo: t.logo,
       href: `/stories/${t.scheduleSlug}`, color: t.color,
     };
-    const g = t.games.find((x) => x.week >= week && !x.bye);
-    if (!g) return { ...card, note: "Season over" };
-    const m = g.window.match(/^\w{3}, (\w{3}) (\d+)/);
-    const at = m ? Date.UTC(2026, MONTHS[m[1]] ?? 0, Number(m[2])) : 0;
-    const bye = t.games.find((x) => x.week === week)?.bye;
+    const k = KICKOFFS.filter((x) => (x.away === t.nickname || x.home === t.nickname) && Date.parse(x.kickoff) > live)
+      .sort((a, b) => Date.parse(a.kickoff) - Date.parse(b.kickoff))[0];
+    const g = k && t.games.find((x) => x.week === k.week && !x.bye);
+    if (!k || !g) return { ...card, note: "Season over" };
+    const at = Date.parse(k.kickoff);
+    const etDay = (ms: number) => new Date(ms).toLocaleDateString("en-CA", { timeZone: "America/New_York" });
+    const when = etDay(at) === etToday(now)
+      ? "Today"
+      : new Date(at).toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", timeZone: "America/New_York" });
     card.next = {
-      when: `${bye ? "After the bye · " : ""}Week ${g.week}`,
+      when: `${when} · Week ${g.week}`,
       opp: g.matchup,
       // "White · MNF" → "White jersey"; the window tag reads as noise on a card.
       look: `${g.uniform.split(" · ")[0]} jersey`,
