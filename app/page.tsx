@@ -8,7 +8,10 @@ import {
   JakesTakes,
   TonightStrip,
 } from "@/components/home/HomeRefresh";
-import { getJakesTakes, getTonight, standsPhotoFor, standsPool, todayBrief } from "@/lib/homeToday";
+import { getJakesTakes, getTonight, latestStandsDate, standsPhotoFor, standsPool, todayBrief } from "@/lib/homeToday";
+import { MyTeamsRow, TeamPicker } from "@/components/home/MyTeams";
+import { getMyTeamCards } from "@/lib/myTeams";
+import { MOST_READ } from "@/lib/mostRead";
 import FromTheStandsRandom from "@/components/home/FromTheStandsRandom";
 import WireStrip from "@/components/WireStrip";
 import Footer from "@/components/Footer";
@@ -305,6 +308,9 @@ export default async function Home() {
   const brief = todayBrief(tonight, takes);
   const standsPhoto = standsPhotoFor(todayEt, new Set([...heroSlugs, ...gridSlugs]));
   const standsPhotos = standsPool(new Set([...heroSlugs, ...gridSlugs]));
+  const standsFresh = daysSince(latestStandsDate()) <= 7;
+  const mostRead = MOST_READ.map((slug) => posts.find((p) => p.slug === slug)).filter((p): p is Post => !!p).slice(0, 5);
+  const myTeamCards = getMyTeamCards();
   const todayLong = new Date(`${todayEt}T12:00:00Z`).toLocaleDateString("en-US", {
     weekday: "long",
     month: "long",
@@ -321,6 +327,10 @@ export default async function Home() {
         </h1>
         {/* 10/5: dateline + a brief written from today's data */}
         <TodayBrief day={todayLong} lines={brief} />
+
+        {/* Jake 11/2: the reader's followed teams, next uniform first. Shows only
+            after they follow a team in the Find Your Team row below. */}
+        <MyTeamsRow teams={myTeamCards} />
 
         {/* 10/5: lead story (2/3) + Jake's Takes rail (1/3) */}
         {heroPost && (
@@ -355,6 +365,8 @@ export default async function Home() {
           </section>
         )}
 
+        <TeamPicker teams={myTeamCards} />
+
         {/* Tonight across leagues, straight off the slate files. Moved below the
             lead + three cards 10/13 (Jake: one up top, three underneath). */}
         <div className="pt-8" />
@@ -365,7 +377,27 @@ export default async function Home() {
         {/* From the Stands (Jake's own photos, random each visit since 10/13) beside More Stories */}
         <section className="max-w-[1200px] mx-auto px-5 pb-12">
           <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,2fr)] gap-10">
-            <FromTheStandsRandom photos={standsPhotos} initial={standsPhoto} />
+            {/* Jake 11/2: From the Stands only within a week of his newest photo;
+                otherwise Most Read sends readers to the pages that earn. */}
+            {standsFresh ? (
+              <FromTheStandsRandom photos={standsPhotos} initial={standsPhoto} />
+            ) : (
+              <div>
+                <div className="border-b-2 border-black pb-2">
+                  <span className="font-display text-[11px] font-black tracking-[0.18em] uppercase text-black">Most Read This Week</span>
+                </div>
+                <ol>
+                  {mostRead.map((post, i) => (
+                    <li key={post.slug} className="border-b border-border">
+                      <Link prefetch={false} href={`/stories/${post.slug}`} className="group flex gap-3 py-3">
+                        <span className="font-serif text-[26px] font-extrabold text-orange leading-none w-6 shrink-0">{i + 1}</span>
+                        <span className="text-[15px] font-bold text-black leading-snug group-hover:text-orange">{post.title}</span>
+                      </Link>
+                    </li>
+                  ))}
+                </ol>
+              </div>
+            )}
             {compact.length > 0 && (
               <div>
                 <div className="flex items-center justify-between border-b-2 border-black pb-2">

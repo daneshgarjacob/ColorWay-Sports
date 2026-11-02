@@ -362,6 +362,13 @@ export function standsPool(shownSlugs: Set<string> = new Set()): StandsPhoto[] {
   return pool.length ? pool : FROM_THE_STANDS;
 }
 
+// Newest From the Stands photo date, read off its folder name (".../lakers-nuggets-2026-10-16/...").
+// The homepage shows the section only within a week of it (Jake 11/2: stale photos read as repetitive).
+export function latestStandsDate(): string {
+  const dates = FROM_THE_STANDS.map((p) => p.src.match(/(\d{4}-\d{2}-\d{2})/)?.[1] ?? "").filter(Boolean).sort();
+  return dates[dates.length - 1] ?? "2000-01-01";
+}
+
 export function standsPhotoFor(date: string, shownSlugs: Set<string> = new Set()): StandsPhoto {
   const n = FROM_THE_STANDS.length;
   const start = dayNumber(date) % n;
