@@ -408,4 +408,4 @@ All 32 were revealed and went on sale Monday, November 2, 2026. The Panthers, Bl
 **How many games will teams wear the Hometown Remix jersey?**
 It varies by team, from five games to 13. Every team's dates are on [our Hometown Remix tracker](/stories/nhl-hometown-remix-2026-27) and on each team's uniform schedule page.
 
-*Cover image via the NHL and Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Hockey League or Fanatics.*
+*Cover image and Hometown Remix logo via the NHL and Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Hockey League or Fanatics.*
