@@ -44,7 +44,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Thursday, Nov. 12 vs. Montreal. Worn 12 times.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLBruins/status/2117270706023182670"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLBruins/status/2117293430183231618"></a></blockquote>
 </div>
 
 ### Buffalo Sabres
@@ -54,7 +54,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Wednesday, Nov. 4 vs. Ottawa. Worn eight times.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloSabres/status/2117270549898379478"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloSabres/status/2117274022622728251"></a></blockquote>
 </div>
 
 ### Calgary Flames
@@ -74,7 +74,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Saturday, Nov. 7 vs. Chicago. Worn 11 times, on Saturday home dates.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canes/status/2117270656173604881"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canes/status/2117273003985613218"></a></blockquote>
 </div>
 
 ### Chicago Blackhawks
@@ -84,7 +84,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuted Monday, Nov. 2 vs. Colorado. Worn six times.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLBlackhawks/status/2117273842599227687"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLBlackhawks/status/2117294707466285106"></a></blockquote>
 </div>
 
 ### Colorado Avalanche
@@ -94,7 +94,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Saturday, Nov. 7 vs. Detroit. Worn six times.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Avalanche/status/2117270570148712643"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Avalanche/status/2117278409286144038"></a></blockquote>
 </div>
 
 ### Columbus Blue Jackets
@@ -104,7 +104,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Tuesday, Nov. 3 vs. Colorado. Worn 13 times, the most of any team.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJacketsNHL/status/2117270570895106535"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJacketsNHL/status/2117279050406248936"></a></blockquote>
 </div>
 
 ### Dallas Stars
@@ -114,7 +114,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Wednesday, Nov. 25 vs. Nashville. Worn five times.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DallasStars/status/2117270525139427718"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DallasStars/status/2117274331734491464"></a></blockquote>
 </div>
 
 ### Detroit Red Wings
@@ -134,7 +134,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Nov. 5 vs. Anaheim. Worn seven times.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/EdmontonOilers/status/2117270580630302812"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/EdmontonOilers/status/2117278197205414245"></a></blockquote>
 </div>
 
 ### Florida Panthers
@@ -144,7 +144,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuted Monday, Nov. 2 vs. Detroit. Worn 10 times, all at home.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FlaPanthers/status/2117270711722979524"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FlaPanthers/status/2117281713176911993"></a></blockquote>
 </div>
 
 ### Los Angeles Kings
@@ -153,7 +153,9 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 *Debuts Wednesday, Nov. 4 vs. San Jose. Worn seven times, on Wednesday home dates.*
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/los-angeles-kings.jpg" alt="Los Angeles Kings Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LAKings/status/2117281111831409003"></a></blockquote>
+</div>
 
 ### Minnesota Wild
 
@@ -162,7 +164,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Tuesday, Nov. 17 vs. Nashville. Worn 10 times.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/mnwild/status/2117274288638329099"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/mnwild/status/2117271006838755445"></a></blockquote>
 </div>
 
 ### Montreal Canadiens
@@ -172,7 +174,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Tuesday, Nov. 3 vs. Winnipeg. Worn 10 times.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2117270510841012386"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2117271956659585316"></a></blockquote>
 </div>
 
 ### Nashville Predators
@@ -191,7 +193,9 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 *Debuts Wednesday, Nov. 18 vs. Montreal. Worn 10 times, all at home.*
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/new-jersey-devils.jpg" alt="New Jersey Devils Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NJDevils/status/2117270523101245914"></a></blockquote>
+</div>
 
 ### New York Islanders
 
@@ -199,7 +203,9 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 *Debuts Thursday, Nov. 5 vs. Carolina. Worn 11 times.*
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/new-york-islanders.jpg" alt="New York Islanders Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NYIslanders/status/2117295492879270147"></a></blockquote>
+</div>
 
 ### New York Rangers
 
@@ -207,7 +213,9 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 *The Rangers have not posted their Remix dates yet.*
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/new-york-rangers.jpg" alt="New York Rangers Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NYRangers/status/2117272537100910865"></a></blockquote>
+</div>
 
 ### Ottawa Senators
 
@@ -215,7 +223,9 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 *Debuts Thursday, Nov. 12 vs. Colorado. Worn nine times.*
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/ottawa-senators.jpg" alt="Ottawa Senators Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Senators/status/2117301460132106499"></a></blockquote>
+</div>
 
 ### Philadelphia Flyers
 
@@ -224,7 +234,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Tuesday, Nov. 3 vs. Minnesota. Worn 13 times.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlyers/status/2117270614830362945"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlyers/status/2117275798805619016"></a></blockquote>
 </div>
 
 ### Pittsburgh Penguins
@@ -234,7 +244,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Tuesday, Nov. 3 vs. Vegas. Worn 10 times.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/penguins/status/2117270834507075988"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/penguins/status/2117273115403194555"></a></blockquote>
 </div>
 
 ### San Jose Sharks
@@ -244,7 +254,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuted Monday, Nov. 2 vs. Calgary. Worn eight times.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SanJoseSharks/status/2117272736406081769"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SanJoseSharks/status/2117295244219961764"></a></blockquote>
 </div>
 
 ### Seattle Kraken
@@ -253,7 +263,9 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 *Debuts Wednesday, Nov. 4 vs. Calgary. Worn six times.*
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/seattle-kraken.jpg" alt="Seattle Kraken Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SeattleKraken/status/2117314055765631179"></a></blockquote>
+</div>
 
 ### St. Louis Blues
 
@@ -261,7 +273,9 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 *Debuts Tuesday, Nov. 17 vs. Anaheim. Worn 10 times.*
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/st-louis-blues.jpg" alt="St. Louis Blues Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/StLouisBlues/status/2117278105807053280"></a></blockquote>
+</div>
 
 ### Tampa Bay Lightning
 
@@ -270,7 +284,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Saturday, Nov. 14 vs. Detroit. Worn on Saturday home dates.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TBLightning/status/2117273387533787525"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TBLightning/status/2117271823259709851"></a></blockquote>
 </div>
 
 ### Toronto Maple Leafs
@@ -280,7 +294,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Sunday, Nov. 8 vs. New Jersey.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MapleLeafs/status/2117275123581645246"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MapleLeafs/status/2117324249388273805"></a></blockquote>
 </div>
 
 ### Utah Mammoth
@@ -289,7 +303,9 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 *Debuts Thursday, Nov. 5 at Montreal. Worn at least five times.*
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/utah-mammoth.jpg" alt="Utah Mammoth Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/utahmammoth/status/2117293157838676450"></a></blockquote>
+</div>
 
 ### Vancouver Canucks
 
@@ -297,7 +313,9 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 *Debuts Friday, Nov. 13 vs. the Rangers. Worn six times, all at home.*
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/vancouver-canucks.jpg" alt="Vancouver Canucks Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canucks/status/2117279391814406539"></a></blockquote>
+</div>
 
 ### Vegas Golden Knights
 
@@ -305,7 +323,9 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 *Debuts Sunday, Nov. 15 vs. Vancouver. Worn five times.*
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/vegas-golden-knights.jpg" alt="Vegas Golden Knights Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoldenKnights/status/2117292170579169749"></a></blockquote>
+</div>
 
 ### Washington Capitals
 
@@ -313,7 +333,9 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 
 *Debuts Saturday, Nov. 7 vs. Florida. Worn 11 times.*
 
-<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 420px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nhl-hometown-remix-2026-27/washington-capitals.jpg" alt="Washington Capitals Hometown Remix jersey 2026-27, front and back" style="max-height: 360px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
+<div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Capitals/status/2117285869866328262"></a></blockquote>
+</div>
 
 ### Winnipeg Jets
 
@@ -322,7 +344,7 @@ The results range from Mighty Ducks green in Anaheim to a brown collegiate sweat
 *Debuts Tuesday, Nov. 17 vs. Ottawa. Worn eight times, all at home.*
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLJets/status/2117272136947736827"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLJets/status/2117273032863650283"></a></blockquote>
 </div>
 
 ## Which Hometown Remix Jerseys Are People Calling the Best and Worst?
@@ -396,4 +418,4 @@ Chicago's green sweater is the most criticized so far. ESPN and The Athletic bot
 
 <div style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">More NHL design</p><a href="/stories/canadiens-new-center-ice-2026-27" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Montreal's New Center Ice for 2026-27, Graded</a><a href="/stories/nhl-stanley-cup-playoffs-logo-on-ice-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">The Stanley Cup Playoffs Ice Logo, Explained</a></div>
 
-*Hometown Remix logo via the NHL and Fanatics. Product photos via Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Hockey League or Fanatics.*
+*Hometown Remix logo via the NHL and Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Hockey League or Fanatics.*
