@@ -199,6 +199,11 @@ export default async function Home() {
   const HOMEPAGE_HIDE = new Set([
     "dodgers-fans-leaving-early-la-sports-fans-spoiled",
     "canucks-black-skate-jersey-back-to-back-2026",
+    // Jake 11/2: MLB season is over, keep the MLB hubs off the homepage until spring.
+    "mlb-uniform-tracker-2026",
+    "mlb-uniform-schedule-2026",
+    "mlb-postseason-uniforms-2026",
+    "world-series-uniforms-2026",
   ]);
   // A slot is either a live pin or null (auto-fill), so the tracker stays in
   // the middle even when the pins on either side of it have expired.
