@@ -353,7 +353,7 @@ Early reaction has a clear favorite. Anaheim's Mighty Ducks green is at or near 
 
 The most panned is Chicago. ESPN and The Athletic both ranked the green Blackhawks sweater last, and the St. Patrick's Day jokes started within minutes. Vancouver's all-navy sweater drew the "too safe" complaint, and the Rangers' "NEW YORK" lettering got a rough reception from Rangers fans. Boston's brown, Buffalo's royal blue and Montreal's white are the most divisive, landing near the top of some lists and near the bottom of others.
 
-Our own ranking of all 32 is coming.
+We ranked all 32 too: [NHL Hometown Remix jerseys ranked, worst to best](/stories/nhl-hometown-remix-jerseys-ranked). The Penguins are No. 1 and the Golden Knights are last.
 
 ## Why This Is a Bigger Deal Than a Normal Alternate
 
