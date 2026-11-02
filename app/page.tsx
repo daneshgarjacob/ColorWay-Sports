@@ -1,8 +1,5 @@
 import Header from "@/components/Header";
 import NflWeekZoneV2 from "@/components/NflWeekZoneV2";
-import MlbUniformsZone from "@/components/MlbUniformsZone";
-import WorldSeriesZone from "@/components/WorldSeriesZone";
-import { getFeaturedSeries } from "@/lib/worldSeries";
 import NhlUniformsZone from "@/components/NhlUniformsZone";
 import StoryCard from "@/components/StoryCard";
 import {
@@ -22,7 +19,7 @@ import type { Metadata } from "next";
 import { getAllPosts, type PostMeta as Post } from "@/lib/posts";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
 import { currentNflWeek, getNflWeekChips } from "@/lib/nflWeek";
-import { isEliminatedMlbTeamPost, mlbBandSlugs } from "@/lib/mlbPostseason";
+import { isEliminatedMlbTeamPost } from "@/lib/mlbPostseason";
 
 export const metadata: Metadata = {
   alternates: {
@@ -52,16 +49,13 @@ const FRESH_DAYS = 2;
 // (10/5 rule), so check the cover before adding a slug, and drop stories once
 // they go stale.
 const HERO_ROTATION = [
-  "world-series-uniforms-2026",
+  "nhl-hometown-remix-jerseys-ranked",
   "nfl-week-8-uniforms-2026",
   "college-football-week-9-uniforms-2026",
-  "2026-nhl-heritage-classic-jerseys",
+  "nba-classic-edition-jerseys-courts-2026-27",
 ];
 
 export default async function Home() {
-  const series = getFeaturedSeries();
-  const worldSeriesOn = series?.kind === "World Series";
-  const alcsOn = series?.kind === "ALCS";
   const posts = getAllPosts();
   const filtered = posts.filter((p) => !TRACKER_SLUGS.has(p.slug));
 
@@ -254,9 +248,6 @@ export default async function Home() {
   // own render rule (it hides itself under 20 chips).
   const nflChips = getNflWeekChips(currentNflWeek());
   const bandSlugs = new Set([
-    // MlbUniformsZone: tracker + schedule hub in the regular season; from
-    // 9/29 the postseason post, tracker and each playoff team's schedule post.
-    ...mlbBandSlugs(todayEt),
     ...(nflChips.length >= 20
       ? ["nfl-uniform-schedule-2026", "nfl-uniform-tracker-2026", ...nflChips.map((c) => c.slug)]
       : []),
@@ -417,13 +408,8 @@ export default async function Home() {
         <NflWeekZoneV2 />
         {/* Jake 10/19: NBA band with every game's jerseys and our matchup grade. */}
         <NbaTonightZone />
-        {/* Jake 10/16: during the ALCS the series band replaces the MLB band in its usual spot. */}
-        {alcsOn && <WorldSeriesZone />}
-        {!worldSeriesOn && !alcsOn && <MlbUniformsZone />}
+        {/* Jake 11/2: MLB season is over, so the MLB and World Series bands are gone until spring. */}
         <NhlUniformsZone />
-        {/* Jake 10/30: the World Series is over, so its recap band sits last
-            (it led above NFL from 10/16 while the series was live). */}
-        {worldSeriesOn && <WorldSeriesZone />}
       </main>
       <Footer />
     </>

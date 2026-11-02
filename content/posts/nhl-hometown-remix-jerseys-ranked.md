@@ -6,6 +6,10 @@ excerpt: "All 32 NHL Hometown Remix jerseys, ranked by Jake Daneshgar from worst
 gradient: "linear-gradient(135deg, #1b2733 0%, #111a24 55%, #5ec8f0 130%)"
 author: "jake-daneshgar"
 logoSrc: "/logos/NHL.png"
+coverImage: "/images/posts/nhl-hometown-remix-jerseys-ranked/cover.jpg"
+coverImagePosition: "center center"
+coverImageFit: "cover"
+homepageHero: "2026-11-02"
 cardStyle: words
 kicker: Ranked
 league: nhl
@@ -404,4 +408,4 @@ All 32 were revealed and went on sale Monday, November 2, 2026. The Panthers, Bl
 **How many games will teams wear the Hometown Remix jersey?**
 It varies by team, from five games to 13. Every team's dates are on [our Hometown Remix tracker](/stories/nhl-hometown-remix-2026-27) and on each team's uniform schedule page.
 
-*ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Hockey League or Fanatics.*
+*Cover image via the NHL and Fanatics. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Hockey League or Fanatics.*
