@@ -23,13 +23,12 @@ The Chargers are changing more than the uniform this week. For **Super Chargers 
 
 In 2025 the Super Chargers field put a **white bolt** at midfield, outlined in navy and gold. This year the team swapped it for the **navy Super Chargers helmet** itself, with the white bolt on the side. The end zones are still navy with "CHARGERS" in white block letters, the San Diego-era lettering.
 
-**Last year (2025):** the white bolt at midfield.
+**Last year (2025):** the white bolt at midfield, outlined in navy and gold, with the same navy end zones. Here is the stadium on Super Chargers night against the Vikings in October 2025.
 
-<img src="/images/posts/chargers-super-chargers-field-texans-2026/field-2025-midfield-bolt.jpg" alt="SoFi Stadium field for the 2025 Super Chargers game, with the white bolt outlined in navy and gold painted at midfield" style="display:block;width:100%;max-width:640px;margin:1em auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">The 2025 Super Chargers midfield bolt. Photo: Los Angeles Chargers</p>
-
-<img src="/images/posts/chargers-super-chargers-field-texans-2026/field-2025-wide.jpg" alt="Wide view of the 2025 Super Chargers field at SoFi Stadium: navy end zones with white CHARGERS lettering and the white bolt at midfield" style="display:block;width:100%;max-width:640px;margin:1em auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">The full 2025 Super Chargers field. Photo: Los Angeles Chargers</p>
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/chargers/status/1981862015066137068"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The 2025 Super Chargers field, via @chargers</p>
 
 **This year (2026):** the navy helmet at midfield, in the team's field graphic at the top of this story. Same navy end zones, much bigger statement in the middle.
 
@@ -47,6 +46,10 @@ It is a modern version of the navy uniforms the franchise wore from 1992 through
 
 <img src="/images/posts/chargers-uniform-schedule-2026/alternates.jpg" alt="Los Angeles Chargers 2026 alternates graphic showing the all-navy Super Chargers uniform and the gold Charger Power jersey" style="display:block;width:100%;max-width:460px;margin:1.5em auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Image: Los Angeles Chargers</p>
+
+## Make It Full-Time
+
+Our take: the Super Chargers look shouldn't be a three-games-a-year thing. Navy jersey and white pants at home, white jersey and navy pants on the road, and a clean navy helmet with no number. [Here's the full case](/stories/chargers-should-make-super-chargers-full-time).
 
 ## Every Super Chargers Game in 2026
 
