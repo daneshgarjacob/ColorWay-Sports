@@ -248,7 +248,7 @@ const leagues: NavLeague[] = [
   },
   {
     // College basketball, promoted out of More 9/30. Sits after
-    // Soccer, ahead of F1 and NASCAR, which barely earn. No school pages
+    // Soccer (F1 and NASCAR moved under More 11/2). No school pages
     // yet, so the dropdown is the league stories page plus its posts; schools
     // join as conferences-with-carets, like CFB, once they have schedule posts.
     label: "CBB",
@@ -263,28 +263,16 @@ const leagues: NavLeague[] = [
     ],
   },
   {
-    label: "F1",
-    storiesLink: { label: "All F1 Stories", href: "/stories?league=f1" },
-    leagueLogo: "/logos/leagues/racing-f1.png",
-    teams: [
-      "Alpine", "Aston Martin", "Audi", "Cadillac",
-      "Ferrari", "Haas", "McLaren", "Mercedes",
-      "Racing Bulls", "Red Bull Racing", "Williams",
-    ],
-  },
-  {
-    label: "NASCAR",
-    storiesLink: { label: "All NASCAR Stories", href: "/stories?league=nascar" },
-    leagueLogo: "/logos/leagues/racing-nascar.png",
-    teams: [],
-  },
-  {
     // The long tail. Each of these graduates to its own rail item once it has
     // enough stories to be worth a permanent slot.
     label: "More",
     storiesLink: { label: "All Stories", href: "/stories" },
     teams: [],
     extraLinks: [
+      // Jake 11/2: F1 and NASCAR moved here from the main bar; we rarely post
+      // new racing stories and neither earns.
+      { label: "F1", href: "/stories?league=f1" },
+      { label: "NASCAR", href: "/stories?league=nascar" },
       // Jake 10/30: WNBA posts were filed under NBA (Comets logo); own league now.
       { label: "WNBA", href: "/stories?league=wnba" },
       { label: "Rugby", href: "/stories?league=rugby" },

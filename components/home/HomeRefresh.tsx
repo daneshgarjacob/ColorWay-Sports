@@ -69,6 +69,8 @@ export function LeadStory({ post, compact = false }: { post: PostMeta; compact?:
         )}
       </div>
       <div className="mt-4 flex items-center gap-2">
+        {/* League logo beside the label, like every story card (Jake 11/2). */}
+        {post.logoSrc && <img src={post.logoSrc} alt="" className="h-[20px] w-auto object-contain" />}
         {post.logoSrc2 && <img src={post.logoSrc2} alt="" className="h-[20px] w-auto" />}
         <span className="text-[11px] font-bold uppercase tracking-widest" style={{ color: leagueColor(post.category) }}>
           {post.category}

@@ -9,9 +9,10 @@ import path from "path";
 import { buildNflTeamIndex } from "./nflTrackerTeamIndex";
 import { buildWinterIndex, shortDate } from "./winterTrackerIndex";
 import { NBA_TILE_COLORS } from "./nbaTileColors";
+import { TEAM_LOGOS } from "./teamLogos";
 import kickoffData from "@/content/data/nfl-kickoffs-2026.json";
 
-export type MyTeamLeague = "NFL" | "NBA" | "NHL" | "MLB";
+export type MyTeamLeague = "NFL" | "NBA" | "NHL" | "MLB" | "CFB";
 
 export type MyTeamCard = {
   /** "nfl:chicago-bears" */
@@ -101,7 +102,11 @@ function winterCards(now: Date): MyTeamCard[] {
       when: g.date === today ? "Tonight" : shortDate(g.date),
       opp: `${g.home ? "vs" : "at"} ${opp}`,
       look: lookWords(t.league, g.uniform ?? g.expected, g.image ?? g.expectedImage),
-      img: g.image ?? g.expectedImage,
+      // Announced NHL specials carry no tile; Remix nights get the NHL's studio
+      // photo of that club's Hometown Remix jersey (Jake 11/2).
+      img: g.image ?? g.expectedImage ?? (t.league === "nhl" && /remix/i.test(`${g.uniform ?? ""} ${g.expected ?? ""}`)
+        ? `/images/posts/nhl-daily-tracker/${t.nickname.toLowerCase().replace(/[^a-z]+/g, "-")}-remix.jpg`
+        : undefined),
       confirmed: g.confirmed,
       at: Date.parse(`${g.date}T12:00:00Z`),
     };
@@ -132,6 +137,28 @@ function mlbCards(): MyTeamCard[] {
   return out;
 }
 
+// College football: one card per school with a schedule post. There is no
+// game-by-game data file for college yet, so the card points to the post,
+// where each week's look lives.
+function cfbCards(): MyTeamCard[] {
+  const posts = path.join(process.cwd(), "content", "posts");
+  const out: MyTeamCard[] = [];
+  for (const f of fs.readdirSync(posts)) {
+    if (!f.endsWith("-uniform-schedule-2026.md")) continue;
+    const head = fs.readFileSync(path.join(posts, f), "utf8").slice(0, 1500);
+    if (!/^league: "?college"?/m.test(head)) continue;
+    const team = head.match(/^teams: \["([^"]+)"/m)?.[1];
+    const logo = team && TEAM_LOGOS[team];
+    const school = head.match(/^title: "(.+?) Uniform Schedule/m)?.[1];
+    if (!team || !logo || !school) continue;
+    out.push({
+      id: `cfb:${team}`, league: "CFB", name: school, nickname: school, logo,
+      href: `/stories/${f.replace(/\.md$/, "")}`, color: "#0A1733", note: "This week's look",
+    });
+  }
+  return out;
+}
+
 export function getMyTeamCards(now = new Date()): MyTeamCard[] {
-  return [...nflCards(now), ...winterCards(now), ...mlbCards()].sort((a, b) => a.nickname.localeCompare(b.nickname));
+  return [...nflCards(now), ...winterCards(now), ...mlbCards(), ...cfbCards()].sort((a, b) => a.nickname.localeCompare(b.nickname));
 }

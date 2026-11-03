@@ -114,7 +114,8 @@ export function MyTeamsRow({ teams }: { teams: MyTeamCard[] }) {
   );
 }
 
-const TABS: MyTeamLeague[] = ["NFL", "NBA", "NHL", "MLB"];
+const TABS: MyTeamLeague[] = ["NFL", "CFB", "NBA", "NHL", "MLB"];
+const TAB_LABEL: Partial<Record<MyTeamLeague, string>> = { CFB: "College Football" };
 
 export function TeamPicker({ teams }: { teams: MyTeamCard[] }) {
   const [ids, toggle] = useFollowed();
@@ -134,7 +135,7 @@ export function TeamPicker({ teams }: { teams: MyTeamCard[] }) {
             onClick={() => setTab(l)}
             className={`font-display font-extrabold text-[13px] px-3.5 py-1.5 rounded-full border ${l === tab ? "bg-navy-deep text-white border-navy-deep" : "bg-white border-border text-black"}`}
           >
-            {l}
+            {TAB_LABEL[l] ?? l}
           </button>
         ))}
       </div>
