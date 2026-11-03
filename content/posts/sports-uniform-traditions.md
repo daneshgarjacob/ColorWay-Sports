@@ -104,10 +104,16 @@ The Yankees started wearing numbers in 1929 and never added names, home or road.
 
 ### 9. Yankees: The Grooming Rule, Now Bent
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FiresideYankees/status/1893422219197333848"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">Aaron Judge kept the clean-shaven look after the rule changed, via @FiresideYankees</p>
+
 <img src="/images/posts/yankees-first-alternate-uniform-2026/yankees-alternate-jersey.png" alt="Yankees navy alternate road jersey with gray NEW YORK wordmark" style="max-width: 460px; width: 100%; display: block; margin: 0 auto; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">The navy road alternate, the first in Yankees history. Image via Fanatics.</p>
 
-George Steinbrenner banned beards in 1976, and for almost 50 years Yankees players showed up clean-shaven. On February 21, 2025, the team relaxed it and allowed "well-groomed beards." In 2026, the Yankees also designated the [first alternate uniform in franchise history](/stories/yankees-first-alternate-uniform-2026), a navy road top.
+George Steinbrenner banned beards in 1976, and for almost 50 years Yankees players showed up clean-shaven. On February 21, 2025, the team relaxed it and allowed "well-groomed beards." Not everyone took the opening. Captain Aaron Judge said he supported the change but would stay clean-shaven in honor of the tradition. In 2026, the Yankees also designated the [first alternate uniform in franchise history](/stories/yankees-first-alternate-uniform-2026), a navy road top.
 
 **Our take:** Beards are fine. An alternate jersey is not. Some traditions you protect.
 
