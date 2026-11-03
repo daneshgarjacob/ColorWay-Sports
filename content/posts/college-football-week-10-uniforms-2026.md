@@ -3,7 +3,7 @@ title: "College Football Week 10 Uniforms 2026: Tennessee's Dark Mode, Florida A
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-30"
-updatedDate: "2026-11-02"
+updatedDate: "2026-11-03"
 excerpt: "College football Week 10 uniforms: Tennessee wears its all-black Dark Mode against Kentucky, Florida goes all blue against Oklahoma, and Miami visits Notre Dame, Alabama visits LSU and Oregon visits Ohio State. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #2a1a08 60%, #FF8200 130%)"
 coverImage: "/images/posts/college-football-week-10-uniforms-2026/cover.jpg"
@@ -26,6 +26,7 @@ Below is every uniform announced so far, then every game this week involving an 
 ## Every Uniform Announced for Week 10
 
 - **Tennessee: Dark Mode (Confirmed).** Black helmet with an orange Power T, black jersey with orange numbers, black pants, vs. No. 9 Kentucky. The first black game of the season and the first in the adidas version.
+- **Oregon: yellow helmet, green jersey (Oregon's game-week graphic).** At No. 2 Ohio State, with yellow pants expected. Full combination confirmed when Oregon posts its reveal.
 - **Florida: all blue (Announced in August).** Blue helmet, blue jersey, blue pants, vs. Oklahoma, from the season uniform schedule Florida published before the season. It is the only all-blue game on that schedule.
 
 That is the list as of Friday, October 30. Most of Week 10 is still playing Week 9, and the rest of the announcements will come from Monday on.
@@ -70,7 +71,9 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 
 ### Oregon at No. 2 Ohio State: First Meeting Since the Rose Bowl
 
-**Saturday, 3:30 p.m., CBS.** Neither team has posted yet. **Ohio State: Expected, scarlet.** It is Ohio State's first meeting with Oregon since the 2024 Rose Bowl. Ohio State revealed three alternates in May, Scarlet Rush, Tunnel Vision and Sub Zero, and has not assigned any of them to a game. **Oregon: Expected, white jersey.** Oregon picks its helmet, jersey and pants separately each week and announces the combination in game week, so the helmet and pants are open. This week it wears a matte black helmet with white wings against Northwestern. More: [Ohio State schedule](/stories/ohio-state-uniform-schedule-2026) and [Oregon schedule](/stories/oregon-uniform-schedule-2026).
+**Saturday, 3:30 p.m., CBS.** **Oregon: yellow helmet, green jersey, yellow pants.** Oregon's game-week graphic on Monday put a player in a yellow helmet and a green jersey with yellow trim, with "Wear Green" on the game details, and the yellow pants complete the set. The graphic does not show the pants, so we will confirm the full combination when Oregon posts its uniform reveal later in the week. Green on the road would be a statement in Columbus. **Ohio State: Expected, scarlet.** It is Ohio State's first meeting with Oregon since the 2024 Rose Bowl. Ohio State revealed three alternates in May, Scarlet Rush, Tunnel Vision and Sub Zero, and has not assigned any of them to a game. If Oregon does come in green, watch whether Ohio State answers in white. More: [Ohio State schedule](/stories/ohio-state-uniform-schedule-2026) and [Oregon schedule](/stories/oregon-uniform-schedule-2026).
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/oregonfootball/status/2117427319954686191"></a></blockquote>
 
 ### No. 3 Georgia at No. 12 Ole Miss
 
@@ -208,7 +211,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - South Carolina: **Expected**, garnet.
 
 **[Oregon](/stories/oregon-uniform-schedule-2026) at No. 2 [Ohio State](/stories/ohio-state-uniform-schedule-2026)**, 3:30 p.m., CBS.
-- Oregon: **Expected**, white jersey. Helmet and pants announced in game week.
+- Oregon: yellow helmet and green jersey in the team's game-week graphic, yellow pants expected.
 - Ohio State: **Expected**, scarlet.
 
 **No. 10 [Alabama](/stories/alabama-uniform-schedule-2026) at No. 15 [LSU](/stories/lsu-uniform-schedule-2026)**, 3:30 p.m., ABC.

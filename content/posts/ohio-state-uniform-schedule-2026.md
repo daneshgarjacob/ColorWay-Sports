@@ -3,7 +3,7 @@ title: "Ohio State Uniform Schedule 2026: Every Jersey and When the Buckeyes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-11-03"
 excerpt: "What Ohio State wears every game in 2026. Scarlet confirmed for the opener, white on the road, and the three alternates in the closet with no date yet."
 gradient: "linear-gradient(135deg, #BB0000 0%, #1a0505 55%, #C4CED4 130%)"
 cardStyle: words
@@ -77,7 +77,7 @@ Big Ten home teams wear color and visitors wear white, which makes the road date
 
 **October 31 at USC**, Los Angeles. Road, and worth watching. USC wears cardinal at home, so Ohio State should be in white, but a Halloween night game in the Coliseum is exactly the kind of stage a program uses for something unannounced.
 
-**November 7 vs. Oregon**, Ohio Stadium. The first meeting since the 2024 Rose Bowl, at home, against the one program in the country with a bigger uniform closet than anybody. Scarlet expected, and if Ohio State is going to answer Oregon with something, this is the date.
+**November 7 vs. Oregon**, Ohio Stadium. The first meeting since the 2024 Rose Bowl, at home, against the one program in the country with a bigger uniform closet than anybody. Scarlet expected, and if Ohio State is going to answer Oregon with something, this is the date. Oregon's game-week graphic shows the Ducks in a yellow helmet and a green jersey, so if Oregon comes in color, watch whether Ohio State answers in white.
 
 **November 14 vs. Northwestern**, Ohio Stadium. **Military Appreciation Game**, part of the Our Honor Defend program. Military appreciation games are one of the most common triggers for a patch or a special uniform element in college football, so this is the most likely date on the schedule for something beyond the base set. Nothing confirmed yet.
 

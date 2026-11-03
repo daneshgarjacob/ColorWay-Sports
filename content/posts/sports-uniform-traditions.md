@@ -1,0 +1,220 @@
+---
+title: "27 Sports Uniform Traditions Teams Still Follow, From Lakers Sunday Whites to Clemson's Orange Pants"
+category: "Sports Design"
+date: "2026-11-03"
+excerpt: "Why the Lakers wear white on Sundays, why the Cowboys wear white at home, why the Yankees have no names and why Clemson has to earn its orange pants. The 27 uniform traditions still alive in the NBA, NFL, MLB, NHL and college sports, and our take on each."
+gradient: "linear-gradient(135deg, #552583 0%, #14284b 55%, #FDB927 130%)"
+author: "jake-daneshgar"
+cardStyle: words
+kicker: Traditions
+league: "nba"
+teams: ["los-angeles-lakers", "dallas-cowboys", "philadelphia-eagles", "miami-dolphins", "new-york-yankees", "boston-red-sox", "san-francisco-giants", "san-diego-padres", "detroit-red-wings", "ohio-state-buckeyes", "michigan-wolverines", "penn-state-nittany-lions", "georgia-bulldogs", "clemson-tigers", "lsu-tigers", "notre-dame-fighting-irish", "oregon-ducks", "duke-blue-devils"]
+---
+
+Some of the best things in sports uniforms are not uniforms at all. They are habits. The Lakers wear white on Sundays. The Cowboys wear white at home when everyone else wears color. Clemson only gets its orange pants when something big is on the line. Nobody writes these into a rulebook. Teams just keep doing them, year after year, until fans would riot if they stopped.
+
+Here are 27 uniform traditions that are still alive right now, league by league, with where each one came from and our take on it. We also flag the ones that are bending.
+
+## NBA
+
+### 1. Lakers: Sunday Whites
+
+The Lakers' home jersey is gold, but on Sundays and holidays at home they wear white. The tradition started in 2002-03 as a tribute to Chick Hearn, the Lakers' longtime play-by-play voice. It is still running. On the Lakers' 2026-27 uniform schedule, all nine Sunday home games are in the white Association jersey, and so is the Christmas game against the 76ers. Every other home game is in color. Every date is on our [Lakers uniform schedule](/stories/lakers-uniform-schedule-2026-27).
+
+**Our take:** The best uniform tradition in the NBA. A whole jersey rule built around an announcer is about as Los Angeles as it gets.
+
+### 2. Heat: White Hot
+
+This one belongs to the fans. For home playoff games, Miami asks everyone in the building to dress in white, and the arena turns into a wall of it on TV. It started in 2006, the year the Heat won their first title. The color has changed in some playoff runs, but white is the one everyone remembers.
+
+**Our take:** The best fan dress code in sports. It makes the Heat look like the home team before the ball goes up.
+
+## NFL
+
+### 3. Cowboys: White at Home
+
+Almost every NFL team wears color at home. Dallas wears white. The habit goes back to the 1960s and team president Tex Schramm, who wanted fans at home to see the visiting team's colors. All five of the Cowboys' Super Bowl wins came in white. It is still the rule in 2026: Dallas wears white at home and takes its navy jersey to the road. Our [Cowboys uniform schedule](/stories/cowboys-uniform-schedule-2026) has every game.
+
+**Our take:** It is the right call. Dallas looks better in white than in navy, and they know it.
+
+### 4. The Cowboys' "Blue Jersey Curse"
+
+Because Dallas almost always wears white, its blue jersey picked up a reputation after losses in it, including the 1968 playoffs and Super Bowl V. In the 1980 NFC Championship Game, Eagles coach Dick Vermeil wore white at home on purpose to force Dallas into blue. Philadelphia won. Rivals have pulled the same trick since.
+
+**Our take:** It is not a curse. Their record in blue is about .500. Fans just remember the big losses.
+
+### 5. Cowboys: The Thanksgiving Throwback
+
+Dallas hosts a game every Thanksgiving, and since 2022 it has worn its 1960s Classic throwback for it: a white helmet, navy jersey and oversized stars on the shoulders. This year it is against the Eagles. Our [Thanksgiving uniforms guide](/stories/nfl-thanksgiving-uniforms-2026) has all three games.
+
+**Our take:** The best uniform Dallas owns, and it only comes out once a year. That is exactly why it works.
+
+### 6. Eagles: Kelly Green
+
+The Kelly green throwback came back in 2023 and became the Eagles' biggest uniform night. In 2025 they wore it three times, all against NFC East rivals, including a trip to Dallas, which is possible only because the Cowboys wear white at home. In 2026 it is Week 9 against the Giants on November 8 and Week 16 against the Texans. Our [Eagles uniform schedule](/stories/eagles-uniform-schedule-2026) has the dates.
+
+**Our take:** Kelly green should be the Eagles' full-time jersey. We said it.
+
+### 7. Dolphins: White at Home in the Heat
+
+Miami wears white at home so the visiting team has to wear the darker jersey in South Florida heat. It goes back to the Don Shula years. The Dolphins still lean on white at home and save aqua for road games. Our [Dolphins uniform schedule](/stories/dolphins-uniform-schedule-2026) has the rest.
+
+**Our take:** Smart. If the other team wants to sweat in a dark jersey at 1 p.m. in September, let them.
+
+## MLB
+
+### 8. Yankees: No Names on the Back
+
+The Yankees started wearing numbers in 1929 and never added names, home or road. The only exception was MLB's Players' Weekend in 2017. Owner Hal Steinbrenner has said it will never change. We wrote the full history in [why the Yankees have no names on their jerseys](/stories/why-yankees-have-no-names-on-jerseys).
+
+**Our take:** Never change it. The pinstripes and the interlocking NY are the whole point.
+
+### 9. Yankees: The Grooming Rule, Now Bent
+
+George Steinbrenner banned beards in 1976, and for almost 50 years Yankees players showed up clean-shaven. On February 21, 2025, the team relaxed it and allowed "well-groomed beards." In 2026, the Yankees also designated the [first alternate uniform in franchise history](/stories/yankees-first-alternate-uniform-2026), a navy road top.
+
+**Our take:** Beards are fine. An alternate jersey is not. Some traditions you protect.
+
+### 10. Red Sox: "Boston" on Patriots' Day
+
+On Patriots' Day, the Monday of the Boston Marathon, the Red Sox swap "Red Sox" on their home whites for "Boston." It started in 2013, after the Marathon bombing, and they wore it again in April 2026.
+
+**Our take:** The best one-day jersey in baseball. It means something every time they wear it.
+
+### 11. Giants: Orange Fridays
+
+At Oracle Park, Friday home games mean the orange alternate. The Giants have built a full week around themed jerseys now: City Connect on Tuesdays, Orange on Fridays and the new Gigantes jersey on Saturdays. Our [Giants uniform schedule](/stories/giants-uniform-schedule-2026) breaks down the week.
+
+**Our take:** Orange Fridays is the one that stuck because it is the simplest. Everyone knows what Friday means.
+
+### 12. Padres: Camo Sundays
+
+Since 2000, the Padres have worn camouflage jerseys at Sunday home games to honor the military, a natural fit in a Navy town. The current version is a Navy digital camo. Our [Padres uniform schedule](/stories/padres-uniform-schedule-2026) has the full rotation.
+
+**Our take:** The reason matters more than the look here, and the reason is a good one.
+
+### 13. Jackie Robinson Day: Everyone Wears 42
+
+On April 15, every player, coach and manager in MLB wears No. 42, the number retired across baseball for Jackie Robinson. Ken Griffey Jr. started it in 2007 by asking to wear 42, and by 2009 the whole league did.
+
+**Our take:** The best uniform day in sports, any league. A number nobody can wear, worn by everyone for one day.
+
+### 14. The All-Star Game: Back to Team Jerseys
+
+For decades, All-Stars wore their own team's uniform. From 2021 to 2024, MLB replaced them with custom American and National League uniforms. Fans hated it, and in 2025 MLB went back to team jerseys.
+
+**Our take:** Proof that fans can bring a tradition back. Nobody misses those matching All-Star sets.
+
+## NHL
+
+### 15. The Winter Classic: A One-Off Jersey Every Year
+
+Since the first Winter Classic in 2008, both teams have worn a jersey made just for the game, usually a throwback. The 2026 game put the Rangers and Panthers outdoors in Miami. The 2027 game is Utah's at Rice-Eccles Stadium. We ranked [every Winter Classic logo](/stories/nhl-winter-classic-2027-logo-history-ranked).
+
+**Our take:** The best uniform event in hockey. A Winter Classic in Florida was a stretch, but the jerseys still delivered.
+
+### 16. Red Wings: The Sweater That Does Not Change
+
+Detroit's winged-wheel sweater has barely changed since 1932. For the club's 100th season in 2025-26, Detroit added black stripes for the first time in team history, and that was big news precisely because nothing ever changes there. Our [Red Wings uniform schedule](/stories/red-wings-uniform-schedule-2026-27) has the current closet.
+
+**Our take:** The Red Wings are the Yankees of hockey. Leave it alone.
+
+### 17. Hockey Fights Cancer: Lavender in November
+
+Every November since 1998, each NHL team holds a Hockey Fights Cancer night, with lavender as the color. Themed warm-up jerseys used to be the centerpiece, but the NHL stopped them in 2023-24, so lavender now shows up as stick tape, caps and auction jerseys.
+
+## College Sports
+
+### 18. Ohio State: Buckeye Leaf Helmet Stickers
+
+Ohio State players earn small buckeye leaf stickers on their helmets for good plays. Woody Hayes started it in 1968, and by the end of a season the best players' helmets are covered. Our [Ohio State uniform schedule](/stories/ohio-state-uniform-schedule-2026) tracks the rest.
+
+**Our take:** The coolest earned uniform detail in sports. It is a stat sheet you can see from the stands.
+
+### 19. Michigan: The Winged Helmet
+
+Fritz Crisler brought the winged helmet to Michigan in 1938, and it has not left since. Here is the part Michigan fans skip: Crisler used a version of it at Princeton first, in 1935.
+
+**Our take:** Michigan did not invent it, but Michigan made it famous. That counts.
+
+### 20. Penn State: No Names, Plain Uniforms
+
+Blue and white, black shoes, no names on the back, no alternates. It is the Joe Paterno look. Penn State briefly added names in 2012 and then went back to plain backs. It is still plain today.
+
+**Our take:** The most stubborn uniform in college football, and that is a compliment.
+
+### 21. Georgia: Silver Britches
+
+Georgia's silver pants go back to 1939. Vince Dooley switched to white pants in 1964, then brought the silver back in 1980, and Georgia won the national title that season. They have stayed ever since.
+
+**Our take:** Red helmet, red jersey, silver britches. One of the best home looks in the country.
+
+### 22. Clemson: You Have to Earn the Orange Pants
+
+Danny Ford first put Clemson in orange pants against South Carolina on November 22, 1980. Dabo Swinney made it a rule: Clemson wears orange pants only when a title is on the line, whether that is a state, division, conference, playoff or national title. Our [Clemson uniform schedule](/stories/clemson-uniform-schedule-2026) tracks every game.
+
+**Our take:** The best rule in college football uniforms. Pants you have to earn.
+
+### 23. LSU: White at Home
+
+LSU is the one SEC program that regularly wears white at home, which forces visitors into color in Tiger Stadium. It started in 1958, LSU's national-title season. The NCAA banned it from 1983 to 1994, and LSU went right back to it in 1995. LSU wore white at home against Clemson and Texas A&M this season. Our [LSU uniform schedule](/stories/lsu-uniform-schedule-2026) explains it game by game.
+
+**Our take:** White at home under the lights in Death Valley is one of the best looks in sports.
+
+### 24. Notre Dame: Irish Wear Green
+
+Notre Dame wears its gold helmets and navy jerseys almost every week, then picks one game a year to go green. The roots go back to the 1977 USC game, and under Marcus Freeman it has been an every-year game since 2022. This season it was Stanford on October 10.
+
+**Our take:** Once a year is the right number. Any more and it stops being special.
+
+### 25. Army-Navy: A New Uniform Every Year
+
+Army and Navy each design a one-off uniform for their rivalry game every year, usually tied to a unit, a war or a piece of service history. In 2025, both teams marked 250 years of service.
+
+**Our take:** The best rivalry uniforms in sports, every single year.
+
+### 26. Oregon: A Different Look Every Week
+
+Oregon's tradition is having no fixed uniform. The Ducks mix helmets, jerseys and pants into a new combination almost every week, and in 2025 they had 12 helmet designs, the most since 2015. Our [Oregon uniform schedule](/stories/oregon-uniform-schedule-2026) logs every combination.
+
+**Our take:** No tradition is the tradition. Nobody else could get away with it.
+
+### 27. Duke: The Gray Jersey for Army
+
+Duke's gray jersey with royal blue and gold trim is a tribute to Coach K, and the gold stands for his three Olympic gold medals. Because Krzyzewski played and coached at Army, it comes out against Army. Duke wore it again on Monday in its 84-50 opener against the Black Knights. We graded it [a B+](/stories/duke-gray-gold-jersey-army-2026).
+
+**Our take:** Better up close than on TV, but a great reason for a jersey.
+
+## Traditions That Did Not Survive
+
+- **Players' Weekend nicknames.** MLB's nickname jerseys ran from 2017 to 2019. When Players' Weekend came back in 2024, the nicknames did not.
+- **St. Patrick's Day green in the NBA.** The Celtics and Bulls used to wear green alternates on St. Patrick's Day. That ended after the 2017-18 season.
+- **Custom All-Star uniforms.** See No. 14. Some traditions are worth killing.
+
+## Frequently Asked Questions
+
+**Why do the Lakers wear white on Sundays?**
+It is a tradition called "Sunday Whites" that started in 2002-03 as a tribute to longtime Lakers announcer Chick Hearn. The Lakers wear the white Association jersey for Sunday and holiday home games. In 2026-27, all nine Sunday home games plus Christmas are in white.
+
+**Why do the Cowboys wear white at home?**
+Tex Schramm started it in the 1960s so fans at home would see the visiting team's colors. Dallas still wears white at home and its navy jersey on the road.
+
+**What is the Cowboys blue jersey curse?**
+A belief that Dallas loses in its blue jersey, based on big losses like Super Bowl V. Opponents, starting with the Eagles in 1980, have worn white at home to force Dallas into blue. Its actual record in blue is about .500.
+
+**Why don't the Yankees have names on their jerseys?**
+The Yankees added numbers in 1929 and never added names, home or road. The team treats the plain look as part of its identity, and ownership has said it will not change.
+
+**Why does Clemson wear orange pants?**
+Clemson wears orange pants only when a title is on the line. Danny Ford started it in 1980, and Dabo Swinney made it a rule.
+
+**Why does Ohio State have stickers on its helmets?**
+Players earn buckeye leaf stickers for good plays. Woody Hayes started the tradition in 1968.
+
+**Why does LSU wear white at home?**
+LSU started wearing white at home in 1958, its national-title season. The NCAA banned it from 1983 to 1994, and LSU returned to it in 1995.
+
+**Why do MLB players wear 42 on April 15?**
+April 15 is Jackie Robinson Day, the anniversary of his MLB debut in 1947. Every player, coach and manager wears his No. 42, which is retired across baseball.
+
+*ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by any league or team mentioned.*
