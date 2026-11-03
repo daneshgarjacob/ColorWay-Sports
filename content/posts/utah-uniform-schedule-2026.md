@@ -65,7 +65,11 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
 
 **October 31 at Cincinnati.** White expected. Halloween at Nippert Stadium. Last season's all-black Dark Mode game with hand-painted helmets came against Cincinnati in Salt Lake City, but this year's meeting is on the road, where Utah wears white.
 
-**November 7 vs. BYU.** Red expected. The Holy War is billed as a Red Out and Military Appreciation game, and a Red Out makes red the safest call on this page after the Arkansas game went head to toe in it.
+**November 7 vs. BYU.** Red jersey. Utah's Monday graphic made it official: the Holy War is a **Red Out**, and it doubles as the Military Appreciation game. The team usually shows the full helmet-to-pants combination later in game week, and the Arkansas Red Out went red head to toe.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Utah_Football/status/2117402874091319548"></a></blockquote>
+</div>
 
 **November 14 at Arizona.** White expected. A November trip to Tucson.
 

@@ -3,7 +3,7 @@ title: "College Football Week 10 Uniforms 2026: Tennessee's Dark Mode, Florida A
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-30"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-02"
 excerpt: "College football Week 10 uniforms: Tennessee wears its all-black Dark Mode against Kentucky, Florida goes all blue against Oklahoma, and Miami visits Notre Dame, Alabama visits LSU and Oregon visits Ohio State. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #2a1a08 60%, #FF8200 130%)"
 coverImage: "/images/posts/college-football-week-10-uniforms-2026/cover.jpg"
@@ -78,7 +78,7 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 
 ### No. 8 BYU at No. 6 Utah: The Holy War
 
-**Saturday, noon (10 a.m. Mountain), TV to be announced.** **Utah: Expected, red.** Utah has billed the game as a Red Out and its Military Appreciation game. Utah went red head to toe for its Red Out against Arkansas on September 12. **BYU: Expected, white.** BYU wears all navy against Arizona State this week. More: [Utah schedule](/stories/utah-uniform-schedule-2026) and [BYU schedule](/stories/byu-uniform-schedule-2026).
+**Saturday, noon (10 a.m. Mountain), TV to be announced.** **Utah: Red, for the Red Out.** Utah's Monday graphic made the Red Out official, and it is also the Military Appreciation game. Utah went red head to toe for its Red Out against Arkansas on September 12. **BYU: Expected, white.** BYU wears all navy against Arizona State this week. More: [Utah schedule](/stories/utah-uniform-schedule-2026) and [BYU schedule](/stories/byu-uniform-schedule-2026).
 
 ### No. 11 Texas at No. 23 Missouri
 
@@ -90,7 +90,11 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 
 ### TCU at No. 22 Arizona: Friday Night Sandstorm
 
-**Friday, 10:15 p.m. (8:15 p.m. Arizona), ESPN.** **Arizona: Expected, Sandstorm.** Arizona scheduled this as its first official Sandstorm-themed game, with fans asked to wear white. The Sandstorm set is a red helmet with a white jersey and red numbers. Arizona wore it with red pants at West Virginia on October 10. **TCU: Expected, white.** More: [Arizona schedule](/stories/arizona-uniform-schedule-2026) and [TCU schedule](/stories/tcu-uniform-schedule-2026).
+**Friday, 10:15 p.m. (8:15 p.m. Arizona), ESPN.** **Arizona: Confirmed, Sandstorm with white pants.** The team's Monday photos show the **chrome red helmet with ARIZONA across the side**, the **white jersey with red numbers**, white pants and red socks, for Arizona's first official Sandstorm-themed game, with fans asked to wear white. Arizona wore the same set with red pants at West Virginia on October 10. Our grade: A+.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArizonaFBall/status/2117351669789020511"></a></blockquote>
+</div> **TCU: Expected, white.** More: [Arizona schedule](/stories/arizona-uniform-schedule-2026) and [TCU schedule](/stories/tcu-uniform-schedule-2026).
 
 ## Dates to Watch
 
@@ -147,13 +151,13 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[TCU](/stories/tcu-uniform-schedule-2026) at No. 22 [Arizona](/stories/arizona-uniform-schedule-2026)**, 10:15 p.m., ESPN.
 - TCU: **Expected**, white.
-- Arizona: **Expected**, Sandstorm. See above.
+- Arizona: **Confirmed**, Sandstorm: chrome red ARIZONA helmet, white jersey, white pants. See above.
 
 ### Saturday, November 7: Noon Window
 
 **No. 8 [BYU](/stories/byu-uniform-schedule-2026) at No. 6 [Utah](/stories/utah-uniform-schedule-2026)**, noon, TV to be announced.
 - BYU: **Expected**, white.
-- Utah: **Expected**, red, for the Red Out.
+- Utah: **Red** for the Red Out, per the team's graphic; full combination later this week.
 
 **No. 11 [Texas](/stories/texas-uniform-schedule-2026) at No. 23 [Missouri](/stories/missouri-uniform-schedule-2026)**, noon, TV to be announced.
 - Texas: **Expected**, white.
