@@ -23,6 +23,16 @@ The Chargers are changing more than the uniform this week. For **Super Chargers 
 
 In 2025 the Super Chargers field put a **white bolt** at midfield, outlined in navy and gold. This year the team swapped it for the **navy Super Chargers helmet** itself, with the white bolt on the side. The end zones are still navy with "CHARGERS" in white block letters, the San Diego-era lettering.
 
+**Last year (2025):** the white bolt at midfield.
+
+<img src="/images/posts/chargers-super-chargers-field-texans-2026/field-2025-midfield-bolt.jpg" alt="SoFi Stadium field for the 2025 Super Chargers game, with the white bolt outlined in navy and gold painted at midfield" style="display:block;width:100%;max-width:640px;margin:1em auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">The 2025 Super Chargers midfield bolt. Photo: Los Angeles Chargers</p>
+
+<img src="/images/posts/chargers-super-chargers-field-texans-2026/field-2025-wide.jpg" alt="Wide view of the 2025 Super Chargers field at SoFi Stadium: navy end zones with white CHARGERS lettering and the white bolt at midfield" style="display:block;width:100%;max-width:640px;margin:1em auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">The full 2025 Super Chargers field. Photo: Los Angeles Chargers</p>
+
+**This year (2026):** the navy helmet at midfield, in the team's field graphic at the top of this story. Same navy end zones, much bigger statement in the middle.
+
 That is the right call. The helmet is the best part of the Super Chargers set, and now it sits in the middle of the field in every wide TV shot.
 
 ## What the Chargers Wear Against the Texans

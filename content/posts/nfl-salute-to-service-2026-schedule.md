@@ -2,10 +2,11 @@
 title: "NFL Salute to Service 2026 Schedule: Every Team's Game, Week by Week, Plus What They Wear and When the Gear Drops"
 category: "NFL"
 date: "2026-09-14"
-updatedDate: "2026-10-27"
+updatedDate: "2026-11-03"
 excerpt: "NFL Salute to Service 2026 schedule: all 22 team-announced games from the Titans on October 25 to the Buccaneers on November 30, ten of them November 5 to 9. Which teams wear alternates (Ravens Purple Rising, Bills Cold Front), what the camo is, and when the 2026 gear dropped."
 gradient: "linear-gradient(135deg, #3d4a2c 0%, #1f2716 52%, #2f6bed 100%)"
-cardStyle: words
+coverImage: "/images/posts/nfl-salute-to-service-2026-schedule/cover.jpg"
+coverImagePosition: "center 30%"
 kicker: Uniform Schedule
 logoSrc: "/logos/leagues/nfl.png"
 league: "nfl"
@@ -27,6 +28,9 @@ Looking for October first? Our [NFL Crucial Catch 2026 schedule](/stories/nfl-cr
 
 Salute to Service is the NFL's year-round military appreciation program, created in **2011** and presented by USAA. Its public face is November, when all 32 clubs dedicate a home game to service members, veterans and their families, and the league dresses fields, sidelines and helmets in military-inspired details.
 
+<img src="/images/posts/nfl-salute-to-service-2026-schedule/cover.jpg" alt="2026 NFL Salute to Service collection: a black Nike hoodie with a camo-filled Buffalo Bills logo and a Salute to Service sleeve patch" style="display:block;width:100%;max-width:460px;margin:1.2em auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">The 2026 Salute to Service hoodie, Bills version. Image: Buffalo Bills</p>
+
 The money side is real. The NFL says the program has raised **more than $75 million** since 2011 for its five charitable partners:
 
 - **Bob Woodruff Foundation**
@@ -39,7 +43,7 @@ The program also carries an award. The **Salute to Service Award presented by US
 
 ## Has the NFL Announced the 2026 Salute to Service Weeks?
 
-**Not that we could find**, as of October 27. The league typically announces its on-field window close to the games themselves. Its 2025 release came out on October 30, 2025, and put Salute to Service on the field **during Weeks 9 through 11**. The 2024 release came out on November 7, 2024, and covered **Weeks 10 through 12**.
+**Not that we could find**, as of November 3. The league typically announces its on-field window close to the games themselves. Its 2025 release came out on October 30, 2025, and put Salute to Service on the field **during Weeks 9 through 11**. The 2024 release came out on November 7, 2024, and covered **Weeks 10 through 12**.
 
 For 2026, the calendar math matters. Week 1 opened Thursday, September 10, so the November weeks fall like this:
 
@@ -156,6 +160,14 @@ Here is what the league has described in its recent announcements:
 - **Game balls and gear.** The 2024 package also included Salute to Service game balls and custom Wilson, New Era and Nike gear.
 
 A few clubs go further with the uniform itself. The Cowboys' red helmet stripe is the best-known example, a nod to the stripe Dallas wore in the 1976 Bicentennial season. In 2026 two clubs have put confirmed alternates on their Salute to Service dates: **Baltimore's Purple Rising** set on November 5 and **Buffalo's Cold Front** Rivalries set on November 22.
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:520px;margin:1.2em auto 0.5em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/ravens-uniforms-2026-reveal/purple-alternate.jpg" alt="Baltimore Ravens Purple Rising all-purple alternate uniform" style="width:100%;border-radius:10px;" loading="lazy" /><figcaption style="font-size:0.8em;font-weight:700;margin-top:6px;">Ravens: Purple Rising, Nov. 5</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-cold-front-white.jpg" alt="Buffalo Bills Cold Front Rivalries jersey, white" style="width:100%;border-radius:10px;" loading="lazy" /><figcaption style="font-size:0.8em;font-weight:700;margin-top:6px;">Bills: Cold Front, Nov. 22</figcaption></figure></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Images: Baltimore Ravens, Fanatics</p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2105315720141668518"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">The 2026 Salute to Service collection launch, via @BuffaloBills</p>
 
 For how every team actually looked on game day, the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs each game once it is played.
 
