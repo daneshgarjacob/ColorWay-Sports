@@ -9,7 +9,7 @@ import path from "path";
 import { buildNflTeamIndex } from "./nflTrackerTeamIndex";
 import { buildWinterIndex, shortDate } from "./winterTrackerIndex";
 import { NBA_TILE_COLORS } from "./nbaTileColors";
-import { TEAM_LOGOS } from "./teamLogos";
+import { TEAM_LOGO_BY_SLUG } from "./teamLogos";
 import kickoffData from "@/content/data/nfl-kickoffs-2026.json";
 
 export type MyTeamLeague = "NFL" | "NBA" | "NHL" | "MLB" | "CFB";
@@ -148,7 +148,7 @@ function cfbCards(): MyTeamCard[] {
     const head = fs.readFileSync(path.join(posts, f), "utf8").slice(0, 1500);
     if (!/^league: "?college"?/m.test(head)) continue;
     const team = head.match(/^teams: \["([^"]+)"/m)?.[1];
-    const logo = team && TEAM_LOGOS[team];
+    const logo = team && TEAM_LOGO_BY_SLUG[team];
     const school = head.match(/^title: "(.+?) Uniform Schedule/m)?.[1];
     if (!team || !logo || !school) continue;
     out.push({

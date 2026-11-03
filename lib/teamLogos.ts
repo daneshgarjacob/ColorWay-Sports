@@ -547,6 +547,13 @@ export const TEAM_LOGO_BY_SLUG: Record<string, string> = {
   "mac": "/logos/leagues/ncaa-conf-mac.png",
   "conference-usa": "/logos/leagues/ncaa-conf-conference-usa.png",
   "fbs-independents": "/logos/leagues/ncaa-conf-fbs-independents.png",
+  // Added 11/2 for My Teams (ESPN team logos).
+  "louisiana-ragin-cajuns": "/logos/teams/ncaa-louisiana-ragin-cajuns.png",
+  "southern-miss-golden-eagles": "/logos/teams/ncaa-southern-miss-golden-eagles.png",
+  "troy-trojans": "/logos/teams/ncaa-troy-trojans.png",
+  "uab-blazers": "/logos/teams/ncaa-uab-blazers.png",
+  "western-kentucky-hilltoppers": "/logos/teams/ncaa-western-kentucky-hilltoppers.png",
+  "wyoming-cowboys": "/logos/teams/ncaa-wyoming-cowboys.png",
 };
 
 export const LEAGUE_LOGOS: Record<string, string> = {
