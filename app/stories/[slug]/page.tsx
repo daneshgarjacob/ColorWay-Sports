@@ -318,6 +318,14 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     .map((t) => ({ ...t, links: t.links.filter((l) => l.href !== `/stories/${slug}`) }))
     .filter((t) => t.links.length > 0);
 
+  // Schedule posts are where most readers land from Google, once, for one team.
+  // Their signup promises that team by name and tags the subscriber with it
+  // (utm_campaign) so a team segment can be built in beehiiv later.
+  const scheduleTeam =
+    /-uniform-schedule-/.test(slug) && storyTeams.length >= 1
+      ? post.title.match(/^(.+?) (?:Uniform Schedule|Jerseys)/)?.[1] ?? null
+      : null;
+
   const relatedPosts = getRelatedPosts(slug, {
     league: post.league,
     teams: post.teams,
@@ -536,7 +544,20 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         <PreferredSourceCard />
 
         {/* Inline newsletter signup */}
-        <InlineNewsletter />
+        {scheduleTeam ? (
+          <InlineNewsletter
+            eyebrow={`${scheduleTeam} Uniforms, Every Week`}
+            heading={`Know what ${
+              post.league === "college" ? `${scheduleTeam} wears` : `the ${scheduleTeam} wear`
+            } before ${
+              { mlb: "first pitch", nba: "tip-off", nhl: "puck drop" }[post.league ?? ""] ?? "kickoff"
+            }.`}
+            body="Every Sunday morning: this week's looks, the new reveals and the throwback dates, in one free email."
+            team={storyTeams[0]}
+          />
+        ) : (
+          <InlineNewsletter />
+        )}
 
         {/* Related stories */}
         <RelatedStories posts={relatedPosts} />

@@ -1,7 +1,9 @@
 import { NextResponse } from "next/server";
 
 export async function POST(request: Request) {
-  const { email } = await request.json();
+  const { email, team } = await request.json();
+  // Team slug from a schedule-post signup ("chicago-bears"); anything else is dropped.
+  const teamTag = typeof team === "string" && /^[a-z0-9-]{2,60}$/.test(team) ? team : undefined;
 
   if (!email || !email.includes("@")) {
     return NextResponse.json(
@@ -31,6 +33,7 @@ export async function POST(request: Request) {
             reactivate_existing: false,
             send_welcome_email: true, // beehiiv welcome email (Jake's text + logo signature), on since 9/30
             utm_source: "colorwaysports.com",
+            ...(teamTag ? { utm_medium: "schedule-post", utm_campaign: teamTag } : {}),
             referring_site: "https://www.colorwaysports.com",
           }),
         }

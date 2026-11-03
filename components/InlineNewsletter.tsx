@@ -8,6 +8,8 @@ type Props = {
   body?: string;
   /** Force the input and button to stack; for narrow containers like the 300px story rail. */
   stacked?: boolean;
+  /** Team slug the reader signed up from; sent to beehiiv as utm_campaign. */
+  team?: string;
 };
 
 export default function InlineNewsletter({
@@ -15,6 +17,7 @@ export default function InlineNewsletter({
   heading = "Get Every Uniform Drop in Your Inbox.",
   body = "New jerseys, playoff trackers, and uniform news the moment it lands. Free, no spam.",
   stacked = false,
+  team,
 }: Props = {}) {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
@@ -32,7 +35,7 @@ export default function InlineNewsletter({
       const res = await fetch("/api/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, team }),
       });
       const data = await res.json();
       if (res.ok) {
