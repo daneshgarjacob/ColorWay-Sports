@@ -115,12 +115,17 @@ function winterCards(now: Date): MyTeamCard[] {
 }
 
 // MLB is in its offseason, so a followed club gets a "back in spring" card that
-// still links to its 2026 schedule post. Clubs come from the logo files.
+// still links to its 2026 schedule post. Clubs come from the logo map, NOT a
+// readdir of public/: the homepage re-renders by ISR after midnight Eastern
+// without public/ in its function, so a readdir there threw, every nightly
+// refresh failed, and the site kept showing the last deploy's day (11/3).
 function mlbCards(): MyTeamCard[] {
-  const dir = path.join(process.cwd(), "public", "logos", "teams");
   const posts = path.join(process.cwd(), "content", "posts");
   const out: MyTeamCard[] = [];
-  for (const f of fs.readdirSync(dir)) {
+  const files = [...new Set(Object.values(TEAM_LOGO_BY_SLUG))]
+    .map((src) => src.replace(/^\/logos\/teams\//, ""))
+    .sort();
+  for (const f of files) {
     const m = f.match(/^mlb-(.+)\.png$/);
     if (!m) continue;
     const words = m[1].split("-");
