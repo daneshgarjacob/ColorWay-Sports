@@ -6,10 +6,11 @@ excerpt: "Florida's coral Hometown Remix jersey is near the top of almost every 
 gradient: "linear-gradient(135deg, #0C2340 0%, #F26A6A 70%, #FFC72C 130%)"
 author: "jake-daneshgar"
 logoSrc: "/logos/NHL.png"
-cardStyle: words
 kicker: Hot Take
 league: nhl
 teams: ["florida-panthers"]
+coverImage: "/images/posts/panthers-hometown-remix-jersey-overrated/cover.jpg"
+coverImagePosition: "center 25%"
 ---
 
 The Florida Panthers' Hometown Remix jersey is one of the most popular of the 32 the NHL revealed on Monday. ESPN ranked it third, and fans have been calling it a top-five look all day. We disagree. In [our ranking of all 32](/stories/nhl-hometown-remix-jerseys-ranked), the Panthers finished 28th.

@@ -74,6 +74,8 @@ Here is the whole season at a glance, jersey and pants, exactly as the team anno
 
 The all-navy Super Chargers set gets three home dates: Houston in Week 9 on Sunday, November 8, New England in Week 12 on Sunday, November 29 in the Sunday night window, and Kansas City in Week 17 to close out the home schedule. The Chargers are not shy about it, calling these "the best alternate uniforms in the NFL" in their own announcement.
 
+**New for Week 9:** the Chargers posted the Texans game field design on November 3. The midfield logo is the **navy Super Chargers helmet**, replacing the white bolt from last season's Super Chargers games, with navy end zones. [See the new field](/stories/chargers-super-chargers-field-texans-2026).
+
 The set is a modern throwback to the navy jerseys the franchise wore from 1992 to 2006, the era of the 1994 AFC Championship team, and it is built to invoke Junior Seau, LaDainian Tomlinson, Antonio Gates, and Philip Rivers. What makes it work is restraint. The navy is deep enough to make the gold bolts glow rather than blend, and the helmet carries the lightning without the set tipping into costume. It is the rare modern throwback that looks like it belongs to the team wearing it.
 
 Three wearings is also the maximum most teams get out of an alternate, and the Chargers spent all three on high-visibility dates: a division rival to close the year, a national Sunday night window, and a Houston team that will be in white. That is good scheduling.

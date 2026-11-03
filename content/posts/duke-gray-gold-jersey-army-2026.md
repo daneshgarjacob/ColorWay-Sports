@@ -5,10 +5,11 @@ date: "2026-11-03"
 excerpt: "Duke opened the season in its gray Coach K jersey with royal blue and gold trim, beating Army 84-50 at Cameron Indoor. What it looks like, why it comes out for Army, and our grade: B+."
 gradient: "linear-gradient(135deg, #8a8d91 0%, #00539B 60%, #C5A253 130%)"
 author: "jake-daneshgar"
-cardStyle: words
 kicker: Uniform Grade
 league: "cbb"
 teams: ["duke-blue-devils"]
+coverImage: "/images/posts/duke-gray-gold-jersey-army-2026/cover.jpg"
+coverImagePosition: "center 25%"
 ---
 
 No. 2 Duke opened its season on Monday night by beating Army 84-50 at Cameron Indoor Stadium, and it did it in the best jersey in its closet: the gray one with the royal blue and gold trim. Dame Sarr led Duke with 16 points. The jersey led everything else.

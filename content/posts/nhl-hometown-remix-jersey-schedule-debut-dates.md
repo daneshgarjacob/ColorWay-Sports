@@ -6,10 +6,11 @@ excerpt: "Every NHL team's Hometown Remix jersey debut date, in order, from the 
 gradient: "linear-gradient(135deg, #1b2733 0%, #111a24 55%, #5ec8f0 130%)"
 author: "jake-daneshgar"
 logoSrc: "/logos/NHL.png"
-cardStyle: words
 kicker: Schedule
 league: nhl
 teams: []
+coverImage: "/images/posts/nhl-hometown-remix-2026-27/hometown-remix-logo.jpg"
+coverImagePosition: "center 25%"
 ---
 
 The NHL and Fanatics revealed all 32 Hometown Remix jerseys on Monday, Nov. 2, and the first three hit the ice that same night. The rest roll out over the next three weeks. By Nov. 25, 30 of the 32 teams will have worn theirs at least once.

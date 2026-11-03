@@ -43,6 +43,12 @@ This is the adidas Dark Mode set Tennessee revealed on July 9 when it launched i
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2116138347462586527"></a></blockquote>
 </div>
 
+**Kentucky: Confirmed, all white with the chrome helmet.** Kentucky answered on Tuesday, November 3, with an "ICE COLD" reveal: a **chrome silver helmet** with a blue stripe and the UK logo, a **white jersey** and **white pants**, photographed in a freezer truck full of ice. All white against all black. We give Kentucky's look a B-: [here is why](/stories/kentucky-ice-white-chrome-helmet-tennessee-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UKFootball/status/2117716495136371001"></a></blockquote>
+</div>
+
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2075234798377762829"></a></blockquote>
 </div>

@@ -5,10 +5,11 @@ date: "2026-11-03"
 excerpt: "Why the Lakers wear white on Sundays, why the Cowboys wear white at home, why the Yankees have no names and why Clemson has to earn its orange pants. The 25 uniform traditions still alive in the NBA, NFL, MLB, NHL and college sports, and our take on each."
 gradient: "linear-gradient(135deg, #552583 0%, #14284b 55%, #FDB927 130%)"
 author: "jake-daneshgar"
-cardStyle: words
 kicker: Traditions
 league: "nba"
 teams: ["los-angeles-lakers", "dallas-cowboys", "philadelphia-eagles", "miami-dolphins", "new-york-yankees", "boston-red-sox", "san-francisco-giants", "san-diego-padres", "detroit-red-wings", "ohio-state-buckeyes", "michigan-wolverines", "penn-state-nittany-lions", "georgia-bulldogs", "clemson-tigers", "lsu-tigers", "notre-dame-fighting-irish", "oregon-ducks", "duke-blue-devils"]
+coverImage: "/images/posts/sports-uniform-traditions/ohio-state-buckeye-stickers.jpg"
+coverImagePosition: "center 25%"
 ---
 
 Some of the best things in sports uniforms are not uniforms at all. They are habits. The Lakers wear white on Sundays. The Cowboys wear white at home when everyone else wears color. Clemson only gets its orange pants when something big is on the line. Nobody writes these into a rulebook. Teams just keep doing them, year after year, until fans would riot if they stopped.

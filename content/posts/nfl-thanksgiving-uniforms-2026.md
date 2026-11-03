@@ -5,10 +5,11 @@ category: NFL
 date: "2026-11-02"
 excerpt: "NFL Thanksgiving uniforms for 2026: the Cowboys wear their 1960s Classic throwback against the Eagles, the Lions host the Bears in Honolulu blue, the Bills wear royal blue against the Chiefs at night, and the Steelers host the Broncos on Black Friday."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #869397 130%)"
-cardStyle: words
 logoSrc: "/logos/leagues/nfl.png"
 league: nfl
 teams: ["detroit-lions", "chicago-bears", "dallas-cowboys", "philadelphia-eagles", "buffalo-bills", "kansas-city-chiefs", "pittsburgh-steelers", "denver-broncos"]
+coverImage: "/images/posts/nfl-thanksgiving-uniforms-2026/cover.jpg"
+coverImagePosition: "center 25%"
 ---
 
 Three NFL games are on Thanksgiving, Thursday, November 26, 2026, and a fourth follows on Black Friday. The best-dressed one is already set: **Dallas wears its 1960s Classic throwback against Philadelphia** for the fifth straight Thanksgiving, as published on the Cowboys' own uniform schedule. Detroit hosts Chicago in the early game, Buffalo hosts Kansas City at night, and Pittsburgh hosts Denver the next afternoon.

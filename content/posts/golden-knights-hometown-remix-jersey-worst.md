@@ -6,10 +6,11 @@ excerpt: "Vegas went all in on a casino theme for its Hometown Remix jersey: jad
 gradient: "linear-gradient(135deg, #111111 0%, #0f3b2e 55%, #B4975A 130%)"
 author: "jake-daneshgar"
 logoSrc: "/logos/NHL.png"
-cardStyle: words
 kicker: Hot Take
 league: nhl
 teams: ["vegas-golden-knights"]
+coverImage: "/images/posts/golden-knights-hometown-remix-jersey-worst/cover.jpg"
+coverImagePosition: "center 25%"
 ---
 
 Of all 32 Hometown Remix jerseys the NHL and Fanatics revealed on Monday, the Vegas Golden Knights' is the worst, and it is not close. We ranked it [dead last of 32](/stories/nhl-hometown-remix-jerseys-ranked). It is one of the ugliest sweaters the league has put on the ice in years.

@@ -9,8 +9,7 @@ logoSrc: "/logos/NHL.png"
 coverImage: "/images/posts/nhl-hometown-remix-jerseys-ranked/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
-homepageHero: "2026-11-02"
-cardStyle: words
+homepageHero: "2026-11-03"
 kicker: Ranked
 league: nhl
 teams: []

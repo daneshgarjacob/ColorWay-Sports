@@ -6,10 +6,11 @@ excerpt: "Pittsburgh's pop-art Hometown Remix jersey, built for Andy Warhol with
 gradient: "linear-gradient(135deg, #000000 0%, #14284b 55%, #FCB514 130%)"
 author: "jake-daneshgar"
 logoSrc: "/logos/NHL.png"
-cardStyle: words
 kicker: Hot Take
 league: nhl
 teams: ["pittsburgh-penguins"]
+coverImage: "/images/posts/penguins-hometown-remix-jersey-best/cover.jpg"
+coverImagePosition: "center 25%"
 ---
 
 Of all 32 Hometown Remix jerseys the NHL and Fanatics revealed on Monday, the Pittsburgh Penguins' is the best. We ranked it [No. 1 of 32](/stories/nhl-hometown-remix-jerseys-ranked). One word covers it: perfect.
