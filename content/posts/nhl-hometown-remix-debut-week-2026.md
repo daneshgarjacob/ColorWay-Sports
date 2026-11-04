@@ -2,6 +2,7 @@
 title: "Hometown Remix Debut Week: 10 NHL Teams Wear Their New Jerseys Tuesday Through Thursday"
 category: "NHL"
 date: "2026-11-03"
+updatedDate: "2026-11-04"
 excerpt: "The best Hometown Remix jersey in the NHL debuts tonight against the team with the worst one. Penguins, Canadiens, Flyers and Blue Jackets on Tuesday, Sabres, Kings and Kraken on Wednesday, Oilers, Islanders and Utah on Thursday."
 gradient: "linear-gradient(135deg, #1E4FA0 0%, #0A1733 60%, #9ACD32 130%)"
 author: "jake-daneshgar"
@@ -14,7 +15,7 @@ teams: ["pittsburgh-penguins", "montreal-canadiens", "philadelphia-flyers", "col
 
 The NHL's Hometown Remix jerseys stop being photos this week. Ten teams wear theirs for the first time between Tuesday and Thursday, and the week starts with the best possible matchup: **the Penguins debut the best Remix jersey in the league tonight against the Golden Knights, whose Remix we ranked dead last.** Vegas is on the road, so it will be in white, but the timing is perfect.
 
-Here is every debut this week, with where each jersey landed in our [Hometown Remix ranking](/stories/nhl-hometown-remix-jerseys-ranked).
+**Tuesday's four are in the books** (results below), and the Sabres, Kings and Kraken debut theirs tonight. Here is every debut this week, with where each jersey landed in our [Hometown Remix ranking](/stories/nhl-hometown-remix-jerseys-ranked).
 
 ## Tuesday, November 3
 
@@ -24,6 +25,8 @@ Here is every debut this week, with where each jersey landed in our [Hometown Re
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: NHL</p>
 
 A deep blue sweater with an Andy Warhol-style pop-art penguin, light blue trim and halftone dots. It is our favorite Remix in the league, and it looks a lot like Pittsburgh's 2008 Winter Classic jersey, which is about as good as a hockey sweater gets. Ten games this season. [Why it's the best in the NHL](/stories/penguins-hometown-remix-jersey-best).
+
+**Result:** Golden Knights 3, Penguins 2. The best jersey lost to the team with the worst one.
 
 Here it is on the ice for the debut:
 
@@ -39,6 +42,13 @@ Here it is on the ice for the debut:
 
 White, with the five symbols from Montreal's flag down the sleeves and a CH that looks carved in stone. We really like it. Our one wish is that it had been a color instead of white. Ten games.
 
+**Result:** Jets 5, Canadiens 4 in overtime. Montreal led 4-0 in the Remix and lost. Because the Remix is white, Winnipeg wore its navy home sweater on the road.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2117790514628198598"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Cole Caufield in the white Remix against the Jets' navy, via @CanadiensMTL</p>
+
 ### Flyers vs. Wild: No. 21
 
 <img src="/images/posts/nhl-daily-tracker/flyers-remix.jpg" alt="Philadelphia Flyers Hometown Remix jersey, gray with six orange arm stripes and the Liberty Bell inscription" style="display:block;width:100%;max-width:340px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
@@ -46,12 +56,26 @@ White, with the five symbols from Montreal's flag down the sleeves and a CH that
 
 Gray, with six orange stripes on the arms and the Liberty Bell's inscription stamped between them. Great story, but the gray drags it down. Thirteen games, tied for the most in the league.
 
+**Result:** Wild 4, Flyers 2. On the ice it reads closer to charcoal than light gray, which helps.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlyers/status/2117768933797417440"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Remix in warmups before the debut against Minnesota, via @NHLFlyers</p>
+
 ### Blue Jackets vs. Avalanche: No. 22
 
 <img src="/images/posts/nhl-daily-tracker/blue-jackets-remix.jpg" alt="Columbus Blue Jackets Hometown Remix jersey, gray with the cannon logo on the chest" style="display:block;width:100%;max-width:340px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: NHL</p>
 
 A gray sweater with the cannon on the chest. A team called the Blue Jackets wearing a gray jacket is still a strange choice. Thirteen games, so you will see a lot of it.
+
+**Result:** Blue Jackets 7, Avalanche 2, so Columbus is undefeated in it. Thirteen more chances to change our minds.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJacketsNHL/status/2117821153029075306"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Goal celebrations in the Remix debut against Colorado, via @BlueJacketsNHL</p>
 
 ## Wednesday, November 4
 
