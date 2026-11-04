@@ -25,6 +25,13 @@ Here is every debut this week, with where each jersey landed in our [Hometown Re
 
 A deep blue sweater with an Andy Warhol-style pop-art penguin, light blue trim and halftone dots. It is our favorite Remix in the league, and it looks a lot like Pittsburgh's 2008 Winter Classic jersey, which is about as good as a hockey sweater gets. Ten games this season. [Why it's the best in the NHL](/stories/penguins-hometown-remix-jersey-best).
 
+Here it is on the ice for the debut:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/penguins/status/2117773586198843565"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Remix on the ice for its debut against Vegas, via @penguins</p>
+
 ### Canadiens vs. Jets: No. 9
 
 <img src="/images/posts/nhl-daily-tracker/canadiens-remix.jpg" alt="Montreal Canadiens Hometown Remix jersey, white with the five symbols of the Montreal flag down the sleeves and a stonework CH crest" style="display:block;width:100%;max-width:340px;margin:0.5em auto;border-radius:10px;" loading="lazy" />

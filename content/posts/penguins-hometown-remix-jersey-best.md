@@ -2,6 +2,7 @@
 title: "The Penguins Hometown Remix Jersey Is the Best in the NHL"
 category: NHL
 date: "2026-11-02"
+updatedDate: "2026-11-03"
 excerpt: "Pittsburgh's pop-art Hometown Remix jersey, built for Andy Warhol with halftone dots and light blue trim on a deep blue sweater, finished No. 1 of 32 in our ranking. Here is why it works, and all 10 dates the Penguins wear it."
 gradient: "linear-gradient(135deg, #000000 0%, #14284b 55%, #FCB514 130%)"
 author: "jake-daneshgar"
@@ -22,6 +23,15 @@ Of all 32 Hometown Remix jerseys the NHL and Fanatics revealed on Monday, the Pi
 ## What the Penguins' Hometown Remix Jersey Looks Like
 
 Pittsburgh built the sweater around pop art and Pittsburgh native Andy Warhol. The base is a deep blue, trimmed in light blue and gold. The skating penguin on the chest gets halftone dots and offset color like a 1960s screen print, and the numbers on the back get the same dot treatment. The shoulder patches use the same offset style: an igloo for the old Civic Arena and a triangle for the Three Rivers. Down on the hem, colors stand in for the city's boroughs.
+
+## The Debut: On the Ice Against Vegas
+
+Pittsburgh wore it for the first time on Tuesday, November 3, at home against the Golden Knights, the team whose Remix we ranked last. On the ice it looks even better than the studio photos: the light blue shoulders and gold trim pop under the arena lights.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/penguins/status/2117773586198843565"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Remix on the ice for its debut against Vegas, via @penguins</p>
 
 ## Why It Works
 
