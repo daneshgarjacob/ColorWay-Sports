@@ -143,27 +143,72 @@ function mlbCards(): MyTeamCard[] {
 }
 
 // College football: one card per school with a schedule post. There is no
-// game-by-game data file for college yet, so the card points to the post,
-// where each week's look lives.
-function cfbCards(): MyTeamCard[] {
+// game-by-game data file for college, so the card reads the post's own week
+// grid (date / opponent / look) and shows this week's game, or the next one
+// on a bye week (Jake 11/4: USC showed nothing during its Nov 7 bye).
+const CFB_CELL = /letter-spacing: 1px; opacity: 0\.8\d?;">([A-Z]{3}) (\d{1,2})[^<]*<\/div><div[^>]*>([^<]+)<\/div><div[^>]*>([^<]*)<\/div>/g;
+const MONTHS = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
+
+// Jersey photos for college looks, keyed "<team slug>:<look>". Hand-listed
+// rather than read from public/ (ISR re-renders run without public/).
+const CFB_JERSEYS: Record<string, string> = {
+  "usc-trojans:cardinal": "/images/cfb-jerseys/usc-cardinal.jpg",
+  "usc-trojans:white": "/images/cfb-jerseys/usc-white.jpg",
+};
+
+function cfbNext(body: string, team: string, now: Date): MyTeamCard["next"] | undefined {
+  const today = etToday(now);
+  const games: { date: string; opp: string; look: string }[] = [];
+  for (const m of body.matchAll(CFB_CELL)) {
+    const mon = MONTHS.indexOf(m[1]) + 1;
+    if (!mon) continue;
+    const date = `2026-${String(mon).padStart(2, "0")}-${m[2].padStart(2, "0")}`;
+    games.push({ date, opp: m[3].replace(/&amp;/g, "&").trim(), look: m[4].replace(/&#9733;|★/g, "").trim() });
+  }
+  // A Saturday game stays "this week" through Sunday; midweek games move on the next day.
+  const sunday = new Date(`${today}T12:00:00Z`).getUTCDay() === 0;
+  const live = sunday ? new Date(Date.parse(`${today}T12:00:00Z`) - 86400_000).toISOString().slice(0, 10) : today;
+  const upcoming = games.filter((g) => g.date >= live);
+  const g = upcoming.find((x) => !/^bye$/i.test(x.opp));
+  if (!g) return undefined;
+  // A bye between now and the next game is the week's real answer.
+  const bye = upcoming[0] && /^bye$/i.test(upcoming[0].opp) && upcoming[0].date < g.date;
+  const look = g.look.toLowerCase();
+  // "White" → "White jersey"; longer calls ("Chrome · all white") read fine as is.
+  const named = !look || /^(tbd|tba)$/.test(look)
+    ? "Uniform to come"
+    : `${g.look[0]}${look.slice(1)}${/^\w+$/.test(look) ? " jersey" : ""}`;
+  return {
+    when: g.date === today ? "Today" : shortDate(g.date),
+    opp: g.opp,
+    look: bye ? `Bye week, then ${look && !/^(tbd|tba)$/.test(look) ? look : "TBA"}` : named,
+    img: CFB_JERSEYS[`${team}:${look}`],
+    at: Date.parse(`${g.date}T12:00:00Z`),
+  };
+}
+
+function cfbCards(now: Date): MyTeamCard[] {
   const posts = path.join(process.cwd(), "content", "posts");
   const out: MyTeamCard[] = [];
   for (const f of fs.readdirSync(posts)) {
     if (!f.endsWith("-uniform-schedule-2026.md")) continue;
-    const head = fs.readFileSync(path.join(posts, f), "utf8").slice(0, 1500);
+    const text = fs.readFileSync(path.join(posts, f), "utf8");
+    const head = text.slice(0, 1500);
     if (!/^league: "?college"?/m.test(head)) continue;
     const team = head.match(/^teams: \["([^"]+)"/m)?.[1];
     const logo = team && TEAM_LOGO_BY_SLUG[team];
     const school = head.match(/^title: "(.+?) Uniform Schedule/m)?.[1];
     if (!team || !logo || !school) continue;
-    out.push({
+    const card: MyTeamCard = {
       id: `cfb:${team}`, league: "CFB", name: school, nickname: school, logo,
-      href: `/stories/${f.replace(/\.md$/, "")}`, color: "#0A1733", note: "This week's look",
-    });
+      href: `/stories/${f.replace(/\.md$/, "")}`, color: "#0A1733",
+    };
+    const next = cfbNext(text, team, now);
+    out.push(next ? { ...card, next } : { ...card, note: "Season over" });
   }
   return out;
 }
 
 export function getMyTeamCards(now = new Date()): MyTeamCard[] {
-  return [...nflCards(now), ...winterCards(now), ...mlbCards(), ...cfbCards()].sort((a, b) => a.nickname.localeCompare(b.nickname));
+  return [...nflCards(now), ...winterCards(now), ...mlbCards(), ...cfbCards(now)].sort((a, b) => a.nickname.localeCompare(b.nickname));
 }
