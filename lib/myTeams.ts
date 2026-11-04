@@ -73,8 +73,7 @@ function nflCards(now: Date, n: number): MyTeamCard[] {
       list.push({
         when: `${when} · Week ${g.week}`,
         opp: g.matchup,
-        // "White · MNF" → "White jersey"; the window tag reads as noise on a card.
-        look: `${g.uniform.split(" · ")[0]} jersey`,
+        look: nflLook(g.uniform),
         img: g.img,
         confirmed: g.confirmed,
         at,
@@ -82,6 +81,18 @@ function nflCards(now: Date, n: number): MyTeamCard[] {
     }
     return withGames(card, list, n);
   });
+}
+
+// "White · MNF" → "White jersey" (the window tag reads as noise on a card);
+// "White · White Pants" → "All white", "White · Royal Pants" → "White jersey, royal pants".
+function nflLook(uniform: string): string {
+  // Some grids write "Purple / White" (jersey / pants) instead.
+  const [first, second] = uniform.split(" · ");
+  const [jersey, slashPants] = first.split(" / ");
+  const pants = slashPants ?? (second && /pants$/i.test(second) ? second.replace(/\s*pants$/i, "") : undefined);
+  if (!pants) return `${jersey} jersey`;
+  if (pants.toLowerCase() === jersey.toLowerCase()) return `All ${jersey.toLowerCase()}`;
+  return `${jersey} jersey, ${pants.toLowerCase()} pants`;
 }
 
 function withGames(card: MyTeamCard, list: NextGame[], n: number): MyTeamCard {
