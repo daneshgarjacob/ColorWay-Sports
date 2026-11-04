@@ -171,7 +171,7 @@ function cfbJerseyImg(team: string, look: string): string | undefined {
   if (!mine) return undefined;
   const parts = look.split(" / ");
   const jersey = parts.length === 3 ? parts[1] : look;
-  for (const word of jersey.toLowerCase().split(/[^a-z]+/)) if (mine[word]) return mine[word];
+  for (const word of jersey.toLowerCase().split(/[^a-z]+/)) if (mine[word] ?? mine[word.replace(/s$/, "")]) return mine[word] ?? mine[word.replace(/s$/, "")];
   return undefined;
 }
 

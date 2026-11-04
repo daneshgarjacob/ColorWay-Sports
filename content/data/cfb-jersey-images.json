@@ -1,1 +1,409 @@
-{"usc-trojans": {"cardinal": "/images/cfb-jerseys/usc-cardinal.jpg", "white": "/images/cfb-jerseys/usc-white.jpg"}}
+{
+  "alabama-crimson-tide": {
+    "crimson": "/images/cfb-jerseys/alabama-crimson-tide-crimson.jpg",
+    "white": "/images/cfb-jerseys/alabama-crimson-tide-white.jpg"
+  },
+  "air-force-falcons": {
+    "blue": "/images/cfb-jerseys/air-force-falcons-blue.jpg"
+  },
+  "arizona-wildcats": {
+    "navy": "/images/cfb-jerseys/arizona-wildcats-navy.jpg"
+  },
+  "appalachian-state-mountaineers": {
+    "black": "/images/cfb-jerseys/appalachian-state-mountaineers-black.jpg",
+    "white": "/images/cfb-jerseys/appalachian-state-mountaineers-white.jpg"
+  },
+  "arizona-state-sun-devils": {
+    "maroon": "/images/cfb-jerseys/arizona-state-sun-devils-maroon.jpg",
+    "white": "/images/cfb-jerseys/arizona-state-sun-devils-white.jpg"
+  },
+  "arkansas-razorbacks": {
+    "cardinal": "/images/cfb-jerseys/arkansas-razorbacks-cardinal.jpg",
+    "white": "/images/cfb-jerseys/arkansas-razorbacks-white.jpg"
+  },
+  "baylor-bears": {
+    "black": "/images/cfb-jerseys/baylor-bears-black.jpg",
+    "green": "/images/cfb-jerseys/baylor-bears-green.jpg",
+    "white": "/images/cfb-jerseys/baylor-bears-white.jpg"
+  },
+  "auburn-tigers": {
+    "navy": "/images/cfb-jerseys/auburn-tigers-navy.jpg",
+    "white": "/images/cfb-jerseys/auburn-tigers-white.jpg"
+  },
+  "boston-college-eagles": {
+    "maroon": "/images/cfb-jerseys/boston-college-eagles-maroon.jpg",
+    "white": "/images/cfb-jerseys/boston-college-eagles-white.jpg"
+  },
+  "boise-state-broncos": {
+    "blue": "/images/cfb-jerseys/boise-state-broncos-blue.jpg"
+  },
+  "cal-golden-bears": {
+    "blue": "/images/cfb-jerseys/cal-golden-bears-blue.jpg",
+    "royal": "/images/cfb-jerseys/cal-golden-bears-royal.jpg",
+    "white": "/images/cfb-jerseys/cal-golden-bears-white.jpg",
+    "navy": "/images/cfb-jerseys/cal-golden-bears-blue.jpg"
+  },
+  "byu-cougars": {
+    "navy": "/images/cfb-jerseys/byu-cougars-navy.jpg",
+    "royal": "/images/cfb-jerseys/byu-cougars-royal.jpg",
+    "white": "/images/cfb-jerseys/byu-cougars-white.jpg"
+  },
+  "cincinnati-bearcats": {
+    "black": "/images/cfb-jerseys/cincinnati-bearcats-black.jpg",
+    "red": "/images/cfb-jerseys/cincinnati-bearcats-red.jpg"
+  },
+  "colorado-buffaloes": {
+    "black": "/images/cfb-jerseys/colorado-buffaloes-black.jpg",
+    "gold": "/images/cfb-jerseys/colorado-buffaloes-gold.jpg",
+    "white": "/images/cfb-jerseys/colorado-buffaloes-white.jpg"
+  },
+  "colorado-state-rams": {
+    "green": "/images/cfb-jerseys/colorado-state-rams-green.jpg",
+    "white": "/images/cfb-jerseys/colorado-state-rams-white.jpg"
+  },
+  "coastal-carolina-chanticleers": {
+    "black": "/images/cfb-jerseys/coastal-carolina-chanticleers-black.jpg",
+    "teal": "/images/cfb-jerseys/coastal-carolina-chanticleers-teal.jpg",
+    "white": "/images/cfb-jerseys/coastal-carolina-chanticleers-white.jpg"
+  },
+  "clemson-tigers": {
+    "orange": "/images/cfb-jerseys/clemson-tigers-orange.jpg",
+    "purple": "/images/cfb-jerseys/clemson-tigers-purple.jpg",
+    "white": "/images/cfb-jerseys/clemson-tigers-white.jpg"
+  },
+  "duke-blue-devils": {
+    "blue": "/images/cfb-jerseys/duke-blue-devils-blue.jpg"
+  },
+  "florida-state-seminoles": {
+    "garnet": "/images/cfb-jerseys/florida-state-seminoles-garnet.jpg",
+    "white": "/images/cfb-jerseys/florida-state-seminoles-white.jpg"
+  },
+  "east-carolina-pirates": {
+    "black": "/images/cfb-jerseys/east-carolina-pirates-black.jpg",
+    "purple": "/images/cfb-jerseys/east-carolina-pirates-purple.jpg",
+    "white": "/images/cfb-jerseys/east-carolina-pirates-white.jpg"
+  },
+  "georgia-southern-eagles": {
+    "navy": "/images/cfb-jerseys/georgia-southern-eagles-navy.jpg",
+    "white": "/images/cfb-jerseys/georgia-southern-eagles-white.jpg"
+  },
+  "georgia-tech-yellow-jackets": {
+    "gold": "/images/cfb-jerseys/georgia-tech-yellow-jackets-gold.jpg",
+    "white": "/images/cfb-jerseys/georgia-tech-yellow-jackets-white.jpg"
+  },
+  "fresno-state-bulldogs": {
+    "black": "/images/cfb-jerseys/fresno-state-bulldogs-black.jpg",
+    "red": "/images/cfb-jerseys/fresno-state-bulldogs-red.jpg",
+    "white": "/images/cfb-jerseys/fresno-state-bulldogs-white.jpg"
+  },
+  "hawaii-rainbow-warriors": {
+    "black": "/images/cfb-jerseys/hawaii-rainbow-warriors-black.jpg",
+    "white": "/images/cfb-jerseys/hawaii-rainbow-warriors-white.jpg"
+  },
+  "florida-gators": {
+    "blue": "/images/cfb-jerseys/florida-gators-blue.jpg",
+    "orange": "/images/cfb-jerseys/florida-gators-orange.jpg",
+    "white": "/images/cfb-jerseys/florida-gators-white.jpg"
+  },
+  "indiana-hoosiers": {
+    "crimson": "/images/cfb-jerseys/indiana-hoosiers-crimson.jpg"
+  },
+  "iowa-state-cyclones": {
+    "cardinal": "/images/cfb-jerseys/iowa-state-cyclones-cardinal.jpg",
+    "white": "/images/cfb-jerseys/iowa-state-cyclones-white.jpg"
+  },
+  "georgia-bulldogs": {
+    "red": "/images/cfb-jerseys/georgia-bulldogs-red.jpg",
+    "white": "/images/cfb-jerseys/georgia-bulldogs-white.jpg"
+  },
+  "james-madison-dukes": {
+    "black": "/images/cfb-jerseys/james-madison-dukes-black.jpg",
+    "purple": "/images/cfb-jerseys/james-madison-dukes-purple.jpg",
+    "white": "/images/cfb-jerseys/james-madison-dukes-white.jpg"
+  },
+  "illinois-fighting-illini": {
+    "navy": "/images/cfb-jerseys/illinois-fighting-illini-navy.jpg",
+    "orange": "/images/cfb-jerseys/illinois-fighting-illini-orange.jpg",
+    "white": "/images/cfb-jerseys/illinois-fighting-illini-white.jpg"
+  },
+  "kentucky-wildcats": {
+    "blue": "/images/cfb-jerseys/kentucky-wildcats-blue.jpg",
+    "white": "/images/cfb-jerseys/kentucky-wildcats-white.jpg"
+  },
+  "houston-cougars": {
+    "red": "/images/cfb-jerseys/houston-cougars-red.jpg",
+    "white": "/images/cfb-jerseys/houston-cougars-white.jpg"
+  },
+  "liberty-flames": {
+    "white": "/images/cfb-jerseys/liberty-flames-white.jpg"
+  },
+  "kansas-jayhawks": {
+    "blue": "/images/cfb-jerseys/kansas-jayhawks-blue.jpg",
+    "white": "/images/cfb-jerseys/kansas-jayhawks-white.jpg"
+  },
+  "iowa-hawkeyes": {
+    "black": "/images/cfb-jerseys/iowa-hawkeyes-black.jpg"
+  },
+  "louisville-cardinals": {
+    "black": "/images/cfb-jerseys/louisville-cardinals-black.jpg",
+    "red": "/images/cfb-jerseys/louisville-cardinals-red.jpg",
+    "white": "/images/cfb-jerseys/louisville-cardinals-white.jpg"
+  },
+  "lsu-tigers": {
+    "purple": "/images/cfb-jerseys/lsu-tigers-purple.jpg",
+    "white": "/images/cfb-jerseys/lsu-tigers-white.jpg"
+  },
+  "louisiana-ragin-cajuns": {
+    "red": "/images/cfb-jerseys/louisiana-ragin-cajuns-red.jpg",
+    "white": "/images/cfb-jerseys/louisiana-ragin-cajuns-white.jpg"
+  },
+  "kansas-state-wildcats": {
+    "purple": "/images/cfb-jerseys/kansas-state-wildcats-purple.jpg",
+    "white": "/images/cfb-jerseys/kansas-state-wildcats-white.jpg"
+  },
+  "maryland-terrapins": {
+    "black": "/images/cfb-jerseys/maryland-terrapins-black.jpg",
+    "red": "/images/cfb-jerseys/maryland-terrapins-red.jpg",
+    "white": "/images/cfb-jerseys/maryland-terrapins-white.jpg"
+  },
+  "marshall-thundering-herd": {
+    "green": "/images/cfb-jerseys/marshall-thundering-herd-green.jpg",
+    "white": "/images/cfb-jerseys/marshall-thundering-herd-white.jpg"
+  },
+  "miami-hurricanes": {
+    "green": "/images/cfb-jerseys/miami-hurricanes-green.jpg",
+    "orange": "/images/cfb-jerseys/miami-hurricanes-orange.jpg",
+    "white": "/images/cfb-jerseys/miami-hurricanes-white.jpg"
+  },
+  "michigan-state-spartans": {
+    "green": "/images/cfb-jerseys/michigan-state-spartans-green.jpg",
+    "white": "/images/cfb-jerseys/michigan-state-spartans-white.jpg"
+  },
+  "minnesota-golden-gophers": {
+    "gold": "/images/cfb-jerseys/minnesota-golden-gophers-gold.jpg",
+    "maroon": "/images/cfb-jerseys/minnesota-golden-gophers-maroon.jpg",
+    "white": "/images/cfb-jerseys/minnesota-golden-gophers-white.jpg"
+  },
+  "missouri-tigers": {
+    "black": "/images/cfb-jerseys/missouri-tigers-black.jpg",
+    "gold": "/images/cfb-jerseys/missouri-tigers-gold.jpg",
+    "white": "/images/cfb-jerseys/missouri-tigers-white.jpg"
+  },
+  "mississippi-state-bulldogs": {
+    "black": "/images/cfb-jerseys/mississippi-state-bulldogs-black.jpg",
+    "maroon": "/images/cfb-jerseys/mississippi-state-bulldogs-maroon.jpg",
+    "white": "/images/cfb-jerseys/mississippi-state-bulldogs-white.jpg"
+  },
+  "memphis-tigers": {
+    "blue": "/images/cfb-jerseys/memphis-tigers-blue.jpg"
+  },
+  "michigan-wolverines": {
+    "maize": "/images/cfb-jerseys/michigan-wolverines-maize.jpg",
+    "navy": "/images/cfb-jerseys/michigan-wolverines-navy.jpg",
+    "white": "/images/cfb-jerseys/michigan-wolverines-white.jpg",
+    "blue": "/images/cfb-jerseys/michigan-wolverines-navy.jpg"
+  },
+  "nc-state-wolfpack": {
+    "red": "/images/cfb-jerseys/nc-state-wolfpack-red.jpg"
+  },
+  "navy-midshipmen": {
+    "navy": "/images/cfb-jerseys/navy-midshipmen-navy.jpg"
+  },
+  "northwestern-wildcats": {
+    "purple": "/images/cfb-jerseys/northwestern-wildcats-purple.jpg",
+    "white": "/images/cfb-jerseys/northwestern-wildcats-white.jpg"
+  },
+  "north-carolina-tar-heels": {
+    "blue": "/images/cfb-jerseys/north-carolina-tar-heels-blue.jpg",
+    "white": "/images/cfb-jerseys/north-carolina-tar-heels-white.jpg"
+  },
+  "nebraska-cornhuskers": {
+    "scarlet": "/images/cfb-jerseys/nebraska-cornhuskers-scarlet.jpg",
+    "white": "/images/cfb-jerseys/nebraska-cornhuskers-white.jpg"
+  },
+  "oklahoma-sooners": {
+    "crimson": "/images/cfb-jerseys/oklahoma-sooners-crimson.jpg",
+    "white": "/images/cfb-jerseys/oklahoma-sooners-white.jpg"
+  },
+  "ohio-state-buckeyes": {
+    "scarlet": "/images/cfb-jerseys/ohio-state-buckeyes-scarlet.jpg",
+    "white": "/images/cfb-jerseys/ohio-state-buckeyes-white.jpg"
+  },
+  "notre-dame-fighting-irish": {
+    "green": "/images/cfb-jerseys/notre-dame-fighting-irish-green.jpg",
+    "navy": "/images/cfb-jerseys/notre-dame-fighting-irish-navy.jpg",
+    "white": "/images/cfb-jerseys/notre-dame-fighting-irish-white.jpg"
+  },
+  "oklahoma-state-cowboys": {
+    "black": "/images/cfb-jerseys/oklahoma-state-cowboys-black.jpg",
+    "orange": "/images/cfb-jerseys/oklahoma-state-cowboys-orange.jpg",
+    "white": "/images/cfb-jerseys/oklahoma-state-cowboys-white.jpg"
+  },
+  "oregon-state-beavers": {
+    "black": "/images/cfb-jerseys/oregon-state-beavers-black.jpg",
+    "orange": "/images/cfb-jerseys/oregon-state-beavers-orange.jpg",
+    "white": "/images/cfb-jerseys/oregon-state-beavers-white.jpg"
+  },
+  "oregon-ducks": {
+    "black": "/images/cfb-jerseys/oregon-ducks-black.jpg",
+    "green": "/images/cfb-jerseys/oregon-ducks-green.jpg",
+    "white": "/images/cfb-jerseys/oregon-ducks-white.jpg"
+  },
+  "pitt-panthers": {
+    "blue": "/images/cfb-jerseys/pitt-panthers-blue.jpg",
+    "white": "/images/cfb-jerseys/pitt-panthers-white.jpg"
+  },
+  "penn-state-nittany-lions": {
+    "navy": "/images/cfb-jerseys/penn-state-nittany-lions-navy.jpg",
+    "white": "/images/cfb-jerseys/penn-state-nittany-lions-white.jpg"
+  },
+  "purdue-boilermakers": {
+    "black": "/images/cfb-jerseys/purdue-boilermakers-black.jpg",
+    "white": "/images/cfb-jerseys/purdue-boilermakers-white.jpg"
+  },
+  "rutgers-scarlet-knights": {
+    "scarlet": "/images/cfb-jerseys/rutgers-scarlet-knights-scarlet.jpg"
+  },
+  "san-diego-state-aztecs": {
+    "black": "/images/cfb-jerseys/san-diego-state-aztecs-black.jpg",
+    "white": "/images/cfb-jerseys/san-diego-state-aztecs-white.jpg"
+  },
+  "smu-mustangs": {
+    "blue": "/images/cfb-jerseys/smu-mustangs-blue.jpg",
+    "white": "/images/cfb-jerseys/smu-mustangs-white.jpg"
+  },
+  "south-carolina-gamecocks": {
+    "black": "/images/cfb-jerseys/south-carolina-gamecocks-black.jpg",
+    "garnet": "/images/cfb-jerseys/south-carolina-gamecocks-garnet.jpg",
+    "white": "/images/cfb-jerseys/south-carolina-gamecocks-white.jpg"
+  },
+  "south-florida-bulls": {
+    "black": "/images/cfb-jerseys/south-florida-bulls-black.jpg",
+    "green": "/images/cfb-jerseys/south-florida-bulls-green.jpg",
+    "white": "/images/cfb-jerseys/south-florida-bulls-white.jpg"
+  },
+  "stanford-cardinal": {
+    "cardinal": "/images/cfb-jerseys/stanford-cardinal-cardinal.jpg",
+    "red": "/images/cfb-jerseys/stanford-cardinal-cardinal.jpg"
+  },
+  "southern-miss-golden-eagles": {
+    "black": "/images/cfb-jerseys/southern-miss-golden-eagles-black.jpg"
+  },
+  "temple-owls": {
+    "cherry": "/images/cfb-jerseys/temple-owls-cherry.jpg",
+    "white": "/images/cfb-jerseys/temple-owls-white.jpg"
+  },
+  "tennessee-volunteers": {
+    "orange": "/images/cfb-jerseys/tennessee-volunteers-orange.jpg",
+    "white": "/images/cfb-jerseys/tennessee-volunteers-white.jpg"
+  },
+  "tcu-horned-frogs": {
+    "black": "/images/cfb-jerseys/tcu-horned-frogs-black.jpg",
+    "purple": "/images/cfb-jerseys/tcu-horned-frogs-purple.jpg"
+  },
+  "texas-state-bobcats": {
+    "maroon": "/images/cfb-jerseys/texas-state-bobcats-maroon.jpg",
+    "white": "/images/cfb-jerseys/texas-state-bobcats-white.jpg"
+  },
+  "texas-am-aggies": {
+    "maroon": "/images/cfb-jerseys/texas-am-aggies-maroon.jpg",
+    "white": "/images/cfb-jerseys/texas-am-aggies-white.jpg"
+  },
+  "texas-tech-red-raiders": {
+    "black": "/images/cfb-jerseys/texas-tech-red-raiders-black.jpg",
+    "white": "/images/cfb-jerseys/texas-tech-red-raiders-white.jpg"
+  },
+  "texas-longhorns": {
+    "burnt-orange": "/images/cfb-jerseys/texas-longhorns-burnt-orange.jpg",
+    "white": "/images/cfb-jerseys/texas-longhorns-white.jpg"
+  },
+  "toledo-rockets": {
+    "blue": "/images/cfb-jerseys/toledo-rockets-blue.jpg",
+    "white": "/images/cfb-jerseys/toledo-rockets-white.jpg",
+    "navy": "/images/cfb-jerseys/toledo-rockets-blue.jpg"
+  },
+  "tulane-green-wave": {
+    "green": "/images/cfb-jerseys/tulane-green-wave-green.jpg",
+    "white": "/images/cfb-jerseys/tulane-green-wave-white.jpg"
+  },
+  "tulsa-golden-hurricane": {
+    "blue": "/images/cfb-jerseys/tulsa-golden-hurricane-blue.jpg"
+  },
+  "ucf-knights": {
+    "black": "/images/cfb-jerseys/ucf-knights-black.jpg",
+    "white": "/images/cfb-jerseys/ucf-knights-white.jpg"
+  },
+  "ucla-bruins": {
+    "blue": "/images/cfb-jerseys/ucla-bruins-blue.jpg",
+    "white": "/images/cfb-jerseys/ucla-bruins-white.jpg"
+  },
+  "uconn-huskies": {
+    "navy": "/images/cfb-jerseys/uconn-huskies-navy.jpg",
+    "white": "/images/cfb-jerseys/uconn-huskies-white.jpg"
+  },
+  "unlv-rebels": {
+    "red": "/images/cfb-jerseys/unlv-rebels-red.jpg",
+    "white": "/images/cfb-jerseys/unlv-rebels-white.jpg"
+  },
+  "utah-utes": {
+    "black": "/images/cfb-jerseys/utah-utes-black.jpg",
+    "red": "/images/cfb-jerseys/utah-utes-red.jpg",
+    "white": "/images/cfb-jerseys/utah-utes-white.jpg"
+  },
+  "utah-state-aggies": {
+    "black": "/images/cfb-jerseys/utah-state-aggies-black.jpg",
+    "navy": "/images/cfb-jerseys/utah-state-aggies-navy.jpg",
+    "white": "/images/cfb-jerseys/utah-state-aggies-white.jpg",
+    "blue": "/images/cfb-jerseys/utah-state-aggies-navy.jpg"
+  },
+  "usc-trojans": {
+    "cardinal": "/images/cfb-jerseys/usc-cardinal.jpg",
+    "white": "/images/cfb-jerseys/usc-white.jpg"
+  },
+  "vanderbilt-commodores": {
+    "black": "/images/cfb-jerseys/vanderbilt-commodores-black.jpg",
+    "gold": "/images/cfb-jerseys/vanderbilt-commodores-gold.jpg",
+    "white": "/images/cfb-jerseys/vanderbilt-commodores-white.jpg"
+  },
+  "virginia-tech-hokies": {
+    "maroon": "/images/cfb-jerseys/virginia-tech-hokies-maroon.jpg",
+    "orange": "/images/cfb-jerseys/virginia-tech-hokies-orange.jpg",
+    "white": "/images/cfb-jerseys/virginia-tech-hokies-white.jpg"
+  },
+  "virginia-cavaliers": {
+    "navy": "/images/cfb-jerseys/virginia-cavaliers-navy.jpg",
+    "white": "/images/cfb-jerseys/virginia-cavaliers-white.jpg"
+  },
+  "washington-state-cougars": {
+    "crimson": "/images/cfb-jerseys/washington-state-cougars-crimson.jpg",
+    "white": "/images/cfb-jerseys/washington-state-cougars-white.jpg"
+  },
+  "wake-forest-demon-deacons": {
+    "black": "/images/cfb-jerseys/wake-forest-demon-deacons-black.jpg",
+    "white": "/images/cfb-jerseys/wake-forest-demon-deacons-white.jpg"
+  },
+  "west-virginia-mountaineers": {
+    "black": "/images/cfb-jerseys/west-virginia-mountaineers-black.jpg",
+    "gold": "/images/cfb-jerseys/west-virginia-mountaineers-gold.jpg",
+    "navy": "/images/cfb-jerseys/west-virginia-mountaineers-navy.jpg",
+    "white": "/images/cfb-jerseys/west-virginia-mountaineers-white.jpg"
+  },
+  "washington-huskies": {
+    "purple": "/images/cfb-jerseys/washington-huskies-purple.jpg",
+    "white": "/images/cfb-jerseys/washington-huskies-white.jpg"
+  },
+  "wisconsin-badgers": {
+    "red": "/images/cfb-jerseys/wisconsin-badgers-red.jpg",
+    "white": "/images/cfb-jerseys/wisconsin-badgers-white.jpg"
+  },
+  "western-kentucky-hilltoppers": {
+    "black": "/images/cfb-jerseys/western-kentucky-hilltoppers-black.jpg",
+    "red": "/images/cfb-jerseys/western-kentucky-hilltoppers-red.jpg",
+    "white": "/images/cfb-jerseys/western-kentucky-hilltoppers-white.jpg"
+  },
+  "wyoming-cowboys": {
+    "black": "/images/cfb-jerseys/wyoming-cowboys-black.jpg",
+    "brown": "/images/cfb-jerseys/wyoming-cowboys-brown.jpg",
+    "white": "/images/cfb-jerseys/wyoming-cowboys-white.jpg"
+  }
+}
