@@ -287,6 +287,10 @@ const leagues: NavLeague[] = [
 
 // "Home" is deliberately absent: the ColorWay Sports wordmark is the home link.
 const navLinks = [
+  // Jake 11/4, ESPN-style: tonight's games, your teams, every team's page.
+  { label: "Tonight", href: "/tonight" },
+  { label: "My Teams", href: "/my-teams" },
+  { label: "Teams", href: "/teams" },
   // Stories left the top nav 9/30 (Jake: the sportslogos.net model, league rail
   // + search, no catch-all "Stories" link). /stories and every /stories/<slug>
   // URL are untouched; the league rail, search and footer still reach them.
@@ -613,6 +617,17 @@ export default function Header() {
           </button>
           </div>
         </div>
+
+        {/* Phone/tablet quick bar (Jake 11/4, ESPN app style): the three places
+            a fan goes most, one tap from every page. Not pinned to the bottom of
+            the screen, where Mediavine's sticky phone ad lives. */}
+        <nav className="lg:hidden bg-white border-t border-black/[0.06] flex justify-around h-[40px] items-stretch">
+          {[{ label: "Home", href: "/" }, { label: "Tonight", href: "/tonight" }, { label: "My Teams", href: "/my-teams" }, { label: "Teams", href: "/teams" }].map((l) => (
+            <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#14223f]" style={{ fontFamily: "var(--font-display)" }}>
+              {l.label}
+            </Link>
+          ))}
+        </nav>
 
         {/* Row 2 — the league rail. Light so the full-colour league marks read
             properly, horizontally scrollable so new sports just join the end

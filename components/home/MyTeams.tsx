@@ -48,7 +48,11 @@ function useFollowed(): [string[], (id: string) => void] {
   return [ids, toggle];
 }
 
-export function MyTeamsRow({ teams }: { teams: MyTeamCard[] }) {
+// "nfl:los-angeles-chargers" -> "/teams/nfl/los-angeles-chargers" (lib/myTeams teamPagePath;
+// repeated here because that file reads the disk and can't ship to the browser).
+const teamPage = (id: string) => `/teams/${id.replace(":", "/")}`;
+
+export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPages?: boolean }) {
   const [ids, toggle] = useFollowed();
   const [editing, setEditing] = useState(false);
   const mine = teams
@@ -70,7 +74,7 @@ export function MyTeamsRow({ teams }: { teams: MyTeamCard[] }) {
           <div key={t.id} className="relative snap-start shrink-0 w-[260px] sm:w-[280px]">
             <Link
               prefetch={false}
-              href={t.href}
+              href={teamPages ? teamPage(t.id) : t.href}
               className="flex gap-3 items-center rounded-2xl p-3 text-white h-full"
               style={{ background: `linear-gradient(120deg, #0A1733 0%, ${t.color} 170%)` }}
             >
@@ -95,7 +99,7 @@ export function MyTeamsRow({ teams }: { teams: MyTeamCard[] }) {
                 ) : (
                   <div className="font-display font-black text-[16px] leading-tight mt-1">{t.note}</div>
                 )}
-                <div className="text-[11px] font-bold text-white/85 mt-1">Full schedule &rarr;</div>
+                <div className="text-[11px] font-bold text-white/85 mt-1">{teamPages ? "Team page" : "Full schedule"} &rarr;</div>
               </div>
             </Link>
             {editing && (
@@ -164,5 +168,22 @@ export function TeamPicker({ teams }: { teams: MyTeamCard[] }) {
         })}
       </div>
     </section>
+  );
+}
+
+// The ☆ on a team page: same follow list as the homepage row (Jake 11/4,
+// ESPN-style team pages).
+export function FollowButton({ id, name }: { id: string; name: string }) {
+  const [ids, toggle] = useFollowed();
+  const on = ids.includes(id);
+  return (
+    <button
+      onClick={() => toggle(id)}
+      aria-pressed={on}
+      aria-label={on ? `Unfollow ${name}` : `Follow ${name}`}
+      className={`shrink-0 rounded-full px-4 py-2 font-display text-[13px] font-extrabold border-2 border-white ${on ? "bg-white text-black" : "bg-transparent text-white"}`}
+    >
+      {on ? "★ Following" : "☆ Follow"}
+    </button>
   );
 }

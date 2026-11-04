@@ -11,6 +11,7 @@ import { buildWinterIndex, shortDate } from "./winterTrackerIndex";
 import { NBA_TILE_COLORS } from "./nbaTileColors";
 import { TEAM_LOGO_BY_SLUG } from "./teamLogos";
 import kickoffData from "@/content/data/nfl-kickoffs-2026.json";
+import cfbJerseyData from "@/content/data/cfb-jersey-images.json";
 
 export type MyTeamLeague = "NFL" | "NBA" | "NHL" | "MLB" | "CFB";
 
@@ -36,7 +37,11 @@ export type MyTeamCard = {
   };
   /** Shown instead of a next game (offseason, bye). */
   note?: string;
+  /** The next few games, for team pages (getTeamCard); the homepage asks for one. */
+  upcoming?: NextGame[];
 };
+
+export type NextGame = NonNullable<MyTeamCard["next"]>;
 
 function etToday(now: Date): string {
   return now.toLocaleDateString("en-CA", { timeZone: "America/New_York" });
@@ -45,7 +50,7 @@ function etToday(now: Date): string {
 type Kickoff = { week: number; away: string; home: string; kickoff: string };
 const KICKOFFS = (kickoffData as { games: Kickoff[] }).games;
 
-function nflCards(now: Date): MyTeamCard[] {
+function nflCards(now: Date, n: number): MyTeamCard[] {
   // A game stays "next" until about four hours after kickoff, then the card
   // moves on to the following week (exact times from content/data/nfl-kickoffs-2026.json).
   const live = now.getTime() - 4 * 3600_000;
@@ -54,26 +59,34 @@ function nflCards(now: Date): MyTeamCard[] {
       id: `nfl:${t.slug}`, league: "NFL", name: t.name, nickname: t.nickname, logo: t.logo,
       href: `/stories/${t.scheduleSlug}`, color: t.color,
     };
-    const k = KICKOFFS.filter((x) => (x.away === t.nickname || x.home === t.nickname) && Date.parse(x.kickoff) > live)
-      .sort((a, b) => Date.parse(a.kickoff) - Date.parse(b.kickoff))[0];
-    const g = k && t.games.find((x) => x.week === k.week && !x.bye);
-    if (!k || !g) return { ...card, note: "Season over" };
-    const at = Date.parse(k.kickoff);
     const etDay = (ms: number) => new Date(ms).toLocaleDateString("en-CA", { timeZone: "America/New_York" });
-    const when = etDay(at) === etToday(now)
-      ? "Today"
-      : new Date(at).toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", timeZone: "America/New_York" });
-    card.next = {
-      when: `${when} · Week ${g.week}`,
-      opp: g.matchup,
-      // "White · MNF" → "White jersey"; the window tag reads as noise on a card.
-      look: `${g.uniform.split(" · ")[0]} jersey`,
-      img: g.img,
-      confirmed: g.confirmed,
-      at,
-    };
-    return card;
+    const list: NextGame[] = [];
+    for (const k of KICKOFFS.filter((x) => (x.away === t.nickname || x.home === t.nickname) && Date.parse(x.kickoff) > live)
+      .sort((a, b) => Date.parse(a.kickoff) - Date.parse(b.kickoff))) {
+      if (list.length >= n) break;
+      const g = t.games.find((x) => x.week === k.week && !x.bye);
+      if (!g) continue;
+      const at = Date.parse(k.kickoff);
+      const when = etDay(at) === etToday(now)
+        ? "Today"
+        : new Date(at).toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", timeZone: "America/New_York" });
+      list.push({
+        when: `${when} · Week ${g.week}`,
+        opp: g.matchup,
+        // "White · MNF" → "White jersey"; the window tag reads as noise on a card.
+        look: `${g.uniform.split(" · ")[0]} jersey`,
+        img: g.img,
+        confirmed: g.confirmed,
+        at,
+      });
+    }
+    return withGames(card, list, n);
   });
+}
+
+function withGames(card: MyTeamCard, list: NextGame[], n: number): MyTeamCard {
+  if (!list.length) return { ...card, note: card.note ?? "Season over" };
+  return { ...card, next: list[0], ...(n > 1 ? { upcoming: list } : {}) };
 }
 
 // NBA calls are edition names ("Icon Edition"), which mean nothing to most
@@ -87,7 +100,7 @@ function lookWords(league: "nba" | "nhl", call: string | undefined, img: string 
   return `${color}${kind} jersey`;
 }
 
-function winterCards(now: Date): MyTeamCard[] {
+function winterCards(now: Date, n: number): MyTeamCard[] {
   const today = etToday(now);
   return buildWinterIndex().map((t) => {
     const league: MyTeamLeague = t.league === "nba" ? "NBA" : "NHL";
@@ -95,12 +108,9 @@ function winterCards(now: Date): MyTeamCard[] {
       id: `${t.league}:${t.slug}`, league, name: t.name, nickname: t.nickname, logo: t.logo,
       href: `/stories/${t.scheduleSlug}`, color: t.color,
     };
-    const g = t.games.find((x) => x.date >= today);
-    if (!g) return { ...card, note: "Season over" };
-    const opp = g.opp?.nickname ?? g.opponent;
-    card.next = {
+    const list = t.games.filter((x) => x.date >= today).slice(0, n).map((g): NextGame => ({
       when: g.date === today ? "Tonight" : shortDate(g.date),
-      opp: `${g.home ? "vs" : "at"} ${opp}`,
+      opp: `${g.home ? "vs" : "at"} ${g.opp?.nickname ?? g.opponent}`,
       look: lookWords(t.league, g.uniform ?? g.expected, g.image ?? g.expectedImage),
       // Announced NHL specials carry no tile; Remix nights get the NHL's studio
       // photo of that club's Hometown Remix jersey (Jake 11/2).
@@ -109,8 +119,8 @@ function winterCards(now: Date): MyTeamCard[] {
         : undefined),
       confirmed: g.confirmed,
       at: Date.parse(`${g.date}T12:00:00Z`),
-    };
-    return card;
+    }));
+    return withGames(card, list, n);
   });
 }
 
@@ -149,14 +159,23 @@ function mlbCards(): MyTeamCard[] {
 const CFB_CELL = /letter-spacing: 1px; opacity: 0\.8\d?;">([A-Z]{3}) (\d{1,2})[^<]*<\/div><div[^>]*>([^<]+)<\/div><div[^>]*>([^<]*)<\/div>/g;
 const MONTHS = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
 
-// Jersey photos for college looks, keyed "<team slug>:<look>". Hand-listed
-// rather than read from public/ (ISR re-renders run without public/).
-const CFB_JERSEYS: Record<string, string> = {
-  "usc-trojans:cardinal": "/images/cfb-jerseys/usc-cardinal.jpg",
-  "usc-trojans:white": "/images/cfb-jerseys/usc-white.jpg",
-};
+// Jersey photos for college looks: content/data/cfb-jersey-images.json maps
+// each school to its jerseys by color word. Read through an import, not from
+// public/ (ISR re-renders run without public/).
+const CFB_JERSEYS = cfbJerseyData as Record<string, Record<string, string>>;
 
-function cfbNext(body: string, team: string, now: Date): MyTeamCard["next"] | undefined {
+// Grid calls are "helmet / jersey / pants" or a word or two ("Crimson",
+// "Chrome · all white"); find the jersey color among the school's photos.
+function cfbJerseyImg(team: string, look: string): string | undefined {
+  const mine = CFB_JERSEYS[team];
+  if (!mine) return undefined;
+  const parts = look.split(" / ");
+  const jersey = parts.length === 3 ? parts[1] : look;
+  for (const word of jersey.toLowerCase().split(/[^a-z]+/)) if (mine[word]) return mine[word];
+  return undefined;
+}
+
+function cfbUpcoming(body: string, team: string, now: Date, n: number): NextGame[] {
   const today = etToday(now);
   const games: { date: string; opp: string; look: string }[] = [];
   for (const m of body.matchAll(CFB_CELL)) {
@@ -169,10 +188,12 @@ function cfbNext(body: string, team: string, now: Date): MyTeamCard["next"] | un
   const sunday = new Date(`${today}T12:00:00Z`).getUTCDay() === 0;
   const live = sunday ? new Date(Date.parse(`${today}T12:00:00Z`) - 86400_000).toISOString().slice(0, 10) : today;
   const upcoming = games.filter((g) => g.date >= live);
-  const g = upcoming.find((x) => !/^bye$/i.test(x.opp));
-  if (!g) return undefined;
   // A bye between now and the next game is the week's real answer.
-  const bye = upcoming[0] && /^bye$/i.test(upcoming[0].opp) && upcoming[0].date < g.date;
+  const byeFirst = !!upcoming[0] && /^bye$/i.test(upcoming[0].opp);
+  return upcoming.filter((x) => !/^bye$/i.test(x.opp)).slice(0, n).map((g, i) => cfbGame(g, team, today, byeFirst && i === 0));
+}
+
+function cfbGame(g: { date: string; opp: string; look: string }, team: string, today: string, bye: boolean): NextGame {
   const look = g.look.toLowerCase();
   // "White" → "White jersey"; longer calls ("Chrome · all white") read fine as is.
   const named = !look || /^(tbd|tba)$/.test(look)
@@ -182,12 +203,12 @@ function cfbNext(body: string, team: string, now: Date): MyTeamCard["next"] | un
     when: g.date === today ? "Today" : shortDate(g.date),
     opp: g.opp,
     look: bye ? `Bye week, then ${look && !/^(tbd|tba)$/.test(look) ? look : "TBA"}` : named,
-    img: CFB_JERSEYS[`${team}:${look}`],
+    img: cfbJerseyImg(team, look),
     at: Date.parse(`${g.date}T12:00:00Z`),
   };
 }
 
-function cfbCards(now: Date): MyTeamCard[] {
+function cfbCards(now: Date, n: number): MyTeamCard[] {
   const posts = path.join(process.cwd(), "content", "posts");
   const out: MyTeamCard[] = [];
   for (const f of fs.readdirSync(posts)) {
@@ -203,12 +224,22 @@ function cfbCards(now: Date): MyTeamCard[] {
       id: `cfb:${team}`, league: "CFB", name: school, nickname: school, logo,
       href: `/stories/${f.replace(/\.md$/, "")}`, color: "#0A1733",
     };
-    const next = cfbNext(text, team, now);
-    out.push(next ? { ...card, next } : { ...card, note: "Season over" });
+    out.push(withGames(card, cfbUpcoming(text, team, now, n), n));
   }
   return out;
 }
 
-export function getMyTeamCards(now = new Date()): MyTeamCard[] {
-  return [...nflCards(now), ...winterCards(now), ...mlbCards(), ...cfbCards(now)].sort((a, b) => a.nickname.localeCompare(b.nickname));
+export function getMyTeamCards(now = new Date(), n = 1): MyTeamCard[] {
+  return [...nflCards(now, n), ...winterCards(now, n), ...mlbCards(), ...cfbCards(now, n)].sort((a, b) => a.nickname.localeCompare(b.nickname));
+}
+
+/** "nfl:los-angeles-chargers" -> "/teams/nfl/los-angeles-chargers" */
+export function teamPagePath(id: string): string {
+  const [league, slug] = id.split(":");
+  return `/teams/${league}/${slug}`;
+}
+
+/** One club with its next `n` games, for its team page. */
+export function getTeamCard(id: string, now = new Date(), n = 6): MyTeamCard | undefined {
+  return getMyTeamCards(now, n).find((c) => c.id === id);
 }
