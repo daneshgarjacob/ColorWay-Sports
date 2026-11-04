@@ -1,5 +1,5 @@
 ---
-title: "The Chargers Should Make Super Chargers Their Full-Time Uniform (and Take the Numbers Off the Helmet)"
+title: "Jake's Fix: The Chargers Should Make Super Chargers Their Full-Time Uniform (and Take the Numbers Off the Helmet)"
 category: "NFL"
 date: "2026-11-03"
 excerpt: "The navy Super Chargers set is the best thing the Chargers wear, and it should be the primary. Navy jersey and white pants at home, white jersey and navy pants on the road, a clean navy helmet with no number. Here is the case."
@@ -7,10 +7,12 @@ gradient: "linear-gradient(135deg, #0A2342 0%, #0080C6 60%, #ffffff 130%)"
 author: "jake-daneshgar"
 coverImage: "/images/posts/nfl-tracker-jerseys/chargers-navy-super-chargers.jpg"
 coverImageFit: "contain"
-kicker: Hot Take
+kicker: "Jake's Fix"
 league: "nfl"
 teams: ["los-angeles-chargers"]
 ---
+
+*Jake's Fix is our series on how we'd fix a team's uniform, one team at a time.*
 
 The Chargers bring out their navy **Super Chargers** uniform three times this season, starting Sunday against the Texans. Every time they do, it is the best-looking team on the field. So here is our take: **stop making it a special occasion. Make it the full-time uniform.**
 
