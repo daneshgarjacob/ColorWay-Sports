@@ -3,7 +3,7 @@ title: "Ravens Will Wear Purple Rising vs. Jaguars on Thursday Night Football: P
 author: "jake-daneshgar"
 category: NFL
 date: "2026-10-30"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-04"
 excerpt: "The Ravens wear their all-purple Purple Rising uniform against the Jaguars on Thursday Night Football, November 5, at M&T Bank Stadium: the metallic purple Purple Rising helmet with gold stripes and a gold facemask, the purple Purple Rising jersey and purple pants. It is the third time Baltimore has worn the look and the first in the new Next Flight version. Every detail, the history and the game info."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-purple-rising-uniforms-thursday-night-football-2026/cover.jpg"
@@ -65,13 +65,19 @@ The 2026 Purple Rising set replaces it. It is a new uniform built around the pur
 
 ## What Will the Jaguars Wear?
 
-Jacksonville has not announced its uniform for the game. With Baltimore in purple at home, the Jaguars are expected in **white**, the call on our [Jaguars 2026 uniform schedule](/stories/jaguars-uniform-schedule-2026) for this trip.
+**Confirmed by the team on Wednesday:** the Jaguars wear the **black helmet, white jersey and white pants**, all white below the neck, with Travis Hunter modeling it in the team's "TNF Threads" post. That is the call on our [Jaguars 2026 uniform schedule](/stories/jaguars-uniform-schedule-2026) for this trip.
 
-<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jaguars-white-road.jpg" alt="Jacksonville Jaguars white road jersey, expected at Baltimore on Thursday Night Football on November 5, 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jaguars · Expected</figcaption></figure></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Jaguars/status/2118015625419502017"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Jaguars' Thursday night look, via @Jaguars</p>
+
+
+<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jaguars-white-road.jpg" alt="Jacksonville Jaguars white road jersey, confirmed with a black helmet and white pants at Baltimore on Thursday Night Football on November 5, 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jaguars · Confirmed</figcaption></figure></div>
 
 ## Our Take
 
-All purple is the best look the Ravens have, and the reason is simple: nobody else in the NFL owns purple the way Baltimore does. Monochrome uniforms usually look flat. This one does not, because the gold stripes, gold facemask and gold trim on the jersey break up the purple. The old Color Rush was always a good uniform wearing the wrong helmet, and the 2024 helmet fixed half of that. The 2026 version fixes the rest, and it is the best uniform in the Next Flight collection. Under the lights on a Thursday is the right place for it. Our matchup grade: **B+**, held back only by a Jaguars side expected in plain white.
+All purple is the best look the Ravens have, and the reason is simple: nobody else in the NFL owns purple the way Baltimore does. Monochrome uniforms usually look flat. This one does not, because the gold stripes, gold facemask and gold trim on the jersey break up the purple. The old Color Rush was always a good uniform wearing the wrong helmet, and the 2024 helmet fixed half of that. The 2026 version fixes the rest, and it is the best uniform in the Next Flight collection. Under the lights on a Thursday is the right place for it. Our matchup grade: **B+**, held back only by a Jaguars side in plain white. White against all purple is clean, at least, and the black helmet gives Jacksonville a little edge.
 
 ## Jaguars vs. Ravens: Game Info
 
@@ -122,7 +128,7 @@ In 2026, the primary Ravens logo. The original 2024 version carried the front-fa
 
 **What will the Jaguars wear against the Ravens?**
 
-Jacksonville has not announced it yet. With Baltimore in purple at home, the Jaguars are expected in white.
+Black helmet, white jersey and white pants, confirmed by the Jaguars on November 4. Baltimore is in all purple.
 
 **What channel is Jaguars vs. Ravens on?**
 
