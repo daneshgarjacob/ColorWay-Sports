@@ -52,7 +52,16 @@ export default function TeamWearBox({
           <h2 className="text-xl sm:text-2xl font-extrabold text-[#0B1F4A] leading-tight mb-4">{title}</h2>
 
           {headline && (
-            <div className="mb-5">
+            <div className={`mb-5 ${headline.img ? "flex items-center gap-5" : ""}`}>
+              {headline.img && (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={headline.img}
+                  alt={headline.imgAlt ?? ""}
+                  className="h-[120px] sm:h-[140px] w-auto object-contain flex-shrink-0"
+                />
+              )}
+              <div className="min-w-0">
               <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#8A8F98]">{headline.detail}</p>
               {headline.swatch ? (
                 <p className="mt-2">
@@ -75,6 +84,7 @@ export default function TeamWearBox({
               <p className="mt-1 text-[11px] font-extrabold uppercase tracking-[0.14em] text-black/50">
                 {headline.confirmed ? confirmedLabel : "Expected · not yet confirmed"}
               </p>
+              </div>
             </div>
           )}
 

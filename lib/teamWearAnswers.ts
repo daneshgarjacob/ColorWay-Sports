@@ -27,6 +27,9 @@ export type WearHeadline = {
   detail: string;
   /** The jersey's own colors (NBA): shows the uniform as a chip in them. */
   swatch?: { bg: string; fg: string };
+  /** Photo of this week's jersey (NFL). */
+  img?: string;
+  imgAlt?: string;
 };
 
 const DAY = 86400000;
@@ -89,6 +92,8 @@ export function buildNflWear(
       uniform: game.uniform,
       confirmed: game.confirmed,
       detail: `Week ${week} · ${when} · ${game.home ? "vs" : "at"} ${game.opponent}`,
+      img: game.img,
+      imgAlt: `${entry.name} ${game.uniform.split(" · ")[0]} jersey, ${game.confirmed ? "confirmed" : "expected"} for Week ${week} ${game.home ? "against" : "at"} the ${game.opponent}`,
     };
     const look = game.uniform.replace(/\s*·\s*/g, ", ");
     answers.push(

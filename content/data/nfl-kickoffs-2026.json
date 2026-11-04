@@ -1,6 +1,6 @@
 {
  "source": "ESPN week scoreboard",
- "fetched": "2026-10-14T01:47:41.971Z",
+ "fetched": "2026-11-04T20:05:10.376Z",
  "games": [
   {
    "week": 1,
@@ -1183,20 +1183,20 @@
   },
   {
    "week": 9,
-   "away": "Raiders",
-   "home": "49ers",
-   "kickoff": "2026-11-08T21:05Z",
-   "timeSet": true,
-   "venue": "Levi's Stadium",
-   "neutral": false
-  },
-  {
-   "week": 9,
    "away": "Packers",
    "home": "Patriots",
    "kickoff": "2026-11-08T21:25Z",
    "timeSet": true,
    "venue": "Gillette Stadium",
+   "neutral": false
+  },
+  {
+   "week": 9,
+   "away": "Raiders",
+   "home": "49ers",
+   "kickoff": "2026-11-08T21:25Z",
+   "timeSet": true,
+   "venue": "Levi's Stadium",
    "neutral": false
   },
   {

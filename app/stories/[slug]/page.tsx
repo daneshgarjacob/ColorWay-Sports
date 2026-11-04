@@ -35,6 +35,7 @@ import { notFound } from "next/navigation";
 import { getPostBySlug, getAllPosts, getRelatedPosts, trimLogSections } from "@/lib/posts";
 import AuthorBio from "@/components/AuthorBio";
 import FollowCard from "@/components/FollowCard";
+import { addNflGameDays } from "@/lib/nflGridGameDays";
 import { getAuthor, authorSchema } from "@/lib/authors";
 import type { Metadata } from "next";
 
@@ -427,9 +428,9 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             nflLatest && {
               eyebrow: `Last game · ${nflLatest.day} · ${nflLatest.home ? "vs" : "at"} ${nflLatest.opponent.split(" ").slice(-1)[0]}`,
               sentence: `The ${nflLatest.nickname} wore ${nflComboSentence(nflLatest)}`,
+              // No photo here: the box's picture is this week's jersey, and a
+              // second jersey under it read as the upcoming one (Jake 11/4).
               detail: `Final: ${nflLatest.final}.`,
-              img: nflLatest.img,
-              alt: `${nflLatest.team} ${nflLatest.jersey.toLowerCase()} jersey worn ${nflLatest.day} ${nflLatest.home ? "against" : "at"} the ${nflLatest.opponent}, from the ColorWay Sports NFL uniform tracker`,
             }
           }
           answers={nflWear.answers}
@@ -529,7 +530,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           <>
             <article
               className="prose prose-lg max-w-none text-foreground leading-relaxed"
-              dangerouslySetInnerHTML={{ __html: view.contentHtml }}
+              dangerouslySetInnerHTML={{ __html: nflTeam ? addNflGameDays(view.contentHtml, nflTeam.nickname) : view.contentHtml }}
             />
             <TwitterEmbed />
             <InstagramEmbed />

@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { TEAM_LOGOS, teamSlug } from "@/lib/teamLogos";
 import { nflTrackerCards } from "@/lib/nflTrackerCards";
+import jerseyManifest from "@/content/data/nfl-tracker-jersey-files.json";
 
 // Per-team NFL uniform calendars, built from the week-by-week grid that already
 // lives inside each "<team>-uniform-schedule-2026" post.
@@ -154,10 +155,12 @@ function jerseyImage(teamName: string, nickname: string, g: NflGame): string | u
 
   // The folder also holds the D5 card's "-cut.webp" cutouts; only originals are candidates
   // (a cutout sorts ahead of its .jpg and would otherwise win every tie).
+  // ISR re-renders run without public/, so fall back to the list written at
+  // build time (scripts/gen-nfl-jersey-manifest.mjs) instead of finding nothing.
   if (!jerseyFiles)
     jerseyFiles = fs.existsSync(JERSEY_DIR)
       ? fs.readdirSync(JERSEY_DIR).filter((f) => !/-cut\.webp$/i.test(f))
-      : [];
+      : (jerseyManifest as string[]);
   const prefix = `${nickname.toLowerCase()}-`;
   const mine = jerseyFiles.filter((f) => f.startsWith(prefix));
   if (!mine.length) return undefined;
