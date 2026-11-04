@@ -109,9 +109,15 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 ### Buffalo Bills at Minnesota Vikings: Monday Night Football
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-white-road.jpg" alt="Buffalo Bills white road jersey, expected at Minnesota on Monday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/vikings-purple-home.jpg" alt="Minnesota Vikings purple home jersey, scheduled by the team with white pants against the Bills on Monday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Vikings · Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-white-road.jpg" alt="Buffalo Bills white road jersey, confirmed with white pants at Minnesota on Monday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/vikings-purple-home.jpg" alt="Minnesota Vikings purple home jersey, scheduled by the team with white pants against the Bills on Monday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Vikings · Scheduled</figcaption></figure></div>
 
-**Monday, 8:15 p.m. ET, ESPN. Vikings scheduled, Bills expected.** Minnesota attached a jersey to all nine home games, and this one is the **purple jersey over white pants**. It is also the Vikings' Salute to Service game and the night Adrian Peterson goes into the team's Ring of Honor. Buffalo has not published road jerseys and is expected in **white** under the white helmet, with the pants the open call. Our matchup grade: **B**. See the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026) and the [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
+**Monday, 8:15 p.m. ET, ESPN. Both teams set.** Minnesota attached a jersey to all nine home games, and this one is the **purple jersey over white pants**. It is also the Vikings' Salute to Service game and the night Adrian Peterson goes into the team's Ring of Honor. Buffalo confirmed **white helmet, white jersey, white pants** with blue socks in its "Monday Night Threads" graphic, so it is all white against Minnesota's purple. Our matchup grade: **B**.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2118055686492058070"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Buffalo's Week 9 uniform combination: white, white, blue socks, via @BuffaloBills</p>
+ See the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026) and the [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
 
 ## Also Worth Watching
 
@@ -181,7 +187,7 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 ### Monday, November 9
 
-- **Buffalo Bills at Minnesota Vikings**, 8:15 p.m. ET, ESPN. Bills: white helmet, white jersey (expected). Vikings: purple jersey, white pants (scheduled). Matchup grade: B.
+- **Buffalo Bills at Minnesota Vikings**, 8:15 p.m. ET, ESPN. Bills: white helmet, white jersey, white pants (confirmed). Vikings: purple jersey, white pants (scheduled). Matchup grade: B.
 
 ### Byes
 
@@ -241,7 +247,7 @@ We expect Chicago in its navy home jersey and Tampa Bay in white. Kickoff is 8:2
 
 **What are the Bills and Vikings wearing on Monday Night Football?**
 
-Minnesota's schedule has the purple jersey with white pants for its Salute to Service game. We expect Buffalo in white. Kickoff is Monday, November 9 at 8:15 p.m. Eastern on ESPN.
+Minnesota's schedule has the purple jersey with white pants for its Salute to Service game. Buffalo confirmed all white: white helmet, white jersey and white pants. Kickoff is Monday, November 9 at 8:15 p.m. Eastern on ESPN.
 
 **Which NFL teams are on bye in Week 9?**
 
