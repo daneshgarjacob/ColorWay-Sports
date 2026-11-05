@@ -300,6 +300,42 @@
      "label": "Remix debut week: every team"
     }
    ]
+  },
+  "2026-11-05": {
+   "team": "Baltimore Ravens",
+   "teamShort": "Ravens",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Purple Rising",
+   "jerseyName": "Purple Rising (All Purple)",
+   "image": "/images/jersey-of-the-day/ravens-purple-rising-2026-11-05.jpg",
+   "imageAlt": "Baltimore Ravens player in the Purple Rising uniform: metallic purple helmet with gold stripes and a gold facemask, purple jersey with red and gold numbers, purple pants",
+   "imagePosition": "center 30%",
+   "credit": {
+    "text": "Baltimore Ravens",
+    "url": "https://x.com/Ravens/status/2044923806670639356",
+    "license": "via the team"
+   },
+   "worn": {
+    "date": "2026-11-05",
+    "matchup": "vs Jacksonville Jaguars, Thursday Night Football",
+    "status": "Scheduled"
+   },
+   "why": "Purple from the helmet to the socks, with a gold facemask. Nobody else in the league can pull off one color head to toe like this.",
+   "whyPlaceholder": true,
+   "story": "The Ravens go all purple tonight against the Jaguars on Thursday Night Football: the metallic purple Purple Rising helmet with gold stripes and a gold facemask, the purple jersey and purple pants. It is the third time Baltimore has worn the look and the first in the new Next Flight version. Jacksonville wears white with black helmets.",
+   "scheduleSlug": "ravens-uniform-schedule-2026",
+   "scheduleLabel": "Ravens 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "ravens-purple-rising-uniforms-thursday-night-football-2026",
+     "label": "Purple Rising vs. Jaguars: every detail"
+    },
+    {
+     "slug": "nfl-week-9-uniforms-2026",
+     "label": "Every NFL Week 9 uniform"
+    }
+   ]
   }
  }
 }
