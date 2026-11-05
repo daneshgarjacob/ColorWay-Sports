@@ -264,6 +264,41 @@
    "scheduleSlug": "capitals-uniform-schedule-2026-27",
    "scheduleLabel": "Capitals 2026-27 uniform schedule",
    "related": []
+  },
+  "2026-11-04": {
+   "team": "Buffalo Sabres",
+   "teamShort": "Sabres",
+   "league": "NHL",
+   "season": "2026-27",
+   "edition": "Hometown Remix",
+   "jerseyName": "Hometown Remix (Goat Head)",
+   "image": "/images/posts/nhl-daily-tracker/sabres-remix.jpg",
+   "imageAlt": "Buffalo Sabres Hometown Remix jersey, royal blue with a large throwback goat head crest in the center",
+   "imagePosition": "center center",
+   "credit": {
+    "text": "Image: NHL"
+   },
+   "worn": {
+    "date": "2026-11-04",
+    "matchup": "vs Ottawa Senators, Hometown Remix debut",
+    "status": "Scheduled"
+   },
+   "why": "Royal blue with the goat head big in the middle of the chest. Buffalo just does uniforms well.",
+   "whyPlaceholder": true,
+   "story": "The Sabres debut their Hometown Remix jersey tonight at home against Ottawa: royal blue with the throwback goat head crest front and center. We ranked it fourth of all 32 Remix jerseys. Buffalo wears it eight times this season.",
+   "scheduleSlug": "sabres-uniform-schedule-2026-27",
+   "scheduleLabel": "Sabres 2026-27 uniform schedule",
+   "related": [
+    {
+     "slug": "nhl-hometown-remix-jerseys-ranked",
+     "label": "Every Hometown Remix jersey, ranked"
+    },
+    {
+     "slug": "nhl-hometown-remix-debut-week-2026",
+     "label": "Remix debut week: every team"
+    }
+   ],
+   "imageFit": "contain"
   }
  }
 }
