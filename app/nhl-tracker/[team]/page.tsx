@@ -24,7 +24,9 @@ export async function generateMetadata({
   return {
     title,
     description,
-    alternates: { canonical: `/nhl-tracker/${team}` },
+    // The calendar also lives in the club's schedule post, the page fans search
+    // for, so Google is pointed there (Jake 11/4: the two were competing).
+    alternates: { canonical: `/stories/${entry.scheduleSlug}` },
     openGraph: { title, description, url: `/nhl-tracker/${team}`, type: "article" },
   };
 }

@@ -2,10 +2,9 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import InlineNewsletter from "@/components/InlineNewsletter";
-import WinterGameCard from "@/components/WinterGameCard";
+import WinterCalendarGrid from "@/components/WinterCalendarGrid";
 import {
   winterTeamByKey,
-  winterGamesByMonth,
   winterUniformUsage,
   shortDate,
 } from "@/lib/winterTrackerIndex";
@@ -21,7 +20,6 @@ export default function WinterCalendarPage({
   teamKey: string;
 }) {
   const entry = winterTeamByKey(league, teamKey)!;
-  const months = winterGamesByMonth(entry);
   const usage = winterUniformUsage(entry);
   const home = entry.games.filter((g) => g.home).length;
   const road = entry.games.length - home;
@@ -203,29 +201,7 @@ export default function WinterCalendarPage({
             {entry.games.length} games, {home} at home and {road} on the road.
           </p>
 
-          {months.map(({ month, games }) => (
-            <div key={month} className="mb-8">
-              <h3 className="text-[12px] font-extrabold uppercase tracking-[0.18em] text-[#5b6474] mb-3">
-                {month}
-                <span className="ml-2 font-bold text-[#9aa0ac] tracking-normal normal-case">
-                  {games.length} game{games.length === 1 ? "" : "s"}
-                </span>
-              </h3>
-              <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-6 gap-2.5">
-                {games.map((g) => (
-                  <WinterGameCard
-                    key={g.date + g.opponentAbbr}
-                    game={g}
-                    accent={entry.color}
-                    today={today}
-                    kit={garment}
-                    dateLabel={shortDate(g.date)}
-                    nickname={entry.nickname}
-                  />
-                ))}
-              </div>
-            </div>
-          ))}
+          <WinterCalendarGrid entry={entry} league={league} />
         </section>
 
         <div className="max-w-[980px] mx-auto px-5 pt-10">

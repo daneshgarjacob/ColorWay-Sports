@@ -20,6 +20,8 @@ import { buildMlbTeamIndex } from "@/lib/mlbTrackerTeamIndex";
 import TeamWoreLastNight from "@/components/TeamWoreLastNight";
 import { getTeamLatestFromTracker, teamWearQuestions } from "@/lib/mlbTeamLatest";
 import TeamWearBox from "@/components/TeamWearBox";
+import WinterCalendarGrid from "@/components/WinterCalendarGrid";
+import { buildWinterIndex } from "@/lib/winterTrackerIndex";
 import NflWeekBoard from "@/components/NflWeekBoard";
 import { buildNflWeekSlate, nflWeekAnswers } from "@/lib/nflWeekSlate";
 import { getNflLatestFromTracker, nflComboSentence, nflWearQuestions } from "@/lib/nflTeamLatest";
@@ -151,6 +153,14 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const nflTracker = nflTeam ? await getPostBySlug("nfl-uniform-tracker-2026") : null;
   const nflLatest =
     nflTeam && nflTracker ? getNflLatestFromTracker(nflTracker.contentHtml, nflTeam.name) : null;
+
+  // NBA/NHL schedule posts carry the club's month-by-month calendar (Jake 11/4:
+  // fans search "uniform schedule", so the calendar lives here, not only on
+  // the /nba-tracker and /nhl-tracker pages, which now point Google here).
+  const winterTeam =
+    (post.league === "nba" || post.league === "nhl") && slug.endsWith("-uniform-schedule-2026-27")
+      ? buildWinterIndex().find((t) => t.scheduleSlug === slug)
+      : undefined;
 
   // "Today" is the render date. Most posts render only on deploy; team schedule
   // posts also re-render around game days (see revalidatePageWithin below).
@@ -537,6 +547,18 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           </>
         )}
 
+        {winterTeam && (
+          <section id="calendar" className="mt-12 scroll-mt-28">
+            <h2 className="text-[26px] font-extrabold text-blue-dark mb-1">
+              {winterTeam.name} 2026-27 Uniform Calendar
+            </h2>
+            <p className="text-[14px] text-gray-medium mb-6">
+              Every game, month by month, with the {winterTeam.league === "nba" ? "jersey" : "sweater"} for each date.
+            </p>
+            <WinterCalendarGrid entry={winterTeam} league={winterTeam.league} />
+          </section>
+        )}
+
         {/* Byline card — a named human behind every grade */}
         <AuthorBio author={author} />
 
@@ -612,6 +634,11 @@ function LakersArticle() {
   const imgStyle = "rounded-lg mx-auto my-4 max-w-[25%] h-auto block shadow-md";
   return (
     <article className="prose prose-lg max-w-none text-foreground leading-relaxed">
+      {/* Jake 11/4: this 2025-26 recap was outranking the 2026-27 schedule for "what are the Lakers wearing tonight". */}
+      <div className="not-prose mb-6 rounded-xl px-[18px] py-[14px] text-[16px] leading-snug" style={{ background: "#552583", color: "#fff" }}>
+        <strong>Looking for tonight&rsquo;s Lakers jersey?</strong> This page is the 2025-26 season recap. Every 2026-27 game and jersey is in the{" "}
+        <Link prefetch={false} href="/stories/lakers-uniform-schedule-2026-27" className="font-extrabold" style={{ color: "#FDB927" }}>Lakers 2026-27 uniform schedule</Link>.
+      </div>
       <p>We've been tracking every Lakers uniform this season in a spreadsheet. Game by game, home and away, which jersey they wore and what day it was. 82 games in, the data tells the story we already knew from watching: gold is no longer the default at home, and it's driving us crazy.</p>
 
       <div className="flex justify-center gap-4 mt-8 mb-1">
