@@ -238,7 +238,7 @@ export function LatestRail({ posts, jotd }: { posts: PostMeta[]; jotd?: JotdEntr
                 <span style={{ color: leagueColor(p.category) }}>{p.category}</span>
                 <span className="text-steel">&middot; {p.kicker ?? "Story"} &middot; {ago(p.updatedDate ?? p.date)}</span>
               </div>
-              <p className="m-0 mt-2 text-[15.5px] font-extrabold leading-snug text-black group-hover:text-orange line-clamp-3">{p.title}</p>
+              <p className="m-0 mt-2 text-[15.5px] font-extrabold leading-snug text-black group-hover:text-orange line-clamp-2">{p.title}</p>
               <p className="m-0 mt-1.5 text-[12px] font-semibold text-steel">By {getAuthor(p.author)?.name ?? "ColorWay Sports Staff"}</p>
             </Link>
           </li>
