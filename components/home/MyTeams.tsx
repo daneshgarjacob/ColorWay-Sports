@@ -70,8 +70,14 @@ export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPage
         </button>
       </div>
       <div className="flex gap-3 overflow-x-auto pt-2 pr-2 pb-2 snap-x lg:flex-wrap lg:overflow-visible">
-        {mine.map((t) => (
-          <div key={t.id} className="relative snap-start shrink-0 w-[210px] sm:w-[250px]">
+        {mine.map((t) => {
+          // Jake 11/5: clubs out of season (no next game) shrink to a small chip
+          // everywhere; on desktop, in-season clubs with no game today go slim
+          // too, so the row stays one line and the big cards are tonight's games.
+          const off = !t.next;
+          const quiet = off || !/^(Today|Tonight)/.test(t.next?.when ?? "");
+          return (
+          <div key={t.id} className={`relative snap-start shrink-0 ${off ? "w-[150px]" : `w-[210px] sm:w-[250px] ${quiet ? "lg:w-[200px]" : ""}`}`}>
             <Link
               prefetch={false}
               href={teamPages ? teamPage(t.id) : t.href}
@@ -80,7 +86,7 @@ export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPage
               // site's story cards (Jake 11/4: the dark gradient read as AI).
               style={{ borderLeft: `5px solid ${t.color === "#0A1733" ? "#003087" : t.color}` }}
             >
-              <div className="w-[48px] h-[56px] sm:w-[58px] sm:h-[68px] shrink-0 rounded-lg bg-[#f4f6f9] flex items-center justify-center overflow-hidden">
+              <div className={`w-[48px] h-[56px] sm:w-[58px] sm:h-[68px] shrink-0 rounded-lg ${off ? "hidden" : quiet ? "lg:hidden" : ""} bg-[#f4f6f9] flex items-center justify-center overflow-hidden`}>
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={t.next?.img ?? t.logo} alt="" className={t.next?.img ? "w-[90%] h-[90%] object-contain" : "w-[70%] h-[70%] object-contain"} />
               </div>
@@ -92,13 +98,13 @@ export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPage
                 </div>
                 {t.next ? (
                   <>
-                    <div className="font-display font-black text-[14px] sm:text-[15px] leading-tight mt-0.5 truncate text-black">{t.next.look}</div>
+                    <div className={`font-display font-black text-[14px] sm:text-[15px] leading-tight mt-0.5 truncate text-black ${quiet ? "lg:text-[13px]" : ""}`}>{t.next.look}</div>
                     <div className="text-[11px] text-gray-medium mt-0.5 truncate">
                       {t.next.when} · {t.next.opp}
                     </div>
                                       </>
                 ) : (
-                  <div className="font-display font-black text-[14px] leading-tight mt-0.5 text-black">{t.note}</div>
+                  <div className="font-display font-black text-[13px] leading-tight mt-0.5 text-black">{t.note}</div>
                 )}
                               </div>
             </Link>
@@ -112,7 +118,8 @@ export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPage
               </button>
             )}
           </div>
-        ))}
+          );
+        })}
       </div>
     </section>
   );

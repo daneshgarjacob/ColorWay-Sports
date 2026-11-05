@@ -191,6 +191,12 @@ function jerseyImage(teamName: string, nickname: string, g: NflGame): string | u
   // back to the club's home or road photo.
   const special = words.some((w) => !colorOf(w));
   if (best && special && words.filter((w) => !colorOf(w)).every((w) => !best!.includes(w)) && labelColors.size === 0) best = undefined;
+  // A one-off jersey ("Purple Rising", "1994 Throwback") must match its own
+  // photo by name; a plain color photo is a different jersey (Jake 11/5: the
+  // Ravens tile showed the old purple home for Purple Rising).
+  const DISTINCT = /^(throwback|rising|noise|heritage|legacy|\d{4})$/;
+  const distinct = words.filter((w) => DISTINCT.test(w));
+  if (best && distinct.length && !words.some((w) => !colorOf(w) && best!.includes(w))) best = undefined;
   if (best && special) {
     const name = best.slice(prefix.length).replace(/\.\w+$/, "").split("-");
     const specialHit = words.some((w) => !colorOf(w) && name.includes(w));
