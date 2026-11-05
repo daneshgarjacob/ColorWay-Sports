@@ -3,7 +3,7 @@ topViewsRank: 4
 title: "Tampa Bay Buccaneers Jerseys & Uniforms 2026: Full Schedule"
 category: "NFL"
 date: "2026-08-13"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-05"
 excerpt: "Tampa Bay has confirmed two special uniform dates: the creamsicle throwbacks on December 6 and the all-pewter jersey on December 20. Every confirmed game so far."
 gradient: "linear-gradient(135deg, #34302B 0%, #1a1815 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -16,6 +16,13 @@ teams: ["tampa-bay-buccaneers"]
 ---
 
 This is the running guide to what the Tampa Bay Buccaneers wear in 2026, updated as the team confirms games. Two special uniforms already have dates on them, and they land two weeks apart in December.
+
+**Update, November 5:** Tampa Bay confirmed its Week 9 look at Chicago on Sunday Night Football, November 8 (8:20 p.m. ET, NBC): the **pewter helmet, white jersey and pewter pants**, from the team's game-week uniform graphic.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Buccaneers/status/2117981031647387776"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Tampa Bay's Week 9 uniform combination: pewter helmet, white jersey, pewter pants, via @Buccaneers</p>
 
 Want them graded instead? Here is [every Tampa Bay Buccaneers jersey ranked](/stories/buccaneers-jerseys-2026-ranked), worst to best.
 
@@ -89,7 +96,7 @@ White at home through the early-season heat, red at Raymond James from there, wh
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Pewter Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Pewter Pants</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #D50A0A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>

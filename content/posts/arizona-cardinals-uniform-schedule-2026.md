@@ -2,7 +2,7 @@
 title: "Arizona Cardinals Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-26"
+updatedDate: "2026-11-05"
 excerpt: "The Cardinals released the full 2026 uniform schedule: the desert Rivalries jersey once, black twice, red seven times including two road games, and white seven times."
 gradient: "linear-gradient(135deg, #97233F 0%, #5e1628 55%, #141414 130%)"
 coverImage: "/images/posts/arizona-cardinals-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,13 @@ teams: ["arizona-cardinals"]
 ---
 
 Arizona published its entire 2026 uniform schedule on September 1, and it is more interesting than the usual red-at-home, white-on-the-road plan. The desert Rivalries jersey comes out once, against Seattle in Week 2 on the team's Hispanic Heritage game day. The black alternate, which we assumed would stay in the closet, gets two home dates. Cardinal red covers seven games, and two of them are on the road, in Dallas and New Orleans. And white covers seven, including one at home against the Jets. Here is the full Arizona Cardinals 2026 uniform schedule, week by week, exactly as the team announced it.
+
+**Update, November 5:** Arizona confirmed its Week 9 look at Seattle on Sunday, November 8 (4:25 p.m. ET, FOX): the team's "Road combo," **white helmet, white jersey, white pants**, all white, from the team's game-week uniform graphic.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AZCardinals/status/2118387318772154824"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Arizona's Week 9 uniform combination: all white, via @AZCardinals</p>
 
 **Update, October 22: Week 7 is confirmed, red on red.** Against Denver on Sunday, October 25 (4:05 p.m. ET, CBS), the Cardinals wear the **white helmet, cardinal red jersey and cardinal red pants**. Every Week 7 look is in our [NFL Week 7 uniform guide](/stories/nfl-week-7-uniforms-2026).
 
@@ -55,7 +62,7 @@ Here is the whole season at a glance, every game as the team announced it. The R
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rams</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ All White</div></div>
   <div style="background: #97233F; color: #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Cardinal Red · Red Pants</div></div>
   <div style="background: #97233F; color: #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal Red</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Seahawks</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Seahawks</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ All White</div></div>
   <div style="background: #97233F; color: #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Rams</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #141414; color: #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85; color: #ffffff;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Commanders</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>

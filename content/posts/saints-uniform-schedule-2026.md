@@ -2,7 +2,7 @@
 title: "New Orleans Saints Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-26"
+updatedDate: "2026-11-05"
 excerpt: "The Saints published their 2026 uniform schedule: the gold jersey once under the black helmet, white at home twice, and the white helmet three times. Every jersey and uniform, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,13 @@ teams: ["new-orleans-saints"]
 ---
 
 The Saints published their full 2026 uniform schedule on September 7, and the plan is built on helmets rather than jerseys. The **gold jersey comes out once**, against Cleveland under the black helmet, **white gets two home dates**, black travels to Baltimore, and all three helmets are on the calendar: the gold shell as the base, the white shell three times, the black shell twice. The one thing the team left open is pants, which the captains pick the week of each game. Here is the full New Orleans Saints 2026 uniform schedule, week by week, every game confirmed by the club.
+
+**Update, November 5:** New Orleans confirmed its Week 9 look against Cleveland on Sunday, November 8 (1:00 p.m. ET, CBS), and it is the gold game as scheduled: **black helmet, gold jersey, gold pants** and black socks, from the team's game-week uniform graphic.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Saints/status/2118365323241947501"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Saints' Week 9 uniform combination: black helmet, gold jersey, gold pants, black socks, via @Saints</p>
 
 Want them graded instead? Here is [every New Orleans Saints jersey ranked](/stories/saints-jerseys-2026-ranked), worst to best.
 
@@ -43,7 +50,7 @@ Nine home games including Paris, eight on the road, and a Week 8 bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White Alt · White Helmet</div></div>
   <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Black · Gold Pants · Paris</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #D3BC8D; color: #101820; border: 2px solid #101820; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold · Black Helmet</div></div>
+  <div style="background: #D3BC8D; color: #101820; border: 2px solid #101820; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold · Gold Pants · Black Helmet</div></div>
   <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black · Black Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White Alt · White Helmet</div></div>

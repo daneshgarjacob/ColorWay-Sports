@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-05"
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -12,6 +12,13 @@ league: "college"
 teams: ["oregon-ducks", "big-ten"]
 resurfaceOnUpdate: true
 ---
+
+**Update, November 5:** Oregon's uniform for Ohio State is **Mummy Mode 2.0**: a **dark chrome helmet with a chrome facemask, a white jersey with black chrome numbers and black feather trim on the shoulders, and black pants**, posted by the team Wednesday night. That replaces the yellow, green and yellow we had from Monday's game-week graphic.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2118146296087453717"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Oregon's Mummy Mode 2.0 for Ohio State: dark chrome helmet, white jersey, black pants, via @GoDucks</p>
 
 **Update, October 28:** Oregon will wear a **matte black helmet with white wings, a black jersey and white pants** against Northwestern on Halloween, posted by the team Wednesday night. Northwestern is coming in all white.
 
@@ -42,7 +49,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
   <div style="background: #111111; color: #ffffff; border: 2px solid #39FF14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / Black / Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #154733; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Yellow / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #39FF14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / White</div></div>
-  <div style="background: #154733; color: #ffffff; border: 2px solid #FEE123; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Yellow / Green / Yellow</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Chrome / White / Black</div></div>
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Varies</div></div>
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -78,9 +85,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2115594518598676950"></a></blockquote>
 
-**November 7 at Ohio State.** ★ Confirmed: **yellow helmet, green jersey with yellow trim, yellow pants**, first shown in Oregon's game-week graphic ("Off to Columbus to kick off November"). 3:30 p.m. Eastern on CBS against No. 2 Ohio State, the first meeting since the 2024 Rose Bowl. The [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) has the Buckeyes' side.
-
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/oregonfootball/status/2117427319954686191"></a></blockquote>
+**November 7 at Ohio State.** ★ Confirmed by Oregon ("Mummy Mode 2.0"): **dark chrome helmet, white jersey with black chrome numbers, black pants.** Monday's game-week graphic ("Off to Columbus to kick off November") showed a yellow helmet and green jersey, and we had that down as the look, but the team's uniform post on Wednesday night is the real one. 3:30 p.m. Eastern on CBS against No. 2 Ohio State, the first meeting since the 2024 Rose Bowl. The [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) has the Buckeyes' side.
 
 **November 14 vs. Michigan.** Green expected. Michigan in Eugene: the most conservative wardrobe in the sport against the least.
 

@@ -3,7 +3,7 @@ title: "SMU Uniform Schedule 2026: Every Jersey and When the Mustangs Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-05"
 excerpt: "What SMU wears every game in 2026: the blue home set, the icy whites, the red and black alternates, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #354CA1 0%, #4a63bd 55%, #C8102E 130%)"
 cardStyle: words
@@ -13,7 +13,14 @@ teams: ["smu-mustangs", "acc"]
 resurfaceOnUpdate: true
 ---
 
-SMU has one helmet, three jersey colors, and a habit of wearing white pants with all of them. This is the full SMU 2026 uniform schedule: the blue home set, the all-white icy whites that opened the season at Florida State, the red alternate that came out for Missouri State, the black one still sitting in the closet, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+SMU has four jersey colors, a black Dark Mode helmet for the Virginia Tech game, and a habit of wearing white pants with most of its looks. This is the full SMU 2026 uniform schedule: the blue home set, the all-white icy whites that opened the season at Florida State, the red alternate that came out for Missouri State, the black one that finally comes out with a black helmet in Dark Mode against Virginia Tech, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 5:** SMU is going **Dark mode** against Virginia Tech on Friday night: a **black helmet with royal blue center stripes and a royal blue facemask, a black jersey with the blue SMU wordmark and blue numbers, and black pants**, from the team's game-week uniform post. It is the first time this season SMU has left the white helmet in the locker room.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SMUFB/status/2118147195895742965"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">SMU's Dark Mode for Virginia Tech: black helmet, black jersey, black pants, via @SMUFB</p>
 
 **Update, October 24:** SMU wore its new Dallas set against Cal, as posted: a **white helmet with the red Peruna inside a blue D, a royal blue jersey with Dallas in white script, and white pants**, confirmed from the team's game photos. Cal led 20-17 at halftime, and SMU scored the last 42 points to win **59-20**.
 
@@ -65,7 +72,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
   <div style="background: #354CA1; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #354CA1; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cal</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #354CA1; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #14161c; color: #ffffff; border: 2px solid #354CA1; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #354CA1; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -101,7 +108,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 **October 31 at Syracuse.** White expected. Halloween in the dome, and orange against the icy whites is one of the better looking games on the SMU calendar. See the [Syracuse 2026 uniform schedule](/stories/syracuse-uniform-schedule-2026).
 
-**November 6 vs. Virginia Tech.** Blue expected. A Friday night ACC game at 6 p.m. Central on ESPN, built around Club Takeaway Night, with light-up sticks for the first 5,000 students. More on the visitor at the [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026).
+**November 6 vs. Virginia Tech.** ★ Confirmed by SMU ("Dark mode"): **black helmet with royal blue stripes and a royal blue facemask, black jersey with blue numbers, black pants.** We had blue down. A Friday night ACC game at 6 p.m. Central on ESPN, built around Club Takeaway Night, with light-up sticks for the first 5,000 students. More on the visitor at the [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026).
 
 **November 14 vs. Wake Forest.** Blue expected. Homecoming and Senior Day, and the last home game of the season.
 
@@ -129,7 +136,7 @@ That is SMU's own name for the all-white combination, white helmet, white jersey
 
 **Will SMU wear red or black in 2026?**
 
-The red already has: SMU wore the red jersey and red pants against Missouri State on September 26. SMU passed on it again for Cal on October 24, when it confirmed a Dallas themed set: the white helmet with Peruna inside a blue D, a royal blue Dallas jersey and white pants. The black has not been announced. The all-black set has appeared roughly once a year since 2022 and tends to show up for a night game. It did not come out for Boston College on October 3 or for the Salute to Service game against Virginia on October 17, where SMU confirmed the classic blue look.
+The red already has: SMU wore the red jersey and red pants against Missouri State on September 26. SMU passed on it again for Cal on October 24, when it confirmed a Dallas themed set: the white helmet with Peruna inside a blue D, a royal blue Dallas jersey and white pants. The black is next: SMU confirmed **Dark mode** for the Friday night game against Virginia Tech on November 6, a black helmet with royal blue stripes, a black jersey and black pants. It did not come out for Boston College on October 3 or for the Salute to Service game against Virginia on October 17, where SMU confirmed the classic blue look.
 
 **Why does ESPN list the Virginia Tech game on November 7?**
 

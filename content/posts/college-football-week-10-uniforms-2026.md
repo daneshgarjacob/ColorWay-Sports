@@ -3,7 +3,7 @@ title: "College Football Week 10 Uniforms 2026: Tennessee's Dark Mode, Florida A
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-30"
-updatedDate: "2026-11-03"
+updatedDate: "2026-11-05"
 excerpt: "College football Week 10 uniforms: Tennessee wears its all-black Dark Mode against Kentucky, Florida goes all blue against Oklahoma, and Miami visits Notre Dame, Alabama visits LSU and Oregon visits Ohio State. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #2a1a08 60%, #FF8200 130%)"
 coverImage: "/images/posts/college-football-week-10-uniforms-2026/cover.jpg"
@@ -19,17 +19,21 @@ teams: ["tennessee-volunteers", "kentucky-wildcats", "florida-gators", "oklahoma
 resurfaceOnUpdate: true
 ---
 
-Week 10 of the 2026 college football season is the biggest Saturday of the year so far. **No. 1 Miami plays at No. 5 Notre Dame** on Saturday night, **No. 10 Alabama goes to No. 15 LSU**, **Oregon visits No. 2 Ohio State**, **No. 3 Georgia plays at No. 12 Ole Miss**, **No. 8 BYU and No. 6 Utah** meet in the Holy War and **No. 11 Texas visits No. 23 Missouri**. Two uniforms are already known. **Tennessee wears its all-black Dark Mode against No. 9 Kentucky**, announced a full week early, and **Florida goes all blue against Oklahoma**, the one all-blue game on the season schedule Florida published in August. Air Force plays at Army for the Commander-in-Chief's Trophy on Saturday night, and Arizona hosts TCU on Friday in its Sandstorm-themed game.
+Week 10 of the 2026 college football season is the biggest Saturday of the year so far. **No. 1 Miami plays at No. 5 Notre Dame** on Saturday night, **No. 10 Alabama goes to No. 15 LSU**, **Oregon visits No. 2 Ohio State**, **No. 3 Georgia plays at No. 12 Ole Miss**, **No. 8 BYU and No. 6 Utah** meet in the Holy War and **No. 11 Texas visits No. 23 Missouri**. Several looks are already known. **Tennessee wears its all-black Dark Mode against No. 9 Kentucky**, announced a full week early, and **Florida goes all blue against Oklahoma**, the one all-blue game on the season schedule Florida published in August. Air Force plays at Army for the Commander-in-Chief's Trophy on Saturday night, and Arizona hosts TCU on Friday in its Sandstorm-themed game.
 
 Below is every uniform announced so far, then every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it for this game. When a school has not posted yet, we give our projection from that team's uniform schedule and label it **Expected**. Most schools post their combination between Monday and game day, so this page fills in all week, and on Saturday we confirm every look from the game broadcasts and team photos, then add final scores. Rankings are from the October 25 AP poll; we will update them when the new poll comes out on Sunday. All times are Eastern. Last week's looks are in our [Week 9 uniform guide](/stories/college-football-week-9-uniforms-2026).
 
 ## Every Uniform Announced for Week 10
 
 - **Tennessee: Dark Mode (Confirmed).** Black helmet with an orange Power T, black jersey with orange numbers, black pants, vs. No. 9 Kentucky. The first black game of the season and the first in the adidas version.
-- **Oregon: yellow helmet, green jersey, yellow pants (Confirmed).** At No. 2 Ohio State.
+- **Oregon: Mummy Mode 2.0 (Confirmed).** Dark chrome helmet, white jersey, black pants, at No. 2 Ohio State.
+- **SMU: Dark mode (Confirmed).** Black helmet with royal blue stripes, black jersey, black pants, vs. Virginia Tech on Friday.
+- **Illinois: back in blue (Confirmed).** Navy helmet, navy jersey, navy pants, vs. Nebraska on Friday.
+- **Boise State: color rush on the road (Confirmed).** Orange helmet, blue jersey, orange pants, at Colorado State.
+- **Louisville: black, white, black (Confirmed).** Black helmet, white jersey, black pants, at Georgia Tech.
 - **Florida: all blue (Announced in August).** Blue helmet, blue jersey, blue pants, vs. Oklahoma, from the season uniform schedule Florida published before the season. It is the only all-blue game on that schedule.
 
-That is the list as of Friday, October 30. Most of Week 10 is still playing Week 9, and the rest of the announcements will come from Monday on.
+That is the list as of Thursday, November 5. More schools post their combinations through Saturday morning, and we add each one here.
 
 ## Games of the Week
 
@@ -77,9 +81,12 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 
 ### Oregon at No. 2 Ohio State: First Meeting Since the Rose Bowl
 
-**Saturday, 3:30 p.m., CBS.** **Oregon: Confirmed, yellow helmet, green jersey, yellow pants.** Oregon's game-week graphic on Monday put a player in the yellow helmet and green jersey with yellow trim, with "Wear Green" on the game details, and the yellow pants complete the set. Green on the road is a statement in Columbus. **Ohio State: Expected, scarlet.** It is Ohio State's first meeting with Oregon since the 2024 Rose Bowl. Ohio State revealed three alternates in May, Scarlet Rush, Tunnel Vision and Sub Zero, and has not assigned any of them to a game. If Oregon does come in green, watch whether Ohio State answers in white. More: [Ohio State schedule](/stories/ohio-state-uniform-schedule-2026) and [Oregon schedule](/stories/oregon-uniform-schedule-2026).
+**Saturday, 3:30 p.m., CBS.** **Oregon: Confirmed, Mummy Mode 2.0.** Oregon posted its uniform on Wednesday night: a **dark chrome helmet with a chrome facemask, a white jersey with black chrome numbers and black feather trim, and black pants**. That replaces the yellow helmet and green jersey from Monday's game-week graphic, which we had listed as the look. White and chrome against scarlet in Columbus. **Ohio State: Expected, scarlet.** It is Ohio State's first meeting with Oregon since the 2024 Rose Bowl. Ohio State revealed three alternates in May, Scarlet Rush, Tunnel Vision and Sub Zero, and has not assigned any of them to a game. With Oregon in white, scarlet at home is the natural answer. More: [Ohio State schedule](/stories/ohio-state-uniform-schedule-2026) and [Oregon schedule](/stories/oregon-uniform-schedule-2026).
 
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/oregonfootball/status/2117427319954686191"></a></blockquote>
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2118146296087453717"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Oregon's Mummy Mode 2.0 for Ohio State: dark chrome helmet, white jersey, black pants, via @GoDucks</p>
 
 ### No. 3 Georgia at No. 12 Ole Miss
 
@@ -104,6 +111,24 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArizonaFBall/status/2117351669789020511"></a></blockquote>
 </div> **TCU: Expected, white.** More: [Arizona schedule](/stories/arizona-uniform-schedule-2026) and [TCU schedule](/stories/tcu-uniform-schedule-2026).
+
+### Virginia Tech at No. 19 SMU: Dark Mode in Dallas
+
+**Friday, 7 p.m. (6 p.m. Central), ESPN.** **SMU: Confirmed, Dark mode.** SMU has worn the white helmet in every game this season, and on Friday night it switches to a **black helmet with royal blue center stripes and a royal blue facemask**, a **black jersey with the blue SMU wordmark and blue numbers**, and **black pants**. It is the first black game of the season for the Mustangs. **Virginia Tech: Expected, white.** More: [SMU schedule](/stories/smu-uniform-schedule-2026) and [Virginia Tech schedule](/stories/virginia-tech-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SMUFB/status/2118147195895742965"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">SMU's Dark mode for Virginia Tech: black helmet, black jersey, black pants, via @SMUFB</p>
+
+### No. 20 Boise State at Colorado State: Color Rush on the Road
+
+**Saturday, 6 p.m. (4 p.m. Mountain), USA Network.** **Boise State: Confirmed, color rush.** The Broncos have worn white in every road game this season, and at Colorado State they bring the color instead: an **orange helmet with the blue Broncos script and a white facemask**, a **blue jersey with silver numbers outlined in orange**, and **orange pants**. **Colorado State: Expected, green**, though with Boise State in blue, watch whether the Rams switch to white. More: [Boise State schedule](/stories/boise-state-uniform-schedule-2026) and [Colorado State schedule](/stories/colorado-state-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BroncoSportsFB/status/2118396821101826192"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Boise State's color rush at Colorado State: orange helmet, blue jersey, orange pants, via @BroncoSportsFB</p>
 
 ## Dates to Watch
 
@@ -146,7 +171,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[Virginia Tech](/stories/virginia-tech-uniform-schedule-2026) at No. 19 [SMU](/stories/smu-uniform-schedule-2026)**, 7 p.m. (6 p.m. Central), ESPN.
 - Virginia Tech: **Expected**, white.
-- SMU: **Expected**, blue.
+- SMU: **Confirmed**, Dark mode: black helmet, black jersey, black pants. See above.
 
 **[South Florida](/stories/south-florida-uniform-schedule-2026) at [East Carolina](/stories/east-carolina-uniform-schedule-2026)**, 7:30 p.m., ESPN2.
 - South Florida: **Expected**, white.
@@ -154,7 +179,12 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[Nebraska](/stories/nebraska-uniform-schedule-2026) at [Illinois](/stories/illinois-uniform-schedule-2026)**, 8 p.m. (7 p.m. Central), FOX.
 - Nebraska: **Expected**, white.
-- Illinois: **Expected**, navy, for Dads Day and a "Hail to the Blue Out."
+- Illinois: **Confirmed**, back in blue: navy helmet, navy jersey, navy pants, for Dads Day and a "Hail to the Blue Out."
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/IlliniFootball/status/2118116197484966150"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Illinois is back in blue for Nebraska: navy helmet, navy jersey, navy pants, via @IlliniFootball</p>
 
 **New Mexico at Nevada**, 9 p.m. (6 p.m. Pacific), CBSSN.
 
@@ -217,7 +247,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - South Carolina: **Expected**, garnet.
 
 **[Oregon](/stories/oregon-uniform-schedule-2026) at No. 2 [Ohio State](/stories/ohio-state-uniform-schedule-2026)**, 3:30 p.m., CBS.
-- Oregon: **Confirmed**, yellow helmet, green jersey, yellow pants.
+- Oregon: **Confirmed**, Mummy Mode 2.0: dark chrome helmet, white jersey, black pants. See above.
 - Ohio State: **Expected**, scarlet.
 
 **No. 10 [Alabama](/stories/alabama-uniform-schedule-2026) at No. 15 [LSU](/stories/lsu-uniform-schedule-2026)**, 3:30 p.m., ABC.
@@ -260,7 +290,7 @@ Also in the afternoon: UL Monroe at Arkansas State (3 p.m., ESPN+), Delaware at 
 ### Saturday, November 7: Night Window
 
 **No. 20 [Boise State](/stories/boise-state-uniform-schedule-2026) at [Colorado State](/stories/colorado-state-uniform-schedule-2026)**, 6 p.m. (4 p.m. Mountain), USA Network.
-- Boise State: **Expected**, white.
+- Boise State: **Confirmed**, color rush: orange helmet, blue jersey, orange pants. See above.
 - Colorado State: **Expected**, green.
 
 **No. 9 [Kentucky](/stories/kentucky-uniform-schedule-2026) at No. 16 [Tennessee](/stories/tennessee-uniform-schedule-2026)**, 6:15 p.m., ESPN.
@@ -280,8 +310,13 @@ Also in the afternoon: UL Monroe at Arkansas State (3 p.m., ESPN+), Delaware at 
 - Arizona State: **Expected**, maroon.
 
 **[Louisville](/stories/louisville-uniform-schedule-2026) at [Georgia Tech](/stories/georgia-tech-uniform-schedule-2026)**, 7:30 p.m., ACC Network.
-- Louisville: **Expected**, white.
+- Louisville: **Confirmed**, black helmet, white jersey, black pants.
 - Georgia Tech: **Expected**, gold.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LouisvilleFB/status/2118078700520427899"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Louisville's look at Georgia Tech: black helmet, white jersey, black pants, via @LouisvilleFB</p>
 
 **[Air Force](/stories/air-force-uniform-schedule-2026) at [Army](/stories/army-uniform-schedule-2026)**, 7:30 p.m., CBS.
 - Air Force: **Expected**, white.
@@ -353,7 +388,7 @@ Also on Saturday night: Sam Houston at Jacksonville State (7 p.m., CBSSN).
 
 ## The Bottom Line
 
-This is the deepest Saturday of the season, and Tennessee has already set the tone with Dark Mode against Kentucky. Florida's all blue against Oklahoma is the other look we know, and the rest of the week's uniform news will come from the big games: whether LSU stays in white and puts Alabama in crimson, what Oregon brings to Columbus, and whether Miami finally gives its 2001 white throwback a date in South Bend. Check back: we add every combination as it is announced, update the rankings after Sunday's poll, and confirm every look, with final scores, on Saturday.
+This is the deepest Saturday of the season, and Tennessee has already set the tone with Dark Mode against Kentucky. Florida's all blue against Oklahoma, Oregon's Mummy Mode 2.0 at Ohio State, SMU's Dark mode and Boise State's color rush on the road are the other looks we know, and the rest of the week's uniform news will come from the big games: whether LSU stays in white and puts Alabama in crimson, how Ohio State answers Oregon's Mummy Mode 2.0 in Columbus, and whether Miami finally gives its 2001 white throwback a date in South Bend. Check back: we add every combination as it is announced, update the rankings after Sunday's poll, and confirm every look, with final scores, on Saturday.
 
 ## Frequently Asked Questions
 

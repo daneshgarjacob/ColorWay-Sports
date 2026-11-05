@@ -3,7 +3,7 @@ title: "Boise State Uniform Schedule 2026: Every Jersey and When the Broncos Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-05"
 excerpt: "Every Boise State jersey and uniform in 2026: blue on The Blue, white on the road, the 40th anniversary helmet, and the full Broncos schedule week by week."
 gradient: "linear-gradient(135deg, #0033A0 0%, #10275C 55%, #D64309 130%)"
 cardStyle: words
@@ -14,6 +14,13 @@ resurfaceOnUpdate: true
 ---
 
 Boise State wears blue at home and white on the road, and the blue at home is the whole point: a blue jersey over blue pants on a blue field is the most recognizable look in college football. This is the full Boise State 2026 uniform schedule, with every game so far confirmed. **The Broncos wore a blue helmet, white jersey and blue pants at Oregon on September 5**, then **debuted the hand-painted 40th anniversary helmet with blue jerseys and blue pants against Memphis on September 12**. Below is every date of the first Pac-12 season, including the bye and the flex game that closes the regular season. We update this page as each combination is confirmed.
+
+**Update, November 5:** Boise State is bringing **color rush on the road** to Colorado State: an **orange helmet with the blue Broncos script and a white facemask, a blue jersey with silver numbers outlined in orange, and orange pants**, from the team's game-week uniform post. It is the first time this season the Broncos have worn the blue jersey away from home.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BroncoSportsFB/status/2118396821101826192"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Boise State's color rush at Colorado State: orange helmet, blue jersey, orange pants, via @BroncoSportsFB</p>
 
 **Update, October 24:** Boise State wore its posted **white helmet, white jersey and blue pants** at Washington State, confirmed from the team's halftime photos, and won **31-10**. Washington State wore all crimson for Homecoming.
 
@@ -40,7 +47,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #D64309; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Blue</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #0033A0; color: #ffffff; border: 2px solid #FA4616; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Blue / Orange</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Flex Opponent (TBD)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -76,7 +83,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 **October 31 vs. Texas State.** Blue expected. Halloween night, and the school's fan call for this game is black. Boise State has worn black pants before, so this is the home date we are watching most closely for an alternate.
 
-**November 7 at Colorado State.** White expected, against the Rams in green at Canvas Stadium. Colorado State's view of the game is on our [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026).
+**November 7 at Colorado State.** ★ Confirmed by Boise State ("Color rush on the road"): **orange helmet with the blue Broncos script, blue jersey with silver numbers, orange pants.** We had white down; the Broncos wear their color on the road instead, at Canvas Stadium. Colorado State's view of the game is on our [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026).
 
 **November 14 vs. Oregon State.** Blue expected, with a blue fan scheme to match.
 

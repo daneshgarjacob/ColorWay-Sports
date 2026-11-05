@@ -3,7 +3,7 @@ title: "NFL Week 9 Uniforms 2026: What Every Team Is Wearing, Including Kelly Gr
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-10-30"
-updatedDate: "2026-11-04"
+updatedDate: "2026-11-05"
 excerpt: "NFL Week 9 uniforms (Nov. 5-9): the Eagles wear Kelly Green and the Giants wear Vintage White, the Ravens go all purple in Purple Rising on Thursday night, the Saints wear the gold jersey, the Chargers bring out Super Chargers navy, the Colts White Out against Dallas in navy, plus Madrid and every other game."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #241773 130%)"
 coverImage: "/images/posts/nfl-week-9-uniforms-2026/cover.jpg"
@@ -63,9 +63,16 @@ Purple head to toe is a look few teams can wear, and Baltimore is one of them. O
 
 ### Cleveland Browns at New Orleans Saints: The Gold Jersey
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/browns-white-road.jpg" alt="Cleveland Browns white road jersey, expected at New Orleans in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Browns · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/saints-gameday-gold.jpg" alt="New Orleans Saints gold jersey, scheduled by the team with the black helmet against the Browns in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Saints · Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/browns-white-road.jpg" alt="Cleveland Browns white road jersey, expected at New Orleans in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Browns · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/saints-gameday-gold.jpg" alt="New Orleans Saints gold jersey, confirmed by the team with the black helmet and gold pants against the Browns in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Saints · Confirmed</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Saints scheduled, Browns expected.** New Orleans published its full jersey and helmet plan on September 7, and this is the only game for the **gold jersey**, paired with the **black helmet**. The team says the captains pick the pants before each game. Cleveland is expected in **white** under the orange helmet, with the pants the open question after the Browns paired white with brown pants at Tennessee in Week 6.
+**Sunday, 1:00 p.m. ET, CBS. Saints confirmed, Browns expected.** New Orleans published its full jersey and helmet plan on September 7, and this is the only game for the **gold jersey**, paired with the **black helmet**. The captains pick the pants before each game, and the team's game-week graphic confirmed **black helmet, gold jersey, gold pants** with black socks.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Saints/status/2118365323241947501"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Saints' Week 9 uniform combination: black helmet, gold jersey, gold pants, black socks, via @Saints</p>
+
+Cleveland is expected in **white** under the orange helmet, with the pants the open question after the Browns paired white with brown pants at Tennessee in Week 6.
 
 Gold under a black helmet is the best version of the Saints' gold, and it gets one date all year. Our matchup grade: **B+**. See the [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) and the [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026).
 
@@ -74,11 +81,18 @@ Gold under a black helmet is the best version of the Saints' gold, and it gets o
 <img src="/images/posts/chargers-uniform-schedule-2026/alternates.jpg" alt="Los Angeles Chargers 2026 alternates graphic showing the all-navy Super Chargers uniform, scheduled for the Texans game in Week 9, and the gold Charger Power jersey" style="display:block;width:100%;max-width:460px;margin:0 auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Image: Los Angeles Chargers</p>
 
-**Sunday, 4:05 p.m. ET, CBS. Chargers confirmed, Texans expected.** The Chargers announced their alternate dates over the summer and published every jersey and pants call on September 1. This is the first of three home games in the all-navy **Super Chargers** set, a modern version of the navy jerseys the franchise wore from 1992 to 2006. The other two are the Patriots in Week 12 and the Chiefs in Week 17.
+**Sunday, 4:05 p.m. ET, CBS. Both teams confirmed.** The Chargers announced their alternate dates over the summer and published every jersey and pants call on September 1. This is the first of three home games in the all-navy **Super Chargers** set, a modern version of the navy jerseys the franchise wore from 1992 to 2006. The other two are the Patriots in Week 12 and the Chiefs in Week 17.
 
-With the Chargers in navy, Houston is expected in **white**. The field changes too: the Chargers posted the design on November 3, with the **navy Super Chargers helmet at midfield** in place of last year's white bolt, and navy end zones. [More on the new field](/stories/chargers-super-chargers-field-texans-2026).
+With the Chargers in navy, Houston confirmed the standard **dark navy helmet, white jersey and white pants** in its game-week graphic.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-liberty.jpg" alt="Houston Texans white jersey, expected at the Chargers in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Texans · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chargers-navy-super-chargers.jpg" alt="Los Angeles Chargers Super Chargers navy jersey, confirmed against the Texans in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chargers · Confirmed</figcaption></figure></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2118357689914822843"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Houston's Week 9 uniform combination: navy helmet, white jersey, white pants, via @HoustonTexans</p>
+
+The field changes too: the Chargers posted the design on November 3, with the **navy Super Chargers helmet at midfield** in place of last year's white bolt, and navy end zones. [More on the new field](/stories/chargers-super-chargers-field-texans-2026).
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-liberty.jpg" alt="Houston Texans white jersey, confirmed with white pants and the navy helmet at the Chargers in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Texans · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chargers-navy-super-chargers.jpg" alt="Los Angeles Chargers Super Chargers navy jersey, confirmed against the Texans in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chargers · Confirmed</figcaption></figure></div>
 
 Our matchup grade: **B**. See the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026) and the [Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026).
 
@@ -104,9 +118,15 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 ### Tampa Bay Buccaneers at Chicago Bears: Sunday Night Football
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/buccaneers-white-road.jpg" alt="Tampa Bay Buccaneers white road jersey, expected at Chicago on Sunday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Buccaneers · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bears-navy-home.jpg" alt="Chicago Bears navy home jersey, expected against the Buccaneers on Sunday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bears · Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/buccaneers-white-road.jpg" alt="Tampa Bay Buccaneers white road jersey, confirmed with pewter pants at Chicago on Sunday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Buccaneers · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bears-navy-home.jpg" alt="Chicago Bears navy home jersey, expected against the Buccaneers on Sunday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bears · Expected</figcaption></figure></div>
 
-**Sunday, 8:20 p.m. ET, NBC. Expected on both sides.** Chicago has one dated uniform this season, the Rivalries set on Christmas Day, so this is a standard home night: the navy helmet and the **navy** jersey with orange numbers. Tampa Bay is expected in **white** under the pewter helmet. Navy and orange against white and red at Soldier Field in November is a classic frame. Our matchup grade: **B**. See the [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026) and the [Buccaneers 2026 uniform schedule](/stories/buccaneers-uniform-schedule-2026).
+**Sunday, 8:20 p.m. ET, NBC. Buccaneers confirmed, Bears expected.** Chicago has one dated uniform this season, the Rivalries set on Christmas Day, so this is a standard home night: the navy helmet and the **navy** jersey with orange numbers. Tampa Bay confirmed the **pewter helmet, white jersey and pewter pants** in its game-week graphic. Navy and orange against white and pewter at Soldier Field in November is a classic frame. Our matchup grade: **B**.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Buccaneers/status/2117981031647387776"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Tampa Bay's Week 9 uniform combination: pewter helmet, white jersey, pewter pants, via @Buccaneers</p>
+ See the [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026) and the [Buccaneers 2026 uniform schedule](/stories/buccaneers-uniform-schedule-2026).
 
 ### Buffalo Bills at Minnesota Vikings: Monday Night Football
 
@@ -136,9 +156,15 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 ### Los Angeles Rams at Washington Commanders
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-white-road.jpg" alt="Los Angeles Rams white road jersey, scheduled by the team at Washington in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams · Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/commanders-burgundy-home.jpg" alt="Washington Commanders burgundy jersey, scheduled by the team against the Rams in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Commanders · Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-white-road.jpg" alt="Los Angeles Rams white road jersey, confirmed with royal pants at Washington in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/commanders-burgundy-home.jpg" alt="Washington Commanders burgundy jersey, scheduled by the team against the Rams in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Commanders · Scheduled</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, FOX. Both jerseys scheduled by the teams.** Washington's published schedule has **burgundy** at home, and the Rams published **white** for this trip on September 1. Pants are a week-of call on both sides. Our matchup grade: **B**. See the [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026) and the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, FOX. Rams confirmed, Commanders scheduled.** Washington's published schedule has **burgundy** at home. The Rams published **white** for this trip on September 1 and confirmed the full look in their game-week graphic: the **royal helmet with yellow horns, white jersey, royal pants** and royal socks. Our matchup grade: **B**.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RamsNFL/status/2118399481570099660"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Rams' Week 9 uniform combination: white jersey, royal pants, royal socks, via @RamsNFL</p>
+ See the [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026) and the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
 
 ### Green Bay Packers at New England Patriots
 
@@ -154,15 +180,27 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 ### Arizona Cardinals at Seattle Seahawks
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cardinals-white-road.jpg" alt="Arizona Cardinals white road jersey, scheduled by the team at Seattle in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Cardinals · Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-navy-home.jpg" alt="Seattle Seahawks college navy home jersey, expected against the Cardinals in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Seahawks · Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cardinals-white-road.jpg" alt="Arizona Cardinals white road jersey, confirmed with the white helmet and white pants at Seattle in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Cardinals · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-navy-home.jpg" alt="Seattle Seahawks college navy home jersey, expected against the Cardinals in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Seahawks · Expected</figcaption></figure></div>
 
-**Sunday, 4:25 p.m. ET, FOX. Cardinals scheduled, Seahawks expected.** Arizona published every jersey on September 1 and has **white** for this trip under the white helmet. Seattle has made this its Salute to Service game and is expected in **college navy** at home. Our matchup grade: **B**. See the [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) and the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026).
+**Sunday, 4:25 p.m. ET, FOX. Cardinals confirmed, Seahawks expected.** Arizona published every jersey on September 1 and confirmed its "Road combo" in its game-week graphic: **white helmet, white jersey, white pants**, all white. Seattle has made this its Salute to Service game and is expected in **college navy** at home. Our matchup grade: **B**.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AZCardinals/status/2118387318772154824"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Arizona's Week 9 uniform combination: all white, via @AZCardinals</p>
+ See the [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) and the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026).
 
 ### New York Jets at Kansas City Chiefs
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jets-white-road.jpg" alt="New York Jets white road jersey, expected at Kansas City in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jets · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-red-home.jpg" alt="Kansas City Chiefs red home jersey, expected against the Jets in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs · Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jets-white-road.jpg" alt="New York Jets white road jersey, confirmed with the green helmet and green pants at Kansas City in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jets · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-red-home.jpg" alt="Kansas City Chiefs red home jersey, expected against the Jets in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs · Expected</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Expected on both sides.** Kansas City wears **red** at home, and the Jets are expected in **white** under the green helmet. Our matchup grade: **B**. See the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) and the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, CBS. Jets confirmed, Chiefs expected.** Kansas City wears **red** at home. The Jets confirmed "White on Green" in their game-week graphic: the **green helmet, white jersey and green pants**. Our matchup grade: **B**.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2118068981160431827"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Jets' Week 9 uniform combination: green helmet, white jersey, green pants, via @nyjets</p>
+ See the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) and the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026).
 
 ## Every Week 9 Game
 
@@ -174,17 +212,17 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 - **Cincinnati Bengals at Atlanta Falcons** (Madrid), 9:30 a.m. ET, NFL Network. Bengals: striped orange helmet, white jersey (expected). Falcons: black helmet, red jersey, white pants (scheduled). Matchup grade: B.
 - **Dallas Cowboys at Indianapolis Colts**, 1:00 p.m. ET, FOX. Cowboys: silver helmet, navy jersey (scheduled). Colts: White Out, white jersey, white pants (confirmed). Matchup grade: B.
-- **New York Jets at Kansas City Chiefs**, 1:00 p.m. ET, CBS. Jets: green helmet, white jersey (expected). Chiefs: red (expected). Matchup grade: B.
+- **New York Jets at Kansas City Chiefs**, 1:00 p.m. ET, CBS. Jets: green helmet, white jersey, green pants (confirmed). Chiefs: red (expected). Matchup grade: B.
 - **Detroit Lions at Miami Dolphins**, 1:00 p.m. ET, FOX. Lions: Honolulu blue (expected). Dolphins: white (expected). Matchup grade: B+.
-- **Cleveland Browns at New Orleans Saints**, 1:00 p.m. ET, CBS. Browns: orange helmet, white jersey (expected). Saints: black helmet, gold jersey (scheduled). Matchup grade: B+.
+- **Cleveland Browns at New Orleans Saints**, 1:00 p.m. ET, CBS. Browns: orange helmet, white jersey (expected). Saints: black helmet, gold jersey, gold pants (confirmed). Matchup grade: B+.
 - **New York Giants at Philadelphia Eagles**, 1:00 p.m. ET, FOX. Giants: Vintage White, navy wordmark helmet, white jersey, white pants (confirmed). Eagles: Kelly Green (confirmed). Matchup grade: A.
-- **Los Angeles Rams at Washington Commanders**, 1:00 p.m. ET, FOX. Rams: white (scheduled). Commanders: burgundy (scheduled). Matchup grade: B.
+- **Los Angeles Rams at Washington Commanders**, 1:00 p.m. ET, FOX. Rams: royal helmet, white jersey, royal pants (confirmed). Commanders: burgundy (scheduled). Matchup grade: B.
 - **Denver Broncos at Carolina Panthers**, 1:00 p.m. ET, CBS. Broncos: Summit White (scheduled). Panthers: black (scheduled). Matchup grade: B.
-- **Houston Texans at Los Angeles Chargers**, 4:05 p.m. ET, CBS. Texans: white (expected). Chargers: Super Chargers navy (confirmed). Matchup grade: B.
+- **Houston Texans at Los Angeles Chargers**, 4:05 p.m. ET, CBS. Texans: navy helmet, white jersey, white pants (confirmed). Chargers: Super Chargers navy (confirmed). Matchup grade: B.
 - **Green Bay Packers at New England Patriots**, 4:25 p.m. ET, FOX. Packers: gold helmet, white jersey (expected). Patriots: silver helmet, navy jersey (expected). Matchup grade: B.
 - **Las Vegas Raiders at San Francisco 49ers**, 4:25 p.m. ET, FOX. Raiders: silver helmet, white jersey (expected). 49ers: scarlet (expected). Matchup grade: B.
-- **Arizona Cardinals at Seattle Seahawks**, 4:25 p.m. ET, FOX. Cardinals: white helmet, white jersey (scheduled). Seahawks: college navy (expected). Matchup grade: B.
-- **Tampa Bay Buccaneers at Chicago Bears**, 8:20 p.m. ET, NBC. Buccaneers: pewter helmet, white jersey (expected). Bears: navy helmet, navy jersey (expected). Matchup grade: B.
+- **Arizona Cardinals at Seattle Seahawks**, 4:25 p.m. ET, FOX. Cardinals: white helmet, white jersey, white pants (confirmed). Seahawks: college navy (expected). Matchup grade: B.
+- **Tampa Bay Buccaneers at Chicago Bears**, 8:20 p.m. ET, NBC. Buccaneers: pewter helmet, white jersey, pewter pants (confirmed). Bears: navy helmet, navy jersey (expected). Matchup grade: B.
 
 ### Monday, November 9
 
@@ -224,11 +262,11 @@ The week after, on Monday Night Football in Week 10 against the Chargers, Monday
 
 **What are the Saints wearing against the Browns?**
 
-The gold jersey with the black helmet. It is the only game on the Saints' published schedule for the gold jersey. We expect Cleveland in white.
+The gold jersey with the black helmet and gold pants, confirmed in the team's game-week graphic. It is the only game on the Saints' published schedule for the gold jersey. We expect Cleveland in white.
 
 **What are the Chargers wearing against the Texans?**
 
-The all-navy Super Chargers uniform, the first of three home dates for it in 2026. The others are the Patriots in Week 12 and the Chiefs in Week 17.
+The all-navy Super Chargers uniform, the first of three home dates for it in 2026. The others are the Patriots in Week 12 and the Chiefs in Week 17. Houston confirmed the navy helmet, white jersey and white pants.
 
 **Why are the Cowboys wearing navy at the Colts?**
 
@@ -244,7 +282,7 @@ We expect Honolulu blue. Miami wears white at home, so Detroit wears color on th
 
 **What are the Buccaneers and Bears wearing on Sunday Night Football?**
 
-We expect Chicago in its navy home jersey and Tampa Bay in white. Kickoff is 8:20 p.m. Eastern on NBC.
+We expect Chicago in its navy home jersey. Tampa Bay confirmed the pewter helmet, white jersey and pewter pants. Kickoff is 8:20 p.m. Eastern on NBC.
 
 **What are the Bills and Vikings wearing on Monday Night Football?**
 

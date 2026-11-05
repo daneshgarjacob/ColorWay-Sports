@@ -3,7 +3,7 @@ topViewsRank: 8
 title: "Texans Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-26"
+updatedDate: "2026-11-05"
 excerpt: "Every Texans jersey for 2026, week by week. Battle Red is Week 7 vs. the Giants, and the white-helmet HOUSTON/US Rivalries uniform debuts Week 11 on Thursday night."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,13 @@ teams: ["houston-texans"]
 ---
 
 Houston published one of the more useful uniform announcements in the league this year: three of its eight home games come with a named jersey, and as of August 25 all three have a face. The Texans open in Liberty White, run the Battle Red game in Week 7, and debut the brand-new HOUSTON/US Rivalries uniform, the first white helmet in franchise history included, against the Colts on Thursday night in Week 11. Here is the full Houston Texans 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the Deep Steel Blue home set and the white road set.
+
+**Update, November 5:** Houston confirmed its Week 9 look at the Chargers on Sunday, November 8 (4:05 p.m. ET, CBS): the standard **dark navy helmet, white jersey, white pants**, from the team's game-week uniform graphic. The Chargers are in their all-navy Super Chargers set.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2118357689914822843"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Houston's Week 9 uniform combination: navy helmet, white jersey, white pants, via @HoustonTexans</p>
 
 **Update, October 22: Battle Red is all red.** Against the Giants on Sunday, October 25 (1:00 p.m. ET, FOX), the Texans wear the **red helmet, red jersey and red pants**. Every Week 7 look is in our [NFL Week 7 uniform guide](/stories/nfl-week-7-uniforms-2026).
 
@@ -52,7 +59,7 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Navy Pants · London</div></div>
   <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Giants</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Battle Red</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0d3a52; color: #ffd0d7; border: 2px solid #A71930; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Colts</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Rivalries</div></div>
   <div style="background: #03202F; color: #A5ACAF; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Deep Steel Blue</div></div>

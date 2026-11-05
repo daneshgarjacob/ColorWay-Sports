@@ -3,7 +3,7 @@ title: "Illinois Uniform Schedule 2026: Every Jersey and When the Illini Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-05"
 excerpt: "What Illinois wears every game in 2026: navy home jerseys, the white road set, the orange alternate, every helmet, and the full Fighting Illini uniform schedule."
 gradient: "linear-gradient(135deg, #13294B 0%, #1f3b66 55%, #E84A27 130%)"
 cardStyle: words
@@ -14,6 +14,13 @@ resurfaceOnUpdate: true
 ---
 
 Illinois has three jersey colors, a rack of orange helmets and a navy one, and a home crowd that picks a color theme for the big games. This is the full Illinois 2026 uniform schedule: the navy home set, the white road set, the orange alternate, the helmets, and a week-by-week outlook for all twelve games in Bret Bielema's sixth season. Six games in, the Fighting Illini are 3-3: navy over orange in all three early home games, with a patriotic helmet for Duke, white at Ohio State, all orange for Homecoming against Purdue and white again in the overtime win at Michigan State. We update this page as each combination is confirmed.
+
+**Update, November 5:** Illinois is **back in blue** for Nebraska on Friday night: a **navy helmet with an orange, white and orange center stripe and the Illinois script, a navy jersey with white numbers outlined in orange, and navy pants**, from the team's game-week uniform post. It is all navy for Dads Day and the "Hail to the Blue Out."
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/IlliniFootball/status/2118116197484966150"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Illinois is back in blue for Nebraska: navy helmet, navy jersey, navy pants, via @IlliniFootball</p>
 
 **Update, October 24:** Illinois wore its military appreciation helmet against Oregon with a **navy jersey and orange pants**, confirmed from the team's game photos, and won **21-10**. The helmet is orange with the ILLINI wordmark, flag decals, a navy and white center stripe and a white rear bumper with the seals of the military branches.
 
@@ -40,7 +47,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #13294B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Military Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #13294B; color: #ffffff; border: 2px solid #E84A27; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -70,7 +77,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 **October 31 at Maryland.** White expected. Halloween at SECU Stadium, where the Terrapins are expected in red. The [Maryland 2026 uniform schedule](/stories/maryland-uniform-schedule-2026) covers the home side.
 
-**November 6 vs. Nebraska.** Navy expected. A Friday night game at 7 p.m. Central on FOX, which ESPN files under November 7. It is Dads Day and a "Hail to the Blue Out," so navy is the easy call, and the navy script helmet from last season's bowl game would fit the theme. Nebraska will be in white; see the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026).
+**November 6 vs. Nebraska.** ★ Confirmed by Illinois ("Back in blue"): **navy helmet with the Illinois script and an orange, white and orange stripe, navy jersey, navy pants.** A Friday night game at 7 p.m. Central on FOX, which ESPN files under November 7. It is Dads Day and a "Hail to the Blue Out," and Illinois matched it head to toe. Nebraska will be in white; see the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026).
 
 **November 13 at UCLA.** White expected. Another Friday night, 6 p.m. Pacific (8 p.m. Central) on FOX at the Rose Bowl, which ESPN lists under November 14. The [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026) tracks the Bruins in blue.
 
