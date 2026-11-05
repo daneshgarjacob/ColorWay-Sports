@@ -12,6 +12,12 @@ export const LEAGUE_LOGO: Record<string, string> = {
   NHL: "/logos/leagues/nhl.png", MLB: "/logos/leagues/mlb.png",
 };
 
+// Each league's own page: where "NBA" in the Tonight row takes you.
+export const LEAGUE_HREF: Record<string, string> = {
+  NFL: "/stories/nfl-uniform-tracker-2026", CFB: "/stories?league=college", NBA: "/stories/nba-uniform-tracker-2026-27",
+  NHL: "/stories/nhl-uniform-tracker-2026-27", MLB: "/stories/mlb-uniform-tracker-2026",
+};
+
 export type Matchup = { league: string; away?: MyTeamCard; home: MyTeamCard };
 
 export function tonightMatchups(now: Date): Matchup[] {

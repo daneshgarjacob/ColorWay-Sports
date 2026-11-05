@@ -1,52 +1,67 @@
 import Link from "next/link";
-import { teamPagePath, type MyTeamCard } from "@/lib/myTeams";
-import { LEAGUE_LOGO, LEAGUE_NAME, ORDER, type Matchup } from "@/lib/tonight";
+import { LEAGUE_HREF, LEAGUE_LOGO, LEAGUE_NAME, ORDER, type Matchup } from "@/lib/tonight";
 
-// The homepage's one Tonight row (Jake 11/4): which leagues play today, the
-// first few matchups with both jerseys, and a door to /tonight. Replaces the
-// three full NFL, NBA and NHL bands that made the homepage crowded.
+// The homepage's one Tonight row (Jake 11/4): a column per league with each
+// game and both teams' jerseys by name. The league name opens that league's
+// page; "more" opens /tonight at that league, where the jerseys are pictured.
 
-function Mini({ c }: { c: MyTeamCard }) {
-  return (
-    <Link prefetch={false} href={teamPagePath(c.id)} className="flex flex-col items-center gap-1 min-w-0 flex-1">
-      <div className="w-[64px] h-[72px] rounded-lg bg-white border border-border flex items-center justify-center overflow-hidden">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={c.next?.img ?? c.logo} alt="" className={c.next?.img ? "w-[92%] h-[92%] object-contain" : "w-[60%] h-[60%] object-contain"} loading="lazy" />
-      </div>
-      <span className="font-display text-[12px] font-extrabold leading-tight truncate max-w-full">{c.nickname}</span>
-    </Link>
-  );
-}
+const PER_LEAGUE = 4;
 
 export default function TonightRow({ games, label }: { games: Matchup[]; label: string }) {
   if (!games.length) return null;
   const leagues = ORDER.filter((l) => games.some((g) => g.league === l));
-  const shown = games.filter((g) => g.away && g.away !== g.home).slice(0, 4);
   return (
     <section className="max-w-[1200px] mx-auto px-5 pt-8">
-      <div className="flex items-center justify-between border-b-2 border-black pb-2 mb-3">
-        <span className="font-display text-[11px] font-black tracking-[0.18em] uppercase text-black">Tonight · {label}</span>
-        <Link prefetch={false} href="/tonight" className="font-display text-[12px] font-extrabold text-orange">
-          Every game &rarr;
-        </Link>
-      </div>
-      <div className="flex gap-2 mb-3 overflow-x-auto">
-        {leagues.map((l) => (
-          <Link prefetch={false} key={l} href={`/tonight#${l.toLowerCase()}`} className="shrink-0 rounded-full border border-border pl-2 pr-3 py-1 font-display text-[12px] font-extrabold flex items-center gap-1.5">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={LEAGUE_LOGO[l]} alt="" className="w-4 h-4 object-contain" />
-            {LEAGUE_NAME[l] ?? l} · {games.filter((g) => g.league === l).length}
-          </Link>
-        ))}
-      </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
-        {shown.map((g) => (
-          <div key={g.home.id} className="rounded-xl border border-border p-2.5 flex items-center gap-1">
-            <Mini c={g.away!} />
-            <span className="font-display font-black text-[11px] text-steel">at</span>
-            <Mini c={g.home} />
-          </div>
-        ))}
+      <div className="bg-white border border-border rounded-2xl px-5 sm:px-6 pt-[18px] pb-5">
+        <div className="flex items-baseline justify-between mb-4">
+          <span className="font-display text-[11px] font-black tracking-[0.18em] uppercase text-black">Tonight&rsquo;s Uniforms &middot; {label}</span>
+          <Link prefetch={false} href="/tonight" className="font-display text-[12px] font-extrabold text-orange">Every game &rarr;</Link>
+        </div>
+        <div className={`grid grid-cols-1 gap-6 md:gap-0 md:divide-x md:divide-border ${leagues.length >= 3 ? "md:grid-cols-3" : leagues.length === 2 ? "md:grid-cols-2" : ""}`}>
+          {leagues.slice(0, 3).map((l) => {
+            const all = games.filter((g) => g.league === l);
+            return (
+              <div key={l} className="md:px-5 md:first:pl-0 md:last:pr-0 min-w-0">
+                <div className="flex items-center justify-between">
+                  <Link prefetch={false} href={LEAGUE_HREF[l]} className="flex items-center gap-2 font-display text-[13px] font-black tracking-[0.12em] uppercase text-blue-dark hover:text-orange">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={LEAGUE_LOGO[l]} alt="" className="w-5 h-5 object-contain" />
+                    {LEAGUE_NAME[l] ?? l}
+                  </Link>
+                  <Link prefetch={false} href={LEAGUE_HREF[l]} className="text-[11px] font-bold text-orange hover:underline">
+                    {`${l} page →`}
+                  </Link>
+                </div>
+                <ul className="m-0 mt-2 p-0 list-none">
+                  {all.slice(0, PER_LEAGUE).map((g) => (
+                    <li key={g.home.id} className="border-t border-border py-2.5">
+                      {g.away && g.away !== g.home ? (
+                        <>
+                          <div className="text-[14px] font-bold text-blue-dark">
+                            {g.away.nickname} <span className="text-[#8A8F98] font-medium">at</span> {g.home.nickname}
+                          </div>
+                          <div className="mt-0.5 text-[12px] text-[#5b6474]">
+                            {g.away.next?.look} <span className="text-[#aab0ba]">vs</span> {g.home.next?.look}
+                          </div>
+                        </>
+                      ) : (
+                        <>
+                          <div className="text-[14px] font-bold text-blue-dark">
+                            {g.home.nickname} <span className="text-[#8A8F98] font-medium">{g.home.next?.opp}</span>
+                          </div>
+                          <div className="mt-0.5 text-[12px] text-[#5b6474]">{g.home.next?.look}</div>
+                        </>
+                      )}
+                    </li>
+                  ))}
+                </ul>
+                <Link prefetch={false} href={`/tonight#${l.toLowerCase()}`} className="inline-block mt-1 text-[12px] font-bold text-orange hover:underline">
+                  {all.length > PER_LEAGUE ? `All ${all.length} ${l} games with jerseys →` : `See the ${l} jerseys →`}
+                </Link>
+              </div>
+            );
+          })}
+        </div>
       </div>
     </section>
   );
