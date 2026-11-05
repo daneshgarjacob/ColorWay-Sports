@@ -2,7 +2,7 @@
 title: "Hometown Remix Debut Week: 10 NHL Teams Wear Their New Jerseys Tuesday Through Thursday"
 category: "NHL"
 date: "2026-11-03"
-updatedDate: "2026-11-04"
+updatedDate: "2026-11-05"
 excerpt: "The best Hometown Remix jersey in the NHL debuts tonight against the team with the worst one. Penguins, Canadiens, Flyers and Blue Jackets on Tuesday, Sabres, Kings and Kraken on Wednesday, Oilers, Islanders and Utah on Thursday."
 gradient: "linear-gradient(135deg, #1E4FA0 0%, #0A1733 60%, #9ACD32 130%)"
 author: "jake-daneshgar"
@@ -16,7 +16,7 @@ teams: ["pittsburgh-penguins", "montreal-canadiens", "philadelphia-flyers", "col
 
 The NHL's Hometown Remix jerseys stop being photos this week. Ten teams wear theirs for the first time between Tuesday and Thursday, and the week starts with the best possible matchup: **the Penguins debut the best Remix jersey in the league tonight against the Golden Knights, whose Remix we ranked dead last.** Vegas is on the road, so it will be in white, but the timing is perfect.
 
-**Tuesday's four are in the books** (results below), and the Sabres, Kings and Kraken debut theirs tonight. Here is every debut this week, with where each jersey landed in our [Hometown Remix ranking](/stories/nhl-hometown-remix-jerseys-ranked).
+**Tuesday's and Wednesday's debuts are in the books** (results below), and the Oilers, Islanders and Utah debut theirs tonight. Here is every debut this week, with where each jersey landed in our [Hometown Remix ranking](/stories/nhl-hometown-remix-jerseys-ranked).
 
 ## Tuesday, November 3
 
@@ -87,12 +87,16 @@ A gray sweater with the cannon on the chest. A team called the Blue Jackets wear
 
 Royal blue with the throwback goat head, big, right in the middle of the chest. Buffalo just does uniforms well. Eight games.
 
+**Result:** Senators 2, Sabres 1. On the ice the numbers are gold with a white outline, which you can't see in the product photo. Ottawa wore white.
+
 ### Kings vs. Sharks: No. 6
 
 <img src="/images/posts/nhl-daily-tracker/kings-remix.jpg" alt="Los Angeles Kings Hometown Remix jersey, purple and gold with black stripes and a Hollywood-style crest" style="display:block;width:100%;max-width:340px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: NHL</p>
 
 Purple and gold with black stripes and a Hollywood-style crest. Purple belongs in the Kings' everyday uniforms, and we are glad to at least get it here. Seven games, all on Wednesday home dates.
+
+**Result:** Kings 7, Sharks 2, with an Adrian Kempe hat trick. It looks even better on the ice, with black pants under the purple. San Jose wore white.
 
 ### Kraken vs. Flames: No. 12
 
@@ -101,7 +105,9 @@ Purple and gold with black stripes and a Hollywood-style crest. Purple belongs i
 
 Deep sea blue, two cream stripes and the anchor logo finally on the chest. Simple and clean. Six games.
 
-Also Wednesday: the Panthers wear their coral Remix again, at home against Chicago. They debuted it Monday against Detroit, and it is still our [most overrated Remix](/stories/panthers-hometown-remix-jersey-overrated).
+**Result:** Kraken 2, Flames 1 in overtime, on a Matty Beniers breakaway. The cream numbers and anchor stand out well against the dark blue. Calgary wore white.
+
+Also Wednesday: the Panthers wear their coral Remix again, at home against Chicago. They debuted it Monday against Detroit, and it is still our [most overrated Remix](/stories/panthers-hometown-remix-jersey-overrated). **Result:** Panthers 5, Blackhawks 3, so Florida is now 2-0 in it.
 
 ## Thursday, November 5
 

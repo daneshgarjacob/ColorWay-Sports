@@ -1514,6 +1514,204 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (Wizards red Icon, Magic white pinstripe Association; https://www.espn.com/nba/game/_/gameId/401909911)"
+    },
+    "2026-11-04 ATL@WAS": {
+      "score": {
+        "away": 120,
+        "home": 105
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Hawks black Statement, Wizards white Association; https://www.espn.com/nba/game/_/gameId/401909923)"
+    },
+    "2026-11-04 CHA@BKN": {
+      "score": {
+        "away": 104,
+        "home": 114
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Hornets teal Icon, Nets black BROOKLYN Icon; https://www.espn.com/nba/game/_/gameId/401909925)"
+    },
+    "2026-11-04 CHI@NYK": {
+      "score": {
+        "away": 105,
+        "home": 135
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Bulls red Icon, Knicks white Association; https://www.espn.com/nba/game/_/gameId/401909926)"
+    },
+    "2026-11-04 CLE@OKC": {
+      "score": {
+        "away": 116,
+        "home": 124
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Cavaliers white Association, Thunder blue Icon; https://www.espn.com/nba/game/_/gameId/401909929)"
+    },
+    "2026-11-04 DAL@SAS": {
+      "score": {
+        "away": 111,
+        "home": 112
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Classic Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Mavericks navy MAVS Statement, Spurs silver Classic, Classic Edition court debut; https://www.espn.com/nba/game/_/gameId/401909933)"
+    },
+    "2026-11-04 IND@MEM": {
+      "score": {
+        "away": 107,
+        "home": 103
+      },
+      "away": {
+        "call": "Classic Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Pacers royal blue Classic, Grizzlies white Association; https://www.espn.com/nba/game/_/gameId/401909927)"
+    },
+    "2026-11-04 LAL@SAC": {
+      "score": {
+        "away": 116,
+        "home": 103
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Lakers gold Icon, Kings black Icon; https://www.espn.com/nba/game/_/gameId/401909934)"
+    },
+    "2026-11-04 MIA@LAC": {
+      "score": {
+        "away": 117,
+        "home": 116
+      },
+      "ot": true,
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Heat white Association, Clippers navy Icon; https://www.espn.com/nba/game/_/gameId/401909935)"
+    },
+    "2026-11-04 MIL@BOS": {
+      "score": {
+        "away": 102,
+        "home": 109
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Bucks black Statement, Celtics white Association; https://www.espn.com/nba/game/_/gameId/401909924)"
+    },
+    "2026-11-04 MIN@HOU": {
+      "score": {
+        "away": 117,
+        "home": 107
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Timberwolves blue Icon, Rockets white Association; https://www.espn.com/nba/game/_/gameId/401909930)"
+    },
+    "2026-11-04 PHI@DET": {
+      "score": {
+        "away": 112,
+        "home": 106
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (76ers blue PHILA Icon, Pistons white Association; https://www.espn.com/nba/game/_/gameId/401909922)"
+    },
+    "2026-11-04 POR@PHX": {
+      "score": {
+        "away": 132,
+        "home": 119
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Trail Blazers red Statement, Suns black Statement; https://www.espn.com/nba/game/_/gameId/401909932)"
+    },
+    "2026-11-04 TOR@DEN": {
+      "score": {
+        "away": 109,
+        "home": 128
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Raptors red Icon, Nuggets navy Icon; https://www.espn.com/nba/game/_/gameId/401909931)"
+    },
+    "2026-11-04 UTA@NOP": {
+      "score": {
+        "away": 113,
+        "home": 120
+      },
+      "ot": true,
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Jazz white Association, Pelicans navy Icon; https://www.espn.com/nba/game/_/gameId/401909928)"
     }
   }
 }
