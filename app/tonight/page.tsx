@@ -2,43 +2,19 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getMyTeamCards, teamPagePath, type MyTeamCard } from "@/lib/myTeams";
+import { teamPagePath, type MyTeamCard } from "@/lib/myTeams";
+import { ORDER, LEAGUE_NAME, LEAGUE_LOGO, tonightMatchups } from "@/lib/tonight";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
 
 // Tonight (Jake 11/4, ESPN's Scores tab for uniforms): every game on today's
-// slate across leagues, both teams' jerseys side by side. Built from the My
-// Teams cards: a home card ("vs Heat") pairs with the away card whose next
-// game is "at <home>". Refreshes after midnight Eastern like the homepage.
+// slate across leagues, both teams' jerseys side by side (lib/tonight.ts).
+// Refreshes after midnight Eastern like the homepage.
 
 export const metadata: Metadata = {
   title: "Uniforms Tonight: What Every Team Is Wearing Today",
   description: "Every NFL, NBA, NHL and college football game today, with the jersey each team is wearing. Updated daily.",
   alternates: { canonical: "/tonight" },
 };
-
-const ORDER = ["NFL", "CFB", "NBA", "NHL", "MLB"];
-const LEAGUE_NAME: Record<string, string> = { CFB: "College Football" };
-const LEAGUE_LOGO: Record<string, string> = {
-  NFL: "/logos/leagues/nfl.png", CFB: "/logos/leagues/college-football.svg", NBA: "/logos/leagues/nba.png",
-  NHL: "/logos/leagues/nhl.png", MLB: "/logos/leagues/mlb.png",
-};
-
-type Matchup = { league: string; away?: MyTeamCard; home: MyTeamCard };
-
-function tonight(now: Date): Matchup[] {
-  const today = getMyTeamCards(now).filter((c) => c.next && /^(Today|Tonight)/.test(c.next.when));
-  const out: Matchup[] = [];
-  for (const home of today.filter((c) => c.next!.opp.startsWith("vs "))) {
-    const away = today.find((c) => c.league === home.league && c.next!.opp === `at ${home.nickname}`);
-    out.push({ league: home.league, away, home });
-  }
-  // Road teams whose host we don't track (a college opponent outside our list).
-  const paired = new Set(out.map((m) => m.away?.id));
-  for (const c of today.filter((x) => x.next!.opp.startsWith("at ") && !paired.has(x.id))) {
-    out.push({ league: c.league, away: c, home: c });
-  }
-  return out.sort((a, b) => ORDER.indexOf(a.league) - ORDER.indexOf(b.league));
-}
 
 function Side({ c, solo }: { c?: MyTeamCard; solo?: boolean }) {
   if (!c) return <div className="flex-1" />;
@@ -60,7 +36,7 @@ export default async function TonightPage() {
   const etNow = new Date(now.toLocaleString("en-US", { timeZone: "America/New_York" }));
   const toMidnight = (24 * 3600) - (etNow.getHours() * 3600 + etNow.getMinutes() * 60);
   await revalidatePageWithin(Math.max(300, toMidnight + 120));
-  const games = tonight(now);
+  const games = tonightMatchups(now);
   const leagues = ORDER.filter((l) => games.some((g) => g.league === l));
   const dateLabel = now.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", timeZone: "America/New_York" });
   const LABEL = "font-display text-[11px] font-black tracking-[0.18em] uppercase";

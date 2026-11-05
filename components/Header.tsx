@@ -304,7 +304,8 @@ const navLinks = [
   // Stories left the top nav 9/30 (Jake: the sportslogos.net model, league rail
   // + search, no catch-all "Stories" link). /stories and every /stories/<slug>
   // URL are untouched; the league rail, search and footer still reach them.
-  { label: "News", href: "/news" },
+  // Jake 11/4: "Latest" = newest stories + The Wire on one page (/news).
+  { label: "Latest", href: "/news" },
   { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },
 ];

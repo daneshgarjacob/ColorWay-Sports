@@ -11,6 +11,9 @@ const INK = '#14223f';
 const RED = '#D50A0A';
 const BRAND = '#2f6bed';
 const PAD = 22;
+// Matchup rows centered in the left column (Jake 11/4: the logos and "VS" read off-center).
+const COL = (M + 690) / 2, SPREAD = 170, ROW1 = 330, ROW2 = 500;
+
 
 async function textWidth(str, size, ls) {
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="200"><rect width="2400" height="200" fill="#ffffff"/>` +
@@ -46,8 +49,8 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
     <text x="${PAD}" y="35" font-family="Hanken Grotesk" font-weight="800" font-size="24" fill="${INK}" letter-spacing="4">${K2}</text>
   </g>
 
-  <text x="${M + 150}" y="335" font-family="Anton" font-size="44" fill="${INK}" opacity="0.55">VS</text>
-  <text x="${M + 150}" y="505" font-family="Anton" font-size="44" fill="${INK}" opacity="0.55">VS</text>
+  <text x="${COL}" y="${ROW1 + 16}" text-anchor="middle" font-family="Anton" font-size="44" fill="${INK}" opacity="0.55">VS</text>
+  <text x="${COL}" y="${ROW2 + 16}" text-anchor="middle" font-family="Anton" font-size="44" fill="${INK}" opacity="0.55">VS</text>
 
   <g transform="translate(${M} 700) skewX(-6)">
     <text x="0" y="0" font-family="Anton" font-size="96" fill="${INK}">FIVE ALTERNATE</text>
@@ -64,15 +67,16 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
 const comps = [];
 
 // matchup logos: Jaguars vs Ravens, Giants vs Eagles
-async function logo(file, cx, cy, h = 120) {
-  const buf = await sharp(`assets/logos-hires/teams/${file}`).resize({ height: h, width: 150, fit: 'inside' }).toBuffer();
+async function logo(file, cx, cy, h = 110) {
+  // trim first so every logo's visible art (not its padding) gets the same box
+  const buf = await sharp(`assets/logos-hires/teams/${file}`).trim().resize({ height: h, width: 170, fit: 'inside' }).toBuffer();
   const m = await sharp(buf).metadata();
   comps.push({ input: buf, left: Math.round(cx - m.width / 2), top: Math.round(cy - m.height / 2) });
 }
-await logo('nfl-jacksonville-jaguars.png', M + 70, 320);
-await logo('nfl-baltimore-ravens.png', M + 300, 320);
-await logo('nfl-new-york-giants.png', M + 70, 490);
-await logo('nfl-philadelphia-eagles.png', M + 300, 490);
+await logo('nfl-jacksonville-jaguars.png', COL - SPREAD, ROW1);
+await logo('nfl-baltimore-ravens.png', COL + SPREAD, ROW1);
+await logo('nfl-new-york-giants.png', COL - SPREAD, ROW2);
+await logo('nfl-philadelphia-eagles.png', COL + SPREAD, ROW2);
 
 const shield = await sharp('assets/logos-hires/leagues/nfl.png').resize({ height: 100, width: 140, fit: 'inside' }).toBuffer();
 const sm = await sharp(shield).metadata();

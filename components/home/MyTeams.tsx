@@ -71,36 +71,34 @@ export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPage
       </div>
       <div className="flex gap-3 overflow-x-auto pt-2 pr-2 pb-2 snap-x lg:flex-wrap lg:overflow-visible">
         {mine.map((t) => (
-          <div key={t.id} className="relative snap-start shrink-0 w-[260px] sm:w-[280px]">
+          <div key={t.id} className="relative snap-start shrink-0 w-[210px] sm:w-[250px]">
             <Link
               prefetch={false}
               href={teamPages ? teamPage(t.id) : t.href}
-              className="flex gap-3 items-center rounded-2xl p-3 text-white h-full"
+              className="flex gap-2.5 items-center rounded-xl p-2 sm:p-2.5 text-white h-full"
               style={{ background: `linear-gradient(120deg, #0A1733 0%, ${t.color} 170%)` }}
             >
-              <div className="w-[72px] h-[86px] shrink-0 rounded-xl bg-white flex items-center justify-center overflow-hidden">
+              <div className="w-[48px] h-[56px] sm:w-[58px] sm:h-[68px] shrink-0 rounded-lg bg-white flex items-center justify-center overflow-hidden">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={t.next?.img ?? t.logo} alt="" className={t.next?.img ? "w-[90%] h-[90%] object-contain" : "w-[70%] h-[70%] object-contain"} />
               </div>
               <div className="min-w-0">
-                <div className="flex items-center gap-1.5 text-[10px] font-black tracking-[0.16em] uppercase text-sky">
+                <div className="flex items-center gap-1 text-[9px] font-black tracking-[0.14em] uppercase text-sky truncate">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={t.logo} alt="" className="w-4 h-4 object-contain" />
+                  <img src={t.logo} alt="" className="w-3.5 h-3.5 object-contain" />
                   {t.nickname} · {t.league}
                 </div>
                 {t.next ? (
                   <>
-                    <div className="font-display font-black text-[16px] leading-tight mt-1">{t.next.look}</div>
-                    <div className="text-[12px] text-white/75 mt-0.5 truncate">
+                    <div className="font-display font-black text-[14px] sm:text-[15px] leading-tight mt-0.5 truncate">{t.next.look}</div>
+                    <div className="text-[11px] text-white/75 mt-0.5 truncate">
                       {t.next.when} · {t.next.opp}
                     </div>
-                    {!t.next.confirmed && t.league === "NFL" && <div className="text-[10px] text-white/55 mt-0.5">Expected look</div>}
-                  </>
+                                      </>
                 ) : (
-                  <div className="font-display font-black text-[16px] leading-tight mt-1">{t.note}</div>
+                  <div className="font-display font-black text-[14px] leading-tight mt-0.5">{t.note}</div>
                 )}
-                <div className="text-[11px] font-bold text-white/85 mt-1">{teamPages ? "Team page" : "Full schedule"} &rarr;</div>
-              </div>
+                              </div>
             </Link>
             {editing && (
               <button

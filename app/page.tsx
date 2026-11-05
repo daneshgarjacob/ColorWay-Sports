@@ -1,22 +1,16 @@
 import Header from "@/components/Header";
-import NflWeekZoneV2 from "@/components/NflWeekZoneV2";
-import NhlUniformsZone from "@/components/NhlUniformsZone";
 import StoryCard from "@/components/StoryCard";
-import {
-  TodayBrief,
-  LeadStory,
-  JakesTakes,
-  TonightStrip,
-} from "@/components/home/HomeRefresh";
-import { getJakesTakes, getTonight, latestStandsDate, standsPhotoFor, standsPool, todayBrief } from "@/lib/homeToday";
+import { LeadStory, JakesTakes } from "@/components/home/HomeRefresh";
+import { getJakesTakes, latestStandsDate, standsPhotoFor, standsPool } from "@/lib/homeToday";
 import { MyTeamsRow, TeamPicker } from "@/components/home/MyTeams";
 import { getMyTeamCards } from "@/lib/myTeams";
+import { tonightMatchups } from "@/lib/tonight";
+import TonightRow from "@/components/home/TonightRow";
 import { MOST_READ } from "@/lib/mostRead";
 import FromTheStandsRandom from "@/components/home/FromTheStandsRandom";
 import WireStrip from "@/components/WireStrip";
 import Footer from "@/components/Footer";
 import Link from "next/link";
-import NbaTonightZone from "@/components/NbaTonightZone";
 import { pickFor } from "@/lib/jerseyOfTheDay";
 import type { Metadata } from "next";
 import { getAllPosts, type PostMeta as Post } from "@/lib/posts";
@@ -303,13 +297,12 @@ export default async function Home() {
 
   // The self-updating pieces (homepage refresh, 10/5).
   const takes = getJakesTakes(4, new Set([...heroSlugs, ...gridSlugs]));
-  const tonight = getTonight();
-  const brief = todayBrief(tonight, takes);
   const standsPhoto = standsPhotoFor(todayEt, new Set([...heroSlugs, ...gridSlugs]));
   const standsPhotos = standsPool(new Set([...heroSlugs, ...gridSlugs]));
   const standsFresh = daysSince(latestStandsDate()) <= 7;
   const mostRead = MOST_READ.map((slug) => posts.find((p) => p.slug === slug)).filter((p): p is Post => !!p).slice(0, 5);
   const myTeamCards = getMyTeamCards();
+  const tonightGames = tonightMatchups(new Date());
   const todayLong = new Date(`${todayEt}T12:00:00Z`).toLocaleDateString("en-US", {
     weekday: "long",
     month: "long",
@@ -324,9 +317,9 @@ export default async function Home() {
         <h1 className="sr-only">
           ColorWay Sports — Every Jersey. Every Logo. Every Detail. Covering sports jerseys, uniforms, logos, scorebugs, and stadium design.
         </h1>
-        {/* 10/5: dateline + a brief written from today's data */}
-        <TodayBrief day={todayLong} lines={brief} />
-
+        {/* Jake 11/4: simpler, ESPN-style top to bottom: your teams, the lead,
+            tonight, latest, most read. The daily brief and the three league
+            bands are gone; /tonight holds every game. */}
         {/* Jake 11/2: the reader's followed teams, next uniform first. Shows only
             after they follow a team in the Find Your Team row below. */}
         <MyTeamsRow teams={myTeamCards} />
@@ -364,13 +357,9 @@ export default async function Home() {
           </section>
         )}
 
-        <TeamPicker teams={myTeamCards} />
+        <TonightRow games={tonightGames} label={todayLong.split(",")[0]} />
 
-        {/* Tonight across leagues, straight off the slate files. Moved below the
-            lead + three cards 10/13 (Jake: one up top, three underneath). */}
-        <div className="pt-8" />
-        <TonightStrip leagues={tonight} />
-        {/* The Wire now lives in the Jake's Takes rail up top (Jake 10/25). */}
+        <TeamPicker teams={myTeamCards} />
         <div className="pt-10" />
 
         {/* From the Stands (Jake's own photos, random each visit since 10/13) beside More Stories */}
@@ -440,12 +429,6 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* League tools move below the editorial top half */}
-        <NflWeekZoneV2 />
-        {/* Jake 10/19: NBA band with every game's jerseys and our matchup grade. */}
-        <NbaTonightZone />
-        {/* Jake 11/2: MLB season is over, so the MLB and World Series bands are gone until spring. */}
-        <NhlUniformsZone />
       </main>
       <Footer />
     </>

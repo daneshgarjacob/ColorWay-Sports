@@ -3,7 +3,8 @@ import Footer from "@/components/Footer";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getAllNews, groupByDay, newsThumb, recentNews, stamp } from "@/lib/news";
-import { getAllPosts } from "@/lib/posts";
+import { getAllPosts, getAllPostsByDate } from "@/lib/posts";
+import StoryCard from "@/components/StoryCard";
 import WireItem from "@/components/WireItem";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import TwitterEmbed from "@/components/TwitterEmbed";
@@ -38,6 +39,9 @@ export default async function NewsFeed() {
     .sort((a, b) => (a.topViewsRank ?? 99) - (b.topViewsRank ?? 99))
     .slice(0, 5);
 
+  // Jake 11/4: this page is "Latest" in the nav, the newest stories first, then the wire.
+  const latest = getAllPostsByDate().filter((p) => p.coverImage || p.cardStyle).slice(0, 6);
+
   return (
     <>
       <Header />
@@ -45,13 +49,33 @@ export default async function NewsFeed() {
         {/* widgets.js is loaded globally; this re-runs it so wire embeds render */}
         <TwitterEmbed />
         <div className="max-w-[1080px] mx-auto px-5">
-          <header className="pt-9 pb-5 border-b-2 border-black">
+          <header className="pt-9 pb-4 border-b-2 border-black">
+            <h1 className="font-display text-[34px] sm:text-[40px] font-black tracking-[-0.025em] leading-[1.05] text-black m-0">
+              Latest
+            </h1>
+          </header>
+          <section className="pt-6 pb-4">
+            <div className="flex items-center justify-between mb-4">
+              <h2 className="font-display text-[12px] font-extrabold tracking-[0.18em] uppercase text-steel m-0">Newest stories</h2>
+              <Link prefetch={false} href="/stories" className="font-display text-[12px] font-extrabold text-orange">All stories &rarr;</Link>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {latest.map((post) => (
+                <StoryCard key={post.slug} slug={post.slug} title={post.title} category={post.category} date={post.date}
+                  updatedDate={post.updatedDate} excerpt={post.excerpt} gradient={post.gradient} overlayText={post.overlayText}
+                  logoSrc={post.logoSrc} logoSrc2={post.logoSrc2} coverImage={post.coverImage}
+                  coverImagePosition={post.coverImagePosition} coverImageFit={post.coverImageFit} cardStyle={post.cardStyle}
+                  kicker={post.kicker} showDate={true} compact />
+              ))}
+            </div>
+          </section>
+          <header className="pt-6 pb-5 border-b-2 border-black">
             <p className="font-display text-[11px] font-extrabold tracking-[0.24em] uppercase text-orange m-0 mb-2">
               ColorWay Sports
             </p>
-            <h1 className="font-display text-[34px] sm:text-[40px] font-black tracking-[-0.025em] leading-[1.05] text-black m-0 mb-3">
+            <h2 className="font-display text-[28px] sm:text-[32px] font-black tracking-[-0.025em] leading-[1.05] text-black m-0 mb-3">
               The Wire
-            </h1>
+            </h2>
             <p className="text-[15.5px] text-gray-medium max-w-[640px] leading-relaxed m-0 mb-2">
               Uniform news as it happens. Reveals, weekly combinations, throwbacks, and the stuff
               that goes wrong on the field. Short, fast, and checked before we post it.
