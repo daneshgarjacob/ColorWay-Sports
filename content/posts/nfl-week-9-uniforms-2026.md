@@ -14,6 +14,7 @@ kicker: "This Week"
 league: nfl
 teams: []
 resurfaceOnUpdate: true
+homepageHero: "2026-11-05"
 ---
 
 Week 9 of the 2026 NFL season runs from Thursday, November 5 to Monday, November 9, with 15 games and two teams on bye: the Pittsburgh Steelers and the Tennessee Titans. It is the busiest week of the season for alternate uniforms so far. Five teams wear an alternate set: the **Ravens in all-purple Purple Rising** on Thursday night, the **Eagles in Kelly Green** and the **Giants in Vintage White** in the same game in Philadelphia, the **Saints in their gold jersey** under the black helmet, and the **Chargers in the all-navy Super Chargers** set. Indianapolis adds its all-white **White Out** against Dallas, which puts the Cowboys in navy, and Atlanta and Cincinnati play in Madrid on Sunday morning.
