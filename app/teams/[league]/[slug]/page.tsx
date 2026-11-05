@@ -38,6 +38,9 @@ export async function generateMetadata({ params }: { params: Promise<{ league: s
     title,
     description,
     alternates: { canonical: `/teams/${league}/${slug}` },
+    // Navigation hub only (Jake 11/4): the schedule post is the page that ranks
+    // and earns for "<team> uniforms", so this one stays out of search.
+    robots: { index: false, follow: true },
     openGraph: { title, description, url: `/teams/${league}/${slug}`, type: "website" },
   };
 }

@@ -1,14 +1,16 @@
 ---
-title: "Lakers Uniform Tracker 2025-26: Every Game, Every Jersey"
+title: "Lakers Jerseys 2025-26 Season Recap: Every Jersey They Wore Last Season"
 author: "colorway-sports-staff"
 category: "Uniforms"
 date: "2026-03-22"
-excerpt: "Every jersey and uniform the Lakers wore across the 2025-26 season. Gold, purple, white, City Edition: we tracked all 82 games and the uniform breakdown is surprising."
+excerpt: "Last season's recap. For tonight's Lakers jersey, see the 2026-27 uniform schedule. Every jersey and uniform the Lakers wore across the 2025-26 season. Gold, purple, white, City Edition: we tracked all 82 games and the uniform breakdown is surprising."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 100%)"
 logoSrc: "/logos/lakers.png"
 league: "nba"
 teams: ["los-angeles-lakers"]
 ---
+
+<div style="margin: 0 0 1.5em; padding: 14px 18px; border-radius: 12px; background: #552583; color: #fff;"><strong>Looking for tonight's Lakers jersey?</strong> This page is the 2025-26 season recap. Every 2026-27 game and jersey is in the <a href="/stories/lakers-uniform-schedule-2026-27" style="color: #FDB927; font-weight: 800;">Lakers 2026-27 uniform schedule</a>.</div>
 
 We've been tracking every Lakers uniform this season in a spreadsheet. Game by game, home and away, which jersey they wore and what day it was. 82 games in, the data tells the story we already knew from watching: gold is no longer the default at home, and it's driving us crazy.
 
