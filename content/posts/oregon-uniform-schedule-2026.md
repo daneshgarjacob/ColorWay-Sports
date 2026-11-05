@@ -13,7 +13,7 @@ teams: ["oregon-ducks", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-**Update, November 5:** Oregon's uniform for Ohio State is **Mummy Mode 2.0**: a **dark chrome helmet with a chrome facemask, a white jersey with black chrome numbers and black feather trim on the shoulders, and black pants**, posted by the team Wednesday night. That replaces the yellow, green and yellow we had from Monday's game-week graphic.
+**Update, November 5:** Oregon's uniform for Ohio State is **Mummy Mode 2.0**: a **dark chrome helmet with a chrome facemask, a white jersey with black chrome numbers and a charcoal and silver feather pattern on the shoulders, and black pants**, posted by the team Wednesday night. That replaces the yellow, green and yellow we had from Monday's game-week graphic.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2118146296087453717"></a></blockquote>
