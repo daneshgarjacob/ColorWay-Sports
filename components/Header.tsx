@@ -4,6 +4,16 @@ import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 import { leagueColor } from "@/lib/leagueColors";
 import { TEAM_LOGOS, COMPETITION_LOGOS, teamSlug } from "@/lib/teamLogos";
+import teamPageIds from "@/content/data/team-page-ids.json";
+
+// A club in the league menus opens its team page (Jake 11/4) when it has one;
+// everything else (soccer clubs, conferences) keeps its /stories?team= list.
+const TEAM_PAGES = new Set(teamPageIds as string[]);
+const LEAGUE_CODE: Record<string, string> = { NFL: "nfl", NBA: "nba", NHL: "nhl", MLB: "mlb", CFB: "cfb" };
+function teamHref(leagueLabel: string, name: string): string {
+  const id = `${LEAGUE_CODE[leagueLabel]}:${teamSlug(name)}`;
+  return TEAM_PAGES.has(id) ? `/teams/${id.replace(":", "/")}` : `/stories?team=${encodeURIComponent(teamSlug(name))}`;
+}
 
 // Nav rows look up team logos first, then soccer competitions / racing series.
 const teamLogos: Record<string, string> = { ...TEAM_LOGOS, ...COMPETITION_LOGOS };
@@ -287,10 +297,10 @@ const leagues: NavLeague[] = [
 
 // "Home" is deliberately absent: the ColorWay Sports wordmark is the home link.
 const navLinks = [
-  // Jake 11/4, ESPN-style: tonight's games, your teams, every team's page.
+  // Jake 11/4, ESPN-style: tonight's games and your teams (each club's page is
+  // in the league menus).
   { label: "Tonight", href: "/tonight" },
   { label: "My Teams", href: "/my-teams" },
-  { label: "Teams", href: "/teams" },
   // Stories left the top nav 9/30 (Jake: the sportslogos.net model, league rail
   // + search, no catch-all "Stories" link). /stories and every /stories/<slug>
   // URL are untouched; the league rail, search and footer still reach them.
@@ -622,7 +632,7 @@ export default function Header() {
             a fan goes most, one tap from every page. Not pinned to the bottom of
             the screen, where Mediavine's sticky phone ad lives. */}
         <nav className="lg:hidden bg-white border-t border-black/[0.06] flex justify-around h-[40px] items-stretch">
-          {[{ label: "Home", href: "/" }, { label: "Tonight", href: "/tonight" }, { label: "My Teams", href: "/my-teams" }, { label: "Teams", href: "/teams" }].map((l) => (
+          {[{ label: "Home", href: "/" }, { label: "Tonight", href: "/tonight" }, { label: "My Teams", href: "/my-teams" }].map((l) => (
             <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#14223f]" style={{ fontFamily: "var(--font-display)" }}>
               {l.label}
             </Link>
@@ -709,7 +719,7 @@ export default function Header() {
                               onMouseEnter={() => clubs && setOpenSub(team)}
                             >
                               <Link prefetch={false}
-                                href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
+                                href={teamHref(league.label, team)}
                                 className="flex items-center gap-2.5 px-4 py-2 text-[13px] text-gray-medium hover:text-orange transition-colors flex-1 min-w-0"
                                 onClick={() => setOpenDropdown(null)}
                               >
@@ -741,7 +751,7 @@ export default function Header() {
                                 {clubs.map((club) => (
                                   <Link prefetch={false}
                                     key={club}
-                                    href={`/stories?team=${encodeURIComponent(teamSlug(club))}`}
+                                    href={teamHref(league.label, club)}
                                     className="flex items-center gap-2.5 pl-9 pr-4 py-1.5 text-[12.5px] text-gray-medium hover:bg-orange/5 hover:text-orange transition-colors"
                                     onClick={() => { setOpenDropdown(null); setOpenSub(null); }}
                                   >
@@ -903,7 +913,7 @@ export default function Header() {
                         <div key={team} className="flex flex-col items-center">
                           <div className="flex items-center">
                             <Link prefetch={false}
-                              href={`/stories?team=${encodeURIComponent(teamSlug(team))}`}
+                              href={teamHref(league.label, team)}
                               className="flex items-center gap-2 text-sm text-gray-medium hover:text-orange transition-colors py-1"
                               onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
                             >
@@ -931,7 +941,7 @@ export default function Header() {
                           {subOpen && clubs?.map((club) => (
                             <Link prefetch={false}
                               key={club}
-                              href={`/stories?team=${encodeURIComponent(teamSlug(club))}`}
+                              href={teamHref(league.label, club)}
                               className="flex items-center gap-2 text-[13px] text-gray-medium hover:text-orange transition-colors py-1"
                               onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
                             >

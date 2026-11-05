@@ -18,6 +18,10 @@ export const metadata: Metadata = {
 
 const ORDER = ["NFL", "CFB", "NBA", "NHL", "MLB"];
 const LEAGUE_NAME: Record<string, string> = { CFB: "College Football" };
+const LEAGUE_LOGO: Record<string, string> = {
+  NFL: "/logos/leagues/nfl.png", CFB: "/logos/leagues/college-football.svg", NBA: "/logos/leagues/nba.png",
+  NHL: "/logos/leagues/nhl.png", MLB: "/logos/leagues/mlb.png",
+};
 
 type Matchup = { league: string; away?: MyTeamCard; home: MyTeamCard };
 
@@ -70,7 +74,9 @@ export default async function TonightPage() {
         <p className="text-[15px] mt-1 mb-4">Every game today and what both teams are wearing. Tap a team for its page.</p>
         <div className="flex gap-2 mb-6 overflow-x-auto">
           {leagues.map((l) => (
-            <a key={l} href={`#${l.toLowerCase()}`} className="shrink-0 rounded-full border border-border px-4 py-1.5 font-display text-[13px] font-extrabold">
+            <a key={l} href={`#${l.toLowerCase()}`} className="shrink-0 rounded-full border border-border pl-2 pr-4 py-1.5 font-display text-[13px] font-extrabold flex items-center gap-1.5">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={LEAGUE_LOGO[l]} alt="" className="w-5 h-5 object-contain" />
               {LEAGUE_NAME[l] ?? l} · {games.filter((g) => g.league === l).length}
             </a>
           ))}
@@ -78,7 +84,11 @@ export default async function TonightPage() {
         {!games.length && <p className="font-display font-black text-[20px]">No games today. Check back tomorrow.</p>}
         {leagues.map((l) => (
           <section key={l} id={l.toLowerCase()} className="mb-8">
-            <div className={`${LABEL} border-b-2 border-black pb-2 mb-4`}>{LEAGUE_NAME[l] ?? l}</div>
+            <div className={`${LABEL} border-b-2 border-black pb-2 mb-4 flex items-center gap-2.5`}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={LEAGUE_LOGO[l]} alt="" className="w-8 h-8 object-contain" />
+              {LEAGUE_NAME[l] ?? l}
+            </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
               {games.filter((g) => g.league === l).map((g) => (
                 <div key={g.home.id + (g.away?.id ?? "")} className="rounded-2xl border border-border p-3 flex items-start gap-2">
