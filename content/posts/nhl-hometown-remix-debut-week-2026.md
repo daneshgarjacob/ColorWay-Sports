@@ -9,6 +9,7 @@ author: "jake-daneshgar"
 coverImage: "/images/posts/nhl-hometown-remix-debut-week-2026/cover.jpg"
 coverImagePosition: "center 40%"
 kicker: Debut Week
+homepageHero: "2026-11-04"
 league: "nhl"
 teams: ["pittsburgh-penguins", "montreal-canadiens", "philadelphia-flyers", "columbus-blue-jackets", "buffalo-sabres", "los-angeles-kings", "seattle-kraken", "edmonton-oilers", "new-york-islanders", "utah-mammoth"]
 ---

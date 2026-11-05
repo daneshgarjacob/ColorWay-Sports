@@ -297,15 +297,13 @@ const leagues: NavLeague[] = [
 
 // "Home" is deliberately absent: the ColorWay Sports wordmark is the home link.
 const navLinks = [
-  // Jake 11/4, ESPN-style: tonight's games and your teams (each club's page is
-  // in the league menus).
-  { label: "Tonight", href: "/tonight" },
+  // Same order as the homepage (Jake 11/4): your teams, what's new, tonight.
+  // Each club's page is in the league menus. Stories left the top nav 9/30
+  // (sportslogos.net model); "Latest" (/news) now holds the newest stories
+  // and The Wire, and /stories is still reached from there and the footer.
   { label: "My Teams", href: "/my-teams" },
-  // Stories left the top nav 9/30 (Jake: the sportslogos.net model, league rail
-  // + search, no catch-all "Stories" link). /stories and every /stories/<slug>
-  // URL are untouched; the league rail, search and footer still reach them.
-  // Jake 11/4: "Latest" = newest stories + The Wire on one page (/news).
   { label: "Latest", href: "/news" },
+  { label: "Tonight", href: "/tonight" },
   { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },
 ];
@@ -633,7 +631,7 @@ export default function Header() {
             a fan goes most, one tap from every page. Not pinned to the bottom of
             the screen, where Mediavine's sticky phone ad lives. */}
         <nav className="lg:hidden bg-white border-t border-black/[0.06] flex justify-around h-[40px] items-stretch">
-          {[{ label: "Home", href: "/" }, { label: "Tonight", href: "/tonight" }, { label: "My Teams", href: "/my-teams" }].map((l) => (
+          {[{ label: "Home", href: "/" }, { label: "My Teams", href: "/my-teams" }, { label: "Latest", href: "/news" }, { label: "Tonight", href: "/tonight" }].map((l) => (
             <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#14223f]" style={{ fontFamily: "var(--font-display)" }}>
               {l.label}
             </Link>

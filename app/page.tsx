@@ -1,7 +1,7 @@
 import Header from "@/components/Header";
 import StoryCard from "@/components/StoryCard";
-import { LeadStory, JakesTakes } from "@/components/home/HomeRefresh";
-import { getJakesTakes, latestStandsDate, standsPhotoFor, standsPool } from "@/lib/homeToday";
+import { LeadStory, LatestRail } from "@/components/home/HomeRefresh";
+import { latestStandsDate, standsPhotoFor, standsPool } from "@/lib/homeToday";
 import { MyTeamsRow, TeamPicker } from "@/components/home/MyTeams";
 import { getMyTeamCards } from "@/lib/myTeams";
 import { tonightMatchups } from "@/lib/tonight";
@@ -184,9 +184,13 @@ export default async function Home() {
     // said its cover is good enough for the homepage (his call, so the top four
     // carry two generated graphics today: Dieter + the tracker). Oregon drops to
     // the third card so it does not vanish from the page.
-    { slug: "dieter-ruehle-returns-lakers-organist-2026", pinned: "2026-10-09" },
+    // 11/4 (Jake): lead = Remix debut week (Penguins photo). Cards = Chargers
+    // Jake's Fix (team photo), the NFL tracker (the one ColorWay graphic), and
+    // Kentucky's Ice Whites (team photo, at Tennessee Saturday). Week 9's cover
+    // is our graphic too, so it sits in the Latest column, not up here.
+    { slug: "chargers-should-make-super-chargers-full-time", pinned: "2026-11-04" },
     { slug: "nfl-uniform-tracker-2026", pinned: "2026-09-16", standing: true },
-    { slug: "oregon-origin-of-speed-uniforms-2026", pinned: "2026-10-09" },
+    { slug: "kentucky-ice-white-chrome-helmet-tennessee-2026", pinned: "2026-11-04" },
   ];
   // Jake 10/5: "I don't want that on the home screen." These never take an image
   // slot on the homepage (no Latest auto-fill, no More Stories thumbnail). A
@@ -296,7 +300,6 @@ export default async function Home() {
   ].slice(0, MORE_COUNT);
 
   // The self-updating pieces (homepage refresh, 10/5).
-  const takes = getJakesTakes(4, new Set([...heroSlugs, ...gridSlugs]));
   const standsPhoto = standsPhotoFor(todayEt, new Set([...heroSlugs, ...gridSlugs]));
   const standsPhotos = standsPool(new Set([...heroSlugs, ...gridSlugs]));
   const standsFresh = daysSince(latestStandsDate()) <= 7;
@@ -329,7 +332,8 @@ export default async function Home() {
           <section className="max-w-[1200px] mx-auto px-5 pt-6 pb-2">
             <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)] gap-8">
               <LeadStory post={heroPost} />
-              <JakesTakes takes={takes} jotd={jotd.entry} />
+              {/* Jake 11/4: the right column is "Latest", text only, every author. */}
+              <LatestRail jotd={jotd.entry} posts={byDateDesc.filter((p) => !heroSlugs.includes(p.slug) && !gridSlugs.has(p.slug)).slice(0, 5)} />
             </div>
           </section>
         )}
@@ -339,7 +343,7 @@ export default async function Home() {
           <section className="max-w-[1200px] mx-auto px-5 pt-8 pb-2">
             <div className="flex items-baseline justify-between mb-3">
               <h2 className="text-xs font-bold uppercase tracking-[0.25em] text-[#8A8F98]">
-                Latest Stories
+                Top Stories
               </h2>
               <Link prefetch={false}
                 href="/stories"

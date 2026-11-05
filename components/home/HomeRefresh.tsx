@@ -10,6 +10,13 @@ import type { Take, TonightLeague } from "@/lib/homeToday";
 // differently each morning without anyone pinning anything.
 
 function ago(when: string): string {
+  // Posts carry a bare date ("2026-11-04"), which parses as UTC midnight and
+  // read as "Yesterday" every evening in the US. Count calendar days in ET.
+  if (/^\d{4}-\d{2}-\d{2}$/.test(when)) {
+    const today = new Date().toLocaleDateString("en-CA", { timeZone: "America/New_York" });
+    const d = Math.round((Date.parse(today) - Date.parse(when)) / 86_400_000);
+    return d <= 0 ? "Today" : d === 1 ? "Yesterday" : `${d} days ago`;
+  }
   const mins = Math.max(1, Math.round((Date.now() - Date.parse(when)) / 60000));
   if (mins < 60) return `${mins}m ago`;
   const h = Math.round(mins / 60);
@@ -198,3 +205,45 @@ export function TonightStrip({ leagues }: { leagues: TonightLeague[] }) {
   );
 }
 
+
+/* ── Latest rail (Jake 11/4): JOTD on top, then the newest stories as text
+   (every author, byline kept), in the spot Jake's Takes held. ─────────────── */
+export function LatestRail({ posts, jotd }: { posts: PostMeta[]; jotd?: JotdEntry | null }) {
+  return (
+    <aside className="lg:border-l lg:border-border lg:pl-7">
+      {jotd && (
+        <Link prefetch={false} href="/jersey-of-the-day" className="group mb-6 flex gap-4 no-underline rounded-xl border border-border bg-white p-3">
+          <div className="relative w-[92px] shrink-0 aspect-[4/5] rounded-lg bg-[#f1f3f8] overflow-hidden">
+            <img src={jotd.image} alt={jotd.imageAlt} loading="lazy" decoding="async" className={`absolute inset-0 w-full h-full ${imgFitClass(jotd)}`} style={jotd.imagePosition ? { objectPosition: jotd.imagePosition } : undefined} />
+          </div>
+          <div className="min-w-0">
+            <p className="m-0 font-display text-[10px] font-extrabold uppercase tracking-[0.16em] text-orange">Jersey of the Day</p>
+            <p className="mt-1 mb-0 font-display text-[17px] font-extrabold text-black leading-tight group-hover:text-orange transition-colors">{jotd.jerseyName}</p>
+            <p className="mt-0.5 mb-0 text-[12px] font-semibold text-steel">{jotd.teamShort} &middot; {jotd.worn.matchup.split(",")[0]}</p>
+            <p className="mt-1.5 mb-0 text-[13px] text-[#3a3f47] leading-snug line-clamp-2">{jotd.why}</p>
+          </div>
+        </Link>
+      )}
+      <div className="flex items-center justify-between border-b-2 border-black pb-2">
+        <span className={`${LABEL} text-black`}>Latest</span>
+        <Link prefetch={false} href="/news" className="font-display text-[12px] font-extrabold text-orange">
+          All &rarr;
+        </Link>
+      </div>
+      <ol className="m-0 p-0 list-none">
+        {posts.map((p) => (
+          <li key={p.slug} className="border-b border-border py-4 last:border-b-0">
+            <Link prefetch={false} href={`/stories/${p.slug}`} className="group block no-underline">
+              <div className="flex items-center gap-2 text-[10px] font-extrabold uppercase tracking-[0.14em]">
+                <span style={{ color: leagueColor(p.category) }}>{p.category}</span>
+                <span className="text-steel">&middot; {p.kicker ?? "Story"} &middot; {ago(p.updatedDate ?? p.date)}</span>
+              </div>
+              <p className="m-0 mt-2 text-[15.5px] font-extrabold leading-snug text-black group-hover:text-orange line-clamp-3">{p.title}</p>
+              <p className="m-0 mt-1.5 text-[12px] font-semibold text-steel">By {getAuthor(p.author)?.name ?? "ColorWay Sports Staff"}</p>
+            </Link>
+          </li>
+        ))}
+      </ol>
+    </aside>
+  );
+}
