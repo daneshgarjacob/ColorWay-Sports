@@ -21,10 +21,10 @@ export default function AboutPage() {
               Google Images can't collect the header's inline SVG, so this img is
               what ranks for "ColorWay Sports logo". Keep the alt exactly this. */}
           <img
-            src="/brand/colorway-logo.jpg"
+            src="/brand/colorway-logo.png"
             alt="ColorWay Sports logo"
-            width={375}
-            height={89}
+            width={420}
+            height={59}
             className="mx-auto mb-8"
           />
           <p className="text-[11px] uppercase tracking-[0.2em] text-[#8A8F98] font-medium mb-3">
