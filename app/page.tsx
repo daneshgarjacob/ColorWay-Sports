@@ -333,7 +333,7 @@ export default async function Home() {
             <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)] gap-8">
               <LeadStory post={heroPost} />
               {/* Jake 11/4: the right column is "Latest", text only, every author. */}
-              <LatestRail jotd={jotd.entry} posts={byDateDesc.filter((p) => !heroSlugs.includes(p.slug) && !gridSlugs.has(p.slug)).slice(0, 5)} />
+              <LatestRail jotd={jotd.entry} posts={byDateDesc.filter((p) => !heroSlugs.includes(p.slug) && !gridSlugs.has(p.slug)).slice(0, 4)} />
             </div>
           </section>
         )}
