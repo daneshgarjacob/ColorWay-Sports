@@ -32,7 +32,7 @@ export default function Footer() {
       <div className="max-w-[1200px] mx-auto px-5 py-12 flex flex-col items-center text-center">
         {/* Logo — stacked, centered badge: flag icon on top of the wordmark + tagline (matches the social lockup) */}
         <div className="flex flex-col items-center mb-1">
-          <svg width="52" height="52" viewBox="0 0 100 100" className="shrink-0 mb-2.5" aria-hidden="true">
+          <svg width="52" height="52" viewBox="0 0 100 100" className="shrink-0 mb-0.5" aria-hidden="true">
             <circle cx="50" cy="50" r="37" fill="none" stroke="#ffffff" strokeWidth="2.6" />
             <circle cx="50" cy="50" r="31" fill="none" stroke="#ffffff" strokeWidth="1" opacity="0.45" />
             <g transform="translate(0,3)">
