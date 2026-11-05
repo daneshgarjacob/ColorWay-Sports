@@ -75,28 +75,30 @@ export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPage
             <Link
               prefetch={false}
               href={teamPages ? teamPage(t.id) : t.href}
-              className="flex gap-2.5 items-center rounded-xl p-2 sm:p-2.5 text-white h-full"
-              style={{ background: `linear-gradient(120deg, #0A1733 0%, ${t.color} 170%)` }}
+              className="flex gap-2.5 items-center rounded-xl p-2 sm:p-2.5 h-full bg-white border border-border hover:border-black/25 transition-colors"
+              // Plain white card with the club's color as a left stripe, like the
+              // site's story cards (Jake 11/4: the dark gradient read as AI).
+              style={{ borderLeft: `5px solid ${t.color === "#0A1733" ? "#003087" : t.color}` }}
             >
-              <div className="w-[48px] h-[56px] sm:w-[58px] sm:h-[68px] shrink-0 rounded-lg bg-white flex items-center justify-center overflow-hidden">
+              <div className="w-[48px] h-[56px] sm:w-[58px] sm:h-[68px] shrink-0 rounded-lg bg-[#f4f6f9] flex items-center justify-center overflow-hidden">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={t.next?.img ?? t.logo} alt="" className={t.next?.img ? "w-[90%] h-[90%] object-contain" : "w-[70%] h-[70%] object-contain"} />
               </div>
               <div className="min-w-0">
-                <div className="flex items-center gap-1 text-[9px] font-black tracking-[0.14em] uppercase text-sky truncate">
+                <div className="flex items-center gap-1 text-[9px] font-black tracking-[0.14em] uppercase text-steel truncate">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img src={t.logo} alt="" className="w-3.5 h-3.5 object-contain" />
                   {t.nickname} · {t.league}
                 </div>
                 {t.next ? (
                   <>
-                    <div className="font-display font-black text-[14px] sm:text-[15px] leading-tight mt-0.5 truncate">{t.next.look}</div>
-                    <div className="text-[11px] text-white/75 mt-0.5 truncate">
+                    <div className="font-display font-black text-[14px] sm:text-[15px] leading-tight mt-0.5 truncate text-black">{t.next.look}</div>
+                    <div className="text-[11px] text-gray-medium mt-0.5 truncate">
                       {t.next.when} · {t.next.opp}
                     </div>
                                       </>
                 ) : (
-                  <div className="font-display font-black text-[14px] leading-tight mt-0.5">{t.note}</div>
+                  <div className="font-display font-black text-[14px] leading-tight mt-0.5 text-black">{t.note}</div>
                 )}
                               </div>
             </Link>

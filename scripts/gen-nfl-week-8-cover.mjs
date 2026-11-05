@@ -96,7 +96,7 @@ comps.push({ input: Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="
 
 const wmWhite = await sharp('public/brand/colorway-sports-logo-white.png').resize({ height: 30 }).toBuffer();
 const wmMeta = await sharp(wmWhite).metadata();
-const wm = await sharp({ create: { width: wmMeta.width, height: wmMeta.height, channels: 4, background: BRAND } })
+const wm = await sharp({ create: { width: wmMeta.width, height: wmMeta.height, channels: 4, background: '#003087' /* site navy, Jake 11/4 */ } })
   .composite([{ input: wmWhite, blend: 'dest-in' }]).png().toBuffer();
 comps.push({ input: wm, left: M, top: 935 });
 

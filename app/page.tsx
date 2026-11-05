@@ -357,6 +357,8 @@ export default async function Home() {
           </section>
         )}
 
+        {/* Jake 11/4: a rule between Latest Stories and Tonight's Uniforms. */}
+        <div className="max-w-[1200px] mx-auto px-5 pt-8"><hr className="border-black/15" /></div>
         <TonightRow games={tonightGames} label={todayLong.split(",")[0]} />
 
         <TeamPicker teams={myTeamCards} />
