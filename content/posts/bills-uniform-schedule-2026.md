@@ -2,7 +2,7 @@
 title: "Bills Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-04"
+updatedDate: "2026-11-05"
 excerpt: "Every confirmed 2026 Bills uniform: two Nickel City games, Cold Front against Miami, a red alternate finale, the A+ red helmet on Christmas Day, and the fan-voted red end zones for the opener."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-uniform-schedule-2026/cover.jpg"
@@ -163,7 +163,7 @@ How does every one of these jerseys stack up? See our [Bills jerseys 2026 rankin
 
 **What jersey are the Bills wearing today?**
 
-Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
+**Week 9 (Monday, November 9, 8:15 p.m. ET at Minnesota, Monday Night Football on ESPN):** the Bills wear the white helmet, white jersey and white pants with blue socks, confirmed by the team's "Monday Night Threads" uniform graphic. The Vikings wear purple over white pants. This answer updates every week. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
 
 **What color are the Bills end zones for the home opener?**
 
@@ -171,7 +171,7 @@ Red. Bills Mafia voted for red end zones in an official poll posted by team COO 
 
 **What jerseys are the Bills wearing this week?**
 
-Week 6 at Las Vegas, October 18, worn: white helmet and white jersey with royal blue pants, not the all-white look we had projected. The Raiders wore black over silver pants for their Crucial Catch game, and Buffalo won 33-30. We grade the matchup a B+. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
+**Week 9 (Monday, November 9, 8:15 p.m. ET at Minnesota, Monday Night Football on ESPN):** the Bills wear the white helmet, white jersey and white pants with blue socks, confirmed by the team's "Monday Night Threads" uniform graphic. The Vikings wear purple over white pants. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
 
 **What uniform did the Bills wear last week?**
 

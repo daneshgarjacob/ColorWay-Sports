@@ -3,7 +3,7 @@ topViewsRank: 1
 title: "Chicago Bears Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-12"
-updatedDate: "2026-10-26"
+updatedDate: "2026-11-05"
 excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 coverImage: "/images/posts/bears-uniform-schedule-2026/cover.jpg"
@@ -130,11 +130,11 @@ How does every one of these jerseys stack up? See our [Bears jerseys 2026 rankin
 
 **What jersey are the Bears wearing today?**
 
-Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
+**Week 9 (Sunday, November 8, 8:20 p.m. ET vs. Tampa Bay, Sunday Night Football on NBC):** we expect the navy helmet and navy jersey at Soldier Field. Chicago has not posted its game-week look yet. The Buccaneers have confirmed the pewter helmet, white jersey and pewter pants. This answer updates every week. For the rest of the season: Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
 
 **What jerseys are the Bears wearing this week?**
 
-Week 7 against New England on Thursday Night Football, October 22, worn: navy helmet, navy jersey and white pants. The Patriots wore white over white pants, and Chicago won 30-24. We grade the matchup a B. For the rest of the season: Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
+**Week 9 (Sunday, November 8, 8:20 p.m. ET vs. Tampa Bay, Sunday Night Football on NBC):** we expect the navy helmet and navy jersey at Soldier Field. Chicago has not posted its game-week look yet. The Buccaneers have confirmed the pewter helmet, white jersey and pewter pants. For the rest of the season: Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
 
 **What uniform did the Bears wear last week?**
 

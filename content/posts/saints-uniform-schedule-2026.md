@@ -133,11 +133,11 @@ How does every one of these jerseys stack up? See our [Saints jerseys 2026 ranki
 
 **What jersey are the Saints wearing today?**
 
-Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. Cleveland, CBS):** the Saints wear the black helmet, gold jersey, gold pants and black socks, confirmed by the team's game-week uniform graphic. It is their only gold-jersey game of the season. We expect the Browns in white. This answer updates every week. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
 
 **What jerseys are the Saints wearing this week?**
 
-Week 7 against Pittsburgh in Paris, October 25, as the designated home team, worn: gold helmet, black jersey and gold pants. The Steelers wore white over black pants, and Pittsburgh won 16-10. We grade the matchup a B-. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. Cleveland, CBS):** the Saints wear the black helmet, gold jersey, gold pants and black socks, confirmed by the team's game-week uniform graphic. It is their only gold-jersey game of the season. We expect the Browns in white. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
 
 **What uniform did the Saints wear last week?**
 

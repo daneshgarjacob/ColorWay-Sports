@@ -2,7 +2,7 @@
 title: "Atlanta Falcons Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-05"
 excerpt: "The Falcons wear the 1966 throwback, red helmet and black jersey, in Week 7 vs the 49ers and Week 13 vs the Lions. The full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #A71930 0%, #6b0f1e 55%, #000000 130%)"
 coverImage: "/images/posts/falcons-uniform-schedule-2026/cover.jpg"
@@ -136,11 +136,11 @@ How does every one of these jerseys stack up? See our [Falcons jerseys 2026 rank
 
 **What jersey are the Falcons wearing today?**
 
-Red if Atlanta is at home, white if they are on the road, except red at New Orleans in Week 4 and at Tampa Bay in Week 8. Red became the primary home jersey with the 2026 redesign.
+**Week 9 (Sunday, November 8, 9:30 a.m. ET vs. Cincinnati in Madrid, NFL Network):** Atlanta is the designated home team at the Bernabéu and wears the black helmet, red jersey and white pants, the assignment the team published September 10. We expect the Bengals in white. This answer updates every week. For the rest of the season: Red if Atlanta is at home, white if they are on the road, except red at New Orleans in Week 4 and at Tampa Bay in Week 8. Red became the primary home jersey with the 2026 redesign.
 
 **What jerseys are the Falcons wearing this week?**
 
-Week 8 at Tampa Bay, Sunday, November 1, confirmed by the team: black helmet, red jersey, white pants. We expect the Buccaneers in white at home. Last week, Week 7 against San Francisco, October 25, worn: the 1966 throwback, red helmet, black jersey and white pants. The 49ers wore white over gold pants, and Atlanta won 29-20. We grade the matchup an A-. For the rest of the season: check whether Atlanta is home or away in the grid above. Home is red, away is white, with red on the road at New Orleans in Week 4 and Tampa Bay in Week 8.
+**Week 9 (Sunday, November 8, 9:30 a.m. ET vs. Cincinnati in Madrid, NFL Network):** Atlanta is the designated home team at the Bernabéu and wears the black helmet, red jersey and white pants, the assignment the team published September 10. We expect the Bengals in white. For the rest of the season: Red if Atlanta is at home, white if they are on the road, except red at New Orleans in Week 4 and at Tampa Bay in Week 8. Red became the primary home jersey with the 2026 redesign.
 
 **What uniform did the Falcons wear last week?**
 

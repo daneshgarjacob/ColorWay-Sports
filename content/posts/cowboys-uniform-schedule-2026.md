@@ -2,7 +2,7 @@
 title: "Cowboys Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-10-19"
+updatedDate: "2026-11-05"
 excerpt: "The Cowboys published their 2026 uniform schedule: white ten times, navy three, the all-white Color Rush three, and the Thanksgiving Classic against Philadelphia."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
@@ -125,11 +125,11 @@ How does every one of these jerseys stack up? See our [Cowboys jerseys 2026 rank
 
 **What jersey are the Cowboys wearing today?**
 
-White in ten of the seventeen games, and the team has published the full list. The exceptions are navy at Houston in Week 4, at Indianapolis in Week 9 and at the Rams in Week 15; the all-white Color Rush against Washington in Week 2, at Philadelphia in Week 7 and against Jacksonville in Week 16; and the Thanksgiving Classic against the Eagles in Week 12. The week-by-week grid above has every date.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET at Indianapolis, FOX):** the Cowboys wear the navy jersey under the silver helmet, confirmed on the full schedule Dallas published September 2. It is navy because the Colts wear their all-white White Out at home. This answer updates every week. For the rest of the season: White in ten of the seventeen games, and the team has published the full list. The exceptions are navy at Houston in Week 4, at Indianapolis in Week 9 and at the Rams in Week 15; the all-white Color Rush against Washington in Week 2, at Philadelphia in Week 7 and against Jacksonville in Week 16; and the Thanksgiving Classic against the Eagles in Week 12. The week-by-week grid above has every date.
 
 **What jerseys are the Cowboys wearing this week?**
 
-Check the grid above: every week is assigned. If the week is not one of the seven marked with a ★, Dallas is in the standard white jersey, at home or on the road.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET at Indianapolis, FOX):** the Cowboys wear the navy jersey under the silver helmet, confirmed on the full schedule Dallas published September 2. It is navy because the Colts wear their all-white White Out at home. For the rest of the season: White in ten of the seventeen games, and the team has published the full list. The exceptions are navy at Houston in Week 4, at Indianapolis in Week 9 and at the Rams in Week 15; the all-white Color Rush against Washington in Week 2, at Philadelphia in Week 7 and against Jacksonville in Week 16; and the Thanksgiving Classic against the Eagles in Week 12. The week-by-week grid above has every date.
 
 **What uniform did the Cowboys wear last week?**
 

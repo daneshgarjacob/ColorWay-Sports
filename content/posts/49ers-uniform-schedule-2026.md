@@ -2,7 +2,7 @@
 title: "49ers Jerseys & Uniforms 2026: Schedule and 1994 Throwback Dates"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-10-26"
+updatedDate: "2026-11-05"
 excerpt: "The 49ers' 2026 uniform schedule is set: the fan-favorite 1994 throwbacks come out three times, and the polarizing all-black Rivalries returns in Week 14 against the Rams."
 gradient: "linear-gradient(135deg, #AA0000 0%, #1d1d1d 55%, #B3995D 130%)"
 cardStyle: words
@@ -106,11 +106,11 @@ How does every one of these jerseys stack up? See our [49ers jerseys 2026 rankin
 
 **What jersey are the 49ers wearing today?**
 
-Scarlet at home and white on the road for most of the season, including a five-game run of road whites. Four dates are different: the red 1994 throwback at Dallas in Week 10 and at home against Philadelphia in Week 17, the white 1994 throwback on Thursday night against the Chargers in Week 15, and the all-black Rivalries uniform at home against the Rams in Week 14.
+**Week 9 (Sunday, November 8, 4:25 p.m. ET vs. Las Vegas, FOX):** we expect the scarlet home jersey. San Francisco has not posted its game-week combination yet. The Raiders are expected in white. This answer updates every week. For the rest of the season: Scarlet at home and white on the road for most of the season, including a five-game run of road whites. Four dates are different: the red 1994 throwback at Dallas in Week 10 and at home against Philadelphia in Week 17, the white 1994 throwback on Thursday night against the Chargers in Week 15, and the all-black Rivalries uniform at home against the Rams in Week 14.
 
 **What jerseys are the 49ers wearing this week?**
 
-Week 7 at Atlanta, October 25, worn: gold helmet, white jersey and gold pants. The Falcons wore their 1966 throwback, red helmet, black jersey and white pants, and Atlanta won 29-20. We grade the matchup an A-. For the rest of the season: Scarlet at home and white on the road for most of the season, including a five-game run of road whites. Four dates are different: the red 1994 throwback at Dallas in Week 10 and at home against Philadelphia in Week 17, the white 1994 throwback on Thursday night against the Chargers in Week 15, and the all-black Rivalries uniform at home against the Rams in Week 14.
+**Week 9 (Sunday, November 8, 4:25 p.m. ET vs. Las Vegas, FOX):** we expect the scarlet home jersey. San Francisco has not posted its game-week combination yet. The Raiders are expected in white. For the rest of the season: Scarlet at home and white on the road for most of the season, including a five-game run of road whites. Four dates are different: the red 1994 throwback at Dallas in Week 10 and at home against Philadelphia in Week 17, the white 1994 throwback on Thursday night against the Chargers in Week 15, and the all-black Rivalries uniform at home against the Rams in Week 14.
 
 **What uniform did the 49ers wear last week?**
 

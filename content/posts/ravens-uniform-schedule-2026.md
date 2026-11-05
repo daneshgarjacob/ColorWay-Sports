@@ -3,7 +3,7 @@ topViewsRank: 6
 title: "Baltimore Ravens Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-29"
+updatedDate: "2026-11-05"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -148,7 +148,7 @@ How does every one of these jerseys stack up? See our [Ravens jerseys 2026 ranki
 
 **What jersey are the Ravens wearing today?**
 
-Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
+**Week 9 (Thursday, November 5, 8:15 p.m. ET vs. Jacksonville, Thursday Night Football on Prime Video):** the Ravens wear Purple Rising, the purple jersey, purple pants and the new Purple Rising helmet, confirmed by the team. The Jaguars have confirmed the black helmet, white jersey and white pants. Week 10 against the Chargers on Monday Night Football is the all-black Darkness Falls debut. This answer updates every week. For the rest of the season: Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
 
 **What is the Ravens White Noise uniform?**
 
@@ -156,7 +156,7 @@ A white home look from the Next Flight collection: white jersey, white pants and
 
 **What jerseys are the Ravens wearing this week?**
 
-Week 8 at Buffalo, Sunday, November 1, 1:00 p.m. ET on CBS, confirmed by the Ravens: **black primary helmet, white jersey, white pants and white socks**. It is the first time this season Baltimore has gone white on white on the road; the opener at Indianapolis used black pants. The Bills wear their royal blue primary for Native American Heritage day.
+**Week 9 (Thursday, November 5, 8:15 p.m. ET vs. Jacksonville, Thursday Night Football on Prime Video):** the Ravens wear Purple Rising, the purple jersey, purple pants and the new Purple Rising helmet, confirmed by the team. The Jaguars have confirmed the black helmet, white jersey and white pants. Week 10 against the Chargers on Monday Night Football is the all-black Darkness Falls debut. For the rest of the season: Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2115886995683852488"></a></blockquote>

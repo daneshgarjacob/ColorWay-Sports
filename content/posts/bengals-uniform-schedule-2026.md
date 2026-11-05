@@ -3,7 +3,7 @@ topViewsRank: 2
 title: "Bengals Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-27"
+updatedDate: "2026-11-05"
 excerpt: "Every Bengals jersey for 2026, week by week. The all-white White Bengal comes out at home in Week 10 vs. Pittsburgh on SNF, and New Year's Eve is White Bengal Stripe night."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"
@@ -113,11 +113,11 @@ How does every one of these jerseys stack up? See our [Bengals jerseys 2026 rank
 
 **What jersey are the Bengals wearing today?**
 
-Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
+**Week 9 (Sunday, November 8, 9:30 a.m. ET at Atlanta in Madrid, NFL Network):** we expect the white jersey under the striped orange helmet, because the Falcons are the designated home team at the Bernabéu and wear red. Cincinnati has not posted its game-week look yet. This answer updates every week. For the rest of the season: Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
 
 **What jerseys are the Bengals wearing this week?**
 
-Week 7 at Baltimore, October 25, worn: orange helmet, white jersey and white pants, not the black pants we had projected. The Ravens wore purple over purple pants, and Cincinnati won 35-13. We grade the matchup a B. For the rest of the season: Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
+**Week 9 (Sunday, November 8, 9:30 a.m. ET at Atlanta in Madrid, NFL Network):** we expect the white jersey under the striped orange helmet, because the Falcons are the designated home team at the Bernabéu and wear red. Cincinnati has not posted its game-week look yet. For the rest of the season: Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
 
 **What uniform did the Bengals wear last week?**
 

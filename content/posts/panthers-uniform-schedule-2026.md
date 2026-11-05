@@ -2,7 +2,7 @@
 title: "Carolina Panthers Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-05"
 excerpt: "Carolina published its 2026 jersey schedule: black six times at home, Panther blue three, white on every road trip. The full week-by-week, confirmed."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
@@ -114,11 +114,11 @@ How does every one of these jerseys stack up? See our [Panthers jerseys 2026 ran
 
 **What jersey are the Panthers wearing today?**
 
-Check the grid above, because Carolina has now published all seventeen games. Black at home in Weeks 4, 9, 11, 15, 17 and 18, Panther blue at home in Weeks 1, 7 and 14, and white in all eight road games. Pants and socks are still announced closer to kickoff.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. Denver, CBS):** the Panthers wear the black jersey, assigned to this game on the full schedule Carolina published September 4. Pants and socks are announced closer to kickoff. The Broncos are scheduled in Summit White. This answer updates every week. For the rest of the season: Check the grid above, because Carolina has now published all seventeen games. Black at home in Weeks 4, 9, 11, 15, 17 and 18, Panther blue at home in Weeks 1, 7 and 14, and white in all eight road games. Pants and socks are still announced closer to kickoff.
 
 **What jerseys are the Panthers wearing this week?**
 
-Week 8 at Green Bay on Thursday Night Football, October 29, worn: **silver helmet, white jersey, white pants and blue socks**. Green Bay wore its gold helmet, green jersey and gold pants, and the Packers won 27-19. We grade the matchup a B+.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. Denver, CBS):** the Panthers wear the black jersey, assigned to this game on the full schedule Carolina published September 4. Pants and socks are announced closer to kickoff. The Broncos are scheduled in Summit White. For the rest of the season: Check the grid above, because Carolina has now published all seventeen games. Black at home in Weeks 4, 9, 11, 15, 17 and 18, Panther blue at home in Weeks 1, 7 and 14, and white in all eight road games. Pants and socks are still announced closer to kickoff.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Panthers/status/2115497115115983341"></a></blockquote>

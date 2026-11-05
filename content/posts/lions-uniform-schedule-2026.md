@@ -3,7 +3,7 @@ topViewsRank: 3
 title: "Detroit Lions Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-26"
+updatedDate: "2026-11-05"
 excerpt: "Detroit debuts its Rivalries uniform on November 1 against the Vikings. Here is the full 2026 Lions jersey schedule, week by week, with Munich and Thanksgiving explained."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 coverImage: "/images/posts/lions-uniform-schedule-2026/cover.jpg"
@@ -153,11 +153,11 @@ How does every one of these jerseys stack up? See our [Lions jerseys 2026 rankin
 
 **What jersey are the Lions wearing today?**
 
-Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET at Miami, FOX):** we expect Honolulu blue, the one road game where Detroit stays in blue, because the Dolphins wear white at home. Detroit has not posted its game-week look yet. This answer updates every week. For the rest of the season: Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
 
 **What jerseys are the Lions wearing this week?**
 
-Week 7 against Green Bay, October 25, worn: the black alternate with black pants under the blue helmet. The Packers wore white over gold pants, and Detroit won 20-17. We grade the matchup a B. For the rest of the season: Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET at Miami, FOX):** we expect Honolulu blue, the one road game where Detroit stays in blue, because the Dolphins wear white at home. Detroit has not posted its game-week look yet. For the rest of the season: Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
 
 **What uniform did the Lions wear last week?**
 

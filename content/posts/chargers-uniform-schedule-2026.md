@@ -2,7 +2,7 @@
 title: "Chargers Jerseys & Uniforms 2026: What They're Wearing This Week"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-05"
 excerpt: "The Chargers released the full 2026 uniform schedule: every jersey and pants combo for all 17 games, from powder blue at home to the Super Chargers navy nights."
 gradient: "linear-gradient(135deg, #0080C6 0%, #00477e 55%, #001a37 130%)"
 coverImage: "/images/posts/chargers-uniform-schedule-2026/cover.jpg"
@@ -124,11 +124,11 @@ How does every one of these jerseys stack up? See our [Chargers jerseys 2026 ran
 
 **What jersey are the Chargers wearing today?**
 
-Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
+**Week 9 (Sunday, November 8, 4:05 p.m. ET vs. Houston, CBS):** the Chargers wear the all-navy Super Chargers set, the first of its three dates this season, confirmed on the schedule the team published September 1. The Texans have confirmed the navy helmet, white jersey and white pants. This answer updates every week. For the rest of the season: Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
 
 **What jerseys are the Chargers wearing this week?**
 
-Week 8 at the Rams, Sunday, November 1, confirmed by the team: white helmet, white jersey, white pants and powder blue socks. The Rams, the home team at SoFi, wear royal over Sol pants. Two weeks ago, Week 6 at Kansas City, October 18, worn: white helmet, white jersey and gold pants, as the published schedule said. The Chiefs wore red over white pants for their Crucial Catch game, and Kansas City won 22-6. We grade the matchup an A. For the rest of the season: Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
+**Week 9 (Sunday, November 8, 4:05 p.m. ET vs. Houston, CBS):** the Chargers wear the all-navy Super Chargers set, the first of its three dates this season, confirmed on the schedule the team published September 1. The Texans have confirmed the navy helmet, white jersey and white pants. For the rest of the season: Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
 
 **What uniform did the Chargers wear last week?**
 

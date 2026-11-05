@@ -3,7 +3,7 @@ topViewsRank: 11
 title: "Pittsburgh Steelers Jerseys & Uniforms 2026: Full Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-10-26"
+updatedDate: "2026-11-05"
 excerpt: "The Steelers are bringing back the 1933 throwback, and we have it on Black Friday against Denver. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -114,11 +114,11 @@ How does every one of these jerseys stack up? See our [Steelers jerseys 2026 ran
 
 **What jersey are the Steelers wearing today?**
 
-Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
+**Week 9:** the Steelers are on bye. **Week 10 (Sunday, November 15, 8:20 p.m. ET at Cincinnati, Sunday Night Football on NBC):** we expect the black jersey on the road, because the Bengals wear their White Bengal uniform at home that night. Pittsburgh has not posted its game-week look yet. This answer updates every week. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
 
 **What jerseys are the Steelers wearing this week?**
 
-Week 7 against New Orleans in Paris, October 25, worn: black helmet, white jersey and black pants, a new combination for Pittsburgh. The Saints, the designated home team, wore black over gold pants, and Pittsburgh won 16-10. We grade the matchup a B-. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
+**Week 9:** the Steelers are on bye. **Week 10 (Sunday, November 15, 8:20 p.m. ET at Cincinnati, Sunday Night Football on NBC):** we expect the black jersey on the road, because the Bengals wear their White Bengal uniform at home that night. Pittsburgh has not posted its game-week look yet. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
 
 **What uniform did the Steelers wear last week?**
 

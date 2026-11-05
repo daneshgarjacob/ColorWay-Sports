@@ -119,11 +119,11 @@ How does every one of these jerseys stack up? See our [Jets jerseys 2026 ranking
 
 **What jersey are the Jets wearing today?**
 
-Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET at Kansas City, CBS):** the Jets wear "White on Green," the green helmet, white jersey and green pants, confirmed by the team's game-week uniform graphic. We expect the Chiefs in red. This answer updates every week. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
 
 **What jerseys are the Jets wearing this week?**
 
-Week 8 against Las Vegas, Sunday, November 1, confirmed by the Jets: **green on green**, the green helmet with a white facemask, the green jersey with white numbers and green pants. It is the first time this season the Jets have paired the green jersey with green pants; against Cleveland in Week 5 they wore it over white pants.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET at Kansas City, CBS):** the Jets wear "White on Green," the green helmet, white jersey and green pants, confirmed by the team's game-week uniform graphic. We expect the Chiefs in red. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2115443769134678515"></a></blockquote>
 

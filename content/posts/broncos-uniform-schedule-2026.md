@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-10-31"
+updatedDate: "2026-11-05"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -217,11 +217,11 @@ How does every one of these jerseys stack up? See our [Broncos jerseys 2026 rank
 
 **What jersey are the Broncos wearing today?**
 
-Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET at Carolina, CBS):** Summit White, the jersey Denver assigned to this game in the full schedule it published before the season. The team has not posted its game-week helmet and pants yet. The Panthers are scheduled in black. This answer updates every week. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
 
 **What jerseys are the Broncos wearing this week?**
 
-Week 7 at Arizona, October 25, worn: navy helmet, Summit White jersey and navy pants, as announced. The Cardinals wore red over red pants, and Denver won 30-16. We grade the matchup a B. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET at Carolina, CBS):** Summit White, the jersey Denver assigned to this game in the full schedule it published before the season. The team has not posted its game-week helmet and pants yet. The Panthers are scheduled in black. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
 
 **What uniform did the Broncos wear last week?**
 

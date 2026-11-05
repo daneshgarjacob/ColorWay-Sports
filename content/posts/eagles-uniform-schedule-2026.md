@@ -2,7 +2,7 @@
 title: "Eagles Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-05"
 excerpt: "The Eagles confirmed all three alternates: Kelly Green in Week 9 against the Giants and Week 16 against the Texans, and the all-black set in Week 15 against Seattle."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
@@ -109,11 +109,11 @@ How does every one of these jerseys stack up? See our [Eagles jerseys 2026 ranki
 
 **What jersey are the Eagles wearing today?**
 
-Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. the Giants, FOX):** the Eagles wear Kelly Green, confirmed by the team on September 2. The Giants wear their Vintage White throwback, so both teams are in their 1980s looks. This answer updates every week. For the rest of the season: Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
 
 **What jerseys are the Eagles wearing this week?**
 
-Week 8 at Washington on Sunday Night Football, November 1, 8:20 p.m. ET on NBC, confirmed by the team: midnight green helmet, white jersey, midnight green pants and white socks. The Commanders wear burgundy over gold pants. Earlier, Week 6 against Carolina, October 18, worn: midnight green helmet, midnight green jersey and white pants. The Panthers wore white over black pants, and Carolina won 25-14. We grade the matchup a B. For the rest of the season: Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. the Giants, FOX):** the Eagles wear Kelly Green, confirmed by the team on September 2. The Giants wear their Vintage White throwback, so both teams are in their 1980s looks. For the rest of the season: Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
 
 **What uniform did the Eagles wear last week?**
 

@@ -2,7 +2,7 @@
 title: "Commanders Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-05"
 excerpt: "The Washington Commanders' full 2026 uniform schedule: white is the new primary, burgundy goes nine times, and the black Hail Raiser alternate drops twice. Every jersey, every week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -94,11 +94,11 @@ How does every one of these jerseys stack up? See our [Commanders jerseys 2026 r
 
 **What jersey are the Commanders wearing today?**
 
-Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. the Rams, FOX):** we expect the burgundy jersey at home. Washington has not posted its game-week combination yet. The Rams have confirmed the royal helmet, white jersey and royal pants. This answer updates every week. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
 
 **What jerseys are the Commanders wearing this week?**
 
-Week 8 against Philadelphia on Sunday Night Football, November 1, 8:20 p.m. ET on NBC, confirmed by the team's "Uniform Combo" post: burgundy jersey, gold pants and burgundy socks under the standard burgundy helmet. The Eagles wear white over midnight green pants. Before the Week 7 bye, Week 6 at San Francisco on Monday Night Football, October 19, worn: burgundy helmet, white jersey and gold pants, as announced. The 49ers wore scarlet over gold pants. San Francisco won 23-17. We grade the matchup a B+. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. the Rams, FOX):** we expect the burgundy jersey at home. Washington has not posted its game-week combination yet. The Rams have confirmed the royal helmet, white jersey and royal pants. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
 
 **What uniform did the Commanders wear last week?**
 

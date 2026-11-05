@@ -3,7 +3,7 @@ topViewsRank: 9
 title: "Seahawks Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-10-29"
+updatedDate: "2026-11-05"
 excerpt: "The Seahawks' 2026 uniform schedule: confirmed dates for two royal blue throwback games and the Christmas Day Rivalries jersey, plus the college navy and white sets."
 gradient: "linear-gradient(135deg, #0b3a6b 0%, #002244 55%, #000d1c 130%)"
 coverImage: "/images/posts/seahawks-uniform-schedule-2026/cover.jpg"
@@ -118,11 +118,11 @@ How does every one of these jerseys stack up? See our [Seahawks jerseys 2026 ran
 
 **What jersey are the Seahawks wearing today?**
 
-College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day. Seattle also wears the royal blue throwback on the road in Week 6 at Denver, with the Broncos in their orange classic throwback.
+**Week 9 (Sunday, November 8, 4:25 p.m. ET vs. Arizona, FOX):** we expect the college navy jersey at home. Seattle has not posted its game-week look yet. The Cardinals have confirmed all white, white helmet, white jersey and white pants. This answer updates every week. For the rest of the season: College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day. Seattle also wears the royal blue throwback on the road in Week 6 at Denver, with the Broncos in their orange classic throwback.
 
 **What jerseys are the Seahawks wearing this week?**
 
-Week 8 against Chicago on Monday Night Football, November 2, 8:15 p.m. ET on ESPN, confirmed by the Seahawks: **navy and grey**, the navy helmet, the college navy jersey with action green numbers and grey pants.
+**Week 9 (Sunday, November 8, 4:25 p.m. ET vs. Arizona, FOX):** we expect the college navy jersey at home. Seattle has not posted its game-week look yet. The Cardinals have confirmed all white, white helmet, white jersey and white pants. For the rest of the season: College Navy at home and white on the road, with three confirmed exceptions: the royal blue throwback in Week 7 against Kansas City and Week 13 against Dallas, and the Rivalries uniform in Week 16 against the Rams on Christmas Day. Seattle also wears the royal blue throwback on the road in Week 6 at Denver, with the Broncos in their orange classic throwback.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2115587643509723630"></a></blockquote>

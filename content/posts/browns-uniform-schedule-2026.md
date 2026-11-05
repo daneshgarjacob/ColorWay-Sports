@@ -3,7 +3,7 @@ title: "Cleveland Browns Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
 excerpt: "The Browns confirmed Alpha Dawg, all brown, for Thursday night against Pittsburgh. Here is the full 2026 jersey schedule, week by week."
-updatedDate: "2026-10-26"
+updatedDate: "2026-11-05"
 gradient: "linear-gradient(135deg, #311D00 0%, #5a3608 55%, #FF3C00 130%)"
 coverImage: "/images/posts/browns-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -123,11 +123,11 @@ How does every one of these jerseys stack up? See our [Browns jerseys 2026 ranki
 
 **What jersey are the Browns wearing today?**
 
-Brown if Cleveland is at Huntington Bank Field, white if they are on the road, except for the Alpha Dawg games: Week 4 against Pittsburgh (confirmed), Week 10 against Houston and Week 14 against Atlanta.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET at New Orleans, CBS):** we expect the orange helmet and the white road jersey. Cleveland has not posted its game-week look yet. The Saints have confirmed the black helmet, gold jersey and gold pants, their only gold-jersey game of the season. This answer updates every week. For the rest of the season: Brown if Cleveland is at Huntington Bank Field, white if they are on the road, except for the Alpha Dawg games: Week 4 against Pittsburgh (confirmed), Week 10 against Houston and Week 14 against Atlanta.
 
 **What jerseys are the Browns wearing this week?**
 
-Week 7 at Tennessee, October 25, worn: orange helmet, white jersey and brown pants, the first time in that combination since January 2024. The Titans wore Titans blue over white pants, and Cleveland won 27-24. We grade the matchup an A-. For the rest of the season: Brown if Cleveland is at Huntington Bank Field, white if they are on the road, except for the Alpha Dawg games: Week 4 against Pittsburgh (confirmed), Week 10 against Houston and Week 14 against Atlanta.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET at New Orleans, CBS):** we expect the orange helmet and the white road jersey. Cleveland has not posted its game-week look yet. The Saints have confirmed the black helmet, gold jersey and gold pants, their only gold-jersey game of the season. For the rest of the season: Brown if Cleveland is at Huntington Bank Field, white if they are on the road, except for the Alpha Dawg games: Week 4 against Pittsburgh (confirmed), Week 10 against Houston and Week 14 against Atlanta.
 
 **What uniform did the Browns wear last week?**
 

@@ -2,7 +2,7 @@
 title: "Kansas City Chiefs Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-10-26"
+updatedDate: "2026-11-05"
 excerpt: "The Chiefs 2026 uniform schedule: red at home, white on the road except red at Miami, no new alternate, and the one combination that passes for variety."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 cardStyle: words
@@ -81,11 +81,11 @@ How does every one of these jerseys stack up? See our [Chiefs jerseys 2026 ranki
 
 **What jersey are the Chiefs wearing today?**
 
-Red if Kansas City is at Arrowhead, white if they are on the road, with one exception: red at Miami in Week 3, since the Dolphins wear white at home. That is nearly the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. the Jets, CBS):** we expect the red home jersey at Arrowhead. Kansas City has not posted its game-week look yet. The Jets have confirmed the green helmet, white jersey and green pants. This answer updates every week. For the rest of the season: Red if Kansas City is at Arrowhead, white if they are on the road, with one exception: red at Miami in Week 3, since the Dolphins wear white at home. That is nearly the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
 
 **What jerseys are the Chiefs wearing this week?**
 
-Week 7 at Seattle on Sunday Night Football, October 25, worn: red helmet, white jersey and white pants. The Seahawks wore their royal blue throwback with the silver helmet and silver pants, and Seattle won 20-3. We grade the matchup an A. For the rest of the season: Red if Kansas City is at Arrowhead, white if they are on the road, with one exception: red at Miami in Week 3, since the Dolphins wear white at home. That is nearly the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. the Jets, CBS):** we expect the red home jersey at Arrowhead. Kansas City has not posted its game-week look yet. The Jets have confirmed the green helmet, white jersey and green pants. For the rest of the season: Red if Kansas City is at Arrowhead, white if they are on the road, with one exception: red at Miami in Week 3, since the Dolphins wear white at home. That is nearly the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
 
 **What uniform did the Chiefs wear last week?**
 

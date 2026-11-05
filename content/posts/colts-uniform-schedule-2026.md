@@ -2,7 +2,7 @@
 title: "Indianapolis Colts Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: "NFL"
 date: "2026-07-29"
-updatedDate: "2026-10-26"
+updatedDate: "2026-11-05"
 excerpt: "The Colts' 2026 alternate schedule: the new Anvil Strike Rivalries jersey debuts Week 3 vs the Texans, the White Out returns Week 9, and Indiana Nights closes Week 16."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -128,11 +128,11 @@ How does every one of these jerseys stack up? See our [Colts jerseys 2026 rankin
 
 **What jersey are the Colts wearing today?**
 
-Indianapolis has three confirmed alternate games, all at Lucas Oil Stadium: the new Rivalries jersey in Week 3 against Houston, the all-white White Out in Week 9 against Dallas, and Indiana Nights in Week 16 against Cincinnati. Every other week is the standard royal blue at home and white on the road, except Week 8 at Jacksonville and Week 11 at Houston, where the Colts wear royal blue on the road.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. Dallas, FOX):** the Colts wear the White Out, the white jersey with white pants, confirmed by the team. That puts the Cowboys in navy. This answer updates every week. For the rest of the season: Indianapolis has three confirmed alternate games, all at Lucas Oil Stadium: the new Rivalries jersey in Week 3 against Houston, the all-white White Out in Week 9 against Dallas, and Indiana Nights in Week 16 against Cincinnati. Every other week is the standard royal blue at home and white on the road, except Week 8 at Jacksonville and Week 11 at Houston, where the Colts wear royal blue on the road.
 
 **What jerseys are the Colts wearing this week?**
 
-Week 7 at Minnesota, October 25, worn: all white, white helmet, white jersey and white pants. The Vikings wore purple over white pants, and Minnesota won 16-10. We grade the matchup a B. For the rest of the season: Indianapolis has three confirmed alternate games, all at Lucas Oil Stadium: the new Rivalries jersey in Week 3 against Houston, the all-white White Out in Week 9 against Dallas, and Indiana Nights in Week 16 against Cincinnati. Every other week is the standard royal blue at home and white on the road, except Week 8 at Jacksonville and Week 11 at Houston, where the Colts wear royal blue on the road.
+**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. Dallas, FOX):** the Colts wear the White Out, the white jersey with white pants, confirmed by the team. That puts the Cowboys in navy. For the rest of the season: Indianapolis has three confirmed alternate games, all at Lucas Oil Stadium: the new Rivalries jersey in Week 3 against Houston, the all-white White Out in Week 9 against Dallas, and Indiana Nights in Week 16 against Cincinnati. Every other week is the standard royal blue at home and white on the road, except Week 8 at Jacksonville and Week 11 at Houston, where the Colts wear royal blue on the road.
 
 **What uniform did the Colts wear last week?**
 

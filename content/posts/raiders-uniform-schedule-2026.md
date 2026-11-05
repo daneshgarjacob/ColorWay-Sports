@@ -3,7 +3,7 @@ title: "Las Vegas Raiders Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
 excerpt: "The Raiders named no uniforms in their 2026 home themes. Here is the full jersey schedule: black at home, white on the road, classic white throwback at New England."
-updatedDate: "2026-10-26"
+updatedDate: "2026-11-05"
 gradient: "linear-gradient(135deg, #101820 0%, #3a3a3a 55%, #A5ACAF 130%)"
 coverImage: "/images/posts/raiders-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -98,11 +98,11 @@ How does every one of these jerseys stack up? See our [Raiders jerseys 2026 rank
 
 **What jersey are the Raiders wearing today?**
 
-Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The one exception is Week 5 at New England, where the Raiders wear the classic white throwback.
+**Week 9 (Sunday, November 8, 4:25 p.m. ET at San Francisco, FOX):** we expect the silver helmet and the white road jersey. Las Vegas has not posted its game-week look yet. We expect the 49ers in scarlet. This answer updates every week. For the rest of the season: Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The one exception is Week 5 at New England, where the Raiders wear the classic white throwback.
 
 **What jerseys are the Raiders wearing this week?**
 
-Week 7 against the Rams, October 25, worn: silver helmet, black jersey and silver pants. The Rams wore white over royal pants, and Los Angeles won 35-21. We grade the matchup a B+. For the rest of the season: Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The one exception is Week 5 at New England, where the Raiders wear the classic white throwback.
+**Week 9 (Sunday, November 8, 4:25 p.m. ET at San Francisco, FOX):** we expect the silver helmet and the white road jersey. Las Vegas has not posted its game-week look yet. We expect the 49ers in scarlet. For the rest of the season: Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The one exception is Week 5 at New England, where the Raiders wear the classic white throwback.
 
 **What uniform did the Raiders wear last week?**
 
