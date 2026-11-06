@@ -1,7 +1,5 @@
 import Link from "next/link";
 import { imgFitClass, type JotdEntry } from "@/lib/jerseyOfTheDay";
-import { AFFILIATE_DISCLOSURE, on } from "@/lib/affiliates";
-import { JotdShopLink } from "@/components/JerseyOfTheDay";
 import { leagueColor } from "@/lib/leagueColors";
 import type { PostMeta } from "@/lib/posts";
 import { getAuthor } from "@/lib/authors";
@@ -226,13 +224,8 @@ export function LatestRail({ posts, jotd }: { posts: PostMeta[]; jotd?: JotdEntr
               <p className="mt-1.5 mb-0 text-[13px] text-[#3a3f47] leading-snug line-clamp-2">{jotd.why}</p>
             </div>
           </Link>
-          {/* The buy link sits outside the card's link (no link inside a link). */}
-          {on("jotd") && jotd.shop !== false && (
-            <div className="mt-2.5 pt-2 border-t border-border">
-              <JotdShopLink entry={jotd} placement="home" className="text-[12.5px]" />
-              <p className="mt-0.5 mb-0 text-[10.5px] text-gray-light leading-snug">{AFFILIATE_DISCLOSURE}</p>
-            </div>
-          )}
+          {/* No buy link on the homepage card (Jake 11/5: looks distasteful here);
+              it lives on the Jersey of the Day page only. */}
         </div>
       )}
       <div className="flex items-center justify-between border-b-2 border-black pb-2">

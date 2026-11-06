@@ -159,7 +159,8 @@ function mlbCards(): MyTeamCard[] {
     const cap = (s: string) => s.split("-").map((w) => w[0].toUpperCase() + w.slice(1)).join(" ");
     out.push({
       id: `mlb:${m[1]}`, league: "MLB", name: cap(m[1]), nickname: cap(slug), logo: `/logos/teams/${f}`,
-      href: `/stories/${slug}-uniform-schedule-2026`, color: "#0A1733", note: "Back in spring",
+      href: `/stories/${slug}-uniform-schedule-2026`, note: "Back in spring",
+      color: postColor(fs.readFileSync(path.join(posts, `${slug}-uniform-schedule-2026.md`), "utf8")),
     });
   }
   return out;
@@ -221,6 +222,13 @@ function cfbGame(g: { date: string; opp: string; look: string }, team: string, t
   };
 }
 
+// The club's color for its card stripe: the first color in the post's cover
+// gradient, which every schedule post sets to the team's primary (Jake 11/5:
+// USC showed the default navy-blue stripe instead of cardinal).
+function postColor(text: string): string {
+  return text.slice(0, 1500).match(/^gradient: "[^"]*?(#[0-9a-fA-F]{6})/m)?.[1] ?? "#0A1733";
+}
+
 function cfbCards(now: Date, n: number): MyTeamCard[] {
   const posts = path.join(process.cwd(), "content", "posts");
   const out: MyTeamCard[] = [];
@@ -235,7 +243,7 @@ function cfbCards(now: Date, n: number): MyTeamCard[] {
     if (!team || !logo || !school) continue;
     const card: MyTeamCard = {
       id: `cfb:${team}`, league: "CFB", name: school, nickname: school, logo,
-      href: `/stories/${f.replace(/\.md$/, "")}`, color: "#0A1733",
+      href: `/stories/${f.replace(/\.md$/, "")}`, color: postColor(text),
     };
     out.push(withGames(card, cfbUpcoming(text, team, now, n), n));
   }
