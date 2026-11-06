@@ -50,7 +50,10 @@ That covers all 80 games the league has dated. The last two December dates wait 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiHEAT/status/2112224211242570222"></a></blockquote>
 </div>
 
-On **Wednesday, November 18**, the Heat host the Milwaukee Bucks as **"A Night in Vice City,"** a one-game promotion with Rockstar Games for the release of Grand Theft Auto VI the next day. The team says it will wear a new, completely reimagined uniform and play on a custom court built for that night only. The uniform itself has not been shown yet. The Heat's October 2 announcement graphic shows only the branding for the night: "A NIGHT IN Vice City" in glowing pink neon script over a dark court, "MILWAUKEE VS VICE CITY," the date, and the Grand Theft Auto VI, Miami HEAT, ESPN and Rockstar Games logos along the bottom. We will add the uniform here when the Heat reveal it.
+On **Wednesday, November 18**, the Heat host the Milwaukee Bucks as **"A Night in Vice City,"** a one-game promotion with Rockstar Games for the release of Grand Theft Auto VI the next day. The team says it will wear a new, completely reimagined uniform and play on a custom court built for that night only. **Revealed November 6:** the uniform is a Nike x Travis Scott Cactus Jack design, black with neon pink trim, a backwards Nike logo and six pink stars on the shorts. The players wear a version that says **HEAT**; the **"Vice City"** script version is the fan jersey, on sale that night. [Every detail of the Heat's Vice City uniforms, and our grade](/stories/miami-heat-vice-city-jerseys-gta-6-2026).
+
+<img src="/images/posts/miami-heat-vice-city-jerseys-gta-6-2026/both-jerseys.jpg" alt="Miami Heat Vice City uniforms: the black HEAT on-court jersey and the black Vice City Swingman fan jersey with neon pink trim" style="display:block;width:100%;max-width:420px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: Miami HEAT</p>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiHEAT/status/2106007519545974792"></a></blockquote>
@@ -85,7 +88,7 @@ The Association Edition, scheduled for 29 of 80 dated games (10 home, 19 road). 
 
 **What is the Heat's Vice City uniform?**
 
-The Heat wear a one-night "Vice City" uniform on November 18, 2026 against the Milwaukee Bucks at Kaseya Center, a promotion with Rockstar Games for the release of Grand Theft Auto VI on November 19. The team will also play on a custom Vice City court for that game only. The full design had not been revealed as of October 20, 2026.
+The Heat wear a one-night "Vice City" uniform on November 18, 2026 against the Milwaukee Bucks at Kaseya Center, a promotion with Rockstar Games for the release of Grand Theft Auto VI on November 19. The team will also play on a custom Vice City court for that game only. The Heat revealed it on November 6: black with neon pink trim, a backwards Nike logo and Cactus Jack details. On court it says HEAT; the "Vice City" script version is the fan jersey.
 
 **Do the Miami Heat always wear white at home?**
 

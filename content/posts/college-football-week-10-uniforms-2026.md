@@ -3,7 +3,7 @@ title: "College Football Week 10 Uniforms 2026: Tennessee's Dark Mode, Florida A
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-30"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-06"
 excerpt: "College football Week 10 uniforms: Tennessee wears its all-black Dark Mode against Kentucky, Florida goes all blue against Oklahoma, and Miami visits Notre Dame, Alabama visits LSU and Oregon visits Ohio State. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #2a1a08 60%, #FF8200 130%)"
 coverImage: "/images/posts/college-football-week-10-uniforms-2026/cover.jpg"
@@ -90,7 +90,7 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 
 ### No. 3 Georgia at No. 12 Ole Miss
 
-**Saturday, 7:30 p.m., ABC.** **Ole Miss: Expected, home color**, red or navy, with the powder blue set it wore against LSU also in the closet. Ole Miss wore white at Georgia in 2025, so the colors flip this year. **Georgia: Expected, white**, with the red helmet and silver britches. More: [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026) and [Georgia schedule](/stories/georgia-uniform-schedule-2026).
+**Saturday, 7:30 p.m., ABC.** **Ole Miss: Confirmed, navy helmet, navy jersey and gray pants**, posted by the team. Ole Miss wore white at Georgia in 2025, so the colors flip this year. **Georgia: Expected, white**, with the red helmet and silver britches. More: [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026) and [Georgia schedule](/stories/georgia-uniform-schedule-2026).
 
 ### No. 8 BYU at No. 6 Utah: The Holy War
 
@@ -303,7 +303,7 @@ Also in the afternoon: UL Monroe at Arkansas State (3 p.m., ESPN+), Delaware at 
 
 **No. 3 [Georgia](/stories/georgia-uniform-schedule-2026) at No. 12 [Ole Miss](/stories/ole-miss-uniform-schedule-2026)**, 7:30 p.m., ABC.
 - Georgia: **Expected**, white.
-- Ole Miss: **Expected**, red or navy.
+- Ole Miss: **Confirmed**, navy helmet, navy jersey, gray pants.
 
 **[Colorado](/stories/colorado-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 7:30 p.m. (5:30 p.m. Arizona), ESPN2.
 - Colorado: **Expected**, white.
