@@ -3,7 +3,7 @@ title: "Baylor Uniform Schedule 2026: Every Jersey, and When the Gold Chrome Thr
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-06"
 excerpt: "What Baylor wears every game in 2026, week by week, including the date the gold chrome throwback uniform hits McLane Stadium."
 gradient: "linear-gradient(135deg, #154734 0%, #0c2a1f 55%, #FFB81C 130%)"
 homepageHero: false
@@ -126,7 +126,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **October 30 at UCF**, Orlando. Friday night. White.
 
-**November 7 vs. Iowa State**, Waco. Homecoming, historically a green-heavy look.
+**November 7 vs. Iowa State**, Waco. Homecoming. ★ Baylor posted its "Homecoming Threads": a **green helmet with the gold bear head**.
 
 **November 14 at BYU**, Provo. White.
 

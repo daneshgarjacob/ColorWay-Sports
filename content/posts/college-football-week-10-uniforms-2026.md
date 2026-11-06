@@ -31,7 +31,7 @@ Below is every uniform announced so far, then every game this week involving an 
 - **Illinois: back in blue (Confirmed).** Navy helmet, navy jersey, navy pants, vs. Nebraska on Friday.
 - **Boise State: color rush on the road (Confirmed).** Orange helmet, blue jersey, orange pants, at Colorado State.
 - **Louisville: black, white, black (Confirmed).** Black helmet, white jersey, black pants, at Georgia Tech.
-- **Florida: all blue (Announced in August).** Blue helmet, blue jersey, blue pants, vs. Oklahoma, from the season uniform schedule Florida published before the season. It is the only all-blue game on that schedule.
+- **Florida: all blue (Confirmed).** Blue helmet, blue jersey, blue pants, vs. Oklahoma, from the season uniform schedule Florida published before the season. It is the only all-blue game on that schedule.
 
 That is the list as of Thursday, November 5. More schools post their combinations through Saturday morning, and we add each one here.
 
@@ -324,7 +324,7 @@ Also in the afternoon: UL Monroe at Arkansas State (3 p.m., ESPN+), Delaware at 
 
 **[Oklahoma](/stories/oklahoma-uniform-schedule-2026) at No. 17 [Florida](/stories/florida-uniform-schedule-2026)**, 7:45 p.m., SEC Network.
 - Oklahoma: **Expected**, white.
-- Florida: **Announced**, all blue: blue helmet, blue jersey, blue pants, per Florida's season schedule. See above.
+- Florida: **Confirmed**, all blue: blue helmet, blue jersey, blue pants. Florida posted the look on Thursday. See above.
 
 **[Liberty](/stories/liberty-uniform-schedule-2026) at New Mexico State**, 8 p.m. (6 p.m. Mountain), ESPNU.
 - Liberty: **Expected**, white.
@@ -338,7 +338,7 @@ Also in the afternoon: UL Monroe at Arkansas State (3 p.m., ESPN+), Delaware at 
 
 **[Texas State](/stories/texas-state-uniform-schedule-2026) at [Oregon State](/stories/oregon-state-uniform-schedule-2026)**, 10:30 p.m. (7:30 p.m. Pacific), The CW.
 - Texas State: **Expected**, white.
-- Oregon State: **Expected**, black.
+- Oregon State: **Confirmed**, military appreciation: white helmet with the orange and black stripe, black jersey with gray digital-camo numbers, camo gloves, posted by the team.
 
 **[Wyoming](/stories/wyoming-uniform-schedule-2026) at [UNLV](/stories/unlv-uniform-schedule-2026)**, 10:30 p.m. (7:30 p.m. Pacific), CBSSN, at Allegiant Stadium.
 - Wyoming: **Expected**, white.
@@ -374,7 +374,7 @@ Also on Saturday night: Sam Houston at Jacksonville State (7 p.m., CBSSN).
 
 **[Iowa State](/stories/iowa-state-uniform-schedule-2026) at [Baylor](/stories/baylor-uniform-schedule-2026)**.
 - Iowa State: **Expected**, white.
-- Baylor: **Expected**, green, for Homecoming.
+- Baylor: **Confirmed** green helmet with the gold bear head for Homecoming ("Homecoming Threads," posted by the team).
 
 **[Michigan State](/stories/michigan-state-uniform-schedule-2026) at [Michigan](/stories/michigan-uniform-schedule-2026)**.
 - Michigan State: **Expected**, white, for the Paul Bunyan Trophy.

@@ -3,7 +3,7 @@ title: "Florida Gators Uniform Schedule 2026: What UF Wears This Week"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-17"
+updatedDate: "2026-11-06"
 excerpt: "Florida Gators uniform schedule 2026: every helmet, jersey and pant for all twelve games, including a retro helmet and one all-blue. What UF wears this week."
 gradient: "linear-gradient(135deg, #0021A5 0%, #06103a 55%, #FA4616 130%)"
 coverImage: "/images/posts/florida-uniform-schedule-2026/uniform-schedule-cover.jpg"
@@ -59,7 +59,7 @@ Every helmet, jersey and pant confirmed by the program in advance.
 
 **October 31 vs. Georgia** (neutral, Atlanta). Orange helmet, white jersey, white pants.
 
-**November 7 vs. Oklahoma** (home). **Blue helmet, blue jersey, blue pants.** The only all-blue game of the year.
+**November 7 vs. Oklahoma** (home). ★ Confirmed by Florida's game-week photos: **blue helmet, blue jersey, blue pants.** The only all-blue game of the year.
 
 **November 14 at Kentucky** (away). Orange helmet, white jersey, orange pants.
 
