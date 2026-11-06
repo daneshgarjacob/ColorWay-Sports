@@ -1,5 +1,6 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import MvSlot from "@/components/MvSlot";
 import type { Metadata } from "next";
 import { MyTeamsRow, TeamPicker } from "@/components/home/MyTeams";
 import { getMyTeamCards } from "@/lib/myTeams";
@@ -29,6 +30,8 @@ export default async function MyTeamsPage() {
           <p className="text-[15px] mt-1">Tap ☆ on any team below to follow it. Your teams stay on this device.</p>
         </div>
         <MyTeamsRow teams={cards} teamPages />
+        {/* Mediavine in-feed spot (11/6) between the followed teams and the picker. */}
+        <div className="max-w-[1200px] mx-auto px-5 pt-6"><MvSlot /></div>
         <TeamPicker teams={cards} />
       </main>
       <Footer />

@@ -1,6 +1,8 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import { Fragment } from "react";
 import StoryCard from "@/components/StoryCard";
+import MvSlot, { slotAfterCard } from "@/components/MvSlot";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
@@ -131,13 +133,16 @@ export default async function TeamPage({ params }: { params: Promise<{ league: s
           </section>
         )}
 
+        {/* Mediavine in-feed spot (11/6), before the stories. */}
+        <div className="max-w-[1200px] mx-auto px-5 pt-6"><MvSlot /></div>
+
         {stories.length > 0 && (
           <section id="stories" className="max-w-[1200px] mx-auto px-5 pt-8 pb-10">
             <div className={`${LABEL} border-b-2 border-black pb-2 mb-4`}>{card.nickname} stories</div>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-              {stories.map((post) => (
+              {stories.map((post, i) => (
+                <Fragment key={post.slug}>
                 <StoryCard
-                  key={post.slug}
                   slug={post.slug}
                   title={post.title}
                   category={post.category}
@@ -153,6 +158,8 @@ export default async function TeamPage({ params }: { params: Promise<{ league: s
                   coverImageFit={post.coverImageFit}
                   showDate={true}
                 />
+                {slotAfterCard(i, stories.length)}
+                </Fragment>
               ))}
             </div>
             <Link prefetch={false} href={`/stories?team=${encodeURIComponent(slug)}`} className="inline-block mt-6 font-display text-[14px] font-extrabold text-orange">

@@ -1,5 +1,7 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import MvSlot from "@/components/MvSlot";
+import { Fragment } from "react";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { teamPagePath, type MyTeamCard } from "@/lib/myTeams";
@@ -58,8 +60,11 @@ export default async function TonightPage() {
           ))}
         </div>
         {!games.length && <p className="font-display font-black text-[20px]">No games today. Check back tomorrow.</p>}
-        {leagues.map((l) => (
-          <section key={l} id={l.toLowerCase()} className="mb-8">
+        {leagues.map((l, li) => (
+          <Fragment key={l}>
+          {/* Mediavine in-feed spot (11/6) between league sections, never after the last. */}
+          {li > 0 && <MvSlot className="mb-8" />}
+          <section id={l.toLowerCase()} className="mb-8">
             <div className={`${LABEL} border-b-2 border-black pb-2 mb-4 flex items-center gap-2.5`}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={LEAGUE_LOGO[l]} alt="" className="w-8 h-8 object-contain" />
@@ -81,6 +86,7 @@ export default async function TonightPage() {
               ))}
             </div>
           </section>
+          </Fragment>
         ))}
       </main>
       <Footer />

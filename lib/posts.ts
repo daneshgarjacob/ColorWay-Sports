@@ -16,7 +16,10 @@ function extractPreview(content: string): string {
   const blocks = content.split(/\n\s*\n/);
   const paras: string[] = [];
   for (const b of blocks) {
-    const t = b.trim();
+    // Generator markers (<!-- nba-uniform-counts:grid:end -->) sit on the line
+    // under a paragraph with no blank line between, so they rode along into the
+    // card text (Mediavine flagged it 11/6). Drop comments before anything else.
+    const t = b.replace(/<!--[\s\S]*?-->/g, "").trim();
     if (!t || t.startsWith("#") || t.startsWith("<") || t.startsWith("|") || t.startsWith("---")) continue;
     const clean = t
       .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")

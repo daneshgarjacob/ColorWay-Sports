@@ -7,6 +7,7 @@ import { getMyTeamCards, withOpponents } from "@/lib/myTeams";
 import { tonightMatchups } from "@/lib/tonight";
 import TonightRow from "@/components/home/TonightRow";
 import PopularSchedules from "@/components/home/PopularSchedules";
+import MvSlot from "@/components/MvSlot";
 import { popularScheduleCards } from "@/lib/popularSchedules";
 import { MOST_READ } from "@/lib/mostRead";
 import FromTheStandsRandom from "@/components/home/FromTheStandsRandom";
@@ -386,11 +387,16 @@ export default async function Home() {
           </section>
         )}
 
+        {/* Mediavine in-feed spots (11/6): desktop after Top Stories, all devices
+            after the schedules and after Find Your Team. */}
+        <div className="max-w-[1200px] mx-auto px-5 pt-6"><MvSlot device="desktop" /></div>
+
         {/* Jake 11/4: a rule between Latest Stories and Tonight's Uniforms. */}
         <div className="max-w-[1200px] mx-auto px-5 pt-8"><hr className="border-black/15" /></div>
         <TonightRow games={tonightGames} label={todayLong.split(",")[0]} />
 
         <PopularSchedules teams={popularSchedules} title="Most-Searched Uniform Schedules This Week" />
+        <div className="max-w-[1200px] mx-auto px-5 pt-6"><MvSlot /></div>
 
         {/* Most Read This Week (11/5): always shown, right under the schedules. */}
         {mostRead.length > 0 && (
@@ -427,6 +433,7 @@ export default async function Home() {
         )}
 
         <TeamPicker teams={myTeamCards} />
+        <div className="max-w-[1200px] mx-auto px-5 pt-6"><MvSlot /></div>
         <div className="pt-10" />
 
         {/* From the Stands (Jake's own photos, random each visit since 10/13) beside More Stories;
