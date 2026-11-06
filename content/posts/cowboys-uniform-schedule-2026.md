@@ -1,9 +1,9 @@
 ---
-title: "Cowboys Jerseys & Uniforms 2026: Schedule and This Week's Look"
+title: "Cowboys Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-05"
 updatedDate: "2026-11-05"
-excerpt: "The Cowboys published their 2026 uniform schedule: white ten times, navy three, the all-white Color Rush three, and the Thanksgiving Classic against Philadelphia."
+excerpt: "Dallas Cowboys jersey schedule 2026: white ten times, navy three, the all-white Color Rush three, plus the Thanksgiving Classic vs. Philadelphia. Week by week."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
 coverImage: "/images/posts/cowboys-uniform-schedule-2026/cover.jpg"

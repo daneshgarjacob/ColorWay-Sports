@@ -1,8 +1,8 @@
 ---
-title: "Who Actually Decides Which Jersey Teams Wear Each Game? Inside the NBA, NFL, NHL, and MLB Process"
+title: "Who Decides Which Jersey Teams Wear? NFL, NBA, NHL and MLB Rules"
 category: "NBA"
 date: "2026-04-21"
-excerpt: "Who decides which jersey teams wear each game? We break down the process in the NBA, NFL, NHL, and MLB, from equipment managers to head coaches to the league office."
+excerpt: "Who decides which jersey a team wears each game? The process in the NFL, NBA, NHL and MLB, from equipment managers and head coaches to the league office."
 gradient: "linear-gradient(135deg, #1a1a2e 0%, #0a0a1a 100%)"
 coverImage: "/images/jerseys/nba/lakers-hero-image.jpg"
 coverImagePosition: "center 63%"

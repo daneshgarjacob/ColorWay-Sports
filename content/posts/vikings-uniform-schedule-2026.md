@@ -1,10 +1,10 @@
 ---
-title: "Minnesota Vikings Jerseys & Uniforms 2026: Week-by-Week Schedule"
+title: "Vikings Uniform & Jersey Schedule 2026: Throwback Dates"
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
 updatedDate: "2026-11-05"
-excerpt: "The Vikings confirmed every 2026 home uniform: Classic throwbacks against Green Bay, the new Rivalries jersey against Detroit, and the Winter Warrior whiteout."
+excerpt: "Vikings uniform schedule 2026: Classic throwbacks vs. Green Bay, the new Rivalries jersey vs. Detroit and the Winter Warrior whiteout. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-minnesota-vikings.png"

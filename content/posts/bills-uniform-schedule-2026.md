@@ -1,9 +1,9 @@
 ---
-title: "Bills Jerseys & Uniforms 2026: Schedule and This Week's Look"
+title: "Bills Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-05"
 updatedDate: "2026-11-05"
-excerpt: "Every confirmed 2026 Bills uniform: two Nickel City games, Cold Front against Miami, a red alternate finale, the A+ red helmet on Christmas Day, and the fan-voted red end zones for the opener."
+excerpt: "Bills uniform schedule 2026, week by week: two Nickel City games, Cold Front vs. Miami, the red alternate finale and the red helmet on Christmas Day."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"

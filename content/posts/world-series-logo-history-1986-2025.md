@@ -1,9 +1,9 @@
 ---
-title: "World Series Logo History 1986-2026: Every Era Ranked Best to Worst"
+title: "2026 World Series Logo, Plus Every Logo Since 1986 Ranked"
 category: "MLB"
 date: "2026-07-15"
 updatedDate: "2026-09-29"
-excerpt: "All 40 World Series logos ranked era by era. The modern navy era takes the A, the nineties globe and bat era a B minus, Capital One a C minus."
+excerpt: "What the 2026 World Series logo looks like, and all 40 World Series logos since 1986 ranked era by era: the modern navy era gets an A, Capital One a C minus."
 gradient: "linear-gradient(135deg, #F8EFE0 0%, #E5D5BC 100%)"
 league: "mlb"
 teams: []
@@ -14,6 +14,8 @@ coverImageFit: "contain"
 ---
 
 <img src="/images/posts/world-series-logo-history/world-series-logo-history-cover.jpg" alt="World Series logo history 1986 to 2025 cover composite showing seven era-defining championship logos from the green diamond script era through the current Capital One era of Fall Classic branding" style="width: 100%; border-radius: 10px; margin-bottom: 2.5em;" />
+
+**The 2026 World Series logo:** a near copy of 2025, with the cursive World Series script, the MLB logo atop a gold diamond, Capital One under the script and a gold 2026 banner. [See it next to the 2025 mark below](#2026-the-script-returns-again), then every World Series logo since 1986, ranked.
 
 The World Series logo is the rarest piece of design in American sports. It gets used for about two weeks a year, it gets stitched onto a jersey sleeve that only two teams ever wear, and then it is almost always retired and replaced by a brand new one. Forty of them have come and gone since 1986, and they tell you exactly what Major League Baseball thought it was selling in any given October.
 

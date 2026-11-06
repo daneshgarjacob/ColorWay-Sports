@@ -339,7 +339,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   // (utm_campaign) so a team segment can be built in beehiiv later.
   const scheduleTeam =
     /-uniform-schedule-/.test(slug) && storyTeams.length >= 1
-      ? post.title.match(/^(.+?) (?:Uniform Schedule|Jerseys)/)?.[1] ?? null
+      ? post.title.match(/^(.+?) (?:Uniform Schedule|Uniform & Jersey|Jersey & Uniform|Jerseys)/)?.[1] ?? null
       : null;
 
   const relatedPosts = getRelatedPosts(slug, {

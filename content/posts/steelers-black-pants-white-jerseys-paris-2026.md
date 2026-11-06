@@ -1,10 +1,10 @@
 ---
-title: "Steelers Beat Saints 16-10 in Paris in Black Pants and White Jerseys: Pittsburgh's New Uniform Combination, Recapped"
+title: "Steelers White Jerseys and Black Pants: The Paris Uniform Combo"
 author: "jake-daneshgar"
 category: NFL
 date: "2026-10-24"
 updatedDate: "2026-10-27"
-excerpt: "Steelers 16, Saints 10 at the Stade de France: Pittsburgh won the first NFL game in France in a new combination, black helmet, white jersey and black pants with a gold stripe, while New Orleans wore black over gold. What both teams wore, how the game went, where the black pants come from and how rare the look is."
+excerpt: "Steelers 16, Saints 10 in Paris: Pittsburgh wore a new combo, black helmet, white jersey and black pants with a gold stripe; New Orleans wore black over gold."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-black-pants-white-jerseys-paris-2026/cover.jpg"
 coverImagePosition: "center 20%"

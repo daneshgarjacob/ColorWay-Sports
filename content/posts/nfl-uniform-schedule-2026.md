@@ -1,10 +1,10 @@
 ---
 topViewsRank: 5
-title: "NFL Uniform Schedule 2026: What Every Team Is Wearing This Week, Plus Every Alternate Jersey Date"
+title: "NFL Uniform Schedule 2026: What All 32 Teams Wear This Week"
 category: "NFL"
 date: "2026-08-18"
 updatedDate: "2026-09-30"
-excerpt: "Which jersey all 32 NFL teams wear in 2026, with every confirmed alternate and Rivalries date, including the Bears and Rams on Christmas Day. Week by week."
+excerpt: "The 2026 NFL uniform and jersey schedule: what all 32 teams wear this week, every confirmed alternate and Rivalries date, and the Bears and Rams on Christmas Day."
 gradient: "linear-gradient(135deg, #13294B 0%, #0B1A2F 52%, #2f6bed 100%)"
 cardStyle: words
 kicker: Uniform Schedule

@@ -1,9 +1,9 @@
 ---
-title: "Carolina Panthers Jerseys & Uniforms 2026: Week-by-Week Schedule"
+title: "Panthers Jersey & Uniform Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-16"
 updatedDate: "2026-11-05"
-excerpt: "Carolina published its 2026 jersey schedule: black six times at home, Panther blue three, white on every road trip. The full week-by-week, confirmed."
+excerpt: "Carolina Panthers jersey schedule 2026: black six times at home, Panther blue three, white on every road trip. Every uniform, week by week, confirmed."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"

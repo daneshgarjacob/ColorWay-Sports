@@ -1,9 +1,9 @@
 ---
-title: "NFL Salute to Service 2026: Week 9 Games This Week, Every Team's Uniform and the Gear Release Date"
+title: "NFL Salute to Service 2026: Dates, Games and Gear Release Date"
 category: "NFL"
 date: "2026-09-14"
 updatedDate: "2026-11-05"
-excerpt: "NFL Salute to Service 2026 this week: nine team games in Week 9 (Nov. 5-9), from the Ravens in all-purple Purple Rising on Thursday night to the Vikings in purple vs. the all-white Bills on Monday. Kickoff times, what every team wears, all 22 announced games and the gear release date (out since Sept. 21)."
+excerpt: "When is NFL Salute to Service 2026? Team games run Oct. 25 to Nov. 30, biggest wave Week 9 (Nov. 5-9). Every game, what each team wears, and the gear release."
 gradient: "linear-gradient(135deg, #3d4a2c 0%, #1f2716 52%, #2f6bed 100%)"
 coverImage: "/images/posts/nfl-salute-to-service-2026-schedule/cover.jpg"
 coverImagePosition: "center 30%"

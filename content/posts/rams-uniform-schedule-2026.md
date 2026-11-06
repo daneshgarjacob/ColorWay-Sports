@@ -1,10 +1,10 @@
 ---
 topViewsRank: 12
-title: "Los Angeles Rams Jerseys & Uniforms 2026: Week-by-Week Schedule"
+title: "Rams Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-07-24"
 updatedDate: "2026-11-05"
-excerpt: "The Rams published the full 2026 jersey schedule: royal five times, white eight times including at home against Dallas, plus Classic Sol, Fearsome White, and Midnight Mode."
+excerpt: "Rams uniform schedule 2026: royal five times, white eight including at home vs. Dallas, plus Classic Sol, Fearsome White and Midnight Mode. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
 coverImagePosition: "center center"

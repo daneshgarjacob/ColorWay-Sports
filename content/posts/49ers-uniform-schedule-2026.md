@@ -1,9 +1,9 @@
 ---
-title: "49ers Jerseys & Uniforms 2026: Schedule and 1994 Throwback Dates"
+title: "49ers Uniform & Jersey Schedule 2026: 1994 Throwback Dates"
 category: "NFL"
 date: "2026-07-29"
 updatedDate: "2026-11-05"
-excerpt: "The 49ers' 2026 uniform schedule is set: the fan-favorite 1994 throwbacks come out three times, and the polarizing all-black Rivalries returns in Week 14 against the Rams."
+excerpt: "49ers uniform schedule 2026: the 1994 throwbacks come out three times, and the all-black Rivalries uniform returns Week 14 vs. the Rams. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #AA0000 0%, #1d1d1d 55%, #B3995D 130%)"
 cardStyle: words
 logoSrc: "/logos/leagues/nfl.png"

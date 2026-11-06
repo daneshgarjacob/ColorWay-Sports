@@ -1,9 +1,9 @@
 ---
-title: "Green Bay Packers Jerseys & Uniforms 2026: Week-by-Week Schedule"
+title: "Packers Uniform & Jersey Schedule 2026: 1923 Throwback Dates"
 category: NFL
 date: "2026-08-05"
 updatedDate: "2026-11-05"
-excerpt: "Green Bay published its 2026 uniform lineup: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set, which debuts in Week 5 against the Bears."
+excerpt: "Packers uniform schedule 2026: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set. Every Green Bay jersey, week by week, and this week's look."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"

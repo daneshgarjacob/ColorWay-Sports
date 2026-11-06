@@ -1,10 +1,10 @@
 ---
-title: "Knicks Gold Championship Jersey: What It Looks Like, When They Wore It, Will It Return and Can You Buy One (Graded A+)"
+title: "Knicks Gold Championship Jersey: The Ring Night Uniform, Graded"
 author: "colorway-sports-staff"
 category: NBA
 date: "2026-10-20"
 updatedDate: "2026-10-27"
-excerpt: "The Knicks gold championship jersey, explained: a gold-trimmed Association white with gold NEW YORK, gold names and numbers, a 2025-26 Champions patch and a gold '3' tag, worn for ring night on October 20, 2026. When it could come back, whether you can buy one, and why the Knicks are now in black. Graded A+."
+excerpt: "The Knicks gold jersey from ring night (Oct. 20, 2026): white with gold NEW YORK, gold names and numbers and a Champions patch. Will it return? Can you buy one?"
 gradient: "linear-gradient(135deg, #006BB6 0%, #C99A3B 55%, #F58426 120%)"
 coverImage: "/images/posts/knicks-gold-championship-uniforms-2026/cover-knicks-gold-champions-patch.jpg"
 coverImagePosition: "center center"

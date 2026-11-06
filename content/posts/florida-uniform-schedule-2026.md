@@ -1,10 +1,10 @@
 ---
-title: "Florida Gators Uniform Schedule 2026: What UF Is Wearing This Week and Every Combo So Far"
+title: "Florida Gators Uniform Schedule 2026: What UF Wears This Week"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
 updatedDate: "2026-10-17"
-excerpt: "Florida released a full game-by-game uniform schedule for 2026. Every helmet, jersey and pant for all twelve games, including a retro helmet and one all-blue."
+excerpt: "Florida Gators uniform schedule 2026: every helmet, jersey and pant for all twelve games, including a retro helmet and one all-blue. What UF wears this week."
 gradient: "linear-gradient(135deg, #0021A5 0%, #06103a 55%, #FA4616 130%)"
 coverImage: "/images/posts/florida-uniform-schedule-2026/uniform-schedule-cover.jpg"
 coverImagePosition: center center

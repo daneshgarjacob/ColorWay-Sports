@@ -1,9 +1,9 @@
 ---
-title: "Arizona Cardinals Jerseys & Uniforms 2026: Week-by-Week Schedule"
+title: "Arizona Cardinals Uniform Schedule 2026: Every Jersey by Week"
 category: NFL
 date: "2026-08-11"
 updatedDate: "2026-11-05"
-excerpt: "The Cardinals released the full 2026 uniform schedule: the desert Rivalries jersey once, black twice, red seven times including two road games, and white seven times."
+excerpt: "Arizona Cardinals uniform schedule 2026: the desert Rivalries jersey once, black twice, red seven times including two road games, white seven times. Week by week."
 gradient: "linear-gradient(135deg, #97233F 0%, #5e1628 55%, #141414 130%)"
 coverImage: "/images/posts/arizona-cardinals-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"

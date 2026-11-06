@@ -1,9 +1,9 @@
 ---
-title: "Chargers Jerseys & Uniforms 2026: What They're Wearing This Week"
+title: "Chargers Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-11"
 updatedDate: "2026-11-05"
-excerpt: "The Chargers released the full 2026 uniform schedule: every jersey and pants combo for all 17 games, from powder blue at home to the Super Chargers navy nights."
+excerpt: "Chargers uniform schedule 2026: every jersey and pants combo for all 17 games, from powder blue at home to the Super Chargers navy nights. Week by week."
 gradient: "linear-gradient(135deg, #0080C6 0%, #00477e 55%, #001a37 130%)"
 coverImage: "/images/posts/chargers-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"

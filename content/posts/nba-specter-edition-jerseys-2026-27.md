@@ -1,9 +1,9 @@
 ---
-title: "NBA Specter Edition Jerseys and Shorts 2026-27: What They Are, All Eight Teams, and Every Design Graded"
+title: "NBA Specter Edition Jerseys 2026-27: All 8 Teams, Graded"
 category: "NBA"
 date: "2026-09-10"
 updatedDate: "2026-10-19"
-excerpt: "Nike's new Specter Edition is a fifth uniform for the NBA's eight oldest franchises. What it is, when it debuts, why the reaction is brutal, and our grade for each design."
+excerpt: "Nike's Specter Edition is a fifth uniform for the NBA's eight oldest franchises. What it is, when it debuts, why the reaction is brutal, and a grade for each design."
 gradient: "linear-gradient(135deg, #0b0b12 0%, #2a1a4a 55%, #6b2fb3 130%)"
 logoSrc: "/logos/leagues/nba.png"
 cardStyle: words

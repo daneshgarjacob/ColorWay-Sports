@@ -1,9 +1,9 @@
 ---
-title: "Milwaukee Brewers Jerseys & Uniforms 2026: Full Schedule"
+title: "Brewers Jerseys 2026: All 5 Uniforms and When They Wear Them"
 category: MLB
 date: "2026-06-23"
 updatedDate: "2026-10-26"
-excerpt: "The Milwaukee Brewers run five uniforms in 2026 — the cream home, the white pinstripe home alternate, the navy ball-in-glove alternate, the new powder blue road, and the 'Wisco' City Connect. Here's every jersey, when they wear it, and why the road grays are gone."
+excerpt: "Milwaukee Brewers jerseys 2026: cream home, white pinstripe alternate, navy ball-in-glove, the new powder blue road and the Wisco City Connect. When they wear each."
 gradient: "linear-gradient(135deg, #12284B 0%, #FFC52F 50%, #12284B 100%)"
 coverImage: "/images/posts/brewers-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"

@@ -1,9 +1,9 @@
 ---
-title: "NBA Uniform Schedule 2026-27: Every Team's Jerseys and When They Wear Them"
+title: "NBA Jersey Schedule 2026-27: Every Team's Uniform, Every Game"
 category: "NBA"
 date: "2026-08-26"
 updatedDate: "2026-10-26"
-excerpt: "Every NBA team's 2026-27 uniform schedule in one place: the jersey for all 1,200 dated games, all 30 clubs, every City Edition date, and who wears what the most."
+excerpt: "The NBA jersey and uniform schedule for 2026-27: the jersey for all 1,200 dated games, all 30 teams, every City Edition date, and who wears what the most."
 gradient: "linear-gradient(135deg, #C8102E 0%, #14284b 100%)"
 cardStyle: words
 kicker: Uniform Schedule

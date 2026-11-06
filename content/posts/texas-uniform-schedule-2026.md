@@ -1,10 +1,10 @@
 ---
-title: "Texas Uniform Schedule 2026: Every Jersey and When the Longhorns Wear It"
+title: "Texas Uniform Schedule 2026: What the Longhorns Wear Every Game"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
 updatedDate: "2026-10-25"
-excerpt: "What Texas wears every game in 2026. Burnt orange at home, the icy whites on the road, and why the Longhorns are one of the few programs that refuse alternates."
+excerpt: "Texas Longhorns uniform schedule 2026: burnt orange at home, the white road set, and why Texas is one of the few programs that refuses alternates. Every game."
 gradient: "linear-gradient(135deg, #BF5700 0%, #2a1607 55%, #FFFFFF 130%)"
 cardStyle: words
 kicker: Schedule

@@ -1,9 +1,9 @@
 ---
-title: "New Orleans Saints Jerseys & Uniforms 2026: Week-by-Week Schedule"
+title: "Saints Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-16"
 updatedDate: "2026-11-05"
-excerpt: "The Saints published their 2026 uniform schedule: the gold jersey once under the black helmet, white at home twice, and the white helmet three times. Every jersey and uniform, week by week."
+excerpt: "Saints uniform schedule 2026: the gold jersey once under the black helmet, white at home twice, the white helmet three times. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"

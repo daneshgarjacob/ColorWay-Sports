@@ -1,9 +1,9 @@
 ---
-title: "Commanders Jerseys & Uniforms 2026: Schedule and This Week's Look"
+title: "Commanders Uniform & Jersey Schedule 2026: Hail Raiser Dates"
 category: NFL
 date: "2026-07-16"
 updatedDate: "2026-11-05"
-excerpt: "The Washington Commanders' full 2026 uniform schedule: white is the new primary, burgundy goes nine times, and the black Hail Raiser alternate drops twice. Every jersey, every week."
+excerpt: "Commanders uniform schedule 2026: white is the new primary, burgundy nine times, the black Hail Raiser alternate twice. Every Washington jersey, week by week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
 coverImagePosition: "center center"

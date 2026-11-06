@@ -1,9 +1,9 @@
 ---
-title: "Eagles Jerseys & Uniforms 2026: Schedule and This Week's Look"
+title: "Eagles Uniform Schedule 2026: Kelly Green Games and Every Jersey"
 category: NFL
 date: "2026-08-05"
 updatedDate: "2026-11-05"
-excerpt: "The Eagles confirmed all three alternates: Kelly Green in Week 9 against the Giants and Week 16 against the Texans, and the all-black set in Week 15 against Seattle."
+excerpt: "Eagles uniform schedule 2026: Kelly Green is Week 9 vs. the Giants and Week 16 vs. the Texans, all-black is Week 15 vs. Seattle. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
 coverImage: "/images/posts/eagles-uniform-schedule-2026/cover.jpg"

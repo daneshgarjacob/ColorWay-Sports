@@ -1,10 +1,10 @@
 ---
 topViewsRank: 8
-title: "Texans Jerseys & Uniforms 2026: Schedule and This Week's Look"
+title: "Texans Uniform & Jersey Schedule 2026: Battle Red Dates"
 category: NFL
 date: "2026-08-11"
 updatedDate: "2026-11-05"
-excerpt: "Every Texans jersey for 2026, week by week. Battle Red is Week 7 vs. the Giants, and the white-helmet HOUSTON/US Rivalries uniform debuts Week 11 on Thursday night."
+excerpt: "Texans uniform schedule 2026, week by week: Battle Red in Week 7 vs. the Giants, and the white-helmet Rivalries uniform debuts Week 11 on Thursday night."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
