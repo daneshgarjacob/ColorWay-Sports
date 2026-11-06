@@ -5,6 +5,7 @@ import Footer from "@/components/Footer";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import { JotdTile, PhotoCredit, TodayFeature } from "@/components/JerseyOfTheDay";
 import TwitterEmbed from "@/components/TwitterEmbed";
+import { AFFILIATE_DISCLOSURE, on } from "@/lib/affiliates";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
 import { longDay, pickFor, etToday, secsToEtMidnight, shortDate, weekEnding } from "@/lib/jerseyOfTheDay";
 
@@ -117,6 +118,9 @@ export default async function JerseyOfTheDayPage() {
               <section className="pt-6" aria-label="Today's jersey">
                 <TodayFeature entry={entry} isToday={isToday} />
                 <PhotoCredit credit={entry.credit} caption={entry.imageCaption} />
+                {on("jotd") && entry.shop !== false && (
+                  <p className="mt-1 mb-0 text-center text-xs text-black/50 leading-snug px-2">{AFFILIATE_DISCLOSURE}</p>
+                )}
                 {entry.tweet && (
                   <div className="mt-8 max-w-[560px] mx-auto">
                     <h2 className="font-display text-[12px] font-extrabold tracking-[0.18em] uppercase text-steel m-0 mb-2 text-center">

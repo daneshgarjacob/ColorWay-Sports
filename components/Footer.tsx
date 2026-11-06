@@ -113,6 +113,11 @@ export default function Footer() {
           </Link>
         </div>
 
+        {/* Affiliate disclosure (Jake 11/5: links are back, as plain text lines) */}
+        <p className="text-white/40 text-[10px] mt-5 max-w-[680px] mx-auto leading-relaxed">
+          Some links on this site are affiliate links. We may earn a commission if you buy through them, at no extra cost to you.
+        </p>
+
         {/* Copyright */}
         <p className="text-white/40 text-[11px] mt-3">
           &copy; {new Date().getFullYear()} ColorWay Sports. All rights reserved.

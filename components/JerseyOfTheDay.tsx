@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { leagueColor } from "@/lib/leagueColors";
 import { imgFitClass, shortDate, shortDow, wornWhen, type JotdCredit, type JotdEntry } from "@/lib/jerseyOfTheDay";
+import { AFFILIATE_REL, jotdShopHref, on } from "@/lib/affiliates";
 
 // Jersey of the Day pieces. Built from the story card / StoryHero
 // language: white rounded-xl .story-card, league-color tag, Hanken display
@@ -30,6 +31,24 @@ export function PhotoCredit({ credit, caption }: { credit: JotdCredit; caption?:
           )}
         </>
       )}
+    </p>
+  );
+}
+
+/** One small text link to buy the day's jersey (Jake 11/5: a line, never a
+ *  button). Off with AFFILIATES.jotd or a day's "shop": false. */
+export function JotdShopLink({ entry, placement, className = "" }: { entry: JotdEntry; placement: "jotd" | "home"; className?: string }) {
+  if (!on("jotd") || entry.shop === false) return null;
+  return (
+    <p className={`mb-0 font-semibold ${className}`}>
+      <a
+        href={jotdShopHref(entry, placement)}
+        rel={AFFILIATE_REL}
+        target="_blank"
+        className="text-orange underline underline-offset-2 hover:text-blue-dark"
+      >
+        Get this jersey at Fanatics &rarr;
+      </a>
     </p>
   );
 }
@@ -80,6 +99,7 @@ export function TodayFeature({ entry, isToday }: { entry: JotdEntry; isToday: bo
           {entry.jerseyName}
         </h2>
         <p className="mt-1 mb-0 text-[17px] font-semibold text-blue-dark">{entry.team}</p>
+        <JotdShopLink entry={entry} placement="jotd" className="mt-2 text-[14px]" />
 
         {/* When it is on the field */}
         <div className="mt-5 rounded-lg border border-border bg-[#fafbfc] px-4 py-3">

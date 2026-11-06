@@ -39,6 +39,7 @@ import AuthorBio from "@/components/AuthorBio";
 import FollowCard from "@/components/FollowCard";
 import { addNflGameDays } from "@/lib/nflGridGameDays";
 import { getAuthor, authorSchema } from "@/lib/authors";
+import { AFFILIATE_DISCLOSURE, addHomageLine, addScheduleShopLinks, teamFromTitle } from "@/lib/affiliates";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -166,6 +167,25 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const split = winterTeam ? view.contentHtml.search(/<h2[^>]*>\s*(More [^<]*Coverage|Frequently Asked Questions)/) : -1;
   const bodyTop = split > 0 ? view.contentHtml.slice(0, split) : view.contentHtml;
   const bodyRest = split > 0 ? view.contentHtml.slice(split) : "";
+
+  // Affiliate lines (lib/affiliates.ts, Jake 11/5): one small "Shop the ..."
+  // link per jersey on team schedule posts, one HOMAGE line on the throwback
+  // posts it fits. Added at render time so one switch turns them off; the
+  // FAQ and coverage section (bodyRest) stays link-free.
+  const shopTeam = nflTeam
+    ? { team: nflTeam.name, nickname: nflTeam.nickname }
+    : winterTeam
+      ? { team: winterTeam.name, nickname: winterTeam.nickname }
+      : isMlbSchedulePost
+        ? teamFromTitle(post.title)
+        : null;
+  const mainHtml = nflTeam ? addNflGameDays(view.contentHtml, nflTeam.nickname) : bodyTop;
+  const shop = shopTeam
+    ? addScheduleShopLinks(mainHtml, { slug, league: post.league ?? "", ...shopTeam })
+    : { html: mainHtml, added: 0 };
+  const homage = addHomageLine(shop.html, slug);
+  const articleHtml = homage.html;
+  const hasAffiliateLinks = shop.added + homage.added > 0;
 
   // "Today" is the render date. Most posts render only on deploy; team schedule
   // posts also re-render around game days (see revalidatePageWithin below).
@@ -543,9 +563,12 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           <LakersArticle />
         ) : (
           <>
+            {hasAffiliateLinks && (
+              <p className="mt-0 mb-6 text-[12.5px] text-gray-medium">{AFFILIATE_DISCLOSURE}</p>
+            )}
             <article
               className="prose prose-lg max-w-none text-foreground leading-relaxed"
-              dangerouslySetInnerHTML={{ __html: nflTeam ? addNflGameDays(view.contentHtml, nflTeam.nickname) : bodyTop }}
+              dangerouslySetInnerHTML={{ __html: articleHtml }}
             />
             {winterTeam && (
               <section id="calendar" className="mt-10 mb-10 scroll-mt-28">

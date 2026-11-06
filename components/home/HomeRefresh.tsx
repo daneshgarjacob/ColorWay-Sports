@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { imgFitClass, type JotdEntry } from "@/lib/jerseyOfTheDay";
+import { AFFILIATE_DISCLOSURE, on } from "@/lib/affiliates";
+import { JotdShopLink } from "@/components/JerseyOfTheDay";
 import { leagueColor } from "@/lib/leagueColors";
 import type { PostMeta } from "@/lib/posts";
 import { getAuthor } from "@/lib/authors";
@@ -212,17 +214,26 @@ export function LatestRail({ posts, jotd }: { posts: PostMeta[]; jotd?: JotdEntr
   return (
     <aside className="lg:border-l lg:border-border lg:pl-7">
       {jotd && (
-        <Link prefetch={false} href="/jersey-of-the-day" className="group mb-6 flex gap-4 no-underline rounded-xl border border-border bg-white p-3">
-          <div className="relative w-[92px] shrink-0 aspect-[4/5] rounded-lg bg-[#f1f3f8] overflow-hidden">
-            <img src={jotd.image} alt={jotd.imageAlt} loading="lazy" decoding="async" className={`absolute inset-0 w-full h-full ${imgFitClass(jotd)}`} style={jotd.imagePosition ? { objectPosition: jotd.imagePosition } : undefined} />
-          </div>
-          <div className="min-w-0">
-            <p className="m-0 font-display text-[10px] font-extrabold uppercase tracking-[0.16em] text-orange">Jersey of the Day</p>
-            <p className="mt-1 mb-0 font-display text-[17px] font-extrabold text-black leading-tight group-hover:text-orange transition-colors">{jotd.jerseyName}</p>
-            <p className="mt-0.5 mb-0 text-[12px] font-semibold text-steel">{jotd.teamShort} &middot; {jotd.worn.matchup.split(",")[0]}</p>
-            <p className="mt-1.5 mb-0 text-[13px] text-[#3a3f47] leading-snug line-clamp-2">{jotd.why}</p>
-          </div>
-        </Link>
+        <div className="mb-6 rounded-xl border border-border bg-white p-3">
+          <Link prefetch={false} href="/jersey-of-the-day" className="group flex gap-4 no-underline">
+            <div className="relative w-[92px] shrink-0 aspect-[4/5] rounded-lg bg-[#f1f3f8] overflow-hidden">
+              <img src={jotd.image} alt={jotd.imageAlt} loading="lazy" decoding="async" className={`absolute inset-0 w-full h-full ${imgFitClass(jotd)}`} style={jotd.imagePosition ? { objectPosition: jotd.imagePosition } : undefined} />
+            </div>
+            <div className="min-w-0">
+              <p className="m-0 font-display text-[10px] font-extrabold uppercase tracking-[0.16em] text-orange">Jersey of the Day</p>
+              <p className="mt-1 mb-0 font-display text-[17px] font-extrabold text-black leading-tight group-hover:text-orange transition-colors">{jotd.jerseyName}</p>
+              <p className="mt-0.5 mb-0 text-[12px] font-semibold text-steel">{jotd.teamShort} &middot; {jotd.worn.matchup.split(",")[0]}</p>
+              <p className="mt-1.5 mb-0 text-[13px] text-[#3a3f47] leading-snug line-clamp-2">{jotd.why}</p>
+            </div>
+          </Link>
+          {/* The buy link sits outside the card's link (no link inside a link). */}
+          {on("jotd") && jotd.shop !== false && (
+            <div className="mt-2.5 pt-2 border-t border-border">
+              <JotdShopLink entry={jotd} placement="home" className="text-[12.5px]" />
+              <p className="mt-0.5 mb-0 text-[10.5px] text-gray-light leading-snug">{AFFILIATE_DISCLOSURE}</p>
+            </div>
+          )}
+        </div>
       )}
       <div className="flex items-center justify-between border-b-2 border-black pb-2">
         <span className={`${LABEL} text-black`}>Latest</span>

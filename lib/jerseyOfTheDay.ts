@@ -31,6 +31,13 @@ export type JotdEntry = {
   worn: { date: string; matchup: string; status: JotdStatus; note?: string };
   why: string;
   whyPlaceholder?: boolean;
+  /** Optional fanatics.com product URL for "Get this jersey at Fanatics" (lib/affiliates.ts).
+   *  Without it the link goes to a Fanatics search for the team and jersey name. */
+  shopUrl?: string;
+  /** Optional Fanatics search words when the jersey name searches badly ("ducks orange jersey"). */
+  shopQuery?: string;
+  /** false hides the Fanatics link for that day (a jersey Fanatics does not sell). */
+  shop?: boolean;
   /** Internal note for whoever fills the schedule; never rendered. */
   _editorNote?: string;
   story: string;
