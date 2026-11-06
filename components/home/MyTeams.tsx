@@ -183,7 +183,7 @@ export function TeamPicker({ teams }: { teams: MyTeamCard[] }) {
   const shown = teams.filter((t) => t.league === tab);
 
   return (
-    <section className="max-w-[1200px] mx-auto px-5 pt-10">
+    <section id="find-your-team" className="max-w-[1200px] mx-auto px-5 pt-10 scroll-mt-4">
       <div className="flex items-center justify-between border-b-2 border-black pb-2 mb-3">
         <span className={`${LABEL} text-black`}>Find Your Team</span>
         <span className="text-[11px] font-semibold text-gray-medium">Tap ☆ to add it to My Teams</span>

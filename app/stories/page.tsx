@@ -8,6 +8,9 @@ import TeamQuickLinks from "@/components/TeamQuickLinks";
 import { buildTeamQuickLinks, resolveTeamQuickLinks } from "@/lib/teamQuickLinks";
 import { Suspense } from "react";
 import { StoriesGuide } from "@/components/StoriesGuide";
+import PopularSchedules from "@/components/home/PopularSchedules";
+import { getMyTeamCards } from "@/lib/myTeams";
+import { popularScheduleCards } from "@/lib/popularSchedules";
 
 type SearchParams = Promise<{ [key: string]: string | string[] | undefined }>;
 
@@ -84,6 +87,8 @@ export default async function StoriesPage({
     effectiveDate(a) > effectiveDate(b) ? -1 : 1
   );
 
+  const mainView = !first(sp.league) && !first(sp.team) && !first(sp.q);
+
   return (
     <>
       <Header />
@@ -100,8 +105,12 @@ export default async function StoriesPage({
           quickLinks={<TeamQuickLinks teams={quickLinkTeams} />}
         />
       </Suspense>
+      {/* 11/5: the most-searched team schedule posts for this week's games, on
+          the main view, so a reader browsing the index has a direct path into
+          the pages Google readers want most. */}
+      {mainView && <PopularSchedules teams={popularScheduleCards(getMyTeamCards())} title="Most-Searched Uniform Schedules This Week" moreHref="/#find-your-team" />}
       {/* Editorial guide for the main view only, so Mediavine's in-content ads have paragraphs to sit between. */}
-      {!first(sp.league) && !first(sp.team) && !first(sp.q) && <StoriesGuide />}
+      {mainView && <StoriesGuide />}
       <Footer />
     </>
   );

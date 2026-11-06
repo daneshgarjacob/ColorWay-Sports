@@ -5,7 +5,10 @@ import { LEAGUE_HREF, LEAGUE_LOGO, LEAGUE_NAME, ORDER, type Matchup } from "@/li
 // game and both teams' jerseys by name. The league name opens that league's
 // page; "more" opens /tonight at that league, where the jerseys are pictured.
 
-const PER_LEAGUE = 4;
+// 11/5: five games a league and every league with games (was 4 and 3), and
+// each game now opens the home club's uniform schedule post, the page that
+// pictures both jerseys' season, instead of being plain text.
+const PER_LEAGUE = 5;
 
 export default function TonightRow({ games, label }: { games: Matchup[]; label: string }) {
   if (!games.length) return null;
@@ -17,8 +20,8 @@ export default function TonightRow({ games, label }: { games: Matchup[]; label: 
           <span className="font-display text-[11px] font-black tracking-[0.18em] uppercase text-black">Tonight&rsquo;s Uniforms &middot; {label}</span>
           <Link prefetch={false} href="/tonight" className="font-display text-[12px] font-extrabold text-orange">Every game &rarr;</Link>
         </div>
-        <div className={`grid grid-cols-1 gap-6 md:gap-0 md:divide-x md:divide-border ${leagues.length >= 3 ? "md:grid-cols-3" : leagues.length === 2 ? "md:grid-cols-2" : ""}`}>
-          {leagues.slice(0, 3).map((l) => {
+        <div className={`grid grid-cols-1 gap-6 md:gap-y-6 lg:gap-y-0 md:divide-x md:divide-border ${leagues.length >= 4 ? "md:grid-cols-2 lg:grid-cols-4" : leagues.length === 3 ? "md:grid-cols-3" : leagues.length === 2 ? "md:grid-cols-2" : ""}`}>
+          {leagues.slice(0, 4).map((l) => {
             const all = games.filter((g) => g.league === l);
             return (
               <div key={l} className="md:px-5 md:first:pl-0 md:last:pr-0 min-w-0">
@@ -34,10 +37,11 @@ export default function TonightRow({ games, label }: { games: Matchup[]; label: 
                 </div>
                 <ul className="m-0 mt-2 p-0 list-none">
                   {all.slice(0, PER_LEAGUE).map((g) => (
-                    <li key={g.home.id} className="border-t border-border py-2.5">
+                    <li key={g.home.id} className="border-t border-border">
+                      <Link prefetch={false} href={g.home.href} className="group block py-2.5">
                       {g.away && g.away !== g.home ? (
                         <>
-                          <div className="text-[14px] font-bold text-blue-dark">
+                          <div className="text-[14px] font-bold text-blue-dark group-hover:text-orange">
                             {g.away.nickname} <span className="text-[#8A8F98] font-medium">at</span> {g.home.nickname}
                           </div>
                           <div className="mt-0.5 text-[12px] text-[#5b6474]">
@@ -46,12 +50,13 @@ export default function TonightRow({ games, label }: { games: Matchup[]; label: 
                         </>
                       ) : (
                         <>
-                          <div className="text-[14px] font-bold text-blue-dark">
+                          <div className="text-[14px] font-bold text-blue-dark group-hover:text-orange">
                             {g.home.nickname} <span className="text-[#8A8F98] font-medium">{g.home.next?.opp}</span>
                           </div>
                           <div className="mt-0.5 text-[12px] text-[#5b6474]">{g.home.next?.look}</div>
                         </>
                       )}
+                      </Link>
                     </li>
                   ))}
                 </ul>

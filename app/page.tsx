@@ -6,6 +6,8 @@ import { MyTeamsRow, TeamPicker } from "@/components/home/MyTeams";
 import { getMyTeamCards, withOpponents } from "@/lib/myTeams";
 import { tonightMatchups } from "@/lib/tonight";
 import TonightRow from "@/components/home/TonightRow";
+import PopularSchedules from "@/components/home/PopularSchedules";
+import { popularScheduleCards } from "@/lib/popularSchedules";
 import { MOST_READ } from "@/lib/mostRead";
 import FromTheStandsRandom from "@/components/home/FromTheStandsRandom";
 import WireStrip from "@/components/WireStrip";
@@ -258,6 +260,29 @@ export default async function Home() {
       : []),
   ]);
 
+  // MOST-SEARCHED SCHEDULES THIS WEEK (11/5): the clubs that play in the next
+  // four days, ranked by how often their schedule post is clicked from Google
+  // (lib/popularSchedules.ts). Every homepage reader gets these, not only
+  // readers who follow a team, and each opens a long, ad-earning schedule post.
+  const myTeamCards = getMyTeamCards();
+  const popularSchedules = popularScheduleCards(myTeamCards);
+  const popularSlugs = new Set(popularSchedules.map((c) => c.href.replace(/^\/stories\//, "")));
+
+  // MOST READ THIS WEEK (11/5: always on, and higher up the page; it used to
+  // show only when From the Stands was stale, at the very bottom). The hand-set
+  // Monday list first, then the next most-viewed cover posts, skipping
+  // anything already on the page above it.
+  const aboveMostRead = new Set([...heroSlugs, ...gridSlugs, ...popularSlugs]);
+  const mostRead = [
+    ...MOST_READ.map((slug) => posts.find((p) => p.slug === slug)).filter((p): p is Post => !!p),
+    ...filtered
+      .filter((p) => typeof p.topViewsRank === "number" && hasCover(p) && !HOMEPAGE_HIDE.has(p.slug) && !isEliminatedMlbTeamPost(p.slug, p.league, todayEt))
+      .sort((a, b) => (a.topViewsRank ?? 999) - (b.topViewsRank ?? 999)),
+  ]
+    .filter((p, i, all) => !aboveMostRead.has(p.slug) && all.findIndex((x) => x.slug === p.slug) === i)
+    .slice(0, 6);
+
+  const shownSlugs = new Set([...heroSlugs, ...gridSlugs, ...bandSlugs, ...popularSlugs, ...mostRead.map((p) => p.slug)]);
   // MORE STORIES — a story appears at most once on the page. Order:
   //  1. FRESH: anything published in the last FRESH_DAYS, newest first. This is
   //     the only slot words-only posts (no cover) can reach, so without it the
@@ -266,14 +291,16 @@ export default async function Home() {
   //     day when there are more ranked posts than slots, so the same six do not
   //     sit here all week between Monday re-ranks.
   //  3. NEWEST: backfill by publish date if the first two run short.
-  const shownSlugs = new Set([...heroSlugs, ...gridSlugs, ...bandSlugs]);
   const notShown = filtered.filter(
     (p) =>
       !shownSlugs.has(p.slug) &&
       !HOMEPAGE_HIDE.has(p.slug) &&
       !isEliminatedMlbTeamPost(p.slug, p.league, todayEt)
   );
-  const MORE_COUNT = 6;
+  // 11/5: more real stories at the bottom (was 6), so the page has more links
+  // to a second page and more content height for Mediavine's in-content ads.
+  const standsFresh = daysSince(latestStandsDate()) <= 7;
+  const MORE_COUNT = standsFresh ? 10 : 12;
   const fresh = notShown
     // >= 0 so a post dated ahead for tomorrow does not jump the queue today.
     .filter((p) => daysSince(p.date) >= 0 && daysSince(p.date) <= FRESH_DAYS)
@@ -302,9 +329,6 @@ export default async function Home() {
   // The self-updating pieces (homepage refresh, 10/5).
   const standsPhoto = standsPhotoFor(todayEt, new Set([...heroSlugs, ...gridSlugs]));
   const standsPhotos = standsPool(new Set([...heroSlugs, ...gridSlugs]));
-  const standsFresh = daysSince(latestStandsDate()) <= 7;
-  const mostRead = MOST_READ.map((slug) => posts.find((p) => p.slug === slug)).filter((p): p is Post => !!p).slice(0, 5);
-  const myTeamCards = getMyTeamCards();
   const myTeamMatchups = withOpponents(myTeamCards);
   const tonightGames = tonightMatchups(new Date());
   const todayLong = new Date(`${todayEt}T12:00:00Z`).toLocaleDateString("en-US", {
@@ -366,44 +390,61 @@ export default async function Home() {
         <div className="max-w-[1200px] mx-auto px-5 pt-8"><hr className="border-black/15" /></div>
         <TonightRow games={tonightGames} label={todayLong.split(",")[0]} />
 
+        <PopularSchedules teams={popularSchedules} title="Most-Searched Uniform Schedules This Week" />
+
+        {/* Most Read This Week (11/5): always shown, right under the schedules. */}
+        {mostRead.length > 0 && (
+          <section className="max-w-[1200px] mx-auto px-5 pt-10">
+            <div className="flex items-baseline justify-between border-b-2 border-black pb-2">
+              <h2 className="m-0 font-display text-[11px] font-black tracking-[0.18em] uppercase text-black">Most Read This Week</h2>
+              <Link prefetch={false} href="/stories" className="font-display text-[12px] font-extrabold text-orange">
+                All stories &rarr;
+              </Link>
+            </div>
+            <ol className="m-0 p-0 list-none grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 sm:gap-x-8">
+              {mostRead.map((post, i) => (
+                <li key={post.slug} className="border-b border-border">
+                  <Link prefetch={false} href={`/stories/${post.slug}`} className="group flex items-center gap-3 py-3.5">
+                    <span className="font-serif text-[26px] font-extrabold text-orange leading-none w-6 shrink-0">{i + 1}</span>
+                    <span className="min-w-0 flex-1 text-[15px] font-bold text-black leading-snug group-hover:text-orange line-clamp-3">{post.title}</span>
+                    {post.coverImage && (
+                      <span className="relative h-[56px] w-[84px] shrink-0 overflow-hidden rounded-md bg-[#eef0f3]">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img
+                          src={post.coverImage}
+                          alt=""
+                          loading="lazy"
+                          className="absolute inset-0 h-full w-full object-cover"
+                          style={post.coverImagePosition ? { objectPosition: post.coverImagePosition } : undefined}
+                        />
+                      </span>
+                    )}
+                  </Link>
+                </li>
+              ))}
+            </ol>
+          </section>
+        )}
+
         <TeamPicker teams={myTeamCards} />
         <div className="pt-10" />
 
-        {/* From the Stands (Jake's own photos, random each visit since 10/13) beside More Stories */}
+        {/* From the Stands (Jake's own photos, random each visit since 10/13) beside More Stories;
+            without a photo from the last week, More Stories takes the full width. */}
         <section className="max-w-[1200px] mx-auto px-5 pb-12">
-          <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,2fr)] gap-10">
-            {/* Jake 11/2: From the Stands only within a week of his newest photo;
-                otherwise Most Read sends readers to the pages that earn. */}
-            {standsFresh ? (
-              <FromTheStandsRandom photos={standsPhotos} initial={standsPhoto} />
-            ) : (
-              <div>
-                <div className="border-b-2 border-black pb-2">
-                  <span className="font-display text-[11px] font-black tracking-[0.18em] uppercase text-black">Most Read This Week</span>
-                </div>
-                <ol>
-                  {mostRead.map((post, i) => (
-                    <li key={post.slug} className="border-b border-border">
-                      <Link prefetch={false} href={`/stories/${post.slug}`} className="group flex gap-3 py-3">
-                        <span className="font-serif text-[26px] font-extrabold text-orange leading-none w-6 shrink-0">{i + 1}</span>
-                        <span className="text-[15px] font-bold text-black leading-snug group-hover:text-orange">{post.title}</span>
-                      </Link>
-                    </li>
-                  ))}
-                </ol>
-              </div>
-            )}
+          <div className={standsFresh ? "grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,2fr)] gap-10" : ""}>
+            {standsFresh && <FromTheStandsRandom photos={standsPhotos} initial={standsPhoto} />}
             {compact.length > 0 && (
               <div>
                 <div className="flex items-center justify-between border-b-2 border-black pb-2">
-                  <span className="font-display text-[11px] font-black tracking-[0.18em] uppercase text-black">
+                  <h2 className="m-0 font-display text-[11px] font-black tracking-[0.18em] uppercase text-black">
                     More Stories
-                  </span>
+                  </h2>
                   <Link prefetch={false} href="/stories" className="font-display text-[12px] font-extrabold text-orange">
                     All stories &rarr;
                   </Link>
                 </div>
-                <div className="grid grid-cols-1 sm:grid-cols-2 sm:gap-x-8">
+                <div className={`grid grid-cols-1 sm:grid-cols-2 sm:gap-x-8 ${standsFresh ? "" : "lg:grid-cols-3"}`}>
                   {compact.map((post) => (
                     <Link
                       prefetch={false}
@@ -430,6 +471,11 @@ export default async function Home() {
                       </div>
                     </Link>
                   ))}
+                </div>
+                <div className="pt-5 text-center">
+                  <Link prefetch={false} href="/stories" className="inline-block rounded-full border border-border bg-white px-5 py-2.5 font-display text-[13px] font-extrabold text-black hover:border-black/30">
+                    More stories &rarr;
+                  </Link>
                 </div>
               </div>
             )}
