@@ -319,7 +319,8 @@
    "worn": {
     "date": "2026-11-05",
     "matchup": "vs Jacksonville Jaguars, Thursday Night Football",
-    "status": "Scheduled"
+    "status": "Confirmed",
+    "note": "Worn as announced, confirmed from game photos. Jaguars won 33-10."
    },
    "why": "Purple from the helmet to the socks, with a gold facemask. Nobody else in the league can pull off one color head to toe like this.",
    "whyPlaceholder": true,
@@ -334,6 +335,41 @@
     {
      "slug": "nfl-week-9-uniforms-2026",
      "label": "Every NFL Week 9 uniform"
+    }
+   ]
+  },
+  "2026-11-06": {
+   "team": "Arizona Wildcats",
+   "teamShort": "Arizona",
+   "league": "College Football",
+   "season": "2026",
+   "edition": "Sandstorm",
+   "jerseyName": "Sandstorm (White and Red)",
+   "image": "/images/jersey-of-the-day/arizona-sandstorm-2026-11-06.jpg",
+   "imageAlt": "Arizona Wildcats Sandstorm uniform: red chrome helmet with ARIZONA across the side, white jersey with red numbers and a red collar",
+   "imagePosition": "center 30%",
+   "credit": {
+    "text": "Arizona Football"
+   },
+   "tweet": {
+    "url": "https://x.com/ArizonaFBall/status/2117351669789020511",
+    "label": "Tonight's look, from Arizona Football"
+   },
+   "worn": {
+    "date": "2026-11-06",
+    "matchup": "vs TCU, Friday night in Tucson",
+    "status": "Announced",
+    "note": "Arizona's first official Sandstorm-themed game; fans are asked to wear white. Photo from the October 10 game at West Virginia, when the set was worn with red pants."
+   },
+   "why": "A red chrome helmet over a white jersey with red numbers, at a home game where the whole stadium wears white. It is the best look in Arizona's closet.",
+   "whyPlaceholder": true,
+   "story": "Arizona hosts TCU tonight in its first official Sandstorm game: a chrome red helmet with ARIZONA across the side, the white jersey with red numbers, white pants and red socks, with fans asked to wear white. The Wildcats wore Sandstorm with red pants in a 52-31 win at West Virginia on October 10. Tonight it goes back to white pants, the way the set debuted against Oklahoma State in 2025.",
+   "scheduleSlug": "arizona-uniform-schedule-2026",
+   "scheduleLabel": "Arizona 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "tcu-uniform-schedule-2026",
+     "label": "TCU 2026 uniform schedule"
     }
    ]
   }
