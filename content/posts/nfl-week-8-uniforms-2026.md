@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: NFL
 homepageHero: "2026-10-29"
 date: "2026-10-27"
-updatedDate: "2026-11-02"
+updatedDate: "2026-11-06"
 excerpt: "NFL Week 8 uniforms (Oct. 29-Nov. 2): the Lions debut their Defend the Den Rivalries uniform against the Vikings, the Jaguars debut Bold City against the Colts, plus the Falcons in red at Tampa, the Dolphins all white, the Commanders in burgundy and gold, and every other game."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #0076B6 130%)"
 coverImage: "/images/posts/nfl-week-8-uniforms-2026/cover.jpg"
@@ -94,6 +94,8 @@ Philadelphia posted its Sunday night threads on Thursday: **midnight green helme
 Burgundy and gold against white and midnight green is a proper rivalry frame under the lights. Our matchup grade: **B+**. See the [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026) and the [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026).
 
 ### Chicago Bears at Seattle Seahawks: Monday Night Football
+
+**Final: Bears 34, Seahawks 17.** Chicago wore white with the navy helmet and navy pants; Seattle wore navy over grey.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bears-white-road.jpg" alt="Chicago Bears white road jersey, expected at Seattle on Monday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bears · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-navy-home.jpg" alt="Seattle Seahawks college navy home jersey, expected against the Bears on Monday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Seahawks · Confirmed</figcaption></figure></div>
 
@@ -218,7 +220,7 @@ For the rest of the season's looks, see the [Jets 2026 uniform schedule](/storie
 
 ### Monday, November 2
 
-- **Chicago Bears at Seattle Seahawks**, 8:15 p.m. ET, ESPN. Bears: navy helmet, white jersey, navy pants (confirmed). Seahawks: navy helmet, college navy jersey, grey pants (confirmed). Matchup grade: B.
+- **Chicago Bears at Seattle Seahawks**, 8:15 p.m. ET, ESPN. Bears: navy helmet, white jersey, navy pants (confirmed). Seahawks: navy helmet, college navy jersey, grey pants (worn). Final: Bears 34, Seahawks 17. Matchup grade: B.
 
 ### Byes
 
