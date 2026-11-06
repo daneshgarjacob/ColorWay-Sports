@@ -19,7 +19,8 @@ export const AFFILIATES = {
   /** One "Shop the ..." line per jersey on NFL, MLB, NBA and NHL team schedule posts. */
   schedulePosts: true,
   /** One HOMAGE vintage tee line on the throwback/history posts in HOMAGE_POSTS. */
-  homage: true,
+  // Off until Jake signs in to Impact and the HOMAGE tracking link goes in HOMAGE_IMPACT below (11/5).
+  homage: false,
 };
 
 export const on = (k: Exclude<keyof typeof AFFILIATES, "on">) => AFFILIATES.on && AFFILIATES[k];
