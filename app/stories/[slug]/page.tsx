@@ -161,6 +161,11 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     (post.league === "nba" || post.league === "nhl") && slug.endsWith("-uniform-schedule-2026-27")
       ? buildWinterIndex().find((t) => t.scheduleSlug === slug)
       : undefined;
+  // Jake 11/5: the calendar sits right under the game-by-game table, not at
+  // the bottom of the page, so split the body at the next section.
+  const split = winterTeam ? view.contentHtml.search(/<h2[^>]*>\s*(More [^<]*Coverage|Frequently Asked Questions)/) : -1;
+  const bodyTop = split > 0 ? view.contentHtml.slice(0, split) : view.contentHtml;
+  const bodyRest = split > 0 ? view.contentHtml.slice(split) : "";
 
   // "Today" is the render date. Most posts render only on deploy; team schedule
   // posts also re-render around game days (see revalidatePageWithin below).
@@ -540,23 +545,28 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           <>
             <article
               className="prose prose-lg max-w-none text-foreground leading-relaxed"
-              dangerouslySetInnerHTML={{ __html: nflTeam ? addNflGameDays(view.contentHtml, nflTeam.nickname) : view.contentHtml }}
+              dangerouslySetInnerHTML={{ __html: nflTeam ? addNflGameDays(view.contentHtml, nflTeam.nickname) : bodyTop }}
             />
+            {winterTeam && (
+              <section id="calendar" className="mt-10 mb-10 scroll-mt-28">
+                <h2 className="text-[26px] font-extrabold text-blue-dark mb-1">
+                  {winterTeam.name} 2026-27 Uniform Calendar
+                </h2>
+                <p className="text-[14px] text-gray-medium mb-6">
+                  Every game, month by month, with the {winterTeam.league === "nba" ? "jersey" : "sweater"} for each date.
+                </p>
+                <WinterCalendarGrid entry={winterTeam} league={winterTeam.league} />
+              </section>
+            )}
+            {bodyRest && (
+              <article
+                className="prose prose-lg max-w-none text-foreground leading-relaxed"
+                dangerouslySetInnerHTML={{ __html: bodyRest }}
+              />
+            )}
             <TwitterEmbed />
             <InstagramEmbed />
           </>
-        )}
-
-        {winterTeam && (
-          <section id="calendar" className="mt-12 scroll-mt-28">
-            <h2 className="text-[26px] font-extrabold text-blue-dark mb-1">
-              {winterTeam.name} 2026-27 Uniform Calendar
-            </h2>
-            <p className="text-[14px] text-gray-medium mb-6">
-              Every game, month by month, with the {winterTeam.league === "nba" ? "jersey" : "sweater"} for each date.
-            </p>
-            <WinterCalendarGrid entry={winterTeam} league={winterTeam.league} />
-          </section>
         )}
 
         {/* Byline card — a named human behind every grade */}
