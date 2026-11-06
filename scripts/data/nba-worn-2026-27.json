@@ -1712,6 +1712,34 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (Jazz white Association, Pelicans navy Icon; https://www.espn.com/nba/game/_/gameId/401909928)"
+    },
+    "2026-11-05 MIA@GSW": {
+      "score": {
+        "away": 100,
+        "home": 120
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Heat black MIAMI Icon, Warriors white Association; https://www.espn.com/nba/game/_/gameId/401909937)"
+    },
+    "2026-11-05 ORL@PHX": {
+      "score": {
+        "away": 104,
+        "home": 117
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Magic white pinstripe Association, Suns purple SUNS Icon; https://www.espn.com/nba/game/_/gameId/401909936)"
     }
   }
 }

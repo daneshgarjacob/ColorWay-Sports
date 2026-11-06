@@ -1,5 +1,5 @@
 ---
-title: "Hometown Remix Debut Week: 10 NHL Teams Wear Their New Jerseys Tuesday Through Thursday"
+title: "Hometown Remix Debut Week: How All 10 NHL Teams Did in Their New Jerseys"
 category: "NHL"
 date: "2026-11-03"
 updatedDate: "2026-11-05"
@@ -16,7 +16,7 @@ teams: ["pittsburgh-penguins", "montreal-canadiens", "philadelphia-flyers", "col
 
 The NHL's Hometown Remix jerseys stop being photos this week. Ten teams wear theirs for the first time between Tuesday and Thursday, and the week starts with the best possible matchup: **the Penguins debut the best Remix jersey in the league tonight against the Golden Knights, whose Remix we ranked dead last.** Vegas is on the road, so it will be in white, but the timing is perfect.
 
-**Tuesday's and Wednesday's debuts are in the books** (results below), and the Oilers, Islanders and Utah debut theirs tonight. Here is every debut this week, with where each jersey landed in our [Hometown Remix ranking](/stories/nhl-hometown-remix-jerseys-ranked).
+**All 10 debuts are in the books** (results below). The Remix teams went 3-7 in their first games, and the best jersey, Pittsburgh's, lost to the team with the worst one. Here is every debut this week, with where each jersey landed in our [Hometown Remix ranking](/stories/nhl-hometown-remix-jerseys-ranked).
 
 ## Tuesday, November 3
 
@@ -118,12 +118,16 @@ Also Wednesday: the Panthers wear their coral Remix again, at home against Chica
 
 Black with orange outlines, an "Oil Country" patch and warning stripes at the hem. Fun up close. From the stands, it is a black jersey with orange trim. Seven games.
 
+**Result:** Ducks 5, Oilers 4. Even with Connor McDavid scoring short-handed, Edmonton lost the debut. On the ice it is exactly what we expected: a black jersey with orange trim. Anaheim wore white.
+
 ### Islanders vs. Hurricanes: No. 19
 
 <img src="/images/posts/nhl-daily-tracker/islanders-remix.jpg" alt="New York Islanders Hometown Remix jersey, white with the Fisherman crest and wavy teal, orange and navy stripes" style="display:block;width:100%;max-width:340px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: NHL</p>
 
 The Fisherman is back, cleaned up, on a white sweater with wavy teal, orange and navy stripes. Islanders fans have wanted this for years. We still don't love the logo. Eleven games.
+
+**Result:** Hurricanes 5, Islanders 3. Because the Remix is white, Carolina wore its red home sweater on the road, so this one looked like a home game for the Hurricanes.
 
 ### Utah at Canadiens: No. 8
 
@@ -132,7 +136,9 @@ The Fisherman is back, cleaned up, on a white sweater with wavy teal, orange and
 
 The only road debut of the week. Bright mountain blue with black and white stripes shaped like rising tusks, and the first Mammoth jersey that isn't black or white. It reminds us a little of the Capitals' sweater, which is a compliment.
 
-Also Thursday: the Blue Jackets wear their Remix for the second time, at home against Dallas.
+**Result:** Canadiens 5, Mammoth 4 in overtime. Utah's blue against Montreal's red was the best color-on-color matchup of the week.
+
+Also Thursday: the Blue Jackets wore their Remix for the second time, at home against Dallas. **Result:** Blue Jackets 2, Stars 1 in a shootout, so Columbus is 2-0 in it.
 
 ## The Rest of the League
 
