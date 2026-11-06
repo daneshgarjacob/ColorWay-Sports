@@ -8,6 +8,11 @@ gradient: "linear-gradient(135deg, #141a2e 0%, #05070d 60%, #c8102e 130%)"
 author: "jake-daneshgar"
 coverImage: "/images/posts/nba-city-edition-ending-crafted-uniforms-2027-28/cover.jpg"
 coverImagePosition: "center center"
+coverCredit:
+  author: "All-Pro Reels and Erik Drost"
+  url: "https://commons.wikimedia.org/wiki/File:Bradley_Beal_WSH_Wizards_2022.jpg"
+  license: "CC BY-SA 2.0 and CC BY 2.0"
+  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0"
 kicker: Report
 league: "nba"
 teams: []
@@ -17,8 +22,10 @@ teams: []
 
 If it holds, the 2026-27 City Edition jerseys, which debut on **January 14, 2027**, are the last ones.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1.2em 0 0.4em;"><img src="/images/posts/nba-city-edition-ending-crafted-uniforms-2027-28/heat-city-edition.jpg" alt="Miami Heat ViceWave City Edition jersey, light blue with a hot pink Miami script, one of the designs returning for the final City Edition season in 2026-27" style="width:100%;border-radius:10px;" loading="lazy" /><img src="/images/posts/nba-city-edition-ending-crafted-uniforms-2027-28/spurs-city-edition.jpg" alt="San Antonio Spurs Fiesta City Edition jersey, black with a San Antonio script over pink, teal and orange stripes, returning for 2026-27" style="width:100%;border-radius:10px;" loading="lazy" /></div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Two of the best City Editions ever, both back for the final season. Images: NBA</p>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/jerseyarchive/status/2116097695286694045"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 1.5em;">The original report, via @jerseyarchive</p>
 
 ## What We Know
 
@@ -34,15 +41,27 @@ City Edition ran out of new ideas, and it showed. For eight seasons, each team g
 
 Two straight years of reruns is how a uniform program ends. Calling the next one something else is the easiest way to start over.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1.2em 0 0.4em;"><img src="/images/posts/nba-city-edition-ending-crafted-uniforms-2027-28/bulls-city-edition.jpg" alt="Chicago Bulls City Edition jersey, white with a red Chicago script and the red six-pointed stars of the Chicago flag down the side, returning for 2026-27" style="width:100%;border-radius:10px;" loading="lazy" /><img src="/images/posts/nba-city-edition-ending-crafted-uniforms-2027-28/thunder-city-edition.jpg" alt="Oklahoma City Thunder City Edition jersey, navy with an abstract pattern and an orange OKC wordmark, returning for 2026-27" style="width:100%;border-radius:10px;" loading="lazy" /></div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Bulls' flag set and the Thunder's OKC set, also returning this season. Images: NBA</p>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1.2em 0 0.4em;"><img src="/images/posts/nba-city-edition-ending-crafted-uniforms-2027-28/wizards-city-game.jpg" alt="Bradley Beal driving in the Washington Wizards 2021-22 City Edition uniform, royal blue with red and white stripes and a washington script, a Bullets throwback" style="width:100%;border-radius:10px;" loading="lazy" /><img src="/images/posts/nba-city-edition-ending-crafted-uniforms-2027-28/cavaliers-city-game.jpg" alt="Collin Sexton dribbling in the Cleveland Cavaliers 2018-19 City Edition uniform, an orange and royal blue diagonal split with a Cleveland script, February 2019" style="width:100%;border-radius:10px;" loading="lazy" /></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">City Edition on the court: the Wizards' 2021-22 Bullets throwback and the Cavaliers' 2018-19 orange-and-blue split. Photos: <a href="https://commons.wikimedia.org/wiki/File:Bradley_Beal_WSH_Wizards_2022.jpg" rel="nofollow noopener" target="_blank">All-Pro Reels</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0" rel="nofollow noopener" target="_blank">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Collin_Sexton_(46388682574).jpg" rel="nofollow noopener" target="_blank">Erik Drost</a> / <a href="https://creativecommons.org/licenses/by/2.0" rel="nofollow noopener" target="_blank">CC BY 2.0</a></p>
+
+And here is one of this season's reruns, the Bulls bringing back their 2017-18 Chicago flag set:
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/chicagobulls/status/2112212185170481516"></a></blockquote>
+</div>
 
 ## What "Crafted" Might Look Like
 
 The only clue so far is the Specter comparison. The Specter Edition uniforms for the Hawks, Celtics, Pistons, Warriors, Lakers, Knicks, 76ers and Kings are mostly black, with oversized graphics and small wordmarks and logos. They match the warmup gear those teams wear on the court, and they got a rough reception when they leaked. We graded all eight in our [Specter Edition breakdown](/stories/nba-specter-edition-jerseys-2026-27).
 
-<img src="/images/posts/nba-city-edition-ending-crafted-uniforms-2027-28/knicks-specter-flat.jpg" alt="New York Knicks Specter Edition jersey, mostly black with oversized blue and orange stripes and a small number, the style the new Crafted uniforms are being compared to" style="display:block;width:100%;max-width:300px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">The Knicks' Specter Edition jersey. Image: Nike/NBA</p>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DetroitPistons/status/2098160051328344074"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 1.5em;">The Pistons' Specter Edition, via @DetroitPistons</p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/jerseyarchive/status/2116127977448624350"></a></blockquote>
+</div>
 
 It's not clear yet whether Crafted is the Specter idea expanded to all 30 teams or a different direction entirely. If it's 30 teams in dark, graphic-heavy jerseys, expect the same backlash Specter got.
 

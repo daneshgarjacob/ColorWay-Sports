@@ -1,0 +1,44 @@
+{
+  "messi.jpg": {
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_NE_Revolution_Inter_Miami_7.9.25-183.jpg",
+    "description": "Lionel Messi on the ball in Inter Miami's pink home kit (pink with darker pink stripes, black trim) at New England Revolution, July 9, 2025"
+  },
+  "suarez.jpg": {
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Luis_Su%C3%A1rez_NE_Revolution_Inter_Miami_7.9.25-171.jpg",
+    "description": "Luis Suárez in Inter Miami's pink home kit (pink shirt, shorts and socks) chasing the ball at New England Revolution, July 9, 2025 (cropped)"
+  },
+  "lewandowski.jpg": {
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Robert_Lewandowski_NYCFC_v_Chicago_25_July_2026-335.jpg",
+    "description": "Robert Lewandowski in Chicago Fire FC's red kit (red shirt with white chest band and Carvana sponsor, red shorts and socks), No. 9, at New York City FC, July 25, 2026"
+  },
+  "griezmann.jpg": {
+    "author": "Keiteay",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Antoine_Griezmann_Orlando_City.jpg",
+    "description": "Antoine Griezmann in Orlando City's purple kit (purple shirt with Orlando Health sponsor, purple shorts and socks), No. 7, Leagues Cup vs Club León, August 8, 2026"
+  },
+  "sullivan.jpg": {
+    "author": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Cavan_Sullivan_Philadelphia_Chicago_10.26.25-116.jpg",
+    "description": "Cavan Sullivan dribbling in Philadelphia Union's navy home kit (navy shirt with gold detail and Bimbo sponsor, navy shorts) vs Chicago Fire, October 26, 2025"
+  },
+  "bouanga.jpg": {
+    "author": "Frenchieinportland",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Denis_Bouanga_2024.jpg",
+    "description": "Denis Bouanga in LAFC's sage green away kit (pale green shirt with BMO sponsor, matching shorts and socks), No. 99, at Portland Timbers, April 13, 2024 (cropped)"
+  }
+}
