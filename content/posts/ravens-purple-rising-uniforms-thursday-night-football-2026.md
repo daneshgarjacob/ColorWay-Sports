@@ -3,7 +3,7 @@ title: "Ravens Will Wear Purple Rising vs. Jaguars on Thursday Night Football: P
 author: "jake-daneshgar"
 category: NFL
 date: "2026-10-30"
-updatedDate: "2026-11-04"
+updatedDate: "2026-11-06"
 excerpt: "The Ravens wear their all-purple Purple Rising uniform against the Jaguars on Thursday Night Football, November 5, at M&T Bank Stadium: the metallic purple Purple Rising helmet with gold stripes and a gold facemask, the purple Purple Rising jersey and purple pants. It is the third time Baltimore has worn the look and the first in the new Next Flight version. Every detail, the history and the game info."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-purple-rising-uniforms-thursday-night-football-2026/cover.jpg"
@@ -19,6 +19,8 @@ logoSrc2: "/logos/teams/nfl-baltimore-ravens.png"
 league: nfl
 teams: ["baltimore-ravens", "jacksonville-jaguars"]
 ---
+
+**Update, Thursday night: worn as announced.** Game photos confirm the Ravens wore Purple Rising from helmet to socks, and the Jaguars wore the black helmet, white jersey and white pants. Jacksonville won 33-10 in the rain.
 
 **The Ravens are going all purple on Thursday night.** Baltimore wears its **Purple Rising** uniform when it hosts the Jacksonville Jaguars at M&T Bank Stadium on **Thursday, November 5, at 8:15 p.m. Eastern on Prime Video**. That is the **Purple Rising helmet, the purple Purple Rising jersey and purple pants**, from the top of the helmet to the socks. The Ravens named this game for Purple Rising on September 1, and they are pairing the night with their Salute to Service game.
 

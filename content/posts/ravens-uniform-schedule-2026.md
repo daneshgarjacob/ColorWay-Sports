@@ -3,7 +3,7 @@ topViewsRank: 6
 title: "Baltimore Ravens Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-06"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -74,6 +74,8 @@ It is worth being precise about what this is: a home game in white. Baltimore's 
 The all-purple combination gets the Thursday night window: purple jersey, purple pants, and the new **Purple Rising** helmet carrying the franchise's primary logo. This is the one the whole Next Flight program was built around. The Ravens wore essentially one helmet for thirty seasons, and the Purple Rising shell is the first real alternative, so putting it under the lights on a standalone Thursday against Jacksonville is the right way to introduce it. The team is pairing the night with its Salute to Service promotion.
 
 Our read: monochrome purple is a look very few teams can pull off, and Baltimore is one of them, because nobody else owns the color. Whether the Purple Rising helmet reads as an upgrade on television, rather than just as a change, is the question this game answers.
+
+**How it looked:** worn as announced, purple from helmet to socks, against the Jaguars in white jerseys and white pants. It looked great in the rain. The game did not: Jacksonville won 33-10.
 
 ## Darkness Falls: Week 10 vs. Chargers (Monday, November 16, 8:15)
 

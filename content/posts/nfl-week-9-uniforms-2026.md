@@ -3,7 +3,7 @@ title: "NFL Week 9 Uniforms 2026: What Every Team Is Wearing, Including Kelly Gr
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-10-30"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-06"
 excerpt: "NFL Week 9 uniforms (Nov. 5-9): the Eagles wear Kelly Green and the Giants wear Vintage White, the Ravens go all purple in Purple Rising on Thursday night, the Saints wear the gold jersey, the Chargers bring out Super Chargers navy, the Colts White Out against Dallas in navy, plus Madrid and every other game."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #241773 130%)"
 coverImage: "/images/posts/nfl-week-9-uniforms-2026/cover.jpg"
@@ -47,7 +47,7 @@ Kelly Green against white with red and blue trim is about as good as an NFL game
 <img src="/images/posts/ravens-uniforms-2026-reveal/purple-alternate.jpg" alt="Baltimore Ravens Purple Rising uniform, purple from helmet to pants with a gold facemask, worn against the Jaguars on Thursday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:460px;margin:0 auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Image: Baltimore Ravens</p>
 
-**Thursday, 8:15 p.m. ET, Prime Video. Both teams confirmed.** Baltimore named this game for Purple Rising on September 1: the **Purple Rising helmet, purple jersey and purple pants**. The helmet is metallic purple with gold stripes and a gold facemask, and for 2026 it carries the primary Ravens logo. The Ravens are pairing the night with their Salute to Service game. It is the second of three Next Flight theme games, after White Noise in Week 2, and the all-black Darkness Falls set follows 11 days later against the Chargers on Monday night.
+**Final: Jaguars 33, Ravens 10. Both uniforms confirmed from game photos.** Baltimore wore Purple Rising head to toe in the rain, and Jacksonville wore the black helmet, white jersey and white pants. Baltimore named this game for Purple Rising on September 1: the **Purple Rising helmet, purple jersey and purple pants**. The helmet is metallic purple with gold stripes and a gold facemask, and for 2026 it carries the primary Ravens logo. The Ravens are pairing the night with their Salute to Service game. It is the second of three Next Flight theme games, after White Noise in Week 2, and the all-black Darkness Falls set follows 11 days later against the Chargers on Monday night.
 
 With Baltimore in purple, Jacksonville confirmed a **black helmet, white jersey and white pants** on Wednesday.
 
@@ -206,7 +206,7 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 ### Thursday, November 5
 
-- **Jacksonville Jaguars at Baltimore Ravens**, 8:15 p.m. ET, Prime Video. Jaguars: black helmet, white jersey, white pants (confirmed). Ravens: Purple Rising helmet, purple jersey, purple pants (confirmed). Matchup grade: B+.
+- **Jacksonville Jaguars at Baltimore Ravens**, 8:15 p.m. ET, Prime Video. Jaguars: black helmet, white jersey, white pants (confirmed). Ravens: Purple Rising helmet, purple jersey, purple pants (worn). Final: Jaguars 33, Ravens 10. Matchup grade: B+.
 
 ### Sunday, November 8
 

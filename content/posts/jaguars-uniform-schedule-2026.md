@@ -2,7 +2,7 @@
 title: "Jacksonville Jaguars Jerseys & Uniforms 2026: Full Schedule"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-06"
 excerpt: "The Jaguars' 2026 uniform schedule: the new Bold City Rivalries jersey and its date against the Colts, two London home games, and the teal and white sets week by week."
 gradient: "linear-gradient(135deg, #006778 0%, #00404d 55%, #101820 130%)"
 coverImage: "/images/posts/jaguars-uniform-schedule-2026/cover.jpg"
@@ -127,11 +127,11 @@ How does every one of these jerseys stack up? See our [Jaguars jerseys 2026 rank
 
 **What jersey are the Jaguars wearing today?**
 
-**Week 9 (Thursday, November 5, 8:15 p.m. ET at Baltimore, Thursday Night Football on Prime Video):** the Jaguars wear the black helmet, white jersey and white pants, confirmed by the team. The Ravens wear their all-purple Purple Rising uniform. [Full preview](/stories/ravens-purple-rising-uniforms-thursday-night-football-2026). This answer updates every week. For the rest of the season: Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and the Prowler throwback goes on in Week 3 against New England and Week 14 against Pittsburgh. Week 13 at Chicago is teal, with the Bears in their classic white, and Week 16 at Dallas is the black alternate, with the Cowboys in their Arctic White alternate.
+**Week 9 (Thursday, November 5, 8:15 p.m. ET at Baltimore, Thursday Night Football on Prime Video):** the Jaguars wore the black helmet, white jersey and white pants, confirmed from game photos, and won 33-10. The Ravens wore their all-purple Purple Rising uniform. [Full preview](/stories/ravens-purple-rising-uniforms-thursday-night-football-2026). This answer updates every week. For the rest of the season: Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and the Prowler throwback goes on in Week 3 against New England and Week 14 against Pittsburgh. Week 13 at Chicago is teal, with the Bears in their classic white, and Week 16 at Dallas is the black alternate, with the Cowboys in their Arctic White alternate.
 
 **What jerseys are the Jaguars wearing this week?**
 
-**Week 9 (Thursday, November 5, 8:15 p.m. ET at Baltimore, Thursday Night Football on Prime Video):** the Jaguars wear the black helmet, white jersey and white pants, confirmed by the team. The Ravens wear their all-purple Purple Rising uniform. [Full preview](/stories/ravens-purple-rising-uniforms-thursday-night-football-2026). For the rest of the season: Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and the Prowler throwback goes on in Week 3 against New England and Week 14 against Pittsburgh. Week 13 at Chicago is teal, with the Bears in their classic white, and Week 16 at Dallas is the black alternate, with the Cowboys in their Arctic White alternate.
+**Week 9 (Thursday, November 5, 8:15 p.m. ET at Baltimore, Thursday Night Football on Prime Video):** the Jaguars wore the black helmet, white jersey and white pants, confirmed from game photos, and won 33-10. The Ravens wore their all-purple Purple Rising uniform. [Full preview](/stories/ravens-purple-rising-uniforms-thursday-night-football-2026). For the rest of the season: Teal at home and white on the road. Week 8 against Indianapolis is the confirmed Rivalries jersey, both London games in Weeks 5 and 6 count as home dates and stay teal, and the Prowler throwback goes on in Week 3 against New England and Week 14 against Pittsburgh. Week 13 at Chicago is teal, with the Bears in their classic white, and Week 16 at Dallas is the black alternate, with the Cowboys in their Arctic White alternate.
 
 **What uniform did the Jaguars wear last week?**
 
