@@ -3,7 +3,7 @@ import StoryCard from "@/components/StoryCard";
 import { LeadStory, LatestRail } from "@/components/home/HomeRefresh";
 import { latestStandsDate, standsPhotoFor, standsPool } from "@/lib/homeToday";
 import { MyTeamsRow, TeamPicker } from "@/components/home/MyTeams";
-import { getMyTeamCards } from "@/lib/myTeams";
+import { getMyTeamCards, withOpponents } from "@/lib/myTeams";
 import { tonightMatchups } from "@/lib/tonight";
 import TonightRow from "@/components/home/TonightRow";
 import { MOST_READ } from "@/lib/mostRead";
@@ -305,6 +305,7 @@ export default async function Home() {
   const standsFresh = daysSince(latestStandsDate()) <= 7;
   const mostRead = MOST_READ.map((slug) => posts.find((p) => p.slug === slug)).filter((p): p is Post => !!p).slice(0, 5);
   const myTeamCards = getMyTeamCards();
+  const myTeamMatchups = withOpponents(myTeamCards);
   const tonightGames = tonightMatchups(new Date());
   const todayLong = new Date(`${todayEt}T12:00:00Z`).toLocaleDateString("en-US", {
     weekday: "long",
@@ -325,7 +326,7 @@ export default async function Home() {
             bands are gone; /tonight holds every game. */}
         {/* Jake 11/2: the reader's followed teams, next uniform first. Shows only
             after they follow a team in the Find Your Team row below. */}
-        <MyTeamsRow teams={myTeamCards} teamPages />
+        <MyTeamsRow teams={myTeamMatchups} teamPages />
 
         {/* 10/5: lead story (2/3) + Jake's Takes rail (1/3) */}
         {heroPost && (

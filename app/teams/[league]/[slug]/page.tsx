@@ -5,14 +5,13 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { FollowButton } from "@/components/home/MyTeams";
-import { getMyTeamCards, getTeamCard, type MyTeamCard, type NextGame } from "@/lib/myTeams";
+import { getMyTeamCards, getTeamCard, type NextGame } from "@/lib/myTeams";
 import { getAllPostsByDate } from "@/lib/posts";
-import { buildNflTeamIndex } from "@/lib/nflTrackerTeamIndex";
-import { buildWinterIndex } from "@/lib/winterTrackerIndex";
 
 // One page per team, the way ESPN's app works (Jake 11/4): this week's
-// uniform up top, the next few games, links to the full schedule and the
-// calendar, then every story we have on the club. Built from the same data as
+// uniform up top, the next few games, one link to the full uniform schedule
+// (Jake 11/5: no separate Calendar tab, the schedule post has every game),
+// then every story we have on the club. Built from the same data as
 // the homepage My Teams cards, so the two never disagree.
 
 export const revalidate = 3600;
@@ -33,7 +32,7 @@ export async function generateMetadata({ params }: { params: Promise<{ league: s
   const title = `${card.name} Uniforms: What They're Wearing This Week, Schedule and News`;
   const description = card.next
     ? `${card.name} this week: ${card.next.look}, ${card.next.when} ${card.next.opp}. Every upcoming uniform, the full ${card.name} uniform schedule and all our ${card.nickname} stories.`
-    : `The ${card.name} uniform schedule, calendar and every ColorWay Sports story on the ${card.nickname}.`;
+    : `The ${card.name} uniform schedule and every ColorWay Sports story on the ${card.nickname}.`;
   return {
     title,
     description,
@@ -43,18 +42,6 @@ export async function generateMetadata({ params }: { params: Promise<{ league: s
     robots: { index: false, follow: true },
     openGraph: { title, description, url: `/teams/${league}/${slug}`, type: "website" },
   };
-}
-
-function calendarHref(card: MyTeamCard, league: string, slug: string): string | undefined {
-  if (league === "nfl") {
-    const t = buildNflTeamIndex().find((x) => x.slug === slug);
-    return t && `/nfl-tracker/${t.key}`;
-  }
-  if (league === "nba" || league === "nhl") {
-    const t = buildWinterIndex().find((x) => x.league === league && x.slug === slug);
-    return t && `/${league}-tracker/${t.key}`;
-  }
-  return undefined;
 }
 
 function Jersey({ src, logo, big }: { src?: string; logo: string; big?: boolean }) {
@@ -84,7 +71,6 @@ export default async function TeamPage({ params }: { params: Promise<{ league: s
   const { league, slug } = await params;
   const card = getTeamCard(`${league}:${slug}`);
   if (!card) notFound();
-  const calendar = calendarHref(card, league, slug);
   const stories = getAllPostsByDate().filter((p) => p.teams?.includes(slug)).slice(0, 12);
   const [first, ...rest] = card.upcoming ?? [];
   const LABEL = "font-display text-[11px] font-black tracking-[0.18em] uppercase";
@@ -108,8 +94,7 @@ export default async function TeamPage({ params }: { params: Promise<{ league: s
           <nav className="max-w-[1200px] mx-auto px-5 flex gap-5 text-[13px] font-extrabold overflow-x-auto">
             <a href="#this-week" className="pb-3 border-b-2 border-white whitespace-nowrap">This week</a>
             {rest.length > 0 && <a href="#coming-up" className="pb-3 text-white/75 whitespace-nowrap">Coming up</a>}
-            <Link prefetch={false} href={card.href} className="pb-3 text-white/75 whitespace-nowrap">Full schedule</Link>
-            {calendar && <Link prefetch={false} href={calendar} className="pb-3 text-white/75">Calendar</Link>}
+            <Link prefetch={false} href={card.href} className="pb-3 text-white/75 whitespace-nowrap">Uniform schedule</Link>
             {stories.length > 0 && <a href="#stories" className="pb-3 text-white/75">Stories</a>}
           </nav>
         </section>

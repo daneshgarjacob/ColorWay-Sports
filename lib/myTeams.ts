@@ -34,6 +34,8 @@ export type MyTeamCard = {
     confirmed?: boolean;
     /** Sort key, ms. */
     at: number;
+    /** The other club in this game, when we track it (withOpponents). */
+    vs?: { nickname: string; logo: string; look?: string; img?: string };
   };
   /** Shown instead of a next game (offseason, bye). */
   note?: string;
@@ -242,6 +244,23 @@ function cfbCards(now: Date, n: number): MyTeamCard[] {
 
 export function getMyTeamCards(now = new Date(), n = 1): MyTeamCard[] {
   return [...nflCards(now, n), ...winterCards(now, n), ...mlbCards(), ...cfbCards(now, n)].sort((a, b) => a.nickname.localeCompare(b.nickname));
+}
+
+/**
+ * Fills each card's next.vs with the opponent's jersey for that same game
+ * (Jake 11/5: tapping a My Teams card shows both teams). The opponent's next
+ * game can be an earlier one, so look it up in their next few games.
+ */
+export function withOpponents(cards: MyTeamCard[], now = new Date()): MyTeamCard[] {
+  const deep = getMyTeamCards(now, 6);
+  return cards.map((c) => {
+    if (!c.next) return c;
+    const name = c.next.opp.replace(/^(vs|at) /, "");
+    const opp = deep.find((d) => d.league === c.league && d.nickname === name);
+    if (!opp) return c;
+    const g = opp.upcoming?.find((u) => Math.abs(u.at - c.next!.at) < 6 * 3600e3);
+    return { ...c, next: { ...c.next, vs: { nickname: opp.nickname, logo: opp.logo, look: g?.look, img: g?.img } } };
+  });
 }
 
 /** "nfl:los-angeles-chargers" -> "/teams/nfl/los-angeles-chargers" */

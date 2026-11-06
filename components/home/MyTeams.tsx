@@ -52,14 +52,56 @@ function useFollowed(): [string[], (id: string) => void] {
 // repeated here because that file reads the disk and can't ship to the browser).
 const teamPage = (id: string) => `/teams/${id.replace(":", "/")}`;
 
+function MatchSide({ logo, look, img, label }: { logo?: string; look?: string; img?: string; label: string }) {
+  return (
+    <div className="flex-1 min-w-0 flex flex-col items-center text-center gap-1.5">
+      <div className="w-[110px] h-[124px] sm:w-[150px] sm:h-[168px] rounded-xl bg-[#f4f6f9] flex items-center justify-center overflow-hidden">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        {(img ?? logo) && <img src={img ?? logo} alt="" className={img ? "w-[92%] h-[92%] object-contain" : "w-[55%] h-[55%] object-contain"} />}
+      </div>
+      <div className="font-display font-black text-[15px] sm:text-[17px] leading-tight">{label}</div>
+      {look && <div className="text-[12px] sm:text-[13px] leading-snug text-foreground/80">{look}</div>}
+    </div>
+  );
+}
+
+// Jake 11/5: tapping a card opens the matchup, our jersey against theirs,
+// instead of leaving the homepage. The team page is one more tap away.
+function Matchup({ t, href }: { t: MyTeamCard; href: string }) {
+  const g = t.next!;
+  const home = g.opp.startsWith("vs ");
+  const oppName = g.vs?.nickname ?? g.opp.replace(/^(vs|at) /, "");
+  const us = <MatchSide logo={t.logo} look={g.look} img={g.img} label={t.nickname} />;
+  const them = <MatchSide logo={g.vs?.logo} look={g.vs?.look} img={g.vs?.img} label={oppName} />;
+  return (
+    <div className="mt-1 mb-2 rounded-2xl border border-border bg-white p-4" style={{ borderTop: `4px solid ${t.color === "#0A1733" ? "#003087" : t.color}` }}>
+      <div className={`${LABEL} text-steel text-center mb-3`}>{g.when}</div>
+      <div className="flex items-start gap-2 max-w-[520px] mx-auto">
+        {home ? them : us}
+        <div className="self-center font-display font-black text-[13px] text-steel">at</div>
+        {home ? us : them}
+      </div>
+      {!g.vs?.look && <div className="text-center text-[11px] text-steel mt-2">{oppName} jersey not posted yet</div>}
+      <div className="text-center mt-3">
+        <Link prefetch={false} href={href} className="font-display text-[14px] font-extrabold text-orange">
+          {`Every ${t.nickname} uniform this season →`}
+        </Link>
+      </div>
+    </div>
+  );
+}
+
 export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPages?: boolean }) {
   const [ids, toggle] = useFollowed();
   const [editing, setEditing] = useState(false);
+  const [open, setOpen] = useState<string | null>(null);
   const mine = teams
     .filter((t) => ids.includes(t.id))
     // Soonest game first; offseason clubs (no next game) go last.
     .sort((a, b) => (a.next?.at ?? Infinity) - (b.next?.at ?? Infinity));
   if (!mine.length) return null;
+  const opened = mine.find((t) => t.id === open && t.next);
+  const hrefOf = (t: MyTeamCard) => (teamPages ? teamPage(t.id) : t.href);
 
   return (
     <section className="max-w-[1200px] mx-auto px-5 pt-6">
@@ -76,21 +118,13 @@ export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPage
           // too, so the row stays one line and the big cards are tonight's games.
           const off = !t.next;
           const quiet = off || !/^(Today|Tonight)/.test(t.next?.when ?? "");
-          return (
-          <div key={t.id} className={`relative snap-start shrink-0 ${off ? "w-[150px]" : `w-[210px] sm:w-[250px] ${quiet ? "lg:w-[200px]" : ""}`}`}>
-            <Link
-              prefetch={false}
-              href={teamPages ? teamPage(t.id) : t.href}
-              className="flex gap-2.5 items-center rounded-xl p-2 sm:p-2.5 h-full bg-white border border-border hover:border-black/25 transition-colors"
-              // Plain white card with the club's color as a left stripe, like the
-              // site's story cards (Jake 11/4: the dark gradient read as AI).
-              style={{ borderLeft: `5px solid ${t.color === "#0A1733" ? "#003087" : t.color}` }}
-            >
+          const inner = (
+            <>
               <div className={`w-[48px] h-[56px] sm:w-[58px] sm:h-[68px] shrink-0 rounded-lg ${off ? "hidden" : quiet ? "lg:hidden" : ""} bg-[#f4f6f9] flex items-center justify-center overflow-hidden`}>
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={t.next?.img ?? t.logo} alt="" className={t.next?.img ? "w-[90%] h-[90%] object-contain" : "w-[70%] h-[70%] object-contain"} />
               </div>
-              <div className="min-w-0">
+              <div className="min-w-0 text-left">
                 <div className="flex items-center gap-1 text-[9px] font-black tracking-[0.14em] uppercase text-steel truncate">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img src={t.logo} alt="" className="w-3.5 h-3.5 object-contain" />
@@ -102,12 +136,26 @@ export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPage
                     <div className="text-[11px] text-gray-medium mt-0.5 truncate">
                       {t.next.when} · {t.next.opp}
                     </div>
-                                      </>
+                  </>
                 ) : (
                   <div className="font-display font-black text-[13px] leading-tight mt-0.5 text-black">{t.note}</div>
                 )}
-                              </div>
-            </Link>
+              </div>
+            </>
+          );
+          const cls = `flex gap-2.5 items-center rounded-xl p-2 sm:p-2.5 h-full w-full bg-white border transition-colors ${open === t.id ? "border-black" : "border-border hover:border-black/25"}`;
+          // Plain white card with the club's color as a left stripe, like the
+          // site's story cards (Jake 11/4: the dark gradient read as AI).
+          const style = { borderLeft: `5px solid ${t.color === "#0A1733" ? "#003087" : t.color}` };
+          return (
+          <div key={t.id} className={`relative snap-start shrink-0 ${off ? "w-[150px]" : `w-[210px] sm:w-[250px] ${quiet ? "lg:w-[200px]" : ""}`}`}>
+            {off ? (
+              <Link prefetch={false} href={hrefOf(t)} className={cls} style={style}>{inner}</Link>
+            ) : (
+              <button type="button" aria-expanded={open === t.id} onClick={() => setOpen((v) => (v === t.id ? null : t.id))} className={cls} style={style}>
+                {inner}
+              </button>
+            )}
             {editing && (
               <button
                 onClick={() => toggle(t.id)}
@@ -121,6 +169,7 @@ export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPage
           );
         })}
       </div>
+      {opened && <Matchup t={opened} href={hrefOf(opened)} />}
     </section>
   );
 }
