@@ -81,6 +81,8 @@ It isn't an A+ because the best version stays in the stands. The Vice City scrip
 
 Every other night on the Heat's calendar is in our [Miami Heat 2026-27 uniform schedule](/stories/miami-heat-uniform-schedule-2026-27), and what all 30 teams wear tonight is in the [NBA uniform tracker](/stories/nba-uniform-tracker-2026-27).
 
+Every Heat logo and jersey since 1988: [Miami Heat logo and jersey history](/stories/miami-heat-logo-and-jersey-history).
+
 ## Frequently Asked Questions
 
 **When do the Heat wear the Vice City jerseys?**
