@@ -3,7 +3,7 @@ title: "East Carolina Uniform Schedule 2026: Every Jersey and When the Pirates W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-07"
 excerpt: "What East Carolina wears every game in 2026: the purple home set, the white road set, the black Night of the Boneyard alternate, and every date."
 gradient: "linear-gradient(135deg, #592A8A 0%, #6f3fa3 55%, #FDC82F 130%)"
 cardStyle: words
@@ -74,7 +74,7 @@ The other thing to know is that ECU ties its uniforms to what the crowd is told 
 
 **October 31 vs. Temple.** Purple expected. Halloween in Greenville for Fan Appreciation, kickoff time to be announced, with Temple expected in white. See our [Temple 2026 uniform schedule](/stories/temple-uniform-schedule-2026).
 
-**November 6 vs. South Florida.** Purple or black. A Friday night at 7:30 on ESPN2 that ECU has tagged as Paint It Black, Night of the Boneyard and Military Appreciation Day. When the crowd is told to wear black for a Boneyard night, the team has usually followed, so this is the date we would bet on for the black set. It is not confirmed. USF is expected in white on our [South Florida 2026 uniform schedule](/stories/south-florida-uniform-schedule-2026).
+**November 6 vs. South Florida.** Purple or black. A Friday night at 7:30 on ESPN2 that ECU has tagged as Paint It Black, Night of the Boneyard and Military Appreciation Day. When the crowd is told to wear black for a Boneyard night, the team has usually followed, so this is the date we would bet on for the black set. It is not confirmed. USF is expected in white on our [South Florida 2026 uniform schedule](/stories/south-florida-uniform-schedule-2026). **Final: East Carolina 20, South Florida 17**, on a 55-yard field goal at the horn. East Carolina wore black (checked against the game photos).
 
 **November 14 at Charlotte.** White expected. The in-state road trip to Jerry Richardson Stadium, kickoff time to be announced, with Charlotte in green.
 

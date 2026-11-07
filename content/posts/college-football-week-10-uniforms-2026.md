@@ -3,7 +3,7 @@ title: "College Football Week 10 Uniforms 2026: Tennessee's Dark Mode, Florida A
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-30"
-updatedDate: "2026-11-06"
+updatedDate: "2026-11-07"
 excerpt: "College football Week 10 uniforms: Tennessee wears its all-black Dark Mode against Kentucky, Florida goes all blue against Oklahoma, and Miami visits Notre Dame, Alabama visits LSU and Oregon visits Ohio State. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #2a1a08 60%, #FF8200 130%)"
 coverImage: "/images/posts/college-football-week-10-uniforms-2026/cover.jpg"
@@ -20,6 +20,13 @@ resurfaceOnUpdate: true
 ---
 
 Week 10 of the 2026 college football season is the biggest Saturday of the year so far. **No. 1 Miami plays at No. 5 Notre Dame** on Saturday night, **No. 10 Alabama goes to No. 15 LSU**, **Oregon visits No. 2 Ohio State**, **No. 3 Georgia plays at No. 12 Ole Miss**, **No. 8 BYU and No. 6 Utah** meet in the Holy War and **No. 11 Texas visits No. 23 Missouri**. Several looks are already known. **Tennessee wears its all-black Dark Mode against No. 9 Kentucky**, announced a full week early, and **Florida goes all blue against Oklahoma**, the one all-blue game on the season schedule Florida published in August. Air Force plays at Army for the Commander-in-Chief's Trophy on Saturday night, and Arizona hosts TCU on Friday in its Sandstorm-themed game.
+
+**Update, Saturday morning: Friday's games are final.** Checked against the game photos:
+
+- **No. 22 Arizona 29, TCU 28.** Sandstorm as announced: the chrome red ARIZONA helmet, white jersey and white pants with red socks. TCU wore **purple**, not the white we expected, since Arizona took the white.
+- **No. 19 SMU 51, Virginia Tech 28.** Dark mode as announced: black helmet with the royal blue stripes, black jersey, black pants. Virginia Tech wore white with maroon helmets.
+- **East Carolina 20, South Florida 17**, on a 55-yard field goal as time expired. East Carolina went black for Paint It Black. South Florida wore a white helmet, white jersey and green pants.
+- **Illinois 24, Nebraska 13** and **New Mexico 31, Nevada 3** are also final. We have not checked those two against game photos yet, so the looks below stay as announced for now.
 
 Below is every uniform announced so far, then every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it for this game. When a school has not posted yet, we give our projection from that team's uniform schedule and label it **Expected**. Most schools post their combination between Monday and game day, so this page fills in all week, and on Saturday we confirm every look from the game broadcasts and team photos, then add final scores. Rankings are from the October 25 AP poll; we will update them when the new poll comes out on Sunday. All times are Eastern. Last week's looks are in our [Week 9 uniform guide](/stories/college-football-week-9-uniforms-2026).
 
@@ -110,7 +117,7 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArizonaFBall/status/2117351669789020511"></a></blockquote>
-</div> **TCU: Expected, white.** More: [Arizona schedule](/stories/arizona-uniform-schedule-2026) and [TCU schedule](/stories/tcu-uniform-schedule-2026).
+</div> **TCU: Confirmed, purple.** Final: Arizona 29, TCU 28. More: [Arizona schedule](/stories/arizona-uniform-schedule-2026) and [TCU schedule](/stories/tcu-uniform-schedule-2026).
 
 ### Virginia Tech at No. 19 SMU: Dark Mode in Dallas
 
@@ -170,14 +177,17 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 ### Friday, November 6
 
 **[Virginia Tech](/stories/virginia-tech-uniform-schedule-2026) at No. 19 [SMU](/stories/smu-uniform-schedule-2026)**, 7 p.m. (6 p.m. Central), ESPN.
-- Virginia Tech: **Expected**, white.
+- **Final: SMU 51, Virginia Tech 28.**
+- Virginia Tech: **Confirmed**, white with maroon helmets.
 - SMU: **Confirmed**, Dark mode: black helmet, black jersey, black pants. See above.
 
 **[South Florida](/stories/south-florida-uniform-schedule-2026) at [East Carolina](/stories/east-carolina-uniform-schedule-2026)**, 7:30 p.m., ESPN2.
-- South Florida: **Expected**, white.
-- East Carolina: **Expected**, purple or black. Paint It Black, Night of the Boneyard and Military Appreciation Day.
+- **Final: East Carolina 20, South Florida 17** (55-yard field goal at the horn).
+- South Florida: **Confirmed**, white helmet, white jersey, green pants.
+- East Carolina: **Confirmed**, black for Paint It Black, Night of the Boneyard and Military Appreciation Day.
 
 **[Nebraska](/stories/nebraska-uniform-schedule-2026) at [Illinois](/stories/illinois-uniform-schedule-2026)**, 8 p.m. (7 p.m. Central), FOX.
+- **Final: Illinois 24, Nebraska 13.**
 - Nebraska: **Expected**, white.
 - Illinois: **Confirmed**, back in blue: navy helmet, navy jersey, navy pants, for Dads Day and a "Hail to the Blue Out."
 
@@ -186,10 +196,11 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Illinois is back in blue for Nebraska: navy helmet, navy jersey, navy pants, via @IlliniFootball</p>
 
-**New Mexico at Nevada**, 9 p.m. (6 p.m. Pacific), CBSSN.
+**New Mexico at Nevada**, 9 p.m. (6 p.m. Pacific), CBSSN. **Final: New Mexico 31, Nevada 3.**
 
 **[TCU](/stories/tcu-uniform-schedule-2026) at No. 22 [Arizona](/stories/arizona-uniform-schedule-2026)**, 10:15 p.m., ESPN.
-- TCU: **Expected**, white.
+- **Final: No. 22 Arizona 29, TCU 28.**
+- TCU: **Confirmed**, purple.
 - Arizona: **Confirmed**, Sandstorm: chrome red ARIZONA helmet, white jersey, white pants. See above.
 
 ### Saturday, November 7: Noon Window

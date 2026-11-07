@@ -3,7 +3,7 @@ title: "SMU Uniform Schedule 2026: Every Jersey and When the Mustangs Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-07"
 excerpt: "What SMU wears every game in 2026: the blue home set, the icy whites, the red and black alternates, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #354CA1 0%, #4a63bd 55%, #C8102E 130%)"
 cardStyle: words
@@ -108,7 +108,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 **October 31 at Syracuse.** White expected. Halloween in the dome, and orange against the icy whites is one of the better looking games on the SMU calendar. See the [Syracuse 2026 uniform schedule](/stories/syracuse-uniform-schedule-2026).
 
-**November 6 vs. Virginia Tech.** ★ Confirmed by SMU ("Dark mode"): **black helmet with royal blue stripes and a royal blue facemask, black jersey with blue numbers, black pants.** We had blue down. A Friday night ACC game at 6 p.m. Central on ESPN, built around Club Takeaway Night, with light-up sticks for the first 5,000 students. More on the visitor at the [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026).
+**November 6 vs. Virginia Tech.** ★ Confirmed by SMU ("Dark mode"): **black helmet with royal blue stripes and a royal blue facemask, black jersey with blue numbers, black pants.** We had blue down. A Friday night ACC game at 6 p.m. Central on ESPN, built around Club Takeaway Night, with light-up sticks for the first 5,000 students. More on the visitor at the [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026). **Final: SMU 51, Virginia Tech 28.** Worn as announced, checked against the game photos.
 
 **November 14 vs. Wake Forest.** Blue expected. Homecoming and Senior Day, and the last home game of the season.
 

@@ -3,7 +3,7 @@ title: "TCU Uniform Schedule 2026: The Black Ireland Alternate, the Clover Frog 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-06"
+updatedDate: "2026-11-07"
 excerpt: "What TCU wears every game in 2026, starting with the black Frog Horn alternate and the Clover Frog helmet for the Dublin opener against North Carolina."
 gradient: "linear-gradient(135deg, #4D1979 0%, #111111 60%, #A3A9AC 130%)"
 cardStyle: words
@@ -92,7 +92,7 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TCUFootball/status/2116173734629278037"></a></blockquote>
 </div>
 
-**November 6 (Friday night) at Arizona**, Casino Del Sol Stadium. Purple or black expected: Arizona wears its all-white Sandstorm look at home, so TCU should be in color.
+**November 6 (Friday night) at Arizona**, Casino Del Sol Stadium. Purple or black expected: Arizona wears its all-white Sandstorm look at home, so TCU should be in color. **Final: Arizona 29, TCU 28.** TCU wore purple (checked against the game photos).
 
 **November 14 vs. Kansas State**, Amon G. Carter Stadium. Purple expected.
 

@@ -3,7 +3,7 @@ title: "Nebraska Uniform Schedule 2026: Every Jersey and When the Cornhuskers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-10"
+updatedDate: "2026-11-07"
 excerpt: "Nebraska uniform schedule 2026: every Huskers jersey by week, the scarlet home uniform, white road set, and the black alternate jersey for the Halloween Blackout against Washington."
 gradient: "linear-gradient(135deg, #E41C38 0%, #a8142a 55%, #111111 130%)"
 cardStyle: words
@@ -64,7 +64,7 @@ The black alternate is where 2026 gets interesting. Nebraska Athletics unveiled 
 
 **October 31 vs. Washington.** Black alternate, announced by Nebraska Athletics: black helmet with the metallic red Huskers script, black jersey, black pants. Halloween night is the second annual Blackout game at Memorial Stadium, Huskers against Huskies, and the chance to snap that 0-5 record in black. We will star the cell once we see it on the field.
 
-**November 6 at Illinois.** White expected. A Friday night game at Gies Memorial Stadium, 7 p.m. Central on FOX.
+**November 6 at Illinois.** White expected. A Friday night game at Gies Memorial Stadium, 7 p.m. Central on FOX. **Final: Illinois 24, Nebraska 13.**
 
 **November 14 at Rutgers.** White expected. Kickoff time is still to be announced.
 

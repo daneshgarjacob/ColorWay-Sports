@@ -3,7 +3,7 @@ title: "Arizona Uniform Schedule 2026: Every Jersey and When the Wildcats Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-07"
 excerpt: "Arizona football uniforms for 2026: Sandstorm with red pants at West Virginia, navy at home, white on the road, and every Wildcats jersey week by week."
 gradient: "linear-gradient(135deg, #0C234B 0%, #1a3566 55%, #AB0520 130%)"
 cardStyle: words
@@ -74,7 +74,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
 
 **October 31 at Texas Tech.** White expected. Halloween in Lubbock, where the Red Raiders are expected in red or black.
 
-**November 6 vs. TCU (Friday).** ★ Confirmed by the team's Monday photos: the Sandstorm set with **white pants** this time, a **chrome red helmet with ARIZONA across the side**, the **white jersey with red numbers**, white pants and red socks. It is Arizona's first official Sandstorm-themed game, with fans asked to wear white. Our grade: A+. It is the best look in the Arizona closet.
+**November 6 vs. TCU (Friday).** ★ Confirmed by the team's Monday photos: the Sandstorm set with **white pants** this time, a **chrome red helmet with ARIZONA across the side**, the **white jersey with red numbers**, white pants and red socks. It is Arizona's first official Sandstorm-themed game, with fans asked to wear white. Our grade: A+. It is the best look in the Arizona closet. **Final: Arizona 29, TCU 28.** Worn as announced (checked against the game photos), with TCU in purple.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArizonaFBall/status/2117351669789020511"></a></blockquote>

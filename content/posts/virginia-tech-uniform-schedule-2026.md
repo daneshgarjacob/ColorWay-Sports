@@ -3,7 +3,7 @@ title: "Virginia Tech Uniform Schedule 2026: Every Jersey and When the Hokies We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-07"
 excerpt: "Virginia Tech uniform schedule 2026: the maroon home jersey, white road set, all-orange alternate, Hokie Stone, and every Hokies game's uniform week by week."
 gradient: "linear-gradient(135deg, #630031 0%, #7a1a45 55%, #CF4420 130%)"
 cardStyle: words
@@ -65,7 +65,7 @@ The current base sets are Nike's 2024 refresh, which pulled from the 1999 and 20
 
 **October 31.** Bye.
 
-**November 6 at SMU.** White expected, since Virginia Tech is the visitor. A Friday night game in Dallas at 7 p.m. Eastern on ESPN. ESPN's schedule feed lists it under November 7 because it runs on UTC. It is played Friday, November 6.
+**November 6 at SMU.** White expected, since Virginia Tech is the visitor. A Friday night game in Dallas at 7 p.m. Eastern on ESPN. ESPN's schedule feed lists it under November 7 because it runs on UTC. It is played Friday, November 6. **Final: SMU 51, Virginia Tech 28.** Virginia Tech wore white with maroon helmets (checked against the game photos).
 
 **November 14 vs. Stanford.** Maroon expected, since it is a home game. The kickoff time has not been set.
 
