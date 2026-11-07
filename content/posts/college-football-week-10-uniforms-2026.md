@@ -70,6 +70,11 @@ This is the adidas Dark Mode set Tennessee revealed on July 9 when it launched i
 
 **Saturday, 7:45 p.m., SEC Network.** **Florida: Announced, all blue.** Florida is the rare college program that publishes its uniform schedule before the season, and its 2026 grid has one all-blue game: a **blue helmet, blue jersey and blue pants** against Oklahoma in The Swamp. Florida has followed that grid in every game but one. At Texas on October 17 it wore the blue helmet instead of the listed orange, so we will still look for the game-week post before calling it confirmed.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GatorsFB/status/2118499747283542422"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Florida's all-blue uniform for Oklahoma, via <a href="https://x.com/GatorsFB" target="_blank" rel="noopener">@GatorsFB</a></p>
+
 <img src="/images/posts/florida-uniform-schedule-2026/uniform-schedule-grid.jpg" alt="Florida Gators 2026 uniform schedule grid, listing a blue helmet, blue jersey and blue pants against Oklahoma on November 7" style="width: 100%; max-width: 560px; display: block; margin: 1.5em auto 0.8em; border-radius: 12px;" />
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Florida's 2026 uniform schedule, via Florida Gators Football</p>
@@ -351,6 +356,11 @@ Also in the afternoon: UL Monroe at Arkansas State (3 p.m., ESPN+), Delaware at 
 - Texas State: **Expected**, white.
 - Oregon State: **Confirmed**, military appreciation: white helmet with the orange and black stripe, black jersey with gray digital-camo numbers, camo gloves, posted by the team.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BeaverFootball/status/2118531418032873938"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Oregon State's military appreciation uniform for Texas State, via <a href="https://x.com/BeaverFootball" target="_blank" rel="noopener">@BeaverFootball</a></p>
+
 **[Wyoming](/stories/wyoming-uniform-schedule-2026) at [UNLV](/stories/unlv-uniform-schedule-2026)**, 10:30 p.m. (7:30 p.m. Pacific), CBSSN, at Allegiant Stadium.
 - Wyoming: **Expected**, white.
 - UNLV: **Expected**, red. Military Appreciation and Native American Heritage Day.
@@ -386,6 +396,11 @@ Also on Saturday night: Sam Houston at Jacksonville State (7 p.m., CBSSN).
 **[Iowa State](/stories/iowa-state-uniform-schedule-2026) at [Baylor](/stories/baylor-uniform-schedule-2026)**.
 - Iowa State: **Expected**, white.
 - Baylor: **Confirmed** green helmet with the gold bear head for Homecoming ("Homecoming Threads," posted by the team).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BUFootball/status/2118729261490339965"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Baylor's Homecoming uniform for Iowa State, via <a href="https://x.com/BUFootball" target="_blank" rel="noopener">@BUFootball</a></p>
 
 **[Michigan State](/stories/michigan-state-uniform-schedule-2026) at [Michigan](/stories/michigan-uniform-schedule-2026)**.
 - Michigan State: **Expected**, white, for the Paul Bunyan Trophy.

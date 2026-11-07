@@ -114,6 +114,11 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 **Sunday, 9:30 a.m. ET, NFL Network, Santiago Bernabéu, Madrid.** Atlanta is the designated home team, so the game counts as one of its nine home dates. The Falcons' September 10 schedule has **red** for it: the black helmet, the red jersey and white pants. Cincinnati is the visitor at a neutral site and is expected in **white** under the striped orange helmet. Our matchup grade: **B**. See the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026).
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AtlantaFalcons/status/2118087634920649128"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Falcons' Madrid game poster: black helmet, red jersey, via <a href="https://x.com/AtlantaFalcons" target="_blank" rel="noopener">@AtlantaFalcons</a></p>
+
 ## The Prime-Time Games
 
 ### Tampa Bay Buccaneers at Chicago Bears: Sunday Night Football
