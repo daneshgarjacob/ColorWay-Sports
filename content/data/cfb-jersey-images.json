@@ -7,7 +7,8 @@
     "blue": "/images/cfb-jerseys/air-force-falcons-blue.jpg"
   },
   "arizona-wildcats": {
-    "navy": "/images/cfb-jerseys/arizona-wildcats-navy.jpg"
+    "navy": "/images/cfb-jerseys/arizona-wildcats-navy.jpg",
+    "sandstorm": "/images/cfb-jerseys/arizona-wildcats-sandstorm.jpg"
   },
   "appalachian-state-mountaineers": {
     "black": "/images/cfb-jerseys/appalachian-state-mountaineers-black.jpg",
@@ -270,7 +271,8 @@
   },
   "smu-mustangs": {
     "blue": "/images/cfb-jerseys/smu-mustangs-blue.jpg",
-    "white": "/images/cfb-jerseys/smu-mustangs-white.jpg"
+    "white": "/images/cfb-jerseys/smu-mustangs-white.jpg",
+    "black": "/images/cfb-jerseys/smu-mustangs-black.jpg"
   },
   "south-carolina-gamecocks": {
     "black": "/images/cfb-jerseys/south-carolina-gamecocks-black.jpg",

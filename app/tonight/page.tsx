@@ -48,7 +48,7 @@ export default async function TonightPage() {
       <Header />
       <main className="max-w-[1200px] mx-auto px-5 py-6">
         <div className={`${LABEL} text-steel`}>{dateLabel}</div>
-        <h1 className="font-display font-black text-[28px] sm:text-[38px] leading-tight mt-1">Uniforms tonight</h1>
+        <h1 className="font-display font-black text-[28px] sm:text-[38px] leading-tight mt-1">Uniforms Tonight</h1>
         <p className="text-[15px] mt-1 mb-4">Every game today and what both teams are wearing. Tap a team for its page.</p>
         <div className="flex gap-2 mb-6 overflow-x-auto">
           {leagues.map((l) => (
