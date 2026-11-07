@@ -211,6 +211,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 ### Saturday, November 7: Noon Window
 
 **No. 8 [BYU](/stories/byu-uniform-schedule-2026) at No. 6 [Utah](/stories/utah-uniform-schedule-2026)**, noon, TV to be announced.
+- **Final: Utah 28, BYU 20.**
 - BYU: **Confirmed**, all royal blue: royal helmet, royal jersey, royal pants. [Red vs. royal, graded A+](/stories/utah-byu-red-vs-blue-uniforms-2026).
 - Utah: **Confirmed**, all red for the Red Out.
 

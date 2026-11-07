@@ -20,7 +20,7 @@ teams: ["utah-utes", "byu-cougars", "big-12"]
 
 **There was no white on the field at Rice-Eccles Stadium on Saturday.** No. 3 Utah wore **all red** for its Red Out, and No. 9 BYU came to Salt Lake City in **all royal blue**, helmet to cleats. Two top-10 rivals, two solid colors, one field. It is the best color clash of the 2026 college football season, and we gave it an **A+**.
 
-<div data-game-final style="margin: 1.5em 0; padding: 14px 18px; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><strong>Score:</strong> BYU led 20-14 in the third quarter. We will add the final here when the game ends.</div>
+<div data-game-final style="margin: 1.5em 0; padding: 14px 18px; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><strong>Final: No. 3 Utah 28, No. 9 BYU 20.</strong> BYU led 20-14 at halftime, and Utah shut the Cougars out in the second half to stay unbeaten.</div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Utah_Football/status/2119143322040271103"></a></blockquote>
