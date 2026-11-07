@@ -1740,6 +1740,132 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (Magic white pinstripe Association, Suns purple SUNS Icon; https://www.espn.com/nba/game/_/gameId/401909936)"
+    },
+    "2026-11-06 BOS@CHA": {
+      "score": {
+        "away": 119,
+        "home": 80
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Celtics white Association, Hornets purple Statement; https://www.espn.com/nba/game/_/gameId/401909288)"
+    },
+    "2026-11-06 MIN@NOP": {
+      "score": {
+        "away": 115,
+        "home": 109
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Timberwolves white Association, Pelicans red Statement; https://www.espn.com/nba/game/_/gameId/401909293)"
+    },
+    "2026-11-06 OKC@MEM": {
+      "score": {
+        "away": 128,
+        "home": 97
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Thunder white Association, Grizzlies light blue Statement; https://www.espn.com/nba/game/_/gameId/401909291)"
+    },
+    "2026-11-06 PHI@CLE": {
+      "score": {
+        "away": 95,
+        "home": 119
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (76ers white Association, Cavaliers black Statement; https://www.espn.com/nba/game/_/gameId/401909289)"
+    },
+    "2026-11-06 POR@LAL": {
+      "score": {
+        "away": 118,
+        "home": 124
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Trail Blazers white Association, Lakers purple Statement; https://www.espn.com/nba/game/_/gameId/401909294)"
+    },
+    "2026-11-06 SAS@SAC": {
+      "score": {
+        "away": 124,
+        "home": 109
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Spurs white Association, Kings purple Statement; https://www.espn.com/nba/game/_/gameId/401909295)"
+    },
+    "2026-11-06 TOR@MIL": {
+      "score": {
+        "away": 121,
+        "home": 107
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Raptors white Association, Bucks black Statement; https://www.espn.com/nba/game/_/gameId/401909292)"
+    },
+    "2026-11-06 UTA@DAL": {
+      "score": {
+        "away": 100,
+        "home": 112
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Jazz white Association, Mavericks navy MAVS Statement; https://www.espn.com/nba/game/_/gameId/401909290)"
+    },
+    "2026-11-06 WAS@ATL": {
+      "score": {
+        "away": 132,
+        "home": 139
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Wizards white Association, Hawks black Statement; https://www.espn.com/nba/game/_/gameId/401909287)"
     }
   }
 }
