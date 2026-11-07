@@ -304,7 +304,6 @@ const navLinks = [
   { label: "My Teams", href: "/my-teams" },
   { label: "Latest", href: "/news" },
   { label: "Tonight", href: "/tonight" },
-  { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },
 ];
 
@@ -516,7 +515,7 @@ export default function Header() {
                   onFocus={() => { loadIndex(); setSugOpen(true); }}
                   onChange={(e) => { loadIndex(); setSearchQuery(e.target.value); setSugOpen(true); setActiveSug(-1); }}
                   onKeyDown={onSearchKeyDown}
-                  placeholder="Discover teams, jerseys, logos"
+                  placeholder="Search"
                   aria-label="Discover stories and teams"
                   aria-expanded={sugOpen && hasSuggestions}
                   role="combobox"
@@ -807,7 +806,7 @@ export default function Header() {
                 enterKeyHint="search"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Discover teams, jerseys, logos"
+                placeholder="Search"
                 aria-label="Search teams, jerseys and stories"
                 className="flex-1 min-w-0 px-4 py-2.5 text-[16px] bg-transparent focus:outline-none [&::-webkit-search-cancel-button]:hidden"
               />
