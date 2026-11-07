@@ -1,10 +1,12 @@
 // Mediavine in-feed ad spot for listing pages (homepage, /stories, team pages,
 // /tonight, My Teams). Mediavine support (Mary Parks, 11/6) sent these targets:
 // their script fills each one on load. They have to be in the server-rendered
-// markup because anything added after load is wiped by React, and the empty
-// dangerouslySetInnerHTML keeps React from clearing the ad Mediavine injects
-// when the surrounding component re-renders. col-span-full lets a spot sit
-// inside a card grid and take the whole row.
+// markup because anything added after load is wiped by React. Mediavine drops
+// its ad box NEXT TO the target, not inside it (11/6 dev logs: hydration
+// failed on the wrapper around a homepage spot), so the target is written as
+// raw HTML inside an outer div React treats as opaque; the injected sibling
+// then lives inside that div and React never sees it. col-span-full lets a
+// spot sit inside a card grid and take the whole row.
 const CLASS = {
   all: "mv_slot_target",
   desktop: "mv_slot_target_desktop",
@@ -14,10 +16,9 @@ const CLASS = {
 export default function MvSlot({ device = "all", className = "" }: { device?: keyof typeof CLASS; className?: string }) {
   return (
     <div
-      className={`${CLASS[device]} col-span-full ${className}`.trim()}
-      data-slot="content"
+      className={`col-span-full ${className}`.trim()}
       suppressHydrationWarning
-      dangerouslySetInnerHTML={{ __html: "" }}
+      dangerouslySetInnerHTML={{ __html: `<div class="${CLASS[device]}" data-slot="content"></div>` }}
     />
   );
 }
