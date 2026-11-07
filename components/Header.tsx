@@ -502,7 +502,7 @@ export default function Header() {
           {/* Row 1 centre — persistent search. Sits between the wordmark and the
               utility links so the masthead reads brand / find / about, and the
               league rail below carries all the section navigation. */}
-          <div ref={searchBoxRef} className="hidden lg:block flex-1 max-w-[430px] mx-auto relative">
+          <div ref={searchBoxRef} className="hidden lg:block flex-1 max-w-[320px] mx-auto relative">
             <form onSubmit={handleSearch}>
               <div className="flex items-center gap-2 w-full bg-white/[0.12] hover:bg-white/[0.17] focus-within:bg-white/[0.19] border border-white/15 rounded-full px-4 py-2 transition-colors">
                 <svg className="w-4 h-4 text-white/60 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
