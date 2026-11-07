@@ -101,7 +101,7 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 
 ### No. 8 BYU at No. 6 Utah: The Holy War
 
-**Saturday, noon (10 a.m. Mountain), TV to be announced.** **Utah: Red, for the Red Out.** Utah's Monday graphic made the Red Out official, and it is also the Military Appreciation game. Utah went red head to toe for its Red Out against Arkansas on September 12. **BYU: Expected, white.** BYU wears all navy against Arizona State this week. More: [Utah schedule](/stories/utah-uniform-schedule-2026) and [BYU schedule](/stories/byu-uniform-schedule-2026).
+**Saturday, noon (10 a.m. Mountain), TV to be announced.** **Utah: Red, for the Red Out.** Utah's Monday graphic made the Red Out official, and it is also the Military Appreciation game. Utah went red head to toe for its Red Out against Arkansas on September 12. **Confirmed on game day: Utah all red, BYU all royal blue, head to toe.** Neither team wore white, and it is our A+ look of the week: [Utah vs. BYU, all red vs. all royal](/stories/utah-byu-red-vs-blue-uniforms-2026). More: [Utah schedule](/stories/utah-uniform-schedule-2026) and [BYU schedule](/stories/byu-uniform-schedule-2026).
 
 ### No. 11 Texas at No. 23 Missouri
 
@@ -206,8 +206,8 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 ### Saturday, November 7: Noon Window
 
 **No. 8 [BYU](/stories/byu-uniform-schedule-2026) at No. 6 [Utah](/stories/utah-uniform-schedule-2026)**, noon, TV to be announced.
-- BYU: **Expected**, white.
-- Utah: **Red** for the Red Out, per the team's graphic; full combination later this week.
+- BYU: **Confirmed**, all royal blue: royal helmet, royal jersey, royal pants. [Red vs. royal, graded A+](/stories/utah-byu-red-vs-blue-uniforms-2026).
+- Utah: **Confirmed**, all red for the Red Out.
 
 **No. 11 [Texas](/stories/texas-uniform-schedule-2026) at No. 23 [Missouri](/stories/missouri-uniform-schedule-2026)**, noon, TV to be announced.
 - Texas: **Expected**, white.
