@@ -216,40 +216,48 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Utah: **Confirmed**, all red for the Red Out.
 
 **No. 11 [Texas](/stories/texas-uniform-schedule-2026) at No. 23 [Missouri](/stories/missouri-uniform-schedule-2026)**, noon, TV to be announced.
-- Texas: **Expected**, white.
-- Missouri: **Expected**, black or gold.
+- **Final: Texas 34, Missouri 20.**
+- Texas: **Confirmed**, white.
+- Missouri: **Confirmed**, black jersey under the black helmet.
 
 **[Clemson](/stories/clemson-uniform-schedule-2026) at [Syracuse](/stories/syracuse-uniform-schedule-2026)**, noon, ESPN2.
-- Clemson: **Expected**, white.
-- Syracuse: **Expected**, navy.
+- **Final: Clemson 18, Syracuse 13.**
+- Clemson: **Confirmed**, white.
+- Syracuse: **Confirmed**, navy.
 
 **[Florida State](/stories/florida-state-uniform-schedule-2026) at [Boston College](/stories/boston-college-uniform-schedule-2026)**, noon, ACC Network.
-- Florida State: **Expected**, white.
-- Boston College: **Expected**, maroon, for Veterans and Military Appreciation Day.
+- **Final: Florida State 31, Boston College 24.**
+- Florida State: **Confirmed**, white.
+- Boston College: **Confirmed**, maroon, for Veterans and Military Appreciation Day.
 
 **[North Carolina](/stories/north-carolina-uniform-schedule-2026) at [UConn](/stories/uconn-uniform-schedule-2026)**, noon, CBSSN.
-- North Carolina: **Expected**, white.
-- UConn: **Expected**, navy.
+- **Final: North Carolina 38, UConn 21.**
+- North Carolina: **Confirmed**, white.
+- UConn: **Confirmed**, navy.
 
 **[Tulsa](/stories/tulsa-uniform-schedule-2026) at [Tulane](/stories/tulane-uniform-schedule-2026)**, noon, ESPNU.
-- Tulsa: **Expected**, white.
-- Tulane: **Expected**, green, for Homecoming.
+- **Final: Tulsa 60, Tulane 10.**
+- Tulsa: **Confirmed**, white.
+- Tulane: **Confirmed**, green, for Homecoming.
 
 **[Rutgers](/stories/rutgers-uniform-schedule-2026) at No. 25 [Wisconsin](/stories/wisconsin-uniform-schedule-2026)**, 12:30 p.m., BTN.
 - Rutgers: **Expected**, white.
 - Wisconsin: **Expected**, red.
 
 **[Duke](/stories/duke-uniform-schedule-2026) at [NC State](/stories/nc-state-uniform-schedule-2026)**, 12:30 p.m., The CW.
-- Duke: **Expected**, white.
-- NC State: **Expected**, red. It is NC State's Military Appreciation game, the most likely date for a second appearance of the camo Wolfpack Warriors set.
+- **Final: Duke 41, NC State 3.**
+- Duke: **Confirmed**, white.
+- NC State: **Confirmed**, red. No camo Wolfpack Warriors set for Military Appreciation.
 
 **[Maryland](/stories/maryland-uniform-schedule-2026) at [Purdue](/stories/purdue-uniform-schedule-2026)**, 12:30 p.m., BTN.
-- Maryland: **Expected**, white.
-- Purdue: **Expected**, black, for Homecoming.
+- **Final: Maryland 34, Purdue 29.**
+- Maryland: **Confirmed**, white.
+- Purdue: **Confirmed**, black, for Homecoming.
 
 **[Arkansas](/stories/arkansas-uniform-schedule-2026) at [Auburn](/stories/auburn-uniform-schedule-2026)**, 12:45 p.m., SEC Network.
-- Arkansas: **Expected**, white.
-- Auburn: **Expected**, navy.
+- **Final: Auburn 26, Arkansas 23.**
+- Arkansas: **Confirmed**, white.
+- Auburn: **Confirmed**, navy.
 
 **Old Dominion at [Coastal Carolina](/stories/coastal-carolina-uniform-schedule-2026)**, 1 p.m., ESPN+.
 - Coastal Carolina: **Expected**, black, for Homecoming and a Black Out.
@@ -371,6 +379,7 @@ Also on Saturday night: Sam Houston at Jacksonville State (7 p.m., CBSSN).
 ### Saturday, November 7: Kickoff Times to Be Announced
 
 **No. 7 [UCLA](/stories/ucla-uniform-schedule-2026) at [Minnesota](/stories/minnesota-gophers-uniform-schedule-2026)**.
+- **Final: UCLA 34, Minnesota 20.**
 - UCLA: **Expected**, white.
 - Minnesota: **Expected**, maroon, for its Salute to Service game.
 
@@ -387,6 +396,7 @@ Also on Saturday night: Sam Houston at Jacksonville State (7 p.m., CBSSN).
 - Northwestern: **Expected**, purple.
 
 **No. 24 [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026) at [Kansas State](/stories/kansas-state-uniform-schedule-2026)**.
+- **Final: Oklahoma State 66, Kansas State 28.**
 - Oklahoma State: **Expected**, white.
 - Kansas State: **Expected**, purple.
 
@@ -395,8 +405,9 @@ Also on Saturday night: Sam Houston at Jacksonville State (7 p.m., CBSSN).
 - Kansas: **Expected**, blue.
 
 **[Iowa State](/stories/iowa-state-uniform-schedule-2026) at [Baylor](/stories/baylor-uniform-schedule-2026)**.
-- Iowa State: **Expected**, white.
-- Baylor: **Confirmed** green helmet with the gold bear head for Homecoming ("Homecoming Threads," posted by the team).
+- **Final: Baylor 42, Iowa State 31.**
+- Iowa State: **Confirmed**, white.
+- Baylor: **Confirmed**, green jersey, and the green helmet with the gold bear head for Homecoming ("Homecoming Threads," posted by the team).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BUFootball/status/2118729261490339965"></a></blockquote>
