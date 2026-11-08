@@ -3,7 +3,7 @@ title: "Alabama Uniform Schedule 2026: Every Jersey and When the Crimson Tide We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Alabama wears every game in 2026. Crimson at home, white on the road, and why the Tide's uniform schedule is the most locked-down in the SEC."
 gradient: "linear-gradient(135deg, #9E1B32 0%, #2a0a10 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -74,7 +74,7 @@ SEC home teams wear color and visitors wear white, so the road games below are c
 
 **October 31.** Bye week.
 
-**November 7 at LSU**, Baton Rouge. Road, and the one to watch. LSU wears white at home for selected games, and when the host goes white the visitor wears color. That is the single date all season where Alabama could wear crimson on the road.
+**November 7 at LSU**, Baton Rouge. Road, and the one to watch. LSU wears white at home for selected games, and when the host goes white the visitor wears color. That is the single date all season where Alabama could wear crimson on the road. **Worn: crimson helmet, crimson jersey, white pants**, confirmed from the game broadcast. LSU wore white at home, so Alabama wore crimson on the road. **Final: Alabama 31, LSU 13.**
 
 **November 14 at Vanderbilt**, Nashville. Road. White.
 

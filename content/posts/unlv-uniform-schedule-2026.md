@@ -3,7 +3,7 @@ title: "UNLV Uniform Schedule 2026: Every Jersey and When the Rebels Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-16"
+updatedDate: "2026-11-08"
 excerpt: "UNLV uniform schedule 2026: the red home jersey, white road set, silver and red helmets, and every Rebels game with the jersey worn or expected."
 gradient: "linear-gradient(135deg, #CF0A2C 0%, #a3081f 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -77,7 +77,7 @@ UNLV announces every combination a couple of days before kickoff in a post the p
 
 **October 31 vs. Northern Illinois.** Red expected. Nevada Day and Halloween at 7:30 p.m. Pacific on CBS Sports Network, with fans told to come in costume. A Saturday night game on Halloween is the most natural spot on the calendar for the gray or an all-red look.
 
-**November 7 vs. Wyoming.** Red expected. Military Appreciation and Native American Heritage Day, 7:30 p.m. Pacific on CBS Sports Network. Nothing special has been announced for it.
+**November 7 vs. Wyoming.** Red expected. Military Appreciation and Native American Heritage Day, 7:30 p.m. Pacific on CBS Sports Network. Nothing special has been announced for it. **Worn: white helmet, red jersey, white pants**, confirmed from the game broadcast. **Final: Wyoming 41, UNLV 35.**
 
 **November 14 at New Mexico.** White expected. 4:30 p.m. Pacific in Albuquerque on The CW.
 

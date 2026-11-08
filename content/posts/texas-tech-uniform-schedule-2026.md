@@ -3,7 +3,7 @@ title: "Texas Tech Uniform Schedule 2026: Mahomes Let's Ride Date"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "Texas Tech uniform schedule 2026: what the Red Raiders wear every game, week by week, including the date the Patrick Mahomes Let's Ride jersey hits the field."
 gradient: "linear-gradient(135deg, #CC0000 0%, #1a0505 55%, #000000 130%)"
 coverImage: "/images/posts/texas-tech-uniform-schedule-2026/cover.jpg"
@@ -103,7 +103,7 @@ Twelve games, seven in Lubbock, one bye, and one Mahomes night.
 
 **October 31 vs. Arizona**, Lubbock. Halloween home game, and if a blackout shows up anywhere on this schedule, this is the night.
 
-**November 7 vs. West Virginia**, Lubbock. Red or black.
+**November 7 vs. West Virginia**, Lubbock. Red or black. **Worn: red helmet, black jersey, black pants**, confirmed from the game broadcast. **Final: Texas Tech 53, West Virginia 48.**
 
 **November 14 at Oklahoma State**, Stillwater. White.
 

@@ -3,7 +3,7 @@ title: "Oklahoma Uniform Schedule 2026: Every Jersey and When the Sooners Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "The full Oklahoma 2026 uniform schedule: crimson jerseys at home, white on the road, the anthracite and throwback alternates, and every Sooners date week by week."
 gradient: "linear-gradient(135deg, #841617 0%, #5c0f10 55%, #FDF9D8 130%)"
 cardStyle: words
@@ -66,7 +66,7 @@ Under the SEC convention the home team wears color and the visitor wears white, 
 
 **October 31 vs. South Carolina**, Norman. Crimson expected. Halloween in Norman is a plausible spot for the anthracite Unity alternate, which has always appeared at home, but nothing is announced.
 
-**November 7 at Florida**, Gainesville. White expected. Florida wears blue or orange at home, so this projects as the standard white road set. We will confirm in game week.
+**November 7 at Florida**, Gainesville. White expected. Florida wears blue or orange at home, so this projects as the standard white road set. We will confirm in game week. **Worn: crimson helmet, white jersey, white pants**, confirmed from the game broadcast. Florida wore all blue. **Final: Oklahoma 23, Florida 7.**
 
 **November 14 vs. Ole Miss**, Norman. Crimson expected.
 

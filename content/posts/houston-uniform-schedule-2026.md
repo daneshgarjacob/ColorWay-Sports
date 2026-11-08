@@ -3,7 +3,7 @@ title: "Houston Uniform Schedule 2026: Every Jersey and When the Cougars Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Houston wears every game in 2026: the red home set, the all-white road look, the Houston Blue alternate, and every week's uniform combination."
 gradient: "linear-gradient(135deg, #C8102E 0%, #d8233f 55%, #78BCE2 130%)"
 cardStyle: words
@@ -82,7 +82,7 @@ That was the white shell with the red interlocking UH and a red facemask, the wh
 
 **October 31.** Bye.
 
-**November 7 vs. Cincinnati.** Red expected. Homecoming and the Military Appreciation Game on the same afternoon, which is the combination most likely to produce a one-off helmet decal or a service patch rather than a new jersey. More: [Cincinnati schedule](/stories/cincinnati-uniform-schedule-2026).
+**November 7 vs. Cincinnati.** Red expected. Homecoming and the Military Appreciation Game on the same afternoon, which is the combination most likely to produce a one-off helmet decal or a service patch rather than a new jersey. More: [Cincinnati schedule](/stories/cincinnati-uniform-schedule-2026). **Worn: white helmet, red jersey, red pants**, confirmed from the game broadcast. **Final: Houston 31, Cincinnati 24.**
 
 **November 13 at Colorado.** White expected. A Friday night at Folsom Field, 9:15 p.m. Central, on ESPN, against a Colorado side that has a Buffs Wear Black crowd theme for the night. ESPN lists this game under November 14 because its feed runs on UTC. More: [Colorado schedule](/stories/colorado-uniform-schedule-2026).
 

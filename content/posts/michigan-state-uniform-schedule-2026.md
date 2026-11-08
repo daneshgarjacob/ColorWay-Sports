@@ -3,7 +3,7 @@ title: "Michigan State Uniform Schedule 2026: Every Jersey and When the Spartans
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Michigan State wears every game in 2026: green home jerseys, the white road set, the Greek key helmet, the black alternate, and the full Spartans uniform schedule."
 gradient: "linear-gradient(135deg, #18453B 0%, #236352 55%, #ffffff 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ The current Nike set arrived in 2023 and built everything around a Greek key pat
 
 **October 31.** Bye.
 
-**November 7 at Michigan.** White expected. The Paul Bunyan Trophy game at Michigan Stadium, with Michigan in navy under the winged helmet. Our [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026) covers the Wolverines.
+**November 7 at Michigan.** White expected. The Paul Bunyan Trophy game at Michigan Stadium, with Michigan in navy under the winged helmet. Our [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026) covers the Wolverines. **Final: Michigan State 15, Michigan 6.** We have not checked this game against game photos.
 
 **November 14 vs. Washington.** Green expected, with Washington in white. The [Washington 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026) tracks the Huskies.
 

@@ -3,7 +3,7 @@ title: "Wyoming Uniform Schedule 2026: Every Jersey and When the Cowboys Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Wyoming wears every game in 2026: the brown and gold home set, the white road look, the Homecoming Gold Out and the week-by-week Cowboys uniform schedule."
 gradient: "linear-gradient(135deg, #492F24 0%, #2b1b14 55%, #FFC425 130%)"
 cardStyle: words
@@ -66,7 +66,7 @@ That last one is the look of the season so far. The athletic department billed t
 
 **October 31.** Bye.
 
-**November 7 at UNLV.** White expected. Allegiant Stadium in Las Vegas, 10:30 p.m. Eastern on CBS Sports Network. See our [UNLV 2026 uniform schedule](/stories/unlv-uniform-schedule-2026) for the Rebels.
+**November 7 at UNLV.** White expected. Allegiant Stadium in Las Vegas, 10:30 p.m. Eastern on CBS Sports Network. See our [UNLV 2026 uniform schedule](/stories/unlv-uniform-schedule-2026) for the Rebels. **Worn: white helmet, white jersey, white pants**, confirmed from the game broadcast. **Final: Wyoming 41, UNLV 35.**
 
 **November 14 at UTEP.** White expected. The Sun Bowl in El Paso, kickoff time still to be set.
 

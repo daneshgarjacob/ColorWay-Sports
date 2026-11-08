@@ -3,7 +3,7 @@ title: "Vanderbilt Uniform Schedule 2026: Every Jersey and When the Commodores W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Vanderbilt wears every game in 2026: the black home jersey, the white road set, the new gold alternate, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #C9A227 130%)"
 cardStyle: words
@@ -98,7 +98,7 @@ The [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) has 
 
 **October 31.** Bye.
 
-**November 7 at Mississippi State.** White expected. Davis Wade Stadium, and the [Mississippi State 2026 uniform schedule](/stories/mississippi-state-uniform-schedule-2026) covers the maroon side.
+**November 7 at Mississippi State.** White expected. Davis Wade Stadium, and the [Mississippi State 2026 uniform schedule](/stories/mississippi-state-uniform-schedule-2026) covers the maroon side. **Worn: black helmet, white jersey, white pants**, confirmed from the game broadcast. **Final: Vanderbilt 25, Mississippi State 23.**
 
 **November 14 vs. Alabama.** Black expected. The biggest home date on the calendar and the most likely slot for something special if Vanderbilt has anything left in the equipment room. [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
 

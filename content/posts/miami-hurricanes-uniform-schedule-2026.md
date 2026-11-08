@@ -3,7 +3,7 @@ title: "Miami Hurricanes Uniform Schedule 2026: Every Jersey and When the Hurric
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-07"
+updatedDate: "2026-11-08"
 excerpt: "Miami Hurricanes uniform schedule 2026: orange home jerseys, the all-white road set, the Miami Nights black alternate, and every game's jersey week by week."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 cardStyle: words
@@ -83,7 +83,7 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2115819312615391646"></a></blockquote>
 </div>
 
-**November 7 at Notre Dame.** White expected, since Miami is the visitor. This is the old rivalry renewed in South Bend, a 7:30 p.m. Eastern kickoff on NBC. Miami in white against Notre Dame's navy, gold helmets, and gold pants gives this one of the season's sharpest contrasts. The teams opened 2025 at Hard Rock Stadium, where Miami won 27-24. **Worn: the white 2001 throwbacks**, a white helmet with an orange and green center stripe, white jersey with the green shoulder yoke and green pants, confirmed from the team's game photos. It was the first game in the road half of the 2001 set. [Graded A](/stories/miami-notre-dame-2001-throwback-uniforms-2026).
+**November 7 at Notre Dame.** White expected, since Miami is the visitor. This is the old rivalry renewed in South Bend, a 7:30 p.m. Eastern kickoff on NBC. Miami in white against Notre Dame's navy, gold helmets, and gold pants gives this one of the season's sharpest contrasts. The teams opened 2025 at Hard Rock Stadium, where Miami won 27-24. **Worn: the white 2001 throwbacks**, a white helmet with an orange and green center stripe, white jersey with the green shoulder yoke and green pants, confirmed from the team's game photos. It was the first game in the road half of the 2001 set. [Graded A](/stories/miami-notre-dame-2001-throwback-uniforms-2026). **Final: Notre Dame 31, Miami 24.**
 
 **November 14 vs. Duke.** Orange expected, since it is a home game.
 

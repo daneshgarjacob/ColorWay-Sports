@@ -3,7 +3,7 @@ title: "Wisconsin Uniform Schedule 2026: Every Jersey and When the Badgers Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "Wisconsin's 2026 uniform schedule: the Red Out with the red helmet for Michigan State, the all-red Lambeau alternate, and what the Badgers wear week by week."
 gradient: "linear-gradient(135deg, #C5050C 0%, #9e0409 55%, #f4f4f4 130%)"
 cardStyle: words
@@ -74,7 +74,7 @@ For the other side of it, see our [Michigan State 2026 uniform schedule](/storie
 
 **October 31 at Iowa**, Kinnick Stadium. White expected. The Heartland Trophy game, and one of the better white-on-black looks the road schedule offers.
 
-**November 7 vs. Rutgers**, Camp Randall Stadium. Red expected.
+**November 7 vs. Rutgers**, Camp Randall Stadium. Red expected. **Worn: white helmet, red jersey, white pants**, confirmed from the game broadcast. **Final: Wisconsin 31, Rutgers 10.**
 
 **November 14 at Maryland**, SECU Stadium. White expected.
 

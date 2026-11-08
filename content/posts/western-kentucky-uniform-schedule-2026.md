@@ -3,7 +3,7 @@ title: "Western Kentucky Uniform Schedule 2026: Every Jersey and When the Hillto
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-09"
+updatedDate: "2026-11-08"
 excerpt: "What WKU wears every game in 2026: red, black and white helmets, the White Out, Black Out and Red Out dates and the week-by-week Hilltoppers uniform schedule."
 gradient: "linear-gradient(135deg, #C8102E 0%, #7a0a1c 55%, #111111 130%)"
 cardStyle: words
@@ -65,7 +65,7 @@ The schedule did WKU no favors early. The Hilltoppers opened with three straight
 
 **October 27 vs. Delaware.** Red expected. A Tuesday night Red Out and Youth Sports Night, 7 p.m. Eastern on CBS Sports Network. A Red Out is the natural home for the red jersey.
 
-**November 7 at Middle Tennessee.** White expected. The 100 Miles of Hate rivalry at Johnny "Red" Floyd Stadium in Murfreesboro, 3:30 p.m. Eastern.
+**November 7 at Middle Tennessee.** White expected. The 100 Miles of Hate rivalry at Johnny "Red" Floyd Stadium in Murfreesboro, 3:30 p.m. Eastern. **Worn: white jersey, black pants**, confirmed from the game broadcast. **Final: Middle Tennessee 51, Western Kentucky 42.**
 
 **November 14 vs. Jacksonville State.** Red expected. Homecoming at 3:30 p.m. Eastern, the home date most likely to bring something extra if WKU has it planned.
 

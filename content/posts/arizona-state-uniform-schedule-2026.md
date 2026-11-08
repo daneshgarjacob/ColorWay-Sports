@@ -3,7 +3,7 @@ title: "Arizona State Uniform Schedule 2026: Every Jersey and When the Sun Devil
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-08"
 excerpt: "The Arizona State 2026 uniform schedule: every jersey and helmet combination the Sun Devils wear, confirmed game by game, plus the throwback still waiting on a date."
 gradient: "linear-gradient(135deg, #8C1D40 0%, #5c132a 55%, #FFC627 130%)"
 cardStyle: words
@@ -86,7 +86,7 @@ The thing to understand about the Sun Devils is that the helmet, jersey and pant
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ASUFootball/status/2115953553709920611"></a></blockquote>
 </div>
 
-**November 7 vs. Colorado, Tempe.** Maroon jersey expected. Announced in game week.
+**November 7 vs. Colorado, Tempe.** Maroon jersey expected. Announced in game week. **Worn: white helmet, gold jersey, white pants**, confirmed from the game broadcast. We had the maroon jersey down; it was gold. **Final: Arizona State 20, Colorado 10.**
 
 **November 14 at UCF, Orlando.** White jersey expected. Arizona State's first trip to Orlando in program history. Announced in game week.
 

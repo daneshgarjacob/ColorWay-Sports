@@ -3,7 +3,7 @@ title: "Louisiana Uniform Schedule 2026: Every Jersey and When the Ragin' Cajuns
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Louisiana wears every game in 2026: the red home set, the white road jersey, the 337 helmet and the week-by-week Ragin' Cajuns uniform schedule."
 gradient: "linear-gradient(135deg, #CE181E 0%, #8a0f14 55%, #ffffff 130%)"
 cardStyle: words
@@ -65,7 +65,7 @@ Six games into Michael Desormeaux's fifth season, the pattern is simple. Red jer
 
 **October 31.** Bye.
 
-**November 7 vs. South Alabama.** Red expected. Louisiana Salutes, the program's military appreciation game, where a special helmet decal or patch is common.
+**November 7 vs. South Alabama.** Red expected. Louisiana Salutes, the program's military appreciation game, where a special helmet decal or patch is common. **Worn: black helmet with the Cajuns script, black jersey, black pants**, confirmed from the game broadcast. We had red down; Louisiana went all black. **Final: Louisiana 28, South Alabama 26.**
 
 **November 12 at UL Monroe.** White expected. A Thursday night in-state rivalry game at Malone Stadium in Monroe, 9 p.m. Eastern.
 

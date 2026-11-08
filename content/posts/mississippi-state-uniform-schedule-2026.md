@@ -3,7 +3,7 @@ title: "Mississippi State Uniform Schedule 2026: Every Jersey and When the Bulld
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "Mississippi State's 2026 uniform schedule: every jersey, helmet and combination the Bulldogs wear, maroon home, white road, the interlocking MSU helmet, week by week."
 gradient: "linear-gradient(135deg, #660000 0%, #7a1c1c 55%, #c9c9c9 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
 
 **October 31 at Texas.** White expected. Halloween in Austin, with Texas in burnt orange at home, per our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
 
-**November 7 vs. Vanderbilt.** Maroon expected.
+**November 7 vs. Vanderbilt.** Maroon expected. **Worn: maroon helmet, maroon jersey, white pants**, confirmed from the game broadcast. **Final: Vanderbilt 25, Mississippi State 23.**
 
 **November 14 vs. Auburn.** Maroon expected. Auburn arrives in white, per our [Auburn 2026 uniform schedule](/stories/auburn-uniform-schedule-2026).
 

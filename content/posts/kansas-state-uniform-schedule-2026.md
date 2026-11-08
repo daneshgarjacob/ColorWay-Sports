@@ -3,7 +3,7 @@ title: "Kansas State Uniform Schedule 2026: Every Jersey and When the Wildcats W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "Kansas State uniform schedule 2026: every K-State jersey game by game, the purple home uniform, white road set, silver helmet, and what the Wildcats wear this week."
 gradient: "linear-gradient(135deg, #512888 0%, #3d1f66 55%, #A7A9AC 130%)"
 cardStyle: words
@@ -64,7 +64,7 @@ K-State is one of the most disciplined uniform programs in the Power Four. Athle
 
 **October 31 at Colorado.** White expected. Halloween at Folsom Field, where Colorado is expected in black, which sets up white against black for the Wildcats.
 
-**November 7 vs. Oklahoma State.** Purple expected. The Cowboys visit in white, and this is the 17th straight season the two schools have met.
+**November 7 vs. Oklahoma State.** Purple expected. The Cowboys visit in white, and this is the 17th straight season the two schools have met. **Final: Oklahoma State 66, Kansas State 28.** We have not checked this game against game photos.
 
 **November 14 at TCU.** White expected. TCU is expected in its own purple at Amon G. Carter Stadium, so this is the purple-on-purple matchup where the road white matters most.
 

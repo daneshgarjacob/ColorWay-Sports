@@ -3,7 +3,7 @@ title: "Wake Forest Uniform Schedule 2026: Every Jersey and When the Demon Deaco
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-16"
+updatedDate: "2026-11-08"
 excerpt: "What Wake Forest wears every game in 2026: the black home jersey, the white road set, the gold pants, and the full Demon Deacons uniform schedule."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 55%, #9E7E38 130%)"
 cardStyle: words
@@ -90,7 +90,7 @@ Wake Forest also asked the stands to match the uniform. A blackout is a fan them
 
 **October 31 vs. Virginia.** Black expected. Halloween night at Allegacy Federal Credit Union Stadium against a Virginia team that will be in white, which is about as on theme as a uniform matchup gets. If Wake Forest has a second special look in the closet this season, this is the obvious date for it.
 
-**November 7 vs. Merrimack.** Black expected. A non conference home game in November, which is an unusual slot and a reasonable spot for the chrome gold helmet.
+**November 7 vs. Merrimack.** Black expected. A non conference home game in November, which is an unusual slot and a reasonable spot for the chrome gold helmet. **Worn: black helmet, black jersey, gold pants**, confirmed from the game broadcast. **Final: Wake Forest 77, Merrimack 0.**
 
 **November 14 at SMU.** White expected.
 

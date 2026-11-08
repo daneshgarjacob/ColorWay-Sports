@@ -3,7 +3,7 @@ title: "Navy Uniform Schedule 2026: Every Jersey and When the Midshipmen Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Navy wears every game in 2026: the navy home jersey, the white road set, the 1926 centennial throwback against Notre Dame, and the December tribute."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b3072 55%, #C5B783 130%)"
 cardStyle: words
@@ -84,7 +84,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GilletteStadium/status/1856389571279225207"></a></blockquote>
 </div>
 
-**November 7 vs. Temple.** Navy expected. A 3:30 p.m. Eastern home date on CBS Sports Network.
+**November 7 vs. Temple.** Navy expected. A 3:30 p.m. Eastern home date on CBS Sports Network. **Worn: gold helmet, navy jersey, gold pants**, confirmed from the game broadcast. **Final: Navy 42, Temple 35.**
 
 **November 14.** Bye.
 

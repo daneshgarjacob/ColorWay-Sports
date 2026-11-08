@@ -3,7 +3,7 @@ title: "Appalachian State Uniform Schedule 2026: Every Jersey and When the Mount
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What App State wears every game in 2026: the black home set, the white road look, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #3d3526 55%, #FFCC00 130%)"
 cardStyle: words
@@ -80,7 +80,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
 
 **October 31 at Georgia Southern.** White expected. Halloween in Statesboro.
 
-**November 7 vs. Georgia State.** Black expected. Heroes Day, which App State builds around military, veterans and first responders, and historically the program leans into the day with its messaging rather than a costume uniform.
+**November 7 vs. Georgia State.** Black expected. Heroes Day, which App State builds around military, veterans and first responders, and historically the program leans into the day with its messaging rather than a costume uniform. **Worn: black helmet, black jersey, gold pants**, confirmed from the game broadcast. **Final: Georgia State 39, App State 23.**
 
 **November 14 at Marshall.** White expected. This is the heaviest date on the schedule for reasons that have nothing to do with App State: Marshall hosts its annual Play For The 75 game on the exact anniversary of the 1970 plane crash, and the Thundering Herd will be in black at home. App State goes as the visitor in white.
 

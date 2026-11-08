@@ -3,7 +3,7 @@ title: "Rice Uniform Schedule 2026: Every Jersey and When the Owls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Rice wears every game in 2026: the new Nike blue, white and gray sets, both helmets, and the week-by-week Owls uniform schedule."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b1a3a 55%, #9ea3a8 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ This is not a rebrand. The Old English R stays on the helmet and the hip, the co
 
 **October 31.** Bye. Rice's only open date.
 
-**November 7 at North Texas.** White or gray expected. This is North Texas's Homecoming, and the Mean Green are expected in green at home. More on our [North Texas 2026 uniform schedule](/stories/north-texas-uniform-schedule-2026).
+**November 7 at North Texas.** White or gray expected. This is North Texas's Homecoming, and the Mean Green are expected in green at home. More on our [North Texas 2026 uniform schedule](/stories/north-texas-uniform-schedule-2026). **Worn: silver helmet, white jersey, gray pants**, confirmed from the game broadcast. **Final: North Texas 52, Rice 23.**
 
 **November 14 vs. Tulane.** Blue expected. The centerpiece of Rice's Alumni Weekend Homecoming and Reunion, November 12 to 15, and the home date most likely to bring something extra if the Owls have it. Our [Tulane 2026 uniform schedule](/stories/tulane-uniform-schedule-2026) has the Green Wave.
 

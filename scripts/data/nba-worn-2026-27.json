@@ -1866,6 +1866,105 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (Wizards white Association, Hawks black Statement; https://www.espn.com/nba/game/_/gameId/401909287)"
+    },
+    "2026-11-07 BKN@ATL": {
+      "score": {
+        "away": 121,
+        "home": 124
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Nets black NETS Statement, Hawks white Association; https://www.espn.com/nba/game/_/gameId/401909939)"
+    },
+    "2026-11-07 DEN@IND": {
+      "score": {
+        "away": 114,
+        "home": 102
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "NBA broadcast highlight frames via YouTube and ESPN (Nuggets royal blue MILE HIGH CITY Statement, Pacers yellow pinstripe INDIANA Statement; Mexico City Game at Arena CDMX; https://www.espn.com/nba/game/_/gameId/401909938)"
+    },
+    "2026-11-07 HOU@PHX": {
+      "score": {
+        "away": 99,
+        "home": 102
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Rockets white pinstripe Association, Suns black Statement; https://www.espn.com/nba/game/_/gameId/401909943)"
+    },
+    "2026-11-07 NYK@CLE": {
+      "score": {
+        "away": 109,
+        "home": 97
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Knicks blue NEW YORK Icon, Cavaliers white Association; https://www.espn.com/nba/game/_/gameId/401909940)"
+    },
+    "2026-11-07 ORL@GSW": {
+      "score": {
+        "away": 119,
+        "home": 126
+      },
+      "ot": true,
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Magic black pinstripe Statement with blue shoulders, Warriors white Association; https://www.espn.com/nba/game/_/gameId/401909942)"
+    },
+    "2026-11-07 SAS@POR": {
+      "score": {
+        "away": 125,
+        "home": 103
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Spurs black SPURS Icon, Trail Blazers white Association; https://www.espn.com/nba/game/_/gameId/401909944)"
+    },
+    "2026-11-07 WAS@OKC": {
+      "score": {
+        "away": 75,
+        "home": 114
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Wizards white Association, Thunder blue Icon; https://www.espn.com/nba/game/_/gameId/401909941)"
     }
   }
 }

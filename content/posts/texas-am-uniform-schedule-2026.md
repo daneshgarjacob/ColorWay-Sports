@@ -3,7 +3,7 @@ title: "Texas A&M Uniform Schedule 2026: Every Jersey and When the Aggies Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Texas A&M wears every game in 2026. The confirmed camo date, the maroon home set, the white road set, and a week-by-week outlook for all twelve games."
 gradient: "linear-gradient(135deg, #500000 0%, #2a1414 55%, #C2B280 130%)"
 cardStyle: words
@@ -86,7 +86,7 @@ One thing to understand before the table below: **SEC home teams wear colored je
 
 **October 31.** Bye week.
 
-**November 7 at South Carolina, Columbia.** Road. White expected.
+**November 7 at South Carolina, Columbia.** Road. White expected. **Worn: white jersey, maroon pants**, confirmed from the game broadcast. **Final: South Carolina 17, Texas A&M 9.**
 
 **November 14 vs. Tennessee, Kyle Field.** Home, and the biggest home game left on the board after Texas. Maroon expected, and a candidate for a maroon-on-maroon or throwback treatment if A&M has one held back.
 

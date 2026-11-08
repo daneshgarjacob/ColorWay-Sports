@@ -3,7 +3,7 @@ title: "Northwestern Uniform Schedule 2026: Every Jersey and When the Wildcats W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-08"
 excerpt: "What Northwestern wears every game in 2026: the purple home set, the white road look, the new Purple Gothics alternate, and every game week by week."
 gradient: "linear-gradient(135deg, #4E2A84 0%, #6b3fa0 55%, #B6862C 130%)"
 cardStyle: words
@@ -108,7 +108,7 @@ One more thing shapes this schedule, and it is not a jersey. Northwestern played
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NUFBFamily/status/2115930499138961720"></a></blockquote>
 </div>
 
-**November 7 vs. Iowa.** Purple expected. Iowa in white at Ryan Field. See the [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026).
+**November 7 vs. Iowa.** Purple expected. Iowa in white at Ryan Field. See the [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026). **Final: Iowa 24, Northwestern 10.** We have not checked this game against game photos.
 
 **November 14 at Ohio State.** White expected. Ohio Stadium, with the Buckeyes in scarlet. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) has that side.
 

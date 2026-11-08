@@ -3,7 +3,7 @@ title: "Georgia Uniform Schedule 2026: Every Jersey and When the Bulldogs Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-11-08"
 excerpt: "What Georgia wears every game in 2026, including the confirmed date for the first white helmet in Bulldogs history and the red-and-silver-britches home set."
 gradient: "linear-gradient(135deg, #BA0C2F 0%, #111111 55%, #C4CED4 130%)"
 cardStyle: words
@@ -78,7 +78,7 @@ Game week made it official on Tuesday: the program's own graphic for Western Ken
 
 **October 31 vs. Florida**, Mercedes-Benz Stadium, Atlanta. The World's Largest Outdoor Cocktail Party, relocated to Atlanta this year while EverBank Stadium is renovated. ✅ **Answered: Florida's own published uniform schedule has the Gators in white**, which puts Georgia in red.
 
-**November 7 at Ole Miss**, Oxford. Road. White expected.
+**November 7 at Ole Miss**, Oxford. Road. White expected. **Worn: red helmet, white jersey, silver pants with the red and black stripe**, confirmed from the game broadcast. Ole Miss wore navy over gray. **Final: Georgia 42, Ole Miss 7.**
 
 **November 14 vs. Missouri**, Athens. Red expected.
 

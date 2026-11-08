@@ -3,7 +3,7 @@ title: "LSU Uniform Schedule 2026: Why the Tigers Wear White at Home, and Every 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What LSU wears every game in 2026, including the home white tradition that flips every visiting team into color, week by week."
 gradient: "linear-gradient(135deg, #461D7C 0%, #2d1250 55%, #FDD023 130%)"
 cardStyle: words
@@ -66,7 +66,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 **October 31.** Bye.
 
-**November 7 vs. Alabama.** Home White expected. Alabama in crimson in Tiger Stadium. The single best-looking date on the SEC calendar, and the one open date on our [Alabama page](/stories/alabama-uniform-schedule-2026).
+**November 7 vs. Alabama.** Home White expected. Alabama in crimson in Tiger Stadium. The single best-looking date on the SEC calendar, and the one open date on our [Alabama page](/stories/alabama-uniform-schedule-2026). **Worn: gold helmet, white jersey, gold pants**, confirmed from the game broadcast. Alabama wore crimson. **Final: Alabama 31, LSU 13.**
 
 **November 14 vs. Texas.** Home White expected. Texas in burnt orange rather than the icy whites. Confirmed as the open date on our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
 

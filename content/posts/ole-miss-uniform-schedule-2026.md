@@ -3,7 +3,7 @@ title: "Ole Miss Uniform Schedule 2026: Every Jersey and When the Rebels Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-06"
+updatedDate: "2026-11-08"
 excerpt: "The Ole Miss 2026 uniform schedule: red and navy home jerseys, powder blue alternates, the white road set, Realtree helmets, and every Rebels game week by week."
 gradient: "linear-gradient(135deg, #14213D 0%, #CE1126 60%, #6CACE4 130%)"
 cardStyle: words
@@ -71,7 +71,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 
 **October 31 vs. Auburn, Oxford.** Home color expected. Halloween in Oxford with a powder blue fan theme, which makes this a candidate date for the powder blue set.
 
-**November 7 vs. Georgia, Oxford.** ★ Confirmed by the team: **navy helmet, navy jersey and gray pants**, with Georgia in white. The Rebels wore white at Georgia in 2025, so the colors flip this time. The Bulldogs' side is on our [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026).
+**November 7 vs. Georgia, Oxford.** ★ Confirmed by the team: **navy helmet, navy jersey and gray pants**, with Georgia in white. The Rebels wore white at Georgia in 2025, so the colors flip this time. The Bulldogs' side is on our [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026). Worn as posted, confirmed from the game broadcast. Georgia wore a red helmet, white jersey and silver pants. **Final: Georgia 42, Ole Miss 7.**
 
 **November 14 at Oklahoma, Norman.** White expected. Oklahoma wears crimson at home. The Sooners' side is on our [Oklahoma 2026 uniform schedule](/stories/oklahoma-uniform-schedule-2026).
 

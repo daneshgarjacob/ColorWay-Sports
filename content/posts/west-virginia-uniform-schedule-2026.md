@@ -3,7 +3,7 @@ title: "West Virginia Uniform Schedule 2026: Every Jersey and When the Mountaine
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "West Virginia uniform schedule 2026: every Mountaineers jersey by week, the White Out opener, Gold Rush, Coal Rush black uniforms, and what WVU wears this week."
 gradient: "linear-gradient(135deg, #002855 0%, #0b3a6e 55%, #EAAA00 130%)"
 cardStyle: words
@@ -72,7 +72,7 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
 
 **October 31.** Bye.
 
-**November 7 at Texas Tech.** White expected. The Red Raiders pick red or black at home, and WVU should be in white either way. The [Texas Tech 2026 uniform schedule](/stories/texas-tech-uniform-schedule-2026) tracks their side.
+**November 7 at Texas Tech.** White expected. The Red Raiders pick red or black at home, and WVU should be in white either way. The [Texas Tech 2026 uniform schedule](/stories/texas-tech-uniform-schedule-2026) tracks their side. **Worn: navy helmet, white jersey, gold pants**, confirmed from the game broadcast. **Final: Texas Tech 53, West Virginia 48.**
 
 **November 14 vs. Kansas.** Navy expected. This is Heroes Day during Mountaineer Week, and local coverage expects a helmet decal with the American flag filling the state outline behind the Flying WV. Kansas should be in white, as listed on the [Kansas 2026 uniform schedule](/stories/kansas-uniform-schedule-2026).
 

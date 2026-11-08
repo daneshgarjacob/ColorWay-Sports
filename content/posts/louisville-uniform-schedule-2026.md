@@ -3,7 +3,7 @@ title: "Louisville Uniform Schedule 2026: Every Jersey and When the Cardinals We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-08"
 excerpt: "Louisville's 2026 uniform schedule: red home jerseys, white road uniforms, the Salute to Service helmet, and the black For The Ville alternate for Stanford."
 gradient: "linear-gradient(135deg, #AD0000 0%, #7a0000 55%, #000000 130%)"
 cardStyle: words
@@ -77,7 +77,7 @@ The Wolfpack side is on the [NC State 2026 uniform schedule](/stories/nc-state-u
 
 **October 31 vs. Stanford.** For The Ville expected. This is the one special date the program has announced: Louisville Football said the uniform "will make its on-field debut Oct. 31 against Stanford." Black jersey and pants, the oversized white wordmark, gold stripes and gold hip circles. In the team's reveal photos the players wear black boxing gloves with gray trim.
 
-**November 7 at Georgia Tech.** ★ Confirmed by Louisville ("black, white, black"): **black helmet, white jersey, black pants.** Georgia Tech hosts in gold at Bobby Dodd Stadium, per the [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026).
+**November 7 at Georgia Tech.** ★ Confirmed by Louisville ("black, white, black"): **black helmet, white jersey, black pants.** Georgia Tech hosts in gold at Bobby Dodd Stadium, per the [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026). Worn as posted, confirmed from the game broadcast. Georgia Tech wore gold over white pants. **Final: Louisville 44, Georgia Tech 17.**
 
 **November 14 at North Carolina.** White expected. It is homecoming at Kenan Stadium, and Carolina blue is expected for the Tar Heels on the [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026).
 

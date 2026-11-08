@@ -3,7 +3,7 @@ title: "UCF Uniform Schedule 2026: Every Jersey and When the Knights Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-27"
+updatedDate: "2026-11-08"
 excerpt: "What UCF wears every game in 2026: the black Knightmode set, the white Lightmode road look, the Space Game alternate, and every week's combination."
 gradient: "linear-gradient(135deg, #000000 0%, #2a2a2a 55%, #BA9B37 130%)"
 cardStyle: words
@@ -105,7 +105,7 @@ Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and wi
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The 2026 SpaceU helmet, revealed October 27, via @UCF_Football</p>
 
-**November 7 at Kansas.** White expected. Kansas wears blue at home, so the Knights go white in Lawrence. More: [Kansas schedule](/stories/kansas-uniform-schedule-2026).
+**November 7 at Kansas.** White expected. Kansas wears blue at home, so the Knights go white in Lawrence. More: [Kansas schedule](/stories/kansas-uniform-schedule-2026). **Worn: white jersey, black pants**, confirmed from the game broadcast. **Final: UCF 33, Kansas 32.**
 
 **November 14 vs. Arizona State.** Black expected, with Arizona State in white. More: [Arizona State schedule](/stories/arizona-state-uniform-schedule-2026).
 

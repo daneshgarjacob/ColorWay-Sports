@@ -3,7 +3,7 @@ title: "Rutgers Uniform Schedule 2026: Every Jersey and When the Scarlet Knights
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Rutgers wears every game in 2026: scarlet at home, white on the road, the 9/11 tribute set, the Blackout homecoming, and the full uniform schedule."
 gradient: "linear-gradient(135deg, #CC0033 0%, #a3002a 55%, #111111 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
 
 **October 31 vs. Michigan.** Scarlet expected. Halloween On the Banks, with Michigan in white. See the [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026) for the visitors.
 
-**November 7 at Wisconsin.** White expected. Rutgers in white at Camp Randall against a Wisconsin team in red, as we have it on the [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026).
+**November 7 at Wisconsin.** White expected. Rutgers in white at Camp Randall against a Wisconsin team in red, as we have it on the [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026). **Worn: red helmet, white jersey, white pants**, confirmed from the game broadcast. **Final: Wisconsin 31, Rutgers 10.**
 
 **November 14 vs. Nebraska.** Scarlet expected. This is Military Appreciation day at SHI Stadium, so it is a date to watch for a patch or helmet decal. Nebraska is in white on the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026).
 

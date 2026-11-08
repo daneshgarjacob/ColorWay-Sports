@@ -2,7 +2,7 @@
 title: "Miami vs. Notre Dame Uniforms: Miami's 2001 Throwbacks Against Navy and Gold in South Bend, Graded A"
 category: "College"
 date: "2026-11-07"
-updatedDate: "2026-11-07"
+updatedDate: "2026-11-08"
 excerpt: "No. 1 Miami wore the white road version of its 2001 national championship throwbacks, with green pants, at No. 5 Notre Dame, which wore navy jerseys with its gold helmets and gold pants. What each team wore, the team photos, and why it gets an A."
 gradient: "linear-gradient(135deg, #005030 0%, #005030 48%, #0C2340 52%, #C99700 100%)"
 author: "jake-daneshgar"
@@ -19,7 +19,7 @@ teams: ["miami-hurricanes", "notre-dame-fighting-irish", "acc", "fbs-independent
 
 **Miami brought its 2001 national championship throwbacks to South Bend.** No. 1 Miami played at No. 5 Notre Dame on Saturday night in the **white road version of its 2001 uniforms, with green pants**. It is the first time Miami has worn that half of the set. Notre Dame answered in **navy, with its gold helmets and gold pants**. Orange, green and white against navy and gold, under the lights at Notre Dame Stadium, in one of college football's oldest rivalries. We gave it an **A**.
 
-<div data-game-final style="margin: 1.5em 0; padding: 14px 18px; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><strong>In progress:</strong> Notre Dame led 10-3 in the second quarter. We will add the final score here when the game ends.</div>
+<div data-game-final style="margin: 1.5em 0; padding: 14px 18px; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><strong>Final: No. 5 Notre Dame 31, No. 1 Miami 24.</strong></div>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2119234864650273273"></a></blockquote>

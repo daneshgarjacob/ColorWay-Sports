@@ -3,7 +3,7 @@ title: "North Texas Uniform Schedule 2026: Every Jersey and When the Mean Green 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "North Texas 2026 uniform schedule: the green home set, white road set, Icy Whites at Texas State, both helmets, and what the Mean Green wear every game."
 gradient: "linear-gradient(135deg, #00853E 0%, #0aa152 55%, #0b3d24 130%)"
 cardStyle: words
@@ -92,7 +92,7 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
 
 **October 29 vs. Florida Atlantic.** Green expected, and this is the home date we are watching. A Thursday night kickoff at 6:30 p.m. Central on ESPN or ESPN2, and North Texas calls it the Halloween TX Game. A national TV window two days before Halloween is exactly where a program pulls out something dark.
 
-**November 7 vs. Rice.** Green expected. Homecoming at DATCU Stadium, the other classic date for an alternate.
+**November 7 vs. Rice.** Green expected. Homecoming at DATCU Stadium, the other classic date for an alternate. **Worn: black helmet, green jersey, white pants**, confirmed from the game broadcast. **Final: North Texas 52, Rice 23.**
 
 **November 14 at UTSA.** White expected. At the Alamodome, kickoff time to be announced.
 

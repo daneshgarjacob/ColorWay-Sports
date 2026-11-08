@@ -3,7 +3,7 @@ title: "Temple Uniform Schedule 2026: Every Jersey and When the Owls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-11-08"
 excerpt: "What Temple wears every game in 2026: the cherry home jersey, the white road set, both diamond helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #9D2235 0%, #b62a3f 55%, #5e1220 130%)"
 cardStyle: words
@@ -87,7 +87,7 @@ American Conference home teams wear color and visitors wear white, so every road
 
 **October 31 at East Carolina.** White expected. Halloween in Greenville, with the Pirates in purple. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026).
 
-**November 7 at Navy.** White expected. A 3:30 p.m. Eastern game at Navy-Marine Corps Memorial Stadium on CBS Sports Network. [Navy](/stories/navy-uniform-schedule-2026) is one of the most unpredictable uniform programs in the country, so the color clash on this one is worth watching.
+**November 7 at Navy.** White expected. A 3:30 p.m. Eastern game at Navy-Marine Corps Memorial Stadium on CBS Sports Network. [Navy](/stories/navy-uniform-schedule-2026) is one of the most unpredictable uniform programs in the country, so the color clash on this one is worth watching. **Worn: cherry helmet, white jersey, cherry pants**, confirmed from the game broadcast. **Final: Navy 42, Temple 35.**
 
 **November 14 vs. UAB.** Cherry expected. Senior weekend territory, and a good candidate for the cherry pants if Temple wants the full monochrome.
 

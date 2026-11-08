@@ -3,7 +3,7 @@ title: "Marshall Uniform Schedule 2026: Every Jersey and When the Thundering Her
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-11-08"
 excerpt: "What Marshall wears every game in 2026: the kelly green home jersey, the white road set, three helmet shells, the new chest patch, and the week-by-week schedule."
 gradient: "linear-gradient(135deg, #00B140 0%, #049c3c 55%, #111111 130%)"
 cardStyle: words
@@ -78,7 +78,7 @@ The real story is the helmets. From 2010 through 2021 Marshall wore white and no
 
 **October 31 at Old Dominion.** White expected. Halloween in Norfolk.
 
-**November 7 at Georgia Southern.** White expected. A November trip to Statesboro.
+**November 7 at Georgia Southern.** White expected. A November trip to Statesboro. **Worn: white**, confirmed from the game broadcast. **Final: Georgia Southern 49, Marshall 13.**
 
 **November 14 vs. App State.** This is the one. Marshall hosts App State on the exact anniversary of the November 14, 1970 plane crash for the annual Play For The 75 game, presented by the WV Lottery, with fans asked to wear black. The Herd has worn custom black helmets for this game in recent years, right down to a one-off shell the athletic department auctioned off in 2024 to benefit the We Are Marshall endowment.
 

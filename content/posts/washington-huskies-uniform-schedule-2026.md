@@ -3,7 +3,7 @@ title: "Washington Huskies Uniform Schedule 2026: Every Jersey and When the Husk
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-11"
+updatedDate: "2026-11-08"
 excerpt: "Washington Huskies uniform schedule 2026: every jersey and uniform week by week, from purple home and white road to the new all-black Dawgs alternate."
 gradient: "linear-gradient(135deg, #4B2E83 0%, #3a2366 55%, #B7A57A 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ See the [USC 2026 uniform schedule](/stories/usc-uniform-schedule-2026) for the 
 
 **October 31 at Nebraska.** White expected. Halloween in Lincoln, and Nebraska has announced its black alternate for this one, the second Blackout game, so it is white against all black.
 
-**November 7 vs. Penn State.** Purple expected. Homecoming and the Purple Reign Game, opened by the Blanket Parade of former letterwinners. The theme made this look like the most likely date for the all-purple look from the core set, purple jersey over purple pants, but Washington already wore it against Iowa on October 9, so Purple Reign could bring something else. Nothing is confirmed. More on the visitors on the [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026).
+**November 7 vs. Penn State.** Purple expected. Homecoming and the Purple Reign Game, opened by the Blanket Parade of former letterwinners. The theme made this look like the most likely date for the all-purple look from the core set, purple jersey over purple pants, but Washington already wore it against Iowa on October 9, so Purple Reign could bring something else. Nothing is confirmed. More on the visitors on the [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026). **Final: Penn State 28, Washington 25.** We have not checked this game against game photos.
 
 **November 14 at Michigan State.** White expected. Spartan Stadium, kickoff to be announced.
 

@@ -3,7 +3,7 @@ title: "Minnesota Gophers Uniform Schedule 2026: Every Jersey and When the Gophe
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Minnesota wears every game in 2026: maroon at home, the gold jersey, white on the road, the returning chrome helmet, and the full Gophers uniform schedule."
 gradient: "linear-gradient(135deg, #7A0019 0%, #8f1a2c 55%, #FFCC33 130%)"
 cardStyle: words
@@ -64,7 +64,7 @@ The current Nike set arrived in 2024, the first full relaunch since 2018. It add
 
 **October 31 at Indiana.** White expected. Halloween in Bloomington.
 
-**November 7 vs. UCLA.** Maroon expected. Minnesota's Salute to Service game, which makes it a candidate for a patch or helmet decal. UCLA is in white on the [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026).
+**November 7 vs. UCLA.** Maroon expected. Minnesota's Salute to Service game, which makes it a candidate for a patch or helmet decal. UCLA is in white on the [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026). **Worn: maroon helmet, black jersey, black pants**, confirmed from game photos. We had maroon down; the jersey was black. **Final: UCLA 34, Minnesota 20.**
 
 **November 14 at Penn State.** White expected. The Governor's Victory Bell game at Beaver Stadium, against a Penn State team in navy, as shown on the [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026).
 

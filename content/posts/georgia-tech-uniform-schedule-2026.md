@@ -3,7 +3,7 @@ title: "Georgia Tech Uniform Schedule 2026: Every Jersey and When the Yellow Jac
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Georgia Tech wears every game in 2026: the new Under Armour gold and white jerseys, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #003057 0%, #0b3a6b 55%, #B3A369 130%)"
 cardStyle: words
@@ -64,7 +64,7 @@ The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Te
 
 **October 31 at Pitt.** White expected. Halloween in Pittsburgh.
 
-**November 7 vs. Louisville.** Gold expected.
+**November 7 vs. Louisville.** Gold expected. **Worn: gold helmet, gold jersey, white pants**, confirmed from the game broadcast. **Final: Louisville 44, Georgia Tech 17.**
 
 **November 14 at Clemson.** White expected. Death Valley, and the biggest road stage in the conference.
 

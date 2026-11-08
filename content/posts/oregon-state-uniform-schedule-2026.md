@@ -3,7 +3,7 @@ title: "Oregon State Uniform Schedule 2026: Every Jersey and When the Beavers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-06"
+updatedDate: "2026-11-08"
 excerpt: "What Oregon State wears every game in 2026: the black home set, the all white road look, the orange alternate, and the full Beavers uniform schedule."
 gradient: "linear-gradient(135deg, #D73F09 0%, #b8350a 55%, #000000 130%)"
 cardStyle: words
@@ -84,7 +84,7 @@ That leaves the broadcast as the source of truth, and through September the patt
 
 **October 31 at Fresno State.** White expected. Halloween night at Valley Children's Stadium, 8 p.m. Pacific.
 
-**November 7 vs. Texas State.** ★ Confirmed by the team: **military appreciation threads**, a white helmet with the orange and black center stripe, a black jersey with gray digital-camo numbers and camo gloves. A 7:30 p.m. Pacific kickoff on The CW, the only Reser date this season on that network.
+**November 7 vs. Texas State.** ★ Confirmed by the team: **military appreciation threads**, a white helmet with the orange and black center stripe, a black jersey with gray digital-camo numbers and camo gloves. A 7:30 p.m. Pacific kickoff on The CW, the only Reser date this season on that network. Worn as posted, confirmed from the game broadcast. with white pants. **Final: Texas State 42, Oregon State 21.**
 
 **November 14 at Boise State.** White expected. Oregon State in white on the blue turf is one of the better visuals of the year. The [Boise State 2026 uniform schedule](/stories/boise-state-uniform-schedule-2026) covers what the Broncos put on top of it.
 

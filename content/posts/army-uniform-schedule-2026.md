@@ -3,7 +3,7 @@ title: "Army Uniform Schedule 2026: Every Jersey and When the Black Knights Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Army wears every game in 2026: the black home jersey, the white road set, the gold helmet, and the December tribute uniform nobody has seen yet."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #D3BC8D 130%)"
 cardStyle: words
@@ -82,7 +82,7 @@ Everything else about this season comes down to pants. Black jersey with gold pa
 
 **October 31 at Memphis.** White expected. Halloween at Simmons Bank Liberty Stadium, kickoff to be announced.
 
-**November 7 vs. Air Force.** Black expected. The Commander-in-Chief's Trophy game at Michie Stadium, 7:30 p.m. Eastern on CBS, and the only night game Army plays at home all year. Air Force built its 2026 Air Power Legacy Series uniform around the B-21 Raider, but the Falcons wore it against Navy on October 3, so expect Air Force in a more conventional road look here.
+**November 7 vs. Air Force.** Black expected. The Commander-in-Chief's Trophy game at Michie Stadium, 7:30 p.m. Eastern on CBS, and the only night game Army plays at home all year. Air Force built its 2026 Air Power Legacy Series uniform around the B-21 Raider, but the Falcons wore it against Navy on October 3, so expect Air Force in a more conventional road look here. **Worn: black helmet, black jersey with gold numbers, black pants**, confirmed from the game broadcast. The gold helmet stayed home. **Final: Air Force 24, Army 21.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArmyWP_Football/status/2060379370745704731"></a></blockquote>

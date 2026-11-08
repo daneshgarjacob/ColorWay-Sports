@@ -3,7 +3,7 @@ title: "Cincinnati Uniform Schedule 2026: Every Jersey and When the Bearcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "Cincinnati Bearcats uniform schedule 2026: every jersey and helmet week by week, from the all-red opener to black at Nipp at Night and white on the road."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #E00122 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
 
 **October 31 vs. Utah.** Black or red expected. Halloween at Nippert. Last year's meeting was Utah's all-black Dark Mode game in Salt Lake City, where Cincinnati wore a black C-Paw helmet over all white. This time the Utes are the visitors, and the [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026) has them in white.
 
-**November 7 at Houston.** White expected. The Bearcats and Cougars were conference rivals in the American before both moved to the Big 12.
+**November 7 at Houston.** White expected. The Bearcats and Cougars were conference rivals in the American before both moved to the Big 12. **Worn: black helmet, white jersey, black pants**, confirmed from the game broadcast. **Final: Houston 31, Cincinnati 24.**
 
 **November 14 at Iowa State.** White expected. A November trip to Jack Trice Stadium in Ames.
 

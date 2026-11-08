@@ -3,7 +3,7 @@ title: "Iowa Uniform Schedule 2026: Every Jersey and When the Hawkeyes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "Iowa uniform schedule 2026: every Hawkeyes jersey by game, the black home uniform, white road jersey, the all-black Cy-Hawk alternate, and what Iowa wears this week."
 gradient: "linear-gradient(135deg, #000000 0%, #1a1a1a 55%, #FFCD00 130%)"
 cardStyle: words
@@ -64,7 +64,7 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
 
 **October 31 vs. Wisconsin.** Black expected, with an asterisk. It is Halloween at Kinnick against the program Iowa went all black for in 2022, so this is the home date we are watching most closely for the alternate. Wisconsin will be the team in white.
 
-**November 7 at Northwestern.** White expected, with Northwestern in purple at home.
+**November 7 at Northwestern.** White expected, with Northwestern in purple at home. **Final: Iowa 24, Northwestern 10.** We have not checked this game against game photos.
 
 **November 14 vs. Purdue.** Black expected. The final Saturday home game falls on Veterans Day weekend, the usual window for Iowa's annual military appreciation game and the American flag Tigerhawk decal on the right side of the helmet. Iowa has not announced the date yet, so treat the decal as likely, not confirmed.
 

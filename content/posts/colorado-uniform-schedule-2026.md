@@ -3,7 +3,7 @@ title: "Colorado Uniform Schedule 2026: Every Jersey and When the Buffaloes Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "Colorado uniform schedule 2026: every Buffaloes jersey, black home, white road, gold and gray alternates, plus which uniform Colorado wears each game this season."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #CFB87C 130%)"
 cardStyle: words
@@ -65,7 +65,7 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
 
 **October 31 vs. Kansas State.** Black expected. Halloween in Boulder, with Military Appreciation and the CU Hall of Fame celebration on the same day.
 
-**November 7 at Arizona State.** White expected. Mountain America Stadium in Tempe, the same opponent that saw the striped gold pants for the first time last November. Sun Devils details are on the [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026).
+**November 7 at Arizona State.** White expected. Mountain America Stadium in Tempe, the same opponent that saw the striped gold pants for the first time last November. Sun Devils details are on the [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026). **Worn: black helmet, white jersey, black pants**, confirmed from the game broadcast. **Final: Arizona State 20, Colorado 10.**
 
 **November 13 vs. Houston.** Black expected. A Friday night game on ESPN, 8:15 p.m. Mountain, with the Buffs Wear Black crowd theme and a halftime drone show. An all-black Colorado under the lights would match the stands. ESPN lists this one under November 14 because of UTC.
 

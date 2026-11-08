@@ -3,7 +3,7 @@ title: "NFL Week 9 Uniforms 2026: What Every Team Is Wearing, Including Kelly Gr
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-10-30"
-updatedDate: "2026-11-06"
+updatedDate: "2026-11-08"
 excerpt: "NFL Week 9 uniforms (Nov. 5-9): the Eagles wear Kelly Green and the Giants wear Vintage White, the Ravens go all purple in Purple Rising on Thursday night, the Saints wear the gold jersey, the Chargers bring out Super Chargers navy, the Colts White Out against Dallas in navy, plus Madrid and every other game."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #241773 130%)"
 coverImage: "/images/posts/nfl-week-9-uniforms-2026/cover.jpg"
@@ -14,7 +14,7 @@ kicker: "This Week"
 league: nfl
 teams: []
 resurfaceOnUpdate: true
-homepageHero: "2026-11-05"
+homepageHero: "2026-11-08"
 ---
 
 Week 9 of the 2026 NFL season runs from Thursday, November 5 to Monday, November 9, with 15 games and two teams on bye: the Pittsburgh Steelers and the Tennessee Titans. It is the busiest week of the season for alternate uniforms so far. Five teams wear an alternate set: the **Ravens in all-purple Purple Rising** on Thursday night, the **Eagles in Kelly Green** and the **Giants in Vintage White** in the same game in Philadelphia, the **Saints in their gold jersey** under the black helmet, and the **Chargers in the all-navy Super Chargers** set. Indianapolis adds its all-white **White Out** against Dallas, which puts the Cowboys in navy, and Atlanta and Cincinnati play in Madrid on Sunday morning.
@@ -112,7 +112,7 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bengals-white-road.jpg" alt="Cincinnati Bengals white road jersey, expected for the Madrid game against Atlanta in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bengals · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/falcons-red-alternate.jpg" alt="Atlanta Falcons red jersey, scheduled by the team for the Madrid game against Cincinnati in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Falcons · Scheduled</figcaption></figure></div>
 
-**Sunday, 9:30 a.m. ET, NFL Network, Santiago Bernabéu, Madrid.** Atlanta is the designated home team, so the game counts as one of its nine home dates. The Falcons' September 10 schedule has **red** for it: the black helmet, the red jersey and white pants. Cincinnati is the visitor at a neutral site and is expected in **white** under the striped orange helmet. Our matchup grade: **B**. See the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026).
+**Sunday, 9:30 a.m. ET, NFL Network, Santiago Bernabéu, Madrid.** Atlanta is the designated home team, so the game counts as one of its nine home dates. The Falcons' September 10 schedule has **red** for it: the black helmet, the red jersey and white pants. Cincinnati is the visitor at a neutral site and is **confirmed in white over orange tiger-stripe pants**, under the striped orange helmet, in the team's own locker room video from the Bernabéu. Our matchup grade: **B**. See the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AtlantaFalcons/status/2118087634920649128"></a></blockquote>
@@ -215,7 +215,7 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 ### Sunday, November 8
 
-- **Cincinnati Bengals at Atlanta Falcons** (Madrid), 9:30 a.m. ET, NFL Network. Bengals: striped orange helmet, white jersey (expected). Falcons: black helmet, red jersey, white pants (scheduled). Matchup grade: B.
+- **Cincinnati Bengals at Atlanta Falcons** (Madrid), 9:30 a.m. ET, NFL Network. Bengals: striped orange helmet, white jersey, orange tiger-stripe pants (confirmed). Falcons: black helmet, red jersey, white pants (scheduled). Matchup grade: B.
 - **Dallas Cowboys at Indianapolis Colts**, 1:00 p.m. ET, FOX. Cowboys: silver helmet, navy jersey (scheduled). Colts: White Out, white jersey, white pants (confirmed). Matchup grade: B.
 - **New York Jets at Kansas City Chiefs**, 1:00 p.m. ET, CBS. Jets: green helmet, white jersey, green pants (confirmed). Chiefs: red (expected). Matchup grade: B.
 - **Detroit Lions at Miami Dolphins**, 1:00 p.m. ET, FOX. Lions: Honolulu blue (expected). Dolphins: white (expected). Matchup grade: B+.

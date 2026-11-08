@@ -3,7 +3,7 @@ title: "Notre Dame Uniform Schedule 2026: Every Jersey and the Date the Irish We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-07"
+updatedDate: "2026-11-08"
 excerpt: "What Notre Dame wears every game in 2026: the confirmed green jersey date, the Lambeau Field Shamrock Series uniform, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #00843D 55%, #C99700 130%)"
 cardStyle: words
@@ -75,7 +75,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
 
 **October 31 vs. Navy**, Gillette Stadium, Foxborough. ⚠️ **This is the one to watch.** The 99th meeting in the rivalry and the first ever played at Gillette. Neutral-site designations decide who wears color, and Navy has been listed as the home team, which would put Notre Dame in white. Neutral-site designations have flipped before, so we will confirm this one in game week rather than guess it now.
 
-**November 7 vs. Miami**, Notre Dame Stadium. Navy expected. The first time since 1976 that Miami has come to South Bend in November. **Worn: navy jersey, gold helmet, gold pants**, confirmed from game photos. Miami wore its white 2001 throwbacks with green pants. [Graded A](/stories/miami-notre-dame-2001-throwback-uniforms-2026).
+**November 7 vs. Miami**, Notre Dame Stadium. Navy expected. The first time since 1976 that Miami has come to South Bend in November. **Worn: navy jersey, gold helmet, gold pants**, confirmed from game photos. Miami wore its white 2001 throwbacks with green pants. [Graded A](/stories/miami-notre-dame-2001-throwback-uniforms-2026). **Final: Notre Dame 31, Miami 24.**
 
 **November 14 vs. Boston College**, Notre Dame Stadium. Navy expected.
 

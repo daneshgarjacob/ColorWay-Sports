@@ -3,7 +3,7 @@ title: "Tennessee Uniform Schedule 2026: Every Jersey and When the Vols Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-20"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-08"
 excerpt: "What Tennessee wears every game in 2026, including the new Smokey Grey Neyland tribute against Auburn and orange against Alabama."
 gradient: "linear-gradient(135deg, #FF8200 0%, #3a2408 55%, #58595B 130%)"
 coverImage: "/images/posts/tennessee-uniform-schedule-2026/cover.jpg"
@@ -109,7 +109,7 @@ Twelve games, seven at Neyland, two alternates on the calendar.
 
 **October 31.** Bye week.
 
-**November 7 vs. Kentucky**, Knoxville. **Dark Mode, confirmed:** black helmet with an orange Power T, black jersey, black pants, the first black game of the season and the first in the adidas version. [Dark Mode vs. Kentucky](/stories/tennessee-dark-mode-uniforms-kentucky-2026).
+**November 7 vs. Kentucky**, Knoxville. **Dark Mode, confirmed:** black helmet with an orange Power T, black jersey, black pants, the first black game of the season and the first in the adidas version. [Dark Mode vs. Kentucky](/stories/tennessee-dark-mode-uniforms-kentucky-2026). Worn as announced, confirmed from the game broadcast. Kentucky wore its chrome helmet, white jersey and white pants. **Final: Tennessee 34, Kentucky 6.**
 
 **November 14 at Texas A&M**, College Station. Road. White.
 

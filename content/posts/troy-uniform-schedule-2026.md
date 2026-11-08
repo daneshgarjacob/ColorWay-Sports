@@ -3,7 +3,7 @@ title: "Troy Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Troy wears every game in 2026: a new black jersey, three helmets, the cardinal and white sets and the week-by-week Trojans uniform schedule."
 gradient: "linear-gradient(135deg, #862633 0%, #4a1219 55%, #b1b3b3 130%)"
 cardStyle: words
@@ -66,7 +66,7 @@ The uniforms are Adidas, and the base of the closet is cardinal and white with s
 
 **October 29 at James Madison.** White expected. A Thursday night at Bridgeforth Stadium, 7:30 p.m. Eastern. JMU is expected in purple at home; our [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026) has the Dukes.
 
-**November 7 vs. Louisiana Tech.** Cardinal expected. Homecoming, celebrating the 30th anniversary of the 1996 Southland Conference champions.
+**November 7 vs. Louisiana Tech.** Cardinal expected. Homecoming, celebrating the 30th anniversary of the 1996 Southland Conference champions. **Worn: white helmet, cardinal jersey, white pants**, confirmed from the game broadcast. **Final: Louisiana Tech 41, Troy 17.**
 
 **November 14 at South Alabama.** White expected. Hancock Whitney Stadium in Mobile, the Battle for the Belt rivalry, kickoff time still to be set.
 

@@ -3,7 +3,7 @@ title: "College Football Week 10 Uniforms 2026: Tennessee's Dark Mode, Florida A
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-30"
-updatedDate: "2026-11-07"
+updatedDate: "2026-11-08"
 excerpt: "College football Week 10 uniforms: Tennessee wears its all-black Dark Mode against Kentucky, Florida goes all blue against Oklahoma, and Miami visits Notre Dame, Alabama visits LSU and Oregon visits Ohio State. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #2a1a08 60%, #FF8200 130%)"
 coverImage: "/images/posts/college-football-week-10-uniforms-2026/cover.jpg"
@@ -18,6 +18,8 @@ league: "college"
 teams: ["tennessee-volunteers", "kentucky-wildcats", "florida-gators", "oklahoma-sooners", "miami-hurricanes", "notre-dame-fighting-irish", "alabama-crimson-tide", "lsu-tigers", "ohio-state-buckeyes", "oregon-ducks", "georgia-bulldogs", "ole-miss-rebels", "byu-cougars", "utah-utes", "texas-longhorns", "missouri-tigers", "army-black-knights", "air-force-falcons", "arizona-wildcats", "tcu-horned-frogs", "smu-mustangs", "virginia-tech-hokies", "nebraska-cornhuskers", "illinois-fighting-illini", "east-carolina-pirates", "south-florida-bulls", "ucla-bruins", "minnesota-golden-gophers", "texas-tech-red-raiders", "west-virginia-mountaineers", "houston-cougars", "cincinnati-bearcats", "northwestern-wildcats", "iowa-hawkeyes", "oklahoma-state-cowboys", "kansas-state-wildcats", "ucf-knights", "kansas-jayhawks", "iowa-state-cyclones", "baylor-bears", "michigan-wolverines", "michigan-state-spartans", "penn-state-nittany-lions", "washington-huskies", "clemson-tigers", "syracuse-orange", "florida-state-seminoles", "boston-college-eagles", "north-carolina-tar-heels", "uconn-huskies", "tulsa-golden-hurricane", "tulane-green-wave", "wisconsin-badgers", "rutgers-scarlet-knights", "duke-blue-devils", "nc-state-wolfpack", "maryland-terrapins", "purdue-boilermakers", "arkansas-razorbacks", "auburn-tigers", "texas-am-aggies", "south-carolina-gamecocks", "wake-forest-demon-deacons", "navy-midshipmen", "temple-owls", "vanderbilt-commodores", "mississippi-state-bulldogs", "boise-state-broncos", "colorado-state-rams", "colorado-buffaloes", "arizona-state-sun-devils", "louisville-cardinals", "georgia-tech-yellow-jackets", "fresno-state-bulldogs", "utah-state-aggies", "texas-state-bobcats", "oregon-state-beavers", "wyoming-cowboys", "unlv-rebels", "james-madison-dukes", "southern-miss-golden-eagles", "utsa-roadrunners", "buffalo-bulls", "toledo-rockets", "coastal-carolina-chanticleers", "appalachian-state-mountaineers", "georgia-southern-eagles", "marshall-thundering-herd", "western-kentucky-hilltoppers", "rice-owls", "north-texas-mean-green", "troy-trojans", "louisiana-ragin-cajuns", "uab-blazers", "liberty-flames", "hawaii-rainbow-warriors", "sec", "big-ten", "acc", "big-12", "american-conference", "mountain-west", "sun-belt", "conference-usa", "mac", "fbs-independents"]
 resurfaceOnUpdate: true
 ---
+
+**Final update, Sunday, November 8:** every Week 10 game below now has a final score, and the uniforms are logged from game photos wherever they were available.
 
 Week 10 of the 2026 college football season is the biggest Saturday of the year so far. **No. 1 Miami plays at No. 5 Notre Dame** on Saturday night, **No. 10 Alabama goes to No. 15 LSU**, **Oregon visits No. 2 Ohio State**, **No. 3 Georgia plays at No. 12 Ole Miss**, **No. 8 BYU and No. 6 Utah** meet in the Holy War and **No. 11 Texas visits No. 23 Missouri**. Several looks are already known. **Tennessee wears its all-black Dark Mode against No. 9 Kentucky**, announced a full week early, and **Florida goes all blue against Oklahoma**, the one all-blue game on the season schedule Florida published in August. Air Force plays at Army for the Commander-in-Chief's Trophy on Saturday night, and Arizona hosts TCU on Friday in its Sandstorm-themed game.
 
@@ -64,11 +66,11 @@ This is the adidas Dark Mode set Tennessee revealed on July 9 when it launched i
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2075234798377762829"></a></blockquote>
 </div>
 
-**Kentucky: Expected, white.** Kentucky is the visitor and should be in its white road set, which makes this all black against white. Our full breakdown: [Tennessee's Dark Mode vs. Kentucky](/stories/tennessee-dark-mode-uniforms-kentucky-2026). More: [Tennessee schedule](/stories/tennessee-uniform-schedule-2026) and [Kentucky schedule](/stories/kentucky-uniform-schedule-2026).
+**Kentucky: Confirmed from the game broadcast**, the ICE COLD chrome helmet, white jersey and white pants, all white against all black. **Final: Tennessee 34, Kentucky 6.** Our full breakdown: [Tennessee's Dark Mode vs. Kentucky](/stories/tennessee-dark-mode-uniforms-kentucky-2026). More: [Tennessee schedule](/stories/tennessee-uniform-schedule-2026) and [Kentucky schedule](/stories/kentucky-uniform-schedule-2026).
 
 ### Oklahoma at No. 17 Florida: The All-Blue Game
 
-**Saturday, 7:45 p.m., SEC Network.** **Florida: Announced, all blue.** Florida is the rare college program that publishes its uniform schedule before the season, and its 2026 grid has one all-blue game: a **blue helmet, blue jersey and blue pants** against Oklahoma in The Swamp. Florida has followed that grid in every game but one. At Texas on October 17 it wore the blue helmet instead of the listed orange, so we will still look for the game-week post before calling it confirmed.
+**Saturday, 7:45 p.m., SEC Network.** **Florida: Announced, all blue.** Florida is the rare college program that publishes its uniform schedule before the season, and its 2026 grid has one all-blue game: a **blue helmet, blue jersey and blue pants** against Oklahoma in The Swamp. Florida has followed that grid in every game but one. At Texas on October 17 it wore the blue helmet instead of the listed orange, so we looked for the game-week post before calling it confirmed: Florida posted it, and it is what the Gators wore. **Final: Oklahoma 23, Florida 7.**
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GatorsFB/status/2118499747283542422"></a></blockquote>
@@ -79,17 +81,17 @@ This is the adidas Dark Mode set Tennessee revealed on July 9 when it launched i
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Florida's 2026 uniform schedule, via Florida Gators Football</p>
 
-**Oklahoma: Expected, white.** Florida is in color at home, so the Sooners should be in their white road set. More: [Florida schedule](/stories/florida-uniform-schedule-2026) and [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026).
+**Oklahoma: Confirmed**, crimson helmet, white jersey, white pants. More: [Florida schedule](/stories/florida-uniform-schedule-2026) and [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026).
 
 ### No. 1 Miami at No. 5 Notre Dame: Navy vs. White in South Bend
 
-**Saturday, 7:30 p.m., NBC.** **Miami: Confirmed, the white 2001 throwbacks with green pants**, the first time Miami has worn the road half of the set, confirmed from the team's game photos. **Notre Dame: Confirmed, navy**, with the gold helmet and gold pants. We graded it an A: [Miami's 2001 throwbacks vs. Notre Dame's navy and gold](/stories/miami-notre-dame-2001-throwback-uniforms-2026). It is the first time since 1976 that Miami has played in South Bend in November.
+**Saturday, 7:30 p.m., NBC.** **Miami: Confirmed, the white 2001 throwbacks with green pants**, the first time Miami has worn the road half of the set, confirmed from the team's game photos. **Notre Dame: Confirmed, navy**, with the gold helmet and gold pants. We graded it an A: [Miami's 2001 throwbacks vs. Notre Dame's navy and gold](/stories/miami-notre-dame-2001-throwback-uniforms-2026). It is the first time since 1976 that Miami has played in South Bend in November. **Final: Notre Dame 31, Miami 24.**
 
-The open question is Miami's 2001 throwbacks. Miami revealed both the orange home and the white road version of its 2001 national championship uniforms on September 22, and wore the orange version against Pittsburgh on October 24. The white road version, which goes with green pants, has no date yet. Miami posted its standard all white for this week's game at North Carolina, and its last three regular-season games are at home, so this is the last regular-season road game left for it. Nothing has been announced. More: [Miami's 2001 throwbacks, graded](/stories/miami-2001-throwback-uniforms), [Miami schedule](/stories/miami-hurricanes-uniform-schedule-2026) and [Notre Dame schedule](/stories/notre-dame-uniform-schedule-2026).
+Miami revealed both the orange home and the white road version of its 2001 national championship uniforms on September 22, and wore the orange version against Pittsburgh on October 24. This was the debut of the white road version, which goes with green pants. More: [Miami's 2001 throwbacks, graded](/stories/miami-2001-throwback-uniforms), [Miami schedule](/stories/miami-hurricanes-uniform-schedule-2026) and [Notre Dame schedule](/stories/notre-dame-uniform-schedule-2026).
 
 ### No. 10 Alabama at No. 15 LSU: The Home White Rule
 
-**Saturday, 3:30 p.m., ABC.** **LSU: Expected, home white.** LSU is the one SEC program that regularly wears white at home, and when it does, the visitor wears color. LSU has worn the home whites against Clemson and Texas A&M this season and gone purple at home against Louisiana Tech and McNeese. LSU lists the game as its "LSU Salutes" game. **Alabama: Expected, crimson** if LSU is in white, which would make it the one road game all season where Alabama wears crimson. That is the most likely outcome, but neither team has announced anything. More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Alabama schedule](/stories/alabama-uniform-schedule-2026).
+**Saturday, 3:30 p.m., ABC.** **LSU: Confirmed, home white**, with the gold helmet and gold pants. LSU is the one SEC program that regularly wears white at home, and when it does, the visitor wears color. LSU has worn the home whites against Clemson and Texas A&M this season and gone purple at home against Louisiana Tech and McNeese. LSU lists the game as its "LSU Salutes" game. **Alabama: Confirmed, crimson**, with the crimson helmet and white pants, the one road game all season where Alabama wears crimson. **Final: Alabama 31, LSU 13.** More: [LSU schedule](/stories/lsu-uniform-schedule-2026) and [Alabama schedule](/stories/alabama-uniform-schedule-2026).
 
 ### Oregon at No. 2 Ohio State: First Meeting Since the Rose Bowl
 
@@ -102,7 +104,7 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 
 ### No. 3 Georgia at No. 12 Ole Miss
 
-**Saturday, 7:30 p.m., ABC.** **Ole Miss: Confirmed, navy helmet, navy jersey and gray pants**, posted by the team. Ole Miss wore white at Georgia in 2025, so the colors flip this year. **Georgia: Expected, white**, with the red helmet and silver britches. More: [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026) and [Georgia schedule](/stories/georgia-uniform-schedule-2026).
+**Saturday, 7:30 p.m., ABC.** **Ole Miss: Confirmed, navy helmet, navy jersey and gray pants**, posted by the team. Ole Miss wore white at Georgia in 2025, so the colors flip this year. **Georgia: Confirmed, white**, with the red helmet and silver britches. **Final: Georgia 42, Ole Miss 7.** More: [Ole Miss schedule](/stories/ole-miss-uniform-schedule-2026) and [Georgia schedule](/stories/georgia-uniform-schedule-2026).
 
 ### No. 8 BYU at No. 6 Utah: The Holy War
 
@@ -114,7 +116,7 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 
 ### Air Force at Army: The Commander-in-Chief's Trophy
 
-**Saturday, 7:30 p.m., CBS, at Michie Stadium.** It is Army's only home night game of the season. **Army: Expected, black**, with the gold helmet. Army has paired the black jersey with gold pants and with black pants this season, so the pants are the open question. **Air Force: Expected, white.** Air Force built its 2026 Air Power Legacy Series uniform around the B-21 Raider, but it already wore that set against Navy on October 3. More: [Army schedule](/stories/army-uniform-schedule-2026) and [Air Force schedule](/stories/air-force-uniform-schedule-2026).
+**Saturday, 7:30 p.m., CBS, at Michie Stadium.** It was Army's only home night game of the season. **Army: Confirmed, black helmet, black jersey with gold numbers, black pants.** We had the gold helmet down; it was black. **Air Force: Confirmed, white helmet, white jersey, white pants.** Air Force built its 2026 Air Power Legacy Series uniform around the B-21 Raider, but it already wore that set against Navy on October 3. **Final: Air Force 24, Army 21**, and Air Force clinched the Commander-in-Chief's Trophy. More: [Army schedule](/stories/army-uniform-schedule-2026) and [Air Force schedule](/stories/air-force-uniform-schedule-2026).
 
 ### TCU at No. 22 Arizona: Friday Night Sandstorm
 
@@ -135,7 +137,7 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 
 ### No. 20 Boise State at Colorado State: Color Rush on the Road
 
-**Saturday, 6 p.m. (4 p.m. Mountain), USA Network.** **Boise State: Confirmed, color rush.** The Broncos have worn white in every road game this season, and at Colorado State they bring the color instead: an **orange helmet with the blue Broncos script and a white facemask**, a **blue jersey with silver numbers outlined in orange**, and **orange pants**. **Colorado State: Expected, green**, though with Boise State in blue, watch whether the Rams switch to white. More: [Boise State schedule](/stories/boise-state-uniform-schedule-2026) and [Colorado State schedule](/stories/colorado-state-uniform-schedule-2026).
+**Saturday, 6 p.m. (4 p.m. Mountain), USA Network.** **Boise State: Confirmed, color rush.** The Broncos have worn white in every road game this season, and at Colorado State they bring the color instead: an **orange helmet with the blue Broncos script and a white facemask**, a **blue jersey with silver numbers outlined in orange**, and **orange pants**. **Colorado State: Expected, green**, though with Boise State in blue, watch whether the Rams switch to white. **Final: Boise State 64, Colorado State 38.** More: [Boise State schedule](/stories/boise-state-uniform-schedule-2026) and [Colorado State schedule](/stories/colorado-state-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BroncoSportsFB/status/2118396821101826192"></a></blockquote>
@@ -241,8 +243,9 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Tulane: **Confirmed**, green, for Homecoming.
 
 **[Rutgers](/stories/rutgers-uniform-schedule-2026) at No. 25 [Wisconsin](/stories/wisconsin-uniform-schedule-2026)**, 12:30 p.m., BTN.
-- Rutgers: **Expected**, white.
-- Wisconsin: **Expected**, red.
+- **Final: Wisconsin 31, Rutgers 10.**
+- Rutgers: **Confirmed**, red helmet, white jersey, white pants.
+- Wisconsin: **Confirmed**, white helmet, red jersey, white pants.
 
 **[Duke](/stories/duke-uniform-schedule-2026) at [NC State](/stories/nc-state-uniform-schedule-2026)**, 12:30 p.m., The CW.
 - **Final: Duke 41, NC State 3.**
@@ -260,16 +263,19 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Auburn: **Confirmed**, navy.
 
 **Old Dominion at [Coastal Carolina](/stories/coastal-carolina-uniform-schedule-2026)**, 1 p.m., ESPN+.
-- Coastal Carolina: **Expected**, black, for Homecoming and a Black Out.
+- **Final: Old Dominion 21, Coastal Carolina 8.**
+- Coastal Carolina: **Confirmed**, black, for Homecoming and a Black Out.
 
 ### Saturday, November 7: Afternoon Window
 
 **Georgia State at [App State](/stories/appalachian-state-uniform-schedule-2026)**, 2:30 p.m., ESPN+.
-- App State: **Expected**, black, for Heroes Day.
+- **Final: Georgia State 39, App State 23.**
+- App State: **Confirmed**, black helmet, black jersey, gold pants, for Heroes Day.
 
 **[Texas A&M](/stories/texas-am-uniform-schedule-2026) at [South Carolina](/stories/south-carolina-uniform-schedule-2026)**, 3 p.m., ESPN.
-- Texas A&M: **Expected**, white.
-- South Carolina: **Expected**, garnet.
+- **Final: South Carolina 17, Texas A&M 9.**
+- Texas A&M: **Confirmed**, white jersey, maroon pants.
+- South Carolina: **Confirmed**, black helmet, black jersey, garnet pants. We had garnet down; the jersey was black.
 
 **[Oregon](/stories/oregon-uniform-schedule-2026) at No. 2 [Ohio State](/stories/ohio-state-uniform-schedule-2026)**, 3:30 p.m., CBS.
 - **Final: Oregon 41, Ohio State 28.**
@@ -277,67 +283,83 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Ohio State: **Confirmed**, scarlet: silver helmet, scarlet jersey and scarlet pants, not the usual gray.
 
 **No. 10 [Alabama](/stories/alabama-uniform-schedule-2026) at No. 15 [LSU](/stories/lsu-uniform-schedule-2026)**, 3:30 p.m., ABC.
-- Alabama: **Expected**, crimson, if LSU wears white.
-- LSU: **Expected**, home white, for "LSU Salutes."
+- **Final: Alabama 31, LSU 13.**
+- Alabama: **Confirmed**, crimson helmet, crimson jersey, white pants.
+- LSU: **Confirmed**, home white with the gold helmet and gold pants, for "LSU Salutes."
 
 **Merrimack at No. 14 [Wake Forest](/stories/wake-forest-uniform-schedule-2026)**, 3:30 p.m., ACC Network.
-- Wake Forest: **Expected**, black.
+- **Final: Wake Forest 77, Merrimack 0.**
+- Wake Forest: **Confirmed**, black helmet, black jersey, gold pants.
 
 **[Temple](/stories/temple-uniform-schedule-2026) at [Navy](/stories/navy-uniform-schedule-2026)**, 3:30 p.m., CBSSN.
-- Temple: **Expected**, white.
-- Navy: **Expected**, navy.
+- **Final: Navy 42, Temple 35.**
+- Temple: **Confirmed**, cherry helmet, white jersey, cherry pants.
+- Navy: **Confirmed**, gold helmet, navy jersey, gold pants.
 
 **Charlotte at [UAB](/stories/uab-uniform-schedule-2026)**, 3:30 p.m., ESPN+.
-- UAB: **Expected**, white, since Charlotte also wears green.
+- **Final: UAB 23, Charlotte 12.**
+- UAB: **Confirmed**, white jersey. Charlotte wore gray.
 
 **[Marshall](/stories/marshall-uniform-schedule-2026) at [Georgia Southern](/stories/georgia-southern-uniform-schedule-2026)**, 3:30 p.m., ESPN+.
-- Marshall: **Expected**, white.
-- Georgia Southern: **Expected**, navy, for Homecoming and Salute to Service.
+- **Final: Georgia Southern 49, Marshall 13.**
+- Marshall: **Confirmed**, white.
+- Georgia Southern: **Confirmed**, navy helmet, navy jersey, white pants, for Homecoming and Salute to Service.
 
 **[Western Kentucky](/stories/western-kentucky-uniform-schedule-2026) at Middle Tennessee**, 3:30 p.m., ESPN+.
-- Western Kentucky: **Expected**, white, for the 100 Miles of Hate.
+- **Final: Middle Tennessee 51, Western Kentucky 42.**
+- Western Kentucky: **Confirmed**, white jersey, black pants, for the 100 Miles of Hate.
 
 **[Rice](/stories/rice-uniform-schedule-2026) at [North Texas](/stories/north-texas-uniform-schedule-2026)**, 4 p.m., ESPNU.
-- Rice: **Expected**, white or gray.
-- North Texas: **Expected**, green, for Homecoming.
+- **Final: North Texas 52, Rice 23.**
+- Rice: **Confirmed**, silver helmet, white jersey, gray pants.
+- North Texas: **Confirmed**, black helmet, green jersey, white pants, for Homecoming.
 
 **Louisiana Tech at [Troy](/stories/troy-uniform-schedule-2026)**, 4 p.m., ESPN+.
-- Troy: **Expected**, cardinal, for Homecoming and the 30th anniversary of its 1996 Southland Conference champions.
+- **Final: Louisiana Tech 41, Troy 17.**
+- Troy: **Confirmed**, white helmet, cardinal jersey, white pants, for Homecoming and the 30th anniversary of its 1996 Southland Conference champions.
 
 **[Vanderbilt](/stories/vanderbilt-uniform-schedule-2026) at [Mississippi State](/stories/mississippi-state-uniform-schedule-2026)**, 4:15 p.m., SEC Network.
-- Vanderbilt: **Expected**, white.
-- Mississippi State: **Expected**, maroon.
+- **Final: Vanderbilt 25, Mississippi State 23.**
+- Vanderbilt: **Confirmed**, black helmet, white jersey, white pants.
+- Mississippi State: **Confirmed**, maroon helmet, maroon jersey, white pants.
 
 **South Alabama at [Louisiana](/stories/louisiana-uniform-schedule-2026)**, 5 p.m., ESPN+.
-- Louisiana: **Expected**, red, for Louisiana Salutes.
+- **Final: Louisiana 28, South Alabama 26.**
+- Louisiana: **Confirmed**, black helmet with the Cajuns script, black jersey, black pants, for Louisiana Salutes. We had red down; Louisiana went all black.
 
-Also in the afternoon: UL Monroe at Arkansas State (3 p.m., ESPN+), Delaware at Kennesaw State (3 p.m., ESPN+), Northern Illinois at San José State (4 p.m., MW+) and Missouri State at FIU (4 p.m., ESPN+).
+Also in the afternoon: UL Monroe 19, Arkansas State 17 (3 p.m., ESPN+), Kennesaw State 42, Delaware 40 (3 p.m., ESPN+), San José State 30, Northern Illinois 19 (4 p.m., MW+) and FIU 23, Missouri State 20 (4 p.m., ESPN+).
 
 ### Saturday, November 7: Night Window
 
 **No. 20 [Boise State](/stories/boise-state-uniform-schedule-2026) at [Colorado State](/stories/colorado-state-uniform-schedule-2026)**, 6 p.m. (4 p.m. Mountain), USA Network.
+- **Final: Boise State 64, Colorado State 38.**
 - Boise State: **Confirmed**, color rush: orange helmet, blue jersey, orange pants. See above.
 - Colorado State: **Expected**, green.
 
 **No. 9 [Kentucky](/stories/kentucky-uniform-schedule-2026) at No. 16 [Tennessee](/stories/tennessee-uniform-schedule-2026)**, 6:15 p.m., ESPN.
-- Kentucky: **Expected**, white.
-- Tennessee: **Confirmed**, Dark Mode: black helmet, black jersey, black pants. See above.
+- **Final: Tennessee 34, Kentucky 6.**
+- Kentucky: **Confirmed**, ICE COLD: chrome helmet, white jersey, white pants.
+- Tennessee: **Confirmed**, Dark Mode: black helmet with the orange Power T, black jersey, black pants. See above.
 
 **No. 1 [Miami](/stories/miami-hurricanes-uniform-schedule-2026) at No. 5 [Notre Dame](/stories/notre-dame-uniform-schedule-2026)**, 7:30 p.m., NBC.
+- **Final: Notre Dame 31, Miami 24.**
 - Miami: **Confirmed**, the white 2001 throwbacks: striped white helmet, white jersey with the green yoke, green pants. [Graded A](/stories/miami-notre-dame-2001-throwback-uniforms-2026).
 - Notre Dame: **Confirmed**, navy with the gold helmet and gold pants.
 
 **No. 3 [Georgia](/stories/georgia-uniform-schedule-2026) at No. 12 [Ole Miss](/stories/ole-miss-uniform-schedule-2026)**, 7:30 p.m., ABC.
-- Georgia: **Expected**, white.
+- **Final: Georgia 42, Ole Miss 7.**
+- Georgia: **Confirmed**, red helmet, white jersey, silver pants.
 - Ole Miss: **Confirmed**, navy helmet, navy jersey, gray pants.
 
 **[Colorado](/stories/colorado-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 7:30 p.m. (5:30 p.m. Arizona), ESPN2.
-- Colorado: **Expected**, white.
-- Arizona State: **Expected**, maroon.
+- **Final: Arizona State 20, Colorado 10.**
+- Colorado: **Confirmed**, black helmet, white jersey, black pants.
+- Arizona State: **Confirmed**, white helmet, gold jersey, white pants. We had maroon down; the jersey was gold.
 
 **[Louisville](/stories/louisville-uniform-schedule-2026) at [Georgia Tech](/stories/georgia-tech-uniform-schedule-2026)**, 7:30 p.m., ACC Network.
+- **Final: Louisville 44, Georgia Tech 17.**
 - Louisville: **Confirmed**, black helmet, white jersey, black pants.
-- Georgia Tech: **Expected**, gold.
+- Georgia Tech: **Confirmed**, gold helmet, gold jersey, white pants.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LouisvilleFB/status/2118078700520427899"></a></blockquote>
@@ -345,26 +367,32 @@ Also in the afternoon: UL Monroe at Arkansas State (3 p.m., ESPN+), Delaware at 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Louisville's look at Georgia Tech: black helmet, white jersey, black pants, via @LouisvilleFB</p>
 
 **[Air Force](/stories/air-force-uniform-schedule-2026) at [Army](/stories/army-uniform-schedule-2026)**, 7:30 p.m., CBS.
-- Air Force: **Expected**, white.
-- Army: **Expected**, black.
+- **Final: Air Force 24, Army 21.**
+- Air Force: **Confirmed**, white helmet, white jersey, white pants.
+- Army: **Confirmed**, black helmet, black jersey with gold numbers, black pants.
 
 **[Oklahoma](/stories/oklahoma-uniform-schedule-2026) at No. 17 [Florida](/stories/florida-uniform-schedule-2026)**, 7:45 p.m., SEC Network.
-- Oklahoma: **Expected**, white.
-- Florida: **Confirmed**, all blue: blue helmet, blue jersey, blue pants. Florida posted the look on Thursday. See above.
+- **Final: Oklahoma 23, Florida 7.**
+- Oklahoma: **Confirmed**, crimson helmet, white jersey, white pants.
+- Florida: **Confirmed**, all blue: blue helmet, blue jersey, blue pants. See above.
 
 **[Liberty](/stories/liberty-uniform-schedule-2026) at New Mexico State**, 8 p.m. (6 p.m. Mountain), ESPNU.
+- **Final: Liberty 30, New Mexico State 14.**
 - Liberty: **Expected**, white.
 
 **[Fresno State](/stories/fresno-state-uniform-schedule-2026) at [Utah State](/stories/utah-state-uniform-schedule-2026)**, 9:30 p.m. (7:30 p.m. Mountain), USA Network.
+- **Final: Utah State 17, Fresno State 10.**
 - Fresno State: **Expected**, white.
 - Utah State: **Expected**, blue. Military Appreciation and First Responders night, with fans asked to wear black or Salute to Service gear.
 
 **[Hawaii](/stories/hawaii-uniform-schedule-2026) at UTEP**, 9:30 p.m. (7:30 p.m. Mountain), FS1.
+- **Final: Hawaii 17, UTEP 14.**
 - Hawaii: **Expected**, white.
 
 **[Texas State](/stories/texas-state-uniform-schedule-2026) at [Oregon State](/stories/oregon-state-uniform-schedule-2026)**, 10:30 p.m. (7:30 p.m. Pacific), The CW.
-- Texas State: **Expected**, white.
-- Oregon State: **Confirmed**, military appreciation: white helmet with the orange and black stripe, black jersey with gray digital-camo numbers, camo gloves, posted by the team.
+- **Final: Texas State 42, Oregon State 21.**
+- Texas State: **Confirmed**, gold helmet with the maroon star, white jersey, white pants.
+- Oregon State: **Confirmed**, military appreciation: white helmet with the orange and black stripe, black jersey with gray digital-camo numbers, white pants, posted by the team.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BeaverFootball/status/2118531418032873938"></a></blockquote>
@@ -372,27 +400,31 @@ Also in the afternoon: UL Monroe at Arkansas State (3 p.m., ESPN+), Delaware at 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Oregon State's military appreciation uniform for Texas State, via <a href="https://x.com/BeaverFootball" target="_blank" rel="noopener">@BeaverFootball</a></p>
 
 **[Wyoming](/stories/wyoming-uniform-schedule-2026) at [UNLV](/stories/unlv-uniform-schedule-2026)**, 10:30 p.m. (7:30 p.m. Pacific), CBSSN, at Allegiant Stadium.
-- Wyoming: **Expected**, white.
-- UNLV: **Expected**, red. Military Appreciation and Native American Heritage Day.
+- **Final: Wyoming 41, UNLV 35.**
+- Wyoming: **Confirmed**, white helmet, white jersey, white pants.
+- UNLV: **Confirmed**, white helmet, red jersey, white pants, for Military Appreciation and Native American Heritage Day.
 
-Also on Saturday night: Sam Houston at Jacksonville State (7 p.m., CBSSN).
+Also on Saturday night: Jacksonville State 47, Sam Houston 14 (7 p.m., CBSSN).
 
 ### Saturday, November 7: Kickoff Times to Be Announced
 
 **No. 7 [UCLA](/stories/ucla-uniform-schedule-2026) at [Minnesota](/stories/minnesota-gophers-uniform-schedule-2026)**.
 - **Final: UCLA 34, Minnesota 20.**
-- UCLA: **Expected**, white.
-- Minnesota: **Expected**, maroon, for its Salute to Service game.
+- UCLA: **Confirmed**, gold helmet, white jersey, gold pants.
+- Minnesota: **Confirmed**, maroon helmet, black jersey, black pants, for its Salute to Service game. We had maroon down; the jersey was black.
 
 **[West Virginia](/stories/west-virginia-uniform-schedule-2026) at No. 13 [Texas Tech](/stories/texas-tech-uniform-schedule-2026)**.
-- West Virginia: **Expected**, white.
-- Texas Tech: **Expected**, red or black.
+- **Final: Texas Tech 53, West Virginia 48.**
+- West Virginia: **Confirmed**, navy helmet, white jersey, gold pants.
+- Texas Tech: **Confirmed**, red helmet, black jersey, black pants.
 
 **[Cincinnati](/stories/cincinnati-uniform-schedule-2026) at No. 18 [Houston](/stories/houston-uniform-schedule-2026)**.
-- Cincinnati: **Expected**, white.
-- Houston: **Expected**, red, for Homecoming and its Military Appreciation Game.
+- **Final: Houston 31, Cincinnati 24.**
+- Cincinnati: **Confirmed**, black helmet, white jersey, black pants.
+- Houston: **Confirmed**, white helmet, red jersey, red pants, for Homecoming and its Military Appreciation Game.
 
 **[Iowa](/stories/iowa-uniform-schedule-2026) at No. 20 [Northwestern](/stories/northwestern-uniform-schedule-2026)**.
+- **Final: Iowa 24, Northwestern 10.**
 - Iowa: **Expected**, white.
 - Northwestern: **Expected**, purple.
 
@@ -402,8 +434,9 @@ Also on Saturday night: Sam Houston at Jacksonville State (7 p.m., CBSSN).
 - Kansas State: **Expected**, purple.
 
 **[UCF](/stories/ucf-uniform-schedule-2026) at [Kansas](/stories/kansas-uniform-schedule-2026)**.
-- UCF: **Expected**, white.
-- Kansas: **Expected**, blue.
+- **Final: UCF 33, Kansas 32.**
+- UCF: **Confirmed**, white jersey, black pants.
+- Kansas: **Confirmed**, blue helmet, blue jersey, red pants.
 
 **[Iowa State](/stories/iowa-state-uniform-schedule-2026) at [Baylor](/stories/baylor-uniform-schedule-2026)**.
 - **Final: Baylor 42, Iowa State 31.**
@@ -416,10 +449,12 @@ Also on Saturday night: Sam Houston at Jacksonville State (7 p.m., CBSSN).
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Baylor's Homecoming uniform for Iowa State, via <a href="https://x.com/BUFootball" target="_blank" rel="noopener">@BUFootball</a></p>
 
 **[Michigan State](/stories/michigan-state-uniform-schedule-2026) at [Michigan](/stories/michigan-uniform-schedule-2026)**.
+- **Final: Michigan State 15, Michigan 6.**
 - Michigan State: **Expected**, white, for the Paul Bunyan Trophy.
 - Michigan: **Expected**, navy.
 
 **[Penn State](/stories/penn-state-uniform-schedule-2026) at [Washington](/stories/washington-huskies-uniform-schedule-2026)**.
+- **Final: Penn State 28, Washington 25.**
 - Penn State: **Expected**, white.
 - Washington: **Expected**, purple, for Homecoming and the Purple Reign Game.
 
@@ -427,7 +462,7 @@ Also on Saturday night: Sam Houston at Jacksonville State (7 p.m., CBSSN).
 
 ## The Bottom Line
 
-This is the deepest Saturday of the season, and Tennessee has already set the tone with Dark Mode against Kentucky. Florida's all blue against Oklahoma, Oregon's Mummy Mode 2.0 at Ohio State, SMU's Dark mode and Boise State's color rush on the road are the other looks we know, and the rest of the week's uniform news will come from the big games: whether LSU stays in white and puts Alabama in crimson, how Ohio State answers Oregon's Mummy Mode 2.0 in Columbus, and whether Miami finally gives its 2001 white throwback a date in South Bend. Check back: we add every combination as it is announced, update the rankings after Sunday's poll, and confirm every look, with final scores, on Saturday.
+Week 10 delivered. Notre Dame beat No. 1 Miami 31-24 in South Bend with Miami in its white 2001 throwbacks and Notre Dame in navy and gold. Oregon won 41-28 at Ohio State in Mummy Mode 2.0, Tennessee beat Kentucky 34-6 in all-black Dark Mode, Oklahoma won 23-7 at Florida despite the all-blue game, and Utah beat BYU 28-20 in the all-red vs. all-royal Holy War. Every final above is logged with what each team actually wore, wherever game photos let us confirm it.
 
 ## Frequently Asked Questions
 
@@ -441,15 +476,15 @@ Dark Mode: a black helmet with an orange Power T and an orange center stripe, a 
 
 **Is Florida wearing all blue against Oklahoma?**
 
-That is what Florida's published 2026 uniform schedule says: blue helmet, blue jersey and blue pants, the only all-blue game of the season. Florida has followed its grid in every game except at Texas, where it switched to the blue helmet, so we will confirm it from the game-week post. Kickoff is 7:45 p.m. Eastern on SEC Network.
+Yes. Florida wore its blue helmet, blue jersey and blue pants against Oklahoma, the only all-blue game on the schedule it published in August. Oklahoma won 23-7.
 
 **What will Miami and Notre Dame wear?**
 
-Notre Dame is expected in navy with gold helmets and gold pants, and Miami in white. Miami's 2001 white throwback has not been given a date, and Notre Dame is Miami's last regular-season road game. Neither team has announced its look yet.
+Miami wore the white 2001 throwbacks with green pants, the first time it has worn the road half of that set, and Notre Dame wore navy with gold helmets and gold pants. Notre Dame won 31-24.
 
 **Will LSU wear white against Alabama?**
 
-LSU is expected in its home whites, which it wears for selected home games, and that would put Alabama in crimson on the road. LSU has worn white at home against Clemson and Texas A&M this season and purple against Louisiana Tech and McNeese. Nothing has been announced.
+LSU wore its home whites with the gold helmet and gold pants, and Alabama wore crimson on the road. LSU has worn white at home against Clemson and Texas A&M this season and purple against Louisiana Tech and McNeese. Alabama won 31-13.
 
 **Is this Week 10 or Week 11 of college football?**
 

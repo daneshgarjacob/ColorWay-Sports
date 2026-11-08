@@ -3,7 +3,7 @@ title: "Fresno State Uniform Schedule 2026: Every Jersey and When the Bulldogs W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-30"
+updatedDate: "2026-11-08"
 excerpt: "What Fresno State wears every game in 2026: the all red home set, the white road jersey with red pants, the black alternate, and every date week by week."
 gradient: "linear-gradient(135deg, #DB0032 0%, #a8002a 55%, #006747 130%)"
 cardStyle: words
@@ -78,7 +78,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
 
 **October 31 vs. Oregon State.** Black reported for **Fright Night**. Fresno State teased a "new look set to debut" on October 26, then posted a "Dark mode" wallpaper with a black helmet and silver crossbones. [The Collegian](https://fscollegian.com/2026/10/back-in-black/) confirmed the Fright Night blackout theme, and [Sports Illustrated](https://www.si.com/onsi/jerseys/news/10-best-week-9-uniforms-in-college-football) reports all-black uniforms with matte helmets, crossbones stripes and Bulldog decals. The team has not posted the full uniform yet. Halloween, 8 p.m. Pacific on USA. Full Halloween weekend: [College Football Week 9 uniforms](/stories/college-football-week-9-uniforms-2026).
 
-**November 7 at Utah State.** White expected. A trip to Maverik Stadium against a navy home side. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
+**November 7 at Utah State.** White expected. A trip to Maverik Stadium against a navy home side. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026). **Final: Utah State 17, Fresno State 10.** We have not checked this game against game photos.
 
 **November 14 at Texas State.** White expected. The longest road trip of the season, a 1 p.m. Pacific kickoff in San Marcos on The CW.
 

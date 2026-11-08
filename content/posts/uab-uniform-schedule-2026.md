@@ -3,7 +3,7 @@ title: "UAB Uniform Schedule 2026: Every Jersey and When the Blazers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-10"
+updatedDate: "2026-11-08"
 excerpt: "What UAB wears every game in 2026: the gold and green helmets, green and white jerseys, gold pants and the week-by-week Blazers uniform schedule."
 gradient: "linear-gradient(135deg, #1A5632 0%, #0e3a20 55%, #C8B568 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ The surprise is the white at home. UAB wore the green jersey for the home opener
 
 **October 31 at South Florida.** White expected. Raymond James Stadium in Tampa, kickoff time still to be set. Our [South Florida 2026 uniform schedule](/stories/south-florida-uniform-schedule-2026) has the Bulls.
 
-**November 7 vs. Charlotte.** Green or white expected. Kids Takeover at Protective Stadium. Charlotte's primary color is also green, which makes the white jersey the more likely call.
+**November 7 vs. Charlotte.** Green or white expected. Kids Takeover at Protective Stadium. Charlotte's primary color is also green, which makes the white jersey the more likely call. **Worn: white jersey**, confirmed from the game broadcast. **Final: UAB 23, Charlotte 12.**
 
 **November 14 at Temple.** White expected. Lincoln Financial Field in Philadelphia. See our [Temple 2026 uniform schedule](/stories/temple-uniform-schedule-2026).
 

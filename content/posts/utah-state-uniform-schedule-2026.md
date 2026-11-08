@@ -3,7 +3,7 @@ title: "Utah State Uniform Schedule 2026: Every Jersey and When the Aggies Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-08"
 excerpt: "What Utah State wears every game in 2026: blue at home, white on the road, the cow print helmet, the retro homecoming helmet, and every date."
 gradient: "linear-gradient(135deg, #0F2439 0%, #1f3a63 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -90,7 +90,7 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
 
 **October 31 vs. Colorado State.** Black expected. Halloween afternoon at Maverik Stadium, and the program lists it as a Halloween Blackout with fans in black. Our [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026) covers the Rams.
 
-**November 7 vs. Fresno State.** Blue expected. Military Appreciation and First Responders night, with fans asked to wear black or Salute to Service gear, so a black or military themed look is possible here too. The Bulldogs are on our [Fresno State 2026 uniform schedule](/stories/fresno-state-uniform-schedule-2026).
+**November 7 vs. Fresno State.** Blue expected. Military Appreciation and First Responders night, with fans asked to wear black or Salute to Service gear, so a black or military themed look is possible here too. The Bulldogs are on our [Fresno State 2026 uniform schedule](/stories/fresno-state-uniform-schedule-2026). **Final: Utah State 17, Fresno State 10.** We have not checked this game against game photos.
 
 **November 14 at San Diego State.** White expected. Saturday night at Snapdragon Stadium, with San Diego State expected in black. See our [San Diego State 2026 uniform schedule](/stories/san-diego-state-uniform-schedule-2026).
 

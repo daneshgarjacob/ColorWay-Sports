@@ -3,7 +3,7 @@ title: "Oklahoma State Uniform Schedule 2026: Every Jersey and When the Cowboys 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-11-01"
+updatedDate: "2026-11-08"
 excerpt: "The Oklahoma State 2026 uniform schedule: orange, white and black jerseys, multiple helmets, and the combination the Cowboys wore to beat Oregon, tracked week by week."
 gradient: "linear-gradient(135deg, #FF7300 0%, #c25500 55%, #000000 130%)"
 cardStyle: words
@@ -70,7 +70,7 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
 
 
 
-**November 7 at Kansas State.** White expected. The 17th straight season against Kansas State, the longest active streak against any Cowboy opponent.
+**November 7 at Kansas State.** White expected. The 17th straight season against Kansas State, the longest active streak against any Cowboy opponent. **Final: Oklahoma State 66, Kansas State 28.** We have not checked this game against game photos.
 
 **November 14 vs. Texas Tech.** Orange expected. Salute to Service, against Texas Tech, a 2025 College Football Playoff team visiting Stillwater. Military appreciation weeks often bring helmet decals or a special detail rather than a whole new uniform.
 
