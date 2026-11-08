@@ -26,7 +26,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
 
 ## Saturday, November 7
 
-12 games on Saturday, every sweater confirmed from game photos. The non-standard looks: Red Wings (Red on the Road), Avalanche (Hometown Remix Debut), Hurricanes (Hometown Remix Debut), Canadiens (Hometown Remix), Predators (Hometown Remix Debut), Capitals (Hometown Remix Debut). Everyone else wore the usual dark at home and white on the road.
+12 games on Saturday, every sweater confirmed from game photos. Four Hometown Remix debuts in one night: the Capitals in blue with the Capitol dome crest, the Predators in navy and gold, the Hurricanes in charcoal with the pig mascot crest, and the Avalanche in white, which sent the Red Wings out in their red home sweater on the road. The Canadiens took their white Remix to Toronto for its second wear. Everyone else wore the usual dark at home and white on the road.
 
 <!-- nhl-day:2026-11-07:start -->
 
