@@ -1,24 +1,51 @@
 ---
-title: "Giants Vintage White vs. Eagles Kelly Green: Both Teams Wear Throwbacks in Philadelphia on November 8"
+title: "Giants Vintage White vs. Eagles Kelly Green: Both Teams in Throwbacks in Philadelphia, Graded A"
 author: "jake-daneshgar"
 category: "NFL"
 date: "2026-10-30"
-updatedDate: "2026-10-30"
-excerpt: "The Eagles wear Kelly Green and the Giants wear Vintage White when New York visits Lincoln Financial Field on Sunday, November 8, in Week 9: two throwbacks to the late 1980s and early 1990s in the same game. What each uniform is, how often each team wears it in 2026 and our grade."
+updatedDate: "2026-11-08"
+excerpt: "The Giants wore Vintage White and the Eagles wore Kelly Green at Lincoln Financial Field in Week 9, two throwbacks in the same game, and the Giants won 19-11. What each team wore, the team photos from the game, and why it gets an A."
 gradient: "linear-gradient(135deg, #0B2265 0%, #14224a 50%, #007A33 130%)"
-coverImage: "/images/posts/giants-vintage-white-vs-eagles-kelly-green-2026/cover.jpg"
+coverImage: "/images/posts/giants-vintage-white-vs-eagles-kelly-green-2026/cover-game.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 coverCredit:
   author: "New York Giants"
-  url: "https://www.giants.com/news/giants-announce-2026-uniform-schedule-legacy-games-vintage-white"
+  url: "https://x.com/Giants/status/2119507350063337739"
   license: "via the team"
 kicker: "Uniform News"
 logoSrc: "/logos/teams/nfl-new-york-giants.png"
 logoSrc2: "/logos/teams/nfl-philadelphia-eagles.png"
 league: "nfl"
 teams: ["new-york-giants", "philadelphia-eagles"]
+homepageHero: "2026-11-08"
+resurfaceOnUpdate: true
 ---
+
+**The Giants and Eagles both wore throwbacks on Sunday, and it looked even better on TV than it did in the announcement graphics.** The Eagles wore **Kelly Green** with silver pants and the Giants wore **Vintage White** with the navy GIANTS wordmark helmet at Lincoln Financial Field. Kelly green against white, with the Giants' blue and red stripes down the pants, is about as good as an NFL broadcast gets.
+
+<div data-game-final style="margin: 1.5em 0; padding: 14px 18px; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><strong>Final: Giants 19, Eagles 11.</strong></div>
+
+## How the Throwbacks Looked
+
+Both sets were worn exactly as announced. **Philadelphia:** kelly green helmet with silver wings, kelly green jersey with white numbers, silver pants with a green-white-green stripe, and kelly green gloves. **New York:** navy helmet with the GIANTS wordmark, white jersey with blue numbers outlined in red and blue-and-red sleeve stripes, and white pants with a blue stripe trimmed in red.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2119490243372122251"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Giants in Vintage White before kickoff, via <a href="https://x.com/Giants" target="_blank" rel="noopener">@Giants</a></p>
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Eagles/status/2119489946058883319"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Eagles in Kelly Green before kickoff, via <a href="https://x.com/Eagles" target="_blank" rel="noopener">@Eagles</a></p>
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2119507350063337739"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Vintage White and Kelly Green on the same field, via <a href="https://x.com/Giants" target="_blank" rel="noopener">@Giants</a></p>
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Eagles/status/2119502428978462784"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Eagles' silver pants and kelly green jerseys in the first quarter, via <a href="https://x.com/Eagles" target="_blank" rel="noopener">@Eagles</a></p>
 
 **Both teams are in throwbacks for this one.** When the New York Giants visit the Philadelphia Eagles at Lincoln Financial Field on **Sunday, November 8, at 1:00 p.m. Eastern on FOX**, the Eagles wear **Kelly Green** and the Giants wear **Vintage White**. The two clubs announced it together on Wednesday, September 2, with the Eagles posting "Historic rivalry 🤝 Historic uniforms." Both sets are based on what the two teams wore in the late 1980s and early 1990s, when this was one of the best rivalries in the league.
 
@@ -49,7 +76,7 @@ Kelly Green is the Eagles' throwback to the uniforms of the Randall Cunningham a
 - **Kelly green jersey** with **white numbers trimmed in black** and the old white-and-black eagle logo on each sleeve.
 - **Silver pants** with a green-white-green stripe down the sides.
 
-The Eagles have not posted a helmet-and-pants call for this specific game yet, so the helmet and pants are expected rather than confirmed for November 8. Every sign points to the full set: the team's announcement graphic shows the kelly green helmet and silver pants, and the Eagles have said they waited more than a decade to bring Kelly Green back because they did not want to pair it with the midnight green helmet. Until the NFL allowed a second helmet, there was no way to wear it properly.
+The helmet and pants are confirmed from the Eagles' own game photos: the kelly green helmet with silver wings and the silver pants.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Eagles/status/2095874540547043704"></a></blockquote>
@@ -90,7 +117,7 @@ Every other Week 9 game, including the Ravens in Purple Rising on Thursday night
 
 ## The Bottom Line
 
-The Eagles wear Kelly Green and the Giants wear Vintage White at Lincoln Financial Field on Sunday, November 8: a kelly green jersey against a white jersey with blue numbers outlined in red, with a kelly green helmet on one side and the navy GIANTS wordmark helmet on the other. Both teams announced it on September 2. It is the first of two Vintage White games for New York and the first of two Kelly Green games for Philadelphia this season. We will confirm the full look, including the Eagles' helmet and pants, from the broadcast.
+The Giants beat the Eagles 19-11 at Lincoln Financial Field with both teams in throwbacks: Vintage White on one side and Kelly Green on the other. It was the first of two Vintage White games for New York and the first of two Kelly Green games for Philadelphia, and it is the best-dressed game of the NFL season so far.
 
 ## Frequently Asked Questions
 
@@ -116,7 +143,7 @@ On Wednesday, September 2, 2026, the same morning the Giants announced Vintage W
 
 **What helmet do the Eagles wear with Kelly Green?**
 
-A kelly green helmet with silver wings trimmed in white and a gray facemask, worn with silver pants. That is the full set since Kelly Green returned in 2023. The Eagles have not yet posted the game-day helmet and pants for November 8, so that part is expected.
+A kelly green helmet with silver wings trimmed in white and a gray facemask, worn with silver pants. That is the full set since Kelly Green returned in 2023.
 
 **When did the Eagles bring back Kelly Green?**
 

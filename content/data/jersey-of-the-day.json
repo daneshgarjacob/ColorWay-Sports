@@ -415,6 +415,45 @@
      "label": "Every Week 10 college football uniform"
     }
    ]
+  },
+  "2026-11-08": {
+    "team": "Philadelphia Eagles",
+    "teamShort": "Eagles",
+    "league": "NFL",
+    "season": "2026",
+    "edition": "Kelly Green",
+    "jerseyName": "Kelly Green (Green and Silver)",
+    "image": "/images/jersey-of-the-day/eagles-kelly-green-2026-11-08.jpg",
+    "imageAlt": "Philadelphia Eagles quarterback throwing in the Kelly Green uniform: kelly green helmet with silver wings and a kelly green jersey with white numbers",
+    "imagePosition": "center 25%",
+    "credit": {
+      "text": "Philadelphia Eagles"
+    },
+    "tweet": {
+      "url": "https://x.com/Eagles/status/2119489946058883319",
+      "label": "Today's look, from the Eagles"
+    },
+    "worn": {
+      "date": "2026-11-08",
+      "matchup": "vs. Giants, 1:00 p.m. ET on FOX",
+      "status": "Confirmed",
+      "note": "Worn as announced, confirmed from the team's game photos. Final: Giants 19, Eagles 11."
+    },
+    "why": "Kelly green with silver wings is the best throwback in the NFL, and it looked even better against the Giants in their own white throwbacks.",
+    "whyPlaceholder": true,
+    "story": "The Eagles wore Kelly Green against the Giants at Lincoln Financial Field: a kelly green helmet with silver wings, a kelly green jersey with white numbers, silver pants with a green-white-green stripe and kelly green gloves. The Giants wore Vintage White, so both teams were in throwbacks. New York won 19-11.",
+    "scheduleSlug": "eagles-uniform-schedule-2026",
+    "scheduleLabel": "Eagles 2026 uniform schedule",
+    "related": [
+      {
+        "slug": "giants-vintage-white-vs-eagles-kelly-green-2026",
+        "label": "Giants Vintage White vs. Eagles Kelly Green"
+      },
+      {
+        "slug": "nfl-week-9-uniforms-2026",
+        "label": "Every NFL Week 9 uniform"
+      }
+    ]
   }
  }
 }
