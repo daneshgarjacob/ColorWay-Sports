@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-07"
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -85,7 +85,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2115594518598676950"></a></blockquote>
 
-**November 7 at Ohio State.** ★ Confirmed by Oregon ("Mummy Mode 2.0"): **dark chrome helmet, white jersey with black chrome numbers, black pants.** Monday's game-week graphic ("Off to Columbus to kick off November") showed a yellow helmet and green jersey, and we had that down as the look, but the team's uniform post on Wednesday night is the real one. 3:30 p.m. Eastern on CBS against No. 2 Ohio State, the first meeting since the 2024 Rose Bowl. The [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) has the Buckeyes' side.
+**November 7 at Ohio State.** ★ Confirmed by Oregon ("Mummy Mode 2.0"): **dark chrome helmet, white jersey with black chrome numbers, black pants.** Monday's game-week graphic ("Off to Columbus to kick off November") showed a yellow helmet and green jersey, and we had that down as the look, but the team's uniform post on Wednesday night is the real one. 3:30 p.m. Eastern on CBS against No. 2 Ohio State, the first meeting since the 2024 Rose Bowl. The [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) has the Buckeyes' side. Worn as posted, confirmed from the game broadcast. Ohio State wore its silver helmet, scarlet jersey and scarlet pants. **Final: Oregon 41, Ohio State 28.**
 
 **November 14 vs. Michigan.** Green expected. Michigan in Eugene: the most conservative wardrobe in the sport against the least.
 

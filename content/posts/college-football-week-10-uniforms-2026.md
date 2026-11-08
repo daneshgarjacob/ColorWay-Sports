@@ -93,7 +93,7 @@ The open question is Miami's 2001 throwbacks. Miami revealed both the orange hom
 
 ### Oregon at No. 2 Ohio State: First Meeting Since the Rose Bowl
 
-**Saturday, 3:30 p.m., CBS.** **Oregon: Confirmed, Mummy Mode 2.0.** Oregon posted its uniform on Wednesday night: a **dark chrome helmet with a chrome facemask, a white jersey with black chrome numbers and a charcoal and silver feather pattern on the shoulders, and black pants**. That replaces the yellow helmet and green jersey from Monday's game-week graphic, which we had listed as the look. White and chrome against scarlet in Columbus. **Ohio State: Expected, scarlet.** It is Ohio State's first meeting with Oregon since the 2024 Rose Bowl. Ohio State revealed three alternates in May, Scarlet Rush, Tunnel Vision and Sub Zero, and has not assigned any of them to a game. With Oregon in white, scarlet at home is the natural answer. More: [Ohio State schedule](/stories/ohio-state-uniform-schedule-2026) and [Oregon schedule](/stories/oregon-uniform-schedule-2026).
+**Saturday, 3:30 p.m., CBS.** **Oregon: Confirmed, Mummy Mode 2.0.** Oregon posted its uniform on Wednesday night: a **dark chrome helmet with a chrome facemask, a white jersey with black chrome numbers and a charcoal and silver feather pattern on the shoulders, and black pants**. That replaces the yellow helmet and green jersey from Monday's game-week graphic, which we had listed as the look. White and chrome against scarlet in Columbus. **Ohio State: Confirmed, scarlet, with scarlet pants instead of the usual gray.** **Final: Oregon 41, Ohio State 28**, Oregon's upset of the No. 2 team in the country in Mummy Mode. It is Ohio State's first meeting with Oregon since the 2024 Rose Bowl. Ohio State revealed three alternates in May, Scarlet Rush, Tunnel Vision and Sub Zero, and has not assigned any of them to a game. With Oregon in white, scarlet at home is the natural answer. More: [Ohio State schedule](/stories/ohio-state-uniform-schedule-2026) and [Oregon schedule](/stories/oregon-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2118146296087453717"></a></blockquote>
@@ -272,8 +272,9 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - South Carolina: **Expected**, garnet.
 
 **[Oregon](/stories/oregon-uniform-schedule-2026) at No. 2 [Ohio State](/stories/ohio-state-uniform-schedule-2026)**, 3:30 p.m., CBS.
+- **Final: Oregon 41, Ohio State 28.**
 - Oregon: **Confirmed**, Mummy Mode 2.0: dark chrome helmet, white jersey, black pants. See above.
-- Ohio State: **Expected**, scarlet.
+- Ohio State: **Confirmed**, scarlet: silver helmet, scarlet jersey and scarlet pants, not the usual gray.
 
 **No. 10 [Alabama](/stories/alabama-uniform-schedule-2026) at No. 15 [LSU](/stories/lsu-uniform-schedule-2026)**, 3:30 p.m., ABC.
 - Alabama: **Expected**, crimson, if LSU wears white.
