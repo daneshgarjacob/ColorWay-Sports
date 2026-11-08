@@ -83,7 +83,7 @@ This is the adidas Dark Mode set Tennessee revealed on July 9 when it launched i
 
 ### No. 1 Miami at No. 5 Notre Dame: Navy vs. White in South Bend
 
-**Saturday, 7:30 p.m., NBC.** Neither team has posted yet. **Notre Dame: Expected, navy**, with the gold helmet and gold pants Notre Dame wears with everything. **Miami: Expected, white.** It is the first time since 1976 that Miami has played in South Bend in November.
+**Saturday, 7:30 p.m., NBC.** **Miami: Confirmed, the white 2001 throwbacks with green pants**, the first time Miami has worn the road half of the set, confirmed from the team's game photos. **Notre Dame: Confirmed, navy**, with the gold helmet and gold pants. We graded it an A: [Miami's 2001 throwbacks vs. Notre Dame's navy and gold](/stories/miami-notre-dame-2001-throwback-uniforms-2026). It is the first time since 1976 that Miami has played in South Bend in November.
 
 The open question is Miami's 2001 throwbacks. Miami revealed both the orange home and the white road version of its 2001 national championship uniforms on September 22, and wore the orange version against Pittsburgh on October 24. The white road version, which goes with green pants, has no date yet. Miami posted its standard all white for this week's game at North Carolina, and its last three regular-season games are at home, so this is the last regular-season road game left for it. Nothing has been announced. More: [Miami's 2001 throwbacks, graded](/stories/miami-2001-throwback-uniforms), [Miami schedule](/stories/miami-hurricanes-uniform-schedule-2026) and [Notre Dame schedule](/stories/notre-dame-uniform-schedule-2026).
 
@@ -324,8 +324,8 @@ Also in the afternoon: UL Monroe at Arkansas State (3 p.m., ESPN+), Delaware at 
 - Tennessee: **Confirmed**, Dark Mode: black helmet, black jersey, black pants. See above.
 
 **No. 1 [Miami](/stories/miami-hurricanes-uniform-schedule-2026) at No. 5 [Notre Dame](/stories/notre-dame-uniform-schedule-2026)**, 7:30 p.m., NBC.
-- Miami: **Expected**, white.
-- Notre Dame: **Expected**, navy.
+- Miami: **Confirmed**, the white 2001 throwbacks: striped white helmet, white jersey with the green yoke, green pants. [Graded A](/stories/miami-notre-dame-2001-throwback-uniforms-2026).
+- Notre Dame: **Confirmed**, navy with the gold helmet and gold pants.
 
 **No. 3 [Georgia](/stories/georgia-uniform-schedule-2026) at No. 12 [Ole Miss](/stories/ole-miss-uniform-schedule-2026)**, 7:30 p.m., ABC.
 - Georgia: **Expected**, white.
