@@ -261,7 +261,7 @@ Vintage White: the navy GIANTS wordmark helmet, a white jersey with blue numbers
 
 **What are the Ravens wearing on Thursday Night Football?**
 
-Purple Rising: the metallic purple Purple Rising helmet with a gold facemask, the purple jersey and purple pants. Baltimore named the game on September 1. We expect Jacksonville in white.
+Purple Rising: the metallic purple Purple Rising helmet with a gold facemask, the purple jersey and purple pants. Baltimore named the game on September 1. Jacksonville wore the black helmet, white jersey and white pants.
 
 **When do the Ravens wear Darkness Falls?**
 

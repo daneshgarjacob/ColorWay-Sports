@@ -2,7 +2,7 @@
 title: "NFL Salute to Service 2026: Dates, Games and Gear Release Date"
 category: "NFL"
 date: "2026-09-14"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 excerpt: "When is NFL Salute to Service 2026? Team games run Oct. 25 to Nov. 30, biggest wave Week 9 (Nov. 5-9). Every game, what each team wears, and the gear release."
 gradient: "linear-gradient(135deg, #3d4a2c 0%, #1f2716 52%, #2f6bed 100%)"
 coverImage: "/images/posts/nfl-salute-to-service-2026-schedule/cover.jpg"
@@ -13,7 +13,7 @@ league: "nfl"
 teams: []
 ---
 
-**Update, November 5:** Week 9 is Salute to Service week. **Nine team games are this week, November 5 to 9**, starting with the Ravens in all-purple Purple Rising against the Jaguars tonight on Thursday Night Football and ending with the Vikings against the Bills on Monday night. Kickoff times and every team's uniform are in the first section below. The first two games are done: the Titans lost 27-24 to the Browns on October 25, and the Steelers beat the Browns 27-6 on November 1.
+**Update, November 5:** Week 9 is Salute to Service week. **Nine team games are this week, November 5 to 9**, starting with the Ravens in all-purple Purple Rising against the Jaguars on Thursday Night Football and ending with the Vikings against the Bills on Monday night. Kickoff times and every team's uniform are in the first section below. The first two games are done: the Titans lost 27-24 to the Browns on October 25, and the Steelers beat the Browns 27-6 on November 1.
 
 **NFL Salute to Service 2026 dates:** team games run from **October 25 to November 30**, and the biggest wave is Week 9, **November 5 to 9**, just before Veterans Day. **Release date:** the 2026 Salute to Service gear is already out. New Era's online store data shows its 2026 Salute to Service caps went live on **September 21, 2026**, and the 2026 Nike sideline hoodies were on sale at [NFL Shop](https://www.nflshop.com/salute-to-service/c-39087453+z-9625009-3234416133) for $119.99 when we checked on October 13. The NFL has not announced its official 2026 Salute to Service weeks yet.
 
@@ -26,14 +26,14 @@ Here is the surprise: the dates do not sit neatly in one week. They run from **O
 
 Nine teams play their 2026 Salute to Service game at home this week, the most of any week this season. All times are Eastern. **Confirmed** means the team announced the jersey or posted its game-week uniform graphic. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from the team's uniform schedule.
 
-- **Thursday, November 5, 8:15 p.m., Prime Video: Jaguars at Ravens.** Baltimore wears **Purple Rising**, the metallic purple helmet with gold stripes, purple jersey and purple pants (confirmed). Jacksonville wears the black helmet, white jersey and white pants (confirmed). [Purple Rising preview](/stories/ravens-purple-rising-uniforms-thursday-night-football-2026)
-- **Sunday, November 8, 1:00 p.m., CBS: Jets at Chiefs.** Kansas City in **red** at home (expected). The Jets wear "White on Green," the green helmet, white jersey and green pants (confirmed).
-- **Sunday, November 8, 1:00 p.m., FOX: Lions at Dolphins.** Miami in **white** at home (expected), which puts Detroit in **Honolulu blue** (expected).
-- **Sunday, November 8, 1:00 p.m., FOX: Rams at Commanders.** Washington in **burgundy** (scheduled), on the day it retires John Riggins' jersey. The Rams wear the royal helmet with yellow horns, white jersey and royal pants (confirmed).
-- **Sunday, November 8, 4:25 p.m., FOX: Packers at Patriots.** New England in **navy** under the silver helmet (expected), with Rob Gronkowski's Patriots Hall of Fame celebration. Green Bay in white under the gold helmet (expected).
-- **Sunday, November 8, 4:25 p.m., FOX: Raiders at 49ers.** San Francisco in **scarlet** under the gold helmet (expected). Las Vegas in white under the silver helmet (expected).
-- **Sunday, November 8, 4:25 p.m., FOX: Cardinals at Seahawks.** Seattle in **college navy** at home (expected). Arizona wears all white: white helmet, white jersey, white pants (confirmed).
-- **Sunday, November 8, 8:20 p.m., NBC: Buccaneers at Bears.** Chicago in **navy** under the navy helmet (expected) on Sunday Night Football. Tampa Bay wears the pewter helmet, white jersey and pewter pants (confirmed).
+- **Thursday, November 5, Prime Video: Jaguars at Ravens.** Baltimore wore **Purple Rising**, the metallic purple helmet with gold stripes, purple jersey and purple pants. Jacksonville wore the black helmet, white jersey and white pants. Final: Jaguars 33, Ravens 10. [Purple Rising preview](/stories/ravens-purple-rising-uniforms-thursday-night-football-2026)
+- **Sunday, November 8, 1:00 p.m., CBS: Jets at Chiefs.** Final: Chiefs 35, Jets 12. Kansas City wore the **red helmet, red jersey and white pants**. The Jets wore "White on Green," the green helmet, white jersey and green pants.
+- **Sunday, November 8, 1:00 p.m., FOX: Lions at Dolphins.** Final: Lions 19, Dolphins 9. Miami wore the **white helmet, white jersey and aqua pants**. Detroit wore the silver helmet with the **Honolulu blue jersey and Honolulu blue pants**.
+- **Sunday, November 8, FOX: Rams at Commanders.** Washington wore the burgundy helmet, **burgundy** jersey and gold pants on the day it retired John Riggins' jersey. The Rams wore the royal helmet with yellow horns, white jersey and royal pants. Final: Rams 20, Commanders 13.
+- **Sunday, November 8, 4:25 p.m., FOX: Packers at Patriots.** Final: Packers 45, Patriots 27. New England wore the **silver helmet, navy jersey and navy pants**, with Rob Gronkowski's Patriots Hall of Fame celebration. Green Bay wore the gold helmet, white jersey and gold pants.
+- **Sunday, November 8, 4:25 p.m., FOX: Raiders at 49ers.** Final: 49ers 38, Raiders 17. San Francisco wore the **gold helmet, scarlet jersey and gold pants**. Las Vegas wore the silver helmet, white jersey and silver pants.
+- **Sunday, November 8, 4:25 p.m., FOX: Cardinals at Seahawks.** Final: Seahawks 17, Cardinals 3. Seattle wore the **navy helmet, college navy jersey and navy pants**. Arizona wore all white: white helmet, white jersey, white pants.
+- **Sunday, November 8, 8:20 p.m., NBC: Buccaneers at Bears.** Final: Bears 27, Buccaneers 24. Chicago wore the **navy helmet, navy jersey and white pants** on Sunday Night Football. Tampa Bay wore the pewter helmet, white jersey and pewter pants.
 - **Monday, November 9, 8:15 p.m., ESPN: Bills at Vikings.** Minnesota in the **purple jersey over white pants** (scheduled), the night Adrian Peterson goes into the Ring of Honor. Buffalo wears all white: white helmet, white jersey, white pants with blue socks (confirmed).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
@@ -88,14 +88,14 @@ Each date below comes from the team's own 2026 home game themes announcement or 
 <tbody>
 <tr style="background:#ffffff;"><td style="padding:9px 12px;">7</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Oct 25</td><td style="padding:9px 12px;font-weight:700;">Titans</td><td style="padding:9px 12px;">Browns</td><td style="padding:9px 12px;">Played: Titans blue, white helmet, white pants. Browns won 27-24</td></tr>
 <tr style="background:#f6f7f9;"><td style="padding:9px 12px;">8</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 1</td><td style="padding:9px 12px;font-weight:700;">Steelers</td><td style="padding:9px 12px;">Browns</td><td style="padding:9px 12px;">Played: black helmet, black jersey, gold pants. Steelers won 27-6</td></tr>
-<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Thu, Nov 5</td><td style="padding:9px 12px;font-weight:700;">Ravens</td><td style="padding:9px 12px;">Jaguars</td><td style="padding:9px 12px;">Purple Rising (confirmed). Tonight, 8:15 p.m. ET, Prime Video</td></tr>
-<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Chiefs</td><td style="padding:9px 12px;">Jets</td><td style="padding:9px 12px;">Red (expected). Sun 1:00 p.m. ET</td></tr>
-<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Dolphins</td><td style="padding:9px 12px;">Lions</td><td style="padding:9px 12px;">White (expected). Sun 1:00 p.m. ET</td></tr>
-<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">49ers</td><td style="padding:9px 12px;">Raiders</td><td style="padding:9px 12px;">Scarlet (expected). Sun 4:25 p.m. ET</td></tr>
-<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Seahawks</td><td style="padding:9px 12px;">Cardinals</td><td style="padding:9px 12px;">College navy (expected). Sun 4:25 p.m. ET</td></tr>
-<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Bears</td><td style="padding:9px 12px;">Buccaneers</td><td style="padding:9px 12px;">Navy (expected). Sun 8:20 p.m. ET, SNF</td></tr>
-<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Commanders</td><td style="padding:9px 12px;">Rams</td><td style="padding:9px 12px;">Burgundy (scheduled). Sun 1:00 p.m. ET</td></tr>
-<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Patriots</td><td style="padding:9px 12px;">Packers</td><td style="padding:9px 12px;">Navy (expected). Sun 4:25 p.m. ET</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Thu, Nov 5</td><td style="padding:9px 12px;font-weight:700;">Ravens</td><td style="padding:9px 12px;">Jaguars</td><td style="padding:9px 12px;">Purple Rising (worn). Final: Jaguars 33, Ravens 10</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Chiefs</td><td style="padding:9px 12px;">Jets</td><td style="padding:9px 12px;">Played: red helmet, red jersey, white pants. Chiefs won 35-12</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Dolphins</td><td style="padding:9px 12px;">Lions</td><td style="padding:9px 12px;">Played: white helmet, white jersey, aqua pants. Lions won 19-9</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">49ers</td><td style="padding:9px 12px;">Raiders</td><td style="padding:9px 12px;">Played: gold helmet, scarlet jersey, gold pants. 49ers won 38-17</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Seahawks</td><td style="padding:9px 12px;">Cardinals</td><td style="padding:9px 12px;">Played: navy helmet, college navy jersey, navy pants. Seahawks won 17-3</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Bears</td><td style="padding:9px 12px;">Buccaneers</td><td style="padding:9px 12px;">Played: navy helmet, navy jersey, white pants. Bears won 27-24</td></tr>
+<tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Commanders</td><td style="padding:9px 12px;">Rams</td><td style="padding:9px 12px;">Burgundy with gold pants (worn). Final: Rams 20, Commanders 13</td></tr>
+<tr style="background:#f6f7f9;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 8</td><td style="padding:9px 12px;font-weight:700;">Patriots</td><td style="padding:9px 12px;">Packers</td><td style="padding:9px 12px;">Played: silver helmet, navy jersey, navy pants. Packers won 45-27</td></tr>
 <tr style="background:#ffffff;"><td style="padding:9px 12px;">9</td><td style="padding:9px 12px;white-space:nowrap;">Mon, Nov 9</td><td style="padding:9px 12px;font-weight:700;">Vikings</td><td style="padding:9px 12px;">Bills</td><td style="padding:9px 12px;">Purple over white pants (scheduled). Mon 8:15 p.m. ET, MNF</td></tr>
 <tr style="background:#f6f7f9;"><td style="padding:9px 12px;">10</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 15</td><td style="padding:9px 12px;font-weight:700;">Jets</td><td style="padding:9px 12px;">Bills</td><td style="padding:9px 12px;">Green (expected)</td></tr>
 <tr style="background:#ffffff;"><td style="padding:9px 12px;">10</td><td style="padding:9px 12px;white-space:nowrap;">Sun, Nov 15</td><td style="padding:9px 12px;font-weight:700;">Raiders</td><td style="padding:9px 12px;">Seahawks</td><td style="padding:9px 12px;">Black (expected)</td></tr>
@@ -126,14 +126,14 @@ The week-by-week detail, with links to each team's full uniform schedule:
 
 Kickoff times and both teams' uniforms for all nine games are in the Salute to Service This Week section at the top of this page.
 
-- **Baltimore Ravens** vs. Jacksonville Jaguars, Thursday, November 5, Thursday Night Football. Tonight, 8:15 p.m. ET on Prime Video. Confirmed uniform: **Purple Rising**, the all-purple set with the new Purple Rising helmet. The Ravens billed the night as "Purple Rising + Salute to Service." [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026)
-- **Kansas City Chiefs** vs. New York Jets, Sunday, November 8. Expected uniform: red. [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026)
-- **Miami Dolphins** vs. Detroit Lions, Sunday, November 8. Expected uniform: **white at home**. [Dolphins 2026 uniform schedule](/stories/dolphins-uniform-schedule-2026)
-- **San Francisco 49ers** vs. Las Vegas Raiders, Sunday, November 8. Expected uniform: scarlet. [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026)
-- **Seattle Seahawks** vs. Arizona Cardinals, Sunday, November 8. Expected uniform: college navy. [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026)
-- **Chicago Bears** vs. Tampa Bay Buccaneers, Sunday, November 8, Sunday Night Football. Expected uniform: navy. [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026)
-- **Washington Commanders** vs. Los Angeles Rams, Sunday, November 8. Washington pairs Salute to Service with **John Riggins' jersey retirement**. Scheduled uniform: burgundy. [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026)
-- **New England Patriots** vs. Green Bay Packers, Sunday, November 8. The same afternoon brings Rob Gronkowski's Patriots Hall of Fame celebration and a Super Bowl LI reunion. Expected uniform: navy. [Patriots 2026 uniform schedule](/stories/patriots-uniform-schedule-2026)
+- **Baltimore Ravens** vs. Jacksonville Jaguars, Thursday, November 5, Thursday Night Football. Worn: **Purple Rising**, the all-purple set with the new Purple Rising helmet. The Ravens billed the night as "Purple Rising + Salute to Service." [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026)
+- **Kansas City Chiefs** vs. New York Jets, Sunday, November 8. **Played.** The Chiefs wore the red helmet, red jersey and white pants and beat the Jets, in the green helmet, white jersey and green pants, 35-12. [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026)
+- **Miami Dolphins** vs. Detroit Lions, Sunday, November 8. **Played.** The Dolphins wore the white helmet, white jersey and aqua pants, and the Lions, in the silver helmet, Honolulu blue jersey and Honolulu blue pants, won 19-9. [Dolphins 2026 uniform schedule](/stories/dolphins-uniform-schedule-2026)
+- **San Francisco 49ers** vs. Las Vegas Raiders, Sunday, November 8. **Played.** The 49ers wore the gold helmet, scarlet jersey and gold pants and beat the Raiders, in the silver helmet, white jersey and silver pants, 38-17. [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026)
+- **Seattle Seahawks** vs. Arizona Cardinals, Sunday, November 8. **Played.** The Seahawks wore the navy helmet, college navy jersey and navy pants and beat the Cardinals, in all white, 17-3. [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026)
+- **Chicago Bears** vs. Tampa Bay Buccaneers, Sunday, November 8, Sunday Night Football. **Played.** The Bears wore the navy helmet, navy jersey and white pants and beat the Buccaneers, in the pewter helmet, white jersey and pewter pants, 27-24. [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026)
+- **Washington Commanders** vs. Los Angeles Rams, Sunday, November 8. Washington pairs Salute to Service with **John Riggins' jersey retirement**. Worn: burgundy jersey, gold pants. [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026)
+- **New England Patriots** vs. Green Bay Packers, Sunday, November 8. The same afternoon brought Rob Gronkowski's Patriots Hall of Fame celebration and a Super Bowl LI reunion. **Played.** The Patriots wore the silver helmet, navy jersey and navy pants, and the Packers, in the gold helmet, white jersey and gold pants, won 45-27. [Patriots 2026 uniform schedule](/stories/patriots-uniform-schedule-2026)
 - **Minnesota Vikings** vs. Buffalo Bills, Monday, November 9, Monday Night Football, with **Adrian Peterson's Ring of Honor induction**. Scheduled uniform: **purple jersey over white pants**, from Minnesota's published season schedule. Buffalo confirmed all white. [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026)
 
 ### Week 10
@@ -253,7 +253,7 @@ All 32 teams take part, but almost all of them wear their regular jerseys with S
 
 **Is there a Salute to Service game this week?**
 
-Yes, nine of them. Week 9 starts tonight, Thursday, November 5, with the Jaguars at the Ravens at 8:15 p.m. ET on Prime Video, has seven games on Sunday, November 8, and ends with the Bills at the Vikings on Monday, November 9 at 8:15 p.m. ET on ESPN.
+Yes, nine of them. Week 9 started Thursday, November 5, with the Jaguars at the Ravens on Prime Video, had seven games on Sunday, November 8, and ends with the Bills at the Vikings on Monday, November 9 at 8:15 p.m. ET on ESPN.
 
 **When is the Steelers' Salute to Service game in 2026?**
 
