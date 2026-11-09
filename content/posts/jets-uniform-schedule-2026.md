@@ -3,7 +3,7 @@ topViewsRank: 10
 title: "New York Jets Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -119,11 +119,11 @@ How does every one of these jerseys stack up? See our [Jets jerseys 2026 ranking
 
 **What jersey are the Jets wearing today?**
 
-**Week 9 (Sunday, November 8, 1:00 p.m. ET at Kansas City, CBS):** the Jets wear "White on Green," the green helmet, white jersey and green pants, confirmed by the team's game-week uniform graphic. We expect the Chiefs in red. This answer updates every week. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
+Week 9 at Kansas City, November 8, worn: White on Green, the green helmet, white jersey and green pants. The Chiefs wore red over white pants, and Kansas City won 35-12. We grade the matchup a B. This answer updates every week. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
 
 **What jerseys are the Jets wearing this week?**
 
-**Week 9 (Sunday, November 8, 1:00 p.m. ET at Kansas City, CBS):** the Jets wear "White on Green," the green helmet, white jersey and green pants, confirmed by the team's game-week uniform graphic. We expect the Chiefs in red. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
+Week 9 at Kansas City, November 8, worn: White on Green, the green helmet, white jersey and green pants. The Chiefs wore red over white pants, and Kansas City won 35-12. We grade the matchup a B. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2115443769134678515"></a></blockquote>
 

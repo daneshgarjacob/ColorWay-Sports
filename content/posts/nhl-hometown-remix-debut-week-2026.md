@@ -2,7 +2,7 @@
 title: "Hometown Remix Debut Week: How All 10 NHL Teams Did in Their New Jerseys"
 category: "NHL"
 date: "2026-11-03"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 excerpt: "The best Hometown Remix jersey in the NHL debuts tonight against the team with the worst one. Penguins, Canadiens, Flyers and Blue Jackets on Tuesday, Sabres, Kings and Kraken on Wednesday, Oilers, Islanders and Utah on Thursday."
 gradient: "linear-gradient(135deg, #1E4FA0 0%, #0A1733 60%, #9ACD32 130%)"
 author: "jake-daneshgar"
@@ -11,7 +11,7 @@ coverImagePosition: "center 40%"
 kicker: Debut Week
 homepageHero: "2026-11-04"
 league: "nhl"
-teams: ["pittsburgh-penguins", "montreal-canadiens", "philadelphia-flyers", "columbus-blue-jackets", "buffalo-sabres", "los-angeles-kings", "seattle-kraken", "edmonton-oilers", "new-york-islanders", "utah-mammoth"]
+teams: ["pittsburgh-penguins", "montreal-canadiens", "philadelphia-flyers", "columbus-blue-jackets", "buffalo-sabres", "los-angeles-kings", "seattle-kraken", "edmonton-oilers", "new-york-islanders", "utah-mammoth", "washington-capitals", "nashville-predators", "carolina-hurricanes", "colorado-avalanche", "toronto-maple-leafs", "anaheim-ducks"]
 ---
 
 The NHL's Hometown Remix jerseys stop being photos this week. Ten teams wear theirs for the first time between Tuesday and Thursday, and the week starts with the best possible matchup: **the Penguins debut the best Remix jersey in the league tonight against the Golden Knights, whose Remix we ranked dead last.** Vegas is on the road, so it will be in white, but the timing is perfect.
@@ -139,6 +139,52 @@ The only road debut of the week. Bright mountain blue with black and white strip
 **Result:** Canadiens 5, Mammoth 4 in overtime. Utah's blue against Montreal's red was the best color-on-color matchup of the week.
 
 Also Thursday: the Blue Jackets wore their Remix for the second time, at home against Dallas. **Result:** Blue Jackets 2, Stars 1 in a shootout, so Columbus is 2-0 in it.
+
+## The Weekend Debuts
+
+Six more teams wore theirs for the first time on November 7 and 8, and they did much better than the first 10. The weekend's debut teams went 5-1.
+
+### Capitals vs. Panthers: No. 2
+
+<img src="/images/posts/nhl-daily-tracker/capitals-remix.jpg" alt="Washington Capitals Hometown Remix jersey, blue with white shoulders, gold and white arm stripes and a Capitol dome and crossed sticks crest" style="display:block;width:100%;max-width:340px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: NHL</p>
+
+**Result, Saturday:** Capitals 4, Panthers 3. Blue with white shoulders, gold and white arm stripes, the Capitol dome and crossed sticks on the chest, and gold stars on the pants. Florida wore white.
+
+### Predators vs. Blues: No. 10
+
+<img src="/images/posts/nhl-daily-tracker/predators-remix.jpg" alt="Nashville Predators Hometown Remix jersey, navy with a gold crest and gold hem stripes" style="display:block;width:100%;max-width:340px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: NHL</p>
+
+**Result, Saturday:** Predators 3, Blues 1. Navy with a gold crest, gold piping across the shoulders and gold stripes at the hem and socks. St. Louis wore white.
+
+### Hurricanes vs. Blackhawks: No. 13
+
+<img src="/images/posts/nhl-daily-tracker/hurricanes-remix.jpg" alt="Carolina Hurricanes Hometown Remix jersey, charcoal gray with a pig mascot crest and red sleeve and hem bands" style="display:block;width:100%;max-width:340px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: NHL</p>
+
+**Result, Saturday:** Hurricanes 9, Blackhawks 2, the biggest win of any debut so far. Charcoal gray with the pig mascot crest and red bands on the sleeves and hem. Chicago wore white.
+
+### Avalanche vs. Red Wings: No. 14
+
+<img src="/images/posts/nhl-daily-tracker/avalanche-remix.jpg" alt="Colorado Avalanche Hometown Remix jersey, white with a round blue C crest and blue and gray arm bands" style="display:block;width:100%;max-width:340px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: NHL</p>
+
+**Result, Saturday:** Avalanche 4, Red Wings 0. White with a round blue C crest, blue and gray arm bands and blue pants. Because the Remix is white, Detroit wore its red home sweater on the road.
+
+### Maple Leafs vs. Devils: No. 7
+
+<img src="/images/posts/nhl-daily-tracker/maple-leafs-remix.jpg" alt="Toronto Maple Leafs Hometown Remix jersey, cream with navy arm bands" style="display:block;width:100%;max-width:340px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: NHL</p>
+
+**Result, Sunday:** Devils 4, Maple Leafs 0, the only loss of the weekend. Cream with navy arm bands, navy pants and cream socks with navy stripes. New Jersey wore its red home sweater on the road.
+
+### Ducks vs. Penguins: No. 16
+
+<img src="/images/posts/nhl-daily-tracker/ducks-remix.jpg" alt="Anaheim Ducks Hometown Remix jersey, green with a duck mask crest and purple sleeves" style="display:block;width:100%;max-width:340px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: NHL</p>
+
+**Result, Sunday:** Ducks 5, Penguins 2. Green with the duck mask crest, purple sleeves and pants, gold and purple stripes and green socks. Pittsburgh wore white.
 
 ## The Rest of the League
 

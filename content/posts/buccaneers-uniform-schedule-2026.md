@@ -3,7 +3,7 @@ topViewsRank: 4
 title: "Tampa Bay Buccaneers Jerseys & Uniforms 2026: Full Schedule"
 category: "NFL"
 date: "2026-08-13"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 excerpt: "Tampa Bay has confirmed two special uniform dates: the creamsicle throwbacks on December 6 and the all-pewter jersey on December 20. Every confirmed game so far."
 gradient: "linear-gradient(135deg, #34302B 0%, #1a1815 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -118,7 +118,7 @@ How does every one of these jerseys stack up? See our [Buccaneers jerseys 2026 r
 
 **What jersey are the Buccaneers wearing today?**
 
-**Week 9 (Sunday, November 8, 8:20 p.m. ET at Chicago, Sunday Night Football on NBC):** the Buccaneers wear the pewter helmet, white jersey and pewter pants, confirmed by the team's game-week uniform graphic. We expect the Bears in navy. This answer updates every week. For the rest of the season: Tampa Bay has not published week-by-week uniform assignments for 2026, so there is no confirmed jersey for most dates. The two games that are locked in are December 6 in the creamsicle throwbacks and December 20 in the all-pewter set. We update this page the moment the team announces more.
+Week 9 at Chicago, November 8, worn: pewter helmet, white jersey and pewter pants. The Bears wore navy over white pants and won 27-24. We grade the matchup a B. This answer updates every week. For the rest of the season: Tampa Bay has not published week-by-week uniform assignments for 2026, so there is no confirmed jersey for most dates. The two games that are locked in are December 6 in the creamsicle throwbacks and December 20 in the all-pewter set. We update this page the moment the team announces more.
 
 **What is the Buccaneers' uniform schedule for 2026?**
 
@@ -150,7 +150,7 @@ Unknown. Only the December 20 game has been confirmed.
 
 **What are the Buccaneers wearing this week?**
 
-**Week 9 (Sunday, November 8, 8:20 p.m. ET at Chicago, Sunday Night Football on NBC):** the Buccaneers wear the pewter helmet, white jersey and pewter pants, confirmed by the team's game-week uniform graphic. We expect the Bears in navy. For the rest of the season: Tampa Bay has not published week-by-week uniform assignments for 2026, so there is no confirmed jersey for most dates. The two games that are locked in are December 6 in the creamsicle throwbacks and December 20 in the all-pewter set. We update this page the moment the team announces more.
+Week 9 at Chicago, November 8, worn: pewter helmet, white jersey and pewter pants. The Bears wore navy over white pants and won 27-24. We grade the matchup a B. For the rest of the season: Tampa Bay has not published week-by-week uniform assignments for 2026, so there is no confirmed jersey for most dates. The two games that are locked in are December 6 in the creamsicle throwbacks and December 20 in the all-pewter set. We update this page the moment the team announces more.
 
 **What color pants do the Buccaneers wear with the pewter jersey?**
 

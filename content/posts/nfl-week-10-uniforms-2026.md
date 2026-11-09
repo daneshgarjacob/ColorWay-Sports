@@ -2,8 +2,8 @@
 title: "NFL Week 10 Uniforms 2026: What Every Team Is Wearing, Including Giants Vintage White, Ravens Darkness Falls and the White Bengal"
 author: "colorway-sports-staff"
 category: NFL
-date: "2026-11-08"
-updatedDate: "2026-11-08"
+date: "2026-11-09"
+updatedDate: "2026-11-09"
 excerpt: "NFL Week 10 uniforms (Nov. 12-16): the Giants wear Vintage White on Thursday night, the Ravens debut all-black Darkness Falls on Monday night, the Bengals wear the White Bengal, the 49ers bring the red 1994 throwback to Dallas, the Titans debut Music City, plus Munich and every other game."
 gradient: "linear-gradient(135deg, #0B2265 0%, #0C1526 55%, #241773 130%)"
 coverImage: "/images/posts/nfl-week-10-uniforms-2026/cover.jpg"
@@ -11,6 +11,7 @@ coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 kicker: "Next Week"
+homepageHero: "2026-11-09"
 league: nfl
 teams: []
 resurfaceOnUpdate: true

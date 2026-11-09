@@ -2,7 +2,7 @@
 title: "Saints Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 excerpt: "Saints uniform schedule 2026: the gold jersey once under the black helmet, white at home twice, the white helmet three times. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"
@@ -133,11 +133,11 @@ How does every one of these jerseys stack up? See our [Saints jerseys 2026 ranki
 
 **What jersey are the Saints wearing today?**
 
-**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. Cleveland, CBS):** the Saints wear the black helmet, gold jersey, gold pants and black socks, confirmed by the team's game-week uniform graphic. It is their only gold-jersey game of the season. We expect the Browns in white. This answer updates every week. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
+Week 9 against Cleveland, November 8, worn: black helmet, gold jersey and gold pants, the Saints' only gold-jersey game of the season. The Browns wore white over brown pants, and New Orleans won 23-22. We grade the matchup a B+. This answer updates every week. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
 
 **What jerseys are the Saints wearing this week?**
 
-**Week 9 (Sunday, November 8, 1:00 p.m. ET vs. Cleveland, CBS):** the Saints wear the black helmet, gold jersey, gold pants and black socks, confirmed by the team's game-week uniform graphic. It is their only gold-jersey game of the season. We expect the Browns in white. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
+Week 9 against Cleveland, November 8, worn: black helmet, gold jersey and gold pants, the Saints' only gold-jersey game of the season. The Browns wore white over brown pants, and New Orleans won 23-22. We grade the matchup a B+. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
 
 **What uniform did the Saints wear last week?**
 

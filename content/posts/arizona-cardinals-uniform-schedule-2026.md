@@ -2,7 +2,7 @@
 title: "Arizona Cardinals Uniform Schedule 2026: Every Jersey by Week"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 excerpt: "Arizona Cardinals uniform schedule 2026: the desert Rivalries jersey once, black twice, red seven times including two road games, white seven times. Week by week."
 gradient: "linear-gradient(135deg, #97233F 0%, #5e1628 55%, #141414 130%)"
 coverImage: "/images/posts/arizona-cardinals-uniform-schedule-2026/cover.jpg"
@@ -136,11 +136,11 @@ How does every one of these jerseys stack up? See our [Cardinals jerseys 2026 ra
 
 **What jersey are the Cardinals wearing today?**
 
-**Week 9 (Sunday, November 8, 4:25 p.m. ET at Seattle, FOX):** the Cardinals wear all white, the white helmet, white jersey and white pants, confirmed by the team's game-week uniform graphic. We expect the Seahawks in college navy. This answer updates every week. For the rest of the season: Every game is assigned in the grid above. The short version: red in Weeks 7, 8, 10, 13, 16, 17 and 18, white in Weeks 1, 3, 4, 6, 9, 11 and 15, black in Weeks 5 and 12, and the desert Rivalries jersey in Week 2 against Seattle.
+Week 9 at Seattle, November 8, worn: all white, the white helmet, white jersey and white pants. The Seahawks wore navy from helmet to pants and won 17-3. We grade the matchup a B. This answer updates every week. For the rest of the season: Every game is assigned in the grid above. The short version: red in Weeks 7, 8, 10, 13, 16, 17 and 18, white in Weeks 1, 3, 4, 6, 9, 11 and 15, black in Weeks 5 and 12, and the desert Rivalries jersey in Week 2 against Seattle.
 
 **What jerseys are the Cardinals wearing this week?**
 
-**Week 9 (Sunday, November 8, 4:25 p.m. ET at Seattle, FOX):** the Cardinals wear all white, the white helmet, white jersey and white pants, confirmed by the team's game-week uniform graphic. We expect the Seahawks in college navy. For the rest of the season: Every game is assigned in the grid above. The short version: red in Weeks 7, 8, 10, 13, 16, 17 and 18, white in Weeks 1, 3, 4, 6, 9, 11 and 15, black in Weeks 5 and 12, and the desert Rivalries jersey in Week 2 against Seattle.
+Week 9 at Seattle, November 8, worn: all white, the white helmet, white jersey and white pants. The Seahawks wore navy from helmet to pants and won 17-3. We grade the matchup a B. For the rest of the season: Every game is assigned in the grid above. The short version: red in Weeks 7, 8, 10, 13, 16, 17 and 18, white in Weeks 1, 3, 4, 6, 9, 11 and 15, black in Weeks 5 and 12, and the desert Rivalries jersey in Week 2 against Seattle.
 
 **What uniform did the Cardinals wear last week?**
 

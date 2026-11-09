@@ -3,7 +3,7 @@ topViewsRank: 8
 title: "Texans Uniform & Jersey Schedule 2026: Battle Red Dates"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 excerpt: "Texans uniform schedule 2026, week by week: Battle Red in Week 7 vs. the Giants, and the white-helmet Rivalries uniform debuts Week 11 on Thursday night."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -157,11 +157,11 @@ How does every one of these jerseys stack up? See our [Texans jerseys 2026 ranki
 
 **What jersey are the Texans wearing today?**
 
-**Week 9 (Sunday, November 8, 4:05 p.m. ET at the Chargers, CBS):** the Texans wear the dark navy helmet, white jersey and white pants, confirmed by the team's game-week uniform graphic. The Chargers wear their all-navy Super Chargers set. This answer updates every week. For the rest of the season: Deep Steel Blue at home and white on the road, with three confirmed exceptions. Liberty White opens the season in Week 1 against Buffalo, Battle Red comes out in Week 7 against the Giants, and the new Rivalries uniform debuts in Week 11 against Indianapolis. Week 18 against Tennessee is the Blue Alternate. The Week 6 London game against Jacksonville is a white road-style set even though Houston is technically the visitor.
+Week 9 at the Chargers, November 8, worn: navy helmet, white jersey and white pants. The Chargers wore all-navy Super Chargers, and Houston won 44-22. We grade the matchup a B. This answer updates every week. For the rest of the season: Deep Steel Blue at home and white on the road, with three confirmed exceptions. Liberty White opens the season in Week 1 against Buffalo, Battle Red comes out in Week 7 against the Giants, and the new Rivalries uniform debuts in Week 11 against Indianapolis. Week 18 against Tennessee is the Blue Alternate. The Week 6 London game against Jacksonville is a white road-style set even though Houston is technically the visitor.
 
 **What jerseys are the Texans wearing this week?**
 
-**Week 9 (Sunday, November 8, 4:05 p.m. ET at the Chargers, CBS):** the Texans wear the dark navy helmet, white jersey and white pants, confirmed by the team's game-week uniform graphic. The Chargers wear their all-navy Super Chargers set. For the rest of the season: Deep Steel Blue at home and white on the road, with three confirmed exceptions. Liberty White opens the season in Week 1 against Buffalo, Battle Red comes out in Week 7 against the Giants, and the new Rivalries uniform debuts in Week 11 against Indianapolis. Week 18 against Tennessee is the Blue Alternate. The Week 6 London game against Jacksonville is a white road-style set even though Houston is technically the visitor.
+Week 9 at the Chargers, November 8, worn: navy helmet, white jersey and white pants. The Chargers wore all-navy Super Chargers, and Houston won 44-22. We grade the matchup a B. For the rest of the season: Deep Steel Blue at home and white on the road, with three confirmed exceptions. Liberty White opens the season in Week 1 against Buffalo, Battle Red comes out in Week 7 against the Giants, and the new Rivalries uniform debuts in Week 11 against Indianapolis. Week 18 against Tennessee is the Blue Alternate. The Week 6 London game against Jacksonville is a white road-style set even though Houston is technically the visitor.
 
 **What uniform did the Texans wear last week?**
 

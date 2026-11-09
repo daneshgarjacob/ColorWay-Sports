@@ -3,7 +3,7 @@ topViewsRank: 12
 title: "Rams Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-07-24"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-09"
 excerpt: "Rams uniform schedule 2026: royal five times, white eight including at home vs. Dallas, plus Classic Sol, Fearsome White and Midnight Mode. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -141,11 +141,11 @@ How does every one of these jerseys stack up? See our [Rams jerseys 2026 ranking
 
 **What jersey are the Rams wearing today?**
 
-**Week 9 (Sunday, November 8, 1:00 p.m. ET at Washington, FOX):** the Rams wear the royal helmet with the yellow horns, white jersey, royal pants and royal socks, confirmed by the team's game-week uniform graphic. We expect the Commanders in burgundy. This answer updates every week. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
+Week 9 at Washington, November 8, worn: royal helmet with yellow horns, white jersey and royal pants. The Commanders wore burgundy over gold pants, and the Rams won 20-13. We grade the matchup a B. This answer updates every week. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
 
 **What jerseys are the Rams wearing this week?**
 
-**Week 9 (Sunday, November 8, 1:00 p.m. ET at Washington, FOX):** the Rams wear the royal helmet with the yellow horns, white jersey, royal pants and royal socks, confirmed by the team's game-week uniform graphic. We expect the Commanders in burgundy. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
+Week 9 at Washington, November 8, worn: royal helmet with yellow horns, white jersey and royal pants. The Commanders wore burgundy over gold pants, and the Rams won 20-13. We grade the matchup a B. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
 
 **What uniform did the Rams wear last week?**
 

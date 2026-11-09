@@ -1965,6 +1965,104 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (Wizards white Association, Thunder blue Icon; https://www.espn.com/nba/game/_/gameId/401909941)"
+    },
+    "2026-11-08 BKN@DAL": {
+      "score": {
+        "away": 93,
+        "home": 130
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "YES highlight frames via ESPN (Mavericks blue Icon, Nets white)"
+    },
+    "2026-11-08 BOS@MIL": {
+      "score": {
+        "away": 117,
+        "home": 97
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "NBC Sports Boston highlight frames via ESPN (Bucks green Icon, Celtics white)"
+    },
+    "2026-11-08 LAL@DET": {
+      "score": {
+        "away": 121,
+        "home": 116
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Pistons TV highlight frames via ESPN (Pistons blue Icon, Lakers white)"
+    },
+    "2026-11-08 MIA@SAC": {
+      "score": {
+        "away": 114,
+        "home": 108
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "NBC Sports California highlight frames via ESPN (Kings home white, Heat black Icon)"
+    },
+    "2026-11-08 NOP@LAC": {
+      "score": {
+        "away": 123,
+        "home": 139
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "Gulf Coast Sports highlight frames via ESPN (Clippers home white, Pelicans navy Icon)"
+    },
+    "2026-11-08 PHI@CHI": {
+      "score": {
+        "away": 127,
+        "home": 121
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "NBC Sports Philadelphia highlight frames via ESPN (Bulls home white, 76ers blue Icon)"
+    },
+    "2026-11-08 UTA@MIN": {
+      "score": {
+        "away": 100,
+        "home": 115
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "DAZN highlight frames via ESPN (Timberwolves black Statement, Jazz white)"
     }
   }
 }
