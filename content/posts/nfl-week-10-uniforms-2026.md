@@ -35,6 +35,13 @@ Below is every Week 10 look we know, special ones first and then all 14 games in
 
 **Thursday, 8:15 p.m. ET, Prime Video. Giants confirmed, Commanders scheduled.** New York announced two Vintage White games on September 2, and this is the second, four days after the first at Philadelphia. The look is the navy GIANTS wordmark helmet, a white jersey with blue numbers outlined in red, and white pants with a blue stripe trimmed in red. It is a home game in the road twin of the Legacy uniform.
 
+**Update, November 9:** New York has made Thursday a **White Out**, asking fans to wear white to MetLife Stadium and handing every fan a rally towel and a lightband. The team's poster shows a white jersey with red and blue trim over white pants, the same call as above, and its helmet art is the navy GIANTS wordmark.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2119807259404300522"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Giants' White Out poster for Thursday night, via <a href="https://x.com/Giants" target="_blank" rel="noopener">@Giants</a></p>
+
 With the Giants in white at MetLife Stadium, Washington's published schedule has **burgundy** for the trip. The Commanders decide pants the week of each game.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/commanders-burgundy-home.jpg" alt="Washington Commanders burgundy jersey, scheduled by the team at the Giants on Thursday Night Football in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Commanders · Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/giants-vintage-white-alternate.jpg" alt="New York Giants Vintage White jersey, confirmed by the team against the Commanders on Thursday Night Football in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Giants · Confirmed</figcaption></figure></div>

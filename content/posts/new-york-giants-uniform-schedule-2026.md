@@ -89,6 +89,13 @@ That is the best-dressed game on the Giants' 2026 calendar and one of the best i
 
 Four days later the same set gets a national Thursday night against Washington, whose own schedule has the Commanders in burgundy for that trip. Vintage White under the MetLife lights against burgundy and gold is a strong color pairing, and it is the kind of prime-time slot the league likes to give Color Rush looks. We would happily take four Vintage White games instead of two, but two, back to back, in a rivalry week and on a national Thursday, is the right way to use it.
 
+**Update, November 9:** New York has made the Thursday night game a **White Out**, asking fans to wear white to MetLife Stadium and handing every fan a rally towel and a lightband. The team's poster shows a white jersey with red and blue trim over white pants, the same Vintage White call, and its helmet art is the navy GIANTS wordmark.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Giants/status/2119807259404300522"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Giants' White Out poster for Week 10 against Washington, via <a href="https://x.com/Giants" target="_blank" rel="noopener">@Giants</a></p>
+
 
 ## Royal Blue (8 Games, Including Two on the Road)
 
