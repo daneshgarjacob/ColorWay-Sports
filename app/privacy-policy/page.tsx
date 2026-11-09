@@ -58,6 +58,11 @@ export default function PrivacyPolicyPage() {
                 personally identify you.
               </li>
               <li>
+                <strong>Site Interaction Data:</strong> We use Microsoft Clarity to see how
+                visitors use our pages through heatmaps, session replays, and measures of
+                scrolling and clicks. Sensitive content is masked before it is collected.
+              </li>
+              <li>
                 <strong>Email Address:</strong> If you voluntarily subscribe to our newsletter
                 through our email signup form, we collect your email address. This is managed
                 through Mailchimp.
@@ -81,8 +86,8 @@ export default function PrivacyPolicyPage() {
           <section>
             <h2 className="text-xl font-bold text-black mb-3">Cookies and Tracking Technologies</h2>
             <p>
-              Our website uses cookies and similar technologies through Google Analytics to
-              collect anonymous usage data. These cookies help us understand traffic patterns
+              Our website uses cookies and similar technologies through Google Analytics and
+              Microsoft Clarity to collect usage data. These cookies help us understand traffic patterns
               and improve your experience. You can control cookie settings through your browser
               preferences.
             </p>
@@ -101,6 +106,17 @@ export default function PrivacyPolicyPage() {
                   className="text-orange hover:underline"
                 >
                   Google&apos;s Privacy Policy
+                </a>
+              </li>
+              <li>
+                <strong>Microsoft Clarity:</strong> For heatmaps and session replays.{" "}
+                <a
+                  href="https://privacy.microsoft.com/privacystatement"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-orange hover:underline"
+                >
+                  Microsoft&apos;s Privacy Statement
                 </a>
               </li>
               <li>
