@@ -7,13 +7,12 @@ updatedDate: "2026-11-10"
 excerpt: "Why do the Dallas Cowboys wear white at home? Tex Schramm wanted fans to see the visitors' colors, the Texas heat helped, and a Super Bowl V loss started the blue jersey jinx. Dallas wears white for eight of nine home games in 2026, including the 49ers on Sunday."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 coverImage: "/images/posts/why-do-the-cowboys-wear-white-at-home/cover.jpg"
-coverImagePosition: "center 30%"
+coverImagePosition: "center 60%"
 coverImageFit: "cover"
 coverCredit:
-  author: "All-Pro Reels"
-  url: "https://commons.wikimedia.org/wiki/File:Commanders_at_Cowboys_-_54871433706.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
+  author: "Carol M. Highsmith / Library of Congress"
+  url: "https://commons.wikimedia.org/wiki/File:Game_images_from_a_contest_between_the_National_Football_League_Dallas_Cowboys_and_the_Denver_Broncos_at_the_Cowboys%27_home_field_AT%26T_Stadium_in_Arlington,_Texas_LCCN2015630555.tif"
+  license: "public domain"
 kicker: "Explained"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-dallas-cowboys.png"
@@ -37,7 +36,10 @@ So why do the Cowboys wear white at home? The short answer is Tex Schramm, the t
 
 ## What The Cowboys Wear Against The 49ers
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-white-home.jpg" alt="Dallas Cowboys white home jersey with navy and silver stripes, scheduled against the 49ers on November 15, 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Cowboys · White</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/49ers-scarlet-home.jpg" alt="San Francisco 49ers red jersey; the team wears its red 1994 throwback at Dallas on November 15, 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">49ers · Red</figcaption></figure></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/2095278463485653498"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Cowboys' 2026 uniform schedule: SF vs. DAL, Week 10, in Primary White, via <a href="https://x.com/dallascowboys" target="_blank" rel="noopener">@dallascowboys</a></p>
 
 Week 10, Sunday, November 15, 4:25 p.m. ET on FOX. The 49ers confirmed the red 1994 throwback for this trip: scarlet with white numbers and a heavy black drop shadow, under the modern gold helmet. Dallas is scheduled in the white jersey with the silver star helmet. Because the Cowboys wear white, San Francisco gets to bring its best red to Arlington, which is exactly the point Schramm was making 60 years ago. Every matchup is in our [NFL Week 10 uniform guide](/stories/nfl-week-10-uniforms-2026).
 
@@ -52,8 +54,10 @@ Schramm did not want every home game to look the same. If Dallas wore white, the
 
 ## Reason Two: The Texas Heat
 
-<img src="/images/posts/why-do-the-cowboys-wear-white-at-home/dak-prescott-white-2017.jpg" alt="Dak Prescott in the Dallas Cowboys white jersey with navy numbers in 2017" style="display: block; width: 100%; max-width: 480px; margin: 1.25em auto 0.4em;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Dak Prescott in white, 2017. Photo: <a href="https://commons.wikimedia.org/wiki/File:Dak_Prescott.JPG" rel="nofollow noopener" target="_blank">Jeffrey Beall</a> / <a href="https://creativecommons.org/licenses/by/4.0" rel="nofollow noopener" target="_blank">CC BY 4.0</a></p>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/2116966648213389731"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Dallas in white at home against Arizona on November 1, 2026, via <a href="https://x.com/dallascowboys" target="_blank" rel="noopener">@dallascowboys</a></p>
 
 The other explanation is simpler. Early-season afternoon games at the Cotton Bowl were brutally hot, white reflects sun, and a dark jersey soaks it up. If the home team wears white, the visitors wear the hot one.
 
@@ -65,8 +69,10 @@ Dallas joined the NFL in 1960 and wore blue at home for its first four seasons. 
 
 ## Super Bowl V And The Blue Jersey Jinx
 
-<img src="/images/posts/why-do-the-cowboys-wear-white-at-home/cowboys-navy-at-washington-2018.jpg" alt="Dallas Cowboys in navy jerseys with white numbers against Washington in 2018" style="display: block; width: 100%; max-width: 680px; margin: 1.25em auto 0.4em;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Dallas in navy at Washington, 2018. Photo: <a href="https://commons.wikimedia.org/wiki/File:Dak_Prescott_(31610681908).jpg" rel="nofollow noopener" target="_blank">Keith Allison</a> / <a href="https://creativecommons.org/licenses/by-sa/2.0" rel="nofollow noopener" target="_blank">CC BY-SA 2.0</a></p>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/2119537912391880958"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Dallas in navy at Indianapolis on November 8, 2026, via <a href="https://x.com/dallascowboys" target="_blank" rel="noopener">@dallascowboys</a></p>
 
 The white came first. The superstition came after.
 
@@ -76,8 +82,6 @@ The white came first. The superstition came after.
 
 All five Cowboys Super Bowl wins came in white. Through 2013, NBC 5 Dallas counted Dallas at **1-6** in the playoffs in blue. Schramm himself told The New York Times in 1981 that he did not believe in a curse, and the record backs him up on the order of events: the white jerseys were already a Dallas tradition years before anyone called blue unlucky.
 
-<img src="/images/posts/why-do-the-cowboys-wear-white-at-home/roger-staubach-white-1976.jpg" alt="Roger Staubach throwing in the Dallas Cowboys white jersey and silver star helmet in 1976" style="display: block; width: 100%; max-width: 420px; margin: 1.25em auto 0.4em;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Roger Staubach in the white jersey, 1976. Photo: <a href="https://commons.wikimedia.org/wiki/File:Staubach_cowboys_qb.jpg" rel="nofollow noopener" target="_blank">Wikimedia Commons</a>, public domain</p>
 
 ## What The Cowboys Wear At Home In 2026
 

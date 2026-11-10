@@ -6,14 +6,14 @@ date: "2026-11-10"
 updatedDate: "2026-11-10"
 excerpt: "Why does LSU wear white at home? Paul Dietzel started it in 1958, an NCAA rule forced LSU into purple from 1983 to 1994, and Gerry DiNardo got the whites back. LSU is expected in white against Texas on Saturday, putting the Longhorns in burnt orange."
 gradient: "linear-gradient(135deg, #461D7C 0%, #2d1250 55%, #FDD023 130%)"
-coverImage: "/images/posts/why-does-lsu-wear-white-at-home/cover.jpg"
-coverImagePosition: "center 30%"
+coverImage: "/images/posts/why-does-lsu-wear-white-at-home/tiger-stadium-night-2012.jpg"
+coverImagePosition: "center center"
 coverImageFit: "cover"
 coverCredit:
-  author: "Tammy Anthony Baker"
-  url: "https://commons.wikimedia.org/wiki/File:LSU_Major_Burns_8,_LSU_Tigers_vs_Florida_Gators_11_November_2023.jpg"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0"
+  author: "Getawaypaul27"
+  url: "https://commons.wikimedia.org/wiki/File:LSU_football_game.jpg"
+  license: "CC BY-SA 4.0"
+  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 kicker: "Explained"
 league: "college"
 teams: ["lsu-tigers", "texas-longhorns", "sec"]
@@ -41,8 +41,10 @@ Saturday, November 14, 7:30 p.m. ET on ABC, at Tiger Stadium. LSU has worn white
 
 ## 1958: Paul Dietzel Puts LSU In White
 
-<img src="/images/posts/why-does-lsu-wear-white-at-home/tiger-stadium-night-2012.jpg" alt="A packed Tiger Stadium at night during LSU's game against Alabama in 2012, with LSU in white" style="display: block; width: 100%; max-width: 680px; margin: 1.25em auto 0.4em;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Tiger Stadium at night against Alabama, 2012. Photo: <a href="https://commons.wikimedia.org/wiki/File:LSU_football_game.jpg" rel="nofollow noopener" target="_blank">Getawaypaul27</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="nofollow noopener" target="_blank">CC BY-SA 4.0</a></p>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LSUfootball/status/2096612385486254574"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">A sold-out Tiger Stadium for the 2026 opener against Clemson, via <a href="https://x.com/LSUfootball" target="_blank" rel="noopener">@LSUfootball</a></p>
 
 In 1958, head coach Paul Dietzel chose white jerseys for LSU's home games. That season LSU went on to win the national championship. LSU's own history describes Dietzel as a superstitious man, and after a title in white he was not about to go back to purple. The home whites stayed through the rest of his tenure and through the Charlie McClendon era that followed.
 
@@ -50,8 +52,10 @@ You will see a lot of reasons offered for why Dietzel made the switch in the fir
 
 ## 1983 To 1994: Twelve Seasons In Purple
 
-<img src="/images/posts/why-does-lsu-wear-white-at-home/lsu-purple-vs-utah-state-2019.jpg" alt="LSU receiver Trey Palmer in the purple jersey with gold and white stripes and the gold helmet at Tiger Stadium in 2019" style="display: block; width: 100%; max-width: 420px; margin: 1.25em auto 0.4em;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">LSU in purple at home against Utah State, 2019. Photo: <a href="https://commons.wikimedia.org/wiki/File:LSUvsUT_113_(49174306828).jpg" rel="nofollow noopener" target="_blank">Tammy Anthony Baker</a> / <a href="https://creativecommons.org/licenses/by/2.0" rel="nofollow noopener" target="_blank">CC BY 2.0</a></p>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LSUfootball/status/2106532052623372320"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">LSU in purple at home against McNeese on October 3, 2026, via <a href="https://x.com/LSUfootball" target="_blank" rel="noopener">@LSUfootball</a></p>
 
 In 1982 the NCAA adopted a rule requiring home teams to wear dark jerseys. Some later accounts date the rule to 1983, the first season it changed what LSU wore. Either way, the effect was the same: **LSU wore purple at every home game from 1983 through 1994**, 12 straight seasons. (Even before the rule, coach Jerry Stovall had sometimes put LSU in purple at home so fans could see a different color.)
 
@@ -59,8 +63,6 @@ LSU tried to get an exception. In 1993, for the program's football centennial, c
 
 ## 1995: Gerry DiNardo Gets The Whites Back
 
-<img src="/images/posts/why-does-lsu-wear-white-at-home/lsu-white-vs-arkansas-2013.jpg" alt="LSU player in the white jersey and gold pants scoring against Arkansas defenders in red at Tiger Stadium in 2013" style="display: block; width: 100%; max-width: 680px; margin: 1.25em auto 0.4em;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">LSU in white against Arkansas at Tiger Stadium, 2013. Photo: <a href="https://commons.wikimedia.org/wiki/File:Good_for_TD,_Razorback_lineman_ineffective_at_preventing_another_LSU_touchdown_(23444169979).jpg" rel="nofollow noopener" target="_blank">Tammy Anthony Baker</a> / <a href="https://creativecommons.org/licenses/by/2.0" rel="nofollow noopener" target="_blank">CC BY 2.0</a></p>
 
 When Gerry DiNardo became LSU's coach in 1995, he made the home whites a project. He petitioned the rules committee and, according to LSU, personally met with each member of the NCAA Football Rules Committee. It worked. The rule was changed so a home team could wear white if the visiting team agreed, and LSU went back to white at home in 1995.
 
@@ -78,8 +80,10 @@ Outside the SEC, the visitor's right still matters. That is why some non-confere
 
 ## When LSU Still Wears Purple At Home
 
-<img src="/images/posts/why-does-lsu-wear-white-at-home/devin-white-2018.jpg" alt="LSU linebacker Devin White in the white jersey, gold pants and gold helmet against Southeastern Louisiana in the 2018 home opener" style="display: block; width: 100%; max-width: 480px; margin: 1.25em auto 0.4em;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Devin White in the home whites for the 2018 home opener against Southeastern Louisiana. Photo: <a href="https://commons.wikimedia.org/wiki/File:SELU_LSU_9718_054.jpg" rel="nofollow noopener" target="_blank">Tammy Anthony Baker</a> / <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="nofollow noopener" target="_blank">CC BY-SA 4.0</a></p>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LSUfootball/status/2119191456753811511"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">LSU in the home whites against Alabama on November 7, 2026, via <a href="https://x.com/LSUfootball" target="_blank" rel="noopener">@LSUfootball</a></p>
 
 LSU's own policy, in place since Nick Saban arrived in 2000 and kept by Les Miles, is simple: **purple for non-conference home games, except the home opener.** SEC games and the opener get white.
 
