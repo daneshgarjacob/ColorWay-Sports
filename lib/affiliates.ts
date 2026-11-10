@@ -19,8 +19,7 @@ export const AFFILIATES = {
   /** One "Shop the ..." line per jersey on NFL, MLB, NBA and NHL team schedule posts. */
   schedulePosts: true,
   /** One HOMAGE vintage tee line on the throwback/history posts in HOMAGE_POSTS. */
-  // Off until Jake signs in to Impact and the HOMAGE tracking link goes in HOMAGE_IMPACT below (11/5).
-  homage: false,
+  homage: true,
 };
 
 export const on = (k: Exclude<keyof typeof AFFILIATES, "on">) => AFFILIATES.on && AFFILIATES[k];
@@ -46,11 +45,10 @@ export function fanaticsHref(page: string, target: string): string {
 }
 
 // ── HOMAGE (Impact, 8%) ───────────────────────────────────────────────────
-// PLACEHOLDER: paste the HOMAGE Impact tracking link here (impact.com >
-// Brands > HOMAGE > Create link; it looks like https://<something>.net/<code>).
-// Until it is set, HOMAGE lines point straight at homage.com, earn nothing,
-// and carry data-affiliate="homage-pending" so they are easy to find.
-const HOMAGE_IMPACT = "";
+// Same deep-link format as Fanatics. If this is ever emptied, HOMAGE lines
+// point straight at homage.com, earn nothing, and carry
+// data-affiliate="homage-pending" so they are easy to find.
+const HOMAGE_IMPACT = "https://homage.sjv.io/L0Lz9Z";
 
 export function homageHref(page: string, collection: string): string {
   const dest = `https://www.homage.com/collections/${collection}`;
@@ -71,7 +69,7 @@ export const HOMAGE_POSTS: Record<string, { team: string; collection: string }> 
   "athletics-125th-anniversary-patch-elephant-logo-2026": { team: "A's", collection: "athletics" },
   "49ers-80th-anniversary-patch-2026": { team: "49ers", collection: "san-francisco-49ers" },
   "knicks-1973-vs-2026-championship-uniforms-compared": { team: "Knicks", collection: "new-york-knicks" },
-  "houston-texans-25th-anniversary-patch": { team: "Texans", collection: "houston-texans" },
+  "miami-heat-logo-and-jersey-history": { team: "Heat", collection: "miami-heat" },
 };
 
 const LINK_STYLE = "color: inherit; text-decoration: underline; text-underline-offset: 2px;";
