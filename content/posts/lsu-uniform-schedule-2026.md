@@ -3,7 +3,7 @@ title: "LSU Uniform Schedule 2026: Why the Tigers Wear White at Home, and Every 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-10"
 excerpt: "What LSU wears every game in 2026, including the home white tradition that flips every visiting team into color, week by week."
 gradient: "linear-gradient(135deg, #461D7C 0%, #2d1250 55%, #FDD023 130%)"
 cardStyle: words
@@ -60,7 +60,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 **October 10 at Kentucky.** ★ Confirmed from the broadcast: **gold helmet, white jersey, gold pants**, the road white we expected. Kentucky wore its **Power K throwback**, unveiled October 7: the white helmet with the triple stripe and the Power K, a blue jersey and white pants, the Wildcats' look from 1975 to 1991. Kentucky won 35-34 in overtime after LSU scored a touchdown and extra point in the extra period and the Wildcats answered with a touchdown and a two-point conversion. The Tigers are 4-2. See the [Kentucky 2026 uniform schedule](/stories/kentucky-uniform-schedule-2026).
 
-**October 17 vs. Mississippi State.** Home White expected.
+**October 17 vs. Mississippi State.** Home White expected. **Worn: gold helmet, white jersey, gold pants**, confirmed from the game broadcast. Mississippi State wore maroon jerseys over white pants. **Final: LSU 31, Mississippi State 0.**
 
 **October 24 at Auburn.** White expected, with Auburn in navy at home. **Worn: gold helmet, white jersey and gold pants**, confirmed from the team's game photos. Auburn wore a white helmet and navy jersey. **Final: LSU 38, Auburn 17.**
 
