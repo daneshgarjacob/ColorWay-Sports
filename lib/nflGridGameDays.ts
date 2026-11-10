@@ -33,6 +33,16 @@ const CELL = new RegExp(
   "gs",
 );
 
+/** Where the section after the week grid starts: the first <h2> past the last
+ *  WEEK cell. Not simply the post's second <h2>, because about half the posts
+ *  open with a section ahead of the grid. -1 when no <h2> follows it. */
+export function nflGridEnd(html: string): number {
+  const last = [...html.matchAll(/>WEEK\s*\d+<\/div>/g)].at(-1);
+  if (last?.index === undefined) return -1;
+  const next = html.slice(last.index).search(/<h2\b/);
+  return next < 0 ? -1 : last.index + next;
+}
+
 function et(ms: number) {
   const parts = new Intl.DateTimeFormat("en-US", {
     timeZone: "America/New_York", weekday: "short", month: "short", day: "numeric", hour: "numeric", hour12: false,

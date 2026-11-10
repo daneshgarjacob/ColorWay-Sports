@@ -49,7 +49,7 @@ export default function TeamWearBox({
         </div>
 
         <div className="px-5 sm:px-7 py-6 bg-white">
-          <h2 className="text-xl sm:text-2xl font-extrabold text-[#0B1F4A] leading-tight mb-4">{title}</h2>
+          <h2 className="text-xl sm:text-2xl font-extrabold text-[#0B1F4A] leading-tight mb-4 capitalize">{title}</h2>
 
           {headline && (
             <div className={`mb-5 ${headline.img ? "flex items-center gap-5" : ""}`}>

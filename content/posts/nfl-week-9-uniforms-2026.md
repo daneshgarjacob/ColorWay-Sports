@@ -3,7 +3,7 @@ title: "NFL Week 9 Uniforms 2026: What Every Team Is Wearing, Including Kelly Gr
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-10-30"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-10"
 excerpt: "NFL Week 9 uniforms (Nov. 5-9): the Eagles wear Kelly Green and the Giants wear Vintage White, the Ravens go all purple in Purple Rising on Thursday night, the Saints wear the gold jersey, the Chargers bring out Super Chargers navy, the Colts White Out against Dallas in navy, plus Madrid and every other game."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #241773 130%)"
 coverImage: "/images/posts/nfl-week-9-uniforms-2026/cover.jpg"
@@ -19,7 +19,7 @@ homepageHero: "2026-11-05"
 
 Week 9 of the 2026 NFL season runs from Thursday, November 5 to Monday, November 9, with 15 games and two teams on bye: the Pittsburgh Steelers and the Tennessee Titans. It is the busiest week of the season for alternate uniforms so far. Five teams wear an alternate set: the **Ravens in all-purple Purple Rising** on Thursday night, the **Eagles in Kelly Green** and the **Giants in Vintage White** in the same game in Philadelphia, the **Saints in their gold jersey** under the black helmet, and the **Chargers in the all-navy Super Chargers** set. Indianapolis adds its all-white **White Out** against Dallas, which puts the Cowboys in navy, and Atlanta and Cincinnati play in Madrid on Sunday morning.
 
-**Update, Monday, November 9:** every Sunday game is final, and the sections and full list below now show what each team actually wore, checked against game photos. The biggest surprises: Cleveland paired **brown pants** with its white jerseys at New Orleans, Miami wore **aqua pants** against a Detroit team in blue over blue, Carolina wore the **silver helmet** with black, and New England wore **navy pants**. Buffalo at Minnesota on Monday night is the last game of the week.
+**Update, Tuesday, November 10:** every Week 9 game is final, and the sections and full list below now show what each team actually wore, checked against game photos. The biggest surprises: Cleveland paired **brown pants** with its white jerseys at New Orleans, Miami wore **aqua pants** against a Detroit team in blue over blue, Carolina wore the **silver helmet** with black, and New England wore **navy pants**. Buffalo closed the week Monday night with a 23-6 win at Minnesota, the Bills in all white and the Vikings in purple over white.
 
 Below is every Week 9 look we know, special ones first and then all 15 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
 
@@ -137,9 +137,9 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 ### Buffalo Bills at Minnesota Vikings: Monday Night Football
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-white-road.jpg" alt="Buffalo Bills white road jersey, confirmed with white pants at Minnesota on Monday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/vikings-purple-home.jpg" alt="Minnesota Vikings purple home jersey, scheduled by the team with white pants against the Bills on Monday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Vikings · Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-white-road.jpg" alt="Buffalo Bills white road jersey, worn with white pants at Minnesota on Monday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Worn</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/vikings-purple-home.jpg" alt="Minnesota Vikings purple home jersey, worn with white pants against the Bills on Monday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Vikings · Worn</figcaption></figure></div>
 
-**Monday, 8:15 p.m. ET, ESPN. Both teams set.** Minnesota attached a jersey to all nine home games, and this one is the **purple jersey over white pants**. It is also the Vikings' Salute to Service game and the night Adrian Peterson goes into the team's Ring of Honor. Buffalo confirmed **white helmet, white jersey, white pants** with blue socks in its "Monday Night Threads" graphic, so it is all white against Minnesota's purple. Our matchup grade: **B**.
+**Final: Bills 23, Vikings 6.** Minnesota wore the **purple helmet, purple jersey and white pants** with purple socks, the look it assigned to this home game, for its Salute to Service game and the night Adrian Peterson went into the team's Ring of Honor. Buffalo wore **white helmet, white jersey, white pants** with blue socks, as its "Monday Night Threads" graphic announced, all white against Minnesota's purple. Both looks are confirmed from the teams' game photos. Our matchup grade: **B**.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2118055686492058070"></a></blockquote>
@@ -233,7 +233,7 @@ The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B*
 
 ### Monday, November 9
 
-- **Buffalo Bills at Minnesota Vikings**, 8:15 p.m. ET, ESPN. Bills: white helmet, white jersey, white pants (confirmed). Vikings: purple jersey, white pants (scheduled). Matchup grade: B.
+- **Buffalo Bills at Minnesota Vikings**, 8:15 p.m. ET, ESPN. Bills: white helmet, white jersey, white pants (worn). Vikings: purple helmet, purple jersey, white pants (worn). Final: Bills 23, Vikings 6. Matchup grade: B.
 
 ### Byes
 
@@ -291,9 +291,9 @@ Detroit wore the silver helmet with the Honolulu blue jersey and Honolulu blue p
 
 Chicago wore the navy helmet, navy jersey and white pants. Tampa Bay wore the pewter helmet, white jersey and pewter pants. The Bears won 27-24.
 
-**What are the Bills and Vikings wearing on Monday Night Football?**
+**What did the Bills and Vikings wear on Monday Night Football?**
 
-Minnesota's schedule has the purple jersey with white pants for its Salute to Service game. Buffalo confirmed all white: white helmet, white jersey and white pants. Kickoff is Monday, November 9 at 8:15 p.m. Eastern on ESPN.
+Minnesota wore the purple jersey with white pants for its Salute to Service game, and Buffalo wore all white: white helmet, white jersey and white pants. The Bills won 23-6 on Monday, November 9.
 
 **Which NFL teams are on bye in Week 9?**
 

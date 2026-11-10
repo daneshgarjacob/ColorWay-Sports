@@ -462,21 +462,25 @@
     "season": "2026",
     "edition": "Primary Home",
     "jerseyName": "Purple over White",
-    "image": "/images/posts/nfl-tracker-jerseys/vikings-purple-home.jpg",
-    "imageAlt": "Minnesota Vikings purple home jersey with white numbers and purple, white and gold sleeve stripes",
-    "imageFit": "contain",
+    "image": "/images/jersey-of-the-day/vikings-purple-over-white-2026-11-09.jpg",
+    "imageAlt": "Minnesota Vikings receiver running with the ball in the purple jersey with white numbers, white pants with a purple and gold stripe and purple socks",
+    "imagePosition": "center 25%",
     "credit": {
-      "text": "Product image"
+      "text": "Minnesota Vikings"
+    },
+    "tweet": {
+      "url": "https://x.com/Vikings/status/2119972557415928296",
+      "label": "Monday's look, from the Vikings"
     },
     "worn": {
       "date": "2026-11-09",
       "matchup": "vs. Bills, 8:15 p.m. ET on ESPN, Monday Night Football",
-      "status": "Scheduled",
-      "note": "The purple jersey over white pants is the look Minnesota assigned to this game on its published home schedule."
+      "status": "Confirmed",
+      "note": "Worn as scheduled, confirmed from the team's game photos. Final: Bills 23, Vikings 6."
     },
     "why": "Purple over white is the Vikings at their best, and it is the right look for the night Adrian Peterson goes into the Ring of Honor.",
     "whyPlaceholder": true,
-    "story": "The Vikings wear the purple jersey over white pants tonight against Buffalo on Monday Night Football, the look Minnesota assigned to this game on its published home schedule. It is their Salute to Service game, and Adrian Peterson goes into the team's Ring of Honor at halftime. The Bills wear all white: white helmet, white jersey and white pants.",
+    "story": "The Vikings wore the purple jersey over white pants against Buffalo on Monday Night Football, the look Minnesota assigned to this game on its published home schedule: purple helmet, purple jersey with white numbers, white pants with a purple and gold stripe and purple socks. It was their Salute to Service game, and Adrian Peterson went into the team's Ring of Honor at halftime. The Bills wore white jerseys over white pants. Buffalo won 23-6.",
     "scheduleSlug": "vikings-uniform-schedule-2026",
     "scheduleLabel": "Vikings 2026 uniform schedule",
     "related": [

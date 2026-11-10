@@ -70,7 +70,7 @@ export default function InlineNewsletter({
           {eyebrow}
         </p>
         <h2
-          className="text-2xl sm:text-3xl font-extrabold text-black leading-tight tracking-tight mb-2"
+          className="text-2xl sm:text-3xl font-extrabold text-black leading-tight tracking-tight mb-2 capitalize"
           style={{ fontFamily: "var(--font-sans)" }}
         >
           {heading}

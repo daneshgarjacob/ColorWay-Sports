@@ -3,7 +3,7 @@ title: "Vikings Uniform & Jersey Schedule 2026: Throwback Dates"
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-11-05"
+updatedDate: "2026-11-10"
 excerpt: "Vikings uniform schedule 2026: Classic throwbacks vs. Green Bay, the new Rivalries jersey vs. Detroit and the Winter Warrior whiteout. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -163,11 +163,11 @@ How does every one of these jerseys stack up? See our [Vikings jerseys 2026 rank
 
 **What jersey are the Vikings wearing today?**
 
-**Week 9 (Monday, November 9, 8:15 p.m. ET vs. Buffalo, Monday Night Football on ESPN):** the Vikings wear the purple jersey over white pants, the look Minnesota assigned to this Salute to Service game in its published home schedule. The Bills have confirmed the white helmet, white jersey and white pants. This answer updates every week. For the rest of the season: Minnesota confirmed its home schedule and it is the busiest in the league, so check the week rather than assuming purple. Week 1 was the Classic throwback, Week 7 was listed as the all-purple set but the Vikings wore white pants, Week 15 against Detroit is the new Rivalries jersey, and Week 16 against Washington is the Winter Warrior whiteout. The other five home games are purple over white. On the road it is mostly the white set, except purple at Tampa Bay in Week 3 and at Detroit in Week 8, and the Winter Warrior at the Jets in Week 17.
+Week 9 against Buffalo on Monday Night Football, November 9, worn: purple helmet, purple jersey, white pants and purple socks, the look Minnesota assigned to this Salute to Service game. The Bills wore white over white, and Buffalo won 23-6. We grade the matchup a B. This answer updates every week. For the rest of the season: Minnesota confirmed its home schedule and it is the busiest in the league, so check the week rather than assuming purple. Week 1 was the Classic throwback, Week 7 was listed as the all-purple set but the Vikings wore white pants, Week 15 against Detroit is the new Rivalries jersey, and Week 16 against Washington is the Winter Warrior whiteout. The other five home games are purple over white. On the road it is mostly the white set, except purple at Tampa Bay in Week 3 and at Detroit in Week 8, and the Winter Warrior at the Jets in Week 17.
 
 **What jerseys are the Vikings wearing this week?**
 
-**Week 9 (Monday, November 9, 8:15 p.m. ET vs. Buffalo, Monday Night Football on ESPN):** the Vikings wear the purple jersey over white pants, the look Minnesota assigned to this Salute to Service game in its published home schedule. The Bills have confirmed the white helmet, white jersey and white pants. For the rest of the season: Minnesota confirmed its home schedule and it is the busiest in the league, so check the week rather than assuming purple. Week 1 was the Classic throwback, Week 7 was listed as the all-purple set but the Vikings wore white pants, Week 15 against Detroit is the new Rivalries jersey, and Week 16 against Washington is the Winter Warrior whiteout. The other five home games are purple over white. On the road it is mostly the white set, except purple at Tampa Bay in Week 3 and at Detroit in Week 8, and the Winter Warrior at the Jets in Week 17.
+Week 9 against Buffalo on Monday Night Football, November 9, worn: purple helmet, purple jersey, white pants and purple socks, the look Minnesota assigned to this Salute to Service game. The Bills wore white over white, and Buffalo won 23-6. We grade the matchup a B. For the rest of the season: Minnesota confirmed its home schedule and it is the busiest in the league, so check the week rather than assuming purple. Week 1 was the Classic throwback, Week 7 was listed as the all-purple set but the Vikings wore white pants, Week 15 against Detroit is the new Rivalries jersey, and Week 16 against Washington is the Winter Warrior whiteout. The other five home games are purple over white. On the road it is mostly the white set, except purple at Tampa Bay in Week 3 and at Detroit in Week 8, and the Winter Warrior at the Jets in Week 17.
 
 **What uniform did the Vikings wear last week?**
 

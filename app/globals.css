@@ -92,8 +92,9 @@ a {
   color: #2a2a2a;
 }
 
-.prose > p:first-child,
-.prose > p:first-of-type {
+/* .prose-continued: the second half of a body split around a signup, which has no lede. */
+.prose:not(.prose-continued) > p:first-child,
+.prose:not(.prose-continued) > p:first-of-type {
   font-size: 1.18rem;
   line-height: 1.6;
   color: #1a1a1a;

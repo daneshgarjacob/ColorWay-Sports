@@ -37,7 +37,9 @@ import { notFound } from "next/navigation";
 import { getPostBySlug, getAllPosts, getRelatedPosts, trimLogSections } from "@/lib/posts";
 import AuthorBio from "@/components/AuthorBio";
 import FollowCard from "@/components/FollowCard";
-import { addNflGameDays } from "@/lib/nflGridGameDays";
+import { addNflGameDays, nflGridEnd } from "@/lib/nflGridGameDays";
+import UniformLogBox from "@/components/UniformLogBox";
+import { nflUniformLog, winterUniformLog } from "@/lib/uniformLog";
 import { getAuthor, authorSchema } from "@/lib/authors";
 import { AFFILIATE_DISCLOSURE, addHomageLine, addScheduleShopLinks, teamFromTitle } from "@/lib/affiliates";
 import type { Metadata } from "next";
@@ -361,6 +363,29 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     /-uniform-schedule-/.test(slug) && storyTeams.length >= 1
       ? post.title.match(/^(.+?) (?:Uniform Schedule|Uniform & Jersey|Jersey & Uniform|Jerseys)/)?.[1] ?? null
       : null;
+  const teamSignup = scheduleTeam && (
+    <InlineNewsletter
+      eyebrow={`${scheduleTeam} Uniforms, Every Week`}
+      heading={`Know what ${
+        post.league === "college" ? `${scheduleTeam} wears` : `the ${scheduleTeam} wear`
+      } before ${
+        { mlb: "first pitch", nba: "tip-off", nhl: "puck drop" }[post.league ?? ""] ?? "kickoff"
+      }.`}
+      body="Every Sunday morning: this week's looks, the new reveals and the throwback dates, in one free email."
+      team={storyTeams[0]}
+    />
+  );
+
+  // NFL/NBA/NHL team posts ask for that signup right after the full schedule
+  // instead of at the bottom. NFL splits the body after the week grid. NBA/NHL
+  // already split after the game table for the calendar, so it follows that.
+  const gridEnd = nflTeam && scheduleTeam ? nflGridEnd(articleHtml) : -1;
+  const articleTop = gridEnd > 0 ? articleHtml.slice(0, gridEnd) : articleHtml;
+  const articleAfterGrid = gridEnd > 0 ? articleHtml.slice(gridEnd) : "";
+  const signupMoved = gridEnd > 0 || Boolean(winterTeam && scheduleTeam && bodyRest);
+
+  // Both indexes were already built above for this post, so this is only counting.
+  const uniformLog = nflTeam ? nflUniformLog(nflTeam) : winterTeam ? winterUniformLog(winterTeam) : null;
 
   const relatedPosts = getRelatedPosts(slug, {
     league: post.league,
@@ -563,12 +588,13 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           <LakersArticle />
         ) : (
           <>
+            {uniformLog && <UniformLogBox data={uniformLog} />}
             {hasAffiliateLinks && (
               <p className="mt-0 mb-6 text-[12.5px] text-gray-medium">{AFFILIATE_DISCLOSURE}</p>
             )}
             <article
               className="prose prose-lg max-w-none text-foreground leading-relaxed"
-              dangerouslySetInnerHTML={{ __html: articleHtml }}
+              dangerouslySetInnerHTML={{ __html: articleTop }}
             />
             {winterTeam && (
               <section id="calendar" className="mt-10 mb-10 scroll-mt-28">
@@ -580,6 +606,13 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
                 </p>
                 <WinterCalendarGrid entry={winterTeam} league={winterTeam.league} />
               </section>
+            )}
+            {signupMoved && teamSignup}
+            {articleAfterGrid && (
+              <article
+                className="prose prose-continued prose-lg max-w-none text-foreground leading-relaxed"
+                dangerouslySetInnerHTML={{ __html: articleAfterGrid }}
+              />
             )}
             {bodyRest && (
               <article
@@ -600,20 +633,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         <PreferredSourceCard />
 
         {/* Inline newsletter signup */}
-        {scheduleTeam ? (
-          <InlineNewsletter
-            eyebrow={`${scheduleTeam} Uniforms, Every Week`}
-            heading={`Know what ${
-              post.league === "college" ? `${scheduleTeam} wears` : `the ${scheduleTeam} wear`
-            } before ${
-              { mlb: "first pitch", nba: "tip-off", nhl: "puck drop" }[post.league ?? ""] ?? "kickoff"
-            }.`}
-            body="Every Sunday morning: this week's looks, the new reveals and the throwback dates, in one free email."
-            team={storyTeams[0]}
-          />
-        ) : (
-          <InlineNewsletter />
-        )}
+        {!signupMoved && (teamSignup || <InlineNewsletter />)}
 
         {/* Related stories */}
         <RelatedStories posts={relatedPosts} />
