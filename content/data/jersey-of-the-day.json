@@ -1,5 +1,5 @@
 {
- "_readme": "Jersey of the Day. One entry per day, keyed by US Eastern date (YYYY-MM-DD). To add a day, copy an entry, change the key and fill every field. Images must already be on the site (public/images/...) or verified PD/CC Commons images with credit, never Getty/AP/fan/retailer. Run node scripts/compress-images.mjs after adding a new image. 'why' is Jake's line; whyPlaceholder true means it is a draft awaiting his OK (the page renders it like any other line). Optional '_editorNote' is internal only, never rendered. worn.status: Confirmed (team or game photos), Announced (team schedule), Scheduled (team date list), Expected (league or team default, not announced), Projected (our read, not a team call). Optional shop fields (lib/affiliates.ts): shopUrl = a fanatics.com product URL for the Get this jersey at Fanatics link (else it searches Fanatics for team + jerseyName), shopQuery = custom Fanatics search words, shop false = no link that day.",
+ "_readme": "Jersey of the Day. One entry per day, keyed by US Eastern date (YYYY-MM-DD). To add a day, copy an entry, change the key and fill every field. Images must already be on the site (public/images/...) or verified PD/CC Commons images with credit, never Getty/AP/fan/retailer. Run node scripts/compress-images.mjs after adding a new image. 'why' is Jake's line; whyPlaceholder true means it is a draft awaiting his OK (the page renders it like any other line). Optional '_editorNote' is internal only, never rendered. worn.status: Confirmed (team or game photos), Announced (team schedule), Scheduled (team date list), Expected (league or team default, not announced), Projected (our read, not a team call). Optional shop fields (lib/affiliates.ts): shopUrl = a fanatics.com product URL for the Get this jersey at Fanatics link (else it searches Fanatics for team + jerseyName), shopQuery = custom Fanatics search words, shop false = no link that day. Optional 'colorwayGrade' (A+ to F, e.g. 'C+') is ColorWay's own grade for the Grade It control; when set it shows up front next to the reader's scale and in the share text. Leave it out until Jake supplies a grade.",
  "days": {
   "2026-10-25": {
    "team": "Seattle Seahawks",
@@ -501,6 +501,7 @@
     "season": "2026-27",
     "edition": "Hometown Remix",
     "jerseyName": "Hometown Remix (Cannon)",
+    "colorwayGrade": "C",
     "image": "/images/jersey-of-the-day/blue-jackets-hometown-remix-2026-11-10.jpg",
     "imageAlt": "Columbus Blue Jackets player in the Hometown Remix jersey: gray with the Stadium Series cannon crest, navy and light blue arm stripes and an Ohio-shaped captain's A",
     "imagePosition": "center 30%",
@@ -514,8 +515,8 @@
       "matchup": "vs. Florida Panthers, 7:30 p.m. ET",
       "status": "Scheduled"
     },
-    "why": "The cannon is the best logo Columbus has ever had, and tonight it is the whole front of the sweater.",
-    "whyPlaceholder": true,
+    "why": "The captain's A inside the shape of Ohio is the best detail in the whole Remix program. The gray sweater around it is a C.",
+    "whyPlaceholder": false,
     "story": "The Blue Jackets wear their Hometown Remix jersey tonight at home against Florida: a gray sweater with the Stadium Series cannon across the chest, navy and light blue stripes on the arms and hem, and a captain's letter set inside the shape of Ohio. It is the third time they have worn it, and Columbus has it on the schedule 13 times this season, the most of any team. We ranked it 22nd of the 32 Remix jerseys, mostly because of the gray.",
     "scheduleSlug": "blue-jackets-uniform-schedule-2026-27",
     "scheduleLabel": "Blue Jackets 2026-27 uniform schedule",
