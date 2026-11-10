@@ -1,7 +1,10 @@
 import Link from "next/link";
 import { leagueColor } from "@/lib/leagueColors";
-import { imgFitClass, shortDate, shortDow, wornWhen, type JotdCredit, type JotdEntry } from "@/lib/jerseyOfTheDay";
+import { imgFitClass, jotdItemKey, shortDate, shortDow, wornWhen, type JotdCredit, type JotdEntry } from "@/lib/jerseyOfTheDay";
 import { AFFILIATE_REL, jotdShopHref, on } from "@/lib/affiliates";
+import GradeIt from "@/components/GradeIt";
+
+const SITE = "https://www.colorwaysports.com";
 
 // Jersey of the Day pieces. Built from the story card / StoryHero
 // language: white rounded-xl .story-card, league-color tag, Hanken display
@@ -114,6 +117,15 @@ export function TodayFeature({ entry, isToday }: { entry: JotdEntry; isToday: bo
             {entry.worn.note && <span className="text-gray-medium"> · {entry.worn.note}</span>}
           </p>
         </div>
+
+        {/* Grade It (components/GradeIt.tsx): under the headline and the
+            "worn" meta, before Jake's line, as in the approved mock. */}
+        <GradeIt
+          item={jotdItemKey(entry.date)}
+          subject={`${entry.teamShort} ${entry.jerseyName}`}
+          colorwayGrade={entry.colorwayGrade}
+          shareUrl={isToday ? `${SITE}/jersey-of-the-day` : `${SITE}/jersey-of-the-day/archive#${entry.date}`}
+        />
 
         {/* Jake's line. whyPlaceholder marks a drafted line still awaiting
             Jake's approval; it is a data flag only and renders like an
