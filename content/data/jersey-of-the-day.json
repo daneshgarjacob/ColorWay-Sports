@@ -493,6 +493,42 @@
         "label": "Every Vikings jersey, ranked"
       }
     ]
+  },
+  "2026-11-10": {
+    "team": "Columbus Blue Jackets",
+    "teamShort": "Blue Jackets",
+    "league": "NHL",
+    "season": "2026-27",
+    "edition": "Hometown Remix",
+    "jerseyName": "Hometown Remix (Cannon)",
+    "image": "/images/jersey-of-the-day/blue-jackets-hometown-remix-2026-11-10.jpg",
+    "imageAlt": "Columbus Blue Jackets player in the Hometown Remix jersey: gray with the Stadium Series cannon crest, navy and light blue arm stripes and an Ohio-shaped captain's A",
+    "imagePosition": "center 30%",
+    "credit": {
+      "text": "Columbus Blue Jackets",
+      "url": "https://x.com/BlueJacketsNHL/status/2117279050406248936",
+      "license": "via the team"
+    },
+    "worn": {
+      "date": "2026-11-10",
+      "matchup": "vs. Florida Panthers, 7:30 p.m. ET",
+      "status": "Scheduled"
+    },
+    "why": "The cannon is the best logo Columbus has ever had, and tonight it is the whole front of the sweater.",
+    "whyPlaceholder": true,
+    "story": "The Blue Jackets wear their Hometown Remix jersey tonight at home against Florida: a gray sweater with the Stadium Series cannon across the chest, navy and light blue stripes on the arms and hem, and a captain's letter set inside the shape of Ohio. It is the third time they have worn it, and Columbus has it on the schedule 13 times this season, the most of any team. We ranked it 22nd of the 32 Remix jerseys, mostly because of the gray.",
+    "scheduleSlug": "blue-jackets-uniform-schedule-2026-27",
+    "scheduleLabel": "Blue Jackets 2026-27 uniform schedule",
+    "related": [
+      {
+        "slug": "nhl-hometown-remix-jerseys-ranked",
+        "label": "Every Hometown Remix jersey, ranked"
+      },
+      {
+        "slug": "nhl-hometown-remix-debut-week-2026",
+        "label": "Remix debut week: every team"
+      }
+    ]
   }
  }
 }

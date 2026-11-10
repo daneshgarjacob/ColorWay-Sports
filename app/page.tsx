@@ -50,8 +50,8 @@ const FRESH_DAYS = 2;
 // they go stale.
 const HERO_ROTATION = [
   "nhl-hometown-remix-jerseys-ranked",
-  "nfl-week-9-uniforms-2026",
-  "college-football-week-10-uniforms-2026",
+  "nfl-week-10-uniforms-2026",
+  "college-football-week-11-uniforms-2026",
 ];
 
 export default async function Home() {

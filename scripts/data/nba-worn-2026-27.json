@@ -2063,6 +2063,118 @@
       },
       "confirmed": true,
       "source": "DAZN highlight frames via ESPN (Timberwolves black Statement, Jazz white)"
+    },
+    "2026-11-09 CLE@CHA": {
+      "score": {
+        "away": 112,
+        "home": 124
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "DAZN highlight frames via ESPN (Cavaliers black Statement, Hornets teal Icon)"
+    },
+    "2026-11-09 DEN@HOU": {
+      "score": {
+        "away": 100,
+        "home": 110
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "highlight frames via ESPN (Nuggets royal blue Statement, Rockets home white)"
+    },
+    "2026-11-09 IND@DAL": {
+      "score": {
+        "away": 122,
+        "home": 125
+      },
+      "away": {
+        "call": "Classic Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "highlight frames via ESPN (Pacers royal blue Classic Edition with gold trim, Mavericks home white)"
+    },
+    "2026-11-09 LAL@ATL": {
+      "score": {
+        "away": 124,
+        "home": 114
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "Spectrum SportsNet highlight frames via ESPN (Lakers purple Statement, Hawks home white)"
+    },
+    "2026-11-09 MEM@TOR": {
+      "score": {
+        "away": 118,
+        "home": 102
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "Sportsnet highlight frames via ESPN (Grizzlies navy Icon, Raptors home white)"
+    },
+    "2026-11-09 NOP@GSW": {
+      "score": {
+        "away": 87,
+        "home": 138
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "NBC Sports Bay Area highlight frames via ESPN (Pelicans red Statement, Warriors blue Icon)"
+    },
+    "2026-11-09 SAS@PHX": {
+      "score": {
+        "away": 122,
+        "home": 96
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "DAZN highlight frames via ESPN (Spurs road white, Suns purple Icon)"
+    },
+    "2026-11-09 WAS@DET": {
+      "score": {
+        "away": 111,
+        "home": 122
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "highlight frames via ESPN (Wizards red Icon, Pistons home white)"
     }
   }
 }
