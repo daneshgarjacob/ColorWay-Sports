@@ -18,6 +18,7 @@ logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-baltimore-ravens.png"
 league: nfl
 teams: ["baltimore-ravens", "los-angeles-chargers"]
+homepageHero: "2026-11-11"
 ---
 
 **The Ravens are going all black on Monday night.** Baltimore wears its **Darkness Falls** uniform when it hosts the Los Angeles Chargers at M&T Bank Stadium on **Monday, November 16, at 8:15 p.m. Eastern on ESPN**. That is the brand-new **matte black Darkness helmet**, a **black jersey** and **black pants**. It is the helmet's first regular-season game, and the last of the three theme nights Baltimore named for 2026.

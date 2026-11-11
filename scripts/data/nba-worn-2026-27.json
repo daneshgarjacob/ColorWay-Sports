@@ -2175,6 +2175,90 @@
       },
       "confirmed": true,
       "source": "highlight frames via ESPN (Wizards red Icon, Pistons home white)"
+    },
+    "2026-11-10 BOS@PHI": {
+      "score": {
+        "away": 123,
+        "home": 101
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game photos and NBC highlight frames (Celtics green Icon, 76ers home white)"
+    },
+    "2026-11-10 LAC@PHX": {
+      "score": {
+        "away": 110,
+        "home": 133
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "highlight frames via ESPN (Clippers navy Icon, Suns home white)"
+    },
+    "2026-11-10 MIA@UTA": {
+      "score": {
+        "away": 115,
+        "home": 109
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game photo and highlight frames (Jazz purple Icon, Heat white Association)"
+    },
+    "2026-11-10 MIL@NYK": {
+      "score": {
+        "away": 85,
+        "home": 117
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "MSG highlight frames via ESPN (Knicks black Statement, Bucks white Association)"
+    },
+    "2026-11-10 OKC@POR": {
+      "score": {
+        "away": 103,
+        "home": 123
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game photo and NBC highlight frames (Trail Blazers black Icon, Thunder blue Icon)"
+    },
+    "2026-11-10 ORL@SAC": {
+      "score": {
+        "away": 107,
+        "home": 100
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "NBC Sports California highlight frames via ESPN (Kings black Icon, Magic white pinstripe Association)"
     }
   }
 }
