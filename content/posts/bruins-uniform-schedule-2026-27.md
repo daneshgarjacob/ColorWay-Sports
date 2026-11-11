@@ -43,7 +43,7 @@ Boston calls its Hometown Remix the Varsity Sweater. It is the first all-brown B
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLBruins/status/2117270706023182670"></a></blockquote>
 </div>
 
-It debuts Thursday, Nov. 12 against the Montreal Canadiens. The Bruins wear it 12 times this season: Nov. 12 vs. Canadiens, Nov. 14 vs. Wild, Nov. 27 vs. Maple Leafs, Dec. 5 vs. Red Wings, Dec. 12 vs. Devils, Dec. 22 at Islanders, Jan. 6 at Canadiens, Jan. 9 at Red Wings, Jan. 12 vs. Hurricanes, Jan. 30 vs. Maple Leafs, Feb. 15 vs. Ducks and March 6 vs. Penguins. Each one is marked in the game log below. Before the debut, read [what the brown Varsity Sweater looks like and what Montreal wears against it](/stories/bruins-varsity-sweater-hometown-remix-debut-vs-canadiens-2026).
+It debuts Thursday, Nov. 12 against the Montreal Canadiens. The Bruins wear it 12 times this season: Nov. 12 vs. Canadiens, Nov. 14 vs. Wild, Nov. 27 vs. Maple Leafs, Dec. 5 vs. Red Wings, Dec. 12 vs. Devils, Dec. 22 at Islanders, Jan. 6 at Canadiens, Jan. 9 at Red Wings, Jan. 12 vs. Hurricanes, Jan. 30 vs. Maple Leafs, Feb. 15 vs. Ducks and March 6 vs. Penguins. Each one is marked in the game log below. Before the debut, read [what the brown Varsity Sweater looks like and what Montreal wears against it](/stories/bruins-varsity-sweater-hometown-remix-debut-vs-canadiens-2026). For every Bruins sweater since 1924, see our [Boston Bruins uniform history](/stories/boston-bruins-uniform-history).
 
 **Our ranking: No. 27 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 

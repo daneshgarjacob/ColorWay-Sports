@@ -20,7 +20,7 @@ league: nhl
 teams: ["boston-bruins", "montreal-canadiens"]
 ---
 
-**The Bruins go brown on Thursday.** Boston debuts its Hometown Remix jersey, which the team calls the **Varsity Sweater**, against the Montreal Canadiens at TD Garden on **Thursday, Nov. 12, at 7 p.m. Eastern** (NESN in Boston, ESPN+ in the U.S.). It is the **first all-brown Bruins uniform since the club's first season in 1924**.
+**The Bruins go brown on Thursday.** Boston debuts its Hometown Remix jersey, which the team calls the **Varsity Sweater**, against the Montreal Canadiens at TD Garden on **Thursday, Nov. 12, at 7 p.m. Eastern** (NESN in Boston, ESPN+ in the U.S.). It is the **first all-brown Bruins uniform since the club's first season in 1924**. Every sweater in between is in our [Bruins uniform history](/stories/boston-bruins-uniform-history).
 
 The Canadiens are in their Hometown Remix too. Montreal wears its **white** Remix on the road, so the first Original Six game of the Remix season is **brown and gold against white and red**.
 
