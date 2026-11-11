@@ -632,6 +632,7 @@ Pro teams pick names. College teams mostly got stuck with them, from sportswrite
 
 ## More College Football Coverage
 
+- [How every college football team got its colors](/stories/how-every-college-football-team-got-its-colors)
 - [College football Week 8 uniforms 2026: every Top 25 look](/stories/college-football-week-8-uniforms-2026)
 - [How networks pick prime-time games in every sport](/stories/how-networks-pick-prime-time-games-every-sport-2026)
 - [How every NFL team got its name](/stories/how-every-nfl-team-got-its-name)
