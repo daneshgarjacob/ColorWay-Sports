@@ -65,7 +65,7 @@ The 1990s throwback came back in 2023 and has been the most talked-about alterna
 
 That road game matters more than it looks. A visiting team can only wear a colored jersey if the home team wears white, and Dallas is the one club in the league that wears white at home by tradition. So a trip to AT&T Stadium is the rare road date where Kelly Green is actually available to Philadelphia.
 
-The second date is now official too. Philadelphia wears Kelly Green again for **Week 16 against the Houston Texans on Thursday, December 24**, a Christmas Eve home game, confirmed by the club on September 4.
+The second date is now official too. Philadelphia wears Kelly Green again for **Week 16 against the Houston Texans on Thursday, December 24**, a Christmas Eve home game, confirmed by the club on September 4. Every Kelly Green game since the 2023 return, with results, is in [Eagles Kelly Green games](/stories/eagles-kelly-green-games-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Eagles/status/2095874540547043704"></a></blockquote>
