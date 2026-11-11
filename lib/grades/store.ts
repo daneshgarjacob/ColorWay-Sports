@@ -14,6 +14,7 @@
 // lib/grades/schema.sql; keep the two in sync).
 
 import fs from "node:fs/promises";
+import { neon } from "@neondatabase/serverless";
 import path from "node:path";
 import { aggregate, emptyCounts, type Aggregate, type Counts, type Grade } from "./grade";
 
@@ -38,16 +39,21 @@ const DDL = [
 ];
 
 function neonStore(url: string): GradeStore {
-  let sqlP: Promise<import("@neondatabase/serverless").NeonQueryFunction<false, false>> | null = null;
-  const sql = () =>
-    (sqlP ??= import("@neondatabase/serverless").then(async ({ neon }) => {
-      const q = neon(url);
+  // Plain sql.query(text, params) calls rather than tagged templates: the
+  // template form broke in the production bundle ("s(...) is not a function").
+  const q = neon(url);
+  let ready: Promise<void> | null = null;
+  const init = () =>
+    (ready ??= (async () => {
       for (const stmt of DDL) await q.query(stmt);
-      return q;
+    })().catch((e) => {
+      ready = null;
+      throw e;
     }));
 
   const countsFor = async (item: string): Promise<Counts> => {
-    const rows = (await (await sql())`SELECT grade, count(*)::int AS n FROM grades WHERE item = ${item} GROUP BY grade`) as {
+    await init();
+    const rows = (await q.query("SELECT grade, count(*)::int AS n FROM grades WHERE item = $1 GROUP BY grade", [item])) as {
       grade: Grade;
       n: number;
     }[];
@@ -58,9 +64,12 @@ function neonStore(url: string): GradeStore {
 
   return {
     async upsert(item, anonId, grade) {
-      await (await sql())`
-        INSERT INTO grades (item, anon_id, grade) VALUES (${item}, ${anonId}, ${grade})
-        ON CONFLICT (item, anon_id) DO UPDATE SET grade = EXCLUDED.grade, updated_at = now()`;
+      await init();
+      await q.query(
+        `INSERT INTO grades (item, anon_id, grade) VALUES ($1, $2, $3)
+        ON CONFLICT (item, anon_id) DO UPDATE SET grade = EXCLUDED.grade, updated_at = now()`,
+        [item, anonId, grade]
+      );
       return aggregate(item, await countsFor(item));
     },
     async get(item) {
