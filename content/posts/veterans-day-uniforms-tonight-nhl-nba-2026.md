@@ -54,7 +54,7 @@ Nashville is the road team, so expect the Predators in white. [Ducks 2026-27 uni
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlames/status/2120531997315768356"></a></blockquote>
 </div>
 
-[Flames 2026-27 uniform schedule](/stories/flames-uniform-schedule-2026-27)
+[Flames 2026-27 uniform schedule](/stories/flames-uniform-schedule-2026-27) · [Every Flames jersey since 1972](/stories/calgary-flames-jersey-history)
 
 ### Pittsburgh Penguins at San Jose Sharks: Military Appreciation Night
 

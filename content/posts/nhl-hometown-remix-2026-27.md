@@ -63,7 +63,7 @@ Want the dates first? Here is [when every team debuts its Remix jersey](/stories
 
 **Red and gold.** This one is a farewell to the Scotiabank Saddledome in its final season. The Flaming C is done in "88 Gold" with a texture taken from the arena's ceiling, the hem stripe traces the Saddledome's curved roofline, and 1983 and 2027 sit inside the hem for the building's first and last years.
 
-*Debuts Friday, Nov. 6 vs. Anaheim. Worn nine times, all at home.*
+*Debuts Friday, Nov. 6 vs. Anaheim. Worn nine times, all at home.* Where it fits in the club's closet since 1972: [Calgary Flames jersey history](/stories/calgary-flames-jersey-history).
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlames/status/2117270868116033640"></a></blockquote>
