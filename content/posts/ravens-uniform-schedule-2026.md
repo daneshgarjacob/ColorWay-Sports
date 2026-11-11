@@ -81,7 +81,7 @@ Our read: monochrome purple is a look very few teams can pull off, and Baltimore
 
 The black set debuts on Monday Night Football: black jersey, black pants, and the matte black **Darkness** helmet with two-tone talon stripes and the front-facing raven mark with the glowing red eyes. It is the most aggressive piece in the collection, and Baltimore gave it the most aggressive slot, a Monday nighter at home in the middle of November.
 
-The matchup helps. The Chargers have already published their side of this game: white jersey with powder blue pants, per the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026). Black to the floor on one sideline, white and powder on the other, under the lights. That is a genuinely well-designed television game, and it is the one we would circle if you only watch one Ravens home game for the uniforms.
+The matchup helps. The Chargers have already published their side of this game: white jersey with powder blue pants, per the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026). Black to the floor on one sideline, white and powder on the other, under the lights. That is a genuinely well-designed television game, and it is the one we would circle if you only watch one Ravens home game for the uniforms. Everything about the night is in [Ravens Darkness Falls on Monday Night Football](/stories/ravens-darkness-falls-uniforms-monday-night-football-2026).
 
 ## Week 3 in Rio Is the Most Interesting Game on the Calendar
 

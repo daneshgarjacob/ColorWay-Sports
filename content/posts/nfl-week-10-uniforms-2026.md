@@ -63,7 +63,7 @@ Los Angeles published every jersey and pants call on September 1, and this trip 
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chargers-white-road.jpg" alt="Los Angeles Chargers white road jersey, confirmed with powder blue pants at Baltimore on Monday Night Football in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chargers · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/ravens-black-alternate.jpg" alt="Baltimore Ravens black jersey, confirmed for Darkness Falls against the Chargers on Monday Night Football in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Ravens · Confirmed</figcaption></figure></div>
 
-All black against white and powder blue is the sharpest contrast of the week. Our matchup grade: **A-**. See the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026), the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026), and our [review of the Ravens' 2026 uniforms](/stories/ravens-new-uniforms-2026-review).
+All black against white and powder blue is the sharpest contrast of the week. Our matchup grade: **A-**. See the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026), the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026), our [review of the Ravens' 2026 uniforms](/stories/ravens-new-uniforms-2026-review), and everything about [Darkness Falls on Monday night](/stories/ravens-darkness-falls-uniforms-monday-night-football-2026).
 
 ### Pittsburgh Steelers at Cincinnati Bengals: The White Bengal on Sunday Night
 
@@ -85,7 +85,7 @@ White tiger stripes against black and gold in a division game on Sunday night is
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/49ers/status/2004401790595330050"></a></blockquote>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The red 1994 throwback, via <a href="https://x.com/49ers" target="_blank" rel="noopener">@49ers</a></p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The red 1994 throwback, shown in the 49ers' 2025 announcement, via <a href="https://x.com/49ers" target="_blank" rel="noopener">@49ers</a></p>
 
 **Sunday, 4:25 p.m. ET, FOX. 49ers confirmed, Cowboys scheduled.** San Francisco's schedule has the **red 1994 throwback** for this trip, the home jersey of the Super Bowl XXIX team: scarlet with white numbers and a heavy black drop shadow, worn under the modern gold helmet. It is the first of two dates for the red version, with the Eagles in Week 17 the other.
 
@@ -93,7 +93,7 @@ Dallas published **white** for this game on September 2, the silver star helmet 
 
 <div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-white-home.jpg" alt="Dallas Cowboys white jersey, scheduled by the team against the 49ers in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Cowboys · Scheduled</figcaption></figure></div>
 
-Two of the most recognizable looks in the sport, and the 1990s rivalry to go with them. Our matchup grade: **A-**. See the [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026) and the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026).
+Two of the most recognizable looks in the sport, and the 1990s rivalry to go with them. Our matchup grade: **A-**. See the [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026), the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home).
 
 ### Jacksonville Jaguars at Tennessee Titans: Music City Debuts
 
