@@ -61,6 +61,8 @@ Navy building a uniform for a neutral-site Notre Dame game rather than saving it
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/On3/status/1990817796058395117"></a></blockquote>
 </div>
 
+The chevrons are one chapter in a long story. Our [Navy football uniform and logo history](/stories/navy-football-uniform-logo-history) covers the colors, Bill the Goat and every Army-Navy uniform since 2008.
+
 ## Our Grade
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #00205B 0%, #0b2f6e 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0, 32, 91, 0.25); text-align: center;">

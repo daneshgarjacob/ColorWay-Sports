@@ -122,6 +122,8 @@ Navy also comes into December holding the Commander-in-Chief's Trophy after winn
 
 Navy's regular season uniform schedule is simple: navy and gold at home, white on the road unless the home team picks white, gold helmet every single week. What makes this the best uniform program in college football is the two dates it builds something for. One of them is already public, the 1926 Chevron Stripe centennial against Notre Dame at Gillette Stadium on October 31, and it is a real throwback with real math built into the stripes. The other is the Army-Navy Game on December 12, and nobody outside Annapolis and Under Armour has seen it yet. The grid above has every date, and we star each cell as the combination is confirmed.
 
+For where these colors came from, the logos, and every special Army-Navy uniform Navy has worn since 2008, see our [Navy football uniform and logo history](/stories/navy-football-uniform-logo-history).
+
 ## Frequently Asked Questions
 
 **What jersey is Navy wearing this week?**
