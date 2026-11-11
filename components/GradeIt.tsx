@@ -8,6 +8,8 @@ import {
   letterOf,
   letterPercents,
   pretty,
+  score100,
+  score100ForMean,
   standing,
   versusColorway,
   type Aggregate,
@@ -15,11 +17,14 @@ import {
   type Letter,
 } from "@/lib/grades/grade";
 
-// Grade It, phase 1 (review-screens/grade-it-mock.html, frames 1, 4, 5).
-//
-// Five letters, one tap; +/- refine after the tap; then You / Fans / ColorWay
-// on one line, a five-segment bar and a hook line. The grade is changeable
-// (another tap updates the same row, never a second vote).
+// Grade It, Direction B "The Instrument" (review-screens/grade-it-design-
+// directions.html, frames B1, B2). White surface, navy ink, Inter with
+// tabular numerals; one joined five-segment A-F scale with Best / Worst
+// under it; ColorWay's grade in a thin ring at the top right; after the tap
+// three rings (You / Fans / ColorWay, each scored 0-100), a five-column
+// distribution, a one-line hook and Share Your Grade. The only motion is the
+// reader's ring filling to the score (globals.css .gi-arc, collapsed under
+// prefers-reduced-motion).
 //
 // Bandwidth: this renders with the page and makes no request until the reader
 // taps, or until mount finds a grade for this item already in localStorage
@@ -28,6 +33,9 @@ import {
 
 const GRADES_KEY = "cw-grades-v1"; // { [item]: Grade }
 const ANON_KEY = "cw-anon-id"; // random UUID, nothing else
+
+/** Ring geometry: r 42 in a 92 box, 2π·42 ≈ 264. */
+const CIRC = 264;
 
 type Mod = "+" | "-" | "";
 type Fetched = { kind: "idle" } | { kind: "loading" } | { kind: "ok"; agg: Aggregate } | { kind: "off" };
@@ -67,6 +75,60 @@ function anonId(): string {
   } catch {
     return "00000000-0000-4000-8000-000000000000";
   }
+}
+
+const MUTE = "text-[#6b7380]";
+const KICKER = `font-semibold text-[10.5px] uppercase tracking-[0.12em] ${MUTE}`;
+
+/**
+ * One thin ring. `score` 0-100 fills the arc (null = empty track). `animate`
+ * replays the fill whenever `grade` changes (the reader's ring only).
+ */
+function Ring({
+  grade,
+  score,
+  under,
+  accent = false,
+  small = false,
+  animate = false,
+  label,
+}: {
+  grade: string;
+  score: number | null;
+  /** The small line under the grade: the score, or a word. */
+  under: string;
+  accent?: boolean;
+  small?: boolean;
+  animate?: boolean;
+  /** Accessible name for the whole ring. */
+  label: string;
+}) {
+  const px = small ? 72 : 92;
+  const offset = score === null ? CIRC : Math.round(CIRC * (1 - Math.min(100, Math.max(0, score)) / 100));
+  return (
+    <div role="img" aria-label={label} className="relative shrink-0" style={{ width: px, height: px }}>
+      <svg viewBox="0 0 92 92" width={px} height={px} className="-rotate-90" aria-hidden="true">
+        <circle cx="46" cy="46" r="42" fill="none" stroke="#e6e8ec" strokeWidth="5" />
+        <circle
+          key={animate ? grade : undefined}
+          cx="46"
+          cy="46"
+          r="42"
+          fill="none"
+          strokeWidth="5"
+          className={`${accent ? "stroke-orange" : "stroke-navy-deep"} ${animate ? "gi-arc" : ""}`}
+          strokeDasharray={CIRC}
+          style={{ strokeDashoffset: offset }}
+        />
+      </svg>
+      <div className="absolute inset-0 flex flex-col items-center justify-center leading-none" aria-hidden="true">
+        <b className={`font-bold tracking-[-0.03em] text-navy-deep ${small ? "text-[24px]" : "text-[30px]"}`}>{grade}</b>
+        <small className={`mt-[3px] font-medium ${MUTE} ${small ? "text-[7.5px] tracking-[0.04em]" : "text-[10px] tracking-[0.06em]"}`}>
+          {under}
+        </small>
+      </div>
+    </div>
+  );
 }
 
 export type GradeItProps = {
@@ -173,7 +235,21 @@ export default function GradeIt({ item, subject, colorwayGrade, shareUrl }: Grad
   const agg = fetched.kind === "ok" ? fetched.agg : null;
   const hasStats = !!agg && agg.count >= MIN_FOR_STATS;
   const pct = hasStats ? letterPercents(agg.letters, agg.count) : null;
+  const fansScore = hasStats && agg.mean !== null ? score100ForMean(agg.mean) : null;
 
+  // The Fans ring and its caption, by state.
+  let fansGrade = "—";
+  let fansUnder = "";
+  let fansCaption = "";
+  if (hasStats && agg?.fans) {
+    fansGrade = pretty(agg.fans);
+    fansUnder = String(fansScore ?? "");
+    fansCaption = `${agg.count.toLocaleString("en-US")} grades`;
+  } else if (fetched.kind === "loading") fansCaption = "Checking";
+  else if (fetched.kind === "off") fansCaption = "Coming Soon";
+  else if (agg) fansCaption = "Still Early";
+
+  // The one-line hook.
   let line: React.ReactNode = null;
   if (you && fetched.kind === "loading") line = "Checking fan grades…";
   else if (you && fetched.kind === "off") line = "Fan grades are coming soon.";
@@ -183,51 +259,57 @@ export default function GradeIt({ item, subject, colorwayGrade, shareUrl }: Grad
     const s = standing(you, agg.letters, agg.count);
     line = (
       <>
-        You&rsquo;re {s.word} than <b className="font-bold tabular-nums">{s.pct}%</b> of fans.
-        {cw && <> {versusColorway(you, cw)}</>}
+        {s.word === "tougher" ? "Tougher" : "Kinder"} than <b className="font-bold">{s.pct}%</b> of fans.
+        {cw && <span className={MUTE}> {versusColorway(you, cw)}</span>}
       </>
     );
   }
 
   return (
-    <section aria-labelledby="grade-it-title" className="mt-5 border-t border-border pt-4">
+    <section
+      aria-labelledby="grade-it-title"
+      className="mt-5 border-t border-[#e6e8ec] pt-5 font-sans text-navy-deep tabular-nums tracking-[-0.005em] lg:max-w-[460px]"
+    >
       <div className="flex items-start justify-between gap-4">
         <div className="min-w-0">
-          <h3 id="grade-it-title" className="m-0 font-display text-[10.5px] font-extrabold uppercase tracking-[0.16em] text-steel">
+          <h3 id="grade-it-title" className="m-0 text-[16px] font-bold tracking-[-0.01em] text-navy-deep">
             {you ? "Your Grade" : "Grade It"}
           </h3>
-          <p className="mt-1 mb-0 text-[14px] leading-snug text-gray-medium">
-            {you ? "Tap a letter to change it." : "How good is this jersey? One tap."}
+          <p className={`mt-0.5 mb-0 text-[12.5px] leading-snug ${MUTE}`}>
+            {you ? "Tap another letter to change it." : "Tap a letter. Refine with + and −."}
           </p>
         </div>
-        {cw && (
-          <p className="m-0 shrink-0 text-right font-display text-[10.5px] font-extrabold uppercase tracking-[0.16em] text-steel">
-            ColorWay
-            <span className="block mt-0.5 font-sans text-[22px] font-extrabold normal-case tracking-[-0.02em] leading-none text-black tabular-nums">
-              {pretty(cw)}
-            </span>
-          </p>
-        )}
+        {cw && <Ring grade={pretty(cw)} score={score100(cw)} under="COLORWAY" small label={`ColorWay grade ${pretty(cw)}`} />}
       </div>
 
-      <div role="group" aria-label="Your grade, A to F" className="mt-3 grid grid-cols-5 gap-1.5">
-        {LETTERS.map((l) => (
+      <div
+        role="group"
+        aria-label="Your grade, A to F"
+        className="mt-3.5 grid h-[52px] grid-cols-5 overflow-hidden rounded-[6px] border border-navy-deep bg-white"
+      >
+        {LETTERS.map((l, i) => (
           <button
             key={l}
             type="button"
             aria-pressed={letter === l}
             onClick={() => pickLetter(l)}
-            className="h-12 rounded-[6px] border border-[#d4d4d4] bg-white text-[20px] font-bold tracking-[-0.02em] text-black transition-[background-color,border-color,transform] duration-100 hover:border-black active:scale-[0.97] aria-pressed:border-black aria-pressed:bg-black aria-pressed:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange [-webkit-tap-highlight-color:transparent]"
+            className={`h-full text-[17px] font-semibold text-navy-deep transition-colors duration-100 hover:bg-[#f3f4f6] aria-pressed:bg-navy-deep aria-pressed:text-white aria-pressed:hover:bg-navy-deep focus-visible:outline-2 focus-visible:-outline-offset-2 focus-visible:outline-orange [-webkit-tap-highlight-color:transparent] ${
+              i ? "border-l border-[#e6e8ec]" : ""
+            }`}
           >
             {l}
           </button>
         ))}
       </div>
+      <div className={`flex justify-between px-0.5 pt-1.5 text-[10px] font-medium uppercase tracking-[0.08em] ${MUTE}`} aria-hidden="true">
+        <span>Best</span>
+        <span>Worst</span>
+      </div>
 
       {letter && letter !== "F" && (
-        <div className="mt-2.5 flex items-center justify-between gap-3 text-[12.5px] text-steel">
+        <div className={`mt-3 flex items-center justify-between gap-3 text-[12.5px] ${MUTE}`}>
           <span id="grade-refine">Refine It</span>
-          <div role="group" aria-labelledby="grade-refine" className="inline-flex overflow-hidden rounded-[6px] border border-[#d4d4d4]">
+          <div role="group" aria-labelledby="grade-refine" className="flex overflow-hidden rounded-[6px] border border-[#e6e8ec]">
             {(["+", "-"] as const).map((m, i) => (
               <button
                 key={m}
@@ -235,8 +317,8 @@ export default function GradeIt({ item, subject, colorwayGrade, shareUrl }: Grad
                 aria-pressed={mod === m}
                 aria-label={m === "+" ? `${letter} plus` : `${letter} minus`}
                 onClick={() => pickMod(m)}
-                className={`h-11 min-w-[56px] bg-white px-3 text-[16px] font-semibold text-black transition-colors duration-100 aria-pressed:bg-black aria-pressed:text-white focus-visible:outline-2 focus-visible:-outline-offset-2 focus-visible:outline-orange [-webkit-tap-highlight-color:transparent] ${
-                  i ? "border-l border-[#d4d4d4]" : ""
+                className={`h-11 w-12 bg-white text-[18px] text-navy-deep transition-colors duration-100 hover:bg-[#f3f4f6] aria-pressed:bg-[#f3f4f6] aria-pressed:font-bold focus-visible:outline-2 focus-visible:-outline-offset-2 focus-visible:outline-orange [-webkit-tap-highlight-color:transparent] ${
+                  i ? "border-l border-[#e6e8ec]" : ""
                 }`}
               >
                 {m === "+" ? "+" : "−"}
@@ -248,60 +330,52 @@ export default function GradeIt({ item, subject, colorwayGrade, shareUrl }: Grad
 
       <div aria-live="polite">
         {you && (
-          <div className="gi-reveal mt-4 border-t border-border pt-4">
-            <div className="flex items-end justify-between gap-3">
-              <div>
-                <p className="m-0 font-display text-[10.5px] font-extrabold uppercase tracking-[0.16em] text-steel">You</p>
-                <p className="mt-1 mb-0 text-[30px] font-extrabold leading-none tracking-[-0.03em] text-orange tabular-nums">{pretty(you)}</p>
+          <div className="mt-[18px] border-t border-[#e6e8ec] pt-4">
+            <div className="grid grid-cols-3 gap-2">
+              <div className="flex flex-col items-center gap-2">
+                <Ring grade={pretty(you)} score={score100(you)} under={String(score100(you))} accent animate label={`Your grade ${pretty(you)}`} />
+                <p className={`m-0 ${KICKER}`}>You</p>
               </div>
-              <div className={cw ? "" : "text-right"}>
-                <p className="m-0 font-display text-[10.5px] font-extrabold uppercase tracking-[0.16em] text-steel">Fans</p>
-                <p className="mt-1 mb-0 text-[30px] font-extrabold leading-none tracking-[-0.03em] text-black tabular-nums">
-                  {hasStats && agg?.fans ? pretty(agg.fans) : "—"}
-                  {hasStats && agg && (
-                    <span className="ml-1.5 text-[12px] font-medium tracking-normal text-steel">
-                      {agg.count.toLocaleString("en-US")} grades
-                    </span>
-                  )}
-                </p>
+              <div className="flex flex-col items-center gap-2">
+                <Ring grade={fansGrade} score={fansScore} under={fansUnder} label={hasStats ? `Fans grade ${fansGrade}` : "Fans grade not available yet"} />
+                <p className={`m-0 ${KICKER}`}>Fans</p>
+                {fansCaption && <p className={`m-0 -mt-1 text-[11.5px] ${MUTE}`}>{fansCaption}</p>}
               </div>
               {cw && (
-                <div className="text-right">
-                  <p className="m-0 font-display text-[10.5px] font-extrabold uppercase tracking-[0.16em] text-steel">ColorWay</p>
-                  <p className="mt-1 mb-0 text-[30px] font-extrabold leading-none tracking-[-0.03em] text-black tabular-nums">{pretty(cw)}</p>
+                <div className="flex flex-col items-center gap-2">
+                  <Ring grade={pretty(cw)} score={score100(cw)} under={String(score100(cw))} label={`ColorWay grade ${pretty(cw)}`} />
+                  <p className={`m-0 ${KICKER}`}>ColorWay</p>
+                  <p className={`m-0 -mt-1 text-[11.5px] ${MUTE}`}>Our Call</p>
                 </div>
               )}
             </div>
 
-            {hasStats && agg && pct && (
-              <>
-                <div className="mt-3.5 flex h-2 gap-px overflow-hidden rounded-[2px] bg-[#ececec]" aria-hidden="true">
-                  {LETTERS.map((l) => (
-                    <span
-                      key={l}
-                      className={`block h-full ${l === letter ? "bg-orange" : "bg-navy-deep"}`}
-                      style={{ width: `${pct[l]}%`, display: pct[l] ? undefined : "none" }}
-                    />
-                  ))}
-                </div>
-                <dl className="mt-1.5 mb-0 grid grid-cols-5 text-[11px] font-semibold tracking-[0.04em] text-steel tabular-nums">
-                  {LETTERS.map((l) => (
-                    <div key={l} className={`flex gap-1 ${l === letter ? "text-black" : ""}`}>
-                      <dt>{l}</dt>
+            {hasStats && pct && (
+              <dl className="mt-[18px] mb-0 grid h-[74px] grid-cols-5 gap-1.5" aria-label="Fan grades by letter">
+                {LETTERS.map((l) => (
+                  <div key={l} className="flex h-full flex-col">
+                    <div className="flex flex-1 items-end" aria-hidden="true">
+                      <span
+                        className={`block w-full rounded-t-[2px] ${l === letter ? "bg-orange" : "bg-[#c9cdd5]"}`}
+                        style={{ height: pct[l] ? `max(2px, ${pct[l]}%)` : 0 }}
+                      />
+                    </div>
+                    <div className={`flex justify-center gap-1 pt-1.5 text-[11px] leading-none whitespace-nowrap ${MUTE}`}>
+                      <dt className="font-semibold text-navy-deep">{l}</dt>
                       <dd className="m-0">{pct[l]}%</dd>
                     </div>
-                  ))}
-                </dl>
-              </>
+                  </div>
+                ))}
+              </dl>
             )}
 
-            {line && <p className="mt-3 mb-0 text-[14px] leading-snug text-black">{line}</p>}
+            {line && <p className="mt-3.5 mb-0 text-[14px] leading-[1.45] text-navy-deep">{line}</p>}
 
-            <div className="mt-4">
+            <div className="mt-3.5">
               <button
                 type="button"
                 onClick={share}
-                className="h-11 rounded-[6px] bg-black px-4 text-[13px] font-semibold text-white transition-colors hover:bg-navy-deep focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange"
+                className="h-11 rounded-[6px] border border-navy-deep bg-navy-deep px-4 text-[13px] font-semibold text-white transition-colors hover:bg-[#162549] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange"
               >
                 {copied ? "Link Copied" : "Share Your Grade"}
               </button>

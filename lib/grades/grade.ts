@@ -25,6 +25,25 @@ export function gradeForScore(mean: number): Grade {
 
 export const letterOf = (g: Grade): Letter => g[0] as Letter;
 
+/**
+ * The 0..100 figure inside each ring (design board, Direction B): A+ 100
+ * down to D- 60 in steps of 3 or 5, F 50. Indexed like GRADES.
+ */
+const SCORE_100 = [100, 95, 90, 87, 83, 80, 77, 73, 70, 67, 63, 60, 50] as const;
+
+export const score100 = (g: Grade): number => SCORE_100[GRADES.indexOf(g)];
+
+/** The ring figure for a mean on the 0..12 scale, interpolated between neighbouring grades. */
+export function score100ForMean(mean: number): number {
+  const m = Math.min(12, Math.max(0, mean));
+  const lo = Math.floor(m);
+  const hi = Math.ceil(m);
+  const a = SCORE_100[12 - lo];
+  if (hi === lo) return a;
+  const b = SCORE_100[12 - hi];
+  return Math.round(a + (b - a) * (m - lo));
+}
+
 /** "A-" renders with a real minus sign; the data stays ASCII. */
 export const pretty = (g: string) => g.replace("-", "−");
 

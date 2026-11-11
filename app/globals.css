@@ -44,15 +44,15 @@ body {
   animation-delay: 0.15s;
 }
 
-/* Grade It result reveal (components/GradeIt.tsx): one short eased rise.
-   The reduced-motion block below collapses it to nothing. */
-@keyframes giReveal {
-  from { opacity: 0; transform: translateY(4px); }
-  to { opacity: 1; transform: translateY(0); }
+/* Grade It (components/GradeIt.tsx): the reader's ring fills to the score on
+   each tap; "from" only, so it lands on the inline stroke-dashoffset. The
+   reduced-motion block below collapses it to nothing. */
+@keyframes giArc {
+  from { stroke-dashoffset: 264; }
 }
 
-.gi-reveal {
-  animation: giReveal 0.24s ease-out both;
+.gi-arc {
+  animation: giArc 0.5s cubic-bezier(0.3, 0.7, 0.2, 1) both;
 }
 
 /* Smooth scrollbar */
