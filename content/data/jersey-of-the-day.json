@@ -530,6 +530,46 @@
         "label": "Remix debut week: every team"
       }
     ]
+  },
+  "2026-11-11": {
+    "team": "Calgary Flames",
+    "teamShort": "Flames",
+    "league": "NHL",
+    "season": "2026-27",
+    "edition": "Hometown Remix",
+    "jerseyName": "Hometown Remix (Saddledome)",
+    "image": "/images/jersey-of-the-day/flames-hometown-remix-2026-11-11.jpg",
+    "imageAlt": "Calgary Flames players celebrating in the red Hometown Remix jersey with the gold Flaming C and gold hem and sleeve bands",
+    "imagePosition": "center 30%",
+    "credit": {
+      "text": "Calgary Flames",
+      "url": "https://x.com/NHLFlames/status/2119635237718347877",
+      "license": "via the team"
+    },
+    "tweet": {
+      "url": "https://x.com/NHLFlames/status/2117270868116033640",
+      "label": "The Hometown Remix reveal, from the Flames"
+    },
+    "worn": {
+      "date": "2026-11-11",
+      "matchup": "vs. New York Rangers, 7:30 p.m. ET, Remembrance Day game",
+      "status": "Scheduled"
+    },
+    "why": "Red and gold with a stripe shaped like the Saddledome roof, in the building's last season. It's the third-best sweater in the whole Remix program.",
+    "whyPlaceholder": true,
+    "story": "The Flames wear their Hometown Remix jersey tonight at home against the Rangers, Calgary's Remembrance Day game. The sweater is a farewell to the Scotiabank Saddledome in its final season: red with the Flaming C in gold, a gold hem stripe that traces the arena's curved roofline, and 1983 and 2027 set inside the hem for the building's first and last years. It is the third time Calgary has worn it, after a 5-3 loss to Anaheim in the debut and a 4-3 overtime win over Philadelphia, and the Flames wear it nine times this season, all at home. We ranked it third of all 32 Remix jerseys.",
+    "scheduleSlug": "flames-uniform-schedule-2026-27",
+    "scheduleLabel": "Flames 2026-27 uniform schedule",
+    "related": [
+      {
+        "slug": "nhl-hometown-remix-jerseys-ranked",
+        "label": "Every Hometown Remix jersey, ranked"
+      },
+      {
+        "slug": "nhl-military-appreciation-jerseys-2026",
+        "label": "Every NHL Military Appreciation night"
+      }
+    ]
   }
  }
 }
