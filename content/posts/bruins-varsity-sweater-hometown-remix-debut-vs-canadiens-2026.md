@@ -34,7 +34,7 @@ The Canadiens are in their Hometown Remix too. Montreal wears its **white** Remi
 
 The theme is Boston's college hockey scene, the Beanpot city. Here is what the team and the league describe, and what the studio photo shows:
 
-- **Color:** all brown, with gold. The NHL calls the palette "Brownstone." Boston's first uniforms in 1924 were brown and gold, the colors of team owner Charles Adams's grocery chain.
+- **Color:** all brown, with gold. The NHL calls the palette "Brownstone." Boston's first uniforms in 1924 were brown and gold, the colors of team owner Charles Adams's grocery chain, First National Stores.
 - **Chest:** an arched, college-style **BRUINS** wordmark in gold with a black outline, in place of the spoked B.
 - **Front number:** the sweater carries a number on the front, something Boston has not had on a sweater since the 1940s.
 - **Sleeves:** college-style gold and white double stripes.
