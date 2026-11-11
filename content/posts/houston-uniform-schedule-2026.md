@@ -84,7 +84,7 @@ That was the white shell with the red interlocking UH and a red facemask, the wh
 
 **November 7 vs. Cincinnati.** Red expected. Homecoming and the Military Appreciation Game on the same afternoon, which is the combination most likely to produce a one-off helmet decal or a service patch rather than a new jersey. More: [Cincinnati schedule](/stories/cincinnati-uniform-schedule-2026). **Worn: white helmet, red jersey, red pants**, confirmed from the game broadcast. **Final: Houston 31, Cincinnati 24.**
 
-**November 13 at Colorado.** White expected. A Friday night at Folsom Field, 9:15 p.m. Central, on ESPN, against a Colorado side that has a Buffs Wear Black crowd theme for the night. ESPN lists this game under November 14 because its feed runs on UTC. More: [Colorado schedule](/stories/colorado-uniform-schedule-2026).
+**November 13 at Colorado.** White expected. A Friday night at Folsom Field, 9:15 p.m. Central, on ESPN, against a Colorado side that has a Buffs Wear Black crowd theme for the night. ESPN lists this game under November 14 because its feed runs on UTC. Houston unveiled a new white uniform with Houston Blue script on November 11, the [Icy Houston Blues](/stories/houston-icy-houston-blues-uniform-2026), and Boulder is its likely debut. More: [Colorado schedule](/stories/colorado-uniform-schedule-2026).
 
 **November 21 at West Virginia.** White expected, in Morgantown. More: [West Virginia schedule](/stories/west-virginia-uniform-schedule-2026).
 

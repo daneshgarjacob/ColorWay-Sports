@@ -68,7 +68,7 @@ That is the list as of Sunday, November 8. Schools post their combinations from 
 
 ### No. 14 Houston at Colorado: Buffs Wear Black
 
-**Friday, 10:15 p.m. (8:15 p.m. Mountain), ESPN.** **Colorado: Expected, black.** The game carries a Buffs Wear Black crowd theme and a halftime drone show. An all-black Colorado under the lights would match the stands. **Houston: Expected, white.** Houston wore a white helmet, red jersey and red pants for Homecoming last week. More: [Colorado schedule](/stories/colorado-uniform-schedule-2026) and [Houston schedule](/stories/houston-uniform-schedule-2026).
+**Friday, 10:15 p.m. (8:15 p.m. Mountain), ESPN.** **Colorado: Expected, black.** The game carries a Buffs Wear Black crowd theme and a halftime drone show. An all-black Colorado under the lights would match the stands. **Houston: Expected, white.** Houston wore a white helmet, red jersey and red pants for Homecoming last week, and on Wednesday it unveiled the all-white [Icy Houston Blues uniform](/stories/houston-icy-houston-blues-uniform-2026), likely for this game. More: [Colorado schedule](/stories/colorado-uniform-schedule-2026) and [Houston schedule](/stories/houston-uniform-schedule-2026).
 
 ### App State at Marshall: Play For The 75
 
@@ -306,6 +306,7 @@ Also in the afternoon: Kennesaw State at Sam Houston (2 p.m., ESPN+), New Mexico
 - Iowa: **Expected**, black, with an American flag Tigerhawk helmet decal likely if this is its military appreciation game.
 
 **[UNLV](/stories/unlv-uniform-schedule-2026) at No. 23 New Mexico**, 7:30 p.m. (5:30 p.m. Mountain), The CW.
+- New Mexico: **Announced**, turquoise jersey with new silver helmets. [Every detail and our grade](/stories/new-mexico-silver-helmet-turquoise-uniform-unlv-2026).
 - UNLV: **Expected**, white.
 
 **[Stanford](/stories/stanford-uniform-schedule-2026) at [Virginia Tech](/stories/virginia-tech-uniform-schedule-2026)**, 7:30 p.m., ACC Network.
