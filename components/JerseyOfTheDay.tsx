@@ -3,6 +3,7 @@ import { leagueColor } from "@/lib/leagueColors";
 import { imgFitClass, jotdItemKey, shortDate, shortDow, wornWhen, type JotdCredit, type JotdEntry } from "@/lib/jerseyOfTheDay";
 import { AFFILIATE_REL, jotdShopHref, on } from "@/lib/affiliates";
 import GradeIt from "@/components/GradeIt";
+import { gradeItReserveScript } from "@/lib/grades/reserve";
 
 const SITE = "https://www.colorwaysports.com";
 
@@ -126,6 +127,9 @@ export function TodayFeature({ entry, isToday }: { entry: JotdEntry; isToday: bo
           colorwayGrade={entry.colorwayGrade}
           shareUrl={isToday ? `${SITE}/jersey-of-the-day` : `${SITE}/jersey-of-the-day/archive#${entry.date}`}
         />
+        {/* Before first paint, reserve the results panel's height for a
+            reader who already graded this jersey (lib/grades/reserve.ts). */}
+        <script dangerouslySetInnerHTML={{ __html: gradeItReserveScript(jotdItemKey(entry.date)) }} />
 
         {/* Jake's line. whyPlaceholder marks a drafted line still awaiting
             Jake's approval; it is a data flag only and renders like an

@@ -3,6 +3,7 @@ import Script from "next/script";
 import localFont from "next/font/local";
 import EmailCapture from "@/components/EmailCapture";
 import PushPromptGate from "@/components/PushPromptGate";
+import EmbedScripts from "@/components/EmbedScripts";
 import "./globals.css";
 
 // Self-hosted (latin variable fonts from Google Fonts, saved 10/14). next/font/google broke
@@ -141,14 +142,9 @@ export default function RootLayout({
             gtag('config', 'G-RKP192Y1DM');
           `}
         </Script>
-        <Script
-          src="https://platform.twitter.com/widgets.js"
-          strategy="afterInteractive"
-        />
-        <Script
-          src="https://www.instagram.com/embed.js"
-          strategy="afterInteractive"
-        />
+        {/* X and Instagram embed scripts load only on pages with an embedded
+            post (components/EmbedScripts.tsx); they used to load everywhere. */}
+        <EmbedScripts />
         {/* Microsoft Clarity heatmaps (Jake 11/9). lazyOnload so it waits until the
             page and the ad scripts are done. */}
         <Script id="ms-clarity" strategy="lazyOnload">

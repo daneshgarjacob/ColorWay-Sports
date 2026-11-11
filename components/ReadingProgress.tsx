@@ -33,13 +33,16 @@ export default function ReadingProgress() {
 
   return (
     <div className="fixed top-0 left-0 right-0 h-[3px] z-[60] pointer-events-none" aria-hidden="true">
+      {/* scaleX, not width: a transform is drawn by the compositor, while a
+          width change re-runs layout on every scroll frame (scroll jank and
+          slower taps on long, ad-heavy pages). */}
       <div
-        className="h-full"
+        className="h-full w-full origin-left"
         style={{
-          width: `${progress}%`,
+          transform: `scaleX(${progress / 100})`,
           background: "linear-gradient(90deg, #2f6bed 0%, #5b8def 100%)",
           boxShadow: progress > 0 ? "0 0 8px rgba(255,89,16,0.45)" : "none",
-          transition: "width 80ms linear",
+          transition: "transform 80ms linear",
         }}
       />
     </div>

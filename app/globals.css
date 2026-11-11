@@ -55,6 +55,13 @@ body {
   animation: giArc 0.5s cubic-bezier(0.3, 0.7, 0.2, 1) both;
 }
 
+/* A reader who already graded today's jersey: lib/grades/reserve.ts marks the
+   box before first paint and this holds the opened results panel's height, so
+   the panel opening after hydration does not push the page down (CLS). */
+.gi-box[data-graded] {
+  min-height: 600px;
+}
+
 /* Smooth scrollbar */
 html {
   scroll-behavior: smooth;

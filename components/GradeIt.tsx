@@ -16,6 +16,7 @@ import {
   type Grade,
   type Letter,
 } from "@/lib/grades/grade";
+import { GRADES_KEY, gradeItSectionId } from "@/lib/grades/reserve";
 
 // Grade It, Direction B "The Instrument" (review-screens/grade-it-design-
 // directions.html, frames B1, B2). White surface, navy ink, Inter with
@@ -31,7 +32,7 @@ import {
 // (then one cached GET for the aggregate). The server never renders a grade,
 // so the first client render matches the HTML and hydration is clean.
 
-const GRADES_KEY = "cw-grades-v1"; // { [item]: Grade }
+// GRADES_KEY: { [item]: Grade } in localStorage (lib/grades/reserve.ts).
 const ANON_KEY = "cw-anon-id"; // random UUID, nothing else
 
 /** Ring geometry: r 42 in a 92 box, 2π·42 ≈ 264. */
@@ -267,8 +268,12 @@ export default function GradeIt({ item, subject, colorwayGrade, shareUrl }: Grad
 
   return (
     <section
+      id={gradeItSectionId(item)}
+      // gradeItReserveScript (rendered after this by the page) may add
+      // data-graded before hydration; React leaves that attribute alone.
+      suppressHydrationWarning
       aria-labelledby="grade-it-title"
-      className="mt-5 border-t border-[#e6e8ec] pt-5 font-sans text-navy-deep tabular-nums tracking-[-0.005em] lg:max-w-[460px]"
+      className="gi-box mt-5 border-t border-[#e6e8ec] pt-5 font-sans text-navy-deep tabular-nums tracking-[-0.005em] lg:max-w-[460px]"
     >
       <div className="flex items-start justify-between gap-4">
         <div className="min-w-0">
@@ -350,6 +355,9 @@ export default function GradeIt({ item, subject, colorwayGrade, shareUrl }: Grad
               )}
             </div>
 
+            {/* While the fan numbers load, hold the chart's space so the
+                bars arriving do not push the rest of the page down (CLS). */}
+            {!hasStats && fetched.kind === "loading" && <div className="mt-[18px] h-[74px]" aria-hidden="true" />}
             {hasStats && pct && (
               <dl className="mt-[18px] mb-0 grid h-[74px] grid-cols-5 gap-1.5" aria-label="Fan grades by letter">
                 {LETTERS.map((l) => (

@@ -6,6 +6,7 @@ import remarkParse from "remark-parse";
 import remarkRehype from "remark-rehype";
 import rehypeRaw from "rehype-raw";
 import rehypeStringify from "rehype-stringify";
+import imageDims from "@/content/data/image-dims.json";
 
 const postsDirectory = path.join(process.cwd(), "content/posts");
 
@@ -152,11 +153,33 @@ function rehypeHeadingIds(collected: HeadingItem[]) {
 // scrolls to it — a real Fast Data Transfer cost. loading="lazy" defers
 // off-screen images until they scroll into view. The FIRST image stays eager so
 // the largest-contentful-paint element is never delayed.
+//
+// It also stamps width/height on local images that lack them, from the
+// build-time list in content/data/image-dims.json (scripts/gen-image-dims.mjs).
+// Without them the browser cannot reserve an image's box before the file
+// arrives, so every photo pushed the text below it down as it loaded (layout
+// shift / CLS). CSS still sets the displayed size (Tailwind's base rule is
+// max-width:100%; height:auto), so nothing looks different; the attributes
+// only give the browser the aspect ratio up front.
+const IMAGE_DIMS = imageDims as unknown as Record<string, [number, number]>;
+
 function rehypeLazyImages() {
   return () => (tree: HastNode) => {
     let first = true;
     const visit = (node: HastNode) => {
       if (node.type === "element" && node.tagName === "img") {
+        const props = node.properties || {};
+        const src = typeof props.src === "string" ? props.src.split(/[?#]/)[0] : "";
+        const dims = src ? IMAGE_DIMS[src] : undefined;
+        // Skipped when the markup sets any height (style or an h-/max-h- class):
+        // there a width attribute would stop the browser deriving the width
+        // from that height and could stretch the image.
+        const style = typeof props.style === "string" ? props.style : "";
+        const cls = Array.isArray(props.className) ? props.className.join(" ") : String(props.className ?? "");
+        const setsHeight = /height/i.test(style) || /(^|\s)(max-|min-)?h-/.test(cls);
+        if (dims && !setsHeight && props.width === undefined && props.height === undefined) {
+          node.properties = { ...props, width: dims[0], height: dims[1] };
+        }
         if (first) {
           first = false; // keep the hero image eager for LCP
         } else if (node.properties?.loading === undefined) {

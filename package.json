@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prebuild": "node scripts/gen-nfl-jersey-manifest.mjs",
+    "prebuild": "node scripts/gen-nfl-jersey-manifest.mjs && node scripts/gen-image-dims.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
