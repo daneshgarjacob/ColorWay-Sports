@@ -3,7 +3,7 @@ title: "Army Uniform Schedule 2026: Every Jersey and When the Black Knights Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-11"
 excerpt: "What Army wears every game in 2026: the black home jersey, the white road set, the gold helmet, and the December tribute uniform nobody has seen yet."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #D3BC8D 130%)"
 cardStyle: words
@@ -100,7 +100,7 @@ Everything else about this season comes down to pants. Black jersey with gold pa
 
 ## What Army Wears Against Navy, and What We Know About 2026
 
-Nothing has been announced. That is the honest answer as of October 4, from either academy, and it is what the calendar would predict: Army's Army-Navy uniform reveal usually lands in mid-November, roughly a month out. Last year the unveiling came on November 13.
+**Update, November 11: it's the Ivy Soldier.** Army and Nike revealed the 2026 uniform on November 8: an ivy-green camouflage set honoring the **4th Infantry Division**, with a green helmet carrying a white IV, STEADFAST and LOYAL on the shell, a lime facemask, an ivy-wrapped Athena shield and a September 11 decal for the 25th anniversary. We broke down every detail and graded it a B: [Army's Ivy Soldier Army-Navy uniform, graded](/stories/army-navy-2026-uniform-ivy-soldier-4th-infantry-division-graded). Navy has not revealed its uniform yet. Before the reveal, Army's unveiling usually landed in mid-November; last year it came on November 13.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/USArmy/status/1988924805089800578"></a></blockquote>
@@ -132,11 +132,11 @@ A black home jersey with gold numerals and a gold ARMY wordmark, a white road je
 
 **Does Army have a new alternate uniform in 2026?**
 
-Nothing has been announced yet. The alternate Army wears every season is the Army-Navy Game uniform, a one-off Nike build that changes every December, and the 2026 version has not been revealed. Last year's reveal came on November 13, so expect the same window this fall.
+Yes, for one game. The alternate Army wears every season is the Army-Navy Game uniform, a one-off Nike build that changes every December. The 2026 version is the green Ivy Soldier set for the 4th Infantry Division, revealed November 8. [Every detail and our B grade](/stories/army-navy-2026-uniform-ivy-soldier-4th-infantry-division-graded).
 
 **What is Army wearing for the Army-Navy Game in 2026?**
 
-Unknown as of October 4. Neither Army nor Navy has revealed its uniform yet. The 127th Army-Navy Game is Saturday, December 12 at 3 p.m. Eastern on CBS at MetLife Stadium in East Rutherford, New Jersey. Army has honored a different unit or era each year, from the 101st Airborne Division in 2024 to 250 years of Army service in 2025, and the 2026 design will be unveiled closer to the game. We will update this page the day it drops.
+The Ivy Soldier uniform, honoring the 4th Infantry Division: an olive camouflage jersey and pants, a green helmet with a white IV, STEADFAST and LOYAL on the shell and a lime facemask, plus a September 11 decal for the 25th anniversary. Army revealed it on November 8; Navy has not revealed its uniform yet. The 127th Army-Navy Game is Saturday, December 12 at 3 p.m. Eastern on CBS at MetLife Stadium in East Rutherford, New Jersey. [Our full breakdown and grade](/stories/army-navy-2026-uniform-ivy-soldier-4th-infantry-division-graded).
 
 **What did Army wear against South Florida?**
 

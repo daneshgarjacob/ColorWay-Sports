@@ -3,7 +3,7 @@ title: "Navy Uniform Schedule 2026: Every Jersey and When the Midshipmen Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-11"
 excerpt: "What Navy wears every game in 2026: the navy home jersey, the white road set, the 1926 centennial throwback against Notre Dame, and the December tribute."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b3072 55%, #C5B783 130%)"
 cardStyle: words
@@ -98,7 +98,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
 
 ## What Navy Wears Against Army, and What We Know About 2026
 
-Nothing has been announced. Navy's Army-Navy uniform reveal has landed in the second half of November in recent seasons, and last year it dropped on November 18.
+Nothing has been announced. Navy's Army-Navy uniform reveal has landed in the second half of November in recent seasons, and last year it dropped on November 18. Army has already shown its side: the green [Ivy Soldier uniform for the 4th Infantry Division](/stories/army-navy-2026-uniform-ivy-soldier-4th-infantry-division-graded), revealed November 8. We graded it a B.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/On3/status/1990817796058395117"></a></blockquote>
