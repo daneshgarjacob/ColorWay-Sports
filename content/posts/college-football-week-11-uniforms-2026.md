@@ -3,7 +3,7 @@ title: "College Football Week 11 Uniforms 2026: Texas at LSU, Marshall's Play Fo
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-08"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-11"
 excerpt: "College football Week 11 uniforms: Texas at LSU, Utah at Arizona, USC at Indiana, and Marshall's Play For The 75 against App State. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #2a1a08 60%, #BF5700 130%)"
 coverImage: "/images/posts/college-football-week-11-uniforms-2026/cover.jpg"
@@ -23,8 +23,10 @@ Below is every uniform announced so far, then every game this week involving an 
 ## Every Uniform Announced for Week 11
 
 - **Florida: orange, white, orange (Confirmed).** Orange helmet, white jersey, orange pants, at No. 13 Kentucky, from the season uniform schedule Florida published in August.
+- **Kentucky: Night Ops, all black (Confirmed).** Matte black helmet with a blue and white stripe, black jersey with white numbers, black pants, vs. Florida. Posted November 11. [Our grade](/stories/kentucky-night-ops-all-black-uniforms-florida-2026).
+- **Texas A&M: all black with script Aggies (Confirmed).** Black helmet with a white "Aggies" script, black jersey, black pants, vs. Tennessee, plus new script Aggies end zones at Kyle Field. Posted November 11. [Details](/stories/texas-am-all-black-script-aggies-end-zones-tennessee-2026).
 
-That is the list as of Sunday, November 8. Schools post their combinations from Monday through Saturday morning, and we add each one here.
+That is the list as of Wednesday, November 11. Schools post their combinations from Monday through Saturday morning, and we add each one here.
 
 ## Games of the Week
 
@@ -52,7 +54,7 @@ That is the list as of Sunday, November 8. Schools post their combinations from 
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Florida's 2026 uniform schedule, via Florida Gators Football</p>
 
-**Kentucky: Expected, blue.** Kentucky has worn a blue jersey at home against Alabama and South Alabama, a gray jersey against Vanderbilt and its Power K throwback against LSU. It wore its ICE COLD chrome helmet and all white at Tennessee last week. More: [Florida schedule](/stories/florida-uniform-schedule-2026) and [Kentucky schedule](/stories/kentucky-uniform-schedule-2026).
+**Kentucky: Confirmed, Night Ops.** Kentucky posted an all-black **Night Ops** uniform on November 11: a matte black helmet with a blue and white stripe, a black jersey with white numbers and black pants. Black against Florida's white and orange under the lights. [Kentucky's Night Ops uniform, graded](/stories/kentucky-night-ops-all-black-uniforms-florida-2026). More: [Florida schedule](/stories/florida-uniform-schedule-2026) and [Kentucky schedule](/stories/kentucky-uniform-schedule-2026).
 
 ### No. 11 Wake Forest at No. 25 SMU: Homecoming in Dallas
 
@@ -60,7 +62,7 @@ That is the list as of Sunday, November 8. Schools post their combinations from 
 
 ### No. 9 Tennessee at Texas A&M
 
-**Saturday, 3 p.m., ESPN.** **Texas A&M: Expected, maroon.** This is the biggest home game left on the Aggies' schedule before Texas on November 27, and it is the kind of date our [Texas A&M schedule](/stories/texas-am-uniform-schedule-2026) flags for a maroon-on-maroon look. A&M wore a white jersey and maroon pants at South Carolina last week, and camo against Arkansas on October 3. **Tennessee: Expected, white.** Tennessee has gone all white in road games at Georgia Tech, Arkansas and South Carolina, one week after its all-black Dark Mode win over Kentucky. More: [Tennessee schedule](/stories/tennessee-uniform-schedule-2026).
+**Saturday, 3 p.m., ESPN.** **Texas A&M: Confirmed, all black.** On November 11 A&M posted a black uniform with a white "Aggies" script on the black helmet, and painted matching **script Aggies end zones** at Kyle Field. [Texas A&M goes all black with script Aggies end zones](/stories/texas-am-all-black-script-aggies-end-zones-tennessee-2026). More in our [Texas A&M schedule](/stories/texas-am-uniform-schedule-2026). **Tennessee: Expected, white.** Tennessee has gone all white in road games at Georgia Tech, Arkansas and South Carolina, one week after its all-black Dark Mode win over Kentucky. More: [Tennessee schedule](/stories/tennessee-uniform-schedule-2026).
 
 ### Michigan at No. 18 Oregon
 

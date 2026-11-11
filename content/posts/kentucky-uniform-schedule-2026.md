@@ -3,7 +3,7 @@ title: "Kentucky Uniform Schedule 2026: Every Jersey and When the Wildcats Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-11"
 excerpt: "Kentucky goes black helmet, white jersey, black pants at Oklahoma on Oct. 17. The full 2026 uniform schedule: blue at home, white on the road, every helmet."
 gradient: "linear-gradient(135deg, #0033A0 0%, #0a2a70 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -77,7 +77,7 @@ Home cells are blue, road cells are white, and a star marks a combination that h
 
 **November 7 at Tennessee**, Knoxville, 6:15 p.m. Eastern on ESPN. ★ Announced by the team on November 3 as "ICE COLD": **chrome helmet, white jersey, white pants**, the same combination as South Carolina. Tennessee wears its all-black Dark Mode. Our grade and the photos: [Kentucky's ice cold uniform for Tennessee](/stories/kentucky-ice-white-chrome-helmet-tennessee-2026). [Tennessee 2026 uniform schedule](/stories/tennessee-uniform-schedule-2026). Worn as posted, confirmed from the game broadcast. **Final: Tennessee 34, Kentucky 6.**
 
-**November 14 vs. Florida**, Lexington. Blue expected. Florida visits in white. [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026).
+**November 14 vs. Florida**, Lexington, 6:15 p.m. Eastern on ESPN. Announced by the team on November 11 as **Night Ops**: a matte black helmet with a blue and white stripe, a black jersey with white numbers and black pants. Florida visits in white with orange pants. Our grade and every detail: [Kentucky's Night Ops uniform](/stories/kentucky-night-ops-all-black-uniforms-florida-2026). [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026).
 
 **November 21 at Missouri**, Columbia. White expected. [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026).
 

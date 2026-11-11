@@ -3,7 +3,7 @@ title: "Texas A&M Uniform Schedule 2026: Every Jersey and When the Aggies Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-11"
 excerpt: "What Texas A&M wears every game in 2026. The confirmed camo date, the maroon home set, the white road set, and a week-by-week outlook for all twelve games."
 gradient: "linear-gradient(135deg, #500000 0%, #2a1414 55%, #C2B280 130%)"
 cardStyle: words
@@ -88,7 +88,7 @@ One thing to understand before the table below: **SEC home teams wear colored je
 
 **November 7 at South Carolina, Columbia.** Road. White expected. **Worn: white jersey, maroon pants**, confirmed from the game broadcast. **Final: South Carolina 17, Texas A&M 9.**
 
-**November 14 vs. Tennessee, Kyle Field.** Home, and the biggest home game left on the board after Texas. Maroon expected, and a candidate for a maroon-on-maroon or throwback treatment if A&M has one held back.
+**November 14 vs. Tennessee, Kyle Field.** Home, 3 p.m. Eastern on ESPN. On November 11 the team posted a **black uniform** (black helmet with a white "Aggies" script, black jersey, black pants) under "Paint it black," plus new **script Aggies end zones** painted at Kyle Field. Details: [Texas A&M goes all black with script Aggies end zones](/stories/texas-am-all-black-script-aggies-end-zones-tennessee-2026).
 
 **November 21 at Oklahoma, Norman.** Road. White expected.
 
@@ -126,7 +126,7 @@ Expected, yes. The November 27 rivalry game is at Kyle Field, so Texas A&M is th
 
 **Does Texas A&M have a black jersey in 2026?**
 
-Texas A&M carries a black alternate in its adidas wardrobe, but no 2026 game has been assigned to it. If that changes we will add the date here.
+Yes. Texas A&M posted a black uniform on November 11 for Tennessee week, with a white "Aggies" script on the black helmet. See [Texas A&M goes all black with script Aggies end zones](/stories/texas-am-all-black-script-aggies-end-zones-tennessee-2026).
 
 **Why is Texas A&M wearing camo?**
 
