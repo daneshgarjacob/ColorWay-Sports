@@ -81,6 +81,8 @@ The ivy itself comes from the numeral. The division was constituted in 1917 as t
 
 ## How It Fits Army's Recent Army-Navy Uniforms
 
+Every Army-Navy tribute uniform since 2008 is in our [Army football uniform and logo history](/stories/army-football-uniform-logo-history).
+
 Army has honored a different unit almost every December:
 
 - **2020:** 25th Infantry Division

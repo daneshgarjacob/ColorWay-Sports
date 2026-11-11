@@ -28,7 +28,7 @@ This is the full history: where the colors and the names came from, how the logo
 - **Why gray?** Cadets have worn gray since **1816**. West Point's own history says gray cloth was cheaper than indigo-dyed blue during the War of 1812. The popular story that it honors Winfield Scott's gray-clad troops at Chippewa in 1814 is repeated often but disputed.
 - **When did "Black Knights" become official?** In **1999**. Before that the teams were mostly called the Cadets.
 - **What is Army's logo?** The **Athena Shield**, introduced on April 13, 2015 when the teams became "Army West Point."
-- **What is Army wearing against Navy in 2026?** The **Ivy Soldier** uniform honoring the 4th Infantry Division, revealed November 8, 2026.
+- **What is Army wearing against Navy in 2026?** The **Ivy Soldier** uniform honoring the 4th Infantry Division, revealed November 8, 2026. Our grade and piece-by-piece breakdown: [Army's Ivy Soldier uniform, graded](/stories/army-navy-2026-uniform-ivy-soldier-4th-infantry-division-graded).
 
 ## The Names: Cadets, Black Knights Of The Hudson, Black Knights
 
