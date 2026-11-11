@@ -6,7 +6,6 @@ import StoriesFilter from "@/components/StoriesFilter";
 import { storiesMetadata } from "@/lib/storyFilters";
 import TeamQuickLinks from "@/components/TeamQuickLinks";
 import { buildTeamQuickLinks, resolveTeamQuickLinks } from "@/lib/teamQuickLinks";
-import { Suspense } from "react";
 import { StoriesGuide } from "@/components/StoriesGuide";
 import PopularSchedules from "@/components/home/PopularSchedules";
 import { getMyTeamCards } from "@/lib/myTeams";
@@ -27,12 +26,21 @@ export async function generateMetadata({
   searchParams: SearchParams;
 }): Promise<Metadata> {
   const sp = await searchParams;
-  return storiesMetadata({
+  const meta = storiesMetadata({
     league: first(sp.league),
     team: first(sp.team),
     query: first(sp.q),
   });
+  // Page 2+ of a list (StoriesFilter paging): crawlable, so older stories
+  // keep an internal link, but not a page to rank on its own.
+  if (pageNumber(sp.page) > 1) meta.robots = { index: false, follow: true };
+  return meta;
 }
+
+const pageNumber = (v: string | string[] | undefined) => {
+  const n = parseInt(first(v) ?? "", 10);
+  return Number.isFinite(n) && n > 1 ? n : 1;
+};
 
 // Hand-built cards for the interactive World Cup tools. They're standalone pages,
 // not markdown posts, so we inject them here and pin them to the top of the grid
@@ -92,9 +100,9 @@ export default async function StoriesPage({
   return (
     <>
       <Header />
-      <Suspense fallback={<div className="max-w-[1200px] mx-auto px-5 py-12">Loading...</div>}>
-        <StoriesFilter
+      <StoriesFilter
           posts={allCards}
+          view={{ league: first(sp.league), team: first(sp.team), query: first(sp.q), page: pageNumber(sp.page) }}
           // A team named in a search ("what are the bears wearing") pins that
           // team's uniform schedule post to the top of the results.
           prioritySlugs={quickLinkTeams.flatMap((t) =>
@@ -104,7 +112,6 @@ export default async function StoriesPage({
           )}
           quickLinks={<TeamQuickLinks teams={quickLinkTeams} />}
         />
-      </Suspense>
       {/* 11/5: the most-searched team schedule posts for this week's games, on
           the main view, so a reader browsing the index has a direct path into
           the pages Google readers want most. */}
