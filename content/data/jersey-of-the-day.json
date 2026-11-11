@@ -571,6 +571,43 @@
         "label": "Every NHL Military Appreciation night"
       }
     ]
+  },
+  "2026-11-12": {
+    "team": "New York Giants",
+    "teamShort": "Giants",
+    "league": "NFL",
+    "season": "2026",
+    "edition": "Vintage White",
+    "jerseyName": "Vintage White",
+    "colorwayGrade": "A",
+    "image": "/images/posts/giants-vintage-white-vs-eagles-kelly-green-2026/cover-game.jpg",
+    "imageAlt": "New York Giants player in the Vintage White uniform: white jersey with blue numbers outlined in red, white pants and the navy helmet with the GIANTS wordmark",
+    "imagePosition": "center center",
+    "credit": {
+      "text": "New York Giants",
+      "url": "https://x.com/Giants/status/2119507350063337739",
+      "license": "via the team"
+    },
+    "worn": {
+      "date": "2026-11-12",
+      "matchup": "vs. Washington Commanders, 8:15 p.m. ET on Prime Video (Thursday Night Football)",
+      "status": "Announced"
+    },
+    "why": "The best uniform the Giants own: white with blue numbers outlined in red, the road look they wore for two decades. Under the lights against burgundy and gold, it's an A.",
+    "whyPlaceholder": true,
+    "story": "The Giants wear Vintage White tonight at MetLife Stadium against Washington on Thursday Night Football: a white jersey with blue numbers outlined in red, white pants and the navy helmet with the GIANTS wordmark. It is the second straight week in the set, after a 19-11 win at Philadelphia on Sunday when the Eagles wore Kelly Green. The Commanders are scheduled to wear burgundy. The Giants first built Vintage White in 2016 for the league's Color Rush program, and it is the road twin of their Legacy uniform.",
+    "scheduleSlug": "new-york-giants-uniform-schedule-2026",
+    "scheduleLabel": "Giants 2026 uniform schedule",
+    "related": [
+      {
+        "slug": "giants-vintage-white-eagles-commanders-2026",
+        "label": "Vintage White is back for two weeks"
+      },
+      {
+        "slug": "giants-vintage-white-vs-eagles-kelly-green-2026",
+        "label": "Giants Vintage White vs. Eagles Kelly Green"
+      }
+    ]
   }
  }
 }
