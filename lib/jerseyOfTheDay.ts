@@ -38,6 +38,9 @@ export type JotdEntry = {
   shopQuery?: string;
   /** false hides the Fanatics link for that day (a jersey Fanatics does not sell). */
   shop?: boolean;
+  /** ColorWay's own grade for the Grade It control ("C+"); A+ to F. Shown
+   *  up front next to the reader's scale only when set (lib/grades/grade.ts). */
+  colorwayGrade?: string;
   /** Internal note for whoever fills the schedule; never rendered. */
   _editorNote?: string;
   story: string;
@@ -85,6 +88,23 @@ export function pickFor(today = etToday()): { entry: JotdEntry | null; isToday: 
   const past = publishedEntries(today);
   const entry = past[past.length - 1] ?? ALL[0] ?? null;
   return { entry, isToday: entry?.date === today };
+}
+
+/** Grade It item key for a day's pick ("jotd:2026-11-10"). */
+export const jotdItemKey = (date: string) => `jotd:${date}`;
+
+/**
+ * The entry a Grade It item key points at, or null when the key is not a
+ * published pick. Accepts tomorrow's date too (a reader just past Eastern
+ * midnight whose page was rendered before it) but never anything later.
+ */
+export function entryForItem(item: string, today = etToday()): JotdEntry | null {
+  const m = /^jotd:(\d{4}-\d{2}-\d{2})$/.exec(item);
+  if (!m) return null;
+  const date = m[1];
+  const limit = new Date(Date.parse(today + "T00:00:00Z") + 86_400_000).toISOString().slice(0, 10);
+  if (date > limit) return null;
+  return ALL.find((e) => e.date === date) ?? null;
 }
 
 /** The 7 days ending on `date` that have an entry, newest last. */

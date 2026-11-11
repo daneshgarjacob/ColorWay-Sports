@@ -46,3 +46,6 @@ next-env.d.ts
 
 # scratch caches for schedule-feed scripts
 /.cache/
+
+# Grade It local store (lib/grades/store.ts, development only)
+/.data/
