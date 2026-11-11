@@ -24,7 +24,7 @@ Every Cup court is **painted solid in a team color** with an **oversized tonal w
 
 The look is **inspired by Nike's "End of Ordinary" NBA Standard Issue Collection**, and teams wear their **Statement Edition uniforms** in every Cup game, per [NBC Sports](https://www.nbcsports.com/nba/news/nba-unveils-nba-cup-courts-bold-colors-are-back-fans-will-know-its-a-cup-game).
 
-Group play starts **October 30**, the quarterfinals are December 4 and 5, and the **final is December 11 at Hinkle Fieldhouse in Indianapolis** on Prime Video, per [NBA.com](https://www.nba.com/news/emirates-nba-cup-2026-groups-announced). The Knicks are the defending champions, and [ESPN reports](https://www.espn.com/nba/story/_/id/50174098/2026-nba-cup-tournament-court-designs) each winning player gets more than $500,000. Every new jersey and court is in our [NBA uniforms hub](/stories/nba-uniforms-2026-27).
+Group play starts **October 30**, the quarterfinals are December 4 and 5, and the **final is December 11 at Hinkle Fieldhouse in Indianapolis** on Prime Video, per [NBA.com](https://www.nba.com/news/emirates-nba-cup-2026-groups-announced). The Knicks are the defending champions, and [ESPN reports](https://www.espn.com/nba/story/_/id/50174098/2026-nba-cup-tournament-court-designs) each winning player gets more than $500,000. Every new jersey and court is in our [NBA uniforms hub](/stories/nba-uniforms-2026-27). Playing Friday, November 13: [every Cup court and jersey for all 9 games](/stories/nba-cup-november-13-2026-courts-jerseys).
 
 ## 30. Milwaukee Bucks NBA Cup Court
 
