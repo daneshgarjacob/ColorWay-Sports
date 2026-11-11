@@ -5,9 +5,7 @@ date: "2026-08-15"
 updatedDate: "2026-09-16"
 excerpt: "Nebraska, Washington and Louisville all dropped black alternate jerseys this week. We graded all three uniforms, and one of them is a total identity wipe."
 gradient: "linear-gradient(135deg, #1a1a1a 0%, #000000 55%, #4B2E83 130%)"
-coverImage: "/images/posts/college-football-blackout-uniforms-2026-ranked/cover.jpg"
-coverImagePosition: "center center"
-coverImageFit: "cover"
+logoSrc: "/logos/leagues/college-football.svg"
 league: "college"
 teams: []
 ---

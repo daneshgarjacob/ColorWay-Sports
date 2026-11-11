@@ -29,9 +29,6 @@ The Los Angeles Rams are unveiling a new logo and new uniforms tomorrow, April 1
 
 The biggest confirmed change is the death of the gradient. The white-to-yellow gradient that has been on the Rams' LA logo, number fonts, and uniform details since 2020 is gone. The new LA logo will feature a flat gold throughout, replacing the gradient entirely. The leaked draft hat from late March gave us our first look at the updated design, and while the shape of the LA is similar, the clean, solid coloring makes it look like a completely different logo.
 
-<img src="/images/posts/rams-draft-hat-2026/rams-draft-hat-front.jpg" alt="Rams 2026 NFL Draft Hat showing new flat gold LA logo without gradient" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @ZachCohenFB on X</p>
-
 Reports also indicate the Rams are introducing a brand new wordmark. The draft hat leak showed an angular, italicized "RAMS" typeface on the snapback that has a speed-stripe feel to it. If that wordmark carries over to the jerseys and brand materials, it would be a major upgrade over the plain block text the team has been using since 2020.
 
 <img src="/images/posts/rams-new-uniforms-2026-review/HGCYhDTbcAAgtIc.jpg" alt="Los Angeles Rams new italicized RAMS wordmark, 2026 blueprint" style="width: 100%; border-radius: 10px;" />

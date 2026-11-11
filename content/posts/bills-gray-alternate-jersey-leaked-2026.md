@@ -6,14 +6,9 @@ excerpt: "A gray Buffalo Bills alternate jersey has surfaced online. We break do
 gradient: "linear-gradient(135deg, #C8C8C8 0%, #00338D 50%, #C60C30 100%)"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-buffalo-bills.png"
-coverImage: "/images/posts/bills-gray-alternate-2026/bills-gray-front.jpg"
-coverImagePosition: "center 20%"
 league: "nfl"
 teams: ["buffalo-bills"]
 ---
-
-<img src="/images/posts/bills-gray-alternate-2026/bills-gray-front.jpg" alt="Leaked Buffalo Bills gray alternate jersey 2026 front" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @FlyingZebra30 on X</p>
 
 A gray Buffalo Bills alternate jersey showed up on social media this week, and we have some thoughts. Posted by @FlyingZebra30 on X, the jersey features a full gray base with blue numbers, red trim, and the classic Bills charging buffalo logo on the chest. There's no official confirmation from the Bills or Nike on whether this is a real 2026 alternate or not, and honestly, we hope it isn't.
 
@@ -28,11 +23,6 @@ The sleeve stripes are gray on gray. Tonal striping can work when it's subtle an
 ## The Logo Placement
 
 The charging buffalo logo sits on the left chest, which is standard for NFL jerseys. But on a gray base, the blue and red logo doesn't pop the way it does on a white or royal blue jersey. It just kind of sits there. The whole point of the Bills' visual identity is that contrast between the deep royal blue and the bright red. A gray jersey washes all of that out.
-
-## The Back
-
-<img src="/images/posts/bills-gray-alternate-2026/bills-gray-back.jpg" alt="Leaked Buffalo Bills gray alternate jersey 2026 back" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @FlyingZebra30 on X</p>
 
 ## The Numbers
 

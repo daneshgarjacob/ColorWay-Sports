@@ -10,9 +10,6 @@ league: "mlb"
 teams: ["cincinnati-reds"]
 ---
 
-<img src="/images/posts/reds-city-connect-2026/reds-cc-front.jpg" alt="Cincinnati Reds leaked City Connect jersey front with new C logo and number 44" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @drewsturgell19 / @TalkinBaseball_ on X</p>
-
 **Update: The Reds City Connect has been officially released by Nike and MLB. See our [Official Reds City Connect Review With New Photos](/stories/reds-city-connect-2026-official).**
 
 The Reds' 2026 City Connect jersey just leaked and we have some mixed feelings on this one. The photos surfaced on X from @drewsturgell19 and were shared by @TalkinBaseball_, showing what appears to be the De La Cruz #44 version hanging on a rack in what looks like a warehouse or stockroom.
@@ -30,9 +27,6 @@ This is where we have a problem. The C logo on the chest is a completely redesig
 We like when teams keep their core logo and build the City Connect around it with different colors, textures, or materials. The Braves just did this perfectly with their City Connect. The Reds went the other direction and tried to reinvent the wheel, and it doesn't quite land.
 
 ## The Back
-
-<img src="/images/posts/reds-city-connect-2026/reds-cc-back.jpg" alt="Cincinnati Reds leaked City Connect jersey back showing De La Cruz 44" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @drewsturgell19 / @TalkinBaseball_ on X</p>
 
 The back shows "DE LA CRUZ" in white lettering with the number 44 in that same dark charcoal with a white and red outline. The font is angular and has some character to it. The numbers are probably the best design element on the whole jersey. The dark tone-on-tone with the red base actually works well from the back.
 

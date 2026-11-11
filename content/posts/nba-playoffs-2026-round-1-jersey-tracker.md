@@ -2093,14 +2093,6 @@ The Magic are going with their Statement Edition black on the road instead of th
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Paycom Center · Oklahoma City</p>
 </div>
 
-<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
-  <div style="background: linear-gradient(90deg, #007AC1 0%, #EF3B24 100%); padding: 10px 20px; text-align: center;">
-    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">Game Day Arena · Game 1</p>
-  </div>
-  <img src="/images/posts/nba-playoffs-2026/thunder-arena-playoffs-2026.jpg" alt="Oklahoma City Thunder Paycom Center playoff arena setup with PLAYOFFS 2026 LED ribbon branding Thunder banners and OKC center scoreboard 2026 NBA Playoffs Round 1" style="width: 100%; display: block;" />
-  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Paycom Center · Full Playoffs Arena Treatment</p>
-</div>
-
 This one is a split decision. The Thunder skip their home whites for Icon Edition blue, but Oklahoma City genuinely looks great in blue during the playoffs. The blue jerseys against the Thunder court and a packed Paycom Center crowd in playoff orange is going to feel like a real postseason atmosphere. The Thunder get full iconic-alt credit here. They earned it.
 
 The Suns drag the score down. Phoenix has one of the best color palettes in the league with their purple and orange, and they're choosing to wear corporate Statement Edition black on the road instead. Black against Thunder blue creates a darker matchup than this game needed to be. We would have loved to see Phoenix in their primary road look and let those colors play off the Thunder blue. The Thunder hold the floor visually, but the Suns choice is what keeps this from being one of the cleaner Sunday games.
@@ -2144,14 +2136,6 @@ The Suns drag the score down. Phoenix has one of the best color palettes in the 
   </div>
   <img src="/images/courts/nba/spurs-alternate-home.png" alt="Frost Bank Center San Antonio Spurs Fiesta alternate home court Round 1 2026 NBA Playoffs vs Portland Trail Blazers" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · San Antonio · Fiesta Court</p>
-</div>
-
-<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
-  <div style="background: linear-gradient(90deg, #ec0089 0%, #f7a800 50%, #00b2a9 100%); padding: 10px 20px; text-align: center;">
-    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">Game Day Arena · Game 1</p>
-  </div>
-  <img src="/images/posts/nba-playoffs-2026/spurs-fiesta-arena-2026.png" alt="San Antonio Spurs Frost Bank Center Fiesta playoff arena setup with pink teal orange and yellow seat colors and Playoffs 26 jumbotron 2026 NBA Playoffs Round 1" style="width: 100%; display: block;" />
-  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · Full Fiesta Arena Treatment</p>
 </div>
 
 This is the most visually ambitious matchup of the opening weekend. The Spurs go full Fiesta with their City Edition black against the Frost Bank Center transformed into a pink, teal, orange, and yellow Fiesta arena. The seats, the jumbotron, the court, all of it tied together into one unified Fiesta identity. This is what playoff branding is supposed to look like and the Spurs are the team doing it best in the league right now.
@@ -2291,14 +2275,6 @@ The Timberwolves are going with their Statement Edition on the road. This is the
   </div>
   <img src="/images/courts/nba/knicks-home.png" alt="Madison Square Garden Knicks home court Round 1 2026 NBA Playoffs" style="width: 100%; display: block;" />
   <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Madison Square Garden · New York</p>
-</div>
-
-<div style="background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin: 0 0 2em;">
-  <div style="background: linear-gradient(90deg, #006BB6 0%, #F58426 100%); padding: 10px 20px; text-align: center;">
-    <p style="margin: 0; font-size: 11px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 2.5px;">Game Day Arena · Game 1</p>
-  </div>
-  <img src="/images/posts/nba-playoffs-2026/knicks-arena-playoffs.jpg" alt="Madison Square Garden New York Knicks playoff arena setup with Always Knicks t-shirt giveaway draped on every seat in blue and orange Knicks colors for 2026 NBA Playoffs Round 1 vs Atlanta Hawks" style="width: 100%; display: block;" />
-  <p style="padding: 12px 16px; font-size: 11px; color: #999; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Madison Square Garden · Always Knicks T-Shirt Takeover</p>
 </div>
 
 The Knicks are doing it right. Home whites at Madison Square Garden for Game 1 of their first round series is exactly what postseason basketball should look like. MSG is going to be loud, the crowd is going to be in Knicks blue and orange, and the white jerseys on the floor will complete the visual. Full credit for New York.

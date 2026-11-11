@@ -4,14 +4,11 @@ category: "NFL"
 date: "2026-03-31"
 excerpt: "The Rams' 2026 NFL Draft hat just leaked, and it reveals a brand new LA logo without the gradient. We break down what this means for the upcoming rebrand."
 gradient: "linear-gradient(135deg, #003594 0%, #FFD100 100%)"
-coverImage: "/images/posts/rams-draft-hat-2026/rams-draft-hat-front.jpg"
-coverImagePosition: "center 30%"
+logoSrc: "/logos/leagues/nfl.png"
+logoSrc2: "/logos/teams/nfl-los-angeles-rams.png"
 league: "nfl"
 teams: ["los-angeles-rams"]
 ---
-
-<img src="/images/posts/rams-draft-hat-2026/rams-draft-hat-front.jpg" alt="Rams 2026 NFL Draft Hat front with new LA logo" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Rams 2026 NFL Draft hat front via @ZachCohenFB on X</p>
 
 The Rams' 2026 NFL Draft hat just leaked, and if this is real, we're getting our first look at what LA's rebrand is going to look like. The hat features a completely redesigned LA logo on the front, a new wordmark on the back, and some interesting details on the interior.
 
@@ -20,9 +17,6 @@ The biggest change on the front is the logo itself. The gradient is gone. The LA
 We're intrigued to see what the new logo colors and team uniforms look like if these leaks are true. It's a little disconcerting that there is so much yellow in the logo and that it's just yellow. No blue accents within the lettering, no secondary color mixed in. We like that they got rid of the gradient, but we're actually more of the opinion that there should be more blue as opposed to more yellow across the entire identity. The current set leans heavily on that "sol" yellow, and this draft hat suggests they're doubling down on it. For the rest of the league, we [graded all 31 official 2026 NFL Draft hats](/stories/grading-every-2026-nfl-draft-hat).
 
 ## The Back: A Brand New Wordmark
-
-<img src="/images/posts/rams-draft-hat-2026/rams-draft-hat-back.jpg" alt="Rams 2026 NFL Draft Hat back showing new RAMS wordmark on snapback" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">New RAMS wordmark on snapback via @ZachCohenFB on X</p>
 
 The back of the hat is where things get really interesting. The snapback closure features a completely new "RAMS" wordmark in metallic silver on the blue strap. It's angular, italicized, and has a speed-stripe feel to it. This is clearly a new typeface the team is rolling out.
 
@@ -34,9 +28,6 @@ We really like this. The new wordmark has some attitude to it. It's going to be 
 The evolution is pretty clear. The 2017-2020 wordmark was curvy and scripted. The 2020-2026 version went the complete opposite direction with a plain block text that felt corporate and forgettable. This new 2026 version actually has some personality to it. It's sharp, it's dynamic, and it feels like it belongs on an NFL uniform.
 
 ## The Interior
-
-<img src="/images/posts/rams-draft-hat-2026/rams-draft-hat-interior.jpg" alt="Rams 2026 NFL Draft Hat interior floral pattern" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Interior brim pattern via @ZachCohenFB on X</p>
 
 The interior of the hat features a yellow floral pattern under the brim. This is consistent with the rest of the 2026 NFL Draft hats from New Era. Each team's draft hat has a unique pattern on the inside that ties to something regional or cultural. For the Rams, the pattern uses blue florals and leaves on a yellow base.
 

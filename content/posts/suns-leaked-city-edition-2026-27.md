@@ -4,10 +4,8 @@ category: "NBA"
 date: "2026-05-12"
 excerpt: "Leaked Phoenix Suns 2026-27 City Edition jersey swaps the current black uniform for bright teal in the same template. We grade the alleged new Suns City jersey against the current black one and break down why teal works for Phoenix."
 gradient: "linear-gradient(135deg, #1D1160 0%, #E56020 50%, #00B2A9 100%)"
-coverImage: "/images/posts/suns-leaked-city-edition-2026-27/cover.jpg"
-coverImagePosition: "center center"
-coverImageFit: "cover"
 logoSrc: "/logos/nba.svg"
+logoSrc2: "/logos/teams/nba-phoenix-suns.png"
 league: "nba"
 teams: ["phoenix-suns"]
 bestRating: 10
@@ -19,21 +17,13 @@ reviews:
     rating: 7
 ---
 
-<img src="/images/posts/suns-leaked-city-edition-2026-27/cover.jpg" alt="Phoenix Suns 2026-27 leaked City Edition teal jersey side by side comparison with the current Phoenix Suns City Edition black jersey for next season NBA uniform leak" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
-
-A leaked image of the alleged Phoenix Suns 2026-27 City Edition jersey just hit X and it looks like Phoenix is keeping the iconic "The Valley" template with the pixelated desert sun and mountain silhouette graphic but swapping the all-black base for a bright teal. We saw the leak, pulled the current Phoenix Suns Valley jersey in black for the side-by-side, and we are calling it now: the bright teal version is one of the most underrated 2026-27 NBA City Edition leaks of the cycle so far and a clear upgrade on the black version Phoenix has been running. Here is the breakdown and our grade for both jerseys.
+A leaked image of the alleged Phoenix Suns 2026-27 City Edition jersey just hit X and it looks like Phoenix is keeping the iconic "The Valley" template with the pixelated desert sun and mountain silhouette graphic but swapping the all-black base for a bright teal. We saw the leak, held it up against the current Phoenix Suns Valley jersey in black, and we are calling it now: the bright teal version is one of the most underrated 2026-27 NBA City Edition leaks of the cycle so far and a clear upgrade on the black version Phoenix has been running. Here is the breakdown and our grade for both jerseys.
 
 ## Phoenix Suns Current "The Valley" Jersey (Black)
-
-<img src="/images/posts/suns-leaked-city-edition-2026-27/suns-current-city-black.png" alt="Phoenix Suns current The Valley City Edition black home jersey with the cursive Valley wordmark and the pixelated desert sun and mountain silhouette graphic in orange purple and yellow on the all-black uniform" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Phoenix Suns current "The Valley" City Edition (black)</p>
 
 The current Phoenix Suns Valley jersey runs the cursive "The Valley" wordmark over the iconic pixelated desert sun and mountain silhouette graphic, all set on an all-black base. The template debuted in 2020-21 and has been the franchise's strongest single uniform design since the Charles Barkley era. The pixel art is one of the most recognizable single elements in modern NBA uniform design and the wordmark is now permanently tied to Phoenix Suns culture. The drawback is the black colorway. Phoenix is not a black-jersey city. The Arizona desert palette is sun-orange and turquoise blue and purple, not black, and the all-black base shrinks the broadcast impact of the desert sun graphic against any opposing primary that is also dark. The template is great. The base color is the weak link. **Grade: B**
 
 ## Leaked Phoenix Suns 2026-27 "The Valley" Jersey (Bright Teal)
-
-<img src="/images/posts/suns-leaked-city-edition-2026-27/suns-leaked-city-teal.png" alt="Phoenix Suns 2026-27 leaked City Edition bright teal jersey with the cursive The Valley wordmark and the pixelated desert sun mountain silhouette graphic in orange purple and yellow on a turquoise teal base, alleged new NBA City Edition uniform for next season" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">Leaked Phoenix Suns 2026-27 "The Valley" City Edition (bright teal, alleged)</p>
 
 The leaked 2026-27 version keeps the cursive "The Valley" wordmark and the same pixelated desert sun graphic but flips the base from black to a bright teal. The change is dramatic. Teal anchors the whole jersey to the actual Arizona color palette, the turquoise associated with Southwest design and Native American jewelry traditions across the region, and lets the orange and yellow pixel sun art pop harder against a complementary base instead of fighting a neutral black. The teal also gives Phoenix a unique identity in the league, no other NBA team runs teal as a primary base, and it would slot into the broadcast as instantly recognizable in a way the black version never can. Same beloved template, much better color. **Grade: A-**
 

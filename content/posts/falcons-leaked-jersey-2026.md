@@ -4,14 +4,11 @@ category: "NFL"
 date: "2026-04-01"
 excerpt: "A leaked image of what appears to be the Falcons' new red jersey is making the rounds. If this is real, Atlanta might finally be heading in the right direction."
 gradient: "linear-gradient(135deg, #A71930 0%, #000000 50%, #A71930 100%)"
-coverImage: "/images/posts/falcons-leaked-jersey-2026/falcons-leaked-red-jersey.jpg"
-coverImagePosition: "center 20%"
+logoSrc: "/logos/leagues/nfl.png"
+logoSrc2: "/logos/teams/nfl-atlanta-falcons.png"
 league: "nfl"
 teams: ["atlanta-falcons"]
 ---
-
-<img src="/images/posts/falcons-leaked-jersey-2026/falcons-leaked-red-jersey.jpg" alt="Leaked Atlanta Falcons 2026 red jersey with number 7" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @AndrewMLind on X</p>
 
 A leaked image of what appears to be the Falcons' new red jersey has been making the rounds, and if this is real, Atlanta might finally be heading in the right direction.
 

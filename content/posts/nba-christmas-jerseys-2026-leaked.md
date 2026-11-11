@@ -24,9 +24,6 @@ teams: []
   </div>
 </div>
 
-<img src="/images/posts/nba-christmas-jerseys-2026/lakers-christmas-leaked.png" alt="Leaked Nike Lakers NBA Christmas jersey 2026 with purple satin pattern" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">📸 via @ZachCohenFB on X</p>
-
 We wanted to love these. We really did. After nearly a decade of Nike refusing to make NBA Christmas Day jerseys, the news that they were finally bringing them back was one of the best uniform stories of the year. The Adidas Christmas jerseys from 2012 to 2016 were some of the most iconic alternate uniforms in NBA history. Christmas Day felt like an event, and the jerseys were a huge part of that.
 
 Now eight Nike designs have leaked, and we do not like them at all.

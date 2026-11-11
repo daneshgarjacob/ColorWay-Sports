@@ -122,17 +122,7 @@ The one positive from this era is that the NBA went back to the cursive Finals s
 
 During the regular playoffs, the sideline says "Playoffs," which is fine. We like that it's there. It's not enough, but it's something. We wish it was on the court itself, but ad space is ad space and everything is about money.
 
-<div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-First-Round-Basket-Ads.jpg" alt="NBA Playoffs first round basket stanchion pad branding 2025 2026" style="width: 100%; border-radius: 10px;" />
-  <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">Current first round basket stanchion pad</p>
-</div>
-
 The basket stanchion pad still says "Playoffs" during the first round with sponsor branding around it.
-
-<div style="text-align: center;">
-  <img src="/images/posts/nba-playoffs-2026/NBA-Finals-Basket-Ad.jpg" alt="NBA Finals basket stanchion pad branding Finals presented by YouTube TV 2025 2026" style="width: 100%; border-radius: 10px;" />
-  <p style="font-size: 0.75em; color: #999; margin-top: 0.5em;">Current NBA Finals basket stanchion pad</p>
-</div>
 
 For the Finals, the basket stanchion pad says "Finals" with YouTube TV branding. At least that's consistent.
 

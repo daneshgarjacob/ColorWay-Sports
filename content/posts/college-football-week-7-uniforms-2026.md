@@ -54,9 +54,6 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **Our take:** two very different ideas on one field. Oklahoma's throwback is as plain as a uniform gets, and that is the point. Kentucky's black and white is sharp, but next to that crimson it will look like the modern team it is. **Kentucky 21, Oklahoma 13.** More: [Oklahoma schedule](/stories/oklahoma-uniform-schedule-2026) and [Kentucky schedule](/stories/kentucky-uniform-schedule-2026).
 
-<img src="/images/posts/college-football-week-7-uniforms-2026/oklahoma-bud-wilkinson-1950.jpg" alt="Oklahoma tackle Jim Weatherall in a dark jersey with white numbers and striped sleeves next to coach Bud Wilkinson in 1950" style="width:100%;max-width:560px;display:block;margin:1em auto 0.3em;border-radius:10px;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Oklahoma tackle Jim Weatherall and coach Bud Wilkinson in 1950, the era the throwback honors. Photo: <a href="https://commons.wikimedia.org/wiki/File:Jim_Weatherall_and_Bud_Wilkinson_1950.jpg" target="_blank" rel="noopener">Los Angeles Daily News</a>, via Wikimedia Commons. Public domain.</p>
-
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OU_Football/status/2110893082002788862"></a></blockquote>
 </div>

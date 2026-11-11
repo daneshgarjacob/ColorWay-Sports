@@ -4,14 +4,11 @@ category: "MLB"
 date: "2026-04-06"
 excerpt: "A black Rockies jersey was spotted hanging in the Colorado team store. The black alternate has been missing from the rotation since 2021, and fans have been begging for its return."
 gradient: "linear-gradient(135deg, #000000 0%, #33006F 50%, #000000 100%)"
-coverImage: "/images/posts/rockies-black-jersey-leaked-2026/rockies-black-jersey-leaked.jpg"
-coverImagePosition: "center 38%"
+logoSrc: "/logos/leagues/mlb.png"
+logoSrc2: "/logos/teams/mlb-colorado-rockies.png"
 league: "mlb"
 teams: ["colorado-rockies"]
 ---
-
-<img src="/images/posts/rockies-black-jersey-leaked-2026/rockies-black-jersey-leaked.jpg" alt="Colorado Rockies black alternate jersey spotted at team store with price tag still attached" style="width: 100%; border-radius: 10px;" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via @Rockies_Now on X</p>
 
 A black Rockies jersey was spotted hanging at the Colorado team store with a price tag still attached. The Rockies officially removed the black alternate from their rotation after the 2021 season, so seeing one show up on the rack is raising some eyebrows.
 

@@ -49,9 +49,6 @@ In 1977 the Brewers held a public contest to replace the Barrel Man, and roughly
 
 The ball-in-glove debuted in 1978 with pinstripes at home and the first "Milwaukee" script on a road jersey, and it was the logo on the caps for **the 1982 American League pennant**, Robin Yount's first MVP season and the Brewers' only World Series until this one.
 
-<img src="/images/posts/rays-brewers-logo-history-world-series-2026/brewers-ball-in-glove-cap-1982-robin-yount.jpg" alt="Robin Yount in 1982 wearing the Brewers cap with the ball-in-glove logo and a pinstriped jersey" style="width:100%;max-width:560px;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Robin Yount in the ball-in-glove cap, 1982. Photo: <a href="https://commons.wikimedia.org/wiki/File:RYount.png" rel="nofollow noopener" target="_blank">Wikimedia Commons (public domain)</a></p>
-
 ### 1994-1999: The Industrial Stamp ("Motre Bame")
 
 For their 25th season in Milwaukee, the Brewers blew it all up. The ball-in-glove was retired and replaced by an **interlocking "M" and "B" set on a pair of crossed bats and a diamond**, designed to look like an industrial stamp. Royal blue became navy, yellow became metallic gold, and **forest green was added**, the first time green had ever appeared in franchise history.
