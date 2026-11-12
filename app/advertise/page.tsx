@@ -89,7 +89,8 @@ export default function AdvertisePage() {
             </h1>
             <p className="text-[17px] sm:text-[19px] text-white/70 leading-relaxed mt-6 max-w-[640px]">
               ColorWay Sports covers the visual side of sports: uniforms, logos and design. Our uniform
-              schedules for every NFL, NBA, NHL and major college team are where fans go before every game.
+              schedules for every NFL, NBA, NHL and major college team are where fans go before every game,
+              and we cover soccer kits from MLS to the Premier League.
             </p>
             <a href={`mailto:${EMAIL}?subject=Partnership%20with%20ColorWay%20Sports`} className="inline-block mt-8 bg-[#2f6bed] hover:bg-[#2458c9] text-white font-bold px-6 py-3.5 rounded-lg transition-colors">
               Email {EMAIL}
