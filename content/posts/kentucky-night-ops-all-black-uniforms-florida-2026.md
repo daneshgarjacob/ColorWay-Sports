@@ -3,7 +3,7 @@ title: "Kentucky Night Ops Uniforms: All Black With White Numbers Vs. Florida On
 category: "College"
 date: "2026-11-11"
 updatedDate: "2026-11-11"
-excerpt: "Kentucky unveiled its Night Ops uniform on Wednesday: a matte black helmet with a blue and white stripe, a black jersey with white numbers and black pants, three days before Florida visits Kroger Field. What it looks like, Kentucky's history in black, and our grade: A-."
+excerpt: "Kentucky unveiled its Night Ops uniform on Wednesday: a matte black helmet with a blue and white stripe, a black jersey with white numbers and black pants, three days before Florida visits Kroger Field. What it looks like, Kentucky's history in black, and our grade: B+."
 gradient: "linear-gradient(135deg, #0a0a0a 0%, #0b1a3a 55%, #0033A0 130%)"
 author: "jake-daneshgar"
 kicker: Uniform Grade
@@ -25,7 +25,7 @@ teams: ["kentucky-wildcats", "florida-gators", "sec"]
 - **What is Kentucky wearing against Florida?** The Night Ops uniform: matte black helmet, black jersey with white numbers, black pants.
 - **When?** Saturday, November 14, 6:15 p.m. Eastern, ESPN, at Kroger Field in Lexington.
 - **What is Florida wearing?** An orange helmet, white jersey and orange pants, from the season uniform schedule Florida published in August.
-- **Our grade:** A-.
+- **Our grade:** B+.
 
 ## What The Night Ops Uniform Looks Like
 
@@ -38,10 +38,9 @@ Everything below is from the four photos in Kentucky's post.
 
 One note on the photos: X shows a **"Made with AI"** label on Kentucky's post, which usually means the images were edited with an AI tool. The uniform pieces match across all four photos, but we will confirm every detail from game photos on Saturday night.
 
-## Our Grade: A-
+## Our Grade: B+
 
-<!-- Grade line below: Jake's take, confirm with Jake before changing -->
-**A-.** We usually do not like all black. Most blackout uniforms turn a team into one dark shape on a TV screen, and nothing on the field tells you who is who. This one works because of the numbers. **White numbers on a black jersey are the brightest thing in the uniform**, and they pop under stadium lights in a way a black-on-black or gray number never does. The blue stripe on the helmet and the blue shoulder stripe carry just enough Kentucky blue that it still reads as Kentucky and not a generic black set.
+**B+.** We usually do not like all black. Most blackout uniforms turn a team into one dark shape on a TV screen, and nothing on the field tells you who is who. This one works because of the numbers. **White numbers on a black jersey are the brightest thing in the uniform**, and they pop under stadium lights in a way a black-on-black or gray number never does. The blue stripe on the helmet and the blue shoulder stripe carry just enough Kentucky blue that it still reads as Kentucky and not a generic black set.
 
 What keeps it from an A: the pants. Black pants under a black jersey with a thin side stripe is the safe choice, and a blue-and-white stripe this narrow will vanish from the upper deck. A bolder stripe, or chrome or blue pants, would have made it a complete look.
 
@@ -94,7 +93,7 @@ ESPN, at 6:15 p.m. Eastern on Saturday, November 14.
 
 **What grade did ColorWay give Kentucky's Night Ops uniform?**
 
-An A-. The white numbers make it work; the plain black pants keep it from an A.
+A B+. The white numbers make it work; the plain black pants and one-note black keep it out of the A range.
 
 **Is the Night Ops uniform made by Nike?**
 
