@@ -491,12 +491,9 @@ export default function Header() {
               </g>
             </svg>
             <div className="flex flex-col min-w-0">
-              {/* Wordmark nudged left (Jake-tuned to -0.118em in the alignment sandbox) so the C optically lines up over the tagline's E; tagline indent left as-is */}
-              <span className="text-[22px] sm:text-[28px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#0b0b0f", whiteSpace: "nowrap", textIndent: "-0.118em" }}>
+              {/* Wordmark only: Jake 11/12 dropped the "Every Jersey. Every Logo. Every Detail." tagline from the header */}
+              <span className="text-[22px] sm:text-[28px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#0b0b0f", whiteSpace: "nowrap" }}>
                 ColorWay Sports
-              </span>
-              <span className="text-[8px] sm:text-[9px] max-[359px]:text-[7px] uppercase tracking-[0.18em] max-[389px]:tracking-[0.07em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#6b7280", whiteSpace: "nowrap", textIndent: "-0.04em" }}>
-                Every Jersey. Every Logo. Every Detail.
               </span>
             </div>
           </Link>
