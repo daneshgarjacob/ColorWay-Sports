@@ -56,14 +56,19 @@ Here is every piece, from Navy's uniform site (nswcuniform.com) and its posts.
 
 ## Our Grade, Piece By Piece
 
-| Piece | Grade | Why |
-|---|---|---|
-| **Helmet** | **A** | Hand-painted Trident and Warboat with a Bone Frog on the crown. Quiet from a distance, unforgettable up close. |
-| **Jersey** | **A-** | The BUD/S stencil numbers are the best idea in the set. The tonal camo shoulders are so subtle they may disappear on a TV broadcast. |
-| **Pants** | **B+** | Deep navy is the right call against a white top. The sea spray is a nice touch you will only see in photos. |
-| **Details** | **A** | Gold stars on the locker tag, "The Only Easy Day Was Yesterday" inside the collar, the UDT patch, the Marine Corps emblem. Every piece has a reason. |
-| **Story** | **A** | The SEALs, the boat crews and the Frogmen they came from, told in a way that matches how those units carry themselves: no flash. |
-| **Overall** | **A-** | |
+<div style="overflow-x: auto; margin: 1.5em 0;">
+<table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
+<thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 12px; text-align: left;">Piece</th><th style="padding: 10px 12px; text-align: left;">Grade</th><th style="padding: 10px 12px; text-align: left;">Why</th></tr></thead>
+<tbody>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Helmet</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>A</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Hand-painted Trident and Warboat with a Bone Frog on the crown. Quiet from a distance, unforgettable up close.</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Jersey</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>A-</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">The BUD/S stencil numbers are the best idea in the set. The tonal camo shoulders are so subtle they may disappear on a TV broadcast.</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Pants</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>B+</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Deep navy is the right call against a white top. The sea spray is a nice touch you will only see in photos.</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Details</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>A</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Gold stars on the locker tag, "The Only Easy Day Was Yesterday" inside the collar, the UDT patch, the Marine Corps emblem. Every piece has a reason.</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Story</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>A</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">The SEALs, the boat crews and the Frogmen they came from, told in a way that matches how those units carry themselves: no flash.</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Overall</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>A-</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+</tbody>
+</table>
+</div>
 
 **The take.** Navy's last few Army-Navy uniforms have been loud: the copper USS Constitution helmet in 2025, the Jolly Rogers color blocking in 2024. This one goes the other way. A white jersey, navy numbers, blue-on-blue camo you have to look for. That fits a community whose whole culture is not being seen, and it will look sharp on TV next to Army's all-green Ivy Soldier. The risk is the same thing in reverse: from the upper deck, it is a white jersey with navy pants, and most of the work lives in places only the players and the photographers will see.
 
@@ -74,14 +79,19 @@ Here is every piece, from Navy's uniform site (nswcuniform.com) and its posts.
 
 ## Navy vs. Army: The 2026 Uniforms Side By Side
 
-| | **Navy** | **Army** |
-|---|---|---|
-| **Honors** | Naval Special Warfare: SEALs, SWCC, WWII Frogmen | 4th Infantry Division, the "Ivy Division" |
-| **Base color** | White jersey, deep navy pants | Olive camo jersey and pants |
-| **Helmet** | Dark navy, hand-painted SEAL Trident, SWCC Warboat, Bone Frog on top | Green, white IV with ivy leaves, Steadfast and Loyal |
-| **Signature detail** | BUD/S-style numbers; "The Only Easy Day Was Yesterday" inside the collar | Ivy wrapped around the Athena shield; 9/11 decal |
-| **Maker** | Under Armour | Nike |
-| **Our grade** | **A-** | **B** |
+<div style="overflow-x: auto; margin: 1.5em 0;">
+<table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
+<thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 12px; text-align: left;"></th><th style="padding: 10px 12px; text-align: left;"><strong>Navy</strong></th><th style="padding: 10px 12px; text-align: left;"><strong>Army</strong></th></tr></thead>
+<tbody>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Honors</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Naval Special Warfare: SEALs, SWCC, WWII Frogmen</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">4th Infantry Division, the "Ivy Division"</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Base color</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">White jersey, deep navy pants</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Olive camo jersey and pants</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Helmet</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Dark navy, hand-painted SEAL Trident, SWCC Warboat, Bone Frog on top</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Green, white IV with ivy leaves, Steadfast and Loyal</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Signature detail</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">BUD/S-style numbers; "The Only Easy Day Was Yesterday" inside the collar</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Ivy wrapped around the Athena shield; 9/11 decal</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Maker</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Under Armour</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Nike</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Our grade</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>A-</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>B</strong></td></tr>
+</tbody>
+</table>
+</div>
 
 Navy wins the uniform game this year. Army's details are just as thoughtful, but a white-on-navy uniform will read clearly on a December broadcast, and an all-olive one may not. Our full breakdown of Army's set is in [Army's Ivy Soldier uniform, graded](/stories/army-navy-2026-uniform-ivy-soldier-4th-infantry-division-graded).
 

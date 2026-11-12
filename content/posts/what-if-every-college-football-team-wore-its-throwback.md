@@ -299,13 +299,18 @@ These programs either haven't worn a real throwback in recent seasons, or their 
 
 ## The Scoreboard
 
-| Verdict | Programs |
-|---|---|
-| Better | UCLA, Florida, Arizona State, Missouri, Kentucky, North Carolina, Michigan State, Washington |
-| Already did it | Ohio State |
-| No real change | Miami, Georgia, Nebraska, Texas A&M, Notre Dame |
-| Worse | Oregon, Tennessee, LSU, USC, Oklahoma, Navy |
-| Nothing to throw back to | Alabama, Penn State, Texas, Michigan, Auburn, Syracuse, Florida State, Clemson |
+<div style="overflow-x: auto; margin: 1.5em 0;">
+<table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
+<thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 12px; text-align: left;">Verdict</th><th style="padding: 10px 12px; text-align: left;">Programs</th></tr></thead>
+<tbody>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Better</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">UCLA, Florida, Arizona State, Missouri, Kentucky, North Carolina, Michigan State, Washington</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Already did it</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Ohio State</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">No real change</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Miami, Georgia, Nebraska, Texas A&M, Notre Dame</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Worse</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Oregon, Tennessee, LSU, USC, Oklahoma, Navy</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Nothing to throw back to</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Alabama, Penn State, Texas, Michigan, Auburn, Syracuse, Florida State, Clemson</td></tr>
+</tbody>
+</table>
+</div>
 
 **Biggest winners:** UCLA, Florida and Arizona State. Each one has a throwback that is plainly better than what it wears now, and each one wears it once a year at most.
 

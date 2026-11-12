@@ -51,16 +51,21 @@ Nike's new Specter Edition is a fifth uniform for the eight oldest franchises: t
 
 Each of the eight teams wears its Specter Edition three times. Here is every grade and every debut, from our Specter guide.
 
-| Team | Our Grade | Specter Debut |
-|---|---|---|
-| Detroit Pistons | A | Sun, Nov 29 vs Magic |
-| Atlanta Hawks | A- | Thu, Dec 3 vs Pacers |
-| Boston Celtics | B+ | Wed, Dec 2 vs Hornets |
-| New York Knicks | B+ | Sun, Nov 29 vs Hawks |
-| Philadelphia 76ers | B | Tue, Dec 1 vs Grizzlies |
-| Golden State Warriors | B | Sun, Nov 29 vs Clippers |
-| Sacramento Kings | B- | Sun, Nov 29 vs Timberwolves |
-| Los Angeles Lakers | C | Mon, Dec 14 vs Pelicans |
+<div style="overflow-x: auto; margin: 1.5em 0;">
+<table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
+<thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 12px; text-align: left;">Team</th><th style="padding: 10px 12px; text-align: left;">Our Grade</th><th style="padding: 10px 12px; text-align: left;">Specter Debut</th></tr></thead>
+<tbody>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Detroit Pistons</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">A</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Sun, Nov 29 vs Magic</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Atlanta Hawks</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">A-</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thu, Dec 3 vs Pacers</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Boston Celtics</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">B+</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Wed, Dec 2 vs Hornets</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">New York Knicks</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">B+</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Sun, Nov 29 vs Hawks</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Philadelphia 76ers</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">B</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Tue, Dec 1 vs Grizzlies</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Golden State Warriors</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">B</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Sun, Nov 29 vs Clippers</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Sacramento Kings</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">B-</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Sun, Nov 29 vs Timberwolves</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Los Angeles Lakers</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">C</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Mon, Dec 14 vs Pelicans</td></tr>
+</tbody>
+</table>
+</div>
 
 No Specter game falls on Christmas Day.
 
@@ -68,12 +73,17 @@ No Specter game falls on Christmas Day.
 
 The Nets, Nuggets, Pacers and Spurs all joined the NBA in the 1976 ABA-NBA merger, and all four are wearing an ABA-era Classic Edition and playing on a new classic court to mark the 50th anniversary. We graded each jersey and each court.
 
-| Team | Jersey | Court | Classic Nights | First Game |
-|---|---|---|---|---|
-| Indiana Pacers, blue "Classic Threads" | A+ | A | 15 | Sun, Oct 25 at Nets |
-| Brooklyn Nets, white Nets script | A- | A+ | 16 | Wed, Oct 21 vs Hornets |
-| San Antonio Spurs, silver SPURS | B | A+ | 9 | Wed, Nov 4 vs Mavericks |
-| Denver Nuggets, orange "Throwback Nights" | B | A- | 9 | Sun, Dec 27 vs Pacers |
+<div style="overflow-x: auto; margin: 1.5em 0;">
+<table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
+<thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 12px; text-align: left;">Team</th><th style="padding: 10px 12px; text-align: left;">Jersey</th><th style="padding: 10px 12px; text-align: left;">Court</th><th style="padding: 10px 12px; text-align: left;">Classic Nights</th><th style="padding: 10px 12px; text-align: left;">First Game</th></tr></thead>
+<tbody>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Indiana Pacers, blue "Classic Threads"</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">A+</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">A</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">15</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Sun, Oct 25 at Nets</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Brooklyn Nets, white Nets script</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">A-</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">A+</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">16</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Wed, Oct 21 vs Hornets</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">San Antonio Spurs, silver SPURS</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">B</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">A+</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">9</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Wed, Nov 4 vs Mavericks</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Denver Nuggets, orange "Throwback Nights"</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">B</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">A-</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">9</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Sun, Dec 27 vs Pacers</td></tr>
+</tbody>
+</table>
+</div>
 
 There are nine nights when both teams are scheduled in their ABA throwback, starting with Pacers at Nets on October 25. Every one is listed in our [NBA Classic Edition jerseys and courts ranking](/stories/nba-classic-edition-jerseys-courts-2026-27).
 
@@ -233,38 +243,43 @@ City: the pink Cherry Blossom set from 2022-23, back as "City in Bloom" and grad
 
 Nine teams have a new sponsor patch this season. "Confirming" means we have not yet verified that team's 2026-27 patch from a team or league source. We will fill those in as we confirm them, starting with Opening Night photos.
 
-| Team | Patch Partner | Status |
-|---|---|---|
-| Atlanta Hawks | Paze | Returning (deal began 2025-26) |
-| Boston Celtics | Confirming | |
-| Brooklyn Nets | Alibaba | New |
-| Charlotte Hornets | Confirming | |
-| Chicago Bulls | Confirming | |
-| Cleveland Cavaliers | Confirming | |
-| Dallas Mavericks | Chase | New |
-| Denver Nuggets | Confirming | |
-| Detroit Pistons | Confirming | |
-| Golden State Warriors | IREN | New |
-| Houston Rockets | Memorial Hermann | On the new uniforms |
-| Indiana Pacers | Confirming | |
-| LA Clippers | Confirming | |
-| Los Angeles Lakers | Albert | New (replaces Bibigo) |
-| Memphis Grizzlies | Confirming | |
-| Miami Heat | Confirming | |
-| Milwaukee Bucks | Uline | New |
-| Minnesota Timberwolves | Sezzle | On the new uniforms |
-| New Orleans Pelicans | Confirming | |
-| New York Knicks | Confirming | |
-| Oklahoma City Thunder | Confirming | |
-| Orlando Magic | Confirming | |
-| Philadelphia 76ers | Bloom Energy | New |
-| Phoenix Suns | Paze | New |
-| Portland Trail Blazers | Confirming | |
-| Sacramento Kings | Sutter Health | New |
-| San Antonio Spurs | Confirming | |
-| Toronto Raptors | Confirming | |
-| Utah Jazz | HealthEquity | New |
-| Washington Wizards | Confirming | |
+<div style="overflow-x: auto; margin: 1.5em 0;">
+<table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
+<thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 12px; text-align: left;">Team</th><th style="padding: 10px 12px; text-align: left;">Patch Partner</th><th style="padding: 10px 12px; text-align: left;">Status</th></tr></thead>
+<tbody>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Atlanta Hawks</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Paze</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Returning (deal began 2025-26)</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Boston Celtics</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Brooklyn Nets</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Alibaba</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">New</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Charlotte Hornets</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Chicago Bulls</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Cleveland Cavaliers</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Dallas Mavericks</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Chase</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">New</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Denver Nuggets</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Detroit Pistons</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Golden State Warriors</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">IREN</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">New</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Houston Rockets</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Memorial Hermann</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">On the new uniforms</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Indiana Pacers</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">LA Clippers</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Los Angeles Lakers</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Albert</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">New (replaces Bibigo)</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Memphis Grizzlies</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Miami Heat</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Milwaukee Bucks</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Uline</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">New</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Minnesota Timberwolves</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Sezzle</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">On the new uniforms</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">New Orleans Pelicans</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">New York Knicks</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Oklahoma City Thunder</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Orlando Magic</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Philadelphia 76ers</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Bloom Energy</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">New</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Phoenix Suns</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Paze</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">New</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Portland Trail Blazers</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Sacramento Kings</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Sutter Health</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">New</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">San Antonio Spurs</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Toronto Raptors</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Utah Jazz</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">HealthEquity</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">New</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Washington Wizards</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Confirming</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+</tbody>
+</table>
+</div>
 
 The Lakers' Albert deal is reported to be worth more than $30 million a year, which is why we [wrote it up on its own](/stories/lakers-albert-jersey-patch-2026). The Sixers and Nets patches made their debut in the [Media Day photos](/stories/nba-media-day-2026-new-jerseys). Atlanta's Paze deal is multi-year and began last season, per the [Hawks](https://www.nba.com/hawks/paze).
 

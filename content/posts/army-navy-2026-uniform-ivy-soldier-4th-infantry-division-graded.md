@@ -56,15 +56,20 @@ Here is every piece, from Army's uniform site and its posts.
 
 ## Our Grade, Piece By Piece
 
-| Piece | Grade | Why |
-|---|---|---|
-| **Helmet** | **A-** | The best part. The IV with ivy leaves is clever, Steadfast and Loyal on the shell reads like a WWII helmet marking, and the 9/11 decal is the right call in a 25th anniversary year. The lime facemask is a little loud. |
-| **Jersey** | **B-** | The memorial-style numbers and the IVY SOLDIER shoulder are great. The camo print is busy, and from 50 feet it turns into one olive color. |
-| **Pants** | **C+** | Matching olive pants make the whole thing one green block. A tan or dark green pant would have broken it up. |
-| **Details** | **A** | Ivy on the shield, the cleats, the helmet and the shoulder. The Roman numeral IV turned into ivy is the best single idea in this year's game. |
-| **Story** | **A** | A real division, a real motto, a specific mission (Atlantic Resolve), and the September 11 anniversary. This is what the Army-Navy uniform is for. |
-| **Ivy Athena Shield (logo)** | **B+** | Wrapping the shield in ivy is simple and right. It works better as a patch than it will as a TV graphic. |
-| **Overall** | **B** | |
+<div style="overflow-x: auto; margin: 1.5em 0;">
+<table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
+<thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 12px; text-align: left;">Piece</th><th style="padding: 10px 12px; text-align: left;">Grade</th><th style="padding: 10px 12px; text-align: left;">Why</th></tr></thead>
+<tbody>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Helmet</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>A-</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">The best part. The IV with ivy leaves is clever, Steadfast and Loyal on the shell reads like a WWII helmet marking, and the 9/11 decal is the right call in a 25th anniversary year. The lime facemask is a little loud.</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Jersey</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>B-</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">The memorial-style numbers and the IVY SOLDIER shoulder are great. The camo print is busy, and from 50 feet it turns into one olive color.</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Pants</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>C+</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Matching olive pants make the whole thing one green block. A tan or dark green pant would have broken it up.</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Details</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>A</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Ivy on the shield, the cleats, the helmet and the shoulder. The Roman numeral IV turned into ivy is the best single idea in this year's game.</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Story</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>A</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">A real division, a real motto, a specific mission (Atlantic Resolve), and the September 11 anniversary. This is what the Army-Navy uniform is for.</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Ivy Athena Shield (logo)</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>B+</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Wrapping the shield in ivy is simple and right. It works better as a patch than it will as a TV graphic.</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;"><strong>Overall</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><strong>B</strong></td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"></td></tr>
+</tbody>
+</table>
+</div>
 
 **The take.** Army's run of Army-Navy uniforms has been about telling a unit's story in the details, and the Ivy Soldier does that better than almost any of them. But a monochrome olive camo uniform under December stadium lights is going to read as a green blob on TV, on a green field, against Navy. The lime facemask and neon accents also pull it toward Oregon or the Seahawks' Action Green, which is the opposite of a uniform built on stone memorials and a 100-year-old patch. Last year's all-white 250th anniversary set had restraint. This one has better ideas and less restraint. If Army had paired the camo jersey with a solid dark green pant and a darker facemask, this is an A-.
 

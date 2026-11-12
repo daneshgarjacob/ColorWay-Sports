@@ -22,12 +22,17 @@ Every look below carries one of three labels, and we keep them separate:
 
 ## The 2026 Thanksgiving Schedule
 
-| Game | Kickoff (ET) | TV |
-|---|---|---|
-| Bears at Lions | Thursday, Nov. 26, 1:00 p.m. | CBS |
-| Eagles at Cowboys | Thursday, Nov. 26, 4:30 p.m. | FOX |
-| Chiefs at Bills | Thursday, Nov. 26, 8:20 p.m. | NBC |
-| Broncos at Steelers (Black Friday) | Friday, Nov. 27, 3:00 p.m. | Prime Video |
+<div style="overflow-x: auto; margin: 1.5em 0;">
+<table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
+<thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 12px; text-align: left;">Game</th><th style="padding: 10px 12px; text-align: left;">Kickoff (ET)</th><th style="padding: 10px 12px; text-align: left;">TV</th></tr></thead>
+<tbody>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Bears at Lions</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 1:00 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">CBS</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Eagles at Cowboys</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 4:30 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">FOX</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Chiefs at Bills</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 8:20 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">NBC</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Broncos at Steelers (Black Friday)</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Friday, Nov. 27, 3:00 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Prime Video</td></tr>
+</tbody>
+</table>
+</div>
 
 Matchups, kickoff times and networks are from ESPN's NFL schedule.
 
