@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import AdvertiseHeroCards from "@/components/AdvertiseHeroCards";
 
 // Advertise / media kit (Jake 11/5: "We have no media kit, so add that").
 // Every number here is measured, with its window, so a brand can check it:
@@ -13,7 +14,7 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
   title: "Advertise With ColorWay Sports: Media Kit, Audience and Partnerships",
   description:
-    "Reach sports fans checking what their team wears this week. ColorWay Sports media kit: 160,000+ page views a month, 2.5 million Google search impressions in three months, 83% U.S. readers, and presenting partnerships on NFL, NBA and NHL uniform schedules.",
+    "Reach sports fans checking what their team wears this week. ColorWay Sports media kit: 167,000+ page views a month, 2.5 million Google search impressions in three months, 83% U.S. readers, and presenting partnerships on NFL, NBA and NHL uniform schedules.",
   alternates: { canonical: "https://www.colorwaysports.com/advertise" },
   openGraph: {
     title: "Advertise With ColorWay Sports",
@@ -27,7 +28,7 @@ const AS_OF = "November 2026";
 const EMAIL = "partnerships@colorwaysports.com";
 
 const STATS = [
-  { n: "160,000+", label: "Page views in the last 28 days", src: "Google Analytics, Oct 8 to Nov 4" },
+  { n: "167,000+", label: "Page views in the last 28 days", src: "Google Analytics, Oct 15 to Nov 11" },
   { n: "2.5M", label: "Google search impressions in 3 months", src: "Google Search Console" },
   { n: "117,000", label: "Visits in October 2026", src: "Google Analytics" },
   { n: "22x", label: "Growth in monthly visits since June", src: "Google Analytics" },
@@ -43,7 +44,7 @@ const AUDIENCE = [
 ];
 
 const SOCIAL = [
-  ["TikTok @colorway.sports", "1,000+ followers, 173,000 views in the last 7 days. Top posts: 100,000, 88,000 and 64,000 views"],
+  ["TikTok @colorway.sports", "1,200 followers, 475,000 views in the last 7 days (83% U.S.). Top posts: 134,000, 102,000 and 91,000 views"],
   ["Newsletter", "Sunday morning edition on beehiiv"],
   ["Also on", "Instagram, X, Facebook and LinkedIn"],
 ];
@@ -71,8 +72,6 @@ const PLACEMENTS = [
   },
 ];
 
-const PARTNERS = ["Daps (presenting partner, NFL uniform schedules)"];
-
 const wrap = "max-w-[1120px] mx-auto px-5";
 const eyebrow = "text-[11px] uppercase tracking-[0.24em] font-bold";
 
@@ -82,7 +81,8 @@ export default function AdvertisePage() {
       <Header />
       <main style={{ fontFamily: "var(--font-sans)" }}>
         <section className="bg-[#0d1322] text-white">
-          <div className={`${wrap} py-14 sm:py-20`}>
+          <div className={`${wrap} py-14 sm:py-20 grid lg:grid-cols-[1fr_320px] gap-10 items-center`}>
+            <div>
             <p className={`${eyebrow} text-[#8fb0ff] mb-4`}>ColorWay Sports · Media kit · Updated {AS_OF}</p>
             <h1 className="text-[34px] sm:text-[54px] font-extrabold leading-[1.04] tracking-[-0.03em] max-w-[820px]" style={{ color: "#ffffff" }}>
               Reach fans the moment they check what their team is wearing.
@@ -94,6 +94,8 @@ export default function AdvertisePage() {
             <a href={`mailto:${EMAIL}?subject=Partnership%20with%20ColorWay%20Sports`} className="inline-block mt-8 bg-[#2f6bed] hover:bg-[#2458c9] text-white font-bold px-6 py-3.5 rounded-lg transition-colors">
               Email {EMAIL}
             </a>
+            </div>
+            <AdvertiseHeroCards />
           </div>
         </section>
 
@@ -152,11 +154,7 @@ export default function AdvertisePage() {
         </section>
 
         <section className={`${wrap} py-12`}>
-          <p className={`${eyebrow} text-black/50 mb-3`}>Brands we work with</p>
-          <ul className="text-[16px] font-semibold">
-            {PARTNERS.map((p) => <li key={p} className="py-1">{p}</li>)}
-          </ul>
-          <div className="mt-10 rounded-2xl bg-[#0d1322] text-white p-8">
+          <div className="rounded-2xl bg-[#0d1322] text-white p-8">
             <p className="text-[24px] font-extrabold tracking-tight" style={{ color: "#ffffff" }}>Let's talk.</p>
             <p className="text-[16px] text-white/70 mt-2">
               Jake Daneshgar, Founder and Editor in Chief. We reply within one business day.
