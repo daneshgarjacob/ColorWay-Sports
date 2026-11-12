@@ -479,7 +479,7 @@ export default function Header() {
         <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[80px] sm:h-[100px] gap-6">
           {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link prefetch={false} href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
-            <svg width="38" height="38" viewBox="92 92 840 840" className="sm:w-[46px] sm:h-[46px]" style={{ minWidth: 38 }} aria-hidden="true">
+            <svg width="30" height="30" viewBox="92 92 840 840" className="sm:w-[36px] sm:h-[36px]" style={{ minWidth: 30 }} aria-hidden="true">
               {/* B3 badge (Jake 11/12): black outer ring, white disc, thick black inner ring, black flag */}
               <circle cx="512" cy="512" r="420" fill="#0b0b0f" />
               <circle cx="512" cy="512" r="392" fill="#ffffff" />
@@ -540,7 +540,7 @@ export default function Header() {
                     role="option"
                     aria-selected={activeSug === i}
                     onClick={() => setSugOpen(false)}
-                    className={`flex items-center gap-2.5 px-4 py-2 text-[13.5px] font-semibold text-black transition-colors ${activeSug === i ? "bg-[#2f6bed]/10" : "hover:bg-[#2f6bed]/[0.06]"}`}
+                    className={`flex items-center gap-2.5 px-4 py-2 text-[13.5px] font-semibold text-black transition-colors ${activeSug === i ? "bg-[#0025CC]/10" : "hover:bg-[#0025CC]/[0.06]"}`}
                   >
                     {t.g && <img src={t.g} alt="" className="w-5 h-5 object-contain flex-shrink-0" />}
                     {t.n}
@@ -557,7 +557,7 @@ export default function Header() {
                     role="option"
                     aria-selected={activeSug === suggestions.teams.length + i}
                     onClick={() => setSugOpen(false)}
-                    className={`block px-4 py-2 text-[13px] text-black/85 leading-snug transition-colors ${activeSug === suggestions.teams.length + i ? "bg-[#2f6bed]/10" : "hover:bg-[#2f6bed]/[0.06]"}`}
+                    className={`block px-4 py-2 text-[13px] text-black/85 leading-snug transition-colors ${activeSug === suggestions.teams.length + i ? "bg-[#0025CC]/10" : "hover:bg-[#0025CC]/[0.06]"}`}
                   >
                     {p.t}
                   </Link>
@@ -566,7 +566,7 @@ export default function Header() {
                 <button
                   type="button"
                   onClick={handleSearch}
-                  className="w-full text-left px-4 py-2.5 mt-1 text-[12.5px] font-bold text-[#2f6bed] border-t border-border hover:bg-[#2f6bed]/[0.06] transition-colors"
+                  className="w-full text-left px-4 py-2.5 mt-1 text-[12.5px] font-bold text-[#0025CC] border-t border-border hover:bg-[#0025CC]/[0.06] transition-colors"
                 >
                   See all results for “{searchQuery.trim()}” →
                 </button>
@@ -639,7 +639,7 @@ export default function Header() {
         {/* Row 2 — the league rail. Light so the full-colour league marks read
             properly, horizontally scrollable so new sports just join the end
             instead of breaking the layout. */}
-        <div className="hidden lg:block bg-white border-t border-black/[0.06]">
+        <div className={`hidden lg:block border-t border-black/[0.06] transition-colors duration-300 ${scrolled ? "bg-transparent" : "bg-white"}`}>
           <nav className="hidden lg:flex items-center justify-center gap-1 w-full px-4 sm:px-8 xl:px-12 h-[48px]">
             {/* League dropdowns */}
             {leagues.map((league) => (
@@ -650,7 +650,7 @@ export default function Header() {
                 onMouseLeave={handleMouseLeave}
               >
                 <button
-                  className="text-[13.5px] font-bold text-[#14223f]/85 transition-colors flex items-center gap-1.5 hover:text-[#2f6bed] whitespace-nowrap rounded-full px-3 py-1.5 hover:bg-[#2f6bed]/[0.07]"
+                  className="text-[14.5px] font-bold text-[#0b0b0f]/85 transition-colors flex items-center gap-1.5 hover:text-[#0025CC] whitespace-nowrap rounded-full px-3 py-1.5 hover:bg-[#0025CC]/[0.07]"
                   style={{ "--league-accent": leagueColor(league.label), fontFamily: "var(--font-display)", fontWeight: 700 /* logo font (Jake 10/25) */ } as React.CSSProperties}
                   onClick={(e) => {
                     e.stopPropagation();
@@ -664,9 +664,7 @@ export default function Header() {
                     setOpenSub(null);
                   }}
                 >
-                  {league.leagueLogo && (
-                    <img src={league.leagueLogo} alt="" loading="lazy" className="w-[18px] h-[18px] object-contain flex-shrink-0" />
-                  )}
+                  {/* Text-only rail (Jake 11/12): league marks live inside each menu, not in the bar */}
                   {league.label}
                   {hasDropdown(league) && (
                     <svg className={`w-3 h-3 transition-transform duration-200 ${openDropdown === league.label ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">

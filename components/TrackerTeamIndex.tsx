@@ -29,7 +29,7 @@ export default function TrackerTeamIndex({ teams }: { teams: TeamIndexEntry[] })
   };
 
   const selectClass =
-    "h-10 min-w-0 rounded-full border border-black/15 bg-white pl-3.5 pr-8 text-[13.5px] font-semibold text-blue-dark hover:border-black/30 focus:outline-none focus:border-[#2f6bed] appearance-none bg-no-repeat bg-[right_0.75rem_center] bg-[length:12px_12px]";
+    "h-10 min-w-0 rounded-full border border-black/15 bg-white pl-3.5 pr-8 text-[13.5px] font-semibold text-blue-dark hover:border-black/30 focus:outline-none focus:border-[#0025CC] appearance-none bg-no-repeat bg-[right_0.75rem_center] bg-[length:12px_12px]";
   const caret =
     "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%230a1733' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E\")";
 
@@ -96,7 +96,7 @@ export default function TrackerTeamIndex({ teams }: { teams: TeamIndexEntry[] })
             prefetch={false}
             href={`/mlb-tracker/${active.key}`}
             aria-label={`${active.name} uniform calendar`}
-            className="text-[12.5px] font-bold text-[#2f6bed] whitespace-nowrap hover:underline"
+            className="text-[12.5px] font-bold text-[#0025CC] whitespace-nowrap hover:underline"
           >
             Calendar&nbsp;&rarr;
           </Link>

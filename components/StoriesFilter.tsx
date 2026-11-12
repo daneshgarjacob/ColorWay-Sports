@@ -126,7 +126,7 @@ export default function StoriesFilter({
       {(query || league || team) && (
         <a
           href="/stories"
-          className="inline-flex items-center gap-1.5 text-[13px] font-bold text-[#2f6bed] hover:underline mb-8"
+          className="inline-flex items-center gap-1.5 text-[13px] font-bold text-[#0025CC] hover:underline mb-8"
         >
           &larr; Back to all stories
         </a>
@@ -156,7 +156,7 @@ export default function StoriesFilter({
       {pages > 1 && (
         <nav aria-label="More stories" className="mt-10 flex items-center justify-between gap-4 border-t border-border pt-6">
           {page > 1 ? (
-            <a href={pageHref(view, page - 1)} className="text-[14px] font-bold text-[#2f6bed] hover:underline">
+            <a href={pageHref(view, page - 1)} className="text-[14px] font-bold text-[#0025CC] hover:underline">
               &larr; Newer stories
             </a>
           ) : (
@@ -166,7 +166,7 @@ export default function StoriesFilter({
             Page {page} of {pages}
           </span>
           {page < pages ? (
-            <a href={pageHref(view, page + 1)} className="text-[14px] font-bold text-[#2f6bed] hover:underline">
+            <a href={pageHref(view, page + 1)} className="text-[14px] font-bold text-[#0025CC] hover:underline">
               Older stories &rarr;
             </a>
           ) : (

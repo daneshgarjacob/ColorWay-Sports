@@ -24,7 +24,7 @@ import {
 } from "@/lib/wcBracket";
 
 const STORE_KEY = "cw-wc2026-bracket-v1";
-const BRAND = "#2f6bed";
+const BRAND = "#0025CC";
 const NAVY = "#0a1f4d";
 const TOTAL_TIES = 31; // 16 + 8 + 4 + 2 + 1
 

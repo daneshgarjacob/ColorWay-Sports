@@ -245,13 +245,13 @@ export default function EmailCapture() {
                     if (status === "error") setStatus("idle");
                   }}
                   // 16px stops iOS zooming the page when the field is tapped.
-                  className="min-w-0 flex-1 rounded-lg border border-gray-200 px-3 py-2 text-[16px] text-gray-900 placeholder-gray-400 outline-none focus:border-[#2f6bed] focus:ring-1 focus:ring-[#2f6bed]"
+                  className="min-w-0 flex-1 rounded-lg border border-gray-200 px-3 py-2 text-[16px] text-gray-900 placeholder-gray-400 outline-none focus:border-[#0025CC] focus:ring-1 focus:ring-[#0025CC]"
                 />
                 <button
                   type="submit"
                   disabled={status === "loading"}
                   className="shrink-0 rounded-lg px-4 py-2 text-[14px] font-semibold text-white disabled:opacity-50"
-                  style={{ backgroundColor: "#2f6bed" }}
+                  style={{ backgroundColor: "#0025CC" }}
                 >
                   {status === "loading" ? "..." : "Subscribe"}
                 </button>
@@ -306,7 +306,7 @@ export default function EmailCapture() {
                   setEmail(e.target.value);
                   if (status === "error") setStatus("idle");
                 }}
-                className="w-full rounded-lg border border-gray-200 px-4 py-3 text-gray-900 placeholder-gray-400 outline-none focus:border-[#2f6bed] focus:ring-1 focus:ring-[#2f6bed] transition-colors"
+                className="w-full rounded-lg border border-gray-200 px-4 py-3 text-gray-900 placeholder-gray-400 outline-none focus:border-[#0025CC] focus:ring-1 focus:ring-[#0025CC] transition-colors"
               />
               {status === "error" && (
                 <p className="text-red-500 text-sm">{errorMsg}</p>
@@ -315,7 +315,7 @@ export default function EmailCapture() {
                 type="submit"
                 disabled={status === "loading"}
                 className="w-full rounded-lg py-3 font-semibold text-white transition-opacity disabled:opacity-50"
-                style={{ backgroundColor: "#2f6bed" }}
+                style={{ backgroundColor: "#0025CC" }}
               >
                 {status === "loading" ? "Subscribing..." : "Subscribe"}
               </button>

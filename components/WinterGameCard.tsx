@@ -109,7 +109,7 @@ export default function WinterGameCard({
     return (
       <div
         {...handlers}
-        className="rounded-xl px-2 pt-2.5 pb-2.5 text-center flex flex-col border-2 bg-white cursor-pointer outline-none focus-visible:ring-2 focus-visible:ring-[#2f6bed]"
+        className="rounded-xl px-2 pt-2.5 pb-2.5 text-center flex flex-col border-2 bg-white cursor-pointer outline-none focus-visible:ring-2 focus-visible:ring-[#0025CC]"
         style={{ borderColor: accent }}
       >
         <div className="text-[10px] font-bold tracking-[0.08em] text-[#5b6474]">{dateLabel}</div>
@@ -135,7 +135,7 @@ export default function WinterGameCard({
     return (
       <div
         {...handlers}
-        className={`rounded-xl px-2.5 pt-2.5 pb-3 text-center flex flex-col items-center border-2 bg-white outline-none focus-visible:ring-2 focus-visible:ring-[#2f6bed] ${canFlip ? "cursor-pointer" : ""}`}
+        className={`rounded-xl px-2.5 pt-2.5 pb-3 text-center flex flex-col items-center border-2 bg-white outline-none focus-visible:ring-2 focus-visible:ring-[#0025CC] ${canFlip ? "cursor-pointer" : ""}`}
         style={{ borderColor: accent }}
       >
         <div className="text-[10px] font-bold tracking-[0.08em] text-[#5b6474]">{dateLabel}</div>
@@ -175,7 +175,7 @@ export default function WinterGameCard({
   return (
     <div
       {...handlers}
-      className={`rounded-xl px-3 py-3 text-center min-h-[96px] flex flex-col justify-center border outline-none focus-visible:ring-2 focus-visible:ring-[#2f6bed] ${canFlip ? "cursor-pointer" : ""}`}
+      className={`rounded-xl px-3 py-3 text-center min-h-[96px] flex flex-col justify-center border outline-none focus-visible:ring-2 focus-visible:ring-[#0025CC] ${canFlip ? "cursor-pointer" : ""}`}
       style={{
         background: logged ? accent : "#f7f9fc",
         color: logged ? "#ffffff" : "#333",

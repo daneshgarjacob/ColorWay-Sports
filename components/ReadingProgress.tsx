@@ -40,7 +40,7 @@ export default function ReadingProgress() {
         className="h-full w-full origin-left"
         style={{
           transform: `scaleX(${progress / 100})`,
-          background: "linear-gradient(90deg, #2f6bed 0%, #5b8def 100%)",
+          background: "linear-gradient(90deg, #0025CC 0%, #5b8def 100%)",
           boxShadow: progress > 0 ? "0 0 8px rgba(255,89,16,0.45)" : "none",
           transition: "transform 80ms linear",
         }}

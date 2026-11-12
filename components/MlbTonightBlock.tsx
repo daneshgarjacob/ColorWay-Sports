@@ -135,14 +135,14 @@ export default async function MlbTonightBlock({
           <div className="mt-3.5 flex flex-col gap-1.5">
             <Link prefetch={false}
               href={`/stories/${trackerSlug}`}
-              className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+              className="text-[13px] font-bold text-[#0025CC] hover:underline"
             >
               See today&rsquo;s confirmed uniforms in the daily tracker &rarr;
             </Link>
             {scheduleHref && (
               <Link prefetch={false}
                 href={scheduleHref}
-                className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+                className="text-[13px] font-bold text-[#0025CC] hover:underline"
               >
                 Browse the {teamName}&rsquo; full 2026 uniform schedule: every jersey and when they wear it &rarr;
               </Link>

@@ -40,7 +40,7 @@ function GameCard({ g }: { g: SlateGame }) {
   return (
     <div
       className="rounded-[10px] border bg-white px-2.5 py-2 flex flex-col gap-1"
-      style={{ borderColor: both ? "#c9d8fb" : "var(--color-border, #e3e1da)", boxShadow: both ? "inset 3px 0 0 #2f6bed" : undefined }}
+      style={{ borderColor: both ? "#c9d8fb" : "var(--color-border, #e3e1da)", boxShadow: both ? "inset 3px 0 0 #0025CC" : undefined }}
     >
       {rows.map((s) => (
         <Link prefetch={false} key={s.team.key} href={`/stories/${s.team.scheduleSlug}`} className="group flex items-center gap-2 min-w-0">
@@ -54,7 +54,7 @@ function GameCard({ g }: { g: SlateGame }) {
               {/* Jake 10/17: tease, don't answer. The look itself lives on the
                   team's schedule post (an article with ads), one tap away. */}
               <span className="truncate group-hover:text-orange">See the full look →</span>
-              {sideConfirmed(s) && <span className="text-[#2f6bed]">★</span>}
+              {sideConfirmed(s) && <span className="text-[#0025CC]">★</span>}
             </span>
           </span>
         </Link>
@@ -147,7 +147,7 @@ export default function NflWeekZoneV2() {
               key={l.href}
               href={l.href}
               className={`rounded-full px-4 py-2 text-[13px] font-bold hover:underline ${
-                l.primary ? "bg-[#2f6bed] text-white" : "border border-[#c9d8fb] bg-white text-[#2f6bed]"
+                l.primary ? "bg-[#0025CC] text-white" : "border border-[#c9d8fb] bg-white text-[#0025CC]"
               }`}
             >
               {l.t}

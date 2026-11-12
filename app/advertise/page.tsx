@@ -92,7 +92,7 @@ export default function AdvertisePage() {
               schedules for every NFL, NBA, NHL and major college team are where fans go before every game,
               and we cover soccer kits from MLS to the Premier League.
             </p>
-            <a href={`mailto:${EMAIL}?subject=Partnership%20with%20ColorWay%20Sports`} className="inline-block mt-8 bg-[#2f6bed] hover:bg-[#2458c9] text-white font-bold px-6 py-3.5 rounded-lg transition-colors">
+            <a href={`mailto:${EMAIL}?subject=Partnership%20with%20ColorWay%20Sports`} className="inline-block mt-8 bg-[#0025CC] hover:bg-[#001FA6] text-white font-bold px-6 py-3.5 rounded-lg transition-colors">
               Email {EMAIL}
             </a>
             </div>
@@ -160,7 +160,7 @@ export default function AdvertisePage() {
             <p className="text-[16px] text-white/70 mt-2">
               Jake Daneshgar, Founder and Editor in Chief. We reply within one business day.
             </p>
-            <a href={`mailto:${EMAIL}?subject=Partnership%20with%20ColorWay%20Sports`} className="inline-block mt-5 bg-[#2f6bed] hover:bg-[#2458c9] text-white font-bold px-6 py-3 rounded-lg transition-colors">
+            <a href={`mailto:${EMAIL}?subject=Partnership%20with%20ColorWay%20Sports`} className="inline-block mt-5 bg-[#0025CC] hover:bg-[#001FA6] text-white font-bold px-6 py-3 rounded-lg transition-colors">
               {EMAIL}
             </a>
           </div>

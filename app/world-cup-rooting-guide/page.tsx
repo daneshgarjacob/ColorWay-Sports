@@ -41,7 +41,7 @@ export default function WorldCupBracketPage() {
       <Header />
       <main className="max-w-[1100px] mx-auto px-5 py-12 sm:py-16">
         <div className="max-w-[760px] mx-auto">
-          <p className="text-[12px] font-bold uppercase tracking-[0.16em] text-[#2f6bed] mb-3">2026 World Cup · Interactive Bracket Predictor</p>
+          <p className="text-[12px] font-bold uppercase tracking-[0.16em] text-[#0025CC] mb-3">2026 World Cup · Interactive Bracket Predictor</p>
           <h1 className="text-3xl sm:text-4xl font-extrabold text-[#003087] tracking-tight mb-4 leading-tight">
             Fill out your 2026 World Cup bracket predictor
           </h1>

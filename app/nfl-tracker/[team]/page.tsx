@@ -207,13 +207,13 @@ export default async function NflTeamCalendarPage({
         <nav className="max-w-[980px] mx-auto px-5 pt-6 flex gap-3 flex-wrap">
           <a
             href={`/stories/${entry.scheduleSlug}`}
-            className="flex-1 min-w-[220px] text-center bg-[#2f6bed] text-white text-[15px] font-bold px-5 py-3 rounded-xl hover:opacity-90 transition-opacity"
+            className="flex-1 min-w-[220px] text-center bg-[#0025CC] text-white text-[15px] font-bold px-5 py-3 rounded-xl hover:opacity-90 transition-opacity"
           >
             {entry.nickname}{" "}Uniform Schedule &rarr;
           </a>
           <a
             href="#calendar"
-            className="flex-1 min-w-[220px] text-center border-2 border-[#2f6bed] text-[#2f6bed] text-[15px] font-bold px-5 py-3 rounded-xl hover:bg-[#2f6bed]/5 transition-colors"
+            className="flex-1 min-w-[220px] text-center border-2 border-[#0025CC] text-[#0025CC] text-[15px] font-bold px-5 py-3 rounded-xl hover:bg-[#0025CC]/5 transition-colors"
           >
             Jump to the Calendar &darr;
           </a>
@@ -296,14 +296,14 @@ export default async function NflTeamCalendarPage({
             For the full breakdown of why each jersey lands where it does, read the{" "}
             <Link prefetch={false}
               href={`/stories/${entry.scheduleSlug}`}
-              className="text-[#2f6bed] font-semibold hover:underline"
+              className="text-[#0025CC] font-semibold hover:underline"
             >
               {entry.name} 2026 uniform schedule
             </Link>
             . Every other club is in the{" "}
             <Link prefetch={false}
               href="/stories/nfl-uniform-schedule-2026"
-              className="text-[#2f6bed] font-semibold hover:underline"
+              className="text-[#0025CC] font-semibold hover:underline"
             >
               league-wide NFL uniform schedule
             </Link>

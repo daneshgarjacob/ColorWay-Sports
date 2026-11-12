@@ -28,7 +28,7 @@ export default function StorySidebar({ posts }: StorySidebarProps) {
       {picks.length > 0 && (
         <section className="mb-8">
           <p
-            className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#2f6bed] mb-3"
+            className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#0025CC] mb-3"
             style={{ fontFamily: "var(--font-sans)" }}
           >
             Keep Reading

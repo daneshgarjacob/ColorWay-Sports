@@ -53,7 +53,7 @@ const fantasyDraftCard = {
   date: "2026-06-28",
   excerpt:
     "Get dealt five random stars for every spot in a 4-3-3 and draft your dream XI from every nation that made the Round of 32 — eliminated teams stay in the pool. Get your squad's overall rating, then send it to your friends.",
-  gradient: "linear-gradient(135deg, #0b3b2e 0%, #2f6bed 100%)",
+  gradient: "linear-gradient(135deg, #0b3b2e 0%, #0025CC 100%)",
   coverImage: "/images/posts/world-cup-2026-fantasy-draft/cover.jpg",
   league: "soccer",
   teams: [] as string[],
@@ -67,7 +67,7 @@ const rootingGuideCard = {
   date: "2026-06-25",
   excerpt:
     "Tap to pick every knockout winner from the Round of 32 to the Final, watch real results lock in as games finish, see who your team could play next, and share your bracket. All 32 teams.",
-  gradient: "linear-gradient(135deg, #003087 0%, #2f6bed 100%)",
+  gradient: "linear-gradient(135deg, #003087 0%, #0025CC 100%)",
   coverImage: "/images/world-cup-rooting-guide-cover.jpg",
   league: "soccer",
   teams: [] as string[],

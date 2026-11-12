@@ -214,7 +214,7 @@ export default async function MlbUniformsZone() {
             </div>
             <div className="grid grid-cols-3 gap-3">
               {[
-                { k: "Games tonight", v: `${tonight.games}`, c: "#2f6bed" },
+                { k: "Games tonight", v: `${tonight.games}`, c: "#0025CC" },
                 {
                   k: "Games confirmed",
                   v: `${tonight.confirmedGames} of ${tonight.games}`,

@@ -56,7 +56,7 @@ export default function NflWeekZone() {
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-5 gap-3">
             {[
-              { k: "Color at home", v: `${stats.homeColor} of ${stats.homeTotal}`, c: "#2f6bed" },
+              { k: "Color at home", v: `${stats.homeColor} of ${stats.homeTotal}`, c: "#0025CC" },
               { k: "White at home", v: `${stats.homeWhite}`, c: "#64748b" },
               { k: "Alternates & specials", v: `${stats.alternates}`, c: "#f59e0b" },
               { k: "Color vs color", v: `${stats.colorVsColor}`, c: "#b3261e" },

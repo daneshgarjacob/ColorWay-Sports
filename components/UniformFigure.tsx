@@ -283,7 +283,7 @@ export default function UniformFigure({
             fontSize={14}
             fontWeight={800}
             letterSpacing={2.5}
-            fill="#2f6bed"
+            fill="#0025CC"
             style={{ fontFamily: "var(--font-display)" }}
           >
             TBA

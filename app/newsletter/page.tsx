@@ -39,7 +39,7 @@ export default function NewsletterPage() {
       <Header />
       <main className="max-w-[860px] mx-auto px-5 py-12 sm:py-16">
       <p
-        className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#2f6bed] mb-3 text-center"
+        className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#0025CC] mb-3 text-center"
         style={{ fontFamily: "var(--font-sans)" }}
       >
         Free, every week
@@ -84,13 +84,13 @@ export default function NewsletterPage() {
       <p className="text-[14px] text-black/55 leading-relaxed text-center mt-10">
         Trouble signing up? Email{" "}
         <a
-          className="text-[#2f6bed] font-semibold"
+          className="text-[#0025CC] font-semibold"
           href="mailto:contact@colorwaysports.com"
         >
           contact@colorwaysports.com
         </a>{" "}
         and we will add you by hand. You can read what we send in the{" "}
-        <Link prefetch={false} href="/stories" className="text-[#2f6bed] font-semibold">
+        <Link prefetch={false} href="/stories" className="text-[#0025CC] font-semibold">
           story archive
         </Link>{" "}
         any time.

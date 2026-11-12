@@ -14,8 +14,8 @@ import { uniformTrim } from "@/lib/nflTeamColors";
 
 const STATUS: Record<SlateSide["look"]["state"], { text: string; cls: string }> = {
   worn: { text: "Worn", cls: "bg-[#0B1F4A] text-white" },
-  confirmed: { text: "Confirmed", cls: "bg-[#2f6bed] text-white" },
-  jersey: { text: "Jersey confirmed", cls: "bg-[#E6EEFD] text-[#2f6bed]" },
+  confirmed: { text: "Confirmed", cls: "bg-[#0025CC] text-white" },
+  jersey: { text: "Jersey confirmed", cls: "bg-[#E6EEFD] text-[#0025CC]" },
   tba: { text: "TBA", cls: "bg-[#EEF0F4] text-[#7C8696]" },
 };
 
@@ -59,7 +59,7 @@ function Caption({ side, align }: { side: SlateSide; align: "left" | "right" }) 
       <Link
         prefetch={false}
         href={`/stories/${team.scheduleSlug}`}
-        className="text-[15px] font-extrabold leading-tight text-[#2f6bed] hover:underline sm:text-[16px]"
+        className="text-[15px] font-extrabold leading-tight text-[#0025CC] hover:underline sm:text-[16px]"
       >
         {team.nickname}
       </Link>
@@ -160,7 +160,7 @@ export default function NflWeekBoard({ slate, answers }: { slate: NflWeekSlate; 
           <Link
             prefetch={false}
             href="/stories/nfl-uniform-tracker-2026"
-            className="mt-4 inline-block text-[11px] font-extrabold uppercase tracking-[0.14em] text-[#2f6bed]"
+            className="mt-4 inline-block text-[11px] font-extrabold uppercase tracking-[0.14em] text-[#0025CC]"
           >
             What they actually wore: the NFL uniform tracker →
           </Link>

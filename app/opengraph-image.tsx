@@ -35,7 +35,7 @@ export default async function OgImage() {
             left: 0,
             right: 0,
             height: "6px",
-            background: "#2f6bed",
+            background: "#0025CC",
             display: "flex",
           }}
         />
@@ -51,7 +51,7 @@ export default async function OgImage() {
             left: 0,
             right: 0,
             height: "6px",
-            background: "#2f6bed",
+            background: "#0025CC",
             display: "flex",
           }}
         />

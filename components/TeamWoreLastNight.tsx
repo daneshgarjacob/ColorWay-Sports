@@ -20,7 +20,7 @@ import WearQuickAnswers from "@/components/WearQuickAnswers";
  */
 export default function TeamWoreLastNight({
   data,
-  accent = "#2f6bed",
+  accent = "#0025CC",
   answers = [],
 }: {
   data: TeamLatest;

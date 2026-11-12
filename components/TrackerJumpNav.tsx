@@ -72,7 +72,7 @@ export default function TrackerJumpNav({
           ref={selectRef}
           defaultValue=""
           onChange={(e) => jumpTo(e.target.value)}
-          className="flex-1 min-w-0 text-sm font-semibold text-blue-dark bg-white border border-black/10 rounded-lg px-3 py-1.5 cursor-pointer hover:border-black/25 focus:outline-none focus:ring-2 focus:ring-[#2f6bed]/40 transition-colors duration-150"
+          className="flex-1 min-w-0 text-sm font-semibold text-blue-dark bg-white border border-black/10 rounded-lg px-3 py-1.5 cursor-pointer hover:border-black/25 focus:outline-none focus:ring-2 focus:ring-[#0025CC]/40 transition-colors duration-150"
         >
           <option value="" disabled>
             {placeholder}

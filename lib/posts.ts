@@ -455,7 +455,7 @@ export function trimLogSections(
     `<p style="margin: 0;"><strong>This page keeps the ${keep} most recent ${keep === 1 ? "entry" : "entries"}.</strong> ` +
     `The earlier ${trimmed} ${trimmed === 1 ? "entry is" : "entries are"} still logged` +
     (post.archiveHref
-      ? `, and every game is filed on the team pages, all season long. <a href="${post.archiveHref}" style="font-weight: 700; color: #2f6bed; text-decoration: none;">${label} &rarr;</a>`
+      ? `, and every game is filed on the team pages, all season long. <a href="${post.archiveHref}" style="font-weight: 700; color: #0025CC; text-decoration: none;">${label} &rarr;</a>`
       : `.`) +
     `</p></div>\n`;
 

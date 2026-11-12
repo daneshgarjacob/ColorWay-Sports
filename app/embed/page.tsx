@@ -42,7 +42,7 @@ export default function EmbedPage() {
       <Header />
       <main className="max-w-[1200px] mx-auto px-5 pt-12 pb-20" style={{ fontFamily: "var(--font-hanken), system-ui, sans-serif" }}>
         <section className="max-w-[720px]">
-          <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-[#2f6bed] mb-3">Free widget · NFL now, more leagues soon</p>
+          <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-[#0025CC] mb-3">Free widget · NFL now, more leagues soon</p>
           <h1 className="text-[34px] sm:text-[44px] font-extrabold leading-[1.05] tracking-[-0.02em] text-[#0B1F4A]">
             What is your team wearing this week?
           </h1>

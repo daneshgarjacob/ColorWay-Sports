@@ -24,7 +24,7 @@ import {
 } from "@/lib/wcSquadDraft";
 
 const STORE_KEY = "cw-wc2026-xi-v1";
-const BRAND = "#2f6bed";
+const BRAND = "#0025CC";
 const NAVY = "#0a1f4d";
 const PITCH = "#15803d";
 const ANIM_MS = 720;
@@ -32,7 +32,7 @@ const ANIM_TICK = 80;
 
 function ratingColor(r: number): string {
   if (r >= 88) return "#15803d";
-  if (r >= 84) return "#2f6bed";
+  if (r >= 84) return "#0025CC";
   if (r >= 80) return "#b45309";
   return "#6b7280";
 }
@@ -317,7 +317,7 @@ export default function WorldCupSquadDraft() {
           {mounted && (
             <div className={`grid grid-cols-1 sm:grid-cols-2 gap-2.5 ${shuffling ? "opacity-90" : ""}`}>
               {display.map((pl, i) => (
-                <button key={`${i}-${pl.id}`} onClick={() => draft(pl.id)} disabled={shuffling} className={`flex items-center gap-3 text-left px-3.5 py-3 rounded-xl border bg-white transition ${shuffling ? "border-gray-200 blur-[0.4px] scale-[0.99]" : "border-gray-200 hover:border-[#2f6bed] hover:bg-blue-50"}`}>
+                <button key={`${i}-${pl.id}`} onClick={() => draft(pl.id)} disabled={shuffling} className={`flex items-center gap-3 text-left px-3.5 py-3 rounded-xl border bg-white transition ${shuffling ? "border-gray-200 blur-[0.4px] scale-[0.99]" : "border-gray-200 hover:border-[#0025CC] hover:bg-blue-50"}`}>
                   <Flag code={pl.flag} h={22} />
                   <span className="min-w-0">
                     <span className="block text-[14px] font-bold text-gray-900 truncate">{pl.name}</span>
@@ -325,7 +325,7 @@ export default function WorldCupSquadDraft() {
                   </span>
                   <span className="ml-auto flex items-center gap-2 shrink-0">
                     <span className="inline-flex items-center justify-center rounded-md text-[13px] font-black text-white tabular-nums" style={{ width: 34, height: 28, background: ratingColor(pl.rating) }}>{pl.rating}</span>
-                    {!shuffling && <span className="text-[11px] font-bold text-[#2f6bed]">Draft →</span>}
+                    {!shuffling && <span className="text-[11px] font-bold text-[#0025CC]">Draft →</span>}
                   </span>
                 </button>
               ))}

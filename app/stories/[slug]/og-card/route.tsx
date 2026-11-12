@@ -50,7 +50,7 @@ export async function GET(
 
   // Parse the gradient to get a simple background
   // Gradients work in ImageResponse, so we can use them directly
-  const gradient = post.gradient || "linear-gradient(135deg, #003087 0%, #2f6bed 100%)";
+  const gradient = post.gradient || "linear-gradient(135deg, #003087 0%, #0025CC 100%)";
 
   return new ImageResponse(
     (
@@ -74,7 +74,7 @@ export async function GET(
             left: 0,
             right: 0,
             height: "6px",
-            background: "#2f6bed",
+            background: "#0025CC",
             display: "flex",
           }}
         />
@@ -152,7 +152,7 @@ export async function GET(
             left: 0,
             right: 0,
             height: "6px",
-            background: "#2f6bed",
+            background: "#0025CC",
             display: "flex",
           }}
         />
