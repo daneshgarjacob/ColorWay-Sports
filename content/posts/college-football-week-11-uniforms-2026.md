@@ -34,6 +34,9 @@ Below is every uniform announced so far, then every game this week involving an 
 - **Virginia: navy with a stars and stripes V (Confirmed).** White helmet with the V-sabre logo filled in stars and stripes, navy jersey with an orange and white sleeve stripe, vs. Cal. Posted November 11.
 - **Western Kentucky: the classic block WKU helmet (Confirmed).** Red helmet with the white block WKU, red jersey, vs. Jacksonville State for Homecoming. "Homecoming calls for a classic," posted November 11.
 - **Louisville: red, white, red (Confirmed).** Red helmet, white jersey, red pants at North Carolina, "a classic combo for Chapel Hill." Posted November 11.
+- **Tennessee: all white (Confirmed).** White helmet, white jersey, white pants at Texas A&M, against the Aggies' all black.
+- **Wake Forest: shiny gold helmet (Confirmed).** A chrome gold helmet with a white jersey and white pants at No. 25 SMU. Our grade: **B+**.
+- **Oklahoma State: black "Pokes" helmet (Confirmed).** A black helmet with POKES on the side, vs. No. 10 Texas Tech for Salute to Service.
 
 That is the list as of Thursday, November 12. Schools post their combinations from Monday through Saturday morning, and we add each one here.
 
@@ -78,11 +81,11 @@ That is the list as of Thursday, November 12. Schools post their combinations fr
 
 ### No. 11 Wake Forest at No. 25 SMU: Homecoming in Dallas
 
-**Saturday, noon, ESPN.** **SMU: Expected, blue.** It is Homecoming, Senior Day and the last home game of the year for the Mustangs. SMU has worn a white helmet, blue jersey and white pants at home in four games this season, and it went to all black for its Dark mode game against Virginia Tech last Friday. **Wake Forest: Expected, white.** Wake has paired its white road jersey with a black helmet at Purdue, NC State and California, and it changed the pants in each of those games: white, gold and black. More: [SMU schedule](/stories/smu-uniform-schedule-2026) and [Wake Forest schedule](/stories/wake-forest-uniform-schedule-2026).
+**Saturday, noon, ESPN.** **SMU: Expected, blue.** It is Homecoming, Senior Day and the last home game of the year for the Mustangs. SMU has worn a white helmet, blue jersey and white pants at home in four games this season, and it went to all black for its Dark mode game against Virginia Tech last Friday. **Wake Forest: Confirmed, shiny gold over white.** Wake goes with a chrome gold helmet, a white jersey and white pants. In its other road games it paired the white jersey with a black helmet at Purdue, NC State and California. Our grade on the Wake look: **B+**. More: [SMU schedule](/stories/smu-uniform-schedule-2026) and [Wake Forest schedule](/stories/wake-forest-uniform-schedule-2026).
 
 ### No. 9 Tennessee at Texas A&M
 
-**Saturday, 3 p.m., ESPN.** **Texas A&M: Confirmed, all black.** On November 11 A&M posted a black uniform with a white "Aggies" script on the black helmet, and painted matching **script Aggies end zones** at Kyle Field. [Texas A&M goes all black with script Aggies end zones](/stories/texas-am-all-black-script-aggies-end-zones-tennessee-2026). More in our [Texas A&M schedule](/stories/texas-am-uniform-schedule-2026). **Tennessee: Expected, white.** Tennessee has gone all white in road games at Georgia Tech, Arkansas and South Carolina, one week after its all-black Dark Mode win over Kentucky. More: [Tennessee schedule](/stories/tennessee-uniform-schedule-2026).
+**Saturday, 3 p.m., ESPN.** **Texas A&M: Confirmed, all black.** On November 11 A&M posted a black uniform with a white "Aggies" script on the black helmet, and painted matching **script Aggies end zones** at Kyle Field. [Texas A&M goes all black with script Aggies end zones](/stories/texas-am-all-black-script-aggies-end-zones-tennessee-2026). More in our [Texas A&M schedule](/stories/texas-am-uniform-schedule-2026). **Tennessee: Confirmed, all white.** White helmet, white jersey, white pants, the same set it wore at Georgia Tech, Arkansas and South Carolina. All black against all white at Kyle Field. More: [Tennessee schedule](/stories/tennessee-uniform-schedule-2026).
 
 ### Michigan at No. 18 Oregon
 
@@ -179,7 +182,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Ohio State: **Expected**, scarlet, for its Military Appreciation Game.
 
 **No. 11 [Wake Forest](/stories/wake-forest-uniform-schedule-2026) at No. 25 [SMU](/stories/smu-uniform-schedule-2026)**, noon, ESPN.
-- Wake Forest: **Expected**, white.
+- Wake Forest: **Confirmed**, shiny gold helmet, white jersey, white pants.
 - SMU: **Expected**, blue, for Homecoming and Senior Day.
 
 **[Cincinnati](/stories/cincinnati-uniform-schedule-2026) at [Iowa State](/stories/iowa-state-uniform-schedule-2026)**, noon, TNT.
@@ -235,7 +238,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Rice: **Expected**, blue, for Homecoming.
 
 **No. 9 [Tennessee](/stories/tennessee-uniform-schedule-2026) at [Texas A&M](/stories/texas-am-uniform-schedule-2026)**, 3 p.m., ESPN.
-- Tennessee: **Expected**, white.
+- Tennessee: **Confirmed**, all white.
 - Texas A&M: **Expected**, maroon.
 
 **[Missouri](/stories/missouri-uniform-schedule-2026) at No. 1 [Georgia](/stories/georgia-uniform-schedule-2026)**, 3:30 p.m., ABC.
@@ -357,7 +360,7 @@ Also in the afternoon: Kennesaw State at Sam Houston (2 p.m., ESPN+), New Mexico
 
 **No. 10 [Texas Tech](/stories/texas-tech-uniform-schedule-2026) at [Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026)**, 9:30 p.m., ESPN.
 - Texas Tech: **Expected**, white.
-- Oklahoma State: **Expected**, orange, for Salute to Service.
+- Oklahoma State: **Confirmed**, black POKES helmet, for Salute to Service.
 
 **[Utah State](/stories/utah-state-uniform-schedule-2026) at [San Diego State](/stories/san-diego-state-uniform-schedule-2026)**, 9:30 p.m. (6:30 p.m. Pacific), USA Network.
 - Utah State: **Expected**, white.

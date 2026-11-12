@@ -160,7 +160,7 @@ All three national windows carry a confirmed alternate, covered above.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-white-road.jpg" alt="Los Angeles Rams white road jersey, scheduled by the team at Arizona in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams · Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cardinals-cardinal-home.jpg" alt="Arizona Cardinals cardinal red home jersey, scheduled by the team against the Rams in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Cardinals · Scheduled</figcaption></figure></div>
 
-**Sunday, 4:05 p.m. ET, CBS. Both jerseys scheduled by the teams.** Arizona published every jersey on September 1 and has **cardinal red** here. The Rams published **white** for this trip the same day. Pants are the week-of call for both. Our matchup grade: **B**. See the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026) and the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
+**Sunday, 4:05 p.m. ET, CBS. Rams confirmed, Cardinals scheduled.** The Rams confirmed the **blue helmet, white jersey and white pants** for this trip, the white they published on September 1. Arizona published every jersey on September 1 and has **cardinal red** here. Our matchup grade: **B**. See the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026) and the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
 
 ### Minnesota Vikings at Green Bay Packers
 
@@ -172,7 +172,7 @@ All three national windows carry a confirmed alternate, covered above.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-white-road.jpg" alt="Kansas City Chiefs white road jersey, expected at Atlanta in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/falcons-red-alternate.jpg" alt="Atlanta Falcons red jersey, scheduled by the team against the Chiefs in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Falcons · Scheduled</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Falcons scheduled, Chiefs expected.** Atlanta's September 10 schedule has **red** at home, and the Falcons wore white pants with the black helmet and red jersey in Weeks 6 and 8. Kansas City is expected in **white** under the red helmet. Our matchup grade: **B**. See the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, CBS. Falcons confirmed, Chiefs expected.** The Falcons confirmed the **black helmet, red jersey and black pants**, a change from the white pants they wore with the red jersey in Weeks 6 and 8. Kansas City is expected in **white** under the red helmet. Our matchup grade: **B**. See the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026).
 
 ### Miami Dolphins at Indianapolis Colts
 
@@ -195,7 +195,7 @@ All three national windows carry a confirmed alternate, covered above.
 ### Sunday, November 15
 
 - **New England Patriots at Detroit Lions** (Munich), 9:30 a.m. ET, FOX. Patriots: silver helmet, white jersey (expected). Lions: Honolulu blue (expected). Matchup grade: B.
-- **Kansas City Chiefs at Atlanta Falcons**, 1:00 p.m. ET, CBS. Chiefs: red helmet, white jersey (expected). Falcons: black helmet, red jersey (scheduled). Matchup grade: B.
+- **Kansas City Chiefs at Atlanta Falcons**, 1:00 p.m. ET, CBS. Chiefs: red helmet, white jersey (expected). Falcons: black helmet, red jersey, black pants (confirmed). Matchup grade: B.
 - **Houston Texans at Cleveland Browns**, 1:00 p.m. ET, FOX. Texans: white (expected). Browns: Alpha Dawg, brown helmet, brown jersey, brown pants (expected). Matchup grade: C.
 - **Minnesota Vikings at Green Bay Packers**, 1:00 p.m. ET, FOX. Vikings: white (expected). Packers: gold helmet, green jersey (expected). Matchup grade: B.
 - **Jacksonville Jaguars at Tennessee Titans**, 1:00 p.m. ET, FOX. Jaguars: white (expected). Titans: Music City, Titans Blue helmet, navy jersey (confirmed). Matchup grade: B.
@@ -203,7 +203,7 @@ All three national windows carry a confirmed alternate, covered above.
 - **Carolina Panthers at New Orleans Saints**, 1:00 p.m. ET, FOX. Panthers: white (scheduled). Saints: black helmet, black jersey (scheduled). Matchup grade: B.
 - **Buffalo Bills at New York Jets**, 1:00 p.m. ET, CBS. Bills: white (expected). Jets: Black on Black, black helmet, jersey and pants (confirmed). Matchup grade: B-.
 - **Seattle Seahawks at Las Vegas Raiders**, 4:05 p.m. ET, CBS. Seahawks: white (expected). Raiders: silver helmet, black jersey (expected). Matchup grade: B.
-- **Los Angeles Rams at Arizona Cardinals**, 4:05 p.m. ET, CBS. Rams: white (scheduled). Cardinals: cardinal red (scheduled). Matchup grade: B.
+- **Los Angeles Rams at Arizona Cardinals**, 4:05 p.m. ET, CBS. Rams: blue helmet, white jersey, white pants (confirmed). Cardinals: cardinal red (scheduled). Matchup grade: B.
 - **San Francisco 49ers at Dallas Cowboys**, 4:25 p.m. ET, FOX. 49ers: gold helmet, red 1994 throwback (confirmed). Cowboys: silver star helmet, white jersey (scheduled). Matchup grade: A-.
 - **Pittsburgh Steelers at Cincinnati Bengals**, 8:20 p.m. ET, NBC. Steelers: black (expected). Bengals: White Bengal, white helmet, white jersey, white pants (confirmed). Matchup grade: A-.
 
