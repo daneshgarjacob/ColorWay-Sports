@@ -11,6 +11,7 @@ kicker: "This Week"
 logoSrc: "/logos/leagues/nba.png"
 league: nba
 teams: ["new-york-knicks", "indiana-pacers", "milwaukee-bucks", "orlando-magic", "cleveland-cavaliers", "miami-heat", "atlanta-hawks", "chicago-bulls", "memphis-grizzlies", "new-orleans-pelicans", "utah-jazz", "houston-rockets", "golden-state-warriors", "san-antonio-spurs", "portland-trail-blazers", "sacramento-kings", "oklahoma-city-thunder", "la-clippers"]
+homepageHero: "2026-11-13"
 ---
 
 The Emirates NBA Cup is back on Friday, November 13, with **nine group play games**, and every one is played on the home team's painted Cup court. Here is what everybody wears, from the NBA's official game-by-game uniform schedule, published October 19.

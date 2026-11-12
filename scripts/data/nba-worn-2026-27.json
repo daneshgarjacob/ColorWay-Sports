@@ -2259,6 +2259,146 @@
       },
       "confirmed": true,
       "source": "NBC Sports California highlight frames via ESPN (Kings black Icon, Magic white pinstripe Association)"
+    },
+    "2026-11-11 BKN@NOP": {
+      "score": {
+        "away": 145,
+        "home": 111
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game photo and YES highlight frame (Pelicans home white, Nets black NETS Statement; only one broadcast frame)"
+    },
+    "2026-11-11 BOS@TOR": {
+      "score": {
+        "away": 98,
+        "home": 93
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "NBC Sports Boston highlight frames via ESPN (Celtics green Icon, Raptors black Statement)"
+    },
+    "2026-11-11 CLE@NYK": {
+      "score": {
+        "away": 115,
+        "home": 107
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "NBA highlight frames via ESPN (Cavaliers black CAVS Statement, Knicks home white)"
+    },
+    "2026-11-11 DEN@MEM": {
+      "score": {
+        "away": 123,
+        "home": 118
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Altitude highlight frames via ESPN (Grizzlies navy Icon, Nuggets white Association)"
+    },
+    "2026-11-11 GSW@HOU": {
+      "score": {
+        "away": 108,
+        "home": 115
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game photos and highlight frames (Warriors black Golden State Statement, Rockets red Icon)"
+    },
+    "2026-11-11 LAL@MIL": {
+      "score": {
+        "away": 123,
+        "home": 112
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game photo and Spectrum SportsNet highlight frames (Lakers gold Icon, Bucks black Statement)"
+    },
+    "2026-11-11 OKC@POR": {
+      "score": {
+        "away": 108,
+        "home": 118
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "Trail Blazers highlight frames via ESPN (Trail Blazers red Statement, Thunder blue Icon)"
+    },
+    "2026-11-11 ORL@UTA": {
+      "score": {
+        "away": 123,
+        "home": 108
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "highlight frames via ESPN (Magic black pinstripe Statement, Jazz home white)"
+    },
+    "2026-11-11 SAS@CHI": {
+      "score": {
+        "away": 124,
+        "home": 119
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "CHSN highlight frames via ESPN (Spurs black Icon, Bulls home white)"
+    },
+    "2026-11-11 WAS@IND": {
+      "score": {
+        "away": 101,
+        "home": 114
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Pacers TV highlight frames via ESPN (Pacers navy Icon, Wizards white Association; Veterans Day scorebug)"
     }
   }
 }

@@ -81,7 +81,7 @@ Honoring the only national championship in program history is worth doing, and d
 
 Navy wears the 1926 centennial uniform once, against Notre Dame at Gillette Stadium on October 31. Nine chevron stripes for nine wins, Class of 1926 numerals, an anniversary patch, and the untouched gold helmet and pants underneath. The concept is one of the best of the college season. The chest is one element too many.
 
-For the rest of Navy's season, including the December tribute set that has not been revealed yet, see our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026). Their opponent's calendar is in the [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026), and the other academy's is in the [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026).
+For the rest of Navy's season, including the [December tribute to the Navy SEALs](/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded) revealed November 12, see our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026). Their opponent's calendar is in the [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026), and the other academy's is in the [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026).
 
 ## Frequently Asked Questions
 
@@ -107,6 +107,6 @@ Gillette Stadium in Foxborough, Massachusetts, on Saturday, October 31. Navy is 
 
 **Is this the Army-Navy uniform?**
 
-No. Navy builds a separate tribute uniform for the Army-Navy Game every December, and the 2026 version has not been revealed. This one is for Notre Dame only.
+No. Navy builds a separate tribute uniform for the Army-Navy Game every December, and the 2026 version, revealed November 12, honors the Navy SEALs and Naval Special Warfare ([our grade](/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded)). This one is for Notre Dame only.
 
 *Uniform images courtesy of Navy Athletics and Under Armour. Navy announced the uniform on September 15, 2026.*

@@ -3,7 +3,7 @@ title: "Navy Football Uniform And Logo History: Navy Blue And Gold, Bill The Goa
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-11"
-updatedDate: "2026-11-11"
+updatedDate: "2026-11-12"
 excerpt: "Navy football's uniform and logo history: why the Midshipmen wear navy blue and gold, where Bill the Goat and the N-Star came from, the 1926 chevron sweaters, the gold helmet, and every special Army-Navy Game uniform Navy has worn since 2008."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b2f6e 55%, #C5B783 130%)"
 coverImage: "/images/posts/navy-football-uniform-logo-history/army-navy-2016.jpg"
@@ -29,7 +29,7 @@ This is the full history: where the colors and the name came from, how the logos
 - **Why are they called the Midshipmen?** Every student at the Naval Academy holds the rank of midshipman, so the teams are the Midshipmen, or the Mids. Navy Athletics says "Middie" is not correct.
 - **Why is the mascot a goat?** Navy Athletics dates the first recorded goat mascot to **1893**, an animal named El Cid, and says goats have served without interruption since **1904**. The name Bill is the one that stuck.
 - **What does Navy wear in a normal game?** Navy blue at home with gold numerals and gold pants, white on the road, and a gold helmet with no logo on the side.
-- **What is Navy wearing against Army in 2026?** It has not been revealed as of November 11. The 127th Army-Navy Game is **Saturday, December 12** at MetLife Stadium. Navy's reveal came on November 18 last year.
+- **What is Navy wearing against Army in 2026?** A Naval Special Warfare tribute to the Navy SEALs, SWCC and the WWII Frogmen, revealed November 12: a white jersey with BUD/S-style numbers, tonal blue camo and a hand-painted helmet with the SEAL Trident and a Bone Frog on top. [Every detail and our grade](/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded). The 127th Army-Navy Game is **Saturday, December 12** at MetLife Stadium.
 
 ## The Colors: Navy Blue And Gold Since 1892
 
@@ -105,7 +105,7 @@ Special Army-Navy uniforms started in **2008**, when both academies wore custom 
 <tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; font-weight: 800;">2023</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec;">The Silent Service</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec;">The submarine force: dark "Eclipse Navy" with hull-style numbers, a submarine on the helmet and a submariner's pin with the anchor</td></tr>
 <tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; font-weight: 800;">2024</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec;">The Jolly Rogers</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec;">The skull-and-crossbones fighter squadron: color blocking from the squadron's aircraft, angled stripes for the planes it has flown, "Fear the Bones" on the back of the helmet</td></tr>
 <tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; font-weight: 800;">2025</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec;">The Navy at 250</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec;">USS Constitution and the original six frigates: a copper helmet for the frigates' copper hull plating with a USN monogram, six ropes on the sleeves and collar tied with 250 knots, 126 knots on the pants for the 126th game</td></tr>
-<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; font-weight: 800;">2026</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec;">Not revealed yet</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec;">The 127th game is December 12 at MetLife Stadium. We will add it here the day Navy shows it.</td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; font-weight: 800;">2026</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec;">Naval Special Warfare</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec;">The SEALs, SWCC and WWII Frogmen: white jersey with BUD/S-style numbers and tonal blue camo, deep navy pants, a hand-painted helmet with the SEAL Trident and a Bone Frog on top (<a href="/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded">graded A-</a>)</td></tr>
 </tbody>
 </table>
 </div>
@@ -182,7 +182,7 @@ A uniform for the Navy's 250th anniversary built around USS Constitution: a copp
 
 **What is Navy wearing in the 2026 Army-Navy Game?**
 
-Navy has not revealed it as of November 11. Last year's reveal came on November 18. The game is Saturday, December 12 at MetLife Stadium.
+A Naval Special Warfare tribute to the Navy SEALs, SWCC boat crews and WWII Frogmen, revealed November 12: a white jersey, deep navy pants and a hand-painted navy helmet with the SEAL Trident and a Bone Frog. Our full breakdown is in [Navy's 2026 Army-Navy uniform, graded](/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded). The game is Saturday, December 12 at MetLife Stadium.
 
 **What did Navy wear in 1926?**
 

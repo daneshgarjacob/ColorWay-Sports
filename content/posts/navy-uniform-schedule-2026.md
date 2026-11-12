@@ -3,7 +3,7 @@ title: "Navy Uniform Schedule 2026: Every Jersey and When the Midshipmen Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-11"
+updatedDate: "2026-11-12"
 excerpt: "What Navy wears every game in 2026: the navy home jersey, the white road set, the 1926 centennial throwback against Notre Dame, and the December tribute."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b3072 55%, #C5B783 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["navy-midshipmen", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-Navy owns two of the biggest uniform dates on the college football calendar and it has already announced what it is wearing for one of them. This is the full Navy 2026 uniform schedule: the navy home jersey, the white road set, the gold helmet that never changes, the 1926 centennial throwback the Midshipmen will wear against Notre Dame at Gillette Stadium, and the December tribute uniform that still has not been revealed. We update this page as each combination is confirmed.
+Navy owns two of the biggest uniform dates on the college football calendar and it has now announced what it is wearing for both. This is the full Navy 2026 uniform schedule: the navy home jersey, the white road set, the gold helmet that never changes, the 1926 centennial throwback the Midshipmen will wear against Notre Dame at Gillette Stadium, and the December Army-Navy uniform honoring the Navy SEALs, revealed November 12. We update this page as each combination is confirmed.
 
 **Update, October 24:** Navy wore the **gold helmet, navy jersey and navy pants** for Homecoming against North Texas, confirmed from the team's halftime graphic, and lost **49-39**.
 
@@ -23,7 +23,7 @@ Navy owns two of the biggest uniform dates on the college football calendar and 
   <div style="background: #00205B; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Navy Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Navy blue jersey with gold numerals and gold and white shoulder stripes, worn with gold pants. The default look at Navy-Marine Corps Memorial Stadium and what the Midshipmen opened the season in.</div></div>
   <div style="background: #ffffff; color: #00205B; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with navy numerals and navy and gold trim, paired with navy pants or white pants. Navy wore it with navy pants at Florida Atlantic in Week 2.</div></div>
   <div style="background: #C5B783; color: #00205B; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">1926 Centennial</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Announced for Notre Dame on October 31: an Under Armour take on the 1926 Chevron Stripe jersey, nine stripes across the body for nine wins, numerals drawn from the Class of 1926 pin, and a 100th anniversary patch.</div></div>
-  <div style="background: #001233; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">America's Game Uniform</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The one-off Under Armour build for the Army-Navy Game, usually with a hand-painted helmet and unit patches chosen by the players. The 2026 version has not been revealed.</div></div>
+  <div style="background: #001233; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">America's Game Uniform</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The one-off Under Armour build for the Army-Navy Game, usually with a hand-painted helmet and unit patches chosen by the players. The 2026 version, revealed November 12, honors the Navy SEALs and Naval Special Warfare.</div></div>
 </div>
 
 The base is as traditional as it gets. Navy wears a gold helmet with no logo on the sides, a navy jersey at home over gold pants, and a white jersey on the road, and all of it comes from Under Armour. What separates this program from almost every other roster in the sport is what sits on top of that base: Navy builds elaborate one-off uniforms for its two signature games, and the storytelling on them is genuinely detailed rather than decorative.
@@ -51,7 +51,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
   <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">DEC 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">American title game</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">If they qualify</div></div>
-  <div style="background: #001233; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">DEC 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army (MetLife)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Tribute set, unrevealed</div></div>
+  <div style="background: #001233; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">DEC 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army (MetLife)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy SEALs tribute, white</div></div>
 </div>
 
 **September 5 vs. Towson.** ★ Confirmed from the broadcast: **gold helmet, navy jersey, gold pants**, the standard home set, in a 3:30 p.m. Eastern opener on CBS Sports Network. Navy won 42-15 in Annapolis.
@@ -98,7 +98,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
 
 ## What Navy Wears Against Army, and What We Know About 2026
 
-Nothing has been announced. Navy's Army-Navy uniform reveal has landed in the second half of November in recent seasons, and last year it dropped on November 18. Army has already shown its side: the green [Ivy Soldier uniform for the 4th Infantry Division](/stories/army-navy-2026-uniform-ivy-soldier-4th-infantry-division-graded), revealed November 8. We graded it a B.
+Navy revealed it on Thursday, November 12: a **Naval Special Warfare** tribute to the Navy SEALs, the SWCC boat crews and the WWII Frogmen. It is a white jersey with BUD/S-style stencil numbers and tonal blue camo on the shoulders, deep navy pants with a sea spray graphic, and a hand-painted navy helmet with the SEAL Trident, the SWCC Warboat and a Bone Frog on top. We graded it an **A-**: [every detail here](/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded). Army showed its side first: the green [Ivy Soldier uniform for the 4th Infantry Division](/stories/army-navy-2026-uniform-ivy-soldier-4th-infantry-division-graded), revealed November 8. We graded it a B.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/On3/status/1990817796058395117"></a></blockquote>
@@ -140,7 +140,7 @@ Yes. Navy announced on September 15 that it will wear a commemorative Under Armo
 
 **What is Navy wearing for the Army-Navy Game in 2026?**
 
-Unknown as of October 10. The 127th Army-Navy Game is Saturday, December 12 at 3 p.m. Eastern on CBS at MetLife Stadium. Navy has honored a different part of the fleet each year, from the Jolly Rogers in 2024 to the USS Constitution and the Navy's 250th anniversary in 2025, and players wear individual unit patches on the jersey. We will update this page the day the 2026 design is revealed.
+A Naval Special Warfare tribute uniform honoring the Navy SEALs, SWCC and the WWII Frogmen, revealed November 12: white jersey, deep navy pants, hand-painted navy helmet with a Bone Frog on top ([our grade](/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded)). The 127th Army-Navy Game is Saturday, December 12 at 3 p.m. Eastern on CBS at MetLife Stadium. Navy has honored a different part of the fleet each year, from the Jolly Rogers in 2024 to the USS Constitution and the Navy's 250th anniversary in 2025, and players wear individual unit patches on the jersey.
 
 **What did Navy wear against Florida Atlantic?**
 

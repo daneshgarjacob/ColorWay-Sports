@@ -114,7 +114,7 @@ The 2025 uniform was the largest swing yet. Army and Nike marked 250 years of Ar
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArmyWP_Football/status/1989016203541565668"></a></blockquote>
 </div>
 
-Navy lost none of that arms race, which is why the joint reveal has become an event of its own. For 2026 we are not going to guess at a unit, a color or a helmet finish. When the reveal drops we will star the December cell and write the whole thing up.
+Navy lost none of that arms race, which is why the reveals have become events of their own. Navy answered the Ivy Soldier on November 12 with a white Naval Special Warfare uniform honoring the Navy SEALs, with a Bone Frog on the helmet. We graded it an A-, ahead of Army's B: [Navy's uniform, graded](/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded).
 
 ## The Bottom Line
 

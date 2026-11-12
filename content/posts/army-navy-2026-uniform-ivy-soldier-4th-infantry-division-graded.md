@@ -3,7 +3,7 @@ title: "Army's 2026 Army-Navy Uniform Is The Ivy Soldier: Green For The 4th Infa
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-11"
-updatedDate: "2026-11-11"
+updatedDate: "2026-11-12"
 excerpt: "Army and Nike unveiled the Ivy Soldier uniform for the 127th Army-Navy Game on December 12: an ivy-green camo build for the 4th Infantry Division with a IV helmet, Steadfast and Loyal on the shell, an ivy-wrapped Athena shield and a 9/11 decal. Every detail, our piece-by-piece grade, and what Navy has shown so far."
 gradient: "linear-gradient(135deg, #1f2a14 0%, #4a5d23 55%, #9acd32 130%)"
 kicker: "Uniform Grade"
@@ -30,7 +30,7 @@ Our grade: **B**. The details are some of the best Army has ever done. The color
 - **Why the 4th Infantry Division?** The uniform honors the division's 100-plus years of service, and specifically its forward role in **Operation Atlantic Resolve** in Europe from 2014 to 2019. It also marks the **25th anniversary of September 11**.
 - **Why ivy?** The 4th Infantry Division was constituted in 1917 with the Roman numeral **IV**, and "ivy" is a play on IV. Its shoulder patch is four ivy leaves.
 - **When is the game?** Saturday, December 12, 3 p.m. Eastern, CBS, MetLife Stadium in East Rutherford, New Jersey.
-- **Has Navy revealed its uniform?** Not as of Wednesday, November 11. Navy's reveal came on November 18 last year.
+- **Has Navy revealed its uniform?** Yes, on November 12: a Naval Special Warfare tribute to the SEALs, in white with a Bone Frog on the helmet. [Navy's uniform, graded](/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded).
 
 ## What The Ivy Soldier Uniform Looks Like
 
@@ -97,7 +97,7 @@ It is the first green-based Army-Navy uniform in this run. The full Army schedul
 
 ## What About Navy?
 
-Navy has not revealed its 2026 Army-Navy uniform as of Wednesday, November 11. Last year Navy's reveal came on November 18, so it could land any day. Navy's regular-season sets, including the 1926 centennial uniform it wore against Notre Dame, are in our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026) and our [Navy 1926 centennial uniform grade](/stories/navy-1926-centennial-uniform-2026). We will add Navy's uniform here and grade the matchup when it drops.
+Navy revealed its uniform on Thursday, November 12: a **Naval Special Warfare** tribute to the Navy SEALs, the SWCC boat crews and the WWII Frogmen. It is a white jersey with BUD/S-style stencil numbers and tonal blue camo, deep navy pants, and a hand-painted navy helmet with the SEAL Trident and a Bone Frog on top. We graded it an **A-**, ahead of Army's B. Every detail is in [Navy's 2026 Army-Navy uniform, graded](/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded). Navy's regular-season sets, including the 1926 centennial uniform it wore against Notre Dame, are in our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026).
 
 The Army-Navy Game also announced on Monday that the 2027 game moves to **Saturday, December 4, 2027 at Lincoln Financial Field in Philadelphia**.
 
@@ -145,7 +145,7 @@ Saturday, December 12, 2026, at 3 p.m. Eastern on CBS, at MetLife Stadium in Eas
 
 **Has Navy revealed its Army-Navy uniform for 2026?**
 
-Not yet as of November 11. Navy revealed its 2025 uniform on November 18.
+Yes. On November 12 Navy revealed a Naval Special Warfare uniform honoring the SEALs, SWCC and the WWII Frogmen. [Our grade and breakdown](/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded).
 
 **Who makes Army's Army-Navy uniform?**
 

@@ -3,7 +3,7 @@ title: "College Football Week 11 Uniforms 2026: Texas at LSU, Marshall's Play Fo
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-08"
-updatedDate: "2026-11-11"
+updatedDate: "2026-11-12"
 excerpt: "College football Week 11 uniforms: Texas at LSU, Utah at Arizona, USC at Indiana, and Marshall's Play For The 75 against App State. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #2a1a08 60%, #BF5700 130%)"
 coverImage: "/images/posts/college-football-week-11-uniforms-2026/cover.jpg"
@@ -26,7 +26,16 @@ Below is every uniform announced so far, then every game this week involving an 
 - **Kentucky: Night Ops, all black (Confirmed).** Matte black helmet with a blue and white stripe, black jersey with white numbers, black pants, vs. Florida. Posted November 11. [Our grade](/stories/kentucky-night-ops-all-black-uniforms-florida-2026).
 - **Texas A&M: all black with script Aggies (Confirmed).** Black helmet with a white "Aggies" script, black jersey, black pants, vs. Tennessee, plus new script Aggies end zones at Kyle Field. Posted November 11. [Details](/stories/texas-am-all-black-script-aggies-end-zones-tennessee-2026).
 
-That is the list as of Wednesday, November 11. Schools post their combinations from Monday through Saturday morning, and we add each one here.
+- **Utah: black helmet, white, white (Confirmed).** Black helmet with the red circle-and-feather logo, white jersey with red sleeve stripes, white pants, at No. 22 Arizona. Posted November 11.
+- **Arizona: navy for Military Appreciation (Confirmed).** White helmet, navy jersey and navy pants, posted November 12 with the caption "fitted" and an American flag.
+- **Oregon: black helmet, black jersey, white pants (Confirmed).** A black helmet with Japanese katakana lettering, black jersey with green numbers and white pants, vs. Michigan. Posted November 11 as the "Game 10 uniform combo."
+- **Colorado: all black (Confirmed).** Black helmet with a gold facemask, black jersey with gold numbers, black pants, vs. No. 14 Houston on Friday, matching the Buffs Wear Black crowd theme. Posted November 11.
+- **BYU: royal, royal (Confirmed).** White helmet, royal jersey, royal pants, vs. Baylor. Posted November 10.
+- **Virginia: navy with a stars and stripes V (Confirmed).** White helmet with the V-sabre logo filled in stars and stripes, navy jersey with an orange and white sleeve stripe, vs. Cal. Posted November 11.
+- **Western Kentucky: the classic block WKU helmet (Confirmed).** Red helmet with the white block WKU, red jersey, vs. Jacksonville State for Homecoming. "Homecoming calls for a classic," posted November 11.
+- **Louisville: red, white, red (Confirmed).** Red helmet, white jersey, red pants at North Carolina, "a classic combo for Chapel Hill." Posted November 11.
+
+That is the list as of Thursday, November 12. Schools post their combinations from Monday through Saturday morning, and we add each one here.
 
 ## Games of the Week
 
@@ -36,7 +45,18 @@ That is the list as of Wednesday, November 11. Schools post their combinations f
 
 ### No. 2 Utah at No. 22 Arizona: Military Appreciation Night in Tucson
 
-**Saturday, 7:30 p.m. (5:30 p.m. Arizona), FOX.** **Arizona: Expected, navy.** Arizona has worn a navy jersey with a white helmet in home games against Northern Arizona, Cincinnati and Iowa State, and wore its Sandstorm set against TCU last Friday: a chrome red ARIZONA helmet, white jersey and white pants. This is Military Appreciation night, with fans asked to wear red. Arizona has worn a military-themed uniform for this game in some seasons and stayed in its standard look last year. **Utah: Expected, white.** Utah has also worn all red on the road this season, at Iowa State, so the road white is a projection we will check against the team's post. More: [Arizona schedule](/stories/arizona-uniform-schedule-2026) and [Utah schedule](/stories/utah-uniform-schedule-2026).
+**Saturday, 7:30 p.m. (5:30 p.m. Arizona), FOX.** **Arizona: Confirmed, navy.** Arizona posted a white helmet, navy jersey and navy pants on Thursday morning, with an American flag and the caption "fitted." Arizona has worn a navy jersey with a white helmet in home games against Northern Arizona, Cincinnati and Iowa State, and wore its Sandstorm set against TCU last Friday: a chrome red ARIZONA helmet, white jersey and white pants. This is Military Appreciation night, with fans asked to wear red. Arizona has worn a military-themed uniform for this game in some seasons and stayed in its standard look last year. **Utah: Confirmed, black helmet, white, white.** Utah posted a black helmet with the red circle-and-feather logo, a white jersey with red sleeve stripes and white pants on Wednesday night. More: [Arizona schedule](/stories/arizona-uniform-schedule-2026) and [Utah schedule](/stories/utah-uniform-schedule-2026).
+
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Utah_Football/status/2120713456064373048"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Utah's black helmet and white for Arizona, via <a href="https://x.com/Utah_Football" target="_blank" rel="noopener">@Utah_Football</a></p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ArizonaFBall/status/2120910742727614487"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Arizona's navy for Military Appreciation night, via <a href="https://x.com/ArizonaFBall" target="_blank" rel="noopener">@ArizonaFBall</a></p>
 
 ### No. 15 USC at No. 6 Indiana: Crimson vs. White in Bloomington
 
@@ -66,11 +86,23 @@ That is the list as of Wednesday, November 11. Schools post their combinations f
 
 ### Michigan at No. 18 Oregon
 
-**Saturday, 3:30 p.m. (12:30 p.m. Pacific), FS1.** **Oregon: Expected, green.** Oregon changes its look often, and last week it replaced the yellow helmet and green jersey from its Monday graphic with Mummy Mode 2.0, so we will wait for the final post. **Michigan: Expected, white.** More: [Oregon schedule](/stories/oregon-uniform-schedule-2026) and [Michigan schedule](/stories/michigan-uniform-schedule-2026).
+**Saturday, 3:30 p.m. (12:30 p.m. Pacific), FS1.** **Oregon: Confirmed, black over white.** Oregon posted its "Game 10 uniform combo" on Wednesday: a black helmet with Japanese katakana lettering, a black jersey with green numbers and white pants. Oregon changed its look after posting last week, so we will check it on Saturday. **Michigan: Expected, white.** More: [Oregon schedule](/stories/oregon-uniform-schedule-2026) and [Michigan schedule](/stories/michigan-uniform-schedule-2026).
+
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoDucks/status/2120682999889142267"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Oregon's Game 10 combo, via <a href="https://x.com/GoDucks" target="_blank" rel="noopener">@GoDucks</a></p>
 
 ### No. 14 Houston at Colorado: Buffs Wear Black
 
-**Friday, 10:15 p.m. (8:15 p.m. Mountain), ESPN.** **Colorado: Expected, black.** The game carries a Buffs Wear Black crowd theme and a halftime drone show. An all-black Colorado under the lights would match the stands. **Houston: Expected, white.** Houston wore a white helmet, red jersey and red pants for Homecoming last week, and on Wednesday it unveiled the all-white [Icy Houston Blues uniform](/stories/houston-icy-houston-blues-uniform-2026), likely for this game. More: [Colorado schedule](/stories/colorado-uniform-schedule-2026) and [Houston schedule](/stories/houston-uniform-schedule-2026).
+**Friday, 10:15 p.m. (8:15 p.m. Mountain), ESPN.** **Colorado: Confirmed, all black.** The game carries a Buffs Wear Black crowd theme and a halftime drone show, and Colorado posted a black helmet with a gold facemask, black jersey with gold numbers and black pants on Wednesday. **Houston: Expected, white.** Houston wore a white helmet, red jersey and red pants for Homecoming last week, and on Wednesday it unveiled the all-white [Icy Houston Blues uniform](/stories/houston-icy-houston-blues-uniform-2026), likely for this game. More: [Colorado schedule](/stories/colorado-uniform-schedule-2026) and [Houston schedule](/stories/houston-uniform-schedule-2026).
+
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CUBuffsFootball/status/2120632797044027751"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Colorado's all black for Houston, via <a href="https://x.com/CUBuffsFootball" target="_blank" rel="noopener">@CUBuffsFootball</a></p>
 
 ### App State at Marshall: Play For The 75
 
@@ -134,7 +166,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **No. 14 [Houston](/stories/houston-uniform-schedule-2026) at [Colorado](/stories/colorado-uniform-schedule-2026)**, 10:15 p.m. (8:15 p.m. Mountain), ESPN.
 - Houston: **Expected**, white.
-- Colorado: **Expected**, black, for the Buffs Wear Black crowd theme.
+- Colorado: **Confirmed**, all black with gold numbers, for the Buffs Wear Black crowd theme.
 
 ### Saturday, November 14: Noon Window
 
@@ -216,7 +248,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[Baylor](/stories/baylor-uniform-schedule-2026) at No. 12 [BYU](/stories/byu-uniform-schedule-2026)**, 3:30 p.m. (1:30 p.m. Mountain), TV to be announced.
 - Baylor: **Expected**, white.
-- BYU: **Expected**, royal.
+- BYU: **Confirmed**, white helmet, royal jersey, royal pants.
 
 **[Boston College](/stories/boston-college-uniform-schedule-2026) at No. 3 [Notre Dame](/stories/notre-dame-uniform-schedule-2026)**, 3:30 p.m., NBC.
 - Boston College: **Expected**, white and gold.
@@ -224,7 +256,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[Michigan](/stories/michigan-uniform-schedule-2026) at No. 18 [Oregon](/stories/oregon-uniform-schedule-2026)**, 3:30 p.m. (12:30 p.m. Pacific), FS1.
 - Michigan: **Expected**, white.
-- Oregon: **Expected**, green.
+- Oregon: **Confirmed**, black helmet with katakana lettering, black jersey, white pants.
 
 **[Arizona State](/stories/arizona-state-uniform-schedule-2026) at [UCF](/stories/ucf-uniform-schedule-2026)**, 3:30 p.m., ESPN2.
 - Arizona State: **Expected**, white.
@@ -232,7 +264,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[Cal](/stories/cal-uniform-schedule-2026) at [Virginia](/stories/virginia-uniform-schedule-2026)**, 3:30 p.m., ACC Network.
 - Cal: **Expected**, white.
-- Virginia: **Expected**, orange or navy.
+- Virginia: **Confirmed**, white helmet with a stars and stripes V-sabre, navy jersey.
 
 **Florida Atlantic at [Tulsa](/stories/tulsa-uniform-schedule-2026)**, 3:30 p.m., ESPN+.
 - Tulsa: **Expected**, blue, for Homecoming.
@@ -241,7 +273,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Georgia Southern: **Expected**, white.
 
 **Jacksonville State at [Western Kentucky](/stories/western-kentucky-uniform-schedule-2026)**, 3:30 p.m., ESPN+.
-- Western Kentucky: **Expected**, red, for Homecoming.
+- Western Kentucky: **Confirmed**, red with the classic block WKU helmet, for Homecoming.
 
 **Middle Tennessee at [Liberty](/stories/liberty-uniform-schedule-2026)**, 3:30 p.m., CBSSN.
 - Liberty: **Expected**, red, for Military Appreciation Day. Liberty has built one-off helmets for this game before.
@@ -282,7 +314,7 @@ Also in the afternoon: Kennesaw State at Sam Houston (2 p.m., ESPN+), New Mexico
 - Kentucky: **Expected**, blue.
 
 **[Louisville](/stories/louisville-uniform-schedule-2026) at [North Carolina](/stories/north-carolina-uniform-schedule-2026)**, 7 p.m., ESPN2.
-- Louisville: **Expected**, white.
+- Louisville: **Confirmed**, red helmet, white jersey, red pants.
 - North Carolina: **Expected**, blue, for Homecoming, Military Appreciation and Monogram Day.
 
 **[Minnesota](/stories/minnesota-gophers-uniform-schedule-2026) at [Penn State](/stories/penn-state-uniform-schedule-2026)**, 7 p.m., FS1.
@@ -296,8 +328,8 @@ Also in the afternoon: Kennesaw State at Sam Houston (2 p.m., ESPN+), New Mexico
 - Troy: **Expected**, white.
 
 **No. 2 [Utah](/stories/utah-uniform-schedule-2026) at No. 22 [Arizona](/stories/arizona-uniform-schedule-2026)**, 7:30 p.m. (5:30 p.m. Arizona), FOX.
-- Utah: **Expected**, white.
-- Arizona: **Expected**, navy, for Military Appreciation night.
+- Utah: **Confirmed**, black helmet, white jersey, white pants.
+- Arizona: **Confirmed**, white helmet, navy jersey, navy pants, for Military Appreciation night.
 
 **No. 8 [Texas](/stories/texas-uniform-schedule-2026) at No. 24 [LSU](/stories/lsu-uniform-schedule-2026)**, 7:30 p.m., ABC.
 - Texas: **Expected**, burnt orange, if LSU is in white.
@@ -345,7 +377,7 @@ Also in the afternoon: Kennesaw State at Sam Houston (2 p.m., ESPN+), New Mexico
 
 ## The Bottom Line
 
-Week 11 has plenty of big games and one announced look so far, Florida's orange helmet, white jersey and orange pants at Kentucky. Marshall's expected black helmet for Play For The 75 is the most meaningful uniform of the week, and the projection most worth watching is at Tiger Stadium, where LSU's home white would put Texas in burnt orange. Utah's choice at Arizona, SMU's Homecoming look and whatever Oregon brings for Michigan will come out during the week. Check back: we add every combination as it is announced and confirm every look, with final scores, on Saturday.
+Week 11 has plenty of big games and a long list of announced looks: all black at Kentucky, Texas A&M and Colorado, Oregon's black helmet with katakana lettering, Utah's black helmet at Arizona, and Florida's orange helmet, white jersey and orange pants at Kentucky. Marshall's expected black helmet for Play For The 75 is the most meaningful uniform of the week, and the projection most worth watching is at Tiger Stadium, where LSU's home white would put Texas in burnt orange. SMU's Homecoming look and LSU's call are still to come. Check back: we add every combination as it is announced and confirm every look, with final scores, on Saturday.
 
 ## Frequently Asked Questions
 
@@ -367,7 +399,7 @@ Florida's published 2026 uniform schedule lists an orange helmet, white jersey a
 
 **What is Utah wearing at Arizona?**
 
-Utah is expected in white and Arizona in navy for Military Appreciation night. Utah has also worn all red on the road this season. Kickoff is 7:30 p.m. Eastern on FOX.
+Utah wears a black helmet, white jersey and white pants, and Arizona wears a white helmet, navy jersey and navy pants for Military Appreciation night. Both teams posted their looks this week. Kickoff is 7:30 p.m. Eastern on FOX.
 
 **Is this Week 11 of college football?**
 

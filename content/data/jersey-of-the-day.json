@@ -554,7 +554,8 @@
     "worn": {
       "date": "2026-11-11",
       "matchup": "vs. New York Rangers, 7:30 p.m. ET, Remembrance Day game",
-      "status": "Scheduled"
+      "status": "Confirmed",
+      "note": "Worn as scheduled, confirmed from the game's highlight frames: the Flames wore the red Hometown Remix against the Rangers' road white. Final: Rangers 3, Flames 1."
     },
     "why": "Red and gold with a stripe shaped like the Saddledome roof, in the building's last season. It's the third-best sweater in the whole Remix program.",
     "whyPlaceholder": true,

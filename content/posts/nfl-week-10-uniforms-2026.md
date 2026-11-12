@@ -3,7 +3,7 @@ title: "NFL Week 10 Uniforms 2026: What Every Team Is Wearing, Including Giants 
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-09"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-12"
 excerpt: "NFL Week 10 uniforms (Nov. 12-16): the Giants wear Vintage White on Thursday night, the Ravens debut all-black Darkness Falls on Monday night, the Bengals wear the White Bengal, the 49ers bring the red 1994 throwback to Dallas, the Titans debut Music City, plus Munich and every other game."
 gradient: "linear-gradient(135deg, #0B2265 0%, #0C1526 55%, #241773 130%)"
 coverImage: "/images/posts/nfl-week-10-uniforms-2026/cover.jpg"
@@ -83,9 +83,9 @@ White tiger stripes against black and gold in a division game on Sunday night is
 ### San Francisco 49ers at Dallas Cowboys: The Red 1994 Throwback
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/49ers/status/2004401790595330050"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/49ers/status/2120698098859323515"></a></blockquote>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The red 1994 throwback, shown in the 49ers' 2025 announcement, via <a href="https://x.com/49ers" target="_blank" rel="noopener">@49ers</a></p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">"In honor of Throwback Week": the red 1994 throwback in practice this week, via <a href="https://x.com/49ers" target="_blank" rel="noopener">@49ers</a></p>
 
 **Sunday, 4:25 p.m. ET, FOX. 49ers confirmed, Cowboys scheduled.** San Francisco's schedule has the **red 1994 throwback** for this trip, the home jersey of the Super Bowl XXIX team: scarlet with white numbers and a heavy black drop shadow, worn under the modern gold helmet. It is the first of two dates for the red version, with the Eagles in Week 17 the other.
 
@@ -131,7 +131,14 @@ The helmet is the best piece of it. Our matchup grade: **B**. See the [Titans 20
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-white-road.jpg" alt="Buffalo Bills white road jersey, expected at the Jets in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jets-black-alternate.jpg" alt="New York Jets black alternate jersey with green shoulder stripes, expected against the Bills in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jets · Expected</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Expected on both sides.** Our Jets schedule has the **black alternate** for this Salute to Service game at MetLife Stadium, and Buffalo is expected in **white** on the road. Helmets and pants come with each team's game-week post. Our matchup grade: **B-**. See the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026) and the [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, CBS. Jets confirmed, Bills expected.** The Jets posted "Black on Black" on Wednesday: the **black helmet** with the green JETS wordmark, a **black jersey** with white numbers trimmed in green, and **black pants**, for this Salute to Service game at MetLife Stadium. Buffalo is expected in **white** on the road.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2120667925627519268"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Jets' Black on Black for Buffalo, via <a href="https://x.com/nyjets" target="_blank" rel="noopener">@nyjets</a></p>
+
+ Our matchup grade: **B-**. See the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026) and the [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
 
 ### New England Patriots at Detroit Lions: Munich
 
@@ -194,7 +201,7 @@ All three national windows carry a confirmed alternate, covered above.
 - **Jacksonville Jaguars at Tennessee Titans**, 1:00 p.m. ET, FOX. Jaguars: white (expected). Titans: Music City, Titans Blue helmet, navy jersey (confirmed). Matchup grade: B.
 - **Miami Dolphins at Indianapolis Colts**, 1:00 p.m. ET, CBS. Dolphins: white (expected). Colts: royal blue (expected). Matchup grade: B.
 - **Carolina Panthers at New Orleans Saints**, 1:00 p.m. ET, FOX. Panthers: white (scheduled). Saints: black helmet, black jersey (scheduled). Matchup grade: B.
-- **Buffalo Bills at New York Jets**, 1:00 p.m. ET, CBS. Bills: white (expected). Jets: black alternate (expected). Matchup grade: B-.
+- **Buffalo Bills at New York Jets**, 1:00 p.m. ET, CBS. Bills: white (expected). Jets: Black on Black, black helmet, jersey and pants (confirmed). Matchup grade: B-.
 - **Seattle Seahawks at Las Vegas Raiders**, 4:05 p.m. ET, CBS. Seahawks: white (expected). Raiders: silver helmet, black jersey (expected). Matchup grade: B.
 - **Los Angeles Rams at Arizona Cardinals**, 4:05 p.m. ET, CBS. Rams: white (scheduled). Cardinals: cardinal red (scheduled). Matchup grade: B.
 - **San Francisco 49ers at Dallas Cowboys**, 4:25 p.m. ET, FOX. 49ers: gold helmet, red 1994 throwback (confirmed). Cowboys: silver star helmet, white jersey (scheduled). Matchup grade: A-.
@@ -218,7 +225,7 @@ Week 10 puts a special look in every national window. Vintage White on Thursday,
 
 **What uniforms are NFL teams wearing in Week 10 of 2026?**
 
-Five teams have a confirmed special look: the Giants in Vintage White against Washington on Thursday, the 49ers in the red 1994 throwback at Dallas, the Titans in Music City against Jacksonville, the Bengals in the White Bengal against Pittsburgh on Sunday night, and the Ravens in Darkness Falls against the Chargers on Monday night. The Saints are scheduled for the black helmet and black jersey against Carolina, and we expect the Browns in Alpha Dawg and the Jets in their black alternate. Most other teams are in their standard sets, home in color and visitors in white.
+Six teams have a confirmed special look: the Giants in Vintage White against Washington on Thursday, the Jets in Black on Black against Buffalo, the 49ers in the red 1994 throwback at Dallas, the Titans in Music City against Jacksonville, the Bengals in the White Bengal against Pittsburgh on Sunday night, and the Ravens in Darkness Falls against the Chargers on Monday night. The Saints are scheduled for the black helmet and black jersey against Carolina, and we expect the Browns in Alpha Dawg and the Jets in their black alternate. Most other teams are in their standard sets, home in color and visitors in white.
 
 **What are the Giants wearing against the Commanders?**
 
@@ -258,7 +265,7 @@ We expect it. Our Browns schedule has the brown helmet, brown jersey and brown p
 
 **What are the Jets wearing against the Bills?**
 
-We expect the black alternate for the Jets' Salute to Service game at MetLife Stadium, and Buffalo in white.
+Black on Black: the black helmet, black jersey and black pants, confirmed by the Jets on November 11 for the Salute to Service game at MetLife Stadium. Buffalo is expected in white.
 
 **What are the Patriots and Lions wearing in Munich?**
 
