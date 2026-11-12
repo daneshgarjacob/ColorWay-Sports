@@ -476,10 +476,10 @@ export default function Header() {
   return (
     <>
       <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-white/85 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.08)]" : "bg-white shadow-none"}`}>
-        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[80px] sm:h-[100px] gap-6">
+        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] gap-6">
           {/* Logo — Outline Stamp + Hanken wordmark */}
-          <Link prefetch={false} href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
-            <svg width="30" height="30" viewBox="92 92 840 840" className="sm:w-[36px] sm:h-[36px]" style={{ minWidth: 30 }} aria-hidden="true">
+          <Link prefetch={false} href="/" className="flex items-center gap-2 sm:gap-2.5 min-w-0">
+            <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px]" style={{ minWidth: 26 }} aria-hidden="true">
               {/* B3 badge (Jake 11/12): black outer ring, white disc, thick black inner ring, black flag */}
               <circle cx="512" cy="512" r="420" fill="#0b0b0f" />
               <circle cx="512" cy="512" r="392" fill="#ffffff" />
@@ -786,10 +786,10 @@ export default function Header() {
 
       {/* Mobile menu — frosted glass sheet that starts below the sticky header.
           z-50 so it wins over the sticky TrackerJumpNav (z-40) on long tracker
-          posts; the drawer starts at top:80px so it never overlaps the header
+          posts; the drawer starts at top:60px (72px on sm+) so it never overlaps the header
           visually even though both share z-50. */}
       <div
-        className={`fixed inset-x-0 bottom-0 top-[80px] sm:top-[100px] z-50 bg-white supports-[backdrop-filter]:bg-white/80 backdrop-blur-2xl backdrop-saturate-150 transition-all duration-300 overflow-y-auto ${
+        className={`fixed inset-x-0 bottom-0 top-[60px] sm:top-[72px] z-50 bg-white supports-[backdrop-filter]:bg-white/80 backdrop-blur-2xl backdrop-saturate-150 transition-all duration-300 overflow-y-auto ${
           mobileOpen ? "opacity-100 pointer-events-auto" : "opacity-0 pointer-events-none"
         }`}
       >
