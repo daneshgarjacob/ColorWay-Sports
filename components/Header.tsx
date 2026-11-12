@@ -475,25 +475,27 @@ export default function Header() {
 
   return (
     <>
-      <header className={`sticky top-0 z-50 border-b border-white/10 transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-[#003087]/72 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.22)]" : "bg-[#003087] shadow-none"}`}>
+      <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-white/85 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.08)]" : "bg-white shadow-none"}`}>
         <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[80px] sm:h-[100px] gap-6">
           {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link prefetch={false} href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
-            <svg width="38" height="38" viewBox="0 0 100 100" className="sm:w-[46px] sm:h-[46px]" style={{ minWidth: 38 }} aria-hidden="true">
-              <circle cx="50" cy="50" r="37" fill="none" stroke="#ffffff" strokeWidth="2.6" />
-              <circle cx="50" cy="50" r="31" fill="none" stroke="#ffffff" strokeWidth="1" opacity="0.45" />
-              <g transform="translate(0,3)">
-                <circle cx="40.8" cy="32" r="2.4" fill="#ffffff" />
-                <rect x="39.6" y="33" width="2.6" height="33" rx="1.3" fill="#ffffff" />
-                <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill="#ffffff" />
+            <svg width="38" height="38" viewBox="92 92 840 840" className="sm:w-[46px] sm:h-[46px]" style={{ minWidth: 38 }} aria-hidden="true">
+              {/* B3 badge (Jake 11/12): black outer ring, white disc, thick black inner ring, black flag */}
+              <circle cx="512" cy="512" r="420" fill="#0b0b0f" />
+              <circle cx="512" cy="512" r="392" fill="#ffffff" />
+              <circle cx="512" cy="512" r="340" fill="none" stroke="#0b0b0f" strokeWidth="15" />
+              <g fill="#0b0b0f">
+                <circle cx="411" cy="345" r="26" />
+                <rect x="398" y="345" width="29" height="373" rx="14" />
+                <path d="M412,387 L427,390 L677,440 L567,500 L677,561 L427,588 L412,590 Z" />
               </g>
             </svg>
             <div className="flex flex-col min-w-0">
               {/* Wordmark nudged left (Jake-tuned to -0.118em in the alignment sandbox) so the C optically lines up over the tagline's E; tagline indent left as-is */}
-              <span className="text-[22px] sm:text-[28px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", whiteSpace: "nowrap", textIndent: "-0.118em" }}>
+              <span className="text-[22px] sm:text-[28px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#0b0b0f", whiteSpace: "nowrap", textIndent: "-0.118em" }}>
                 ColorWay Sports
               </span>
-              <span className="text-[8px] sm:text-[9px] max-[359px]:text-[7px] uppercase tracking-[0.18em] max-[389px]:tracking-[0.07em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap", textIndent: "-0.04em" }}>
+              <span className="text-[8px] sm:text-[9px] max-[359px]:text-[7px] uppercase tracking-[0.18em] max-[389px]:tracking-[0.07em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#6b7280", whiteSpace: "nowrap", textIndent: "-0.04em" }}>
                 Every Jersey. Every Logo. Every Detail.
               </span>
             </div>
@@ -504,8 +506,8 @@ export default function Header() {
               league rail below carries all the section navigation. */}
           <div ref={searchBoxRef} className="hidden lg:block flex-1 max-w-[320px] mx-auto relative">
             <form onSubmit={handleSearch}>
-              <div className="flex items-center gap-2 w-full bg-white/[0.12] hover:bg-white/[0.17] focus-within:bg-white/[0.19] border border-white/15 rounded-full px-4 py-2 transition-colors">
-                <svg className="w-4 h-4 text-white/60 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div className="flex items-center gap-2 w-full bg-black/[0.04] hover:bg-black/[0.06] focus-within:bg-black/[0.07] border border-black/[0.08] rounded-full px-4 py-2 transition-colors">
+                <svg className="w-4 h-4 text-black/45 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
                 <input
@@ -520,7 +522,7 @@ export default function Header() {
                   aria-expanded={sugOpen && hasSuggestions}
                   role="combobox"
                   aria-controls="discover-suggestions"
-                  className="w-full bg-transparent text-[13.5px] text-white placeholder:text-white/50 focus:outline-none"
+                  className="w-full bg-transparent text-[13.5px] text-black placeholder:text-black/45 focus:outline-none"
                 />
               </div>
             </form>
@@ -581,7 +583,7 @@ export default function Header() {
               <Link prefetch={false}
                 key={link.label}
                 href={link.href}
-                className="text-[13.5px] tracking-[0.01em] text-white/80 hover:text-white hover:bg-white/10 rounded-full px-3 py-1.5 transition-colors"
+                className="text-[13.5px] tracking-[0.01em] text-black/75 hover:text-black hover:bg-black/[0.05] rounded-full px-3 py-1.5 transition-colors"
                 style={{ fontFamily: "var(--font-display)", fontWeight: 700 /* nav uses the logo font (Jake 10/25) */ }}
               >
                 {link.label}
@@ -594,7 +596,7 @@ export default function Header() {
           <div className="lg:hidden flex items-center flex-shrink-0">
           <button
             type="button"
-            className="relative w-9 h-10 flex items-center justify-center text-white/90 hover:text-white transition-colors"
+            className="relative w-9 h-10 flex items-center justify-center text-black/85 hover:text-black transition-colors"
             onClick={() => {
               markOpened("m:drawer");
               setMobileOpen(true);
@@ -619,9 +621,9 @@ export default function Header() {
             }}
             aria-label="Toggle menu"
           >
-            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
-            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
-            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 bg-[#0b0b0f] transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
+            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-[#0b0b0f] transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 bg-[#0b0b0f] transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
           </button>
           </div>
         </div>
