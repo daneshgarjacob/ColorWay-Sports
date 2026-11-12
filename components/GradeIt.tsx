@@ -117,7 +117,7 @@ function Ring({
           r="42"
           fill="none"
           strokeWidth="5"
-          className={`${accent ? "stroke-orange" : "stroke-navy-deep"} ${animate ? "gi-arc" : ""}`}
+          className={`stroke-orange ${animate ? "gi-arc" : ""}`}
           strokeDasharray={CIRC}
           style={{ strokeDashoffset: offset }}
         />
@@ -290,7 +290,7 @@ export default function GradeIt({ item, subject, colorwayGrade, shareUrl }: Grad
       <div
         role="group"
         aria-label="Your grade, A to F"
-        className="mt-3.5 grid h-[52px] grid-cols-5 overflow-hidden rounded-[6px] border border-navy-deep bg-white"
+        className="mt-3.5 grid h-[52px] grid-cols-5 overflow-hidden rounded-[10px] border border-orange/40 bg-white"
       >
         {LETTERS.map((l, i) => (
           <button
@@ -298,7 +298,7 @@ export default function GradeIt({ item, subject, colorwayGrade, shareUrl }: Grad
             type="button"
             aria-pressed={letter === l}
             onClick={() => pickLetter(l)}
-            className={`h-full text-[17px] font-semibold text-navy-deep transition-colors duration-100 hover:bg-[#f3f4f6] aria-pressed:bg-navy-deep aria-pressed:text-white aria-pressed:hover:bg-navy-deep focus-visible:outline-2 focus-visible:-outline-offset-2 focus-visible:outline-orange [-webkit-tap-highlight-color:transparent] ${
+            className={`h-full text-[17px] font-semibold text-navy-deep transition-colors duration-100 hover:bg-[#f3f4f6] aria-pressed:bg-orange aria-pressed:text-white aria-pressed:hover:bg-orange focus-visible:outline-2 focus-visible:-outline-offset-2 focus-visible:outline-orange [-webkit-tap-highlight-color:transparent] ${
               i ? "border-l border-[#e6e8ec]" : ""
             }`}
           >
@@ -383,7 +383,7 @@ export default function GradeIt({ item, subject, colorwayGrade, shareUrl }: Grad
               <button
                 type="button"
                 onClick={share}
-                className="h-11 rounded-[6px] border border-navy-deep bg-navy-deep px-4 text-[13px] font-semibold text-white transition-colors hover:bg-[#162549] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange"
+                className="h-11 rounded-[6px] border border-orange bg-orange px-4 text-[13px] font-semibold text-white transition-colors hover:bg-[#001FA6] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange"
               >
                 {copied ? "Link Copied" : "Share Your Grade"}
               </button>
