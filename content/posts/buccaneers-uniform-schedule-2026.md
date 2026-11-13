@@ -15,7 +15,7 @@ league: "nfl"
 teams: ["tampa-bay-buccaneers"]
 ---
 
-This is the running guide to what the Tampa Bay Buccaneers wear in 2026, updated as the team confirms games. Two special uniforms already have dates on them, and they land two weeks apart in December.
+The creamsicle is the best throwback in football, and it's back December 6 against the Chargers. Two weeks later, December 20, the Bucs go all pewter, which is their worst look. Every Bucs game is below, with what they wore and what's next.
 
 **Update, November 5:** Tampa Bay confirmed its Week 9 look at Chicago on Sunday Night Football, November 8 (8:20 p.m. ET, NBC): the **pewter helmet, white jersey and pewter pants**, from the team's game-week uniform graphic.
 

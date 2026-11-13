@@ -15,7 +15,7 @@ league: nfl
 teams: ["chicago-bears"]
 ---
 
-The Bears have one confirmed uniform date in 2026 and they could not have picked a better one. Chicago debuts its new Nike Rivalries uniform, revealed August 25 and built on the Monsters of the Midway, on **Christmas Day against the Green Bay Packers at Soldier Field**, on Netflix, in the oldest rivalry in the sport. They wear it exactly once all season. Here is the full Chicago Bears 2026 uniform schedule, week by week, with the confirmed date first and an honest label on everything that is still a projection.
+The Bears' navy home jersey is the best uniform in the NFL, and Chicago knows it, so they barely touch it. The one date to circle is Christmas Day: the new navy and burnt orange Rivalries uniform against the Packers at Soldier Field. They wear it once. Every Bears game is below, with what they wore, updated after every game.
 
 Want them graded instead? Here is [every Chicago Bears jersey ranked](/stories/bears-jerseys-2026-ranked), worst to best.
 

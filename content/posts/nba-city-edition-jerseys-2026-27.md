@@ -14,9 +14,7 @@ league: "nba"
 teams: []
 ---
 
-The 2026-27 season is the tenth year of Nike's NBA City Edition program, and instead of thirty new designs, every team is bringing back a favorite from its own first nine years. That makes this collection a league-wide vote on which City Editions actually worked, decided by the teams themselves.
-
-The full lineup has now surfaced. Atlanta and Washington confirmed their picks earlier this year, Indiana's has been reported, and the rest appeared in a leaked set of Nike renders at the end of August. We graded all thirty and ranked them from worst to best, so the best City Edition in the collection is at the bottom of the page.
+Every NBA team brought back an old City Edition this year, so this is the teams voting on their own best ones. Some got it right. Some picked the wrong one. Indiana's is the best. All 30 are ranked below, worst to best.
 
 <div style="margin: 1.75em 0; padding: 1.25em 1.5em; background: #f5f7fb; border: 1px solid #dfe3ea; border-left: 5px solid #2f6bed; border-radius: 12px;"><p style="margin: 0 0 0.5em; font-size: 0.75em; font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; color: #2f6bed;">How to Read This Ranking</p><p style="margin: 0 0 0.5em; font-size: 0.95em; color: #1c1c1c; line-height: 1.55;"><strong>The images</strong> show each design as it was first released, from the team, the league or the official store. The 2026-27 versions add the anniversary details below.</p><p style="margin: 0; font-size: 0.95em; color: #1c1c1c; line-height: 1.55;"><strong>The status</strong> on each entry tells you how solid it is: Confirmed means the team announced it, Reported means a credible report, Leaked means it comes from the leaked lineup and the team has not shown it yet.</p></div>
 

@@ -13,7 +13,7 @@ league: "nba"
 teams: ["philadelphia-76ers"]
 ---
 
-The Philadelphia 76ers open 2026-27 at Xfinity Mobile Arena in October 2026. This is the full 76ers uniform schedule: every jersey in the closet, what each one is for, and a game-by-game record of when it goes on the floor.
+The 76ers wear the blue jersey more than anything else this season, 30 games. The nights to watch are December 1, 12 and 17, when they go to the new all-black Specter jersey, and January 14 against the Nets, when the City Edition debuts. Every game is below.
 
 <!-- nba-uniform-counts:intro:start -->
 **Update, October 19:** The full 76ers jersey schedule for 2026-27 is out, a call for all 80 dated games. The Icon Edition is the most-worn 76ers jersey this season at **30 games** (21 home, 9 road), ahead of the Association Edition at 28. Opening night, October 20 at the Knicks, is the **Icon Edition**. The City Edition debuts **January 14 vs the Nets** and is scheduled for ten games in all. The new [Specter Edition](/stories/nba-specter-edition-jerseys-2026-27) gets three nights: December 1 vs the Grizzlies, December 12 vs the Magic and December 17 vs the Mavericks. Every game is filled in below.

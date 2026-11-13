@@ -21,7 +21,7 @@ archiveHref: "/mlb-tracker"
 archiveLabel: "Every team's full 2026 uniform calendar"
 ---
 
-**The 2026 season is over: the Milwaukee Brewers won the World Series**, clinching Game 5 4-1 at Tropicana Field on October 28 in the navy alternate. Every game of the Series is below.
+The season's over, and the Brewers won it all in navy. This page has every uniform all 30 teams wore in 2026, every game, logged the morning after. Pick a date and see what everyone wore.
 
 This is the ColorWay Sports MLB daily uniform tracker: what every team actually wore, every game, every day, logged the morning after. Not just the City Connects and throwbacks, the whole wardrobe, home whites and road grays included, because you can't spot the patterns without the full record. Every matchup also gets a ColorWay grade for how the two uniforms looked sharing a field.
 

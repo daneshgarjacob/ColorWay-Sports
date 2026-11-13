@@ -15,9 +15,7 @@ league: "nhl"
 teams: []
 ---
 
-All 32 NHL Hometown Remix jerseys were revealed on Monday, November 2 at 10 a.m. ET, and they went on sale at the same time. Hometown Remix is the first league-wide uniform program Fanatics has designed since it became the NHL's on-ice outfitter in 2024. The brief to every team was the same: celebrate your city, your fans and your local culture.
-
-The results range from Mighty Ducks green in Anaheim to a brown collegiate sweater in Boston, a coral beach-shirt look in Florida and a pop-art penguin in Pittsburgh. Below is every jersey, A to Z, with the team's own reveal post where it posted one, what the design is built around, and when each team first wears it.
+All 32 NHL Hometown Remix jerseys are out, and most of them are good. Pittsburgh's pop-art penguin is the best one. Vegas is the worst. Every jersey is below, A to Z, with the team's own reveal post and the night they first wear it.
 
 <div style="margin: 1.75em 0; padding: 1.25em 1.5em; background: #f5f7fb; border: 1px solid #dfe3ea; border-left: 5px solid #2f6bed; border-radius: 12px;"><p style="margin: 0 0 0.5em; font-size: 0.75em; font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; color: #2f6bed;">Hometown Remix at a glance</p><p style="margin: 0; font-size: 0.95em; color: #1c1c1c; line-height: 1.6;"><strong>32 teams</strong>, one special edition jersey each, designed from scratch by Fanatics over about two years.<br><strong>261 games</strong> feature a Remix jersey this season, including 19 where both teams wear theirs.<br><strong>On sale now</strong> at NHLShop.com, Fanatics.com and team stores. Premium jerseys are about $275 with a name and number; Authentic Pro jerseys run about $500.<br><strong>One season only</strong> for now. The NHL and Fanatics say they will judge the fan response before deciding on a second run.</p></div>
 

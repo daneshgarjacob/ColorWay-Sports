@@ -15,7 +15,7 @@ league: nfl
 teams: ["seattle-seahawks"]
 ---
 
-Seattle has the best-staged uniform schedule in the NFC West and one of the best in the league: three confirmed jersey games, all of them in primetime, and a season that opens with a Super Bowl LX championship banner going up against the team they beat for it. The royal blue throwback gets three nights, one of them on the road in Denver, and the Rivalries jersey lands on Christmas Day against the Rams. Here is the full Seattle Seahawks 2026 uniform schedule: the confirmed dates first, then a week-by-week outlook for the college navy home set and the white road set.
+The royal blue throwback is the best thing the Seahawks own, and they should wear it more. The other date to know is Christmas Day: the grey Rivalries jersey with the green chrome helmet against the Rams, who go all black. Every Seahawks game is below, with what they wore and what's next.
 
 Want them graded instead? Here is [every Seattle Seahawks jersey ranked](/stories/seahawks-jerseys-2026-ranked), worst to best.
 
