@@ -685,7 +685,7 @@ export default function Header() {
                         ? "opacity-100 scale-y-100 pointer-events-auto"
                         : "opacity-0 scale-y-95 pointer-events-none"
                     }`}
-                    style={{ width: "280px", maxHeight: "420px" }}
+                    style={{ width: "310px", maxHeight: "420px" }}
                     onMouseEnter={() => handleMouseEnter(league.label)}
                     onMouseLeave={handleMouseLeave}
                   >
@@ -703,6 +703,16 @@ export default function Header() {
                         ))}
                         {league.storiesLink.label}
                       </Link>
+                      {/* Tracker under each league (Jake 11/12): replaces the "Uniform Trackers" links on the rail */}
+                      {trackerLinks.filter((t) => t.league === league.label).map((t) => (
+                        <div key={t.href} className="flex items-center border-b border-border">
+                          <Link prefetch={false} href={t.href} className="flex-1 min-w-0 flex items-center gap-2 px-4 py-2.5 text-[13px] font-bold text-[#0b0b0f] whitespace-nowrap hover:text-[#0025CC] hover:bg-[#0025CC]/[0.05] transition-colors" onClick={() => setOpenDropdown(null)}>
+                            <span className="w-5 h-5 flex-shrink-0 flex items-center justify-center"><svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 17V7m6 10V4M4 20h16" /></svg></span>
+                            {t.league} Uniform Tracker
+                          </Link>
+                          <Link prefetch={false} href={t.calendar.href} className="pr-4 pl-1 py-2.5 text-[12px] font-semibold text-steel hover:text-[#0025CC] transition-colors" onClick={() => setOpenDropdown(null)}>{t.calendar.label}</Link>
+                        </div>
+                      ))}
 
                       {/* Teams (or, under Soccer, competitions with their clubs behind a caret) */}
                       {league.teams.map((team) => {
@@ -781,18 +791,6 @@ export default function Header() {
                 )}
               </div>
             ))}
-            </div>
-            {/* Right side of the rail: one-tap uniform trackers, our core product */}
-            <div className="ml-auto flex items-center gap-0.5 -mr-3">
-              <span className="text-[10.5px] font-bold uppercase tracking-[0.14em] text-black/45 mr-1.5" style={{ fontFamily: "var(--font-display)" }}>Uniform Trackers</span>
-              {["NFL", "NBA", "NHL", "MLB"].map((lg) => {
-                const t = trackerLinks.find((x) => x.league === lg);
-                return t ? (
-                  <Link prefetch={false} key={lg} href={t.href} className="text-[13.5px] font-bold text-[#0b0b0f]/80 hover:text-[#0025CC] hover:bg-[#0025CC]/[0.07] rounded-full px-3 py-1.5 transition-colors" style={{ fontFamily: "var(--font-display)" }}>
-                    {lg}
-                  </Link>
-                ) : null;
-              })}
             </div>
           </nav>
         </div>
