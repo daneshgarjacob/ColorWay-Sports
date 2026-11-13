@@ -6,6 +6,7 @@ import SponsorStrip from "@/components/SponsorStrip";
 import { revalidateForSponsors, sponsorForPost } from "@/lib/sponsors";
 import InstagramEmbed from "@/components/InstagramEmbed";
 import InlineNewsletter from "@/components/InlineNewsletter";
+import TeamAlertSignup from "@/components/TeamAlertSignup";
 import RelatedStories from "@/components/RelatedStories";
 import PreferredSourceCard from "@/components/PreferredSourceCard";
 import StorySidebar from "@/components/StorySidebar";
@@ -541,6 +542,20 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           }
           answers={collegeWear.answers}
         />
+      )}
+
+      {/* Team email signup right under the this-week box (Jake 11/13): the
+          full signup after the grid sits below where phone readers stop. */}
+      {scheduleTeam && storyTeams[0] && (
+        <div className={ARTICLE_ROW}>
+          <div className={ARTICLE_COL}>
+            <TeamAlertSignup
+              team={storyTeams[0]}
+              who={post.league === "college" ? `${scheduleTeam}'s` : `the ${scheduleTeam}'`}
+              accent={nflTeam?.color ?? "#0025CC"}
+            />
+          </div>
+        </div>
       )}
 
       {jumpItems.length > 0 &&
