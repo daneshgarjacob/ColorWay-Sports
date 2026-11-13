@@ -476,7 +476,7 @@ export default function Header() {
   return (
     <>
       <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-white/85 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.08)]" : "bg-white shadow-none"}`}>
-        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] lg:h-[58px] gap-6">
+        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] lg:h-[58px] gap-6 lg:grid lg:grid-cols-[1fr_minmax(0,400px)_1fr]">
           {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link prefetch={false} href="/" className="flex items-center gap-2 sm:gap-2.5 min-w-0">
             <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px] lg:w-[26px] lg:h-[26px]" style={{ minWidth: 26 }} aria-hidden="true">
@@ -500,7 +500,7 @@ export default function Header() {
           {/* Row 1 centre — persistent search. Sits between the wordmark and the
               utility links so the masthead reads brand / find / about, and the
               league rail below carries all the section navigation. */}
-          <div ref={searchBoxRef} className="hidden lg:block flex-1 max-w-[420px] ml-2 relative">
+          <div ref={searchBoxRef} className="hidden lg:block w-full relative">
             <form onSubmit={handleSearch}>
               <div className="flex items-center gap-2 w-full bg-black/[0.04] hover:bg-black/[0.06] focus-within:bg-black/[0.07] border border-black/[0.08] rounded-full px-4 py-[7px] transition-colors">
                 <svg className="w-4 h-4 text-black/45 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -574,12 +574,12 @@ export default function Header() {
           </div>
 
           {/* Row 1 right — utility links only */}
-          <nav className="hidden lg:flex items-center gap-0.5 flex-shrink-0 ml-auto -mr-3">
+          <nav className="hidden lg:flex items-center justify-self-end gap-0.5 flex-shrink-0 -mr-3">
             {navLinks.map((link) => (
               <Link prefetch={false}
                 key={link.label}
                 href={link.href}
-                className="text-[13.5px] tracking-[0.01em] text-black/75 hover:text-black hover:bg-black/[0.05] rounded-full px-3 py-1.5 transition-colors"
+                className="text-[13.5px] tracking-[0.01em] text-[#0b0b0f]/80 hover:text-[#0025CC] hover:bg-[#0025CC]/[0.07] rounded-full px-3 py-1.5 transition-colors"
                 style={{ fontFamily: "var(--font-display)", fontWeight: 700 /* nav uses the logo font (Jake 10/25) */ }}
               >
                 {link.label}
@@ -783,12 +783,12 @@ export default function Header() {
             ))}
             </div>
             {/* Right side of the rail: one-tap uniform trackers, our core product */}
-            <div className="ml-auto flex items-center gap-0.5 -mr-2.5">
+            <div className="ml-auto flex items-center gap-0.5 -mr-3">
               <span className="text-[10.5px] font-bold uppercase tracking-[0.14em] text-black/45 mr-1.5" style={{ fontFamily: "var(--font-display)" }}>Uniform Trackers</span>
               {["NFL", "NBA", "NHL", "MLB"].map((lg) => {
                 const t = trackerLinks.find((x) => x.league === lg);
                 return t ? (
-                  <Link prefetch={false} key={lg} href={t.href} className="text-[13px] font-bold text-[#0b0b0f]/80 hover:text-[#0025CC] hover:bg-[#0025CC]/[0.07] rounded-full px-2.5 py-1 transition-colors" style={{ fontFamily: "var(--font-display)" }}>
+                  <Link prefetch={false} key={lg} href={t.href} className="text-[13.5px] font-bold text-[#0b0b0f]/80 hover:text-[#0025CC] hover:bg-[#0025CC]/[0.07] rounded-full px-3 py-1.5 transition-colors" style={{ fontFamily: "var(--font-display)" }}>
                     {lg}
                   </Link>
                 ) : null;

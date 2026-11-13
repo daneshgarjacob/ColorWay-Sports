@@ -30,7 +30,7 @@ import path from "node:path";
 import { spawn, execFileSync } from "node:child_process";
 
 const ROOT = process.cwd();
-const FOLDERS = ["mlb-daily-tracker", "nhl-daily-tracker", "nfl-tracker-jerseys"];
+const FOLDERS = ["mlb-daily-tracker", "nhl-daily-tracker", "nfl-tracker-jerseys", "nba-daily-tracker"];
 const POSTS = path.join(ROOT, "public/images/posts");
 const SKIPS_FILE = path.join(ROOT, "scripts/data/jersey-cutout-skips.json");
 const SWIFT = path.join(ROOT, "scripts/jersey-lift.swift");
