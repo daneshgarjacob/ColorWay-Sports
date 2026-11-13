@@ -88,7 +88,7 @@ export function getNflWeekChips(week: number): NflTeamWeek[] {
     const stem = p.slug.replace(/-uniform-schedule-2026$/, "");
     const team = NFL_NICKNAMES.find((n) => stem === n.toLowerCase() || stem.endsWith(`-${n.toLowerCase()}`)) ?? stem;
     const label = decode(cell[3]);
-    const accent = (p.gradient.match(/#[0-9A-Fa-f]{6}/) || ["#14284b"])[0];
+    const accent = (p.gradient.match(/#[0-9A-Fa-f]{6}/) || ["#0b0b0f"])[0];
     out.push({
       slug: p.slug,
       team,

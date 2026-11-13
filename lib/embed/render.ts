@@ -56,7 +56,7 @@ export function renderEmbedHtml(c: EmbedCard): string {
 <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;600;700;800&display=swap" rel="stylesheet">
 <script>(function(){try{var t=new URLSearchParams(location.search).get("theme");if(t==="dark"||(t==="auto"&&matchMedia("(prefers-color-scheme: dark)").matches))document.documentElement.setAttribute("data-theme","dark")}catch(e){}})()</script>
 <style>
-:root{--bg:#fff;--ink:#0B1F4A;--muted:#5F6B7D;--soft:#8A93A3;--line:#E3E7EE;--well:#F2F4F7;--brand:#2f6bed;--ok:#1A7F37;--warn:#A86400;--chip:#F2F4F7}
+:root{--bg:#fff;--ink:#0b0b0f;--muted:#5F6B7D;--soft:#8A93A3;--line:#E3E7EE;--well:#F2F4F7;--brand:#0025CC;--ok:#1A7F37;--warn:#A86400;--chip:#F2F4F7}
 :root[data-theme="dark"]{--bg:#0F1621;--ink:#EEF1F6;--muted:#A3ADBD;--soft:#7C8799;--line:#243041;--well:#E9ECF1;--chip:#fff;--brand:#7FA6FF;--ok:#4CC27A;--warn:#F0B44C}
 *{box-sizing:border-box}
 html,body{margin:0;padding:0;background:transparent}

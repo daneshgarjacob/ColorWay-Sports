@@ -105,7 +105,7 @@ export function getMlbPostseasonChips(): MlbPostseasonChip[] {
       slug,
       team: name(o.key),
       logo: p.logoSrc2,
-      accent: (p.gradient.match(/#[0-9A-Fa-f]{6}/) || ["#14284b"])[0],
+      accent: (p.gradient.match(/#[0-9A-Fa-f]{6}/) || ["#0b0b0f"])[0],
       opponent: o.opponent,
       label: o.label,
     });

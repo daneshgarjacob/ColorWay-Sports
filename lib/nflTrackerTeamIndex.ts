@@ -243,7 +243,7 @@ export function buildNflTeamIndex(): NflTeamEntry[] {
       name: team.name,
       slug: team.slug,
       nickname,
-      color: firstHex ? `#${firstHex[1]}` : "#14284b",
+      color: firstHex ? `#${firstHex[1]}` : "#0b0b0f",
       logo: team.logo,
       scheduleSlug: file.replace(/\.md$/, ""),
       games,
