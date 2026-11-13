@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { imgFitClass, type JotdEntry } from "@/lib/jerseyOfTheDay";
-import { leagueColor } from "@/lib/leagueColors";
 import type { PostMeta } from "@/lib/posts";
 import { getAuthor } from "@/lib/authors";
 import type { Take, TonightLeague } from "@/lib/homeToday";
@@ -79,7 +78,7 @@ export function LeadStory({ post, compact = false }: { post: PostMeta; compact?:
         {/* League logo beside the label, like every story card (Jake 11/2). */}
         {post.logoSrc && <img src={post.logoSrc} alt="" className="h-[20px] w-auto object-contain" />}
         {post.logoSrc2 && <img src={post.logoSrc2} alt="" className="h-[20px] w-auto" />}
-        <span className="text-[11px] font-bold uppercase tracking-widest" style={{ color: leagueColor(post.category) }}>
+        <span className="text-[11px] font-bold uppercase tracking-widest text-[#0b0b0f]">
           {post.category}
         </span>
         {post.kicker && (
@@ -124,7 +123,7 @@ export function JakesTakes({ takes, jotd }: { takes: Take[]; jotd?: JotdEntry | 
           <li key={t.key} className="border-b border-border py-4 last:border-b-0">
             <Link prefetch={false} href={t.href} className="group block no-underline">
               <div className="flex items-center gap-2 text-[10px] font-extrabold uppercase tracking-[0.14em]">
-                <span style={{ color: leagueColor(t.tag) }}>{t.tag}</span>
+                <span className="text-[#0b0b0f]">{t.tag}</span>
                 <span className="text-steel">· {t.kind} · {ago(t.when)}</span>
               </div>
               {t.kind === "Wire" ? (
@@ -239,7 +238,7 @@ export function LatestRail({ posts, jotd }: { posts: PostMeta[]; jotd?: JotdEntr
           <li key={p.slug} className="border-b border-border py-4 last:border-b-0">
             <Link prefetch={false} href={`/stories/${p.slug}`} className="group block no-underline">
               <div className="flex items-center gap-2 text-[10px] font-extrabold uppercase tracking-[0.14em]">
-                <span style={{ color: leagueColor(p.category) }}>{p.category}</span>
+                <span className="text-[#0b0b0f]">{p.category}</span>
                 <span className="text-steel">&middot; {p.kicker ?? "Story"} &middot; {ago(p.updatedDate ?? p.date)}</span>
               </div>
               <p className="m-0 mt-2 text-[15.5px] font-extrabold leading-snug text-black group-hover:text-orange line-clamp-2">{p.title}</p>

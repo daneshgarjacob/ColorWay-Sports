@@ -476,10 +476,10 @@ export default function Header() {
   return (
     <>
       <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-white/85 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.08)]" : "bg-white shadow-none"}`}>
-        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] gap-6">
+        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] lg:h-[58px] gap-6">
           {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link prefetch={false} href="/" className="flex items-center gap-2 sm:gap-2.5 min-w-0">
-            <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px]" style={{ minWidth: 26 }} aria-hidden="true">
+            <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px] lg:w-[26px] lg:h-[26px]" style={{ minWidth: 26 }} aria-hidden="true">
               {/* B3 badge (Jake 11/12): black outer ring, thick black inner ring, black flag; the centre is see-through so it frosts with the header glass */}
               <circle cx="512" cy="512" r="406" fill="none" stroke="#0b0b0f" strokeWidth="28" />
               <circle cx="512" cy="512" r="340" fill="none" stroke="#0b0b0f" strokeWidth="15" />
@@ -491,7 +491,7 @@ export default function Header() {
             </svg>
             <div className="flex flex-col min-w-0">
               {/* Wordmark only: Jake 11/12 dropped the "Every Jersey. Every Logo. Every Detail." tagline from the header */}
-              <span className="text-[22px] sm:text-[28px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#0b0b0f", whiteSpace: "nowrap" }}>
+              <span className="text-[22px] sm:text-[28px] lg:text-[25px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#0b0b0f", whiteSpace: "nowrap" }}>
                 ColorWay Sports
               </span>
             </div>
@@ -500,9 +500,9 @@ export default function Header() {
           {/* Row 1 centre — persistent search. Sits between the wordmark and the
               utility links so the masthead reads brand / find / about, and the
               league rail below carries all the section navigation. */}
-          <div ref={searchBoxRef} className="hidden lg:block flex-1 max-w-[320px] mx-auto relative">
+          <div ref={searchBoxRef} className="hidden lg:block flex-1 max-w-[420px] ml-2 relative">
             <form onSubmit={handleSearch}>
-              <div className="flex items-center gap-2 w-full bg-black/[0.04] hover:bg-black/[0.06] focus-within:bg-black/[0.07] border border-black/[0.08] rounded-full px-4 py-2 transition-colors">
+              <div className="flex items-center gap-2 w-full bg-black/[0.04] hover:bg-black/[0.06] focus-within:bg-black/[0.07] border border-black/[0.08] rounded-full px-4 py-[7px] transition-colors">
                 <svg className="w-4 h-4 text-black/45 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
@@ -574,7 +574,7 @@ export default function Header() {
           </div>
 
           {/* Row 1 right — utility links only */}
-          <nav className="hidden lg:flex items-center gap-1 flex-shrink-0">
+          <nav className="hidden lg:flex items-center gap-0.5 flex-shrink-0 ml-auto -mr-3">
             {navLinks.map((link) => (
               <Link prefetch={false}
                 key={link.label}
@@ -639,7 +639,9 @@ export default function Header() {
             properly, horizontally scrollable so new sports just join the end
             instead of breaking the layout. */}
         <div className={`hidden lg:block border-t border-black/[0.06] transition-colors duration-300 ${scrolled ? "bg-transparent" : "bg-white"}`}>
-          <nav className="hidden lg:flex items-center justify-center gap-1 w-full px-4 sm:px-8 xl:px-12 h-[48px]">
+          <nav className="hidden lg:flex items-center gap-0 w-full max-w-[1140px] mx-auto px-4 sm:px-8 h-[42px]">
+            {/* Dense rail (Jake 11/12: "too much open space"): leagues start under the logo, trackers fill the right */}
+            <div className="flex items-center -ml-3">
             {/* League dropdowns */}
             {leagues.map((league) => (
               <div
@@ -649,7 +651,7 @@ export default function Header() {
                 onMouseLeave={handleMouseLeave}
               >
                 <button
-                  className="text-[14.5px] font-bold text-[#0b0b0f]/85 transition-colors flex items-center gap-1.5 hover:text-[#0025CC] whitespace-nowrap rounded-full px-3 py-1.5 hover:bg-[#0025CC]/[0.07]"
+                  className="text-[14px] font-bold text-[#0b0b0f]/85 transition-colors flex items-center gap-1 hover:text-[#0025CC] whitespace-nowrap rounded-full px-3 py-1.5 hover:bg-[#0025CC]/[0.07]"
                   style={{ "--league-accent": leagueColor(league.label), fontFamily: "var(--font-display)", fontWeight: 700 /* logo font (Jake 10/25) */ } as React.CSSProperties}
                   onClick={(e) => {
                     e.stopPropagation();
@@ -779,6 +781,19 @@ export default function Header() {
                 )}
               </div>
             ))}
+            </div>
+            {/* Right side of the rail: one-tap uniform trackers, our core product */}
+            <div className="ml-auto flex items-center gap-0.5 -mr-2.5">
+              <span className="text-[10.5px] font-bold uppercase tracking-[0.14em] text-black/45 mr-1.5" style={{ fontFamily: "var(--font-display)" }}>Uniform Trackers</span>
+              {["NFL", "NBA", "NHL", "MLB"].map((lg) => {
+                const t = trackerLinks.find((x) => x.league === lg);
+                return t ? (
+                  <Link prefetch={false} key={lg} href={t.href} className="text-[13px] font-bold text-[#0b0b0f]/80 hover:text-[#0025CC] hover:bg-[#0025CC]/[0.07] rounded-full px-2.5 py-1 transition-colors" style={{ fontFamily: "var(--font-display)" }}>
+                    {lg}
+                  </Link>
+                ) : null;
+              })}
+            </div>
           </nav>
         </div>
       </header>
@@ -814,53 +829,9 @@ export default function Header() {
             </div>
           </form>
 
-          {/* Trackers — the live daily logs, above everything else */}
-          <section aria-label="Uniform trackers" className="w-full max-w-[300px] mb-2">
-            <p className="text-[10.5px] font-bold uppercase tracking-[0.16em] text-black/45 mb-2 text-center">
-              Uniform Trackers
-            </p>
-            <ul className="m-0 p-0 list-none rounded-xl border border-black/[0.08] bg-white divide-y divide-black/[0.06]">
-              {trackerLinks.map((t) => (
-                <li key={t.league} className="flex items-center">
-                  <Link prefetch={false}
-                    href={t.href}
-                    className="flex-1 min-w-0 flex items-center gap-2.5 pl-3.5 pr-2 h-12 text-[15.5px] font-semibold text-black hover:text-orange transition-colors"
-                    onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
-                  >
-                    {openedMenus.has("m:drawer") ? (
-                      <img src={t.logo} alt="" className="w-[22px] h-[22px] object-contain flex-shrink-0" />
-                    ) : (
-                      <span className="w-[22px] h-[22px] flex-shrink-0" />
-                    )}
-                    {t.league} Tracker
-                  </Link>
-                  <Link prefetch={false}
-                    href={t.calendar.href}
-                    className="flex items-center h-12 px-3.5 text-[13px] font-bold text-orange hover:text-orange/80 transition-colors whitespace-nowrap"
-                    onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
-                  >
-                    {t.calendar.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </section>
-
-          {/* Regular nav links — matches desktop order */}
-          {navLinks.map((link) => (
-            <Link prefetch={false}
-              key={link.label}
-              href={link.href}
-              className="text-xl font-medium text-black hover:text-orange transition-colors"
-              onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
-            >
-              {link.label}
-            </Link>
-          ))}
-
-          {/* Divider */}
-          <hr className="w-16 border-border my-2" />
-
+          {/* 11/12: one list, leagues first. Each league opens to its Uniform Tracker and
+              calendars, then stories and teams (the separate tracker block above was a
+              duplicate of this list). */}
           {/* League sections */}
           {leagues.map((league) => (
             <div key={league.label} className="w-full max-w-[300px]">
@@ -888,6 +859,24 @@ export default function Header() {
                     }`}
                   >
                     <div className="flex flex-col items-center gap-1 pb-2">
+                      {trackerLinks.filter((t) => t.league === league.label).map((t) => (
+                        <div key={t.league} className="flex items-center gap-4 py-1.5">
+                          <Link prefetch={false}
+                            href={t.href}
+                            className="text-[15px] font-bold text-black hover:text-orange transition-colors"
+                            onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+                          >
+                            {t.league} Uniform Tracker
+                          </Link>
+                          <Link prefetch={false}
+                            href={t.calendar.href}
+                            className="text-[13px] font-bold text-orange hover:text-orange/80 transition-colors"
+                            onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+                          >
+                            {t.calendar.label}
+                          </Link>
+                        </div>
+                      ))}
                       <Link prefetch={false}
                         href={league.storiesLink.href}
                         className="flex items-center gap-2 text-sm font-bold text-orange hover:text-orange/80 transition-colors py-1.5"
@@ -977,6 +966,21 @@ export default function Header() {
               )}
             </div>
           ))}
+          {/* Divider */}
+          <hr className="w-16 border-border my-2" />
+
+          {/* Regular nav links — matches desktop order */}
+          {navLinks.map((link) => (
+            <Link prefetch={false}
+              key={link.label}
+              href={link.href}
+              className="text-xl font-medium text-black hover:text-orange transition-colors"
+              onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+            >
+              {link.label}
+            </Link>
+          ))}
+
         </div>
       </div>
     </>
