@@ -12,6 +12,7 @@ coverImageFit: "cover"
 coverCredit:
   author: "Navy Athletics"
   url: "https://x.com/NavyAthletics/status/2120913432878723117"
+  license: "via the team"
 kicker: "Uniform Grade"
 logoSrc: "/logos/teams/ncaa-navy-midshipmen.png"
 league: "college"
