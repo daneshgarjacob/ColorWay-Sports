@@ -41,7 +41,7 @@ export default function RootingGuide() {
               onClick={() => { setGroupId(g.id); setTeamKey(null); }}
               className={`w-10 h-10 rounded-lg text-sm font-extrabold transition ${
                 g.id === groupId
-                  ? "bg-[#003087] text-white"
+                  ? "bg-[#0025CC] text-white"
                   : g.decided
                   ? "bg-emerald-50 text-emerald-700 hover:bg-emerald-100"
                   : "bg-gray-100 text-gray-700 hover:bg-gray-200"
@@ -136,7 +136,7 @@ export default function RootingGuide() {
                   key={t.key}
                   onClick={() => setTeamKey(t.key)}
                   className={`flex items-center gap-2.5 text-left px-4 py-3 rounded-xl font-bold text-[15px] border transition ${
-                    teamKey === t.key ? "border-[#003087] bg-[#003087]/5 ring-1 ring-[#003087]" : "border-gray-200 hover:bg-gray-50"
+                    teamKey === t.key ? "border-[#0025CC] bg-[#0025CC]/5 ring-1 ring-[#0025CC]" : "border-gray-200 hover:bg-gray-50"
                   } ${statusByKey[t.key] === "out" ? "opacity-55" : ""}`}
                 >
                   <span className="inline-block w-3 h-3 rounded-full shrink-0" style={{ background: t.color }} />
@@ -160,7 +160,7 @@ export default function RootingGuide() {
               </div>
               <div>
                 <div className="text-[11px] font-bold uppercase tracking-wider text-gray-400 mb-1">The other game</div>
-                <div className="text-xl font-extrabold text-[#003087]">{verdict.rootLine}</div>
+                <div className="text-xl font-extrabold text-[#0025CC]">{verdict.rootLine}</div>
                 <div className="text-sm text-gray-500 mt-1">{verdict.reason}</div>
               </div>
             </div>

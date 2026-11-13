@@ -80,7 +80,7 @@ export default function AdvertisePage() {
     <>
       <Header />
       <main style={{ fontFamily: "var(--font-sans)" }}>
-        <section className="bg-[#0d1322] text-white">
+        <section className="bg-[#0b0b0f] text-white">
           <div className={`${wrap} py-14 sm:py-20 grid lg:grid-cols-[1fr_320px] gap-10 items-center`}>
             <div>
             <p className={`${eyebrow} text-[#8fb0ff] mb-4`}>ColorWay Sports · Media kit · Updated {AS_OF}</p>
@@ -155,7 +155,7 @@ export default function AdvertisePage() {
         </section>
 
         <section className={`${wrap} py-12`}>
-          <div className="rounded-2xl bg-[#0d1322] text-white p-8">
+          <div className="rounded-2xl bg-[#0b0b0f] text-white p-8">
             <p className="text-[24px] font-extrabold tracking-tight" style={{ color: "#ffffff" }}>Let's talk.</p>
             <p className="text-[16px] text-white/70 mt-2">
               Jake Daneshgar, Founder and Editor in Chief. We reply within one business day.

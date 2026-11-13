@@ -131,7 +131,7 @@ export default async function TeamKitsPage({
       <Header />
       <main style={{ fontFamily: "var(--font-sans)" }}>
         {/* Hero */}
-        <section className="bg-[#0d1322] text-white relative overflow-hidden">
+        <section className="bg-[#0b0b0f] text-white relative overflow-hidden">
           <div
             aria-hidden
             className="absolute inset-0 opacity-[0.07]"
@@ -316,7 +316,7 @@ export default async function TeamKitsPage({
         </section>
 
         {/* Reserve */}
-        <section id="reserve" className="bg-[#0d1322] text-white scroll-mt-20">
+        <section id="reserve" className="bg-[#0b0b0f] text-white scroll-mt-20">
           <div className={`${wrap} py-16 sm:py-20 grid grid-cols-1 md:grid-cols-[1fr_1.05fr] gap-12`}>
             <div>
               <p className={`${eyebrow} text-[#8fb0ff] mb-3`}>Founding teams · Winter and spring 2027</p>
