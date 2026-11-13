@@ -480,9 +480,8 @@ export default function Header() {
           {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link prefetch={false} href="/" className="flex items-center gap-2 sm:gap-2.5 min-w-0">
             <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px]" style={{ minWidth: 26 }} aria-hidden="true">
-              {/* B3 badge (Jake 11/12): black outer ring, white disc, thick black inner ring, black flag */}
-              <circle cx="512" cy="512" r="420" fill="#0b0b0f" />
-              <circle cx="512" cy="512" r="392" fill="#ffffff" />
+              {/* B3 badge (Jake 11/12): black outer ring, thick black inner ring, black flag; the centre is see-through so it frosts with the header glass */}
+              <circle cx="512" cy="512" r="406" fill="none" stroke="#0b0b0f" strokeWidth="28" />
               <circle cx="512" cy="512" r="340" fill="none" stroke="#0b0b0f" strokeWidth="15" />
               <g fill="#0b0b0f">
                 <circle cx="411" cy="345" r="26" />
