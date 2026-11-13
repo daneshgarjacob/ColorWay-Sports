@@ -14,7 +14,7 @@
   --color-gray-medium: #666666;
   --color-border: #e5e5e5;
   --font-sans: var(--font-inter), -apple-system, "system-ui", "Segoe UI", Roboto, sans-serif;
-  --font-serif: var(--font-playfair), Georgia, "Times New Roman", serif;
+  --font-serif: var(--font-hanken), var(--font-inter), -apple-system, "system-ui", sans-serif; /* 11/12: Playfair retired, two fonts only (Hanken + Inter) */
   --font-display: var(--font-hanken), var(--font-inter), -apple-system, "system-ui", sans-serif;
 }
 
