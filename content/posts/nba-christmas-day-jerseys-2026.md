@@ -1,5 +1,5 @@
 ---
-title: "Are NBA Christmas Jerseys Back in 2026? What's Confirmed, What's Rumor, and What Every Team Wears on Christmas Day"
+title: "NBA Christmas Jerseys 2026: Are They Back? What All 10 Teams Wear On Christmas"
 category: "NBA"
 date: "2026-11-04"
 excerpt: "A report says Nike is bringing back NBA Christmas jerseys on December 14. Neither Nike nor the NBA has confirmed it, and the eight teams named match the Specter Edition. Here is what is confirmed, and what all 10 Christmas Day teams are scheduled to wear."

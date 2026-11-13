@@ -1,5 +1,5 @@
 ---
-title: "Brewers Jerseys 2026: All 5 Uniforms and When They Wear Them"
+title: "Brewers Jerseys 2026: The New Powder Blue, City Connect And All 5 Uniforms"
 category: MLB
 date: "2026-06-23"
 updatedDate: "2026-10-26"

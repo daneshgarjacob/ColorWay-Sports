@@ -40,6 +40,9 @@ export type GameDay = {
   revalidate: number;
   /** NFL only: the grid week this game belongs to, to match the This-Week box. */
   week?: number;
+  /** True 2-6 days out (NFL): only the meta description answers the question;
+   *  the page keeps its normal title (Jake 11/13 audience fix). */
+  descriptionOnly?: boolean;
 };
 
 const HOUR = 3600;
@@ -114,10 +117,11 @@ type Game = {
 };
 
 /** Picks the title for one game, given today's Eastern day number. */
-function compose(g: Game, today: number, maxTtl: number, now: Date): GameDay | null {
+function compose(g: Game, today: number, maxTtl: number, now: Date, maxOffset = 1): GameDay | null {
   const offset = g.day - today; // 0 = game day, 1 = the day before
-  if (offset !== 0 && offset !== 1) return null;
-  const whenWord = offset === 0 ? "Today" : DOW_LONG[g.dow];
+  if (offset < 0 || offset > maxOffset) return null;
+  const early = offset > 1;
+  const whenWord = offset === 0 ? "Today" : early ? "This Week" : DOW_LONG[g.dow];
   const question = `What Are the ${g.team} Wearing ${whenWord}?`;
   const status = g.confirmed ? "Confirmed" : "Expected";
   const vs = `${g.home ? "vs" : "at"} ${g.opponent}`;
@@ -137,7 +141,7 @@ function compose(g: Game, today: number, maxTtl: number, now: Date): GameDay | n
   const head = heads.find((h) => h.length <= TITLE_MAX) ?? question;
 
   const lead =
-    offset === 0 ? (g.evening ? "tonight" : "today") : DOW_LONG[g.dow];
+    offset === 0 ? (g.evening ? "tonight" : "today") : early ? "this week" : DOW_LONG[g.dow];
   const date = `${DOWS[g.dow]}, ${MON[g.m - 1]} ${g.d}`;
   const verdict = g.confirmed
     ? g.confirmedNote ?? "Confirmed."
@@ -155,7 +159,7 @@ function compose(g: Game, today: number, maxTtl: number, now: Date): GameDay | n
   // The title next changes at Eastern midnight: the day before flips to
   // "Today", and game day flips back to the normal title.
   const revalidate = clampTtl(secsToEtMidnight(now, 1), maxTtl);
-  return { question, title: `${head}${g.suffix}`, description, revalidate };
+  return { question, title: `${head}${g.suffix}`, description, revalidate, descriptionOnly: early || undefined };
 }
 
 /** How long a page with no game in the window can stay cached: until the
@@ -221,7 +225,10 @@ export function nflGameDay(entry: NflTeamEntry, now: Date): GameDayResult {
   const next = mine.find((x) => x.day >= today);
   if (!next) return { gameDay: null };
 
-  const inWindow = next.day - today <= 1 && next.k.timeSet;
+  // Titles change only on game day and the day before; from 6 days out the
+  // meta description already answers "what are they wearing this week"
+  // (audience report 11/13: those searches showed us 25.6K times at 7% CTR).
+  const inWindow = next.day - today <= 6 && next.k.timeSet;
   if (!inWindow) return { gameDay: null, revalidate: ttlUntilWindow(next.day, today, now) };
 
   // In the window but nothing we can stand behind: look again at midnight.
@@ -283,6 +290,7 @@ export function nflGameDay(entry: NflTeamEntry, now: Date): GameDayResult {
     today,
     HOUR,
     now,
+    6,
   );
   if (!gd) return outside;
   gd.week = k.week;

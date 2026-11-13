@@ -71,7 +71,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   await revalidatePageWithin(revalidate);
 
   return {
-    title: gameDay ? gameDay.title : `${post.title} | ColorWay Sports`,
+    title: gameDay && !gameDay.descriptionOnly ? gameDay.title : `${post.title} | ColorWay Sports`,
     description: gameDay ? gameDay.description : post.excerpt,
     alternates: {
       canonical: `https://www.colorwaysports.com/stories/${slug}`,

@@ -1,6 +1,6 @@
 ---
 topViewsRank: 5
-title: "NFL Uniform Schedule 2026: What All 32 Teams Wear This Week"
+title: "NFL Uniform Schedule 2026: Every Team's Jersey This Week"
 category: "NFL"
 date: "2026-08-18"
 updatedDate: "2026-09-30"

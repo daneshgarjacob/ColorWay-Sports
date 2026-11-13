@@ -1,5 +1,5 @@
 ---
-title: "NFL Salute to Service 2026: Dates, Games and Gear Release Date"
+title: "NFL Salute To Service 2026: Every Team's Jersey, Hoodie And Game Dates"
 category: "NFL"
 date: "2026-09-14"
 updatedDate: "2026-11-09"

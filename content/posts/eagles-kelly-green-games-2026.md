@@ -1,5 +1,5 @@
 ---
-title: "Eagles Kelly Green Games 2026: The Next One Is Christmas Eve Vs. The Texans, Plus Every Kelly Green Game Since 2023"
+title: "Eagles Kelly Green 2026 Dates: Next Game Is Christmas Eve Vs. The Texans"
 author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-11-11"

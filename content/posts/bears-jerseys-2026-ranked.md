@@ -1,5 +1,5 @@
 ---
-title: "Every Chicago Bears Jersey Ranked, Worst to Best (2026)"
+title: "Bears Jerseys 2026: Every Chicago Bears Uniform Ranked, Worst To Best"
 category: NFL
 date: "2026-09-16"
 updatedDate: "2026-10-13"

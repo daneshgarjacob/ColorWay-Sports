@@ -80,8 +80,23 @@ export function buildNflWear(
   let headline: WearHeadline | null = null;
 
   if (game && game.bye) {
-    const a = `The ${n} are on their bye in Week ${week}, so there is no game this week.`;
+    const after = entry.games.find((g) => g.week > week && !g.bye);
+    const a = `The ${n} are on their bye in Week ${week}, so there is no game this week.${
+      after ? ` Next up is Week ${after.week} ${after.home ? "against" : "at"} the ${after.opponent}.` : ""
+    }`;
     answers.push({ q: `What jerseys are the ${n} wearing this week?`, a });
+    // Bye week: lead with the next game's jersey so the top of the page still
+    // answers the search instead of opening on last week (Jake 11/13).
+    if (after) {
+      headline = {
+        question: `What Are the ${n} Wearing Next Game?`,
+        uniform: after.uniform,
+        confirmed: after.confirmed,
+        detail: `Bye this week · Week ${after.week} · ${after.date ?? after.window} · ${after.home ? "vs" : "at"} ${after.opponent}`,
+        img: after.img,
+        imgAlt: `${entry.name} ${after.uniform.split(" · ")[0]} jersey, ${after.confirmed ? "confirmed" : "expected"} for Week ${after.week}`,
+      };
+    }
   } else if (game) {
     const when = game.date ?? game.window;
     const where = game.home ? `at home against the ${game.opponent}` : `on the road at the ${game.opponent}`;
