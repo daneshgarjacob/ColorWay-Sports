@@ -51,7 +51,7 @@ export default async function NewsFeed() {
         <div className="max-w-[1080px] mx-auto px-5">
           <header className="pt-9 pb-4 border-b-2 border-black">
             <h1 className="font-display text-[34px] sm:text-[40px] font-black tracking-[-0.025em] leading-[1.05] text-black m-0">
-              Latest
+              Stories
             </h1>
           </header>
           <section className="pt-6 pb-4">

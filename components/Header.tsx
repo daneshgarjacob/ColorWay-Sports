@@ -302,8 +302,8 @@ const navLinks = [
   // (sportslogos.net model); "Latest" (/news) now holds the newest stories
   // and The Wire, and /stories is still reached from there and the footer.
   { label: "My Teams", href: "/my-teams" },
-  { label: "Latest", href: "/news" },
-  { label: "Tonight", href: "/tonight" },
+  { label: "Stories", href: "/news" },
+  { label: "Tonight's Uniforms", href: "/tonight" },
   { label: "Contact", href: "/contact" },
 ];
 
@@ -478,8 +478,8 @@ export default function Header() {
       <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-white/85 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.08)]" : "bg-white shadow-none"}`}>
         <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] lg:h-[64px] gap-6 lg:gap-12">
           {/* Logo — Outline Stamp + Hanken wordmark */}
-          <Link prefetch={false} href="/" aria-label="ColorWay Sports home" className="flex items-center gap-2 sm:gap-2.5 lg:gap-3 min-w-0 flex-shrink-0">
-            <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px] lg:w-[32px] lg:h-[32px]" style={{ minWidth: 26 }} aria-hidden="true">
+          <Link prefetch={false} href="/" aria-label="ColorWay Sports home" className="flex items-center gap-2 sm:gap-2.5 lg:gap-2.5 min-w-0 flex-shrink-0">
+            <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px] lg:w-[29px] lg:h-[29px]" style={{ minWidth: 26 }} aria-hidden="true">
               {/* B3 badge (Jake 11/12): black outer ring, thick black inner ring, black flag; the centre is see-through so it frosts with the header glass */}
               <circle cx="512" cy="512" r="406" fill="none" stroke="#0b0b0f" strokeWidth="28" />
               <circle cx="512" cy="512" r="340" fill="none" stroke="#0b0b0f" strokeWidth="15" />
@@ -491,7 +491,7 @@ export default function Header() {
             </svg>
             <div className="flex flex-col min-w-0">
               {/* Wordmark only: Jake 11/12 dropped the "Every Jersey. Every Logo. Every Detail." tagline from the header */}
-              <span className="text-[22px] sm:text-[28px] lg:text-[31px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#0b0b0f", whiteSpace: "nowrap" }}>
+              <span className="text-[22px] sm:text-[28px] lg:text-[28px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#0b0b0f", whiteSpace: "nowrap" }}>
                 ColorWay Sports
               </span>
             </div>
@@ -628,7 +628,7 @@ export default function Header() {
             a fan goes most, one tap from every page. Not pinned to the bottom of
             the screen, where Mediavine's sticky phone ad lives. */}
         <nav className="lg:hidden bg-white border-t border-black/[0.06] flex justify-around h-[40px] items-stretch">
-          {[{ label: "Home", href: "/" }, { label: "My Teams", href: "/my-teams" }, { label: "Latest", href: "/news" }, { label: "Tonight", href: "/tonight" }].map((l) => (
+          {[{ label: "Home", href: "/" }, { label: "My Teams", href: "/my-teams" }, { label: "Stories", href: "/news" }, { label: "Tonight", href: "/tonight" }].map((l) => (
             <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#0b0b0f]" style={{ fontFamily: "var(--font-display)" }}>
               {l.label}
             </Link>
