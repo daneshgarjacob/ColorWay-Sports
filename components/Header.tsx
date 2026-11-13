@@ -476,10 +476,10 @@ export default function Header() {
   return (
     <>
       <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-white/85 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.08)]" : "bg-white shadow-none"}`}>
-        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] lg:h-[58px] gap-6 lg:grid lg:grid-cols-[1fr_minmax(0,400px)_1fr]">
+        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] lg:h-[64px] gap-6 lg:gap-12">
           {/* Logo — Outline Stamp + Hanken wordmark */}
-          <Link prefetch={false} href="/" className="flex items-center gap-2 sm:gap-2.5 min-w-0">
-            <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px] lg:w-[26px] lg:h-[26px]" style={{ minWidth: 26 }} aria-hidden="true">
+          <Link prefetch={false} href="/" aria-label="ColorWay Sports home" className="flex items-center gap-2 sm:gap-2.5 lg:gap-3 min-w-0 flex-shrink-0">
+            <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px] lg:w-[32px] lg:h-[32px]" style={{ minWidth: 26 }} aria-hidden="true">
               {/* B3 badge (Jake 11/12): black outer ring, thick black inner ring, black flag; the centre is see-through so it frosts with the header glass */}
               <circle cx="512" cy="512" r="406" fill="none" stroke="#0b0b0f" strokeWidth="28" />
               <circle cx="512" cy="512" r="340" fill="none" stroke="#0b0b0f" strokeWidth="15" />
@@ -491,7 +491,7 @@ export default function Header() {
             </svg>
             <div className="flex flex-col min-w-0">
               {/* Wordmark only: Jake 11/12 dropped the "Every Jersey. Every Logo. Every Detail." tagline from the header */}
-              <span className="text-[22px] sm:text-[28px] lg:text-[25px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#0b0b0f", whiteSpace: "nowrap" }}>
+              <span className="text-[22px] sm:text-[28px] lg:text-[31px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#0b0b0f", whiteSpace: "nowrap" }}>
                 ColorWay Sports
               </span>
             </div>
@@ -500,7 +500,7 @@ export default function Header() {
           {/* Row 1 centre — persistent search. Sits between the wordmark and the
               utility links so the masthead reads brand / find / about, and the
               league rail below carries all the section navigation. */}
-          <div ref={searchBoxRef} className="hidden lg:block w-full relative">
+          <div ref={searchBoxRef} className="hidden lg:block flex-1 min-w-0 relative">
             <form onSubmit={handleSearch}>
               <div className="flex items-center gap-2 w-full bg-black/[0.04] hover:bg-black/[0.06] focus-within:bg-black/[0.07] border border-black/[0.08] rounded-full px-4 py-[7px] transition-colors">
                 <svg className="w-4 h-4 text-black/45 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -574,7 +574,7 @@ export default function Header() {
           </div>
 
           {/* Row 1 right — utility links only */}
-          <nav className="hidden lg:flex items-center justify-self-end gap-0.5 flex-shrink-0 -mr-3">
+          <nav className="hidden lg:flex items-center gap-0.5 flex-shrink-0 -mx-3">
             {navLinks.map((link) => (
               <Link prefetch={false}
                 key={link.label}
@@ -639,9 +639,9 @@ export default function Header() {
             properly, horizontally scrollable so new sports just join the end
             instead of breaking the layout. */}
         <div className={`hidden lg:block border-t border-black/[0.06] transition-colors duration-300 ${scrolled ? "bg-transparent" : "bg-white"}`}>
-          <nav className="hidden lg:flex items-center gap-0 w-full max-w-[1140px] mx-auto px-4 sm:px-8 h-[42px]">
+          <nav className="hidden lg:flex items-center justify-center gap-0 w-full max-w-[1140px] mx-auto px-4 sm:px-8 h-[44px]">
             {/* Dense rail (Jake 11/12: "too much open space"): leagues start under the logo, trackers fill the right */}
-            <div className="flex items-center -ml-3">
+            <div className="flex items-center gap-1">
             {/* League dropdowns */}
             {leagues.map((league) => (
               <div

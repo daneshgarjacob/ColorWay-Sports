@@ -24,7 +24,13 @@ export function tonightMatchups(now: Date): Matchup[] {
   const today = getMyTeamCards(now).filter((c) => c.next && /^(Today|Tonight)/.test(c.next.when));
   const out: Matchup[] = [];
   for (const home of today.filter((c) => c.next!.opp.startsWith("vs "))) {
-    const away = today.find((c) => c.league === home.league && c.next!.opp === `at ${home.nickname}`);
+    // Match either side's wording: Florida State's card says "at Pittsburgh" while
+    // the home card is nicknamed "Pitt" and says "vs Florida State" (11/12 split).
+    const names = (c: MyTeamCard) => [c.nickname, c.name].filter(Boolean);
+    const away = today.find((c) => c.league === home.league && c.id !== home.id && (
+      names(home).some((n) => c.next!.opp === `at ${n}`) ||
+      names(c).some((n) => home.next!.opp === `vs ${n}`)
+    ));
     out.push({ league: home.league, away, home });
   }
   // Road teams whose host we don't track (a college opponent outside our list).

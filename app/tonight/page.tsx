@@ -18,17 +18,24 @@ export const metadata: Metadata = {
   alternates: { canonical: "/tonight" },
 };
 
+// 11/12 Jake: the old cards boxed each jersey in its own bordered square and
+// looked cheap. Now one card per game, both jerseys standing on a shared Mist
+// stage (multiply blend drops the product shots' white backgrounds).
 function Side({ c, solo }: { c?: MyTeamCard; solo?: boolean }) {
   if (!c) return <div className="flex-1" />;
   return (
-    <Link prefetch={false} href={teamPagePath(c.id)} className="flex-1 min-w-0 flex flex-col items-center text-center gap-1.5">
-      <div className="w-[92px] h-[104px] rounded-xl bg-white border border-border flex items-center justify-center overflow-hidden">
+    <Link prefetch={false} href={teamPagePath(c.id)} className="group flex-1 min-w-0 flex flex-col items-center text-center">
+      <div className="w-full h-[150px] sm:h-[170px] flex items-end justify-center">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={c.next?.img ?? c.logo} alt="" className={c.next?.img ? "w-[92%] h-[92%] object-contain" : "w-[60%] h-[60%] object-contain"} loading="lazy" />
+        <img src={c.next?.img ?? c.logo} alt={`${c.name} ${c.next?.look ?? ""}`} className={c.next?.img ? "max-h-full max-w-[88%] object-contain mix-blend-multiply transition-transform duration-300 group-hover:-translate-y-1" : "w-[55%] h-[55%] object-contain"} loading="lazy" />
       </div>
-      <div className="font-display font-black text-[15px] leading-tight">{c.nickname}</div>
-      <div className="text-[12px] leading-snug text-foreground/80">{c.next?.look}</div>
-      {solo && <div className="text-[11px] text-steel">{c.next?.opp}</div>}
+      <div className="mt-3 flex items-center justify-center gap-1.5 min-w-0">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src={c.logo} alt="" className="w-5 h-5 object-contain flex-shrink-0" loading="lazy" />
+        <span className="font-display font-black text-[15px] leading-tight truncate group-hover:text-[#0025CC] transition-colors">{c.nickname}</span>
+      </div>
+      <div className="text-[12px] leading-snug text-steel mt-0.5">{c.next?.look}</div>
+      {solo && <div className="text-[11px] text-steel mt-0.5">{c.next?.opp}</div>}
     </Link>
   );
 }
@@ -72,16 +79,22 @@ export default async function TonightPage() {
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
               {games.filter((g) => g.league === l).map((g) => (
-                <div key={g.home.id + (g.away?.id ?? "")} className="rounded-2xl border border-border p-3 flex items-start gap-2">
-                  {g.away && g.away !== g.home ? (
-                    <>
-                      <Side c={g.away} />
-                      <div className="self-center font-display font-black text-[13px] text-steel">at</div>
-                      <Side c={g.home} />
-                    </>
-                  ) : (
-                    <Side c={g.home} solo />
-                  )}
+                <div key={g.home.id + (g.away?.id ?? "")} className="rounded-2xl bg-white border border-black/[0.07] shadow-[0_1px_3px_rgba(0,0,0,0.04)] overflow-hidden hover:shadow-[0_8px_24px_rgba(0,0,0,0.08)] transition-shadow">
+                  <div className="flex items-center justify-between px-4 pt-3 text-[10.5px] font-black uppercase tracking-[0.14em] text-steel font-display">
+                    <span>{(g.home.next?.when ?? "").replace(/^Today,?\s*/, "Tonight ")}</span>
+                    {g.home.next?.confirmed && <span className="text-[#0025CC]">Confirmed</span>}
+                  </div>
+                  <div className="mx-3 mt-2 mb-4 rounded-xl bg-[#F4F5F7] px-2 pt-4 pb-4 flex items-start gap-1">
+                    {g.away && g.away !== g.home ? (
+                      <>
+                        <Side c={g.away} />
+                        <div className="self-center mt-[-40px] font-display font-black text-[12px] tracking-[0.16em] text-black/35">AT</div>
+                        <Side c={g.home} />
+                      </>
+                    ) : (
+                      <Side c={g.home} solo />
+                    )}
+                  </div>
                 </div>
               ))}
             </div>
