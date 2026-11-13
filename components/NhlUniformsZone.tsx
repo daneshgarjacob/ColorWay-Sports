@@ -94,7 +94,7 @@ export default function NhlUniformsZone() {
             </span>
             <span className="flex items-center gap-1.5">
               <img src="/logos/leagues/nhl.png" alt="NHL" className="h-[20px] w-auto object-contain" />
-              <h2 className="text-[13px] font-bold text-[#0B1F4A] uppercase tracking-widest">NHL Uniforms</h2>
+              <h2 className="text-[13px] font-bold text-[#0b0b0f] uppercase tracking-widest">NHL Uniforms</h2>
             </span>
           </div>
           <Link
@@ -166,7 +166,7 @@ export default function NhlUniformsZone() {
             <div className="flex flex-wrap items-baseline justify-between mb-3 gap-2">
               <span className="flex items-center gap-1.5">
                 <img src="/logos/leagues/nhl.png" alt="" className="h-[16px] w-auto object-contain" />
-                <span className="text-[12px] font-bold text-[#0B1F4A] uppercase tracking-[0.12em]">
+                <span className="text-[12px] font-bold text-[#0b0b0f] uppercase tracking-[0.12em]">
                   Last Night · {night.label}
                 </span>
               </span>

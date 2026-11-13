@@ -7,7 +7,7 @@ export default function WearQuickAnswers({ answers }: { answers: WearAnswer[] })
     <dl className="mt-5 pt-4 border-t border-black/10 space-y-3">
       {answers.map(({ q, a }) => (
         <div key={q}>
-          <dt className="text-[13px] font-extrabold text-[#0B1F4A] leading-snug capitalize">{q}</dt>
+          <dt className="text-[13px] font-extrabold text-[#0b0b0f] leading-snug capitalize">{q}</dt>
           <dd className="mt-0.5 text-[13px] text-black/70 leading-relaxed">{a}</dd>
         </div>
       ))}

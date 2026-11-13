@@ -104,6 +104,12 @@ a {
   box-shadow: 0 8px 24px rgba(0,0,0,0.12), 0 20px 48px rgba(0,0,0,0.16);
 }
 
+/* 11/12 two-font system: every heading in Hanken Grotesk (the logo font), body in Inter.
+   Unlayered element rule, so utility classes (font-sans etc.) still win where set on purpose. */
+@layer base {
+  h1, h2, h3 { font-family: var(--font-display); }
+}
+
 /* Article prose styling */
 .prose p {
   margin-bottom: 1.25em;

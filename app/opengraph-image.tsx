@@ -11,7 +11,7 @@ export const contentType = "image/png";
 
 export default async function OgImage() {
   // Jake 10/6: link previews showed the old system-font wordmark. Use the real
-  // lockup (flag badge + Hanken Grotesk wordmark + tagline), white on navy.
+  // lockup (flag badge + Hanken Grotesk wordmark + tagline), white on navy. 11/12: new brand, white on Royal 4.
   const lockup = `data:image/png;base64,${await readFile(join(process.cwd(), "public/brand/colorway-sports-logo-white.png"), "base64")}`;
   return new ImageResponse(
     (
@@ -23,7 +23,7 @@ export default async function OgImage() {
           flexDirection: "column",
           alignItems: "center",
           justifyContent: "center",
-          background: "linear-gradient(135deg, #0A1733 0%, #003087 55%, #1E54B0 100%)",
+          background: "#0025CC",
           position: "relative",
         }}
       >
@@ -35,13 +35,13 @@ export default async function OgImage() {
             left: 0,
             right: 0,
             height: "6px",
-            background: "#0025CC",
+            background: "#8FB0FF",
             display: "flex",
           }}
         />
 
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={lockup} width={940} height={116} alt="ColorWay Sports" />
+        <img src={lockup} width={900} height={136} alt="ColorWay Sports" />
 
         {/* Accent bar at bottom */}
         <div
@@ -51,7 +51,7 @@ export default async function OgImage() {
             left: 0,
             right: 0,
             height: "6px",
-            background: "#0025CC",
+            background: "#8FB0FF",
             display: "flex",
           }}
         />

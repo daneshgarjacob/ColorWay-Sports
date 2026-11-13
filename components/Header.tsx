@@ -629,7 +629,7 @@ export default function Header() {
             the screen, where Mediavine's sticky phone ad lives. */}
         <nav className="lg:hidden bg-white border-t border-black/[0.06] flex justify-around h-[40px] items-stretch">
           {[{ label: "Home", href: "/" }, { label: "My Teams", href: "/my-teams" }, { label: "Latest", href: "/news" }, { label: "Tonight", href: "/tonight" }].map((l) => (
-            <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#14223f]" style={{ fontFamily: "var(--font-display)" }}>
+            <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#0b0b0f]" style={{ fontFamily: "var(--font-display)" }}>
               {l.label}
             </Link>
           ))}

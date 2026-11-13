@@ -19,7 +19,7 @@ function Side({ s }: { s: NbaSide }) {
           <img src={s.logo} alt={`${s.name} logo`} loading="lazy" className="h-10 w-10 object-contain" />
         )}
       </div>
-      <span className="mt-1.5 w-full truncate text-center text-[11px] font-extrabold text-[#0B1F4A] group-hover:underline">
+      <span className="mt-1.5 w-full truncate text-center text-[11px] font-extrabold text-[#0b0b0f] group-hover:underline">
         {s.name}
       </span>
       {s.image ? (
@@ -29,7 +29,7 @@ function Side({ s }: { s: NbaSide }) {
       ) : (
         <span
           className={`mt-0.5 inline-block rounded-full px-2 py-[1px] text-[9.5px] font-bold uppercase tracking-[0.08em] ${
-            s.white ? "border border-[#d5dae3] bg-white text-[#0B1F4A]" : "bg-[#0B1F4A] text-white"
+            s.white ? "border border-[#d5dae3] bg-white text-[#0b0b0f]" : "bg-[#0b0b0f] text-white"
           }`}
         >
           {s.jersey}
@@ -57,7 +57,7 @@ export default function NbaTonightZone() {
             </span>
             <span className="flex items-center gap-1.5">
               <img src="/logos/leagues/nba.png" alt="NBA" className="h-[20px] w-auto object-contain" />
-              <h2 className="text-[13px] font-bold text-[#0B1F4A] uppercase tracking-widest">NBA Uniforms</h2>
+              <h2 className="text-[13px] font-bold text-[#0b0b0f] uppercase tracking-widest">NBA Uniforms</h2>
             </span>
           </div>
           <Link prefetch={false} href={HUB} className="text-[11px] font-semibold text-orange hover:underline uppercase tracking-widest">
@@ -71,7 +71,7 @@ export default function NbaTonightZone() {
 
         <div className="rounded-xl border border-border bg-white p-4 sm:p-5">
           <div className="mb-3 flex flex-wrap items-baseline justify-between gap-2">
-            <span className="text-[12px] font-bold text-[#0B1F4A] uppercase tracking-[0.12em]">{heading}</span>
+            <span className="text-[12px] font-bold text-[#0b0b0f] uppercase tracking-[0.12em]">{heading}</span>
             <span className="text-[10px] font-semibold uppercase tracking-[0.14em] text-[#8A8F98]">
               {slate.games.length} {slate.games.length === 1 ? "Game" : "Games"} · Away at Home
             </span>

@@ -70,7 +70,7 @@ export default function UpNext({ slug, title, category, gradient, coverImage, co
         <Link prefetch={false} href={`/stories/${slug}`} className="flex items-center gap-3 min-w-0 flex-1">
           <div
             className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0"
-            style={{ background: gradient || "#0B1F4A" }}
+            style={{ background: gradient || "#0b0b0f" }}
           >
             {coverImage && (
               <img

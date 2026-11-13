@@ -46,7 +46,7 @@ function GameCard({ g }: { g: SlateGame }) {
         <Link prefetch={false} key={s.team.key} href={`/stories/${s.team.scheduleSlug}`} className="group flex items-center gap-2 min-w-0">
           <img src={s.team.logo} alt="" className="h-[26px] w-[26px] object-contain flex-none" />
           <span className="min-w-0 flex-1">
-            <span className="block text-[13px] font-bold text-[#0B1F4A] group-hover:text-orange truncate">
+            <span className="block text-[13px] font-bold text-[#0b0b0f] group-hover:text-orange truncate">
               {s.team.nickname}
             </span>
             <span className="flex items-center gap-1.5 text-[11.5px] text-[#5f7085] min-w-0">
@@ -59,7 +59,7 @@ function GameCard({ g }: { g: SlateGame }) {
           </span>
         </Link>
       ))}
-      {g.score && <div className="text-[11px] font-bold text-[#0B1F4A] pl-[34px]">Final: {g.score}</div>}
+      {g.score && <div className="text-[11px] font-bold text-[#0b0b0f] pl-[34px]">Final: {g.score}</div>}
     </div>
   );
 }
@@ -95,7 +95,7 @@ export default function NflWeekZoneV2() {
             </span>
             <span className="flex items-center gap-1.5">
               <img src="/logos/leagues/nfl.png" alt="NFL" className="h-[18px] w-auto object-contain" />
-              <h2 className="text-[13px] font-bold text-[#0B1F4A] uppercase tracking-widest">NFL Uniforms · Week {slate.week}</h2>
+              <h2 className="text-[13px] font-bold text-[#0b0b0f] uppercase tracking-widest">NFL Uniforms · Week {slate.week}</h2>
             </span>
           </div>
           <Link prefetch={false} href={`/stories/nfl-week-${slate.week}-uniforms-2026`} className="text-[11px] font-semibold text-orange hover:underline uppercase tracking-widest">
@@ -128,7 +128,7 @@ export default function NflWeekZoneV2() {
           <div className="grid grid-cols-1 sm:grid-cols-4 gap-3.5">
             {shelf.map((s) => (
               <Link prefetch={false} key={s.href} href={s.href} className="group">
-                <span className="block text-[14px] font-bold text-[#0B1F4A] group-hover:text-orange leading-snug">{s.t}</span>
+                <span className="block text-[14px] font-bold text-[#0b0b0f] group-hover:text-orange leading-snug">{s.t}</span>
                 <span className="text-[12px] text-[#5f7085]">{s.s}</span>
               </Link>
             ))}

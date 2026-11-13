@@ -11,7 +11,7 @@ export function StoriesGuide() {
   return (
     <article className="max-w-[1200px] mx-auto px-5 pb-14">
       <div className="max-w-[760px] text-[16px] leading-relaxed text-[#3b4660] space-y-4">
-        <h2 className="text-[22px] font-extrabold text-[#0B1F4A] pt-6">How to Find What Your Team Is Wearing</h2>
+        <h2 className="text-[22px] font-extrabold text-[#0b0b0f] pt-6">How to Find What Your Team Is Wearing</h2>
         <p>
           Every club in the four major leagues has its own uniform schedule page. Each one lists every game of the season with the
           jersey the team is wearing that night, marks which calls the team or league has confirmed, and flips each row to what was
@@ -19,7 +19,7 @@ export function StoriesGuide() {
           to start.
         </p>
 
-        <h3 className="text-[18px] font-extrabold text-[#0B1F4A] pt-2">NFL</h3>
+        <h3 className="text-[18px] font-extrabold text-[#0b0b0f] pt-2">NFL</h3>
         <p>
           The <Link prefetch={false} href="/stories/nfl-uniform-schedule-2026" className={A}>NFL uniform schedule</Link> covers all 32
           teams, helmet to pants, every week. Each week also gets its own guide to every game, starting on Tuesday, and the{" "}
@@ -27,7 +27,7 @@ export function StoriesGuide() {
           wore and grades the matchup after every game.
         </p>
 
-        <h3 className="text-[18px] font-extrabold text-[#0B1F4A] pt-2">NBA</h3>
+        <h3 className="text-[18px] font-extrabold text-[#0b0b0f] pt-2">NBA</h3>
         <p>
           The <Link prefetch={false} href="/stories/nba-uniform-schedule-2026-27" className={A}>NBA uniform schedule</Link>{" "}has every
           jersey for every game of 2026-27 for all 30 teams, from the NBA&apos;s official uniform schedule: Association, Icon,
@@ -36,7 +36,7 @@ export function StoriesGuide() {
           30 designs and lists every debut date.
         </p>
 
-        <h3 className="text-[18px] font-extrabold text-[#0B1F4A] pt-2">MLB</h3>
+        <h3 className="text-[18px] font-extrabold text-[#0b0b0f] pt-2">MLB</h3>
         <p>
           The <Link prefetch={false} href="/stories/mlb-uniform-schedule-2026" className={A}>MLB uniform schedule</Link> explains how
           each club picks its jersey by day of the week, and the{" "}
@@ -44,7 +44,7 @@ export function StoriesGuide() {
           game, every day, through the postseason.
         </p>
 
-        <h3 className="text-[18px] font-extrabold text-[#0B1F4A] pt-2">NHL</h3>
+        <h3 className="text-[18px] font-extrabold text-[#0b0b0f] pt-2">NHL</h3>
         <p>
           The <Link prefetch={false} href="/stories/nhl-uniform-schedule-2026-27" className={A}>NHL uniform schedule</Link> covers all
           32 teams and every third jersey night, and the{" "}
@@ -52,13 +52,13 @@ export function StoriesGuide() {
           sweaters from every game.
         </p>
 
-        <h3 className="text-[18px] font-extrabold text-[#0B1F4A] pt-2">College and soccer</h3>
+        <h3 className="text-[18px] font-extrabold text-[#0b0b0f] pt-2">College and soccer</h3>
         <p>
           College football teams change looks more than anyone, so each program we cover gets a week-by-week uniform schedule and a
           weekly guide every Saturday. Soccer coverage follows the kits: home, away and third, and when each one is worn.
         </p>
 
-        <h2 className="text-[22px] font-extrabold text-[#0B1F4A] pt-6">How We Confirm a Uniform</h2>
+        <h2 className="text-[22px] font-extrabold text-[#0b0b0f] pt-6">How We Confirm a Uniform</h2>
         <p>
           A call is marked confirmed only when the team or league has published it, in a schedule, an announcement or the official
           uniform feed. Everything else is labeled expected, our read from the team&apos;s pattern, and it is replaced with what was

@@ -24,7 +24,7 @@ export default function NflWeekZone() {
             </span>
             <span className="flex items-center gap-1.5">
               <img src="/logos/leagues/nfl.png" alt="NFL" className="h-[18px] w-auto object-contain" />
-              <h2 className="text-[13px] font-bold text-[#0B1F4A] uppercase tracking-widest">
+              <h2 className="text-[13px] font-bold text-[#0b0b0f] uppercase tracking-widest">
                 NFL Uniforms · Week {week}
               </h2>
             </span>
@@ -63,7 +63,7 @@ export default function NflWeekZone() {
               { k: "Confirmed by teams", v: `${stats.confirmed} of ${chips.length}`, c: "#1a7f37" },
             ].map((s) => (
               <div key={s.k} className="rounded-lg bg-[#F7F8FA] px-3 py-2.5" style={{ borderTop: `3px solid ${s.c}` }}>
-                <div className="text-[22px] font-black leading-none text-[#0B1F4A] tabular-nums">{s.v}</div>
+                <div className="text-[22px] font-black leading-none text-[#0b0b0f] tabular-nums">{s.v}</div>
                 <div className="mt-1 text-[10px] font-bold uppercase tracking-[0.1em] text-[#5f7085]">{s.k}</div>
               </div>
             ))}
@@ -83,12 +83,12 @@ export default function NflWeekZone() {
                 {c.logo && (
                   <img src={c.logo} alt="" className="h-[20px] w-[20px] object-contain flex-shrink-0" />
                 )}
-                <span className="text-[12px] font-extrabold text-[#0B1F4A] truncate group-hover:text-orange transition-colors">
+                <span className="text-[12px] font-extrabold text-[#0b0b0f] truncate group-hover:text-orange transition-colors">
                   {c.team}
                 </span>
               </span>
               <span className="mt-1 text-[11px] text-[#5f7085] truncate">{c.opponent}</span>
-              <span className="mt-0.5 text-[10.5px] font-bold uppercase tracking-[0.06em] leading-snug text-[#0B1F4A]">
+              <span className="mt-0.5 text-[10.5px] font-bold uppercase tracking-[0.06em] leading-snug text-[#0b0b0f]">
                 {c.confirmed && <span className="text-orange">★ </span>}
                 {c.label}
               </span>

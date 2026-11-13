@@ -43,7 +43,7 @@ export default function TeamQuickLinks({ teams }: { teams: TeamQuickLinksEntry[]
             <span className="text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#5b6474]">
               Track the {team.name}
             </span>
-            <span className="text-[10px] font-bold uppercase tracking-[0.14em] text-white bg-[#14284b] rounded px-1.5 py-0.5">
+            <span className="text-[10px] font-bold uppercase tracking-[0.14em] text-white bg-[#0b0b0f] rounded px-1.5 py-0.5">
               {LEAGUE_NAMES[team.league] || team.league.toUpperCase()}
             </span>
           </div>
