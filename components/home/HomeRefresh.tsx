@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { imgFitClass, type JotdEntry } from "@/lib/jerseyOfTheDay";
-import { leagueColor } from "@/lib/leagueColors";
 import type { PostMeta } from "@/lib/posts";
 import { getAuthor } from "@/lib/authors";
 import type { Take, TonightLeague } from "@/lib/homeToday";
@@ -64,7 +63,7 @@ export function LeadStory({ post, compact = false }: { post: PostMeta; compact?:
   const author = getAuthor(post.author);
   return (
     <Link prefetch={false} href={`/stories/${post.slug}`} className="group block">
-      <div className="relative aspect-[3/2] lg:aspect-[16/10] overflow-hidden rounded-xl bg-[#0b1730]">
+      <div className="relative aspect-[3/2] overflow-hidden rounded-xl bg-[#0b1730]">
         {post.coverImage && (
           <img
             src={post.coverImage}
@@ -86,10 +85,10 @@ export function LeadStory({ post, compact = false }: { post: PostMeta; compact?:
           <span className="text-[11px] font-bold uppercase tracking-widest text-steel">· {post.kicker}</span>
         )}
       </div>
-      <h2 className={`mt-2 font-display ${compact ? "text-[21px] sm:text-[22px]" : "text-[26px] sm:text-[30px]"} font-extrabold leading-[1.12] tracking-tight text-black group-hover:text-orange transition-colors`}>
+      <h2 className={`mt-2 font-display ${compact ? "text-[21px] sm:text-[22px]" : "text-[26px] sm:text-[32px]"} font-extrabold leading-[1.12] tracking-tight text-black group-hover:text-orange transition-colors`}>
         {post.title}
       </h2>
-      <p className={`mt-2.5 ${compact ? "text-[14px]" : "text-[15px]"} leading-relaxed text-[#4b5260] max-w-[680px] line-clamp-3 lg:line-clamp-2`}>{post.excerpt}</p>
+      <p className={`mt-3 ${compact ? "text-[14px]" : "text-[15.5px]"} leading-relaxed text-[#4b5260] max-w-[680px]`}>{post.excerpt}</p>
       <p className="mt-3 text-[12px] font-semibold text-steel">By {author.name}</p>
     </Link>
   );
@@ -124,7 +123,7 @@ export function JakesTakes({ takes, jotd }: { takes: Take[]; jotd?: JotdEntry | 
           <li key={t.key} className="border-b border-border py-4 last:border-b-0">
             <Link prefetch={false} href={t.href} className="group block no-underline">
               <div className="flex items-center gap-2 text-[10px] font-extrabold uppercase tracking-[0.14em]">
-                <span style={{ color: leagueColor(t.tag) }}>{t.tag}</span>
+                <span className="text-[#0b0b0f]">{t.tag}</span>
                 <span className="text-steel">· {t.kind} · {ago(t.when)}</span>
               </div>
               {t.kind === "Wire" ? (
@@ -236,50 +235,18 @@ export function LatestRail({ posts, jotd }: { posts: PostMeta[]; jotd?: JotdEntr
       </div>
       <ol className="m-0 p-0 list-none">
         {posts.map((p) => (
-          <li key={p.slug} className="border-b border-border py-3 last:border-b-0">
+          <li key={p.slug} className="border-b border-border py-4 last:border-b-0">
             <Link prefetch={false} href={`/stories/${p.slug}`} className="group block no-underline">
               <div className="flex items-center gap-2 text-[10px] font-extrabold uppercase tracking-[0.14em]">
                 <span className="text-[#0b0b0f]">{p.category}</span>
                 <span className="text-steel">&middot; {p.kicker ?? "Story"} &middot; {ago(p.updatedDate ?? p.date)}</span>
               </div>
-              <p className="m-0 mt-1.5 text-[15px] font-extrabold leading-snug text-black group-hover:text-orange line-clamp-3">{p.title}</p>
+              <p className="m-0 mt-2 text-[15.5px] font-extrabold leading-snug text-black group-hover:text-orange line-clamp-2">{p.title}</p>
+              <p className="m-0 mt-1.5 text-[12px] font-semibold text-steel">By {getAuthor(p.author)?.name ?? "ColorWay Sports Staff"}</p>
             </Link>
           </li>
         ))}
       </ol>
     </aside>
-  );
-}
-
-
-/* ── Middle column of the dense top (Jake 11/12: "condensed like The Athletic"):
-   two stories with photos stacked between the lead and the Latest rail. ───── */
-export function SecondaryStack({ posts }: { posts: PostMeta[] }) {
-  if (posts.length === 0) return null;
-  return (
-    <div className="hidden lg:flex flex-col gap-6 lg:border-l lg:border-border lg:pl-7">
-      {posts.map((p) => (
-        <Link prefetch={false} key={p.slug} href={`/stories/${p.slug}`} className="group block no-underline">
-          <div className="relative aspect-[16/9] overflow-hidden rounded-lg bg-[#eef0f3]">
-            {p.coverImage && (
-              <img
-                src={p.coverImage}
-                alt=""
-                loading="lazy"
-                className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
-                style={p.coverImagePosition ? { objectPosition: p.coverImagePosition } : undefined}
-              />
-            )}
-          </div>
-          <div className="mt-2.5 flex items-center gap-2 text-[10px] font-extrabold uppercase tracking-[0.14em]">
-            <span className="text-[#0b0b0f]">{p.category}</span>
-            {p.kicker && <span className="text-steel">&middot; {p.kicker}</span>}
-          </div>
-          <h3 className="m-0 mt-1.5 font-display text-[19px] font-extrabold leading-[1.2] tracking-tight text-black group-hover:text-orange transition-colors line-clamp-3">
-            {p.title}
-          </h3>
-        </Link>
-      ))}
-    </div>
   );
 }

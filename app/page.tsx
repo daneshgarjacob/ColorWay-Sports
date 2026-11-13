@@ -1,6 +1,6 @@
 import Header from "@/components/Header";
 import StoryCard from "@/components/StoryCard";
-import { LeadStory, LatestRail, SecondaryStack } from "@/components/home/HomeRefresh";
+import { LeadStory, LatestRail } from "@/components/home/HomeRefresh";
 import { latestStandsDate, standsPhotoFor, standsPool } from "@/lib/homeToday";
 import { MyTeamsRow, TeamPicker } from "@/components/home/MyTeams";
 import { getMyTeamCards, withOpponents } from "@/lib/myTeams";
@@ -245,9 +245,7 @@ export default async function Home() {
     ...pinSlots.map((p) => p ?? coverFirst[fillAt++]),
   ]
     .filter((p): p is Post => Boolean(p))
-    // 11/12 dense top: the first two sit beside the lead on desktop, so take
-    // five (two up top + three in Top Stories); phones show all five below.
-    .slice(0, 5);
+    .slice(0, 3);
   const gridSlugs = new Set(gridPosts.map((p) => p.slug));
 
   // Every story the bands below already link to. More Stories used to be the
@@ -358,11 +356,10 @@ export default async function Home() {
         {/* 10/5: lead story (2/3) + Jake's Takes rail (1/3) */}
         {heroPost && (
           <section className="max-w-[1200px] mx-auto px-5 pt-6 pb-2">
-            <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,10fr)_minmax(0,7fr)_minmax(0,7fr)] gap-7">
+            <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)] gap-8">
               <LeadStory post={heroPost} />
-              <SecondaryStack posts={gridPosts.slice(0, 2)} />
               {/* Jake 11/4: the right column is "Latest", text only, every author. */}
-              <LatestRail jotd={jotd.entry} posts={byDateDesc.filter((p) => !heroSlugs.includes(p.slug) && !gridSlugs.has(p.slug)).slice(0, 5)} />
+              <LatestRail jotd={jotd.entry} posts={byDateDesc.filter((p) => !heroSlugs.includes(p.slug) && !gridSlugs.has(p.slug)).slice(0, 4)} />
             </div>
           </section>
         )}
@@ -383,10 +380,8 @@ export default async function Home() {
             </div>
             <hr className="border-border mb-6" />
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {gridPosts.map((post, i) => (
-                <div key={post.slug} className={i < 2 ? "lg:hidden" : undefined}>
-                  <StoryCard {...post} compact />
-                </div>
+              {gridPosts.map((post) => (
+                <StoryCard key={post.slug} {...post} compact />
               ))}
             </div>
           </section>
