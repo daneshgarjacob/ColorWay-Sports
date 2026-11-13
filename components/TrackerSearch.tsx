@@ -102,7 +102,7 @@ export default function TrackerSearch({
             onFocus={() => setOpen(true)}
             onBlur={() => setTimeout(() => setOpen(false), 150)}
             onKeyDown={onKeyDown}
-            className="w-full text-sm font-semibold text-blue-dark bg-white border border-black/10 rounded-lg pl-9 pr-8 py-1.5 placeholder:text-black/40 placeholder:font-medium hover:border-black/25 focus:outline-none focus:ring-2 focus:ring-[#2f6bed]/40 transition-colors duration-150"
+            className="w-full text-sm font-semibold text-blue-dark bg-white border border-black/10 rounded-lg pl-9 pr-8 py-1.5 placeholder:text-black/40 placeholder:font-medium hover:border-black/25 focus:outline-none focus:ring-2 focus:ring-[#0025CC]/40 transition-colors duration-150"
           />
           {query && (
             <button
@@ -137,7 +137,7 @@ export default function TrackerSearch({
                     onMouseEnter={() => setActive(i)}
                     onClick={() => jumpTo(item.id)}
                     className={`w-full text-left px-4 py-2 flex items-baseline justify-between gap-3 transition-colors ${
-                      i === active ? "bg-[#2f6bed]/[0.08]" : "hover:bg-black/[0.03]"
+                      i === active ? "bg-[#0025CC]/[0.08]" : "hover:bg-black/[0.03]"
                     }`}
                   >
                     <span className="text-sm font-semibold text-blue-dark truncate">

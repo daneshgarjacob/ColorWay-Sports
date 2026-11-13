@@ -52,7 +52,7 @@ export default function TraditionalJerseyIndex() {
             >
               NBA Playoffs 2026
             </span>
-            <h2 className="text-[13px] font-bold text-[#0B1F4A] uppercase tracking-widest">
+            <h2 className="text-[13px] font-bold text-[#0b0b0f] uppercase tracking-widest">
               Traditional Jersey Index
             </h2>
           </div>
@@ -73,13 +73,13 @@ export default function TraditionalJerseyIndex() {
             return (
               <div key={r.label}>
                 <div className="flex items-baseline justify-between mb-1.5">
-                  <span className="text-[11px] font-bold text-[#0B1F4A]">
+                  <span className="text-[11px] font-bold text-[#0b0b0f]">
                     {r.label}
                     <span className="ml-2 text-[10px] font-semibold text-[#8A8F98]">
                       {r.complete ? "Complete" : "In Progress"}
                     </span>
                   </span>
-                  <span className="text-[11px] font-bold text-[#0B1F4A]">
+                  <span className="text-[11px] font-bold text-[#0b0b0f]">
                     {r.traditional} / {r.total}
                     <span className="ml-1.5 text-[10px] text-[#8A8F98] font-normal">
                       ({pct}%)
@@ -95,7 +95,7 @@ export default function TraditionalJerseyIndex() {
                         pct >= 60
                           ? "#1F6B4E"
                           : pct >= 40
-                          ? "#2f6bed"
+                          ? "#0025CC"
                           : "#C0392B",
                     }}
                   />

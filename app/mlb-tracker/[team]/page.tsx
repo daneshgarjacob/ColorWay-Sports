@@ -209,13 +209,13 @@ export default async function TeamTrackerPage({
         <nav className="max-w-[860px] mx-auto px-5 pt-6 flex gap-3 flex-wrap">
           <a
             href={meta.scheduleHref}
-            className="flex-1 min-w-[220px] text-center bg-[#2f6bed] text-white text-[15px] font-bold px-5 py-3 rounded-xl hover:opacity-90 transition-opacity"
+            className="flex-1 min-w-[220px] text-center bg-[#0025CC] text-white text-[15px] font-bold px-5 py-3 rounded-xl hover:opacity-90 transition-opacity"
           >
             {entry.name}{" "}Uniform Schedule &rarr;
           </a>
           <a
             href="#calendar"
-            className="flex-1 min-w-[220px] text-center border-2 border-[#2f6bed] text-[#2f6bed] text-[15px] font-bold px-5 py-3 rounded-xl hover:bg-[#2f6bed]/5 transition-colors"
+            className="flex-1 min-w-[220px] text-center border-2 border-[#0025CC] text-[#0025CC] text-[15px] font-bold px-5 py-3 rounded-xl hover:bg-[#0025CC]/5 transition-colors"
           >
             Uniform Calendar &darr;
           </a>
@@ -225,7 +225,7 @@ export default async function TeamTrackerPage({
           <section className="max-w-[860px] mx-auto px-5 pt-12">
             <p className="text-[15px] text-black/60">
               We haven&rsquo;t logged a {entry.name} game yet this season. Check the{" "}
-              <Link prefetch={false} href={`/stories/${TRACKER_SLUG}`} className="text-[#2f6bed] font-semibold hover:underline">
+              <Link prefetch={false} href={`/stories/${TRACKER_SLUG}`} className="text-[#0025CC] font-semibold hover:underline">
                 daily tracker
               </Link>{" "}
               — it updates every morning.
@@ -370,19 +370,19 @@ export default async function TeamTrackerPage({
           <div className="border border-black/[0.08] rounded-2xl p-5 bg-[#fafbfc] flex flex-wrap items-center gap-x-6 gap-y-2">
             <Link prefetch={false}
               href={meta.scheduleHref}
-              className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+              className="text-[13px] font-bold text-[#0025CC] hover:underline"
             >
               {entry.name} full 2026 uniform schedule &rarr;
             </Link>
             <Link prefetch={false}
               href="/mlb-tracker"
-              className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+              className="text-[13px] font-bold text-[#0025CC] hover:underline"
             >
               All 30 team calendars &rarr;
             </Link>
             <Link prefetch={false}
               href={`/stories/${TRACKER_SLUG}`}
-              className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+              className="text-[13px] font-bold text-[#0025CC] hover:underline"
             >
               Back to the daily tracker &rarr;
             </Link>

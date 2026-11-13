@@ -107,7 +107,7 @@ export default function WorldSeriesLogoGrader({ shared }: { shared?: string }) {
           <div style={{ display: "flex", gap: 10 }}>
             <button onClick={share} disabled={!graded}
               style={{ padding: "8px 16px", borderRadius: 999, border: "none", cursor: graded ? "pointer" : "not-allowed",
-                background: graded ? "#2f6bed" : "#d8d8d8", color: "#fff", fontWeight: 800, fontSize: 13 }}>
+                background: graded ? "#0025CC" : "#d8d8d8", color: "#fff", fontWeight: 800, fontSize: 13 }}>
               {copied ? "Link copied" : "Share my grades"}
             </button>
             {graded > 0 && (
@@ -119,7 +119,7 @@ export default function WorldSeriesLogoGrader({ shared }: { shared?: string }) {
           </div>
         </div>
         <div style={{ height: 5, background: "#eee", borderRadius: 999, marginTop: 10, overflow: "hidden" }}>
-          <div style={{ width: `${pct}%`, height: "100%", background: "linear-gradient(90deg,#003087,#2f6bed)", transition: "width .25s ease" }} />
+          <div style={{ width: `${pct}%`, height: "100%", background: "linear-gradient(90deg,#003087,#0025CC)", transition: "width .25s ease" }} />
         </div>
       </div>
 

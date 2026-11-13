@@ -70,7 +70,7 @@ export default function WorldSeriesZone() {
               alt={`2026 ${kind} logo`}
               className="h-[30px] w-auto object-contain"
             />
-            <h2 className="text-[13px] font-black text-[#0B1F4A] uppercase tracking-widest">
+            <h2 className="text-[13px] font-black text-[#0b0b0f] uppercase tracking-widest">
               2026 {kind}
             </h2>
           </div>

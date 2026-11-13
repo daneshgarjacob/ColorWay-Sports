@@ -475,26 +475,24 @@ export default function Header() {
 
   return (
     <>
-      <header className={`sticky top-0 z-50 border-b border-white/10 transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-[#003087]/72 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.22)]" : "bg-[#003087] shadow-none"}`}>
-        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[80px] sm:h-[100px] gap-6">
+      <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-white/85 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.08)]" : "bg-white shadow-none"}`}>
+        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] gap-6">
           {/* Logo — Outline Stamp + Hanken wordmark */}
-          <Link prefetch={false} href="/" className="flex items-center gap-2.5 sm:gap-3 min-w-0">
-            <svg width="38" height="38" viewBox="0 0 100 100" className="sm:w-[46px] sm:h-[46px]" style={{ minWidth: 38 }} aria-hidden="true">
-              <circle cx="50" cy="50" r="37" fill="none" stroke="#ffffff" strokeWidth="2.6" />
-              <circle cx="50" cy="50" r="31" fill="none" stroke="#ffffff" strokeWidth="1" opacity="0.45" />
-              <g transform="translate(0,3)">
-                <circle cx="40.8" cy="32" r="2.4" fill="#ffffff" />
-                <rect x="39.6" y="33" width="2.6" height="33" rx="1.3" fill="#ffffff" />
-                <path d="M42.2,36 L65,40.5 L55,46 L65,51.5 L42.2,54 Z" fill="#ffffff" />
+          <Link prefetch={false} href="/" className="flex items-center gap-2 sm:gap-2.5 min-w-0">
+            <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px]" style={{ minWidth: 26 }} aria-hidden="true">
+              {/* B3 badge (Jake 11/12): black outer ring, thick black inner ring, black flag; the centre is see-through so it frosts with the header glass */}
+              <circle cx="512" cy="512" r="406" fill="none" stroke="#0b0b0f" strokeWidth="28" />
+              <circle cx="512" cy="512" r="340" fill="none" stroke="#0b0b0f" strokeWidth="15" />
+              <g fill="#0b0b0f">
+                <circle cx="411" cy="345" r="26" />
+                <rect x="398" y="345" width="29" height="373" rx="14" />
+                <path d="M412,387 L427,390 L677,440 L567,500 L677,561 L427,588 L412,590 Z" />
               </g>
             </svg>
             <div className="flex flex-col min-w-0">
-              {/* Wordmark nudged left (Jake-tuned to -0.118em in the alignment sandbox) so the C optically lines up over the tagline's E; tagline indent left as-is */}
-              <span className="text-[22px] sm:text-[28px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", whiteSpace: "nowrap", textIndent: "-0.118em" }}>
+              {/* Wordmark only: Jake 11/12 dropped the "Every Jersey. Every Logo. Every Detail." tagline from the header */}
+              <span className="text-[22px] sm:text-[28px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#0b0b0f", whiteSpace: "nowrap" }}>
                 ColorWay Sports
-              </span>
-              <span className="text-[8px] sm:text-[9px] max-[359px]:text-[7px] uppercase tracking-[0.18em] max-[389px]:tracking-[0.07em] mt-[3px]" style={{ fontFamily: "var(--font-display)", fontWeight: 700, color: "#9FB6D6", whiteSpace: "nowrap", textIndent: "-0.04em" }}>
-                Every Jersey. Every Logo. Every Detail.
               </span>
             </div>
           </Link>
@@ -504,8 +502,8 @@ export default function Header() {
               league rail below carries all the section navigation. */}
           <div ref={searchBoxRef} className="hidden lg:block flex-1 max-w-[320px] mx-auto relative">
             <form onSubmit={handleSearch}>
-              <div className="flex items-center gap-2 w-full bg-white/[0.12] hover:bg-white/[0.17] focus-within:bg-white/[0.19] border border-white/15 rounded-full px-4 py-2 transition-colors">
-                <svg className="w-4 h-4 text-white/60 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div className="flex items-center gap-2 w-full bg-black/[0.04] hover:bg-black/[0.06] focus-within:bg-black/[0.07] border border-black/[0.08] rounded-full px-4 py-2 transition-colors">
+                <svg className="w-4 h-4 text-black/45 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
                 <input
@@ -520,7 +518,7 @@ export default function Header() {
                   aria-expanded={sugOpen && hasSuggestions}
                   role="combobox"
                   aria-controls="discover-suggestions"
-                  className="w-full bg-transparent text-[13.5px] text-white placeholder:text-white/50 focus:outline-none"
+                  className="w-full bg-transparent text-[13.5px] text-black placeholder:text-black/45 focus:outline-none"
                 />
               </div>
             </form>
@@ -541,7 +539,7 @@ export default function Header() {
                     role="option"
                     aria-selected={activeSug === i}
                     onClick={() => setSugOpen(false)}
-                    className={`flex items-center gap-2.5 px-4 py-2 text-[13.5px] font-semibold text-black transition-colors ${activeSug === i ? "bg-[#2f6bed]/10" : "hover:bg-[#2f6bed]/[0.06]"}`}
+                    className={`flex items-center gap-2.5 px-4 py-2 text-[13.5px] font-semibold text-black transition-colors ${activeSug === i ? "bg-[#0025CC]/10" : "hover:bg-[#0025CC]/[0.06]"}`}
                   >
                     {t.g && <img src={t.g} alt="" className="w-5 h-5 object-contain flex-shrink-0" />}
                     {t.n}
@@ -558,7 +556,7 @@ export default function Header() {
                     role="option"
                     aria-selected={activeSug === suggestions.teams.length + i}
                     onClick={() => setSugOpen(false)}
-                    className={`block px-4 py-2 text-[13px] text-black/85 leading-snug transition-colors ${activeSug === suggestions.teams.length + i ? "bg-[#2f6bed]/10" : "hover:bg-[#2f6bed]/[0.06]"}`}
+                    className={`block px-4 py-2 text-[13px] text-black/85 leading-snug transition-colors ${activeSug === suggestions.teams.length + i ? "bg-[#0025CC]/10" : "hover:bg-[#0025CC]/[0.06]"}`}
                   >
                     {p.t}
                   </Link>
@@ -567,7 +565,7 @@ export default function Header() {
                 <button
                   type="button"
                   onClick={handleSearch}
-                  className="w-full text-left px-4 py-2.5 mt-1 text-[12.5px] font-bold text-[#2f6bed] border-t border-border hover:bg-[#2f6bed]/[0.06] transition-colors"
+                  className="w-full text-left px-4 py-2.5 mt-1 text-[12.5px] font-bold text-[#0025CC] border-t border-border hover:bg-[#0025CC]/[0.06] transition-colors"
                 >
                   See all results for “{searchQuery.trim()}” →
                 </button>
@@ -581,7 +579,7 @@ export default function Header() {
               <Link prefetch={false}
                 key={link.label}
                 href={link.href}
-                className="text-[13.5px] tracking-[0.01em] text-white/80 hover:text-white hover:bg-white/10 rounded-full px-3 py-1.5 transition-colors"
+                className="text-[13.5px] tracking-[0.01em] text-black/75 hover:text-black hover:bg-black/[0.05] rounded-full px-3 py-1.5 transition-colors"
                 style={{ fontFamily: "var(--font-display)", fontWeight: 700 /* nav uses the logo font (Jake 10/25) */ }}
               >
                 {link.label}
@@ -594,7 +592,7 @@ export default function Header() {
           <div className="lg:hidden flex items-center flex-shrink-0">
           <button
             type="button"
-            className="relative w-9 h-10 flex items-center justify-center text-white/90 hover:text-white transition-colors"
+            className="relative w-9 h-10 flex items-center justify-center text-black/85 hover:text-black transition-colors"
             onClick={() => {
               markOpened("m:drawer");
               setMobileOpen(true);
@@ -619,9 +617,9 @@ export default function Header() {
             }}
             aria-label="Toggle menu"
           >
-            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
-            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
-            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 bg-[#0b0b0f] transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
+            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-[#0b0b0f] transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 bg-[#0b0b0f] transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
           </button>
           </div>
         </div>
@@ -631,7 +629,7 @@ export default function Header() {
             the screen, where Mediavine's sticky phone ad lives. */}
         <nav className="lg:hidden bg-white border-t border-black/[0.06] flex justify-around h-[40px] items-stretch">
           {[{ label: "Home", href: "/" }, { label: "My Teams", href: "/my-teams" }, { label: "Latest", href: "/news" }, { label: "Tonight", href: "/tonight" }].map((l) => (
-            <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#14223f]" style={{ fontFamily: "var(--font-display)" }}>
+            <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#0b0b0f]" style={{ fontFamily: "var(--font-display)" }}>
               {l.label}
             </Link>
           ))}
@@ -640,7 +638,7 @@ export default function Header() {
         {/* Row 2 — the league rail. Light so the full-colour league marks read
             properly, horizontally scrollable so new sports just join the end
             instead of breaking the layout. */}
-        <div className="hidden lg:block bg-white border-t border-black/[0.06]">
+        <div className={`hidden lg:block border-t border-black/[0.06] transition-colors duration-300 ${scrolled ? "bg-transparent" : "bg-white"}`}>
           <nav className="hidden lg:flex items-center justify-center gap-1 w-full px-4 sm:px-8 xl:px-12 h-[48px]">
             {/* League dropdowns */}
             {leagues.map((league) => (
@@ -651,7 +649,7 @@ export default function Header() {
                 onMouseLeave={handleMouseLeave}
               >
                 <button
-                  className="text-[13.5px] font-bold text-[#14223f]/85 transition-colors flex items-center gap-1.5 hover:text-[#2f6bed] whitespace-nowrap rounded-full px-3 py-1.5 hover:bg-[#2f6bed]/[0.07]"
+                  className="text-[14.5px] font-bold text-[#0b0b0f]/85 transition-colors flex items-center gap-1.5 hover:text-[#0025CC] whitespace-nowrap rounded-full px-3 py-1.5 hover:bg-[#0025CC]/[0.07]"
                   style={{ "--league-accent": leagueColor(league.label), fontFamily: "var(--font-display)", fontWeight: 700 /* logo font (Jake 10/25) */ } as React.CSSProperties}
                   onClick={(e) => {
                     e.stopPropagation();
@@ -665,9 +663,7 @@ export default function Header() {
                     setOpenSub(null);
                   }}
                 >
-                  {league.leagueLogo && (
-                    <img src={league.leagueLogo} alt="" loading="lazy" className="w-[18px] h-[18px] object-contain flex-shrink-0" />
-                  )}
+                  {/* Text-only rail (Jake 11/12): league marks live inside each menu, not in the bar */}
                   {league.label}
                   {hasDropdown(league) && (
                     <svg className={`w-3 h-3 transition-transform duration-200 ${openDropdown === league.label ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -789,10 +785,10 @@ export default function Header() {
 
       {/* Mobile menu — frosted glass sheet that starts below the sticky header.
           z-50 so it wins over the sticky TrackerJumpNav (z-40) on long tracker
-          posts; the drawer starts at top:80px so it never overlaps the header
+          posts; the drawer starts at top:60px (72px on sm+) so it never overlaps the header
           visually even though both share z-50. */}
       <div
-        className={`fixed inset-x-0 bottom-0 top-[80px] sm:top-[100px] z-50 bg-white supports-[backdrop-filter]:bg-white/80 backdrop-blur-2xl backdrop-saturate-150 transition-all duration-300 overflow-y-auto ${
+        className={`fixed inset-x-0 bottom-0 top-[60px] sm:top-[72px] z-50 bg-white supports-[backdrop-filter]:bg-white/80 backdrop-blur-2xl backdrop-saturate-150 transition-all duration-300 overflow-y-auto ${
           mobileOpen ? "opacity-100 pointer-events-auto" : "opacity-0 pointer-events-none"
         }`}
       >

@@ -43,7 +43,7 @@ export default function TeamQuickLinks({ teams }: { teams: TeamQuickLinksEntry[]
             <span className="text-[11px] font-extrabold uppercase tracking-[0.16em] text-[#5b6474]">
               Track the {team.name}
             </span>
-            <span className="text-[10px] font-bold uppercase tracking-[0.14em] text-white bg-[#14284b] rounded px-1.5 py-0.5">
+            <span className="text-[10px] font-bold uppercase tracking-[0.14em] text-white bg-[#0b0b0f] rounded px-1.5 py-0.5">
               {LEAGUE_NAMES[team.league] || team.league.toUpperCase()}
             </span>
           </div>
@@ -53,9 +53,9 @@ export default function TeamQuickLinks({ teams }: { teams: TeamQuickLinksEntry[]
               <a
                 key={link.kind}
                 href={link.href}
-                className="group flex items-center gap-3 rounded-xl border border-black/10 bg-white px-4 py-3 hover:border-[#2f6bed] hover:shadow-[0_4px_16px_rgba(47,107,237,0.13)] transition-all duration-150"
+                className="group flex items-center gap-3 rounded-xl border border-black/10 bg-white px-4 py-3 hover:border-[#0025CC] hover:shadow-[0_4px_16px_rgba(47,107,237,0.13)] transition-all duration-150"
               >
-                <span className="flex-shrink-0 w-9 h-9 rounded-lg bg-[#e8eefb] text-[#2f6bed] flex items-center justify-center">
+                <span className="flex-shrink-0 w-9 h-9 rounded-lg bg-[#e8eefb] text-[#0025CC] flex items-center justify-center">
                   <Icon kind={link.kind} />
                 </span>
                 <span className="min-w-0">
@@ -66,7 +66,7 @@ export default function TeamQuickLinks({ teams }: { teams: TeamQuickLinksEntry[]
                     {KIND_COPY[link.kind]}
                   </span>
                 </span>
-                <span className="ml-auto text-[#2f6bed] font-bold text-lg leading-none group-hover:translate-x-0.5 transition-transform duration-150">
+                <span className="ml-auto text-[#0025CC] font-bold text-lg leading-none group-hover:translate-x-0.5 transition-transform duration-150">
                   &rarr;
                 </span>
               </a>

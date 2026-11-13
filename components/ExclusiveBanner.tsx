@@ -14,7 +14,7 @@ export default function ExclusiveBanner() {
     <Link prefetch={false}
       href={`/stories/${exclusive.slug}`}
       className="block group"
-      style={{ background: "#003087", borderBottom: "3px solid #2f6bed", textDecoration: "none" }}
+      style={{ background: "#003087", borderBottom: "3px solid #0025CC", textDecoration: "none" }}
     >
       <div className="max-w-[1200px] mx-auto px-5 py-3 flex items-center gap-3 sm:gap-4">
         <span

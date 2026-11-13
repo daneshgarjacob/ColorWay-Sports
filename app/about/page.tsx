@@ -24,7 +24,7 @@ export default function AboutPage() {
             src="/brand/colorway-logo.png"
             alt="ColorWay Sports logo"
             width={420}
-            height={59}
+            height={51}
             className="mx-auto mb-8"
           />
           <p className="text-[11px] uppercase tracking-[0.2em] text-[#8A8F98] font-medium mb-3">

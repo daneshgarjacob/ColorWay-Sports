@@ -40,11 +40,11 @@ export default function WorldCupFantasyDraftPage() {
     <>
       <Header />
       <main className="max-w-[820px] mx-auto px-5 py-12 sm:py-16">
-        <p className="text-[12px] font-bold uppercase tracking-[0.16em] text-[#2f6bed] mb-3">2026 World Cup · Interactive Fantasy Draft Game</p>
+        <p className="text-[12px] font-bold uppercase tracking-[0.16em] text-[#0025CC] mb-3">2026 World Cup · Interactive Fantasy Draft Game</p>
         <h1 className="text-3xl sm:text-4xl font-extrabold text-[#003087] tracking-tight mb-4 leading-tight">
           Draft Your 2026 World Cup Dream Team: Build a Starting XI
         </h1>
-        <div className="rounded-2xl bg-[#eef3ff] border border-[#cfdcff] px-5 py-4 mb-5 text-[15px] leading-relaxed text-[#14223f]">
+        <div className="rounded-2xl bg-[#eef3ff] border border-[#cfdcff] px-5 py-4 mb-5 text-[15px] leading-relaxed text-[#0b0b0f]">
           <strong>New here? Here is the idea.</strong> This is a free game, with no sign-up and nothing to download. We deal you five
           random World Cup stars at a time, and you pick one to add to your team. Keep going until you have filled all eleven spots
           on the field, then we give your squad an overall rating and tell you how far it would go in the tournament. Try to build
@@ -82,7 +82,7 @@ export default function WorldCupFantasyDraftPage() {
             You get <strong>one re-roll for the whole draft</strong>, so use it wisely. When your XI is done, hit share to send a
             link to your team. Friends who open it see your rating and how far your team goes, then draft their own to try to beat
             you. Want to predict the tournament itself? Fill out our{" "}
-            <a href="/world-cup-rooting-guide" className="text-[#2f6bed] font-semibold">interactive 2026 World Cup bracket</a> next.
+            <a href="/world-cup-rooting-guide" className="text-[#0025CC] font-semibold">interactive 2026 World Cup bracket</a> next.
           </p>
 
           <h2 className="text-2xl font-extrabold text-[#003087] tracking-tight mb-4">Frequently asked questions</h2>

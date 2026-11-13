@@ -95,7 +95,7 @@ export default async function MlbTrackerHub() {
                             : "No games logged yet"}
                         </span>
                       </span>
-                      <span className="text-[#2f6bed] text-[15px] font-bold shrink-0 opacity-0 group-hover:opacity-100 transition-opacity">
+                      <span className="text-[#0025CC] text-[15px] font-bold shrink-0 opacity-0 group-hover:opacity-100 transition-opacity">
                         &rarr;
                       </span>
                     </Link>
@@ -109,13 +109,13 @@ export default async function MlbTrackerHub() {
           <div className="border border-black/[0.08] rounded-2xl p-5 bg-[#fafbfc] flex flex-wrap items-center gap-x-7 gap-y-2">
             <Link prefetch={false}
               href={`/stories/${TRACKER_SLUG}`}
-              className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+              className="text-[13px] font-bold text-[#0025CC] hover:underline"
             >
               The full daily uniform tracker &rarr;
             </Link>
             <Link prefetch={false}
               href="/stories/mlb-uniform-schedule-2026"
-              className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+              className="text-[13px] font-bold text-[#0025CC] hover:underline"
             >
               2026 MLB uniform schedule guide &rarr;
             </Link>

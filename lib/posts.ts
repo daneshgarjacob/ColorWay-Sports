@@ -451,11 +451,11 @@ export function trimLogSections(
 
   const label = post.archiveLabel || "Open the team pages";
   const note =
-    `<div data-log-trim style="margin: 2.5em 0; padding: 1.25em 1.4em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px; font-size: 0.95em; line-height: 1.55; color: #14284b;">` +
+    `<div data-log-trim style="margin: 2.5em 0; padding: 1.25em 1.4em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px; font-size: 0.95em; line-height: 1.55; color: #0b0b0f;">` +
     `<p style="margin: 0;"><strong>This page keeps the ${keep} most recent ${keep === 1 ? "entry" : "entries"}.</strong> ` +
     `The earlier ${trimmed} ${trimmed === 1 ? "entry is" : "entries are"} still logged` +
     (post.archiveHref
-      ? `, and every game is filed on the team pages, all season long. <a href="${post.archiveHref}" style="font-weight: 700; color: #2f6bed; text-decoration: none;">${label} &rarr;</a>`
+      ? `, and every game is filed on the team pages, all season long. <a href="${post.archiveHref}" style="font-weight: 700; color: #0025CC; text-decoration: none;">${label} &rarr;</a>`
       : `.`) +
     `</p></div>\n`;
 

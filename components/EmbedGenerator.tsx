@@ -59,7 +59,7 @@ export default function EmbedGenerator({ teams }: { teams: GeneratorTeam[] }) {
             <select
               value={id}
               onChange={(e) => setId(e.target.value)}
-              className="w-full h-11 rounded-lg border border-[#D9DEE6] bg-white px-3 text-[15px] font-semibold text-[#0B1F4A] focus:outline-none focus:ring-2 focus:ring-[#2f6bed]/40"
+              className="w-full h-11 rounded-lg border border-[#D9DEE6] bg-white px-3 text-[15px] font-semibold text-[#0b0b0f] focus:outline-none focus:ring-2 focus:ring-[#0025CC]/40"
             >
               {leagues.map((lg) => (
                 <optgroup key={lg} label={lg}>
@@ -85,7 +85,7 @@ export default function EmbedGenerator({ teams }: { teams: GeneratorTeam[] }) {
                   aria-checked={theme === t.key}
                   onClick={() => setTheme(t.key)}
                   className={`flex-1 rounded-md text-[13px] font-semibold transition-colors ${
-                    theme === t.key ? "bg-white text-[#0B1F4A] shadow-sm" : "text-[#5F6B7D] hover:text-[#0B1F4A]"
+                    theme === t.key ? "bg-white text-[#0b0b0f] shadow-sm" : "text-[#5F6B7D] hover:text-[#0b0b0f]"
                   }`}
                 >
                   {t.label}
@@ -101,7 +101,7 @@ export default function EmbedGenerator({ teams }: { teams: GeneratorTeam[] }) {
             <button
               type="button"
               onClick={copy}
-              className="h-9 rounded-lg bg-[#2f6bed] px-4 text-[13px] font-bold text-white hover:bg-[#2459c9] transition-colors"
+              className="h-9 rounded-lg bg-[#0025CC] px-4 text-[13px] font-bold text-white hover:bg-[#2459c9] transition-colors"
             >
               {copied ? "Copied" : "Copy code"}
             </button>

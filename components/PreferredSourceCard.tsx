@@ -25,7 +25,7 @@ export default function PreferredSourceCard() {
       style={{ fontFamily: "var(--font-display)" }}
     >
       <div className="min-w-0 flex-1">
-        <p className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#2f6bed] mb-1.5">See Us First on Google</p>
+        <p className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#0025CC] mb-1.5">See Us First on Google</p>
         <p className="text-[16px] font-extrabold text-black leading-snug tracking-tight">
           Make ColorWay Sports a preferred source and our uniform news shows up higher when you search.
         </p>
@@ -34,7 +34,7 @@ export default function PreferredSourceCard() {
         href={PREFERRED_SOURCE_URL}
         target="_blank"
         rel="noopener"
-        className="inline-flex items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-4 py-2.5 text-[14px] font-bold text-black hover:border-[#2f6bed] hover:text-[#2f6bed] transition-colors whitespace-nowrap shrink-0"
+        className="inline-flex items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-4 py-2.5 text-[14px] font-bold text-black hover:border-[#0025CC] hover:text-[#0025CC] transition-colors whitespace-nowrap shrink-0"
       >
         <GoogleG />
         Add on Google

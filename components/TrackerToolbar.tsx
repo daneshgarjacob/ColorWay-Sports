@@ -102,7 +102,7 @@ export default function TrackerToolbar({ slug, headings }: { slug: string; headi
           {jump ? (
             <a
               href={`#${jump.id}`}
-              className="inline-flex items-center gap-2 h-10 pl-4 pr-3.5 rounded-full bg-blue-dark text-white text-[13.5px] font-bold tracking-[0.005em] whitespace-nowrap hover:bg-[#2f6bed] transition-colors"
+              className="inline-flex items-center gap-2 h-10 pl-4 pr-3.5 rounded-full bg-blue-dark text-white text-[13.5px] font-bold tracking-[0.005em] whitespace-nowrap hover:bg-[#0025CC] transition-colors"
               style={{ fontFamily: "var(--font-display)" }}
             >
               {jump.label}
@@ -115,7 +115,7 @@ export default function TrackerToolbar({ slug, headings }: { slug: string; headi
           )}
           <a
             href={cfg.hub.href}
-            className="text-[12.5px] font-bold text-[#2f6bed] whitespace-nowrap hover:underline"
+            className="text-[12.5px] font-bold text-[#0025CC] whitespace-nowrap hover:underline"
           >
             {cfg.hub.label}&nbsp;&rarr;
           </a>
@@ -130,7 +130,7 @@ export default function TrackerToolbar({ slug, headings }: { slug: string; headi
               {cfg.also && (
                 <a
                   href={cfg.also.href}
-                  className="text-[12px] font-semibold text-black/55 whitespace-nowrap hover:text-[#2f6bed] hover:underline"
+                  className="text-[12px] font-semibold text-black/55 whitespace-nowrap hover:text-[#0025CC] hover:underline"
                 >
                   {cfg.also.label}&nbsp;&rarr;
                 </a>
@@ -150,7 +150,7 @@ export default function TrackerToolbar({ slug, headings }: { slug: string; headi
                     href={c.href}
                     title={`${c.name} uniform calendar`}
                     aria-label={`${c.name} uniform calendar`}
-                    className="flex items-center gap-1.5 h-10 pl-2.5 pr-3 sm:w-9 sm:h-9 sm:p-0 sm:justify-center rounded-full border border-black/10 bg-white text-[13px] font-semibold text-blue-dark whitespace-nowrap hover:border-[#2f6bed] hover:text-[#2f6bed] transition-colors"
+                    className="flex items-center gap-1.5 h-10 pl-2.5 pr-3 sm:w-9 sm:h-9 sm:p-0 sm:justify-center rounded-full border border-black/10 bg-white text-[13px] font-semibold text-blue-dark whitespace-nowrap hover:border-[#0025CC] hover:text-[#0025CC] transition-colors"
                   >
                     {c.logo ? (
                       <img src={c.logo} alt="" width={22} height={22} loading="lazy" decoding="async" className="w-[22px] h-[22px] object-contain shrink-0" />

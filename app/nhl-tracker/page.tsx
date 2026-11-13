@@ -60,7 +60,7 @@ export default function NhlTrackerHub() {
           <Link
             prefetch={false}
             href={`/stories/${TRACKER_SLUG}`}
-            className="flex items-center justify-between gap-4 rounded-2xl bg-[#2f6bed] text-white px-5 py-4 hover:opacity-90 transition-opacity"
+            className="flex items-center justify-between gap-4 rounded-2xl bg-[#0025CC] text-white px-5 py-4 hover:opacity-90 transition-opacity"
           >
             <span>
               <span className="block text-[11px] font-extrabold uppercase tracking-[0.16em] text-white/70">
@@ -101,7 +101,7 @@ export default function NhlTrackerHub() {
                             {n ? `${n} game${n === 1 ? "" : "s"} confirmed` : "No games confirmed yet"}
                           </span>
                         </span>
-                        <span className="text-[#2f6bed] text-[15px] font-bold shrink-0 opacity-0 group-hover:opacity-100 transition-opacity">
+                        <span className="text-[#0025CC] text-[15px] font-bold shrink-0 opacity-0 group-hover:opacity-100 transition-opacity">
                           &rarr;
                         </span>
                       </Link>
@@ -117,21 +117,21 @@ export default function NhlTrackerHub() {
             <Link
               prefetch={false}
               href={`/stories/${TRACKER_SLUG}`}
-              className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+              className="text-[13px] font-bold text-[#0025CC] hover:underline"
             >
               The full daily uniform tracker &rarr;
             </Link>
             <Link
               prefetch={false}
               href="/stories/nhl-uniform-schedule-2026-27"
-              className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+              className="text-[13px] font-bold text-[#0025CC] hover:underline"
             >
               2026-27 NHL uniform schedule guide &rarr;
             </Link>
             <Link
               prefetch={false}
               href="/stories/new-nhl-jerseys-2026-27"
-              className="text-[13px] font-bold text-[#2f6bed] hover:underline"
+              className="text-[13px] font-bold text-[#0025CC] hover:underline"
             >
               New NHL jerseys for 2026-27 &rarr;
             </Link>

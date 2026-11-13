@@ -64,7 +64,7 @@ export default function InlineNewsletter({
     >
       <div className="max-w-[520px] mx-auto text-center">
         <p
-          className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#2f6bed] mb-2"
+          className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#0025CC] mb-2"
           style={{ fontFamily: "var(--font-sans)" }}
         >
           {eyebrow}
@@ -79,7 +79,7 @@ export default function InlineNewsletter({
           {body}
         </p>
         {status === "success" ? (
-          <p className="text-base font-semibold text-[#2f6bed] py-3">
+          <p className="text-base font-semibold text-[#0025CC] py-3">
             Thanks for subscribing — check your inbox to confirm.
           </p>
         ) : (
@@ -96,13 +96,13 @@ export default function InlineNewsletter({
                 setEmail(e.target.value);
                 if (status === "error") setStatus("idle");
               }}
-              className="flex-1 rounded-lg border border-black/10 bg-white px-4 py-3 text-[15px] text-black placeholder-black/40 outline-none focus:border-[#2f6bed] focus:ring-1 focus:ring-[#2f6bed] transition-colors"
+              className="flex-1 rounded-lg border border-black/10 bg-white px-4 py-3 text-[15px] text-black placeholder-black/40 outline-none focus:border-[#0025CC] focus:ring-1 focus:ring-[#0025CC] transition-colors"
             />
             <button
               type="submit"
               disabled={status === "loading"}
               className="rounded-lg px-6 py-3 font-bold text-white transition-opacity disabled:opacity-50 whitespace-nowrap"
-              style={{ backgroundColor: "#2f6bed" }}
+              style={{ backgroundColor: "#0025CC" }}
             >
               {status === "loading" ? "Subscribing…" : "Subscribe"}
             </button>

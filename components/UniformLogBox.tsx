@@ -11,11 +11,11 @@ export default function UniformLogBox({ data }: { data: UniformLogData }) {
       className="mb-8 rounded-2xl border border-black/10 overflow-hidden"
       style={{ fontFamily: "var(--font-sans)" }}
     >
-      <div className="px-5 py-2.5" style={{ background: "#013369" }}>
+      <div className="px-5 py-2.5" style={{ background: "#0b0b0f" }}>
         <p className="text-[10px] font-extrabold uppercase tracking-[0.16em] text-white">From The ColorWay Uniform Log</p>
       </div>
       <div className="px-5 sm:px-7 py-6 bg-white">
-        <h2 className="text-xl sm:text-2xl font-extrabold text-[#0B1F4A] leading-tight">{data.heading}</h2>
+        <h2 className="text-xl sm:text-2xl font-extrabold text-[#0b0b0f] leading-tight">{data.heading}</h2>
         {data.note && <p className="mt-1 text-[14px] text-[#5b6270]">{data.note}</p>}
         <div
           className="mt-5 grid gap-2"
@@ -23,8 +23,8 @@ export default function UniformLogBox({ data }: { data: UniformLogData }) {
         >
           {data.tiles.map((t) => (
             <div key={t.label} className="min-w-0 rounded-lg px-3 py-3 bg-[#f3f6ff] border border-[#d6dcf5]">
-              <div className="text-[30px] font-extrabold leading-none text-[#0B1F4A]">{t.count}</div>
-              <div className="mt-2 text-[13px] font-semibold leading-snug break-words text-[#0B1F4A]">{t.label}</div>
+              <div className="text-[30px] font-extrabold leading-none text-[#0b0b0f]">{t.count}</div>
+              <div className="mt-2 text-[13px] font-semibold leading-snug break-words text-[#0b0b0f]">{t.label}</div>
             </div>
           ))}
         </div>

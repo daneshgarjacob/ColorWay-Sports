@@ -77,7 +77,7 @@ export default async function WorldSeriesLogoGraderPage({ searchParams }: { sear
       <Header />
       <main style={{ padding: "48px 0 72px", background: "#fff" }}>
         <div style={{ maxWidth: 760, margin: "0 auto 34px", padding: "0 20px" }}>
-          <p style={{ margin: 0, fontSize: 12, fontWeight: 800, letterSpacing: "0.14em", textTransform: "uppercase", color: "#2f6bed" }}>
+          <p style={{ margin: 0, fontSize: 12, fontWeight: 800, letterSpacing: "0.14em", textTransform: "uppercase", color: "#0025CC" }}>
             Interactive · MLB
           </p>
           <h1 style={{ margin: "10px 0 0", fontSize: "clamp(30px, 5vw, 46px)", fontWeight: 900, letterSpacing: "-0.03em", color: "#0a0a0a", lineHeight: 1.05 }}>
@@ -88,7 +88,7 @@ export default async function WorldSeriesLogoGraderPage({ searchParams }: { sear
           </p>
           <p style={{ margin: "14px 0 0", fontSize: 15, lineHeight: 1.6, color: "#666" }}>
             Want our full breakdown first? Read{" "}
-            <a href="/stories/world-series-logo-history-1986-2025" style={{ color: "#2f6bed", fontWeight: 700 }}>
+            <a href="/stories/world-series-logo-history-1986-2025" style={{ color: "#0025CC", fontWeight: 700 }}>
               our era-by-era World Series logo ranking
             </a>
             , where we grade all eight design eras from the green diamond years to the Capital One era.

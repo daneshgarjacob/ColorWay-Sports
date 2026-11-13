@@ -198,7 +198,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const nbaNext = post.league === "nba" && slug.endsWith("-uniform-schedule-2026-27") ? getNbaTeamNext(slug, now) : null;
   // The jersey's colors, read from the post's own Uniform Closet cards (Lakers Icon = gold).
   const nbaSwatch = (j: string) => {
-    if (j === "Association") return { bg: "#ffffff", fg: "#14284b" };
+    if (j === "Association") return { bg: "#ffffff", fg: "#0b0b0f" };
     const html = post.contentHtml.slice(Math.max(0, post.contentHtml.indexOf("Uniform Closet for")));
     const m = html.match(new RegExp(`<div style="background: (#[0-9A-Fa-f]{3,6}); color: (#[0-9A-Fa-f]{3,6});[^"]*"><div[^>]*>${nbaFull(j)}</div>`));
     return m ? { bg: m[1], fg: m[2] } : undefined;

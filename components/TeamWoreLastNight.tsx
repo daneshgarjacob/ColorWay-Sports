@@ -20,7 +20,7 @@ import WearQuickAnswers from "@/components/WearQuickAnswers";
  */
 export default function TeamWoreLastNight({
   data,
-  accent = "#2f6bed",
+  accent = "#0025CC",
   answers = [],
 }: {
   data: TeamLatest;
@@ -56,7 +56,7 @@ export default function TeamWoreLastNight({
         </div>
 
         <div className="px-5 sm:px-7 py-6 bg-white">
-          <h2 className="text-xl sm:text-2xl font-extrabold text-[#0B1F4A] leading-tight mb-4">
+          <h2 className="text-xl sm:text-2xl font-extrabold text-[#0b0b0f] leading-tight mb-4">
             {q.lastNight}
           </h2>
 
@@ -72,7 +72,7 @@ export default function TeamWoreLastNight({
               <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#8A8F98]">
                 {latestIsToday ? "Tonight · " : ""}{latest.month} {latest.date} · {latest.opp}
               </p>
-              <p className="mt-1 text-lg sm:text-xl font-extrabold text-[#0B1F4A] leading-snug">
+              <p className="mt-1 text-lg sm:text-xl font-extrabold text-[#0b0b0f] leading-snug">
                 {latest.uniform ? (
                   <>
                     The {team} {latestIsToday ? "are wearing" : "wore"} the{" "}
@@ -87,7 +87,7 @@ export default function TeamWoreLastNight({
                 every game, every morning.
               </p>
               <p className="mt-2 text-[13px] text-black/70 leading-relaxed">
-                <strong className="text-[#0B1F4A]">{q.were}</strong>{" "}
+                <strong className="text-[#0b0b0f]">{q.were}</strong>{" "}
                 {latest.uniform
                   ? `The ${latest.uniform}, ${where} ${versus} ${when}.`
                   : `They ${latestIsToday ? "are playing" : "played"} ${versus} ${when}.`}
@@ -99,7 +99,7 @@ export default function TeamWoreLastNight({
 
           <div className="mt-5 pt-4 border-t border-black/10">
             <p className="text-[13px] text-black/70 leading-relaxed">
-              <strong className="text-[#0B1F4A]">{q.tonight}</strong> The rotation below maps
+              <strong className="text-[#0b0b0f]">{q.tonight}</strong> The rotation below maps
               every jersey the {team} run and when, so you can call{" "}
               {latestIsToday ? "tomorrow" : "tonight"}&rsquo;s look before first pitch.
             </p>

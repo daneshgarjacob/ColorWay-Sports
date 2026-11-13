@@ -239,7 +239,7 @@ export function buildWinterIndex(): WinterTeamEntry[] {
     const { data } = matter(fs.readFileSync(path.join(postsDirectory, file), "utf8"));
     const hex = /#([0-9a-fA-F]{6})/.exec(String(data.gradient ?? ""));
     for (const t of (data.teams as string[]) ?? []) {
-      posts.set(t, { slug: file.replace(/\.md$/, ""), color: hex ? `#${hex[1]}` : "#14284b" });
+      posts.set(t, { slug: file.replace(/\.md$/, ""), color: hex ? `#${hex[1]}` : "#0b0b0f" });
     }
   }
 

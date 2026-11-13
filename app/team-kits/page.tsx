@@ -131,7 +131,7 @@ export default async function TeamKitsPage({
       <Header />
       <main style={{ fontFamily: "var(--font-sans)" }}>
         {/* Hero */}
-        <section className="bg-[#0d1322] text-white relative overflow-hidden">
+        <section className="bg-[#0b0b0f] text-white relative overflow-hidden">
           <div
             aria-hidden
             className="absolute inset-0 opacity-[0.07]"
@@ -153,7 +153,7 @@ export default async function TeamKitsPage({
                 soccer, softball, baseball, basketball, flag football and more.
               </p>
               <div className="flex flex-wrap gap-3 mt-8">
-                <a href="#reserve" className="bg-[#2f6bed] hover:bg-[#2458c9] text-white font-bold px-6 py-3.5 rounded-lg transition-colors">
+                <a href="#reserve" className="bg-[#0025CC] hover:bg-[#001FA6] text-white font-bold px-6 py-3.5 rounded-lg transition-colors">
                   Reserve a spot, free
                 </a>
                 <a href="#how" className="border border-white/30 hover:border-white/60 text-white font-bold px-6 py-3.5 rounded-lg transition-colors">
@@ -200,7 +200,7 @@ export default async function TeamKitsPage({
           <div className={`${wrap} grid grid-cols-2 md:grid-cols-4`}>
             {PROMISES.map((p, i) => (
               <div key={p} className={`py-5 text-center text-[14px] font-bold ${i > 0 ? "md:border-l border-black/10" : ""}`}>
-                <span className="text-[#2f6bed] mr-1.5">✓</span>{p}
+                <span className="text-[#0025CC] mr-1.5">✓</span>{p}
               </div>
             ))}
           </div>
@@ -209,14 +209,14 @@ export default async function TeamKitsPage({
         {/* Craft */}
         <section className="bg-[#f5f7fb]">
           <div className={`${wrap} py-16`}>
-            <p className={`${eyebrow} text-[#2f6bed] mb-3`}>How we design</p>
+            <p className={`${eyebrow} text-[#0025CC] mb-3`}>How we design</p>
             <h2 className="text-[30px] sm:text-[36px] font-extrabold tracking-[-0.02em] max-w-[680px] leading-tight">
               The same principles behind the best uniforms in sport, applied to yours.
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-10">
               {CRAFT.map((c, i) => (
                 <div key={c.title} className="bg-white rounded-xl p-6 border border-black/[0.06]">
-                  <p className="text-[12px] font-extrabold text-[#2f6bed] tracking-[0.15em]">0{i + 1}</p>
+                  <p className="text-[12px] font-extrabold text-[#0025CC] tracking-[0.15em]">0{i + 1}</p>
                   <p className="font-extrabold text-[17px] mt-3 mb-1.5">{c.title}</p>
                   <p className="text-[14px] text-black/60 leading-relaxed">{c.body}</p>
                 </div>
@@ -228,7 +228,7 @@ export default async function TeamKitsPage({
         {KITS.length > 0 && (
           <section className="bg-white">
             <div className={`${wrap} py-16`}>
-              <p className={`${eyebrow} text-[#2f6bed] mb-3`}>Lookbook</p>
+              <p className={`${eyebrow} text-[#0025CC] mb-3`}>Lookbook</p>
               <h2 className="text-[30px] sm:text-[36px] font-extrabold tracking-[-0.02em] mb-8">Sample kits</h2>
               <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
                 {KITS.map((k) => (
@@ -247,7 +247,7 @@ export default async function TeamKitsPage({
         {/* Comparison */}
         <section className="bg-white">
           <div className={`${wrap} py-16`}>
-            <p className={`${eyebrow} text-[#2f6bed] mb-3`}>The difference</p>
+            <p className={`${eyebrow} text-[#0025CC] mb-3`}>The difference</p>
             <h2 className="text-[30px] sm:text-[36px] font-extrabold tracking-[-0.02em] max-w-[640px] leading-tight">
               Every uniform company says &quot;free design.&quot; You still end up in a template.
             </h2>
@@ -255,7 +255,7 @@ export default async function TeamKitsPage({
               <div className="grid grid-cols-[1fr_1fr_1fr] bg-[#f5f7fb] font-bold text-[12px] uppercase tracking-[0.1em] text-black/55">
                 <div className="px-4 sm:px-6 py-3.5" />
                 <div className="px-4 sm:px-6 py-3.5">Typical custom shop</div>
-                <div className="px-4 sm:px-6 py-3.5 text-[#2f6bed]">ColorWay Team Kits</div>
+                <div className="px-4 sm:px-6 py-3.5 text-[#0025CC]">ColorWay Team Kits</div>
               </div>
               {COMPARE.map(([k, them, us]) => (
                 <div key={k} className="grid grid-cols-[1fr_1fr_1fr] border-t border-black/10">
@@ -271,7 +271,7 @@ export default async function TeamKitsPage({
         {/* How it works */}
         <section id="how" className="bg-[#f5f7fb] scroll-mt-20">
           <div className={`${wrap} py-16`}>
-            <p className={`${eyebrow} text-[#2f6bed] mb-3`}>How it works</p>
+            <p className={`${eyebrow} text-[#0025CC] mb-3`}>How it works</p>
             <h2 className="text-[30px] sm:text-[36px] font-extrabold tracking-[-0.02em]">From first message to kits in hand in about 6 weeks.</h2>
             <ol className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 mt-10">
               {STEPS.map((s, i) => (
@@ -289,7 +289,7 @@ export default async function TeamKitsPage({
         <section className="bg-white">
           <div className={`${wrap} py-16 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center`}>
             <div>
-              <p className={`${eyebrow} text-[#2f6bed] mb-3`}>Pricing</p>
+              <p className={`${eyebrow} text-[#0025CC] mb-3`}>Pricing</p>
               <h2 className="text-[30px] sm:text-[36px] font-extrabold tracking-[-0.02em] leading-tight">One number per player. No surprises at checkout.</h2>
               <p className="text-black/60 mt-4 leading-relaxed max-w-[480px]">
                 Your exact price comes with your first design, before you pay
@@ -305,7 +305,7 @@ export default async function TeamKitsPage({
               </p>
               <ul className="mt-6 space-y-2.5 text-[15px]">
                 {["Custom design, two rounds of changes", "Sublimated jersey for any sport", "Player name and number included", "Size check for every player", "Single-jersey reorders any time"].map((x) => (
-                  <li key={x} className="flex gap-2.5"><span className="text-[#2f6bed] font-bold">✓</span>{x}</li>
+                  <li key={x} className="flex gap-2.5"><span className="text-[#0025CC] font-bold">✓</span>{x}</li>
                 ))}
               </ul>
               <a href="#reserve" className="block text-center mt-7 bg-[#101522] hover:bg-black text-white font-bold py-3.5 rounded-lg transition-colors">
@@ -316,7 +316,7 @@ export default async function TeamKitsPage({
         </section>
 
         {/* Reserve */}
-        <section id="reserve" className="bg-[#0d1322] text-white scroll-mt-20">
+        <section id="reserve" className="bg-[#0b0b0f] text-white scroll-mt-20">
           <div className={`${wrap} py-16 sm:py-20 grid grid-cols-1 md:grid-cols-[1fr_1.05fr] gap-12`}>
             <div>
               <p className={`${eyebrow} text-[#8fb0ff] mb-3`}>Founding teams · Winter and spring 2027</p>
@@ -393,7 +393,7 @@ export default async function TeamKitsPage({
                   <label className={label} htmlFor="tk-notes">Anything we should know</label>
                   <textarea id="tk-notes" name="notes" rows={3} placeholder="Colors, a logo you already have, a vibe" className={`${field} resize-none`} />
                 </div>
-                <button type="submit" className="mt-1 bg-[#2f6bed] hover:bg-[#2458c9] text-white font-bold py-3.5 rounded-lg transition-colors">
+                <button type="submit" className="mt-1 bg-[#0025CC] hover:bg-[#001FA6] text-white font-bold py-3.5 rounded-lg transition-colors">
                   Reserve our spot
                 </button>
                 <p className="text-[12px] text-white/45 text-center">No payment. No obligation. We&apos;ll email you within two days.</p>
@@ -405,7 +405,7 @@ export default async function TeamKitsPage({
         {/* FAQ */}
         <section className="bg-white">
           <div className={`${wrap} py-16 max-w-[820px]`}>
-            <p className={`${eyebrow} text-[#2f6bed] mb-3`}>Questions</p>
+            <p className={`${eyebrow} text-[#0025CC] mb-3`}>Questions</p>
             <h2 className="text-[30px] sm:text-[36px] font-extrabold tracking-[-0.02em] mb-6">Before you reserve</h2>
             <div className="border-t border-black/10">
               {FAQ.map((f) => (

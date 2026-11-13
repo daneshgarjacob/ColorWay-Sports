@@ -41,7 +41,7 @@ export default function FollowCard() {
       style={{ fontFamily: "var(--font-display)" }}
     >
       <div className="min-w-0 flex-1">
-        <p className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#2f6bed] mb-1.5">Follow ColorWay Sports</p>
+        <p className="text-[10px] uppercase tracking-[0.22em] font-bold text-[#0025CC] mb-1.5">Follow ColorWay Sports</p>
         <p className="text-[18px] font-extrabold text-black leading-snug tracking-tight">
           Every jersey reveal and uniform schedule update, first.
         </p>
@@ -51,7 +51,7 @@ export default function FollowCard() {
           href="https://www.instagram.com/colorwaysports/"
           target="_blank"
           rel="noopener"
-          className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#2f6bed] px-4 py-2.5 text-[14px] font-bold text-white hover:bg-[#2459c9] transition-colors whitespace-nowrap"
+          className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#0025CC] px-4 py-2.5 text-[14px] font-bold text-white hover:bg-[#2459c9] transition-colors whitespace-nowrap"
         >
           <InstagramIcon />
           Follow on Instagram
@@ -60,7 +60,7 @@ export default function FollowCard() {
           href="https://www.tiktok.com/@colorway.sports"
           target="_blank"
           rel="noopener"
-          className="inline-flex items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-4 py-2.5 text-[14px] font-bold text-black hover:border-[#2f6bed] hover:text-[#2f6bed] transition-colors whitespace-nowrap"
+          className="inline-flex items-center justify-center gap-2 rounded-lg border border-black/10 bg-white px-4 py-2.5 text-[14px] font-bold text-black hover:border-[#0025CC] hover:text-[#0025CC] transition-colors whitespace-nowrap"
         >
           <TikTokIcon />
           Follow on TikTok

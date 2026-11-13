@@ -46,7 +46,7 @@ export function buildAlternatesWatch(contentHtml: string): AlternatesDay | null 
   const altCount = labels.length - standardCount - specialCount;
   const categories = [
     { label: "Standard White & Gray", count: standardCount, color: "#64748b" },
-    { label: "Color Alternates", count: altCount, color: "#2f6bed" },
+    { label: "Color Alternates", count: altCount, color: "#0025CC" },
     { label: "City Connect & Throwback", count: specialCount, color: "#f59e0b" },
   ];
 

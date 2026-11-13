@@ -13,9 +13,9 @@ import { uniformTrim } from "@/lib/nflTeamColors";
  */
 
 const STATUS: Record<SlateSide["look"]["state"], { text: string; cls: string }> = {
-  worn: { text: "Worn", cls: "bg-[#0B1F4A] text-white" },
-  confirmed: { text: "Confirmed", cls: "bg-[#2f6bed] text-white" },
-  jersey: { text: "Jersey confirmed", cls: "bg-[#E6EEFD] text-[#2f6bed]" },
+  worn: { text: "Worn", cls: "bg-[#0b0b0f] text-white" },
+  confirmed: { text: "Confirmed", cls: "bg-[#0025CC] text-white" },
+  jersey: { text: "Jersey confirmed", cls: "bg-[#E6EEFD] text-[#0025CC]" },
   tba: { text: "TBA", cls: "bg-[#EEF0F4] text-[#7C8696]" },
 };
 
@@ -59,11 +59,11 @@ function Caption({ side, align }: { side: SlateSide; align: "left" | "right" }) 
       <Link
         prefetch={false}
         href={`/stories/${team.scheduleSlug}`}
-        className="text-[15px] font-extrabold leading-tight text-[#2f6bed] hover:underline sm:text-[16px]"
+        className="text-[15px] font-extrabold leading-tight text-[#0025CC] hover:underline sm:text-[16px]"
       >
         {team.nickname}
       </Link>
-      <p className="mt-0.5 text-[12.5px] font-semibold leading-snug text-[#0B1F4A]">
+      <p className="mt-0.5 text-[12.5px] font-semibold leading-snug text-[#0b0b0f]">
         {known ? uniform : <>Expected: {uniform}</>}
       </p>
       {full && combo && (
@@ -101,14 +101,14 @@ function GameCard({ g }: { g: SlateGame }) {
         ) : (
           <UniformFigure uid={`${g.awayName}-away`} colors={{}} label={`${g.awayName}: uniform not announced yet`} className={FIGURE} />
         )}
-        <span className="shrink-0 text-[11px] font-extrabold tracking-[0.16em] text-[#0B1F4A]/40">AT</span>
+        <span className="shrink-0 text-[11px] font-extrabold tracking-[0.16em] text-[#0b0b0f]/40">AT</span>
         <Figure side={g.home} facing="left" />
       </div>
       <div className="flex items-start gap-3 px-4 pt-3">
         {g.away ? (
           <Caption side={g.away} align="left" />
         ) : (
-          <div className="min-w-0 flex-1 text-[15px] font-extrabold text-[#0B1F4A]">{g.awayName}</div>
+          <div className="min-w-0 flex-1 text-[15px] font-extrabold text-[#0b0b0f]">{g.awayName}</div>
         )}
         <Caption side={g.home} align="right" />
       </div>
@@ -123,7 +123,7 @@ export default function NflWeekBoard({ slate, answers }: { slate: NflWeekSlate; 
   return (
     <section aria-label={`NFL Week ${slate.week} uniforms`} className="mx-auto max-w-[1120px] px-5 pt-8">
       <div className="overflow-hidden rounded-2xl border border-black/10">
-        <div className="flex flex-wrap items-center justify-between gap-2 bg-[#0B1F4A] px-5 py-2.5">
+        <div className="flex flex-wrap items-center justify-between gap-2 bg-[#0b0b0f] px-5 py-2.5">
           <span className="text-[10px] font-extrabold uppercase tracking-[0.16em] text-white">
             Updated every week · {slate.confirmedSides} of {slate.totalSides} uniforms confirmed
           </span>
@@ -131,7 +131,7 @@ export default function NflWeekBoard({ slate, answers }: { slate: NflWeekSlate; 
         </div>
 
         <div className="bg-white px-3 py-6 sm:px-6">
-          <h2 className="font-display text-xl font-extrabold leading-tight text-[#0B1F4A] sm:text-2xl">
+          <h2 className="font-display text-xl font-extrabold leading-tight text-[#0b0b0f] sm:text-2xl">
             NFL Week {slate.week} Uniforms: What Every Team Is Wearing
           </h2>
           <p className="mb-5 mt-1 max-w-[720px] text-[13px] leading-relaxed text-black/60">
@@ -149,7 +149,7 @@ export default function NflWeekBoard({ slate, answers }: { slate: NflWeekSlate; 
 
           {slate.byes.length > 0 && (
             <p className="mt-4 text-[12px] text-black/60">
-              <strong className="text-[#0B1F4A]">On a bye:</strong> {slate.byes.map((t) => t.nickname).join(", ")}
+              <strong className="text-[#0b0b0f]">On a bye:</strong> {slate.byes.map((t) => t.nickname).join(", ")}
             </p>
           )}
 
@@ -160,7 +160,7 @@ export default function NflWeekBoard({ slate, answers }: { slate: NflWeekSlate; 
           <Link
             prefetch={false}
             href="/stories/nfl-uniform-tracker-2026"
-            className="mt-4 inline-block text-[11px] font-extrabold uppercase tracking-[0.14em] text-[#2f6bed]"
+            className="mt-4 inline-block text-[11px] font-extrabold uppercase tracking-[0.14em] text-[#0025CC]"
           >
             What they actually wore: the NFL uniform tracker →
           </Link>

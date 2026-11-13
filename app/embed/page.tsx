@@ -42,13 +42,13 @@ export default function EmbedPage() {
       <Header />
       <main className="max-w-[1200px] mx-auto px-5 pt-12 pb-20" style={{ fontFamily: "var(--font-hanken), system-ui, sans-serif" }}>
         <section className="max-w-[720px]">
-          <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-[#2f6bed] mb-3">Free widget · NFL now, more leagues soon</p>
-          <h1 className="text-[34px] sm:text-[44px] font-extrabold leading-[1.05] tracking-[-0.02em] text-[#0B1F4A]">
+          <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-[#0025CC] mb-3">Free widget · NFL now, more leagues soon</p>
+          <h1 className="text-[34px] sm:text-[44px] font-extrabold leading-[1.05] tracking-[-0.02em] text-[#0b0b0f]">
             What is your team wearing this week?
           </h1>
           <p className="mt-4 text-[17px] leading-relaxed text-[#46536A]">
             Put the answer on your blog, fan site or forum: helmet, jersey and pants for the next game, and whether the team
-            has confirmed it. <strong className="text-[#0B1F4A]">Free for any site. Updates every week.</strong>
+            has confirmed it. <strong className="text-[#0b0b0f]">Free for any site. Updates every week.</strong>
           </p>
         </section>
 
@@ -71,7 +71,7 @@ export default function EmbedPage() {
         </section>
 
         <section className="mt-16">
-          <h2 className="text-[22px] font-extrabold tracking-[-0.01em] text-[#0B1F4A] mb-1">Get the code</h2>
+          <h2 className="text-[22px] font-extrabold tracking-[-0.01em] text-[#0b0b0f] mb-1">Get the code</h2>
           <p className="text-[14px] text-[#5F6B7D] mb-6">Pick your team and a theme, then paste the snippet anywhere that accepts HTML.</p>
           <EmbedGenerator teams={teams} />
         </section>
@@ -92,7 +92,7 @@ export default function EmbedPage() {
             },
           ].map((f) => (
             <div key={f.h}>
-              <h3 className="text-[15px] font-extrabold text-[#0B1F4A] mb-1.5">{f.h}</h3>
+              <h3 className="text-[15px] font-extrabold text-[#0b0b0f] mb-1.5">{f.h}</h3>
               <p className="text-[14px] leading-relaxed text-[#5F6B7D]">{f.p}</p>
             </div>
           ))}

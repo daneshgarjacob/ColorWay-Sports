@@ -49,7 +49,7 @@ export default function TeamWearBox({
         </div>
 
         <div className="px-5 sm:px-7 py-6 bg-white">
-          <h2 className="text-xl sm:text-2xl font-extrabold text-[#0B1F4A] leading-tight mb-4 capitalize">{title}</h2>
+          <h2 className="text-xl sm:text-2xl font-extrabold text-[#0b0b0f] leading-tight mb-4 capitalize">{title}</h2>
 
           {headline && (
             <div className={`mb-5 ${headline.img ? "flex items-center gap-5" : ""}`}>
@@ -99,7 +99,7 @@ export default function TeamWearBox({
               )}
               <div className="min-w-0">
                 <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#8A8F98]">{lastGame.eyebrow}</p>
-                <p className="mt-1 text-base sm:text-lg font-extrabold text-[#0B1F4A] leading-snug">
+                <p className="mt-1 text-base sm:text-lg font-extrabold text-[#0b0b0f] leading-snug">
                   {lastGame.sentence}
                 </p>
                 {lastGame.detail && (

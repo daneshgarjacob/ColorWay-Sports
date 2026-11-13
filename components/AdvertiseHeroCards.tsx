@@ -24,7 +24,7 @@ export default function AdvertiseHeroCards() {
         @media (prefers-reduced-motion: reduce) { .cw-glow, .cw-spin, .cw-spin-rev, .cw-inner, .cw-flag, .cw-word { animation: none } .cw-word { opacity: 1 } }
       `}</style>
       <div className="relative w-[320px] h-[320px]">
-        <div className="cw-glow absolute inset-6 rounded-full" style={{ background: "radial-gradient(circle, rgba(47,107,237,.55) 0%, rgba(47,107,237,0) 70%)" }} />
+        <div className="cw-glow absolute inset-6 rounded-full" style={{ background: "radial-gradient(circle, rgba(0,37,204,.55) 0%, rgba(0,37,204,0) 70%)" }} />
         {/* Same Outline Stamp geometry as the site header (components/Header.tsx), plus two decorative orbit rings */}
         <svg viewBox="0 0 100 100" className="relative w-full h-full">
           <g className="cw-spin-rev">

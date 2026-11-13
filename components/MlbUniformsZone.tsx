@@ -183,7 +183,7 @@ export default async function MlbUniformsZone() {
             </span>
             <span className="flex items-center gap-1.5">
               <img src="/logos/mlb.png" alt="MLB" className="h-[18px] w-auto object-contain" />
-              <h2 className="text-[13px] font-bold text-[#0B1F4A] uppercase tracking-widest">
+              <h2 className="text-[13px] font-bold text-[#0b0b0f] uppercase tracking-widest">
                 {postseason ? "MLB Postseason" : "MLB Uniforms"}
                 {tonight ? ` · ${tonight.day}` : ""}
               </h2>
@@ -214,7 +214,7 @@ export default async function MlbUniformsZone() {
             </div>
             <div className="grid grid-cols-3 gap-3">
               {[
-                { k: "Games tonight", v: `${tonight.games}`, c: "#2f6bed" },
+                { k: "Games tonight", v: `${tonight.games}`, c: "#0025CC" },
                 {
                   k: "Games confirmed",
                   v: `${tonight.confirmedGames} of ${tonight.games}`,
@@ -227,7 +227,7 @@ export default async function MlbUniformsZone() {
                   className="rounded-lg bg-[#F7F8FA] px-3 py-2.5"
                   style={{ borderTop: `3px solid ${s.c}` }}
                 >
-                  <div className="text-[22px] font-black leading-none text-[#0B1F4A] tabular-nums">
+                  <div className="text-[22px] font-black leading-none text-[#0b0b0f] tabular-nums">
                     {s.v}
                   </div>
                   <div className="mt-1 text-[10px] font-bold uppercase tracking-[0.1em] text-[#5f7085]">
@@ -306,12 +306,12 @@ export default async function MlbUniformsZone() {
                     {c.logo && (
                       <img src={c.logo} alt="" className="h-[20px] w-[20px] object-contain flex-shrink-0" />
                     )}
-                    <span className="text-[12px] font-extrabold text-[#0B1F4A] truncate group-hover:text-orange transition-colors">
+                    <span className="text-[12px] font-extrabold text-[#0b0b0f] truncate group-hover:text-orange transition-colors">
                       {c.team}
                     </span>
                   </span>
                   <span className="mt-1 text-[11px] text-[#5f7085] truncate">{c.opponent}</span>
-                  <span className="mt-0.5 text-[10.5px] font-bold uppercase tracking-[0.06em] leading-snug text-[#0B1F4A]">
+                  <span className="mt-0.5 text-[10.5px] font-bold uppercase tracking-[0.06em] leading-snug text-[#0b0b0f]">
                     {c.label}
                   </span>
                 </Link>
@@ -326,7 +326,7 @@ export default async function MlbUniformsZone() {
             <div className="flex items-center justify-between mb-4 pb-3 border-b border-border">
               <span className="flex items-center gap-1.5">
                 <img src="/logos/mlb.png" alt="MLB" className="h-[16px] w-auto object-contain" />
-                <span className="text-[12px] font-bold text-[#0B1F4A] uppercase tracking-[0.12em]">
+                <span className="text-[12px] font-bold text-[#0b0b0f] uppercase tracking-[0.12em]">
                   MLB Jersey Stats of the Day
                 </span>
               </span>
@@ -344,7 +344,7 @@ export default async function MlbUniformsZone() {
                   <span className="text-[10px] font-bold uppercase tracking-[0.16em] text-[#8A8F98]">
                     {data.isLastNight ? <>Last Night&rsquo;s Mix</> : <>The Mix</>}
                   </span>
-                  <span className="text-[11px] font-bold text-[#0B1F4A] tabular-nums">
+                  <span className="text-[11px] font-bold text-[#0b0b0f] tabular-nums">
                     {recapGames} · {data.totalUniforms - (data.categories[0]?.count ?? 0)} of{" "}
                     {data.totalUniforms} jerseys in color
                   </span>
@@ -355,8 +355,8 @@ export default async function MlbUniformsZone() {
                     return (
                       <div key={c.label}>
                         <div className="flex items-baseline justify-between mb-1 gap-2">
-                          <span className="text-[12px] font-bold text-[#0B1F4A]">{c.label}</span>
-                          <span className="text-[12px] font-bold text-[#0B1F4A] tabular-nums">
+                          <span className="text-[12px] font-bold text-[#0b0b0f]">{c.label}</span>
+                          <span className="text-[12px] font-bold text-[#0b0b0f] tabular-nums">
                             {c.count}/{data.totalUniforms}
                             <span className="ml-1 text-[10px] text-[#8A8F98] font-normal">({pct}%)</span>
                           </span>
