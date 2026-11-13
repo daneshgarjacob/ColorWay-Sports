@@ -22,7 +22,7 @@ USC opened in Week 0, which put the Trojans on the field before almost everybody
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: #990000; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Cardinal Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Cardinal jersey with gold numerals, gold pants, cardinal helmet.</div></div>
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with cardinal numerals, gold pants, same helmet.</div></div>
-  <div style="background: #FFC72C; color: #111111; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Cardinal shell with the interlocking SC on the side and a gold stripe.</div></div>
+  <div style="background: #FFC72C; color: #111111; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmet</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Cardinal shell with the gold Trojan helmet logo on the side and a gold stripe.</div></div>
   <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Alternates</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">None announced for 2026. USC has resisted them about as firmly as anyone.</div></div>
 </div>
 
@@ -87,7 +87,7 @@ USC has a bye on Saturday, November 7. Its next game is November 14 at Indiana, 
 
 **What are USC's uniforms for 2026?**
 
-Cardinal jersey with gold numerals, gold pants, cardinal helmet. White jersey with cardinal numerals, gold pants, same helmet. Cardinal shell with the interlocking SC on the side and a gold stripe.
+Cardinal jersey with gold numerals, gold pants, cardinal helmet. White jersey with cardinal numerals, gold pants, same helmet. Cardinal shell with the gold Trojan helmet logo on the side and a gold stripe.
 
 **Does USC have an alternate uniform in 2026?**
 
