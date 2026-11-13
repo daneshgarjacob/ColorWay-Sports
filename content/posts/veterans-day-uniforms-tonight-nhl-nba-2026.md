@@ -1,9 +1,9 @@
 ---
-title: "Veterans Day Uniforms Tonight: Every NHL And NBA Team Honoring The Military On November 11, 2026"
+title: "Veterans Day Uniforms 2026: Every NHL And NBA Team Honoring The Military On November 11, 2026"
 author: "jake-daneshgar"
 category: NHL
 date: "2026-11-11"
-updatedDate: "2026-11-11"
+updatedDate: "2026-11-13"
 excerpt: "Six NHL teams hold Military Appreciation or Remembrance Day games tonight, and two of them do it in their Hometown Remix sweaters. Here is what every team is wearing on Veterans Day, what we could and couldn't confirm, what the NBA is doing, and the NFL Salute to Service games this weekend."
 gradient: "linear-gradient(135deg, #2f3a24 0%, #4b5a32 55%, #b8a77a 130%)"
 coverImage: "/images/jersey-of-the-day/flames-hometown-remix-2026-11-11.jpg"

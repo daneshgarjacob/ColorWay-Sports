@@ -2,7 +2,7 @@
 title: "NY Giants Uniform & Jersey Schedule 2026: Legacy Throwback Dates"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-13"
 excerpt: "NY Giants uniform schedule 2026: Legacy throwbacks twice, Vintage White twice, and blue on the road at Washington and Dallas. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #0B2265 0%, #14224a 55%, #A71930 130%)"
 coverImage: "/images/posts/new-york-giants-uniform-schedule-2026/cover.jpg"
@@ -141,11 +141,11 @@ How does every one of these jerseys stack up? See our [Giants jerseys 2026 ranki
 
 **What jersey are the Giants wearing today?**
 
-Week 9 at Philadelphia, November 8, worn: Vintage White, the navy wordmark helmet, white jersey and white pants. The Eagles wore Kelly Green, and New York won 19-11. We grade the matchup an A. Vintage White comes back in Week 10 against Washington on Thursday, November 12. This answer updates every week. For the rest of the season: Check the week in the grid above. Blue for home games and the trips to Washington and Dallas, white for the other road games, Legacy Blue in Weeks 4 and 13, and Vintage White in Weeks 9 and 10.
+Week 10 against Washington, Thursday, November 12, worn: Vintage White again, the navy wordmark helmet, white jersey and white pants, on a White Out night. The Commanders wore burgundy head to toe and won 24-21. We grade the matchup an A. This answer updates every week. For the rest of the season: Check the week in the grid above. Blue for home games and the trips to Washington and Dallas, white for the other road games, Legacy Blue in Weeks 4 and 13, and Vintage White in Weeks 9 and 10.
 
 **What jerseys are the Giants wearing this week?**
 
-Week 9 at Philadelphia, November 8, worn: Vintage White, the navy wordmark helmet, white jersey and white pants. The Eagles wore Kelly Green, and New York won 19-11. We grade the matchup an A. Vintage White comes back in Week 10 against Washington on Thursday, November 12. For the rest of the season: Check the week in the grid above. Blue for home games and the trips to Washington and Dallas, white for the other road games, Legacy Blue in Weeks 4 and 13, and Vintage White in Weeks 9 and 10.
+Week 10 against Washington, Thursday, November 12, worn: Vintage White again, the navy wordmark helmet, white jersey and white pants, on a White Out night. The Commanders wore burgundy head to toe and won 24-21. We grade the matchup an A. For the rest of the season: Check the week in the grid above. Blue for home games and the trips to Washington and Dallas, white for the other road games, Legacy Blue in Weeks 4 and 13, and Vintage White in Weeks 9 and 10.
 
 **What uniform did the Giants wear last week?**
 

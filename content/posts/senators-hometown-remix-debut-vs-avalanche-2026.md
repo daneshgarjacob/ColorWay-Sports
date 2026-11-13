@@ -1,9 +1,9 @@
 ---
-title: "Senators Hometown Remix Jersey Debuts Thursday Vs. Avalanche: Black And Gold With Parliament Hill Details"
+title: "Senators Hometown Remix Jersey Debut Vs. Avalanche: Black And Gold With Parliament Hill Details"
 category: "NHL"
 date: "2026-11-11"
-updatedDate: "2026-11-11"
-excerpt: "The Ottawa Senators debut their black and gold Hometown Remix jersey on Thursday, Nov. 12 against the Colorado Avalanche: a brushed metallic gold centurion crest, sleeve stripes and numbers drawn from Parliament Hill, and bilingual shoulder logos. What it looks like, what Colorado wears and our grade."
+updatedDate: "2026-11-13"
+excerpt: "The Ottawa Senators debuted their black and gold Hometown Remix jersey on Thursday, Nov. 12 against the Colorado Avalanche: a brushed metallic gold centurion crest, sleeve stripes and numbers drawn from Parliament Hill, and bilingual shoulder logos. What it looks like, what Colorado wears and our grade."
 gradient: "linear-gradient(135deg, #111111 0%, #1c1c1c 55%, #B79257 130%)"
 author: "colorway-sports-staff"
 coverImage: "/images/posts/nhl-daily-tracker/senators-remix.jpg"
@@ -27,6 +27,8 @@ teams: ["ottawa-senators", "colorado-avalanche"]
   <div style="text-align: center;"><img src="/images/posts/nhl-daily-tracker/avalanche-road.jpg" alt="Colorado Avalanche white road jersey with the Avalanche A crest, burgundy shoulders, sleeves and hem, and silver stripes" style="width: 100%; border-radius: 10px;" loading="lazy" decoding="async" /><div style="font-size: 0.8em; font-weight: 700; margin-top: 6px;">Avalanche: road white</div></div>
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Images: NHL (Senators), Fanatics (Avalanche)</p>
+
+**Update, November 13:** The Senators wore the black and gold Hometown Remix for the first time on Thursday night at Canadian Tire Centre, with Colorado in road white, confirmed from the TSN game footage. Ottawa won 4-3 in overtime. It is logged on the [NHL uniform tracker](/stories/nhl-uniform-tracker-2026-27) and the [Senators uniform schedule](/stories/senators-uniform-schedule-2026-27).
 
 ## What the Senators' Hometown Remix Jersey Looks Like
 

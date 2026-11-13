@@ -2,7 +2,7 @@
 title: "Commanders Uniform & Jersey Schedule 2026: Hail Raiser Dates"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-13"
 excerpt: "Commanders uniform schedule 2026: white is the new primary, burgundy nine times, the black Hail Raiser alternate twice. Every Washington jersey, week by week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -94,11 +94,11 @@ How does every one of these jerseys stack up? See our [Commanders jerseys 2026 r
 
 **What jersey are the Commanders wearing today?**
 
-Week 9 against the Rams, November 8, worn: burgundy helmet, burgundy jersey and gold pants. The Rams wore white over royal pants and won 20-13. We grade the matchup a B. This answer updates every week. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
+Week 10 at the Giants, Thursday, November 12, worn: all burgundy, burgundy helmet, burgundy jersey and burgundy pants. The Giants wore Vintage White, and Washington won 24-21. We grade the matchup an A. This answer updates every week. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
 
 **What jerseys are the Commanders wearing this week?**
 
-Week 9 against the Rams, November 8, worn: burgundy helmet, burgundy jersey and gold pants. The Rams wore white over royal pants and won 20-13. We grade the matchup a B. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
+Week 10 at the Giants, Thursday, November 12, worn: all burgundy, burgundy helmet, burgundy jersey and burgundy pants. The Giants wore Vintage White, and Washington won 24-21. We grade the matchup an A. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
 
 **What uniform did the Commanders wear last week?**
 

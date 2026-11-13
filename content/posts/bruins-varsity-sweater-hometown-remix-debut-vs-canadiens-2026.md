@@ -1,9 +1,9 @@
 ---
-title: "Bruins Brown Varsity Sweater Debuts Thursday Vs. Canadiens: First All-Brown Bruins Uniform Since 1924"
+title: "Bruins Brown Varsity Sweater Debut Vs. Canadiens: First All-Brown Bruins Uniform Since 1924"
 category: "NHL"
 date: "2026-11-11"
-updatedDate: "2026-11-11"
-excerpt: "The Bruins debut their brown Hometown Remix Varsity Sweater on Thursday, Nov. 12 against the Canadiens, who wear their white Remix too. It is the first all-brown Bruins uniform since the club's first season in 1924. What both jerseys look like, every date Boston wears it and our grade."
+updatedDate: "2026-11-13"
+excerpt: "The Bruins debuted their brown Hometown Remix Varsity Sweater on Thursday, Nov. 12 against the Canadiens, who wore their white Remix too. It is the first all-brown Bruins uniform since the club's first season in 1924. What both jerseys look like, every date Boston wears it and our grade."
 gradient: "linear-gradient(135deg, #4a2f1c 0%, #2b1a0e 55%, #FFB81C 130%)"
 author: "colorway-sports-staff"
 coverImage: "/images/posts/nhl-daily-tracker/bruins-remix.jpg"
@@ -29,6 +29,8 @@ The Canadiens are in their Hometown Remix too. Montreal wears its **white** Remi
   <div style="text-align: center;"><img src="/images/posts/nhl-daily-tracker/canadiens-remix.jpg" alt="Montreal Canadiens Hometown Remix jersey: white with a red outlined CH crest, red side panels and the Montreal flag symbols on the sleeves" style="width: 100%; border-radius: 10px;" loading="lazy" decoding="async" /><div style="font-size: 0.8em; font-weight: 700; margin-top: 6px;">Canadiens: Hometown Remix (road)</div></div>
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Studio photos via the NHL</p>
+
+**Update, November 13:** It happened. Boston wore the brown Varsity Sweater with gold trim at TD Garden on Thursday night, and Montreal wore its white Hometown Remix with the vintage CHC crest, both confirmed from the game footage. The Canadiens won 5-2. It is logged on the [NHL uniform tracker](/stories/nhl-uniform-tracker-2026-27) and the [Bruins uniform schedule](/stories/bruins-uniform-schedule-2026-27).
 
 ## What the Bruins' Varsity Sweater Looks Like
 

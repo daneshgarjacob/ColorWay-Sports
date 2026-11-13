@@ -2399,6 +2399,63 @@
       },
       "confirmed": true,
       "source": "Pacers TV highlight frames via ESPN (Pacers navy Icon, Wizards white Association; Veterans Day scorebug)"
+    },
+    "2026-11-12 CHA@PHX": {
+      "score": {
+        "away": 96,
+        "home": 101
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Arizona's Family Sports highlight frames via ESPN (Suns purple Icon, Hornets white Association)"
+    },
+    "2026-11-12 DAL@MIN": {
+      "score": {
+        "away": 94,
+        "home": 133
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "FanDuel SN highlight frames via ESPN (Timberwolves blue Icon, Mavericks white Association)"
+    },
+    "2026-11-12 DET@WAS": {
+      "score": {
+        "away": 144,
+        "home": 140
+      },
+      "ot": true,
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "Monumental highlight frames via ESPN (Wizards navy DISTRICT Statement, Pistons white Association)"
+    },
+    "2026-11-12 TOR@PHI": {
+      "score": {
+        "away": 112,
+        "home": 123
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "NBC Sports Philadelphia highlight frames via ESPN (76ers royal Icon, Raptors red Icon)"
     }
   }
 }

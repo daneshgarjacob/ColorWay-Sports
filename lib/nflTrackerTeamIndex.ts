@@ -138,6 +138,17 @@ const COLOR_WORDS: Record<string, string> = {
   teal: "teal", aqua: "teal", brown: "brown", yellow: "gold", maroon: "red", burgundy: "red", color: "",
 };
 
+// [nickname, label pattern, photo file] for specials the color matcher can't name.
+const NAMED_SPECIAL_PHOTOS: [string, RegExp, string][] = [
+  ["ravens", /darkness/, "ravens-black-alternate.jpg"],
+  ["jets", /black on black/, "jets-black-alternate.jpg"],
+  ["panthers", /panther blue/, "panthers-blue-alternate.jpg"],
+  ["broncos", /midnight navy/, "broncos-navy-alternate.jpg"],
+  ["vikings", /winter warrior/, "vikings-white-alternate.jpg"],
+  ["patriots", /pat patriot/, "patriots-red-throwback.jpg"],
+  ["saints", /white alt/, "saints-white-alternate.jpg"],
+];
+
 const JERSEY_DIR = path.join(process.cwd(), "public/images/posts/nfl-tracker-jerseys");
 let jerseyFiles: string[] | null = null;
 
@@ -164,6 +175,14 @@ function jerseyImage(teamName: string, nickname: string, g: NflGame): string | u
   const prefix = `${nickname.toLowerCase()}-`;
   const mine = jerseyFiles.filter((f) => f.startsWith(prefix));
   if (!mine.length) return undefined;
+
+  // Named specials whose label carries no color word ("Darkness Falls") or a
+  // filler word ("Black on Black") never matched a photo, so the club's
+  // "This Week" box showed no jersey (Jake 11/13, Ravens Darkness Falls MNF).
+  // Only verified pairs: a wrong jersey is worse than none.
+  const label = g.uniform.toLowerCase();
+  const alias = NAMED_SPECIAL_PHOTOS.find(([nick, re]) => nick === nickname.toLowerCase() && re.test(label));
+  if (alias && mine.includes(alias[2])) return `/images/posts/nfl-tracker-jerseys/${alias[2]}`;
 
   const jersey = g.uniform.split("·")[0].toLowerCase();
   const words = jersey.match(/[a-z0-9]+/g)?.filter((w) => w !== "jersey" && w !== "set") ?? [];
