@@ -142,9 +142,16 @@ The helmet is the best piece of it. Our matchup grade: **B**. See the [Titans 20
 
 ### New England Patriots at Detroit Lions: Munich
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/patriots-white-road.jpg" alt="New England Patriots white road jersey, expected for the Munich game against Detroit in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Patriots · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-honolulu-blue-home.jpg" alt="Detroit Lions Honolulu blue jersey, expected as the designated home team in Munich in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions · Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/patriots-white-road.jpg" alt="New England Patriots white road jersey, confirmed for the Munich game against Detroit in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Patriots · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-honolulu-blue-home.jpg" alt="Detroit Lions Honolulu blue jersey, expected as the designated home team in Munich in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions · Expected</figcaption></figure></div>
 
-**Sunday, 9:30 a.m. ET, FOX, Allianz Arena, Munich. Expected on both sides.** Detroit is the designated home team, so the game counts as one of its nine home dates. The Lions are expected in **Honolulu blue** and New England in **white** under the silver helmet. Our matchup grade: **B**. See the [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) and the [Patriots 2026 uniform schedule](/stories/patriots-uniform-schedule-2026).
+**Update, November 13:** New England's look is set: the **silver helmet, white jersey and silver pants**, the team's road white with matching silver from top to bottom. The Patriots' own matchup graphic has the white jersey.
+
+<div style="display: flex; justify-content: center; margin: 1em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Patriots/status/2120626368593490043"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Via @Patriots</p>
+
+**Sunday, 9:30 a.m. ET, FOX, Allianz Arena, Munich. Patriots confirmed, Lions expected.** Detroit is the designated home team, so the game counts as one of its nine home dates. The Lions are expected in **Honolulu blue** and New England in **white** under the silver helmet. Our matchup grade: **B**. See the [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) and the [Patriots 2026 uniform schedule](/stories/patriots-uniform-schedule-2026).
 
 ## The Prime-Time Games
 
@@ -194,7 +201,7 @@ All three national windows carry a confirmed alternate, covered above.
 
 ### Sunday, November 15
 
-- **New England Patriots at Detroit Lions** (Munich), 9:30 a.m. ET, FOX. Patriots: silver helmet, white jersey (expected). Lions: Honolulu blue (expected). Matchup grade: B.
+- **New England Patriots at Detroit Lions** (Munich), 9:30 a.m. ET, FOX. Patriots: silver helmet, white jersey, silver pants (confirmed). Lions: Honolulu blue (expected). Matchup grade: B.
 - **Kansas City Chiefs at Atlanta Falcons**, 1:00 p.m. ET, CBS. Chiefs: red helmet, white jersey (expected). Falcons: black helmet, red jersey, black pants (confirmed). Matchup grade: B.
 - **Houston Texans at Cleveland Browns**, 1:00 p.m. ET, FOX. Texans: white (expected). Browns: Alpha Dawg, brown helmet, brown jersey, brown pants (expected). Matchup grade: C.
 - **Minnesota Vikings at Green Bay Packers**, 1:00 p.m. ET, FOX. Vikings: white (expected). Packers: gold helmet, green jersey (expected). Matchup grade: B.

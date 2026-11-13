@@ -3,7 +3,7 @@ title: "TCU Uniform Schedule 2026: The Black Ireland Alternate, the Clover Frog 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-07"
+updatedDate: "2026-11-13"
 excerpt: "What TCU wears every game in 2026, starting with the black Frog Horn alternate and the Clover Frog helmet for the Dublin opener against North Carolina."
 gradient: "linear-gradient(135deg, #4D1979 0%, #111111 60%, #A3A9AC 130%)"
 cardStyle: words
@@ -65,7 +65,7 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple Helmet / Black Jersey</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #4D1979; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple or black</div></div>
-  <div style="background: #4D1979; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
+  <div style="background: #4D1979; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Purple · White Helmet</div></div>
   <div style="background: #4D1979; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">FRI NOV 27</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -94,7 +94,12 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
 
 **November 6 (Friday night) at Arizona**, Casino Del Sol Stadium. Purple or black expected: Arizona wears its all-white Sandstorm look at home, so TCU should be in color. **Final: Arizona 29, TCU 28.** TCU wore purple (checked against the game photos).
 
-**November 14 vs. Kansas State**, Amon G. Carter Stadium. Purple expected.
+**November 14 vs. Kansas State**, Amon G. Carter Stadium. ★ Confirmed: the Freedom Frogs look, a white helmet with a purple diamond center stripe and the horned frog head, over the purple jersey with silver numbers. Our grade: B. [The full breakdown](/stories/tcu-freedom-frogs-white-helmet-horned-frog-kansas-state-2026).
+
+<div style="display: flex; justify-content: center; margin: 1em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TCUFootball/status/2121304838424383733"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">TCU's Freedom Frogs helmet, via @TCUFootball</p>
 
 **November 21 vs. Utah**, Amon G. Carter Stadium. Purple expected.
 

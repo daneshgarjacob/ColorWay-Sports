@@ -3,7 +3,7 @@ title: "College Football Week 11 Uniforms 2026: Texas at LSU, Marshall's Play Fo
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-08"
-updatedDate: "2026-11-12"
+updatedDate: "2026-11-13"
 excerpt: "College football Week 11 uniforms: Texas at LSU, Utah at Arizona, USC at Indiana, and Marshall's Play For The 75 against App State. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #2a1a08 60%, #BF5700 130%)"
 coverImage: "/images/posts/college-football-week-11-uniforms-2026/cover.jpg"
@@ -89,7 +89,12 @@ That is the list as of Thursday, November 12. Schools post their combinations fr
 
 ### Michigan at No. 18 Oregon
 
-**Saturday, 3:30 p.m. (12:30 p.m. Pacific), FS1.** **Oregon: Confirmed, black over white.** Oregon posted its "Game 10 uniform combo" on Wednesday: a black helmet with Japanese katakana lettering, a black jersey with green numbers and white pants. Oregon changed its look after posting last week, so we will check it on Saturday. **Michigan: Expected, white.** More: [Oregon schedule](/stories/oregon-uniform-schedule-2026) and [Michigan schedule](/stories/michigan-uniform-schedule-2026).
+**Saturday, 3:30 p.m. (12:30 p.m. Pacific), FS1.** **Oregon: Confirmed, black over white.** Oregon posted its "Game 10 uniform combo" on Wednesday: a black helmet with Japanese katakana lettering, a black jersey with green numbers and white pants. Oregon changed its look after posting last week, so we will check it on Saturday. **Michigan: Confirmed, white over maize.** Michigan posted "Saturday's Combo" on Friday: the maize and blue winged helmet, a white jersey with blue numbers, and maize pants. More: [Oregon schedule](/stories/oregon-uniform-schedule-2026) and [Michigan schedule](/stories/michigan-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UMichFootball/status/2121323847500923033"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Michigan's combo for Oregon, via @UMichFootball</p>
 
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
@@ -231,7 +236,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[Kansas State](/stories/kansas-state-uniform-schedule-2026) at [TCU](/stories/tcu-uniform-schedule-2026)**, 2 p.m., ESPNU.
 - Kansas State: **Expected**, white.
-- TCU: **Expected**, purple.
+- TCU: **Confirmed**, purple jersey, white helmet with a purple diamond stripe and the horned frog head ([our grade: B](/stories/tcu-freedom-frogs-white-helmet-horned-frog-kansas-state-2026)).
 
 **[Tulane](/stories/tulane-uniform-schedule-2026) at [Rice](/stories/rice-uniform-schedule-2026)**, 2 p.m., ESPN+.
 - Tulane: **Expected**, white.
@@ -258,7 +263,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Notre Dame: **Expected**, navy.
 
 **[Michigan](/stories/michigan-uniform-schedule-2026) at No. 18 [Oregon](/stories/oregon-uniform-schedule-2026)**, 3:30 p.m. (12:30 p.m. Pacific), FS1.
-- Michigan: **Expected**, white.
+- Michigan: **Confirmed**, white jersey, maize pants.
 - Oregon: **Confirmed**, black helmet with katakana lettering, black jersey, white pants.
 
 **[Arizona State](/stories/arizona-state-uniform-schedule-2026) at [UCF](/stories/ucf-uniform-schedule-2026)**, 3:30 p.m., ESPN2.
