@@ -7,6 +7,7 @@ import type { Metadata } from "next";
 import { teamPagePath, type MyTeamCard } from "@/lib/myTeams";
 import { ORDER, LEAGUE_NAME, LEAGUE_LOGO, tonightMatchups } from "@/lib/tonight";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
+import { getAllPosts } from "@/lib/posts";
 
 // Tonight (Jake 11/4, ESPN's Scores tab for uniforms): every game on today's
 // slate across leagues, both teams' jerseys side by side (lib/tonight.ts).
@@ -40,12 +41,29 @@ function Side({ c, solo }: { c?: MyTeamCard; solo?: boolean }) {
   );
 }
 
+// Where each league section sends you next (Jake 11/12: "you shouldn't just be
+// stuck on that page"). The red dot marks the daily tracker, same as the menus.
+function leagueLinks(l: string, cfbWeek?: string): { label: string; href: string; live?: boolean }[] {
+  const T: Record<string, { label: string; href: string; live?: boolean }[]> = {
+    NFL: [{ label: "NFL Uniform Tracker", href: "/stories/nfl-uniform-tracker-2026", live: true }, { label: "Uniform Schedule", href: "/stories/nfl-uniform-schedule-2026" }, { label: "Team Calendars", href: "/nfl-tracker" }],
+    NBA: [{ label: "NBA Uniform Tracker", href: "/stories/nba-uniform-tracker-2026-27", live: true }, { label: "Uniform Schedule", href: "/stories/nba-uniform-schedule-2026-27" }, { label: "Team Calendars", href: "/nba-tracker" }],
+    NHL: [{ label: "NHL Uniform Tracker", href: "/stories/nhl-uniform-tracker-2026-27", live: true }, { label: "Uniform Schedule", href: "/stories/nhl-uniform-schedule-2026-27" }, { label: "Team Calendars", href: "/nhl-tracker" }],
+    MLB: [{ label: "MLB Uniform Tracker", href: "/stories/mlb-uniform-tracker-2026", live: true }, { label: "Uniform Schedule", href: "/stories/mlb-uniform-schedule-2026" }, { label: "Team Calendars", href: "/mlb-tracker" }],
+    CFB: [...(cfbWeek ? [{ label: "This Week's Uniforms", href: `/stories/${cfbWeek}`, live: true }] : []), { label: "College Football Stories", href: "/stories?league=college" }],
+  };
+  return T[l] ?? [];
+}
+
 export default async function TonightPage() {
   const now = new Date();
   const etNow = new Date(now.toLocaleString("en-US", { timeZone: "America/New_York" }));
   const toMidnight = (24 * 3600) - (etNow.getHours() * 3600 + etNow.getMinutes() * 60);
   await revalidatePageWithin(Math.max(300, toMidnight + 120));
   const games = tonightMatchups(now);
+  // Newest weekly college guide ("college-football-week-11-uniforms-2026").
+  const cfbWeek = getAllPosts()
+    .filter((p) => /^college-football-week-\d+-uniforms/.test(p.slug))
+    .sort((a, b) => Number(b.slug.match(/week-(\d+)/)![1]) - Number(a.slug.match(/week-(\d+)/)![1]))[0]?.slug;
   const leagues = ORDER.filter((l) => games.some((g) => g.league === l));
   const dateLabel = now.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", timeZone: "America/New_York" });
   const LABEL = "font-display text-[11px] font-black tracking-[0.18em] uppercase";
@@ -55,7 +73,7 @@ export default async function TonightPage() {
       <Header />
       <main className="max-w-[1200px] mx-auto px-5 py-6">
         <div className={`${LABEL} text-steel`}>{dateLabel}</div>
-        <h1 className="font-display font-black text-[28px] sm:text-[38px] leading-tight mt-1">Uniforms Tonight</h1>
+        <h1 className="font-display font-black text-[28px] sm:text-[38px] leading-tight mt-1">Tonight&apos;s Uniforms</h1>
         <p className="text-[15px] mt-1 mb-4">Every game today and what both teams are wearing. Tap a team for its page.</p>
         <div className="flex gap-2 mb-6 overflow-x-auto">
           {leagues.map((l) => (
@@ -76,6 +94,14 @@ export default async function TonightPage() {
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={LEAGUE_LOGO[l]} alt="" className="w-8 h-8 object-contain" />
               {LEAGUE_NAME[l] ?? l}
+              <div className="ml-auto flex flex-wrap justify-end gap-x-4 gap-y-1 normal-case tracking-normal text-[13px] font-extrabold">
+                {leagueLinks(l, cfbWeek).map((x) => (
+                  <Link prefetch={false} key={x.href} href={x.href} className="flex items-center gap-1.5 text-[#0b0b0f] hover:text-[#0025CC] transition-colors">
+                    {x.live && <span aria-hidden="true" className="w-2 h-2 rounded-full bg-[#E11D2E] shadow-[0_0_0_3px_rgba(225,29,46,0.18)]" />}
+                    {x.label} <span aria-hidden="true">&rarr;</span>
+                  </Link>
+                ))}
+              </div>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
               {games.filter((g) => g.league === l).map((g) => (

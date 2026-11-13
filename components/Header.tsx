@@ -476,7 +476,7 @@ export default function Header() {
   return (
     <>
       <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-white/85 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.08)]" : "bg-white shadow-none"}`}>
-        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] lg:h-[64px] gap-6 lg:gap-12">
+        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] gap-6 lg:h-auto lg:grid lg:grid-cols-[auto_minmax(0,1fr)_auto] lg:grid-rows-[64px_44px] lg:gap-x-12 lg:gap-y-0 lg:items-center">
           {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link prefetch={false} href="/" aria-label="ColorWay Sports home" className="flex items-center gap-2 sm:gap-2.5 lg:gap-2 min-w-0 flex-shrink-0">
             <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px] lg:w-[26px] lg:h-[26px]" style={{ minWidth: 26 }} aria-hidden="true">
@@ -622,26 +622,9 @@ export default function Header() {
             <span className={`absolute left-2 block w-6 h-0.5 bg-[#0b0b0f] transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
           </button>
           </div>
-        </div>
-
-        {/* Phone/tablet quick bar (Jake 11/4, ESPN app style): the three places
-            a fan goes most, one tap from every page. Not pinned to the bottom of
-            the screen, where Mediavine's sticky phone ad lives. */}
-        <nav className="lg:hidden bg-white border-t border-black/[0.06] flex justify-around h-[40px] items-stretch">
-          {[{ label: "Home", href: "/" }, { label: "My Teams", href: "/my-teams" }, { label: "Tonight", href: "/tonight" }, { label: "Stories", href: "/news" }].map((l) => (
-            <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#0b0b0f]" style={{ fontFamily: "var(--font-display)" }}>
-              {l.label}
-            </Link>
-          ))}
-        </nav>
-
-        {/* Row 2 — the league rail. Light so the full-colour league marks read
-            properly, horizontally scrollable so new sports just join the end
-            instead of breaking the layout. */}
-        <div className={`hidden lg:block border-t border-black/[0.06] transition-colors duration-300 ${scrolled ? "bg-transparent" : "bg-white"}`}>
-          <nav className="hidden lg:flex items-center justify-center gap-0 w-full max-w-[1140px] mx-auto px-4 sm:px-8 h-[44px]">
-            {/* Dense rail (Jake 11/12: "too much open space"): leagues start under the logo, trackers fill the right */}
-            <div className="flex items-center gap-1">
+          {/* League row (Jake 11/12): second grid row, centred under the search bar so
+              logo / search / links and the leagues all share one centre line. */}
+          <nav className="hidden lg:flex col-start-2 row-start-2 justify-self-center items-center gap-1 whitespace-nowrap">
             {/* League dropdowns */}
             {leagues.map((league) => (
               <div
@@ -707,7 +690,7 @@ export default function Header() {
                       {trackerLinks.filter((t) => t.league === league.label).map((t) => (
                         <div key={t.href} className="flex items-center border-b border-border">
                           <Link prefetch={false} href={t.href} className="flex-1 min-w-0 flex items-center gap-2 px-4 py-2.5 text-[13px] font-bold text-[#0b0b0f] whitespace-nowrap hover:text-[#0025CC] hover:bg-[#0025CC]/[0.05] transition-colors" onClick={() => setOpenDropdown(null)}>
-                            <span className="w-5 h-5 flex-shrink-0 flex items-center justify-center"><svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 17V7m6 10V4M4 20h16" /></svg></span>
+                            <span className="w-5 h-5 flex-shrink-0 flex items-center justify-center" aria-hidden="true"><span className="w-2 h-2 rounded-full bg-[#E11D2E] shadow-[0_0_0_3px_rgba(225,29,46,0.18)]" /></span>
                             {t.league} Uniform Tracker
                           </Link>
                           <Link prefetch={false} href={t.calendar.href} className="pr-4 pl-1 py-2.5 text-[12px] font-semibold text-steel hover:text-[#0025CC] transition-colors" onClick={() => setOpenDropdown(null)}>{t.calendar.label}</Link>
@@ -791,9 +774,22 @@ export default function Header() {
                 )}
               </div>
             ))}
-            </div>
           </nav>
         </div>
+
+        <div aria-hidden="true" className="hidden lg:block absolute inset-x-0 top-[64px] border-t border-black/[0.06] pointer-events-none" />
+
+        {/* Phone/tablet quick bar (Jake 11/4, ESPN app style): the three places
+            a fan goes most, one tap from every page. Not pinned to the bottom of
+            the screen, where Mediavine's sticky phone ad lives. */}
+        <nav className="lg:hidden bg-white border-t border-black/[0.06] flex justify-around h-[40px] items-stretch">
+          {[{ label: "Home", href: "/" }, { label: "My Teams", href: "/my-teams" }, { label: "Tonight", href: "/tonight" }, { label: "Stories", href: "/news" }].map((l) => (
+            <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#0b0b0f]" style={{ fontFamily: "var(--font-display)" }}>
+              {l.label}
+            </Link>
+          ))}
+        </nav>
+
       </header>
 
       {/* Mobile menu — frosted glass sheet that starts below the sticky header.
@@ -861,9 +857,11 @@ export default function Header() {
                         <div key={t.league} className="flex items-center gap-4 py-1.5">
                           <Link prefetch={false}
                             href={t.href}
-                            className="text-[15px] font-bold text-black hover:text-orange transition-colors"
+                            className="flex items-center gap-2 text-[15px] font-bold text-black hover:text-orange transition-colors"
                             onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
                           >
+                            {/* Red live dot (Jake 11/12 pick D): updated daily */}
+                            <span aria-hidden="true" className="w-2 h-2 rounded-full bg-[#E11D2E] shadow-[0_0_0_3px_rgba(225,29,46,0.18)]" />
                             {t.league} Uniform Tracker
                           </Link>
                           <Link prefetch={false}
