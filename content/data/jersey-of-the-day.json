@@ -417,198 +417,236 @@
    ]
   },
   "2026-11-08": {
-    "team": "Philadelphia Eagles",
-    "teamShort": "Eagles",
-    "league": "NFL",
-    "season": "2026",
-    "edition": "Kelly Green",
-    "jerseyName": "Kelly Green (Green and Silver)",
-    "image": "/images/jersey-of-the-day/eagles-kelly-green-2026-11-08.jpg",
-    "imageAlt": "Philadelphia Eagles quarterback throwing in the Kelly Green uniform: kelly green helmet with silver wings and a kelly green jersey with white numbers",
-    "imagePosition": "center 25%",
-    "credit": {
-      "text": "Philadelphia Eagles"
+   "team": "Philadelphia Eagles",
+   "teamShort": "Eagles",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Kelly Green",
+   "jerseyName": "Kelly Green (Green and Silver)",
+   "image": "/images/jersey-of-the-day/eagles-kelly-green-2026-11-08.jpg",
+   "imageAlt": "Philadelphia Eagles quarterback throwing in the Kelly Green uniform: kelly green helmet with silver wings and a kelly green jersey with white numbers",
+   "imagePosition": "center 25%",
+   "credit": {
+    "text": "Philadelphia Eagles"
+   },
+   "tweet": {
+    "url": "https://x.com/Eagles/status/2119489946058883319",
+    "label": "Today's look, from the Eagles"
+   },
+   "worn": {
+    "date": "2026-11-08",
+    "matchup": "vs. Giants, 1:00 p.m. ET on FOX",
+    "status": "Confirmed",
+    "note": "Worn as announced, confirmed from the team's game photos. Final: Giants 19, Eagles 11."
+   },
+   "why": "Kelly green with silver wings is the best throwback in the NFL, and it looked even better against the Giants in their own white throwbacks.",
+   "whyPlaceholder": true,
+   "story": "The Eagles wore Kelly Green against the Giants at Lincoln Financial Field: a kelly green helmet with silver wings, a kelly green jersey with white numbers, silver pants with a green-white-green stripe and kelly green gloves. The Giants wore Vintage White, so both teams were in throwbacks. New York won 19-11.",
+   "scheduleSlug": "eagles-uniform-schedule-2026",
+   "scheduleLabel": "Eagles 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "giants-vintage-white-vs-eagles-kelly-green-2026",
+     "label": "Giants Vintage White vs. Eagles Kelly Green"
     },
-    "tweet": {
-      "url": "https://x.com/Eagles/status/2119489946058883319",
-      "label": "Today's look, from the Eagles"
-    },
-    "worn": {
-      "date": "2026-11-08",
-      "matchup": "vs. Giants, 1:00 p.m. ET on FOX",
-      "status": "Confirmed",
-      "note": "Worn as announced, confirmed from the team's game photos. Final: Giants 19, Eagles 11."
-    },
-    "why": "Kelly green with silver wings is the best throwback in the NFL, and it looked even better against the Giants in their own white throwbacks.",
-    "whyPlaceholder": true,
-    "story": "The Eagles wore Kelly Green against the Giants at Lincoln Financial Field: a kelly green helmet with silver wings, a kelly green jersey with white numbers, silver pants with a green-white-green stripe and kelly green gloves. The Giants wore Vintage White, so both teams were in throwbacks. New York won 19-11.",
-    "scheduleSlug": "eagles-uniform-schedule-2026",
-    "scheduleLabel": "Eagles 2026 uniform schedule",
-    "related": [
-      {
-        "slug": "giants-vintage-white-vs-eagles-kelly-green-2026",
-        "label": "Giants Vintage White vs. Eagles Kelly Green"
-      },
-      {
-        "slug": "nfl-week-9-uniforms-2026",
-        "label": "Every NFL Week 9 uniform"
-      }
-    ]
+    {
+     "slug": "nfl-week-9-uniforms-2026",
+     "label": "Every NFL Week 9 uniform"
+    }
+   ]
   },
   "2026-11-09": {
-    "team": "Minnesota Vikings",
-    "teamShort": "Vikings",
-    "league": "NFL",
-    "season": "2026",
-    "edition": "Primary Home",
-    "jerseyName": "Purple over White",
-    "image": "/images/jersey-of-the-day/vikings-purple-over-white-2026-11-09.jpg",
-    "imageAlt": "Minnesota Vikings receiver running with the ball in the purple jersey with white numbers, white pants with a purple and gold stripe and purple socks",
-    "imagePosition": "center 25%",
-    "credit": {
-      "text": "Minnesota Vikings"
+   "team": "Minnesota Vikings",
+   "teamShort": "Vikings",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Primary Home",
+   "jerseyName": "Purple over White",
+   "image": "/images/jersey-of-the-day/vikings-purple-over-white-2026-11-09.jpg",
+   "imageAlt": "Minnesota Vikings receiver running with the ball in the purple jersey with white numbers, white pants with a purple and gold stripe and purple socks",
+   "imagePosition": "center 25%",
+   "credit": {
+    "text": "Minnesota Vikings"
+   },
+   "tweet": {
+    "url": "https://x.com/Vikings/status/2119972557415928296",
+    "label": "Monday's look, from the Vikings"
+   },
+   "worn": {
+    "date": "2026-11-09",
+    "matchup": "vs. Bills, 8:15 p.m. ET on ESPN, Monday Night Football",
+    "status": "Confirmed",
+    "note": "Worn as scheduled, confirmed from the team's game photos. Final: Bills 23, Vikings 6."
+   },
+   "why": "Purple over white is the Vikings at their best, and it is the right look for the night Adrian Peterson goes into the Ring of Honor.",
+   "whyPlaceholder": true,
+   "story": "The Vikings wore the purple jersey over white pants against Buffalo on Monday Night Football, the look Minnesota assigned to this game on its published home schedule: purple helmet, purple jersey with white numbers, white pants with a purple and gold stripe and purple socks. It was their Salute to Service game, and Adrian Peterson went into the team's Ring of Honor at halftime. The Bills wore white jerseys over white pants. Buffalo won 23-6.",
+   "scheduleSlug": "vikings-uniform-schedule-2026",
+   "scheduleLabel": "Vikings 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "nfl-week-9-uniforms-2026",
+     "label": "Every NFL Week 9 uniform"
     },
-    "tweet": {
-      "url": "https://x.com/Vikings/status/2119972557415928296",
-      "label": "Monday's look, from the Vikings"
-    },
-    "worn": {
-      "date": "2026-11-09",
-      "matchup": "vs. Bills, 8:15 p.m. ET on ESPN, Monday Night Football",
-      "status": "Confirmed",
-      "note": "Worn as scheduled, confirmed from the team's game photos. Final: Bills 23, Vikings 6."
-    },
-    "why": "Purple over white is the Vikings at their best, and it is the right look for the night Adrian Peterson goes into the Ring of Honor.",
-    "whyPlaceholder": true,
-    "story": "The Vikings wore the purple jersey over white pants against Buffalo on Monday Night Football, the look Minnesota assigned to this game on its published home schedule: purple helmet, purple jersey with white numbers, white pants with a purple and gold stripe and purple socks. It was their Salute to Service game, and Adrian Peterson went into the team's Ring of Honor at halftime. The Bills wore white jerseys over white pants. Buffalo won 23-6.",
-    "scheduleSlug": "vikings-uniform-schedule-2026",
-    "scheduleLabel": "Vikings 2026 uniform schedule",
-    "related": [
-      {
-        "slug": "nfl-week-9-uniforms-2026",
-        "label": "Every NFL Week 9 uniform"
-      },
-      {
-        "slug": "vikings-jerseys-2026-ranked",
-        "label": "Every Vikings jersey, ranked"
-      }
-    ]
+    {
+     "slug": "vikings-jerseys-2026-ranked",
+     "label": "Every Vikings jersey, ranked"
+    }
+   ]
   },
   "2026-11-10": {
-    "team": "Columbus Blue Jackets",
-    "teamShort": "Blue Jackets",
-    "league": "NHL",
-    "season": "2026-27",
-    "edition": "Hometown Remix",
-    "jerseyName": "Hometown Remix (Cannon)",
-    "colorwayGrade": "C",
-    "image": "/images/jersey-of-the-day/blue-jackets-hometown-remix-2026-11-10.jpg",
-    "imageAlt": "Columbus Blue Jackets player in the Hometown Remix jersey: gray with the Stadium Series cannon crest, navy and light blue arm stripes and an Ohio-shaped captain's A",
-    "imagePosition": "center 30%",
-    "credit": {
-      "text": "Columbus Blue Jackets",
-      "url": "https://x.com/BlueJacketsNHL/status/2117279050406248936",
-      "license": "via the team"
+   "team": "Columbus Blue Jackets",
+   "teamShort": "Blue Jackets",
+   "league": "NHL",
+   "season": "2026-27",
+   "edition": "Hometown Remix",
+   "jerseyName": "Hometown Remix (Cannon)",
+   "colorwayGrade": "C",
+   "image": "/images/jersey-of-the-day/blue-jackets-hometown-remix-2026-11-10.jpg",
+   "imageAlt": "Columbus Blue Jackets player in the Hometown Remix jersey: gray with the Stadium Series cannon crest, navy and light blue arm stripes and an Ohio-shaped captain's A",
+   "imagePosition": "center 30%",
+   "credit": {
+    "text": "Columbus Blue Jackets",
+    "url": "https://x.com/BlueJacketsNHL/status/2117279050406248936",
+    "license": "via the team"
+   },
+   "worn": {
+    "date": "2026-11-10",
+    "matchup": "vs. Florida Panthers, 7:30 p.m. ET",
+    "status": "Scheduled"
+   },
+   "why": "The captain's A inside the shape of Ohio is the best detail in the whole Remix program. The gray sweater around it is a C.",
+   "whyPlaceholder": false,
+   "story": "The Blue Jackets wear their Hometown Remix jersey tonight at home against Florida: a gray sweater with the Stadium Series cannon across the chest, navy and light blue stripes on the arms and hem, and a captain's letter set inside the shape of Ohio. It is the third time they have worn it, and Columbus has it on the schedule 13 times this season, the most of any team. We ranked it 22nd of the 32 Remix jerseys, mostly because of the gray.",
+   "scheduleSlug": "blue-jackets-uniform-schedule-2026-27",
+   "scheduleLabel": "Blue Jackets 2026-27 uniform schedule",
+   "related": [
+    {
+     "slug": "nhl-hometown-remix-jerseys-ranked",
+     "label": "Every Hometown Remix jersey, ranked"
     },
-    "worn": {
-      "date": "2026-11-10",
-      "matchup": "vs. Florida Panthers, 7:30 p.m. ET",
-      "status": "Scheduled"
-    },
-    "why": "The captain's A inside the shape of Ohio is the best detail in the whole Remix program. The gray sweater around it is a C.",
-    "whyPlaceholder": false,
-    "story": "The Blue Jackets wear their Hometown Remix jersey tonight at home against Florida: a gray sweater with the Stadium Series cannon across the chest, navy and light blue stripes on the arms and hem, and a captain's letter set inside the shape of Ohio. It is the third time they have worn it, and Columbus has it on the schedule 13 times this season, the most of any team. We ranked it 22nd of the 32 Remix jerseys, mostly because of the gray.",
-    "scheduleSlug": "blue-jackets-uniform-schedule-2026-27",
-    "scheduleLabel": "Blue Jackets 2026-27 uniform schedule",
-    "related": [
-      {
-        "slug": "nhl-hometown-remix-jerseys-ranked",
-        "label": "Every Hometown Remix jersey, ranked"
-      },
-      {
-        "slug": "nhl-hometown-remix-debut-week-2026",
-        "label": "Remix debut week: every team"
-      }
-    ]
+    {
+     "slug": "nhl-hometown-remix-debut-week-2026",
+     "label": "Remix debut week: every team"
+    }
+   ]
   },
   "2026-11-11": {
-    "team": "Calgary Flames",
-    "teamShort": "Flames",
-    "league": "NHL",
-    "season": "2026-27",
-    "edition": "Hometown Remix",
-    "jerseyName": "Hometown Remix (Saddledome)",
-    "colorwayGrade": "A-",
-    "image": "/images/jersey-of-the-day/flames-hometown-remix-2026-11-11.jpg",
-    "imageAlt": "Calgary Flames players celebrating in the red Hometown Remix jersey with the gold Flaming C and gold hem and sleeve bands",
-    "imagePosition": "center 30%",
-    "credit": {
-      "text": "Calgary Flames",
-      "url": "https://x.com/NHLFlames/status/2119635237718347877",
-      "license": "via the team"
+   "team": "Calgary Flames",
+   "teamShort": "Flames",
+   "league": "NHL",
+   "season": "2026-27",
+   "edition": "Hometown Remix",
+   "jerseyName": "Hometown Remix (Saddledome)",
+   "colorwayGrade": "A-",
+   "image": "/images/jersey-of-the-day/flames-hometown-remix-2026-11-11.jpg",
+   "imageAlt": "Calgary Flames players celebrating in the red Hometown Remix jersey with the gold Flaming C and gold hem and sleeve bands",
+   "imagePosition": "center 30%",
+   "credit": {
+    "text": "Calgary Flames",
+    "url": "https://x.com/NHLFlames/status/2119635237718347877",
+    "license": "via the team"
+   },
+   "tweet": {
+    "url": "https://x.com/NHLFlames/status/2117270868116033640",
+    "label": "The Hometown Remix reveal, from the Flames"
+   },
+   "worn": {
+    "date": "2026-11-11",
+    "matchup": "vs. New York Rangers, 7:30 p.m. ET, Remembrance Day game",
+    "status": "Confirmed",
+    "note": "Worn as scheduled, confirmed from the game's highlight frames: the Flames wore the red Hometown Remix against the Rangers' road white. Final: Rangers 3, Flames 1."
+   },
+   "why": "Red and gold with a stripe shaped like the Saddledome roof, in the building's last season. It's the third-best sweater in the whole Remix program.",
+   "whyPlaceholder": true,
+   "story": "The Flames wear their Hometown Remix jersey tonight at home against the Rangers, Calgary's Remembrance Day game. The sweater is a farewell to the Scotiabank Saddledome in its final season: red with the Flaming C in gold, a gold hem stripe that traces the arena's curved roofline, and 1983 and 2027 set inside the hem for the building's first and last years. It is the third time Calgary has worn it, after a 5-3 loss to Anaheim in the debut and a 4-3 overtime win over Philadelphia, and the Flames wear it nine times this season, all at home. We ranked it third of all 32 Remix jerseys.",
+   "scheduleSlug": "flames-uniform-schedule-2026-27",
+   "scheduleLabel": "Flames 2026-27 uniform schedule",
+   "related": [
+    {
+     "slug": "nhl-hometown-remix-jerseys-ranked",
+     "label": "Every Hometown Remix jersey, ranked"
     },
-    "tweet": {
-      "url": "https://x.com/NHLFlames/status/2117270868116033640",
-      "label": "The Hometown Remix reveal, from the Flames"
-    },
-    "worn": {
-      "date": "2026-11-11",
-      "matchup": "vs. New York Rangers, 7:30 p.m. ET, Remembrance Day game",
-      "status": "Confirmed",
-      "note": "Worn as scheduled, confirmed from the game's highlight frames: the Flames wore the red Hometown Remix against the Rangers' road white. Final: Rangers 3, Flames 1."
-    },
-    "why": "Red and gold with a stripe shaped like the Saddledome roof, in the building's last season. It's the third-best sweater in the whole Remix program.",
-    "whyPlaceholder": true,
-    "story": "The Flames wear their Hometown Remix jersey tonight at home against the Rangers, Calgary's Remembrance Day game. The sweater is a farewell to the Scotiabank Saddledome in its final season: red with the Flaming C in gold, a gold hem stripe that traces the arena's curved roofline, and 1983 and 2027 set inside the hem for the building's first and last years. It is the third time Calgary has worn it, after a 5-3 loss to Anaheim in the debut and a 4-3 overtime win over Philadelphia, and the Flames wear it nine times this season, all at home. We ranked it third of all 32 Remix jerseys.",
-    "scheduleSlug": "flames-uniform-schedule-2026-27",
-    "scheduleLabel": "Flames 2026-27 uniform schedule",
-    "related": [
-      {
-        "slug": "nhl-hometown-remix-jerseys-ranked",
-        "label": "Every Hometown Remix jersey, ranked"
-      },
-      {
-        "slug": "nhl-military-appreciation-jerseys-2026",
-        "label": "Every NHL Military Appreciation night"
-      }
-    ]
+    {
+     "slug": "nhl-military-appreciation-jerseys-2026",
+     "label": "Every NHL Military Appreciation night"
+    }
+   ]
   },
   "2026-11-12": {
-    "team": "New York Giants",
-    "teamShort": "Giants",
-    "league": "NFL",
-    "season": "2026",
-    "edition": "Vintage White",
-    "jerseyName": "Vintage White",
-    "colorwayGrade": "A",
-    "image": "/images/posts/giants-vintage-white-vs-eagles-kelly-green-2026/cover-game.jpg",
-    "imageAlt": "New York Giants player in the Vintage White uniform: white jersey with blue numbers outlined in red, white pants and the navy helmet with the GIANTS wordmark",
-    "imagePosition": "center center",
-    "credit": {
-      "text": "New York Giants",
-      "url": "https://x.com/Giants/status/2119507350063337739",
-      "license": "via the team"
+   "team": "New York Giants",
+   "teamShort": "Giants",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Vintage White",
+   "jerseyName": "Vintage White",
+   "colorwayGrade": "A",
+   "image": "/images/posts/giants-vintage-white-vs-eagles-kelly-green-2026/cover-game.jpg",
+   "imageAlt": "New York Giants player in the Vintage White uniform: white jersey with blue numbers outlined in red, white pants and the navy helmet with the GIANTS wordmark",
+   "imagePosition": "center center",
+   "credit": {
+    "text": "New York Giants",
+    "url": "https://x.com/Giants/status/2119507350063337739",
+    "license": "via the team"
+   },
+   "worn": {
+    "date": "2026-11-12",
+    "matchup": "vs. Washington Commanders, 8:15 p.m. ET on Prime Video (Thursday Night Football)",
+    "status": "Announced"
+   },
+   "why": "The best uniform the Giants own: white with blue numbers outlined in red, the road look they wore for two decades. Under the lights against burgundy and gold, it's an A.",
+   "whyPlaceholder": true,
+   "story": "The Giants wear Vintage White tonight at MetLife Stadium against Washington on Thursday Night Football: a white jersey with blue numbers outlined in red, white pants and the navy helmet with the GIANTS wordmark. It is the second straight week in the set, after a 19-11 win at Philadelphia on Sunday when the Eagles wore Kelly Green. The Commanders are scheduled to wear burgundy. The Giants first built Vintage White in 2016 for the league's Color Rush program, and it is the road twin of their Legacy uniform.",
+   "scheduleSlug": "new-york-giants-uniform-schedule-2026",
+   "scheduleLabel": "Giants 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "giants-vintage-white-eagles-commanders-2026",
+     "label": "Vintage White is back for two weeks"
     },
-    "worn": {
-      "date": "2026-11-12",
-      "matchup": "vs. Washington Commanders, 8:15 p.m. ET on Prime Video (Thursday Night Football)",
-      "status": "Announced"
-    },
-    "why": "The best uniform the Giants own: white with blue numbers outlined in red, the road look they wore for two decades. Under the lights against burgundy and gold, it's an A.",
-    "whyPlaceholder": true,
-    "story": "The Giants wear Vintage White tonight at MetLife Stadium against Washington on Thursday Night Football: a white jersey with blue numbers outlined in red, white pants and the navy helmet with the GIANTS wordmark. It is the second straight week in the set, after a 19-11 win at Philadelphia on Sunday when the Eagles wore Kelly Green. The Commanders are scheduled to wear burgundy. The Giants first built Vintage White in 2016 for the league's Color Rush program, and it is the road twin of their Legacy uniform.",
-    "scheduleSlug": "new-york-giants-uniform-schedule-2026",
-    "scheduleLabel": "Giants 2026 uniform schedule",
-    "related": [
-      {
-        "slug": "giants-vintage-white-eagles-commanders-2026",
-        "label": "Vintage White is back for two weeks"
-      },
-      {
-        "slug": "giants-vintage-white-vs-eagles-kelly-green-2026",
-        "label": "Giants Vintage White vs. Eagles Kelly Green"
-      }
-    ]
+    {
+     "slug": "giants-vintage-white-vs-eagles-kelly-green-2026",
+     "label": "Giants Vintage White vs. Eagles Kelly Green"
+    }
+   ]
+  },
+  "2026-11-13": {
+   "team": "UCLA Bruins",
+   "teamShort": "UCLA",
+   "league": "College Football",
+   "season": "2026",
+   "edition": "Home",
+   "jerseyName": "Powder Blue Home",
+   "image": "/images/jersey-of-the-day/ucla-blue-home-2026-11-13.jpg",
+   "imageAlt": "UCLA football player in the powder blue home jersey with gold numbers, gold shoulder stripes and gold pants",
+   "imagePosition": "center 30%",
+   "credit": {
+    "text": "UCLA Football",
+    "url": "https://x.com/UCLAFootball/status/2082542165876412430",
+    "license": "via the team"
+   },
+   "tweet": {
+    "url": "https://x.com/UCLAFootball/status/2082542165876412430",
+    "label": "The home uniform, from UCLA: powder blue, gold pants, gold helmet"
+   },
+   "worn": {
+    "date": "2026-11-13",
+    "matchup": "vs. Illinois, 9 p.m. ET (6 p.m. PT) on FOX, Rose Bowl",
+    "status": "Expected",
+    "note": "UCLA's game-day posts show the gold helmet at the Rose Bowl and the blue home jersey on the game-day graphic."
+   },
+   "why": "Powder blue and gold under the lights at the Rose Bowl on a Friday night. It's the best home uniform in college football, and No. 4 UCLA gets a national TV window to show it.",
+   "whyPlaceholder": true,
+   "story": "UCLA's home uniform is the powder blue jersey with gold numbers and gold shoulder stripes, gold pants and the gold helmet with the blue UCLA script. The No. 4 Bruins host Illinois on Friday night at the Rose Bowl, the only Friday game on their 2026 schedule.",
+   "scheduleSlug": "ucla-uniform-schedule-2026",
+   "scheduleLabel": "UCLA 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "college-football-week-11-uniforms-2026",
+     "label": "College football Week 11 uniforms: every game"
+    }
+   ],
+   "shopQuery": "ucla football jersey"
   }
  }
 }
