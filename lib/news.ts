@@ -235,3 +235,35 @@ export function recentNews<T extends { at: string }>(items: T[], days = 7, min =
   const recent = items.filter((i) => new Date(i.at).getTime() >= cutoff);
   return recent.length >= min ? recent : items.slice(0, min);
 }
+
+// ---------------------------------------------------------------------------
+// Team feeds (Jake 11/13: "the hub where everybody finds anything uniform-
+// related"). A Wire item belongs to a team when the story it links to is tagged
+// with that team (and is about two teams at most), or when its headline names
+// the team. The X sweep adds items all day, so these fill on their own.
+// ---------------------------------------------------------------------------
+
+/** Wire items from the last `days` days, newest first, each with its thumbnail. */
+export function recentNewsWithThumbs(days = 4, limit = 8): (NewsMeta & { thumb: NewsThumb })[] {
+  const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
+  return getAllNewsMeta()
+    .filter((n) => new Date(n.at).getTime() >= cutoff)
+    .slice(0, limit)
+    .map((n) => ({ ...n, thumb: newsThumb(n) }));
+}
+
+/** A team's Wire items, newest first. `name` is the full club name ("Boston Bruins"). */
+export function newsForTeam(slug: string, name: string, limit = 6): (NewsMeta & { thumb: NewsThumb })[] {
+  const nickname = name.split(" ").slice(-1)[0];
+  // Short nicknames that are also common words would match the wrong headlines.
+  const nameHit = (t: string) =>
+    t.includes(name) || (nickname.length > 3 && new RegExp(`\\b${nickname}\\b`).test(t));
+  return getAllNewsMeta()
+    .filter((n) => {
+      const post = linkedPost(n.link);
+      const tagged = !!post?.teams && post.teams.length <= 2 && post.teams.includes(slug);
+      return tagged || nameHit(n.title);
+    })
+    .slice(0, limit)
+    .map((n) => ({ ...n, thumb: newsThumb(n) }));
+}

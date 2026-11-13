@@ -281,6 +281,8 @@ const leagues: NavLeague[] = [
     extraLinks: [
       // Jake 11/2: F1 and NASCAR moved here from the main bar; we rarely post
       // new racing stories and neither earns.
+      // Jake 11/13: every court, end zone, field and stadium story in one place.
+      { label: "Courts & Fields", href: "/courts-and-fields" },
       { label: "F1", href: "/stories?league=f1" },
       { label: "NASCAR", href: "/stories?league=nascar" },
       // Jake 10/30: WNBA posts were filed under NBA (Comets logo); own league now.

@@ -189,6 +189,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
+      url: "https://www.colorwaysports.com/courts-and-fields",
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.7,
+    },
+    {
       url: "https://www.colorwaysports.com/jersey-of-the-day",
       lastModified: new Date(),
       changeFrequency: "daily",

@@ -11,7 +11,8 @@ import MvSlot from "@/components/MvSlot";
 import { popularScheduleCards } from "@/lib/popularSchedules";
 import { MOST_READ } from "@/lib/mostRead";
 import FromTheStandsRandom from "@/components/home/FromTheStandsRandom";
-import WireStrip from "@/components/WireStrip";
+import FromTheTeams from "@/components/FromTheTeams";
+import { recentNewsWithThumbs } from "@/lib/news";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import { pickFor } from "@/lib/jerseyOfTheDay";
@@ -386,6 +387,10 @@ export default async function Home() {
             </div>
           </section>
         )}
+
+        {/* Jake 11/13: the newest uniform posts from team and league accounts
+            (The Wire, fed by the X sweep every two hours). */}
+        <FromTheTeams items={recentNewsWithThumbs(4, 8)} />
 
         {/* Mediavine in-feed spots (11/6): desktop after Top Stories, all devices
             after the schedules and after Find Your Team. */}

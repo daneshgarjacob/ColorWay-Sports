@@ -1,4 +1,6 @@
 import Header from "@/components/Header";
+import FromTheTeams from "@/components/FromTheTeams";
+import { newsForTeam } from "@/lib/news";
 import Footer from "@/components/Footer";
 import { Fragment } from "react";
 import StoryCard from "@/components/StoryCard";
@@ -132,6 +134,13 @@ export default async function TeamPage({ params }: { params: Promise<{ league: s
             </div>
           </section>
         )}
+
+        {/* Jake 11/13: this team's own uniform posts, from The Wire. */}
+        <FromTheTeams
+          items={newsForTeam(slug, card.name)}
+          title={`From The ${card.nickname}`}
+          className="max-w-[1200px] mx-auto px-5 pt-8"
+        />
 
         {/* Mediavine in-feed spot (11/6), before the stories. */}
         <div className="max-w-[1200px] mx-auto px-5 pt-6"><MvSlot /></div>
