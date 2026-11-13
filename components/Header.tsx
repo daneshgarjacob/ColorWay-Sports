@@ -814,53 +814,9 @@ export default function Header() {
             </div>
           </form>
 
-          {/* Trackers — the live daily logs, above everything else */}
-          <section aria-label="Uniform trackers" className="w-full max-w-[300px] mb-2">
-            <p className="text-[10.5px] font-bold uppercase tracking-[0.16em] text-black/45 mb-2 text-center">
-              Uniform Trackers
-            </p>
-            <ul className="m-0 p-0 list-none rounded-xl border border-black/[0.08] bg-white divide-y divide-black/[0.06]">
-              {trackerLinks.map((t) => (
-                <li key={t.league} className="flex items-center">
-                  <Link prefetch={false}
-                    href={t.href}
-                    className="flex-1 min-w-0 flex items-center gap-2.5 pl-3.5 pr-2 h-12 text-[15.5px] font-semibold text-black hover:text-orange transition-colors"
-                    onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
-                  >
-                    {openedMenus.has("m:drawer") ? (
-                      <img src={t.logo} alt="" className="w-[22px] h-[22px] object-contain flex-shrink-0" />
-                    ) : (
-                      <span className="w-[22px] h-[22px] flex-shrink-0" />
-                    )}
-                    {t.league} Tracker
-                  </Link>
-                  <Link prefetch={false}
-                    href={t.calendar.href}
-                    className="flex items-center h-12 px-3.5 text-[13px] font-bold text-orange hover:text-orange/80 transition-colors whitespace-nowrap"
-                    onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
-                  >
-                    {t.calendar.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </section>
-
-          {/* Regular nav links — matches desktop order */}
-          {navLinks.map((link) => (
-            <Link prefetch={false}
-              key={link.label}
-              href={link.href}
-              className="text-xl font-medium text-black hover:text-orange transition-colors"
-              onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
-            >
-              {link.label}
-            </Link>
-          ))}
-
-          {/* Divider */}
-          <hr className="w-16 border-border my-2" />
-
+          {/* 11/12: one list, leagues first. Each league opens to its Uniform Tracker and
+              calendars, then stories and teams (the separate tracker block above was a
+              duplicate of this list). */}
           {/* League sections */}
           {leagues.map((league) => (
             <div key={league.label} className="w-full max-w-[300px]">
@@ -888,6 +844,24 @@ export default function Header() {
                     }`}
                   >
                     <div className="flex flex-col items-center gap-1 pb-2">
+                      {trackerLinks.filter((t) => t.league === league.label).map((t) => (
+                        <div key={t.league} className="flex items-center gap-4 py-1.5">
+                          <Link prefetch={false}
+                            href={t.href}
+                            className="text-[15px] font-bold text-black hover:text-orange transition-colors"
+                            onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+                          >
+                            {t.league} Uniform Tracker
+                          </Link>
+                          <Link prefetch={false}
+                            href={t.calendar.href}
+                            className="text-[13px] font-bold text-orange hover:text-orange/80 transition-colors"
+                            onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+                          >
+                            {t.calendar.label}
+                          </Link>
+                        </div>
+                      ))}
                       <Link prefetch={false}
                         href={league.storiesLink.href}
                         className="flex items-center gap-2 text-sm font-bold text-orange hover:text-orange/80 transition-colors py-1.5"
@@ -977,6 +951,21 @@ export default function Header() {
               )}
             </div>
           ))}
+          {/* Divider */}
+          <hr className="w-16 border-border my-2" />
+
+          {/* Regular nav links — matches desktop order */}
+          {navLinks.map((link) => (
+            <Link prefetch={false}
+              key={link.label}
+              href={link.href}
+              className="text-xl font-medium text-black hover:text-orange transition-colors"
+              onClick={() => { setMobileOpen(false); setMobileLeague(null); }}
+            >
+              {link.label}
+            </Link>
+          ))}
+
         </div>
       </div>
     </>
