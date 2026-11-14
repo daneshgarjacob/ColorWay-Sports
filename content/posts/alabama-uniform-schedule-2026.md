@@ -3,7 +3,7 @@ title: "Alabama Uniform Schedule 2026: Every Jersey and When the Crimson Tide We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-14"
 excerpt: "What Alabama wears every game in 2026. Crimson at home, white on the road, and why the Tide's uniform schedule is the most locked-down in the SEC."
 gradient: "linear-gradient(135deg, #9E1B32 0%, #2a0a10 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -14,6 +14,13 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Alabama is wearing this week? This is the full Alabama 2026 uniform schedule, game by game. The short version: crimson at home, white on the road, and almost nothing else, because Alabama guards its uniform more carefully than any program in the sport.
+
+**Update, November 14:** Alabama posted its look for Vanderbilt in the visiting locker room in Nashville, coded crimson, white, white: **crimson helmet, white jersey, white pants**, the standard road uniform.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AlabamaFTBL/status/2121619411580928197"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Alabama's uniform for Vanderbilt: crimson helmet, white jersey, white pants, via @AlabamaFTBL</p>
 
 **Update, October 24:** Alabama beat Texas A&M **31-20** in the standard home look, **crimson helmet, crimson jersey and white pants**, as posted and confirmed from the team's halftime photos.
 
@@ -43,7 +50,7 @@ Twelve games, seven at Bryant-Denny, no alternates announced.
   <div style="background: #9E1B32; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / White / White</div></div>
   <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chattanooga</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
   <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
 </div>
@@ -76,7 +83,7 @@ SEC home teams wear color and visitors wear white, so the road games below are c
 
 **November 7 at LSU**, Baton Rouge. Road, and the one to watch. LSU wears white at home for selected games, and when the host goes white the visitor wears color. That is the single date all season where Alabama could wear crimson on the road. **Worn: crimson helmet, crimson jersey, white pants**, confirmed from the game broadcast. LSU wore white at home, so Alabama wore crimson on the road. **Final: Alabama 31, LSU 13.**
 
-**November 14 at Vanderbilt**, Nashville. Road. White.
+**November 14 at Vanderbilt**, Nashville. Road. ★ Confirmed by Alabama: **crimson helmet, white jersey, white pants**, from its game-day locker room post coded crimson, white, white.
 
 **November 21 vs. Chattanooga**, Tuscaloosa. Crimson.
 

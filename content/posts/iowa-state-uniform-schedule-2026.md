@@ -3,7 +3,7 @@ title: "Iowa State Uniform Schedule 2026: Every Jersey and When the Cyclones Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-01"
+updatedDate: "2026-11-14"
 excerpt: "Iowa State uniform schedule 2026: every Cyclones jersey by week, the cardinal home uniform, the all-white road look worn at Iowa, and what ISU wears next."
 gradient: "linear-gradient(135deg, #C8102E 0%, #9e0b23 55%, #F1BE48 130%)"
 cardStyle: words
@@ -14,6 +14,13 @@ resurfaceOnUpdate: true
 ---
 
 Iowa State wears a cardinal jersey with white pants at Jack Trice Stadium and a white jersey with white pants on the road, both under the cardinal Cyclones script helmet. That covered the first three games of 2026: cardinal over white in the 38-10 opener against Southeast Missouri, all white under the cardinal lid in the 16-13 loss at Iowa, and cardinal over white again in the 55-7 win over Bowling Green. Since then Iowa State has worn the all white Whiteout against Utah and all cardinal for Homecoming against West Virginia. This is the full Iowa State 2026 uniform schedule, with every jersey and a week-by-week outlook for all twelve games in Jimmy Rogers' first season. We update this page as each combination is confirmed.
+
+**Update, November 14:** Iowa State posted its "Cynado threads" for Cincinnati: **all cardinal**, a cardinal helmet with a white and gold center stripe and the Cynado logo, cardinal jersey with "IOWA STATE" across the chest and white and gold sleeve stripes, and cardinal pants.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CycloneFB/status/2121008082029609322"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Iowa State's all-cardinal Cynado uniform for Cincinnati, via @CycloneFB</p>
 
 **Update, October 24:** Iowa State wore the **cardinal helmet, white jersey and cardinal pants** at Arizona, confirmed from the team's game photos, and lost **39-3**.
 
@@ -41,7 +48,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
   <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / Cardinal</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Blackout</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
+  <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ All Cardinal · Cynado</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
 </div>
@@ -72,7 +79,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 **November 7 at Baylor.** White expected. It is Baylor's homecoming at McLane Stadium, which usually means a green-heavy look from the Bears.
 
-**November 14 vs. Cincinnati.** Cardinal expected.
+**November 14 vs. Cincinnati.** ★ Confirmed by Iowa State: **all cardinal**, cardinal helmet with the Cynado logo, cardinal jersey, cardinal pants, from the team's "Cynado threads" post.
 
 **November 20 at UCF.** White expected. A Friday game at the Acrisure Bounce House in Orlando, 5 p.m. Central on FS1.
 

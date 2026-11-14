@@ -3,7 +3,7 @@ title: "Tennessee Uniform Schedule 2026: Every Jersey and When the Vols Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-20"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-14"
 excerpt: "What Tennessee wears every game in 2026, including the new Smokey Grey Neyland tribute against Auburn and orange against Alabama."
 gradient: "linear-gradient(135deg, #FF8200 0%, #3a2408 55%, #58595B 130%)"
 coverImage: "/images/posts/tennessee-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,13 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Tennessee is wearing this week? This is the full Tennessee 2026 uniform schedule, game by game. Orange at Neyland, white on the road, and two dates that break the pattern: the new Smokey Grey, worn against Auburn on October 3 in a 24-14 win, and orange against Alabama on the Third Saturday in October.
+
+**Update, November 14:** Tennessee showed its look for Texas A&M before kickoff: the **white helmet** with the orange stripe and orange Power T, and the **white jersey** with orange names and numbers. The pants were not shown. Texas A&M is in its Operation: Blackout uniform at Kyle Field.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2121655671657488672"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Tennessee's white helmet and white jersey for Texas A&M, via @Vol_Football</p>
 
 **Update, October 24:** Tennessee wore **all white** at South Carolina, as posted: white helmet, white jersey, white pants, confirmed from the team's game photos. South Carolina went all black and won **27-24**.
 
@@ -80,7 +87,7 @@ Twelve games, seven at Neyland, two alternates on the calendar.
   <div style="background: #f1f3f8; color: #333; border: 2px solid #FF8200; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Dark Mode</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White Helmet · White</div></div>
   <div style="background: #FF8200; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -111,7 +118,7 @@ Twelve games, seven at Neyland, two alternates on the calendar.
 
 **November 7 vs. Kentucky**, Knoxville. **Dark Mode, confirmed:** black helmet with an orange Power T, black jersey, black pants, the first black game of the season and the first in the adidas version. [Dark Mode vs. Kentucky](/stories/tennessee-dark-mode-uniforms-kentucky-2026). Worn as announced, confirmed from the game broadcast. Kentucky wore its chrome helmet, white jersey and white pants. **Final: Tennessee 34, Kentucky 6.**
 
-**November 14 at Texas A&M**, College Station. Road. White.
+**November 14 at Texas A&M**, College Station. Road. ★ Confirmed by Tennessee: **white helmet with the orange Power T and white jersey**, from its pregame post. Texas A&M wears its all-black Operation: Blackout look.
 
 **November 21 vs. LSU**, Knoxville. Orange. Worth watching only because LSU occasionally wears white at home, which is not a factor here since the game is at Neyland.
 
