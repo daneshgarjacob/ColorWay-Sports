@@ -141,8 +141,8 @@ Below is every game this week involving an AP Top 25 team or one of the programs
 
 **No. 7 Alabama at No. 16 Mississippi State**, noon, ABC.
 - [Alabama](/stories/alabama-uniform-schedule-2026): **Expected**, white on the road under the crimson helmet.
-- [Mississippi State](/stories/mississippi-state-uniform-schedule-2026): **Confirmed**, maroon helmet with the white retro M-State logo, maroon jersey, white pants, with a Stripe Out in the stands. The Bulldogs wore white at home for last week's White Out against Missouri.
-- **Final: Alabama 56, Mississippi State 23.** ★ Worn: Alabama in the crimson helmet, white jersey and white pants; Mississippi State in the maroon helmet with the retro M-State logo, maroon jersey and white pants, as announced.
+- [Mississippi State](/stories/mississippi-state-uniform-schedule-2026): **Confirmed**, maroon helmet with the white interlocking MSU, maroon jersey, white pants, with a Stripe Out in the stands. The Bulldogs wore white at home for last week's White Out against Missouri.
+- **Final: Alabama 56, Mississippi State 23.** ★ Worn: Alabama in the crimson helmet, white jersey and white pants; Mississippi State in the maroon helmet with the interlocking MSU, maroon jersey and white pants, as announced.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HailStateFB/status/2105780121881792986"></a></blockquote>

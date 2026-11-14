@@ -64,7 +64,7 @@ One thing to understand before the table below: **SEC home teams wear colored je
 
 **September 5 vs. Missouri State, Kyle Field.** Season opener at home. ★ Confirmed: **the maroon home set**. The desert camo Honor and Support uniform was still three games away (it debuted October 3 against Arkansas).
 
-**September 12 vs. Arizona State, Kyle Field.** ★ Confirmed from the broadcast: **maroon jersey, white pants, white helmet**, the standard home set, no change-up for the non-conference visitor. Arizona State came in gold helmets over a white jersey and gold pants, so the field read maroon against gold and white. Texas A&M won 48-20.
+**September 12 vs. Arizona State, Kyle Field.** ★ Confirmed from the broadcast: **maroon jersey, white pants, white helmet** with a red, white and blue flag-style ATM decal, otherwise the standard home set. Arizona State came in gold helmets over a white jersey and gold pants, so the field read maroon against gold and white. Texas A&M won 48-20.
 
 **September 19 vs. Kentucky, Kyle Field.** ★ Confirmed from the broadcast: **maroon jersey and maroon pants** under the maroon helmet, the darker version of the home look rather than the usual white pants. Kentucky came in all white and won 31-21 in the SEC opener, the first home loss of the season for the Aggies.
 

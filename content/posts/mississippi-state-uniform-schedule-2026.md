@@ -54,7 +54,7 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
 
 **September 26 vs. Missouri.** ★ Confirmed by Mississippi State and from the broadcast: **white helmet, white jersey, white pants**, all white at home to match the White Out in the stands. Missouri answered in all black. Kamario Taylor threw for 360 yards and three touchdowns, including a 24-yard go-ahead pass to Sanfrisco Magee with 3:57 left, Fluff Bothwell ran for 122 yards, and Mississippi State won 31-24 to move to 4-0. Our [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026) has the Tigers.
 
-**October 3 vs. Alabama**, noon ET on ABC. ★ Confirmed by Mississippi State: **maroon helmet, maroon jersey, white pants**, revealed in the "Game Five Threads" video. The helmet is the detail: a maroon shell with the white retro M-State logo and a white facemask. The maroon jersey carries white numbers and white sleeve stripes, and white pants finish it, so after last week's White Out the Bulldogs are back in color with a Stripe Out in the stands. The broadcast matched it: maroon helmet, maroon jersey, white pants. Alabama wore the crimson helmet, white jersey and white pants, per our [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026). Keelon Russell threw for 285 yards and three touchdowns and ran for another, and No. 7 Alabama won 56-23 in a meeting of unbeaten teams. Anthony Evans III caught 12 passes for 166 yards and two scores for the Bulldogs, who are 4-1.
+**October 3 vs. Alabama**, noon ET on ABC. ★ Confirmed by Mississippi State: **maroon helmet, maroon jersey, white pants**, revealed in the "Game Five Threads" video. The helmet is the everyday maroon shell with the white interlocking MSU and a white facemask, confirmed in the team's own game photos. The maroon jersey carries white numbers and white sleeve stripes, and white pants finish it, so after last week's White Out the Bulldogs are back in color with a Stripe Out in the stands. The broadcast matched it: maroon helmet, maroon jersey, white pants. Alabama wore the crimson helmet, white jersey and white pants, per our [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026). Keelon Russell threw for 285 yards and three touchdowns and ran for another, and No. 7 Alabama won 56-23 in a meeting of unbeaten teams. Anthony Evans III caught 12 passes for 166 yards and two scores for the Bulldogs, who are 4-1.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HailStateFB/status/2105780121881792986"></a></blockquote>
@@ -80,7 +80,7 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
 
 ## The Bottom Line
 
-The interlocking MSU won. What started as a fan campaign became a 2025 throwback, then most of the 2025 SEC slate, and now it is simply the Mississippi State helmet, on maroon at home and on white on the road. Five games in, the program has worn both of those, plus an all-white White Out against Missouri and the retro M-State logo on the maroon shell against Alabama. The open question is the black set. It has only been worn for big occasions, and it did not come out for Missouri or Alabama, which leaves Oklahoma's October 24 visit as the biggest candidate left in Starkville. The grid above has every date, and we star each cell as it is confirmed.
+The interlocking MSU won. What started as a fan campaign became a 2025 throwback, then most of the 2025 SEC slate, and now it is simply the Mississippi State helmet, on maroon at home and on white on the road. Five games in, the program has worn both of those, plus an all-white White Out against Missouri. The open question is the black set. It has only been worn for big occasions, and it did not come out for Missouri or Alabama, which leaves Oklahoma's October 24 visit as the biggest candidate left in Starkville. The grid above has every date, and we star each cell as it is confirmed.
 
 ## Frequently Asked Questions
 
@@ -90,7 +90,7 @@ Mississippi State wore a black helmet with the State script and a black jersey a
 
 **What are Mississippi State's football uniforms for 2026?**
 
-A maroon home jersey with white numerals and white sleeve stripes, a white road jersey with the same design in maroon, white pants with a maroon stripe, and an all-black alternate set. The helmets are a maroon shell and a white shell, both carrying the interlocking MSU logo, which replaced the State script as the full-time helmet mark this season. Against Alabama on October 3, the maroon shell carried the white retro M-State logo instead. The uniforms are made by adidas.
+A maroon home jersey with white numerals and white sleeve stripes, a white road jersey with the same design in maroon, white pants with a maroon stripe, and an all-black alternate set. The helmets are a maroon shell and a white shell, both carrying the interlocking MSU logo, which replaced the State script as the full-time helmet mark this season.  The uniforms are made by adidas.
 
 **Does Mississippi State have a new alternate uniform in 2026?**
 
