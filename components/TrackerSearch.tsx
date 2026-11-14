@@ -69,7 +69,7 @@ export default function TrackerSearch({
   return (
     <nav
       aria-label="Search games"
-      className="sticky top-[80px] sm:top-[100px] z-40 bg-white/85 supports-[backdrop-filter]:bg-white/75 backdrop-blur-xl border-b border-black/[0.07] shadow-[0_1px_8px_rgba(10,23,51,0.05)]"
+      className="sticky top-[60px] sm:top-[72px] lg:top-[64px] z-40 bg-white/85 supports-[backdrop-filter]:bg-white/75 backdrop-blur-xl border-b border-black/[0.07] shadow-[0_1px_8px_rgba(10,23,51,0.05)]"
     >
       <div className="max-w-[720px] mx-auto px-5 py-2.5 flex items-center gap-3">
         <span className="hidden sm:inline text-[10px] font-bold uppercase tracking-[0.2em] text-[#8A8F98] whitespace-nowrap">

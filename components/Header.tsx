@@ -477,12 +477,18 @@ export default function Header() {
 
   return (
     <>
-      <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-white/85 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.08)]" : "bg-white shadow-none"}`}>
-        <div className="w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] gap-6 lg:h-auto lg:grid lg:grid-cols-[auto_minmax(0,1fr)_auto] lg:grid-rows-[64px_44px] lg:gap-x-12 lg:gap-y-0 lg:items-center">
+      <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-transparent backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.12)]" : "bg-white shadow-none"}`}>
+        {/* Royal band behind the top row only (Jake 11/13): logo row blue, league row stays white on desktop */}
+        <div aria-hidden="true" className={`absolute inset-x-0 top-0 h-[60px] sm:h-[72px] lg:h-[64px] pointer-events-none transition-colors duration-300 ${scrolled ? "bg-[#0025CC]/80" : "bg-[#0025CC]"}`} />
+        {/* Lower half (league row / phone quick bar): frosted white when scrolled, so the whole header reads as glass */}
+        <div aria-hidden="true" className={`absolute inset-x-0 top-[60px] sm:top-[72px] lg:top-[64px] bottom-0 pointer-events-none transition-colors duration-300 ${scrolled ? "bg-white/80" : "bg-white"}`} />
+        <div className="relative w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] gap-6 lg:h-[64px] lg:grid lg:grid-cols-[auto_minmax(0,1fr)_auto] lg:gap-x-12 lg:items-center">
           {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link prefetch={false} href="/" aria-label="ColorWay Sports home" className="flex items-center gap-2 sm:gap-2.5 lg:gap-2 min-w-0 flex-shrink-0">
             <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px] lg:w-[26px] lg:h-[26px]" style={{ minWidth: 26 }} aria-hidden="true">
               {/* B3 badge (Jake 11/12): black outer ring, thick black inner ring, black flag; the centre is see-through so it frosts with the header glass */}
+              {/* Royal header (Jake 11/13): B3 badge as on the socials, white disc, black rings and flag */}
+              <circle cx="512" cy="512" r="420" fill="#ffffff" />
               <circle cx="512" cy="512" r="406" fill="none" stroke="#0b0b0f" strokeWidth="28" />
               <circle cx="512" cy="512" r="340" fill="none" stroke="#0b0b0f" strokeWidth="15" />
               <g fill="#0b0b0f">
@@ -493,7 +499,7 @@ export default function Header() {
             </svg>
             <div className="flex flex-col min-w-0">
               {/* Wordmark only: Jake 11/12 dropped the "Every Jersey. Every Logo. Every Detail." tagline from the header */}
-              <span className="text-[22px] sm:text-[28px] lg:text-[25px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#0b0b0f", whiteSpace: "nowrap" }}>
+              <span className="text-[22px] sm:text-[28px] lg:text-[25px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", whiteSpace: "nowrap" }}>
                 ColorWay Sports
               </span>
             </div>
@@ -504,8 +510,8 @@ export default function Header() {
               league rail below carries all the section navigation. */}
           <div ref={searchBoxRef} className="hidden lg:block flex-1 min-w-0 relative">
             <form onSubmit={handleSearch}>
-              <div className="flex items-center gap-2 w-full bg-black/[0.04] hover:bg-black/[0.06] focus-within:bg-black/[0.07] border border-black/[0.08] rounded-full px-4 py-[7px] transition-colors">
-                <svg className="w-4 h-4 text-black/45 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div className="flex items-center gap-2 w-full bg-white/[0.14] hover:bg-white/[0.2] focus-within:bg-white/[0.24] border border-white/[0.22] rounded-full px-4 py-[7px] transition-colors">
+                <svg className="w-4 h-4 text-white/75 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
                 <input
@@ -520,7 +526,7 @@ export default function Header() {
                   aria-expanded={sugOpen && hasSuggestions}
                   role="combobox"
                   aria-controls="discover-suggestions"
-                  className="w-full bg-transparent text-[13.5px] text-black placeholder:text-black/45 focus:outline-none"
+                  className="w-full bg-transparent text-[13.5px] text-white placeholder:text-white/70 focus:outline-none"
                 />
               </div>
             </form>
@@ -581,7 +587,7 @@ export default function Header() {
               <Link prefetch={false}
                 key={link.label}
                 href={link.href}
-                className="text-[13.5px] tracking-[0.01em] text-[#0b0b0f]/80 hover:text-[#0025CC] hover:bg-[#0025CC]/[0.07] rounded-full px-3 py-1.5 transition-colors"
+                className="text-[13.5px] tracking-[0.01em] text-white/90 hover:text-white hover:bg-white/[0.12] rounded-full px-3 py-1.5 transition-colors"
                 style={{ fontFamily: "var(--font-display)", fontWeight: 700 /* nav uses the logo font (Jake 10/25) */ }}
               >
                 {link.label}
@@ -594,7 +600,7 @@ export default function Header() {
           <div className="lg:hidden flex items-center flex-shrink-0">
           <button
             type="button"
-            className="relative w-9 h-10 flex items-center justify-center text-black/85 hover:text-black transition-colors"
+            className="relative w-9 h-10 flex items-center justify-center text-white hover:text-white/80 transition-colors"
             onClick={() => {
               markOpened("m:drawer");
               setMobileOpen(true);
@@ -619,180 +625,198 @@ export default function Header() {
             }}
             aria-label="Toggle menu"
           >
-            <span className={`absolute left-2 block w-6 h-0.5 bg-[#0b0b0f] transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
-            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-[#0b0b0f] transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
-            <span className={`absolute left-2 block w-6 h-0.5 bg-[#0b0b0f] transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
+            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
           </button>
           </div>
-          {/* League row (Jake 11/12): second grid row, centred under the search bar so
-              logo / search / links and the leagues all share one centre line. */}
-          <nav className="hidden lg:flex col-start-2 row-start-2 justify-self-center items-center gap-1 whitespace-nowrap">
-            {/* League dropdowns */}
-            {leagues.map((league) => (
-              <div
-                key={league.label}
-                className="relative"
-                onMouseEnter={() => handleMouseEnter(league.label)}
-                onMouseLeave={handleMouseLeave}
-              >
-                <button
-                  className="text-[14px] font-bold text-[#0b0b0f]/85 transition-colors flex items-center gap-1 hover:text-[#0025CC] whitespace-nowrap rounded-full px-3 py-1.5 hover:bg-[#0025CC]/[0.07]"
-                  style={{ "--league-accent": leagueColor(league.label), fontFamily: "var(--font-display)", fontWeight: 700 /* logo font (Jake 10/25) */ } as React.CSSProperties}
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    // Leagues with no team list go straight to their stories page
-                    if (!hasDropdown(league)) {
-                      window.location.href = league.storiesLink.href;
-                      return;
-                    }
-                    markOpened(league.label);
-                    setOpenDropdown(openDropdown === league.label ? null : league.label);
-                    setOpenSub(null);
-                  }}
-                >
-                  {/* Text-only rail (Jake 11/12): league marks live inside each menu, not in the bar */}
-                  {league.label}
-                  {hasDropdown(league) && (
-                    <svg className={`w-3 h-3 transition-transform duration-200 ${openDropdown === league.label ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                    </svg>
-                  )}
-                </button>
+        </div>
 
-                {/* Dropdown — only for leagues with teams */}
-                {hasDropdown(league) && (
+
+      </header>
+
+      {/* Desktop league row (Jake 11/13): outside the sticky header, so only the
+          blue top bar stays pinned when you scroll. Invisible copies of the logo
+          and the links hold the same three columns, so the leagues stay centred
+          under the search bar exactly as before. */}
+      <div className="hidden lg:block relative z-40 bg-white border-b border-black/[0.08]">
+        <div className="w-full max-w-[1140px] mx-auto px-8 grid grid-cols-[auto_minmax(0,1fr)_auto] gap-x-12 items-center h-[44px]">
+            <span aria-hidden="true" className="invisible flex items-center gap-2">
+              <span className="block w-[26px] h-[26px]" />
+              <span className="text-[25px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, whiteSpace: "nowrap" }}>ColorWay Sports</span>
+            </span>
+              {/* League row (Jake 11/12): centred under the search bar so
+                  logo / search / links and the leagues all share one centre line. */}
+              <nav className="flex col-start-2 justify-self-center items-center gap-1 whitespace-nowrap">
+                {/* League dropdowns */}
+                {leagues.map((league) => (
                   <div
-                    // The last rail item ("More") sits at the right edge once the
-                    // rail fills a 1024px screen; a centred 280px panel would hang
-                    // off the page and add a horizontal scrollbar, so it right-aligns.
-                    className={`absolute top-full ${league.label === "More" ? "right-0" : "left-1/2 -translate-x-1/2"} mt-2 max-w-[calc(100vw-2rem)] bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
-                      openDropdown === league.label
-                        ? "opacity-100 scale-y-100 pointer-events-auto"
-                        : "opacity-0 scale-y-95 pointer-events-none"
-                    }`}
-                    style={{ width: "310px", maxHeight: "420px" }}
+                    key={league.label}
+                    className="relative"
                     onMouseEnter={() => handleMouseEnter(league.label)}
                     onMouseLeave={handleMouseLeave}
                   >
-                    <div className="overflow-y-auto max-h-[420px] py-1">
-                      {/* Stories link at the top, with the league logo */}
-                      <Link prefetch={false}
-                        href={league.storiesLink.href}
-                        className="flex items-center gap-2 px-4 py-2.5 text-[13px] font-bold text-orange hover:bg-orange/5 transition-colors border-b border-border"
-                        onClick={() => setOpenDropdown(null)}
+                    <button
+                      className="text-[14px] font-bold text-[#0b0b0f]/85 transition-colors flex items-center gap-1 hover:text-[#0025CC] whitespace-nowrap rounded-full px-3 py-1.5 hover:bg-[#0025CC]/[0.07]"
+                      style={{ "--league-accent": leagueColor(league.label), fontFamily: "var(--font-display)", fontWeight: 700 /* logo font (Jake 10/25) */ } as React.CSSProperties}
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        // Leagues with no team list go straight to their stories page
+                        if (!hasDropdown(league)) {
+                          window.location.href = league.storiesLink.href;
+                          return;
+                        }
+                        markOpened(league.label);
+                        setOpenDropdown(openDropdown === league.label ? null : league.label);
+                        setOpenSub(null);
+                      }}
+                    >
+                      {/* Text-only rail (Jake 11/12): league marks live inside each menu, not in the bar */}
+                      {league.label}
+                      {hasDropdown(league) && (
+                        <svg className={`w-3 h-3 transition-transform duration-200 ${openDropdown === league.label ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                        </svg>
+                      )}
+                    </button>
+
+                    {/* Dropdown — only for leagues with teams */}
+                    {hasDropdown(league) && (
+                      <div
+                        // The last rail item ("More") sits at the right edge once the
+                        // rail fills a 1024px screen; a centred 280px panel would hang
+                        // off the page and add a horizontal scrollbar, so it right-aligns.
+                        className={`absolute top-full ${league.label === "More" ? "right-0" : "left-1/2 -translate-x-1/2"} mt-2 max-w-[calc(100vw-2rem)] bg-white supports-[backdrop-filter]:bg-white/[0.96] backdrop-blur-xl rounded-2xl shadow-xl border border-black/10 overflow-hidden transition-all duration-200 origin-top ${
+                          openDropdown === league.label
+                            ? "opacity-100 scale-y-100 pointer-events-auto"
+                            : "opacity-0 scale-y-95 pointer-events-none"
+                        }`}
+                        style={{ width: "310px", maxHeight: "420px" }}
+                        onMouseEnter={() => handleMouseEnter(league.label)}
+                        onMouseLeave={handleMouseLeave}
                       >
-                        {league.leagueLogo && (openedMenus.has(league.label) ? (
-                          <img src={league.leagueLogo} alt="" className="w-5 h-5 object-contain flex-shrink-0" />
-                        ) : (
-                          <span className="w-5 h-5 flex-shrink-0" />
-                        ))}
-                        {league.storiesLink.label}
-                      </Link>
-                      {/* Tracker under each league (Jake 11/12): replaces the "Uniform Trackers" links on the rail */}
-                      {trackerLinks.filter((t) => t.league === league.label).map((t) => (
-                        <div key={t.href} className="flex items-center border-b border-border">
-                          <Link prefetch={false} href={t.href} className="flex-1 min-w-0 flex items-center gap-2 px-4 py-2.5 text-[13px] font-bold text-[#0b0b0f] whitespace-nowrap hover:text-[#0025CC] hover:bg-[#0025CC]/[0.05] transition-colors" onClick={() => setOpenDropdown(null)}>
-                            <span className="w-5 h-5 flex-shrink-0 flex items-center justify-center" aria-hidden="true"><span className="w-2 h-2 rounded-full bg-[#E11D2E] shadow-[0_0_0_3px_rgba(225,29,46,0.18)]" /></span>
-                            {t.league} Uniform Tracker
+                        <div className="overflow-y-auto max-h-[420px] py-1">
+                          {/* Stories link at the top, with the league logo */}
+                          <Link prefetch={false}
+                            href={league.storiesLink.href}
+                            className="flex items-center gap-2 px-4 py-2.5 text-[13px] font-bold text-orange hover:bg-orange/5 transition-colors border-b border-border"
+                            onClick={() => setOpenDropdown(null)}
+                          >
+                            {league.leagueLogo && (openedMenus.has(league.label) ? (
+                              <img src={league.leagueLogo} alt="" className="w-5 h-5 object-contain flex-shrink-0" />
+                            ) : (
+                              <span className="w-5 h-5 flex-shrink-0" />
+                            ))}
+                            {league.storiesLink.label}
                           </Link>
-                          <Link prefetch={false} href={t.calendar.href} className="pr-4 pl-1 py-2.5 text-[12px] font-semibold text-steel hover:text-[#0025CC] transition-colors" onClick={() => setOpenDropdown(null)}>{t.calendar.label}</Link>
-                        </div>
-                      ))}
-
-                      {/* Teams (or, under Soccer, competitions with their clubs behind a caret) */}
-                      {league.teams.map((team) => {
-                        const clubs = league.subTeams?.[team];
-                        const subOpen = openSub === team;
-                        return (
-                          <div key={team}>
-                            <div
-                              className="flex items-center hover:bg-orange/5 transition-colors"
-                              onMouseEnter={() => clubs && setOpenSub(team)}
-                            >
-                              <Link prefetch={false}
-                                href={teamHref(league.label, team)}
-                                className="flex items-center gap-2.5 px-4 py-2 text-[13px] text-gray-medium hover:text-orange transition-colors flex-1 min-w-0"
-                                onClick={() => setOpenDropdown(null)}
-                              >
-                                {teamLogos[team] && openedMenus.has(league.label) ? (
-                                  <img src={teamLogos[team]} alt="" className="w-5 h-5 object-contain flex-shrink-0" />
-                                ) : (
-                                  <span className="w-5 h-5 flex-shrink-0" />
-                                )}
-                                {team}
+                          {/* Tracker under each league (Jake 11/12): replaces the "Uniform Trackers" links on the rail */}
+                          {trackerLinks.filter((t) => t.league === league.label).map((t) => (
+                            <div key={t.href} className="flex items-center border-b border-border">
+                              <Link prefetch={false} href={t.href} className="flex-1 min-w-0 flex items-center gap-2 px-4 py-2.5 text-[13px] font-bold text-[#0b0b0f] whitespace-nowrap hover:text-[#0025CC] hover:bg-[#0025CC]/[0.05] transition-colors" onClick={() => setOpenDropdown(null)}>
+                                <span className="w-5 h-5 flex-shrink-0 flex items-center justify-center" aria-hidden="true"><span className="w-2 h-2 rounded-full bg-[#E11D2E] shadow-[0_0_0_3px_rgba(225,29,46,0.18)]" /></span>
+                                {t.league} Uniform Tracker
                               </Link>
-                              {clubs && (
-                                <button
-                                  type="button"
-                                  aria-label={`Show ${team} ${league.label === "CFB" ? "schools" : "clubs"}`}
-                                  aria-expanded={subOpen}
-                                  // stopPropagation: the document click handler that closes
-                                  // the dropdown on outside clicks would otherwise shut it.
-                                  onClick={(e) => { e.preventDefault(); e.stopPropagation(); setOpenSub(subOpen ? null : team); }}
-                                  className="px-3 py-2 text-gray-medium hover:text-orange transition-colors"
-                                >
-                                  <svg className={`w-3 h-3 transition-transform duration-200 ${subOpen ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M19 9l-7 7-7-7" />
-                                  </svg>
-                                </button>
-                              )}
+                              <Link prefetch={false} href={t.calendar.href} className="pr-4 pl-1 py-2.5 text-[12px] font-semibold text-steel hover:text-[#0025CC] transition-colors" onClick={() => setOpenDropdown(null)}>{t.calendar.label}</Link>
                             </div>
-                            {clubs && subOpen && (
-                              <div className="bg-[#f7f9fc] border-y border-border py-1">
-                                {clubs.map((club) => (
+                          ))}
+
+                          {/* Teams (or, under Soccer, competitions with their clubs behind a caret) */}
+                          {league.teams.map((team) => {
+                            const clubs = league.subTeams?.[team];
+                            const subOpen = openSub === team;
+                            return (
+                              <div key={team}>
+                                <div
+                                  className="flex items-center hover:bg-orange/5 transition-colors"
+                                  onMouseEnter={() => clubs && setOpenSub(team)}
+                                >
                                   <Link prefetch={false}
-                                    key={club}
-                                    href={teamHref(league.label, club)}
-                                    className="flex items-center gap-2.5 pl-9 pr-4 py-1.5 text-[12.5px] text-gray-medium hover:bg-orange/5 hover:text-orange transition-colors"
-                                    onClick={() => { setOpenDropdown(null); setOpenSub(null); }}
+                                    href={teamHref(league.label, team)}
+                                    className="flex items-center gap-2.5 px-4 py-2 text-[13px] text-gray-medium hover:text-orange transition-colors flex-1 min-w-0"
+                                    onClick={() => setOpenDropdown(null)}
                                   >
-                                    {teamLogos[club] ? (
-                                      <img src={teamLogos[club]} alt="" className="w-4 h-4 object-contain flex-shrink-0" />
+                                    {teamLogos[team] && openedMenus.has(league.label) ? (
+                                      <img src={teamLogos[team]} alt="" className="w-5 h-5 object-contain flex-shrink-0" />
                                     ) : (
-                                      <span className="w-4 h-4 flex-shrink-0" />
+                                      <span className="w-5 h-5 flex-shrink-0" />
                                     )}
-                                    {club}
+                                    {team}
                                   </Link>
-                                ))}
+                                  {clubs && (
+                                    <button
+                                      type="button"
+                                      aria-label={`Show ${team} ${league.label === "CFB" ? "schools" : "clubs"}`}
+                                      aria-expanded={subOpen}
+                                      // stopPropagation: the document click handler that closes
+                                      // the dropdown on outside clicks would otherwise shut it.
+                                      onClick={(e) => { e.preventDefault(); e.stopPropagation(); setOpenSub(subOpen ? null : team); }}
+                                      className="px-3 py-2 text-gray-medium hover:text-orange transition-colors"
+                                    >
+                                      <svg className={`w-3 h-3 transition-transform duration-200 ${subOpen ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M19 9l-7 7-7-7" />
+                                      </svg>
+                                    </button>
+                                  )}
+                                </div>
+                                {clubs && subOpen && (
+                                  <div className="bg-[#f7f9fc] border-y border-border py-1">
+                                    {clubs.map((club) => (
+                                      <Link prefetch={false}
+                                        key={club}
+                                        href={teamHref(league.label, club)}
+                                        className="flex items-center gap-2.5 pl-9 pr-4 py-1.5 text-[12.5px] text-gray-medium hover:bg-orange/5 hover:text-orange transition-colors"
+                                        onClick={() => { setOpenDropdown(null); setOpenSub(null); }}
+                                      >
+                                        {teamLogos[club] ? (
+                                          <img src={teamLogos[club]} alt="" className="w-4 h-4 object-contain flex-shrink-0" />
+                                        ) : (
+                                          <span className="w-4 h-4 flex-shrink-0" />
+                                        )}
+                                        {club}
+                                      </Link>
+                                    ))}
+                                  </div>
+                                )}
                               </div>
-                            )}
-                          </div>
-                        );
-                      })}
+                            );
+                          })}
 
-                      {/* Extra series links (e.g., NASCAR under Racing) */}
-                      {league.extraLinks?.map((l) => (
-                        <Link prefetch={false}
-                          key={l.label}
-                          href={l.href}
-                          className="block px-4 py-2.5 text-[13px] font-bold text-orange hover:bg-orange/5 transition-colors border-t border-border"
-                          onClick={() => setOpenDropdown(null)}
-                        >
-                          {l.label}
-                        </Link>
-                      ))}
-                    </div>
+                          {/* Extra series links (e.g., NASCAR under Racing) */}
+                          {league.extraLinks?.map((l) => (
+                            <Link prefetch={false}
+                              key={l.label}
+                              href={l.href}
+                              className="block px-4 py-2.5 text-[13px] font-bold text-orange hover:bg-orange/5 transition-colors border-t border-border"
+                              onClick={() => setOpenDropdown(null)}
+                            >
+                              {l.label}
+                            </Link>
+                          ))}
+                        </div>
+                      </div>
+                    )}
                   </div>
-                )}
-              </div>
-            ))}
-          </nav>
+                ))}
+              </nav>
+            <span aria-hidden="true" className="invisible flex items-center gap-0.5 -mx-3">
+              {navLinks.map((link) => (
+                <span key={link.label} className="text-[13.5px] tracking-[0.01em] px-3 py-1.5" style={{ fontFamily: "var(--font-display)", fontWeight: 700 }}>{link.label}</span>
+              ))}
+            </span>
         </div>
+      </div>
 
-        <div aria-hidden="true" className="hidden lg:block absolute inset-x-0 top-[64px] border-t border-black/[0.06] pointer-events-none" />
+      {/* Phone/tablet quick bar (Jake 11/4, ESPN app style): the three places
+          a fan goes most, one tap from every page. Outside the sticky header (Jake 11/13 concept): it scrolls away and only the blue row stays pinned. Not pinned to the bottom of
+          the screen, where Mediavine's sticky phone ad lives. */}
+      <nav className="lg:hidden bg-white border-b border-black/[0.08] flex justify-around h-[40px] items-stretch">
+        {[{ label: "Home", href: "/" }, { label: "My Teams", href: "/my-teams" }, { label: "Tonight", href: "/tonight" }, { label: "Stories", href: "/news" }].map((l) => (
+          <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#0b0b0f]" style={{ fontFamily: "var(--font-display)" }}>
+            {l.label}
+          </Link>
+        ))}
+      </nav>
 
-        {/* Phone/tablet quick bar (Jake 11/4, ESPN app style): the three places
-            a fan goes most, one tap from every page. Not pinned to the bottom of
-            the screen, where Mediavine's sticky phone ad lives. */}
-        <nav className="lg:hidden bg-white border-t border-black/[0.06] flex justify-around h-[40px] items-stretch">
-          {[{ label: "Home", href: "/" }, { label: "My Teams", href: "/my-teams" }, { label: "Tonight", href: "/tonight" }, { label: "Stories", href: "/news" }].map((l) => (
-            <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#0b0b0f]" style={{ fontFamily: "var(--font-display)" }}>
-              {l.label}
-            </Link>
-          ))}
-        </nav>
-
-      </header>
 
       {/* Mobile menu — frosted glass sheet that starts below the sticky header.
           z-50 so it wins over the sticky TrackerJumpNav (z-40) on long tracker
