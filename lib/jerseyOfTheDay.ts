@@ -28,6 +28,10 @@ export type JotdEntry = {
   credit: JotdCredit;
   /** A team's own X post showing the jersey in a real game, embedded under the photo. */
   tweet?: { url: string; label: string };
+  /** Jake 11/14: lead with the team's own X post (a real photo, embedded, nothing
+   *  downloaded) in the big image spot; `image` stays for the homepage card and
+   *  share previews. */
+  leadTweet?: boolean;
   worn: { date: string; matchup: string; status: JotdStatus; note?: string };
   why: string;
   whyPlaceholder?: boolean;

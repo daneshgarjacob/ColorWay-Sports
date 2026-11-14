@@ -4,6 +4,7 @@ import { imgFitClass, jotdItemKey, shortDate, shortDow, wornWhen, type JotdCredi
 import { AFFILIATE_REL, jotdShopHref, on } from "@/lib/affiliates";
 import GradeIt from "@/components/GradeIt";
 import { gradeItReserveScript } from "@/lib/grades/reserve";
+import TwitterEmbed from "@/components/TwitterEmbed";
 
 const SITE = "https://www.colorwaysports.com";
 
@@ -70,6 +71,19 @@ export function TodayFeature({ entry, isToday }: { entry: JotdEntry; isToday: bo
   return (
     <article className="story-card bg-white rounded-xl overflow-hidden grid grid-cols-1 lg:grid-cols-[minmax(0,11fr)_minmax(0,9fr)]">
       <figure className="m-0">
+        {entry.leadTweet && entry.tweet ? (
+        <div className="relative h-full bg-[#f1f3f8] px-3 pt-12 pb-4 sm:px-6 flex justify-center">
+          <div className="w-full max-w-[520px]">
+            <blockquote className="twitter-tweet" data-dnt="true" data-conversation="none">
+              <a href={entry.tweet.url}>{entry.tweet.url}</a>
+            </blockquote>
+            <TwitterEmbed />
+          </div>
+          <span className="absolute left-3 top-3 font-display text-[10px] font-extrabold uppercase tracking-[0.18em] px-2.5 py-[5px] rounded bg-white/95 text-black">
+            {isToday ? "Today" : shortDate(entry.date)} · Jersey of the Day
+          </span>
+        </div>
+        ) : (
         <div className="relative overflow-hidden aspect-[4/5] sm:aspect-[4/3] lg:aspect-auto lg:h-full lg:min-h-[560px] bg-[#f1f3f8]">
           <img
             src={entry.image}
@@ -84,6 +98,7 @@ export function TodayFeature({ entry, isToday }: { entry: JotdEntry; isToday: bo
             {isToday ? "Today" : shortDate(entry.date)} · Jersey of the Day
           </span>
         </div>
+        )}
       </figure>
 
       <div className="p-5 sm:p-7 lg:p-8 flex flex-col">
