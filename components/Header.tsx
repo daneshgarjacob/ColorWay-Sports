@@ -413,10 +413,24 @@ export default function Header() {
 
   // Solid navy at the top, frosted liquid glass once you scroll
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 12);
+    // Hysteresis (Jake 11/13: "make sure it doesn't look glitchy"): turns to glass
+    // past 24px and back to blue under 8px, so a page resting near the top never
+    // flickers between the two. rAF keeps it to one update per frame.
+    let raf = 0;
+    const onScroll = () => {
+      if (raf) return;
+      raf = requestAnimationFrame(() => {
+        raf = 0;
+        const y = window.scrollY;
+        setScrolled((was) => (was ? y > 8 : y > 24));
+      });
+    };
     onScroll();
     window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      if (raf) cancelAnimationFrame(raf);
+    };
   }, []);
 
   // Teams first, then stories. Both capped so the panel never runs off-screen.
@@ -477,15 +491,15 @@ export default function Header() {
 
   return (
     <>
-      <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-transparent backdrop-blur-[22px] backdrop-saturate-[0.9] backdrop-brightness-[0.92] shadow-[0_6px_24px_rgba(0,18,110,0.22)]" : "bg-white shadow-none"}`}>
+      <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-[450ms] ease-[cubic-bezier(0.22,0.8,0.2,1)] ${scrolled ? "bg-transparent backdrop-blur-[24px] backdrop-saturate-[1.6] shadow-[0_4px_20px_rgba(10,23,51,0.10)]" : "bg-white shadow-none"}`}>
         {/* Royal band behind the top row only (Jake 11/13): logo row blue, league row stays white on desktop */}
-        <div aria-hidden="true" className={`absolute inset-x-0 top-0 h-[60px] sm:h-[72px] lg:h-[64px] pointer-events-none transition-colors duration-300 ${scrolled ? "bg-[#0A3FD0]/[0.9] shadow-[inset_0_1px_0_rgba(255,255,255,0.28),inset_0_-1px_0_rgba(255,255,255,0.10)]" : "bg-[#0025CC]"}`} />
+        <div aria-hidden="true" className={`absolute inset-x-0 top-0 h-[60px] sm:h-[72px] lg:h-[64px] pointer-events-none transition-[background-color,box-shadow] duration-[450ms] ease-[cubic-bezier(0.22,0.8,0.2,1)] ${scrolled ? "bg-white/[0.62] shadow-[inset_0_1px_0_rgba(255,255,255,0.7),inset_0_-1px_0_rgba(0,0,0,0.04)]" : "bg-[#0025CC]"}`} />
         {/* Lower half (league row / phone quick bar): frosted white when scrolled, so the whole header reads as glass */}
-        <div aria-hidden="true" className={`absolute inset-x-0 top-[60px] sm:top-[72px] lg:top-[64px] bottom-0 pointer-events-none transition-colors duration-300 ${scrolled ? "bg-white/80" : "bg-white"}`} />
+        <div aria-hidden="true" className={`absolute inset-x-0 top-[60px] sm:top-[72px] lg:top-[64px] bottom-0 pointer-events-none transition-[background-color,box-shadow] duration-[450ms] ease-[cubic-bezier(0.22,0.8,0.2,1)] ${scrolled ? "bg-white/80" : "bg-white"}`} />
         <div className="relative w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] gap-6 lg:h-[64px] lg:grid lg:grid-cols-[auto_minmax(0,1fr)_auto] lg:gap-x-12 lg:items-center">
           {/* Logo — Outline Stamp + Hanken wordmark */}
           <Link prefetch={false} href="/" aria-label="ColorWay Sports home" className="flex items-center gap-2 sm:gap-2.5 lg:gap-2 min-w-0 flex-shrink-0">
-            <svg width="26" height="26" viewBox="92 92 840 840" className="sm:w-[29px] sm:h-[29px] lg:w-[26px] lg:h-[26px]" style={{ minWidth: 26 }} aria-hidden="true">
+            <svg width="28" height="28" viewBox="92 92 840 840" className="sm:w-[31px] sm:h-[31px] lg:w-[28px] lg:h-[28px]" style={{ minWidth: 28 }} aria-hidden="true">
               {/* B3 badge (Jake 11/12): black outer ring, thick black inner ring, black flag; the centre is see-through so it frosts with the header glass */}
               {/* Royal header (Jake 11/13): B3 badge as on the socials, white disc, black rings and flag */}
               <circle cx="512" cy="512" r="420" fill="#ffffff" />
@@ -499,7 +513,7 @@ export default function Header() {
             </svg>
             <div className="flex flex-col min-w-0">
               {/* Wordmark only: Jake 11/12 dropped the "Every Jersey. Every Logo. Every Detail." tagline from the header */}
-              <span className="text-[22px] sm:text-[28px] lg:text-[25px] max-[359px]:text-[19px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: "#ffffff", whiteSpace: "nowrap" }}>
+              <span className="text-[24px] sm:text-[29px] lg:text-[27px] max-[359px]:text-[20px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, color: scrolled ? "#0b0b0f" : "#ffffff", whiteSpace: "nowrap", transition: "color 450ms cubic-bezier(0.22,0.8,0.2,1)" }}>
                 ColorWay Sports
               </span>
             </div>
@@ -510,8 +524,8 @@ export default function Header() {
               league rail below carries all the section navigation. */}
           <div ref={searchBoxRef} className="hidden lg:block flex-1 min-w-0 relative">
             <form onSubmit={handleSearch}>
-              <div className="flex items-center gap-2 w-full bg-white/[0.14] hover:bg-white/[0.2] focus-within:bg-white/[0.24] border border-white/[0.22] rounded-full px-4 py-[7px] transition-colors">
-                <svg className="w-4 h-4 text-white/75 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div className={`flex items-center gap-2 w-full rounded-full px-4 py-[7px] transition-colors duration-[450ms] ease-[cubic-bezier(0.22,0.8,0.2,1)] border ${scrolled ? "bg-black/[0.05] hover:bg-black/[0.07] focus-within:bg-black/[0.08] border-black/[0.08]" : "bg-white/[0.14] hover:bg-white/[0.2] focus-within:bg-white/[0.24] border-white/[0.22]"}`}>
+                <svg className={`w-4 h-4 flex-shrink-0 transition-colors duration-[450ms] ease-[cubic-bezier(0.22,0.8,0.2,1)] ${scrolled ? "text-black/45" : "text-white/75"}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
                 <input
@@ -526,7 +540,7 @@ export default function Header() {
                   aria-expanded={sugOpen && hasSuggestions}
                   role="combobox"
                   aria-controls="discover-suggestions"
-                  className="w-full bg-transparent text-[13.5px] text-white placeholder:text-white/70 focus:outline-none"
+                  className={`w-full bg-transparent text-[13.5px] focus:outline-none ${scrolled ? "text-black placeholder:text-black/45" : "text-white placeholder:text-white/70"}`}
                 />
               </div>
             </form>
@@ -587,7 +601,7 @@ export default function Header() {
               <Link prefetch={false}
                 key={link.label}
                 href={link.href}
-                className="text-[13.5px] tracking-[0.01em] text-white/90 hover:text-white hover:bg-white/[0.12] rounded-full px-3 py-1.5 transition-colors"
+                className={`text-[13.5px] tracking-[0.01em] rounded-full px-3 py-1.5 transition-colors duration-[450ms] ease-[cubic-bezier(0.22,0.8,0.2,1)] ${scrolled ? "text-[#0b0b0f]/80 hover:text-[#0025CC] hover:bg-[#0025CC]/[0.07]" : "text-white/90 hover:text-white hover:bg-white/[0.12]"}`}
                 style={{ fontFamily: "var(--font-display)", fontWeight: 700 /* nav uses the logo font (Jake 10/25) */ }}
               >
                 {link.label}
@@ -600,7 +614,7 @@ export default function Header() {
           <div className="lg:hidden flex items-center flex-shrink-0">
           <button
             type="button"
-            className="relative w-9 h-10 flex items-center justify-center text-white hover:text-white/80 transition-colors"
+            className={`relative w-9 h-10 flex items-center justify-center transition-colors duration-[450ms] ease-[cubic-bezier(0.22,0.8,0.2,1)] ${scrolled ? "text-black/85 hover:text-black" : "text-white hover:text-white/80"}`}
             onClick={() => {
               markOpened("m:drawer");
               setMobileOpen(true);
@@ -625,9 +639,9 @@ export default function Header() {
             }}
             aria-label="Toggle menu"
           >
-            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
-            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
-            <span className={`absolute left-2 block w-6 h-0.5 bg-white transition-all duration-300 ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 transition-all duration-300 ${scrolled ? "bg-[#0b0b0f]" : "bg-white"} ${mobileOpen ? "top-[19px] rotate-45" : "top-[12px]"}`} />
+            <span className={`absolute left-2 top-[19px] block w-6 h-0.5 transition-all duration-300 ${scrolled ? "bg-[#0b0b0f]" : "bg-white"} ${mobileOpen ? "opacity-0 scale-x-0" : ""}`} />
+            <span className={`absolute left-2 block w-6 h-0.5 transition-all duration-300 ${scrolled ? "bg-[#0b0b0f]" : "bg-white"} ${mobileOpen ? "top-[19px] -rotate-45" : "top-[26px]"}`} />
           </button>
           </div>
         </div>
@@ -639,11 +653,11 @@ export default function Header() {
           blue top bar stays pinned when you scroll. Invisible copies of the logo
           and the links hold the same three columns, so the leagues stay centred
           under the search bar exactly as before. */}
-      <div className="hidden lg:block relative z-40 bg-white border-b border-black/[0.08]">
+      <div className="hidden lg:block relative z-40 bg-[#F2F4F8] border-b border-black/[0.07]">
         <div className="w-full max-w-[1140px] mx-auto px-8 grid grid-cols-[auto_minmax(0,1fr)_auto] gap-x-12 items-center h-[44px]">
             <span aria-hidden="true" className="invisible flex items-center gap-2">
-              <span className="block w-[26px] h-[26px]" />
-              <span className="text-[25px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, whiteSpace: "nowrap" }}>ColorWay Sports</span>
+              <span className="block w-[28px] h-[28px]" />
+              <span className="text-[27px] tracking-[-0.02em] leading-none" style={{ fontFamily: "var(--font-display)", fontWeight: 800, whiteSpace: "nowrap" }}>ColorWay Sports</span>
             </span>
               {/* League row (Jake 11/12): centred under the search bar so
                   logo / search / links and the leagues all share one centre line. */}
