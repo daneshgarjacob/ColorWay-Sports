@@ -477,9 +477,9 @@ export default function Header() {
 
   return (
     <>
-      <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-transparent backdrop-blur-2xl backdrop-saturate-150 shadow-[0_2px_18px_rgba(10,23,51,0.12)]" : "bg-white shadow-none"}`}>
+      <header className={`sticky top-0 z-50 border-b border-black/[0.08] transition-[background-color,box-shadow,backdrop-filter] duration-300 ${scrolled ? "bg-transparent backdrop-blur-[22px] backdrop-saturate-[0.9] backdrop-brightness-[0.92] shadow-[0_6px_24px_rgba(0,18,110,0.22)]" : "bg-white shadow-none"}`}>
         {/* Royal band behind the top row only (Jake 11/13): logo row blue, league row stays white on desktop */}
-        <div aria-hidden="true" className={`absolute inset-x-0 top-0 h-[60px] sm:h-[72px] lg:h-[64px] pointer-events-none transition-colors duration-300 ${scrolled ? "bg-[#0025CC]/80" : "bg-[#0025CC]"}`} />
+        <div aria-hidden="true" className={`absolute inset-x-0 top-0 h-[60px] sm:h-[72px] lg:h-[64px] pointer-events-none transition-colors duration-300 ${scrolled ? "bg-[#0A3FD0]/[0.9] shadow-[inset_0_1px_0_rgba(255,255,255,0.28),inset_0_-1px_0_rgba(255,255,255,0.10)]" : "bg-[#0025CC]"}`} />
         {/* Lower half (league row / phone quick bar): frosted white when scrolled, so the whole header reads as glass */}
         <div aria-hidden="true" className={`absolute inset-x-0 top-[60px] sm:top-[72px] lg:top-[64px] bottom-0 pointer-events-none transition-colors duration-300 ${scrolled ? "bg-white/80" : "bg-white"}`} />
         <div className="relative w-full max-w-[1140px] mx-auto px-4 sm:px-8 flex items-center justify-between h-[60px] sm:h-[72px] gap-6 lg:h-[64px] lg:grid lg:grid-cols-[auto_minmax(0,1fr)_auto] lg:gap-x-12 lg:items-center">
