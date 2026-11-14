@@ -304,7 +304,7 @@ const navLinks = [
   // (sportslogos.net model); "Latest" (/news) now holds the newest stories
   // and The Wire, and /stories is still reached from there and the footer.
   { label: "My Teams", href: "/my-teams" },
-  { label: "Tonight's Uniforms", href: "/tonight" },
+  { label: "Today's Uniforms", href: "/tonight" },
   { label: "Stories", href: "/news" },
   { label: "Contact", href: "/contact" },
 ];
@@ -824,9 +824,16 @@ export default function Header() {
           a fan goes most, one tap from every page. Outside the sticky header (Jake 11/13 concept): it scrolls away and only the blue row stays pinned. Not pinned to the bottom of
           the screen, where Mediavine's sticky phone ad lives. */}
       <nav className="lg:hidden bg-white border-b border-black/[0.08] flex justify-around h-[40px] items-stretch">
-        {[{ label: "Home", href: "/" }, { label: "My Teams", href: "/my-teams" }, { label: "Tonight", href: "/tonight" }, { label: "Stories", href: "/news" }].map((l) => (
-          <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 text-[13px] font-extrabold text-[#0b0b0f]" style={{ fontFamily: "var(--font-display)" }}>
-            {l.label}
+        {[{ label: "Trackers", href: "/trackers" }, { label: "My Teams", href: "/my-teams" }, { label: "Today's Uniforms", short: "Today", href: "/tonight" }, { label: "Stories", href: "/news" }].map((l: { label: string; short?: string; href: string }) => (
+          <Link prefetch={false} key={l.href} href={l.href} className="flex items-center px-3 max-[374px]:px-2 text-[13px] font-extrabold text-[#0b0b0f]" style={{ fontFamily: "var(--font-display)" }}>
+            {l.short ? (
+              <>
+                <span className="max-[374px]:hidden">{l.label}</span>
+                <span className="hidden max-[374px]:inline">{l.short}</span>
+              </>
+            ) : (
+              l.label
+            )}
           </Link>
         ))}
       </nav>

@@ -4,7 +4,7 @@ import { InstagramIcon, LinkedInIcon, TikTokIcon, XIcon } from "@/components/Fol
 const navLinks = [
   { label: "Home", href: "/" },
   { label: "Stories", href: "/news" },
-  { label: "Tonight's Uniforms", href: "/tonight" },
+  { label: "Today's Uniforms", href: "/tonight" },
   { label: "All Stories", href: "/stories" },
   { label: "Newsletter", href: "/newsletter" },
   { label: "About", href: "/about" },

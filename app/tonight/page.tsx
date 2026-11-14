@@ -14,7 +14,7 @@ import { getAllPosts } from "@/lib/posts";
 // Refreshes after midnight Eastern like the homepage.
 
 export const metadata: Metadata = {
-  title: "Uniforms Tonight: What Every Team Is Wearing Today",
+  title: "Today's Uniforms: What Every Team Is Wearing Today",
   description: "Every NFL, NBA, NHL and college football game today, with the jersey each team is wearing. Updated daily.",
   alternates: { canonical: "/tonight" },
 };
@@ -73,7 +73,7 @@ export default async function TonightPage() {
       <Header />
       <main className="max-w-[1200px] mx-auto px-5 py-6">
         <div className={`${LABEL} text-steel`}>{dateLabel}</div>
-        <h1 className="font-display font-black text-[28px] sm:text-[38px] leading-tight mt-1">Tonight&apos;s Uniforms</h1>
+        <h1 className="font-display font-black text-[28px] sm:text-[38px] leading-tight mt-1">Today&apos;s Uniforms</h1>
         <p className="text-[15px] mt-1 mb-4">Every game today and what both teams are wearing. Tap a team for its page.</p>
         <div className="flex gap-2 mb-6 overflow-x-auto">
           {leagues.map((l) => (

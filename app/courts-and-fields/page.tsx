@@ -98,7 +98,7 @@ export default function CourtsAndFieldsPage() {
 
         <section className="max-w-[1200px] mx-auto px-5 pt-12 pb-14">
           <p className="text-[14px] text-steel">
-            Looking for what teams are wearing? See <Link prefetch={false} href="/tonight" className="text-orange font-bold">Tonight&apos;s Uniforms</Link>{" "}
+            Looking for what teams are wearing? See <Link prefetch={false} href="/tonight" className="text-orange font-bold">Today&apos;s Uniforms</Link>{" "}
             or <Link prefetch={false} href="/news" className="text-orange font-bold">The Wire</Link>.
           </p>
         </section>
