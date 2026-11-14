@@ -3,7 +3,7 @@ title: "Miami Hurricanes Uniform Schedule 2026: Every Jersey and When the Hurric
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-14"
 excerpt: "Miami Hurricanes uniform schedule 2026: orange home jerseys, the all-white road set, the Miami Nights black alternate, and every game's jersey week by week."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 cardStyle: words
@@ -16,6 +16,8 @@ resurfaceOnUpdate: true
 Miami wears orange jerseys with white pants under the white U helmet at home, and all white on the road. This page is the full Miami Hurricanes 2026 uniform schedule: the orange home set, the white road set, the green alternate, the black Miami Nights set, and a week-by-week outlook for all twelve games. We add each combination here once it is confirmed. Five games in, Miami is 5-0 and has worn the all-white road set three times, at Stanford, Wake Forest and Clemson, orange over white against Florida A&M, and the green alternate against Central Michigan.
 
 **Update, October 30:** Miami will wear **all white at North Carolina** on Halloween, posted by the team as "All white, all business." North Carolina is in all Carolina blue.
+
+**Update, November 14:** Miami is back in the **2001 Tribute** orange for Homecoming against Duke, confirmed from the team's game photos. It is the second orange throwback game of the season.
 
 **Update, October 24:** Miami wore its **2001 Tribute** uniform against Pittsburgh, as posted: **white helmet, throwback orange jersey, throwback white pants**, confirmed from the team's game photos, and won **52-23**. Our full breakdown is in [Miami's 2001 throwback uniforms, graded](/stories/miami-2001-throwback-uniforms).
 
@@ -43,8 +45,8 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
   <div style="background: #F47321; color: #ffffff; border: 2px solid #005030; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Orange / White</div></div>
   <div style="background: #F47321; color: #ffffff; border: 2px solid #005030; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Pittsburgh</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 2001 Tribute: White / Orange / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #005030; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #F47321; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #005030; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 2001 Tribute: White / White / Green</div></div>
+  <div style="background: #F47321; color: #ffffff; border: 2px solid #005030; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 2001 Tribute: White / Orange / White</div></div>
   <div style="background: #F47321; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #F47321; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
 </div>
@@ -83,9 +85,14 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2115819312615391646"></a></blockquote>
 </div>
 
-**November 7 at Notre Dame.** White expected, since Miami is the visitor. This is the old rivalry renewed in South Bend, a 7:30 p.m. Eastern kickoff on NBC. Miami in white against Notre Dame's navy, gold helmets, and gold pants gives this one of the season's sharpest contrasts. The teams opened 2025 at Hard Rock Stadium, where Miami won 27-24. **Worn: the white 2001 throwbacks**, a white helmet with an orange and green center stripe, white jersey with the green shoulder yoke and green pants, confirmed from the team's game photos. It was the first game in the road half of the 2001 set. [Graded A](/stories/miami-notre-dame-2001-throwback-uniforms-2026). **Final: Notre Dame 31, Miami 24.**
+**November 7 at Notre Dame**, 7:30 p.m. Eastern on NBC. ★ Worn: the **2001 Tribute road set**, white helmet with the orange and green center stripe, white throwback jersey and **green pants**, the first time the road half of the throwbacks went on the field, against Notre Dame's navy jerseys, gold helmets and gold pants. [Graded A](/stories/miami-notre-dame-2001-throwback-uniforms-2026). **Final: Notre Dame 31, Miami 24.**
 
-**November 14 vs. Duke.** Orange expected, since it is a home game.
+**November 14 vs. Duke**, noon Eastern on ABC, Homecoming at Hard Rock Stadium. ★ Confirmed from Miami's game photos: the **2001 Tribute** home set again, **white helmet with the orange and green center stripe, orange jersey with the green and white shoulder stripes and green-outlined white numbers, white pants**. It is the second time the orange throwback has been on the field, after Pittsburgh on October 24, and the third game in the 2001 set counting the white version at Notre Dame.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2121660631887618331"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">Miami in the 2001 Tribute orange against Duke, via @CanesFootball</p>
 
 **November 21 vs. Virginia Tech.** Orange expected, since it is a home game. Virginia Tech is the opponent the black set debuted against in 2017, and the Hokies' November visit is one more candidate for a night game.
 

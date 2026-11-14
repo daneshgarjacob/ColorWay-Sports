@@ -246,7 +246,7 @@ The black jersey is fine. The floor under it is the one we graded last of all 30
 
 ### Golden State Warriors at San Antonio Spurs: 9:30 p.m. ET, Prime Video
 
-**Warriors:** royal blue Icon with gold GOLDEN STATE bridge lettering. **Spurs:** black Statement with SATX across the chest and a gray patterned side panel.
+**Warriors:** royal blue Icon with gold GOLDEN STATE bridge lettering. **Spurs:** silver Statement Edition with SAN ANTONIO arched across the chest in black and black side panels, the look the Spurs revealed in October 2025.
 
 <div style="background: linear-gradient(135deg, #1a1e2a 0%, #0b0b0f 100%); border-radius: 12px; padding: 24px 20px 28px; margin: 1.5em 0 0.75em;">
   <div style="text-align: center; margin-bottom: 14px;">
@@ -260,9 +260,9 @@ The black jersey is fine. The floor under it is the one we graded last of all 30
     </div>
     <p style="font-size: 13px; font-weight: 800; color: #fff; letter-spacing: 3px; opacity: 0.85; margin: 0 14px;">AT</p>
     <div style="text-align: center; display: flex; flex-direction: column; align-items: center; min-width: 0;">
-      <img src="/images/posts/nba-daily-tracker/spurs-statement-cut.webp" alt="San Antonio Spurs black Statement jersey, NBA Cup November 13, 2026" style="height: 200px; max-width: 100%; object-fit: contain; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 10px 14px rgba(0,0,0,0.45));" loading="lazy" decoding="async" />
+      <img src="/images/posts/nba-daily-tracker/spurs-statement-cut.webp" alt="San Antonio Spurs silver San Antonio Statement jersey, NBA Cup November 13, 2026" style="height: 200px; max-width: 100%; object-fit: contain; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 10px 14px rgba(0,0,0,0.45));" loading="lazy" decoding="async" />
       <p style="color: #fff; font-size: 14px; font-weight: 900; margin: 14px 0 0; line-height: 1.2; text-transform: uppercase;">San Antonio Spurs</p>
-      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Black</p>
+      <p style="color: #fff; font-size: 9px; letter-spacing: 2px; text-transform: uppercase; opacity: 0.85; margin: 4px 0 0; font-weight: 600;">Statement · Silver</p>
     </div>
   </div>
 </div>
@@ -277,7 +277,7 @@ The black jersey is fine. The floor under it is the one we graded last of all 30
   <p style="padding: 12px 16px; font-size: 11px; color: #6B7280; text-transform: uppercase; letter-spacing: 1.5px; text-align: center; margin: 0; font-weight: 600;">Frost Bank Center · San Antonio · Image: <a href="https://x.com/NBA/status/2110039035767066676" style="color: #6B7280;">NBA</a></p>
 </div>
 
-The only game of the night with no white jersey: Golden State in royal blue against San Antonio in black. It is the best color contrast on the slate, even on one of the plainest floors. Our matchup grade: **A-**. See the [Warriors uniform schedule](/stories/warriors-uniform-schedule-2026-27) and the [Spurs uniform schedule](/stories/spurs-uniform-schedule-2026-27).
+The only game of the night with no white jersey: Golden State in royal blue against San Antonio in silver. It is the best color contrast on the slate, even on one of the plainest floors. Our matchup grade: **A-**. Final: Spurs 123, Warriors 85. See the [Warriors uniform schedule](/stories/warriors-uniform-schedule-2026-27) and the [Spurs uniform schedule](/stories/spurs-uniform-schedule-2026-27).
 
 ### Portland Trail Blazers at Sacramento Kings: 10:00 p.m. ET, local TV
 
@@ -353,7 +353,7 @@ Red jerseys on a navy floor is the Clippers' cleanest look this year. The Thunde
 
 **Best: Knicks at Pacers.** Indiana's gold pinstripes on a navy floor with a pinstriped yellow apron is the one Cup court on this slate that was designed around the jersey on top of it.
 
-**Best contrast: Warriors at Spurs.** Royal blue against black, no white anywhere. It is the only color-on-color game of the night.
+**Best contrast: Warriors at Spurs.** Royal blue against silver, no white anywhere. It is the only color-on-color game of the night.
 
 **Worst: Jazz at Rockets.** We graded Houston's Cup court an F, last of all 30, and the black Statement does not rescue it.
 
@@ -405,4 +405,4 @@ In each team's uniform schedule, linked under every game above, and in our [NBA 
 
 ## The Bottom Line
 
-Friday is a Statement night for every home team, white for almost every visitor, and one royal-on-black game in San Antonio. Watch Knicks at Pacers for the best-matched court and jersey, and Warriors at Spurs for the best colors. We log every game the next morning in the [NBA uniform tracker](/stories/nba-uniform-tracker-2026-27).
+Friday is a Statement night for every home team, white for almost every visitor, and one royal-on-silver game in San Antonio. Watch Knicks at Pacers for the best-matched court and jersey, and Warriors at Spurs for the best colors. We log every game the next morning in the [NBA uniform tracker](/stories/nba-uniform-tracker-2026-27).

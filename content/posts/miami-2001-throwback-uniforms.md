@@ -3,7 +3,7 @@ title: "Miami's 2001 Throwback Uniforms: The National Championship Set Is Back, 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-22"
-updatedDate: "2026-10-22"
+updatedDate: "2026-11-14"
 excerpt: "Miami wears the orange 2001 Tribute set against Pittsburgh on October 24. Miami revealed throwbacks of the 2001 national championship uniforms, and released both the orange home and the white road version. We grade the white an A- and the orange a B+, and argue these should be the primary sets."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 coverImage: "/images/posts/miami-2001-throwback-uniforms/cover.jpg"
@@ -13,6 +13,13 @@ kicker: Uniform Review
 league: "college"
 teams: ["miami-hurricanes"]
 ---
+
+**Update, November 14:** The orange throwback is back on the field. Miami wears the **2001 Tribute** home set again for Homecoming against **Duke** at Hard Rock Stadium: white helmet with the orange and green center stripe, orange jersey with the green and white shoulder stripes, white pants. It is the second orange throwback game of 2026, after Pittsburgh on October 24, and Miami already wore the white version at Notre Dame on November 7.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2121660631887618331"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">Miami in the 2001 Tribute orange against Duke, via @CanesFootball</p>
 
 **Update, October 22:** It is official. Miami wears the **2001 Tribute** uniform against **Pittsburgh on Saturday, October 24, at noon Eastern on ESPN** at Hard Rock Stadium: **white helmet, throwback orange jersey, throwback white pants**, the home half of this set. The team called it "A legendary look for Week 8." The white road version, with the green pants, still has no date. Details are in the new section below.
 

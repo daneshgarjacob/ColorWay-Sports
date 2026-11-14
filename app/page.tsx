@@ -192,9 +192,12 @@ export default async function Home() {
     // Jake's Fix (team photo), the NFL tracker (the one ColorWay graphic), and
     // Kentucky's Ice Whites (team photo, at Tennessee Saturday). Week 9's cover
     // is our graphic too, so it sits in the Latest column, not up here.
-    { slug: "chargers-should-make-super-chargers-full-time", pinned: "2026-11-04" },
+    // 11/14 (Jake: "top stories need to be more relevant"): Saturday slate. Left =
+    // why LSU wears white (Texas at LSU tonight; team-free Tiger Stadium cover).
+    // Right = Miami's 2001 throwbacks, worn again today in orange vs Duke.
+    { slug: "why-does-lsu-wear-white-at-home", pinned: "2026-11-14" },
     { slug: "nfl-uniform-tracker-2026", pinned: "2026-09-16", standing: true },
-    { slug: "kentucky-ice-white-chrome-helmet-tennessee-2026", pinned: "2026-11-04" },
+    { slug: "miami-2001-throwback-uniforms", pinned: "2026-11-14" },
   ];
   // Jake 10/5: "I don't want that on the home screen." These never take an image
   // slot on the homepage (no Latest auto-fill, no More Stories thumbnail). A

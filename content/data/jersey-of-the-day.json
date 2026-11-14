@@ -633,7 +633,7 @@
     "date": "2026-11-13",
     "matchup": "vs. Illinois, 9 p.m. ET (6 p.m. PT) on FOX, Rose Bowl",
     "status": "Expected",
-    "note": "UCLA's game-day posts show the gold helmet at the Rose Bowl and the blue home jersey on the game-day graphic."
+    "note": "UCLA's game-day posts show the gold helmet at the Rose Bowl and the blue home jersey on the game-day graphic. Final: UCLA 22, Illinois 14."
    },
    "why": "Powder blue and gold under the lights at the Rose Bowl on a Friday night. It's the best home uniform in college football, and No. 4 UCLA gets a national TV window to show it.",
    "whyPlaceholder": true,
@@ -647,6 +647,48 @@
     }
    ],
    "shopQuery": "ucla football jersey"
+  },
+  "2026-11-14": {
+   "team": "USC Trojans",
+   "teamShort": "USC",
+   "league": "College Football",
+   "season": "2026",
+   "edition": "Road",
+   "jerseyName": "White Road",
+   "image": "/images/cfb-jerseys/usc-white.jpg",
+   "imageAlt": "USC Trojans white road football jersey with cardinal numbers and cardinal and gold shoulder stripes",
+   "imageFit": "contain",
+   "credit": {
+    "text": "USC Football",
+    "url": "https://x.com/uscfb/status/2121627785898725595",
+    "license": "game-day post via the team"
+   },
+   "tweet": {
+    "url": "https://x.com/uscfb/status/2121627785898725595",
+    "label": "USC's game-day post: white jersey, cardinal helmet, at Indiana"
+   },
+   "worn": {
+    "date": "2026-11-14",
+    "matchup": "at Indiana, 12:30 p.m. PT (3:30 p.m. ET) on CBS, Memorial Stadium, Bloomington",
+    "status": "Announced",
+    "note": "USC's game-day graphic shows the white jersey with cardinal numbers under the cardinal helmet."
+   },
+   "why": "The best road uniform in college football. White with cardinal numbers, the cardinal helmet with the gold Trojan, and gold pants that USC never gives up. No alternates, no gimmicks, and it looks the same as it did in the 1970s.",
+   "colorwayGrade": "A",
+   "story": "USC wears white on the road: white jersey with cardinal numbers and cardinal and gold shoulder stripes, gold pants and the cardinal helmet with the gold Trojan logo. The Trojans play at Indiana on Saturday afternoon in Bloomington, their first game since beating Ohio State 30-18 on October 31.",
+   "scheduleSlug": "usc-uniform-schedule-2026",
+   "scheduleLabel": "USC 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "big-ten-football-uniforms-ranked-2026",
+     "label": "Big Ten football uniforms, ranked"
+    },
+    {
+     "slug": "college-football-week-11-uniforms-2026",
+     "label": "College football Week 11 uniforms: every game"
+    }
+   ],
+   "shopQuery": "usc trojans white football jersey"
   }
  }
 }

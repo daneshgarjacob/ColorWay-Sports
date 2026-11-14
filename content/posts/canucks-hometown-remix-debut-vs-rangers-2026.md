@@ -2,8 +2,8 @@
 title: "Canucks Hometown Remix Jersey Debut Vs. Rangers: Navy, A Tonal Orca And Lions Gate Details"
 category: "NHL"
 date: "2026-11-13"
-updatedDate: "2026-11-13"
-excerpt: "The Vancouver Canucks debut their Hometown Remix jersey Friday night against the Rangers: an all-navy sweater with a tonal orca, bright blue sleeve bands with a skyline reflected in the water, and the Lions Gate Bridge lions inside the hem. What it looks like, what New York wears, every date and our grade."
+updatedDate: "2026-11-14"
+excerpt: "The Vancouver Canucks debuted their Hometown Remix jersey Friday night against the Rangers: an all-navy sweater with a tonal orca, bright blue sleeve bands with a skyline reflected in the water, and the Lions Gate Bridge lions inside the hem. What it looks like, what New York wears, every date and our grade."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b1a3a 55%, #00843D 130%)"
 author: "colorway-sports-staff"
 coverImage: "/images/posts/nhl-daily-tracker/canucks-remix.jpg"
@@ -26,6 +26,8 @@ teams: ["vancouver-canucks", "new-york-rangers"]
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canucks/status/2117279391814406539"></a></blockquote>
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Canucks' Hometown Remix reveal, via @Canucks</p>
+
+**Update, November 14:** The Canucks wore the navy Hometown Remix for the first time on Friday night at Rogers Arena, with the Rangers in road white, confirmed from the Sportsnet game footage. New York won 5-1. It is logged on the [NHL uniform tracker](/stories/nhl-uniform-tracker-2026-27) and the [Canucks uniform schedule](/stories/canucks-uniform-schedule-2026-27).
 
 ## Quick Answers
 

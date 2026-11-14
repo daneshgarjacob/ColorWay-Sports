@@ -2456,6 +2456,134 @@
       },
       "confirmed": true,
       "source": "NBC Sports Philadelphia highlight frames via ESPN (76ers royal Icon, Raptors red Icon)"
+    },
+    "2026-11-13 ATL@CHI": {
+      "score": {
+        "away": 117,
+        "home": 125
+      },
+      "ot": true,
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "CHSN highlight frames via ESPN (Bulls black pinstripe Statement, Hawks white Association)"
+    },
+    "2026-11-13 CLE@MIA": {
+      "score": {
+        "away": 121,
+        "home": 133
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "Heat highlight frames via ESPN (Heat red MIAMI Statement, Cavaliers white Association)"
+    },
+    "2026-11-13 GSW@SAS": {
+      "score": {
+        "away": 85,
+        "home": 123
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Statement Edition",
+        "detail": "silver SAN ANTONIO"
+      },
+      "confirmed": true,
+      "source": "Prime Video highlight frames via ESPN (Spurs silver SAN ANTONIO Statement with black trim, Warriors royal blue Icon)"
+    },
+    "2026-11-13 MEM@NOP": {
+      "score": {
+        "away": 142,
+        "home": 111
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN highlight frames (Pelicans red CRESCENT CITY Statement, Grizzlies white Association; NBA Cup West Group B)"
+    },
+    "2026-11-13 MIL@ORL": {
+      "score": {
+        "away": 99,
+        "home": 107
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "FanDuel SN highlight frames via ESPN (Magic black pinstripe MAGIC Statement, Bucks white Association)"
+    },
+    "2026-11-13 NYK@IND": {
+      "score": {
+        "away": 104,
+        "home": 106
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "Prime Video highlight frames via ESPN (Pacers yellow pinstripe INDIANA Statement, Knicks white Association; NBA Cup East Group B)"
+    },
+    "2026-11-13 OKC@LAC": {
+      "score": {
+        "away": 112,
+        "home": 113
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN highlight frames (Clippers red Los Angeles Statement, Thunder white Association; NBA Cup West Group B)"
+    },
+    "2026-11-13 POR@SAC": {
+      "score": {
+        "away": 120,
+        "home": 107
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "NBC Sports California highlight frames via ESPN (Kings purple KINGS Statement, Trail Blazers white Association)"
+    },
+    "2026-11-13 UTA@HOU": {
+      "score": {
+        "away": 118,
+        "home": 125
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "Space City Home Network highlight frames via ESPN (Rockets black HOUSTON Statement, Jazz white Association)"
     }
   }
 }

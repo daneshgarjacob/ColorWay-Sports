@@ -81,7 +81,7 @@ export const NBA_TILE_COLORS: Record<string, string> = {
   "spurs-association.jpg": "White",
   "spurs-classic.jpg": "Silver",
   "spurs-icon.jpg": "Black",
-  "spurs-statement.jpg": "Black",
+  "spurs-statement.jpg": "Silver",
   "suns-association.jpg": "White",
   "suns-icon.jpg": "Purple",
   "suns-statement.jpg": "Black",

@@ -11,6 +11,8 @@
     "Daily pass: node scripts/nhl-game-photos.mjs <YYYYMMDD> (view the frames), add/adjust entries here, then npm run nhl:daily (schedule tables + daily tracker post; /nhl-tracker team pages read this file at build)"
   ],
   "matchupGrades": {
+    "NYR Road White @ VAN Hometown Remix Debut": "B+",
+    "NSH Road White @ VGK Home Gold": "B+",
     "NYI Road White @ LAK Home Black": "B",
     "STL Road White @ UTA Hometown Remix": "B+",
     "BUF Road White @ CHI Home Red": "A-",
@@ -643,7 +645,8 @@
     "2026-11-12 MTL@BOS": {"confirmed": true, "source": "ESPN highlight frames (Bruins Hometown Remix debut: brown Varsity sweater with gold; Canadiens white Hometown Remix with the vintage CHC crest)", "note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix Debut", "image": "/images/posts/nhl-daily-tracker/bruins-remix.jpg", "color": "#6B4226"}, "away": {"call": "Hometown Remix", "image": "/images/posts/nhl-daily-tracker/canadiens-remix.jpg", "color": "#F4F1EA"}},
     "2026-11-12 STL@UTA": {"confirmed": true, "source": "ESPN highlight frames (Mammoth Hometown Remix: light blue; Blues road white)", "note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "image": "/images/posts/nhl-daily-tracker/mammoth-remix.jpg", "color": "#7FA9D1"}},
     "2026-11-12 TBL@CBJ": {"confirmed": true, "source": "ESPN highlight frames (Blue Jackets Hometown Remix: silver-grey with navy; Lightning road white)", "note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "image": "/images/posts/nhl-daily-tracker/blue-jackets-remix.jpg", "color": "#8A9099"}},
-    "2026-11-13 NYR@VAN": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix Debut", "color": "#00205B"}},
+    "2026-11-13 NYR@VAN": {"confirmed": true, "source": "Sportsnet highlight frames via ESPN (Canucks Hometown Remix debut: dark navy with a blue orca crest and blue stripes; Rangers road white)", "note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix Debut", "image": "/images/posts/nhl-daily-tracker/canucks-remix.jpg", "color": "#00205B"}},
+    "2026-11-13 NSH@VGK": {"confirmed": true, "source": "ESPN highlight frames (Golden Knights home gold, Predators road white)"},
     "2026-11-14 COL@MTL": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "color": "#AF1E2D"}},
     "2026-11-14 DET@TBL": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix Debut", "color": "#111111"}},
     "2026-11-14 MIN@BOS": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "color": "#6B4226"}},
