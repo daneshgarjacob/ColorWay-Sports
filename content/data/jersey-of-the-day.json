@@ -649,36 +649,34 @@
    "shopQuery": "ucla football jersey"
   },
   "2026-11-14": {
-   "team": "USC Trojans",
-   "teamShort": "USC",
+   "team": "Ohio State Buckeyes",
+   "teamShort": "Ohio State",
    "league": "College Football",
    "season": "2026",
-   "edition": "Road",
-   "jerseyName": "White Road",
-   "image": "/images/cfb-jerseys/usc-white.jpg",
-   "imageAlt": "USC Trojans white road football jersey with cardinal numbers and cardinal and gold shoulder stripes",
-   "imageFit": "contain",
+   "edition": "Home",
+   "jerseyName": "Scarlet Home",
+   "image": "/images/jotd/ohio-state-scarlet-jeremiah-smith.jpg",
+   "imageAlt": "Ohio State wide receiver Jeremiah Smith in the scarlet home jersey and silver helmet at Ohio Stadium",
+   "imagePosition": "50% 40%",
+   "imageCaption": "Jeremiah Smith in the scarlet home jersey at Ohio Stadium (2024).",
    "credit": {
-    "text": "USC Football",
-    "url": "https://x.com/uscfb/status/2121627785898725595",
-    "license": "game-day post via the team"
+    "text": "Ruralexpat",
+    "url": "https://commons.wikimedia.org/wiki/File:Jeremiah_Smith_2024.jpg",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
    },
-   "tweet": {
-    "url": "https://x.com/uscfb/status/2121627785898725595",
-    "label": "USC's game-day post: white jersey, cardinal helmet, at Indiana"
-   },
-   "leadTweet": true,
    "worn": {
     "date": "2026-11-14",
-    "matchup": "at Indiana, 12:30 p.m. PT (3:30 p.m. ET) on CBS, Memorial Stadium, Bloomington",
-    "status": "Announced",
-    "note": "USC's game-day graphic shows the white jersey with cardinal numbers under the cardinal helmet."
+    "matchup": "vs. Northwestern, Ohio Stadium (Military Appreciation Game)",
+    "status": "Confirmed",
+    "note": "Scarlet jersey, gray pants and the silver helmet; the all-black Tunnel Vision set stayed in the locker room. Final: Ohio State 28, Northwestern 19. Jeremiah Smith had 11 catches for 117 yards."
    },
-   "why": "The best road uniform in college football. White with cardinal numbers, the cardinal helmet with the gold Trojan, and gold pants that USC never gives up. No alternates, no gimmicks, and it looks the same as it did in the 1970s.",
-   "colorwayGrade": "A",
-   "story": "USC wears white on the road: white jersey with cardinal numbers and cardinal and gold shoulder stripes, gold pants and the cardinal helmet with the gold Trojan logo. The Trojans play at Indiana on Saturday afternoon in Bloomington, their first game since beating Ohio State 30-18 on October 31.",
-   "scheduleSlug": "usc-uniform-schedule-2026",
-   "scheduleLabel": "USC 2026 uniform schedule",
+   "why": "The best home uniform in the Big Ten. Scarlet, gray and silver, the stripe down the helmet and the buckeye leaves, and no reason to ever wear anything else.",
+   "whyPlaceholder": true,
+   "colorwayGrade": "A-",
+   "story": "Ohio State wore its traditional scarlet jersey, gray pants and silver helmet against Northwestern on Saturday, not the all-black Tunnel Vision uniforms a team-shop pin set had hinted at for this game. The Buckeyes won 28-19 to end a two-game losing streak, and Jeremiah Smith caught 11 passes for 117 yards.",
+   "scheduleSlug": "ohio-state-uniform-schedule-2026",
+   "scheduleLabel": "Ohio State 2026 uniform schedule",
    "related": [
     {
      "slug": "big-ten-football-uniforms-ranked-2026",
@@ -689,7 +687,7 @@
      "label": "College football Week 11 uniforms: every game"
     }
    ],
-   "shopQuery": "usc trojans white football jersey"
+   "shopQuery": "ohio state buckeyes scarlet football jersey"
   }
  }
 }
