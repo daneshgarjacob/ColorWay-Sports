@@ -68,7 +68,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 **November 7 vs. Alabama.** Home White expected. Alabama in crimson in Tiger Stadium. The single best-looking date on the SEC calendar, and the one open date on our [Alabama page](/stories/alabama-uniform-schedule-2026). **Worn: gold helmet, white jersey, gold pants**, confirmed from the game broadcast. Alabama wore crimson. **Final: Alabama 31, LSU 13.**
 
-**November 14 vs. Texas.** Home White expected. Texas in burnt orange rather than the icy whites. Confirmed as the open date on our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
+**November 14 vs. Texas.** Home White expected. Texas in burnt orange rather than the icy whites. Confirmed as the open date on our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026). LSU also retires Bert Jones' No. 7 jersey at halftime; see [LSU retires Bert Jones' No. 7](/stories/lsu-retires-bert-jones-number-7-2026).
 
 **November 21 at Tennessee.** White expected, with Tennessee in orange at Neyland.
 
