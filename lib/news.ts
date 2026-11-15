@@ -267,15 +267,25 @@ export function recentNews<T extends { at: string }>(items: T[], days = 7, min =
 /** Wire items from the last `days` days, newest first, each with its thumbnail. */
 export function recentNewsWithThumbs(days = 4, limit = 8, photosOnPage: Set<string> = new Set()): (NewsMeta & { thumb: NewsThumb })[] {
   const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
+  // One card per story (Jake 11/14): a preview and a recap of the same debut
+  // link the same story, so the strip keeps only the newest.
+  const seenLinks = new Set<string>();
   const items = getAllNewsMeta()
     .filter((n) => new Date(n.at).getTime() >= cutoff)
+    .filter((n) => {
+      if (!n.link) return true;
+      if (seenLinks.has(n.link)) return false;
+      seenLinks.add(n.link);
+      return true;
+    })
+    .map((n) => ({ ...n, thumb: newsThumb(n) }));
+  return uniquePhotos(items)
+    .slice(0, limit)
     .map((n) => {
-      const thumb = newsThumb(n);
       // A photo a story card on the same page already shows: use the logo here.
-      const repeat = thumb.kind === "cover" && !!thumb.src && photosOnPage.has(thumb.src);
-      return { ...n, thumb: repeat ? newsThumb(n, true) : thumb };
+      const repeat = n.thumb.kind === "cover" && !!n.thumb.src && photosOnPage.has(n.thumb.src);
+      return repeat ? { ...n, thumb: newsThumb(n, true) } : n;
     });
-  return uniquePhotos(items).slice(0, limit);
 }
 
 /** A team's Wire items, newest first. `name` is the full club name ("Boston Bruins"). */
