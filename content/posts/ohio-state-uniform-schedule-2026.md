@@ -3,7 +3,7 @@ title: "Ohio State Uniform Schedule 2026: Every Jersey and When the Buckeyes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-11-07"
+updatedDate: "2026-11-15"
 excerpt: "What Ohio State wears every game in 2026. Scarlet confirmed for the opener, white on the road, and the three alternates in the closet with no date yet."
 gradient: "linear-gradient(135deg, #BB0000 0%, #1a0505 55%, #C4CED4 130%)"
 cardStyle: words
@@ -79,7 +79,7 @@ Big Ten home teams wear color and visitors wear white, which makes the road date
 
 **November 7 vs. Oregon**, Ohio Stadium. The first meeting since the 2024 Rose Bowl, at home, against the one program in the country with a bigger uniform closet than anybody. Scarlet expected, and if Ohio State is going to answer Oregon with something, this is the date. Oregon confirmed **Mummy Mode 2.0** on November 4, a dark chrome helmet, white jersey and black pants, so the Ducks are in white and scarlet at home is the natural answer. See the [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026). **Worn: silver helmet, scarlet jersey and scarlet pants**, confirmed from the game broadcast, with scarlet pants in place of the usual gray. **Final: Oregon 41, Ohio State 28.**
 
-**November 14 vs. Northwestern**, Ohio Stadium. **Military Appreciation Game**, part of the Our Honor Defend program. Military appreciation games are one of the most common triggers for a patch or a special uniform element in college football, so this is the most likely date on the schedule for something beyond the base set. Nothing confirmed yet.
+**November 14 vs. Northwestern**, Ohio Stadium. **Military Appreciation Game**, part of the Our Honor Defend program. Military appreciation games are one of the most common triggers for a patch or a special uniform element in college football, so this is the most likely date on the schedule for something beyond the base set. Nothing confirmed yet. **Worn: silver helmet, scarlet jersey, gray pants**, the traditional home look, not the all-black Tunnel Vision set. **Final: Ohio State 28, Northwestern 19.**
 
 **November 21 at Nebraska**, Lincoln. Road. White expected.
 

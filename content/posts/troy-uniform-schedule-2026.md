@@ -3,7 +3,7 @@ title: "Troy Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What Troy wears every game in 2026: a new black jersey, three helmets, the cardinal and white sets and the week-by-week Trojans uniform schedule."
 gradient: "linear-gradient(135deg, #862633 0%, #4a1219 55%, #b1b3b3 130%)"
 cardStyle: words
@@ -43,7 +43,7 @@ The uniforms are Adidas, and the base of the closet is cardinal and white with s
   <div style="background: #f1f3f8; color: #333; border: 2px solid #862633; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UL Monroe</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White Helmet / White Jersey</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 29 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #862633; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal (Homecoming)</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #862633; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal (Senior Day)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -68,7 +68,7 @@ The uniforms are Adidas, and the base of the closet is cardinal and white with s
 
 **November 7 vs. Louisiana Tech.** Cardinal expected. Homecoming, celebrating the 30th anniversary of the 1996 Southland Conference champions. **Worn: white helmet, cardinal jersey, white pants**, confirmed from the game broadcast. **Final: Louisiana Tech 41, Troy 17.**
 
-**November 14 at South Alabama.** White expected. Hancock Whitney Stadium in Mobile, the Battle for the Belt rivalry, kickoff time still to be set.
+**November 14 at South Alabama.** White expected. Hancock Whitney Stadium in Mobile, the Battle for the Belt rivalry, kickoff time still to be set. **Worn: black helmet, black jersey, black pants**, confirmed from the game broadcast. **Final: South Alabama 27, Troy 14.**
 
 **November 21 vs. Georgia Southern.** Cardinal expected. Senior Day and the regular season home finale. Georgia Southern is expected in white with its navy numbered helmet; our [Georgia Southern 2026 uniform schedule](/stories/georgia-southern-uniform-schedule-2026) has the Eagles.
 

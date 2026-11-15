@@ -3,7 +3,7 @@ title: "Temple Uniform Schedule 2026: Every Jersey and When the Owls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What Temple wears every game in 2026: the cherry home jersey, the white road set, both diamond helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #9D2235 0%, #b62a3f 55%, #5e1220 130%)"
 cardStyle: words
@@ -60,7 +60,7 @@ American Conference home teams wear color and visitors wear white, so every road
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #9D2235; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cherry</div></div>
+  <div style="background: #9D2235; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Cherry / White</div></div>
   <div style="background: #9D2235; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 19 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cherry</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 OR 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -89,7 +89,7 @@ American Conference home teams wear color and visitors wear white, so every road
 
 **November 7 at Navy.** White expected. A 3:30 p.m. Eastern game at Navy-Marine Corps Memorial Stadium on CBS Sports Network. [Navy](/stories/navy-uniform-schedule-2026) is one of the most unpredictable uniform programs in the country, so the color clash on this one is worth watching. **Worn: cherry helmet, white jersey, cherry pants**, confirmed from the game broadcast. **Final: Navy 42, Temple 35.**
 
-**November 14 vs. UAB.** Cherry expected. Senior weekend territory, and a good candidate for the cherry pants if Temple wants the full monochrome.
+**November 14 vs. UAB.** Cherry expected. Senior weekend territory, and a good candidate for the cherry pants if Temple wants the full monochrome. **Worn: white helmet, cherry jersey, white pants**, confirmed from the game broadcast. **Final: UAB 36, Temple 10.**
 
 **November 19 vs. Rice.** Cherry expected. A Thursday night at the Linc on ESPN, the last home game of the season, and the single most likely date for something special.
 

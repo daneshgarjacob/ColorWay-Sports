@@ -3,7 +3,7 @@ title: "Iowa State Uniform Schedule 2026: Every Jersey and When the Cyclones Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-14"
+updatedDate: "2026-11-15"
 excerpt: "Iowa State uniform schedule 2026: every Cyclones jersey by week, the cardinal home uniform, the all-white road look worn at Iowa, and what ISU wears next."
 gradient: "linear-gradient(135deg, #C8102E 0%, #9e0b23 55%, #F1BE48 130%)"
 cardStyle: words
@@ -79,7 +79,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 **November 7 at Baylor.** White expected. It is Baylor's homecoming at McLane Stadium, which usually means a green-heavy look from the Bears.
 
-**November 14 vs. Cincinnati.** ★ Confirmed by Iowa State: **all cardinal**, cardinal helmet with the Cynado logo, cardinal jersey, cardinal pants, from the team's "Cynado threads" post.
+**November 14 vs. Cincinnati.** ★ Confirmed by Iowa State: **all cardinal**, cardinal helmet with the Cynado logo, cardinal jersey, cardinal pants, from the team's "Cynado threads" post. **Final: Iowa State 41, Cincinnati 13.**
 
 **November 20 at UCF.** White expected. A Friday game at the Acrisure Bounce House in Orlando, 5 p.m. Central on FS1.
 

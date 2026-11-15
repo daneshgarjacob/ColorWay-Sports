@@ -3,7 +3,7 @@ title: "Boston College Uniform Schedule 2026: Every Jersey and When the Eagles W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "What Boston College wears every game in 2026: the maroon home set, the white road set, the Red Bandanna uniform, and the full Eagles uniform schedule."
 gradient: "linear-gradient(135deg, #8C2232 0%, #a62b3d 55%, #BC9B6A 130%)"
 cardStyle: words
@@ -94,7 +94,7 @@ Pitt is expected to visit in white, which makes the clash work. Their year is on
 
 **November 7 vs. Florida State.** Maroon expected. Veterans and Military Appreciation Day, and the biggest home game left on the board. Florida State's rotation is on the [Florida State 2026 uniform schedule](/stories/florida-state-uniform-schedule-2026).
 
-**November 14 at Notre Dame.** White expected. The Holy War returns to South Bend at 3:30 p.m. on NBC, which means Boston College in white and gold against Notre Dame's navy and gold, one of the best color matchups the sport has. Watch the Irish side on the [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026).
+**November 14 at Notre Dame.** White expected. The Holy War returns to South Bend at 3:30 p.m. on NBC, which means Boston College in white and gold against Notre Dame's navy and gold, one of the best color matchups the sport has. Watch the Irish side on the [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026). **Final: Notre Dame 41, Boston College 7.**
 
 **November 21 vs. Syracuse.** Maroon expected. The Jay McGillis Memorial Senior Day Game, the last time this class runs out of the tunnel at Alumni Stadium. Syracuse is tracked on the [Syracuse 2026 uniform schedule](/stories/syracuse-uniform-schedule-2026).
 

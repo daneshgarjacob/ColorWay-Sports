@@ -3,7 +3,7 @@ title: "Cal Uniform Schedule 2026: Every Jersey and When the Golden Bears Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "What Cal wears every game in 2026: the new Grateful Dead helmet for Wake Forest, the Joe Roth throwback, home and road sets, and the full schedule."
 gradient: "linear-gradient(135deg, #003262 0%, #0a4a86 55%, #FDB515 130%)"
 cardStyle: words
@@ -139,7 +139,7 @@ Cal published its home themes in July, and they double as a decent map of where 
 
 **November 7.** Bye.
 
-**November 14 at Virginia.** White expected. The last road game of the season, in Charlottesville.
+**November 14 at Virginia.** White expected. The last road game of the season, in Charlottesville. **Final: Virginia 36, Cal 7.**
 
 **November 21 vs. Stanford.** Blue expected. The 129th Big Game and the battle for the Axe, the oldest rivalry on the West Coast, back in Berkeley.
 

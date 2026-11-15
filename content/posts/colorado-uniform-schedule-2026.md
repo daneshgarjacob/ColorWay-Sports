@@ -3,7 +3,7 @@ title: "Colorado Uniform Schedule 2026: Every Jersey and When the Buffaloes Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "Colorado uniform schedule 2026: every Buffaloes jersey, black home, white road, gold and gray alternates, plus which uniform Colorado wears each game this season."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #CFB87C 130%)"
 cardStyle: words
@@ -42,7 +42,7 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold Helmet / White Jersey</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
 </div>
@@ -67,7 +67,7 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
 
 **November 7 at Arizona State.** White expected. Mountain America Stadium in Tempe, the same opponent that saw the striped gold pants for the first time last November. Sun Devils details are on the [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026). **Worn: black helmet, white jersey, black pants**, confirmed from the game broadcast. **Final: Arizona State 20, Colorado 10.**
 
-**November 13 vs. Houston.** Black expected. A Friday night game on ESPN, 8:15 p.m. Mountain, with the Buffs Wear Black crowd theme and a halftime drone show. An all-black Colorado under the lights would match the stands. ESPN lists this one under November 14 because of UTC.
+**November 13 vs. Houston.** Black expected. A Friday night game on ESPN, 8:15 p.m. Mountain, with the Buffs Wear Black crowd theme and a halftime drone show. ESPN lists this one under November 14 because of UTC. **Worn: gold helmet, black jersey, black pants**, confirmed from the game broadcast and ESPN's game photo. The team's game-week post had shown a black helmet. **Final: Colorado 42, Houston 32.**
 
 **November 21 at Cincinnati.** White expected. Nippert Stadium, where the Bearcats wear red or black at home.
 

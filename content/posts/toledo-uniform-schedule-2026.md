@@ -3,7 +3,7 @@ title: "Toledo Uniform Schedule 2026: Every Jersey and When the Rockets Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "What Toledo wears every game in 2026: the midnight blue home set, the white road jersey, the gold and anthracite alternates, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #0b2240 0%, #1b3a63 55%, #ffcd00 130%)"
 cardStyle: words
@@ -79,7 +79,7 @@ There is one more thing hanging over the season. In August the athletic departme
 
 **November 4 at Sacramento State.** White expected. This is the strangest date on any MAC schedule in 2026. Sacramento State joined the conference as a football-only affiliate on July 1 after moving up from the FCS, and Toledo drew the cross-country Wednesday night trip to Hornet Stadium in the national MACtion television window.
 
-**November 11 vs. UMass.** Blue expected. A Wednesday night Salute to Service game in the Glass Bowl, and military appreciation nights are another place a special uniform or helmet decal can appear.
+**November 11 vs. UMass.** Blue expected. A Wednesday night Salute to Service game in the Glass Bowl, and military appreciation nights are another place a special uniform or helmet decal can appear. **Final: Toledo 24, UMass 0.**
 
 **November 20 vs. Bowling Green.** Blue expected. The Battle of I-75 on a Friday night at home, the biggest date on the Toledo calendar and the last home game of the season.
 

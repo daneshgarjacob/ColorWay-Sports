@@ -3,7 +3,7 @@ title: "Georgia Southern Uniform Schedule 2026: Every Jersey and When the Eagles
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What Georgia Southern wears every game in 2026: the navy numbered helmet, navy and white jerseys, the Erk 100 White Out and the full Eagles uniform schedule."
 gradient: "linear-gradient(135deg, #011E41 0%, #0a1a33 55%, #ffffff 130%)"
 cardStyle: words
@@ -66,7 +66,7 @@ This season carries extra weight. Russell would have turned 100 on July 23, 2026
 
 **November 7 vs. Marshall.** Navy expected. Homecoming and Salute to Service, another home date where a special helmet decal or patch is common. See our [Marshall 2026 uniform schedule](/stories/marshall-uniform-schedule-2026). **Worn: navy helmet, navy jersey, white pants**, confirmed from the game broadcast. **Final: Georgia Southern 49, Marshall 13.**
 
-**November 14 at Georgia State.** White expected. Center Parc Stadium in Atlanta, kickoff time still to be set.
+**November 14 at Georgia State.** White expected. Center Parc Stadium in Atlanta, kickoff time still to be set. **Worn: white jersey and white pants**, confirmed from the game broadcast. **Final: Georgia Southern 34, Georgia State 17.**
 
 **November 21 at Troy.** White expected. Kickoff time still to be set.
 

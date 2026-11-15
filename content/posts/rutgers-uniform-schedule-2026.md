@@ -3,7 +3,7 @@ title: "Rutgers Uniform Schedule 2026: Every Jersey and When the Scarlet Knights
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What Rutgers wears every game in 2026: scarlet at home, white on the road, the 9/11 tribute set, the Blackout homecoming, and the full uniform schedule."
 gradient: "linear-gradient(135deg, #CC0033 0%, #a3002a 55%, #111111 130%)"
 cardStyle: words
@@ -41,7 +41,7 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
   <div style="background: #f1f3f8; color: #333; border: 2px solid #CC0033; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Scarlet / White / Scarlet</div></div>
   <div style="background: #CC0033; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #CC0033; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
+  <div style="background: #CC0033; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Scarlet / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #CC0033; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
 </div>
@@ -72,7 +72,7 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
 
 **November 7 at Wisconsin.** White expected. Rutgers in white at Camp Randall against a Wisconsin team in red, as we have it on the [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026). **Worn: red helmet, white jersey, white pants**, confirmed from the game broadcast. **Final: Wisconsin 31, Rutgers 10.**
 
-**November 14 vs. Nebraska.** Scarlet expected. This is Military Appreciation day at SHI Stadium, so it is a date to watch for a patch or helmet decal. Nebraska is in white on the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026).
+**November 14 vs. Nebraska.** Scarlet expected. This is Military Appreciation day at SHI Stadium, so it is a date to watch for a patch or helmet decal. Nebraska is in white on the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026). **Worn: white helmet, scarlet jersey, white pants**, confirmed from the game broadcast. **Final: Nebraska 31, Rutgers 0.**
 
 **November 21 at Penn State.** White expected. The last road game of the season, at Beaver Stadium, against a Penn State team that wears navy at home. The [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026) has the Nittany Lions side.
 

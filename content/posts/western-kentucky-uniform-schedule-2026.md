@@ -3,7 +3,7 @@ title: "Western Kentucky Uniform Schedule 2026: Every Jersey and When the Hillto
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What WKU wears every game in 2026: red, black and white helmets, the White Out, Black Out and Red Out dates and the week-by-week Hilltoppers uniform schedule."
 gradient: "linear-gradient(135deg, #C8102E 0%, #7a0a1c 55%, #111111 130%)"
 cardStyle: words
@@ -42,7 +42,7 @@ The schedule did WKU no favors early. The Hilltoppers opened with three straight
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 27 (TUE)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Delaware</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red (Red Out)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Middle Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Jacksonville State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red (Homecoming)</div></div>
+  <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Jacksonville State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Liberty</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kennesaw State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red (Senior Day)</div></div>
 </div>
@@ -67,7 +67,7 @@ The schedule did WKU no favors early. The Hilltoppers opened with three straight
 
 **November 7 at Middle Tennessee.** White expected. The 100 Miles of Hate rivalry at Johnny "Red" Floyd Stadium in Murfreesboro, 3:30 p.m. Eastern. **Worn: white jersey, black pants**, confirmed from the game broadcast. **Final: Middle Tennessee 51, Western Kentucky 42.**
 
-**November 14 vs. Jacksonville State.** Red expected. Homecoming at 3:30 p.m. Eastern, the home date most likely to bring something extra if WKU has it planned.
+**November 14 vs. Jacksonville State.** Red expected. Homecoming at 3:30 p.m. Eastern, the home date most likely to bring something extra if WKU has it planned. **Worn: red helmet with the classic block WKU, red jersey, black pants**, confirmed from the game broadcast. **Final: Western Kentucky 34, Jacksonville State 24.**
 
 **November 21 at Liberty.** White expected. Williams Stadium in Lynchburg, 1 p.m. Eastern. Our [Liberty 2026 uniform schedule](/stories/liberty-uniform-schedule-2026) has the Flames.
 

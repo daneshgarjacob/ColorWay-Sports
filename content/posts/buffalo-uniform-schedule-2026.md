@@ -3,7 +3,7 @@ title: "Buffalo Uniform Schedule 2026: Every Jersey and When the Bulls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "What Buffalo wears every game in 2026: the blue home jersey, the white road set, the black alternate, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #005BBB 0%, #1a7ad8 55%, #101820 130%)"
 cardStyle: words
@@ -73,7 +73,7 @@ Buffalo announces the combination each week with a post the program calls Thread
 
 **November 3 at Miami (OH).** White expected. Tuesday night MACtion at Yager Stadium, the first of three straight midweek games.
 
-**November 11 at Ball State.** White expected. Wednesday night in Muncie.
+**November 11 at Ball State.** White expected. Wednesday night in Muncie. **Final: Buffalo 28, Ball State 7.**
 
 **November 18 vs. Central Michigan.** Blue expected. Wednesday night at home for the game Buffalo markets as the MACtion Meat Raffle, which is the most Western New York promotion on the 2026 calendar and a natural spot for the black set.
 

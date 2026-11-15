@@ -3,7 +3,7 @@ title: "Rice Uniform Schedule 2026: Every Jersey and When the Owls Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What Rice wears every game in 2026: the new Nike blue, white and gray sets, both helmets, and the week-by-week Owls uniform schedule."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b1a3a 55%, #9ea3a8 130%)"
 cardStyle: words
@@ -47,7 +47,7 @@ This is not a rebrand. The Old English R stays on the helmet and the hip, the co
   <div style="background: #f1f3f8; color: #333; border: 2px solid #00205B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gray / White / Navy</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White or Gray</div></div>
-  <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Gray</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 19 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White or Gray</div></div>
   <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
 </div>
@@ -72,7 +72,7 @@ This is not a rebrand. The Old English R stays on the helmet and the hip, the co
 
 **November 7 at North Texas.** White or gray expected. This is North Texas's Homecoming, and the Mean Green are expected in green at home. More on our [North Texas 2026 uniform schedule](/stories/north-texas-uniform-schedule-2026). **Worn: silver helmet, white jersey, gray pants**, confirmed from the game broadcast. **Final: North Texas 52, Rice 23.**
 
-**November 14 vs. Tulane.** Blue expected. The centerpiece of Rice's Alumni Weekend Homecoming and Reunion, November 12 to 15, and the home date most likely to bring something extra if the Owls have it. Our [Tulane 2026 uniform schedule](/stories/tulane-uniform-schedule-2026) has the Green Wave.
+**November 14 vs. Tulane.** Blue expected. The centerpiece of Rice's Alumni Weekend Homecoming and Reunion, November 12 to 15, and the home date most likely to bring something extra if the Owls have it. Our [Tulane 2026 uniform schedule](/stories/tulane-uniform-schedule-2026) has the Green Wave. **Worn: navy helmet, navy jersey, gray pants**, confirmed from the game broadcast. **Final: Tulane 20, Rice 17.**
 
 **November 19 at Temple.** White or gray expected. A Thursday night on ESPN and Rice's first-ever trip to Philadelphia, at Lincoln Financial Field. It is the Owls' only weeknight game of the season. See our [Temple 2026 uniform schedule](/stories/temple-uniform-schedule-2026).
 

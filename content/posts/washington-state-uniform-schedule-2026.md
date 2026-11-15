@@ -3,7 +3,7 @@ title: "Washington State Uniform Schedule 2026: Every Jersey and When the Cougar
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "What Washington State wears every game in 2026: the crimson home set, Icy White, the Ketchup Bottle combo, the gray throwback helmets, and the full Cougars uniform schedule."
 gradient: "linear-gradient(135deg, #981E32 0%, #7e1a2a 55%, #5E6A71 130%)"
 cardStyle: words
@@ -90,7 +90,7 @@ The throwback history is the good part. The script Cougars helmet logo lived on 
 
 **November 7.** Bye.
 
-**November 14 vs. Colorado State.** Crimson expected. A 7:30 p.m. Pacific kickoff, the latest start of the home slate and the kind of November night game that has drawn the anthracite set in past seasons. See the [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026) for the Rams.
+**November 14 vs. Colorado State.** Crimson expected. A 7:30 p.m. Pacific kickoff, the latest start of the home slate and the kind of November night game that has drawn the anthracite set in past seasons. See the [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026) for the Rams. **Worn: crimson helmet and gray jersey**, confirmed from the game broadcast. **Final: Washington State 73, Colorado State 7.**
 
 **November 21 at Texas State.** White expected. A trip to San Marcos, 3 p.m. Pacific.
 

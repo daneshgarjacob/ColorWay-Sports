@@ -3,7 +3,7 @@ title: "UAB Uniform Schedule 2026: Every Jersey and When the Blazers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What UAB wears every game in 2026: the gold and green helmets, green and white jerseys, gold pants and the week-by-week Blazers uniform schedule."
 gradient: "linear-gradient(135deg, #1A5632 0%, #0e3a20 55%, #C8B568 130%)"
 cardStyle: words
@@ -41,7 +41,7 @@ The surprise is the white at home. UAB wore the green jersey for the home opener
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #1A5632; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green or White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Green</div></div>
   <div style="background: #1A5632; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green or White (Senior Day)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -72,7 +72,7 @@ The surprise is the white at home. UAB wore the green jersey for the home opener
 
 **November 7 vs. Charlotte.** Green or white expected. Kids Takeover at Protective Stadium. Charlotte's primary color is also green, which makes the white jersey the more likely call. **Worn: white jersey**, confirmed from the game broadcast. **Final: UAB 23, Charlotte 12.**
 
-**November 14 at Temple.** White expected. Lincoln Financial Field in Philadelphia. See our [Temple 2026 uniform schedule](/stories/temple-uniform-schedule-2026).
+**November 14 at Temple.** White expected. Lincoln Financial Field in Philadelphia. See our [Temple 2026 uniform schedule](/stories/temple-uniform-schedule-2026). **Worn: gold helmet, white jersey, green pants**, confirmed from the game broadcast. **Final: UAB 36, Temple 10.**
 
 **November 21 vs. UTSA.** Green or white expected. Senior Day and the regular season home finale. Our [UTSA 2026 uniform schedule](/stories/utsa-uniform-schedule-2026) has the Roadrunners.
 

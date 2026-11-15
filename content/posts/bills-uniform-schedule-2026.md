@@ -2,7 +2,7 @@
 title: "Bills Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-10"
+updatedDate: "2026-11-15"
 excerpt: "Bills uniform schedule 2026, week by week: two Nickel City games, Cold Front vs. Miami, the red alternate finale and the red helmet on Christmas Day."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-uniform-schedule-2026/cover.jpg"
@@ -60,7 +60,7 @@ Home games carry the confirmed jersey. Road games follow the white road set, wit
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #00338D; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Blue Primary</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vikings</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jets</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jets</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div></div>
   <div style="background: #ffffff; color: #00338D; border: 2px solid #00338D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Dolphins</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Cold Front</div></div>
   <div style="background: #00338D; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Blue Primary</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Patriots</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -163,7 +163,7 @@ How does every one of these jerseys stack up? See our [Bills jerseys 2026 rankin
 
 **What jersey are the Bills wearing today?**
 
-Week 9 at Minnesota on Monday Night Football, November 9, worn: white helmet, white jersey, white pants and blue socks, as the team's "Monday Night Threads" graphic announced. The Vikings wore purple over white pants, and Buffalo won 23-6. We grade the matchup a B. This answer updates every week. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
+Week 10 at the Jets, November 15, worn: all white, the white helmet, white jersey and white pants. The Jets wore Black on Black, and Buffalo won 31-12. We grade the matchup a B-. This answer updates every week. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
 
 **What color are the Bills end zones for the home opener?**
 
@@ -171,7 +171,7 @@ Red. Bills Mafia voted for red end zones in an official poll posted by team COO 
 
 **What jerseys are the Bills wearing this week?**
 
-Week 9 at Minnesota on Monday Night Football, November 9, worn: white helmet, white jersey, white pants and blue socks, as the team's "Monday Night Threads" graphic announced. The Vikings wore purple over white pants, and Buffalo won 23-6. We grade the matchup a B. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
+Week 10 at the Jets, November 15, worn: all white, the white helmet, white jersey and white pants. The Jets wore Black on Black, and Buffalo won 31-12. We grade the matchup a B-. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
 
 **What uniform did the Bills wear last week?**
 

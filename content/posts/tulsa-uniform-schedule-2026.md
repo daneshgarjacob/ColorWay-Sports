@@ -3,7 +3,7 @@ title: "Tulsa Uniform Schedule 2026: Every Jersey and When the Golden Hurricane 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "Tulsa 2026 uniform schedule: the blue home set, white road set, gold helmet, the new red throwback, and what the Golden Hurricane wear every game."
 gradient: "linear-gradient(135deg, #003595 0%, #1f4fb8 55%, #C4A962 130%)"
 cardStyle: words
@@ -63,7 +63,7 @@ Tulsa also brought back its city flag helmet for 918 Day on September 18, the go
   <div style="background: #003595; color: #ffffff; border: 2px solid #C4A962; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold Helmet / Blue Jersey</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #003595; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #003595; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Royal / Gold</div></div>
   <div style="background: #003595; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 OR 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -96,7 +96,7 @@ Tulsa also brought back its city flag helmet for 918 Day on September 18, the go
 
 **November 7 at Tulane.** White expected. Tulane's Homecoming at Yulman Stadium, with the Green Wave in green. Our [Tulane 2026 uniform schedule](/stories/tulane-uniform-schedule-2026) has their side.
 
-**November 14 vs. Florida Atlantic.** Blue expected. Homecoming at H.A. Chapman Stadium, and the other home date where the red set would make sense if it does not show up Saturday.
+**November 14 vs. Florida Atlantic.** Blue expected. Homecoming at H.A. Chapman Stadium, and the other home date where the red set would make sense if it does not show up Saturday. **Worn: gold helmet, royal blue jersey, gold pants**, confirmed from the game broadcast. **Final: Tulsa 38, Florida Atlantic 21.**
 
 **November 21 vs. Charlotte.** Blue expected. Tulsa calls this one its Senior Day Celebration and the final home game of the season.
 

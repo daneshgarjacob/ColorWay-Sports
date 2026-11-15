@@ -3,7 +3,7 @@ title: "NC State Uniform Schedule 2026: Every Jersey and When the Wolfpack Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "NC State uniform schedule 2026: red home jerseys, the white road set, the Wolfpack Warriors camo alternate, and every Wolfpack game's jersey week by week."
 gradient: "linear-gradient(135deg, #CC0000 0%, #990000 55%, #111111 130%)"
 cardStyle: words
@@ -43,7 +43,7 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
   <div style="background: #f1f3f8; color: #333; border: 2px solid #CC0000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black Helmet / White Jersey</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
-  <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Red / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -70,9 +70,9 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
 
 **November 7 vs. Duke.** Red expected, with a big asterisk. NC State has designated this as its Military Appreciation game, which makes it the most logical date for a second Wolfpack Warriors appearance. Nothing has been announced, so we are listing red until we see it. Duke's side is on the [Duke 2026 uniform schedule](/stories/duke-uniform-schedule-2026).
 
-**November 14 vs. Syracuse.** Red expected. The final home game of the season.
+**November 14 vs. Syracuse.** Red expected. The final home game of the season. **Worn: black helmet, red jersey, black pants**, confirmed from the game broadcast. **Final: Syracuse 34, NC State 31.**
 
-**November 21 at Florida State.** White expected. This is Florida State's Homecoming and Seminole Heritage game, so watch for garnet or a turquoise surprise on the [Florida State 2026 uniform schedule](/stories/florida-state-uniform-schedule-2026).
+**November 21 at Florida State.** White expected. This is Florida State's Homecoming and Seminole Heritage game, and FSU has announced it will wear turquoise in a game for the first time. See [Florida State's turquoise uniforms](/stories/florida-state-turquoise-uniforms-seminole-heritage-2026).
 
 **November 28 at North Carolina.** White expected. The regular season finale at Kenan Stadium, with Carolina blue expected on the [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026).
 

@@ -3,7 +3,7 @@ title: "Illinois Uniform Schedule 2026: Every Jersey and When the Illini Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-07"
+updatedDate: "2026-11-15"
 excerpt: "What Illinois wears every game in 2026: navy home jerseys, the white road set, the orange alternate, every helmet, and the full Fighting Illini uniform schedule."
 gradient: "linear-gradient(135deg, #13294B 0%, #1f3b66 55%, #E84A27 130%)"
 cardStyle: words
@@ -79,7 +79,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 **November 6 vs. Nebraska.** ★ Confirmed by Illinois ("Back in blue"): **navy helmet with the Illinois script and an orange, white and orange stripe, navy jersey, navy pants.** A Friday night game at 7 p.m. Central on FOX, which ESPN files under November 7. It is Dads Day and a "Hail to the Blue Out," and Illinois matched it head to toe. Nebraska will be in white; see the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026). **Final: Illinois 24, Nebraska 13.**
 
-**November 13 at UCLA.** White expected. Another Friday night, 6 p.m. Pacific (8 p.m. Central) on FOX at the Rose Bowl, which ESPN lists under November 14. The [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026) tracks the Bruins in blue.
+**November 13 at UCLA.** White expected. Another Friday night, 6 p.m. Pacific (8 p.m. Central) on FOX at the Rose Bowl, which ESPN lists under November 14. The [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026) tracks the Bruins in blue. **Final: UCLA 22, Illinois 14.**
 
 **November 21 vs. Iowa.** Navy expected. Senior Day and the final home game, with Iowa in white. Our [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026) has the Hawkeyes.
 

@@ -3,7 +3,7 @@ title: "Penn State Uniform Schedule 2026: Every Jersey and When the Nittany Lion
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What Penn State wears every game in 2026: the plain white helmet, no names on the jerseys, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #041E42 0%, #14336b 55%, #ffffff 130%)"
 cardStyle: words
@@ -64,7 +64,7 @@ The no-names rule is the part people ask about. Penn State leaves the back of th
 
 **November 7 at Washington.** White expected. **Final: Penn State 28, Washington 25.** We have not checked this game against game photos.
 
-**November 14 vs. Minnesota.** Navy expected.
+**November 14 vs. Minnesota.** Navy expected. **Final: Penn State 42, Minnesota 14.**
 
 **November 21 vs. Rutgers.** Navy expected.
 

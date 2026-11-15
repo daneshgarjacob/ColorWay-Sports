@@ -1,10 +1,10 @@
 ---
-title: "LSU Retires Bert Jones' No. 7 Tonight: Every Retired Jersey In LSU Football History"
+title: "LSU Retires Bert Jones' No. 7: Every Retired Jersey In LSU Football History, And What LSU And Texas Wore"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-14"
-updatedDate: "2026-11-14"
-excerpt: "LSU retires Bert Jones' No. 7 jersey at halftime against Texas in Tiger Stadium, making the Ruston Rifle the fifth LSU football player so honored. The number itself stays in use: Whit Weeks and Trey'Dez Green wear 7 this season. Here is every retired LSU jersey and what LSU wears tonight."
+updatedDate: "2026-11-15"
+excerpt: "LSU retires Bert Jones' No. 7 jersey at halftime against Texas in Tiger Stadium, making the Ruston Rifle the fifth LSU football player so honored. The number itself stays in use: Whit Weeks and Trey'Dez Green wear 7 this season. LSU wore its home whites and Texas wore burnt orange in a 22-21 Texas win. Here is every retired LSU jersey and what both teams wore."
 gradient: "linear-gradient(135deg, #461D7C 0%, #2d1250 55%, #FDD023 130%)"
 coverImage: "/images/posts/why-does-lsu-wear-white-at-home/tiger-stadium-night-2012.jpg"
 coverImagePosition: "center center"
@@ -15,22 +15,23 @@ coverCredit:
   license: "CC BY-SA 4.0"
   licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 kicker: "Retired Jerseys"
+homepageHero: "2026-11-15"
 league: "college"
 teams: ["lsu-tigers", "texas-longhorns", "sec"]
 ---
 
-**LSU retires Bert Jones' No. 7 jersey tonight at halftime of LSU vs. Texas in Tiger Stadium.** Jones, the school's first All-America quarterback, becomes the fifth LSU football player with a retired jersey, joining Billy Cannon, Tommy Casanova, Jerry Stovall and Charles Alexander. His name and number go up on the south end zone façade with theirs.
+**LSU retired Bert Jones' No. 7 jersey on Saturday night, November 14, at LSU vs. Texas in Tiger Stadium.** Jones, the school's first All-America quarterback, becomes the fifth LSU football player with a retired jersey, joining Billy Cannon, Tommy Casanova, Jerry Stovall and Charles Alexander. His name and number go up on the south end zone façade with theirs.
 
-It is also LSU's home finale and Senior Night, against No. 6 Texas, with kickoff at 6:49 p.m. CT on ABC. Here is what the retirement means for the No. 7 on the field, every retired jersey in LSU football history, and what both teams are expected to wear.
+It was also LSU's home finale and Senior Night. Texas won it 22-21 on a late Arch Manning score. LSU wore its home whites, which put Texas in burnt orange on the road. Here is what the retirement means for the No. 7 on the field, every retired jersey in LSU football history, and what both teams wore.
 
 ## Quick Answers
 
 - **Is LSU retiring Bert Jones' jersey?** Yes. LSU announced on July 15 that Jones' No. 7 would be retired on November 14 against Texas. The LSU Athletic Hall of Fame Committee approved it unanimously.
-- **When is the ceremony?** At halftime of LSU vs. Texas, per LSU's game-day schedule.
+- **When was the ceremony?** Saturday, November 14, at LSU vs. Texas. LSU's game-day schedule set it for halftime, and Jones walked down Victory Hill with Lane Kiffin and the team before the game.
 - **Will anyone wear No. 7 at LSU again?** Yes. Under LSU's rules, a jersey retired after January 1, 2007 does not take the number out of use. Linebacker Whit Weeks and tight end Trey'Dez Green wear No. 7 in 2026.
 - **What is LSU's only number nobody can wear?** Billy Cannon's No. 20, retired in 1959.
-- **How many LSU football jerseys are retired?** Five after tonight: Cannon (20), Casanova (37), Stovall (21), Alexander (4) and Jones (7).
-- **What does LSU wear against Texas?** The home whites are expected: gold helmet, white jersey, gold pants. That would put Texas in burnt orange.
+- **How many LSU football jerseys are retired?** Five: Cannon (20), Casanova (37), Stovall (21), Alexander (4) and Jones (7).
+- **What did LSU wear against Texas?** The home whites: gold helmet, white jersey, gold pants. Texas wore its white helmet, burnt orange jersey and white pants. **Final: Texas 22, LSU 21.**
 
 ## Who Is Bert Jones?
 
@@ -47,9 +48,9 @@ The Baltimore Colts took him No. 2 overall in the 1973 NFL Draft. He played 10 N
 
 When LSU announced the honor, Jones said he was especially glad to be displayed alongside Tommy Casanova, his roommate at LSU.
 
-## Does Anyone Wear No. 7 After Tonight? Yes
+## Does Anyone Wear No. 7 Now? Yes
 
-This is the uniform detail most people will get wrong tonight. **LSU is retiring Bert Jones' jersey, not taking No. 7 out of circulation.**
+This is the uniform detail most people get wrong. **LSU is retiring Bert Jones' jersey, not taking No. 7 out of circulation.**
 
 LSU's bylaws separate the two. For any jersey retired after January 1, 2007, a current player can still wear that number at the head coach's discretion. Casanova's 37, Stovall's 21, Alexander's 4 and now Jones' 7 all fall under that rule. Only Billy Cannon's No. 20, retired in 1959, can never be worn again in LSU football.
 
@@ -60,7 +61,7 @@ That matters more for 7 than for any other number on the list, because No. 7 is 
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Trey'Dez Green and Whit Weeks named LSU's 2026 No. 7s on August 26, via <a href="https://x.com/LSUfootball" target="_blank" rel="noopener">@LSUfootball</a></p>
 
-In 2026, head coach Lane Kiffin gave No. 7 to two players: linebacker Whit Weeks and tight end Trey'Dez Green. So tonight, while Jones' 7 goes up on the façade, LSU's current 7s are the players expected on the field below it.
+In 2026, head coach Lane Kiffin gave No. 7 to two players: linebacker Whit Weeks and tight end Trey'Dez Green. So on Saturday, while Jones' 7 went up on the façade, LSU's current 7s were on the field below it.
 
 ## Every Retired Jersey In LSU Football History
 
@@ -78,22 +79,27 @@ In 2026, head coach Lane Kiffin gave No. 7 to two players: linebacker Whit Weeks
 - **Tommy Casanova, No. 37.** Retired in 2009, the first under the post-2007 rule that keeps the number available. Jones' roommate at LSU.
 - **Jerry Stovall, No. 21.** Honored in 2018 as a former LSU player and later the Tigers' head coach.
 - **Charles Alexander, No. 4.** The running back was the first in SEC history to pass 4,000 career rushing yards. His jersey was retired at halftime against Florida last season.
-- **Bert Jones, No. 7.** Tonight, at halftime against Texas.
+- **Bert Jones, No. 7.** November 14, 2026, against Texas.
 
 Five retired jerseys in more than a century of LSU football is a short list, and three of the five have come in the last eight years. Jones is the first quarterback on it.
 
-## What LSU And Texas Wear Tonight
+## What LSU And Texas Wore
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:stretch;"><div style="background:#ffffff;color:#461D7C;border:2px solid #461D7C;border-radius:12px;padding:18px 12px;text-align:center;"><div style="font-size:0.7em;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;opacity:0.85;">LSU · Expected</div><div style="font-size:1.05em;font-weight:800;margin-top:6px;">Gold helmet, white jersey, gold pants</div></div><div style="background:#BF5700;color:#ffffff;border-radius:12px;padding:18px 12px;text-align:center;"><div style="font-size:0.7em;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;opacity:0.9;">Texas · Expected</div><div style="font-size:1.05em;font-weight:800;margin-top:6px;">White helmet, burnt orange jersey</div></div></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:stretch;"><div style="background:#ffffff;color:#461D7C;border:2px solid #461D7C;border-radius:12px;padding:18px 12px;text-align:center;"><div style="font-size:0.7em;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;opacity:0.85;">LSU · Worn</div><div style="font-size:1.05em;font-weight:800;margin-top:6px;">Gold helmet, white jersey, gold pants</div></div><div style="background:#BF5700;color:#ffffff;border-radius:12px;padding:18px 12px;text-align:center;"><div style="font-size:0.7em;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;opacity:0.9;">Texas · Worn</div><div style="font-size:1.05em;font-weight:800;margin-top:6px;">White helmet, burnt orange jersey, white pants</div></div></div>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LSUfootball/status/2121774100758630405"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Jackson Harris scores in the home whites and gold pants, with Texas in burnt orange and white pants, via <a href="https://x.com/LSUfootball" target="_blank" rel="noopener">@LSUfootball</a></p>
+
+**Confirmed from LSU's game photos: LSU wore the home whites**, a gold helmet, white jersey and gold pants, the same look it wore against every SEC visitor in Tiger Stadium this season. That flipped Texas into color on the road: **a white helmet, burnt orange jersey and white pants**, one of the only times all season the Longhorns left Austin in burnt orange instead of their icy whites. The full story of the tradition is in [why does LSU wear white at home](/stories/why-does-lsu-wear-white-at-home).
+
+**Final: Texas 22, LSU 21.** It was the first time Texas had played in Tiger Stadium since 1953. The season is logged on the [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026) and the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LSUfootball/status/2120881549935513651"></a></blockquote>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">LSU's game-week graphic for Texas, with the white jersey and gold pants, via <a href="https://x.com/LSUfootball" target="_blank" rel="noopener">@LSUfootball</a></p>
-
-LSU wears white at home, and it has worn the home whites against every SEC visitor in Tiger Stadium this season, most recently Alabama last week. Neither team has posted its game uniform yet, so this is the expected look, not a confirmed one. LSU's game-week graphic does show a player in the white jersey and gold pants. If LSU stays in white, Texas wears burnt orange on the road instead of its icy whites, one of the only times all season the Longhorns leave Austin in color. The full story of the tradition is in [why does LSU wear white at home](/stories/why-does-lsu-wear-white-at-home).
-
-It is the first time Texas has played in Tiger Stadium since 1953. The last meeting, in Austin in 2019, went to LSU, 45-38. We will update this page when either team posts its uniform, and the season is logged on the [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026) and the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">LSU's game-week graphic for Texas, which previewed the white jersey and gold pants, via <a href="https://x.com/LSUfootball" target="_blank" rel="noopener">@LSUfootball</a></p>
 
 ## Our Take
 
@@ -101,9 +107,9 @@ LSU got the hard part right. Retiring the jersey and keeping the number in use i
 
 ## Frequently Asked Questions
 
-**When is LSU retiring Bert Jones' jersey?**
+**When did LSU retire Bert Jones' jersey?**
 
-Tonight, Saturday, November 14, 2026, at halftime of LSU vs. Texas in Tiger Stadium. LSU announced the honor on July 15.
+Saturday, November 14, 2026, at LSU vs. Texas in Tiger Stadium, in a ceremony LSU scheduled for halftime. LSU announced the honor on July 15.
 
 **What number did Bert Jones wear at LSU?**
 
@@ -115,7 +121,7 @@ No. LSU is retiring Jones' jersey, but under a 2007 bylaw the number can still b
 
 **What numbers has LSU football retired?**
 
-Five jerseys: Billy Cannon's No. 20, Tommy Casanova's No. 37, Jerry Stovall's No. 21, Charles Alexander's No. 4 and, as of tonight, Bert Jones' No. 7. Only No. 20 can never be worn again.
+Five jerseys: Billy Cannon's No. 20, Tommy Casanova's No. 37, Jerry Stovall's No. 21, Charles Alexander's No. 4 and, as of November 14, 2026, Bert Jones' No. 7. Only No. 20 can never be worn again.
 
 **Why is No. 7 special at LSU?**
 
@@ -137,9 +143,9 @@ The nickname comes from his hometown, Ruston, Louisiana, where he played high sc
 
 The Baltimore Colts drafted him No. 2 overall in 1973. He played 10 seasons, won NFL MVP in 1976 and retired after the 1982 season because of a neck injury.
 
-**What is LSU wearing against Texas?**
+**What did LSU wear against Texas?**
 
-The home whites are expected: gold helmet, white jersey and gold pants. That would put Texas in burnt orange. Neither team had posted its game uniform when this was published.
+The home whites: gold helmet, white jersey and gold pants, confirmed from LSU's game photos. Texas wore a white helmet, burnt orange jersey and white pants. Texas won, 22-21.
 
 ## More LSU And College Football Uniform Coverage
 

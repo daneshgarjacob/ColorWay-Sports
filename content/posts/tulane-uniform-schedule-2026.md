@@ -3,7 +3,7 @@ title: "Tulane Uniform Schedule 2026: Every Jersey and When the Green Wave Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-28"
+updatedDate: "2026-11-15"
 excerpt: "What Tulane wears every game in 2026: the green home jersey, the white road set, the sky blue alternate, the Mardi Gras City Edition, and every date."
 gradient: "linear-gradient(135deg, #006747 0%, #0a4f3a 55%, #418FDE 130%)"
 cardStyle: words
@@ -96,7 +96,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
 
 **November 7 vs. Tulsa.** Green expected. Homecoming in New Orleans, kickoff to be announced, and Homecoming is the other date on this schedule where a program normally saves something. More: [Tulsa uniform schedule](/stories/tulsa-uniform-schedule-2026).
 
-**November 14 at Rice.** White expected. A trip to Rice Stadium in Houston, kickoff to be announced.
+**November 14 at Rice.** White expected. A trip to Rice Stadium in Houston, kickoff to be announced. **Final: Tulane 20, Rice 17.**
 
 **November 21 vs. North Texas.** Green expected. Senior Day and the final home game of the regular season. More: [North Texas uniform schedule](/stories/north-texas-uniform-schedule-2026).
 

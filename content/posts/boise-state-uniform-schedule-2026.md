@@ -3,7 +3,7 @@ title: "Boise State Uniform Schedule 2026: Every Jersey and When the Broncos Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "Every Boise State jersey and uniform in 2026: blue on The Blue, white on the road, the 40th anniversary helmet, and the full Broncos schedule week by week."
 gradient: "linear-gradient(135deg, #0033A0 0%, #10275C 55%, #D64309 130%)"
 cardStyle: words
@@ -85,7 +85,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 **November 7 at Colorado State.** ★ Confirmed by Boise State ("Color rush on the road"): **orange helmet with the blue Broncos script, blue jersey with silver numbers, orange pants.** We had white down; the Broncos wear their color on the road instead, at Canvas Stadium. Colorado State's view of the game is on our [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026). **Final: Boise State 64, Colorado State 38.** We have not checked this game against game photos.
 
-**November 14 vs. Oregon State.** Blue expected, with a blue fan scheme to match.
+**November 14 vs. Oregon State.** Blue expected, with a blue fan scheme to match. **Final: Boise State 46, Oregon State 41.**
 
 **November 21 vs. San Diego State.** Blue expected. The final home game and the end of Pac-12 conference play.
 

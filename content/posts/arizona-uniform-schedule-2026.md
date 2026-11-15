@@ -3,7 +3,7 @@ title: "Arizona Uniform Schedule 2026: Every Jersey and When the Wildcats Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-07"
+updatedDate: "2026-11-15"
 excerpt: "Arizona football uniforms for 2026: Sandstorm with red pants at West Virginia, navy at home, white on the road, and every Wildcats jersey week by week."
 gradient: "linear-gradient(135deg, #0C234B 0%, #1a3566 55%, #AB0520 130%)"
 cardStyle: words
@@ -42,7 +42,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
   <div style="background: #0C234B; color: #ffffff; border: 2px solid #AB0520; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f3ece0; color: #AB0520; border: 1px solid #e2d6c2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Sandstorm ★</div></div>
-  <div style="background: #0C234B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #0C234B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #AB0520; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Navy</div></div>
 </div>
@@ -81,7 +81,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
 </div>
  ESPN lists this game on November 7 because the 8:15 p.m. Tucson kickoff is past midnight UTC.
 
-**November 14 vs. Utah.** Navy expected. Military Appreciation night, with fans in red. Arizona has occasionally worn a military-themed uniform for this game, though last season it stayed in its standard look. Utah should be in white; see the [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026).
+**November 14 vs. Utah.** Navy expected. Military Appreciation night, with fans in red. Arizona has occasionally worn a military-themed uniform for this game, though last season it stayed in its standard look. Utah should be in white; see the [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026). **Worn: white helmet, navy jersey, navy pants**, confirmed from the game broadcast, on Military Appreciation night. **Final: Utah 40, Arizona 39.**
 
 **November 21 at Kansas State.** White expected. Final road game, against a purple home side in Manhattan. The Kansas State view is on the [Kansas State 2026 uniform schedule](/stories/kansas-state-uniform-schedule-2026).
 

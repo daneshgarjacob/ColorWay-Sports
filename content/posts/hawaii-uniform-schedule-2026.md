@@ -3,7 +3,7 @@ title: "Hawaii Uniform Schedule 2026: Every Jersey and When the Rainbow Warriors
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "Hawaii uniform schedule 2026: the black set, the white set, White Out and blackout nights, and every Rainbow Warriors game with the jersey worn or expected."
 gradient: "linear-gradient(135deg, #024731 0%, #0b3b2a 55%, #111111 130%)"
 cardStyle: words
@@ -86,7 +86,7 @@ All times below are Hawaii time.
 
 **November 7 at UTEP.** White expected. At the Sun Bowl in El Paso, kickoff time still to be set. **Final: Hawaii 17, UTEP 14.** We have not checked this game against game photos.
 
-**November 14 vs. North Dakota State.** Black expected. Military Night at 6 p.m. on The CW. Nothing special has been announced for it.
+**November 14 vs. North Dakota State.** Black expected. Military Night at 6 p.m. on The CW. Nothing special has been announced for it. **Worn: black helmet and black jersey**, confirmed from the game broadcast. **Final: North Dakota State 21, Hawai'i 13.**
 
 **November 21 at Nevada.** White expected. At Mackay Stadium in Reno, kickoff time still to be set.
 

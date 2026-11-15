@@ -3,7 +3,7 @@ title: "Marshall Uniform Schedule 2026: Every Jersey and When the Thundering Her
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What Marshall wears every game in 2026: the kelly green home jersey, the white road set, three helmet shells, the new chest patch, and the week-by-week schedule."
 gradient: "linear-gradient(135deg, #00B140 0%, #049c3c 55%, #111111 130%)"
 cardStyle: words
@@ -51,7 +51,7 @@ The real story is the helmets. From 2010 through 2021 Marshall wore white and no
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Open</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Play For The 75</div></div>
+  <div style="background: #ffffff; color: #00B140; border: 2px solid #00B140; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 1970 Replica</div></div>
   <div style="background: #00B140; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green (Senior Day)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at ULM</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -80,7 +80,12 @@ The real story is the helmets. From 2010 through 2021 Marshall wore white and no
 
 **November 7 at Georgia Southern.** White expected. A November trip to Statesboro. **Worn: white**, confirmed from the game broadcast. **Final: Georgia Southern 49, Marshall 13.**
 
-**November 14 vs. App State.** This is the one. Marshall hosts App State on the exact anniversary of the November 14, 1970 plane crash for the annual Play For The 75 game, presented by the WV Lottery, with fans asked to wear black. The Herd has worn custom black helmets for this game in recent years, right down to a one-off shell the athletic department auctioned off in 2024 to benefit the We Are Marshall endowment.
+**November 14 vs. App State.** This is the one. Marshall hosts App State on the exact anniversary of the November 14, 1970 plane crash for the annual Play For The 75 game, presented by the WV Lottery, with fans asked to wear black. The Herd has worn custom black helmets for this game in recent years, right down to a one-off shell the athletic department auctioned off in 2024 to benefit the We Are Marshall endowment. ★ **Worn: the 1970 replica jerseys**, a kelly green helmet with a white center stripe, white jersey with kelly green numbers and trim, and white pants with a green stripe, posted by Marshall as "Honoring them with our 1970 Replica Jerseys" and confirmed from the game broadcast. The black memorial helmet of recent years did not return. **Final: App State 20, Marshall 16.** The full story: [Marshall's 1970 replica jerseys for Play For The 75](/stories/marshall-1970-replica-jerseys-play-for-the-75-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HerdFB/status/2121737217643311614"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Marshall's 1970 replica jerseys for Play For The 75, via <a href="https://x.com/HerdFB" target="_blank" rel="noopener">@HerdFB</a></p>
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HerdZone/status/1857473897874227336"></a></blockquote>
@@ -114,9 +119,9 @@ A kelly green home jersey with white numerals and an arched white MARSHALL wordm
 
 Green helmet, white jersey and green pants for the September 5 loss at Penn State, then white helmet, green jersey and white pants for the 28-26 home win over Middle Tennessee on September 12. Both are confirmed from Marshall's own game photography.
 
-**When does Marshall wear the black helmets in 2026?**
+**What did Marshall wear for Play For The 75 in 2026?**
 
-The Play For The 75 game against App State on Saturday, November 14, the anniversary of the 1970 plane crash. Marshall has worn custom black memorial helmets for that game in recent seasons and fans are being asked to wear black. The 2026 design has not been revealed yet, and we will add it here when it is.
+1970 replica jerseys: a kelly green helmet with a white stripe, white jersey and white pants, against App State on November 14, the anniversary of the 1970 plane crash. Marshall had worn custom black memorial helmets for this game in recent seasons, but not in 2026.
 
 **What is the patch on the Marshall jersey?**
 

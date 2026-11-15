@@ -3,7 +3,7 @@ title: "South Carolina Uniform Schedule 2026: Every Jersey and When the Gamecock
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "South Carolina uniform schedule 2026: every Gamecocks jersey and helmet, garnet, white and glossy black Nike sets, the Cocky helmet, and what they wear each week."
 gradient: "linear-gradient(135deg, #73000A 0%, #4a0007 55%, #000000 130%)"
 cardStyle: words
@@ -66,7 +66,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
 
 **November 7 vs. Texas A&amp;M.** Garnet expected. [Texas A&amp;M](/stories/texas-am-uniform-schedule-2026) should be in white. **Worn: black helmet, black jersey, garnet pants**, confirmed from the game broadcast. We had garnet down; the jersey was black. **Final: South Carolina 17, Texas A&M 9.**
 
-**November 14 at Arkansas.** White expected. Road date in Fayetteville, where the home side wears color.
+**November 14 at Arkansas.** White expected. Road date in Fayetteville, where the home side wears color. **Worn: white helmet with the garnet block C and gamecock and a garnet facemask, white jersey, white pants**, confirmed from the team's helmet post and the game broadcast. **Final: Arkansas 34, South Carolina 6.**
 
 **November 21 vs. Georgia.** Garnet expected. The last home game and the biggest home date on the calendar, so this is the one we are watching for an all-black return. [Georgia](/stories/georgia-uniform-schedule-2026) is expected in white.
 

@@ -3,7 +3,7 @@ title: "Virginia Tech Uniform Schedule 2026: Every Jersey and When the Hokies We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-07"
+updatedDate: "2026-11-15"
 excerpt: "Virginia Tech uniform schedule 2026: the maroon home jersey, white road set, all-orange alternate, Hokie Stone, and every Hokies game's uniform week by week."
 gradient: "linear-gradient(135deg, #630031 0%, #7a1a45 55%, #CF4420 130%)"
 cardStyle: words
@@ -42,7 +42,7 @@ The current base sets are Nike's 2024 refresh, which pulled from the 1999 and 20
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #630031; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
+  <div style="background: #630031; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #630031; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
 </div>
@@ -67,7 +67,7 @@ The current base sets are Nike's 2024 refresh, which pulled from the 1999 and 20
 
 **November 6 at SMU.** White expected, since Virginia Tech is the visitor. A Friday night game in Dallas at 7 p.m. Eastern on ESPN. ESPN's schedule feed lists it under November 7 because it runs on UTC. It is played Friday, November 6. **Final: SMU 51, Virginia Tech 28.** Virginia Tech wore white with maroon helmets (checked against the game photos).
 
-**November 14 vs. Stanford.** Maroon expected, since it is a home game. The kickoff time has not been set.
+**November 14 vs. Stanford.** Maroon expected, since it is a home game. The kickoff time has not been set. **Worn: maroon helmet, maroon jersey, white pants**, confirmed from the game broadcast. **Final: Stanford 40, Virginia Tech 22.**
 
 **November 21 at Miami.** White expected, since Virginia Tech is the visitor. Miami wears orange at home at Hard Rock Stadium. Miami's black Miami Nights set debuted against Virginia Tech in 2017, so a night kickoff here is worth watching on both sides. We track the Hurricanes on the [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026).
 

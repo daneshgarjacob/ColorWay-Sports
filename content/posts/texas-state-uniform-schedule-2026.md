@@ -3,7 +3,7 @@ title: "Texas State Uniform Schedule 2026: Every Jersey and When the Bobcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What Texas State wears every game in its first Pac-12 season: maroon and gold at home, the white road set, the Bobcats script helmet and the full schedule."
 gradient: "linear-gradient(135deg, #501214 0%, #2e0a0c 55%, #8D734A 130%)"
 cardStyle: words
@@ -74,7 +74,7 @@ This is also a new conference. Texas State spent 13 seasons in the Sun Belt befo
 
 **November 7 at Oregon State.** White expected. A late kickoff at Reser Stadium on The CW. Our [Oregon State 2026 uniform schedule](/stories/oregon-state-uniform-schedule-2026) has the Beavers. **Worn: gold helmet with the maroon star, white jersey, white pants**, confirmed from the game broadcast. **Final: Texas State 42, Oregon State 21.**
 
-**November 14 vs. Fresno State.** Maroon expected. Heroes Day and Community Day, 3 p.m. Central on The CW. Fresno State should be in white; see our [Fresno State 2026 uniform schedule](/stories/fresno-state-uniform-schedule-2026).
+**November 14 vs. Fresno State.** Maroon expected. Heroes Day and Community Day, 3 p.m. Central on The CW. Fresno State should be in white; see our [Fresno State 2026 uniform schedule](/stories/fresno-state-uniform-schedule-2026). **Final: Texas State 37, Fresno State 35.**
 
 **November 21 vs. Washington State.** Maroon expected. Senior Day and "T" Association Weekend, 5 p.m. Central on USA Network, the last scheduled home game. Our [Washington State 2026 uniform schedule](/stories/washington-state-uniform-schedule-2026) has the Cougars.
 

@@ -3,7 +3,7 @@ title: "UCLA Uniform Schedule 2026: Every Jersey and When the Bruins Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What jersey is UCLA wearing this week? The full UCLA uniform schedule for 2026: powder blue home jerseys, white road uniforms, the throwback alternate and every game."
 gradient: "linear-gradient(135deg, #2774AE 0%, #005587 55%, #FFD100 130%)"
 cardStyle: words
@@ -72,7 +72,7 @@ The base sets are Jordan Brand, which took over UCLA in 2021 and put the Jumpman
 
 **November 7 at Minnesota.** White expected. A November night at Huntington Bank Stadium, time still to be announced. **Worn: gold helmet, white jersey, gold pants**, confirmed from game photos. **Final: UCLA 34, Minnesota 20.**
 
-**November 13 vs. Illinois.** Blue expected. This is a Friday night game, 6 p.m. Pacific on FOX, so ESPN shows it under November 14.
+**November 13 vs. Illinois.** Blue expected. This is a Friday night game, 6 p.m. Pacific on FOX, so ESPN shows it under November 14. **Final: UCLA 22, Illinois 14.**
 
 **November 21 at Michigan.** White expected. Michigan is expected in navy at Michigan Stadium, which puts UCLA's white and gold against Michigan's navy and maize.
 

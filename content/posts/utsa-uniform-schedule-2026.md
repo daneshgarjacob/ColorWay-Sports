@@ -3,7 +3,7 @@ title: "UTSA Uniform Schedule 2026: Every Jersey and When the Roadrunners Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "What UTSA wears every game in 2026: navy at the Alamodome, white on the road, the Fiesta helmet and the full week-by-week Roadrunners uniform schedule."
 gradient: "linear-gradient(135deg, #0C2340 0%, #13294b 55%, #F15A22 130%)"
 cardStyle: words
@@ -72,7 +72,7 @@ The piece that got national attention this season is the helmet UTSA wore for it
 
 **November 5 at Florida Atlantic.** White expected. A Thursday night in Boca Raton, 8 p.m. Eastern.
 
-**November 14 vs. North Texas.** Navy expected. Homecoming at the Alamodome. North Texas should be in white; our [North Texas 2026 uniform schedule](/stories/north-texas-uniform-schedule-2026) has the Mean Green.
+**November 14 vs. North Texas.** Navy expected. Homecoming at the Alamodome. North Texas should be in white; our [North Texas 2026 uniform schedule](/stories/north-texas-uniform-schedule-2026) has the Mean Green. **Final: UTSA 35, North Texas 16.**
 
 **November 21 at UAB.** White expected. Protective Stadium in Birmingham, kickoff time still to be set.
 

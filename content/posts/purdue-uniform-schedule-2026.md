@@ -3,7 +3,7 @@ title: "Purdue Uniform Schedule 2026: Every Jersey and When the Boilermakers Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-10"
+updatedDate: "2026-11-15"
 excerpt: "What Purdue wears every game in 2026: black home jerseys, the white road set, gold and black helmets, and the full Boilermakers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #2a2a2a 55%, #CEB888 130%)"
 cardStyle: words
@@ -72,7 +72,7 @@ The Illini side is on the [Illinois 2026 uniform schedule](/stories/illinois-uni
 
 **November 7 vs. Maryland.** Black expected. Homecoming at Ross-Ade Stadium, the home date we are watching most closely for an alternate or a special helmet. The [Maryland 2026 uniform schedule](/stories/maryland-uniform-schedule-2026) has the Terrapins' side.
 
-**November 14 at Iowa.** White expected. Kinnick Stadium, with Iowa in black and gold, so this is the rare game where both teams are black and gold programs. Our [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026) notes this date falls in the window for the Hawkeyes' annual military appreciation game.
+**November 14 at Iowa.** White expected. Kinnick Stadium, with Iowa in black and gold, so this is the rare game where both teams are black and gold programs. Our [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026) notes this date falls in the window for the Hawkeyes' annual military appreciation game. **Final: Iowa 28, Purdue 7.**
 
 **November 21 vs. Wisconsin.** Black expected. The final home game, with Wisconsin in white. The [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026) tracks the Badgers.
 

@@ -3,7 +3,7 @@ title: "Miami Hurricanes Uniform Schedule 2026: Every Jersey and When the Hurric
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-14"
+updatedDate: "2026-11-15"
 excerpt: "Miami Hurricanes uniform schedule 2026: orange home jerseys, the all-white road set, the Miami Nights black alternate, and every game's jersey week by week."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 cardStyle: words
@@ -87,7 +87,7 @@ Miami's base wardrobe barely changes. One white helmet covers the orange and whi
 
 **November 7 at Notre Dame**, 7:30 p.m. Eastern on NBC. ★ Worn: the **2001 Tribute road set**, white helmet with the orange and green center stripe, white throwback jersey and **green pants**, the first time the road half of the throwbacks went on the field, against Notre Dame's navy jerseys, gold helmets and gold pants. [Graded A](/stories/miami-notre-dame-2001-throwback-uniforms-2026). **Final: Notre Dame 31, Miami 24.**
 
-**November 14 vs. Duke**, noon Eastern on ABC, Homecoming at Hard Rock Stadium. ★ Confirmed from Miami's game photos: the **2001 Tribute** home set again, **white helmet with the orange and green center stripe, orange jersey with the green and white shoulder stripes and green-outlined white numbers, white pants**. It is the second time the orange throwback has been on the field, after Pittsburgh on October 24, and the third game in the 2001 set counting the white version at Notre Dame.
+**November 14 vs. Duke**, noon Eastern on ABC, Homecoming at Hard Rock Stadium. ★ Confirmed from Miami's game photos: the **2001 Tribute** home set again, **white helmet with the orange and green center stripe, orange jersey with the green and white shoulder stripes and green-outlined white numbers, white pants**. It is the second time the orange throwback has been on the field, after Pittsburgh on October 24, and the third game in the 2001 set counting the white version at Notre Dame. Worn as posted, confirmed from the game broadcast. **Final: Miami 36, Duke 25.**
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2121660631887618331"></a></blockquote>

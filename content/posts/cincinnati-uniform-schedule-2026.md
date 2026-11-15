@@ -3,7 +3,7 @@ title: "Cincinnati Uniform Schedule 2026: Every Jersey and When the Bearcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "Cincinnati Bearcats uniform schedule 2026: every jersey and helmet week by week, from the all-red opener to black at Nipp at Night and white on the road."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #E00122 130%)"
 cardStyle: words
@@ -72,7 +72,7 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
 
 **November 7 at Houston.** White expected. The Bearcats and Cougars were conference rivals in the American before both moved to the Big 12. **Worn: black helmet, white jersey, black pants**, confirmed from the game broadcast. **Final: Houston 31, Cincinnati 24.**
 
-**November 14 at Iowa State.** White expected. A November trip to Jack Trice Stadium in Ames.
+**November 14 at Iowa State.** White expected. A November trip to Jack Trice Stadium in Ames. **Final: Iowa State 41, Cincinnati 13.**
 
 **November 21 vs. Colorado.** Black or red expected. The last home game of the season, with Colorado in white per the [Colorado 2026 uniform schedule](/stories/colorado-uniform-schedule-2026).
 

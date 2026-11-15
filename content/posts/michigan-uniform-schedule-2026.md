@@ -3,7 +3,7 @@ title: "Michigan Uniform Schedule 2026: Every Jersey and When the Wolverines Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-13"
+updatedDate: "2026-11-15"
 excerpt: "What Michigan wears every game in 2026: the winged helmet, the navy home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #00274C 0%, #0b3a6b 55%, #FFCB05 130%)"
 cardStyle: words
@@ -72,7 +72,7 @@ The winged helmet is the whole identity, and it is worn with both sets, so the o
 
 **November 7 vs. Michigan State.** Navy expected. **Final: Michigan State 15, Michigan 6.** We have not checked this game against game photos.
 
-**November 14 at Oregon.** ★ Confirmed: the winged helmet, white jersey and maize pants, posted by Michigan on November 13.
+**November 14 at Oregon.** ★ Confirmed: the winged helmet, white jersey and maize pants, posted by Michigan on November 13. **Final: Oregon 31, Michigan 7.**
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UMichFootball/status/2121323847500923033"></a></blockquote>

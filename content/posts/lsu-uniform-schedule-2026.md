@@ -3,7 +3,7 @@ title: "LSU Uniform Schedule 2026: Why the Tigers Wear White at Home, and Every 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-10"
+updatedDate: "2026-11-15"
 excerpt: "What LSU wears every game in 2026, including the home white tradition that flips every visiting team into color, week by week."
 gradient: "linear-gradient(135deg, #461D7C 0%, #2d1250 55%, #FDD023 130%)"
 cardStyle: words
@@ -43,7 +43,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
   <div style="background: #f1f3f8; color: #333; border: 2px solid #461D7C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #461D7C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Home White</div></div>
-  <div style="background: #461D7C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Home White</div></div>
+  <div style="background: #ffffff; color: #461D7C; border: 2px solid #461D7C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -68,7 +68,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 **November 7 vs. Alabama.** Home White expected. Alabama in crimson in Tiger Stadium. The single best-looking date on the SEC calendar, and the one open date on our [Alabama page](/stories/alabama-uniform-schedule-2026). **Worn: gold helmet, white jersey, gold pants**, confirmed from the game broadcast. Alabama wore crimson. **Final: Alabama 31, LSU 13.**
 
-**November 14 vs. Texas.** Home White expected. Texas in burnt orange rather than the icy whites. Confirmed as the open date on our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026). LSU also retires Bert Jones' No. 7 jersey at halftime; see [LSU retires Bert Jones' No. 7](/stories/lsu-retires-bert-jones-number-7-2026).
+**November 14 vs. Texas.** ★ Confirmed from LSU's game photos: **home whites, gold helmet, white jersey, gold pants**, with Texas in burnt orange rather than the icy whites (see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026)). **Final: Texas 22, LSU 21.** LSU also retired Bert Jones' No. 7 jersey that night; see [LSU retires Bert Jones' No. 7](/stories/lsu-retires-bert-jones-number-7-2026).
 
 **November 21 at Tennessee.** White expected, with Tennessee in orange at Neyland.
 

@@ -3,7 +3,7 @@ title: "Air Force Uniform Schedule 2026: Every Jersey and When the Falcons Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What Air Force wears every game in 2026: the blue home set, the Freedom 250 opener, the B-21 Raider uniform against Navy, and both trophy games."
 gradient: "linear-gradient(135deg, #003087 0%, #0b47a8 55%, #8A8D8F 130%)"
 cardStyle: words
@@ -75,7 +75,7 @@ One structural note before the grid. The 2026 slate gave Air Force seven home ga
   <div style="background: #f1f3f8; color: #333; border: 2px solid #003087; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wyoming</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / White</div></div>
   <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Jose State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Jose State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Blue</div></div>
   <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTEP</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at New Mexico</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -100,7 +100,7 @@ One structural note before the grid. The 2026 slate gave Air Force seven home ga
 
 **November 7 at Army.** White expected. The second Commander-in-Chief's Trophy game, at Michie Stadium on CBS, and Army's only home night game of the season. The Black Knights wear black at home, so the color assignment here is not in question. What Army does with its pants is the variable, and the [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026) tracks it. One thing worth being clear about: the B-21 uniform was spent on October 3, so do not expect the Air Power Legacy Series set to travel to West Point. **Worn: white helmet, white jersey, white pants**, confirmed from the game broadcast. Army wore a black helmet, black jersey and black pants. **Final: Air Force 24, Army 21.**
 
-**November 14 vs. San Jose State.** Blue expected.
+**November 14 vs. San Jose State.** Blue expected. **Worn: blue helmet, blue jersey, blue pants**, confirmed from the game broadcast. **Final: Air Force 24, San José State 3.**
 
 **November 20 vs. UTEP.** Blue expected. Another Friday night on The CW, and the last home game of the season.
 

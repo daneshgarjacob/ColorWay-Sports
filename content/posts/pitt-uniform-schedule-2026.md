@@ -3,7 +3,7 @@ title: "Pitt Uniform Schedule 2026: Every Jersey and When the Panthers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "What Pitt wears every game in 2026: royal blue at home, white on the road, the gold script helmet, and the full Panthers uniform schedule."
 gradient: "linear-gradient(135deg, #003594 0%, #1a4aa8 55%, #FFB81C 130%)"
 cardStyle: words
@@ -72,7 +72,7 @@ The current look goes back to 2019, when Pitt dropped navy and "Vegas" gold and 
 
 **November 7.** Bye.
 
-**November 13 vs. Florida State (Friday).** Blue expected. Senior Night and the home finale, 7 p.m. Eastern on ESPN. Calendar note: ESPN files this game under November 14 because its feed runs on UTC. It is a Friday night game on November 13. The [Florida State 2026 uniform schedule](/stories/florida-state-uniform-schedule-2026) tracks the Seminoles.
+**November 13 vs. Florida State (Friday).** Blue expected. Senior Night and the home finale, 7 p.m. Eastern on ESPN. Calendar note: ESPN files this game under November 14 because its feed runs on UTC. It is a Friday night game on November 13. The [Florida State 2026 uniform schedule](/stories/florida-state-uniform-schedule-2026) tracks the Seminoles. **Worn: gold helmet, royal jersey, royal pants**, confirmed from the game broadcast. **Final: Florida State 16, Pitt 10.**
 
 **November 21 at Louisville.** White expected. It is Senior Day in Louisville, where the Cardinals are expected in red. See the [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026).
 

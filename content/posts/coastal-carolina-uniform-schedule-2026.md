@@ -3,7 +3,7 @@ title: "Coastal Carolina Uniform Schedule 2026: Every Jersey and When the Chanti
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What Coastal Carolina wears every game in 2026: teal at home, white on the road, the Teal Out and Black Out dates, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #006F71 0%, #0a9a9a 55%, #111111 130%)"
 cardStyle: words
@@ -84,7 +84,7 @@ Under Armour outfits Coastal, and the whole closet is built around teal, bronze 
 
 **November 7 vs. Old Dominion.** Black expected. Homecoming and a stadium-wide Black Out, which is the one home date where the teal jersey could sit. **Worn: black**, confirmed from the game broadcast. **Final: Old Dominion 21, Coastal Carolina 8.**
 
-**November 14 vs. Arkansas State.** Teal expected. Senior Day and Salute to Service, the final home game of the season.
+**November 14 vs. Arkansas State.** Teal expected. Senior Day and Salute to Service, the final home game of the season. **Final: Coastal Carolina 28, Arkansas State 21.**
 
 **November 21 at Louisiana.** White expected. A trip to Lafayette and Our Lady of Lourdes Stadium.
 

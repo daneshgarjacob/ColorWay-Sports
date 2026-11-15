@@ -688,6 +688,49 @@
     }
    ],
    "shopQuery": "ohio state buckeyes scarlet football jersey"
+  },
+  "2026-11-15": {
+   "team": "San Francisco 49ers",
+   "teamShort": "49ers",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Throwback",
+   "jerseyName": "Red 1994 Throwback",
+   "image": "/images/jotd/49ers-1994-throwback-red-dallas-2026.jpg",
+   "imageAlt": "49ers quarterback Brock Purdy in the red 1994 throwback jersey and gold helmet warming up at AT&T Stadium",
+   "imagePosition": "50% 30%",
+   "imageCaption": "Brock Purdy in the red 1994 throwback before kickoff in Arlington.",
+   "credit": {
+    "text": "San Francisco 49ers (@49ers)",
+    "url": "https://x.com/49ers/status/2122073919259619647"
+   },
+   "worn": {
+    "date": "2026-11-15",
+    "matchup": "at Dallas Cowboys, Week 10 (4:25 p.m. ET, FOX)",
+    "status": "Confirmed",
+    "note": "Red 1994 throwback jersey with the black drop-shadow numbers and sleeve stripes, gold helmet with the red-white-red stripe and the 1990s SF oval, white pants with the red and black stripe, red socks. Confirmed from the 49ers' pregame photos."
+   },
+   "why": "The best throwback in the NFL. Super Bowl XXIX red, the shadow numbers and the sleeve stripes, and they wear it in Dallas against the team they fought for the NFC all through the '90s.",
+   "whyPlaceholder": true,
+   "colorwayGrade": "A-",
+   "story": "San Francisco brought out its red 1994 throwback for the trip to AT&T Stadium, the home jersey of the Super Bowl XXIX team, with white pants and red socks under the gold helmet. It is the first of two dates for the red version this season; the 49ers wear it again at home against the Eagles in Week 17. Dallas is in its white at home.",
+   "tweet": {
+    "url": "https://twitter.com/49ers/status/2122073919259619647",
+    "label": "The 49ers in the 1994 throwback in Dallas, via @49ers"
+   },
+   "scheduleSlug": "49ers-uniform-schedule-2026",
+   "scheduleLabel": "49ers 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "nfl-week-10-uniforms-2026",
+     "label": "NFL Week 10 uniforms: every game"
+    },
+    {
+     "slug": "nfl-uniform-tracker-2026",
+     "label": "NFL uniform tracker: what every team wore"
+    }
+   ],
+   "shopQuery": "49ers 1994 throwback jersey"
   }
  }
 }

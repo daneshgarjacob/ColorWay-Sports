@@ -3,7 +3,7 @@ title: "Stanford Uniform Schedule 2026: Every Jersey and When the Cardinal Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "What Stanford wears every game in 2026: the cardinal home jersey, the white road set, the black alternate, and the full Cardinal uniform schedule week by week."
 gradient: "linear-gradient(135deg, #8C1515 0%, #a81c1c 55%, #ffffff 130%)"
 cardStyle: words
@@ -97,7 +97,7 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
 
 **November 7.** Bye.
 
-**November 14 at Virginia Tech.** White expected. A November trip to Blacksburg. The Hokies are tracked on the [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026).
+**November 14 at Virginia Tech.** White expected. A November trip to Blacksburg. The Hokies are tracked on the [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026). **Worn: white jersey**, confirmed from the game broadcast. **Final: Stanford 40, Virginia Tech 22.**
 
 **November 21 at California.** White expected. The 129th Big Game, and the one date on the schedule where a uniform surprise would land hardest. Stanford is the visitor this year, so white is the convention, with the Axe on the line in Berkeley.
 

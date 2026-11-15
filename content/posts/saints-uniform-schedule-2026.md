@@ -2,7 +2,7 @@
 title: "Saints Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-15"
 excerpt: "Saints uniform schedule 2026: the gold jersey once under the black helmet, white at home twice, the white helmet three times. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2e2a1f 55%, #D3BC8D 130%)"
 coverImage: "/images/posts/saints-uniform-schedule-2026/cover.jpg"
@@ -51,7 +51,7 @@ Nine home games including Paris, eight on the road, and a Week 8 bye.
   <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Black · Gold Pants · Paris</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #D3BC8D; color: #101820; border: 2px solid #101820; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold · Gold Pants · Black Helmet</div></div>
-  <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black · Black Helmet</div></div>
+  <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black · Black Helmet · Black Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White Alt · White Helmet</div></div>
   <div style="background: #101820; color: #ffffff; border: 2px solid #D3BC8D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Packers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black</div></div>
@@ -133,11 +133,11 @@ How does every one of these jerseys stack up? See our [Saints jerseys 2026 ranki
 
 **What jersey are the Saints wearing today?**
 
-Week 9 against Cleveland, November 8, worn: black helmet, gold jersey and gold pants, the Saints' only gold-jersey game of the season. The Browns wore white over brown pants, and New Orleans won 23-22. We grade the matchup a B+. This answer updates every week. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
+Week 10 against Carolina, November 15, worn: all black, the black helmet, black jersey and black pants. The Panthers wore the silver helmet, white jersey and white pants, and Carolina won 20-17. We grade the matchup a B. This answer updates every week. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
 
 **What jerseys are the Saints wearing this week?**
 
-Week 9 against Cleveland, November 8, worn: black helmet, gold jersey and gold pants, the Saints' only gold-jersey game of the season. The Browns wore white over brown pants, and New Orleans won 23-22. We grade the matchup a B+. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
+Week 10 against Carolina, November 15, worn: all black, the black helmet, black jersey and black pants. The Panthers wore the silver helmet, white jersey and white pants, and Carolina won 20-17. We grade the matchup a B. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
 
 **What uniform did the Saints wear last week?**
 

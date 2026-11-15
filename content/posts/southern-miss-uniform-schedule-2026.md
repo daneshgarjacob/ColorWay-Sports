@@ -3,7 +3,7 @@ title: "Southern Miss Uniform Schedule 2026: Every Jersey and When the Golden Ea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "What Southern Miss wears every game in 2026: the all-black home set, the white road jersey, both helmets and the week-by-week Golden Eagles uniform schedule."
 gradient: "linear-gradient(135deg, #000000 0%, #1a1a1a 55%, #FFC72C 130%)"
 cardStyle: words
@@ -65,7 +65,7 @@ Two habits stand out so far. At home, Southern Miss has gone black from helmet t
 
 **November 5 vs. James Madison.** Black expected. Thursday Night Under the Lights and a Blackout, 8 p.m. Eastern on ESPN or ESPN2. Black is the only call for a Blackout. JMU is expected in white; our [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026) has the Dukes.
 
-**November 14 at Louisiana Tech.** White expected. Joe Aillet Stadium in Ruston.
+**November 14 at Louisiana Tech.** White expected. Joe Aillet Stadium in Ruston. **Worn: white jersey and white pants**, confirmed from the game broadcast. **Final: Louisiana Tech 63, Southern Miss 31.**
 
 **November 21 vs. South Alabama.** Black expected. Senior Day and Military Appreciation, the home finale and another date where a special helmet decal or patch is common.
 

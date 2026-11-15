@@ -3,7 +3,7 @@ title: "Maryland Uniform Schedule 2026: Every Jersey and When the Terrapins Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-10-29"
+updatedDate: "2026-11-15"
 excerpt: "Maryland's 2026 uniform schedule: every Terps jersey and helmet week by week, from the Script Terps red home set to the new Los Terps helmet."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #b8262b 55%, #FFD520 130%)"
 cardStyle: words
@@ -67,7 +67,7 @@ Maryland has been Under Armour's showcase program for two decades, and no school
 
 **November 7 at Purdue.** White expected. A trip to Ross-Ade Stadium.
 
-**November 14 vs. Wisconsin.** Red expected. Military Appreciation Day. No special uniform has been announced for it, and Wisconsin will be in white.
+**November 14 vs. Wisconsin.** Red expected. Military Appreciation Day. No special uniform has been announced for it, and Wisconsin will be in white. **Final: Maryland 24, Wisconsin 21.**
 
 **November 21 at USC.** White expected. The last road game of the year, at the Coliseum with USC in cardinal.
 

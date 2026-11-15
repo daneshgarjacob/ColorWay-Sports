@@ -3,7 +3,7 @@ title: "Duke Uniform Schedule 2026: Every Jersey and When the Blue Devils Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "Duke uniform schedule 2026: blue home jerseys, the all-white road set, the Gothic Duke helmet, black alternates, and every Blue Devils game's jersey week by week."
 gradient: "linear-gradient(135deg, #012169 0%, #00539B 55%, #ffffff 130%)"
 cardStyle: words
@@ -41,7 +41,7 @@ Nike outfits Duke, and the base jerseys have barely moved in years. The helmet i
   <div style="background: #f1f3f8; color: #333; border: 2px solid #00539B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 23 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue Helmet / White Jersey</div></div>
   <div style="background: #00539B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Royal</div></div>
   <div style="background: #00539B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -66,7 +66,7 @@ Nike outfits Duke, and the base jerseys have barely moved in years. The helmet i
 
 **November 7 at NC State.** White expected. The Tobacco Road trip to Carter-Finley Stadium is NC State's Military Appreciation game, and the Wolfpack could bring back their camo Wolfpack Warriors set; we cover that on the [NC State 2026 uniform schedule](/stories/nc-state-uniform-schedule-2026). Worth remembering: on its last trip to Raleigh in 2024, Duke wore the black helmet with white Gothic lettering.
 
-**November 14 at Miami.** White expected, with Miami in orange at Hard Rock Stadium, per the [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026).
+**November 14 at Miami.** White expected, with Miami in orange at Hard Rock Stadium, per the [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026). **Worn: white helmet, white jersey, royal blue pants**, confirmed from the game broadcast. **Final: Miami 36, Duke 25.**
 
 **November 20 vs. Clemson.** Blue expected. The final home game, a Friday night kickoff at 7:30 p.m. Eastern on ESPN, with Clemson in white. ESPN files this game under November 21 because its feed runs on UTC, but it is a Friday, November 20 game. See the [Clemson 2026 uniform schedule](/stories/clemson-uniform-schedule-2026) for the Tigers' side.
 

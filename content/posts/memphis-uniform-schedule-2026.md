@@ -3,7 +3,7 @@ title: "Memphis Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "What Memphis wears every game in 2026: the blue home jersey, the white road set, the gray pants, the new FedEx patch, and the full week-by-week schedule."
 gradient: "linear-gradient(135deg, #003087 0%, #1a4ba3 55%, #898D8D 130%)"
 cardStyle: words
@@ -91,7 +91,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
 
 **November 7.** Bye.
 
-**November 12 at South Florida.** White expected. A Thursday night trip to Raymond James Stadium, 7 p.m. Central.
+**November 12 at South Florida.** White expected. A Thursday night trip to Raymond James Stadium, 7 p.m. Central. **Worn: white helmet with blue tiger stripes, white jersey, white pants**, confirmed from the game broadcast. **Final: Memphis 52, South Florida 41.**
 
 **November 21 at Navy.** White expected. An 11 a.m. Central kickoff in Annapolis, and Navy is the home team in navy and gold, so Memphis in white is close to locked. Our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026) has the Midshipmen side of it.
 

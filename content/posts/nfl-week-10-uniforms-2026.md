@@ -3,7 +3,7 @@ title: "NFL Week 10 Uniforms 2026: What Every Team Is Wearing, Including Giants 
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-09"
-updatedDate: "2026-11-13"
+updatedDate: "2026-11-15"
 excerpt: "NFL Week 10 uniforms (Nov. 12-16): the Giants wear Vintage White on Thursday night, the Ravens debut all-black Darkness Falls on Monday night, the Bengals wear the White Bengal, the 49ers bring the red 1994 throwback to Dallas, the Titans debut Music City, plus Munich and every other game."
 gradient: "linear-gradient(135deg, #0B2265 0%, #0C1526 55%, #241773 130%)"
 coverImage: "/images/posts/nfl-week-10-uniforms-2026/cover.jpg"
@@ -67,6 +67,8 @@ All black against white and powder blue is the sharpest contrast of the week. Ou
 
 ### Pittsburgh Steelers at Cincinnati Bengals: The White Bengal on Sunday Night
 
+**Full story: [The White Bengal, explained](/stories/bengals-white-bengal-uniform-steelers-snf-2026).**
+
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Bengals/status/2078147748247806191"></a></blockquote>
 </div>
@@ -82,6 +84,8 @@ White tiger stripes against black and gold in a division game on Sunday night is
 
 ### San Francisco 49ers at Dallas Cowboys: The Red 1994 Throwback
 
+**Full story: [Every detail of the 49ers 1994 throwback](/stories/49ers-1994-throwback-uniform-cowboys-2026).**
+
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/49ers/status/2120698098859323515"></a></blockquote>
 </div>
@@ -95,7 +99,11 @@ Dallas published **white** for this game on September 2, the silver star helmet 
 
 Two of the most recognizable looks in the sport, and the 1990s rivalry to go with them. Our matchup grade: **A-**. See the [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026), the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home).
 
+**Game day, from the teams' own photos:** the red 1994 throwback is on, scarlet with white numbers, a black drop shadow and three white sleeve stripes, under the gold helmet, and the pants are **white with a red and black stripe**, worn with red socks. Dallas is in white over silver pants as scheduled, but the silver star helmet carries a **red, white and navy center stripe** on this Salute to Service weekend, not the usual blue and white. The final goes here when the game ends.
+
 ### Jacksonville Jaguars at Tennessee Titans: Music City Debuts
+
+**Full story: [The Titans Music City debut, in full](/stories/titans-music-city-uniform-debut-jaguars-2026).**
 
 <img src="/images/posts/titans-uniform-schedule-2026/rivalries-music-city-hero.jpg" alt="Tennessee Titans Music City Rivalries uniform, navy jersey with Music City script and neon-inspired numbers under a Titans Blue helmet, which debuts against the Jaguars in Week 10 of 2026" style="display:block;width:100%;max-width:460px;margin:0 auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Image: Tennessee Titans</p>
@@ -110,11 +118,15 @@ Two of the most recognizable looks in the sport, and the 1990s rivalry to go wit
 
 The helmet is the best piece of it. Our matchup grade: **B**. See the [Titans 2026 uniform schedule](/stories/titans-uniform-schedule-2026), the [Jaguars 2026 uniform schedule](/stories/jaguars-uniform-schedule-2026), and our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked).
 
+**Final: Jaguars 40, Titans 23.** What was worn: Music City debuted as announced, confirmed in the Titans' own game photos: the Titans Blue helmet with the circular navy T, the navy jersey with Music City in script and light blue numbers, and navy pants with the light blue stripe, worn with light blue socks. Jacksonville wore the black helmet and white jersey with **black pants**.
+
 ### Carolina Panthers at New Orleans Saints: The Black Helmet Again
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/panthers-white-road.jpg" alt="Carolina Panthers white road jersey, scheduled by the team at New Orleans in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Panthers · Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/saints-black-home.jpg" alt="New Orleans Saints black jersey, scheduled by the team with the black helmet against the Panthers in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Saints · Scheduled</figcaption></figure></div>
 
 **Sunday, 1:00 p.m. ET, FOX. Both jerseys scheduled by the teams.** New Orleans published its jersey and helmet plan on September 7, and this is the second and last date for the **black helmet**, one week after it topped the gold jersey. This time it goes over the **black jersey**. Carolina published **white** for the trip on September 4. The captains pick the Saints' pants before the game, and the Panthers announce their helmet and pants in game week. Our matchup grade: **B**. See the [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) and the [Panthers 2026 uniform schedule](/stories/panthers-uniform-schedule-2026).
+
+**Final: Panthers 20, Saints 17.** What was worn: the captains picked **black pants**, so New Orleans went all black, the black helmet, black jersey and black pants, not the gold pants our tracker card had projected. Carolina wore the silver helmet, white jersey and white pants.
 
 ### Houston Texans at Cleveland Browns: Alpha Dawg Expected
 
@@ -127,7 +139,11 @@ The helmet is the best piece of it. Our matchup grade: **B**. See the [Titans 20
 
 **Sunday, 1:00 p.m. ET, FOX. Expected on both sides.** Our Browns schedule has the **Alpha Dawg** set for this game, the second of three projected dates after the Thursday night game against Pittsburgh in Week 4: a brown helmet, a brown jersey with orange numbers, brown pants and brown socks. Houston is expected in **white**. All brown gives up the orange helmet, which is why we graded the Week 4 matchup a C-. Our matchup grade: **C**. See the [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026) and the [Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026).
 
+**Final: Browns 27, Texans 24.** What was worn: our projection held. Cleveland wore Alpha Dawg, the brown helmet with the orange center stripe, brown jersey and brown pants, confirmed in the Browns' game photos, its second all-brown game of the season. Houston wore the navy helmet, white jersey and white pants.
+
 ### Buffalo Bills at New York Jets: The Black Alternate
+
+**Full story: [The Jets all-black uniform vs. the Bills](/stories/jets-black-on-black-uniform-bills-2026).**
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-white-road.jpg" alt="Buffalo Bills white road jersey, expected at the Jets in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jets-black-alternate.jpg" alt="New York Jets black alternate jersey with green shoulder stripes, expected against the Bills in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jets · Expected</figcaption></figure></div>
 
@@ -139,6 +155,8 @@ The helmet is the best piece of it. Our matchup grade: **B**. See the [Titans 20
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Jets' Black on Black for Buffalo, via <a href="https://x.com/nyjets" target="_blank" rel="noopener">@nyjets</a></p>
 
  Our matchup grade: **B-**. See the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026) and the [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
+
+**Final: Bills 31, Jets 12.** What was worn: the Jets wore Black on Black exactly as announced, black helmet, black jersey and black pants. Buffalo wore all white, the white helmet, white jersey and white pants.
 
 ### New England Patriots at Detroit Lions: Munich
 
@@ -152,6 +170,8 @@ The helmet is the best piece of it. Our matchup grade: **B**. See the [Titans 20
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Via @Patriots</p>
 
 **Sunday, 9:30 a.m. ET, FOX, Allianz Arena, Munich. Patriots confirmed, Lions expected.** Detroit is the designated home team, so the game counts as one of its nine home dates. The Lions are expected in **Honolulu blue** and New England in **white** under the silver helmet. Our matchup grade: **B**. See the [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) and the [Patriots 2026 uniform schedule](/stories/patriots-uniform-schedule-2026).
+
+**Final: Lions 35, Patriots 10.** What was worn: New England as announced, the silver helmet, white jersey and silver pants. Detroit wore the silver helmet and Honolulu blue jersey with **silver pants**, not blue pants, so both teams wore silver below the waist. Every look is logged in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
 
 ## The Prime-Time Games
 
@@ -169,11 +189,15 @@ All three national windows carry a confirmed alternate, covered above.
 
 **Sunday, 4:05 p.m. ET, CBS. Rams confirmed, Cardinals scheduled.** The Rams confirmed the **blue helmet, white jersey and white pants** for this trip, the white they published on September 1. Arizona published every jersey on September 1 and has **cardinal red** here. Our matchup grade: **B**. See the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026) and the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
 
+**Game day, from in-game photos:** as scheduled. Arizona is in the white helmet with cardinal red from jersey to pants, and the Rams in the royal helmet, white jersey and white pants. The final goes here when the game ends.
+
 ### Minnesota Vikings at Green Bay Packers
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/vikings-white-road.jpg" alt="Minnesota Vikings white road jersey, expected at Green Bay in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Vikings · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/packers-green-home.jpg" alt="Green Bay Packers green home jersey, expected against the Vikings in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Packers · Expected</figcaption></figure></div>
 
 **Sunday, 1:00 p.m. ET, FOX. Expected on both sides.** Green Bay is expected in **green** under the gold helmet for its only November home game, and Minnesota in **white**. Our matchup grade: **B**. See the [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026) and the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026).
+
+**Final: Vikings 30, Packers 10.** What was worn: as expected. Green Bay wore the gold helmet, green jersey and gold pants, and Minnesota wore the purple helmet, white jersey and white pants.
 
 ### Kansas City Chiefs at Atlanta Falcons
 
@@ -181,17 +205,23 @@ All three national windows carry a confirmed alternate, covered above.
 
 **Sunday, 1:00 p.m. ET, CBS. Falcons confirmed, Chiefs expected.** The Falcons confirmed the **black helmet, red jersey and black pants**, a change from the white pants they wore with the red jersey in Weeks 6 and 8. Kansas City is expected in **white** under the red helmet. Our matchup grade: **B**. See the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026).
 
+**Final: Chiefs 35, Falcons 13.** What was worn: Atlanta as announced, the black helmet, red jersey and black pants. Kansas City wore the red helmet and white jersey with red pants.
+
 ### Miami Dolphins at Indianapolis Colts
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/dolphins-white-road.jpg" alt="Miami Dolphins white jersey, expected at Indianapolis in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Dolphins · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/colts-royal-home.jpg" alt="Indianapolis Colts royal blue home jersey, expected against the Dolphins in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Colts · Expected</figcaption></figure></div>
 
 **Sunday, 1:00 p.m. ET, CBS. Expected on both sides.** Indianapolis is expected back in **royal blue** at home one week after its White Out, and Miami in **white**. Our matchup grade: **B**. See the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026) and the [Dolphins 2026 uniform schedule](/stories/dolphins-uniform-schedule-2026).
 
+**Final: Colts 24, Dolphins 22.** What was worn: as expected. Indianapolis wore the white helmet, royal blue jersey and white pants, and Miami wore the white helmet and white jersey with aqua pants.
+
 ### Seattle Seahawks at Las Vegas Raiders
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-white-road.jpg" alt="Seattle Seahawks white road jersey, expected at Las Vegas in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Seahawks · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/raiders-black-home.jpg" alt="Las Vegas Raiders black home jersey, expected against the Seahawks in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Raiders · Expected</figcaption></figure></div>
 
 **Sunday, 4:05 p.m. ET, CBS. Expected on both sides.** Las Vegas is expected in **black** under the silver helmet for its Salute to Service game, and Seattle in **white**. Our matchup grade: **B**. See the [Raiders 2026 uniform schedule](/stories/raiders-uniform-schedule-2026) and the [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026).
+
+**Game day, from the teams' own photos:** as expected. Las Vegas is in the silver helmet, black jersey and silver pants, and Seattle in the navy helmet, white jersey and white pants. The final goes here when the game ends.
 
 ## Every Week 10 Game
 
@@ -201,17 +231,17 @@ All three national windows carry a confirmed alternate, covered above.
 
 ### Sunday, November 15
 
-- **New England Patriots at Detroit Lions** (Munich), 9:30 a.m. ET, FOX. Patriots: silver helmet, white jersey, silver pants (confirmed). Lions: Honolulu blue (expected). Matchup grade: B.
-- **Kansas City Chiefs at Atlanta Falcons**, 1:00 p.m. ET, CBS. Chiefs: red helmet, white jersey (expected). Falcons: black helmet, red jersey, black pants (confirmed). Matchup grade: B.
-- **Houston Texans at Cleveland Browns**, 1:00 p.m. ET, FOX. Texans: white (expected). Browns: Alpha Dawg, brown helmet, brown jersey, brown pants (expected). Matchup grade: C.
-- **Minnesota Vikings at Green Bay Packers**, 1:00 p.m. ET, FOX. Vikings: white (expected). Packers: gold helmet, green jersey (expected). Matchup grade: B.
-- **Jacksonville Jaguars at Tennessee Titans**, 1:00 p.m. ET, FOX. Jaguars: white (expected). Titans: Music City, Titans Blue helmet, navy jersey (confirmed). Matchup grade: B.
-- **Miami Dolphins at Indianapolis Colts**, 1:00 p.m. ET, CBS. Dolphins: white (expected). Colts: royal blue (expected). Matchup grade: B.
-- **Carolina Panthers at New Orleans Saints**, 1:00 p.m. ET, FOX. Panthers: white (scheduled). Saints: black helmet, black jersey (scheduled). Matchup grade: B.
-- **Buffalo Bills at New York Jets**, 1:00 p.m. ET, CBS. Bills: white (expected). Jets: Black on Black, black helmet, jersey and pants (confirmed). Matchup grade: B-.
-- **Seattle Seahawks at Las Vegas Raiders**, 4:05 p.m. ET, CBS. Seahawks: white (expected). Raiders: silver helmet, black jersey (expected). Matchup grade: B.
-- **Los Angeles Rams at Arizona Cardinals**, 4:05 p.m. ET, CBS. Rams: blue helmet, white jersey, white pants (confirmed). Cardinals: cardinal red (scheduled). Matchup grade: B.
-- **San Francisco 49ers at Dallas Cowboys**, 4:25 p.m. ET, FOX. 49ers: gold helmet, red 1994 throwback (confirmed). Cowboys: silver star helmet, white jersey (scheduled). Matchup grade: A-.
+- **New England Patriots at Detroit Lions** (Munich), 9:30 a.m. ET, FOX. **Final: Lions 35, Patriots 10.** Worn: Patriots silver helmet, white jersey, silver pants; Lions silver helmet, Honolulu blue jersey, silver pants. Grade: B.
+- **Kansas City Chiefs at Atlanta Falcons**, 1:00 p.m. ET, CBS. **Final: Chiefs 35, Falcons 13.** Worn: Chiefs red helmet, white jersey, red pants; Falcons black helmet, red jersey, black pants. Grade: B.
+- **Houston Texans at Cleveland Browns**, 1:00 p.m. ET, FOX. **Final: Browns 27, Texans 24.** Worn: Texans navy helmet, white jersey, white pants; Browns Alpha Dawg, brown helmet, brown jersey, brown pants. Grade: C.
+- **Minnesota Vikings at Green Bay Packers**, 1:00 p.m. ET, FOX. **Final: Vikings 30, Packers 10.** Worn: Vikings purple helmet, white jersey, white pants; Packers gold helmet, green jersey, gold pants. Grade: B.
+- **Jacksonville Jaguars at Tennessee Titans**, 1:00 p.m. ET, FOX. **Final: Jaguars 40, Titans 23.** Worn: Jaguars black helmet, white jersey, black pants; Titans Music City, Titans Blue helmet, navy jersey, navy pants. Grade: B.
+- **Miami Dolphins at Indianapolis Colts**, 1:00 p.m. ET, CBS. **Final: Colts 24, Dolphins 22.** Worn: Dolphins white helmet, white jersey, aqua pants; Colts white helmet, royal blue jersey, white pants. Grade: B.
+- **Carolina Panthers at New Orleans Saints**, 1:00 p.m. ET, FOX. **Final: Panthers 20, Saints 17.** Worn: Panthers silver helmet, white jersey, white pants; Saints all black, black helmet, black jersey, black pants. Grade: B.
+- **Buffalo Bills at New York Jets**, 1:00 p.m. ET, CBS. **Final: Bills 31, Jets 12.** Worn: Bills all white, white helmet, white jersey, white pants; Jets Black on Black, black helmet, black jersey, black pants. Grade: B-.
+- **Seattle Seahawks at Las Vegas Raiders**, 4:05 p.m. ET, CBS. Wearing, from the teams' game-day photos: Seahawks navy helmet, white jersey, white pants; Raiders silver helmet, black jersey, silver pants. Matchup grade: B.
+- **Los Angeles Rams at Arizona Cardinals**, 4:05 p.m. ET, CBS. Wearing, from in-game photos: Rams royal helmet, white jersey, white pants; Cardinals white helmet, cardinal red jersey, cardinal red pants. Matchup grade: B.
+- **San Francisco 49ers at Dallas Cowboys**, 4:25 p.m. ET, FOX. Wearing, from the teams' game-day photos: 49ers gold helmet, red 1994 throwback, white pants with a red and black stripe; Cowboys silver star helmet with a red, white and navy center stripe, white jersey, silver pants. Matchup grade: A-.
 - **Pittsburgh Steelers at Cincinnati Bengals**, 8:20 p.m. ET, NBC. Steelers: black (expected). Bengals: White Bengal, white helmet, white jersey, white pants (confirmed). Matchup grade: A-.
 
 ### Monday, November 16

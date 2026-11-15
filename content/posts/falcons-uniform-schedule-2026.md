@@ -2,7 +2,7 @@
 title: "Falcons Uniform & Jersey Schedule 2026: 1966 Throwback Dates"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-15"
 excerpt: "Falcons uniform schedule 2026: the 1966 throwback (red helmet, black jersey) is Week 7 vs. the 49ers and Week 13 vs. the Lions. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #A71930 0%, #6b0f1e 55%, #000000 130%)"
 coverImage: "/images/posts/falcons-uniform-schedule-2026/cover.jpg"
@@ -40,7 +40,7 @@ Nine home games including Madrid, eight on the road, and a Week 11 bye.
   <div style="background: #101010; color: #ffffff; border: 2px solid #A71930; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs 49ers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ 1966 Throwback</div></div>
   <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Buccaneers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Red &middot; White Pants</div></div>
   <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bengals</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red · White Pants · Madrid</div></div>
-  <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chiefs</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red</div></div>
+  <div style="background: #A71930; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chiefs</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red · Black Pants</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vikings</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
   <div style="background: #101010; color: #ffffff; border: 2px solid #A71930; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Lions</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ 1966 Throwback</div></div>
@@ -136,11 +136,11 @@ How does every one of these jerseys stack up? See our [Falcons jerseys 2026 rank
 
 **What jersey are the Falcons wearing today?**
 
-Week 9 against Cincinnati in Madrid, November 8, worn: black helmet, red jersey and white pants. The Bengals wore white over orange tiger-stripe pants, and Cincinnati won 34-17. We grade the matchup a B. This answer updates every week. For the rest of the season: Red if Atlanta is at home, white if they are on the road, except red at New Orleans in Week 4 and at Tampa Bay in Week 8. Red became the primary home jersey with the 2026 redesign.
+Week 10 against Kansas City, November 15, worn: black helmet, red jersey and black pants. The Chiefs wore white over red pants and won 35-13. We grade the matchup a B. This answer updates every week. For the rest of the season: Red if Atlanta is at home, white if they are on the road, except red at New Orleans in Week 4 and at Tampa Bay in Week 8. Red became the primary home jersey with the 2026 redesign.
 
 **What jerseys are the Falcons wearing this week?**
 
-Week 9 against Cincinnati in Madrid, November 8, worn: black helmet, red jersey and white pants. The Bengals wore white over orange tiger-stripe pants, and Cincinnati won 34-17. We grade the matchup a B. For the rest of the season: Red if Atlanta is at home, white if they are on the road, except red at New Orleans in Week 4 and at Tampa Bay in Week 8. Red became the primary home jersey with the 2026 redesign.
+Week 10 against Kansas City, November 15, worn: black helmet, red jersey and black pants. The Chiefs wore white over red pants and won 35-13. We grade the matchup a B. For the rest of the season: Red if Atlanta is at home, white if they are on the road, except red at New Orleans in Week 4 and at Tampa Bay in Week 8. Red became the primary home jersey with the 2026 redesign.
 
 **What uniform did the Falcons wear last week?**
 

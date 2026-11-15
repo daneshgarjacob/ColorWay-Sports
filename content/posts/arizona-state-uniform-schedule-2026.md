@@ -3,7 +3,7 @@ title: "Arizona State Uniform Schedule 2026: Every Jersey and When the Sun Devil
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "The Arizona State 2026 uniform schedule: every jersey and helmet combination the Sun Devils wear, confirmed game by game, plus the throwback still waiting on a date."
 gradient: "linear-gradient(135deg, #8C1D40 0%, #5c132a 55%, #FFC627 130%)"
 cardStyle: words
@@ -43,7 +43,7 @@ The thing to understand about the Sun Devils is that the helmet, jersey and pant
   <div style="background: #111111; color: #ffffff; border: 2px solid #FFC627; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #8C1D40; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
   <div style="background: #8C1D40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon Jersey</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White Jersey</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Maroon</div></div>
   <div style="background: #8C1D40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon Jersey</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White Jersey</div></div>
 </div>
@@ -88,7 +88,7 @@ The thing to understand about the Sun Devils is that the helmet, jersey and pant
 
 **November 7 vs. Colorado, Tempe.** Maroon jersey expected. Announced in game week. **Worn: white helmet, gold jersey, white pants**, confirmed from the game broadcast. We had the maroon jersey down; it was gold. **Final: Arizona State 20, Colorado 10.**
 
-**November 14 at UCF, Orlando.** White jersey expected. Arizona State's first trip to Orlando in program history. Announced in game week.
+**November 14 at UCF, Orlando.** White jersey expected. Arizona State's first trip to Orlando in program history. Announced in game week. **Worn: white helmet, white jersey, maroon pants**, confirmed from the game broadcast. **Final: Arizona State 26, UCF 13.**
 
 **November 21 vs. Oklahoma State, Tempe.** Maroon jersey expected. This is homecoming, and if the Roses &amp; Devils throwback is being held for a home crowd with alumni in the building, homecoming is the obvious night. That is our read, not an announcement. Announced in game week.
 

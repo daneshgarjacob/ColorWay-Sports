@@ -3,7 +3,7 @@ title: "UConn Uniform Schedule 2026: Every Jersey and When the Huskies Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-10-25"
+updatedDate: "2026-11-15"
 excerpt: "What UConn wears every game in 2026: the navy home set, the white road set, the new red alternate jersey, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1d3b66 55%, #E4002B 130%)"
 cardStyle: words
@@ -82,7 +82,7 @@ It looks like a standalone jersey. There is no red helmet and no red pants. It w
 
 **November 7 vs. North Carolina.** Navy expected. Noon on CBS Sports Network, and the only Power Four team left on the schedule. UNC is expected in white. See our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026).
 
-**November 14 vs. James Madison.** Navy expected. UConn lists this one as Huskies & Heroes, its military appreciation game, and the program has put military decals on the helmet for that game in past seasons. Noon on CBS Sports Network. The Dukes side is on our [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026).
+**November 14 vs. James Madison.** Navy expected. UConn lists this one as Huskies & Heroes, its military appreciation game, and the program has put military decals on the helmet for that game in past seasons. Noon on CBS Sports Network. The Dukes side is on our [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026). **Final: UConn 46, James Madison 22.**
 
 **November 21 vs. Old Dominion.** Navy expected. Senior Day and the home finale, 3:30 p.m.
 

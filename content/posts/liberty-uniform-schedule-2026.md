@@ -3,7 +3,7 @@ title: "Liberty Uniform Schedule 2026: Every Jersey and When the Flames Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-08"
+updatedDate: "2026-11-15"
 excerpt: "What Liberty wears every game in 2026: the red home jersey, the white road set, the navy and black alternates, and the full Flames uniform schedule."
 gradient: "linear-gradient(135deg, #0a254e 0%, #14386e 55%, #B72025 130%)"
 cardStyle: words
@@ -59,7 +59,7 @@ The default helmet is still the red shell with the white Flames script on the si
   <div style="background: #f1f3f8; color: #333; border: 2px solid #B72025; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 22 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kennesaw State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #B72025; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs FIU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at New Mexico State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #B72025; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Middle Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red (Watch This One)</div></div>
+  <div style="background: #B72025; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Middle Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / White</div></div>
   <div style="background: #B72025; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Western Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -94,7 +94,7 @@ The default helmet is still the red shell with the white Flames script on the si
 
 **November 7 at New Mexico State.** White expected. The longest trip on the schedule, 8 p.m. Eastern in Las Cruces. **Final: Liberty 30, New Mexico State 14.** We have not checked this game against game photos.
 
-**November 14 vs. Middle Tennessee.** Red expected, but watch this one. Liberty has Military Appreciation Day on this date, and Military Appreciation is the game where the program has built one off helmets in the past, including the custom shell honoring the Bedford Boys in November 2024.
+**November 14 vs. Middle Tennessee.** Red expected, but watch this one. Liberty has Military Appreciation Day on this date, and Military Appreciation is the game where the program has built one off helmets in the past, including the custom shell honoring the Bedford Boys in November 2024. **Worn: white helmet, red jersey, white pants**, confirmed from the game broadcast. **Final: Liberty 28, Middle Tennessee 23.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LibertyFootball/status/1859305069428232202"></a></blockquote>
