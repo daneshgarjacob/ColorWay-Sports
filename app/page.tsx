@@ -296,9 +296,15 @@ export default async function Home() {
   //     day when there are more ranked posts than slots, so the same six do not
   //     sit here all week between Monday re-ranks.
   //  3. NEWEST: backfill by publish date if the first two run short.
+  // Jake 11/14: never the same photo twice. A story whose cover is already on
+  // the page (two posts can share a stadium shot) waits for another day.
+  const shownCovers = new Set(
+    [...shownSlugs].map((slug) => posts.find((p) => p.slug === slug)?.coverImage).filter(Boolean)
+  );
   const notShown = filtered.filter(
     (p) =>
       !shownSlugs.has(p.slug) &&
+      !(p.coverImage && shownCovers.has(p.coverImage)) &&
       !HOMEPAGE_HIDE.has(p.slug) &&
       !isEliminatedMlbTeamPost(p.slug, p.league, todayEt)
   );
@@ -329,7 +335,17 @@ export default async function Home() {
     ...fresh,
     ...rotated,
     ...notShown.filter((p) => !picked.has(p) && hasCover(p)).sort(byNewest),
-  ].slice(0, MORE_COUNT);
+  ]
+    .filter((p, i, all) => !p.coverImage || all.findIndex((x) => x.coverImage === p.coverImage) === i)
+    .slice(0, MORE_COUNT);
+
+  // Jake 11/14: the same photo never shows twice on the page. Every cover a
+  // story card here uses; the From the Teams strip swaps those for logos.
+  const pagePhotos = new Set(
+    [...heroSlugs, ...gridSlugs, ...mostRead.map((p) => p.slug), ...compact.map((p) => p.slug)]
+      .map((slug) => posts.find((p) => p.slug === slug)?.coverImage)
+      .filter((src): src is string => Boolean(src))
+  );
 
   // The self-updating pieces (homepage refresh, 10/5).
   const standsPhoto = standsPhotoFor(todayEt, new Set([...heroSlugs, ...gridSlugs]));
@@ -393,7 +409,7 @@ export default async function Home() {
 
         {/* Jake 11/13: the newest uniform posts from team and league accounts
             (The Wire, fed by the X sweep every two hours). */}
-        <FromTheTeams items={recentNewsWithThumbs(4, 8)} />
+        <FromTheTeams items={recentNewsWithThumbs(4, 8, pagePhotos)} />
 
         {/* Mediavine in-feed spots (11/6): desktop after Top Stories, all devices
             after the schedules and after Find Your Team. */}

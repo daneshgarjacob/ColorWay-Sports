@@ -204,17 +204,17 @@ function linkedPost(link?: string): PostMeta | undefined {
   return postsBySlug.get(m[1]);
 }
 
-export function newsThumb(item: NewsMeta): NewsThumb {
+export function newsThumb(item: NewsMeta, noPhoto = false): NewsThumb {
   const accent = TAG_ACCENT[item.tag] ?? leagueColor(item.tag);
   const post = linkedPost(item.link);
   // Jake, 9/30: the feed never shows a stock/product shot of a jersey. A
   // jersey cutout (imageStyle "jersey") goes straight to the team logo card;
   // the cutout still appears on the item's own page.
   const isCutout = !!item.image && item.imageStyle !== "full";
-  if (item.image && !isCutout) {
+  if (item.image && !isCutout && !noPhoto) {
     return { kind: "cover", src: item.image, accent };
   }
-  if (post?.coverImage && !isCutout) {
+  if (post?.coverImage && !isCutout && !noPhoto) {
     return { kind: "cover", src: post.coverImage, position: post.coverImagePosition, accent };
   }
   // A roundup tagged with dozens of teams has no single logo worth showing.
@@ -222,6 +222,27 @@ export function newsThumb(item: NewsMeta): NewsThumb {
   const logo = post?.logoSrc2 || (team ? TEAM_LOGOS[team] : undefined);
   if (logo) return { kind: "logo", src: logo, accent };
   return { kind: "brand", accent };
+}
+
+/**
+ * Jake 11/14: a feed never shows the same photo twice (two Bruins Varsity
+ * items both pulled the story cover). Items are newest first, so the newest
+ * item keeps the photo. Teaser strips drop the older item; the full /news
+ * feed keeps it with the team logo instead. Logo tiles may repeat.
+ */
+export function uniquePhotos<T extends NewsMeta & { thumb: NewsThumb }>(items: T[], keepItems = false): T[] {
+  const seen = new Set<string>();
+  const out: T[] = [];
+  for (const i of items) {
+    if (i.thumb.kind !== "cover" || !i.thumb.src || !seen.has(i.thumb.src)) {
+      if (i.thumb.kind === "cover" && i.thumb.src) seen.add(i.thumb.src);
+      out.push(i);
+    } else if (keepItems) {
+      // The full feed keeps the older item, with its team logo instead of the photo.
+      out.push({ ...i, thumb: newsThumb(i, true) });
+    }
+  }
+  return out;
 }
 
 /**
@@ -244,12 +265,17 @@ export function recentNews<T extends { at: string }>(items: T[], days = 7, min =
 // ---------------------------------------------------------------------------
 
 /** Wire items from the last `days` days, newest first, each with its thumbnail. */
-export function recentNewsWithThumbs(days = 4, limit = 8): (NewsMeta & { thumb: NewsThumb })[] {
+export function recentNewsWithThumbs(days = 4, limit = 8, photosOnPage: Set<string> = new Set()): (NewsMeta & { thumb: NewsThumb })[] {
   const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
-  return getAllNewsMeta()
+  const items = getAllNewsMeta()
     .filter((n) => new Date(n.at).getTime() >= cutoff)
-    .slice(0, limit)
-    .map((n) => ({ ...n, thumb: newsThumb(n) }));
+    .map((n) => {
+      const thumb = newsThumb(n);
+      // A photo a story card on the same page already shows: use the logo here.
+      const repeat = thumb.kind === "cover" && !!thumb.src && photosOnPage.has(thumb.src);
+      return { ...n, thumb: repeat ? newsThumb(n, true) : thumb };
+    });
+  return uniquePhotos(items).slice(0, limit);
 }
 
 /** A team's Wire items, newest first. `name` is the full club name ("Boston Bruins"). */
@@ -258,12 +284,12 @@ export function newsForTeam(slug: string, name: string, limit = 6): (NewsMeta & 
   // Short nicknames that are also common words would match the wrong headlines.
   const nameHit = (t: string) =>
     t.includes(name) || (nickname.length > 3 && new RegExp(`\\b${nickname}\\b`).test(t));
-  return getAllNewsMeta()
+  const items = getAllNewsMeta()
     .filter((n) => {
       const post = linkedPost(n.link);
       const tagged = !!post?.teams && post.teams.length <= 2 && post.teams.includes(slug);
       return tagged || nameHit(n.title);
     })
-    .slice(0, limit)
     .map((n) => ({ ...n, thumb: newsThumb(n) }));
+  return uniquePhotos(items).slice(0, limit);
 }

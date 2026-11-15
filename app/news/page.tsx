@@ -2,7 +2,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getAllNews, groupByDay, newsThumb, recentNews, stamp } from "@/lib/news";
+import { getAllNews, groupByDay, newsThumb, recentNews, stamp, uniquePhotos } from "@/lib/news";
 import { getAllPosts, getAllPostsByDate } from "@/lib/posts";
 import StoryCard from "@/components/StoryCard";
 import WireItem from "@/components/WireItem";
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
 export const revalidate = 900;
 
 export default async function NewsFeed() {
-  const items = recentNews(await getAllNews());
+  const items = uniquePhotos(recentNews(await getAllNews()).map((n) => ({ ...n, thumb: newsThumb(n) })), true);
   const days = groupByDay(items);
   const newest = items[0];
   const updated = newest ? stamp(newest.at) : null;
@@ -110,7 +110,7 @@ export default async function NewsFeed() {
                     {day}
                   </h2>
                   {dayItems.map((item) => (
-                    <WireItem key={item.slug} item={item} thumb={newsThumb(item)} />
+                    <WireItem key={item.slug} item={item} thumb={item.thumb} />
                   ))}
                 </section>
               ))}
