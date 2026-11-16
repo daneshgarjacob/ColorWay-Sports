@@ -18,7 +18,7 @@ resurfaceOnUpdate: true
 
 Week 11 of the 2026 college football season puts every team in the new AP Top 25 on the field. **No. 8 Texas plays at No. 24 LSU** on Saturday night on ABC, **No. 2 Utah visits No. 22 Arizona**, **No. 15 USC goes to No. 6 Indiana**, **Missouri visits No. 1 Georgia** and **Florida plays at No. 13 Kentucky**. The date that matters most on the uniform calendar is at Marshall, which hosts App State on Saturday, November 14, the anniversary of the 1970 plane crash, for its annual Play For The 75 game. The week starts with MAC games on Tuesday and Wednesday and has three Friday night games, including **Illinois at No. 4 UCLA** and **No. 14 Houston at Colorado**.
 
-**Final update, Sunday, November 15:** every Week 11 game below now has a final score, except Ole Miss at Oklahoma, which ESPN lists on Sunday. A look marked **Worn** was checked against game broadcast frames and game photos. Where we could not see a team clearly, its projection stays marked **Expected**. Texas won 22-21 at LSU, Utah stayed unbeaten 40-39 at Arizona, Florida won 21-14 at Kentucky, Colorado beat Houston 42-32 and Georgia Tech won 20-6 at Clemson.
+**Final update, Sunday, November 15:** every Week 11 game below now has a final score, including Ole Miss at Oklahoma, played Sunday. A look marked **Worn** was checked against game broadcast frames and game photos. Where we could not see a team clearly, its projection stays marked **Expected**. Texas won 22-21 at LSU, Utah stayed unbeaten 40-39 at Arizona, Florida won 21-14 at Kentucky, Colorado beat Houston 42-32 and Georgia Tech won 20-6 at Clemson.
 
 Below is every uniform announced so far, then every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it for this game. When a school has not posted yet, we give our projection from that team's uniform schedule and label it **Expected**. Most schools post their combination between Monday and game day, so this page fills in all week, and on Saturday we confirm every look from the game broadcasts and team photos, then add final scores. Rankings are from the November 8 AP poll. All times are Eastern. Last week's looks are in our [Week 10 uniform guide](/stories/college-football-week-10-uniforms-2026).
 
@@ -336,9 +336,9 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Texas State: **Expected**, maroon, for Heroes Day and Community Day.
 
 **No. 19 [Ole Miss](/stories/ole-miss-uniform-schedule-2026) at [Oklahoma](/stories/oklahoma-uniform-schedule-2026)**, 4:15 p.m., SEC Network.
-- ESPN now lists this game on Sunday, November 15, at 1 p.m. Eastern on SEC Network. We will add the final.
-- Ole Miss: **Expected**, white.
-- Oklahoma: **Expected**, crimson.
+- Played Sunday, November 15. **Final: Oklahoma 24, Ole Miss 17.**
+- Ole Miss: **Worn**, white helmet with the powder blue stripe, white jersey with powder blue numbers, white pants, from game photos.
+- Oklahoma: **Worn**, crimson helmet, crimson jersey, white pants, from game photos.
 
 **[Washington](/stories/washington-huskies-uniform-schedule-2026) at [Michigan State](/stories/michigan-state-uniform-schedule-2026)**, 4:15 p.m., BTN.
 - **Final: Washington 21, Michigan State 14.**
