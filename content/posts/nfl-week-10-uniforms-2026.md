@@ -74,11 +74,11 @@ All black against white and powder blue is the sharpest contrast of the week. Ou
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Five years of the White Bengal, via <a href="https://x.com/Bengals" target="_blank" rel="noopener">@Bengals</a></p>
 
-**Sunday, 8:20 p.m. ET, NBC. Bengals confirmed, Steelers expected.** Cincinnati's all-white alternate comes out once in 2026, for this game: the **white helmet, white jersey and white pants** with black tiger stripes. It will be the seventh time the Bengals have worn the combination.
+**Sunday, 8:20 p.m. ET, NBC. Final: Bengals 38, Steelers 18.** Cincinnati's all-white alternate came out once in 2026, for this game: the **white helmet, white jersey and white pants** with black tiger stripes, confirmed from the broadcast. It was the seventh time the Bengals have worn the combination, and they are now 6-1 in it.
 
-With the host in white, Pittsburgh is expected in its **black** jersey on the road, with gold numbers.
+Pittsburgh wore the **black helmet, black jersey with gold numbers and gold pants**, confirmed from the broadcast.
 
-<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/steelers-black-home.jpg" alt="Pittsburgh Steelers black jersey, expected at Cincinnati on Sunday Night Football in Week 10 of 2026 because the Bengals wear white at home" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Steelers · Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/steelers-black-home.jpg" alt="Pittsburgh Steelers black jersey, worn at Cincinnati on Sunday Night Football in Week 10 of 2026 because the Bengals wore white at home" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Steelers · Expected</figcaption></figure></div>
 
 White tiger stripes against black and gold in a division game on Sunday night is the best-looking setup of the week. Our matchup grade: **A-**. See the [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026) and the [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
 
@@ -178,7 +178,7 @@ The helmet is the best piece of it. Our matchup grade: **B**. See the [Titans 20
 All three national windows carry a confirmed alternate, covered above.
 
 - **Thursday, 8:15 p.m. ET, Prime Video:** Commanders at Giants, burgundy against Vintage White.
-- **Sunday, 8:20 p.m. ET, NBC:** Steelers at Bengals, black against the White Bengal.
+- **Sunday, 8:20 p.m. ET, NBC:** Steelers at Bengals, black against the White Bengal. **Final: Bengals 38, Steelers 18.**
 - **Monday, 8:15 p.m. ET, ESPN:** Chargers at Ravens, white and powder blue against Darkness Falls.
 
 ## Also Worth Watching
@@ -242,7 +242,7 @@ All three national windows carry a confirmed alternate, covered above.
 - **Seattle Seahawks at Las Vegas Raiders**, 4:05 p.m. ET, CBS. Wearing, from the teams' game-day photos: Seahawks navy helmet, white jersey, white pants; Raiders silver helmet, black jersey, silver pants. Matchup grade: B.
 - **Los Angeles Rams at Arizona Cardinals**, 4:05 p.m. ET, CBS. Wearing, from in-game photos: Rams royal helmet, white jersey, white pants; Cardinals white helmet, cardinal red jersey, cardinal red pants. Matchup grade: B.
 - **San Francisco 49ers at Dallas Cowboys**, 4:25 p.m. ET, FOX. Wearing, from the teams' game-day photos: 49ers gold helmet, red 1994 throwback, white pants with a red and black stripe; Cowboys silver star helmet with a red, white and navy center stripe, white jersey, silver pants. Matchup grade: A-.
-- **Pittsburgh Steelers at Cincinnati Bengals**, 8:20 p.m. ET, NBC. Steelers: black (expected). Bengals: White Bengal, white helmet, white jersey, white pants (confirmed). Matchup grade: A-.
+- **Pittsburgh Steelers at Cincinnati Bengals**, 8:20 p.m. ET, NBC. Steelers: black helmet, black jersey, gold pants (worn). Bengals: White Bengal, white helmet, white jersey, white pants (worn). Matchup grade: A-. Final: Bengals 38, Steelers 18.
 
 ### Monday, November 16
 
@@ -278,11 +278,11 @@ Baltimore wears Darkness Falls: the matte black Darkness helmet, a black jersey 
 
 **What are the Bengals wearing on Sunday Night Football?**
 
-The White Bengal: white helmet, white jersey and white pants with black tiger stripes. It is the only date for the full set in 2026. Kickoff is Sunday, November 15 at 8:20 p.m. Eastern on NBC.
+The White Bengal: white helmet, white jersey and white pants with black tiger stripes. It was the only date for the full set in 2026, on Sunday, November 15 on NBC, and Cincinnati beat Pittsburgh 38-18.
 
-**Why are the Steelers expected in black at Cincinnati?**
+**Why did the Steelers wear black at Cincinnati?**
 
-The home team declares first, and the Bengals have confirmed white for this game. Two teams cannot both wear white, so we expect Pittsburgh in its black jersey on the road.
+The home team declares first, and the Bengals declared white for this game. Two teams cannot both wear white, so Pittsburgh wore its black jersey, with gold pants, on the road. Cincinnati won 38-18.
 
 **What are the 49ers and Cowboys wearing in Week 10?**
 

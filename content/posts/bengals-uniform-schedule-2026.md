@@ -3,7 +3,7 @@ topViewsRank: 2
 title: "Bengals Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-15"
 excerpt: "Every Bengals jersey for 2026, week by week. The all-white White Bengal comes out at home in Week 10 vs. Pittsburgh on SNF, and New Year's Eve is White Bengal Stripe night."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"
@@ -76,7 +76,7 @@ The orange helmet is still the most underrated piece of equipment in the AFC Nor
 
 ## White Bengal (Week 10 vs. Steelers, Confirmed)
 
-The White Bengal goes national in Week 10. Cincinnati hosts Pittsburgh on Sunday, November 15 at 8:20 p.m. on NBC, and the all-white set comes out with the white helmet that debuted in 2022. The Bengals call it one of the franchise's most iconic looks, and the record backs them up: this will be the seventh time they have worn the combination, and they won the most recent one, a Thursday night game against these same Steelers.
+The White Bengal goes national in Week 10. Cincinnati hosts Pittsburgh on Sunday, November 15 at 8:20 p.m. on NBC, and the all-white set comes out with the white helmet that debuted in 2022. The Bengals call it one of the franchise's most iconic looks, and the record backs them up. Sunday was the seventh time they have worn the combination, and they beat these same Steelers 38-18, confirmed in the white helmet, white jersey and white pants from the broadcast. The White Bengal is now 6-1.
 
 The design is the reason it travels. Most white alternates are just a road uniform with the contrast turned down, but the White Bengal keeps the black tiger stripes at full strength against a white base coat, so the pattern reads harder than it does in black. Put it under the lights against a team in black and gold and there is not a better-looking divisional game on the schedule.
 
