@@ -99,7 +99,7 @@ Dallas published **white** for this game on September 2, the silver star helmet 
 
 Two of the most recognizable looks in the sport, and the 1990s rivalry to go with them. Our matchup grade: **A-**. See the [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026), the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home).
 
-**Game day, from the teams' own photos:** the red 1994 throwback is on, scarlet with white numbers, a black drop shadow and three white sleeve stripes, under the gold helmet, and the pants are **white with a red and black stripe**, worn with red socks. Dallas is in white over silver pants as scheduled, but the silver star helmet carries a **red, white and navy center stripe** on this Salute to Service weekend, not the usual blue and white. The final goes here when the game ends.
+**Game day, from the teams' own photos:** the red 1994 throwback is on, scarlet with white numbers, a black drop shadow and three white sleeve stripes, under the gold helmet, and the pants are **white with a red and black stripe**, worn with red socks. Dallas is in white over silver pants as scheduled, but the silver star helmet carries a **red, white and navy center stripe** on this Salute to Service weekend, not the usual blue and white. **Final: 49ers 46, Cowboys 40.**
 
 ### Jacksonville Jaguars at Tennessee Titans: Music City Debuts
 
@@ -189,7 +189,7 @@ All three national windows carry a confirmed alternate, covered above.
 
 **Sunday, 4:05 p.m. ET, CBS. Rams confirmed, Cardinals scheduled.** The Rams confirmed the **blue helmet, white jersey and white pants** for this trip, the white they published on September 1. Arizona published every jersey on September 1 and has **cardinal red** here. Our matchup grade: **B**. See the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026) and the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
 
-**Game day, from in-game photos:** as scheduled. Arizona is in the white helmet with cardinal red from jersey to pants, and the Rams in the royal helmet, white jersey and white pants. The final goes here when the game ends.
+**Game day, from in-game photos:** as scheduled. Arizona is in the white helmet with cardinal red from jersey to pants, and the Rams in the royal helmet, white jersey and white pants. **Final: Rams 34, Cardinals 6.**
 
 ### Minnesota Vikings at Green Bay Packers
 
@@ -221,7 +221,7 @@ All three national windows carry a confirmed alternate, covered above.
 
 **Sunday, 4:05 p.m. ET, CBS. Expected on both sides.** Las Vegas is expected in **black** under the silver helmet for its Salute to Service game, and Seattle in **white**. Our matchup grade: **B**. See the [Raiders 2026 uniform schedule](/stories/raiders-uniform-schedule-2026) and the [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026).
 
-**Game day, from the teams' own photos:** as expected. Las Vegas is in the silver helmet, black jersey and silver pants, and Seattle in the navy helmet, white jersey and white pants. The final goes here when the game ends.
+**Game day, from the teams' own photos:** as expected. Las Vegas is in the silver helmet, black jersey and silver pants, and Seattle in the navy helmet, white jersey and white pants. **Final: Seahawks 21, Raiders 13.**
 
 ## Every Week 10 Game
 

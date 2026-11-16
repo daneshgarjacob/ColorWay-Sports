@@ -141,11 +141,11 @@ How does every one of these jerseys stack up? See our [Rams jerseys 2026 ranking
 
 **What jersey are the Rams wearing today?**
 
-Week 10 at Arizona, today, November 15, 4:05 p.m. ET on CBS, wearing: royal helmet with yellow horns, white jersey and white pants, as the team announced and as its game-day photos show. The Cardinals are in the white helmet, cardinal red jersey and cardinal red pants. We grade the matchup a B. This answer updates every week. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
+Week 10 at Arizona, November 15, worn: royal helmet with yellow horns, white jersey and white pants, as the team announced and as its game-day photos show. The Cardinals wore the white helmet, cardinal red jersey and cardinal red pants, and the Rams won 34-6. We grade the matchup a B. This answer updates every week. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
 
 **What jerseys are the Rams wearing this week?**
 
-Week 10 at Arizona, today, November 15, 4:05 p.m. ET on CBS, wearing: royal helmet with yellow horns, white jersey and white pants, as the team announced and as its game-day photos show. The Cardinals are in the white helmet, cardinal red jersey and cardinal red pants. We grade the matchup a B. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
+Week 10 at Arizona, November 15, worn: royal helmet with yellow horns, white jersey and white pants, as the team announced and as its game-day photos show. The Cardinals wore the white helmet, cardinal red jersey and cardinal red pants, and the Rams won 34-6. We grade the matchup a B. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
 
 **What uniform did the Rams wear last week?**
 

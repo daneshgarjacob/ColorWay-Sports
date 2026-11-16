@@ -98,11 +98,11 @@ How does every one of these jerseys stack up? See our [Raiders jerseys 2026 rank
 
 **What jersey are the Raiders wearing today?**
 
-Week 10 against Seattle, today, November 15, 4:05 p.m. ET on CBS, wearing: silver helmet, black jersey and silver pants for the Salute to Service game, confirmed from game-day photos. The Seahawks are in the navy helmet, white jersey and white pants. We grade the matchup a B. This answer updates every week. For the rest of the season: Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The one exception is Week 5 at New England, where the Raiders wear the classic white throwback.
+Week 10 against Seattle, November 15, worn: silver helmet, black jersey and silver pants for the Salute to Service game, confirmed from game-day photos. The Seahawks wore the navy helmet, white jersey and white pants and won 21-13. We grade the matchup a B. This answer updates every week. For the rest of the season: Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The one exception is Week 5 at New England, where the Raiders wear the classic white throwback.
 
 **What jerseys are the Raiders wearing this week?**
 
-Week 10 against Seattle, today, November 15, 4:05 p.m. ET on CBS, wearing: silver helmet, black jersey and silver pants for the Salute to Service game, confirmed from game-day photos. The Seahawks are in the navy helmet, white jersey and white pants. We grade the matchup a B. For the rest of the season: Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The one exception is Week 5 at New England, where the Raiders wear the classic white throwback.
+Week 10 against Seattle, November 15, worn: silver helmet, black jersey and silver pants for the Salute to Service game, confirmed from game-day photos. The Seahawks wore the navy helmet, white jersey and white pants and won 21-13. We grade the matchup a B. For the rest of the season: Black if Las Vegas is at Allegiant Stadium, white if they are on the road. The one exception is Week 5 at New England, where the Raiders wear the classic white throwback.
 
 **What uniform did the Raiders wear last week?**
 
