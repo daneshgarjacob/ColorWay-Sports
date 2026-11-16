@@ -23,7 +23,7 @@
       "team": "Oklahoma City Thunder",
       "box": [0.502, 0.55, 0.62, 0.668],
       "hint": "Hard mode. No freebies.",
-      "piece": "The orange and blue streaks under the shield.",
+      "piece": "The bottom of the orange basketball inside the shield, with the blue band below it.",
       "fact": "The Thunder logo debuted in 2008, the franchise's first season in Oklahoma City after leaving Seattle."
     },
     {
@@ -31,7 +31,7 @@
       "team": "Denver Nuggets",
       "box": [0.498, 0.132, 0.616, 0.25],
       "piece": "The snowcapped mountain peak at the top of the circle.",
-      "fact": "Denver's 2018 rebrand crossed two pickaxes over the mountain, a nod to the Colorado mining history behind the Nuggets name."
+      "fact": "The crossed pickaxes first showed up on a Denver alternate logo in 2005 and became the main logo in 2018, a nod to the Colorado mining boom behind the Nuggets name."
     },
     {
       "abbr": "gs",
@@ -46,7 +46,7 @@
       "box": [0.576, 0.422, 0.694, 0.54],
       "hint": "Halfway. Keep count.",
       "piece": "The black seams on the flaming basketball.",
-      "fact": "The flaming ball dropping through a hoop has been the Heat's logo since their first season in 1988.",
+      "fact": "The flaming ball dropping through a hoop has been the Heat's logo since their first season in 1988, with only small updates along the way.",
       "story": "/stories/miami-heat-logo-and-jersey-history"
     },
     {
@@ -62,7 +62,7 @@
       "box": [0.44, 0.558, 0.558, 0.676],
       "hint": "Real hoops fans only.",
       "piece": "The sun's rays meeting the bottom of the basketball.",
-      "fact": "Phoenix's current sunburst-and-ball logo dates to a 2013 refresh of the mark the team has used in some form since 1968."
+      "fact": "The basketball sunburst came in with the logo set Phoenix unveiled in 2013, the team's first new primary logo in 13 years."
     },
     {
       "abbr": "lal",

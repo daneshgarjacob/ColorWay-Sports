@@ -1,7 +1,11 @@
 import nfl from "@/content/data/quizzes/nfl-logo-quiz-hard.json";
 import nba from "@/content/data/quizzes/nba-logo-quiz-hard.json";
-import nhl from "@/content/data/quizzes/nhl-logo-quiz-hard.json";
-import mlb from "@/content/data/quizzes/mlb-logo-quiz-hard.json";
+// NHL and MLB quizzes are hidden for now: re-enable after TikTok posts.
+// Their JSON and images stay in the repo; uncomment these two imports and add
+// nhl, mlb back to RAW below to publish them (pages, hub cards, next-quiz
+// chain and sitemap all follow RAW).
+// import nhl from "@/content/data/quizzes/nhl-logo-quiz-hard.json";
+// import mlb from "@/content/data/quizzes/mlb-logo-quiz-hard.json";
 import { teamSlug, LEAGUE_LOGOS } from "@/lib/teamLogos";
 import { buildTeamQuickLinks } from "@/lib/teamQuickLinks";
 
@@ -62,7 +66,8 @@ export interface Quiz extends Omit<QuizData, "items"> {
 }
 
 // Order here is the order on the /quiz hub and the "next quiz" chain.
-const RAW: QuizData[] = [nfl, nba, nhl, mlb];
+// NHL and MLB hidden: re-enable after TikTok posts -> [nfl, nba, nhl, mlb]
+const RAW: QuizData[] = [nfl, nba];
 
 export const QUIZ_SIZE = 8;
 

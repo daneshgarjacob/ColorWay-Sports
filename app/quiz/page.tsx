@@ -8,7 +8,7 @@ import { getAllQuizzes } from "@/lib/quiz";
 const CANONICAL = "https://www.colorwaysports.com/quiz";
 const TITLE = "Logo Quizzes: Name The Team From A Tiny Piece Of Its Logo";
 const DESC =
-  "Hard sports logo quizzes for the NFL, NBA, NHL and MLB. Eight tiny pieces of team logos per quiz: guess the team, reveal the answer, keep score and share your result.";
+  "Hard sports logo quizzes for the NFL and NBA. Eight tiny pieces of team logos per quiz: guess the team, reveal the answer, keep score and share your result.";
 
 export const metadata: Metadata = {
   title: `${TITLE} | ColorWay Sports`,
