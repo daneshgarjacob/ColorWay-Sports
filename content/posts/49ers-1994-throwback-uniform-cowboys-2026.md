@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-11-15"
 updatedDate: "2026-11-15"
-excerpt: "The 49ers wore their red 1994 throwback against the Cowboys in Week 10: the Super Bowl XXIX jersey with black drop-shadow numbers, white pants with a red and black stripe, red socks and the gold helmet. What it is, when they wear it again, and our grade."
+excerpt: "The 49ers wore their red 1994 throwback in a 46-40 win over the Cowboys in Week 10: the Super Bowl XXIX jersey with black drop-shadow numbers, white pants with a red and black stripe, red socks and the gold helmet. What it is, when they wear it again, and our grade."
 gradient: "linear-gradient(135deg, #AA0000 0%, #6b0000 55%, #B3995D 130%)"
 cardStyle: words
 kicker: "Throwback Uniform"
@@ -13,7 +13,7 @@ teams: ["san-francisco-49ers", "dallas-cowboys"]
 resurfaceOnUpdate: true
 ---
 
-**The 49ers wore their red 1994 throwback at Dallas on Sunday.** San Francisco's Week 10 trip to AT&T Stadium was the first of two dates this season for the red version of the uniform the franchise wore in its Super Bowl XXIX season, and the team posted it from the field before kickoff.
+**The 49ers wore their red 1994 throwback at Dallas on Sunday.** San Francisco's Week 10 trip to AT&T Stadium was the first of two dates this season for the red version of the uniform the franchise wore in its Super Bowl XXIX season, and the team posted it from the field before kickoff. San Francisco won a shootout, 46-40.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/49ers/status/2122073919259619647"></a></blockquote>
@@ -26,13 +26,14 @@ resurfaceOnUpdate: true
 - **What is the 1994 throwback?** A recreation of the home uniform from the 1994 season, when San Francisco won Super Bowl XXIX.
 - **When do the 49ers wear it again?** The red version returns at home against the Eagles in Week 17. The white version gets one game, on Thursday night at the Chargers in Week 15.
 - **What did Dallas wear?** The Cowboys wore white at home, the jersey they published for this game in September.
+- **Who won?** San Francisco, 46-40.
 - **Our grade:** A-.
 
 ## Every Detail Of The Uniform
 
 The jersey is the giveaway. Where the modern 49ers home jersey uses gold-trimmed numbers, the 1994 throwback has **white numbers with a heavy black drop shadow** and three-part **red, white and black stripes on the sleeves**. The **pants are white**, not the gold of the current home set, with a red and black stripe down the side, and the **socks are solid red**. The helmet is the team's gold shell with a **red, white and red center stripe** and the SF oval.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:stretch;"><div style="background:#AA0000;color:#ffffff;border-radius:12px;padding:18px 12px;text-align:center;"><div style="font-size:0.7em;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;opacity:0.9;">49ers · Worn</div><div style="font-size:1.05em;font-weight:800;margin-top:6px;">Gold helmet, red 1994 jersey, white pants, red socks</div></div><div style="background:#ffffff;color:#041E42;border:2px solid #041E42;border-radius:12px;padding:18px 12px;text-align:center;"><div style="font-size:0.7em;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;opacity:0.85;">Cowboys · Scheduled</div><div style="font-size:1.05em;font-weight:800;margin-top:6px;">Silver star helmet, white jersey</div></div></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:stretch;"><div style="background:#AA0000;color:#ffffff;border-radius:12px;padding:18px 12px;text-align:center;"><div style="font-size:0.7em;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;opacity:0.9;">49ers · Worn</div><div style="font-size:1.05em;font-weight:800;margin-top:6px;">Gold helmet, red 1994 jersey, white pants, red socks</div></div><div style="background:#ffffff;color:#041E42;border:2px solid #041E42;border-radius:12px;padding:18px 12px;text-align:center;"><div style="font-size:0.7em;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;opacity:0.85;">Cowboys · Worn</div><div style="font-size:1.05em;font-weight:800;margin-top:6px;">Silver star helmet, white jersey, silver pants</div></div></div>
 
 Put next to the modern home uniform, the differences are small on paper and huge on the field. The black shadow makes the numbers read from the upper deck, the sleeve stripes give the jersey shape, and the white pants and red socks make the whole thing lighter than the current gold-over-red look.
 
@@ -49,6 +50,10 @@ This is the best throwback in the NFL, and it is not close. It works because it 
 **Are the 49ers wearing throwbacks against the Cowboys?**
 
 Yes. The 49ers wore the red 1994 throwback at Dallas on Sunday, November 15, 2026, in Week 10.
+
+**Who won 49ers vs. Cowboys?**
+
+The 49ers won 46-40 at AT&T Stadium on November 15, 2026, wearing the red 1994 throwback.
 
 **What is the difference between the 49ers throwback and the regular home jersey?**
 
