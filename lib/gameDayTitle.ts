@@ -30,6 +30,7 @@ import kickoffData from "@/content/data/nfl-kickoffs-2026.json";
 import { buildNflTeamIndex, type NflGame, type NflTeamEntry } from "./nflTrackerTeamIndex";
 import { nflTrackerCards } from "./nflTrackerCards";
 import { clean, readMlbWearingBlock } from "./teamWearAnswers";
+import { NBA_TILE_COLORS } from "./nbaTileColors";
 
 export type GameDay = {
   /** "What Are the Packers Wearing Today?" / "What Are the Packers Wearing Sunday?" */
@@ -421,7 +422,7 @@ export function seasonTableGameDay(slug: string, contentHtml: string, now: Date)
       m: next.m,
       d: next.d,
       evening: false,
-      look: next.call,
+      look: nbaColorLook(slug, next.call),
       confirmed: status !== "expected",
       confirmedNote: status === "announced" ? "Announced by the team." : "Confirmed.",
       home: next.home,
@@ -432,7 +433,28 @@ export function seasonTableGameDay(slug: string, contentHtml: string, now: Date)
     86400,
     now,
   );
+  // NBA and NHL clubs play 3-4 times a week, so a game-day title sat on these
+  // posts nearly every day and "Uniform Schedule" left the snippet. Clicks fell
+  // 2,718 -> 1,703 a week (late Oct -> 11/8-14) at an unchanged position 5.1
+  // (diagnostic 11/16). Keep the schedule title; only the description answers
+  // "what are they wearing today".
+  if (gd) gd.descriptionOnly = true;
   return { gameDay: gd, revalidate: gd?.revalidate };
+}
+
+/** "Statement Edition" -> "Red" for the 76ers (Jake: say the color, not the
+ *  edition name). Falls back to the table's own wording. */
+function nbaColorLook(slug: string, call: string): string {
+  const team = slug.replace(/-uniform-schedule-2026-27$/, "");
+  const m = /^(Association|Icon|Statement|City|Classic)(?: Edition)?(?: (.+))?$/i.exec(call.trim());
+  if (!m) return call;
+  const kind = m[1].toLowerCase();
+  const keys = [team, team.split("-").slice(-1)[0], team.split("-").slice(-2).join("-")];
+  const color = keys.map((k) => NBA_TILE_COLORS[`${k}-${kind}.jpg`]).find(Boolean) ?? m[2];
+  if (!color) return call;
+  if (kind === "city") return `${color} City Edition`;
+  if (kind === "classic") return `${color} Classic`;
+  return color;
 }
 
 /* ------------------------------------------------------------- Dispatch -- */
