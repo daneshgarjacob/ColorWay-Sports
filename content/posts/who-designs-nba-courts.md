@@ -7,6 +7,7 @@ excerpt: "Who designs NBA courts? Not Nike or the league, the teams do, and they
 gradient: "linear-gradient(135deg, #C9A24B 0%, #16294d 55%, #05070f 100%)"
 coverImage: "/images/posts/who-designs-nba-courts/hero.jpg"
 coverImagePosition: "center center"
+kicker: "Explained"
 league: "nba"
 teams: []
 ---

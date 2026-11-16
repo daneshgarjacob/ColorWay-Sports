@@ -348,6 +348,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     coverImagePosition: data.coverImagePosition,
     coverImageFit: data.coverImageFit,
     coverCredit: data.coverCredit,
+    kicker: data.kicker,
     league: data.league,
     teams: data.teams || [],
     recentSections: data.recentSections,

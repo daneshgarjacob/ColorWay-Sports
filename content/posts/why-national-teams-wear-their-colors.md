@@ -8,6 +8,7 @@ coverImage: "/images/posts/wc-netherlands-home.jpg"
 coverImagePosition: "center 30%"
 coverImageFit: "cover"
 logoSrc: "/logos/world-cup-2026.png"
+kicker: "Explained"
 league: "soccer"
 teams: ["international-competitions"]
 ---

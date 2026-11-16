@@ -5,6 +5,8 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import TeamWearBox from "@/components/TeamWearBox";
+import TeamMoreBlock from "@/components/TeamMoreBlock";
+import { buildTeamMoreLinks } from "@/lib/teamMoreLinks";
 import { getPostBySlug } from "@/lib/posts";
 import { getNflLatestFromTracker, nflComboSentence } from "@/lib/nflTeamLatest";
 import { nflTrackerFaq } from "@/lib/trackerWearFaq";
@@ -290,6 +292,10 @@ export default async function NflTeamCalendarPage({
             ))}
           </div>
         </section>
+
+        <div className="max-w-[980px] mx-auto px-5">
+          <TeamMoreBlock data={buildTeamMoreLinks(entry.slug, { exclude: [`/nfl-tracker/${entry.key}`] })} />
+        </div>
 
         <section className="max-w-[980px] mx-auto px-5 pt-10">
           <p className="text-[14px] text-black/60 m-0">

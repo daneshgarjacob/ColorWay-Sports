@@ -1,0 +1,849 @@
+{
+  "_note": "Each team's rivals, biggest first. Used by lib/teamMoreLinks.ts for the 'More For Your Team' block. Keys and values are team slugs from post front matter (teams:). A rival only shows when it has its own uniform schedule post; scripts/check-team-more-links.mjs fails the build if a slug here has none.",
+  "nfl": {
+    "arizona-cardinals": [
+      "los-angeles-rams",
+      "san-francisco-49ers",
+      "seattle-seahawks"
+    ],
+    "atlanta-falcons": [
+      "new-orleans-saints",
+      "carolina-panthers",
+      "tampa-bay-buccaneers"
+    ],
+    "baltimore-ravens": [
+      "pittsburgh-steelers",
+      "cleveland-browns",
+      "cincinnati-bengals"
+    ],
+    "buffalo-bills": [
+      "miami-dolphins",
+      "new-england-patriots",
+      "new-york-jets"
+    ],
+    "carolina-panthers": [
+      "atlanta-falcons",
+      "new-orleans-saints",
+      "tampa-bay-buccaneers"
+    ],
+    "chicago-bears": [
+      "green-bay-packers",
+      "detroit-lions",
+      "minnesota-vikings"
+    ],
+    "cincinnati-bengals": [
+      "cleveland-browns",
+      "pittsburgh-steelers",
+      "baltimore-ravens"
+    ],
+    "cleveland-browns": [
+      "pittsburgh-steelers",
+      "cincinnati-bengals",
+      "baltimore-ravens"
+    ],
+    "dallas-cowboys": [
+      "philadelphia-eagles",
+      "washington-commanders",
+      "new-york-giants"
+    ],
+    "denver-broncos": [
+      "las-vegas-raiders",
+      "kansas-city-chiefs",
+      "los-angeles-chargers"
+    ],
+    "detroit-lions": [
+      "green-bay-packers",
+      "chicago-bears",
+      "minnesota-vikings"
+    ],
+    "green-bay-packers": [
+      "chicago-bears",
+      "minnesota-vikings",
+      "detroit-lions"
+    ],
+    "houston-texans": [
+      "indianapolis-colts",
+      "tennessee-titans",
+      "jacksonville-jaguars"
+    ],
+    "indianapolis-colts": [
+      "new-england-patriots",
+      "houston-texans",
+      "tennessee-titans"
+    ],
+    "jacksonville-jaguars": [
+      "tennessee-titans",
+      "houston-texans",
+      "indianapolis-colts"
+    ],
+    "kansas-city-chiefs": [
+      "las-vegas-raiders",
+      "denver-broncos",
+      "los-angeles-chargers"
+    ],
+    "las-vegas-raiders": [
+      "kansas-city-chiefs",
+      "denver-broncos",
+      "los-angeles-chargers"
+    ],
+    "los-angeles-chargers": [
+      "las-vegas-raiders",
+      "kansas-city-chiefs",
+      "denver-broncos"
+    ],
+    "los-angeles-rams": [
+      "san-francisco-49ers",
+      "seattle-seahawks",
+      "arizona-cardinals"
+    ],
+    "miami-dolphins": [
+      "new-york-jets",
+      "buffalo-bills",
+      "new-england-patriots"
+    ],
+    "minnesota-vikings": [
+      "green-bay-packers",
+      "chicago-bears",
+      "detroit-lions"
+    ],
+    "new-england-patriots": [
+      "new-york-jets",
+      "buffalo-bills",
+      "miami-dolphins"
+    ],
+    "new-orleans-saints": [
+      "atlanta-falcons",
+      "tampa-bay-buccaneers",
+      "carolina-panthers"
+    ],
+    "new-york-giants": [
+      "dallas-cowboys",
+      "philadelphia-eagles",
+      "washington-commanders"
+    ],
+    "new-york-jets": [
+      "new-england-patriots",
+      "miami-dolphins",
+      "buffalo-bills"
+    ],
+    "philadelphia-eagles": [
+      "dallas-cowboys",
+      "new-york-giants",
+      "washington-commanders"
+    ],
+    "pittsburgh-steelers": [
+      "baltimore-ravens",
+      "cleveland-browns",
+      "cincinnati-bengals"
+    ],
+    "san-francisco-49ers": [
+      "dallas-cowboys",
+      "seattle-seahawks",
+      "los-angeles-rams"
+    ],
+    "seattle-seahawks": [
+      "san-francisco-49ers",
+      "los-angeles-rams",
+      "arizona-cardinals"
+    ],
+    "tampa-bay-buccaneers": [
+      "new-orleans-saints",
+      "atlanta-falcons",
+      "carolina-panthers"
+    ],
+    "tennessee-titans": [
+      "jacksonville-jaguars",
+      "houston-texans",
+      "indianapolis-colts"
+    ],
+    "washington-commanders": [
+      "dallas-cowboys",
+      "philadelphia-eagles",
+      "new-york-giants"
+    ]
+  },
+  "nba": {
+    "atlanta-hawks": [
+      "charlotte-hornets",
+      "orlando-magic",
+      "miami-heat"
+    ],
+    "boston-celtics": [
+      "los-angeles-lakers",
+      "philadelphia-76ers",
+      "new-york-knicks"
+    ],
+    "brooklyn-nets": [
+      "new-york-knicks",
+      "boston-celtics",
+      "philadelphia-76ers"
+    ],
+    "charlotte-hornets": [
+      "atlanta-hawks",
+      "orlando-magic",
+      "miami-heat"
+    ],
+    "chicago-bulls": [
+      "detroit-pistons",
+      "cleveland-cavaliers",
+      "milwaukee-bucks"
+    ],
+    "cleveland-cavaliers": [
+      "golden-state-warriors",
+      "chicago-bulls",
+      "detroit-pistons"
+    ],
+    "dallas-mavericks": [
+      "san-antonio-spurs",
+      "houston-rockets",
+      "memphis-grizzlies"
+    ],
+    "denver-nuggets": [
+      "utah-jazz",
+      "minnesota-timberwolves",
+      "los-angeles-lakers"
+    ],
+    "detroit-pistons": [
+      "chicago-bulls",
+      "boston-celtics",
+      "indiana-pacers"
+    ],
+    "golden-state-warriors": [
+      "cleveland-cavaliers",
+      "los-angeles-lakers",
+      "sacramento-kings"
+    ],
+    "houston-rockets": [
+      "san-antonio-spurs",
+      "dallas-mavericks",
+      "golden-state-warriors"
+    ],
+    "indiana-pacers": [
+      "new-york-knicks",
+      "detroit-pistons",
+      "chicago-bulls"
+    ],
+    "la-clippers": [
+      "los-angeles-lakers",
+      "golden-state-warriors",
+      "phoenix-suns"
+    ],
+    "los-angeles-lakers": [
+      "boston-celtics",
+      "la-clippers",
+      "golden-state-warriors"
+    ],
+    "memphis-grizzlies": [
+      "golden-state-warriors",
+      "dallas-mavericks",
+      "new-orleans-pelicans"
+    ],
+    "miami-heat": [
+      "new-york-knicks",
+      "boston-celtics",
+      "orlando-magic"
+    ],
+    "milwaukee-bucks": [
+      "chicago-bulls",
+      "boston-celtics",
+      "indiana-pacers"
+    ],
+    "minnesota-timberwolves": [
+      "denver-nuggets",
+      "oklahoma-city-thunder",
+      "portland-trail-blazers"
+    ],
+    "new-orleans-pelicans": [
+      "memphis-grizzlies",
+      "houston-rockets",
+      "dallas-mavericks"
+    ],
+    "new-york-knicks": [
+      "boston-celtics",
+      "miami-heat",
+      "brooklyn-nets"
+    ],
+    "oklahoma-city-thunder": [
+      "denver-nuggets",
+      "minnesota-timberwolves",
+      "dallas-mavericks"
+    ],
+    "orlando-magic": [
+      "miami-heat",
+      "atlanta-hawks",
+      "charlotte-hornets"
+    ],
+    "philadelphia-76ers": [
+      "boston-celtics",
+      "new-york-knicks",
+      "brooklyn-nets"
+    ],
+    "phoenix-suns": [
+      "los-angeles-lakers",
+      "san-antonio-spurs",
+      "denver-nuggets"
+    ],
+    "portland-trail-blazers": [
+      "los-angeles-lakers",
+      "utah-jazz",
+      "sacramento-kings"
+    ],
+    "sacramento-kings": [
+      "los-angeles-lakers",
+      "golden-state-warriors",
+      "portland-trail-blazers"
+    ],
+    "san-antonio-spurs": [
+      "dallas-mavericks",
+      "houston-rockets",
+      "los-angeles-lakers"
+    ],
+    "toronto-raptors": [
+      "philadelphia-76ers",
+      "milwaukee-bucks",
+      "boston-celtics"
+    ],
+    "utah-jazz": [
+      "denver-nuggets",
+      "portland-trail-blazers",
+      "phoenix-suns"
+    ],
+    "washington-wizards": [
+      "philadelphia-76ers",
+      "boston-celtics",
+      "atlanta-hawks"
+    ]
+  },
+  "nhl": {
+    "anaheim-ducks": [
+      "los-angeles-kings",
+      "san-jose-sharks",
+      "vegas-golden-knights"
+    ],
+    "boston-bruins": [
+      "montreal-canadiens",
+      "toronto-maple-leafs",
+      "buffalo-sabres"
+    ],
+    "buffalo-sabres": [
+      "toronto-maple-leafs",
+      "boston-bruins",
+      "ottawa-senators"
+    ],
+    "calgary-flames": [
+      "edmonton-oilers",
+      "vancouver-canucks",
+      "seattle-kraken"
+    ],
+    "carolina-hurricanes": [
+      "washington-capitals",
+      "new-york-rangers",
+      "tampa-bay-lightning"
+    ],
+    "chicago-blackhawks": [
+      "detroit-red-wings",
+      "st-louis-blues",
+      "minnesota-wild"
+    ],
+    "colorado-avalanche": [
+      "detroit-red-wings",
+      "dallas-stars",
+      "vegas-golden-knights"
+    ],
+    "columbus-blue-jackets": [
+      "pittsburgh-penguins",
+      "detroit-red-wings",
+      "washington-capitals"
+    ],
+    "dallas-stars": [
+      "st-louis-blues",
+      "colorado-avalanche",
+      "minnesota-wild"
+    ],
+    "detroit-red-wings": [
+      "chicago-blackhawks",
+      "colorado-avalanche",
+      "toronto-maple-leafs"
+    ],
+    "edmonton-oilers": [
+      "calgary-flames",
+      "vancouver-canucks",
+      "vegas-golden-knights"
+    ],
+    "florida-panthers": [
+      "tampa-bay-lightning",
+      "boston-bruins",
+      "toronto-maple-leafs"
+    ],
+    "los-angeles-kings": [
+      "anaheim-ducks",
+      "san-jose-sharks",
+      "vegas-golden-knights"
+    ],
+    "minnesota-wild": [
+      "chicago-blackhawks",
+      "winnipeg-jets",
+      "st-louis-blues"
+    ],
+    "montreal-canadiens": [
+      "boston-bruins",
+      "toronto-maple-leafs",
+      "ottawa-senators"
+    ],
+    "nashville-predators": [
+      "st-louis-blues",
+      "chicago-blackhawks",
+      "dallas-stars"
+    ],
+    "new-jersey-devils": [
+      "new-york-rangers",
+      "new-york-islanders",
+      "philadelphia-flyers"
+    ],
+    "new-york-islanders": [
+      "new-york-rangers",
+      "new-jersey-devils",
+      "philadelphia-flyers"
+    ],
+    "new-york-rangers": [
+      "new-york-islanders",
+      "new-jersey-devils",
+      "philadelphia-flyers"
+    ],
+    "ottawa-senators": [
+      "toronto-maple-leafs",
+      "montreal-canadiens",
+      "buffalo-sabres"
+    ],
+    "philadelphia-flyers": [
+      "pittsburgh-penguins",
+      "new-york-rangers",
+      "new-jersey-devils"
+    ],
+    "pittsburgh-penguins": [
+      "philadelphia-flyers",
+      "washington-capitals",
+      "columbus-blue-jackets"
+    ],
+    "san-jose-sharks": [
+      "los-angeles-kings",
+      "anaheim-ducks",
+      "vegas-golden-knights"
+    ],
+    "seattle-kraken": [
+      "vancouver-canucks",
+      "calgary-flames",
+      "edmonton-oilers"
+    ],
+    "st-louis-blues": [
+      "chicago-blackhawks",
+      "nashville-predators",
+      "dallas-stars"
+    ],
+    "tampa-bay-lightning": [
+      "florida-panthers",
+      "boston-bruins",
+      "carolina-hurricanes"
+    ],
+    "toronto-maple-leafs": [
+      "montreal-canadiens",
+      "ottawa-senators",
+      "boston-bruins"
+    ],
+    "utah-mammoth": [
+      "colorado-avalanche",
+      "vegas-golden-knights",
+      "dallas-stars"
+    ],
+    "vancouver-canucks": [
+      "calgary-flames",
+      "edmonton-oilers",
+      "seattle-kraken"
+    ],
+    "vegas-golden-knights": [
+      "los-angeles-kings",
+      "san-jose-sharks",
+      "edmonton-oilers"
+    ],
+    "washington-capitals": [
+      "pittsburgh-penguins",
+      "philadelphia-flyers",
+      "carolina-hurricanes"
+    ],
+    "winnipeg-jets": [
+      "minnesota-wild",
+      "edmonton-oilers",
+      "calgary-flames"
+    ]
+  },
+  "college": {
+    "alabama-crimson-tide": [
+      "auburn-tigers",
+      "tennessee-volunteers",
+      "lsu-tigers"
+    ],
+    "auburn-tigers": [
+      "alabama-crimson-tide",
+      "georgia-bulldogs"
+    ],
+    "arizona-wildcats": [
+      "arizona-state-sun-devils"
+    ],
+    "arizona-state-sun-devils": [
+      "arizona-wildcats"
+    ],
+    "arkansas-razorbacks": [
+      "lsu-tigers",
+      "texas-longhorns",
+      "missouri-tigers"
+    ],
+    "army-black-knights": [
+      "navy-midshipmen",
+      "air-force-falcons"
+    ],
+    "navy-midshipmen": [
+      "army-black-knights",
+      "air-force-falcons",
+      "notre-dame-fighting-irish"
+    ],
+    "air-force-falcons": [
+      "army-black-knights",
+      "navy-midshipmen"
+    ],
+    "baylor-bears": [
+      "tcu-horned-frogs",
+      "texas-longhorns"
+    ],
+    "tcu-horned-frogs": [
+      "smu-mustangs",
+      "baylor-bears",
+      "texas-tech-red-raiders"
+    ],
+    "smu-mustangs": [
+      "tcu-horned-frogs"
+    ],
+    "boise-state-broncos": [
+      "fresno-state-bulldogs"
+    ],
+    "fresno-state-bulldogs": [
+      "boise-state-broncos",
+      "san-diego-state-aztecs"
+    ],
+    "boston-college-eagles": [
+      "notre-dame-fighting-irish",
+      "syracuse-orange"
+    ],
+    "byu-cougars": [
+      "utah-utes",
+      "utah-state-aggies"
+    ],
+    "utah-utes": [
+      "byu-cougars",
+      "colorado-buffaloes"
+    ],
+    "utah-state-aggies": [
+      "byu-cougars",
+      "wyoming-cowboys"
+    ],
+    "cal-golden-bears": [
+      "stanford-cardinal"
+    ],
+    "stanford-cardinal": [
+      "cal-golden-bears",
+      "notre-dame-fighting-irish"
+    ],
+    "clemson-tigers": [
+      "south-carolina-gamecocks",
+      "florida-state-seminoles"
+    ],
+    "south-carolina-gamecocks": [
+      "clemson-tigers",
+      "georgia-bulldogs"
+    ],
+    "colorado-buffaloes": [
+      "colorado-state-rams",
+      "nebraska-cornhuskers",
+      "utah-utes"
+    ],
+    "colorado-state-rams": [
+      "colorado-buffaloes",
+      "wyoming-cowboys",
+      "air-force-falcons"
+    ],
+    "wyoming-cowboys": [
+      "colorado-state-rams"
+    ],
+    "duke-blue-devils": [
+      "north-carolina-tar-heels",
+      "wake-forest-demon-deacons"
+    ],
+    "north-carolina-tar-heels": [
+      "nc-state-wolfpack",
+      "duke-blue-devils"
+    ],
+    "nc-state-wolfpack": [
+      "north-carolina-tar-heels",
+      "wake-forest-demon-deacons"
+    ],
+    "wake-forest-demon-deacons": [
+      "duke-blue-devils",
+      "nc-state-wolfpack"
+    ],
+    "florida-gators": [
+      "florida-state-seminoles",
+      "georgia-bulldogs",
+      "tennessee-volunteers"
+    ],
+    "florida-state-seminoles": [
+      "florida-gators",
+      "miami-hurricanes",
+      "clemson-tigers"
+    ],
+    "miami-hurricanes": [
+      "florida-state-seminoles",
+      "florida-gators",
+      "notre-dame-fighting-irish"
+    ],
+    "georgia-bulldogs": [
+      "georgia-tech-yellow-jackets",
+      "florida-gators",
+      "auburn-tigers"
+    ],
+    "georgia-tech-yellow-jackets": [
+      "georgia-bulldogs"
+    ],
+    "illinois-fighting-illini": [
+      "northwestern-wildcats"
+    ],
+    "northwestern-wildcats": [
+      "illinois-fighting-illini"
+    ],
+    "indiana-hoosiers": [
+      "purdue-boilermakers"
+    ],
+    "purdue-boilermakers": [
+      "indiana-hoosiers"
+    ],
+    "iowa-hawkeyes": [
+      "iowa-state-cyclones",
+      "nebraska-cornhuskers",
+      "wisconsin-badgers"
+    ],
+    "iowa-state-cyclones": [
+      "iowa-hawkeyes",
+      "kansas-state-wildcats"
+    ],
+    "kansas-jayhawks": [
+      "kansas-state-wildcats",
+      "missouri-tigers"
+    ],
+    "kansas-state-wildcats": [
+      "kansas-jayhawks",
+      "iowa-state-cyclones"
+    ],
+    "missouri-tigers": [
+      "kansas-jayhawks",
+      "arkansas-razorbacks"
+    ],
+    "kentucky-wildcats": [
+      "louisville-cardinals",
+      "tennessee-volunteers"
+    ],
+    "louisville-cardinals": [
+      "kentucky-wildcats",
+      "cincinnati-bearcats"
+    ],
+    "lsu-tigers": [
+      "alabama-crimson-tide",
+      "arkansas-razorbacks",
+      "ole-miss-rebels"
+    ],
+    "ole-miss-rebels": [
+      "mississippi-state-bulldogs",
+      "lsu-tigers"
+    ],
+    "mississippi-state-bulldogs": [
+      "ole-miss-rebels"
+    ],
+    "michigan-wolverines": [
+      "ohio-state-buckeyes",
+      "michigan-state-spartans",
+      "notre-dame-fighting-irish"
+    ],
+    "ohio-state-buckeyes": [
+      "michigan-wolverines",
+      "penn-state-nittany-lions"
+    ],
+    "michigan-state-spartans": [
+      "michigan-wolverines",
+      "notre-dame-fighting-irish"
+    ],
+    "penn-state-nittany-lions": [
+      "ohio-state-buckeyes",
+      "pitt-panthers",
+      "michigan-state-spartans"
+    ],
+    "pitt-panthers": [
+      "penn-state-nittany-lions",
+      "west-virginia-mountaineers"
+    ],
+    "west-virginia-mountaineers": [
+      "pitt-panthers",
+      "virginia-tech-hokies"
+    ],
+    "minnesota-golden-gophers": [
+      "wisconsin-badgers",
+      "iowa-hawkeyes"
+    ],
+    "wisconsin-badgers": [
+      "minnesota-golden-gophers",
+      "iowa-hawkeyes"
+    ],
+    "nebraska-cornhuskers": [
+      "oklahoma-sooners",
+      "iowa-hawkeyes",
+      "colorado-buffaloes"
+    ],
+    "oklahoma-sooners": [
+      "texas-longhorns",
+      "oklahoma-state-cowboys",
+      "nebraska-cornhuskers"
+    ],
+    "oklahoma-state-cowboys": [
+      "oklahoma-sooners"
+    ],
+    "texas-longhorns": [
+      "oklahoma-sooners",
+      "texas-am-aggies",
+      "arkansas-razorbacks"
+    ],
+    "texas-am-aggies": [
+      "texas-longhorns",
+      "lsu-tigers"
+    ],
+    "texas-tech-red-raiders": [
+      "tcu-horned-frogs",
+      "texas-longhorns"
+    ],
+    "notre-dame-fighting-irish": [
+      "usc-trojans",
+      "michigan-wolverines",
+      "navy-midshipmen"
+    ],
+    "usc-trojans": [
+      "ucla-bruins",
+      "notre-dame-fighting-irish"
+    ],
+    "ucla-bruins": [
+      "usc-trojans"
+    ],
+    "oregon-ducks": [
+      "oregon-state-beavers",
+      "washington-huskies"
+    ],
+    "oregon-state-beavers": [
+      "oregon-ducks"
+    ],
+    "washington-huskies": [
+      "washington-state-cougars",
+      "oregon-ducks"
+    ],
+    "washington-state-cougars": [
+      "washington-huskies"
+    ],
+    "rutgers-scarlet-knights": [
+      "maryland-terrapins",
+      "penn-state-nittany-lions"
+    ],
+    "maryland-terrapins": [
+      "rutgers-scarlet-knights",
+      "penn-state-nittany-lions"
+    ],
+    "syracuse-orange": [
+      "boston-college-eagles",
+      "pitt-panthers"
+    ],
+    "tennessee-volunteers": [
+      "alabama-crimson-tide",
+      "florida-gators",
+      "vanderbilt-commodores"
+    ],
+    "vanderbilt-commodores": [
+      "tennessee-volunteers"
+    ],
+    "virginia-cavaliers": [
+      "virginia-tech-hokies"
+    ],
+    "virginia-tech-hokies": [
+      "virginia-cavaliers",
+      "west-virginia-mountaineers"
+    ],
+    "houston-cougars": [
+      "rice-owls",
+      "baylor-bears"
+    ],
+    "rice-owls": [
+      "houston-cougars"
+    ],
+    "memphis-tigers": [
+      "uab-blazers",
+      "tulane-green-wave"
+    ],
+    "tulane-green-wave": [
+      "southern-miss-golden-eagles",
+      "memphis-tigers"
+    ],
+    "southern-miss-golden-eagles": [
+      "tulane-green-wave"
+    ],
+    "uab-blazers": [
+      "memphis-tigers"
+    ],
+    "ucf-knights": [
+      "south-florida-bulls"
+    ],
+    "south-florida-bulls": [
+      "ucf-knights"
+    ],
+    "cincinnati-bearcats": [
+      "louisville-cardinals"
+    ],
+    "east-carolina-pirates": [
+      "marshall-thundering-herd"
+    ],
+    "marshall-thundering-herd": [
+      "east-carolina-pirates",
+      "appalachian-state-mountaineers"
+    ],
+    "appalachian-state-mountaineers": [
+      "georgia-southern-eagles",
+      "marshall-thundering-herd"
+    ],
+    "georgia-southern-eagles": [
+      "appalachian-state-mountaineers"
+    ],
+    "san-diego-state-aztecs": [
+      "fresno-state-bulldogs"
+    ],
+    "texas-state-bobcats": [
+      "utsa-roadrunners"
+    ],
+    "utsa-roadrunners": [
+      "texas-state-bobcats",
+      "north-texas-mean-green"
+    ],
+    "north-texas-mean-green": [
+      "smu-mustangs",
+      "utsa-roadrunners"
+    ],
+    "toledo-rockets": [
+      "buffalo-bulls"
+    ],
+    "buffalo-bulls": [
+      "toledo-rockets"
+    ],
+    "western-kentucky-hilltoppers": [
+      "marshall-thundering-herd"
+    ]
+  }
+}

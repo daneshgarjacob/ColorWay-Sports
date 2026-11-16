@@ -8,6 +8,7 @@ gradient: "linear-gradient(135deg, #552583 0%, #1d1d1d 50%, #1D428A 100%)"
 coverImage: "/images/posts/kessler-hachimura-kobe/cover.jpg"
 coverImagePosition: "center top"
 coverImageFit: "cover"
+kicker: "Explained"
 league: nba
 teams: []
 ---

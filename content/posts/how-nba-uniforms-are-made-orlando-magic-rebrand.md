@@ -8,6 +8,7 @@ gradient: "linear-gradient(135deg, #0B77C2 0%, #000000 55%, #C4CED4 100%)"
 coverImage: "/images/posts/orlando-magic-rebrand/hero.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
+kicker: "Explained"
 league: "nba"
 teams: []
 ---

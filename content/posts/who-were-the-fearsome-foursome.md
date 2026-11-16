@@ -10,6 +10,7 @@ coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/rams.png"
+kicker: "Explained"
 league: nfl
 teams: ["los-angeles-rams"]
 ---

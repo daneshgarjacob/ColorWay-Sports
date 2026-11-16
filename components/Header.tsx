@@ -45,6 +45,10 @@ const leagues: NavLeague[] = [
       "New York Jets", "Philadelphia Eagles", "Pittsburgh Steelers", "San Francisco 49ers",
       "Seattle Seahawks", "Tampa Bay Buccaneers", "Tennessee Titans", "Washington Commanders",
     ],
+    // Site plan 11/16: the holiday-week hub, Wednesday through Black Friday.
+    extraLinks: [
+      { label: "Thanksgiving Uniforms 2026", href: "/stories/nfl-thanksgiving-uniforms-2026" },
+    ],
   },
   {
     label: "CFB",
@@ -182,6 +186,7 @@ const leagues: NavLeague[] = [
       ],
     },
     extraLinks: [
+      { label: "Rivalry Week Uniforms 2026", href: "/stories/college-football-rivalry-week-uniforms-2026" },
       { label: "College Football Week 11 Uniforms", href: "/stories/college-football-week-11-uniforms-2026" },
     ],
   },
@@ -283,6 +288,8 @@ const leagues: NavLeague[] = [
       // new racing stories and neither earns.
       // Jake 11/13: every court, end zone, field and stadium story in one place.
       { label: "Courts & Fields", href: "/courts-and-fields" },
+      // Site plan 11/16: every "why" and origin story in one place.
+      { label: "Explained", href: "/explained" },
       { label: "F1", href: "/stories?league=f1" },
       { label: "NASCAR", href: "/stories?league=nascar" },
       // Jake 10/30: WNBA posts were filed under NBA (Comets logo); own league now.

@@ -7,6 +7,7 @@ excerpt: "The home team wears white only about a third of the time now. An NBA m
 gradient: "linear-gradient(135deg, #C4CED4 0%, #0B1F4A 55%, #000000 100%)"
 coverImage: "/images/posts/why-nba-teams-dont-wear-white-at-home/hero.jpg"
 coverImagePosition: "center center"
+kicker: "Explained"
 league: "nba"
 teams: []
 ---

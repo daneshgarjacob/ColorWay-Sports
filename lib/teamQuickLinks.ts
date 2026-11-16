@@ -55,7 +55,7 @@ const TWO_WORD_NICKNAMES = [
   "Demon Deacons",
 ];
 
-function nickname(name: string): string {
+export function nickname(name: string): string {
   const hit = TWO_WORD_NICKNAMES.find((n) => name.endsWith(n));
   return hit ?? name.split(" ").slice(-1)[0];
 }

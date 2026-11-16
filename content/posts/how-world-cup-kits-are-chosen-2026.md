@@ -9,6 +9,7 @@ coverImage: "/images/posts/world-cup-kit-rules/cover.jpg"
 coverImagePosition: "center center"
 coverImageFit: "cover"
 logoSrc: "/logos/world-cup-2026.png"
+kicker: "Explained"
 league: "soccer"
 teams: ["international-competitions"]
 ---

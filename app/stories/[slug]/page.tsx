@@ -16,6 +16,10 @@ import TrackerSearch from "@/components/TrackerSearch";
 import TrackerTeamIndex from "@/components/TrackerTeamIndex";
 import TrackerToolbar from "@/components/TrackerToolbar";
 import TeamQuickLinks from "@/components/TeamQuickLinks";
+import TeamMoreBlock from "@/components/TeamMoreBlock";
+import { buildTeamMoreLinks } from "@/lib/teamMoreLinks";
+import ExplainedRail from "@/components/ExplainedRail";
+import { isExplained, relatedExplained } from "@/lib/explained";
 import { buildTeamQuickLinks, resolveTeamQuickLinks } from "@/lib/teamQuickLinks";
 import { buildMlbTeamIndex } from "@/lib/mlbTrackerTeamIndex";
 import TeamWoreLastNight from "@/components/TeamWoreLastNight";
@@ -388,12 +392,28 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   // Both indexes were already built above for this post, so this is only counting.
   const uniformLog = nflTeam ? nflUniformLog(nflTeam) : winterTeam ? winterUniformLog(winterTeam) : null;
 
+  // "More For Your Team" (plan 11/16 item 2): team schedule posts close with
+  // the next opponent, the rival, the team's why story and the league tracker.
+  // The calendar is skipped: these posts already carry it.
+  const teamMore =
+    /-uniform-schedule-2026(-27)?$/.test(slug) &&
+    ["nfl", "nba", "nhl", "college"].includes(post.league ?? "") &&
+    storyTeams.length >= 1
+      ? buildTeamMoreLinks(storyTeams[0], { now, exclude: [`/stories/${slug}`], skipCalendar: true })
+      : null;
+
+  // "More Explained" (plan 11/16 item 4): three related why stories.
+  const explainedRail = isExplained(post) ? relatedExplained(post, 3) : [];
+  const railSlugs = new Set(explainedRail.map((p) => p.slug));
+
   const relatedPosts = getRelatedPosts(slug, {
     league: post.league,
     teams: post.teams,
     category: post.category,
-    limit: 3,
-  });
+    limit: 3 + railSlugs.size,
+  })
+    .filter((p) => !railSlugs.has(p.slug))
+    .slice(0, 3);
   const upNextPost = relatedPosts[0];
 
   return (
@@ -639,6 +659,9 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             <InstagramEmbed />
           </>
         )}
+
+        <TeamMoreBlock data={teamMore} />
+        <ExplainedRail posts={explainedRail} />
 
         {/* Byline card — a named human behind every grade */}
         <AuthorBio author={author} />

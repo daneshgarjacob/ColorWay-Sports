@@ -11,6 +11,7 @@ logoSrc: /logos/nba.png
 coverImage: /images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.jpg
 coverImagePosition: center center
 coverImageFit: contain
+kicker: "Explained"
 league: nba
 teams:
   - los-angeles-lakers

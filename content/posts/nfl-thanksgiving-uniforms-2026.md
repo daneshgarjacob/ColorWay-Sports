@@ -1,18 +1,20 @@
 ---
-title: "NFL Thanksgiving Uniforms 2026: What Every Team Will Wear"
+title: "NFL Thanksgiving Uniforms 2026: What Every Team Will Wear, Wednesday Through Black Friday"
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-02"
-excerpt: "NFL Thanksgiving uniforms for 2026: the Cowboys wear their 1960s Classic throwback against the Eagles, the Lions host the Bears in Honolulu blue, the Bills wear royal blue against the Chiefs at night, and the Steelers host the Broncos on Black Friday."
+updatedDate: "2026-11-16"
+excerpt: "NFL Thanksgiving uniforms for 2026, all five holiday-week games: the Rams debut Fearsome White against the Packers on Thanksgiving Eve, the Cowboys wear their 1960s Classic throwback against the Eagles, the Lions host the Bears in Honolulu blue, the Bills wear royal blue against the Chiefs at night, and the Steelers host the Broncos on Black Friday."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #869397 130%)"
 logoSrc: "/logos/leagues/nfl.png"
 league: nfl
-teams: ["detroit-lions", "chicago-bears", "dallas-cowboys", "philadelphia-eagles", "buffalo-bills", "kansas-city-chiefs", "pittsburgh-steelers", "denver-broncos"]
+teams: ["green-bay-packers", "los-angeles-rams", "detroit-lions", "chicago-bears", "dallas-cowboys", "philadelphia-eagles", "buffalo-bills", "kansas-city-chiefs", "pittsburgh-steelers", "denver-broncos"]
 coverImage: "/images/posts/nfl-thanksgiving-uniforms-2026/cover.jpg"
 coverImagePosition: "center 25%"
+homepageHero: "2026-11-26"
 ---
 
-Three NFL games are on Thanksgiving, Thursday, November 26, 2026, and a fourth follows on Black Friday. The best-dressed one is already set: **Dallas wears its 1960s Classic throwback against Philadelphia** for the fifth straight Thanksgiving, as published on the Cowboys' own uniform schedule. Detroit hosts Chicago in the early game, Buffalo hosts Kansas City at night, and Pittsburgh hosts Denver the next afternoon.
+Thanksgiving week 2026 has five NFL games in three days: the league's first Thanksgiving Eve game on Wednesday, November 25, three games on Thanksgiving Thursday, November 26, and a Black Friday game on November 27. The two biggest looks are already on the teams' own published schedules. **The Rams wear their new Fearsome White alternate against the Packers on Wednesday night**, its only date of the season, and **Dallas wears its 1960s Classic throwback against Philadelphia** for the fifth straight Thanksgiving, as published on the Cowboys' own uniform schedule. Detroit hosts Chicago in the early game, Buffalo hosts Kansas City at night, and Pittsburgh hosts Denver the next afternoon.
 
 Every look below carries one of three labels, and we keep them separate:
 
@@ -26,6 +28,7 @@ Every look below carries one of three labels, and we keep them separate:
 <table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
 <thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 12px; text-align: left;">Game</th><th style="padding: 10px 12px; text-align: left;">Kickoff (ET)</th><th style="padding: 10px 12px; text-align: left;">TV</th></tr></thead>
 <tbody>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Packers at Rams (Thanksgiving Eve)</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Wednesday, Nov. 25, 8:00 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Netflix</td></tr>
 <tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Bears at Lions</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 1:00 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">CBS</td></tr>
 <tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Eagles at Cowboys</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 4:30 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">FOX</td></tr>
 <tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800; white-space: nowrap;">Chiefs at Bills</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 8:20 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">NBC</td></tr>
@@ -34,11 +37,21 @@ Every look below carries one of three labels, and we keep them separate:
 </table>
 </div>
 
-Matchups, kickoff times and networks are from ESPN's NFL schedule.
+Matchups, kickoff times and networks are from ESPN's NFL schedule. Every team's full season is one tap away in its uniform schedule, linked in each game below, and the whole week is on our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
+
+## Thanksgiving Eve: Packers at Rams, 8:00 p.m. ET on Netflix
+
+**Rams: Fearsome White (Scheduled).** Los Angeles assigned all 17 of its 2026 games on September 1, and this is the only date for Fearsome White: a white jersey with royal blue numbers, a continuous horn stripe over the shoulder, and a new white helmet with white horns and a white facemask. It is named for the Fearsome Foursome defensive line of the 1960s ([who they were](/stories/who-were-the-fearsome-foursome)), and we graded it an A- when it [first leaked](/stories/rams-leaked-alternate-jerseys-2026). Full season in our [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
+
+**Packers: green jersey (Expected).** Two teams cannot both wear white, so Green Bay brings the green home jersey to SoFi Stadium with the gold helmet and gold pants, as it did at the Jets in Week 2. It is one of three road games this season where the host took white first. See our [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/packers-green-home.jpg" alt="Green Bay Packers green jersey, expected at the Rams on Thanksgiving Eve 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Packers · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-fearsome-white.jpg" alt="Los Angeles Rams Fearsome White alternate jersey, on the team's published schedule for Thanksgiving Eve 2026 against the Packers" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams · Scheduled</figcaption></figure></div>
+
+It is the first NFL game ever played on Thanksgiving Eve. [How the league picks these windows](/stories/how-nfl-picks-prime-time-games-2026).
 
 ## Bears at Lions, 1:00 p.m. ET on CBS
 
-**Lions: Honolulu blue home jersey (Expected).** Detroit hosts its Thanksgiving game every year, and our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) has the blue home set for it, the standard silver helmet with the Honolulu blue jersey. The Lions have announced uniforms one game at a time this season, and nothing on their calendar points to a throwback or alternate for this date. Detroit has already used its new Rivalries Silver set (Week 8 against Minnesota) and the black alternate (Week 7 against Green Bay).
+**Lions: Honolulu blue home jersey (Expected).** Detroit hosts its Thanksgiving game every year, and our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) has the blue home set for it, the standard silver helmet with the Honolulu blue jersey. The Lions have announced uniforms one game at a time this season, and nothing on their calendar points to a throwback or alternate for this date. Detroit has already used its new Rivalries Silver set (Week 8 against Minnesota) and the black alternate (Week 7 against Green Bay). Why that blue is called Honolulu blue at all is its own story: [Why Do The Lions Wear Honolulu Blue?](/stories/why-do-the-lions-wear-honolulu-blue)
 
 **Bears: white road jersey (Expected).** Chicago wears white on the road, and our [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026) has the navy helmet and white jersey at Ford Field. The Bears' only confirmed 2026 date so far is the Rivalries debut on Christmas Day against Green Bay.
 
@@ -48,7 +61,7 @@ The last time these two met on Thanksgiving, in 2024, Detroit wore its all-blue 
 
 ## Eagles at Cowboys, 4:30 p.m. ET on FOX
 
-**Cowboys: Thanksgiving Classic throwback (Scheduled).** Dallas published all 17 of its 2026 uniform assignments on September 2, and Week 12 is the Classic, the 1960s throwback: a **white helmet with the vintage star and a gray facemask**, a navy jersey with stars on the white shoulder yoke and solid block numbers, and white pants with twin navy stripes. The Cowboys wore it on Thanksgiving in 2022, 2023, 2024 and 2025. Full details are in our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026).
+**Cowboys: Thanksgiving Classic throwback (Scheduled).** Dallas published all 17 of its 2026 uniform assignments on September 2, and Week 12 is the Classic, the 1960s throwback: a **white helmet with the vintage star and a gray facemask**, a navy jersey with stars on the white shoulder yoke and solid block numbers, and white pants with twin navy stripes. The Cowboys wore it on Thanksgiving in 2022, 2023, 2024 and 2025. Full details are in our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026). Dallas wearing a dark jersey at home is the exception: [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home) the rest of the year.
 
 **Eagles: white road jersey (Expected).** Dallas usually wears white at home, which normally lets a visitor bring a colored jersey to AT&T Stadium; Philadelphia wore Kelly Green there in 2025. That option is closed this year because the Classic is a navy jersey, so the Eagles take white. Philadelphia confirmed its three 2026 alternate dates on September 4 (Kelly Green in Weeks 9 and 16, the black alternate in Week 15), and Thanksgiving is not one of them. Our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) has the midnight green helmet and white jersey for this game.
 
@@ -76,7 +89,13 @@ The last time these two met on Thanksgiving, in 2024, Detroit wore its all-blue 
 - **Detroit's mix.** The Lions do not have one fixed Thanksgiving look. They wore their throwbacks (logo-free silver helmet, plain Honolulu blue jersey, silver pants) against Green Bay in 2023 and again in 2025, per [WILX](https://www.wilx.com/2025/11/26/lions-return-classic-throwback-look-thanksgiving-game/), and went all blue against the Bears in 2024. They also wore throwbacks often on the holiday in the 2000s.
 - **The Madden patch.** Since 2023, players on Thanksgiving have worn a round shoulder patch of John Madden in a headset, a tribute to the Hall of Fame coach and broadcaster. It ran for the third straight year in 2025.
 
-We will update this page as each team posts its game-week uniform, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what all eight teams actually wear.
+We will update this page as each team posts its game-week uniform, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what all ten teams actually wear.
+
+## More For Thanksgiving Week
+
+- **College football's Rivalry Week** is the same weekend: the Egg Bowl and Texas at Texas A&M on Friday, then the Iron Bowl, The Game and the rest on Saturday. Every matchup and both uniforms are in our [College Football Rivalry Week Uniforms 2026](/stories/college-football-rivalry-week-uniforms-2026) guide.
+- **The why stories:** [Why the Lions wear Honolulu blue](/stories/why-do-the-lions-wear-honolulu-blue), [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home), [what color the Cowboys' pants really are](/stories/what-color-are-the-cowboys-pants) and [how every NFL team got its colors](/stories/how-every-nfl-team-got-its-colors). The full shelf is on our [Explained](/explained) page.
+- **Christmas is next:** the Rivalries uniforms come back on December 25. [What the Rivalries program is](/stories/what-is-the-nfl-rivalries-uniform-program), and [every Rivalries uniform, ranked](/stories/nfl-rivalries-uniforms-2026-ranked).
 
 ## FAQs
 
@@ -91,6 +110,14 @@ The 1960s Classic throwback against the Eagles: white helmet with the vintage st
 **Will the Eagles wear Kelly Green on Thanksgiving?**
 
 No. The Cowboys' Classic throwback is a navy jersey, so Philadelphia needs to wear white. The Eagles' two Kelly Green dates in 2026 are Week 9 against the Giants and Week 16 against the Texans.
+
+**What are the Rams wearing on Thanksgiving Eve?**
+
+Fearsome White, the new white alternate with the white-horn helmet, against the Packers on Wednesday, November 25. It is on the uniform schedule the Rams published on September 1, and it is the jersey's only game this season. We expect Green Bay in its green jersey.
+
+**Is there an NFL game the night before Thanksgiving in 2026?**
+
+Yes. The Green Bay Packers play at the Los Angeles Rams on Wednesday, November 25 at 8:00 p.m. ET on Netflix, the first Thanksgiving Eve game in NFL history.
 
 **What time are the NFL Thanksgiving games in 2026?**
 

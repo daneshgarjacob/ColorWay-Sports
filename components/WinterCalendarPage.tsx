@@ -2,6 +2,8 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import InlineNewsletter from "@/components/InlineNewsletter";
+import TeamMoreBlock from "@/components/TeamMoreBlock";
+import { buildTeamMoreLinks } from "@/lib/teamMoreLinks";
 import WinterCalendarGrid from "@/components/WinterCalendarGrid";
 import {
   winterTeamByKey,
@@ -221,6 +223,10 @@ export default function WinterCalendarPage({
             ))}
           </div>
         </section>
+
+        <div className="max-w-[980px] mx-auto px-5">
+          <TeamMoreBlock data={buildTeamMoreLinks(entry.slug, { exclude: [`/${league}-tracker/${entry.key}`] })} />
+        </div>
 
         <section className="max-w-[980px] mx-auto px-5 pt-10">
           <p className="text-[14px] text-black/60 m-0">

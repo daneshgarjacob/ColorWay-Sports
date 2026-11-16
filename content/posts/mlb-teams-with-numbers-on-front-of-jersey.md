@@ -5,6 +5,7 @@ date: "2026-04-04"
 excerpt: "We went through all 30 MLB teams to find out how many actually put uniform numbers on the front of their jerseys. The split might surprise you."
 gradient: "linear-gradient(135deg, #002D72 0%, #D50032 100%)"
 logoSrc: "/logos/mlb-city-connect.png"
+kicker: "Explained"
 league: "mlb"
 teams: []
 coverImage: ""

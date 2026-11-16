@@ -5,6 +5,7 @@ date: "2026-07-04"
 updatedDate: "2026-08-06"
 excerpt: "France wears a white polo collar on its 2026 World Cup home jersey, a Nike heritage callback. Uruguay is the only other nation with one."
 gradient: "linear-gradient(135deg, #002395 0%, #FFFFFF 50%, #ED2939 100%)"
+kicker: "Explained"
 league: "soccer"
 teams: ["france", "uruguay", "international-competitions"]
 coverImage: "/images/posts/france-polo-collar-cover.jpg"

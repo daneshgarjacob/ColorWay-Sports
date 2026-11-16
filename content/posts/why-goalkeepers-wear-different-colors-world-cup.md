@@ -7,6 +7,7 @@ excerpt: "Goalkeepers wear different colors because the Laws of the Game require
 gradient: "linear-gradient(135deg, #0B1A2F 0%, #1D4D2B 55%, #C6FF00 100%)"
 overlayText: "GK COLORS"
 logoSrc: "/logos/world-cup-2026.png"
+kicker: "Explained"
 league: "soccer"
 teams: ["international-competitions"]
 ---
