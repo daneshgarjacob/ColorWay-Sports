@@ -1,10 +1,10 @@
 ---
-title: "Why Do the Dolphins Wear White at Home? The Miami Heat Explained (and How Rarely They Wear Aqua)"
+title: "Why Do The Dolphins Wear White At Home? The Miami Heat Explained (And How Rarely They Wear Aqua)"
 author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-10-30"
-updatedDate: "2026-10-30"
-excerpt: "Why do the Miami Dolphins wear white at home? The South Florida sun, a shaded home sideline and a dark jersey for the visitors. Miami is all white against the Patriots on November 1, it wears white for six of eight home games in 2026, and aqua only once."
+updatedDate: "2026-11-17"
+excerpt: "Why do the Miami Dolphins wear white at home? The South Florida sun, a shaded home sideline and a dark jersey for the visitors. Miami has worn white in all four home games so far in 2026, including all white against the Patriots, and plans white for six of eight home games."
 gradient: "linear-gradient(135deg, #008E97 0%, #00474d 60%, #0b1630 120%)"
 coverImage: "/images/posts/why-do-the-dolphins-wear-white-at-home/cover.jpg"
 coverImagePosition: "center center"
@@ -17,7 +17,7 @@ teams:
   - miami-dolphins
 ---
 
-**The Miami Dolphins will be in white from helmet to pants against the New England Patriots on Sunday, and that is not a special occasion. It's how Miami dresses at home.** The team's "Week 8's wardrobe" post on October 29 puts the Dolphins in **White on White** (white helmet, white jersey, white pants) for the 4:25 p.m. ET game at Hard Rock Stadium, with the Patriots in navy over silver pants.
+**The Miami Dolphins have worn white in every home game so far in 2026, and that is not a special occasion. It's how Miami dresses at home.** Against the New England Patriots on November 1, the Dolphins went **White on White** (white helmet, white jersey, white pants) at Hard Rock Stadium, with the Patriots in navy over silver pants, as the team's "Week 8's wardrobe" post on October 29 announced.
 
 Most NFL teams wear their color at home. Miami's color is aqua, one of the best in sports, and in 2026 the Dolphins plan to wear it at home once. So why do the Dolphins wear white at home? Here's what the record actually supports, which other teams do it, how often Miami goes aqua, and our take.
 
@@ -34,7 +34,7 @@ Most NFL teams wear their color at home. Miami's color is aqua, one of the best 
 - **Who else does it?** The Dallas Cowboys, more than anyone: eight of nine home games in white in 2026. Tampa Bay wears white early in the season too.
 - **Our take (opinion):** white in September and October makes sense. One aqua home game all year is too few.
 
-## What the Dolphins Are Wearing Against the Patriots
+## What the Dolphins Wore Against the Patriots
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/dolphins-white-road.jpg" alt="Miami Dolphins white jersey with aqua numbers outlined in orange, worn with the white helmet and white pants as White on White against the Patriots on November 1, 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Dolphins · White on White</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/patriots-navy-home.jpg" alt="New England Patriots navy jersey, worn with silver pants at Miami on November 1, 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Patriots · Navy</figcaption></figure></div>
 
@@ -64,12 +64,12 @@ We can't tell you how much the jersey color mattered that day against the shade,
 
 ## How Often the Dolphins Wear White at Home in 2026
 
-Miami plays eight home games at Hard Rock Stadium this season. Six are in white:
+Miami plays eight home games at Hard Rock Stadium this season. Six are in white, and through mid-November the Dolphins have worn white in all four home games played:
 
 - **Week 3 vs. Chiefs:** white. Worn.
 - **Week 5 vs. Bengals:** all white. Worn.
-- **Week 8 vs. Patriots:** White on White. Announced by the team on October 29.
-- **Week 9 vs. Lions:** white. Scheduled.
+- **Week 8 vs. Patriots:** White on White. Worn.
+- **Week 9 vs. Lions:** white jersey with aqua pants. Worn.
 - **Week 12 vs. Jets:** white. Our projection; the team hasn't named a jersey yet.
 - **Week 14 vs. Bears, December 13:** the white throwback. Announced.
 
@@ -103,7 +103,7 @@ Keep white for the hot early-season afternoons. Once November hits, wear aqua at
 
 ## The Bottom Line
 
-The Dolphins wear white at home because of the South Florida heat: white reflects the sun, and the home team's choice forces the visitor into a dark jersey. Hard Rock Stadium's shaded home sideline adds to it. We found no formal team policy, and the exact start date isn't on the record. In 2026 Miami wears white for six of its eight home games, including White on White against the Patriots on November 1, and aqua once.
+The Dolphins wear white at home because of the South Florida heat: white reflects the sun, and the home team's choice forces the visitor into a dark jersey. Hard Rock Stadium's shaded home sideline adds to it. We found no formal team policy, and the exact start date isn't on the record. In 2026 Miami has worn white in all four home games so far, including White on White against the Patriots on November 1, and plans white for six of its eight home games.
 
 ## Frequently Asked Questions
 
@@ -115,9 +115,9 @@ Because of the South Florida heat. White reflects sunlight and dark colors absor
 
 Yes, but rarely. In 2026 the aqua jersey is projected for one home game, the Chargers in Week 16. Miami also wore aqua on the road at the Jets in Week 7 and is expected in aqua at Buffalo in Week 11, both games where the host wore white.
 
-**What are the Dolphins wearing against the Patriots?**
+**What did the Dolphins wear against the Patriots?**
 
-White on White: white helmet, white jersey and white pants, announced by the team on October 29 for Sunday, November 1 at 4:25 p.m. ET on CBS. The Patriots wear navy over silver pants.
+White on White: white helmet, white jersey and white pants, on Sunday, November 1, as the team announced on October 29. The Patriots wore navy over silver pants.
 
 **How many home games do the Dolphins wear white in 2026?**
 

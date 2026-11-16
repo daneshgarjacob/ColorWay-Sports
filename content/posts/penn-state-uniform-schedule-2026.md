@@ -72,7 +72,7 @@ The no-names rule is the part people ask about. Penn State leaves the back of th
 
 ## The Bottom Line
 
-Nothing here will surprise you, and Penn State would take that as a compliment. Navy at home, white on the road, a helmet with nothing on it, and no names on any of it.
+Nothing here will surprise you, and Penn State would take that as a compliment. Navy at home, white on the road, a helmet with nothing on it, and no names on any of it. For the full story of why, see [Why Penn State Has No Names On Its Jerseys](/stories/why-penn-state-has-no-names-on-jerseys).
 
 ## Frequently Asked Questions
 
