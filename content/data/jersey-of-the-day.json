@@ -731,6 +731,48 @@
     }
    ],
    "shopQuery": "49ers 1994 throwback jersey"
+  },
+  "2026-11-16": {
+   "team": "Baltimore Ravens",
+   "teamShort": "Ravens",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Alternate",
+   "jerseyName": "Darkness Falls (All Black)",
+   "image": "/images/posts/ravens-uniforms-2026-reveal/HGEQt1YXAAAulG4.jpg",
+   "imageAlt": "Ravens quarterback Lamar Jackson in the all-black Darkness uniform with the matte black helmet and red-eyed raven",
+   "imagePosition": "50% 25%",
+   "imageCaption": "Lamar Jackson in the Darkness uniform at the 2026 reveal.",
+   "credit": {
+    "text": "Baltimore Ravens (@Ravens)",
+    "url": "https://x.com/Ravens/status/2045216976939680159"
+   },
+   "worn": {
+    "date": "2026-11-16",
+    "matchup": "vs. Los Angeles Chargers, Week 10 (8:15 p.m. ET, ESPN, Monday Night Football)",
+    "status": "Confirmed",
+    "note": "Matte black Darkness helmet with the two-tone raven and red eyes, black jersey with white numbers trimmed in purple, black pants. Confirmed by the Ravens. The Chargers wear white jerseys over powder blue pants."
+   },
+   "why": "The debut of the best idea in The Next Flight. The red-eyed raven on a matte black shell, black to the floor, and \"Darkness there and nothing more\" from Poe inside the collar. It is worn once all season, under the lights on Monday night.",
+   "colorwayGrade": "A-",
+   "story": "Baltimore debuts its Darkness Falls uniform tonight at M&T Bank Stadium, the only date it is on the field in 2026. It is all black: the new matte Darkness helmet, a black jersey and black pants. Los Angeles comes in white over powder blue, so the contrast under the lights is as sharp as it gets.",
+   "tweet": {
+    "url": "https://twitter.com/Ravens/status/2122402437386375310",
+    "label": "Darkness Falls tonight at the Bank, via @Ravens"
+   },
+   "scheduleSlug": "ravens-uniform-schedule-2026",
+   "scheduleLabel": "Ravens 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "ravens-darkness-falls-uniforms-monday-night-football-2026",
+     "label": "Ravens Darkness Falls vs. Chargers: every detail"
+    },
+    {
+     "slug": "ravens-jerseys-2026-ranked",
+     "label": "Every Ravens jersey ranked"
+    }
+   ],
+   "shopQuery": "Ravens Darkness alternate jersey"
   }
  }
 }

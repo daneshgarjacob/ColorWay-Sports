@@ -2584,6 +2584,204 @@
       },
       "confirmed": true,
       "source": "Space City Home Network highlight frames via ESPN (Rockets black HOUSTON Statement, Jazz white Association)"
+    },
+    "2026-11-14 BKN@MEM": {
+      "score": {
+        "away": 110,
+        "home": 129
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "YES highlight frames via ESPN (Nets black NETS Statement, Grizzlies white Association)"
+    },
+    "2026-11-14 CHI@MIN": {
+      "score": {
+        "away": 117,
+        "home": 106
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "CHSN highlight frames via ESPN (Bulls red Icon, Timberwolves white Association)"
+    },
+    "2026-11-14 DAL@CLE": {
+      "score": {
+        "away": 117,
+        "home": 127
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "DAZN highlight frames via ESPN (Cavaliers black CAVS Statement, Mavericks white Association)"
+    },
+    "2026-11-14 DEN@NOP": {
+      "score": {
+        "away": 116,
+        "home": 108
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "Altitude highlight frames via ESPN (Pelicans navy Icon, Nuggets white Association)"
+    },
+    "2026-11-14 DET@MIA": {
+      "score": {
+        "away": 117,
+        "home": 137
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN highlight frames (Heat black MIAMI Icon, Pistons white Association)"
+    },
+    "2026-11-15 ATL@MIL": {
+      "score": {
+        "away": 113,
+        "home": 106
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "FanDuel SN highlight frames via ESPN (Bucks green Icon, Hawks white Association)"
+    },
+    "2026-11-15 CHA@LAC": {
+      "score": {
+        "away": 105,
+        "home": 113
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN highlight frames (Hornets purple Statement, Clippers white Association)"
+    },
+    "2026-11-15 DAL@BOS": {
+      "score": {
+        "away": 94,
+        "home": 131
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "NBC Sports Boston highlight frames via ESPN (Celtics black CELTICS Statement, Mavericks white Association)"
+    },
+    "2026-11-15 HOU@WAS": {
+      "score": {
+        "away": 147,
+        "home": 119
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "Monumental highlight frames via ESPN (Rockets red Icon, Wizards white Association)"
+    },
+    "2026-11-15 IND@PHI": {
+      "score": {
+        "away": 124,
+        "home": 131
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "NBC Sports Philadelphia highlight frames via ESPN (Pacers navy Icon, 76ers white Association)"
+    },
+    "2026-11-15 LAL@PHX": {
+      "score": {
+        "away": 131,
+        "home": 123
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "Spectrum SportsNet highlight frames via ESPN (Suns black PHOENIX Statement, Lakers white Association)"
+    },
+    "2026-11-15 NYK@TOR": {
+      "score": {
+        "away": 112,
+        "home": 108
+      },
+      "ot": true,
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "TSN highlight frames via ESPN (Knicks blue NEW YORK Icon, Raptors red Icon)"
+    },
+    "2026-11-15 OKC@SAC": {
+      "score": {
+        "away": 125,
+        "home": 103
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "NBC Sports California highlight frames via ESPN (Thunder blue Icon, Kings white Association)"
+    },
+    "2026-11-15 SAS@UTA": {
+      "score": {
+        "away": 110,
+        "home": 102
+      },
+      "away": {
+        "call": "Statement Edition",
+        "detail": "silver SAN ANTONIO"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN highlight frames (Spurs silver SAN ANTONIO Statement with black trim, Jazz purple Icon)"
     }
   }
 }

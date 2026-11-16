@@ -1,13 +1,13 @@
 ---
-title: "Ravens Will Wear Darkness Falls Vs. Chargers On Monday Night Football: Matte Black Helmet, Black Jersey And Black Pants On November 16"
+title: "Ravens Wear Darkness Falls Tonight Vs. Chargers On Monday Night Football: Matte Black Helmet, Black Jersey And Black Pants"
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-10"
-updatedDate: "2026-11-10"
+updatedDate: "2026-11-16"
 excerpt: "The Ravens debut their all-black Darkness Falls uniform against the Chargers on Monday Night Football, November 16, at M&T Bank Stadium: the new matte black Darkness helmet with the red-eyed raven, a black jersey and black pants. The Chargers wear white over powder blue. Every detail, the dates it returns and our grade."
 gradient: "linear-gradient(135deg, #0b0b0d 0%, #1a1040 60%, #9b1c1c 130%)"
-coverImage: "/images/posts/ravens-uniforms-2026-reveal/HGEQt1YXAAAulG4.jpg"
-coverImagePosition: "center 30%"
+coverImage: "/images/posts/ravens-uniforms-2026-reveal/HGELA32bMAAl3Td.jpg"
+coverImagePosition: "25% 30%"
 coverImageFit: "cover"
 coverCredit:
   author: "Baltimore Ravens"
@@ -18,10 +18,16 @@ logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-baltimore-ravens.png"
 league: nfl
 teams: ["baltimore-ravens", "los-angeles-chargers"]
-homepageHero: "2026-11-11"
+homepageHero: "2026-11-16"
 ---
 
-**The Ravens are going all black on Monday night.** Baltimore wears its **Darkness Falls** uniform when it hosts the Los Angeles Chargers at M&T Bank Stadium on **Monday, November 16, at 8:15 p.m. Eastern on ESPN**. That is the brand-new **matte black Darkness helmet**, a **black jersey** and **black pants**. It is the helmet's first regular-season game, and the last of the three theme nights Baltimore named for 2026.
+**The Ravens go all black tonight.** Baltimore wears its **Darkness Falls** uniform when it hosts the Los Angeles Chargers at M&T Bank Stadium on **Monday, November 16, at 8:15 p.m. Eastern on ESPN**. That is the brand-new **matte black Darkness helmet**, a **black jersey** and **black pants**. It is the helmet's first regular-season game, and the last of the three theme nights Baltimore named for 2026.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2122402437386375310"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">"Darkness Falls tonight at the Bank." The Ravens' game-day trailer, November 16, via <a href="https://x.com/Ravens" target="_blank" rel="noopener">@Ravens</a></p>
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2094772266173407735"></a></blockquote>

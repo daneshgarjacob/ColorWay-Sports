@@ -141,7 +141,7 @@ Black against white and pewter is a clean read, but it trades away Honolulu blue
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/vikings-white-road.jpg" alt="Minnesota Vikings white road jersey, expected against the 49ers in Mexico City in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Vikings &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/49ers-scarlet-home.jpg" alt="San Francisco 49ers scarlet home jersey, expected as the designated home team in Mexico City in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">49ers &middot; Expected</figcaption></figure></div>
 
-**Sunday, 8:20 p.m. ET, NBC, Estadio Banorte (Estadio Azteca), Mexico City. Expected on both sides.** San Francisco is the designated home team, so the game counts as one of its home dates, and we expect **scarlet** under the gold helmet. Minnesota is expected in its **white** road set, which the Vikings have not announced for this trip. Neither team has named a special look for Mexico City. Our matchup grade: **B**. See the [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026) and the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026).
+**Sunday, 8:20 p.m. ET, NBC, Estadio Banorte (Estadio Azteca), Mexico City. 49ers scheduled, Vikings expected.** San Francisco is the designated home team, so the game counts as one of its home dates, and the 49ers' own uniform schedule lists **scarlet**, its red primary, under the gold helmet. Minnesota is expected in its **white** road set, which the Vikings have not announced for this trip. Neither team has named a special look for Mexico City. Our matchup grade: **B**. See the [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026) and the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026).
 
 ## Every Week 11 Game
 
@@ -161,7 +161,7 @@ Black against white and pewter is a clean read, but it trades away Honolulu blue
 - **New York Jets at Los Angeles Chargers**, 4:05 p.m. ET, FOX. Jets: white (expected). Chargers: powder blue jersey, powder blue pants (confirmed). Matchup grade: A-.
 - **Las Vegas Raiders at Denver Broncos**, 4:25 p.m. ET, CBS. Raiders: white (expected). Broncos: Sunset Orange (scheduled). Matchup grade: B+.
 - **Jacksonville Jaguars at New York Giants**, 4:25 p.m. ET, CBS. Jaguars: white (expected). Giants: blue jersey, white pants (scheduled). Matchup grade: B.
-- **Minnesota Vikings vs. San Francisco 49ers** (Mexico City), 8:20 p.m. ET, NBC. Vikings: white (expected). 49ers: gold helmet, scarlet jersey (expected). Matchup grade: B.
+- **Minnesota Vikings vs. San Francisco 49ers** (Mexico City), 8:20 p.m. ET, NBC. Vikings: white (expected). 49ers: gold helmet, scarlet jersey (scheduled by the team). Matchup grade: B.
 
 ### Monday, November 23
 
@@ -217,7 +217,7 @@ We expect Titans Blue. The Cowboys published white for this game, and a visitor 
 
 **What are the 49ers and Vikings wearing in Mexico City?**
 
-San Francisco is the designated home team at Estadio Banorte, so we expect the 49ers in scarlet and Minnesota in white. Neither team has announced a special look. Kickoff is Sunday, November 22 at 8:20 p.m. Eastern on NBC.
+San Francisco is the designated home team at Estadio Banorte, so the 49ers are scheduled in scarlet (per the team's uniform schedule) and Minnesota is expected in white. Neither team has announced a special look. Kickoff is Sunday, November 22 at 8:20 p.m. Eastern on NBC.
 
 **Which NFL teams are on bye in Week 11?**
 
