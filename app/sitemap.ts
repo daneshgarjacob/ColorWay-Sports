@@ -6,6 +6,7 @@ import { allNflTeamKeys } from "@/lib/nflTrackerTeamIndex";
 import { winterTeamKeys } from "@/lib/winterTrackerIndex";
 import { indexableLeagues, indexableTeams } from "@/lib/storyFilters";
 import { AUTHORS } from "@/lib/authors";
+import { getAllQuizzes } from "@/lib/quiz";
 
 // Built once per deploy and served from the CDN. Without this the sitemap was
 // rendered on demand for every crawler hit, re-parsing all posts each time.
@@ -188,6 +189,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly",
       priority: 0.8,
     },
+    // Logo quizzes (11/16): the hub plus one page per quiz.
+    {
+      url: "https://www.colorwaysports.com/quiz",
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.8,
+    },
+    ...getAllQuizzes().map((q) => ({
+      url: `https://www.colorwaysports.com/quiz/${q.slug}`,
+      lastModified: new Date(q.published),
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    })),
     {
       url: "https://www.colorwaysports.com/trackers",
       lastModified: new Date(),

@@ -1,0 +1,82 @@
+{
+  "slug": "nfl-logo-quiz-hard",
+  "league": "nfl",
+  "leagueName": "NFL",
+  "title": "NFL Logo Quiz: Hard Mode",
+  "headline": "Can You Name The NFL Team From A Tiny Piece Of Its Logo?",
+  "description": "A hard NFL logo quiz: eight tiny pieces of NFL team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current NFL team logo, about one fiftieth of the whole mark. No helmets, no wordmarks, no giveaways. Each piece still has one real detail in it, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "2026-11-16-nfl-logo-quiz-part-2",
+  "published": "2026-11-16",
+  "readMore": [
+    { "label": "How Every NFL Team Got Its Colors", "href": "/stories/how-every-nfl-team-got-its-colors" },
+    { "label": "The NFL Logos That Have Gone Longest Without Changing", "href": "/stories/nfl-logo-longest-without-changing" },
+    { "label": "The Worst NFL Logos Ever, Ranked", "href": "/stories/worst-nfl-logos-ever-ranked" },
+    { "label": "Hidden Details In Sports Logos", "href": "/stories/hidden-details-sports-logos" }
+  ],
+  "items": [
+    {
+      "abbr": "atl",
+      "team": "Atlanta Falcons",
+      "box": [0.35, 0.276, 0.468, 0.394],
+      "hint": "Hard mode. No freebies.",
+      "piece": "The red stripe running through the falcon's black wing.",
+      "fact": "The Falcons' current logo arrived in 2003, and the bird is drawn so its body and wings form a capital F."
+    },
+    {
+      "abbr": "car",
+      "team": "Carolina Panthers",
+      "box": [0.714, 0.434, 0.832, 0.552],
+      "piece": "A silver fang and the blue outline of the panther's open jaw.",
+      "fact": "Carolina sharpened the panther in 2012, giving it a more muscular face and a more aggressive snarl."
+    },
+    {
+      "abbr": "gb",
+      "team": "Green Bay Packers",
+      "box": [0.65, 0.212, 0.768, 0.33],
+      "piece": "The gold and green rim at the top right of the oval.",
+      "fact": "The G oval first went on Packers helmets in 1961, which makes it one of the oldest logos in the league."
+    },
+    {
+      "abbr": "buf",
+      "team": "Buffalo Bills",
+      "box": [0.666, 0.546, 0.784, 0.664],
+      "hint": "Halfway. Keep count.",
+      "piece": "A hind leg of the charging buffalo.",
+      "fact": "The charging buffalo has been the Bills' logo since 1974. Before that, the helmet carried a standing red buffalo."
+    },
+    {
+      "abbr": "mia",
+      "team": "Miami Dolphins",
+      "box": [0.288, 0.358, 0.408, 0.478],
+      "piece": "The orange rays of the sunburst, with the tip of the aqua dolphin.",
+      "fact": "Miami's 2013 redesign took the helmet off the dolphin, which had worn one in every version since 1966."
+    },
+    {
+      "abbr": "hou",
+      "team": "Houston Texans",
+      "box": [0.444, 0.772, 0.562, 0.89],
+      "hint": "Real NFL fans only.",
+      "piece": "The red edge at the bottom of the bull's face.",
+      "fact": "The Texans' bull head has been their logo since their first season in 2002, with the white star standing in for the Lone Star State."
+    },
+    {
+      "abbr": "kc",
+      "team": "Kansas City Chiefs",
+      "box": [0.624, 0.544, 0.742, 0.662],
+      "piece": "The bottom curve of the red C in KC.",
+      "fact": "Founder Lamar Hunt is credited with sketching the arrowhead himself, borrowing the idea from the 49ers' interlocking SF."
+    },
+    {
+      "abbr": "ari",
+      "team": "Arizona Cardinals",
+      "box": [0.106, 0.108, 0.224, 0.226],
+      "hint": "Last one. Hardest one.",
+      "piece": "The very tip of the cardinal's crest.",
+      "fact": "The Cardinals redrew the bird in 2005 with a sharper crest and a meaner eye, the version still in use."
+    }
+  ]
+}

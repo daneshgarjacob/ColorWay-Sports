@@ -1,0 +1,82 @@
+{
+  "slug": "mlb-logo-quiz-hard",
+  "league": "mlb",
+  "leagueName": "MLB",
+  "title": "MLB Logo Quiz: Hard Mode",
+  "headline": "Can You Name The MLB Team From A Tiny Piece Of Its Logo?",
+  "description": "A hard MLB logo quiz: eight tiny pieces of MLB team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from an MLB team logo, about one fiftieth of the whole mark. No full letters, no team names. Each piece still holds one real detail, a color pair, a serif or a curve that only one club owns.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "2026-11-16-mlb-logo-quiz",
+  "published": "2026-11-16",
+  "readMore": [
+    { "label": "How Every MLB Team Got Its Colors", "href": "/stories/how-every-mlb-team-got-its-colors" },
+    { "label": "MLB Postseason Logos, Ranked", "href": "/stories/mlb-postseason-logos-ranked-2011-2026" },
+    { "label": "World Series Logo History", "href": "/stories/world-series-logo-history-1986-2025" },
+    { "label": "Hidden Details In Sports Logos", "href": "/stories/hidden-details-sports-logos" }
+  ],
+  "items": [
+    {
+      "abbr": "mil",
+      "team": "Milwaukee Brewers",
+      "box": [0.346, 0.36, 0.464, 0.478],
+      "hint": "Hard mode. No freebies.",
+      "piece": "The gold outline running across the navy glove.",
+      "fact": "The ball-in-glove logo hides an m and a b for Milwaukee Brewers. It was designed by a college student in 1978 and came back as the main logo in 2020."
+    },
+    {
+      "abbr": "sea",
+      "team": "Seattle Mariners",
+      "box": [0.604, 0.426, 0.722, 0.544],
+      "piece": "The points of the compass star.",
+      "fact": "The compass star has been at the center of the Mariners' logo since the team's 1993 redesign."
+    },
+    {
+      "abbr": "tex",
+      "team": "Texas Rangers",
+      "box": [0.52, 0.384, 0.638, 0.502],
+      "piece": "The inside corner of the T, with its blue shadow.",
+      "fact": "The Rangers began as the second Washington Senators and moved to Texas in 1972."
+    },
+    {
+      "abbr": "bos",
+      "team": "Boston Red Sox",
+      "box": [0.248, 0.426, 0.366, 0.544],
+      "hint": "Halfway. Keep count.",
+      "piece": "The pinched waist of the B.",
+      "fact": "Boston took the Red Sox name in 1908, borrowing the red stockings the city's earlier National League club had dropped."
+    },
+    {
+      "abbr": "chc",
+      "team": "Chicago Cubs",
+      "box": [0.25, 0.216, 0.368, 0.334],
+      "piece": "The blue ring meeting the top of the red C.",
+      "fact": "The Cubs have played at Wrigley Field since 1916, and the red C inside the blue ring is one of the most recognizable marks in baseball."
+    },
+    {
+      "abbr": "atl",
+      "team": "Atlanta Braves",
+      "box": [0.768, 0.366, 0.886, 0.484],
+      "hint": "Real baseball fans only.",
+      "piece": "The top of the script A.",
+      "fact": "The franchise dates to 1871 in Boston and moved to Milwaukee in 1953 and Atlanta in 1966."
+    },
+    {
+      "abbr": "lad",
+      "team": "Los Angeles Dodgers",
+      "box": [0.704, 0.834, 0.822, 0.952],
+      "piece": "The foot of the A in LA.",
+      "fact": "The name goes back to Brooklyn, where fans were called Trolley Dodgers for dodging the streetcars that crossed the borough."
+    },
+    {
+      "abbr": "nyy",
+      "team": "New York Yankees",
+      "box": [0.394, 0.324, 0.512, 0.442],
+      "hint": "Last one. Hardest one.",
+      "piece": "The point where the N and the Y cross.",
+      "fact": "The interlocking NY was designed by Tiffany & Co. in 1877 for a New York City police medal, decades before the Yankees used it."
+    }
+  ]
+}

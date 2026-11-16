@@ -290,6 +290,7 @@ const leagues: NavLeague[] = [
       { label: "Courts & Fields", href: "/courts-and-fields" },
       // Site plan 11/16: every "why" and origin story in one place.
       { label: "Explained", href: "/explained" },
+      { label: "Logo Quizzes", href: "/quiz" },
       { label: "F1", href: "/stories?league=f1" },
       { label: "NASCAR", href: "/stories?league=nascar" },
       // Jake 10/30: WNBA posts were filed under NBA (Comets logo); own league now.

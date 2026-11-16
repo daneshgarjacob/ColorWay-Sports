@@ -1,0 +1,82 @@
+{
+  "slug": "nhl-logo-quiz-hard",
+  "league": "nhl",
+  "leagueName": "NHL",
+  "title": "NHL Logo Quiz: Hard Mode",
+  "headline": "Can You Name The NHL Team From A Tiny Piece Of Its Logo?",
+  "description": "A hard NHL logo quiz: eight tiny pieces of NHL team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from an NHL team crest, about one fiftieth of the whole mark. No team names, no giveaway animals. Each piece still holds one real detail, a color pair, a feather or an edge that only one club owns.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "2026-11-16-nhl-logo-quiz",
+  "published": "2026-11-16",
+  "readMore": [
+    { "label": "Stanley Cup Final Logo History", "href": "/stories/stanley-cup-final-logo-history-1989-2026" },
+    { "label": "Boston Bruins Uniform History", "href": "/stories/boston-bruins-uniform-history" },
+    { "label": "Calgary Flames Jersey History", "href": "/stories/calgary-flames-jersey-history" },
+    { "label": "Hidden Details In Sports Logos", "href": "/stories/hidden-details-sports-logos" }
+  ],
+  "items": [
+    {
+      "abbr": "van",
+      "team": "Vancouver Canucks",
+      "box": [0.77, 0.328, 0.888, 0.446],
+      "hint": "Hard mode. No freebies.",
+      "piece": "The orca's jaw, where it breaks out of the C.",
+      "fact": "The orca logo arrived in 1997, drawn so the whale's body curls into a C for Canucks."
+    },
+    {
+      "abbr": "wpg",
+      "team": "Winnipeg Jets",
+      "box": [0.628, 0.398, 0.748, 0.518],
+      "piece": "The red maple leaf behind the silver jet.",
+      "fact": "When the NHL came back to Winnipeg in 2011, the new Jets logo borrowed the look of the Royal Canadian Air Force roundel."
+    },
+    {
+      "abbr": "det",
+      "team": "Detroit Red Wings",
+      "box": [0.828, 0.264, 0.946, 0.382],
+      "piece": "The tips of the feathers at the end of the wing.",
+      "fact": "The winged wheel is a nod to Detroit as the Motor City. It has been the club's logo since it became the Red Wings in 1932."
+    },
+    {
+      "abbr": "min",
+      "team": "Minnesota Wild",
+      "box": [0.694, 0.524, 0.812, 0.642],
+      "hint": "Halfway. Keep count.",
+      "piece": "The wheat-colored river at the bottom of the forest scene.",
+      "fact": "The Wild logo is a forest scene that doubles as the head of a wild animal: the sun is its eye and the river is its mouth."
+    },
+    {
+      "abbr": "chi",
+      "team": "Chicago Blackhawks",
+      "box": [0.658, 0.346, 0.776, 0.464],
+      "piece": "The colored feathers in the headdress.",
+      "fact": "Founder Frederic McLaughlin named the team after his World War I Army unit, the 86th Blackhawk Division."
+    },
+    {
+      "abbr": "sea",
+      "team": "Seattle Kraken",
+      "box": [0.682, 0.2, 0.8, 0.318],
+      "hint": "Real hockey fans only.",
+      "piece": "The top end of the S.",
+      "fact": "Seattle's S is a nod to the Seattle Metropolitans, the first American team to win the Stanley Cup, in 1917."
+    },
+    {
+      "abbr": "pit",
+      "team": "Pittsburgh Penguins",
+      "box": [0.296, 0.61, 0.414, 0.728],
+      "piece": "The penguin's hockey stick crossing the yellow triangle.",
+      "fact": "The yellow triangle behind the skating penguin stands for the Golden Triangle, downtown Pittsburgh."
+    },
+    {
+      "abbr": "tor",
+      "team": "Toronto Maple Leafs",
+      "box": [0.392, 0.73, 0.51, 0.848],
+      "hint": "Last one. Hardest one.",
+      "piece": "The bottom of the LEAFS lettering and a vein of the leaf.",
+      "fact": "The 2016 leaf has 31 points at the top for the 1931 opening of Maple Leaf Gardens and 17 veins for the club's 1917 founding."
+    }
+  ]
+}
