@@ -5,8 +5,8 @@ tag: "NFL"
 league: "nfl"
 source: "@NFL"
 sourceUrl: "https://x.com/NFL/status/2121303300507377668"
-link: "/stories/nfl-week-10-uniforms-2026"
-linkLabel: "Every NFL Week 10 uniform"
+link: "/stories/titans-music-city-uniform-debut-jaguars-2026"
+linkLabel: "The Music City uniform, every detail"
 ---
 Tennessee wears **Music City**, its Nike Rivalries uniform, for the first time on Sunday against the Jaguars: a **navy jersey** with the name in script, neon-inspired numbers and a **Titans Blue helmet**.
 
