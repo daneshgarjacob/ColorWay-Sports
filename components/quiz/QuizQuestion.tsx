@@ -16,6 +16,8 @@ export default function QuizQuestion({
   leagueName,
   pieceSrc,
   hint,
+  question = "Whose Logo Is This?",
+  noun = "logo",
   children,
 }: {
   slug: string;
@@ -24,6 +26,10 @@ export default function QuizQuestion({
   leagueName: string;
   pieceSrc: string;
   hint?: string;
+  /** Heading, by quiz type ("Whose Jersey Is This?"). */
+  question?: string;
+  /** Lower-case thing the piece is cut from, for the alt text. */
+  noun?: string;
   children: ReactNode;
 }) {
   const hydrated = useHydrated();
@@ -44,14 +50,14 @@ export default function QuizQuestion({
         )}
       </div>
       <h2 id={`q${n}-title`} className={styles.qTitle}>
-        Whose Logo Is This?
+        {question}
       </h2>
 
       <div className={styles.lens}>
         {/* eslint-disable-next-line @next/next/no-img-element -- public/ is served raw by design (AGENTS.md) */}
         <img
           src={pieceSrc}
-          alt={`Question ${n}: a tiny piece of an ${leagueName} team logo`}
+          alt={`Question ${n}: a tiny piece of an ${leagueName} team ${noun}`}
           width={320}
           height={320}
           loading={n <= 2 ? "eager" : "lazy"}

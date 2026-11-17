@@ -16,6 +16,10 @@ import mlb3 from "@/content/data/quizzes/mlb-logo-quiz-hard-3.json";
 import mlb4 from "@/content/data/quizzes/mlb-logo-quiz-hard-4.json";
 import sec from "@/content/data/quizzes/sec-logo-quiz-hard.json";
 import bigTen from "@/content/data/quizzes/big-ten-logo-quiz-hard.json";
+// Jersey quizzes (11/16): pieces cut from the tracker jersey images in public/.
+import nflJersey from "@/content/data/quizzes/nfl-jersey-quiz-hard.json";
+import nflJersey2 from "@/content/data/quizzes/nfl-jersey-quiz-hard-2.json";
+import nflJersey3 from "@/content/data/quizzes/nfl-jersey-quiz-hard-3.json";
 // NHL and MLB quizzes are hidden for now: re-enable after TikTok posts.
 // Their JSON and images stay in the repo; uncomment these two imports and add
 // nhl, mlb back to RAW below to publish them (pages, hub cards, next-quiz
@@ -34,6 +38,9 @@ import { buildTeamQuickLinks } from "@/lib/teamQuickLinks";
 export interface QuizItemData {
   /** Short code of the logo file in the social source folder, e.g. "atl". */
   abbr: string;
+  /** Source image file name, for quizzes whose source is a folder in public/
+   *  (jersey quizzes): the piece is cut from <source>/<file>. */
+  file?: string;
   /** Full club name, exactly as on the site (lib/teamLogos), e.g. "Atlanta Falcons". */
   team: string;
   /** Crop box as fractions of the source logo: [x0, y0, x1, y1]. */
@@ -48,15 +55,20 @@ export interface QuizItemData {
   story?: string;
 }
 
+/** What a quiz is made of. Old JSON files have no type: they are logo quizzes. */
+export type QuizType = "logo" | "jersey" | "oldlogo";
+
 export interface QuizData {
   slug: string;
+  type?: QuizType;
   league: string;
   leagueName: string;
   title: string;
   headline: string;
   description: string;
   intro: string[];
-  /** Folder under ~/Desktop/ColorWay Sports/social the pieces were cut from. */
+  /** Folder under ~/Desktop/ColorWay Sports/social the pieces were cut from,
+   *  or a repo folder starting with "public/" (jersey quizzes). */
   source: string;
   published: string;
   readMore: { label: string; href: string }[];
@@ -76,10 +88,33 @@ export interface QuizItem extends QuizItemData {
   links: QuizLink[];
 }
 
-export interface Quiz extends Omit<QuizData, "items"> {
+export interface Quiz extends Omit<QuizData, "items" | "type"> {
+  type: QuizType;
   items: QuizItem[];
   leagueLogo?: string;
 }
+
+/** Wording that changes with the quiz type (page titles, question, score line). */
+export const QUIZ_TYPE_COPY: Record<QuizType, { noun: string; question: string; hubTitle: string; titleTail: string }> = {
+  logo: {
+    noun: "Logo",
+    question: "Whose Logo Is This?",
+    hubTitle: "Logo Quizzes",
+    titleTail: "Name The Team From A Tiny Piece Of Its Logo",
+  },
+  jersey: {
+    noun: "Jersey",
+    question: "Whose Jersey Is This?",
+    hubTitle: "Jersey Quizzes",
+    titleTail: "Name The Team From A Tiny Piece Of Its Jersey",
+  },
+  oldlogo: {
+    noun: "Old Logo",
+    question: "Whose Old Logo Is This?",
+    hubTitle: "Old Logo Quizzes",
+    titleTail: "Name The Team From A Tiny Piece Of Its Old Logo",
+  },
+};
 
 // Order here is the order inside each league group on the /quiz hub and the
 // "next quiz" chain (it runs league by league, then wraps).
@@ -91,7 +126,11 @@ const RAW: QuizData[] = [
   nhl2, nhl3, nhl4,
   mlb2, mlb3, mlb4,
   sec, bigTen,
-];
+  nflJersey, nflJersey2, nflJersey3,
+] as QuizData[];
+
+/** Hub sections by type, in order. Inside "logo", quizzes are grouped by league (QUIZ_GROUPS). */
+export const QUIZ_TYPE_ORDER: QuizType[] = ["logo", "jersey", "oldlogo"];
 
 /** Hub sections, in order. A quiz goes in the group whose leagueName matches. */
 export const QUIZ_GROUPS: { title: string; leagueNames: string[] }[] = [
@@ -122,6 +161,7 @@ function teamLinks(item: QuizItemData): QuizLink[] {
 function hydrate(q: QuizData): Quiz {
   return {
     ...q,
+    type: q.type ?? "logo",
     leagueLogo: LEAGUE_LOGOS[q.league],
     items: q.items.map((item, i) => ({
       ...item,

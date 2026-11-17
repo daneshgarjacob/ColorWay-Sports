@@ -20,11 +20,14 @@ export default function QuizScore({
   total,
   leagueName,
   url,
+  noun = "logo",
 }: {
   slug: string;
   total: number;
   leagueName: string;
   url: string;
+  /** Lower-case quiz subject: "logo", "jersey", "old logo". */
+  noun?: string;
 }) {
   const hydrated = useHydrated();
   const marks = useMarks(slug);
@@ -33,7 +36,7 @@ export default function QuizScore({
   const answered = marks.filter(Boolean).length;
   const got = marks.filter((m) => m === "got").length;
   const done = answered === total;
-  const line = `I got ${got}/${total} on the ColorWay hard ${leagueName} logo quiz. Can you beat it?`;
+  const line = `I got ${got}/${total} on the ColorWay hard ${leagueName} ${noun} quiz. Can you beat it?`;
 
   async function share() {
     const text = `${line} ${url}`;
@@ -105,7 +108,7 @@ export default function QuizScore({
         </>
       ) : (
         <p className={styles.scoreLine}>
-          Count how many of the {total} you got before you opened the answer. Then send this page to a friend and see who knows their {leagueName} logos better.
+          Count how many of the {total} you got before you opened the answer. Then send this page to a friend and see who knows their {leagueName} {noun}s better.
         </p>
       )}
     </div>
