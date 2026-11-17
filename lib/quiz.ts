@@ -137,6 +137,11 @@ export function getAllQuizzes(): Quiz[] {
   return RAW.map(hydrate);
 }
 
+/** The published quizzes without links (no post walk): cheap enough for ISR renders. */
+export function getQuizData(slug: string): QuizData | undefined {
+  return RAW.find((q) => q.slug === slug);
+}
+
 export function getQuiz(slug: string): Quiz | undefined {
   const raw = RAW.find((q) => q.slug === slug);
   return raw ? hydrate(raw) : undefined;

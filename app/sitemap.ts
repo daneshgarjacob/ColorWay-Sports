@@ -196,6 +196,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly",
       priority: 0.8,
     },
+    {
+      url: "https://www.colorwaysports.com/quiz/daily",
+      lastModified: new Date(),
+      changeFrequency: "daily",
+      priority: 0.8,
+    },
     ...getAllQuizzes().map((q) => ({
       url: `https://www.colorwaysports.com/quiz/${q.slug}`,
       lastModified: new Date(q.published),

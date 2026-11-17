@@ -4,6 +4,8 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import MvSlot from "@/components/MvSlot";
 import { getAllQuizzes, QUIZ_GROUPS } from "@/lib/quiz";
+import DailyLogoCard from "@/components/quiz/daily/DailyLogoCard";
+import { DAILY_EPOCH, dailyKeys } from "@/lib/dailyLogo";
 
 const CANONICAL = "https://www.colorwaysports.com/quiz";
 const TITLE = "Logo Quizzes: Name The Team From A Tiny Piece Of Its Logo";
@@ -42,6 +44,11 @@ export default function QuizHub() {
               Guess, reveal the answer, keep score, then send your score to a friend.
             </p>
           </header>
+
+          {/* Daily Logo (11/16): the once-a-day game sits above every quiz. */}
+          <section className="mb-12">
+            <DailyLogoCard epoch={DAILY_EPOCH} keys={dailyKeys()} variant="hub" />
+          </section>
 
           {groups.map((g, gi) => (
             <section key={g.title} className={gi === 0 ? "" : "mt-12"}>
