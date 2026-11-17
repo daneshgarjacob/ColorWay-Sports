@@ -90,7 +90,7 @@ Dark at home is the rule, not a law of nature. A home team can wear white with t
 - **Philadelphia Flyers, October 17** vs. the Senators. The Flyers wore white and Ottawa wore black.
 - **Vegas Golden Knights, October 30** vs. the Devils. Vegas wore white at T-Mobile Arena and New Jersey wore red. The Devils won 5-2.
 
-Neither team has said why, and we have not found a public reason for either swap. Both nights were confirmed from game photos. Every Remix date is in our [Hometown Remix schedule](/stories/nhl-hometown-remix-jersey-schedule-debut-dates), and the season's [full NHL uniform schedule](/stories/nhl-uniform-schedule-2026-27) has every team.
+The Vegas game was no accident. It was the team's **Nevada Day** game, a yearly tradition: on the state holiday, the last Friday in October, the Golden Knights wear white at home and ask fans to wear white too, according to the team. (Thanks to a TikTok commenter for pointing it out.) The Flyers have not said why they wore white, and we have not found a public reason. Both nights were confirmed from game photos. Every Remix date is in our [Hometown Remix schedule](/stories/nhl-hometown-remix-jersey-schedule-debut-dates), and the season's [full NHL uniform schedule](/stories/nhl-uniform-schedule-2026-27) has every team.
 
 ## How The NBA, NFL And MLB Do It
 
@@ -132,7 +132,7 @@ Yes, with the league's approval. The visitor then wears its dark sweater. Rule 9
 
 **Which NHL teams wear white at home in 2026-27?**
 
-The Islanders (10 games), Canadiens (8), Avalanche (5) and Stars (3) wear white Hometown Remix jerseys at home. The Flyers (October 17 vs. Ottawa) and Golden Knights (October 30 vs. New Jersey) also wore their regular white at home once.
+The Islanders (10 games), Canadiens (8), Avalanche (5) and Stars (3) wear white Hometown Remix jerseys at home. The Flyers (October 17 vs. Ottawa) and Golden Knights (October 30 vs. New Jersey) also wore their regular white at home once. Vegas does it every year for its Nevada Day game on the last Friday in October.
 
 **What is a color vs. color game in the NHL?**
 

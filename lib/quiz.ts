@@ -30,7 +30,7 @@ import nhlJersey2 from "@/content/data/quizzes/nhl-jersey-quiz-hard-2.json";
 // Their JSON and images stay in the repo; uncomment these two imports and add
 // nhl, mlb back to RAW below to publish them (pages, hub cards, next-quiz
 // chain and sitemap all follow RAW).
-// import nhl from "@/content/data/quizzes/nhl-logo-quiz-hard.json";
+import nhl from "@/content/data/quizzes/nhl-logo-quiz-hard.json"; // re-enabled 11/17 after the TikTok post
 // import mlb from "@/content/data/quizzes/mlb-logo-quiz-hard.json";
 import { teamSlug, LEAGUE_LOGOS } from "@/lib/teamLogos";
 import { buildTeamQuickLinks } from "@/lib/teamQuickLinks";
@@ -124,12 +124,12 @@ export const QUIZ_TYPE_COPY: Record<QuizType, { noun: string; question: string; 
 
 // Order here is the order inside each league group on the /quiz hub and the
 // "next quiz" chain (it runs league by league, then wraps).
-// NHL and MLB part 1 hidden: re-enable after TikTok posts by putting nhl before
-// nhl2 and mlb before mlb2.
+// MLB part 1 hidden: re-enable after its TikTok post by putting mlb before mlb2.
+// (NHL part 1 re-enabled 11/17.)
 const RAW: QuizData[] = [
   nfl, nfl2, nfl3, nfl4,
   nba, nba2, nba3, nba4,
-  nhl2, nhl3, nhl4,
+  nhl, nhl2, nhl3, nhl4,
   mlb2, mlb3, mlb4,
   sec, bigTen,
   nflJersey, nflJersey2, nflJersey3,
