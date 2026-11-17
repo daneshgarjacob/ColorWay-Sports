@@ -3,6 +3,8 @@ import Footer from "@/components/Footer";
 import Link from "next/link";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import TeamMoreBlock from "@/components/TeamMoreBlock";
+import TeamUniformAlerts from "@/components/TeamUniformAlerts";
+import { TEAM_ALERTS_LIVE } from "@/lib/teamAlerts";
 import { buildTeamMoreLinks } from "@/lib/teamMoreLinks";
 import WinterCalendarGrid from "@/components/WinterCalendarGrid";
 import {
@@ -207,7 +209,12 @@ export default function WinterCalendarPage({
         </section>
 
         <div className="max-w-[980px] mx-auto px-5 pt-10">
-          <InlineNewsletter />
+          {/* Team Alerts replace the general signup here once switched on (lib/teamAlerts.ts). */}
+          {TEAM_ALERTS_LIVE ? (
+            <TeamUniformAlerts pageTeam={{ id: `${league}:${entry.slug}`, name: entry.name, nickname: entry.nickname }} />
+          ) : (
+            <InlineNewsletter />
+          )}
         </div>
 
         <section className="max-w-[980px] mx-auto px-5 pt-10">

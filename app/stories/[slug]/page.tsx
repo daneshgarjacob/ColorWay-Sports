@@ -17,6 +17,8 @@ import TrackerTeamIndex from "@/components/TrackerTeamIndex";
 import TrackerToolbar from "@/components/TrackerToolbar";
 import TeamQuickLinks from "@/components/TeamQuickLinks";
 import TeamMoreBlock from "@/components/TeamMoreBlock";
+import TeamUniformAlerts from "@/components/TeamUniformAlerts";
+import { TEAM_ALERTS_LIVE, teamAlertId } from "@/lib/teamAlerts";
 import { buildTeamMoreLinks } from "@/lib/teamMoreLinks";
 import ExplainedRail from "@/components/ExplainedRail";
 import { isExplained, relatedExplained } from "@/lib/explained";
@@ -402,6 +404,16 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
       ? buildTeamMoreLinks(storyTeams[0], { now, exclude: [`/stories/${slug}`], skipCalendar: true })
       : null;
 
+  // Team Alerts (Jake 11/16), behind TEAM_ALERTS_LIVE (off by default): the
+  // per-game signup sits right above "More For [Team] Fans" and replaces the
+  // lower Sunday-email team signup (after the grid, or at the bottom), so the
+  // page keeps two forms: the slim one under the this-week box and this one.
+  const alertId = scheduleTeam ? teamAlertId(post.league, storyTeams[0]) : null;
+  const teamAlerts =
+    TEAM_ALERTS_LIVE && alertId && scheduleTeam ? (
+      <TeamUniformAlerts pageTeam={{ id: alertId, name: scheduleTeam, nickname: teamMore?.short }} />
+    ) : null;
+
   // "More Explained" (plan 11/16 item 4): three related why stories.
   const explainedRail = isExplained(post) ? relatedExplained(post, 3) : [];
   const railSlugs = new Set(explainedRail.map((p) => p.slug));
@@ -642,7 +654,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
                 <WinterCalendarGrid entry={winterTeam} league={winterTeam.league} />
               </section>
             )}
-            {signupMoved && teamSignup}
+            {signupMoved && !teamAlerts && teamSignup}
             {articleAfterGrid && (
               <article
                 className="prose prose-continued prose-lg max-w-none text-foreground leading-relaxed"
@@ -660,6 +672,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           </>
         )}
 
+        {teamAlerts}
         <TeamMoreBlock data={teamMore} />
         <ExplainedRail posts={explainedRail} />
 
@@ -671,7 +684,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         <PreferredSourceCard />
 
         {/* Inline newsletter signup */}
-        {!signupMoved && (teamSignup || <InlineNewsletter />)}
+        {!signupMoved && !teamAlerts && (teamSignup || <InlineNewsletter />)}
 
         {/* Related stories */}
         <RelatedStories posts={relatedPosts} />
