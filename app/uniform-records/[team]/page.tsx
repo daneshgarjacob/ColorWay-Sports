@@ -23,6 +23,8 @@ import {
   RECORDS_THROUGH_WEEK,
   NBA_RECORDS_SEASON,
   NBA_RECORDS_THROUGH,
+  NHL_RECORDS_SEASON,
+  NHL_RECORDS_THROUGH,
   type RecordTeam,
   type RecordCombo,
   type Split,
@@ -45,35 +47,51 @@ export async function generateMetadata({ params }: { params: Promise<{ team: str
   const t = recordTeamBySlug(team);
   if (!t) return {};
   const nba = t.league === "nba";
-  const title = nba
-    ? `${t.name} Record In Every Jersey: ${NBA_RECORDS_SEASON} Win-Loss By Uniform`
-    : `${t.name} Record In Every Uniform: 2026 Win-Loss By Jersey, Helmet And Pants`;
-  const description = nba
-    ? `The ${possessive(t.nickname)} ${NBA_RECORDS_SEASON} record in each of the ${t.combos.length} jerseys they have worn through ${fmtDate(NBA_RECORDS_THROUGH)}, game by game, from ColorWay Sports' own uniform logs.`
-    : `The ${possessive(t.nickname)} 2026 record in each of the ${t.combos.length} uniform combinations they have worn through Week ${RECORDS_THROUGH_WEEK}, game by game, from ColorWay Sports' own uniform logs.`;
+  const nhl = t.league === "nhl";
+  const title = nhl
+    ? `${t.name} Record In Every Jersey: ${NHL_RECORDS_SEASON} Win-Loss By Sweater`
+    : nba
+      ? `${t.name} Record In Every Jersey: ${NBA_RECORDS_SEASON} Win-Loss By Uniform`
+      : `${t.name} Record In Every Uniform: 2026 Win-Loss By Jersey, Helmet And Pants`;
+  const description = nhl
+    ? `The ${possessive(t.nickname)} ${NHL_RECORDS_SEASON} record in each of the ${t.combos.length} jerseys they have worn through ${fmtDate(NHL_RECORDS_THROUGH)}, W-L-OTL, game by game, from ColorWay Sports' own sweater logs.`
+    : nba
+      ? `The ${possessive(t.nickname)} ${NBA_RECORDS_SEASON} record in each of the ${t.combos.length} jerseys they have worn through ${fmtDate(NBA_RECORDS_THROUGH)}, game by game, from ColorWay Sports' own uniform logs.`
+      : `The ${possessive(t.nickname)} 2026 record in each of the ${t.combos.length} uniform combinations they have worn through Week ${RECORDS_THROUGH_WEEK}, game by game, from ColorWay Sports' own uniform logs.`;
   return {
     title,
     description,
     alternates: { canonical: `/uniform-records/${t.slug}` },
-    openGraph: { title: `${t.name} Uniform Records ${nba ? NBA_RECORDS_SEASON : "2026"}`, description, url: `/uniform-records/${t.slug}`, type: "article" },
+    openGraph: { title: `${t.name} Uniform Records ${seasonOf(t)}`, description, url: `/uniform-records/${t.slug}`, type: "article" },
   };
 }
 
 const lc = colorWord;
-const isNba = (t: RecordTeam) => t.league === "nba";
-const seasonOf = (t: RecordTeam) => (isNba(t) ? NBA_RECORDS_SEASON : "2026");
-const throughOf = (t: RecordTeam) => (isNba(t) ? fmtDate(NBA_RECORDS_THROUGH) : `Week ${RECORDS_THROUGH_WEEK}`);
+/** NBA and NHL records are by jersey; the NFL's are by helmet, jersey and pants. */
+const isNba = (t: RecordTeam) => t.league === "nba" || t.league === "nhl";
+const seasonOf = (t: RecordTeam) =>
+  t.league === "nhl" ? NHL_RECORDS_SEASON : t.league === "nba" ? NBA_RECORDS_SEASON : "2026";
+const throughOf = (t: RecordTeam) =>
+  t.league === "nhl"
+    ? fmtDate(NHL_RECORDS_THROUGH)
+    : t.league === "nba"
+      ? fmtDate(NBA_RECORDS_THROUGH)
+      : `Week ${RECORDS_THROUGH_WEEK}`;
 const trackerOf = (t: RecordTeam) =>
-  isNba(t)
-    ? { href: "/stories/nba-uniform-tracker-2026-27", label: "NBA Uniform Tracker" }
-    : { href: "/stories/nfl-uniform-tracker-2026", label: "NFL Uniform Tracker" };
+  t.league === "nhl"
+    ? { href: "/stories/nhl-uniform-tracker-2026-27", label: "NHL Uniform Tracker" }
+    : t.league === "nba"
+      ? { href: "/stories/nba-uniform-tracker-2026-27", label: "NBA Uniform Tracker" }
+      : { href: "/stories/nfl-uniform-tracker-2026", label: "NFL Uniform Tracker" };
+/** "OT" / "SO" after an NHL score, "OT" after an NBA one. */
+const extraOf = (ot: boolean | "OT" | "SO" | undefined) => (ot === true ? " OT" : ot ? ` ${ot}` : "");
 const plural = (n: number, one: string, many: string) => `${n} ${n === 1 ? one : many}`;
 
 function buildNbaFaq(t: RecordTeam) {
   const nick = t.nickname;
   const pos = possessive(nick);
-  const through = fmtDate(NBA_RECORDS_THROUGH);
-  const recWord = (s: { w: number; l: number; t: number }) => `${fmtRecord(s)} (${plural(games(s), "game", "games")})`;
+  const through = throughOf(t);
+  const recWord = (s: { w: number; l: number; t: number; otl?: number }) => `${fmtRecord(s)} (${plural(games(s), "game", "games")})`;
   const out: { q: string; a: string }[] = [
     {
       q: `What is the ${pos} record in each jersey this season?`,
@@ -86,6 +104,12 @@ function buildNbaFaq(t: RecordTeam) {
     out.push({
       q: `What is the ${pos} record in the ${lc(c.jerseyName)} jersey?`,
       a: `The ${nick} are ${recWord(c)} in the ${lc(c.jerseyName)} jersey, the ${c.edition}, this season through ${through}.`,
+    });
+  }
+  if (t.league === "nhl") {
+    out.push({
+      q: "How are these NHL records counted?",
+      a: `Wins, regulation losses, then overtime and shootout losses (W-L-OTL), the way NHL standings count them. Only regular-season games count, and only games where we confirmed the ${possessive(nick)} sweater from game photos. Scores are ESPN finals.`,
     });
   }
   const best = [...t.combos].filter((c) => games(c) >= 2).sort((a, b) => winPct(b) - winPct(a) || games(b) - games(a))[0];
@@ -216,7 +240,7 @@ function ComboCard({ c, team, showImg }: { c: RecordCombo; team: RecordTeam; sho
               style={{ color: g.result === "W" ? "#0025CC" : g.result === "L" ? "#b42318" : "#0b0b0f" }}
               title={`See the game in the ${trackerOf(team).label}`}
             >
-              {`${g.result} ${g.teamScore}-${g.oppScore}${g.ot ? " OT" : ""}`}
+              {`${g.result} ${g.teamScore}-${g.oppScore}${extraOf(g.ot)}`}
             </Link>
           </li>
         ))}
@@ -246,7 +270,8 @@ export default async function TeamUniformRecordsPage({ params }: { params: Promi
   const nba = isNba(t);
   const tracker = trackerOf(t);
   const bestPants = nba ? undefined : pants.filter((p) => p.games >= 2).sort((a, b) => winPct(b) - winPct(a))[0];
-  const overall = { w: t.w, l: t.l, t: t.t };
+  const overall = { w: t.w, l: t.l, t: t.t, otl: t.otl };
+  const leagueWord = t.league === "nhl" ? "NHL" : t.league === "nba" ? "NBA" : "NFL";
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -261,8 +286,8 @@ export default async function TeamUniformRecordsPage({ params }: { params: Promi
       <main className="pb-16">
         <section className="px-4 sm:px-5 pt-10 pb-9" style={{ background: `linear-gradient(135deg, ${t.color} 0%, ${t.color}dd 100%)` }}>
           <div className="max-w-[980px] mx-auto">
-            <Link prefetch={false} href={nba ? "/uniform-records#nba" : "/uniform-records"} className="text-[14px] font-bold uppercase tracking-[0.14em] text-white/80 hover:text-white">
-              &larr; {nba ? "NBA" : "NFL"} Uniform Records
+            <Link prefetch={false} href={nba ? `/uniform-records#${t.league}` : "/uniform-records"} className="text-[14px] font-bold uppercase tracking-[0.14em] text-white/80 hover:text-white">
+              &larr; {leagueWord} Uniform Records
             </Link>
             {t.logo && (
               <div className="flex items-center justify-center w-16 h-16 rounded-2xl bg-white shadow-sm mt-5">
@@ -275,13 +300,13 @@ export default async function TeamUniformRecordsPage({ params }: { params: Promi
             </h1>
             <p className="text-white/90 text-[18px] sm:text-[19px] leading-relaxed max-w-[680px] m-0">
               {nba
-                ? `Every jersey the ${t.nickname} have worn in ${seasonOf(t)}, with the result of every game in it, through ${throughOf(t)}. Logged from game photos in our NBA uniform tracker.`
+                ? `Every jersey the ${t.nickname} have worn in ${seasonOf(t)}, with the result of every game in it, through ${throughOf(t)}. Logged from game photos in our ${leagueWord} uniform tracker.${t.league === "nhl" ? " Records read wins, regulation losses, then overtime and shootout losses." : ""}`
                 : `Every helmet, jersey and pants combination the ${t.nickname} have worn in 2026, with the result of every game in it, through ${throughOf(t)}. Logged from game photos in our NFL uniform tracker.`}
             </p>
             <div className="flex flex-wrap gap-x-9 gap-y-4 mt-7">
               {(nba
                 ? [
-                    ["Record", fmtRecord(overall)],
+                    [t.league === "nhl" ? "Record (W-L-OTL)" : "Record", fmtRecord(overall)],
                     ["Jerseys", String(t.combos.length)],
                     ["Games Logged", String(t.gamesCounted)],
                   ]

@@ -17,7 +17,11 @@ import {
   NBA_RECORDS_SEASON,
   NBA_RECORDS_THROUGH,
   NBA_RECORDS_TOTALS,
+  NHL_RECORDS_SEASON,
+  NHL_RECORDS_THROUGH,
+  NHL_RECORDS_TOTALS,
   fmtDate,
+  type RecordTeam,
   type LeagueCombo,
 } from "@/lib/uniformRecords";
 
@@ -28,14 +32,14 @@ import {
 
 export const dynamic = "force-static";
 
-const TITLE = "NFL And NBA Uniform Records: Every Team's Win-Loss In Every Uniform";
-const DESCRIPTION = `Which uniforms win? Every NFL team's 2026 record in each helmet, jersey and pants combination through Week ${RECORDS_THROUGH_WEEK}, and every NBA team's record in each jersey, from ColorWay Sports' own game-by-game uniform logs.`;
+const TITLE = "NFL, NBA And NHL Uniform Records: Every Team's Win-Loss In Every Uniform";
+const DESCRIPTION = `Which uniforms win? Every NFL team's 2026 record in each helmet, jersey and pants combination through Week ${RECORDS_THROUGH_WEEK}, and every NBA and NHL team's record in each jersey, from ColorWay Sports' own game-by-game uniform logs.`;
 
 export const metadata: Metadata = {
   title: TITLE,
   description: DESCRIPTION,
   alternates: { canonical: "/uniform-records" },
-  openGraph: { title: "NFL And NBA Uniform Records", description: DESCRIPTION, url: "/uniform-records", type: "website" },
+  openGraph: { title: "NFL, NBA And NHL Uniform Records", description: DESCRIPTION, url: "/uniform-records", type: "website" },
 };
 
 function ComboRow({ c, rank, showPct }: { c: LeagueCombo; rank?: number; showPct?: boolean }) {
@@ -54,13 +58,13 @@ function ComboRow({ c, rank, showPct }: { c: LeagueCombo; rank?: number; showPct
             {c.team.nickname}: {c.jerseyName} Jersey
           </span>
           <span className="mt-1.5 flex items-center gap-2.5">
-            {c.team.league === "nba" ? (
+            {c.team.league !== "nfl" ? (
               <span aria-hidden className="block w-4 h-5 rounded-[4px] flex-shrink-0" style={{ background: c.hexes[1], border: "1px solid rgba(0,0,0,0.2)" }} />
             ) : (
               <ComboChips hexes={c.hexes} labels={[c.helmet, c.jerseyName, c.pants]} size={16} />
             )}
             <span className="text-[16px] text-[#3c4250] leading-snug">
-              {c.team.league === "nba"
+              {c.team.league !== "nfl"
                 ? `${c.edition} · ${games(c)} ${games(c) === 1 ? "game" : "games"}`
                 : `${c.helmet} helmet, ${c.pants} pants · ${games(c)} ${games(c) === 1 ? "game" : "games"}`}
             </span>
@@ -109,6 +113,39 @@ function Board({
   );
 }
 
+function TeamGrid({ id, title, teams }: { id: string; title: string; teams: RecordTeam[] }) {
+  return (
+    <section id={id} aria-labelledby={`h-${id}`} className="mt-12 scroll-mt-28">
+      <h2 id={`h-${id}`} className="text-[28px] sm:text-[32px] leading-tight font-extrabold text-black tracking-tight border-b-4 border-[#0025CC] pb-2 mb-5">
+        {title}
+      </h2>
+      <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 list-none p-0 m-0">
+        {teams.map((t) => (
+          <li key={t.slug}>
+            <Link
+              prefetch={false}
+              href={`/uniform-records/${t.slug}`}
+              className="group flex items-center gap-3.5 rounded-xl border border-black/10 bg-white px-4 py-3.5 no-underline hover:border-[#0025CC] transition-colors"
+            >
+              {t.logo && (
+                // eslint-disable-next-line @next/next/no-img-element -- public/ images are served raw site-wide
+                <img src={t.logo} alt="" width={40} height={40} loading="lazy" decoding="async" className="w-10 h-10 object-contain flex-shrink-0" />
+              )}
+              <span className="min-w-0 flex-1">
+                <span className="block text-[18px] font-extrabold text-black leading-tight group-hover:text-[#0025CC]">{t.name}</span>
+                <span className="block text-[16px] text-[#3c4250] mt-0.5">
+                  {`${t.combos.length} ${t.combos.length === 1 ? "jersey" : "jerseys"} · ${t.gamesCounted} games`}
+                </span>
+              </span>
+              <span aria-hidden className="text-[#0025CC] font-bold text-xl">&rarr;</span>
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </section>
+  );
+}
+
 const sentenceList = (items: string[]) =>
   items.length <= 1 ? items.join("") : `${items.slice(0, -1).join(", ")} and ${items[items.length - 1]}`;
 const describe = (c: LeagueCombo) =>
@@ -119,6 +156,8 @@ export default function UniformRecordsPage() {
   const b = leaderboards();
   const nbaTeams = allRecordTeams("nba");
   const nb = leaderboards("nba");
+  const nhlTeams = allRecordTeams("nhl");
+  const nh = leaderboards("nhl");
   const top = b.best[0];
   const worn = b.mostWorn[0];
 
@@ -159,20 +198,30 @@ export default function UniformRecordsPage() {
         ? `Through ${fmtDate(NBA_RECORDS_THROUGH)}, among jerseys worn at least twice, the ${possessive(nb.best[0].team.nickname)} ${colorWord(nb.best[0].jerseyName)} jersey (${nb.best[0].edition}) leads at ${fmtRecord(nb.best[0])}.`
         : "",
     },
+    {
+      q: "Which NHL jersey has the best record this season?",
+      a: nh.best[0]
+        ? `Through ${fmtDate(NHL_RECORDS_THROUGH)}, among jerseys worn at least twice, the ${possessive(nh.best[0].team.nickname)} ${colorWord(nh.best[0].jerseyName)} jersey (${nh.best[0].edition}) leads at ${fmtRecord(nh.best[0])}.`
+        : "",
+    },
+    {
+      q: "How are NHL uniform records counted?",
+      a: `NHL records read wins, regulation losses, then overtime and shootout losses (W-L-OTL), the way NHL standings count them, and are ranked by points percentage. Only regular-season games count: ${NHL_RECORDS_TOTALS.teamGamesCounted} team-games through ${fmtDate(NHL_RECORDS_THROUGH)}, each sweater confirmed from game photos and each score an ESPN final.`,
+    },
   ].filter((f) => f.a);
 
   const jsonLd = [
     {
       "@context": "https://schema.org",
       "@type": "CollectionPage",
-      name: "NFL And NBA Uniform Records",
+      name: "NFL, NBA And NHL Uniform Records",
       url: "https://www.colorwaysports.com/uniform-records",
       hasPart: teams.map((t) => ({
         "@type": "WebPage",
         name: `${t.name} Record In Every Uniform`,
         url: `https://www.colorwaysports.com/uniform-records/${t.slug}`,
       })).concat(
-        nbaTeams.map((t) => ({
+        [...nbaTeams, ...nhlTeams].map((t) => ({
           "@type": "WebPage",
           name: `${t.name} Record In Every Jersey`,
           url: `https://www.colorwaysports.com/uniform-records/${t.slug}`,
@@ -193,6 +242,7 @@ export default function UniformRecordsPage() {
     ["most-worn", "Most Worn"],
     ["teams", "All 32 NFL Teams"],
     ["nba", "NBA"],
+    ["nhl", "NHL"],
   ];
 
   return (
@@ -202,7 +252,7 @@ export default function UniformRecordsPage() {
       <main className="max-w-[1000px] mx-auto px-4 sm:px-5 pt-8 pb-14">
         <p className="text-[13px] font-black tracking-[0.18em] uppercase text-[#0025CC]">From Our Own Game Logs</p>
         <h1 className="font-display font-black text-[36px] sm:text-[52px] leading-[1.04] mt-1 tracking-tight">
-          NFL And NBA Uniform Records
+          NFL, NBA And NHL Uniform Records
         </h1>
         <div className="mt-4 max-w-[760px] space-y-4 text-[18px] sm:text-[19px] leading-relaxed text-[#2b303b]">
           <p>
@@ -215,7 +265,7 @@ export default function UniformRecordsPage() {
           </p>
           <p>
             {`${b.comboCount} different combinations so far. `}The leaderboards count combinations worn at least twice; tap any row
-            for that team&apos;s full breakdown, game by game. NBA records, jersey by jersey, are{" "}
+            for that team&apos;s full breakdown, game by game. NBA and NHL records, jersey by jersey, are{" "}
             <a href="#nba" className="text-[#0025CC] font-semibold hover:underline">
               further down
             </a>
@@ -341,34 +391,52 @@ export default function UniformRecordsPage() {
           ranked
         />
 
-        <section id="nba-teams" aria-labelledby="h-nba-teams" className="mt-12 scroll-mt-28">
-          <h2 id="h-nba-teams" className="text-[28px] sm:text-[32px] leading-tight font-extrabold text-black tracking-tight border-b-4 border-[#0025CC] pb-2 mb-5">
-            Every NBA Team&apos;s Jersey Record
+        <TeamGrid id="nba-teams" title="Every NBA Team's Jersey Record" teams={nbaTeams} />
+
+        <section id="nhl" aria-labelledby="h-nhl" className="mt-12 scroll-mt-28">
+          <p className="text-[13px] font-black tracking-[0.18em] uppercase text-[#0025CC]">{`NHL ${NHL_RECORDS_SEASON}`}</p>
+          <h2 id="h-nhl" className="font-display font-black text-[32px] sm:text-[42px] leading-[1.06] mt-1 tracking-tight">
+            NHL Uniform Records
           </h2>
-          <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 list-none p-0 m-0">
-            {nbaTeams.map((t) => (
-              <li key={t.slug}>
-                <Link
-                  prefetch={false}
-                  href={`/uniform-records/${t.slug}`}
-                  className="group flex items-center gap-3.5 rounded-xl border border-black/10 bg-white px-4 py-3.5 no-underline hover:border-[#0025CC] transition-colors"
-                >
-                  {t.logo && (
-                    // eslint-disable-next-line @next/next/no-img-element -- public/ images are served raw site-wide
-                    <img src={t.logo} alt="" width={40} height={40} loading="lazy" decoding="async" className="w-10 h-10 object-contain flex-shrink-0" />
-                  )}
-                  <span className="min-w-0 flex-1">
-                    <span className="block text-[18px] font-extrabold text-black leading-tight group-hover:text-[#0025CC]">{t.name}</span>
-                    <span className="block text-[16px] text-[#3c4250] mt-0.5">
-                      {`${t.combos.length} ${t.combos.length === 1 ? "jersey" : "jerseys"} · ${t.gamesCounted} games`}
-                    </span>
-                  </span>
-                  <span aria-hidden className="text-[#0025CC] font-bold text-xl">&rarr;</span>
-                </Link>
-              </li>
-            ))}
-          </ul>
+          <p className="mt-3 max-w-[760px] text-[18px] sm:text-[19px] leading-relaxed text-[#2b303b]">
+            {`Every NHL team's record in each jersey it has worn this season, through ${fmtDate(NHL_RECORDS_THROUGH)}: ${NHL_RECORDS_TOTALS.teamGamesCounted} team-games, every sweater checked against game photos in our `}
+            <Link prefetch={false} href="/stories/nhl-uniform-tracker-2026-27" className="text-[#0025CC] font-semibold hover:underline">
+              NHL uniform tracker
+            </Link>
+            . We name each jersey by its color, with the official name underneath. Records read W-L-OTL: wins, regulation
+            losses, then overtime and shootout losses.
+          </p>
         </section>
+
+        <Board
+          id="nhl-best"
+          title="Best NHL Records By Jersey"
+          intro="The best points percentage in any jersey worn two or more times. An overtime or shootout loss counts as half a win, the way NHL standings do it."
+          rows={nh.best}
+          ranked
+          showPct
+        />
+
+        <Board
+          id="nhl-winless"
+          title="Winless NHL Jerseys"
+          intro={`${nh.winless.length} jerseys worn at least twice are still looking for a win.`}
+          rows={nh.winless}
+        />
+
+        <MvSlot className="my-10" />
+
+        <Board
+          id="nhl-most-worn"
+          title="Most-Worn NHL Jerseys"
+          intro="The sweaters teams keep coming back to, and how they have done in them."
+          rows={nh.mostWorn}
+          ranked
+        />
+
+        <TeamGrid id="nhl-teams" title="Every NHL Team's Jersey Record" teams={nhlTeams} />
+
+        <MvSlot className="my-10" />
 
         <section className="mt-12">
           <h2 className="text-[28px] sm:text-[32px] font-extrabold text-black tracking-tight mb-5">Frequently Asked Questions</h2>
@@ -382,7 +450,8 @@ export default function UniformRecordsPage() {
           </div>
           <p className="text-[16px] text-[#5b6474] mt-8">
             NFL combinations count the helmet, jersey and pants exactly as worn: the same jersey with different pants is a
-            different combination. NBA records are by jersey. Records update after each round of games is logged.
+            different combination. NBA and NHL records are by jersey; NHL records count overtime and shootout
+            losses separately (W-L-OTL). Records update after each round of games is logged.
           </p>
         </section>
       </main>
