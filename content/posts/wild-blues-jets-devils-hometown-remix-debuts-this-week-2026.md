@@ -3,6 +3,7 @@ title: "Wild, Blues, Jets And Devils Hometown Remix Debuts This Week: Dates, Tim
 category: "NHL"
 date: "2026-11-16"
 updatedDate: "2026-11-16"
+homepageHero: "2026-11-17"
 excerpt: "Four more NHL teams wear their Hometown Remix jerseys for the first time this week. Minnesota (black), St. Louis (black and blue) and Winnipeg (navy with northern lights sleeves) all debut Tuesday, Nov. 17, and New Jersey (black and red) debuts Wednesday, Nov. 18 against Montreal. Times, opponents, what each jersey looks like and our grades."
 gradient: "linear-gradient(135deg, #0b0b10 0%, #154734 45%, #0047bb 100%)"
 author: "colorway-sports-staff"
