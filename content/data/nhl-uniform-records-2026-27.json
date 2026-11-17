@@ -1,13 +1,13 @@
 {
  "league": "nhl",
  "season": "2026-27",
- "through": "2026-11-15",
+ "through": "2026-11-16",
  "built": "2026-11-17",
  "note": "Built by scripts/build-uniform-records.mjs from scripts/data/nhl-game-log-2026-27.json (confirmed rows, regular season only) and ESPN finals cached in content/data/nhl-scores-2026-27.json. Records are W-L-OTL. Do not hand-edit.",
  "totals": {
   "teams": 32,
-  "gamesPlayed": 330,
-  "teamGamesCounted": 660,
+  "gamesPlayed": 332,
+  "teamGamesCounted": 664,
   "teamGamesUnlogged": 0,
   "preseasonExcluded": []
  },
@@ -3878,10 +3878,10 @@
    "name": "Montreal Canadiens",
    "nickname": "Canadiens",
    "tri": "MTL",
-   "gamesPlayed": 20,
-   "gamesCounted": 20,
+   "gamesPlayed": 21,
+   "gamesCounted": 21,
    "w": 12,
-   "l": 4,
+   "l": 5,
    "t": 0,
    "otl": 4,
    "missing": [],
@@ -4009,7 +4009,7 @@
      ],
      "img": "/images/posts/nhl-daily-tracker/canadiens-road.jpg",
      "w": 4,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "otl": 1,
      "games": [
@@ -4066,6 +4066,15 @@
        "teamScore": 5,
        "oppScore": 2,
        "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-16",
+       "opponent": "New York Rangers",
+       "home": false,
+       "teamScore": 1,
+       "oppScore": 3,
+       "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -4946,9 +4955,9 @@
    "name": "New York Rangers",
    "nickname": "Rangers",
    "tri": "NYR",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
-   "w": 12,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
+   "w": 13,
    "l": 8,
    "t": 0,
    "otl": 1,
@@ -5203,6 +5212,36 @@
        "teamScore": 1,
        "oppScore": 4,
        "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      }
+     ]
+    },
+    {
+     "id": "light-blue-centennial",
+     "jerseyName": "Light Blue Centennial",
+     "edition": "Centennial Jersey",
+     "jerseyKey": "rangers-centennial",
+     "helmet": "",
+     "jersey": "Light Blue",
+     "pants": "",
+     "hexes": [
+      "#3A73C4",
+      "#3A73C4",
+      "#3A73C4"
+     ],
+     "img": "/images/posts/nhl-daily-tracker/rangers-centennial.jpg",
+     "w": 1,
+     "l": 0,
+     "t": 0,
+     "otl": 0,
+     "games": [
+      {
+       "date": "2026-11-16",
+       "opponent": "Montreal Canadiens",
+       "home": true,
+       "teamScore": 3,
+       "oppScore": 1,
+       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -7423,10 +7462,10 @@
    "name": "Utah Mammoth",
    "nickname": "Mammoth",
    "tri": "UTA",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
    "w": 10,
-   "l": 8,
+   "l": 9,
    "t": 0,
    "otl": 3,
    "missing": [],
@@ -7576,7 +7615,7 @@
      ],
      "img": "/images/posts/nhl-daily-tracker/mammoth-home.jpg",
      "w": 4,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "otl": 1,
      "games": [
@@ -7644,6 +7683,15 @@
        "result": "L",
        "ot": "SO",
        "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-16",
+       "opponent": "Vancouver Canucks",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 3,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
     },
@@ -7695,9 +7743,9 @@
    "name": "Vancouver Canucks",
    "nickname": "Canucks",
    "tri": "VAN",
-   "gamesPlayed": 22,
-   "gamesCounted": 22,
-   "w": 4,
+   "gamesPlayed": 23,
+   "gamesCounted": 23,
+   "w": 5,
    "l": 17,
    "t": 0,
    "otl": 1,
@@ -7717,7 +7765,7 @@
       "#FFFFFF"
      ],
      "img": "/images/posts/nhl-daily-tracker/canucks-road.jpg",
-     "w": 3,
+     "w": 4,
      "l": 8,
      "t": 0,
      "otl": 1,
@@ -7830,6 +7878,15 @@
        "home": false,
        "teamScore": 6,
        "oppScore": 3,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-16",
+       "opponent": "Utah Mammoth",
+       "home": false,
+       "teamScore": 3,
+       "oppScore": 2,
        "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }

@@ -521,6 +521,7 @@ const NHL_SPECIALS = {
   "flames-2004-retro": ["Black", "Throwback", "2004 Retro Black C", "#111111"],
   "blackhawks-black": ["Black", "Third", "Black Alternate", "#111111"],
   "red-wings-centennial": ["Red", "Centennial", "Centennial Sweater", "#CE1126"],
+  "rangers-centennial": ["Light Blue", "Centennial", "Centennial Jersey", "#3A73C4"],
   "sharks-cali-fin": ["Black", "Third", "Cali Fin Third", "#111111"],
   "stars-the-99": ["Black", "Third", "The 99 Alternate", "#111111"],
 };

@@ -11,6 +11,8 @@
     "Daily pass: node scripts/nhl-game-photos.mjs <YYYYMMDD> (view the frames), add/adjust entries here, then npm run nhl:daily (schedule tables + daily tracker post; /nhl-tracker team pages read this file at build)"
   ],
   "matchupGrades": {
+    "MTL Road White @ NYR Centennial Jersey": "A",
+    "VAN Road White @ UTA Home Black": "B",
     "VAN Road White @ VGK Hometown Remix Debut": "B+",
     "NSH Road White @ SJS Hometown Remix": "B+",
     "FLA Road White @ DAL Home Victory Green": "B",
@@ -681,6 +683,8 @@
     "2026-11-15 CGY@ANA": {"confirmed": true, "source": "ESPN highlight frames (Ducks home orange, Flames road white)"},
     "2026-11-15 NSH@SJS": {"confirmed": true, "source": "NBC Sports California highlight frames via ESPN (Sharks Hometown Remix: teal with black shark-teeth sleeve and sock bands, SJ crest; Predators road white)", "note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "image": "/images/posts/nhl-daily-tracker/sharks-remix.jpg", "color": "#006D75"}},
     "2026-11-15 VAN@VGK": {"confirmed": true, "source": "ESPN highlight frames (Golden Knights Hometown Remix debut: black with green and gold patterned stripes, gold helmet crest; Canucks road white)", "note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix Debut", "image": "/images/posts/nhl-daily-tracker/golden-knights-remix.jpg", "color": "#00704A"}},
+    "2026-11-16 MTL@NYR": {"confirmed": true, "source": "TNT Sports highlight frames via ESPN (Rangers Centennial jersey on the 100th anniversary of their first game: lighter blue, cream diagonal RANGERS, cream collar, cream-red-cream sleeve and hem stripes, cream numbers, 100th anniversary shoulder patch; Canadiens road white)", "note": "Centennial jersey from the 2025-26 100th season, worn Nov 16 2026 for the 100th anniversary of the first Rangers game (Nov 16 1926); tile = Fanatics Premium Centennial front from the MSG/Rangers shop", "home": {"call": "Centennial Jersey", "color": "#3A73C4", "swatch": "#3A73C4", "image": "/images/posts/nhl-daily-tracker/rangers-centennial.jpg"}},
+    "2026-11-16 VAN@UTA": {"confirmed": true, "source": "ESPN highlight frames (Mammoth home black with light blue stripes, Canucks road white)"},
     "2026-11-17 NSH@MIN": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix Debut", "color": "#154734"}},
     "2026-11-18 MTL@NJD": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix Debut", "color": "#CE1126"}},
     "2026-11-19 LAK@TOR": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "color": "#00205B"}},

@@ -3,7 +3,7 @@ title: "NFL Week 10 Uniforms 2026: What Every Team Is Wearing, Including Giants 
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-09"
-updatedDate: "2026-11-16"
+updatedDate: "2026-11-17"
 excerpt: "NFL Week 10 uniforms (Nov. 12-16): the Giants wear Vintage White on Thursday night, the Ravens debut all-black Darkness Falls on Monday night, the Bengals wear the White Bengal, the 49ers bring the red 1994 throwback to Dallas, the Titans debut Music City, plus Munich and every other game."
 gradient: "linear-gradient(135deg, #0B2265 0%, #0C1526 55%, #241773 130%)"
 coverImage: "/images/posts/nfl-week-10-uniforms-2026/cover.jpg"
@@ -17,7 +17,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 10 of the 2026 NFL season runs from Thursday, November 12 to Monday, November 16, with 14 games and four teams on bye: the Chicago Bears, Denver Broncos, Philadelphia Eagles and Tampa Bay Buccaneers. Five teams have a confirmed special look, and all three prime-time games have one: the **Giants in Vintage White** on Thursday night, the **Bengals in the all-white White Bengal** on Sunday night, and the **Ravens in all-black Darkness Falls** on Monday night. The **49ers bring the red 1994 throwback** to Dallas, and the **Titans debut the navy Music City** Rivalries uniform. New England and Detroit play in Munich on Sunday morning.
+Week 10 of the 2026 NFL season ran from Thursday, November 12 to Monday, November 16, with 14 games and four teams on bye: the Chicago Bears, Denver Broncos, Philadelphia Eagles and Tampa Bay Buccaneers. All 14 games are final, and the Final line under each game says what was actually worn. All three prime-time games had a special look: the **Giants in Vintage White** on Thursday night (Commanders 24, Giants 21), the **Bengals in the all-white White Bengal** on Sunday night (Bengals 38, Steelers 18), and the **Ravens in all-black Darkness Falls** on Monday night (Chargers 23, Ravens 20). The **49ers wore the red 1994 throwback** in Dallas and won 46-40, and the **Titans debuted the navy Music City** Rivalries uniform in a 40-23 loss to Jacksonville. New England and Detroit play in Munich on Sunday morning.
 
 Below is every Week 10 look we know, special ones first and then all 14 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
 
@@ -284,9 +284,9 @@ The White Bengal: white helmet, white jersey and white pants with black tiger st
 
 The home team declares first, and the Bengals declared white for this game. Two teams cannot both wear white, so Pittsburgh wore its black jersey, with gold pants, on the road. Cincinnati won 38-18.
 
-**What are the 49ers and Cowboys wearing in Week 10?**
+**What did the 49ers and Cowboys wear in Week 10?**
 
-San Francisco wears the red 1994 throwback under the gold helmet, confirmed by the team. Dallas published its white jersey for this game. Kickoff is Sunday, November 15 at 4:25 p.m. Eastern on FOX.
+San Francisco wore the red 1994 throwback under the gold helmet, as the team had announced, and Dallas wore its white jersey at home. The 49ers won 46-40 on Sunday, November 15.
 
 **What is the Titans' Music City uniform?**
 
