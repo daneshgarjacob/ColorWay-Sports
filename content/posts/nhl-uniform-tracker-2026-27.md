@@ -159,7 +159,7 @@ Five games on Sunday, and every sweater was confirmed from game photos. The Gold
 
 ## Saturday, November 14
 
-Fourteen games on Saturday, and every sweater was confirmed from game photos. The Lightning debuted their Hometown Remix, a black sweater with bright blue stripes, and shut out the Red Wings 2-0. In Montreal, the Canadiens wore their white Remix at home, so the Avalanche wore their burgundy home sweater on the road, and Montreal won 4-1. The Bruins wore the brown Varsity Remix again and beat the Wild 6-2. The Capitals wore the red Screaming Eagle and beat the Devils 7-4. In Helsinki, the Hurricanes wore red with the Global Series patch and beat the Kraken 5-1. Everyone else wore their usual dark at home and white on the road.
+Fourteen games on Saturday, and every sweater was confirmed from game photos. The Lightning debuted their Hometown Remix, a black sweater with bright blue stripes, and the Red Wings shut them out 2-0. In Montreal, the Canadiens wore their white Remix at home, so the Avalanche wore their burgundy home sweater on the road, and Colorado won 4-1. The Bruins wore the brown Varsity Remix again and lost 6-2 to the Wild. The Capitals wore the red Screaming Eagle and lost 7-4 to the Devils. In Helsinki, the Hurricanes wore red with the Global Series patch and beat the Kraken 5-1. Everyone else wore their usual dark at home and white on the road.
 
 <!-- nhl-day:2026-11-14:start -->
 
