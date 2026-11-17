@@ -48,6 +48,8 @@ const leagues: NavLeague[] = [
     // Site plan 11/16: the holiday-week hub, Wednesday through Black Friday.
     extraLinks: [
       { label: "Thanksgiving Uniforms 2026", href: "/stories/nfl-thanksgiving-uniforms-2026" },
+      // Site plan 11/16 item 6: win-loss in every uniform, from our own game logs.
+      { label: "Uniform Records", href: "/uniform-records" },
     ],
   },
   {

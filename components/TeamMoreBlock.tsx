@@ -13,6 +13,7 @@ const KIND_ICON: Record<MoreLinkKind, string> = {
   hub: "M12 2 15 8.5 22 9.3 17 14 18.2 21 12 17.8 5.8 21 7 14 2 9.3 9 8.5z",
   calendar: "M8 2v4M16 2v4M3 10h18M5 4h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zM8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01",
   tracker: "M3 3v18h18M7 15l4-4 3 3 5-6",
+  records: "M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0V4zM7 6H4v2a3 3 0 0 0 3 3M17 6h3v2a3 3 0 0 1-3 3",
 };
 
 export default function TeamMoreBlock({ data }: { data: TeamMoreData | null }) {
