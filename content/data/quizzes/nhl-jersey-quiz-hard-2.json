@@ -1,0 +1,103 @@
+{
+  "slug": "nhl-jersey-quiz-hard-2",
+  "type": "jersey",
+  "league": "nhl",
+  "leagueName": "NHL",
+  "title": "NHL Jersey Quiz Part 2: Hard Mode",
+  "headline": "NHL Jersey Quiz Part 2: Name The Team From A Tiny Piece Of Its Jersey",
+  "description": "A hard NHL jersey quiz: eight tiny squares cut from current NHL home sweaters, no numbers, no crests, no shoulder patches. Just a sleeve stripe or a hem. Guess the team, reveal the answer, keep score.",
+  "intro": [
+    "Every piece below is a small square cut from a current NHL home sweater, about one fiftieth of the whole picture. No numbers, no crests, no shoulder patches. What is left is the stuff fans stop noticing: the stripes on a sleeve, the bands at the hem.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "public/images/posts/nhl-daily-tracker",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "Every NHL Jersey, Ranked",
+      "href": "/stories/best-nhl-jerseys-2026-27-ranked"
+    },
+    {
+      "label": "Every New NHL Jersey For 2026-27",
+      "href": "/stories/new-nhl-jerseys-2026-27"
+    },
+    {
+      "label": "Why Do NHL Teams Wear Dark Jerseys At Home?",
+      "href": "/stories/why-do-nhl-teams-wear-dark-jerseys-at-home"
+    },
+    {
+      "label": "How Every NHL Team Got Its Name",
+      "href": "/stories/how-every-nhl-team-got-its-name"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "sabres",
+      "file": "sabres-home.jpg",
+      "team": "Buffalo Sabres",
+      "box": [0.7771, 0.505, 0.9333, 0.63],
+      "hint": "Hard mode. No numbers, no crests.",
+      "piece": "Gold stripes with white piping on the sleeve of the royal blue home sweater.",
+      "fact": "Buffalo went back to royal blue in 2020. The home sweater has three gold stripes with white piping on each sleeve and at the hem."
+    },
+    {
+      "abbr": "avalanche",
+      "file": "avalanche-home.jpg",
+      "team": "Colorado Avalanche",
+      "box": [0.3396, 0.6967, 0.4958, 0.8217],
+      "piece": "The silver line where the burgundy body meets the blue hem of the home sweater.",
+      "fact": "The Avalanche moved from Quebec in 1995 and won the Stanley Cup in their first season in Denver."
+    },
+    {
+      "abbr": "oilers",
+      "file": "oilers-home.jpg",
+      "team": "Edmonton Oilers",
+      "box": [0.7562, 0.5717, 0.9125, 0.6967],
+      "piece": "Blue and white stripes above an orange band on the sleeve of the blue home sweater.",
+      "fact": "Edmonton's blue home sweater has orange shoulders and orange and white stripes on the sleeves and the hem."
+    },
+    {
+      "abbr": "flyers",
+      "file": "flyers-home.jpg",
+      "team": "Philadelphia Flyers",
+      "box": [0.725, 0.58, 0.8812, 0.705],
+      "hint": "Halfway. Keep count.",
+      "piece": "Where the orange body meets the white sleeve and its black cuff on the orange home sweater.",
+      "fact": "Co-founder Bill Putnam picked orange, black and white in 1966, before the team had a name, because he wanted hot colors."
+    },
+    {
+      "abbr": "predators",
+      "file": "predators-home.jpg",
+      "team": "Nashville Predators",
+      "box": [0.5062, 0.7883, 0.6625, 0.9133],
+      "piece": "A thin white line where the gold body meets the navy hem of the gold home sweater.",
+      "fact": "Nashville made gold its home color in 2011. Before that, the Predators wore navy at home."
+    },
+    {
+      "abbr": "kings",
+      "file": "kings-home.jpg",
+      "team": "Los Angeles Kings",
+      "box": [0.5479, 0.6717, 0.7042, 0.7967],
+      "piece": "Silver and white bands at the hem of the black home sweater.",
+      "fact": "The Kings switched from purple and gold to black and silver in 1988, the year Wayne Gretzky arrived from Edmonton."
+    },
+    {
+      "abbr": "sharks",
+      "file": "sharks-home.jpg",
+      "team": "San Jose Sharks",
+      "box": [0.5479, 0.6883, 0.7042, 0.8133],
+      "hint": "Real NHL fans only.",
+      "piece": "Black and white stripes at the hem of the teal home sweater.",
+      "fact": "The Sharks have worn Pacific teal since their first season, 1991-92."
+    },
+    {
+      "abbr": "hurricanes",
+      "file": "hurricanes-home.jpg",
+      "team": "Carolina Hurricanes",
+      "box": [0.7771, 0.5467, 0.9333, 0.6717],
+      "hint": "Last one. Hardest one.",
+      "piece": "A wide red stripe across the sleeve of the black home sweater.",
+      "fact": "The franchise moved from Hartford, where it was the Whalers, to North Carolina in 1997, and won the Stanley Cup in 2006."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "nba-jersey-quiz-hard",
+  "type": "jersey",
+  "league": "nba",
+  "leagueName": "NBA",
+  "title": "NBA Jersey Quiz: Hard Mode",
+  "headline": "Can You Name The NBA Team From A Tiny Piece Of Its Jersey?",
+  "description": "A hard NBA jersey quiz: eight tiny squares cut from current NBA jerseys, no numbers, no wordmarks, no logos. Just a collar, an armhole trim or a side panel. Guess the team, reveal the answer, keep score.",
+  "intro": [
+    "Every piece below is a small square cut from a current NBA jersey, about one fiftieth of the whole picture. No numbers, no wordmarks, no logo patches. What is left is the stuff fans stop noticing: the trim around an armhole, a pinstripe, a side panel.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "public/images/posts/nba-daily-tracker",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every NBA Team Got Its Colors",
+      "href": "/stories/how-every-nba-team-got-its-colors"
+    },
+    {
+      "label": "Every NBA City Edition Jersey, Ranked",
+      "href": "/stories/nba-city-edition-jerseys-2026-27"
+    },
+    {
+      "label": "The NBA Classic Edition Jerseys, Ranked",
+      "href": "/stories/nba-classic-edition-jerseys-courts-2026-27"
+    },
+    {
+      "label": "Why NBA Home Teams Don't Wear Home Jerseys",
+      "href": "/stories/nba-only-major-league-killed-home-jersey-tradition"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "celtics",
+      "file": "celtics-icon.jpg",
+      "team": "Boston Celtics",
+      "box": [0.5854, 0.1217, 0.7417, 0.2467],
+      "hint": "Hard mode. No numbers, no logos.",
+      "piece": "White and green trim around the armhole of the green jersey.",
+      "fact": "Boston's green jersey keeps the trim plain: thin white and green bands around the neck and both armholes."
+    },
+    {
+      "abbr": "knicks",
+      "file": "knicks-icon.jpg",
+      "team": "New York Knicks",
+      "box": [0.6396, 0.205, 0.7958, 0.33],
+      "piece": "Orange and white trim around the armhole of the blue jersey.",
+      "fact": "Blue, white and orange are the three colors of New York City's flag, and they are the three colors of this jersey."
+    },
+    {
+      "abbr": "bucks",
+      "file": "bucks-icon.jpg",
+      "team": "Milwaukee Bucks",
+      "box": [0.6771, 0.3217, 0.8333, 0.4467],
+      "piece": "Cream armhole trim over the cream, blue and green stripes on the side of the green jersey.",
+      "fact": "The cream is officially Cream City Cream, named for the cream-colored brick Milwaukee was built with. It arrived with the Bucks' 2015 rebrand."
+    },
+    {
+      "abbr": "magic",
+      "file": "magic-icon.jpg",
+      "team": "Orlando Magic",
+      "box": [0.5479, 0.6383, 0.7042, 0.7633],
+      "hint": "Halfway. Keep count.",
+      "piece": "Thin white pinstripes on the blue jersey.",
+      "fact": "Pinstripes were on the Magic's first uniforms in 1989, and all three of the uniforms Orlando introduced for 2025-26 have them."
+    },
+    {
+      "abbr": "lakers",
+      "file": "lakers-icon.jpg",
+      "team": "Los Angeles Lakers",
+      "box": [0.6104, 0.1717, 0.7667, 0.2967],
+      "piece": "Purple and white trim around the armhole of the gold jersey.",
+      "fact": "Jack Kent Cooke, who bought the Lakers in 1965, reportedly disliked the word purple, so he called the team's purple Forum blue."
+    },
+    {
+      "abbr": "timberwolves",
+      "file": "timberwolves-icon.jpg",
+      "team": "Minnesota Timberwolves",
+      "box": [0.6104, 0.1467, 0.7667, 0.2717],
+      "piece": "Green and white trim around the armhole of the blue jersey.",
+      "fact": "Minnesota's colors since 2017 include midnight blue, aurora green and lake blue, each tied to a part of the Minnesota landscape."
+    },
+    {
+      "abbr": "trail-blazers",
+      "file": "trail-blazers-icon.jpg",
+      "team": "Portland Trail Blazers",
+      "box": [0.3396, 0.6467, 0.4958, 0.7717],
+      "hint": "Real NBA fans only.",
+      "piece": "The red and white diagonal stripe crossing the black jersey.",
+      "fact": "Frank Glickman designed the pinwheel logo in 1970. The two sets of five lines stand for the five players on each team."
+    },
+    {
+      "abbr": "warriors",
+      "file": "warriors-icon.jpg",
+      "team": "Golden State Warriors",
+      "box": [0.6625, 0.1717, 0.8187, 0.2967],
+      "hint": "Last one. Hardest one.",
+      "piece": "Gold trim around the armhole of the royal blue jersey.",
+      "fact": "Golden State went back to royal blue and gold in 2010, with the new eastern span of the Bay Bridge in the logo."
+    }
+  ]
+}

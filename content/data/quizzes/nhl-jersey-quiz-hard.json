@@ -1,0 +1,103 @@
+{
+  "slug": "nhl-jersey-quiz-hard",
+  "type": "jersey",
+  "league": "nhl",
+  "leagueName": "NHL",
+  "title": "NHL Jersey Quiz: Hard Mode",
+  "headline": "Can You Name The NHL Team From A Tiny Piece Of Its Jersey?",
+  "description": "A hard NHL jersey quiz: eight tiny squares cut from current NHL home sweaters, no numbers, no crests, no shoulder patches. Just a sleeve stripe or a hem. Guess the team, reveal the answer, keep score.",
+  "intro": [
+    "Every piece below is a small square cut from a current NHL home sweater, about one fiftieth of the whole picture. No numbers, no crests, no shoulder patches. What is left is the stuff fans stop noticing: the stripes on a sleeve, the bands at the hem.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "public/images/posts/nhl-daily-tracker",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "Every NHL Jersey, Ranked",
+      "href": "/stories/best-nhl-jerseys-2026-27-ranked"
+    },
+    {
+      "label": "Every New NHL Jersey For 2026-27",
+      "href": "/stories/new-nhl-jerseys-2026-27"
+    },
+    {
+      "label": "Why Do NHL Teams Wear Dark Jerseys At Home?",
+      "href": "/stories/why-do-nhl-teams-wear-dark-jerseys-at-home"
+    },
+    {
+      "label": "How Every NHL Team Got Its Name",
+      "href": "/stories/how-every-nhl-team-got-its-name"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "bruins",
+      "file": "bruins-home.jpg",
+      "team": "Boston Bruins",
+      "box": [0.7562, 0.5217, 0.9125, 0.6467],
+      "hint": "Hard mode. No numbers, no crests.",
+      "piece": "Gold, black and white stripes on the sleeve of the black home sweater.",
+      "fact": "Boston's first colors were brown and yellow, taken from owner Charles Adams' First National Stores grocery chain. Black and gold came later."
+    },
+    {
+      "abbr": "canadiens",
+      "file": "canadiens-home.jpg",
+      "team": "Montreal Canadiens",
+      "box": [0.7146, 0.5133, 0.8708, 0.6383],
+      "piece": "The blue band, edged in white, crossing the sleeve of the red home sweater.",
+      "fact": "The CH on the crest stands for Club de hockey Canadien, the team's official name, not Habitants."
+    },
+    {
+      "abbr": "flames",
+      "file": "flames-home.jpg",
+      "team": "Calgary Flames",
+      "box": [0.7354, 0.555, 0.8917, 0.68],
+      "piece": "Yellow and white stripes on the sleeve of the red home sweater.",
+      "fact": "The Flames started in Atlanta in 1972 and moved to Calgary in 1980."
+    },
+    {
+      "abbr": "blues",
+      "file": "blues-home.jpg",
+      "team": "St. Louis Blues",
+      "box": [0.7562, 0.4717, 0.9125, 0.5967],
+      "hint": "Halfway. Keep count.",
+      "piece": "Yellow, navy and white stripes on the sleeve of the blue home sweater.",
+      "fact": "The team is named after the song \"St. Louis Blues,\" written by W.C. Handy in 1914."
+    },
+    {
+      "abbr": "islanders",
+      "file": "islanders-home.jpg",
+      "team": "New York Islanders",
+      "box": [0.0479, 0.505, 0.2042, 0.63],
+      "piece": "The orange band and white lower sleeve of the blue home sweater.",
+      "fact": "The Islanders won four Stanley Cups in a row, from 1980 to 1983."
+    },
+    {
+      "abbr": "devils",
+      "file": "devils-home.jpg",
+      "team": "New Jersey Devils",
+      "box": [0.7562, 0.4883, 0.9125, 0.6133],
+      "piece": "Black and white stripes on the sleeve of the red home sweater.",
+      "fact": "The Devils wore red and green until 1992, then switched the green to black."
+    },
+    {
+      "abbr": "stars",
+      "file": "stars-home.jpg",
+      "team": "Dallas Stars",
+      "box": [0.7667, 0.48, 0.9229, 0.605],
+      "hint": "Real NHL fans only.",
+      "piece": "White and black stripes on the sleeve of the green home sweater.",
+      "fact": "The franchise began as the Minnesota North Stars in 1967 and moved to Dallas in 1993."
+    },
+    {
+      "abbr": "ducks",
+      "file": "ducks-home.jpg",
+      "team": "Anaheim Ducks",
+      "box": [0.6104, 0.805, 0.7667, 0.93],
+      "hint": "Last one. Hardest one.",
+      "piece": "Gold and white stripes on the black hem of the orange home sweater.",
+      "fact": "Anaheim made orange its main color in its 2024 rebrand, which also brought back the duck mask logo."
+    }
+  ]
+}
