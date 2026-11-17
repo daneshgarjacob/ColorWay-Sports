@@ -256,15 +256,17 @@ export function buildTeamMoreLinks(
 
   // 3b. Record in each uniform (site plan 11/16 item 6). A link only: the
   // win-loss numbers stay on /uniform-records, never on cards.
-  if ((me.league === "nfl" || me.league === "nba") && hasUniformRecords(team)) {
+  if ((me.league === "nfl" || me.league === "nba" || me.league === "nhl") && hasUniformRecords(team)) {
     push({
       kind: "records",
       eyebrow: "Uniform Records",
-      label: me.league === "nba" ? `${me.short} Record In Each Jersey` : `${me.short} Record In Each Uniform`,
+      label: me.league === "nfl" ? `${me.short} Record In Each Uniform` : `${me.short} Record In Each Jersey`,
       detail:
-        me.league === "nba"
-          ? "Win-loss in every jersey they have worn this season, from our game logs."
-          : "Win-loss in every helmet, jersey and pants combination, from our game logs.",
+        me.league === "nhl"
+          ? "Win-loss-OTL in every sweater they have worn this season, from our game logs."
+          : me.league === "nba"
+            ? "Win-loss in every jersey they have worn this season, from our game logs."
+            : "Win-loss in every helmet, jersey and pants combination, from our game logs.",
       href: `/uniform-records/${team}`,
     });
   }

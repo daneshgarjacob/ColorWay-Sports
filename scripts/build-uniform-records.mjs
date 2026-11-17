@@ -22,8 +22,12 @@
 // It also writes content/data/nba-uniform-records-2026-27.json (NBA section at the
 // bottom: confirmed rows of scripts/data/nba-worn-2026-27.json, record by jersey).
 //
-// Run after logging a week's NFL finals or a night's NBA pass, then commit the
-// three JSON files (both records files and the score cache).
+// And content/data/nhl-uniform-records-2026-27.json (NHL section at the very
+// bottom: confirmed rows of scripts/data/nhl-game-log-2026-27.json, record by
+// jersey, W-L-OTL, finals from ESPN cached in content/data/nhl-scores-2026-27.json).
+//
+// Run after logging a week's NFL finals or a night's NBA / NHL pass, then commit
+// the JSON files (the three records files and both score caches).
 
 import fs from "node:fs";
 import path from "node:path";
@@ -452,3 +456,333 @@ const nbaOut = {
 };
 fs.writeFileSync(NBA_OUT, JSON.stringify(nbaOut, null, 1) + "\n");
 console.log(`${NBA_OUT}: ${nbaTeams.length} teams through ${nbaThrough}, ${nbaOut.totals.teamGamesCounted} team-games counted, ${nbaOut.totals.teamGamesUnlogged} unlogged`);
+
+// ===========================================================================
+// NHL 2026-27. Source: scripts/data/nhl-game-log-2026-27.json, the nightly sweater
+// log behind the 32 NHL schedule posts and the daily tracker. Only rows marked
+// confirmed (both sweaters seen in game photos) count. A side with no "call" wore
+// the league default (dark at home, white on the road).
+//
+// The log carries no scores, so finals come from ESPN's NHL scoreboard, fetched
+// HERE one date at a time and cached in content/data/nhl-scores-2026-27.json with
+// ESPN's standings snapshot. Records are NHL-style W-L-OTL: a loss in overtime or
+// a shootout is counted apart from a regulation loss.
+//
+// Preseason: every ESPN event carries its season type. Only type 2 (regular
+// season) counts; a log row that matches a preseason game is listed and skipped.
+// The 2026-27 regular season opened Sept. 29 (NHL and ESPN both list those games
+// as regular season), so the log's late-September and early-October rows count.
+//
+// Guards (script exits non-zero, nothing written):
+//   - every confirmed log row has an ESPN regular-season final
+//   - per team: jersey games sum to games counted; counted + unlogged = ESPN games played
+//   - per team: counted + unlogged results = ESPN's standings W-L-OTL through the
+//     cutoff (standings minus any finals played after the cutoff)
+const NHL_OUT = "content/data/nhl-uniform-records-2026-27.json";
+const NHL_SCORES = "content/data/nhl-scores-2026-27.json";
+const NHL_TRACKER = "/stories/nhl-uniform-tracker-2026-27";
+const NHL_FIRST_DATE = "2026-09-20"; // first preseason date, so preseason rows are seen and excluded
+const NHL_TEAMS = JSON.parse(fs.readFileSync("content/data/nhl-teams.json", "utf8")).teams;
+const NHL_LOG = JSON.parse(fs.readFileSync("scripts/data/nhl-game-log-2026-27.json", "utf8")).games;
+const ESPN_NHL = { NJ: "NJD", SJ: "SJS", LA: "LAK", TB: "TBL", UTAH: "UTA" };
+const nhlTri = (abbr) => ESPN_NHL[abbr] ?? abbr;
+const NHL_TILE_DIR = "public/images/posts/nhl-daily-tracker";
+const nhlTileFiles = new Set(fs.readdirSync(NHL_TILE_DIR));
+
+// Hometown Remix main colors, from the team reveal posts (content/posts/nhl-hometown-remix-2026-27.md).
+// The log's "color" field is only the text color for the call, so it is never used as the sweater color.
+const REMIX = {
+  ANA: ["Green", "#00843D"], BOS: ["Brown", "#6B4226", "Varsity Sweater"], BUF: ["Royal Blue", "#003087"], CGY: ["Red", "#C8102E"],
+  CAR: ["Gray", "#5B6770"], CHI: ["Kelly Green", "#00843D"], COL: ["White", "#FFFFFF"], CBJ: ["Gray", "#8A9099"],
+  DAL: ["White", "#FFFFFF"], DET: ["Red", "#CE1126"], EDM: ["Black", "#111111"], FLA: ["Coral", "#E05A47"],
+  LAK: ["Purple", "#5B2C83"], MIN: ["Black", "#111111"], MTL: ["White", "#FFFFFF"], NSH: ["Navy", "#041E42"],
+  NJD: ["Black", "#111111"], NYI: ["White", "#FFFFFF"], NYR: ["Navy", "#0A1D3F"], OTT: ["Black", "#111111"],
+  PHI: ["Gray", "#8A8D8F"], PIT: ["Blue", "#1E4FA0"], SJS: ["Teal", "#006D75"], SEA: ["Deep Sea Blue", "#001628"],
+  STL: ["Black", "#111111"], TBL: ["Black", "#111111"], TOR: ["Cream", "#EEE1C6"], UTA: ["Mountain Blue", "#7FA9D1"],
+  VAN: ["Navy", "#00205B"], VGK: ["Black", "#111111"], WSH: ["Blue", "#1F5E96"], WPG: ["Navy", "#041E42"],
+};
+// Thirds, throwbacks and specials, keyed by the jersey key (the tile the log points
+// at, or a call override below): [plain color, kind, official name, hex].
+const NHL_SPECIALS = {
+  "canucks-skate": ["Black", "Third", "Black Skate Alternate", "#111111"],
+  "jets-heritage": ["Navy", "Heritage", "Heritage Alternate", "#041E42"],
+  "jets-heritage-classic": ["White", "Heritage Classic", "2026 Heritage Classic Sweater", "#FFFFFF"],
+  "canadiens-heritage-classic": ["Red", "Heritage Classic", "2026 Heritage Classic Sweater", "#AF1E2D"],
+  "hurricanes-red": ["Red", "Alternate", "Red Sweater", "#CE1126"],
+  "capitals-screaming-eagle": ["Red", "Third", "Screaming Eagle", "#C8102E"],
+  "oilers-tan": ["Tan", "Third", "Oil Country Tan Alternate", "#E8DCC0"],
+  "sabres-goathead": ["Black", "Third", "Black and Red Goathead", "#111111"],
+  "golden-knights-steel-grey": ["Gray", "Third", "Steel Grey Alternate", "#333F48"],
+  "penguins-gold": ["Gold", "Third", "Gold Third", "#FCB514"],
+  "rangers-navy-shield": ["Navy", "Third", "Navy Shield Third", "#0A1D3F"],
+  "senators-red": ["Red", "Third", "Red Third", "#C8102E"],
+  "avalanche-navy": ["Navy", "Third", "Navy Alternate (Colorado Flag C)", "#041E42"],
+  "blue-jackets-cannon": ["Navy", "Third", "Cannon Third", "#002654"],
+  "flames-2004-retro": ["Black", "Throwback", "2004 Retro Black C", "#111111"],
+  "blackhawks-black": ["Black", "Third", "Black Alternate", "#111111"],
+  "red-wings-centennial": ["Red", "Centennial", "Centennial Sweater", "#CE1126"],
+  "sharks-cali-fin": ["Black", "Third", "Cali Fin Third", "#111111"],
+  "stars-the-99": ["Black", "Third", "The 99 Alternate", "#111111"],
+};
+// Calls whose sweater is not the tile they point at.
+const NHL_CALL_KEYS = {
+  "WPG|Heritage Classic": "jets-heritage-classic", // the white outdoor sweater; the tile shows the navy alternate
+  "MTL|Heritage Classic": "canadiens-heritage-classic",
+};
+// Tile photo for an override key (none for the Jets' white Heritage Classic: no tile of it exists).
+const NHL_KEY_TILE = { "canadiens-heritage-classic": "canadiens-heritage.jpg" };
+
+const nhlErrors = [];
+const nhlWarn = [];
+
+function nhlJersey(tri, isHome, side) {
+  const t = NHL_TEAMS[tri];
+  const call = side?.call ?? (isHome ? "Home Dark" : "Road White");
+  const base = call.replace(/ Debut$/, "");
+  let key = NHL_CALL_KEYS[`${tri}|${base}`];
+  if (!key) {
+    if (/^Home Dark\b/.test(base)) key = `${t.key}-home`;
+    else if (/^Road White\b/.test(base)) key = `${t.key}-road`;
+    else if (base === "Hometown Remix") key = `${t.key}-remix`;
+    else if (side?.image) key = side.image.split("/").pop().replace(/\.\w+$/, "");
+    else nhlErrors.push(`${tri} "${call}": no tile and no jersey key, add it to NHL_CALL_KEYS`);
+  }
+  let color, kind, official, hex;
+  if (key === `${t.key}-home`) [color, kind, official, hex] = [t.homeLabel.replace(/^Home /, ""), "Home", "Home Sweater", t.homeSwatch];
+  else if (key === `${t.key}-road`) [color, kind, official, hex] = ["White", "Road", "Road Sweater", "#FFFFFF"];
+  else if (key === `${t.key}-remix`) {
+    const r = REMIX[tri];
+    [color, kind, official, hex] = [r[0], "Remix", r[2] ? `Hometown Remix: ${r[2]}` : "Hometown Remix", r[1]];
+  } else if (NHL_SPECIALS[key]) [color, kind, official, hex] = NHL_SPECIALS[key];
+  else {
+    nhlErrors.push(`${tri} "${call}": jersey key ${key} has no name, add it to NHL_SPECIALS`);
+    [color, kind, official, hex] = [call, "", call, "#888888"];
+  }
+  const file = NHL_KEY_TILE[key] ?? `${key}.jpg`;
+  const img = nhlTileFiles.has(file) ? `/images/posts/nhl-daily-tracker/${file}` : null;
+  return { key, call, color, name: `${color} ${kind}`.trim(), edition: official, hex, img };
+}
+
+// --- ESPN scores, cached per date -------------------------------------------
+const confirmedRows = Object.entries(NHL_LOG).filter(([, v]) => v.confirmed);
+const nhlThrough = confirmedRows.map(([k]) => k.slice(0, 10)).sort().pop();
+const todayEt = new Date().toLocaleDateString("en-CA", { timeZone: "America/New_York" });
+const addDay = (iso, n) => new Date(Date.parse(iso + "T12:00:00Z") + n * 86_400_000).toISOString().slice(0, 10);
+
+async function fetchNhlDate(iso) {
+  const url = `https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard?dates=${iso.replace(/-/g, "")}`;
+  for (let attempt = 1; ; attempt++) {
+    const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0 (uniform-records build script)" } });
+    if (res.ok) {
+      const j = await res.json();
+      return (j.events ?? []).map((e) => {
+        const c = e.competitions[0];
+        const side = (ha) => c.competitors.find((x) => x.homeAway === ha);
+        const h = side("home");
+        const a = side("away");
+        const detail = e.status?.type?.detail ?? "";
+        const period = e.status?.period ?? 0;
+        return {
+          id: e.id,
+          date: iso,
+          start: e.date,
+          seasonType: e.season?.type ?? null,
+          away: nhlTri(a.team.abbreviation),
+          home: nhlTri(h.team.abbreviation),
+          awayScore: Number(a.score),
+          homeScore: Number(h.score),
+          final: e.status?.type?.name === "STATUS_FINAL",
+          // "Final/OT", "Final/SO" (and "Final/2OT" style on long nights).
+          extra: /SO/.test(detail) ? "SO" : /OT/.test(detail) || period > 3 ? "OT" : null,
+        };
+      });
+    }
+    if (attempt >= 5) throw new Error(`ESPN NHL ${iso}: HTTP ${res.status}`);
+    await new Promise((r) => setTimeout(r, 1500 * attempt));
+  }
+}
+
+let nhlCache = fs.existsSync(NHL_SCORES) ? JSON.parse(fs.readFileSync(NHL_SCORES, "utf8")) : { dates: {} };
+nhlCache.dates ??= {};
+// Through the cutoff for the records, then on to today so the standings snapshot
+// can be wound back to the cutoff.
+for (let d = NHL_FIRST_DATE; d <= todayEt; d = addDay(d, 1)) {
+  const have = nhlCache.dates[d];
+  if (REFRESH || !have || have.some((g) => !g.final) || d >= addDay(nhlThrough, 1)) {
+    nhlCache.dates[d] = await fetchNhlDate(d);
+  }
+}
+for (const d of Object.keys(nhlCache.dates)) if (d > todayEt) delete nhlCache.dates[d];
+
+const standRes = await fetch("https://site.api.espn.com/apis/v2/sports/hockey/nhl/standings", {
+  headers: { "User-Agent": "Mozilla/5.0 (uniform-records build script)" },
+});
+if (!standRes.ok) throw new Error(`ESPN NHL standings: HTTP ${standRes.status}`);
+const standJson = await standRes.json();
+const standings = {};
+for (const conf of standJson.children ?? []) {
+  for (const e of conf.standings?.entries ?? []) {
+    const stat = (n) => Number(e.stats.find((s) => s.name === n)?.value ?? NaN);
+    standings[nhlTri(e.team.abbreviation)] = { w: stat("wins"), l: stat("losses"), otl: stat("otLosses"), gp: stat("gamesPlayed") };
+  }
+}
+nhlCache = {
+  note: "NHL final scores and a standings snapshot from ESPN's public API, cached by scripts/build-uniform-records.mjs. The site build reads the records file built from this and never calls ESPN.",
+  season: "2026-27",
+  fetched: new Date().toISOString(),
+  standings,
+  dates: Object.fromEntries(Object.entries(nhlCache.dates).sort(([a], [b]) => a.localeCompare(b))),
+};
+fs.writeFileSync(NHL_SCORES, JSON.stringify(nhlCache, null, 1) + "\n");
+
+const nhlEvents = Object.values(nhlCache.dates).flat();
+const regular = nhlEvents.filter((g) => g.seasonType === 2);
+const regThrough = regular.filter((g) => g.date <= nhlThrough && g.final);
+const findNhl = (date, away, home) =>
+  nhlEvents.find((g) => g.date === date && g.away === away && g.home === home) ??
+  nhlEvents.find((g) => Math.abs(Date.parse(g.date) - Date.parse(date)) <= 86_400_000 && g.away === away && g.home === home);
+
+// --- Join the log to ESPN ------------------------------------------------------
+const nhlRows = [];
+const nhlPreseason = [];
+const usedIds = new Set();
+for (const [k, v] of confirmedRows) {
+  const [date, pair] = k.split(" ");
+  const [A, H] = pair.split("@");
+  if (!NHL_TEAMS[A] || !NHL_TEAMS[H]) {
+    nhlErrors.push(`${k}: unknown tricode`);
+    continue;
+  }
+  const g = findNhl(date, A, H);
+  if (!g) {
+    nhlErrors.push(`${k}: confirmed in the log but no ESPN game found`);
+    continue;
+  }
+  if (g.seasonType !== 2) {
+    nhlPreseason.push(`${k} (ESPN season type ${g.seasonType})`);
+    continue;
+  }
+  if (!g.final) {
+    nhlErrors.push(`${k}: confirmed in the log but ESPN is not final`);
+    continue;
+  }
+  if (usedIds.has(g.id)) {
+    nhlErrors.push(`${k}: two log rows match ESPN game ${g.id}`);
+    continue;
+  }
+  usedIds.add(g.id);
+  for (const [tri, opp, isHome] of [
+    [A, H, false],
+    [H, A, true],
+  ]) {
+    const j = nhlJersey(tri, isHome, isHome ? v.home : v.away);
+    const teamScore = isHome ? g.homeScore : g.awayScore;
+    const oppScore = isHome ? g.awayScore : g.homeScore;
+    nhlRows.push({
+      tri, opp, home: isHome, date: g.date, start: g.start, espnId: g.id, teamScore, oppScore,
+      result: teamScore > oppScore ? "W" : g.extra ? "OTL" : "L",
+      extra: g.extra, ...j,
+    });
+  }
+}
+
+const recOf = (list) => ({
+  w: list.filter((r) => r.result === "W").length,
+  l: list.filter((r) => r.result === "L").length,
+  otl: list.filter((r) => r.result === "OTL").length,
+});
+const espnResult = (g, tri) => {
+  const us = g.home === tri ? g.homeScore : g.awayScore;
+  const them = g.home === tri ? g.awayScore : g.homeScore;
+  return us > them ? "W" : g.extra ? "OTL" : "L";
+};
+
+const nhlTeams = Object.entries(NHL_TEAMS)
+  .sort(([, a], [, b]) => a.name.localeCompare(b.name))
+  .map(([tri, t]) => {
+    const mine = nhlRows.filter((r) => r.tri === tri).sort((a, b) => a.start.localeCompare(b.start));
+    const played = regThrough.filter((g) => g.home === tri || g.away === tri);
+    const missingGames = played.filter((g) => !usedIds.has(g.id));
+    const missing = missingGames.map((g) => ({ date: g.date, opponent: NHL_TEAMS[g.home === tri ? g.away : g.home].name, home: g.home === tri }));
+
+    const combos = new Map();
+    for (const r of mine) {
+      const c = combos.get(r.key) ?? {
+        id: "", jerseyName: r.name, edition: r.edition, jerseyKey: r.key, helmet: "", jersey: r.color, pants: "",
+        hexes: [r.hex, r.hex, r.hex], img: r.img, w: 0, l: 0, t: 0, otl: 0, games: [],
+      };
+      c[r.result.toLowerCase()]++;
+      c.games.push({
+        date: r.date, opponent: NHL_TEAMS[r.opp].name, home: r.home, teamScore: r.teamScore, oppScore: r.oppScore,
+        result: r.result === "W" ? "W" : "L", ...(r.extra ? { ot: r.extra } : {}), link: NHL_TRACKER,
+      });
+      combos.set(r.key, c);
+    }
+    const list = [...combos.values()];
+    for (const c of list) c.id = c.jerseyName.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+    const ids = list.map((c) => c.id);
+    if (new Set(ids).size !== ids.length) nhlErrors.push(`${t.name}: two jerseys read the same (${ids.join(", ")})`);
+    list.sort((a, b) => b.games.length - a.games.length || b.w - a.w || a.jerseyName.localeCompare(b.jerseyName));
+
+    const sum = list.reduce((n, c) => n + c.games.length, 0);
+    if (sum !== mine.length) nhlErrors.push(`${t.name}: jersey games ${sum} != counted ${mine.length}`);
+    if (mine.length + missing.length !== played.length)
+      nhlErrors.push(`${t.name}: counted ${mine.length} + unlogged ${missing.length} != ESPN games played ${played.length}`);
+    const dupDates = mine.map((r) => r.date).filter((d, i, a) => a.indexOf(d) !== i);
+    if (dupDates.length) nhlErrors.push(`${t.name}: logged twice on ${dupDates.join(", ")}`);
+
+    const rec = list.reduce((r, c) => ({ w: r.w + c.w, l: r.l + c.l, t: 0, otl: r.otl + c.otl }), { w: 0, l: 0, t: 0, otl: 0 });
+    const fromRows = recOf(mine);
+    if (rec.w !== fromRows.w || rec.l !== fromRows.l || rec.otl !== fromRows.otl) nhlErrors.push(`${t.name}: jersey records do not add up`);
+
+    // Standings guard: our counted games + the unlogged ones must equal ESPN's
+    // standings line, wound back to the cutoff.
+    const s = standings[tri];
+    if (!s) nhlErrors.push(`${t.name}: missing from ESPN standings`);
+    else {
+      const after = regular.filter((g) => g.final && g.date > nhlThrough && (g.home === tri || g.away === tri));
+      const at = { w: s.w, l: s.l, otl: s.otl };
+      for (const g of after) at[espnResult(g, tri).toLowerCase()]--;
+      const unlogged = { w: 0, l: 0, otl: 0 };
+      for (const g of missingGames) unlogged[espnResult(g, tri).toLowerCase()]++;
+      const ours = { w: rec.w + unlogged.w, l: rec.l + unlogged.l, otl: rec.otl + unlogged.otl };
+      if (ours.w !== at.w || ours.l !== at.l || ours.otl !== at.otl)
+        nhlErrors.push(
+          `${t.name}: ours ${ours.w}-${ours.l}-${ours.otl} (incl. ${missingGames.length} unlogged) != ESPN standings ${at.w}-${at.l}-${at.otl} through ${nhlThrough}`,
+        );
+      if (s.gp - after.length !== played.length) nhlErrors.push(`${t.name}: ESPN standings GP ${s.gp} - ${after.length} later != ${played.length} scoreboard games`);
+    }
+
+    return {
+      key: t.key, name: t.name, nickname: t.short, tri,
+      gamesPlayed: played.length, gamesCounted: mine.length, ...rec, missing, combos: list,
+    };
+  });
+
+for (const w of nhlWarn) console.warn("warn (nhl):", w);
+if (nhlPreseason.length) console.log(`NHL: ${nhlPreseason.length} preseason log row(s) excluded:\n  ${nhlPreseason.join("\n  ")}`);
+else console.log("NHL: no preseason rows in the confirmed log (every confirmed row is an ESPN regular-season game)");
+if (nhlErrors.length) {
+  for (const e of nhlErrors) console.error("ERROR (nhl):", e);
+  console.error(`\n${nhlErrors.length} NHL guard failure(s); ${NHL_OUT} not written.`);
+  process.exit(1);
+}
+const nhlOut = {
+  league: "nhl",
+  season: "2026-27",
+  through: nhlThrough,
+  built: new Date().toISOString().slice(0, 10),
+  note: "Built by scripts/build-uniform-records.mjs from scripts/data/nhl-game-log-2026-27.json (confirmed rows, regular season only) and ESPN finals cached in content/data/nhl-scores-2026-27.json. Records are W-L-OTL. Do not hand-edit.",
+  totals: {
+    teams: nhlTeams.length,
+    gamesPlayed: regThrough.length,
+    teamGamesCounted: nhlTeams.reduce((n, t) => n + t.gamesCounted, 0),
+    teamGamesUnlogged: nhlTeams.reduce((n, t) => n + t.missing.length, 0),
+    preseasonExcluded: nhlPreseason,
+  },
+  teams: nhlTeams,
+};
+fs.writeFileSync(NHL_OUT, JSON.stringify(nhlOut, null, 1) + "\n");
+console.log(
+  `${NHL_OUT}: ${nhlTeams.length} teams through ${nhlThrough}, ${regThrough.length} ESPN regular-season finals, ${nhlOut.totals.teamGamesCounted} team-games counted, ${nhlOut.totals.teamGamesUnlogged} unlogged`,
+);

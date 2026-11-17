@@ -47,4 +47,8 @@ export function RecordBadge({ text, tone }: { text: string; tone: "win" | "loss"
   );
 }
 
-export const toneOf = (r: { w: number; l: number }) => (r.w > r.l ? "win" : r.l > r.w ? "loss" : "even") as "win" | "loss" | "even";
+/** NHL overtime / shootout losses count on the losing side of the tone. */
+export const toneOf = (r: { w: number; l: number; otl?: number }) => {
+  const lost = r.l + (r.otl ?? 0);
+  return (r.w > lost ? "win" : lost > r.w ? "loss" : "even") as "win" | "loss" | "even";
+};
