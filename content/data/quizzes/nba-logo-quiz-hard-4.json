@@ -1,0 +1,133 @@
+{
+  "slug": "nba-logo-quiz-hard-4",
+  "league": "nba",
+  "leagueName": "NBA",
+  "title": "NBA Logo Quiz Part 4: Hard Mode",
+  "headline": "NBA Logo Quiz Part 4: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard NBA logo quiz: eight tiny pieces of NBA team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current NBA team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/nba",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every NBA Team Got Its Colors",
+      "href": "/stories/how-every-nba-team-got-its-colors"
+    },
+    {
+      "label": "How Every NBA Team Got Its Name",
+      "href": "/stories/how-every-nba-team-got-its-name"
+    },
+    {
+      "label": "The Best 90s NBA Logos, Ranked",
+      "href": "/stories/best-90s-nba-logos-ranked"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "wsh",
+      "team": "Washington Wizards",
+      "box": [
+        0.1,
+        0.248,
+        0.218,
+        0.366
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "The red stripe at the top of the ball, with navy and silver below.",
+      "fact": "The Wizards' monument ball puts the Washington Monument inside a basketball. It became the center of the primary logo in 2015."
+    },
+    {
+      "abbr": "det",
+      "team": "Detroit Pistons",
+      "box": [
+        0.738,
+        0.624,
+        0.856,
+        0.742
+      ],
+      "piece": "The red, white and blue edge of the ball at its lower right.",
+      "fact": "The Pistons brought back a version of their 1979 to 1996 basketball logo in May 2017, ahead of their move downtown."
+    },
+    {
+      "abbr": "no",
+      "team": "New Orleans Pelicans",
+      "box": [
+        0.196,
+        0.346,
+        0.314,
+        0.464
+      ],
+      "piece": "Gold and navy feathers on the pelican's left wing.",
+      "fact": "The Pelicans' logo was unveiled in January 2013. The pelican is Louisiana's state bird."
+    },
+    {
+      "abbr": "dal",
+      "team": "Dallas Mavericks",
+      "box": [
+        0.168,
+        0.18,
+        0.286,
+        0.298
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "Silver and black strands of the horse's mane.",
+      "fact": "The Mavericks' horse head arrived for the 2001-02 season, replacing the cowboy hat logo the team had used since 1980."
+    },
+    {
+      "abbr": "ind",
+      "team": "Indiana Pacers",
+      "box": [
+        0.134,
+        0.482,
+        0.252,
+        0.6
+      ],
+      "piece": "The gold stripe running across the navy P, with the silver outline.",
+      "fact": "The Pacers' logo puts a gold basketball inside the curve of a navy P."
+    },
+    {
+      "abbr": "sac",
+      "team": "Sacramento Kings",
+      "box": [
+        0.27,
+        0.518,
+        0.388,
+        0.636
+      ],
+      "piece": "Where the purple banner meets the top of the gray basketball.",
+      "fact": "The Kings unveiled their current logo in April 2016, a modern take on the team's classic crown and basketball."
+    },
+    {
+      "abbr": "den",
+      "team": "Denver Nuggets",
+      "box": [
+        0.29,
+        0.1,
+        0.408,
+        0.218
+      ],
+      "piece": "The gold and red rings at the top of the circle, against navy.",
+      "fact": "The Nuggets unveiled their current logos in June 2018, looking back to the team's Mountain Peak and Pickaxe eras."
+    },
+    {
+      "abbr": "phi",
+      "team": "Philadelphia 76ers",
+      "box": [
+        0.274,
+        0.512,
+        0.392,
+        0.63
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "A white stripe through the red 7.",
+      "fact": "The 13 stars over the Sixers' 76 stand for the original American colonies. The current logo set arrived in 2015."
+    }
+  ]
+}

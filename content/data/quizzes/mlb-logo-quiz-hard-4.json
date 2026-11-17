@@ -1,0 +1,133 @@
+{
+  "slug": "mlb-logo-quiz-hard-4",
+  "league": "mlb",
+  "leagueName": "MLB",
+  "title": "MLB Logo Quiz Part 4: Hard Mode",
+  "headline": "MLB Logo Quiz Part 4: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard MLB logo quiz: eight tiny pieces of MLB team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current MLB team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/mlb",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every MLB Team Got Its Colors",
+      "href": "/stories/how-every-mlb-team-got-its-colors"
+    },
+    {
+      "label": "How Every MLB Team Got Its Name",
+      "href": "/stories/how-every-mlb-team-got-its-name"
+    },
+    {
+      "label": "World Series Logo History",
+      "href": "/stories/world-series-logo-history-1986-2025"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "sd",
+      "team": "San Diego Padres",
+      "box": [
+        0.542,
+        0.096,
+        0.662,
+        0.216
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "The top right corner of the S, brown against white.",
+      "fact": "Since 2020 the Padres have worn their SD in the brown and gold of their 1969 beginnings."
+    },
+    {
+      "abbr": "ari",
+      "team": "Arizona Diamondbacks",
+      "box": [
+        0.3,
+        0.648,
+        0.418,
+        0.766
+      ],
+      "piece": "The teal and black zigzag along the inside of the A, with red.",
+      "fact": "The Diamondbacks played their first season in 1998 and won the World Series in 2001."
+    },
+    {
+      "abbr": "stl",
+      "team": "St. Louis Cardinals",
+      "box": [
+        0.718,
+        0.578,
+        0.836,
+        0.696
+      ],
+      "piece": "The right curve of the S, red against white.",
+      "fact": "In 2019 the Cardinals redrew their interlocking STL into a cleaner, sharper version."
+    },
+    {
+      "abbr": "mia",
+      "team": "Miami Marlins",
+      "box": [
+        0.51,
+        0.24,
+        0.628,
+        0.358
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "Part of the marlin's body: black with a slate-blue outline.",
+      "fact": "The team became the Miami Marlins in 2012, when it moved into its new ballpark."
+    },
+    {
+      "abbr": "wsh",
+      "team": "Washington Nationals",
+      "box": [
+        0.704,
+        0.07,
+        0.822,
+        0.188
+      ],
+      "piece": "The top of the curly W: red inside a navy outline.",
+      "fact": "The curly W was modeled on the cap of the Washington Senators, the city's last team before the Nationals."
+    },
+    {
+      "abbr": "sf",
+      "team": "San Francisco Giants",
+      "box": [
+        0.626,
+        0.06,
+        0.744,
+        0.178
+      ],
+      "piece": "The top right serif of the orange S.",
+      "fact": "The interlocking SF debuted at the Giants' first San Francisco home opener in April 1958, and the cap is nearly unchanged since."
+    },
+    {
+      "abbr": "tb",
+      "team": "Tampa Bay Rays",
+      "box": [
+        0.484,
+        0.118,
+        0.602,
+        0.236
+      ],
+      "piece": "The end of the T's crossbar, navy with a light blue shadow.",
+      "fact": "The Rays dropped Devil from their name for 2008 and switched to navy and light blue."
+    },
+    {
+      "abbr": "tor",
+      "team": "Toronto Blue Jays",
+      "box": [
+        0.428,
+        0.322,
+        0.546,
+        0.44
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "Navy, blue and white feathers behind the bird's eye.",
+      "fact": "The red maple leaf came back for 2012, when the Blue Jays updated their original mark after dropping the leaf in 2004."
+    }
+  ]
+}

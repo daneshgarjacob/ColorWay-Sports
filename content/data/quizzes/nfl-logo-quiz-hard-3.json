@@ -1,0 +1,133 @@
+{
+  "slug": "nfl-logo-quiz-hard-3",
+  "league": "nfl",
+  "leagueName": "NFL",
+  "title": "NFL Logo Quiz Part 3: Hard Mode",
+  "headline": "NFL Logo Quiz Part 3: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard NFL logo quiz: eight tiny pieces of NFL team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current NFL team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/nfl",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every NFL Team Got Its Colors",
+      "href": "/stories/how-every-nfl-team-got-its-colors"
+    },
+    {
+      "label": "How Every NFL Team Got Its Name",
+      "href": "/stories/how-every-nfl-team-got-its-name"
+    },
+    {
+      "label": "The NFL Logos That Have Gone Longest Without Changing",
+      "href": "/stories/nfl-logo-longest-without-changing"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "jax",
+      "team": "Jacksonville Jaguars",
+      "box": [
+        0.548,
+        0.174,
+        0.668,
+        0.294
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "Black spots on the gold coat of the jaguar's head.",
+      "fact": "The Jaguars unveiled this redrawn jaguar head on February 5, 2013, replacing the original 1995 version."
+    },
+    {
+      "abbr": "ten",
+      "team": "Tennessee Titans",
+      "box": [
+        0.172,
+        0.12,
+        0.29,
+        0.238
+      ],
+      "piece": "The red ring around the logo and the edge of the light blue circle.",
+      "fact": "The Titans unveiled a new logo in March 2026. It keeps the T and the three stars for the state but drops the flames from the 1999 logo."
+    },
+    {
+      "abbr": "ne",
+      "team": "New England Patriots",
+      "box": [
+        0.468,
+        0.34,
+        0.588,
+        0.46
+      ],
+      "piece": "Red and white stripes running into the navy of the Patriot's hat.",
+      "fact": "The Flying Elvis logo debuted for the 1993 season. NFL Properties built it in a few months to replace Pat Patriot."
+    },
+    {
+      "abbr": "dal",
+      "team": "Dallas Cowboys",
+      "box": [
+        0.438,
+        0.658,
+        0.556,
+        0.776
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "The white inner border where two points of the star meet at the bottom.",
+      "fact": "The Cowboys' star was a plain solid shape in 1960. The white line and blue border around it were added in 1964."
+    },
+    {
+      "abbr": "wsh",
+      "team": "Washington Commanders",
+      "box": [
+        0.082,
+        0.27,
+        0.202,
+        0.39
+      ],
+      "piece": "The gold border at the top left corner of the W, against burgundy.",
+      "fact": "Washington introduced this W on February 2, 2022, the day the team became the Commanders."
+    },
+    {
+      "abbr": "nyj",
+      "team": "New York Jets",
+      "box": [
+        0.501,
+        0.398,
+        0.62,
+        0.517
+      ],
+      "piece": "The back of the green jet that flies above the lettering, with the tops of the letters below.",
+      "fact": "In April 2024 the Jets brought back a modern version of their 1978 to 1997 logo, with a jet flying above the word JETS."
+    },
+    {
+      "abbr": "phi",
+      "team": "Philadelphia Eagles",
+      "box": [
+        0.542,
+        0.402,
+        0.66,
+        0.52
+      ],
+      "piece": "Silver, black and white feathers on the back of the eagle's head.",
+      "fact": "The Eagles introduced this eagle head in 1996, the same year they switched from kelly green to midnight green."
+    },
+    {
+      "abbr": "nyg",
+      "team": "New York Giants",
+      "box": [
+        0.708,
+        0.6,
+        0.826,
+        0.718
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "The inside corner where the y's stem curves into its long tail.",
+      "fact": "The lowercase ny first went on Giants helmets in 1961 and was dropped in 1975. An updated version came back as the primary logo in 2000."
+    }
+  ]
+}

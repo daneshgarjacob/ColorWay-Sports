@@ -1,0 +1,133 @@
+{
+  "slug": "nba-logo-quiz-hard-3",
+  "league": "nba",
+  "leagueName": "NBA",
+  "title": "NBA Logo Quiz Part 3: Hard Mode",
+  "headline": "NBA Logo Quiz Part 3: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard NBA logo quiz: eight tiny pieces of NBA team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current NBA team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/nba",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every NBA Team Got Its Colors",
+      "href": "/stories/how-every-nba-team-got-its-colors"
+    },
+    {
+      "label": "How Every NBA Team Got Its Name",
+      "href": "/stories/how-every-nba-team-got-its-name"
+    },
+    {
+      "label": "The Best 90s NBA Logos, Ranked",
+      "href": "/stories/best-90s-nba-logos-ranked"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "orl",
+      "team": "Orlando Magic",
+      "box": [
+        0.252,
+        0.41,
+        0.37,
+        0.528
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "One of the small blue stars trailing the ball, with its black outline.",
+      "fact": "The Magic unveiled this logo on June 3, 2025, bringing back the star from their 1990s look with a trail of stars behind the ball."
+    },
+    {
+      "abbr": "hou",
+      "team": "Houston Rockets",
+      "box": [
+        0.7,
+        0.474,
+        0.818,
+        0.592
+      ],
+      "piece": "The right side of the red ring around the R, with its gold edge.",
+      "fact": "The Rockets introduced their red R in 2003. It is drawn to look like a rocket with exhaust trails."
+    },
+    {
+      "abbr": "cha",
+      "team": "Charlotte Hornets",
+      "box": [
+        0.036,
+        0.076,
+        0.16,
+        0.2
+      ],
+      "piece": "The tip of the hornet's left wing: purple, teal and silver.",
+      "fact": "Michael Jordan unveiled the current Hornets logo in December 2013. It brought back the purple and teal of the original 1988 Hornets."
+    },
+    {
+      "abbr": "tor",
+      "team": "Toronto Raptors",
+      "box": [
+        0.586,
+        0.156,
+        0.704,
+        0.274
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "The torn edge of one claw mark across the red ball.",
+      "fact": "The Raptors' claw-marked basketball was announced in December 2014 and designed by Sid Lee, the agency behind We The North."
+    },
+    {
+      "abbr": "min",
+      "team": "Minnesota Timberwolves",
+      "box": [
+        0.342,
+        0.052,
+        0.46,
+        0.17
+      ],
+      "piece": "The green outer ring above the blue and silver top of the circle.",
+      "fact": "The Timberwolves unveiled this logo in April 2017. It shows a howling wolf and a North Star for Minnesota."
+    },
+    {
+      "abbr": "lac",
+      "team": "LA Clippers",
+      "box": [
+        0.342,
+        0.616,
+        0.46,
+        0.734
+      ],
+      "piece": "White lines from the bottom of the ship, against navy.",
+      "fact": "The Clippers unveiled this logo in February 2024: a ship inside a C ringed by compass points, a nod to the nautical roots of the name."
+    },
+    {
+      "abbr": "phx",
+      "team": "Phoenix Suns",
+      "box": [
+        0.244,
+        0.484,
+        0.362,
+        0.602
+      ],
+      "piece": "The gold streaks trailing behind the ball on the left.",
+      "fact": "The Suns' basketball sunburst took its current form in June 2013, the primary logo's first change in 13 years."
+    },
+    {
+      "abbr": "sa",
+      "team": "San Antonio Spurs",
+      "box": [
+        0.52,
+        0.342,
+        0.638,
+        0.46
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "A silver and black corner of the spur's arm.",
+      "fact": "The spur in the Spurs' logo comes from the team's original mark, drawn by San Antonio artist Finis Collins in the 1970s."
+    }
+  ]
+}

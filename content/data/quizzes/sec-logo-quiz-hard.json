@@ -1,0 +1,133 @@
+{
+  "slug": "sec-logo-quiz-hard",
+  "league": "college",
+  "leagueName": "SEC",
+  "title": "SEC Logo Quiz: Hard Mode",
+  "headline": "Can You Name The SEC School From A Tiny Piece Of Its Logo?",
+  "description": "A hard SEC logo quiz: eight tiny pieces of SEC school logos, about 2% of each logo. Guess the school, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current SEC school logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one school.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/sec",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every College Football Team Got Its Colors",
+      "href": "/stories/how-every-college-football-team-got-its-colors"
+    },
+    {
+      "label": "How Every College Football Team Got Its Name",
+      "href": "/stories/how-every-college-football-team-got-its-name"
+    },
+    {
+      "label": "SEC Football Uniforms, Ranked",
+      "href": "/stories/sec-football-uniforms-ranked-2026"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "kentucky",
+      "team": "Kentucky Wildcats",
+      "box": [
+        0.216,
+        0.75,
+        0.334,
+        0.868
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "A royal blue corner with a white inline, at the bottom of the K.",
+      "fact": "Kentucky's UK monogram is part of the identity it unveiled with Nike in February 2016."
+    },
+    {
+      "abbr": "auburn",
+      "team": "Auburn Tigers",
+      "box": [
+        0.296,
+        0.652,
+        0.414,
+        0.77
+      ],
+      "piece": "Navy and the orange outline along the bottom curve of the U.",
+      "fact": "In 2019 Auburn tightened the space between the A and the U of its interlocking logo."
+    },
+    {
+      "abbr": "oklahoma",
+      "team": "Oklahoma Sooners",
+      "box": [
+        0.24,
+        0.45,
+        0.358,
+        0.568
+      ],
+      "piece": "Crimson with a thin white gap, where the O and U overlap.",
+      "fact": "Oklahoma has worn the interlocking OU on a crimson helmet since the 1966 season. Before that the Sooners wore white helmets."
+    },
+    {
+      "abbr": "florida",
+      "team": "Florida Gators",
+      "box": [
+        0.492,
+        0.222,
+        0.61,
+        0.34
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "The orange, white and blue stripes above the gator's green head.",
+      "fact": "Florida first painted the Gator head at midfield of its stadium in 2012, replacing the F."
+    },
+    {
+      "abbr": "tennessee",
+      "team": "Tennessee Volunteers",
+      "box": [
+        0.168,
+        0.18,
+        0.286,
+        0.298
+      ],
+      "piece": "The curve under the left arm of the orange T.",
+      "fact": "The T first went on Tennessee helmets in 1964, when coach Doug Dickey swapped the numbers on the helmets for it."
+    },
+    {
+      "abbr": "arkansas",
+      "team": "Arkansas Razorbacks",
+      "box": [
+        0.202,
+        0.558,
+        0.32,
+        0.676
+      ],
+      "piece": "A front leg of the running hog, cardinal with a black outline.",
+      "fact": "The running hog traces back to the first Running Razorback, drawn by student artist Hank Hancock in 1924."
+    },
+    {
+      "abbr": "lsu",
+      "team": "LSU Tigers",
+      "box": [
+        0.37,
+        0.35,
+        0.488,
+        0.468
+      ],
+      "piece": "Purple with a gold outline, at the top of the S.",
+      "fact": "LSU's purple and gold go back to 1893, when coach Charles Coates bought purple and gold Mardi Gras ribbon for a football game."
+    },
+    {
+      "abbr": "alabama",
+      "team": "Alabama Crimson Tide",
+      "box": [
+        0.366,
+        0.478,
+        0.49,
+        0.602
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "The left end of the crossbar in the crimson script A.",
+      "fact": "Alabama's brand rules say the script A may start a word but may never sit in the middle or at the end of one."
+    }
+  ]
+}

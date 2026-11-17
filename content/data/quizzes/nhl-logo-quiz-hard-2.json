@@ -1,0 +1,133 @@
+{
+  "slug": "nhl-logo-quiz-hard-2",
+  "league": "nhl",
+  "leagueName": "NHL",
+  "title": "NHL Logo Quiz Part 2: Hard Mode",
+  "headline": "NHL Logo Quiz Part 2: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard NHL logo quiz: eight tiny pieces of NHL team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current NHL team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/nhl",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every NHL Team Got Its Name",
+      "href": "/stories/how-every-nhl-team-got-its-name"
+    },
+    {
+      "label": "Stanley Cup Final Logo History",
+      "href": "/stories/stanley-cup-final-logo-history-1989-2026"
+    },
+    {
+      "label": "Boston Bruins Uniform History",
+      "href": "/stories/boston-bruins-uniform-history"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "buf",
+      "team": "Buffalo Sabres",
+      "box": [
+        0.276,
+        0.732,
+        0.394,
+        0.85
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "The gold hand guard of one of the crossed sabres, against blue.",
+      "fact": "The buffalo and crossed sabres went back to royal blue and gold for the 2020-21 season, ending the navy look the Sabres wore from 2006."
+    },
+    {
+      "abbr": "cgy",
+      "team": "Calgary Flames",
+      "box": [
+        0.24,
+        0.516,
+        0.358,
+        0.634
+      ],
+      "piece": "A gold-edged tongue of flame, against red.",
+      "fact": "When the team moved from Atlanta to Calgary in 1980, it kept the Flames name and changed the logo from a flaming A to a flaming C."
+    },
+    {
+      "abbr": "car",
+      "team": "Carolina Hurricanes",
+      "box": [
+        0.122,
+        0.662,
+        0.24,
+        0.78
+      ],
+      "piece": "The silver and black swirl at the lower left of the storm.",
+      "fact": "The Hurricanes' logo is a version of the weather symbol for a hurricane, and the eye of the storm looks like a puck."
+    },
+    {
+      "abbr": "ana",
+      "team": "Anaheim Ducks",
+      "box": [
+        0.3,
+        0.63,
+        0.418,
+        0.748
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "Part of a hockey stick: black, white and orange stripes.",
+      "fact": "The Ducks unveiled a refreshed version of the 1993 Mighty Ducks duck face at the 2024 NHL Draft, in a new orange-heavy palette."
+    },
+    {
+      "abbr": "col",
+      "team": "Colorado Avalanche",
+      "box": [
+        0.754,
+        0.65,
+        0.872,
+        0.768
+      ],
+      "piece": "Blue and white swirl at the lower right, near the puck.",
+      "fact": "The Avalanche logo dates to the team's first season in 1995. The A doubles as a mountain peak, wrapped in a swirl of snow led by a puck."
+    },
+    {
+      "abbr": "dal",
+      "team": "Dallas Stars",
+      "box": [
+        0.77,
+        0.398,
+        0.888,
+        0.516
+      ],
+      "piece": "The green edge and black of the star's right point.",
+      "fact": "The Stars unveiled a D inside a star in June 2013, along with the new Victory Green color."
+    },
+    {
+      "abbr": "cbj",
+      "team": "Columbus Blue Jackets",
+      "box": [
+        0.394,
+        0.2,
+        0.512,
+        0.318
+      ],
+      "piece": "A silver star point against navy, with a red stripe.",
+      "fact": "The Blue Jackets' logo since 2007 is the Ohio state flag curled into a C. The star in the middle marks Columbus as the state capital."
+    },
+    {
+      "abbr": "bos",
+      "team": "Boston Bruins",
+      "box": [
+        0.304,
+        0.226,
+        0.422,
+        0.344
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "The gold outline at the top left corner of the B, with black inside.",
+      "fact": "The Bruins unveiled a refreshed spoked B in June 2025, with dark and light versions for home and road."
+    }
+  ]
+}

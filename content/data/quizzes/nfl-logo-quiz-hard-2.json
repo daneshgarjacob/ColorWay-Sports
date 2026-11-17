@@ -1,0 +1,133 @@
+{
+  "slug": "nfl-logo-quiz-hard-2",
+  "league": "nfl",
+  "leagueName": "NFL",
+  "title": "NFL Logo Quiz Part 2: Hard Mode",
+  "headline": "NFL Logo Quiz Part 2: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard NFL logo quiz: eight tiny pieces of NFL team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current NFL team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/nfl",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every NFL Team Got Its Colors",
+      "href": "/stories/how-every-nfl-team-got-its-colors"
+    },
+    {
+      "label": "How Every NFL Team Got Its Name",
+      "href": "/stories/how-every-nfl-team-got-its-name"
+    },
+    {
+      "label": "The NFL Logos That Have Gone Longest Without Changing",
+      "href": "/stories/nfl-logo-longest-without-changing"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "pit",
+      "team": "Pittsburgh Steelers",
+      "box": [
+        0.106,
+        0.146,
+        0.226,
+        0.266
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "The gray ring around the logo, with its thin black edge.",
+      "fact": "The Steelers' logo is based on the steel industry's Steelmark and was first worn in 1962. It sits only on the right side of the helmet."
+    },
+    {
+      "abbr": "ind",
+      "team": "Indianapolis Colts",
+      "box": [
+        0.132,
+        0.71,
+        0.252,
+        0.83
+      ],
+      "piece": "One of the white nail holes in the blue horseshoe.",
+      "fact": "The horseshoe made the move with the Colts from Baltimore to Indianapolis in 1984 and is still the team's logo."
+    },
+    {
+      "abbr": "lv",
+      "team": "Las Vegas Raiders",
+      "box": [
+        0.604,
+        0.37,
+        0.722,
+        0.488
+      ],
+      "piece": "The hilt of one of the crossed swords, beside the silver helmet on the black shield.",
+      "fact": "Al Davis added the shield logo after taking over in 1963. It shows a helmeted pirate with an eye patch over two crossed swords."
+    },
+    {
+      "abbr": "lac",
+      "team": "Los Angeles Chargers",
+      "box": [
+        0.1,
+        0.474,
+        0.22,
+        0.594
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "The left tip of the lightning bolt, gold inside powder blue.",
+      "fact": "The Chargers updated their bolt in March 2020, before moving into SoFi Stadium, dropping the navy outline and leaning into powder blue."
+    },
+    {
+      "abbr": "den",
+      "team": "Denver Broncos",
+      "box": [
+        0.706,
+        0.39,
+        0.824,
+        0.508
+      ],
+      "piece": "The horse's orange eye, inside the navy outline of its head.",
+      "fact": "The Broncos unveiled this horse head on February 4, 1997. It replaced the old orange horse and moved the team to navy blue."
+    },
+    {
+      "abbr": "cin",
+      "team": "Cincinnati Bengals",
+      "box": [
+        0.464,
+        0.53,
+        0.582,
+        0.648
+      ],
+      "piece": "A white corner inside the B, between a black and an orange stripe.",
+      "fact": "The tiger-striped B became the Bengals' primary logo in 2004, replacing the leaping tiger the team had used since 1997."
+    },
+    {
+      "abbr": "bal",
+      "team": "Baltimore Ravens",
+      "box": [
+        0.272,
+        0.284,
+        0.39,
+        0.402
+      ],
+      "piece": "Gold, black and purple feathers at the top of the raven's head.",
+      "fact": "The Ravens switched to this raven head in 1999 after an artist won a lawsuit over their original Flying B shield logo."
+    },
+    {
+      "abbr": "cle",
+      "team": "Cleveland Browns",
+      "box": [
+        0.816,
+        0.69,
+        0.934,
+        0.808
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "The facemask bars, white with brown outlines, at the front of the helmet.",
+      "fact": "The Browns are the only NFL team with no logo on the helmet, so the plain orange helmet is the logo. In 2015 it got a brighter orange and a brown facemask."
+    }
+  ]
+}

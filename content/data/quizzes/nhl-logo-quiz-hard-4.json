@@ -1,0 +1,133 @@
+{
+  "slug": "nhl-logo-quiz-hard-4",
+  "league": "nhl",
+  "leagueName": "NHL",
+  "title": "NHL Logo Quiz Part 4: Hard Mode",
+  "headline": "NHL Logo Quiz Part 4: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard NHL logo quiz: eight tiny pieces of NHL team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current NHL team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/nhl",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every NHL Team Got Its Name",
+      "href": "/stories/how-every-nhl-team-got-its-name"
+    },
+    {
+      "label": "Stanley Cup Final Logo History",
+      "href": "/stories/stanley-cup-final-logo-history-1989-2026"
+    },
+    {
+      "label": "Boston Bruins Uniform History",
+      "href": "/stories/boston-bruins-uniform-history"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "tb",
+      "team": "Tampa Bay Lightning",
+      "box": [
+        0.19,
+        0.626,
+        0.308,
+        0.744
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "A notch in the navy ring, near the bottom of the bolt.",
+      "fact": "The Lightning unveiled their current bolt in January 2011, dropping black and silver for a simple blue and white look."
+    },
+    {
+      "abbr": "stl",
+      "team": "St. Louis Blues",
+      "box": [
+        0.778,
+        0.168,
+        0.896,
+        0.286
+      ],
+      "piece": "The gold and blue stripes at the tip of the note's wing.",
+      "fact": "The blue note has been the team's emblem since 1967. The club is named after W.C. Handy's song St. Louis Blues."
+    },
+    {
+      "abbr": "sj",
+      "team": "San Jose Sharks",
+      "box": [
+        0.7,
+        0.34,
+        0.818,
+        0.458
+      ],
+      "piece": "A teal, orange and black edge of the triangle behind the shark.",
+      "fact": "The Sharks updated their original 1991 logo in 2007. The shark still bites down on a hockey stick."
+    },
+    {
+      "abbr": "phi",
+      "team": "Philadelphia Flyers",
+      "box": [
+        0.492,
+        0.422,
+        0.612,
+        0.542
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "White cutting into black, with the edge of the orange dot.",
+      "fact": "Sam Ciccone designed the winged P in 1967. The orange dot is a puck, and the logo has stayed essentially unchanged since."
+    },
+    {
+      "abbr": "vgk",
+      "team": "Vegas Golden Knights",
+      "box": [
+        0.594,
+        0.1,
+        0.712,
+        0.218
+      ],
+      "piece": "The gold border and charcoal of the helmet at the top right.",
+      "fact": "The team revealed its knight's helmet logo in November 2016. The opening in the helmet forms a V for Vegas."
+    },
+    {
+      "abbr": "ott",
+      "team": "Ottawa Senators",
+      "box": [
+        0.218,
+        0.49,
+        0.336,
+        0.608
+      ],
+      "piece": "Gold and white stripes in the black streaks trailing the helmet.",
+      "fact": "For 2020-21 the Senators went back to a flat centurion in profile, close to their 1997 to 2007 logo."
+    },
+    {
+      "abbr": "wsh",
+      "team": "Washington Capitals",
+      "box": [
+        0.56,
+        0.6,
+        0.68,
+        0.72
+      ],
+      "piece": "The bottom of the navy stick, with the tip of the red puck.",
+      "fact": "The Capitals' wordmark returned in 2007. As in the original 1974 look, the t is a hockey stick with a puck."
+    },
+    {
+      "abbr": "utah",
+      "team": "Utah Mammoth",
+      "box": [
+        0.204,
+        0.278,
+        0.322,
+        0.396
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "Light blue and black stripes on the mammoth's head.",
+      "fact": "The Mammoth logo was unveiled on May 7, 2025. The curved tusk forms a U for Utah."
+    }
+  ]
+}

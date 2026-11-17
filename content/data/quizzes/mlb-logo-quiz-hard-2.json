@@ -1,0 +1,133 @@
+{
+  "slug": "mlb-logo-quiz-hard-2",
+  "league": "mlb",
+  "leagueName": "MLB",
+  "title": "MLB Logo Quiz Part 2: Hard Mode",
+  "headline": "MLB Logo Quiz Part 2: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard MLB logo quiz: eight tiny pieces of MLB team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current MLB team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/mlb",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every MLB Team Got Its Colors",
+      "href": "/stories/how-every-mlb-team-got-its-colors"
+    },
+    {
+      "label": "How Every MLB Team Got Its Name",
+      "href": "/stories/how-every-mlb-team-got-its-name"
+    },
+    {
+      "label": "World Series Logo History",
+      "href": "/stories/world-series-logo-history-1986-2025"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "cin",
+      "team": "Cincinnati Reds",
+      "box": [
+        0.684,
+        0.702,
+        0.802,
+        0.82
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "The black shadow under the bottom of the red C.",
+      "fact": "The Reds first wore the wishbone C in 1905 and have worn it in some form every season since 1909."
+    },
+    {
+      "abbr": "bal",
+      "team": "Baltimore Orioles",
+      "box": [
+        0.154,
+        0.362,
+        0.274,
+        0.482
+      ],
+      "piece": "Orange, black and a white highlight at the back of the bird's cap.",
+      "fact": "The cartoon bird came back to Orioles caps in 2012, a new drawing that combined parts of the 1970 and 1983 birds."
+    },
+    {
+      "abbr": "ari",
+      "team": "Arizona Diamondbacks",
+      "box": [
+        0.094,
+        0.76,
+        0.212,
+        0.878
+      ],
+      "piece": "The teal outline, black and red at the bottom left of the A.",
+      "fact": "The Sedona Red A with a teal outline returned to the home jersey in the 2024 uniform set."
+    },
+    {
+      "abbr": "hou",
+      "team": "Houston Astros",
+      "box": [
+        0.272,
+        0.052,
+        0.39,
+        0.17
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "The orange ring at the top of the circle, against navy.",
+      "fact": "The star with a block H returned for 2013. It is the mark the Astros wore on their caps from 1965 to 1993."
+    },
+    {
+      "abbr": "chw",
+      "team": "Chicago White Sox",
+      "box": [
+        0.196,
+        0.52,
+        0.314,
+        0.638
+      ],
+      "piece": "A black curve with its silver outline, from the bottom of the S.",
+      "fact": "The Old English Sox was the star of the White Sox's 1990 rebrand and became a hip-hop staple after Ice Cube wore the cap."
+    },
+    {
+      "abbr": "col",
+      "team": "Colorado Rockies",
+      "box": [
+        0.698,
+        0.804,
+        0.816,
+        0.922
+      ],
+      "piece": "The silver and black foot of the R.",
+      "fact": "The Rockies unveiled their name and logo on July 5, 1991, before their first season in 1993."
+    },
+    {
+      "abbr": "cle",
+      "team": "Cleveland Guardians",
+      "box": [
+        0.202,
+        0.752,
+        0.32,
+        0.87
+      ],
+      "piece": "The bottom left corner of the C: red with a navy outline.",
+      "fact": "The Diamond C grew out of the old Block C. Its point echoes the diamond shapes on top of the Guardians of Traffic statues."
+    },
+    {
+      "abbr": "det",
+      "team": "Detroit Tigers",
+      "box": [
+        0.24,
+        0.64,
+        0.36,
+        0.76
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "A curl of the Olde English D, navy against white.",
+      "fact": "In 2018 the Tigers made the cap's Olde English D the official logo and put it on the home jersey too, so the two finally match."
+    }
+  ]
+}

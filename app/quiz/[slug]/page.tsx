@@ -183,8 +183,8 @@ export default async function QuizPage({ params }: { params: Promise<{ slug: str
             <p className="mt-3 mb-0 text-[18px] leading-[1.6] text-[#333]">
               Each piece is a square about 13% as wide as the full logo, roughly 2% of its area, cut from the
               team&apos;s logo. We pick pieces that stay away from each logo&apos;s signature shape, but every one keeps
-              a real detail: a color pair, a curve or an edge you can only find on that team&apos;s logo. It is the same set of pieces as our {quiz.leagueName} logo quiz on
-              TikTok, @colorway.sports.
+              a real detail: a color pair, a curve or an edge you can only find on that team&apos;s logo. We post logo quizzes on
+              TikTok too, at @colorway.sports.
             </p>
           </section>
         </div>

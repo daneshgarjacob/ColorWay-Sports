@@ -1,0 +1,133 @@
+{
+  "slug": "big-ten-logo-quiz-hard",
+  "league": "college",
+  "leagueName": "Big Ten",
+  "title": "Big Ten Logo Quiz: Hard Mode",
+  "headline": "Can You Name The Big Ten School From A Tiny Piece Of Its Logo?",
+  "description": "A hard Big Ten logo quiz: eight tiny pieces of Big Ten school logos, about 2% of each logo. Guess the school, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current Big Ten school logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one school.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/bigten",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every College Football Team Got Its Colors",
+      "href": "/stories/how-every-college-football-team-got-its-colors"
+    },
+    {
+      "label": "How Every College Football Team Got Its Name",
+      "href": "/stories/how-every-college-football-team-got-its-name"
+    },
+    {
+      "label": "Big Ten Football Uniforms, Ranked",
+      "href": "/stories/big-ten-football-uniforms-ranked-2026"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "illinois",
+      "team": "Illinois Fighting Illini",
+      "box": [
+        0.628,
+        0.632,
+        0.746,
+        0.75
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "The navy outline curving into the bottom right of the orange I.",
+      "fact": "In its 2014 Nike refresh, Illinois kept the Block I as its primary logo and adjusted its proportions."
+    },
+    {
+      "abbr": "usc",
+      "team": "USC Trojans",
+      "box": [
+        0.516,
+        0.22,
+        0.634,
+        0.338
+      ],
+      "piece": "The gold outline between cardinal shapes, where the S meets the C.",
+      "fact": "USC says an interlocking SC has been in use for more than 100 years. In 2010 the Supreme Court turned away South Carolina's bid to trademark its own SC."
+    },
+    {
+      "abbr": "rutgers",
+      "team": "Rutgers Scarlet Knights",
+      "box": [
+        0.778,
+        0.166,
+        0.896,
+        0.284
+      ],
+      "piece": "The scarlet curve of the R's bowl, with its black outline.",
+      "fact": "When Rutgers and Nike refreshed the brand in 2016, the athletic director said of the Block R: that is untouched."
+    },
+    {
+      "abbr": "michigan",
+      "team": "Michigan Wolverines",
+      "box": [
+        0.044,
+        0.56,
+        0.162,
+        0.678
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "A maize corner with its navy outline, on the left side of the M.",
+      "fact": "The Block M is Michigan's primary athletics logo, in the school's maize and blue."
+    },
+    {
+      "abbr": "maryland",
+      "team": "Maryland Terrapins",
+      "box": [
+        0.294,
+        0.502,
+        0.412,
+        0.62
+      ],
+      "piece": "Red with gold and black outlines, inside the left leg of the M.",
+      "fact": "Maryland's M with the state flag bar first appeared in 2013. The flag bar honors Maryland's place as the state's flagship university."
+    },
+    {
+      "abbr": "wisconsin",
+      "team": "Wisconsin Badgers",
+      "box": [
+        0.072,
+        0.492,
+        0.19,
+        0.61
+      ],
+      "piece": "The black shadow and red at the left edge of the W.",
+      "fact": "Barry Alvarez picked the Motion W, drawn by Rayovac artist Rick Suchanek, as Wisconsin's helmet logo in the early 1990s."
+    },
+    {
+      "abbr": "northwestern",
+      "team": "Northwestern Wildcats",
+      "box": [
+        0.218,
+        0.546,
+        0.336,
+        0.664
+      ],
+      "piece": "Purple with a thin outline, where the N's diagonal meets its left stem.",
+      "fact": "Northwestern's trademark rules say that when an N stands alone, it must be the university's own stylized N."
+    },
+    {
+      "abbr": "ucla",
+      "team": "UCLA Bruins",
+      "box": [
+        0.064,
+        0.546,
+        0.182,
+        0.664
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "A blue curve from the bottom of the U in the script.",
+      "fact": "UCLA simplified its script logo in 2017 and keeps it mainly for athletics."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "nhl-logo-quiz-hard-3",
+  "league": "nhl",
+  "leagueName": "NHL",
+  "title": "NHL Logo Quiz Part 3: Hard Mode",
+  "headline": "NHL Logo Quiz Part 3: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard NHL logo quiz: eight tiny pieces of NHL team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current NHL team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/nhl",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every NHL Team Got Its Name",
+      "href": "/stories/how-every-nhl-team-got-its-name"
+    },
+    {
+      "label": "Stanley Cup Final Logo History",
+      "href": "/stories/stanley-cup-final-logo-history-1989-2026"
+    },
+    {
+      "label": "Boston Bruins Uniform History",
+      "href": "/stories/boston-bruins-uniform-history"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "fla",
+      "team": "Florida Panthers",
+      "box": [
+        0.626,
+        0.316,
+        0.744,
+        0.434
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "The gold outline of the panther's head, against navy.",
+      "fact": "In 2016 the Panthers put their cat inside a shield inspired by the patch of the Army's 101st Airborne Division, in which owner Vinnie Viola served."
+    },
+    {
+      "abbr": "edm",
+      "team": "Edmonton Oilers",
+      "box": [
+        0.1,
+        0.6,
+        0.22,
+        0.72
+      ],
+      "piece": "Two navy rings with white between them, at the lower left of the circle.",
+      "fact": "For 2022-23 the Oilers made royal blue, the color of their 1980s Stanley Cup teams, their main color again."
+    },
+    {
+      "abbr": "mtl",
+      "team": "Montreal Canadiens",
+      "box": [
+        0.296,
+        0.364,
+        0.414,
+        0.482
+      ],
+      "piece": "The red, white and blue where the H meets the top of the C.",
+      "fact": "The H stands for hockey, from Club de Hockey Canadien. The crest's current shape dates to 1956."
+    },
+    {
+      "abbr": "nsh",
+      "team": "Nashville Predators",
+      "box": [
+        0.534,
+        0.626,
+        0.652,
+        0.744
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "Gold, white and navy edges along the bottom of the cat's jaw.",
+      "fact": "The saber-toothed cat honors a fang and leg bone found in 1971 under a downtown Nashville building site."
+    },
+    {
+      "abbr": "nj",
+      "team": "New Jersey Devils",
+      "box": [
+        0.496,
+        0.718,
+        0.614,
+        0.836
+      ],
+      "piece": "The red curve at the bottom of the J, with its black outline.",
+      "fact": "The Devils' logo joins an N and a J, with horns on the N and a pointed tail on the J. Black replaced the original green trim in 1992."
+    },
+    {
+      "abbr": "nyi",
+      "team": "New York Islanders",
+      "box": [
+        0.546,
+        0.516,
+        0.664,
+        0.634
+      ],
+      "piece": "The orange stick and the top of the puck, against blue.",
+      "fact": "The Islanders' crest shows a map of Long Island and has been the team's logo since the franchise began in 1972."
+    },
+    {
+      "abbr": "la",
+      "team": "Los Angeles Kings",
+      "box": [
+        0.02,
+        0.42,
+        0.14,
+        0.54
+      ],
+      "piece": "The left point of the chevron: black outline and silver.",
+      "fact": "The Kings unveiled their current logo in June 2024. It brings back the Gretzky-era chevron with an updated version of the 1967 crown."
+    },
+    {
+      "abbr": "nyr",
+      "team": "New York Rangers",
+      "box": [
+        0.82,
+        0.36,
+        0.94,
+        0.48
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "The red field, a blue stripe and the white edge at the right side of the shield.",
+      "fact": "The lettering on the Rangers' shield comes from the club's original 1926 crest."
+    }
+  ]
+}

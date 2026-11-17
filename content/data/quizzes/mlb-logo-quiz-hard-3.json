@@ -1,0 +1,133 @@
+{
+  "slug": "mlb-logo-quiz-hard-3",
+  "league": "mlb",
+  "leagueName": "MLB",
+  "title": "MLB Logo Quiz Part 3: Hard Mode",
+  "headline": "MLB Logo Quiz Part 3: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard MLB logo quiz: eight tiny pieces of MLB team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current MLB team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/mlb",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every MLB Team Got Its Colors",
+      "href": "/stories/how-every-mlb-team-got-its-colors"
+    },
+    {
+      "label": "How Every MLB Team Got Its Name",
+      "href": "/stories/how-every-mlb-team-got-its-name"
+    },
+    {
+      "label": "World Series Logo History",
+      "href": "/stories/world-series-logo-history-1986-2025"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "kc",
+      "team": "Kansas City Royals",
+      "box": [
+        0.058,
+        0.614,
+        0.176,
+        0.732
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "A navy serif at the bottom of the K.",
+      "fact": "For years the KC lived only on the cap. In 2014 it went on a regular-season jersey for the first time in franchise history."
+    },
+    {
+      "abbr": "laa",
+      "team": "Los Angeles Angels",
+      "box": [
+        0.224,
+        0.844,
+        0.342,
+        0.962
+      ],
+      "piece": "The bottom left foot of the A: navy outline, red and darker red.",
+      "fact": "The current red A with a halo debuted in 2005, when the club dropped Anaheim from its logo."
+    },
+    {
+      "abbr": "nym",
+      "team": "New York Mets",
+      "box": [
+        0.7,
+        0.61,
+        0.818,
+        0.728
+      ],
+      "piece": "The orange outline curling around a navy serif at the bottom right.",
+      "fact": "The Mets' colors honor the teams New York lost: blue from the Dodgers and orange from the Giants."
+    },
+    {
+      "abbr": "mia",
+      "team": "Miami Marlins",
+      "box": [
+        0.556,
+        0.576,
+        0.674,
+        0.694
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "Blue, red and black stripes of the M.",
+      "fact": "The marlin looping over an M was unveiled on November 15, 2018. The M echoes the 1950s Miami Marlins and Havana Sugar Kings."
+    },
+    {
+      "abbr": "min",
+      "team": "Minnesota Twins",
+      "box": [
+        0.582,
+        0.3,
+        0.7,
+        0.418
+      ],
+      "piece": "Where the navy T crosses the red C.",
+      "fact": "TC stands for Twin Cities. The 2023 refresh redrew it in the same new lettering as the new M logo."
+    },
+    {
+      "abbr": "phi",
+      "team": "Philadelphia Phillies",
+      "box": [
+        0.312,
+        0.184,
+        0.43,
+        0.302
+      ],
+      "piece": "The curl at the top left of the red P.",
+      "fact": "The Phillies' red-and-blue look replaced the maroon uniforms they wore in the 1970s and 1980s."
+    },
+    {
+      "abbr": "pit",
+      "team": "Pittsburgh Pirates",
+      "box": [
+        0.61,
+        0.502,
+        0.728,
+        0.62
+      ],
+      "piece": "The bottom of the P's bowl, gold with a pointed serif.",
+      "fact": "In 2014 the gold P became the Pirates' primary logo, replacing the eye-patch pirate."
+    },
+    {
+      "abbr": "ath",
+      "team": "Athletics",
+      "box": [
+        0.666,
+        0.676,
+        0.788,
+        0.798
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "The end of the green swash at the bottom of the A.",
+      "fact": "The A's green and gold date to 1963, when owner Charlie Finley switched the team to kelly green and gold."
+    }
+  ]
+}

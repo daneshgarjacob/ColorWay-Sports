@@ -1,0 +1,133 @@
+{
+  "slug": "nba-logo-quiz-hard-2",
+  "league": "nba",
+  "leagueName": "NBA",
+  "title": "NBA Logo Quiz Part 2: Hard Mode",
+  "headline": "NBA Logo Quiz Part 2: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard NBA logo quiz: eight tiny pieces of NBA team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current NBA team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/nba",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every NBA Team Got Its Colors",
+      "href": "/stories/how-every-nba-team-got-its-colors"
+    },
+    {
+      "label": "How Every NBA Team Got Its Name",
+      "href": "/stories/how-every-nba-team-got-its-name"
+    },
+    {
+      "label": "The Best 90s NBA Logos, Ranked",
+      "href": "/stories/best-90s-nba-logos-ranked"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "atl",
+      "team": "Atlanta Hawks",
+      "box": [
+        0.274,
+        0.69,
+        0.392,
+        0.808
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "Where the bottom of the hawk's head curls back in, red against white.",
+      "fact": "The Hawks made this hawk head their primary logo again in June 2015. The team first used the design from 1972 to 1995."
+    },
+    {
+      "abbr": "cle",
+      "team": "Cleveland Cavaliers",
+      "box": [
+        0.65,
+        0.202,
+        0.768,
+        0.32
+      ],
+      "piece": "The gold outline around the top tip of the wine-colored C.",
+      "fact": "The Cavaliers' current logos debuted on June 2, 2022. The redesign dropped navy and swapped the old mustard yellow for a shinier gold."
+    },
+    {
+      "abbr": "mem",
+      "team": "Memphis Grizzlies",
+      "box": [
+        0.63,
+        0.084,
+        0.75,
+        0.204
+      ],
+      "piece": "The top of the bear's ear: gray outline, navy and the lighter blue inside.",
+      "fact": "The Grizzlies refreshed their bear head in August 2018 with a new steel-gray outline, the brand's biggest update since 2004."
+    },
+    {
+      "abbr": "ny",
+      "team": "New York Knicks",
+      "box": [
+        0.8,
+        0.286,
+        0.918,
+        0.404
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "The gray triangle at the right end of the logo, with a blue outline and a bit of orange.",
+      "fact": "The Knicks' triangle logo dates to 1992, and New York was added across the top in 1995."
+    },
+    {
+      "abbr": "mil",
+      "team": "Milwaukee Bucks",
+      "box": [
+        0.724,
+        0.25,
+        0.842,
+        0.368
+      ],
+      "piece": "The cream and green of one of the antlers.",
+      "fact": "The Bucks unveiled their current buck head in April 2015. Its antlers are drawn to look like a basketball."
+    },
+    {
+      "abbr": "por",
+      "team": "Portland Trail Blazers",
+      "box": [
+        0.12,
+        0.6,
+        0.24,
+        0.72
+      ],
+      "piece": "The outer black edge and one red stripe of the pinwheel.",
+      "fact": "The Blazers updated their pinwheel in May 2017. The lines stand for the players of the two teams meeting on the court."
+    },
+    {
+      "abbr": "utah",
+      "team": "Utah Jazz",
+      "box": [
+        0.274,
+        0.51,
+        0.392,
+        0.628
+      ],
+      "piece": "Where the purple stem of the note meets the top of the basketball.",
+      "fact": "For 2025-26 the Jazz moved to purple, black and sky blue and kept the J-note as their main logo, now in purple."
+    },
+    {
+      "abbr": "bkn",
+      "team": "Brooklyn Nets",
+      "box": [
+        0.126,
+        0.176,
+        0.244,
+        0.294
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "A black seam of the basketball meeting the outer ring.",
+      "fact": "The Nets made this B on a basketball their primary logo for the 2024-25 season."
+    }
+  ]
+}

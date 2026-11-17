@@ -1,5 +1,21 @@
 import nfl from "@/content/data/quizzes/nfl-logo-quiz-hard.json";
+import nfl2 from "@/content/data/quizzes/nfl-logo-quiz-hard-2.json";
+import nfl3 from "@/content/data/quizzes/nfl-logo-quiz-hard-3.json";
+import nfl4 from "@/content/data/quizzes/nfl-logo-quiz-hard-4.json";
 import nba from "@/content/data/quizzes/nba-logo-quiz-hard.json";
+import nba2 from "@/content/data/quizzes/nba-logo-quiz-hard-2.json";
+import nba3 from "@/content/data/quizzes/nba-logo-quiz-hard-3.json";
+import nba4 from "@/content/data/quizzes/nba-logo-quiz-hard-4.json";
+// NHL parts 2-4 use only the 24 teams NOT in the hidden part-1 (TikTok) set.
+import nhl2 from "@/content/data/quizzes/nhl-logo-quiz-hard-2.json";
+import nhl3 from "@/content/data/quizzes/nhl-logo-quiz-hard-3.json";
+import nhl4 from "@/content/data/quizzes/nhl-logo-quiz-hard-4.json";
+// MLB parts 2-4 use only the 22 teams NOT in the hidden part-1 set.
+import mlb2 from "@/content/data/quizzes/mlb-logo-quiz-hard-2.json";
+import mlb3 from "@/content/data/quizzes/mlb-logo-quiz-hard-3.json";
+import mlb4 from "@/content/data/quizzes/mlb-logo-quiz-hard-4.json";
+import sec from "@/content/data/quizzes/sec-logo-quiz-hard.json";
+import bigTen from "@/content/data/quizzes/big-ten-logo-quiz-hard.json";
 // NHL and MLB quizzes are hidden for now: re-enable after TikTok posts.
 // Their JSON and images stay in the repo; uncomment these two imports and add
 // nhl, mlb back to RAW below to publish them (pages, hub cards, next-quiz
@@ -65,9 +81,26 @@ export interface Quiz extends Omit<QuizData, "items"> {
   leagueLogo?: string;
 }
 
-// Order here is the order on the /quiz hub and the "next quiz" chain.
-// NHL and MLB hidden: re-enable after TikTok posts -> [nfl, nba, nhl, mlb]
-const RAW: QuizData[] = [nfl, nba];
+// Order here is the order inside each league group on the /quiz hub and the
+// "next quiz" chain (it runs league by league, then wraps).
+// NHL and MLB part 1 hidden: re-enable after TikTok posts by putting nhl before
+// nhl2 and mlb before mlb2.
+const RAW: QuizData[] = [
+  nfl, nfl2, nfl3, nfl4,
+  nba, nba2, nba3, nba4,
+  nhl2, nhl3, nhl4,
+  mlb2, mlb3, mlb4,
+  sec, bigTen,
+];
+
+/** Hub sections, in order. A quiz goes in the group whose leagueName matches. */
+export const QUIZ_GROUPS: { title: string; leagueNames: string[] }[] = [
+  { title: "NFL", leagueNames: ["NFL"] },
+  { title: "NBA", leagueNames: ["NBA"] },
+  { title: "NHL", leagueNames: ["NHL"] },
+  { title: "MLB", leagueNames: ["MLB"] },
+  { title: "College Football", leagueNames: ["SEC", "Big Ten", "ACC", "Big 12"] },
+];
 
 export const QUIZ_SIZE = 8;
 

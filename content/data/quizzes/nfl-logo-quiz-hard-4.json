@@ -1,0 +1,133 @@
+{
+  "slug": "nfl-logo-quiz-hard-4",
+  "league": "nfl",
+  "leagueName": "NFL",
+  "title": "NFL Logo Quiz Part 4: Hard Mode",
+  "headline": "NFL Logo Quiz Part 4: Name The Team From A Tiny Piece Of Its Logo",
+  "description": "A hard NFL logo quiz: eight tiny pieces of NFL team logos, about 2% of each logo. Guess the team, tap to reveal the answer, keep score and share your result.",
+  "intro": [
+    "Every piece below is a small square cut from a current NFL team logo, about one fiftieth of the whole mark. No full letters, no team names, no giveaways. Each piece still holds one real detail, a color pair, a curve or an edge that belongs to only one team.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "quiz-logos/nfl",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every NFL Team Got Its Colors",
+      "href": "/stories/how-every-nfl-team-got-its-colors"
+    },
+    {
+      "label": "How Every NFL Team Got Its Name",
+      "href": "/stories/how-every-nfl-team-got-its-name"
+    },
+    {
+      "label": "The NFL Logos That Have Gone Longest Without Changing",
+      "href": "/stories/nfl-logo-longest-without-changing"
+    },
+    {
+      "label": "Hidden Details In Sports Logos",
+      "href": "/stories/hidden-details-sports-logos"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "no",
+      "team": "New Orleans Saints",
+      "box": [
+        0.708,
+        0.544,
+        0.826,
+        0.662
+      ],
+      "hint": "Hard mode. No freebies.",
+      "piece": "The black and white outline around the right petal of the fleur-de-lis, with gold inside.",
+      "fact": "The fleur-de-lis is a symbol of New Orleans. The Saints' version has stayed basically the same since the team debuted in 1967."
+    },
+    {
+      "abbr": "det",
+      "team": "Detroit Lions",
+      "box": [
+        0.212,
+        0.708,
+        0.33,
+        0.826
+      ],
+      "piece": "A back paw of the lion, blue with a silver outline.",
+      "fact": "In 2017 the Lions took black out of their logo, swapping the leaping lion's black outline for silver."
+    },
+    {
+      "abbr": "sea",
+      "team": "Seattle Seahawks",
+      "box": [
+        0.578,
+        0.456,
+        0.698,
+        0.576
+      ],
+      "piece": "The bright green around the eye, above navy and white stripes.",
+      "fact": "The Seahawks' bird is based on a Kwakwaka'wakw transformation mask from the Pacific Northwest."
+    },
+    {
+      "abbr": "tb",
+      "team": "Tampa Bay Buccaneers",
+      "box": [
+        0.662,
+        0.428,
+        0.782,
+        0.548
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "The silver blade of one of the swords, against the red flag.",
+      "fact": "In February 2014 the Bucs redrew the skull-and-swords flag, made its red brighter and made it much larger on the helmet."
+    },
+    {
+      "abbr": "min",
+      "team": "Minnesota Vikings",
+      "box": [
+        0.23,
+        0.544,
+        0.348,
+        0.662
+      ],
+      "piece": "The Norseman's gold hair, outlined in black.",
+      "fact": "The Vikings gave the Norseman a small update in 2013: reshaped horns, thicker face lines, a shorter braid and brighter gold."
+    },
+    {
+      "abbr": "lar",
+      "team": "Los Angeles Rams",
+      "box": [
+        0.426,
+        0.17,
+        0.544,
+        0.288
+      ],
+      "piece": "The top of the curling horn, blue with a white line through it.",
+      "fact": "The Rams' LA with a curling horn debuted in 2020. A 2026 refresh made it a single color and gave the horn a sharper point."
+    },
+    {
+      "abbr": "chi",
+      "team": "Chicago Bears",
+      "box": [
+        0.426,
+        0.816,
+        0.544,
+        0.934
+      ],
+      "piece": "Orange and navy at the bear's chin, under its open mouth.",
+      "fact": "The orange-and-navy bear head is one of the Bears' logos, but the wishbone C is the one that goes on the helmet."
+    },
+    {
+      "abbr": "sf",
+      "team": "San Francisco 49ers",
+      "box": [
+        0.298,
+        0.242,
+        0.418,
+        0.362
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "The gold and black rings at the top left edge of the oval, with red inside.",
+      "fact": "The SF oval first appeared on the 49ers' helmets in 1962. It was restyled in 1996 and switched to a brighter red in 2009."
+    }
+  ]
+}
