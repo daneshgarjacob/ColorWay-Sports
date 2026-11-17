@@ -732,6 +732,42 @@
    ],
    "shopQuery": "49ers 1994 throwback jersey"
   },
+  "2026-11-17": {
+    "team": "St. Louis Blues",
+    "teamShort": "Blues",
+    "league": "NHL",
+    "season": "2026-27",
+    "edition": "Hometown Remix",
+    "jerseyName": "Hometown Remix (Black, Blue and Silver)",
+    "colorwayGrade": "C+",
+    "image": "/images/jersey-of-the-day/blues-hometown-remix-2026-11-17.jpg",
+    "imageAlt": "St. Louis Blues player in the black Hometown Remix jersey with the round blue ST. LOUIS BLUES crest, Gateway Arch and blue and silver stripes",
+    "imagePosition": "center 30%",
+    "credit": {
+      "text": "St. Louis Blues",
+      "url": "https://x.com/StLouisBlues/status/2117278105807053280",
+      "license": "via the team"
+    },
+    "tweet": {
+      "url": "https://x.com/StLouisBlues/status/2117278105807053280",
+      "label": "The Hometown Remix reveal, from the Blues"
+    },
+    "worn": {
+      "date": "2026-11-17",
+      "matchup": "vs. Anaheim Ducks, 8 p.m. ET, Remix debut",
+      "status": "Scheduled",
+      "note": "Debut of the Hometown Remix, per the Blues' sweater schedule. Ducks expected in their road white."
+    },
+    "why": "The first time black and silver have been on a Blues sweater, with the round Gateway Arch crest back on the chest. The best of Tuesday's three Remix debuts.",
+    "story": "The Blues wear their Hometown Remix jersey for the first time tonight at home against Anaheim. It is black with blue and silver stripes and brings back the round ST. LOUIS BLUES crest from the 2008-2016 navy alternate, updated with the Gateway Arch around the Blue Note and three wave lines for the Mississippi. Waves are debossed on the sleeves and the numbers are beveled to look like the Arch's steel. St. Louis wears it 10 times, and again Sunday against Edmonton. We graded it a C+ and ranked it 20th of the 32 Remix jerseys.",
+    "scheduleSlug": "blues-uniform-schedule-2026-27",
+    "scheduleLabel": "Blues 2026-27 uniform schedule",
+    "related": [
+      { "slug": "wild-blues-jets-devils-hometown-remix-debuts-this-week-2026", "label": "Wild, Blues, Jets and Devils Remix debuts this week" },
+      { "slug": "nhl-hometown-remix-jerseys-ranked", "label": "Every Hometown Remix jersey, ranked" }
+    ],
+    "shopQuery": "St. Louis Blues Hometown Remix jersey"
+  },
   "2026-11-16": {
    "team": "Baltimore Ravens",
    "teamShort": "Ravens",
