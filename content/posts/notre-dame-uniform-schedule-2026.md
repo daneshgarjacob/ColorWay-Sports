@@ -107,6 +107,8 @@ Two confirmed alternates before the opener is more certainty than almost any pro
 
 The rest is the most predictable wardrobe in college football, which is the point. Navy at home, white on the road, gold helmet always. The only genuinely open date is Navy at Gillette, and we will have that answered in game week.
 
+That gold helmet has real 23.9-karat gold in its paint, and we explain where it comes from in [why Notre Dame helmets are painted with real gold](/stories/why-notre-dame-helmets-are-real-gold).
+
 ## Frequently Asked Questions
 
 **When does Notre Dame wear green in 2026?**
@@ -135,7 +137,7 @@ Green started under Knute Rockne in the 1920s as a way to stand out when an oppo
 
 **Why does Notre Dame wear gold helmets?**
 
-The gold helmet mirrors the Golden Dome on the Main Building. For decades student managers painted the helmets before home games with paint mixed with gold dust from the Dome, and gold flakes collected when the Dome is regilded are still part of the finishing process.
+The gold helmet mirrors the Golden Dome on the Main Building. For decades student managers painted the helmets before home games with gold dust mixed into lacquer, and Notre Dame says gold flakes collected when the Dome was regilded are still part of the paint.
 
 **Why does Notre Dame wear blue instead of green?**
 

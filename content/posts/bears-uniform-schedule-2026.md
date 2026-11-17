@@ -126,6 +126,8 @@ The one swing they are taking is well placed. A brand-new Rivalries uniform, deb
 
 How does every one of these jerseys stack up? See our [Bears jerseys 2026 ranking](/stories/bears-jerseys-2026-ranked), every uniform in the closet graded from best to worst.
 
+The three letters on the left sleeve of the navy and white jerseys, and on the chest patch of the Rivalries set, belong to George Halas, and we explain how they got there in [why the Bears wear GSH on their sleeves](/stories/why-bears-wear-gsh-on-sleeves).
+
 ## Frequently Asked Questions
 
 **What jersey are the Bears wearing today?**
