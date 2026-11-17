@@ -1,5 +1,5 @@
 ---
-title: "Why Don't the Yankees Have Names on Their Jerseys? The 100-Year Tradition, Explained"
+title: "Why Don't The Yankees Have Names On Their Jerseys? The 100-Year Tradition, Explained"
 category: MLB
 date: "2026-07-23"
 updatedDate: "2026-11-18"
