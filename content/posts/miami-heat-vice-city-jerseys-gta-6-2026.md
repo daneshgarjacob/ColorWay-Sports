@@ -2,7 +2,7 @@
 title: "Miami Heat Vice City Jerseys Revealed: The GTA 6 x Travis Scott Cactus Jack Uniform for November 18"
 category: "NBA"
 date: "2026-11-06"
-updatedDate: "2026-11-06"
+updatedDate: "2026-11-17"
 excerpt: "The Heat revealed their Vice City uniforms for November 18 against the Bucks: black with neon pink trim, a backwards Nike logo, Cactus Jack on the shorts and six pink stars. The players wear a HEAT jersey on the court, and the Vice City script version is the one fans can buy that night. Every detail, what is different between the two, where to get one and our grade."
 gradient: "linear-gradient(135deg, #0b0b10 0%, #ff2d95 70%, #29d3e3 130%)"
 author: "jake-daneshgar"
@@ -56,6 +56,8 @@ So if the Vice City script is the one you saw first, that is the merch. On court
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Images: Miami HEAT</p>
 
 **The court and the arena.** The Heat say they will play on "special hardwood built for Vice City," for one night only, and the arena is getting the full treatment: Burger Shot and Cluckin' Bell, two of the game's fast food chains, will have stands in the concourse. Kaseya Center becomes "Vice City" on the team's own game page.
+
+**Update, November 17: the court is out.** The Heat revealed the Vice City floor for the same game: pink around each paint, a blue paint, a pink "Vice City" script at center court, the GTA VI logo and "I ♥ VICE CITY" on black baselines. Every detail and our grade are in [Heat Unveil Vice City Court For Bucks Game](/stories/miami-heat-vice-city-court-gta-6-2026).
 
 <img src="/images/posts/miami-heat-vice-city-jerseys-gta-6-2026/welcome-to-vice-city.jpg" alt="Welcome to Vice City sign glowing in pink and white neon on a dark background, from the Miami Heat's Vice City promotion" style="display:block;width:100%;max-width:520px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: Miami HEAT</p>

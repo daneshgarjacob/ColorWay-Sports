@@ -2,7 +2,7 @@
 title: "Commanders Uniform & Jersey Schedule 2026: Hail Raiser Dates"
 category: NFL
 date: "2026-07-16"
-updatedDate: "2026-11-13"
+updatedDate: "2026-11-17"
 excerpt: "Commanders uniform schedule 2026: white is the new primary, burgundy nine times, the black Hail Raiser alternate twice. Every Washington jersey, week by week."
 gradient: "linear-gradient(135deg, #5A1414 0%, #7A1B1B 45%, #FFB612 100%)"
 coverImage: "/images/posts/commanders-2026-uniform-schedule/cover.jpg"
@@ -39,7 +39,7 @@ Here is the entire season at a glance. Burgundy is the heritage jersey, white is
   <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Burgundy · Gold Pants</div></div>
   <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Rams</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Burgundy · Gold Pants</div></div>
   <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">at Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy</div></div>
-  <div style="background: #111111; color: #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Hail Raiser</div></div>
+  <div style="background: #111111; color: #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Hail Raiser</div></div>
   <div style="background: #f1efe9; color: #333; border: 1px solid #e2ddd2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1efe9; color: #333; border: 1px solid #e2ddd2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #5A1414; color: #FFDCA8; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.75;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Burgundy</div></div>
@@ -94,11 +94,11 @@ How does every one of these jerseys stack up? See our [Commanders jerseys 2026 r
 
 **What jersey are the Commanders wearing today?**
 
-Week 10 at the Giants, Thursday, November 12, worn: all burgundy, burgundy helmet, burgundy jersey and burgundy pants. The Giants wore Vintage White, and Washington won 24-21. We grade the matchup an A. This answer updates every week. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
+Week 10 at the Giants, Thursday, November 12, worn: all burgundy, a 24-21 win. Next up is the debut of the all-black Hail Raiser on Monday Night Football against the Bengals, November 23 at home: the black helmet with the Spear W, black jersey and black pants. The Bengals have confirmed orange helmets, white jerseys and white pants, so it is black against white. This answer updates every week. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
 
 **What jerseys are the Commanders wearing this week?**
 
-Week 10 at the Giants, Thursday, November 12, worn: all burgundy, burgundy helmet, burgundy jersey and burgundy pants. The Giants wore Vintage White, and Washington won 24-21. We grade the matchup an A. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
+Week 10 at the Giants, Thursday, November 12, worn: all burgundy, a 24-21 win. Next up is the debut of the all-black Hail Raiser on Monday Night Football against the Bengals, November 23 at home: the black helmet with the Spear W, black jersey and black pants. The Bengals have confirmed orange helmets, white jerseys and white pants, so it is black against white. For the rest of the season: Burgundy is the most likely answer, since Washington wears it nine times including three road games. The white jersey is the new primary and gets six weeks, and the Hail Raiser black alternate has two confirmed home dates, Week 11 against Cincinnati and Week 15 against Atlanta.
 
 **What uniform did the Commanders wear last week?**
 
@@ -106,7 +106,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Commanders wearing next week?**
 
-Burgundy more often than not. Check the grid above, because Washington wears burgundy on a few road trips too, which is where most guesses go wrong.
+The black Hail Raiser, for the first time, against the Bengals on Monday Night Football, November 23: black helmet with the Spear W, black jersey, black pants. After that, burgundy more often than not. Check the grid above, because Washington wears burgundy on a few road trips too, which is where most guesses go wrong.
 
 **What jerseys do the Commanders have in 2026?**
 
@@ -122,7 +122,7 @@ Nine times. The burgundy is the heritage jersey and the team's emotional primary
 
 **When do the Commanders wear the black Hail Raiser uniform in 2026?**
 
-Twice, and both at home: Week 11 against the Cincinnati Bengals and Week 15 against the Atlanta Falcons. The Hail Raiser is Washington's all-black alternate uniform, complete with a black helmet and the spear-W alternate logo.
+Twice, and both at home: Week 11 against the Cincinnati Bengals on Monday Night Football, November 23, the first time it is worn, and Week 15 against the Atlanta Falcons on Sunday, December 20. The Bengals have confirmed white jerseys and white pants under orange helmets for the debut. The Hail Raiser is Washington's all-black alternate uniform, complete with a black helmet and the spear-W alternate logo.
 
 **What is the Commanders' Hail Raiser uniform?**
 

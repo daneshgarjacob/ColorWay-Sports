@@ -3,7 +3,7 @@ title: "NC State Uniform Schedule 2026: Every Jersey and When the Wolfpack Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-17"
 excerpt: "NC State uniform schedule 2026: red home jerseys, the white road set, the Wolfpack Warriors camo alternate, and every Wolfpack game's jersey week by week."
 gradient: "linear-gradient(135deg, #CC0000 0%, #990000 55%, #111111 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 NC State used five different looks in its first five games: a red helmet over white and red at Virginia, full black camo for the home opener, a red helmet over white and white at Vanderbilt, then the white helmet and red jersey at home, over red pants against App State and white pants against Louisville. Against Wake Forest on October 10 it went back to the App State combination: white helmet, red jersey, red pants. This is the full NC State 2026 uniform schedule: the red home set, the white road set, the black alternate, the new Wolfpack Warriors camo uniform, every helmet in the rotation, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 17:** Philip Rivers is NC State's new head coach, hired November 13 on a five-year deal and introduced November 16. In his first portrait as coach he holds a **white helmet with a red center stripe trimmed in black** and a red facemask. NC State hasn't announced it as a game helmet. Our take is in [NC State's new helmet stripe](/stories/nc-state-helmet-stripe-philip-rivers-head-coach-2026). Interim coach Todd Goebbel leads the team for the last two games.
 
 **Update, October 23:** NC State wore **a black helmet and white jersey with red numbers** at Stanford on Friday, confirmed from NC State's tunnel photos, and lost 31-28. **Final: Stanford 31, NC State 28.**
 
@@ -27,7 +29,7 @@ NC State used five different looks in its first five games: a red helmet over wh
   <div style="background: #f6f7f9; color: #990000; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Red, white, and black shells with the Tuffy wolf head. The red helmet opened 2026 with a smaller Tuffy decal in place of the oversized one.</div></div>
 </div>
 
-adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet logo, usually in an oversized version that nearly covers the side of the shell. From 2020 through 2025 the white helmet with a red facemask was the most common choice, with red and black shells in rotation. In 2025 the program opened with the City of Oaks set, a red script jersey with an acorn and a white script helmet with a center stripe. For 2026 there are two changes so far: a smaller Tuffy on the red helmet for the opener, and the Wolfpack Warriors camo set built around the program's new US Army partnership. We break that uniform down in our [Wolfpack Warriors review](/stories/nc-state-wolfpack-warriors-army-uniform-2026). ACC home teams wear color and visitors wear white, so the road dates are predictable and the home dates come down to red, black, or something special.
+adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet logo, usually in an oversized version that nearly covers the side of the shell. From 2020 through 2025 the white helmet with a red facemask was the most common choice, with red and black shells in rotation. In 2025 the program opened with the City of Oaks set, a red script jersey with an acorn and a white script helmet with a center stripe. For 2026 there are two on-field changes so far: a smaller Tuffy on the red helmet for the opener, and the Wolfpack Warriors camo set built around the program's new US Army partnership. We break that uniform down in our [Wolfpack Warriors review](/stories/nc-state-wolfpack-warriors-army-uniform-2026). A possible third arrived with the new coach: Philip Rivers, hired November 13 and introduced November 16, posed with a white helmet carrying a red center stripe trimmed in black, a stripe the 2026 white game helmet doesn't have. NC State hasn't said whether or when it will be worn in a game. More in [NC State's new helmet stripe](/stories/nc-state-helmet-stripe-philip-rivers-head-coach-2026). ACC home teams wear color and visitors wear white, so the road dates are predictable and the home dates come down to red, black, or something special.
 
 ## The Full NC State 2026 Uniform Schedule, Week by Week
 

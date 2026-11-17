@@ -3,7 +3,7 @@ title: "BYU Will Wear All White With A Royal Blue Facemask At Kansas On November
 author: "jake-daneshgar"
 category: "College"
 date: "2026-11-16"
-updatedDate: "2026-11-16"
+updatedDate: "2026-11-17"
 excerpt: "BYU posted its uniform for Saturday's trip to Kansas: an all-white uniform under a white helmet with a royal blue facemask and royal accents. It is the first time the Cougars have worn this combination since 2024 at Baylor. Kickoff, what Kansas is expected to wear, how it differs from BYU's navy-trim whites, and our grade."
 gradient: "linear-gradient(135deg, #ffffff 0%, #d9e2f2 35%, #0062B8 120%)"
 cardStyle: words
@@ -37,7 +37,7 @@ BYU posted this one on Monday of game week, the same timing it used for Notre Da
 - **The jersey.** White, with royal blue as the trim color.
 - **The pants.** White, so the look runs white from top to bottom.
 
-BYU's own Gameday Threads graphic shows every detail: a **royal blue center stripe** on the white helmet with the blue "Y" logo on the side, **royal blue numbers** on the white jersey, **royal and white stripes** on the shoulders, the royal "Y" oval at the collar, and **three royal stripes** down the side of the white pants.
+BYU's own Gameday Threads graphic shows every detail: a **royal and white center stripe** on the white helmet with the blue "Y" logo on the side, **royal blue numbers** on the white jersey, **royal and white stripes** on the shoulders, the royal "Y" oval at the collar, and **three royal stripes** down the side of the white pants.
 
 ## How It Differs From BYU's Other All-White Look
 

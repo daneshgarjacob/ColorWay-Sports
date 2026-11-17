@@ -94,11 +94,11 @@ The classic 49ers home look has not lost in five tries: Miami, Arizona, Denver, 
 
 Kansas City's red jersey with white pants is 5-0, and it wins the tiebreak with the 49ers on point margin: plus-77 to plus-65. The wins: Denver 31-10, Indianapolis 33-30, at Miami 24-10, the Chargers 22-6 and the Jets 35-12. In white jerseys, the Chiefs are 2-2. [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) · [Chiefs uniform records](/uniform-records/kansas-city-chiefs).
 
-### Honorable Mention: The Lions In Silver Pants, 3-0
+### Honorable Mention: The Lions In Silver Pants, 4-0
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-honolulu-blue-home.jpg" alt="Detroit Lions Honolulu blue home jersey" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions · Honolulu Blue</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-silver-rivalries.jpg" alt="Detroit Lions silver Rivalries jersey" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions · Silver Rivalries</figcaption></figure></div>
 
-No single Lions combination has three games yet, but the pants tell a story. Detroit is **3-0 in silver pants**: twice with the Honolulu blue jersey (31-24 over the Jets, 35-10 over the Patriots) and once in the silver Rivalries uniform (19-15 over the Vikings). [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) · [Lions uniform records](/uniform-records/detroit-lions).
+No single Lions combination has three games yet, but the pants tell a story. Detroit is **3-0 in its standard silver pants**: twice with the Honolulu blue jersey (31-24 over the Jets, 35-10 over the Patriots in Munich) and once with the white road jersey (45-21 at Arizona, the week the Lions posted "Bringing back the silver pants this week"). Add the all-silver Rivalries uniform (19-15 over the Vikings), whose silver pants belong to that set, and Detroit is **4-0 in silver pants** of any kind. In every other bottom the Lions are 3-2. [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) · [Lions uniform records](/uniform-records/detroit-lions).
 
 ## NFL: The Winless Uniforms
 
@@ -257,7 +257,7 @@ No uniform causes losses. Miami is 1-8 overall, so the Dolphins lose in almost e
 
 **Are the Lions undefeated in silver pants?**
 
-Yes, 3-0 through Week 10: twice with the Honolulu blue jersey and once in the silver Rivalries uniform.
+Yes. Detroit is 3-0 in its standard silver pants through Week 10, twice with the Honolulu blue jersey and once with the white road jersey at Arizona, and 4-0 if you count the silver pants of the Rivalries uniform against Minnesota.
 
 **What is the Rockets' record in red?**
 

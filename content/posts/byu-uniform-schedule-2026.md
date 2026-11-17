@@ -3,7 +3,7 @@ title: "BYU Uniform Schedule 2026: Every Jersey and When the Cougars Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-17"
 excerpt: "What BYU wears every game in 2026: royal home jerseys, white road uniforms, navy looks, helmet swaps, and the full Cougars uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002E5D 0%, #0062B8 55%, #ffffff 130%)"
 cardStyle: words
@@ -46,7 +46,7 @@ BYU has not announced a 2026 alternate or throwback yet. Its past specials inclu
   <div style="background: #002E5D; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Announced: Navy / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0062B8; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Royal / Royal</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Announced: White / White / White</div></div>
   <div style="background: #0062B8; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Royal</div></div>
 </div>
 
@@ -88,7 +88,10 @@ See the [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026) for the 
 
 **November 14 vs. Baylor.** Royal expected. Baylor is expected in white; see the [Baylor 2026 uniform schedule](/stories/baylor-uniform-schedule-2026). **Worn: white helmet, royal jersey, royal pants**, confirmed from the game broadcast. **Final: BYU 28, Baylor 7.**
 
-**November 21 at Kansas.** White expected. Kansas wears blue at home; see the [Kansas 2026 uniform schedule](/stories/kansas-uniform-schedule-2026).
+**November 21 at Kansas**, David Booth Kansas Memorial Stadium, noon Eastern on ABC. Announced: **white helmet with a royal blue facemask, white jersey, white pants**, all trimmed in royal blue. BYU posted it on Monday of game week as "this week's threads in Lawrence." It is the first time BYU has worn this exact combination since 2024 at Baylor. Kansas is expected in blue on Senior Day; see the [Kansas 2026 uniform schedule](/stories/kansas-uniform-schedule-2026) and our [full story on BYU's all-white look](/stories/byu-all-white-uniform-royal-facemask-kansas-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;"><blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2122350572917621028"></a></blockquote></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Game 11 uniform reveal, via @BYUfootball</p>
 
 **November 28 vs. Cincinnati.** Royal expected. The regular season finale and the last home game in Provo.
 
@@ -100,7 +103,7 @@ BYU has one of the easiest color rules in the sport and one of the hardest wardr
 
 **What jersey is BYU wearing this week?**
 
-BYU announced an all-navy uniform for Saturday, October 31, against Arizona State: a navy helmet with white stripes and the white oval Y, a navy jersey and navy pants with white side stripes. Kickoff is 1:30 p.m. Mountain on FOX. Last week BYU wore a royal blue helmet, white jersey and white pants at UCF, confirmed from the team's game photos, and lost 39-31 in double overtime, its first loss of the season.
+BYU announced an all-white uniform for Saturday, November 21, at Kansas: a white helmet with a royal blue facemask, a white jersey and white pants, all trimmed in royal blue. Kickoff is noon Eastern (10 a.m. Mountain) on ABC. Last week BYU wore a white helmet, royal jersey and royal pants at home and beat Baylor 28-7.
 
 **What are BYU's football uniforms for 2026?**
 

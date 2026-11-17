@@ -3,8 +3,8 @@ title: "Commanders Will Wear The Hail Raiser Vs. Bengals On Monday Night Footbal
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-16"
-excerpt: "The Commanders wear the all-black Hail Raiser for the first time against the Bengals on Monday Night Football, November 23, at home: the black helmet with the Spear W, a black jersey with burgundy numbers outlined in gold, and black pants. The Bengals are expected in white. Every detail, the second date and our grade."
+updatedDate: "2026-11-17"
+excerpt: "The Commanders wear the all-black Hail Raiser for the first time against the Bengals on Monday Night Football, November 23, at home: the black helmet with the Spear W, a black jersey with burgundy numbers outlined in gold, and black pants. The Bengals have confirmed orange helmets, white jerseys and white pants. Every detail, the second date and our grade."
 gradient: "linear-gradient(135deg, #0b0b0d 0%, #3a0d0d 60%, #FFB612 130%)"
 coverImage: "/images/posts/commanders-reveal-2026/HF852oPWoAADrja.jpg"
 coverImagePosition: "center 40%"
@@ -32,7 +32,7 @@ teams: ["washington-commanders", "cincinnati-bengals"]
 
 - **What are the Commanders wearing on Monday Night Football?** The Hail Raiser: a black helmet with the Spear W logo, a black jersey and black pants, with burgundy and gold trim.
 - **When?** Monday, November 23, 8:15 p.m. ET on ESPN, against the Bengals in Landover.
-- **What are the Bengals wearing?** White is expected. Cincinnati hasn't announced its look for this game.
+- **What are the Bengals wearing?** Confirmed by the Bengals: orange helmet, white jersey, white pants and black socks.
 - **Is this the first time the Hail Raiser is worn?** Yes. It was revealed on April 15, 2026, and this is its first game.
 - **Will the Commanders wear it again?** Once more, in Week 15 against Atlanta on Sunday, December 20, also at home.
 - **Our grade:** A for the uniform, A- for the matchup. It's the best uniform Washington owns.
@@ -58,9 +58,9 @@ Washington has said pants for the white and burgundy jerseys are picked the week
 
 ## What The Bengals Are Wearing
 
-Cincinnati hasn't announced its look for this trip. We expect the **white road jersey** under the **striped orange helmet**, the set the Bengals have worn on most of their road trips this season. They came out of Week 10 in the all-white White Bengal at home, a 38-18 win over Pittsburgh on Sunday night, so the road white is the standard set returning. See the [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026).
+The Bengals have confirmed it: the **striped orange helmet**, the **white jersey** and **white pants**, with black socks. The team calls the combination White-White-Black, and Sports Illustrated counts it as Cincinnati's most-worn look, 15-8 going into this game. They came out of Week 10 in the all-white White Bengal at home, a 38-18 win over Pittsburgh on Sunday night, so the road white is the standard set returning. See the [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026).
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bengals-white-road.jpg" alt="Cincinnati Bengals white road jersey, expected at Washington on Monday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bengals &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/commanders-black-alternate.jpg" alt="Washington Commanders Hail Raiser black alternate jersey with burgundy numbers outlined in gold, scheduled by the team against the Bengals on Monday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Commanders &middot; Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bengals-white-road.jpg" alt="Cincinnati Bengals white road jersey, confirmed with white pants at Washington on Monday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bengals &middot; Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/commanders-black-alternate.jpg" alt="Washington Commanders Hail Raiser black alternate jersey with burgundy numbers outlined in gold, confirmed by the team against the Bengals on Monday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Commanders &middot; Confirmed</figcaption></figure></div>
 
 Black on one sideline, white and orange on the other, under the lights on a Monday. It's one of three Week 11 games we grade an A-.
 
@@ -109,7 +109,7 @@ Twice, both at home: Week 11 against the Bengals and Week 15 against the Falcons
 
 **What are the Bengals wearing against the Commanders?**
 
-The Bengals haven't announced it. We expect the white road jersey with the striped orange helmet, their standard road set.
+The striped orange helmet, the white jersey and white pants, with black socks, confirmed by the Bengals for this game.
 
 **How many uniforms do the Commanders have in 2026?**
 

@@ -2148,55 +2148,6 @@
    "missing": [],
    "combos": [
     {
-     "id": "white-silver-white",
-     "helmet": "Silver",
-     "jersey": "White",
-     "jerseyName": "White",
-     "jerseyKey": "lions-white-road",
-     "pants": "White",
-     "hexes": [
-      "#B0B7BC",
-      "#FFFFFF",
-      "#FFFFFF"
-     ],
-     "img": "/images/posts/nfl-tracker-jerseys/lions-white-road.jpg",
-     "w": 1,
-     "l": 2,
-     "t": 0,
-     "games": [
-      {
-       "week": 2,
-       "date": "2026-09-17",
-       "opponent": "Buffalo Bills",
-       "home": false,
-       "teamScore": 31,
-       "oppScore": 41,
-       "result": "L",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      },
-      {
-       "week": 4,
-       "date": "2026-10-04",
-       "opponent": "Carolina Panthers",
-       "home": false,
-       "teamScore": 26,
-       "oppScore": 32,
-       "result": "L",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      },
-      {
-       "week": 5,
-       "date": "2026-10-11",
-       "opponent": "Arizona Cardinals",
-       "home": false,
-       "teamScore": 45,
-       "oppScore": 21,
-       "result": "W",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      }
-     ]
-    },
-    {
      "id": "honolulu-blue-silver-honolulu-blue",
      "helmet": "Silver",
      "jersey": "Honolulu Blue",
@@ -2275,6 +2226,45 @@
      ]
     },
     {
+     "id": "white-silver-white",
+     "helmet": "Silver",
+     "jersey": "White",
+     "jerseyName": "White",
+     "jerseyKey": "lions-white-road",
+     "pants": "White",
+     "hexes": [
+      "#B0B7BC",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/lions-white-road.jpg",
+     "w": 0,
+     "l": 2,
+     "t": 0,
+     "games": [
+      {
+       "week": 2,
+       "date": "2026-09-17",
+       "opponent": "Buffalo Bills",
+       "home": false,
+       "teamScore": 31,
+       "oppScore": 41,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 4,
+       "date": "2026-10-04",
+       "opponent": "Carolina Panthers",
+       "home": false,
+       "teamScore": 26,
+       "oppScore": 32,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
+    {
      "id": "black-honolulu-blue-black",
      "helmet": "Honolulu Blue",
      "jersey": "Black",
@@ -2327,6 +2317,35 @@
        "home": true,
        "teamScore": 19,
        "oppScore": 15,
+       "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
+    {
+     "id": "white-silver-silver",
+     "helmet": "Silver",
+     "jersey": "White",
+     "jerseyName": "White",
+     "jerseyKey": "lions-white-road",
+     "pants": "Silver",
+     "hexes": [
+      "#B0B7BC",
+      "#FFFFFF",
+      "#B0B7BC"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/lions-white-road.jpg",
+     "w": 1,
+     "l": 0,
+     "t": 0,
+     "games": [
+      {
+       "week": 5,
+       "date": "2026-10-11",
+       "opponent": "Arizona Cardinals",
+       "home": false,
+       "teamScore": 45,
+       "oppScore": 21,
        "result": "W",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
