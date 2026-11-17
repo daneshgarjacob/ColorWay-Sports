@@ -3,7 +3,7 @@ title: "NFL Week 10 Uniforms 2026: What Every Team Is Wearing, Including Giants 
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-09"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-16"
 excerpt: "NFL Week 10 uniforms (Nov. 12-16): the Giants wear Vintage White on Thursday night, the Ravens debut all-black Darkness Falls on Monday night, the Bengals wear the White Bengal, the 49ers bring the red 1994 throwback to Dallas, the Titans debut Music City, plus Munich and every other game."
 gradient: "linear-gradient(135deg, #0B2265 0%, #0C1526 55%, #241773 130%)"
 coverImage: "/images/posts/nfl-week-10-uniforms-2026/cover.jpg"
@@ -57,13 +57,13 @@ Burgundy and gold against white with red and blue trim gives Thursday night plen
 <img src="/images/posts/ravens-uniforms-2026-reveal/HGEQt1YXAAAulG4.jpg" alt="Baltimore Ravens quarterback Lamar Jackson in the 2026 Darkness all-black uniform with the matte black helmet, which debuts against the Chargers on Monday Night Football in Week 10" style="display:block;width:100%;max-width:460px;margin:0 auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Image: Baltimore Ravens</p>
 
-**Monday, 8:15 p.m. ET, ESPN. Both teams confirmed.** Baltimore named this game for Darkness Falls on September 1: a **black jersey, black pants and the matte black Darkness helmet**, with two-tone talon stripes and a front-facing raven with red eyes. This is the helmet's debut and the third of the Ravens' three Next Flight theme games, after White Noise in Week 2 and Purple Rising in Week 9.
+**Monday, 8:15 p.m. ET, ESPN. Final: Chargers 23, Ravens 20.** Baltimore named this game for Darkness Falls on September 1 and wore it as announced, confirmed in the Ravens' own game-night post: the **matte black Darkness helmet with the red-eyed raven, a black jersey with white numbers and black pants**, with two-tone talon stripes. It was the helmet's debut and the third of the Ravens' three Next Flight theme games, after White Noise in Week 2 and Purple Rising in Week 9.
 
-Los Angeles published every jersey and pants call on September 1, and this trip is the **white jersey over powder blue pants**.
+Los Angeles published every jersey and pants call on September 1, and wore it: the **white helmet with the gold facemask, the white jersey with powder blue numbers and powder blue pants**, confirmed in the Chargers' own game-night post.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chargers-white-road.jpg" alt="Los Angeles Chargers white road jersey, confirmed with powder blue pants at Baltimore on Monday Night Football in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chargers · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/ravens-black-alternate.jpg" alt="Baltimore Ravens black jersey, confirmed for Darkness Falls against the Chargers on Monday Night Football in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Ravens · Confirmed</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chargers-white-road.jpg" alt="Los Angeles Chargers white road jersey, confirmed with powder blue pants at Baltimore on Monday Night Football in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chargers · Worn</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/ravens-black-alternate.jpg" alt="Baltimore Ravens black jersey, confirmed for Darkness Falls against the Chargers on Monday Night Football in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Ravens · Worn</figcaption></figure></div>
 
-All black against white and powder blue is the sharpest contrast of the week. Our matchup grade: **A-**. See the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026), the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026), our [review of the Ravens' 2026 uniforms](/stories/ravens-new-uniforms-2026-review), and everything about [Darkness Falls on Monday night](/stories/ravens-darkness-falls-uniforms-monday-night-football-2026).
+All black against white and powder blue was the sharpest contrast of the week, but the Ravens' black blended into their own dark field on TV. Our matchup grade: **B**, with every piece graded in our [Ravens vs. Chargers Monday night breakdown](/stories/ravens-chargers-monday-night-football-uniforms-graded-2026). See the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026), the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026), our [review of the Ravens' 2026 uniforms](/stories/ravens-new-uniforms-2026-review), and everything about [Darkness Falls on Monday night](/stories/ravens-darkness-falls-uniforms-monday-night-football-2026).
 
 ### Pittsburgh Steelers at Cincinnati Bengals: The White Bengal on Sunday Night
 
@@ -179,7 +179,7 @@ All three national windows carry a confirmed alternate, covered above.
 
 - **Thursday, 8:15 p.m. ET, Prime Video:** Commanders at Giants, burgundy against Vintage White.
 - **Sunday, 8:20 p.m. ET, NBC:** Steelers at Bengals, black against the White Bengal. **Final: Bengals 38, Steelers 18.**
-- **Monday, 8:15 p.m. ET, ESPN:** Chargers at Ravens, white and powder blue against Darkness Falls.
+- **Monday, 8:15 p.m. ET, ESPN:** Chargers at Ravens, white and powder blue against Darkness Falls. **Final: Chargers 23, Ravens 20.**
 
 ## Also Worth Watching
 
@@ -246,7 +246,7 @@ All three national windows carry a confirmed alternate, covered above.
 
 ### Monday, November 16
 
-- **Los Angeles Chargers at Baltimore Ravens**, 8:15 p.m. ET, ESPN. Chargers: white jersey, powder blue pants (confirmed). Ravens: Darkness Falls, matte black helmet, black jersey, black pants (confirmed). Matchup grade: A-.
+- **Los Angeles Chargers at Baltimore Ravens**, 8:15 p.m. ET, ESPN. Chargers: white helmet with gold facemask, white jersey, powder blue pants (worn). Ravens: Darkness Falls, matte black helmet, black jersey, black pants (worn). Matchup grade: B. Final: Chargers 23, Ravens 20.
 
 ### Byes
 
@@ -270,11 +270,11 @@ Vintage White: the navy GIANTS wordmark helmet, a white jersey with blue numbers
 
 **When do the Ravens wear Darkness Falls?**
 
-The debut is Monday Night Football in Week 10 against the Chargers, Monday, November 16. We have the black jersey back for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
+The debut was Monday Night Football in Week 10 against the Chargers, Monday, November 16, a 23-20 Chargers win. We have the black jersey back for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
 
-**What are the Ravens and Chargers wearing on Monday Night Football?**
+**What did the Ravens and Chargers wear on Monday Night Football?**
 
-Baltimore wears Darkness Falls: the matte black Darkness helmet, a black jersey and black pants. Los Angeles wears the white jersey over powder blue pants, as it published on September 1. Kickoff is 8:15 p.m. Eastern on ESPN.
+Baltimore wore Darkness Falls: the matte black Darkness helmet, a black jersey and black pants. Los Angeles wore the white helmet with the gold facemask and the white jersey over powder blue pants, as it published on September 1. The Chargers won 23-20 on ESPN.
 
 **What are the Bengals wearing on Sunday Night Football?**
 

@@ -3,7 +3,7 @@ topViewsRank: 6
 title: "Baltimore Ravens Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-06"
+updatedDate: "2026-11-16"
 excerpt: "The Ravens have named all three 2026 theme games: White Noise Week 2, Purple Rising on Thursday night Week 9, and the all-black Darkness Falls on Monday night Week 10."
 gradient: "linear-gradient(135deg, #241773 0%, #1a1040 55%, #9E7C0C 130%)"
 coverImage: "/images/posts/ravens-uniforms-2026-reveal/full-ravens-image.jpg"
@@ -81,7 +81,9 @@ Our read: monochrome purple is a look very few teams can pull off, and Baltimore
 
 The black set debuts on Monday Night Football: black jersey, black pants, and the matte black **Darkness** helmet with two-tone talon stripes and the front-facing raven mark with the glowing red eyes. It is the most aggressive piece in the collection, and Baltimore gave it the most aggressive slot, a Monday nighter at home in the middle of November.
 
-The matchup helps. The Chargers have already published their side of this game: white jersey with powder blue pants, per the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026). Black to the floor on one sideline, white and powder on the other, under the lights. That is a genuinely well-designed television game, and it is the one we would circle if you only watch one Ravens home game for the uniforms. Everything about the night is in [Ravens Darkness Falls on Monday Night Football](/stories/ravens-darkness-falls-uniforms-monday-night-football-2026).
+The matchup helps. The Chargers have already published their side of this game: white jersey with powder blue pants, per the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026). Black to the floor on one sideline, white and powder on the other, under the lights. Everything about the night is in [Ravens Darkness Falls on Monday Night Football](/stories/ravens-darkness-falls-uniforms-monday-night-football-2026).
+
+**How it looked:** worn as announced, confirmed in the team's own game-night post: the matte black helmet with the red-eyed raven, a black jersey with white numbers and black pants, against the Chargers in white jerseys with powder blue numbers and powder blue pants. On a field with black end zones and a dark midfield logo, the black blended into the turf on TV. The Chargers won 23-20. Our grades are in the [Ravens vs. Chargers Monday night breakdown](/stories/ravens-chargers-monday-night-football-uniforms-graded-2026).
 
 ## Week 3 in Rio Is the Most Interesting Game on the Calendar
 
@@ -150,7 +152,7 @@ How does every one of these jerseys stack up? See our [Ravens jerseys 2026 ranki
 
 **What jersey are the Ravens wearing today?**
 
-**Week 9 (Thursday, November 5, 8:15 p.m. ET vs. Jacksonville, Thursday Night Football on Prime Video):** the Ravens wear Purple Rising, the purple jersey, purple pants and the new Purple Rising helmet, confirmed by the team. The Jaguars have confirmed the black helmet, white jersey and white pants. Week 10 against the Chargers on Monday Night Football is the all-black Darkness Falls debut. This answer updates every week. For the rest of the season: Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
+Week 10 against the Chargers, Monday, November 16, worn: Darkness Falls, the matte black helmet with the red-eyed raven, black jersey and black pants, as announced. The Chargers wore the white helmet, white jersey and powder blue pants, and Los Angeles won 23-20. We grade the matchup a B. Next up is Week 11 at Carolina in white. This answer updates every week. For the rest of the season: Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
 
 **What is the Ravens White Noise uniform?**
 
@@ -158,13 +160,13 @@ A white home look from the Next Flight collection: white jersey, white pants and
 
 **What jerseys are the Ravens wearing this week?**
 
-**Week 9 (Thursday, November 5, 8:15 p.m. ET vs. Jacksonville, Thursday Night Football on Prime Video):** the Ravens wear Purple Rising, the purple jersey, purple pants and the new Purple Rising helmet, confirmed by the team. The Jaguars have confirmed the black helmet, white jersey and white pants. Week 10 against the Chargers on Monday Night Football is the all-black Darkness Falls debut. For the rest of the season: Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
+Week 10 against the Chargers, Monday, November 16, worn: Darkness Falls, the matte black helmet with the red-eyed raven, black jersey and black pants, as announced. The Chargers wore the white helmet, white jersey and powder blue pants, and Los Angeles won 23-20. We grade the matchup a B. Next up is Week 11 at Carolina in white. For the rest of the season: Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2115886995683852488"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2122497198155866302"></a></blockquote>
 </div>
 
-Last week, Week 7 against Cincinnati, October 25, worn: black helmet, purple jersey and purple pants, as announced. The Bengals wore white over white pants, and Cincinnati won 35-13. We grade the matchup a B. For the rest of the season: Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
+Last week, Week 10 against the Chargers, November 16, worn: Darkness Falls, the matte black helmet, black jersey and black pants, as announced. The Chargers wore white over powder blue pants and won 23-20. We grade the matchup a B. For the rest of the season: Purple if Baltimore is at M&T Bank Stadium, white if they are on the road, with three confirmed exceptions: Week 2 against the Saints is the all-white White Noise game, Week 9 against the Jaguars is the all-purple Purple Rising game, and Week 10 against the Chargers is the all-black Darkness Falls game. We also have purple on the road in Rio in Week 3 and at Cincinnati in Week 17, and the black Darkness Falls jersey at home against Tampa Bay in Week 14 and Pittsburgh in Week 18.
 
 **What uniform did the Ravens wear last week?**
 
@@ -176,7 +178,7 @@ Five uniforms. The purple home set covers four games at M&T Bank Stadium, Weeks 
 
 **When do the Ravens wear the black uniform in 2026?**
 
-Three times, all at home. The debut is Monday, November 16, in Week 10 against the Los Angeles Chargers on Monday Night Football, 8:15 kickoff. The team calls it Darkness Falls: black jersey, black pants, and the matte black Darkness helmet with the red-eyed raven, announced on September 1, 2026. The black Darkness Falls jersey comes back for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
+Three times, all at home. The debut was Monday, November 16, in Week 10 against the Los Angeles Chargers on Monday Night Football, a 23-20 Chargers win. The team calls it Darkness Falls: black jersey, black pants, and the matte black Darkness helmet with the red-eyed raven, announced on September 1, 2026. The black Darkness Falls jersey comes back for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
 
 **When do the Ravens wear the Purple Rising uniform in 2026?**
 
@@ -200,11 +202,11 @@ Yes, twice. Week 3 against Dallas in Rio, because the Cowboys are the designated
 
 **How many uniforms do the Ravens have in 2026?**
 
-Five looks with games assigned: the purple home set, the white road set, the all-white White Noise look in Week 2, the all-purple Purple Rising look with its new helmet in Week 9, and the all-black Darkness Falls look, which debuts with the matte black helmet in Week 10 and returns in Weeks 14 and 18.
+Five looks with games assigned: the purple home set, the white road set, the all-white White Noise look in Week 2, the all-purple Purple Rising look with its new helmet in Week 9, and the all-black Darkness Falls look, which debuted with the matte black helmet in Week 10 and returns in Weeks 14 and 18.
 
 **Why are the Ravens wearing black?**
 
-All black is Darkness Falls, one of Baltimore's three named theme games from the Next Flight collection: black jersey, black pants and the matte black Darkness helmet with the red-eyed raven. It debuts at home against the Los Angeles Chargers on Monday Night Football, November 16, 2026, and the black jersey returns for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
+All black is Darkness Falls, one of Baltimore's three named theme games from the Next Flight collection: black jersey, black pants and the matte black Darkness helmet with the red-eyed raven. It debuted at home against the Los Angeles Chargers on Monday Night Football, November 16, 2026, a 23-20 Chargers win, and the black jersey returns for Week 14 against Tampa Bay and Week 18 against Pittsburgh.
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the AFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bengals-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cincinnati Bengals 2026 Uniform Schedule</a><a href="/stories/browns-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Cleveland Browns 2026 Uniform Schedule</a><a href="/stories/steelers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Pittsburgh Steelers 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 
