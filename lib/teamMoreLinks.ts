@@ -7,6 +7,7 @@ import { buildNflTeamIndex } from "@/lib/nflTrackerTeamIndex";
 import { buildWinterIndex } from "@/lib/winterTrackerIndex";
 import { parseCollegeGrid } from "@/lib/teamWearAnswers";
 import { explainedForTeam } from "@/lib/explained";
+import { hasUniformRecords } from "@/lib/uniformRecords";
 import rivalsFile from "@/content/data/rivals.json";
 import kickoffsFile from "@/content/data/nfl-kickoffs-2026.json";
 
@@ -21,7 +22,7 @@ import kickoffsFile from "@/content/data/nfl-kickoffs-2026.json";
 // tracker indexes), so a link here cannot 404. scripts/check-team-more-links.mjs
 // also fails the build if rivals.json names a team with no schedule post.
 
-export type MoreLinkKind = "next" | "rival" | "explained" | "hub" | "calendar" | "tracker";
+export type MoreLinkKind = "next" | "rival" | "explained" | "hub" | "calendar" | "tracker" | "records";
 
 export interface TeamMoreLink {
   kind: MoreLinkKind;
@@ -251,6 +252,21 @@ export function buildTeamMoreLinks(
   const why = explainedForTeam(team);
   if (why) {
     push({ kind: "explained", eyebrow: "Explained", label: why.title, href: STORY(why.slug) });
+  }
+
+  // 3b. Record in each uniform (site plan 11/16 item 6). A link only: the
+  // win-loss numbers stay on /uniform-records, never on cards.
+  if ((me.league === "nfl" || me.league === "nba") && hasUniformRecords(team)) {
+    push({
+      kind: "records",
+      eyebrow: "Uniform Records",
+      label: me.league === "nba" ? `${me.short} Record In Each Jersey` : `${me.short} Record In Each Uniform`,
+      detail:
+        me.league === "nba"
+          ? "Win-loss in every jersey they have worn this season, from our game logs."
+          : "Win-loss in every helmet, jersey and pants combination, from our game logs.",
+      href: `/uniform-records/${team}`,
+    });
   }
 
   // 4. Holiday-week hub the team plays in.
