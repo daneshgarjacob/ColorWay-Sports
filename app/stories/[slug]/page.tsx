@@ -21,6 +21,7 @@ import TeamUniformAlerts from "@/components/TeamUniformAlerts";
 import { TEAM_ALERTS_LIVE, teamAlertId } from "@/lib/teamAlerts";
 import { buildTeamMoreLinks } from "@/lib/teamMoreLinks";
 import ExplainedRail from "@/components/ExplainedRail";
+import AskColorWayCta from "@/components/AskColorWayCta";
 import { isExplained, relatedExplained } from "@/lib/explained";
 import { buildTeamQuickLinks, resolveTeamQuickLinks } from "@/lib/teamQuickLinks";
 import { buildMlbTeamIndex } from "@/lib/mlbTrackerTeamIndex";
@@ -48,7 +49,7 @@ import { addNflGameDays, nflGridEnd } from "@/lib/nflGridGameDays";
 import UniformLogBox from "@/components/UniformLogBox";
 import { nflUniformLog, winterUniformLog } from "@/lib/uniformLog";
 import { getAuthor, authorSchema } from "@/lib/authors";
-import { AFFILIATE_DISCLOSURE, addHomageLine, addScheduleShopLinks, teamFromTitle } from "@/lib/affiliates";
+import { AFFILIATE_DISCLOSURE, addHomageLine, addScheduleShopLinks, addShopListLinks, teamFromTitle } from "@/lib/affiliates";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -193,8 +194,10 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     ? addScheduleShopLinks(mainHtml, { slug, league: post.league ?? "", ...shopTeam })
     : { html: mainHtml, added: 0 };
   const homage = addHomageLine(shop.html, slug);
-  const articleHtml = homage.html;
-  const hasAffiliateLinks = shop.added + homage.added > 0;
+  // Gift guides (SHOP_LIST_POSTS): one line per pick, nothing elsewhere.
+  const giftShop = addShopListLinks(homage.html, slug);
+  const articleHtml = giftShop.html;
+  const hasAffiliateLinks = shop.added + homage.added + giftShop.added > 0;
 
   // "Today" is the render date. Most posts render only on deploy; team schedule
   // posts also re-render around game days (see revalidatePageWithin below).
@@ -675,6 +678,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         {teamAlerts}
         <TeamMoreBlock data={teamMore} />
         <ExplainedRail posts={explainedRail} />
+        {isExplained(post) && <AskColorWayCta className="my-8" />}
 
         {/* Byline card — a named human behind every grade */}
         <AuthorBio author={author} />

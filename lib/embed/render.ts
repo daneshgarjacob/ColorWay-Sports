@@ -29,7 +29,8 @@ function jerseySvg(fill: string): string {
 }
 
 export function renderEmbedHtml(c: EmbedCard): string {
-  const title = `${c.teamName} uniform this week · ColorWay Sports`;
+  const lead = c.lead ?? "This week";
+  const title = `${c.teamName} uniform ${lead.toLowerCase()} · ColorWay Sports`;
   const photo = c.image
     ? `<img src="${esc(c.image)}" alt="${esc(c.imageAlt ?? "")}" width="200" height="200" decoding="async">`
     : jerseySvg(c.swatch);
@@ -81,7 +82,7 @@ body{font-family:"Hanken Grotesk",system-ui,-apple-system,"Segoe UI",Roboto,sans
 .row{display:flex;align-items:center;gap:7px;font-size:12px;line-height:1.55}
 .dot{width:9px;height:9px;border-radius:50%;flex:none}
 .dot-tba{background:transparent;box-shadow:inset 0 0 0 1.5px var(--soft);opacity:.7}
-.k{color:var(--muted);width:44px;flex:none}
+.k{color:var(--muted);width:50px;flex:none}
 .v{font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .v.tba{color:var(--soft);font-weight:600}
 .status{display:flex;align-items:center;gap:6px;margin-top:8px;font-size:10.5px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
@@ -101,12 +102,12 @@ body{font-family:"Hanken Grotesk",system-ui,-apple-system,"Segoe UI",Roboto,sans
 <div class="rule"></div>
 <div class="head">
 ${c.logo ? `<span class="chip"><img class="logo" src="${esc(c.logo)}" alt="" width="30" height="30"></span>` : ""}
-<div class="id"><div class="kick">${esc(c.leagueLabel)} · ${esc(c.period)}${c.notice ? ` · ${esc(c.notice)}` : ""}</div><div class="team">${esc(c.teamName)}</div><div class="meta">This week: ${esc(c.matchup)} · ${esc(c.when)}</div></div>
+<div class="id"><div class="kick">${esc(c.leagueLabel)} · ${esc(c.period)}${c.notice ? ` · ${esc(c.notice)}` : ""}</div><div class="team">${esc(c.teamName)}</div><div class="meta">${esc(lead)}: ${esc(c.matchup)} · ${esc(c.when)}</div></div>
 </div>
 <div class="body">
 <div class="photo">${photo}</div>
 <div>
-<div class="kick">This week's uniform</div>
+<div class="kick">${esc(c.uniformKicker ?? "This week's uniform")}</div>
 <div class="uni${c.uniform.length > 16 ? " long" : ""}">${esc(c.uniform)}</div>
 ${rows}
 <div class="status s-${c.status}"><i></i>${STATUS_TEXT[c.status]}</div>

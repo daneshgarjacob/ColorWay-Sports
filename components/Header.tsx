@@ -292,6 +292,7 @@ const leagues: NavLeague[] = [
       { label: "Courts & Fields", href: "/courts-and-fields" },
       // Site plan 11/16: every "why" and origin story in one place.
       { label: "Explained", href: "/explained" },
+      { label: "Ask ColorWay", href: "/ask" },
       { label: "Logo Quizzes", href: "/quiz" },
       { label: "F1", href: "/stories?league=f1" },
       { label: "NASCAR", href: "/stories?league=nascar" },

@@ -13,14 +13,14 @@ export const revalidate = 3600;
 export const metadata: Metadata = {
   title: "Free Team Uniform Widget for Your Site – ColorWay Sports",
   description:
-    "Show what your team is wearing this week on your blog, fan site or forum. Free for any site, updates every week, one line of code.",
+    "Show what your NFL, NBA or NHL team is wearing next game on your blog, fan site or forum. Free for any site, updates itself, one line of code.",
   alternates: { canonical: `${SITE}/embed` },
 };
 
 const SHOWCASE: { league: string; team: string; theme: "light" | "dark" }[] = [
-  { league: "nfl", team: "saints", theme: "light" },
   { league: "nfl", team: "lions", theme: "dark" },
-  { league: "nfl", team: "giants", theme: "light" },
+  { league: "nba", team: "76ers", theme: "light" },
+  { league: "nhl", team: "rangers", theme: "light" },
 ];
 
 export default function EmbedPage() {
@@ -42,13 +42,14 @@ export default function EmbedPage() {
       <Header />
       <main className="max-w-[1200px] mx-auto px-5 pt-12 pb-20" style={{ fontFamily: "var(--font-hanken), system-ui, sans-serif" }}>
         <section className="max-w-[720px]">
-          <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-[#0025CC] mb-3">Free widget · NFL now, more leagues soon</p>
+          <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-[#0025CC] mb-3">Free widget · NFL, NBA and NHL</p>
           <h1 className="text-[34px] sm:text-[44px] font-extrabold leading-[1.05] tracking-[-0.02em] text-[#0b0b0f]">
-            What is your team wearing this week?
+            What is your team wearing next game?
           </h1>
           <p className="mt-4 text-[17px] leading-relaxed text-[#46536A]">
-            Put the answer on your blog, fan site or forum: helmet, jersey and pants for the next game, and whether the team
-            has confirmed it. <strong className="text-[#0b0b0f]">Free for any site. Updates every week.</strong>
+            Put the answer on your blog, fan site or forum: the uniform for your team&apos;s next game, and whether it is
+            confirmed. Helmet, jersey and pants for all 32 NFL teams, the jersey for all 30 NBA teams and the sweater for
+            all 32 NHL teams. <strong className="text-[#0b0b0f]">Free for any site. Updates itself.</strong>
           </p>
         </section>
 
@@ -60,7 +61,7 @@ export default function EmbedPage() {
             >
               <iframe
                 src={`/embed/${s.league}/${s.team}${s.theme === "dark" ? "?theme=dark" : ""}`}
-                title={`${s.team} uniform this week`}
+                title={`${s.team} uniform, next game`}
                 width="100%"
                 height={EMBED_HEIGHT}
                 style={{ border: 0, display: "block", maxWidth: 400 }}
@@ -79,12 +80,12 @@ export default function EmbedPage() {
         <section className="mt-16 grid gap-8 sm:grid-cols-3 border-t border-[#E3E7EE] pt-10">
           {[
             {
-              h: "Always this week",
-              p: "The card rolls to the next game as soon as the last one is final, and skips bye weeks on its own.",
+              h: "Always the next game",
+              p: "The card rolls to the next game on its own: NFL once the last game is final (skipping byes), NBA and NHL the morning after.",
             },
             {
               h: "Confirmed or expected, never guessed",
-              p: "Confirmed means the team announced it. Expected is our read from the team's rotation. Unknown pieces say TBA.",
+              p: "Confirmed means the team or league announced it. Expected is our read from the team's rotation. Unknown pieces say TBA.",
             },
             {
               h: "No ads, no tracking",

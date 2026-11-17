@@ -7,6 +7,11 @@ import TeamUniformAlerts from "@/components/TeamUniformAlerts";
 import { TEAM_ALERTS_LIVE } from "@/lib/teamAlerts";
 import { buildTeamMoreLinks } from "@/lib/teamMoreLinks";
 import WinterCalendarGrid from "@/components/WinterCalendarGrid";
+import TrackerRecordsSection, {
+  trackerRecordFaq,
+  trackerRecordTeam,
+  type TrackerFaqItem,
+} from "@/components/TrackerRecordsSection";
 import {
   winterTeamByKey,
   winterUniformUsage,
@@ -41,7 +46,10 @@ export default function WinterCalendarPage({
     ? " The NBA publishes dated opponents for 80 of each club's 82 games. The remaining two are scheduled between December 4 and 10 once Emirates NBA Cup group play decides them, and they are added here when the league sets them."
     : "";
 
-  const faq = [
+  // Win-loss in each jersey worn so far (content/data/<league>-uniform-records-2026-27.json).
+  const recordTeam = trackerRecordTeam(league, entry.name);
+
+  const faq: TrackerFaqItem[] = [
     {
       q: `What ${garment} are the ${entry.name} wearing tonight?`,
       a: `Every ${entry.name} game this season is on the calendar above, and we log the ${garment} against each date the morning after it is played. ${logged} of ${entry.games.length} are logged so far.`,
@@ -58,6 +66,7 @@ export default function WinterCalendarPage({
       q: `When do the ${entry.name} open the 2026-27 season?`,
       a: `${shortDate(first.date)}, ${first.home ? "at home against" : "on the road against"} the ${first.opponent}.`,
     },
+    ...(recordTeam ? trackerRecordFaq(recordTeam, entry.scheduleSlug) : []),
   ];
 
   return (
@@ -208,6 +217,8 @@ export default function WinterCalendarPage({
           <WinterCalendarGrid entry={entry} league={league} />
         </section>
 
+        {recordTeam && <TrackerRecordsSection team={recordTeam} />}
+
         <div className="max-w-[980px] mx-auto px-5 pt-10">
           {/* Team Alerts replace the general signup here once switched on (lib/teamAlerts.ts). */}
           {TEAM_ALERTS_LIVE ? (
@@ -225,7 +236,17 @@ export default function WinterCalendarPage({
             {faq.map((f) => (
               <div key={f.q}>
                 <h3 className="text-[16px] font-bold text-blue-dark mb-1.5">{f.q}</h3>
-                <p className="text-[15px] text-black/70 leading-relaxed m-0">{f.a}</p>
+                <p className="text-[15px] text-black/70 leading-relaxed m-0">
+                  {f.a}
+                  {f.link ? (
+                    <>
+                      {" "}
+                      <Link prefetch={false} href={f.link.href} className="text-[#0025CC] font-semibold hover:underline">
+                        {f.link.label} &rarr;
+                      </Link>
+                    </>
+                  ) : null}
+                </p>
               </div>
             ))}
           </div>

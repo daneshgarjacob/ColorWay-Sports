@@ -12,6 +12,11 @@ import { buildTeamMoreLinks } from "@/lib/teamMoreLinks";
 import { getPostBySlug } from "@/lib/posts";
 import { getNflLatestFromTracker, nflComboSentence } from "@/lib/nflTeamLatest";
 import { nflTrackerFaq } from "@/lib/trackerWearFaq";
+import TrackerRecordsSection, {
+  trackerRecordFaq,
+  trackerRecordTeam,
+  type TrackerFaqItem,
+} from "@/components/TrackerRecordsSection";
 import {
   allNflTeamKeys,
   nflTeamByKey,
@@ -112,7 +117,7 @@ export default async function NflTeamCalendarPage({
   const latest = tracker ? getNflLatestFromTracker(tracker.contentHtml, entry.name) : null;
   // "Today" is the build date, the same basis the schedule posts use: the site
   // redeploys many times a day and every deploy re-renders these pages.
-  const { headline, faq } = nflTrackerFaq({
+  const { headline, faq: wearFaq } = nflTrackerFaq({
     entry,
     latest,
     now: new Date(),
@@ -125,6 +130,14 @@ export default async function NflTeamCalendarPage({
       .filter((g) => g.confirmed)
       .map((g) => ({ week: g.week, matchup: g.matchup, uniform: g.uniform })),
   });
+
+  // Win-loss in each look the club has worn (content/data/uniform-records-2026.json),
+  // added under the calendar with its own questions on the end of the FAQ.
+  const recordTeam = trackerRecordTeam("nfl", entry.name);
+  const faq: TrackerFaqItem[] = [
+    ...wearFaq,
+    ...(recordTeam ? trackerRecordFaq(recordTeam, entry.scheduleSlug) : []),
+  ];
 
   return (
     <>
@@ -277,6 +290,8 @@ export default async function NflTeamCalendarPage({
           </div>
         </section>
 
+        {recordTeam && <TrackerRecordsSection team={recordTeam} />}
+
         <div className="max-w-[980px] mx-auto px-5 pt-10">
           {/* Team Alerts replace the general signup here once switched on (lib/teamAlerts.ts). */}
           {TEAM_ALERTS_LIVE ? (
@@ -294,7 +309,17 @@ export default async function NflTeamCalendarPage({
             {faq.map((f) => (
               <div key={f.q}>
                 <h3 className="text-[16px] font-bold text-blue-dark mb-1.5">{f.q}</h3>
-                <p className="text-[15px] text-black/70 leading-relaxed m-0">{f.a}</p>
+                <p className="text-[15px] text-black/70 leading-relaxed m-0">
+                  {f.a}
+                  {f.link ? (
+                    <>
+                      {" "}
+                      <Link prefetch={false} href={f.link.href} className="text-[#0025CC] font-semibold hover:underline">
+                        {f.link.label} &rarr;
+                      </Link>
+                    </>
+                  ) : null}
+                </p>
               </div>
             ))}
           </div>

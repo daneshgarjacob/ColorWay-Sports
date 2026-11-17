@@ -33,7 +33,7 @@ export default function EmbedGenerator({ teams }: { teams: GeneratorTeam[] }) {
 
   const snippet = useMemo(
     () =>
-      `<iframe src="${SITE}${path}" title="${team.name} uniform this week" width="100%" height="${EMBED_HEIGHT}" style="max-width:400px;border:0" loading="lazy"></iframe>\n` +
+      `<iframe src="${SITE}${path}" title="${team.name} uniform, ${team.league === "nfl" ? "this week" : "next game"}" width="100%" height="${EMBED_HEIGHT}" style="max-width:400px;border:0" loading="lazy"></iframe>\n` +
       `<p style="margin:6px 0 0;font:12px/1.4 sans-serif"><a href="${team.sourceUrl}">Uniform data by ColorWay Sports</a></p>`,
     [path, team],
   );
@@ -127,7 +127,7 @@ export default function EmbedGenerator({ teams }: { teams: GeneratorTeam[] }) {
           <iframe
             key={path}
             src={path}
-            title={`${team.name} uniform this week`}
+            title={`${team.name} uniform, ${team.league === "nfl" ? "this week" : "next game"}`}
             width="100%"
             height={EMBED_HEIGHT}
             style={{ maxWidth: 400, border: 0, display: "block" }}

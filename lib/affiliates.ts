@@ -20,6 +20,8 @@ export const AFFILIATES = {
   schedulePosts: true,
   /** One HOMAGE vintage tee line on the throwback/history posts in HOMAGE_POSTS. */
   homage: true,
+  /** One "Shop the ..." line per pick on the gift-guide posts in SHOP_LIST_POSTS. */
+  giftGuides: true,
 };
 
 export const on = (k: Exclude<keyof typeof AFFILIATES, "on">) => AFFILIATES.on && AFFILIATES[k];
@@ -193,6 +195,57 @@ export function addScheduleShopLinks(
     return (
       sec.replace(/\s+$/, "") +
       `\n<p class="cw-aff" style="font-size: 0.85em; font-weight: 600; color: #3a4a68; margin: 0.8em 0 1.6em;">${shopLine(href, `Shop the ${o.nickname} ${j} at Fanatics`)}</p>\n`
+    );
+  });
+  return { html: out.join(""), added };
+}
+
+// ── Gift guides ───────────────────────────────────────────────────────────
+// Posts whose whole point is "which jersey to buy". Each pick is its own h3 in
+// the markdown; this map names the h3 (exact text) and the Fanatics search for
+// it. The line "Shop the <h3> at Fanatics" goes at the end of that pick's
+// section, so the markdown stays link-free and one switch turns them off.
+// One link per jersey; headings not in the map (and the FAQ) get nothing.
+export const SHOP_LIST_POSTS: Record<string, Record<string, string>> = {
+  "best-jerseys-to-give-as-gifts-2026": {
+    "Los Angeles Chargers Powder Blue Jersey": "Los Angeles Chargers powder blue jersey",
+    "Chicago Bears Rivalries Jersey": "Chicago Bears Rivalries jersey",
+    "Kansas City Chiefs Red Jersey": "Kansas City Chiefs red jersey",
+    "New York Giants Blue Home Jersey": "New York Giants royal blue home jersey",
+    "Minnesota Timberwolves Icon Edition Swingman Jersey": "Minnesota Timberwolves Icon Edition Swingman jersey",
+    "Philadelphia 76ers Icon Edition Swingman Jersey": "Philadelphia 76ers Icon Edition Swingman jersey",
+    "Los Angeles Lakers Icon Edition Swingman Jersey": "Los Angeles Lakers Icon Edition Swingman jersey",
+    "Chicago Blackhawks Red Home Jersey": "Chicago Blackhawks red home jersey",
+    "Pittsburgh Penguins Hometown Remix Jersey": "Pittsburgh Penguins Hometown Remix jersey",
+    "Tampa Bay Lightning Blue Home Jersey": "Tampa Bay Lightning blue home jersey",
+    "Montreal Canadiens Red Home Jersey": "Montreal Canadiens red home jersey",
+    "UCLA Bruins Powder Blue Jersey": "UCLA Bruins light blue football jersey",
+    "USC Trojans Cardinal Jersey": "USC Trojans cardinal football jersey",
+    "Michigan Wolverines Navy Jersey": "Michigan Wolverines navy football jersey",
+    "LSU Tigers White Jersey": "LSU Tigers white football jersey",
+    "Los Angeles Dodgers Home White Jersey": "Los Angeles Dodgers home white jersey",
+    "Chicago Cubs Home Pinstripe Jersey": "Chicago Cubs home pinstripe jersey",
+    "New York Mets Black Alternate Jersey": "New York Mets black alternate jersey",
+    "New York Rangers Centennial Jersey": "New York Rangers Centennial jersey",
+    "Seattle Seahawks Rivalries Jersey": "Seattle Seahawks Rivalries jersey",
+  },
+};
+
+export function addShopListLinks(html: string, slug: string): { html: string; added: number } {
+  const picks = SHOP_LIST_POSTS[slug];
+  if (!on("giftGuides") || !picks) return { html, added: 0 };
+  let added = 0;
+  const seen = new Set<string>();
+  const out = html.split(/(?=<h[23]\b)/).map((sec) => {
+    const m = sec.match(/^<h3\b[^>]*>([\s\S]*?)<\/h3>/);
+    const name = m ? strip(m[1]) : "";
+    const query = picks[name];
+    if (!query || seen.has(name)) return sec;
+    seen.add(name);
+    added++;
+    return (
+      sec.replace(/\s+$/, "") +
+      `\n<p class="cw-aff" style="font-size: 0.85em; font-weight: 600; color: #3a4a68; margin: 0.8em 0 1.6em;">${shopLine(fanaticsHref(slug, query), `Shop the ${name} at Fanatics`)}</p>\n`
     );
   });
   return { html: out.join(""), added };

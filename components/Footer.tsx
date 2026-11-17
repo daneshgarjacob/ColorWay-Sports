@@ -9,6 +9,7 @@ const navLinks = [
   { label: "Newsletter", href: "/newsletter" },
   { label: "About", href: "/about" },
   { label: "Advertise", href: "/advertise" },
+  { label: "Ask ColorWay", href: "/ask" },
   { label: "Contact", href: "/contact" },
 ];
 

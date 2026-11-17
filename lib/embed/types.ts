@@ -10,7 +10,7 @@
 export type EmbedStatus = "confirmed" | "expected" | "worn";
 
 export type EmbedPart = {
-  /** "Helmet", "Jersey", "Pants" (MLB might use "Cap", "Jersey", "Pants"). */
+  /** "Helmet", "Jersey", "Pants" (NBA "Jersey", "Edition"; NHL "Sweater", "Game"). */
   part: string;
   /** "Silver", or "TBA" when nothing official and no projection exists. */
   label: string;
@@ -18,7 +18,7 @@ export type EmbedPart = {
 };
 
 export type EmbedCard = {
-  league: string;        // "nfl"
+  league: string;        // "nfl" | "nba" | "nhl"
   leagueLabel: string;   // "NFL"
   teamName: string;      // "Detroit Lions"
   nickname: string;      // "Lions"
@@ -26,6 +26,10 @@ export type EmbedCard = {
   accent: string;        // team colour for the top rule
   /** "Week 5", "Game 3", "Tonight". */
   period: string;
+  /** Lead-in for the matchup line: "This week" (default), "Tonight", "Next game". */
+  lead?: string;
+  /** Kicker above the uniform name; default "This week's uniform". */
+  uniformKicker?: string;
   /** "at Bengals" / "vs Packers". */
   matchup: string;
   /** "Sun, Oct 11" or the week window when no exact date is known. */
