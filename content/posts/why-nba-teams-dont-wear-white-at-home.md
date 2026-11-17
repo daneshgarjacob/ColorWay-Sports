@@ -1,15 +1,14 @@
 ---
-title: "Why Don't NBA Teams Wear White at Home Anymore? The Real Reason Is Money"
+title: "Why Don't NBA Teams Wear White At Home Anymore? The Real Reason Is Money"
 category: "NBA"
 date: "2026-07-08"
 updatedDate: "2026-07-08"
 excerpt: "The home team wears white only about a third of the time now. An NBA marketing chief told us the real reason, and it is revenue, not tradition."
 gradient: "linear-gradient(135deg, #C4CED4 0%, #0B1F4A 55%, #000000 100%)"
-coverImage: "/images/posts/why-nba-teams-dont-wear-white-at-home/hero.jpg"
-coverImagePosition: "center center"
 kicker: "Explained"
 league: "nba"
 teams: []
+cardStyle: words
 ---
 
 <img src="/images/posts/why-nba-teams-dont-wear-white-at-home/hero.jpg" alt="Six NBA Association white uniforms — the Lakers, Celtics, Knicks, Timberwolves, 76ers, and Suns home whites, the jerseys teams increasingly leave in the closet at home" style="width: 100%; border-radius: 10px;" />

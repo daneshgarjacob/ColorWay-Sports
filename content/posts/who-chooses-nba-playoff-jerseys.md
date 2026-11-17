@@ -8,13 +8,11 @@ excerpt: >-
   league approval process explained.
 gradient: 'linear-gradient(135deg, #552583 0%, #FDB927 100%)'
 logoSrc: /logos/nba.png
-coverImage: /images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.jpg
-coverImagePosition: center center
-coverImageFit: contain
 kicker: "Explained"
 league: nba
 teams:
   - los-angeles-lakers
+cardStyle: words
 ---
 
 <img src="/images/posts/who-chooses-nba-playoff-jerseys/lakers-jerseys-cover.jpg" alt="Los Angeles Lakers Association white, Icon gold, Statement purple, and City black jerseys side by side illustrating the home jersey and uniform selection process for the 2026 NBA Playoffs" style="width: 100%; display: block; border-radius: 12px; margin: 0 0 2.5em;" />
