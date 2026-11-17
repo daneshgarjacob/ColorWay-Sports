@@ -1,0 +1,144 @@
+{
+  "slug": "nfl-jersey-quiz-hard-2",
+  "type": "jersey",
+  "league": "nfl",
+  "leagueName": "NFL",
+  "title": "NFL Jersey Quiz Part 2: Hard Mode",
+  "headline": "NFL Jersey Quiz Part 2: Name The Team From A Tiny Piece Of Its Jersey",
+  "description": "A hard NFL jersey quiz: eight tiny squares cut from current NFL jerseys, no numbers, no wordmarks, no logos. Just a stripe, a collar or a shoulder. Guess the team, reveal the answer, keep score.",
+  "intro": [
+    "Every piece below is a small square cut from a current NFL jersey, about one sixtieth of the whole picture. No numbers, no wordmarks, no logo patches. What is left is the stuff fans stop noticing: a sleeve stripe, a collar, a shoulder panel.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "public/images/posts/nfl-tracker-jerseys",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "The Best NFL Uniforms Of 2026, Ranked",
+      "href": "/stories/best-nfl-uniforms-2026-ranked"
+    },
+    {
+      "label": "The Worst NFL Uniforms Of 2026, Ranked",
+      "href": "/stories/worst-nfl-uniforms-2026-ranked"
+    },
+    {
+      "label": "Every NFL Rivalries Uniform, Ranked",
+      "href": "/stories/nfl-rivalries-uniforms-2026-ranked"
+    },
+    {
+      "label": "The NFL Teams That Wear White At Home",
+      "href": "/stories/nfl-teams-that-wear-white-at-home-2026"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "steelers",
+      "file": "steelers-black-home.jpg",
+      "team": "Pittsburgh Steelers",
+      "box": [
+        0.1,
+        0.41,
+        0.225,
+        0.535
+      ],
+      "hint": "Hard mode. No numbers, no logos.",
+      "piece": "The gold sleeve with black and white bands near the cuff.",
+      "fact": "Pittsburgh's black and gold are the colors of the city's own flag."
+    },
+    {
+      "abbr": "rams",
+      "file": "rams-royal-home.jpg",
+      "team": "Los Angeles Rams",
+      "box": [
+        0.67,
+        0.07,
+        0.795,
+        0.195
+      ],
+      "piece": "The tip of a yellow horn curling over the royal blue shoulder.",
+      "fact": "Rams halfback Fred Gehrke painted horns on the team's helmets in 1948, the first helmet logo in pro football."
+    },
+    {
+      "abbr": "vikings",
+      "file": "vikings-purple-home.jpg",
+      "team": "Minnesota Vikings",
+      "box": [
+        0.09,
+        0.38,
+        0.215,
+        0.505
+      ],
+      "piece": "White and gold stripes on the purple sleeve.",
+      "fact": "Minnesota's current uniforms debuted in 2013."
+    },
+    {
+      "abbr": "cowboys",
+      "file": "cowboys-navy.jpg",
+      "team": "Dallas Cowboys",
+      "box": [
+        0.11,
+        0.44,
+        0.235,
+        0.565
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "Silver, white and navy stripes at the end of the sleeve.",
+      "fact": "Dallas usually wears white at home, a habit that goes back to the 1960s and general manager Tex Schramm.",
+      "story": "/stories/why-do-the-cowboys-wear-white-at-home"
+    },
+    {
+      "abbr": "seahawks",
+      "file": "seahawks-navy-home.jpg",
+      "team": "Seattle Seahawks",
+      "box": [
+        0.66,
+        0.05,
+        0.785,
+        0.175
+      ],
+      "piece": "Wolf gray across the shoulder, with a sliver of action green at the edge.",
+      "fact": "Seattle added wolf gray and action green in its 2012 redesign, the first season of Nike's NFL uniforms."
+    },
+    {
+      "abbr": "jets",
+      "file": "jets-green-home.jpg",
+      "team": "New York Jets",
+      "box": [
+        0.74,
+        0.37,
+        0.865,
+        0.495
+      ],
+      "piece": "White stripes near the cuff of the green sleeve.",
+      "fact": "The Jets' 2024 uniforms are based on the look they wore from the late 1970s through the 1980s."
+    },
+    {
+      "abbr": "chargers",
+      "file": "chargers-powder-blue-home.jpg",
+      "team": "Los Angeles Chargers",
+      "box": [
+        0.66,
+        0.06,
+        0.785,
+        0.185
+      ],
+      "hint": "Real NFL fans only.",
+      "piece": "A gold lightning bolt over the powder blue shoulder.",
+      "fact": "The Chargers wore powder blue in their first season, 1960, when they played in Los Angeles."
+    },
+    {
+      "abbr": "49ers",
+      "file": "49ers-scarlet-home.jpg",
+      "team": "San Francisco 49ers",
+      "box": [
+        0.74,
+        0.36,
+        0.865,
+        0.485
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "White stripes on the scarlet sleeve.",
+      "fact": "San Francisco began in 1946 in the All-America Football Conference and joined the NFL in 1950."
+    }
+  ]
+}

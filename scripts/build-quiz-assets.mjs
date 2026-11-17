@@ -16,6 +16,10 @@
 // Needs the source folders under ~/Desktop/ColorWay Sports/social, so it runs on
 // Jake's machine, not on Vercel. The output files are committed.
 //
+// Jersey quizzes ("type": "jersey") set "source" to a folder in public/ and give
+// each item a "file"; the crop box is a fraction of that image, same math. The
+// answer image (a<n>.webp) is then the whole jersey.
+//
 //   node scripts/build-quiz-assets.mjs            all quizzes
 //   node scripts/build-quiz-assets.mjs nfl-logo-quiz-hard
 
@@ -38,7 +42,10 @@ let failed = false;
 for (const file of readdirSync(DATA).filter((f) => f.endsWith(".json")).sort()) {
   const quiz = JSON.parse(readFileSync(join(DATA, file), "utf8"));
   if (only && quiz.slug !== only) continue;
-  const srcDir = join(SOCIAL, quiz.source, "logos");
+  // Jersey quizzes cut from images already in the repo ("public/..." source,
+  // each item names its file); logo quizzes cut from the social logos folder.
+  const inRepo = quiz.source.startsWith("public/");
+  const srcDir = inRepo ? join(root, quiz.source) : join(SOCIAL, quiz.source, "logos");
   if (!existsSync(srcDir)) {
     console.error(`✗ ${quiz.slug}: source folder missing: ${srcDir}`);
     failed = true;
@@ -50,7 +57,7 @@ for (const file of readdirSync(DATA).filter((f) => f.endsWith(".json")).sort()) 
   let total = 0;
   for (const [i, item] of quiz.items.entries()) {
     const n = i + 1;
-    const logo = join(srcDir, `${item.abbr}.png`);
+    const logo = join(srcDir, item.file ?? `${item.abbr}.png`);
     const { width: w, height: h } = await sharp(logo).metadata();
     // Same integer math as quiz_builder.py make_crop, so the pixels match the TikTok.
     const [x0, y0, x1, y1] = item.box;

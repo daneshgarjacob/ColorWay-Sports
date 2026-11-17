@@ -15,6 +15,8 @@ import FromTheTeams from "@/components/FromTheTeams";
 import { recentNewsWithThumbs } from "@/lib/news";
 import Footer from "@/components/Footer";
 import Link from "next/link";
+import DailyLogoCard from "@/components/quiz/daily/DailyLogoCard";
+import { DAILY_EPOCH, dailyKeys } from "@/lib/dailyLogo";
 import { pickFor } from "@/lib/jerseyOfTheDay";
 import type { Metadata } from "next";
 import { getAllPosts, type PostMeta as Post } from "@/lib/posts";
@@ -455,6 +457,13 @@ export default async function Home() {
             </ol>
           </section>
         )}
+
+        {/* Daily Logo (11/16): the once-a-day game, a reason to come back. */}
+        <section className="max-w-[1200px] mx-auto px-5 pt-10">
+          <div className="max-w-[640px]">
+            <DailyLogoCard epoch={DAILY_EPOCH} keys={dailyKeys()} variant="home" />
+          </div>
+        </section>
 
         <TeamPicker teams={myTeamCards} />
         <div className="max-w-[1200px] mx-auto px-5 pt-6"><MvSlot /></div>

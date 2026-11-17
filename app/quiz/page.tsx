@@ -3,12 +3,14 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import MvSlot from "@/components/MvSlot";
-import { getAllQuizzes, QUIZ_GROUPS } from "@/lib/quiz";
+import { getAllQuizzes, QUIZ_GROUPS, QUIZ_TYPE_COPY, QUIZ_TYPE_ORDER } from "@/lib/quiz";
+import DailyLogoCard from "@/components/quiz/daily/DailyLogoCard";
+import { DAILY_EPOCH, dailyKeys } from "@/lib/dailyLogo";
 
 const CANONICAL = "https://www.colorwaysports.com/quiz";
-const TITLE = "Logo Quizzes: Name The Team From A Tiny Piece Of Its Logo";
+const TITLE = "Logo And Jersey Quizzes: Name The Team From A Tiny Piece";
 const DESC =
-  "Hard sports logo quizzes for the NFL, NBA, NHL, MLB and college football. Eight tiny pieces of team logos per quiz: guess the team, reveal the answer, keep score and share your result.";
+  "Hard sports logo and jersey quizzes for the NFL, NBA, NHL, MLB and college football, plus a new Daily Logo every day. Eight tiny pieces per quiz: guess the team, reveal the answer, keep score and share your result.";
 
 export const metadata: Metadata = {
   title: `${TITLE} | ColorWay Sports`,
@@ -19,10 +21,18 @@ export const metadata: Metadata = {
 
 export default function QuizHub() {
   const quizzes = getAllQuizzes();
-  const groups = QUIZ_GROUPS.map((g) => ({
-    title: g.title,
-    quizzes: quizzes.filter((q) => g.leagueNames.includes(q.leagueName)),
-  })).filter((g) => g.quizzes.length > 0);
+  // Sections: Logo Quizzes (one group per league), then Jersey Quizzes, then
+  // Old Logo Quizzes, each also split by league. Empty groups drop out.
+  const groups = QUIZ_TYPE_ORDER.flatMap((type) =>
+    QUIZ_GROUPS.map((g) => ({
+      type,
+      title: `${g.title} ${QUIZ_TYPE_COPY[type].noun} Quizzes`,
+      quizzes: quizzes.filter((q) => q.type === type && g.leagueNames.includes(q.leagueName)),
+    })),
+  )
+    .filter((g) => g.quizzes.length > 0)
+    // The type heading goes on the first group of each type that survived.
+    .map((g, i, all) => ({ ...g, typeTitle: i === 0 || all[i - 1].type !== g.type ? QUIZ_TYPE_COPY[g.type].hubTitle : undefined }));
 
   return (
     <>
@@ -34,19 +44,29 @@ export default function QuizHub() {
               Play · Hard Mode
             </p>
             <h1 className="mt-3 mb-0 font-display font-black text-[38px] sm:text-[52px] leading-[1.02] tracking-[-0.03em] text-blue-dark">
-              Logo Quizzes
+              Logo And Jersey Quizzes
             </h1>
             <p className="mt-4 mb-0 text-[19px] leading-[1.6] text-[#333]">
-              Name the team from a tiny piece of its logo. Each quiz is eight pieces, each about 2% of the full logo,
-              chosen to stay away from the obvious part of the mark while keeping one real detail you can recognize.
+              Name the team from a tiny piece of its logo or its jersey. Each quiz is eight pieces, each about 2% of
+              the whole, chosen to stay away from the obvious part while keeping one real detail you can recognize.
               Guess, reveal the answer, keep score, then send your score to a friend.
             </p>
           </header>
 
+          {/* Daily Logo (11/16): the once-a-day game sits above every quiz. */}
+          <section className="mb-12">
+            <DailyLogoCard epoch={DAILY_EPOCH} keys={dailyKeys()} variant="hub" />
+          </section>
+
           {groups.map((g, gi) => (
-            <section key={g.title} className={gi === 0 ? "" : "mt-12"}>
+            <section key={g.title} className={gi === 0 ? "" : g.typeTitle ? "mt-16" : "mt-12"}>
+              {g.typeTitle && (
+                <p className="m-0 mb-2 font-display text-[14px] font-extrabold tracking-[0.16em] uppercase text-orange">
+                  {g.typeTitle}
+                </p>
+              )}
               <h2 className="m-0 mb-4 font-display font-black text-[30px] tracking-[-0.02em] text-blue-dark">
-                {g.title} Logo Quizzes
+                {g.title}
               </h2>
               <ul className="m-0 p-0 list-none grid gap-4 sm:grid-cols-2">
                 {g.quizzes.map((q) => (

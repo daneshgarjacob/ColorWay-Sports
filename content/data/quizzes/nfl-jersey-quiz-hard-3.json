@@ -1,0 +1,144 @@
+{
+  "slug": "nfl-jersey-quiz-hard-3",
+  "type": "jersey",
+  "league": "nfl",
+  "leagueName": "NFL",
+  "title": "NFL Jersey Quiz Part 3: Hard Mode",
+  "headline": "NFL Jersey Quiz Part 3: Name The Team From A Tiny Piece Of Its Jersey",
+  "description": "A hard NFL jersey quiz: eight tiny squares cut from current NFL jerseys, no numbers, no wordmarks, no logos. Just a stripe, a collar or a shoulder. Guess the team, reveal the answer, keep score.",
+  "intro": [
+    "Every piece below is a small square cut from a current NFL jersey, about one sixtieth of the whole picture. No numbers, no wordmarks, no logo patches. What is left is the stuff fans stop noticing: a sleeve stripe, a collar, a shoulder panel.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "public/images/posts/nfl-tracker-jerseys",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "The Best NFL Uniforms Of 2026, Ranked",
+      "href": "/stories/best-nfl-uniforms-2026-ranked"
+    },
+    {
+      "label": "The Worst NFL Uniforms Of 2026, Ranked",
+      "href": "/stories/worst-nfl-uniforms-2026-ranked"
+    },
+    {
+      "label": "Every NFL Rivalries Uniform, Ranked",
+      "href": "/stories/nfl-rivalries-uniforms-2026-ranked"
+    },
+    {
+      "label": "The NFL Teams That Wear White At Home",
+      "href": "/stories/nfl-teams-that-wear-white-at-home-2026"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "patriots",
+      "file": "patriots-navy-home.jpg",
+      "team": "New England Patriots",
+      "box": [
+        0.66,
+        0.1,
+        0.785,
+        0.225
+      ],
+      "hint": "Hard mode. No numbers, no logos.",
+      "piece": "Red and white stripes over the navy shoulder.",
+      "fact": "New England's current navy home uniforms arrived in 2020."
+    },
+    {
+      "abbr": "commanders",
+      "file": "commanders-burgundy-home.jpg",
+      "team": "Washington Commanders",
+      "box": [
+        0.09,
+        0.38,
+        0.215,
+        0.505
+      ],
+      "piece": "Gold and white stripes on the burgundy sleeve.",
+      "fact": "Washington became the Commanders in February 2022."
+    },
+    {
+      "abbr": "buccaneers",
+      "file": "buccaneers-creamsicle.jpg",
+      "team": "Tampa Bay Buccaneers",
+      "box": [
+        0.78,
+        0.4,
+        0.905,
+        0.525
+      ],
+      "piece": "Red and white stripes on the orange sleeve.",
+      "fact": "Tampa Bay wore this orange, nicknamed Creamsicle, from 1976 to 1996 and brought it back in 2023."
+    },
+    {
+      "abbr": "titans",
+      "file": "titans-light-blue-home.jpg",
+      "team": "Tennessee Titans",
+      "box": [
+        0.78,
+        0.4,
+        0.905,
+        0.525
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "Red and white stripes on the light blue sleeve.",
+      "fact": "The franchise was the Houston Oilers until it moved to Tennessee in 1997, and it became the Titans in 1999."
+    },
+    {
+      "abbr": "saints",
+      "file": "saints-black-home.jpg",
+      "team": "New Orleans Saints",
+      "box": [
+        0.36,
+        0.04,
+        0.485,
+        0.165
+      ],
+      "piece": "The old gold collar on the black jersey.",
+      "fact": "New Orleans has worn black and old gold since its first season in 1967."
+    },
+    {
+      "abbr": "bills",
+      "file": "bills-royal-home.jpg",
+      "team": "Buffalo Bills",
+      "box": [
+        0.1,
+        0.37,
+        0.225,
+        0.495
+      ],
+      "piece": "Red and white stripes on the royal blue sleeve.",
+      "fact": "Buffalo went back to royal blue in 2011, with a redesign based on its 1970s uniforms."
+    },
+    {
+      "abbr": "panthers",
+      "file": "panthers-black-home.jpg",
+      "team": "Carolina Panthers",
+      "box": [
+        0.11,
+        0.15,
+        0.235,
+        0.275
+      ],
+      "hint": "Real NFL fans only.",
+      "piece": "The Panther blue shoulder panel with its silver edge.",
+      "fact": "Carolina's colors are black, Panther blue and silver, the same three since its first season in 1995."
+    },
+    {
+      "abbr": "dolphins",
+      "file": "dolphins-aqua-throwback.jpg",
+      "team": "Miami Dolphins",
+      "box": [
+        0.1,
+        0.42,
+        0.225,
+        0.545
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "Orange, white and navy stripes on the aqua sleeve.",
+      "fact": "Miami has worn aqua and orange since its first season, 1966.",
+      "story": "/stories/why-do-the-dolphins-wear-white-at-home"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "nfl-jersey-quiz-hard",
+  "type": "jersey",
+  "league": "nfl",
+  "leagueName": "NFL",
+  "title": "NFL Jersey Quiz: Hard Mode",
+  "headline": "Can You Name The NFL Team From A Tiny Piece Of Its Jersey?",
+  "description": "A hard NFL jersey quiz: eight tiny squares cut from current NFL jerseys, no numbers, no wordmarks, no logos. Just a stripe, a collar or a shoulder. Guess the team, reveal the answer, keep score.",
+  "intro": [
+    "Every piece below is a small square cut from a current NFL jersey, about one sixtieth of the whole picture. No numbers, no wordmarks, no logo patches. What is left is the stuff fans stop noticing: a sleeve stripe, a collar, a shoulder panel.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "public/images/posts/nfl-tracker-jerseys",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "The Best NFL Uniforms Of 2026, Ranked",
+      "href": "/stories/best-nfl-uniforms-2026-ranked"
+    },
+    {
+      "label": "The Worst NFL Uniforms Of 2026, Ranked",
+      "href": "/stories/worst-nfl-uniforms-2026-ranked"
+    },
+    {
+      "label": "Every NFL Rivalries Uniform, Ranked",
+      "href": "/stories/nfl-rivalries-uniforms-2026-ranked"
+    },
+    {
+      "label": "The NFL Teams That Wear White At Home",
+      "href": "/stories/nfl-teams-that-wear-white-at-home-2026"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "bears",
+      "file": "bears-navy-home.jpg",
+      "team": "Chicago Bears",
+      "box": [
+        0.1,
+        0.4,
+        0.225,
+        0.525
+      ],
+      "hint": "Hard mode. No numbers, no logos.",
+      "piece": "Orange and white stripes near the cuff of the navy home sleeve.",
+      "fact": "The Bears wear the initials GSH on the left sleeve for founder George S. Halas, who died in 1983."
+    },
+    {
+      "abbr": "bengals",
+      "file": "bengals-black-home.jpg",
+      "team": "Cincinnati Bengals",
+      "box": [
+        0.66,
+        0.12,
+        0.785,
+        0.245
+      ],
+      "piece": "Orange tiger stripes over the black shoulder.",
+      "fact": "Cincinnati unveiled its current uniforms in 2021, with tiger stripes over the shoulders."
+    },
+    {
+      "abbr": "browns",
+      "file": "browns-brown-home.jpg",
+      "team": "Cleveland Browns",
+      "box": [
+        0.1,
+        0.38,
+        0.225,
+        0.505
+      ],
+      "piece": "Orange and white stripes at the end of the brown sleeve.",
+      "fact": "The Browns are the only NFL team with no logo on the helmet: it is plain orange."
+    },
+    {
+      "abbr": "packers",
+      "file": "packers-green-home.jpg",
+      "team": "Green Bay Packers",
+      "box": [
+        0.1,
+        0.4,
+        0.225,
+        0.525
+      ],
+      "hint": "Halfway. Keep count.",
+      "piece": "Gold and white stripes on the green sleeve.",
+      "fact": "Green and gold became the Packers' main colors in 1950; before that they mostly wore navy blue and gold."
+    },
+    {
+      "abbr": "colts",
+      "file": "colts-royal-home.jpg",
+      "team": "Indianapolis Colts",
+      "box": [
+        0.2,
+        0.08,
+        0.325,
+        0.205
+      ],
+      "piece": "Two white stripes over the royal blue shoulder.",
+      "fact": "The Colts brought their blue-and-white look and the horseshoe with them when they moved from Baltimore to Indianapolis in 1984."
+    },
+    {
+      "abbr": "chiefs",
+      "file": "chiefs-red-home.jpg",
+      "team": "Kansas City Chiefs",
+      "box": [
+        0.09,
+        0.38,
+        0.215,
+        0.505
+      ],
+      "piece": "White and gold stripes on the red sleeve.",
+      "fact": "The franchise began as the Dallas Texans in 1960 and moved to Kansas City as the Chiefs in 1963."
+    },
+    {
+      "abbr": "broncos",
+      "file": "broncos-orange-home.jpg",
+      "team": "Denver Broncos",
+      "box": [
+        0.73,
+        0.22,
+        0.855,
+        0.345
+      ],
+      "hint": "Real NFL fans only.",
+      "piece": "A navy and white shape cutting across the orange sleeve.",
+      "fact": "Denver introduced its current uniforms in 2024, its first full redesign since 1997."
+    },
+    {
+      "abbr": "lions",
+      "file": "lions-honolulu-blue-home.jpg",
+      "team": "Detroit Lions",
+      "box": [
+        0.75,
+        0.4,
+        0.875,
+        0.525
+      ],
+      "hint": "Last one. Hardest one.",
+      "piece": "Silver and white stripes above the cuff of the blue sleeve.",
+      "fact": "Owner George Richards picked Honolulu blue and silver in 1934, the Lions' first season in Detroit."
+    }
+  ]
+}

@@ -7,7 +7,7 @@ import MvSlot from "@/components/MvSlot";
 import QuizQuestion from "@/components/quiz/QuizQuestion";
 import QuizScore from "@/components/quiz/QuizScore";
 import styles from "@/components/quiz/quiz.module.css";
-import { getAllQuizzes, getQuiz, nextQuiz } from "@/lib/quiz";
+import { getAllQuizzes, getQuiz, nextQuiz, QUIZ_TYPE_COPY } from "@/lib/quiz";
 
 const SITE = "https://www.colorwaysports.com";
 
@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const quiz = getQuiz(slug);
   if (!quiz) return { title: "Not found" };
   const url = `${SITE}/quiz/${slug}`;
-  const title = `${quiz.title}: Name The Team From A Tiny Piece Of Its Logo`;
+  const title = `${quiz.title}: ${QUIZ_TYPE_COPY[quiz.type].titleTail}`;
   return {
     title: `${title} | ColorWay Sports`,
     description: quiz.description,
@@ -50,12 +50,14 @@ export default async function QuizPage({ params }: { params: Promise<{ slug: str
   const next = nextQuiz(slug);
   const total = quiz.items.length;
   const url = `${SITE}/quiz/${slug}`;
+  const copy = QUIZ_TYPE_COPY[quiz.type];
+  const noun = copy.noun.toLowerCase();
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Logo Quizzes", item: `${SITE}/quiz` },
+      { "@type": "ListItem", position: 1, name: "Quizzes", item: `${SITE}/quiz` },
       { "@type": "ListItem", position: 2, name: quiz.title, item: url },
     ],
   };
@@ -72,13 +74,13 @@ export default async function QuizPage({ params }: { params: Promise<{ slug: str
               href="/quiz"
               className="font-display text-[13px] font-extrabold tracking-[0.16em] uppercase text-orange no-underline"
             >
-              &larr; All Logo Quizzes
+              &larr; All Quizzes
             </Link>
           </nav>
 
           <header className="pt-5 pb-8">
             <p className="m-0 font-display text-[14px] font-extrabold tracking-[0.16em] uppercase text-orange">
-              {quiz.leagueName} Logo Quiz · Hard Mode
+              {quiz.leagueName} {copy.noun} Quiz · Hard Mode
             </p>
             <h1 className="mt-3 mb-0 font-display font-black text-[34px] sm:text-[46px] leading-[1.04] tracking-[-0.03em] text-blue-dark">
               {quiz.headline}
@@ -99,6 +101,8 @@ export default async function QuizPage({ params }: { params: Promise<{ slug: str
                 leagueName={quiz.leagueName}
                 pieceSrc={item.pieceSrc}
                 hint={item.hint}
+                question={copy.question}
+                noun={noun}
               >
                 <div className={styles.pair}>
                   <div className={styles.mini}>
@@ -110,7 +114,7 @@ export default async function QuizPage({ params }: { params: Promise<{ slug: str
                   </span>
                   <div className={styles.full}>
                     {/* eslint-disable-next-line @next/next/no-img-element -- public/ is served raw by design */}
-                    <img src={item.logoSrc} alt={`${item.team} logo`} width={220} height={220} loading="lazy" />
+                    <img src={item.logoSrc} alt={`${item.team} ${noun}`} width={220} height={220} loading="lazy" />
                   </div>
                 </div>
                 <p className={styles.team}>{item.team}</p>
@@ -132,7 +136,7 @@ export default async function QuizPage({ params }: { params: Promise<{ slug: str
             </div>
           ))}
 
-          <QuizScore slug={quiz.slug} total={total} leagueName={quiz.leagueName} url={url} />
+          <QuizScore slug={quiz.slug} total={total} leagueName={quiz.leagueName} url={url} noun={noun} />
 
           <section className="mt-12">
             <p className="m-0 font-display text-[14px] font-extrabold tracking-[0.16em] uppercase text-orange">Next Quiz</p>
@@ -156,7 +160,7 @@ export default async function QuizPage({ params }: { params: Promise<{ slug: str
 
           <section className="mt-4">
             <h2 className="font-display font-black text-[28px] tracking-[-0.02em] text-blue-dark m-0">
-              More {quiz.leagueName} Logo Stories
+              More {quiz.leagueName} {quiz.type === "jersey" ? "Uniform" : "Logo"} Stories
             </h2>
             <ul className="mt-4 mb-0 p-0 list-none">
               {quiz.readMore.map((l) => (
@@ -181,10 +185,21 @@ export default async function QuizPage({ params }: { params: Promise<{ slug: str
           <section className="mt-10">
             <h2 className="font-display font-black text-[28px] tracking-[-0.02em] text-blue-dark m-0">How This Quiz Works</h2>
             <p className="mt-3 mb-0 text-[18px] leading-[1.6] text-[#333]">
-              Each piece is a square about 13% as wide as the full logo, roughly 2% of its area, cut from the
-              team&apos;s logo. We pick pieces that stay away from each logo&apos;s signature shape, but every one keeps
-              a real detail: a color pair, a curve or an edge you can only find on that team&apos;s logo. We post logo quizzes on
-              TikTok too, at @colorway.sports.
+              {quiz.type === "jersey" ? (
+                <>
+                  Each piece is a square about an eighth as wide as the jersey picture, cut from a current {quiz.leagueName}{" "}
+                  jersey. We stay away from numbers, wordmarks, logo patches and the maker&apos;s mark, so what is left is
+                  a real trim detail: a sleeve stripe, a collar or a shoulder panel in that team&apos;s colors. The answer
+                  shows the whole jersey.
+                </>
+              ) : (
+                <>
+                  Each piece is a square about 13% as wide as the full logo, roughly 2% of its area, cut from the
+                  team&apos;s {noun}. We pick pieces that stay away from each logo&apos;s signature shape, but every one
+                  keeps a real detail: a color pair, a curve or an edge you can only find on that team&apos;s {noun}.
+                </>
+              )}{" "}
+              We post quizzes on TikTok too, at @colorway.sports.
             </p>
           </section>
         </div>
