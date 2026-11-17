@@ -1,9 +1,18 @@
 import { NextResponse } from "next/server";
+import { isTeamAlertId, MAX_ALERT_TEAMS } from "@/lib/teamAlerts";
 
 export async function POST(request: Request) {
-  const { email, team } = await request.json();
+  const { email, team, teams } = await request.json();
   // Team slug from a schedule-post signup ("chicago-bears"); anything else is dropped.
   const teamTag = typeof team === "string" && /^[a-z0-9-]{2,60}$/.test(team) ? team : undefined;
+  // Team Alerts signup (components/TeamUniformAlerts.tsx): My Teams ids such as
+  // "nfl:detroit-lions", saved on the subscriber in a beehiiv custom field
+  // (default name "Team Alerts", override with BEEHIIV_TEAM_FIELD). beehiiv
+  // drops a field the publication does not have and still creates the
+  // subscriber, so a missing field never blocks a signup.
+  const alertTeams: string[] = Array.isArray(teams)
+    ? [...new Set(teams.filter(isTeamAlertId))].slice(0, MAX_ALERT_TEAMS)
+    : [];
 
   if (!email || !email.includes("@")) {
     return NextResponse.json(
@@ -33,13 +42,30 @@ export async function POST(request: Request) {
             reactivate_existing: false,
             send_welcome_email: true, // beehiiv welcome email (Jake's text + logo signature), on since 9/30
             utm_source: "colorwaysports.com",
-            ...(teamTag ? { utm_medium: "schedule-post", utm_campaign: teamTag } : {}),
+            ...(alertTeams.length
+              ? {
+                  utm_medium: "team-alerts",
+                  utm_campaign: alertTeams[0].split(":")[1],
+                  custom_fields: [
+                    { name: process.env.BEEHIIV_TEAM_FIELD || "Team Alerts", value: alertTeams.join(",") },
+                  ],
+                }
+              : teamTag
+                ? { utm_medium: "schedule-post", utm_campaign: teamTag }
+                : {}),
             referring_site: "https://www.colorwaysports.com",
           }),
         }
       );
 
       if (res.ok) {
+        if (alertTeams.length) {
+          // beehiiv answers 2xx with `warnings` when the custom field is missing.
+          const ok = await res.json().catch(() => ({}));
+          if (Array.isArray(ok?.warnings) && ok.warnings.length) {
+            console.log(`[TeamAlerts] beehiiv warnings: ${JSON.stringify(ok.warnings)}`);
+          }
+        }
         return NextResponse.json({ success: true });
       }
 

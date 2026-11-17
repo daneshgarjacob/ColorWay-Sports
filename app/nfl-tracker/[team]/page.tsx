@@ -6,6 +6,8 @@ import type { Metadata } from "next";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import TeamWearBox from "@/components/TeamWearBox";
 import TeamMoreBlock from "@/components/TeamMoreBlock";
+import TeamUniformAlerts from "@/components/TeamUniformAlerts";
+import { TEAM_ALERTS_LIVE } from "@/lib/teamAlerts";
 import { buildTeamMoreLinks } from "@/lib/teamMoreLinks";
 import { getPostBySlug } from "@/lib/posts";
 import { getNflLatestFromTracker, nflComboSentence } from "@/lib/nflTeamLatest";
@@ -276,7 +278,12 @@ export default async function NflTeamCalendarPage({
         </section>
 
         <div className="max-w-[980px] mx-auto px-5 pt-10">
-          <InlineNewsletter />
+          {/* Team Alerts replace the general signup here once switched on (lib/teamAlerts.ts). */}
+          {TEAM_ALERTS_LIVE ? (
+            <TeamUniformAlerts pageTeam={{ id: `nfl:${entry.slug}`, name: entry.name, nickname: entry.nickname }} />
+          ) : (
+            <InlineNewsletter />
+          )}
         </div>
 
         <section className="max-w-[980px] mx-auto px-5 pt-10">
