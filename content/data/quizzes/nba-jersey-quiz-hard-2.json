@@ -1,0 +1,103 @@
+{
+  "slug": "nba-jersey-quiz-hard-2",
+  "type": "jersey",
+  "league": "nba",
+  "leagueName": "NBA",
+  "title": "NBA Jersey Quiz Part 2: Hard Mode",
+  "headline": "NBA Jersey Quiz Part 2: Name The Team From A Tiny Piece Of Its Jersey",
+  "description": "A hard NBA jersey quiz: eight tiny squares cut from current NBA jerseys, no numbers, no wordmarks, no logos. Just a collar, an armhole trim or a side panel. Guess the team, reveal the answer, keep score.",
+  "intro": [
+    "Every piece below is a small square cut from a current NBA jersey, about one fiftieth of the whole picture. No numbers, no wordmarks, no logo patches. What is left is the stuff fans stop noticing: the trim around an armhole, a pinstripe, a side panel.",
+    "Make your guess, then tap Show The Answer. Be honest and mark whether you got it, and your score adds up at the bottom."
+  ],
+  "source": "public/images/posts/nba-daily-tracker",
+  "published": "2026-11-16",
+  "readMore": [
+    {
+      "label": "How Every NBA Team Got Its Colors",
+      "href": "/stories/how-every-nba-team-got-its-colors"
+    },
+    {
+      "label": "Every NBA City Edition Jersey, Ranked",
+      "href": "/stories/nba-city-edition-jerseys-2026-27"
+    },
+    {
+      "label": "The NBA Classic Edition Jerseys, Ranked",
+      "href": "/stories/nba-classic-edition-jerseys-courts-2026-27"
+    },
+    {
+      "label": "Why NBA Home Teams Don't Wear Home Jerseys",
+      "href": "/stories/nba-only-major-league-killed-home-jersey-tradition"
+    }
+  ],
+  "items": [
+    {
+      "abbr": "bulls",
+      "file": "bulls-icon.jpg",
+      "team": "Chicago Bulls",
+      "box": [0.6104, 0.1717, 0.7667, 0.2967],
+      "hint": "Hard mode. No numbers, no logos.",
+      "piece": "Black and white trim around the armhole of the red jersey.",
+      "fact": "Chicago's red jersey keeps the trim simple: thin black and white bands around the neck and both armholes."
+    },
+    {
+      "abbr": "hornets",
+      "file": "hornets-icon.jpg",
+      "team": "Charlotte Hornets",
+      "box": [0.5479, 0.6717, 0.7042, 0.7967],
+      "piece": "Thin white pinstripes on the teal jersey.",
+      "fact": "North Carolina designer Alexander Julian created the original teal pinstriped Hornets uniforms for the team's first season in 1988."
+    },
+    {
+      "abbr": "spurs",
+      "file": "spurs-icon.jpg",
+      "team": "San Antonio Spurs",
+      "box": [0.6417, 0.605, 0.7979, 0.73],
+      "piece": "The silver side panel, edged in white, on the black jersey.",
+      "fact": "The franchise switched to black, silver and white when it moved from Dallas to San Antonio in 1973."
+    },
+    {
+      "abbr": "rockets",
+      "file": "rockets-icon.jpg",
+      "team": "Houston Rockets",
+      "box": [0.6687, 0.505, 0.825, 0.63],
+      "hint": "Halfway. Keep count.",
+      "piece": "The yellow side panel, with a white stripe, on the red jersey.",
+      "fact": "Houston's red jersey has thin pinstripes on the body and a yellow panel running down each side."
+    },
+    {
+      "abbr": "pistons",
+      "file": "pistons-icon.jpg",
+      "team": "Detroit Pistons",
+      "box": [0.6563, 0.505, 0.8125, 0.63],
+      "piece": "Red stripes split by a white stripe on the side of the royal blue jersey.",
+      "fact": "Detroit's royal blue jersey has red and white stripes running down each side, from the armhole to the hem."
+    },
+    {
+      "abbr": "wizards",
+      "file": "wizards-icon.jpg",
+      "team": "Washington Wizards",
+      "box": [0.6208, 0.3083, 0.7771, 0.4333],
+      "piece": "The white band across the red jersey, with white armhole trim above it.",
+      "fact": "Washington dropped blue and gold and went back to red, white and blue in 2011, the colors of its Bullets years."
+    },
+    {
+      "abbr": "thunder",
+      "file": "thunder-icon.jpg",
+      "team": "Oklahoma City Thunder",
+      "box": [0.6104, 0.155, 0.7667, 0.28],
+      "hint": "Real NBA fans only.",
+      "piece": "Orange and navy trim around the armhole of the blue jersey.",
+      "fact": "When the team launched in 2008, chairman Clay Bennett said the blue came from the Oklahoma state flag and the orange from the sunset."
+    },
+    {
+      "abbr": "pelicans",
+      "file": "pelicans-icon.jpg",
+      "team": "New Orleans Pelicans",
+      "box": [0.6729, 0.6717, 0.8292, 0.7967],
+      "hint": "Last one. Hardest one.",
+      "piece": "The gold side panel on the navy jersey.",
+      "fact": "The navy, gold and red date to the team's 2013 change from Hornets to Pelicans; the team said the blue came from Louisiana's state flag."
+    }
+  ]
+}

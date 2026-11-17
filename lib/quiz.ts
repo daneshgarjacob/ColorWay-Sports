@@ -20,6 +20,12 @@ import bigTen from "@/content/data/quizzes/big-ten-logo-quiz-hard.json";
 import nflJersey from "@/content/data/quizzes/nfl-jersey-quiz-hard.json";
 import nflJersey2 from "@/content/data/quizzes/nfl-jersey-quiz-hard-2.json";
 import nflJersey3 from "@/content/data/quizzes/nfl-jersey-quiz-hard-3.json";
+import nbaJersey from "@/content/data/quizzes/nba-jersey-quiz-hard.json";
+import nbaJersey2 from "@/content/data/quizzes/nba-jersey-quiz-hard-2.json";
+// NHL jersey quizzes leave out the hidden NHL TikTok quiz teams
+// (TOR, DET, PIT, CHI, VAN, SEA, WPG, MIN).
+import nhlJersey from "@/content/data/quizzes/nhl-jersey-quiz-hard.json";
+import nhlJersey2 from "@/content/data/quizzes/nhl-jersey-quiz-hard-2.json";
 // NHL and MLB quizzes are hidden for now: re-enable after TikTok posts.
 // Their JSON and images stay in the repo; uncomment these two imports and add
 // nhl, mlb back to RAW below to publish them (pages, hub cards, next-quiz
@@ -127,6 +133,8 @@ const RAW: QuizData[] = [
   mlb2, mlb3, mlb4,
   sec, bigTen,
   nflJersey, nflJersey2, nflJersey3,
+  nbaJersey, nbaJersey2,
+  nhlJersey, nhlJersey2,
 ] as QuizData[];
 
 /** Hub sections by type, in order. Inside "logo", quizzes are grouped by league (QUIZ_GROUPS). */
