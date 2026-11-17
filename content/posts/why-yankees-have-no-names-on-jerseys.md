@@ -2,7 +2,7 @@
 title: "Why Don't the Yankees Have Names on Their Jerseys? The 100-Year Tradition, Explained"
 category: MLB
 date: "2026-07-23"
-updatedDate: "2026-07-23"
+updatedDate: "2026-11-18"
 excerpt: "The Yankees have never worn player names on the backs of their jerseys, home or road. The tradition goes back nearly a century, and the reason is the same one that built the brand."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1c2a4a 55%, #C4CED4 130%)"
 logoSrc: "/logos/leagues/mlb.png"
@@ -39,13 +39,15 @@ There is a legacy argument layered on top of it. Leaving the names off is a nod 
 
 ## Have They Ever Broken It?
 
-Barely, and never by choice. The only time names have appeared on a Yankees uniform came from a league-wide MLB promotion rather than a team decision, the kind of one-off event where every club in baseball was required to participate. Left to their own preferences, the Yankees have kept every regular season jersey, home pinstripes and road grays alike, completely nameless.
+Barely, and never by choice. The only time names have appeared on a Yankees uniform came from MLB's Players' Weekend, a league-wide promotion that ran from 2017 through 2019 and dressed every club in special uniforms with names or nicknames on the back. In 2017 Aaron Judge wore ALL RISE, and Brett Gardner and Tyler Austin became the first Yankees to wear their last names on an official uniform. Left to their own preferences, the Yankees have kept every regular season jersey, home pinstripes and road grays alike, completely nameless.
 
-That is also why their 2026 news mattered so much to uniform watchers. The team [designated a navy alternate for the first time in franchise history](/stories/yankees-first-alternate-uniform-2026), and even that jersey carries no name on the back. When the most tradition-bound team in sports finally adds something new, the one rule it will not touch is this one.
+That is also why their 2026 news mattered so much to uniform watchers. The team [designated a navy alternate for the first time in franchise history](/stories/yankees-first-alternate-uniform-2026), and even that jersey carries no name on the back. When the most tradition-bound team in sports finally adds something new, the one rule it will not touch is this one. As of November 2026 the Yankees still had not worn that navy jersey in a regular season game, and they are one of only two MLB teams, with the Athletics, without a City Connect uniform.
+
+The Yankees can change when they want to. In February 2025, Hal Steinbrenner relaxed the facial hair rule his father George set in 1976 and allowed well-groomed beards. The blank back has not gotten the same treatment.
 
 ## Is Any Other Team Nameless?
 
-A few clubs still leave names off their home whites, the San Francisco Giants and the Boston Red Sox among them, but they wear names on the road. The Yankees are the last team in baseball that refuses names on every uniform, home and away. What used to be a leaguewide default is now, essentially, a Yankees-only trait, which is exactly the kind of distinction the franchise likes to own.
+The Boston Red Sox still leave names off their home whites and their red alternate, but they have worn names on the road since 1990. The San Francisco Giants kept their home creams nameless for decades, then added names for the 2021 season. The Yankees are the last team in baseball that refuses names on every uniform, home and away. What used to be a leaguewide default is now, essentially, a Yankees-only trait, which is exactly the kind of distinction the franchise likes to own.
 
 ## The Bottom Line
 
@@ -59,7 +61,7 @@ The Yankees believe the name that matters is on the front of the uniform, not th
 
 **Have the Yankees ever worn names on their jerseys?**
 
-Only as part of a league-wide MLB promotion that required every team to participate, never by their own choice. Every Yankees regular season uniform, home and road, is otherwise nameless.
+Only during MLB's Players' Weekend from 2017 through 2019, a league-wide promotion that required every team to participate, never by their own choice. Every Yankees regular season uniform, home and road, is otherwise nameless.
 
 **When did other teams start putting names on jerseys?**
 
@@ -71,7 +73,7 @@ Yes. The Yankees were among the first teams to add uniform numbers, in 1929, whe
 
 **Are the Yankees the only team without names?**
 
-They are the only team that goes nameless on every uniform, home and road. A few teams, including the Giants and Red Sox, still skip names on their home whites but wear them on the road.
+They are the only team that goes nameless on every uniform, home and road. The Red Sox still skip names on their home whites but have worn them on the road since 1990. The Giants did the same until they added names at home in 2021.
 
 ## More Yankees and Uniform Coverage
 

@@ -27,7 +27,7 @@ export default function PrivacyPolicyPage() {
             Privacy <span className="text-orange">Policy</span>
           </h1>
           <p className="text-lg text-gray-medium max-w-[600px] mx-auto leading-relaxed">
-            Last updated: September 25, 2026
+            Last updated: November 16, 2026
           </p>
         </div>
 
@@ -65,7 +65,7 @@ export default function PrivacyPolicyPage() {
               <li>
                 <strong>Email Address:</strong> If you voluntarily subscribe to our newsletter
                 through our email signup form, we collect your email address. This is managed
-                through Mailchimp.
+                through beehiiv.
               </li>
               <li>
                 <strong>Contact Form Submissions:</strong> If you reach out through our contact
@@ -120,14 +120,14 @@ export default function PrivacyPolicyPage() {
                 </a>
               </li>
               <li>
-                <strong>Mailchimp:</strong> For email newsletter delivery.{" "}
+                <strong>beehiiv:</strong> For email newsletter delivery.{" "}
                 <a
-                  href="https://www.intuit.com/privacy/statement/"
+                  href="https://www.beehiiv.com/privacy"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-orange hover:underline"
                 >
-                  Mailchimp&apos;s Privacy Policy
+                  beehiiv&apos;s Privacy Policy
                 </a>
               </li>
               <li>
