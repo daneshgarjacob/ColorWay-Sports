@@ -33,6 +33,7 @@ Below is every uniform announced so far, then every game this week involving an 
 - **Kentucky: blue, white, blue (Confirmed).** Blue helmet with the UK logo, white jersey with the Kentucky script, blue pants with a white stripe, at Missouri. Posted November 17 as "Saturday's look."
 - **Liberty: navy helmet, all red below (Confirmed).** Navy helmet with the Sparky logo, red jersey with the Flames script, red pants, vs. Western Kentucky. Posted November 18 with the caption 🔵🔴🔴.
 - **Florida: orange, blue, white (Confirmed, from its published grid).** Orange helmet, blue jersey, white pants, vs. Vanderbilt, from the season uniform schedule Florida published in August.
+- **Maryland: Script Shift (Confirmed).** All white, helmet, jersey and pants, with the Terps script and numbers in an iridescent gold, black and red finish, at No. 18 USC. Announced November 18, the set's first game since the 2024 debut at Oregon. [Details](/stories/maryland-script-shift-uniforms-return-usc-2026).
 
 That is the list as of Wednesday, November 18. Schools post their combinations from Monday through Saturday morning, and we add each one here.
 
@@ -322,8 +323,13 @@ Also in the afternoon: Missouri State at Jacksonville State (2 p.m., ESPN+), Mid
 - Texas State: **Expected**, maroon, for Senior Day.
 
 **[Maryland](/stories/maryland-uniform-schedule-2026) at No. 18 [USC](/stories/usc-uniform-schedule-2026)**, 6:15 p.m. (3:15 p.m. Pacific), BTN.
-- Maryland: **Expected**, white.
+- Maryland: **Confirmed**, the Script Shift uniforms: white helmet with the Terps script, white jersey, white pants, with the numbers, chest script and logos in an iridescent gold, black and red finish. Announced November 18. It is only the second game in the set, after the debut at No. 1 Oregon on November 9, 2024. [Every detail and the history](/stories/maryland-script-shift-uniforms-return-usc-2026).
 - USC: **Expected**, cardinal, for Senior Day at the Coliseum.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TerpsFootball/status/2123102617433706951"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Maryland's Script Shift uniforms return at USC, via <a href="https://x.com/TerpsFootball" target="_blank" rel="noopener">@TerpsFootball</a></p>
 
 **[Virginia Tech](/stories/virginia-tech-uniform-schedule-2026) at No. 5 [Miami](/stories/miami-hurricanes-uniform-schedule-2026)**, 7 p.m., ESPN.
 - Virginia Tech: **Expected**, white.
@@ -341,7 +347,7 @@ Also in the afternoon: Missouri State at Jacksonville State (2 p.m., ESPN+), Mid
 - South Carolina: **Expected**, garnet, with all black a real chance for its last home game.
 
 **[SMU](/stories/smu-uniform-schedule-2026) at No. 3 [Notre Dame](/stories/notre-dame-uniform-schedule-2026)**, 7:30 p.m., NBC.
-- SMU: **Expected**, white.
+- SMU: **Expected**, white, with a new **Visit Dallas** sticker on the back of the helmet, the first helmet sponsor in SMU history ([details](/stories/smu-helmet-sponsor-sticker-visit-dallas-2026)).
 - Notre Dame: **Expected**, navy.
 
 **No. 17 [Kentucky](/stories/kentucky-uniform-schedule-2026) at [Missouri](/stories/missouri-uniform-schedule-2026)**, 7:30 p.m., SEC Network.

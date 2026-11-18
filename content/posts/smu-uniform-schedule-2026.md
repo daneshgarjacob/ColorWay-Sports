@@ -13,6 +13,8 @@ teams: ["smu-mustangs", "acc"]
 resurfaceOnUpdate: true
 ---
 
+**Update, Nov. 18:** SMU will wear a Visit Dallas sticker on the back of its helmets for its last two games, at Notre Dame on Nov. 21 and at Stanford on Nov. 28. It is the first helmet sponsor in school history. [Every detail](/stories/smu-helmet-sponsor-sticker-visit-dallas-2026).
+
 SMU has four jersey colors, a black Dark Mode helmet for the Virginia Tech game, and a habit of wearing white pants with most of its looks. This is the full SMU 2026 uniform schedule: the blue home set, the all-white icy whites that opened the season at Florida State, the red alternate that came out for Missouri State, the black one that finally comes out with a black helmet in Dark Mode against Virginia Tech, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 **Update, November 5:** SMU is going **Dark mode** against Virginia Tech on Friday night: a **black helmet with royal blue center stripes and a royal blue facemask, a black jersey with the blue SMU wordmark and blue numbers, and black pants**, from the team's game-week uniform post. It is the first time this season SMU has left the white helmet in the locker room.
