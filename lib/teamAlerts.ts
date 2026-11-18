@@ -12,10 +12,11 @@
 // field has not been confirmed to exist (beehiiv drops unknown fields quietly,
 // so nothing breaks, but the team would not be saved).
 //
-// To turn it on, set NEXT_PUBLIC_TEAM_ALERTS=on in Vercel (Production) and redeploy.
+// ON since 11/17 (Jake approved; beehiiv "Team Alerts" Text field created 11/17).
+// To turn it OFF without a code change, set NEXT_PUBLIC_TEAM_ALERTS=off in Vercel and redeploy.
 // This file is imported by client components, so it must not touch the disk.
 
-export const TEAM_ALERTS_LIVE = process.env.NEXT_PUBLIC_TEAM_ALERTS === "on";
+export const TEAM_ALERTS_LIVE = process.env.NEXT_PUBLIC_TEAM_ALERTS !== "off";
 
 /** Same id format as My Teams (localStorage `cw-myteams`): "nfl:detroit-lions". */
 export type TeamAlertId = string;
