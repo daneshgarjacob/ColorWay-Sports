@@ -2,7 +2,7 @@
  "league": "nfl",
  "season": 2026,
  "throughWeek": 10,
- "built": "2026-11-17",
+ "built": "2026-11-18",
  "note": "Built by scripts/build-uniform-records.mjs from the ColorWay Sports NFL uniform tracker (worn looks only, logged from game photos) and ESPN final scores. Do not hand-edit.",
  "totals": {
   "teams": 32,

@@ -1,12 +1,12 @@
 {
  "league": "nba",
  "season": "2026-27",
- "through": "2026-11-16",
- "built": "2026-11-17",
+ "through": "2026-11-17",
+ "built": "2026-11-18",
  "note": "Built by scripts/build-uniform-records.mjs from scripts/data/nba-worn-2026-27.json (confirmed rows only, scores from the same log). Do not hand-edit.",
  "totals": {
   "teams": 30,
-  "teamGamesCounted": 410,
+  "teamGamesCounted": 420,
   "teamGamesUnlogged": 0
  },
  "teams": [
@@ -663,13 +663,93 @@
    "key": "hornets",
    "name": "Charlotte Hornets",
    "nickname": "Hornets",
-   "gamesPlayed": 13,
-   "gamesCounted": 13,
+   "gamesPlayed": 14,
+   "gamesCounted": 14,
    "w": 4,
-   "l": 9,
+   "l": 10,
    "t": 0,
    "missing": [],
    "combos": [
+    {
+     "id": "white",
+     "jerseyName": "White",
+     "edition": "Association Edition",
+     "jerseyKey": "hornets-association",
+     "helmet": "",
+     "jersey": "White",
+     "pants": "",
+     "hexes": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "img": "/images/posts/nba-daily-tracker/hornets-association.jpg",
+     "w": 1,
+     "l": 5,
+     "t": 0,
+     "games": [
+      {
+       "date": "2026-10-26",
+       "opponent": "Washington Wizards",
+       "home": true,
+       "teamScore": 110,
+       "oppScore": 103,
+       "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-28",
+       "opponent": "Detroit Pistons",
+       "home": false,
+       "teamScore": 89,
+       "oppScore": 97,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-30",
+       "opponent": "Washington Wizards",
+       "home": false,
+       "teamScore": 79,
+       "oppScore": 95,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-02",
+       "opponent": "Detroit Pistons",
+       "home": true,
+       "teamScore": 91,
+       "oppScore": 124,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-12",
+       "opponent": "Phoenix Suns",
+       "home": false,
+       "teamScore": 96,
+       "oppScore": 101,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "Los Angeles Lakers",
+       "home": false,
+       "teamScore": 114,
+       "oppScore": 118,
+       "result": "L",
+       "ot": true,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      }
+     ]
+    },
     {
      "id": "teal",
      "jerseyName": "Teal",
@@ -735,76 +815,6 @@
        "teamScore": 124,
        "oppScore": 112,
        "result": "W",
-       "ot": false,
-       "link": "/stories/nba-uniform-tracker-2026-27"
-      }
-     ]
-    },
-    {
-     "id": "white",
-     "jerseyName": "White",
-     "edition": "Association Edition",
-     "jerseyKey": "hornets-association",
-     "helmet": "",
-     "jersey": "White",
-     "pants": "",
-     "hexes": [
-      "#FFFFFF",
-      "#FFFFFF",
-      "#FFFFFF"
-     ],
-     "img": "/images/posts/nba-daily-tracker/hornets-association.jpg",
-     "w": 1,
-     "l": 4,
-     "t": 0,
-     "games": [
-      {
-       "date": "2026-10-26",
-       "opponent": "Washington Wizards",
-       "home": true,
-       "teamScore": 110,
-       "oppScore": 103,
-       "result": "W",
-       "ot": false,
-       "link": "/stories/nba-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-28",
-       "opponent": "Detroit Pistons",
-       "home": false,
-       "teamScore": 89,
-       "oppScore": 97,
-       "result": "L",
-       "ot": false,
-       "link": "/stories/nba-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-30",
-       "opponent": "Washington Wizards",
-       "home": false,
-       "teamScore": 79,
-       "oppScore": 95,
-       "result": "L",
-       "ot": false,
-       "link": "/stories/nba-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-02",
-       "opponent": "Detroit Pistons",
-       "home": true,
-       "teamScore": 91,
-       "oppScore": 124,
-       "result": "L",
-       "ot": false,
-       "link": "/stories/nba-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-12",
-       "opponent": "Phoenix Suns",
-       "home": false,
-       "teamScore": 96,
-       "oppScore": 101,
-       "result": "L",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
       }
@@ -1698,9 +1708,9 @@
    "key": "pistons",
    "name": "Detroit Pistons",
    "nickname": "Pistons",
-   "gamesPlayed": 12,
-   "gamesCounted": 12,
-   "w": 8,
+   "gamesPlayed": 13,
+   "gamesCounted": 13,
+   "w": 9,
    "l": 4,
    "t": 0,
    "missing": [],
@@ -1819,7 +1829,7 @@
       "#1D428A"
      ],
      "img": "/images/posts/nba-daily-tracker/pistons-icon.jpg",
-     "w": 3,
+     "w": 4,
      "l": 1,
      "t": 0,
      "games": [
@@ -1860,6 +1870,16 @@
        "teamScore": 116,
        "oppScore": 121,
        "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "San Antonio Spurs",
+       "home": false,
+       "teamScore": 105,
+       "oppScore": 93,
+       "result": "W",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
       }
@@ -2540,10 +2560,10 @@
    "key": "clippers",
    "name": "LA Clippers",
    "nickname": "Clippers",
-   "gamesPlayed": 12,
-   "gamesCounted": 12,
+   "gamesPlayed": 13,
+   "gamesCounted": 13,
    "w": 4,
-   "l": 8,
+   "l": 9,
    "t": 0,
    "missing": [],
    "combos": [
@@ -2562,7 +2582,7 @@
      ],
      "img": "/images/posts/nba-daily-tracker/clippers-icon.jpg",
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "games": [
       {
@@ -2611,6 +2631,16 @@
        "home": false,
        "teamScore": 110,
        "oppScore": 133,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "Utah Jazz",
+       "home": true,
+       "teamScore": 107,
+       "oppScore": 132,
        "result": "L",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
@@ -2733,9 +2763,9 @@
    "key": "lakers",
    "name": "Los Angeles Lakers",
    "nickname": "Lakers",
-   "gamesPlayed": 14,
-   "gamesCounted": 14,
-   "w": 12,
+   "gamesPlayed": 15,
+   "gamesCounted": 15,
+   "w": 13,
    "l": 2,
    "t": 0,
    "missing": [],
@@ -2811,6 +2841,76 @@
      ]
     },
     {
+     "id": "purple",
+     "jerseyName": "Purple",
+     "edition": "Statement Edition",
+     "jerseyKey": "lakers-statement",
+     "helmet": "",
+     "jersey": "Purple",
+     "pants": "",
+     "hexes": [
+      "#552583",
+      "#552583",
+      "#552583"
+     ],
+     "img": "/images/posts/nba-daily-tracker/lakers-statement.jpg",
+     "w": 4,
+     "l": 1,
+     "t": 0,
+     "games": [
+      {
+       "date": "2026-10-23",
+       "opponent": "LA Clippers",
+       "home": true,
+       "teamScore": 125,
+       "oppScore": 117,
+       "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-27",
+       "opponent": "Portland Trail Blazers",
+       "home": true,
+       "teamScore": 129,
+       "oppScore": 136,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-06",
+       "opponent": "Portland Trail Blazers",
+       "home": true,
+       "teamScore": 124,
+       "oppScore": 118,
+       "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-09",
+       "opponent": "Atlanta Hawks",
+       "home": false,
+       "teamScore": 124,
+       "oppScore": 114,
+       "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "Charlotte Hornets",
+       "home": true,
+       "teamScore": 118,
+       "oppScore": 114,
+       "result": "W",
+       "ot": true,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      }
+     ]
+    },
+    {
      "id": "white",
      "jerseyName": "White",
      "edition": "Association Edition",
@@ -2874,66 +2974,6 @@
        "home": false,
        "teamScore": 131,
        "oppScore": 123,
-       "result": "W",
-       "ot": false,
-       "link": "/stories/nba-uniform-tracker-2026-27"
-      }
-     ]
-    },
-    {
-     "id": "purple",
-     "jerseyName": "Purple",
-     "edition": "Statement Edition",
-     "jerseyKey": "lakers-statement",
-     "helmet": "",
-     "jersey": "Purple",
-     "pants": "",
-     "hexes": [
-      "#552583",
-      "#552583",
-      "#552583"
-     ],
-     "img": "/images/posts/nba-daily-tracker/lakers-statement.jpg",
-     "w": 3,
-     "l": 1,
-     "t": 0,
-     "games": [
-      {
-       "date": "2026-10-23",
-       "opponent": "LA Clippers",
-       "home": true,
-       "teamScore": 125,
-       "oppScore": 117,
-       "result": "W",
-       "ot": false,
-       "link": "/stories/nba-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-27",
-       "opponent": "Portland Trail Blazers",
-       "home": true,
-       "teamScore": 129,
-       "oppScore": 136,
-       "result": "L",
-       "ot": false,
-       "link": "/stories/nba-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-06",
-       "opponent": "Portland Trail Blazers",
-       "home": true,
-       "teamScore": 124,
-       "oppScore": 118,
-       "result": "W",
-       "ot": false,
-       "link": "/stories/nba-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-09",
-       "opponent": "Atlanta Hawks",
-       "home": false,
-       "teamScore": 124,
-       "oppScore": 114,
        "result": "W",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
@@ -3585,9 +3625,9 @@
    "key": "timberwolves",
    "name": "Minnesota Timberwolves",
    "nickname": "Timberwolves",
-   "gamesPlayed": 14,
-   "gamesCounted": 14,
-   "w": 10,
+   "gamesPlayed": 15,
+   "gamesCounted": 15,
+   "w": 11,
    "l": 4,
    "t": 0,
    "missing": [],
@@ -3606,7 +3646,7 @@
       "#006BB6"
      ],
      "img": "/images/posts/nba-daily-tracker/timberwolves-icon.jpg",
-     "w": 7,
+     "w": 8,
      "l": 0,
      "t": 0,
      "games": [
@@ -3676,6 +3716,16 @@
        "home": true,
        "teamScore": 106,
        "oppScore": 98,
+       "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "Portland Trail Blazers",
+       "home": true,
+       "teamScore": 106,
+       "oppScore": 105,
        "result": "W",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
@@ -4021,9 +4071,9 @@
    "key": "knicks",
    "name": "New York Knicks",
    "nickname": "Knicks",
-   "gamesPlayed": 13,
-   "gamesCounted": 13,
-   "w": 7,
+   "gamesPlayed": 14,
+   "gamesCounted": 14,
+   "w": 8,
    "l": 6,
    "t": 0,
    "missing": [],
@@ -4042,7 +4092,7 @@
       "#FFFFFF"
      ],
      "img": "/images/posts/nba-daily-tracker/knicks-association.jpg",
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0,
      "games": [
@@ -4113,6 +4163,16 @@
        "teamScore": 104,
        "oppScore": 106,
        "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "Toronto Raptors",
+       "home": false,
+       "teamScore": 111,
+       "oppScore": 102,
+       "result": "W",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
       }
@@ -5046,10 +5106,10 @@
    "key": "blazers",
    "name": "Portland Trail Blazers",
    "nickname": "Trail Blazers",
-   "gamesPlayed": 13,
-   "gamesCounted": 13,
+   "gamesPlayed": 14,
+   "gamesCounted": 14,
    "w": 9,
-   "l": 4,
+   "l": 5,
    "t": 0,
    "missing": [],
    "combos": [
@@ -5068,7 +5128,7 @@
      ],
      "img": "/images/posts/nba-daily-tracker/trail-blazers-association.jpg",
      "w": 3,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "games": [
       {
@@ -5136,6 +5196,16 @@
        "opponent": "Minnesota Timberwolves",
        "home": false,
        "teamScore": 98,
+       "oppScore": 106,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "Minnesota Timberwolves",
+       "home": false,
+       "teamScore": 105,
        "oppScore": 106,
        "result": "L",
        "ot": false,
@@ -5452,10 +5522,10 @@
    "key": "spurs",
    "name": "San Antonio Spurs",
    "nickname": "Spurs",
-   "gamesPlayed": 14,
-   "gamesCounted": 14,
+   "gamesPlayed": 15,
+   "gamesCounted": 15,
    "w": 12,
-   "l": 2,
+   "l": 3,
    "t": 0,
    "missing": [],
    "combos": [
@@ -5554,7 +5624,7 @@
      ],
      "img": "/images/posts/nba-daily-tracker/spurs-association.jpg",
      "w": 4,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "games": [
       {
@@ -5604,6 +5674,16 @@
        "teamScore": 122,
        "oppScore": 96,
        "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "Detroit Pistons",
+       "home": true,
+       "teamScore": 93,
+       "oppScore": 105,
+       "result": "L",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
       }
@@ -5685,10 +5765,10 @@
    "key": "raptors",
    "name": "Toronto Raptors",
    "nickname": "Raptors",
-   "gamesPlayed": 13,
-   "gamesCounted": 13,
+   "gamesPlayed": 14,
+   "gamesCounted": 14,
    "w": 5,
-   "l": 8,
+   "l": 9,
    "t": 0,
    "missing": [],
    "combos": [
@@ -5847,7 +5927,7 @@
      ],
      "img": "/images/posts/nba-daily-tracker/raptors-statement.jpg",
      "w": 1,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "games": [
       {
@@ -5879,6 +5959,16 @@
        "result": "L",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "New York Knicks",
+       "home": true,
+       "teamScore": 102,
+       "oppScore": 111,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
       }
      ]
     }
@@ -5888,9 +5978,9 @@
    "key": "jazz",
    "name": "Utah Jazz",
    "nickname": "Jazz",
-   "gamesPlayed": 14,
-   "gamesCounted": 14,
-   "w": 1,
+   "gamesPlayed": 15,
+   "gamesCounted": 15,
+   "w": 2,
    "l": 13,
    "t": 0,
    "missing": [],
@@ -5909,7 +5999,7 @@
       "#FFFFFF"
      ],
      "img": "/images/posts/nba-daily-tracker/jazz-association.jpg",
-     "w": 1,
+     "w": 2,
      "l": 8,
      "t": 0,
      "games": [
@@ -6000,6 +6090,16 @@
        "teamScore": 118,
        "oppScore": 125,
        "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "LA Clippers",
+       "home": false,
+       "teamScore": 132,
+       "oppScore": 107,
+       "result": "W",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
       }

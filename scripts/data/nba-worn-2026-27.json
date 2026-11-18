@@ -2894,6 +2894,77 @@
       },
       "confirmed": true,
       "source": "DAZN highlight frames via ESPN (Trail Blazers white Association, Timberwolves blue Icon)"
+    },
+    "2026-11-17 CHA@LAL": {
+      "score": {
+        "away": 114,
+        "home": 118
+      },
+      "ot": true,
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game photos and NBC highlight frames (Lakers purple Statement, Hornets white Association)"
+    },
+    "2026-11-17 DET@SAS": {
+      "score": {
+        "away": 105,
+        "home": 93
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game photos and NBC highlight frames (Pistons blue Icon, Spurs white Association)"
+    },
+    "2026-11-17 NYK@TOR": {
+      "score": {
+        "away": 111,
+        "home": 102
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "MSG highlight frames via ESPN (Knicks white Association, Raptors black Statement)"
+    },
+    "2026-11-17 POR@MIN": {
+      "score": {
+        "away": 105,
+        "home": 106
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "DAZN highlight frames via ESPN (Trail Blazers white Association, Timberwolves blue Icon)"
+    },
+    "2026-11-17 UTA@LAC": {
+      "score": {
+        "away": 132,
+        "home": 107
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "highlight frames via ESPN (Jazz white Association, Clippers navy Icon)"
     }
   }
 }

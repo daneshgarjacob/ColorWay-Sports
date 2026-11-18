@@ -1,7 +1,7 @@
 {
  "note": "Final scores from ESPN's public scoreboard, cached by scripts/build-uniform-records.mjs. The site build reads this file and never calls ESPN.",
  "season": 2026,
- "fetched": "2026-11-17",
+ "fetched": "2026-11-18",
  "weeks": {
   "1": [
    {

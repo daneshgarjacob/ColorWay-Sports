@@ -3,6 +3,7 @@ title: "Lakers Home Jerseys 2026-27: Purple Beats Gold at Crypto.com Arena, Ever
 author: "colorway-sports-staff"
 category: NBA
 date: "2026-10-21"
+updatedDate: "2026-11-18"
 excerpt: "The Lakers wear their purple Statement jersey at home 13 times this season and the gold Icon just 9. Every home game by jersey, the Sunday white tradition, Purple Fridays, and the seven-week stretch with no gold at home."
 gradient: "linear-gradient(135deg, #552583 0%, #552583 55%, #FDB927 100%)"
 cardStyle: words
@@ -19,6 +20,23 @@ The NBA published its official game-by-game uniform schedule on October 19, and 
 
 <div style="display: flex; justify-content: center; gap: 12px; margin: 1.5em 0 0.4em;"><img src="/images/posts/lakers-purple.jpg" alt="Lakers purple Statement Edition jersey" style="width: 30%; max-width: 180px; height: auto; border-radius: 10px;" loading="lazy" decoding="async" /><img src="/images/posts/lakers-white.jpg" alt="Lakers white Association Edition jersey" style="width: 30%; max-width: 180px; height: auto; border-radius: 10px;" loading="lazy" decoding="async" /><img src="/images/posts/lakers-gold.jpg" alt="Lakers gold Icon Edition jersey" style="width: 30%; max-width: 180px; height: auto; border-radius: 10px;" loading="lazy" decoding="async" /></div>
 <p style="text-align: center; font-size: 0.75em; color: #8892a0; margin: 0 0 1.5em;">Uniform illustrations via NBA.com</p>
+
+## Update, November 18: How Each Lakers Home Jersey Is Doing So Far
+
+**Seven home games in, the schedule is holding: the Lakers have worn purple at home four times, gold twice and white once.** We log the jersey in every Lakers game and match it to the final score. Here is how each one has done at Crypto.com Arena:
+
+- **Purple Statement: 3 wins, 1 loss.** Beat the Clippers 125-117 (Oct. 23), lost to the Trail Blazers 136-129 (Oct. 27), beat the Trail Blazers 124-118 (Nov. 6) and beat the Hornets 118-114 in overtime (Nov. 17).
+- **Gold Icon: 2 wins, 0 losses.** Beat the Warriors 127-105 on opening night (Oct. 21) and the Heat 138-117 (Nov. 2).
+- **White Association: 1 win, 0 losses.** Beat the Raptors 131-125 on Sunday, Nov. 1, right on schedule for Sunday white.
+
+That is 6 wins and 1 loss at home. Tonight against the Jazz is one of the rare gold nights, the third of only nine this season.
+
+We were in the stands on Tuesday night for the purple win over Charlotte. The Hornets wore their white Association jersey with teal trim, so it was purple against white all night.
+
+<img src="/images/posts/lakers-home-jerseys-2026-27/lakers-purple-vs-hornets-from-the-stands.jpg" alt="Lakers in purple Statement jerseys and Hornets in white jerseys at center court at Crypto.com Arena before tipoff, November 17, 2026" style="width: 100%; height: auto; border-radius: 10px; margin: 1em 0 0.3em;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #8892a0; margin: 0 0 1.5em;">Lakers in purple, Hornets in white, before tipoff on November 17. Photo: Jake Daneshgar / ColorWay Sports</p>
+
+Every game, jersey and score is also on our [Lakers 2026-27 uniform schedule](/stories/lakers-uniform-schedule-2026-27), and the records for all 30 teams are on our [uniform records page](/uniform-records).
 
 ## How Many Times the Lakers Wear Gold at Home in 2026-27
 

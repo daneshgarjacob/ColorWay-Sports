@@ -768,6 +768,44 @@
     ],
     "shopQuery": "St. Louis Blues Hometown Remix jersey"
   },
+  "2026-11-18": {
+    "team": "Miami Heat",
+    "teamShort": "Heat",
+    "league": "NBA",
+    "season": "2026-27",
+    "edition": "Vice City (one night only)",
+    "jerseyName": "Vice City (Black and Neon Pink)",
+    "colorwayGrade": "A-",
+    "image": "/images/jersey-of-the-day/heat-vice-city-2026-11-18.jpg",
+    "imageAlt": "Miami Heat Vice City jersey: black with neon pink HEAT script and number 13, pink and white trim and a backwards pink Nike logo",
+    "imagePosition": "center 40%",
+    "credit": {
+      "text": "Miami HEAT",
+      "url": "https://www.nba.com/heat/uniforms/2627-heat-vice-city-uniform-collection",
+      "license": "via the team"
+    },
+    "worn": {
+      "date": "2026-11-18",
+      "matchup": "vs. Milwaukee Bucks, 7 p.m. ET on ESPN",
+      "status": "Scheduled",
+      "note": "One night only, on the Vice City court, the night before GTA VI comes out. Bucks expected in Association White."
+    },
+    "why": "A jersey that exists for exactly one game. Black and neon pink on a pink-and-blue court, the loudest look of the NBA season so far.",
+    "story": "The Heat become Vice City for one night. Miami wears a black jersey with a neon pink HEAT script, pink and white trim and a backwards Nike logo, made with Nike, Rockstar Games and Travis Scott's Cactus Jack, on a one-time court with pink around the paint and Vice City at center court. The fan version on sale tonight says Vice City across the chest; the players wear HEAT. It is the night before Grand Theft Auto VI comes out. We graded the jersey an A- and the court a B+.",
+    "scheduleSlug": "miami-heat-uniform-schedule-2026-27",
+    "scheduleLabel": "Heat 2026-27 uniform schedule",
+    "related": [
+      {
+        "slug": "miami-heat-vice-city-jerseys-gta-6-2026",
+        "label": "Every detail of the Vice City jerseys"
+      },
+      {
+        "slug": "miami-heat-vice-city-court-gta-6-2026",
+        "label": "The Vice City court, graded"
+      }
+    ],
+    "shopQuery": "Miami Heat Vice City jersey"
+  },
   "2026-11-16": {
    "team": "Baltimore Ravens",
    "teamShort": "Ravens",

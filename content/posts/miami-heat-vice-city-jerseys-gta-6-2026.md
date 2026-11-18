@@ -13,7 +13,7 @@ coverCredit:
   url: "https://www.nba.com/heat/uniforms/2627-heat-vice-city-uniform-collection"
   license: "via the team"
 kicker: Uniform Reveal
-homepageHero: "2026-11-06"
+homepageHero: "2026-11-18"
 league: "nba"
 teams: ["miami-heat", "milwaukee-bucks"]
 ---
