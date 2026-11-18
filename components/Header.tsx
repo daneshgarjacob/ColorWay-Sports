@@ -189,7 +189,7 @@ const leagues: NavLeague[] = [
     },
     extraLinks: [
       { label: "Rivalry Week Uniforms 2026", href: "/stories/college-football-rivalry-week-uniforms-2026" },
-      { label: "College Football Week 11 Uniforms", href: "/stories/college-football-week-11-uniforms-2026" },
+      { label: "College Football Week 12 Uniforms", href: "/stories/college-football-week-12-uniforms-2026" },
     ],
   },
   {

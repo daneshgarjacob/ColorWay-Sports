@@ -246,7 +246,7 @@ Every look in this table is Expected unless the game section below says otherwis
 ## More For Rivalry Week
 
 - **Where the colors came from:** [How every college football team got its colors](/stories/how-every-college-football-team-got-its-colors) and [how every college football team got its name](/stories/how-every-college-football-team-got-its-name). Every why story we have written is on our [Explained](/explained) page.
-- **The week before:** [College Football Week 11 Uniforms 2026](/stories/college-football-week-11-uniforms-2026), with every look checked against the game photos.
+- **The week before:** [College Football Week 12 Uniforms 2026](/stories/college-football-week-12-uniforms-2026), with Florida State's first turquoise game and every Top 25 look.
 - **The debate:** [The worst college football uniforms ever, ranked](/stories/worst-college-football-uniforms-ever-ranked).
 
 We update this page every day of game week as schools post their uniforms, and again on Saturday night once every look is confirmed from the games.
