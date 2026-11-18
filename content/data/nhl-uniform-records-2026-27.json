@@ -1472,7 +1472,7 @@
       "#CF0A2C"
      ],
      "img": "/images/posts/nhl-daily-tracker/blackhawks-home.jpg",
-     "w": 6,
+     "w": 5,
      "l": 3,
      "t": 0,
      "otl": 1,
@@ -1559,15 +1559,6 @@
        "oppScore": 5,
        "result": "L",
        "ot": "SO",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-17",
-       "opponent": "Toronto Maple Leafs",
-       "home": true,
-       "teamScore": 6,
-       "oppScore": 3,
-       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -1671,6 +1662,36 @@
        "teamScore": 2,
        "oppScore": 9,
        "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      }
+     ]
+    },
+    {
+     "id": "red-centennial",
+     "jerseyName": "Red Centennial",
+     "edition": "Centennial Jersey",
+     "jerseyKey": "blackhawks-centennial",
+     "helmet": "",
+     "jersey": "Red",
+     "pants": "",
+     "hexes": [
+      "#CF0A2C",
+      "#CF0A2C",
+      "#CF0A2C"
+     ],
+     "img": "/images/posts/nhl-daily-tracker/blackhawks-home.jpg",
+     "w": 1,
+     "l": 0,
+     "t": 0,
+     "otl": 0,
+     "games": [
+      {
+       "date": "2026-11-17",
+       "opponent": "Toronto Maple Leafs",
+       "home": true,
+       "teamScore": 6,
+       "oppScore": 3,
+       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]

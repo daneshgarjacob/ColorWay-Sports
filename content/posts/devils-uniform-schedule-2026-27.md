@@ -2,7 +2,7 @@
 title: "Devils Uniform Schedule 2026-27: Every Sweater and When They Wear It"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-11-16"
+updatedDate: "2026-11-18"
 excerpt: "Every Devils sweater for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #CE1126 0%, #000000 100%)"
 cardStyle: words
@@ -35,6 +35,8 @@ We build these before the season rather than after it, so the closet is here fro
 </div>
 
 ## Devils Hometown Remix Jersey
+
+**Update, Nov. 18:** the Remix debuts tonight against Montreal on Newark Celebration Night. [Every detail of the black and red look, our grade and the Devils' home record in red](/stories/devils-hometown-remix-jersey-debut-canadiens-2026).
 
 New Jersey flipped its 2024 Stadium Series look. The NJ monogram comes out of its circle, enlarged in red on a black body, with sharp angled red sleeve stripes and new lettering that mixes curves and hard cuts. It replaces the retired black "Jersey" alternate.
 

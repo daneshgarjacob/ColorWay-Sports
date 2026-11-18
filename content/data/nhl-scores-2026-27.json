@@ -1,7 +1,7 @@
 {
  "note": "NHL final scores and a standings snapshot from ESPN's public API, cached by scripts/build-uniform-records.mjs. The site build reads the records file built from this and never calls ESPN.",
  "season": "2026-27",
- "fetched": "2026-11-18T19:08:39.297Z",
+ "fetched": "2026-11-18T21:55:52.862Z",
  "standings": {
   "CAR": {
    "w": 16,

@@ -522,6 +522,7 @@ const NHL_SPECIALS = {
   "blackhawks-black": ["Black", "Third", "Black Alternate", "#111111"],
   "red-wings-centennial": ["Red", "Centennial", "Centennial Sweater", "#CE1126"],
   "rangers-centennial": ["Light Blue", "Centennial", "Centennial Jersey", "#3A73C4"],
+  "blackhawks-centennial": ["Red", "Centennial", "Centennial Jersey", "#CF0A2C"],
   "sharks-cali-fin": ["Black", "Third", "Cali Fin Third", "#111111"],
   "stars-the-99": ["Black", "Third", "The 99 Alternate", "#111111"],
 };
@@ -529,9 +530,10 @@ const NHL_SPECIALS = {
 const NHL_CALL_KEYS = {
   "WPG|Heritage Classic": "jets-heritage-classic", // the white outdoor sweater; the tile shows the navy alternate
   "MTL|Heritage Classic": "canadiens-heritage-classic",
+  "CHI|Centennial Jersey": "blackhawks-centennial", // 2025-26 Centennial, worn 2026-11-17; tile is the near-identical home red
 };
 // Tile photo for an override key (none for the Jets' white Heritage Classic: no tile of it exists).
-const NHL_KEY_TILE = { "canadiens-heritage-classic": "canadiens-heritage.jpg" };
+const NHL_KEY_TILE = { "canadiens-heritage-classic": "canadiens-heritage.jpg", "blackhawks-centennial": "blackhawks-home.jpg" };
 
 const nhlErrors = [];
 const nhlWarn = [];

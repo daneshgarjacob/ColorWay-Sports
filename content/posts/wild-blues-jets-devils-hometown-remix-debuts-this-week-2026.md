@@ -2,7 +2,7 @@
 title: "Wild, Blues, Jets And Devils Hometown Remix Debuts This Week: Dates, Times And What Each Jersey Looks Like"
 category: "NHL"
 date: "2026-11-16"
-updatedDate: "2026-11-16"
+updatedDate: "2026-11-18"
 homepageHero: "2026-11-17"
 excerpt: "Four more NHL teams wear their Hometown Remix jerseys for the first time this week. Minnesota (black), St. Louis (black and blue) and Winnipeg (navy with northern lights sleeves) all debut Tuesday, Nov. 17, and New Jersey (black and red) debuts Wednesday, Nov. 18 against Montreal. Times, opponents, what each jersey looks like and our grades."
 gradient: "linear-gradient(135deg, #0b0b10 0%, #154734 45%, #0047bb 100%)"
@@ -22,6 +22,8 @@ teams: ["minnesota-wild", "st-louis-blues", "winnipeg-jets", "new-jersey-devils"
 ---
 
 **Four more Hometown Remix jerseys hit the ice this week, and three of them come out on the same night.** The **Minnesota Wild**, **St. Louis Blues** and **Winnipeg Jets** all wear their Remix sweaters for the first time on **Tuesday, Nov. 17**, and the **New Jersey Devils** follow on **Wednesday, Nov. 18** against Montreal. All four are dark jerseys: black for Minnesota, black and blue for St. Louis, navy for Winnipeg and black and red for New Jersey. All four debuts are home games, so every visitor is expected in white.
+
+**Update, Nov. 18:** the Devils debut theirs tonight against Montreal. [Every detail of the Devils' Remix, its 10 dates and their home record in red](/stories/devils-hometown-remix-jersey-debut-canadiens-2026).
 
 After this week, only three of the 32 teams have not worn their Remix yet: Dallas (Nov. 25) and the Red Wings and Rangers, who have not posted a date.
 
