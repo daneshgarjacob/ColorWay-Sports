@@ -8,7 +8,7 @@ excerpt: "On Nov. 12, 2015, the Bills wore all red and the Jets wore all green i
 gradient: "linear-gradient(135deg, #C60C30 0%, #3a2f2a 50%, #125740 100%)"
 coverImage: "/images/posts/nfl-game-colorblind-fans-could-not-watch-color-rush-2015/cover.jpg"
 coverImagePosition: "center center"
-coverImageFit: "cover"
+coverImageFit: "contain"
 kicker: "Explained"
 logoSrc: "/logos/leagues/nfl.png"
 league: nfl
