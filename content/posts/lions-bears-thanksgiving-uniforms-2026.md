@@ -3,7 +3,7 @@ title: "What Are The Lions Wearing On Thanksgiving 2026? Honolulu Blue Vs. The B
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-16"
+updatedDate: "2026-11-18"
 excerpt: "The Lions host the Bears on Thanksgiving, Thursday, November 26 at 1:00 p.m. ET on CBS. Detroit is expected in its Honolulu blue home jersey with the silver helmet, with no throwback on its 2026 calendar, and Chicago in white. Detroit's Thanksgiving uniform history, and our grade."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0C1526 55%, #C83803 130%)"
 cardStyle: words
@@ -34,7 +34,12 @@ teams: ["detroit-lions", "chicago-bears"]
 
 Honolulu blue jersey, the silver helmet with the leaping lion, and, if Detroit follows its pattern, silver pants, the 1934 formula. Detroit is 3-0 in silver pants this season, a streak we track in our [Honolulu blue explainer](/stories/why-do-the-lions-wear-honolulu-blue). It is the uniform the Lions are best known for, and Thanksgiving is the game the franchise is best known for, so it fits. Detroit has hosted a Thanksgiving game every year since 1934 except for the World War II years.
 
-Why we are not projecting a throwback: Detroit's two special sets already have their dates. The new **Rivalries Silver** uniform debuted against Minnesota on November 1, and the **black alternate** was worn against Green Bay in Week 7, with two more home dates on our grid (Tampa Bay this Sunday and the Giants in Week 16). Neither set is assigned to Thanksgiving, and the team has not announced a throwback for 2026. We would rather say Expected and be right than put a throwback on the page on a hunch. If Detroit announces one, this page changes the same day.
+Why we are not projecting a throwback: Detroit's two special sets already have their dates. The new **Rivalries Silver** uniform debuted against Minnesota on November 1, and the **black alternate** was worn against Green Bay in Week 7 and is confirmed for Tampa Bay this Sunday (the Lions posted "Back in black" on November 18), with one more home date on our grid against the Giants in Week 16. Neither set is assigned to Thanksgiving, and the team has not announced a throwback for 2026. The "Back in black" post is for the Buccaneers game on November 22, not Thanksgiving.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2123059580276265120"></a></blockquote>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">"Back in black," posted during Tampa Bay game week, via <a href="https://x.com/Lions" target="_blank" rel="noopener">@Lions</a></p>
+ We would rather say Expected and be right than put a throwback on the page on a hunch. If Detroit announces one, this page changes the same day.
 
 Why that blue is called Honolulu blue at all is its own story: [Why Do The Lions Wear Honolulu Blue?](/stories/why-do-the-lions-wear-honolulu-blue)
 

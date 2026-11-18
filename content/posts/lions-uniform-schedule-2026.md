@@ -3,7 +3,7 @@ topViewsRank: 3
 title: "Detroit Lions Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-17"
+updatedDate: "2026-11-18"
 excerpt: "Detroit debuts its Rivalries uniform on November 1 against the Vikings. Here is the full 2026 Lions jersey schedule, week by week, with Munich and Thanksgiving explained."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 coverImage: "/images/posts/lions-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,12 @@ teams: ["detroit-lions"]
 ---
 
 Honolulu blue and silver is one of the best color combos in sports, and the Lions' blue home jersey is still their best. The silver Rivalries uniform already came and went, on November 1 against the Vikings. Every Lions game is below, with what they wore and what's next.
+
+**Update, November 18: Week 11 is the black alternate.** The Lions posted "Back in black" on Wednesday of Tampa Bay game week, and the team's X banner for the game (Sunday, November 22, 1:00 p.m. ET, FOX) shows a player in the **black jersey with the Honolulu blue helmet**. Detroit has not shown the pants yet. In Week 7 the black set was worn with black pants. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026). Thanksgiving against the Bears four days later is still Honolulu blue.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2123059580276265120"></a></blockquote>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">"Back in black," posted during Tampa Bay game week, via <a href="https://x.com/Lions" target="_blank" rel="noopener">@Lions</a></p>
 
 **Update, October 22: Week 7 is confirmed.** The Lions wear the **black alternate** against Green Bay on Sunday, October 25 at 4:25 p.m. ET on FOX: **Honolulu blue helmet, black jersey, black pants**. Every Week 7 look is in our [NFL Week 7 uniform guide](/stories/nfl-week-7-uniforms-2026).
 
@@ -44,7 +50,7 @@ Nine home games, eight on the road, one Rivalries game on November 1, three blac
   <div style="background: #B0B7BC; color: #0b1f2a; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vikings</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Rivalries</div></div>
   <div style="background: #0076B6; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Honolulu Blue · Blue Pants</div></div>
   <div style="background: #0076B6; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Patriots</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Blue · Silver Pants · Munich</div></div>
-  <div style="background: #1A1A1A; color: #ffffff; border: 2px solid #0076B6; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #1A1A1A; color: #ffffff; border: 2px solid #0076B6; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Black</div></div>
   <div style="background: #0076B6; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue · Thanksgiving</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0076B6; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Honolulu Blue</div></div>
@@ -54,7 +60,7 @@ Nine home games, eight on the road, one Rivalries game on November 1, three blac
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Packers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-Only Week 8 is confirmed by the team. Everything else is our call: Honolulu blue at home and white on the road, with the black alternate in three home games, Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants on Monday night.
+Starred games are confirmed by the team, including the black alternate against Tampa Bay in Week 11. Everything else is our call: Honolulu blue at home and white on the road, with the black alternate in three home games, Week 7 against Green Bay (worn), Week 11 against Tampa Bay (confirmed) and Week 16 against the Giants on Monday night.
 
 ## The Rivalries Uniform, Revealed (Week 8, November 1)
 
@@ -189,7 +195,7 @@ Honolulu blue at home against the Chicago Bears on Thursday, November 26. No thr
 
 **Will the Lions wear their black jerseys in 2026?**
 
-Yes, three times, all at home. We have the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants on Monday Night Football.
+Yes, three times, all at home. They wore it in Week 7 against Green Bay, the team confirmed it for Week 11 against Tampa Bay on Sunday, November 22 ("Back in black"), and we have it for Week 16 against the Giants on Monday Night Football.
 
 **How many uniforms do the Lions have in 2026?**
 

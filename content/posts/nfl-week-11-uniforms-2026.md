@@ -3,7 +3,7 @@ title: "NFL Week 11 Uniforms 2026: What Every Team Is Wearing, Including The Tex
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-13"
-updatedDate: "2026-11-17"
+updatedDate: "2026-11-18"
 excerpt: "NFL Week 11 uniforms (Nov. 19-23): the Texans debut their white-helmet HOUSTON/US Rivalries uniform on Thursday night, the Bills wear Cold Front against Miami, the Commanders bring the black Hail Raiser to Monday night, the Chargers go powder on powder, plus Mexico City and every other game."
 gradient: "linear-gradient(135deg, #03202F 0%, #0C1526 55%, #5A1414 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -27,6 +27,12 @@ Below is every Week 11 look we know, special ones first and then the rest of the
 **Thursday, 8:15 p.m. ET, Prime Video. Texans confirmed, Colts scheduled.** Houston named this game for its Rivalries debut when it revealed the uniform on August 25. **HOUSTON/US** is a Liberty White base with H-Town Blue and Battle Red stripes built from the blue-and-white street-tile mosaics around the city, numbers inspired by the "Be Someone" bridge, and the **first white helmet in franchise history**, with a chrome blue facemask, a gothic H-Town "H" on the side and a tiled red-and-blue center stripe. It stays in the rotation for three seasons.
 
 Indianapolis flips its usual road look for this trip. The Colts' schedule has **royal blue** at Houston, the same call it made at Jacksonville in Week 8, when the Jaguars debuted their own Rivalries set and the Colts wore the white helmet, royal blue jersey and white pants.
+
+**New field, too.** On Wednesday the Texans posted photos of a new field painted for this game: the gothic H-Town "H" with a red star at midfield, and white end zones with "H-TOWN" and "TEXANS" spelled out in blue street-tile letters, matching the uniform. Every detail is in our story on the [Texans' new Rivalries field](/stories/texans-new-field-rivalries-colts-thursday-night-football-2026).
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2123070488331108747"></a></blockquote>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The new field for the Rivalries game, via <a href="https://x.com/HoustonTexans" target="_blank" rel="noopener">@HoustonTexans</a></p>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/colts-royal-home.jpg" alt="Indianapolis Colts royal blue jersey, scheduled by the team for the road game at Houston on Thursday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Colts &middot; Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-rivalries.jpg" alt="Houston Texans HOUSTON/US Rivalries jersey, white with tile-pattern stripes, confirmed by the team for its debut against the Colts on Thursday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Texans &middot; Confirmed</figcaption></figure></div>
 
@@ -74,18 +80,18 @@ New York is expected in **white** on the road. The Jets' last trip was White on 
 
 Powder blue head to toe against white and green is the brightest game of the afternoon. Our matchup grade: **A-**. See the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026) and the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026).
 
-### Tampa Bay Buccaneers At Detroit Lions: The Black Alternate Expected
+### Tampa Bay Buccaneers At Detroit Lions: Back In Black
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2113093733868789884"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2123059580276265120"></a></blockquote>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Lions' black alternate, confirmed for Week 7 against Green Bay, via <a href="https://x.com/Lions" target="_blank" rel="noopener">@Lions</a></p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">"Back in black," posted during Tampa Bay game week, via <a href="https://x.com/Lions" target="_blank" rel="noopener">@Lions</a></p>
 
-**Sunday, 1:00 p.m. ET, FOX. Expected on both sides.** Our Lions schedule has the **black alternate** for this game, the second of three projected home dates after Week 7 against Green Bay, when Detroit wore the Honolulu blue helmet, black jersey and black pants. The team has not announced it for Week 11, so treat it as our call until Detroit posts its game-week look. The Lions host Chicago on Thanksgiving four days later.
+**Sunday, 1:00 p.m. ET, FOX. Lions confirmed, Buccaneers expected.** Detroit posted "Back in black" on Wednesday, and the team's X banner for this game shows the **black jersey with the Honolulu blue helmet**. It is the second of three black alternate home dates, after Week 7 against Green Bay, when Detroit wore the Honolulu blue helmet, black jersey and black pants. The team has not shown the pants for this game yet. The Lions host Chicago on Thanksgiving four days later.
 
 Tampa Bay is expected in **white**, the look it has worn on most trips this season, with pewter pants at Chicago in Week 9.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/buccaneers-white-road.jpg" alt="Tampa Bay Buccaneers white road jersey, expected at Detroit in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Buccaneers &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-black-2nd-alternate.jpg" alt="Detroit Lions black alternate jersey with Honolulu blue numbers, expected against the Buccaneers in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions &middot; Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/buccaneers-white-road.jpg" alt="Tampa Bay Buccaneers white road jersey, expected at Detroit in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Buccaneers &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-black-2nd-alternate.jpg" alt="Detroit Lions black alternate jersey with Honolulu blue numbers, confirmed against the Buccaneers in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions &middot; Confirmed</figcaption></figure></div>
 
 Black against white and pewter is a clean read, but it trades away Honolulu blue, the best color Detroit owns. Our matchup grade: **B-**. See the [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) and the [Buccaneers 2026 uniform schedule](/stories/buccaneers-uniform-schedule-2026).
 
@@ -156,7 +162,7 @@ Black against white and pewter is a clean read, but it trades away Honolulu blue
 - **Miami Dolphins at Buffalo Bills**, 1:00 p.m. ET, CBS. Dolphins: aqua (expected). Bills: Cold Front, white helmet, white jersey, white pants (confirmed). Matchup grade: A-.
 - **New Orleans Saints at Chicago Bears**, 1:00 p.m. ET, FOX. Saints: gold helmet, white jersey (scheduled). Bears: navy (expected). Matchup grade: B+.
 - **Tennessee Titans at Dallas Cowboys**, 1:00 p.m. ET, FOX. Titans: Titans Blue (expected). Cowboys: silver star helmet, white jersey (scheduled). Matchup grade: B+.
-- **Tampa Bay Buccaneers at Detroit Lions**, 1:00 p.m. ET, FOX. Buccaneers: white (expected). Lions: black alternate (expected). Matchup grade: B-.
+- **Tampa Bay Buccaneers at Detroit Lions**, 1:00 p.m. ET, FOX. Buccaneers: white (expected). Lions: black alternate (confirmed). Matchup grade: B-.
 - **Arizona Cardinals at Kansas City Chiefs**, 1:00 p.m. ET, CBS. Cardinals: white (scheduled). Chiefs: red (expected). Matchup grade: B.
 - **Pittsburgh Steelers at Philadelphia Eagles**, 1:00 p.m. ET, CBS. Steelers: white (expected). Eagles: midnight green (expected). Matchup grade: B.
 - **Baltimore Ravens at Carolina Panthers**, 1:00 p.m. ET, FOX. Ravens: white (expected). Panthers: black (scheduled). Matchup grade: B-.
@@ -183,7 +189,7 @@ Week 11 opens and closes with a first: the Texans' white helmet on Thursday nigh
 
 **What uniforms are NFL teams wearing in Week 11 of 2026?**
 
-Three teams have a confirmed or published special look: the Texans debut the HOUSTON/US Rivalries uniform against Indianapolis on Thursday, the Bills wear the all-white Cold Front against Miami, and the Commanders wear the black Hail Raiser against Cincinnati on Monday night. The Chargers wear powder blue over powder blue pants against the Jets, and we expect the Lions in their black alternate against Tampa Bay. Most other teams are in their standard sets, home in color and visitors in white.
+Three teams have a confirmed or published special look: the Texans debut the HOUSTON/US Rivalries uniform against Indianapolis on Thursday, the Bills wear the all-white Cold Front against Miami, and the Commanders wear the black Hail Raiser against Cincinnati on Monday night. The Chargers wear powder blue over powder blue pants against the Jets, and the Lions are back in their black alternate against Tampa Bay. Most other teams are in their standard sets, home in color and visitors in white.
 
 **What are the Texans wearing against the Colts on Thursday Night Football?**
 
@@ -211,7 +217,7 @@ The powder blue jersey with powder blue pants, from the schedule Los Angeles pub
 
 **Are the Lions wearing black against the Buccaneers?**
 
-We expect it, but Detroit has not announced it. Our Lions schedule has the black alternate three times at Ford Field: Week 7 against Green Bay, when the Lions wore the Honolulu blue helmet, black jersey and black pants, Week 11 against Tampa Bay, and Week 16 against the Giants.
+Yes. The Lions posted "Back in black" on Wednesday of game week, and their X banner for the game shows the black jersey with the Honolulu blue helmet. The pants have not been shown yet. In Week 7 against Green Bay, Detroit wore the black set with black pants. Our Lions schedule has one more black alternate game, Week 16 against the Giants.
 
 **What are the Titans wearing at Dallas?**
 

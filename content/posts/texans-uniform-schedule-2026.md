@@ -3,7 +3,7 @@ topViewsRank: 8
 title: "Texans Uniform & Jersey Schedule 2026: Battle Red Dates"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-18"
 excerpt: "Texans uniform schedule 2026, week by week: Battle Red in Week 7 vs. the Giants, and the white-helmet Rivalries uniform debuts Week 11 on Thursday night."
 gradient: "linear-gradient(135deg, #12405c 0%, #0a2a3d 55%, #03202F 130%)"
 coverImage: "/images/posts/texans-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,10 @@ teams: ["houston-texans"]
 ---
 
 Houston published one of the more useful uniform announcements in the league this year: three of its eight home games come with a named jersey, and as of August 25 all three have a face. The Texans open in Liberty White, run the Battle Red game in Week 7, and debut the brand-new HOUSTON/US Rivalries uniform, the first white helmet in franchise history included, against the Colts on Thursday night in Week 11. Here is the full Houston Texans 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the Deep Steel Blue home set and the white road set.
+
+**Update, November 18: a new field for the Rivalries game.** The Texans painted NRG Stadium to match the HOUSTON/US uniform for Thursday night against the Colts (November 19, 8:15 p.m. ET, Prime Video): a gothic H-Town "H" with a red star at midfield and white end zones that spell out "H-TOWN" and "TEXANS" in blue street-tile letters. Every detail is in our story on the [Texans' new Rivalries field](/stories/texans-new-field-rivalries-colts-thursday-night-football-2026).
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2123070488331108747"></a></blockquote>
 
 **Update, November 5:** Houston confirmed its Week 9 look at the Chargers on Sunday, November 8 (4:05 p.m. ET, CBS): the standard **dark navy helmet, white jersey, white pants**, from the team's game-week uniform graphic. The Chargers are in their all-navy Super Chargers set.
 

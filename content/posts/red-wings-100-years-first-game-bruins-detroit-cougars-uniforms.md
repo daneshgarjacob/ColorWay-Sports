@@ -58,6 +58,9 @@ The first Detroit sweater was white with one wide red stripe across the body. On
 
 There was no winged wheel yet. That came six years later.
 
+<img src="/images/posts/red-wings-100-years-first-game-bruins-detroit-cougars-uniforms/carson-cooper-detroit-cougars-1929.jpg" alt="Detroit Cougars winger Carson Cooper in 1929 wearing the white Cougars sweater with a wide dark band, the D crest, striped sleeves and striped socks" style="display:block;width:100%;max-width:420px;height:auto;margin:1em auto 0.3em;border-radius:8px;" loading="lazy" decoding="async" />
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Cougars winger Carson Cooper in 1929, still in the white sweater with the dark band and the D. Photo: Detroit Free Press, 1929. Public domain, via <a href="https://commons.wikimedia.org/wiki/File:Carson_Cooper_Cougars_Shovel_Shot_1929.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></p>
+
 The Red Wings have brought this sweater back more than once:
 
 - **2009 Winter Classic:** Detroit wore a replica of the 1926-27 Cougars sweater, white with the single red stripe and the Old English D, and beat Chicago 6-4 at Wrigley Field.
