@@ -106,10 +106,10 @@ Washington's first Winter Classic, at Nationals Park, got a round badge with the
 ## 2016 · Canadiens at Bruins · Gillette Stadium
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 12px; margin: 1.5em 0; max-width: 320px; margin-left: auto; margin-right: auto;">
-  <div style="text-align: center;"><img src="/images/posts/nhl-winter-classic-2027-logo-history-ranked/2016.png" alt="2016 NHL Winter Classic logo for Canadiens at Bruins at Gillette Stadium Foxborough with stadium silhouette" style="width: 100%; border-radius: 8px;" /><p style="font-size: 0.85em; color: #666; margin: 0.4em 0 0;">2016 · Grade B</p></div>
+  <div style="text-align: center;"><img src="/images/posts/nhl-winter-classic-2027-logo-history-ranked/2016.png" alt="2016 NHL Winter Classic logo for Canadiens at Bruins at Gillette Stadium Foxborough with stadium silhouette" style="width: 100%; border-radius: 8px;" /><p style="font-size: 0.85em; color: #666; margin: 0.4em 0 0;">2016 · Grade C+</p></div>
 </div>
 
-The Canadiens-Bruins Original Six matchup at Gillette Stadium got an ice-blue frame with icicles across the top, a little rink with crossed sticks and a puck under the wordmark, 2016 in a serif face, and FOXBORO on a brown ribbon at the bottom. Clean and wintry, but there is no landmark. Nothing in it says Gillette or New England beyond the word on the ribbon. B.
+The Canadiens-Bruins Original Six matchup at Gillette Stadium got an ice-blue frame with icicles across the top, a little rink with crossed sticks and a puck under the wordmark, 2016 in a serif face, and FOXBORO on a brown ribbon at the bottom. Clean and wintry, but there is no landmark. Nothing in it says Gillette or New England beyond the word on the ribbon. With no landmark at all, it is the weakest logo in the run. C+.
 
 ## 2017 · Blackhawks at Blues · Busch Stadium
 
@@ -138,10 +138,10 @@ The first Winter Classic on a college campus, with the Blackhawks as the home te
 ## 2020 · Predators at Stars · Cotton Bowl
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 12px; margin: 1.5em 0; max-width: 320px; margin-left: auto; margin-right: auto;">
-  <div style="text-align: center;"><img src="/images/posts/nhl-winter-classic-2027-logo-history-ranked/2020.png" alt="2020 NHL Winter Classic logo for Predators at Stars at Cotton Bowl Dallas with Bridgestone title sponsor" style="width: 100%; border-radius: 8px;" /><p style="font-size: 0.85em; color: #666; margin: 0.4em 0 0;">2020 · Grade B</p></div>
+  <div style="text-align: center;"><img src="/images/posts/nhl-winter-classic-2027-logo-history-ranked/2020.png" alt="2020 NHL Winter Classic logo for Predators at Stars at Cotton Bowl Dallas with Bridgestone title sponsor" style="width: 100%; border-radius: 8px;" /><p style="font-size: 0.85em; color: #666; margin: 0.4em 0 0;">2020 · Grade A-</p></div>
 </div>
 
-Dallas hosted at the Cotton Bowl in front of 85,630 fans, and the logo is a Texas belt buckle. Silver with engraved scrollwork, a gold Winter Classic script, 2020 on a gold bar and DALLAS ★ TEXAS on a ribbon at the bottom. It is the most original shape in the run and nobody could mistake it for any other city. The knock is that all the engraving turns muddy at small sizes, and it reads more like a trophy than a hockey logo. B.
+Dallas hosted at the Cotton Bowl in front of 85,630 fans, and the logo is a Texas belt buckle. Silver with engraved scrollwork, a gold Winter Classic script, 2020 on a gold bar and DALLAS ★ TEXAS on a ribbon at the bottom. It is the most original shape in the run and nobody could mistake it for any other city. The engraving gets muddy at small sizes, but no other Winter Classic logo took a swing like this. A-.
 
 ## 2021 · CANCELLED · The COVID Year
 
@@ -150,10 +150,10 @@ The 2021 Winter Classic between the Blues and the Wild at Target Field was calle
 ## 2022 · Blues at Wild · Target Field
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 12px; margin: 1.5em 0; max-width: 320px; margin-left: auto; margin-right: auto;">
-  <div style="text-align: center;"><img src="/images/posts/nhl-winter-classic-2027-logo-history-ranked/2022.png" alt="2022 NHL Winter Classic logo for Blues at Wild at Target Field, a shield with pine trees and a frozen lake, Discover and MINNESOTA 2022" style="width: 100%; border-radius: 8px;" /><p style="font-size: 0.85em; color: #666; margin: 0.4em 0 0;">2022 · Grade C+</p></div>
+  <div style="text-align: center;"><img src="/images/posts/nhl-winter-classic-2027-logo-history-ranked/2022.png" alt="2022 NHL Winter Classic logo for Blues at Wild at Target Field, a shield with pine trees and a frozen lake, Discover and MINNESOTA 2022" style="width: 100%; border-radius: 8px;" /><p style="font-size: 0.85em; color: #666; margin: 0.4em 0 0;">2022 · Grade B-</p></div>
 </div>
 
-The Discover era begins. Bridgestone is out as title sponsor and Discover is in. The 2022 logo is a shield with a row of pine trees and a snowy, frozen lake at the top, the Winter Classic script and Discover across the middle, and MINNESOTA 2022 at the bottom. It is pond-hockey Minnesota, which is the right idea. But it is the most stock-looking mark in the run: generic trees, a plain shield, and nothing about Target Field or the Twin Cities. The game was also the coldest Winter Classic ever, and the logo does not have the personality of the day it got. C+.
+The Discover era begins. Bridgestone is out as title sponsor and Discover is in. The 2022 logo is a shield with a row of pine trees and a snowy, frozen lake at the top, the Winter Classic script and Discover across the middle, and MINNESOTA 2022 at the bottom. It is pond-hockey Minnesota, which is the right idea. The trees are a little generic and the shield is plain, and nothing points to Target Field or the Twin Cities. But the frozen lake is real Minnesota pond hockey, and that is more identity than the 2016 logo had. B-.
 
 ## 2023 · Penguins at Bruins · Fenway Park
 
@@ -201,18 +201,18 @@ All 18 Winter Classic logos, best to worst:
 4. **2019 · Notre Dame Stadium (A-)** — The whole badge is a shamrock. College-stadium debut and the strongest color story in the run.
 5. **2010 · Fenway Park (A-)** — Brick-red ballpark sign with a street lamp and Fenway green. Old Boston all the way.
 6. **2025 · Wrigley Field return (A-)** — Ivy and brick, Wrigley's other icon, a smart follow-up to the 2009 marquee.
-7. **2008 · Buffalo (B+)** — The inaugural mark. Holds up on heritage alone.
-8. **2018 · Citi Field · 10th Anniversary (B+)** — Anniversary ribbon and the New York skyline carry it.
-9. **2023 · Fenway Park return (B+)** — The Green Monster scoreboard, a fresh angle on the same ballpark.
-10. **2024 · T-Mobile Park · Seattle (B+)** — Compass rose, rope and waves. Nautical Seattle.
-11. **2026 · loanDepot park · Miami (B+)** — Palm tree and hot pink. Off-brand in the best way.
-12. **2027 · Rice-Eccles Stadium · Utah (B+)** — Mountains over red rock in a hexagon. Busy, and nothing for Colorado.
-13. **2015 · Nationals Park · DC (B+)** — Capitol dome, stars and stripes.
-14. **2011 · Heinz Field (B)** — Yellow bridge, Pittsburgh black and gold, slightly busy.
-15. **2012 · Citizens Bank Park · Philadelphia (B)** — Liberty Bell, but the Bridgestone lockup crowds it.
-16. **2016 · Gillette Stadium (B)** — Clean ice-blue frame, no landmark.
-17. **2020 · Cotton Bowl · Dallas (B)** — Texas belt buckle. Original, but muddy at small sizes.
-18. **2022 · Target Field · Minneapolis (C+)** — Stock pine trees and a plain shield open the Discover era.
+7. **2020 · Cotton Bowl · Dallas (A-)** — Texas belt buckle. The most original shape in the run, even if it gets muddy at small sizes.
+8. **2008 · Buffalo (B+)** — The inaugural mark. Holds up on heritage alone.
+9. **2018 · Citi Field · 10th Anniversary (B+)** — Anniversary ribbon and the New York skyline carry it.
+10. **2023 · Fenway Park return (B+)** — The Green Monster scoreboard, a fresh angle on the same ballpark.
+11. **2024 · T-Mobile Park · Seattle (B+)** — Compass rose, rope and waves. Nautical Seattle.
+12. **2026 · loanDepot park · Miami (B+)** — Palm tree and hot pink. Off-brand in the best way.
+13. **2027 · Rice-Eccles Stadium · Utah (B+)** — Mountains over red rock in a hexagon. Busy, and nothing for Colorado.
+14. **2015 · Nationals Park · DC (B+)** — Capitol dome, stars and stripes.
+15. **2011 · Heinz Field (B)** — Yellow bridge, Pittsburgh black and gold, slightly busy.
+16. **2012 · Citizens Bank Park · Philadelphia (B)** — Liberty Bell, but the Bridgestone lockup crowds it.
+17. **2022 · Target Field · Minneapolis (B-)** — Pine trees and a frozen lake. Plain, but it is Minnesota.
+18. **2016 · Gillette Stadium (C+)** — Clean ice-blue frame, but no landmark at all.
 
 ## The Bottom Line on NHL Winter Classic Logo History
 
@@ -262,7 +262,7 @@ There are 18 Winter Classic game logos from 2008 through 2027, one for each game
 
 **Which NHL Winter Classic logo is the worst?**
 
-Our pick for the weakest NHL Winter Classic logo in the 2008-2027 run is the 2022 Blues vs Wild mark at Target Field in Minneapolis. It has pine trees and a frozen lake, which is Minnesota, but the trees are generic, the shield is plain and nothing points to Target Field or the Twin Cities. We grade it C+.
+Our pick for the weakest NHL Winter Classic logo in the 2008-2027 run is the 2016 Canadiens vs Bruins mark at Gillette Stadium. It is clean and wintry, with an ice-blue frame and icicles, but it is the only one with no landmark at all. Nothing in it says Foxborough or New England beyond the word on the ribbon. We grade it C+.
 
 **What is the 2027 Winter Classic logo?**
 
