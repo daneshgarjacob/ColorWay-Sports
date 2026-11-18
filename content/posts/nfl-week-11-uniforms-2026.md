@@ -109,11 +109,11 @@ Black against white and pewter is a clean read, but it trades away Honolulu blue
 
 **Sunday, 1:00 p.m. ET, FOX. Saints scheduled, Bears expected.** New Orleans published its jersey and helmet plan on September 7, and this trip is the **standard white** under the **gold helmet**, the default shell. The captains pick the Saints' pants before the game. Chicago is expected in **navy** at Soldier Field, after the navy helmet, navy jersey and white pants against Tampa Bay in Week 9. Our matchup grade: **B+**. See the [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) and the [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026).
 
-### Tennessee Titans At Dallas Cowboys: Titans Blue On The Road
+### Tennessee Titans At Dallas Cowboys: Light Blue Over Light Blue
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/titans-light-blue-home.jpg" alt="Tennessee Titans blue jersey, expected at Dallas in Week 11 of 2026 because the Cowboys wear white at home" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Titans &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-white-home.jpg" alt="Dallas Cowboys white jersey, scheduled by the team against the Titans in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Cowboys &middot; Scheduled</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, FOX. Cowboys scheduled, Titans expected.** Dallas published **white** for this game on September 2, the silver star helmet over the white jersey. A visitor cannot wear white against a host in white, so we expect Tennessee in its **Titans Blue** jersey, the only road game where we have the Titans in color. Tennessee has not announced it. Tennessee's Week 10 home game against Jacksonville was the debut of the navy Music City Rivalries uniform. Our matchup grade: **B+**. See the [Titans 2026 uniform schedule](/stories/titans-uniform-schedule-2026), the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home).
+**Sunday, 1:00 p.m. ET, FOX. Cowboys scheduled, Titans confirmed.** Dallas published **white** for this game on September 2, the silver star helmet over the white jersey. A visitor cannot wear white against a host in white, and Tennessee confirmed on November 18 that it will wear its **light blue jersey with light blue pants and white socks**, the first time the new 2026 uniforms have been paired blue over blue. Details: [Titans Will Wear Light Blue Pants With Light Blue Jerseys At Dallas](/stories/titans-light-blue-pants-first-time-cowboys-2026). Tennessee's Week 10 home game against Jacksonville was the debut of the navy Music City Rivalries uniform. Our matchup grade: **B+**. See the [Titans 2026 uniform schedule](/stories/titans-uniform-schedule-2026), the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home).
 
 ### Arizona Cardinals At Kansas City Chiefs
 
@@ -161,7 +161,7 @@ Black against white and pewter is a clean read, but it trades away Honolulu blue
 
 - **Miami Dolphins at Buffalo Bills**, 1:00 p.m. ET, CBS. Dolphins: aqua (expected). Bills: Cold Front, white helmet, white jersey, white pants (confirmed). Matchup grade: A-.
 - **New Orleans Saints at Chicago Bears**, 1:00 p.m. ET, FOX. Saints: gold helmet, white jersey (scheduled). Bears: navy (expected). Matchup grade: B+.
-- **Tennessee Titans at Dallas Cowboys**, 1:00 p.m. ET, FOX. Titans: Titans Blue (expected). Cowboys: silver star helmet, white jersey (scheduled). Matchup grade: B+.
+- **Tennessee Titans at Dallas Cowboys**, 1:00 p.m. ET, FOX. Titans: light blue jersey, light blue pants (confirmed). Cowboys: silver star helmet, white jersey (scheduled). Matchup grade: B+.
 - **Tampa Bay Buccaneers at Detroit Lions**, 1:00 p.m. ET, FOX. Buccaneers: white (expected). Lions: black alternate (confirmed). Matchup grade: B-.
 - **Arizona Cardinals at Kansas City Chiefs**, 1:00 p.m. ET, CBS. Cardinals: white (scheduled). Chiefs: red (expected). Matchup grade: B.
 - **Pittsburgh Steelers at Philadelphia Eagles**, 1:00 p.m. ET, CBS. Steelers: white (expected). Eagles: midnight green (expected). Matchup grade: B.
@@ -221,7 +221,7 @@ Yes. The Lions posted "Back in black" on Wednesday of game week, and their X ban
 
 **What are the Titans wearing at Dallas?**
 
-We expect Titans Blue. The Cowboys published white for this game, and a visitor cannot wear white against a host in white, so Tennessee should wear color on the road for the only time this season. The Titans have not announced it.
+Light blue over light blue. The Titans confirmed on November 18 that they will wear the light blue jersey with light blue pants and white socks, a first for the 2026 uniforms. The Cowboys are in white.
 
 **What are the 49ers and Vikings wearing in Mexico City?**
 
