@@ -13,6 +13,8 @@ league: "nhl"
 teams: ["utah-mammoth"]
 ---
 
+**Update, Nov. 18:** The Mammoth's Winter Classic jersey is out: Mountain Blue and brown, with stripes from Hygeia Iceland, Utah's first rink. [Every detail and our grade](/stories/utah-mammoth-colorado-avalanche-winter-classic-jerseys-2027).
+
 The Utah Mammoth open 2026-27 at Delta Center on Thursday, October 1 against the Chicago Blackhawks. This is the full Utah Mammoth uniform schedule: every sweater in the closet, what each one is for, and a game-by-game record of when it goes on the ice.
 
 We build these before the season rather than after it, so the closet is here from day one and the dates fill in as they are announced. Third jerseys and any one-off specials get added here as Utah Mammoth announce them. The NHL schedules its alternates in blocks rather than all at once, so this page changes through the autumn.

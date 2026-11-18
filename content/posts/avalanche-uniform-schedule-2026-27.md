@@ -13,6 +13,8 @@ league: "nhl"
 teams: ["colorado-avalanche"]
 ---
 
+**Update, Nov. 18:** The Avalanche's Winter Classic jersey is out: cream with a burgundy Tuscan C and the team's first burgundy helmets. [Every detail and our grade](/stories/utah-mammoth-colorado-avalanche-winter-classic-jerseys-2027).
+
 The Colorado Avalanche open 2026-27 at Ball Arena on Wednesday, September 30 against the Los Angeles Kings. This is the full Avalanche uniform schedule: every sweater in the closet, what each one is for, and a game-by-game record of when it goes on the ice.
 
 We build these before the season rather than after it, so the closet is here from day one and the dates fill in as they are announced. Third jerseys and any one-off specials get added here as Avalanche announce them. The NHL schedules its alternates in blocks rather than all at once, so this page changes through the autumn.
