@@ -197,7 +197,8 @@ export default async function Home() {
     // 11/14 (Jake: "top stories need to be more relevant"): Saturday slate. Left =
     // why LSU wears white (Texas at LSU tonight; team-free Tiger Stadium cover).
     // Right = Miami's 2001 throwbacks, worn again today in orange vs Duke.
-    { slug: "why-does-lsu-wear-white-at-home", pinned: "2026-11-14" },
+    // 11/18 (Jake): Winter Classic jerseys are the hot topic; pin the Utah/Colorado reveal (NHL reveal photo cover).
+    { slug: "utah-mammoth-colorado-avalanche-winter-classic-jerseys-2027", pinned: "2026-11-18" },
     { slug: "nfl-uniform-tracker-2026", pinned: "2026-09-16", standing: true },
     { slug: "miami-2001-throwback-uniforms", pinned: "2026-11-14" },
   ];
