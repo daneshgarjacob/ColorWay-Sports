@@ -163,13 +163,32 @@ a {
   outline-offset: 3px;
 }
 .cw-jump {
+  position: relative;
   cursor: pointer;
-  transition: transform 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06), 0 2px 6px rgba(11, 22, 42, 0.1);
+}
+.cw-jump::after {
+  content: "\2193";
+  position: absolute;
+  top: 6px;
+  right: 8px;
+  font-size: 13px;
+  font-weight: 800;
+  line-height: 1;
+  opacity: 0.6;
 }
 @media (hover: hover) {
   .cw-jump:hover {
     transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(11, 22, 42, 0.18);
   }
+}
+.cw-jump:active {
+  transform: scale(0.97);
+  filter: brightness(0.92);
+  box-shadow: 0 1px 3px rgba(11, 22, 42, 0.18);
 }
 @keyframes cw-flash {
   from { background-color: rgba(255, 213, 79, 0.45); }

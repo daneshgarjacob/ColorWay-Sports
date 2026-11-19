@@ -1,5 +1,6 @@
 import { ARTICLE_ROW, ARTICLE_COL } from "@/lib/articleColumn";
 import Link from "next/link";
+import type { ReactNode } from "react";
 import type { WearAnswer, WearHeadline } from "@/lib/teamWearAnswers";
 import WearQuickAnswers from "@/components/WearQuickAnswers";
 
@@ -18,6 +19,7 @@ export default function TeamWearBox({
   answers,
   link,
   confirmedLabel = "Confirmed by the team",
+  signup,
 }: {
   accent?: string;
   badge: string;
@@ -32,6 +34,8 @@ export default function TeamWearBox({
   answers: WearAnswer[];
   link?: { href: string; label: string } | null;
   confirmedLabel?: string;
+  /** Team email signup, shown right under the headline answer (before the FAQ list) so it sits high on phones. */
+  signup?: ReactNode;
 }) {
   if (!headline && !lastGame) return null;
   const title = headline?.question ?? answers[answers.length - 1]?.q ?? "";
@@ -108,6 +112,8 @@ export default function TeamWearBox({
               </div>
             </div>
           )}
+
+          {signup}
 
           <WearQuickAnswers answers={answers} />
 

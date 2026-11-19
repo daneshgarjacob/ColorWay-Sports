@@ -432,6 +432,35 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     .slice(0, 3);
   const upNextPost = relatedPosts[0];
 
+  // One team email signup per schedule post. Clarity 11/19: under the this-week
+  // box it landed ~1,000px down on phones, right where Mediavine's floating
+  // video player and the sticky ad sit, and a reader sat 30 seconds with the
+  // player over the field. So when a this-week box renders, the signup goes
+  // inside it, straight after the headline answer and before the FAQ list.
+  const alertSignup =
+    scheduleTeam && storyTeams[0]
+      ? (embedded: boolean) => (
+          <TeamAlertSignup
+            team={storyTeams[0]}
+            who={post.league === "college" ? `${scheduleTeam}'s` : `the ${scheduleTeam}'`}
+            accent={nflTeam?.color ?? "#0025CC"}
+            embedded={embedded}
+          />
+        )
+      : null;
+  // Exactly one box carries it, the first that renders.
+  const signupBox: "nfl" | "nba" | "college" | null = !alertSignup
+    ? null
+    : nflTeam && nflWear && (nflWear.headline || nflLatest)
+      ? "nfl"
+      : nbaNext
+        ? "nba"
+        : collegeTeam && collegeWear && (collegeWear.headline || collegeWear.last)
+          ? "college"
+          : null;
+  const alertSignupInBox = signupBox !== null;
+  const boxSignup = (box: typeof signupBox) => (alertSignup && signupBox === box ? alertSignup(true) : null);
+
   return (
     <>
       <ReadingProgress />
@@ -533,6 +562,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           }
           answers={nflWear.answers}
           link={nflLatest ? { href: nflLatest.trackerHref, label: "See the game in the NFL uniform tracker" } : null}
+          signup={boxSignup("nfl")}
         />
       )}
 
@@ -558,6 +588,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
               : []),
           ]}
           link={{ href: nbaNext.opp.href, label: `See every ${nbaNext.opp.name} jersey this season` }}
+          signup={boxSignup("nba")}
         />
       )}
 
@@ -578,20 +609,16 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             }
           }
           answers={collegeWear.answers}
+          signup={boxSignup("college")}
         />
       )}
 
-      {/* Team email signup right under the this-week box (Jake 11/13): the
-          full signup after the grid sits below where phone readers stop. */}
-      {scheduleTeam && storyTeams[0] && (
+      {/* Team email signup (Jake 11/13). When a this-week box is on the page
+          it renders inside it, right under the headline answer (see
+          alertSignupInBox); otherwise it sits here under the hero. */}
+      {alertSignup && !alertSignupInBox && (
         <div className={ARTICLE_ROW}>
-          <div className={ARTICLE_COL}>
-            <TeamAlertSignup
-              team={storyTeams[0]}
-              who={post.league === "college" ? `${scheduleTeam}'s` : `the ${scheduleTeam}'`}
-              accent={nflTeam?.color ?? "#0025CC"}
-            />
-          </div>
+          <div className={ARTICLE_COL}>{alertSignup(false)}</div>
         </div>
       )}
 

@@ -22,6 +22,37 @@ export default function UpNext({ slug, title, category, gradient, coverImage, co
   // Height of Mediavine's bottom adhesion ad, so this bar can sit above it
   // instead of underneath it. 0 when no ad is on the page.
   const [adhesionOffset, setAdhesionOffset] = useState(0);
+  // True while any in-page email signup is on screen: the bar must never sit
+  // over a form field (Clarity 11/19, schedule posts on phones).
+  const [formOnScreen, setFormOnScreen] = useState(false);
+
+  useEffect(() => {
+    if (typeof IntersectionObserver === "undefined") return;
+    const ours = (el: Element) => {
+      for (let n: Element | null = el; n && n !== document.body; n = n.parentElement) {
+        if (getComputedStyle(n).position === "fixed") return false;
+      }
+      return true;
+    };
+    // Marked signup boxes, plus any other email form (newsletter, team alerts)
+    // that is not inside one of them or inside a fixed bar.
+    const marked = Array.from(document.querySelectorAll<HTMLElement>("[data-signup]"));
+    const forms = Array.from(document.querySelectorAll<HTMLFormElement>("form")).filter(
+      (f) => f.querySelector("input[type='email']") && !f.closest("[data-signup]"),
+    );
+    const targets = [...marked, ...forms].filter(ours);
+    if (targets.length === 0) return;
+    const showing = new Set<Element>();
+    const io = new IntersectionObserver((entries) => {
+      for (const e of entries) {
+        if (e.isIntersecting) showing.add(e.target);
+        else showing.delete(e.target);
+      }
+      setFormOnScreen(showing.size > 0);
+    });
+    targets.forEach((t) => io.observe(t));
+    return () => io.disconnect();
+  }, []);
 
   useEffect(() => {
     let ticking = false;
@@ -62,7 +93,7 @@ export default function UpNext({ slug, title, category, gradient, coverImage, co
   return (
     <div
       className={`cw-upnext lg:hidden fixed inset-x-0 bottom-0 z-40 px-3 pb-3 transition-all duration-500 ${
-        visible ? "translate-y-0 opacity-100" : "translate-y-full opacity-0 pointer-events-none"
+        visible && !formOnScreen ? "translate-y-0 opacity-100" : "translate-y-full opacity-0 pointer-events-none"
       }`}
       style={adhesionOffset ? { paddingBottom: adhesionOffset + 12 } : undefined}
     >

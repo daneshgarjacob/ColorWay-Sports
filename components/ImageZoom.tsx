@@ -18,10 +18,11 @@ import { useEffect, useRef, useState } from "react";
 // stay inert). The lightbox is a native <dialog>: Esc, the close button or a
 // tap anywhere closes it. No dependency; nothing loads until a tap.
 //
-// Week-grid cells (college posts) whose date has a matching game write-up
-// below ("**September 6 vs. Washington State.**") become a jump to that
-// paragraph. Cells with no write-up (NFL posts, which have none) stay as they
-// were.
+// Week-grid cells whose game has a write-up in the post become a jump to it:
+// college cells by date ("**September 6 vs. Washington State.**"), NFL cells by
+// week (a "... (Week 14)" section heading or a "**Week 11 ...**" paragraph;
+// Clarity 11/19: readers tapped the NFL week cards and nothing happened).
+// Cells with no write-up stay as they were and never look tappable.
 
 
 // Styles live here (not only in globals.css) so the lightbox works even when a
@@ -29,8 +30,10 @@ import { useEffect, useRef, useState } from "react";
 const ZOOM_CSS = `
 .cw-zoomable{cursor:zoom-in}
 .cw-zoomable:focus-visible,.cw-jump:focus-visible{outline:3px solid #0b5cff;outline-offset:3px}
-.cw-jump{cursor:pointer;transition:transform .15s ease}
-@media (hover:hover){.cw-jump:hover{transform:translateY(-2px)}}
+.cw-jump{position:relative;cursor:pointer;-webkit-tap-highlight-color:transparent;transition:transform .15s ease,box-shadow .15s ease,filter .15s ease;box-shadow:0 1px 0 rgba(0,0,0,.06),0 2px 6px rgba(11,22,42,.10)}
+.cw-jump::after{content:"\\2193";position:absolute;top:6px;right:8px;font-size:13px;font-weight:800;line-height:1;opacity:.6}
+@media (hover:hover){.cw-jump:hover{transform:translateY(-2px);box-shadow:0 6px 16px rgba(11,22,42,.18)}}
+.cw-jump:active{transform:scale(.97);filter:brightness(.92);box-shadow:0 1px 3px rgba(11,22,42,.18)}
 @keyframes cw-flash{from{background-color:rgba(255,213,79,.45)}to{background-color:transparent}}
 .cw-flash{animation:cw-flash 1.8s ease-out;border-radius:6px}
 .cw-lightbox{position:fixed;inset:0;width:100vw;height:100dvh;max-width:none;max-height:none;margin:0;padding:16px;border:0;background:transparent;display:none;align-items:center;justify-content:center;cursor:zoom-out}
@@ -55,16 +58,59 @@ function label(img: HTMLImageElement): string {
   return alt ? `Enlarge image: ${alt}` : "Enlarge image";
 }
 
-/** Game write-up paragraph for a grid cell like "SEP 6", or null. */
-function findWriteUp(cell: HTMLElement, root: HTMLElement): HTMLElement | null {
+/** Week numbers a heading covers: "(Week 14)", "(Weeks 6, 7 and 13)", "Weeks 9 and 16, Confirmed". */
+function headingWeeks(text: string): number[] {
+  const m = /\bWeeks?\s+(\d{1,2}(?:\s*(?:,|and|&)\s*\d{1,2})*)(\s*[-–—]|\s+(?:to|through)\s+\d)?/i.exec(text);
+  // A span ("Weeks 1-8") is a season overview, not one game's write-up.
+  if (!m || m[2]) return [];
+  return (m[1].match(/\d{1,2}/g) || []).map(Number);
+}
+
+/**
+ * The write-up for a grid cell, or null. College cells start "SEP 6" and match
+ * a paragraph led by "**September 6 ...**". NFL cells start "WEEK 11" and match
+ * (in order) a section heading naming that week ("Navy in Miami (Week 14)"),
+ * a paragraph led by "**Week 11 ...**", or a bold "**Week 11 ...**" run inside
+ * a paragraph. NFL posts split the body around the grid, so every .prose block
+ * on the page is searched, never the grid itself.
+ */
+function findWriteUp(cell: HTMLElement, roots: HTMLElement[], grid: HTMLElement): HTMLElement | null {
   const first = cell.firstElementChild?.textContent?.trim() || "";
+  const outside = (el: Element) => !grid.contains(el);
+
   const m = /^([A-Z]{3})\s+(\d{1,2})$/.exec(first);
-  if (!m || !MONTHS[m[1]]) return null;
-  const want = `${MONTHS[m[1]]} ${m[2]}`;
-  for (const strong of root.querySelectorAll<HTMLElement>("p > strong:first-child")) {
-    const t = strong.textContent?.trim() || "";
-    if (t === want || t.startsWith(`${want} `) || t.startsWith(`${want}.`) || t.startsWith(`${want},`)) {
-      return strong.parentElement;
+  if (m && MONTHS[m[1]]) {
+    const want = `${MONTHS[m[1]]} ${m[2]}`;
+    for (const root of roots) {
+      for (const strong of root.querySelectorAll<HTMLElement>("p > strong:first-child")) {
+        const t = strong.textContent?.trim() || "";
+        if (outside(strong) && (t === want || t.startsWith(`${want} `) || t.startsWith(`${want}.`) || t.startsWith(`${want},`))) {
+          return strong.parentElement;
+        }
+      }
+    }
+    return null;
+  }
+
+  const w = /^WEEK\s+(\d{1,2})$/i.exec(first);
+  if (!w) return null;
+  const week = Number(w[1]);
+  const leadsWith = (t: string) => new RegExp(`^Week\\s+${week}(?!\\d)`, "i").test(t.trim());
+  for (const root of roots) {
+    for (const h of root.querySelectorAll<HTMLElement>("h2, h3")) {
+      if (outside(h) && headingWeeks(h.textContent || "").includes(week)) return h;
+    }
+  }
+  for (const root of roots) {
+    for (const strong of root.querySelectorAll<HTMLElement>("p > strong:first-child")) {
+      if (outside(strong) && leadsWith(strong.textContent || "")) return strong.parentElement;
+    }
+  }
+  for (const root of roots) {
+    // Mid-paragraph: land on (and highlight) the bold run itself, since the
+    // paragraph may cover several weeks.
+    for (const strong of root.querySelectorAll<HTMLElement>("p strong")) {
+      if (outside(strong) && leadsWith(strong.textContent || "")) return strong;
     }
   }
   return null;
@@ -84,12 +130,15 @@ export default function ImageZoom() {
       img.setAttribute("aria-label", label(img));
     }
 
-    // Mark the week-grid cells that have a write-up to jump to.
-    for (const root of document.querySelectorAll<HTMLElement>(".prose")) {
+    // Mark the week-grid cells that have a write-up to jump to. The whole card
+    // (week label, matchup, jersey badge, date) is the link; cells without a
+    // write-up are left untouched so they never look tappable.
+    const roots = Array.from(document.querySelectorAll<HTMLElement>(".prose"));
+    for (const root of roots) {
       for (const grid of root.querySelectorAll<HTMLElement>('div[style*="grid"]')) {
         for (const cell of Array.from(grid.children) as HTMLElement[]) {
-          if (cell.tagName !== "DIV" || cell.closest("a")) continue;
-          const target = findWriteUp(cell, root);
+          if (cell.tagName !== "DIV" || cell.closest("a") || cell.querySelector("a")) continue;
+          const target = findWriteUp(cell, roots, grid);
           if (!target) continue;
           if (!target.id) target.id = `game-${(cell.firstElementChild?.textContent || "").trim().toLowerCase().replace(/\s+/g, "-")}`;
           cell.classList.add("cw-jump");
@@ -97,7 +146,15 @@ export default function ImageZoom() {
           cell.tabIndex = 0;
           cell.setAttribute("role", "link");
           const matchup = cell.children[1]?.textContent?.trim();
-          cell.setAttribute("aria-label", `Jump to the ${matchup ? `${matchup} ` : ""}game details`);
+          const when = cell.firstElementChild?.textContent?.trim();
+          cell.setAttribute("aria-label", `Jump to the ${when ? `${when} ` : ""}${matchup ? `${matchup} ` : ""}write-up`);
+          // An image inside a jump card belongs to the card's tap, not the lightbox.
+          for (const img of cell.querySelectorAll<HTMLImageElement>("img.cw-zoomable")) {
+            img.classList.remove("cw-zoomable");
+            img.removeAttribute("tabindex");
+            img.removeAttribute("role");
+            img.removeAttribute("aria-label");
+          }
         }
       }
     }
@@ -108,7 +165,12 @@ export default function ImageZoom() {
     const jump = (cell: HTMLElement) => {
       const target = cell.dataset.jump ? document.getElementById(cell.dataset.jump) : null;
       if (!target) return;
-      target.scrollIntoView({ behavior: "smooth", block: "center" });
+      if (/^H[23]$/.test(target.tagName)) {
+        // A section heading lands near the top, clear of the sticky header.
+        window.scrollTo({ top: target.getBoundingClientRect().top + window.scrollY - 96, behavior: "smooth" });
+      } else {
+        target.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
       target.classList.remove("cw-flash");
       void target.offsetWidth; // restart the highlight animation
       target.classList.add("cw-flash");
