@@ -1,16 +1,28 @@
 ---
-title: "Army's 2026 Army-Navy Uniform Is The Ivy Soldier: Green For The 4th Infantry Division, Graded B"
+title: "Army-Navy Uniforms 2026: Army's Green Ivy Soldier Vs. Navy's Navy SEALs Tribute, Every Detail And Our Grades"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-11"
-updatedDate: "2026-11-12"
-excerpt: "Army and Nike unveiled the Ivy Soldier uniform for the 127th Army-Navy Game on December 12: an ivy-green camo build for the 4th Infantry Division with a IV helmet, Steadfast and Loyal on the shell, an ivy-wrapped Athena shield and a 9/11 decal. Every detail, our piece-by-piece grade, and what Navy has shown so far."
+updatedDate: "2026-11-19"
+excerpt: "Both Army-Navy uniforms for 2026 are out. Army wears the Nike Ivy Soldier, an ivy-green camo set for the 4th Infantry Division with a IV helmet and a 9/11 decal. Navy wears an Under Armour Naval Special Warfare tribute to the SEALs: white jersey, tonal blue camo, a Bone Frog on the helmet. Every detail, our grades, and the 127th game on December 12 at MetLife Stadium on CBS."
 gradient: "linear-gradient(135deg, #1f2a14 0%, #4a5d23 55%, #9acd32 130%)"
 kicker: "Uniform Grade"
 logoSrc: "/logos/teams/ncaa-army-black-knights.png"
 league: "college"
 teams: ["army-black-knights", "navy-midshipmen"]
 ---
+
+**Both Army-Navy uniforms for 2026 are out, and they could not look more different.** Army wears the **Ivy Soldier**, an ivy-green camouflage Nike set for the **4th Infantry Division**. Navy wears a **white Under Armour uniform honoring Naval Special Warfare**, the Navy SEALs and the boat crews who carry them, with a **Bone Frog** on top of the helmet. The 127th Army-Navy Game is **Saturday, December 12, 2026, at 3 p.m. Eastern on CBS from MetLife Stadium** in East Rutherford, New Jersey.
+
+| | **Army** | **Navy** |
+|---|---|---|
+| **Uniform** | Ivy Soldier (4th Infantry Division) | Naval Special Warfare (SEALs, SWCC, WWII Frogmen) |
+| **Colors** | Olive camo jersey and pants, green helmet, lime facemask | White jersey, deep navy pants, dark navy helmet |
+| **Maker** | Nike | Under Armour |
+| **Revealed** | November 8 | November 12 |
+| **Our grade** | B | A- |
+
+This page is the full breakdown of Army's set. Navy's is in [Navy's 2026 Army-Navy uniform, graded](/stories/navy-army-navy-2026-uniform-navy-seals-naval-special-warfare-graded).
 
 **Army is going green for Navy.** The Black Knights' uniform for the 127th Army-Navy Game is the **Ivy Soldier**, a Nike build that honors the **4th Infantry Division**, the "Ivy Division," and its motto, **Steadfast and Loyal**. Army wears it on **Saturday, December 12 at 3 p.m. Eastern on CBS at MetLife Stadium**.
 
@@ -98,7 +110,7 @@ Army has honored a different unit almost every December:
 - **2025:** The Army's 250th anniversary, an all-white set with a marble print inspired by Arlington National Cemetery
 - **2026:** 4th Infantry Division, the Ivy Soldier
 
-It is the first green-based Army-Navy uniform in this run. The full Army schedule, including every regular-season jersey, is in our [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026).
+It is the first green-based Army-Navy uniform in this run. Nike says 2026 is the **11th consecutive season** that Army Football, West Point's Department of History and War Studies and Nike have built a special uniform for the Navy game, and that the 4th Infantry Division patch sits on the left shoulder while the 9/11 decal is on the back of the helmet. The full Army schedule, including every regular-season jersey, is in our [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026).
 
 ## What About Navy?
 
@@ -160,4 +172,8 @@ Nike. The Nike Swoosh is on the jersey and the cleats, and Army lists the unifor
 
 Lincoln Financial Field in Philadelphia, on Saturday, December 4, 2027, per the Army-Navy Game's announcement on November 9.
 
-*Sources: Army Football's uniform site (IvySoldier.Football) and its posts on X from November 7 to 10, and the Army-Navy Game's announcement on X.*
+**What are the Army-Navy uniforms for 2026?**
+
+Army wears the Nike Ivy Soldier uniform, ivy-green camo honoring the 4th Infantry Division. Navy wears an Under Armour Naval Special Warfare uniform honoring the Navy SEALs, with a white jersey, tonal blue camo and a Bone Frog on the helmet. Both were revealed in November, Army on the 8th and Navy on the 12th.
+
+*Sources: Army Football's uniform site (IvySoldier.Football) and its posts on X from November 7 to 10, [Nike's November 8 release](https://about.nike.com/newsroom/releases/nike-army-honor-4th-infantry-division-with-ivy-soldier-football-uniforms-for-2026-army-navy-game), Navy's uniform site (nswcuniform.com), and the Army-Navy Game's announcement on X.*

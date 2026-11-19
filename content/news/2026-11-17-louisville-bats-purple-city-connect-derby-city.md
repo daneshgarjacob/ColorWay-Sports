@@ -11,3 +11,5 @@ The Reds' Triple-A club is putting **purple** back on the field for the first ti
 The details are all Louisville: a **horizontal stripe across the middle** that crosses the pinstripes to look like the hoops and staves of a **bourbon barrel**, and **diamond sleeve patches** modeled on Kentucky Derby jockey silks. The cap is purple with a purple version of the team's secondary logo.
 
 The Bats will wear it at **every Friday home game in 2027** ("Purple Fridays"), starting **April 2 against Indianapolis**. Team designer Max Oxley, who also drew the Louisville Humidity alternate identity, made the set, per the team's announcement.
+
+[Read the full story: every detail of the Derby City uniform and the Purple Fridays schedule](/stories/louisville-bats-purple-city-connect-derby-city-2027).
