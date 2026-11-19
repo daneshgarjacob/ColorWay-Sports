@@ -23,6 +23,21 @@ import { useEffect, useRef, useState } from "react";
 // paragraph. Cells with no write-up (NFL posts, which have none) stay as they
 // were.
 
+
+// Styles live here (not only in globals.css) so the lightbox works even when a
+// cached stylesheet is served; globals.css keeps the same rules as a fallback.
+const ZOOM_CSS = `
+.cw-zoomable{cursor:zoom-in}
+.cw-zoomable:focus-visible,.cw-jump:focus-visible{outline:3px solid #0b5cff;outline-offset:3px}
+.cw-jump{cursor:pointer;transition:transform .15s ease}
+@media (hover:hover){.cw-jump:hover{transform:translateY(-2px)}}
+@keyframes cw-flash{from{background-color:rgba(255,213,79,.45)}to{background-color:transparent}}
+.cw-flash{animation:cw-flash 1.8s ease-out;border-radius:6px}
+.cw-lightbox{position:fixed;inset:0;width:100vw;height:100dvh;max-width:none;max-height:none;margin:0;padding:16px;border:0;background:transparent;display:none;align-items:center;justify-content:center;cursor:zoom-out}
+.cw-lightbox[open]{display:flex}
+.cw-lightbox::backdrop{background:rgba(8,12,22,.88)}
+`;
+
 const MONTHS: Record<string, string> = {
   AUG: "August", SEP: "September", OCT: "October", NOV: "November", DEC: "December", JAN: "January",
 };
@@ -140,27 +155,38 @@ export default function ImageZoom() {
   }, [shown]);
 
   return (
-    <dialog
-      ref={dialogRef}
-      className="cw-lightbox"
-      aria-label={shown?.alt ? `Enlarged image: ${shown.alt}` : "Enlarged image"}
-      onClose={() => setShown(null)}
-      onClick={() => setShown(null)}
-    >
-      {shown && (
-        <figure className="m-0 flex flex-col items-center gap-3">
-          <img src={shown.src} alt={shown.alt} className="block max-w-[94vw] max-h-[82vh] w-auto h-auto object-contain rounded-lg bg-white" />
-          {shown.alt && <figcaption className="text-white/85 text-[14px] leading-snug text-center max-w-[640px] px-4">{shown.alt}</figcaption>}
-        </figure>
-      )}
-      <button
-        type="button"
-        className="absolute top-3 right-3 w-11 h-11 rounded-full bg-white/95 text-black text-[26px] leading-none flex items-center justify-center"
-        aria-label="Close enlarged image"
+    <>
+      <style>{ZOOM_CSS}</style>
+      <dialog
+        ref={dialogRef}
+        className="cw-lightbox"
+        aria-label={shown?.alt ? `Enlarged image: ${shown.alt}` : "Enlarged image"}
+        onClose={() => setShown(null)}
         onClick={() => setShown(null)}
       >
-        &times;
-      </button>
-    </dialog>
+        {shown && (
+          <figure style={{ margin: 0, display: "flex", flexDirection: "column", alignItems: "center", gap: 12 }}>
+            <img
+              src={shown.src}
+              alt={shown.alt}
+              style={{ display: "block", maxWidth: "94vw", maxHeight: "82vh", width: "auto", height: "auto", objectFit: "contain", borderRadius: 8, background: "#fff" }}
+            />
+            {shown.alt && (
+              <figcaption style={{ color: "rgba(255,255,255,0.85)", fontSize: 14, lineHeight: 1.4, textAlign: "center", maxWidth: 640, padding: "0 16px" }}>
+                {shown.alt}
+              </figcaption>
+            )}
+          </figure>
+        )}
+        <button
+          type="button"
+          style={{ position: "absolute", top: "max(12px, env(safe-area-inset-top, 0px))", right: 12, width: 44, height: 44, borderRadius: 999, background: "rgba(255,255,255,0.95)", color: "#000", fontSize: 26, lineHeight: 1, display: "flex", alignItems: "center", justifyContent: "center", border: 0, cursor: "pointer" }}
+          aria-label="Close enlarged image"
+          onClick={() => setShown(null)}
+        >
+          &times;
+        </button>
+      </dialog>
+    </>
   );
 }
