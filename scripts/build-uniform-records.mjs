@@ -77,6 +77,7 @@ const JERSEY_NAMES = {
   "eagles-kelly-green-alternate": "Kelly Green",
   "jaguars-teal-prowler-throwback": "Prowler Teal Throwback",
   "seahawks-royal-throwback": "Royal Blue Throwback",
+  "seahawks-navy-home": "College Navy", // seahawks.com calls the home jersey College Navy; tracker cards say "Navy" or "College Navy"
   "patriots-red-throwback": "Pat Patriot Red Throwback",
   "saints-white-alternate": "White Alternate",
   "texans-red-battle": "Battle Red",

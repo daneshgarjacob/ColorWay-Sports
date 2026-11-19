@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Illinois has three jersey colors, a rack of orange helmets and a navy one, and a home crowd that picks a color theme for the big games. This is the full Illinois 2026 uniform schedule: the navy home set, the white road set, the orange alternate, the helmets, and a week-by-week outlook for all twelve games in Bret Bielema's sixth season. Six games in, the Fighting Illini are 3-3: navy over orange in all three early home games, with a patriotic helmet for Duke, white at Ohio State, all orange for Homecoming against Purdue and white again in the overtime win at Michigan State. We update this page as each combination is confirmed.
 
-**Update, November 5:** Illinois is **back in blue** for Nebraska on Friday night: a **navy helmet with an orange, white and orange center stripe and the Illinois script, a navy jersey with white numbers outlined in orange, and navy pants**, from the team's game-week uniform post. It is all navy for Dads Day and the "Hail to the Blue Out."
+**Update, November 6:** Illinois went **back in blue** for Nebraska on Friday night: a **navy helmet with an orange, white and orange center stripe and the Illinois script, a navy jersey with white numbers outlined in orange, and navy pants**, from the team's game-week uniform post. It was all navy for Dads Day and the "Hail to the Blue Out," and Illinois won **24-13**.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/IlliniFootball/status/2118116197484966150"></a></blockquote>
@@ -93,7 +93,7 @@ Illinois wore the same base look in its first three home games, orange helmet, n
 
 **What jersey is Illinois wearing this week?**
 
-Illinois wore the orange helmet, white jersey and orange pants at Michigan State on Saturday, October 10, confirmed from the game photos. Illinois won 38-37 in overtime and is 3-3. The week before, it wore all orange for Homecoming against Purdue. After a bye on October 17, Illinois beat Oregon 21-10 at home on October 24 in its military appreciation helmet, revealed by the team on October 21, with a navy jersey and orange pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Illinois wore all navy, a navy helmet with the Illinois script, navy jersey and navy pants, against Nebraska on Friday, November 6, as confirmed by the team in its "Back in blue" post, and won 24-13. Illinois then lost 22-14 at UCLA on November 13. Next is Iowa at home on November 21, Senior Day, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Illinois's football uniforms for 2026?**
 

@@ -13,9 +13,9 @@ teams: ["houston-cougars", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-Houston has three jerseys, three helmets and one alternate that the whole city plans a weekend around. This is the full Houston 2026 uniform schedule: the red home set, the white road set, the light blue Houston Blue alternate that came back on October 3, and a week-by-week outlook for all twelve games. The Cougars are 5-1, and the Icy Whites came out for Friday night in Lubbock. We update this page as each combination is confirmed.
+Houston has three jerseys, three helmets and one alternate that the whole city plans a weekend around. This is the full Houston 2026 uniform schedule: the red home set, the white road set, the light blue Houston Blue alternate that came back on October 3, and a week-by-week outlook for all twelve games. The Icy Whites came out for Friday night in Lubbock, and a white set with light blue numbers came out for Friday night in Boulder. We update this page as each combination is confirmed.
 
-**Update, October 24:** Houston wore its posted **white helmet, white jersey and red pants** at No. 10 Utah, confirmed in the team's halftime graphic. Utah went all black and won **21-13**.
+**Update, November 13:** Houston wore a **white helmet, white jersey with light blue numbers and white pants** at Colorado on Friday night, confirmed from the game broadcast. Colorado won **42-32**.
 
 ## The Houston 2026 Uniform Sets
 
@@ -92,13 +92,13 @@ That was the white shell with the red interlocking UH and a red facemask, the wh
 
 ## The Bottom Line
 
-Six games in, Houston is 5-1. It has worn red twice at home, shown both pants, taken the Icy Whites to Lubbock for a 28-26 loss to Texas Tech's all black Let's Ride set, brought Houston Blue back with a dark gray helmet for a 27-17 win over UCF, and paired the red helmet and red pants with the road white in a 35-16 win at Kansas State. The rest of the season sorts itself neatly: white on the road because the Big 12 says so, red at home, and one date worth circling. November 28 pairs Senior Day with a Wear Black crowd theme that the program has not explained yet. The grid above has every date, and we add a star as each uniform is confirmed on the field.
+Ten games in, Houston has worn red at home, shown both pants, taken the Icy Whites to Lubbock for a 28-26 loss to Texas Tech's all black Let's Ride set, brought Houston Blue back with a dark gray helmet for a 27-17 win over UCF, paired the red helmet and red pants with the road white in a 35-16 win at Kansas State, put the white helmet on the red home set for a 31-24 win over Cincinnati, and went all white with light blue numbers at Colorado. The rest of the season sorts itself neatly: white on the road because the Big 12 says so, red at home, and one date worth circling. November 28 pairs Senior Day with a Wear Black crowd theme that the program has not explained yet. The grid above has every date, and we add a star as each uniform is confirmed on the field.
 
 ## Frequently Asked Questions
 
 **What jersey is Houston wearing this week?**
 
-Houston wore the red helmet with the Houston script, white jersey and red pants at Kansas State on Saturday, October 10, confirmed from the broadcast, and won 35-16 to move to 5-1. The week before, the Cougars wore the light blue Houston Blue alternate with a dark gray helmet in a 27-17 win over UCF. Next is Oklahoma State at home on October 17, where Houston has confirmed its "classic home colors": red helmet with the Houston script, red jersey and white pants.
+Houston wore a white helmet, white jersey with light blue numbers and white pants at Colorado on Friday, November 13, confirmed from the game broadcast, and lost 42-32. The week before, the Cougars wore a white helmet, red jersey and red pants in a 31-24 win over Cincinnati. Next is a trip to West Virginia on November 21, where white is expected.
 
 **What are Houston's football uniforms for 2026?**
 

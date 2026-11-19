@@ -83,7 +83,7 @@ Six games in, Maryland has mostly played it straight: red at home with white pan
 
 **What jersey is Maryland wearing this week?**
 
-At No. 18 USC on Saturday, November 21, Maryland wears the Script Shift uniforms: white helmet, white jersey and white pants with the Terps script and numbers in an iridescent gold, black and red finish, announced by the team on November 18. The week-by-week grid above lists every other game with the set Maryland wore or is expected to wear.
+At No. 18 USC on Saturday, November 21, Maryland wears the Script Shift uniforms: white helmet, white jersey and white pants with the Terps script and numbers in an iridescent gold, black and red finish, announced by the team on November 18. The last uniform we have logged is Halloween against Illinois on October 31, when Maryland confirmed a red helmet, black jersey and black pants, and Maryland beat Wisconsin 24-21 on November 14. The week-by-week grid above lists every other game with the set Maryland wore or is expected to wear.
 
 **What are Maryland's Script Shift uniforms?**
 

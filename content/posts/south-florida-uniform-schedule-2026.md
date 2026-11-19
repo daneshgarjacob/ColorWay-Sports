@@ -13,7 +13,7 @@ teams: ["south-florida-bulls", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-South Florida has three helmets, three jersey colors and a brand new head coach who has already changed the pattern. This is the full South Florida 2026 uniform schedule: the green home jersey, the white road set, the black alternate, the metallic gold helmet that carried the program for years, and the Gold Standard white shell the Bulls brought back for their 30th season. Five games in, USF has worn a white helmet every time, which is not what the last few years looked like, and the Gold Standard finally came out against Temple on October 3. We update this page as each combination is confirmed.
+South Florida has three helmets, three jersey colors and a brand new head coach who has already changed the pattern. This is the full South Florida 2026 uniform schedule: the green home jersey, the white road set, the black alternate, the metallic gold helmet that carried the program for years, and the Gold Standard white shell the Bulls brought back for their 30th season. USF wore a white helmet in each of its first six games, which is not what the last few years looked like, the Gold Standard finally came out against Temple on October 3, and the metallic gold helmet returned for Homecoming against Kent State on October 17. We update this page as each combination is confirmed.
 
 ## The South Florida 2026 Uniform Sets
 
@@ -100,13 +100,13 @@ American Conference home teams wear color and visitors wear white, so every road
 
 ## The Bottom Line
 
-The story of South Florida's 2026 wardrobe so far is the helmet USF made everyone wait for. The Bulls revived the Gold Standard in May, built a whole reveal around it, and then wore the plain white shell with the green Bull U for the first four games. Against Temple on October 3 the Gold Standard finally came out, the gold Bull U on the white shell with a gold facemask, over a white jersey with gold numbers and gold pants, in a 17-13 loss that dropped USF to 4-1. It went with the white jersey at home, not on the road, so the open question now is how often it comes back. The green jersey is the home default, white is locked in on the road, the black alternate is the wild card, and the gold lid that defined the last decade finally returns for Homecoming against Kent State on October 17, with the green jersey and gold pants. There are four home dates and two road dates left. Halloween against UAB and the finale against Tulane are the two cells we are watching hardest. The grid above has every date, and we add a star as each combination is confirmed.
+The story of South Florida's 2026 wardrobe so far is the helmet USF made everyone wait for. The Bulls revived the Gold Standard in May, built a whole reveal around it, and then wore the plain white shell with the green Bull U for the first four games. Against Temple on October 3 the Gold Standard finally came out, the gold Bull U on the white shell with a gold facemask, over a white jersey with gold numbers and gold pants, in a 17-13 loss that dropped USF to 4-1. It went with the white jersey at home, not on the road, so the open question now is how often it comes back. The green jersey is the home default, white is locked in on the road, the black alternate is the wild card, and the gold lid that defined the last decade returned for Homecoming against Kent State on October 17, with the green jersey and gold pants, as confirmed by the team. Two games are left: at Florida Atlantic on November 21, where white is expected, and the finale at home against Tulane. The grid above has every date, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is South Florida wearing this week?**
 
-USF wears a gold helmet, green jersey and gold pants for Homecoming against Kent State on Saturday, October 17, confirmed by the team. It is the first time the gold helmet has been worn this season. The last time out, the Bulls wore all white with the green bull on the helmet at UTSA on October 8, a 31-24 loss, and before that the Gold Standard helmet made its debut with a white jersey and gold pants against Temple. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+USF wore a white helmet, green jersey and white pants against Memphis on Thursday, November 12, confirmed from the game broadcast, and lost 52-41. The week before, the Bulls wore a white helmet, white jersey and green pants at East Carolina, checked against the game photos, in a 20-17 loss. Next is Florida Atlantic on the road on November 21, where white is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are South Florida's football uniforms for 2026?**
 

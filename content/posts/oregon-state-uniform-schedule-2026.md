@@ -108,7 +108,7 @@ Five confirmed games, five different uniforms. Oregon State went all white at Ho
 
 **What jersey is Oregon State wearing this week?**
 
-Oregon State went all orange, orange helmet, orange jersey and orange pants, against San Diego State at Reser Stadium on Saturday, October 10, confirmed from the game photos, and won 66-14 to move to 4-2. Black had been expected. The week before, the Beavers wore the orange helmet, white jersey and orange pants in a 56-26 win at Colorado State. Next up is Washington State at Reser Stadium on October 17 for Homecoming in a black helmet, black jersey and black pants, confirmed by the team. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Oregon State wore its military appreciation threads against Texas State at Reser Stadium on Saturday, November 7: a white helmet with the orange and black center stripe, a black jersey with gray digital-camo numbers and white pants, worn as posted and confirmed from the game broadcast. Texas State won 42-21. The Beavers then lost 46-41 at Boise State on November 14. Next up is Utah State at Reser Stadium on November 21 for Senior Day, where black is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Oregon State's football uniforms for 2026?**
 

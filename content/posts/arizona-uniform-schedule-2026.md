@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Arizona wears a navy jersey under a white helmet at home and goes all white on the road, and both of those looks are already on the board in 2026. This is the full Arizona 2026 uniform schedule: the navy home set, the white road set, the all-red Red Out look, the Sandstorm alternate that gets its own themed game against TCU, and a week-by-week outlook for all twelve games, including the 100th Territorial Cup. We update this page as each combination is confirmed.
 
-**Update, October 24:** Arizona wore its "classic look for homecoming" against Iowa State, a **white helmet with the red block A, a navy jersey and white pants**, confirmed from the team's game photos, and won **39-3**.
+**Update, November 14:** Arizona wore a **white helmet, navy jersey and navy pants** on Military Appreciation night against Utah, confirmed from the game broadcast, and lost **40-39**.
 
 ## The Arizona 2026 Uniform Sets
 
@@ -89,13 +89,13 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
 
 ## The Bottom Line
 
-Six games in, Arizona is 5-1 and has mostly worn what the rules predict: the navy jersey under the white helmet at home and white on the road. The twists so far are the red jersey against Northern Illinois, navy pants, at Washington State under the white jersey and again against Cincinnati under the navy one, and Sandstorm with red pants in the 52-31 win at West Virginia. The interesting part of this season is the promo calendar. Arizona has told fans what color to wear for every home game, and three of those calls point somewhere other than navy: red for Bear Down 100 at homecoming, white for Sandstorm night against TCU, and red for the 100th Territorial Cup. The road schedule should stay white all the way through. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+In every game we have logged, Arizona has mostly worn what the rules predict: the navy jersey under the white helmet at home and white on the road. The twists so far are the red jersey against Northern Illinois, navy pants, at Washington State under the white jersey and again against Cincinnati and Utah under the navy one, Sandstorm with red pants in the 52-31 win at West Virginia, and Sandstorm with white pants in the 29-28 win over TCU. The interesting part of this season is the promo calendar. Arizona has told fans what color to wear for every home game, and three of those calls pointed somewhere other than navy: red for Bear Down 100 at homecoming, where the team still wore the navy jersey, white for Sandstorm night against TCU, which the team matched, and red for the 100th Territorial Cup. The road schedule should stay white all the way through. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Arizona wearing this week?**
 
-Arizona wore Sandstorm at West Virginia on Saturday, October 10: red helmet, white jersey with red numbers and red pants, confirmed from the game photos, in a 52-31 win that moved the Wildcats to 5-1. The week before, it wore navy against Cincinnati: white helmet, navy jersey and navy pants. Arizona has a bye on October 17, and next up is Iowa State at home on October 24 for Homecoming, in a white helmet, navy jersey and white pants, confirmed by the team on October 22. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Arizona wore a white helmet, navy jersey and navy pants against Utah on Saturday, November 14, Military Appreciation night, confirmed from the game broadcast, and lost 40-39. The week before, on Friday, November 6, it wore Sandstorm with white pants against TCU: chrome red helmet, white jersey with red numbers and white pants, and won 29-28. Next up is a trip to Kansas State on November 21, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Arizona's football uniforms for 2026?**
 
@@ -103,7 +103,7 @@ A navy home jersey with white numerals outlined in red, a white road jersey with
 
 **Does Arizona have a new alternate uniform in 2026?**
 
-No brand new set, but there is a new combination. Arizona wore Sandstorm at West Virginia on October 10 with red pants instead of the off-white pants it debuted with against Oklahoma State in 2025, under the red chrome helmet shown in its game week photos, and won 52-31. Arizona also has a Sandstorm-themed home game against TCU on Friday, November 6.
+No brand new set, but there is a new combination. Arizona wore Sandstorm at West Virginia on October 10 with red pants instead of the off-white pants it debuted with against Oklahoma State in 2025, under the red chrome helmet shown in its game week photos, and won 52-31. Arizona then wore Sandstorm with white pants for its Sandstorm-themed home game against TCU on Friday, November 6, and won 29-28.
 
 **What did Arizona wear against BYU?**
 
@@ -115,7 +115,7 @@ The Blueout was a call for fans. Arizona stayed in its standard home look, white
 
 **When is Arizona's Sandstorm game?**
 
-Friday, November 6, against TCU at Casino Del Sol Stadium. It is the first official Sandstorm-themed game, and fans are asked to wear white.
+Friday, November 6, against TCU at Casino Del Sol Stadium. It was the first official Sandstorm-themed game, fans were asked to wear white, and Arizona wore the Sandstorm set with white pants in a 29-28 win.
 
 **How many games does Arizona play in 2026?**
 

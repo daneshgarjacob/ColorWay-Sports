@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Tulane has more fun with uniforms than anyone else in the American Conference, and the fans have the receipts to prove it. This is the full Tulane 2026 uniform schedule: the green home jersey, the white road set, the sky blue alternate, the one-night Mardi Gras City Edition the Green Wave already burned in Week 2, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 28:** The **Wumbo is back.** Tulane will wear its white helmet with the oversized green Angry Wave at Charlotte on Friday night.
+**Update, October 28:** The **Wumbo is back.** Tulane posted its white helmet with the oversized green Angry Wave for the Friday night game at Charlotte on October 30.
 
 **Update, October 24:** Tulane wore **a sky blue helmet, sky blue jersey and white pants** against UTSA on Saturday, confirmed from Tulane's game photos, and lost 42-19. **Final: UTSA 42, Tulane 19.**
 
@@ -104,7 +104,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
 
 ## The Sky Blue Question
 
-Tulane has three jersey colors and has only used two of them so far. The sky blue set, jersey and helmet both, was all over last season. It came out head to toe against Southern Miss on September 26, and Tulane went green for the Friday night Memphis game, so the next home date with real air under it is Homecoming against Tulsa in November.
+Tulane has three jersey colors and has used all three. The sky blue set, jersey and helmet both, was all over last season. It came out head to toe against Southern Miss on September 26, Tulane went green for the Friday night Memphis game, and the sky blue helmet and jersey came back with white pants against UTSA on October 24. We have not logged the Homecoming game against Tulsa on November 7, so the last home date to watch is Senior Day against North Texas on November 21, where green is expected.
 
 It is also worth saying what the City Edition series is and is not. Tulane introduced its first City Edition uniform in October 2025 for a November debut, then made the Mardi Gras build for 2026. That is two City Edition sets in two seasons, both one-offs, both retired immediately after the game. If there is a third piece coming this year it would be a separate reveal, and nothing has been announced.
 
@@ -120,7 +120,7 @@ Tulane spent its best uniform of the year in Week 2 and that was clearly the pla
 
 **What jersey is Tulane wearing this week?**
 
-Tulane wore a sky blue helmet, sky blue jersey and white pants against UTSA on Saturday, October 24, confirmed from Tulane's game photos, and lost 42-19. Earlier this season, Tulane wore a green helmet, white jersey and white pants at Army on Saturday, October 10, confirmed from the broadcast, and lost 20-17 to fall to 2-3. Before the bye, the Green Wave wore all sky blue against Southern Miss on September 26 for the Battle for the Bell and won 24-21. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Tulane wore a sky blue helmet, sky blue jersey and white pants against UTSA on Saturday, October 24, confirmed from Tulane's game photos, and lost 42-19. Since then Tulane posted the Wumbo helmet for its October 30 game at Charlotte, played Tulsa on November 7 and beat Rice 20-17 on November 14; we have not logged the full uniforms from those games. Next is North Texas at home on Saturday, November 21, Senior Day, where green is expected. Earlier this season, Tulane wore a green helmet, white jersey and white pants at Army on Saturday, October 10, confirmed from the broadcast, and lost 20-17 to fall to 2-3. Before the bye, the Green Wave wore all sky blue against Southern Miss on September 26 for the Battle for the Bell and won 24-21. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Tulane's football uniforms for 2026?**
 
@@ -136,7 +136,7 @@ Yes. The sky blue jersey and the sky blue helmet are both part of the current cl
 
 **When is Tulane's Homecoming game in 2026?**
 
-Saturday, November 7 against Tulsa at Yulman Stadium, with kickoff still to be announced. Green is expected. With the October 16 Memphis game confirmed in green, Homecoming is the home date we are watching most closely for an alternate.
+Saturday, November 7 against Tulsa at Yulman Stadium. Green was expected, and we have not yet logged what Tulane wore.
 
 **How many games does Tulane play in 2026?**
 

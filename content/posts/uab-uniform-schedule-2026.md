@@ -13,7 +13,7 @@ teams: ["uab-blazers", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-UAB has worn five different combinations in six games, and the one rule we can see so far is that the Blazers do not mind wearing white at home. This is the full UAB 2026 uniform schedule: the green and white jerseys, the metallic gold and green helmets, every game played so far, including the all green look in the 33-14 win over Samford on October 3, and the expected look for the rest of the season. We update this page as each combination is confirmed.
+UAB wore five different combinations in its first six games, and the one rule we can see so far is that the Blazers do not mind wearing white at home. This is the full UAB 2026 uniform schedule: the green and white jerseys, the metallic gold and green helmets, every game logged so far, most recently the gold helmet, white jersey and green pants in a 36-10 win at Temple on November 14, and the expected look for the rest of the season. We update this page as each combination is confirmed.
 
 ## The UAB 2026 Uniform Sets
 
@@ -80,7 +80,7 @@ The surprise is the white at home. UAB wore the green jersey for the home opener
 
 ## Green or White at Home?
 
-That is the open question for the rest of the UAB schedule. The Blazers have played three home games and worn two different jerseys: green over gold against ULM, white over gold against Navy, then all green against Samford. UAB has not published a season uniform grid, so the grid above lists both for every home date. The road is simpler. UAB has worn white in both road games so far, under the gold helmet at Illinois and the green helmet at Louisiana. We will add a star as each combination is confirmed.
+That is the open question for the rest of the UAB schedule. In the home games we have logged, the Blazers have worn two different jerseys: green over gold against ULM, white over gold against Navy, all green against Samford, and the white jersey again against Charlotte on November 7. UAB has not published a season uniform grid, so the grid above lists both for every home date. The road is simpler. UAB has worn white in every road game we have logged: under the gold helmet at Illinois, the green helmet at Louisiana, the gold helmet with gold pants at Memphis, and the gold helmet with green pants at Temple. We will add a star as each combination is confirmed.
 
 ## The Bottom Line
 
@@ -90,7 +90,7 @@ Five games into 2026, UAB has worn green and white jerseys, gold and green helme
 
 **What jersey is UAB wearing this week?**
 
-UAB wore the gold helmet, white jersey and gold pants at Memphis on Saturday, October 10, confirmed from the broadcast, in a 38-13 loss that dropped the Blazers to 3-3. The week before, UAB wore all green against Samford for Family Weekend and the fourth annual Smile-A-Mile game. Next is East Carolina at home for Homecoming on Thursday, October 15, where green or white is expected.
+UAB wore the gold helmet, white jersey and green pants at Temple on Saturday, November 14, confirmed from the game broadcast, and won 36-10. The week before, UAB wore the white jersey at home against Charlotte and won 23-12. Next is UTSA at home on November 21, Senior Day and the regular season home finale, where green or white is expected.
 
 **What are UAB's football uniforms for 2026?**
 
@@ -106,7 +106,7 @@ The gold helmet, white jersey and gold pants for the Salute to Service game on F
 
 **What is UAB's homecoming game in 2026?**
 
-East Carolina on Thursday, October 15 at 7:30 p.m. Eastern at Protective Stadium in Birmingham, on ESPN or ESPN2.
+East Carolina on Thursday, October 15 at Protective Stadium in Birmingham.
 
 **Where does UAB play home games?**
 

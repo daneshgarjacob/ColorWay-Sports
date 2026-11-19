@@ -229,6 +229,23 @@ export const SHOP_LIST_POSTS: Record<string, Record<string, string>> = {
     "New York Rangers Centennial Jersey": "New York Rangers Centennial jersey",
     "Seattle Seahawks Rivalries Jersey": "Seattle Seahawks Rivalries jersey",
   },
+  "black-friday-jerseys-2026-new-jerseys-graded": {
+    "Utah Mammoth Winter Classic Jersey": "Utah Mammoth Winter Classic jersey",
+    "Pittsburgh Penguins Hometown Remix Jersey": "Pittsburgh Penguins Hometown Remix jersey",
+    "Washington Capitals Hometown Remix Jersey": "Washington Capitals Hometown Remix jersey",
+    "Calgary Flames Hometown Remix Jersey": "Calgary Flames Hometown Remix jersey",
+    "Buffalo Sabres Hometown Remix Jersey": "Buffalo Sabres Hometown Remix jersey",
+    "Colorado Avalanche Winter Classic Jersey": "Colorado Avalanche Winter Classic jersey",
+    "Chicago Bears Rivalries Jersey": "Chicago Bears Rivalries jersey",
+    "Houston Texans HOUSTON/US Rivalries Jersey": "Houston Texans Rivalries jersey",
+    "Tennessee Titans Music City Rivalries Jersey": "Tennessee Titans Rivalries jersey",
+    "Jacksonville Jaguars Bold City Rivalries Jersey": "Jacksonville Jaguars Rivalries jersey",
+    "Detroit Lions Rivalries Jersey": "Detroit Lions Rivalries jersey",
+    "Atlanta Braves City Connect Jersey": "Atlanta Braves City Connect jersey",
+    "San Diego Padres City Connect Jersey": "San Diego Padres City Connect jersey",
+    "Milwaukee Brewers Wisco City Connect Jersey": "Milwaukee Brewers City Connect jersey",
+    "Pittsburgh Pirates City Connect Jersey": "Pittsburgh Pirates City Connect jersey",
+  },
 };
 
 export function addShopListLinks(html: string, slug: string): { html: string; added: number } {

@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Cincinnati has worn a different uniform in each of its first five games this season, from all red under a white Cincy script helmet against Boston College to head-to-toe white at Arizona. This is the full Cincinnati 2026 uniform schedule: the black, red and white Nike sets, the helmet rotation, and a week-by-week outlook for all twelve games, including the Victory Bell game the Bearcats won at TQL Stadium. We update this page as each combination is confirmed.
 
-**Update, October 24:** Cincinnati went **all red** against No. 8 Texas Tech, confirmed from the team's game photos, and won **37-24**.
+**Update, November 7:** Cincinnati wore a **black helmet, white jersey and black pants** at Houston, confirmed from the game broadcast, and lost **31-24**. The Bearcats then lost 41-13 at Iowa State on November 14; we have not logged that uniform yet.
 
 ## The Cincinnati 2026 Uniform Sets
 
@@ -80,13 +80,13 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
 
 ## The Bottom Line
 
-The first two games brought two different sets and two different helmets: Cincinnati went all red under the white script shell for the opener and black under the red C-Paw shell for the first night game. That is the pattern to expect all fall. Road dates at Arizona, West Virginia, Houston, Iowa State and BYU should be white, and every home date is a choice between black and red, with three helmet colors and two logos on top. Then came black helmet, red jersey and black pants for the Victory Bell game at TQL Stadium, and all black for the 31-26 Big 12 opener win over Kansas State, The fifth was all white, helmet included, at Arizona on October 3, a 34-7 loss, which makes five games in five different combinations and a 4-1 record. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+The first two games brought two different sets and two different helmets: Cincinnati went all red under the white script shell for the opener and black under the red C-Paw shell for the first night game. That is the pattern to expect all fall. Road dates at Arizona, West Virginia, Houston, Iowa State and BYU should be white, and every home date is a choice between black and red, with three helmet colors and two logos on top. Then came black helmet, red jersey and black pants for the Victory Bell game at TQL Stadium, and all black for the 31-26 Big 12 opener win over Kansas State, The fifth was all white, helmet included, at Arizona on October 3, a 34-7 loss, which made five games in five different combinations. Since then we have logged a red helmet, white jersey and red pants at West Virginia, all red against Texas Tech, and a black helmet, white jersey and black pants at Houston. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Cincinnati wearing this week?**
 
-Cincinnati went all red against No. 8 Texas Tech on Saturday, October 24, red helmet, red jersey and red pants, confirmed from the team's game photos, and won 37-24. Texas Tech wore a white helmet and white jersey. The grid above lists every game, and we update it as each combination is confirmed.
+Cincinnati lost 41-13 at Iowa State on Saturday, November 14; we have not logged that uniform yet. The last look we have on record is a black helmet, white jersey and black pants at Houston on Saturday, November 7, confirmed from the game broadcast, in a 31-24 loss. Next is Colorado at Nippert Stadium on Saturday, November 21, the last home game, where black or red is expected. The grid above lists every game, and we update it as each combination is confirmed.
 
 **What are Cincinnati's football uniforms for 2026?**
 

@@ -103,7 +103,7 @@ Temple does not need an alternate. The diamond system gives the equipment staff 
 
 **What jersey is Temple wearing this week?**
 
-Temple wore the cherry helmet with the white T, the cherry jersey and white pants against UConn on Saturday, October 10, confirmed from the broadcast, and lost 34-20 to fall to 2-4. A week earlier the Owls wore the white helmet, cherry jersey and cherry pants at South Florida and won 17-13. Next is Charlotte at home on October 17, where cherry is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Temple wore the white helmet, cherry jersey and white pants against UAB on Saturday, November 14, confirmed from the game broadcast, and lost 36-10. A week earlier the Owls wore the cherry helmet, white jersey and cherry pants at Navy, confirmed from the game broadcast, and lost 42-35. Next is Rice at home on Thursday, November 19, the last home game of the season, where cherry is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Temple's football uniforms for 2026?**
 

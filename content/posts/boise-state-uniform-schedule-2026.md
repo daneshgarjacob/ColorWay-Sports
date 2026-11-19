@@ -13,9 +13,9 @@ teams: ["boise-state-broncos", "pac-12"]
 resurfaceOnUpdate: true
 ---
 
-Boise State wears blue at home and white on the road, and the blue at home is the whole point: a blue jersey over blue pants on a blue field is the most recognizable look in college football. This is the full Boise State 2026 uniform schedule, with every game so far confirmed. **The Broncos wore a blue helmet, white jersey and blue pants at Oregon on September 5**, then **debuted the hand-painted 40th anniversary helmet with blue jerseys and blue pants against Memphis on September 12**. Below is every date of the first Pac-12 season, including the bye and the flex game that closes the regular season. We update this page as each combination is confirmed.
+Boise State wears blue at home and white on the road, and the blue at home is the whole point: a blue jersey over blue pants on a blue field is the most recognizable look in college football. This is the full Boise State 2026 uniform schedule, with every combination confirmed so far. **The Broncos wore a blue helmet, white jersey and blue pants at Oregon on September 5**, then **debuted the hand-painted 40th anniversary helmet with blue jerseys and blue pants against Memphis on September 12**. Below is every date of the first Pac-12 season, including the bye and the flex game that closes the regular season. We update this page as each combination is confirmed.
 
-**Update, November 5:** Boise State is bringing **color rush on the road** to Colorado State: an **orange helmet with the blue Broncos script and a white facemask, a blue jersey with silver numbers outlined in orange, and orange pants**, from the team's game-week uniform post. It is the first time this season the Broncos have worn the blue jersey away from home.
+**Update, November 7:** Boise State brought **color rush on the road** to Colorado State: an **orange helmet with the blue Broncos script and a white facemask, a blue jersey with silver numbers outlined in orange, and orange pants**, from the team's game-week uniform post, and won **64-38**. It was the first time this season the Broncos wore the blue jersey away from home. Boise State then beat Oregon State **46-41** at home on November 14.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BroncoSportsFB/status/2118396821101826192"></a></blockquote>
@@ -93,13 +93,13 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 ## The Bottom Line
 
-Six games in, Boise State is 5-1 and has done exactly what its closet predicts, white on the road and blue at home, with one big exception on top: the 40th anniversary helmet, which turned an ordinary blue-over-blue home opener into the most detailed helmet the program has worn. From here the road dates are locked into white and the home dates are blue by default, so the questions are Texas State on Halloween with a black fan call, and whether the orange pants or orange helmet from last season make a return. The grid above has every date, and we add a star as each uniform is confirmed.
+Through the games we have logged, Boise State has mostly done what its closet predicts, white on the road and blue at home, with two big exceptions: the 40th anniversary helmet, which turned an ordinary blue-over-blue home opener into the most detailed helmet the program has worn, and color rush at Colorado State on November 7, when the orange helmet and orange pants came back with the blue jersey on the road. The home dates are blue by default, with San Diego State on November 21 the last one, and the flex game on November 28 is a white road date. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Boise State wearing this week?**
 
-Boise State wore all white at Fresno State on Saturday, October 10: white helmet, white jersey and white pants, confirmed from the broadcast, in a 38-31 win. Fresno State wore all red. The Broncos are 5-1, and after the October 17 bye they visit Washington State on Saturday, October 24, in a white helmet, white jersey and blue pants, confirmed by the team on October 22. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Boise State beat Oregon State 46-41 at home on Saturday, November 14; we have not logged that uniform yet. The last look we have on record is color rush at Colorado State on November 7: an orange helmet with the blue Broncos script, a blue jersey with silver numbers and orange pants, confirmed by the team's game-week post, in a 64-38 win. Next is San Diego State at Albertsons Stadium on Saturday, November 21, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Boise State's football uniforms for 2026?**
 

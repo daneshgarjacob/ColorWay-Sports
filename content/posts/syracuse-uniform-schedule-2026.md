@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Syracuse used to be one of the most unpredictable dressers in the ACC. Under Fran Brown it is one of the most disciplined: navy jerseys at home, white jerseys on the road, orange helmets and orange pants almost every time. That makes the Syracuse uniform schedule easy to read, as long as you know the rule and the one thing that could break it. This is the full Syracuse 2026 uniform schedule: the navy home set, the white road set, the alternates still sitting in the closet, and a week-by-week outlook for all twelve games in Brown's third season. We update this page as each combination is confirmed.
 
-**Update, October 26:** Syracuse will wear a **white helmet featuring Otto the Orange** against SMU on Halloween, the first time ever the team has put Otto on its helmets. Only the helmet has been shown. [Every detail of the Otto helmet →](/stories/syracuse-otto-helmet-halloween-smu-2026)
+**Update, November 14:** Syracuse wore the **orange helmet, white jersey and orange pants** at NC State, confirmed from the game broadcast, and won **34-31**. For Halloween against SMU, the team had announced a **white helmet featuring Otto the Orange**, the first time it has put Otto on its helmets. [Every detail of the Otto helmet →](/stories/syracuse-otto-helmet-halloween-smu-2026)
 
 **October 24:** Syracuse wore the **orange helmet, white jersey and orange pants** at North Carolina, confirmed from the team's game photos, and won **31-30 in overtime**.
 
@@ -88,7 +88,7 @@ Syracuse has worn the orange helmet, navy jersey and orange pants in both home g
 
 **What jersey is Syracuse wearing this week?**
 
-Syracuse will wear a white helmet featuring Otto the Orange against SMU on Saturday, October 31, the first time ever the team has worn an Otto helmet. The jersey and pants have not been announced; navy is expected at home. Last week Syracuse wore the orange helmet, white jersey and orange pants at North Carolina, confirmed from the team's game photos, and won 31-30 in overtime. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). We star the grid cell as soon as the combination is confirmed.
+Syracuse wore the orange helmet, white jersey and orange pants at NC State on Saturday, November 14, confirmed from the game broadcast, and won 34-31. Next is Boston College on the road on November 21, where white is expected. We star the grid cell as soon as the combination is confirmed.
 
 **What are Syracuse's football uniforms for 2026?**
 
@@ -96,7 +96,7 @@ A navy home jersey, a white road jersey, and orange pants, all from Nike, with a
 
 **Does Syracuse have a new alternate uniform in 2026?**
 
-A new helmet, yes. Syracuse will debut a white helmet featuring Otto the Orange against SMU on October 31, the first time it has ever put Otto on its helmets. No alternate jersey has been announced. Fran Brown has said alternates like the all-orange set have to be earned, and Syracuse has stuck to navy at home and white on the road under him. If that changes, the home games against Clemson on November 7 and Notre Dame on November 28 are the most likely dates.
+A new helmet, yes. Syracuse announced a white helmet featuring Otto the Orange for SMU on October 31, the first time it has ever put Otto on its helmets. No alternate jersey has been announced. Fran Brown has said alternates like the all-orange set have to be earned, and Syracuse has stuck to navy at home and white on the road under him. If that changes, the home finale against Notre Dame on November 28 is the most likely date.
 
 **Why doesn't Syracuse wear orange jerseys anymore?**
 
@@ -104,7 +104,7 @@ Head coach Fran Brown prefers a traditional approach, with one uniform at home a
 
 **Why is Otto on Syracuse's helmet?**
 
-Syracuse is debuting a helmet featuring Otto, which the team calls its Hall of Fame mascot, for its Halloween home game against SMU on October 31, 2026. Syracuse revealed it with photos of the white helmet in fall leaves next to a pumpkin. It is the first time ever Syracuse has worn an Otto helmet.
+Syracuse announced a helmet featuring Otto, which the team calls its Hall of Fame mascot, for its Halloween home game against SMU on October 31, 2026. Syracuse revealed it with photos of the white helmet in fall leaves next to a pumpkin. The team called it the first time ever Syracuse would wear Otto on its helmets.
 
 **What did Syracuse wear against Cal?**
 

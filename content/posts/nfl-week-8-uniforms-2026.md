@@ -5,7 +5,7 @@ category: NFL
 homepageHero: "2026-10-29"
 date: "2026-10-27"
 updatedDate: "2026-11-06"
-excerpt: "NFL Week 8 uniforms (Oct. 29-Nov. 2): the Lions debut their Defend the Den Rivalries uniform against the Vikings, the Jaguars debut Bold City against the Colts, plus the Falcons in red at Tampa, the Dolphins all white, the Commanders in burgundy and gold, and every other game."
+excerpt: "NFL Week 8 uniforms (Oct. 29-Nov. 2): the Lions debuted their Defend the Den Rivalries uniform against the Vikings, the Jaguars debuted Bold City against the Colts, plus the Falcons in red at Tampa, the Dolphins all white, the Commanders in burgundy and gold, and every other game."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #0076B6 130%)"
 coverImage: "/images/posts/nfl-week-8-uniforms-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -17,13 +17,13 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 8 of the 2026 NFL season runs from Thursday, October 29 to Monday, November 2, with 14 games and four teams on bye: the New Orleans Saints, New York Giants, Houston Texans and San Francisco 49ers. The headline is two brand-new uniforms on the same Sunday afternoon. **Detroit debuts its Rivalries uniform**, the silver set with "Defend the Den" inside the collar and the electric blue carbon-fiber helmet, at Ford Field against Minnesota. At the same 1:00 p.m. kickoff, **Jacksonville debuts "Bold City"**, the alabaster jersey with spotted black pants and a gloss teal helmet, against Indianapolis. Both dates come straight from the Nike and NFL reveal on August 25, as reported by [ESPN](https://www.espn.com/nfl/story/_/id/49578264/nfl-nike-2026-rivalries-uniform-gear-series-unveiling-nfc-north-afc-south) and [NFL.com](https://www.nfl.com/news/nike-nfl-rivalries-2026-uniform-reveal).
+Week 8 of the 2026 NFL season ran from Thursday, October 29 to Monday, November 2, with 14 games and four teams on bye: the New Orleans Saints, New York Giants, Houston Texans and San Francisco 49ers. The headline was two brand-new uniforms on the same Sunday afternoon. **Detroit debuted its Rivalries uniform**, the silver set with "Defend the Den" inside the collar and the electric blue carbon-fiber helmet, at Ford Field against Minnesota. At the same 1:00 p.m. kickoff, **Jacksonville debuted "Bold City"**, the alabaster jersey with spotted black pants and a gloss teal helmet, against Indianapolis. Both dates came straight from the Nike and NFL reveal on August 25, as reported by [ESPN](https://www.espn.com/nfl/story/_/id/49578264/nfl-nike-2026-rivalries-uniform-gear-series-unveiling-nfc-north-afc-south) and [NFL.com](https://www.nfl.com/news/nike-nfl-rivalries-2026-uniform-reveal).
 
-Around them: Buffalo wears royal blue for its Native American Heritage game against Baltimore, Dallas is in white at home with Arizona answering in red, the Chargers bring the all-white look they announced for the Rams game at SoFi, Atlanta wears red at Tampa Bay, Miami goes white on white against New England, and Washington wears burgundy over gold pants on Sunday night. The week opens with Carolina at Green Bay on Thursday night.
+Around them: Buffalo wore royal blue for its Native American Heritage game against Baltimore, Dallas was in white at home with Arizona answering in red, the Chargers brought the all-white look they announced for the Rams game at SoFi, Atlanta wore red at Tampa Bay, Miami went white on white against New England, and Washington wore burgundy over gold pants on Sunday night. The week opened with Carolina at Green Bay on Thursday night.
 
-**Update, Monday, November 2:** every Sunday game is final, and the full list below now shows what each team actually wore, checked against game photos. The biggest surprise: Minnesota went **purple from helmet to pants** at Detroit, and Cleveland paired orange pants with its white jerseys in Pittsburgh. Chicago at Seattle on Monday night is the last game of the week.
+**Update, Monday, November 2:** every Sunday game is final, and the full list below now shows what each team actually wore, checked against game photos. The biggest surprise: Minnesota went **purple from helmet to pants** at Detroit, and Cleveland paired orange pants with its white jerseys in Pittsburgh. Chicago at Seattle on Monday night was the last game of the week.
 
-Below is every Week 8 look we know, special ones first and then all 14 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
+Below is every Week 8 look, special ones first and then all 14 games in order. **Confirmed** means the team had announced the jersey or the full combination before the game. **Scheduled** means the team put the jersey on its published season schedule. **Expected** was our projection from that team's uniform schedule, replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game was played. Pants were the piece teams settled the week of the game, so every pants call below was the least certain part of the line until the team posted its game-week look.
 
 ## The Week 8 Rivalries Debuts
 
@@ -36,13 +36,13 @@ Below is every Week 8 look we know, special ones first and then all 14 games in 
 <img src="/images/posts/lions-uniform-schedule-2026/rivalries-hero.jpg" alt="Detroit Lions Rivalries uniform, debuting against the Vikings in Week 8 of 2026: silver jersey with DETROIT wordmark, carbon fiber numbers and the electric blue helmet" style="display:block;width:100%;max-width:460px;margin:0 auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Image: Detroit Lions</p>
 
-**Sunday, 1:00 p.m. ET, FOX. Lions confirmed, Vikings expected.** Detroit's Rivalries uniform has been locked to this game since the August 25 reveal, and it is the only date on the 2026 calendar for it. The jersey is a pale silver with DETROIT across the chest in Honolulu blue and italic numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. Black comes back as an accent on the shoulders, in a pattern meant to look like a lion's gaze, and "Defend the Den" is sewn into the neckline. The helmet is the loudest piece: a metallic electric blue shell with glossy carbon-fiber stripes and a carbon-fiber lion. The reveal photos pair it with light pants to match the jersey, and we expect the same on Sunday.
+**Sunday, 1:00 p.m. ET, FOX. Lions confirmed, Vikings expected.** Detroit's Rivalries uniform had been locked to this game since the August 25 reveal, and it was the only date on the 2026 calendar for it. The jersey is a pale silver with DETROIT across the chest in Honolulu blue and italic numbers filled with a carbon-fiber weave, a nod to the city's car and racing culture. Black comes back as an accent on the shoulders, in a pattern meant to look like a lion's gaze, and "Defend the Den" is sewn into the neckline. The helmet is the loudest piece: a metallic electric blue shell with glossy carbon-fiber stripes and a carbon-fiber lion. The reveal photos pair it with light pants to match the jersey, and we expected the same on Sunday.
 
-With Detroit in a light jersey at home, Minnesota is expected in **purple**, the call on our Vikings schedule. The Vikings' own Rivalries set waits for the rematch at U.S. Bank Stadium on December 20, so the two clubs each get one home debut against the other.
+With Detroit in a light jersey at home, Minnesota was expected in **purple**, the call on our Vikings schedule. The Vikings' own Rivalries set waits for the rematch at U.S. Bank Stadium on December 20, so the two clubs each get one home debut against the other.
 
 <div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/vikings-purple-home.jpg" alt="Minnesota Vikings purple jersey, expected at Detroit in Week 8 of 2026 while the Lions debut their Rivalries uniform" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Vikings · Expected</figcaption></figure></div>
 
-Our grade on the uniform itself is a C (the full take is in our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026)), but purple against silver and electric blue makes a strong frame. Our matchup grade: **B+**. See the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026), and our [ranking of every 2026 Rivalries uniform](/stories/nfl-rivalries-uniforms-2026-ranked).
+Our grade on the uniform itself is a C (the full take is in our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026)), but purple against silver and electric blue made a strong frame. Our matchup grade: **B+**. See the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026), and our [ranking of every 2026 Rivalries uniform](/stories/nfl-rivalries-uniforms-2026-ranked).
 
 ### Indianapolis Colts at Jacksonville Jaguars: Bold City
 
@@ -53,13 +53,13 @@ Our grade on the uniform itself is a C (the full take is in our [Lions 2026 unif
 <img src="/images/posts/jaguars-uniform-schedule-2026/rivalries-bold-city-group.jpg" alt="Jacksonville Jaguars Bold City Rivalries uniform, debuting against the Colts in Week 8 of 2026: alabaster jerseys, spotted black pants and gloss teal helmets with gold face masks" style="display:block;width:100%;max-width:460px;margin:0 auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Image: Jacksonville Jaguars</p>
 
-**Sunday, 1:00 p.m. ET, CBS. Jaguars confirmed, Colts expected.** Jacksonville named one uniform for one game before the season, and this is it. Bold City is built on the team motto "Fortune Favors the Bold." The jersey is alabaster, an off-white cream, with a cursive "Jaguars" script outlined in gold and numbers printed with a jaguar-spot pattern and a teal shadow. "Bold City" is inside the collar and "Since '95" is on the outside. The pants are black with an all-over spot print and a teal and gold stripe, and the helmet is a gloss teal shell with a metallic gold face mask and "904" on the front bumper. That is the combination the team showed at the reveal.
+**Sunday, 1:00 p.m. ET, CBS. Jaguars confirmed, Colts expected.** Jacksonville named one uniform for one game before the season, and this was it. Bold City is built on the team motto "Fortune Favors the Bold." The jersey is alabaster, an off-white cream, with a cursive "Jaguars" script outlined in gold and numbers printed with a jaguar-spot pattern and a teal shadow. "Bold City" is inside the collar and "Since '95" is on the outside. The pants are black with an all-over spot print and a teal and gold stripe, and the helmet is a gloss teal shell with a metallic gold face mask and "904" on the front bumper. That is the combination the team showed at the reveal.
 
-With the Jaguars in cream, Indianapolis is expected in **royal blue** on the road, the call on our Colts schedule. The Colts are the opponent for two of the three new AFC South uniforms: they wore their own Anvil Strike set against Houston in Week 3, face Bold City here, and see Houston's Rivalries set in Week 11.
+With the Jaguars in cream, Indianapolis was expected in **royal blue** on the road, the call on our Colts schedule. The Colts are the opponent for two of the three new AFC South uniforms: they wore their own Anvil Strike set against Houston in Week 3, faced Bold City here, and see Houston's Rivalries set in Week 11.
 
 <div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/colts-royal-home.jpg" alt="Indianapolis Colts royal blue jersey, expected at Jacksonville in Week 8 of 2026 while the Jaguars debut Bold City" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Colts · Expected</figcaption></figure></div>
 
-The teal helmet is the best piece of the set, and the cream against royal blue should read cleanly on TV. We are less sure the spotted pants hold up from the upper deck. Our matchup grade: **B**. See the [Jaguars 2026 uniform schedule](/stories/jaguars-uniform-schedule-2026), the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026), and our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
+The teal helmet is the best piece of the set, and we expected the cream against royal blue to read cleanly on TV. We were less sure the spotted pants would hold up from the upper deck. Our matchup grade: **B**. See the [Jaguars 2026 uniform schedule](/stories/jaguars-uniform-schedule-2026), the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026), and our [Rivalries program explainer](/stories/what-is-the-nfl-rivalries-uniform-program).
 
 ## The Prime-Time Games
 
@@ -79,19 +79,19 @@ Green Bay wore the standard home look at Lambeau: **gold helmet, green jersey, g
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/eagles-white-road.jpg" alt="Philadelphia Eagles white road jersey, confirmed by the team with midnight green pants at Washington on Sunday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Eagles · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/commanders-burgundy-home.jpg" alt="Washington Commanders burgundy jersey, confirmed by the team with gold pants against the Eagles on Sunday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Commanders · Confirmed</figcaption></figure></div>
 
-**Sunday, 8:20 p.m. ET, NBC. Both teams confirmed.** Washington put this game on its published schedule as a **burgundy** date, and on Friday the team's "Uniform Combo" post filled in the rest: **burgundy jersey, gold pants, burgundy socks** under the standard burgundy helmet with the gold spear-W. That is the full burgundy and gold.
+**Sunday, 8:20 p.m. ET, NBC. Both teams confirmed.** Washington put this game on its published schedule as a **burgundy** date, and on Friday the team's "Uniform Combo" post filled in the rest: **burgundy jersey, gold pants, burgundy socks** under the standard burgundy helmet with the gold spear-W. That was the full burgundy and gold.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2116224865749565836"></a></blockquote>
 </div>
 
-Philadelphia posted its Sunday night threads on Thursday: **midnight green helmet, white jersey, midnight green pants and white socks**. The Eagles' three alternate dates are Weeks 9, 15 and 16, so no Kelly Green here.
+Philadelphia posted its Sunday night threads on Thursday: **midnight green helmet, white jersey, midnight green pants and white socks**. The Eagles' three alternate dates were set for Weeks 9, 15 and 16, so no Kelly Green here.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Eagles/status/2115958054424621123"></a></blockquote>
 </div>
 
-Burgundy and gold against white and midnight green is a proper rivalry frame under the lights. Our matchup grade: **B+**. See the [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026) and the [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026).
+Burgundy and gold against white and midnight green was a proper rivalry frame under the lights. Our matchup grade: **B+**. See the [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026) and the [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026).
 
 ### Chicago Bears at Seattle Seahawks: Monday Night Football
 
@@ -99,13 +99,13 @@ Burgundy and gold against white and midnight green is a proper rivalry frame und
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bears-white-road.jpg" alt="Chicago Bears white road jersey, expected at Seattle on Monday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bears · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/seahawks-navy-home.jpg" alt="Seattle Seahawks college navy home jersey, expected against the Bears on Monday Night Football in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Seahawks · Confirmed</figcaption></figure></div>
 
-**Monday, 8:15 p.m. ET, ESPN. Both confirmed.** Seattle announced **navy and grey** for Monday night: the navy helmet, the college navy jersey with action green numbers and **grey pants**. Chicago wears **white** on the road with the navy helmet and **navy pants**, the look on the Bears' gameday graphic.
+**Monday, 8:15 p.m. ET, ESPN. Both confirmed.** Seattle announced **navy and grey** for Monday night: the navy helmet, the college navy jersey with action green numbers and **grey pants**. Chicago wore **white** on the road with the navy helmet and **navy pants**, the look on the Bears' gameday graphic.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Seahawks/status/2115587643509723630"></a></blockquote>
 </div>
 
- Seattle's royal blue throwback already had its three primetime dates set, and this is not one of them. Navy and green against white and orange is a clean Monday night frame. Our matchup grade: **B**. See the [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) and the [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026).
+ Seattle's royal blue throwback already had its three primetime dates set, and this was not one of them. Navy and green against white and orange was a clean Monday night frame. Our matchup grade: **B**. See the [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) and the [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026).
 
 ## Also Worth Watching
 
@@ -113,7 +113,7 @@ Burgundy and gold against white and midnight green is a proper rivalry frame und
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/ravens-white-road.jpg" alt="Baltimore Ravens white road jersey, confirmed with white pants and the black primary helmet at Buffalo in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Ravens · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg" alt="Buffalo Bills royal blue home jersey, confirmed by the team for Native American Heritage day against the Ravens in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Confirmed</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Both teams confirmed.** Buffalo assigned a jersey to all eight home games itself, and this one is the **royal blue primary** under the white helmet for the team's Native American Heritage game. Baltimore posted its Gameday Threads on Thursday: the **black primary helmet, white jersey, white pants and white socks**, all white below the helmet, where the opener at Indianapolis paired the white jersey with black pants.
+**Sunday, 1:00 p.m. ET, CBS. Both teams confirmed.** Buffalo assigned a jersey to all eight home games itself, and this one was the **royal blue primary** under the white helmet for the team's Native American Heritage game. Baltimore posted its Gameday Threads on Thursday: the **black primary helmet, white jersey, white pants and white socks**, all white below the helmet, where the opener at Indianapolis paired the white jersey with black pants.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2115886995683852488"></a></blockquote>
@@ -125,13 +125,13 @@ Burgundy and gold against white and midnight green is a proper rivalry frame und
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cardinals-cardinal-home.jpg" alt="Arizona Cardinals cardinal red jersey, scheduled by the team at Dallas in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Cardinals · Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-white-home.jpg" alt="Dallas Cowboys white home jersey, confirmed by the team against the Cardinals in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Cowboys · Confirmed</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, FOX. Both jerseys scheduled by the teams.** Dallas published all 17 games on September 2, and this is a **white** home date, the traditional Cowboys look with the silver helmet. When the Cowboys wear white at home, the visitor gets to wear color, and Arizona's own published schedule takes it: **cardinal red** with the white helmet. Pants are a week-of-game call on both sides. Our matchup grade: **B+**. See the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, FOX. Both jerseys scheduled by the teams.** Dallas published all 17 games on September 2, and this was a **white** home date, the traditional Cowboys look with the silver helmet. When the Cowboys wear white at home, the visitor gets to wear color, and Arizona's own published schedule took it: **cardinal red** with the white helmet. Pants were a week-of-game call on both sides. Our matchup grade: **B+**. See the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026).
 
 ### Los Angeles Chargers at Los Angeles Rams: The SoFi Swap
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chargers-white-road.jpg" alt="Los Angeles Chargers white jersey, worn with white pants as announced by the team for the Rams game in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chargers · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-royal-home.jpg" alt="Los Angeles Rams royal home jersey, confirmed by the team with Sol pants against the Chargers in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams · Confirmed</figcaption></figure></div>
 
-**Sunday, 4:05 p.m. ET, FOX. Both teams confirmed.** The Rams are the home team at their shared stadium, so the Chargers are the visitors in their own building. The Chargers announced every combination on September 1, and their game-week "Gameday Threads" post matches it: **white helmet, white jersey, white pants and powder blue socks**, the all-white version.
+**Sunday, 4:05 p.m. ET, FOX. Both teams confirmed.** The Rams were the home team at their shared stadium, so the Chargers were the visitors in their own building. The Chargers announced every combination on September 1, and their game-week "Gameday Threads" post matched it: **white helmet, white jersey, white pants and powder blue socks**, the all-white version.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/chargers/status/2115972452887277925"></a></blockquote>
@@ -149,7 +149,7 @@ Our matchup grade: **B+**. See the [Chargers 2026 uniform schedule](/stories/cha
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-white-road.jpg" alt="Kansas City Chiefs white road jersey, expected at Denver in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/broncos-orange-home.jpg" alt="Denver Broncos Sunset Orange home jersey, confirmed by the team with Summit White pants against the Chiefs in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Broncos · Confirmed</figcaption></figure></div>
 
-**Sunday, 4:25 p.m. ET, CBS. Broncos confirmed, Chiefs expected.** Denver published all 17 games before the season, and on Saturday the team announced the full combination: **navy helmet, Sunset Orange jersey, Summit White pants and Midnight Navy socks**. Denver is 2-1 in that look since the Mile High Collection debuted in 2024. Kansas City is expected in **white** under the red helmet, with the pants the only open question. Orange against white and red is the loudest standard matchup of the week. Our matchup grade: **B+**. See the [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026) and the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026).
+**Sunday, 4:25 p.m. ET, CBS. Broncos confirmed, Chiefs expected.** Denver published all 17 games before the season, and on Saturday the team announced the full combination: **navy helmet, Sunset Orange jersey, Summit White pants and Midnight Navy socks**. Denver was 2-1 in that look since the Mile High Collection debuted in 2024. Kansas City was expected in **white** under the red helmet, with the pants the only open question. Orange against white and red was the loudest standard matchup of the week. Our matchup grade: **B+**. See the [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026) and the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026).
 
 ### Atlanta Falcons at Tampa Bay Buccaneers: Red in Tampa
 
@@ -161,13 +161,13 @@ Our matchup grade: **B+**. See the [Chargers 2026 uniform schedule](/stories/cha
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AtlantaFalcons/status/2116232115713093644"></a></blockquote>
 </div>
 
-Tampa Bay wears white at home in the warm early-season stretch and has not posted its look yet; we expect **white** under the pewter helmet. Our matchup grade: **B**. See the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [Buccaneers 2026 uniform schedule](/stories/buccaneers-uniform-schedule-2026).
+Tampa Bay wears white at home in the warm early-season stretch and had not posted its look yet; we expected **white** under the pewter helmet. Our matchup grade: **B**. See the [Falcons 2026 uniform schedule](/stories/falcons-uniform-schedule-2026) and the [Buccaneers 2026 uniform schedule](/stories/buccaneers-uniform-schedule-2026).
 
 ### Cleveland Browns at Pittsburgh Steelers: The Rematch
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/browns-white-road.jpg" alt="Cleveland Browns white road jersey, expected at Pittsburgh in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Browns · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/steelers-black-home.jpg" alt="Pittsburgh Steelers black home jersey, expected against the Browns in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Steelers · Expected</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Expected on both sides.** Pittsburgh has not published jerseys for its home dates, and we expect the standard **black** home set under the black helmet. Cleveland is expected in **white** under the orange helmet. Last week at Tennessee the Browns paired white with brown pants, a look the team called a new road combo, so the pants are the call to watch. Our matchup grade: **B+**. See the [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026) and the [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, CBS. Expected on both sides.** Pittsburgh had not published jerseys for its home dates, and we expected the standard **black** home set under the black helmet. Cleveland was expected in **white** under the orange helmet. The week before at Tennessee the Browns paired white with brown pants, a look the team called a new road combo, so the pants were the call to watch. Our matchup grade: **B+**. See the [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026) and the [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
 
 ### New England Patriots at Miami Dolphins: Navy on the Road
 
@@ -185,7 +185,7 @@ Tampa Bay wears white at home in the warm early-season stretch and has not poste
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/raiders-white-road.jpg" alt="Las Vegas Raiders white road jersey, expected at the Jets in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Raiders · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jets-green-home.jpg" alt="New York Jets green home jersey, worn with green pants against the Raiders in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jets · Confirmed</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, FOX. Jets confirmed, Raiders expected.** The Jets announced **green on green**: the green helmet with a white facemask, the green jersey and green pants, their first all-green look of the season (they wore white pants with the green jersey against Cleveland in Week 5). We expect the Raiders in their standard **white** road set under the silver helmet. Our matchup grade: **B+**.
+**Sunday, 1:00 p.m. ET, FOX. Jets confirmed, Raiders expected.** The Jets announced **green on green**: the green helmet with a white facemask, the green jersey and green pants, their first all-green look of the season (they wore white pants with the green jersey against Cleveland in Week 5). We expected the Raiders in their standard **white** road set under the silver helmet. Our matchup grade: **B+**.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2115443769134678515"></a></blockquote>
 
@@ -195,7 +195,7 @@ For the rest of the season's looks, see the [Jets 2026 uniform schedule](/storie
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/titans-white-road.jpg" alt="Tennessee Titans white road jersey, expected at Cincinnati in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Titans · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bengals-black-home.jpg" alt="Cincinnati Bengals black home jersey, expected against the Titans in Week 8 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bengals · Expected</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Bengals confirmed, Titans expected.** Cincinnati is confirmed in its **black** home jersey under the striped orange helmet, with **white pants**, not the black pants it wore with this jersey against Jacksonville in Week 4. We expect Tennessee in **white**. Our matchup grade: **B-**. See the [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026) and the [Titans 2026 uniform schedule](/stories/titans-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, CBS. Bengals confirmed, Titans expected.** Cincinnati was confirmed in its **black** home jersey under the striped orange helmet, with **white pants**, not the black pants it wore with this jersey against Jacksonville in Week 4. We expected Tennessee in **white**. Our matchup grade: **B-**. See the [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026) and the [Titans 2026 uniform schedule](/stories/titans-uniform-schedule-2026).
 
 ## Every Week 8 Game
 
@@ -228,7 +228,7 @@ Houston Texans, New Orleans Saints, New York Giants, San Francisco 49ers.
 
 ## The Bottom Line
 
-Week 8 belongs to the Rivalries program. Detroit and Jacksonville both debut new uniforms at 1:00 p.m. Eastern on Sunday, one in silver and electric blue, one in cream and teal, and both against division rivals in color. Buffalo's Native American Heritage game, Arizona in red at Dallas, the Chargers in all white at the Rams, Atlanta in red at Tampa Bay, Miami white on white and Washington in burgundy and gold on Sunday night round out the week. If you missed last week, our [Week 7 uniform guide](/stories/nfl-week-7-uniforms-2026) has every Week 7 look and grade. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
+Week 8 belonged to the Rivalries program. Detroit and Jacksonville both debuted new uniforms at 1:00 p.m. Eastern on Sunday, one in silver and electric blue, one in cream and teal, and both against division rivals in color. Buffalo's Native American Heritage game, Arizona in red at Dallas, the Chargers in all white at the Rams, Atlanta in red at Tampa Bay, Miami white on white and Washington in burgundy and gold on Sunday night rounded out the week. If you missed last week, our [Week 7 uniform guide](/stories/nfl-week-7-uniforms-2026) has every Week 7 look and grade. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
 
 <span id="faq"></span>
 
@@ -236,11 +236,11 @@ Week 8 belongs to the Rivalries program. Detroit and Jacksonville both debut new
 
 **What uniforms are NFL teams wearing in Week 8 of 2026?**
 
-Most teams are in their standard sets, home in color and visitors in white. The special looks are two Rivalries debuts on Sunday at 1:00 p.m. Eastern: the Lions against the Vikings and the Jaguars' Bold City against the Colts. Buffalo wears royal blue for Native American Heritage, Dallas wears white at home with Arizona in red, the Chargers wear all white as the visitors at the Rams, Atlanta wears red at Tampa Bay, Miami goes white on white against New England, and Washington wears burgundy over gold pants against Philadelphia.
+Most teams were in their standard sets, home in color and visitors in white. The special looks were two Rivalries debuts on Sunday at 1:00 p.m. Eastern: the Lions against the Vikings and the Jaguars' Bold City against the Colts. Buffalo wore royal blue for Native American Heritage, Dallas wore white at home with Arizona in red, the Chargers wore all white as the visitors at the Rams, Atlanta wore red at Tampa Bay, Miami went white on white against New England, and Washington wore burgundy over gold pants against Philadelphia.
 
 **When do the Lions wear their Rivalries uniform?**
 
-Sunday, November 1, 2026, at Ford Field against the Minnesota Vikings, 1:00 p.m. Eastern on FOX. It is the debut and the only scheduled date this season.
+Sunday, November 1, 2026, at Ford Field against the Minnesota Vikings, 1:00 p.m. Eastern on FOX. It was the debut and the only scheduled date this season.
 
 **What does the Lions Rivalries uniform look like?**
 
@@ -248,15 +248,15 @@ A pale silver jersey with DETROIT across the chest in Honolulu blue, italic carb
 
 **What does "Defend the Den" mean on the Lions jersey?**
 
-It is the message sewn into the neckline of Detroit's Rivalries jersey, a reference to Ford Field and the home crowd. The set is built for the Vikings rivalry and debuts in a home game against Minnesota.
+It is the message sewn into the neckline of Detroit's Rivalries jersey, a reference to Ford Field and the home crowd. The set is built for the Vikings rivalry and debuted in a home game against Minnesota.
 
 **What are the Vikings wearing against the Lions?**
 
-We expect purple. Detroit is in a light jersey at home, so Minnesota wears color. The Vikings' own Rivalries uniform debuts later, at home against Detroit on December 20.
+We expected purple. Detroit was in a light jersey at home, so Minnesota wore color: purple from helmet to pants. The Vikings' own Rivalries uniform debuts later, at home against Detroit on December 20.
 
 **When do the Jaguars wear the Bold City uniform?**
 
-Sunday, November 1, 2026, at home against the Indianapolis Colts, 1:00 p.m. Eastern on CBS. It is the only game Jacksonville named a uniform for before the season.
+Sunday, November 1, 2026, at home against the Indianapolis Colts, 1:00 p.m. Eastern on CBS. It was the only game Jacksonville named a uniform for before the season.
 
 **What does the Jaguars Bold City uniform look like?**
 
@@ -264,31 +264,31 @@ An alabaster (off-white cream) jersey with a cursive "Jaguars" script outlined i
 
 **What are the Colts wearing at Jacksonville?**
 
-We expect royal blue on the road, with the Jaguars in their cream Bold City set. It is one of two road games where Indianapolis is projected in blue; the other is at Houston in Week 11, another Rivalries game.
+We expected royal blue on the road, with the Jaguars in their cream Bold City set. It was one of two road games where Indianapolis was projected in blue; the other is at Houston in Week 11, another Rivalries game.
 
 **What are the Packers and Panthers wearing on Thursday Night Football?**
 
-Carolina's published schedule has white for every road game, including this one. We expect Green Bay in its standard home look: gold helmet, green jersey and gold pants. Kickoff is Thursday, October 29 at 8:15 p.m. Eastern on Prime Video.
+Carolina's published schedule had white for every road game, including this one. We expected Green Bay in its standard home look: gold helmet, green jersey and gold pants. Kickoff was Thursday, October 29 at 8:15 p.m. Eastern on Prime Video.
 
 **What are the Eagles and Commanders wearing on Sunday Night Football?**
 
-Both teams have confirmed. Washington wears its burgundy jersey with gold pants and burgundy socks, and Philadelphia wears the midnight green helmet, white jersey and midnight green pants. Kickoff is 8:20 p.m. Eastern on NBC.
+Both teams confirmed before the game. Washington wore its burgundy jersey with gold pants and burgundy socks, and Philadelphia wore the midnight green helmet, white jersey and midnight green pants. Kickoff was 8:20 p.m. Eastern on NBC.
 
 **What are the Falcons wearing against the Buccaneers?**
 
-Red. Atlanta's game-week post shows the black helmet, red jersey and white pants for Sunday at Tampa Bay, a change from the white the team's September schedule graphic listed. We expect the Buccaneers in white at home.
+Red. Atlanta's game-week post showed the black helmet, red jersey and white pants for Sunday at Tampa Bay, a change from the white the team's September schedule graphic listed. We expected the Buccaneers in white at home.
 
 **What are the Dolphins wearing against the Patriots?**
 
-White on White: the white helmet, white jersey and white pants, as the team posted on October 29. New England wears navy over silver pants.
+White on White: the white helmet, white jersey and white pants, as the team posted on October 29. New England wore navy over silver pants.
 
 **What are the Chargers and Rams wearing in Week 8?**
 
-The Chargers, the visitors at SoFi Stadium, wear the white helmet, white jersey and white pants. The Rams wear their royal jersey with Sol pants. Both teams confirmed it on October 29.
+The Chargers, the visitors at SoFi Stadium, wore the white helmet, white jersey and white pants. The Rams wore their royal jersey with Sol pants. Both teams confirmed it on October 29.
 
 **What are the Bears and Seahawks wearing on Monday Night Football?**
 
-We expect Seattle in college navy at home and Chicago in white. Kickoff is Monday, November 2 at 8:15 p.m. Eastern on ESPN.
+We expected Seattle in college navy at home and Chicago in white. Kickoff was Monday, November 2 at 8:15 p.m. Eastern on ESPN.
 
 **Which NFL teams are on bye in Week 8?**
 
@@ -296,4 +296,4 @@ The Houston Texans, New Orleans Saints, New York Giants and San Francisco 49ers.
 
 **Which other 2026 Rivalries uniforms are still to come?**
 
-From the 2026 class, Tennessee debuts in Week 10 against Jacksonville, Houston in Week 11 against Indianapolis, Minnesota in Week 15 against Detroit and Chicago in Week 16 against Green Bay. Green Bay and Indianapolis already wore theirs in Weeks 5 and 3. Our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked) grades all of them.
+From the 2026 class, Tennessee was scheduled to debut in Week 10 against Jacksonville; still to come are Houston in Week 11 against Indianapolis, Minnesota in Week 15 against Detroit and Chicago in Week 16 against Green Bay. Green Bay and Indianapolis already wore theirs in Weeks 5 and 3. Our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked) grades all of them.

@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Wondering what jersey Texas is wearing this week? The answer is easier here than anywhere else in college football, and that is the whole story. This is the full Texas 2026 uniform schedule, game by game, plus why the Longhorns are the one major program you can predict twelve months out.
 
-**Update, October 24:** Texas wore the **white helmet, burnt orange jersey and white pants** against No. 7 Ole Miss, confirmed from the team's game photos, and won **34-27**.
+**Update, November 14:** LSU wore white at home, so Texas wore the **white helmet, burnt orange jersey and white pants** in Baton Rouge, confirmed from LSU's game photos, and won **22-21**.
 
 ## Texas Has No Alternate Uniforms, and That Is on Purpose
 
@@ -88,7 +88,7 @@ For more, see our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-sc
 
 **What jersey is Texas wearing this week?**
 
-Texas wore the white helmet, burnt orange jersey and white pants against Ole Miss in Austin on Saturday, October 24, confirmed from the team's game photos, and won 34-27. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). Texas wears burnt orange at home and the all-white icy whites on the road. The exception was the November 14 trip to LSU, where Texas wore burnt orange because LSU wore white at home.
+Texas wore the white helmet, burnt orange jersey and white pants at LSU on Saturday, November 14, confirmed from LSU's game photos, and won 22-21. LSU wore white at home, which is why Texas was in burnt orange on the road. Next is Arkansas in Austin on Saturday, November 21, where burnt orange is expected. Texas wears burnt orange at home and the all-white icy whites on the road.
 
 **Does Texas have alternate uniforms in 2026?**
 

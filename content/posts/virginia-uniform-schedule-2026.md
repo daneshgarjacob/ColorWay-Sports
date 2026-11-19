@@ -106,13 +106,13 @@ There is history in the building as well. Virginia's last trip to Bank of Americ
 
 ## The Bottom Line
 
-Six games in, Virginia has worn six different combinations: orange over orange under the white helmet, navy head to toe, white helmet and white pants around an orange jersey in Charlotte, navy over white pants for the UVA Strong game, white over navy pants at Florida State, and the white helmet over a navy jersey and white pants against Syracuse. The Charlotte combination is the most interesting of the group because it is the oldest, the look the program wore in its 1980s rise. The road games are settled by ACC rules, so the white jersey is locked in at SMU, Wake Forest and Virginia Tech, as it was at Florida State. Everything left to decide happens at Scott Stadium, and the Friday night game against Duke on October 23 is the date to circle. The grid above has every game, and we add the star as each uniform is confirmed.
+Virginia wore six different combinations in its first six games: orange over orange under the white helmet, navy head to toe, white helmet and white pants around an orange jersey in Charlotte, navy over white pants for the UVA Strong game, white over navy pants at Florida State, and the white helmet over a navy jersey and white pants against Syracuse. The Charlotte combination is the most interesting of the group because it is the oldest, the look the program wore in its 1980s rise. The road games are settled by ACC rules, so the white jersey is the expected road look, as it was at Florida State and at SMU. At home since then, Virginia wore a white helmet, navy jersey and navy pants against Duke on October 23 and a white helmet with the stars and stripes V-sabre, navy jersey and white pants against Cal on November 14. Next is North Carolina on November 21, where Virginia has posted a navy helmet and navy jersey with white numbers outlined in orange. The grid above has every game, and we add the star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Virginia wearing this week?**
 
-Virginia wore a white helmet with the orange stripe, navy jersey and navy pants against Duke on Friday, October 23, confirmed from Virginia's game photos, and lost 19-16 on a late touchdown. Earlier this season, Virginia wore the white helmet, navy jersey and white pants against Syracuse on Saturday, October 10, confirmed from the broadcast, in a 28-25 win that moved the Cavaliers to 4-2. The week before, they wore the white helmet with an orange stripe, white jersey and navy pants in a 38-7 loss at Florida State. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Virginia wore a white helmet with the stars and stripes V-sabre, navy jersey and white pants against Cal on Saturday, November 14, confirmed from the game broadcast, and won 36-7. Next is North Carolina at home on Saturday, November 21: Virginia posted its "Rivalry threads" on November 18, a navy helmet with the V-sabre logo and a navy jersey with white numbers outlined in orange; the pants are not clearly shown in the team's photos. Earlier, Virginia wore a white helmet with the orange stripe, navy jersey and navy pants against Duke on Friday, October 23, confirmed from Virginia's game photos, and lost 19-16 on a late touchdown. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Virginia's football uniforms for 2026?**
 
@@ -124,7 +124,7 @@ Against NC State on August 29 the Cavaliers wore the white helmet with the orang
 
 **Does Virginia have a new alternate uniform in 2026?**
 
-Nothing has been announced. Virginia wore 1995 throwbacks for a Friday night game against Florida State last season to mark the anniversary of the goal line stand, so the program clearly keeps a special set in reserve. The Friday night game against Duke on October 23 and Senior Day against North Carolina on November 21 are the two dates that fit the pattern. We will add anything new to this page the moment it is revealed.
+Nothing has been announced. Virginia wore 1995 throwbacks for a Friday night game against Florida State last season to mark the anniversary of the goal line stand, so the program clearly keeps a special set in reserve. The Friday night game against Duke on October 23 came and went in a white helmet, navy jersey and navy pants, and for Senior Day against North Carolina on November 21 Virginia has posted a navy helmet and navy jersey. We will add anything new to this page the moment it is revealed.
 
 **How many games does Virginia play in 2026?**
 

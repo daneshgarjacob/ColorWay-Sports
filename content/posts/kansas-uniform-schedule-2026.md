@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Kansas has blue, white, red and black jerseys, two helmets, and a habit of mixing them without much warning. This is the full Kansas 2026 uniform schedule: the blue home set, the white road set, the red alternate that showed up in the Border War and again against Middle Tennessee, the black jersey it wore at Utah on October 10, and a week-by-week outlook for all twelve games, including the first college football game ever played at Wembley Stadium. We update this page as each combination is confirmed.
 
-**Update, October 24:** Kansas wore a **white helmet, royal blue jersey and royal blue pants** for Homecoming against Baylor, confirmed from the team's game photos, and won **25-24**.
+**Update, November 14:** Kansas wore a **blue helmet, white jersey and blue pants** at West Virginia, confirmed from the game broadcast, and won **37-14**.
 
 ## The Kansas 2026 Uniform Sets
 
@@ -26,7 +26,7 @@ Kansas has blue, white, red and black jerseys, two helmets, and a habit of mixin
   <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Blue shell with the Jayhawk on both sides, or a white shell with a thick blue center stripe edged in red. Both carry a raised Kansas on the front.</div></div>
 </div>
 
-The base sets date to the adidas redesign of 2023, which retired the Trajan lettering the whole athletic department had used since 2007 and replaced it with a bold all-caps KANSAS and the red-edged shoulder stripes. Since then the program has added one alternate a year: the black Blackhawk in 2023, an all-red look and a light-blue set in 2024, and the Whitehawk in 2025 with the 1941 bird on the helmet. We have not seen a 2026 alternate announced yet. The black jersey Kansas wore at Utah on October 10 is the one look so far outside the blue, white and red sets. Big 12 home teams wear color and visitors wear white, which makes every road date predictable and every home date a question of which color.
+The base sets date to the adidas redesign of 2023, which retired the Trajan lettering the whole athletic department had used since 2007 and replaced it with a bold all-caps KANSAS and the red-edged shoulder stripes. Since then the program has added one alternate a year: the black Blackhawk in 2023, an all-red look and a light-blue set in 2024, and the Whitehawk in 2025 with the 1941 bird on the helmet. We have not seen a 2026 alternate announced yet. The black jersey Kansas wore at Utah on October 10 is the one look outside the blue, white and red sets in the games we have logged. Big 12 home teams wear color and visitors wear white, which makes every road date predictable and every home date a question of which color.
 
 ## The Full Kansas 2026 Uniform Schedule, Week by Week
 
@@ -80,7 +80,7 @@ Five games in, the confirmed jerseys are blue, red and black, with both helmets 
 
 **What jersey is Kansas wearing this week?**
 
-Kansas wore a white helmet, royal blue jersey and royal blue pants for Homecoming against Baylor on Saturday, October 24, confirmed from the team's game photos, and won 25-24. Next is at TCU on Halloween, October 31, where white is expected against TCU in all black. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Kansas wore a blue helmet, white jersey and blue pants at West Virginia on Saturday, November 14, confirmed from the game broadcast, and won 37-14. The week before, the Jayhawks wore a blue helmet, blue jersey and red pants in a 33-32 loss to UCF. Next is BYU at home on November 21, Senior Day and the final home game, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Kansas's football uniforms for 2026?**
 

@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Rutgers keeps its base look simple and saves the surprises for the nights that mean something. This is the full Rutgers 2026 uniform schedule: the scarlet home set, the white road set, the white 9/11 tribute helmet that already made its appearance at Boston College, the all-black Blackout set, and a week-by-week outlook for all twelve games. Five games in, the Scarlet Knights have worn three different helmets. We update this page as each combination is confirmed.
 
-**Update, October 24:** Rutgers wore **a scarlet helmet, white jersey and scarlet pants** at No. 24 Northwestern on Saturday, confirmed from Rutgers' game photos, and lost 42-14. **Final: Northwestern 42, Rutgers 14.**
+**Update, November 14:** Rutgers wore a **white helmet, scarlet jersey and white pants** against Nebraska on Military Appreciation day, confirmed from the game broadcast, and lost **31-0**.
 
 ## The Rutgers 2026 Uniform Sets
 
@@ -86,7 +86,7 @@ Rutgers has already used three helmets in five games, and the tribute set at Bos
 
 **What jersey is Rutgers wearing this week?**
 
-Rutgers wore a scarlet helmet, white jersey and scarlet pants at No. 24 Northwestern on Saturday, October 24, confirmed from Rutgers' game photos, and lost 42-14. Earlier this season, Rutgers wore the Blackout set against Indiana on Saturday, October 3: black helmet with the red R, black jersey and black pants, confirmed from the broadcast. No. 6 Indiana won 47-15, and Rutgers is 1-4. The week before, the Scarlet Knights wore the scarlet helmet, scarlet jersey and white pants in a 58-7 win over Howard. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Rutgers wore a white helmet, scarlet jersey and white pants against Nebraska on Saturday, November 14, confirmed from the game broadcast, and lost 31-0. The week before, the Scarlet Knights wore a red helmet, white jersey and white pants at Wisconsin, confirmed from the game broadcast, and lost 31-10. Next is Penn State on the road on November 21, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Rutgers's football uniforms for 2026?**
 

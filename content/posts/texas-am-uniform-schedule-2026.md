@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Wondering what jersey Texas A&M is wearing this week? This is the full Texas A&M 2026 uniform schedule: the one confirmed alternate date, the maroon home set, the white road set, and a week-by-week outlook for all twelve games. College programs announce most uniform combinations in the week of the game rather than in advance, so we update this page as each one is confirmed.
 
-**Update, October 24:** Texas A&M wore the **Aggie Script helmet with a white jersey and white pants** at No. 13 Alabama, confirmed from the team's game photos, and lost **31-20**.
+**Update, November 14:** Texas A&M wore the **all black uniform** it posted for Tennessee week, black helmet with a white "Aggies" script, black jersey and black pants, confirmed from the game broadcast, and lost **22-7**.
 
 ## The One Confirmed Alternate
 
@@ -100,7 +100,7 @@ It was the one genuinely uncertain date on the schedule, and it went maroon. LSU
 
 ## The Bottom Line
 
-Texas A&M's 2026 uniform schedule had exactly one locked alternate, the Honor and Support camo, and it went on as announced against Arkansas on October 3 in a 34-7 win. Everything else follows the SEC pattern of maroon at home and white on the road, with the Tennessee and Texas home games as the two most likely spots for something unannounced. The LSU trip was the one road date that could produce a maroon jersey, and it did.
+Texas A&M's 2026 uniform schedule had exactly one locked alternate, the Honor and Support camo, and it went on as announced against Arkansas on October 3 in a 34-7 win. Everything else follows the SEC pattern of maroon at home and white on the road, and the Tennessee home game brought the second special look, all black with the script helmet, in a 22-7 loss. The Texas game on November 27 is the last home date that could bring something unannounced. The LSU trip was the one road date that could produce a maroon jersey, and it did.
 
 College programs confirm combinations in game week, so this page gets updated through the season as each one lands.
 
@@ -110,7 +110,7 @@ For more, see our [Texas A&M camo uniforms graded](/stories/texas-am-camo-honor-
 
 **What jersey is Texas A&M wearing this week?**
 
-Texas A&M wore all white with the Aggie Script helmet at Alabama on Saturday, October 24: a white helmet with Aggies in maroon script, a white jersey and white pants, confirmed from the team's game photos. Alabama won 31-20. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). Texas A&M wears maroon at home and white on the road for most games in 2026. We update this page as each combination is confirmed in game week.
+Texas A&M wore all black against Tennessee at Kyle Field on Saturday, November 14, the black helmet with a white "Aggies" script, black jersey and black pants it posted that week, confirmed from the game broadcast. Tennessee won 22-7. Next is Oklahoma in Norman on Saturday, November 21, where white is expected. Texas A&M wears maroon at home and white on the road for most games in 2026. We update this page as each combination is confirmed in game week.
 
 **When did Texas A&M wear the camo uniforms in 2026?**
 

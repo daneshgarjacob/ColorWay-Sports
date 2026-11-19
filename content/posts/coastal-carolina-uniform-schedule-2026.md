@@ -96,13 +96,13 @@ Most college teams treat the colored jersey as a home jersey and the white as a 
 
 ## The Bottom Line
 
-Six games in, Coastal is 2-4 and has rarely repeated itself: all teal at West Virginia and again for the Teal Out against Liberty, all white at home against Fordham, teal, white and teal at Delaware, a white helmet over the teal jersey against Georgia Southern, and a black helmet and black pants with the white jersey in a 27-21 win at Marshall. Teal is the default in Conway, but the home calendar is stacked with themes, and after the Teal Out come "Wait 'Til You See This Game" against App State, where Coastal is wearing a '90s uniform, and a Black Out for Homecoming against Old Dominion. October 16 and November 7 are the two dates we would circle. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+In the games we have logged, Coastal has rarely repeated itself: all teal at West Virginia and again for the Teal Out against Liberty, all white at home against Fordham, teal, white and teal at Delaware, a white helmet over the teal jersey against Georgia Southern, and a black helmet and black pants with the white jersey in a 27-21 win at Marshall. Teal is the default in Conway, but the home calendar is stacked with themes, and after the Teal Out came "Wait 'Til You See This Game" against App State on October 16, with Coastal's announced '90s uniform, and a Black Out for Homecoming against Old Dominion on November 7, where Coastal wore black. The last two games, at Louisiana and James Madison, are white expected. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Coastal Carolina wearing this week?**
 
-Coastal wore a black helmet, white jersey and black pants at Marshall on Saturday, October 10, confirmed from the broadcast, and won 27-21 to get to 2-4. The week before, Coastal wore a white helmet, teal jersey and white pants in a 31-24 loss to Georgia Southern. Next is App State at home on Friday, October 16, where Coastal wears its limited edition '90s uniform, a white jersey with a graffiti COASTAL wordmark and '90s confetti graphics, with the teal helmet and teal pants, as posted by the team. The week-by-week grid above lists every game with the expected uniform.
+Coastal beat Arkansas State 28-21 on Senior Day, Saturday, November 14; we have not logged that uniform yet. The last look we have on record is black for the Homecoming Black Out against Old Dominion on Saturday, November 7, confirmed from the game broadcast, in a 21-8 loss. Next is a trip to Louisiana on November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are Coastal Carolina's football uniforms for 2026?**
 

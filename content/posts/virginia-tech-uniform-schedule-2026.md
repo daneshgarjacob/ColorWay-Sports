@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Virginia Tech wears maroon at home and white on the road, but it announces a helmet, jersey, and pants combination before every game and changes it often. This page is the full Virginia Tech 2026 uniform schedule: the maroon home set, the white road set, the all-orange alternate, the Hokie Stone gray, and a week-by-week outlook for all twelve games in James Franklin's first season. Two games in, the Hokies have gone orange over orange under the white helmet against VMI and maroon over white under the white helmet against Old Dominion. We add each combination here once it is confirmed.
 
-**Update, October 24:** Virginia Tech wore a **maroon helmet, white jersey and white pants** at Clemson, confirmed from the team's game photos, and won **20-16**.
+**Update, November 14:** Virginia Tech wore a **maroon helmet, maroon jersey and white pants** against Stanford, confirmed from the game broadcast, and lost **40-22**.
 
 ## The Virginia Tech 2026 Uniform Sets
 
@@ -81,7 +81,7 @@ Virginia Tech is the rare program where the home and road colors tell you only h
 
 **What jersey is Virginia Tech wearing this week?**
 
-Virginia Tech wore a maroon helmet, white jersey and white pants at Clemson on Saturday, October 24, confirmed from the team's game photos, and won 20-16. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The Hokies usually reveal the full helmet, jersey, and pants combination a few days before kickoff, and we star each cell above once it is confirmed.
+Virginia Tech wore a maroon helmet, maroon jersey and white pants against Stanford at Lane Stadium on Saturday, November 14, confirmed from the game broadcast, and lost 40-22. Next is Miami on the road on Saturday, November 21, where white is expected. The Hokies usually reveal the full helmet, jersey, and pants combination a few days before kickoff, and we star each cell above once it is confirmed.
 
 **What are Virginia Tech's football uniforms for 2026?**
 

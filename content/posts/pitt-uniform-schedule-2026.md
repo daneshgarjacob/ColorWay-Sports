@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Pitt has one of the cleanest looks in college football: royal blue, gold, and the Pitt script on a gold helmet. The Panthers do not change much from week to week, which makes the uniform schedule easier to call than most, but there are still a few questions on the calendar, from blue pants to the all-white set to a 1976 anniversary game against North Carolina. This is the full Pitt 2026 uniform schedule, with every jersey, all twelve games, and what the Panthers have actually worn so far. We update this page as each combination is confirmed.
 
-**Update, October 24:** Pitt wore its posted **gold helmet, white jersey and gold pants** at No. 1 Miami and lost **52-23**.
+**Update, November 13:** Pitt wore a **gold helmet, royal jersey and royal pants** against Florida State on Senior Night, confirmed from the game broadcast, and lost **16-10**.
 
 ## The Pitt 2026 Uniform Sets
 
@@ -80,13 +80,13 @@ The current look goes back to 2019, when Pitt dropped navy and "Vegas" gold and 
 
 ## The Bottom Line
 
-Every home game we have confirmed has been the same thing: gold helmet, royal blue jersey, gold pants. That is the uniform the fan base wants to see, and the Panthers did not drift from it even for the 1976 anniversary game against North Carolina on October 10. The road games are white, and the real questions are small ones: when the blue pants come out, whether the all-white set gets a night, and what extra touches show up for Hail to Heroes on October 31. The grid above has every date, and we star each game once the combination is confirmed.
+Every home game we confirmed through October was the same thing: gold helmet, royal blue jersey, gold pants. That is the uniform the fan base wants to see, and the Panthers did not drift from it even for the 1976 anniversary game against North Carolina on October 10. The blue pants finally came out for Senior Night against Florida State on November 13, under the gold helmet and royal jersey. The last two games are on the road, where white is expected, so the open question is whether the all-white set gets a night. The grid above has every date, and we star each game once the combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Pitt wearing this week?**
 
-Pitt wore the gold helmet, white jersey and gold pants at Miami on Saturday, October 24, as posted by the team that morning. Miami won 52-23 in its 2001 Tribute uniform. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). We star the grid cell as soon as each combination is confirmed.
+Pitt wore the gold helmet, royal jersey and royal pants against Florida State on Friday, November 13, confirmed from the game broadcast. Florida State won 16-10. Next is Louisville on the road on November 21, where white is expected. We star the grid cell as soon as each combination is confirmed.
 
 **What are Pitt's football uniforms for 2026?**
 
@@ -94,7 +94,7 @@ A royal blue home jersey with gold numerals, a white road jersey with blue numer
 
 **Does Pitt have a new alternate uniform in 2026?**
 
-Nothing new has been announced. The all-white set from 2023 and the blue pants are the variations in the closet. Pitt wore its standard gold, blue and gold for the 1976 National Championship anniversary game against North Carolina on October 10, with no throwback, so Hail to Heroes against Georgia Tech on October 31 is the home date we are watching for anything special.
+Nothing new has been announced. The all-white set from 2023 and the blue pants are the variations in the closet. Pitt wore its standard gold, blue and gold for the 1976 National Championship anniversary game against North Carolina on October 10, with no throwback, and wore the blue pants with the royal jersey for Senior Night against Florida State on November 13.
 
 **What did Pitt wear against UCF?**
 

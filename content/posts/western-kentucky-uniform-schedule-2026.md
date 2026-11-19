@@ -13,7 +13,7 @@ teams: ["western-kentucky-hilltoppers", "conference-usa"]
 resurfaceOnUpdate: true
 ---
 
-Western Kentucky has already worn three different helmets in four games, and the home schedule is built around matching the crowd: a White Out, a Black Out and a Red Out. This is the full WKU 2026 uniform schedule: the red, black and white helmets, the red and white jerseys, every game played so far and the expected look for the rest of the season, starting with the Conference USA opener at New Mexico State on Thursday, October 1. We update this page as each combination is confirmed.
+Western Kentucky wore three different helmets in its first four games, and the home schedule is built around matching the crowd: a White Out, a Black Out and a Red Out. This is the full WKU 2026 uniform schedule: the red, black and white helmets, the red, white and black jerseys, every game logged so far and the expected look for the rest of the season, starting with Liberty on the road on November 21. We update this page as each combination is confirmed.
 
 ## The Western Kentucky 2026 Uniform Sets
 
@@ -27,7 +27,7 @@ Western Kentucky has already worn three different helmets in four games, and the
 
 The uniforms are Nike, and the Hilltoppers use all three of their colors, red, white and black, on every piece of the set. The Red Towel, the logo that comes from the towel coach E.A. Diddle waved on the bench for decades, is on two of the three helmets. The third carries the Tops script.
 
-The schedule did WKU no favors early. The Hilltoppers opened with three straight road games, at Nevada, at No. 2 Georgia and at No. 4 Indiana, before finally coming home on September 26. That home opener was billed as a White Out, and head coach Tyson Helton's team matched it in all white, helmet included, in a 52-7 win over Mercyhurst. With a Black Out and a Red Out still on the home calendar, the same idea could repeat twice more.
+The schedule did WKU no favors early. The Hilltoppers opened with three straight road games, at Nevada, at No. 2 Georgia and at No. 4 Indiana, before finally coming home on September 26. That home opener was billed as a White Out, and head coach Tyson Helton's team matched it in all white, helmet included, in a 52-7 win over Mercyhurst. The Black Out against Missouri State on October 8 repeated the idea, head to toe in black.
 
 ## The Full Western Kentucky 2026 Uniform Schedule, Week by Week
 
@@ -75,17 +75,17 @@ The schedule did WKU no favors early. The Hilltoppers opened with three straight
 
 ## Will WKU Wear Black for the Black Out?
 
-It is the best uniform question on the WKU calendar. The Hilltoppers already showed they will match a stadium theme: the September 26 White Out came with a white helmet, white jersey and white pants. The black helmet and black pants both came out at Georgia, under the red jersey. What we have not seen this season is a black jersey, so the October 8 Black Out against Missouri State will tell us whether WKU goes all the way or pairs the black pieces with red. The Red Out against Delaware on October 27 sets up the same question in red.
+It is the best uniform question on the WKU calendar. The Hilltoppers already showed they will match a stadium theme: the September 26 White Out came with a white helmet, white jersey and white pants. The black helmet and black pants both came out at Georgia, under the red jersey. The black jersey answered the question for the October 8 Black Out against Missouri State: WKU went all the way, black helmet, black jersey and black pants, and won 34-13. The Red Out against Delaware on October 27 set up the same question in red, and we have not logged what WKU wore that night.
 
 ## The Bottom Line
 
-Four games into 2026, Western Kentucky has worn three helmets, two jerseys and three pant colors, and the team has shown it will dress to match the stands. The all-white White Out was the cleanest look so far, and the black helmet with the red jersey at Georgia was the boldest. The questions left are what the Hilltoppers wear for the Black Out, the Red Out and Homecoming. The grid above has every date, and we add a star as each uniform is confirmed.
+In its first four games of 2026, Western Kentucky wore three helmets, two jerseys and three pant colors, and the team has shown it will dress to match the stands. The all-white White Out was the cleanest early look, and the black helmet with the red jersey at Georgia was the boldest. The Black Out went head to toe in black, and Homecoming against Jacksonville State on November 14 brought the red helmet with the classic block WKU, a red jersey and black pants. The home date left is Senior Day against Kennesaw State on November 28. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Western Kentucky wearing this week?**
 
-WKU plays at New Mexico State on Thursday night, October 1, and the white road jersey is expected. The Hilltoppers wore white with the red helmet and red pants at Nevada and Indiana, and the red jersey at Georgia only because Georgia wore white at home. WKU has not announced its combination for the New Mexico State game.
+WKU wore the red helmet with the classic block WKU, a red jersey and black pants against Jacksonville State for Homecoming on Saturday, November 14, confirmed from the game broadcast, and won 34-24. The week before, the Hilltoppers wore a white jersey and black pants in a 51-42 loss at Middle Tennessee. Next is Liberty on the road on Saturday, November 21, where white is expected.
 
 **What did WKU wear for the White Out?**
 
@@ -93,7 +93,7 @@ The white helmet with the Red Towel logo, the white jersey and white pants for t
 
 **When is the WKU Black Out game in 2026?**
 
-Thursday, October 8 against Missouri State at Houchens Industries-L.T. Smith Stadium in Bowling Green, at 7 p.m. Eastern on CBS Sports Network. WKU's game day graphic shows a black helmet and black jersey for the Black Out, and the pants have not been shown yet.
+Thursday, October 8 against Missouri State at Houchens Industries-L.T. Smith Stadium in Bowling Green. WKU went head to toe in black, black helmet, black jersey and black pants, and won 34-13.
 
 **What is the Red Towel on the WKU helmet?**
 

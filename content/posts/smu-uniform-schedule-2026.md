@@ -120,13 +120,13 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 ## The Bottom Line
 
-Five games in, SMU has used the blue, white and red jerseys and the only helmet it owns, which is the whole story of this uniform program: the white shell with the red Peruna never leaves, and the variable is what goes under it. Blue at home, icy whites on the road, and alternates that need a reason to come out. The red already did, with red pants for Family Weekend against Missouri State, and October 24 looked like another natural landing spot, with the school asking the crowd to wear red, but SMU chose a new Dallas themed blue set for Cal instead. The black needs a night game, and SMU passed on it for Boston College and again for the Salute to Service date against Virginia, which gets the classic blue set. The grid above has every date, and we fill in the stars as each uniform is confirmed.
+Through October, SMU used the blue, white and red jerseys under the same white helmet, which is the whole story of this uniform program: the white shell with the red Peruna rarely leaves, and the variable is what goes under it. Blue at home, icy whites on the road, and alternates that need a reason to come out. The red already did, with red pants for Family Weekend against Missouri State, and October 24 looked like another natural landing spot, with the school asking the crowd to wear red, but SMU chose a new Dallas themed blue set for Cal instead. The black needed a night game, and it got one: SMU passed on it for Boston College and for the Salute to Service date against Virginia, then went Dark mode, black helmet, black jersey and black pants, for the Friday night win over Virginia Tech on November 6. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is SMU wearing this week?**
 
-SMU wore the classic look against Boston College on Saturday, October 3: white helmet with the red facemask, blue jersey and white pants, confirmed from the broadcast, in a 25-16 win that moved the Mustangs to 4-1. The week before, they wore red over red in a 34-24 win over Missouri State. SMU is off on October 10, then hosts Virginia on October 17 in the classic look, white helmet, blue jersey and white pants, confirmed by the team for the Salute to Service and Hall of Fame game. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+SMU wore the white helmet, blue jersey and white pants against Wake Forest for Homecoming and Senior Day on Saturday, November 14, confirmed from the game broadcast, and lost 49-7. Next is Notre Dame on the road on November 21, where white is expected, with the Visit Dallas sticker on the back of the helmet. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are SMU's football uniforms for 2026?**
 
@@ -138,7 +138,7 @@ That is SMU's own name for the all-white combination, white helmet, white jersey
 
 **Will SMU wear red or black in 2026?**
 
-The red already has: SMU wore the red jersey and red pants against Missouri State on September 26. SMU passed on it again for Cal on October 24, when it confirmed a Dallas themed set: the white helmet with Peruna inside a blue D, a royal blue Dallas jersey and white pants. The black is next: SMU confirmed **Dark mode** for the Friday night game against Virginia Tech on November 6, a black helmet with royal blue stripes, a black jersey and black pants. It did not come out for Boston College on October 3 or for the Salute to Service game against Virginia on October 17, where SMU confirmed the classic blue look.
+The red already has: SMU wore the red jersey and red pants against Missouri State on September 26. SMU passed on it again for Cal on October 24, when it confirmed a Dallas themed set: the white helmet with Peruna inside a blue D, a royal blue Dallas jersey and white pants. The black came out next: SMU wore **Dark mode** for the Friday night game against Virginia Tech on November 6, a black helmet with royal blue stripes, a black jersey and black pants, worn as announced and checked against the game photos, in a 51-28 win. It did not come out for Boston College on October 3 or for the Salute to Service game against Virginia on October 17, where SMU confirmed the classic blue look. The last two games, at Notre Dame and at Stanford, are both on the road, where white is expected.
 
 **Why does ESPN list the Virginia Tech game on November 7?**
 

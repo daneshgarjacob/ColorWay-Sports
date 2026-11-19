@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 LSU is the one program in college football that wears white at home on purpose, and it changes what everybody else wears in Tiger Stadium. This is the full LSU 2026 uniform schedule, week by week, plus the rule that makes it possible. We update this page as each combination is confirmed.
 
-**Update, October 24:** LSU wore the **gold helmet, white jersey and gold pants** at Auburn, confirmed from the team's game photos, and won **38-17**.
+**Update, November 14:** LSU wore the **home whites, gold helmet, white jersey and gold pants** against Texas, confirmed from LSU's game photos, and lost **22-21**.
 
 ## The LSU 2026 Uniform Sets
 
@@ -84,7 +84,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is LSU wearing this week?**
 
-LSU wore the gold helmet, white jersey and gold pants at Auburn on Saturday, October 24, confirmed from the team's game photos, and won 38-17. LSU is off on October 31. LSU wears white at home and, because its SEC hosts wear color, white on most road trips too. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+LSU wore the home whites, gold helmet, white jersey and gold pants, against Texas on Saturday, November 14, confirmed from LSU's game photos, and lost 22-21. Next is a trip to Tennessee on November 21, where white is expected. LSU wears white at home and, because its SEC hosts wear color, white on most road trips too. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are LSU's uniforms for 2026?**
 

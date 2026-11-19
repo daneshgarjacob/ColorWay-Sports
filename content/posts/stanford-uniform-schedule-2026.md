@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Stanford is the most restrained uniform program in the ACC and it still found a way to open 2026 with something new. This is the full Stanford 2026 uniform schedule: the cardinal home jersey, the white road set, the black alternate, the cardinal script helmet that only comes out for special occasions, the tribal-pattern helmet stripe the Cardinal wore in the season opener, and a week-by-week outlook for all twelve games in Tavita Pritchard's first year as head coach. We update this page as each combination is confirmed.
 
-**Update, October 23:** Stanford's "All red for FNL" really was all red against NC State: a **cardinal helmet with a white stripe and the Stanford script, the cardinal jersey and cardinal pants**, confirmed from the team's game photos. Stanford won **31-28**.
+**Update, November 14:** Stanford wore the **white jersey** at Virginia Tech, confirmed from the game broadcast, and won **40-22**.
 
 ## The Stanford 2026 Uniform Sets
 
@@ -119,7 +119,7 @@ Six games in, Stanford has worn just two looks: white helmet, cardinal jersey an
 
 **What jersey is Stanford wearing this week?**
 
-Stanford wore all white, white helmet with the cardinal S, white jersey and white pants, at Notre Dame on Saturday, October 10, confirmed from the game photos, in a 58-7 loss against the Irish in their green. The week before, the Cardinal also wore all white at Wake Forest in a 57-3 loss. Next is Elon at home on October 17 for Reunion Homecoming, where Stanford wears its throwback helmet, with the smaller block S and a gray facemask, over the cardinal home jersey. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Stanford wore the white jersey at Virginia Tech on Saturday, November 14, confirmed from the game broadcast, and won 40-22. The last home game, on Friday, October 23 against NC State, was all red: a cardinal helmet with the Stanford script, the cardinal jersey and cardinal pants, confirmed from the team's game photos. Next is the Big Game at California on November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Stanford's football uniforms for 2026?**
 

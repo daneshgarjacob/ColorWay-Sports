@@ -106,7 +106,7 @@ Wake Forest wore the matte black helmet in its first three games, then went to a
 
 **What jersey is Wake Forest wearing this week?**
 
-Wake Forest wore the black helmet with the gold "Deacs" script, a white jersey and gold pants at NC State on Saturday, October 10, confirmed from the broadcast, in a 38-14 win that moved the Deacons to 5-1. The week before, they wore all black against Stanford in a 57-3 win. Next is California on the road on October 17, where Wake Forest wears a gloss black helmet, white jersey and black pants, confirmed by the team, against Cal in its Grateful Dead helmet, blue jersey and gold pants. The week-by-week grid above lists every game with the expected set.
+Wake Forest wore a shiny gold helmet, white jersey and white pants at SMU on Saturday, November 14, confirmed from the game broadcast, and won 49-7. The week before, they wore the black helmet, black jersey and gold pants in a 77-0 win over Merrimack. Next is Georgia Tech on the road on November 21, where white is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are Wake Forest's football uniforms for 2026?**
 

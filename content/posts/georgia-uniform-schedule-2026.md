@@ -106,7 +106,7 @@ It already has: Saturday, September 12, 2026, against Western Kentucky at Sanfor
 
 **What jersey is Georgia wearing this week?**
 
-Georgia wore the red helmet, white jersey and silver britches at Alabama on Saturday, October 10, confirmed from the broadcast, and won 20-17 to move to 6-0. The week before, the Bulldogs wore the red helmet, red jersey and silver britches in a 38-14 win over Vanderbilt. Next is Auburn in Athens on October 17, where red is expected. The Bulldogs wear red at home and white on the road for most games in 2026, and the confirmed exception is the all-white set on September 12 against Western Kentucky.
+Georgia wore the red helmet, red jersey and silver pants against Missouri on Saturday, November 14, confirmed from the game broadcast, and won 48-21. The week before, the Bulldogs wore the red helmet, white jersey and silver pants with the red and black stripe in a 42-7 win at Ole Miss. Next is a trip to South Carolina on November 21, where white is expected. The Bulldogs wear red at home and white on the road for most games in 2026, and the confirmed exception is the all-white set on September 12 against Western Kentucky.
 
 **Does Georgia wear silver britches in 2026?**
 

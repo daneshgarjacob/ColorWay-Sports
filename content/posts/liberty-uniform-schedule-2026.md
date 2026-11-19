@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Liberty owns one of the deepest closets in Conference USA and is not shy about opening it. Four jersey colors, four helmet shells, and a habit of building a new look for a specific Saturday. This is the full Liberty 2026 uniform schedule: the red home set, the white road set, the navy and black alternates, the custom helmets, and a week by week outlook for all twelve games in Jamey Chadwell's fourth season. We update this page as each combination is confirmed.
 
-**Update, October 22:** Liberty beat Kennesaw State **34-6** on Thursday night in a **red helmet, white jersey with the Liberty script and red pants**, confirmed from the team's game photos.
+**Update, November 14:** Liberty beat Middle Tennessee **28-23** on Military Appreciation Day in a **white helmet, red jersey and white pants**, confirmed from the game broadcast.
 
 ## The Liberty 2026 Uniform Sets
 
@@ -118,7 +118,7 @@ Liberty has the jerseys to do almost anything and the willingness to use them, w
 
 **What jersey is Liberty wearing this week?**
 
-Liberty wore a red helmet, a white jersey with the Liberty script and red pants at Kennesaw State on Thursday, October 22, confirmed from the team's game photos, and won 34-6. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Liberty wore a white helmet, red jersey and white pants against Middle Tennessee on Saturday, November 14, Military Appreciation Day, confirmed from the game broadcast, and won 28-23. Next is Western Kentucky at home on November 21, Senior Day, where red is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Liberty's football uniforms for 2026?**
 
@@ -130,7 +130,7 @@ At James Madison on September 5, Liberty wore the red helmet, white jersey and n
 
 **Does Liberty have a new alternate uniform in 2026?**
 
-Nothing new has been announced. The navy set arrived for 2025 and the black set has been in the rotation longer than that, so the wardrobe is already deep. The dates to watch for something custom are Halloween against FIU on October 31 and Military Appreciation Day against Middle Tennessee on November 14, which is where Liberty has built one off helmets before.
+Nothing new has been announced. The navy set arrived for 2025 and the black set has been in the rotation longer than that, so the wardrobe is already deep. The dates we flagged for something custom were Halloween against FIU on October 31 and Military Appreciation Day against Middle Tennessee on November 14, where Liberty has built one off helmets before. For Middle Tennessee it wore a white helmet, red jersey and white pants.
 
 **What is the Battle of the Blue Ridge?**
 

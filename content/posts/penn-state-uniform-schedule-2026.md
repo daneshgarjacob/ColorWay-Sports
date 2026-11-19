@@ -78,7 +78,7 @@ Nothing here will surprise you, and Penn State would take that as a compliment. 
 
 **What jersey is Penn State wearing this week?**
 
-Penn State wore the white helmet, navy jersey and white pants against USC at the White Out on Saturday, October 10, confirmed from the game photos, in a 31-23 loss that dropped the Nittany Lions to 3-3. Penn State wears navy at home and white on the road in 2026. Next is Michigan on the road on October 17, where Penn State has confirmed all white: white helmet, white jersey and white pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+The last look we have confirmed is all white, white helmet, white jersey and white pants, at Michigan on Saturday, October 17, confirmed by Penn State. Since then Penn State beat Washington 28-25 on November 7 and Minnesota 42-14 on November 14; we have not yet confirmed what it wore in those games. Penn State wears navy at home and white on the road in 2026. Next is Rutgers at home on November 21, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Penn State's uniforms for 2026?**
 

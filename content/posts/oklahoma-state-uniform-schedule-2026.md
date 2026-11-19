@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Oklahoma State does not have a home uniform and a road uniform. It has a closet, and the Cowboys pick from it every week. This is the full Oklahoma State 2026 uniform schedule: the jerseys, pants and helmets in the rotation, what we expect for each of the twelve games in Eric Morris's first season, and a record of what actually goes on the field. The program announces each combination in game week, usually on the @CowboyFB account a day or two before kickoff, and we update this page as each one lands.
 
-**Update, October 24:** Oklahoma State wore a **white helmet and orange jersey** for Homecoming against Colorado, confirmed from the team's game photos, and won **57-24**.
+**Update, November 14:** Oklahoma State wore a **black helmet, black jersey and black pants** for Salute to Service against Texas Tech, confirmed from the game broadcast, and lost **52-27**.
 
 ## The Oklahoma State 2026 Uniform Sets
 
@@ -80,13 +80,13 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
 
 ## The Bottom Line
 
-Everywhere else in this series the question is which of two jerseys comes out. At Oklahoma State the question is which helmet, which jersey and which pants, and the answer arrives on social media a day or two before kickoff. Five games in, the closet has already produced all white, the classic orange over white with the Pistol Pete lid, orange over white under the orange shell, black, white, black for the 41-24 win at West Virginia, and orange, black, orange with the Pokes script helmet for the 42-28 win over UCF. We log each one here as it lands.
+Everywhere else in this series the question is which of two jerseys comes out. At Oklahoma State the question is which helmet, which jersey and which pants, and the answer arrives on social media a day or two before kickoff. Through the first five games, the closet produced all white, the classic orange over white with the Pistol Pete lid, orange over white under the orange shell, black, white, black for the 41-24 win at West Virginia, and orange, black, orange with the Pokes script helmet for the 42-28 win over UCF. We log each one here as it lands.
 
 ## Frequently Asked Questions
 
 **What jersey is Oklahoma State wearing this week?**
 
-Oklahoma State wore a white helmet and orange jersey for Homecoming against Colorado on Saturday, October 24, confirmed from the team's game photos, and won 57-24. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The Cowboys announce each week's combination in game week, usually on the program's social accounts a day or two before kickoff, and the grid above is updated as each one is confirmed.
+Oklahoma State wore a black helmet, black jersey and black pants for Salute to Service against Texas Tech on Saturday, November 14, confirmed from the game broadcast, and lost 52-27. Next is Arizona State on the road on November 21, where white is expected. The Cowboys announce each week's combination in game week, usually on the program's social accounts a day or two before kickoff, and the grid above is updated as each one is confirmed.
 
 **What are Oklahoma State's uniforms for 2026?**
 
@@ -94,7 +94,7 @@ The current Nike set, introduced in 2023, includes orange, black and white jerse
 
 **Does Oklahoma State have an alternate uniform in 2026?**
 
-The black jersey is the standing alternate and it usually appears a few times a season. No one-off throwback or special uniform has been announced for 2026. Homecoming against Colorado on October 24 is the most likely date for one if it comes.
+The black jersey is the standing alternate and it usually appears a few times a season. No one-off throwback or special uniform has been announced for 2026. Homecoming against Colorado on October 24, the likeliest date for one, came in the white helmet and orange jersey.
 
 **How many uniform combinations does Oklahoma State have?**
 

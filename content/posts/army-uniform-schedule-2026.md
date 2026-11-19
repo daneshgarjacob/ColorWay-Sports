@@ -13,9 +13,9 @@ teams: ["army-black-knights", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-Army does not rotate through alternates the way most programs do. The Black Knights wear black at home, white on the road, and a gold helmet with almost all of them (the exception so far is a black helmet at Temple), and then once a year in December they throw all of it out and wear something built from scratch. This is the full Army 2026 uniform schedule: the black home set, the white road set, the new USAA patch, and a week-by-week outlook for all twelve games ending with the 127th Army-Navy Game at MetLife Stadium. We update this page as each combination is confirmed.
+Army does not rotate through alternates the way most programs do. The Black Knights wear black at home, white on the road, and a gold helmet with almost all of them (the exceptions so far are black helmets at Temple, against Florida Atlantic, at Tulsa and against Air Force), and then once a year in December they throw all of it out and wear something built from scratch. This is the full Army 2026 uniform schedule: the black home set, the white road set, the new USAA patch, and a week-by-week outlook for all twelve games ending with the 127th Army-Navy Game at MetLife Stadium. We update this page as each combination is confirmed.
 
-**Update, October 23:** Army beat Tulsa **38-35** on a 50-yard field goal at the horn on Friday night, wearing a **black helmet, white jersey and white pants**, confirmed from the team's game photos.
+**Update, November 7:** Army wore a **black helmet, black jersey with gold numbers and black pants** against Air Force, confirmed from the game broadcast, and lost **24-21**.
 
 ## The Army 2026 Uniform Sets
 
@@ -124,11 +124,11 @@ Army is the rare program where the uniform schedule is almost entirely predictab
 
 **What jersey is Army wearing this week?**
 
-Army wore a black helmet, white jersey with gold numbers and white pants at Tulsa on Friday, October 23, confirmed from the team's game photos, and won 38-35 on a 50-yard field goal at the horn. Tulsa wore a gold helmet and royal blue jersey. The grid above lists every date with the expected set and we star each cell as it is confirmed.
+Army wore a black helmet, black jersey with gold numbers and black pants against Air Force at Michie Stadium on Saturday, November 7, confirmed from the game broadcast, and lost 24-21. Army was off on November 14. Next is East Carolina at Michie Stadium on Saturday, November 21, where black is expected. The grid above lists every date with the expected set and we star each cell as it is confirmed.
 
 **What are Army's football uniforms for 2026?**
 
-A black home jersey with gold numerals and a gold ARMY wordmark, a white road jersey with black numerals and gold trim, and gold, black or white pants, all from Nike and usually worn with the gold helmet with a black center stripe and no side logo. Army also wore a black helmet with the white road set at Temple on September 25. New for 2026, a USAA patch sits on the jersey as part of the school's preservation partnership with the company.
+A black home jersey with gold numerals and a gold ARMY wordmark, a white road jersey with black numerals and gold trim, and gold, black or white pants, all from Nike and usually worn with the gold helmet with a black center stripe and no side logo. Army also wore a black helmet with the white road set at Temple on September 25 and at Tulsa on October 23, and with the black jersey against Florida Atlantic and Air Force. New for 2026, a USAA patch sits on the jersey as part of the school's preservation partnership with the company.
 
 **Does Army have a new alternate uniform in 2026?**
 

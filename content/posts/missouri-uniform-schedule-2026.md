@@ -124,7 +124,7 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **What jersey is Missouri wearing this week?**
 
-Missouri wore a black helmet, black jersey and gold pants against Texas A&M on Saturday, October 10, confirmed from the broadcast, in a 27-6 win that moved the Tigers to 5-1. It was the same color combination they wore the week before in a 45-17 win over No. 8 Florida. Next up is Ole Miss on the road on October 17, where white is expected. Mizzou announces each week's combination a few days before kickoff, usually Thursday or Friday, and this page is updated as each one is confirmed. Home games are black or gold, road games are usually white.
+Missouri wore a white helmet with the gold M, white jersey and white pants at Georgia on Saturday, November 14, confirmed from the game broadcast, and lost 48-21. Next up is Kentucky at home on November 21, where black or gold is expected. Mizzou announces each week's combination a few days before kickoff, usually Thursday or Friday, and this page is updated as each one is confirmed. Home games are black or gold, road games are usually white.
 
 **When does Missouri wear the 100th anniversary throwback uniform?**
 

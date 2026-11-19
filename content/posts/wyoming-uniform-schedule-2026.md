@@ -13,9 +13,9 @@ teams: ["wyoming-cowboys", "mountain-west"]
 resurfaceOnUpdate: true
 ---
 
-Wyoming has worn three different jerseys in six games, and every one of them has been under the same white helmet with the brown and gold Steamboat on the side. This is the full Wyoming 2026 uniform schedule: the brown home jersey, the white road set, the gold jersey from the Homecoming Gold Out, every game played so far, including the 16-13 overtime win at San Jose State on October 9, and the expected look for the rest of the season. We update this page as each combination is confirmed.
+Wyoming wore three different jerseys in its first six games, every one of them under the same white helmet with the brown and gold Steamboat on the side, then went all black, helmet included, against Air Force on October 23. This is the full Wyoming 2026 uniform schedule: the brown home jersey, the white road set, the gold jersey from the Homecoming Gold Out, every game logged so far, most recently all white in a 41-35 win at UNLV on November 7, and the expected look for the rest of the season. We update this page as each combination is confirmed.
 
-**Update, October 23:** Wyoming went **all black** against Air Force on Friday night, posted as "Men in Black" with the student section blacked out to match, and won **28-14**.
+**Update, November 7:** Wyoming wore a **white helmet, white jersey and white pants** at UNLV, confirmed from the game broadcast, and won **41-35**. The Cowboys then won 27-15 at UTEP on November 14.
 
 ## The Wyoming 2026 Uniform Sets
 
@@ -86,7 +86,7 @@ Six games in, Wyoming has kept one helmet and spread everything else around: bro
 
 **What jersey is Wyoming wearing this week?**
 
-Wyoming went all black against Air Force on Friday, October 23: black helmet, black jersey and black pants, posted by the team as "Men in Black," with the student section in black. Wyoming won 28-14. Air Force wore a blue helmet, white jersey and white pants.
+Wyoming won 27-15 at UTEP on Saturday, November 14; we have not logged that game's uniform yet. The last game we have logged is the 41-35 win at UNLV on Saturday, November 7, in a white helmet, white jersey and white pants, confirmed from the game broadcast. Next is New Mexico at home on Saturday, November 21, where brown is expected. Before that, Wyoming went all black against Air Force on Friday, October 23, posted by the team as "Men in Black," and won 28-14.
 
 **What did Wyoming wear for the Gold Out?**
 
@@ -94,7 +94,7 @@ The white helmet, the gold jersey and white pants for Homecoming against Hawaii 
 
 **What are Wyoming's football uniforms for 2026?**
 
-A brown home jersey, a white road jersey and a gold alternate, with white, gold and brown pants. The helmet in every game so far has been white with a brown and gold center stripe and the bucking horse logo on the side.
+A brown home jersey, a white road jersey and a gold alternate, with white, gold and brown pants. The helmet has been white with a brown and gold center stripe and the bucking horse logo on the side in every game we have logged except the all black Men in Black game against Air Force on October 23.
 
 **What is the bucking horse on Wyoming's helmet?**
 

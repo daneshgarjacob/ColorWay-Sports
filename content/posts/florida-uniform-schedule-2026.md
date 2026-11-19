@@ -19,7 +19,7 @@ resurfaceOnUpdate: true
 
 Florida just did something almost no college football program does: released a **full game-by-game uniform schedule** before the season, helmet, jersey and pants confirmed for all twelve games. Most schools announce combinations in game week. The Gators put the entire year on one graphic.
 
-So there is very little guessing here. This is what Florida published, week by week, including a retro helmet against South Carolina and the only all-blue combination of the season. Florida has stuck to the grid every week but one: at Texas on October 17 it wore the blue helmet instead of the listed orange, and we mark each game as confirmed once it is played.
+So there is very little guessing here. This is what Florida published, week by week, including a retro helmet against South Carolina and the only all-blue combination of the season. Florida has stuck to the grid in every game we have logged but one: at Texas on October 17 it wore the blue helmet instead of the listed orange, and we mark each game as confirmed once it is played.
 
 <img src="/images/posts/florida-uniform-schedule-2026/uniform-schedule-grid.jpg" alt="Florida Gators 2026 uniform schedule grid listing helmet, jersey and pants for all twelve games from FAU on September 5 through Florida State on November 27" style="width: 100%; border-radius: 10px; margin: 1.6em 0 0.3em;" />
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 1.6em;">The full 2026 grid, via Florida Gators Football.</p>
@@ -97,7 +97,7 @@ Want every big game in one place? Our [college football Week 5 uniform guide](/s
 
 **What jersey is Florida wearing this week?**
 
-Florida wore the blue helmet, white jersey and blue pants at Texas on Saturday, October 17, and won 27-24. The season schedule had listed the orange helmet for that game, so the blue shell was a switch. Next is Georgia in Atlanta on October 31, where the schedule calls for the orange helmet, white jersey and white pants. Florida released a full 2026 uniform schedule in advance. Blue jerseys at home, white jerseys on the road every week, and one orange jersey, against Campbell on September 12.
+Florida wore the orange helmet, white jersey and orange pants at Kentucky on Saturday, November 14, as listed on its grid and confirmed from the game broadcast, and won 21-14. The one switch from the published schedule so far came at Texas on October 17, where Florida wore the blue helmet instead of the listed orange. Next is Vanderbilt at home on November 21, where the schedule calls for the orange helmet, blue jersey and white pants. Florida released a full 2026 uniform schedule in advance. Blue jerseys at home, white jerseys on the road every week, and one orange jersey, against Campbell on September 12.
 
 **When does Florida wear the retro helmet in 2026?**
 

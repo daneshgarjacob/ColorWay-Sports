@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Hawaii has already worn all white and all black at home this season, a week apart, which makes the Rainbow Warriors one of the few programs in the country with no fixed home jersey. This is the full Hawaii 2026 uniform schedule: the black set, the white set, the two helmets, the Senior Night White Out on the calendar, and a week-by-week outlook for all twelve games, including early morning kickoffs in Laramie and DeKalb. We update this page as each combination is confirmed.
 
-**Update, October 24:** Hawaii wore **all white: white helmet, white jersey with green trim and white pants** at Northern Illinois on Saturday, confirmed from Hawaii's game photos, and won 56-21. **Final: Hawaii 56, Northern Illinois 21.**
+**Update, November 14:** Hawaii wore the **black helmet and black jersey** against North Dakota State on Military Night, confirmed from the game broadcast. **Final: North Dakota State 21, Hawai'i 13.**
 
 ## The Hawaii 2026 Uniform Sets
 
@@ -112,13 +112,13 @@ Hawaii does not observe daylight saving time, so it sits two or three hours behi
 
 ## The Bottom Line
 
-Six games in, Hawaii is 1-5 and has worn all white twice, all black three times and white over black at Stanford, which tells you the Rainbow Warriors choose the uniform for the moment rather than the calendar. White is the expectation on the road, as it was at Arizona State, though Hawaii went all black at Wyoming. At home, black at night is the pattern so far, and the Senior Night White Out on November 28 should bring the all white set back. Homecoming against New Mexico on October 17 is the date we would circle for anything new. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+In the eight games we have logged, Hawaii has worn all white three times, all black three times, white over black at Stanford and the black helmet and black jersey against North Dakota State, which tells you the Rainbow Warriors choose the uniform for the moment rather than the calendar. White is the expectation on the road, as it was at Arizona State, though Hawaii went all black at Wyoming. At home, black at night is the pattern so far, and the Senior Night White Out on November 28 should bring the all white set back. Next is a trip to Nevada on November 21, where white is expected. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Hawaii wearing this week?**
 
-Hawaii wore all white: white helmet, white jersey with green trim and white pants at Northern Illinois on Saturday, October 24, confirmed from Hawaii's game photos, and won 56-21. Earlier this season, Hawaii wore all white at Arizona State on Saturday, October 10, white helmet, white jersey and white pants, confirmed from the broadcast, and lost 30-12 to fall to 1-5. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Hawaii wore the black helmet and black jersey against North Dakota State on Saturday, November 14, confirmed from the game broadcast, and lost 21-13. Before that, Hawaii wore all white, a white helmet, white jersey with green trim and white pants, at Northern Illinois on Saturday, October 24, confirmed from Hawaii's game photos, and won 56-21. Next is a trip to Nevada on November 21, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Hawaii's football uniforms for 2026?**
 

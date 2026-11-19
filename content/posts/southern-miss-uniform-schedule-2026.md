@@ -13,9 +13,9 @@ teams: ["southern-miss-golden-eagles", "sun-belt"]
 resurfaceOnUpdate: true
 ---
 
-Southern Miss has a new coach, a new name on its stadium and the same black and gold it has always worn, and through five games the Golden Eagles have kept the closet simple. This is the full Southern Miss 2026 uniform schedule: the all-black home set, the white road jersey, the black and white helmets, every game played so far and the expected look for the rest of the season, starting with Arkansas State at home on October 17. We update this page as each combination is confirmed.
+Southern Miss has a new coach, a new name on its stadium and the same black and gold it has always worn, and the Golden Eagles have kept the closet simple. This is the full Southern Miss 2026 uniform schedule: the all-black home set, the white road jersey, the black and white helmets, every game played so far and the expected look for the rest of the season. We update this page as each combination is confirmed.
 
-**Update, October 24:** Southern Miss wore **a black helmet, gold jersey and black pants** against Louisiana on Saturday, confirmed from Southern Miss' game photos, and won 35-31 on a late touchdown for Homecoming. **Final: Southern Miss 35, Louisiana 31.**
+**Update, November 14:** Southern Miss wore a **white jersey and white pants** at Louisiana Tech, confirmed from the game broadcast, and lost **63-31**.
 
 ## The Southern Miss 2026 Uniform Sets
 
@@ -28,7 +28,7 @@ Southern Miss has a new coach, a new name on its stadium and the same black and 
 
 The uniforms are Adidas, and the look is the black-first set Southern Miss leaned into last season, when the program showed off what it called a new look before a September 2025 game. What changed in 2026 is everything around it. Blake Anderson is in his first season as head coach, and the home stadium is now Renasant Stadium after a 10-year, $13.7 million naming-rights deal, though everybody in Hattiesburg still calls it The Rock.
 
-Two habits stand out so far. At home, Southern Miss has gone black from helmet to cleats both times, with no gold pants in sight. On the road, the white jersey has been the constant and the helmet and pants have changed to fit the night: black helmet and black pants under the lights at Auburn, then white from top to bottom at Tulane.
+Two habits stood out through September. At home, Southern Miss went black from helmet to cleats both times, with no gold pants in sight. On the road, the white jersey has been the constant and the helmet and pants have changed to fit the night: black helmet and black pants under the lights at Auburn, then white from top to bottom at Tulane.
 
 ## The Full Southern Miss 2026 Uniform Schedule, Week by Week
 
@@ -73,25 +73,25 @@ Two habits stand out so far. At home, Southern Miss has gone black from helmet t
 
 ## Will Southern Miss Wear Gold Pants in 2026?
 
-Yes. After black pants in every home game through September, Southern Miss finally wore the gold pants with the black helmet and black jersey against Arkansas State on October 17, confirmed from the broadcast. Gold pants are part of the set, and the school's own game-week poster for UConn had already shown a player in a black jersey over gold. Homecoming against Louisiana on October 24 and Senior Day against South Alabama on November 21 are the next home dates to watch for them. The November 5 Blackout against JMU is the one date we would bet stays all black.
+Yes. After black pants in every home game through September, Southern Miss finally wore the gold pants with the black helmet and black jersey against Arkansas State on October 17, confirmed from the broadcast. Gold pants are part of the set, and the school's own game-week poster for UConn had already shown a player in a black jersey over gold. Homecoming against Louisiana on October 24 brought a gold jersey over black pants instead. The next home date to watch for the gold pants is Senior Day against South Alabama on November 21, the home finale, where black is expected.
 
 ## The Bottom Line
 
-Six games into the Blake Anderson era, Southern Miss has worn black jerseys at home and white on the road, with the black helmet five times and the white helmet once. All black at The Rock is a strong, simple look, and the gold pants finally showed up against Arkansas State on October 17. The questions left are what the Golden Eagles wear for Homecoming, the Thursday night Blackout and Senior Day. The grid above has every date, and we add a star as each uniform is confirmed.
+Through the first six games of the Blake Anderson era, Southern Miss wore black jerseys at home and white on the road, with the black helmet five times and the white helmet once. All black at The Rock is a strong, simple look, the gold pants finally showed up against Arkansas State on October 17, and Homecoming against Louisiana on October 24 brought a gold jersey with the black helmet and black pants. The question left is what the Golden Eagles wear for Senior Day against South Alabama on November 21. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Southern Miss wearing this week?**
 
-Southern Miss wore a black helmet, gold jersey and black pants against Louisiana on Saturday, October 24, confirmed from Southern Miss' game photos, and won 35-31 on a late touchdown for Homecoming. Earlier this season, Southern Miss wore the black helmet, black jersey and gold pants against Arkansas State at home on Saturday, October 17, confirmed from the broadcast, in a 23-13 loss. It was the first appearance of the gold pants this season. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Southern Miss wore a white jersey and white pants at Louisiana Tech on Saturday, November 14, confirmed from the game broadcast, and lost 63-31. Next is South Alabama at home on November 21, Senior Day and Military Appreciation, where black is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What color does Southern Miss wear at home?**
 
-Black. Southern Miss wore the black helmet, black jersey and black pants in its first two home games of 2026, against Alcorn State and UConn, then paired the black helmet and black jersey with gold pants against Arkansas State on October 17.
+Black. Southern Miss wore the black helmet, black jersey and black pants in its first two home games of 2026, against Alcorn State and UConn, then paired the black helmet and black jersey with gold pants against Arkansas State on October 17. For Homecoming against Louisiana on October 24 it wore a gold jersey with the black helmet and black pants.
 
 **Does Southern Miss have a white helmet?**
 
-Yes. The Golden Eagles wore a white helmet with a gold stripe and the gold SOUTHERN MISS wordmark with an all-white uniform at Tulane on September 26. The black helmet has been worn in the other five games.
+Yes. The Golden Eagles wore a white helmet with a gold stripe and the gold SOUTHERN MISS wordmark with an all-white uniform at Tulane on September 26. The black helmet was worn in the other five games through October 17, and again for Homecoming on October 24.
 
 **Who makes Southern Miss's uniforms?**
 
@@ -99,7 +99,7 @@ Adidas. The three stripes are on the jerseys and pants, and both the black and w
 
 **What is Southern Miss's homecoming game in 2026?**
 
-Louisiana on Saturday, October 24 at Renasant Stadium in Hattiesburg, with kickoff time still to be set. Southern Miss is expected in its black home set.
+Louisiana on Saturday, October 24 at Renasant Stadium in Hattiesburg. Southern Miss wore a black helmet, gold jersey and black pants, confirmed from Southern Miss' game photos, and won 35-31.
 
 **What is the name of Southern Miss's stadium?**
 

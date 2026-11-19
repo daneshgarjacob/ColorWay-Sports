@@ -13,9 +13,9 @@ teams: ["tcu-horned-frogs", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-TCU opened the 2026 season in Dublin against North Carolina, and the Horned Frogs built a uniform specifically for it. Since then the Frogs have worn purple at home and white on the road, most recently the purple helmet, purple jersey and black pants in a 17-10 loss to BYU on October 3 that left them 2-3 going into the bye. This is the full TCU 2026 uniform schedule: the confirmed black alternate and the helmet that goes with it, the purple and white base sets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+TCU opened the 2026 season in Dublin against North Carolina, and the Horned Frogs built a uniform specifically for it. Since then the Frogs have mostly worn purple at home and white on the road, most recently the new Freedom Frogs white helmet over the purple jersey and purple pants in a 20-10 win over Kansas State on November 14. This is the full TCU 2026 uniform schedule: the confirmed black alternate and the helmet that goes with it, the purple and white base sets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 30:** TCU will go **all black against Kansas on Halloween**, a black helmet, black jersey and black pants for "Black Out The Carter," posted by the team on Friday.
+**Update, November 14:** TCU wore the **Freedom Frogs look, a white helmet with a purple diamond center stripe and the horned frog head, the purple jersey with silver numbers and purple pants** against Kansas State, worn as posted and confirmed from the game broadcast, and won **20-10**.
 
 **Update, October 24:** TCU wore a **purple helmet and black jersey** for Homecoming against West Virginia, confirmed from the team's game photos, and lost **24-20**.
 
@@ -127,7 +127,7 @@ June 15, 2026, more than two months before the game, through TCU Athletics.
 
 **What did TCU wear in its last game?**
 
-A purple helmet and black jersey for Homecoming against West Virginia on October 24, confirmed from the team's game photos, in a 24-20 loss. Next is Kansas at home on Halloween, October 31, in all black.
+The Freedom Frogs look against Kansas State on November 14: a white helmet with a purple diamond center stripe and the horned frog head, the purple jersey with silver numbers and purple pants, worn as posted and confirmed from the game broadcast, in a 20-10 win. Next is Utah at home on November 21, where purple is expected.
 
 **What are TCU's regular uniforms?**
 
@@ -135,11 +135,11 @@ Purple at home and white on the road. Purple is the identity color and the most 
 
 **Will TCU wear the black uniform again in 2026?**
 
-Yes. TCU is going all black, with a black helmet, black jersey and black pants, against Kansas on Halloween, October 31, for "Black Out The Carter." The team has not said whether the jersey is the Frog Horn alternate it wore in Dublin.
+Yes. TCU posted an all-black look, a black helmet, black jersey and black pants, for Kansas on Halloween, October 31, for "Black Out The Carter." The team has not said whether the jersey is the Frog Horn alternate it wore in Dublin.
 
 **Why is TCU wearing black?**
 
-The black Frog Horn alternate was built for the season opener against North Carolina in Dublin on August 29, worn with the Clover Frog helmet, the 2011 Rose Bowl horned frog with a four-leaf clover in place of the rose. The black base loosely descends from TCU's 2010 Pro Combat set. TCU goes all black again for the Halloween home game against Kansas on October 31, "Black Out The Carter," with a black helmet carrying the white TCU and horned frog.
+The black Frog Horn alternate was built for the season opener against North Carolina in Dublin on August 29, worn with the Clover Frog helmet, the 2011 Rose Bowl horned frog with a four-leaf clover in place of the rose. The black base loosely descends from TCU's 2010 Pro Combat set. TCU posted all black again for the Halloween home game against Kansas on October 31, "Black Out The Carter," with a black helmet carrying the white TCU and horned frog.
 
 **Why does TCU wear red?**
 

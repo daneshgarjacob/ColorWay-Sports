@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Michigan's wardrobe is the least complicated in college football and that is entirely the point. This is the full Michigan 2026 uniform schedule: the navy home set, the white road set, the winged helmet that never comes off, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 24:** Michigan wore the **maize winged helmet, navy jersey and navy pants** it posted as "Saturday's Threads" against Indiana, and lost **13-6 in overtime**.
+**Update, November 14:** Michigan wore the **winged helmet, white jersey and maize pants** at Oregon, as posted by the team on November 13, and lost **31-7**.
 
 ## The Michigan 2026 Uniform Sets
 
@@ -91,7 +91,7 @@ Michigan's wardrobe is still short, but 2026 has already bent it. The all-maize 
 
 **What jersey is Michigan wearing this week?**
 
-Michigan wore the maize winged helmet, navy jersey and navy pants against Indiana at Michigan Stadium on Saturday, October 24, as posted in its "Saturday's Threads" graphic, and lost 13-6 in overtime. Next is at Rutgers on October 31, where white is expected. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Michigan wore the winged helmet, white jersey and maize pants at Oregon on Saturday, November 14, as posted by the team on November 13, and lost 31-7. Next is UCLA at home on November 21, where navy is expected. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Michigan's uniforms for 2026?**
 

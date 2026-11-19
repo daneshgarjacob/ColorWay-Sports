@@ -121,7 +121,7 @@ Five games, five combinations and two helmets tells you UNLV is not a program th
 
 **What jersey is UNLV wearing this week?**
 
-UNLV wore the red helmet, red jersey and gray pants against Cal at Allegiant Stadium on Saturday, October 3, for Hispanic Heritage Day, confirmed from the broadcast, and won 39-31 to move to 3-2. The week before, the Rebels wore the red helmet, white jersey and red pants at Akron. Then for Homecoming on October 10, UNLV wore its 1976 Bicentennial throwback helmet with a red jersey and red pants and beat North Dakota State 13-7. Next is Air Force on the road on October 17, where UNLV has confirmed a silver helmet with the Rebels script, white jersey and silver pants. The week-by-week grid above lists every game with the expected set.
+UNLV wore the red helmet, white jersey and red pants at New Mexico on Saturday, November 14, confirmed from the game broadcast, and won 21-17. The week before, the Rebels wore a white helmet, red jersey and white pants against Wyoming and lost 41-35. Next is San Jose State on the road on November 21, where white is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are UNLV's football uniforms for 2026?**
 
@@ -129,7 +129,7 @@ A scarlet home jersey with REBELS across the chest and white numerals, a white r
 
 **Is UNLV wearing a throwback helmet in 2026?**
 
-Yes, for one game. UNLV wears a throwback of its 1976 helmet for Homecoming against North Dakota State on Saturday, October 10, at Allegiant Stadium: a white shell, red facemask, a red UNLV REBELS decal in a 1970s font and the Minute Man statue from Concord, Massachusetts. It honors the 1976 team, the only one that wore it, and the country's 250th birthday.
+Yes, for one game. UNLV wore a throwback of its 1976 helmet for Homecoming against North Dakota State on Saturday, October 10, at Allegiant Stadium, with a red jersey and red pants, and won 13-7. The helmet is a white shell, red facemask, a red UNLV REBELS decal in a 1970s font and the Minute Man statue from Concord, Massachusetts. It honors the 1976 team, the only one that wore it, and the country's 250th birthday.
 
 **What did UNLV wear against Hawaii?**
 

@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Kansas State wears purple at home and white on the road, almost always under the silver helmet with the oversized Powercat, and two games into 2026 the Wildcats have not blinked: silver helmet, purple jersey, silver pants, both times. This is the full Kansas State 2026 uniform schedule: the home and road sets, the white alternate pieces the program has pulled out in recent seasons, and a week-by-week outlook for all twelve games of Collin Klein's first season as head coach. We update this page as each combination is confirmed.
 
-**Update, October 24:** Kansas State wore the **purple helmet with the white Powercat, a white jersey and purple pants** at Arizona State, confirmed from the team's game photos, and lost **28-17**.
+**Update, November 14:** Kansas State wore a **white jersey and white pants** at TCU, confirmed from the game broadcast, and lost **20-10**.
 
 ## The Kansas State 2026 Uniform Sets
 
@@ -74,13 +74,13 @@ K-State is one of the most disciplined uniform programs in the Power Four. Athle
 
 ## The Bottom Line
 
-Kansas State is the rare program where the expected uniform is usually the right one: silver helmet, purple jersey and silver pants at home, white on the road, and all five 2026 games so far have followed that script exactly, four in purple at home and white at Cincinnati. The wild card is the white helmet, which has shown up in a bowl game and a season opener in the last two years, and Tulane week and Homecoming against Kansas are the two home dates where a change would make the most sense. The grid above has every date, and we add a star as each uniform is confirmed.
+Kansas State is the rare program where the expected uniform is usually the right one: silver helmet, purple jersey and silver pants at home, white on the road, and the first five 2026 games followed that script exactly, four in purple at home and white at Cincinnati. The first change came at Arizona State on October 24, a purple helmet with the white Powercat and purple pants under the white jersey. The wild card is the white helmet, which has shown up in a bowl game and a season opener in the last two years, and Arizona on November 21, the final home game, is the last home date where it could come out. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Kansas State wearing this week?**
 
-Kansas State wore the purple helmet with the white Powercat, a white jersey and purple pants at Arizona State on Saturday, October 24, confirmed from the team's game photos, and lost 28-17 to a Sun Devils team in all black. Next is at Colorado on Halloween, October 31, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Kansas State wore a white jersey and white pants at TCU on Saturday, November 14, confirmed from the game broadcast, and lost 20-10. Next is Arizona at home on November 21, the final home game of the regular season, where purple is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Kansas State's football uniforms for 2026?**
 

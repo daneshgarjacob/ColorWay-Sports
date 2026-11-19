@@ -13,9 +13,9 @@ teams: ["minnesota-golden-gophers", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Minnesota plays its colors straight: maroon, gold and white, mixed and matched across helmet, jersey and pants. This is the full Minnesota Gophers 2026 uniform schedule: the maroon home set, the gold jersey that came out for the Gold Out, the white road set, the chrome gold helmet that is back for 2026, and a week-by-week outlook for all twelve games in P.J. Fleck's tenth season. Through four games the Gophers have worn maroon over gold pants twice and gold over maroon pants once under the maroon helmet, and the chrome gold helmet finally came out on October 3 in the 20-14 win over Michigan. We update this page as each combination is confirmed.
+Minnesota plays its colors straight: maroon, gold and white, mixed and matched across helmet, jersey and pants. This is the full Minnesota Gophers 2026 uniform schedule: the maroon home set, the gold jersey that came out for the Gold Out, the white road set, the chrome gold helmet that is back for 2026, and a week-by-week outlook for all twelve games in P.J. Fleck's tenth season. Through their first four games the Gophers wore maroon over gold pants twice and gold over maroon pants once under the maroon helmet, and the chrome gold helmet finally came out on October 3 in the 20-14 win over Michigan. We update this page as each combination is confirmed.
 
-**Update, October 24:** Minnesota wore a **maroon helmet, maroon jersey and gold pants** for the Maroon Out Homecoming against Iowa, confirmed from the team's game photos, and won Floyd of Rosedale **13-10**.
+**Update, November 7:** Minnesota wore a **maroon helmet, black jersey and black pants** for its Salute to Service game against UCLA, confirmed from game photos, and lost **34-20**.
 
 ## The Minnesota Gophers 2026 Uniform Sets
 
@@ -74,13 +74,13 @@ The current Nike set arrived in 2024, the first full relaunch since 2018. It add
 
 ## The Bottom Line
 
-Six games in, Minnesota has given us both of its color jerseys and, against Michigan on October 3, the chrome gold helmet. The rest of the Gophers uniform schedule is easy to read on the road: white in Seattle, West Lafayette, Bloomington, State College and Madison. At home, maroon is the default, the Maroon Out homecoming against Iowa is locked in, and the only real question now is whether the chrome gold helmet comes back for another home date. The grid above has every date, and we add the stars as each uniform is confirmed.
+In its first six games, Minnesota gave us both of its color jerseys and, against Michigan on October 3, the chrome gold helmet. The rest of the Gophers uniform schedule is easy to read on the road: white in Seattle, West Lafayette, Bloomington, State College and Madison. At home, maroon is the default: the Maroon Out homecoming against Iowa was maroon over gold pants, and the Salute to Service game against UCLA brought a black jersey and black pants under the maroon helmet. The question for Senior Day against Northwestern on November 21 is whether the chrome gold helmet comes back. The grid above has every date, and we add the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Minnesota wearing this week?**
 
-Minnesota wore a maroon helmet, maroon jersey and gold pants for the Maroon Out Homecoming against Iowa on Saturday, October 24, confirmed from the team's game photos, and won Floyd of Rosedale 13-10. Next is at Indiana on Halloween, October 31, where white is expected. The week-by-week grid above lists every game with the expected set.
+Minnesota wore a maroon helmet, black jersey and black pants for its Salute to Service game against UCLA on Saturday, November 7, confirmed from game photos, and lost 34-20. Minnesota then lost 42-14 at Penn State on November 14. Next is Northwestern at home on November 21, Senior Day and the final home game, where maroon is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are the Minnesota Gophers football uniforms for 2026?**
 

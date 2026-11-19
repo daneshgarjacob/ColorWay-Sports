@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 San Diego State opened its first Pac-12 season in black on black, followed it with white on white, and then announced a red jersey with red pants for the first time in program history. This is the full San Diego State 2026 uniform schedule: the black home set, the white road set, the new Age of the Jaguar alternate that debuted against James Madison on September 19, and a week-by-week outlook for all twelve games plus the Pac-12 flex date. We update this page as each combination is confirmed.
 
-**Update, October 24:** San Diego State wore **a red helmet, white jersey and white pants with a red side panel** at Colorado State on Saturday, confirmed from San Diego State's game photos, and lost 56-49. **Final: Colorado State 56, San Diego State 49.**
+**Update, November 14:** San Diego State beat Utah State **30-13** at Snapdragon Stadium. We have not yet confirmed what the Aztecs wore; the last look we have confirmed is **a red helmet, white jersey and white pants with a red side panel** at Colorado State on October 24, from San Diego State's game photos.
 
 ## The San Diego State 2026 Uniform Sets
 
@@ -106,7 +106,7 @@ Through five games, San Diego State had used three combinations and two helmets,
 
 **What is San Diego State wearing this week?**
 
-San Diego State wore a red helmet, white jersey and white pants with a red side panel at Colorado State on Saturday, October 24, confirmed from San Diego State's game photos, and lost 56-49. Earlier this season, San Diego State wore the scarlet helmet, white jersey and white pants at Oregon State on Saturday, October 10, confirmed from the game photos, and lost 66-14 to fall to 2-4. The week before, the Aztecs wore the red helmet, black jersey and black pants in a 31-29 win over Texas State. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+The last look we have confirmed is a red helmet, white jersey and white pants with a red side panel at Colorado State on Saturday, October 24, from San Diego State's game photos, a 56-49 loss. Most recently, San Diego State beat Utah State 30-13 at home on November 14; we have not yet confirmed what it wore. Next is Boise State on the road on November 21, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are San Diego State's football uniforms for 2026?**
 

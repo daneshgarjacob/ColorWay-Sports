@@ -86,7 +86,7 @@ Purdue has worn the black jersey four times: the black helmet over white pants o
 
 **What jersey is Purdue wearing this week?**
 
-Purdue wore the gold helmet, black jersey and gold pants against Minnesota on Saturday, October 10, the Hammer Down Cancer game, confirmed from the broadcast, and won 41-13 to move to 3-3. The week before, they wore the gold helmet, white jersey and gold pants at Illinois in a 24-17 win that brought the Purdue Cannon home. Next is Washington at Ross-Ade Stadium on Friday, October 16, where black is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+The last look we have confirmed is the gold helmet, black jersey and gold pants against Minnesota on Saturday, October 10, the Hammer Down Cancer game, confirmed from the broadcast, a 41-13 win. Most recently Purdue lost 28-7 at Iowa on November 14; we have not yet confirmed what it wore in that game or in its games against Washington, Penn State and Maryland. Next is Wisconsin at Ross-Ade Stadium on November 21, the final home game, where black is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Purdue's football uniforms for 2026?**
 
@@ -98,7 +98,7 @@ Old gold is the primary helmet, with the black block P on the side. Purdue also 
 
 **Does Purdue have a new alternate uniform in 2026?**
 
-Nothing new has been announced. Purdue has used an all-black look with a script helmet in the past, and it mixed black helmets, black pants and white pants throughout 2025. The Friday night Washington game and Homecoming against Maryland on November 7 are the likeliest spots for a special look.
+Nothing new has been announced. Purdue has used an all-black look with a script helmet in the past, and it mixed black helmets, black pants and white pants throughout 2025. The Friday night Washington game and Homecoming against Maryland on November 7 were the likeliest spots for a special look, and we have not yet confirmed what Purdue wore in either.
 
 **What did Purdue wear against Wake Forest?**
 

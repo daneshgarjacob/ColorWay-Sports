@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Vanderbilt added a color to its closet this year and then wore it in Week 2, which means the most interesting question of the Commodores' season has already been answered once and is still not fully settled. This is the full Vanderbilt 2026 uniform schedule: the black home set, the white road set, the gold alternate that debuted against Delaware, the white helmet that started the first two games, the black shell that came out for NC State, and a week-by-week outlook for all twelve games ending with Tennessee at FirstBank Stadium. We update this page as each combination is confirmed.
 
-**Update, October 24:** Vanderbilt wore its posted "Game 8 Fit" at Kentucky, a **gold helmet, white jersey and gold pants**, seen in Kentucky's game photos, and lost **34-17**.
+**Update, November 14:** Vanderbilt wore the **black helmet and black jersey** against Alabama, confirmed from the game broadcast, and lost **21-6**.
 
 ## The Vanderbilt 2026 Uniform Sets
 
@@ -108,13 +108,13 @@ The [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) has 
 
 ## The Bottom Line
 
-Vanderbilt is six games into 2026 and has already worn three different jerseys, three helmets and two colors of pants. White pants started the first four games before black pants came out at Georgia and again in the all-black look against Ole Miss, the black home jersey is the default, white is locked on the road because the SEC says so, and the gold is the variable. The helmet question got its first real answer against NC State, when the white shell that opened the year gave way to the black one. The strange part is that the gold has been worn and the reveal still has not happened, because the helmet and the pants stayed white when the jersey went gold. Ole Miss came and went in all black, so Alabama on November 14 is the home date to circle if you want to see the whole thing at once. The grid above has every game, and we fill in the stars as each combination is confirmed.
+Vanderbilt wore three different jerseys, three helmets and two colors of pants in its first six games of 2026, and gold pants joined them at Kentucky on October 24. White pants started the first four games before black pants came out at Georgia and again in the all-black look against Ole Miss, the black home jersey is the default, white is locked on the road because the SEC says so, and the gold is the variable. The helmet question got its first real answer against NC State, when the white shell that opened the year gave way to the black one. The strange part is that the gold has been worn and the reveal still has not happened, because the helmet and the pants stayed white when the jersey went gold. Ole Miss came and went in all black, and Alabama on November 14 brought the black helmet and black jersey, so Senior Day against Tennessee on November 28 is the last home date to circle if you want to see the whole thing at once. The grid above has every game, and we fill in the stars as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Vanderbilt wearing this week?**
 
-Vanderbilt wore all black, the black helmet with the gold stripe and the V, the black jersey with gold numbers and black pants, against No. 9 Ole Miss on Saturday, October 10, confirmed from the broadcast, and lost 52-17 to fall to 3-3. The week before, the Commodores wore the white helmet, white jersey and black pants at No. 2 Georgia. Next is Arkansas at FirstBank Stadium on October 17 in the white helmet, black jersey and white pants, confirmed by the team. We update the grid above the moment the team posts each game day fit.
+Vanderbilt wore the black helmet and black jersey against Alabama on Saturday, November 14, confirmed from the game broadcast, and lost 21-6. The week before, the Commodores wore the black helmet, white jersey and white pants at Mississippi State and won 25-23. Next is at Florida on November 21, where white is expected. We update the grid above the moment the team posts each game day fit.
 
 **What are Vanderbilt's football uniforms for 2026?**
 

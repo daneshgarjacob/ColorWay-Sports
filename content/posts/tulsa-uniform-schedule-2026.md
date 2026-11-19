@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Tulsa is 2-0 for the first time since 2015, it has beaten Oklahoma State two years running, and on Wednesday the program dropped a red jersey that nobody saw coming. This is the full Tulsa 2026 uniform schedule: the royal blue home set, the white road set, the gold helmet that goes with everything, the new red throwback, and a week-by-week outlook for all twelve games, including a Thursday night game against North Texas and a Friday night game against Army. We update this page as each combination is confirmed.
 
-**Update, October 23:** Tulsa wore a **gold helmet and royal blue jersey** against Army on Friday night, confirmed from the team's halftime graphic, and lost **38-35** on a 50-yard field goal at the horn.
+**Update, November 14:** Tulsa wore a **gold helmet, royal blue jersey and gold pants** against Florida Atlantic for Homecoming, confirmed from the game broadcast, and won **38-21**.
 
 ## The Tulsa 2026 Uniform Sets
 
@@ -26,7 +26,7 @@ Tulsa is 2-0 for the first time since 2015, it has beaten Oklahoma State two yea
   <div style="background: #C4A962; color: #14284b; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The everyday gold shell with a royal blue Tulsa script and a blue facemask. Behind it, a white shell Tulsa wore to win at Oklahoma State last September and a gold city flag helmet with the script filled in the colors of the Tulsa flag.</div></div>
 </div>
 
-Tulsa is an adidas school, and the base look is one of the more settled in the American: gold helmet, gold pants, and a blue or white jersey depending on who is home. The script wordmark carries across the helmet and the chest, which gives the whole thing a vintage feel even in the standard set. Both games so far have used the same gold helmet and the same gold pants, so on a normal Saturday the only real variable is the jersey color.
+Tulsa is an adidas school, and the base look is one of the more settled in the American: gold helmet, gold pants, and a blue or white jersey depending on who is home. The script wordmark carries across the helmet and the chest, which gives the whole thing a vintage feel even in the standard set. The first two games used the same gold helmet and the same gold pants, though Tulsa has since gone all white with a white helmet at Arkansas and Navy, so the helmet is a variable too.
 
 The opener was the second straight Tulsa win over Oklahoma State and the first home win in the series since 1998. Tulsa wore blue at home and the Cowboys came in all white.
 
@@ -104,13 +104,13 @@ Tulsa also brought back its city flag helmet for 918 Day on September 18, the go
 
 ## The Bottom Line
 
-Two games, two wins, one helmet and one pair of pants. Tulsa has been as disciplined as it gets with the base set, gold over blue at home and gold over white on the road, and there is no reason to expect that to change on a normal Saturday. The red throwback is the story, and it is a good one: a real school color that rarely gets a jersey of its own, shot on a vintage Route 66 filling station set in the year the highway turns 100. It did not wait. Tulsa put it on against East Texas A&M on September 19, the first home game after the reveal, over the gold helmet and gold pants. The grid above has every game, and we add a star as each combination is confirmed.
+Tulsa has stayed close to the base set, gold over blue at home and white on the road, with the white helmet swapped in for the all white look at Arkansas and Navy. At Homecoming against Florida Atlantic on November 14 it was the standard gold helmet, royal blue jersey and gold pants. The red throwback is the story, and it is a good one: a real school color that rarely gets a jersey of its own, shot on a vintage Route 66 filling station set in the year the highway turns 100. It did not wait. Tulsa put it on against East Texas A&M on September 19, the first home game after the reveal, over the gold helmet and gold pants. The grid above has every game, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What is Tulsa wearing this week?**
 
-Tulsa wore a gold helmet and royal blue jersey against Army on Friday, October 23, confirmed from the team's halftime graphic, and lost 38-35 on a 50-yard field goal at the horn. Army wore a black helmet, white jersey and white pants.
+Tulsa wore a gold helmet, royal blue jersey and gold pants against Florida Atlantic on Saturday, November 14, confirmed from the game broadcast, and won 38-21 at Homecoming. Next is Charlotte at home on Saturday, November 21, the Senior Day Celebration and final home game, where blue is expected.
 
 **What are Tulsa's football uniforms for 2026?**
 
@@ -118,7 +118,7 @@ A royal blue home jersey and a white road jersey, both with the Tulsa script, wo
 
 **Does Tulsa have a red uniform?**
 
-Yes. Tulsa revealed a red jersey with white block numerals, a blue and gold sleeve stripe and gold pants on September 16, 2026, under the caption "Nothing like a classic look." Crimson is one of Tulsa's three school colors along with royal blue and gold. The program has not announced which game it will be worn in.
+Yes. Tulsa revealed a red jersey with white block numerals, a blue and gold sleeve stripe and gold pants on September 16, 2026, under the caption "Nothing like a classic look." Crimson is one of Tulsa's three school colors along with royal blue and gold. Tulsa wore it against East Texas A&M on September 19 with the gold helmet and gold pants.
 
 **What did Tulsa wear against Oklahoma State?**
 
@@ -126,7 +126,7 @@ The gold helmet, the royal blue home jersey and gold pants for the 24-10 win on 
 
 **When do Tulsa and North Texas play in 2026?**
 
-Thursday, October 1 at 8 p.m. Central on ESPN at H.A. Chapman Stadium. It is the American opener for both teams. Tulsa should be in royal blue at home, and North Texas has confirmed a green helmet, white jersey and green pants.
+Thursday, October 1 at H.A. Chapman Stadium, on ESPN. It was the American opener for both teams. Royal blue was expected for Tulsa at home, and North Texas had confirmed a green helmet, white jersey and green pants.
 
 **How many games does Tulsa play in 2026?**
 

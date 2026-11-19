@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 James Madison has three jersey colors, two helmets, and a program that just went to the College Football Playoff. This is the full James Madison 2026 uniform schedule: the purple home set, the white road set, the all black look the Dukes have already pulled out once, and a week by week outlook for all twelve games in Billy Napier's first season in Harrisonburg. We update this page as each combination is confirmed.
 
-**Update, October 22:** James Madison went **all white** at App State on Thursday night, posted before kickoff and confirmed from the team's game photos, and lost **34-31 in overtime**.
+**Update, November 14:** James Madison wore a **gold helmet, white jersey and white pants** at UConn, confirmed from the game broadcast, and lost **46-22**.
 
 ## The James Madison 2026 Uniform Sets
 
@@ -106,7 +106,7 @@ Six games into 2026, James Madison is 6-0 and has already used all three jerseys
 
 **What jersey is James Madison wearing this week?**
 
-James Madison wore all white at App State on Thursday, October 22: white helmet, white jersey with purple numbers and white pants, posted before kickoff and confirmed from the team's game photos. App State won 34-31 in overtime. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+James Madison wore a gold helmet, white jersey and white pants at UConn on Saturday, November 14, confirmed from the game broadcast, and lost 46-22. The Dukes are off on November 21. Next is Coastal Carolina at home on November 28, the final home game, where purple is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are James Madison's football uniforms for 2026?**
 
@@ -118,7 +118,7 @@ Against Liberty on September 5, the Dukes wore the gold helmet, purple jersey an
 
 **Does James Madison have a new alternate uniform in 2026?**
 
-Nothing new has been announced. The black jersey and black pants combination is the existing alternate and it has already been worn once this season. Homecoming against Georgia State on October 17 and the home finale against Coastal Carolina on November 28 are the two dates that would make sense for a reveal, and we will add it to this page if it happens.
+Nothing new has been announced. The black jersey and black pants combination is the existing alternate and it has already been worn once this season. The home finale against Coastal Carolina on November 28 is the last date that would make sense for a reveal, and we will add it to this page if it happens.
 
 **Why does ESPN list the San Diego State game on September 20?**
 

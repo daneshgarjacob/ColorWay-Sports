@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Auburn wears navy jerseys at home and white jerseys on the road, always under the same white helmet, and in 2026 that has not changed. This is the full Auburn 2026 uniform schedule: the navy home set, the white road set, the orange jersey that has not been worn since 1980, and a week-by-week outlook for all twelve games in Alex Golesh's first season. Five games in, Auburn has worn navy over white pants in all four home dates and all white at Tennessee. We update this page as each combination is confirmed.
 
-**Update, October 24:** Auburn wore the **white helmet and navy jersey** against LSU, confirmed from the team's game photos, and lost **38-17**.
+**Update, November 14:** Auburn wore a **white helmet, white jersey and white pants** at Mississippi State, confirmed from the game broadcast, and won **41-9**.
 
 ## The Auburn 2026 Uniform Sets
 
@@ -74,7 +74,7 @@ Auburn moved from Under Armour to Nike in July 2025 and used the switch to chang
 
 ## The Bottom Line
 
-Auburn's 2026 uniform schedule is the simplest in the SEC: navy jersey and white pants at Jordan-Hare, white jersey and white pants on the road, and the same white helmet with the orange and navy stripe every Saturday. All five games so far have gone exactly that way. The only real question is whether Golesh's first season brings the orange jersey back after 46 years, and nothing points to it yet. The grid above has every date, and we add stars as each uniform is confirmed.
+Auburn's 2026 uniform schedule is the simplest in the SEC: navy jersey and white pants at Jordan-Hare, white jersey and white pants on the road, and the same white helmet with the orange and navy stripe every Saturday. Every game we have logged has gone exactly that way, through the all-white win at Mississippi State on November 14. The only real question is whether Golesh's first season brings the orange jersey back after 46 years, and nothing points to it yet. The grid above has every date, and we add stars as each uniform is confirmed.
 
 Want every big game in one place? Our [college football Week 5 uniform guide](/stories/college-football-week-5-uniforms-2026) has what every top team wore on October 3.
 
@@ -82,7 +82,7 @@ Want every big game in one place? Our [college football Week 5 uniform guide](/s
 
 **What jersey is Auburn wearing this week?**
 
-Auburn wore the white helmet and navy home jersey against LSU on Saturday, October 24, confirmed from the team's game photos, and lost 38-17. LSU wore a gold helmet, white jersey and gold pants. The week-by-week grid above lists every game.
+Auburn wore a white helmet, white jersey and white pants at Mississippi State on Saturday, November 14, confirmed from the game broadcast, and won 41-9. Next is Samford at Jordan-Hare Stadium on Saturday, November 21, the final home game, where navy is expected. The week-by-week grid above lists every game.
 
 **What are Auburn's football uniforms for 2026?**
 

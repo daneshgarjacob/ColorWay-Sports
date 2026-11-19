@@ -112,7 +112,7 @@ Five games into 2026, Boston College is 2-3 and has shown the two things that ma
 
 **What jersey is Boston College wearing this week?**
 
-Boston College wore the gold helmet and maroon jersey at Georgia Tech on Saturday, October 24, confirmed from the team's game photos, and won 49-27. Georgia Tech wore white for Homecoming, so the Eagles kept their home color on the road. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Boston College lost 41-7 at Notre Dame on Saturday, November 14; we have not logged that uniform yet. The last look we have on record is the gold helmet and maroon jersey at Georgia Tech on Saturday, October 24, confirmed from the team's game photos, in a 49-27 win. Georgia Tech wore white for Homecoming, so the Eagles kept their home color on the road. Next is Syracuse at Alumni Stadium on Saturday, November 21, Senior Day, where maroon is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Boston College's football uniforms for 2026?**
 

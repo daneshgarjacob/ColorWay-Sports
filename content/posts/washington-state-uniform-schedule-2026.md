@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Washington State builds its uniforms the way you build a wardrobe, four helmet shells, four jersey colors, four pants colors, two facemask colors, and a new arrangement almost every Saturday. The Cougars have worn 53 different combinations since the 2017 redesign, and they added the newest one against Duquesne. This is the full Washington State 2026 uniform schedule: the crimson home set, the Icy White road look, the Ketchup Bottle combo, the gray throwback helmets, and a week by week outlook for all twelve games in Kirby Moore's first season. We update this page as each combination is confirmed.
 
-**Update, October 24:** Washington State went **all crimson for Homecoming** against Boise State, confirmed from the team's game photos, and lost **31-10**.
+**Update, November 14:** Washington State wore a **crimson helmet and gray jersey** against Colorado State, confirmed from the game broadcast, and won **73-7**.
 
 ## The Washington State 2026 Uniform Sets
 
@@ -102,7 +102,7 @@ The throwback history is the good part. The script Cougars helmet logo lived on 
 
 ## The Bottom Line
 
-Two road games, two crimson and white looks, then three different home looks at Gesa Field, and then a third road trip in the white helmet, white jersey and gray pants at Utah State: the Ketchup Bottle against Duquesne, the gray script helmet over a crimson jersey and gray pants for the Stripe Out against Arizona, and all gray against Fresno State. That is the shape of Washington State's 2026: white on the road, crimson as the home starting point, and the gray pieces coming out early, with anthracite still held back for the dates that mean something. The Ketchup Bottle against Duquesne already counts as a new combination on a technicality, which tells you how finely the Cougars slice this. Homecoming against Boise State and Senior Day in the November 28 flex game are the two we are watching hardest. The grid above has every game, and we add a star as each one is confirmed.
+Two road games, two crimson and white looks, then three different home looks at Gesa Field, and then a third road trip in the white helmet, white jersey and gray pants at Utah State: the Ketchup Bottle against Duquesne, the gray script helmet over a crimson jersey and gray pants for the Stripe Out against Arizona, and all gray against Fresno State. That is the shape of Washington State's 2026: white on the road, crimson as the home starting point, and the gray pieces coming out early, with anthracite still held back for the dates that mean something. The Ketchup Bottle against Duquesne already counts as a new combination on a technicality, which tells you how finely the Cougars slice this. Homecoming against Boise State went all crimson, Colorado State on November 14 brought the crimson helmet with a gray jersey, and Senior Day in the November 28 flex game is the home date we are watching hardest. The grid above has every game, and we add a star as each one is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/2050266211338903593"></a></blockquote>
@@ -112,7 +112,7 @@ Two road games, two crimson and white looks, then three different home looks at 
 
 **What jersey is Washington State wearing this week?**
 
-Washington State wore all crimson for Homecoming against Boise State on Saturday, October 24: crimson helmet, crimson jersey and crimson pants, confirmed from the team's game photos. Boise State won 31-10. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Washington State wore a crimson helmet and gray jersey against Colorado State on Saturday, November 14, confirmed from the game broadcast, and won 73-7. Next is Texas State on the road on Saturday, November 21, where white is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Washington State's football uniforms for 2026?**
 

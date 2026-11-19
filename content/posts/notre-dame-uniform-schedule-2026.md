@@ -113,7 +113,7 @@ That gold helmet has real 23.9-karat gold in its paint, and we explain where it 
 
 **When does Notre Dame wear green in 2026?**
 
-Notre Dame wore green on Saturday, October 10, against Stanford at Notre Dame Stadium in the annual Irish Wear Green game. Confirmed from the game photos: gold helmet, Kelly green jersey and green pants, with the Leprechaun logo replacing the ND monogram on the shoulders. Notre Dame won 58-7 to move to 6-0. Next up is at BYU on October 17, where white is expected. BYU has announced a white helmet, royal jersey and white pants for that game.
+Notre Dame wore green on Saturday, October 10, against Stanford at Notre Dame Stadium in the annual Irish Wear Green game. Confirmed from the game photos: gold helmet, Kelly green jersey and green pants, with the Leprechaun logo replacing the ND monogram on the shoulders. Notre Dame won 58-7 to move to 6-0. Most recently, Notre Dame wore the navy jersey, gold helmet and gold pants against Miami on November 7, confirmed from game photos, and won 31-24, then beat Boston College 41-7 on November 14. Next up is SMU at home on November 21, where navy is expected.
 
 **What uniform is Notre Dame wearing against Wisconsin at Lambeau Field?**
 
@@ -153,7 +153,7 @@ Yes. Notre Dame is the designated home team for the Shamrock Series game against
 
 **What does Notre Dame wear against Navy in 2026?**
 
-Not yet confirmed. The October 31 game is at Gillette Stadium in Foxborough, a neutral site, and Navy has been listed as the designated home team, which would put Notre Dame in white. We confirm this page in game week rather than guessing.
+We have not yet confirmed it. The October 31 game was at Gillette Stadium in Foxborough, a neutral site, and Navy was listed as the designated home team, which would put Notre Dame in white. We add the look to the grid once we have checked it against game photos.
 
 ## More Notre Dame Coverage
 

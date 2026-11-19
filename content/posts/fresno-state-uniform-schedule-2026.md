@@ -88,7 +88,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
 
 ## The Bottom Line
 
-Six games in, Fresno State is 4-2 and has shown two combinations and one helmet, all red at home and the white jersey over red pants on the road, and both combinations ran red pants. That is the signature here: the Bulldogs are a red pants team, on the road as well as at home, which is rarer than it sounds and gives the white jersey a bolder look than most road sets get. The black alternate is the wild card. It did not come out for the Boise State night game on October 10, which leaves Halloween against Oregon State as the obvious slot. The grid above has every date, and we fill in a star as each combination is confirmed.
+In every game we have logged, Fresno State has shown two combinations and one helmet, all red at home and the white jersey over red pants on the road, most recently at Texas State on November 14, and both combinations ran red pants. That is the signature here: the Bulldogs are a red pants team, on the road as well as at home, which is rarer than it sounds and gives the white jersey a bolder look than most road sets get. The black alternate is the wild card. It did not come out for the Boise State night game on October 10, and all black was reported for Halloween against Oregon State, though we have not confirmed that game's uniform. The grid above has every date, and we fill in a star as each combination is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FresnoStateFB/status/2100252334010016037"></a></blockquote>
@@ -98,7 +98,7 @@ Six games in, Fresno State is 4-2 and has shown two combinations and one helmet,
 
 **What is Fresno State wearing this week?**
 
-Fresno State wore all red against Boise State on Saturday, October 10: red helmet, red jersey and red pants, confirmed from the broadcast, in a 38-31 loss that dropped the Bulldogs to 4-2. The black alternate did not appear. Next is the Battle for the Old Oil Can at San Diego State on October 17, where white is expected. The week-by-week grid above lists every game.
+Fresno State wore a red helmet, white jersey and red pants at Texas State on Saturday, November 14, confirmed from the game broadcast, and lost 37-35. Next is Colorado State at home on November 21, where red is expected. The week-by-week grid above lists every game.
 
 **What are Fresno State's football uniforms for 2026?**
 

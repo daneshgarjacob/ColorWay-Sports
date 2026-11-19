@@ -109,7 +109,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
 
 ## Tuesday, November 17
 
-Eleven games on Tuesday, and every sweater was confirmed from game photos. Three more teams debuted their Hometown Remix. The Blues wore black with royal and light blue stripes and the round note crest and beat the Ducks 8-6. The Wild went black with green and white stripes and the green bear crest and beat the Predators 7-3. The Jets wore navy with glowing aurora-blue shoulders and the round crest, but the Senators won 2-1 in Winnipeg. The Blackhawks brought back last season's Centennial jersey (red with the gold-outlined crest) for the 100th anniversary of their first game and beat the Maple Leafs 6-3 ([the full story](/stories/blackhawks-centennial-jersey-100th-anniversary-maple-leafs-2026)). The Stars beat the Golden Knights 4-3 in overtime in Vegas, and the Kings shut out the Bruins 3-0 in Boston. Everyone else wore their usual dark at home and white on the road.
+Eleven games on Tuesday, and every sweater was confirmed from game photos. Three more teams debuted their Hometown Remix. The Blues wore black with royal and light blue stripes and the round note crest and beat the Ducks 8-6. The Wild went black with green and white stripes and the Wild crest redrawn as a night sky, a crescent moon in place of the sun, and beat the Predators 7-3. The Jets wore navy with glowing aurora-blue shoulders and the round crest, but the Senators won 2-1 in Winnipeg. The Blackhawks brought back last season's Centennial jersey (red with the gold-outlined crest) for the 100th anniversary of their first game and beat the Maple Leafs 6-3 ([the full story](/stories/blackhawks-centennial-jersey-100th-anniversary-maple-leafs-2026)). The Stars beat the Golden Knights 4-3 in overtime in Vegas, and the Kings shut out the Bruins 3-0 in Boston. Everyone else wore their usual dark at home and white on the road.
 
 <!-- nhl-day:2026-11-17:start -->
 
@@ -450,7 +450,7 @@ Eleven games on Tuesday, and every sweater was confirmed from game photos. Three
 
 ## Sunday, November 15
 
-Five games on Sunday, and every sweater was confirmed from game photos. The Golden Knights debuted their Hometown Remix, a black sweater with green and gold patterned stripes, but the Canucks spoiled the night with a 6-3 win in road white. In San Jose, the Sharks wore their teal Remix with the shark-teeth sleeve bands again and beat the Predators 4-2. Everyone else wore their usual dark at home and white on the road.
+Five games on Sunday, and every sweater was confirmed from game photos. The Golden Knights debuted their Hometown Remix, a black sweater with a jade casino-felt shoulder yoke patterned with card suits, a roulette pattern and gold striping on the sleeves and playing-card numbers, but the Canucks spoiled the night with a 6-3 win in road white. In San Jose, the Sharks wore their teal Remix with the shark-teeth sleeve bands again and beat the Predators 4-2. Everyone else wore their usual dark at home and white on the road.
 
 <!-- nhl-day:2026-11-15:start -->
 

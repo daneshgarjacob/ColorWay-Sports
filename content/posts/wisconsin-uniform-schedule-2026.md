@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Wisconsin opened 2026 in a uniform the program had never worn before, and then went straight back to one of the most settled wardrobes in the Big Ten. This is the full Wisconsin 2026 uniform schedule: the red home set, the white road set, the white Motion W helmet that goes with both, the all-red Lambeau Field alternate that already came and went, the Red Out with the red helmet for Homecoming against Michigan State, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 24:** Wisconsin wore the **white helmet, red jersey and white pants** against No. 16 USC, confirmed from the team's uniform post and game photos, and won **24-7**.
+**Update, November 7:** Wisconsin wore the **white helmet, red jersey and white pants** against Rutgers, confirmed from the game broadcast, and won **31-10**. The Badgers then lost 24-21 at Maryland on November 14.
 
 ## The Wisconsin 2026 Uniform Sets
 
@@ -90,7 +90,7 @@ Wisconsin spent its first alternate on the opener, and it spent it well. An all-
 
 **What jersey is Wisconsin wearing this week?**
 
-Wisconsin wore the white helmet, red jersey and white pants against USC at Camp Randall on Saturday, October 24, confirmed from the team's uniform post and game photos, and won 24-7. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Wisconsin lost 24-21 at Maryland on Saturday, November 14; we have not logged that game's uniform yet. The last game we have logged is the 31-10 win over Rutgers at Camp Randall on Saturday, November 7, in the white helmet, red jersey and white pants, confirmed from the game broadcast. Next is Purdue on the road on Saturday, November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What did Wisconsin wear against Notre Dame at Lambeau Field?**
 

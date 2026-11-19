@@ -80,13 +80,13 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
 
 ## The Bottom Line
 
-NC State has already shown its range: a traditional road look with a quieter Tuffy, then the most talked about alternate of its season in the home opener, then an all white bottom half at Vanderbilt, then red at home under the white helmet against App State and Louisville. From here the home dates default to red, the road dates to white, and the question marks sit on night games and Military Appreciation against Duke on November 7. The grid above has every date, and we add a star as each uniform is confirmed.
+NC State has already shown its range: a traditional road look with a quieter Tuffy, then the most talked about alternate of its season in the home opener, then an all white bottom half at Vanderbilt, then red at home under the white helmet against App State and Louisville. The home dates default to red and the road dates to white, and the last home game against Syracuse on November 14 brought a black helmet, red jersey and black pants. The two games left are on the road, at Florida State and North Carolina, where white is expected. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What is NC State wearing this week?**
 
-NC State wore a black helmet and white jersey with red numbers at Stanford on Friday, October 23, confirmed from NC State's tunnel photos, and lost 31-28. Earlier this season, NC State wore the white helmet, red jersey and red pants against Wake Forest on Saturday, October 10, confirmed from the broadcast, in a 38-14 loss that dropped the Wolfpack to 3-3. The week before, they wore white pants with the same helmet and jersey in a 31-28 win over Louisville. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+NC State wore a black helmet, red jersey and black pants against Syracuse on Saturday, November 14, the final home game, confirmed from the game broadcast, and lost 34-31. Next is a trip to Florida State on November 21, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are NC State's football uniforms for 2026?**
 
@@ -98,7 +98,7 @@ A black and gray camo uniform from adidas honoring NC State's partnership with t
 
 **Will NC State wear the camo uniform again in 2026?**
 
-Nothing has been announced. The most likely date is the November 7 home game against Duke, which NC State has designated as its Military Appreciation game. We will update this page if the Wolfpack Warriors set is confirmed for a second game.
+Nothing has been announced. The most likely date was the November 7 home game against Duke, NC State's Military Appreciation game, which we have not logged yet. We will update this page if the Wolfpack Warriors set is confirmed for a second game.
 
 **Why did NC State change its helmet logo?**
 

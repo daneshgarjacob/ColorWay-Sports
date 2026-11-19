@@ -4,6 +4,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import InlineNewsletter from "@/components/InlineNewsletter";
+import MvSlot from "@/components/MvSlot";
+import TrackerRail from "@/components/TrackerRail";
 import TeamWearBox from "@/components/TeamWearBox";
 import TeamMoreBlock from "@/components/TeamMoreBlock";
 import TeamUniformAlerts from "@/components/TeamUniformAlerts";
@@ -221,6 +223,8 @@ export default async function NflTeamCalendarPage({
           link={latest ? { href: latest.trackerHref, label: "See the game in the NFL uniform tracker" } : null}
         />
 
+        {/* Body + desktop ad rail, same as a story page (components/TrackerRail.tsx). */}
+        <TrackerRail slugs={[entry.scheduleSlug, "nfl-uniform-schedule-2026"]}>
         <nav className="max-w-[980px] mx-auto px-5 pt-6 flex gap-3 flex-wrap">
           <a
             href={`/stories/${entry.scheduleSlug}`}
@@ -245,16 +249,22 @@ export default async function NflTeamCalendarPage({
             the league week window unless the club has named a kickoff.
           </p>
 
-          {months.map(({ month, games }) => (
-            <div key={month} className="mb-8">
+          {/* In-content ad spots inside the calendar (MvSlot), which on a phone
+              runs well over a screen per two months with nothing to place in. */}
+          {months.map(({ month, games }, mi) => (
+            <div key={month}>
+            <div className="mb-8">
               <h3 className="text-[12px] font-extrabold uppercase tracking-[0.18em] text-[#5b6474] mb-3">
                 {month}
               </h3>
-              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-2.5">
+              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-2.5">
                 {games.map((g) => (
                   <WeekCard key={g.week} game={g} />
                 ))}
               </div>
+            </div>
+            {mi === 1 && months.length > 2 && <MvSlot className="mb-8" />}
+            {mi === 3 && months.length > 4 && <MvSlot device="mobile" className="mb-8" />}
             </div>
           ))}
         </section>
@@ -306,8 +316,9 @@ export default async function NflTeamCalendarPage({
             Frequently Asked Questions
           </h2>
           <div className="flex flex-col gap-4">
-            {faq.map((f) => (
+            {faq.map((f, fi) => (
               <div key={f.q}>
+                {fi === 3 && faq.length > 5 && <MvSlot className="mb-4" />}
                 <h3 className="text-[16px] font-bold text-blue-dark mb-1.5">{f.q}</h3>
                 <p className="text-[15px] text-black/70 leading-relaxed m-0">
                   {f.a}
@@ -348,6 +359,7 @@ export default async function NflTeamCalendarPage({
             .
           </p>
         </section>
+        </TrackerRail>
       </main>
       <Footer />
     </>

@@ -13,9 +13,9 @@ teams: ["louisville-cardinals", "acc"]
 resurfaceOnUpdate: true
 ---
 
-Louisville wears a red jersey at home, white on the road, and has one announced 2026 alternate: the all-black For The Ville uniform, set for Stanford on October 31. This is the full Louisville 2026 uniform schedule: the all-white set from the Nashville opener against Ole Miss, the red jersey and Salute to Service helmet from the Villanova game, and a week-by-week outlook for all twelve games, with Florida State up next on October 9. We update this page as each combination is confirmed.
+Louisville wears a red jersey at home, white on the road, and has one announced 2026 alternate: the all-black For The Ville uniform, announced for Stanford on October 31. This is the full Louisville 2026 uniform schedule: the all-white set from the Nashville opener against Ole Miss, the red jersey and Salute to Service helmet from the Villanova game, and a week-by-week outlook for all twelve games, with Pittsburgh up next on November 21. We update this page as each combination is confirmed.
 
-**Update, November 5:** Louisville goes **black, white, black in Atlanta**: a **black helmet with a red, white and black center stripe, a white jersey with red numbers outlined in black, and black pants**, from the team's game-week uniform post for Georgia Tech.
+**Update, November 14:** Louisville wore a **red helmet, white jersey and red pants** at North Carolina, confirmed from the game broadcast, and won **16-14**. The week before, it went **black, white, black in Atlanta**, a black helmet, white jersey and black pants, as posted and confirmed from the game broadcast, in a 44-17 win at Georgia Tech.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LouisvilleFB/status/2118078700520427899"></a></blockquote>
@@ -93,7 +93,7 @@ Five games in, Louisville has shown both sides of its base closet: all white in 
 
 **What jersey is Louisville wearing this week?**
 
-Louisville wore the red helmet, white jersey and white pants at NC State on Saturday, October 3, and lost 31-28 to fall to 2-3. The week before, the Cardinals wore the white helmet, red jersey and red pants in a 30-27 loss to Wake Forest. Then on Friday, October 9, Louisville went all black, black helmet with the red Cardinal head, black jersey and black pants, and beat Florida State 44-20. Next is Syracuse on the road on October 17, where Louisville has confirmed a white helmet, white jersey and red pants. The grid above lists every game with the expected uniform.
+Louisville wore a red helmet, white jersey and red pants at North Carolina on Saturday, November 14, confirmed from the game broadcast, and won 16-14. The week before, the Cardinals wore a black helmet, white jersey and black pants, as posted by the team and confirmed from the game broadcast, in a 44-17 win at Georgia Tech. Next is Pittsburgh at home on November 21, Senior Day and the final home game, where red is expected. The grid above lists every game with the expected uniform.
 
 **What are Louisville's football uniforms for 2026?**
 
@@ -101,7 +101,7 @@ A red home jersey with a white arched LOUISVILLE and black-outlined numerals, a 
 
 **Does Louisville have a new alternate uniform in 2026?**
 
-Yes. The For The Ville uniform, revealed in August, is all black with an oversized white wordmark in the style of Muhammad Ali's Everlast boxing gear, three gold stripes on the collar and pants, gold circles on the hips. The reveal photos show players in black boxing gloves. It debuts October 31 against Stanford at L&N Federal Credit Union Stadium.
+Yes. The For The Ville uniform, revealed in August, is all black with an oversized white wordmark in the style of Muhammad Ali's Everlast boxing gear, three gold stripes on the collar and pants, gold circles on the hips. The reveal photos show players in black boxing gloves. Louisville said it would make its on-field debut October 31 against Stanford at L&N Federal Credit Union Stadium.
 
 **What did Louisville wear against Ole Miss?**
 

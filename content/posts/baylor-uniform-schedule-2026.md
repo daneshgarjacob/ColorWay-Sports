@@ -18,7 +18,7 @@ resurfaceOnUpdate: true
 
 Wondering what jersey Baylor is wearing this week? This is the full Baylor 2026 uniform schedule, game by game, and it has one date circled: **the gold chrome throwback came out Saturday, September 26, against Colorado at McLane Stadium** for the Traditions Game, a 23-13 Baylor win.
 
-**Update, October 24:** Baylor wore its posted "Game 7 Threads" at Kansas, a **green helmet with the gold interlocking BU, a white jersey and green pants**, confirmed from the team's game photos, and lost **25-24**.
+**Update, November 14:** Baylor wore a **white helmet, white jersey and green pants** at BYU, confirmed from the game broadcast, and lost **28-7**.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Baylor Athletics.</p>
 
@@ -140,7 +140,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **What jersey is Baylor wearing this week?**
 
-Baylor is off on October 10. Last time out, the Bears wore a white helmet with the green and gold center stripe, white jersey and green pants at Arizona State on Saturday, October 3, confirmed from the broadcast, and won 55-19 to move to 4-1. Next is TCU in Waco on October 17 for Blackout on the Brazos, where Baylor has confirmed a gold chrome helmet, black jersey and black pants. Baylor announces each week's combination a few days before kickoff, and this page is updated as each one is confirmed. Home games at McLane rotate between green, white, black and anthracite. Road games are white.
+Last time out, the Bears wore a white helmet, white jersey and green pants at BYU on Saturday, November 14, confirmed from the game broadcast, and lost 28-7. Next is Texas Tech in Waco on November 21 for Salute to Service and Senior Day. Baylor announces each week's combination a few days before kickoff, and this page is updated as each one is confirmed. Home games at McLane rotate between green, white, black and anthracite. Road games are white.
 
 **When does Baylor wear the gold chrome throwback uniform in 2026?**
 

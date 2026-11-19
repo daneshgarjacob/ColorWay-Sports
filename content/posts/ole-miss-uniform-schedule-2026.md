@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Ole Miss opened 2026 in the navy helmet, navy jersey and gray pants against Louisville, then switched to the red jersey with the same helmet and pants against Charlotte. This is the full Ole Miss 2026 uniform schedule: the red and navy home jerseys, the powder blue alternate, the white road set, four helmet shells including the Realtree camo, and a week-by-week outlook for all twelve games, starting with Lane Kiffin's return to Oxford with LSU on September 19. We update this page as each combination is confirmed.
 
-**Update, October 24:** Ole Miss wore its posted road look at Texas, a **powder blue helmet with the red center stripe, white jersey and white pants**, confirmed from the team's game photos, and lost **34-27**.
+**Update, November 15:** Ole Miss wore a **white helmet with the powder blue stripe and the red Ole Miss script, white jersey with powder blue numbers and white pants** at Oklahoma, in the game moved to Sunday, confirmed from game photos, and lost **24-17**.
 
 ## The Ole Miss 2026 Uniform Sets
 
@@ -81,7 +81,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 
 ## The Bottom Line
 
-Five games in, Ole Miss has shown the navy and red jerseys under the navy helmet over gray pants, and then went to the full powder blue set for LSU, which is exactly the pattern: traditional looks for the ordinary weeks, powder blue for the night the season turns on. On the road it has been the powder blue helmet, white jersey and white pants both times, at Florida and at Vanderbilt. The Realtree helmet is set for Missouri on October 17, a gray and white camo shell with a red jersey and gray pants, and every road trip projects white. The grid above has every game, and we star each cell as the uniform is confirmed.
+Through the first five games, Ole Miss showed the navy and red jerseys under the navy helmet over gray pants, and then went to the full powder blue set for LSU, which is exactly the pattern: traditional looks for the ordinary weeks, powder blue for the night the season turns on. On the road it wore the powder blue helmet, white jersey and white pants at Florida, Vanderbilt and Texas, then a white helmet with the powder blue stripe over a white jersey and white pants at Oklahoma. Ole Miss posted the Realtree helmet for Missouri on October 17, a gray and white camo shell with a red jersey and gray pants, and went navy, navy, gray against Georgia on November 7. The last two games, Wofford and the Egg Bowl, are both at home. The grid above has every game, and we star each cell as the uniform is confirmed.
 
 Want every big game in one place? Our [college football Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has what every top team is wearing this Saturday.
 
@@ -89,7 +89,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Ole Miss wearing this week?**
 
-Ole Miss wore the powder blue helmet with the red center stripe, a white jersey and white pants at Texas on Saturday, October 24, as posted in its "Texas Unis" video and confirmed from the game photos. Texas won 34-27. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Ole Miss wore a white helmet with the powder blue stripe and the red Ole Miss script, a white jersey with powder blue numbers and white pants at Oklahoma on Sunday, November 15, confirmed from game photos. Oklahoma won 24-17. Next is Wofford at home on November 21, where a home color is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Ole Miss's football uniforms for 2026?**
 

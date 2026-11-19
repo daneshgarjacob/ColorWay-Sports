@@ -13,7 +13,7 @@ teams: ["florida-state-seminoles", "acc"]
 resurfaceOnUpdate: true
 ---
 
-Florida State has worn garnet jerseys and gold helmets in all four of its 2026 home games, with the pants switching between garnet and gold, and the white jersey over garnet pants for its one road game so far, at Alabama. This is the full Florida State 2026 uniform schedule: the garnet home set, the white road set, the white helmet, the turquoise Seminole Heritage uniform that still has not appeared in a game, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+Florida State has worn garnet jerseys and gold helmets in all four of the 2026 home games we have logged, with the pants switching between garnet and gold, and the white jersey in both road games we have logged, over garnet pants at Alabama and gold pants at Pittsburgh. This is the full Florida State 2026 uniform schedule: the garnet home set, the white road set, the white helmet, the turquoise Seminole Heritage uniform that still has not appeared in a game, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The Florida State 2026 Uniform Sets
 
@@ -84,7 +84,7 @@ Want every big game in one place? Our [college football Week 5 uniform guide](/s
 
 **What jersey is Florida State wearing this week?**
 
-Florida State wore the gold helmet, garnet jersey and garnet pants against Virginia on Saturday, October 3, confirmed from the broadcast, and won 38-7 to move to 3-2. Next is a Friday night game at Louisville on October 9, where white is expected.
+Florida State wore the gold helmet, white jersey and gold pants at Pittsburgh on Friday, November 13, confirmed from the game broadcast, and won 16-10. Next is NC State at home on November 21 for Homecoming and the Seminole Heritage game, where Florida State has announced turquoise uniforms.
 
 **What are Florida State's football uniforms for 2026?**
 

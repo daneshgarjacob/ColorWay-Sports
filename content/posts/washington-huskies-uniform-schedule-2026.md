@@ -93,7 +93,7 @@ Six games in, Washington has stayed close to the base set, with one big exceptio
 
 **What jersey is Washington wearing this week?**
 
-Washington wore the gold helmet, purple jersey and purple pants against Iowa at Husky Stadium on Friday, October 9, confirmed from game photos, in a 41-24 loss that dropped the Huskies to 3-3. The week before, they wore the gold helmet, white jersey and white pants in a 25-21 loss at USC. Next is another Friday night, at Purdue on October 16, where white is expected.
+Washington wore the gold helmet and white jersey at Michigan State on Saturday, November 14, confirmed from the game broadcast, and won 21-14. Next is Indiana at Husky Stadium on November 21, in the Husky Heritage look confirmed by the team on November 18: gold helmet, purple jersey and gold pants.
 
 **What are Washington's football uniforms for 2026?**
 

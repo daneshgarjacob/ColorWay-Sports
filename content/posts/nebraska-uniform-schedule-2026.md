@@ -80,7 +80,7 @@ Five games in, Nebraska is 5-0 and has done exactly what it said it would: white
 
 **What jersey is Nebraska wearing this week?**
 
-Nebraska wore the white helmet, scarlet jersey and white pants against No. 7 Indiana on Saturday, October 10, confirmed from the game photos, and lost 20-17 after leading 10-3 at halftime, the first loss of the season. The Huskers are 5-1. The week before, they wore the same look in a 48-23 win over Maryland. Next up is a trip to Oregon on October 17, where white is expected. The week-by-week grid above lists every date, and we update it as each look is confirmed.
+Nebraska wore the white helmet, white jersey and red pants at Rutgers on Saturday, November 14, confirmed from the game broadcast, and won 31-0. Next up is Ohio State at home on November 21, the final home game of the season, where scarlet is expected. The week-by-week grid above lists every date, and we update it as each look is confirmed.
 
 **What are Nebraska's football uniforms for 2026?**
 
@@ -88,7 +88,7 @@ A scarlet home jersey and a white road jersey from the new "A New Dawn" adidas r
 
 **Does Nebraska have a new alternate uniform in 2026?**
 
-Yes. Nebraska Athletics revealed a black alternate on August 15 built around the theme "Our Red Burns Brighter." It has a black jersey and pants with red stripes and a black helmet with a metallic red Huskers script, a crop-row stripe and GBR on the bumper. It debuts October 31 against Washington in the second Blackout game.
+Yes. Nebraska Athletics revealed a black alternate on August 15 built around the theme "Our Red Burns Brighter." It has a black jersey and pants with red stripes and a black helmet with a metallic red Huskers script, a crop-row stripe and GBR on the bumper. Its announced debut was October 31 against Washington in the second Blackout game; we have not yet confirmed it from that game.
 
 **What did Nebraska wear against Bowling Green?**
 

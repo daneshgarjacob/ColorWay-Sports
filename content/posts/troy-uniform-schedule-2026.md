@@ -13,9 +13,9 @@ teams: ["troy-trojans", "sun-belt"]
 resurfaceOnUpdate: true
 ---
 
-Troy has worn three different helmets in five games and broke out a black jersey for the first time on a Tuesday night against Southern Miss, which makes the Trojans one of the harder teams in the Sun Belt to predict week to week. This is the full Troy 2026 uniform schedule: the cardinal, white and black jerseys, the white, cardinal and black helmets, every game played so far and the expected look for the rest of the season, starting with Louisiana on October 17. We update this page as each combination is confirmed.
+Troy wore three different helmets in its first five games, broke out a black jersey for the first time on a Tuesday night against Southern Miss, and went all black at South Alabama on November 14, which makes the Trojans one of the harder teams in the Sun Belt to predict week to week. This is the full Troy 2026 uniform schedule: the cardinal, white and black jerseys, the white, cardinal and black helmets, every game logged so far and the expected look for the rest of the season, starting with Georgia Southern on November 21. We update this page as each combination is confirmed.
 
-**Update, October 24:** Troy wore **a white helmet and white jersey** against UL Monroe on Saturday, confirmed from Troy's game photos, and lost 21-14. **Final: UL Monroe 21, Troy 14.**
+**Update, November 14:** Troy wore **a black helmet, black jersey and black pants** at South Alabama, confirmed from the game broadcast, and lost 27-14. **Final: South Alabama 27, Troy 14.**
 
 ## The Troy 2026 Uniform Sets
 
@@ -86,7 +86,7 @@ Five games in, Troy has worn cardinal, white and now black jerseys, with three h
 
 **What jersey is Troy wearing this week?**
 
-Troy wore a white helmet and white jersey against UL Monroe on Saturday, October 24, confirmed from Troy's game photos, and lost 21-14. Earlier this season, Troy beat Southern Miss 55-34 on Tuesday, October 6, in a white helmet, black jersey and white pants. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Troy wore a black helmet, black jersey and black pants at South Alabama on Saturday, November 14, confirmed from the game broadcast, and lost 27-14. Next is Georgia Southern at home on Saturday, November 21, Senior Day, where cardinal is expected. Earlier this season, Troy beat Southern Miss 55-34 on Tuesday, October 6, in a white helmet, black jersey and white pants. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **How many helmets does Troy have in 2026?**
 

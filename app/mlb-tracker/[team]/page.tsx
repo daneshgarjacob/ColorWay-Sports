@@ -7,6 +7,8 @@ import { getPostBySlug } from "@/lib/posts";
 import TeamUniformBreakdown from "@/components/TeamUniformBreakdown";
 import MlbTonightBlock from "@/components/MlbTonightBlock";
 import InlineNewsletter from "@/components/InlineNewsletter";
+import MvSlot from "@/components/MvSlot";
+import TrackerRail from "@/components/TrackerRail";
 import { mlbTrackerFaq } from "@/lib/trackerWearFaq";
 import {
   buildMlbTeamIndex,
@@ -205,6 +207,8 @@ export default async function TeamTrackerPage({
           scheduleHref={meta.scheduleHref}
         />
 
+        {/* Body + desktop ad rail, same as a story page (components/TrackerRail.tsx). */}
+        <TrackerRail slugs={[meta.scheduleHref.replace("/stories/", ""), TRACKER_SLUG]}>
         {/* Quick nav: the two things every team-searcher wants, one tap away */}
         <nav className="max-w-[860px] mx-auto px-5 pt-6 flex gap-3 flex-wrap">
           <a
@@ -251,10 +255,11 @@ export default async function TeamTrackerPage({
                 One tile per game. The jersey shown is what they wore that day.
               </p>
 
-              {months.map(({ month, games }) => {
+              {months.map(({ month, games }, mi) => {
                 const { weeks } = monthCalendar(month, games);
                 return (
-                  <div key={month} className="mb-10">
+                  <div key={month}>
+                  <div className="mb-10">
                     <h3 className="text-[15px] font-extrabold text-blue-dark m-0 mb-3">
                       {month}
                       <span className="ml-2 text-[11px] font-semibold text-black/35">
@@ -337,6 +342,9 @@ export default async function TeamTrackerPage({
                       })}
                     </div>
                   </div>
+                  {/* In-content ad spot every second month (MvSlot). */}
+                  {mi % 2 === 1 && mi < months.length - 1 && <MvSlot className="mb-10" />}
+                  </div>
                 );
               })}
             </section>
@@ -353,8 +361,9 @@ export default async function TeamTrackerPage({
             What they wore last night, what they&rsquo;re wearing today, and what to expect next.
           </p>
           <div className="border-t border-black/[0.08]">
-            {faq.map((f) => (
+            {faq.map((f, fi) => (
               <div key={f.q} className="border-b border-black/[0.08] py-4">
+                {fi === 3 && faq.length > 5 && <MvSlot className="mb-4" />}
                 <h3 className="text-[15px] font-extrabold text-blue-dark m-0 mb-1.5">{f.q}</h3>
                 <p className="text-[14px] leading-relaxed text-black/60 m-0">{f.a}</p>
               </div>
@@ -388,6 +397,7 @@ export default async function TeamTrackerPage({
             </Link>
           </div>
         </section>
+        </TrackerRail>
       </main>
       <Footer />
     </>

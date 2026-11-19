@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 No program in college football builds a one-off uniform with more research behind it than Air Force, and the 2026 version is already public. This is the full Air Force 2026 uniform schedule: the blue home set, the white road set, the Freedom 250 uniform the Falcons opened the season in, the B-21 Raider build from the Air Power Legacy Series that came out against Navy on October 3, and a week-by-week outlook for all twelve games including both Commander-in-Chief's Trophy dates. We update this page as each combination is confirmed.
 
-**Update, October 23:** Air Force wore a **blue helmet, white jersey and white pants** at Wyoming on Friday night, confirmed from the team's game photos, and lost **28-14** to a Wyoming team dressed all in black.
+**Update, November 14:** Air Force wore a **blue helmet, blue jersey and blue pants** against San José State, confirmed from the game broadcast, and won **24-3**.
 
 ## The Air Force 2026 Uniform Sets
 
@@ -114,7 +114,7 @@ Air Force runs the most disciplined base uniform in college football and then sp
 
 **What is Air Force wearing this week?**
 
-Air Force wore a blue helmet, white jersey and white pants at Wyoming on Friday, October 23, confirmed from the team's game photos, and lost 28-14. Wyoming wore all black. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Air Force wore a blue helmet, blue jersey and blue pants against San José State on Saturday, November 14, confirmed from the game broadcast, and won 24-3. Next is UTEP at Falcon Stadium on Friday, November 20, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Air Force's football uniforms for 2026?**
 
@@ -126,7 +126,7 @@ It already has. Air Force wore it on Saturday, October 3 against Navy at Falcon 
 
 **When are the Commander-in-Chief's Trophy games in 2026?**
 
-Air Force beat Navy 14-9 at home on October 3 and plays at Army on November 7. Army and Navy meet on December 12 at MetLife Stadium to finish the round robin. Air Force has won the trophy twenty-one times, more than either of the other academies, and Navy has held it the last two seasons.
+Air Force beat Navy 14-9 at home on October 3 and beat Army 24-21 at Michie Stadium on November 7, in white helmets, white jerseys and white pants. Army and Navy meet on December 12 at MetLife Stadium to finish the round robin. Air Force has won the trophy twenty-one times, more than either of the other academies, and Navy has held it the last two seasons.
 
 **How many games does Air Force play in 2026?**
 

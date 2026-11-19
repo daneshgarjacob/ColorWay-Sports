@@ -13,9 +13,9 @@ teams: ["indiana-hoosiers", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Indiana is the defending national champion and it is defending the title in the plainest uniform in the Big Ten. Two jerseys, one pair of pants for each, no alternate jerseys, and until October 3 a single helmet. This is the full Indiana 2026 uniform schedule: the crimson home set, the white road set that says HOOSIERS instead of INDIANA, the crimson helmet that goes with both, the white helmet that showed up at Rutgers, and a week-by-week outlook for all twelve games. Six games in, Indiana is 6-0, in the crimson home set four times, all white, white helmet included, at Rutgers, and the crimson helmet with the white road set at Nebraska. We update this page as each jersey is confirmed.
+Indiana is the defending national champion and it is defending the title in the plainest uniform in the Big Ten. Two jerseys, one pair of pants for each, no alternate jerseys, and until October 3 a single helmet. This is the full Indiana 2026 uniform schedule: the crimson home set, the white road set that says HOOSIERS instead of INDIANA, the crimson helmet that goes with both, the white helmet that showed up at Rutgers, and a week-by-week outlook for all twelve games. In the eight games we have logged, Indiana has worn the crimson home set five times, all white, white helmet included, at Rutgers, and the crimson helmet with the white road set at Nebraska and Michigan. We update this page as each jersey is confirmed.
 
-**Update, October 24:** Indiana wore the **crimson helmet, white jersey and white pants** at Michigan, confirmed from the team's game photos, and won **13-6 in overtime**.
+**Update, November 14:** Indiana wore the **crimson helmet, crimson jersey and white pants** against USC, confirmed from the game broadcast, and won **27-13**.
 
 ## The Indiana 2026 Uniform Sets
 
@@ -105,13 +105,13 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
 
 ## The Bottom Line
 
-Indiana is the most predictable uniform team in the Big Ten and it is not an accident. The 2024 redesign took the black accents out, the 2026 update added a trident to the collar and stopped, and the program has now gone three full seasons without an alternate jersey. The one break so far is a helmet: Indiana wore a white helmet with crimson trim at Rutgers on October 3, a 47-15 win, then went back to the crimson helmet with the white road set at Nebraska on October 10. Crimson at home, white on the road, white pants with both. The grid above has all twelve games. If the defending national champion breaks the pattern with a jersey too, Homecoming against Minnesota on October 31 and the Old Oaken Bucket game against Purdue on November 28 are the two dates to circle, and we will star this page the day it happens.
+Indiana is the most predictable uniform team in the Big Ten and it is not an accident. The 2024 redesign took the black accents out, the 2026 update added a trident to the collar and stopped, and the program has now gone three full seasons without an alternate jersey. The one break so far is a helmet: Indiana wore a white helmet with crimson trim at Rutgers on October 3, a 47-15 win, then went back to the crimson helmet with the white road set at Nebraska on October 10. Crimson at home, white on the road, white pants with both. The grid above has all twelve games. If the defending national champion breaks the pattern with a jersey too, the Old Oaken Bucket game against Purdue on November 28 is the date to circle, and we will star this page the day it happens.
 
 ## Frequently Asked Questions
 
 **What jersey is Indiana wearing this week?**
 
-Indiana wore the crimson helmet, white jersey and white pants at Michigan on Saturday, October 24, confirmed from the team's game photos, and won 13-6 in overtime. Next is Minnesota at home on October 31 for Homecoming, where crimson is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
+Indiana wore the crimson helmet, crimson jersey and white pants against USC on Saturday, November 14, confirmed from the game broadcast, and won 27-13. Next is a trip to Washington on November 21, where white is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
 
 **What are Indiana's football uniforms for 2026?**
 

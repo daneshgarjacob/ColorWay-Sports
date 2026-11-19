@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Duke keeps its jerseys simple and plays with its helmets. The blue home jersey and the white road jersey do most of the work, and the variety comes from the shell: a block D one week, Gothic Duke lettering the next, black when the night calls for it. This is the full Duke 2026 uniform schedule: the blue home set, the white road set, the black alternate, every helmet in the rotation, and a week-by-week outlook for all twelve games. Two games in, the defending ACC champions have worn two different helmets, and we update this page as each combination is confirmed.
 
-**Update, October 23:** Duke won **19-16** at Virginia on Friday night in a **royal blue helmet and white jersey**, confirmed from the team's locker room and postgame photos.
+**Update, November 14:** Duke wore a **white helmet, white jersey and royal blue pants** at Miami, confirmed from the game broadcast, and lost **36-25**.
 
 ## The Duke 2026 Uniform Sets
 
@@ -80,7 +80,7 @@ Duke's jersey pattern is about as predictable as it gets: blue at home, all whit
 
 **What is Duke wearing this week?**
 
-Duke wore a royal blue helmet and white jersey at Virginia on Friday, October 23, confirmed from the team's locker room and postgame photos, and won 19-16. The pants were not clear in the photos we saw. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Duke wore a white helmet, white jersey and royal blue pants at Miami on Saturday, November 14, confirmed from the game broadcast, and lost 36-25. Next is Clemson at Wallace Wade Stadium on Friday, November 20, the final home game, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Duke's football uniforms for 2026?**
 

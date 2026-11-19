@@ -17,11 +17,11 @@ resurfaceOnUpdate: true
 homepageHero: "2026-11-05"
 ---
 
-Week 9 of the 2026 NFL season runs from Thursday, November 5 to Monday, November 9, with 15 games and two teams on bye: the Pittsburgh Steelers and the Tennessee Titans. It is the busiest week of the season for alternate uniforms so far. Five teams wear an alternate set: the **Ravens in all-purple Purple Rising** on Thursday night, the **Eagles in Kelly Green** and the **Giants in Vintage White** in the same game in Philadelphia, the **Saints in their gold jersey** under the black helmet, and the **Chargers in the all-navy Super Chargers** set. Indianapolis adds its all-white **White Out** against Dallas, which puts the Cowboys in navy, and Atlanta and Cincinnati play in Madrid on Sunday morning.
+Week 9 of the 2026 NFL season runs from Thursday, November 5 to Monday, November 9, with 15 games and two teams on bye: the Pittsburgh Steelers and the Tennessee Titans. It was the busiest week of the season for alternate uniforms so far. Five teams wore an alternate set: the **Ravens in all-purple Purple Rising** on Thursday night, the **Eagles in Kelly Green** and the **Giants in Vintage White** in the same game in Philadelphia, the **Saints in their gold jersey** under the black helmet, and the **Chargers in the all-navy Super Chargers** set. Indianapolis added its all-white **White Out** against Dallas, which put the Cowboys in navy, and Atlanta and Cincinnati played in Madrid on Sunday morning.
 
 **Update, Tuesday, November 10:** every Week 9 game is final, and the sections and full list below now show what each team actually wore, checked against game photos. The biggest surprises: Cleveland paired **brown pants** with its white jerseys at New Orleans, Miami wore **aqua pants** against a Detroit team in blue over blue, Carolina wore the **silver helmet** with black, and New England wore **navy pants**. Buffalo closed the week Monday night with a 23-6 win at Minnesota, the Bills in all white and the Vikings in purple over white.
 
-Below is every Week 9 look we know, special ones first and then all 15 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
+Below is every Week 9 look we know, special ones first and then all 15 games in order. **Confirmed** meant the team had announced the jersey or the full combination before the game. **Scheduled** meant the team put the jersey on its published season schedule. **Expected** was our projection from that team's uniform schedule, and it was replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game was played. Pants were the piece teams settled the week of the game, so every pants call was the least certain part of the line until the team posted its game-week look.
 
 ## The Week 9 Alternates
 
@@ -38,7 +38,7 @@ Below is every Week 9 look we know, special ones first and then all 15 games in 
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/eagles-kelly-green-alternate.jpg" alt="Philadelphia Eagles Kelly Green jersey, worn against the Giants in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Eagles · Worn</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/giants-vintage-white-alternate.jpg" alt="New York Giants Vintage White jersey, worn at Philadelphia in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Giants · Worn</figcaption></figure></div>
 
-Kelly Green against white with red and blue trim is about as good as an NFL game gets. The Giants wear Vintage White again four days later, on Thursday night against Washington. Our matchup grade: **A**. See the [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) and the [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026).
+Kelly Green against white with red and blue trim is about as good as an NFL game gets. The Giants were set to wear Vintage White again four days later, on Thursday night against Washington. Our matchup grade: **A**. See the [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) and the [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026).
 
 ### Jacksonville Jaguars at Baltimore Ravens: Purple Rising on Thursday Night
 
@@ -49,7 +49,7 @@ Kelly Green against white with red and blue trim is about as good as an NFL game
 <img src="/images/posts/ravens-uniforms-2026-reveal/purple-alternate.jpg" alt="Baltimore Ravens Purple Rising uniform, purple from helmet to pants with a gold facemask, worn against the Jaguars on Thursday Night Football in Week 9 of 2026" style="display:block;width:100%;max-width:460px;margin:0 auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Image: Baltimore Ravens</p>
 
-**Final: Jaguars 33, Ravens 10. Both uniforms confirmed from game photos.** Baltimore wore Purple Rising head to toe in the rain, and Jacksonville wore the black helmet, white jersey and white pants. Baltimore named this game for Purple Rising on September 1: the **Purple Rising helmet, purple jersey and purple pants**. The helmet is metallic purple with gold stripes and a gold facemask, and for 2026 it carries the primary Ravens logo. The Ravens are pairing the night with their Salute to Service game. It is the second of three Next Flight theme games, after White Noise in Week 2, and the all-black Darkness Falls set follows 11 days later against the Chargers on Monday night.
+**Final: Jaguars 33, Ravens 10. Both uniforms confirmed from game photos.** Baltimore wore Purple Rising head to toe in the rain, and Jacksonville wore the black helmet, white jersey and white pants. Baltimore named this game for Purple Rising on September 1: the **Purple Rising helmet, purple jersey and purple pants**. The helmet is metallic purple with gold stripes and a gold facemask, and for 2026 it carries the primary Ravens logo. The Ravens paired the night with their Salute to Service game. It was the second of three Next Flight theme games, after White Noise in Week 2, and the all-black Darkness Falls set was scheduled to follow 11 days later against the Chargers on Monday night.
 
 With Baltimore in purple, Jacksonville confirmed a **black helmet, white jersey and white pants** on Wednesday.
 
@@ -67,7 +67,7 @@ Purple head to toe is a look few teams can wear, and Baltimore is one of them. O
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/browns-white-road.jpg" alt="Cleveland Browns white road jersey, worn at New Orleans in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Browns · Worn</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/saints-gameday-gold.jpg" alt="New Orleans Saints gold jersey, worn with the black helmet and gold pants against the Browns in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Saints · Worn</figcaption></figure></div>
 
-**Final: Saints 23, Browns 22. Both uniforms confirmed from game photos.** New Orleans wore the black helmet, gold jersey and gold pants, and Cleveland wore the orange helmet, white jersey and brown pants. New Orleans published its full jersey and helmet plan on September 7, and this is the only game for the **gold jersey**, paired with the **black helmet**. The captains pick the pants before each game, and the team's game-week graphic confirmed **black helmet, gold jersey, gold pants** with black socks.
+**Final: Saints 23, Browns 22. Both uniforms confirmed from game photos.** New Orleans wore the black helmet, gold jersey and gold pants, and Cleveland wore the orange helmet, white jersey and brown pants. New Orleans published its full jersey and helmet plan on September 7, and this was the only game for the **gold jersey**, paired with the **black helmet**. The captains pick the pants before each game, and the team's game-week graphic confirmed **black helmet, gold jersey, gold pants** with black socks.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Saints/status/2118365323241947501"></a></blockquote>
@@ -76,14 +76,14 @@ Purple head to toe is a look few teams can wear, and Baltimore is one of them. O
 
 Cleveland wore **white** under the orange helmet with **brown pants**, the same pairing it wore at Tennessee in Week 6.
 
-Gold under a black helmet is the best version of the Saints' gold, and it gets one date all year. Our matchup grade: **B+**. See the [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) and the [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026).
+Gold under a black helmet is the best version of the Saints' gold, and it got one date all year. Our matchup grade: **B+**. See the [Saints 2026 uniform schedule](/stories/saints-uniform-schedule-2026) and the [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026).
 
 ### Houston Texans at Los Angeles Chargers: Super Chargers Navy
 
 <img src="/images/posts/chargers-uniform-schedule-2026/alternates.jpg" alt="Los Angeles Chargers 2026 alternates graphic showing the all-navy Super Chargers uniform, scheduled for the Texans game in Week 9, and the gold Charger Power jersey" style="display:block;width:100%;max-width:460px;margin:0 auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Image: Los Angeles Chargers</p>
 
-**Final: Texans 44, Chargers 22. Both uniforms confirmed from game photos.** The Chargers wore the navy helmet, navy jersey and navy pants, and Houston wore the navy helmet, white jersey and white pants. The Chargers announced their alternate dates over the summer and published every jersey and pants call on September 1. This is the first of three home games in the all-navy **Super Chargers** set, a modern version of the navy jerseys the franchise wore from 1992 to 2006. The other two are the Patriots in Week 12 and the Chiefs in Week 17.
+**Final: Texans 44, Chargers 22. Both uniforms confirmed from game photos.** The Chargers wore the navy helmet, navy jersey and navy pants, and Houston wore the navy helmet, white jersey and white pants. The Chargers announced their alternate dates over the summer and published every jersey and pants call on September 1. This was the first of three home games in the all-navy **Super Chargers** set, a modern version of the navy jerseys the franchise wore from 1992 to 2006. The other two are the Patriots in Week 12 and the Chiefs in Week 17.
 
 With the Chargers in navy, Houston wore the standard **dark navy helmet, white jersey and white pants**, as its game-week graphic showed.
 
@@ -92,7 +92,7 @@ With the Chargers in navy, Houston wore the standard **dark navy helmet, white j
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Houston's Week 9 uniform combination: navy helmet, white jersey, white pants, via @HoustonTexans</p>
 
-The field changes too: the Chargers posted the design on November 3, with the **navy Super Chargers helmet at midfield** in place of last year's white bolt, and navy end zones. [More on the new field](/stories/chargers-super-chargers-field-texans-2026).
+The field was set to change too: the Chargers posted the design on November 3, with the **navy Super Chargers helmet at midfield** in place of last year's white bolt, and navy end zones. [More on the new field](/stories/chargers-super-chargers-field-texans-2026).
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-liberty.jpg" alt="Houston Texans white jersey, worn with white pants and the navy helmet at the Chargers in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Texans · Worn</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chargers-navy-super-chargers.jpg" alt="Los Angeles Chargers Super Chargers navy jersey, worn against the Texans in Week 9 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chargers · Worn</figcaption></figure></div>
 
@@ -108,7 +108,7 @@ Our matchup grade: **B**. See the [Chargers 2026 uniform schedule](/stories/char
 
 **Final: Cowboys 27, Colts 23. Both uniforms confirmed from game photos.** Indianapolis wore the white helmet, white jersey and white pants, and Dallas wore the silver helmet, navy jersey and silver pants. Indianapolis named this game for the **White Out** in its home schedule: the white jersey with white pants at Lucas Oil Stadium. With the Colts in white, Dallas published **navy** for this trip on September 2, one of three navy road games on its schedule (Houston in Week 4 and the Rams in Week 15 are the others). It was the silver helmet with the navy jersey and silver pants.
 
-The Cowboys in navy is rare enough to be worth watching. Our matchup grade: **B**. See the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026) and the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026).
+The Cowboys in navy was rare enough to be worth watching. Our matchup grade: **B**. See the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026) and the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026).
 
 ### Cincinnati Bengals at Atlanta Falcons: Madrid
 
@@ -241,7 +241,7 @@ Pittsburgh Steelers, Tennessee Titans.
 
 ## The Bottom Line
 
-Week 9 is the week the alternates come out. Kelly Green against Vintage White in Philadelphia was the game of the week, and the Ravens in all purple on Thursday night, the Saints' only gold-jersey game, the Chargers' first Super Chargers date and the Colts' White Out against Dallas in navy fill out the rest. If you missed last week, our [Week 8 uniform guide](/stories/nfl-week-8-uniforms-2026) has every Week 8 look and grade. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
+Week 9 was the week the alternates came out. Kelly Green against Vintage White in Philadelphia was the game of the week, and the Ravens in all purple on Thursday night, the Saints' only gold-jersey game, the Chargers' first Super Chargers date and the Colts' White Out against Dallas in navy filled out the rest. If you missed last week, our [Week 8 uniform guide](/stories/nfl-week-8-uniforms-2026) has every Week 8 look and grade. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
 
 <span id="faq"></span>
 
@@ -249,7 +249,7 @@ Week 9 is the week the alternates come out. Kelly Green against Vintage White in
 
 **What uniforms are NFL teams wearing in Week 9 of 2026?**
 
-Five teams wear alternates: the Ravens in Purple Rising against Jacksonville on Thursday, the Eagles in Kelly Green and the Giants in Vintage White in Philadelphia, the Saints in the gold jersey against Cleveland, and the Chargers in Super Chargers navy against Houston. The Colts wear their all-white White Out against Dallas, which puts the Cowboys in navy. Most other teams were in their standard sets, home in color and visitors in white.
+Five teams wore alternates: the Ravens in Purple Rising against Jacksonville on Thursday, the Eagles in Kelly Green and the Giants in Vintage White in Philadelphia, the Saints in the gold jersey against Cleveland, and the Chargers in Super Chargers navy against Houston. The Colts wore their all-white White Out against Dallas, which put the Cowboys in navy. Most other teams were in their standard sets, home in color and visitors in white.
 
 **When do the Eagles wear Kelly Green in 2026?**
 
@@ -257,7 +257,7 @@ Twice, both at Lincoln Financial Field: Week 9 against the Giants on Sunday, Nov
 
 **What are the Giants wearing against the Eagles?**
 
-Vintage White: the navy GIANTS wordmark helmet, a white jersey with blue numbers outlined in red, and white pants. New York won 19-11, and wears it again on Thursday, November 12 against Washington.
+Vintage White: the navy GIANTS wordmark helmet, a white jersey with blue numbers outlined in red, and white pants. New York won 19-11, and was set to wear it again on Thursday, November 12 against Washington.
 
 **What are the Ravens wearing on Thursday Night Football?**
 
@@ -265,11 +265,11 @@ Purple Rising: the metallic purple Purple Rising helmet with a gold facemask, th
 
 **When do the Ravens wear Darkness Falls?**
 
-The week after, on Monday Night Football in Week 10 against the Chargers, Monday, November 16.
+Darkness Falls was scheduled for the week after, on Monday Night Football in Week 10 against the Chargers, Monday, November 16.
 
 **What are the Saints wearing against the Browns?**
 
-The gold jersey with the black helmet and gold pants. It is the only game on the Saints' published schedule for the gold jersey. Cleveland wore the orange helmet, white jersey and brown pants, and New Orleans won 23-22.
+The gold jersey with the black helmet and gold pants. It was the only game on the Saints' published schedule for the gold jersey. Cleveland wore the orange helmet, white jersey and brown pants, and New Orleans won 23-22.
 
 **What are the Chargers wearing against the Texans?**
 
@@ -301,4 +301,4 @@ The Pittsburgh Steelers and the Tennessee Titans.
 
 **Which 2026 Rivalries uniforms are still to come?**
 
-Tennessee debuts in Week 10 against Jacksonville, Houston in Week 11 against Indianapolis, Minnesota in Week 15 against Detroit and Chicago in Week 16 against Green Bay. No Rivalries uniform is worn in Week 9. Our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked) grades all of them.
+Tennessee was scheduled to debut its set in Week 10 against Jacksonville; Houston follows in Week 11 against Indianapolis, Minnesota in Week 15 against Detroit and Chicago in Week 16 against Green Bay. No Rivalries uniform was worn in Week 9. Our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked) grades all of them.

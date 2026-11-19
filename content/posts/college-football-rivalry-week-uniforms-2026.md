@@ -67,11 +67,13 @@ Every look in this table is Expected unless the game section below says otherwis
 
 ## Texas At Texas A&M
 
-*Friday, November 27, Kyle Field, College Station.*
+*Friday, November 27, 6:30 p.m. CT on ABC, Kyle Field, College Station.*
 
 **Texas A&M: maroon (Expected).** The rivalry game is at home on Black Friday, and Kyle Field is maroon. "If Texas A&M is holding anything back for one night, this is the night," as our [Texas A&M 2026 uniform schedule](/stories/texas-am-uniform-schedule-2026) puts it.
 
 **Texas: icy whites (Expected).** Burnt orange stays home; Texas goes white on the road. [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
+
+**Full game preview:** [What Are Texas A&M And Texas Wearing? Lone Star Showdown Uniforms 2026](/stories/texas-am-texas-lone-star-showdown-uniforms-2026), with what both teams wore in 2024 and 2025.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/texas-longhorns-white.jpg" alt="Texas icy white jersey, expected for Texas at Texas A&M 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Texas · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/texas-am-aggies-maroon.jpg" alt="Texas A&M maroon jersey, expected for Texas at Texas A&M 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Texas A&M · Expected</figcaption></figure></div>
 
@@ -103,15 +105,19 @@ Every look in this table is Expected unless the game section below says otherwis
 
 **Auburn: all white (Expected).** The all-white road set is how this game has looked in Tuscaloosa for years. [Auburn 2026 uniform schedule](/stories/auburn-uniform-schedule-2026).
 
+**Full game preview:** [What Are Alabama And Auburn Wearing? Iron Bowl Uniforms 2026](/stories/alabama-auburn-iron-bowl-uniforms-2026), with what both teams wore in 2024 and 2025.
+
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/auburn-tigers-white.jpg" alt="Auburn white jersey, expected for the 2026 Iron Bowl" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Auburn · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/alabama-crimson-tide-crimson.jpg" alt="Alabama crimson jersey, expected for the 2026 Iron Bowl" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Alabama · Expected</figcaption></figure></div>
 
 ## The Game: Michigan At Ohio State
 
 *Saturday, November 28, Ohio Stadium, Columbus.*
 
-**Ohio State: scarlet (Expected).** Ohio State has broken out alternates for this game before, and if anything is being held back for one Saturday, it is this one. [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026).
+**Ohio State: scarlet (Expected).** Ohio State has broken out alternates for this game before: in 2009 it wore a one-time Nike Pro Combat uniform honoring its 1954 national champions, white helmets included, at Michigan ([Ohio State Athletics](https://ohiostatebuckeyes.com/news/2009/11/17/ohio-state-to-wear-tribute-uniforms)). If anything is being held back for one Saturday, it is this one. [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026).
 
 **Michigan: white (Expected).** The road set for Columbus. [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026).
+
+**Full game preview:** [What Are Ohio State And Michigan Wearing? The Game Uniforms 2026](/stories/ohio-state-michigan-the-game-uniforms-2026), with what both teams wore in 2023, 2024 and 2025.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/michigan-wolverines-white.jpg" alt="Michigan white jersey, expected for The Game 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Michigan · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/ohio-state-buckeyes-scarlet.jpg" alt="Ohio State scarlet jersey, expected for The Game 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Ohio State · Expected</figcaption></figure></div>
 
@@ -122,6 +128,8 @@ Every look in this table is Expected unless the game section below says otherwis
 **Georgia: red (Expected).** The most likely spot for anything Georgia is holding back this season. [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026).
 
 **Georgia Tech: white (Expected).** [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026).
+
+**Full game preview:** [What Are Georgia And Georgia Tech Wearing? Clean, Old-Fashioned Hate Uniforms 2026](/stories/georgia-georgia-tech-uniforms-2026), with what both teams wore in the last three meetings.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/georgia-tech-yellow-jackets-white.jpg" alt="Georgia Tech white jersey, expected for Georgia Tech at Georgia 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Georgia Tech · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/georgia-bulldogs-red.jpg" alt="Georgia red jersey, expected for Georgia Tech at Georgia 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Georgia · Expected</figcaption></figure></div>
 
@@ -246,6 +254,7 @@ Every look in this table is Expected unless the game section below says otherwis
 ## More For Rivalry Week
 
 - **Where the colors came from:** [How every college football team got its colors](/stories/how-every-college-football-team-got-its-colors) and [how every college football team got its name](/stories/how-every-college-football-team-got-its-name). Every why story we have written is on our [Explained](/explained) page.
+- **Single-game previews:** [The Game](/stories/ohio-state-michigan-the-game-uniforms-2026), [the Iron Bowl](/stories/alabama-auburn-iron-bowl-uniforms-2026), [Texas A&M vs. Texas](/stories/texas-am-texas-lone-star-showdown-uniforms-2026) and [Georgia vs. Georgia Tech](/stories/georgia-georgia-tech-uniforms-2026).
 - **The week before:** [College Football Week 12 Uniforms 2026](/stories/college-football-week-12-uniforms-2026), with Florida State's first turquoise game and every Top 25 look.
 - **The debate:** [The worst college football uniforms ever, ranked](/stories/worst-college-football-uniforms-ever-ranked).
 
@@ -263,7 +272,7 @@ Crimson. The Iron Bowl is at Bryant-Denny Stadium on November 28, so Alabama is 
 
 **What is Ohio State wearing against Michigan in 2026?**
 
-Scarlet is expected at Ohio Stadium on November 28, with Michigan in white. Ohio State has worn alternates for this game before, so watch for its game-week post.
+Scarlet is expected at Ohio Stadium on November 28, with Michigan in white. Ohio State has worn alternates for this game before, starting with a Nike Pro Combat tribute to its 1954 national champions at Michigan in 2009, so watch for its game-week post.
 
 **Why do USC and UCLA both wear their home colors?**
 

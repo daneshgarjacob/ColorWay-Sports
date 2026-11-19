@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 UCLA wears its powder blue jersey at the Rose Bowl and white on the road, both under a metallic gold helmet and almost always with gold pants. That is the short answer. This is the full UCLA 2026 uniform schedule: the blue home set, the white road set, the 1954 throwback the Bruins have pulled out once a season for three years running, and a week-by-week outlook for all twelve games of Bob Chesney's first season. Two games are in the books and both uniforms are confirmed from the broadcast. We update this page as each combination is confirmed.
 
-**Update, October 24:** UCLA wore its powder blue "Homecoming threads" against Michigan State, the **powder blue jersey with white shoulder stripes, the gold helmet and gold pants**, confirmed from the team's game photos, and won **28-10** to move to 7-0.
+**Update, November 7:** UCLA wore the **gold helmet, white jersey and gold pants** at Minnesota, confirmed from game photos, and won **34-20**. The Bruins then beat Illinois 22-14 on Friday, November 13.
 
 ## The UCLA 2026 Uniform Sets
 
@@ -86,7 +86,7 @@ UCLA runs one of the tightest uniform rotations in the Big Ten: one gold helmet,
 
 **What jersey is UCLA wearing this week?**
 
-UCLA wore the gold helmet, white jersey and gold pants at No. 13 Oregon on Saturday, October 10, confirmed from the broadcast, and won 17-15 to move to 5-0. It was the same road set the Bruins wore in the 54-3 win at Maryland on September 26. Next up is Wisconsin at the Rose Bowl on October 17, where the blue home jersey is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+UCLA beat Illinois 22-14 at the Rose Bowl on Friday, November 13; we have not logged that night's uniform yet. The last game we have logged is the 34-20 win at Minnesota on Saturday, November 7, in the gold helmet, white jersey and gold pants, confirmed from game photos, the same road set the Bruins wore at Maryland and Oregon. Next up is at Michigan on November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are UCLA's football uniforms for 2026?**
 

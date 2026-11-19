@@ -13,9 +13,9 @@ teams: ["usc-trojans", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-USC opened in Week 0, which put the Trojans on the field before almost everybody, and through nine games the Trojans are 7-2. This is the full USC 2026 uniform schedule: the cardinal home set, the white road set, gold pants with both, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+USC opened in Week 0, which put the Trojans on the field before almost everybody, and through ten games the Trojans are 7-3. This is the full USC 2026 uniform schedule: the cardinal home set, the white road set, gold pants with both, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, November 4:** USC wore a **cardinal helmet and cardinal jersey** at the Coliseum on October 31 and stunned No. 2 Ohio State **30-18**. The Trojans are off this Saturday (November 7) and return **November 14 at Indiana**, where white is expected.
+**Update, November 14:** USC wore a **cardinal helmet, white jersey and gold pants** at Indiana, confirmed from the game broadcast, and lost **27-13**. Next is **November 21 vs. Maryland** at the Coliseum, where cardinal is expected.
 
 ## The USC 2026 Uniform Sets
 
@@ -83,7 +83,7 @@ Cardinal at home, white on the road, gold pants always. USC has one of the three
 
 **What jersey is USC wearing this week?**
 
-USC has a bye on Saturday, November 7. Its next game is November 14 at Indiana, where it is expected to wear the white road jersey with gold pants. Last time out, USC wore cardinal at home and beat No. 2 Ohio State 30-18 on October 31. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+USC's next game is November 21 against Maryland at home, where cardinal is expected. Last time out, USC wore the cardinal helmet, white jersey and gold pants at Indiana on November 14, confirmed from the game broadcast, and lost 27-13. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are USC's uniforms for 2026?**
 

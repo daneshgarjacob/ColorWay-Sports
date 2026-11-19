@@ -13,9 +13,9 @@ teams: ["colorado-buffaloes", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-Colorado has worn a black jersey in three of its six 2026 games, including on the road at Georgia Tech. The gold jersey came out at Baylor, and the gray alternate made its first appearance against Utah on October 17. The gold-on-gold look Deion Sanders showed off in May is still to come. This is the full Colorado 2026 uniform schedule: the black home set, the white road set, the gold and gray alternates, the four helmets, and a week-by-week outlook for all twelve games, starting with the Thursday night opener at Georgia Tech and running through Senior Day against UCF. We update this page as each combination is confirmed.
+Colorado has worn a black jersey in four of the nine 2026 games we have logged, including on the road at Georgia Tech. The gold jersey came out at Baylor, and the gray alternate made its first appearance against Utah on October 17. The gold-on-gold look Deion Sanders showed off in May has not shown up in any game we have logged. This is the full Colorado 2026 uniform schedule: the black home set, the white road set, the gold and gray alternates, the four helmets, and a week-by-week outlook for all twelve games, starting with the Thursday night opener at Georgia Tech and running through Senior Day against UCF. We update this page as each combination is confirmed.
 
-**Update, October 24:** Colorado wore a **gold helmet and white jersey** at Oklahoma State, confirmed from the team's halftime graphic, and lost **57-24**.
+**Update, November 13:** Colorado wore a **gold helmet, black jersey and black pants** against Houston on Friday night, confirmed from the game broadcast and ESPN's game photo, and won **42-32**.
 
 ## The Colorado 2026 Uniform Sets
 
@@ -75,13 +75,13 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
 
 ## The Bottom Line
 
-Six games in, Colorado has worn a black jersey three times, all white at Northwestern, the gold jersey at Baylor and gray against Utah, and the only reason it wore black on the road was Georgia Tech's Whiteout. From here the Big 12 script points to black at Folsom Field and white on the road. Gray finally showed up against Utah on October 17: black helmet, gray jersey, gray pants. The open question now is gold-on-gold. Sanders put gold-on-gold and white over striped gold pants on his office floor in May, and neither has been worn in a game yet. Homecoming against Texas Tech brought gold pants under the black jersey instead, and the Gold Rush game against Utah went gray, so gold-on-gold is still waiting for its first game. The grid above has every date, and we star each cell as the uniform is confirmed.
+In the nine games we have logged, Colorado has worn a black jersey four times, all white at Northwestern, the gold jersey at Baylor, gray against Utah, and white with a gold helmet at Oklahoma State and with a black helmet at Arizona State, and the only reason it wore black on the road was Georgia Tech's Whiteout. From here the Big 12 script points to black at Folsom Field and white on the road. Gray finally showed up against Utah on October 17: black helmet, gray jersey, gray pants. The open question now is gold-on-gold. Sanders put gold-on-gold and white over striped gold pants on his office floor in May, and neither has been worn in a game we have logged. Homecoming against Texas Tech brought gold pants under the black jersey instead, and the Gold Rush game against Utah went gray, so gold-on-gold is still waiting for its first game. The grid above has every date, and we star each cell as the uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Colorado wearing this week?**
 
-Colorado wore a gold helmet and white jersey at Oklahoma State on Saturday, October 24, confirmed from the team's halftime graphic, and lost 57-24. The week before, the Buffaloes wore the black helmet, gray jersey and gray pants against Utah, the first time the gray alternate was out this season. Next is Kansas State at home on Halloween, October 31, where black is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Colorado wore a gold helmet, black jersey and black pants against Houston on Friday, November 13, confirmed from the game broadcast and ESPN's game photo, and won 42-32. The week before, the Buffaloes wore a black helmet, white jersey and black pants at Arizona State. Next is at Cincinnati on November 21, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Colorado's football uniforms for 2026?**
 

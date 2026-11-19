@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 North Carolina opens the 2026 season in Dublin, and it is the first game of the entire college football season. This is the full North Carolina 2026 uniform schedule: the opener combination, the Carolina blue and white sets, the 100th season of Kenan Stadium, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 30:** North Carolina will wear **all Carolina blue against No. 1 Miami on Halloween**, a Carolina blue helmet, jersey and pants, posted by the team as "The attire for Halloween night."
+**Update, November 14:** North Carolina wore a **Carolina blue helmet, Carolina blue jersey and white pants** against Louisville on Homecoming, confirmed from the game broadcast, and lost **16-14**.
 
 **Update, October 24:** North Carolina wore a **Carolina blue helmet and Carolina blue jersey** against Syracuse, confirmed from the team's game photos, and lost **31-30 in overtime**.
 
@@ -133,7 +133,7 @@ The 1980 throwbacks debuted against East Tennessee State on September 12, and Ca
 
 **What did North Carolina wear against Notre Dame?**
 
-The 1980 throwbacks: powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants, confirmed from the broadcast on October 3. Notre Dame wore the gold helmet, white jersey and gold pants and won 37-26. A week later Carolina won 21-17 at Pitt on October 10 in the Carolina blue helmet, white jersey and Carolina blue pants to move to 3-2. Next is a trip to Duke on October 17, where white is expected.
+The 1980 throwbacks: powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants, confirmed from the broadcast on October 3. Notre Dame wore the gold helmet, white jersey and gold pants and won 37-26. A week later Carolina won 21-17 at Pitt on October 10 in the Carolina blue helmet, white jersey and Carolina blue pants to move to 3-2. Most recently, Carolina wore the Carolina blue helmet, Carolina blue jersey and white pants against Louisville on November 14, confirmed from the game broadcast, and lost 16-14. Next is a trip to Virginia on November 21, where white is expected.
 
 **What are North Carolina's regular uniforms?**
 

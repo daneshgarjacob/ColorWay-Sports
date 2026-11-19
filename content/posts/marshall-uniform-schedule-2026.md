@@ -32,7 +32,7 @@ The jerseys underneath it are the set Marshall unveiled in June of 2025, a clean
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/wchstv/status/1935420520075338176"></a></blockquote>
 </div>
 
-The real story is the helmets. From 2010 through 2021 Marshall wore white and nothing else. Black shells came into the rotation a few years ago, and in August of 2025 the program brought green helmets back for the first time since the 2009 bowl season, using the modern stylized M instead of the old block letter. That gives the equipment staff three shells to work with, and through six games in 2026 they have already used two of them.
+The real story is the helmets. From 2010 through 2021 Marshall wore white and nothing else. Black shells came into the rotation a few years ago, and in August of 2025 the program brought green helmets back for the first time since the 2009 bowl season, using the modern stylized M instead of the old block letter. That gives the equipment staff three shells to work with, and through the first six games of 2026 they used two of them.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HerdFB/status/1971248586446025173"></a></blockquote>
@@ -103,13 +103,13 @@ The 75 uniform is usually the most carefully designed thing Marshall does all ye
 
 ## The Bottom Line
 
-Marshall's uniform year is built around one date. Everything from September to early November is a two-color rotation that the home and road rules mostly decide for you, green at The Joan and white on the road, with the pants and the helmet shell as the only real variables. Then November 14 arrives, the black shells come out, and the program puts on the most meaningful uniform in college football. Six games in, the Herd has already used the green helmet and the white helmet, which leaves the black one waiting for the game it was made for. The grid above has every date, and we add the stars as each combination is confirmed.
+Marshall's uniform year is built around one date. Everything from September to early November is a two-color rotation that the home and road rules mostly decide for you, green at The Joan and white on the road, with the pants and the helmet shell as the only real variables. Then November 14 arrives, and the program puts on the most meaningful uniform in college football. Through the first six games the Herd used the green helmet and the white helmet, and for Play For The 75 in 2026 it wore the 1970 replica jerseys, a kelly green helmet with a white center stripe, white jersey and white pants, instead of the black memorial helmet of recent seasons. The grid above has every date, and we add the stars as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What is Marshall wearing this week?**
 
-Marshall wore the white helmet with the green M, green jersey and white pants against Coastal Carolina on Saturday, October 10, the We Are Herd Strong game, confirmed from the broadcast, and lost 27-21 to fall to 3-3. The week before, the Herd went all white in a 45-17 loss at James Madison. Next is South Alabama at home on Tuesday, October 20, where green is expected.
+Marshall wore the 1970 replica jerseys against App State on Saturday, November 14, Play For The 75: a kelly green helmet with a white center stripe, white jersey with kelly green numbers and trim, and white pants with a green stripe, posted by Marshall and confirmed from the game broadcast. App State won 20-16. The week before, the Herd wore white in a 49-13 loss at Georgia Southern. Next is Georgia State at home on November 21, where green is expected.
 
 **What are Marshall's football uniforms for 2026?**
 

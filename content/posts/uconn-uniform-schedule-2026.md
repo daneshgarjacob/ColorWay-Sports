@@ -100,13 +100,13 @@ UConn has not said, and nothing on the schedule is labeled as a red game. Here i
 
 ## The Bottom Line
 
-Six games in, UConn has worn all navy in its first two home games, all white at Southern Miss, white over navy pants at Miami (OH), the new red jersey with the navy helmet and navy pants for Homecoming against Syracuse, and the navy helmet, white jersey and navy pants at Temple. The red jersey is the story of the Huskies' closet this season. White is locked in for the road games, and navy is the default for the rest of the home schedule. The next date we would circle for red is the Friday night game against UMass on October 23. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Through its first six games, UConn wore all navy in its first two home games, all white at Southern Miss, white over navy pants at Miami (OH), the new red jersey with the navy helmet and navy pants for Homecoming against Syracuse, and the navy helmet, white jersey and navy pants at Temple. The red jersey is the story of the Huskies' closet this season. White is locked in for the road games, and navy is the default for the rest of the home schedule. The Friday night game against UMass on October 23 was the next date we circled for red, and UConn wore the navy helmet and navy jersey that night. The last home date left is Senior Day against Old Dominion on November 21, where navy is expected. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is UConn wearing this week?**
 
-UConn wore a navy helmet and navy jersey against UMass on Friday, October 23, confirmed from the team's halftime graphic, and won 35-16. The week-by-week grid above lists every game with the expected uniform.
+UConn wore a navy helmet and navy jersey against UMass on Friday, October 23, confirmed from the team's halftime graphic, and won 35-16. Since then UConn has played at Air Force, hosted North Carolina and beat James Madison 46-22 on November 14; we have not logged the uniforms from those games yet. Next is Old Dominion at home on Saturday, November 21, Senior Day, where navy is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are UConn's football uniforms for 2026?**
 

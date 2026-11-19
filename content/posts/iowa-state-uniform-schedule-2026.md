@@ -87,13 +87,13 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 ## The Bottom Line
 
-Through the first three games, Iowa State wore a cardinal helmet every week and changed only the jersey: cardinal at home, white on the road, white pants every time. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, the all white Whiteout came out against Utah, and the black alternate from the 2024 Nike set has not shown up yet. Homecoming against West Virginia was where the pants changed: all cardinal, script helmet, cardinal jersey and cardinal pants, in a 45-42 win. The cardinal pants stayed on for the trip to BYU, this time under the white jersey, in a 24-10 loss. The Halloween game against Oklahoma State is the next home date to watch. The grid above has every date, and we add a star as each uniform is confirmed.
+Through the first three games, Iowa State wore a cardinal helmet every week and changed only the jersey: cardinal at home, white on the road, white pants every time. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, the all white Whiteout came out against Utah, and the black alternate from the 2024 Nike set waited until Halloween. Homecoming against West Virginia was where the pants changed: all cardinal, script helmet, cardinal jersey and cardinal pants, in a 45-42 win. The cardinal pants stayed on for the trip to BYU, this time under the white jersey, in a 24-10 loss. The Halloween blackout against Oklahoma State, black helmet with the Cynado logo, black jersey and black pants, ended in a 51-49 win on the last kick, and Iowa State went all cardinal with the Cynado helmet for a 41-13 win over Cincinnati on November 14. Next is a Friday trip to UCF on November 20, where white is expected. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Iowa State wearing this week?**
 
-Iowa State wore the cardinal helmet, white jersey and cardinal pants at Arizona on Saturday, October 24, confirmed from the team's game photos, and lost 39-3. Then came the Halloween blackout against Oklahoma State on October 31, black helmet with the Cynado logo, black jersey and black pants, against the Cowboys in all orange, and a 51-49 win on the last kick. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Iowa State wore all cardinal, a cardinal helmet with the Cynado logo, cardinal jersey and cardinal pants, against Cincinnati on Saturday, November 14, as confirmed by the team in its "Cynado threads" post, and won 41-13. Next is a Friday trip to UCF on November 20, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Iowa State's football uniforms for 2026?**
 
@@ -101,7 +101,7 @@ A cardinal home jersey with white numerals outlined in gold, a white road jersey
 
 **Does Iowa State have a new alternate uniform in 2026?**
 
-Not that has been announced. The one visible addition is the Big 12 chest patch, now allowed under the NCAA's 2026 patch rule. The all-white alternate came out as the Whiteout against Utah on September 26, and the black alternate has not been worn yet this season, and we will add any new look to this page as soon as it is revealed.
+Not that has been announced. The one visible addition is the Big 12 chest patch, now allowed under the NCAA's 2026 patch rule. The all-white alternate came out as the Whiteout against Utah on September 26, and the black alternate came out for the Halloween blackout against Oklahoma State on October 31, and we will add any new look to this page as soon as it is revealed.
 
 **What did Iowa State wear against Iowa?**
 

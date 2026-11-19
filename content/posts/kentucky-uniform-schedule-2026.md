@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Wondering what jersey Kentucky is wearing this week? This is the full Kentucky 2026 uniform schedule, game by game, in Will Stein's first season at Kroger Field. The short version: blue jersey at home, white jersey on the road, and the main week-to-week variable is which helmet sits on top. We update this page as each combination is confirmed.
 
-**Update, October 24:** Kentucky wore a **blue helmet with a gray jersey and gray pants** against Vanderbilt, confirmed from the team's halftime graphic, and won **34-17**.
+**Update, November 14:** Kentucky wore its **Night Ops** set against Florida, a **matte black helmet with a blue and white stripe, black jersey with white numbers and black pants**, worn as announced and confirmed from the game broadcast, and lost **21-14**.
 
 ## The Kentucky 2026 Uniform Sets
 
@@ -85,17 +85,17 @@ Home cells are blue, road cells are white, and a star marks a combination that h
 
 ## The Helmet Is the Big Question
 
-Kentucky's jersey is mostly decided by the schedule. Blue at home, white on the road, white pants under both, with two exceptions so far: the Power K throwback against LSU on October 10, and black pants under the white jersey at Oklahoma on October 17. What the program does not decide in advance is the helmet. The white shell opened the season, the blue shell came back for Alabama, a chrome shell debuted at South Carolina, a black shell is announced for Oklahoma, and Kentucky tends to announce the combination two or three days before kickoff. When a combination is confirmed we star the cell above and add the detail to the game entry.
+Kentucky's jersey is mostly decided by the schedule. Blue at home, white on the road, white pants under both, with exceptions: the Power K throwback against LSU on October 10, black pants under the white jersey announced for Oklahoma on October 17, the gray jersey and gray pants against Vanderbilt on October 24, and the all-black Night Ops set against Florida on November 14. What the program does not decide in advance is the helmet. The white shell opened the season, the blue shell came back for Alabama, a chrome shell debuted at South Carolina, a black shell was announced for Oklahoma, a matte black shell came out for Night Ops, and Kentucky tends to announce the combination two or three days before kickoff. When a combination is confirmed we star the cell above and add the detail to the game entry.
 
 ## The Bottom Line
 
-The Kentucky 2026 uniform schedule is two jerseys and three helmets. Blue jersey and white pants at Kroger Field, white jersey and white pants on the road, and a blue, white or chrome helmet on top depending on the week. The 2023 Nike set with the Wildcat shoulders and the checkerboard collar is in its fourth season. October has already brought a chrome helmet, the Power K throwback and an announced black helmet and black pants look for Oklahoma, so the November 28 Louisville game could bring one more.
+The Kentucky 2026 uniform schedule is two jerseys and three helmets. Blue jersey and white pants at Kroger Field, white jersey and white pants on the road, and a blue, white or chrome helmet on top depending on the week. The 2023 Nike set with the Wildcat shoulders and the checkerboard collar is in its fourth season. This fall has already brought a chrome helmet, the Power K throwback, an announced black helmet and black pants look for Oklahoma, a gray set against Vanderbilt and the all-black Night Ops set against Florida, so the November 28 Louisville game could bring one more.
 
 ## Frequently Asked Questions
 
 **What jersey is Kentucky wearing this week?**
 
-Kentucky wore a blue helmet with a gray jersey and gray pants against Vanderbilt at Kroger Field on Saturday, October 24, confirmed from the team's halftime graphic, and won 34-17. Kentucky is off on October 31. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
+Kentucky wore its Night Ops set, a matte black helmet with a blue and white stripe, black jersey and black pants, against Florida at Kroger Field on Saturday, November 14, worn as announced and confirmed from the game broadcast, and lost 21-14. Next is a trip to Missouri on November 21, where white is expected. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
 
 **What are Kentucky's uniforms for 2026?**
 
@@ -103,7 +103,7 @@ Royal blue jersey with white numerals and white pants at home. White jersey with
 
 **Does Kentucky have an alternate uniform in 2026?**
 
-Yes. Kentucky unveiled a **Power K throwback** on October 7 for the LSU game on October 10 and wore it in a 35-34 overtime win, a revival of the 1975 to 1991 uniform with the triple-stripe white helmet, CATS on the jersey shoulders and a Power K on the pants. The chrome helmet also came out at South Carolina on October 3, with the white jersey and white pants. For Oklahoma on October 17, Kentucky has announced a black helmet with the white jersey and black pants.
+Yes. Kentucky unveiled a **Power K throwback** on October 7 for the LSU game on October 10 and wore it in a 35-34 overtime win, a revival of the 1975 to 1991 uniform with the triple-stripe white helmet, CATS on the jersey shoulders and a Power K on the pants. The chrome helmet also came out at South Carolina on October 3, with the white jersey and white pants. For Oklahoma on October 17, Kentucky announced a black helmet with the white jersey and black pants, and for Florida on November 14 it wore the all-black Night Ops set.
 
 **Why did Kentucky wear a white helmet against Youngstown State?**
 

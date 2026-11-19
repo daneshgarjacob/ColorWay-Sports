@@ -17,7 +17,7 @@ resurfaceOnUpdate: true
 
 Wondering what jersey Colorado State is wearing this week? This is the full Colorado State 2026 uniform schedule, game by game, and it opens a brand-new chapter: **the Rams revealed their first adidas uniforms on August 24**, days before their first season in the Pac-12 kicked off at home against Wyoming on September 5.
 
-**Update, October 24:** Colorado State wore **a green helmet, green jersey and white pants** against San Diego State on Saturday, confirmed from Colorado State's game photos, and won 56-49 for its first Pac-12 win. **Final: Colorado State 56, San Diego State 49.**
+**Update, November 14:** Colorado State wore a **white jersey** at Washington State, confirmed from the game broadcast, and lost **73-7**.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Colorado State Athletics.</p>
 
@@ -116,7 +116,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **What jersey is Colorado State wearing this week?**
 
-Colorado State wore a green helmet, green jersey and white pants against San Diego State on Saturday, October 24, confirmed from Colorado State's game photos, and won 56-49 for its first Pac-12 win. Earlier this season, Colorado State wore the green helmet with the gold horns, green jersey and white pants against Oregon State on Saturday, October 3, for Homecoming, confirmed from the game photos, and lost the Pac-12 opener 56-26 to fall to 2-3. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Colorado State wore a white jersey at Washington State on Saturday, November 14, confirmed from the game broadcast, and lost 73-7. Next is Fresno State on the road on Saturday, November 21. Earlier this season, Colorado State wore a green helmet, green jersey and white pants against San Diego State on Saturday, October 24, confirmed from Colorado State's game photos, and won 56-49 for its first Pac-12 win. Before that, Colorado State wore the green helmet with the gold horns, green jersey and white pants against Oregon State on Saturday, October 3, for Homecoming, confirmed from the game photos, and lost the Pac-12 opener 56-26 to fall to 2-3. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **Who makes Colorado State's uniforms in 2026?**
 

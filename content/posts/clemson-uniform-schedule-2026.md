@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Clemson opens the season in Baton Rouge, and because of who they are playing, they open it in orange. This is the full Clemson 2026 uniform schedule: the orange home set, the white road set, the tiger paw, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 24:** Clemson wore the **orange helmet and orange jersey** against Virginia Tech, confirmed from the team's game photos, and lost **20-16**.
+**Update, November 14:** Clemson wore the **orange helmet, orange jersey and white pants** against Georgia Tech, confirmed from the game broadcast, and lost **20-6**.
 
 ## The Clemson 2026 Uniform Sets
 
@@ -74,13 +74,13 @@ The tiger paw is the detail worth knowing. It has been on the helmet since 1970,
 
 ## The Bottom Line
 
-Orange at home, white on the road, the paw on the helmet either way. The first date broke the pattern in the best possible direction, and October 17 breaks it again with purple for Military Appreciation.
+Orange at home, white on the road, the paw on the helmet either way. The first date broke the pattern in the best possible direction, and October 17 broke it again with purple for Military Appreciation.
 
 ## Frequently Asked Questions
 
 **What jersey is Clemson wearing this week?**
 
-Clemson wore the orange helmet and orange jersey against Virginia Tech at Memorial Stadium on Saturday, October 24, confirmed from the team's game photos, and lost 20-16. Next is Florida State on the road on October 31, where white is expected. Clemson wears orange at home and white on the road in 2026, unless the home team picks white, as LSU did in the opener. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Clemson wore the orange helmet, orange jersey and white pants against Georgia Tech at Memorial Stadium on Saturday, November 14, confirmed from the game broadcast, and lost 20-6. Next is Duke on the road on Friday, November 20, where white is expected. Clemson wears orange at home and white on the road in 2026, unless the home team picks white, as LSU did in the opener. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Clemson's uniforms for 2026?**
 
@@ -88,7 +88,7 @@ Orange jersey with white numerals, white pants, orange helmet. White jersey with
 
 **Does Clemson have an alternate uniform in 2026?**
 
-Yes. Clemson wears an orange helmet, purple jersey and purple pants for Military Appreciation against Charleston Southern on October 17. Purple is otherwise used for trim and the occasional alternate.
+Yes. Clemson wore an orange helmet, purple jersey and purple pants for Military Appreciation against Charleston Southern on October 17. Purple is otherwise used for trim and the occasional alternate.
 
 **Why is Clemson wearing purple?**
 
@@ -96,7 +96,7 @@ Clemson wears purple for its Military Appreciation Day game as a tribute to the 
 
 **Why is Clemson wearing orange pants?**
 
-Orange pants are Clemson's championship look. Danny Ford first put the Tigers in orange pants against South Carolina on November 22, 1980, and Dabo Swinney saves them for games with a title on the line, such as the South Carolina rivalry, the ACC Championship Game, bowl games and the College Football Playoff. Clemson has worn white pants in all five of its 2026 games so far.
+Orange pants are Clemson's championship look. Danny Ford first put the Tigers in orange pants against South Carolina on November 22, 1980, and Dabo Swinney saves them for games with a title on the line, such as the South Carolina rivalry, the ACC Championship Game, bowl games and the College Football Playoff. Clemson has worn white pants in every 2026 game we have pants logged for, except Military Appreciation against Charleston Southern on October 17, when it wore purple pants.
 
 **How many games does Clemson play in 2026?**
 

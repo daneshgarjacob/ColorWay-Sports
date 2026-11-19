@@ -13,7 +13,7 @@ teams: ["iowa-hawkeyes", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-Iowa wears the black jersey with gold pants at Kinnick Stadium and the white jersey with gold pants on the road, under the same black Tigerhawk helmet every week. That is the Iowa football uniform in one sentence, and it covers almost every Saturday. The exceptions so far in 2026 were the all-black nights: the Cy-Hawk game, where the Hawkeyes beat Iowa State 16-13, and the October 3 loss to Ohio State. This is the full Iowa 2026 uniform schedule: every jersey, every game week by week, and what the Hawkeyes are expected to wear next. We update this page as each combination is confirmed.
+Iowa wears the black jersey with gold pants at Kinnick Stadium and the white jersey with gold pants on the road, under the same black Tigerhawk helmet every week. That is the Iowa football uniform in one sentence, and it covers almost every Saturday. The exceptions in the 2026 games we have logged were the all-black nights: the Cy-Hawk game, where the Hawkeyes beat Iowa State 16-13, and the October 3 loss to Ohio State. This is the full Iowa 2026 uniform schedule: every jersey, every game week by week, and what the Hawkeyes are expected to wear next. We update this page as each combination is confirmed.
 
 **Update, October 24:** Iowa wore the **black helmet, white jersey and gold pants** at Minnesota, confirmed from the team's game photos, and lost the Floyd of Rosedale game **13-10**.
 
@@ -80,7 +80,7 @@ Six games in, Iowa has shown every piece of its closet: the black and gold home 
 
 **What jersey is Iowa wearing this week?**
 
-Iowa wore the black helmet, white jersey and gold pants at Minnesota on Saturday, October 24, confirmed from the team's game photos, and lost the Floyd of Rosedale game 13-10. Next is Wisconsin at Kinnick Stadium on Halloween, October 31, where black is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Iowa wore the black helmet, white jersey and gold pants at Minnesota on Saturday, October 24, confirmed from the team's game photos, and lost the Floyd of Rosedale game 13-10. Iowa has since won 24-10 at Northwestern on November 7 and 28-7 over Purdue on November 14. Next is at Illinois on November 21, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Iowa's football uniforms for 2026?**
 
@@ -88,7 +88,7 @@ A black home jersey and a white road jersey, both with black and gold shoulder s
 
 **Does Iowa have a new alternate uniform in 2026?**
 
-Sort of. For the Cy-Hawk game on September 12 Iowa went all black, pairing the black home jersey with black pants that drop the gold stripe down the leg. The jersey itself is the standard home top; the pants are the change. Iowa brought the same all-black look back for Ohio State on October 3. It is the only alternate Iowa has worn so far this season, and we will add any others to this page when they are revealed.
+Sort of. For the Cy-Hawk game on September 12 Iowa went all black, pairing the black home jersey with black pants that drop the gold stripe down the leg. The jersey itself is the standard home top; the pants are the change. Iowa brought the same all-black look back for Ohio State on October 3. It is the only alternate in the Iowa games we have logged this season, and we will add any others to this page when they are revealed.
 
 **What did Iowa wear against Iowa State?**
 
@@ -96,7 +96,7 @@ Iowa wore the all-black alternate against Iowa State on September 12 at Kinnick 
 
 **When is Iowa's military appreciation game in 2026?**
 
-Iowa has not announced it yet. The Hawkeyes hold one every year and wear an American flag Tigerhawk decal on the right side of the helmet, a tradition that dates to 2009. In 2025 it was the Oregon game on Veterans Day weekend. The Purdue game on November 14 falls in that same window this year.
+We have not seen Iowa name it. The Hawkeyes hold one every year and wear an American flag Tigerhawk decal on the right side of the helmet, a tradition that dates to 2009. In 2025 it was the Oregon game on Veterans Day weekend. The Purdue game on November 14 fell in that same window this year, and we have not yet confirmed a decal from that game.
 
 **How many games does Iowa play in 2026?**
 

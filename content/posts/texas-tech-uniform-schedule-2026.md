@@ -15,11 +15,11 @@ teams: ["texas-tech-red-raiders", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-Wondering what jersey Texas Tech is wearing this week? This is the full Texas Tech 2026 uniform schedule, game by game, and it now includes the date every Red Raiders fan was asking about: **the new Patrick Mahomes "Let's Ride" uniform debuted Friday night, September 18, against No. 23 Houston in Lubbock**, in prime time on FOX, and Texas Tech won 28-26. Most recently the Red Raiders wore a red helmet, white jersey and red pants in a 29-7 win at Colorado on October 3 to move to 5-0, and after an October 10 bye they host Arizona State for Homecoming on October 17 in a black helmet, red jersey and white pants, confirmed by the team, honoring the 1976 team.
+Wondering what jersey Texas Tech is wearing this week? This is the full Texas Tech 2026 uniform schedule, game by game, and it now includes the date every Red Raiders fan was asking about: **the new Patrick Mahomes "Let's Ride" uniform debuted Friday night, September 18, against No. 23 Houston in Lubbock**, in prime time on FOX, and Texas Tech won 28-26. Most recently the Red Raiders wore a white helmet with the red Double T, a white jersey and black pants in a 52-27 win at Oklahoma State on November 14, confirmed from the game broadcast. Next is Baylor in Waco on November 21, where white is expected.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Texas Tech Athletics.</p>
 
-**Update, October 24:** Texas Tech wore a **white helmet with the red Double T and a white jersey** at Cincinnati, confirmed from the team's game photos, and lost **37-24**.
+**Update, November 14:** Texas Tech wore a **white helmet with the red Double T, white jersey and black pants** at Oklahoma State, confirmed from the game broadcast, and won **52-27**.
 
 ## The Let's Ride Uniform Is the Headline
 

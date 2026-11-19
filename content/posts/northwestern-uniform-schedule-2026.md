@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Northwestern ran through ten different uniform combinations last season, so "purple at home, white on the road" only gets you halfway. This is the full Northwestern 2026 uniform schedule: the purple home set, the white road set, the black Gothics, the brand new Purple Gothics alternate that has a debut date already circled, and a week-by-week outlook for all twelve games. The season also splits across two stadiums, because the new Ryan Field opens in October. We update this page as each combination is confirmed.
 
-**Update, October 30:** Northwestern will wear **all white at Oregon on Halloween**, a white helmet, white jersey and white pants the team calls "Stormtroopers for Halloween."
+**Update, October 31:** Northwestern wore **all white at Oregon on Halloween**, a white helmet, white jersey and white pants the team called "Stormtroopers for Halloween," as confirmed by Northwestern.
 
 **Update, October 24:** Northwestern went **all purple against Rutgers**, purple helmet, purple jersey and purple pants, confirmed from the team's halftime graphic, and won **42-14**.
 
@@ -118,13 +118,13 @@ One more thing shapes this schedule, and it is not a jersey. Northwestern played
 
 ## The Bottom Line
 
-Northwestern is the rare program where the uniform is genuinely part of the week. Purple and white are the base, but the Wildcats mixed helmets, jerseys and pants ten different ways a year ago, and 2026 adds the Purple Gothics to a closet that already held two black Gothic sets. We know one date for certain: Rutgers on October 24 gets the new purple and gold look. The new Ryan Field opened on October 2 with the classic purple helmet, purple jersey and white pants, and Homecoming against Ball State on October 10 brought purple over black pants in a 45-14 win. The grid above has every game, and we star each cell as the combination is confirmed.
+Northwestern is the rare program where the uniform is genuinely part of the week. Purple and white are the base, but the Wildcats mixed helmets, jerseys and pants ten different ways a year ago, and 2026 adds the Purple Gothics to a closet that already held two black Gothic sets. Rutgers on October 24 was the announced debut for the new purple and gold look, and Northwestern went purple helmet, purple jersey and purple pants that day, though we could not confirm from the team's halftime graphic whether the jersey was the new Gothic alternate. The new Ryan Field opened on October 2 with the classic purple helmet, purple jersey and white pants, and Homecoming against Ball State on October 10 brought purple over black pants in a 45-14 win. The grid above has every game, and we star each cell as the combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Northwestern wearing this week?**
 
-All white at Oregon on Saturday, October 31: a white helmet with the purple N, a white jersey and white pants, posted by Northwestern on Thursday as "Stormtroopers for Halloween." Oregon is in a black helmet, black jersey and white pants. Every Week 9 look is in our [Week 9 college uniform guide](/stories/college-football-week-9-uniforms-2026). Last week Northwestern wore a purple helmet, purple jersey and purple pants against Rutgers and won 42-14. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
+The last look we have confirmed is all white at Oregon on Saturday, October 31: a white helmet with the purple N, a white jersey and white pants, posted by Northwestern as "Stormtroopers for Halloween." Since then Northwestern lost 24-10 to Iowa on November 7 and 28-19 at Ohio State on November 14; we have not yet confirmed what it wore in either game. Next is Minnesota on the road on November 21, where white is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
 
 **What are Northwestern's football uniforms for 2026?**
 
@@ -132,7 +132,7 @@ A purple home jersey and a white road jersey, both with the NORTHWESTERN wordmar
 
 **What are Northwestern's Purple Gothics uniforms?**
 
-A deep royal purple alternate with metallic gold trim, inspired by the Gothic architecture on Northwestern's campus and specifically the Arnold Weber Arch. The helmet has a gold center stripe, oversized gold N logos, the arch across the back and WILDCATS in Gothic type on the front bumper. The jersey carries Gothic lettering on the shoulders and textured gold numerals outlined in black, and the purple pants add a gold arch and N on the left hip. Northwestern wears them for the first time against Rutgers on October 24.
+A deep royal purple alternate with metallic gold trim, inspired by the Gothic architecture on Northwestern's campus and specifically the Arnold Weber Arch. The helmet has a gold center stripe, oversized gold N logos, the arch across the back and WILDCATS in Gothic type on the front bumper. The jersey carries Gothic lettering on the shoulders and textured gold numerals outlined in black, and the purple pants add a gold arch and N on the left hip. The announced debut was against Rutgers on October 24, when Northwestern wore a purple helmet, purple jersey and purple pants; we could not confirm from the team's halftime graphic whether that jersey was the Gothic alternate.
 
 **When does the new Ryan Field open?**
 

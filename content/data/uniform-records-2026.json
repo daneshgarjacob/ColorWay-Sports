@@ -5601,10 +5601,10 @@
    "missing": [],
    "combos": [
     {
-     "id": "navy-navy-navy",
+     "id": "college-navy-navy-navy",
      "helmet": "Navy",
      "jersey": "Navy",
-     "jerseyName": "Navy",
+     "jerseyName": "College Navy",
      "jerseyKey": "seahawks-navy-home",
      "pants": "Navy",
      "hexes": [
@@ -5728,10 +5728,49 @@
      ]
     },
     {
-     "id": "navy-navy-silver",
+     "id": "college-navy-navy-wolf-grey",
      "helmet": "Navy",
      "jersey": "Navy",
-     "jerseyName": "Navy",
+     "jerseyName": "College Navy",
+     "jerseyKey": "seahawks-navy-home",
+     "pants": "Wolf Grey",
+     "hexes": [
+      "#002244",
+      "#002244",
+      "#A2AAAD"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/seahawks-navy-home.jpg",
+     "w": 0,
+     "l": 2,
+     "t": 0,
+     "games": [
+      {
+       "week": 5,
+       "date": "2026-10-11",
+       "opponent": "San Francisco 49ers",
+       "home": true,
+       "teamScore": 29,
+       "oppScore": 32,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 8,
+       "date": "2026-11-02",
+       "opponent": "Chicago Bears",
+       "home": true,
+       "teamScore": 17,
+       "oppScore": 34,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
+    {
+     "id": "college-navy-navy-silver",
+     "helmet": "Navy",
+     "jersey": "Navy",
+     "jerseyName": "College Navy",
      "jerseyKey": "seahawks-navy-home",
      "pants": "Silver",
      "hexes": [
@@ -5752,64 +5791,6 @@
        "teamScore": 31,
        "oppScore": 7,
        "result": "W",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      }
-     ]
-    },
-    {
-     "id": "college-navy-navy-grey",
-     "helmet": "Navy",
-     "jersey": "College Navy",
-     "jerseyName": "College Navy",
-     "jerseyKey": "seahawks-navy-home",
-     "pants": "Grey",
-     "hexes": [
-      "#002244",
-      "#002244",
-      "#A2AAAD"
-     ],
-     "img": "/images/posts/nfl-tracker-jerseys/seahawks-navy-home.jpg",
-     "w": 0,
-     "l": 1,
-     "t": 0,
-     "games": [
-      {
-       "week": 8,
-       "date": "2026-11-02",
-       "opponent": "Chicago Bears",
-       "home": true,
-       "teamScore": 17,
-       "oppScore": 34,
-       "result": "L",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      }
-     ]
-    },
-    {
-     "id": "navy-navy-wolf-grey",
-     "helmet": "Navy",
-     "jersey": "Navy",
-     "jerseyName": "Navy",
-     "jerseyKey": "seahawks-navy-home",
-     "pants": "Wolf Grey",
-     "hexes": [
-      "#002244",
-      "#002244",
-      "#A2AAAD"
-     ],
-     "img": "/images/posts/nfl-tracker-jerseys/seahawks-navy-home.jpg",
-     "w": 0,
-     "l": 1,
-     "t": 0,
-     "games": [
-      {
-       "week": 5,
-       "date": "2026-10-11",
-       "opponent": "San Francisco 49ers",
-       "home": true,
-       "teamScore": 29,
-       "oppScore": 32,
-       "result": "L",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
      ]

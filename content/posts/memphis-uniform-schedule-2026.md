@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Memphis owns one of the deepest uniform closets in the American Conference and a brand new logo on the chest. This is the full Memphis 2026 uniform schedule: the blue home jersey, the white road set, the gray pants that showed up in Boise, the FedEx patch that is now on every Tigers jersey, and a week-by-week outlook for all twelve games. Six games are already confirmed. We update this page as each combination is locked in.
 
-**Update, October 22:** Memphis beat East Carolina **41-34 in overtime** on Thursday night in a **royal blue jersey with tiger-striped sleeves and gray pants**, confirmed from the team's game photos.
+**Update, November 12:** Memphis beat South Florida **52-41** on Thursday night in a **white helmet with blue tiger stripes, white jersey and white pants**, confirmed from the game broadcast.
 
 ## The Memphis 2026 Uniform Sets
 
@@ -113,7 +113,7 @@ Memphis is an easy program to predict at the color level and a hard one to predi
 
 **What jersey is Memphis wearing this week?**
 
-Memphis wore a royal blue jersey with tiger-striped sleeves and gray pants against East Carolina on Thursday, October 22, confirmed from the team's game photos, and won 41-34 in overtime. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Memphis wore a white helmet with blue tiger stripes, white jersey and white pants at South Florida on Thursday, November 12, confirmed from the game broadcast, and won 52-41. Next is a trip to Navy on November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Memphis's football uniforms for 2026?**
 
@@ -125,7 +125,7 @@ FedEx and Memphis Athletics announced a department wide jersey patch sponsorship
 
 **Does Memphis have a black uniform in 2026?**
 
-Memphis has a black jersey and black pants in the closet and wore the black set last season, but nothing has been announced for 2026 and the Tigers have not worn the black jersey yet. Black did show up at Charlotte on October 3, in the new striped helmet and black pants with the white jersey. The Halloween home game against Army on October 31 is the date we would watch first.
+Memphis has a black jersey and black pants in the closet and wore the black set last season, but nothing has been announced for 2026 and the Tigers have not worn the black jersey in any game we have logged. Black did show up at Charlotte on October 3, in the new striped helmet and black pants with the white jersey. The Halloween home game against Army on October 31 was the date we were watching, and the last home date left is the Temple finale.
 
 **When does Memphis play Temple?**
 

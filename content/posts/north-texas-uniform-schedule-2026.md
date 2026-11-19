@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 North Texas has played six games under Neal Brown and worn five different combinations, including the all-white Icy Whites at Texas State and all green against Charlotte. This is the full North Texas 2026 uniform schedule: the green home set, the white road set, the green and white helmets, the Icy Whites, and a week-by-week outlook for all twelve games, including two Thursday night games in October. We update this page as each combination is confirmed.
 
-**Update, October 24:** North Texas wore a **green helmet, white jersey and white pants** at Navy, confirmed from the team's game photos, and won **49-39**.
+**Update, November 7:** North Texas wore a **black helmet, green jersey and white pants** against Rice on Homecoming, confirmed from the game broadcast, and won **52-23**.
 
 ## The North Texas 2026 Uniform Sets
 
@@ -102,17 +102,17 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
 
 ## The Bottom Line
 
-Six games, five different combinations, all of them now confirmed. North Texas has used both helmets, both jerseys and both pant colors already, and the program announces every one of them in game week, so this page will keep moving. The base rule is simple enough: green jersey at DATCU Stadium, white on the road. The helmet and pants are where the Mean Green play. Beyond the Icy Whites, the dates to circle are the Thursday night Halloween TX Game against Florida Atlantic on October 29, Homecoming against Rice on November 7 and Salute to Service against UAB on November 28. The grid above has every game, and we add a star as each combination is confirmed.
+North Texas has used both jerseys, both pant colors and three helmets already, the newest a black helmet for Homecoming against Rice on November 7, and the program announces every one of them in game week, so this page will keep moving. The base rule is simple enough: green jersey at DATCU Stadium, white on the road. The helmet and pants are where the Mean Green play. The date still to circle is Salute to Service against UAB on November 28. The grid above has every game, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What is North Texas wearing this week?**
 
-North Texas wore a green helmet, white jersey and white pants at Navy on Saturday, October 24, confirmed from the team's game photos, and won 49-39. Next is Florida Atlantic at home on Thursday, October 29, where green is expected.
+North Texas wore a black helmet, green jersey and white pants against Rice on Saturday, November 7, confirmed from the game broadcast, and won 52-23 on Homecoming. The Mean Green lost 35-16 at UTSA on November 14. Next is at Tulane on November 21, where white is expected.
 
 **What are North Texas's football uniforms for 2026?**
 
-A green home jersey with white numerals, a white road jersey with green numerals, green pants and white pants. There are two helmets so far: a green shell with the white eagle and a white shell with a green triple stripe and the green eagle. The uniforms are made by Nike.
+A green home jersey with white numerals, a white road jersey with green numerals, green pants and white pants. There are three helmets so far: a green shell with the white eagle, a white shell with a green triple stripe and the green eagle, and a black helmet worn against Rice on November 7. The uniforms are made by Nike.
 
 **What did North Texas wear against UNLV?**
 

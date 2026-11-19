@@ -2,6 +2,8 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
 import InlineNewsletter from "@/components/InlineNewsletter";
+import MvSlot from "@/components/MvSlot";
+import TrackerRail from "@/components/TrackerRail";
 import TeamMoreBlock from "@/components/TeamMoreBlock";
 import TeamUniformAlerts from "@/components/TeamUniformAlerts";
 import { TEAM_ALERTS_LIVE } from "@/lib/teamAlerts";
@@ -128,6 +130,8 @@ export default function WinterCalendarPage({
           </div>
         </section>
 
+        {/* Body + desktop ad rail, same as a story page (components/TrackerRail.tsx). */}
+        <TrackerRail slugs={[entry.scheduleSlug, `${league}-uniform-schedule-2026-27`]}>
         <nav className="max-w-[980px] mx-auto px-5 pt-6 flex gap-3 flex-wrap">
           <a
             href={`/stories/${entry.scheduleSlug}`}
@@ -214,7 +218,7 @@ export default function WinterCalendarPage({
             {entry.games.length} games, {home} at home and {road} on the road.
           </p>
 
-          <WinterCalendarGrid entry={entry} league={league} />
+          <WinterCalendarGrid entry={entry} league={league} adSlots />
         </section>
 
         {recordTeam && <TrackerRecordsSection team={recordTeam} />}
@@ -233,8 +237,9 @@ export default function WinterCalendarPage({
             Frequently Asked Questions
           </h2>
           <div className="flex flex-col gap-4">
-            {faq.map((f) => (
+            {faq.map((f, fi) => (
               <div key={f.q}>
+                {fi === 3 && faq.length > 5 && <MvSlot className="mb-4" />}
                 <h3 className="text-[16px] font-bold text-blue-dark mb-1.5">{f.q}</h3>
                 <p className="text-[15px] text-black/70 leading-relaxed m-0">
                   {f.a}
@@ -275,6 +280,7 @@ export default function WinterCalendarPage({
             .
           </p>
         </section>
+        </TrackerRail>
       </main>
       <Footer />
     </>

@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Oklahoma is one of the few blue-blood programs that still keeps an alternate or two in the closet, which makes the Sooners a little harder to predict than Texas or Michigan. This is the full Oklahoma 2026 uniform schedule: the crimson home set, the white road set, the two alternates that could surface on a given Saturday, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 24:** Oklahoma wore a **crimson helmet, white jersey and white pants** at Mississippi State, confirmed from the team's game photos, and won **23-15**.
+**Update, November 15:** Oklahoma wore a **crimson helmet, crimson jersey and white pants** against Ole Miss in Norman, in the game moved to Sunday, confirmed from game photos, and won **24-17**.
 
 ## The Oklahoma 2026 Uniform Sets
 
@@ -26,7 +26,7 @@ Oklahoma is one of the few blue-blood programs that still keeps an alternate or 
   <div style="background: #FDF9D8; color: #841617; border: 1px solid #e8dfb0; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Wilkinson Throwback</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Plain white helmet with a single crimson stripe and no logo, crimson jersey with tri-striped sleeves, striped white pants. Debuted 2024, worn again against Kent State in 2025, and set for Kentucky on October 17.</div></div>
 </div>
 
-The crimson helmet is the constant. It sits on top of both standard sets, so the weekly question in Norman is usually just crimson jersey or white jersey, and whether the pants under it are cream or white. The two alternates are the wild cards. The anthracite Unity uniform has come out exactly once a season under Brent Venables, each time at home, and the Bud Wilkinson-era throwback with the logo-free white helmet has appeared in each of the last two seasons. The throwback is set for Kentucky on October 17, the Unity uniform has no 2026 date yet, and the old wood-grain Rough Riders look from the Bring the Wood era is retired, so we list alternates only when the program announces them in game week.
+The crimson helmet is the constant. It sits on top of both standard sets, so the weekly question in Norman is usually just crimson jersey or white jersey, and whether the pants under it are cream or white. The two alternates are the wild cards. The anthracite Unity uniform has come out exactly once a season under Brent Venables, each time at home, and the Bud Wilkinson-era throwback with the logo-free white helmet has appeared in each of the last two seasons. Oklahoma posted the throwback for Kentucky on October 17, the Unity uniform has no 2026 date yet, and the old wood-grain Rough Riders look from the Bring the Wood era is retired, so we list alternates only when the program announces them in game week.
 
 Under the SEC convention the home team wears color and the visitor wears white, which is how every unconfirmed date below is projected.
 
@@ -76,13 +76,13 @@ Under the SEC convention the home team wears color and the visitor wears white, 
 
 ## The Bottom Line
 
-Crimson at home, white on the road, the same crimson helmet on both, and one or two alternate weeks that Oklahoma announces on short notice. The Red River game on October 10 went as expected: crimson helmet, crimson jersey and white pants against Texas in all white, in a 27-24 win. The Wilkinson throwback is set for Kentucky on October 17, so the date left to watch is whichever home Saturday gets the anthracite Unity jersey.
+Crimson at home, white on the road, the same crimson helmet on both, and one or two alternate weeks that Oklahoma announces on short notice. The Red River game on October 10 went as expected: crimson helmet, crimson jersey and white pants against Texas in all white, in a 27-24 win. Oklahoma posted the Wilkinson throwback for Kentucky on October 17, so the date left to watch is whichever home game gets the anthracite Unity jersey, and Texas A&M on November 21 is the last home date of the regular season.
 
 ## Frequently Asked Questions
 
 **What jersey is Oklahoma wearing this week?**
 
-Oklahoma wore the crimson helmet, white jersey and white pants at Mississippi State on Saturday, October 24, confirmed from the team's game photos, and won 23-15. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The Sooners wear crimson at home and white on the road in 2026. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Oklahoma wore the crimson helmet, crimson jersey and white pants against Ole Miss in Norman on Sunday, November 15, confirmed from game photos, and won 24-17. Next is Texas A&M at home on November 21, where crimson is expected. The Sooners wear crimson at home and white on the road in 2026. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Oklahoma's uniforms for 2026?**
 

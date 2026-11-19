@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 App State runs one of the cleanest uniform programs in the Sun Belt: two jerseys, two helmets, gold on everything, and almost no gimmicks. This is the full Appalachian State 2026 uniform schedule, the black home set, the white road look, the helmets that go with each, and a week-by-week outlook for all twelve games. Two are already confirmed. We update this page as each combination is locked in.
 
-**Update, October 22:** App State beat James Madison **34-31 in overtime** on Thursday night in a **black helmet, black jersey and white pants**, confirmed from the team's game photos.
+**Update, November 14:** App State won **20-16** at Marshall in a **white helmet, black jersey and white pants**, confirmed from the game broadcast, wearing black rather than the expected white on the road.
 
 ## The App State 2026 Uniform Sets
 
@@ -94,13 +94,13 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
 
 ## The Bottom Line
 
-App State is not a uniform program in the Oregon sense and does not want to be. Black at home, white on the road, a matching helmet either way, gold on the edges of everything. Five games in, the Mountaineers had used both sets exactly as you would guess, including all black for Black Saturday against Charlotte and again for Homecoming against Old Dominion. Then came the first real swerve: the black jersey with gold pants on the road at Coastal Carolina on October 16. That leaves the Thursday nighter against James Madison on October 22 as the big home date still to come, and the most likely spot for anything new in 2026. The grid above has every date, and we add the stars as each look is confirmed.
+App State is not a uniform program in the Oregon sense and does not want to be. Black at home, white on the road, a matching helmet either way, gold on the edges of everything. Five games in, the Mountaineers had used both sets exactly as you would guess, including all black for Black Saturday against Charlotte and again for Homecoming against Old Dominion. Then came the first real swerve: the black jersey with gold pants on the road at Coastal Carolina on October 16. The Thursday nighter against James Madison on October 22 stayed in the black helmet and black jersey with white pants. Then came black jersey with gold pants for Heroes Day against Georgia State on November 7, and a white helmet with the black jersey and white pants at Marshall on November 14. The grid above has every date, and we add the stars as each look is confirmed.
 
 ## Frequently Asked Questions
 
 **What is App State wearing this week?**
 
-App State wore a black helmet, black jersey with gold and white sleeve stripes and white pants against James Madison on Thursday, October 22, confirmed from the team's game photos, and won 34-31 in overtime for Family Weekend. James Madison wore all white. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+App State wore a white helmet, black jersey and white pants at Marshall on Saturday, November 14, confirmed from the game broadcast, and won 20-16. Next is ULM at Kidd Brewer Stadium on Saturday, November 21, Senior Day, where black is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are App State's football uniforms for 2026?**
 
@@ -112,7 +112,7 @@ Black helmet, black jersey and black pants for the 55-3 win over Maine on Septem
 
 **Does App State have an alternate uniform in 2026?**
 
-Nothing has been announced. App State has stayed with the same two Nike sets through the first five games, including all black for Black Saturday against Charlotte on September 19 and for Homecoming against Old Dominion on October 10. For the Thursday night game against James Madison on October 22, App State wore its regular black helmet and black jersey with white pants.
+Nothing has been announced. App State has stayed with the same two Nike sets through the first five games, including all black for Black Saturday against Charlotte on September 19 and for Homecoming against Old Dominion on October 10. For the Thursday night game against James Madison on October 22, App State wore its regular black helmet and black jersey with white pants. It has since paired the black jersey with gold pants for Heroes Day against Georgia State on November 7 and with a white helmet and white pants at Marshall on November 14.
 
 **What conference is App State in for 2026?**
 

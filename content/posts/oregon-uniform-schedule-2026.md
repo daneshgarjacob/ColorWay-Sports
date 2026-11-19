@@ -42,7 +42,7 @@ Oregon is the one program where this page cannot be written in advance, and that
   <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Black &amp; Silver</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The other two regulars. Oregon mixes helmet, jersey and pants independently.</div></div>
 </div>
 
-Three combinations are on the board. **Yellow helmet, green jersey, yellow pants against Boise State on September 5, green helmet, white jersey, white pants at Oklahoma State on September 12, and all green against Portland State on September 18**, each marked with a ★ in the grid. Every other page in this series works because the program is predictable. Oregon works the opposite way: helmet, jersey and pants are chosen separately, which produces a combination count in the hundreds, and the Ducks routinely announce the week's look only days before kickoff. Treat every expectation below as a starting position rather than a forecast.
+The season opened with three combinations. **Yellow helmet, green jersey, yellow pants against Boise State on September 5, green helmet, white jersey, white pants at Oklahoma State on September 12, and all green against Portland State on September 18**, each marked with a ★ in the grid. Every other page in this series works because the program is predictable. Oregon works the opposite way: helmet, jersey and pants are chosen separately, which produces a combination count in the hundreds, and the Ducks routinely announce the week's look only days before kickoff. Treat every expectation below as a starting position rather than a forecast.
 
 ## The Full Oregon 2026 Uniform Schedule, Week by Week
 
@@ -108,7 +108,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oregon wearing this week?**
 
-Oregon wore the green chrome helmet with black wings, the black Fly Era jersey and bright green pants against Nebraska at Autzen on Saturday, October 17, confirmed by the team's uniform post and game photos, and won 17-14 with a touchdown in the final minute. The Ducks are 4-2. The week before, Oregon debuted the new [Origin of Speed uniform](/stories/oregon-origin-of-speed-uniforms-2026) in a 17-15 loss to UCLA. Next is Illinois on the road on October 24, in a yellow helmet with green chrome wings, a white jersey and white pants, confirmed by the team on October 21. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 7 Uniforms 2026](/stories/college-football-week-7-uniforms-2026) guide.
+Oregon wore a black helmet with Japanese katakana lettering, a black jersey with green numbers and white pants against Michigan at Autzen on Saturday, November 14, the "Game 10 uniform combo" confirmed by Oregon, and won 31-7. Next is Michigan State on the road on Friday, November 20, in a yellow helmet with green wings, a white jersey and yellow pants, confirmed by the team on November 18. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 7 Uniforms 2026](/stories/college-football-week-7-uniforms-2026) guide.
 
 **What are Oregon's uniforms for 2026?**
 

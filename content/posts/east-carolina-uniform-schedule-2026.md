@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 East Carolina has worn two completely different uniforms in two games: a white helmet with the old Pirates script at Alabama, then purple from head to toe for the home opener against App State. That is the ECU closet in a nutshell, deep enough that the helmet changes as often as the jersey. This is the full East Carolina 2026 uniform schedule: the purple home set, the white road set, the black alternate that comes out for Night of the Boneyard, and a week-by-week outlook for all twelve games, including two Thursday nights and a Friday night in Greenville. We update this page as each combination is confirmed.
 
-**Update, October 22:** East Carolina lost **41-34 in overtime** at Memphis on Thursday night in a **purple helmet with a gold facemask and a white jersey**, confirmed from the team's halftime graphic.
+**Update, November 14:** East Carolina wore a **black helmet and black jersey** at Charlotte, confirmed from the game broadcast, and won **17-16**. The week before, ECU wore black for the Night of the Boneyard win over South Florida.
 
 ## The East Carolina 2026 Uniform Sets
 
@@ -32,7 +32,7 @@ Everything is adidas. The ECU closet leans on its history more than most Group o
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ECUPiratesFB/status/1986087481305936352"></a></blockquote>
 </div>
 
-The other thing to know is that ECU ties its uniforms to what the crowd is told to wear. The home opener was Paint it Purple, and the team matched it in all purple. The November 6 game against South Florida is Paint It Black and Night of the Boneyard, named for the student section, and the Pirates have gone black for Boneyard nights before.
+The other thing to know is that ECU ties its uniforms to what the crowd is told to wear. The home opener was Paint it Purple, and the team matched it in all purple. The November 6 game against South Florida was Paint It Black and Night of the Boneyard, named for the student section, and the Pirates wore black, checked against the game photos.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ECUPiratesFB/status/1709737355433668913"></a></blockquote>
@@ -98,7 +98,7 @@ The American sells weeknight games to ESPN, and ECU carries three of them in 202
 
 ## The Bottom Line
 
-Two games in, East Carolina has used two helmets, two jerseys and two pant colors, and both looks were good ones. White is the call for the road games, and purple is the default in Greenville, with the pants and helmet genuinely in play each week. Homecoming against Rice on October 10 brought the purple helmet and purple jersey over white pants rather than a throwback, which leaves the Friday night Boneyard game against South Florida on November 6 as the date we would circle, the most likely spot for the black set. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+East Carolina has used several helmets, jerseys and pant colors this season, and the looks have been good ones. White is the call for the road games, and purple is the default in Greenville, with the pants and helmet genuinely in play each week. Homecoming against Rice on October 10 brought the purple helmet and purple jersey over white pants rather than a throwback, and the black set came out for the Friday night Boneyard game against South Florida on November 6, then again with the black helmet and black jersey at Charlotte on November 14. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ECUPiratesFB/status/2096218037242482699"></a></blockquote>
@@ -108,7 +108,7 @@ Two games in, East Carolina has used two helmets, two jerseys and two pant color
 
 **What jersey is East Carolina wearing this week?**
 
-East Carolina wore a purple helmet with a gold facemask and a white jersey at Memphis on Thursday, October 22, confirmed from the team's halftime graphic, and lost 41-34 in overtime. Memphis wore royal blue with gray pants. The week-by-week grid above lists every game with the expected uniform.
+East Carolina wore a black helmet and black jersey at Charlotte on Saturday, November 14, confirmed from the game broadcast, and won 17-16. Next is Army at Michie Stadium on Saturday, November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are East Carolina's football uniforms for 2026?**
 
@@ -120,11 +120,11 @@ The purple helmet, purple jersey and purple pants for the Paint it Purple home o
 
 **Does East Carolina have a black uniform?**
 
-Yes. ECU wears a black alternate for Night of the Boneyard, most recently shown off by the team in 2023. The 2026 Night of the Boneyard game is Friday, November 6 against South Florida, which ECU has also billed as Paint It Black. The team has not confirmed the uniform yet.
+Yes. ECU wears a black alternate for Night of the Boneyard, most recently shown off by the team in 2023. The 2026 Night of the Boneyard game was Friday, November 6 against South Florida, which ECU also billed as Paint It Black, and East Carolina wore black, checked against the game photos, in a 20-17 win.
 
 **When is Night of the Boneyard in 2026?**
 
-Friday, November 6 against South Florida at Dowdy-Ficklen Stadium, 7:30 p.m. Eastern. The game is also ECU's Military Appreciation Day and a Paint It Black crowd theme.
+Friday, November 6 against South Florida at Dowdy-Ficklen Stadium, 7:30 p.m. Eastern. The game was also ECU's Military Appreciation Day and a Paint It Black crowd theme.
 
 **Where does East Carolina play home games?**
 

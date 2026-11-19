@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Utah opened 2026 in all red twice and then broke out the Ute Proud look against Utah State on September 19, a white helmet with tribal interlocking U's over a red jersey and red pants, in a 33-0 win. This is the full Utah 2026 uniform schedule: the red home set, the white road set, the black alternate, the Ute Proud look and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 24:** Utah went **all black against No. 14 Houston**, black helmet, black jersey and black pants, confirmed from the team's game photos, and won **21-13**.
+**Update, November 14:** Utah wore a **black helmet, white jersey and white pants** at Arizona, confirmed from the game broadcast, and won **40-39**.
 
 ## The Utah 2026 Uniform Sets
 
@@ -85,7 +85,7 @@ Five games, three looks: Utah went all red three times, including the road trip 
 
 **What jersey is Utah wearing this week?**
 
-Utah wore all black against Houston on Saturday, October 24: a black helmet, black jersey and black pants, confirmed from the team's game photos, in a 21-13 win. Red had been expected. It came after two straight weeks in the icy white set. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026).
+Utah wore a black helmet, white jersey and white pants at Arizona on Saturday, November 14, confirmed from the game broadcast, and won 40-39. Next is TCU on the road on Saturday, November 21, where white is expected. Earlier, Utah wore all black against Houston on October 24, a black helmet, black jersey and black pants, confirmed from the team's game photos, in a 21-13 win.
 
 **What are Utah's football uniforms for 2026?**
 
@@ -101,7 +101,7 @@ All red: red helmet, red jersey and red pants, for the September 12 Red Out at R
 
 **Why does Utah wear all red?**
 
-The all-red set is Utah's home look of choice so far in 2026, worn against Idaho and again for the Red Out against Arkansas, when the athletic department asked fans to wear red. BYU on November 7 is also a Red Out.
+The all-red set is Utah's home look of choice so far in 2026, worn against Idaho and again for the Red Out against Arkansas, when the athletic department asked fans to wear red. BYU on November 7 was also a Red Out.
 
 **What is Utah's Ute Proud game?**
 

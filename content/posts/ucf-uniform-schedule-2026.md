@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 UCF has three helmets, two jerseys, three pants and a Thursday tradition of telling everyone exactly which ones are coming. This is the full UCF 2026 uniform schedule: the black home set the Knights call Knightmode, the all-white Lightmode road look, the Space Game alternate that lands on Halloween weekend, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 24:** UCF wore its Drip U Homecoming set against No. 2 BYU, a **gold helmet, black jersey and black pants**, confirmed from the team's game photos, and won **39-31 in double overtime**, which UCF called the highest ranked win in program history.
+**Update, November 14:** UCF wore a **gold helmet, black jersey and black pants with gold star details** against Arizona State, confirmed from the game broadcast, and lost **26-13**.
 
 ## The UCF 2026 Uniform Sets
 
@@ -115,13 +115,13 @@ Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and wi
 
 ## The Bottom Line
 
-Six games in, UCF has already shown all three helmets and both jerseys, added gold pants at Houston, and paired the gold helmet with white over white at Oklahoma State, which is exactly how this program operates. Black at home, white on the road, and a gold shell when the mood calls for it. The one date that matters most is October 30, when the tenth Space Game arrives on a Friday night and the Knights wear the Mission X set revealed on September 29. Everything else gets decided on a Monday and announced on a Thursday, and this grid gets a star the moment we see the uniform on the field.
+Six games in, UCF had already shown all three helmets and both jerseys, added gold pants at Houston, and paired the gold helmet with white over white at Oklahoma State, which is exactly how this program operates. Black at home, white on the road, and a gold shell when the mood calls for it. The Space Game against Baylor on October 30 was the date that mattered most, with the Mission X set revealed on September 29 and the SpaceU helmet posted on October 27. The last home date is Senior Knight against Iowa State on Friday, November 20, where black is expected. Everything else gets decided on a Monday and announced on a Thursday, and this grid gets a star the moment we see the uniform on the field.
 
 ## Frequently Asked Questions
 
 **What jersey is UCF wearing this week?**
 
-UCF wore the gold helmet, white jersey and white pants at Oklahoma State on Saturday, October 10, confirmed from the broadcast, and lost 42-28 to fall to 3-3. The week before, UCF lost 27-17 at Houston in the white helmet, white jersey and gold pants. UCF has a bye on October 17, then hosts BYU on October 24 for Homecoming in the gold helmet, black jersey and black pants, confirmed by the team on October 22.
+UCF wore the gold helmet, black jersey and black pants with gold star details against Arizona State on Saturday, November 14, confirmed from the game broadcast, and lost 26-13. The week before, UCF won 33-32 at Kansas in a white jersey and black pants. Next is Iowa State at home on Friday, November 20, Senior Knight, where black is expected.
 
 **What are UCF's football uniforms for 2026?**
 
@@ -133,7 +133,7 @@ Knightmode is UCF's all-black look: black helmet, black jersey and black pants. 
 
 **When is the UCF Space Game in 2026?**
 
-Friday, October 30 against Baylor at 7:30 p.m. Eastern on ESPN. It is the tenth annual Space Game, and the Big 12 moved it off Saturday for the second year in a row. The 2026 alternate, Mission X, was revealed on September 29: a NASA-inspired look with a red helmet stripe, a chrome gold facemask and a chrome silver stacked logo over an American flag. The 2025 edition was the HyperSpace set with a carbon fiber helmet.
+Friday, October 30 against Baylor, on ESPN. It was the tenth annual Space Game, and the Big 12 moved it off Saturday for the second year in a row. The 2026 alternate, Mission X, was revealed on September 29: a NASA-inspired look with a red helmet stripe, a chrome gold facemask and a chrome silver stacked logo over an American flag. The 2025 edition was the HyperSpace set with a carbon fiber helmet.
 
 **When does UCF announce its uniform each week?**
 

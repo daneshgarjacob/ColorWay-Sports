@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Michigan State wears green at home and white on the road, but the Spartans reveal a new helmet, jersey and pants combination almost every week, so the base colors are only half the answer. This is the full Michigan State 2026 uniform schedule: the green home set, the white road set, the Greek key helmets, the black alternate, and a week-by-week outlook for all twelve games in Pat Fitzgerald's first season. Six games in, the Spartans have worn green over white pants twice, green head to toe twice, and the white jersey on both road trips. We update this page as each combination is confirmed.
 
-**Update, October 24:** Michigan State wore the **green helmet, white jersey and green pants** it posted for UCLA and lost **28-10** at the Rose Bowl.
+**Update, November 14:** Michigan State wore the **green jersey** against Washington, confirmed from the game broadcast, and lost **21-14**.
 
 ## The Michigan State 2026 Uniform Sets
 
@@ -80,13 +80,13 @@ The current Nike set arrived in 2023 and built everything around a Greek key pat
 
 ## The Bottom Line
 
-Michigan State has used the green jersey and the green helmet in all four home games so far, over white pants for the opener and Homecoming and twice in the all-green look. The road half of the schedule is predictable: white at Notre Dame, Wisconsin, UCLA, Michigan and Rutgers, with the helmet the only real variable. The home dates are where this program experiments, and after a standard green Homecoming against Illinois, the Friday night Oregon game is the most likely place for the black set or something new. The grid above has every date, and we star each game as the combination is confirmed.
+Michigan State used the green jersey and the green helmet in its first four home games, over white pants for the opener and Homecoming and twice in the all-green look. The road half of the schedule is predictable: white at Notre Dame, Wisconsin, UCLA, Michigan and Rutgers, with the helmet the only real variable. The home dates are where this program experiments, and after a standard green Homecoming against Illinois, the Friday night Oregon game is the most likely place for the black set or something new. The grid above has every date, and we star each game as the combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Michigan State wearing this week?**
 
-Michigan State wore the green helmet, white jersey and green pants at UCLA on Saturday, October 24, as posted in its "Gameday Threads" video, and lost 28-10 to the Bruins in their powder blue Homecoming set. Michigan State is off on October 31. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
+Michigan State wore the green jersey against Washington on Saturday, November 14, confirmed from the game broadcast, and lost 21-14. Next is Oregon at home on Friday, November 20, where green is expected. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
 
 **What are Michigan State's football uniforms for 2026?**
 

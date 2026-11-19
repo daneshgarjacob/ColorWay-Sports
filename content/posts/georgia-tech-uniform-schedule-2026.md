@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Georgia Tech changed brands this summer, and the wardrobe changed with it. This is the full Georgia Tech 2026 uniform schedule: the new Under Armour gold and white sets, the gold and white helmets, the three pant colors, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 24:** Georgia Tech wore a **gold helmet, white jersey and gold pants** for Homecoming against Boston College, confirmed from the team's game photos, and lost **49-27**.
+**Update, November 14:** Georgia Tech wore a **white helmet, white jersey and gold pants** at Clemson, confirmed from the game broadcast, and won **20-6**.
 
 ## The Georgia Tech 2026 Uniform Sets
 
@@ -80,7 +80,7 @@ Five games in, Georgia Tech has shown most of the new Under Armour wardrobe: the
 
 **What jersey is Georgia Tech wearing this week?**
 
-Georgia Tech wore a gold helmet, white jersey and gold pants for Homecoming against Boston College at Bobby Dodd Stadium on Saturday, October 24, confirmed from the team's game photos, and lost 49-27. Gold had been expected at home. Next is at Pitt on Halloween, October 31, where white is expected. Georgia Tech wears gold at home and white on the road in 2026, and we update the grid above as combinations are confirmed.
+Georgia Tech wore a white helmet, white jersey and gold pants at Clemson on Saturday, November 14, confirmed from the game broadcast, and won 20-6. Next is Wake Forest at home on November 21, the last home game of the season, where gold is expected. Georgia Tech wears gold at home and white on the road in 2026, and we update the grid above as combinations are confirmed.
 
 **What are Georgia Tech's uniforms for 2026?**
 

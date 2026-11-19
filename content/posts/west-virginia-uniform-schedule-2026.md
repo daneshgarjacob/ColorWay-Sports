@@ -13,9 +13,9 @@ teams: ["west-virginia-mountaineers", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-West Virginia opened 2026 in all white for Pat White and has worn a different look in each of its six games, most recently all black for Coal Rush in a 52-31 loss to Arizona on October 10. Next is Cincinnati at home on October 17 for Homecoming, where navy or gold is expected. This is the full West Virginia 2026 uniform schedule: navy, gold, and white jerseys that mix freely with navy, gold, and white pants, a new gloss white helmet, the black Coal Rush set, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+West Virginia opened 2026 in all white for Pat White and wore a different look in each of its first six games, including all black for Coal Rush against Arizona on October 10. Most recently it wore the navy helmet and navy jersey in a 37-14 loss to Kansas on November 14, confirmed from the game broadcast. Next is Houston at home on November 21, Senior Day and the final home game, where navy is expected. This is the full West Virginia 2026 uniform schedule: navy, gold, and white jerseys that mix freely with navy, gold, and white pants, a new gloss white helmet, the black Coal Rush set, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 24:** West Virginia wore **all white** at TCU, with the gold Flying WV on a white helmet, confirmed from the team's game photos, and won **24-20**.
+**Update, November 14:** West Virginia wore the **navy helmet and navy jersey** against Kansas for Heroes Day, confirmed from the game broadcast, and lost **37-14**.
 
 ## The West Virginia 2026 Uniform Sets
 
@@ -88,7 +88,7 @@ Six games in, West Virginia has shown six different looks: head-to-toe white for
 
 **What jersey is West Virginia wearing this week?**
 
-West Virginia wore all white at TCU on Saturday, October 24: the white helmet with the gold Flying WV, a white jersey and white pants, confirmed from the team's game photos, in a 24-20 win. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The grid above lists every game with the expected set.
+West Virginia wore the navy helmet and navy jersey against Kansas on Saturday, November 14, confirmed from the game broadcast, and lost 37-14. The week before, it wore a navy helmet, white jersey and gold pants in a 53-48 loss at Texas Tech. Next is Houston at home on Saturday, November 21, Senior Day and the final home game, where navy is expected. The grid above lists every game with the expected set.
 
 **What are West Virginia's football uniforms for 2026?**
 
@@ -96,7 +96,7 @@ Navy, gold, and white jerseys with the crescent shoulder stripe, plus navy, gold
 
 **Does West Virginia have a new alternate uniform in 2026?**
 
-No new jersey has been announced. The new piece for 2026 is the gloss white helmet, which replaced the matte white helmet used since 2013 and debuted in the White Out opener. Coal Rush returned against Arizona on October 10 in all black, and a flag helmet decal is expected for Heroes Day against Kansas on November 14.
+No new jersey has been announced. The new piece for 2026 is the gloss white helmet, which replaced the matte white helmet used since 2013 and debuted in the White Out opener. Coal Rush returned against Arizona on October 10 in all black, and local coverage expected a flag helmet decal for Heroes Day against Kansas on November 14, when West Virginia wore the navy helmet and navy jersey.
 
 **Why did West Virginia wear all white against Coastal Carolina?**
 

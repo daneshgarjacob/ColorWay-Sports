@@ -13,9 +13,9 @@ teams: ["navy-midshipmen", "american-conference"]
 resurfaceOnUpdate: true
 ---
 
-Navy owns two of the biggest uniform dates on the college football calendar and it has now announced what it is wearing for both. This is the full Navy 2026 uniform schedule: the navy home jersey, the white road set, the gold helmet that never changes, the 1926 centennial throwback the Midshipmen will wear against Notre Dame at Gillette Stadium, and the December Army-Navy uniform honoring the Navy SEALs, revealed November 12. We update this page as each combination is confirmed.
+Navy owns two of the biggest uniform dates on the college football calendar and it has now announced what it is wearing for both. This is the full Navy 2026 uniform schedule: the navy home jersey, the white road set, the gold helmet that never changes, the 1926 centennial throwback the Midshipmen announced for Notre Dame at Gillette Stadium, and the December Army-Navy uniform honoring the Navy SEALs, revealed November 12. We update this page as each combination is confirmed.
 
-**Update, October 24:** Navy wore the **gold helmet, navy jersey and navy pants** for Homecoming against North Texas, confirmed from the team's halftime graphic, and lost **49-39**.
+**Update, November 7:** Navy wore the **gold helmet, navy jersey and gold pants** against Temple, confirmed from the game broadcast, and won **42-35**.
 
 ## The Navy 2026 Uniform Sets
 
@@ -120,7 +120,7 @@ Navy also comes into December holding the Commander-in-Chief's Trophy after winn
 
 ## The Bottom Line
 
-Navy's regular season uniform schedule is simple: navy and gold at home, white on the road unless the home team picks white, gold helmet every single week. What makes this the best uniform program in college football is the two dates it builds something for. One of them is already public, the 1926 Chevron Stripe centennial against Notre Dame at Gillette Stadium on October 31, and it is a real throwback with real math built into the stripes. The other is the Army-Navy Game on December 12, and nobody outside Annapolis and Under Armour has seen it yet. The grid above has every date, and we star each cell as the combination is confirmed.
+Navy's regular season uniform schedule is simple: navy and gold at home, white on the road unless the home team picks white, gold helmet every single week. What makes this the best uniform program in college football is the two dates it builds something for. One of them is already public, the 1926 Chevron Stripe centennial against Notre Dame at Gillette Stadium on October 31, and it is a real throwback with real math built into the stripes. The other is the Army-Navy Game on December 12, and Navy revealed that one on November 12: a Naval Special Warfare tribute to the Navy SEALs. The grid above has every date, and we star each cell as the combination is confirmed.
 
 For where these colors came from, the logos, and every special Army-Navy uniform Navy has worn since 2008, see our [Navy football uniform and logo history](/stories/navy-football-uniform-logo-history).
 
@@ -128,7 +128,7 @@ For where these colors came from, the logos, and every special Army-Navy uniform
 
 **What jersey is Navy wearing this week?**
 
-Navy wore the gold helmet, navy jersey and navy pants for Homecoming against North Texas on Saturday, October 24, confirmed from the team's halftime graphic, and lost 49-39. Next is Notre Dame at Gillette Stadium on October 31 in the 1926 centennial uniform. The grid above lists every game with the expected set and we star each one as it is confirmed.
+Navy wore the gold helmet, navy jersey and gold pants against Temple on Saturday, November 7, confirmed from the game broadcast, and won 42-35. Navy was off on November 14. Next is Memphis at home on November 21, the final home game of the regular season, where navy is expected. The grid above lists every game with the expected set and we star each one as it is confirmed.
 
 **What are Navy's football uniforms for 2026?**
 
@@ -136,7 +136,7 @@ A navy blue home jersey with gold numerals and gold and white shoulder stripes o
 
 **Does Navy have a new alternate uniform in 2026?**
 
-Yes. Navy announced on September 15 that it will wear a commemorative Under Armour uniform honoring the 100th anniversary of the 1926 national championship team against Notre Dame on October 31 at Gillette Stadium. The jersey is a modern take on the 1926 Chevron Stripe design with nine stripes across the body for the team's nine wins, numerals drawn from the Class of 1926 pin, a locker tag reproducing that pin, "Navy Blue and Gold" inside the collar, and a 100th anniversary patch. A separate Army-Navy Game uniform has not been revealed.
+Yes. Navy announced on September 15 that it would wear a commemorative Under Armour uniform honoring the 100th anniversary of the 1926 national championship team against Notre Dame on October 31 at Gillette Stadium. The jersey is a modern take on the 1926 Chevron Stripe design with nine stripes across the body for the team's nine wins, numerals drawn from the Class of 1926 pin, a locker tag reproducing that pin, "Navy Blue and Gold" inside the collar, and a 100th anniversary patch. The separate Army-Navy Game uniform, a Naval Special Warfare tribute, was revealed on November 12.
 
 **What is Navy wearing for the Army-Navy Game in 2026?**
 

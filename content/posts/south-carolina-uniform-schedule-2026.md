@@ -13,9 +13,9 @@ teams: ["south-carolina-gamecocks", "sec"]
 resurfaceOnUpdate: true
 ---
 
-South Carolina wore garnet jerseys under white helmets for the opener against Kent State, then went black with a one-night Cocky helmet against Towson. Then came Mississippi State at Williams-Brice Stadium on September 19, where the Gamecocks went garnet head to toe. They went all white at Alabama on September 26, wore a white helmet with a black jersey and black pants against Kentucky on October 3, then wore a garnet helmet, garnet jersey and white pants in a 38-19 win at Florida on October 10. This is the full South Carolina 2026 uniform schedule: the garnet, white and black sets from the program's first Nike season, the helmets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+South Carolina wore garnet jerseys under white helmets for the opener against Kent State, then went black with a one-night Cocky helmet against Towson. Then came Mississippi State at Williams-Brice Stadium on September 19, where the Gamecocks went garnet head to toe. They went all white at Alabama on September 26, wore a white helmet with a black jersey and black pants against Kentucky on October 3, then wore a garnet helmet, garnet jersey and white pants in a 38-19 win at Florida on October 10. Since then they have gone all black against Tennessee, black helmet and black jersey over garnet pants against Texas A&M, and all white at Arkansas. This is the full South Carolina 2026 uniform schedule: the garnet, white and black sets from the program's first Nike season, the helmets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, October 24:** South Carolina went **all black against No. 11 Tennessee**, black helmet, black jersey and black pants, confirmed from the team's pregame photos, and won **27-24**.
+**Update, November 14:** South Carolina wore a **white helmet with the garnet block C and gamecock, white jersey and white pants** at Arkansas, confirmed from the team's helmet post and the game broadcast, and lost **34-6**.
 
 ## The South Carolina 2026 Uniform Sets
 
@@ -80,7 +80,7 @@ Six games into the Nike era, South Carolina has shown six different combinations
 
 **What jersey is South Carolina wearing this week?**
 
-South Carolina wore all black against Tennessee on Saturday, October 24: a black helmet, black jersey with garnet trim and black pants with a garnet stripe, confirmed from the team's pregame photos. The Gamecocks won 27-24. Garnet had been expected. Every Week 8 look is in our [Week 8 college uniform guide](/stories/college-football-week-8-uniforms-2026). The grid above lists every game, and we update it when each combination is confirmed.
+South Carolina wore a white helmet with the garnet block C and gamecock and a garnet facemask, a white jersey and white pants at Arkansas on Saturday, November 14, confirmed from the team's helmet post and the game broadcast. Arkansas won 34-6. Next is Georgia at home on November 21, where garnet is expected. The grid above lists every game, and we update it when each combination is confirmed.
 
 **What are South Carolina's football uniforms for 2026?**
 

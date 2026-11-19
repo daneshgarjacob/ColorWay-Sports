@@ -13,7 +13,7 @@ teams: ["arkansas-razorbacks", "sec"]
 resurfaceOnUpdate: true
 ---
 
-Arkansas wears cardinal at home and white on the road in 2026, and through six games it has done exactly that: cardinal helmet, cardinal jersey and white pants against North Alabama, white from helmet to cleats at Utah, the cardinal home set against Georgia and Tulsa, the cardinal helmet over white at Texas A&M, then the cardinal home set again against Tennessee. This is the full Arkansas 2026 uniform schedule, with the two sets in the rotation, the new Tyson Foods jersey patch, what we know about alternates, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+Arkansas wears cardinal at home and white on the road in 2026, and in every game we have logged it has done exactly that: cardinal helmet, cardinal jersey and white pants against North Alabama, white from helmet to cleats at Utah, the cardinal home set against Georgia and Tulsa, the cardinal helmet over white at Texas A&M, the cardinal home set again against Tennessee, the cardinal helmet over white at Vanderbilt, and the cardinal home set against South Carolina on November 14. This is the full Arkansas 2026 uniform schedule, with the two sets in the rotation, the new Tyson Foods jersey patch, what we know about alternates, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
 ## The Arkansas 2026 Uniform Sets
 
@@ -78,7 +78,7 @@ The base sets are what Arkansas fans call the D-Mac era uniforms, a modern take 
 
 ## The Bottom Line
 
-Six games in, Arkansas has used the cardinal home set four times, the all-white road look once and the cardinal helmet over the white road jersey once, so the white helmet has made one appearance. Nothing else is on the calendar: no anthracite, no throwback, and a new head coach who says year one is about the traditional looks. The only new detail on the jersey this season is the Tyson Foods patch on the right shoulder. The Southwest Classic at Kyle Field is the game where Arkansas has broken form before, but the Razorbacks wore the standard road set for it on October 3: cardinal helmet, white jersey, white pants, against Texas A&M's camo, in a 34-7 loss. Every date is above, and we add the stars as each uniform is confirmed.
+In the eight games we have logged, Arkansas has used the cardinal home set five times, the all-white road look once and the cardinal helmet over the white road jersey twice, so the white helmet has made one appearance. Nothing else is on the calendar: no anthracite, no throwback, and a new head coach who says year one is about the traditional looks. The only new detail on the jersey this season is the Tyson Foods patch on the right shoulder. The Southwest Classic at Kyle Field is the game where Arkansas has broken form before, but the Razorbacks wore the standard road set for it on October 3: cardinal helmet, white jersey, white pants, against Texas A&M's camo, in a 34-7 loss. Every date is above, and we add the stars as each uniform is confirmed.
 
 Want every big game in one place? Our [college football Week 5 uniform guide](/stories/college-football-week-5-uniforms-2026) has what every top team wore on October 3.
 
@@ -86,7 +86,7 @@ Want every big game in one place? Our [college football Week 5 uniform guide](/s
 
 **What jersey is Arkansas wearing this week?**
 
-Arkansas wore the standard home set against Tennessee on Saturday, October 10: cardinal helmet, cardinal jersey and white pants, confirmed from the broadcast, against the Vols in all white. Tennessee won 24-17, and Arkansas is 2-4. Next up is a trip to Vanderbilt on October 17 in the cardinal helmet, white jersey and white pants, confirmed by the team. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Arkansas wore the standard home set against South Carolina on Saturday, November 14: cardinal helmet, cardinal jersey and white pants, confirmed from the game broadcast, and won 34-6. Next up is a trip to Texas on November 21, where white is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Arkansas's football uniforms for 2026?**
 

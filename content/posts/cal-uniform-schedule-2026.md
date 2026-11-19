@@ -153,7 +153,7 @@ Six games in, Cal is 3-3 and has worn the best throwback of the 2026 season, its
 
 **What jersey is Cal wearing this week?**
 
-Cal wore the navy helmet, white jersey and navy pants at SMU on Saturday, October 24, as posted by the team, and lost 59-20 after leading 20-17 at halftime. SMU wore its new Dallas set. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Cal lost 36-7 at Virginia on Saturday, November 14; we have not logged that uniform yet. The last look we have on record is the navy helmet, white jersey and navy pants at SMU on Saturday, October 24, as posted by the team, in a 59-20 loss after leading 20-17 at halftime. Next is Stanford at California Memorial Stadium on Saturday, November 21, the 129th Big Game, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Cal's football uniforms for 2026?**
 
@@ -169,7 +169,7 @@ Yes, a new helmet. Cal revealed a gold Grateful Dead helmet on October 12 for th
 
 **Is Cal wearing a Grateful Dead helmet?**
 
-Yes. Cal Football revealed a Grateful Dead helmet on October 12, and it is set for the Grateful Bears game against No. 21 Wake Forest on Saturday, October 17, at 7:30 p.m. Pacific on ESPN2. It is a gold helmet with the Cal script inside a Steal Your Face skull, a tie-dye blue center stripe with a white lightning bolt, and the dancing bears on the rear bumper. It goes with the blue jersey and gold pants.
+Yes. Cal Football revealed a Grateful Dead helmet on October 12, for the Grateful Bears game against No. 21 Wake Forest on Saturday, October 17, at 7:30 p.m. Pacific on ESPN2. It is a gold helmet with the Cal script inside a Steal Your Face skull, a tie-dye blue center stripe with a white lightning bolt, and the dancing bears on the rear bumper. Cal paired it with the blue jersey and gold pants.
 
 **What is on the back of the Cal Grateful Dead helmet?**
 
