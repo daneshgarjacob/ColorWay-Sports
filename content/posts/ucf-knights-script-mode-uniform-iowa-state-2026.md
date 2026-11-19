@@ -62,7 +62,7 @@ Iowa State is the road team and is expected in white. The Cyclones had not poste
 
 ## Our Take
 
-The script is the better logo on a black helmet. The stacked UCF is clean but generic, and the gold script gives the black shell a real identity, the kind of look that should show up more than once a year. All black below it keeps the attention on the helmet. **Grade: A-.**
+The script is better than UCF's normal helmet logo, and it should show up more than once a year. The problem is everything around it. This is another all-black uniform, and black and gold are not colors we love on this team. A good helmet on a plain uniform. **Grade: C.**
 
 ## Frequently Asked Questions
 

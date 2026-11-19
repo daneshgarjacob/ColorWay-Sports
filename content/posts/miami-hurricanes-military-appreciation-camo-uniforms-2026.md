@@ -59,7 +59,7 @@ Miami has spent most of 2026 in its base sets: all white on the road at Stanford
 
 ## Our Take
 
-The black pants are the right call. The olive made last year's version look like a costume from the waist down, and black ties the jersey to the helmet. If the camo itself really is greener this year, that is an upgrade too, because a green-based camo reads as Miami in a way the tan did not. **Grade: B+.** We will revisit it after we see it under the lights on Saturday.
+This year's version is better than last year's because it is no longer camo from top to bottom. The black pants are the right call, and the green pants were the weakest part of the 2025 look. What is still missing is orange. A little orange on the helmet would make this read as Miami and not just as a camo uniform. **Grade: B-.** Last year's version, with the green pants, gets a **C+.**
 
 ## Frequently Asked Questions
 

@@ -16,6 +16,11 @@ teams: ["boston-celtics"]
 
 It is the **fourth season** of the Amazing Maine series, and each year the uniform has borrowed from a different piece of L.L.Bean's catalog. The Celtics will wear the camo set for **five games**, starting **Sunday, November 22, against Capital City** at 1 p.m.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MaineCeltics/status/2123529839768649775"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The new L.L.Bean uniforms, via <a href="https://x.com/MaineCeltics" target="_blank" rel="noopener">@MaineCeltics</a></p>
+
 ## Quick Answers
 
 - **What is the Maine Celtics L.L.Bean jersey?** A specialty uniform that puts L.L.Bean's classic camouflage pattern on a basketball uniform, in a green colorway inspired by the Celtics.
@@ -76,7 +81,7 @@ Each game recognizes a different Maine nonprofit. Times are as listed in the tea
 
 This is the right kind of minor league partnership. A sponsor uniform usually means a logo slapped on a jersey. Here the sponsor's product is the design, and the product happens to be one of the most Maine things you can put on a basketball court.
 
-Turning L.L.Bean camo green is the smart move. Straight hunting camo would have looked like a costume. In Celtics green it still looks like the Celtics. The open question is how busy an allover pattern reads from the stands, and November 22 will answer it.
+Turning L.L.Bean camo green is the smart move. Straight hunting camo would have looked like a costume, and in Celtics green it still looks like the Celtics. We like it without loving it: an allover pattern is a lot to look at for a full game. **Grade: B-.**
 
 The parent club's full closet is in our [Celtics 2026-27 uniform schedule](/stories/celtics-uniform-schedule-2026-27), and Boston's holiday look is in [our Celtics Christmas jersey breakdown](/stories/celtics-christmas-jersey-2026).
 
