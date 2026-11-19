@@ -2,7 +2,7 @@
 title: "Nets Uniform Schedule 2026-27: Every Jersey for All 80 Games, Including 16 Classic Nights"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-11-17"
+updatedDate: "2026-11-18"
 excerpt: "The Nets set a jersey for all 80 games: 22 Association, 17 Statement, 16 Classic, 14 Icon, 11 City. Every date, home and road, counted."
 gradient: "linear-gradient(135deg, #000000 0%, #FFFFFF 100%)"
 cardStyle: words
@@ -39,6 +39,14 @@ A few things jump out of the count:
 - **The Statement owns February at Barclays.** Six straight home Statement games from January 27 to February 25, Phoenix through Philadelphia.
 
 ## The Nets Uniform Closet for 2026-27
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 12px; margin: 1.25em 0 1.5em;">
+  <figure style="margin: 0; width: 100%; max-width: 160px; justify-self: center; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 12px; padding: 8px 8px 10px; text-align: center;"><img src="/images/posts/nba-daily-tracker/nets-association.jpg" alt="Brooklyn Nets Association Edition jersey for 2026-27: white" loading="lazy" decoding="async" style="display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: contain; background: #ffffff; border-radius: 8px;"><figcaption style="margin-top: 6px; font-size: 0.85em; font-weight: 700; line-height: 1.3; color: #14284b;">White &middot; Association</figcaption></figure>
+  <figure style="margin: 0; width: 100%; max-width: 160px; justify-self: center; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 12px; padding: 8px 8px 10px; text-align: center;"><img src="/images/posts/nba-daily-tracker/nets-icon.jpg" alt="Brooklyn Nets Icon Edition jersey for 2026-27: black with BROOKLYN" loading="lazy" decoding="async" style="display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: contain; background: #ffffff; border-radius: 8px;"><figcaption style="margin-top: 6px; font-size: 0.85em; font-weight: 700; line-height: 1.3; color: #14284b;">Black with BROOKLYN &middot; Icon</figcaption></figure>
+  <figure style="margin: 0; width: 100%; max-width: 160px; justify-self: center; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 12px; padding: 8px 8px 10px; text-align: center;"><img src="/images/posts/nba-daily-tracker/nets-statement.jpg" alt="Brooklyn Nets Statement Edition jersey for 2026-27: black with NETS" loading="lazy" decoding="async" style="display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: contain; background: #ffffff; border-radius: 8px;"><figcaption style="margin-top: 6px; font-size: 0.85em; font-weight: 700; line-height: 1.3; color: #14284b;">Black with NETS &middot; Statement</figcaption></figure>
+  <figure style="margin: 0; width: 100%; max-width: 160px; justify-self: center; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 12px; padding: 8px 8px 10px; text-align: center;"><img src="/images/posts/nba-city-edition-jerseys-2026-27/nets-city-edition.jpg" alt="Brooklyn Nets City Edition jersey for 2026-27: black with Coogi trim" loading="lazy" decoding="async" style="display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: contain; background: #ffffff; border-radius: 8px;"><figcaption style="margin-top: 6px; font-size: 0.85em; font-weight: 700; line-height: 1.3; color: #14284b;">Black with Coogi trim &middot; City</figcaption></figure>
+  <figure style="margin: 0; width: 100%; max-width: 160px; justify-self: center; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 12px; padding: 8px 8px 10px; text-align: center;"><img src="/images/posts/nba-daily-tracker/nets-classic.jpg" alt="Brooklyn Nets Classic Edition jersey for 2026-27: white with red Nets script" loading="lazy" decoding="async" style="display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: contain; background: #ffffff; border-radius: 8px;"><figcaption style="margin-top: 6px; font-size: 0.85em; font-weight: 700; line-height: 1.3; color: #14284b;">White with red Nets script &middot; Classic</figcaption></figure>
+</div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Association Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The white set. 22 games, 14 of them on the road.</div></div>

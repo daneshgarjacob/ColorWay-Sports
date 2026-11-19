@@ -2,7 +2,7 @@
 title: "Cavaliers Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-11-17"
+updatedDate: "2026-11-18"
 excerpt: "The full Cavaliers uniform schedule for 2026-27: the jersey for all 80 dated games, how many times they wear each one, and every City Edition date."
 gradient: "linear-gradient(135deg, #860038 0%, #FDBB30 100%)"
 cardStyle: words
@@ -33,6 +33,13 @@ That covers all 80 games the league has dated. The last two December dates wait 
 <!-- nba-uniform-counts:grid:end -->
 
 ## The Cavaliers Uniform Closet for 2026-27
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 12px; margin: 1.25em 0 1.5em;">
+  <figure style="margin: 0; width: 100%; max-width: 160px; justify-self: center; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 12px; padding: 8px 8px 10px; text-align: center;"><img src="/images/posts/nba-daily-tracker/cavaliers-association.jpg" alt="Cleveland Cavaliers Association Edition jersey for 2026-27: white" loading="lazy" decoding="async" style="display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: contain; background: #ffffff; border-radius: 8px;"><figcaption style="margin-top: 6px; font-size: 0.85em; font-weight: 700; line-height: 1.3; color: #14284b;">White &middot; Association</figcaption></figure>
+  <figure style="margin: 0; width: 100%; max-width: 160px; justify-self: center; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 12px; padding: 8px 8px 10px; text-align: center;"><img src="/images/posts/nba-daily-tracker/cavaliers-icon.jpg" alt="Cleveland Cavaliers Icon Edition jersey for 2026-27: wine" loading="lazy" decoding="async" style="display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: contain; background: #ffffff; border-radius: 8px;"><figcaption style="margin-top: 6px; font-size: 0.85em; font-weight: 700; line-height: 1.3; color: #14284b;">Wine &middot; Icon</figcaption></figure>
+  <figure style="margin: 0; width: 100%; max-width: 160px; justify-self: center; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 12px; padding: 8px 8px 10px; text-align: center;"><img src="/images/posts/nba-daily-tracker/cavaliers-statement.jpg" alt="Cleveland Cavaliers Statement Edition jersey for 2026-27: black with gold C" loading="lazy" decoding="async" style="display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: contain; background: #ffffff; border-radius: 8px;"><figcaption style="margin-top: 6px; font-size: 0.85em; font-weight: 700; line-height: 1.3; color: #14284b;">Black with gold C &middot; Statement</figcaption></figure>
+  <figure style="margin: 0; width: 100%; max-width: 160px; justify-self: center; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 12px; padding: 8px 8px 10px; text-align: center;"><img src="/images/posts/nba-city-edition-jerseys-2026-27/cavaliers-city-edition.jpg" alt="Cleveland Cavaliers City Edition jersey for 2026-27: white fading to light blue" loading="lazy" decoding="async" style="display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: contain; background: #ffffff; border-radius: 8px;"><figcaption style="margin-top: 6px; font-size: 0.85em; font-weight: 700; line-height: 1.3; color: #14284b;">White fading to light blue &middot; City</figcaption></figure>
+</div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 1.5em 0;">
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.85;">Association Edition</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">The white set. Worn at home for most of the season.</div></div>
