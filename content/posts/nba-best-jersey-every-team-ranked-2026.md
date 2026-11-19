@@ -422,6 +422,9 @@ Gold, with LAKERS in purple across the chest. That is the whole jersey and the w
 
 **Teams hide their best jerseys.** The Knicks wear their blue 12 times and their white 40. The Heat wear their red 12 times. The Grizzlies, Nuggets, Spurs and Clippers picks do not show up until January at all.
 
+
+<p style="font-size: 0.92em; color: #3a4a68; margin: 1.2em 0 1.6em;">Where to get it: <a href="https://fanatics.93n6tx.net/5kZn3j?subId1=nba-best-jersey-every-team-ranked-2026&u=https%3A%2F%2Fwww.fanatics.com%2Fsearch%3Fquery%3Dnba%2520swingman%2520jerseys" rel="sponsored noopener" target="_blank">every NBA Swingman jersey on this list at Fanatics</a>. That is an affiliate link and we earn a small commission if you buy.</p>
+
 ## Frequently Asked Questions
 
 **What is the best NBA jersey in 2026?**
