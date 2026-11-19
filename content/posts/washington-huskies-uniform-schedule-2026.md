@@ -3,7 +3,7 @@ title: "Washington Huskies Uniform Schedule 2026: Every Jersey and When the Husk
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-18"
 excerpt: "Washington Huskies uniform schedule 2026: every jersey and uniform week by week, from purple home and white road to the new all-black Dawgs alternate."
 gradient: "linear-gradient(135deg, #4B2E83 0%, #3a2366 55%, #B7A57A 130%)"
 cardStyle: words
@@ -12,6 +12,13 @@ league: "college"
 teams: ["washington-huskies", "big-ten"]
 resurfaceOnUpdate: true
 ---
+
+**Update, November 18:** Washington will wear its **"Husky Heritage"** look against Indiana on Saturday: a **gold helmet with a purple and white center stripe** and DAWGS on the front bumper, a **purple jersey with white numbers** and **gold pants**, posted by the team Wednesday.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UW_Football/status/2123205949334925782"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Washington's Husky Heritage uniform for Indiana, via <a href="https://x.com/UW_Football" target="_blank" rel="noopener">@UW_Football</a></p>
 
 Washington has worn the gold helmet in five of six games in 2026: purple over gold pants in the Apple Cup win over Washington State and the 16-14 escape against Utah State, purple over white pants against Eastern Washington, white over white pants in the 25-21 loss at USC, and all purple in the 41-24 loss to Iowa. The all-black Dawgs alternate came out once, for the Minnesota blackout. This is the full Washington Huskies 2026 uniform schedule: the purple home set, the white road set, the all-purple option, the new all-black Dawgs alternate, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
@@ -40,7 +47,7 @@ The core set dates to the adidas refresh of June 2025, which brought back the go
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #4B2E83; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #4B2E83; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
+  <div style="background: #4B2E83; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Purple / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -74,7 +81,7 @@ See the [USC 2026 uniform schedule](/stories/usc-uniform-schedule-2026) for the 
 
 **November 14 at Michigan State.** White expected. Spartan Stadium, kickoff to be announced. **Worn: gold helmet and white jersey**, confirmed from the game broadcast. **Final: Washington 21, Michigan State 14.**
 
-**November 21 vs. Indiana.** Purple expected. Salute to Service and Senior Day against the defending national champion. Last season Washington wore a one-off Honor and Support camouflage set for its Salute to Service game against Purdue. Nothing similar has been announced for 2026, so we are holding the home default for now.
+**November 21 vs. Indiana.** ★ Confirmed by Washington: **"Husky Heritage," a gold helmet with a purple and white center stripe and DAWGS on the front bumper, purple jersey with white numbers, gold pants**, posted November 18 as the "Game 11 Uniform." Salute to Service and Senior Day against the defending national champion, at 12:30 p.m. Pacific on Peacock. Last season Washington wore a one-off Honor and Support camouflage set for its Salute to Service game against Purdue. This year it is the standard purple and gold.
 
 **November 28 at Oregon.** White expected. The regular season ends at Autzen Stadium, and Oregon's home look is never certain until warmups. Our [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) tracks the Ducks.
 

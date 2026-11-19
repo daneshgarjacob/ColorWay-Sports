@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-18"
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -12,6 +12,13 @@ league: "college"
 teams: ["oregon-ducks", "big-ten"]
 resurfaceOnUpdate: true
 ---
+
+**Update, November 18:** Oregon will wear a **yellow helmet with green wings, a white jersey and yellow pants** at Michigan State on Friday, November 20, posted by the team Wednesday as the "Game 11 uniform combo." [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/oregonfootball/status/2123227258077036959"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Oregon's yellow, white and yellow look for Michigan State, via <a href="https://x.com/oregonfootball" target="_blank" rel="noopener">@oregonfootball</a></p>
 
 **Update, November 5:** Oregon's uniform for Ohio State is **Mummy Mode 2.0**: a **dark chrome helmet with a chrome facemask, a white jersey with black chrome numbers and a charcoal and silver feather pattern on the shoulders, and black pants**, posted by the team Wednesday night. That replaces the yellow, green and yellow we had from Monday's game-week graphic.
 
@@ -51,7 +58,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
   <div style="background: #111111; color: #ffffff; border: 2px solid #39FF14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Chrome / White / Black</div></div>
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Varies</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Yellow / White / Yellow</div></div>
   <div style="background: #154733; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
 </div>
 
@@ -89,7 +96,7 @@ Three combinations are on the board. **Yellow helmet, green jersey, yellow pants
 
 **November 14 vs. Michigan.** Green expected. Michigan in Eugene: the most conservative wardrobe in the sport against the least. ★ Confirmed by Oregon: **black helmet with Japanese katakana lettering, black jersey with green numbers, white pants**, the "Game 10 uniform combo" posted November 11, and the team's arrival photos show the black helmet and black jersey. **Final: Oregon 31, Michigan 7.**
 
-**Friday, November 20 at Michigan State.** Varies expected. An 8 p.m. Eastern Friday night kickoff in East Lansing.
+**Friday, November 20 at Michigan State.** ★ Confirmed by Oregon: **yellow helmet with green wings, white jersey with green numbers trimmed in yellow, yellow pants**, posted November 18 as the "Game 11 uniform combo." It is the first time the yellow pants have been out since the Boise State opener. An 8 p.m. Eastern Friday night kickoff in East Lansing on FOX. [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
 
 **November 28 vs. Washington.** Green expected. Washington, the rivalry game. Historically one of Oregon's bigger swings.
 

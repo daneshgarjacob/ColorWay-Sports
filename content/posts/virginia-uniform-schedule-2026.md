@@ -3,7 +3,7 @@ title: "Virginia Uniform Schedule 2026: Every Jersey and When the Cavaliers Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-18"
 excerpt: "What Virginia wears every game in 2026: the orange home set, the all navy look, the white road jersey, and the full Cavaliers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #232D4B 0%, #2f3b63 55%, #F84C1E 130%)"
 cardStyle: words
@@ -14,6 +14,13 @@ resurfaceOnUpdate: true
 ---
 
 Virginia has three jersey colors, two helmets and a staff that treats every Saturday as a fresh decision. This is the full Virginia 2026 uniform schedule: the orange home set, the all navy look, the white road jersey, the helmet rotation, and a week by week outlook for all twelve games, including a Duke's Mayo Classic trip to Charlotte in a combination straight out of the 1980s. We update this page as each uniform is confirmed.
+
+**Update, November 18:** Virginia will wear a **navy helmet and a navy jersey with white numbers outlined in orange** against North Carolina on Saturday, posted by the team Wednesday as "Rivalry threads."
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UVAFootball/status/2123220958571844004"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Virginia's navy look for North Carolina, via <a href="https://x.com/UVAFootball" target="_blank" rel="noopener">@UVAFootball</a></p>
 
 **Update, October 23:** Virginia wore **a white helmet with the orange stripe, navy jersey and navy pants** against Duke on Friday, confirmed from Virginia's game photos, and lost 19-16 on a late touchdown. **Final: Duke 19, Virginia 16.**
 
@@ -49,7 +56,7 @@ What that leaves is a wardrobe with real range. Orange, navy and white jerseys, 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #232D4B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
-  <div style="background: #232D4B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange or Navy</div></div>
+  <div style="background: #232D4B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -93,7 +100,7 @@ There is history in the building as well. Virginia's last trip to Bank of Americ
 
 **November 14 vs. California.** Home color expected. Cal makes the cross country trip in November. **Worn: white helmet with the stars and stripes V-sabre, navy jersey, white pants**, confirmed from the game broadcast. **Final: Virginia 36, Cal 7.**
 
-**November 21 vs. North Carolina.** Home color expected. The last home game of the season and the Senior Day slot, which is another traditional spot for an alternate. Our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026) covers the visitor.
+**November 21 vs. North Carolina.** ★ Confirmed by Virginia ("Rivalry threads"): **navy helmet with the V-sabre logo, navy jersey with white numbers outlined in orange**, posted November 18. The pants are not clearly shown in the team's photos. The last home game of the season and the Senior Day slot, which is another traditional spot for an alternate. Our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026) covers the visitor.
 
 **November 28 at Virginia Tech.** White expected. The Commonwealth Clash at Lane Stadium, with the Hokies in maroon. See our [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026).
 

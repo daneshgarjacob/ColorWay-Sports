@@ -37,6 +37,8 @@ We build these before the season rather than after it, so the closet is here fro
 
 ## Stars Hometown Remix Jersey
 
+**Update, Nov. 18:** The Stars posted a one-week countdown to the debut against Nashville on Nov. 25. Everything about the look, all five dates and the Stars' home record is in our [Stars Hometown Remix debut preview](/stories/stars-hometown-remix-jersey-debut-predators-2026).
+
 The neon green from the Blackout alternates is back, this time on a white base with black. The Stars logo is filled with thin lines meant to look like the Dallas skyline lit up at night, the black arm stripes carry a lattice texture taken from city architecture, and a neon-style "Dallas" sits inside the hem.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">

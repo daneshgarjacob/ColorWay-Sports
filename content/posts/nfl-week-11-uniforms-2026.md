@@ -72,13 +72,18 @@ A cold-weather team dressed like the weather against a warm-weather team in aqua
 
 ### New York Jets At Los Angeles Chargers: Powder On Powder
 
-**Sunday, 4:05 p.m. ET, FOX. Chargers confirmed, Jets expected.** Los Angeles published the jersey and the pants for all 17 games on September 1, and this is the second and last date for the monochrome look: the **powder blue jersey over powder blue pants**. The first was Week 5 against Denver, when the Chargers wore it under the white helmet.
+**Sunday, 4:05 p.m. ET, FOX. Both teams confirmed.** Los Angeles published the jersey and the pants for all 17 games on September 1, and this is the second and last date for the monochrome look: the **powder blue jersey over powder blue pants**. The first was Week 5 against Denver, when the Chargers wore it under the white helmet. The jersey and pants are set; the helmet comes with the Chargers' game-week post.
 
-New York is expected in **white** on the road. The Jets' last trip was White on Green at Kansas City in Week 9: the green helmet, white jersey and green pants.
+**Update, Nov. 18:** the Jets confirmed **White on Green**: the **green helmet, white jersey and green pants**, posted with the caption "west coast threads." It is the same combination they wore at Kansas City in Week 9.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jets-white-road.jpg" alt="New York Jets white road jersey, expected at the Chargers in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jets &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chargers-powder-blue-home.jpg" alt="Los Angeles Chargers powder blue jersey, confirmed with powder blue pants against the Jets in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chargers &middot; Confirmed</figcaption></figure></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2123189639133512013"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Jets' Week 11 uniform, via <a href="https://x.com/nyjets" target="_blank" rel="noopener">@nyjets</a></p>
 
-Powder blue head to toe against white and green is the brightest game of the afternoon. Our matchup grade: **A-**. See the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026) and the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026).
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jets-white-road.jpg" alt="New York Jets white road jersey, confirmed with green pants and the green helmet at the Chargers in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jets &middot; Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chargers-powder-blue-home.jpg" alt="Los Angeles Chargers powder blue jersey, confirmed with powder blue pants against the Jets in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chargers &middot; Confirmed</figcaption></figure></div>
+
+Powder blue head to toe against white over green is the brightest game of the afternoon. Our matchup grade: **A-**. See the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026) and the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026).
 
 ### Tampa Bay Buccaneers At Detroit Lions: Back In Black
 
@@ -166,7 +171,7 @@ Black against white and pewter is a clean read, but it trades away Honolulu blue
 - **Arizona Cardinals at Kansas City Chiefs**, 1:00 p.m. ET, CBS. Cardinals: white (scheduled). Chiefs: red (expected). Matchup grade: B.
 - **Pittsburgh Steelers at Philadelphia Eagles**, 1:00 p.m. ET, CBS. Steelers: white (expected). Eagles: midnight green (expected). Matchup grade: B.
 - **Baltimore Ravens at Carolina Panthers**, 1:00 p.m. ET, FOX. Ravens: white (expected). Panthers: black (scheduled). Matchup grade: B-.
-- **New York Jets at Los Angeles Chargers**, 4:05 p.m. ET, FOX. Jets: white (expected). Chargers: powder blue jersey, powder blue pants (confirmed). Matchup grade: A-.
+- **New York Jets at Los Angeles Chargers**, 4:05 p.m. ET, FOX. Jets: green helmet, white jersey, green pants (confirmed). Chargers: powder blue jersey, powder blue pants (confirmed). Matchup grade: A-.
 - **Las Vegas Raiders at Denver Broncos**, 4:25 p.m. ET, CBS. Raiders: white (expected). Broncos: Sunset Orange (scheduled). Matchup grade: B+.
 - **Jacksonville Jaguars at New York Giants**, 4:25 p.m. ET, CBS. Jaguars: white (expected). Giants: blue jersey, white pants (scheduled). Matchup grade: B.
 - **Minnesota Vikings vs. San Francisco 49ers** (Mexico City), 8:20 p.m. ET, NBC. Vikings: white (expected). 49ers: gold helmet, scarlet jersey (scheduled by the team). Matchup grade: B.
@@ -213,7 +218,11 @@ The home team declares first, and the Bills are in all white. Two teams cannot b
 
 **What are the Chargers wearing against the Jets?**
 
-The powder blue jersey with powder blue pants, from the schedule Los Angeles published on September 1. It is the second time the Chargers wear the monochrome look in 2026, after Week 5 against Denver. We expect the Jets in white.
+The powder blue jersey with powder blue pants, from the schedule Los Angeles published on September 1. It is the second time the Chargers wear the monochrome look in 2026, after Week 5 against Denver. The Jets confirmed White on Green: green helmet, white jersey and green pants.
+
+**What are the Jets wearing against the Chargers?**
+
+White on Green: the green helmet, white jersey and green pants, confirmed in the team's game-week post on Nov. 18. It is the same look the Jets wore at Kansas City in Week 9.
 
 **Are the Lions wearing black against the Buccaneers?**
 

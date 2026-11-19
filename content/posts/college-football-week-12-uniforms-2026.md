@@ -24,7 +24,8 @@ Below is every uniform announced so far, then every game this week involving an 
 - **What is Kentucky wearing at Missouri?** Blue helmet, white jersey, blue pants.
 - **What is Georgia wearing at South Carolina?** Expected: red helmet, white jersey, silver pants, its road set this season.
 - **What is Miami wearing vs. Virginia Tech?** Expected: orange at home, for Military Appreciation night with College GameDay on campus.
-- **What is Washington wearing vs. Indiana?** Expected: purple at home, for Salute to Service and Senior Day.
+- **What is Washington wearing vs. Indiana?** "Husky Heritage": gold helmet with a purple and white center stripe, purple jersey with white numbers, gold pants.
+- **What is Oregon wearing at Michigan State?** Yellow helmet with green wings, white jersey, yellow pants.
 
 ## Every Uniform Announced for Week 12
 
@@ -34,6 +35,9 @@ Below is every uniform announced so far, then every game this week involving an 
 - **Liberty: navy helmet, all red below (Confirmed).** Navy helmet with the Sparky logo, red jersey with the Flames script, red pants, vs. Western Kentucky. Posted November 18 with the caption 🔵🔴🔴.
 - **Florida: orange, blue, white (Confirmed, from its published grid).** Orange helmet, blue jersey, white pants, vs. Vanderbilt, from the season uniform schedule Florida published in August.
 - **Maryland: Script Shift (Confirmed).** All white, helmet, jersey and pants, with the Terps script and numbers in an iridescent gold, black and red finish, at No. 18 USC. Announced November 18, the set's first game since the 2024 debut at Oregon. [Details](/stories/maryland-script-shift-uniforms-return-usc-2026).
+- **Oregon: yellow, white, yellow (Confirmed).** Yellow helmet with green wings, white jersey with green numbers trimmed in yellow, yellow pants, at Michigan State on Friday night. Posted November 18 as the "Game 11 uniform combo." [Details and history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
+- **Washington: Husky Heritage (Confirmed).** Gold helmet with a purple and white center stripe and DAWGS on the front bumper, purple jersey with white numbers, gold pants, vs. No. 6 Indiana. Posted November 18 as "Game 11 Uniform • Husky Heritage Saturday."
+- **Virginia: navy, navy (Confirmed).** Navy helmet with the V-sabre logo, navy jersey with white numbers outlined in orange, vs. North Carolina. Posted November 18 as "Rivalry threads."
 
 That is the list as of Wednesday, November 18. Schools post their combinations from Monday through Saturday morning, and we add each one here.
 
@@ -70,7 +74,14 @@ That is the list as of Wednesday, November 18. Schools post their combinations f
 
 ### No. 6 Indiana at Washington: Salute to Service at Husky Stadium
 
-**Saturday, 3:30 p.m. (12:30 p.m. Pacific), Peacock.** Washington's athletics site lists this as its **Salute to Service and Senior Day** game, and the Huskies will honor the 1991 national championship team, which went 12-0, as the day's Husky Legend. **Washington: Expected, purple.** Military games often bring a decal or a patch, and Washington has not shown its look yet. **Indiana: Expected, white.** Indiana wore a crimson helmet, white jersey and white pants at Michigan, its standard road set. More: [Washington schedule](/stories/washington-huskies-uniform-schedule-2026) and [Indiana schedule](/stories/indiana-uniform-schedule-2026).
+**Saturday, 3:30 p.m. (12:30 p.m. Pacific), Peacock.** Washington's athletics site lists this as its **Salute to Service and Senior Day** game, and the Huskies will honor the 1991 national championship team, which went 12-0, as the day's Husky Legend. **Washington: Confirmed, "Husky Heritage."** Washington posted its "Game 11 Uniform" on Wednesday: a **gold helmet with a purple and white center stripe** and DAWGS on the front bumper, a **purple jersey with white numbers** and **gold pants**, with purple socks. **Indiana: Expected, white.** Indiana wore a crimson helmet, white jersey and white pants at Michigan, its standard road set.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UW_Football/status/2123205949334925782"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Washington's Husky Heritage uniform for Indiana, via <a href="https://x.com/UW_Football" target="_blank" rel="noopener">@UW_Football</a></p>
+
+More: [Washington schedule](/stories/washington-huskies-uniform-schedule-2026) and [Indiana schedule](/stories/indiana-uniform-schedule-2026).
 
 ### No. 12 BYU at Kansas: All White in Lawrence
 
@@ -114,7 +125,7 @@ That is the list as of Wednesday, November 18. Schools post their combinations f
 
 ### No. 4 UCLA at Michigan
 
-**Saturday, 3:30 p.m., CBS.** **Michigan: Expected, navy**, on Senior Day at Michigan Stadium. Michigan wore white over maize pants at Oregon last week. **UCLA: Expected, white.** UCLA wore a gold helmet, white jersey and gold pants at Minnesota. More: [Michigan schedule](/stories/michigan-uniform-schedule-2026) and [UCLA schedule](/stories/ucla-uniform-schedule-2026).
+**Saturday, 3:30 p.m., CBS.** **Michigan: Expected, navy**, on Senior Day at Michigan Stadium. Michigan wore white over maize pants at Oregon last week. **UCLA: Expected, white.** UCLA wore a gold helmet, white jersey and gold pants at Minnesota. On Wednesday UCLA posted "Best colors in the game," with players in both its powder blue and white jerseys over gold pants, which is a hint, not an announcement. More: [Michigan schedule](/stories/michigan-uniform-schedule-2026) and [UCLA schedule](/stories/ucla-uniform-schedule-2026).
 
 ### LSU at No. 9 Tennessee
 
@@ -171,7 +182,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Toledo: **Expected**, blue, for the Battle of I-75.
 
 **No. 14 [Oregon](/stories/oregon-uniform-schedule-2026) at [Michigan State](/stories/michigan-state-uniform-schedule-2026)**, 8 p.m., FOX.
-- Oregon: **Expected**, white. Oregon posts a new combination most weeks, and on the road this season it has worn a white jersey at Illinois and Ohio State.
+- Oregon: **Confirmed**, yellow helmet with green wings, white jersey with green numbers, yellow pants. Posted November 18. [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
 - Michigan State: **Expected**, green.
 
 **UTEP at [Air Force](/stories/air-force-uniform-schedule-2026)**, 8 p.m., The CW.
@@ -231,7 +242,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[North Carolina](/stories/north-carolina-uniform-schedule-2026) at [Virginia](/stories/virginia-uniform-schedule-2026)**, 12:30 p.m., The CW.
 - North Carolina: **Expected**, white.
-- Virginia: **Expected**, a home color, for its last home game.
+- Virginia: **Confirmed**, "Rivalry threads": navy helmet, navy jersey with white numbers outlined in orange, for its last home game. Posted November 18.
 
 ### Saturday, November 21: Afternoon Window
 
@@ -276,7 +287,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **No. 6 [Indiana](/stories/indiana-uniform-schedule-2026) at [Washington](/stories/washington-huskies-uniform-schedule-2026)**, 3:30 p.m. (12:30 p.m. Pacific), Peacock.
 - Indiana: **Expected**, white.
-- Washington: **Expected**, purple, for Salute to Service and Senior Day.
+- Washington: **Confirmed**, Husky Heritage: gold helmet with a purple and white center stripe, purple jersey with white numbers, gold pants, for Salute to Service and Senior Day.
 
 **[LSU](/stories/lsu-uniform-schedule-2026) at No. 9 [Tennessee](/stories/tennessee-uniform-schedule-2026)**, 3:30 p.m., ABC.
 - LSU: **Expected**, white.
@@ -427,7 +438,7 @@ Miami is expected in orange at home. It is Miami's Military Appreciation game, w
 
 **What is Washington wearing vs. Indiana?**
 
-Washington is expected in purple for its Salute to Service and Senior Day game. Indiana is expected in white. Kickoff is 12:30 p.m. Pacific on Peacock.
+Washington is wearing its "Husky Heritage" look: a gold helmet with a purple and white center stripe, a purple jersey with white numbers and gold pants, posted by the team on November 18. It is the Huskies' Salute to Service and Senior Day game. Indiana is expected in white. Kickoff is 12:30 p.m. Pacific on Peacock.
 
 **What is BYU wearing at Kansas?**
 

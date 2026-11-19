@@ -3,7 +3,7 @@ topViewsRank: 10
 title: "New York Jets Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-18"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,13 @@ teams: ["new-york-jets"]
 ---
 
 The Jets have confirmed three uniform games for 2026, and the first one is the most interesting thing they have done with their look in years. A brand-new all-white helmet comes out of the box in Week 2 for a full White Out against Green Bay. The Classic uniform gets a October date against Miami. And the Gotham City Football Rivalries jersey returns to close the home schedule against New England. Here is the full New York Jets 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the green home set and the white road set.
+
+**Update, November 18:** New York confirmed its Week 11 look at the Los Angeles Chargers on Sunday, November 22 (4:05 p.m. ET, FOX): "White on Green" again, the **green helmet, white jersey and green pants**, the same combination it wore at Kansas City in Week 9. The team posted it with the caption "west coast threads." The Chargers are scheduled in powder blue over powder blue pants. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2123189639133512013"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Jets' Week 11 uniform combination: green helmet, white jersey, green pants, via @nyjets</p>
 
 **Update, November 5:** New York confirmed its Week 9 look at Kansas City on Sunday, November 8 (1:00 p.m. ET, CBS): "White on Green," the **green helmet, white jersey and green pants**, from the team's game-week uniform graphic.
 
@@ -62,7 +69,7 @@ Here is the whole season at a glance. The three confirmed jersey games are marke
   <div style="background: #125740; color: #8fe3bd; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Green · Green Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Green Pants</div></div>
   <div style="background: #000000; color: #8fe3bd; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black on Black ★</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Chargers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Green Pants</div></div>
   <div style="background: #125740; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #125740; color: #8fe3bd; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #fff;">vs Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
@@ -104,7 +111,7 @@ Gotham Green remains one of the more distinctive base colors in the league. Nobo
 
 ## The White Road Set (Expected)
 
-The white road uniform is the workhorse and projects to seven of the nine away games: at the Titans, Lions, Bears, Patriots, Chiefs, Chargers, and the Week 18 trip to Buffalo. The exceptions are Week 12 at Miami, where the Dolphins wear white and the Jets go green, and Week 15 at Arizona, where the Cardinals' published uniform schedule has them in white at home, which puts the Jets in Gotham Green on the road. That is the standard convention rather than an announcement, and there is one wrinkle worth knowing about. A visiting team can only bring a colored jersey when the home team wears white, so the Jets are in white on the road unless a host specifically goes white at home.
+The white road uniform is the workhorse and projects to seven of the nine away games: at the Titans, Lions, Bears, Patriots, Chiefs, Chargers, and the Week 18 trip to Buffalo. Two of those are now confirmed as White on Green, with the green helmet and green pants: Week 9 at Kansas City and Week 11 at the Chargers. The exceptions are Week 12 at Miami, where the Dolphins wear white and the Jets go green, and Week 15 at Arizona, where the Cardinals' published uniform schedule has them in white at home, which puts the Jets in Gotham Green on the road. That is the standard convention rather than an announcement, and there is one wrinkle worth knowing about. A visiting team can only bring a colored jersey when the home team wears white, so the Jets are in white on the road unless a host specifically goes white at home.
 
 
 ## How the Jets Rotation Works in 2026
@@ -135,7 +142,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Jets wearing next week?**
 
-Gotham green at home and white away, unless the week is one of the three confirmed alternate dates above, the black alternate against Buffalo in Week 10, or a green road game at Miami in Week 12 or Arizona in Week 15.
+Week 11 at the Chargers, Sunday, November 22, confirmed: White on Green, the green helmet, white jersey and green pants, from the team's game-week post. After that, Gotham green at home and white away, unless the week is one of the three confirmed alternate dates above, the black alternate against Buffalo in Week 10, or a green road game at Miami in Week 12 or Arizona in Week 15.
 
 **What jerseys do the Jets have in 2026?**
 
