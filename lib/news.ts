@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import { unified } from "unified";
 import remarkParse from "remark-parse";
 import remarkRehype from "remark-rehype";
+import remarkGfm from "remark-gfm";
 import rehypeRaw from "rehype-raw";
 import rehypeStringify from "rehype-stringify";
 import { getAllPosts, type PostMeta } from "@/lib/posts";
@@ -93,6 +94,7 @@ function toMeta(slug: string, data: Record<string, unknown>): NewsMeta {
 async function toHtml(markdown: string): Promise<string> {
   const file = await unified()
     .use(remarkParse)
+    .use(remarkGfm, { singleTilde: false })
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
     .use(rehypeStringify, { allowDangerousHtml: true })

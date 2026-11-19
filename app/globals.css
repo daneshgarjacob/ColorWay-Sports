@@ -417,3 +417,37 @@ a {
 html[data-cw-bottom-bar] .cw-upnext {
   display: none;
 }
+
+/* Markdown tables in stories (remark-gfm). Tables written as raw HTML with
+   their own inline styles are left alone. */
+.prose table:not([style]) {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  margin: 1.25em 0 1.5em;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+.prose table:not([style]) th,
+.prose table:not([style]) td {
+  padding: 0.6em 0.9em;
+  text-align: left;
+  border-bottom: 1px solid #e3e6ee;
+  white-space: nowrap;
+}
+.prose table:not([style]) td:first-child,
+.prose table:not([style]) th:first-child {
+  white-space: normal;
+  min-width: 9.5em;
+}
+.prose table:not([style]) thead th {
+  background: #0b1f4d;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+.prose table:not([style]) tbody tr:nth-child(even) {
+  background: #f4f6fb;
+}

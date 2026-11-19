@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import { unified } from "unified";
 import remarkParse from "remark-parse";
 import remarkRehype from "remark-rehype";
+import remarkGfm from "remark-gfm";
 import rehypeRaw from "rehype-raw";
 import rehypeStringify from "rehype-stringify";
 import imageDims from "@/content/data/image-dims.json";
@@ -324,6 +325,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
   const headings: HeadingItem[] = [];
   const processed = await unified()
     .use(remarkParse)
+    .use(remarkGfm, { singleTilde: false })
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
     .use(rehypeHeadingIds(headings))
