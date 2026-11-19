@@ -153,6 +153,55 @@ a {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
 }
 
+/* Tap-to-enlarge images and tap-to-jump grid cells (components/ImageZoom.tsx). */
+.cw-zoomable {
+  cursor: zoom-in;
+}
+.cw-zoomable:focus-visible,
+.cw-jump:focus-visible {
+  outline: 3px solid var(--color-orange, #0b5cff);
+  outline-offset: 3px;
+}
+.cw-jump {
+  cursor: pointer;
+  transition: transform 0.15s ease;
+}
+@media (hover: hover) {
+  .cw-jump:hover {
+    transform: translateY(-2px);
+  }
+}
+@keyframes cw-flash {
+  from { background-color: rgba(255, 213, 79, 0.45); }
+  to { background-color: transparent; }
+}
+.cw-flash {
+  animation: cw-flash 1.8s ease-out;
+  border-radius: 6px;
+}
+.cw-lightbox {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100dvh;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  padding: 16px;
+  border: 0;
+  background: transparent;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  cursor: zoom-out;
+}
+.cw-lightbox[open] {
+  display: flex;
+}
+.cw-lightbox::backdrop {
+  background: rgba(8, 12, 22, 0.88);
+}
+
 .prose div[style*="grid"] {
   max-width: 100%;
   margin-left: auto;

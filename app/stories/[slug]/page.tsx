@@ -11,6 +11,7 @@ import RelatedStories from "@/components/RelatedStories";
 import PreferredSourceCard from "@/components/PreferredSourceCard";
 import StorySidebar from "@/components/StorySidebar";
 import ReadingProgress from "@/components/ReadingProgress";
+import ImageZoom from "@/components/ImageZoom";
 import TrackerJumpNav, { type JumpNavItem } from "@/components/TrackerJumpNav";
 import TrackerSearch from "@/components/TrackerSearch";
 import TrackerTeamIndex from "@/components/TrackerTeamIndex";
@@ -434,6 +435,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   return (
     <>
       <ReadingProgress />
+      <ImageZoom />
       <Header />
 
       <script

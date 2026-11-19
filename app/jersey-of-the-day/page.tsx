@@ -5,6 +5,7 @@ import Footer from "@/components/Footer";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import { JotdTile, PhotoCredit, TodayFeature } from "@/components/JerseyOfTheDay";
 import TwitterEmbed from "@/components/TwitterEmbed";
+import ImageZoom from "@/components/ImageZoom";
 import { AFFILIATE_DISCLOSURE, on } from "@/lib/affiliates";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
 import { longDay, pickFor, etToday, secsToEtMidnight, shortDate, weekEnding } from "@/lib/jerseyOfTheDay";
@@ -172,6 +173,7 @@ export default async function JerseyOfTheDayPage() {
         </div>
       </main>
       <Footer />
+      <ImageZoom />
     </>
   );
 }

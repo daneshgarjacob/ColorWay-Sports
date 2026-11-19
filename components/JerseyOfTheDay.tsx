@@ -91,10 +91,13 @@ export function TodayFeature({ entry, isToday }: { entry: JotdEntry; isToday: bo
             loading="eager"
             fetchPriority="high"
             decoding="async"
+            // Tap to enlarge (components/ImageZoom.tsx, mounted on the page):
+            // Clarity showed readers tapping this photo and nothing happening.
+            data-zoom=""
             className={`absolute inset-0 w-full h-full ${imgFitClass(entry)}`}
             style={entry.imagePosition ? { objectPosition: entry.imagePosition } : undefined}
           />
-          <span className="absolute left-3 top-3 font-display text-[10px] font-extrabold uppercase tracking-[0.18em] px-2.5 py-[5px] rounded bg-white/95 text-black">
+          <span className="pointer-events-none absolute left-3 top-3 font-display text-[10px] font-extrabold uppercase tracking-[0.18em] px-2.5 py-[5px] rounded bg-white/95 text-black">
             {isToday ? "Today" : shortDate(entry.date)} · Jersey of the Day
           </span>
         </div>
