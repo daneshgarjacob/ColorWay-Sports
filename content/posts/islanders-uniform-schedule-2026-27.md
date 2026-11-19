@@ -42,7 +42,7 @@ The Fisherman is back. The 1995-97 crest returns, cleaned up, on a white sweater
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NYIslanders/status/2117295492879270147"></a></blockquote>
 </div>
 
-It debuts Thursday, Nov. 5 against the Carolina Hurricanes. The Islanders wear it 11 times this season: Nov. 5 vs. Hurricanes, Nov. 25 vs. Blues, Dec. 20 vs. Rangers, Dec. 22 vs. Bruins, Dec. 27 vs. Senators, Jan. 13 vs. Penguins, Jan. 20 vs. Sabres, Feb. 26 vs. Flyers, March 9 vs. Canadiens, March 20 vs. Flyers and April 1 at Penguins. Each one is marked in the game log below.
+It debuted Thursday, Nov. 5 against the Carolina Hurricanes. The Islanders wear it 11 times this season: Nov. 5 vs. Hurricanes, Nov. 25 vs. Blues, Dec. 20 vs. Rangers, Dec. 22 vs. Bruins, Dec. 27 vs. Senators, Jan. 13 vs. Penguins, Jan. 20 vs. Sabres, Feb. 26 vs. Flyers, March 9 vs. Canadiens, March 20 vs. Flyers and April 1 at Penguins. Each one is marked in the game log below.
 
 **Our ranking: No. 19 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -73,7 +73,7 @@ White with navy, teal and orange. The 1995-97 Fisherman crest returns, cleaned u
 
 **When do the New York Islanders wear the Hometown Remix jersey?**
 
-The New York Islanders debut their Hometown Remix jersey on Thursday, Nov. 5 against the Carolina Hurricanes and wear it 11 times this season. Every date is listed above and marked in the game log.
+The New York Islanders debuted their Hometown Remix jersey on Thursday, Nov. 5 against the Carolina Hurricanes and wear it 11 times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the New York Islanders wear in a season?**
 

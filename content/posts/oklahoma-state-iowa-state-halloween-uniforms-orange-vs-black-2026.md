@@ -1,5 +1,5 @@
 ---
-title: "Oklahoma State vs Iowa State Halloween Uniforms: All Orange vs All Black Was the Best Uniform Matchup of the Year"
+title: "Oklahoma State Vs Iowa State Halloween Uniforms: All Orange Vs All Black Was The Best Uniform Matchup Of The Year"
 author: "jake-daneshgar"
 category: "College"
 date: "2026-11-01"

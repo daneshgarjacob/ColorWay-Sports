@@ -42,7 +42,7 @@ St. Louis brought back its round "ST. LOUIS BLUES" crest with the Gateway Arch a
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/StLouisBlues/status/2117278105807053280"></a></blockquote>
 </div>
 
-It debuts Tuesday, Nov. 17 against the Anaheim Ducks. The Blues wear it 10 times this season: Nov. 17 vs. Ducks, Nov. 22 vs. Oilers, Nov. 25 at Islanders, Nov. 27 vs. Stars, Dec. 2 vs. Penguins, Dec. 13 vs. Lightning, Jan. 26 vs. Blackhawks, Jan. 30 vs. Canucks, Feb. 25 vs. Canucks and March 13 vs. Ducks. Each one is marked in the game log below.
+It debuted Tuesday, Nov. 17 against the Anaheim Ducks. The Blues wear it 10 times this season: Nov. 17 vs. Ducks, Nov. 22 vs. Oilers, Nov. 25 at Islanders, Nov. 27 vs. Stars, Dec. 2 vs. Penguins, Dec. 13 vs. Lightning, Jan. 26 vs. Blackhawks, Jan. 30 vs. Canucks, Feb. 25 vs. Canucks and March 13 vs. Ducks. Each one is marked in the game log below.
 
 **Our ranking: No. 20 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -73,7 +73,7 @@ Black, blue and silver. The round "ST. LOUIS BLUES" crest puts the Gateway Arch 
 
 **When do the St. Louis Blues wear the Hometown Remix jersey?**
 
-The St. Louis Blues debut their Hometown Remix jersey on Tuesday, Nov. 17 against the Anaheim Ducks and wear it 10 times this season. Every date is listed above and marked in the game log.
+The St. Louis Blues debuted their Hometown Remix jersey on Tuesday, Nov. 17 against the Anaheim Ducks and wear it 10 times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the St. Louis Blues wear in a season?**
 

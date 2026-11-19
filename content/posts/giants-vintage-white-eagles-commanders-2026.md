@@ -1,5 +1,5 @@
 ---
-title: "The Giants' Vintage White Uniforms Are Back for Two Weeks, and It's the Best Look in New York"
+title: "The Giants' Vintage White Uniforms Are Back For Two Weeks, And It's The Best Look In New York"
 category: "NFL"
 date: "2026-11-03"
 excerpt: "The Giants wear Vintage White at the Eagles on November 8 and against the Commanders on Thursday night, November 12. What the uniform looks like, why it works, and our grade: A."

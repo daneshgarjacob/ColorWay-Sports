@@ -20,6 +20,8 @@ league: "college"
 teams: ["byu-cougars", "big-12"]
 ---
 
+**Update, October 31: worn as announced.** Game photos confirm BYU wore the navy helmet, navy jersey and navy pants, and Arizona State wore a black helmet, white jersey and black pants. No. 8 BYU won 27-20.
+
 **BYU is going all navy against Arizona State.** The Cougars revealed their Game 8 uniform on Monday, October 26, with a Gameday Threads graphic posted as "this week's uni combo": a **navy helmet, navy jersey and navy pants**. No. 8 BYU (6-1) hosts Arizona State (4-3) at LaVell Edwards Stadium on **Saturday, October 31, at 1:30 p.m. Mountain on FOX**. The game has not been played yet, so this is what BYU announced, and we will confirm it from the broadcast on Saturday.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">

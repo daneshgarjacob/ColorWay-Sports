@@ -43,7 +43,7 @@ Carolina's first gray sweater puts mascot Stormy on the chest for the first time
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canes/status/2117270656173604881"></a></blockquote>
 </div>
 
-It debuts Saturday, Nov. 7 against the Chicago Blackhawks. The Hurricanes wear it 11 times this season: Nov. 7 vs. Blackhawks, Nov. 21 vs. Oilers, Nov. 28 vs. Senators, Dec. 5 vs. Maple Leafs, Dec. 26 vs. Penguins, Jan. 2 vs. Predators, Jan. 23 vs. Ducks, Jan. 30 vs. Kings, Feb. 13 vs. Sabres, Feb. 27 vs. Lightning and March 13 vs. Devils. Each one is marked in the game log below.
+It debuted Saturday, Nov. 7 against the Chicago Blackhawks. The Hurricanes wear it 11 times this season: Nov. 7 vs. Blackhawks, Nov. 21 vs. Oilers, Nov. 28 vs. Senators, Dec. 5 vs. Maple Leafs, Dec. 26 vs. Penguins, Jan. 2 vs. Predators, Jan. 23 vs. Ducks, Jan. 30 vs. Kings, Feb. 13 vs. Sabres, Feb. 27 vs. Lightning and March 13 vs. Devils. Each one is marked in the game log below.
 
 **Our ranking: No. 13 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -83,7 +83,7 @@ Storm gray with red and black. Mascot Stormy is on the chest in a collegiate-sty
 
 **When do the Carolina Hurricanes wear the Hometown Remix jersey?**
 
-The Carolina Hurricanes debut their Hometown Remix jersey on Saturday, Nov. 7 against the Chicago Blackhawks and wear it 11 times this season. Every date is listed above and marked in the game log.
+The Carolina Hurricanes debuted their Hometown Remix jersey on Saturday, Nov. 7 against the Chicago Blackhawks and wear it 11 times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Carolina Hurricanes wear in a season?**
 

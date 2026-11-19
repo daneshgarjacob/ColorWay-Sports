@@ -43,7 +43,7 @@ Pittsburgh made a pop-art sweater for Pittsburgh native Andy Warhol, in blue, li
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/penguins/status/2117270834507075988"></a></blockquote>
 </div>
 
-It debuts Tuesday, Nov. 3 against the Vegas Golden Knights. The Penguins wear it 10 times this season: Nov. 3 vs. Golden Knights, Nov. 28 vs. Maple Leafs, Dec. 6 vs. Sharks, Dec. 18 vs. Kraken, Jan. 21 vs. Ducks, Feb. 2 vs. Lightning, March 9 vs. Senators, March 25 vs. Devils, March 30 at Flyers and April 1 vs. Islanders. Each one is marked in the game log below.
+It debuted Tuesday, Nov. 3 against the Vegas Golden Knights. The Penguins wear it 10 times this season: Nov. 3 vs. Golden Knights, Nov. 28 vs. Maple Leafs, Dec. 6 vs. Sharks, Dec. 18 vs. Kraken, Jan. 21 vs. Ducks, Feb. 2 vs. Lightning, March 9 vs. Senators, March 25 vs. Devils, March 30 at Flyers and April 1 vs. Islanders. Each one is marked in the game log below.
 
 **Our ranking: No. 1 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -56,7 +56,7 @@ The Penguins unveiled the mark on September 29 as part of a season-long 60th ann
 
 Where it shows up on the uniform:
 
-- **Helmets, every game.** The logo is on the players' helmets for all home and road games this season, starting tonight, September 30, at Philadelphia.
+- **Helmets, every game.** The logo is on the players' helmets for all home and road games this season, starting September 30 at Philadelphia.
 - **Shoulder patch, home opener.** It goes on the shoulders of the jerseys for the home opener against Montreal on Saturday, October 3, after a pregame ceremony. Those game-worn sweaters are being sold later in the season through Penguins Authentics.
 - **Replica patches** go on sale October 3 through the Penguins Foundation, at PPG Paints Arena and online.
 
@@ -101,7 +101,7 @@ Blue with light blue and gold, in a pop-art style for Andy Warhol. The skating p
 
 **When do the Pittsburgh Penguins wear the Hometown Remix jersey?**
 
-The Pittsburgh Penguins debut their Hometown Remix jersey on Tuesday, Nov. 3 against the Vegas Golden Knights and wear it 10 times this season. Every date is listed above and marked in the game log.
+The Pittsburgh Penguins debuted their Hometown Remix jersey on Tuesday, Nov. 3 against the Vegas Golden Knights and wear it 10 times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Pittsburgh Penguins wear in a season?**
 

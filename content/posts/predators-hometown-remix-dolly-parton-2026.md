@@ -1,5 +1,5 @@
 ---
-title: "Predators Hometown Remix Debut: 'DOLLY' on Every Jersey and a Butterfly at Center Ice"
+title: "Predators Hometown Remix Debut: 'DOLLY' On Every Jersey And A Butterfly At Center Ice"
 category: "NHL"
 date: "2026-11-07"
 updatedDate: "2026-11-07"

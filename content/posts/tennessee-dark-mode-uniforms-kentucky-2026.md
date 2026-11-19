@@ -20,6 +20,8 @@ league: "college"
 teams: ["tennessee-volunteers", "sec"]
 ---
 
+**Update, November 7: worn as announced.** Tennessee wore Dark Mode against Kentucky, all black against Kentucky's all white with the ICE COLD chrome helmet, confirmed from the game broadcast. Tennessee won 34-6.
+
 **Tennessee is going all black against Kentucky.** Tennessee Football announced on Friday morning, October 30, that it will wear its **Dark Mode** uniform when No. 16 Tennessee hosts No. 9 Kentucky at Neyland Stadium on **Saturday, November 7, at 6:15 p.m. Eastern on ESPN**. The Vols are off this week, so the announcement came with a full week to go. It is the first time Tennessee has worn black this season, and the first game in the new adidas version of the uniform.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
@@ -84,13 +86,13 @@ Every Tennessee look this season, including the Smokey Grey Neyland tribute worn
 
 ## The Bottom Line
 
-Tennessee will wear its all-black Dark Mode uniform against Kentucky at Neyland Stadium on Saturday, November 7: a black helmet with the orange Power T, a black jersey with orange numbers and black pants with orange stripes. It is the first time Tennessee has worn black this season and the first game in the adidas version of the set. It is also the third time the Vols have picked Kentucky for Dark Mode. We will confirm the full look from the broadcast on game night.
+Tennessee wore its all-black Dark Mode uniform against Kentucky at Neyland Stadium on Saturday, November 7, and won 34-6: a black helmet with the orange Power T, a black jersey with orange numbers and black pants with orange stripes. It was the first time Tennessee had worn black this season and the first game in the adidas version of the set, and the third time the Vols have picked Kentucky for Dark Mode.
 
 ## Frequently Asked Questions
 
-**Is Tennessee wearing black against Kentucky?**
+**Did Tennessee wear black against Kentucky?**
 
-Yes. Tennessee Football announced on October 30, 2026, that it will wear its all-black Dark Mode uniform against Kentucky at Neyland Stadium on Saturday, November 7.
+Yes. Tennessee Football announced on October 30, 2026, that it would wear its all-black Dark Mode uniform against Kentucky, and it did, at Neyland Stadium on Saturday, November 7, a 34-6 win.
 
 **What is Tennessee's Dark Mode uniform?**
 

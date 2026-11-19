@@ -20,7 +20,7 @@ league: "nhl"
 teams: ["calgary-flames"]
 ---
 
-The Calgary Flames are wearing their [Hometown Remix jersey](/stories/nhl-hometown-remix-2026-27) tonight against the New York Rangers, a red and gold sweater built as a goodbye to the Scotiabank Saddledome in its final season. It is also tonight's [Jersey of the Day](/jersey-of-the-day) and part of the club's Remembrance Day game, one of six NHL [Veterans Day and Remembrance Day games tonight](/stories/veterans-day-uniforms-tonight-nhl-nba-2026).
+The Calgary Flames wore their [Hometown Remix jersey](/stories/nhl-hometown-remix-2026-27) against the New York Rangers on November 11, a red and gold sweater built as a goodbye to the Scotiabank Saddledome in its final season. It was that day's [Jersey of the Day](/jersey-of-the-day) and part of the club's Remembrance Day game, one of six NHL [Veterans Day and Remembrance Day games](/stories/veterans-day-uniforms-tonight-nhl-nba-2026) that night. The Rangers won 3-1.
 
 It is the newest chapter in a closet that started in Atlanta in 1972. Here is every era: the Atlanta red and gold, the Flaming C that came north in 1980, the sweater Calgary won its only Stanley Cup in, the black years and Blasty the flaming horse, the 2004 red, the outdoor games, Reverse Retro and the Saddledome farewell.
 
@@ -164,7 +164,7 @@ The Scotiabank Saddledome opened in 1983. This is the Flames' last season in it;
 - **A gold hem stripe that traces the arena's curved roofline.**
 - **1983 and 2027 inside the hem**, for the building's first and last years.
 
-It debuted November 6 in a 5-3 loss to Anaheim, won 4-3 in overtime against Philadelphia on November 8, and is on tonight against the Rangers. We ranked it **third of all 32 Remix jerseys** and gave it an **A-**.
+It debuted November 6 in a 5-3 loss to Anaheim, won 4-3 in overtime against Philadelphia on November 8, and was worn again on November 11 in a 3-1 loss to the Rangers. We ranked it **third of all 32 Remix jerseys** and gave it an **A-**.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 1.2em 0 0.4em;">
   <figure style="margin: 0; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 12px; padding: 10px;"><img src="/images/posts/nhl-daily-tracker/flames-remix.jpg" alt="Calgary Flames Hometown Remix sweater: red with the gold Flaming C and a gold hem stripe shaped like the Saddledome roof" style="width: 100%; height: auto; object-fit: contain; display: block;" /><figcaption style="text-align: center; font-size: 0.8em; font-weight: 700; margin-top: 6px;">Hometown Remix</figcaption></figure>
@@ -221,7 +221,7 @@ The 2026-27 regular season is the last at the Saddledome. Reports put the final 
 
 ### Are the Flames wearing anything special on Remembrance Day?
 
-Yes. Tonight, November 11, Calgary wears the Hometown Remix against the Rangers for its Remembrance Day game. See every team's look in our [Veterans Day uniforms story](/stories/veterans-day-uniforms-tonight-nhl-nba-2026).
+Yes. On November 11, Calgary wore the Hometown Remix against the Rangers for its Remembrance Day game, a 3-1 Rangers win. See every team's look in our [Veterans Day uniforms story](/stories/veterans-day-uniforms-tonight-nhl-nba-2026).
 
 ## Sources
 

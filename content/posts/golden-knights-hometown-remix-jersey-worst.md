@@ -1,5 +1,5 @@
 ---
-title: "The Golden Knights' Hometown Remix Jersey Is the Ugliest in the NHL"
+title: "The Golden Knights' Hometown Remix Jersey Is The Ugliest In The NHL"
 category: NHL
 date: "2026-11-02"
 excerpt: "Vegas went all in on a casino theme for its Hometown Remix jersey: jade felt, card suits, roulette stripes and playing-card numbers. It finished 32nd of 32 in our ranking. Here is why it does not work, and when Vegas wears it."
@@ -33,7 +33,7 @@ The best Hometown Remix jerseys do the opposite: one idea, one strong color, a b
 
 ## When Vegas Wears It
 
-The Golden Knights wear the Hometown Remix jersey five times. It debuts Sunday, Nov. 15 against Vancouver, then returns Dec. 21 vs. Carolina, Jan. 28 vs. Buffalo, Feb. 18 vs. Columbus and Mar. 15 vs. Winnipeg. Every date is on our [Golden Knights uniform schedule](/stories/golden-knights-uniform-schedule-2026-27).
+The Golden Knights wear the Hometown Remix jersey five times. It debuted Sunday, Nov. 15 against Vancouver, a 6-3 Canucks win with Vancouver in road white, and returns Dec. 21 vs. Carolina, Jan. 28 vs. Buffalo, Feb. 18 vs. Columbus and Mar. 15 vs. Winnipeg. Every date is on our [Golden Knights uniform schedule](/stories/golden-knights-uniform-schedule-2026-27).
 
 ## Frequently Asked Questions
 
@@ -44,7 +44,7 @@ In our ranking, the Vegas Golden Knights'. It finished 32nd of 32, behind the Li
 The Las Vegas casino: a jade felt-table yoke with card suits, roulette-wheel sleeve bands, playing-card numbers and the knight shield in an ornate jade frame.
 
 **When do the Golden Knights wear the Hometown Remix jersey?**
-Five times, starting Sunday, Nov. 15 against the Vancouver Canucks at T-Mobile Arena.
+Five times. It debuted Sunday, Nov. 15 against the Vancouver Canucks at T-Mobile Arena, and the next date is Dec. 21 vs. Carolina.
 
 **What is the best Hometown Remix jersey?**
 The Pittsburgh Penguins' pop-art sweater, with the Washington Capitals second. See [all 32 ranked](/stories/nhl-hometown-remix-jerseys-ranked).

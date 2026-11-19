@@ -1,5 +1,5 @@
 ---
-title: "NBA Specter Edition Jerseys Ranked: All 8 From Worst to Best (the Warriors Are Last)"
+title: "NBA Specter Edition Jerseys Ranked: All 8 From Worst To Best (The Warriors Are Last)"
 category: "NBA"
 date: "2026-11-04"
 excerpt: "Jake Daneshgar ranks all eight Nike NBA Specter Edition jerseys, worst to best. The Pistons' flames are No. 1, the Hawks' bright brushstrokes are No. 2, and the Warriors' half-finished bridge jersey is dead last. Plus every team's Specter dates."

@@ -1,5 +1,5 @@
 ---
-title: "25 Sports Uniform Traditions Teams Still Follow, From Lakers Sunday Whites to Clemson's Orange Pants"
+title: "25 Sports Uniform Traditions Teams Still Follow, From Lakers Sunday Whites To Clemson's Orange Pants"
 category: "Sports Design"
 date: "2026-11-03"
 excerpt: "Why the Lakers wear white on Sundays, why the Cowboys wear white at home, why the Yankees have no names and why Clemson has to earn its orange pants. The 25 uniform traditions still alive in the NBA, NFL, MLB, NHL and college sports, and our take on each."

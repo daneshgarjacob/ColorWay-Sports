@@ -42,7 +42,7 @@ Nashville dressed its sweater like a country singer's stage suit, in navy and go
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PredsNHL/status/2117270705184084026"></a></blockquote>
 </div>
 
-It debuts Saturday, Nov. 7 against the St. Louis Blues. The Predators wear it 10 times this season: Nov. 7 vs. Blues, Nov. 21 vs. Penguins, Nov. 25 at Stars, Dec. 5 vs. Blue Jackets, Dec. 26 vs. Red Wings, Jan. 23 vs. Kings, Feb. 13 vs. Ducks, Feb. 27 vs. Kings, March 6 vs. Wild and March 20 vs. Bruins. Each one is marked in the game log below.
+It debuted Saturday, Nov. 7 against the St. Louis Blues. The Predators wear it 10 times this season: Nov. 7 vs. Blues, Nov. 21 vs. Penguins, Nov. 25 at Stars, Dec. 5 vs. Blue Jackets, Dec. 26 vs. Red Wings, Jan. 23 vs. Kings, Feb. 13 vs. Ducks, Feb. 27 vs. Kings, March 6 vs. Wild and March 20 vs. Bruins. Each one is marked in the game log below.
 
 **Our ranking: No. 10 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -73,7 +73,7 @@ Navy and gold. The gold sabre-tooth crest sits on tonal navy filigree inspired b
 
 **When do the Nashville Predators wear the Hometown Remix jersey?**
 
-The Nashville Predators debut their Hometown Remix jersey on Saturday, Nov. 7 against the St. Louis Blues and wear it 10 times this season. Every date is listed above and marked in the game log.
+The Nashville Predators debuted their Hometown Remix jersey on Saturday, Nov. 7 against the St. Louis Blues and wear it 10 times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Nashville Predators wear in a season?**
 

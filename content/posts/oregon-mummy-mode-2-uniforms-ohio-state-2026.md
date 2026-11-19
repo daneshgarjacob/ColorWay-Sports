@@ -1,5 +1,5 @@
 ---
-title: "Oregon Mummy Mode 2.0 Uniforms vs. Ohio State: Chrome Helmet, White Jersey and Black Pants in Columbus"
+title: "Oregon Mummy Mode 2.0 Uniforms Vs. Ohio State: Chrome Helmet, White Jersey And Black Pants In Columbus"
 category: "College"
 date: "2026-11-05"
 updatedDate: "2026-11-05"

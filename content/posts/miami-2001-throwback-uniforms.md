@@ -106,7 +106,7 @@ The orange set goes on first. Miami confirmed on October 22 that it wears the 20
 
 The reveal graphic is titled "2001 Tribute" and says that 25 years later, the 2001 uniform represents the Miami brand. That is the right framing. The 2001 Hurricanes went **12-0** under first-year head coach Larry Coker and beat **Nebraska 37-14 in the Rose Bowl** on January 3, 2002, the BCS national championship game and the fifth national title in program history. Ken Dorsey and Andre Johnson were the Rose Bowl's players of the game, and that roster is still talked about as one of the best college football teams ever assembled.
 
-The white road version is still waiting. Miami's remaining road trips are North Carolina on October 31 and Notre Dame on November 7, and we will update this post and the [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026) the moment the whites get a date.
+**Update, November 7:** the white road version debuted at Notre Dame: the striped white helmet, white jersey with the green yoke and green pants, confirmed from the team's game photos. Notre Dame won 31-24. [Miami's white 2001 throwbacks vs. Notre Dame's navy and gold, graded](/stories/miami-notre-dame-2001-throwback-uniforms-2026). Every Miami look is in the [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026).
 
 ## The Bottom Line
 

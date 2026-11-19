@@ -42,7 +42,7 @@ The goat head returns in royal blue, white and gold, with a red eye and a metall
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloSabres/status/2117270549898379478"></a></blockquote>
 </div>
 
-It debuts Wednesday, Nov. 4 against the Ottawa Senators. The Sabres wear it eight times this season: Nov. 4 vs. Senators, Nov. 25 vs. Rangers, Dec. 18 vs. Canadiens, Dec. 28 vs. Red Wings, Jan. 16 vs. Predators, Jan. 20 at Islanders, Feb. 26 vs. Senators and March 4 vs. Blues. Each one is marked in the game log below.
+It debuted Wednesday, Nov. 4 against the Ottawa Senators. The Sabres wear it eight times this season: Nov. 4 vs. Senators, Nov. 25 vs. Rangers, Dec. 18 vs. Canadiens, Dec. 28 vs. Red Wings, Jan. 16 vs. Predators, Jan. 20 at Islanders, Feb. 26 vs. Senators and March 4 vs. Blues. Each one is marked in the game log below.
 
 **Our ranking: No. 4 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -79,7 +79,7 @@ Royal blue, white and gold, with the goat head crest in a metallic gold outline 
 
 **When do the Buffalo Sabres wear the Hometown Remix jersey?**
 
-The Buffalo Sabres debut their Hometown Remix jersey on Wednesday, Nov. 4 against the Ottawa Senators and wear it eight times this season. Every date is listed above and marked in the game log.
+The Buffalo Sabres debuted their Hometown Remix jersey on Wednesday, Nov. 4 against the Ottawa Senators and wear it eight times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Buffalo Sabres wear in a season?**
 

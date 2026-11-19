@@ -44,7 +44,7 @@ Calgary's Hometown Remix is a farewell to the Scotiabank Saddledome in its final
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlames/status/2117270868116033640"></a></blockquote>
 </div>
 
-It debuts Friday, Nov. 6 against the Anaheim Ducks. The Flames wear it nine times this season: Nov. 6 vs. Ducks, Nov. 8 vs. Flyers, Nov. 11 vs. Rangers, Dec. 3 vs. Sabres, Dec. 5 vs. Capitals, Dec. 8 vs. Predators, Jan. 12 vs. Blue Jackets, Jan. 14 vs. Sharks and Jan. 16 vs. Kings. Each one is marked in the game log below.
+It debuted Friday, Nov. 6 against the Anaheim Ducks. The Flames wear it nine times this season: Nov. 6 vs. Ducks, Nov. 8 vs. Flyers, Nov. 11 vs. Rangers, Dec. 3 vs. Sabres, Dec. 5 vs. Capitals, Dec. 8 vs. Predators, Jan. 12 vs. Blue Jackets, Jan. 14 vs. Sharks and Jan. 16 vs. Kings. Each one is marked in the game log below.
 
 **Our ranking: No. 3 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27). For every Flames sweater since the Atlanta years, see our [Calgary Flames jersey history](/stories/calgary-flames-jersey-history).
 
@@ -75,7 +75,7 @@ Red and gold. The Flaming C is done in "88 Gold" with a texture from the Saddled
 
 **When do the Calgary Flames wear the Hometown Remix jersey?**
 
-The Calgary Flames debut their Hometown Remix jersey on Friday, Nov. 6 against the Anaheim Ducks and wear it nine times this season. Every date is listed above and marked in the game log.
+The Calgary Flames debuted their Hometown Remix jersey on Friday, Nov. 6 against the Anaheim Ducks and wear it nine times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Calgary Flames wear in a season?**
 

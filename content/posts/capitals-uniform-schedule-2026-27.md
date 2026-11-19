@@ -42,7 +42,7 @@ The Capitol Dome logo is back, with stars, crossed sticks and the Statue of Free
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Capitals/status/2117285869866328262"></a></blockquote>
 </div>
 
-It debuts Saturday, Nov. 7 against the Florida Panthers. The Capitals wear it 11 times this season: Nov. 7 vs. Panthers, Nov. 25 vs. Flyers, Dec. 1 vs. Canucks, Dec. 28 vs. Oilers, Jan. 12 vs. Golden Knights, Jan. 14 vs. Hurricanes, Feb. 2 vs. Jets, Feb. 23 vs. Rangers, March 3 vs. Hurricanes, March 15 vs. Lightning and March 23 vs. Red Wings. Each one is marked in the game log below.
+It debuted Saturday, Nov. 7 against the Florida Panthers. The Capitals wear it 11 times this season: Nov. 7 vs. Panthers, Nov. 25 vs. Flyers, Dec. 1 vs. Canucks, Dec. 28 vs. Oilers, Jan. 12 vs. Golden Knights, Jan. 14 vs. Hurricanes, Feb. 2 vs. Jets, Feb. 23 vs. Rangers, March 3 vs. Hurricanes, March 15 vs. Lightning and March 23 vs. Red Wings. Each one is marked in the game log below.
 
 **Our ranking: No. 2 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -90,7 +90,7 @@ Blue with a white marble-textured yoke trimmed in bronze, the Capitol Dome logo 
 
 **When do the Washington Capitals wear the Hometown Remix jersey?**
 
-The Washington Capitals debut their Hometown Remix jersey on Saturday, Nov. 7 against the Florida Panthers and wear it 11 times this season. Every date is listed above and marked in the game log.
+The Washington Capitals debuted their Hometown Remix jersey on Saturday, Nov. 7 against the Florida Panthers and wear it 11 times this season. Every date is listed above and marked in the game log.
 
 **When do the Capitals wear the Screaming Eagle jersey in 2026-27?**
 

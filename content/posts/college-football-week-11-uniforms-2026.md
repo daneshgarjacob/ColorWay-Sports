@@ -1,5 +1,5 @@
 ---
-title: "College Football Week 11 Uniforms 2026: Texas at LSU, Marshall's Play For The 75 and Every Top 25 Look"
+title: "College Football Week 11 Uniforms 2026: Texas At LSU, Marshall's Play For The 75 And Every Top 25 Look"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-08"

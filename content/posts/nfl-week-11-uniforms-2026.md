@@ -7,7 +7,7 @@ updatedDate: "2026-11-18"
 excerpt: "NFL Week 11 uniforms (Nov. 19-23): the Texans debut their white-helmet HOUSTON/US Rivalries uniform on Thursday night, the Bills wear Cold Front against Miami, the Commanders bring the black Hail Raiser to Monday night, the Chargers go powder on powder, plus Mexico City and every other game."
 gradient: "linear-gradient(135deg, #03202F 0%, #0C1526 55%, #5A1414 130%)"
 logoSrc: "/logos/leagues/nfl.png"
-kicker: "Next Week"
+kicker: "This Week"
 league: nfl
 teams: []
 resurfaceOnUpdate: true

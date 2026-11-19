@@ -45,7 +45,7 @@ Colorado went for a frosted white look with blues and silver. The flag-style C a
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Avalanche/status/2117270570148712643"></a></blockquote>
 </div>
 
-It debuts Saturday, Nov. 7 against the Detroit Red Wings. The Avalanche wear it six times this season: Nov. 7 vs. Red Wings, Nov. 27 at Wild, Nov. 28 vs. Sharks, Dec. 12 vs. Capitals, Jan. 8 vs. Kraken and Feb. 22 vs. Golden Knights. Each one is marked in the game log below.
+It debuted Saturday, Nov. 7 against the Detroit Red Wings. The Avalanche wear it six times this season: Nov. 7 vs. Red Wings, Nov. 27 at Wild, Nov. 28 vs. Sharks, Dec. 12 vs. Capitals, Jan. 8 vs. Kraken and Feb. 22 vs. Golden Knights. Each one is marked in the game log below.
 
 **Our ranking: No. 14 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -83,7 +83,7 @@ White with blues and silver. The flag-style C logo is on the chest, filled with 
 
 **When do the Colorado Avalanche wear the Hometown Remix jersey?**
 
-The Colorado Avalanche debut their Hometown Remix jersey on Saturday, Nov. 7 against the Detroit Red Wings and wear it six times this season. Every date is listed above and marked in the game log.
+The Colorado Avalanche debuted their Hometown Remix jersey on Saturday, Nov. 7 against the Detroit Red Wings and wear it six times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Colorado Avalanche wear in a season?**
 

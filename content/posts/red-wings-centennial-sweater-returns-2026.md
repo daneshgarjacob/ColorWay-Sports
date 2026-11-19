@@ -1,5 +1,5 @@
 ---
-title: "The Red Wings' Centennial Sweater Is Back, and It Came With a Hat Trick"
+title: "The Red Wings' Centennial Sweater Is Back, And It Came With A Hat Trick"
 category: "NHL"
 date: "2026-11-03"
 excerpt: "Detroit brought back its solid red Centennial sweater for the first time this season on October 29, and Viktor Arvidsson scored three in a 4-1 win over Chicago. What it looks like and our grade: A."

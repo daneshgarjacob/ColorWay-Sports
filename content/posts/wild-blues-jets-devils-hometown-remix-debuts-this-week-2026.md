@@ -23,7 +23,7 @@ teams: ["minnesota-wild", "st-louis-blues", "winnipeg-jets", "new-jersey-devils"
 
 **Four more Hometown Remix jerseys hit the ice this week, and three of them come out on the same night.** The **Minnesota Wild**, **St. Louis Blues** and **Winnipeg Jets** all wear their Remix sweaters for the first time on **Tuesday, Nov. 17**, and the **New Jersey Devils** follow on **Wednesday, Nov. 18** against Montreal. All four are dark jerseys: black for Minnesota, black and blue for St. Louis, navy for Winnipeg and black and red for New Jersey. All four debuts are home games, so every visitor is expected in white.
 
-**Update, Nov. 18:** the Devils debut theirs tonight against Montreal. [Every detail of the Devils' Remix, its 10 dates and their home record in red](/stories/devils-hometown-remix-jersey-debut-canadiens-2026).
+**Update, Nov. 18:** all three Tuesday debuts are done, each confirmed from the game highlights, with every visitor in white. The **Wild beat Nashville 7-3** and the **Blues beat Anaheim 8-6** in their new black sweaters, and the **Jets lost 2-1 to Ottawa** in navy. The Devils debut theirs tonight against Montreal. [Every detail of the Devils' Remix, its 10 dates and their home record in red](/stories/devils-hometown-remix-jersey-debut-canadiens-2026).
 
 After this week, only three of the 32 teams have not worn their Remix yet: Dallas (Nov. 25) and the Red Wings and Rangers, who have not posted a date.
 
@@ -38,9 +38,9 @@ After this week, only three of the 32 teams have not worn their Remix yet: Dalla
 ## Quick Answers
 
 - **Which NHL teams debut Hometown Remix jerseys this week?** Wild, Blues and Jets on Tuesday, Nov. 17. Devils on Wednesday, Nov. 18.
-- **Jets vs. Senators:** Tuesday, 7 p.m. Eastern (6 p.m. Central) at Canada Life Centre. Jets in navy, Senators expected in white.
-- **Blues vs. Ducks:** Tuesday, 8 p.m. Eastern (7 p.m. Central) at Enterprise Center. Blues in black, Ducks expected in white.
-- **Wild vs. Predators:** Tuesday, 8 p.m. Eastern (7 p.m. Central) at Grand Casino Arena. Wild in black, Predators expected in white.
+- **Jets vs. Senators (final):** Senators 2, Jets 1, Tuesday at Canada Life Centre. Jets in the navy Remix, Senators in white.
+- **Blues vs. Ducks (final):** Blues 8, Ducks 6, Tuesday at Enterprise Center. Blues in the black Remix, Ducks in white.
+- **Wild vs. Predators (final):** Wild 7, Predators 3, Tuesday at Grand Casino Arena. Wild in the black Remix, Predators in white.
 - **Devils vs. Canadiens:** Wednesday, 7:30 p.m. Eastern at Prudential Center. Devils in black and red, Canadiens expected in their regular white road sweater. Nov. 18 is not on Montreal's Remix list.
 - **Best of the four:** the Devils. **Worst:** the Jets.
 
@@ -125,17 +125,17 @@ We will log what every team actually wore on the [NHL uniform tracker](/stories/
 
 The Minnesota Wild, St. Louis Blues and Winnipeg Jets on Tuesday, Nov. 17, 2026, and the New Jersey Devils on Wednesday, Nov. 18.
 
-### When do the Wild wear their Hometown Remix jersey for the first time?
+### When did the Wild wear their Hometown Remix jersey for the first time?
 
-Tuesday, Nov. 17, 2026, at home against the Nashville Predators at 7 p.m. Central.
+Tuesday, Nov. 17, 2026, at home against the Nashville Predators. Minnesota won 7-3. The next Remix game is Nov. 27 vs. Colorado.
 
 ### What does the Wild Hometown Remix jersey look like?
 
 Black, with a crescent moon in place of the sun in the Wild logo, the Big Dipper and Little Dipper debossed on the sleeves, two stars in every number for the Twin Cities, and green and white stripes.
 
-### When do the Blues debut their Hometown Remix jersey?
+### When did the Blues debut their Hometown Remix jersey?
 
-Tuesday, Nov. 17, 2026, at home against the Anaheim Ducks at 7 p.m. Central. They wear it again Sunday, Nov. 22 against Edmonton.
+Tuesday, Nov. 17, 2026, at home against the Anaheim Ducks, an 8-6 St. Louis win. They wear it again Sunday, Nov. 22 against Edmonton.
 
 ### What does the Blues Hometown Remix jersey look like?
 
@@ -143,7 +143,7 @@ Black with blue and silver trim, a round ST. LOUIS BLUES crest with the Gateway 
 
 ### When do the Jets wear their northern lights jersey?
 
-The debut is Tuesday, Nov. 17, 2026, against the Ottawa Senators at Canada Life Centre. Winnipeg wears it eight times, all at home, including Nov. 21 vs. Vegas and Nov. 23 vs. Utah.
+The debut was Tuesday, Nov. 17, 2026, a 2-1 loss to the Ottawa Senators at Canada Life Centre. Winnipeg wears it eight times, all at home, including Nov. 21 vs. Vegas and Nov. 23 vs. Utah.
 
 ### What colors is the Jets Hometown Remix jersey?
 

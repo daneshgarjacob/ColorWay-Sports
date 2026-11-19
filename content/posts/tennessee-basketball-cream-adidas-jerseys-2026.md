@@ -78,7 +78,7 @@ Not in this reveal. The cream uniform was announced by the men's team account an
 
 This is the best uniform in Tennessee's basketball closet, and adidas made it better. The double stripes look like a real 1970s basketball uniform, where the Nike version's solid trim looked like a modern template. The trefoil is the right call too. It is a retro logo on a retro uniform, and it does not look like a sponsor mark the way a swoosh or three bars can. The one thing we would take off is the Axle patch, which crowds the chest on a uniform that works because it is simple. Grade: **A-**.
 
-Every Tennessee football look this season, including the all-black [Dark Mode uniform Tennessee will wear against Kentucky on November 7](/stories/tennessee-dark-mode-uniforms-kentucky-2026), is in our [Tennessee 2026 uniform schedule](/stories/tennessee-uniform-schedule-2026).
+Every Tennessee football look this season, including the all-black [Dark Mode uniform Tennessee wore against Kentucky on November 7](/stories/tennessee-dark-mode-uniforms-kentucky-2026), is in our [Tennessee 2026 uniform schedule](/stories/tennessee-uniform-schedule-2026).
 
 ## The Bottom Line
 

@@ -1,5 +1,5 @@
 ---
-title: "NHL Hometown Remix Jerseys Ranked: All 32 From Worst to Best (Vegas Is Last)"
+title: "NHL Hometown Remix Jerseys Ranked: All 32 From Worst To Best (Vegas Is Last)"
 category: NHL
 date: "2026-11-02"
 excerpt: "All 32 NHL Hometown Remix jerseys, ranked by Jake Daneshgar from worst to best. The Penguins' pop-art sweater is No. 1, the Capitals are No. 2, and the Golden Knights' casino jersey is dead last. We also rank the Panthers' coral near the bottom and the Blackhawks' green in the middle."

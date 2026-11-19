@@ -1,5 +1,5 @@
 ---
-title: "Kansas Basketball's 1952 Throwback Jerseys, Graded: A Great Idea Ruined by a Monster Energy Patch"
+title: "Kansas Basketball's 1952 Throwback Jerseys, Graded: A Great Idea Ruined By A Monster Energy Patch"
 author: "jake-daneshgar"
 category: "College"
 date: "2026-11-01"

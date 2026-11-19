@@ -1,5 +1,5 @@
 ---
-title: "Everyone Loves the Panthers' Pink Hometown Remix Jersey. We Think It's an Eyesore"
+title: "Everyone Loves The Panthers' Pink Hometown Remix Jersey. We Think It's An Eyesore"
 category: NHL
 date: "2026-11-02"
 excerpt: "Florida's coral Hometown Remix jersey is near the top of almost every ranking. We have it 28th of 32. The retro details are good, but the pink-coral base is an eyesore. Here is the case, plus when the Panthers wear it."

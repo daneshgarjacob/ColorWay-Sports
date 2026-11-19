@@ -1,5 +1,5 @@
 ---
-title: "Jake's Fix: The Chargers Should Make Super Chargers Their Full-Time Uniform (and Take the Numbers Off the Helmet)"
+title: "Jake's Fix: The Chargers Should Make Super Chargers Their Full-Time Uniform (And Take The Numbers Off The Helmet)"
 category: "NFL"
 date: "2026-11-03"
 excerpt: "The navy Super Chargers set is the best thing the Chargers wear, and it should be the primary. Navy jersey and white pants at home, white jersey and navy pants on the road, a clean navy helmet with no number. Here is the case."

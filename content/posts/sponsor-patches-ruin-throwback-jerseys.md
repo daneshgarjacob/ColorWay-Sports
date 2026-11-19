@@ -1,5 +1,5 @@
 ---
-title: "Sponsor Patches Are Ruining Throwback Jerseys, and Kansas Just Proved It"
+title: "Sponsor Patches Are Ruining Throwback Jerseys, And Kansas Just Proved It"
 author: "jake-daneshgar"
 category: "College"
 date: "2026-11-01"

@@ -44,7 +44,7 @@ Edmonton went dark: black with orange and gray. The crest is black-on-black with
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/EdmontonOilers/status/2117270580630302812"></a></blockquote>
 </div>
 
-It debuts Thursday, Nov. 5 against the Anaheim Ducks. The Oilers wear it seven times this season: Nov. 5 vs. Ducks, Dec. 3 vs. Capitals, Dec. 17 vs. Stars, Jan. 7 vs. Panthers, Jan. 28 vs. Devils, March 11 vs. Predators and March 18 vs. Blues. Each one is marked in the game log below.
+It debuted Thursday, Nov. 5 against the Anaheim Ducks. The Oilers wear it seven times this season: Nov. 5 vs. Ducks, Dec. 3 vs. Capitals, Dec. 17 vs. Stars, Jan. 7 vs. Panthers, Jan. 28 vs. Devils, March 11 vs. Predators and March 18 vs. Blues. Each one is marked in the game log below.
 
 **Our ranking: No. 24 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -79,7 +79,7 @@ Black with orange and gray. The crest is black-on-black with orange outlines and
 
 **When do the Edmonton Oilers wear the Hometown Remix jersey?**
 
-The Edmonton Oilers debut their Hometown Remix jersey on Thursday, Nov. 5 against the Anaheim Ducks and wear it seven times this season. Every date is listed above and marked in the game log.
+The Edmonton Oilers debuted their Hometown Remix jersey on Thursday, Nov. 5 against the Anaheim Ducks and wear it seven times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Edmonton Oilers wear in a season?**
 

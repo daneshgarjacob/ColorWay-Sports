@@ -43,7 +43,7 @@ The fan-favorite anchor logo finally gets the chest, in cream with scrimshaw-sty
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SeattleKraken/status/2117314055765631179"></a></blockquote>
 </div>
 
-It debuts Wednesday, Nov. 4 against the Calgary Flames. The Kraken wear it six times this season: Nov. 4 vs. Flames, Nov. 28 vs. Oilers, Jan. 2 vs. Islanders, Jan. 3 vs. Canucks, Feb. 13 vs. Blues and March 15 vs. Blues. Each one is marked in the game log below.
+It debuted Wednesday, Nov. 4 against the Calgary Flames. The Kraken wear it six times this season: Nov. 4 vs. Flames, Nov. 28 vs. Oilers, Jan. 2 vs. Islanders, Jan. 3 vs. Canucks, Feb. 13 vs. Blues and March 15 vs. Blues. Each one is marked in the game log below.
 
 **Our ranking: No. 12 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -90,7 +90,7 @@ Deep sea blue with cream and ice blue. The anchor logo is on the chest in cream 
 
 **When do the Seattle Kraken wear the Hometown Remix jersey?**
 
-The Seattle Kraken debut their Hometown Remix jersey on Wednesday, Nov. 4 against the Calgary Flames and wear it six times this season. Every date is listed above and marked in the game log.
+The Seattle Kraken debuted their Hometown Remix jersey on Wednesday, Nov. 4 against the Calgary Flames and wear it six times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Seattle Kraken wear in a season?**
 

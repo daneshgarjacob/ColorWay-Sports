@@ -1,5 +1,5 @@
 ---
-title: "Kentucky's 'Ice Cold' All-White Uniform for Tennessee: Great Idea, Wrong Helmet"
+title: "Kentucky's 'Ice Cold' All-White Uniform For Tennessee: Great Idea, Wrong Helmet"
 category: "College"
 date: "2026-11-03"
 excerpt: "Kentucky wears all white with a chrome silver helmet at Tennessee on Saturday, against the Vols' all-black Dark Mode. We like the idea, but the helmet fights the jersey and hides the logo. Our grade: B-."

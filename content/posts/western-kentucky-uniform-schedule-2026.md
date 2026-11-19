@@ -55,7 +55,7 @@ The schedule did WKU no favors early. The Hilltoppers opened with three straight
 
 **September 26 vs. Mercyhurst.** ★ Confirmed from WKU's own game photography, dated to the day of the game: **white helmet, white jersey, white pants** for the home opener, a White Out and Parent and Family Weekend at Houchens Industries-L.T. Smith Stadium. Mercyhurst wore green. WKU won 52-7 for its first victory of the season.
 
-**October 1 at New Mexico State.** White expected. The Conference USA opener on a Thursday night at Aggie Memorial Stadium in Las Cruces, 8 p.m. Eastern on CBS Sports Network. This game is tonight, and we will confirm the uniform after it is played.
+**October 1 at New Mexico State.** White expected. The Conference USA opener on a Thursday night at Aggie Memorial Stadium in Las Cruces, 8 p.m. Eastern on CBS Sports Network.
 
 **October 8 vs. Missouri State.** ★ Confirmed: head-to-toe black for the Black Out. **Black helmet with the red and white center stripe, black jersey with red numerals outlined in white, black pants** with a red, white and red stripe and "Tops" script on the hip, the first time this season WKU has worn a black jersey. Missouri State wore white helmets, white jerseys and white pants. WKU won 34-13.
 

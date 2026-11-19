@@ -43,7 +43,7 @@ Philadelphia built its Hometown Remix around the Liberty Bell and America's 250t
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLFlyers/status/2117270614830362945"></a></blockquote>
 </div>
 
-It debuts Tuesday, Nov. 3 against the Minnesota Wild. The Flyers wear it 13 times this season: Nov. 3 vs. Wild, Nov. 27 vs. Canucks, Nov. 30 at Maple Leafs, Dec. 3 vs. Islanders, Dec. 14 vs. Panthers, Dec. 18 vs. Red Wings, Jan. 10 vs. Blackhawks, Jan. 23 vs. Devils, Feb. 20 vs. Rangers, Feb. 26 at Islanders, March 7 vs. Blues, March 18 vs. Bruins and March 20 at Islanders. Each one is marked in the game log below.
+It debuted Tuesday, Nov. 3 against the Minnesota Wild. The Flyers wear it 13 times this season: Nov. 3 vs. Wild, Nov. 27 vs. Canucks, Nov. 30 at Maple Leafs, Dec. 3 vs. Islanders, Dec. 14 vs. Panthers, Dec. 18 vs. Red Wings, Jan. 10 vs. Blackhawks, Jan. 23 vs. Devils, Feb. 20 vs. Rangers, Feb. 26 at Islanders, March 7 vs. Blues, March 18 vs. Bruins and March 20 at Islanders. Each one is marked in the game log below.
 
 **Our ranking: No. 21 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -80,7 +80,7 @@ Gray with orange and black. Six orange bands circle each arm for six decades of 
 
 **When do the Philadelphia Flyers wear the Hometown Remix jersey?**
 
-The Philadelphia Flyers debut their Hometown Remix jersey on Tuesday, Nov. 3 against the Minnesota Wild and wear it 13 times this season. Every date is listed above and marked in the game log.
+The Philadelphia Flyers debuted their Hometown Remix jersey on Tuesday, Nov. 3 against the Minnesota Wild and wear it 13 times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Philadelphia Flyers wear in a season?**
 

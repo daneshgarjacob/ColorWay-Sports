@@ -45,7 +45,7 @@ Utah's Hometown Remix is mountain blue with black and white, the club's first sw
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/utahmammoth/status/2117293157838676450"></a></blockquote>
 </div>
 
-It debuts Thursday, Nov. 5 at the Montreal Canadiens, and the first home game in it is Thursday, Nov. 12 against the St. Louis Blues. Utah wears it at least five times: Nov. 5 at Canadiens, Nov. 12 vs. Blues, Dec. 2 vs. Jets, Feb. 12 vs. Flames and March 13 vs. Flyers. Each one is marked in the game log below.
+It debuted Thursday, Nov. 5 at the Montreal Canadiens, and the first home game in it is Thursday, Nov. 12 against the St. Louis Blues. Utah wears it at least five times: Nov. 5 at Canadiens, Nov. 12 vs. Blues, Dec. 2 vs. Jets, Feb. 12 vs. Flames and March 13 vs. Flyers. Each one is marked in the game log below.
 
 **Our ranking: No. 8 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -81,7 +81,7 @@ Mountain blue with black and white. The U-and-tusk logo is on the chest, the str
 
 **When do the Utah Mammoth wear the Hometown Remix jersey?**
 
-The Utah Mammoth debut their Hometown Remix jersey on Thursday, Nov. 5 at the Montreal Canadiens, with the first home game in it on Nov. 12 against St. Louis. They wear it at least five times, all listed above and marked in the game log.
+The Utah Mammoth debuted their Hometown Remix jersey on Thursday, Nov. 5 at the Montreal Canadiens, with the first home game in it on Nov. 12 against St. Louis. They wear it at least five times, all listed above and marked in the game log.
 
 **How many jerseys do the Utah Mammoth wear in a season?**
 

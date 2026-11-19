@@ -1,5 +1,5 @@
 ---
-title: "Miami Heat Logo and Jersey History: Every Look Since 1988"
+title: "Miami Heat Logo And Jersey History: Every Look Since 1988"
 author: "colorway-sports-staff"
 category: "NBA"
 date: "2026-11-07"

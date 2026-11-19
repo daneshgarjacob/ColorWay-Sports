@@ -1,5 +1,5 @@
 ---
-title: "NFL Week 10 Uniforms 2026: What Every Team Is Wearing, Including Giants Vintage White, Ravens Darkness Falls and the White Bengal"
+title: "NFL Week 10 Uniforms 2026: What Every Team Is Wearing, Including Giants Vintage White, Ravens Darkness Falls And The White Bengal"
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-09"
@@ -17,7 +17,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 10 of the 2026 NFL season ran from Thursday, November 12 to Monday, November 16, with 14 games and four teams on bye: the Chicago Bears, Denver Broncos, Philadelphia Eagles and Tampa Bay Buccaneers. All 14 games are final, and the Final line under each game says what was actually worn. All three prime-time games had a special look: the **Giants in Vintage White** on Thursday night (Commanders 24, Giants 21), the **Bengals in the all-white White Bengal** on Sunday night (Bengals 38, Steelers 18), and the **Ravens in all-black Darkness Falls** on Monday night (Chargers 23, Ravens 20). The **49ers wore the red 1994 throwback** in Dallas and won 46-40, and the **Titans debuted the navy Music City** Rivalries uniform in a 40-23 loss to Jacksonville. New England and Detroit play in Munich on Sunday morning.
+Week 10 of the 2026 NFL season ran from Thursday, November 12 to Monday, November 16, with 14 games and four teams on bye: the Chicago Bears, Denver Broncos, Philadelphia Eagles and Tampa Bay Buccaneers. All 14 games are final, and the Final line under each game says what was actually worn. All three prime-time games had a special look: the **Giants in Vintage White** on Thursday night (Commanders 24, Giants 21), the **Bengals in the all-white White Bengal** on Sunday night (Bengals 38, Steelers 18), and the **Ravens in all-black Darkness Falls** on Monday night (Chargers 23, Ravens 20). The **49ers wore the red 1994 throwback** in Dallas and won 46-40, and the **Titans debuted the navy Music City** Rivalries uniform in a 40-23 loss to Jacksonville. Detroit beat New England 35-10 in Munich on Sunday morning.
 
 Below is every Week 10 look we know, special ones first and then all 14 games in order. **Confirmed** means the team has announced the jersey or the full combination. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
 
@@ -47,6 +47,8 @@ With the Giants in white at MetLife Stadium, Washington's published schedule has
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/commanders-burgundy-home.jpg" alt="Washington Commanders burgundy jersey, scheduled by the team at the Giants on Thursday Night Football in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Commanders · Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/giants-vintage-white-alternate.jpg" alt="New York Giants Vintage White jersey, confirmed by the team against the Commanders on Thursday Night Football in Week 10 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Giants · Confirmed</figcaption></figure></div>
 
 Burgundy and gold against white with red and blue trim gives Thursday night plenty of color. Our matchup grade: **B+**. See the [Giants 2026 uniform schedule](/stories/new-york-giants-uniform-schedule-2026), the [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026), and [more on Vintage White](/stories/giants-vintage-white-eagles-commanders-2026).
+
+**Final: Commanders 24, Giants 21.** What was worn: New York wore Vintage White as announced, the navy GIANTS wordmark helmet, white jersey and white pants, on its White Out night. Washington went all burgundy: burgundy helmet, burgundy jersey and burgundy pants. Every look is logged in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
 
 ### Los Angeles Chargers at Baltimore Ravens: Darkness Falls on Monday Night
 
@@ -239,9 +241,9 @@ All three national windows carry a confirmed alternate, covered above.
 - **Miami Dolphins at Indianapolis Colts**, 1:00 p.m. ET, CBS. **Final: Colts 24, Dolphins 22.** Worn: Dolphins white helmet, white jersey, aqua pants; Colts white helmet, royal blue jersey, white pants. Grade: B.
 - **Carolina Panthers at New Orleans Saints**, 1:00 p.m. ET, FOX. **Final: Panthers 20, Saints 17.** Worn: Panthers silver helmet, white jersey, white pants; Saints all black, black helmet, black jersey, black pants. Grade: B.
 - **Buffalo Bills at New York Jets**, 1:00 p.m. ET, CBS. **Final: Bills 31, Jets 12.** Worn: Bills all white, white helmet, white jersey, white pants; Jets Black on Black, black helmet, black jersey, black pants. Grade: B-.
-- **Seattle Seahawks at Las Vegas Raiders**, 4:05 p.m. ET, CBS. Wearing, from the teams' game-day photos: Seahawks navy helmet, white jersey, white pants; Raiders silver helmet, black jersey, silver pants. Matchup grade: B.
-- **Los Angeles Rams at Arizona Cardinals**, 4:05 p.m. ET, CBS. Wearing, from in-game photos: Rams royal helmet, white jersey, white pants; Cardinals white helmet, cardinal red jersey, cardinal red pants. Matchup grade: B.
-- **San Francisco 49ers at Dallas Cowboys**, 4:25 p.m. ET, FOX. Wearing, from the teams' game-day photos: 49ers gold helmet, red 1994 throwback, white pants with a red and black stripe; Cowboys silver star helmet with a red, white and navy center stripe, white jersey, silver pants. Matchup grade: A-.
+- **Seattle Seahawks at Las Vegas Raiders**, 4:05 p.m. ET, CBS. **Final: Seahawks 21, Raiders 13.** Worn, from the teams' game-day photos: Seahawks navy helmet, white jersey, white pants; Raiders silver helmet, black jersey, silver pants. Matchup grade: B.
+- **Los Angeles Rams at Arizona Cardinals**, 4:05 p.m. ET, CBS. **Final: Rams 34, Cardinals 6.** Worn, from in-game photos: Rams royal helmet, white jersey, white pants; Cardinals white helmet, cardinal red jersey, cardinal red pants. Matchup grade: B.
+- **San Francisco 49ers at Dallas Cowboys**, 4:25 p.m. ET, FOX. **Final: 49ers 46, Cowboys 40.** Worn, from the teams' game-day photos: 49ers gold helmet, red 1994 throwback, white pants with a red and black stripe; Cowboys silver star helmet with a red, white and navy center stripe, white jersey, silver pants. Matchup grade: A-.
 - **Pittsburgh Steelers at Cincinnati Bengals**, 8:20 p.m. ET, NBC. Steelers: black helmet, black jersey, gold pants (worn). Bengals: White Bengal, white helmet, white jersey, white pants (worn). Matchup grade: A-. Final: Bengals 38, Steelers 18.
 
 ### Monday, November 16
@@ -254,19 +256,19 @@ Chicago Bears, Denver Broncos, Philadelphia Eagles, Tampa Bay Buccaneers.
 
 ## The Bottom Line
 
-Week 10 puts a special look in every national window. Vintage White on Thursday, the White Bengal on Sunday night and the debut of Darkness Falls on Monday carry the week, and the 49ers' red 1994 throwback in Dallas and the Titans' Music City debut fill out the Sunday afternoon slate. If you missed last week, our [Week 9 uniform guide](/stories/nfl-week-9-uniforms-2026) has every Week 9 look and grade. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
+Week 10 put a special look in every national window. Vintage White on Thursday, the White Bengal on Sunday night and the debut of Darkness Falls on Monday carried the week, and the 49ers' red 1994 throwback in Dallas and the Titans' Music City debut filled out the Sunday afternoon slate. If you missed last week, our [Week 9 uniform guide](/stories/nfl-week-9-uniforms-2026) has every Week 9 look and grade. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
 
 <span id="faq"></span>
 
 ## Frequently Asked Questions
 
-**What uniforms are NFL teams wearing in Week 10 of 2026?**
+**What uniforms did NFL teams wear in Week 10 of 2026?**
 
-Six teams have a confirmed special look: the Giants in Vintage White against Washington on Thursday, the Jets in Black on Black against Buffalo, the 49ers in the red 1994 throwback at Dallas, the Titans in Music City against Jacksonville, the Bengals in the White Bengal against Pittsburgh on Sunday night, and the Ravens in Darkness Falls against the Chargers on Monday night. The Saints are scheduled for the black helmet and black jersey against Carolina, and we expect the Browns in Alpha Dawg and the Jets in their black alternate. Most other teams are in their standard sets, home in color and visitors in white.
+Six teams wore a special look: the Giants in Vintage White against Washington on Thursday, the Jets in Black on Black against Buffalo, the 49ers in the red 1994 throwback at Dallas, the Titans in Music City against Jacksonville, the Bengals in the White Bengal against Pittsburgh on Sunday night, and the Ravens in Darkness Falls against the Chargers on Monday night. The Saints went all black against Carolina and the Browns wore Alpha Dawg against Houston. Most other teams were in their standard sets, home in color and visitors in white.
 
-**What are the Giants wearing against the Commanders?**
+**What did the Giants wear against the Commanders?**
 
-Vintage White: the navy GIANTS wordmark helmet, a white jersey with blue numbers outlined in red, and white pants. New York announced it on September 2. Washington's schedule has burgundy. Kickoff is Thursday, November 12 at 8:15 p.m. Eastern on Prime Video.
+Vintage White: the navy GIANTS wordmark helmet, a white jersey with blue numbers outlined in red, and white pants, announced on September 2 and worn on Thursday, November 12. Washington wore all burgundy and won 24-21 on Prime Video.
 
 **When do the Ravens wear Darkness Falls?**
 
@@ -276,7 +278,7 @@ The debut was Monday Night Football in Week 10 against the Chargers, Monday, Nov
 
 Baltimore wore Darkness Falls: the matte black Darkness helmet, a black jersey and black pants. Los Angeles wore the white helmet with the gold facemask and the white jersey over powder blue pants, as it published on September 1. The Chargers won 23-20 on ESPN.
 
-**What are the Bengals wearing on Sunday Night Football?**
+**What did the Bengals wear on Sunday Night Football?**
 
 The White Bengal: white helmet, white jersey and white pants with black tiger stripes. It was the only date for the full set in 2026, on Sunday, November 15 on NBC, and Cincinnati beat Pittsburgh 38-18.
 
@@ -290,23 +292,23 @@ San Francisco wore the red 1994 throwback under the gold helmet, as the team had
 
 **What is the Titans' Music City uniform?**
 
-Tennessee's Rivalries uniform, revealed August 25: a navy jersey with Music City in embroidered script, neon-inspired numbers, guitar-string pant striping, and a Titans Blue helmet with a circular navy T. It debuts in Week 10 against Jacksonville.
+Tennessee's Rivalries uniform, revealed August 25: a navy jersey with Music City in embroidered script, neon-inspired numbers, guitar-string pant striping, and a Titans Blue helmet with a circular navy T. It debuted in Week 10 against Jacksonville, a 40-23 Jaguars win.
 
-**What are the Saints wearing against the Panthers?**
+**What did the Saints wear against the Panthers?**
 
-The black jersey and the black helmet, from the plan New Orleans published on September 7. The captains pick the pants before the game. Carolina's schedule has white.
+The black helmet and black jersey, from the plan New Orleans published on September 7, and the captains picked black pants, so the Saints went all black. Carolina wore the silver helmet, white jersey and white pants and won 20-17.
 
-**Are the Browns wearing Alpha Dawg against the Texans?**
+**Did the Browns wear Alpha Dawg against the Texans?**
 
-We expect it. Our Browns schedule has the brown helmet, brown jersey and brown pants for this game, following the Week 4 game against Pittsburgh, and again in Week 14 against Atlanta. We expect Houston in white.
+Yes. Cleveland wore the brown helmet, brown jersey and brown pants, its second all-brown game after Week 4 against Pittsburgh, with Week 14 against Atlanta next on our Browns schedule. Houston wore the navy helmet, white jersey and white pants. The Browns won 27-24.
 
-**What are the Jets wearing against the Bills?**
+**What did the Jets wear against the Bills?**
 
-Black on Black: the black helmet, black jersey and black pants, confirmed by the Jets on November 11 for the Salute to Service game at MetLife Stadium. Buffalo is expected in white.
+Black on Black: the black helmet, black jersey and black pants, confirmed by the Jets on November 11 for the Salute to Service game at MetLife Stadium. Buffalo wore all white and won 31-12.
 
-**What are the Patriots and Lions wearing in Munich?**
+**What did the Patriots and Lions wear in Munich?**
 
-Detroit is the designated home team at Allianz Arena, so we expect the Lions in Honolulu blue and New England in white. Kickoff is 9:30 a.m. Eastern on Sunday, November 15 on FOX.
+Detroit was the designated home team at Allianz Arena and wore the silver helmet, Honolulu blue jersey and silver pants. New England wore the silver helmet, white jersey and silver pants. The Lions won 35-10 on Sunday, November 15.
 
 **Which NFL teams are on bye in Week 10?**
 
@@ -314,4 +316,4 @@ The Chicago Bears, Denver Broncos, Philadelphia Eagles and Tampa Bay Buccaneers.
 
 **Which 2026 Rivalries uniforms are still to come?**
 
-Tennessee debuts in Week 10 against Jacksonville, Houston in Week 11 against Indianapolis, Minnesota in Week 15 against Detroit and Chicago in Week 16 against Green Bay. Our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked) grades all of them.
+Tennessee debuted in Week 10 against Jacksonville. Still to come: Houston in Week 11 against Indianapolis, Minnesota in Week 15 against Detroit and Chicago in Week 16 against Green Bay. Our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked) grades all of them.

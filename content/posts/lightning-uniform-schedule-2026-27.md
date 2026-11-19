@@ -42,7 +42,7 @@ Tampa Bay's Hometown Remix is black with sky blue and gray. The pirate skull fro
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TBLightning/status/2117273387533787525"></a></blockquote>
 </div>
 
-It debuts Saturday, Nov. 14 against the Detroit Red Wings, and the team says the Remix is worn at every Saturday home game for the rest of the season. On the NHL schedule that is 10 games: Nov. 14 vs. Red Wings, Dec. 12 vs. Penguins, Jan. 2 vs. Sabres, Jan. 16 vs. Senators, Jan. 30 vs. Islanders, Feb. 13 vs. Avalanche, Feb. 20 vs. Maple Leafs, March 13 vs. Islanders, March 27 vs. Rangers and April 10 vs. Bruins. Each one is marked in the game log below.
+It debuted Saturday, Nov. 14 against the Detroit Red Wings, and the team says the Remix is worn at every Saturday home game for the rest of the season. On the NHL schedule that is 10 games: Nov. 14 vs. Red Wings, Dec. 12 vs. Penguins, Jan. 2 vs. Sabres, Jan. 16 vs. Senators, Jan. 30 vs. Islanders, Feb. 13 vs. Avalanche, Feb. 20 vs. Maple Leafs, March 13 vs. Islanders, March 27 vs. Rangers and April 10 vs. Bruins. Each one is marked in the game log below.
 
 **Our ranking: No. 31 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 

@@ -13,6 +13,8 @@ league: "college"
 teams: ["kentucky-wildcats", "florida-gators", "sec"]
 ---
 
+**Update, November 14: worn as announced.** The game broadcast confirms Kentucky wore Night Ops, the matte black helmet, black jersey and black pants, and Florida wore its orange helmet, white jersey and orange pants. Florida won 21-14.
+
 **Kentucky is going black.** The Wildcats posted their **Night Ops** uniform on Wednesday afternoon, three days before No. 11 Kentucky hosts Florida at Kroger Field on **Saturday, November 14, at 6:15 p.m. Eastern on ESPN**. It is a matte black helmet, a black jersey and black pants, and the one thing that keeps it from disappearing at night is the **white numbers**.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">

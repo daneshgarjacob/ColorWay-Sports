@@ -1,5 +1,5 @@
 ---
-title: "The NBA Is Ending City Edition: Nike's New 'Crafted' Alternate Uniforms Replace It in 2027-28 (Report)"
+title: "The NBA Is Ending City Edition: Nike's New 'Crafted' Alternate Uniforms Replace It In 2027-28 (Report)"
 category: "NBA"
 date: "2026-11-06"
 updatedDate: "2026-11-06"

@@ -43,7 +43,7 @@ Vegas went full casino in black, gold, jade and red. The knight shield sits in a
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GoldenKnights/status/2117292170579169749"></a></blockquote>
 </div>
 
-It debuts Sunday, Nov. 15 against the Vancouver Canucks. The Golden Knights wear it five times this season: Nov. 15 vs. Canucks, Dec. 21 vs. Hurricanes, Jan. 28 vs. Sabres, Feb. 18 vs. Blue Jackets and March 15 vs. Jets. Each one is marked in the game log below.
+It debuted Sunday, Nov. 15 against the Vancouver Canucks. The Golden Knights wear it five times this season: Nov. 15 vs. Canucks, Dec. 21 vs. Hurricanes, Jan. 28 vs. Sabres, Feb. 18 vs. Blue Jackets and March 15 vs. Jets. Each one is marked in the game log below.
 
 **Our ranking: No. 32 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -88,7 +88,7 @@ Black, gold, jade and red. The knight shield sits in a jade frame, the jade shou
 
 **When do the Vegas Golden Knights wear the Hometown Remix jersey?**
 
-The Vegas Golden Knights debut their Hometown Remix jersey on Sunday, Nov. 15 against the Vancouver Canucks and wear it five times this season. Every date is listed above and marked in the game log.
+The Vegas Golden Knights debuted their Hometown Remix jersey on Sunday, Nov. 15 against the Vancouver Canucks and wear it five times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Vegas Golden Knights wear in a season?**
 

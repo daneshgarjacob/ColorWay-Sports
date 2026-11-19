@@ -1,5 +1,5 @@
 ---
-title: "College Football Halloween Uniforms 2026, Graded After the Games: Syracuse's Otto Helmet Wins, Louisville Misses"
+title: "College Football Halloween Uniforms 2026, Graded After The Games: Syracuse's Otto Helmet Wins, Louisville Misses"
 author: "jake-daneshgar"
 category: "College"
 date: "2026-11-01"

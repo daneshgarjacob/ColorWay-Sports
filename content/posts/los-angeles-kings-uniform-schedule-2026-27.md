@@ -43,7 +43,7 @@ For their 60th season the Kings went back to purple and gold, with black. The cr
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LAKings/status/2117281111831409003"></a></blockquote>
 </div>
 
-It debuts Wednesday, Nov. 4 against the San Jose Sharks. The Kings wear it seven times this season, all on Wednesday nights at home: Nov. 4 vs. Sharks, Dec. 9 vs. Sharks, Dec. 30 vs. Maple Leafs, Jan. 6 vs. Capitals, Jan. 13 vs. Blues, March 3 vs. Lightning and March 31 vs. Jets. Each one is marked in the game log below.
+It debuted Wednesday, Nov. 4 against the San Jose Sharks. The Kings wear it seven times this season, all on Wednesday nights at home: Nov. 4 vs. Sharks, Dec. 9 vs. Sharks, Dec. 30 vs. Maple Leafs, Jan. 6 vs. Capitals, Jan. 13 vs. Blues, March 3 vs. Lightning and March 31 vs. Jets. Each one is marked in the game log below.
 
 **Our ranking: No. 6 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -78,7 +78,7 @@ Purple, gold and black. The crest uses a Hollywood-style serif with a crown outl
 
 **When do the Los Angeles Kings wear the Hometown Remix jersey?**
 
-The Los Angeles Kings debut their Hometown Remix jersey on Wednesday, Nov. 4 against the San Jose Sharks and wear it seven times this season. Every date is listed above and marked in the game log.
+The Los Angeles Kings debuted their Hometown Remix jersey on Wednesday, Nov. 4 against the San Jose Sharks and wear it seven times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Los Angeles Kings wear in a season?**
 

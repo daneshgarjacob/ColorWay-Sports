@@ -1,5 +1,5 @@
 ---
-title: "Hometown Remix Debut Week: How All 10 NHL Teams Did in Their New Jerseys"
+title: "Hometown Remix Debut Week: How All 10 NHL Teams Did In Their New Jerseys"
 category: "NHL"
 date: "2026-11-03"
 updatedDate: "2026-11-09"

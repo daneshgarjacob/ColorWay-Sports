@@ -42,7 +42,7 @@ Vancouver after dark, in navy and bright blue. The orca is in tonal dark blues w
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Canucks/status/2117279391814406539"></a></blockquote>
 </div>
 
-It debuts Friday, Nov. 13 against the New York Rangers. The Canucks wear it six times this season: Nov. 13 vs. Rangers, Nov. 21 vs. Wild, Dec. 4 vs. Sabres, Feb. 16 vs. Penguins, Feb. 20 vs. Avalanche and March 3 vs. Blackhawks. Each one is marked in the game log below.
+It debuted Friday, Nov. 13 against the New York Rangers. The Canucks wear it six times this season: Nov. 13 vs. Rangers, Nov. 21 vs. Wild, Dec. 4 vs. Sabres, Feb. 16 vs. Penguins, Feb. 20 vs. Avalanche and March 3 vs. Blackhawks. Each one is marked in the game log below.
 
 **Our ranking: No. 30 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -73,7 +73,7 @@ Navy and bright blue. The orca is in tonal dark blues with a silver eye, the bri
 
 **When do the Vancouver Canucks wear the Hometown Remix jersey?**
 
-The Vancouver Canucks debut their Hometown Remix jersey on Friday, Nov. 13 against the New York Rangers and wear it six times this season. Every date is listed above and marked in the game log.
+The Vancouver Canucks debuted their Hometown Remix jersey on Friday, Nov. 13 against the New York Rangers and wear it six times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Vancouver Canucks wear in a season?**
 

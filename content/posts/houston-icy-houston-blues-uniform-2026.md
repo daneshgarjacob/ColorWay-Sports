@@ -13,6 +13,8 @@ league: "college"
 teams: ["houston-cougars", "big-12"]
 ---
 
+**Update, November 13:** Houston wore all white at Colorado, a white helmet, white jersey with light blue numbers and white pants, from the game broadcast, and lost 42-32. Colorado wore the gold helmet, black jersey and black pants. Full game notes are in our [College Football Week 11 uniforms guide](/stories/college-football-week-11-uniforms-2026).
+
 **Houston has a new look.** On Wednesday, November 11, the Cougars posted "New uni unlocked: Icy Houston Blues" with a photo shoot and a video. It is a white uniform built around the light Houston Blue that the program brought back this season, with the red trim that ties it to the rest of the closet.
 
 Our grade: **B**. I think the Icy Houston Blues are great as a concept. I would have liked to see the helmet have more of a pop of color, and for that reason I don't think it's going to look as good on the field as it does in the photos.

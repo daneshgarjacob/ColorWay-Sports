@@ -7,7 +7,7 @@ updatedDate: "2026-10-12"
 excerpt: "NFL Week 5 uniforms (Oct. 8-12): Patriots Pat Patriot throwback vs Raiders, Packers Rivalries debut vs Bears, Bucs red in Dallas, Cardinals black, Falcons red on Sunday night."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 cardStyle: words
-kicker: "Next Week"
+kicker: "This Week"
 league: nfl
 teams: []
 resurfaceOnUpdate: true
@@ -142,9 +142,9 @@ Most teams are in their standard sets, home in color and visitors in white. The 
 
 The red Pat Patriot throwback, with the Pat Patriot logo on a white helmet, against the Las Vegas Raiders on Sunday, October 11 at Gillette Stadium. New England confirmed the date on August 31. It is the day the team honors the 25th anniversary of the 2001 Super Bowl champions, and the throwback returns once more on Thursday, December 10 against the Vikings.
 
-**What are the Packers wearing against the Bears in Week 5?**
+**What did the Packers wear against the Bears in Week 5?**
 
-The new Rivalries uniform, which debuts at Lambeau Field on Sunday, October 11. It is a darker hunter green jersey with cream and gold trim, currency-style numbers and an interlocking GB logo, under a cream helmet with the first matte finish in team history, with cream pants. The Bears are in their white road set under the navy helmet.
+The new Rivalries uniform, which debuted at Lambeau Field on Sunday, October 11, a 31-7 Packers win. It is a darker hunter green jersey with cream and gold trim, currency-style numbers and an interlocking GB logo, under a cream helmet with the first matte finish in team history, with cream pants. The Bears are in their white road set under the navy helmet.
 
 **What are the Cowboys and Buccaneers wearing on Thursday Night Football?**
 

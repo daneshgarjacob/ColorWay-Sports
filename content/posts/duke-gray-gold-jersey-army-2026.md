@@ -1,5 +1,5 @@
 ---
-title: "Duke's Gray and Gold Jersey Came Back for Army, and It Looks Even Better Up Close"
+title: "Duke's Gray And Gold Jersey Came Back For Army, And It Looks Even Better Up Close"
 category: "College"
 date: "2026-11-03"
 excerpt: "Duke opened the season in its gray Coach K jersey with royal blue and gold trim, beating Army 84-50 at Cameron Indoor. What it looks like, why it comes out for Army, and our grade: B+."

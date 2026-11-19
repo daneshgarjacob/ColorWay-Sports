@@ -1,5 +1,5 @@
 ---
-title: "Miami vs. Notre Dame Uniforms: Miami's 2001 Throwbacks Against Navy and Gold in South Bend, Graded A"
+title: "Miami Vs. Notre Dame Uniforms: Miami's 2001 Throwbacks Against Navy And Gold In South Bend, Graded A"
 category: "College"
 date: "2026-11-07"
 updatedDate: "2026-11-08"

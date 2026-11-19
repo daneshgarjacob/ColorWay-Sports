@@ -43,7 +43,7 @@ Montreal's Hometown Remix is white with red and blue. The CH gets an etched ston
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanadiensMTL/status/2117270510841012386"></a></blockquote>
 </div>
 
-It debuts Tuesday, Nov. 3 against the Winnipeg Jets. The Canadiens wear it 10 times this season: Nov. 3 vs. Jets, Nov. 7 at Maple Leafs, Nov. 12 at Bruins, Nov. 14 vs. Avalanche, Nov. 23 vs. Kings, Dec. 8 vs. Golden Knights, Dec. 27 vs. Stars, Jan. 6 vs. Bruins, Jan. 23 vs. Flames and March 28 vs. Red Wings. Each one is marked in the game log below.
+It debuted Tuesday, Nov. 3 against the Winnipeg Jets. The Canadiens wear it 10 times this season: Nov. 3 vs. Jets, Nov. 7 at Maple Leafs, Nov. 12 at Bruins, Nov. 14 vs. Avalanche, Nov. 23 vs. Kings, Dec. 8 vs. Golden Knights, Dec. 27 vs. Stars, Jan. 6 vs. Bruins, Jan. 23 vs. Flames and March 28 vs. Red Wings. Each one is marked in the game log below.
 
 **Our ranking: No. 9 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -93,7 +93,7 @@ White with red and blue. The CH has an etched stonework look from Old Montreal, 
 
 **When do the Montreal Canadiens wear the Hometown Remix jersey?**
 
-The Montreal Canadiens debut their Hometown Remix jersey on Tuesday, Nov. 3 against the Winnipeg Jets and wear it 10 times this season. Every date is listed above and marked in the game log.
+The Montreal Canadiens debuted their Hometown Remix jersey on Tuesday, Nov. 3 against the Winnipeg Jets and wear it 10 times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Montreal Canadiens wear in a season?**
 

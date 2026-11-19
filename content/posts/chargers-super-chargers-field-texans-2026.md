@@ -1,5 +1,5 @@
 ---
-title: "The Chargers Are Putting Their Navy Helmet at Midfield for Super Chargers Week"
+title: "The Chargers Are Putting Their Navy Helmet At Midfield For Super Chargers Week"
 category: "NFL"
 date: "2026-11-03"
 excerpt: "For the Week 9 game against the Texans, the Chargers wear their all-navy Super Chargers uniform at SoFi Stadium, and the field changes with it: the navy helmet replaces last year's white bolt at midfield."

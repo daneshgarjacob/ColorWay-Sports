@@ -13,6 +13,8 @@ league: "college"
 teams: ["texas-am-aggies", "tennessee-volunteers", "sec"]
 ---
 
+**Update, November 14: worn as posted.** The game broadcast confirms Texas A&M wore the black uniform with the script Aggies helmet and Tennessee wore all white. Tennessee won 22-7.
+
 **Texas A&M is changing two things at Kyle Field this week: the field and the uniform.** On Wednesday morning the team posted photos of crews painting a **script "Aggies"** into the end zones, and that afternoon it posted a **black uniform** with the same script on the helmet under the words "Paint it black." Tennessee visits on **Saturday, November 14, at 3 p.m. Eastern on ESPN**.
 
 ## The Script Aggies End Zones

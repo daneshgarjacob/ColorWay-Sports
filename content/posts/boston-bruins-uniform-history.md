@@ -128,7 +128,7 @@ The Hometown Remix collection gave every NHL team a one-season special jersey, a
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Varsity Sweater reveal, via <a href="https://x.com/NHLBruins" rel="nofollow noopener" target="_blank">@NHLBruins</a></p>
 
-It debuts Thursday, Nov. 12 against the Canadiens, who wear their own white Remix, and Boston wears it 12 times this season. Every date is in our [Bruins 2026-27 uniform schedule](/stories/bruins-uniform-schedule-2026-27), and the full breakdown of Thursday's matchup is in our [Varsity Sweater debut story](/stories/bruins-varsity-sweater-hometown-remix-debut-vs-canadiens-2026).
+It debuted Thursday, Nov. 12 against the Canadiens, who wore their own white Remix, in a 5-2 Montreal win, and Boston wears it 12 times this season. Every date is in our [Bruins 2026-27 uniform schedule](/stories/bruins-uniform-schedule-2026-27), and the full breakdown of Thursday's matchup is in our [Varsity Sweater debut story](/stories/bruins-varsity-sweater-hometown-remix-debut-vs-canadiens-2026).
 
 Brown came back once before, in the 2019 Winter Classic, but only as trim against gold. This is the first time since 1924-25 that brown is the whole sweater.
 
@@ -172,7 +172,7 @@ The Varsity Sweater: all brown with gold, an arched BRUINS wordmark, a front num
 
 ### When do the Bruins wear the brown Varsity Sweater?
 
-It debuts Thursday, Nov. 12, 2026 against the Canadiens, and Boston wears it 12 times this season. All dates are in our [Bruins 2026-27 uniform schedule](/stories/bruins-uniform-schedule-2026-27).
+It debuted Thursday, Nov. 12, 2026 against the Canadiens, and Boston wears it 12 times this season. All dates are in our [Bruins 2026-27 uniform schedule](/stories/bruins-uniform-schedule-2026-27).
 
 ### Did the Bruins change their logo in 2025?
 

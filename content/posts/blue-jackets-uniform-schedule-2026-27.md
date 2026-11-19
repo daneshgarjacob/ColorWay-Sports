@@ -42,7 +42,7 @@ Columbus's first gray sweater puts the lone cannon from its Stadium Series jerse
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BlueJacketsNHL/status/2117270570895106535"></a></blockquote>
 </div>
 
-It debuts Tuesday, Nov. 3 against the Colorado Avalanche. The Blue Jackets wear it 13 times this season: Nov. 3 vs. Avalanche, Nov. 5 vs. Stars, Nov. 10 vs. Panthers, Nov. 12 vs. Lightning, Nov. 25 vs. Devils, Nov. 27 vs. Red Wings, Dec. 10 vs. Wild, Dec. 15 vs. Hurricanes, Dec. 17 vs. Kraken, Dec. 19 vs. Kings, Dec. 22 vs. Canadiens, Dec. 27 vs. Oilers and Dec. 31 vs. Capitals. Each one is marked in the game log below.
+It debuted Tuesday, Nov. 3 against the Colorado Avalanche. The Blue Jackets wear it 13 times this season: Nov. 3 vs. Avalanche, Nov. 5 vs. Stars, Nov. 10 vs. Panthers, Nov. 12 vs. Lightning, Nov. 25 vs. Devils, Nov. 27 vs. Red Wings, Dec. 10 vs. Wild, Dec. 15 vs. Hurricanes, Dec. 17 vs. Kraken, Dec. 19 vs. Kings, Dec. 22 vs. Canadiens, Dec. 27 vs. Oilers and Dec. 31 vs. Capitals. Each one is marked in the game log below.
 
 **Our ranking: No. 22 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -73,7 +73,7 @@ Gray with navy and blue. The cannon from the Stadium Series jersey is on the che
 
 **When do the Columbus Blue Jackets wear the Hometown Remix jersey?**
 
-The Columbus Blue Jackets debut their Hometown Remix jersey on Tuesday, Nov. 3 against the Colorado Avalanche and wear it 13 times this season. Every date is listed above and marked in the game log.
+The Columbus Blue Jackets debuted their Hometown Remix jersey on Tuesday, Nov. 3 against the Colorado Avalanche and wear it 13 times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Columbus Blue Jackets wear in a season?**
 

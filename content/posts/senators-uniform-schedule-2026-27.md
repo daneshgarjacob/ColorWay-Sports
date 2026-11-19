@@ -43,7 +43,7 @@ Ottawa's centurion crest is done in brushed metallic gold on a black body. The s
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Senators/status/2117301460132106499"></a></blockquote>
 </div>
 
-It debuts Thursday, Nov. 12 against the Colorado Avalanche, the first of nine Remix games. We have not confirmed the other eight dates yet and will add them here, and in the game log below, once we do. Before the debut, read [what the Remix jersey looks like and what Colorado wears against it](/stories/senators-hometown-remix-debut-vs-avalanche-2026).
+It debuted Thursday, Nov. 12 against the Colorado Avalanche, the first of nine Remix games. We have not confirmed the other eight dates yet and will add them here, and in the game log below, once we do. Before the debut, read [what the Remix jersey looks like and what Colorado wears against it](/stories/senators-hometown-remix-debut-vs-avalanche-2026).
 
 **Our ranking: No. 26 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -78,7 +78,7 @@ Black and gold. The centurion crest is brushed metallic gold, the sleeve stripes
 
 **When do the Ottawa Senators wear the Hometown Remix jersey?**
 
-The Ottawa Senators debut their Hometown Remix jersey on Thursday, Nov. 12 against the Colorado Avalanche and wear it nine times this season. The debut is marked in the game log above, and the other eight dates go in as soon as we confirm them.
+The Ottawa Senators debuted their Hometown Remix jersey on Thursday, Nov. 12 against the Colorado Avalanche and wear it nine times this season. The debut is marked in the game log above, and the other eight dates go in as soon as we confirm them.
 
 **How many jerseys do the Ottawa Senators wear in a season?**
 

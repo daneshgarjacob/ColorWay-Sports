@@ -1,5 +1,5 @@
 ---
-title: "NHL Military Appreciation Night Jerseys 2026: Every Team's Date and Warmup Look"
+title: "NHL Military Appreciation Night Jerseys 2026: Every Team's Date And Warmup Look"
 category: NHL
 date: "2026-11-02"
 excerpt: "Veterans Day is Wednesday, Nov. 11. Here is every NHL team's 2026-27 Military Appreciation, Remembrance Day and Armed Forces night we could confirm from the team's own schedule, with the matchup, what's planned, and the seven clubs that haven't posted a date."

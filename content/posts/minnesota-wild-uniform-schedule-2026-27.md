@@ -42,7 +42,7 @@ Minnesota turned its logo into a night sky on a black sweater with green and whi
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/mnwild/status/2117274288638329099"></a></blockquote>
 </div>
 
-It debuts Tuesday, Nov. 17 against the Nashville Predators. The Wild wear it 10 times this season: Nov. 17 vs. Predators, Nov. 27 vs. Avalanche, Dec. 10 at Blue Jackets, Dec. 12 vs. Jets, Dec. 26 vs. Jets, Jan. 2 vs. Blues, Jan. 14 vs. Panthers, Jan. 21 vs. Red Wings, Feb. 23 vs. Penguins and March 19 vs. Flames. Each one is marked in the game log below.
+It debuted Tuesday, Nov. 17 against the Nashville Predators. The Wild wear it 10 times this season: Nov. 17 vs. Predators, Nov. 27 vs. Avalanche, Dec. 10 at Blue Jackets, Dec. 12 vs. Jets, Dec. 26 vs. Jets, Jan. 2 vs. Blues, Jan. 14 vs. Panthers, Jan. 21 vs. Red Wings, Feb. 23 vs. Penguins and March 19 vs. Flames. Each one is marked in the game log below.
 
 **Our ranking: No. 25 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -79,7 +79,7 @@ Black with green and white. The crest swaps the sun for a crescent moon, the Big
 
 **When do the Minnesota Wild wear the Hometown Remix jersey?**
 
-The Minnesota Wild debut their Hometown Remix jersey on Tuesday, Nov. 17 against the Nashville Predators and wear it 10 times this season. Every date is listed above and marked in the game log.
+The Minnesota Wild debuted their Hometown Remix jersey on Tuesday, Nov. 17 against the Nashville Predators and wear it 10 times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Minnesota Wild wear in a season?**
 

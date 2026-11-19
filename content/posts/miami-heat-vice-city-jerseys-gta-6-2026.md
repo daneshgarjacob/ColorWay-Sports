@@ -1,5 +1,5 @@
 ---
-title: "Miami Heat Vice City Jerseys Revealed: The GTA 6 x Travis Scott Cactus Jack Uniform for November 18"
+title: "Miami Heat Vice City Jerseys Revealed: The GTA 6 x Travis Scott Cactus Jack Uniform For November 18"
 category: "NBA"
 date: "2026-11-06"
 updatedDate: "2026-11-17"

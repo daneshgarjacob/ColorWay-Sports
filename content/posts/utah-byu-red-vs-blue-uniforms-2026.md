@@ -1,5 +1,5 @@
 ---
-title: "Utah vs. BYU Uniforms: All Red vs. All Royal Blue in the Holy War, Graded A+"
+title: "Utah Vs. BYU Uniforms: All Red Vs. All Royal Blue In The Holy War, Graded A+"
 category: "College"
 date: "2026-11-07"
 updatedDate: "2026-11-07"

@@ -43,7 +43,7 @@ Winnipeg's Hometown Remix is the northern lights. The body is a night-sky navy, 
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NHLJets/status/2117272136947736827"></a></blockquote>
 </div>
 
-It debuts Tuesday, Nov. 17 against the Ottawa Senators. The Jets wear it eight times this season: Nov. 17 vs. Senators, Nov. 21 vs. Golden Knights, Nov. 23 vs. Mammoth, Dec. 10 vs. Blackhawks, Jan. 19 vs. Wild, Jan. 21 vs. Rangers, March 23 vs. Blues and March 25 vs. Avalanche. Each one is marked in the game log below.
+It debuted Tuesday, Nov. 17 against the Ottawa Senators. The Jets wear it eight times this season: Nov. 17 vs. Senators, Nov. 21 vs. Golden Knights, Nov. 23 vs. Mammoth, Dec. 10 vs. Blackhawks, Jan. 19 vs. Wild, Jan. 21 vs. Rangers, March 23 vs. Blues and March 25 vs. Avalanche. Each one is marked in the game log below.
 
 **Our ranking: No. 29 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
@@ -87,7 +87,7 @@ Night-sky navy with northern lights colors. The sleeves fade from blue to light 
 
 **When do the Winnipeg Jets wear the Hometown Remix jersey?**
 
-The Winnipeg Jets debut their Hometown Remix jersey on Tuesday, Nov. 17 against the Ottawa Senators and wear it eight times this season. Every date is listed above and marked in the game log.
+The Winnipeg Jets debuted their Hometown Remix jersey on Tuesday, Nov. 17 against the Ottawa Senators and wear it eight times this season. Every date is listed above and marked in the game log.
 
 **How many jerseys do the Winnipeg Jets wear in a season?**
 
