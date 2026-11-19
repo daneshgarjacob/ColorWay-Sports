@@ -3,7 +3,7 @@ title: "NFL Thanksgiving Uniforms 2026: What Every Team Will Wear, Wednesday Thr
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-02"
-updatedDate: "2026-11-16"
+updatedDate: "2026-11-19"
 excerpt: "NFL Thanksgiving uniforms for 2026, all five holiday-week games: the Rams debut Fearsome White against the Packers on Thanksgiving Eve, the Cowboys wear their 1960s Classic throwback against the Eagles, the Lions host the Bears in Honolulu blue, the Bills wear royal blue against the Chiefs at night, and the Steelers host the Broncos on Black Friday."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #869397 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -87,7 +87,7 @@ The last time these two met on Thanksgiving, in 2024, Detroit wore its all-blue 
 
 - **Dallas and the Classic.** The 1960s throwback has been the Cowboys' Thanksgiving uniform every year since 2022, and 2026 makes five in a row.
 - **Detroit's mix.** The Lions do not have one fixed Thanksgiving look. They wore their throwbacks (logo-free silver helmet, plain Honolulu blue jersey, silver pants) against Green Bay in 2023 and again in 2025, per [WILX](https://www.wilx.com/2025/11/26/lions-return-classic-throwback-look-thanksgiving-game/), and went all blue against the Bears in 2024. They also wore throwbacks often on the holiday in the 2000s.
-- **The Madden patch.** Since 2023, players on Thanksgiving have worn a round shoulder patch of John Madden in a headset, a tribute to the Hall of Fame coach and broadcaster. It ran for the third straight year in 2025.
+- **The Madden patch is back.** The NFL confirmed on November 19 that every player in the three Thursday games wears the round [John Madden Thanksgiving patch](/stories/john-madden-thanksgiving-patch-2026), a silhouette of Madden in his headset, high on the left chest. It is the fourth year of the patch, since 2023, and the fifth John Madden Thanksgiving Celebration.
 
 We will update this page as each team posts its game-week uniform, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what all ten teams actually wear.
 
@@ -141,4 +141,4 @@ We expect white jerseys with the navy helmet at Detroit, Chicago's standard road
 
 **Do NFL players wear a special patch on Thanksgiving?**
 
-Since 2023, players have worn a John Madden tribute patch on Thanksgiving, and it ran for a third straight year in 2025.
+Yes. The NFL confirmed on November 19, 2026 that every player in the three Thanksgiving Day games wears the [John Madden Thanksgiving patch](/stories/john-madden-thanksgiving-patch-2026), a round patch with a silhouette of Madden on the left chest. It has been worn every Thanksgiving since 2023.

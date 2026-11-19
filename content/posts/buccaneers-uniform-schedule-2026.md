@@ -3,7 +3,7 @@ topViewsRank: 4
 title: "Tampa Bay Buccaneers Jerseys & Uniforms 2026: Full Schedule"
 category: "NFL"
 date: "2026-08-13"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-19"
 excerpt: "Tampa Bay has confirmed two special uniform dates: the creamsicle throwbacks on December 6 and the all-pewter jersey on December 20. Every confirmed game so far."
 gradient: "linear-gradient(135deg, #34302B 0%, #1a1815 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -16,6 +16,12 @@ teams: ["tampa-bay-buccaneers"]
 ---
 
 The creamsicle is the best throwback in football, and it's back December 6 against the Chargers. Two weeks later, December 20, the Bucs go all pewter, which is their worst look. Every Bucs game is below, with what they wore and what's next.
+
+**Update, November 19:** Tampa Bay confirmed its Week 11 look at Detroit on Sunday, November 22 (1:00 p.m. ET, FOX): **all white**, the **pewter helmet, white jersey and white pants**, posted with the line "Headed to the Motor City in all white." The Lions are in their black alternate, so it is white against black. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Buccaneers/status/2123476408244609500"></a></blockquote>
+</div>
 
 **Update, November 5:** Tampa Bay confirmed its Week 9 look at Chicago on Sunday Night Football, November 8 (8:20 p.m. ET, NBC): the **pewter helmet, white jersey and pewter pants**, from the team's game-week uniform graphic.
 
@@ -98,7 +104,7 @@ White at home through the early-season heat, red at Raymond James from there, wh
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Pewter Pants</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ All White</div></div>
   <div style="background: #D50A0A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #E87722; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chargers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Creamsicle Throwback</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>

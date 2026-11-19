@@ -10,6 +10,7 @@ const TAG_CLASS: Record<string, string> = {
   NBA: "bg-[#fff3ea] text-[#b4530f]",
   NHL: "bg-[#eef4f8] text-[#1c5675]",
   Soccer: "bg-[#f1eefe] text-[#4b2fbd]",
+  "More Sports": "bg-[#eef0f4] text-[#3a4256]",
 };
 
 /**

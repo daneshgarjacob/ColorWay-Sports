@@ -97,7 +97,7 @@ Not in 2026. Kansas City wears red at home and white on the road.
 
 **Do NFL players wear a special patch on Thanksgiving?**
 
-Since 2023, players on Thanksgiving have worn a John Madden tribute patch, and it ran for the third straight year in 2025.
+Yes. The NFL confirmed on November 19, 2026 that every player in the three Thanksgiving Day games, this one included, wears the [John Madden Thanksgiving patch](/stories/john-madden-thanksgiving-patch-2026): a round patch with a silhouette of Madden in his headset, high on the left chest. It has been worn every Thanksgiving since 2023.
 
 ## More Thanksgiving Week Uniforms
 

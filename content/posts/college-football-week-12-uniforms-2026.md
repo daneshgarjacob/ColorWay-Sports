@@ -1,10 +1,10 @@
 ---
-title: "College Football Week 12 Uniforms 2026: Florida State's First Turquoise Game, Georgia At South Carolina And Every Top 25 Look"
+title: "College Football Week 12 Uniforms 2026: Florida State's First Turquoise Game, Miami's Camo, UCF's Script Helmet And Every Top 25 Look"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-18"
 updatedDate: "2026-11-19"
-excerpt: "College football Week 12 uniforms: Florida State wears turquoise in a game for the first time against NC State, BYU goes all white at Kansas, Georgia visits South Carolina and Miami hosts Virginia Tech with College GameDay in town. Every announced look, every Top 25 game and what each team is expected to wear."
+excerpt: "College football Week 12 uniforms: Florida State wears turquoise in a game for the first time against NC State, Miami brings back its digital camo Military Appreciation uniform with black pants for Virginia Tech and College GameDay, UCF debuts Knights Script Mode, Tennessee goes orange for LSU and BYU goes all white at Kansas. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #0f6f73 60%, #782F40 130%)"
 cardStyle: words
 kicker: "This Week"
@@ -13,7 +13,7 @@ teams: ["florida-state-seminoles", "nc-state-wolfpack", "georgia-bulldogs", "sou
 resurfaceOnUpdate: true
 ---
 
-Week 12 of the 2026 college football season has the first turquoise game in Florida State history. The Seminoles wear turquoise uniforms for their Seminole Heritage game against **NC State** on Saturday, with turquoise end zones painted at Doak Campbell Stadium to match. The Top 25 game of the night is **No. 1 Georgia at South Carolina** on ABC, College GameDay is in Coral Gables for **Virginia Tech at No. 5 Miami**, and **No. 6 Indiana** makes the trip to Washington for the Huskies' Salute to Service game. **No. 12 BYU** has already posted an all-white look for its noon game at Kansas.
+Week 12 of the 2026 college football season has the first turquoise game in Florida State history. The Seminoles wear turquoise uniforms for their Seminole Heritage game against **NC State** on Saturday, with turquoise end zones painted at Doak Campbell Stadium to match. The Top 25 game of the night is **No. 1 Georgia at South Carolina** on ABC, College GameDay is in Coral Gables for **Virginia Tech at No. 5 Miami**, and **No. 6 Indiana** makes the trip to Washington for the Huskies' Salute to Service game. **No. 12 BYU** has already posted an all-white look for its noon game at Kansas. On Thursday, **Miami** posted its digital camo Military Appreciation uniform for GameDay night, with black pants replacing last year's olive, and **UCF** went to the gold Knights script on a black helmet for Senior Knight on Friday.
 
 Below is every uniform announced so far, then every game this week involving an AP Top 25 team or one of the programs we track in our college uniform schedules, with kickoff time, TV and what each team is wearing. A look is marked **Confirmed** when the school itself has posted it for this game. When a school has not posted yet, we give our projection from that team's uniform schedule and label it **Expected**. Most schools post their combination between Monday and game day, so this page fills in all week, and on Saturday we check every look against the game broadcasts and team photos, then add final scores. Rankings are from the November 16 AP poll. All times are Eastern. Last week's looks are in our [Week 11 uniform guide](/stories/college-football-week-11-uniforms-2026).
 
@@ -23,7 +23,9 @@ Below is every uniform announced so far, then every game this week involving an 
 - **What is BYU wearing at Kansas?** All white: white helmet with a royal blue facemask, white jersey, white pants.
 - **What is Kentucky wearing at Missouri?** Blue helmet, white jersey, blue pants.
 - **What is Georgia wearing at South Carolina?** Expected: red helmet, white jersey, silver pants, its road set this season.
-- **What is Miami wearing vs. Virginia Tech?** Expected: orange at home, for Military Appreciation night with College GameDay on campus.
+- **What is Miami wearing vs. Virginia Tech?** Digital camo for Military Appreciation night: black helmet with a camo U, camo jersey with black numbers, black pants. Last year's version had olive pants.
+- **What is UCF wearing vs. Iowa State?** Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants.
+- **What is Tennessee wearing vs. LSU?** Home threads: white helmet, orange jersey, white pants.
 - **What is Washington wearing vs. Indiana?** "Husky Heritage": gold helmet with a purple and white center stripe, purple jersey with white numbers, gold pants.
 - **What is Oregon wearing at Michigan State?** Yellow helmet with green wings, white jersey, yellow pants.
 
@@ -37,9 +39,12 @@ Below is every uniform announced so far, then every game this week involving an 
 - **Maryland: Script Shift (Confirmed).** All white, helmet, jersey and pants, with the Terps script and numbers in an iridescent gold, black and red finish, at No. 18 USC. Announced November 18, the set's first game since the 2024 debut at Oregon. [Details](/stories/maryland-script-shift-uniforms-return-usc-2026).
 - **Oregon: yellow, white, yellow (Confirmed).** Yellow helmet with green wings, white jersey with green numbers trimmed in yellow, yellow pants, at Michigan State on Friday night. Posted November 18 as the "Game 11 uniform combo." [Details and history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
 - **Washington: Husky Heritage (Confirmed).** Gold helmet with a purple and white center stripe and DAWGS on the front bumper, purple jersey with white numbers, gold pants, vs. No. 6 Indiana. Posted November 18 as "Game 11 Uniform • Husky Heritage Saturday."
+- **Miami: digital camo, Military Appreciation (Confirmed).** Black helmet with a digital camo U, digital camo jersey with black numbers, black pants, digital camo cleats, vs. Virginia Tech. Posted November 19 as "A tribute to our nation's heroes." It is the camo set Miami wore against Stanford in 2025, when the pants were olive green. [2025 vs. 2026, side by side](/stories/miami-hurricanes-military-appreciation-camo-uniforms-2026).
+- **UCF: Knights Script Mode (Confirmed).** Black helmet with the Knights script in gold and gold center stripes, black jersey, black pants, vs. Iowa State on Friday for Senior Knight. Posted November 19 by UCF Equipment as "Introducing: Knights Script Mode" and by the football account as "Stormy Knights." [Details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
+- **Tennessee: home threads (Confirmed).** White helmet with the orange Power T, orange jersey, white pants, vs. LSU. Posted November 19.
 - **Virginia: navy, navy (Confirmed).** Navy helmet with the V-sabre logo, navy jersey with white numbers outlined in orange, vs. North Carolina. Posted November 18 as "Rivalry threads."
 
-That is the list as of Wednesday, November 18. Schools post their combinations from Monday through Saturday morning, and we add each one here.
+That is the list as of Thursday afternoon, November 19. Arizona State's Roses &amp; Devils throwback (gold helmet with the full-body Sparky, maroon jersey, gold pants) has been reported by the ASU Devils site on On3 for the home finale against Oklahoma State, but Arizona State has not posted it, so we list it as reported, not confirmed. Schools post their combinations from Monday through Saturday morning, and we add each one here.
 
 ## Games of the Week
 
@@ -70,7 +75,19 @@ That is the list as of Wednesday, November 18. Schools post their combinations f
 
 ### Virginia Tech at No. 5 Miami: GameDay and Military Appreciation
 
-**Saturday, 7 p.m., ESPN.** College GameDay is in Coral Gables, and Miami has billed the night as its **Military Appreciation** game. **Miami: Expected, orange at home.** The Hurricanes wore their 2001 Tribute throwbacks in the last two games, at Notre Dame and at home against Duke. Virginia Tech is also the team Miami debuted its black Miami Nights uniforms against in 2017, so a night kickoff against the Hokies keeps that set in the conversation. **Virginia Tech: Expected, white.** The Hokies wore a maroon helmet, white jersey and white pants at Clemson. More: [Miami schedule](/stories/miami-hurricanes-uniform-schedule-2026) and [Virginia Tech schedule](/stories/virginia-tech-uniform-schedule-2026).
+**Saturday, 7 p.m., ESPN.** College GameDay is in Coral Gables, and Miami has billed the night as its **Military Appreciation** game. **Miami: Confirmed, digital camo.** Miami posted its Week 12 uniform combo on Thursday: a **black helmet with a digital camo U**, a **digital camo jersey with black numbers**, **black pants** and digital camo cleats. It is the same camo idea Miami wore against Stanford in 2025, with one big change: **the 2025 pants were olive green, and the 2026 pants are black.** In the graphic the camo also reads greener than last year's tan-heavy pattern, which we will check on the field. **Virginia Tech: Expected, white.**
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2123504310382113120"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Miami's 2026 Military Appreciation uniform, via <a href="https://x.com/CanesFootball" target="_blank" rel="noopener">@CanesFootball</a></p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/1981347890371957101"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Last year's version with olive pants, against Stanford in 2025, via <a href="https://x.com/CanesFootball" target="_blank" rel="noopener">@CanesFootball</a></p>
+
+[Miami's Military Appreciation uniforms, 2025 vs. 2026](/stories/miami-hurricanes-military-appreciation-camo-uniforms-2026). The Hokies wore a maroon helmet, white jersey and white pants at Clemson. More: [Miami schedule](/stories/miami-hurricanes-uniform-schedule-2026) and [Virginia Tech schedule](/stories/virginia-tech-uniform-schedule-2026).
 
 ### No. 6 Indiana at Washington: Salute to Service at Husky Stadium
 
@@ -129,7 +146,14 @@ More: [Washington schedule](/stories/washington-huskies-uniform-schedule-2026) a
 
 ### LSU at No. 9 Tennessee
 
-**Saturday, 3:30 p.m., ABC.** **Tennessee: Expected, orange** at Neyland Stadium. **LSU: Expected, white.** LSU has worn a gold helmet, white jersey and gold pants in its last three games, home and road. More: [Tennessee schedule](/stories/tennessee-uniform-schedule-2026) and [LSU schedule](/stories/lsu-uniform-schedule-2026).
+**Saturday, 3:30 p.m., ABC.** **Tennessee: Confirmed, home threads.** Tennessee posted "home threads" on Thursday: **white helmet with the orange Power T, orange jersey, white pants**, its standard home set, for the last home game of the year. No Smokey Grey and no Dark Mode.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2123457307430228226"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Tennessee's home threads for LSU, via <a href="https://x.com/Vol_Football" target="_blank" rel="noopener">@Vol_Football</a></p>
+
+ **LSU: Expected, white.** LSU has worn a gold helmet, white jersey and gold pants in its last three games, home and road. More: [Tennessee schedule](/stories/tennessee-uniform-schedule-2026) and [LSU schedule](/stories/lsu-uniform-schedule-2026).
 
 ### No. 2 Utah at TCU
 
@@ -138,7 +162,7 @@ More: [Washington schedule](/stories/washington-huskies-uniform-schedule-2026) a
 ## Dates to Watch
 
 - **Florida State's turquoise** against NC State, with turquoise end zones at Doak Campbell Stadium.
-- **Military games:** Washington (Salute to Service, vs. Indiana), Baylor (Salute to Service, vs. Texas Tech) and Miami (Military Appreciation, vs. Virginia Tech). These games usually bring a patch or a helmet decal.
+- **Military games:** Washington (Salute to Service, vs. Indiana), Baylor (Salute to Service, vs. Texas Tech) and Miami (Military Appreciation, vs. Virginia Tech, in digital camo with black pants).
 - **Crowd themes:** Missouri's Wear Black against Kentucky, with Kentucky fans asked to wear blue.
 - **College GameDay** is at Miami.
 - **Senior Days and home finales:** Michigan, USC, West Virginia, Georgia Tech, TCU, Minnesota, Purdue, Boise State (Senior Night on The Blue), Oregon State (Senior Night at Reser), Kansas, Liberty, Washington and Baylor. Duke has a drone show for Friday night against Clemson.
@@ -172,7 +196,17 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[Iowa State](/stories/iowa-state-uniform-schedule-2026) at [UCF](/stories/ucf-uniform-schedule-2026)**, 6 p.m., FS1.
 - Iowa State: **Expected**, white.
-- UCF: **Expected**, black, for its last home game.
+- UCF: **Confirmed**, Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants, for Senior Knight. Posted November 19. [Details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Equipment/status/2123491570401816652"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Knights Script Mode, via <a href="https://x.com/UCF_Equipment" target="_blank" rel="noopener">@UCF_Equipment</a></p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Football/status/2123492429554970821"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">"Stormy Knights," via <a href="https://x.com/UCF_Football" target="_blank" rel="noopener">@UCF_Football</a></p>
 
 **[Clemson](/stories/clemson-uniform-schedule-2026) at [Duke](/stories/duke-uniform-schedule-2026)**, 7:30 p.m., ESPN.
 - Clemson: **Expected**, white.
@@ -291,7 +325,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[LSU](/stories/lsu-uniform-schedule-2026) at No. 9 [Tennessee](/stories/tennessee-uniform-schedule-2026)**, 3:30 p.m., ABC.
 - LSU: **Expected**, white.
-- Tennessee: **Expected**, orange.
+- Tennessee: **Confirmed**, home threads: white helmet, orange jersey, white pants. Posted November 19.
 
 **No. 11 [Texas Tech](/stories/texas-tech-uniform-schedule-2026) at [Baylor](/stories/baylor-uniform-schedule-2026)**, 3:30 p.m., FOX.
 - Texas Tech: **Expected**, white.
@@ -344,7 +378,7 @@ Also in the afternoon: Missouri State at Jacksonville State (2 p.m., ESPN+), Mid
 
 **[Virginia Tech](/stories/virginia-tech-uniform-schedule-2026) at No. 5 [Miami](/stories/miami-hurricanes-uniform-schedule-2026)**, 7 p.m., ESPN.
 - Virginia Tech: **Expected**, white.
-- Miami: **Expected**, orange, for Military Appreciation night with College GameDay in town.
+- Miami: **Confirmed**, digital camo for Military Appreciation night: black helmet with a camo U, camo jersey with black numbers, black pants. Posted November 19. Last year's camo came with olive pants.
 
 **No. 19 [Arizona](/stories/arizona-uniform-schedule-2026) at [Kansas State](/stories/kansas-state-uniform-schedule-2026)**, 7 p.m., FS1.
 - Arizona: **Expected**, white.
@@ -391,7 +425,7 @@ Also in the afternoon: Missouri State at Jacksonville State (2 p.m., ESPN+), Mid
 
 **[Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 10:15 p.m., ESPN.
 - Oklahoma State: **Expected**, white.
-- Arizona State: **Expected**, maroon.
+- Arizona State: **Expected**, maroon. **Reported**, not confirmed: the ASU Devils site on On3 says Arizona State will wear the Roses &amp; Devils 1986 throwback (gold helmet with the full-body Sparky, maroon jersey, gold pants) to close its home schedule. Arizona State has not posted it as of Thursday. [The throwback, graded](/stories/arizona-state-throwback-uniforms-2026).
 
 **[Utah State](/stories/utah-state-uniform-schedule-2026) at [Oregon State](/stories/oregon-state-uniform-schedule-2026)**, 10:30 p.m., CBSSN.
 - Utah State: **Expected**, white.
@@ -434,7 +468,15 @@ It is a real chance. South Carolina has worn a black jersey in four home games t
 
 **What is Miami wearing vs. Virginia Tech?**
 
-Miami is expected in orange at home. It is Miami's Military Appreciation game, with College GameDay on campus and a 7 p.m. Eastern kickoff on ESPN. Virginia Tech is expected in white.
+Miami is wearing its digital camo Military Appreciation uniform: a black helmet with a digital camo U, a camo jersey with black numbers and black pants, posted November 19. Last year's version against Stanford had olive green pants. College GameDay is on campus, and kickoff is 7 p.m. Eastern on ESPN. Virginia Tech is expected in white.
+
+**What is UCF wearing vs. Iowa State?**
+
+Knights Script Mode: a black helmet with the Knights script in gold, a black jersey and black pants, posted by UCF Equipment on November 19 for Senior Knight on Friday, 6 p.m. Eastern on FS1.
+
+**What is Tennessee wearing vs. LSU?**
+
+Its home threads: white helmet with the orange Power T, orange jersey and white pants, posted November 19. LSU is expected in white. Kickoff is 3:30 p.m. Eastern on ABC.
 
 **What is Washington wearing vs. Indiana?**
 

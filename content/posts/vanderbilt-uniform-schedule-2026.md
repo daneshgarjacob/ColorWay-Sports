@@ -3,7 +3,7 @@ title: "Vanderbilt Uniform Schedule 2026: Every Jersey and When the Commodores W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-19"
 excerpt: "What Vanderbilt wears every game in 2026: the black home jersey, the white road set, the new gold alternate, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #C9A227 130%)"
 cardStyle: words
@@ -102,7 +102,7 @@ The [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) has 
 
 **November 14 vs. Alabama.** Black expected. The biggest home date on the calendar and the most likely slot for something special if Vanderbilt has anything left in the equipment room. [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026). **Worn: black helmet and black jersey**, confirmed from the game broadcast. **Final: Alabama 21, Vanderbilt 6.**
 
-**November 21 at Florida.** White expected. Ben Hill Griffin Stadium. [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026).
+**November 21 at Florida**, on SEC Network. White expected. Ben Hill Griffin Stadium. Florida is in its traditional home set, orange helmet, blue jersey and white pants, as listed on the season grid it published in August. Vanderbilt had not posted its game-day fit as of Thursday, November 19; it usually posts during game week, and we will add it here. [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026) and the [college football Week 12 uniform guide](/stories/college-football-week-12-uniforms-2026).
 
 **November 28 vs. Tennessee.** Black expected. Senior Day, the rivalry game, and the season finale at FirstBank Stadium all at once. [Tennessee 2026 uniform schedule](/stories/tennessee-uniform-schedule-2026).
 
@@ -114,7 +114,7 @@ Vanderbilt wore three different jerseys, three helmets and two colors of pants i
 
 **What jersey is Vanderbilt wearing this week?**
 
-Vanderbilt wore the black helmet and black jersey against Alabama on Saturday, November 14, confirmed from the game broadcast, and lost 21-6. The week before, the Commodores wore the black helmet, white jersey and white pants at Mississippi State and won 25-23. Next is at Florida on November 21, where white is expected. We update the grid above the moment the team posts each game day fit.
+Vanderbilt wore the black helmet and black jersey against Alabama on Saturday, November 14, confirmed from the game broadcast, and lost 21-6. The week before, the Commodores wore the black helmet, white jersey and white pants at Mississippi State and won 25-23. Next is at Florida on November 21, where white is expected and Florida is in an orange helmet, blue jersey and white pants. We update the grid above the moment the team posts each game day fit.
 
 **What are Vanderbilt's football uniforms for 2026?**
 

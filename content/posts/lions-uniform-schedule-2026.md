@@ -3,7 +3,7 @@ topViewsRank: 3
 title: "Detroit Lions Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-19"
 excerpt: "Detroit debuts its Rivalries uniform on November 1 against the Vikings. Here is the full 2026 Lions jersey schedule, week by week, with Munich and Thanksgiving explained."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 coverImage: "/images/posts/lions-uniform-schedule-2026/cover.jpg"
@@ -17,7 +17,7 @@ teams: ["detroit-lions"]
 
 Honolulu blue and silver is one of the best color combos in sports, and the Lions' blue home jersey is still their best. The silver Rivalries uniform already came and went, on November 1 against the Vikings. Every Lions game is below, with what they wore and what's next.
 
-**Update, November 18: Week 11 is the black alternate.** The Lions posted "Back in black" on Wednesday of Tampa Bay game week, and the team's X banner for the game (Sunday, November 22, 1:00 p.m. ET, FOX) shows a player in the **black jersey with the Honolulu blue helmet**. Detroit has not shown the pants yet. In Week 7 the black set was worn with black pants. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026). Thanksgiving against the Bears four days later is still Honolulu blue.
+**Update, November 18: Week 11 is the black alternate.** The Lions posted "Back in black" on Wednesday of Tampa Bay game week, and the team's X banner for the game (Sunday, November 22, 1:00 p.m. ET, FOX) shows a player in the **black jersey with the Honolulu blue helmet**. Detroit has not shown the pants yet. In Week 7 the black set was worn with black pants. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026). Tampa Bay confirmed on November 19 that it comes to Ford Field in all white, pewter helmet over white jersey and white pants. Thanksgiving against the Bears four days later is still Honolulu blue.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2123059580276265120"></a></blockquote>
 
@@ -211,7 +211,7 @@ It dates to 1934, when George A. Richards bought the team and moved it to Detroi
 
 **What patch are the Lions wearing?**
 
-On Thanksgiving, the NFL has players wear a round patch of John Madden in a headset on the left shoulder, a tribute to the late Hall of Fame coach and broadcaster that ran for the third straight season in 2025, when Detroit hosted Green Bay. The Lions host the Bears on Thanksgiving, Thursday, November 26, 2026, and the league has not yet announced its patch plans for that game.
+On Thanksgiving, the NFL has players wear a round patch of John Madden in a headset high on the left chest, a tribute to the late Hall of Fame coach and broadcaster worn every Thanksgiving since 2023, including 2025, when Detroit hosted Green Bay. The Lions host the Bears on Thanksgiving, Thursday, November 26, 2026, and the NFL confirmed on November 19 that the patch is back for all three Thanksgiving games. Details: [the John Madden Thanksgiving patch](/stories/john-madden-thanksgiving-patch-2026).
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bears-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago Bears 2026 Uniform Schedule</a><a href="/stories/packers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Green Bay Packers 2026 Uniform Schedule</a><a href="/stories/vikings-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Minnesota Vikings 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

@@ -3,7 +3,7 @@ title: "Iowa State Uniform Schedule 2026: Every Jersey and When the Cyclones Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-19"
 excerpt: "Iowa State uniform schedule 2026: every Cyclones jersey by week, the cardinal home uniform, the all-white road look worn at Iowa, and what ISU wears next."
 gradient: "linear-gradient(135deg, #C8102E 0%, #9e0b23 55%, #F1BE48 130%)"
 cardStyle: words
@@ -81,19 +81,19 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 **November 14 vs. Cincinnati.** ★ Confirmed by Iowa State: **all cardinal**, cardinal helmet with the Cynado logo, cardinal jersey, cardinal pants, from the team's "Cynado threads" post. **Final: Iowa State 41, Cincinnati 13.**
 
-**November 20 at UCF.** White expected. A Friday game at the Acrisure Bounce House in Orlando, 5 p.m. Central on FS1.
+**November 20 at UCF.** White expected. A Friday game at the Acrisure Bounce House in Orlando, 5 p.m. Central on FS1. UCF has confirmed its side for Senior Knight: **Knights Script Mode**, a black helmet with the gold Knights script, black jersey and black pants, posted by UCF Equipment on November 19 ([details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026)). Iowa State had not posted its look as of Thursday afternoon. More: [UCF schedule](/stories/ucf-uniform-schedule-2026) and the [Week 12 college uniform guide](/stories/college-football-week-12-uniforms-2026).
 
 **November 28 vs. Kansas State.** Cardinal expected. Farmageddon closes the regular season at Jack Trice Stadium, a rematch of the game that opened 2025 in Dublin. Kansas State is expected in white on the [Kansas State 2026 uniform schedule](/stories/kansas-state-uniform-schedule-2026), and the last home game of the season.
 
 ## The Bottom Line
 
-Through the first three games, Iowa State wore a cardinal helmet every week and changed only the jersey: cardinal at home, white on the road, white pants every time. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, the all white Whiteout came out against Utah, and the black alternate from the 2024 Nike set waited until Halloween. Homecoming against West Virginia was where the pants changed: all cardinal, script helmet, cardinal jersey and cardinal pants, in a 45-42 win. The cardinal pants stayed on for the trip to BYU, this time under the white jersey, in a 24-10 loss. The Halloween blackout against Oklahoma State, black helmet with the Cynado logo, black jersey and black pants, ended in a 51-49 win on the last kick, and Iowa State went all cardinal with the Cynado helmet for a 41-13 win over Cincinnati on November 14. Next is a Friday trip to UCF on November 20, where white is expected. The grid above has every date, and we add a star as each uniform is confirmed.
+Through the first three games, Iowa State wore a cardinal helmet every week and changed only the jersey: cardinal at home, white on the road, white pants every time. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, the all white Whiteout came out against Utah, and the black alternate from the 2024 Nike set waited until Halloween. Homecoming against West Virginia was where the pants changed: all cardinal, script helmet, cardinal jersey and cardinal pants, in a 45-42 win. The cardinal pants stayed on for the trip to BYU, this time under the white jersey, in a 24-10 loss. The Halloween blackout against Oklahoma State, black helmet with the Cynado logo, black jersey and black pants, ended in a 51-49 win on the last kick, and Iowa State went all cardinal with the Cynado helmet for a 41-13 win over Cincinnati on November 14. Next is a Friday trip to UCF on November 20, where white is expected and UCF will be in Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Iowa State wearing this week?**
 
-Iowa State wore all cardinal, a cardinal helmet with the Cynado logo, cardinal jersey and cardinal pants, against Cincinnati on Saturday, November 14, as confirmed by the team in its "Cynado threads" post, and won 41-13. Next is a Friday trip to UCF on November 20, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Iowa State wore all cardinal, a cardinal helmet with the Cynado logo, cardinal jersey and cardinal pants, against Cincinnati on Saturday, November 14, as confirmed by the team in its "Cynado threads" post, and won 41-13. Next is a Friday trip to UCF on November 20, where white is expected and UCF will be in Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Iowa State's football uniforms for 2026?**
 

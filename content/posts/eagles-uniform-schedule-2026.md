@@ -2,7 +2,7 @@
 title: "Eagles Uniform Schedule 2026: Kelly Green Games and Every Jersey"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-19"
 excerpt: "Eagles uniform schedule 2026: Kelly Green is Week 9 vs. the Giants and Week 16 vs. the Texans, all-black is Week 15 vs. Seattle. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
@@ -38,7 +38,7 @@ Nine home games, eight on the road, and a Week 10 bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Commanders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Green Pants · SNF</div></div>
   <div style="background: #007A33; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Giants</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Kelly Green</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #004C54; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Midnight Green</div></div>
+  <div style="background: #004C54; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Midnight Green · White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cowboys</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cardinals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #004C54; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colts</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Midnight Green</div></div>
@@ -89,6 +89,12 @@ The black set is still the weakest thing the Eagles own. It is not badly made, i
 
 The midnight green primary carries the rest of the home schedule, which as things stand is all nine home dates until the alternates claim their share. That includes the Week 1 opener against Washington, the Week 4 visit from the Rams, Carolina in Week 6, Pittsburgh in Week 11, and a December run of Indianapolis, Seattle and Houston.
 
+**Week 11 against Pittsburgh is confirmed: midnight green helmet, midnight green jersey and white pants**, from the team's "Midnight green for Week 11" post on Thursday, November 19. Kickoff is Sunday, November 22 at 1:00 p.m. Eastern on CBS at Lincoln Financial Field. The Steelers' own Week 11 graphic has them in the black helmet, white jersey and gold pants, so it is midnight green against white, with white pants on both sides. Pittsburgh's side is on our [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Eagles/status/2123551912041877753"></a></blockquote>
+</div>
+
 Midnight green is a genuinely unusual color and the Eagles deserve credit for sticking with it, but the current set leans hard on the black trim and the result reads darker and heavier than it needs to. The 2026 change is small: an updated wordmark on the jersey, not a redesign.
 
 
@@ -109,19 +115,23 @@ How does every one of these jerseys stack up? See our [Eagles jerseys 2026 ranki
 
 **What jersey are the Eagles wearing today?**
 
-Week 9 against the Giants, November 8, worn: Kelly Green helmet, Kelly Green jersey and silver pants. The Giants wore Vintage White, and New York won 19-11. We grade the matchup an A. This answer updates every week. For the rest of the season: Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
+**Week 11 (Sunday, November 22, vs. Pittsburgh, 1:00 p.m. ET, CBS), confirmed:** midnight green helmet, midnight green jersey and white pants, from the team's Week 11 post. The Steelers are in white over gold pants. This answer updates every week. For the rest of the season: Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
 
 **What jerseys are the Eagles wearing this week?**
 
-Week 9 against the Giants, November 8, worn: Kelly Green helmet, Kelly Green jersey and silver pants. The Giants wore Vintage White, and New York won 19-11. We grade the matchup an A. For the rest of the season: Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
+**Week 11 (Sunday, November 22, vs. Pittsburgh), confirmed:** midnight green helmet, midnight green jersey and white pants. The Steelers are in white over gold pants. Week 10 was a bye, and Week 9 against the Giants was Kelly Green over silver pants. For the rest of the season: Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
 
 **What uniform did the Eagles wear last week?**
 
 For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
 
+**What are the Eagles wearing against the Steelers?**
+
+Midnight green helmet, midnight green jersey and white pants, confirmed by the team on November 19 for Sunday's Week 11 home game against Pittsburgh. The Steelers are in white jerseys with gold pants.
+
 **What are the Eagles wearing next week?**
 
-Midnight green at the Linc and white on the road. The only exceptions are the three confirmed alternate games: Kelly Green in Weeks 9 and 16, and the black set in Week 15.
+Week 12 is Thanksgiving at Dallas on Thursday, November 26. The Cowboys wear their navy 1960s Classic throwback that day, so Philadelphia is expected in white; our [Cowboys vs. Eagles Thanksgiving uniforms](/stories/cowboys-eagles-thanksgiving-uniforms-2026) post has the latest. Otherwise it is midnight green at the Linc and white on the road. The only exceptions are the three confirmed alternate games: Kelly Green in Weeks 9 and 16, and the black set in Week 15.
 
 **What jerseys do the Eagles have in 2026?**
 

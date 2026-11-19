@@ -3,7 +3,7 @@ topViewsRank: 11
 title: "Pittsburgh Steelers Jerseys & Uniforms 2026: Full Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-19"
 excerpt: "The Steelers are bringing back the 1933 throwback, and we have it on Black Friday against Denver. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -38,7 +38,7 @@ Eight home games at Acrisure Stadium, nine on the road, and a Week 9 bye. One of
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black · SNF</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Gold Pants</div></div>
   <div style="background: #FFB612; color: #101820; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">1933 Throwback · Black Friday</div></div>
   <div style="background: #000000; color: #FFB612; border: 2px solid #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Color Rush · SNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · MNF</div></div>
@@ -48,7 +48,7 @@ Eight home games at Acrisure Stadium, nine on the road, and a Week 9 bye. One of
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 18</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
-**Starred weeks are confirmed; the rest of the grid is not.** Week 4 at Cleveland is confirmed as black helmet, white jersey, gold pants and black socks. Week 7 in Paris is confirmed as black helmet, white jersey and **black pants**, a combination the team calls new. Pittsburgh has published its 2026 game themes, and unlike a number of clubs this year, that announcement names no jerseys at all. The grid is our call: black at Acrisure and white on the road, with black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback on Black Friday against Denver in Week 12, and the all-black Color Rush on Sunday night against Houston in Week 13.
+**Starred weeks are confirmed; the rest of the grid is not.** Week 4 at Cleveland is confirmed as black helmet, white jersey, gold pants and black socks. Week 7 in Paris is confirmed as black helmet, white jersey and **black pants**, a combination the team calls new. Week 11 at Philadelphia is confirmed as black helmet, white jersey and gold pants. Pittsburgh has published its 2026 game themes, and unlike a number of clubs this year, that announcement names no jerseys at all. The grid is our call: black at Acrisure and white on the road, with black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback on Black Friday against Denver in Week 12, and the all-black Color Rush on Sunday night against Houston in Week 13.
 
 ## The 1933 Throwback Is Confirmed for the Season, Not for a Game
 
@@ -75,6 +75,12 @@ The black jersey with the gold numbers does not need discussing much. It has bar
 ## White on the Road (7 Games)
 
 Weeks 2, 4, 7, 11, 14, 17 and 18. Pittsburgh plays more road games than home games this season, which is what happens when one of your home games is shipped overseas.
+
+**Week 11 at Philadelphia, Sunday, November 22, 1:00 p.m. Eastern on CBS:** the Steelers' own Week 11 graphic, posted November 17 with the caption "New week," shows the **black helmet, white jersey and gold pants**, the standard road set. The Eagles confirmed their side on November 19: midnight green helmet, midnight green jersey and white pants. The Philadelphia side is on our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2122828734688526468"></a></blockquote>
+</div>
 
 **Week 4 at Cleveland, Thursday Night Football on October 1:** the Browns have confirmed **Alpha Dawg**, all brown from the brown helmet to the brown socks, and Pittsburgh is confirmed in its road set, black helmet, white jersey, gold pants and black socks, the same look it wore at New England in Week 2. Cleveland won 27-24. The Browns' side, with their announcement, is on our [Browns 2026 uniform schedule](/stories/browns-uniform-schedule-2026).
 
@@ -114,15 +120,19 @@ How does every one of these jerseys stack up? See our [Steelers jerseys 2026 ran
 
 **What jersey are the Steelers wearing today?**
 
-**Week 9:** the Steelers are on bye. **Week 10 (Sunday, November 15, at Cincinnati, Sunday Night Football on NBC), worn:** black helmet, black jersey and gold pants, confirmed from the broadcast, because the Bengals wore their White Bengal uniform at home. Cincinnati won 38-18. This answer updates every week. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
+**Week 11 (Sunday, November 22, at Philadelphia, 1:00 p.m. ET, CBS), confirmed:** black helmet, white jersey and gold pants, from the team's Week 11 graphic. The Eagles are in midnight green over white pants. **Week 10 at Cincinnati, worn:** black helmet, black jersey and gold pants, because the Bengals wore their White Bengal uniform at home. Cincinnati won 38-18. This answer updates every week. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
 
 **What jerseys are the Steelers wearing this week?**
 
-**Week 9:** the Steelers are on bye. **Week 10 (Sunday, November 15, at Cincinnati, Sunday Night Football on NBC), worn:** black helmet, black jersey and gold pants, confirmed from the broadcast, because the Bengals wore their White Bengal uniform at home. Cincinnati won 38-18. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
+**Week 11 (Sunday, November 22, at Philadelphia, 1:00 p.m. ET, CBS), confirmed:** black helmet, white jersey and gold pants, from the team's Week 11 graphic. The Eagles are in midnight green over white pants. **Week 10 at Cincinnati, worn:** black helmet, black jersey and gold pants, because the Bengals wore their White Bengal uniform at home. Cincinnati won 38-18. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
 
 **What uniform did the Steelers wear last week?**
 
 For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan; the tracker is the record of what actually went on the field.
+
+**What are the Steelers wearing against the Eagles?**
+
+Black helmet, white jersey and gold pants for Week 11 at Lincoln Financial Field on Sunday, November 22, shown in the team's own Week 11 graphic. Philadelphia confirmed midnight green helmets, midnight green jerseys and white pants.
 
 **What jerseys do the Steelers have in 2026?**
 

@@ -3,7 +3,7 @@ title: "NFL Week 11 Uniforms 2026: What Every Team Is Wearing, Including The Tex
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-13"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-19"
 excerpt: "NFL Week 11 uniforms (Nov. 19-23): the Texans debut their white-helmet HOUSTON/US Rivalries uniform on Thursday night, the Bills wear Cold Front against Miami, the Commanders bring the black Hail Raiser to Monday night, the Chargers go powder on powder, plus Mexico City and every other game."
 gradient: "linear-gradient(135deg, #03202F 0%, #0C1526 55%, #5A1414 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -49,8 +49,6 @@ Royal blue against a white base with a chrome facemask is a clean, bright Thursd
 
 Cincinnati has confirmed its side: the **striped orange helmet, white jersey and white pants**, with black socks. The Bengals call it White-White-Black, and it is their most-worn combination.
 
-Cincinnati is expected in its **white** road jersey, the look it has worn on most trips this season.
-
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bengals-white-road.jpg" alt="Cincinnati Bengals white road jersey, confirmed with white pants at Washington on Monday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bengals &middot; Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/commanders-black-alternate.jpg" alt="Washington Commanders Hail Raiser black alternate jersey with burgundy numbers outlined in gold, confirmed by the team against the Bengals on Monday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Commanders &middot; Confirmed</figcaption></figure></div>
 
 The Hail Raiser is the best uniform Washington owns, and all black against road white is a strong Monday night contrast. Our matchup grade: **A-**. See the [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026), the [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026), and [every Commanders jersey ranked](/stories/commanders-jerseys-2026-ranked).
@@ -92,13 +90,18 @@ Powder blue head to toe against white over green is the brightest game of the af
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">"Back in black," posted during Tampa Bay game week, via <a href="https://x.com/Lions" target="_blank" rel="noopener">@Lions</a></p>
 
-**Sunday, 1:00 p.m. ET, FOX. Lions confirmed, Buccaneers expected.** Detroit posted "Back in black" on Wednesday, and the team's X banner for this game shows the **black jersey with the Honolulu blue helmet**. It is the second of three black alternate home dates, after Week 7 against Green Bay, when Detroit wore the Honolulu blue helmet, black jersey and black pants. The team has not shown the pants for this game yet. The Lions host Chicago on Thanksgiving four days later.
+**Sunday, 1:00 p.m. ET, FOX. Both teams confirmed.** Detroit posted "Back in black" on Wednesday, and the team's X banner for this game shows the **black jersey with the Honolulu blue helmet**. It is the second of three black alternate home dates, after Week 7 against Green Bay, when Detroit wore the Honolulu blue helmet, black jersey and black pants. The team has not shown the pants for this game yet. The Lions host Chicago on Thanksgiving four days later.
 
-Tampa Bay is expected in **white**, the look it has worn on most trips this season, with pewter pants at Chicago in Week 9.
+**Update, Nov. 19:** Tampa Bay confirmed **all white**: the **pewter helmet, white jersey and white pants**, posted with the line "Headed to the Motor City in all white." At Chicago in Week 9 the Bucs wore pewter pants with the white jersey.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/buccaneers-white-road.jpg" alt="Tampa Bay Buccaneers white road jersey, expected at Detroit in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Buccaneers &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-black-2nd-alternate.jpg" alt="Detroit Lions black alternate jersey with Honolulu blue numbers, confirmed against the Buccaneers in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions &middot; Confirmed</figcaption></figure></div>
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Buccaneers/status/2123476408244609500"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Buccaneers' Week 11 uniform, via <a href="https://x.com/Buccaneers" target="_blank" rel="noopener">@Buccaneers</a></p>
 
-Black against white and pewter is a clean read, but it trades away Honolulu blue, the best color Detroit owns. Our matchup grade: **B-**. See the [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) and the [Buccaneers 2026 uniform schedule](/stories/buccaneers-uniform-schedule-2026).
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/buccaneers-white-road.jpg" alt="Tampa Bay Buccaneers white road jersey, confirmed with white pants and the pewter helmet at Detroit in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Buccaneers &middot; Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-black-2nd-alternate.jpg" alt="Detroit Lions black alternate jersey with Honolulu blue numbers, confirmed against the Buccaneers in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions &middot; Confirmed</figcaption></figure></div>
+
+Black against all white is a clean read, but it trades away Honolulu blue, the best color Detroit owns. Our matchup grade: **B-**. See the [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) and the [Buccaneers 2026 uniform schedule](/stories/buccaneers-uniform-schedule-2026).
 
 ## The Prime-Time Games
 
@@ -122,15 +125,34 @@ Black against white and pewter is a clean read, but it trades away Honolulu blue
 
 ### Arizona Cardinals At Kansas City Chiefs
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cardinals-white-road.jpg" alt="Arizona Cardinals white road jersey, scheduled by the team at Kansas City in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Cardinals &middot; Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-red-home.jpg" alt="Kansas City Chiefs red home jersey, expected against the Cardinals in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs &middot; Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cardinals-white-road.jpg" alt="Arizona Cardinals white road jersey, confirmed all white with the white helmet at Kansas City in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Cardinals &middot; Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-red-home.jpg" alt="Kansas City Chiefs red home jersey, expected against the Cardinals in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs &middot; Expected</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, CBS. Cardinals scheduled, Chiefs expected.** Arizona published every jersey on September 1 and has **white** for this trip. Kansas City is expected in **red** at Arrowhead, after red over white pants against the Jets in Week 9. Our matchup grade: **B**. See the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) and the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, CBS. Cardinals confirmed, Chiefs expected.** Arizona published every jersey on September 1 and has **white** for this trip, and on Thursday the team posted the full combination: **all white**, the **white helmet, white jersey and white pants**, the same look it wore at Seattle in Week 9.
 
-### Pittsburgh Steelers At Philadelphia Eagles
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AZCardinals/status/2123502570027323660"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Cardinals' Week 11 uniform, via <a href="https://x.com/AZCardinals" target="_blank" rel="noopener">@AZCardinals</a></p>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/steelers-white-road.jpg" alt="Pittsburgh Steelers white road jersey, expected at Philadelphia in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Steelers &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/eagles-midnight-green-home.jpg" alt="Philadelphia Eagles midnight green home jersey, expected against the Steelers in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Eagles &middot; Expected</figcaption></figure></div>
+ Kansas City is expected in **red** at Arrowhead, after red over white pants against the Jets in Week 9. Our matchup grade: **B**. See the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) and the [Cardinals 2026 uniform schedule](/stories/arizona-cardinals-uniform-schedule-2026).
 
-**Sunday, 1:00 p.m. ET, CBS. Expected on both sides.** Philadelphia's three alternate games are all dated elsewhere, so we expect **midnight green** at home, and Pittsburgh in **white** on the road. Our Steelers schedule has the 1933 throwback one week later, on Black Friday against Denver. Our matchup grade: **B**. See the [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) and the [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
+### Pittsburgh Steelers At Philadelphia Eagles: Midnight Green Against White
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/steelers-white-road.jpg" alt="Pittsburgh Steelers white road jersey, shown with gold pants and the black helmet in the team's Week 11 graphic for the game at Philadelphia in 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Steelers &middot; Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/eagles-midnight-green-home.jpg" alt="Philadelphia Eagles midnight green home jersey, confirmed with white pants and the midnight green helmet against the Steelers in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Eagles &middot; Confirmed</figcaption></figure></div>
+
+**Sunday, 1:00 p.m. ET, CBS. Both teams confirmed.** **Update, Nov. 19:** the Eagles posted "Midnight green for Week 11": the **midnight green helmet, midnight green jersey and white pants**. Pittsburgh's Week 11 graphic, posted Tuesday with the caption "New week," shows the **black helmet, white jersey and gold pants**, its standard road set. Philadelphia's three alternate games are all dated elsewhere, and our Steelers schedule has the 1933 throwback one week later, on Black Friday against Denver.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Eagles/status/2123551912041877753"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Eagles' Week 11 uniform, via <a href="https://x.com/Eagles" target="_blank" rel="noopener">@Eagles</a></p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2122828734688526468"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Steelers' Week 11 graphic, via <a href="https://x.com/steelers" target="_blank" rel="noopener">@steelers</a></p>
+
+Midnight green over white against white over gold, with two dark helmets, is a tidy, traditional Keystone State game. Our matchup grade: **B**. See the [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) and the [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026).
 
 ### Baltimore Ravens At Carolina Panthers
 
@@ -167,9 +189,9 @@ Black against white and pewter is a clean read, but it trades away Honolulu blue
 - **Miami Dolphins at Buffalo Bills**, 1:00 p.m. ET, CBS. Dolphins: aqua (expected). Bills: Cold Front, white helmet, white jersey, white pants (confirmed). Matchup grade: A-.
 - **New Orleans Saints at Chicago Bears**, 1:00 p.m. ET, FOX. Saints: gold helmet, white jersey (scheduled). Bears: navy (expected). Matchup grade: B+.
 - **Tennessee Titans at Dallas Cowboys**, 1:00 p.m. ET, FOX. Titans: light blue jersey, light blue pants (confirmed). Cowboys: silver star helmet, white jersey (scheduled). Matchup grade: B+.
-- **Tampa Bay Buccaneers at Detroit Lions**, 1:00 p.m. ET, FOX. Buccaneers: white (expected). Lions: black alternate (confirmed). Matchup grade: B-.
-- **Arizona Cardinals at Kansas City Chiefs**, 1:00 p.m. ET, CBS. Cardinals: white (scheduled). Chiefs: red (expected). Matchup grade: B.
-- **Pittsburgh Steelers at Philadelphia Eagles**, 1:00 p.m. ET, CBS. Steelers: white (expected). Eagles: midnight green (expected). Matchup grade: B.
+- **Tampa Bay Buccaneers at Detroit Lions**, 1:00 p.m. ET, FOX. Buccaneers: pewter helmet, white jersey, white pants (confirmed). Lions: black alternate (confirmed). Matchup grade: B-.
+- **Arizona Cardinals at Kansas City Chiefs**, 1:00 p.m. ET, CBS. Cardinals: white helmet, white jersey, white pants (confirmed). Chiefs: red (expected). Matchup grade: B.
+- **Pittsburgh Steelers at Philadelphia Eagles**, 1:00 p.m. ET, CBS. Steelers: black helmet, white jersey, gold pants (confirmed). Eagles: midnight green helmet, midnight green jersey, white pants (confirmed). Matchup grade: B.
 - **Baltimore Ravens at Carolina Panthers**, 1:00 p.m. ET, FOX. Ravens: white (expected). Panthers: black (scheduled). Matchup grade: B-.
 - **New York Jets at Los Angeles Chargers**, 4:05 p.m. ET, FOX. Jets: green helmet, white jersey, green pants (confirmed). Chargers: powder blue jersey, powder blue pants (confirmed). Matchup grade: A-.
 - **Las Vegas Raiders at Denver Broncos**, 4:25 p.m. ET, CBS. Raiders: white (expected). Broncos: Sunset Orange (scheduled). Matchup grade: B+.
@@ -235,6 +257,14 @@ Light blue over light blue. The Titans confirmed on November 18 that they will w
 **What are the 49ers and Vikings wearing in Mexico City?**
 
 San Francisco is the designated home team at Estadio Banorte, so the 49ers are scheduled in scarlet (per the team's uniform schedule) and Minnesota is expected in white. Neither team has announced a special look. Kickoff is Sunday, November 22 at 8:20 p.m. Eastern on NBC.
+
+**What are the Eagles and Steelers wearing in Week 11?**
+
+The Eagles confirmed the midnight green helmet, midnight green jersey and white pants on November 19. The Steelers' Week 11 graphic shows the black helmet, white jersey and gold pants. Kickoff is Sunday, November 22 at 1:00 p.m. Eastern on CBS at Lincoln Financial Field.
+
+**What are the Buccaneers and Cardinals wearing in Week 11?**
+
+Both are in all white on the road. Tampa Bay confirmed the pewter helmet, white jersey and white pants at Detroit, and Arizona confirmed the white helmet, white jersey and white pants at Kansas City, both on November 19.
 
 **Which NFL teams are on bye in Week 11?**
 

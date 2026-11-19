@@ -3,7 +3,7 @@ title: "Florida State Will Wear Turquoise Uniforms For The First Time: The Semin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-15"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-19"
 excerpt: "Florida State football will wear turquoise uniforms in a game for the first time on Saturday, November 21, against NC State, for its Seminole Heritage game. What the turquoise means, where it came from, why FSU kept it in the locker room for three years, and our grade: A+."
 gradient: "linear-gradient(135deg, #0f6f73 0%, #1f9e9a 55%, #782F40 130%)"
 cardStyle: words
@@ -32,9 +32,23 @@ This is the uniform Florida State fans have been asking about since 2023. The tu
 
 ## What The Turquoise Uniform Looks Like
 
-Florida State's reveal video shows a turquoise jersey with dark numbers, worn with turquoise pants, and a war spear wrapped in Seminole patchwork. The video is shot under blue stadium light, which makes the exact shades hard to read, so we are holding off on calling the helmet and the trim colors until FSU shows the full set in daylight or the team walks out on Saturday. We will update this page with the full helmet-to-cleats look from game day.
+**Update, November 18:** Florida State's Homecoming wallpaper shows the whole set in clear light: a **gold helmet** with the garnet spear and a garnet facemask, a **turquoise jersey with garnet numbers outlined in gold**, and **turquoise pants**. That settles the helmet question we left open after the reveal video.
 
-When a few FSU players wore the turquoise jerseys in the April 20, 2024 spring showcase, they were paired with the gold helmet and garnet or gold pants. This week's reveal points to a full turquoise look instead.
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FSUFootball/status/2123112824050479438"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The full set, gold helmet over turquoise, in FSU's Homecoming wallpaper, via <a href="https://x.com/FSUFootball" target="_blank" rel="noopener">@FSUFootball</a></p>
+
+Florida State's first reveal video showed a turquoise jersey with dark numbers, worn with turquoise pants, and a war spear wrapped in Seminole patchwork, shot under blue stadium light that made the exact shades hard to read. The wallpaper fixes that. We will add the game-day look, including socks and cleats, once the team walks out on Saturday.
+
+Florida State is also painting the Doak Campbell Stadium end zones turquoise for the game.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FSUFootball/status/2123065034481741865"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The turquoise end zones planned for Doak Campbell Stadium, via <a href="https://x.com/FSUFootball" target="_blank" rel="noopener">@FSUFootball</a></p>
+
+When a few FSU players wore the turquoise jerseys in the April 20, 2024 spring showcase, they were paired with the gold helmet and garnet or gold pants. This week the full turquoise look is confirmed: turquoise jersey and turquoise pants under the gold helmet.
 
 ## Where The Turquoise Comes From
 
@@ -57,6 +71,14 @@ NC State visits as the road team, so it is expected in white. That would put a w
 This is the best uniform news of the college football season. Turquoise is not a random alternate color picked to sell jerseys. It has thirteen years of meaning at Florida State, it ties to the school's relationship with the Seminole Tribe of Florida, and fans have been waiting on it since the first Heritage game in 2023. It is also a color nobody else in major college football wears, which is exactly what an alternate should be. The only knock was that FSU never actually wore it. That is fixed. **Grade: A+.**
 
 ## Frequently Asked Questions
+
+**What helmet is Florida State wearing with the turquoise uniforms?**
+
+The gold helmet with the garnet spear and a garnet facemask, as shown in Florida State's Homecoming wallpaper on November 18. The jersey is turquoise with garnet numbers outlined in gold, and the pants are turquoise.
+
+**What time is Florida State vs. NC State?**
+
+Saturday, November 21, 3:30 p.m. Eastern on ACC Network, at Doak Campbell Stadium. Every look this weekend is in our [college football Week 12 uniform guide](/stories/college-football-week-12-uniforms-2026).
 
 **Is Florida State wearing turquoise jerseys against NC State?**
 

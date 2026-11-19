@@ -23,7 +23,7 @@ import { leagueColor } from "@/lib/leagueColors";
 
 const newsDirectory = path.join(process.cwd(), "content/news");
 
-export type NewsTag = "Breaking" | "NFL" | "MLB" | "College" | "NBA" | "NHL" | "Soccer";
+export type NewsTag = "Breaking" | "NFL" | "MLB" | "College" | "NBA" | "NHL" | "Soccer" | "More Sports";
 
 export interface NewsMeta {
   slug: string;
@@ -196,6 +196,7 @@ export interface NewsThumb {
 const TAG_ACCENT: Record<string, string> = {
   College: leagueColor("CFB"),
   Breaking: "#003087",
+  "More Sports": "#3a4256",
 };
 
 let postsBySlug: Map<string, PostMeta> | null = null;

@@ -74,7 +74,7 @@ So the last time the Bears came to Detroit on Thanksgiving, the Lions were in bl
 
 ## Thanksgiving Details To Watch
 
-- **The Madden patch.** Since 2023, players on Thanksgiving have worn a round John Madden tribute patch on the shoulder. It ran for the third straight year in 2025.
+- **The Madden patch.** The NFL confirmed on November 19 that the round [John Madden Thanksgiving patch](/stories/john-madden-thanksgiving-patch-2026) is back on every player's jersey for all three Thanksgiving games, high on the left chest. It has been worn every Thanksgiving since 2023.
 - **The rest of the day.** Eagles at Cowboys follows at 4:30 p.m. ET with Dallas in its Classic throwback, and Chiefs at Bills closes the night at 8:20 p.m. ET. All five holiday-week games are in our [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) guide, and we log what both teams actually wear in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
 
 ## Frequently Asked Questions
@@ -117,7 +117,7 @@ Rivalries Silver: a pale silver jersey with DETROIT across the chest, carbon-fib
 
 **Do NFL players wear a patch on Thanksgiving?**
 
-Since 2023, players on Thanksgiving have worn a John Madden tribute patch.
+Yes. Both the Lions and Bears wear the [John Madden Thanksgiving patch](/stories/john-madden-thanksgiving-patch-2026), a round silhouette of Madden in his headset on the left chest, confirmed by the NFL on November 19. It has been worn every Thanksgiving since 2023.
 
 ## More Thanksgiving Week Uniforms
 

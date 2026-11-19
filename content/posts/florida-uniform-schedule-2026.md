@@ -3,7 +3,7 @@ title: "Florida Gators Uniform Schedule 2026: What UF Wears This Week"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-19"
 excerpt: "Florida Gators uniform schedule 2026: every helmet, jersey and pant for all twelve games, including a retro helmet and one all-blue. What UF wears this week."
 gradient: "linear-gradient(135deg, #0021A5 0%, #06103a 55%, #FA4616 130%)"
 coverImage: "/images/posts/florida-uniform-schedule-2026/uniform-schedule-cover.jpg"
@@ -39,7 +39,7 @@ Every helmet, jersey and pant confirmed by the program in advance.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0021A5; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">All Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
-  <div style="background: #0021A5; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #0021A5; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange / Blue / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -63,7 +63,7 @@ Every helmet, jersey and pant confirmed by the program in advance.
 
 **November 14 at Kentucky** (away). Orange helmet, white jersey, orange pants. Worn as listed on the grid, confirmed from the game broadcast. **Final: Florida 21, Kentucky 14.**
 
-**November 21 vs. Vanderbilt** (home). Orange helmet, blue jersey, white pants.
+**November 21 vs. Vanderbilt** (home), on SEC Network. Orange helmet, blue jersey, white pants, as listed on the season grid Florida published in August, the traditional home look for the last game at The Swamp this season. A game-week graphic posted on Thursday, November 19, by the Gators Uniform Tracker account showed the same three colors, labeled "Traditional," under the line "Defend The Swamp," so nothing points to a change from the plan. Vanderbilt is expected in white. More: [Vanderbilt 2026 uniform schedule](/stories/vanderbilt-uniform-schedule-2026) and the [college football Week 12 uniform guide](/stories/college-football-week-12-uniforms-2026).
 
 **November 27 at Florida State** (away). Blue helmet, white jersey, white pants.
 
