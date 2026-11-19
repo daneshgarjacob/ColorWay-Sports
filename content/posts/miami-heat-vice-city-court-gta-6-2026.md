@@ -2,8 +2,8 @@
 title: "Heat Unveil Vice City Court For Bucks Game: Pink, Blue And GTA 6"
 category: "NBA"
 date: "2026-11-17"
-updatedDate: "2026-11-17"
-excerpt: "The Miami Heat revealed their Vice City court for one night only, Wednesday, November 18 against the Bucks. Pink around the paint, a blue paint, a pink Vice City script at center court, the GTA VI logo and I Love Vice City on the baselines. Every detail and our grade."
+updatedDate: "2026-11-19"
+excerpt: "The Miami Heat played on their Vice City court for one night only, Wednesday, November 18, and beat the Bucks 137-130. Pink around the paint, a blue paint, a pink Vice City script at center court, the GTA VI logo and I Love Vice City on the baselines. Every detail and our grade."
 gradient: "linear-gradient(135deg, #0b0b10 0%, #ff2d95 60%, #2b3fe0 130%)"
 author: "jake-daneshgar"
 logoSrc: "/logos/leagues/nba.png"
@@ -13,14 +13,16 @@ league: "nba"
 teams: ["miami-heat", "milwaukee-bucks"]
 ---
 
-**The Heat showed the floor for "A Night in Vice City" today, and it is as loud as the jersey.** Miami will play on it **one time only: Wednesday, November 18, 2026, against the Milwaukee Bucks at Kaseya Center.** That is the same night the Heat wear their [Vice City jerseys](/stories/miami-heat-vice-city-jerseys-gta-6-2026), and the night before Grand Theft Auto VI comes out.
+**Final: Heat 137, Bucks 130.** The Vice City court was down for the game on Wednesday night, and the ESPN game photos show it as the team revealed it, with pink around each paint and a blue paint.
+
+**The Heat showed the floor for "A Night in Vice City" on November 17, and it was as loud as the jersey.** Miami played on it **one time only: Wednesday, November 18, 2026, against the Milwaukee Bucks at Kaseya Center.** That was the same night the Heat wore their [Vice City jerseys](/stories/miami-heat-vice-city-jerseys-gta-6-2026), and the night before Grand Theft Auto VI came out.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;"><blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MiamiHEAT/status/2122755760577024318"></a></blockquote></div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Via <a href="https://x.com/MiamiHEAT" target="_blank" rel="noopener">@MiamiHEAT</a></p>
 
 ## Quick Answers
 
-- **When do the Heat play on the Vice City court?** Wednesday, November 18, 2026, against the Bucks at Kaseya Center, 7 p.m. ET on ESPN.
+- **When did the Heat play on the Vice City court?** Wednesday, November 18, 2026, against the Bucks at Kaseya Center. The Heat won 137-130.
 - **Is it only for one game?** Yes. The Heat's post says "one night only."
 - **What does it look like?** Natural wood, pink around the paint, a blue paint, a pink "Vice City" script at center court and a black border with "I ♥ VICE CITY" on the baselines.
 - **Is GTA 6 on the court?** Yes. The white GTA VI logo, with palm trees inside the letters, sits on the pink area at each end.
@@ -46,7 +48,7 @@ What you will not see: we did not spot a Cactus Jack logo or a backwards Nike lo
 
 ## The Same Night as the Vice City Jerseys
 
-The court and the uniform are one package. The Heat wear the black Nike x Cactus Jack uniform with neon pink trim, a backwards Nike logo and six pink stars on the shorts. On court the jersey says HEAT, and the "Vice City" script version is the one fans can buy. Every detail is in our [Heat Vice City jersey story](/stories/miami-heat-vice-city-jerseys-gta-6-2026).
+The court and the uniform were one package. The Heat wore the black Nike x Cactus Jack uniform with neon pink trim, a backwards Nike logo and six pink stars on the shorts. On court the jersey said HEAT, and the "Vice City" script version was the one fans could buy. Every detail is in our [Heat Vice City jersey story](/stories/miami-heat-vice-city-jerseys-gta-6-2026).
 
 The pink on the floor matches the pink on the jersey. The blue paint is the one color on the court that isn't on the uniform.
 
@@ -57,11 +59,11 @@ The pink on the floor matches the pink on the jersey. The blue paint is the one 
 <span style="font-size:1.9em;font-weight:800;line-height:1;color:#fff;margin-left:auto;">B+</span>
 </div>
 
-I love that the area right outside the paint is pink and the paint is blue. That is the best part of this court, and it will look great on TV.
+I love that the area right outside the paint is pink and the paint is blue. That is the best part of this court, and it looked great on TV.
 
 My one wish: the big VICE CITY letters on the baselines are white. I wish they were pink or blue instead, so they matched the rest of the floor. It is still a very nice court.
 
-And I'm excited for GTA 6. It comes out this Thursday, November 19, 2026.
+And I'm excited for GTA 6. It comes out Thursday, November 19, 2026.
 
 **Grade: B+.** What do you think: better than the jersey, or not?
 
@@ -70,6 +72,7 @@ And I'm excited for GTA 6. It comes out this Thursday, November 19, 2026.
 - **Date:** Wednesday, November 18, 2026
 - **Matchup:** Milwaukee Bucks at Miami Heat, Kaseya Center
 - **Time and TV:** 7 p.m. ET, ESPN
+- **Final:** Heat 137, Bucks 130
 - **Court:** Vice City, one night only
 - **Uniform:** Nike x Cactus Jack Vice City
 
@@ -77,17 +80,17 @@ Every other night on Miami's calendar is in our [Miami Heat 2026-27 uniform sche
 
 ## Frequently Asked Questions
 
-**When will the Heat play on the Vice City court?**
+**When did the Heat play on the Vice City court?**
 
-On Wednesday, November 18, 2026, against the Milwaukee Bucks at Kaseya Center in Miami. Tipoff is 7 p.m. ET on ESPN.
+On Wednesday, November 18, 2026, against the Milwaukee Bucks at Kaseya Center in Miami. The Heat won 137-130.
 
 **Is the Heat Vice City court only for one game?**
 
-Yes. The Heat's own post says you can see it "one night only," against Milwaukee. After that, Miami goes back to its regular floor.
+Yes. The Heat's own post says you can see it "one night only," against Milwaukee. After that, Miami went back to its regular floor.
 
-**What jerseys are the Heat wearing with the Vice City court?**
+**What jerseys did the Heat wear with the Vice City court?**
 
-The black Nike x Cactus Jack Vice City uniform, with neon pink trim, a backwards Nike logo and six pink stars on the shorts. The players' version says HEAT on the chest. The "Vice City" script version is the fan jersey.
+The black Nike x Cactus Jack Vice City uniform, with neon pink trim, a backwards Nike logo and six pink stars on the shorts. The players' version, the one worn in the game, says HEAT on the chest. The Bucks wore white. The "Vice City" script version is the fan jersey.
 
 **What colors are on the Heat Vice City court?**
 
@@ -107,7 +110,7 @@ It is part of "A Night in Vice City," the Heat's event with Rockstar Games for t
 
 **When does GTA 6 come out?**
 
-Thursday, November 19, 2026, on PlayStation 5 and Xbox Series X|S. That is the day after the Heat play on the Vice City court.
+Thursday, November 19, 2026, on PlayStation 5 and Xbox Series X|S. That is the day after the Heat played on the Vice City court.
 
 **Is this the same as the Heat's old Vice courts?**
 

@@ -27,6 +27,7 @@ export const NBA_TILE_COLORS: Record<string, string> = {
   "hawks-icon.jpg": "Red",
   "hawks-statement.jpg": "Black",
   "heat-association.jpg": "White",
+  "heat-city.jpg": "Black and Pink",
   "heat-icon.jpg": "Black",
   "heat-statement.jpg": "Red",
   "hornets-association.jpg": "White",

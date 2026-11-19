@@ -16,7 +16,7 @@ teams:
   - nashville-predators
 ---
 
-**The Dallas Stars wear their Hometown Remix jersey for the first time one week from tonight, Wednesday, Nov. 25, against the Nashville Predators at American Airlines Center.** It is a white sweater with black stripes and neon green trim.
+**The Dallas Stars wear their Hometown Remix jersey for the first time next Wednesday, Nov. 25, against the Nashville Predators at American Airlines Center.** It is a white sweater with black stripes and neon green trim.
 
 The Stars put it on their countdown graphic on Nov. 18: "1 Week Away," with a player in No. 53 in the full uniform and "Hometown Remix Debut, 11.25 vs. Predators" in neon green. Dallas is 13-6-2 through Nov. 17. Nashville is 11-6-5.
 

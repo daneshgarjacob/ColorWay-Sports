@@ -1,13 +1,13 @@
 {
  "league": "nhl",
  "season": "2026-27",
- "through": "2026-11-17",
- "built": "2026-11-18",
+ "through": "2026-11-18",
+ "built": "2026-11-19",
  "note": "Built by scripts/build-uniform-records.mjs from scripts/data/nhl-game-log-2026-27.json (confirmed rows, regular season only) and ESPN finals cached in content/data/nhl-scores-2026-27.json. Records are W-L-OTL. Do not hand-edit.",
  "totals": {
   "teams": 32,
-  "gamesPlayed": 343,
-  "teamGamesCounted": 686,
+  "gamesPlayed": 346,
+  "teamGamesCounted": 692,
   "teamGamesUnlogged": 0,
   "preseasonExcluded": []
  },
@@ -295,9 +295,9 @@
    "name": "Boston Bruins",
    "nickname": "Bruins",
    "tri": "BOS",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
-   "w": 13,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
+   "w": 14,
    "l": 7,
    "t": 0,
    "otl": 1,
@@ -317,7 +317,7 @@
       "#111111"
      ],
      "img": "/images/posts/nhl-daily-tracker/bruins-home.jpg",
-     "w": 8,
+     "w": 9,
      "l": 2,
      "t": 0,
      "otl": 0,
@@ -412,6 +412,15 @@
        "teamScore": 0,
        "oppScore": 3,
        "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-18",
+       "opponent": "Detroit Red Wings",
+       "home": false,
+       "teamScore": 4,
+       "oppScore": 1,
+       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -1763,10 +1772,10 @@
    "name": "Colorado Avalanche",
    "nickname": "Avalanche",
    "tri": "COL",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
    "w": 12,
-   "l": 6,
+   "l": 7,
    "t": 0,
    "otl": 3,
    "missing": [],
@@ -1786,7 +1795,7 @@
      ],
      "img": "/images/posts/nhl-daily-tracker/avalanche-road.jpg",
      "w": 4,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "otl": 1,
      "games": [
@@ -1879,6 +1888,15 @@
        "oppScore": 4,
        "result": "L",
        "ot": "OT",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-18",
+       "opponent": "Utah Mammoth",
+       "home": false,
+       "teamScore": 1,
+       "oppScore": 4,
+       "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -2603,10 +2621,10 @@
    "name": "Detroit Red Wings",
    "nickname": "Red Wings",
    "tri": "DET",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
    "w": 8,
-   "l": 10,
+   "l": 11,
    "t": 0,
    "otl": 3,
    "missing": [],
@@ -2853,7 +2871,7 @@
      ],
      "img": "/images/posts/nhl-daily-tracker/red-wings-centennial.jpg",
      "w": 1,
-     "l": 0,
+     "l": 1,
      "t": 0,
      "otl": 0,
      "games": [
@@ -2864,6 +2882,15 @@
        "teamScore": 4,
        "oppScore": 1,
        "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-18",
+       "opponent": "Boston Bruins",
+       "home": true,
+       "teamScore": 1,
+       "oppScore": 4,
+       "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -4020,9 +4047,9 @@
    "name": "Montreal Canadiens",
    "nickname": "Canadiens",
    "tri": "MTL",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
-   "w": 12,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
+   "w": 13,
    "l": 5,
    "t": 0,
    "otl": 4,
@@ -4150,7 +4177,7 @@
       "#FFFFFF"
      ],
      "img": "/images/posts/nhl-daily-tracker/canadiens-road.jpg",
-     "w": 4,
+     "w": 5,
      "l": 2,
      "t": 0,
      "otl": 1,
@@ -4217,6 +4244,15 @@
        "teamScore": 1,
        "oppScore": 3,
        "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-18",
+       "opponent": "New Jersey Devils",
+       "home": false,
+       "teamScore": 3,
+       "oppScore": 2,
+       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -4600,10 +4636,10 @@
    "name": "New Jersey Devils",
    "nickname": "Devils",
    "tri": "NJD",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
    "w": 15,
-   "l": 6,
+   "l": 7,
    "t": 0,
    "otl": 0,
    "missing": [],
@@ -4840,6 +4876,36 @@
        "teamScore": 7,
        "oppScore": 4,
        "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      }
+     ]
+    },
+    {
+     "id": "black-remix",
+     "jerseyName": "Black Remix",
+     "edition": "Hometown Remix",
+     "jerseyKey": "devils-remix",
+     "helmet": "",
+     "jersey": "Black",
+     "pants": "",
+     "hexes": [
+      "#111111",
+      "#111111",
+      "#111111"
+     ],
+     "img": "/images/posts/nhl-daily-tracker/devils-remix.jpg",
+     "w": 0,
+     "l": 1,
+     "t": 0,
+     "otl": 0,
+     "games": [
+      {
+       "date": "2026-11-18",
+       "opponent": "Montreal Canadiens",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 3,
+       "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -7697,9 +7763,9 @@
    "name": "Utah Mammoth",
    "nickname": "Mammoth",
    "tri": "UTA",
-   "gamesPlayed": 22,
-   "gamesCounted": 22,
-   "w": 10,
+   "gamesPlayed": 23,
+   "gamesCounted": 23,
+   "w": 11,
    "l": 9,
    "t": 0,
    "otl": 3,
@@ -7849,7 +7915,7 @@
       "#090909"
      ],
      "img": "/images/posts/nhl-daily-tracker/mammoth-home.jpg",
-     "w": 4,
+     "w": 5,
      "l": 3,
      "t": 0,
      "otl": 1,
@@ -7926,6 +7992,15 @@
        "teamScore": 2,
        "oppScore": 3,
        "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-18",
+       "opponent": "Colorado Avalanche",
+       "home": true,
+       "teamScore": 4,
+       "oppScore": 1,
+       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]

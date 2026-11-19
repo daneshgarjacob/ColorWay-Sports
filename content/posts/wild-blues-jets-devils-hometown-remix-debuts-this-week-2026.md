@@ -2,7 +2,7 @@
 title: "Wild, Blues, Jets And Devils Hometown Remix Debuts This Week: Dates, Times And What Each Jersey Looks Like"
 category: "NHL"
 date: "2026-11-16"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-19"
 homepageHero: "2026-11-17"
 excerpt: "Four more NHL teams wear their Hometown Remix jerseys for the first time this week. Minnesota (black), St. Louis (black and blue) and Winnipeg (navy with northern lights sleeves) all debut Tuesday, Nov. 17, and New Jersey (black and red) debuts Wednesday, Nov. 18 against Montreal. Times, opponents, what each jersey looks like and our grades."
 gradient: "linear-gradient(135deg, #0b0b10 0%, #154734 45%, #0047bb 100%)"
@@ -23,7 +23,7 @@ teams: ["minnesota-wild", "st-louis-blues", "winnipeg-jets", "new-jersey-devils"
 
 **Four more Hometown Remix jerseys hit the ice this week, and three of them come out on the same night.** The **Minnesota Wild**, **St. Louis Blues** and **Winnipeg Jets** all wear their Remix sweaters for the first time on **Tuesday, Nov. 17**, and the **New Jersey Devils** follow on **Wednesday, Nov. 18** against Montreal. All four are dark jerseys: black for Minnesota, black and blue for St. Louis, navy for Winnipeg and black and red for New Jersey. All four debuts are home games, so every visitor is expected in white.
 
-**Update, Nov. 18:** all three Tuesday debuts are done, each confirmed from the game highlights, with every visitor in white. The **Wild beat Nashville 7-3** and the **Blues beat Anaheim 8-6** in their new black sweaters, and the **Jets lost 2-1 to Ottawa** in navy. The Devils debut theirs tonight against Montreal. [Every detail of the Devils' Remix, its 10 dates and their home record in red](/stories/devils-hometown-remix-jersey-debut-canadiens-2026).
+**Update, Nov. 19:** all four debuts are done, each confirmed from the game highlights, with every visitor in white. The **Wild beat Nashville 7-3** and the **Blues beat Anaheim 8-6** in their new black sweaters, and the **Jets lost 2-1 to Ottawa** in navy. On Wednesday the **Devils lost 3-2 to Montreal** in their black and red Remix, with the Canadiens in their regular white road sweater. [Every detail of the Devils' Remix, its 10 dates and their home record in red](/stories/devils-hometown-remix-jersey-debut-canadiens-2026).
 
 After this week, only three of the 32 teams have not worn their Remix yet: Dallas (Nov. 25) and the Red Wings and Rangers, who have not posted a date.
 
@@ -41,7 +41,7 @@ After this week, only three of the 32 teams have not worn their Remix yet: Dalla
 - **Jets vs. Senators (final):** Senators 2, Jets 1, Tuesday at Canada Life Centre. Jets in the navy Remix, Senators in white.
 - **Blues vs. Ducks (final):** Blues 8, Ducks 6, Tuesday at Enterprise Center. Blues in the black Remix, Ducks in white.
 - **Wild vs. Predators (final):** Wild 7, Predators 3, Tuesday at Grand Casino Arena. Wild in the black Remix, Predators in white.
-- **Devils vs. Canadiens:** Wednesday, 7:30 p.m. Eastern at Prudential Center. Devils in black and red, Canadiens expected in their regular white road sweater. Nov. 18 is not on Montreal's Remix list.
+- **Devils vs. Canadiens:** Wednesday, 7:30 p.m. Eastern at Prudential Center. Devils in black and red, Canadiens in their regular white road sweater. Final: Canadiens 3, Devils 2. Nov. 18 is not on Montreal's Remix list.
 - **Best of the four:** the Devils. **Worst:** the Jets.
 
 ## Minnesota Wild: Black, With a Night Sky Logo

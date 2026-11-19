@@ -1,10 +1,10 @@
 ---
-title: "Red Wings First Game Was 100 Years Ago Tonight: What The Detroit Cougars Wore Against The Bruins"
+title: "Red Wings First Game Was 100 Years Ago: What The Detroit Cougars Wore Against The Bruins"
 author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-11-18"
-updatedDate: "2026-11-18"
-excerpt: "Detroit's NHL franchise played its first game on Nov. 18, 1926, as the Detroit Cougars, a 2-0 loss to the Boston Bruins in Windsor, Ontario. Tonight the Red Wings host Boston again for The Original Faceoff. Here is what both teams wore in 1926, and how the Cougars became the Falcons and then the Red Wings."
+updatedDate: "2026-11-19"
+excerpt: "Detroit's NHL franchise played its first game on Nov. 18, 1926, as the Detroit Cougars, a 2-0 loss to the Boston Bruins in Windsor, Ontario. On Nov. 18, 2026, the Red Wings hosted Boston again for The Original Faceoff, wore their red Centennial sweater and lost 4-1. Here is what both teams wore in 1926 and in 2026, and how the Cougars became the Falcons and then the Red Wings."
 gradient: "linear-gradient(135deg, #CE1126 0%, #8a0b1c 60%, #f3ead7 130%)"
 coverImage: "/images/posts/red-wings-100-years-first-game-bruins-detroit-cougars-uniforms/1926-27-detroit-cougars.jpg"
 coverImagePosition: "center 40%"
@@ -21,9 +21,9 @@ teams:
   - boston-bruins
 ---
 
-**The Detroit Red Wings played their first NHL game 100 years ago tonight, on Nov. 18, 1926. They were called the Detroit Cougars, they played in Canada, and they lost 2-0 to the Boston Bruins.**
+**The Detroit Red Wings played their first NHL game 100 years ago, on Nov. 18, 1926. They were called the Detroit Cougars, they played in Canada, and they lost 2-0 to the Boston Bruins.**
 
-Tonight Detroit hosts Boston again at Little Caesars Arena (7:30 p.m. ET, TNT), and the Red Wings are calling it The Original Faceoff. No special sweater has been announced, so Detroit is expected in its regular red home sweater. We will update this story if that changes.
+**Update, Nov. 19: Bruins 4, Red Wings 1.** Detroit hosted Boston again on Wednesday night at Little Caesars Arena for The Original Faceoff, and Boston won again. No special sweater had been announced, but the game's highlight frames show the Red Wings did not wear the regular red home sweater: they wore the **Centennial sweater**, solid red with the cream 1930s chain-stitched Winged Wheel, multiple cream stripes on the sleeves and hem, and red helmets. The Bruins wore their **black home sweater** with gold and white stripes on the road, so it was a color-on-color game. David Pastrnak had a goal and an assist for Boston.
 
 ## Quick Answers
 
@@ -33,7 +33,7 @@ Tonight Detroit hosts Boston again at Little Caesars Arena (7:30 p.m. ET, TNT), 
 - **What did the Cougars wear?** A white sweater with a single red stripe across the body and an Old English D on the chest.
 - **What did the Bruins wear?** A white sweater with brown and gold stripes, the first brown and gold era of the team.
 - **When did they become the Red Wings?** Before the 1932-33 season, after the Cougars (1926-30) and the Falcons (1930-32).
-- **What are the Red Wings wearing tonight?** The regular red home sweater is expected. No special jersey has been announced.
+- **What did the Red Wings wear for the 100th anniversary game?** The red Centennial sweater with the cream 1930s Winged Wheel. Boston wore black. The Bruins won 4-1.
 
 ## The Original Faceoff
 
@@ -80,24 +80,30 @@ The first Red Wings sweater was dark red with the new crest. The Red Wings say t
 
 ## How Close Is Today's Sweater To The 1930s One?
 
-Closer than almost any other team in the league. The crest on tonight's home sweater is still a red winged wheel on a red sweater, 94 years after it first appeared. The details around it have moved, with white trim and names on the back added over the decades, but the idea has not changed.
+Closer than almost any other team in the league. The crest on the regular home sweater is still a red winged wheel on a red sweater, 94 years after it first appeared. The details around it have moved, with white trim and names on the back added over the decades, but the idea has not changed.
 
-The closest modern copy is the Centennial sweater the team made for its 100th season: solid red, a cream chain-stitched 1930s Winged Wheel, a lace-up collar and Falcons-style stripes. We covered its return in [Red Wings Centennial Sweater Returns](/stories/red-wings-centennial-sweater-returns-2026).
+The closest modern copy is the Centennial sweater the team made for its 100th season: solid red, a cream chain-stitched 1930s Winged Wheel, a lace-up collar and Falcons-style stripes. It is the sweater Detroit wore for the 100th anniversary game on Nov. 18, 2026. We covered its return in [Red Wings Centennial Sweater Returns](/stories/red-wings-centennial-sweater-returns-2026).
 
 ## What The Bruins Wore In 1926
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DetroitRedWings/status/2123073176850862211"></a></blockquote>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Tonight's game, via the <a href="https://x.com/DetroitRedWings" target="_blank" rel="noopener">Detroit Red Wings</a></p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Original Faceoff, via the <a href="https://x.com/DetroitRedWings" target="_blank" rel="noopener">Detroit Red Wings</a></p>
 
 Boston was only in its third season in 1926, and it was still brown and gold, the colors of owner Charles F. Adams' First National Stores grocery chain. The Bruins' own sweater history on NHL.com describes the 1926-33 sweater as white, with gold and brown stripes along the full length of the sleeves and a wider brown band near the bottom. That is the sweater Boston wore when it won its first Stanley Cup in 1929.
 
 Brown turned to black in the 1930s, but it has kept coming back. This season's Hometown Remix, the brown Varsity Sweater, is the first all-brown Bruins uniform since 1924. The full story is in our [Bruins uniform history](/stories/boston-bruins-uniform-history).
 
-## Tonight
+## The Original Faceoff, 2026: What They Wore
 
-Detroit is expected in its red home sweater and Boston in white. Neither team has announced a special jersey for the game. Both teams' full seasons, game by game, are on the [Red Wings uniform schedule](/stories/red-wings-uniform-schedule-2026-27) and the [Bruins uniform schedule](/stories/bruins-uniform-schedule-2026-27), and we log what both teams wore on the [NHL uniform tracker](/stories/nhl-uniform-tracker-2026-27) the next morning.
+Neither team announced a special jersey before the game, so we expected Detroit in its regular red and Boston in white. That is not what happened. From the game's highlight frames:
+
+- **Red Wings:** the Centennial sweater, solid red with the cream chain-stitched 1930s Winged Wheel, cream stripes on the sleeves and hem, and red helmets.
+- **Bruins:** their black home sweater with gold and white stripes, worn on the road for a red-against-black game.
+- **Final:** Bruins 4, Red Wings 1. Boston won the first meeting 2-0 in 1926 and the 100th anniversary game too.
+
+Both teams' full seasons, game by game, are on the [Red Wings uniform schedule](/stories/red-wings-uniform-schedule-2026-27) and the [Bruins uniform schedule](/stories/bruins-uniform-schedule-2026-27), and every game is logged on the [NHL uniform tracker](/stories/nhl-uniform-tracker-2026-27).
 
 ## Frequently Asked Questions
 
@@ -149,13 +155,13 @@ A white sweater with gold and brown stripes along the sleeves and a wider brown 
 
 Owner Charles F. Adams used the colors of his First National Stores grocery chain.
 
-**What are the Red Wings wearing against the Bruins on Nov. 18, 2026?**
+**What did the Red Wings wear against the Bruins on Nov. 18, 2026?**
 
-Detroit is expected in its regular red home sweater. No special jersey has been announced. We will update this story if that changes.
+The red Centennial sweater, with the cream 1930s Winged Wheel and cream sleeve and hem stripes. The Bruins wore their black home sweater, and Boston won 4-1.
 
 **What is The Original Faceoff?**
 
-It is the Red Wings' name for tonight's home game against Boston, exactly 100 years after the franchise's first NHL game, also against the Bruins.
+It is the Red Wings' name for their Nov. 18, 2026 home game against Boston, exactly 100 years after the franchise's first NHL game, also against the Bruins.
 
 **Have the Red Wings ever worn the Detroit Cougars jersey again?**
 
@@ -165,6 +171,6 @@ Yes. They wore a replica of the 1926-27 Cougars sweater at the 2009 Winter Class
 
 Yes. The Rangers' first game was Nov. 16, 1926, and they wore their Centennial jerseys on Monday. Read [Rangers Wear Centennial Jerseys On Their 100th Birthday](/stories/rangers-centennial-jerseys-100th-anniversary-canadiens-2026).
 
-**Where can I see what every NHL team wore last night?**
+**Where can I see what every NHL team wore each night?**
 
 On our [NHL uniform tracker](/stories/nhl-uniform-tracker-2026-27), updated every morning, and on each team's page in the [NHL uniform schedule hub](/stories/nhl-uniform-schedule-2026-27).

@@ -3,7 +3,7 @@ title: "College Football Week 12 Uniforms 2026: Florida State's First Turquoise 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-18"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-19"
 excerpt: "College football Week 12 uniforms: Florida State wears turquoise in a game for the first time against NC State, BYU goes all white at Kansas, Georgia visits South Carolina and Miami hosts Virginia Tech with College GameDay in town. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #0f6f73 60%, #782F40 130%)"
 cardStyle: words
@@ -157,9 +157,9 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 ### Wednesday, November 18
 
-**Akron at UMass**, 7 p.m., CBSSN.
+**Akron at UMass**, 7 p.m., CBSSN. **Final: Akron 34, UMass 33.**
 
-**Central Michigan at [Buffalo](/stories/buffalo-uniform-schedule-2026)**, 7:30 p.m., ESPNU.
+**Central Michigan at [Buffalo](/stories/buffalo-uniform-schedule-2026)**, 7:30 p.m., ESPNU. **Final: Buffalo 40, Central Michigan 21.**
 - Buffalo: **Expected**, blue.
 
 ### Thursday, November 19

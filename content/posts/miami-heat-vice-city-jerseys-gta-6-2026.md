@@ -2,8 +2,8 @@
 title: "Miami Heat Vice City Jerseys Revealed: The GTA 6 x Travis Scott Cactus Jack Uniform For November 18"
 category: "NBA"
 date: "2026-11-06"
-updatedDate: "2026-11-17"
-excerpt: "The Heat revealed their Vice City uniforms for November 18 against the Bucks: black with neon pink trim, a backwards Nike logo, Cactus Jack on the shorts and six pink stars. The players wear a HEAT jersey on the court, and the Vice City script version is the one fans can buy that night. Every detail, what is different between the two, where to get one and our grade."
+updatedDate: "2026-11-19"
+excerpt: "The Heat wore their Vice City uniforms on November 18 and beat the Bucks 137-130: black with neon pink trim, a backwards Nike logo, Cactus Jack on the shorts and six pink stars. The players wore the HEAT jersey on the court, and the Vice City script version was the one fans could buy that night. Every detail, what is different between the two, where to get one and our grade."
 gradient: "linear-gradient(135deg, #0b0b10 0%, #ff2d95 70%, #29d3e3 130%)"
 author: "jake-daneshgar"
 coverImage: "/images/posts/miami-heat-vice-city-jerseys-gta-6-2026/cover.jpg"
@@ -12,26 +12,28 @@ coverCredit:
   author: "Miami HEAT"
   url: "https://www.nba.com/heat/uniforms/2627-heat-vice-city-uniform-collection"
   license: "via the team"
-kicker: Uniform Reveal
+kicker: "Uniform News"
 homepageHero: "2026-11-18"
 league: "nba"
 teams: ["miami-heat", "milwaukee-bucks"]
 ---
 
-**The Heat just showed the uniform for "A Night in Vice City," and it is the loudest jersey in the NBA this season.** Miami will wear it **Wednesday, November 18, against the Milwaukee Bucks at Kaseya Center**, at 7 p.m. Eastern on ESPN. It is a three-way collaboration between **Nike, Travis Scott's Cactus Jack and Rockstar Games**, timed to the night before **Grand Theft Auto VI** comes out on November 19. GTA VI is set in Vice City, the game's version of Miami.
+**Final: Heat 137, Bucks 130.** Miami wore the Vice City uniform on Wednesday, November 18, at Kaseya Center, on the pink Vice City court, and the Bucks wore white. We checked the ESPN game photos: on the court it was the black HEAT jersey with neon pink trim, as the team said, not the Vice City script.
+
+**The uniform for "A Night in Vice City" is the loudest jersey in the NBA this season.** Miami wore it **Wednesday, November 18, against the Milwaukee Bucks at Kaseya Center**, at 7 p.m. Eastern on ESPN. It is a three-way collaboration between **Nike, Travis Scott's Cactus Jack and Rockstar Games**, timed to the night before **Grand Theft Auto VI** came out on November 19. GTA VI is set in Vice City, the game's version of Miami.
 
 The look is **black with neon pink and white trim**, a **backwards Nike logo**, Cactus Jack's cross logo in pink and **six pink stars** down the shorts. There are two versions, and the one the players wear is not the one most people are posting.
 
 <img src="/images/posts/miami-heat-vice-city-jerseys-gta-6-2026/both-jerseys.jpg" alt="Miami Heat Vice City uniforms for November 18, 2026: the black HEAT on-court jersey with number 13 and the black Vice City Swingman jersey with number 7, both with neon pink trim" style="display:block;width:100%;max-width:520px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: Miami HEAT</p>
 
-## Which Jersey Do the Heat Actually Wear?
+## Which Jersey Did the Heat Actually Wear?
 
-**The players wear the HEAT jersey.** The Heat's own uniform page lists the "Nike X Cactus Jack Miami HEAT Uniform" as **"On Court Only"**: black, with "HEAT" and the numbers in pink outline with a thin grid pattern inside the letters, a **Robinhood** patch on the chest and the backwards Nike logo on the other side.
+**The players wore the HEAT jersey.** Game photos from Wednesday confirm it. The Heat's own uniform page lists the "Nike X Cactus Jack Miami HEAT Uniform" as **"On Court Only"**: black, with "HEAT" and the numbers in pink outline with a thin grid pattern inside the letters, a **Robinhood** patch on the chest and the backwards Nike logo on the other side.
 
-**The "Vice City" script jersey is the fan version.** The "Nike X Cactus Jack 'Vice City' Uniform" swaps "HEAT" for **"Vice City" in pink neon script**, in the style of the original game's logo, and replaces the Robinhood patch with a pink **VI** logo for GTA VI. The Heat say it goes on sale **November 18, at A Night in Vice City**.
+**The "Vice City" script jersey is the fan version.** The "Nike X Cactus Jack 'Vice City' Uniform" swaps "HEAT" for **"Vice City" in pink neon script**, in the style of the original game's logo, and replaces the Robinhood patch with a pink **VI** logo for GTA VI. The Heat put it on sale **November 18, at A Night in Vice City**.
 
-So if the Vice City script is the one you saw first, that is the merch. On court, it says HEAT.
+So if the Vice City script is the one you saw first, that is the merch. On court, it said HEAT.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1.2em 0 0.4em;"><img src="/images/posts/miami-heat-vice-city-jerseys-gta-6-2026/on-court-heat-jersey.jpg" alt="Miami Heat Vice City on-court jersey: black with HEAT and number 13 in pink outline with a grid pattern, a pink Robinhood patch and a backwards pink Nike logo" style="width:100%;border-radius:10px;" loading="lazy" /><img src="/images/posts/miami-heat-vice-city-jerseys-gta-6-2026/vice-city-swingman-jersey.jpg" alt="Miami Heat Vice City Swingman jersey for fans: black with Vice City in pink neon script, number 7, a pink VI patch and a backwards pink Nike logo" style="width:100%;border-radius:10px;" loading="lazy" /></div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">On court (left) and the Vice City fan jersey (right). Images: Miami HEAT</p>
@@ -55,7 +57,7 @@ So if the Vice City script is the one you saw first, that is the merch. On court
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:1.2em 0 0.4em;"><img src="/images/posts/miami-heat-vice-city-jerseys-gta-6-2026/robinhood-patch.jpg" alt="Pink Robinhood patch on the Miami Heat Vice City on-court jersey" style="width:100%;border-radius:10px;" loading="lazy" /><img src="/images/posts/miami-heat-vice-city-jerseys-gta-6-2026/vi-patch.jpg" alt="Pink Grand Theft Auto VI logo with palm trees on the Miami Heat Vice City fan jersey" style="width:100%;border-radius:10px;" loading="lazy" /></div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Images: Miami HEAT</p>
 
-**The court and the arena.** The Heat say they will play on "special hardwood built for Vice City," for one night only, and the arena is getting the full treatment: Burger Shot and Cluckin' Bell, two of the game's fast food chains, will have stands in the concourse. Kaseya Center becomes "Vice City" on the team's own game page.
+**The court and the arena.** The Heat played on "special hardwood built for Vice City," for one night only, and the arena got the full treatment: the team planned Burger Shot and Cluckin' Bell stands, two of the game's fast food chains, in the concourse. Kaseya Center becomes "Vice City" on the team's own game page.
 
 **Update, November 17: the court is out.** The Heat revealed the Vice City floor for the same game: pink around each paint, a blue paint, a pink "Vice City" script at center court, the GTA VI logo and "I ♥ VICE CITY" on black baselines. Every detail and our grade are in [Heat Unveil Vice City Court For Bucks Game](/stories/miami-heat-vice-city-court-gta-6-2026).
 
@@ -78,30 +80,31 @@ It isn't an A+ because the best version stays in the stands. The Vice City scrip
 - **Date:** Wednesday, November 18, 2026
 - **Matchup:** Milwaukee Bucks at Miami Heat, Kaseya Center
 - **Time and TV:** 7 p.m. ET, ESPN
-- **Uniform:** Nike x Cactus Jack Vice City, one night only
+- **Final:** Heat 137, Bucks 130
+- **Uniform:** Nike x Cactus Jack Vice City, one night only (Bucks in white)
 - **Also:** Giannis Antetokounmpo's first game against the team he left
 
-Every other night on the Heat's calendar is in our [Miami Heat 2026-27 uniform schedule](/stories/miami-heat-uniform-schedule-2026-27), and what all 30 teams wear tonight is in the [NBA uniform tracker](/stories/nba-uniform-tracker-2026-27).
+Every other night on the Heat's calendar is in our [Miami Heat 2026-27 uniform schedule](/stories/miami-heat-uniform-schedule-2026-27), and what every team wore that night is in the [NBA uniform tracker](/stories/nba-uniform-tracker-2026-27).
 
 Every Heat logo and jersey since 1988: [Miami Heat logo and jersey history](/stories/miami-heat-logo-and-jersey-history).
 
 ## Frequently Asked Questions
 
-**When do the Heat wear the Vice City jerseys?**
+**When did the Heat wear the Vice City jerseys?**
 
-Once, on Wednesday, November 18, 2026, against the Milwaukee Bucks at Kaseya Center. Tipoff is 7 p.m. ET on ESPN.
+Once, on Wednesday, November 18, 2026, against the Milwaukee Bucks at Kaseya Center. The Heat won 137-130.
 
-**Do the Heat players wear the jersey that says Vice City?**
+**Did the Heat players wear the jersey that says Vice City?**
 
-No. The players wear a black jersey that says HEAT, with a Robinhood patch. The Heat list it as "On Court Only." The jersey with "Vice City" in pink script and the GTA VI logo is the fan version.
+No. The players wore a black jersey that says HEAT, with a Robinhood patch. The Heat list it as "On Court Only." The jersey with "Vice City" in pink script and the GTA VI logo is the fan version.
 
 **Where can I buy the Heat Vice City jersey?**
 
-The Heat say the Nike x Cactus Jack "Vice City" uniform is available for purchase on November 18 at A Night in Vice City, at Kaseya Center. The team has not announced an online release. The rest of the Vice City collection, including a satin bomber, a New Era snapback and T-shirts, is on sale now at the Heat store.
+The Heat said the Nike x Cactus Jack "Vice City" uniform would be available for purchase on November 18 at A Night in Vice City, at Kaseya Center. The team had not announced an online release. The rest of the Vice City collection, including a satin bomber, a New Era snapback and T-shirts, is on sale now at the Heat store.
 
 **Why is the Nike logo backwards on the Heat jersey?**
 
-It is Travis Scott's signature. His Cactus Jack Nike and Jordan sneakers use a reversed swoosh, and the Heat's Vice City uniform carries it on the chest and the shorts.
+It is Travis Scott's signature. His Cactus Jack Nike and Jordan sneakers use a reversed swoosh, and the Heat's Vice City uniform carried it on the chest and the shorts.
 
 **What do the six stars on the Heat Vice City shorts mean?**
 

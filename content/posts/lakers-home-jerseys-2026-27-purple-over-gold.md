@@ -3,7 +3,7 @@ title: "Lakers Home Jerseys 2026-27: Purple Beats Gold at Crypto.com Arena, Ever
 author: "colorway-sports-staff"
 category: NBA
 date: "2026-10-21"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-19"
 excerpt: "The Lakers wear their purple Statement jersey at home 13 times this season and the gold Icon just 9. Every home game by jersey, the Sunday white tradition, Purple Fridays, and the seven-week stretch with no gold at home."
 gradient: "linear-gradient(135deg, #552583 0%, #552583 55%, #FDB927 100%)"
 cardStyle: words
@@ -16,20 +16,20 @@ teams: ["los-angeles-lakers"]
 
 Gold is the Lakers home jersey. Everybody knows it. The Forum, Magic, Kobe, the Showtime highlight reels: gold at home is the most famous look in the NBA. So here is the strange part of the 2026-27 schedule. **The Lakers wear gold at home just 9 times in 40 home games.** The purple Statement jersey gets **13** home games, the most of anything in the closet.
 
-The NBA published its official game-by-game uniform schedule on October 19, and we charted every Lakers home date below. Tonight's home opener against the Warriors is one of the rare gold nights.
+The NBA published its official game-by-game uniform schedule on October 19, and we charted every Lakers home date below. The home opener against the Warriors was one of the rare gold nights.
 
 <div style="display: flex; justify-content: center; gap: 12px; margin: 1.5em 0 0.4em;"><img src="/images/posts/lakers-purple.jpg" alt="Lakers purple Statement Edition jersey" style="width: 30%; max-width: 180px; height: auto; border-radius: 10px;" loading="lazy" decoding="async" /><img src="/images/posts/lakers-white.jpg" alt="Lakers white Association Edition jersey" style="width: 30%; max-width: 180px; height: auto; border-radius: 10px;" loading="lazy" decoding="async" /><img src="/images/posts/lakers-gold.jpg" alt="Lakers gold Icon Edition jersey" style="width: 30%; max-width: 180px; height: auto; border-radius: 10px;" loading="lazy" decoding="async" /></div>
 <p style="text-align: center; font-size: 0.75em; color: #8892a0; margin: 0 0 1.5em;">Uniform illustrations via NBA.com</p>
 
-## Update, November 18: How Each Lakers Home Jersey Is Doing So Far
+## Update, November 19: How Each Lakers Home Jersey Is Doing So Far
 
-**Seven home games in, the schedule is holding: the Lakers have worn purple at home four times, gold twice and white once.** We log the jersey in every Lakers game and match it to the final score. Here is how each one has done at Crypto.com Arena:
+**Eight home games in, the schedule is holding: the Lakers have worn purple at home four times, gold three times and white once.** We log the jersey in every Lakers game and match it to the final score. Here is how each one has done at Crypto.com Arena:
 
 - **Purple Statement: 3 wins, 1 loss.** Beat the Clippers 125-117 (Oct. 23), lost to the Trail Blazers 136-129 (Oct. 27), beat the Trail Blazers 124-118 (Nov. 6) and beat the Hornets 118-114 in overtime (Nov. 17).
-- **Gold Icon: 2 wins, 0 losses.** Beat the Warriors 127-105 on opening night (Oct. 21) and the Heat 138-117 (Nov. 2).
+- **Gold Icon: 2 wins, 1 loss.** Beat the Warriors 127-105 on opening night (Oct. 21) and the Heat 138-117 (Nov. 2), then lost 109-97 to the Jazz, in purple, on Wednesday (Nov. 18).
 - **White Association: 1 win, 0 losses.** Beat the Raptors 131-125 on Sunday, Nov. 1, right on schedule for Sunday white.
 
-That is 6 wins and 1 loss at home. Tonight against the Jazz is one of the rare gold nights, the third of only nine this season.
+That is 6 wins and 2 losses at home. Wednesday's loss to the Jazz was the third of only nine gold home nights this season, confirmed from the game photos.
 
 We were in the stands on Tuesday night for the purple win over Charlotte. The Hornets wore their white Association jersey with teal trim, so it was purple against white all night.
 
@@ -64,7 +64,7 @@ Gold has not disappeared. It just moved out. The Icon Edition is still the most-
 
 **No gold at home in December.** The Lakers play six home games in December and none of them are gold: three Specter Edition nights (Pelicans, Pacers, Nuggets), white on Christmas and December 27, and purple on December 29. After the Jazz on November 18, the next gold home game is **January 7 against the Celtics**. That is eight straight home games and seven weeks without gold in the building.
 
-**Purple opens the home stand.** After tonight's gold opener, the next two home games are both purple: the Clippers on Friday, October 23, and the Trail Blazers on Tuesday, October 27.
+**Purple opens the home stand.** After the gold opener, the next two home games are both purple: the Clippers on Friday, October 23, and the Trail Blazers on Tuesday, October 27.
 
 **The City Edition stays home late.** The black City Edition is on five home dates: January 14 vs the Magic, February 10 vs the Clippers, February 18 vs the Rockets, March 17 vs the Suns and April 7 vs the Timberwolves. Our [City Edition guide](/stories/nba-city-edition-jerseys-2026-27) has the design and all 30 teams.
 
@@ -124,4 +124,4 @@ It can. Dates move for national television, and two more games per team are adde
 
 ## The Bottom Line
 
-Gold is still the Lakers' most-worn jersey, but not at home. In 2026-27 the purple Statement owns Crypto.com Arena with 13 home nights, Sundays stay white, and gold shows up at home just nine times, starting tonight against the Warriors. If you are going to a game and want gold, circle those nine dates.
+Gold is still the Lakers' most-worn jersey, but not at home. In 2026-27 the purple Statement owns Crypto.com Arena with 13 home nights, Sundays stay white, and gold shows up at home just nine times, starting with opening night against the Warriors. If you are going to a game and want gold, circle those nine dates.

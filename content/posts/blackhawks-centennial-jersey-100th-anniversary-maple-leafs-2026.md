@@ -3,7 +3,7 @@ title: "Blackhawks Bring Back The Centennial Jersey On Their 100th Birthday And 
 author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-11-18"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-19"
 excerpt: "The Chicago Blackhawks wore last season's Centennial jersey on Tuesday, Nov. 17, 2026, exactly 100 years after their first NHL game against the Toronto St. Pats, and beat the Maple Leafs 6-3. What the jersey is, how it differs from the regular red, and why it was Patrick Kane's first night in it."
 gradient: "linear-gradient(135deg, #CF0A2C 0%, #8a0718 55%, #111111 130%)"
 cardStyle: words
@@ -112,7 +112,7 @@ Three NHL teams joined the league for the 1926-27 season, and all three are mark
 
 - **New York Rangers:** first game Nov. 16, 1926, a 1-0 win over the Montreal Maroons. They wore their lighter blue Centennial jersey on Nov. 16, 2026, and beat Montreal 3-1. [Read the story](/stories/rangers-centennial-jerseys-100th-anniversary-canadiens-2026).
 - **Chicago Black Hawks:** first game Nov. 17, 1926, a 4-1 win over the Toronto St. Pats. They wore the Centennial jersey on Nov. 17, 2026, and beat Toronto 6-3.
-- **Detroit Cougars (now the Red Wings):** first game Nov. 18, 1926, a 2-0 loss to the Boston Bruins in Windsor, Ontario. Detroit hosts Boston again tonight. [What the Cougars wore in 1926](/stories/red-wings-100-years-first-game-bruins-detroit-cougars-uniforms).
+- **Detroit Cougars (now the Red Wings):** first game Nov. 18, 1926, a 2-0 loss to the Boston Bruins in Windsor, Ontario. Detroit hosted Boston again on Nov. 18, 2026, in its red Centennial sweater, and Boston won 4-1. [What the Cougars wore in 1926](/stories/red-wings-100-years-first-game-bruins-detroit-cougars-uniforms).
 
 That is three Original Six anniversaries in three nights, and two centennial jerseys back on the ice.
 

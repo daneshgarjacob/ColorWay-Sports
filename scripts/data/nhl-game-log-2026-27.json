@@ -11,6 +11,9 @@
     "Daily pass: node scripts/nhl-game-photos.mjs <YYYYMMDD> (view the frames), add/adjust entries here, then npm run nhl:daily (schedule tables + daily tracker post; /nhl-tracker team pages read this file at build)"
   ],
   "matchupGrades": {
+    "BOS Black on the Road @ DET Centennial Sweater": "A",
+    "MTL Road White @ NJD Hometown Remix Debut": "B",
+    "COL Road White @ UTA Home Black": "B",
     "OTT Road White @ WPG Hometown Remix Debut": "A-",
     "ANA Road White @ STL Hometown Remix Debut": "B+",
     "NSH Road White @ MIN Hometown Remix Debut": "B+",
@@ -705,7 +708,9 @@
     "2026-11-17 NSH@MIN": {"confirmed": true, "source": "ESPN highlight frames (Wild Hometown Remix debut: black with green and white sleeve and hem stripes, green numbers, green and white bear crest; Predators road white)", "note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix Debut", "image": "/images/posts/nhl-daily-tracker/wild-remix.jpg", "color": "#154734"}},
     "2026-11-17 DAL@VGK": {"confirmed": true, "source": "TNT Sports highlight frames via ESPN (Golden Knights home gold, Stars road white)"},
     "2026-11-17 CGY@SJS": {"confirmed": true, "source": "NBC Sports California highlight frames via ESPN (Sharks home teal, Flames road white)"},
-    "2026-11-18 MTL@NJD": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix Debut", "color": "#CE1126"}},
+    "2026-11-18 BOS@DET": {"confirmed": true, "source": "TNT Sports highlight frames via ESPN (The Original Faceoff, 100 years to the day after the Detroit Cougars' first NHL game vs Boston: Red Wings wore the Centennial sweater, solid red with the cream 1930s Winged Wheel, multiple cream sleeve and hem stripes and red helmets; Bruins wore their BLACK home sweater with gold and white stripes on the road, color vs color)", "note": "Red Wings 100th anniversary game; no special Bruins sweater seen, standard home black", "home": {"call": "Centennial Sweater", "color": "#CE1126", "swatch": "#CE1126", "image": "/images/posts/nhl-daily-tracker/red-wings-centennial.jpg"}, "away": {"call": "Black on the Road", "color": "#111111", "swatch": "#111111", "image": "/images/posts/nhl-daily-tracker/bruins-home.jpg"}},
+    "2026-11-18 MTL@NJD": {"confirmed": true, "source": "MSGSN highlight frames via ESPN (Devils Hometown Remix debut: black with red trim and red numbers; Canadiens road white)", "note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix Debut", "color": "#CE1126", "image": "/images/posts/nhl-daily-tracker/devils-remix.jpg"}},
+    "2026-11-18 COL@UTA": {"confirmed": true, "source": "TNT Sports highlight frames via ESPN (Mammoth home black with light blue stripes, Avalanche road white)"},
     "2026-11-19 LAK@TOR": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "color": "#00205B"}},
     "2026-11-21 EDM@CAR": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "color": "#5B6770"}},
     "2026-11-21 MIN@VAN": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "color": "#00205B"}},
