@@ -15,6 +15,8 @@ resurfaceOnUpdate: true
 
 Iowa wears the black jersey with gold pants at Kinnick Stadium and the white jersey with gold pants on the road, under the same black Tigerhawk helmet every week. That is the Iowa football uniform in one sentence, and it covers almost every Saturday. The exceptions in the 2026 games we have logged were the all-black nights: the Cy-Hawk game, where the Hawkeyes beat Iowa State 16-13, and the October 3 loss to Ohio State. This is the full Iowa 2026 uniform schedule: every jersey, every game week by week, and what the Hawkeyes are expected to wear next. We update this page as each combination is confirmed.
 
+**Update, November 14:** Iowa wore a **black helmet with the American flag Tigerhawk decal, black jersey and black pants** against Purdue, confirmed from the team's game photos, and won **28-7**.
+
 **Update, October 24:** Iowa wore the **black helmet, white jersey and gold pants** at Minnesota, confirmed from the team's game photos, and lost the Floyd of Rosedale game **13-10**.
 
 ## The Iowa 2026 Uniform Sets
@@ -40,8 +42,8 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #FFCD00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Gold</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #FFCD00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Gold</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #FFCD00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
 </div>
@@ -64,9 +66,9 @@ Iowa runs one of the most stable wardrobes in the Big Ten. The helmet does not c
 
 **October 31 vs. Wisconsin.** Black expected, with an asterisk. It is Halloween at Kinnick against the program Iowa went all black for in 2022, so this is the home date we are watching most closely for the alternate. Wisconsin will be the team in white.
 
-**November 7 at Northwestern.** White expected, with Northwestern in purple at home. **Final: Iowa 24, Northwestern 10.** We have not checked this game against game photos.
+**November 7 at Northwestern.** White expected, with Northwestern in purple at home. **Worn: black helmet, white jersey and gold pants**, confirmed from Northwestern's game photos, dated to the day of the game. Northwestern wore a white helmet, purple jersey and white pants. **Final: Iowa 24, Northwestern 10.**
 
-**November 14 vs. Purdue.** Black expected. The final Saturday home game falls on Veterans Day weekend, the usual window for Iowa's annual military appreciation game and the American flag Tigerhawk decal on the right side of the helmet. Iowa has not announced the date yet, so treat the decal as likely, not confirmed. **Final: Iowa 28, Purdue 7.**
+**November 14 vs. Purdue.** Black expected. The final Saturday home game falls on Veterans Day weekend, the usual window for Iowa's annual military appreciation game and the American flag Tigerhawk decal on the right side of the helmet. Iowa has not announced the date yet, so treat the decal as likely, not confirmed. **Worn: black helmet with the American flag Tigerhawk decal, black jersey, black pants**, confirmed from the team's game photos, so the military appreciation decal did show up. Purdue wore a gold helmet, white jersey and white pants. **Final: Iowa 28, Purdue 7.**
 
 **November 21 at Illinois.** White expected, at Gies Memorial Stadium in Champaign.
 
@@ -80,7 +82,7 @@ Six games in, Iowa has shown every piece of its closet: the black and gold home 
 
 **What jersey is Iowa wearing this week?**
 
-Iowa wore the black helmet, white jersey and gold pants at Minnesota on Saturday, October 24, confirmed from the team's game photos, and lost the Floyd of Rosedale game 13-10. Iowa has since won 24-10 at Northwestern on November 7 and 28-7 over Purdue on November 14. Next is at Illinois on November 21, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Iowa wore a black helmet with the American flag Tigerhawk decal, black jersey and black pants against Purdue on Saturday, November 14, confirmed from the team's game photos, and won 28-7. A week earlier it won 24-10 at Northwestern in the black helmet, white jersey and gold pants. Next is at Illinois on November 21, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Iowa's football uniforms for 2026?**
 

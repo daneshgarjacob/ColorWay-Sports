@@ -15,6 +15,8 @@ resurfaceOnUpdate: true
 
 Wisconsin opened 2026 in a uniform the program had never worn before, and then went straight back to one of the most settled wardrobes in the Big Ten. This is the full Wisconsin 2026 uniform schedule: the red home set, the white road set, the white Motion W helmet that goes with both, the all-red Lambeau Field alternate that already came and went, the Red Out with the red helmet for Homecoming against Michigan State, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
+**Update, November 14:** Wisconsin wore **all white, white helmet, white jersey and white pants**, at Maryland, confirmed from the team's game photos, and lost **24-21**.
+
 **Update, November 7:** Wisconsin wore the **white helmet, red jersey and white pants** against Rutgers, confirmed from the game broadcast, and won **31-10**. The Badgers then lost 24-21 at Maryland on November 14.
 
 ## The Wisconsin 2026 Uniform Sets
@@ -42,8 +44,8 @@ Twelve games: six at Camp Randall, five on the road, one neutral-site opener at 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #C5050C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C5050C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">FRI NOV 27</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
 </div>
@@ -76,7 +78,7 @@ For the other side of it, see our [Michigan State 2026 uniform schedule](/storie
 
 **November 7 vs. Rutgers**, Camp Randall Stadium. Red expected. **Worn: white helmet, red jersey, white pants**, confirmed from the game broadcast. **Final: Wisconsin 31, Rutgers 10.**
 
-**November 14 at Maryland**, SECU Stadium. White expected. **Final: Maryland 24, Wisconsin 21.**
+**November 14 at Maryland**, SECU Stadium. White expected. **Worn: white helmet, white jersey, white pants**, confirmed from Wisconsin's own game photography. Maryland wore the red helmet, black jersey and black pants. **Final: Maryland 24, Wisconsin 21.**
 
 **November 21 at Purdue**, Ross-Ade Stadium. White expected.
 
@@ -90,7 +92,7 @@ Wisconsin spent its first alternate on the opener, and it spent it well. An all-
 
 **What jersey is Wisconsin wearing this week?**
 
-Wisconsin lost 24-21 at Maryland on Saturday, November 14; we have not logged that game's uniform yet. The last game we have logged is the 31-10 win over Rutgers at Camp Randall on Saturday, November 7, in the white helmet, red jersey and white pants, confirmed from the game broadcast. Next is Purdue on the road on Saturday, November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Wisconsin wore all white, white helmet, white jersey and white pants, at Maryland on Saturday, November 14, confirmed from the team's game photos, and lost 24-21. A week earlier it beat Rutgers 31-10 at Camp Randall in the white helmet, red jersey and white pants. Next is Purdue on the road on Saturday, November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What did Wisconsin wear against Notre Dame at Lambeau Field?**
 

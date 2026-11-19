@@ -15,6 +15,8 @@ resurfaceOnUpdate: true
 
 Minnesota plays its colors straight: maroon, gold and white, mixed and matched across helmet, jersey and pants. This is the full Minnesota Gophers 2026 uniform schedule: the maroon home set, the gold jersey that came out for the Gold Out, the white road set, the chrome gold helmet that is back for 2026, and a week-by-week outlook for all twelve games in P.J. Fleck's tenth season. Through their first four games the Gophers wore maroon over gold pants twice and gold over maroon pants once under the maroon helmet, and the chrome gold helmet finally came out on October 3 in the 20-14 win over Michigan. We update this page as each combination is confirmed.
 
+**Update, November 14:** Minnesota wore a **chrome gold helmet with the maroon M, white jersey and maroon pants** at Penn State, confirmed from game photos, and lost **42-14**.
+
 **Update, November 7:** Minnesota wore a **maroon helmet, black jersey and black pants** for its Salute to Service game against UCLA, confirmed from game photos, and lost **34-20**.
 
 ## The Minnesota Gophers 2026 Uniform Sets
@@ -40,8 +42,8 @@ The current Nike set arrived in 2024, the first full relaunch since 2018. It add
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #7A0019; color: #ffffff; border: 2px solid #FFCC33; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #7A0019; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #7A0019; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Black / Black</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #7A0019; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Chrome Gold / White / Maroon</div></div>
   <div style="background: #7A0019; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -66,7 +68,7 @@ The current Nike set arrived in 2024, the first full relaunch since 2018. It add
 
 **November 7 vs. UCLA.** Maroon expected. Minnesota's Salute to Service game, which makes it a candidate for a patch or helmet decal. UCLA is in white on the [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026). **Worn: maroon helmet, black jersey, black pants**, confirmed from game photos. We had maroon down; the jersey was black. **Final: UCLA 34, Minnesota 20.**
 
-**November 14 at Penn State.** White expected. The Governor's Victory Bell game at Beaver Stadium, against a Penn State team in navy, as shown on the [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026). **Final: Penn State 42, Minnesota 14.**
+**November 14 at Penn State.** White expected. The Governor's Victory Bell game at Beaver Stadium, against a Penn State team in navy, as shown on the [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026). **Worn: chrome gold helmet with the maroon M, white jersey, maroon pants**, confirmed from Penn State's game photos. Penn State wore the white helmet, navy jersey and white pants. **Final: Penn State 42, Minnesota 14.**
 
 **November 21 vs. Northwestern.** Maroon expected. Senior Day and the final home game of the season.
 
@@ -80,7 +82,7 @@ In its first six games, Minnesota gave us both of its color jerseys and, against
 
 **What jersey is Minnesota wearing this week?**
 
-Minnesota wore a maroon helmet, black jersey and black pants for its Salute to Service game against UCLA on Saturday, November 7, confirmed from game photos, and lost 34-20. Minnesota then lost 42-14 at Penn State on November 14. Next is Northwestern at home on November 21, Senior Day and the final home game, where maroon is expected. The week-by-week grid above lists every game with the expected set.
+Minnesota wore a chrome gold helmet with the maroon M, white jersey and maroon pants at Penn State on Saturday, November 14, confirmed from game photos, and lost 42-14. A week earlier it wore a maroon helmet, black jersey and black pants for its Salute to Service game against UCLA and lost 34-20. Next is Northwestern at home on November 21, Senior Day and the final home game, where maroon is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are the Minnesota Gophers football uniforms for 2026?**
 

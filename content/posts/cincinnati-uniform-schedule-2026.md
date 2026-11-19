@@ -15,7 +15,9 @@ resurfaceOnUpdate: true
 
 Cincinnati has worn a different uniform in each of its first five games this season, from all red under a white Cincy script helmet against Boston College to head-to-toe white at Arizona. This is the full Cincinnati 2026 uniform schedule: the black, red and white Nike sets, the helmet rotation, and a week-by-week outlook for all twelve games, including the Victory Bell game the Bearcats won at TQL Stadium. We update this page as each combination is confirmed.
 
-**Update, November 7:** Cincinnati wore a **black helmet, white jersey and black pants** at Houston, confirmed from the game broadcast, and lost **31-24**. The Bearcats then lost 41-13 at Iowa State on November 14; we have not logged that uniform yet.
+**Update, November 14:** Cincinnati wore a **black helmet, white jersey and black pants** at Iowa State, confirmed from the team's game photos, and lost **41-13**.
+
+**Update, November 7:** Cincinnati wore a **black helmet, white jersey and black pants** at Houston, confirmed from the game broadcast, and lost **31-24**.
 
 ## The Cincinnati 2026 Uniform Sets
 
@@ -40,8 +42,8 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
   <div style="background: #f1f3f8; color: #333; border: 2px solid #E00122; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #E00122; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / Red</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Red</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #E00122; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #E00122; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -72,7 +74,7 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
 
 **November 7 at Houston.** White expected. The Bearcats and Cougars were conference rivals in the American before both moved to the Big 12. **Worn: black helmet, white jersey, black pants**, confirmed from the game broadcast. **Final: Houston 31, Cincinnati 24.**
 
-**November 14 at Iowa State.** White expected. A November trip to Jack Trice Stadium in Ames. **Final: Iowa State 41, Cincinnati 13.**
+**November 14 at Iowa State.** White expected. A November trip to Jack Trice Stadium in Ames. **Worn: black helmet, white jersey, black pants**, the same road set as Houston, confirmed from Cincinnati's own game photography, dated to the day of the game. Iowa State wore cardinal jerseys and cardinal pants. **Final: Iowa State 41, Cincinnati 13.**
 
 **November 21 vs. Colorado.** Black or red expected. The last home game of the season, with Colorado in white per the [Colorado 2026 uniform schedule](/stories/colorado-uniform-schedule-2026).
 
@@ -86,7 +88,7 @@ The first two games brought two different sets and two different helmets: Cincin
 
 **What jersey is Cincinnati wearing this week?**
 
-Cincinnati lost 41-13 at Iowa State on Saturday, November 14; we have not logged that uniform yet. The last look we have on record is a black helmet, white jersey and black pants at Houston on Saturday, November 7, confirmed from the game broadcast, in a 31-24 loss. Next is Colorado at Nippert Stadium on Saturday, November 21, the last home game, where black or red is expected. The grid above lists every game, and we update it as each combination is confirmed.
+Cincinnati wore a black helmet, white jersey and black pants at Iowa State on Saturday, November 14, confirmed from the team's game photos, and lost 41-13. It wore the same set at Houston on November 7, a 31-24 loss. Next is Colorado at Nippert Stadium on Saturday, November 21, the last home game, where black or red is expected. The grid above lists every game, and we update it as each combination is confirmed.
 
 **What are Cincinnati's football uniforms for 2026?**
 

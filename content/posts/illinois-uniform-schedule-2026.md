@@ -15,6 +15,8 @@ resurfaceOnUpdate: true
 
 Illinois has three jersey colors, a rack of orange helmets and a navy one, and a home crowd that picks a color theme for the big games. This is the full Illinois 2026 uniform schedule: the navy home set, the white road set, the orange alternate, the helmets, and a week-by-week outlook for all twelve games in Bret Bielema's sixth season. Six games in, the Fighting Illini are 3-3: navy over orange in all three early home games, with a patriotic helmet for Duke, white at Ohio State, all orange for Homecoming against Purdue and white again in the overtime win at Michigan State. We update this page as each combination is confirmed.
 
+**Update, November 13:** Illinois wore a **navy helmet with the orange stripe, white jersey and navy pants** at UCLA on Friday night, confirmed from UCLA's game photos, and lost **22-14**.
+
 **Update, November 6:** Illinois went **back in blue** for Nebraska on Friday night: a **navy helmet with an orange, white and orange center stripe and the Illinois script, a navy jersey with white numbers outlined in orange, and navy pants**, from the team's game-week uniform post. It was all navy for Dads Day and the "Hail to the Blue Out," and Illinois won **24-13**.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
@@ -48,7 +50,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
   <div style="background: #13294B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Military Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #13294B; color: #ffffff; border: 2px solid #E84A27; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Navy</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / Navy</div></div>
   <div style="background: #13294B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -79,7 +81,7 @@ Illinois wears Nike, and the Bielema era has leaned hard on orange: orange pants
 
 **November 6 vs. Nebraska.** ★ Confirmed by Illinois ("Back in blue"): **navy helmet with the Illinois script and an orange, white and orange stripe, navy jersey, navy pants.** A Friday night game at 7 p.m. Central on FOX, which ESPN files under November 7. It is Dads Day and a "Hail to the Blue Out," and Illinois matched it head to toe. Nebraska will be in white; see the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026). **Final: Illinois 24, Nebraska 13.**
 
-**November 13 at UCLA.** White expected. Another Friday night, 6 p.m. Pacific (8 p.m. Central) on FOX at the Rose Bowl, which ESPN lists under November 14. The [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026) tracks the Bruins in blue. **Final: UCLA 22, Illinois 14.**
+**November 13 at UCLA.** White expected. Another Friday night, 6 p.m. Pacific (8 p.m. Central) on FOX at the Rose Bowl, which ESPN lists under November 14. The [UCLA 2026 uniform schedule](/stories/ucla-uniform-schedule-2026) tracks the Bruins in blue. ★ **Worn: navy helmet with the orange stripe, white jersey, navy pants**, confirmed from UCLA's game photography, dated to the night of the game. UCLA wore the gold helmet, blue jersey and gold pants. **Final: UCLA 22, Illinois 14.**
 
 **November 21 vs. Iowa.** Navy expected. Senior Day and the final home game, with Iowa in white. Our [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026) has the Hawkeyes.
 
@@ -93,7 +95,7 @@ Illinois wore the same base look in its first three home games, orange helmet, n
 
 **What jersey is Illinois wearing this week?**
 
-Illinois wore all navy, a navy helmet with the Illinois script, navy jersey and navy pants, against Nebraska on Friday, November 6, as confirmed by the team in its "Back in blue" post, and won 24-13. Illinois then lost 22-14 at UCLA on November 13. Next is Iowa at home on November 21, Senior Day, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Illinois wore a navy helmet with the orange stripe, white jersey and navy pants at UCLA on Friday, November 13, confirmed from UCLA's game photos, and lost 22-14. A week earlier it went all navy against Nebraska and won 24-13. Next is Iowa at home on November 21, Senior Day, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Illinois's football uniforms for 2026?**
 

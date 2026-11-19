@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Michigan State wears green at home and white on the road, but the Spartans reveal a new helmet, jersey and pants combination almost every week, so the base colors are only half the answer. This is the full Michigan State 2026 uniform schedule: the green home set, the white road set, the Greek key helmets, the black alternate, and a week-by-week outlook for all twelve games in Pat Fitzgerald's first season. Six games in, the Spartans have worn green over white pants twice, green head to toe twice, and the white jersey on both road trips. We update this page as each combination is confirmed.
 
-**Update, November 14:** Michigan State wore the **green jersey** against Washington, confirmed from the game broadcast, and lost **21-14**.
+**Update, November 14:** Michigan State wore the **white helmet, green jersey and green pants** against Washington, confirmed from the game broadcast, and lost **21-14**.
 
 ## The Michigan State 2026 Uniform Sets
 
@@ -40,8 +40,8 @@ The current Nike set arrived in 2023 and built everything around a Greek key pat
   <div style="background: #18453B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #18453B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / Green</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #18453B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Green</div></div>
+  <div style="background: #18453B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / Green</div></div>
   <div style="background: #18453B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -70,9 +70,9 @@ The current Nike set arrived in 2023 and built everything around a Greek key pat
 
 **October 31.** Bye.
 
-**November 7 at Michigan.** White expected. The Paul Bunyan Trophy game at Michigan Stadium, with Michigan in navy under the winged helmet. Our [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026) covers the Wolverines. **Final: Michigan State 15, Michigan 6.** We have not checked this game against game photos.
+**November 7 at Michigan.** White expected. The Paul Bunyan Trophy game at Michigan Stadium, with Michigan in navy under the winged helmet. Our [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026) covers the Wolverines. ★ Confirmed from both schools' game photos, dated to the day of the game: **white helmet, white jersey, green pants.** Michigan wore the winged helmet, navy jersey and navy pants. **Final: Michigan State 15, Michigan 6.**
 
-**November 14 vs. Washington.** Green expected, with Washington in white. The [Washington 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026) tracks the Huskies. **Worn: green jersey**, confirmed from the game broadcast. **Final: Washington 21, Michigan State 14.**
+**November 14 vs. Washington.** Green expected, with Washington in white. The [Washington 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026) tracks the Huskies. **Worn: white helmet, green jersey, green pants**, confirmed from the game broadcast. **Final: Washington 21, Michigan State 14.**
 
 **November 20 vs. Oregon.** Green expected. A Friday night game at 8 p.m. Eastern on FOX, and Oregon's first trip to East Lansing since 2015. Oregon brings more combinations than anyone in the conference, so check our [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) for the Ducks.
 
@@ -86,7 +86,7 @@ Michigan State used the green jersey and the green helmet in its first four home
 
 **What jersey is Michigan State wearing this week?**
 
-Michigan State wore the green jersey against Washington on Saturday, November 14, confirmed from the game broadcast, and lost 21-14. Next is Oregon at home on Friday, November 20, where green is expected. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
+Michigan State wore the white helmet, green jersey and green pants against Washington on Saturday, November 14, confirmed from the game broadcast, and lost 21-14. Next is Oregon at home on Friday, November 20, where green is expected. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
 
 **What are Michigan State's football uniforms for 2026?**
 

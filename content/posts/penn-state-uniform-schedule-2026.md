@@ -38,8 +38,8 @@ The no-names rule is the part people ask about. Penn State leaves the back of th
   <div style="background: #f1f3f8; color: #333; border: 2px solid #041E42; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #041E42; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #041E42; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #041E42; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
+  <div style="background: #041E42; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #041E42; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
@@ -62,9 +62,9 @@ The no-names rule is the part people ask about. Penn State leaves the back of th
 
 **October 31 vs. Purdue.** Navy expected.
 
-**November 7 at Washington.** White expected. **Final: Penn State 28, Washington 25.** We have not checked this game against game photos.
+**November 7 at Washington.** White expected. ★ Confirmed from Penn State's own game photography: **all white, white helmet, white jersey, white pants.** Washington wore a gold helmet, purple jersey and purple pants. FOX fed ESPN no broadcast frames. **Final: Penn State 28, Washington 25.**
 
-**November 14 vs. Minnesota.** Navy expected. **Final: Penn State 42, Minnesota 14.**
+**November 14 vs. Minnesota.** Navy expected. ★ Confirmed from Penn State's own game photography: **white helmet, navy jersey, white pants**, the home set. Minnesota wore a gold chrome helmet with the maroon M, white jersey and maroon pants. **Final: Penn State 42, Minnesota 14.**
 
 **November 21 vs. Rutgers.** Navy expected.
 
@@ -78,7 +78,7 @@ Nothing here will surprise you, and Penn State would take that as a compliment. 
 
 **What jersey is Penn State wearing this week?**
 
-The last look we have confirmed is all white, white helmet, white jersey and white pants, at Michigan on Saturday, October 17, confirmed by Penn State. Since then Penn State beat Washington 28-25 on November 7 and Minnesota 42-14 on November 14; we have not yet confirmed what it wore in those games. Penn State wears navy at home and white on the road in 2026. Next is Rutgers at home on November 21, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Penn State wore the white helmet, navy jersey and white pants against Minnesota on Saturday, November 14, confirmed from game photos, and won 42-14. The week before, it went all white at Washington and won 28-25. Penn State wears navy at home and white on the road in 2026. Next is Rutgers at home on November 21, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Penn State's uniforms for 2026?**
 

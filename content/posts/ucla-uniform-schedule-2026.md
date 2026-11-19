@@ -15,6 +15,8 @@ resurfaceOnUpdate: true
 
 UCLA wears its powder blue jersey at the Rose Bowl and white on the road, both under a metallic gold helmet and almost always with gold pants. That is the short answer. This is the full UCLA 2026 uniform schedule: the blue home set, the white road set, the 1954 throwback the Bruins have pulled out once a season for three years running, and a week-by-week outlook for all twelve games of Bob Chesney's first season. Two games are in the books and both uniforms are confirmed from the broadcast. We update this page as each combination is confirmed.
 
+**Update, November 13:** UCLA wore the **gold helmet, blue jersey and gold pants** against Illinois at the Rose Bowl on Friday night, confirmed from game photos, and won **22-14**.
+
 **Update, November 7:** UCLA wore the **gold helmet, white jersey and gold pants** at Minnesota, confirmed from game photos, and won **34-20**. The Bruins then beat Illinois 22-14 on Friday, November 13.
 
 ## The UCLA 2026 Uniform Sets
@@ -40,8 +42,8 @@ The base sets are Jordan Brand, which took over UCLA in 2021 and put the Jumpman
   <div style="background: #2774AE; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #5b9bd5; color: #ffffff; border: 2px solid #FFD100; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Powder Blue Throwback</div></div>
   <div style="background: #2774AE; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nevada</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #2774AE; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #2774AE; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
+  <div style="background: #2774AE; color: #ffffff; border: 2px solid #FFD100; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Blue / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #2774AE; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
 </div>
@@ -72,7 +74,7 @@ The base sets are Jordan Brand, which took over UCLA in 2021 and put the Jumpman
 
 **November 7 at Minnesota.** White expected. A November night at Huntington Bank Stadium, time still to be announced. **Worn: gold helmet, white jersey, gold pants**, confirmed from game photos. **Final: UCLA 34, Minnesota 20.**
 
-**November 13 vs. Illinois.** Blue expected. This is a Friday night game, 6 p.m. Pacific on FOX, so ESPN shows it under November 14. **Final: UCLA 22, Illinois 14.**
+**November 13 vs. Illinois.** Blue expected. This is a Friday night game, 6 p.m. Pacific on FOX, so ESPN shows it under November 14. **Worn: gold helmet, blue jersey, gold pants**, confirmed from UCLA's own game photography, dated to the night of the game. Illinois wore a navy helmet, white jersey and navy pants. **Final: UCLA 22, Illinois 14.**
 
 **November 21 at Michigan.** White expected. Michigan is expected in navy at Michigan Stadium, which puts UCLA's white and gold against Michigan's navy and maize.
 
@@ -86,7 +88,7 @@ UCLA runs one of the tightest uniform rotations in the Big Ten: one gold helmet,
 
 **What jersey is UCLA wearing this week?**
 
-UCLA beat Illinois 22-14 at the Rose Bowl on Friday, November 13; we have not logged that night's uniform yet. The last game we have logged is the 34-20 win at Minnesota on Saturday, November 7, in the gold helmet, white jersey and gold pants, confirmed from game photos, the same road set the Bruins wore at Maryland and Oregon. Next up is at Michigan on November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+UCLA wore the gold helmet, blue jersey and gold pants against Illinois at the Rose Bowl on Friday, November 13, confirmed from game photos, and won 22-14. The week before, it won 34-20 at Minnesota in the gold helmet, white jersey and gold pants, the same road set the Bruins wore at Maryland and Oregon. Next up is at Michigan on November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are UCLA's football uniforms for 2026?**
 
