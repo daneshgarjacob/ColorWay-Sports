@@ -10,6 +10,8 @@ cardStyle: words
 kicker: "Uniform Reveal"
 league: "nba"
 teams: ["boston-celtics"]
+hub: "more-sports"
+hubGroup: "gleague"
 ---
 
 **The Maine Celtics are going camo.** The G League affiliate of the Boston Celtics unveiled its **2026-27 L.L.Bean "Amazing Maine" uniform** on Monday, November 16: the **classic L.L.Bean camouflage pattern, redone in a Celtics green colorway**. The team says the pattern was first introduced in **1959** with the **Bean's Camouflage Parka**.

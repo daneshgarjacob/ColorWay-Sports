@@ -20,6 +20,7 @@ export default function TeamWearBox({
   link,
   confirmedLabel = "Confirmed by the team",
   signup,
+  nextOpponent,
 }: {
   accent?: string;
   badge: string;
@@ -36,6 +37,8 @@ export default function TeamWearBox({
   confirmedLabel?: string;
   /** Team email signup, shown right under the headline answer (before the FAQ list) so it sits high on phones. */
   signup?: ReactNode;
+  /** The next opponent's own schedule post. Only passed when that post exists. */
+  nextOpponent?: { href: string; label: string } | null;
 }) {
   if (!headline && !lastGame) return null;
   const title = headline?.question ?? answers[answers.length - 1]?.q ?? "";
@@ -90,6 +93,28 @@ export default function TeamWearBox({
               </p>
               </div>
             </div>
+          )}
+
+          {nextOpponent && (
+            <Link
+              prefetch={false}
+              href={nextOpponent.href}
+              className="group mb-5 flex min-h-[52px] items-center justify-between gap-3 rounded-xl border border-black/10 px-4 py-2.5 transition-colors hover:bg-black/[0.03]"
+            >
+              <span className="min-w-0">
+                <span className="block text-[11px] font-bold uppercase tracking-[0.14em] text-[#8A8F98]">Next Opponent</span>
+                <span className="mt-0.5 block text-base sm:text-lg font-extrabold leading-snug" style={{ color: accent }}>
+                  {nextOpponent.label}
+                </span>
+              </span>
+              <span
+                aria-hidden
+                className="flex-shrink-0 text-xl font-extrabold motion-safe:transition-transform motion-safe:group-hover:translate-x-1"
+                style={{ color: accent }}
+              >
+                →
+              </span>
+            </Link>
           )}
 
           {lastGame && (

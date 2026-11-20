@@ -247,6 +247,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      url: "https://www.colorwaysports.com/more-sports",
+      lastModified: new Date(),
+      changeFrequency: "daily",
+      priority: 0.7,
+    },
+    {
       url: "https://www.colorwaysports.com/jersey-of-the-day",
       lastModified: new Date(),
       changeFrequency: "daily",

@@ -10,6 +10,8 @@ cardStyle: words
 kicker: "Uniform Reveal"
 league: "mlb"
 teams: ["cincinnati-reds"]
+hub: "more-sports"
+hubGroup: "milb"
 ---
 
 **Purple is back in Louisville.** The **Louisville Bats**, the Triple-A affiliate of the Cincinnati Reds, unveiled a **City Connect uniform for 2027** on Tuesday, November 17: a **purple jersey with white pinstripes**, a **Derby City** wordmark across the chest and a **white fleur-de-lis** underneath. It is the first time since **2015** that purple will be a regular part of the Bats' on-field look.

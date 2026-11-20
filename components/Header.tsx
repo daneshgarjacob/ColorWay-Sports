@@ -290,6 +290,8 @@ const leagues: NavLeague[] = [
       // new racing stories and neither earns.
       // Jake 11/13: every court, end zone, field and stadium story in one place.
       { label: "Courts & Fields", href: "/courts-and-fields" },
+      // 11/19: minor league baseball, G League, PWHL, lacrosse, junior hockey.
+      { label: "More Sports", href: "/more-sports" },
       // Site plan 11/16: every "why" and origin story in one place.
       { label: "Explained", href: "/explained" },
       { label: "Ask ColorWay", href: "/ask" },

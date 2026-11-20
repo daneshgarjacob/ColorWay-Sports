@@ -10,6 +10,8 @@ cardStyle: words
 kicker: "New Name"
 league: "mlb"
 teams: ["new-york-yankees"]
+hub: "more-sports"
+hubGroup: "milb"
 ---
 
 **The Scranton/Wilkes-Barre RailRiders are now the Scranton/Wilkes-Barre Highlanders.** The New York Yankees' Triple-A affiliate unveiled its new name, logos and uniforms on **Saturday, November 7**, at a fall festival at **PNC Field** in Moosic, Pennsylvania. The **SWB Highlanders** take the field for the first time in the **2027 season**, with the first home game on **April 6 against Lehigh Valley**.

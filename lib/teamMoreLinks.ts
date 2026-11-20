@@ -180,6 +180,43 @@ function nextCollege(scheduleSlug: string | undefined, now: Date): NextGame | nu
 
 const STORY = (slug: string) => `/stories/${slug}`;
 
+// Grids write a few schools by their full name; TEAM_LOGOS uses the short one.
+const COLLEGE_ALIASES: Record<string, string> = {
+  pittsburgh: "pitt",
+  california: "cal",
+  "miami (fl)": "miami",
+};
+
+/**
+ * The opponent's own uniform schedule post, for the "Next Opponent" link in the
+ * this-week box. `opponent` is written the way the schedule writes it: an NFL
+ * nickname ("Bears"), a college school ("Nebraska", "No. 4 Ohio State") or an
+ * NBA nickname ("Bulls"). Null when that team has no schedule post, so the box
+ * shows nothing rather than a dead link.
+ */
+export function opponentScheduleLink(
+  league: string,
+  opponent: string,
+): { href: string; name: string } | null {
+  const opp = opponent.replace(/^(No\.\s*|#)\d+\s+/i, "").trim();
+  if (!opp) return null;
+  const index = quickIndex();
+  let key: string | undefined;
+  if (league === "nfl") {
+    key = buildNflTeamIndex().find((t) => t.nickname === opp || t.name.endsWith(` ${opp}`))?.slug;
+  } else if (league === "college" || league === "ncaa") {
+    const school = opp.toLowerCase();
+    key = collegeSlugBySchool().get(COLLEGE_ALIASES[school] ?? school);
+  } else if (league === "nba" || league === "nhl") {
+    key = Object.keys(index).find(
+      (k) => index[k].league === league && (index[k].short === opp || index[k].name === opp || index[k].name.endsWith(` ${opp}`)),
+    );
+  }
+  const entry = key ? index[key] : undefined;
+  const href = scheduleHref(entry);
+  return entry && href ? { href, name: opp } : null;
+}
+
 /**
  * The links for one team, or null when the team has no schedule post. `exclude`
  * drops hrefs already on the page (the page's own URL, its calendar twin).

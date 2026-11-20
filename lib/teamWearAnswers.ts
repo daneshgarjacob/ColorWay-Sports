@@ -30,6 +30,8 @@ export type WearHeadline = {
   /** Photo of this week's jersey (NFL). */
   img?: string;
   imgAlt?: string;
+  /** The opponent as the schedule writes it ("Bears", "Nebraska"), for the Next Opponent link. */
+  opponent?: string;
 };
 
 const DAY = 86400000;
@@ -48,7 +50,7 @@ export const clean = (s: string) =>
     .replace(/<[^>]+>/g, "")
     .replace(/&middot;/g, "·")
     .replace(/&#9733;|&starf;|&#x2605;/gi, "★")
-    .replace(/&amp;/g, "&")
+    .replace(/&amp;|&#x26;|&#38;/gi, "&")
     .replace(/&#39;|&rsquo;/g, "'")
     .replace(/\s+/g, " ")
     .trim();
@@ -95,6 +97,7 @@ export function buildNflWear(
         detail: `Bye this week · Week ${after.week} · ${after.date ?? after.window} · ${after.home ? "vs" : "at"} ${after.opponent}`,
         img: after.img,
         imgAlt: `${entry.name} ${after.uniform.split(" · ")[0]} jersey, ${after.confirmed ? "confirmed" : "expected"} for Week ${after.week}`,
+        opponent: after.opponent,
       };
     }
   } else if (game) {
@@ -109,6 +112,7 @@ export function buildNflWear(
       detail: `Week ${week} · ${when} · ${game.home ? "vs" : "at"} ${game.opponent}`,
       img: game.img,
       imgAlt: `${entry.name} ${game.uniform.split(" · ")[0]} jersey, ${game.confirmed ? "confirmed" : "expected"} for Week ${week} ${game.home ? "against" : "at"} the ${game.opponent}`,
+      opponent: game.opponent,
     };
     const look = game.uniform.replace(/\s*·\s*/g, ", ");
     answers.push(
@@ -203,6 +207,7 @@ export function buildCollegeWear(
       uniform: next.uniform,
       confirmed: next.confirmed,
       detail: `${next.label} · ${next.matchup}`,
+      opponent: next.matchup.replace(/^(vs\.?|at)\s+/i, "").trim(),
     };
     answers.push(
       {

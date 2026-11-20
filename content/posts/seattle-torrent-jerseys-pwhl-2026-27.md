@@ -10,6 +10,8 @@ cardStyle: words
 kicker: "Jersey Reveal"
 league: "nhl"
 teams: []
+hub: "more-sports"
+hubGroup: "women"
 ---
 
 **The Seattle Torrent finally have their logo on their chest.** The PWHL club unveiled its **first jerseys featuring the team logo** on Tuesday, November 17: new **crested home and away jerseys** built around a textured version of the Torrent's **wave "S"**, in **slate green, river blue and foam**. They replace the sweaters the team wore in its inaugural season.

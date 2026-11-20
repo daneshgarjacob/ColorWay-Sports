@@ -20,7 +20,7 @@ import TeamQuickLinks from "@/components/TeamQuickLinks";
 import TeamMoreBlock from "@/components/TeamMoreBlock";
 import TeamUniformAlerts from "@/components/TeamUniformAlerts";
 import { TEAM_ALERTS_LIVE, teamAlertId } from "@/lib/teamAlerts";
-import { buildTeamMoreLinks } from "@/lib/teamMoreLinks";
+import { buildTeamMoreLinks, opponentScheduleLink } from "@/lib/teamMoreLinks";
 import ExplainedRail from "@/components/ExplainedRail";
 import AskColorWayCta from "@/components/AskColorWayCta";
 import { isExplained, relatedExplained } from "@/lib/explained";
@@ -459,6 +459,14 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           ? "college"
           : null;
   const alertSignupInBox = signupBox !== null;
+  // "Next Opponent" link inside the this-week box (Clarity 11/19: readers who
+  // go on to a second page mostly open the opponent's schedule). Resolved from
+  // the same game the box shows; nothing renders when that team has no post.
+  const nextOpp = (league: string, opponent: string | undefined, college = false) => {
+    const o = opponent ? opponentScheduleLink(league, opponent) : null;
+    if (!o || o.href === `/stories/${slug}`) return null;
+    return { href: o.href, label: college ? `See What ${o.name} Is Wearing` : `See What The ${o.name} Are Wearing` };
+  };
   const boxSignup = (box: typeof signupBox) => (alertSignup && signupBox === box ? alertSignup(true) : null);
 
   return (
@@ -562,6 +570,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           }
           answers={nflWear.answers}
           link={nflLatest ? { href: nflLatest.trackerHref, label: "See the game in the NFL uniform tracker" } : null}
+          nextOpponent={nflWear.headline ? nextOpp("nfl", nflWear.headline.opponent) : null}
           signup={boxSignup("nfl")}
         />
       )}
@@ -588,6 +597,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
               : []),
           ]}
           link={{ href: nbaNext.opp.href, label: `See every ${nbaNext.opp.name} jersey this season` }}
+          nextOpponent={nextOpp("nba", nbaNext.opp.name)}
           signup={boxSignup("nba")}
         />
       )}
@@ -609,6 +619,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             }
           }
           answers={collegeWear.answers}
+          nextOpponent={collegeWear.headline ? nextOpp("college", collegeWear.headline.opponent, true) : null}
           signup={boxSignup("college")}
         />
       )}

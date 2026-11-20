@@ -86,6 +86,11 @@ export default async function NewsFeed() {
                 Updated {updated.time} {updated.zone}
               </span>
             )}
+            <p className="text-[15.5px] m-0 mt-2">
+              <Link prefetch={false} href="/more-sports" className="inline-flex min-h-[44px] items-center font-display font-extrabold text-orange hover:underline">
+                More Sports: Minor League, Women&apos;s, G League And More &rarr;
+              </Link>
+            </p>
           </header>
 
           {/* Feed + right rail, built the same way as the story template so

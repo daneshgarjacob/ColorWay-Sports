@@ -89,6 +89,10 @@ export interface PostMeta {
   reviews?: ReviewItem[];
   bestRating?: number;
   worstRating?: number;
+  /** Opt-in hub page this story is listed on, e.g. "more-sports" (/more-sports). */
+  hub?: string;
+  /** Section within the hub: "milb", "women", "gleague" or "more" (lib/moreSports.ts). */
+  hubGroup?: string;
 }
 
 export interface HeadingItem {
@@ -284,6 +288,8 @@ function readAllPosts(): PostMeta[] {
       reviews: data.reviews,
       bestRating: data.bestRating,
       worstRating: data.worstRating,
+      hub: data.hub,
+      hubGroup: data.hubGroup,
     };
   });
 

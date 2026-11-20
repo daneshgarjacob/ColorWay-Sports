@@ -50,6 +50,8 @@ export interface NewsMeta {
   take?: string;
   /** Defaults to Jake when there is a take; never shown when there is not. */
   takeBy?: string;
+  /** Optional hub section override for /more-sports (lib/moreSports.ts). */
+  hubGroup?: string;
 }
 
 export interface NewsItem extends NewsMeta {
@@ -88,6 +90,7 @@ function toMeta(slug: string, data: Record<string, unknown>): NewsMeta {
     linkLabel: data.linkLabel as string | undefined,
     take: take || undefined,
     takeBy: take ? ((data.takeBy as string) || "Jake Daneshgar") : undefined,
+    hubGroup: data.hubGroup as string | undefined,
   };
 }
 
