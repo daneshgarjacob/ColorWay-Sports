@@ -2,7 +2,7 @@
  "league": "nhl",
  "season": "2026-27",
  "through": "2026-11-18",
- "built": "2026-11-19",
+ "built": "2026-11-20",
  "note": "Built by scripts/build-uniform-records.mjs from scripts/data/nhl-game-log-2026-27.json (confirmed rows, regular season only) and ESPN finals cached in content/data/nhl-scores-2026-27.json. Records are W-L-OTL. Do not hand-edit.",
  "totals": {
   "teams": 32,

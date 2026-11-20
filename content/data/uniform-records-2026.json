@@ -1,13 +1,13 @@
 {
  "league": "nfl",
  "season": 2026,
- "throughWeek": 10,
- "built": "2026-11-19",
+ "throughWeek": 11,
+ "built": "2026-11-20",
  "note": "Built by scripts/build-uniform-records.mjs from the ColorWay Sports NFL uniform tracker (worn looks only, logged from game photos) and ESPN final scores. Do not hand-edit.",
  "totals": {
   "teams": 32,
-  "gamesPlayed": 150,
-  "teamGamesCounted": 300,
+  "gamesPlayed": 151,
+  "teamGamesCounted": 302,
   "teamGamesUnlogged": 0
  },
  "teams": [
@@ -2527,9 +2527,9 @@
    "key": "texans",
    "name": "Houston Texans",
    "nickname": "Texans",
-   "gamesPlayed": 9,
-   "gamesCounted": 9,
-   "w": 3,
+   "gamesPlayed": 10,
+   "gamesCounted": 10,
+   "w": 4,
    "l": 6,
    "t": 0,
    "missing": [],
@@ -2643,6 +2643,35 @@
      ]
     },
     {
+     "id": "white-white-white",
+     "helmet": "White",
+     "jersey": "White",
+     "jerseyName": "White",
+     "jerseyKey": "texans-white-rivalries",
+     "pants": "White",
+     "hexes": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/texans-white-rivalries.jpg",
+     "w": 1,
+     "l": 0,
+     "t": 0,
+     "games": [
+      {
+       "week": 11,
+       "date": "2026-11-19",
+       "opponent": "Indianapolis Colts",
+       "home": true,
+       "teamScore": 26,
+       "oppScore": 3,
+       "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
+    {
      "id": "battle-red-battle-red-battle-red",
      "helmet": "Battle Red",
      "jersey": "Battle Red",
@@ -2706,13 +2735,82 @@
    "key": "colts",
    "name": "Indianapolis Colts",
    "nickname": "Colts",
-   "gamesPlayed": 10,
-   "gamesCounted": 10,
+   "gamesPlayed": 11,
+   "gamesCounted": 11,
    "w": 3,
-   "l": 7,
+   "l": 8,
    "t": 0,
    "missing": [],
    "combos": [
+    {
+     "id": "royal-white-white",
+     "helmet": "White",
+     "jersey": "Royal",
+     "jerseyName": "Royal",
+     "jerseyKey": "colts-royal-home",
+     "pants": "White",
+     "hexes": [
+      "#FFFFFF",
+      "#0055A4",
+      "#FFFFFF"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/colts-royal-home.jpg",
+     "w": 1,
+     "l": 4,
+     "t": 0,
+     "games": [
+      {
+       "week": 1,
+       "date": "2026-09-13",
+       "opponent": "Baltimore Ravens",
+       "home": true,
+       "teamScore": 23,
+       "oppScore": 41,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 6,
+       "date": "2026-10-18",
+       "opponent": "Tennessee Titans",
+       "home": true,
+       "teamScore": 20,
+       "oppScore": 26,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 8,
+       "date": "2026-11-01",
+       "opponent": "Jacksonville Jaguars",
+       "home": false,
+       "teamScore": 7,
+       "oppScore": 42,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 10,
+       "date": "2026-11-15",
+       "opponent": "Miami Dolphins",
+       "home": true,
+       "teamScore": 24,
+       "oppScore": 22,
+       "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 11,
+       "date": "2026-11-19",
+       "opponent": "Houston Texans",
+       "home": false,
+       "teamScore": 3,
+       "oppScore": 26,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
     {
      "id": "white-white-white",
      "helmet": "White",
@@ -2778,65 +2876,6 @@
        "teamScore": 23,
        "oppScore": 27,
        "result": "L",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      }
-     ]
-    },
-    {
-     "id": "royal-white-white",
-     "helmet": "White",
-     "jersey": "Royal",
-     "jerseyName": "Royal",
-     "jerseyKey": "colts-royal-home",
-     "pants": "White",
-     "hexes": [
-      "#FFFFFF",
-      "#0055A4",
-      "#FFFFFF"
-     ],
-     "img": "/images/posts/nfl-tracker-jerseys/colts-royal-home.jpg",
-     "w": 1,
-     "l": 3,
-     "t": 0,
-     "games": [
-      {
-       "week": 1,
-       "date": "2026-09-13",
-       "opponent": "Baltimore Ravens",
-       "home": true,
-       "teamScore": 23,
-       "oppScore": 41,
-       "result": "L",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      },
-      {
-       "week": 6,
-       "date": "2026-10-18",
-       "opponent": "Tennessee Titans",
-       "home": true,
-       "teamScore": 20,
-       "oppScore": 26,
-       "result": "L",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      },
-      {
-       "week": 8,
-       "date": "2026-11-01",
-       "opponent": "Jacksonville Jaguars",
-       "home": false,
-       "teamScore": 7,
-       "oppScore": 42,
-       "result": "L",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      },
-      {
-       "week": 10,
-       "date": "2026-11-15",
-       "opponent": "Miami Dolphins",
-       "home": true,
-       "teamScore": 24,
-       "oppScore": 22,
-       "result": "W",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
      ]

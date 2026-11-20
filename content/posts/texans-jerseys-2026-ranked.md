@@ -2,7 +2,7 @@
 title: "Every Houston Texans Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-10-13"
+updatedDate: "2026-11-19"
 author: "colorway-sports-staff"
 excerpt: "Texans jerseys 2026, ranked and graded: Battle Red, the HOUSTON/US Rivalries set, Liberty White, Deep Steel Blue and the H-Town Blue alternate, plus when each of these uniforms appears."
 gradient: "linear-gradient(135deg, #03202F 0%, #12405c 55%, #A71930 130%)"
@@ -93,7 +93,7 @@ It pairs with white pants and the first white helmet in Texans history, a tribut
 
 We graded it a B, and it finished third of sixteen in our [Rivalries ranking](/stories/nfl-rivalries-uniforms-2026-ranked). One decision keeps it from an A: that once-ever white shell carries the gothic H-Town "H" instead of the bullhead, which on white would have been instantly iconic. That call also has the helmet sixth in our [Rivalries helmet ranking](/stories/nfl-rivalries-helmets-2026-ranked). It ranks second here, ahead of Liberty White at the same grade, because the palette and the tile work give Houston something nobody else has.
 
-When it is worn in 2026: once, in Week 11 against the Colts on Thursday, November 19, on Thursday Night Football at NRG Stadium. It stays in the rotation for three seasons.
+When it is worn in 2026: once, in Week 11 against the Colts on Thursday, November 19, on Thursday Night Football (worn, a 26-3 Texans win). It went on the field exactly as revealed: the white helmet with the chrome blue facemask, the white jersey, white pants and white socks. How it looked in the game is in [our white helmet debut story](/stories/texans-white-helmet-houston-us-rivalries-uniform-colts-what-they-wore-2026). It stays in the rotation for three seasons.
 
 ## 1. Battle Red
 
@@ -118,7 +118,7 @@ When it is worn in 2026: once, in Week 7 at home against the New York Giants on 
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #eef2f7; border: 1px solid #d6e0ec; border-radius: 14px;">
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>1. Battle Red</strong> · B+ · Week 7 vs. Giants, October 25</p>
-  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>2. HOUSTON/US Rivalries</strong> · B · Week 11 vs. Colts, November 19</p>
+  <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>2. HOUSTON/US Rivalries</strong> · B · Week 11 vs. Colts, November 19 (worn, W 26-3)</p>
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>3. Liberty White</strong> · B · Week 1, Week 4 and the road</p>
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>4. Deep Steel Blue Home</strong> · B- · Weeks 2, 12, 15 and 18</p>
   <p style="margin: 0; color: #000000; font-size: 0.98em;"><strong>5. H-Town Blue Alternate</strong> · C+ · no 2026 date announced</p>
@@ -156,4 +156,4 @@ Once, at home in Week 7 against the New York Giants on Sunday, October 25. It is
 
 **When do the Texans wear their Rivalries uniform?**
 
-Week 11 against the Indianapolis Colts on Thursday, November 19, on Thursday Night Football at NRG Stadium. It stays in the rotation for three seasons.
+Once in 2026: Week 11 against the Indianapolis Colts on Thursday, November 19, on Thursday Night Football, a 26-3 Texans win. It stays in the rotation for three seasons, so it returns in 2027 and 2028.

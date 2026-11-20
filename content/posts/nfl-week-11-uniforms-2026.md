@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-13"
 updatedDate: "2026-11-19"
-excerpt: "NFL Week 11 uniforms (Nov. 19-23): the Texans debut their white-helmet HOUSTON/US Rivalries uniform on Thursday night, the Bills wear Cold Front against Miami, the Commanders bring the black Hail Raiser to Monday night, the Chargers go powder on powder, plus Mexico City and every other game."
+excerpt: "NFL Week 11 uniforms (Nov. 19-23): the Texans debuted their white-helmet HOUSTON/US Rivalries uniform in a 26-3 Thursday night win over the Colts, the Bills wear Cold Front against Miami, the Commanders bring the black Hail Raiser to Monday night, the Chargers go powder on powder, plus Mexico City and every other game."
 gradient: "linear-gradient(135deg, #03202F 0%, #0C1526 55%, #5A1414 130%)"
 logoSrc: "/logos/leagues/nfl.png"
 kicker: "This Week"
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 11 of the 2026 NFL season runs from Thursday, November 19 to Monday, November 23, with 13 games and six teams on bye: the Atlanta Falcons, Cleveland Browns, Green Bay Packers, Los Angeles Rams, New England Patriots and Seattle Seahawks. Three teams have a confirmed or published special look, and two of them land in prime time: the **Texans debut the white-helmet HOUSTON/US Rivalries uniform** on Thursday night, and the **Commanders wear the all-black Hail Raiser** for the first time on Monday night. In between, the **Bills wear the all-white Cold Front** against Miami on Salute to Service Sunday, the **Chargers go powder blue on powder blue** against the Jets, and the 49ers and Vikings play Sunday night in Mexico City.
+Week 11 of the 2026 NFL season runs from Thursday, November 19 to Monday, November 23, with 13 games and six teams on bye: the Atlanta Falcons, Cleveland Browns, Green Bay Packers, Los Angeles Rams, New England Patriots and Seattle Seahawks. Three teams have a confirmed or published special look, and two of them land in prime time: the **Texans debuted the white-helmet HOUSTON/US Rivalries uniform** on Thursday night and beat the Colts 26-3, and the **Commanders wear the all-black Hail Raiser** for the first time on Monday night. In between, the **Bills wear the all-white Cold Front** against Miami on Salute to Service Sunday, the **Chargers go powder blue on powder blue** against the Jets, and the 49ers and Vikings play Sunday night in Mexico City.
 
 Below is every Week 11 look we know, special ones first and then the rest of the games in kickoff order. **Confirmed** means the team has announced the jersey or the full combination. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
 
@@ -24,19 +24,19 @@ Below is every Week 11 look we know, special ones first and then the rest of the
 <img src="/images/posts/texans-uniform-schedule-2026/rivalries-htown-group.jpg" alt="Houston Texans HOUSTON/US Rivalries uniform, players in the Liberty White jersey and white helmet with H-Town Blue and Battle Red tile stripes, which debuts against the Colts on Thursday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:460px;margin:0 auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">Image: Houston Texans</p>
 
-**Thursday, 8:15 p.m. ET, Prime Video. Texans confirmed, Colts scheduled.** Houston named this game for its Rivalries debut when it revealed the uniform on August 25. **HOUSTON/US** is a Liberty White base with H-Town Blue and Battle Red stripes built from the blue-and-white street-tile mosaics around the city, numbers inspired by the "Be Someone" bridge, and the **first white helmet in franchise history**, with a chrome blue facemask, a gothic H-Town "H" on the side and a tiled red-and-blue center stripe. It stays in the rotation for three seasons.
+**Thursday, 8:15 p.m. ET, Prime Video. Final: Texans 26, Colts 3.** Houston named this game for its Rivalries debut when it revealed the uniform on August 25, and wore it as announced, confirmed from the game photos: the white helmet with the chrome blue facemask, a white jersey, **white pants** and white socks. **HOUSTON/US** is a Liberty White base with H-Town Blue and Battle Red stripes built from the blue-and-white street-tile mosaics around the city, numbers inspired by the "Be Someone" bridge, and the **first white helmet in franchise history**, with a chrome blue facemask, a gothic H-Town "H" on the side and a tiled red-and-blue center stripe. It stays in the rotation for three seasons.
 
-Indianapolis flips its usual road look for this trip. The Colts' schedule has **royal blue** at Houston, the same call it made at Jacksonville in Week 8, when the Jaguars debuted their own Rivalries set and the Colts wore the white helmet, royal blue jersey and white pants.
+Indianapolis flipped its usual road look for this trip and wore what its schedule said: the **white helmet, royal blue jersey, white pants** and royal blue socks, the same look it wore at Jacksonville in Week 8, when the Jaguars debuted their own Rivalries set.
 
-**New field, too.** On Wednesday the Texans posted photos of a new field painted for this game: the gothic H-Town "H" with a red star at midfield, and white end zones with "H-TOWN" and "TEXANS" spelled out in blue street-tile letters, matching the uniform. Every detail is in our story on the [Texans' new Rivalries field](/stories/texans-new-field-rivalries-colts-thursday-night-football-2026).
+**New field, too.** On Wednesday the Texans posted photos of a new field painted for this game, and they played on it Thursday: the gothic H-Town "H" with a red star at midfield, and white end zones with "H-TOWN" and "TEXANS" spelled out in blue street-tile letters, matching the uniform. Every detail is in our story on the [Texans' new Rivalries field](/stories/texans-new-field-rivalries-colts-thursday-night-football-2026).
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2123070488331108747"></a></blockquote>
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The new field for the Rivalries game, via <a href="https://x.com/HoustonTexans" target="_blank" rel="noopener">@HoustonTexans</a></p>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/colts-royal-home.jpg" alt="Indianapolis Colts royal blue jersey, scheduled by the team for the road game at Houston on Thursday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Colts &middot; Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-rivalries.jpg" alt="Houston Texans HOUSTON/US Rivalries jersey, white with tile-pattern stripes, confirmed by the team for its debut against the Colts on Thursday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Texans &middot; Confirmed</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/colts-royal-home.jpg" alt="Indianapolis Colts royal blue jersey, worn on the road at Houston on Thursday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Colts &middot; Worn</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/texans-white-rivalries.jpg" alt="Houston Texans HOUSTON/US Rivalries jersey, white with tile-pattern stripes, worn in its debut against the Colts on Thursday Night Football in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Texans &middot; Worn</figcaption></figure></div>
 
-Royal blue against a white base with a chrome facemask is a clean, bright Thursday night read, and the white shell is the piece everyone will be looking at. Our matchup grade: **B+**. See the [Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026), the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026), and our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked).
+Royal blue against a white base with a chrome facemask was a clean, bright Thursday night, and the white shell was the piece everyone was looking at. Our matchup grade: **B+**. Every piece, the reveal next to the game and our take are in [what the Texans wore in the white helmet debut](/stories/texans-white-helmet-houston-us-rivalries-uniform-colts-what-they-wore-2026), and the pregame view is in [what the Colts and Texans wore on Thursday Night Football](/stories/colts-texans-thursday-night-football-uniforms-tonight-2026). See the [Texans 2026 uniform schedule](/stories/texans-uniform-schedule-2026), the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026), and our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked).
 
 ### Cincinnati Bengals At Washington Commanders: The Hail Raiser On Monday Night
 
@@ -105,7 +105,7 @@ Black against all white is a clean read, but it trades away Honolulu blue, the b
 
 ## The Prime-Time Games
 
-- **Thursday, 8:15 p.m. ET, Prime Video:** Colts at Texans, royal blue against the HOUSTON/US Rivalries debut.
+- **Thursday, 8:15 p.m. ET, Prime Video:** Colts at Texans, royal blue against the HOUSTON/US Rivalries debut. **Final: Texans 26, Colts 3.**
 - **Sunday, 8:20 p.m. ET, NBC:** Vikings vs. 49ers in Mexico City, white against scarlet.
 - **Monday, 8:15 p.m. ET, ESPN:** Bengals at Commanders, white against the Hail Raiser.
 
@@ -182,7 +182,7 @@ Midnight green over white against white over gold, with two dark helmets, is a t
 
 ### Thursday, November 19
 
-- **Indianapolis Colts at Houston Texans**, 8:15 p.m. ET, Prime Video. Colts: royal blue (scheduled). Texans: HOUSTON/US Rivalries debut, white helmet, white jersey (confirmed). Matchup grade: B+.
+- **Indianapolis Colts at Houston Texans**, 8:15 p.m. ET, Prime Video. Colts: white helmet, royal blue jersey, white pants (worn). Texans: HOUSTON/US Rivalries debut, white helmet with chrome blue facemask, white jersey, white pants (worn). Matchup grade: B+. Final: Texans 26, Colts 3.
 
 ### Sunday, November 22
 
@@ -216,11 +216,11 @@ Week 11 opens and closes with a first: the Texans' white helmet on Thursday nigh
 
 **What uniforms are NFL teams wearing in Week 11 of 2026?**
 
-Three teams have a confirmed or published special look: the Texans debut the HOUSTON/US Rivalries uniform against Indianapolis on Thursday, the Bills wear the all-white Cold Front against Miami, and the Commanders wear the black Hail Raiser against Cincinnati on Monday night. The Chargers wear powder blue over powder blue pants against the Jets, and the Lions are back in their black alternate against Tampa Bay. Most other teams are in their standard sets, home in color and visitors in white.
+Three teams have a confirmed or published special look: the Texans debuted the HOUSTON/US Rivalries uniform against Indianapolis on Thursday, a 26-3 win, the Bills wear the all-white Cold Front against Miami, and the Commanders wear the black Hail Raiser against Cincinnati on Monday night. The Chargers wear powder blue over powder blue pants against the Jets, and the Lions are back in their black alternate against Tampa Bay. Most other teams are in their standard sets, home in color and visitors in white.
 
-**What are the Texans wearing against the Colts on Thursday Night Football?**
+**What did the Texans wear against the Colts on Thursday Night Football?**
 
-The HOUSTON/US Rivalries uniform, in its first game: a Liberty White jersey with H-Town Blue and Battle Red tile stripes and the first white helmet in Texans history, with a chrome blue facemask and a gothic H-Town "H." Indianapolis's schedule has royal blue for the trip. Kickoff is Thursday, November 19 at 8:15 p.m. Eastern on Prime Video.
+The HOUSTON/US Rivalries uniform, in its first game: a Liberty White jersey with H-Town Blue and Battle Red tile stripes, white pants, and the first white helmet in Texans history, with a chrome blue facemask and a gothic H-Town "H." Indianapolis wore royal blue with the white helmet and white pants. The Texans won 26-3 on Thursday, November 19.
 
 **When do the Commanders wear the Hail Raiser uniform?**
 
@@ -272,4 +272,4 @@ The Atlanta Falcons, Cleveland Browns, Green Bay Packers, Los Angeles Rams, New 
 
 **Which 2026 Rivalries uniforms are still to come?**
 
-Houston debuts in Week 11 against Indianapolis, Minnesota in Week 15 against Detroit and Chicago in Week 16 against Green Bay. Our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked) grades all of them.
+Houston debuted in Week 11 against Indianapolis, a 26-3 win, Minnesota in Week 15 against Detroit and Chicago in Week 16 against Green Bay. Our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked) grades all of them.

@@ -2,7 +2,7 @@
 title: "Every Indianapolis Colts Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-10-13"
+updatedDate: "2026-11-19"
 excerpt: "Indianapolis Colts jerseys 2026, ranked: Indiana Nights, the royal blue home, the white and the new Anvil Strike, graded with every date each is worn."
 gradient: "linear-gradient(135deg, #002C5F 0%, #0a1a2e 55%, #A2AAAD 130%)"
 author: "colorway-sports-staff"
@@ -46,7 +46,7 @@ It grades an F, the grade we gave it at the reveal, and it ranked thirteenth of 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Colts/status/1965800264864236010"></a></blockquote>
 </div>
 
-The white jersey has royal blue numbers and royal shoulder stripes, worn under the white helmet with the blue horseshoe. It projects to every road game: at the Chiefs in Week 2, at the Steelers in Week 5, at the Vikings in Week 7, at the Jaguars in Week 8, at the Texans in Week 11, at the Eagles in Week 14, at the Titans in Week 15 and at the Browns in Week 17. It is also the projection for Week 4 against Washington in London, where the Colts are the designated home team but the Commanders are listed in burgundy.
+The white jersey has royal blue numbers and royal shoulder stripes, worn under the white helmet with the blue horseshoe. It projects to every road game except two: at the Chiefs in Week 2, at the Steelers in Week 5, at the Vikings in Week 7, at the Eagles in Week 14, at the Titans in Week 15 and at the Browns in Week 17. The exceptions were Week 8 at Jacksonville and Week 11 at Houston, where the Colts wore royal blue because the home team was in a light Rivalries uniform (the Jaguars' alabaster Bold City and the Texans' white HOUSTON/US). It is also the projection for Week 4 against Washington in London, where the Colts are the designated home team but the Commanders are listed in burgundy.
 
 It is also the jersey inside the White Out. For Week 9 at home against the Dallas Cowboys on Sunday, November 8, Indianapolis pairs it with white pants for a head-to-toe white look, and the royal horseshoe does all the accent work. That is the only confirmed date for this jersey so far.
 

@@ -3,7 +3,7 @@ title: "Texans Unveil New Field For Rivalries Game Vs. Colts: H-Town Tile End Zo
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-18"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-19"
 excerpt: "The Texans painted a new field for Thursday Night Football against the Colts on November 19, the debut of their HOUSTON/US Rivalries uniform: a gothic H-Town H with a red star at midfield, white end zones with H-TOWN and TEXANS spelled out in blue street tiles, and a tile-style 25 Seasons logo. Every detail."
 gradient: "linear-gradient(135deg, #0091DA 0%, #03202F 60%, #A71930 130%)"
 cardStyle: words
@@ -15,6 +15,8 @@ teams: ["houston-texans", "indianapolis-colts"]
 ---
 
 **The Texans have a new field to go with their new uniform.** On Wednesday, November 18, Houston posted 15 photos of its grounds crew painting the NRG Stadium turf with the caption "new field... who dis." The field matches the **HOUSTON/US** Rivalries uniform, which debuts the next night when the Texans host the **Indianapolis Colts** on **Thursday, November 19, at 8:15 p.m. Eastern on Prime Video**. The post does not name the game, but it is Houston's next home game, and the team's own X banner for this week is the Colts game in the Rivalries uniform.
+
+**Update, November 19:** the Texans played on the new field Thursday night and beat the Colts 26-3 in the HOUSTON/US uniform. In the game photos from ESPN and the Texans, the end-zone paint around the goal line showed up as bright H-Town Blue, bluer than these painting photos suggested. How the white helmet and the field looked in the game is in [what the Texans wore in the white helmet debut](/stories/texans-white-helmet-houston-us-rivalries-uniform-colts-what-they-wore-2026).
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HoustonTexans/status/2123070488331108747"></a></blockquote>
 
