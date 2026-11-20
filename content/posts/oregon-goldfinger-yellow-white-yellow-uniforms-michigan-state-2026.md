@@ -2,11 +2,18 @@
 title: "Oregon Uniforms Vs. Michigan State: Yellow Winged Helmet, White Jersey And Yellow Pants For Friday Night"
 category: "College"
 date: "2026-11-18"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-20"
 excerpt: "Oregon wears yellow, white and yellow at Michigan State on Friday, November 20: a yellow helmet with green wings, a white jersey with green numbers and yellow pants. It is the third straight year the Ducks have worn the combination, and the first time with a winged helmet. Every detail, the history, what Michigan State wears, kickoff time and our grade."
 gradient: "linear-gradient(135deg, #FEE123 0%, #ffffff 55%, #154733 130%)"
 author: "jake-daneshgar"
-cardStyle: words
+coverImage: "/images/posts/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026/cover-yellow-wing-helmet.jpg"
+coverImagePosition: "center 30%"
+coverImageFit: "cover"
+coverCredit:
+  author: "Oregon Football"
+  url: "https://x.com/oregonfootball/status/2123227258077036959"
+  license: "via the team"
+homepageHero: "2026-11-20"
 kicker: Uniform Reveal
 league: "college"
 teams: ["oregon-ducks", "michigan-state-spartans", "big-ten"]

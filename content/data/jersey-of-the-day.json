@@ -897,6 +897,49 @@
     }
    ],
    "shopQuery": "Ravens Darkness alternate jersey"
+  },
+  "2026-11-20": {
+   "team": "Oregon Ducks",
+   "teamShort": "Oregon",
+   "league": "College Football",
+   "season": "2026",
+   "edition": "Game 11 combination (road)",
+   "jerseyName": "Yellow Winged Helmet, White Jersey, Yellow Pants",
+   "colorwayGrade": "A-",
+   "image": "/images/jersey-of-the-day/oregon-yellow-white-yellow-2026-11-20.jpg",
+   "imageAlt": "Oregon No. 52 in the Game 11 uniform: yellow helmet with green wings, white jersey with green numbers trimmed in yellow, yellow pants, against a yellow backdrop",
+   "imagePosition": "center 35%",
+   "credit": {
+    "text": "Oregon Football",
+    "url": "https://x.com/oregonfootball/status/2123227258077036959",
+    "license": "via the team"
+   },
+   "tweet": {
+    "url": "https://x.com/oregonfootball/status/2123219708757286969",
+    "label": "The Friday fit, from Oregon"
+   },
+   "worn": {
+    "date": "2026-11-20",
+    "matchup": "at Michigan State, 8 p.m. ET on FOX",
+    "status": "Announced",
+    "note": "Oregon posted the combination on Wednesday as \"The Friday fit. Game 11 uniform combo.\" Michigan State is expected in green at home."
+   },
+   "why": "Yellow, white and yellow under the lights, and the first time the Ducks have paired it with a winged helmet. The green wings and green numbers do all the work.",
+   "whyPlaceholder": true,
+   "story": "Oregon wears a yellow helmet with green wings, a white jersey with green numbers trimmed in yellow and yellow pants at Michigan State on Friday night. It is the third straight year the Ducks have worn yellow, white and yellow, and the first time the combination comes with a winged helmet. Kickoff at Spartan Stadium is 8 p.m. Eastern on FOX. We graded it an A-.",
+   "scheduleSlug": "oregon-uniform-schedule-2026",
+   "scheduleLabel": "Oregon 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026",
+     "label": "Every detail of Oregon's uniform for Michigan State"
+    },
+    {
+     "slug": "special-uniforms-this-weekend-nov-20-23-2026",
+     "label": "Every special uniform this weekend"
+    }
+   ],
+   "shopQuery": "Oregon Ducks football jersey"
   }
  }
 }
