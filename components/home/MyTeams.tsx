@@ -91,7 +91,16 @@ function Matchup({ t, href }: { t: MyTeamCard; href: string }) {
   );
 }
 
-export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPages?: boolean }) {
+export function MyTeamsRow({
+  teams,
+  teamPages,
+  latest,
+}: {
+  teams: MyTeamCard[];
+  teamPages?: boolean;
+  /** Newest story per club id from the last month (lib/browse newestStoryByTeam), 11/19. */
+  latest?: Record<string, { slug: string; title: string }>;
+}) {
   const [ids, toggle] = useFollowed();
   const [editing, setEditing] = useState(false);
   const [open, setOpen] = useState<string | null>(null);
@@ -170,6 +179,26 @@ export function MyTeamsRow({ teams, teamPages }: { teams: MyTeamCard[]; teamPage
         })}
       </div>
       {opened && <Matchup t={opened} href={hrefOf(opened)} />}
+      {/* 11/19: the newest story on each followed club, then its team page. */}
+      {latest && mine.some((t) => latest[t.id]) && (
+        <ul className="mt-2 m-0 p-0 list-none grid grid-cols-1 lg:grid-cols-2 lg:gap-x-8">
+          {mine
+            .filter((t) => latest[t.id])
+            .slice(0, 6)
+            .map((t) => (
+              <li key={t.id} className="flex items-center gap-3 border-b border-border py-2.5">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={t.logo} alt="" width={24} height={24} className="w-6 h-6 object-contain shrink-0" />
+                <Link prefetch={false} href={`/stories/${latest[t.id].slug}`} className="min-w-0 flex-1 text-[15px] font-bold leading-snug text-black hover:text-orange line-clamp-2">
+                  {latest[t.id].title}
+                </Link>
+                <Link prefetch={false} href={teamPage(t.id)} className="shrink-0 inline-flex min-h-[44px] items-center font-display text-[13px] font-extrabold text-orange">
+                  {`All ${t.nickname} →`}
+                </Link>
+              </li>
+            ))}
+        </ul>
+      )}
     </section>
   );
 }

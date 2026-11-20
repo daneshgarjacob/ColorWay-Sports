@@ -56,12 +56,24 @@ export function storiesMetadata({
   league,
   team,
   query,
+  group,
 }: {
   league?: string;
   team?: string;
   query?: string;
+  /** Division view (11/19). Never indexed: the static /nfl/afc-west page is the one to rank. */
+  group?: string;
 }): Metadata {
   const canonicalDefault = { canonical: `${SITE_URL}/stories` };
+
+  if (league && group && !team && !query) {
+    return {
+      title: DEFAULT_TITLE,
+      description: DEFAULT_DESCRIPTION,
+      alternates: canonicalDefault,
+      robots: { index: false, follow: true },
+    };
+  }
 
   // Search-result views are thin and infinite. Never index them.
   if (query) {

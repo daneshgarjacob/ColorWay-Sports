@@ -8,6 +8,7 @@ import { indexableLeagues, indexableTeams } from "@/lib/storyFilters";
 import { AUTHORS } from "@/lib/authors";
 import { getAllQuizzes } from "@/lib/quiz";
 import { allRecordTeamSlugs } from "@/lib/uniformRecords";
+import { browsePaths } from "@/lib/browse";
 
 // Built once per deploy and served from the CDN. Without this the sitemap was
 // rendered on demand for every crawler hit, re-parsing all posts each time.
@@ -267,6 +268,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...newsUrls,
     ...authorUrls,
     ...filterUrls,
+    // League, division and conference pages (11/19): /nfl, /nfl/afc-west, /college-football/sec.
+    ...browsePaths().map((p) => ({
+      url: `https://www.colorwaysports.com${p}`,
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.7,
+    })),
     ...teamUrls,
     ...postUrls,
   ];

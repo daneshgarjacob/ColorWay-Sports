@@ -5,18 +5,35 @@ import Link from "next/link";
 import { leagueColor } from "@/lib/leagueColors";
 import { TEAM_LOGOS, COMPETITION_LOGOS, teamSlug } from "@/lib/teamLogos";
 import teamPageIds from "@/content/data/team-page-ids.json";
+import { CFB_CONFERENCE_SCHOOLS, TEAM_GROUPS, groupPath, groupsOf, hubByNavLabel } from "@/lib/teamGroups";
 
 // A club in the league menus opens its team page (Jake 11/4) when it has one;
 // everything else (soccer clubs, conferences) keeps its /stories?team= list.
 const TEAM_PAGES = new Set(teamPageIds as string[]);
 const LEAGUE_CODE: Record<string, string> = { NFL: "nfl", NBA: "nba", NHL: "nhl", MLB: "mlb", CFB: "cfb" };
+// Card ids built from logo files differ from the name slug in one case.
+const NAME_ID_ALIAS: Record<string, string> = { "mlb:athletics": "mlb:oakland-athletics" };
 function teamHref(leagueLabel: string, name: string): string {
-  const id = `${LEAGUE_CODE[leagueLabel]}:${teamSlug(name)}`;
+  // A college conference row opens its conference page (11/19).
+  const conf = leagueLabel === "CFB" ? TEAM_GROUPS.find((g) => g.league === "cfb" && g.name === name) : undefined;
+  if (conf) return groupPath(conf);
+  const raw = `${LEAGUE_CODE[leagueLabel]}:${teamSlug(name)}`;
+  const id = NAME_ID_ALIAS[raw] ?? raw;
   return TEAM_PAGES.has(id) ? `/teams/${id.replace(":", "/")}` : `/stories?team=${encodeURIComponent(teamSlug(name))}`;
 }
 
 // Nav rows look up team logos first, then soccer competitions / racing series.
-const teamLogos: Record<string, string> = { ...TEAM_LOGOS, ...COMPETITION_LOGOS };
+const teamLogos: Record<string, string> = {
+  ...TEAM_LOGOS,
+  ...COMPETITION_LOGOS,
+  // Schools added to the conference lists 11/19 (logos keyed by slug only in lib/teamLogos).
+  "Louisiana Ragin' Cajuns": "/logos/teams/ncaa-louisiana-ragin-cajuns.png",
+  "Southern Miss Golden Eagles": "/logos/teams/ncaa-southern-miss-golden-eagles.png",
+  "Troy Trojans": "/logos/teams/ncaa-troy-trojans.png",
+  "UAB Blazers": "/logos/teams/ncaa-uab-blazers.png",
+  "Western Kentucky Hilltoppers": "/logos/teams/ncaa-western-kentucky-hilltoppers.png",
+  "Wyoming Cowboys": "/logos/teams/ncaa-wyoming-cowboys.png",
+};
 
 // Team logos come from the shared lib/teamLogos map (single source of truth).
 
@@ -58,135 +75,16 @@ const leagues: NavLeague[] = [
     leagueLogo: "/logos/leagues/college-football.svg",
     // Conferences, each behind a caret with its schools, the same pattern as
     // Premier League under Soccer. Only schools with a uniform schedule post are
-    // listed; a school's link is its /stories?team= page, like every other club.
+    // listed; a school opens its team page and a conference row its conference
+    // page (/college-football/<conf>, 11/19).
     // Conference membership checked against ESPN for the 2026 season.
     teams: [
       "SEC", "Big Ten", "ACC", "Big 12", "Pac-12", "American Conference",
       "Mountain West", "Sun Belt", "MAC", "Conference USA", "FBS Independents",
     ],
-    subTeams: {
-      "SEC": [
-        "Alabama Crimson Tide",
-        "Arkansas Razorbacks",
-        "Auburn Tigers",
-        "Florida Gators",
-        "Georgia Bulldogs",
-        "Kentucky Wildcats",
-        "LSU Tigers",
-        "Mississippi State Bulldogs",
-        "Missouri Tigers",
-        "Oklahoma Sooners",
-        "Ole Miss Rebels",
-        "South Carolina Gamecocks",
-        "Tennessee Volunteers",
-        "Texas Longhorns",
-        "Texas A&M Aggies",
-        "Vanderbilt Commodores",
-      ],
-      "Big Ten": [
-        "Illinois Fighting Illini",
-        "Indiana Hoosiers",
-        "Iowa Hawkeyes",
-        "Maryland Terrapins",
-        "Michigan Wolverines",
-        "Michigan State Spartans",
-        "Minnesota Golden Gophers",
-        "Nebraska Cornhuskers",
-        "Northwestern Wildcats",
-        "Ohio State Buckeyes",
-        "Oregon Ducks",
-        "Penn State Nittany Lions",
-        "Purdue Boilermakers",
-        "Rutgers Scarlet Knights",
-        "UCLA Bruins",
-        "USC Trojans",
-        "Washington Huskies",
-        "Wisconsin Badgers",
-      ],
-      "ACC": [
-        "Boston College Eagles",
-        "Cal Golden Bears",
-        "Clemson Tigers",
-        "Duke Blue Devils",
-        "Florida State Seminoles",
-        "Georgia Tech Yellow Jackets",
-        "Louisville Cardinals",
-        "Miami Hurricanes",
-        "NC State Wolfpack",
-        "North Carolina Tar Heels",
-        "Pitt Panthers",
-        "SMU Mustangs",
-        "Stanford Cardinal",
-        "Syracuse Orange",
-        "Virginia Cavaliers",
-        "Virginia Tech Hokies",
-        "Wake Forest Demon Deacons",
-      ],
-      "Big 12": [
-        "Arizona Wildcats",
-        "Arizona State Sun Devils",
-        "Baylor Bears",
-        "BYU Cougars",
-        "Cincinnati Bearcats",
-        "Colorado Buffaloes",
-        "Houston Cougars",
-        "Iowa State Cyclones",
-        "Kansas Jayhawks",
-        "Kansas State Wildcats",
-        "Oklahoma State Cowboys",
-        "TCU Horned Frogs",
-        "Texas Tech Red Raiders",
-        "UCF Knights",
-        "Utah Utes",
-        "West Virginia Mountaineers",
-      ],
-      "Pac-12": [
-        "Boise State Broncos",
-        "Colorado State Rams",
-        "Fresno State Bulldogs",
-        "Oregon State Beavers",
-        "San Diego State Aztecs",
-        "Texas State Bobcats",
-        "Utah State Aggies",
-        "Washington State Cougars",
-      ],
-      "American Conference": [
-        "Army Black Knights",
-        "East Carolina Pirates",
-        "Memphis Tigers",
-        "Navy Midshipmen",
-        "North Texas Mean Green",
-        "Rice Owls",
-        "South Florida Bulls",
-        "Temple Owls",
-        "Tulane Green Wave",
-        "Tulsa Golden Hurricane",
-        "UTSA Roadrunners",
-      ],
-      "Mountain West": [
-        "Air Force Falcons",
-        "Hawaii Rainbow Warriors",
-        "UNLV Rebels",
-      ],
-      "Sun Belt": [
-        "Appalachian State Mountaineers",
-        "Coastal Carolina Chanticleers",
-        "Georgia Southern Eagles",
-        "James Madison Dukes",
-        "Marshall Thundering Herd",
-      ],
-      "MAC": [
-        "Buffalo Bulls",
-        "Toledo Rockets",
-      ],
-      "Conference USA": [
-        "Liberty Flames",
-      ],
-      "FBS Independents": [
-        "Notre Dame Fighting Irish",
-        "UConn Huskies",
-      ],
-    },
+    // Schools per conference live in lib/teamGroups.ts (11/19), shared with
+    // the conference pages so the two lists can never drift apart.
+    subTeams: CFB_CONFERENCE_SCHOOLS,
     extraLinks: [
       { label: "Rivalry Week Uniforms 2026", href: "/stories/college-football-rivalry-week-uniforms-2026" },
       { label: "College Football Week 12 Uniforms", href: "/stories/college-football-week-12-uniforms-2026" },
@@ -747,6 +645,32 @@ export default function Header() {
                             </div>
                           ))}
 
+                          {/* Divisions / conferences (11/19): each opens its page; "All Teams" opens the league page. */}
+                          {(() => {
+                            const hub = hubByNavLabel(league.label);
+                            if (!hub) return null;
+                            const groups = league.label === "CFB" ? [] : groupsOf(hub.key);
+                            return (
+                              <div className="border-b border-border px-4 pt-2.5 pb-1.5">
+                                <div className="flex items-center justify-between gap-2">
+                                  <span className="text-[11px] font-black tracking-[0.14em] uppercase text-steel">{hub.groupWord === "Division" ? "Divisions" : "Conferences"}</span>
+                                  <Link prefetch={false} href={hub.path} className="text-[12px] font-bold text-orange hover:underline whitespace-nowrap" onClick={() => setOpenDropdown(null)}>
+                                    {`All ${hub.name} Teams →`}
+                                  </Link>
+                                </div>
+                                {groups.length > 0 && (
+                                  <div className="grid grid-cols-2 gap-x-3 mt-0.5">
+                                    {groups.map((g) => (
+                                      <Link prefetch={false} key={g.slug} href={groupPath(g)} className="py-1.5 text-[13px] font-semibold text-[#0b0b0f] hover:text-[#0025CC] transition-colors" onClick={() => setOpenDropdown(null)}>
+                                        {g.name}
+                                      </Link>
+                                    ))}
+                                  </div>
+                                )}
+                              </div>
+                            );
+                          })()}
+
                           {/* Teams (or, under Soccer, competitions with their clubs behind a caret) */}
                           {league.teams.map((team) => {
                             const clubs = league.subTeams?.[team];
@@ -945,6 +869,28 @@ export default function Header() {
                         ))}
                         {league.storiesLink.label}
                       </Link>
+                      {/* Divisions / conferences (11/19), same as the desktop menu. */}
+                      {(() => {
+                        const hub = hubByNavLabel(league.label);
+                        if (!hub) return null;
+                        const groups = league.label === "CFB" ? [] : groupsOf(hub.key);
+                        return (
+                          <div className="flex flex-col items-center py-1">
+                            <Link prefetch={false} href={hub.path} className="text-sm font-bold text-orange py-1.5" onClick={() => { setMobileOpen(false); setMobileLeague(null); }}>
+                              {`All ${hub.name} Teams & ${hub.groupWord === "Division" ? "Divisions" : "Conferences"}`}
+                            </Link>
+                            {groups.length > 0 && (
+                              <div className="flex flex-wrap justify-center gap-1.5 max-w-[300px] py-1">
+                                {groups.map((g) => (
+                                  <Link prefetch={false} key={g.slug} href={groupPath(g)} className="inline-flex items-center min-h-[44px] rounded-full border border-border bg-white px-3.5 text-[14px] font-semibold text-black" onClick={() => { setMobileOpen(false); setMobileLeague(null); }}>
+                                    {g.name}
+                                  </Link>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        );
+                      })()}
                       {league.teams.map((team) => {
                         const clubs = league.subTeams?.[team];
                         const subOpen = mobileSub === team;

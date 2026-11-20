@@ -3,6 +3,9 @@ import Footer from "@/components/Footer";
 import MvSlot from "@/components/MvSlot";
 import type { Metadata } from "next";
 import { MyTeamsRow, TeamPicker } from "@/components/home/MyTeams";
+import { newestStoryByTeam } from "@/lib/browse";
+import { LEAGUE_HUBS } from "@/lib/teamGroups";
+import Link from "next/link";
 import { getMyTeamCards } from "@/lib/myTeams";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
 
@@ -28,8 +31,16 @@ export default async function MyTeamsPage() {
         <div className="max-w-[1200px] mx-auto px-5 pt-6">
           <h1 className="font-display font-black text-[28px] sm:text-[38px] leading-tight">My Teams</h1>
           <p className="text-[15px] mt-1">Tap ☆ on any team below to follow it. Your teams stay on this device.</p>
+          {/* 11/19: every league, division and conference has its own page. */}
+          <nav aria-label="Browse by league" className="flex gap-2 mt-3 -mx-5 px-5 overflow-x-auto chip-scroll pb-1">
+            {LEAGUE_HUBS.map((h) => (
+              <Link prefetch={false} key={h.key} href={h.path} className="shrink-0 inline-flex min-h-[44px] items-center rounded-full border border-border bg-white px-4 font-display text-[14px] font-extrabold text-black hover:border-black/30">
+                {h.name}
+              </Link>
+            ))}
+          </nav>
         </div>
-        <MyTeamsRow teams={cards} teamPages />
+        <MyTeamsRow teams={cards} teamPages latest={newestStoryByTeam()} />
         {/* Mediavine in-feed spot (11/6) between the followed teams and the picker. */}
         <div className="max-w-[1200px] mx-auto px-5 pt-6"><MvSlot /></div>
         <TeamPicker teams={cards} />

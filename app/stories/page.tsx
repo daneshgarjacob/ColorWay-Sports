@@ -30,6 +30,7 @@ export async function generateMetadata({
     league: first(sp.league),
     team: first(sp.team),
     query: first(sp.q),
+    group: first(sp.group),
   });
   // Page 2+ of a list (StoriesFilter paging): crawlable, so older stories
   // keep an internal link, but not a page to rank on its own.
@@ -102,7 +103,7 @@ export default async function StoriesPage({
       <Header />
       <StoriesFilter
           posts={allCards}
-          view={{ league: first(sp.league), team: first(sp.team), query: first(sp.q), page: pageNumber(sp.page) }}
+          view={{ league: first(sp.league), group: first(sp.group), team: first(sp.team), query: first(sp.q), page: pageNumber(sp.page) }}
           // A team named in a search ("what are the bears wearing") pins that
           // team's uniform schedule post to the top of the results.
           prioritySlugs={quickLinkTeams.flatMap((t) =>

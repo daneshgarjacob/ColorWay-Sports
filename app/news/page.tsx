@@ -8,6 +8,7 @@ import StoryCard from "@/components/StoryCard";
 import WireItem from "@/components/WireItem";
 import InlineNewsletter from "@/components/InlineNewsletter";
 import TwitterEmbed from "@/components/TwitterEmbed";
+import BrowsePicker from "@/components/browse/BrowsePicker";
 
 export const metadata: Metadata = {
   title: "The Wire: Uniform News as It Happens",
@@ -54,6 +55,8 @@ export default async function NewsFeed() {
               Stories
             </h1>
           </header>
+          {/* League -> Division/Conference -> Team (11/19): links to the static browse pages. */}
+          <BrowsePicker />
           <section className="pt-6 pb-4">
             <div className="flex items-center justify-between mb-4">
               <h2 className="font-display text-[12px] font-extrabold tracking-[0.18em] uppercase text-steel m-0">Newest stories</h2>

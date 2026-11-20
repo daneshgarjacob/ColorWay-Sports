@@ -3,6 +3,8 @@ import StoryCard from "@/components/StoryCard";
 import { slotAfterCard } from "@/components/MvSlot";
 import { searchPosts } from "@/lib/search";
 import { TEAM_LOGO_BY_SLUG, LEAGUE_LOGOS, LEAGUE_NAMES, displayNameForSlug } from "@/lib/teamLogos";
+import { findGroup, hubByStoriesLeague, storyTeamSlug } from "@/lib/teamGroups";
+import StoriesBrowseBar from "@/components/browse/StoriesBrowseBar";
 
 // The /stories grid. Server-rendered (11/11 performance pass): it used to be a
 // client component that received all ~800 posts and rendered every card,
@@ -40,6 +42,8 @@ export interface StoryListItem {
 
 export interface StoriesView {
   league?: string;
+  /** A division inside ?league= (11/19): /stories?league=nfl&group=afc-west. */
+  group?: string;
   team?: string;
   query?: string;
   page?: number;
@@ -68,6 +72,19 @@ export function filterStories<T extends StoryListItem>(posts: T[], view: Stories
     heading = `${LEAGUE_NAMES[league] || league.toUpperCase()} Stories`;
     description = `All ${LEAGUE_NAMES[league] || league.toUpperCase()} coverage from ColorWay Sports.`;
     headingLogo = LEAGUE_LOGOS[league];
+    // A division of that league: posts about its clubs (roundups tagged with
+    // most of the league stay on the league view).
+    const hub = hubByStoriesLeague(league);
+    const grp = hub && view.group ? findGroup(hub.key, view.group) : undefined;
+    if (grp) {
+      const tags = new Set(grp.teams.map(storyTeamSlug));
+      filtered = filtered.filter((p) => {
+        const t = p.teams ?? [];
+        return (grp.storyTag ? t.includes(grp.storyTag) : false) || (t.length <= 12 && t.some((x) => tags.has(x)));
+      });
+      heading = `${grp.name} Stories`;
+      description = `All ${grp.name} coverage from ColorWay Sports.`;
+    }
   }
 
   if (team) {
@@ -85,6 +102,7 @@ function pageHref(view: StoriesView, page: number) {
   const sp = new URLSearchParams();
   if (view.query) sp.set("q", view.query);
   if (view.league) sp.set("league", view.league);
+  if (view.league && view.group) sp.set("group", view.group);
   if (view.team) sp.set("team", view.team);
   if (page > 1) sp.set("page", String(page));
   const qs = sp.toString();
@@ -132,6 +150,9 @@ export default function StoriesFilter({
         </a>
       )}
       {!(query || league || team) && <div className="mb-8" />}
+
+      {/* League -> Division/Conference -> Team (11/19). Hidden on search results. */}
+      {!query && <StoriesBrowseBar league={league} group={view.group} team={team} />}
 
       {/* Uniform schedule + calendar first. A team search is a tracking query,
           not a browsing one — the grid is the fallback, not the answer. */}

@@ -3,6 +3,7 @@ import Footer from "@/components/Footer";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getMyTeamCards, teamPagePath } from "@/lib/myTeams";
+import { hubByKey } from "@/lib/teamGroups";
 
 // Every team page in one place, by league (Jake 11/4, ESPN's Teams tab).
 
@@ -34,7 +35,15 @@ export default function TeamsPage() {
         </div>
         {LEAGUES.map((l) => (
           <section key={l.key} id={l.key.toLowerCase()} className="mb-8 scroll-mt-28">
-            <div className={`${LABEL} border-b-2 border-black pb-2 mb-3`}>{l.name}</div>
+            <div className={`${LABEL} border-b-2 border-black pb-2 mb-3 flex items-baseline justify-between gap-3`}>
+              <span>{l.name}</span>
+              {/* 11/19: the league page, with its divisions or conferences. */}
+              {hubByKey(l.key.toLowerCase()) && (
+                <Link prefetch={false} href={hubByKey(l.key.toLowerCase())!.path} className="text-orange normal-case tracking-normal text-[13px] font-extrabold">
+                  {l.key === "CFB" ? "By Conference →" : "By Division →"}
+                </Link>
+              )}
+            </div>
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
               {cards.filter((c) => c.league === l.key).sort((a, b) => a.name.localeCompare(b.name)).map((c) => (
                 <Link prefetch={false} key={c.id} href={teamPagePath(c.id)} className="flex items-center gap-2 rounded-xl border border-border px-3 py-2 hover:bg-black/[0.03]">

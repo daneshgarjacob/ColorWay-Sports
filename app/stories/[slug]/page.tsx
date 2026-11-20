@@ -29,6 +29,8 @@ import { buildMlbTeamIndex } from "@/lib/mlbTrackerTeamIndex";
 import TeamWoreLastNight from "@/components/TeamWoreLastNight";
 import { getTeamLatestFromTracker, teamWearQuestions } from "@/lib/mlbTeamLatest";
 import TeamWearBox from "@/components/TeamWearBox";
+import Breadcrumbs from "@/components/browse/Breadcrumbs";
+import { groupPath, hubByKey, locateTag } from "@/lib/teamGroups";
 import WinterCalendarGrid from "@/components/WinterCalendarGrid";
 import { buildWinterIndex } from "@/lib/winterTrackerIndex";
 import NflWeekBoard from "@/components/NflWeekBoard";
@@ -467,6 +469,19 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
     if (!o || o.href === `/stories/${slug}`) return null;
     return { href: o.href, label: college ? `See What ${o.name} Is Wearing` : `See What The ${o.name} Are Wearing` };
   };
+  // League › Division › Team on team schedule posts (11/19). It takes the
+  // place of the "All Stories" link and the league label in the same one-line
+  // row, so nothing below it moves.
+  const crumbAt = scheduleTeam && storyTeams[0] ? locateTag(storyTeams[0]) : undefined;
+  const crumbHub = crumbAt?.team ? hubByKey(crumbAt.league) : undefined;
+  const crumbs =
+    crumbAt?.team && crumbHub
+      ? [
+          { label: crumbHub.name, short: crumbHub.navLabel, href: crumbHub.path },
+          ...(crumbAt.group ? [{ label: crumbAt.group.name, href: groupPath(crumbAt.group) }] : []),
+          { label: scheduleTeam!, href: `/teams/${crumbAt.league}/${crumbAt.team}` },
+        ]
+      : null;
   const boxSignup = (box: typeof signupBox) => (alertSignup && signupBox === box ? alertSignup(true) : null);
 
   return (
@@ -485,15 +500,21 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
         <div className={ARTICLE_ROW}>
         <div className={ARTICLE_COL}>
           <div className="flex items-center justify-between mb-4">
-            <Link prefetch={false}
-              href="/stories"
-              className="text-sm text-black/60 hover:text-black transition-colors"
-            >
-              &larr; All Stories
-            </Link>
-            <span className="text-xs text-black/70 font-semibold uppercase tracking-widest">
-              {post.category}
-            </span>
+            {crumbs ? (
+              <Breadcrumbs crumbs={crumbs} className="text-sm leading-5" />
+            ) : (
+              <>
+                <Link prefetch={false}
+                  href="/stories"
+                  className="text-sm text-black/60 hover:text-black transition-colors"
+                >
+                  &larr; All Stories
+                </Link>
+                <span className="text-xs text-black/70 font-semibold uppercase tracking-widest">
+                  {post.category}
+                </span>
+              </>
+            )}
           </div>
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-serif font-extrabold text-black leading-[1.1] tracking-tight">
             {post.title}
