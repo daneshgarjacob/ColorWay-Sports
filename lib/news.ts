@@ -9,6 +9,7 @@ import rehypeRaw from "rehype-raw";
 import rehypeStringify from "rehype-stringify";
 import { getAllPosts, type PostMeta } from "@/lib/posts";
 import { TEAM_LOGOS, DISPLAY_NAME_BY_SLUG } from "@/lib/teamLogos";
+import { clubLogoFor, LEAGUE_MARKS } from "@/lib/clubLogos";
 import { leagueColor } from "@/lib/leagueColors";
 
 // The Wire: short, fast uniform news, separate from /stories on purpose.
@@ -185,8 +186,10 @@ export function stamp(at: string): { time: string; zone: string } {
 // already ships.
 //   1. the item's own `image` (a cover-shaped graphic, or a jersey cutout)
 //   2. the cover of the story it links to
-//   3. that story's team logo on a light tile (words-style posts have no cover)
-//   4. a branded ColorWay tile in the league color
+//   3. a club logo from lib/clubLogos.ts, else that story's team logo, on a
+//      light tile (words-style posts have no cover)
+//   4. the league's mark (MiLB, G League, WHL, NLL, PWHL) on the same tile
+//   5. a branded ColorWay tile in the league color
 // ---------------------------------------------------------------------------
 
 export interface NewsThumb {
@@ -223,10 +226,18 @@ export function newsThumb(item: NewsMeta, noPhoto = false): NewsThumb {
   if (post?.coverImage && !isCutout && !noPhoto) {
     return { kind: "cover", src: post.coverImage, position: post.coverImagePosition, accent };
   }
+  // Minor league, G League, junior and lacrosse clubs (lib/clubLogos.ts) are
+  // named in the source or headline. Checked before the linked story's teams so
+  // the Maine Celtics get their own logo, not Boston's.
+  const club = clubLogoFor(item.source, item.title);
+  if (club) return { kind: "logo", src: club, accent };
   // A roundup tagged with dozens of teams has no single logo worth showing.
   const team = post?.teams && post.teams.length <= 2 ? DISPLAY_NAME_BY_SLUG[post.teams[0]] : undefined;
   const logo = post?.logoSrc2 || (team ? TEAM_LOGOS[team] : undefined);
   if (logo) return { kind: "logo", src: logo, accent };
+  // No club logo on file yet: the league's mark beats a bare brand tile.
+  const leagueMark = item.league ? LEAGUE_MARKS[item.league] : undefined;
+  if (leagueMark) return { kind: "logo", src: leagueMark, accent };
   return { kind: "brand", accent };
 }
 
