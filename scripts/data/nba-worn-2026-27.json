@@ -3133,6 +3133,62 @@
       },
       "confirmed": true,
       "source": "TSN highlight frames via ESPN (Wizards white Association, Raptors red Icon)"
+    },
+    "2026-11-19 GSW@MEM": {
+      "score": {
+        "away": 98,
+        "home": 126
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "NBC Sports Bay Area highlight frames via ESPN (Warriors royal blue Icon, Grizzlies white Association)"
+    },
+    "2026-11-19 LAC@SAS": {
+      "score": {
+        "away": 112,
+        "home": 124
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game photo and DAZN highlight frames (Spurs black Icon, Clippers white Association)"
+    },
+    "2026-11-19 NYK@MIN": {
+      "score": {
+        "away": 102,
+        "home": 99
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "MSG highlight frames via ESPN (Knicks blue Icon, Timberwolves white Association)"
+    },
+    "2026-11-19 POR@MIL": {
+      "score": {
+        "away": 124,
+        "home": 114
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game photo and highlight frames (Trail Blazers black Icon, Bucks white Association)"
     }
   }
 }

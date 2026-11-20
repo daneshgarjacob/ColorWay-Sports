@@ -282,7 +282,7 @@ Thunder blue with THUNDER in white and orange trim at the collar and arms. It is
 
 Royal blue and yellow with the Bay Bridge built into the chest, the GOLDEN STATE and WARRIORS lettering wrapped around the number. Blue and yellow is the best color pair in the West. It stops at 11 because the bridge makes the front read like a logo on a T-shirt instead of a uniform.
 
-**This season:** 18 games on the schedule. Next up: November 19. Every date is in the [Warriors uniform schedule](/stories/warriors-uniform-schedule-2026-27).
+**This season:** 18 games on the schedule. Last worn November 19 at Memphis. Next up: November 22. Every date is in the [Warriors uniform schedule](/stories/warriors-uniform-schedule-2026-27).
 
 ## 10. Philadelphia 76ers: Blue PHILA
 
@@ -347,7 +347,7 @@ Royal blue, red DETROIT and a red stripe down the side, the Bad Boys look. No gi
 
 Royal blue with NEW YORK arched in orange. Orange and blue are the best colors in the East, and this is the one Knicks jersey that puts them front and center. So why do the defending champions wear white 40 times and this only 12? Nobody can explain it.
 
-**This season:** 12 games on the schedule, against 40 in white. Next up: November 19. Every date is in the [Knicks uniform schedule](/stories/knicks-uniform-schedule-2026-27).
+**This season:** 12 games on the schedule, against 40 in white. Last worn November 19 in a 102-99 win at Minnesota. Next up: December 14. Every date is in the [Knicks uniform schedule](/stories/knicks-uniform-schedule-2026-27).
 
 ## 5. Boston Celtics: Green BOSTON
 

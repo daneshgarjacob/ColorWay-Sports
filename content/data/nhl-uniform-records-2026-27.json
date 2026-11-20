@@ -1,13 +1,13 @@
 {
  "league": "nhl",
  "season": "2026-27",
- "through": "2026-11-18",
+ "through": "2026-11-19",
  "built": "2026-11-20",
  "note": "Built by scripts/build-uniform-records.mjs from scripts/data/nhl-game-log-2026-27.json (confirmed rows, regular season only) and ESPN finals cached in content/data/nhl-scores-2026-27.json. Records are W-L-OTL. Do not hand-edit.",
  "totals": {
   "teams": 32,
-  "gamesPlayed": 346,
-  "teamGamesCounted": 692,
+  "gamesPlayed": 358,
+  "teamGamesCounted": 716,
   "teamGamesUnlogged": 0,
   "preseasonExcluded": []
  },
@@ -17,10 +17,10 @@
    "name": "Anaheim Ducks",
    "nickname": "Ducks",
    "tri": "ANA",
-   "gamesPlayed": 22,
-   "gamesCounted": 22,
+   "gamesPlayed": 23,
+   "gamesCounted": 23,
    "w": 11,
-   "l": 10,
+   "l": 11,
    "t": 0,
    "otl": 1,
    "missing": [],
@@ -40,7 +40,7 @@
      ],
      "img": "/images/posts/nhl-daily-tracker/ducks-road.jpg",
      "w": 7,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "otl": 0,
      "games": [
@@ -140,6 +140,15 @@
        "home": false,
        "teamScore": 6,
        "oppScore": 8,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Colorado Avalanche",
+       "home": false,
+       "teamScore": 0,
+       "oppScore": 4,
        "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
@@ -575,9 +584,9 @@
    "name": "Buffalo Sabres",
    "nickname": "Sabres",
    "tri": "BUF",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
-   "w": 8,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
+   "w": 9,
    "l": 9,
    "t": 0,
    "otl": 4,
@@ -597,7 +606,7 @@
       "#FFFFFF"
      ],
      "img": "/images/posts/nhl-daily-tracker/sabres-road.jpg",
-     "w": 4,
+     "w": 5,
      "l": 3,
      "t": 0,
      "otl": 4,
@@ -704,6 +713,15 @@
        "teamScore": 3,
        "oppScore": 4,
        "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Washington Capitals",
+       "home": false,
+       "teamScore": 6,
+       "oppScore": 3,
+       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -869,10 +887,10 @@
    "name": "Calgary Flames",
    "nickname": "Flames",
    "tri": "CGY",
-   "gamesPlayed": 22,
-   "gamesCounted": 22,
+   "gamesPlayed": 23,
+   "gamesCounted": 23,
    "w": 10,
-   "l": 11,
+   "l": 12,
    "t": 0,
    "otl": 1,
    "missing": [],
@@ -1004,7 +1022,7 @@
      ],
      "img": "/images/posts/nhl-daily-tracker/flames-home.jpg",
      "w": 4,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "otl": 0,
      "games": [
@@ -1078,6 +1096,15 @@
        "teamScore": 6,
        "oppScore": 2,
        "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Minnesota Wild",
+       "home": true,
+       "teamScore": 1,
+       "oppScore": 4,
+       "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -1168,12 +1195,12 @@
    "name": "Carolina Hurricanes",
    "nickname": "Hurricanes",
    "tri": "CAR",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
    "w": 16,
    "l": 3,
    "t": 0,
-   "otl": 2,
+   "otl": 3,
    "missing": [],
    "combos": [
     {
@@ -1315,7 +1342,7 @@
      "w": 3,
      "l": 1,
      "t": 0,
-     "otl": 1,
+     "otl": 2,
      "games": [
       {
        "date": "2026-09-29",
@@ -1361,6 +1388,16 @@
        "teamScore": 3,
        "oppScore": 2,
        "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Montreal Canadiens",
+       "home": true,
+       "teamScore": 1,
+       "oppScore": 2,
+       "result": "L",
+       "ot": "OT",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -1459,10 +1496,10 @@
    "name": "Chicago Blackhawks",
    "nickname": "Blackhawks",
    "tri": "CHI",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
    "w": 6,
-   "l": 13,
+   "l": 14,
    "t": 0,
    "otl": 2,
    "missing": [],
@@ -1482,7 +1519,7 @@
      ],
      "img": "/images/posts/nhl-daily-tracker/blackhawks-home.jpg",
      "w": 5,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "otl": 1,
      "games": [
@@ -1568,6 +1605,15 @@
        "oppScore": 5,
        "result": "L",
        "ot": "SO",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Columbus Blue Jackets",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 4,
+       "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -1772,9 +1818,9 @@
    "name": "Colorado Avalanche",
    "nickname": "Avalanche",
    "tri": "COL",
-   "gamesPlayed": 22,
-   "gamesCounted": 22,
-   "w": 12,
+   "gamesPlayed": 23,
+   "gamesCounted": 23,
+   "w": 13,
    "l": 7,
    "t": 0,
    "otl": 3,
@@ -1915,7 +1961,7 @@
       "#6F263D"
      ],
      "img": "/images/posts/nhl-daily-tracker/avalanche-home.jpg",
-     "w": 7,
+     "w": 8,
      "l": 1,
      "t": 0,
      "otl": 0,
@@ -1989,6 +2035,15 @@
        "home": false,
        "teamScore": 4,
        "oppScore": 1,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Anaheim Ducks",
+       "home": true,
+       "teamScore": 4,
+       "oppScore": 0,
        "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
@@ -2072,14 +2127,108 @@
    "name": "Columbus Blue Jackets",
    "nickname": "Blue Jackets",
    "tri": "CBJ",
-   "gamesPlayed": 19,
-   "gamesCounted": 19,
-   "w": 7,
+   "gamesPlayed": 20,
+   "gamesCounted": 20,
+   "w": 8,
    "l": 12,
    "t": 0,
    "otl": 0,
    "missing": [],
    "combos": [
+    {
+     "id": "white-road",
+     "jerseyName": "White Road",
+     "edition": "Road Sweater",
+     "jerseyKey": "blue-jackets-road",
+     "helmet": "",
+     "jersey": "White",
+     "pants": "",
+     "hexes": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "img": "/images/posts/nhl-daily-tracker/blue-jackets-road.jpg",
+     "w": 2,
+     "l": 6,
+     "t": 0,
+     "otl": 0,
+     "games": [
+      {
+       "date": "2026-10-10",
+       "opponent": "St. Louis Blues",
+       "home": false,
+       "teamScore": 3,
+       "oppScore": 5,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-18",
+       "opponent": "Minnesota Wild",
+       "home": false,
+       "teamScore": 1,
+       "oppScore": 2,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-27",
+       "opponent": "Philadelphia Flyers",
+       "home": false,
+       "teamScore": 4,
+       "oppScore": 3,
+       "result": "W",
+       "ot": "OT",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-29",
+       "opponent": "Carolina Hurricanes",
+       "home": false,
+       "teamScore": 2,
+       "oppScore": 3,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-31",
+       "opponent": "Dallas Stars",
+       "home": false,
+       "teamScore": 1,
+       "oppScore": 3,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-06",
+       "opponent": "Buffalo Sabres",
+       "home": false,
+       "teamScore": 2,
+       "oppScore": 5,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "New York Islanders",
+       "home": false,
+       "teamScore": 1,
+       "oppScore": 5,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Chicago Blackhawks",
+       "home": false,
+       "teamScore": 4,
+       "oppScore": 2,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      }
+     ]
+    },
     {
      "id": "navy-home",
      "jerseyName": "Navy Home",
@@ -2161,91 +2310,6 @@
        "home": true,
        "teamScore": 3,
        "oppScore": 4,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      }
-     ]
-    },
-    {
-     "id": "white-road",
-     "jerseyName": "White Road",
-     "edition": "Road Sweater",
-     "jerseyKey": "blue-jackets-road",
-     "helmet": "",
-     "jersey": "White",
-     "pants": "",
-     "hexes": [
-      "#FFFFFF",
-      "#FFFFFF",
-      "#FFFFFF"
-     ],
-     "img": "/images/posts/nhl-daily-tracker/blue-jackets-road.jpg",
-     "w": 1,
-     "l": 6,
-     "t": 0,
-     "otl": 0,
-     "games": [
-      {
-       "date": "2026-10-10",
-       "opponent": "St. Louis Blues",
-       "home": false,
-       "teamScore": 3,
-       "oppScore": 5,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-18",
-       "opponent": "Minnesota Wild",
-       "home": false,
-       "teamScore": 1,
-       "oppScore": 2,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-27",
-       "opponent": "Philadelphia Flyers",
-       "home": false,
-       "teamScore": 4,
-       "oppScore": 3,
-       "result": "W",
-       "ot": "OT",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-29",
-       "opponent": "Carolina Hurricanes",
-       "home": false,
-       "teamScore": 2,
-       "oppScore": 3,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-31",
-       "opponent": "Dallas Stars",
-       "home": false,
-       "teamScore": 1,
-       "oppScore": 3,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-06",
-       "opponent": "Buffalo Sabres",
-       "home": false,
-       "teamScore": 2,
-       "oppScore": 5,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-17",
-       "opponent": "New York Islanders",
-       "home": false,
-       "teamScore": 1,
-       "oppScore": 5,
        "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
@@ -2347,9 +2411,9 @@
    "name": "Dallas Stars",
    "nickname": "Stars",
    "tri": "DAL",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
-   "w": 13,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
+   "w": 14,
    "l": 6,
    "t": 0,
    "otl": 2,
@@ -2501,7 +2565,7 @@
       "#FFFFFF"
      ],
      "img": "/images/posts/nhl-daily-tracker/stars-road.jpg",
-     "w": 5,
+     "w": 6,
      "l": 1,
      "t": 0,
      "otl": 2,
@@ -2580,6 +2644,16 @@
        "oppScore": 3,
        "result": "W",
        "ot": "OT",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Vegas Golden Knights",
+       "home": false,
+       "teamScore": 4,
+       "oppScore": 3,
+       "result": "W",
+       "ot": "SO",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -2902,14 +2976,126 @@
    "name": "Edmonton Oilers",
    "nickname": "Oilers",
    "tri": "EDM",
-   "gamesPlayed": 23,
-   "gamesCounted": 23,
+   "gamesPlayed": 24,
+   "gamesCounted": 24,
    "w": 17,
-   "l": 3,
+   "l": 4,
    "t": 0,
    "otl": 3,
    "missing": [],
    "combos": [
+    {
+     "id": "white-road",
+     "jerseyName": "White Road",
+     "edition": "Road Sweater",
+     "jerseyKey": "oilers-road",
+     "helmet": "",
+     "jersey": "White",
+     "pants": "",
+     "hexes": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "img": "/images/posts/nhl-daily-tracker/oilers-road.jpg",
+     "w": 8,
+     "l": 1,
+     "t": 0,
+     "otl": 1,
+     "games": [
+      {
+       "date": "2026-10-01",
+       "opponent": "Vancouver Canucks",
+       "home": false,
+       "teamScore": 9,
+       "oppScore": 7,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-07",
+       "opponent": "Anaheim Ducks",
+       "home": false,
+       "teamScore": 5,
+       "oppScore": 2,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-17",
+       "opponent": "Utah Mammoth",
+       "home": false,
+       "teamScore": 6,
+       "oppScore": 2,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-31",
+       "opponent": "New York Islanders",
+       "home": false,
+       "teamScore": 4,
+       "oppScore": 0,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-01",
+       "opponent": "New York Rangers",
+       "home": false,
+       "teamScore": 4,
+       "oppScore": 1,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-03",
+       "opponent": "New Jersey Devils",
+       "home": false,
+       "teamScore": 3,
+       "oppScore": 4,
+       "result": "L",
+       "ot": "SO",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-14",
+       "opponent": "Toronto Maple Leafs",
+       "home": false,
+       "teamScore": 1,
+       "oppScore": 0,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-15",
+       "opponent": "Philadelphia Flyers",
+       "home": false,
+       "teamScore": 5,
+       "oppScore": 2,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "Florida Panthers",
+       "home": false,
+       "teamScore": 5,
+       "oppScore": 2,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Tampa Bay Lightning",
+       "home": false,
+       "teamScore": 1,
+       "oppScore": 3,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      }
+     ]
+    },
     {
      "id": "royal-blue-home",
      "jerseyName": "Royal Blue Home",
@@ -3022,109 +3208,6 @@
        "oppScore": 2,
        "result": "W",
        "ot": "OT",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      }
-     ]
-    },
-    {
-     "id": "white-road",
-     "jerseyName": "White Road",
-     "edition": "Road Sweater",
-     "jerseyKey": "oilers-road",
-     "helmet": "",
-     "jersey": "White",
-     "pants": "",
-     "hexes": [
-      "#FFFFFF",
-      "#FFFFFF",
-      "#FFFFFF"
-     ],
-     "img": "/images/posts/nhl-daily-tracker/oilers-road.jpg",
-     "w": 8,
-     "l": 0,
-     "t": 0,
-     "otl": 1,
-     "games": [
-      {
-       "date": "2026-10-01",
-       "opponent": "Vancouver Canucks",
-       "home": false,
-       "teamScore": 9,
-       "oppScore": 7,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-07",
-       "opponent": "Anaheim Ducks",
-       "home": false,
-       "teamScore": 5,
-       "oppScore": 2,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-17",
-       "opponent": "Utah Mammoth",
-       "home": false,
-       "teamScore": 6,
-       "oppScore": 2,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-31",
-       "opponent": "New York Islanders",
-       "home": false,
-       "teamScore": 4,
-       "oppScore": 0,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-01",
-       "opponent": "New York Rangers",
-       "home": false,
-       "teamScore": 4,
-       "oppScore": 1,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-03",
-       "opponent": "New Jersey Devils",
-       "home": false,
-       "teamScore": 3,
-       "oppScore": 4,
-       "result": "L",
-       "ot": "SO",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-14",
-       "opponent": "Toronto Maple Leafs",
-       "home": false,
-       "teamScore": 1,
-       "oppScore": 0,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-15",
-       "opponent": "Philadelphia Flyers",
-       "home": false,
-       "teamScore": 5,
-       "oppScore": 2,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-17",
-       "opponent": "Florida Panthers",
-       "home": false,
-       "teamScore": 5,
-       "oppScore": 2,
-       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -3504,14 +3587,127 @@
    "name": "Los Angeles Kings",
    "nickname": "Kings",
    "tri": "LAK",
-   "gamesPlayed": 19,
-   "gamesCounted": 19,
-   "w": 6,
+   "gamesPlayed": 20,
+   "gamesCounted": 20,
+   "w": 7,
    "l": 11,
    "t": 0,
    "otl": 2,
    "missing": [],
    "combos": [
+    {
+     "id": "black-home",
+     "jerseyName": "Black Home",
+     "edition": "Home Sweater",
+     "jerseyKey": "kings-home",
+     "helmet": "",
+     "jersey": "Black",
+     "pants": "",
+     "hexes": [
+      "#111111",
+      "#111111",
+      "#111111"
+     ],
+     "img": "/images/posts/nhl-daily-tracker/kings-home.jpg",
+     "w": 2,
+     "l": 8,
+     "t": 0,
+     "otl": 0,
+     "games": [
+      {
+       "date": "2026-10-06",
+       "opponent": "Florida Panthers",
+       "home": true,
+       "teamScore": 1,
+       "oppScore": 2,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-13",
+       "opponent": "Edmonton Oilers",
+       "home": true,
+       "teamScore": 1,
+       "oppScore": 4,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-17",
+       "opponent": "Boston Bruins",
+       "home": true,
+       "teamScore": 1,
+       "oppScore": 4,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-29",
+       "opponent": "Ottawa Senators",
+       "home": true,
+       "teamScore": 6,
+       "oppScore": 5,
+       "result": "W",
+       "ot": "OT",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-31",
+       "opponent": "Buffalo Sabres",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 3,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-07",
+       "opponent": "Pittsburgh Penguins",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 5,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-10",
+       "opponent": "Nashville Predators",
+       "home": true,
+       "teamScore": 0,
+       "oppScore": 3,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-12",
+       "opponent": "New York Islanders",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 5,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-14",
+       "opponent": "Calgary Flames",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 3,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Toronto Maple Leafs",
+       "home": false,
+       "teamScore": 4,
+       "oppScore": 3,
+       "result": "W",
+       "ot": "SO",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      }
+     ]
+    },
     {
      "id": "white-road",
      "jerseyName": "White Road",
@@ -3618,109 +3814,6 @@
      ]
     },
     {
-     "id": "black-home",
-     "jerseyName": "Black Home",
-     "edition": "Home Sweater",
-     "jerseyKey": "kings-home",
-     "helmet": "",
-     "jersey": "Black",
-     "pants": "",
-     "hexes": [
-      "#111111",
-      "#111111",
-      "#111111"
-     ],
-     "img": "/images/posts/nhl-daily-tracker/kings-home.jpg",
-     "w": 1,
-     "l": 8,
-     "t": 0,
-     "otl": 0,
-     "games": [
-      {
-       "date": "2026-10-06",
-       "opponent": "Florida Panthers",
-       "home": true,
-       "teamScore": 1,
-       "oppScore": 2,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-13",
-       "opponent": "Edmonton Oilers",
-       "home": true,
-       "teamScore": 1,
-       "oppScore": 4,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-17",
-       "opponent": "Boston Bruins",
-       "home": true,
-       "teamScore": 1,
-       "oppScore": 4,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-29",
-       "opponent": "Ottawa Senators",
-       "home": true,
-       "teamScore": 6,
-       "oppScore": 5,
-       "result": "W",
-       "ot": "OT",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-31",
-       "opponent": "Buffalo Sabres",
-       "home": true,
-       "teamScore": 2,
-       "oppScore": 3,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-07",
-       "opponent": "Pittsburgh Penguins",
-       "home": true,
-       "teamScore": 2,
-       "oppScore": 5,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-10",
-       "opponent": "Nashville Predators",
-       "home": true,
-       "teamScore": 0,
-       "oppScore": 3,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-12",
-       "opponent": "New York Islanders",
-       "home": true,
-       "teamScore": 2,
-       "oppScore": 5,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-14",
-       "opponent": "Calgary Flames",
-       "home": true,
-       "teamScore": 2,
-       "oppScore": 3,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      }
-     ]
-    },
-    {
      "id": "purple-remix",
      "jerseyName": "Purple Remix",
      "edition": "Hometown Remix",
@@ -3757,9 +3850,9 @@
    "name": "Minnesota Wild",
    "nickname": "Wild",
    "tri": "MIN",
-   "gamesPlayed": 23,
-   "gamesCounted": 23,
-   "w": 16,
+   "gamesPlayed": 24,
+   "gamesCounted": 24,
+   "w": 17,
    "l": 3,
    "t": 0,
    "otl": 4,
@@ -3779,7 +3872,7 @@
       "#FFFFFF"
      ],
      "img": "/images/posts/nhl-daily-tracker/wild-road.jpg",
-     "w": 10,
+     "w": 11,
      "l": 3,
      "t": 0,
      "otl": 2,
@@ -3921,6 +4014,15 @@
        "oppScore": 2,
        "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Calgary Flames",
+       "home": false,
+       "teamScore": 4,
+       "oppScore": 1,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
     },
@@ -4047,14 +4149,118 @@
    "name": "Montreal Canadiens",
    "nickname": "Canadiens",
    "tri": "MTL",
-   "gamesPlayed": 22,
-   "gamesCounted": 22,
-   "w": 13,
+   "gamesPlayed": 23,
+   "gamesCounted": 23,
+   "w": 14,
    "l": 5,
    "t": 0,
    "otl": 4,
    "missing": [],
    "combos": [
+    {
+     "id": "white-road",
+     "jerseyName": "White Road",
+     "edition": "Road Sweater",
+     "jerseyKey": "canadiens-road",
+     "helmet": "",
+     "jersey": "White",
+     "pants": "",
+     "hexes": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "img": "/images/posts/nhl-daily-tracker/canadiens-road.jpg",
+     "w": 6,
+     "l": 2,
+     "t": 0,
+     "otl": 1,
+     "games": [
+      {
+       "date": "2026-09-29",
+       "opponent": "Toronto Maple Leafs",
+       "home": false,
+       "teamScore": 3,
+       "oppScore": 2,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-03",
+       "opponent": "Pittsburgh Penguins",
+       "home": false,
+       "teamScore": 5,
+       "oppScore": 6,
+       "result": "L",
+       "ot": "OT",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-14",
+       "opponent": "Washington Capitals",
+       "home": false,
+       "teamScore": 4,
+       "oppScore": 5,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-23",
+       "opponent": "Chicago Blackhawks",
+       "home": false,
+       "teamScore": 4,
+       "oppScore": 1,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-27",
+       "opponent": "St. Louis Blues",
+       "home": false,
+       "teamScore": 2,
+       "oppScore": 0,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-29",
+       "opponent": "Dallas Stars",
+       "home": false,
+       "teamScore": 5,
+       "oppScore": 2,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-16",
+       "opponent": "New York Rangers",
+       "home": false,
+       "teamScore": 1,
+       "oppScore": 3,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-18",
+       "opponent": "New Jersey Devils",
+       "home": false,
+       "teamScore": 3,
+       "oppScore": 2,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Carolina Hurricanes",
+       "home": false,
+       "teamScore": 2,
+       "oppScore": 1,
+       "result": "W",
+       "ot": "OT",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      }
+     ]
+    },
     {
      "id": "red-home",
      "jerseyName": "Red Home",
@@ -4159,100 +4365,6 @@
        "oppScore": 2,
        "result": "L",
        "ot": "OT",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      }
-     ]
-    },
-    {
-     "id": "white-road",
-     "jerseyName": "White Road",
-     "edition": "Road Sweater",
-     "jerseyKey": "canadiens-road",
-     "helmet": "",
-     "jersey": "White",
-     "pants": "",
-     "hexes": [
-      "#FFFFFF",
-      "#FFFFFF",
-      "#FFFFFF"
-     ],
-     "img": "/images/posts/nhl-daily-tracker/canadiens-road.jpg",
-     "w": 5,
-     "l": 2,
-     "t": 0,
-     "otl": 1,
-     "games": [
-      {
-       "date": "2026-09-29",
-       "opponent": "Toronto Maple Leafs",
-       "home": false,
-       "teamScore": 3,
-       "oppScore": 2,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-03",
-       "opponent": "Pittsburgh Penguins",
-       "home": false,
-       "teamScore": 5,
-       "oppScore": 6,
-       "result": "L",
-       "ot": "OT",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-14",
-       "opponent": "Washington Capitals",
-       "home": false,
-       "teamScore": 4,
-       "oppScore": 5,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-23",
-       "opponent": "Chicago Blackhawks",
-       "home": false,
-       "teamScore": 4,
-       "oppScore": 1,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-27",
-       "opponent": "St. Louis Blues",
-       "home": false,
-       "teamScore": 2,
-       "oppScore": 0,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-29",
-       "opponent": "Dallas Stars",
-       "home": false,
-       "teamScore": 5,
-       "oppScore": 2,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-16",
-       "opponent": "New York Rangers",
-       "home": false,
-       "teamScore": 1,
-       "oppScore": 3,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-18",
-       "opponent": "New Jersey Devils",
-       "home": false,
-       "teamScore": 3,
-       "oppScore": 2,
-       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -4917,12 +5029,12 @@
    "name": "New York Islanders",
    "nickname": "Islanders",
    "tri": "NYI",
-   "gamesPlayed": 20,
-   "gamesCounted": 20,
+   "gamesPlayed": 21,
+   "gamesCounted": 21,
    "w": 10,
    "l": 6,
    "t": 0,
-   "otl": 4,
+   "otl": 5,
    "missing": [],
    "combos": [
     {
@@ -4942,7 +5054,7 @@
      "w": 5,
      "l": 3,
      "t": 0,
-     "otl": 2,
+     "otl": 3,
      "games": [
       {
        "date": "2026-09-30",
@@ -5036,6 +5148,16 @@
        "teamScore": 6,
        "oppScore": 2,
        "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Winnipeg Jets",
+       "home": false,
+       "teamScore": 3,
+       "oppScore": 4,
+       "result": "L",
+       "ot": "OT",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -5479,12 +5601,12 @@
    "name": "Ottawa Senators",
    "nickname": "Senators",
    "tri": "OTT",
-   "gamesPlayed": 22,
-   "gamesCounted": 22,
+   "gamesPlayed": 23,
+   "gamesCounted": 23,
    "w": 14,
    "l": 6,
    "t": 0,
-   "otl": 2,
+   "otl": 3,
    "missing": [],
    "combos": [
     {
@@ -5625,7 +5747,7 @@
      "w": 5,
      "l": 2,
      "t": 0,
-     "otl": 1,
+     "otl": 2,
      "games": [
       {
        "date": "2026-10-08",
@@ -5698,6 +5820,16 @@
        "home": true,
        "teamScore": 2,
        "oppScore": 3,
+       "result": "L",
+       "ot": "OT",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Philadelphia Flyers",
+       "home": true,
+       "teamScore": 5,
+       "oppScore": 6,
        "result": "L",
        "ot": "OT",
        "link": "/stories/nhl-uniform-tracker-2026-27"
@@ -5781,9 +5913,9 @@
    "name": "Philadelphia Flyers",
    "nickname": "Flyers",
    "tri": "PHI",
-   "gamesPlayed": 24,
-   "gamesCounted": 24,
-   "w": 7,
+   "gamesPlayed": 25,
+   "gamesCounted": 25,
+   "w": 8,
    "l": 11,
    "t": 0,
    "otl": 6,
@@ -5803,7 +5935,7 @@
       "#FFFFFF"
      ],
      "img": "/images/posts/nhl-daily-tracker/flyers-road.jpg",
-     "w": 4,
+     "w": 5,
      "l": 6,
      "t": 0,
      "otl": 3,
@@ -5926,6 +6058,16 @@
        "teamScore": 4,
        "oppScore": 3,
        "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Ottawa Senators",
+       "home": false,
+       "teamScore": 6,
+       "oppScore": 5,
+       "result": "W",
+       "ot": "OT",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -6081,10 +6223,10 @@
    "name": "Pittsburgh Penguins",
    "nickname": "Penguins",
    "tri": "PIT",
-   "gamesPlayed": 20,
-   "gamesCounted": 20,
+   "gamesPlayed": 21,
+   "gamesCounted": 21,
    "w": 7,
-   "l": 11,
+   "l": 12,
    "t": 0,
    "otl": 2,
    "missing": [],
@@ -6217,7 +6359,7 @@
      ],
      "img": "/images/posts/nhl-daily-tracker/penguins-home.jpg",
      "w": 3,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "otl": 1,
      "games": [
@@ -6284,6 +6426,15 @@
        "home": true,
        "teamScore": 1,
        "oppScore": 4,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "St. Louis Blues",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 5,
        "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
@@ -6690,14 +6841,117 @@
    "name": "Seattle Kraken",
    "nickname": "Kraken",
    "tri": "SEA",
-   "gamesPlayed": 18,
-   "gamesCounted": 18,
-   "w": 9,
+   "gamesPlayed": 19,
+   "gamesCounted": 19,
+   "w": 10,
    "l": 8,
    "t": 0,
    "otl": 1,
    "missing": [],
    "combos": [
+    {
+     "id": "deep-sea-blue-home",
+     "jerseyName": "Deep Sea Blue Home",
+     "edition": "Home Sweater",
+     "jerseyKey": "kraken-home",
+     "helmet": "",
+     "jersey": "Deep Sea Blue",
+     "pants": "",
+     "hexes": [
+      "#001628",
+      "#001628",
+      "#001628"
+     ],
+     "img": "/images/posts/nhl-daily-tracker/kraken-home.jpg",
+     "w": 5,
+     "l": 4,
+     "t": 0,
+     "otl": 0,
+     "games": [
+      {
+       "date": "2026-10-04",
+       "opponent": "Calgary Flames",
+       "home": true,
+       "teamScore": 6,
+       "oppScore": 1,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-06",
+       "opponent": "Vegas Golden Knights",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 6,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-20",
+       "opponent": "Detroit Red Wings",
+       "home": true,
+       "teamScore": 4,
+       "oppScore": 3,
+       "result": "W",
+       "ot": "SO",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-22",
+       "opponent": "Utah Mammoth",
+       "home": true,
+       "teamScore": 5,
+       "oppScore": 3,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-24",
+       "opponent": "Minnesota Wild",
+       "home": true,
+       "teamScore": 1,
+       "oppScore": 5,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-28",
+       "opponent": "Toronto Maple Leafs",
+       "home": true,
+       "teamScore": 5,
+       "oppScore": 4,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-07",
+       "opponent": "New York Rangers",
+       "home": true,
+       "teamScore": 3,
+       "oppScore": 4,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-12",
+       "opponent": "Carolina Hurricanes",
+       "home": true,
+       "teamScore": 1,
+       "oppScore": 4,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Vancouver Canucks",
+       "home": true,
+       "teamScore": 5,
+       "oppScore": 1,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      }
+     ]
+    },
     {
      "id": "white-road",
      "jerseyName": "White Road",
@@ -6803,100 +7057,6 @@
      ]
     },
     {
-     "id": "deep-sea-blue-home",
-     "jerseyName": "Deep Sea Blue Home",
-     "edition": "Home Sweater",
-     "jerseyKey": "kraken-home",
-     "helmet": "",
-     "jersey": "Deep Sea Blue",
-     "pants": "",
-     "hexes": [
-      "#001628",
-      "#001628",
-      "#001628"
-     ],
-     "img": "/images/posts/nhl-daily-tracker/kraken-home.jpg",
-     "w": 4,
-     "l": 4,
-     "t": 0,
-     "otl": 0,
-     "games": [
-      {
-       "date": "2026-10-04",
-       "opponent": "Calgary Flames",
-       "home": true,
-       "teamScore": 6,
-       "oppScore": 1,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-06",
-       "opponent": "Vegas Golden Knights",
-       "home": true,
-       "teamScore": 2,
-       "oppScore": 6,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-20",
-       "opponent": "Detroit Red Wings",
-       "home": true,
-       "teamScore": 4,
-       "oppScore": 3,
-       "result": "W",
-       "ot": "SO",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-22",
-       "opponent": "Utah Mammoth",
-       "home": true,
-       "teamScore": 5,
-       "oppScore": 3,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-24",
-       "opponent": "Minnesota Wild",
-       "home": true,
-       "teamScore": 1,
-       "oppScore": 5,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-28",
-       "opponent": "Toronto Maple Leafs",
-       "home": true,
-       "teamScore": 5,
-       "oppScore": 4,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-07",
-       "opponent": "New York Rangers",
-       "home": true,
-       "teamScore": 3,
-       "oppScore": 4,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-12",
-       "opponent": "Carolina Hurricanes",
-       "home": true,
-       "teamScore": 1,
-       "oppScore": 4,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      }
-     ]
-    },
-    {
      "id": "deep-sea-blue-remix",
      "jerseyName": "Deep Sea Blue Remix",
      "edition": "Hometown Remix",
@@ -6934,9 +7094,9 @@
    "name": "St. Louis Blues",
    "nickname": "Blues",
    "tri": "STL",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
-   "w": 10,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
+   "w": 11,
    "l": 9,
    "t": 0,
    "otl": 2,
@@ -6956,7 +7116,7 @@
       "#FFFFFF"
      ],
      "img": "/images/posts/nhl-daily-tracker/blues-road.jpg",
-     "w": 4,
+     "w": 5,
      "l": 6,
      "t": 0,
      "otl": 1,
@@ -7060,6 +7220,15 @@
        "oppScore": 0,
        "result": "W",
        "ot": "SO",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Pittsburgh Penguins",
+       "home": false,
+       "teamScore": 5,
+       "oppScore": 2,
+       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -7204,9 +7373,9 @@
    "name": "Tampa Bay Lightning",
    "nickname": "Lightning",
    "tri": "TBL",
-   "gamesPlayed": 21,
-   "gamesCounted": 21,
-   "w": 14,
+   "gamesPlayed": 22,
+   "gamesCounted": 22,
+   "w": 15,
    "l": 5,
    "t": 0,
    "otl": 2,
@@ -7349,7 +7518,7 @@
       "#002868"
      ],
      "img": "/images/posts/nhl-daily-tracker/lightning-home.jpg",
-     "w": 9,
+     "w": 10,
      "l": 0,
      "t": 0,
      "otl": 0,
@@ -7435,6 +7604,15 @@
        "oppScore": 2,
        "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Edmonton Oilers",
+       "home": true,
+       "teamScore": 3,
+       "oppScore": 1,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
     },
@@ -7475,12 +7653,12 @@
    "name": "Toronto Maple Leafs",
    "nickname": "Maple Leafs",
    "tri": "TOR",
-   "gamesPlayed": 23,
-   "gamesCounted": 23,
+   "gamesPlayed": 24,
+   "gamesCounted": 24,
    "w": 8,
    "l": 13,
    "t": 0,
-   "otl": 2,
+   "otl": 3,
    "missing": [],
    "combos": [
     {
@@ -7743,7 +7921,7 @@
      "w": 0,
      "l": 1,
      "t": 0,
-     "otl": 0,
+     "otl": 1,
      "games": [
       {
        "date": "2026-11-08",
@@ -7752,6 +7930,16 @@
        "teamScore": 0,
        "oppScore": 4,
        "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Los Angeles Kings",
+       "home": true,
+       "teamScore": 3,
+       "oppScore": 4,
+       "result": "L",
+       "ot": "SO",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -8053,10 +8241,10 @@
    "name": "Vancouver Canucks",
    "nickname": "Canucks",
    "tri": "VAN",
-   "gamesPlayed": 23,
-   "gamesCounted": 23,
+   "gamesPlayed": 24,
+   "gamesCounted": 24,
    "w": 5,
-   "l": 17,
+   "l": 18,
    "t": 0,
    "otl": 1,
    "missing": [],
@@ -8076,7 +8264,7 @@
      ],
      "img": "/images/posts/nhl-daily-tracker/canucks-road.jpg",
      "w": 4,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "otl": 1,
      "games": [
@@ -8198,6 +8386,15 @@
        "teamScore": 3,
        "oppScore": 2,
        "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Seattle Kraken",
+       "home": false,
+       "teamScore": 1,
+       "oppScore": 5,
+       "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -8362,14 +8559,138 @@
    "name": "Vegas Golden Knights",
    "nickname": "Golden Knights",
    "tri": "VGK",
-   "gamesPlayed": 23,
-   "gamesCounted": 23,
+   "gamesPlayed": 24,
+   "gamesCounted": 24,
    "w": 13,
    "l": 6,
    "t": 0,
-   "otl": 4,
+   "otl": 5,
    "missing": [],
    "combos": [
+    {
+     "id": "gold-home",
+     "jerseyName": "Gold Home",
+     "edition": "Home Sweater",
+     "jerseyKey": "golden-knights-home",
+     "helmet": "",
+     "jersey": "Gold",
+     "pants": "",
+     "hexes": [
+      "#B4975A",
+      "#B4975A",
+      "#B4975A"
+     ],
+     "img": "/images/posts/nhl-daily-tracker/golden-knights-home.jpg",
+     "w": 6,
+     "l": 2,
+     "t": 0,
+     "otl": 3,
+     "games": [
+      {
+       "date": "2026-09-29",
+       "opponent": "Chicago Blackhawks",
+       "home": true,
+       "teamScore": 5,
+       "oppScore": 2,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-02",
+       "opponent": "Anaheim Ducks",
+       "home": true,
+       "teamScore": 3,
+       "oppScore": 4,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-08",
+       "opponent": "Toronto Maple Leafs",
+       "home": true,
+       "teamScore": 4,
+       "oppScore": 3,
+       "result": "W",
+       "ot": "SO",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-15",
+       "opponent": "Calgary Flames",
+       "home": true,
+       "teamScore": 6,
+       "oppScore": 2,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-17",
+       "opponent": "Pittsburgh Penguins",
+       "home": true,
+       "teamScore": 6,
+       "oppScore": 2,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-20",
+       "opponent": "Tampa Bay Lightning",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 6,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-10-27",
+       "opponent": "Ottawa Senators",
+       "home": true,
+       "teamScore": 4,
+       "oppScore": 1,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-11",
+       "opponent": "Utah Mammoth",
+       "home": true,
+       "teamScore": 5,
+       "oppScore": 3,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-13",
+       "opponent": "Nashville Predators",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 3,
+       "result": "L",
+       "ot": "SO",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-17",
+       "opponent": "Dallas Stars",
+       "home": true,
+       "teamScore": 3,
+       "oppScore": 4,
+       "result": "L",
+       "ot": "OT",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Dallas Stars",
+       "home": true,
+       "teamScore": 3,
+       "oppScore": 4,
+       "result": "L",
+       "ot": "SO",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      }
+     ]
+    },
     {
      "id": "white-road",
      "jerseyName": "White Road",
@@ -8493,120 +8814,6 @@
      ]
     },
     {
-     "id": "gold-home",
-     "jerseyName": "Gold Home",
-     "edition": "Home Sweater",
-     "jerseyKey": "golden-knights-home",
-     "helmet": "",
-     "jersey": "Gold",
-     "pants": "",
-     "hexes": [
-      "#B4975A",
-      "#B4975A",
-      "#B4975A"
-     ],
-     "img": "/images/posts/nhl-daily-tracker/golden-knights-home.jpg",
-     "w": 6,
-     "l": 2,
-     "t": 0,
-     "otl": 2,
-     "games": [
-      {
-       "date": "2026-09-29",
-       "opponent": "Chicago Blackhawks",
-       "home": true,
-       "teamScore": 5,
-       "oppScore": 2,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-02",
-       "opponent": "Anaheim Ducks",
-       "home": true,
-       "teamScore": 3,
-       "oppScore": 4,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-08",
-       "opponent": "Toronto Maple Leafs",
-       "home": true,
-       "teamScore": 4,
-       "oppScore": 3,
-       "result": "W",
-       "ot": "SO",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-15",
-       "opponent": "Calgary Flames",
-       "home": true,
-       "teamScore": 6,
-       "oppScore": 2,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-17",
-       "opponent": "Pittsburgh Penguins",
-       "home": true,
-       "teamScore": 6,
-       "oppScore": 2,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-20",
-       "opponent": "Tampa Bay Lightning",
-       "home": true,
-       "teamScore": 2,
-       "oppScore": 6,
-       "result": "L",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-10-27",
-       "opponent": "Ottawa Senators",
-       "home": true,
-       "teamScore": 4,
-       "oppScore": 1,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-11",
-       "opponent": "Utah Mammoth",
-       "home": true,
-       "teamScore": 5,
-       "oppScore": 3,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-13",
-       "opponent": "Nashville Predators",
-       "home": true,
-       "teamScore": 2,
-       "oppScore": 3,
-       "result": "L",
-       "ot": "SO",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-17",
-       "opponent": "Dallas Stars",
-       "home": true,
-       "teamScore": 3,
-       "oppScore": 4,
-       "result": "L",
-       "ot": "OT",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      }
-     ]
-    },
-    {
      "id": "gray-third",
      "jerseyName": "Gray Third",
      "edition": "Steel Grey Alternate",
@@ -8674,10 +8881,10 @@
    "name": "Washington Capitals",
    "nickname": "Capitals",
    "tri": "WSH",
-   "gamesPlayed": 19,
-   "gamesCounted": 19,
+   "gamesPlayed": 20,
+   "gamesCounted": 20,
    "w": 10,
-   "l": 9,
+   "l": 10,
    "t": 0,
    "otl": 0,
    "missing": [],
@@ -8697,7 +8904,7 @@
      ],
      "img": "/images/posts/nhl-daily-tracker/capitals-home.jpg",
      "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "otl": 0,
      "games": [
@@ -8761,6 +8968,15 @@
        "opponent": "Dallas Stars",
        "home": true,
        "teamScore": 5,
+       "oppScore": 6,
+       "result": "L",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Buffalo Sabres",
+       "home": true,
+       "teamScore": 3,
        "oppScore": 6,
        "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
@@ -8946,9 +9162,9 @@
    "name": "Winnipeg Jets",
    "nickname": "Jets",
    "tri": "WPG",
-   "gamesPlayed": 22,
-   "gamesCounted": 22,
-   "w": 10,
+   "gamesPlayed": 23,
+   "gamesCounted": 23,
+   "w": 11,
    "l": 9,
    "t": 0,
    "otl": 3,
@@ -9082,7 +9298,7 @@
       "#041E42"
      ],
      "img": "/images/posts/nhl-daily-tracker/jets-home.jpg",
-     "w": 4,
+     "w": 5,
      "l": 2,
      "t": 0,
      "otl": 1,
@@ -9150,6 +9366,16 @@
        "teamScore": 4,
        "oppScore": 2,
        "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "New York Islanders",
+       "home": true,
+       "teamScore": 4,
+       "oppScore": 3,
+       "result": "W",
+       "ot": "OT",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]

@@ -1,12 +1,12 @@
 {
  "league": "nba",
  "season": "2026-27",
- "through": "2026-11-18",
+ "through": "2026-11-19",
  "built": "2026-11-20",
  "note": "Built by scripts/build-uniform-records.mjs from scripts/data/nba-worn-2026-27.json (confirmed rows only, scores from the same log). Do not hand-edit.",
  "totals": {
   "teams": 30,
-  "teamGamesCounted": 444,
+  "teamGamesCounted": 452,
   "teamGamesUnlogged": 0
  },
  "teams": [
@@ -1971,10 +1971,10 @@
    "key": "warriors",
    "name": "Golden State Warriors",
    "nickname": "Warriors",
-   "gamesPlayed": 15,
-   "gamesCounted": 15,
+   "gamesPlayed": 16,
+   "gamesCounted": 16,
    "w": 8,
-   "l": 7,
+   "l": 8,
    "t": 0,
    "missing": [],
    "combos": [
@@ -2083,7 +2083,7 @@
      ],
      "img": "/images/posts/nba-daily-tracker/warriors-icon.jpg",
      "w": 3,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "games": [
       {
@@ -2132,6 +2132,16 @@
        "home": false,
        "teamScore": 85,
        "oppScore": 123,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Memphis Grizzlies",
+       "home": false,
+       "teamScore": 98,
+       "oppScore": 126,
        "result": "L",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
@@ -2670,10 +2680,10 @@
    "key": "clippers",
    "name": "LA Clippers",
    "nickname": "Clippers",
-   "gamesPlayed": 13,
-   "gamesCounted": 13,
+   "gamesPlayed": 14,
+   "gamesCounted": 14,
    "w": 4,
-   "l": 9,
+   "l": 10,
    "t": 0,
    "missing": [],
    "combos": [
@@ -2772,7 +2782,7 @@
      ],
      "img": "/images/posts/nba-daily-tracker/clippers-association.jpg",
      "w": 2,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "games": [
       {
@@ -2812,6 +2822,16 @@
        "teamScore": 113,
        "oppScore": 105,
        "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "San Antonio Spurs",
+       "home": false,
+       "teamScore": 112,
+       "oppScore": 124,
+       "result": "L",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
       }
@@ -3106,9 +3126,9 @@
    "key": "grizzlies",
    "name": "Memphis Grizzlies",
    "nickname": "Grizzlies",
-   "gamesPlayed": 15,
-   "gamesCounted": 15,
-   "w": 11,
+   "gamesPlayed": 16,
+   "gamesCounted": 16,
+   "w": 12,
    "l": 4,
    "t": 0,
    "missing": [],
@@ -3207,7 +3227,7 @@
       "#FFFFFF"
      ],
      "img": "/images/posts/nba-daily-tracker/grizzlies-association.jpg",
-     "w": 4,
+     "w": 5,
      "l": 1,
      "t": 0,
      "games": [
@@ -3257,6 +3277,16 @@
        "home": true,
        "teamScore": 129,
        "oppScore": 110,
+       "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Golden State Warriors",
+       "home": true,
+       "teamScore": 126,
+       "oppScore": 98,
        "result": "W",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
@@ -3572,10 +3602,10 @@
    "key": "bucks",
    "name": "Milwaukee Bucks",
    "nickname": "Bucks",
-   "gamesPlayed": 15,
-   "gamesCounted": 15,
+   "gamesPlayed": 16,
+   "gamesCounted": 16,
    "w": 1,
-   "l": 14,
+   "l": 15,
    "t": 0,
    "missing": [],
    "combos": [
@@ -3594,7 +3624,7 @@
      ],
      "img": "/images/posts/nba-daily-tracker/bucks-association.jpg",
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "games": [
       {
@@ -3663,6 +3693,16 @@
        "home": false,
        "teamScore": 130,
        "oppScore": 137,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Portland Trail Blazers",
+       "home": true,
+       "teamScore": 114,
+       "oppScore": 124,
        "result": "L",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
@@ -3795,10 +3835,10 @@
    "key": "timberwolves",
    "name": "Minnesota Timberwolves",
    "nickname": "Timberwolves",
-   "gamesPlayed": 15,
-   "gamesCounted": 15,
+   "gamesPlayed": 16,
+   "gamesCounted": 16,
    "w": 11,
-   "l": 4,
+   "l": 5,
    "t": 0,
    "missing": [],
    "combos": [
@@ -3917,7 +3957,7 @@
      ],
      "img": "/images/posts/nba-daily-tracker/timberwolves-association.jpg",
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "games": [
       {
@@ -3966,6 +4006,16 @@
        "home": true,
        "teamScore": 106,
        "oppScore": 117,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "New York Knicks",
+       "home": true,
+       "teamScore": 99,
+       "oppScore": 102,
        "result": "L",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
@@ -4251,9 +4301,9 @@
    "key": "knicks",
    "name": "New York Knicks",
    "nickname": "Knicks",
-   "gamesPlayed": 14,
-   "gamesCounted": 14,
-   "w": 8,
+   "gamesPlayed": 15,
+   "gamesCounted": 15,
+   "w": 9,
    "l": 6,
    "t": 0,
    "missing": [],
@@ -4432,7 +4482,7 @@
       "#006BB6"
      ],
      "img": "/images/posts/nba-daily-tracker/knicks-icon.jpg",
-     "w": 2,
+     "w": 3,
      "l": 0,
      "t": 0,
      "games": [
@@ -4454,6 +4504,16 @@
        "oppScore": 108,
        "result": "W",
        "ot": true,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Minnesota Timberwolves",
+       "home": false,
+       "teamScore": 102,
+       "oppScore": 99,
+       "result": "W",
+       "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
       }
      ]
@@ -5326,9 +5386,9 @@
    "key": "blazers",
    "name": "Portland Trail Blazers",
    "nickname": "Trail Blazers",
-   "gamesPlayed": 14,
-   "gamesCounted": 14,
-   "w": 9,
+   "gamesPlayed": 15,
+   "gamesCounted": 15,
+   "w": 10,
    "l": 5,
    "t": 0,
    "missing": [],
@@ -5517,7 +5577,7 @@
       "#111111"
      ],
      "img": "/images/posts/nba-daily-tracker/trail-blazers-icon.jpg",
-     "w": 1,
+     "w": 2,
      "l": 0,
      "t": 0,
      "games": [
@@ -5527,6 +5587,16 @@
        "home": true,
        "teamScore": 123,
        "oppScore": 103,
+       "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "Milwaukee Bucks",
+       "home": false,
+       "teamScore": 124,
+       "oppScore": 114,
        "result": "W",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
@@ -5752,9 +5822,9 @@
    "key": "spurs",
    "name": "San Antonio Spurs",
    "nickname": "Spurs",
-   "gamesPlayed": 15,
-   "gamesCounted": 15,
-   "w": 12,
+   "gamesPlayed": 16,
+   "gamesCounted": 16,
+   "w": 13,
    "l": 3,
    "t": 0,
    "missing": [],
@@ -5773,7 +5843,7 @@
       "#111111"
      ],
      "img": "/images/posts/nba-daily-tracker/spurs-icon.jpg",
-     "w": 5,
+     "w": 6,
      "l": 1,
      "t": 0,
      "games": [
@@ -5833,6 +5903,16 @@
        "home": false,
        "teamScore": 124,
        "oppScore": 119,
+       "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-19",
+       "opponent": "LA Clippers",
+       "home": true,
+       "teamScore": 124,
+       "oppScore": 112,
        "result": "W",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"

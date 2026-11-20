@@ -146,7 +146,7 @@ Eight teams got their first Rivalries uniform in 2026: the AFC South and the NFC
 
 <p style="margin: 0.4em 0 1em; font-size: 1.05em;"><strong style="display: inline-block; min-width: 2.6em; padding: 2px 10px; border-radius: 8px; background: #0B1F4A; color: #ffffff; text-align: center;">B</strong> &nbsp;<strong>Liberty White, H-Town Blue and Battle Red tile stripes</strong></p>
 
-The best palette in the 2026 class: light, bright and nothing like Houston's navy base set. The street-tile mosaics in the stripes and nameplate are real Houston, and the numbers come from the "Be Someone" bridge. It debuts **tonight, Thursday, Nov. 19, against the Colts** on Thursday Night Football. [What the Texans wear tonight](/stories/texans-houston-us-rivalries-uniform-colts-thursday-night-football-2026).
+The best palette in the 2026 class: light, bright and nothing like Houston's navy base set. The street-tile mosaics in the stripes and nameplate are real Houston, and the numbers come from the "Be Someone" bridge. It debuted **Thursday, Nov. 19, against the Colts** on Thursday Night Football, and Houston won 26-3. [What the Texans wore](/stories/texans-white-helmet-houston-us-rivalries-uniform-colts-what-they-wore-2026).
 
 ### Tennessee Titans Music City Rivalries Jersey
 
@@ -274,7 +274,7 @@ Retailers usually run sitewide jersey sales during Black Friday week, but the te
 
 **What is the best NFL Rivalries jersey to buy?**
 
-The Chicago Bears "Return of the Monsters" set, an A- and No. 1 of all 16 in our ranking. Of the 2026 class, the Houston Texans HOUSTON/US set is next at a B, and it debuts Thursday, Nov. 19, against the Colts.
+The Chicago Bears "Return of the Monsters" set, an A- and No. 1 of all 16 in our ranking. Of the 2026 class, the Houston Texans HOUSTON/US set is next at a B, and it debuted Thursday, Nov. 19, against the Colts, a 26-3 Houston win.
 
 **Which NFL Rivalries jerseys should I skip?**
 

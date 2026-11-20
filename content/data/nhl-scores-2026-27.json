@@ -1,7 +1,7 @@
 {
  "note": "NHL final scores and a standings snapshot from ESPN's public API, cached by scripts/build-uniform-records.mjs. The site build reads the records file built from this and never calls ESPN.",
  "season": "2026-27",
- "fetched": "2026-11-20T04:50:41.358Z",
+ "fetched": "2026-11-20T06:03:08.923Z",
  "standings": {
   "CAR": {
    "w": 16,
@@ -114,20 +114,20 @@
   "VGK": {
    "w": 13,
    "l": 6,
-   "otl": 4,
-   "gp": 23
+   "otl": 5,
+   "gp": 24
+  },
+  "DAL": {
+   "w": 14,
+   "l": 6,
+   "otl": 2,
+   "gp": 22
   },
   "COL": {
    "w": 13,
    "l": 7,
    "otl": 3,
    "gp": 23
-  },
-  "DAL": {
-   "w": 13,
-   "l": 6,
-   "otl": 2,
-   "gp": 21
   },
   "NSH": {
    "w": 11,
@@ -165,17 +165,17 @@
    "otl": 2,
    "gp": 24
   },
+  "SEA": {
+   "w": 10,
+   "l": 8,
+   "otl": 1,
+   "gp": 19
+  },
   "CGY": {
    "w": 10,
    "l": 12,
    "otl": 1,
    "gp": 23
-  },
-  "SEA": {
-   "w": 9,
-   "l": 8,
-   "otl": 1,
-   "gp": 18
   },
   "LAK": {
    "w": 7,
@@ -191,9 +191,9 @@
   },
   "VAN": {
    "w": 5,
-   "l": 17,
+   "l": 18,
    "otl": 1,
-   "gp": 23
+   "gp": 24
   }
  },
  "dates": {
@@ -5292,8 +5292,8 @@
     "away": "VAN",
     "home": "SEA",
     "awayScore": 1,
-    "homeScore": 3,
-    "final": false,
+    "homeScore": 5,
+    "final": true,
     "extra": null
    },
    {
@@ -5303,11 +5303,12 @@
     "seasonType": 2,
     "away": "DAL",
     "home": "VGK",
-    "awayScore": 2,
-    "homeScore": 2,
-    "final": false,
-    "extra": null
+    "awayScore": 4,
+    "homeScore": 3,
+    "final": true,
+    "extra": "SO"
    }
-  ]
+  ],
+  "2026-11-20": []
  }
 }
