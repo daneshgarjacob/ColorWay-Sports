@@ -3,7 +3,7 @@ title: "Kansas Uniform Schedule 2026: Every Jersey and When the Jayhawks Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Kansas wears every game in 2026: blue home jerseys, the white road set, the red alternate, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #0051BA 0%, #1a5fc4 55%, #E8000D 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Kansas has blue, white, red and black jerseys, two helmets, and a habit of mixing them without much warning. This is the full Kansas 2026 uniform schedule: the blue home set, the white road set, the red alternate that showed up in the Border War and again against Middle Tennessee, the black jersey it wore at Utah on October 10, and a week-by-week outlook for all twelve games, including the first college football game ever played at Wembley Stadium. We update this page as each combination is confirmed.
+
+**Update, November 21:** Kansas is wearing **all black with the oversized Jayhawk beak helmet** and a blue facemask for Senior Day against BYU, confirmed from the team's uniform combo post. [Every detail and our grade](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026).
 
 **Update, November 14:** Kansas wore a **blue helmet, white jersey and blue pants** at West Virginia, confirmed from the game broadcast, and won **37-14**.
 
@@ -36,13 +38,13 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
   <div style="background: #0051BA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 19</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State (London)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">SEP 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #E8000D; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Middle Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / Blue</div></div>
-  <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black Jersey / Black Pants</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 17</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0051BA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 24</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0051BA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
-  <div style="background: #0051BA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -56,7 +58,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 **October 3 vs. Middle Tennessee.** ★ Confirmed from the broadcast: **white helmet with the Jayhawk, red jersey, blue pants**. We had blue down, so this one is a correction: back in Lawrence after the London trip and the off week, Kansas went with red. Middle Tennessee wore a silver helmet, white jersey and white pants. Dylan Edwards ran for 137 yards and three touchdowns, Kansas outgained the Blue Raiders 706-136, and the 55-0 win was the program's first shutout since 2008. The Jayhawks are 2-2.
 
-**October 10 at Utah.** ★ Confirmed from the broadcast: **black jersey with KANSAS across the chest, black pants**. The helmet was not clear enough in the frames we saw to name its color. We had white down for the first Big 12 road game, so this one is a correction. Utah wore all white at Rice-Eccles Stadium; the Utes' side is on our [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026). Kansas trailed 21-17 at halftime, Utah scored 14 in the fourth quarter, and the Jayhawks lost 41-24 to fall to 2-3. Kickoff was 8 p.m. Eastern on ESPNEWS.
+**October 10 at Utah.** ★ Confirmed from the broadcast: **black jersey with KANSAS across the chest, black pants**. The helmet, from the team's own locker room photos, was **black with an oversized Jayhawk and a blue facemask**, the same set Kansas brought back against BYU on November 21. We had white down for the first Big 12 road game, so this one is a correction. Utah wore all white at Rice-Eccles Stadium; the Utes' side is on our [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026). Kansas trailed 21-17 at halftime, Utah scored 14 in the fourth quarter, and the Jayhawks lost 41-24 to fall to 2-3. Kickoff was 8 p.m. Eastern on ESPNEWS.
 
 **October 17 at Kansas State.** White expected. The Sunflower Showdown in Manhattan, and Kansas in white against a purple home side is one of the better color clashes on the conference calendar.
 
@@ -68,7 +70,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 **November 14 at West Virginia.** White expected. A November trip to Morgantown. **Worn: blue helmet, white jersey, blue pants**, confirmed from the game broadcast. **Final: Kansas 37, West Virginia 14.**
 
-**November 21 vs. BYU.** Blue expected. Senior Day and the final home game of the season.
+**November 21 vs. BYU.** Blue expected. Senior Day and the final home game of the season. **Worn: black helmet with the oversized Jayhawk, blue facemask, black jersey, black pants** with red, white and blue stripes, confirmed from the team's uniform combo post and game photos. It is the second time this season in the black set, after Utah. BYU wore all white with a royal blue facemask. [Every detail and our B+ grade](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026).
 
 **November 28 at Oklahoma State.** White expected. Regular season finale in Stillwater.
 

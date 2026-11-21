@@ -3,7 +3,7 @@ title: "BYU Uniform Schedule 2026: Every Jersey and When the Cougars Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-17"
+updatedDate: "2026-11-21"
 excerpt: "What BYU wears every game in 2026: royal home jerseys, white road uniforms, navy looks, helmet swaps, and the full Cougars uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002E5D 0%, #0062B8 55%, #ffffff 130%)"
 cardStyle: words
@@ -88,7 +88,7 @@ See the [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026) for the 
 
 **November 14 vs. Baylor.** Royal expected. Baylor is expected in white; see the [Baylor 2026 uniform schedule](/stories/baylor-uniform-schedule-2026). **Worn: white helmet, royal jersey, royal pants**, confirmed from the game broadcast. **Final: BYU 28, Baylor 7.**
 
-**November 21 at Kansas**, David Booth Kansas Memorial Stadium, noon Eastern on ABC. Announced: **white helmet with a royal blue facemask, white jersey, white pants**, all trimmed in royal blue. BYU posted it on Monday of game week as "this week's threads in Lawrence." It is the first time BYU has worn this exact combination since 2024 at Baylor. Kansas is expected in blue on Senior Day; see the [Kansas 2026 uniform schedule](/stories/kansas-uniform-schedule-2026) and our [full story on BYU's all-white look](/stories/byu-all-white-uniform-royal-facemask-kansas-2026).
+**November 21 at Kansas**, David Booth Kansas Memorial Stadium, noon Eastern on ABC. Announced: **white helmet with a royal blue facemask, white jersey, white pants**, all trimmed in royal blue. BYU posted it on Monday of game week as "this week's threads in Lawrence." It is the first time BYU has worn this exact combination since 2024 at Baylor. Kansas wore **all black with its oversized Jayhawk beak helmet** for Senior Day ([our B+ grade](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026)); see the [Kansas 2026 uniform schedule](/stories/kansas-uniform-schedule-2026) and our [full story on BYU's all-white look](/stories/byu-all-white-uniform-royal-facemask-kansas-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;"><blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2122350572917621028"></a></blockquote></div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Game 11 uniform reveal, via @BYUfootball</p>

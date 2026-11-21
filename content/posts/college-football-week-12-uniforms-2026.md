@@ -3,7 +3,7 @@ title: "College Football Week 12 Uniforms 2026: Florida State's First Turquoise 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-18"
-updatedDate: "2026-11-20"
+updatedDate: "2026-11-21"
 excerpt: "College football Week 12 uniforms: Florida State wears turquoise in a game for the first time against NC State, Miami brings back its digital camo Military Appreciation uniform with black pants for Virginia Tech and College GameDay, UCF debuts Knights Script Mode, Tennessee goes orange for LSU and BYU goes all white at Kansas. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #0f6f73 60%, #782F40 130%)"
 cardStyle: words
@@ -21,6 +21,7 @@ Below is every uniform announced so far, then every game this week involving an 
 
 - **What is Florida State wearing vs. NC State?** Turquoise, for the first time in a game: a gold helmet, turquoise jersey with garnet numbers and turquoise pants, from the team's own posts.
 - **What is BYU wearing at Kansas?** All white: white helmet with a royal blue facemask, white jersey, white pants.
+- **What is Kansas wearing vs. BYU?** All black for Senior Day: a black helmet with an oversized Jayhawk beak and a blue facemask, black jersey, black pants with red, white and blue stripes.
 - **What is Kentucky wearing at Missouri?** Blue helmet, white jersey, blue pants.
 - **What is Georgia wearing at South Carolina?** Expected: red helmet, white jersey, silver pants, its road set this season.
 - **What is Miami wearing vs. Virginia Tech?** Digital camo for Military Appreciation night: black helmet with a camo U, camo jersey with black numbers, black pants. Last year's version had olive pants.
@@ -37,6 +38,7 @@ Below is every uniform announced so far, then every game this week involving an 
 
 - **Florida State: turquoise (Confirmed).** Gold helmet, turquoise jersey with garnet numbers trimmed in gold, turquoise pants, vs. NC State for the Seminole Heritage game and Homecoming. Announced November 15, with the full set shown in the team's Homecoming wallpaper on November 18. [The story behind the turquoise](/stories/florida-state-turquoise-uniforms-seminole-heritage-2026).
 - **BYU: all white (Confirmed).** White helmet with a royal blue facemask, white jersey, white pants, at Kansas. Posted November 16 as "this week's threads in Lawrence." [Details](/stories/byu-all-white-uniform-royal-facemask-kansas-2026).
+- **Kansas: all black, beak helmet (Confirmed).** Black helmet with an oversized, zoomed-in Jayhawk and a blue facemask, black jersey with blue numbers, black pants with red, white and blue stripes, vs. BYU for Senior Day. Posted on game morning, November 21, with the caption ⚫️⚡️. Second time this season, after Utah on October 10. Our grade: B+. [Details](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026).
 - **Kentucky: blue, white, blue (Confirmed).** Blue helmet with the UK logo, white jersey with the Kentucky script, blue pants with a white stripe, at Missouri. Posted November 17 as "Saturday's look."
 - **Liberty: navy helmet, all red below (Confirmed).** Navy helmet with the Sparky logo, red jersey with the Flames script, red pants, vs. Western Kentucky. Posted November 18 with the caption 🔵🔴🔴.
 - **Florida: orange, blue, white (Confirmed, from its published grid).** Orange helmet, blue jersey, white pants, vs. Vanderbilt, from the season uniform schedule Florida published in August.
@@ -111,7 +113,7 @@ More: [Washington schedule](/stories/washington-huskies-uniform-schedule-2026) a
 
 ### No. 12 BYU at Kansas: All White in Lawrence
 
-**Saturday, noon, ABC.** **BYU: Confirmed, all white.** BYU posted its "Gameday Threads" on Monday: a white helmet with royal blue stripes and a royal blue facemask, a white jersey with royal numbers and white pants. It is the first time BYU has worn this exact combination since 2024 at Baylor. **Kansas: Expected, blue**, for Senior Day and its last home game. [BYU's all-white look, graded](/stories/byu-all-white-uniform-royal-facemask-kansas-2026). More: [BYU schedule](/stories/byu-uniform-schedule-2026) and [Kansas schedule](/stories/kansas-uniform-schedule-2026).
+**Saturday, noon, ABC.** **BYU: Confirmed, all white.** BYU posted its "Gameday Threads" on Monday: a white helmet with royal blue stripes and a royal blue facemask, a white jersey with royal numbers and white pants. It is the first time BYU has worn this exact combination since 2024 at Baylor. **Kansas: Confirmed, all black**, for Senior Day and its last home game: a black helmet with an oversized Jayhawk beak and a blue facemask, black jersey, black pants with red, white and blue stripes. Posted on game morning. [Kansas's black set, graded](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026). [BYU's all-white look, graded](/stories/byu-all-white-uniform-royal-facemask-kansas-2026). More: [BYU schedule](/stories/byu-uniform-schedule-2026) and [Kansas schedule](/stories/kansas-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2122350572917621028"></a></blockquote>
@@ -254,7 +256,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **No. 12 [BYU](/stories/byu-uniform-schedule-2026) at [Kansas](/stories/kansas-uniform-schedule-2026)**, noon, ABC.
 - BYU: **Confirmed**, all white: white helmet with a royal blue facemask, white jersey, white pants.
-- Kansas: **Expected**, blue, for Senior Day.
+- Kansas: **Confirmed**, all black for Senior Day: black helmet with an oversized Jayhawk beak and a blue facemask, black jersey, black pants.
 
 **No. 10 [Wake Forest](/stories/wake-forest-uniform-schedule-2026) at [Georgia Tech](/stories/georgia-tech-uniform-schedule-2026)**, noon, ESPN.
 - Wake Forest: **Expected**, white.
@@ -523,7 +525,7 @@ Washington is wearing its "Husky Heritage" look: a gold helmet with a purple and
 
 **What is BYU wearing at Kansas?**
 
-All white: a white helmet with a royal blue facemask, white jersey and white pants, posted by BYU on November 16. Kansas is expected in blue.
+All white: a white helmet with a royal blue facemask, white jersey and white pants, posted by BYU on November 16. Kansas wore all black with its oversized Jayhawk beak helmet. [Kansas's look, graded](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026).
 
 **What is Kentucky wearing at Missouri?**
 

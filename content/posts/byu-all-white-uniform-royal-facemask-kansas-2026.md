@@ -3,8 +3,8 @@ title: "BYU Will Wear All White With A Royal Blue Facemask At Kansas On November
 author: "jake-daneshgar"
 category: "College"
 date: "2026-11-16"
-updatedDate: "2026-11-17"
-excerpt: "BYU posted its uniform for Saturday's trip to Kansas: an all-white uniform under a white helmet with a royal blue facemask and royal accents. It is the first time the Cougars have worn this combination since 2024 at Baylor. Kickoff, what Kansas is expected to wear, how it differs from BYU's navy-trim whites, and our grade."
+updatedDate: "2026-11-21"
+excerpt: "BYU posted its uniform for Saturday's trip to Kansas: an all-white uniform under a white helmet with a royal blue facemask and royal accents. It is the first time the Cougars have worn this combination since 2024 at Baylor. Kickoff, the all-black look Kansas wore, how it differs from BYU's navy-trim whites, and our grade."
 gradient: "linear-gradient(135deg, #ffffff 0%, #d9e2f2 35%, #0062B8 120%)"
 cardStyle: words
 kicker: "Uniform News"
@@ -26,7 +26,7 @@ teams: ["byu-cougars", "kansas-jayhawks", "big-12"]
 - **What is BYU wearing at Kansas?** All white: white helmet, white jersey, white pants, with a royal blue facemask and royal blue accents.
 - **When?** Saturday, November 21, noon Eastern (11 a.m. Central, 10 a.m. Mountain) on ABC, in Lawrence.
 - **When did BYU last wear it?** At Baylor in 2024. This is the third time BYU has worn it as a Big 12 team, after West Virginia in 2023 and Baylor in 2024.
-- **What is Kansas wearing?** Blue is expected. It is Senior Day and the Jayhawks' last home game. Kansas has not posted its look yet.
+- **What is Kansas wearing?** Kansas went all black: a black helmet with an oversized Jayhawk beak and a blue facemask, a black jersey and black pants with red, white and blue stripes, posted on game morning for Senior Day. [Kansas's look, graded](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026).
 - **Our grade:** A- for the uniform, B+ for the matchup.
 
 ## What BYU Is Wearing At Kansas
@@ -50,7 +50,7 @@ So BYU is going back to Lawrence in white again, three years later, in the other
 
 ## What Kansas Is Wearing
 
-Kansas is the home team and is expected in **blue**. It is Senior Day and the final home game of the season, so a special look is possible, and we'll update this when the Jayhawks post theirs. Blue against white is the cleanest matchup available here, and it means two blues on the same field: Kansas blue on the home side, BYU royal on the facemasks and trim.
+**Update, November 21:** Kansas posted its look on game morning, and it is not blue. The Jayhawks went **all black: a black helmet with an oversized Jayhawk beak and a blue facemask, a black jersey and black pants with red, white and blue stripes**, for Senior Day and the final home game of the season. It is the second time Kansas has worn the black set this year, after Utah on October 10. We graded it a **B+**. [Every detail](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026).
 
 Every Kansas date this season is on our [Kansas 2026 uniform schedule](/stories/kansas-uniform-schedule-2026).
 
@@ -60,7 +60,7 @@ This is BYU's best road uniform, and it isn't close. The white helmet with the r
 
 It loses a little because all white can wash out in a noon kickoff in bright sun, and a royal jersey with the same royal facemask would give BYU the same idea with more color on screen. That's a small complaint. **A-** for the uniform.
 
-The matchup gets a **B+**. Kansas blue against BYU white is simple and classic. If Kansas brings something special for Senior Day, it could go higher.
+The matchup gets a **B+**. We graded it expecting Kansas blue against BYU white; Kansas wore all black instead.
 
 How would you grade it? Every look BYU has worn this season is on our [BYU 2026 uniform schedule](/stories/byu-uniform-schedule-2026).
 
@@ -88,7 +88,7 @@ The trim color. One is trimmed in navy with a white facemask, which BYU wore at 
 
 **What is Kansas wearing against BYU?**
 
-Blue is expected. It is Kansas's Senior Day and final home game, and the Jayhawks have not posted their uniform yet.
+All black: a black helmet with an oversized Jayhawk beak and a blue facemask, a black jersey and black pants, for Senior Day. [Details](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026).
 
 **What grade did ColorWay Sports give BYU's uniform?**
 

@@ -11,7 +11,7 @@ kicker: "This Weekend"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/leagues/nba.png"
 league: nfl
-teams: ["ucf-knights", "oregon-ducks", "florida-state-seminoles", "miami-hurricanes", "ole-miss-rebels", "washington-huskies", "maryland-terrapins", "byu-cougars", "arizona-state-sun-devils", "buffalo-bills", "detroit-lions", "tennessee-titans", "los-angeles-chargers", "washington-commanders", "boston-celtics"]
+teams: ["ucf-knights", "oregon-ducks", "florida-state-seminoles", "miami-hurricanes", "ole-miss-rebels", "washington-huskies", "maryland-terrapins", "byu-cougars", "kansas-jayhawks", "arizona-state-sun-devils", "buffalo-bills", "detroit-lions", "tennessee-titans", "los-angeles-chargers", "washington-commanders", "boston-celtics"]
 resurfaceOnUpdate: true
 ---
 
@@ -35,6 +35,7 @@ Thursday night is already covered: the Texans debut the white-helmet HOUSTON/US 
 | Washington | Sat | Husky Heritage: gold helmet, purple jersey, gold pants | None yet |
 | Maryland | Sat | Script Shift: all white with iridescent gold, black and red script | None yet |
 | BYU | Sat | All white with a royal blue facemask | A- |
+| [Kansas](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026) | Sat | All black with the oversized Jayhawk beak helmet and a blue facemask, vs. BYU | B+ |
 | Arizona State | Sat | Roses &amp; Devils 1986 throwback: gold Sparky helmet, maroon jersey, gold pants | A |
 | TCU | Sat | Purple helmet, black jersey, purple pants | A- |
 | Carolina Hurricanes | Sat | Hometown Remix: storm gray with Stormy | No. 13 of 32 |
@@ -142,12 +143,21 @@ These are on each team's published jersey schedule. Full dates are on each sched
 
 ### BYU: All White At Kansas
 
-**Saturday, noon ET, ABC. Confirmed.** BYU wears a **white helmet with royal blue stripes and a royal blue facemask**, a **white jersey with royal numbers** and **white pants**. It is the first time BYU has worn this exact combination since 2024 at Baylor. Kansas is expected in blue for Senior Day. Our grade: **A-** for the uniform. [BYU's all-white look, graded](/stories/byu-all-white-uniform-royal-facemask-kansas-2026).
+**Saturday, noon ET, ABC. Confirmed.** BYU wears a **white helmet with royal blue stripes and a royal blue facemask**, a **white jersey with royal numbers** and **white pants**. It is the first time BYU has worn this exact combination since 2024 at Baylor. Our grade: **A-** for the uniform. [BYU's all-white look, graded](/stories/byu-all-white-uniform-royal-facemask-kansas-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2122350572917621028"></a></blockquote>
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">BYU's all white for Kansas, via <a href="https://x.com/BYUfootball" target="_blank" rel="noopener">@BYUfootball</a></p>
+
+### Kansas: All Black With The Jayhawk Beak Helmet Vs. BYU
+
+**Saturday, noon ET, ABC. Confirmed.** Kansas posted its uniform combo on game morning, captioned ⚫️⚡️: a **black helmet with an oversized, zoomed-in Jayhawk** whose yellow beak covers the side of the shell, a **blue facemask**, a **black jersey with blue numbers** and **black pants with red, white and blue stripes**, for Senior Day. It is the second time this season, after Utah on October 10. Our grade: **B+**. We love the helmet and the pop it brings; the all black holds it back. [Every detail](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/KU_Football/status/2124168281644994848"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Kansas's uniform combo for BYU, via <a href="https://x.com/KU_Football" target="_blank" rel="noopener">@KU_Football</a></p>
 
 ### Arizona State: Roses &amp; Devils Throwback Vs. Oklahoma State
 
