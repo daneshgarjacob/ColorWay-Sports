@@ -3,7 +3,6 @@ import StoryCard from "@/components/StoryCard";
 import { LeadStory, LatestRail } from "@/components/home/HomeRefresh";
 import { latestStandsDate, standsPhotoFor, standsPool } from "@/lib/homeToday";
 import { MyTeamsRow, TeamPicker } from "@/components/home/MyTeams";
-import { newestStoryByTeam } from "@/lib/browse";
 import { getMyTeamCards, withOpponents } from "@/lib/myTeams";
 import { rootingPicksOrEmpty } from "@/lib/rootingGuide/feeds";
 import { tonightMatchups } from "@/lib/tonight";
@@ -378,7 +377,8 @@ export default async function Home() {
             bands are gone; /tonight holds every game. */}
         {/* Jake 11/2: the reader's followed teams, next uniform first. Shows only
             after they follow a team in the Find Your Team row below. */}
-        <MyTeamsRow teams={myTeamMatchups} teamPages latest={newestStoryByTeam()} rooting={rootingPicks} reportView />
+        {/* Jake 11/21: no story rows here; jerseys + Root For only (stories live in each team's hub). */}
+        <MyTeamsRow teams={myTeamMatchups} teamPages rooting={rootingPicks} reportView />
 
         {/* 10/5: lead story (2/3) + Jake's Takes rail (1/3) */}
         {heroPost && (

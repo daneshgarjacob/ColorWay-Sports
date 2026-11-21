@@ -114,8 +114,17 @@ function Matchup({ t, href }: { t: MyTeamCard; href: string }) {
         {home ? us : them}
       </div>
       {!g.vs?.look && <div className="text-center text-[11px] text-steel mt-2">{oppName} jersey not posted yet</div>}
-      <div className="text-center mt-3">
-        <Link prefetch={false} href={href} className="font-display text-[14px] font-extrabold text-orange">
+      {/* Jake 11/21: the panel is where the jerseys live, so the hub (every
+          story about the team) is one tap from here instead of a homepage row. */}
+      <div className="flex flex-col sm:flex-row items-center justify-center gap-x-6 gap-y-1 mt-3">
+        <TeamHubLink
+          teamId={t.id}
+          placement="my_teams"
+          className="inline-flex items-center justify-center min-h-[44px] px-5 rounded-full bg-black text-white font-display text-[14px] font-extrabold hover:bg-black/85"
+        >
+          {`${t.nickname} Hub →`}
+        </TeamHubLink>
+        <Link prefetch={false} href={href} className="inline-flex items-center min-h-[44px] font-display text-[14px] font-extrabold text-orange">
           {`Every ${t.nickname} uniform this season →`}
         </Link>
       </div>
@@ -146,13 +155,14 @@ function LiveDot() {
 export function MyTeamsRow({
   teams,
   teamPages,
-  latest = {},
+  latest,
   rooting = {},
   reportView,
 }: {
   teams: MyTeamCard[];
   teamPages?: boolean;
-  /** Newest story per club id from the last month (lib/browse newestStoryByTeam), 11/19. */
+  /** Newest story per club id from the last month (lib/browse newestStoryByTeam), 11/19.
+   *  Leave it out (the homepage, 11/21) to hide the story rows and the hub-link row. */
   latest?: Record<string, { slug: string; title: string }>;
   /** Homepage only: send the my_teams_view GA4 event with the saved-team count. */
   reportView?: boolean;
@@ -169,6 +179,7 @@ export function MyTeamsRow({
     .sort((a, b) => (a.next?.at ?? Infinity) - (b.next?.at ?? Infinity));
   if (!mine.length) return null;
   const opened = mine.find((t) => t.id === open && t.next);
+  const hasRooting = mine.some((t) => rooting[t.id]?.length);
   const hrefOf = (t: MyTeamCard) => (teamPages ? teamPage(t.id) : t.href);
   // Desktop: chips and stories share one column grid, up to five across, so
   // each headline sits under its own team and the row never wraps raggedly.
@@ -236,11 +247,16 @@ export function MyTeamsRow({
 
       {/* The matchup slides open with a grid-rows transition, so nothing jumps. */}
       <div className={`grid transition-[grid-template-rows] duration-300 ease-out ${opened ? "grid-rows-[1fr]" : "grid-rows-[0fr]"}`}>
-        <div className="overflow-hidden">{opened && <div className="pt-2"><Matchup t={opened} href={hrefOf(opened)} /></div>}</div>
+        {/* "Every uniform" is the schedule post; the hub has its own button beside it. */}
+        <div className="overflow-hidden">{opened && <div className="pt-2"><Matchup t={opened} href={opened.href} /></div>}</div>
       </div>
 
-      {/* 11/19: the newest story on each followed club; no recent story = its team page. */}
+      {(latest || hasRooting) && (
       <div className="mt-2 border-t border-border pt-1">
+        {/* 11/19: the newest story on each followed club; no recent story = its team page.
+            Jake 11/21: the homepage leaves these out (it passes no `latest`), keeping
+            only the jerseys and the Root For lines; /my-teams still lists them. */}
+        {latest && (
         <ul style={cols} className={`m-0 p-0 list-none ${grid}`}>
           {mine.map((t) => {
             const s = latest[t.id];
@@ -269,13 +285,14 @@ export function MyTeamsRow({
             );
           })}
         </ul>
+        )}
         {/* 11/20: one "Root For" line per NFL / ranked college club, into its Rooting Guide. */}
-        {mine.some((t) => rooting[t.id]?.length) && (
+        {hasRooting && (
           <ul style={cols} className={`m-0 p-0 list-none ${grid}`}>
             {mine.map((t) => {
               const picks = rooting[t.id];
               return (
-                <li key={t.id} className={`${picks?.length ? "flex" : "hidden lg:block"} items-center min-h-[44px] border-b border-border lg:border-b-0`}>
+                <li key={t.id} className={`${picks?.length ? "flex" : "hidden lg:block"} items-center min-h-[44px] border-b border-border last:border-b-0 lg:border-b-0`}>
                   {picks?.length ? (
                     <RootingGuideLink
                       teamId={t.id}
@@ -283,7 +300,8 @@ export function MyTeamsRow({
                     >
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img src={t.logo} alt="" width={20} height={20} className="w-5 h-5 object-contain shrink-0 lg:hidden" />
-                      <span className="min-w-0 truncate">
+                      {/* Phones: one line each. Desktop: under its own chip, wrapping to two lines before it cuts a name. */}
+                      <span className="min-w-0 truncate lg:whitespace-normal lg:line-clamp-2">
                         <span className="font-display font-black">Root For:</span> {picks.join(", ")}
                       </span>
                     </RootingGuideLink>
@@ -293,7 +311,7 @@ export function MyTeamsRow({
             })}
           </ul>
         )}
-        {mine.some((t) => !latest[t.id]) && (
+        {latest && mine.some((t) => !latest[t.id]) && (
           <div className="lg:hidden flex flex-wrap gap-x-5 min-h-[44px] items-center py-1">
             {mine
               .filter((t) => !latest[t.id])
@@ -307,6 +325,7 @@ export function MyTeamsRow({
           </div>
         )}
       </div>
+      )}
     </section>
   );
 }
