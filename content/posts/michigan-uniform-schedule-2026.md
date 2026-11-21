@@ -26,7 +26,7 @@ Michigan's wardrobe is the least complicated in college football and that is ent
   <div style="background: #14284b; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Alternates</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Nothing was announced before the season, but Michigan has already gone off script: the all-maize uniform against Western Michigan on September 5, and blue over blue for the Stripe Out against Iowa on September 26.</div></div>
 </div>
 
-The winged helmet is the whole identity, and it is worn with both sets, so the only variable in a Michigan season is which jersey goes under it. Big Ten home teams wear color and visitors wear white, which makes every date on this page predictable until somebody announces otherwise.
+The winged helmet is the whole identity, and it is worn with both sets, so the only variable in a Michigan season is which jersey goes under it. Big Ten home teams wear color and visitors wear white, which makes every date on this page predictable until somebody announces otherwise. Where the wings came from, and why they started as padding on a $10 leather helmet: [Why Does Michigan's Helmet Have Wings?](/stories/why-does-michigans-helmet-have-wings)
 
 ## The Full Michigan 2026 Uniform Schedule, Week by Week
 

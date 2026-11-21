@@ -199,6 +199,7 @@ We expect the black alternate on Sunday, November 22, at Ford Field, the second 
 
 - [Detroit Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026): every week's look and result
 - [Every Lions jersey ranked](/stories/lions-jerseys-2026-ranked)
+- [Why do the Lions wear 1934 throwback uniforms on Thanksgiving?](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving)
 - [How every NFL team got its colors](/stories/how-every-nfl-team-got-its-colors)
 - [What is the NFL Rivalries uniform program?](/stories/what-is-the-nfl-rivalries-uniform-program)
 - [NFL Week 11 uniforms](/stories/nfl-week-11-uniforms-2026)

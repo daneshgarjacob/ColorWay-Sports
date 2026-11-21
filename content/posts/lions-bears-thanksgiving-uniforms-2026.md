@@ -122,6 +122,7 @@ Yes. Both the Lions and Bears wear the [John Madden Thanksgiving patch](/stories
 ## More Thanksgiving Week Uniforms
 
 - [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026): all five games
+- [Why do the Lions wear 1934 throwback uniforms on Thanksgiving?](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving): the first Thanksgiving game and the uniform that copies it
 - [What the Rams are wearing against the Packers on Thanksgiving Eve](/stories/packers-rams-thanksgiving-eve-uniforms-2026)
 - [What the Cowboys are wearing against the Eagles](/stories/cowboys-eagles-thanksgiving-uniforms-2026)
 - [What the Bills are wearing against the Chiefs](/stories/bills-chiefs-thanksgiving-uniforms-2026)
