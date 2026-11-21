@@ -3,7 +3,7 @@ title: "Oklahoma Uniform Schedule 2026: Every Jersey and When the Sooners Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "The full Oklahoma 2026 uniform schedule: crimson jerseys at home, white on the road, the anthracite and throwback alternates, and every Sooners date week by week."
 gradient: "linear-gradient(135deg, #841617 0%, #5c0f10 55%, #FDF9D8 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Oklahoma is one of the few blue-blood programs that still keeps an alternate or two in the closet, which makes the Sooners a little harder to predict than Texas or Michigan. This is the full Oklahoma 2026 uniform schedule: the crimson home set, the white road set, the two alternates that could surface on a given Saturday, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** Oklahoma is in a **crimson helmet, crimson jersey with SOONERS across the chest and white pants** for Senior Day against Texas A&M in Norman, confirmed from the team's pregame video of the players walking out of the tunnel. Kickoff is 3:45 p.m. ET on ESPN2.
 
 **Update, November 15:** Oklahoma wore a **crimson helmet, crimson jersey and white pants** against Ole Miss in Norman, in the game moved to Sunday, confirmed from game photos, and won **24-17**.
 
@@ -44,7 +46,7 @@ Under the SEC convention the home team wears color and the visitor wears white, 
   <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson</div></div>
-  <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #841617; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -70,7 +72,7 @@ Under the SEC convention the home team wears color and the visitor wears white, 
 
 **November 14 vs. Ole Miss**, Norman (moved to Sunday, November 15). Crimson expected. **Worn: crimson helmet, crimson jersey, white pants**, confirmed from game photos. Ole Miss wore all white with a white helmet. **Final: Oklahoma 24, Ole Miss 17.**
 
-**November 21 vs. Texas A&M**, Norman. Crimson expected. Senior day and the home finale, another candidate date for an alternate if the program holds one back.
+**November 21 vs. Texas A&M**, Norman. Crimson expected. Senior day and the home finale, another candidate date for an alternate if the program holds one back. **Worn: crimson helmet, crimson jersey, white pants**, confirmed from the team's pregame tunnel video. No alternate this time.
 
 **November 28 at Missouri**, Columbia. White expected. Regular season finale on the road, and Missouri wears black or gold at home, so the Sooners' white is the safe projection.
 
@@ -82,7 +84,7 @@ Crimson at home, white on the road, the same crimson helmet on both, and one or 
 
 **What jersey is Oklahoma wearing this week?**
 
-Oklahoma wore the crimson helmet, crimson jersey and white pants against Ole Miss in Norman on Sunday, November 15, confirmed from game photos, and won 24-17. Next is Texas A&M at home on November 21, where crimson is expected. The Sooners wear crimson at home and white on the road in 2026. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Oklahoma wore the crimson helmet, crimson jersey and white pants against Ole Miss in Norman on Sunday, November 15, confirmed from game photos, and won 24-17. Against Texas A&M at home on Saturday, November 21 (3:45 p.m. ET, ESPN2), Oklahoma is in the crimson helmet, crimson jersey and white pants for Senior Day, confirmed from the team's pregame video. The Sooners wear crimson at home and white on the road in 2026. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Oklahoma's uniforms for 2026?**
 

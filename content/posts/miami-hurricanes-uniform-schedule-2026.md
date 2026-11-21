@@ -3,7 +3,7 @@ title: "Miami Hurricanes Uniform Schedule 2026: Every Jersey and When the Hurric
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-21"
 excerpt: "Miami Hurricanes uniform schedule 2026: digital camo Military Appreciation uniforms with black pants vs. Virginia Tech, orange home jerseys, the all-white road set, the 2001 Tribute throwbacks and every game's jersey week by week."
 gradient: "linear-gradient(135deg, #005030 0%, #0b6b43 55%, #F47321 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Miami wears orange jerseys with white pants under the white U helmet at home, and all white on the road. This page is the full Miami Hurricanes 2026 uniform schedule: the orange home set, the white road set, the green alternate, the black Miami Nights set, and a week-by-week outlook for all twelve games. We add each combination here once it is confirmed. Five games in, Miami is 5-0 and has worn the all-white road set three times, at Stanford, Wake Forest and Clemson, orange over white against Florida A&M, and the green alternate against Central Michigan.
 
-**Update, November 19:** Miami will wear its **digital camo Military Appreciation uniforms** against Virginia Tech on Saturday, November 21: a **black helmet** with a camo U, a **digital camo jersey with black numbers**, and **black pants**. The change from last season is the pants. In 2025 against Stanford the same camo look came with **olive green pants**. Posted by Miami as "A tribute to our nation's heroes." [Last year's look and this year's, side by side](/stories/miami-hurricanes-military-appreciation-camo-uniforms-2026).
+**Update, November 21:** Miami wears its **digital camo Military Appreciation uniforms** against Virginia Tech tonight, Saturday, November 21 (7 p.m. ET, ESPN), with College GameDay on campus: a **black helmet** with a camo U, a **digital camo jersey with black numbers**, and **black pants**. The change from last season is the pants. In 2025 against Stanford the same camo look came with **olive green pants**. Posted by Miami on November 19 as "A tribute to our nation's heroes." We add the final here after the game. [Last year's look and this year's, side by side](/stories/miami-hurricanes-military-appreciation-camo-uniforms-2026).
 
 **Update, October 30:** Miami wore **all white at North Carolina** on Halloween, posted by the team as "All white, all business." North Carolina was in all Carolina blue.
 
@@ -113,7 +113,7 @@ Miami has worn nothing but its two base sets in the first three games: all white
 
 **What jersey is Miami wearing this week?**
 
-Miami wore the 2001 Tribute home set against Duke on Saturday, November 14, for Homecoming: a white helmet with the orange and green center stripe, the throwback orange jersey and white pants, confirmed from Miami's game photos and the game broadcast, and won 36-25. The week before, Miami wore the 2001 Tribute road set at Notre Dame, white helmet, white throwback jersey and green pants, and lost 31-24. Next is Virginia Tech at home on Saturday, November 21, and Miami has confirmed its Military Appreciation uniform: black helmet with a digital camo U, digital camo jersey with black numbers and black pants. Last year's version against Stanford had olive green pants. Earlier this season Miami wore all white at Stanford, Wake Forest, Clemson and North Carolina, and the green alternate against Central Michigan. The grid above lists every game, and we update it as each combination is confirmed.
+Miami wore the 2001 Tribute home set against Duke on Saturday, November 14, for Homecoming: a white helmet with the orange and green center stripe, the throwback orange jersey and white pants, confirmed from Miami's game photos and the game broadcast, and won 36-25. The week before, Miami wore the 2001 Tribute road set at Notre Dame, white helmet, white throwback jersey and green pants, and lost 31-24. Tonight, Saturday, November 21, Miami hosts Virginia Tech at 7 p.m. Eastern on ESPN in its team-confirmed Military Appreciation uniform: black helmet with a digital camo U, digital camo jersey with black numbers and black pants. Last year's version against Stanford had olive green pants. Earlier this season Miami wore all white at Stanford, Wake Forest, Clemson and North Carolina, and the green alternate against Central Michigan. The grid above lists every game, and we update it as each combination is confirmed.
 
 **What are Miami's football uniforms for 2026?**
 

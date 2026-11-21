@@ -3,7 +3,7 @@ title: "South Carolina Uniform Schedule 2026: Every Jersey and When the Gamecock
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "South Carolina uniform schedule 2026: every Gamecocks jersey and helmet, garnet, white and glossy black Nike sets, the Cocky helmet, and what they wear each week."
 gradient: "linear-gradient(135deg, #73000A 0%, #4a0007 55%, #000000 130%)"
 cardStyle: words
@@ -14,6 +14,10 @@ resurfaceOnUpdate: true
 ---
 
 South Carolina wore garnet jerseys under white helmets for the opener against Kent State, then went black with a one-night Cocky helmet against Towson. Then came Mississippi State at Williams-Brice Stadium on September 19, where the Gamecocks went garnet head to toe. They went all white at Alabama on September 26, wore a white helmet with a black jersey and black pants against Kentucky on October 3, then wore a garnet helmet, garnet jersey and white pants in a 38-19 win at Florida on October 10. Since then they have gone all black against Tennessee, black helmet and black jersey over garnet pants against Texas A&M, and all white at Arkansas. This is the full South Carolina 2026 uniform schedule: the garnet, white and black sets from the program's first Nike season, the helmets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** South Carolina posted its helmet for Georgia on Saturday morning: a **black helmet with the gamecock inside the Block C**, posted as "Saturday Night Football." The jersey and pants have not been shown yet, so the rest of the look is still to come. Kickoff is 7:30 p.m. ET on ABC, the last home game of the season.
+
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/GamecockFB/status/2124203392490700891"></a></blockquote>
 
 **Update, November 14:** South Carolina wore a **white helmet with the garnet block C and gamecock, white jersey and white pants** at Arkansas, confirmed from the team's helmet post and the game broadcast, and lost **34-6**.
 
@@ -42,7 +46,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #73000A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #73000A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -68,7 +72,7 @@ This is South Carolina's first season with Nike after Under Armour dressed the G
 
 **November 14 at Arkansas.** White expected. Road date in Fayetteville, where the home side wears color. **Worn: white helmet with the garnet block C and gamecock and a garnet facemask, white jersey, white pants**, confirmed from the team's helmet post and the game broadcast. **Final: Arkansas 34, South Carolina 6.**
 
-**November 21 vs. Georgia.** Garnet expected. The last home game and the biggest home date on the calendar, so this is the one we are watching for an all-black return. [Georgia](/stories/georgia-uniform-schedule-2026) is expected in white.
+**November 21 vs. Georgia.** Garnet expected. The last home game and the biggest home date on the calendar, so this is the one we are watching for an all-black return. [Georgia](/stories/georgia-uniform-schedule-2026) is expected in white. **Helmet confirmed: black**, with the gamecock inside the Block C, from the team's Saturday morning post. The jersey and pants have not been posted.
 
 **November 28 at Clemson.** White expected. The Palmetto Bowl in Clemson, with the Tigers in orange at home per our [Clemson 2026 uniform schedule](/stories/clemson-uniform-schedule-2026).
 
@@ -80,7 +84,7 @@ Six games into the Nike era, South Carolina has shown six different combinations
 
 **What jersey is South Carolina wearing this week?**
 
-South Carolina wore a white helmet with the garnet block C and gamecock and a garnet facemask, a white jersey and white pants at Arkansas on Saturday, November 14, confirmed from the team's helmet post and the game broadcast. Arkansas won 34-6. Next is Georgia at home on November 21, where garnet is expected. The grid above lists every game, and we update it when each combination is confirmed.
+South Carolina wore a white helmet with the garnet block C and gamecock and a garnet facemask, a white jersey and white pants at Arkansas on Saturday, November 14, confirmed from the team's helmet post and the game broadcast. Arkansas won 34-6. Against Georgia at home on Saturday, November 21 (7:30 p.m. ET, ABC), South Carolina has confirmed a black helmet with the gamecock inside the Block C, posted that morning as "Saturday Night Football." The jersey and pants have not been shown yet. The grid above lists every game, and we update it when each combination is confirmed.
 
 **What are South Carolina's football uniforms for 2026?**
 

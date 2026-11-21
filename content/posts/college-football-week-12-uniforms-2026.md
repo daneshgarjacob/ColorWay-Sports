@@ -82,7 +82,7 @@ That is the list as of Friday, November 20. Schools post their combinations from
 
 ### No. 1 Georgia at South Carolina: Garnet or Black?
 
-**Saturday, 7:30 p.m., ABC.** **South Carolina: Expected, garnet, with black in play.** This is the Gamecocks' last home game and their biggest. At home this season South Carolina has worn garnet over white pants against Kent State, all garnet against Mississippi State, a white helmet with a black jersey and black pants against Kentucky, all black against Tennessee and a black helmet, black jersey and garnet pants against Texas A&M. A night game against No. 1 is the obvious spot for black again. **Georgia: Expected, red helmet, white jersey, silver pants**, the road set it wore at Ole Miss on November 7. More: [South Carolina schedule](/stories/south-carolina-uniform-schedule-2026) and [Georgia schedule](/stories/georgia-uniform-schedule-2026).
+**Saturday, 7:30 p.m., ABC.** **South Carolina: black helmet confirmed, jersey and pants not yet shown.** On Saturday morning the Gamecocks posted a black helmet with the gamecock inside the Block C, captioned "Saturday Night Football." This is the Gamecocks' last home game and their biggest. At home this season South Carolina has worn garnet over white pants against Kent State, all garnet against Mississippi State, a white helmet with a black jersey and black pants against Kentucky, all black against Tennessee and a black helmet, black jersey and garnet pants against Texas A&M. A night game against No. 1 is the obvious spot for black again. **Georgia: Expected, red helmet, white jersey, silver pants**, the road set it wore at Ole Miss on November 7. More: [South Carolina schedule](/stories/south-carolina-uniform-schedule-2026) and [Georgia schedule](/stories/georgia-uniform-schedule-2026).
 
 ### Virginia Tech at No. 5 Miami: GameDay and Military Appreciation
 
@@ -375,7 +375,7 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 
 **[Texas A&M](/stories/texas-am-uniform-schedule-2026) at [Oklahoma](/stories/oklahoma-uniform-schedule-2026)**, 3:45 p.m., ESPN2.
 - Texas A&M: **Expected**, white.
-- Oklahoma: **Expected**, crimson, for Senior Day.
+- Oklahoma: **Confirmed**, crimson helmet, crimson jersey, white pants, for Senior Day, from the team's pregame tunnel video.
 
 **[Georgia Southern](/stories/georgia-southern-uniform-schedule-2026) at [Troy](/stories/troy-uniform-schedule-2026)**, 4 p.m., ESPN+.
 - Georgia Southern: **Expected**, white.
@@ -417,7 +417,7 @@ Also in the afternoon: Missouri State at Jacksonville State (2 p.m., ESPN+), Mid
 
 **No. 1 [Georgia](/stories/georgia-uniform-schedule-2026) at [South Carolina](/stories/south-carolina-uniform-schedule-2026)**, 7:30 p.m., ABC.
 - Georgia: **Expected**, red helmet, white jersey, silver pants.
-- South Carolina: **Expected**, garnet, with all black a real chance for its last home game.
+- South Carolina: **Confirmed**, black helmet with the gamecock inside the Block C, posted Saturday morning. Jersey and pants not yet shown.
 
 **[SMU](/stories/smu-uniform-schedule-2026) at No. 3 [Notre Dame](/stories/notre-dame-uniform-schedule-2026)**, 7:30 p.m., NBC.
 - SMU: **Expected**, white, with a new **Visit Dallas** sticker on the back of the helmet, the first helmet sponsor in SMU history ([details](/stories/smu-helmet-sponsor-sticker-visit-dallas-2026)).
@@ -471,7 +471,7 @@ Also in the afternoon: Missouri State at Jacksonville State (2 p.m., ESPN+), Mid
 
 ## The Bottom Line
 
-Week 12 belongs to Florida State. After three Seminole Heritage games with the turquoise left on the hanger, the Seminoles are wearing it, head to toe below a gold helmet, on turquoise-painted end zones. BYU's all white at Kansas and Kentucky's blue pants at Missouri are already set too. The projection worth watching is in Columbia, where South Carolina's last home game against No. 1 Georgia is the likeliest night left on its schedule for all black.
+Week 12 belongs to Florida State. After three Seminole Heritage games with the turquoise left on the hanger, the Seminoles are wearing it, head to toe below a gold helmet, on turquoise-painted end zones. BYU's all white at Kansas and Kentucky's blue pants at Missouri are already set too. The projection worth watching is in Columbia, where South Carolina's last home game against No. 1 Georgia is the likeliest night left on its schedule for all black, and the Gamecocks have already posted a black helmet for it.
 
 ## Frequently Asked Questions
 
@@ -497,7 +497,7 @@ Georgia is expected in its road set: red helmet, white jersey and silver pants, 
 
 **Will South Carolina wear black against Georgia?**
 
-It is a real chance. South Carolina has worn a black jersey in four home games this season, including all black against Tennessee, and this is its last home game and a night kickoff against No. 1. Garnet is the default expectation until the team posts.
+The helmet is black: South Carolina posted a black helmet with the gamecock inside the Block C on Saturday morning, captioned "Saturday Night Football." The jersey and pants have not been shown yet. South Carolina has worn a black jersey in four home games this season, including all black against Tennessee, and this is its last home game and a night kickoff against No. 1.
 
 **What is Miami wearing vs. Virginia Tech?**
 
