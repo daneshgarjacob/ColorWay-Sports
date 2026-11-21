@@ -15,7 +15,7 @@ teams: ["dallas-cowboys", "detroit-lions", "chicago-bears", "green-bay-packers",
 
 **Eight Thanksgiving uniforms, one winner, and you pick it.** We seeded eight of the best looks ever worn in an NFL Thanksgiving week game, 1 through 8, and paired them off. Round 1 is open now. The four winners meet in the semifinals on **Sunday, November 22**, and the champion is revealed on **Thanksgiving morning, Thursday, November 26**, a few hours before Bears at Lions kicks off.
 
-<div class="bkt"><p class="bkt-k">Giveaway Presented By BreakingT</p><h3>Vote And You Could Win Any BreakingT Shirt</h3><p>One voter wins any shirt they choose from BreakingT, and BreakingT ships it.</p><p><b>How to enter, November 20 to 26:</b></p><ul><li>Vote in the bracket on this page.</li><li>Follow us: <a href="https://www.instagram.com/colorwaysports/" target="_blank" rel="noopener">@colorwaysports</a> on Instagram or <a href="https://www.tiktok.com/@colorway.sports" target="_blank" rel="noopener">@colorway.sports</a> on TikTok.</li><li>Tag a friend in the comments of our bracket post.</li></ul><p>Open to US residents only. No purchase necessary.</p><a class="bkt-btn" href="https://breakingt.com/collections/all?rfsn=9408677.d1e2b7" rel="sponsored noopener" target="_blank">See BreakingT's Shirts</a><p class="bkt-d">ColorWay Sports may earn a commission on BreakingT purchases made through our links.</p></div>
+<div class="bkt"><p class="bkt-k">Giveaway Presented By BreakingT</p><h3>Vote And You Could Win Any BreakingT Shirt</h3><p>One voter wins any shirt they choose from BreakingT, and BreakingT ships it.</p><p><b>How to enter, November 20 to 26:</b></p><ul><li>Vote in the bracket on this page.</li><li>Follow us: <a href="https://www.tiktok.com/@colorway.sports" target="_blank" rel="noopener">@colorway.sports</a> on TikTok.</li><li>Tag a friend in the comments of our bracket post.</li></ul><p>Open to US residents only. No purchase necessary.</p><a class="bkt-btn" href="https://breakingt.com/collections/all?rfsn=9408677.d1e2b7" rel="sponsored noopener" target="_blank">See BreakingT's Shirts</a><p class="bkt-d">ColorWay Sports may earn a commission on BreakingT purchases made through our links.</p></div>
 
 ## The Bracket
 
@@ -95,7 +95,7 @@ It is a fan vote, not an official ranking. Seeds are ours; the results are yours
 
 <div id="vote-matchup-4" style="scroll-margin-top: 110px;" data-cw-vote="tg26:r1-m4" data-label-a="4A" data-a="Cowboys Double-Star White" data-label-b="4B" data-b="Lions Wolf Gray"></div>
 
-<div class="bkt"><p class="bkt-k">Giveaway Presented By BreakingT</p><h3>Enter The BreakingT Shirt Giveaway</h3><p>Follow <a href="https://www.instagram.com/colorwaysports/" target="_blank" rel="noopener">@colorwaysports</a> on Instagram or <a href="https://www.tiktok.com/@colorway.sports" target="_blank" rel="noopener">@colorway.sports</a> on TikTok and tag a friend in the comments of our bracket post by November 26. One voter wins any BreakingT shirt they choose, shipped by BreakingT. US residents only. No purchase necessary.</p><a class="bkt-btn" href="https://breakingt.com/collections/all?rfsn=9408677.d1e2b7" rel="sponsored noopener" target="_blank">See BreakingT's Shirts</a><p class="bkt-d">ColorWay Sports may earn a commission on BreakingT purchases made through our links.</p></div>
+<div class="bkt"><p class="bkt-k">Giveaway Presented By BreakingT</p><h3>Enter The BreakingT Shirt Giveaway</h3><p>Follow <a href="https://www.tiktok.com/@colorway.sports" target="_blank" rel="noopener">@colorway.sports</a> on TikTok and tag a friend in the comments of our bracket post by November 26. One voter wins any BreakingT shirt they choose, shipped by BreakingT. US residents only. No purchase necessary.</p><a class="bkt-btn" href="https://breakingt.com/collections/all?rfsn=9408677.d1e2b7" rel="sponsored noopener" target="_blank">See BreakingT's Shirts</a><p class="bkt-d">ColorWay Sports may earn a commission on BreakingT purchases made through our links.</p></div>
 
 ## Why These Eight
 
@@ -136,7 +136,7 @@ Yes. Chicago wore orange throwbacks at Dallas on Thanksgiving 2004, honoring its
 
 **How do I enter the BreakingT shirt giveaway?**
 
-Between November 20 and November 26, vote in the bracket, follow us (@colorwaysports on Instagram or @colorway.sports on TikTok) and tag a friend in the comments of our bracket post. One winner picks any shirt from BreakingT, and BreakingT ships it. US residents only.
+Between November 20 and November 26, vote in the bracket, follow @colorway.sports on TikTok and tag a friend in the comments of our bracket post. One winner picks any shirt from BreakingT, and BreakingT ships it. US residents only.
 
 **When is the bracket winner announced?**
 
