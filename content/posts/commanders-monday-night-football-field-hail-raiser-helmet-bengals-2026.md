@@ -28,7 +28,7 @@ teams: ["washington-commanders", "cincinnati-bengals"]
 - **Why a black helmet?** Washington wears the Hail Raiser, its all-black alternate with a black helmet and the Spear W, for the first time in this game.
 - **When is the game?** Monday, November 23, 8:15 p.m. Eastern, ESPN, Commanders vs. Bengals at Northwest Stadium.
 - **What are the teams wearing?** Washington: black helmet, black jersey, black pants. Cincinnati, confirmed by the Bengals: orange helmet, white jersey, white pants.
-- **Our grade:** pending.
+- **Our grade:** A.
 
 ## What The Field Shows
 
@@ -47,9 +47,9 @@ This field is built around the uniform. The **Hail Raiser** is Washington's all-
 
 The Bengals have confirmed **orange helmets, white jerseys and white pants**, so it is black against white under the lights.
 
-## Our Grade: Pending
+## Our Grade: A
 
-We will grade the field once it is shown in full on Monday night. Check back for the grade.
+An A. The giant black helmet on the grass ties the field to the uniform Washington debuts that night, and the burgundy and gold Spear W gives it real color against the green. A field built around one game is rare in the NFL, and this one commits to it.
 
 ## Frequently Asked Questions
 
