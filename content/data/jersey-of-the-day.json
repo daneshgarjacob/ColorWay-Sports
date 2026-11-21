@@ -940,6 +940,49 @@
     }
    ],
    "shopQuery": "Oregon Ducks football jersey"
+  },
+  "2026-11-21": {
+   "team": "Florida State Seminoles",
+   "teamShort": "Florida State",
+   "league": "College Football",
+   "season": "2026",
+   "edition": "Seminole Heritage uniform (home)",
+   "jerseyName": "Gold Helmet, Turquoise Jersey, Turquoise Pants",
+   "colorwayGrade": "A+",
+   "image": "/images/jersey-of-the-day/florida-state-turquoise-2026-11-21.jpg",
+   "imageAlt": "Florida State No. 22 in the turquoise Seminole Heritage uniform: gold helmet, turquoise jersey with garnet numbers trimmed in gold, turquoise pants, from the team's Homecoming graphic",
+   "imagePosition": "center 25%",
+   "credit": {
+    "text": "Florida State Football",
+    "url": "https://x.com/FSUFootball/status/2123112824050479438",
+    "license": "via the team"
+   },
+   "tweet": {
+    "url": "https://x.com/FSUFootball/status/2122065891026215244",
+    "label": "The turquoise announcement, from Florida State"
+   },
+   "worn": {
+    "date": "2026-11-21",
+    "matchup": "vs. NC State, 3:30 p.m. ET on ACC Network",
+    "status": "Announced",
+    "note": "Florida State announced the turquoise uniforms on November 15 for its Seminole Heritage game and Homecoming, and showed the full set in its Homecoming graphic on November 18."
+   },
+   "why": "Turquoise in a Florida State game for the first time, with the gold helmet and garnet numbers keeping it unmistakably Florida State.",
+   "whyPlaceholder": true,
+   "story": "Florida State wears turquoise in a football game for the first time on Saturday against NC State: a gold helmet, a turquoise jersey with garnet numbers trimmed in gold and turquoise pants. It is the Seminole Heritage game and Homecoming at Doak Campbell Stadium, with the end zones painted turquoise to match. Kickoff is 3:30 p.m. Eastern on ACC Network. We graded it an A+.",
+   "scheduleSlug": "florida-state-uniform-schedule-2026",
+   "scheduleLabel": "Florida State 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "florida-state-turquoise-uniforms-seminole-heritage-2026",
+     "label": "The story behind Florida State's turquoise uniforms"
+    },
+    {
+     "slug": "special-uniforms-this-weekend-nov-20-23-2026",
+     "label": "Every special uniform this weekend"
+    }
+   ],
+   "shopQuery": "Florida State Seminoles football jersey"
   }
  }
 }

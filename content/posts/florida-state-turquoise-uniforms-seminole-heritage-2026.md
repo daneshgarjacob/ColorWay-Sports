@@ -3,10 +3,17 @@ title: "Florida State Will Wear Turquoise Uniforms For The First Time: The Semin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-15"
-updatedDate: "2026-11-20"
+updatedDate: "2026-11-21"
 excerpt: "Florida State football will wear turquoise uniforms in a game for the first time on Saturday, November 21, against NC State, for its Seminole Heritage game. What the turquoise means, where it came from, why FSU kept it in the locker room for three years, and our grade: A+."
 gradient: "linear-gradient(135deg, #0f6f73 0%, #1f9e9a 55%, #782F40 130%)"
-cardStyle: words
+coverImage: "/images/posts/florida-state-turquoise-uniforms-seminole-heritage-2026/cover-turquoise-22.jpg"
+coverImagePosition: "center 20%"
+coverImageFit: "cover"
+coverCredit:
+  author: "Florida State Football"
+  url: "https://x.com/FSUFootball/status/2123112824050479438"
+  license: "via the team"
+homepageHero: "2026-11-21"
 kicker: "New Uniform"
 league: "college"
 teams: ["florida-state-seminoles", "nc-state-wolfpack", "acc"]
