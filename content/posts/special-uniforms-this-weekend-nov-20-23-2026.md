@@ -27,6 +27,7 @@ Thursday night is already covered: the Texans debut the white-helmet HOUSTON/US 
 |---|---|---|---|
 | UCF | Fri | Knights Script Mode: black helmet with gold Knights script, black jersey, black pants | C |
 | Oregon | Fri | Yellow helmet with green wings, white jersey, yellow pants | A- |
+| [Florida State basketball](/stories/florida-state-basketball-turquoise-uniforms-2026) | Fri | Turquoise for the Seminole Heritage game: turquoise jersey with garnet SEMINOLES, garnet and cream side panels, N7 shoes. Won 87-63 vs. Green Bay | A- |
 | Red Deer Rebels (WHL) | Fri | 1992 retro: black, white and grey with the original script | None yet |
 | Florida State | Sat | First turquoise game: gold helmet, turquoise jersey, turquoise pants | A+ |
 | Miami | Sat | Digital camo: black helmet with camo U, camo jersey, black pants | B- |
@@ -34,7 +35,7 @@ Thursday night is already covered: the Texans debut the white-helmet HOUSTON/US 
 | Washington | Sat | Husky Heritage: gold helmet, purple jersey, gold pants | None yet |
 | Maryland | Sat | Script Shift: all white with iridescent gold, black and red script | None yet |
 | BYU | Sat | All white with a royal blue facemask | A- |
-| Arizona State | Sat | Roses &amp; Devils throwback (reported) | A |
+| Arizona State | Sat | Roses &amp; Devils 1986 throwback: gold Sparky helmet, maroon jersey, gold pants | A |
 | TCU | Sat | Purple helmet, black jersey, purple pants | A- |
 | Carolina Hurricanes | Sat | Hometown Remix: storm gray with Stormy | No. 13 of 32 |
 | Nashville Predators | Sat | Hometown Remix: navy and gold stage suit | A |
@@ -148,9 +149,16 @@ These are on each team's published jersey schedule. Full dates are on each sched
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">BYU's all white for Kansas, via <a href="https://x.com/BYUfootball" target="_blank" rel="noopener">@BYUfootball</a></p>
 
-### Arizona State: Roses &amp; Devils Throwback Vs. Oklahoma State (Reported)
+### Arizona State: Roses &amp; Devils Throwback Vs. Oklahoma State
 
-**Saturday, 10:15 p.m. ET, ESPN. Reported, not confirmed.** The ASU Devils site on On3 reports that Arizona State will close its home schedule in the **Roses &amp; Devils** 1986 throwback: a **gold helmet with the full-body Sparky**, a **maroon jersey** and **gold pants**. Arizona State had not posted it as of Thursday, so treat this one as reported until it does. We graded the throwback an **A**. [The throwback, graded](/stories/arizona-state-throwback-uniforms-2026).
+**Saturday, 10:15 p.m. ET, ESPN. Confirmed.** Arizona State posted its "Game 11 Uniforms vs Oklahoma State" on Thursday night: the **Roses &amp; Devils** throwback, the 1986 look the Sun Devils wore to beat Michigan in the 1987 Rose Bowl. It is a **gold helmet with the full-body Sparky decal, a maroon and white center stripe and a white facemask**, a **maroon jersey with ARIZONA STATE in white block letters, gold numbers and white and gold sleeve stripes**, and **gold pants with a maroon and white stripe**. It is homecoming and the throwback's first game. Oklahoma State is expected in white. We graded the throwback an **A**.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ASUFootball/status/2123566994897125483"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Arizona State's Roses &amp; Devils Threads, via <a href="https://x.com/ASUFootball" target="_blank" rel="noopener">@ASUFootball</a></p>
+
+[The Roses &amp; Devils throwback, graded](/stories/arizona-state-throwback-uniforms-2026).
 
 ### TCU: Purple, Black, Purple Vs. Utah
 

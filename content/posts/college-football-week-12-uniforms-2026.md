@@ -30,6 +30,7 @@ Below is every uniform announced so far, then every game this week involving an 
 - **What is Ole Miss wearing vs. Wofford?** Military Appreciation: a gray and white camo helmet with the Ole Miss script in stars and stripes, navy jersey, gray pants.
 - **What is Tennessee wearing vs. LSU?** Home threads: white helmet, orange jersey, white pants.
 - **What is Washington wearing vs. Indiana?** "Husky Heritage": gold helmet with a purple and white center stripe, purple jersey with white numbers, gold pants.
+- **What is Arizona State wearing vs. Oklahoma State?** The Roses &amp; Devils 1986 Rose Bowl throwback: gold helmet with the full-body Sparky, maroon jersey, gold pants.
 - **What is Oregon wearing at Michigan State?** Yellow helmet with green wings, white jersey, yellow pants.
 
 ## Every Uniform Announced for Week 12
@@ -50,7 +51,9 @@ Below is every uniform announced so far, then every game this week involving an 
 - **Tennessee: home threads (Confirmed).** White helmet with the orange Power T, orange jersey, white pants, vs. LSU. Posted November 19.
 - **Virginia: navy, navy (Confirmed).** Navy helmet with the V-sabre logo, navy jersey with white numbers outlined in orange, vs. North Carolina. Posted November 18 as "Rivalry threads."
 
-That is the list as of Thursday afternoon, November 19. Arizona State's Roses &amp; Devils throwback (gold helmet with the full-body Sparky, maroon jersey, gold pants) has been reported by the ASU Devils site on On3 for the home finale against Oklahoma State, but Arizona State has not posted it, so we list it as reported, not confirmed. Schools post their combinations from Monday through Saturday morning, and we add each one here.
+- **Arizona State: Roses &amp; Devils throwback (Confirmed).** Gold helmet with the full-body Sparky decal and a maroon and white center stripe, maroon jersey with ARIZONA STATE in white block letters and gold numbers, gold pants, vs. Oklahoma State for homecoming. It is the 1986 look the Sun Devils wore to win the 1987 Rose Bowl, in its first game. Posted November 19 as "Game 11 Uniforms vs Oklahoma State." [The throwback, graded](/stories/arizona-state-throwback-uniforms-2026).
+
+That is the list as of Friday, November 20. Schools post their combinations from Monday through Saturday morning, and we add each one here.
 
 ## Games of the Week
 
@@ -442,7 +445,12 @@ Also in the afternoon: Missouri State at Jacksonville State (2 p.m., ESPN+), Mid
 
 **[Oklahoma State](/stories/oklahoma-state-uniform-schedule-2026) at [Arizona State](/stories/arizona-state-uniform-schedule-2026)**, 10:15 p.m., ESPN.
 - Oklahoma State: **Expected**, white.
-- Arizona State: **Expected**, maroon. **Reported**, not confirmed: the ASU Devils site on On3 says Arizona State will wear the Roses &amp; Devils 1986 throwback (gold helmet with the full-body Sparky, maroon jersey, gold pants) to close its home schedule. Arizona State has not posted it as of Thursday. [The throwback, graded](/stories/arizona-state-throwback-uniforms-2026).
+- Arizona State: **Confirmed**, the Roses &amp; Devils 1986 Rose Bowl throwback: gold helmet with the full-body Sparky, maroon jersey with ARIZONA STATE in white block letters, gold pants, for homecoming. [The throwback, graded](/stories/arizona-state-throwback-uniforms-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ASUFootball/status/2123566994897125483"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Arizona State's Roses &amp; Devils Threads, via <a href="https://x.com/ASUFootball" target="_blank" rel="noopener">@ASUFootball</a></p>
 
 **[Utah State](/stories/utah-state-uniform-schedule-2026) at [Oregon State](/stories/oregon-state-uniform-schedule-2026)**, 10:30 p.m., CBSSN.
 - Utah State: **Expected**, white.

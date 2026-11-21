@@ -2,7 +2,7 @@
 title: "Arizona State's 'Roses & Devils' Throwback Uniforms Are the Best Jersey Reveal of the College Football Offseason"
 category: "College"
 date: "2026-08-15"
-updatedDate: "2026-09-12"
+updatedDate: "2026-11-20"
 excerpt: "Arizona State and adidas brought back the 1987 Rose Bowl look, 40 years on: gold Sparky helmet, maroon jersey, gold pants. We grade the full uniform."
 gradient: "linear-gradient(135deg, #8C1D40 0%, #5c132a 55%, #FFC627 130%)"
 coverImage: "/images/posts/arizona-state-throwback-uniforms-2026/cover.jpg"
@@ -14,6 +14,13 @@ teams: ["arizona-state-sun-devils"]
 
 <img src="/images/posts/arizona-state-throwback-uniforms-2026/helmet.jpg" alt="Arizona State 2026 Roses and Devils throwback uniform, a gold helmet with the full body Sparky pitchfork devil decal, white facemask, and a maroon jersey with white and gold shoulder stripes" style="width: 120%; max-width: 120%; margin-left: -10%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via Sun Devil Football / adidas</p>
+
+**Update, November 20: Arizona State wears the Roses &amp; Devils throwback this Saturday, November 21, against Oklahoma State in Tempe**, its homecoming game, at 10:15 p.m. Eastern on ESPN. The school posted "Game 11 Uniforms vs Oklahoma State" on Thursday night and a "Roses &amp; Devils Threads" photo set an hour later, with a player reading a "Rose Bowl '87" newspaper. The photos show the full uniform: a **gold helmet with the full-body Sparky decal, a maroon and white center stripe and a white facemask**, a **maroon jersey with ARIZONA STATE in white block letters, gold numbers and white and gold sleeve stripes**, and **gold pants with a maroon and white stripe**. It is the first time the throwback has been worn in a game. Confirmed by Arizona State.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ASUFootball/status/2123566994897125483"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Arizona State's Roses &amp; Devils game photos, via <a href="https://x.com/ASUFootball" target="_blank" rel="noopener">@ASUFootball</a></p>
 
 Arizona State posted two words on Saturday morning, "Roses & Devils," and then showed the uniform. Anyone who remembers Arizona State's only trip to the top of the Pac-10 knew immediately what it was. This is the 1986 look, the uniform the Sun Devils wore to beat Michigan in the Rose Bowl on New Year's Day 1987, brought back for the 40th anniversary of that season, and it is the best throwback jersey any program has put out this offseason.
 
@@ -104,7 +111,7 @@ The full-body cartoon devil leaning on a pitchfork, rather than the pitchfork-on
 
 **When will Arizona State wear the "Roses & Devils" throwback uniforms?**
 
-Arizona State has not announced the game as of August 15, 2026. We will update this post when the school sets a date.
+Saturday, November 21, 2026, against Oklahoma State in Tempe, Arizona State's homecoming game and its final home game of the regular season. Arizona State confirmed it on X on November 19 with its "Game 11 Uniforms vs Oklahoma State" post.
 
 **What grade do Arizona State's throwback uniforms get?**
 

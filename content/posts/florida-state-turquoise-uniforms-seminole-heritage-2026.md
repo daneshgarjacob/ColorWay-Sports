@@ -3,7 +3,7 @@ title: "Florida State Will Wear Turquoise Uniforms For The First Time: The Semin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-15"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-20"
 excerpt: "Florida State football will wear turquoise uniforms in a game for the first time on Saturday, November 21, against NC State, for its Seminole Heritage game. What the turquoise means, where it came from, why FSU kept it in the locker room for three years, and our grade: A+."
 gradient: "linear-gradient(135deg, #0f6f73 0%, #1f9e9a 55%, #782F40 130%)"
 cardStyle: words
@@ -52,7 +52,7 @@ When a few FSU players wore the turquoise jerseys in the April 20, 2024 spring s
 
 ## Where The Turquoise Comes From
 
-Turquoise at Florida State starts with basketball. The men's team first wore turquoise in an 89-61 win over UT-Martin in Tallahassee on November 17, 2013, and it has worn the jerseys every season since, always for a game in November, which is Native American Heritage Month. They are part of Nike's N7 program, created in 2009 to support sport in Native American and Indigenous communities. Florida State is one of a handful of schools that wears the N7 basketball jerseys every year, and the soccer team added turquoise goalkeeper jerseys in 2022.
+Turquoise at Florida State starts with basketball. The men's team first wore turquoise in an 89-61 win over UT-Martin in Tallahassee on November 17, 2013, and it has worn the jerseys every season since, always for a game in November, which is Native American Heritage Month. They are part of Nike's N7 program, created in 2009 to support sport in Native American and Indigenous communities. Florida State is one of a handful of schools that wears the N7 basketball jerseys every year, and the soccer team added turquoise goalkeeper jerseys in 2022. This year the basketball team wore turquoise on Friday, November 20, against Green Bay, the day before the football debut: [Florida State basketball's turquoise uniforms](/stories/florida-state-basketball-turquoise-uniforms-2026).
 
 Football games that feature turquoise are now called **Seminole Heritage Games**. FSU says part of the money from Seminole Heritage merchandise goes to its Native American and Indigenous Studies Center.
 
