@@ -2,7 +2,7 @@
 title: "Bills Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Bills uniform schedule 2026, week by week: two Nickel City games, Cold Front vs. Miami, the red alternate finale and the red helmet on Christmas Day."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,8 @@ teams: ["buffalo-bills"]
 ---
 
 Most teams dribble their uniform news out one week at a time. The Bills did the opposite: ahead of the Return of Blue & Red scrimmage at the new Highmark Stadium, they published the jersey they will wear for every single 2026 home game at once. That means the Buffalo half of this schedule is confirmed, not projected, and it answers the question people actually search for. The new gray **Nickel City** set goes twice, the all-white **Cold Front** Rivalries uniform gets Salute to Service against Miami, the **red alternate** closes the season, and the blue primary carries the other four. Buffalo has since added the road half of the story too: the **red helmet** returns on Christmas Day at Denver. Here is the full Bills 2026 uniform schedule, week by week.
+
+**Update, November 21:** the Bills will retire Andre Reed's No. 83 during the 2027 season, announced November 19. It is the fourth retired number in team history, after Jim Kelly's 12, Thurman Thomas' 34 and Bruce Smith's 78. [Every retired Bills number](/stories/bills-retire-andre-reed-number-83-2027).
 
 **Update, November 4:** Buffalo confirmed its Week 9 look at Minnesota on Monday Night Football: **white helmet, white jersey, white pants** with blue socks, from the team's "Monday Night Threads" uniform graphic.
 

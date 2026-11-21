@@ -3,7 +3,7 @@ title: "Commanders Will Wear The Hail Raiser Vs. Bengals On Monday Night Footbal
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-17"
+updatedDate: "2026-11-21"
 excerpt: "The Commanders wear the all-black Hail Raiser for the first time against the Bengals on Monday Night Football, November 23, at home: the black helmet with the Spear W, a black jersey with burgundy numbers outlined in gold, and black pants. The Bengals have confirmed orange helmets, white jerseys and white pants. Every detail, the second date and our grade."
 gradient: "linear-gradient(135deg, #0b0b0d 0%, #3a0d0d 60%, #FFB612 130%)"
 coverImage: "/images/posts/commanders-reveal-2026/HF852oPWoAADrja.jpg"
@@ -27,6 +27,13 @@ teams: ["washington-commanders", "cincinnati-bengals"]
 </div>
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Commanders' 2026 jersey schedule, announced July 16, via <a href="https://x.com/Commanders" target="_blank" rel="noopener">@Commanders</a></p>
+
+**Update, Nov. 21:** the Commanders revealed the field for Monday night, with a giant black Hail Raiser helmet painted on the grass in white outline and the Spear W in burgundy and gold. [Every detail of the field](/stories/commanders-monday-night-football-field-hail-raiser-helmet-bengals-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2124193208523526502"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The MNF field reveal, via <a href="https://x.com/Commanders" target="_blank" rel="noopener">@Commanders</a></p>
 
 ## Quick Answers
 

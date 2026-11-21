@@ -3,7 +3,7 @@ title: "Special Uniforms This Weekend: Every Alternate, Throwback And One-Time L
 author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-11-19"
-updatedDate: "2026-11-20"
+updatedDate: "2026-11-21"
 excerpt: "Every special uniform this weekend, Nov. 20-23: Florida State's first turquoise game, Miami's camo, UCF's Knights script helmet, the Bills' all-white Cold Front, the Commanders' black Hail Raiser debut on Monday night, the Pacers' and Nets' ABA throwbacks, seven NHL Hometown Remix teams and the Maine Celtics' L.L.Bean camo. Who, when, what it looks like and our grade."
 gradient: "linear-gradient(135deg, #0B1F4A 0%, #0f6f73 60%, #5A1414 130%)"
 cardStyle: words
@@ -279,6 +279,8 @@ Five teams wear their Hometown Remix sweaters on Saturday, each on the Remix sch
 ### Washington Commanders: The Hail Raiser Debut Vs. Cincinnati
 
 **Monday, 8:15 p.m. ET, ESPN. Confirmed.** The **Hail Raiser** plays its first game: a **black helmet** with the Spear W logo, a **black jersey** with burgundy block numbers outlined in gold and gold and burgundy sleeve stripes, and **black pants**. Washington gave it two dates this season, both home night games, this one and Week 15 against Atlanta. Cincinnati confirmed its striped orange helmet, white jersey and white pants. Our grade for the Hail Raiser: **A**, the best uniform Washington owns. Matchup grade: **A-**. [Every Commanders jersey ranked](/stories/commanders-jerseys-2026-ranked).
+
+**Update, Nov. 21:** the field matches. The Commanders' "MNF field reveal" video shows a giant black helmet painted on the grass, outlined in white with the Spear W in burgundy and gold. [The field, frame by frame](/stories/commanders-monday-night-football-field-hail-raiser-helmet-bengals-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2044415206416080901"></a></blockquote>
