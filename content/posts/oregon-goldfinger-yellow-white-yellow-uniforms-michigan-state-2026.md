@@ -21,6 +21,8 @@ teams: ["oregon-ducks", "michigan-state-spartans", "big-ten"]
 
 **Oregon is going yellow, white and yellow for Friday night in East Lansing.** The Ducks posted their uniform for Michigan State on Wednesday evening, November 18, as "The Friday fit. Game 11 uniform combo." It is a **yellow helmet with green wings, a white jersey with green numbers and yellow pants**. Kickoff at Spartan Stadium is **Friday, November 20, at 8 p.m. Eastern (5 p.m. Pacific) on FOX**.
 
+**Update, November 20:** Worn as announced, confirmed from Oregon's game photos: yellow helmet with green wings, white jersey and yellow pants. Michigan State wore a **black helmet, black jersey and black pants** for Senior Day. **Final: Oregon 45, Michigan State 7.**
+
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/oregonfootball/status/2123219708757286969"></a></blockquote>
 </div>
@@ -73,6 +75,8 @@ It loses a little for being familiar. Oregon has worn some version of yellow-whi
 
 Michigan State has not posted its uniform yet. It is a Friday night home game, and the Spartans are **expected in green** at home. The alternate we are watching for is Michigan State's black set, which first appeared as the all-black Shadow uniform in 2023. Green against Oregon's white and yellow would put both teams' shades of green on the same field. Every Michigan State game is in our [Michigan State 2026 uniform schedule](/stories/michigan-state-uniform-schedule-2026).
 
+**What Michigan State wore:** the black set. The Spartans came out in a **black helmet, black jersey and black pants** for Senior Day, confirmed from both schools' game photos, so it was yellow and white against black, not green against green.
+
 ## Oregon at Michigan State: Game Info
 
 - **Date:** Friday, November 20, 2026
@@ -113,7 +117,7 @@ FOX.
 The Big Ten scheduled Oregon at Michigan State as a Friday night game on FOX. It is one of two Friday night home games on Michigan State's 2026 schedule.
 
 **What is Michigan State wearing against Oregon?**
-Michigan State has not announced it. Green is expected at home, with the black alternate the one to watch for a Friday night game.
+Michigan State wore a black helmet, black jersey and black pants for Senior Day. Oregon won 45-7.
 
 **When did Oregon last play at Michigan State?**
 2015. Friday is Oregon's first game in East Lansing since then.

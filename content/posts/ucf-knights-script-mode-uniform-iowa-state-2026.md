@@ -16,6 +16,8 @@ teams: ["ucf-knights", "iowa-state-cyclones", "big-12"]
 
 The game is **Friday, November 20, at 6 p.m. Eastern on FS1**, at the Acrisure Bounce House in Orlando. It is UCF's last home game of the season.
 
+**Update, November 20:** Worn as posted, confirmed from the game broadcast: black helmet with the gold Knights script, black jersey, black pants. Iowa State wore its cardinal Cyclones script helmet, a white jersey and cardinal pants. **Final: UCF 48, Iowa State 17.** Alonza Barnett threw four touchdown passes, three of them to Josh Derry, and the win made UCF bowl eligible.
+
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Equipment/status/2123491570401816652"></a></blockquote>
 </div>
@@ -94,7 +96,7 @@ Yes. It is UCF's last home game of the season and its Senior Knight.
 
 **What is Iowa State wearing at UCF?**
 
-The cardinal Cyclones script helmet with a white facemask and a white jersey with IOWA STATE in cardinal, posted by Iowa State on November 19 as "bounce house threads." The pants are not shown in the video.
+The cardinal Cyclones script helmet with a white facemask and a white jersey with IOWA STATE in cardinal, posted by Iowa State on November 19 as "bounce house threads." The pants are not shown in the video. In the game, Iowa State wore cardinal pants.
 
 **What is Knightmode?**
 

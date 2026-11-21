@@ -3,7 +3,7 @@ title: "UCF Uniform Schedule 2026: Every Jersey and When the Knights Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-20"
 excerpt: "What UCF wears every game in 2026: Knights Script Mode for Senior Knight vs. Iowa State (black helmet with the gold Knights script, black jersey, black pants), the Knightmode and Lightmode sets, the Space Game alternate and every week's combination."
 gradient: "linear-gradient(135deg, #000000 0%, #2a2a2a 55%, #BA9B37 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 UCF has three helmets, two jerseys, three pants and a Thursday tradition of telling everyone exactly which ones are coming. This is the full UCF 2026 uniform schedule: the black home set the Knights call Knightmode, the all-white Lightmode road look, the Space Game alternate that lands on Halloween weekend, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 20:** UCF wore Knights Script Mode for Senior Knight, confirmed from the game broadcast, and beat Iowa State **48-17** to become bowl eligible. Iowa State wore a cardinal helmet, white jersey and cardinal pants.
 
 **Update, November 19:** UCF's look for Senior Knight against Iowa State on Friday, November 20, is **Knights Script Mode**: a **black helmet with the gold Knights script** and gold stripes, a **black jersey** and **black pants**. It is the first time the script helmet has been out in 2026. Posted by UCF Equipment as "Introducing: Knights Script Mode" and by the football account as "Stormy Knights." [Every detail](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
 
@@ -45,7 +47,7 @@ The current jerseys arrived in June 2025, and the number font is the reason to c
   <div style="background: #10213f; color: #ffffff; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Space Game</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Black</div></div>
-  <div style="background: #000000; color: #ffffff; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Knights Script Mode</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #BA9B37; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Knights Script Mode</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -111,7 +113,7 @@ Kickoff is 7 p.m. Eastern on Family Weekend, Georgia State is the visitor and wi
 
 **November 14 vs. Arizona State.** Black expected, with Arizona State in white. More: [Arizona State schedule](/stories/arizona-state-uniform-schedule-2026). **Worn: gold helmet, black jersey and black pants with gold star details**, confirmed from the game broadcast. **Final: Arizona State 26, UCF 13.**
 
-**November 20 vs. Iowa State.** Senior Knight, a Friday night, 6 p.m. Eastern on FS1, and the last home game of the year. Confirmed by UCF: **Knights Script Mode**, a **black helmet with the Knights script in gold** and gold center stripes, a **black jersey** and **black pants**. UCF Equipment posted it on Thursday, November 19, as "Introducing: Knights Script Mode ⬛️⬛️⬛️" with a Game 11 DRIP U graphic, and the football account followed with a helmet video captioned "Stormy Knights." The graphic's detail panels show gold Polaris stars on black, and the helmet video shows the Walt Disney World decal on the back. It is the first time this season UCF has swapped the stacked UCF logo for the script; the school first put the Knights script on a football helmet in 2021, against Bethune-Cookman. Black was our projection, so the colors held and the helmet logo is the news. Iowa State is expected in white. [Every detail of Knights Script Mode](/stories/ucf-knights-script-mode-uniform-iowa-state-2026). More: [Iowa State schedule](/stories/iowa-state-uniform-schedule-2026) and the [Week 12 college uniform guide](/stories/college-football-week-12-uniforms-2026).
+**November 20 vs. Iowa State.** Senior Knight, a Friday night, 6 p.m. Eastern on FS1, and the last home game of the year. Confirmed by UCF: **Knights Script Mode**, a **black helmet with the Knights script in gold** and gold center stripes, a **black jersey** and **black pants**. UCF Equipment posted it on Thursday, November 19, as "Introducing: Knights Script Mode ⬛️⬛️⬛️" with a Game 11 DRIP U graphic, and the football account followed with a helmet video captioned "Stormy Knights." The graphic's detail panels show gold Polaris stars on black, and the helmet video shows the Walt Disney World decal on the back. It is the first time this season UCF has swapped the stacked UCF logo for the script; the school first put the Knights script on a football helmet in 2021, against Bethune-Cookman. Black was our projection, so the colors held and the helmet logo is the news. Iowa State is expected in white. [Every detail of Knights Script Mode](/stories/ucf-knights-script-mode-uniform-iowa-state-2026). More: [Iowa State schedule](/stories/iowa-state-uniform-schedule-2026) and the [Week 12 college uniform guide](/stories/college-football-week-12-uniforms-2026). **Worn: Knights Script Mode, black helmet with the gold Knights script, black jersey, black pants**, confirmed from the game broadcast. Iowa State wore a cardinal helmet, white jersey and cardinal pants. **Final: UCF 48, Iowa State 17.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Equipment/status/2123491570401816652"></a></blockquote>
@@ -135,7 +137,7 @@ Six games in, UCF had already shown all three helmets and both jerseys, added go
 
 **What jersey is UCF wearing this week?**
 
-UCF wore the gold helmet, black jersey and black pants with gold star details against Arizona State on Saturday, November 14, confirmed from the game broadcast, and lost 26-13. The week before, UCF won 33-32 at Kansas in a white jersey and black pants. Next is Iowa State at home on Friday, November 20, Senior Knight, and UCF has confirmed Knights Script Mode: a black helmet with the gold Knights script, black jersey and black pants.
+UCF wore Knights Script Mode for Senior Knight against Iowa State on Friday, November 20: a black helmet with the gold Knights script, black jersey and black pants, confirmed from the game broadcast. UCF won 48-17 to become bowl eligible. The week before, UCF wore the gold helmet, black jersey and black pants with gold star details against Arizona State and lost 26-13. Next is the regular season finale at Colorado on November 28, where white is expected.
 
 **What is Knights Script Mode?**
 

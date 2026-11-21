@@ -25,8 +25,8 @@ Thursday night is already covered: the Texans debut the white-helmet HOUSTON/US 
 
 | Team | Day | Look | Grade |
 |---|---|---|---|
-| UCF | Fri | Knights Script Mode: black helmet with gold Knights script, black jersey, black pants | C |
-| Oregon | Fri | Yellow helmet with green wings, white jersey, yellow pants | A- |
+| UCF | Fri | Knights Script Mode: black helmet with gold Knights script, black jersey, black pants. Won 48-17 vs. Iowa State | C |
+| Oregon | Fri | Yellow helmet with green wings, white jersey, yellow pants. Won 45-7 at Michigan State | A- |
 | [Florida State basketball](/stories/florida-state-basketball-turquoise-uniforms-2026) | Fri | Turquoise for the Seminole Heritage game: turquoise jersey with garnet SEMINOLES, garnet and cream side panels, N7 shoes. Won 87-63 vs. Green Bay | A- |
 | Red Deer Rebels (WHL) | Fri | 1992 retro: black, white and grey with the original script | None yet |
 | Florida State | Sat | First turquoise game: gold helmet, turquoise jersey, turquoise pants | A+ |
@@ -59,7 +59,7 @@ Grades are for the uniform unless the row says matchup. NHL Remix sweaters witho
 
 ### UCF: Knights Script Mode Vs. Iowa State
 
-**Friday, 6 p.m. ET, FS1. Confirmed.** UCF wears a **black helmet with the Knights script in gold** and gold center stripes, a **black jersey** and **black pants** for Senior Knight against Iowa State. UCF Equipment posted it on Thursday as "Introducing: Knights Script Mode." Iowa State answers in its regular road look, confirmed in its "bounce house threads" video: the **cardinal Cyclones script helmet** with a white facemask and a **white jersey** with IOWA STATE in cardinal. Our grade: **C**. [Knights Script Mode, explained and graded](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
+**Friday, 6 p.m. ET, FS1. Confirmed.** UCF wears a **black helmet with the Knights script in gold** and gold center stripes, a **black jersey** and **black pants** for Senior Knight against Iowa State. UCF Equipment posted it on Thursday as "Introducing: Knights Script Mode." Iowa State answers in its regular road look, confirmed in its "bounce house threads" video: the **cardinal Cyclones script helmet** with a white facemask and a **white jersey** with IOWA STATE in cardinal. Our grade: **C**. [Knights Script Mode, explained and graded](/stories/ucf-knights-script-mode-uniform-iowa-state-2026). **Final: UCF 48, Iowa State 17.** Both teams wore their looks as posted, confirmed from the game broadcast, and Iowa State paired its white jersey with cardinal pants.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Equipment/status/2123491570401816652"></a></blockquote>
@@ -68,7 +68,7 @@ Grades are for the uniform unless the row says matchup. NHL Remix sweaters witho
 
 ### Oregon: Yellow, White, Yellow At Michigan State
 
-**Friday, 8 p.m. ET, FOX. Confirmed.** Oregon wears a **yellow helmet with green wings**, a **white jersey with green numbers trimmed in yellow** and **yellow pants**. The Ducks posted it on Wednesday as "The Friday fit. Game 11 uniform combo." Michigan State is expected in green. Our grade: **A-**. [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
+**Friday, 8 p.m. ET, FOX. Confirmed.** Oregon wears a **yellow helmet with green wings**, a **white jersey with green numbers trimmed in yellow** and **yellow pants**. The Ducks posted it on Wednesday as "The Friday fit. Game 11 uniform combo." Michigan State was expected in green. Our grade: **A-**. [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026). **Final: Oregon 45, Michigan State 7.** Oregon wore it as posted, confirmed from the team's game photos, and Michigan State went all black for Senior Day: black helmet, black jersey, black pants.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/oregonfootball/status/2123219708757286969"></a></blockquote>
@@ -355,7 +355,7 @@ Its Military Appreciation uniform: a gray and white camo helmet with the Ole Mis
 
 **What is UCF wearing against Iowa State?**
 
-Knights Script Mode: a black helmet with the gold Knights script, a black jersey and black pants, for Senior Knight on Friday at 6 p.m. ET on FS1. Iowa State wears its cardinal Cyclones script helmet and a white jersey.
+Knights Script Mode: a black helmet with the gold Knights script, a black jersey and black pants, for Senior Knight on Friday at 6 p.m. ET on FS1. Iowa State wears its cardinal Cyclones script helmet and a white jersey. UCF won 48-17.
 
 **What is TCU wearing against Utah?**
 

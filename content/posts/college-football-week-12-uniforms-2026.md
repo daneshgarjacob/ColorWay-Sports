@@ -24,14 +24,14 @@ Below is every uniform announced so far, then every game this week involving an 
 - **What is Kentucky wearing at Missouri?** Blue helmet, white jersey, blue pants.
 - **What is Georgia wearing at South Carolina?** Expected: red helmet, white jersey, silver pants, its road set this season.
 - **What is Miami wearing vs. Virginia Tech?** Digital camo for Military Appreciation night: black helmet with a camo U, camo jersey with black numbers, black pants. Last year's version had olive pants.
-- **What is UCF wearing vs. Iowa State?** Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants.
-- **What is Iowa State wearing at UCF?** The cardinal Cyclones script helmet and a white jersey, from the team's "bounce house threads" video.
+- **What did UCF wear vs. Iowa State?** Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants. UCF won 48-17.
+- **What did Iowa State wear at UCF?** The cardinal Cyclones script helmet, a white jersey and cardinal pants.
 - **What is TCU wearing vs. Utah?** Purple helmet, black jersey, purple pants, for its home finale.
 - **What is Ole Miss wearing vs. Wofford?** Military Appreciation: a gray and white camo helmet with the Ole Miss script in stars and stripes, navy jersey, gray pants.
 - **What is Tennessee wearing vs. LSU?** Home threads: white helmet, orange jersey, white pants.
 - **What is Washington wearing vs. Indiana?** "Husky Heritage": gold helmet with a purple and white center stripe, purple jersey with white numbers, gold pants.
 - **What is Arizona State wearing vs. Oklahoma State?** The Roses &amp; Devils 1986 Rose Bowl throwback: gold helmet with the full-body Sparky, maroon jersey, gold pants.
-- **What is Oregon wearing at Michigan State?** Yellow helmet with green wings, white jersey, yellow pants.
+- **What did Oregon wear at Michigan State?** Yellow helmet with green wings, white jersey, yellow pants. Michigan State wore all black, and Oregon won 45-7.
 
 ## Every Uniform Announced for Week 12
 
@@ -41,11 +41,11 @@ Below is every uniform announced so far, then every game this week involving an 
 - **Liberty: navy helmet, all red below (Confirmed).** Navy helmet with the Sparky logo, red jersey with the Flames script, red pants, vs. Western Kentucky. Posted November 18 with the caption 🔵🔴🔴.
 - **Florida: orange, blue, white (Confirmed, from its published grid).** Orange helmet, blue jersey, white pants, vs. Vanderbilt, from the season uniform schedule Florida published in August.
 - **Maryland: Script Shift (Confirmed).** All white, helmet, jersey and pants, with the Terps script and numbers in an iridescent gold, black and red finish, at No. 18 USC. Announced November 18, the set's first game since the 2024 debut at Oregon. [Details](/stories/maryland-script-shift-uniforms-return-usc-2026).
-- **Oregon: yellow, white, yellow (Confirmed).** Yellow helmet with green wings, white jersey with green numbers trimmed in yellow, yellow pants, at Michigan State on Friday night. Posted November 18 as the "Game 11 uniform combo." [Details and history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
+- **Oregon: yellow, white, yellow (Confirmed).** Yellow helmet with green wings, white jersey with green numbers trimmed in yellow, yellow pants, at Michigan State on Friday night. Posted November 18 as the "Game 11 uniform combo." [Details and history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026). Worn as posted; Oregon won 45-7.
 - **Washington: Husky Heritage (Confirmed).** Gold helmet with a purple and white center stripe and DAWGS on the front bumper, purple jersey with white numbers, gold pants, vs. No. 6 Indiana. Posted November 18 as "Game 11 Uniform • Husky Heritage Saturday."
 - **Miami: digital camo, Military Appreciation (Confirmed).** Black helmet with a digital camo U, digital camo jersey with black numbers, black pants, digital camo cleats, vs. Virginia Tech. Posted November 19 as "A tribute to our nation's heroes." It is the camo set Miami wore against Stanford in 2025, when the pants were olive green. [2025 vs. 2026, side by side](/stories/miami-hurricanes-military-appreciation-camo-uniforms-2026).
-- **UCF: Knights Script Mode (Confirmed).** Black helmet with the Knights script in gold and gold center stripes, black jersey, black pants, vs. Iowa State on Friday for Senior Knight. Posted November 19 by UCF Equipment as "Introducing: Knights Script Mode" and by the football account as "Stormy Knights." [Details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
-- **Iowa State: Cyclones helmet, white jersey (Confirmed).** Cardinal helmet with the white Cyclones script outlined in gold and a white and gold center stripe, white facemask, white jersey with IOWA STATE in cardinal, at UCF on Friday. Posted November 19 as "bounce house threads." The video does not show the pants.
+- **UCF: Knights Script Mode (Confirmed).** Black helmet with the Knights script in gold and gold center stripes, black jersey, black pants, vs. Iowa State on Friday for Senior Knight. Posted November 19 by UCF Equipment as "Introducing: Knights Script Mode" and by the football account as "Stormy Knights." [Details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026). Worn as posted; UCF won 48-17.
+- **Iowa State: Cyclones helmet, white jersey (Confirmed).** Cardinal helmet with the white Cyclones script outlined in gold and a white and gold center stripe, white facemask, white jersey with IOWA STATE in cardinal, at UCF on Friday. Posted November 19 as "bounce house threads." In the game Iowa State wore cardinal pants.
 - **TCU: purple, black, purple (Confirmed).** Glossy purple helmet with TCU in white block letters over the horned frog, black jersey with white numbers trimmed in purple, purple pants, vs. No. 2 Utah for the home finale. Posted November 20 as "🟪 & ⬛️ under The Carter's lights." [Details and grade](/stories/tcu-purple-helmet-black-jersey-purple-pants-utah-2026).
 - **Ole Miss: Military Appreciation (Confirmed).** Gray and white camo helmet with the Ole Miss script filled in stars and stripes and REBS on the front bumper, navy jersey with white numbers, gray pants with a red stripe, vs. Wofford. Posted November 19 as "Military Appreciation Threads." The field gets a stars and stripes logo at midfield and red, white and blue end zones. Our grade: **B**. [Every detail](/stories/ole-miss-military-appreciation-uniform-flag-helmet-wofford-2026).
 - **Tennessee: home threads (Confirmed).** White helmet with the orange Power T, orange jersey, white pants, vs. LSU. Posted November 19.
@@ -209,8 +209,9 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 ### Friday, November 20
 
 **[Iowa State](/stories/iowa-state-uniform-schedule-2026) at [UCF](/stories/ucf-uniform-schedule-2026)**, 6 p.m., FS1.
-- Iowa State: **Confirmed**, cardinal Cyclones script helmet, white jersey, from the team's "bounce house threads" video on November 19. The pants are not shown.
-- UCF: **Confirmed**, Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants, for Senior Knight. Posted November 19. [Details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
+- **Final: UCF 48, Iowa State 17.**
+- Iowa State: **Worn**, cardinal Cyclones script helmet, white jersey, cardinal pants, from the game broadcast. The team's "bounce house threads" video on November 19 showed the helmet and jersey.
+- UCF: **Worn**, Knights Script Mode as posted: black helmet with the gold Knights script, black jersey, black pants, for Senior Knight, from the game broadcast. [Details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CycloneFB/status/2123546464437596210"></a></blockquote>
@@ -228,20 +229,25 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">"Stormy Knights," via <a href="https://x.com/UCF_Football" target="_blank" rel="noopener">@UCF_Football</a></p>
 
 **[Clemson](/stories/clemson-uniform-schedule-2026) at [Duke](/stories/duke-uniform-schedule-2026)**, 7:30 p.m., ESPN.
+- **Final: Clemson 20, Duke 10.**
 - Clemson: **Expected**, white.
 - Duke: **Expected**, blue, with a drone show at Wallace Wade Stadium.
 
 **Bowling Green at [Toledo](/stories/toledo-uniform-schedule-2026)**, 7:30 p.m., ESPN2.
+- **Final: Toledo 19, Bowling Green 0.**
 - Toledo: **Expected**, blue, for the Battle of I-75.
 
 **No. 14 [Oregon](/stories/oregon-uniform-schedule-2026) at [Michigan State](/stories/michigan-state-uniform-schedule-2026)**, 8 p.m., FOX.
-- Oregon: **Confirmed**, yellow helmet with green wings, white jersey with green numbers, yellow pants. Posted November 18. [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
-- Michigan State: **Expected**, green.
+- **Final: Oregon 45, Michigan State 7.**
+- Oregon: **Worn**, yellow helmet with green wings, white jersey with green numbers, yellow pants, as posted November 18, confirmed from the team's game photos. [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
+- Michigan State: **Worn**, all black for Senior Day: black helmet, black jersey, black pants, from both schools' game photos. Green had been expected.
 
 **UTEP at [Air Force](/stories/air-force-uniform-schedule-2026)**, 8 p.m., The CW.
+- **Final: Air Force 52, UTEP 3.**
 - Air Force: **Expected**, blue, for its last home game.
 
 **New Mexico at [Wyoming](/stories/wyoming-uniform-schedule-2026)**, 9 p.m., FS1.
+- **Final: New Mexico 24, Wyoming 17.**
 - Wyoming: **Expected**, brown.
 
 ### Saturday, November 21: Noon Window
@@ -497,7 +503,7 @@ Miami is wearing its digital camo Military Appreciation uniform: a black helmet 
 
 **What is UCF wearing vs. Iowa State?**
 
-Knights Script Mode: a black helmet with the Knights script in gold, a black jersey and black pants, posted by UCF Equipment on November 19 for Senior Knight on Friday, 6 p.m. Eastern on FS1. Iowa State answers with its cardinal Cyclones script helmet and a white jersey.
+Knights Script Mode: a black helmet with the Knights script in gold, a black jersey and black pants, posted by UCF Equipment on November 19 for Senior Knight on Friday, 6 p.m. Eastern on FS1. Iowa State answers with its cardinal Cyclones script helmet and a white jersey. UCF won 48-17.
 
 **What is TCU wearing vs. Utah?**
 

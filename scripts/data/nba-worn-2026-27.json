@@ -3189,6 +3189,132 @@
       },
       "confirmed": true,
       "source": "ESPN game photo and highlight frames (Trail Blazers black Icon, Bucks white Association)"
+    },
+    "2026-11-20 CHA@ATL": {
+      "score": {
+        "away": 97,
+        "home": 111
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Hawks black Statement, Hornets white Association; https://www.espn.com/nba/game/_/gameId/401909305)"
+    },
+    "2026-11-20 HOU@DEN": {
+      "score": {
+        "away": 124,
+        "home": 133
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Nuggets royal blue Mile High City Statement, Rockets white Association; NBA Cup; https://www.espn.com/nba/game/_/gameId/401909312)"
+    },
+    "2026-11-20 IND@CLE": {
+      "score": {
+        "away": 119,
+        "home": 128
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Cavaliers black Statement, Pacers white Association; https://www.espn.com/nba/game/_/gameId/401909307)"
+    },
+    "2026-11-20 NOP@OKC": {
+      "score": {
+        "away": 120,
+        "home": 126
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Thunder orange Statement, Pelicans white Association; NBA Cup; https://www.espn.com/nba/game/_/gameId/401909310)"
+    },
+    "2026-11-20 ORL@BKN": {
+      "score": {
+        "away": 113,
+        "home": 111
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Nets black Statement, Magic white pinstripe Association; https://www.espn.com/nba/game/_/gameId/401909306)"
+    },
+    "2026-11-20 PHX@UTA": {
+      "score": {
+        "away": 111,
+        "home": 101
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Jazz black Statement, Suns white Association; NBA Cup; https://www.espn.com/nba/game/_/gameId/401909311)"
+    },
+    "2026-11-20 SAC@LAL": {
+      "score": {
+        "away": 104,
+        "home": 106
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Lakers purple Statement, Kings white Association; NBA Cup; https://www.espn.com/nba/game/_/gameId/401909313)"
+    },
+    "2026-11-20 TOR@DET": {
+      "score": {
+        "away": 105,
+        "home": 102
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Pistons black DET Statement, Raptors white Association; https://www.espn.com/nba/game/_/gameId/401909308)"
+    },
+    "2026-11-20 WAS@CHI": {
+      "score": {
+        "away": 98,
+        "home": 94
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Bulls black pinstripe Statement, Wizards white Association; NBA Cup; https://www.espn.com/nba/game/_/gameId/401909309)"
     }
   }
 }

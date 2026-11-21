@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-20"
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["oregon-ducks", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-**Update, November 18:** Oregon will wear a **yellow helmet with green wings, a white jersey and yellow pants** at Michigan State on Friday, November 20, posted by the team Wednesday as the "Game 11 uniform combo." [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
+**Update, November 20:** Oregon wore its posted combo at Michigan State, a **yellow helmet with green wings, a white jersey and yellow pants**, confirmed from the team's game photos, and won **45-7**. Michigan State wore a black helmet, black jersey and black pants for Senior Day. [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/oregonfootball/status/2123227258077036959"></a></blockquote>
@@ -96,7 +96,7 @@ The season opened with three combinations. **Yellow helmet, green jersey, yellow
 
 **November 14 vs. Michigan.** Green expected. Michigan in Eugene: the most conservative wardrobe in the sport against the least. ★ Confirmed by Oregon: **black helmet with Japanese katakana lettering, black jersey with green numbers, white pants**, the "Game 10 uniform combo" posted November 11, and the team's arrival photos show the black helmet and black jersey. **Final: Oregon 31, Michigan 7.**
 
-**Friday, November 20 at Michigan State.** ★ Confirmed by Oregon: **yellow helmet with green wings, white jersey with green numbers trimmed in yellow, yellow pants**, posted November 18 as the "Game 11 uniform combo." It is the first time the yellow pants have been out since the Boise State opener. An 8 p.m. Eastern Friday night kickoff in East Lansing on FOX. [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026).
+**Friday, November 20 at Michigan State.** ★ Confirmed by Oregon: **yellow helmet with green wings, white jersey with green numbers trimmed in yellow, yellow pants**, posted November 18 as the "Game 11 uniform combo." It is the first time the yellow pants have been out since the Boise State opener. An 8 p.m. Eastern Friday night kickoff in East Lansing on FOX. [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026). Worn as posted, confirmed from the team's game photos. Michigan State wore a black helmet, black jersey and black pants. **Final: Oregon 45, Michigan State 7.**
 
 **November 28 vs. Washington.** Green expected. Washington, the rivalry game. Historically one of Oregon's bigger swings.
 
@@ -108,7 +108,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oregon wearing this week?**
 
-Oregon wore a black helmet with Japanese katakana lettering, a black jersey with green numbers and white pants against Michigan at Autzen on Saturday, November 14, the "Game 10 uniform combo" confirmed by Oregon, and won 31-7. Next is Michigan State on the road on Friday, November 20, in a yellow helmet with green wings, a white jersey and yellow pants, confirmed by the team on November 18. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 7 Uniforms 2026](/stories/college-football-week-7-uniforms-2026) guide.
+Oregon wore a yellow helmet with green wings, a white jersey and yellow pants at Michigan State on Friday, November 20, the "Game 11 uniform combo" confirmed from the team's game photos, and won 45-7. Next is Washington at Autzen on November 28, where green is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed. Every other top game this Saturday is in our [College Football Week 7 Uniforms 2026](/stories/college-football-week-7-uniforms-2026) guide.
 
 **What are Oregon's uniforms for 2026?**
 

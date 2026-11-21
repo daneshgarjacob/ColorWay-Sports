@@ -3,7 +3,7 @@ title: "Michigan State Uniform Schedule 2026: Every Jersey and When the Spartans
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-20"
 excerpt: "What Michigan State wears every game in 2026: green home jerseys, the white road set, the Greek key helmet, the black alternate, and the full Spartans uniform schedule."
 gradient: "linear-gradient(135deg, #18453B 0%, #236352 55%, #ffffff 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Michigan State wears green at home and white on the road, but the Spartans reveal a new helmet, jersey and pants combination almost every week, so the base colors are only half the answer. This is the full Michigan State 2026 uniform schedule: the green home set, the white road set, the Greek key helmets, the black alternate, and a week-by-week outlook for all twelve games in Pat Fitzgerald's first season. Six games in, the Spartans have worn green over white pants twice, green head to toe twice, and the white jersey on both road trips. We update this page as each combination is confirmed.
 
-**Update, November 14:** Michigan State wore the **white helmet, green jersey and green pants** against Washington, confirmed from the game broadcast, and lost **21-14**.
+**Update, November 20:** Michigan State wore a **black helmet, black jersey and black pants** for Senior Day against Oregon, confirmed from both schools' game photos, and lost **45-7**.
 
 ## The Michigan State 2026 Uniform Sets
 
@@ -42,7 +42,7 @@ The current Nike set arrived in 2023 and built everything around a Greek key pat
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Green</div></div>
   <div style="background: #18453B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / Green</div></div>
-  <div style="background: #18453B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -74,19 +74,19 @@ The current Nike set arrived in 2023 and built everything around a Greek key pat
 
 **November 14 vs. Washington.** Green expected, with Washington in white. The [Washington 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026) tracks the Huskies. **Worn: white helmet, green jersey, green pants**, confirmed from the game broadcast. **Final: Washington 21, Michigan State 14.**
 
-**November 20 vs. Oregon.** Green expected. A Friday night game at 8 p.m. Eastern on FOX, and Oregon's first trip to East Lansing since 2015. Oregon brings more combinations than anyone in the conference, so check our [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) for the Ducks.
+**November 20 vs. Oregon.** Green expected. A Friday night game at 8 p.m. Eastern on FOX, and Oregon's first trip to East Lansing since 2015. Oregon brings more combinations than anyone in the conference, so check our [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) for the Ducks. ★ Confirmed from both schools' game photos: **black helmet, black jersey, black pants** for Senior Day, the black set we had been watching for. Oregon wore a yellow helmet with green wings, a white jersey and yellow pants. **Final: Oregon 45, Michigan State 7.**
 
 **November 28 at Rutgers.** White expected. The regular season ends at SHI Stadium in Piscataway, kickoff time to be announced.
 
 ## The Bottom Line
 
-Michigan State used the green jersey and the green helmet in its first four home games, over white pants for the opener and Homecoming and twice in the all-green look. The road half of the schedule is predictable: white at Notre Dame, Wisconsin, UCLA, Michigan and Rutgers, with the helmet the only real variable. The home dates are where this program experiments, and after a standard green Homecoming against Illinois, the Friday night Oregon game is the most likely place for the black set or something new. The grid above has every date, and we star each game as the combination is confirmed.
+Michigan State used the green jersey and the green helmet in its first four home games, over white pants for the opener and Homecoming and twice in the all-green look. The road half of the schedule is predictable: white at Notre Dame, Wisconsin, UCLA, Michigan and Rutgers, with the helmet the only real variable. The home dates are where this program experiments, and after a standard green Homecoming against Illinois, the black set finally came out for the Friday night Oregon game on Senior Day. The grid above has every date, and we star each game as the combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Michigan State wearing this week?**
 
-Michigan State wore the white helmet, green jersey and green pants against Washington on Saturday, November 14, confirmed from the game broadcast, and lost 21-14. Next is Oregon at home on Friday, November 20, where green is expected. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
+Michigan State wore a black helmet, black jersey and black pants against Oregon on Friday, November 20, for Senior Day, confirmed from both schools' game photos, and lost 45-7. Next is the regular season finale at Rutgers on November 28, where white is expected. The Spartans post a jersey reveal video before each game, and we star each cell once the full combination is confirmed.
 
 **What are Michigan State's football uniforms for 2026?**
 
@@ -94,7 +94,7 @@ A green home jersey with white numerals and wordmark, a white road jersey with g
 
 **Does Michigan State have a new alternate uniform in 2026?**
 
-Nothing new has been announced. The black alternate that debuted as the all-black Shadow set in 2023 and returned with a white helmet against Boston College in 2025 is the alternate we expect to see. Michigan State stayed in the standard green home set for Homecoming against Illinois on October 10, so the Friday night game against Oregon on November 20 is the date we are watching.
+Nothing new has been announced. The black alternate that debuted as the all-black Shadow set in 2023 and returned with a white helmet against Boston College in 2025 is still the alternate. Michigan State stayed in the standard green home set for Homecoming against Illinois on October 10, then wore it all black, with a black helmet, black jersey and black pants, against Oregon on November 20.
 
 **What did Michigan State wear against Eastern Michigan?**
 
