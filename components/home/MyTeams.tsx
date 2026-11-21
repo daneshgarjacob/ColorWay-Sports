@@ -6,8 +6,9 @@
 // MyTeamsRow shows the followed clubs; TeamPicker is the logo row that adds them.
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useEffect, useState, type CSSProperties } from "react";
 import type { MyTeamCard, MyTeamLeague } from "@/lib/myTeams";
+import { clarityTag, trackEvent } from "@/lib/track";
 
 const KEY = "cw-myteams";
 const EVENT = "cw-myteams-change";
@@ -41,11 +42,40 @@ function useFollowed(): [string[], (id: string) => void] {
   }, []);
   const toggle = (id: string) => {
     const cur = read();
-    const next = cur.includes(id) ? cur.filter((x) => x !== id) : [...cur, id];
+    const removing = cur.includes(id);
+    const next = removing ? cur.filter((x) => x !== id) : [...cur, id];
     setIds(next);
     write(next);
+    // GA4 (11/20): how many readers set up My Teams. Team id only, nothing personal.
+    trackEvent(removing ? "my_teams_remove" : "my_teams_add", {
+      team_id: id,
+      league: id.split(":")[0],
+      team_count: next.length,
+      placement: placementOf(window.location.pathname),
+    });
   };
   return [ids, toggle];
+}
+
+function placementOf(p: string): string {
+  if (p === "/") return "home";
+  if (p.startsWith("/my-teams")) return "my_teams_page";
+  if (p.startsWith("/teams/")) return "team_page";
+  return "other";
+}
+
+/**
+ * One GA4 event per homepage view with the number of teams saved (0 when
+ * none), so GA4 can answer "what share of homepage visitors use My Teams, and
+ * how many teams on average". Also tags the Clarity session.
+ */
+export function useReportMyTeamsCount(enabled: boolean) {
+  useEffect(() => {
+    if (!enabled) return;
+    const n = read().length;
+    trackEvent("my_teams_view", { team_count: n, has_my_teams: n > 0 ? "yes" : "no" });
+    clarityTag("my_teams_count", String(n));
+  }, [enabled]);
 }
 
 // "nfl:los-angeles-chargers" -> "/teams/nfl/los-angeles-chargers" (lib/myTeams teamPagePath;
@@ -91,16 +121,40 @@ function Matchup({ t, href }: { t: MyTeamCard; href: string }) {
   );
 }
 
+// Jake 11/20: the big cards crowded the homepage, so My Teams is now a slim
+// ticker (Option C of three mockups): one row of team chips
+// with the next jersey in color words, tap one to slide open the matchup,
+// then each team's newest story. Desktop lines the stories up under their
+// chips; phones swipe the chips and list the stories.
+const stripe = (c: string) => (c === "#0A1733" ? "#003087" : c);
+const isToday = (t: MyTeamCard) => /^(Today|Tonight)/.test(t.next?.when ?? "");
+// "Sun, Nov 22 · Week 12" -> "Sun, Nov 22 vs Jets": the week tag is noise on a chip.
+const nextLine = (t: MyTeamCard) => (t.next ? `${t.next.when.split(" · ")[0]} ${t.next.opp}` : `${t.nickname} · ${t.league}`);
+
+/** Small pulsing dot for a game today, like the red dots on the tracker menus. */
+function LiveDot() {
+  return (
+    <span className="relative inline-flex w-2 h-2 shrink-0" aria-hidden>
+      <span className="absolute inset-0 rounded-full bg-[#E4002B] opacity-60 motion-safe:animate-ping" />
+      <span className="relative w-2 h-2 rounded-full bg-[#E4002B]" />
+    </span>
+  );
+}
+
 export function MyTeamsRow({
   teams,
   teamPages,
-  latest,
+  latest = {},
+  reportView,
 }: {
   teams: MyTeamCard[];
   teamPages?: boolean;
   /** Newest story per club id from the last month (lib/browse newestStoryByTeam), 11/19. */
   latest?: Record<string, { slug: string; title: string }>;
+  /** Homepage only: send the my_teams_view GA4 event with the saved-team count. */
+  reportView?: boolean;
 }) {
+  useReportMyTeamsCount(!!reportView);
   const [ids, toggle] = useFollowed();
   const [editing, setEditing] = useState(false);
   const [open, setOpen] = useState<string | null>(null);
@@ -111,94 +165,112 @@ export function MyTeamsRow({
   if (!mine.length) return null;
   const opened = mine.find((t) => t.id === open && t.next);
   const hrefOf = (t: MyTeamCard) => (teamPages ? teamPage(t.id) : t.href);
+  // Desktop: chips and stories share one column grid, up to five across, so
+  // each headline sits under its own team and the row never wraps raggedly.
+  const cols = { "--mt-cols": Math.min(mine.length, 5) } as CSSProperties;
+  const grid = "lg:grid lg:grid-cols-[repeat(var(--mt-cols),minmax(0,1fr))] lg:gap-3";
 
   return (
     <section className="max-w-[1200px] mx-auto px-5 pt-6">
       <div className="flex items-center justify-between border-b-2 border-black pb-2 mb-3">
         <span className={`${LABEL} text-black`}>My Teams</span>
-        <button onClick={() => setEditing((v) => !v)} className="font-display text-[12px] font-extrabold text-orange">
-          {editing ? "Done" : "Edit"}
-        </button>
+        <div className="flex items-center gap-4">
+          {editing && (
+            <Link prefetch={false} href="/my-teams#find-your-team" className="font-display text-[12px] font-extrabold text-orange">
+              + Add teams
+            </Link>
+          )}
+          <button onClick={() => setEditing((v) => !v)} className="font-display text-[12px] font-extrabold text-orange">
+            {editing ? "Done" : "Edit"}
+          </button>
+        </div>
       </div>
-      <div className="flex gap-3 overflow-x-auto pt-2 pr-2 pb-2 snap-x lg:flex-wrap lg:overflow-visible">
-        {mine.map((t) => {
-          // Jake 11/5: clubs out of season (no next game) shrink to a small chip
-          // everywhere; on desktop, in-season clubs with no game today go slim
-          // too, so the row stays one line and the big cards are tonight's games.
-          const off = !t.next;
-          const quiet = off || !/^(Today|Tonight)/.test(t.next?.when ?? "");
-          const inner = (
+
+      <div style={cols} className={`flex gap-2 overflow-x-auto chip-scroll -mx-5 px-5 pt-2 pb-1 lg:mx-0 lg:px-0 lg:overflow-visible ${grid}`}>
+        {mine.map((t, i) => {
+          const on = open === t.id;
+          const body = (
             <>
-              <div className={`w-[48px] h-[56px] sm:w-[58px] sm:h-[68px] shrink-0 rounded-lg ${off ? "hidden" : quiet ? "lg:hidden" : ""} bg-[#f4f6f9] flex items-center justify-center overflow-hidden`}>
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={t.next?.img ?? t.logo} alt="" className={t.next?.img ? "w-[90%] h-[90%] object-contain" : "w-[70%] h-[70%] object-contain"} />
-              </div>
-              <div className="min-w-0 text-left">
-                <div className="flex items-center gap-1 text-[9px] font-black tracking-[0.14em] uppercase text-steel truncate">
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={t.logo} alt="" className="w-3.5 h-3.5 object-contain" />
-                  {t.nickname} · {t.league}
-                </div>
-                {t.next ? (
-                  <>
-                    <div className={`font-display font-black text-[14px] sm:text-[15px] leading-tight mt-0.5 truncate text-black ${quiet ? "lg:text-[13px]" : ""}`}>{t.next.look}</div>
-                    <div className="text-[11px] text-gray-medium mt-0.5 truncate">
-                      {t.next.when} · {t.next.opp}
-                    </div>
-                  </>
-                ) : (
-                  <div className="font-display font-black text-[13px] leading-tight mt-0.5 text-black">{t.note}</div>
-                )}
-              </div>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={t.logo} alt="" className="w-7 h-7 object-contain shrink-0" />
+              <span className="min-w-0 text-left">
+                <span className="block font-display font-black text-[15px] leading-tight text-black truncate">{t.next?.look ?? t.note}</span>
+                <span className="flex items-center gap-1.5 text-[13px] leading-snug text-gray-medium">
+                  {isToday(t) && <LiveDot />}
+                  <span className="truncate">{nextLine(t)}</span>
+                </span>
+              </span>
             </>
           );
-          const cls = `flex gap-2.5 items-center rounded-xl p-2 sm:p-2.5 h-full w-full bg-white border transition-colors ${open === t.id ? "border-black" : "border-border hover:border-black/25"}`;
-          // Plain white card with the club's color as a left stripe, like the
-          // site's story cards (Jake 11/4: the dark gradient read as AI).
-          const style = { borderLeft: `5px solid ${t.color === "#0A1733" ? "#003087" : t.color}` };
+          const cls = `flex items-center gap-2.5 w-full min-h-[52px] pl-3 pr-3.5 py-1.5 rounded-xl bg-white border transition-colors ${on ? "border-black" : "border-border hover:border-black/25"}`;
+          const style = { boxShadow: `inset 4px 0 0 ${stripe(t.color)}` };
           return (
-          <div key={t.id} className={`relative snap-start shrink-0 ${off ? "w-[150px]" : `w-[210px] sm:w-[250px] ${quiet ? "lg:w-[200px]" : ""}`}`}>
-            {off ? (
-              <Link prefetch={false} href={hrefOf(t)} className={cls} style={style}>{inner}</Link>
-            ) : (
-              <button type="button" aria-expanded={open === t.id} onClick={() => setOpen((v) => (v === t.id ? null : t.id))} className={cls} style={style}>
-                {inner}
-              </button>
-            )}
-            {editing && (
-              <button
-                onClick={() => toggle(t.id)}
-                aria-label={`Remove ${t.nickname}`}
-                className="absolute -top-2 -right-2 w-7 h-7 rounded-full bg-white text-black border border-border text-[14px] font-black shadow"
-              >
-                &times;
-              </button>
-            )}
-          </div>
+            <div key={t.id} className="browse-rise relative shrink-0 max-w-[260px] lg:max-w-none" style={{ animationDelay: `${i * 50}ms` }}>
+              {t.next ? (
+                <button type="button" aria-expanded={on} onClick={() => setOpen((v) => (v === t.id ? null : t.id))} className={cls} style={style}>
+                  {body}
+                </button>
+              ) : (
+                <Link prefetch={false} href={hrefOf(t)} className={cls} style={style}>
+                  {body}
+                </Link>
+              )}
+              {editing && (
+                <button
+                  onClick={() => toggle(t.id)}
+                  aria-label={`Remove ${t.nickname}`}
+                  className="absolute -top-2 -right-2 z-10 w-7 h-7 rounded-full bg-white text-black border border-border text-[14px] font-black shadow"
+                >
+                  &times;
+                </button>
+              )}
+            </div>
           );
         })}
       </div>
-      {opened && <Matchup t={opened} href={hrefOf(opened)} />}
-      {/* 11/19: the newest story on each followed club, then its team page. */}
-      {latest && mine.some((t) => latest[t.id]) && (
-        <ul className="mt-2 m-0 p-0 list-none grid grid-cols-1 lg:grid-cols-2 lg:gap-x-8">
-          {mine
-            .filter((t) => latest[t.id])
-            .slice(0, 6)
-            .map((t) => (
-              <li key={t.id} className="flex items-center gap-3 border-b border-border py-2.5">
+
+      {/* The matchup slides open with a grid-rows transition, so nothing jumps. */}
+      <div className={`grid transition-[grid-template-rows] duration-300 ease-out ${opened ? "grid-rows-[1fr]" : "grid-rows-[0fr]"}`}>
+        <div className="overflow-hidden">{opened && <div className="pt-2"><Matchup t={opened} href={hrefOf(opened)} /></div>}</div>
+      </div>
+
+      {/* 11/19: the newest story on each followed club; no recent story = its team page. */}
+      <div className="mt-2 border-t border-border pt-1">
+        <ul style={cols} className={`m-0 p-0 list-none ${grid}`}>
+          {mine.map((t) => {
+            const s = latest[t.id];
+            return (
+              // Phones gather the story-less teams into one shared row below.
+              <li key={t.id} className={`${s ? "flex" : "hidden lg:flex"} items-start gap-2 min-h-[44px] py-1.5 border-b border-border lg:border-b-0`}>
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={t.logo} alt="" width={24} height={24} className="w-6 h-6 object-contain shrink-0" />
-                <Link prefetch={false} href={`/stories/${latest[t.id].slug}`} className="min-w-0 flex-1 text-[15px] font-bold leading-snug text-black hover:text-orange line-clamp-2">
-                  {latest[t.id].title}
-                </Link>
-                <Link prefetch={false} href={teamPage(t.id)} className="shrink-0 inline-flex min-h-[44px] items-center font-display text-[13px] font-extrabold text-orange">
+                <img src={t.logo} alt="" width={20} height={20} className="w-5 h-5 object-contain shrink-0 mt-0.5" />
+                {s ? (
+                  <Link prefetch={false} href={`/stories/${s.slug}`} className="min-w-0 text-[14px] font-bold leading-snug text-black hover:text-orange line-clamp-1 lg:line-clamp-2">
+                    {s.title}
+                  </Link>
+                ) : (
+                  <Link prefetch={false} href={teamPage(t.id)} className="text-[14px] font-extrabold font-display text-orange">
+                    {`All ${t.nickname} →`}
+                  </Link>
+                )}
+              </li>
+            );
+          })}
+        </ul>
+        {mine.some((t) => !latest[t.id]) && (
+          <div className="lg:hidden flex flex-wrap gap-x-5 min-h-[44px] items-center py-1">
+            {mine
+              .filter((t) => !latest[t.id])
+              .map((t) => (
+                <Link key={t.id} prefetch={false} href={teamPage(t.id)} className="inline-flex items-center gap-2 min-h-[44px] text-[14px] font-extrabold font-display text-orange">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={t.logo} alt="" width={20} height={20} className="w-5 h-5 object-contain" />
                   {`All ${t.nickname} →`}
                 </Link>
-              </li>
-            ))}
-        </ul>
-      )}
+              ))}
+          </div>
+        )}
+      </div>
     </section>
   );
 }
