@@ -3,7 +3,7 @@ title: "Special Uniforms This Weekend: Every Alternate, Throwback And One-Time L
 author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-11-19"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-20"
 excerpt: "Every special uniform this weekend, Nov. 20-23: Florida State's first turquoise game, Miami's camo, UCF's Knights script helmet, the Bills' all-white Cold Front, the Commanders' black Hail Raiser debut on Monday night, the Pacers' and Nets' ABA throwbacks, seven NHL Hometown Remix teams and the Maine Celtics' L.L.Bean camo. Who, when, what it looks like and our grade."
 gradient: "linear-gradient(135deg, #0B1F4A 0%, #0f6f73 60%, #5A1414 130%)"
 cardStyle: words
@@ -34,6 +34,7 @@ Thursday night is already covered: the Texans debut the white-helmet HOUSTON/US 
 | Maryland | Sat | Script Shift: all white with iridescent gold, black and red script | None yet |
 | BYU | Sat | All white with a royal blue facemask | A- |
 | Arizona State | Sat | Roses &amp; Devils throwback (reported) | A |
+| TCU | Sat | Purple helmet, black jersey, purple pants | A- |
 | Carolina Hurricanes | Sat | Hometown Remix: storm gray with Stormy | No. 13 of 32 |
 | Nashville Predators | Sat | Hometown Remix: navy and gold stage suit | A |
 | San Jose Sharks | Sat | Hometown Remix: teal with shark-teeth sleeves | No. 5 of 32 |
@@ -56,7 +57,7 @@ Grades are for the uniform unless the row says matchup. NHL Remix sweaters witho
 
 ### UCF: Knights Script Mode Vs. Iowa State
 
-**Friday, 6 p.m. ET, FS1. Confirmed.** UCF wears a **black helmet with the Knights script in gold** and gold center stripes, a **black jersey** and **black pants** for Senior Knight against Iowa State. UCF Equipment posted it on Thursday as "Introducing: Knights Script Mode." Iowa State is expected in white. Our grade: **C**. [Knights Script Mode, explained and graded](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
+**Friday, 6 p.m. ET, FS1. Confirmed.** UCF wears a **black helmet with the Knights script in gold** and gold center stripes, a **black jersey** and **black pants** for Senior Knight against Iowa State. UCF Equipment posted it on Thursday as "Introducing: Knights Script Mode." Iowa State answers in its regular road look, confirmed in its "bounce house threads" video: the **cardinal Cyclones script helmet** with a white facemask and a **white jersey** with IOWA STATE in cardinal. Our grade: **C**. [Knights Script Mode, explained and graded](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Equipment/status/2123491570401816652"></a></blockquote>
@@ -140,6 +141,15 @@ These are on each team's published jersey schedule. Full dates are on each sched
 ### Arizona State: Roses &amp; Devils Throwback Vs. Oklahoma State (Reported)
 
 **Saturday, 10:15 p.m. ET, ESPN. Reported, not confirmed.** The ASU Devils site on On3 reports that Arizona State will close its home schedule in the **Roses &amp; Devils** 1986 throwback: a **gold helmet with the full-body Sparky**, a **maroon jersey** and **gold pants**. Arizona State had not posted it as of Thursday, so treat this one as reported until it does. We graded the throwback an **A**. [The throwback, graded](/stories/arizona-state-throwback-uniforms-2026).
+
+### TCU: Purple, Black, Purple Vs. Utah
+
+**Saturday, 9 p.m. ET, FOX. Confirmed.** TCU wears a **glossy purple helmet** with TCU in white block letters over the horned frog, a **black jersey** with white numbers trimmed in purple and **purple pants** for its home finale against No. 2 Utah. TCU posted it on Friday morning as "🟪 & ⬛️ under The Carter's lights." The black jersey is an alternate, and this is only the second time TCU has put it under the purple helmet, after Homecoming against West Virginia. Utah is expected in white. Our grade: **A-**. [Every detail](/stories/tcu-purple-helmet-black-jersey-purple-pants-utah-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TCUFootball/status/2123816617339473955"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">TCU's look for Utah, via <a href="https://x.com/TCUFootball" target="_blank" rel="noopener">@TCUFootball</a></p>
 
 ### NHL Hometown Remix On Saturday
 
@@ -283,7 +293,7 @@ Saturday in Tallahassee is the look of the weekend. Florida State put turquoise 
 
 **What special uniforms are being worn this weekend?**
 
-From Friday, November 20 to Monday, November 23, 2026: Florida State's first turquoise game, Miami's digital camo, UCF's Knights Script Mode, Washington's Husky Heritage, Maryland's Script Shift, Buffalo's all-white Cold Front, Detroit's black alternate, Washington's black Hail Raiser on Monday night, the Pacers' and Nets' ABA throwbacks, the Maine Celtics' L.L.Bean camo, and Hometown Remix sweaters for the Hurricanes, Predators, Sharks, Canucks, Jets, Blues and Canadiens.
+From Friday, November 20 to Monday, November 23, 2026: Florida State's first turquoise game, Miami's digital camo, UCF's Knights Script Mode, TCU's purple helmet and black jersey, Washington's Husky Heritage, Maryland's Script Shift, Buffalo's all-white Cold Front, Detroit's black alternate, Washington's black Hail Raiser on Monday night, the Pacers' and Nets' ABA throwbacks, the Maine Celtics' L.L.Bean camo, and Hometown Remix sweaters for the Hurricanes, Predators, Sharks, Canucks, Jets, Blues and Canadiens.
 
 **What alternate uniforms are in the NFL this week?**
 
@@ -323,7 +333,11 @@ It has been reported by the ASU Devils site on On3, but Arizona State had not po
 
 **What is UCF wearing against Iowa State?**
 
-Knights Script Mode: a black helmet with the gold Knights script, a black jersey and black pants, for Senior Knight on Friday at 6 p.m. ET on FS1.
+Knights Script Mode: a black helmet with the gold Knights script, a black jersey and black pants, for Senior Knight on Friday at 6 p.m. ET on FS1. Iowa State wears its cardinal Cyclones script helmet and a white jersey.
+
+**What is TCU wearing against Utah?**
+
+A purple helmet, a black jersey with white numbers and purple pants, for the home finale on Saturday at 9 p.m. ET on FOX. Our grade: A-.
 
 **How often is this page updated?**
 

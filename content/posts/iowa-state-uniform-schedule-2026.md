@@ -3,7 +3,7 @@ title: "Iowa State Uniform Schedule 2026: Every Jersey and When the Cyclones Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-20"
 excerpt: "Iowa State uniform schedule 2026: every Cyclones jersey by week, the cardinal home uniform, the all-white road look worn at Iowa, and what ISU wears next."
 gradient: "linear-gradient(135deg, #C8102E 0%, #9e0b23 55%, #F1BE48 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Iowa State wears a cardinal jersey with white pants at Jack Trice Stadium and a white jersey with white pants on the road, both under the cardinal Cyclones script helmet. That covered the first three games of 2026: cardinal over white in the 38-10 opener against Southeast Missouri, all white under the cardinal lid in the 16-13 loss at Iowa, and cardinal over white again in the 55-7 win over Bowling Green. Since then Iowa State has worn the all white Whiteout against Utah and all cardinal for Homecoming against West Virginia. This is the full Iowa State 2026 uniform schedule, with every jersey and a week-by-week outlook for all twelve games in Jimmy Rogers' first season. We update this page as each combination is confirmed.
+
+**Update, November 19:** Iowa State posted its "bounce house threads" for Friday night at UCF: the **cardinal Cyclones script helmet** with a white facemask and a white and gold center stripe, and the **white jersey** with IOWA STATE across the chest in cardinal. The team's video does not show the pants.
 
 **Update, November 14:** Iowa State posted its "Cynado threads" for Cincinnati: **all cardinal**, a cardinal helmet with a white and gold center stripe and the Cynado logo, cardinal jersey with "IOWA STATE" across the chest and white and gold sleeve stripes, and cardinal pants.
 
@@ -49,7 +51,7 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Blackout</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ All Cardinal · Cynado</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cyclones Helmet / White</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
 </div>
 
@@ -81,19 +83,26 @@ The current closet comes from the Nike redesign of 2024, which gave Iowa State f
 
 **November 14 vs. Cincinnati.** ★ Confirmed by Iowa State: **all cardinal**, cardinal helmet with the Cynado logo, cardinal jersey, cardinal pants, from the team's "Cynado threads" post. **Final: Iowa State 41, Cincinnati 13.**
 
-**November 20 at UCF.** White expected. A Friday game at the Acrisure Bounce House in Orlando, 5 p.m. Central on FS1. UCF has confirmed its side for Senior Knight: **Knights Script Mode**, a black helmet with the gold Knights script, black jersey and black pants, posted by UCF Equipment on November 19 ([details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026)). Iowa State had not posted its look as of Thursday afternoon. More: [UCF schedule](/stories/ucf-uniform-schedule-2026) and the [Week 12 college uniform guide](/stories/college-football-week-12-uniforms-2026).
+**November 20 at UCF.** White expected. A Friday game at the Acrisure Bounce House in Orlando, 5 p.m. Central on FS1. UCF has confirmed its side for Senior Knight: **Knights Script Mode**, a black helmet with the gold Knights script, black jersey and black pants, posted by UCF Equipment on November 19 ([details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026)). ★ Confirmed by Iowa State on November 19 as "bounce house threads": the **cardinal Cyclones script helmet** (white script outlined in gold, white and gold center stripe, white facemask) and the **white jersey** with IOWA STATE in cardinal and cardinal sleeve stripes. The video does not show the pants. That makes it a night of two script helmets.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CycloneFB/status/2123546464437596210"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Iowa State's "bounce house threads" for UCF, via @CycloneFB</p>
+
+More: [UCF schedule](/stories/ucf-uniform-schedule-2026) and the [Week 12 college uniform guide](/stories/college-football-week-12-uniforms-2026).
 
 **November 28 vs. Kansas State.** Cardinal expected. Farmageddon closes the regular season at Jack Trice Stadium, a rematch of the game that opened 2025 in Dublin. Kansas State is expected in white on the [Kansas State 2026 uniform schedule](/stories/kansas-state-uniform-schedule-2026), and the last home game of the season.
 
 ## The Bottom Line
 
-Through the first three games, Iowa State wore a cardinal helmet every week and changed only the jersey: cardinal at home, white on the road, white pants every time. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, the all white Whiteout came out against Utah, and the black alternate from the 2024 Nike set waited until Halloween. Homecoming against West Virginia was where the pants changed: all cardinal, script helmet, cardinal jersey and cardinal pants, in a 45-42 win. The cardinal pants stayed on for the trip to BYU, this time under the white jersey, in a 24-10 loss. The Halloween blackout against Oklahoma State, black helmet with the Cynado logo, black jersey and black pants, ended in a 51-49 win on the last kick, and Iowa State went all cardinal with the Cynado helmet for a 41-13 win over Cincinnati on November 14. Next is a Friday trip to UCF on November 20, where white is expected and UCF will be in Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants. The grid above has every date, and we add a star as each uniform is confirmed.
+Through the first three games, Iowa State wore a cardinal helmet every week and changed only the jersey: cardinal at home, white on the road, white pants every time. That fits a program that just replaced almost its entire roster and kept the closet the way it was. The script helmet is now the default for a third straight season, the all white Whiteout came out against Utah, and the black alternate from the 2024 Nike set waited until Halloween. Homecoming against West Virginia was where the pants changed: all cardinal, script helmet, cardinal jersey and cardinal pants, in a 45-42 win. The cardinal pants stayed on for the trip to BYU, this time under the white jersey, in a 24-10 loss. The Halloween blackout against Oklahoma State, black helmet with the Cynado logo, black jersey and black pants, ended in a 51-49 win on the last kick, and Iowa State went all cardinal with the Cynado helmet for a 41-13 win over Cincinnati on November 14. Next is a Friday trip to UCF on November 20, where Iowa State has confirmed the Cyclones script helmet and white jersey and UCF will be in Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Iowa State wearing this week?**
 
-Iowa State wore all cardinal, a cardinal helmet with the Cynado logo, cardinal jersey and cardinal pants, against Cincinnati on Saturday, November 14, as confirmed by the team in its "Cynado threads" post, and won 41-13. Next is a Friday trip to UCF on November 20, where white is expected and UCF will be in Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Iowa State wore all cardinal, a cardinal helmet with the Cynado logo, cardinal jersey and cardinal pants, against Cincinnati on Saturday, November 14, as confirmed by the team in its "Cynado threads" post, and won 41-13. Next is a Friday trip to UCF on November 20, where Iowa State has confirmed the Cyclones script helmet and white jersey and UCF will be in Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Iowa State's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ topViewsRank: 10
 title: "New York Jets Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-20"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -17,7 +17,7 @@ teams: ["new-york-jets"]
 
 The Jets have confirmed three uniform games for 2026, and the first one is the most interesting thing they have done with their look in years. A brand-new all-white helmet comes out of the box in Week 2 for a full White Out against Green Bay. The Classic uniform gets a October date against Miami. And the Gotham City Football Rivalries jersey returns to close the home schedule against New England. Here is the full New York Jets 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the green home set and the white road set.
 
-**Update, November 18:** New York confirmed its Week 11 look at the Los Angeles Chargers on Sunday, November 22 (4:05 p.m. ET, FOX): "White on Green" again, the **green helmet, white jersey and green pants**, the same combination it wore at Kansas City in Week 9. The team posted it with the caption "west coast threads." The Chargers are scheduled in powder blue over powder blue pants. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
+**Update, November 18:** New York confirmed its Week 11 look at the Los Angeles Chargers on Sunday, November 22 (4:05 p.m. ET, FOX): "White on Green" again, the **green helmet, white jersey and green pants**, the same combination it wore at Kansas City in Week 9. The team posted it with the caption "west coast threads." The Chargers confirmed powder blue over powder blue pants with white socks on November 19 ("powder on powder"), our least favorite Chargers combination; we give the matchup a provisional **B-**. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2123189639133512013"></a></blockquote>

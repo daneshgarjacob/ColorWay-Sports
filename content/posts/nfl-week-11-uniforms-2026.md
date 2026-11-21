@@ -3,7 +3,7 @@ title: "NFL Week 11 Uniforms 2026: What Every Team Is Wearing, Including The Tex
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-13"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-20"
 excerpt: "NFL Week 11 uniforms (Nov. 19-23): the Texans debuted their white-helmet HOUSTON/US Rivalries uniform in a 26-3 Thursday night win over the Colts, the Bills wear Cold Front against Miami, the Commanders bring the black Hail Raiser to Monday night, the Chargers go powder on powder, plus Mexico City and every other game."
 gradient: "linear-gradient(135deg, #03202F 0%, #0C1526 55%, #5A1414 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -70,7 +70,7 @@ A cold-weather team dressed like the weather against a warm-weather team in aqua
 
 ### New York Jets At Los Angeles Chargers: Powder On Powder
 
-**Sunday, 4:05 p.m. ET, FOX. Both teams confirmed.** Los Angeles published the jersey and the pants for all 17 games on September 1, and this is the second and last date for the monochrome look: the **powder blue jersey over powder blue pants**. The first was Week 5 against Denver, when the Chargers wore it under the white helmet. The jersey and pants are set; the helmet comes with the Chargers' game-week post.
+**Sunday, 4:05 p.m. ET, FOX. Both teams confirmed.** Los Angeles published the jersey and the pants for all 17 games on September 1, and this is the second and last date for the monochrome look: the **powder blue jersey over powder blue pants**. The first was Week 5 against Denver, when the Chargers wore it under the white helmet. On Thursday the Chargers confirmed it in their "Threads" post, captioned "powder on powder": the **powder blue jersey, powder blue pants and white socks**. The post does not show the helmet; Los Angeles wore the white helmet with this combination in Week 5.
 
 **Update, Nov. 18:** the Jets confirmed **White on Green**: the **green helmet, white jersey and green pants**, posted with the caption "west coast threads." It is the same combination they wore at Kansas City in Week 9.
 
@@ -79,9 +79,15 @@ A cold-weather team dressed like the weather against a warm-weather team in aqua
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Jets' Week 11 uniform, via <a href="https://x.com/nyjets" target="_blank" rel="noopener">@nyjets</a></p>
 
+<div style="display: flex; justify-content: center; margin: 1em 0 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/chargers/status/2123597949275955434"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Chargers' Week 11 uniform, via <a href="https://x.com/chargers" target="_blank" rel="noopener">@chargers</a></p>
+
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/jets-white-road.jpg" alt="New York Jets white road jersey, confirmed with green pants and the green helmet at the Chargers in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Jets &middot; Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chargers-powder-blue-home.jpg" alt="Los Angeles Chargers powder blue jersey, confirmed with powder blue pants against the Jets in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chargers &middot; Confirmed</figcaption></figure></div>
 
-Powder blue head to toe against white over green is the brightest game of the afternoon. Our matchup grade: **A-**. See the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026) and the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026).
+Powder blue head to toe against white over green is a bright game, but **powder on powder is our least favorite Chargers combination**. The powder blue jersey is the best thing the Chargers own, and it looks best over white pants; with matching pants the whole uniform runs together. Our matchup grade: **B-** (provisional). More in our story on the [Chargers' powder blue jerseys and powder blue pants against the Jets](/stories/chargers-powder-blue-jerseys-powder-blue-pants-jets-2026). See the [Chargers 2026 uniform schedule](/stories/chargers-uniform-schedule-2026) and the [Jets 2026 uniform schedule](/stories/jets-uniform-schedule-2026).
 
 ### Tampa Bay Buccaneers At Detroit Lions: Back In Black
 
@@ -156,9 +162,23 @@ Midnight green over white against white over gold, with two dark helmets, is a t
 
 ### Baltimore Ravens At Carolina Panthers
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/ravens-white-road.jpg" alt="Baltimore Ravens white road jersey, expected at Carolina in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Ravens &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/panthers-black-home.jpg" alt="Carolina Panthers black home jersey, scheduled by the team against the Ravens in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Panthers &middot; Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/ravens-white-road.jpg" alt="Baltimore Ravens white road jersey, confirmed with the black helmet and purple pants at Carolina in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Ravens &middot; Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/panthers-black-home.jpg" alt="Carolina Panthers black home jersey, confirmed with the silver helmet and silver pants against the Ravens in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Panthers &middot; Confirmed</figcaption></figure></div>
 
-**Sunday, 1:00 p.m. ET, FOX. Panthers scheduled, Ravens expected.** Carolina published every jersey on September 4 and has **black** here; the Panthers announce the helmet, pants and socks closer to the game. Baltimore is expected in **white** on the road, six days after the all-black Darkness Falls debut on Monday night. Our matchup grade: **B-**. See the [Panthers 2026 uniform schedule](/stories/panthers-uniform-schedule-2026) and the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026).
+**Sunday, 1:00 p.m. ET, FOX. Both teams confirmed.** Carolina posted its "Game Threads" on Friday: the **silver helmet, black jersey, silver pants and black socks**, the first time this regular season the Panthers have worn the silver pants. Baltimore's "Gameday Threads" has the **black helmet, white jersey, purple pants and white socks**, the same look it wore in its overtime win at Atlanta in Week 5, six days after the all-black Darkness Falls debut on Monday night.
+
+<div style="display: flex; justify-content: center; margin: 1em 0 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Ravens/status/2123793504828809220"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Ravens' Week 11 uniform, via <a href="https://x.com/Ravens" target="_blank" rel="noopener">@Ravens</a></p>
+
+<div style="display: flex; justify-content: center; margin: 1em 0 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Panthers/status/2123863010104234303"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Panthers' Week 11 uniform, via <a href="https://x.com/Panthers" target="_blank" rel="noopener">@Panthers</a></p>
+
+Black over silver against white over purple gives each side a color the other does not have, and the silver pants make Carolina look like the team did when it started in the 1990s. Our matchup grade: **B** (provisional). Both looks are in our [Ravens vs. Panthers uniform preview](/stories/ravens-panthers-uniforms-week-11-2026). See the [Panthers 2026 uniform schedule](/stories/panthers-uniform-schedule-2026) and the [Ravens 2026 uniform schedule](/stories/ravens-uniform-schedule-2026).
 
 ### Las Vegas Raiders At Denver Broncos
 
@@ -192,8 +212,8 @@ Midnight green over white against white over gold, with two dark helmets, is a t
 - **Tampa Bay Buccaneers at Detroit Lions**, 1:00 p.m. ET, FOX. Buccaneers: pewter helmet, white jersey, white pants (confirmed). Lions: black alternate (confirmed). Matchup grade: B-.
 - **Arizona Cardinals at Kansas City Chiefs**, 1:00 p.m. ET, CBS. Cardinals: white helmet, white jersey, white pants (confirmed). Chiefs: red (expected). Matchup grade: B.
 - **Pittsburgh Steelers at Philadelphia Eagles**, 1:00 p.m. ET, CBS. Steelers: black helmet, white jersey, gold pants (confirmed). Eagles: midnight green helmet, midnight green jersey, white pants (confirmed). Matchup grade: B.
-- **Baltimore Ravens at Carolina Panthers**, 1:00 p.m. ET, FOX. Ravens: white (expected). Panthers: black (scheduled). Matchup grade: B-.
-- **New York Jets at Los Angeles Chargers**, 4:05 p.m. ET, FOX. Jets: green helmet, white jersey, green pants (confirmed). Chargers: powder blue jersey, powder blue pants (confirmed). Matchup grade: A-.
+- **Baltimore Ravens at Carolina Panthers**, 1:00 p.m. ET, FOX. Ravens: black helmet, white jersey, purple pants (confirmed). Panthers: silver helmet, black jersey, silver pants (confirmed). Matchup grade: B.
+- **New York Jets at Los Angeles Chargers**, 4:05 p.m. ET, FOX. Jets: green helmet, white jersey, green pants (confirmed). Chargers: powder blue jersey, powder blue pants (confirmed). Matchup grade: B-.
 - **Las Vegas Raiders at Denver Broncos**, 4:25 p.m. ET, CBS. Raiders: white (expected). Broncos: Sunset Orange (scheduled). Matchup grade: B+.
 - **Jacksonville Jaguars at New York Giants**, 4:25 p.m. ET, CBS. Jaguars: white (expected). Giants: blue jersey, white pants (scheduled). Matchup grade: B.
 - **Minnesota Vikings vs. San Francisco 49ers** (Mexico City), 8:20 p.m. ET, NBC. Vikings: white (expected). 49ers: gold helmet, scarlet jersey (scheduled by the team). Matchup grade: B.
@@ -240,7 +260,7 @@ The home team declares first, and the Bills are in all white. Two teams cannot b
 
 **What are the Chargers wearing against the Jets?**
 
-The powder blue jersey with powder blue pants, from the schedule Los Angeles published on September 1. It is the second time the Chargers wear the monochrome look in 2026, after Week 5 against Denver. The Jets confirmed White on Green: green helmet, white jersey and green pants.
+The powder blue jersey with powder blue pants and white socks, from the schedule Los Angeles published on September 1 and confirmed in the team's game-week post on November 19. It is our least favorite Chargers combination. It is the second time the Chargers wear the monochrome look in 2026, after Week 5 against Denver. The Jets confirmed White on Green: green helmet, white jersey and green pants.
 
 **What are the Jets wearing against the Chargers?**
 
@@ -265,6 +285,10 @@ The Eagles confirmed the midnight green helmet, midnight green jersey and white 
 **What are the Buccaneers and Cardinals wearing in Week 11?**
 
 Both are in all white on the road. Tampa Bay confirmed the pewter helmet, white jersey and white pants at Detroit, and Arizona confirmed the white helmet, white jersey and white pants at Kansas City, both on November 19.
+
+**What are the Ravens and Panthers wearing in Week 11?**
+
+Both teams confirmed their looks. Baltimore wears the black helmet, white jersey, purple pants and white socks. Carolina wears the silver helmet, black jersey, silver pants and black socks. Kickoff is Sunday, November 22 at 1:00 p.m. Eastern on FOX at Bank of America Stadium.
 
 **Which NFL teams are on bye in Week 11?**
 

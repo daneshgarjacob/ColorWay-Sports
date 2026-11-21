@@ -3,7 +3,7 @@ title: "Texans White Helmet Debut: What Houston Wore In The HOUSTON/US Rivalries
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-19"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-20"
 excerpt: "What did the Texans wear Thursday night? The HOUSTON/US Rivalries uniform, for the first time: the first white helmet in franchise history with a chrome blue facemask, a white jersey with H-Town Blue numbers, white pants and white socks, on a field painted to match. The Colts wore royal blue. Houston won 26-3. Every piece, confirmed from the game photos, the reveal next to the real thing, and our grades."
 gradient: "linear-gradient(135deg, #0091DA 0%, #03202F 60%, #A71930 130%)"
 cardStyle: words
@@ -30,6 +30,7 @@ teams: ["houston-texans", "indianapolis-colts"]
 - **What was the score?** Texans 26, Colts 3. C.J. Stroud threw three touchdown passes, per ESPN.
 - **Did it look like the reveal?** Yes, piece for piece. Nothing changed between August and the game.
 - **Our grades:** HOUSTON/US uniform B. Matchup B+.
+- **How did it look on TV?** Better than in the reveal photos: shiny, with a chrome facemask and colors that pop. Better than we expected.
 
 ## What The Texans Wore, Piece By Piece
 
@@ -68,9 +69,13 @@ The reveal photos were studio-lit and clean. In the game the white held up, and 
 
 ## How It Looked In The Game: Our Take
 
-It looked as good on the field as it did in August. The facemask is the best part of the whole thing, and on TV it was even better than in the reveal. The white helmet with the red stripe is clean. Light blue, white and red is a bright, happy look for a team whose normal uniform is dark navy, and it is the most Houston thing the Texans have ever worn.
+It looked better on TV than it did in the August reveal photos. The facemask is the best part of the whole thing, and on TV it was even better than in the reveal. The white helmet with the red stripe is clean. Light blue, white and red is a bright, happy look for a team whose normal uniform is dark navy, and it is the most Houston thing the Texans have ever worn.
 
-Our one problem with it has not changed. The first white helmet in team history has the gothic H on it instead of the bullhead, and the bullhead on that white shell would have been the look people remember. **Grade: B.**
+Our one problem with it has not changed. The first white helmet in team history has the gothic H on it instead of the bullhead, and the bullhead on that white shell would have been the look people remember. **Grade: B**, and it played better on TV than we expected.
+
+### Jake's Take: Better On TV Than In The Reveal Photos
+
+*Added November 20, after watching the broadcast.* This uniform looked better on TV than it did in the reveal photos. It looks shiny. The chrome facemask really pops, and the colors pop too. It was better than I expected. The grade stays a B because of the helmet logo, but this is a uniform that is better to watch than to look at in a photo.
 
 ## What The Colts Wore: Royal Blue On The Road
 
@@ -143,6 +148,10 @@ A new field painted for the Rivalries game, with the gothic H-Town "H" at midfie
 **What grade did the Texans' Rivalries uniform get?**
 
 A B from us. It is the best palette in the 2026 Rivalries class and has the best facemask, but the first white helmet in team history should have carried the bullhead.
+
+**How did the Texans' Rivalries uniform look on TV?**
+
+Better than in the reveal photos. It looked shiny on the broadcast, the chrome blue facemask really popped, and the light blue, white and red colors stood out. It was better than we expected.
 
 **Where does HOUSTON/US rank among the Rivalries uniforms?**
 

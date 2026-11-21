@@ -3,7 +3,7 @@ title: "College Football Week 12 Uniforms 2026: Florida State's First Turquoise 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-18"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-20"
 excerpt: "College football Week 12 uniforms: Florida State wears turquoise in a game for the first time against NC State, Miami brings back its digital camo Military Appreciation uniform with black pants for Virginia Tech and College GameDay, UCF debuts Knights Script Mode, Tennessee goes orange for LSU and BYU goes all white at Kansas. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #0f6f73 60%, #782F40 130%)"
 cardStyle: words
@@ -25,6 +25,8 @@ Below is every uniform announced so far, then every game this week involving an 
 - **What is Georgia wearing at South Carolina?** Expected: red helmet, white jersey, silver pants, its road set this season.
 - **What is Miami wearing vs. Virginia Tech?** Digital camo for Military Appreciation night: black helmet with a camo U, camo jersey with black numbers, black pants. Last year's version had olive pants.
 - **What is UCF wearing vs. Iowa State?** Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants.
+- **What is Iowa State wearing at UCF?** The cardinal Cyclones script helmet and a white jersey, from the team's "bounce house threads" video.
+- **What is TCU wearing vs. Utah?** Purple helmet, black jersey, purple pants, for its home finale.
 - **What is Tennessee wearing vs. LSU?** Home threads: white helmet, orange jersey, white pants.
 - **What is Washington wearing vs. Indiana?** "Husky Heritage": gold helmet with a purple and white center stripe, purple jersey with white numbers, gold pants.
 - **What is Oregon wearing at Michigan State?** Yellow helmet with green wings, white jersey, yellow pants.
@@ -41,6 +43,8 @@ Below is every uniform announced so far, then every game this week involving an 
 - **Washington: Husky Heritage (Confirmed).** Gold helmet with a purple and white center stripe and DAWGS on the front bumper, purple jersey with white numbers, gold pants, vs. No. 6 Indiana. Posted November 18 as "Game 11 Uniform • Husky Heritage Saturday."
 - **Miami: digital camo, Military Appreciation (Confirmed).** Black helmet with a digital camo U, digital camo jersey with black numbers, black pants, digital camo cleats, vs. Virginia Tech. Posted November 19 as "A tribute to our nation's heroes." It is the camo set Miami wore against Stanford in 2025, when the pants were olive green. [2025 vs. 2026, side by side](/stories/miami-hurricanes-military-appreciation-camo-uniforms-2026).
 - **UCF: Knights Script Mode (Confirmed).** Black helmet with the Knights script in gold and gold center stripes, black jersey, black pants, vs. Iowa State on Friday for Senior Knight. Posted November 19 by UCF Equipment as "Introducing: Knights Script Mode" and by the football account as "Stormy Knights." [Details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
+- **Iowa State: Cyclones helmet, white jersey (Confirmed).** Cardinal helmet with the white Cyclones script outlined in gold and a white and gold center stripe, white facemask, white jersey with IOWA STATE in cardinal, at UCF on Friday. Posted November 19 as "bounce house threads." The video does not show the pants.
+- **TCU: purple, black, purple (Confirmed).** Glossy purple helmet with TCU in white block letters over the horned frog, black jersey with white numbers trimmed in purple, purple pants, vs. No. 2 Utah for the home finale. Posted November 20 as "🟪 & ⬛️ under The Carter's lights." [Details and grade](/stories/tcu-purple-helmet-black-jersey-purple-pants-utah-2026).
 - **Tennessee: home threads (Confirmed).** White helmet with the orange Power T, orange jersey, white pants, vs. LSU. Posted November 19.
 - **Virginia: navy, navy (Confirmed).** Navy helmet with the V-sabre logo, navy jersey with white numbers outlined in orange, vs. North Carolina. Posted November 18 as "Rivalry threads."
 
@@ -157,7 +161,12 @@ More: [Washington schedule](/stories/washington-huskies-uniform-schedule-2026) a
 
 ### No. 2 Utah at TCU
 
-**Saturday, 9 p.m., FOX.** **TCU: Expected, purple**, for its home finale. TCU wore its Freedom Frogs white helmet over the purple jersey last week. **Utah: Expected, white.** Utah wore a black helmet, white jersey and white pants at Arizona last week. More: [TCU schedule](/stories/tcu-uniform-schedule-2026) and [Utah schedule](/stories/utah-uniform-schedule-2026).
+**Saturday, 9 p.m., FOX.** **TCU: Confirmed, purple helmet, black jersey, purple pants**, for its home finale, posted November 20 as "🟪 & ⬛️ under The Carter's lights." It is the second time this season TCU has paired the purple helmet with the black jersey, after Homecoming against West Virginia. Our grade: A-. [Details](/stories/tcu-purple-helmet-black-jersey-purple-pants-utah-2026). **Utah: Expected, white.** Utah wore a black helmet, white jersey and white pants at Arizona last week. More: [TCU schedule](/stories/tcu-uniform-schedule-2026) and [Utah schedule](/stories/utah-uniform-schedule-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TCUFootball/status/2123816617339473955"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">TCU's purple helmet, black jersey and purple pants for Utah, via @TCUFootball</p>
 
 ## Dates to Watch
 
@@ -195,8 +204,13 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 ### Friday, November 20
 
 **[Iowa State](/stories/iowa-state-uniform-schedule-2026) at [UCF](/stories/ucf-uniform-schedule-2026)**, 6 p.m., FS1.
-- Iowa State: **Expected**, white.
+- Iowa State: **Confirmed**, cardinal Cyclones script helmet, white jersey, from the team's "bounce house threads" video on November 19. The pants are not shown.
 - UCF: **Confirmed**, Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants, for Senior Knight. Posted November 19. [Details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CycloneFB/status/2123546464437596210"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Iowa State's look for UCF, via @CycloneFB</p>
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UCF_Equipment/status/2123491570401816652"></a></blockquote>
@@ -417,7 +431,7 @@ Also in the afternoon: Missouri State at Jacksonville State (2 p.m., ESPN+), Mid
 
 **No. 2 [Utah](/stories/utah-uniform-schedule-2026) at [TCU](/stories/tcu-uniform-schedule-2026)**, 9 p.m., FOX.
 - Utah: **Expected**, white.
-- TCU: **Expected**, purple, for its home finale.
+- TCU: **Confirmed**, purple helmet, black jersey, purple pants, for its home finale. Posted November 20. [Details](/stories/tcu-purple-helmet-black-jersey-purple-pants-utah-2026).
 
 **[San Diego State](/stories/san-diego-state-uniform-schedule-2026) at No. 15 [Boise State](/stories/boise-state-uniform-schedule-2026)**, 9:30 p.m., USA Network.
 - San Diego State: **Expected**, white.
@@ -472,7 +486,11 @@ Miami is wearing its digital camo Military Appreciation uniform: a black helmet 
 
 **What is UCF wearing vs. Iowa State?**
 
-Knights Script Mode: a black helmet with the Knights script in gold, a black jersey and black pants, posted by UCF Equipment on November 19 for Senior Knight on Friday, 6 p.m. Eastern on FS1.
+Knights Script Mode: a black helmet with the Knights script in gold, a black jersey and black pants, posted by UCF Equipment on November 19 for Senior Knight on Friday, 6 p.m. Eastern on FS1. Iowa State answers with its cardinal Cyclones script helmet and a white jersey.
+
+**What is TCU wearing vs. Utah?**
+
+A purple helmet with TCU in white block letters, a black jersey with white numbers trimmed in purple, and purple pants, posted November 20 for the home finale on Saturday at 9 p.m. Eastern on FOX. Our grade: A-.
 
 **What is Tennessee wearing vs. LSU?**
 

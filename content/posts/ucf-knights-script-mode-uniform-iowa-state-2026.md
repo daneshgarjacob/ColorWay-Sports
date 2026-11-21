@@ -3,7 +3,7 @@ title: "UCF Uniforms This Week: Knights Script Mode, The Gold Script Helmet For 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-19"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-20"
 excerpt: "UCF's uniform this week is Knights Script Mode: a black helmet with the Knights script in gold, a black jersey and black pants for Senior Knight against Iowa State on Friday, November 20. The 'Stormy Knights' reveal, every detail, and how it differs from UCF's usual black helmet."
 gradient: "linear-gradient(135deg, #000000 0%, #2a2a2a 55%, #BA9B37 130%)"
 cardStyle: words
@@ -27,6 +27,7 @@ The game is **Friday, November 20, at 6 p.m. Eastern on FS1**, at the Acrisure B
 - **What is "Stormy Knights"?** The caption on UCF Football's helmet video for this game. The equipment staff calls the uniform Knights Script Mode.
 - **What is different?** The helmet logo. Every UCF helmet this season has carried the stacked UCF logo. This one has the Knights script.
 - **When is the game?** Friday, November 20, 6 p.m. Eastern on FS1, Senior Knight.
+- **What is Iowa State wearing?** Confirmed: the cardinal Cyclones script helmet and a white jersey, from the team's "bounce house threads" video. Two script helmets on one field.
 
 ## Every Detail Of Knights Script Mode
 
@@ -58,7 +59,12 @@ In the games where we have confirmed the helmet, UCF had used three shells this 
 
 ## Iowa State's Side
 
-Iowa State is the road team and is expected in white. The Cyclones had not posted their look as of Thursday afternoon. They wore all cardinal with the Cynado helmet against Cincinnati last week. More: [Iowa State 2026 uniform schedule](/stories/iowa-state-uniform-schedule-2026). Every other look this weekend is in the [college football Week 12 uniform guide](/stories/college-football-week-12-uniforms-2026).
+Iowa State posted its look on Thursday afternoon, November 19, as "bounce house threads": the **cardinal helmet with "Cyclones" in white script outlined in gold**, a white and gold center stripe and a **white facemask**, over a **white jersey with IOWA STATE across the chest in cardinal** and cardinal stripes on the sleeves. The video does not show the pants. The Cyclones script helmet is Iowa State's regular helmet, so this is the standard road look, and it means both teams wear a script helmet on Friday night: Knights in gold on black, Cyclones in white on cardinal. Iowa State wore all cardinal with the Cynado helmet against Cincinnati last week.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CycloneFB/status/2123546464437596210"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Iowa State's "bounce house threads" for UCF, via <a href="https://x.com/CycloneFB" target="_blank" rel="noopener">@CycloneFB</a></p> More: [Iowa State 2026 uniform schedule](/stories/iowa-state-uniform-schedule-2026). Every other look this weekend is in the [college football Week 12 uniform guide](/stories/college-football-week-12-uniforms-2026).
 
 ## Our Take
 
@@ -88,7 +94,7 @@ Yes. It is UCF's last home game of the season and its Senior Knight.
 
 **What is Iowa State wearing at UCF?**
 
-Iowa State is expected in white as the road team. The Cyclones had not posted their uniform as of Thursday, November 19.
+The cardinal Cyclones script helmet with a white facemask and a white jersey with IOWA STATE in cardinal, posted by Iowa State on November 19 as "bounce house threads." The pants are not shown in the video.
 
 **What is Knightmode?**
 

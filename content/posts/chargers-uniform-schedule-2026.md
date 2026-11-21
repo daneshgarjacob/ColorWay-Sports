@@ -2,7 +2,7 @@
 title: "Chargers Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-11-16"
+updatedDate: "2026-11-20"
 excerpt: "Chargers uniform schedule 2026: every jersey and pants combo for all 17 games, from powder blue at home to the Super Chargers navy nights. Week by week."
 gradient: "linear-gradient(135deg, #0080C6 0%, #00477e 55%, #001a37 130%)"
 coverImage: "/images/posts/chargers-uniform-schedule-2026/cover.jpg"
@@ -34,6 +34,15 @@ The four alternate dates the team announced over the summer are unchanged in the
 </div>
 
 ## The Full 2026 Chargers Uniform Schedule, Week by Week
+
+**Week 11 combination, confirmed:** against the Jets, Sunday, November 22, 1:05 p.m. PT at SoFi Stadium (FOX): **powder blue jersey, powder blue pants and white socks**, from the team's "Threads" post on November 19, captioned "powder on powder." It is the second and last powder-on-powder game of the season, after Week 5 against Denver, when the Chargers wore it with the white helmet. The Jets confirmed White on Green: green helmet, white jersey and green pants.
+
+**Our take:** powder on powder is our least favorite Chargers combination. The powder blue jersey is the best thing in the closet, and it looks best over white pants, the way the Chargers wore it on opening day. With matching powder pants the whole uniform runs together. Matchup grade: **B-** (provisional). More in [our story on the Chargers' powder blue jerseys and powder blue pants against the Jets](/stories/chargers-powder-blue-jerseys-powder-blue-pants-jets-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/chargers/status/2123597949275955434"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Chargers' Week 11 uniform: powder blue jersey, powder blue pants, white socks, via <a href="https://x.com/chargers" target="_blank" rel="noopener">@chargers</a></p>
 
 **Week 8 combination, announced:** at the Rams, Sunday, November 1, 1:05 p.m. PT at SoFi Stadium: **white helmet, white jersey, white pants and powder blue socks**, from the team's "Gameday Threads" post on October 29, exactly as the September 1 schedule had it. The Rams posted their side the same day: royal jersey, Sol (yellow) pants and royal socks.
 
@@ -124,11 +133,11 @@ How does every one of these jerseys stack up? See our [Chargers jerseys 2026 ran
 
 **What jersey are the Chargers wearing today?**
 
-Week 10 at Baltimore, Monday, November 16, worn: the white helmet with the gold facemask, the white jersey with powder blue numbers and powder blue pants, confirmed in the team's own game-night post. The Ravens debuted all-black Darkness Falls, and the Chargers won 23-20. We grade the matchup a B, and every piece is graded in our [Ravens vs. Chargers Monday night breakdown](/stories/ravens-chargers-monday-night-football-uniforms-graded-2026). This answer updates every week. For the rest of the season: Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
+Week 10 at Baltimore, Monday, November 16, worn: the white helmet with the gold facemask, the white jersey with powder blue numbers and powder blue pants, confirmed in the team's own game-night post. The Ravens debuted all-black Darkness Falls, and the Chargers won 23-20. We grade the matchup a B, and every piece is graded in our [Ravens vs. Chargers Monday night breakdown](/stories/ravens-chargers-monday-night-football-uniforms-graded-2026). Next up is Week 11 against the Jets on Sunday, November 22, confirmed by the team: powder blue jersey, powder blue pants and white socks. This answer updates every week. For the rest of the season: Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
 
 **What jerseys are the Chargers wearing this week?**
 
-Week 10 at Baltimore, Monday, November 16, worn: the white helmet with the gold facemask, the white jersey with powder blue numbers and powder blue pants, confirmed in the team's own game-night post. The Ravens debuted all-black Darkness Falls, and the Chargers won 23-20. We grade the matchup a B. For the rest of the season: Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
+Week 10 at Baltimore, Monday, November 16, worn: the white helmet with the gold facemask, the white jersey with powder blue numbers and powder blue pants, confirmed in the team's own game-night post. The Ravens debuted all-black Darkness Falls, and the Chargers won 23-20. We grade the matchup a B. Next up is Week 11 against the Jets, confirmed: powder blue jersey, powder blue pants and white socks. For the rest of the season: Powder blue at home and white on the road, with four confirmed exceptions. The Super Chargers navy jersey comes out three times, Weeks 9, 12 and 17, all at SoFi Stadium, and the Charger Power gold set gets one road game in Week 13 at Tampa Bay.
 
 **What uniform did the Chargers wear last week?**
 

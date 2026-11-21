@@ -2,7 +2,7 @@
 title: "Panthers Jersey & Uniform Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-20"
 excerpt: "Carolina Panthers jersey schedule 2026: black six times at home, Panther blue three, white on every road trip. Every uniform, week by week, confirmed."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
@@ -22,6 +22,13 @@ Want them graded instead? Here is [every Carolina Panthers jersey ranked](/stori
 The headline is that black won. Here is the full Carolina Panthers 2026 uniform schedule, week by week, with what is now confirmed and the one piece that still is not.
 
 ## The Full 2026 Panthers Uniform Schedule, Week by Week
+
+**Week 11 combination, confirmed:** **silver helmet, black jersey, silver pants and black socks** against Baltimore on Sunday, November 22, at 1 p.m. (FOX), from the team's "Game Threads" post on Friday. It is the first time this regular season Carolina has worn the silver pants; both earlier black-jersey games, Detroit and Denver, were over black pants. The Ravens are in the **black helmet, white jersey, purple pants and white socks**. Both looks are in our [Ravens vs. Panthers uniform preview](/stories/ravens-panthers-uniforms-week-11-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Panthers/status/2123863010104234303"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Panthers' Week 11 uniform: silver helmet, black jersey, silver pants, black socks, via <a href="https://x.com/Panthers" target="_blank" rel="noopener">@Panthers</a></p>
 
 **Week 1 combination, confirmed by the team on Friday:** black helmet, blue jersey, black pants. Carolina posted the look in its Fit Check Friday note ahead of the Bears game, the same black-on-blue combination it wore in the 2024 Germany game and in last year's home opener against Atlanta. Combinations are compiled from the teams' own game-week posts, and the tracker logs what is actually worn once the game is played.
 
@@ -48,7 +55,7 @@ Nine home games at Bank of America Stadium, eight on the road, and an early Week
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Packers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver Helmet &middot; White &middot; White Pants</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black · Black Pants · Silver Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White · White Pants</div></div>
-  <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black</div></div>
+  <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black · Silver Pants · Silver Helmet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White &middot; MNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vikings</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
   <div style="background: #0085CA; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Panther Blue</div></div>
@@ -114,11 +121,11 @@ How does every one of these jerseys stack up? See our [Panthers jerseys 2026 ran
 
 **What jersey are the Panthers wearing today?**
 
-Week 10 at New Orleans, November 15, worn: silver helmet, white jersey and white pants. The Saints went all black, and Carolina won 20-17. We grade the matchup a B. This answer updates every week. For the rest of the season: Check the grid above, because Carolina has now published all seventeen games. Black at home in Weeks 4, 9, 11, 15, 17 and 18, Panther blue at home in Weeks 1, 7 and 14, and white in all eight road games. Pants and socks are still announced closer to kickoff.
+Week 10 at New Orleans, November 15, worn: silver helmet, white jersey and white pants. The Saints went all black, and Carolina won 20-17. We grade the matchup a B. Next up is Week 11 at home against Baltimore on Sunday, November 22, confirmed by the team: silver helmet, black jersey, silver pants and black socks. This answer updates every week. For the rest of the season: Check the grid above, because Carolina has now published all seventeen games. Black at home in Weeks 4, 9, 11, 15, 17 and 18, Panther blue at home in Weeks 1, 7 and 14, and white in all eight road games. Pants and socks are still announced closer to kickoff.
 
 **What jerseys are the Panthers wearing this week?**
 
-Week 10 at New Orleans, November 15, worn: silver helmet, white jersey and white pants. The Saints went all black, and Carolina won 20-17. We grade the matchup a B. For the rest of the season: Check the grid above, because Carolina has now published all seventeen games. Black at home in Weeks 4, 9, 11, 15, 17 and 18, Panther blue at home in Weeks 1, 7 and 14, and white in all eight road games. Pants and socks are still announced closer to kickoff.
+Week 10 at New Orleans, November 15, worn: silver helmet, white jersey and white pants. The Saints went all black, and Carolina won 20-17. We grade the matchup a B. Next up is Week 11 against Baltimore, confirmed: silver helmet, black jersey, silver pants and black socks. For the rest of the season: Check the grid above, because Carolina has now published all seventeen games. Black at home in Weeks 4, 9, 11, 15, 17 and 18, Panther blue at home in Weeks 1, 7 and 14, and white in all eight road games. Pants and socks are still announced closer to kickoff.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Panthers/status/2115497115115983341"></a></blockquote>
