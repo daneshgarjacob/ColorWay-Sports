@@ -10,6 +10,7 @@ import { buildNflTeamIndex } from "./nflTrackerTeamIndex";
 import { buildWinterIndex, shortDate } from "./winterTrackerIndex";
 import { NBA_TILE_COLORS } from "./nbaTileColors";
 import { TEAM_LOGO_BY_SLUG } from "./teamLogos";
+import { cardTeamSlug } from "./teamGroups";
 import kickoffData from "@/content/data/nfl-kickoffs-2026.json";
 import cfbJerseyData from "@/content/data/cfb-jersey-images.json";
 
@@ -275,6 +276,43 @@ export function withOpponents(cards: MyTeamCard[], now = new Date()): MyTeamCard
 export function teamPagePath(id: string): string {
   const [league, slug] = id.split(":");
   return `/teams/${league}/${slug}`;
+}
+
+export type TeamHub = { id: string; league: string; nickname: string; logo: string; href: string };
+
+// Card slug -> card, per league. Which clubs have a team page only changes when
+// a schedule post is added (a deploy), so it is built once per server process.
+let hubIndex: Map<string, Map<string, MyTeamCard>> | null = null;
+const POST_LEAGUE: Record<string, string> = { nfl: "nfl", nba: "nba", nhl: "nhl", mlb: "mlb", college: "cfb" };
+
+/**
+ * Story `teams:` tags -> the team pages (hubs) that exist for them, in tag
+ * order (Jake 11/21: from any story, one tap to the team's hub). Tags with no
+ * team page (conferences, soccer clubs) are skipped. The story's own league is
+ * tried first, then the rest, so "panthers"-style overlaps go the right way.
+ */
+export function teamHubsForTags(tags: string[], postLeague?: string): TeamHub[] {
+  if (!hubIndex) {
+    hubIndex = new Map();
+    for (const c of getMyTeamCards()) {
+      const [league, slug] = c.id.split(":");
+      if (!hubIndex.has(league)) hubIndex.set(league, new Map());
+      hubIndex.get(league)!.set(slug, c);
+    }
+  }
+  const first = POST_LEAGUE[postLeague ?? ""];
+  const order = [...(first ? [first] : []), ...["nfl", "nba", "nhl", "mlb", "cfb"].filter((l) => l !== first)];
+  const out: TeamHub[] = [];
+  for (const tag of tags) {
+    const slug = cardTeamSlug(tag);
+    for (const league of order) {
+      const c = hubIndex.get(league)?.get(slug);
+      if (!c) continue;
+      if (!out.some((h) => h.id === c.id)) out.push({ id: c.id, league, nickname: c.nickname, logo: c.logo, href: teamPagePath(c.id) });
+      break;
+    }
+  }
+  return out;
 }
 
 /** One club with its next `n` games, for its team page. */

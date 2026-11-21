@@ -19,6 +19,8 @@ import TrackerTeamIndex from "@/components/TrackerTeamIndex";
 import TrackerToolbar from "@/components/TrackerToolbar";
 import TeamQuickLinks from "@/components/TeamQuickLinks";
 import TeamMoreBlock from "@/components/TeamMoreBlock";
+import TeamHubLink from "@/components/TeamHubLink";
+import { teamHubsForTags } from "@/lib/myTeams";
 import TeamUniformAlerts from "@/components/TeamUniformAlerts";
 import { TEAM_ALERTS_LIVE, teamAlertId } from "@/lib/teamAlerts";
 import { buildTeamMoreLinks, opponentScheduleLink } from "@/lib/teamMoreLinks";
@@ -362,6 +364,11 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   // dozen clubs has no single "their page" to point at. Self-links are dropped so
   // a schedule post never offers a button back to itself.
   const storyTeams = post.teams ?? [];
+  // Jake 11/21: one tap from any story to each team's hub page, right under the
+  // byline. Roundups tagged with five or more clubs skip it: a wall of chips
+  // above the story is noise, and those readers are not after one team.
+  const allHubs = teamHubsForTags(storyTeams, post.league);
+  const teamHubs = allHubs.length <= 4 ? allHubs : [];
   const quickLinkTeams = (
     storyTeams.length === 1
       ? resolveTeamQuickLinks(buildTeamQuickLinks(), { team: storyTeams[0] })
@@ -540,6 +547,23 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
               })}
             </time>
           </div>
+          {teamHubs.length > 0 && (
+            <nav aria-label="Team Hubs" className="flex flex-wrap gap-2 mt-4">
+              {teamHubs.map((h) => (
+                <TeamHubLink
+                  key={h.id}
+                  teamId={h.id}
+                  placement="story"
+                  className="inline-flex items-center gap-2 min-h-[44px] max-w-full pl-2.5 pr-3.5 rounded-full border border-black/15 bg-white font-display font-extrabold text-[15px] text-black hover:border-black/40 hover:text-orange transition-colors"
+                >
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={h.logo} alt="" width={24} height={24} className="w-6 h-6 object-contain shrink-0" />
+                  <span className="truncate">{`${h.nickname} Hub`}</span>
+                  <span aria-hidden className="text-black/40">&rarr;</span>
+                </TeamHubLink>
+              ))}
+            </nav>
+          )}
           {(() => {
             const sponsor = sponsorForPost(post.slug);
             return sponsor ? <SponsorStrip sponsor={sponsor} /> : null;

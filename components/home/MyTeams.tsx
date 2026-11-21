@@ -10,6 +10,7 @@ import { useEffect, useState, type CSSProperties } from "react";
 import type { MyTeamCard, MyTeamLeague } from "@/lib/myTeams";
 import { clarityTag, trackEvent } from "@/lib/track";
 import RootingGuideLink from "@/components/rooting/RootingGuideLink";
+import TeamHubLink from "@/components/TeamHubLink";
 
 const KEY = "cw-myteams";
 const EVENT = "cw-myteams-change";
@@ -245,17 +246,24 @@ export function MyTeamsRow({
             const s = latest[t.id];
             return (
               // Phones gather the story-less teams into one shared row below.
-              <li key={t.id} className={`${s ? "flex" : "hidden lg:flex"} items-start gap-2 min-h-[44px] py-1.5 border-b border-border lg:border-b-0`}>
+              <li key={t.id} className={`${s ? "flex" : "hidden lg:flex"} items-center lg:items-start gap-2 min-h-[44px] lg:py-1.5 border-b border-border lg:border-b-0`}>
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={t.logo} alt="" width={20} height={20} className="w-5 h-5 object-contain shrink-0 mt-0.5" />
+                <img src={t.logo} alt="" width={20} height={20} className="w-5 h-5 object-contain shrink-0 lg:mt-0.5" />
                 {s ? (
-                  <Link prefetch={false} href={`/stories/${s.slug}`} className="min-w-0 text-[14px] font-bold leading-snug text-black hover:text-orange line-clamp-1 lg:line-clamp-2">
-                    {s.title}
-                  </Link>
+                  // Jake 11/21: every followed team's hub one tap away. Phones put
+                  // "Team Hub" at the end of the story line; desktop under it.
+                  <div className="min-w-0 flex-1 flex items-center gap-3 lg:flex-col lg:items-start lg:gap-0.5">
+                    <Link prefetch={false} href={`/stories/${s.slug}`} className="min-w-0 flex-1 lg:flex-none text-[14px] font-bold leading-snug text-black hover:text-orange line-clamp-1 lg:line-clamp-2">
+                      {s.title}
+                    </Link>
+                    <TeamHubLink teamId={t.id} placement="my_teams" className="shrink-0 inline-flex items-center min-h-[44px] lg:min-h-0 whitespace-nowrap text-[14px] font-extrabold font-display text-orange">
+                      Team Hub &rarr;
+                    </TeamHubLink>
+                  </div>
                 ) : (
-                  <Link prefetch={false} href={teamPage(t.id)} className="text-[14px] font-extrabold font-display text-orange">
-                    {`All ${t.nickname} →`}
-                  </Link>
+                  <TeamHubLink teamId={t.id} placement="my_teams" className="text-[14px] font-extrabold font-display text-orange">
+                    {`${t.nickname} Hub →`}
+                  </TeamHubLink>
                 )}
               </li>
             );
@@ -290,11 +298,11 @@ export function MyTeamsRow({
             {mine
               .filter((t) => !latest[t.id])
               .map((t) => (
-                <Link key={t.id} prefetch={false} href={teamPage(t.id)} className="inline-flex items-center gap-2 min-h-[44px] text-[14px] font-extrabold font-display text-orange">
+                <TeamHubLink key={t.id} teamId={t.id} placement="my_teams" className="inline-flex items-center gap-2 min-h-[44px] text-[14px] font-extrabold font-display text-orange">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img src={t.logo} alt="" width={20} height={20} className="w-5 h-5 object-contain" />
-                  {`All ${t.nickname} →`}
-                </Link>
+                  {`${t.nickname} Hub →`}
+                </TeamHubLink>
               ))}
           </div>
         )}
