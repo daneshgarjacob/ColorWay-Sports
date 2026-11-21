@@ -27,6 +27,7 @@ Below is every uniform announced so far, then every game this week involving an 
 - **What is UCF wearing vs. Iowa State?** Knights Script Mode: black helmet with the gold Knights script, black jersey, black pants.
 - **What is Iowa State wearing at UCF?** The cardinal Cyclones script helmet and a white jersey, from the team's "bounce house threads" video.
 - **What is TCU wearing vs. Utah?** Purple helmet, black jersey, purple pants, for its home finale.
+- **What is Ole Miss wearing vs. Wofford?** Military Appreciation: a gray and white camo helmet with the Ole Miss script in stars and stripes, navy jersey, gray pants.
 - **What is Tennessee wearing vs. LSU?** Home threads: white helmet, orange jersey, white pants.
 - **What is Washington wearing vs. Indiana?** "Husky Heritage": gold helmet with a purple and white center stripe, purple jersey with white numbers, gold pants.
 - **What is Oregon wearing at Michigan State?** Yellow helmet with green wings, white jersey, yellow pants.
@@ -45,6 +46,7 @@ Below is every uniform announced so far, then every game this week involving an 
 - **UCF: Knights Script Mode (Confirmed).** Black helmet with the Knights script in gold and gold center stripes, black jersey, black pants, vs. Iowa State on Friday for Senior Knight. Posted November 19 by UCF Equipment as "Introducing: Knights Script Mode" and by the football account as "Stormy Knights." [Details](/stories/ucf-knights-script-mode-uniform-iowa-state-2026).
 - **Iowa State: Cyclones helmet, white jersey (Confirmed).** Cardinal helmet with the white Cyclones script outlined in gold and a white and gold center stripe, white facemask, white jersey with IOWA STATE in cardinal, at UCF on Friday. Posted November 19 as "bounce house threads." The video does not show the pants.
 - **TCU: purple, black, purple (Confirmed).** Glossy purple helmet with TCU in white block letters over the horned frog, black jersey with white numbers trimmed in purple, purple pants, vs. No. 2 Utah for the home finale. Posted November 20 as "🟪 & ⬛️ under The Carter's lights." [Details and grade](/stories/tcu-purple-helmet-black-jersey-purple-pants-utah-2026).
+- **Ole Miss: Military Appreciation (Confirmed).** Gray and white camo helmet with the Ole Miss script filled in stars and stripes and REBS on the front bumper, navy jersey with white numbers, gray pants with a red stripe, vs. Wofford. Posted November 19 as "Military Appreciation Threads." The field gets a stars and stripes logo at midfield and red, white and blue end zones. Our grade: **B**. [Every detail](/stories/ole-miss-military-appreciation-uniform-flag-helmet-wofford-2026).
 - **Tennessee: home threads (Confirmed).** White helmet with the orange Power T, orange jersey, white pants, vs. LSU. Posted November 19.
 - **Virginia: navy, navy (Confirmed).** Navy helmet with the V-sabre logo, navy jersey with white numbers outlined in orange, vs. North Carolina. Posted November 18 as "Rivalry threads."
 
@@ -171,7 +173,7 @@ More: [Washington schedule](/stories/washington-huskies-uniform-schedule-2026) a
 ## Dates to Watch
 
 - **Florida State's turquoise** against NC State, with turquoise end zones at Doak Campbell Stadium.
-- **Military games:** Washington (Salute to Service, vs. Indiana), Baylor (Salute to Service, vs. Texas Tech) and Miami (Military Appreciation, vs. Virginia Tech, in digital camo with black pants).
+- **Military games:** Washington (Salute to Service, vs. Indiana), Baylor (Salute to Service, vs. Texas Tech), Ole Miss (Military Appreciation, vs. Wofford, with a stars and stripes script on its camo helmet) and Miami (Military Appreciation, vs. Virginia Tech, in digital camo with black pants).
 - **Crowd themes:** Missouri's Wear Black against Kentucky, with Kentucky fans asked to wear blue.
 - **College GameDay** is at Miami.
 - **Senior Days and home finales:** Michigan, USC, West Virginia, Georgia Tech, TCU, Minnesota, Purdue, Boise State (Senior Night on The Blue), Oregon State (Senior Night at Reser), Kansas, Liberty, Washington and Baylor. Duke has a drone show for Friday night against Clemson.
@@ -258,7 +260,8 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 - Florida: **Confirmed**, orange helmet, blue jersey, white pants, from its published season grid.
 
 **Wofford at No. 25 [Ole Miss](/stories/ole-miss-uniform-schedule-2026)**, noon, SEC Network+.
-- Ole Miss: **Expected**, a home color. Ole Miss wore navy over gray pants in its last home game, against Georgia.
+- Ole Miss: **Confirmed**, Military Appreciation: gray and white camo helmet with the Ole Miss script filled in stars and stripes, navy jersey with white numbers, gray pants with a red stripe. Posted November 19 as "Military Appreciation Threads." Our grade: **B**. [Every detail](/stories/ole-miss-military-appreciation-uniform-flag-helmet-wofford-2026).
+- Wofford: **Expected**, white.
 
 **[Colorado](/stories/colorado-uniform-schedule-2026) at [Cincinnati](/stories/cincinnati-uniform-schedule-2026)**, noon, ESPN+.
 - Colorado: **Expected**, white.
@@ -491,6 +494,10 @@ Knights Script Mode: a black helmet with the Knights script in gold, a black jer
 **What is TCU wearing vs. Utah?**
 
 A purple helmet with TCU in white block letters, a black jersey with white numbers trimmed in purple, and purple pants, posted November 20 for the home finale on Saturday at 9 p.m. Eastern on FOX. Our grade: A-.
+
+**What is Ole Miss wearing vs. Wofford?**
+
+Its Military Appreciation look: a gray and white camo helmet with the Ole Miss script filled in stars and stripes, a navy jersey with white numbers and gray pants with a red stripe, posted November 19. Kickoff is noon Eastern on SEC Network+. Our grade: B. [Every detail](/stories/ole-miss-military-appreciation-uniform-flag-helmet-wofford-2026).
 
 **What is Tennessee wearing vs. LSU?**
 

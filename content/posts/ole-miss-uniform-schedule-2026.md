@@ -3,7 +3,7 @@ title: "Ole Miss Uniform Schedule 2026: Every Jersey and When the Rebels Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-20"
 excerpt: "The Ole Miss 2026 uniform schedule: red and navy home jerseys, powder blue alternates, the white road set, Realtree helmets, and every Rebels game week by week."
 gradient: "linear-gradient(135deg, #14213D 0%, #CE1126 60%, #6CACE4 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Ole Miss opened 2026 in the navy helmet, navy jersey and gray pants against Louisville, then switched to the red jersey with the same helmet and pants against Charlotte. This is the full Ole Miss 2026 uniform schedule: the red and navy home jerseys, the powder blue alternate, the white road set, four helmet shells including the Realtree camo, and a week-by-week outlook for all twelve games, starting with Lane Kiffin's return to Oxford with LSU on September 19. We update this page as each combination is confirmed.
+
+**Update, November 20:** Ole Miss posted its **Military Appreciation** uniform for Wofford on Saturday: a **gray and white camo helmet with the Ole Miss script filled in stars and stripes**, a **navy jersey** and **gray pants**. Our grade: **B**. [Every detail](/stories/ole-miss-military-appreciation-uniform-flag-helmet-wofford-2026).
 
 **Update, November 15:** Ole Miss wore a **white helmet with the powder blue stripe and the red Ole Miss script, white jersey with powder blue numbers and white pants** at Oklahoma, in the game moved to Sunday, confirmed from game photos, and lost **24-17**.
 
@@ -43,7 +45,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
   <div style="background: #CE1126; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Navy</div></div>
   <div style="background: #CE1126; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White</div></div>
-  <div style="background: #CE1126; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wofford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Navy</div></div>
+  <div style="background: #14213D; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wofford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Flag Camo Helmet, Navy</div></div>
   <div style="background: #CE1126; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Navy</div></div>
 </div>
 
@@ -75,13 +77,19 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 
 **November 14 at Oklahoma, Norman** (moved to Sunday, November 15). ★ Confirmed from game photos: **white helmet with the powder blue stripe and the red Ole Miss script, white jersey with powder blue numbers, white pants**. Oklahoma wore crimson over white pants. **Final: Oklahoma 24, Ole Miss 17.** The Sooners' side is on our [Oklahoma 2026 uniform schedule](/stories/oklahoma-uniform-schedule-2026).
 
-**November 21 vs. Wofford, Oxford.** Home color expected. The FCS tune-up before the Egg Bowl and the kind of game where a helmet or pants swap is low risk.
+**November 21 vs. Wofford, Oxford**, noon ET (11 a.m. Central) on SEC Network+. ★ Confirmed by Ole Miss, posted Thursday as "Military Appreciation Threads": **gray and white camo helmet with the Ole Miss script filled in stars and stripes, a navy and red center stripe and REBS on the front bumper, navy jersey with white numbers, gray pants with a red stripe**. The helmet has the same gray and white camo finish as the Missouri Realtree helmet, with the red script swapped for a flag script. The field matches: a stars and stripes Ole Miss logo at midfield, a navy end zone with white stars and a red and white striped end zone. Wofford is expected in white. Our grade: **B**. [Every detail and our take](/stories/ole-miss-military-appreciation-uniform-flag-helmet-wofford-2026).
 
-**November 27 vs. Mississippi State, Oxford.** Home color expected. The Egg Bowl moves to the Friday after Thanksgiving in Oxford. In 2025 the Rebels won it in Starkville in white with the gray and white Realtree helmet, so a camo encore is possible here too if it is not used earlier.
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OleMissFB/status/2123583165453472060"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Military Appreciation uniform for Wofford, via <a href="https://x.com/OleMissFB" target="_blank" rel="noopener">@OleMissFB</a></p>
+
+**November 27 vs. Mississippi State, Oxford.** Home color expected. The Egg Bowl moves to the Friday after Thanksgiving in Oxford. In 2025 the Rebels won it in Starkville in white with the gray and white Realtree helmet, so a camo encore is possible here too, though Ole Miss has already worn the camo helmet twice this season, against Missouri and Wofford.
 
 ## The Bottom Line
 
-Through the first five games, Ole Miss showed the navy and red jerseys under the navy helmet over gray pants, and then went to the full powder blue set for LSU, which is exactly the pattern: traditional looks for the ordinary weeks, powder blue for the night the season turns on. On the road it wore the powder blue helmet, white jersey and white pants at Florida, Vanderbilt and Texas, then a white helmet with the powder blue stripe over a white jersey and white pants at Oklahoma. Ole Miss posted the Realtree helmet for Missouri on October 17, a gray and white camo shell with a red jersey and gray pants, and went navy, navy, gray against Georgia on November 7. The last two games, Wofford and the Egg Bowl, are both at home. The grid above has every game, and we star each cell as the uniform is confirmed.
+Through the first five games, Ole Miss showed the navy and red jerseys under the navy helmet over gray pants, and then went to the full powder blue set for LSU, which is exactly the pattern: traditional looks for the ordinary weeks, powder blue for the night the season turns on. On the road it wore the powder blue helmet, white jersey and white pants at Florida, Vanderbilt and Texas, then a white helmet with the powder blue stripe over a white jersey and white pants at Oklahoma. Ole Miss posted the Realtree helmet for Missouri on October 17, a gray and white camo shell with a red jersey and gray pants, and went navy, navy, gray against Georgia on November 7. For Military Appreciation against Wofford, it brought the camo helmet back with a stars and stripes script, over a navy jersey and gray pants. The Egg Bowl, at home on November 27, is last. The grid above has every game, and we star each cell as the uniform is confirmed.
 
 Want every big game in one place? Our [college football Week 3 uniform guide](/stories/college-football-week-3-uniforms-2026) has what every top team is wearing this Saturday.
 
@@ -89,7 +97,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Ole Miss wearing this week?**
 
-Ole Miss wore a white helmet with the powder blue stripe and the red Ole Miss script, a white jersey with powder blue numbers and white pants at Oklahoma on Sunday, November 15, confirmed from game photos. Oklahoma won 24-17. Next is Wofford at home on November 21, where a home color is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Ole Miss wore a white helmet with the powder blue stripe and the red Ole Miss script, a white jersey with powder blue numbers and white pants at Oklahoma on Sunday, November 15, confirmed from game photos. Oklahoma won 24-17. Next is Wofford at home on November 21, the Military Appreciation game, where Ole Miss wears a gray and white camo helmet with a stars and stripes Ole Miss script, a navy jersey and gray pants, posted by the team on November 19. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Ole Miss's football uniforms for 2026?**
 
@@ -97,7 +105,15 @@ A red home jersey, a navy home jersey, a white road jersey with powder blue nume
 
 **Does Ole Miss have a new alternate uniform in 2026?**
 
-The 2026 Realtree helmet is the one to know. Ole Miss has introduced a Realtree camo helmet each year recently, navy camo in 2024 and gray and white camo in 2025, and on October 15 it posted "Rockin' RealTree" for the October 17 Missouri game: a gray and white camo helmet with the Ole Miss script and a red and navy stripe, worn with the red jersey and gray pants.
+The 2026 Realtree helmet is the one to know. Ole Miss has introduced a Realtree camo helmet each year recently, navy camo in 2024 and gray and white camo in 2025, and on October 15 it posted "Rockin' RealTree" for the October 17 Missouri game: a gray and white camo helmet with the Ole Miss script and a red and navy stripe, worn with the red jersey and gray pants. For Military Appreciation against Wofford on November 21, the camo helmet returns with the Ole Miss script filled in stars and stripes, over a navy jersey and gray pants.
+
+**What is Ole Miss wearing against Wofford?**
+
+The Military Appreciation look: a gray and white camo helmet with the Ole Miss script filled in stars and stripes, REBS on the front bumper and HOTTY TODDY on the back, a navy jersey with white numbers and gray pants with a red stripe. Kickoff is noon Eastern on SEC Network+. [Every detail](/stories/ole-miss-military-appreciation-uniform-flag-helmet-wofford-2026).
+
+**Does Ole Miss wear a USA or military uniform?**
+
+Yes, in 2026 it is the Wofford game on November 21. The USA pieces are on the helmet, with the stars and stripes script and an American flag decal on the back, and on the field, which has a flag Ole Miss logo at midfield and red, white and blue end zones. The jersey is the regular navy home jersey.
 
 **What did Ole Miss wear against Louisville?**
 

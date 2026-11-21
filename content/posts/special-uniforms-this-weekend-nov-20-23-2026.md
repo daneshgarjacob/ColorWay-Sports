@@ -11,7 +11,7 @@ kicker: "This Weekend"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/leagues/nba.png"
 league: nfl
-teams: ["ucf-knights", "oregon-ducks", "florida-state-seminoles", "miami-hurricanes", "washington-huskies", "maryland-terrapins", "byu-cougars", "arizona-state-sun-devils", "buffalo-bills", "detroit-lions", "tennessee-titans", "los-angeles-chargers", "washington-commanders", "boston-celtics"]
+teams: ["ucf-knights", "oregon-ducks", "florida-state-seminoles", "miami-hurricanes", "ole-miss-rebels", "washington-huskies", "maryland-terrapins", "byu-cougars", "arizona-state-sun-devils", "buffalo-bills", "detroit-lions", "tennessee-titans", "los-angeles-chargers", "washington-commanders", "boston-celtics"]
 resurfaceOnUpdate: true
 ---
 
@@ -30,6 +30,7 @@ Thursday night is already covered: the Texans debut the white-helmet HOUSTON/US 
 | Red Deer Rebels (WHL) | Fri | 1992 retro: black, white and grey with the original script | None yet |
 | Florida State | Sat | First turquoise game: gold helmet, turquoise jersey, turquoise pants | A+ |
 | Miami | Sat | Digital camo: black helmet with camo U, camo jersey, black pants | B- |
+| Ole Miss | Sat | Military Appreciation: gray camo helmet with a stars and stripes Ole Miss script, navy jersey, gray pants | B |
 | Washington | Sat | Husky Heritage: gold helmet, purple jersey, gold pants | None yet |
 | Maryland | Sat | Script Shift: all white with iridescent gold, black and red script | None yet |
 | BYU | Sat | All white with a royal blue facemask | A- |
@@ -110,6 +111,15 @@ These are on each team's published jersey schedule. Full dates are on each sched
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/CanesFootball/status/2123504310382113120"></a></blockquote>
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Miami's 2026 Military Appreciation uniform, via <a href="https://x.com/CanesFootball" target="_blank" rel="noopener">@CanesFootball</a></p>
+
+### Ole Miss: Military Appreciation Vs. Wofford
+
+**Saturday, noon ET (11 a.m. Central), SEC Network+. Confirmed.** Ole Miss wears a **gray and white camo helmet with the Ole Miss script filled in stars and stripes**, a navy and red center stripe and REBS on the front bumper, a **navy jersey with white numbers** and **gray pants with a red stripe**. The team posted it on Thursday night as "Military Appreciation Threads." The helmet has the same camo finish as the Realtree helmet Ole Miss wore against Missouri in October, with a flag script in place of the red one, and the field at Vaught-Hemingway gets a stars and stripes logo at midfield and red, white and blue end zones. Wofford is expected in white. Our grade: **B**, because the flag script is hard to read on the camo shell. [Every detail](/stories/ole-miss-military-appreciation-uniform-flag-helmet-wofford-2026).
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OleMissFB/status/2123583165453472060"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Ole Miss's Military Appreciation uniform, via <a href="https://x.com/OleMissFB" target="_blank" rel="noopener">@OleMissFB</a></p>
 
 ### Washington: Husky Heritage Vs. Indiana
 
@@ -293,7 +303,7 @@ Saturday in Tallahassee is the look of the weekend. Florida State put turquoise 
 
 **What special uniforms are being worn this weekend?**
 
-From Friday, November 20 to Monday, November 23, 2026: Florida State's first turquoise game, Miami's digital camo, UCF's Knights Script Mode, TCU's purple helmet and black jersey, Washington's Husky Heritage, Maryland's Script Shift, Buffalo's all-white Cold Front, Detroit's black alternate, Washington's black Hail Raiser on Monday night, the Pacers' and Nets' ABA throwbacks, the Maine Celtics' L.L.Bean camo, and Hometown Remix sweaters for the Hurricanes, Predators, Sharks, Canucks, Jets, Blues and Canadiens.
+From Friday, November 20 to Monday, November 23, 2026: Florida State's first turquoise game, Miami's digital camo, Ole Miss's stars and stripes camo helmet, UCF's Knights Script Mode, TCU's purple helmet and black jersey, Washington's Husky Heritage, Maryland's Script Shift, Buffalo's all-white Cold Front, Detroit's black alternate, Washington's black Hail Raiser on Monday night, the Pacers' and Nets' ABA throwbacks, the Maine Celtics' L.L.Bean camo, and Hometown Remix sweaters for the Hurricanes, Predators, Sharks, Canucks, Jets, Blues and Canadiens.
 
 **What alternate uniforms are in the NFL this week?**
 
@@ -330,6 +340,10 @@ Sunday, November 22, at 1 p.m. against Capital City. The Maine Celtics wear it f
 **Is Arizona State wearing its throwback against Oklahoma State?**
 
 It has been reported by the ASU Devils site on On3, but Arizona State had not posted it as of Thursday. The Roses &amp; Devils throwback is a gold helmet with the full-body Sparky, a maroon jersey and gold pants.
+
+**What is Ole Miss wearing against Wofford?**
+
+Its Military Appreciation uniform: a gray and white camo helmet with the Ole Miss script filled in stars and stripes, a navy jersey and gray pants, on Saturday at noon ET on SEC Network+. Our grade: B.
 
 **What is UCF wearing against Iowa State?**
 
