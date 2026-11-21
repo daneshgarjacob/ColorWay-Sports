@@ -9,6 +9,7 @@ import { AUTHORS } from "@/lib/authors";
 import { getAllQuizzes } from "@/lib/quiz";
 import { allRecordTeamSlugs } from "@/lib/uniformRecords";
 import { browsePaths } from "@/lib/browse";
+import teamPageIds from "@/content/data/team-page-ids.json";
 
 // Built once per deploy and served from the CDN. Without this the sitemap was
 // rendered on demand for every crawler hit, re-parsing all posts each time.
@@ -275,6 +276,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "daily" as const,
       priority: 0.7,
     })),
+    // Rooting Guide (11/20): the hub and the 32 NFL team pages. College pages
+    // depend on this week's rankings, which a static sitemap cannot know, so
+    // they are found through the hub instead.
+    {
+      url: "https://www.colorwaysports.com/rooting-guide",
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.8,
+    },
+    ...(teamPageIds as string[])
+      .filter((id) => id.startsWith("nfl:"))
+      .map((id) => ({
+        url: `https://www.colorwaysports.com/rooting-guide/nfl/${id.slice(4)}`,
+        lastModified: new Date(),
+        changeFrequency: "daily" as const,
+        priority: 0.7,
+      })),
     ...teamUrls,
     ...postUrls,
   ];

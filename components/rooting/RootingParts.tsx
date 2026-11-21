@@ -1,50 +1,12 @@
-// Rooting Guide pieces (MOCKUP 11/20). Newspaper sports page, not cards:
-// one row design for every game, thin rules, the "Root For" line carries it.
+// Rooting Guide pieces (approved mockup 11/20). Newspaper sports page, not
+// cards: one row design for every game, thin rules, the "Root For" line
+// carries it. Data comes from lib/rootingGuide (live ESPN feeds).
 
-export type RootGame = {
-  level: "Big" | "Helps" | "A Little";
-  root: string;
-  rootLogoAbbr: string;
-  over: string;
-  matchup: string;
-  when: string;
-  reason: string;
-};
+import type { DoneGame, RootGame } from "@/lib/rootingGuide/types";
 
-export type DoneGame = { result: string; when: string; verdict: string; reason: string };
+export type { DoneGame, RootGame };
 
 export const LABEL = "font-display text-[12px] font-black tracking-[0.16em] uppercase";
-
-// Only files that exist in public/logos/teams/. A missing one shows no logo.
-const LOGO_BY_ABBR: Record<string, string> = {
-  PHI: "nfl-philadelphia-eagles",
-  DEN: "nfl-denver-broncos",
-  CAR: "nfl-carolina-panthers",
-  WSH: "nfl-washington-commanders",
-  NYG: "nfl-new-york-giants",
-  ARI: "nfl-arizona-cardinals",
-  BUF: "nfl-buffalo-bills",
-  DAL: "nfl-dallas-cowboys",
-  LAC: "nfl-los-angeles-chargers",
-  LV: "nfl-las-vegas-raiders",
-  BAL: "nfl-baltimore-ravens",
-  NO: "nfl-new-orleans-saints",
-  NEB: "ncaa-nebraska-cornhuskers",
-  ILL: "ncaa-illinois-fighting-illini",
-  MIZ: "ncaa-missouri-tigers",
-  UCLA: "ncaa-ucla-bruins",
-  KU: "ncaa-kansas-jayhawks",
-  GT: "ncaa-georgia-tech-yellow-jackets",
-  BAY: "ncaa-baylor-bears",
-  LSU: "ncaa-lsu-tigers",
-  KSU: "ncaa-kansas-state-wildcats",
-  USC: "ncaa-usc-trojans",
-  MICH: "ncaa-michigan-wolverines",
-  WASH: "ncaa-washington-huskies",
-  LOU: "ncaa-louisville-cardinals",
-};
-
-export const logoFor = (abbr: string) => (LOGO_BY_ABBR[abbr] ? `/logos/teams/${LOGO_BY_ABBR[abbr]}.png` : undefined);
 
 // The level steps down in weight: Big is a solid royal tag on a heavy rule,
 // Helps an outlined tag, A Little plain gray words.
@@ -71,7 +33,7 @@ function Logo({ src, alt, cls }: { src: string; alt: string; cls: string }) {
 }
 
 export function GameRow({ g, quiet }: { g: RootGame; quiet?: boolean }) {
-  const logo = logoFor(g.rootLogoAbbr);
+  const logo = g.rootLogo;
   return (
     <li className={`${LEVEL_RULE[g.level]} py-6 sm:grid sm:grid-cols-[76px_1fr] sm:gap-x-6`}>
       <div className="hidden sm:block pt-1">

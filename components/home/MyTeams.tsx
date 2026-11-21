@@ -9,6 +9,7 @@ import Link from "next/link";
 import { useEffect, useState, type CSSProperties } from "react";
 import type { MyTeamCard, MyTeamLeague } from "@/lib/myTeams";
 import { clarityTag, trackEvent } from "@/lib/track";
+import RootingGuideLink from "@/components/rooting/RootingGuideLink";
 
 const KEY = "cw-myteams";
 const EVENT = "cw-myteams-change";
@@ -145,6 +146,7 @@ export function MyTeamsRow({
   teams,
   teamPages,
   latest = {},
+  rooting = {},
   reportView,
 }: {
   teams: MyTeamCard[];
@@ -153,6 +155,8 @@ export function MyTeamsRow({
   latest?: Record<string, { slug: string; title: string }>;
   /** Homepage only: send the my_teams_view GA4 event with the saved-team count. */
   reportView?: boolean;
+  /** 11/20: first three Rooting Guide picks per NFL / ranked college club (lib/rootingGuide, server side). */
+  rooting?: Record<string, string[]>;
 }) {
   useReportMyTeamsCount(!!reportView);
   const [ids, toggle] = useFollowed();
@@ -257,6 +261,30 @@ export function MyTeamsRow({
             );
           })}
         </ul>
+        {/* 11/20: one "Root For" line per NFL / ranked college club, into its Rooting Guide. */}
+        {mine.some((t) => rooting[t.id]?.length) && (
+          <ul style={cols} className={`m-0 p-0 list-none ${grid}`}>
+            {mine.map((t) => {
+              const picks = rooting[t.id];
+              return (
+                <li key={t.id} className={`${picks?.length ? "flex" : "hidden lg:block"} items-center min-h-[44px] border-b border-border lg:border-b-0`}>
+                  {picks?.length ? (
+                    <RootingGuideLink
+                      teamId={t.id}
+                      className="flex items-center gap-2 min-w-0 min-h-[44px] text-[14px] leading-snug text-black hover:text-orange"
+                    >
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img src={t.logo} alt="" width={20} height={20} className="w-5 h-5 object-contain shrink-0 lg:hidden" />
+                      <span className="min-w-0 truncate">
+                        <span className="font-display font-black">Root For:</span> {picks.join(", ")}
+                      </span>
+                    </RootingGuideLink>
+                  ) : null}
+                </li>
+              );
+            })}
+          </ul>
+        )}
         {mine.some((t) => !latest[t.id]) && (
           <div className="lg:hidden flex flex-wrap gap-x-5 min-h-[44px] items-center py-1">
             {mine

@@ -9,6 +9,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { FollowButton } from "@/components/home/MyTeams";
+import RootingGuideLink from "@/components/rooting/RootingGuideLink";
 import { getMyTeamCards, getTeamCard, teamPagePath, type NextGame } from "@/lib/myTeams";
 import { getAllPostsByDate } from "@/lib/posts";
 import Breadcrumbs from "@/components/browse/Breadcrumbs";
@@ -136,6 +137,10 @@ export default async function TeamPage({ params }: { params: Promise<{ league: s
             <a href="#this-week" className="pb-3 border-b-2 border-white whitespace-nowrap">This Week</a>
             {rest.length > 0 && <a href="#coming-up" className="pb-3 text-white/75 whitespace-nowrap">Coming Up</a>}
             <Link prefetch={false} href={card.href} className="pb-3 text-white/75 whitespace-nowrap">Uniform Schedule</Link>
+            {/* 11/20: who to root for this week, NFL and college. */}
+            {(league === "nfl" || league === "cfb") && (
+              <RootingGuideLink teamId={card.id} placement="team_page" className="pb-3 text-white/75 whitespace-nowrap">Rooting Guide</RootingGuideLink>
+            )}
             {stories.length > 0 && <a href="#stories" className="pb-3 text-white/75">Stories</a>}
             {group && <Link prefetch={false} href={groupPath(group)} className="pb-3 text-white/75 whitespace-nowrap">{group.name}</Link>}
           </nav>

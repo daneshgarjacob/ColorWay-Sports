@@ -7,6 +7,7 @@ import { newestStoryByTeam } from "@/lib/browse";
 import { LEAGUE_HUBS } from "@/lib/teamGroups";
 import Link from "next/link";
 import { getMyTeamCards } from "@/lib/myTeams";
+import { rootingPicksOrEmpty } from "@/lib/rootingGuide/feeds";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
 
 // My Teams on its own page (Jake 11/4): the clubs a reader follows, each with
@@ -40,7 +41,7 @@ export default async function MyTeamsPage() {
             ))}
           </nav>
         </div>
-        <MyTeamsRow teams={cards} teamPages latest={newestStoryByTeam()} />
+        <MyTeamsRow teams={cards} teamPages latest={newestStoryByTeam()} rooting={await rootingPicksOrEmpty()} />
         {/* Mediavine in-feed spot (11/6) between the followed teams and the picker. */}
         <div className="max-w-[1200px] mx-auto px-5 pt-6"><MvSlot /></div>
         <TeamPicker teams={cards} />

@@ -5,6 +5,7 @@ import { latestStandsDate, standsPhotoFor, standsPool } from "@/lib/homeToday";
 import { MyTeamsRow, TeamPicker } from "@/components/home/MyTeams";
 import { newestStoryByTeam } from "@/lib/browse";
 import { getMyTeamCards, withOpponents } from "@/lib/myTeams";
+import { rootingPicksOrEmpty } from "@/lib/rootingGuide/feeds";
 import { tonightMatchups } from "@/lib/tonight";
 import TonightRow from "@/components/home/TonightRow";
 import PopularSchedules from "@/components/home/PopularSchedules";
@@ -355,6 +356,8 @@ export default async function Home() {
   const standsPhoto = standsPhotoFor(todayEt, new Set([...heroSlugs, ...gridSlugs]));
   const standsPhotos = standsPool(new Set([...heroSlugs, ...gridSlugs]));
   const myTeamMatchups = withOpponents(myTeamCards);
+  // First three Rooting Guide picks per club (cached six hours; {} if ESPN is down).
+  const rootingPicks = await rootingPicksOrEmpty();
   const tonightGames = tonightMatchups(new Date());
   const todayLong = new Date(`${todayEt}T12:00:00Z`).toLocaleDateString("en-US", {
     weekday: "long",
@@ -375,7 +378,7 @@ export default async function Home() {
             bands are gone; /tonight holds every game. */}
         {/* Jake 11/2: the reader's followed teams, next uniform first. Shows only
             after they follow a team in the Find Your Team row below. */}
-        <MyTeamsRow teams={myTeamMatchups} teamPages latest={newestStoryByTeam()} reportView />
+        <MyTeamsRow teams={myTeamMatchups} teamPages latest={newestStoryByTeam()} rooting={rootingPicks} reportView />
 
         {/* 10/5: lead story (2/3) + Jake's Takes rail (1/3) */}
         {heroPost && (
