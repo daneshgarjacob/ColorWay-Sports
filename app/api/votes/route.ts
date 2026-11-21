@@ -38,8 +38,20 @@ const ipOf = (req: NextRequest) =>
 
 const bad = (error: string, status = 400) => NextResponse.json({ error }, { status, headers: { "Cache-Control": "no-store" } });
 
+// Two kinds of 503, which the vote box words differently: "unavailable" = no
+// store is configured (the pick stays on the reader's device), "failed" = the
+// store errored (the reader is told the vote did not save and can retry).
 const unavailable = () =>
-  NextResponse.json({ error: "Site votes are not available yet." }, { status: 503, headers: { "Cache-Control": "no-store" } });
+  NextResponse.json(
+    { error: "Site votes are not available yet.", code: "unavailable" },
+    { status: 503, headers: { "Cache-Control": "no-store" } }
+  );
+
+const failed = () =>
+  NextResponse.json(
+    { error: "Could not save the vote. Try again.", code: "failed" },
+    { status: 503, headers: { "Cache-Control": "no-store" } }
+  );
 
 const tally = (poll: Poll, c: Counts): VoteTally => ({ item: poll.id, count: c.a + c.b, a: c.a, b: c.b, closed: isClosed(poll) });
 
@@ -54,7 +66,7 @@ export async function GET(request: NextRequest) {
     return ok(tally(poll, await store.get(poll.id)), "public, s-maxage=60, stale-while-revalidate=300");
   } catch (e) {
     console.log(`[Votes] GET ${poll.id} failed: ${(e as Error).message}`);
-    return unavailable();
+    return failed();
   }
 }
 
@@ -86,6 +98,6 @@ export async function POST(request: NextRequest) {
     return ok(tally(poll, await store.cast(poll.id, body.anon.toLowerCase(), body.choice)), "no-store");
   } catch (e) {
     console.log(`[Votes] POST ${poll.id} failed: ${(e as Error).message}`);
-    return unavailable();
+    return failed();
   }
 }
