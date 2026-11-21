@@ -49,7 +49,7 @@ The Bengals have confirmed **orange helmets, white jerseys and white pants**, so
 
 ## Our Grade: Pending
 
-We grade the field after Jake has seen it. Check back for the grade.
+We will grade the field once it is shown in full on Monday night. Check back for the grade.
 
 ## Frequently Asked Questions
 
