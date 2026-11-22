@@ -83,7 +83,7 @@ What all ten teams wear this year, game by game: [NFL Thanksgiving Uniforms 2026
 
 ## One More Thing: A Free Shirt
 
-One person who comments their favorite Thanksgiving uniform on our TikTok, [@colorway.sports](https://www.tiktok.com/@colorway.sports), this week (through Thanksgiving, November 26) wins a free shirt from BreakingT. We pick the winner at random after Thanksgiving and message them on TikTok. Open to US residents only. No purchase necessary.
+One person who comments their favorite Thanksgiving uniform on our TikTok, [@colorway.sports](https://www.tiktok.com/@colorway.sports), this week (through Thanksgiving, November 26) wins a free shirt from <a href="https://breakingt.com/collections/all?rfsn=9408677.d1e2b7" rel="sponsored noopener" target="_blank">BreakingT</a>. We pick the winner at random after Thanksgiving and message them on TikTok. Open to US residents only. No purchase necessary. ColorWay Sports may earn a commission on BreakingT purchases made through our links.
 
 ## FAQs
 
