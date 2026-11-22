@@ -3,7 +3,7 @@ title: "Tennessee Uniform Schedule 2026: Every Jersey and When the Vols Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-20"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-21"
 excerpt: "What Tennessee wears every game in 2026, including the new Smokey Grey Neyland tribute against Auburn and orange against Alabama."
 gradient: "linear-gradient(135deg, #FF8200 0%, #3a2408 55%, #58595B 130%)"
 coverImage: "/images/posts/tennessee-uniform-schedule-2026/cover.jpg"
@@ -17,7 +17,7 @@ resurfaceOnUpdate: true
 
 Wondering what jersey Tennessee is wearing this week? This is the full Tennessee 2026 uniform schedule, game by game. Orange at Neyland, white on the road, and two dates that break the pattern: the new Smokey Grey, worn against Auburn on October 3 in a 24-14 win, and orange against Alabama on the Third Saturday in October.
 
-**Update, November 19:** Tennessee is in its **home threads against LSU** on Saturday, November 21: **white helmet with the orange Power T, orange jersey, white pants**, posted by the team on Thursday.
+**Update, November 21:** Tennessee wore its **home threads against LSU** as posted, a **white helmet with the orange Power T, orange jersey and white pants**, confirmed from the game broadcast, and won **27-13**. LSU wore a gold helmet, white jersey and gold pants.
 
 **Update, November 14:** Tennessee wore **all white** at Texas A&M, white helmet with the orange Power T, white jersey and white pants, confirmed from the game broadcast, and won **22-7**. Texas A&M wore its Operation: Blackout uniform at Kyle Field.
 
@@ -90,7 +90,7 @@ Twelve games, seven at Neyland, two alternates on the calendar.
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Dark Mode</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas A&amp;M</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #FF8200; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White / Orange / White</div></div>
+  <div style="background: #FF8200; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Orange / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -122,7 +122,7 @@ Twelve games, seven at Neyland, two alternates on the calendar.
 
 **November 14 at Texas A&M**, College Station. Road. ★ Confirmed by Tennessee: **white helmet with the orange Power T and white jersey**, from its pregame post. Texas A&M wears its all-black Operation: Blackout look. **Worn: white helmet, white jersey, white pants**, confirmed from the game broadcast. **Final: Tennessee 22, Texas A&M 7.**
 
-**November 21 vs. LSU**, Knoxville, 3:30 p.m. Eastern on ABC. Confirmed by Tennessee: **white helmet with the orange Power T, orange jersey, white pants**, the standard home set, posted on Thursday, November 19, as "home threads." The Smokey Grey and Dark Mode alternates both stay in the closet for the last home game of the season. LSU is expected in white, its usual road look against SEC hosts in color. More: [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026) and every look this weekend in the [college football Week 12 uniform guide](/stories/college-football-week-12-uniforms-2026).
+**November 21 vs. LSU**, Knoxville, 3:30 p.m. Eastern on ABC. Confirmed by Tennessee: **white helmet with the orange Power T, orange jersey, white pants**, the standard home set, posted on Thursday, November 19, as "home threads." The Smokey Grey and Dark Mode alternates both stay in the closet for the last home game of the season. Worn as posted, confirmed from the game broadcast. LSU wore a gold helmet, white jersey and gold pants. **Final: Tennessee 27, LSU 13.** More: [LSU 2026 uniform schedule](/stories/lsu-uniform-schedule-2026) and every look this weekend in the [college football Week 12 uniform guide](/stories/college-football-week-12-uniforms-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Vol_Football/status/2123457307430228226"></a></blockquote>
@@ -139,7 +139,7 @@ October 3 was the first alternate uniform on the calendar, and the Smokey Grey w
 
 ## The Bottom Line
 
-Tennessee's 2026 uniform schedule is orange at Neyland and white on the road, with two alternates. The Smokey Grey Neyland centennial set went on **October 3 against Auburn**, a 24-14 win that moved Tennessee to 4-1, and the Vols wear **orange against Alabama on October 17** in the first color vs color Third Saturday in October since 1970. The Dark Mode black alternate went on **November 7 against Kentucky**, a 34-6 win. The Vols finish against LSU at Neyland on November 21 and at Vanderbilt on November 28.
+Tennessee's 2026 uniform schedule is orange at Neyland and white on the road, with two alternates. The Smokey Grey Neyland centennial set went on **October 3 against Auburn**, a 24-14 win that moved Tennessee to 4-1, and the Vols wear **orange against Alabama on October 17** in the first color vs color Third Saturday in October since 1970. The Dark Mode black alternate went on **November 7 against Kentucky**, a 34-6 win. The Vols beat LSU 27-13 at Neyland on November 21 in the standard home set and finish at Vanderbilt on November 28.
 
 For more, see the [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026) and the [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026).
 
@@ -147,7 +147,7 @@ For more, see the [Alabama 2026 uniform schedule](/stories/alabama-uniform-sched
 
 **What jersey is Tennessee wearing this week?**
 
-Tennessee wore all white, white helmet with the orange Power T, white jersey and white pants, at Texas A&M on Saturday, November 14, confirmed from the game broadcast, and won 22-7. The week before, the Vols beat Kentucky 34-6 in the Dark Mode all-black alternate. Next is LSU at Neyland on Saturday, November 21, and Tennessee has confirmed its home threads: white helmet with the orange Power T, orange jersey and white pants. For the season, Tennessee wears orange at Neyland Stadium and white on the road. The other exception was October 17 against Alabama, an orange home game with Alabama also in color.
+Tennessee wore its home threads, a white helmet with the orange Power T, orange jersey and white pants, against LSU at Neyland on Saturday, November 21, as posted by the team and confirmed from the game broadcast, and won 27-13. The week before, the Vols won 22-7 at Texas A&M in all white. Next is the regular season finale at Vanderbilt on November 28, where white is expected. For the season, Tennessee wears orange at Neyland Stadium and white on the road. The other exception was October 17 against Alabama, an orange home game with Alabama also in color.
 
 **When did Tennessee wear the Smokey Grey uniform in 2026?**
 

@@ -3,7 +3,7 @@ title: "Northwestern Uniform Schedule 2026: Every Jersey and When the Wildcats W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Northwestern wears every game in 2026: the purple home set, the white road look, the new Purple Gothics alternate, and every game week by week."
 gradient: "linear-gradient(135deg, #4E2A84 0%, #6b3fa0 55%, #B6862C 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Northwestern ran through ten different uniform combinations last season, so "purple at home, white on the road" only gets you halfway. This is the full Northwestern 2026 uniform schedule: the purple home set, the white road set, the black Gothics, the brand new Purple Gothics alternate that has a debut date already circled, and a week-by-week outlook for all twelve games. The season also splits across two stadiums, because the new Ryan Field opens in October. We update this page as each combination is confirmed.
+
+**Update, November 21:** Northwestern wore a **white helmet with the purple N, white jersey and purple pants** at Minnesota, confirmed from the team's game photos, and lost **20-17**. Minnesota wore a maroon helmet, maroon jersey and gold pants.
 
 **Update, November 14:** Northwestern wore a **white helmet with the purple N, white jersey and purple pants** at Ohio State, confirmed from the team's game photos, and lost **28-19**.
 
@@ -74,7 +76,7 @@ One more thing shapes this schedule, and it is not a jersey. Northwestern played
   <div style="background: #ffffff; color: #4E2A84; border: 2px solid #4E2A84; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #4E2A84; color: #ffffff; border: 2px solid #B6862C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Purple / White</div></div>
   <div style="background: #ffffff; color: #4E2A84; border: 2px solid #4E2A84; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Purple</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Purple</div></div>
   <div style="background: #4E2A84; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
 </div>
 
@@ -114,7 +116,7 @@ One more thing shapes this schedule, and it is not a jersey. Northwestern played
 
 **November 14 at Ohio State.** White expected. Ohio Stadium, with the Buckeyes in scarlet. Our [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026) has that side. ★ Confirmed from Northwestern's own game photography: **white helmet with the purple N, white jersey, purple pants.** Ohio State wore the silver helmet, scarlet jersey and silver pants. **Final: Ohio State 28, Northwestern 19.**
 
-**November 21 at Minnesota.** White expected. Huntington Bank Stadium, and a maroon home team. The [Minnesota Gophers 2026 uniform schedule](/stories/minnesota-gophers-uniform-schedule-2026) tracks the Gophers.
+**November 21 at Minnesota.** White expected. Huntington Bank Stadium, and a maroon home team. The [Minnesota Gophers 2026 uniform schedule](/stories/minnesota-gophers-uniform-schedule-2026) tracks the Gophers. **Worn: white helmet with the purple N, white jersey, purple pants**, confirmed from the team's game photos, the same set as at Ohio State the week before. Minnesota wore a maroon helmet, maroon jersey and gold pants. **Final: Minnesota 20, Northwestern 17.**
 
 **November 28 vs. Illinois.** Purple expected. The Land of Lincoln Trophy game closes the regular season at home. The [Illinois 2026 uniform schedule](/stories/illinois-uniform-schedule-2026) has the Illini.
 
@@ -126,7 +128,7 @@ Northwestern is the rare program where the uniform is genuinely part of the week
 
 **What jersey is Northwestern wearing this week?**
 
-Northwestern wore a white helmet with the purple N, white jersey and purple pants at Ohio State on Saturday, November 14, confirmed from the team's game photos, and lost 28-19. A week earlier it wore a white helmet, purple jersey and white pants against Iowa and lost 24-10. Next is Minnesota on the road on November 21, where white is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
+Northwestern wore a white helmet with the purple N, white jersey and purple pants at Minnesota on Saturday, November 21, confirmed from the team's game photos, and lost 20-17. It was the same set the Wildcats wore at Ohio State a week earlier. Next is Illinois at home on November 28, the Land of Lincoln Trophy game, where purple is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
 
 **What are Northwestern's football uniforms for 2026?**
 

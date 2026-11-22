@@ -3,7 +3,7 @@ title: "Vanderbilt Uniform Schedule 2026: Every Jersey and When the Commodores W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-21"
 excerpt: "What Vanderbilt wears every game in 2026: the black home jersey, the white road set, the new gold alternate, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #C9A227 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Vanderbilt added a color to its closet this year and then wore it in Week 2, which means the most interesting question of the Commodores' season has already been answered once and is still not fully settled. This is the full Vanderbilt 2026 uniform schedule: the black home set, the white road set, the gold alternate that debuted against Delaware, the white helmet that started the first two games, the black shell that came out for NC State, and a week-by-week outlook for all twelve games ending with Tennessee at FirstBank Stadium. We update this page as each combination is confirmed.
 
-**Update, November 14:** Vanderbilt wore the **black helmet and black jersey** against Alabama, confirmed from the game broadcast, and lost **21-6**.
+**Update, November 21:** Vanderbilt wore **all white**, a white helmet, white jersey with gold numbers and white pants, at Florida, confirmed from the game broadcast, and lost **34-27**.
 
 ## The Vanderbilt 2026 Uniform Sets
 
@@ -48,7 +48,7 @@ The other new thing on the jersey is a patch. Vanderbilt signed an all-sports je
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #C9A227; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
 </div>
 
@@ -102,7 +102,7 @@ The [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) has 
 
 **November 14 vs. Alabama.** Black expected. The biggest home date on the calendar and the most likely slot for something special if Vanderbilt has anything left in the equipment room. [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026). **Worn: black helmet and black jersey**, confirmed from the game broadcast. **Final: Alabama 21, Vanderbilt 6.**
 
-**November 21 at Florida**, on SEC Network. White expected. Ben Hill Griffin Stadium. Florida is in its traditional home set, orange helmet, blue jersey and white pants, as listed on the season grid it published in August. Vanderbilt had not posted its game-day fit as of Thursday, November 19; it usually posts during game week, and we will add it here. [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026) and the [college football Week 12 uniform guide](/stories/college-football-week-12-uniforms-2026).
+**November 21 at Florida**, on SEC Network. White expected. Ben Hill Griffin Stadium. Florida is in its traditional home set, orange helmet, blue jersey and white pants, as listed on the season grid it published in August. [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026) and the [college football Week 12 uniform guide](/stories/college-football-week-12-uniforms-2026). **Worn: white helmet, white jersey with gold numbers, white pants**, confirmed from the game broadcast. Florida wore the orange helmet, blue jersey and white pants. **Final: Florida 34, Vanderbilt 27.**
 
 **November 28 vs. Tennessee.** Black expected. Senior Day, the rivalry game, and the season finale at FirstBank Stadium all at once. [Tennessee 2026 uniform schedule](/stories/tennessee-uniform-schedule-2026).
 
@@ -114,7 +114,7 @@ Vanderbilt wore three different jerseys, three helmets and two colors of pants i
 
 **What jersey is Vanderbilt wearing this week?**
 
-Vanderbilt wore the black helmet and black jersey against Alabama on Saturday, November 14, confirmed from the game broadcast, and lost 21-6. The week before, the Commodores wore the black helmet, white jersey and white pants at Mississippi State and won 25-23. Next is at Florida on November 21, where white is expected and Florida is in an orange helmet, blue jersey and white pants. We update the grid above the moment the team posts each game day fit.
+Vanderbilt wore all white, a white helmet, white jersey with gold numbers and white pants, at Florida on Saturday, November 21, confirmed from the game broadcast, and lost 34-27. Florida wore an orange helmet, blue jersey and white pants. Next is Tennessee at home on November 28, Senior Day, where black is expected. We update the grid above the moment the team posts each game day fit.
 
 **What are Vanderbilt's football uniforms for 2026?**
 

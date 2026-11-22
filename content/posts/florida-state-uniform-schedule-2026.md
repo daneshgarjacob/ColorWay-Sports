@@ -3,7 +3,7 @@ title: "Florida State Uniform Schedule 2026: Every Jersey and When the Seminoles
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Florida State's 2026 uniform schedule: every FSU jersey, helmet and pants combo, garnet home, white road, turquoise and alternates, week by week."
 gradient: "linear-gradient(135deg, #782F40 0%, #8f3a4e 55%, #CEB888 130%)"
 cardStyle: words
@@ -13,7 +13,9 @@ teams: ["florida-state-seminoles", "acc"]
 resurfaceOnUpdate: true
 ---
 
-Florida State has worn garnet jerseys and gold helmets in all four of the 2026 home games we have logged, with the pants switching between garnet and gold, and the white jersey in both road games we have logged, over garnet pants at Alabama and gold pants at Pittsburgh. This is the full Florida State 2026 uniform schedule: the garnet home set, the white road set, the white helmet, the turquoise Seminole Heritage uniform that still has not appeared in a game, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+Florida State has worn garnet jerseys and gold helmets in all four of the 2026 home games we have logged, with the pants switching between garnet and gold, and the white jersey in both road games we have logged, over garnet pants at Alabama and gold pants at Pittsburgh. This is the full Florida State 2026 uniform schedule: the garnet home set, the white road set, the white helmet, the turquoise Seminole Heritage uniform that finally appeared in a game on November 21, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** Florida State wore turquoise in a game for the first time against NC State: **gold helmet, turquoise jersey, turquoise pants**, confirmed from the game broadcast, and lost **28-10**. NC State wore all white.
 
 ## The Florida State 2026 Uniform Sets
 
@@ -21,7 +23,7 @@ Florida State has worn garnet jerseys and gold helmets in all four of the 2026 h
   <div style="background: #782F40; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Garnet Home</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Garnet jersey with white numerals trimmed in gold, numbers on the sleeves and Seminole patchwork at the cuffs and collar. Gold pants for the traditional look, garnet pants for the alternate.</div></div>
   <div style="background: #ffffff; color: #14284b; border: 1px solid #dfe3ea; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">White Road</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">White jersey with garnet numerals and the same patchwork trim. Gold pants are the traditional road pairing; garnet and white pants have both been used away from Tallahassee.</div></div>
   <div style="background: #CEB888; color: #2a1a1e; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">The Helmets</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Metallic gold shell with the garnet spear on both sides and a garnet facemask. The white shell, first worn in 2022, carries the same spear.</div></div>
-  <div style="background: #1f9e9a; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Turquoise Heritage</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">All-turquoise jersey and pants under the white helmet, shown in 2024 but never worn by the team in a game.</div></div>
+  <div style="background: #1f9e9a; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Turquoise Heritage</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">All-turquoise jersey and pants, shown in 2024 and first worn in a game on November 21, 2026 against NC State, under the gold helmet.</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 12px; padding: 16px 14px;"><div style="font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; opacity: 0.9;">Black and Throwbacks</div><div style="font-size: 0.88em; font-weight: 600; line-height: 1.45; margin-top: 6px;">Black was last worn in the 2018 opener against Virginia Tech and was not part of the 2023 redesign. No black or throwback set has been announced for 2026.</div></div>
 </div>
 
@@ -42,7 +44,7 @@ The current closet comes from the Nike refresh FSU unveiled at the 2023 spring g
   <div style="background: #782F40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pittsburgh</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
-  <div style="background: #1f9e9a; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Turquoise</div></div>
+  <div style="background: #1f9e9a; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Turquoise / Turquoise</div></div>
   <div style="background: #782F40; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Garnet</div></div>
 </div>
 
@@ -70,13 +72,13 @@ The current closet comes from the Nike refresh FSU unveiled at the 2023 spring g
 
 **November 13 at Pittsburgh.** White expected. It is another Friday night game on ESPN, this time at Acrisure Stadium. **Worn: gold helmet, white jersey, gold pants**, confirmed from the game broadcast. **Final: Florida State 16, Pitt 10.**
 
-**November 21 vs. NC State.** ★ Confirmed by Florida State: **turquoise**. This is Homecoming, the Seminole Heritage game and the Athlete Alumni Reunion, all on one Saturday, and on November 15 FSU announced it will wear turquoise uniforms in a game for the first time. For the 2025 Heritage game against Wake Forest it had stayed in garnet and gold. Everything on the debut is in our [Florida State turquoise uniforms story](/stories/florida-state-turquoise-uniforms-seminole-heritage-2026).
+**November 21 vs. NC State.** ★ Confirmed by Florida State: **turquoise**. This is Homecoming, the Seminole Heritage game and the Athlete Alumni Reunion, all on one Saturday, and on November 15 FSU announced it will wear turquoise uniforms in a game for the first time. For the 2025 Heritage game against Wake Forest it had stayed in garnet and gold. Everything on the debut is in our [Florida State turquoise uniforms story](/stories/florida-state-turquoise-uniforms-seminole-heritage-2026). **Worn: gold helmet, turquoise jersey, turquoise pants**, confirmed from the game broadcast. NC State wore a white helmet, white jersey and white pants. **Final: NC State 28, Florida State 10.**
 
 **November 27 vs. Florida.** Garnet expected. FSU hosts the rivalry game at Doak Campbell, 3:30 p.m. Eastern on ABC, the Friday after Thanksgiving. Florida will be the road team in white. Last season in Gainesville, FSU wore the traditional road set: gold helmet, white jersey, gold pants.
 
 ## The Bottom Line
 
-Four home games have produced two different pants colors, two games each, under the same gold helmet and garnet jersey, and that is how Florida State's closet works: the jersey color is predictable, but the helmet and pants are chosen week to week. White is locked in for the road games, as it was at Alabama. The remaining home dates are garnet, with the helmet and pants announced in game week. The two things we are watching are the white helmet, which FSU wore only once at home last season, and turquoise, which has been waiting for a game since 2024. The grid above lists every date, and we star each cell once the uniform is confirmed.
+Four home games have produced two different pants colors, two games each, under the same gold helmet and garnet jersey, and that is how Florida State's closet works: the jersey color is predictable, but the helmet and pants are chosen week to week. White is locked in for the road games, as it was at Alabama. The remaining home dates are garnet, with the helmet and pants announced in game week. The white helmet, which FSU wore only once at home last season, is still the thing to watch. Turquoise, which had been waiting for a game since 2024, finally came out for the Seminole Heritage game against NC State on November 21. The grid above lists every date, and we star each cell once the uniform is confirmed.
 
 Want every big game in one place? Our [college football Week 5 uniform guide](/stories/college-football-week-5-uniforms-2026) has what every top team wore on October 3.
 
@@ -84,15 +86,15 @@ Want every big game in one place? Our [college football Week 5 uniform guide](/s
 
 **What jersey is Florida State wearing this week?**
 
-Florida State wore the gold helmet, white jersey and gold pants at Pittsburgh on Friday, November 13, confirmed from the game broadcast, and won 16-10. Next is NC State at home on November 21 for Homecoming and the Seminole Heritage game, where Florida State has announced turquoise uniforms.
+Florida State wore turquoise for the first time in a game against NC State on Saturday, November 21, with a gold helmet, turquoise jersey and turquoise pants, confirmed from the game broadcast, and lost 28-10. Next is Florida at home on Friday, November 27, where garnet is expected.
 
 **What are Florida State's football uniforms for 2026?**
 
-Garnet and white Nike jerseys with the numbers on the sleeves and Seminole patchwork trim, gold, garnet and white pants with the Seminole head logo on the hip, and two helmets: metallic gold or white, both with the garnet spear. There is also an all-turquoise Seminole Heritage uniform that has not been worn in a game. The base design dates to the 2023 refresh.
+Garnet and white Nike jerseys with the numbers on the sleeves and Seminole patchwork trim, gold, garnet and white pants with the Seminole head logo on the hip, and two helmets: metallic gold or white, both with the garnet spear. There is also an all-turquoise Seminole Heritage uniform, first worn in a game on November 21, 2026. The base design dates to the 2023 refresh.
 
 **Does Florida State have a new alternate uniform in 2026?**
 
-Not that has been announced. The only alternate beyond the garnet, white and gold pieces is the turquoise Seminole Heritage set, first shown in 2024. The 2026 Seminole Heritage game is November 21 against NC State, and FSU has announced it will wear turquoise for it, the first time in a game. No black uniform or throwback has been announced for 2026.
+Not that has been announced. The only alternate beyond the garnet, white and gold pieces is the turquoise Seminole Heritage set, first shown in 2024. FSU wore it for the 2026 Seminole Heritage game on November 21 against NC State, the first time in a game. No black uniform or throwback has been announced for 2026.
 
 **What did Florida State wear against SMU?**
 
@@ -104,7 +106,7 @@ The all-garnet look, with gold helmets, garnet jerseys and garnet pants, is FSU'
 
 **Will Florida State wear turquoise uniforms in 2026?**
 
-Yes. Florida State announced on November 15 that it will wear turquoise uniforms for the first time in a game on November 21 against NC State, its Homecoming and Seminole Heritage game. It had worn garnet and gold for the 2025 edition against Wake Forest. More in our [Florida State turquoise uniforms story](/stories/florida-state-turquoise-uniforms-seminole-heritage-2026).
+Yes. Florida State wore turquoise uniforms for the first time in a game on November 21 against NC State, its Homecoming and Seminole Heritage game: gold helmet, turquoise jersey, turquoise pants. NC State won 28-10. It had worn garnet and gold for the 2025 edition against Wake Forest. More in our [Florida State turquoise uniforms story](/stories/florida-state-turquoise-uniforms-seminole-heritage-2026).
 
 **How many games does Florida State play in 2026?**
 

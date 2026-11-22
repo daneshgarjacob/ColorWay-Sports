@@ -3,7 +3,7 @@ title: "Cal Uniform Schedule 2026: Every Jersey and When the Golden Bears Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Cal wears every game in 2026: the new Grateful Dead helmet for Wake Forest, the Joe Roth throwback, home and road sets, and the full schedule."
 gradient: "linear-gradient(135deg, #003262 0%, #0a4a86 55%, #FDB515 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Cal opened the Tosh Lupoi era by pulling the single best uniform in its closet out of storage, and the season has been about blue and gold ever since. This is the full Cal 2026 uniform schedule: the blue home set, the white road set, the Joe Roth throwback that came back for UCLA, the new Grateful Dead helmet Cal revealed for the Wake Forest game on October 17, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** Cal wore a **navy helmet, navy jersey and navy pants** against Stanford in the Big Game, confirmed from the game broadcast, and lost **44-28**. Stanford wore all white.
 
 **Update, October 24:** Cal wore the **navy helmet, white jersey and navy pants** at SMU, as posted, and lost **59-20** after leading 20-17 at halftime.
 
@@ -97,7 +99,7 @@ On Thursday, October 15, Cal posted the rest of the set, and its own caption sum
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #003262; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #003262; color: #ffffff; border: 2px solid #FDB515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Navy</div></div>
   <div style="background: #003262; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
 </div>
 
@@ -141,7 +143,7 @@ Cal published its home themes in July, and they double as a decent map of where 
 
 **November 14 at Virginia.** White expected. The last road game of the season, in Charlottesville. **Final: Virginia 36, Cal 7.**
 
-**November 21 vs. Stanford.** Blue expected. The 129th Big Game and the battle for the Axe, the oldest rivalry on the West Coast, back in Berkeley.
+**November 21 vs. Stanford.** Blue expected. The 129th Big Game and the battle for the Axe, the oldest rivalry on the West Coast, back in Berkeley. **Worn: navy helmet, navy jersey, navy pants**, confirmed from the game broadcast. Stanford wore a white helmet, white jersey and white pants. **Final: Stanford 44, California 28.**
 
 **November 28 vs. Pitt.** Blue expected. Hometown Heroes and the final home game of the year.
 
@@ -153,7 +155,7 @@ Six games in, Cal is 3-3 and has worn the best throwback of the 2026 season, its
 
 **What jersey is Cal wearing this week?**
 
-Cal lost 36-7 at Virginia on Saturday, November 14; we have not logged that uniform yet. The last look we have on record is the navy helmet, white jersey and navy pants at SMU on Saturday, October 24, as posted by the team, in a 59-20 loss after leading 20-17 at halftime. Next is Stanford at California Memorial Stadium on Saturday, November 21, the 129th Big Game, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Cal wore a navy helmet, navy jersey and navy pants against Stanford in the 129th Big Game on Saturday, November 21, confirmed from the game broadcast, and lost 44-28. The week before, Cal lost 36-7 at Virginia; we have not logged that uniform. Next is Pitt at California Memorial Stadium on November 28, Hometown Heroes and the final home game, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Cal's football uniforms for 2026?**
 

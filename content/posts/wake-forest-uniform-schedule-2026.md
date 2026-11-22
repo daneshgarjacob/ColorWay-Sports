@@ -3,7 +3,7 @@ title: "Wake Forest Uniform Schedule 2026: Every Jersey and When the Demon Deaco
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Wake Forest wears every game in 2026: the black home jersey, the white road set, the gold pants, and the full Demon Deacons uniform schedule."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 55%, #9E7E38 130%)"
 cardStyle: words
@@ -40,7 +40,7 @@ The Nike set dates to a 2019 cleanup that stripped out the architecture inspired
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Merrimack</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
 </div>
 
@@ -94,7 +94,7 @@ Wake Forest also asked the stands to match the uniform. A blackout is a fan them
 
 **November 14 at SMU.** White expected. **Worn: shiny gold helmet, white jersey, white pants**, confirmed from the game broadcast. **Final: Wake Forest 49, SMU 7.**
 
-**November 21 at Georgia Tech.** White expected at Bobby Dodd Stadium, with Georgia Tech in gold. Another shared palette matchup, and our [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026) has the home side.
+**November 21 at Georgia Tech.** White expected at Bobby Dodd Stadium, with Georgia Tech in gold. Another shared palette matchup, and our [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026) has the home side. **Worn: black helmet with the gold WF, black jersey, black pants**, confirmed from the game broadcast, so Wake Forest kept its black jersey on the road because Georgia Tech wore white. **Final: Wake Forest 50, Georgia Tech 29.**
 
 **November 28 vs. Duke.** Black expected. The regular season finale and Senior Day in Winston-Salem. Duke is expected in white, per our [Duke 2026 uniform schedule](/stories/duke-uniform-schedule-2026).
 
@@ -106,7 +106,7 @@ Wake Forest wore the matte black helmet in its first three games, then went to a
 
 **What jersey is Wake Forest wearing this week?**
 
-Wake Forest wore a shiny gold helmet, white jersey and white pants at SMU on Saturday, November 14, confirmed from the game broadcast, and won 49-7. The week before, they wore the black helmet, black jersey and gold pants in a 77-0 win over Merrimack. Next is Georgia Tech on the road on November 21, where white is expected. The week-by-week grid above lists every game with the expected set.
+Wake Forest wore a black helmet with the gold WF, a black jersey and black pants at Georgia Tech on Saturday, November 21, confirmed from the game broadcast, and won 50-29. Georgia Tech wore white at home, so the Demon Deacons kept the black jersey on the road. Next is Duke at home on November 28, the regular season finale and Senior Day, where black is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are Wake Forest's football uniforms for 2026?**
 

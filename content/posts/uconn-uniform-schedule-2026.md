@@ -3,7 +3,7 @@ title: "UConn Uniform Schedule 2026: Every Jersey and When the Huskies Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What UConn wears every game in 2026: the navy home set, the white road set, the new red alternate jersey, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #0C2340 0%, #1d3b66 55%, #E4002B 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 UConn had not worn an alternate uniform since 2016, and that streak is over. The Huskies revealed a red jersey in August, the first primarily red jersey any UConn team is believed to have worn, and it debuted on October 3 for Homecoming against Syracuse. This is the full UConn 2026 uniform schedule: the navy home set, the white road set, the new red alternate, and a week-by-week outlook for all twelve games in Jason Candle's first season, including a Friday night game at The Rent. We update this page as each combination is confirmed.
+
+**Update, November 21:** UConn beat Old Dominion **29-21** on Senior Day in **all navy, navy helmet, navy jersey and navy pants**, confirmed from the game broadcast. Old Dominion wore a white helmet, white jersey and light blue pants.
 
 **Update, October 23:** UConn beat UMass **35-16** on Friday night in a **navy helmet and navy jersey**, confirmed from the team's halftime graphic.
 
@@ -58,7 +60,7 @@ It looks like a standalone jersey. There is no red helmet and no red pants. It w
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Air Force</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
-  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wyoming</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -84,7 +86,7 @@ It looks like a standalone jersey. There is no red helmet and no red pants. It w
 
 **November 14 vs. James Madison.** Navy expected. UConn lists this one as Huskies & Heroes, its military appreciation game, and the program has put military decals on the helmet for that game in past seasons. Noon on CBS Sports Network. The Dukes side is on our [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026). **Final: UConn 46, James Madison 22.**
 
-**November 21 vs. Old Dominion.** Navy expected. Senior Day and the home finale, 3:30 p.m.
+**November 21 vs. Old Dominion.** Navy expected. Senior Day and the home finale, 3:30 p.m. **Worn: navy helmet, navy jersey, navy pants**, confirmed from the game broadcast. Old Dominion wore a white helmet, white jersey and light blue pants. **Final: UConn 29, Old Dominion 21.**
 
 **November 28 at Wyoming.** White expected. The regular season ends at War Memorial Stadium in Laramie, kickoff time to be announced, with Wyoming in brown at home.
 
@@ -100,13 +102,13 @@ UConn has not said, and nothing on the schedule is labeled as a red game. Here i
 
 ## The Bottom Line
 
-Through its first six games, UConn wore all navy in its first two home games, all white at Southern Miss, white over navy pants at Miami (OH), the new red jersey with the navy helmet and navy pants for Homecoming against Syracuse, and the navy helmet, white jersey and navy pants at Temple. The red jersey is the story of the Huskies' closet this season. White is locked in for the road games, and navy is the default for the rest of the home schedule. The Friday night game against UMass on October 23 was the next date we circled for red, and UConn wore the navy helmet and navy jersey that night. The last home date left is Senior Day against Old Dominion on November 21, where navy is expected. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+Through its first six games, UConn wore all navy in its first two home games, all white at Southern Miss, white over navy pants at Miami (OH), the new red jersey with the navy helmet and navy pants for Homecoming against Syracuse, and the navy helmet, white jersey and navy pants at Temple. The red jersey is the story of the Huskies' closet this season. White is locked in for the road games, and navy is the default for the rest of the home schedule. The Friday night game against UMass on October 23 was the next date we circled for red, and UConn wore the navy helmet and navy jersey that night. The home schedule closed on Senior Day against Old Dominion on November 21 in all navy, a 29-21 win. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is UConn wearing this week?**
 
-UConn wore a navy helmet and navy jersey against UMass on Friday, October 23, confirmed from the team's halftime graphic, and won 35-16. Since then UConn has played at Air Force, hosted North Carolina and beat James Madison 46-22 on November 14; we have not logged the uniforms from those games yet. Next is Old Dominion at home on Saturday, November 21, Senior Day, where navy is expected. The week-by-week grid above lists every game with the expected uniform.
+UConn wore all navy, a navy helmet, navy jersey and navy pants, against Old Dominion on Saturday, November 21, Senior Day, confirmed from the game broadcast, and won 29-21. Earlier it played at Air Force, hosted North Carolina and beat James Madison 46-22 on November 14; we have not logged the uniforms from those games yet. Next is the regular season finale at Wyoming on November 28, where white is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are UConn's football uniforms for 2026?**
 

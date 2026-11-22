@@ -3,7 +3,7 @@ title: "Tulane Uniform Schedule 2026: Every Jersey and When the Green Wave Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Tulane wears every game in 2026: the green home jersey, the white road set, the sky blue alternate, the Mardi Gras City Edition, and every date."
 gradient: "linear-gradient(135deg, #006747 0%, #0a4f3a 55%, #418FDE 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Tulane has more fun with uniforms than anyone else in the American Conference, and the fans have the receipts to prove it. This is the full Tulane 2026 uniform schedule: the green home jersey, the white road set, the sky blue alternate, the one-night Mardi Gras City Edition the Green Wave already burned in Week 2, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** Tulane wore a **white helmet, green jersey and white pants** against North Texas on Senior Day, confirmed from the game broadcast, and won **28-24**. North Texas wore a green helmet, white jersey and green pants.
 
 **Update, October 28:** The **Wumbo is back.** Tulane posted its white helmet with the oversized green Angry Wave for the Friday night game at Charlotte on October 30.
 
@@ -64,7 +66,7 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Wumbo helmet</div></div>
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulsa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green (Homecoming)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
+  <div style="background: #006747; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 OR 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -98,13 +100,13 @@ This is not a fluke, either. Fans voted Tulane the winner of the UNISWAG uniform
 
 **November 14 at Rice.** White expected. A trip to Rice Stadium in Houston, kickoff to be announced. **Final: Tulane 20, Rice 17.**
 
-**November 21 vs. North Texas.** Green expected. Senior Day and the final home game of the regular season. More: [North Texas uniform schedule](/stories/north-texas-uniform-schedule-2026).
+**November 21 vs. North Texas.** Green expected. Senior Day and the final home game of the regular season. More: [North Texas uniform schedule](/stories/north-texas-uniform-schedule-2026). **Worn: white helmet, green jersey and white pants**, confirmed from the game broadcast. North Texas wore a green helmet, white jersey and green pants. **Final: Tulane 28, North Texas 24.**
 
 **November 27 or 28 at South Florida.** White expected. Regular season finale at Raymond James Stadium in Tampa, and the date is genuinely unsettled: Tulane lists it as November 27 or 28 with the designation due by October 11. We will lock the cell then.
 
 ## The Sky Blue Question
 
-Tulane has three jersey colors and has used all three. The sky blue set, jersey and helmet both, was all over last season. It came out head to toe against Southern Miss on September 26, Tulane went green for the Friday night Memphis game, and the sky blue helmet and jersey came back with white pants against UTSA on October 24. We have not logged the Homecoming game against Tulsa on November 7, so the last home date to watch is Senior Day against North Texas on November 21, where green is expected.
+Tulane has three jersey colors and has used all three. The sky blue set, jersey and helmet both, was all over last season. It came out head to toe against Southern Miss on September 26, Tulane went green for the Friday night Memphis game, and the sky blue helmet and jersey came back with white pants against UTSA on October 24. We have not logged the Homecoming game against Tulsa on November 7, and for Senior Day against North Texas on November 21 Tulane wore a white helmet, green jersey and white pants, confirmed from the game broadcast.
 
 It is also worth saying what the City Edition series is and is not. Tulane introduced its first City Edition uniform in October 2025 for a November debut, then made the Mardi Gras build for 2026. That is two City Edition sets in two seasons, both one-offs, both retired immediately after the game. If there is a third piece coming this year it would be a separate reveal, and nothing has been announced.
 
@@ -120,7 +122,7 @@ Tulane spent its best uniform of the year in Week 2 and that was clearly the pla
 
 **What jersey is Tulane wearing this week?**
 
-Tulane wore a sky blue helmet, sky blue jersey and white pants against UTSA on Saturday, October 24, confirmed from Tulane's game photos, and lost 42-19. Since then Tulane posted the Wumbo helmet for its October 30 game at Charlotte, played Tulsa on November 7 and beat Rice 20-17 on November 14; we have not logged the full uniforms from those games. Next is North Texas at home on Saturday, November 21, Senior Day, where green is expected. Earlier this season, Tulane wore a green helmet, white jersey and white pants at Army on Saturday, October 10, confirmed from the broadcast, and lost 20-17 to fall to 2-3. Before the bye, the Green Wave wore all sky blue against Southern Miss on September 26 for the Battle for the Bell and won 24-21. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Tulane wore a white helmet, green jersey and white pants against North Texas on Saturday, November 21, Senior Day, confirmed from the game broadcast, and won 28-24. Next is the regular season finale at South Florida on November 27 or 28, where white is expected. Earlier this season, Tulane wore a green helmet, white jersey and white pants at Army on Saturday, October 10, confirmed from the broadcast, and lost 20-17 to fall to 2-3. Before the bye, the Green Wave wore all sky blue against Southern Miss on September 26 for the Battle for the Bell and won 24-21. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Tulane's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "TCU Uniform Schedule 2026: The Black Ireland Alternate, the Clover Frog 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-20"
+updatedDate: "2026-11-21"
 excerpt: "What TCU wears every game in 2026, starting with the black Frog Horn alternate and the Clover Frog helmet for the Dublin opener against North Carolina."
 gradient: "linear-gradient(135deg, #4D1979 0%, #111111 60%, #A3A9AC 130%)"
 cardStyle: words
@@ -13,7 +13,9 @@ teams: ["tcu-horned-frogs", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-TCU opened the 2026 season in Dublin against North Carolina, and the Horned Frogs built a uniform specifically for it. Since then the Frogs have mostly worn purple at home and white on the road, most recently the new Freedom Frogs white helmet over the purple jersey and purple pants in a 20-10 win over Kansas State on November 14. This is the full TCU 2026 uniform schedule: the confirmed black alternate and the helmet that goes with it, the purple and white base sets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+TCU opened the 2026 season in Dublin against North Carolina, and the Horned Frogs built a uniform specifically for it. Since then the Frogs have mostly worn purple at home and white on the road, most recently a purple helmet, black jersey and purple pants in a 38-17 loss to Utah on November 21. This is the full TCU 2026 uniform schedule: the confirmed black alternate and the helmet that goes with it, the purple and white base sets, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** TCU wore its posted **purple helmet, black jersey and purple pants** against Utah, confirmed from the game broadcast, and lost **38-17**. Utah wore a black helmet, white jersey and black pants.
 
 **Update, November 20:** TCU posted its look for the home finale against No. 2 Utah: a **purple helmet, black jersey and purple pants**, "🟪 & ⬛️ under The Carter's lights." Our grade: A-. [Every detail](/stories/tcu-purple-helmet-black-jersey-purple-pants-utah-2026).
 
@@ -103,7 +105,7 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">TCU's Freedom Frogs helmet, via @TCUFootball</p>
 
-**November 21 vs. Utah**, Amon G. Carter Stadium, 9 p.m. ET (8 p.m. Central) on FOX. Home finale. Purple expected. ★ Announced by TCU on November 20: **purple helmet, black jersey, purple pants**, posted as "🟪 & ⬛️ under The Carter's lights." The glossy purple helmet carries TCU in white block letters over the horned frog, and the black jersey has white numbers trimmed in purple. It is the second time this season TCU has paired the purple helmet with the black jersey, after Homecoming against West Virginia. Our grade: A-. [The full breakdown](/stories/tcu-purple-helmet-black-jersey-purple-pants-utah-2026). Utah is expected in white.
+**November 21 vs. Utah**, Amon G. Carter Stadium, 9 p.m. ET (8 p.m. Central) on FOX. Home finale. Purple expected. ★ Announced by TCU on November 20: **purple helmet, black jersey, purple pants**, posted as "🟪 & ⬛️ under The Carter's lights." The glossy purple helmet carries TCU in white block letters over the horned frog, and the black jersey has white numbers trimmed in purple. It is the second time this season TCU has paired the purple helmet with the black jersey, after Homecoming against West Virginia. Our grade: A-. [The full breakdown](/stories/tcu-purple-helmet-black-jersey-purple-pants-utah-2026). Utah is expected in white. **Worn: purple helmet, black jersey, purple pants**, as posted, confirmed from the game broadcast. Utah wore a black helmet, white jersey and black pants. **Final: Utah 38, TCU 17.**
 
 <div style="display: flex; justify-content: center; margin: 1em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TCUFootball/status/2123816617339473955"></a></blockquote>
@@ -116,7 +118,7 @@ Twelve games, seven at Amon G. Carter Stadium, a Week 0 opener in Dublin and a B
 
 TCU spent its one big uniform swing of the year on the game with the largest audience, which is the correct way to use it. Carolina answered with a throwback, so the first game of the season was a costume against a history lesson. The Frog Horn black would be a good alternate on its own. The Clover Frog helmet is what makes it a great one, because it reaches for 2011 rather than for Ireland clichés.
 
-The rest of the season is purple at home and white on the road, and the black came back exactly where we expected it: all black for Halloween against Kansas. The home finale against Utah splits the difference, a black jersey between a purple helmet and purple pants.
+The rest of the season is purple at home and white on the road, and the black came back exactly where we expected it: all black for Halloween against Kansas. The home finale against Utah split the difference, a black jersey between a purple helmet and purple pants, in a 38-17 loss.
 
 ## Frequently Asked Questions
 
@@ -134,7 +136,7 @@ June 15, 2026, more than two months before the game, through TCU Athletics.
 
 **What did TCU wear in its last game?**
 
-The Freedom Frogs look against Kansas State on November 14: a white helmet with a purple diamond center stripe and the horned frog head, the purple jersey with silver numbers and purple pants, worn as posted and confirmed from the game broadcast, in a 20-10 win. Next is Utah at home on November 21, where TCU has announced a purple helmet, black jersey and purple pants.
+A purple helmet, black jersey and purple pants against Utah on November 21, worn as posted and confirmed from the game broadcast, in a 38-17 loss. The week before against Kansas State it was the Freedom Frogs look: a white helmet with a purple diamond center stripe and the horned frog head, the purple jersey with silver numbers and purple pants, in a 20-10 win. Next is Texas Tech on the road on Friday, November 27, where white is expected.
 
 **What are TCU's regular uniforms?**
 
@@ -142,7 +144,7 @@ Purple at home and white on the road. Purple is the identity color and the most 
 
 **Will TCU wear the black uniform again in 2026?**
 
-Yes. TCU posted an all-black look, a black helmet, black jersey and black pants, for Kansas on Halloween, October 31, for "Black Out The Carter." The team has not said whether the jersey is the Frog Horn alternate it wore in Dublin. TCU also announced a black jersey with a purple helmet and purple pants for the home finale against Utah on November 21.
+Yes. TCU posted an all-black look, a black helmet, black jersey and black pants, for Kansas on Halloween, October 31, for "Black Out The Carter." The team has not said whether the jersey is the Frog Horn alternate it wore in Dublin. TCU also wore a black jersey with a purple helmet and purple pants for the home finale against Utah on November 21.
 
 **Why is TCU wearing black?**
 

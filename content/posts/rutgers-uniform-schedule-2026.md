@@ -3,7 +3,7 @@ title: "Rutgers Uniform Schedule 2026: Every Jersey and When the Scarlet Knights
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Rutgers wears every game in 2026: scarlet at home, white on the road, the 9/11 tribute set, the Blackout homecoming, and the full uniform schedule."
 gradient: "linear-gradient(135deg, #CC0033 0%, #a3002a 55%, #111111 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Rutgers keeps its base look simple and saves the surprises for the nights that mean something. This is the full Rutgers 2026 uniform schedule: the scarlet home set, the white road set, the white 9/11 tribute helmet that already made its appearance at Boston College, the all-black Blackout set, and a week-by-week outlook for all twelve games. Five games in, the Scarlet Knights have worn three different helmets. We update this page as each combination is confirmed.
+
+**Update, November 21:** Rutgers wore a **black helmet with the scarlet R, white jersey and black pants** at Penn State, confirmed from Penn State's game photos, and won **25-24**. Penn State wore the white helmet, navy jersey and white pants.
 
 **Update, November 14:** Rutgers wore a **white helmet, scarlet jersey and white pants** against Nebraska on Military Appreciation day, confirmed from the game broadcast, and lost **31-0**.
 
@@ -42,7 +44,7 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
   <div style="background: #CC0033; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #CC0033; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Scarlet / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
   <div style="background: #CC0033; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
 </div>
 
@@ -74,7 +76,7 @@ Rutgers moved to Nike on July 1, 2025, and the first Nike uniforms stayed close 
 
 **November 14 vs. Nebraska.** Scarlet expected. This is Military Appreciation day at SHI Stadium, so it is a date to watch for a patch or helmet decal. Nebraska is in white on the [Nebraska 2026 uniform schedule](/stories/nebraska-uniform-schedule-2026). **Worn: white helmet, scarlet jersey, white pants**, confirmed from the game broadcast. **Final: Nebraska 31, Rutgers 0.**
 
-**November 21 at Penn State.** White expected. The last road game of the season, at Beaver Stadium, against a Penn State team that wears navy at home. The [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026) has the Nittany Lions side.
+**November 21 at Penn State.** White expected. The last road game of the season, at Beaver Stadium, against a Penn State team that wears navy at home. The [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026) has the Nittany Lions side. **Worn: black helmet with the scarlet R, white jersey, black pants**, confirmed from Penn State's game photos. Penn State wore the white helmet, navy jersey and white pants. **Final: Rutgers 25, Penn State 24.**
 
 **November 28 vs. Michigan State.** Scarlet expected. Holiday Fest and Senior Day close the regular season in Piscataway, with the Spartans in white on the [Michigan State 2026 uniform schedule](/stories/michigan-state-uniform-schedule-2026).
 
@@ -86,7 +88,7 @@ Rutgers has already used three helmets in five games, and the tribute set at Bos
 
 **What jersey is Rutgers wearing this week?**
 
-Rutgers wore a white helmet, scarlet jersey and white pants against Nebraska on Saturday, November 14, confirmed from the game broadcast, and lost 31-0. The week before, the Scarlet Knights wore a red helmet, white jersey and white pants at Wisconsin, confirmed from the game broadcast, and lost 31-10. Next is Penn State on the road on November 21, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Rutgers wore a black helmet with the scarlet R, white jersey and black pants at Penn State on Saturday, November 21, confirmed from Penn State's game photos, and won 25-24. The week before, the Scarlet Knights wore a white helmet, scarlet jersey and white pants against Nebraska and lost 31-0. Next is Michigan State at home on November 28, Senior Day, where scarlet is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Rutgers's football uniforms for 2026?**
 

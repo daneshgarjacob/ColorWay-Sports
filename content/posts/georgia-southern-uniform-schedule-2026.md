@@ -3,7 +3,7 @@ title: "Georgia Southern Uniform Schedule 2026: Every Jersey and When the Eagles
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Georgia Southern wears every game in 2026: the navy numbered helmet, navy and white jerseys, the Erk 100 White Out and the full Eagles uniform schedule."
 gradient: "linear-gradient(135deg, #011E41 0%, #0a1a33 55%, #ffffff 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Georgia Southern wears one of the plainest uniforms in college football on purpose, and this year the most interesting date on its calendar is a tribute to the coach who made plain a point of pride. This is the full Georgia Southern 2026 uniform schedule: the navy helmet with the player's number on the side, the navy and white jerseys, every game we have logged and the expected look for the rest of the season, plus the Erk 100 White Out against App State on October 31. We update this page as each combination is confirmed.
+
+**Update, November 21:** Georgia Southern wore a **navy helmet, white jersey and white pants** at Troy, confirmed from the game broadcast, and won **45-7**. Troy wore a cardinal helmet, cardinal jersey and white pants.
 
 ## The Georgia Southern 2026 Uniform Sets
 
@@ -42,7 +44,7 @@ This season carries extra weight. Russell would have turned 100 on July 23, 2026
   <div style="background: #ffffff; color: #011E41; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White Out (TBA)</div></div>
   <div style="background: #011E41; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Marshall</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #011E41; border: 2px solid #011E41; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Troy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / White</div></div>
   <div style="background: #011E41; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
 </div>
 
@@ -68,7 +70,7 @@ This season carries extra weight. Russell would have turned 100 on July 23, 2026
 
 **November 14 at Georgia State.** White expected. Center Parc Stadium in Atlanta, kickoff time still to be set. **Worn: white jersey and white pants**, confirmed from the game broadcast. **Final: Georgia Southern 34, Georgia State 17.**
 
-**November 21 at Troy.** White expected. Kickoff time still to be set.
+**November 21 at Troy.** White expected. Kickoff time still to be set. **Worn: navy helmet, white jersey and white pants**, confirmed from the game broadcast. Troy wore a cardinal helmet, cardinal jersey and white pants. **Final: Georgia Southern 45, Troy 7.**
 
 **November 28 vs. Louisiana Tech.** Navy expected. Senior Day, First Responders Appreciation and a Blue Out, with fans asked to wear blue for the regular season home finale.
 
@@ -78,13 +80,13 @@ It was the best uniform question on the Sun Belt calendar. Georgia Southern has 
 
 ## The Bottom Line
 
-Georgia Southern has used one helmet, two jerseys and two pant colors in the games we have logged, and that restraint is the brand. The navy shell with the number on the side does not need a logo to be recognized. The variety this season is in the pants. The Erk 100 White Out against App State on October 31 was the date that could bring back the white helmet with ERK on the front, and that game is not logged yet. The last two dates are at Troy on November 21, white expected, and Louisiana Tech at home on November 28, navy expected. The grid above has every date, and we add a star as each uniform is confirmed.
+Georgia Southern has used one helmet, two jerseys and two pant colors in the games we have logged, and that restraint is the brand. The navy shell with the number on the side does not need a logo to be recognized. The variety this season is in the pants. The Erk 100 White Out against App State on October 31 was the date that could bring back the white helmet with ERK on the front, and that game is not logged yet. Georgia Southern wore the navy helmet, white jersey and white pants at Troy on November 21 and won 45-7, and the last date is Louisiana Tech at home on November 28, navy expected. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Georgia Southern wearing this week?**
 
-Georgia Southern wore a white jersey and white pants at Georgia State on Saturday, November 14, confirmed from the game broadcast, and won 34-17. The week before, it wore the navy helmet, navy jersey and white pants against Marshall for Homecoming and won 49-13. Next is a trip to Troy on November 21, where white is expected.
+Georgia Southern wore a navy helmet, white jersey and white pants at Troy on Saturday, November 21, confirmed from the game broadcast, and won 45-7. Next is Louisiana Tech at home on November 28, Senior Day and a Blue Out, where navy is expected.
 
 **Why does Georgia Southern have numbers on its helmet instead of a logo?**
 

@@ -3,7 +3,7 @@ title: "UAB Uniform Schedule 2026: Every Jersey and When the Blazers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What UAB wears every game in 2026: the gold and green helmets, green and white jerseys, gold pants and the week-by-week Blazers uniform schedule."
 gradient: "linear-gradient(135deg, #1A5632 0%, #0e3a20 55%, #C8B568 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 UAB wore five different combinations in its first six games, and the one rule we can see so far is that the Blazers do not mind wearing white at home. This is the full UAB 2026 uniform schedule: the green and white jerseys, the metallic gold and green helmets, every game logged so far, most recently the gold helmet, white jersey and green pants in a 36-10 win at Temple on November 14, and the expected look for the rest of the season. We update this page as each combination is confirmed.
+
+**Update, November 21:** UAB wore a **gold helmet, green jersey and green pants** against UTSA on Senior Day, confirmed from the game broadcast, and lost **19-17**. UTSA wore a white helmet, white jersey and white pants.
 
 ## The UAB 2026 Uniform Sets
 
@@ -42,7 +44,7 @@ The surprise is the white at home. UAB wore the green jersey for the home opener
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #1A5632; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green or White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Green</div></div>
-  <div style="background: #1A5632; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green or White (Senior Day)</div></div>
+  <div style="background: #1A5632; color: #ffffff; border: 2px solid #C8B568; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Green / Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -74,7 +76,7 @@ The surprise is the white at home. UAB wore the green jersey for the home opener
 
 **November 14 at Temple.** White expected. Lincoln Financial Field in Philadelphia. See our [Temple 2026 uniform schedule](/stories/temple-uniform-schedule-2026). **Worn: gold helmet, white jersey, green pants**, confirmed from the game broadcast. **Final: UAB 36, Temple 10.**
 
-**November 21 vs. UTSA.** Green or white expected. Senior Day and the regular season home finale. Our [UTSA 2026 uniform schedule](/stories/utsa-uniform-schedule-2026) has the Roadrunners.
+**November 21 vs. UTSA.** Green or white expected. Senior Day and the regular season home finale. Our [UTSA 2026 uniform schedule](/stories/utsa-uniform-schedule-2026) has the Roadrunners. **Worn: gold helmet, green jersey and green pants**, confirmed from the game broadcast. UTSA wore a white helmet, white jersey and white pants. **Final: UTSA 19, UAB 17.**
 
 **November 28 at North Texas.** White expected. The regular season finale at DATCU Stadium in Denton. More on our [North Texas 2026 uniform schedule](/stories/north-texas-uniform-schedule-2026).
 
@@ -90,7 +92,7 @@ Five games into 2026, UAB has worn green and white jerseys, gold and green helme
 
 **What jersey is UAB wearing this week?**
 
-UAB wore the gold helmet, white jersey and green pants at Temple on Saturday, November 14, confirmed from the game broadcast, and won 36-10. The week before, UAB wore the white jersey at home against Charlotte and won 23-12. Next is UTSA at home on November 21, Senior Day and the regular season home finale, where green or white is expected.
+UAB wore a gold helmet, green jersey and green pants against UTSA on Saturday, November 21, Senior Day, confirmed from the game broadcast, and lost 19-17. Next is the regular season finale at North Texas on November 28, where white is expected.
 
 **What are UAB's football uniforms for 2026?**
 

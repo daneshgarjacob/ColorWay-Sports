@@ -3,7 +3,7 @@ title: "Purdue Uniform Schedule 2026: Every Jersey and When the Boilermakers Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Purdue wears every game in 2026: black home jerseys, the white road set, gold and black helmets, and the full Boilermakers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #2a2a2a 55%, #CEB888 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Purdue only has two jersey colors, but between two helmets and three pants, the Boilermakers can change the look every Saturday without ever leaving black and gold. This is the full Purdue 2026 uniform schedule: the black home jersey, the white road jersey, the old gold and black helmets, and a week-by-week outlook for all twelve games in Barry Odom's second season. Five games in, Purdue has already used both helmets. We update this page as each combination is confirmed.
+
+**Update, November 21:** Purdue wore the **black helmet, black jersey and gold pants** for its home finale against Wisconsin, confirmed from the team's game photos, and lost **42-10**. Wisconsin wore all white.
 
 ## The Purdue 2026 Uniform Sets
 
@@ -40,7 +42,7 @@ The Nike set is built on a simple idea: black and old gold, with a black and whi
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #CEB888; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / White</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -74,7 +76,7 @@ The Illini side is on the [Illinois 2026 uniform schedule](/stories/illinois-uni
 
 **November 14 at Iowa.** White expected. Kinnick Stadium, with Iowa in black and gold, so this is the rare game where both teams are black and gold programs. Our [Iowa 2026 uniform schedule](/stories/iowa-uniform-schedule-2026) notes this date falls in the window for the Hawkeyes' annual military appreciation game. ★ Confirmed from Purdue's game photos: **gold helmet, white jersey, white pants.** Iowa wore black jerseys and black pants with the American flag Tigerhawk decal on its black helmet. **Final: Iowa 28, Purdue 7.**
 
-**November 21 vs. Wisconsin.** Black expected. The final home game, with Wisconsin in white. The [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026) tracks the Badgers.
+**November 21 vs. Wisconsin.** Black expected. The final home game, with Wisconsin in white. The [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026) tracks the Badgers. ★ Confirmed from Purdue's game photos: **black helmet, black jersey, gold pants.** Wisconsin wore a white helmet, white jersey and white pants. **Final: Wisconsin 42, Purdue 10.**
 
 **November 28 at Indiana.** White expected. The Old Oaken Bucket game in Bloomington against the defending national champion closes the regular season. Kickoff time to be announced.
 
@@ -86,7 +88,7 @@ Purdue has worn the black jersey four times: the black helmet over white pants o
 
 **What jersey is Purdue wearing this week?**
 
-Purdue wore the gold helmet, white jersey and white pants at Iowa on Saturday, November 14, confirmed from the team's game photos, and lost 28-7. A week earlier it wore the gold helmet, black jersey and black pants against Maryland and lost 34-29. We have not yet confirmed what it wore against Washington and Penn State. Next is Wisconsin at Ross-Ade Stadium on November 21, the final home game, where black is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Purdue wore the black helmet, black jersey and gold pants against Wisconsin at Ross-Ade Stadium on Saturday, November 21, the final home game, confirmed from the team's game photos, and lost 42-10. A week earlier it wore the gold helmet, white jersey and white pants at Iowa and lost 28-7. We have not yet confirmed what it wore against Washington and Penn State. Next is the Old Oaken Bucket game at Indiana on November 28, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Purdue's football uniforms for 2026?**
 

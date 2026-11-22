@@ -3,7 +3,7 @@ title: "Kentucky Uniform Schedule 2026: Every Jersey and When the Wildcats Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Kentucky goes black helmet, white jersey, black pants at Oklahoma on Oct. 17. The full 2026 uniform schedule: blue at home, white on the road, every helmet."
 gradient: "linear-gradient(135deg, #0033A0 0%, #0a2a70 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Wondering what jersey Kentucky is wearing this week? This is the full Kentucky 2026 uniform schedule, game by game, in Will Stein's first season at Kroger Field. The short version: blue jersey at home, white jersey on the road, and the main week-to-week variable is which helmet sits on top. We update this page as each combination is confirmed.
 
-**Update, November 14:** Kentucky wore its **Night Ops** set against Florida, a **matte black helmet with a blue and white stripe, black jersey with white numbers and black pants**, worn as announced and confirmed from the game broadcast, and lost **21-14**.
+**Update, November 21:** Kentucky wore a **blue helmet, white jersey and blue pants** at Missouri, confirmed from the game broadcast, and lost **28-14**.
 
 ## The Kentucky 2026 Uniform Sets
 
@@ -44,7 +44,7 @@ Twelve games, seven at Kroger Field, one bye, the Power K throwback against LSU,
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Chrome · All White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Night Ops: Black / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #0033A0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
 </div>
 
@@ -79,7 +79,7 @@ Home cells are blue, road cells are white, and a star marks a combination that h
 
 **November 14 vs. Florida**, Lexington, 6:15 p.m. Eastern on ESPN. Announced by the team on November 11 as **Night Ops**: a matte black helmet with a blue and white stripe, a black jersey with white numbers and black pants. Florida visits in white with orange pants. Our grade and every detail: [Kentucky's Night Ops uniform](/stories/kentucky-night-ops-all-black-uniforms-florida-2026). [Florida 2026 uniform schedule](/stories/florida-uniform-schedule-2026). Worn as announced, confirmed from the game broadcast. **Final: Florida 21, Kentucky 14.**
 
-**November 21 at Missouri**, Columbia. White expected. [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026).
+**November 21 at Missouri**, Columbia. White expected. [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026). **Worn: blue helmet, white jersey, blue pants**, confirmed from the game broadcast. Missouri wore a black helmet with the gold M, black jersey and white pants. **Final: Missouri 28, Kentucky 14.**
 
 **November 28 vs. Louisville**, Lexington. Blue expected. The Governor's Cup is at Kroger Field this year, so Kentucky hosts in blue and Louisville comes in white. If the program is going to spring a black or alternate look in 2026, the rivalry finale is the most likely date. Nothing has been announced.
 
@@ -95,7 +95,7 @@ The Kentucky 2026 uniform schedule is two jerseys and three helmets. Blue jersey
 
 **What jersey is Kentucky wearing this week?**
 
-Kentucky wore its Night Ops set, a matte black helmet with a blue and white stripe, black jersey and black pants, against Florida at Kroger Field on Saturday, November 14, worn as announced and confirmed from the game broadcast, and lost 21-14. Next is a trip to Missouri on November 21, where white is expected. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
+Kentucky wore a blue helmet, white jersey and blue pants at Missouri on Saturday, November 21, confirmed from the game broadcast, and lost 28-14. Next is the Governor's Cup against Louisville at Kroger Field on November 28, where blue is expected. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
 
 **What are Kentucky's uniforms for 2026?**
 

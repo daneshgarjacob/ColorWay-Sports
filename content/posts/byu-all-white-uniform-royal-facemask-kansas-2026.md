@@ -16,6 +16,8 @@ teams: ["byu-cougars", "kansas-jayhawks", "big-12"]
 
 **BYU is going all white in Lawrence.** The Cougars posted their uniform for Saturday's game at Kansas on Monday morning: an **all-white uniform**, a **white helmet** and a **royal blue facemask**, with royal blue accents. BYU's caption called it "this week's threads in Lawrence." Kickoff is **Saturday, November 21, at noon Eastern (10 a.m. in Provo) on ABC**, at David Booth Kansas Memorial Stadium. It is the first time BYU has worn this exact combination since its 2024 trip to Baylor.
 
+**Update, November 21:** BYU wore it as posted, confirmed from the game broadcast, and won **31-29 in triple overtime**. Kansas wore all black with its oversized Jayhawk beak helmet.
+
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2122350572917621028"></a></blockquote>
 </div>

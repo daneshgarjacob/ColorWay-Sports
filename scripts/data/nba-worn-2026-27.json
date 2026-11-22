@@ -3315,6 +3315,90 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (Bulls black pinstripe Statement, Wizards white Association; NBA Cup; https://www.espn.com/nba/game/_/gameId/401909309)"
+    },
+    "2026-11-21 BOS@SAC": {
+      "score": {
+        "away": 96,
+        "home": 97
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Kings black Icon, Celtics white Association; https://www.espn.com/nba/game/_/gameId/401910028)"
+    },
+    "2026-11-21 LAC@DAL": {
+      "score": {
+        "away": 100,
+        "home": 110
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Mavericks navy MAVS Statement, Clippers red Statement; https://www.espn.com/nba/game/_/gameId/401910025)"
+    },
+    "2026-11-21 MEM@MIN": {
+      "score": {
+        "away": 95,
+        "home": 104
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Timberwolves black Statement, Grizzlies light blue Statement; https://www.espn.com/nba/game/_/gameId/401910026)"
+    },
+    "2026-11-21 MIL@PHI": {
+      "score": {
+        "away": 129,
+        "home": 132
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (76ers white Association, Bucks green Icon; https://www.espn.com/nba/game/_/gameId/401910023)"
+    },
+    "2026-11-21 NOP@SAS": {
+      "score": {
+        "away": 91,
+        "home": 114
+      },
+      "away": {
+        "call": "Statement Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Spurs white Association, Pelicans red Crescent City Statement; https://www.espn.com/nba/game/_/gameId/401910027)"
+    },
+    "2026-11-21 POR@NYK": {
+      "score": {
+        "away": 96,
+        "home": 97
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Knicks white Association, Trail Blazers black Icon; https://www.espn.com/nba/game/_/gameId/401910024)"
     }
   }
 }

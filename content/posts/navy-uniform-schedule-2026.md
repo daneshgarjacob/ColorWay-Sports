@@ -3,7 +3,7 @@ title: "Navy Uniform Schedule 2026: Every Jersey and When the Midshipmen Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-12"
+updatedDate: "2026-11-21"
 excerpt: "What Navy wears every game in 2026: the navy home jersey, the white road set, the 1926 centennial throwback against Notre Dame, and the December tribute."
 gradient: "linear-gradient(135deg, #00205B 0%, #0b3072 55%, #C5B783 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Navy owns two of the biggest uniform dates on the college football calendar and it has now announced what it is wearing for both. This is the full Navy 2026 uniform schedule: the navy home jersey, the white road set, the gold helmet that never changes, the 1926 centennial throwback the Midshipmen announced for Notre Dame at Gillette Stadium, and the December Army-Navy uniform honoring the Navy SEALs, revealed November 12. We update this page as each combination is confirmed.
+
+**Update, November 21:** Navy wore a **gold helmet, navy jersey and navy pants** against Memphis, confirmed from the game broadcast, and won **38-34**. Memphis wore a white helmet, white jersey and blue pants.
 
 **Update, November 7:** Navy wore the **gold helmet, navy jersey and gold pants** against Temple, confirmed from the game broadcast, and won **42-35**.
 
@@ -48,7 +50,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
   <div style="background: #C5B783; color: #00205B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame (Foxborough)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">1926 Centennial</div></div>
   <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #00205B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #00205B; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">DEC 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">American title game</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">If they qualify</div></div>
   <div style="background: #001233; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">DEC 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army (MetLife)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy SEALs tribute, white</div></div>
@@ -88,7 +90,7 @@ For 2026 the first of those two is already on the books. On September 15 Navy an
 
 **November 14.** Bye.
 
-**November 21 vs. Memphis.** Navy expected. The final home game of the regular season, noon Eastern.
+**November 21 vs. Memphis.** Navy expected. The final home game of the regular season, noon Eastern. **Worn: gold helmet, navy jersey and navy pants**, confirmed from the game broadcast. Memphis wore a white helmet, white jersey and blue pants. **Final: Navy 38, Memphis 34.**
 
 **November 28 at Charlotte.** White expected. Regular season finale at Jerry Richardson Stadium, kickoff to be announced.
 
@@ -128,7 +130,7 @@ For where these colors came from, the logos, and every special Army-Navy uniform
 
 **What jersey is Navy wearing this week?**
 
-Navy wore the gold helmet, navy jersey and gold pants against Temple on Saturday, November 7, confirmed from the game broadcast, and won 42-35. Navy was off on November 14. Next is Memphis at home on November 21, the final home game of the regular season, where navy is expected. The grid above lists every game with the expected set and we star each one as it is confirmed.
+Navy wore a gold helmet, navy jersey and navy pants against Memphis on Saturday, November 21, confirmed from the game broadcast, and won 38-34. Next is Charlotte on the road on November 28, the regular season finale, where white is expected. The grid above lists every game with the expected set and we star each one as it is confirmed.
 
 **What are Navy's football uniforms for 2026?**
 

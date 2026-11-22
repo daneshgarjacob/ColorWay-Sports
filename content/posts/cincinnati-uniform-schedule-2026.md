@@ -3,7 +3,7 @@ title: "Cincinnati Uniform Schedule 2026: Every Jersey and When the Bearcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Cincinnati Bearcats uniform schedule 2026: every jersey and helmet week by week, from the all-red opener to black at Nipp at Night and white on the road."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #E00122 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Cincinnati has worn a different uniform in each of its first five games this season, from all red under a white Cincy script helmet against Boston College to head-to-toe white at Arizona. This is the full Cincinnati 2026 uniform schedule: the black, red and white Nike sets, the helmet rotation, and a week-by-week outlook for all twelve games, including the Victory Bell game the Bearcats won at TQL Stadium. We update this page as each combination is confirmed.
+
+**Update, November 21:** Cincinnati wore a **red helmet, black jersey and black pants** against Colorado in the last home game, confirmed from the game broadcast, and won **35-28**. Colorado wore a white helmet, gold jersey and white pants.
 
 **Update, November 14:** Cincinnati wore a **black helmet, white jersey and black pants** at Iowa State, confirmed from the team's game photos, and lost **41-13**.
 
@@ -44,7 +46,7 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #E00122; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #E00122; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Red</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #E00122; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -76,7 +78,7 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
 
 **November 14 at Iowa State.** White expected. A November trip to Jack Trice Stadium in Ames. **Worn: black helmet, white jersey, black pants**, the same road set as Houston, confirmed from Cincinnati's own game photography, dated to the day of the game. Iowa State wore cardinal jerseys and cardinal pants. **Final: Iowa State 41, Cincinnati 13.**
 
-**November 21 vs. Colorado.** Black or red expected. The last home game of the season, with Colorado in white per the [Colorado 2026 uniform schedule](/stories/colorado-uniform-schedule-2026).
+**November 21 vs. Colorado.** Black or red expected. The last home game of the season, with Colorado in white per the [Colorado 2026 uniform schedule](/stories/colorado-uniform-schedule-2026). **Worn: red helmet, black jersey, black pants**, confirmed from the game broadcast. Colorado wore a white helmet, gold jersey and white pants. **Final: Cincinnati 35, Colorado 28.**
 
 **November 28 at BYU.** White expected. The regular season finale in Provo, where BYU wears royal at home, per the [BYU 2026 uniform schedule](/stories/byu-uniform-schedule-2026).
 
@@ -88,7 +90,7 @@ The first two games brought two different sets and two different helmets: Cincin
 
 **What jersey is Cincinnati wearing this week?**
 
-Cincinnati wore a black helmet, white jersey and black pants at Iowa State on Saturday, November 14, confirmed from the team's game photos, and lost 41-13. It wore the same set at Houston on November 7, a 31-24 loss. Next is Colorado at Nippert Stadium on Saturday, November 21, the last home game, where black or red is expected. The grid above lists every game, and we update it as each combination is confirmed.
+Cincinnati wore a red helmet, black jersey and black pants against Colorado at Nippert Stadium on Saturday, November 21, the last home game, confirmed from the game broadcast, and won 35-28. The two weeks before, it wore a black helmet, white jersey and black pants in losses at Houston and Iowa State. Next is the regular season finale at BYU on November 28, where white is expected. The grid above lists every game, and we update it as each combination is confirmed.
 
 **What are Cincinnati's football uniforms for 2026?**
 

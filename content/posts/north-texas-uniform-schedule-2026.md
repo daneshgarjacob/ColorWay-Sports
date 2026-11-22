@@ -3,7 +3,7 @@ title: "North Texas Uniform Schedule 2026: Every Jersey and When the Mean Green 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "North Texas 2026 uniform schedule: the green home set, white road set, Icy Whites at Texas State, both helmets, and what the Mean Green wear every game."
 gradient: "linear-gradient(135deg, #00853E 0%, #0aa152 55%, #0b3d24 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 North Texas has played six games under Neal Brown and worn five different combinations, including the all-white Icy Whites at Texas State and all green against Charlotte. This is the full North Texas 2026 uniform schedule: the green home set, the white road set, the green and white helmets, the Icy Whites, and a week-by-week outlook for all twelve games, including two Thursday night games in October. We update this page as each combination is confirmed.
+
+**Update, November 21:** North Texas wore a **green helmet, white jersey and green pants** at Tulane, confirmed from the game broadcast, and lost **28-24**. Tulane wore a white helmet, green jersey and white pants.
 
 **Update, November 7:** North Texas wore a **black helmet, green jersey and white pants** against Rice on Homecoming, confirmed from the game broadcast, and won **52-23**.
 
@@ -56,7 +58,7 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
   <div style="background: #00853E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 29 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #00853E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #00853E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / Green</div></div>
   <div style="background: #00853E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
 </div>
 
@@ -96,7 +98,7 @@ North Texas posted the Week 3 uniform on Thursday, September 17 with two words: 
 
 **November 14 at UTSA.** White expected. At the Alamodome, kickoff time to be announced. **Final: UTSA 35, North Texas 16.**
 
-**November 21 at Tulane.** White expected. Tulane's Senior Day at Yulman Stadium, with the Green Wave in green. Our [Tulane 2026 uniform schedule](/stories/tulane-uniform-schedule-2026) has their side.
+**November 21 at Tulane.** White expected. Tulane's Senior Day at Yulman Stadium, with the Green Wave in green. Our [Tulane 2026 uniform schedule](/stories/tulane-uniform-schedule-2026) has their side. **Worn: green helmet, white jersey and green pants**, confirmed from the game broadcast. Tulane wore a white helmet, green jersey and white pants. **Final: Tulane 28, North Texas 24.**
 
 **November 28 vs. UAB.** Green expected. The regular season finale at home, which North Texas has marked as its Salute to Service game.
 
@@ -108,7 +110,7 @@ North Texas has used both jerseys, both pant colors and three helmets already, t
 
 **What is North Texas wearing this week?**
 
-North Texas wore a black helmet, green jersey and white pants against Rice on Saturday, November 7, confirmed from the game broadcast, and won 52-23 on Homecoming. The Mean Green lost 35-16 at UTSA on November 14. Next is at Tulane on November 21, where white is expected.
+North Texas wore a green helmet, white jersey and green pants at Tulane on Saturday, November 21, confirmed from the game broadcast, and lost 28-24. Next is UAB at home on November 28, the regular season finale and Salute to Service game, where green is expected.
 
 **What are North Texas's football uniforms for 2026?**
 

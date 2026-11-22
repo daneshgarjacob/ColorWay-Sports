@@ -3,7 +3,7 @@ title: "Penn State Uniform Schedule 2026: Every Jersey and When the Nittany Lion
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Penn State wears every game in 2026: the plain white helmet, no names on the jerseys, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #041E42 0%, #14336b 55%, #ffffff 130%)"
 cardStyle: words
@@ -40,7 +40,7 @@ The no-names rule is the part people ask about. Penn State leaves the back of th
   <div style="background: #041E42; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #041E42; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #041E42; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
-  <div style="background: #041E42; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #041E42; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -66,7 +66,7 @@ The no-names rule is the part people ask about. Penn State leaves the back of th
 
 **November 14 vs. Minnesota.** Navy expected. ★ Confirmed from Penn State's own game photography: **white helmet, navy jersey, white pants**, the home set. Minnesota wore a gold chrome helmet with the maroon M, white jersey and maroon pants. **Final: Penn State 42, Minnesota 14.**
 
-**November 21 vs. Rutgers.** Navy expected.
+**November 21 vs. Rutgers.** Navy expected. **Worn: white helmet, navy jersey, white pants**, confirmed from the team's game photos, in the final home game of the season. Rutgers wore a black helmet, white jersey and black pants. **Final: Rutgers 25, Penn State 24.**
 
 **November 28 at Maryland.** White expected.
 
@@ -78,7 +78,7 @@ Nothing here will surprise you, and Penn State would take that as a compliment. 
 
 **What jersey is Penn State wearing this week?**
 
-Penn State wore the white helmet, navy jersey and white pants against Minnesota on Saturday, November 14, confirmed from game photos, and won 42-14. The week before, it went all white at Washington and won 28-25. Penn State wears navy at home and white on the road in 2026. Next is Rutgers at home on November 21, where navy is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Penn State wore the white helmet, navy jersey and white pants against Rutgers on Saturday, November 21, the final home game, confirmed from the team's game photos, and lost 25-24. The week before, it wore the same set against Minnesota and won 42-14. Penn State wears navy at home and white on the road in 2026. Next is the regular season finale at Maryland on November 28, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Penn State's uniforms for 2026?**
 

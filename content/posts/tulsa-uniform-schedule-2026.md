@@ -3,7 +3,7 @@ title: "Tulsa Uniform Schedule 2026: Every Jersey and When the Golden Hurricane 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Tulsa 2026 uniform schedule: the blue home set, white road set, gold helmet, the new red throwback, and what the Golden Hurricane wear every game."
 gradient: "linear-gradient(135deg, #003595 0%, #1f4fb8 55%, #C4A962 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Tulsa is 2-0 for the first time since 2015, it has beaten Oklahoma State two years running, and on Wednesday the program dropped a red jersey that nobody saw coming. This is the full Tulsa 2026 uniform schedule: the royal blue home set, the white road set, the gold helmet that goes with everything, the new red throwback, and a week-by-week outlook for all twelve games, including a Thursday night game against North Texas and a Friday night game against Army. We update this page as each combination is confirmed.
+
+**Update, November 21:** Tulsa wore a **gold helmet with the Tulsa script, royal blue jersey and gold pants** against Charlotte on Senior Day, confirmed from the game broadcast, and won **42-14**. Charlotte wore all white.
 
 **Update, November 14:** Tulsa wore a **gold helmet, royal blue jersey and gold pants** against Florida Atlantic for Homecoming, confirmed from the game broadcast, and won **38-21**.
 
@@ -64,7 +66,7 @@ Tulsa also brought back its city flag helmet for 918 Day on September 18, the go
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003595; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Royal / Gold</div></div>
-  <div style="background: #003595; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #003595; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Royal / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 OR 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTSA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -98,7 +100,7 @@ Tulsa also brought back its city flag helmet for 918 Day on September 18, the go
 
 **November 14 vs. Florida Atlantic.** Blue expected. Homecoming at H.A. Chapman Stadium, and the other home date where the red set would make sense if it does not show up Saturday. **Worn: gold helmet, royal blue jersey, gold pants**, confirmed from the game broadcast. **Final: Tulsa 38, Florida Atlantic 21.**
 
-**November 21 vs. Charlotte.** Blue expected. Tulsa calls this one its Senior Day Celebration and the final home game of the season.
+**November 21 vs. Charlotte.** Blue expected. Tulsa calls this one its Senior Day Celebration and the final home game of the season. **Worn: gold helmet with the Tulsa script, royal blue jersey, gold pants**, confirmed from the game broadcast. Charlotte wore all white. **Final: Tulsa 42, Charlotte 14.**
 
 **November 27 or 28 at UTSA.** White expected. Tulsa says the regular season finale in San Antonio will be played on either Friday, November 27 or Saturday, November 28, with the date set by October 11.
 
@@ -110,7 +112,7 @@ Tulsa has stayed close to the base set, gold over blue at home and white on the 
 
 **What is Tulsa wearing this week?**
 
-Tulsa wore a gold helmet, royal blue jersey and gold pants against Florida Atlantic on Saturday, November 14, confirmed from the game broadcast, and won 38-21 at Homecoming. Next is Charlotte at home on Saturday, November 21, the Senior Day Celebration and final home game, where blue is expected.
+Tulsa wore a gold helmet with the Tulsa script, royal blue jersey and gold pants against Charlotte on Saturday, November 21, the Senior Day Celebration and final home game, confirmed from the game broadcast, and won 42-14. Next is UTSA on the road on November 27 or 28, where white is expected.
 
 **What are Tulsa's football uniforms for 2026?**
 

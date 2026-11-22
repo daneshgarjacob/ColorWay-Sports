@@ -3,7 +3,7 @@ title: "USC Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What USC wears every game in 2026, starting with the Week 0 opener: the cardinal home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #6d0000 55%, #FFC72C 130%)"
 cardStyle: words
@@ -15,7 +15,9 @@ resurfaceOnUpdate: true
 
 USC opened in Week 0, which put the Trojans on the field before almost everybody, and through ten games the Trojans are 7-3. This is the full USC 2026 uniform schedule: the cardinal home set, the white road set, gold pants with both, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, November 14:** USC wore a **cardinal helmet, white jersey and gold pants** at Indiana, confirmed from the game broadcast, and lost **27-13**. Next is **November 21 vs. Maryland** at the Coliseum, where cardinal is expected.
+**Update, November 21:** USC wore a **cardinal helmet, cardinal jersey and gold pants** against Maryland at the Coliseum, confirmed from the game broadcast, and won **35-21**. Maryland wore its all-white Script Shift set. Next is **November 28 at UCLA**, where cardinal is expected.
+
+**Update, November 14:** USC wore a **cardinal helmet, white jersey and gold pants** at Indiana, confirmed from the game broadcast, and lost **27-13**.
 
 ## The USC 2026 Uniform Sets
 
@@ -43,7 +45,7 @@ USC's uniform is a two-item wardrobe and has been for decades. The gold pants st
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / White / Gold</div></div>
-  <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
+  <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Maryland</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
 </div>
 
@@ -71,7 +73,7 @@ USC's uniform is a two-item wardrobe and has been for decades. The gold pants st
 
 **November 14 at Indiana.** White expected. **Worn: cardinal helmet, white jersey, gold pants**, confirmed from the game broadcast. **Final: Indiana 27, USC 13.**
 
-**November 21 vs. Maryland.** Cardinal expected.
+**November 21 vs. Maryland.** Cardinal expected. **Worn: cardinal helmet, cardinal jersey, gold pants**, confirmed from the game broadcast. Maryland wore its all-white Script Shift uniforms. **Final: USC 35, Maryland 21.**
 
 **November 28 at UCLA.** Cardinal expected. The crosstown game is the one date where both teams wear their home colors, a tradition the NCAA has allowed since 2008, so it is USC cardinal against UCLA blue at the Rose Bowl.
 
@@ -83,7 +85,7 @@ Cardinal at home, white on the road, gold pants always. USC has one of the three
 
 **What jersey is USC wearing this week?**
 
-USC's next game is November 21 against Maryland at home, where cardinal is expected. Last time out, USC wore the cardinal helmet, white jersey and gold pants at Indiana on November 14, confirmed from the game broadcast, and lost 27-13. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+USC wore the cardinal helmet, cardinal jersey and gold pants against Maryland at the Coliseum on Saturday, November 21, confirmed from the game broadcast, and won 35-21. Next is the crosstown game at UCLA on November 28, where cardinal is expected. USC wears cardinal at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are USC's uniforms for 2026?**
 

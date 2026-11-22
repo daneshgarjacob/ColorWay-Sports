@@ -3,7 +3,7 @@ title: "Fresno State Uniform Schedule 2026: Every Jersey and When the Bulldogs W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Fresno State wears every game in 2026: the all red home set, the white road jersey with red pants, the black alternate, and every date week by week."
 gradient: "linear-gradient(135deg, #DB0032 0%, #a8002a 55%, #006747 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Fresno State keeps it simple. Red helmet, red jersey, red pants at home, and the same red helmet over a white jersey on the road. This is the full Fresno State 2026 uniform schedule: the all red home look the Bulldogs wore in their first Pac-12 win, the white road set from the trip to USC, the black alternate sitting in the closet, and a week-by-week outlook for all twelve games plus the Pac-12 flex date. We update this page as each combination is confirmed.
+
+**Update, November 21:** Fresno State wore a **white helmet with the red Bulldog, red jersey and white pants** against Colorado State, confirmed from the game broadcast, and won **49-42**. Colorado State wore a green helmet, white jersey and green pants.
 
 ## The Fresno State 2026 Uniform Sets
 
@@ -44,7 +46,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (reported)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
-  <div style="background: #DB0032; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
+  <div style="background: #DB0032; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Red / White</div></div>
   <div style="background: #DB0032; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Flex Opponent (TBD)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
 </div>
 
@@ -82,7 +84,7 @@ adidas outfits the Bulldogs, and the wardrobe is narrower than most programs its
 
 **November 14 at Texas State.** White expected. The longest road trip of the season, a 1 p.m. Pacific kickoff in San Marcos on The CW. **Worn: red helmet, white jersey, red pants**, confirmed from the game broadcast. **Final: Texas State 37, Fresno State 35.**
 
-**November 21 vs. Colorado State.** Red expected. The last scheduled home game before the flex date, 4:30 p.m. Pacific on The CW, and the natural slot for a senior day look.
+**November 21 vs. Colorado State.** Red expected. The last scheduled home game before the flex date, 4:30 p.m. Pacific on The CW, and the natural slot for a senior day look. **Worn: white helmet with the red Bulldog, red jersey, white pants**, confirmed from the game broadcast. Colorado State wore a green helmet, white jersey and green pants. **Final: Fresno State 49, Colorado State 42.**
 
 **November 28, flex game.** Red expected. The Pac-12 built its first schedule around a Week 13 flex date that does not count in the conference standings and is not set until six days before kickoff at the latest. Fresno State holds the home game for it, which means color. The Pac-12 Championship follows on December 4.
 
@@ -98,7 +100,7 @@ In every game we have logged, Fresno State has shown two combinations and one he
 
 **What is Fresno State wearing this week?**
 
-Fresno State wore a red helmet, white jersey and red pants at Texas State on Saturday, November 14, confirmed from the game broadcast, and lost 37-35. Next is Colorado State at home on November 21, where red is expected. The week-by-week grid above lists every game.
+Fresno State wore a white helmet with the red Bulldog, a red jersey and white pants against Colorado State at home on Saturday, November 21, confirmed from the game broadcast, and won 49-42. Next is the November 28 flex game at home, where red is expected. The week-by-week grid above lists every game.
 
 **What are Fresno State's football uniforms for 2026?**
 

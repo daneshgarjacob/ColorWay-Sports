@@ -3,7 +3,7 @@ title: "Oregon State Uniform Schedule 2026: Every Jersey and When the Beavers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Oregon State wears every game in 2026: the black home set, the all white road look, the orange alternate, and the full Beavers uniform schedule."
 gradient: "linear-gradient(135deg, #D73F09 0%, #b8350a 55%, #000000 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Oregon State spent two years as a football independent and comes back into a conference in 2026, and the uniforms came along for the ride. This is the full Oregon State 2026 uniform schedule: the black home set, the all white road look, the orange jersey that finally came out for an all orange look against San Diego State, the white helmet the Beavers wore through September, the orange helmet that debuted in the Pac-12 opener at Colorado State, and a week by week outlook for all twelve games in JaMarcus Shephard's first season. We update this page as each combination is confirmed.
+
+**Update, November 21:** Oregon State wore a **black helmet, orange jersey and black pants** for Senior Day against Utah State, confirmed from the game broadcast, and won **31-24**. It is the first time the black helmet has appeared in a game we have logged this season. Utah State wore a navy helmet, white jersey and white pants.
 
 ## The Oregon State 2026 Uniform Sets
 
@@ -52,7 +54,7 @@ That leaves the broadcast as the source of truth, and through September the patt
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #D73F09; color: #ffffff; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Orange / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Flex Opponent (TBD)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -88,7 +90,7 @@ That leaves the broadcast as the source of truth, and through September the patt
 
 **November 14 at Boise State.** White expected. Oregon State in white on the blue turf is one of the better visuals of the year. The [Boise State 2026 uniform schedule](/stories/boise-state-uniform-schedule-2026) covers what the Broncos put on top of it. **Final: Boise State 46, Oregon State 41.**
 
-**November 21 vs. Utah State.** Black expected. Senior Day at Reser and the last guaranteed home game, 7:30 p.m. Pacific on CBS Sports Network. If Oregon State has an alternate saved for 2026, this is the date to watch. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026).
+**November 21 vs. Utah State.** Black expected. Senior Day at Reser and the last guaranteed home game, 7:30 p.m. Pacific on CBS Sports Network. If Oregon State has an alternate saved for 2026, this is the date to watch. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026). **Worn: black helmet, orange jersey, black pants**, confirmed from the game broadcast. Utah State wore a navy helmet, white jersey and white pants. **Final: Oregon State 31, Utah State 24.**
 
 **November 28, flex week, on the road.** White expected. The Pac-12 built its calendar around a Week 13 flex game that does not count in the conference standings and is not locked in until six days out. Oregon State is one of the four road teams that week, along with Boise State, San Diego State and Texas State, and the hosts are Colorado State, Fresno State, Utah State and Washington State. The opponent is set by the conference late in the season.
 
@@ -98,7 +100,7 @@ That leaves the broadcast as the source of truth, and through September the patt
 
 ## The Bottom Line
 
-Five confirmed games, five different uniforms. Oregon State went all white at Houston, all black at home against Texas Tech and white over black pants at UTEP, all under the white shell, before the orange helmet from the 2024 Nike redesign finally came out at Colorado State, with orange pants and the white jersey, in a 56-26 win. A week later the orange jersey joined it for an all orange look in a 66-14 win over San Diego State, when black had been expected. The helmet is the least predictable part of the whole thing and the detail to keep watching. The black helmet is still sitting in the closet, and the Beavers have three home dates left plus a flex road trip to use it. The grid above has every game, and we fill in a star as each combination is confirmed.
+Five confirmed games, five different uniforms. Oregon State went all white at Houston, all black at home against Texas Tech and white over black pants at UTEP, all under the white shell, before the orange helmet from the 2024 Nike redesign finally came out at Colorado State, with orange pants and the white jersey, in a 56-26 win. A week later the orange jersey joined it for an all orange look in a 66-14 win over San Diego State, when black had been expected. The helmet is the least predictable part of the whole thing and the detail to keep watching. The black helmet finally showed up in a game we logged on Senior Day against Utah State, with the orange jersey and black pants, in a 31-24 win. The grid above has every game, and we fill in a star as each combination is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FBSchedules/status/2050266211338903593"></a></blockquote>
@@ -108,7 +110,7 @@ Five confirmed games, five different uniforms. Oregon State went all white at Ho
 
 **What jersey is Oregon State wearing this week?**
 
-Oregon State wore its military appreciation threads against Texas State at Reser Stadium on Saturday, November 7: a white helmet with the orange and black center stripe, a black jersey with gray digital-camo numbers and white pants, worn as posted and confirmed from the game broadcast. Texas State won 42-21. The Beavers then lost 46-41 at Boise State on November 14. Next up is Utah State at Reser Stadium on November 21 for Senior Day, where black is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Oregon State wore its military appreciation threads against Texas State at Reser Stadium on Saturday, November 7: a white helmet with the orange and black center stripe, a black jersey with gray digital-camo numbers and white pants, worn as posted and confirmed from the game broadcast. Texas State won 42-21. The Beavers then lost 46-41 at Boise State on November 14. On Senior Day against Utah State on November 21 they wore a black helmet, orange jersey and black pants, confirmed from the game broadcast, and won 31-24. Next is the flex game on the road on November 28, where white is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Oregon State's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Syracuse Uniform Schedule 2026: Every Jersey and When the Orange Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Syracuse wears every game in 2026: navy at home, white on the road, the orange helmet, and the full Orange uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002D72 0%, #1a3f85 55%, #F76900 130%)"
 cardStyle: words
@@ -15,7 +15,9 @@ resurfaceOnUpdate: true
 
 Syracuse used to be one of the most unpredictable dressers in the ACC. Under Fran Brown it is one of the most disciplined: navy jerseys at home, white jerseys on the road, orange helmets and orange pants almost every time. That makes the Syracuse uniform schedule easy to read, as long as you know the rule and the one thing that could break it. This is the full Syracuse 2026 uniform schedule: the navy home set, the white road set, the alternates still sitting in the closet, and a week-by-week outlook for all twelve games in Brown's third season. We update this page as each combination is confirmed.
 
-**Update, November 14:** Syracuse wore the **orange helmet, white jersey and orange pants** at NC State, confirmed from the game broadcast, and won **34-31**. For Halloween against SMU, the team had announced a **white helmet featuring Otto the Orange**, the first time it has put Otto on its helmets. [Every detail of the Otto helmet →](/stories/syracuse-otto-helmet-halloween-smu-2026)
+**Update, November 21:** Syracuse wore the **orange helmet, white jersey and orange pants** at Boston College, confirmed from the game broadcast, and lost **27-15**. Boston College wore a gold helmet, maroon jersey and maroon pants.
+
+**November 14:** Syracuse wore the **orange helmet, white jersey and orange pants** at NC State, confirmed from the game broadcast, and won **34-31**. For Halloween against SMU, the team had announced a **white helmet featuring Otto the Orange**, the first time it has put Otto on its helmets. [Every detail of the Otto helmet →](/stories/syracuse-otto-helmet-halloween-smu-2026)
 
 **October 24:** Syracuse wore the **orange helmet, white jersey and orange pants** at North Carolina, confirmed from the team's game photos, and won **31-30 in overtime**.
 
@@ -44,7 +46,7 @@ The current Nike set arrived in June 2019 and leaned into tradition: the block S
   <div style="background: #002D72; color: #ffffff; border: 2px solid #F76900; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Announced: Otto Helmet (White) / Navy expected</div></div>
   <div style="background: #002D72; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / White / Orange</div></div>
   <div style="background: #002D72; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
 </div>
 
@@ -76,7 +78,7 @@ The current Nike set arrived in June 2019 and leaned into tradition: the block S
 
 **November 14 at NC State.** White expected. Carter-Finley Stadium in Raleigh, kickoff time to be announced, with the Wolfpack in red. **Worn: orange helmet, white jersey, orange pants**, confirmed from the game broadcast. **Final: Syracuse 34, NC State 31.**
 
-**November 21 at Boston College.** White expected. Alumni Stadium in Chestnut Hill, the last road game of the year, with BC in maroon.
+**November 21 at Boston College.** White expected. Alumni Stadium in Chestnut Hill, the last road game of the year, with BC in maroon. **Worn: orange helmet, white jersey, orange pants**, confirmed from the game broadcast. Boston College wore a gold helmet, maroon jersey and maroon pants. **Final: Boston College 27, Syracuse 15.**
 
 **November 28 vs. Notre Dame.** Navy expected. The regular season finale in the Dome against the Irish, who wear white on the road. Notre Dame navy against Syracuse navy would not work, which is why the visitor rule matters here. Our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026) tracks the Irish side. If Brown ever lets the all-orange set out, a home finale against Notre Dame is the kind of night that would earn it.
 
@@ -88,7 +90,7 @@ Syracuse has worn the orange helmet, navy jersey and orange pants in both home g
 
 **What jersey is Syracuse wearing this week?**
 
-Syracuse wore the orange helmet, white jersey and orange pants at NC State on Saturday, November 14, confirmed from the game broadcast, and won 34-31. Next is Boston College on the road on November 21, where white is expected. We star the grid cell as soon as the combination is confirmed.
+Syracuse wore the orange helmet, white jersey and orange pants at Boston College on Saturday, November 21, confirmed from the game broadcast, and lost 27-15. Next is Notre Dame at home on November 28, the regular season finale, where navy is expected. We star the grid cell as soon as the combination is confirmed.
 
 **What are Syracuse's football uniforms for 2026?**
 

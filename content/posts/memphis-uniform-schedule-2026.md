@@ -3,7 +3,7 @@ title: "Memphis Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Memphis wears every game in 2026: the blue home jersey, the white road set, the gray pants, the new FedEx patch, and the full week-by-week schedule."
 gradient: "linear-gradient(135deg, #003087 0%, #1a4ba3 55%, #898D8D 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Memphis owns one of the deepest uniform closets in the American Conference and a brand new logo on the chest. This is the full Memphis 2026 uniform schedule: the blue home jersey, the white road set, the gray pants that showed up in Boise, the FedEx patch that is now on every Tigers jersey, and a week-by-week outlook for all twelve games. Six games are already confirmed. We update this page as each combination is locked in.
+
+**Update, November 21:** Memphis wore a **white helmet, white jersey and blue pants** at Navy, confirmed from the game broadcast, and lost **38-34**. Navy wore a gold helmet, navy jersey and navy pants.
 
 **Update, November 12:** Memphis beat South Florida **52-41** on Thursday night in a **white helmet with blue tiger stripes, white jersey and white pants**, confirmed from the game broadcast.
 
@@ -57,7 +59,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
   <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue (Halloween)</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 12 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #003087; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Blue</div></div>
   <div style="background: #003087; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 OR 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
 </div>
 
@@ -93,7 +95,7 @@ Everything else is Nike, and the closet behind those four cards is genuinely dee
 
 **November 12 at South Florida.** White expected. A Thursday night trip to Raymond James Stadium, 7 p.m. Central. **Worn: white helmet with blue tiger stripes, white jersey, white pants**, confirmed from the game broadcast. **Final: Memphis 52, South Florida 41.**
 
-**November 21 at Navy.** White expected. An 11 a.m. Central kickoff in Annapolis, and Navy is the home team in navy and gold, so Memphis in white is close to locked. Our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026) has the Midshipmen side of it.
+**November 21 at Navy.** White expected. An 11 a.m. Central kickoff in Annapolis, and Navy is the home team in navy and gold, so Memphis in white is close to locked. Our [Navy 2026 uniform schedule](/stories/navy-uniform-schedule-2026) has the Midshipmen side of it. **Worn: white helmet, white jersey and blue pants**, confirmed from the game broadcast. Navy wore a gold helmet, navy jersey and navy pants. **Final: Navy 38, Memphis 34.**
 
 **November 27 or 28 vs. Temple.** Blue expected. Senior Day and the regular season finale, and the date genuinely is not set yet: Memphis lists it as November 27 or 28 while the conference sorts out the Thanksgiving weekend windows. We will lock the cell once the designation comes down.
 
@@ -113,7 +115,7 @@ Memphis is an easy program to predict at the color level and a hard one to predi
 
 **What jersey is Memphis wearing this week?**
 
-Memphis wore a white helmet with blue tiger stripes, white jersey and white pants at South Florida on Thursday, November 12, confirmed from the game broadcast, and won 52-41. Next is a trip to Navy on November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Memphis wore a white helmet, white jersey and blue pants at Navy on Saturday, November 21, confirmed from the game broadcast, and lost 38-34. Next is Temple at home on November 27 or 28, Senior Day and the regular season finale, where blue is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Memphis's football uniforms for 2026?**
 

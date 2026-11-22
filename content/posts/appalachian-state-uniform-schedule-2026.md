@@ -3,7 +3,7 @@ title: "Appalachian State Uniform Schedule 2026: Every Jersey and When the Mount
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What App State wears every game in 2026: the black home set, the white road look, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #111111 0%, #3d3526 55%, #FFCC00 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 App State runs one of the cleanest uniform programs in the Sun Belt: two jerseys, two helmets, gold on everything, and almost no gimmicks. This is the full Appalachian State 2026 uniform schedule, the black home set, the white road look, the helmets that go with each, and a week-by-week outlook for all twelve games. Two are already confirmed. We update this page as each combination is locked in.
+
+**Update, November 21:** App State wore a **black helmet, black jersey and black pants** against ULM on Senior Day, confirmed from the game broadcast, and won **17-16** in overtime. ULM wore white jerseys and white pants.
 
 **Update, November 14:** App State won **20-16** at Marshall in a **white helmet, black jersey and white pants**, confirmed from the game broadcast, wearing black rather than the expected white on the road.
 
@@ -54,7 +56,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Heroes Day)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Marshall</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Black / White</div></div>
-  <div style="background: #1A1A1A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs ULM</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Senior Day)</div></div>
+  <div style="background: #1A1A1A; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs ULM</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -88,7 +90,7 @@ The program also runs a weekly uniform reveal video with fans, presented by Beec
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/AppState_FB/status/1992210258312204658"></a></blockquote>
 </div>
 
-**November 21 vs. ULM.** Black expected. Senior Day and the last home game of the year.
+**November 21 vs. ULM.** Black expected. Senior Day and the last home game of the year. **Worn: black helmet, black jersey and black pants**, confirmed from the game broadcast. ULM wore white jerseys and white pants. **Final: App State 17, ULM 16 (OT).**
 
 **November 27 at South Alabama.** White expected. A Friday afternoon finale in Mobile, 3 p.m. Eastern.
 
@@ -100,7 +102,7 @@ App State is not a uniform program in the Oregon sense and does not want to be. 
 
 **What is App State wearing this week?**
 
-App State wore a white helmet, black jersey and white pants at Marshall on Saturday, November 14, confirmed from the game broadcast, and won 20-16. Next is ULM at Kidd Brewer Stadium on Saturday, November 21, Senior Day, where black is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+App State wore a black helmet, black jersey and black pants against ULM on Saturday, November 21, Senior Day, confirmed from the game broadcast, and won 17-16 in overtime. Next is the regular season finale at South Alabama on Friday, November 27, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are App State's football uniforms for 2026?**
 

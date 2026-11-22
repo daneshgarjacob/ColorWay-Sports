@@ -3,7 +3,7 @@ title: "Texas A&M Uniform Schedule 2026: Every Jersey and When the Aggies Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Texas A&M wears every game in 2026. The confirmed camo date, the maroon home set, the white road set, and a week-by-week outlook for all twelve games."
 gradient: "linear-gradient(135deg, #500000 0%, #2a1414 55%, #C2B280 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Texas A&M is wearing this week? This is the full Texas A&M 2026 uniform schedule: the one confirmed alternate date, the maroon home set, the white road set, and a week-by-week outlook for all twelve games. College programs announce most uniform combinations in the week of the game rather than in advance, so we update this page as each one is confirmed.
+
+**Update, November 21:** Texas A&M wore **all white**, white helmet, white jersey and white pants, at Oklahoma, confirmed from the ESPN broadcast highlights, and lost **28-7**.
 
 **Update, November 14:** Texas A&M wore the **all black uniform** it posted for Tennessee week, black helmet with a white "Aggies" script, black jersey and black pants, confirmed from the game broadcast, and lost **22-7**.
 
@@ -56,7 +58,7 @@ Twelve games, one confirmed alternate, and an October 31 bye.
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #500000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #500000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
 </div>
 
@@ -90,7 +92,7 @@ One thing to understand before the table below: **SEC home teams wear colored je
 
 **November 14 vs. Tennessee, Kyle Field.** Home, 3 p.m. Eastern on ESPN. On November 11 the team posted a **black uniform** (black helmet with a white "Aggies" script, black jersey, black pants) under "Paint it black," plus new **script Aggies end zones** painted at Kyle Field. Details: [Texas A&M goes all black with script Aggies end zones](/stories/texas-am-all-black-script-aggies-end-zones-tennessee-2026). Worn as posted, all black, confirmed from the game broadcast. **Final: Tennessee 22, Texas A&M 7.**
 
-**November 21 at Oklahoma, Norman.** Road. White expected.
+**November 21 at Oklahoma, Norman.** Road. White expected. **Worn: white helmet, white jersey, white pants**, confirmed from the ESPN broadcast highlights. Oklahoma wore a crimson helmet, crimson jersey and white pants for Senior Day. **Final: Oklahoma 28, Texas A&M 7.**
 
 **November 27 vs. Texas, Kyle Field.** The rivalry game, at home, the Friday after Thanksgiving. Maroon expected. If Texas A&M is holding anything back for one night, this is the night.
 
@@ -110,7 +112,7 @@ For more, see our [Texas A&M camo uniforms graded](/stories/texas-am-camo-honor-
 
 **What jersey is Texas A&M wearing this week?**
 
-Texas A&M wore all black against Tennessee at Kyle Field on Saturday, November 14, the black helmet with a white "Aggies" script, black jersey and black pants it posted that week, confirmed from the game broadcast. Tennessee won 22-7. Next is Oklahoma in Norman on Saturday, November 21, where white is expected. Texas A&M wears maroon at home and white on the road for most games in 2026. We update this page as each combination is confirmed in game week.
+Texas A&M wore all white at Oklahoma on Saturday, November 21, white helmet, white jersey and white pants, confirmed from the ESPN broadcast highlights, and lost 28-7. The week before it wore all black against Tennessee. Next is Texas at Kyle Field on Friday, November 27, where maroon is expected. Texas A&M wears maroon at home and white on the road for most games in 2026. We update this page as each combination is confirmed in game week.
 
 **When did Texas A&M wear the camo uniforms in 2026?**
 

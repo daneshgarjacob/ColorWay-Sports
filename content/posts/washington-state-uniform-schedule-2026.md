@@ -3,7 +3,7 @@ title: "Washington State Uniform Schedule 2026: Every Jersey and When the Cougar
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Washington State wears every game in 2026: the crimson home set, Icy White, the Ketchup Bottle combo, the gray throwback helmets, and the full Cougars uniform schedule."
 gradient: "linear-gradient(135deg, #981E32 0%, #7e1a2a 55%, #5E6A71 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Washington State builds its uniforms the way you build a wardrobe, four helmet shells, four jersey colors, four pants colors, two facemask colors, and a new arrangement almost every Saturday. The Cougars have worn 53 different combinations since the 2017 redesign, and they added the newest one against Duquesne. This is the full Washington State 2026 uniform schedule: the crimson home set, the Icy White road look, the Ketchup Bottle combo, the gray throwback helmets, and a week by week outlook for all twelve games in Kirby Moore's first season. We update this page as each combination is confirmed.
+
+**Update, November 21:** Washington State wore **all white, white helmet, white jersey and white pants**, at Texas State, confirmed from the team's game photos, and lost **42-14**.
 
 **Update, November 14:** Washington State wore a **crimson helmet and gray jersey** against Colorado State, confirmed from the game broadcast, and won **73-7**.
 
@@ -44,7 +46,7 @@ The throwback history is the good part. The script Cougars helmet logo lived on 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Crimson</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #981E32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #981E32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Flex Opponent (TBD)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
 </div>
 
@@ -92,7 +94,7 @@ The throwback history is the good part. The script Cougars helmet logo lived on 
 
 **November 14 vs. Colorado State.** Crimson expected. A 7:30 p.m. Pacific kickoff, the latest start of the home slate and the kind of November night game that has drawn the anthracite set in past seasons. See the [Colorado State 2026 uniform schedule](/stories/colorado-state-uniform-schedule-2026) for the Rams. **Worn: crimson helmet and gray jersey**, confirmed from the game broadcast. **Final: Washington State 73, Colorado State 7.**
 
-**November 21 at Texas State.** White expected. A trip to San Marcos, 3 p.m. Pacific.
+**November 21 at Texas State.** White expected. A trip to San Marcos, 3 p.m. Pacific. **Worn: white helmet, white jersey, white pants**, confirmed from Washington State's game photos. **Final: Texas State 42, Washington State 14.**
 
 **November 28, flex week, at home.** Crimson expected, and this is Senior Day, which in Pullman has meant the anthracite helmet, anthracite pants and crimson jersey combination the program has used as a Senior Day staple since 2017. The Pac-12 does not confirm its Week 13 flex pairings until six days out, but Washington State is one of the four hosts that week, and the visitor will be Boise State, Oregon State, San Diego State or Texas State.
 
@@ -112,7 +114,7 @@ Two road games, two crimson and white looks, then three different home looks at 
 
 **What jersey is Washington State wearing this week?**
 
-Washington State wore a crimson helmet and gray jersey against Colorado State on Saturday, November 14, confirmed from the game broadcast, and won 73-7. Next is Texas State on the road on Saturday, November 21, where white is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Washington State wore all white, a white helmet, white jersey and white pants, at Texas State on Saturday, November 21, confirmed from the team's game photos, and lost 42-14. Next is the November 28 flex game at home, Senior Day, where crimson is expected. The week by week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Washington State's football uniforms for 2026?**
 

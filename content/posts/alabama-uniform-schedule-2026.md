@@ -3,7 +3,7 @@ title: "Alabama Uniform Schedule 2026: Every Jersey and When the Crimson Tide We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Alabama wears every game in 2026. Crimson at home, white on the road, and why the Tide's uniform schedule is the most locked-down in the SEC."
 gradient: "linear-gradient(135deg, #9E1B32 0%, #2a0a10 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Alabama is wearing this week? This is the full Alabama 2026 uniform schedule, game by game. The short version: crimson at home, white on the road, and almost nothing else, because Alabama guards its uniform more carefully than any program in the sport.
+
+**Update, November 21:** Alabama wore the standard home uniform against Chattanooga, a **crimson helmet, crimson jersey and white pants**, confirmed from the game broadcast, and won **47-0**.
 
 **Update, November 14:** Alabama posted its look for Vanderbilt in the visiting locker room in Nashville, coded crimson, white, white: **crimson helmet, white jersey, white pants**, the standard road uniform. Worn as posted, confirmed from the game broadcast, in a **21-6** win.
 
@@ -51,7 +53,7 @@ Twelve games, seven at Bryant-Denny, no alternates announced.
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at LSU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / White / White</div></div>
-  <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chattanooga</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
+  <div style="background: #9E1B32; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chattanooga</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
   <div style="background: #9E1B32; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
 </div>
 
@@ -85,7 +87,7 @@ SEC home teams wear color and visitors wear white, so the road games below are c
 
 **November 14 at Vanderbilt**, Nashville. Road. ★ Confirmed by Alabama: **crimson helmet, white jersey, white pants**, from its game-day locker room post coded crimson, white, white. Worn as posted, confirmed from the game broadcast. **Final: Alabama 21, Vanderbilt 6.**
 
-**November 21 vs. Chattanooga**, Tuscaloosa. Crimson.
+**November 21 vs. Chattanooga**, Tuscaloosa. Crimson. **Worn: crimson helmet, crimson jersey, white pants**, confirmed from the game broadcast. Chattanooga wore white jerseys with navy pants. **Final: Alabama 47, Chattanooga 0.**
 
 **November 28 vs. Auburn**, Tuscaloosa. The Iron Bowl at home. Crimson.
 
@@ -105,7 +107,7 @@ Want every big game in one place? Our [college football Week 5 uniform guide](/s
 
 **What jersey is Alabama wearing this week?**
 
-Alabama wore the crimson helmet, white jersey and white pants at Vanderbilt on Saturday, November 14, as posted in its game-day locker room and confirmed from the game broadcast, and won 21-6. Next is Chattanooga in Tuscaloosa on Saturday, November 21, where crimson is expected. Alabama wears crimson at home and white on the road. The one date that broke the pattern was November 7 at LSU, where LSU wore white at home and Alabama wore crimson on the road.
+Alabama wore the crimson helmet, crimson jersey and white pants against Chattanooga in Tuscaloosa on Saturday, November 21, confirmed from the game broadcast, and won 47-0. Next is the Iron Bowl against Auburn in Tuscaloosa on November 28, where crimson is expected. Alabama wears crimson at home and white on the road. The one date that broke the pattern was November 7 at LSU, where LSU wore white at home and Alabama wore crimson on the road.
 
 **Does Alabama have alternate uniforms in 2026?**
 

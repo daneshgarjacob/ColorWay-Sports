@@ -3,7 +3,7 @@ title: "Baylor Uniform Schedule 2026: Every Jersey, and When the Gold Chrome Thr
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Baylor wears every game in 2026, week by week, including the date the gold chrome throwback uniform hits McLane Stadium."
 gradient: "linear-gradient(135deg, #154734 0%, #0c2a1f 55%, #FFB81C 130%)"
 homepageHero: false
@@ -17,6 +17,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Baylor is wearing this week? This is the full Baylor 2026 uniform schedule, game by game, and it has one date circled: **the gold chrome throwback came out Saturday, September 26, against Colorado at McLane Stadium** for the Traditions Game, a 23-13 Baylor win.
+
+**Update, November 21:** Baylor wore a **gold helmet, green jersey and white pants** against Texas Tech for Salute to Service and Senior Day, confirmed from the game broadcast, and lost **20-10**. Texas Tech wore a red helmet, white jersey and black pants.
 
 **Update, November 14:** Baylor wore a **white helmet, white jersey and green pants** at BYU, confirmed from the game broadcast, and lost **28-7**.
 
@@ -92,7 +94,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 30</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #154734; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Homecoming</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Green</div></div>
-  <div style="background: #154734; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Salute to Service</div></div>
+  <div style="background: #154734; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Green / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -130,7 +132,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **November 14 at BYU**, Provo. White. **Worn: white helmet, white jersey, green pants**, confirmed from the game broadcast. **Final: BYU 28, Baylor 7.**
 
-**November 21 vs. Texas Tech**, Waco. Salute to Service and Senior Day, opposite Texas Tech in white.
+**November 21 vs. Texas Tech**, Waco. Salute to Service and Senior Day, opposite Texas Tech in white. **Worn: gold helmet, green jersey, white pants**, confirmed from the game broadcast. Texas Tech wore a red helmet, white jersey and black pants. **Final: Texas Tech 20, Baylor 10.**
 
 **November 28 at Houston**, Houston. White, to close the regular season.
 
@@ -140,7 +142,7 @@ Twelve games, six at McLane, a neutral-site opener in Atlanta, and one bye.
 
 **What jersey is Baylor wearing this week?**
 
-Last time out, the Bears wore a white helmet, white jersey and green pants at BYU on Saturday, November 14, confirmed from the game broadcast, and lost 28-7. Next is Texas Tech in Waco on November 21 for Salute to Service and Senior Day. Baylor announces each week's combination a few days before kickoff, and this page is updated as each one is confirmed. Home games at McLane rotate between green, white, black and anthracite. Road games are white.
+Last time out, the Bears wore a gold helmet, green jersey and white pants against Texas Tech in Waco on Saturday, November 21, Salute to Service and Senior Day, confirmed from the game broadcast, and lost 20-10. Next is the regular season finale at Houston on November 28, where white is expected. Baylor announces each week's combination a few days before kickoff, and this page is updated as each one is confirmed. Home games at McLane rotate between green, white, black and anthracite. Road games are white.
 
 **When does Baylor wear the gold chrome throwback uniform in 2026?**
 

@@ -3,7 +3,7 @@ title: "Nebraska Uniform Schedule 2026: Every Jersey and When the Cornhuskers We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Nebraska uniform schedule 2026: every Huskers jersey by week, the scarlet home uniform, white road set, and the black alternate jersey for the Halloween Blackout against Washington."
 gradient: "linear-gradient(135deg, #E41C38 0%, #a8142a 55%, #111111 130%)"
 cardStyle: words
@@ -42,7 +42,7 @@ The black alternate is where 2026 gets interesting. Nebraska Athletics unveiled 
   <div style="background: #111111; color: #ffffff; border: 2px solid #E41C38; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black Alt (Announced)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #E41C38; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Red</div></div>
-  <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
+  <div style="background: #E41C38; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Scarlet / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -68,7 +68,7 @@ The black alternate is where 2026 gets interesting. Nebraska Athletics unveiled 
 
 **November 14 at Rutgers.** White expected. Kickoff time is still to be announced. **Worn: white helmet, white jersey, red pants**, confirmed from the game broadcast. **Final: Nebraska 31, Rutgers 0.**
 
-**November 21 vs. Ohio State.** Scarlet expected. The final home game of the season, with Ohio State expected in white; the Buckeyes' outlook is on the [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026).
+**November 21 vs. Ohio State.** Scarlet expected. The final home game of the season, with Ohio State expected in white; the Buckeyes' outlook is on the [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026). **Worn: white helmet, scarlet jersey, white pants**, confirmed from the team's game photos. Ohio State wore the silver helmet, white jersey and gray pants. **Final: Nebraska 31, Ohio State 28.**
 
 **November 27 at Iowa.** White expected. The Black Friday rivalry game at Kinnick Stadium, 11 a.m. Central on CBS, closes the regular season.
 
@@ -80,7 +80,7 @@ Five games in, Nebraska is 5-0 and has done exactly what it said it would: white
 
 **What jersey is Nebraska wearing this week?**
 
-Nebraska wore the white helmet, white jersey and red pants at Rutgers on Saturday, November 14, confirmed from the game broadcast, and won 31-0. Next up is Ohio State at home on November 21, the final home game of the season, where scarlet is expected. The week-by-week grid above lists every date, and we update it as each look is confirmed.
+Nebraska wore the white helmet, scarlet jersey and white pants against Ohio State on Saturday, November 21, the final home game of the season, confirmed from the team's game photos, and won 31-28. Next is the regular season finale at Iowa on Friday, November 27, where white is expected. The week-by-week grid above lists every date, and we update it as each look is confirmed.
 
 **What are Nebraska's football uniforms for 2026?**
 

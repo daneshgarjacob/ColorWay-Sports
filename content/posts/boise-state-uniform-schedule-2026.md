@@ -3,7 +3,7 @@ title: "Boise State Uniform Schedule 2026: Every Jersey and When the Broncos Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Every Boise State jersey and uniform in 2026: blue on The Blue, white on the road, the 40th anniversary helmet, and the full Broncos schedule week by week."
 gradient: "linear-gradient(135deg, #0033A0 0%, #10275C 55%, #D64309 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Boise State wears blue at home and white on the road, and the blue at home is the whole point: a blue jersey over blue pants on a blue field is the most recognizable look in college football. This is the full Boise State 2026 uniform schedule, with every combination confirmed so far. **The Broncos wore a blue helmet, white jersey and blue pants at Oregon on September 5**, then **debuted the hand-painted 40th anniversary helmet with blue jerseys and blue pants against Memphis on September 12**. Below is every date of the first Pac-12 season, including the bye and the flex game that closes the regular season. We update this page as each combination is confirmed.
+
+**Update, November 21:** Boise State went **all blue**, a blue helmet, blue jersey and blue pants, against San Diego State in its final home game, confirmed from San Diego State's game photos, and lost **22-20**.
 
 **Update, November 14:** Boise State went **all blue**, a blue helmet, blue jersey and blue pants, against Oregon State, confirmed from the team's game photos, and won **46-41**.
 
@@ -51,7 +53,7 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #0033A0; color: #ffffff; border: 2px solid #FA4616; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Orange / Blue / Orange</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Blue</div></div>
-  <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Flex Opponent (TBD)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -89,19 +91,19 @@ The base sets come from Nike and date to the refresh Boise State previewed in th
 
 **November 14 vs. Oregon State.** Blue expected, with a blue fan scheme to match. ★ **Worn: blue helmet, blue jersey, blue pants**, all blue on the blue turf, confirmed from Boise State's own game photography, dated to the day of the game. Oregon State wore a black helmet and white jersey. **Final: Boise State 46, Oregon State 41.**
 
-**November 21 vs. San Diego State.** Blue expected. The final home game and the end of Pac-12 conference play.
+**November 21 vs. San Diego State.** Blue expected. The final home game and the end of Pac-12 conference play. **Worn: blue helmet, blue jersey, blue pants**, confirmed from San Diego State's game photos, dated to the day of the game. San Diego State wore its red and black Glyphs helmet, a white jersey and red pants. **Final: San Diego State 22, Boise State 20.**
 
 **November 28, flex game.** White expected. The regular season ends on the road against a Pac-12 opponent, Colorado State, Fresno State, Utah State or Washington State, set by the conference no later than six days before kickoff. The game counts as nonconference. Utah State's own home schedule graphic already lists Boise State for the date, a rematch of the October 3 game in Boise played in Logan, but the conference has not announced any flex pairings yet. The Pac-12 Championship follows on December 4.
 
 ## The Bottom Line
 
-Through the games we have logged, Boise State has mostly done what its closet predicts, white on the road and blue at home, with two big exceptions: the 40th anniversary helmet, which turned an ordinary blue-over-blue home opener into the most detailed helmet the program has worn, and color rush at Colorado State on November 7, when the orange helmet and orange pants came back with the blue jersey on the road. The home dates are blue by default, with San Diego State on November 21 the last one, and the flex game on November 28 is a white road date. The grid above has every date, and we add a star as each uniform is confirmed.
+Through the games we have logged, Boise State has mostly done what its closet predicts, white on the road and blue at home, with two big exceptions: the 40th anniversary helmet, which turned an ordinary blue-over-blue home opener into the most detailed helmet the program has worn, and color rush at Colorado State on November 7, when the orange helmet and orange pants came back with the blue jersey on the road. The home dates are blue by default, and the last one, against San Diego State on November 21, was all blue in a 22-20 loss. The flex game on November 28 is a white road date. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Boise State wearing this week?**
 
-Boise State went all blue, a blue helmet, blue jersey and blue pants, against Oregon State at home on Saturday, November 14, confirmed from the team's game photos, and won 46-41. The week before was color rush at Colorado State on November 7: an orange helmet with the blue Broncos script, a blue jersey with silver numbers and orange pants, confirmed by the team's game-week post, in a 64-38 win. Next is San Diego State at Albertsons Stadium on Saturday, November 21, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Boise State went all blue, a blue helmet, blue jersey and blue pants, against San Diego State at Albertsons Stadium on Saturday, November 21, confirmed from San Diego State's game photos, and lost 22-20. It was the same all blue look the Broncos wore against Oregon State on November 14 in a 46-41 win. The week before that was color rush at Colorado State on November 7: an orange helmet with the blue Broncos script, a blue jersey with silver numbers and orange pants, confirmed by the team's game-week post, in a 64-38 win. Next is the flex game on the road on November 28, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Boise State's football uniforms for 2026?**
 

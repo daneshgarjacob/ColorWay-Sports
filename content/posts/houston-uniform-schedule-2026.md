@@ -3,7 +3,7 @@ title: "Houston Uniform Schedule 2026: Every Jersey and When the Cougars Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Houston wears every game in 2026: the red home set, the all-white road look, the Houston Blue alternate, and every week's uniform combination."
 gradient: "linear-gradient(135deg, #C8102E 0%, #d8233f 55%, #78BCE2 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Houston has three jerseys, three helmets and one alternate that the whole city plans a weekend around. This is the full Houston 2026 uniform schedule: the red home set, the white road set, the light blue Houston Blue alternate that came back on October 3, and a week-by-week outlook for all twelve games. The Icy Whites came out for Friday night in Lubbock, and a white set with light blue numbers came out for Friday night in Boulder. We update this page as each combination is confirmed.
+
+**Update, November 21:** Houston wore a **red helmet, white jersey and red pants** at West Virginia, confirmed from both schools' game photos, and won **34-31** on a late field goal. West Virginia wore a navy helmet, navy jersey and gold pants.
 
 **Update, November 13:** Houston wore a **white helmet, white jersey with light blue numbers and white pants** at Colorado on Friday night, confirmed from the game broadcast. Colorado won **42-32**.
 
@@ -42,7 +44,7 @@ The base sets come from Nike's 2025 redesign, Houston's first real overhaul sinc
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
 </div>
 
@@ -86,7 +88,7 @@ That was the white shell with the red interlocking UH and a red facemask, the wh
 
 **November 13 at Colorado.** White expected. A Friday night at Folsom Field, 9:15 p.m. Central, on ESPN, against a Colorado side that has a Buffs Wear Black crowd theme for the night. ESPN lists this game under November 14 because its feed runs on UTC. Houston unveiled a new white uniform with Houston Blue script on November 11, the [Icy Houston Blues](/stories/houston-icy-houston-blues-uniform-2026), and Boulder is its likely debut. More: [Colorado schedule](/stories/colorado-uniform-schedule-2026). **Worn: white helmet, white jersey with light blue numbers, white pants**, confirmed from the game broadcast. **Final: Colorado 42, Houston 32.**
 
-**November 21 at West Virginia.** White expected, in Morgantown. More: [West Virginia schedule](/stories/west-virginia-uniform-schedule-2026).
+**November 21 at West Virginia.** White expected, in Morgantown. More: [West Virginia schedule](/stories/west-virginia-uniform-schedule-2026). **Worn: red helmet, white jersey, red pants**, confirmed from both schools' game photos. West Virginia wore a navy helmet, navy jersey and gold pants. **Final: Houston 34, West Virginia 31.**
 
 **November 28 vs. Baylor.** Red expected. Senior Day, the last home game of the year, and the one cell on this grid with a real question mark. Houston is promoting it as a Wear Black game for the crowd, and the program has worn black jerseys as recently as 2024. Nothing has been announced on the uniform side, so we are listing red and watching. More: [Baylor schedule](/stories/baylor-uniform-schedule-2026).
 
@@ -98,7 +100,7 @@ Ten games in, Houston has worn red at home, shown both pants, taken the Icy Whit
 
 **What jersey is Houston wearing this week?**
 
-Houston wore a white helmet, white jersey with light blue numbers and white pants at Colorado on Friday, November 13, confirmed from the game broadcast, and lost 42-32. The week before, the Cougars wore a white helmet, red jersey and red pants in a 31-24 win over Cincinnati. Next is a trip to West Virginia on November 21, where white is expected.
+Houston wore a red helmet, white jersey and red pants at West Virginia on Saturday, November 21, confirmed from both schools' game photos, and won 34-31. The week before, the Cougars wore a white helmet, white jersey with light blue numbers and white pants in a 42-32 loss at Colorado. Next is Baylor at home on November 28, Senior Day, where red is expected and Houston has asked the crowd to wear black.
 
 **What are Houston's football uniforms for 2026?**
 

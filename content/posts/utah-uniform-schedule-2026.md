@@ -3,7 +3,7 @@ title: "Utah Uniform Schedule 2026: Every Jersey and When the Utes Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Utah Utes uniform schedule 2026: every jersey, helmet and uniform combo week by week, from the all-red opener to Ute Proud, Red Out and the Holy War."
 gradient: "linear-gradient(135deg, #CC0000 0%, #a10000 55%, #000000 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Utah opened 2026 in all red twice and then broke out the Ute Proud look against Utah State on September 19, a white helmet with tribal interlocking U's over a red jersey and red pants, in a 33-0 win. This is the full Utah 2026 uniform schedule: the red home set, the white road set, the black alternate, the Ute Proud look and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** Utah wore a **black helmet, white jersey and black pants** at TCU, confirmed from the game broadcast, and won **38-17**. TCU wore its posted purple helmet, black jersey and purple pants.
 
 **Update, November 14:** Utah wore a **black helmet, white jersey and white pants** at Arizona, confirmed from the game broadcast, and won **40-39**.
 
@@ -43,7 +45,7 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #CC0000; color: #ffffff; border: 2px solid #111111; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs BYU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
 </div>
 
@@ -73,7 +75,7 @@ Utah treats the helmet as the variable. The jersey is almost always red at home 
 
 **November 14 at Arizona.** White expected. A November trip to Tucson. **Worn: black helmet, white jersey, white pants**, confirmed from the game broadcast. **Final: Utah 40, Arizona 39.**
 
-**November 21 at TCU.** White expected. TCU is expected in purple at home; see our [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026).
+**November 21 at TCU.** White expected. TCU is expected in purple at home; see our [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026). **Worn: black helmet, white jersey, black pants**, confirmed from the game broadcast. TCU wore a purple helmet, black jersey and purple pants. **Final: Utah 38, TCU 17.**
 
 **November 27 vs. West Virginia.** Red expected. Senior Day on Black Friday, 7 p.m. Mountain on FOX. ESPN shows November 28 because of UTC. Utah has not said which home game gets the 2026 hand-painted helmet, and a home finale is where it landed in 2024.
 
@@ -85,7 +87,7 @@ Five games, three looks: Utah went all red three times, including the road trip 
 
 **What jersey is Utah wearing this week?**
 
-Utah wore a black helmet, white jersey and white pants at Arizona on Saturday, November 14, confirmed from the game broadcast, and won 40-39. Next is TCU on the road on Saturday, November 21, where white is expected. Earlier, Utah wore all black against Houston on October 24, a black helmet, black jersey and black pants, confirmed from the team's game photos, in a 21-13 win.
+Utah wore a black helmet, white jersey and black pants at TCU on Saturday, November 21, confirmed from the game broadcast, and won 38-17. The week before at Arizona it wore a black helmet, white jersey and white pants in a 40-39 win. Next is West Virginia at home on Friday, November 27, Senior Day, where red is expected. Earlier, Utah wore all black against Houston on October 24, a black helmet, black jersey and black pants, confirmed from the team's game photos, in a 21-13 win.
 
 **What are Utah's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "NC State Uniform Schedule 2026: Every Jersey and When the Wolfpack Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-17"
+updatedDate: "2026-11-21"
 excerpt: "NC State uniform schedule 2026: red home jerseys, the white road set, the Wolfpack Warriors camo alternate, and every Wolfpack game's jersey week by week."
 gradient: "linear-gradient(135deg, #CC0000 0%, #990000 55%, #111111 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 NC State used five different looks in its first five games: a red helmet over white and red at Virginia, full black camo for the home opener, a red helmet over white and white at Vanderbilt, then the white helmet and red jersey at home, over red pants against App State and white pants against Louisville. Against Wake Forest on October 10 it went back to the App State combination: white helmet, red jersey, red pants. This is the full NC State 2026 uniform schedule: the red home set, the white road set, the black alternate, the new Wolfpack Warriors camo uniform, every helmet in the rotation, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** NC State wore a **white helmet, white jersey and white pants** at Florida State, confirmed from the game broadcast, and won **28-10**. Florida State wore turquoise for the first time in a game.
 
 **Update, November 17:** Philip Rivers is NC State's new head coach, hired November 13 on a five-year deal and introduced November 16. In his first portrait as coach he holds a **white helmet with a red center stripe trimmed in black** and a red facemask. NC State hasn't announced it as a game helmet. Our take is in [NC State's new helmet stripe](/stories/nc-state-helmet-stripe-philip-rivers-head-coach-2026). Interim coach Todd Goebbel leads the team for the last two games.
 
@@ -46,7 +48,7 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Red / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -74,19 +76,19 @@ adidas outfits NC State, and the Tuffy wolf head in the sailor cap is the helmet
 
 **November 14 vs. Syracuse.** Red expected. The final home game of the season. **Worn: black helmet, red jersey, black pants**, confirmed from the game broadcast. **Final: Syracuse 34, NC State 31.**
 
-**November 21 at Florida State.** White expected. This is Florida State's Homecoming and Seminole Heritage game, and FSU has announced it will wear turquoise in a game for the first time. See [Florida State's turquoise uniforms](/stories/florida-state-turquoise-uniforms-seminole-heritage-2026).
+**November 21 at Florida State.** White expected. This is Florida State's Homecoming and Seminole Heritage game, and FSU has announced it will wear turquoise in a game for the first time. See [Florida State's turquoise uniforms](/stories/florida-state-turquoise-uniforms-seminole-heritage-2026). **Worn: white helmet, white jersey, white pants**, confirmed from the game broadcast. Florida State wore a gold helmet, turquoise jersey and turquoise pants. **Final: NC State 28, Florida State 10.**
 
 **November 28 at North Carolina.** White expected. The regular season finale at Kenan Stadium, with Carolina blue expected on the [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026).
 
 ## The Bottom Line
 
-NC State has already shown its range: a traditional road look with a quieter Tuffy, then the most talked about alternate of its season in the home opener, then an all white bottom half at Vanderbilt, then red at home under the white helmet against App State and Louisville. The home dates default to red and the road dates to white, and the last home game against Syracuse on November 14 brought a black helmet, red jersey and black pants. The two games left are on the road, at Florida State and North Carolina, where white is expected. The grid above has every date, and we add a star as each uniform is confirmed.
+NC State has already shown its range: a traditional road look with a quieter Tuffy, then the most talked about alternate of its season in the home opener, then an all white bottom half at Vanderbilt, then red at home under the white helmet against App State and Louisville. The home dates default to red and the road dates to white, and the last home game against Syracuse on November 14 brought a black helmet, red jersey and black pants. The last two games are on the road: NC State wore all white at Florida State on November 21 and won 28-10, and white is expected again at North Carolina. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What is NC State wearing this week?**
 
-NC State wore a black helmet, red jersey and black pants against Syracuse on Saturday, November 14, the final home game, confirmed from the game broadcast, and lost 34-31. Next is a trip to Florida State on November 21, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+NC State wore a white helmet, white jersey and white pants at Florida State on Saturday, November 21, confirmed from the game broadcast, and won 28-10. Next is the regular season finale at North Carolina on November 28, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are NC State's football uniforms for 2026?**
 

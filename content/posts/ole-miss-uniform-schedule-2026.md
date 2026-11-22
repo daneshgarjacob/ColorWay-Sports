@@ -3,7 +3,7 @@ title: "Ole Miss Uniform Schedule 2026: Every Jersey and When the Rebels Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-20"
+updatedDate: "2026-11-21"
 excerpt: "The Ole Miss 2026 uniform schedule: red and navy home jerseys, powder blue alternates, the white road set, Realtree helmets, and every Rebels game week by week."
 gradient: "linear-gradient(135deg, #14213D 0%, #CE1126 60%, #6CACE4 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Ole Miss opened 2026 in the navy helmet, navy jersey and gray pants against Louisville, then switched to the red jersey with the same helmet and pants against Charlotte. This is the full Ole Miss 2026 uniform schedule: the red and navy home jerseys, the powder blue alternate, the white road set, four helmet shells including the Realtree camo, and a week-by-week outlook for all twelve games, starting with Lane Kiffin's return to Oxford with LSU on September 19. We update this page as each combination is confirmed.
+
+**Update, November 21:** Ole Miss wore the Military Appreciation uniform as posted against Wofford, the **gray and white camo helmet with the stars and stripes script, navy jersey and gray pants**, confirmed from the game broadcast, and won **59-17**.
 
 **Update, November 20:** Ole Miss posted its **Military Appreciation** uniform for Wofford on Saturday: a **gray and white camo helmet with the Ole Miss script filled in stars and stripes**, a **navy jersey** and **gray pants**. Our grade: **B**. [Every detail](/stories/ole-miss-military-appreciation-uniform-flag-helmet-wofford-2026).
 
@@ -77,7 +79,7 @@ Ole Miss dresses more like a closet than a uniform. Nike supplies three primary 
 
 **November 14 at Oklahoma, Norman** (moved to Sunday, November 15). ★ Confirmed from game photos: **white helmet with the powder blue stripe and the red Ole Miss script, white jersey with powder blue numbers, white pants**. Oklahoma wore crimson over white pants. **Final: Oklahoma 24, Ole Miss 17.** The Sooners' side is on our [Oklahoma 2026 uniform schedule](/stories/oklahoma-uniform-schedule-2026).
 
-**November 21 vs. Wofford, Oxford**, noon ET (11 a.m. Central) on SEC Network+. ★ Confirmed by Ole Miss, posted Thursday as "Military Appreciation Threads": **gray and white camo helmet with the Ole Miss script filled in stars and stripes, a navy and red center stripe and REBS on the front bumper, navy jersey with white numbers, gray pants with a red stripe**. The helmet has the same gray and white camo finish as the Missouri Realtree helmet, with the red script swapped for a flag script. The field matches: a stars and stripes Ole Miss logo at midfield, a navy end zone with white stars and a red and white striped end zone. Wofford is expected in white. Our grade: **B**. [Every detail and our take](/stories/ole-miss-military-appreciation-uniform-flag-helmet-wofford-2026).
+**November 21 vs. Wofford, Oxford**, noon ET (11 a.m. Central) on SEC Network+. ★ Confirmed by Ole Miss, posted Thursday as "Military Appreciation Threads": **gray and white camo helmet with the Ole Miss script filled in stars and stripes, a navy and red center stripe and REBS on the front bumper, navy jersey with white numbers, gray pants with a red stripe**. The helmet has the same gray and white camo finish as the Missouri Realtree helmet, with the red script swapped for a flag script. The field matches: a stars and stripes Ole Miss logo at midfield, a navy end zone with white stars and a red and white striped end zone. Wofford wore white jerseys under gold helmets. Our grade: **B**. Worn as posted, confirmed from the game broadcast. **Final: Ole Miss 59, Wofford 17.** [Every detail and our take](/stories/ole-miss-military-appreciation-uniform-flag-helmet-wofford-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OleMissFB/status/2123583165453472060"></a></blockquote>
@@ -97,7 +99,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is Ole Miss wearing this week?**
 
-Ole Miss wore a white helmet with the powder blue stripe and the red Ole Miss script, a white jersey with powder blue numbers and white pants at Oklahoma on Sunday, November 15, confirmed from game photos. Oklahoma won 24-17. Next is Wofford at home on November 21, the Military Appreciation game, where Ole Miss wears a gray and white camo helmet with a stars and stripes Ole Miss script, a navy jersey and gray pants, posted by the team on November 19. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Ole Miss wore its Military Appreciation uniform against Wofford at home on Saturday, November 21: a gray and white camo helmet with a stars and stripes Ole Miss script, a navy jersey and gray pants, as posted by the team on November 19 and confirmed from the game broadcast. Ole Miss won 59-17. Next is the Egg Bowl against Mississippi State at home on Friday, November 27, where home color is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Ole Miss's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Coastal Carolina Uniform Schedule 2026: Every Jersey and When the Chanti
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Coastal Carolina wears every game in 2026: teal at home, white on the road, the Teal Out and Black Out dates, and the full week-by-week uniform schedule."
 gradient: "linear-gradient(135deg, #006F71 0%, #0a9a9a 55%, #111111 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Coastal Carolina went all teal on the road at West Virginia and all white at home against Fordham, which tells you the Chanticleers do not follow the usual home and road script. This is the full Coastal Carolina 2026 uniform schedule: the teal set, the white set, the helmets, the Teal Out and Black Out dates on the home calendar, and a week-by-week outlook for all twelve games, including a Thursday night against Liberty and a Friday night against App State. We update this page as each combination is confirmed.
+
+**Update, November 21:** Coastal Carolina wore a **teal helmet, white jersey and teal pants** at Louisiana, confirmed from the game broadcast, and lost **38-24**. Louisiana wore a black helmet, black jersey and black pants.
 
 ## The Coastal Carolina 2026 Uniform Sets
 
@@ -44,7 +46,7 @@ Under Armour outfits Coastal, and the whole closet is built around teal, bronze 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #006F71; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Teal</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #006F71; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Teal / White / Teal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -86,7 +88,7 @@ Under Armour outfits Coastal, and the whole closet is built around teal, bronze 
 
 **November 14 vs. Arkansas State.** Teal expected. Senior Day and Salute to Service, the final home game of the season. **Final: Coastal Carolina 28, Arkansas State 21.**
 
-**November 21 at Louisiana.** White expected. A trip to Lafayette and Our Lady of Lourdes Stadium.
+**November 21 at Louisiana.** White expected. A trip to Lafayette and Our Lady of Lourdes Stadium. **Worn: teal helmet, white jersey and teal pants**, confirmed from the game broadcast. Louisiana wore a black helmet, black jersey and black pants. **Final: Louisiana 38, Coastal Carolina 24.**
 
 **November 28 at James Madison.** White expected. The regular season ends in Harrisonburg against the Dukes in purple. See our [James Madison 2026 uniform schedule](/stories/james-madison-uniform-schedule-2026).
 
@@ -102,7 +104,7 @@ In the games we have logged, Coastal has rarely repeated itself: all teal at Wes
 
 **What jersey is Coastal Carolina wearing this week?**
 
-Coastal beat Arkansas State 28-21 on Senior Day, Saturday, November 14; we have not logged that uniform yet. The last look we have on record is black for the Homecoming Black Out against Old Dominion on Saturday, November 7, confirmed from the game broadcast, in a 21-8 loss. Next is a trip to Louisiana on November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform.
+Coastal Carolina wore a teal helmet, white jersey and teal pants at Louisiana on Saturday, November 21, confirmed from the game broadcast, and lost 38-24. Next is the regular season finale at James Madison on November 28, where white is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are Coastal Carolina's football uniforms for 2026?**
 

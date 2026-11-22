@@ -3,7 +3,7 @@ title: "Georgia Tech Uniform Schedule 2026: Every Jersey and When the Yellow Jac
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Georgia Tech wears every game in 2026: the new Under Armour gold and white jerseys, both helmets, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #003057 0%, #0b3a6b 55%, #B3A369 130%)"
 cardStyle: words
@@ -15,7 +15,9 @@ resurfaceOnUpdate: true
 
 Georgia Tech changed brands this summer, and the wardrobe changed with it. This is the full Georgia Tech 2026 uniform schedule: the new Under Armour gold and white sets, the gold and white helmets, the three pant colors, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, November 14:** Georgia Tech wore a **white helmet, white jersey and gold pants** at Clemson, confirmed from the game broadcast, and won **20-6**.
+**Update, November 21:** Georgia Tech wore a **white helmet, white jersey and white pants** at home against Wake Forest, confirmed from the game broadcast, and lost **50-29**. Wake Forest wore all black.
+
+**November 14:** Georgia Tech wore a **white helmet, white jersey and gold pants** at Clemson, confirmed from the game broadcast, and won **20-6**.
 
 ## The Georgia Tech 2026 Uniform Sets
 
@@ -42,7 +44,7 @@ The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Te
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Pitt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #003057; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Clemson</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Gold</div></div>
-  <div style="background: #003057; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Gold</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -68,7 +70,7 @@ The 2026 set is the first from Under Armour, whose ten-year deal with Georgia Te
 
 **November 14 at Clemson.** White expected. Death Valley, and the biggest road stage in the conference. **Worn: white helmet, white jersey, gold pants**, confirmed from the game broadcast. **Final: Georgia Tech 20, Clemson 6.**
 
-**November 21 vs. Wake Forest.** Gold expected. The last home game of the season.
+**November 21 vs. Wake Forest.** Gold expected. The last home game of the season. **Worn: white helmet with the gold GT, white jersey with gold numbers, white pants**, confirmed from the game broadcast, so all white at home instead of gold. Wake Forest wore a black helmet, black jersey and black pants. **Final: Wake Forest 50, Georgia Tech 29.**
 
 **November 28 at Georgia.** White expected. Clean, Old-Fashioned Hate in Athens, with Georgia Tech in white and Georgia in red. What the Bulldogs wear that day is on the [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026).
 
@@ -80,7 +82,7 @@ Five games in, Georgia Tech has shown most of the new Under Armour wardrobe: the
 
 **What jersey is Georgia Tech wearing this week?**
 
-Georgia Tech wore a white helmet, white jersey and gold pants at Clemson on Saturday, November 14, confirmed from the game broadcast, and won 20-6. Next is Wake Forest at home on November 21, the last home game of the season, where gold is expected. Georgia Tech wears gold at home and white on the road in 2026, and we update the grid above as combinations are confirmed.
+Georgia Tech wore a white helmet, white jersey and white pants at home against Wake Forest on Saturday, November 21, confirmed from the game broadcast, and lost 50-29. Next is the regular season finale at Georgia on November 28, where white is expected. Georgia Tech wears gold at home and white on the road in 2026, and we update the grid above as combinations are confirmed.
 
 **What are Georgia Tech's uniforms for 2026?**
 

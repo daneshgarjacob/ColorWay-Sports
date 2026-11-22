@@ -3,7 +3,7 @@ title: "Marshall Uniform Schedule 2026: Every Jersey and When the Thundering Her
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Marshall wears every game in 2026: the kelly green home jersey, the white road set, three helmet shells, the new chest patch, and the week-by-week schedule."
 gradient: "linear-gradient(135deg, #00B140 0%, #049c3c 55%, #111111 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Marshall has three helmet shells, one of the best greens in college football, and a brand new logo on the chest. This is the full Marshall 2026 uniform schedule: the kelly green home jersey, the white road set, the green pants that traveled to Penn State, the Marshall Health Network patch that is now on every Herd jersey, and a week-by-week outlook for all twelve games. Six are already confirmed. We update this page as each combination is locked in.
+
+**Update, November 21:** Marshall wore a **white helmet, green jersey and white pants** against Georgia State on Senior Day, confirmed from the game broadcast, and won **28-27**. Georgia State wore white jerseys and white pants.
 
 ## The Marshall 2026 Uniform Sets
 
@@ -52,7 +54,7 @@ The real story is the helmets. From 2010 through 2021 Marshall wore white and no
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #ffffff; color: #00B140; border: 2px solid #00B140; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs App State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; 1970 Replica</div></div>
-  <div style="background: #00B140; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green (Senior Day)</div></div>
+  <div style="background: #00B140; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Green / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at ULM</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -97,7 +99,7 @@ The 75 uniform is usually the most carefully designed thing Marshall does all ye
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/HerdFB/status/1723413171082281392"></a></blockquote>
 </div>
 
-**November 21 vs. Georgia State.** Green expected. Salute to Service and Senior Day in the same afternoon, with fans asked to wear white, which sets up the nice inversion of a green home jersey in front of a white crowd.
+**November 21 vs. Georgia State.** Green expected. Salute to Service and Senior Day in the same afternoon, with fans asked to wear white, which sets up the nice inversion of a green home jersey in front of a white crowd. **Worn: white helmet, green jersey and white pants**, confirmed from the game broadcast. Georgia State wore white jerseys and white pants. **Final: Marshall 28, Georgia State 27.**
 
 **November 28 at ULM.** White expected. Regular season finale in Monroe.
 
@@ -109,7 +111,7 @@ Marshall's uniform year is built around one date. Everything from September to e
 
 **What is Marshall wearing this week?**
 
-Marshall wore the 1970 replica jerseys against App State on Saturday, November 14, Play For The 75: a kelly green helmet with a white center stripe, white jersey with kelly green numbers and trim, and white pants with a green stripe, posted by Marshall and confirmed from the game broadcast. App State won 20-16. The week before, the Herd wore white in a 49-13 loss at Georgia Southern. Next is Georgia State at home on November 21, where green is expected.
+Marshall wore a white helmet, green jersey and white pants against Georgia State on Saturday, November 21, Senior Day, confirmed from the game broadcast, and won 28-27. Next is the regular season finale at ULM on November 28, where white is expected.
 
 **What are Marshall's football uniforms for 2026?**
 

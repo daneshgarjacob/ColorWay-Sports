@@ -3,7 +3,7 @@ title: "Virginia Tech Uniform Schedule 2026: Every Jersey and When the Hokies We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Virginia Tech uniform schedule 2026: the maroon home jersey, white road set, all-orange alternate, Hokie Stone, and every Hokies game's uniform week by week."
 gradient: "linear-gradient(135deg, #630031 0%, #7a1a45 55%, #CF4420 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Virginia Tech wears maroon at home and white on the road, but it announces a helmet, jersey, and pants combination before every game and changes it often. This page is the full Virginia Tech 2026 uniform schedule: the maroon home set, the white road set, the all-orange alternate, the Hokie Stone gray, and a week-by-week outlook for all twelve games in James Franklin's first season. Two games in, the Hokies have gone orange over orange under the white helmet against VMI and maroon over white under the white helmet against Old Dominion. We add each combination here once it is confirmed.
+
+**Update, November 21:** Virginia Tech wore a **white helmet, white jersey and white pants** at Miami, confirmed from the ESPN broadcast highlights, and lost **28-20** after leading 20-14 through three quarters. Miami wore its digital camo Military Appreciation set.
 
 **Update, November 14:** Virginia Tech wore a **maroon helmet, maroon jersey and white pants** against Stanford, confirmed from the game broadcast, and lost **40-22**.
 
@@ -43,7 +45,7 @@ The current base sets are Nike's 2024 refresh, which pulled from the 1999 and 20
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #630031; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #630031; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
 </div>
 
@@ -69,7 +71,7 @@ The current base sets are Nike's 2024 refresh, which pulled from the 1999 and 20
 
 **November 14 vs. Stanford.** Maroon expected, since it is a home game. The kickoff time has not been set. **Worn: maroon helmet, maroon jersey, white pants**, confirmed from the game broadcast. **Final: Stanford 40, Virginia Tech 22.**
 
-**November 21 at Miami.** White expected, since Virginia Tech is the visitor. Miami wears orange at home at Hard Rock Stadium. Miami's black Miami Nights set debuted against Virginia Tech in 2017, so a night kickoff here is worth watching on both sides. We track the Hurricanes on the [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026).
+**November 21 at Miami.** White expected, since Virginia Tech is the visitor. Miami wears orange at home at Hard Rock Stadium. Miami's black Miami Nights set debuted against Virginia Tech in 2017, so a night kickoff here is worth watching on both sides. We track the Hurricanes on the [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026). **Worn: white helmet, white jersey, white pants**, confirmed from the game broadcast. Miami wore its digital camo Military Appreciation uniform, not the black set. **Final: Miami 28, Virginia Tech 20.**
 
 **November 28 vs. Virginia.** Maroon expected, since it is a home game. The Commonwealth Clash is the home finale, and last year's home finale is where the Hokie Stone gray returned, so this is the date we are watching most closely for an alternate. Virginia won 27-7 in Charlottesville in 2025, with the Hokies in all white.
 
@@ -81,7 +83,7 @@ Virginia Tech is the rare program where the home and road colors tell you only h
 
 **What jersey is Virginia Tech wearing this week?**
 
-Virginia Tech wore a maroon helmet, maroon jersey and white pants against Stanford at Lane Stadium on Saturday, November 14, confirmed from the game broadcast, and lost 40-22. Next is Miami on the road on Saturday, November 21, where white is expected. The Hokies usually reveal the full helmet, jersey, and pants combination a few days before kickoff, and we star each cell above once it is confirmed.
+Virginia Tech wore a white helmet, white jersey and white pants at Miami on Saturday, November 21, confirmed from the game broadcast, and lost 28-20. Next is Virginia at Lane Stadium on November 28, the home finale, where maroon is expected. The Hokies usually reveal the full helmet, jersey, and pants combination a few days before kickoff, and we star each cell above once it is confirmed.
 
 **What are Virginia Tech's football uniforms for 2026?**
 

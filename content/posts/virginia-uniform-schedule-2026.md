@@ -3,7 +3,7 @@ title: "Virginia Uniform Schedule 2026: Every Jersey and When the Cavaliers Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-21"
 excerpt: "What Virginia wears every game in 2026: the orange home set, the all navy look, the white road jersey, and the full Cavaliers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #232D4B 0%, #2f3b63 55%, #F84C1E 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Virginia has three jersey colors, two helmets and a staff that treats every Saturday as a fresh decision. This is the full Virginia 2026 uniform schedule: the orange home set, the all navy look, the white road jersey, the helmet rotation, and a week by week outlook for all twelve games, including a Duke's Mayo Classic trip to Charlotte in a combination straight out of the 1980s. We update this page as each uniform is confirmed.
 
-**Update, November 18:** Virginia will wear a **navy helmet and a navy jersey with white numbers outlined in orange** against North Carolina on Saturday, posted by the team Wednesday as "Rivalry threads."
+**Update, November 21:** Virginia wore its posted "Rivalry threads" against North Carolina, a **navy helmet with the V-sabre logo and a navy jersey with white numbers outlined in orange**, with **white pants**, confirmed from the game broadcast, and won **41-24**. North Carolina wore a Carolina blue helmet, white jersey and Carolina blue pants.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UVAFootball/status/2123220958571844004"></a></blockquote>
@@ -56,7 +56,7 @@ What that leaves is a wardrobe with real range. Orange, navy and white jerseys, 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #232D4B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
-  <div style="background: #232D4B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy</div></div>
+  <div style="background: #232D4B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -100,19 +100,19 @@ There is history in the building as well. Virginia's last trip to Bank of Americ
 
 **November 14 vs. California.** Home color expected. Cal makes the cross country trip in November. **Worn: white helmet with the stars and stripes V-sabre, navy jersey, white pants**, confirmed from the game broadcast. **Final: Virginia 36, Cal 7.**
 
-**November 21 vs. North Carolina.** ★ Confirmed by Virginia ("Rivalry threads"): **navy helmet with the V-sabre logo, navy jersey with white numbers outlined in orange**, posted November 18. The pants are not clearly shown in the team's photos. The last home game of the season and the Senior Day slot, which is another traditional spot for an alternate. Our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026) covers the visitor.
+**November 21 vs. North Carolina.** ★ Confirmed by Virginia ("Rivalry threads"): **navy helmet with the V-sabre logo, navy jersey with white numbers outlined in orange**, posted November 18. The pants are not clearly shown in the team's photos. The last home game of the season and the Senior Day slot, which is another traditional spot for an alternate. Our [North Carolina 2026 uniform schedule](/stories/north-carolina-uniform-schedule-2026) covers the visitor. **Worn: navy helmet, navy jersey, white pants**, confirmed from the game broadcast. North Carolina wore a Carolina blue helmet, white jersey and Carolina blue pants. **Final: Virginia 41, North Carolina 24.**
 
 **November 28 at Virginia Tech.** White expected. The Commonwealth Clash at Lane Stadium, with the Hokies in maroon. See our [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026).
 
 ## The Bottom Line
 
-Virginia wore six different combinations in its first six games: orange over orange under the white helmet, navy head to toe, white helmet and white pants around an orange jersey in Charlotte, navy over white pants for the UVA Strong game, white over navy pants at Florida State, and the white helmet over a navy jersey and white pants against Syracuse. The Charlotte combination is the most interesting of the group because it is the oldest, the look the program wore in its 1980s rise. The road games are settled by ACC rules, so the white jersey is the expected road look, as it was at Florida State and at SMU. At home since then, Virginia wore a white helmet, navy jersey and navy pants against Duke on October 23 and a white helmet with the stars and stripes V-sabre, navy jersey and white pants against Cal on November 14. Next is North Carolina on November 21, where Virginia has posted a navy helmet and navy jersey with white numbers outlined in orange. The grid above has every game, and we add the star as each uniform is confirmed.
+Virginia wore six different combinations in its first six games: orange over orange under the white helmet, navy head to toe, white helmet and white pants around an orange jersey in Charlotte, navy over white pants for the UVA Strong game, white over navy pants at Florida State, and the white helmet over a navy jersey and white pants against Syracuse. The Charlotte combination is the most interesting of the group because it is the oldest, the look the program wore in its 1980s rise. The road games are settled by ACC rules, so the white jersey is the expected road look, as it was at Florida State and at SMU. At home since then, Virginia wore a white helmet, navy jersey and navy pants against Duke on October 23 and a white helmet with the stars and stripes V-sabre, navy jersey and white pants against Cal on November 14. Against North Carolina on November 21 it wore the posted navy helmet and navy jersey with white pants. The grid above has every game, and we add the star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Virginia wearing this week?**
 
-Virginia wore a white helmet with the stars and stripes V-sabre, navy jersey and white pants against Cal on Saturday, November 14, confirmed from the game broadcast, and won 36-7. Next is North Carolina at home on Saturday, November 21: Virginia posted its "Rivalry threads" on November 18, a navy helmet with the V-sabre logo and a navy jersey with white numbers outlined in orange; the pants are not clearly shown in the team's photos. Earlier, Virginia wore a white helmet with the orange stripe, navy jersey and navy pants against Duke on Friday, October 23, confirmed from Virginia's game photos, and lost 19-16 on a late touchdown. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Virginia wore its "Rivalry threads" against North Carolina on Saturday, November 21, a navy helmet with the V-sabre logo, a navy jersey with white numbers outlined in orange and white pants, confirmed from the game broadcast, and won 41-24. The week before, it wore a white helmet with the stars and stripes V-sabre, navy jersey and white pants against Cal and won 36-7. Next is the Commonwealth Clash at Virginia Tech on November 28, where white is expected. Earlier, Virginia wore a white helmet with the orange stripe, navy jersey and navy pants against Duke on Friday, October 23, confirmed from Virginia's game photos, and lost 19-16 on a late touchdown. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Virginia's football uniforms for 2026?**
 
@@ -124,7 +124,7 @@ Against NC State on August 29 the Cavaliers wore the white helmet with the orang
 
 **Does Virginia have a new alternate uniform in 2026?**
 
-Nothing has been announced. Virginia wore 1995 throwbacks for a Friday night game against Florida State last season to mark the anniversary of the goal line stand, so the program clearly keeps a special set in reserve. The Friday night game against Duke on October 23 came and went in a white helmet, navy jersey and navy pants, and for Senior Day against North Carolina on November 21 Virginia has posted a navy helmet and navy jersey. We will add anything new to this page the moment it is revealed.
+Nothing has been announced. Virginia wore 1995 throwbacks for a Friday night game against Florida State last season to mark the anniversary of the goal line stand, so the program clearly keeps a special set in reserve. The Friday night game against Duke on October 23 came and went in a white helmet, navy jersey and navy pants, and for Senior Day against North Carolina on November 21 Virginia wore a navy helmet, navy jersey and white pants. We will add anything new to this page the moment it is revealed.
 
 **How many games does Virginia play in 2026?**
 

@@ -1,13 +1,19 @@
 {
  "note": "NHL final scores and a standings snapshot from ESPN's public API, cached by scripts/build-uniform-records.mjs. The site build reads the records file built from this and never calls ESPN.",
  "season": "2026-27",
- "fetched": "2026-11-20T06:03:08.923Z",
+ "fetched": "2026-11-22T08:12:34.139Z",
  "standings": {
   "CAR": {
-   "w": 16,
+   "w": 17,
    "l": 3,
    "otl": 3,
-   "gp": 22
+   "gp": 23
+  },
+  "OTT": {
+   "w": 15,
+   "l": 6,
+   "otl": 3,
+   "gp": 24
   },
   "TBL": {
    "w": 15,
@@ -17,27 +23,27 @@
   },
   "MTL": {
    "w": 14,
-   "l": 5,
-   "otl": 4,
-   "gp": 23
-  },
-  "OTT": {
-   "w": 14,
    "l": 6,
-   "otl": 3,
+   "otl": 4,
+   "gp": 24
+  },
+  "BOS": {
+   "w": 15,
+   "l": 7,
+   "otl": 1,
    "gp": 23
   },
   "NJD": {
    "w": 15,
-   "l": 7,
+   "l": 8,
    "otl": 0,
-   "gp": 22
+   "gp": 23
   },
-  "BOS": {
-   "w": 14,
-   "l": 7,
-   "otl": 1,
-   "gp": 22
+  "FLA": {
+   "w": 13,
+   "l": 8,
+   "otl": 3,
+   "gp": 24
   },
   "NYR": {
    "w": 13,
@@ -45,77 +51,71 @@
    "otl": 1,
    "gp": 22
   },
-  "FLA": {
-   "w": 12,
-   "l": 8,
-   "otl": 3,
-   "gp": 23
-  },
   "NYI": {
-   "w": 10,
+   "w": 11,
    "l": 6,
    "otl": 5,
-   "gp": 21
-  },
-  "BUF": {
-   "w": 9,
-   "l": 9,
-   "otl": 4,
    "gp": 22
   },
   "PHI": {
-   "w": 8,
+   "w": 9,
    "l": 11,
    "otl": 6,
-   "gp": 25
+   "gp": 26
+  },
+  "BUF": {
+   "w": 9,
+   "l": 10,
+   "otl": 4,
+   "gp": 23
   },
   "WSH": {
    "w": 10,
-   "l": 10,
+   "l": 11,
    "otl": 0,
-   "gp": 20
+   "gp": 21
   },
   "DET": {
    "w": 8,
-   "l": 11,
+   "l": 12,
    "otl": 3,
-   "gp": 22
+   "gp": 23
   },
   "TOR": {
    "w": 8,
-   "l": 13,
+   "l": 14,
    "otl": 3,
-   "gp": 24
+   "gp": 25
   },
   "CBJ": {
-   "w": 8,
+   "w": 9,
    "l": 12,
    "otl": 0,
-   "gp": 20
+   "gp": 21
   },
   "PIT": {
    "w": 7,
-   "l": 12,
+   "l": 13,
    "otl": 2,
-   "gp": 21
+   "gp": 22
   },
   "MIN": {
    "w": 17,
    "l": 3,
-   "otl": 4,
-   "gp": 24
+   "otl": 5,
+   "gp": 25
   },
   "EDM": {
    "w": 17,
-   "l": 4,
+   "l": 5,
    "otl": 3,
-   "gp": 24
+   "gp": 25
   },
   "VGK": {
-   "w": 13,
+   "w": 14,
    "l": 6,
    "otl": 5,
-   "gp": 24
+   "gp": 25
   },
   "DAL": {
    "w": 14,
@@ -130,36 +130,42 @@
    "gp": 23
   },
   "NSH": {
-   "w": 11,
+   "w": 12,
    "l": 6,
    "otl": 5,
-   "gp": 22
+   "gp": 23
   },
   "UTA": {
-   "w": 11,
+   "w": 12,
    "l": 9,
    "otl": 3,
+   "gp": 24
+  },
+  "STL": {
+   "w": 12,
+   "l": 9,
+   "otl": 2,
    "gp": 23
   },
   "WPG": {
    "w": 11,
    "l": 9,
-   "otl": 3,
-   "gp": 23
+   "otl": 4,
+   "gp": 24
   },
-  "STL": {
+  "SJS": {
    "w": 11,
-   "l": 9,
+   "l": 12,
    "otl": 2,
-   "gp": 22
+   "gp": 25
   },
   "ANA": {
    "w": 11,
-   "l": 11,
+   "l": 12,
    "otl": 1,
-   "gp": 23
+   "gp": 24
   },
-  "SJS": {
+  "CGY": {
    "w": 10,
    "l": 12,
    "otl": 2,
@@ -167,33 +173,27 @@
   },
   "SEA": {
    "w": 10,
-   "l": 8,
+   "l": 9,
    "otl": 1,
-   "gp": 19
-  },
-  "CGY": {
-   "w": 10,
-   "l": 12,
-   "otl": 1,
-   "gp": 23
+   "gp": 20
   },
   "LAK": {
    "w": 7,
-   "l": 11,
+   "l": 12,
    "otl": 2,
-   "gp": 20
+   "gp": 21
   },
   "CHI": {
-   "w": 6,
+   "w": 7,
    "l": 14,
    "otl": 2,
-   "gp": 22
+   "gp": 23
   },
   "VAN": {
-   "w": 5,
+   "w": 6,
    "l": 18,
    "otl": 1,
-   "gp": 24
+   "gp": 25
   }
  },
  "dates": {
@@ -5309,6 +5309,238 @@
     "extra": "SO"
    }
   ],
-  "2026-11-20": []
+  "2026-11-20": [],
+  "2026-11-21": [
+   {
+    "id": "401892754",
+    "date": "2026-11-21",
+    "start": "2026-11-21T18:00Z",
+    "seasonType": 2,
+    "away": "EDM",
+    "home": "CAR",
+    "awayScore": 4,
+    "homeScore": 7,
+    "final": true,
+    "extra": null
+   },
+   {
+    "id": "401892755",
+    "date": "2026-11-21",
+    "start": "2026-11-21T20:30Z",
+    "seasonType": 2,
+    "away": "CHI",
+    "home": "CGY",
+    "awayScore": 4,
+    "homeScore": 3,
+    "final": true,
+    "extra": "OT"
+   },
+   {
+    "id": "401892756",
+    "date": "2026-11-21",
+    "start": "2026-11-21T23:00Z",
+    "seasonType": 2,
+    "away": "BUF",
+    "home": "FLA",
+    "awayScore": 3,
+    "homeScore": 4,
+    "final": true,
+    "extra": null
+   },
+   {
+    "id": "401892757",
+    "date": "2026-11-21",
+    "start": "2026-11-21T23:00Z",
+    "seasonType": 2,
+    "away": "PIT",
+    "home": "NSH",
+    "awayScore": 3,
+    "homeScore": 4,
+    "final": true,
+    "extra": null
+   },
+   {
+    "id": "401892758",
+    "date": "2026-11-21",
+    "start": "2026-11-22T00:00Z",
+    "seasonType": 2,
+    "away": "WSH",
+    "home": "BOS",
+    "awayScore": 5,
+    "homeScore": 7,
+    "final": true,
+    "extra": null
+   },
+   {
+    "id": "401892759",
+    "date": "2026-11-21",
+    "start": "2026-11-22T00:00Z",
+    "seasonType": 2,
+    "away": "CBJ",
+    "home": "TOR",
+    "awayScore": 4,
+    "homeScore": 3,
+    "final": true,
+    "extra": null
+   },
+   {
+    "id": "401892760",
+    "date": "2026-11-21",
+    "start": "2026-11-22T00:00Z",
+    "seasonType": 2,
+    "away": "PHI",
+    "home": "MTL",
+    "awayScore": 4,
+    "homeScore": 3,
+    "final": true,
+    "extra": null
+   },
+   {
+    "id": "401892761",
+    "date": "2026-11-21",
+    "start": "2026-11-22T00:00Z",
+    "seasonType": 2,
+    "away": "LAK",
+    "home": "OTT",
+    "awayScore": 2,
+    "homeScore": 4,
+    "final": true,
+    "extra": null
+   },
+   {
+    "id": "401892762",
+    "date": "2026-11-21",
+    "start": "2026-11-22T00:00Z",
+    "seasonType": 2,
+    "away": "NYI",
+    "home": "DET",
+    "awayScore": 3,
+    "homeScore": 2,
+    "final": true,
+    "extra": null
+   },
+   {
+    "id": "401892763",
+    "date": "2026-11-21",
+    "start": "2026-11-22T00:00Z",
+    "seasonType": 2,
+    "away": "NJD",
+    "home": "STL",
+    "awayScore": 6,
+    "homeScore": 9,
+    "final": true,
+    "extra": null
+   },
+   {
+    "id": "401892764",
+    "date": "2026-11-21",
+    "start": "2026-11-22T00:00Z",
+    "seasonType": 2,
+    "away": "VGK",
+    "home": "WPG",
+    "awayScore": 5,
+    "homeScore": 4,
+    "final": true,
+    "extra": "SO"
+   },
+   {
+    "id": "401892765",
+    "date": "2026-11-21",
+    "start": "2026-11-22T02:00Z",
+    "seasonType": 2,
+    "away": "ANA",
+    "home": "UTA",
+    "awayScore": 2,
+    "homeScore": 3,
+    "final": true,
+    "extra": null
+   },
+   {
+    "id": "401892766",
+    "date": "2026-11-21",
+    "start": "2026-11-22T03:00Z",
+    "seasonType": 2,
+    "away": "MIN",
+    "home": "VAN",
+    "awayScore": 3,
+    "homeScore": 4,
+    "final": true,
+    "extra": "SO"
+   },
+   {
+    "id": "401892767",
+    "date": "2026-11-21",
+    "start": "2026-11-22T03:00Z",
+    "seasonType": 2,
+    "away": "SEA",
+    "home": "SJS",
+    "awayScore": 3,
+    "homeScore": 4,
+    "final": true,
+    "extra": null
+   }
+  ],
+  "2026-11-22": [
+   {
+    "id": "401892768",
+    "date": "2026-11-22",
+    "start": "2026-11-22T17:30Z",
+    "seasonType": 2,
+    "away": "CAR",
+    "home": "NYR",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892769",
+    "date": "2026-11-22",
+    "start": "2026-11-22T22:00Z",
+    "seasonType": 2,
+    "away": "BUF",
+    "home": "TBL",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892770",
+    "date": "2026-11-22",
+    "start": "2026-11-23T00:00Z",
+    "seasonType": 2,
+    "away": "EDM",
+    "home": "STL",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892771",
+    "date": "2026-11-22",
+    "start": "2026-11-23T00:00Z",
+    "seasonType": 2,
+    "away": "PIT",
+    "home": "DAL",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892772",
+    "date": "2026-11-22",
+    "start": "2026-11-23T01:00Z",
+    "seasonType": 2,
+    "away": "CHI",
+    "home": "VAN",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   }
+  ]
  }
 }

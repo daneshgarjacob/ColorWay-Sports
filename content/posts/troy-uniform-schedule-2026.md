@@ -3,7 +3,7 @@ title: "Troy Uniform Schedule 2026: Every Jersey and When the Trojans Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Troy wears every game in 2026: a new black jersey, three helmets, the cardinal and white sets and the week-by-week Trojans uniform schedule."
 gradient: "linear-gradient(135deg, #862633 0%, #4a1219 55%, #b1b3b3 130%)"
 cardStyle: words
@@ -13,7 +13,9 @@ teams: ["troy-trojans", "sun-belt"]
 resurfaceOnUpdate: true
 ---
 
-Troy wore three different helmets in its first five games, broke out a black jersey for the first time on a Tuesday night against Southern Miss, and went all black at South Alabama on November 14, which makes the Trojans one of the harder teams in the Sun Belt to predict week to week. This is the full Troy 2026 uniform schedule: the cardinal, white and black jerseys, the white, cardinal and black helmets, every game logged so far and the expected look for the rest of the season, starting with Georgia Southern on November 21. We update this page as each combination is confirmed.
+Troy wore three different helmets in its first five games, broke out a black jersey for the first time on a Tuesday night against Southern Miss, and went all black at South Alabama on November 14, which makes the Trojans one of the harder teams in the Sun Belt to predict week to week. This is the full Troy 2026 uniform schedule: the cardinal, white and black jerseys, the white, cardinal and black helmets, every game logged so far and the expected look for the rest of the season, starting with Arkansas State on November 28. We update this page as each combination is confirmed.
+
+**Update, November 21:** Troy wore a **cardinal helmet, cardinal jersey and white pants** against Georgia Southern on Senior Day, confirmed from the game broadcast, and lost **45-7**. Georgia Southern wore its navy helmet, white jersey and white pants.
 
 **Update, November 14:** Troy wore **a black helmet, black jersey and black pants** at South Alabama, confirmed from the game broadcast, and lost 27-14. **Final: South Alabama 27, Troy 14.**
 
@@ -44,7 +46,7 @@ The uniforms are Adidas, and the base of the closet is cardinal and white with s
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 29 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #862633; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal (Homecoming)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
-  <div style="background: #862633; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal (Senior Day)</div></div>
+  <div style="background: #862633; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Southern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Cardinal / Cardinal / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -70,7 +72,7 @@ The uniforms are Adidas, and the base of the closet is cardinal and white with s
 
 **November 14 at South Alabama.** White expected. Hancock Whitney Stadium in Mobile, the Battle for the Belt rivalry, kickoff time still to be set. **Worn: black helmet, black jersey, black pants**, confirmed from the game broadcast. **Final: South Alabama 27, Troy 14.**
 
-**November 21 vs. Georgia Southern.** Cardinal expected. Senior Day and the regular season home finale. Georgia Southern is expected in white with its navy numbered helmet; our [Georgia Southern 2026 uniform schedule](/stories/georgia-southern-uniform-schedule-2026) has the Eagles.
+**November 21 vs. Georgia Southern.** Cardinal expected. Senior Day and the regular season home finale. Georgia Southern is expected in white with its navy numbered helmet; our [Georgia Southern 2026 uniform schedule](/stories/georgia-southern-uniform-schedule-2026) has the Eagles. **Worn: cardinal helmet, cardinal jersey and white pants**, confirmed from the game broadcast. Georgia Southern wore its navy helmet, white jersey and white pants. **Final: Georgia Southern 45, Troy 7.**
 
 **November 28 at Arkansas State.** White expected. The regular season finale at Centennial Bank Stadium in Jonesboro, 3 p.m. Eastern.
 
@@ -86,7 +88,7 @@ Five games in, Troy has worn cardinal, white and now black jerseys, with three h
 
 **What jersey is Troy wearing this week?**
 
-Troy wore a black helmet, black jersey and black pants at South Alabama on Saturday, November 14, confirmed from the game broadcast, and lost 27-14. Next is Georgia Southern at home on Saturday, November 21, Senior Day, where cardinal is expected. Earlier this season, Troy beat Southern Miss 55-34 on Tuesday, October 6, in a white helmet, black jersey and white pants. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Troy wore a cardinal helmet, cardinal jersey and white pants against Georgia Southern on Saturday, November 21, Senior Day, confirmed from the game broadcast, and lost 45-7. Next is the regular season finale at Arkansas State on November 28, where white is expected. Earlier this season, Troy beat Southern Miss 55-34 on Tuesday, October 6, in a white helmet, black jersey and white pants. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **How many helmets does Troy have in 2026?**
 

@@ -3,7 +3,7 @@ title: "Utah State Uniform Schedule 2026: Every Jersey and When the Aggies Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Utah State wears every game in 2026: blue at home, white on the road, the cow print helmet, the retro homecoming helmet, and every date."
 gradient: "linear-gradient(135deg, #0F2439 0%, #1f3a63 55%, #8a8d8f 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Utah State has worn five different helmets in its first five games as a Pac-12 program. The Aggies opened in the cow print helmet, went to the white shell at Washington, took a navy shell to Utah, brought back their 1992 to 1995 logo for Homecoming against Troy, and wore the throwback Jumpin' Cow helmet Utah State announced for the trip to Boise State. This is the full Utah State 2026 uniform schedule: the blue home set, the white road set, every helmet in the drawer, the home game themes and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** Utah State wore a **navy helmet, white jersey and white pants** at Oregon State, confirmed from the game broadcast, and lost **31-24**. Oregon State wore a black helmet, orange jersey and black pants.
 
 **Update, October 24:** Utah State wore **all white: white helmet, white jersey and white pants** at Texas State on Saturday, confirmed from Texas State's game photos, and lost 20-17. **Final: Texas State 20, Utah State 17.**
 
@@ -54,7 +56,7 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colorado State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #0F2439; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at San Diego State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #0F2439; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / White / White</div></div>
   <div style="background: #0F2439; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Flex Game (Home)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
 </div>
 
@@ -94,7 +96,7 @@ Utah State revealed its Homecoming helmet on August 20: a white shell with the l
 
 **November 14 at San Diego State.** White expected. Saturday night at Snapdragon Stadium, with San Diego State expected in black. See our [San Diego State 2026 uniform schedule](/stories/san-diego-state-uniform-schedule-2026). **Final: San Diego State 30, Utah State 13.**
 
-**November 21 at Oregon State.** White expected. The last road trip, a late kickoff at Reser Stadium. More on our [Oregon State 2026 uniform schedule](/stories/oregon-state-uniform-schedule-2026).
+**November 21 at Oregon State.** White expected. The last road trip, a late kickoff at Reser Stadium. More on our [Oregon State 2026 uniform schedule](/stories/oregon-state-uniform-schedule-2026). **Worn: navy helmet, white jersey, white pants**, confirmed from the game broadcast. Oregon State wore a black helmet, orange jersey and black pants. **Final: Oregon State 31, Utah State 24.**
 
 **November 28, flex game at home.** Blue expected. The Pac-12 fills this date late in the season and the game does not count in the conference standings. Utah State's own home game theme graphic lists Boise State as the flex opponent, a rematch of October 3, and calls it Senior Day with fans in blue.
 
@@ -108,13 +110,13 @@ The home team in college football usually picks its color and sends the visitor 
 
 ## The Bottom Line
 
-The first five games brought five helmets. Utah State went cow print at home, white at Washington and navy at Utah, all over the white jersey, then brought out the 1992 retro helmet for Homecoming, and the blue home jersey finally appeared with it in the 21-10 win over Troy. The fifth helmet, confirmed by Utah State, was the throwback Jumpin' Cow on a white shell, all white, in a 37-18 loss at Boise State that left the Aggies 1-4. For the Show Me game against Washington State, the navy helmet came back with the navy jersey and navy pants, and Utah State came back from 16-3 down at halftime to win 17-16. After the all white loss at Texas State on October 24, we have not yet logged the uniforms from the Halloween Blackout against Colorado State, the 17-10 win over Fresno State on November 7 or the 30-13 loss at San Diego State on November 14. Next is Oregon State on the road on November 21, where white is expected, and the flex date on November 28 is Senior Day at home. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
+The first five games brought five helmets. Utah State went cow print at home, white at Washington and navy at Utah, all over the white jersey, then brought out the 1992 retro helmet for Homecoming, and the blue home jersey finally appeared with it in the 21-10 win over Troy. The fifth helmet, confirmed by Utah State, was the throwback Jumpin' Cow on a white shell, all white, in a 37-18 loss at Boise State that left the Aggies 1-4. For the Show Me game against Washington State, the navy helmet came back with the navy jersey and navy pants, and Utah State came back from 16-3 down at halftime to win 17-16. After the all white loss at Texas State on October 24, we have not yet logged the uniforms from the Halloween Blackout against Colorado State, the 17-10 win over Fresno State on November 7 or the 30-13 loss at San Diego State on November 14. At Oregon State on November 21 it was a navy helmet, white jersey and white pants, confirmed from the game broadcast, in a 31-24 loss. The flex date on November 28 is Senior Day at home. The grid above has every game with the expected set, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Utah State wearing this week?**
 
-Utah State wore all white: white helmet, white jersey and white pants at Texas State on Saturday, October 24, confirmed from Texas State's game photos, and lost 20-17. Earlier this season, Utah State wore head to toe navy against Washington State on Friday, October 9, the Show Me game: navy helmet, navy jersey and navy pants, confirmed from the broadcast, in a 17-16 comeback win that moved the Aggies to 2-4. Since Texas State, Utah State beat Fresno State 17-10 on November 7 and lost 30-13 at San Diego State on November 14; we have not logged the uniforms from those games or the October 31 game against Colorado State. Next is Oregon State on the road on Saturday, November 21, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Utah State wore a navy helmet, white jersey and white pants at Oregon State on Saturday, November 21, confirmed from the game broadcast, and lost 31-24. Before that, Utah State beat Fresno State 17-10 on November 7 and lost 30-13 at San Diego State on November 14; we have not logged the uniforms from those games or the October 31 game against Colorado State. The last look we logged before Oregon State was all white, white helmet, white jersey and white pants, at Texas State on Saturday, October 24, confirmed from Texas State's game photos, a 20-17 loss. Next is the flex game at home on November 28, Senior Day, where blue is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are Utah State's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Pitt Uniform Schedule 2026: Every Jersey and When the Panthers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Pitt wears every game in 2026: royal blue at home, white on the road, the gold script helmet, and the full Panthers uniform schedule."
 gradient: "linear-gradient(135deg, #003594 0%, #1a4aa8 55%, #FFB81C 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Pitt has one of the cleanest looks in college football: royal blue, gold, and the Pitt script on a gold helmet. The Panthers do not change much from week to week, which makes the uniform schedule easier to call than most, but there are still a few questions on the calendar, from blue pants to the all-white set to a 1976 anniversary game against North Carolina. This is the full Pitt 2026 uniform schedule, with every jersey, all twelve games, and what the Panthers have actually worn so far. We update this page as each combination is confirmed.
+
+**Update, November 21:** Pitt wore a **white helmet, white jersey and royal pants** at Louisville, confirmed from the game broadcast, and lost **42-10**. Louisville wore a black helmet, red jersey and black pants.
 
 **Update, November 13:** Pitt wore a **gold helmet, royal jersey and royal pants** against Florida State on Senior Night, confirmed from the game broadcast, and lost **16-10**.
 
@@ -42,7 +44,7 @@ The current look goes back to 2019, when Pitt dropped navy and "Vegas" gold and 
   <div style="background: #003594; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #003594; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #003594; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -74,7 +76,7 @@ The current look goes back to 2019, when Pitt dropped navy and "Vegas" gold and 
 
 **November 13 vs. Florida State (Friday).** Blue expected. Senior Night and the home finale, 7 p.m. Eastern on ESPN. Calendar note: ESPN files this game under November 14 because its feed runs on UTC. It is a Friday night game on November 13. The [Florida State 2026 uniform schedule](/stories/florida-state-uniform-schedule-2026) tracks the Seminoles. **Worn: gold helmet, royal jersey, royal pants**, confirmed from the game broadcast. **Final: Florida State 16, Pitt 10.**
 
-**November 21 at Louisville.** White expected. It is Senior Day in Louisville, where the Cardinals are expected in red. See the [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026).
+**November 21 at Louisville.** White expected. It is Senior Day in Louisville, where the Cardinals are expected in red. See the [Louisville 2026 uniform schedule](/stories/louisville-uniform-schedule-2026). **Worn: white helmet, white jersey, royal pants**, confirmed from the game broadcast. Louisville wore a black helmet, red jersey and black pants. **Final: Louisville 42, Pitt 10.**
 
 **November 28 at California.** White expected. The regular season ends in Berkeley at California Memorial Stadium, against a Cal team that also wears royal blue and gold, so the white jersey matters more here than anywhere else on the schedule.
 
@@ -86,7 +88,7 @@ Every home game we confirmed through October was the same thing: gold helmet, ro
 
 **What jersey is Pitt wearing this week?**
 
-Pitt wore the gold helmet, royal jersey and royal pants against Florida State on Friday, November 13, confirmed from the game broadcast. Florida State won 16-10. Next is Louisville on the road on November 21, where white is expected. We star the grid cell as soon as each combination is confirmed.
+Pitt wore a white helmet, white jersey and royal pants at Louisville on Saturday, November 21, confirmed from the game broadcast, and lost 42-10. The week before, it wore the gold helmet, royal jersey and royal pants in a 16-10 loss to Florida State. Next is the regular season finale at California on November 28, where white is expected. We star the grid cell as soon as each combination is confirmed.
 
 **What are Pitt's football uniforms for 2026?**
 

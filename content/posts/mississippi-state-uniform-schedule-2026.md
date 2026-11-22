@@ -3,7 +3,7 @@ title: "Mississippi State Uniform Schedule 2026: Every Jersey and When the Bulld
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Mississippi State's 2026 uniform schedule: every jersey, helmet and combination the Bulldogs wear, maroon home, white road, the interlocking MSU helmet, week by week."
 gradient: "linear-gradient(135deg, #660000 0%, #7a1c1c 55%, #c9c9c9 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Mississippi State wears maroon at home and white on the road in 2026, and the interlocking MSU is now the everyday helmet logo. After an October 10 bye, the Bulldogs visited LSU on October 17 in a maroon helmet, maroon jersey and white pants, confirmed by the team. This is the full Mississippi State 2026 uniform schedule: the maroon home set, the white road set, the all-black set that lives in reserve, both helmets, and a week-by-week outlook for all twelve games. We update this page as each new combination is locked in.
 
-**Update, November 14:** Mississippi State wore a **maroon helmet, maroon jersey and gray pants** against Auburn, confirmed from the game broadcast, and lost **41-9**.
+**Update, November 21:** Mississippi State wore a **white helmet with the interlocking MSU, maroon jersey and white pants** against Tennessee Tech in its final home game, confirmed from the game broadcast, and won **34-16**.
 
 ## The Mississippi State 2026 Uniform Sets
 
@@ -42,7 +42,7 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #660000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Vanderbilt</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
   <div style="background: #660000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Auburn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon / Gray</div></div>
-  <div style="background: #660000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
+  <div style="background: #660000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tennessee Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Maroon / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -74,19 +74,19 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
 
 **November 14 vs. Auburn.** Maroon expected. Auburn arrives in white, per our [Auburn 2026 uniform schedule](/stories/auburn-uniform-schedule-2026). **Worn: maroon helmet, maroon jersey, gray pants**, confirmed from the game broadcast. **Final: Auburn 41, Mississippi State 9.**
 
-**November 21 vs. Tennessee Tech.** Maroon expected. The final home game and a 1 p.m. Eastern kickoff against an FCS opponent.
+**November 21 vs. Tennessee Tech.** Maroon expected. The final home game and a 1 p.m. Eastern kickoff against an FCS opponent. **Worn: white helmet with the interlocking MSU, maroon jersey, white pants**, confirmed from the game broadcast. Tennessee Tech wore white. **Final: Mississippi State 34, Tennessee Tech 16.**
 
 **November 27 at Ole Miss.** White expected. The Egg Bowl is in Oxford on the Friday after Thanksgiving, a noon Eastern kickoff on ABC. Ole Miss wears its home color, per our [Ole Miss 2026 uniform schedule](/stories/ole-miss-uniform-schedule-2026), so the Bulldogs are in white.
 
 ## The Bottom Line
 
-The interlocking MSU won. What started as a fan campaign became a 2025 throwback, then most of the 2025 SEC slate, and now it is simply the Mississippi State helmet, on maroon at home and on white on the road. Through the first five games, the program wore both of those, plus an all-white White Out against Missouri. The black set has only been worn for big occasions. It did not come out for Missouri or Alabama, then Mississippi State wore a black helmet with the State script and a black jersey against Oklahoma on October 24. Since then it has been maroon at home, over white pants against Vanderbilt and gray pants against Auburn. The grid above has every date, and we star each cell as it is confirmed.
+The interlocking MSU won. What started as a fan campaign became a 2025 throwback, then most of the 2025 SEC slate, and now it is simply the Mississippi State helmet, on maroon at home and on white on the road. Through the first five games, the program wore both of those, plus an all-white White Out against Missouri. The black set has only been worn for big occasions. It did not come out for Missouri or Alabama, then Mississippi State wore a black helmet with the State script and a black jersey against Oklahoma on October 24. Since then it has been maroon at home, over white pants against Vanderbilt, gray pants against Auburn and white pants under a white helmet against Tennessee Tech. The grid above has every date, and we star each cell as it is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Mississippi State wearing this week?**
 
-Mississippi State wore a maroon helmet, maroon jersey and gray pants against Auburn on Saturday, November 14, confirmed from the game broadcast, and lost 41-9. Next is Tennessee Tech at home on November 21, the final home game, where maroon is expected. The week-by-week grid above lists every game, and we update it when each combination is confirmed.
+Mississippi State wore a white helmet with the interlocking MSU, a maroon jersey and white pants against Tennessee Tech on Saturday, November 21, the final home game, confirmed from the game broadcast, and won 34-16. Next is the Egg Bowl at Ole Miss on Friday, November 27, where white is expected. The week-by-week grid above lists every game, and we update it when each combination is confirmed.
 
 **What are Mississippi State's football uniforms for 2026?**
 

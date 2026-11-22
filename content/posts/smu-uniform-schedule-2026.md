@@ -3,7 +3,7 @@ title: "SMU Uniform Schedule 2026: Every Jersey and When the Mustangs Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What SMU wears every game in 2026: the blue home set, the icy whites, the red and black alternates, and the full uniform schedule week by week."
 gradient: "linear-gradient(135deg, #354CA1 0%, #4a63bd 55%, #C8102E 130%)"
 cardStyle: words
@@ -12,6 +12,8 @@ league: "college"
 teams: ["smu-mustangs", "acc"]
 resurfaceOnUpdate: true
 ---
+
+**Update, November 21:** SMU wore **all white**, a white helmet, white jersey and white pants, at Notre Dame, confirmed from Notre Dame's game highlight clips, and lost **24-3**. Notre Dame wore a gold helmet, navy jersey and gold pants.
 
 **Update, Nov. 18:** SMU will wear a Visit Dallas sticker on the back of its helmets for its last two games, at Notre Dame on Nov. 21 and at Stanford on Nov. 28. It is the first helmet sponsor in school history. [Every detail](/stories/smu-helmet-sponsor-sticker-visit-dallas-2026).
 
@@ -76,7 +78,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #14161c; color: #ffffff; border: 2px solid #354CA1; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #354CA1; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wake Forest</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Blue / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #354CA1; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Stanford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -114,7 +116,7 @@ One more 2026 change is worth flagging even though it is not on the jersey: SMU 
 
 **November 14 vs. Wake Forest.** Blue expected. Homecoming and Senior Day, and the last home game of the season. **Worn: white helmet, blue jersey, white pants**, confirmed from the game broadcast. **Final: Wake Forest 49, SMU 7.**
 
-**November 21 at Notre Dame.** White expected. Prime time on NBC in South Bend, with Notre Dame in navy, which is as good a stage as the icy whites are going to get this year. See the [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026).
+**November 21 at Notre Dame.** White expected. Prime time on NBC in South Bend, with Notre Dame in navy, which is as good a stage as the icy whites are going to get this year. See the [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026). **Worn: white helmet, white jersey, white pants**, confirmed from Notre Dame's game highlight clips. Notre Dame wore a gold helmet, navy jersey and gold pants. **Final: Notre Dame 24, SMU 3.**
 
 **November 28 at Stanford.** White expected. Regular season finale on the West Coast.
 
@@ -126,7 +128,7 @@ Through October, SMU used the blue, white and red jerseys under the same white h
 
 **What jersey is SMU wearing this week?**
 
-SMU wore the white helmet, blue jersey and white pants against Wake Forest for Homecoming and Senior Day on Saturday, November 14, confirmed from the game broadcast, and lost 49-7. Next is Notre Dame on the road on November 21, where white is expected, with the Visit Dallas sticker on the back of the helmet. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+SMU wore all white, a white helmet, white jersey and white pants, at Notre Dame on Saturday, November 21, confirmed from Notre Dame's game highlight clips, and lost 24-3. The week before, it wore the white helmet, blue jersey and white pants against Wake Forest and lost 49-7. Next is the regular season finale at Stanford on November 28, where white is expected, with the Visit Dallas sticker on the back of the helmet. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are SMU's football uniforms for 2026?**
 

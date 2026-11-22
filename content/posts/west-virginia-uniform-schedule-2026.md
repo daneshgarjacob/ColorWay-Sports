@@ -3,7 +3,7 @@ title: "West Virginia Uniform Schedule 2026: Every Jersey and When the Mountaine
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "West Virginia uniform schedule 2026: every Mountaineers jersey by week, the White Out opener, Gold Rush, Coal Rush black uniforms, and what WVU wears this week."
 gradient: "linear-gradient(135deg, #002855 0%, #0b3a6e 55%, #EAAA00 130%)"
 cardStyle: words
@@ -13,7 +13,9 @@ teams: ["west-virginia-mountaineers", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-West Virginia opened 2026 in all white for Pat White and wore a different look in each of its first six games, including all black for Coal Rush against Arizona on October 10. Most recently it wore the navy helmet and navy jersey in a 37-14 loss to Kansas on November 14, confirmed from the game broadcast. Next is Houston at home on November 21, Senior Day and the final home game, where navy is expected. This is the full West Virginia 2026 uniform schedule: navy, gold, and white jerseys that mix freely with navy, gold, and white pants, a new gloss white helmet, the black Coal Rush set, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+West Virginia opened 2026 in all white for Pat White and wore a different look in each of its first six games, including all black for Coal Rush against Arizona on October 10. Most recently it wore a navy helmet, navy jersey and gold pants in a 34-31 loss to Houston on Senior Day, November 21, confirmed from both schools' game photos. Next is a Friday night finale at Utah on November 27, where white is expected. This is the full West Virginia 2026 uniform schedule: navy, gold, and white jerseys that mix freely with navy, gold, and white pants, a new gloss white helmet, the black Coal Rush set, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** West Virginia wore a **navy helmet, navy jersey and gold pants** against Houston on Senior Day, confirmed from both schools' game photos, and lost **34-31** on a late field goal. Houston wore a red helmet, white jersey and red pants.
 
 **Update, November 14:** West Virginia wore the **navy helmet and navy jersey** against Kansas for Heroes Day, confirmed from the game broadcast, and lost **37-14**.
 
@@ -44,7 +46,7 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #002855; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
-  <div style="background: #002855; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #002855; color: #ffffff; border: 2px solid #EAAA00; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Navy / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -76,7 +78,7 @@ The base sets come from the 2024 Nike redesign, which brought back the crescent 
 
 **November 14 vs. Kansas.** Navy expected. This is Heroes Day during Mountaineer Week, and local coverage expects a helmet decal with the American flag filling the state outline behind the Flying WV. Kansas should be in white, as listed on the [Kansas 2026 uniform schedule](/stories/kansas-uniform-schedule-2026). **Worn: navy helmet and navy jersey**, confirmed from the game broadcast. **Final: Kansas 37, West Virginia 14.**
 
-**November 21 vs. Houston.** Navy expected. Senior Day and the final home game. WVU closed its 2025 home slate in navy helmet, navy jersey, navy pants for True Blue weekend, so all navy is a real possibility.
+**November 21 vs. Houston.** Navy expected. Senior Day and the final home game. WVU closed its 2025 home slate in navy helmet, navy jersey, navy pants for True Blue weekend, so all navy is a real possibility. **Worn: navy helmet, navy jersey, gold pants**, confirmed from both schools' game photos. Houston wore a red helmet, white jersey and red pants. **Final: Houston 34, West Virginia 31.**
 
 **November 27 at Utah.** White expected. A Friday night finale, 9 p.m. Eastern (7 p.m. Mountain) on FOX at Rice-Eccles Stadium. ESPN files it under November 28 because its feed runs on UTC. West Virginia wore the old gold 1965 throwback against Utah last season. Nothing special has been announced for the rematch, and Utah wears red at home, so we expect white.
 
@@ -88,7 +90,7 @@ Six games in, West Virginia has shown six different looks: head-to-toe white for
 
 **What jersey is West Virginia wearing this week?**
 
-West Virginia wore the navy helmet and navy jersey against Kansas on Saturday, November 14, confirmed from the game broadcast, and lost 37-14. The week before, it wore a navy helmet, white jersey and gold pants in a 53-48 loss at Texas Tech. Next is Houston at home on Saturday, November 21, Senior Day and the final home game, where navy is expected. The grid above lists every game with the expected set.
+West Virginia wore a navy helmet, navy jersey and gold pants against Houston on Saturday, November 21, Senior Day and the final home game, confirmed from both schools' game photos, and lost 34-31. The week before, it wore the navy helmet and navy jersey in a 37-14 loss to Kansas. Next is a Friday night finale at Utah on November 27, where white is expected. The grid above lists every game with the expected set.
 
 **What are West Virginia's football uniforms for 2026?**
 

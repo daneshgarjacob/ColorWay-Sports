@@ -3,7 +3,7 @@ title: "Army Uniform Schedule 2026: Every Jersey and When the Black Knights Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-11"
+updatedDate: "2026-11-21"
 excerpt: "What Army wears every game in 2026: the black home jersey, the white road set, the gold helmet, and the December tribute uniform nobody has seen yet."
 gradient: "linear-gradient(135deg, #111111 0%, #2b2b2b 55%, #D3BC8D 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Army does not rotate through alternates the way most programs do. The Black Knights wear black at home, white on the road, and a gold helmet with almost all of them (the exceptions so far are black helmets at Temple, against Florida Atlantic, at Tulsa and against Air Force), and then once a year in December they throw all of it out and wear something built from scratch. This is the full Army 2026 uniform schedule: the black home set, the white road set, the new USAA patch, and a week-by-week outlook for all twelve games ending with the 127th Army-Navy Game at MetLife Stadium. We update this page as each combination is confirmed.
+
+**Update, November 21:** Army wore a **gold helmet, black jersey and gold pants** against East Carolina in its final home game, confirmed from the game broadcast, and lost **10-6**. East Carolina wore a purple helmet, white jersey and purple pants.
 
 **Update, November 7:** Army wore a **black helmet, black jersey with gold numbers and black pants** against Air Force, confirmed from the game broadcast, and lost **24-21**.
 
@@ -48,7 +50,7 @@ Everything else about this season comes down to pants. Black jersey with gold pa
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Air Force</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
+  <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rice</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">DEC 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">American title game</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">If they qualify</div></div>
   <div style="background: #D3BC8D; color: #14284b; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">DEC 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Navy (MetLife)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Tribute set, unrevealed</div></div>
@@ -90,7 +92,7 @@ Everything else about this season comes down to pants. Black jersey with gold pa
 
 **November 14.** Bye.
 
-**November 21 vs. East Carolina.** Black expected. The final home game of the regular season, noon on CBS Sports Network. East Carolina wears white on the road, so this should be a clean black-on-white matchup. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026).
+**November 21 vs. East Carolina.** Black expected. The final home game of the regular season, noon on CBS Sports Network. East Carolina wears white on the road, so this should be a clean black-on-white matchup. More: [East Carolina uniform schedule](/stories/east-carolina-uniform-schedule-2026). **Worn: gold helmet, black jersey, gold pants**, confirmed from the game broadcast. East Carolina wore a purple helmet, white jersey and purple pants. **Final: East Carolina 10, Army 6.**
 
 **November 28 at Rice.** White expected. Regular season finale in Houston against a Rice team that switched from adidas to Nike over the offseason and rebuilt its uniform around UCLA stripes.
 
@@ -124,7 +126,7 @@ Army is the rare program where the uniform schedule is almost entirely predictab
 
 **What jersey is Army wearing this week?**
 
-Army wore a black helmet, black jersey with gold numbers and black pants against Air Force at Michie Stadium on Saturday, November 7, confirmed from the game broadcast, and lost 24-21. Army was off on November 14. Next is East Carolina at Michie Stadium on Saturday, November 21, where black is expected. The grid above lists every date with the expected set and we star each cell as it is confirmed.
+Army wore a gold helmet, black jersey and gold pants against East Carolina at Michie Stadium on Saturday, November 21, confirmed from the game broadcast, and lost 10-6. Next is the regular season finale at Rice on November 28, where white is expected, and then the Ivy Soldier tribute set against Navy on December 12. The grid above lists every date with the expected set and we star each cell as it is confirmed.
 
 **What are Army's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Missouri Uniform Schedule 2026: Every Jersey, and When the Memorial Stad
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Missouri wears every game in 2026, week by week, including the exact date the 100th anniversary throwback jersey hits Faurot Field."
 gradient: "linear-gradient(135deg, #000000 0%, #1b1b1b 55%, #F1B82D 130%)"
 coverImage: "/images/posts/missouri-uniform-schedule-2026/cover.jpg"
@@ -88,7 +88,7 @@ Twelve games, seven at Faurot Field, and one bye.
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border: 2px solid #F1B82D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Gold</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #F1B82D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black or Gold</div></div>
 </div>
 
@@ -114,7 +114,7 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **November 14 at Georgia**, Athens. White. **Worn: white helmet with the gold M, white jersey, white pants**, confirmed from the game broadcast. **Final: Georgia 48, Missouri 21.**
 
-**November 21 vs. Kentucky**, Columbia. Black or gold.
+**November 21 vs. Kentucky**, Columbia. Black or gold. **Worn: black helmet with the gold M, black jersey, white pants**, confirmed from the game broadcast. Kentucky wore a blue helmet, white jersey and blue pants. **Final: Missouri 28, Kentucky 14.**
 
 **November 28 vs. Oklahoma**, Columbia. Senior Day and the regular season finale.
 
@@ -124,7 +124,7 @@ Twelve games, seven at Faurot Field, and one bye.
 
 **What jersey is Missouri wearing this week?**
 
-Missouri wore a white helmet with the gold M, white jersey and white pants at Georgia on Saturday, November 14, confirmed from the game broadcast, and lost 48-21. Next up is Kentucky at home on November 21, where black or gold is expected. Mizzou announces each week's combination a few days before kickoff, usually Thursday or Friday, and this page is updated as each one is confirmed. Home games are black or gold, road games are usually white.
+Missouri wore a black helmet with the gold M, black jersey and white pants against Kentucky at home on Saturday, November 21, confirmed from the game broadcast, and won 28-14. Next up is Oklahoma at home on November 28, Senior Day and the regular season finale, where black or gold is expected. Mizzou announces each week's combination a few days before kickoff, usually Thursday or Friday, and this page is updated as each one is confirmed. Home games are black or gold, road games are usually white.
 
 **When does Missouri wear the 100th anniversary throwback uniform?**
 

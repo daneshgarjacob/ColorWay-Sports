@@ -3,7 +3,7 @@ title: "Stanford Uniform Schedule 2026: Every Jersey and When the Cardinal Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Stanford wears every game in 2026: the cardinal home jersey, the white road set, the black alternate, and the full Cardinal uniform schedule week by week."
 gradient: "linear-gradient(135deg, #8C1515 0%, #a81c1c 55%, #ffffff 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Stanford is the most restrained uniform program in the ACC and it still found a way to open 2026 with something new. This is the full Stanford 2026 uniform schedule: the cardinal home jersey, the white road set, the black alternate, the cardinal script helmet that only comes out for special occasions, the tribal-pattern helmet stripe the Cardinal wore in the season opener, and a week-by-week outlook for all twelve games in Tavita Pritchard's first year as head coach. We update this page as each combination is confirmed.
+
+**Update, November 21:** Stanford wore **all white**, a white helmet, white jersey and white pants, at California in the Big Game, confirmed from the game broadcast, and won **44-28** to take the Axe. Cal wore a navy helmet, navy jersey and navy pants.
 
 **Update, November 14:** Stanford wore the **white jersey** at Virginia Tech, confirmed from the game broadcast, and won **40-22**.
 
@@ -59,7 +61,7 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #8C1515; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at California</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All White</div></div>
   <div style="background: #8C1515; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Cardinal</div></div>
 </div>
 
@@ -99,7 +101,7 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
 
 **November 14 at Virginia Tech.** White expected. A November trip to Blacksburg. The Hokies are tracked on the [Virginia Tech 2026 uniform schedule](/stories/virginia-tech-uniform-schedule-2026). **Worn: white jersey**, confirmed from the game broadcast. **Final: Stanford 40, Virginia Tech 22.**
 
-**November 21 at California.** White expected. The 129th Big Game, and the one date on the schedule where a uniform surprise would land hardest. Stanford is the visitor this year, so white is the convention, with the Axe on the line in Berkeley.
+**November 21 at California.** White expected. The 129th Big Game, and the one date on the schedule where a uniform surprise would land hardest. Stanford is the visitor this year, so white is the convention, with the Axe on the line in Berkeley. **Worn: white helmet, white jersey, white pants**, confirmed from the game broadcast. Cal wore a navy helmet, navy jersey and navy pants. **Final: Stanford 44, California 28.**
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/StanfordFball/status/1992261792651723040"></a></blockquote>
@@ -109,7 +111,7 @@ ACC home teams wear color and visitors wear white, so the grid below writes itse
 
 ## The Bottom Line
 
-Six games in, Stanford has worn just two looks: white helmet, cardinal jersey and white pants in all three home games, and the white jersey over white pants on the road at Duke, Wake Forest and Notre Dame. That consistency is the brand, and the program has never apologized for it. The variety comes from the helmet rack and from the calendar. A tribal-pattern stripe and a red facemask for the opener, a Friday night against NC State, and a Big Game in Berkeley that could pull the cardinal script shell out of storage. The black jersey is the one thing that would genuinely change the picture, and it has not been seen since 2024. The grid above has every date, and we fill in the stars as each combination is confirmed.
+Six games in, Stanford has worn just two looks: white helmet, cardinal jersey and white pants in all three home games, and the white jersey over white pants on the road at Duke, Wake Forest and Notre Dame. That consistency is the brand, and the program has never apologized for it. The variety comes from the helmet rack and from the calendar. A tribal-pattern stripe and a red facemask for the opener, a Friday night against NC State, and a Big Game in Berkeley, where Stanford stayed in all white and won 44-28. The black jersey is the one thing that would genuinely change the picture, and it has not been seen since 2024. The grid above has every date, and we fill in the stars as each combination is confirmed.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/StanfordFball/status/2001035101807714750"></a></blockquote>
@@ -119,7 +121,7 @@ Six games in, Stanford has worn just two looks: white helmet, cardinal jersey an
 
 **What jersey is Stanford wearing this week?**
 
-Stanford wore the white jersey at Virginia Tech on Saturday, November 14, confirmed from the game broadcast, and won 40-22. The last home game, on Friday, October 23 against NC State, was all red: a cardinal helmet with the Stanford script, the cardinal jersey and cardinal pants, confirmed from the team's game photos. Next is the Big Game at California on November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Stanford wore all white, a white helmet, white jersey and white pants, at California in the Big Game on Saturday, November 21, confirmed from the game broadcast, and won 44-28. The week before, it wore the white jersey in a 40-22 win at Virginia Tech. The last home game, on Friday, October 23 against NC State, was all red: a cardinal helmet with the Stanford script, the cardinal jersey and cardinal pants, confirmed from the team's game photos. Next is SMU at Stanford Stadium on November 28, Senior Day and the regular season finale, where cardinal is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Stanford's football uniforms for 2026?**
 

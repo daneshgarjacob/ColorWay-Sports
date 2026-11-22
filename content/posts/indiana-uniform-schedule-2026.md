@@ -3,7 +3,7 @@ title: "Indiana Uniform Schedule 2026: Every Jersey and When the Hoosiers Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Indiana wears every game in 2026: the crimson home jersey, the white Hoosiers road set, and the full Hoosiers uniform schedule week by week."
 gradient: "linear-gradient(135deg, #990000 0%, #b71c1c 55%, #EDEBEB 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Indiana is the defending national champion and it is defending the title in the plainest uniform in the Big Ten. Two jerseys, one pair of pants for each, no alternate jerseys, and until October 3 a single helmet. This is the full Indiana 2026 uniform schedule: the crimson home set, the white road set that says HOOSIERS instead of INDIANA, the crimson helmet that goes with both, the white helmet that showed up at Rutgers, and a week-by-week outlook for all twelve games. In the eight games we have logged, Indiana has worn the crimson home set five times, all white, white helmet included, at Rutgers, and the crimson helmet with the white road set at Nebraska and Michigan. We update this page as each jersey is confirmed.
+
+**Update, November 21:** Indiana wore the **crimson helmet, white jersey and white pants** at Washington, confirmed from Washington's game photos, and lost **27-24 in overtime**. Washington wore its Husky Heritage look: gold helmet, purple jersey, gold pants.
 
 **Update, November 14:** Indiana wore the **crimson helmet, crimson jersey and white pants** against USC, confirmed from the game broadcast, and won **27-13**.
 
@@ -59,7 +61,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Minnesota</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson (Homecoming)</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / Crimson / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Crimson / White / White</div></div>
   <div style="background: #990000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Crimson</div></div>
 </div>
 
@@ -99,7 +101,7 @@ Two things make the grid below easy to read. Big Ten home teams wear color and v
 
 **November 14 vs. USC.** Crimson expected. A West Coast opponent in Bloomington in the middle of November, courtesy of the Big Ten's expanded footprint. See the [USC 2026 uniform schedule](/stories/usc-uniform-schedule-2026). **Worn: crimson helmet, crimson jersey, white pants**, confirmed from the game broadcast. **Final: Indiana 27, USC 13.**
 
-**November 21 at Washington.** White expected. The long trip of the season, to Husky Stadium. The [Washington Huskies 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026) has that one.
+**November 21 at Washington.** White expected. The long trip of the season, to Husky Stadium. The [Washington Huskies 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026) has that one. **Worn: crimson helmet, white jersey, white pants**, confirmed from Washington's game photos. Washington wore its Husky Heritage look, a gold helmet, purple jersey and gold pants. **Final: Washington 27, Indiana 24 (OT).**
 
 **November 28 vs. Purdue.** Crimson expected. The Old Oaken Bucket game, at home, to close the regular season. Indiana has beaten Purdue by a combined 122-3 over the last two meetings, and the Bucket is the other date worth watching for a throwback. The [Purdue 2026 uniform schedule](/stories/purdue-uniform-schedule-2026) tracks the Boilermakers.
 
@@ -111,7 +113,7 @@ Indiana is the most predictable uniform team in the Big Ten and it is not an acc
 
 **What jersey is Indiana wearing this week?**
 
-Indiana wore the crimson helmet, crimson jersey and white pants against USC on Saturday, November 14, confirmed from the game broadcast, and won 27-13. Next is a trip to Washington on November 21, where white is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
+Indiana wore the crimson helmet, white jersey and white pants at Washington on Saturday, November 21, confirmed from Washington's game photos, and lost 27-24 in overtime. Next is the Old Oaken Bucket game against Purdue at home on November 28, where crimson is expected. The week-by-week grid above lists every game with the expected set, and we confirm each one as it is worn.
 
 **What are Indiana's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Western Kentucky Uniform Schedule 2026: Every Jersey and When the Hillto
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What WKU wears every game in 2026: red, black and white helmets, the White Out, Black Out and Red Out dates and the week-by-week Hilltoppers uniform schedule."
 gradient: "linear-gradient(135deg, #C8102E 0%, #7a0a1c 55%, #111111 130%)"
 cardStyle: words
@@ -13,7 +13,9 @@ teams: ["western-kentucky-hilltoppers", "conference-usa"]
 resurfaceOnUpdate: true
 ---
 
-Western Kentucky wore three different helmets in its first four games, and the home schedule is built around matching the crowd: a White Out, a Black Out and a Red Out. This is the full WKU 2026 uniform schedule: the red, black and white helmets, the red, white and black jerseys, every game logged so far and the expected look for the rest of the season, starting with Liberty on the road on November 21. We update this page as each combination is confirmed.
+Western Kentucky wore three different helmets in its first four games, and the home schedule is built around matching the crowd: a White Out, a Black Out and a Red Out. This is the full WKU 2026 uniform schedule: the red, black and white helmets, the red, white and black jerseys, every game logged so far and the expected look for the rest of the season, starting with Kennesaw State at home on November 28. We update this page as each combination is confirmed.
+
+**Update, November 21:** Western Kentucky wore a **black helmet, white jersey and white pants** at Liberty, confirmed from the game broadcast, and lost **45-14**. Liberty wore a navy helmet, red jersey and red pants.
 
 ## The Western Kentucky 2026 Uniform Sets
 
@@ -43,7 +45,7 @@ The schedule did WKU no favors early. The Hilltoppers opened with three straight
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 27 (TUE)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Delaware</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red (Red Out)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Middle Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Jacksonville State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Liberty</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #ffffff; color: #C8102E; border: 2px solid #C8102E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Liberty</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / White</div></div>
   <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kennesaw State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red (Senior Day)</div></div>
 </div>
 
@@ -69,7 +71,7 @@ The schedule did WKU no favors early. The Hilltoppers opened with three straight
 
 **November 14 vs. Jacksonville State.** Red expected. Homecoming at 3:30 p.m. Eastern, the home date most likely to bring something extra if WKU has it planned. **Worn: red helmet with the classic block WKU, red jersey, black pants**, confirmed from the game broadcast. **Final: Western Kentucky 34, Jacksonville State 24.**
 
-**November 21 at Liberty.** White expected. Williams Stadium in Lynchburg, 1 p.m. Eastern. Our [Liberty 2026 uniform schedule](/stories/liberty-uniform-schedule-2026) has the Flames.
+**November 21 at Liberty.** White expected. Williams Stadium in Lynchburg, 1 p.m. Eastern. Our [Liberty 2026 uniform schedule](/stories/liberty-uniform-schedule-2026) has the Flames. **Worn: black helmet, white jersey and white pants**, confirmed from the game broadcast. Liberty wore a navy helmet, red jersey and red pants. **Final: Liberty 45, Western Kentucky 14.**
 
 **November 28 vs. Kennesaw State.** Red expected. Senior Day and Big Red, White and Blue Day, an America 250 celebration, at 1 p.m. Eastern. A red, white and blue theme is a common date for a special patch or decal.
 
@@ -85,7 +87,7 @@ In its first four games of 2026, Western Kentucky wore three helmets, two jersey
 
 **What jersey is Western Kentucky wearing this week?**
 
-WKU wore the red helmet with the classic block WKU, a red jersey and black pants against Jacksonville State for Homecoming on Saturday, November 14, confirmed from the game broadcast, and won 34-24. The week before, the Hilltoppers wore a white jersey and black pants in a 51-42 loss at Middle Tennessee. Next is Liberty on the road on Saturday, November 21, where white is expected.
+WKU wore a black helmet, white jersey and white pants at Liberty on Saturday, November 21, confirmed from the game broadcast, and lost 45-14. Next is Kennesaw State at home on November 28, Senior Day, where red is expected.
 
 **What did WKU wear for the White Out?**
 

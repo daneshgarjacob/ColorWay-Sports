@@ -3,7 +3,7 @@ title: "Maryland Uniform Schedule 2026: Every Jersey and When the Terrapins Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-21"
 excerpt: "Maryland's 2026 uniform schedule: every Terps jersey and helmet week by week, from the Script Terps red home set to the new Los Terps helmet."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #b8262b 55%, #FFD520 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Maryland opened 2026 in red at home and white on the road, and the first special look of the season has already come and gone: the new "Los Terps" helmet, worn against Virginia Tech on September 19, which Maryland says makes it one of the first college football programs to put Spanish on a helmet. This is the full Maryland 2026 uniform schedule: the Script Terps sets, the alternates in the Under Armour closet, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** Maryland wore the **Script Shift uniforms**, all white with the Terps script and numbers in an iridescent finish, at USC, confirmed from the game broadcast, and lost **35-21**. USC wore a cardinal helmet, cardinal jersey and gold pants.
 
 ## The Maryland 2026 Uniform Sets
 
@@ -41,7 +43,7 @@ Maryland has been Under Armour's showcase program for two decades, and no school
   <div style="background: #111111; color: #ffffff; border: 2px solid #E03A3E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Illinois</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Purdue</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Black</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #E03A3E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 2px solid #c9a227; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Script Shift (All White)</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #c9a227; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Script Shift (All White)</div></div>
   <div style="background: #E03A3E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
 </div>
 
@@ -69,7 +71,7 @@ Maryland has been Under Armour's showcase program for two decades, and no school
 
 **November 14 vs. Wisconsin.** Red expected. Military Appreciation Day. No special uniform has been announced for it, and Wisconsin will be in white. ★ Confirmed from both schools' game photos: **red helmet, black jersey, black pants**, the same set Maryland wore on Halloween. Wisconsin wore all white. **Final: Maryland 24, Wisconsin 21.**
 
-**November 21 at USC.** Confirmed by Maryland on November 18: **the Script Shift uniforms**, an all-white helmet, jersey and pants with the Terps script, numbers and logos in an iridescent gold, black and red finish. It is only the second time the football team has worn the set, after the debut at No. 1 Oregon on November 9, 2024. The last road game of the year, at the Coliseum with USC expected in cardinal for Senior Day. [Every detail and the history of Script Shift](/stories/maryland-script-shift-uniforms-return-usc-2026).
+**November 21 at USC.** Confirmed by Maryland on November 18: **the Script Shift uniforms**, an all-white helmet, jersey and pants with the Terps script, numbers and logos in an iridescent gold, black and red finish. It is only the second time the football team has worn the set, after the debut at No. 1 Oregon on November 9, 2024. The last road game of the year, at the Coliseum with USC expected in cardinal for Senior Day. [Every detail and the history of Script Shift](/stories/maryland-script-shift-uniforms-return-usc-2026). **Worn: Script Shift, white helmet with the Terps script, white jersey, white pants**, confirmed from the game broadcast. USC wore a cardinal helmet, cardinal jersey and gold pants. **Final: USC 35, Maryland 21.**
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/TerpsFootball/status/2123102617433706951"></a></blockquote>
 
@@ -83,11 +85,11 @@ Six games in, Maryland has mostly played it straight: red at home with white pan
 
 **What jersey is Maryland wearing this week?**
 
-At No. 18 USC on Saturday, November 21, Maryland wears the Script Shift uniforms: white helmet, white jersey and white pants with the Terps script and numbers in an iridescent gold, black and red finish, announced by the team on November 18. Most recently, Maryland wore the red helmet, black jersey and black pants against Wisconsin on November 14, confirmed from game photos, and won 24-21. The week-by-week grid above lists every other game with the set Maryland wore or is expected to wear.
+Maryland wore the Script Shift uniforms at No. 18 USC on Saturday, November 21: white helmet, white jersey and white pants with the Terps script and numbers in an iridescent gold, black and red finish, announced by the team on November 18 and confirmed from the game broadcast. USC won 35-21. Next is the regular season finale against Penn State at home on November 28, where red is expected. The week-by-week grid above lists every other game with the set Maryland wore or is expected to wear.
 
 **What are Maryland's Script Shift uniforms?**
 
-A limited-edition Under Armour set with an icy white base and an iridescent blend of gold, black and red on the numbers, the Terps chest script and the logos. Maryland football debuted it at Oregon on November 9, 2024, and wears it for the second time at USC on November 21, 2026. Basketball wore its own version in February and March 2026.
+A limited-edition Under Armour set with an icy white base and an iridescent blend of gold, black and red on the numbers, the Terps chest script and the logos. Maryland football debuted it at Oregon on November 9, 2024, and wore it for the second time at USC on November 21, 2026, a 35-21 loss. Basketball wore its own version in February and March 2026.
 
 **What are Maryland's football uniforms for 2026?**
 

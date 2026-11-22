@@ -3,7 +3,7 @@ title: "LSU Uniform Schedule 2026: Why the Tigers Wear White at Home, and Every 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What LSU wears every game in 2026, including the home white tradition that flips every visiting team into color, week by week."
 gradient: "linear-gradient(135deg, #461D7C 0%, #2d1250 55%, #FDD023 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 LSU is the one program in college football that wears white at home on purpose, and it changes what everybody else wears in Tiger Stadium. This is the full LSU 2026 uniform schedule, week by week, plus the rule that makes it possible. We update this page as each combination is confirmed.
 
-**Update, November 14:** LSU wore the **home whites, gold helmet, white jersey and gold pants** against Texas, confirmed from LSU's game photos, and lost **22-21**.
+**Update, November 21:** LSU wore the **gold helmet, white jersey and gold pants** at Tennessee, confirmed from the game broadcast, and lost **27-13**.
 
 ## The LSU 2026 Uniform Sets
 
@@ -44,7 +44,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #461D7C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Home White</div></div>
   <div style="background: #ffffff; color: #461D7C; border: 2px solid #461D7C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #461D7C; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / White / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -70,7 +70,7 @@ Here is the part almost nobody states plainly. **The home team is normally requi
 
 **November 14 vs. Texas.** ★ Confirmed from LSU's game photos: **home whites, gold helmet, white jersey, gold pants**, with Texas in burnt orange rather than the icy whites (see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026)). **Final: Texas 22, LSU 21.** LSU also retired Bert Jones' No. 7 jersey that night; see [LSU retires Bert Jones' No. 7](/stories/lsu-retires-bert-jones-number-7-2026).
 
-**November 21 at Tennessee.** White expected, with Tennessee in orange at Neyland.
+**November 21 at Tennessee.** White expected, with Tennessee in orange at Neyland. **Worn: gold helmet, white jersey, gold pants**, confirmed from the game broadcast. Tennessee wore a white helmet, orange jersey and white pants. **Final: Tennessee 27, LSU 13.**
 
 **November 28 at Arkansas.** White expected, with Arkansas in cardinal at home.
 
@@ -84,7 +84,7 @@ Want every big game in one place? Our [college football Week 3 uniform guide](/s
 
 **What jersey is LSU wearing this week?**
 
-LSU wore the home whites, gold helmet, white jersey and gold pants, against Texas on Saturday, November 14, confirmed from LSU's game photos, and lost 22-21. Next is a trip to Tennessee on November 21, where white is expected. LSU wears white at home and, because its SEC hosts wear color, white on most road trips too. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+LSU wore the gold helmet, white jersey and gold pants at Tennessee on Saturday, November 21, confirmed from the game broadcast, and lost 27-13. Next is the regular season finale at Arkansas on November 28, where white is expected. LSU wears white at home and, because its SEC hosts wear color, white on most road trips too. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are LSU's uniforms for 2026?**
 

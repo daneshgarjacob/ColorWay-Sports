@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Kansas has blue, white, red and black jerseys, two helmets, and a habit of mixing them without much warning. This is the full Kansas 2026 uniform schedule: the blue home set, the white road set, the red alternate that showed up in the Border War and again against Middle Tennessee, the black jersey it wore at Utah on October 10, and a week-by-week outlook for all twelve games, including the first college football game ever played at Wembley Stadium. We update this page as each combination is confirmed.
 
-**Update, November 21:** Kansas is wearing **all black with the oversized Jayhawk beak helmet** and a blue facemask for Senior Day against BYU, confirmed from the team's uniform combo post. [Every detail and our grade](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026).
+**Update, November 21:** Kansas wore **all black with the oversized Jayhawk beak helmet** and a blue facemask for Senior Day against BYU, confirmed from the team's uniform combo post and the game broadcast, and lost **31-29 in triple overtime**. [Every detail and our grade](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026).
 
 **Update, November 14:** Kansas wore a **blue helmet, white jersey and blue pants** at West Virginia, confirmed from the game broadcast, and won **37-14**.
 
@@ -70,7 +70,7 @@ The base sets date to the adidas redesign of 2023, which retired the Trajan lett
 
 **November 14 at West Virginia.** White expected. A November trip to Morgantown. **Worn: blue helmet, white jersey, blue pants**, confirmed from the game broadcast. **Final: Kansas 37, West Virginia 14.**
 
-**November 21 vs. BYU.** Blue expected. Senior Day and the final home game of the season. **Worn: black helmet with the oversized Jayhawk, blue facemask, black jersey, black pants** with red, white and blue stripes, confirmed from the team's uniform combo post and game photos. It is the second time this season in the black set, after Utah. BYU wore all white with a royal blue facemask. [Every detail and our B+ grade](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026).
+**November 21 vs. BYU.** Blue expected. Senior Day and the final home game of the season. **Worn: black helmet with the oversized Jayhawk, blue facemask, black jersey, black pants** with red, white and blue stripes, confirmed from the team's uniform combo post and game photos. It is the second time this season in the black set, after Utah. BYU wore all white with a royal blue facemask. [Every detail and our B+ grade](/stories/kansas-black-uniforms-jayhawk-beak-helmet-byu-2026). **Final: BYU 31, Kansas 29 (3OT).**
 
 **November 28 at Oklahoma State.** White expected. Regular season finale in Stillwater.
 
@@ -82,7 +82,7 @@ Five games in, the confirmed jerseys are blue, red and black, with both helmets 
 
 **What jersey is Kansas wearing this week?**
 
-Kansas wore a blue helmet, white jersey and blue pants at West Virginia on Saturday, November 14, confirmed from the game broadcast, and won 37-14. The week before, the Jayhawks wore a blue helmet, blue jersey and red pants in a 33-32 loss to UCF. Next is BYU at home on November 21, Senior Day and the final home game, where blue is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Kansas wore all black with the oversized Jayhawk beak helmet and a blue facemask against BYU on Saturday, November 21, Senior Day and the final home game, confirmed from the team's uniform combo post and the game broadcast, and lost 31-29 in triple overtime. The week before, the Jayhawks wore a blue helmet, white jersey and blue pants in a 37-14 win at West Virginia. Next is the regular season finale at Oklahoma State on November 28, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Kansas's football uniforms for 2026?**
 

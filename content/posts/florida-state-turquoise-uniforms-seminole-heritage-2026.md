@@ -22,6 +22,8 @@ resurfaceOnUpdate: true
 
 **Florida State is wearing turquoise uniforms in a football game for the first time.** The Seminoles announced on Sunday, November 15, that they will take the field in turquoise for their Seminole Heritage game this week, Saturday, November 21, against NC State at Doak Campbell Stadium. It is also Homecoming.
 
+**Update, November 21:** Florida State wore it as announced, confirmed from the game broadcast: **gold helmet, turquoise jersey with garnet numbers, turquoise pants**, with the end zones painted turquoise. NC State wore all white and won **28-10**.
+
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/FSUFootball/status/2122065891026215244"></a></blockquote>
 </div>
@@ -46,7 +48,7 @@ This is the uniform Florida State fans have been asking about since 2023. The tu
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The full set, gold helmet over turquoise, in FSU's Homecoming wallpaper, via <a href="https://x.com/FSUFootball" target="_blank" rel="noopener">@FSUFootball</a></p>
 
-Florida State's first reveal video showed a turquoise jersey with dark numbers, worn with turquoise pants, and a war spear wrapped in Seminole patchwork, shot under blue stadium light that made the exact shades hard to read. The wallpaper fixes that. We will add the game-day look, including socks and cleats, once the team walks out on Saturday.
+Florida State's first reveal video showed a turquoise jersey with dark numbers, worn with turquoise pants, and a war spear wrapped in Seminole patchwork, shot under blue stadium light that made the exact shades hard to read. The wallpaper fixes that. On Saturday the team wore exactly that set: gold helmet, turquoise jersey, turquoise pants.
 
 Florida State is also painting the Doak Campbell Stadium end zones turquoise for the game.
 
@@ -71,7 +73,7 @@ So for three straight Heritage games the most-requested alternate in the ACC sta
 
 ## NC State's Side
 
-NC State visits as the road team, so it is expected in white. That would put a white road uniform across from a full turquoise home look, which is about as clean a contrast as the uniform could ask for in its debut. The Wolfpack's look will be confirmed on game day.
+NC State visited as the road team and wore white helmets, white jerseys and white pants, confirmed from the game broadcast. That put a white road uniform across from a full turquoise home look, about as clean a contrast as the uniform could ask for in its debut. The Wolfpack won the game 28-10.
 
 ## Our Take
 
@@ -85,11 +87,11 @@ The gold helmet with the garnet spear and a garnet facemask, as shown in Florida
 
 **What time is Florida State vs. NC State?**
 
-Saturday, November 21, 3:30 p.m. Eastern on ACC Network, at Doak Campbell Stadium. Every look this weekend is in our [college football Week 12 uniform guide](/stories/college-football-week-12-uniforms-2026).
+It was Saturday, November 21, 3:30 p.m. Eastern on ACC Network, at Doak Campbell Stadium. Final: NC State 28, Florida State 10. Every look this weekend is in our [college football Week 12 uniform guide](/stories/college-football-week-12-uniforms-2026).
 
 **Is Florida State wearing turquoise jerseys against NC State?**
 
-Yes. Florida State announced on November 15, 2026 that it will wear turquoise uniforms for the Seminole Heritage game against NC State on Saturday, November 21, in Tallahassee.
+Yes. Florida State announced on November 15, 2026 that it would wear turquoise uniforms for the Seminole Heritage game against NC State on Saturday, November 21, in Tallahassee, and it wore them: gold helmet, turquoise jersey, turquoise pants. NC State won 28-10.
 
 **Has Florida State football ever worn turquoise uniforms before?**
 

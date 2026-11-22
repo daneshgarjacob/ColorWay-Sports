@@ -3,7 +3,7 @@ title: "East Carolina Uniform Schedule 2026: Every Jersey and When the Pirates W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-18"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What East Carolina wears every game in 2026: the purple home set, the white road set, the black Night of the Boneyard alternate, and every date."
 gradient: "linear-gradient(135deg, #592A8A 0%, #6f3fa3 55%, #FDC82F 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 East Carolina has worn two completely different uniforms in two games: a white helmet with the old Pirates script at Alabama, then purple from head to toe for the home opener against App State. That is the ECU closet in a nutshell, deep enough that the helmet changes as often as the jersey. This is the full East Carolina 2026 uniform schedule: the purple home set, the white road set, the black alternate that comes out for Night of the Boneyard, and a week-by-week outlook for all twelve games, including two Thursday nights and a Friday night in Greenville. We update this page as each combination is confirmed.
+
+**Update, November 21:** East Carolina wore a **purple helmet, white jersey and purple pants** at Army, confirmed from the game broadcast, and won **10-6**. Army wore a gold helmet, black jersey and gold pants.
 
 **Update, November 14:** East Carolina wore a **black helmet and black jersey** at Charlotte, confirmed from the game broadcast, and won **17-16**. The week before, ECU wore black for the Night of the Boneyard win over South Florida.
 
@@ -52,7 +54,7 @@ The other thing to know is that ECU ties its uniforms to what the crowd is told 
   <div style="background: #592A8A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Temple</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #111111; color: #ffffff; border: 2px solid #592A8A; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple or Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Charlotte</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Army</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Purple / White / Purple</div></div>
   <div style="background: #592A8A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 OR 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
 </div>
 
@@ -78,7 +80,7 @@ The other thing to know is that ECU ties its uniforms to what the crowd is told 
 
 **November 14 at Charlotte.** White expected. The in-state road trip to Jerry Richardson Stadium, kickoff time to be announced, with Charlotte in green. **Worn: black helmet and black jersey**, confirmed from the game broadcast. **Final: East Carolina 17, Charlotte 16.**
 
-**November 21 at Army.** White expected. Noon on CBS Sports Network at Michie Stadium, with Army expected in black for its final home game. Our [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026) has the Black Knights side.
+**November 21 at Army.** White expected. Noon on CBS Sports Network at Michie Stadium, with Army expected in black for its final home game. Our [Army 2026 uniform schedule](/stories/army-uniform-schedule-2026) has the Black Knights side. **Worn: purple helmet, white jersey, purple pants**, confirmed from the game broadcast. Army wore a gold helmet, black jersey and gold pants. **Final: East Carolina 10, Army 6.**
 
 **November 27 or 28 vs. Florida Atlantic.** Purple expected. Senior Day to close the regular season, with the date listed as Friday or Saturday of Thanksgiving weekend and the kickoff still to be set. The American Conference championship game follows on December 5 at the highest seed's campus.
 
@@ -108,7 +110,7 @@ East Carolina has used several helmets, jerseys and pant colors this season, and
 
 **What jersey is East Carolina wearing this week?**
 
-East Carolina wore a black helmet and black jersey at Charlotte on Saturday, November 14, confirmed from the game broadcast, and won 17-16. Next is Army at Michie Stadium on Saturday, November 21, where white is expected. The week-by-week grid above lists every game with the expected uniform.
+East Carolina wore a purple helmet, white jersey and purple pants at Army on Saturday, November 21, confirmed from the game broadcast, and won 10-6. Next is Florida Atlantic at home on November 27 or 28, where purple is expected. The week-by-week grid above lists every game with the expected uniform.
 
 **What are East Carolina's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Michigan Uniform Schedule 2026: Every Jersey and When the Wolverines Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Michigan wears every game in 2026: the winged helmet, the navy home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #00274C 0%, #0b3a6b 55%, #FFCB05 130%)"
 cardStyle: words
@@ -15,7 +15,9 @@ resurfaceOnUpdate: true
 
 Michigan's wardrobe is the least complicated in college football and that is entirely the point. This is the full Michigan 2026 uniform schedule: the navy home set, the white road set, the winged helmet that never comes off, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
 
-**Update, November 14:** Michigan wore the **winged helmet, white jersey and maize pants** at Oregon, as posted by the team on November 13, and lost **31-7**.
+**Update, November 21:** Michigan wore the **winged helmet, navy jersey and maize pants** against UCLA, confirmed from game photos and the CBS broadcast, and won **18-16 in triple overtime**, handing the Bruins their first loss. UCLA wore the gold helmet, white jersey and gold pants.
+
+**November 14:** Michigan wore the **winged helmet, white jersey and maize pants** at Oregon, as posted by the team on November 13, and lost **31-7**.
 
 ## The Michigan 2026 Uniform Sets
 
@@ -42,7 +44,7 @@ The winged helmet is the whole identity, and it is worn with both sets, so the o
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rutgers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #00274C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Navy · Navy Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Maize Pants</div></div>
-  <div style="background: #00274C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #00274C; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy / Maize</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ohio State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -79,7 +81,7 @@ The winged helmet is the whole identity, and it is worn with both sets, so the o
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">Via @UMichFootball</p>
 
-**November 21 vs. UCLA.** Navy expected.
+**November 21 vs. UCLA.** Navy expected. **Worn: winged helmet, navy jersey, maize pants**, confirmed from game photos and the CBS broadcast. UCLA wore the gold helmet, white jersey and gold pants. **Final: Michigan 18, UCLA 16 (3OT).**
 
 **November 28 at Ohio State.** White expected. The Game, in Columbus. Michigan in white.
 
@@ -91,7 +93,7 @@ Michigan's wardrobe is still short, but 2026 has already bent it. The all-maize 
 
 **What jersey is Michigan wearing this week?**
 
-Michigan wore the winged helmet, white jersey and maize pants at Oregon on Saturday, November 14, as posted by the team on November 13, and lost 31-7. Next is UCLA at home on November 21, where navy is expected. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Michigan wore the winged helmet, navy jersey and maize pants against UCLA on Saturday, November 21, confirmed from game photos and the CBS broadcast, and won 18-16 in triple overtime. Next is The Game at Ohio State on November 28, where white is expected. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Michigan's uniforms for 2026?**
 

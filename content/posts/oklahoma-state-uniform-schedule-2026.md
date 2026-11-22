@@ -3,7 +3,7 @@ title: "Oklahoma State Uniform Schedule 2026: Every Jersey and When the Cowboys 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "The Oklahoma State 2026 uniform schedule: orange, white and black jerseys, multiple helmets, and the combination the Cowboys wore to beat Oregon, tracked week by week."
 gradient: "linear-gradient(135deg, #FF7300 0%, #c25500 55%, #000000 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Oklahoma State does not have a home uniform and a road uniform. It has a closet, and the Cowboys pick from it every week. This is the full Oklahoma State 2026 uniform schedule: the jerseys, pants and helmets in the rotation, what we expect for each of the twelve games in Eric Morris's first season, and a record of what actually goes on the field. The program announces each combination in game week, usually on the @CowboyFB account a day or two before kickoff, and we update this page as each one lands.
+
+**Update, November 21:** Oklahoma State wore **all white, a white helmet, white jersey and white pants** at Arizona State, confirmed from the game broadcast, and won **30-27 in overtime**. Arizona State wore its Roses &amp; Devils throwback.
 
 **Update, November 14:** Oklahoma State wore a **black helmet, black jersey and black pants** for Salute to Service against Texas Tech, confirmed from the game broadcast, and lost **52-27**.
 
@@ -42,7 +44,7 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #FF7300; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
   <div style="background: #FF7300; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #FF7300; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
   <div style="background: #FF7300; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
 </div>
 
@@ -74,7 +76,7 @@ Three combinations are on the board. **The opener at Tulsa on September 5 was al
 
 **November 14 vs. Texas Tech.** Orange expected. Salute to Service, against Texas Tech, a 2025 College Football Playoff team visiting Stillwater. Military appreciation weeks often bring helmet decals or a special detail rather than a whole new uniform. **Worn: black helmet, black jersey, black pants**, confirmed from the game broadcast. Oklahoma State posted the black POKES helmet for Salute to Service. **Final: Texas Tech 52, Oklahoma State 27.**
 
-**November 21 at Arizona State.** White expected. Tempe, the fifth trip to Arizona in six seasons.
+**November 21 at Arizona State.** White expected. Tempe, the fifth trip to Arizona in six seasons. **Worn: white helmet, white jersey, white pants**, confirmed from the game broadcast. Arizona State wore its Roses &amp; Devils throwback: gold helmet with the full-body Sparky, maroon jersey, gold pants. **Final: Oklahoma State 30, Arizona State 27 (OT).**
 
 **November 28 vs. Kansas.** Orange expected. Senior Day and the regular-season finale. Bedlam is not on the schedule, so this is the last home look of the year.
 
@@ -86,7 +88,7 @@ Everywhere else in this series the question is which of two jerseys comes out. A
 
 **What jersey is Oklahoma State wearing this week?**
 
-Oklahoma State wore a black helmet, black jersey and black pants for Salute to Service against Texas Tech on Saturday, November 14, confirmed from the game broadcast, and lost 52-27. Next is Arizona State on the road on November 21, where white is expected. The Cowboys announce each week's combination in game week, usually on the program's social accounts a day or two before kickoff, and the grid above is updated as each one is confirmed.
+Oklahoma State wore all white, a white helmet, white jersey and white pants, at Arizona State on Saturday, November 21, confirmed from the game broadcast, and won 30-27 in overtime. The week before it wore a black helmet, black jersey and black pants for Salute to Service against Texas Tech, a 52-27 loss. Next is Kansas at home on November 28, Senior Day, where orange is expected. The Cowboys announce each week's combination in game week, usually on the program's social accounts a day or two before kickoff, and the grid above is updated as each one is confirmed.
 
 **What are Oklahoma State's uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Louisiana Uniform Schedule 2026: Every Jersey and When the Ragin' Cajuns
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Louisiana wears every game in 2026: the red home set, the white road jersey, the 337 helmet and the week-by-week Ragin' Cajuns uniform schedule."
 gradient: "linear-gradient(135deg, #CE181E 0%, #8a0f14 55%, #ffffff 130%)"
 cardStyle: words
@@ -13,7 +13,9 @@ teams: ["louisiana-ragin-cajuns", "sun-belt"]
 resurfaceOnUpdate: true
 ---
 
-Louisiana wore two helmets and two jerseys through its first six games, with most of the variety coming from the pants, then went all black for Louisiana Salutes on November 7. This is the full Louisiana Ragin' Cajuns 2026 uniform schedule: the red home set, the white road jersey, the red helmet with 337 on the bumper, every game played so far and the expected look for the rest of the season, starting with Coastal Carolina on November 21. We update this page as each combination is confirmed.
+Louisiana wore two helmets and two jerseys through its first six games, with most of the variety coming from the pants, then went all black for Louisiana Salutes on November 7. This is the full Louisiana Ragin' Cajuns 2026 uniform schedule: the red home set, the white road jersey, the red helmet with 337 on the bumper, every game played so far and the expected look for the rest of the season, starting with Georgia State on November 28. We update this page as each combination is confirmed.
+
+**Update, November 21:** Louisiana wore a **black helmet with the Cajuns script, black jersey and black pants** against Coastal Carolina on Senior Day, confirmed from the game broadcast, and won **38-24**. Coastal Carolina wore a teal helmet, white jersey and teal pants.
 
 **Update, November 12:** Louisiana wore a **red helmet and red jersey** at UL Monroe on Thursday night, confirmed from the game broadcast. **Final: Louisiana 42, UL Monroe 21.**
 
@@ -43,7 +45,7 @@ Six games into Michael Desormeaux's fifth season, the pattern is simple. Red jer
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #CE181E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 12 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UL Monroe</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #CE181E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Coastal Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red (Senior Day)</div></div>
+  <div style="background: #111111; color: #ffffff; border: 2px solid #CE181E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Coastal Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; All Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -69,13 +71,13 @@ Six games into Michael Desormeaux's fifth season, the pattern is simple. Red jer
 
 **November 12 at UL Monroe.** White expected. A Thursday night in-state rivalry game at Malone Stadium in Monroe, 9 p.m. Eastern. **Worn: red helmet and red jersey**, confirmed from the game broadcast. **Final: Louisiana 42, UL Monroe 21.**
 
-**November 21 vs. Coastal Carolina.** Red expected. Senior Day and the regular season home finale. Coastal is expected in white; our [Coastal Carolina 2026 uniform schedule](/stories/coastal-carolina-uniform-schedule-2026) has the Chanticleers.
+**November 21 vs. Coastal Carolina.** Red expected. Senior Day and the regular season home finale. Coastal is expected in white; our [Coastal Carolina 2026 uniform schedule](/stories/coastal-carolina-uniform-schedule-2026) has the Chanticleers. **Worn: black helmet with the Cajuns script, black jersey and black pants**, confirmed from the game broadcast. Coastal Carolina wore a teal helmet, white jersey and teal pants. **Final: Louisiana 38, Coastal Carolina 24.**
 
 **November 28 at Georgia State.** White expected. The regular season finale at Center Parc Stadium in Atlanta, kickoff time still to be set.
 
 ## Will Louisiana Wear an Alternate in 2026?
 
-Yes, once. Louisiana wore the red helmet in its first four games, then switched to a white helmet with the red jersey and red pants for Homecoming against Arkansas State on October 3, and wore the white helmet again with the white jersey and white pants at Louisiana Tech on October 10. Then for Louisiana Salutes against South Alabama on November 7, Louisiana wore a black helmet with the Cajuns script, black jersey and black pants, confirmed from the game broadcast, and won 28-26. The last themed home date is Senior Day against Coastal Carolina on November 21. The program has not announced anything for it, and we will not put an alternate in the grid until it does.
+Yes. Louisiana wore the red helmet in its first four games, then switched to a white helmet with the red jersey and red pants for Homecoming against Arkansas State on October 3, and wore the white helmet again with the white jersey and white pants at Louisiana Tech on October 10. Then for Louisiana Salutes against South Alabama on November 7, Louisiana wore a black helmet with the Cajuns script, black jersey and black pants, confirmed from the game broadcast, and won 28-26. For Senior Day against Coastal Carolina on November 21, Louisiana went all black again, the black helmet with the Cajuns script, black jersey and black pants, confirmed from the game broadcast, and won 38-24.
 
 ## The Bottom Line
 
@@ -85,7 +87,7 @@ Louisiana runs one of the cleanest closets in the Sun Belt: a red helmet with 33
 
 **What jersey is Louisiana wearing this week?**
 
-Louisiana wore a red helmet and red jersey at UL Monroe on Thursday, November 12, confirmed from the game broadcast, and won 42-21. The week before, the Ragin' Cajuns went all black, black helmet with the Cajuns script, black jersey and black pants, for Louisiana Salutes against South Alabama and won 28-26. Next is Coastal Carolina at home on November 21, Senior Day, where red is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Louisiana wore a black helmet with the Cajuns script, black jersey and black pants against Coastal Carolina on Saturday, November 21, Senior Day, confirmed from the game broadcast, and won 38-24. Next is the regular season finale at Georgia State on November 28, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What does 337 on the Louisiana helmet mean?**
 

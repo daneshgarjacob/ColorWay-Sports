@@ -3,7 +3,7 @@ title: "Auburn Uniform Schedule 2026: Every Jersey and When the Tigers Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What jersey is Auburn wearing this week? The full 2026 Auburn uniform schedule: navy home jerseys, the white road uniform, and every game, week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #13315c 55%, #E87722 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ resurfaceOnUpdate: true
 
 Auburn wears navy jerseys at home and white jerseys on the road, always under the same white helmet, and in 2026 that has not changed. This is the full Auburn 2026 uniform schedule: the navy home set, the white road set, the orange jersey that has not been worn since 1980, and a week-by-week outlook for all twelve games in Alex Golesh's first season. Five games in, Auburn has worn navy over white pants in all four home dates and all white at Tennessee. We update this page as each combination is confirmed.
 
-**Update, November 14:** Auburn wore a **white helmet, white jersey and white pants** at Mississippi State, confirmed from the game broadcast, and won **41-9**.
+**Update, November 21:** Auburn wore a **white helmet, navy jersey and white pants** against Samford in its final home game, confirmed from the game broadcast, and won **59-17**.
 
 ## The Auburn 2026 Uniform Sets
 
@@ -42,7 +42,7 @@ Auburn moved from Under Armour to Nike in July 2025 and used the switch to chang
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arkansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Mississippi State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Samford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #0C2340; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Samford</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -68,13 +68,13 @@ Auburn moved from Under Armour to Nike in July 2025 and used the switch to chang
 
 **November 14 at Mississippi State.** White expected, at Davis Wade Stadium. **Worn: white helmet, white jersey, white pants**, confirmed from the game broadcast. **Final: Auburn 41, Mississippi State 9.**
 
-**November 21 vs. Samford.** Navy expected. The final home game of the regular season.
+**November 21 vs. Samford.** Navy expected. The final home game of the regular season. **Worn: white helmet, navy jersey, white pants**, confirmed from the game broadcast. Samford wore white. **Final: Auburn 59, Samford 17.**
 
 **November 28 at Alabama.** White expected. The Iron Bowl in Tuscaloosa, with Alabama in crimson at home and Auburn in the all-white road set, which is how this game has looked in Tuscaloosa for years.
 
 ## The Bottom Line
 
-Auburn's 2026 uniform schedule is the simplest in the SEC: navy jersey and white pants at Jordan-Hare, white jersey and white pants on the road, and the same white helmet with the orange and navy stripe every Saturday. Every game we have logged has gone exactly that way, through the all-white win at Mississippi State on November 14. The only real question is whether Golesh's first season brings the orange jersey back after 46 years, and nothing points to it yet. The grid above has every date, and we add stars as each uniform is confirmed.
+Auburn's 2026 uniform schedule is the simplest in the SEC: navy jersey and white pants at Jordan-Hare, white jersey and white pants on the road, and the same white helmet with the orange and navy stripe every Saturday. Every game we have logged has gone exactly that way, through the navy-over-white win over Samford in the home finale on November 21. The only real question is whether Golesh's first season brings the orange jersey back after 46 years, and nothing points to it yet. The grid above has every date, and we add stars as each uniform is confirmed.
 
 Want every big game in one place? Our [college football Week 5 uniform guide](/stories/college-football-week-5-uniforms-2026) has what every top team wore on October 3.
 
@@ -82,7 +82,7 @@ Want every big game in one place? Our [college football Week 5 uniform guide](/s
 
 **What jersey is Auburn wearing this week?**
 
-Auburn wore a white helmet, white jersey and white pants at Mississippi State on Saturday, November 14, confirmed from the game broadcast, and won 41-9. Next is Samford at Jordan-Hare Stadium on Saturday, November 21, the final home game, where navy is expected. The week-by-week grid above lists every game.
+Auburn wore a white helmet, navy jersey and white pants against Samford at Jordan-Hare Stadium on Saturday, November 21, the final home game, confirmed from the game broadcast, and won 59-17. Next is the Iron Bowl at Alabama on November 28, where white is expected. The week-by-week grid above lists every game.
 
 **What are Auburn's football uniforms for 2026?**
 

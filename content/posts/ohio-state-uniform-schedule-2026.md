@@ -3,7 +3,7 @@ title: "Ohio State Uniform Schedule 2026: Every Jersey and When the Buckeyes Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Ohio State wears every game in 2026. Scarlet confirmed for the opener, white on the road, and the three alternates in the closet with no date yet."
 gradient: "linear-gradient(135deg, #BB0000 0%, #1a0505 55%, #C4CED4 130%)"
 cardStyle: words
@@ -49,7 +49,7 @@ Twelve games, seven at Ohio Stadium. Ten are played and every one is logged belo
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at USC</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / White / Gray</div></div>
   <div style="background: #BB0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oregon</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Scarlet / Scarlet</div></div>
   <div style="background: #BB0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Scarlet / Gray</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Nebraska</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / White / Gray</div></div>
   <div style="background: #BB0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Michigan</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Scarlet</div></div>
 </div>
 
@@ -81,7 +81,7 @@ Big Ten home teams wear color and visitors wear white, which makes the road date
 
 **November 14 vs. Northwestern**, Ohio Stadium. **Military Appreciation Game**, part of the Our Honor Defend program. Military appreciation games are one of the most common triggers for a patch or a special uniform element in college football, so this is the most likely date on the schedule for something beyond the base set. Nothing confirmed yet. **Worn: silver helmet, scarlet jersey, gray pants**, the traditional home look, not the all-black Tunnel Vision set. **Final: Ohio State 28, Northwestern 19.**
 
-**November 21 at Nebraska**, Lincoln. Road. White expected. Still to be logged after Saturday's game.
+**November 21 at Nebraska**, Lincoln. Road. White expected. **Worn: silver helmet, white jersey, gray pants**, the traditional road look, confirmed from Nebraska's game photos. Nebraska wore a white helmet, scarlet jersey and white pants. **Final: Nebraska 31, Ohio State 28.**
 
 **November 28 vs. Michigan**, Ohio Stadium. The Game, at home. Scarlet expected. Ohio State has broken out alternates for this fixture before, starting in 2009 with a one-time Nike Pro Combat tribute to its 1954 national champions at Michigan ([Ohio State Athletics](https://ohiostatebuckeyes.com/news/2009/11/17/ohio-state-to-wear-tribute-uniforms)), and if anything is being held back for one Saturday, it is this one.
 
@@ -91,7 +91,7 @@ Everything on this schedule follows the Big Ten pattern except three home games.
 
 ## The Bottom Line
 
-Ohio State's 2026 uniform schedule is scarlet at home, white on the road, and the silver buckeye-leaf helmet in every game. Three alternates exist, Scarlet Rush, Tunnel Vision and Sub Zero, and Ohio State has not announced any of them by name. Through ten games, one look was the full Scarlet Rush combination from the May release, silver helmet, scarlet jersey and scarlet pants, against Oregon on November 7. The Iowa game on October 3 used the same pieces the release lists for Sub Zero, silver helmet, white jersey and white pants. The other eight were the core sets with gray pants, and Tunnel Vision has not appeared. The one date left to watch is The Game against Michigan on November 28.
+Ohio State's 2026 uniform schedule is scarlet at home, white on the road, and the silver buckeye-leaf helmet in every game. Three alternates exist, Scarlet Rush, Tunnel Vision and Sub Zero, and Ohio State has not announced any of them by name. Through eleven games, one look was the full Scarlet Rush combination from the May release, silver helmet, scarlet jersey and scarlet pants, against Oregon on November 7. The Iowa game on October 3 used the same pieces the release lists for Sub Zero, silver helmet, white jersey and white pants. The other nine were the core sets with gray pants, and Tunnel Vision has not appeared. The one date left to watch is The Game against Michigan on November 28.
 
 For more, see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026), the [Georgia 2026 uniform schedule](/stories/georgia-uniform-schedule-2026) and the [Alabama 2026 uniform schedule](/stories/alabama-uniform-schedule-2026).
 
@@ -99,7 +99,7 @@ For more, see the [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-
 
 **What jersey is Ohio State wearing this week?**
 
-Ohio State wore the silver helmet, scarlet jersey and gray pants, the traditional home look, against Northwestern on the Military Appreciation date, Saturday, November 14, and won 28-19. The week before, it wore the all-scarlet combination, silver helmet, scarlet jersey and scarlet pants, against Oregon and lost 41-28. Ohio State wears scarlet at home and white on the road in 2026. Next is a trip to Nebraska on Saturday, November 21, where white is expected. We update this page as each combination is confirmed in game week.
+Ohio State wore the silver helmet, white jersey and gray pants, the traditional road look, at Nebraska on Saturday, November 21, confirmed from Nebraska's game photos, and lost 31-28. The week before, it wore the silver helmet, scarlet jersey and gray pants against Northwestern and won 28-19. Ohio State wears scarlet at home and white on the road in 2026. Next is The Game against Michigan at Ohio Stadium on November 28, where scarlet is expected. We update this page as each combination is confirmed in game week.
 
 **Does Ohio State have alternate uniforms in 2026?**
 

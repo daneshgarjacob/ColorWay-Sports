@@ -3,7 +3,7 @@ title: "Colorado State Uniform Schedule 2026: The New Adidas Uniforms, Every Jer
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-24"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Colorado State revealed its first adidas uniforms for the Pac-12 era. Every 2026 jersey, week by week, and what the orange A at the collar means."
 gradient: "linear-gradient(135deg, #1E4D2B 0%, #123420 55%, #C8C372 130%)"
 coverImage: "/images/posts/colorado-state-uniform-schedule-2026/jersey-sky.jpg"
@@ -16,6 +16,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Colorado State is wearing this week? This is the full Colorado State 2026 uniform schedule, game by game, and it opens a brand-new chapter: **the Rams revealed their first adidas uniforms on August 24**, days before their first season in the Pac-12 kicked off at home against Wyoming on September 5.
+
+**Update, November 21:** Colorado State wore a **green helmet with the gold horns, white jersey and green pants** at Fresno State, confirmed from the game broadcast, and lost **49-42**. Fresno State wore a white helmet, red jersey and white pants.
 
 **Update, November 14:** Colorado State wore a **white jersey** at Washington State, confirmed from the game broadcast, and lost **73-7**.
 
@@ -80,7 +82,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #1E4D2B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Fresno State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Green / White / Green</div></div>
   <div style="background: #eceff3; color: #4a4a4a; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TBA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Opponent TBA</div></div>
 </div>
 
@@ -106,7 +108,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **November 14 at Washington State**, Pullman. **Worn: white jersey**, confirmed from the game broadcast. **Final: Washington State 73, Colorado State 7.**
 
-**November 21 at Fresno State**, Fresno.
+**November 21 at Fresno State**, Fresno. **Worn: green helmet with the gold horns, white jersey, green pants**, confirmed from the game broadcast. Fresno State wore a white helmet, red jersey and white pants. **Final: Fresno State 49, Colorado State 42.**
 
 **November 28, opponent TBA**, Fort Collins. The league is still finalizing the date. We will update the tile when it locks.
 
@@ -116,7 +118,7 @@ Twelve games, seven in Fort Collins, one bye, and one home date still waiting on
 
 **What jersey is Colorado State wearing this week?**
 
-Colorado State wore a white jersey at Washington State on Saturday, November 14, confirmed from the game broadcast, and lost 73-7. Next is Fresno State on the road on Saturday, November 21. Earlier this season, Colorado State wore a green helmet, green jersey and white pants against San Diego State on Saturday, October 24, confirmed from Colorado State's game photos, and won 56-49 for its first Pac-12 win. Before that, Colorado State wore the green helmet with the gold horns, green jersey and white pants against Oregon State on Saturday, October 3, for Homecoming, confirmed from the game photos, and lost the Pac-12 opener 56-26 to fall to 2-3. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Colorado State wore a green helmet with the gold horns, a white jersey and green pants at Fresno State on Saturday, November 21, confirmed from the game broadcast, and lost 49-42. A week earlier it wore a white jersey at Washington State and lost 73-7. Next is the November 28 game in Fort Collins, opponent still to be announced. Earlier this season, Colorado State wore a green helmet, green jersey and white pants against San Diego State on Saturday, October 24, confirmed from Colorado State's game photos, and won 56-49 for its first Pac-12 win. Before that, Colorado State wore the green helmet with the gold horns, green jersey and white pants against Oregon State on Saturday, October 3, for Homecoming, confirmed from the game photos, and lost the Pac-12 opener 56-26 to fall to 2-3. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **Who makes Colorado State's uniforms in 2026?**
 

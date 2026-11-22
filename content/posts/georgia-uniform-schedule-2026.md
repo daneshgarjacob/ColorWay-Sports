@@ -3,7 +3,7 @@ title: "Georgia Uniform Schedule 2026: Every Jersey and When the Bulldogs Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Georgia wears every game in 2026, including the confirmed date for the first white helmet in Bulldogs history and the red-and-silver-britches home set."
 gradient: "linear-gradient(135deg, #BA0C2F 0%, #111111 55%, #C4CED4 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Wondering what jersey Georgia is wearing this week? This is the full Georgia 2026 uniform schedule: the one confirmed alternate date, the red home set, the white road set, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** Georgia wore a **red helmet, white jersey and silver pants** at South Carolina, confirmed from the ESPN broadcast highlights, and won **34-6**. South Carolina went all black.
 
 ## The One Confirmed Alternate: The First White Helmet in Georgia History
 
@@ -48,7 +50,7 @@ Twelve games, the first white helmet in program history, and an October 24 bye.
   <div style="background: #BA0C2F; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ole Miss</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #BA0C2F; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / Red / Silver</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at South Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Silver</div></div>
   <div style="background: #BA0C2F; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red</div></div>
 </div>
 
@@ -82,7 +84,7 @@ Game week made it official on Tuesday: the program's own graphic for Western Ken
 
 **November 14 vs. Missouri**, Athens. Red expected. **Worn: red helmet, red jersey, silver pants**, confirmed from the game broadcast. **Final: Georgia 48, Missouri 21.**
 
-**November 21 at South Carolina**, Columbia. Road. White expected.
+**November 21 at South Carolina**, Columbia. Road. White expected. **Worn: red helmet, white jersey, silver pants**, confirmed from the ESPN broadcast highlights. South Carolina wore a black helmet, black jersey and black pants. **Final: Georgia 34, South Carolina 6.**
 
 **November 28 vs. Georgia Tech**, Athens. Clean, Old-Fashioned Hate at home. Red expected, and the most likely spot for anything Georgia is holding back.
 
@@ -106,7 +108,7 @@ It already has: Saturday, September 12, 2026, against Western Kentucky at Sanfor
 
 **What jersey is Georgia wearing this week?**
 
-Georgia wore the red helmet, red jersey and silver pants against Missouri on Saturday, November 14, confirmed from the game broadcast, and won 48-21. The week before, the Bulldogs wore the red helmet, white jersey and silver pants with the red and black stripe in a 42-7 win at Ole Miss. Next is a trip to South Carolina on November 21, where white is expected. The Bulldogs wear red at home and white on the road for most games in 2026, and the confirmed exception is the all-white set on September 12 against Western Kentucky.
+Georgia wore the red helmet, white jersey and silver pants at South Carolina on Saturday, November 21, confirmed from the ESPN broadcast highlights, and won 34-6. The week before, the Bulldogs wore the red helmet, red jersey and silver pants in a 48-21 win over Missouri. Next is Georgia Tech at home on November 28, where red is expected. The Bulldogs wear red at home and white on the road for most games in 2026, and the confirmed exception is the all-white set on September 12 against Western Kentucky.
 
 **Does Georgia wear silver britches in 2026?**
 

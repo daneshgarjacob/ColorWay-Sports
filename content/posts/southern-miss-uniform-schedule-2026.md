@@ -3,7 +3,7 @@ title: "Southern Miss Uniform Schedule 2026: Every Jersey and When the Golden Ea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Southern Miss wears every game in 2026: the all-black home set, the white road jersey, both helmets and the week-by-week Golden Eagles uniform schedule."
 gradient: "linear-gradient(135deg, #000000 0%, #1a1a1a 55%, #FFC72C 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Southern Miss has a new coach, a new name on its stadium and the same black and gold it has always worn, and the Golden Eagles have kept the closet simple. This is the full Southern Miss 2026 uniform schedule: the all-black home set, the white road jersey, the black and white helmets, every game played so far and the expected look for the rest of the season. We update this page as each combination is confirmed.
+
+**Update, November 21:** Southern Miss wore a **black helmet, black jersey and white pants** against South Alabama on Senior Day, confirmed from the game broadcast, and lost **40-35**. South Alabama wore a white helmet, white jersey and navy pants.
 
 **Update, November 14:** Southern Miss wore a **white jersey and white pants** at Louisiana Tech, confirmed from the game broadcast, and lost **63-31**.
 
@@ -43,7 +45,7 @@ Two habits stood out through September. At home, Southern Miss went black from h
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UL Monroe</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 5 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs James Madison</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Blackout)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Louisiana Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black (Senior Day)</div></div>
+  <div style="background: #000000; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs South Alabama</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Black / White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Old Dominion</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -67,23 +69,23 @@ Two habits stood out through September. At home, Southern Miss went black from h
 
 **November 14 at Louisiana Tech.** White expected. Joe Aillet Stadium in Ruston. **Worn: white jersey and white pants**, confirmed from the game broadcast. **Final: Louisiana Tech 63, Southern Miss 31.**
 
-**November 21 vs. South Alabama.** Black expected. Senior Day and Military Appreciation, the home finale and another date where a special helmet decal or patch is common.
+**November 21 vs. South Alabama.** Black expected. Senior Day and Military Appreciation, the home finale and another date where a special helmet decal or patch is common. **Worn: black helmet, black jersey and white pants**, confirmed from the game broadcast. South Alabama wore a white helmet, white jersey and navy pants. **Final: South Alabama 40, Southern Miss 35.**
 
 **November 28 at Old Dominion.** White expected. The regular season finale at S.B. Ballard Stadium in Norfolk, kickoff time still to be set.
 
 ## Will Southern Miss Wear Gold Pants in 2026?
 
-Yes. After black pants in every home game through September, Southern Miss finally wore the gold pants with the black helmet and black jersey against Arkansas State on October 17, confirmed from the broadcast. Gold pants are part of the set, and the school's own game-week poster for UConn had already shown a player in a black jersey over gold. Homecoming against Louisiana on October 24 brought a gold jersey over black pants instead. The next home date to watch for the gold pants is Senior Day against South Alabama on November 21, the home finale, where black is expected.
+Yes. After black pants in every home game through September, Southern Miss finally wore the gold pants with the black helmet and black jersey against Arkansas State on October 17, confirmed from the broadcast. Gold pants are part of the set, and the school's own game-week poster for UConn had already shown a player in a black jersey over gold. Homecoming against Louisiana on October 24 brought a gold jersey over black pants instead. Senior Day against South Alabama on November 21, the home finale, brought white pants under the black helmet and black jersey instead.
 
 ## The Bottom Line
 
-Through the first six games of the Blake Anderson era, Southern Miss wore black jerseys at home and white on the road, with the black helmet five times and the white helmet once. All black at The Rock is a strong, simple look, the gold pants finally showed up against Arkansas State on October 17, and Homecoming against Louisiana on October 24 brought a gold jersey with the black helmet and black pants. The question left is what the Golden Eagles wear for Senior Day against South Alabama on November 21. The grid above has every date, and we add a star as each uniform is confirmed.
+Through the first six games of the Blake Anderson era, Southern Miss wore black jerseys at home and white on the road, with the black helmet five times and the white helmet once. All black at The Rock is a strong, simple look, the gold pants finally showed up against Arkansas State on October 17, and Homecoming against Louisiana on October 24 brought a gold jersey with the black helmet and black pants. For Senior Day against South Alabama on November 21, the Golden Eagles wore a black helmet, black jersey and white pants. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Southern Miss wearing this week?**
 
-Southern Miss wore a white jersey and white pants at Louisiana Tech on Saturday, November 14, confirmed from the game broadcast, and lost 63-31. Next is South Alabama at home on November 21, Senior Day and Military Appreciation, where black is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Southern Miss wore a black helmet, black jersey and white pants against South Alabama on Saturday, November 21, Senior Day, confirmed from the game broadcast, and lost 40-35. Next is the regular season finale at Old Dominion on November 28, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What color does Southern Miss wear at home?**
 

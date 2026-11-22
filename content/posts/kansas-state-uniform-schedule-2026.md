@@ -3,7 +3,7 @@ title: "Kansas State Uniform Schedule 2026: Every Jersey and When the Wildcats W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Kansas State uniform schedule 2026: every K-State jersey game by game, the purple home uniform, white road set, silver helmet, and what the Wildcats wear this week."
 gradient: "linear-gradient(135deg, #512888 0%, #3d1f66 55%, #A7A9AC 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Kansas State wears purple at home and white on the road, almost always under the silver helmet with the oversized Powercat, and two games into 2026 the Wildcats have not blinked: silver helmet, purple jersey, silver pants, both times. This is the full Kansas State 2026 uniform schedule: the home and road sets, the white alternate pieces the program has pulled out in recent seasons, and a week-by-week outlook for all twelve games of Collin Klein's first season as head coach. We update this page as each combination is confirmed.
+
+**Update, November 21:** Kansas State wore the **silver helmet, purple jersey and silver pants** against Arizona in the final home game, confirmed from the game broadcast, and lost **35-28 in overtime**. Arizona wore a white helmet and white jersey.
 
 **Update, November 14:** Kansas State wore a **white jersey and white pants** at TCU, confirmed from the game broadcast, and lost **20-10**.
 
@@ -42,7 +44,7 @@ K-State is one of the most disciplined uniform programs in the Power Four. Athle
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colorado</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #512888; color: #ffffff; border: 2px solid #A7A9AC; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Purple / Silver</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #512888; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
+  <div style="background: #512888; color: #ffffff; border: 2px solid #A7A9AC; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Silver / Purple / Silver</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Iowa State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -68,19 +70,19 @@ K-State is one of the most disciplined uniform programs in the Power Four. Athle
 
 **November 14 at TCU.** White expected. TCU is expected in its own purple at Amon G. Carter Stadium, so this is the purple-on-purple matchup where the road white matters most. **Worn: white jersey and white pants**, confirmed from the game broadcast. **Final: TCU 20, Kansas State 10.**
 
-**November 21 vs. Arizona.** Purple expected. The final home game of the regular season.
+**November 21 vs. Arizona.** Purple expected. The final home game of the regular season. **Worn: silver helmet, purple jersey, silver pants**, confirmed from the game broadcast. Arizona wore a white helmet and white jersey. **Final: Arizona 35, Kansas State 28 (OT).**
 
 **November 28 at Iowa State.** White expected. Farmageddon at Jack Trice Stadium closes the regular season, the same matchup that opened 2025 in Dublin.
 
 ## The Bottom Line
 
-Kansas State is the rare program where the expected uniform is usually the right one: silver helmet, purple jersey and silver pants at home, white on the road, and the first five 2026 games followed that script exactly, four in purple at home and white at Cincinnati. The first change came at Arizona State on October 24, a purple helmet with the white Powercat and purple pants under the white jersey. The wild card is the white helmet, which has shown up in a bowl game and a season opener in the last two years, and Arizona on November 21, the final home game, is the last home date where it could come out. The grid above has every date, and we add a star as each uniform is confirmed.
+Kansas State is the rare program where the expected uniform is usually the right one: silver helmet, purple jersey and silver pants at home, white on the road, and the first five 2026 games followed that script exactly, four in purple at home and white at Cincinnati. The first change came at Arizona State on October 24, a purple helmet with the white Powercat and purple pants under the white jersey. The wild card is the white helmet, which has shown up in a bowl game and a season opener in the last two years, but it stayed in the locker room for the final home game against Arizona on November 21, when Kansas State wore the standard silver helmet, purple jersey and silver pants. The grid above has every date, and we add a star as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Kansas State wearing this week?**
 
-Kansas State wore a white jersey and white pants at TCU on Saturday, November 14, confirmed from the game broadcast, and lost 20-10. Next is Arizona at home on November 21, the final home game of the regular season, where purple is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Kansas State wore the silver helmet, purple jersey and silver pants against Arizona on Saturday, November 21, the final home game, confirmed from the game broadcast, and lost 35-28 in overtime. Next is Farmageddon at Iowa State on November 28, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Kansas State's football uniforms for 2026?**
 

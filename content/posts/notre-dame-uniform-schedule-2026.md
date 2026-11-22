@@ -3,7 +3,7 @@ title: "Notre Dame Uniform Schedule 2026: Every Jersey and the Date the Irish We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Notre Dame wears every game in 2026: the confirmed green jersey date, the Lambeau Field Shamrock Series uniform, and the navy and white sets week by week."
 gradient: "linear-gradient(135deg, #0C2340 0%, #00843D 55%, #C99700 130%)"
 cardStyle: words
@@ -53,7 +53,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
   <div style="background: #eef1f6; color: #333; border: 1px dashed #9aa4b2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Navy</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Watch This One</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Navy / Gold</div></div>
   <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Boston College</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Navy / Gold</div></div>
-  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #0C2340; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs SMU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Navy / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -79,7 +79,7 @@ Twelve games, seven at home, two neutral sites, and an October 24 bye.
 
 **November 14 vs. Boston College**, Notre Dame Stadium. Navy expected. ★ **Worn: gold helmet, navy jersey, gold pants**, the standard home set, confirmed from Notre Dame's own game photography and the NBC broadcast frame it posted with the full game replay. NBC fed ESPN no frames. **Final: Notre Dame 41, Boston College 7.**
 
-**November 21 vs. SMU**, Notre Dame Stadium. Navy expected. First meeting since 1989.
+**November 21 vs. SMU**, Notre Dame Stadium. Navy expected. First meeting since 1989. ★ **Worn: gold helmet, navy jersey, gold pants**, the standard home set, confirmed from Notre Dame's own game photography. SMU wore all white. **Final: Notre Dame 24, SMU 3.**
 
 **November 28 at Syracuse**, JMA Wireless Dome. White expected.
 
@@ -113,7 +113,7 @@ That gold helmet has real 23.9-karat gold in its paint, and we explain where it 
 
 **When does Notre Dame wear green in 2026?**
 
-Notre Dame wore green on Saturday, October 10, against Stanford at Notre Dame Stadium in the annual Irish Wear Green game. Confirmed from the game photos: gold helmet, Kelly green jersey and green pants, with the Leprechaun logo replacing the ND monogram on the shoulders. Notre Dame won 58-7 to move to 6-0. Most recently, Notre Dame wore the gold helmet, navy jersey and gold pants against Boston College on November 14, confirmed from game photos, and won 41-7, a week after the same set beat Miami 31-24. Next up is SMU at home on November 21, where navy is expected.
+Notre Dame wore green on Saturday, October 10, against Stanford at Notre Dame Stadium in the annual Irish Wear Green game. Confirmed from the game photos: gold helmet, Kelly green jersey and green pants, with the Leprechaun logo replacing the ND monogram on the shoulders. Notre Dame won 58-7 to move to 6-0. Most recently, Notre Dame wore the gold helmet, navy jersey and gold pants against SMU on November 21, confirmed from Notre Dame's game photos, and won 24-3, the third straight week in the standard home set after wins over Miami and Boston College. Next up is the regular season finale at Syracuse on November 28, where white is expected.
 
 **What uniform is Notre Dame wearing against Wisconsin at Lambeau Field?**
 

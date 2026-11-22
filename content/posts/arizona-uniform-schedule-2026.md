@@ -3,7 +3,7 @@ title: "Arizona Uniform Schedule 2026: Every Jersey and When the Wildcats Wear I
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Arizona football uniforms for 2026: Sandstorm with red pants at West Virginia, navy at home, white on the road, and every Wildcats jersey week by week."
 gradient: "linear-gradient(135deg, #0C234B 0%, #1a3566 55%, #AB0520 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Arizona wears a navy jersey under a white helmet at home and goes all white on the road, and both of those looks are already on the board in 2026. This is the full Arizona 2026 uniform schedule: the navy home set, the white road set, the all-red Red Out look, the Sandstorm alternate that gets its own themed game against TCU, and a week-by-week outlook for all twelve games, including the 100th Territorial Cup. We update this page as each combination is confirmed.
+
+**Update, November 21:** Arizona wore a **white helmet and white jersey** at Kansas State, confirmed from the game broadcast, and won **35-28 in overtime**. The pants were not shown clearly enough to call. Kansas State wore its silver helmet, purple jersey and silver pants.
 
 **Update, November 14:** Arizona wore a **white helmet, navy jersey and navy pants** on Military Appreciation night against Utah, confirmed from the game broadcast, and lost **40-39**.
 
@@ -43,7 +45,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texas Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f3ece0; color: #AB0520; border: 1px solid #e2d6c2; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Sandstorm ★</div></div>
   <div style="background: #0C234B; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Navy / Navy</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White</div></div>
   <div style="background: #AB0520; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Navy</div></div>
 </div>
 
@@ -83,7 +85,7 @@ Arizona is a Nike program with a short list of base pieces and a long list of wa
 
 **November 14 vs. Utah.** Navy expected. Military Appreciation night, with fans in red. Arizona has occasionally worn a military-themed uniform for this game, though last season it stayed in its standard look. Utah should be in white; see the [Utah 2026 uniform schedule](/stories/utah-uniform-schedule-2026). **Worn: white helmet, navy jersey, navy pants**, confirmed from the game broadcast, on Military Appreciation night. **Final: Utah 40, Arizona 39.**
 
-**November 21 at Kansas State.** White expected. Final road game, against a purple home side in Manhattan. The Kansas State view is on the [Kansas State 2026 uniform schedule](/stories/kansas-state-uniform-schedule-2026).
+**November 21 at Kansas State.** White expected. Final road game, against a purple home side in Manhattan. The Kansas State view is on the [Kansas State 2026 uniform schedule](/stories/kansas-state-uniform-schedule-2026). **Worn: white helmet, white jersey**, confirmed from the game broadcast; the pants were not shown clearly. Kansas State wore a silver helmet, purple jersey and silver pants. **Final: Arizona 35, Kansas State 28 (OT).**
 
 **November 28 vs. Arizona State.** Red or navy, with red the lean. It is Senior Day and the 100th Territorial Cup, and Arizona has called a Red Out. When Arizona calls a Red Out for this game, the team has usually worn all red, so we are not treating navy as a safe call here. Arizona State is expected in white; see the [Arizona State 2026 uniform schedule](/stories/arizona-state-uniform-schedule-2026). Arizona announces its combination in game week.
 
@@ -95,7 +97,7 @@ In every game we have logged, Arizona has mostly worn what the rules predict: th
 
 **What jersey is Arizona wearing this week?**
 
-Arizona wore a white helmet, navy jersey and navy pants against Utah on Saturday, November 14, Military Appreciation night, confirmed from the game broadcast, and lost 40-39. The week before, on Friday, November 6, it wore Sandstorm with white pants against TCU: chrome red helmet, white jersey with red numbers and white pants, and won 29-28. Next up is a trip to Kansas State on November 21, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Arizona wore a white helmet and white jersey at Kansas State on Saturday, November 21, confirmed from the game broadcast, and won 35-28 in overtime. The week before, it wore a white helmet, navy jersey and navy pants against Utah on Military Appreciation night and lost 40-39. On Friday, November 6, it wore Sandstorm with white pants against TCU: chrome red helmet, white jersey with red numbers and white pants, and won 29-28. Next is the 100th Territorial Cup against Arizona State at home on November 28, Senior Day and a Red Out, where red is the lean. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Arizona's football uniforms for 2026?**
 

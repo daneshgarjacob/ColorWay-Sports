@@ -3,7 +3,7 @@ title: "Colorado Uniform Schedule 2026: Every Jersey and When the Buffaloes Wear
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Colorado uniform schedule 2026: every Buffaloes jersey, black home, white road, gold and gray alternates, plus which uniform Colorado wears each game this season."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #CFB87C 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Colorado has worn a black jersey in four of the nine 2026 games we have logged, including on the road at Georgia Tech. The gold jersey came out at Baylor, and the gray alternate made its first appearance against Utah on October 17. The gold-on-gold look Deion Sanders showed off in May has not shown up in any game we have logged. This is the full Colorado 2026 uniform schedule: the black home set, the white road set, the gold and gray alternates, the four helmets, and a week-by-week outlook for all twelve games, starting with the Thursday night opener at Georgia Tech and running through Senior Day against UCF. We update this page as each combination is confirmed.
+
+**Update, November 21:** Colorado wore a **white helmet, gold jersey and white pants** at Cincinnati, confirmed from the game broadcast, and lost **35-28**. Cincinnati wore a red helmet, black jersey and black pants.
 
 **Update, November 13:** Colorado wore a **gold helmet, black jersey and black pants** against Houston on Friday night, confirmed from the game broadcast and ESPN's game photo, and won **42-32**.
 
@@ -43,7 +45,7 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Kansas State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Arizona State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Houston</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Black / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #CFB87C; color: #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Gold / White</div></div>
   <div style="background: #000000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCF</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
 </div>
 
@@ -69,7 +71,7 @@ The current Nike set debuted in 2024 with black home, white road and gray altern
 
 **November 13 vs. Houston.** Black expected. A Friday night game on ESPN, 8:15 p.m. Mountain, with the Buffs Wear Black crowd theme and a halftime drone show. ESPN lists this one under November 14 because of UTC. **Worn: gold helmet, black jersey, black pants**, confirmed from the game broadcast and ESPN's game photo. The team's game-week post had shown a black helmet. **Final: Colorado 42, Houston 32.**
 
-**November 21 at Cincinnati.** White expected. Nippert Stadium, where the Bearcats wear red or black at home.
+**November 21 at Cincinnati.** White expected. Nippert Stadium, where the Bearcats wear red or black at home. **Worn: white helmet, gold jersey, white pants**, confirmed from the game broadcast. Cincinnati wore a red helmet, black jersey and black pants. **Final: Cincinnati 35, Colorado 28.**
 
 **November 28 vs. UCF.** Black expected. Senior Day, Fan Appreciation Day, and the regular season finale at Folsom Field.
 
@@ -81,7 +83,7 @@ In the nine games we have logged, Colorado has worn a black jersey four times, a
 
 **What jersey is Colorado wearing this week?**
 
-Colorado wore a gold helmet, black jersey and black pants against Houston on Friday, November 13, confirmed from the game broadcast and ESPN's game photo, and won 42-32. The week before, the Buffaloes wore a black helmet, white jersey and black pants at Arizona State. Next is at Cincinnati on November 21, where white is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Colorado wore a white helmet, gold jersey and white pants at Cincinnati on Saturday, November 21, confirmed from the game broadcast, and lost 35-28. The week before, the Buffaloes wore a gold helmet, black jersey and black pants against Houston and won 42-32. Next is UCF at Folsom Field on November 28, Senior Day and the regular season finale, where black is expected. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Colorado's football uniforms for 2026?**
 

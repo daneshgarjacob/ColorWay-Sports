@@ -3,7 +3,7 @@ title: "South Florida Uniform Schedule 2026: Every Jersey and When the Bulls Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What South Florida wears every game in 2026: the green home set, the white road look, the black alternate, and the Gold Standard helmet, week by week."
 gradient: "linear-gradient(135deg, #006747 0%, #0a7d57 55%, #CFC493 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 South Florida has three helmets, three jersey colors and a brand new head coach who has already changed the pattern. This is the full South Florida 2026 uniform schedule: the green home jersey, the white road set, the black alternate, the metallic gold helmet that carried the program for years, and the Gold Standard white shell the Bulls brought back for their 30th season. USF wore a white helmet in each of its first six games, which is not what the last few years looked like, the Gold Standard finally came out against Temple on October 3, and the metallic gold helmet returned for Homecoming against Kent State on October 17. We update this page as each combination is confirmed.
+
+**Update, November 21:** South Florida wore a **white helmet, white jersey and green pants** at Florida Atlantic, confirmed from the game broadcast, and lost **35-14**. Florida Atlantic wore a white helmet, red jersey and red pants.
 
 ## The South Florida 2026 Uniform Sets
 
@@ -68,7 +70,7 @@ American Conference home teams wear color and visitors wear white, so every road
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UAB</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green or Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 6 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at East Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 12 (THU)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Memphis</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #006747; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Florida Atlantic</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Green</div></div>
   <div style="background: #006747; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 OR 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Tulane</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Green</div></div>
 </div>
 
@@ -94,19 +96,19 @@ American Conference home teams wear color and visitors wear white, so every road
 
 **November 12 vs. Memphis.** Green expected. Thursday night at Raymond James against [Memphis](/stories/memphis-uniform-schedule-2026) in white, and probably the biggest home game of the year. **Worn: white helmet, green jersey, white pants**, confirmed from the game broadcast. **Final: Memphis 52, South Florida 41.**
 
-**November 21 at Florida Atlantic.** White expected. The Bulls' designated annual conference opponent, in Boca Raton.
+**November 21 at Florida Atlantic.** White expected. The Bulls' designated annual conference opponent, in Boca Raton. **Worn: white helmet, white jersey and green pants**, confirmed from the game broadcast. Florida Atlantic wore a white helmet, red jersey and red pants. **Final: Florida Atlantic 35, South Florida 14.**
 
 **November 27 or 28 vs. Tulane.** Green expected. The regular season finale and the last home game at Raymond James Stadium before USF moves on campus, and the date is genuinely unsettled: the conference still has to slot the Thanksgiving weekend windows, and [Tulane](/stories/tulane-uniform-schedule-2026) lists it the same way. If any game gets a send off uniform, it is this one.
 
 ## The Bottom Line
 
-The story of South Florida's 2026 wardrobe so far is the helmet USF made everyone wait for. The Bulls revived the Gold Standard in May, built a whole reveal around it, and then wore the plain white shell with the green Bull U for the first four games. Against Temple on October 3 the Gold Standard finally came out, the gold Bull U on the white shell with a gold facemask, over a white jersey with gold numbers and gold pants, in a 17-13 loss that dropped USF to 4-1. It went with the white jersey at home, not on the road, so the open question now is how often it comes back. The green jersey is the home default, white is locked in on the road, the black alternate is the wild card, and the gold lid that defined the last decade returned for Homecoming against Kent State on October 17, with the green jersey and gold pants, as confirmed by the team. Two games are left: at Florida Atlantic on November 21, where white is expected, and the finale at home against Tulane. The grid above has every date, and we add a star as each combination is confirmed.
+The story of South Florida's 2026 wardrobe so far is the helmet USF made everyone wait for. The Bulls revived the Gold Standard in May, built a whole reveal around it, and then wore the plain white shell with the green Bull U for the first four games. Against Temple on October 3 the Gold Standard finally came out, the gold Bull U on the white shell with a gold facemask, over a white jersey with gold numbers and gold pants, in a 17-13 loss that dropped USF to 4-1. It went with the white jersey at home, not on the road, so the open question now is how often it comes back. The green jersey is the home default, white is locked in on the road, the black alternate is the wild card, and the gold lid that defined the last decade returned for Homecoming against Kent State on October 17, with the green jersey and gold pants, as confirmed by the team. At Florida Atlantic on November 21 the Bulls wore a white helmet, white jersey and green pants and lost 35-14, which leaves the finale at home against Tulane. The grid above has every date, and we add a star as each combination is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is South Florida wearing this week?**
 
-USF wore a white helmet, green jersey and white pants against Memphis on Thursday, November 12, confirmed from the game broadcast, and lost 52-41. The week before, the Bulls wore a white helmet, white jersey and green pants at East Carolina, checked against the game photos, in a 20-17 loss. Next is Florida Atlantic on the road on November 21, where white is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
+USF wore a white helmet, white jersey and green pants at Florida Atlantic on Saturday, November 21, confirmed from the game broadcast, and lost 35-14. Next is Tulane at home on November 27 or 28, the regular season finale, where green is expected. The grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are South Florida's football uniforms for 2026?**
 

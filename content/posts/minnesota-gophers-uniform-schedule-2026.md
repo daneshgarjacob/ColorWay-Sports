@@ -3,7 +3,7 @@ title: "Minnesota Gophers Uniform Schedule 2026: Every Jersey and When the Gophe
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Minnesota wears every game in 2026: maroon at home, the gold jersey, white on the road, the returning chrome helmet, and the full Gophers uniform schedule."
 gradient: "linear-gradient(135deg, #7A0019 0%, #8f1a2c 55%, #FFCC33 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Minnesota plays its colors straight: maroon, gold and white, mixed and matched across helmet, jersey and pants. This is the full Minnesota Gophers 2026 uniform schedule: the maroon home set, the gold jersey that came out for the Gold Out, the white road set, the chrome gold helmet that is back for 2026, and a week-by-week outlook for all twelve games in P.J. Fleck's tenth season. Through their first four games the Gophers wore maroon over gold pants twice and gold over maroon pants once under the maroon helmet, and the chrome gold helmet finally came out on October 3 in the 20-14 win over Michigan. We update this page as each combination is confirmed.
+
+**Update, November 21:** Minnesota wore a **maroon helmet with the gold M, maroon jersey and gold pants** for Senior Day against Northwestern, confirmed from Northwestern's game photos, and won **20-17**. Northwestern wore a white helmet, white jersey and purple pants.
 
 **Update, November 14:** Minnesota wore a **chrome gold helmet with the maroon M, white jersey and maroon pants** at Penn State, confirmed from game photos, and lost **42-14**.
 
@@ -44,7 +46,7 @@ The current Nike set arrived in 2024, the first full relaunch since 2018. It add
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Indiana</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #7A0019; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UCLA</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #7A0019; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Penn State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Chrome Gold / White / Maroon</div></div>
-  <div style="background: #7A0019; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
+  <div style="background: #7A0019; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Northwestern</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Maroon / Maroon / Gold</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 27 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Wisconsin</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -70,19 +72,19 @@ The current Nike set arrived in 2024, the first full relaunch since 2018. It add
 
 **November 14 at Penn State.** White expected. The Governor's Victory Bell game at Beaver Stadium, against a Penn State team in navy, as shown on the [Penn State 2026 uniform schedule](/stories/penn-state-uniform-schedule-2026). **Worn: chrome gold helmet with the maroon M, white jersey, maroon pants**, confirmed from Penn State's game photos. Penn State wore the white helmet, navy jersey and white pants. **Final: Penn State 42, Minnesota 14.**
 
-**November 21 vs. Northwestern.** Maroon expected. Senior Day and the final home game of the season.
+**November 21 vs. Northwestern.** Maroon expected. Senior Day and the final home game of the season. **Worn: maroon helmet with the gold M, maroon jersey, gold pants**, confirmed from Northwestern's game photos, so the chrome gold helmet stayed on the shelf. Northwestern wore a white helmet with the purple N, white jersey and purple pants. **Final: Minnesota 20, Northwestern 17.**
 
 **November 27 at Wisconsin.** White expected. Paul Bunyan's Axe on Black Friday night at Camp Randall, a 6:30 p.m. Central kickoff, with Wisconsin in red on the [Wisconsin 2026 uniform schedule](/stories/wisconsin-uniform-schedule-2026). ESPN files this game under November 28 because of UTC. It is a Friday game.
 
 ## The Bottom Line
 
-In its first six games, Minnesota gave us both of its color jerseys and, against Michigan on October 3, the chrome gold helmet. The rest of the Gophers uniform schedule is easy to read on the road: white in Seattle, West Lafayette, Bloomington, State College and Madison. At home, maroon is the default: the Maroon Out homecoming against Iowa was maroon over gold pants, and the Salute to Service game against UCLA brought a black jersey and black pants under the maroon helmet. The question for Senior Day against Northwestern on November 21 is whether the chrome gold helmet comes back. The grid above has every date, and we add the stars as each uniform is confirmed.
+In its first six games, Minnesota gave us both of its color jerseys and, against Michigan on October 3, the chrome gold helmet. The rest of the Gophers uniform schedule is easy to read on the road: white in Seattle, West Lafayette, Bloomington, State College and Madison. At home, maroon is the default: the Maroon Out homecoming against Iowa was maroon over gold pants, and the Salute to Service game against UCLA brought a black jersey and black pants under the maroon helmet. For Senior Day against Northwestern on November 21, Minnesota stayed in the maroon helmet, maroon jersey and gold pants. The grid above has every date, and we add the stars as each uniform is confirmed.
 
 ## Frequently Asked Questions
 
 **What jersey is Minnesota wearing this week?**
 
-Minnesota wore a chrome gold helmet with the maroon M, white jersey and maroon pants at Penn State on Saturday, November 14, confirmed from game photos, and lost 42-14. A week earlier it wore a maroon helmet, black jersey and black pants for its Salute to Service game against UCLA and lost 34-20. Next is Northwestern at home on November 21, Senior Day and the final home game, where maroon is expected. The week-by-week grid above lists every game with the expected set.
+Minnesota wore a maroon helmet with the gold M, maroon jersey and gold pants against Northwestern on Saturday, November 21, Senior Day, confirmed from Northwestern's game photos, and won 20-17. A week earlier it wore the chrome gold helmet, white jersey and maroon pants in a 42-14 loss at Penn State. Next is Paul Bunyan's Axe at Wisconsin on Friday, November 27, where white is expected. The week-by-week grid above lists every game with the expected set.
 
 **What are the Minnesota Gophers football uniforms for 2026?**
 

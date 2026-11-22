@@ -3,7 +3,7 @@ title: "Texas Tech Uniform Schedule 2026: Mahomes Let's Ride Date"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-21"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "Texas Tech uniform schedule 2026: what the Red Raiders wear every game, week by week, including the date the Patrick Mahomes Let's Ride jersey hits the field."
 gradient: "linear-gradient(135deg, #CC0000 0%, #1a0505 55%, #000000 130%)"
 coverImage: "/images/posts/texas-tech-uniform-schedule-2026/cover.jpg"
@@ -15,9 +15,11 @@ teams: ["texas-tech-red-raiders", "big-12"]
 resurfaceOnUpdate: true
 ---
 
-Wondering what jersey Texas Tech is wearing this week? This is the full Texas Tech 2026 uniform schedule, game by game, and it now includes the date every Red Raiders fan was asking about: **the new Patrick Mahomes "Let's Ride" uniform debuted Friday night, September 18, against No. 23 Houston in Lubbock**, in prime time on FOX, and Texas Tech won 28-26. Most recently the Red Raiders wore a white helmet with the red Double T, a white jersey and black pants in a 52-27 win at Oklahoma State on November 14, confirmed from the game broadcast. Next is Baylor in Waco on November 21, where white is expected.
+Wondering what jersey Texas Tech is wearing this week? This is the full Texas Tech 2026 uniform schedule, game by game, and it now includes the date every Red Raiders fan was asking about: **the new Patrick Mahomes "Let's Ride" uniform debuted Friday night, September 18, against No. 23 Houston in Lubbock**, in prime time on FOX, and Texas Tech won 28-26. Most recently the Red Raiders wore a red helmet, a white jersey and black pants in a 20-10 win at Baylor on November 21, confirmed from the game broadcast. Next is TCU in Lubbock on Thanksgiving night, November 26.
 
 <p style="text-align: left; font-size: 0.75em; color: #999; margin: 0 0 2.5em;">Cover photo via Texas Tech Athletics.</p>
+
+**Update, November 21:** Texas Tech wore a **red helmet, white jersey and black pants** at Baylor, confirmed from the game broadcast, and won **20-10**. Baylor wore a gold helmet, green jersey and white pants.
 
 **Update, November 14:** Texas Tech wore a **white helmet with the red Double T, white jersey and black pants** at Oklahoma State, confirmed from the game broadcast, and won **52-27**.
 
@@ -81,7 +83,7 @@ Twelve games, seven in Lubbock, one bye, and one Mahomes night.
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Arizona</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Black</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs West Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Oklahoma State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Black</div></div>
   <div style="background: #CC0000; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 26</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs TCU</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Red or Black</div></div>
 </div>
 
@@ -107,7 +109,7 @@ Twelve games, seven in Lubbock, one bye, and one Mahomes night.
 
 **November 14 at Oklahoma State**, Stillwater. White. **Worn: white helmet with the red Double T, white jersey, black pants**, confirmed from the game broadcast. **Final: Texas Tech 52, Oklahoma State 27.**
 
-**November 21 at Baylor**, Waco. White, opposite whatever Baylor pulls from its fan-voted wardrobe.
+**November 21 at Baylor**, Waco. White, opposite whatever Baylor pulls from its fan-voted wardrobe. **Worn: red helmet, white jersey, black pants**, confirmed from the game broadcast. Baylor wore a gold helmet, green jersey and white pants. **Final: Texas Tech 20, Baylor 10.**
 
 **November 26 vs. TCU**, Lubbock. Thanksgiving night on ESPN to close the regular season.
 

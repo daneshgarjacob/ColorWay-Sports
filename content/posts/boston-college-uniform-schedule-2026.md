@@ -3,7 +3,7 @@ title: "Boston College Uniform Schedule 2026: Every Jersey and When the Eagles W
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Boston College wears every game in 2026: the maroon home set, the white road set, the Red Bandanna uniform, and the full Eagles uniform schedule."
 gradient: "linear-gradient(135deg, #8C2232 0%, #a62b3d 55%, #BC9B6A 130%)"
 cardStyle: words
@@ -15,7 +15,9 @@ resurfaceOnUpdate: true
 
 Boston College owns one of the cleanest closets in the ACC and one of the most meaningful uniforms in all of college football. This is the full Boston College 2026 uniform schedule: the maroon home set, the white road set, the gold helmet that finally got its stripe back, the Red Bandanna uniform the Eagles wore on the 25th anniversary of 9/11, and a week-by-week outlook for all twelve games in Bill O'Brien's third season. We update this page as each combination is confirmed.
 
-**Update, October 24:** Boston College wore its **gold helmet and maroon jersey** on the road at Georgia Tech, confirmed from the team's game photos, and won **49-27**.
+**Update, November 21:** Boston College wore the **gold helmet, maroon jersey and maroon pants** for Senior Day against Syracuse, confirmed from the game broadcast, and won **27-15**. Syracuse wore the orange helmet, white jersey and orange pants.
+
+**October 24:** Boston College wore its **gold helmet and maroon jersey** on the road at Georgia Tech, confirmed from the team's game photos, and won **49-27**.
 
 ## The Boston College 2026 Uniform Sets
 
@@ -54,7 +56,7 @@ ACC home teams wear color and visitors wear white, so every road date on this sc
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Duke</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #8C2232; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Notre Dame</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #8C2232; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Maroon</div></div>
+  <div style="background: #8C2232; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Syracuse</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Gold / Maroon / Maroon</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -96,7 +98,7 @@ Pitt is expected to visit in white, which makes the clash work. Their year is on
 
 **November 14 at Notre Dame.** White expected. The Holy War returns to South Bend at 3:30 p.m. on NBC, which means Boston College in white and gold against Notre Dame's navy and gold, one of the best color matchups the sport has. Watch the Irish side on the [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-2026). **Final: Notre Dame 41, Boston College 7.**
 
-**November 21 vs. Syracuse.** Maroon expected. The Jay McGillis Memorial Senior Day Game, the last time this class runs out of the tunnel at Alumni Stadium. Syracuse is tracked on the [Syracuse 2026 uniform schedule](/stories/syracuse-uniform-schedule-2026).
+**November 21 vs. Syracuse.** Maroon expected. The Jay McGillis Memorial Senior Day Game, the last time this class runs out of the tunnel at Alumni Stadium. Syracuse is tracked on the [Syracuse 2026 uniform schedule](/stories/syracuse-uniform-schedule-2026). **Worn: gold helmet, maroon jersey, maroon pants**, confirmed from the game broadcast, so maroon pants rather than the usual gold. Syracuse wore the orange helmet, white jersey and orange pants. **Final: Boston College 27, Syracuse 15.**
 
 **November 28 at Miami.** White expected. The regular season ends in Coral Gables. Miami's year is on the [Miami Hurricanes 2026 uniform schedule](/stories/miami-hurricanes-uniform-schedule-2026).
 
@@ -112,7 +114,7 @@ Five games into 2026, Boston College is 2-3 and has shown the two things that ma
 
 **What jersey is Boston College wearing this week?**
 
-Boston College lost 41-7 at Notre Dame on Saturday, November 14; we have not logged that uniform yet. The last look we have on record is the gold helmet and maroon jersey at Georgia Tech on Saturday, October 24, confirmed from the team's game photos, in a 49-27 win. Georgia Tech wore white for Homecoming, so the Eagles kept their home color on the road. Next is Syracuse at Alumni Stadium on Saturday, November 21, Senior Day, where maroon is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
+Boston College wore the gold helmet, maroon jersey and maroon pants against Syracuse on Saturday, November 21, Senior Day, confirmed from the game broadcast, and won 27-15. Next is the regular season finale at Miami on November 28, where white is expected. The week-by-week grid above lists every game with the expected uniform, and we update it as combinations are confirmed.
 
 **What are Boston College's football uniforms for 2026?**
 

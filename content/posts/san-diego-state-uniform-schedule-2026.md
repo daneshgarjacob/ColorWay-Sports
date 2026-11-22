@@ -3,7 +3,7 @@ title: "San Diego State Uniform Schedule 2026: Every Jersey and When the Aztecs 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What San Diego State wears every game in 2026: the black home set, the white road set, the new Age of the Jaguar red alternate, and every date."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 50%, #A6192E 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 San Diego State opened its first Pac-12 season in black on black, followed it with white on white, and then announced a red jersey with red pants for the first time in program history. This is the full San Diego State 2026 uniform schedule: the black home set, the white road set, the new Age of the Jaguar alternate that debuted against James Madison on September 19, and a week-by-week outlook for all twelve games plus the Pac-12 flex date. We update this page as each combination is confirmed.
+
+**Update, November 21:** San Diego State wore the **red and black Glyphs helmet, the white jersey and red pants** at Boise State, confirmed from San Diego State's game photos, and won **22-20** to clinch a spot in the Pac-12 Championship Game. Boise State wore all blue.
 
 **Update, November 14:** San Diego State beat Utah State **30-13** at Snapdragon Stadium. We have not yet confirmed what the Aztecs wore; the last look we have confirmed is **a red helmet, white jersey and white pants with a red side panel** at Colorado State on October 24, from San Diego State's game photos.
 
@@ -60,7 +62,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Washington State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #111111; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Utah State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #A6192E; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Boise State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Glyphs / White / Red</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Flex Opponent (TBD)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
 </div>
 
@@ -94,7 +96,7 @@ The look is a black helmet with the red and black Ocelotl glyph on one side, out
 
 **November 14 vs. Utah State.** Black expected. Back at Snapdragon Stadium after the off week. More: [Utah State uniform schedule](/stories/utah-state-uniform-schedule-2026). **Final: San Diego State 30, Utah State 13.**
 
-**November 21 at Boise State.** White expected. Boise State wears blue at home on the blue field, so white is the only sane answer.
+**November 21 at Boise State.** White expected. Boise State wears blue at home on the blue field, so white is the only sane answer. **Worn: red and black Glyphs helmet, white jersey, red pants**, confirmed from San Diego State's game photos on the blue turf, dated to the day of the game. Boise State wore a blue helmet, blue jersey and blue pants. **Final: San Diego State 22, Boise State 20.**
 
 **November 28, flex game.** White expected. The Pac-12 built its first schedule around a Week 13 flex date that does not count in the conference standings and is not locked in until six days before kickoff at the latest. San Diego State is on the road for it. The Pac-12 Championship follows on December 4.
 
@@ -106,7 +108,7 @@ Through five games, San Diego State had used three combinations and two helmets,
 
 **What is San Diego State wearing this week?**
 
-The last look we have confirmed is a red helmet, white jersey and white pants with a red side panel at Colorado State on Saturday, October 24, from San Diego State's game photos, a 56-49 loss. Most recently, San Diego State beat Utah State 30-13 at home on November 14; we have not yet confirmed what it wore. Next is Boise State on the road on November 21, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+San Diego State wore the red and black Glyphs helmet, a white jersey and red pants at Boise State on Saturday, November 21, confirmed from San Diego State's game photos, and won 22-20 to clinch a spot in the Pac-12 Championship Game. The week before it beat Utah State 30-13 at home, a uniform we have not confirmed. Before that, the last look we confirmed was a red helmet, white jersey and white pants with a red side panel at Colorado State on October 24, a 56-49 loss. Next is the flex game on the road on November 28, where white is expected. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What are San Diego State's football uniforms for 2026?**
 

@@ -3,7 +3,7 @@ title: "Texas State Uniform Schedule 2026: Every Jersey and When the Bobcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-30"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What Texas State wears every game in its first Pac-12 season: maroon and gold at home, the white road set, the Bobcats script helmet and the full schedule."
 gradient: "linear-gradient(135deg, #501214 0%, #2e0a0c 55%, #8D734A 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Texas State is playing its first Pac-12 season, and the Bobcats have already used two different gold helmets in San Marcos. This is the full Texas State 2026 uniform schedule: the maroon home jersey, the white road set, the gold and white helmets, the Bobcats script shell that showed up for Family Weekend, every game played so far, including the 31-29 loss in the Pac-12 opener at San Diego State on October 3, and the expected uniform for the rest of the year. We update this page as each combination is confirmed.
+
+**Update, November 21:** Texas State beat Washington State **42-14** on Senior Day. Washington State's game photos show the Bobcats' sideline in maroon jerseys and gold helmets; the pants were not in view, so we have not starred the game. Washington State wore all white.
 
 **Update, November 7:** Texas State wore **a gold helmet with the maroon star, white jersey and white pants** at Oregon State, confirmed from the game broadcast, and won 42-21. **Final: Texas State 42, Oregon State 21.** The Bobcats then beat Fresno State 37-35 on November 14.
 
@@ -76,13 +78,13 @@ This is also a new conference. Texas State spent 13 seasons in the Sun Belt befo
 
 **November 14 vs. Fresno State.** Maroon expected. Heroes Day and Community Day, 3 p.m. Central on The CW. Fresno State should be in white; see our [Fresno State 2026 uniform schedule](/stories/fresno-state-uniform-schedule-2026). **Final: Texas State 37, Fresno State 35.**
 
-**November 21 vs. Washington State.** Maroon expected. Senior Day and "T" Association Weekend, 5 p.m. Central on USA Network, the last scheduled home game. Our [Washington State 2026 uniform schedule](/stories/washington-state-uniform-schedule-2026) has the Cougars.
+**November 21 vs. Washington State.** Maroon expected. Senior Day and "T" Association Weekend, 5 p.m. Central on USA Network, the last scheduled home game. Our [Washington State 2026 uniform schedule](/stories/washington-state-uniform-schedule-2026) has the Cougars. Washington State's game photos show the Texas State sideline in maroon jerseys and gold helmets; the pants were not in view. Washington State wore all white. **Final: Texas State 42, Washington State 14.**
 
 **November 28.** Pac-12 flex game, opponent to be set. The conference fills Week 13 based on the standings and has projected Texas State at Colorado State, which would mean white. It will not be confirmed until six days before the game at the latest. The Pac-12 Championship Game follows on Friday, December 4 at the home of the highest seed.
 
 ## Which Helmet Is Next?
 
-Texas State wore three helmets in its first five games, and the script shell is the one to watch. It appeared for Family Weekend with the maroon pants and has not been announced for anything else. The Bobcat head gold shell looks like the default at home, and the white shell has been the road helmet in both road games, at Texas and at San Diego State. The script helmet did not come back for Homecoming against Utah State on October 24, when Texas State wore a white helmet, maroon jersey and white pants. On the road at Oregon State on November 7 it wore a gold helmet with the maroon star, a white jersey and white pants. Senior Day against Washington State on November 21 is the last scheduled home date.
+Texas State wore three helmets in its first five games, and the script shell is the one to watch. It appeared for Family Weekend with the maroon pants and has not been announced for anything else. The Bobcat head gold shell looks like the default at home, and the white shell has been the road helmet in both road games, at Texas and at San Diego State. The script helmet did not come back for Homecoming against Utah State on October 24, when Texas State wore a white helmet, maroon jersey and white pants. On the road at Oregon State on November 7 it wore a gold helmet with the maroon star, a white jersey and white pants. Senior Day against Washington State on November 21, a 42-14 win, was the last scheduled home date.
 
 ## The Bottom Line
 
@@ -92,7 +94,7 @@ Texas State has run through white, gold and maroon without ever looking like any
 
 **What jersey is Texas State wearing this week?**
 
-Texas State wore a gold helmet with the maroon star, white jersey and white pants at Oregon State on Saturday, November 7, confirmed from the game broadcast, and won 42-21. It beat Fresno State 37-35 on November 14. Next is Washington State at home on Saturday, November 21, Senior Day, where maroon is expected. Earlier this season, Texas State wore the white helmet, white jersey and maroon pants at San Diego State on Saturday, October 3, as announced and confirmed on the broadcast, in a 31-29 loss. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
+Texas State wore a gold helmet with the maroon star, white jersey and white pants at Oregon State on Saturday, November 7, confirmed from the game broadcast, and won 42-21. It beat Fresno State 37-35 on November 14 and Washington State 42-14 on Senior Day, November 21, when the sideline was in maroon jerseys and gold helmets; we have not confirmed the pants. Next is the November 28 Pac-12 flex game, opponent to be set. Earlier this season, Texas State wore the white helmet, white jersey and maroon pants at San Diego State on Saturday, October 3, as announced and confirmed on the broadcast, in a 31-29 loss. The week-by-week grid above lists every game, and we update it as combinations are confirmed.
 
 **What helmet did Texas State wear against UIW?**
 

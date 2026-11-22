@@ -20,7 +20,7 @@ league: "college"
 teams: ["kansas-jayhawks", "byu-cougars", "big-12"]
 ---
 
-**Kansas went all black for Senior Day.** The Jayhawks posted their uniform combo for No. 12 BYU on Saturday morning, November 21, with the caption "⚫️⚡️": a **black helmet with an oversized Jayhawk**, zoomed in so the yellow beak takes over the side of the shell, a **blue facemask**, a **black jersey** and **black pants**. Kickoff at David Booth Kansas Memorial Stadium was **noon Eastern (11 a.m. Central) on ABC**, and it was the final home game of the season.
+**Kansas went all black for Senior Day.** The Jayhawks posted their uniform combo for No. 12 BYU on Saturday morning, November 21, with the caption "⚫️⚡️": a **black helmet with an oversized Jayhawk**, zoomed in so the yellow beak takes over the side of the shell, a **blue facemask**, a **black jersey** and **black pants**. Kickoff at David Booth Kansas Memorial Stadium was **noon Eastern (11 a.m. Central) on ABC**, and it was the final home game of the season. **Final: BYU 31, Kansas 29 in triple overtime**, after the game was tied 16-16 at the end of regulation.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/KU_Football/status/2124168281644994848"></a></blockquote>
@@ -127,6 +127,9 @@ All white with a royal blue facemask: white helmet, white jersey with royal numb
 
 **What time is Kansas vs. BYU?**
 Saturday, November 21, 2026, at noon Eastern (11 a.m. Central).
+
+**Who won Kansas vs. BYU?**
+BYU won 31-29 in triple overtime. The game was 16-16 after regulation, and BYU won it on a two-point conversion in the third overtime.
 
 **What channel is Kansas vs. BYU on?**
 ABC.

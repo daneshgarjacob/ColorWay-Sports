@@ -3,7 +3,7 @@ title: "North Carolina Uniform Schedule 2026: Every Jersey, Starting With Dublin
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-21"
 excerpt: "What North Carolina wears every game in 2026, starting with the Dublin opener against TCU, plus the 1980 throwbacks for Notre Dame and the Kenan 100 season."
 gradient: "linear-gradient(135deg, #4B9CD3 0%, #13294B 60%, #ffffff 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 North Carolina opens the 2026 season in Dublin, and it is the first game of the entire college football season. This is the full North Carolina 2026 uniform schedule: the opener combination, the Carolina blue and white sets, the 100th season of Kenan Stadium, and a week-by-week outlook for all twelve games. We update this page as each combination is confirmed.
+
+**Update, November 21:** North Carolina wore a **Carolina blue helmet, white jersey and Carolina blue pants** at Virginia, confirmed from the game broadcast, and lost **41-24**. Virginia wore a navy helmet, navy jersey and white pants.
 
 **Update, November 14:** North Carolina wore a **Carolina blue helmet, Carolina blue jersey and white pants** against Louisville on Homecoming, confirmed from the game broadcast, and lost **16-14**.
 
@@ -71,7 +73,7 @@ Twelve games, six at home in Kenan's hundredth season, one in Ireland.
   <div style="background: #4B9CD3; color: #ffffff; border: 2px solid #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Miami</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / Blue / Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #13294B; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / White</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Carolina Blue / Carolina Blue / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 2px solid #4B9CD3; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Virginia</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Carolina Blue / White / Carolina Blue</div></div>
   <div style="background: #4B9CD3; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs NC State</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
 </div>
 
@@ -107,7 +109,7 @@ See our [Notre Dame 2026 uniform schedule](/stories/notre-dame-uniform-schedule-
 
 **November 14 vs. Louisville**, Kenan Stadium. Homecoming, Military Appreciation and Monogram Day. Carolina blue expected, and the likeliest date if the 1980 throwback comes back a third time. **Worn: Carolina blue helmet, Carolina blue jersey, white pants**, confirmed from the game broadcast. **Final: Louisville 16, North Carolina 14.**
 
-**November 21 at Virginia**, Scott Stadium. White expected.
+**November 21 at Virginia**, Scott Stadium. White expected. **Worn: Carolina blue helmet, white jersey, Carolina blue pants**, confirmed from the game broadcast. Virginia wore a navy helmet, navy jersey and white pants. **Final: Virginia 41, North Carolina 24.**
 
 **November 28 vs. NC State**, Kenan Stadium. Senior Day and the rivalry. Carolina blue expected.
 
@@ -133,7 +135,7 @@ The 1980 throwbacks debuted against East Tennessee State on September 12, and Ca
 
 **What did North Carolina wear against Notre Dame?**
 
-The 1980 throwbacks: powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants, confirmed from the broadcast on October 3. Notre Dame wore the gold helmet, white jersey and gold pants and won 37-26. A week later Carolina won 21-17 at Pitt on October 10 in the Carolina blue helmet, white jersey and Carolina blue pants to move to 3-2. Most recently, Carolina wore the Carolina blue helmet, Carolina blue jersey and white pants against Louisville on November 14, confirmed from the game broadcast, and lost 16-14. Next is a trip to Virginia on November 21, where white is expected.
+The 1980 throwbacks: powder blue helmet with the stairstep UNC, powder blue jersey with "Carolina" across the chest, white pants, confirmed from the broadcast on October 3. Notre Dame wore the gold helmet, white jersey and gold pants and won 37-26. A week later Carolina won 21-17 at Pitt on October 10 in the Carolina blue helmet, white jersey and Carolina blue pants to move to 3-2. Most recently, Carolina wore the Carolina blue helmet, white jersey and Carolina blue pants at Virginia on November 21, confirmed from the game broadcast, and lost 41-24. Next is NC State at Kenan Stadium on November 28, Senior Day, where Carolina blue is expected.
 
 **What are North Carolina's regular uniforms?**
 

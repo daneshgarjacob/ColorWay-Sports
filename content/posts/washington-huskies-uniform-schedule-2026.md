@@ -3,7 +3,7 @@ title: "Washington Huskies Uniform Schedule 2026: Every Jersey and When the Husk
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-21"
 excerpt: "Washington Huskies uniform schedule 2026: every jersey and uniform week by week, from purple home and white road to the new all-black Dawgs alternate."
 gradient: "linear-gradient(135deg, #4B2E83 0%, #3a2366 55%, #B7A57A 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["washington-huskies", "big-ten"]
 resurfaceOnUpdate: true
 ---
 
-**Update, November 18:** Washington will wear its **"Husky Heritage"** look against Indiana on Saturday: a **gold helmet with a purple and white center stripe** and DAWGS on the front bumper, a **purple jersey with white numbers** and **gold pants**, posted by the team Wednesday.
+**Update, November 21:** Washington wore its **"Husky Heritage"** look against Indiana, a **gold helmet with a purple and white center stripe**, a **purple jersey with white numbers** and **gold pants**, as posted by the team on November 18 and confirmed from the team's game photos, and upset the defending national champion **27-24 in overtime** on a Tyler Robles field goal. Indiana wore a crimson helmet, white jersey and white pants.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UW_Football/status/2123205949334925782"></a></blockquote>
@@ -81,7 +81,7 @@ See the [USC 2026 uniform schedule](/stories/usc-uniform-schedule-2026) for the 
 
 **November 14 at Michigan State.** White expected. Spartan Stadium, kickoff to be announced. **Worn: gold helmet, white jersey and purple pants**, confirmed from the game broadcast. **Final: Washington 21, Michigan State 14.**
 
-**November 21 vs. Indiana.** ★ Confirmed by Washington: **"Husky Heritage," a gold helmet with a purple and white center stripe and DAWGS on the front bumper, purple jersey with white numbers, gold pants**, posted November 18 as the "Game 11 Uniform." Salute to Service and Senior Day against the defending national champion, at 12:30 p.m. Pacific on Peacock. Last season Washington wore a one-off Honor and Support camouflage set for its Salute to Service game against Purdue. This year it is the standard purple and gold.
+**November 21 vs. Indiana.** ★ Confirmed by Washington: **"Husky Heritage," a gold helmet with a purple and white center stripe and DAWGS on the front bumper, purple jersey with white numbers, gold pants**, posted November 18 as the "Game 11 Uniform." Salute to Service and Senior Day against the defending national champion, at 12:30 p.m. Pacific on Peacock. Last season Washington wore a one-off Honor and Support camouflage set for its Salute to Service game against Purdue. This year it is the standard purple and gold. Worn as posted, confirmed from Washington's game photos. Indiana wore a crimson helmet, white jersey and white pants. **Final: Washington 27, Indiana 24 (OT).**
 
 **November 28 at Oregon.** White expected. The regular season ends at Autzen Stadium, and Oregon's home look is never certain until warmups. Our [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) tracks the Ducks.
 
@@ -93,7 +93,7 @@ Six games in, Washington has stayed close to the base set, with one big exceptio
 
 **What jersey is Washington wearing this week?**
 
-Washington wore the gold helmet, white jersey and purple pants at Michigan State on Saturday, November 14, confirmed from the game broadcast, and won 21-14. Next is Indiana at Husky Stadium on November 21, in the Husky Heritage look confirmed by the team on November 18: gold helmet, purple jersey and gold pants.
+Washington wore its Husky Heritage look against Indiana at Husky Stadium on Saturday, November 21: gold helmet, purple jersey and gold pants, as posted by the team on November 18 and confirmed from its game photos. It won 27-24 in overtime. Next is the regular season finale at Oregon on November 28, where white is expected.
 
 **What are Washington's football uniforms for 2026?**
 
