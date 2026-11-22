@@ -15,11 +15,9 @@ teams: ["dallas-cowboys", "detroit-lions", "chicago-bears", "green-bay-packers",
 
 **Eight Thanksgiving uniforms, one vote, and you pick the winner.** We chose eight of the best looks ever worn in an NFL Thanksgiving week game. Tap your favorite below. Voting is open until **Wednesday, November 25 at 11:59 p.m. ET**, and the winner is revealed on **Thanksgiving morning, Thursday, November 26**, a few hours before Bears at Lions kicks off.
 
-<div class="bkt"><p class="bkt-k">Giveaway Presented By BreakingT</p><h3>Vote And You Could Win Any BreakingT Shirt</h3><p>One voter wins any shirt they choose from BreakingT, and BreakingT ships it.</p><p><b>How to enter, November 20 to 26:</b></p><ul><li>Vote in the bracket on this page.</li><li>Follow us: <a href="https://www.tiktok.com/@colorway.sports" target="_blank" rel="noopener">@colorway.sports</a> on TikTok.</li><li>Tag a friend in the comments of any of our TikTok posts.</li></ul><p>Open to US residents only. No purchase necessary.</p><a class="bkt-btn" href="https://breakingt.com/collections/all?rfsn=9408677.d1e2b7" rel="sponsored noopener" target="_blank">See BreakingT's Shirts</a><p class="bkt-d">ColorWay Sports may earn a commission on BreakingT purchases made through our links.</p></div>
-
 ## Vote For Your Favorite Thanksgiving Uniform
 
-<style>.tgv-slot{scroll-margin-top:110px}.tgv-slot:empty{min-height:1250px}@media (min-width:640px){.tgv-slot:empty{min-height:700px}}.bkt{margin:1.75em 0;padding:18px 20px;border:2px solid #0025CC;border-radius:16px;background:#fff}.bkt-k{margin:0 0 6px;font-size:.8em;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#0025CC}.bkt h3{margin:0 0 8px;font-size:1.25em;line-height:1.25;color:#0b0b0f}.bkt p{margin:0 0 10px}.bkt ul{margin:0 0 14px;padding-left:1.3em;list-style:disc}.bkt li{margin:2px 0;list-style:disc}.prose .bkt a.bkt-btn{display:inline-block;padding:11px 20px;border-radius:999px;background:#0025CC;color:#fff;font-weight:800;text-decoration:none}.prose .bkt a.bkt-btn:hover{background:#001a99;color:#fff}.bkt-d{margin:12px 0 0;font-size:.8em;color:#6b7280}</style>
+<style>.tgv-slot{scroll-margin-top:110px}.tgv-slot:empty{min-height:1250px}@media (min-width:640px){.tgv-slot:empty{min-height:700px}}</style>
 <div id="vote" class="tgv-slot" data-cw-poll="tg26:favorite"></div>
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.5em 0 2em;">Photos via the teams: Cowboys 1960s Classic <a href="https://x.com/dallascowboys/status/1993428379585200234" target="_blank" rel="noopener">@dallascowboys</a>; Lions 1934 <a href="https://x.com/Lions/status/1993504228342694090" target="_blank" rel="noopener">@Lions</a>; Cowboys Double-Star white <a href="https://www.dallascowboys.com/news/cowbuzz-cowboys-unveil-new-colorrush-uniform-for-thanksgiving-day-game-393151" target="_blank" rel="noopener">Dallas Cowboys</a>; Bears orange <a href="https://www.chicagobears.com/photos/bears-in-orange-jerseys-through-the-years" target="_blank" rel="noopener">Chicago Bears</a>; Packers 1967 <a href="https://www.packers.com/photos/throwback-thursday-packers-showcase-alternate-uniforms" target="_blank" rel="noopener">Green Bay Packers</a>; Lions wolf gray <a href="https://x.com/Lions/status/1595609650124099585" target="_blank" rel="noopener">@Lions</a>; Panthers all blue <a href="https://www.panthers.com/photos/panthers-color-rush-uniforms-16333300" target="_blank" rel="noopener">Carolina Panthers</a>; Rams Fearsome White <a href="https://www.therams.com/photos/exclusive-photos-rams-fearsome-alternate-uniform-unveiled-2026" target="_blank" rel="noopener">Los Angeles Rams</a></p>
@@ -32,11 +30,7 @@ Every uniform here was actually worn in a Thanksgiving game, apart from the Rams
 - As soon as your vote is saved, you see each uniform's share of the vote.
 - **Voting closes Wednesday, November 25, 2026 at 11:59 p.m. ET.** The uniform with the most votes wins.
 
-**Win a shirt from BreakingT.** Every voter can enter our giveaway: one winner picks any shirt from <a href="https://breakingt.com/collections/all?rfsn=9408677.d1e2b7" rel="sponsored noopener" target="_blank">BreakingT</a>, and BreakingT ships it. How to enter is in the giveaway boxes at the top of this page and below.
-
 It is a fan vote, not an official ranking. The eight are our picks; the winner is yours.
-
-<div class="bkt"><p class="bkt-k">Giveaway Presented By BreakingT</p><h3>Enter The BreakingT Shirt Giveaway</h3><p>Follow <a href="https://www.tiktok.com/@colorway.sports" target="_blank" rel="noopener">@colorway.sports</a> on TikTok and tag a friend in the comments of any of our TikTok posts by November 26. One voter wins any BreakingT shirt they choose, shipped by BreakingT. US residents only. No purchase necessary.</p><a class="bkt-btn" href="https://breakingt.com/collections/all?rfsn=9408677.d1e2b7" rel="sponsored noopener" target="_blank">See BreakingT's Shirts</a><p class="bkt-d">ColorWay Sports may earn a commission on BreakingT purchases made through our links.</p></div>
 
 ## The Eight Uniforms
 
@@ -87,6 +81,10 @@ Left out, and fair to argue about: the Lions in all blue in 2024, the Steelers' 
 
 What all ten teams wear this year, game by game: [NFL Thanksgiving Uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026). Just the six Thanksgiving Day teams, helmet, jersey and pants: [What Every NFL Team Is Wearing On Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026). The history behind these looks, year by year: [Why Do NFL Teams Wear Throwback Uniforms On Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
 
+## One More Thing: A Free Shirt
+
+One person who comments their favorite Thanksgiving uniform on our TikTok, [@colorway.sports](https://www.tiktok.com/@colorway.sports), this week (through Thanksgiving, November 26) wins a free shirt from BreakingT. We pick the winner at random after Thanksgiving and message them on TikTok. Open to US residents only. No purchase necessary.
+
 ## FAQs
 
 **What is the best NFL Thanksgiving uniform ever?**
@@ -109,9 +107,9 @@ The 1934 throwback: a plain Honolulu blue jersey with silver numbers, silver pan
 
 Yes. Chicago wore orange throwbacks at Dallas on Thanksgiving 2004, honoring its 1933 and 1934 teams. Dallas won 21-7, and it is the last time the Bears wore orange on the road.
 
-**How do I enter the BreakingT shirt giveaway?**
+**How do I win the free BreakingT shirt?**
 
-Between November 20 and November 26, vote on this page, follow @colorway.sports on TikTok and tag a friend in the comments of any of our TikTok posts. One winner picks any shirt from BreakingT, and BreakingT ships it. US residents only.
+Comment your favorite Thanksgiving uniform on our TikTok, @colorway.sports, by Thanksgiving, November 26. We pick one winner at random after Thanksgiving and message them on TikTok. US residents only; no purchase necessary.
 
 **When is the winner announced?**
 

@@ -3,17 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import { isClosed, isMulti, optionPercents, pollFor, type OptionTally, type Poll, type PollOption } from "@/lib/votes/polls";
-import {
-  GIVEAWAY_ID,
-  TALLY_KEY,
-  VOTES_KEY,
-  anonId,
-  easternDayTime,
-  jumpToGiveaway,
-  readJSON,
-  votesWord,
-  writeJSON,
-} from "@/lib/votes/browser";
+import { TALLY_KEY, VOTES_KEY, anonId, easternDayTime, readJSON, votesWord, writeJSON } from "@/lib/votes/browser";
 
 // Pick-one-of-many fan vote ("Vote For Your Favorite Thanksgiving Uniform"),
 // filled into a placeholder the markdown writes:
@@ -97,7 +87,7 @@ const keysOf = (p: Poll) => (p.options ?? []).map((o) => o.key);
 
 const fullName = (o: PollOption) => `${o.team} ${o.look}`;
 
-function PollBox({ poll, options, giveaway }: { poll: Poll; options: PollOption[]; giveaway: boolean }) {
+function PollBox({ poll, options }: { poll: Poll; options: PollOption[] }) {
   const item = poll.id;
   const keys = keysOf(poll);
   const [mine, setMine] = useState<string | null>(null);
@@ -230,14 +220,6 @@ function PollBox({ poll, options, giveaway }: { poll: Poll; options: PollOption[
         </div>
         <div className="m-0 mt-1 text-[16px] leading-snug text-[#4b5563]">
           {status.t.closed ? `Voting is closed. ${votesWord(status.t.count)} in all.` : `${votesWord(status.t.count)} so far.`}
-          {!status.t.closed && giveaway && (
-            <>
-              {" "}
-              <a href={`#${GIVEAWAY_ID}`} onClick={jumpToGiveaway} className="font-bold text-orange underline underline-offset-2">
-                Enter the shirt giveaway
-              </a>
-            </>
-          )}
         </div>
       </div>
     );
@@ -378,7 +360,6 @@ type Slot = { el: HTMLElement; poll: Poll };
 
 export default function FavoriteVote() {
   const [slots, setSlots] = useState<Slot[]>([]);
-  const [giveaway, setGiveaway] = useState(false);
 
   useEffect(() => {
     const found: Slot[] = [];
@@ -386,12 +367,8 @@ export default function FavoriteVote() {
       const poll = pollFor(el.dataset.cwPoll);
       if (poll && isMulti(poll)) found.push({ el, poll });
     });
-    const hasGiveaway = !!document.getElementById(GIVEAWAY_ID);
-    Promise.resolve().then(() => {
-      setSlots(found);
-      setGiveaway(hasGiveaway);
-    });
+    Promise.resolve().then(() => setSlots(found));
   }, []);
 
-  return <>{slots.map((s) => createPortal(<PollBox poll={s.poll} options={s.poll.options ?? []} giveaway={giveaway} />, s.el, s.poll.id))}</>;
+  return <>{slots.map((s) => createPortal(<PollBox poll={s.poll} options={s.poll.options ?? []} />, s.el, s.poll.id))}</>;
 }

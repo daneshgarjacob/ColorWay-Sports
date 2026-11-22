@@ -5,8 +5,6 @@
 export const VOTES_KEY = "cw-votes-v1"; // { [item]: choice } ("A"/"B" or an option key)
 export const TALLY_KEY = "cw-vote-tallies-v1"; // { [item]: last tally this browser saw }
 export const ANON_KEY = "cw-anon-id"; // shared with Grade It: a random UUID, nothing else
-export const GIVEAWAY_ID = "enter-the-breakingt-shirt-giveaway"; // h3 id the post's giveaway box gets
-export const HEADER_OFFSET = 110; // matches the vote placeholders' scroll-margin-top
 
 export function readJSON(key: string): Record<string, unknown> {
   try {
@@ -55,14 +53,4 @@ export function easternDayTime(iso: string): { day: string; date: string; time: 
     .replace(/\s?AM$/, " a.m.")
     .replace(/\s?PM$/, " p.m.");
   return { day, date, time };
-}
-
-/** Scroll to the giveaway box (the .bkt around the giveaway h3), under the sticky header. */
-export function jumpToGiveaway(e: { preventDefault(): void }) {
-  const target = document.getElementById(GIVEAWAY_ID);
-  if (!target) return;
-  e.preventDefault();
-  const box = (target.closest(".bkt") as HTMLElement | null) ?? target;
-  window.scrollTo({ top: box.getBoundingClientRect().top + window.scrollY - HEADER_OFFSET, behavior: "smooth" });
-  history.replaceState(null, "", `#${GIVEAWAY_ID}`);
 }
