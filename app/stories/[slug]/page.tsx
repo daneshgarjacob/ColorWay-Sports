@@ -13,6 +13,7 @@ import StorySidebar from "@/components/StorySidebar";
 import ReadingProgress from "@/components/ReadingProgress";
 import ImageZoom from "@/components/ImageZoom";
 import BracketVote from "@/components/BracketVote";
+import FavoriteVote from "@/components/FavoriteVote";
 import TrackerJumpNav, { type JumpNavItem } from "@/components/TrackerJumpNav";
 import TrackerSearch from "@/components/TrackerSearch";
 import TrackerTeamIndex from "@/components/TrackerTeamIndex";
@@ -760,6 +761,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             <InstagramEmbed />
             {/* Fan vote placeholders (lib/votes/polls.ts); only posts that have them load it. */}
             {[articleTop, articleAfterGrid, bodyRest].some((h) => h?.includes("data-cw-vote")) && <BracketVote />}
+            {[articleTop, articleAfterGrid, bodyRest].some((h) => h?.includes("data-cw-poll")) && <FavoriteVote />}
           </>
         )}
 

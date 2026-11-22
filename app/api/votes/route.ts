@@ -1,11 +1,15 @@
 import { NextResponse, type NextRequest } from "next/server";
-import { isChoice, isClosed, pollFor, type Poll, type VoteTally } from "@/lib/votes/polls";
-import { voteStore, type Counts } from "@/lib/votes/store";
+import { isChoice, isClosed, isMulti, isOptionOf, pollFor, type OptionTally, type Poll, type VoteTally } from "@/lib/votes/polls";
+import { voteStore, type Counts, type OptionCounts } from "@/lib/votes/store";
 
-// Fan vote API (components/BracketVote.tsx), modeled on app/api/grades.
+// Fan vote API (components/BracketVote.tsx, components/FavoriteVote.tsx), modeled on app/api/grades.
 //
 //   GET  /api/votes?item=tg26:r1-m1        -> the tally, CDN-cached a minute
 //   POST /api/votes {item, choice, anon}    -> record this browser's vote (first wins), return the tally
+//
+// Head-to-head polls take choice "A" or "B" and answer {item, count, a, b, closed}.
+// Pick-one-of-many polls (lib/votes/polls.ts `options`) take an option key as
+// the choice and answer {item, count, counts: {key: n}, closed}.
 //
 // Readers who never tap never hit this route. No store configured in
 // production = 503 and the control fails soft (see lib/votes/store.ts).
@@ -17,7 +21,7 @@ const MAX_BODY = 512;
 const BOT_UA = /bot|crawl|spider|slurp|fetch|headless|curl|wget|python|preview/i;
 
 // Per-IP rate limit, in memory (per serverless instance; blunts a loop, not a
-// security boundary). Four matchups a round, so 20 a minute is plenty.
+// security boundary). A reader casts at most a handful, so 20 a minute is plenty.
 const WINDOW_MS = 60_000;
 const MAX_PER_WINDOW = 20;
 const hits = new Map<string, { n: number; reset: number }>();
@@ -55,7 +59,14 @@ const failed = () =>
 
 const tally = (poll: Poll, c: Counts): VoteTally => ({ item: poll.id, count: c.a + c.b, a: c.a, b: c.b, closed: isClosed(poll) });
 
-const ok = (t: VoteTally, cache: string) => NextResponse.json(t, { headers: { "Cache-Control": cache } });
+// Every option key is present (0 when it has no votes); stray keys are never counted.
+const optionTally = (poll: Poll, c: OptionCounts): OptionTally => {
+  const counts: Record<string, number> = {};
+  for (const o of poll.options ?? []) counts[o.key] = c[o.key] ?? 0;
+  return { item: poll.id, count: Object.values(counts).reduce((s, n) => s + n, 0), counts, closed: isClosed(poll) };
+};
+
+const ok = (t: VoteTally | OptionTally, cache: string) => NextResponse.json(t, { headers: { "Cache-Control": cache } });
 
 export async function GET(request: NextRequest) {
   const poll = pollFor(request.nextUrl.searchParams.get("item"));
@@ -63,7 +74,9 @@ export async function GET(request: NextRequest) {
   const store = voteStore();
   if (!store) return unavailable();
   try {
-    return ok(tally(poll, await store.get(poll.id)), "public, s-maxage=60, stale-while-revalidate=300");
+    const cache = "public, s-maxage=60, stale-while-revalidate=300";
+    if (isMulti(poll)) return ok(optionTally(poll, await store.getOptions(poll.id)), cache);
+    return ok(tally(poll, await store.get(poll.id)), cache);
   } catch (e) {
     console.log(`[Votes] GET ${poll.id} failed: ${(e as Error).message}`);
     return failed();
@@ -88,12 +101,22 @@ export async function POST(request: NextRequest) {
   }
   const poll = pollFor(body.item);
   if (!poll) return bad("Unknown item.", 404);
-  if (!isChoice(body.choice)) return bad("Choice must be A or B.");
+  const multi = isMulti(poll);
+  if (multi ? !isOptionOf(poll, body.choice) : !isChoice(body.choice)) {
+    return bad(multi ? "Unknown choice." : "Choice must be A or B.");
+  }
   if (typeof body.anon !== "string" || !UUID.test(body.anon)) return bad("Missing browser id.");
 
   const store = voteStore();
   if (!store) return unavailable();
   try {
+    if (multi) {
+      const anon = body.anon.toLowerCase();
+      const key = body.choice as string;
+      if (isClosed(poll)) return ok(optionTally(poll, await store.getOptions(poll.id)), "no-store");
+      return ok(optionTally(poll, await store.castOption(poll.id, anon, key)), "no-store");
+    }
+    if (!isChoice(body.choice)) return bad("Choice must be A or B.");
     if (isClosed(poll)) return ok(tally(poll, await store.get(poll.id)), "no-store");
     return ok(tally(poll, await store.cast(poll.id, body.anon.toLowerCase(), body.choice)), "no-store");
   } catch (e) {

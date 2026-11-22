@@ -2,12 +2,13 @@
 // table). One row per (item, anonymous browser id); the FIRST vote counts and
 // a repeat from the same browser id is ignored (ON CONFLICT DO NOTHING).
 //
-//   DATABASE_URL set            -> Neon Postgres, table `votes`
+//   DATABASE_URL set            -> Neon Postgres, table `votes` (A/B polls)
+//                                  and table `poll_votes` (pick-one-of-many polls)
 //   not set, development        -> .data/votes.json (gitignored)
 //   not set, production         -> no store: the API answers 503 and the
 //                                  control says site votes are coming soon.
 //
-// The table is created on first use (same DDL as lib/votes/schema.sql).
+// The tables are created on first use (same DDL as lib/votes/schema.sql).
 
 import fs from "node:fs/promises";
 import { neon } from "@neondatabase/serverless";
@@ -15,11 +16,16 @@ import path from "node:path";
 import type { Choice } from "./polls";
 
 export type Counts = { a: number; b: number };
+/** Votes per option key, for a pick-one-of-many poll (only keys that have votes). */
+export type OptionCounts = Record<string, number>;
 
 export interface VoteStore {
   /** Record one browser's vote (first vote wins), then return the counts. */
   cast(item: string, anonId: string, choice: Choice): Promise<Counts>;
   get(item: string): Promise<Counts>;
+  /** Pick-one-of-many: record one browser's vote for an option key (first vote wins). The API checks the key. */
+  castOption(item: string, anonId: string, key: string): Promise<OptionCounts>;
+  getOptions(item: string): Promise<OptionCounts>;
 }
 
 // ---------- Neon ----------
@@ -33,6 +39,14 @@ const DDL = [
     PRIMARY KEY (item, anon_id)
   )`,
   `CREATE INDEX IF NOT EXISTS votes_item_idx ON votes (item)`,
+  `CREATE TABLE IF NOT EXISTS poll_votes (
+    item text NOT NULL,
+    anon_id text NOT NULL,
+    choice text NOT NULL,
+    created_at timestamptz NOT NULL DEFAULT now(),
+    PRIMARY KEY (item, anon_id)
+  )`,
+  `CREATE INDEX IF NOT EXISTS poll_votes_item_idx ON poll_votes (item)`,
 ];
 
 function neonStore(url: string): VoteStore {
@@ -62,6 +76,17 @@ function neonStore(url: string): VoteStore {
     return c;
   };
 
+  const optionCountsFor = async (item: string): Promise<OptionCounts> => {
+    await init();
+    const rows = (await q.query("SELECT choice, count(*)::int AS n FROM poll_votes WHERE item = $1 GROUP BY choice", [item])) as {
+      choice: string;
+      n: number;
+    }[];
+    const c: OptionCounts = {};
+    for (const r of rows) c[r.choice] = r.n;
+    return c;
+  };
+
   return {
     async cast(item, anonId, choice) {
       await init();
@@ -72,12 +97,23 @@ function neonStore(url: string): VoteStore {
       return countsFor(item);
     },
     get: countsFor,
+    async castOption(item, anonId, key) {
+      await init();
+      await q.query(
+        `INSERT INTO poll_votes (item, anon_id, choice) VALUES ($1, $2, $3) ON CONFLICT (item, anon_id) DO NOTHING`,
+        [item, anonId, key]
+      );
+      return optionCountsFor(item);
+    },
+    getOptions: optionCountsFor,
   };
 }
 
 // ---------- Local JSON file (development only) ----------
 
-type FileShape = Record<string, Record<string, { choice: Choice; createdAt: string }>>;
+// One file for both kinds of poll (item ids never overlap): choice is "A"/"B"
+// for a head-to-head poll and an option key for a pick-one-of-many poll.
+type FileShape = Record<string, Record<string, { choice: string; createdAt: string }>>;
 
 function fileStore(): VoteStore {
   const dir = path.join(process.cwd(), ".data");
@@ -95,7 +131,23 @@ function fileStore(): VoteStore {
       return {};
     }
   };
-  const countsOf = (rows: Record<string, { choice: Choice }> = {}): Counts => {
+  const optionCountsOf = (rows: Record<string, { choice: string }> = {}): OptionCounts => {
+    const c: OptionCounts = {};
+    for (const r of Object.values(rows)) c[r.choice] = (c[r.choice] ?? 0) + 1;
+    return c;
+  };
+  const record = (item: string, anonId: string, choice: string) =>
+    locked(async () => {
+      const all = await read();
+      const rows = (all[item] ??= {});
+      if (!rows[anonId]) {
+        rows[anonId] = { choice, createdAt: new Date().toISOString() };
+        await fs.mkdir(dir, { recursive: true });
+        await fs.writeFile(file, JSON.stringify(all, null, 1));
+      }
+      return rows;
+    });
+  const countsOf = (rows: Record<string, { choice: string }> = {}): Counts => {
     const c: Counts = { a: 0, b: 0 };
     for (const r of Object.values(rows)) {
       if (r.choice === "A") c.a += 1;
@@ -105,18 +157,10 @@ function fileStore(): VoteStore {
   };
 
   return {
-    cast: (item, anonId, choice) =>
-      locked(async () => {
-        const all = await read();
-        const rows = (all[item] ??= {});
-        if (!rows[anonId]) {
-          rows[anonId] = { choice, createdAt: new Date().toISOString() };
-          await fs.mkdir(dir, { recursive: true });
-          await fs.writeFile(file, JSON.stringify(all, null, 1));
-        }
-        return countsOf(rows);
-      }),
+    cast: async (item, anonId, choice) => countsOf(await record(item, anonId, choice)),
     get: async (item) => countsOf((await read())[item]),
+    castOption: async (item, anonId, key) => optionCountsOf(await record(item, anonId, key)),
+    getOptions: async (item) => optionCountsOf((await read())[item]),
   };
 }
 
