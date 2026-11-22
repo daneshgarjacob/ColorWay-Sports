@@ -94,6 +94,7 @@ We will update this page as each team posts its game-week uniform, and the [2026
 ## More For Thanksgiving Week
 
 - **Just the six Thanksgiving Day teams**, helmet, jersey and pants in one table: [What Every NFL Team Is Wearing On Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026).
+- **Why teams wear throwbacks on the holiday**, year by year from 1994 to now: [Why Do NFL Teams Wear Throwback Uniforms On Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
 - **Vote for the best Thanksgiving uniform ever** in our eight-look fan bracket, with the winner revealed Thanksgiving morning: [Best NFL Thanksgiving Uniforms Ever](/stories/best-nfl-thanksgiving-uniforms-bracket-2026).
 - **College football's Rivalry Week** is the same weekend: the Egg Bowl and Texas at Texas A&M on Friday, then the Iron Bowl, The Game and the rest on Saturday. Every matchup and both uniforms are in our [College Football Rivalry Week Uniforms 2026](/stories/college-football-rivalry-week-uniforms-2026) guide.
 - **The why stories:** [Why the Lions wear Honolulu blue](/stories/why-do-the-lions-wear-honolulu-blue), [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home), [what color the Cowboys' pants really are](/stories/what-color-are-the-cowboys-pants) and [how every NFL team got its colors](/stories/how-every-nfl-team-got-its-colors). The full shelf is on our [Explained](/explained) page.

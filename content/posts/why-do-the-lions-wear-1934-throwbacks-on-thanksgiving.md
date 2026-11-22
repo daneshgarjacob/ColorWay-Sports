@@ -182,6 +182,7 @@ In 1935, their second season in Detroit, beating the Giants 26-7 on December 15,
 ## More Lions And Thanksgiving Coverage
 
 - [What are the Lions wearing on Thanksgiving 2026?](/stories/lions-bears-thanksgiving-uniforms-2026)
+- [Why do NFL teams wear throwback uniforms on Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving): every holiday throwback, Lions and Cowboys included
 - [Why do the Lions wear Honolulu blue?](/stories/why-do-the-lions-wear-honolulu-blue)
 - [Best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026)
 - [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026): all five holiday-week games

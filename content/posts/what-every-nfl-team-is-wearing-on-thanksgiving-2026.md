@@ -121,6 +121,7 @@ All six teams wear the round [John Madden Thanksgiving patch](/stories/john-madd
 - **The whole holiday week**, including the Rams' Fearsome White on Thanksgiving Eve and the Steelers-Broncos game on Black Friday: [NFL Thanksgiving Uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026).
 - **Vote for the best Thanksgiving uniform ever**, with the winner revealed Thanksgiving morning: [Best NFL Thanksgiving Uniforms Bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026).
 - **Why Detroit's throwback belongs on this day:** [Why Do The Lions Wear 1934 Throwback Uniforms On Thanksgiving?](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving)
+- **Every Thanksgiving throwback, 1994 to now:** [Why Do NFL Teams Wear Throwback Uniforms On Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
 - **What actually gets worn** goes in the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) after each game.
 
 ## Frequently Asked Questions

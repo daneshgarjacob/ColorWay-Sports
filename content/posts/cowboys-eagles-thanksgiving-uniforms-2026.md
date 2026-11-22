@@ -122,6 +122,7 @@ Yes. The NFL confirmed on November 19, 2026 that every player in the three Thank
 ## More Thanksgiving Week Uniforms
 
 - [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026): all five games
+- [Why do NFL teams wear throwback uniforms on Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving): the Cowboys' 1960s look from 2004, the helmet-rule years and every other holiday throwback
 - [What the Rams are wearing against the Packers on Thanksgiving Eve](/stories/packers-rams-thanksgiving-eve-uniforms-2026)
 - [What the Lions are wearing against the Bears](/stories/lions-bears-thanksgiving-uniforms-2026)
 - [What the Bills are wearing against the Chiefs](/stories/bills-chiefs-thanksgiving-uniforms-2026)
