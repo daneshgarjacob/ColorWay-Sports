@@ -185,6 +185,7 @@ In 1935, their second season in Detroit, beating the Giants 26-7 on December 15,
 - [Why do the Lions wear Honolulu blue?](/stories/why-do-the-lions-wear-honolulu-blue)
 - [Best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026)
 - [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026): all five holiday-week games
+- [What every NFL team is wearing on Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026): all six Thursday uniforms in one table
 - [Detroit Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026)
 - [Every Lions jersey ranked](/stories/lions-jerseys-2026-ranked)
 

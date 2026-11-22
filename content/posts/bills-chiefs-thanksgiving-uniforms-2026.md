@@ -55,7 +55,7 @@ Kansas City has worn white on the road all season except at Miami in Week 3, whe
 
 ## Everything Else Thanksgiving Week
 
-Packers at Rams opens the week on Wednesday night, Bears at Lions and Eagles at Cowboys come before this game on Thursday, and Broncos at Steelers closes it on Black Friday. All five are in our [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) guide, and we log what both teams actually wear in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026). For the colors themselves: [how every NFL team got its colors](/stories/how-every-nfl-team-got-its-colors).
+Packers at Rams opens the week on Wednesday night, Bears at Lions and Eagles at Cowboys come before this game on Thursday, and Broncos at Steelers closes it on Black Friday. All five are in our [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) guide, and we log what both teams actually wear in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026). All six Thanksgiving Day uniforms in one table: [what every NFL team is wearing on Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026). For the colors themselves: [how every NFL team got its colors](/stories/how-every-nfl-team-got-its-colors).
 
 ## Frequently Asked Questions
 

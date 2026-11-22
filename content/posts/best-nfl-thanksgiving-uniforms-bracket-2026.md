@@ -110,7 +110,7 @@ Left out, and fair to argue about: the Lions in all blue in 2024, the Steelers' 
 - **Sunday, November 22:** semifinal matchups, with the Round 1 vote totals, posted on this page.
 - **Thursday, November 26:** the final, and the winner, on Thanksgiving morning.
 
-What all ten teams wear this year, game by game: [NFL Thanksgiving Uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026).
+What all ten teams wear this year, game by game: [NFL Thanksgiving Uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026). Just the six Thanksgiving Day teams, helmet, jersey and pants: [What Every NFL Team Is Wearing On Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026).
 
 ## FAQs
 
