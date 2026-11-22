@@ -3,7 +3,7 @@ title: "Wake Forest Uniform Schedule 2026: Every Jersey and When the Demon Deaco
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-17"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-22"
 excerpt: "What Wake Forest wears every game in 2026: the black home jersey, the white road set, the gold pants, and the full Demon Deacons uniform schedule."
 gradient: "linear-gradient(135deg, #000000 0%, #2b2b2b 55%, #9E7E38 130%)"
 cardStyle: words
@@ -94,7 +94,7 @@ Wake Forest also asked the stands to match the uniform. A blackout is a fan them
 
 **November 14 at SMU.** White expected. **Worn: shiny gold helmet, white jersey, white pants**, confirmed from the game broadcast. **Final: Wake Forest 49, SMU 7.**
 
-**November 21 at Georgia Tech.** White expected at Bobby Dodd Stadium, with Georgia Tech in gold. Another shared palette matchup, and our [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026) has the home side. **Worn: black helmet with the gold WF, black jersey, black pants**, confirmed from the game broadcast, so Wake Forest kept its black jersey on the road because Georgia Tech wore white. **Final: Wake Forest 50, Georgia Tech 29.**
+**November 21 at Georgia Tech.** White expected at Bobby Dodd Stadium, with Georgia Tech in gold. Another shared palette matchup, and our [Georgia Tech 2026 uniform schedule](/stories/georgia-tech-uniform-schedule-2026) has the home side. **Worn: black helmet with the gold WF, black jersey, black pants**, confirmed from the game broadcast, so Wake Forest kept its black jersey on the road because Georgia Tech wore white. **Final: Wake Forest 50, Georgia Tech 29.** [Why Wake wore all black on the road, and every all-black game this season](/stories/wake-forest-all-black-uniforms-georgia-tech-2026).
 
 **November 28 vs. Duke.** Black expected. The regular season finale and Senior Day in Winston-Salem. Duke is expected in white, per our [Duke 2026 uniform schedule](/stories/duke-uniform-schedule-2026).
 

@@ -15,6 +15,8 @@ teams: ["detroit-red-wings"]
 
 The Detroit Red Wings open 2026-27 at Little Caesars Arena on Friday, October 2 against the New York Rangers. This is the full Red Wings uniform schedule: every sweater in the closet, what each one is for, and a game-by-game record of when it goes on the ice.
 
+**Update, November 21:** Detroit wore the Centennial sweater for the third time this season against the Islanders and lost 3-2, so the Red Wings are 1-2 in it. [Every Centennial game this season and what we know about the dates left](/stories/red-wings-centennial-sweater-record-islanders-2026).
+
 We build these before the season rather than after it, so the closet is here from day one and the dates fill in as they are announced. Third jerseys and any one-off specials get added here as Red Wings announce them. The NHL schedules its alternates in blocks rather than all at once, so this page changes through the autumn.
 
 

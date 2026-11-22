@@ -43,7 +43,9 @@ Ottawa's centurion crest is done in brushed metallic gold on a black body. The s
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Senators/status/2117301460132106499"></a></blockquote>
 </div>
 
-It debuted Thursday, Nov. 12 against the Colorado Avalanche, the first of nine Remix games. We have not confirmed the other eight dates yet and will add them here, and in the game log below, once we do. Before the debut, read [what the Remix jersey looks like and what Colorado wears against it](/stories/senators-hometown-remix-debut-vs-avalanche-2026).
+**Update, Nov. 21:** the Remix came back, unannounced, against the LA Kings, and Ottawa won 4-2 to go 2-0 in it. [Why the Senators wore black and gold Saturday, and how many Remix nights are left](/stories/senators-black-and-gold-hometown-remix-kings-2026).
+
+It debuted Thursday, Nov. 12 against the Colorado Avalanche, the first of nine Remix games. We have not confirmed the other seven dates yet and will add them here, and in the game log below, once we do. Before the debut, read [what the Remix jersey looks like and what Colorado wears against it](/stories/senators-hometown-remix-debut-vs-avalanche-2026).
 
 **Our ranking: No. 26 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 

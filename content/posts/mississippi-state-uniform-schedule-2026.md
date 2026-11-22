@@ -3,7 +3,7 @@ title: "Mississippi State Uniform Schedule 2026: Every Jersey and When the Bulld
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-22"
 excerpt: "Mississippi State's 2026 uniform schedule: every jersey, helmet and combination the Bulldogs wear, maroon home, white road, the interlocking MSU helmet, week by week."
 gradient: "linear-gradient(135deg, #660000 0%, #7a1c1c 55%, #c9c9c9 130%)"
 cardStyle: words
@@ -68,13 +68,13 @@ The big change for 2026 is on the side of the helmet. In 2025 Mississippi State 
 
 **October 24 vs. Oklahoma.** Maroon expected. The Sooners visit in white, per our [Oklahoma 2026 uniform schedule](/stories/oklahoma-uniform-schedule-2026). **Worn: black helmet with the State script and black jersey**, confirmed from the team's locker photo and Oklahoma's game photos, instead of the maroon we expected. Oklahoma wore a crimson helmet, white jersey and white pants. **Final: Oklahoma 23, Mississippi State 15.**
 
-**October 31 at Texas.** White expected. Halloween in Austin, with Texas in burnt orange at home, per our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026).
+**October 31 at Texas.** White expected. Halloween in Austin, with Texas in burnt orange at home, per our [Texas 2026 uniform schedule](/stories/texas-uniform-schedule-2026). **Worn: white helmet, white jersey, white pants**, confirmed from Mississippi State's game photos. **Final: Texas 31, Mississippi State 3.**
 
 **November 7 vs. Vanderbilt.** Maroon expected. **Worn: maroon helmet, maroon jersey, white pants**, confirmed from the game broadcast. **Final: Vanderbilt 25, Mississippi State 23.**
 
 **November 14 vs. Auburn.** Maroon expected. Auburn arrives in white, per our [Auburn 2026 uniform schedule](/stories/auburn-uniform-schedule-2026). **Worn: maroon helmet, maroon jersey, gray pants**, confirmed from the game broadcast. **Final: Auburn 41, Mississippi State 9.**
 
-**November 21 vs. Tennessee Tech.** Maroon expected. The final home game and a 1 p.m. Eastern kickoff against an FCS opponent. **Worn: white helmet with the interlocking MSU, maroon jersey, white pants**, confirmed from the game broadcast. Tennessee Tech wore white. **Final: Mississippi State 34, Tennessee Tech 16.**
+**November 21 vs. Tennessee Tech.** Maroon expected. The final home game and a 1 p.m. Eastern kickoff against an FCS opponent. **Worn: white helmet with the interlocking MSU, maroon jersey, white pants**, confirmed from the game broadcast. Tennessee Tech wore white. **Final: Mississippi State 34, Tennessee Tech 16.** It is the first time this season the white helmet has gone with the maroon jersey. [The full story and every Bulldogs uniform of 2026](/stories/mississippi-state-white-helmet-maroon-jersey-tennessee-tech-2026).
 
 **November 27 at Ole Miss.** White expected. The Egg Bowl is in Oxford on the Friday after Thanksgiving, a noon Eastern kickoff on ABC. Ole Miss wears its home color, per our [Ole Miss 2026 uniform schedule](/stories/ole-miss-uniform-schedule-2026), so the Bulldogs are in white.
 
