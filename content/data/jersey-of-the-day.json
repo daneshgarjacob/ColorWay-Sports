@@ -983,6 +983,49 @@
     }
    ],
    "shopQuery": "Florida State Seminoles football jersey"
+  },
+  "2026-11-22": {
+   "team": "Buffalo Bills",
+   "teamShort": "Bills",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Cold Front, Rivalries uniform (home)",
+   "jerseyName": "White Metal-Flake Helmet, White Jersey, White Pants",
+   "colorwayGrade": "A",
+   "image": "/images/jersey-of-the-day/bills-cold-front-2026-11-22.jpg",
+   "imageAlt": "Josh Allen in the Bills' Cold Front uniform during warmups against the Dolphins: white metal-flake helmet, white BUFFALO jersey with frosted silver numbers outlined in royal blue, white pants",
+   "imagePosition": "center 20%",
+   "credit": {
+    "text": "Buffalo Bills",
+    "url": "https://x.com/BuffaloBills/status/2124560279153627567",
+    "license": "via the team"
+   },
+   "tweet": {
+    "url": "https://x.com/BuffaloBills/status/2124560279153627567",
+    "label": "Cold Front in warmups, from the Bills"
+   },
+   "worn": {
+    "date": "2026-11-22",
+    "matchup": "vs. Miami, 1:00 p.m. ET on CBS",
+    "status": "Confirmed",
+    "note": "Worn as scheduled, confirmed from the Bills' own pregame and first-half photos: the white metal-flake helmet, the white BUFFALO jersey and white pants. Miami wore aqua jerseys. It was Buffalo's Salute to Service game and the only Cold Front date of 2026."
+   },
+   "why": "The best idea in the Rivalries program, a cold-weather team dressed like the weather, and Buffalo only wears it once this season.",
+   "whyPlaceholder": true,
+   "story": "The Bills wore Cold Front, their all-white Rivalries uniform, against the Dolphins on Sunday at Highmark Stadium: a white helmet with a metal-flake finish and a cracked-ice center stripe, a white BUFFALO jersey with frosted silver numbers outlined in royal blue, and white pants. It was Buffalo's Salute to Service game and the only Cold Front date of 2026, and Miami wore aqua. We graded it an A.",
+   "scheduleSlug": "bills-uniform-schedule-2026",
+   "scheduleLabel": "Bills 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "bills-cold-front-uniform-dolphins-salute-to-service-2026",
+     "label": "Every detail of the Bills' Cold Front uniform"
+    },
+    {
+     "slug": "special-uniforms-this-weekend-nov-20-23-2026",
+     "label": "Every special uniform this weekend"
+    }
+   ],
+   "shopQuery": "Buffalo Bills Cold Front jersey"
   }
  }
 }

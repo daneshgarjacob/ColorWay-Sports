@@ -2,7 +2,7 @@
 title: "Cowboys Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-22"
 excerpt: "Dallas Cowboys jersey schedule 2026: white ten times, navy three, the all-white Color Rush three, plus the Thanksgiving Classic vs. Philadelphia. Week by week."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
@@ -16,6 +16,8 @@ teams: ["dallas-cowboys"]
 ---
 
 The Cowboys published their full 2026 uniform schedule on Wednesday, September 2, and it confirms the thing this page has argued from the start: Dallas is a white-jersey team. **White goes ten times**, at home by choice and on the road because the host almost always picks dark and leaves the visitor in white. The **navy primary gets three road dates**, each one a trip to a host that wears white at home. The **all-white Color Rush goes three times**, including a Monday night in Philadelphia. And the **Thanksgiving Classic is official**, Week 12 against the Eagles on November 26. Here is the whole schedule, game by game, with the seven dates that are not plain white marked.
+
+**Update, November 22:** Week 11 against Tennessee (1:00 p.m. ET, FOX) is the white jersey as published, confirmed from the Cowboys' own photos from the game: **silver star helmet, white jersey and silver-green pants**. The Titans are in light blue over light blue. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
 
 Want them graded instead? Here is [every Dallas Cowboys jersey ranked](/stories/cowboys-jerseys-2026-ranked), worst to best.
 
@@ -127,11 +129,11 @@ The Cowboys' two silvers and two blues have never matched each other. The full s
 
 **What jersey are the Cowboys wearing today?**
 
-Week 10 against San Francisco, November 15, worn: white jersey and silver pants under the silver star helmet, which has a red, white and navy center stripe on this Salute to Service weekend instead of the usual blue and white, confirmed from the team's game-day photos. The 49ers wore their red 1994 throwback and won 46-40. We grade the matchup an A-. This answer updates every week. For the rest of the season: White in ten of the seventeen games, and the team has published the full list. The exceptions are navy at Houston in Week 4, at Indianapolis in Week 9 and at the Rams in Week 15; the all-white Color Rush against Washington in Week 2, at Philadelphia in Week 7 and against Jacksonville in Week 16; and the Thanksgiving Classic against the Eagles in Week 12. The week-by-week grid above has every date.
+Week 10 against San Francisco, November 15, worn: white jersey and silver pants under the silver star helmet, which has a red, white and navy center stripe on this Salute to Service weekend instead of the usual blue and white, confirmed from the team's game-day photos. The 49ers wore their red 1994 throwback and won 46-40. We grade the matchup an A-. This answer updates every week. Week 11 against Tennessee, today, November 22, wearing: silver star helmet, white jersey and silver-green pants, confirmed from the team's game photos. The Titans are in light blue over light blue. For the rest of the season: White in ten of the seventeen games, and the team has published the full list. The exceptions are navy at Houston in Week 4, at Indianapolis in Week 9 and at the Rams in Week 15; the all-white Color Rush against Washington in Week 2, at Philadelphia in Week 7 and against Jacksonville in Week 16; and the Thanksgiving Classic against the Eagles in Week 12. The week-by-week grid above has every date.
 
 **What jerseys are the Cowboys wearing this week?**
 
-Week 10 against San Francisco, November 15, worn: white jersey and silver pants under the silver star helmet, which has a red, white and navy center stripe on this Salute to Service weekend instead of the usual blue and white, confirmed from the team's game-day photos. The 49ers wore their red 1994 throwback and won 46-40. We grade the matchup an A-. For the rest of the season: White in ten of the seventeen games, and the team has published the full list. The exceptions are navy at Houston in Week 4, at Indianapolis in Week 9 and at the Rams in Week 15; the all-white Color Rush against Washington in Week 2, at Philadelphia in Week 7 and against Jacksonville in Week 16; and the Thanksgiving Classic against the Eagles in Week 12. The week-by-week grid above has every date.
+Week 10 against San Francisco, November 15, worn: white jersey and silver pants under the silver star helmet, which has a red, white and navy center stripe on this Salute to Service weekend instead of the usual blue and white, confirmed from the team's game-day photos. The 49ers wore their red 1994 throwback and won 46-40. We grade the matchup an A-. Week 11 against Tennessee, today, November 22, wearing: silver star helmet, white jersey and silver-green pants, confirmed from the team's game photos. The Titans are in light blue over light blue. For the rest of the season: White in ten of the seventeen games, and the team has published the full list. The exceptions are navy at Houston in Week 4, at Indianapolis in Week 9 and at the Rams in Week 15; the all-white Color Rush against Washington in Week 2, at Philadelphia in Week 7 and against Jacksonville in Week 16; and the Thanksgiving Classic against the Eagles in Week 12. The week-by-week grid above has every date.
 
 **What uniform did the Cowboys wear last week?**
 

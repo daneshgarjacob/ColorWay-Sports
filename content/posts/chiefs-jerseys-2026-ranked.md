@@ -2,7 +2,7 @@
 title: "Every Kansas City Chiefs Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-10-13"
+updatedDate: "2026-11-22"
 excerpt: "Kansas City Chiefs jerseys 2026, ranked: red at home and white on the road, both graded, with the helmet, pants and every date each one is worn."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 author: "colorway-sports-staff"
@@ -27,7 +27,7 @@ Here are both Kansas City Chiefs jerseys for 2026, ranked and graded, with the h
 
 <div style="display: flex; justify-content: center; margin: 1.2em 0 1.8em;"><div style="background: #ececf0; border-radius: 12px; padding: 14px; max-width: 320px; width: 100%; box-sizing: border-box; text-align: center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-white-road.jpg" alt="Kansas City Chiefs White Road jersey 2026" style="max-height: 300px; max-width: 100%; object-fit: contain;" loading="lazy" /></div></div>
 
-The white road jersey has red numbers, red and gold sleeve stripes and the AFL patch on the chest, worn with red pants under the red arrowhead helmet. It projects to all nine road games: at the Dolphins, Raiders, Seahawks, Broncos, Falcons, Bills, Rams, Bengals and Chargers. The two to circle are back to back: Thanksgiving night at Buffalo on Thursday, November 26, and the following Thursday at the Rams on December 3, where Kansas City is the plain half of the frame against Buffalo's royal blue and the Rams' gold Classic Sol.
+The white road jersey has red numbers, red and gold sleeve stripes and the AFL patch on the chest, usually worn with red pants under the red arrowhead helmet (at Seattle on Sunday night in Week 7 it went white on white, with white pants). It projects to all nine road games: at the Dolphins, Raiders, Seahawks, Broncos, Falcons, Bills, Rams, Bengals and Chargers. The two to circle are back to back: Thanksgiving night at Buffalo on Thursday, November 26, and the following Thursday at the Rams on December 3, where Kansas City is the plain half of the frame against Buffalo's royal blue and the Rams' gold Classic Sol.
 
 Red pants are what make this work. With a red helmet and red pants, the white jersey sits between two blocks of the team color, so the road uniform reads as red and white rather than mostly white. The gold is used as a thin accent and never becomes a second main color, which is the right call.
 

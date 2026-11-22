@@ -3,7 +3,7 @@ topViewsRank: 1
 title: "Chicago Bears Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-12"
-updatedDate: "2026-11-09"
+updatedDate: "2026-11-22"
 excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 coverImage: "/images/posts/bears-uniform-schedule-2026/cover.jpg"
@@ -16,6 +16,8 @@ teams: ["chicago-bears"]
 ---
 
 The Bears' navy home jersey is the best uniform in the NFL, and Chicago knows it, so they barely touch it. The one date to circle is Christmas Day: the new navy and burnt orange Rivalries uniform against the Packers at Soldier Field. They wear it once. Every Bears game is below, with what they wore, updated after every game.
+
+**Update, November 22:** Week 11 against New Orleans (1:00 p.m. ET, FOX) is the standard home set, confirmed from the Bears' own photos from the game: **navy helmet, navy jersey and white pants**. The Saints are in the gold helmet, white jersey and white pants. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
 
 Want them graded instead? Here is [every Chicago Bears jersey ranked](/stories/bears-jerseys-2026-ranked), worst to best.
 
@@ -38,7 +40,7 @@ Seven home games in navy, seven road games in white, one road game in navy becau
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Seahawks</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · MNF</div></div>
   <div style="background: #0B162A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Navy · White Pants · SNF</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #0B162A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Navy</div></div>
+  <div style="background: #0B162A; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Navy</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · Thanksgiving</div></div>
   <div style="background: #f1f3f8; color: #0B162A; border: 2px solid #C83803; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Jaguars</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">Classic Throwback &middot; White</div></div>
   <div style="background: #0B162A; color: #ffffff; border: 2px solid #C83803; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">Navy &middot; MIA in White</div></div>
@@ -132,11 +134,11 @@ The three letters on the left sleeve of the navy and white jerseys, and on the c
 
 **What jersey are the Bears wearing today?**
 
-Week 9 against Tampa Bay, November 8, worn: navy helmet, navy jersey and white pants. The Buccaneers wore white over pewter pants, and Chicago won 27-24. We grade the matchup a B. This answer updates every week. For the rest of the season: Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
+Week 9 against Tampa Bay, November 8, worn: navy helmet, navy jersey and white pants. The Buccaneers wore white over pewter pants, and Chicago won 27-24. We grade the matchup a B. This answer updates every week. Week 11 against New Orleans, today, November 22, wearing: navy helmet, navy jersey and white pants, confirmed from the team's game photos. The Saints are in white. For the rest of the season: Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
 
 **What jerseys are the Bears wearing this week?**
 
-Week 9 against Tampa Bay, November 8, worn: navy helmet, navy jersey and white pants. The Buccaneers wore white over pewter pants, and Chicago won 27-24. We grade the matchup a B. For the rest of the season: Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
+Week 9 against Tampa Bay, November 8, worn: navy helmet, navy jersey and white pants. The Buccaneers wore white over pewter pants, and Chicago won 27-24. We grade the matchup a B. Week 11 against New Orleans, today, November 22, wearing: navy helmet, navy jersey and white pants, confirmed from the team's game photos. The Saints are in white. For the rest of the season: Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
 
 **What uniform did the Bears wear last week?**
 

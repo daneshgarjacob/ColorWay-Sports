@@ -352,7 +352,21 @@
     "PHI Road White @ NYR Home Blue": "B",
     "BOS Road White @ PIT Home Black": "B-",
     "DAL Road White @ CBJ Hometown Remix": "C",
-    "VAN Road White @ WPG Home Navy": "B"
+    "VAN Road White @ WPG Home Navy": "B",
+    "EDM Road White @ CAR Hometown Remix": "B",
+    "CHI Road White @ CGY Home Red": "B+",
+    "BUF Road White @ FLA Home Red": "B",
+    "PIT Road White @ NSH Hometown Remix": "A-",
+    "WSH Road White @ BOS Home Black": "B+",
+    "CBJ Road White @ TOR Home Blue": "B",
+    "PHI Road White @ MTL Home Red": "B+",
+    "LAK Road White @ OTT Hometown Remix": "B+",
+    "NYI Road White @ DET Centennial Sweater": "A-",
+    "NJD Road White @ STL Home Blue": "B",
+    "VGK Road White @ WPG Hometown Remix": "B+",
+    "ANA Road White @ UTA Home Black": "B",
+    "MIN Road White @ VAN Hometown Remix": "B+",
+    "SEA Road White @ SJS Hometown Remix": "B"
   },
   "games": {
     "2026-09-29 FLA@CAR": { "confirmed": true, "source": "ESPN game photos + banner-night highlight" },

@@ -3,7 +3,7 @@ title: "Wyoming Uniform Schedule 2026: Every Jersey and When the Cowboys Wear It
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-10-01"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-22"
 excerpt: "What Wyoming wears every game in 2026: the brown and gold home set, the white road look, the Homecoming Gold Out and the week-by-week Cowboys uniform schedule."
 gradient: "linear-gradient(135deg, #492F24 0%, #2b1b14 55%, #FFC425 130%)"
 cardStyle: words
@@ -13,7 +13,7 @@ teams: ["wyoming-cowboys", "mountain-west"]
 resurfaceOnUpdate: true
 ---
 
-Wyoming wore three different jerseys in its first six games, every one of them under the same white helmet with the brown and gold Steamboat on the side, then went all black, helmet included, against Air Force on October 23. This is the full Wyoming 2026 uniform schedule: the brown home jersey, the white road set, the gold jersey from the Homecoming Gold Out, every game logged so far, most recently all white in a 41-35 win at UNLV on November 7, and the expected look for the rest of the season. We update this page as each combination is confirmed.
+Wyoming wore three different jerseys in its first six games, every one of them under the same white helmet with the brown and gold Steamboat on the side, then went all black, helmet included, against Air Force on October 23. This is the full Wyoming 2026 uniform schedule: the brown home jersey, the white road set, the gold jersey from the Homecoming Gold Out, every game logged so far, most recently brown over gold pants in a 24-17 home loss to New Mexico on Friday, November 20, and the expected look for the rest of the season. We update this page as each combination is confirmed.
 
 **Update, November 7:** Wyoming wore a **white helmet, white jersey and white pants** at UNLV, confirmed from the game broadcast, and won **41-35**. The Cowboys then won 27-15 at UTEP on November 14.
 
@@ -44,7 +44,7 @@ That last one is the look of the season so far. The athletic department billed t
   <div style="background: #f7f8fa; color: #9aa0ac; border: 1px dashed #cfd5de; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">OCT 31</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UNLV</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at UTEP</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #492F24; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs New Mexico</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Brown</div></div>
+  <div style="background: #492F24; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 20 (FRI)</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs New Mexico</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Brown / Gold</div></div>
   <div style="background: #492F24; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs UConn</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Brown</div></div>
 </div>
 
@@ -70,7 +70,7 @@ That last one is the look of the season so far. The athletic department billed t
 
 **November 14 at UTEP.** White expected. The Sun Bowl in El Paso, kickoff time still to be set. **Final: Wyoming 27, UTEP 15.**
 
-**November 21 vs. New Mexico.** Brown expected. 9 p.m. Eastern on FS1, a late kickoff in Laramie in late November.
+**November 20 vs. New Mexico.** Brown expected. A Friday night game in Laramie, 9 p.m. Eastern on FS1. **Worn: white helmet, brown jersey, gold pants**, confirmed from the team's own game photos. New Mexico wore a white helmet, white jersey and gray pants. **Final: New Mexico 24, Wyoming 17.**
 
 **November 28 vs. UConn.** Brown expected. The regular season finale at War Memorial Stadium, kickoff time still to be set. UConn is expected in white; our [UConn 2026 uniform schedule](/stories/uconn-uniform-schedule-2026) has the Huskies.
 
@@ -86,7 +86,7 @@ Six games in, Wyoming has kept one helmet and spread everything else around: bro
 
 **What jersey is Wyoming wearing this week?**
 
-Wyoming won 27-15 at UTEP on Saturday, November 14; we have not logged that game's uniform yet. The last game we have logged is the 41-35 win at UNLV on Saturday, November 7, in a white helmet, white jersey and white pants, confirmed from the game broadcast. Next is New Mexico at home on Saturday, November 21, where brown is expected. Before that, Wyoming went all black against Air Force on Friday, October 23, posted by the team as "Men in Black," and won 28-14.
+Most recently, Wyoming lost 24-17 at home to New Mexico on Friday, November 20, in the white helmet, brown jersey and gold pants, confirmed from the team's own game photos. Next is UConn at home on November 28, where brown is expected. Before that, Wyoming won 27-15 at UTEP on November 14 (we have not logged that game's uniform) and 41-35 at UNLV on November 7 in a white helmet, white jersey and white pants, confirmed from the game broadcast. Wyoming went all black against Air Force on Friday, October 23, posted by the team as "Men in Black," and won 28-14.
 
 **What did Wyoming wear for the Gold Out?**
 

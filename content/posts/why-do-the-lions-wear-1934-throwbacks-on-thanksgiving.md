@@ -98,7 +98,7 @@ The current throwback arrived with Detroit's 2017 rebrand. The team said it "rep
 <tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">2025</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Green Bay Packers</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;"><a href="https://www.wilx.com/2025/11/26/lions-return-classic-throwback-look-thanksgiving-game/" rel="nofollow noopener" target="_blank">WILX</a></td></tr>
 </tbody></table></div>
 
-For 2025, WILX described the full set: the throwback jersey with a silver helmet with no logo and silver pants. Green Bay won that game 31-24. Some summaries online also list Thanksgiving 2018 against the Bears as a throwback game; we could not confirm that from a primary source, so it is not in the table.
+For 2025, WILX described the full set: the throwback jersey with a silver helmet with no logo and silver pants. Green Bay won that game 31-24. Sports Illustrated's year-by-year list of Lions Thanksgiving uniforms also counts 2018 against the Bears and 2020 against the Texans as throwback games; we have not confirmed either from the team itself, so they are not in the table.
 
 ## Why Thanksgiving Is The Right Day For It
 

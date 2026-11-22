@@ -38,7 +38,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B+" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -63,7 +63,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -88,7 +88,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -113,7 +113,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B+" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -138,7 +138,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -163,7 +163,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B+" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -188,7 +188,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B+" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -213,7 +213,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="A-" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">A-</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -238,7 +238,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -263,7 +263,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B+" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -288,7 +288,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -313,7 +313,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="A-" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">A-</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -338,7 +338,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B+" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B+</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">
@@ -363,7 +363,7 @@ Fourteen games on Saturday, every sweater confirmed from game photos, and seven 
     <div style="min-width: 0; flex: 0 1 auto; display: flex; align-items: center; gap: 10px;"><img src="/logos/leagues/nhl.png" alt="NHL logo" title="via NHL" style="display: block; height: clamp(32px, 8.5vw, 42px); width: auto; max-width: 100%; margin: 0; border-radius: 0; box-shadow: none; filter: drop-shadow(0 0 0.6px rgba(255,255,255,0.95)) drop-shadow(0 0 8px rgba(160,190,255,0.35));" /></div>
     <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto;">
       <span style="color: rgba(255,255,255,0.78); font-size: clamp(8px, 2.2vw, 9.5px); font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; line-height: 1.25; text-align: right;">Matchup<br>Grade</span>
-      <span data-grade="" style="background: rgba(255,255,255,0.08); border: 1px dashed rgba(255,255,255,0.35); color: rgba(255,255,255,0.7); font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 800; line-height: 1; padding: 6px 9px; min-width: 44px; text-align: center; border-radius: 8px; box-sizing: border-box;">&ndash;</span>
+      <span data-grade="B" style="background: linear-gradient(160deg, #2f6bed 0%, #1d4fc4 100%); color: #ffffff; font-family: var(--font-display, 'Hanken Grotesk', Inter, sans-serif); font-size: clamp(17px, 4.4vw, 22px); font-weight: 900; line-height: 1; padding: 7px 10px; min-width: 44px; text-align: center; border-radius: 8px; letter-spacing: -0.5px; box-shadow: 0 2px 10px rgba(47,107,237,0.35);">B</span>
     </div>
   </div>
   <div style="display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: clamp(4px, 2vw, 12px);">

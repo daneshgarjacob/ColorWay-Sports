@@ -3,16 +3,17 @@ title: "Bills Will Wear The Cold Front Uniform Vs. Dolphins On Salute To Service
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-16"
+updatedDate: "2026-11-22"
 excerpt: "The Bills wear Cold Front, their all-white Rivalries uniform, against the Dolphins on Sunday, November 22, at 1:00 p.m. ET on CBS, their Salute to Service game and its only date this season: a white metal-flake helmet with a cracked-ice stripe, a white BUFFALO jersey with frosted silver numbers and white pants. Miami is expected in aqua. Every detail and our grade."
 gradient: "linear-gradient(135deg, #e8eef5 0%, #00338D 70%, #0a1a3a 130%)"
-coverImage: "/images/posts/nfl-rivalries-uniforms-2026-ranked/rivalries-2025-bills.jpg"
-coverImagePosition: "center 30%"
+coverImage: "/images/posts/bills-cold-front-uniform-dolphins-salute-to-service-2026/cover-cold-front-44.jpg"
+coverImagePosition: "center 25%"
 coverImageFit: "cover"
 coverCredit:
   author: "Buffalo Bills"
-  url: "https://www.buffalobills.com/news/buffalo-bills-unveil-new-cold-front-uniforms-as-part-of-nike-s-rivalries-program"
+  url: "https://x.com/BuffaloBills/status/2124560279153627567"
   license: "via the team"
+homepageHero: "2026-11-22"
 kicker: "Uniform News"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-buffalo-bills.png"
@@ -21,6 +22,8 @@ teams: ["buffalo-bills", "miami-dolphins"]
 ---
 
 **Cold Front comes out once this season, and this is the day.** The Bills wear their all-white Rivalries uniform when they host the Miami Dolphins on **Sunday, November 22, at 1:00 p.m. Eastern on CBS**, Buffalo's Salute to Service game. That is a **white helmet with a metal-flake finish** and a cracked-ice center stripe, a **white jersey** with frosted silver numbers outlined in royal blue, and **white pants**. Buffalo put this game on its home schedule as "Rivalries" before the season started, and it is the only Cold Front date in 2026.
+
+**Update, November 22:** it is on the field. The Bills' own pregame and first-half photos show the full set as described below, the metal-flake white helmet, white BUFFALO jersey and white pants, and Miami in the **white helmet, aqua jersey and aqua pants**.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/1974979548539494514"></a></blockquote>
@@ -32,7 +35,7 @@ teams: ["buffalo-bills", "miami-dolphins"]
 
 - **What are the Bills wearing against the Dolphins?** Cold Front: the white metal-flake helmet, white jersey and white pants.
 - **When?** Sunday, November 22, 1:00 p.m. ET on CBS, at the new Highmark Stadium.
-- **What are the Dolphins wearing?** Aqua jerseys are expected, since Buffalo is in white. Miami hasn't posted its game-week look yet.
+- **What are the Dolphins wearing?** The white helmet, aqua jersey and aqua pants, confirmed from the Dolphins' own game photos.
 - **Why this game?** It's Buffalo's Salute to Service game, and the Bills listed the uniform as "Rivalries" on their home schedule.
 - **Will the Bills wear it again this season?** No. This is its only 2026 date.
 - **Our grade:** B- for the uniform, A- for the matchup.
@@ -54,9 +57,9 @@ The design team took every bit of red off the uniform on purpose. Red reads as w
 
 ## What The Dolphins Are Wearing
 
-With the home team in white, Miami is expected in **aqua** on the road, as it was at the Jets in Week 7. Miami hasn't posted its game-week uniform yet, so we'll update this once it does. Aqua against an all-white team in late November in Buffalo is the warm-weather team against the cold-weather team, which is the whole idea of this uniform.
+With the home team in white, Miami is in **aqua** on the road, as it was at the Jets in Week 7, and the Dolphins' own game photos show **aqua pants** with it under the white helmet. Aqua against an all-white team in late November in Buffalo is the warm-weather team against the cold-weather team, which is the whole idea of this uniform.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/dolphins-aqua-home.jpg" alt="Miami Dolphins aqua jersey with orange-trimmed numbers, expected at Buffalo on November 22, 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Dolphins &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-cold-front-white.jpg" alt="Buffalo Bills Cold Front all-white Rivalries jersey with cracked-ice shoulders, confirmed by the team against the Dolphins on November 22, 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills &middot; Confirmed</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/dolphins-aqua-home.jpg" alt="Miami Dolphins aqua jersey with orange-trimmed numbers, worn with aqua pants at Buffalo on November 22, 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Dolphins &middot; Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-cold-front-white.jpg" alt="Buffalo Bills Cold Front all-white Rivalries jersey with cracked-ice shoulders, confirmed by the team against the Dolphins on November 22, 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills &middot; Confirmed</figcaption></figure></div>
 
 The two teams meet again on January 3 in Miami, where the Dolphins wear their own Rivalries uniform, the near-black **Dark Water**. See the [Dolphins 2026 uniform schedule](/stories/dolphins-uniform-schedule-2026).
 
@@ -108,7 +111,7 @@ The Rivalries program is built around each team's city, and Buffalo leaned into 
 
 **What are the Dolphins wearing at Buffalo?**
 
-Aqua is expected, because the Bills are in white. Miami hasn't announced its game-week look yet.
+The white helmet, aqua jersey and aqua pants, because the Bills are in white.
 
 **Do the Bills and Dolphins both have Rivalries uniforms?**
 

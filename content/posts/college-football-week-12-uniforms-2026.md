@@ -3,7 +3,7 @@ title: "College Football Week 12 Uniforms 2026: Florida State's First Turquoise 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-18"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-22"
 excerpt: "College football Week 12 uniforms: Florida State wears turquoise in a game for the first time against NC State, Miami brings back its digital camo Military Appreciation uniform with black pants for Virginia Tech and College GameDay, UCF debuts Knights Script Mode, Tennessee goes orange for LSU and BYU goes all white at Kansas. Every announced look, every Top 25 game and what each team is expected to wear."
 gradient: "linear-gradient(135deg, #0d0f14 0%, #0f6f73 60%, #782F40 130%)"
 cardStyle: words
@@ -205,8 +205,9 @@ A look is marked **Confirmed** when the school posted it. **Expected** is our pr
 ### Thursday, November 19
 
 **[Rice](/stories/rice-uniform-schedule-2026) at [Temple](/stories/temple-uniform-schedule-2026)**, 7:30 p.m., ESPN.
-- Rice: **Expected**, white or gray.
-- Temple: **Expected**, cherry, for its last home game.
+- **Final: Rice 31, Temple 27.**
+- Rice: **Worn**, navy helmet, white jersey, white pants, from the game broadcast.
+- Temple: **Worn**, cherry helmet, cherry jersey, white pants, for its last home game, from the game broadcast.
 
 ### Friday, November 20
 

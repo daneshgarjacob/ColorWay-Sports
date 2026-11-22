@@ -2,7 +2,7 @@
 title: "Bills Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-22"
 excerpt: "Bills uniform schedule 2026, week by week: two Nickel City games, Cold Front vs. Miami, the red alternate finale and the red helmet on Christmas Day."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-uniform-schedule-2026/cover.jpg"
@@ -15,6 +15,8 @@ teams: ["buffalo-bills"]
 ---
 
 Most teams dribble their uniform news out one week at a time. The Bills did the opposite: ahead of the Return of Blue & Red scrimmage at the new Highmark Stadium, they published the jersey they will wear for every single 2026 home game at once. That means the Buffalo half of this schedule is confirmed, not projected, and it answers the question people actually search for. The new gray **Nickel City** set goes twice, the all-white **Cold Front** Rivalries uniform gets Salute to Service against Miami, the **red alternate** closes the season, and the blue primary carries the other four. Buffalo has since added the road half of the story too: the **red helmet** returns on Christmas Day at Denver. Here is the full Bills 2026 uniform schedule, week by week.
+
+**Update, November 22:** Cold Front is on the field against Miami, confirmed from the Bills' own pregame and game photos: the **white metal-flake helmet, white BUFFALO jersey and white pants**. The Dolphins are in the white helmet, aqua jersey and aqua pants. [Every detail of Cold Front](/stories/bills-cold-front-uniform-dolphins-salute-to-service-2026).
 
 **Update, November 21:** the Bills will retire Andre Reed's No. 83 during the 2027 season, announced November 19. It is the fourth retired number in team history, after Jim Kelly's 12, Thurman Thomas' 34 and Bruce Smith's 78. [Every retired Bills number](/stories/bills-retire-andre-reed-number-83-2027).
 
@@ -165,7 +167,7 @@ How does every one of these jerseys stack up? See our [Bills jerseys 2026 rankin
 
 **What jersey are the Bills wearing today?**
 
-Week 10 at the Jets, November 15, worn: all white, the white helmet, white jersey and white pants. The Jets wore Black on Black, and Buffalo won 31-12. We grade the matchup a B-. This answer updates every week. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
+Week 10 at the Jets, November 15, worn: all white, the white helmet, white jersey and white pants. The Jets wore Black on Black, and Buffalo won 31-12. We grade the matchup a B-. This answer updates every week. Week 11 against Miami, today, November 22, wearing: Cold Front, the white metal-flake helmet, white jersey and white pants, confirmed from the team's game photos. The Dolphins are in aqua over aqua pants. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
 
 **What color are the Bills end zones for the home opener?**
 
@@ -173,7 +175,7 @@ Red. Bills Mafia voted for red end zones in an official poll posted by team COO 
 
 **What jerseys are the Bills wearing this week?**
 
-Week 10 at the Jets, November 15, worn: all white, the white helmet, white jersey and white pants. The Jets wore Black on Black, and Buffalo won 31-12. We grade the matchup a B-. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
+Week 10 at the Jets, November 15, worn: all white, the white helmet, white jersey and white pants. The Jets wore Black on Black, and Buffalo won 31-12. We grade the matchup a B-. Week 11 against Miami, today, November 22, wearing: Cold Front, the white metal-flake helmet, white jersey and white pants, confirmed from the team's game photos. The Dolphins are in aqua over aqua pants. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
 
 **What uniform did the Bills wear last week?**
 
