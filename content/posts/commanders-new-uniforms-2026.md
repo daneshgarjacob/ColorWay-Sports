@@ -70,7 +70,7 @@ We usually don't love black alternates. Most of the time they feel like a cash g
 <img src="/images/posts/commanders-reveal-2026/HF88dVcXcAAMR-w.jpg" alt="Washington Commanders new alternate spear W logo with both primary and alternate helmets shown from the front 2026" style="width: 100%; border-radius: 10px;" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">via the Washington Commanders</p>
 
-The spear W is the standout piece of this entire rebrand. The W and the spear interweave at their centers, creating a forward-facing design that captures the commander and warrior identity the franchise is going for. From the front, the spearheads on both sides of the helmet create a straight-on look that's genuinely intimidating. It's the best thing to come out of the Commanders era so far, and it gives the franchise a secondary mark that actually carries weight.
+The spear W is the standout piece of this entire rebrand. The W and the spear interweave at their centers, creating a forward-facing design that captures the commander and warrior identity the franchise is going for. From the front, the spearheads on both sides of the helmet create a straight-on look that's genuinely intimidating. It's the best thing to come out of the Commanders era so far, and it gives the franchise a secondary mark that actually carries weight. Follow the spear closely and it weaves over and under the W in a way no real spear could: [the Commanders' Spear W logo is impossible](/stories/commanders-spear-w-logo-impossible).
 
 ## Washington Commanders 2026 Helmets: Glossy Burgundy and the Black Spear
 

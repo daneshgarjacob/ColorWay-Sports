@@ -80,7 +80,7 @@ Washington published every 2026 jersey on July 16 and gave the Hail Raiser two h
 
 Yes. Black alternates are usually the laziest thing a team can do: swap the color for black and call it new. This one works because burgundy and gold stay in charge. The numbers are burgundy, the outlines and stripes are gold, and the franchise colors read from the upper deck.
 
-The helmet is what makes it. The Spear W replaces the primary logo, it has a real link to the team's history, and from the front the two spearheads give the shell a look no other team has. We graded the Hail Raiser an **A** at the reveal and ranked it first in [every Commanders jersey ranked](/stories/commanders-jerseys-2026-ranked). The helmet got an A- in our [2026 alternate helmet rankings](/stories/nfl-new-alternate-helmets-2026-ranked). Against road white on national TV, the matchup is an **A-**.
+The helmet is what makes it. The Spear W replaces the primary logo, it has a real link to the team's history, and from the front the two spearheads give the shell a look no other team has. Look closely and the spear weaves over and under the W in a way no real spear could; we traced it in [the Commanders' Spear W logo is impossible](/stories/commanders-spear-w-logo-impossible). We graded the Hail Raiser an **A** at the reveal and ranked it first in [every Commanders jersey ranked](/stories/commanders-jerseys-2026-ranked). The helmet got an A- in our [2026 alternate helmet rankings](/stories/nfl-new-alternate-helmets-2026-ranked). Against road white on national TV, the matchup is an **A-**.
 
 ## When The Commanders Wear The Hail Raiser Again
 
@@ -105,7 +105,7 @@ Washington's all-black alternate, revealed April 15, 2026, with the rest of the 
 
 **What is the Spear W?**
 
-The Commanders' alternate logo: the W with a spear running through it, pulled from the franchise's 1960s uniforms. It appears only on the Hail Raiser helmet.
+The Commanders' alternate logo: the W with a spear running through it, pulled from the franchise's 1960s uniforms. It appears only on the Hail Raiser helmet. The spear goes over, under, over and under the W's four strokes; [here's how it goes through](/stories/commanders-spear-w-logo-impossible).
 
 **Have the Commanders worn the Hail Raiser before?**
 
@@ -132,6 +132,7 @@ It plays on "Raise Hail," the team's rallying cry and one of the wordmarks in th
 - [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026): every week's look
 - [Commanders new uniforms 2026](/stories/commanders-new-uniforms-2026): the full redesign, graded
 - [Every Commanders jersey, ranked](/stories/commanders-jerseys-2026-ranked)
+- [The Commanders' Spear W logo is impossible](/stories/commanders-spear-w-logo-impossible): how the spear goes through the W
 - [Bengals 2026 uniform schedule](/stories/bengals-uniform-schedule-2026)
 - [NFL Week 11 uniforms](/stories/nfl-week-11-uniforms-2026): every matchup this week
 
