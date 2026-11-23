@@ -11,3 +11,5 @@ The National Lacrosse League's **Las Vegas Desert Dogs** showed off a **new home
 The **alternate jersey** is on presale in the team store and ships **January 30, 2027**, so expect it on the floor later in the season. The home opener is **Saturday, December 5**.
 
 The **home and away jerseys stay black and white**, the team's colors since day one. The new **alternate adds color drawn from the Las Vegas sunset**, chief business officer **Jonah Haas** told [FOX5 Las Vegas](https://www.fox5vegas.com/2026/11/18/las-vegas-desert-dogs-unveil-new-uniforms-fifth-season/), calling it a spin "a lot of our fans have been asking about." Neither the team nor FOX5 has spelled out the exact shades yet. The December 5 opener is against the **Colorado Mammoth** at Lee's Family Forum in Henderson.
+
+Every uniform, what changed from the old set and our grades: [Las Vegas Desert Dogs new uniforms 2026-27](/stories/las-vegas-desert-dogs-new-uniforms-2026-27).
