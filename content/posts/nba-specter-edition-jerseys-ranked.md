@@ -2,6 +2,7 @@
 title: "NBA Specter Edition Jerseys Ranked: All 8 From Worst To Best (The Warriors Are Last)"
 category: "NBA"
 date: "2026-11-04"
+updatedDate: "2026-11-23"
 excerpt: "Jake Daneshgar ranks all eight Nike NBA Specter Edition jerseys, worst to best. The Pistons' flames are No. 1, the Hawks' bright brushstrokes are No. 2, and the Warriors' half-finished bridge jersey is dead last. Plus every team's Specter dates."
 gradient: "linear-gradient(135deg, #0b0b12 0%, #2a1a4a 55%, #6b2fb3 130%)"
 author: "jake-daneshgar"
@@ -12,7 +13,9 @@ league: "nba"
 teams: ["detroit-pistons", "atlanta-hawks", "boston-celtics", "philadelphia-76ers", "los-angeles-lakers", "new-york-knicks", "sacramento-kings", "golden-state-warriors"]
 ---
 
-Nike's Specter Edition is a dark fifth jersey for the NBA's eight oldest teams: the Celtics, Hawks, Kings, Knicks, Lakers, Pistons, 76ers and Warriors. All eight share the same template, a black base with one glowing graphic, and they hit the court between November 29 and December 29. (They're also the eight jerseys going around this week as ["Christmas jerseys"](/stories/nba-christmas-day-jerseys-2026). As of now, none are scheduled for Christmas Day.)
+Nike's Specter Edition is a dark fifth jersey for the NBA's eight oldest teams: the Celtics, Hawks, Kings, Knicks, Lakers, Pistons, 76ers and Warriors. All eight share the same template, a black base with one glowing graphic, and they hit the court between November 29 and December 29. (They're also the eight jerseys that went around in early November as ["Christmas jerseys"](/stories/nba-christmas-day-jerseys-2026). None are scheduled for Christmas Day.)
+
+**Update, November 23:** the teams posted their official Specter photos on Monday, and we have added each team's post below its spot in the countdown. The ranking has not changed. The 76ers had not posted theirs as of Monday night.
 
 Same template, very different results. One of them is great, a couple are fun, and a few look like nobody finished them. Here are all eight, counted down from the worst to the best.
 
@@ -22,6 +25,8 @@ Same template, very different results. One of them is great, a couple are fun, a
 - **What is the worst?** The Golden State Warriors'. The graphic only covers one side.
 - **What makes the good ones work?** A real idea tied to the team (Detroit's hot-rod flames, Boston's green) or real color (Atlanta).
 - **When do teams wear them?** Three home games each, between November 29 and December 29. The Pistons, Warriors, Knicks and Kings go first on November 29.
+- **When do they go on sale?** November 30. The Hawks' official page says online that day and in their arena from December 3.
+- **Why only these eight teams?** They are the NBA's oldest franchises, every team still around from the first NBA season in 1949-50. [Why only 8 teams got one](/stories/why-only-8-nba-teams-got-specter-edition-jerseys).
 
 ## 8. Golden State Warriors
 
@@ -29,6 +34,11 @@ Same template, very different results. One of them is great, a couple are fun, a
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image via NBA</p>
 
 Black, with a gold Warriors wordmark and gold numbers, and a royal blue bridge graphic that runs down only one side of the jersey. The other side is plain black, so it looks half finished. The Warriors have one of the best color sets in the league, and this buries most of it. Gold on black is nice, but that's all this has going for it.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/warriors/status/2124933501468217774"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Warriors' official Specter photo, via <a href="https://x.com/warriors" target="_blank" rel="noopener">@warriors</a></p>
 
 **Specter nights (all at home):** Nov. 29, Dec. 1, Dec. 22. [Warriors uniform schedule](/stories/warriors-uniform-schedule-2026-27)
 
@@ -38,6 +48,11 @@ Black, with a gold Warriors wordmark and gold numbers, and a royal blue bridge g
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image via NBA</p>
 
 A purple glow rising from the bottom of a black jersey, a nod to the "Light the Beam" tradition after Kings home wins. Good idea, and Sacramento's purple looks great against black. But once you get past the glow it's just a black jersey with a little purple on it. It's simple and not bad, just forgettable.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SacramentoKings/status/2124956218263306623"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Kings' official Specter photos, via <a href="https://x.com/SacramentoKings" target="_blank" rel="noopener">@SacramentoKings</a></p>
 
 **Specter nights (all at home):** Nov. 29, Nov. 30, Dec. 23. [Kings uniform schedule](/stories/sacramento-kings-uniform-schedule-2026-27)
 
@@ -51,6 +66,11 @@ A purple glow rising from the bottom of a black jersey, a nod to the "Light the 
 
 Hard to see on the runway, because the model wore a jacket over it. Flat, it's black with blurry royal blue stripes running top to bottom, orange trim at the neck and arms, and a small "NEW YORK" over an orange number. The stripes are a fun nod to classic Knicks pinstripes, and it's the lightest jersey in the set. But blurry blue on black reads as muddy from a distance, and the orange barely shows.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyknicks/status/2124935522992988453"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Knicks' official Specter photos, via <a href="https://x.com/nyknicks" target="_blank" rel="noopener">@nyknicks</a></p>
+
 **Specter nights (all at home):** Nov. 29, Dec. 23, Dec. 27. [Knicks uniform schedule](/stories/knicks-uniform-schedule-2026-27)
 
 ## 5. Los Angeles Lakers
@@ -59,6 +79,11 @@ Hard to see on the runway, because the model wore a jacket over it. Flat, it's b
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image via NBA</p>
 
 Dark purple with a satin-like sheen over black, plus gold numbers and wordmark. The purple is so dark it reads almost black on TV, and the gold barely shows up. For a team whose whole identity is purple and gold, it's too quiet. Not bad, just right in the middle.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lakers/status/2124946654470226085"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Lakers' official Specter photos, via <a href="https://x.com/Lakers" target="_blank" rel="noopener">@Lakers</a></p>
 
 **Specter nights (all at home):** Dec. 14, Dec. 21, Dec. 23. [Lakers uniform schedule](/stories/lakers-uniform-schedule-2026-27)
 
@@ -69,6 +94,8 @@ Dark purple with a satin-like sheen over black, plus gold numbers and wordmark. 
 
 Glowing red stars down the sides of a black jersey. The stars are the best detail in the whole Specter set, and they actually tie to the team's look. The problem is everything else. The 76ers have red, white and royal blue to work with, and the middle of this jersey is just black.
 
+The 76ers had not posted official Specter photos as of November 23.
+
 **Specter nights (all at home):** Dec. 1, Dec. 12, Dec. 17. [76ers uniform schedule](/stories/76ers-uniform-schedule-2026-27)
 
 ## 3. Boston Celtics
@@ -77,6 +104,11 @@ Glowing red stars down the sides of a black jersey. The stars are the best detai
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image via NBA</p>
 
 Mostly Celtics green, with a darker green glow swirling through it and white numbers. It's the one jersey in the set that still looks exactly like the team from a distance. Boston owns that green, and letting it take over the dark template was the right call. A little busy up close, but it works.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/celtics/status/2124936497262739796"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Celtics' official Specter photo, via <a href="https://x.com/celtics" target="_blank" rel="noopener">@celtics</a></p>
 
 **Specter nights (all at home):** Dec. 2, Dec. 14, Dec. 20. [Celtics uniform schedule](/stories/celtics-uniform-schedule-2026-27)
 
@@ -87,6 +119,11 @@ Mostly Celtics green, with a darker green glow swirling through it and white num
 
 Bright blue, teal and lime brushstrokes across the whole front. These aren't Atlanta's colors, and it doesn't matter, because it's the brightest and most fun jersey in the set. Every other team got a black jersey with a little color on it. Atlanta got actual color.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ATLHawks/status/2124931927429808335"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Hawks' official Specter photo, via <a href="https://x.com/ATLHawks" target="_blank" rel="noopener">@ATLHawks</a></p>
+
 **Specter nights (all at home):** Dec. 3, Dec. 23, Dec. 29. [Hawks uniform schedule](/stories/hawks-uniform-schedule-2026-27)
 
 ## 1. Detroit Pistons
@@ -96,13 +133,18 @@ Bright blue, teal and lime brushstrokes across the whole front. These aren't Atl
 
 Not close. Red and blue flames rising from the waist and coming down from the shoulders, with teal trim, on a black base. Flames are usually a bad idea on a jersey, but this is the Motor City, and hot-rod flames are part of Detroit. It's the only one of the eight where the dark base and the graphic feel like they belong together. This is the one we'd buy.
 
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DetroitPistons/status/2124946113744523729"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Pistons' official Specter photos, via <a href="https://x.com/DetroitPistons" target="_blank" rel="noopener">@DetroitPistons</a></p>
+
 **Specter nights (all at home):** Nov. 29, Dec. 14, Dec. 18. [Pistons uniform schedule](/stories/pistons-uniform-schedule-2026-27)
 
 ## The Bottom Line
 
 The Specter template is dark, and most teams didn't fight it. The three best (Detroit, Atlanta and Boston) are the ones that brought something bright enough to beat the black: flames, real color, or a green everybody already knows. The rest are black jerseys with a little team color on them, and the Warriors couldn't even finish the graphic.
 
-Want the design breakdown and every date in one place? See our [Specter Edition explainer](/stories/nba-specter-edition-jerseys-2026-27).
+Want the design breakdown and every date in one place? See our [Specter Edition explainer](/stories/nba-specter-edition-jerseys-2026-27). Wondering why only these eight teams got one? [Here is the answer](/stories/why-only-8-nba-teams-got-specter-edition-jerseys). And the Lakers' version up close: [Lakers Specter Edition Jersey](/stories/lakers-specter-edition-jersey-2026-27).
 
 ## Frequently Asked Questions
 
@@ -116,7 +158,7 @@ The Golden State Warriors'. Gold lettering on black is fine, but the blue bridge
 
 **Which teams have Specter Edition jerseys?**
 
-Eight: the Boston Celtics, Atlanta Hawks, Sacramento Kings, New York Knicks, Los Angeles Lakers, Detroit Pistons, Philadelphia 76ers and Golden State Warriors. Nike gave the line to the league's eight oldest franchises.
+Eight: the Boston Celtics, Atlanta Hawks, Sacramento Kings, New York Knicks, Los Angeles Lakers, Detroit Pistons, Philadelphia 76ers and Golden State Warriors. Nike gave the line to the league's eight oldest franchises. [Why only these eight](/stories/why-only-8-nba-teams-got-specter-edition-jerseys).
 
 **When do NBA teams wear the Specter Edition jerseys?**
 
@@ -133,3 +175,7 @@ No. City Edition is a separate jersey every team gets each season. The Specter E
 **Why do all the Specter jerseys look so similar?**
 
 They share one Nike template: a black base, the Nike logo moved toward the middle of the chest, a smaller wordmark and the player's name low on the back, under the number. Each team adds its own graphic.
+
+**When do the Specter Edition jerseys go on sale?**
+
+November 30. The Hawks' official page says online at the Hawks Shop that day and in their arena from December 3. Nike has not announced a price.

@@ -2,8 +2,8 @@
 title: "NBA Specter Edition Jerseys 2026-27: All 8 Teams, Graded"
 category: "NBA"
 date: "2026-09-10"
-updatedDate: "2026-10-19"
-excerpt: "Nike's Specter Edition is a fifth uniform for the NBA's eight oldest franchises. What it is, when it debuts, why the reaction is brutal, and a grade for each design."
+updatedDate: "2026-11-23"
+excerpt: "Nike's Specter Edition is a fifth uniform for the NBA's eight oldest franchises. All eight teams' official photos, every date from the November 29 debut to December 29, the November 30 on-sale date, why only eight teams got one, and a grade for each design."
 gradient: "linear-gradient(135deg, #0b0b12 0%, #2a1a4a 55%, #6b2fb3 130%)"
 logoSrc: "/logos/leagues/nba.png"
 cardStyle: words
@@ -12,7 +12,11 @@ league: "nba"
 teams: []
 ---
 
-Nike and the NBA confirmed a new uniform line on September 10, 2026, and it answers a question this site has been circling since April. The eight dark, neon-streaked designs that leaked in the spring as "Christmas jerseys," then looked like City Editions, are neither. They are the **Nike Specter Edition**, a fifth uniform for eight of the league's oldest franchises, and it arrives later this fall.
+Nike and the NBA confirmed a new uniform line on September 10, 2026, and it answers a question this site has been circling since April. The eight dark, neon-streaked designs that leaked in the spring as "Christmas jerseys," then looked like City Editions, are neither. They are the **Nike Specter Edition**, a fifth uniform for eight of the league's oldest franchises. It hits the court on **Sunday, November 29**.
+
+**Update, November 23:** the teams posted their official Specter photos on Monday, and they are collected below in [Official Team Photos](#official-team-photos-november-23). The jerseys go on sale **November 30**: the Hawks' official page says online at the Hawks Shop that day and in their arena from December 3. Nike has not announced a price, so we have left it out.
+
+**Why only these eight teams?** They are the NBA's oldest franchises: the Kings (1923), the Pistons (1937) and six teams from 1946. Together they are every team still around from the first NBA season, 1949-50, and the next-oldest team, the Wizards, started in 1961. The full answer, team by team: [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys)
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SacKings_Unis/status/2098047317114798505"></a></blockquote>
@@ -30,7 +34,7 @@ Two Specter teams never wear it against each other. Three times a Specter club h
 
 ## What the Specter Edition Is
 
-Specter is a program for eight clubs, chosen for age rather than market: the **Los Angeles Lakers, Boston Celtics, Golden State Warriors, New York Knicks, Philadelphia 76ers, Detroit Pistons, Atlanta Hawks and Sacramento Kings**. Sacramento is the oldest continuously operating franchise in the league, and the other seven all trace back to the 1940s and 1950s. **It is only these eight.** Nike's own framing is a collection for "the teams who trace their roots back to the earliest chapters of the league," and the other 22 clubs do not get one this season.
+Specter is a program for eight clubs, chosen for age rather than market: the **Los Angeles Lakers, Boston Celtics, Golden State Warriors, New York Knicks, Philadelphia 76ers, Detroit Pistons, Atlanta Hawks and Sacramento Kings**. Sacramento is the oldest franchise in the league, tracing back to the Rochester Seagrams in 1923, Detroit goes back to Fort Wayne in 1937, and the other six all started in 1946. [Why only these eight](/stories/why-only-8-nba-teams-got-specter-edition-jerseys). **It is only these eight.** Nike's own framing is a collection for "the teams who trace their roots back to the earliest chapters of the league," and the other 22 clubs do not get one this season.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SacKings_Unis/status/2097844299547218422"></a></blockquote>
@@ -38,7 +42,48 @@ Specter is a program for eight clubs, chosen for age rather than market: the **L
 
 Nike's own description is that the collection reimagines "team identity for the league's oldest franchises through their history, culture and the energy of today's game," and that the designs are "inspired by the next generation of hoopers." The company says it built the line with feedback from players and younger fans, with the stated goal of making team gear more wearable away from the court. Read that as a streetwear brief with a basketball jersey as the canvas.
 
-It sits inside a wider **Nike NBA Standard Issue** collection, which is where the confusion about dates comes from. Standard Issue drops on **September 15 and October 12**. The Specter uniforms themselves reach retail and the court **later in the fall**, with the Pistons' version pegged for November, which puts the on-court debuts close to the holiday stretch that made everyone assume "Christmas" in the first place.
+It sits inside a wider **Nike NBA Standard Issue** collection, which is where the confusion about dates comes from. Standard Issue drops on **September 15 and October 12**. The Specter uniforms themselves hit the court on **November 29** and go on sale on **November 30**, close to the holiday stretch that made everyone assume "Christmas" in the first place.
+
+## Official Team Photos (November 23)
+
+Seven of the eight teams posted their official Specter photos on Monday, November 23. We could not find a 76ers post as of Monday night, and we will add it when it appears. Most of the posts carry a date: the Knicks and Pistons say November 29, the Lakers say December 14, and the Hawks say three home games in December.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lakers/status/2124946654470226085"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Lakers' Specter Edition, via <a href="https://x.com/Lakers" target="_blank" rel="noopener">@Lakers</a></p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/celtics/status/2124936530599068114"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Celtics' Specter Edition, via <a href="https://x.com/celtics" target="_blank" rel="noopener">@celtics</a></p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyknicks/status/2124935522992988453"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Knicks' Specter Edition, via <a href="https://x.com/nyknicks" target="_blank" rel="noopener">@nyknicks</a></p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/warriors/status/2124933501468217774"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Warriors' Specter Edition, via <a href="https://x.com/warriors" target="_blank" rel="noopener">@warriors</a></p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ATLHawks/status/2124931927429808335"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Hawks' Specter Edition, via <a href="https://x.com/ATLHawks" target="_blank" rel="noopener">@ATLHawks</a></p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DetroitPistons/status/2124946113744523729"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Pistons' Specter Edition, via <a href="https://x.com/DetroitPistons" target="_blank" rel="noopener">@DetroitPistons</a></p>
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SacramentoKings/status/2124956218263306623"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Kings' Specter Edition, via <a href="https://x.com/SacramentoKings" target="_blank" rel="noopener">@SacramentoKings</a></p>
+
+The photos match the designs we graded, with a few details the leak images did not show clearly. The Lakers' numbers are black with a gold outline, with purple light streaks across the front. The Pistons' flames run yellow, orange and red up from the hem, with teal streaks. The Knicks' numbers are black with an orange outline.
 
 ## What It Is Not
 
@@ -54,7 +99,7 @@ The reaction has been rough, and not only from the usual corners. "Middle school
 
 ## First Look at the Specter Edition Shorts (Update, September 29)
 
-The shorts are out, or at least two pairs of them are. On September 29 a retail preview surfaced via the It's The Shorts account, crediting the shop 2hands on Instagram, showing the **Celtics** and **Knicks** Specter shorts laid flat. Nike has not shown the shorts officially yet, so treat these as a retail preview rather than a confirmed final spec, but they match the jersey template exactly.
+The shorts are out, or at least two pairs of them are. On September 29 a retail preview surfaced via the It's The Shorts account, crediting the shop 2hands on Instagram, showing the **Celtics** and **Knicks** Specter shorts laid flat. Nike had not shown the shorts officially at the time, so treat these as a retail preview, but they match the jersey template exactly. The Knicks' official photos on November 23 include the shorts, and they match.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/itstheshorts/status/2104836960674316698"></a></blockquote>
@@ -79,7 +124,7 @@ We reviewed all eight when they leaked in April, when the world thought they wer
 <div style="margin: 1.5em 0; border: 1px solid #e3e6ec; border-radius: 12px; overflow: hidden;">
 <div style="background: #14284b; color: #ffffff; padding: 10px 18px; font-size: 13px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase;">Specter Edition, ranked</div>
 <div style="padding: 6px 18px 10px; font-size: 15px; line-height: 1.7; color: #1c1c1c;">
-<p style="margin: 8px 0;"><strong>1. Detroit Pistons, A.</strong> The flames and the teal piping make this the clear winner, and it is the only one that reads as a deliberate idea rather than a template. Detroit is also the only one of the eight to have shown its own, above. <a href="/stories/pistons-christmas-jersey-2026">Full review</a>.</p>
+<p style="margin: 8px 0;"><strong>1. Detroit Pistons, A.</strong> The flames and the teal piping make this the clear winner, and it is the only one that reads as a deliberate idea rather than a template. Detroit was the first of the eight to show its own, above. <a href="/stories/pistons-christmas-jersey-2026">Full review</a>.</p>
 <p style="margin: 8px 0;"><strong>2. Atlanta Hawks, A-.</strong> The most colorful of the eight, with the blue and green brushstrokes doing real work against the black. <a href="/stories/hawks-christmas-jersey-2026">Full review</a>.</p>
 <p style="margin: 8px 0;"><strong>3. Boston Celtics, B+.</strong> Neon green on black is a better fit for this concept than it has any right to be. <a href="/stories/celtics-christmas-jersey-2026">Full review</a>.</p>
 <p style="margin: 8px 0;"><strong>4. New York Knicks, B+.</strong> The lightest design in the set, which is exactly why it stands out from it. <a href="/stories/knicks-christmas-jersey-2026">Full review</a>.</p>
@@ -94,7 +139,7 @@ We reviewed all eight when they leaked in April, when the world thought they wer
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/LADEig/status/2097839374645723309"></a></blockquote>
 </div>
 
-Each team link above opens the full review with that design shown in detail. The Lakers and Pistons are the two Nike has put real photography behind so far; the other six are still leak renderings, and we will swap in the official images as each club releases its own.
+Each team link above opens the full review with that design shown in detail. The official team photos from November 23 are in the section above. The grades are unchanged.
 
 ## What We Got Wrong, in Order
 
@@ -102,7 +147,7 @@ We owe readers the record. In April we published the eight designs as the 2026 C
 
 ## The Bottom Line
 
-The Specter Edition is a new fifth uniform for the Lakers, Celtics, Warriors, Knicks, 76ers, Pistons, Hawks and Kings, built by Nike on one dark, streetwear-first template with the Swoosh centred and the player name dropped below the number. It debuts on court and at retail later in the fall of 2026, separately from the September 15 City Edition reveal, which is unaffected. Our first-look grades run from an A for Detroit down to a C for the Lakers, with the collection at a D+, and the fairest summary of the set is that it makes eight famous teams look like one brand.
+The Specter Edition is a new fifth uniform for the Lakers, Celtics, Warriors, Knicks, 76ers, Pistons, Hawks and Kings, built by Nike on one dark, streetwear-first template with the Swoosh centred and the player name dropped below the number. It debuts on court on November 29 and goes on sale November 30, separately from the City Edition, which every team still has. Our first-look grades run from an A for Detroit down to a C for the Lakers, with the collection at a D+, and the fairest summary of the set is that it makes eight famous teams look like one brand.
 
 ## Frequently Asked Questions
 
@@ -114,9 +159,13 @@ A new Nike uniform line for the 2026-27 season, given to eight of the league's o
 
 The Los Angeles Lakers, Boston Celtics, Golden State Warriors, New York Knicks, Philadelphia 76ers, Detroit Pistons, Atlanta Hawks and Sacramento Kings.
 
+**Why do only eight teams have a Specter Edition jersey?**
+
+Nike made it for the league's oldest franchises, and these eight are every team still in the NBA from its first season, 1949-50. The next-oldest team, the Wizards, was founded in 1961. [The full answer](/stories/why-only-8-nba-teams-got-specter-edition-jerseys).
+
 **When do the Specter Edition jerseys come out?**
 
-Later in the fall of 2026. The on-court debut is November 29, when the Pistons, Warriors, Knicks and Kings all wear theirs at home. The wider Nike NBA Standard Issue collection they belong to drops on September 15 and October 12.
+The on-court debut is November 29, when the Pistons, Warriors, Knicks and Kings all wear theirs at home. They go on sale November 30: the Hawks' official page says online that day and in their arena from December 3. The wider Nike NBA Standard Issue collection they belong to dropped on September 15 and October 12.
 
 **When do NBA teams wear the Specter Edition?**
 
@@ -156,6 +205,9 @@ It is a template choice shared across the collection, part of the streetwear-fir
 
 ## More NBA Coverage
 
+- [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys) — the founding year of every Specter team
+- [NBA Specter Edition Jerseys Ranked: All 8 From Worst To Best](/stories/nba-specter-edition-jerseys-ranked)
+- [Lakers Specter Edition Jersey: What It Looks Like And Every Game They Wear It](/stories/lakers-specter-edition-jersey-2026-27)
 - [NBA City Edition Jerseys 2026-27: Every Team and the September 15 Reveal](/stories/nba-city-edition-jerseys-2026-27) — the program Specter is not
 - [NBA Uniforms 2026-27: Every New Jersey, Court and Rebrand, Graded](/stories/nba-uniforms-2026-27) — the season hub
 - [The September 15 NBA Reveal, Explained](/stories/nba-september-15-2026-uniform-reveal) — what is actually being announced that day
