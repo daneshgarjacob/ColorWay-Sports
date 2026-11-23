@@ -19,6 +19,8 @@ The Los Angeles Lakers open 2026-27 at Crypto.com Arena in October 2026. This is
 **Update, October 19:** The full Lakers jersey schedule for 2026-27 is out, a call for all 80 dated games. The Icon Edition is the most-worn Lakers jersey this season at **28 games** (9 home, 19 road), ahead of the Statement Edition at 19. Opening night, October 21 vs the Warriors, is the **Icon Edition**. The City Edition debuts **January 14 vs the Magic** and is scheduled for 12 games in all. The new [Specter Edition](/stories/nba-specter-edition-jerseys-2026-27) gets three nights: December 14 vs the Pelicans, December 21 vs the Pacers and December 23 vs the Nuggets. Every game is filled in below.
 <!-- nba-uniform-counts:intro:end -->
 
+**Lakers Specter Edition, official photos out November 23:** the black Specter jersey, with purple light streaks, black numbers outlined in gold and a gold LAKERS wordmark, is worn three times, all at home: **December 14 vs the Pelicans** (the debut), **December 21 vs the Pacers** and **December 23 vs the Nuggets**. It goes on sale November 30. Photos, details and our grade: [Lakers Specter Edition Jersey](/stories/lakers-specter-edition-jersey-2026-27).
+
 **Purple beats gold at home:** the Lakers wear the purple Statement 13 times at Crypto.com Arena this season and gold just 9. We charted every home game by jersey in [Lakers Home Jerseys 2026-27](/stories/lakers-home-jerseys-2026-27-purple-over-gold).
 
 <!-- nba-uniform-counts:grid:start -->
@@ -66,6 +68,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
 
 ## More Lakers Coverage
 
+- [Lakers Specter Edition Jersey: What The Black And Gold Uniform Looks Like And Every Game They Wear It](/stories/lakers-specter-edition-jersey-2026-27)
 - [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys): the Lakers are one of the eight oldest franchises, founded in 1946 as the Detroit Gems
 - [Lakers New Court Revealed: The LA Logo, a Lot More Black, and What It Signals](/stories/lakers-new-court-2026)
 - [Lakers New Jersey Patch 2026: Goodbye Bibigo, Hello Albert on a $30 Million Deal](/stories/lakers-albert-jersey-patch-2026)
