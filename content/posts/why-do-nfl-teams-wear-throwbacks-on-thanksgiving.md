@@ -134,7 +134,7 @@ The 2001, 2004, 2008, 2018 and 2020 Lions entries come from Sports Illustrated's
 
 The Cowboys figured out Thanksgiving: one uniform, every year, and now nobody pictures the holiday without the white helmet. Detroit has the better story and keeps wearing something else. The Lions' throwback is a copy of the team that played the first Thanksgiving game, the Bears are on the schedule again, and the team still has not committed. Of all the Thanksgivings in the table above, the best uniform matchups were the ones where both teams went back in time, Patriots red against Lions blue in 2002 and Packers 1967 against Detroit in 2003. The league should push visitors to do that again.
 
-Vote for the best one ever in our [Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026).
+Vote for the best one ever in our [Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026), and see how we graded all eight in [the best NFL Thanksgiving uniforms ever, ranked](/stories/best-nfl-thanksgiving-uniforms-ranked).
 
 ## Frequently Asked Questions
 
@@ -198,6 +198,7 @@ Yes. Every player in the three Thanksgiving Day games wears the [John Madden Tha
 - [What every NFL team is wearing on Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026)
 - [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026): all five holiday-week games
 - [Best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026)
+- [The 8 best NFL Thanksgiving uniforms ever, ranked and graded](/stories/best-nfl-thanksgiving-uniforms-ranked)
 - [Why do the Cowboys wear white at home?](/stories/why-do-the-cowboys-wear-white-at-home)
 
 *Sources: Pro Football Hall of Fame, ["Thanksgiving and the NFL"](https://profootballhof.com/football-history/thanksgiving-and-the-nfl); DetroitLions.com, "TBT: Lions uniforms through the years" (1994 throwback) and ["Lions to wear alternate uniforms this season"](https://www.detroitlions.com/news/lions-to-wear-alternate-uniforms-this-season-19026253) (2017); Dallas Morning News (November 20, 2015) on the 1994 Double-Star debut; theScore on the 1994 Garrett game; Packers.com, ["Packers will don throwback uniforms against Detroit"](https://www.packers.com/news/packers-will-don-throwback-uniforms-against-detroit-2474380) (November 19, 2003); Sports Illustrated, Ethan Hurwitz (November 27, 2025) on Patriots Thanksgiving history and Blake Silverman (November 26, 2024) on the Lions' Thanksgiving record; ChicagoBears.com on the 2004 orange throwbacks; DallasCowboys.com, ["Cowboys To Wear Blue Jerseys At Home Thursday"](https://www.dallascowboys.com/news/cowboys-to-wear-blue-jerseys-at-home-thursday-344596) (November 26, 2013) and ["Cowboys unveil alternate helmet for 2022 season"](https://www.dallascowboys.com/news/cowboys-unveil-alternate-helmet-for-2022-season) (July 21, 2022); NFL.com on the Lions' 2017 uniforms; Pro Football Network (November 23, 2023); Sports Illustrated (November 20, 2015) on Color Rush; CBS Sports (November 27, 2024) on the Lions' Thanksgiving uniforms; WILX (November 26, 2025). ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Football League or any of its teams.*

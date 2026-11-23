@@ -30,7 +30,7 @@ Every uniform here was actually worn in a Thanksgiving game, apart from the Rams
 - As soon as your vote is saved, you see each uniform's share of the vote.
 - **Voting closes Wednesday, November 25, 2026 at 11:59 p.m. ET.** The uniform with the most votes wins.
 
-It is a fan vote, not an official ranking. The eight are our picks; the winner is yours.
+It is a fan vote, not an official ranking. The eight are our picks; the winner is yours. Want our order first? We counted all eight down and graded them: [The 8 Best NFL Thanksgiving Uniforms Ever, Ranked And Graded](/stories/best-nfl-thanksgiving-uniforms-ranked).
 
 ## The Eight Uniforms
 

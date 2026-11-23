@@ -104,7 +104,7 @@ For 2025, WILX described the full set: the throwback jersey with a silver helmet
 
 Detroit has plenty of chances to wear an alternate. The throwback makes the most sense on Thanksgiving for one reason: the date. The uniform is a copy of 1934, and 1934 is the year the Lions' Thanksgiving game began. On any other Sunday it is a nice old uniform. On Thanksgiving it is the uniform of the team that played the first one.
 
-That is our read of why it fits, and we seeded it No. 2 in our [best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026), where readers are voting now.
+That is our read of why it fits, and we seeded it No. 2 in our [best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026), where readers are voting now. In our own ranking of the [best NFL Thanksgiving uniforms ever](/stories/best-nfl-thanksgiving-uniforms-ranked), it is No. 1.
 
 ## Thanksgiving 2026: What We Know
 
@@ -185,6 +185,7 @@ In 1935, their second season in Detroit, beating the Giants 26-7 on December 15,
 - [Why do NFL teams wear throwback uniforms on Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving): every holiday throwback, Lions and Cowboys included
 - [Why do the Lions wear Honolulu blue?](/stories/why-do-the-lions-wear-honolulu-blue)
 - [Best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026)
+- [The 8 best NFL Thanksgiving uniforms ever, ranked and graded](/stories/best-nfl-thanksgiving-uniforms-ranked)
 - [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026): all five holiday-week games
 - [What every NFL team is wearing on Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026): all six Thursday uniforms in one table
 - [Detroit Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026)
