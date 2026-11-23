@@ -33,7 +33,7 @@ The best Hometown Remix jerseys do the opposite: one idea, one strong color, a b
 
 ## When Vegas Wears It
 
-The Golden Knights wear the Hometown Remix jersey five times. It debuted Sunday, Nov. 15 against Vancouver, a 6-3 Canucks win with Vancouver in road white, and returns Dec. 21 vs. Carolina, Jan. 28 vs. Buffalo, Feb. 18 vs. Columbus and Mar. 15 vs. Winnipeg. Every date is on our [Golden Knights uniform schedule](/stories/golden-knights-uniform-schedule-2026-27).
+The Golden Knights wear the Hometown Remix jersey five times. It debuted Sunday, Nov. 15 against Vancouver, a 6-3 Canucks win with Vancouver in road white, and returns Dec. 21 vs. Carolina, Jan. 28 vs. Buffalo, Feb. 18 vs. Columbus and Mar. 15 vs. Winnipeg. Every date is on our [Golden Knights uniform schedule](/stories/golden-knights-uniform-schedule-2026-27). How it compares with every other Vegas sweater since 2017: [Golden Knights logo and jersey history](/stories/golden-knights-logo-and-jersey-history).
 
 ## Frequently Asked Questions
 

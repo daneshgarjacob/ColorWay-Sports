@@ -2,7 +2,7 @@
 title: "Golden Knights Uniform Schedule 2026-27: Every Sweater and When They Wear It"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-23"
 excerpt: "Every Golden Knights sweater for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #B4975A 0%, #333F42 100%)"
 cardStyle: words
@@ -60,6 +60,7 @@ It debuted Sunday, Nov. 15 against the Vancouver Canucks. The Golden Knights wea
 
 ## More Golden Knights Coverage
 
+- [Vegas Golden Knights Logo And Jersey History: Every Look Since The 2016 Name Reveal, Graded](/stories/golden-knights-logo-and-jersey-history)
 - [How to Watch the 2026 NBA Finals and Stanley Cup Final on ABC: Full June Schedule with Every Game Date, Tipoff Time, and Channel for Knicks vs Spurs and Knights vs Hurricanes](/stories/nba-finals-stanley-cup-final-abc-schedule-june-2026)
 - [Hurricanes Stanley Cup Final 2026 Jerseys First Look: Patch Pops on the Black Sweater, Andersen Mask Revealed](/stories/hurricanes-stanley-cup-final-2026-jerseys-patch-first-look)
 - [2026 NHL Stanley Cup Final Jersey & Uniform Tracker: Every Hurricanes vs Knights Matchup Graded — Carolina Wins the Cup in 6](/stories/nhl-stanley-cup-final-2026-jersey-tracker-hurricanes-knights)

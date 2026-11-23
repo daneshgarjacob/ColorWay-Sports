@@ -30,7 +30,7 @@ A few of these picks go against the early consensus. We have the Panthers' coral
 
 Vegas went all in on a casino theme: a black sweater, a jade shoulder yoke with a felt-table texture and card suits, red-and-black roulette bands on the sleeves and numbers in a playing-card font. Every one of those ideas is on the sweater at the same time, and none of them work together. This is by far the ugliest jersey in the program and one of the worst sweaters the NHL has put on the ice in years.
 
-**Our full take:** [The Golden Knights' Hometown Remix jersey is the ugliest in the NHL](/stories/golden-knights-hometown-remix-jersey-worst).
+**Our full take:** [The Golden Knights' Hometown Remix jersey is the ugliest in the NHL](/stories/golden-knights-hometown-remix-jersey-worst). Every Vegas sweater since 2017, graded: [Golden Knights logo and jersey history](/stories/golden-knights-logo-and-jersey-history).
 
 **First worn Sunday, Nov. 15 vs. Vancouver. Five games.** [Golden Knights uniform schedule](/stories/golden-knights-uniform-schedule-2026-27)
 
