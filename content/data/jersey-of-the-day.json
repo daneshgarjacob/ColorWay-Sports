@@ -1026,6 +1026,49 @@
     }
    ],
    "shopQuery": "Buffalo Bills Cold Front jersey"
+  },
+  "2026-11-23": {
+   "team": "Washington Commanders",
+   "teamShort": "Commanders",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Hail Raiser alternate (home)",
+   "jerseyName": "Black Helmet, Black Jersey, Black Pants",
+   "colorwayGrade": "A",
+   "image": "/images/jersey-of-the-day/commanders-hail-raiser-2026-11-23.jpg",
+   "imageAlt": "A Commanders player holding a spear in the Hail Raiser uniform from the team's April reveal: black helmet with a burgundy and gold stripe and the Spear W, black jersey with burgundy No. 26 outlined in gold, black pants",
+   "imagePosition": "center 30%",
+   "credit": {
+    "text": "Washington Commanders",
+    "url": "https://x.com/Commanders/status/2044415206416080901",
+    "license": "via the team"
+   },
+   "tweet": {
+    "url": "https://x.com/Commanders/status/2077774248848883798",
+    "label": "The 2026 jersey schedule, from the Commanders"
+   },
+   "worn": {
+    "date": "2026-11-23",
+    "matchup": "vs. Cincinnati, 8:15 p.m. ET on ESPN (Monday Night Football)",
+    "status": "Scheduled",
+    "note": "First game in the Hail Raiser, per the Commanders' jersey schedule, on a field with a giant black Hail Raiser helmet painted on the grass. The Bengals have confirmed orange helmets, white jerseys and white pants."
+   },
+   "why": "The best uniform Washington owns, and black with burgundy and gold finally gives the franchise a dark look that still reads as Washington.",
+   "whyPlaceholder": true,
+   "story": "The Commanders wear the Hail Raiser, their all-black alternate, for the first time tonight against the Bengals on Monday Night Football at Northwest Stadium: a black helmet with a burgundy and gold stripe and the Spear W, a black jersey with burgundy numbers outlined in gold, and black pants. Washington painted a giant black Hail Raiser helmet on the field to match, and Cincinnati wears orange helmets with white jerseys and white pants. Kickoff is 8:15 p.m. Eastern on ESPN. We graded it an A.",
+   "scheduleSlug": "commanders-uniform-schedule-2026",
+   "scheduleLabel": "Commanders 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "commanders-hail-raiser-uniform-bengals-monday-night-football-2026",
+     "label": "Every detail of the Commanders' Hail Raiser uniform"
+    },
+    {
+     "slug": "commanders-monday-night-football-field-hail-raiser-helmet-bengals-2026",
+     "label": "The Hail Raiser helmet painted on the field"
+    }
+   ],
+   "shopQuery": "Washington Commanders Hail Raiser jersey"
   }
  }
 }
