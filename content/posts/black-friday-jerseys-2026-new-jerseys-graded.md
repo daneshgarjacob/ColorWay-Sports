@@ -242,7 +242,7 @@ Black and gold stays true to the Pirates, the gothic "Pirates" is a great compan
 
 Four new jerseys of 2026 failed. Each one took a strong team identity and covered it up.
 
-**Green Bay Packers Rivalries: F.** The stock-certificate idea is the smartest concept in either Rivalries class, and it disappears from your seat. What is left is a green jersey slightly darker than the one Green Bay already wears, and the set benches the gold G helmet for a cream shell. [Every Packers jersey, ranked](/stories/packers-jerseys-2026-ranked).
+**Green Bay Packers Rivalries: F.** The stock-certificate idea is the smartest concept in either Rivalries class, and it disappears from your seat. What is left is a green jersey slightly darker than the one Green Bay already wears, and the set benches the gold helmet for a cream shell that keeps the G but mutes it. [Every Packers jersey, ranked](/stories/packers-jerseys-2026-ranked).
 
 **Minnesota Vikings Rivalries: F.** A duller purple that drifts toward plum, plus Nordic knots, rune numbers and a new wordmark all at once. The rune numbers are good. Everything around them is noise. [Every Vikings jersey, ranked](/stories/vikings-jerseys-2026-ranked).
 

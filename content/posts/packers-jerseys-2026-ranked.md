@@ -2,7 +2,7 @@
 title: "Every Green Bay Packers Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-10-13"
+updatedDate: "2026-11-22"
 excerpt: "Green Bay Packers jerseys 2026, ranked: Vintage Green, Classic White and the new Rivalries set, graded with the helmet, pants and every date each is worn."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 author: "colorway-sports-staff"
@@ -16,7 +16,7 @@ teams: ["green-bay-packers"]
 
 Green Bay runs one of the least-changed wardrobes in American sport, and that restraint is exactly why we put the Packers fourth in our [best NFL uniforms of 2026](/stories/best-nfl-uniforms-2026-ranked) at an A-. The club's 2026 lineup names four uniforms: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set. Three of them have games on the 2026 calendar, and those are the three we rank here. The 1923 navy and gold throwback is back in the closet, but the team has not given it a date yet.
 
-Here are the Green Bay Packers jerseys on the 2026 schedule, ranked worst to first and graded, with the helmet and pants each one wears. For the full jersey schedule 2026, week by week, see the [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
+Here are the Green Bay Packers jerseys on the 2026 schedule, ranked worst to first and graded, with the helmet and pants each one wears. For the full jersey schedule 2026, week by week, see the [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026). For the story of the helmet logo, read [why the Packers wear a G on their helmets](/stories/why-do-the-packers-wear-a-g-on-their-helmets).
 
 ## 3. Rivalries Uniform
 
@@ -31,7 +31,7 @@ Here are the Green Bay Packers jerseys on the 2026 schedule, ranked worst to fir
 
 The Packers' Rivalries set, revealed on August 25, is a vintage 1919 package built around the club's fan ownership. The jersey is a darker hunter green with cream and gold trim, the numbers are modeled on the lettering of paper currency, and the striping echoes the borders on Packers stock certificates. An interlocking GB logo from Lombardi-era sideline gear sits on the chest. The helmet is cream with the first matte finish in team history, a matte green facemask and "GO PACK GO" on the rear bumper, and cream pants finish it.
 
-It is the best story in the 2026 Rivalries class attached to a uniform you cannot read from your seat. The currency numerals and certificate borders are superb on a detail card and invisible at broadcast distance, and what is left is a green jersey slightly darker than the green jersey Green Bay already wears. To get there, it benches the gold helmet with the G, one of the most recognizable objects in American sport.
+It is the best story in the 2026 Rivalries class attached to a uniform you cannot read from your seat. The currency numerals and certificate borders are superb on a detail card and invisible at broadcast distance, and what is left is a green jersey slightly darker than the green jersey Green Bay already wears. To get there, it benches the gold helmet, one of the most recognizable objects in American sport, for a cream matte shell. The G stays on that cream helmet, as the team's October 11 photos show, and the interlocking GB goes on the jersey chest, but a green G on cream does not carry the way it does on gold.
 
 It grades an F, the grade we gave it at the reveal, and it ranked fourteenth of sixteen in our [Rivalries uniforms ranking](/stories/nfl-rivalries-uniforms-2026-ranked). Its one 2026 date is Week 5 against the Chicago Bears, Sunday, October 11 at 3:25 p.m. CT at Lambeau Field, and it stays in the rotation for three seasons.
 

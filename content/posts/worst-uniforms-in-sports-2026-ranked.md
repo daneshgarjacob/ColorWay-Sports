@@ -86,7 +86,7 @@ A beautiful metallic helmet, stranded on an anthracite uniform Indianapolis has 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NFL/status/2092264569745949004"></a></blockquote>
 </div>
 
-The best story of the whole Rivalries class, on a uniform you cannot read from your seat. The currency numerals vanish on TV, the jersey is just a darker green, and it benches the gold G helmet, one of the best marks in sports, for something worse. [Every Packers jersey, ranked](/stories/packers-jerseys-2026-ranked).
+The best story of the whole Rivalries class, on a uniform you cannot read from your seat. The currency numerals vanish on TV, the jersey is just a darker green, and it benches the gold helmet, home of one of the best marks in sports, for a cream shell where the G loses its contrast. [Every Packers jersey, ranked](/stories/packers-jerseys-2026-ranked).
 
 ## 1. Minnesota Vikings Rivalries Uniform <span style="display:inline-block;background:#2f6bed;color:#fff;font-weight:800;border-radius:999px;padding:2px 12px;margin-left:6px;font-size:0.9em;">F</span>
 

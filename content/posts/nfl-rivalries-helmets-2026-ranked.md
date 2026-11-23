@@ -40,9 +40,9 @@ The rune bumper is the clearest symptom. It is the most prominent type on the he
 
 The cream matte shell is genuinely handsome, and it still lands seventh, because of what it costs.
 
-The gold helmet with the G is the most recognizable helmet in football and arguably the most recognizable object in American sport. It is a piece of equipment people can identify from a single frame at any distance. Green Bay took it off for this game and replaced it with a cream shell carrying an interlocking GB the audience has never been taught to read.
+The gold helmet with the G is the most recognizable helmet in football and arguably the most recognizable object in American sport. It is a piece of equipment people can identify from a single frame at any distance. Green Bay took it off for this game and replaced it with a cream matte shell. The G stayed, green on cream with a gold outline, but without the gold around it the most famous mark in football loses most of its contrast.
 
-The mark itself is lovely. We said in [our Packers writeup](/stories/packers-uniform-schedule-2026) that it deserves a longer life than one afternoon. But a helmet's first job is instant recognition, and this one trades away the best recognition asset in the sport for something that needs a caption.
+The interlocking GB on the jersey chest is lovely. We said in [our Packers writeup](/stories/packers-uniform-schedule-2026) that it deserves a longer life than one afternoon. But a helmet's first job is instant recognition, and this one trades away the gold that makes the G readable at any distance for a shade that needs a second look. [Why the Packers wear a G at all](/stories/why-do-the-packers-wear-a-g-on-their-helmets) goes back to 1961.
 
 ## 6. Houston Texans
 

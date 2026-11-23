@@ -34,7 +34,7 @@ The rune numbers are genuinely good and worth saving. Everything around them is 
 
 The smartest concept in either class, rendered so quietly you cannot see it from your seat. Green Bay is the only fan-owned franchise in American professional sport, and the design turns that into currency-engraved numerals and hairline borders lifted from real stock certificates. On a detail card it is superb. At broadcast distance it disappears, and what is left is a green jersey slightly darker than the one they already wear.
 
-Then there is the cost. This set benches the gold helmet with the G, the most recognizable helmet in football, for a cream shell carrying a mark the audience has never been taught. That trade has to buy something enormous. It buys a quieter version of the normal uniform. [More in the Packers schedule post](/stories/packers-uniform-schedule-2026).
+Then there is the cost. This set benches the gold helmet, the most recognizable helmet in football, for a cream matte shell. The G stays on it, but green on cream loses the pop of green on gold, and the new interlocking GB lives on the jersey chest. That trade has to buy something enormous. It buys a quieter version of the normal uniform. [More in the Packers schedule post](/stories/packers-uniform-schedule-2026).
 
 ## 14. Indianapolis Colts, Anvil Strike — F
 

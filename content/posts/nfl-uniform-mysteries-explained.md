@@ -100,6 +100,8 @@ Georgia's G came three years later. When Vince Dooley took over as Georgia's coa
 
 **Myth busted: the G stands for "greatness."** It stands for Green Bay. Christl traced the "greatness" line to Tiki Barber at Super Bowl XLV media day, as we covered in [more hidden details in sports logos](/stories/hidden-details-sports-logos-part-2). **Also busted:** Georgia didn't steal it. They asked. [Green Bay Packers uniform schedule 2026](/stories/packers-uniform-schedule-2026)
 
+The full story of the logo, from Lombardi's request to the football-shaped original, is in [why the Packers wear a G on their helmets](/stories/why-do-the-packers-wear-a-g-on-their-helmets).
+
 <img src="/images/posts/nfl-uniform-mysteries-explained/packers-rodgers.jpg" alt="Packers quarterback Aaron Rodgers throwing a pass in the white road jersey, gold pants and gold helmet with the green and white G logo, at Washington in October 2022" style="width:100%;max-width:560px;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Packers' G, first worn in 1961. Photo: All-Pro Reels / CC BY-SA 2.0</p>
 

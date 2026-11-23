@@ -35,7 +35,7 @@ Jacksonville debuted Bold City today and beat the Colts 42-7, so the team will l
 
 ## 9. Green Bay Packers Rivalries
 
-The Packers' Rivalries set is built around the team's fan ownership: a darker hunter green jersey, numbers modeled on paper currency, striping from old stock certificates, cream pants and a matte cream helmet. It is a great story you cannot see from your seat. From a distance it is a green jersey slightly darker than the one Green Bay already wears, and it benches the gold helmet with the G to get there.
+The Packers' Rivalries set is built around the team's fan ownership: a darker hunter green jersey, numbers modeled on paper currency, striping from old stock certificates, cream pants and a matte cream helmet. It is a great story you cannot see from your seat. From a distance it is a green jersey slightly darker than the one Green Bay already wears, and it benches the gold helmet to get there. The G stays, on cream, where it loses most of its contrast.
 
 **Worn:** October 11 vs. the Bears at Lambeau Field. [Every Packers jersey, ranked](/stories/packers-jerseys-2026-ranked).
 

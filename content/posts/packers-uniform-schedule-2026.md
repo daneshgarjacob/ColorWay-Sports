@@ -2,7 +2,7 @@
 title: "Packers Uniform & Jersey Schedule 2026: 1923 Throwback Dates"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-22"
 excerpt: "Packers uniform schedule 2026: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set. Every Green Bay jersey, week by week, and this week's look."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
@@ -23,6 +23,8 @@ Green Bay is getting a new uniform this year, and now we have seen all of it. Th
 </div>
 
 Want them graded instead? Here is [every Green Bay Packers jersey ranked](/stories/packers-jerseys-2026-ranked), worst to best.
+
+Where did the helmet logo come from? [Why the Packers wear a G on their helmets](/stories/why-do-the-packers-wear-a-g-on-their-helmets): a 1961 sketch by a college art student, first drawn in the shape of a football.
 
 ## The Full 2026 Packers Uniform Schedule, Week by Week
 
@@ -67,7 +69,7 @@ The design landed with the rest of the 2026 class on August 25, and it delivers 
 
 Our verdict: this is the best story in the 2026 class attached to a uniform you cannot read from your seat. Green Bay is the only fan-owned franchise in American professional sports, the stock certificates are real objects sitting in real living rooms across Wisconsin, and the design team turned that into currency-engraved numerals and hairline borders lifted from the certificate edges. On a detail card, it is superb. At broadcast distance, all of it disappears, and what is left on the field is a green jersey slightly darker than the green jersey Green Bay already wears.
 
-Then there is what it costs to get there. The gold shell with the G is the most recognizable helmet in football and one of the most recognizable objects in American sport, and this set benches it for a cream lid carrying a mark the audience has never been taught. We like the interlocking GB a great deal, enough that it deserves a real future rather than one afternoon, but giving up that helmet has to buy something enormous. It buys a quieter version of the normal uniform.
+Then there is what it costs to get there. The gold shell with the G is the most recognizable helmet in football and one of the most recognizable objects in American sport, and this set benches the gold. The G stays, green on a cream matte shell, as the team's October 11 photos show, but on cream it loses the contrast that makes it readable from the upper deck. The interlocking GB goes on the jersey chest. We like that GB a great deal, enough that it deserves a real future rather than one afternoon, but giving up the gold helmet has to buy something enormous. It buys a quieter version of the normal uniform.
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #203731 0%, #0d1a14 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(32, 55, 49, 0.25); text-align: center;">
   <p style="margin: 0 0 6px; font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,0.75); text-transform: uppercase; letter-spacing: 3px;">ColorWay Sports Grade</p>
