@@ -2,7 +2,7 @@
 title: "Lakers Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-23"
 excerpt: "The full Lakers uniform schedule for 2026-27: the jersey for all 80 dated games, how many times they wear each one, and every City Edition date."
 gradient: "linear-gradient(135deg, #552583 0%, #FDB927 100%)"
 cardStyle: words
@@ -66,6 +66,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
 
 ## More Lakers Coverage
 
+- [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys): the Lakers are one of the eight oldest franchises, founded in 1946 as the Detroit Gems
 - [Lakers New Court Revealed: The LA Logo, a Lot More Black, and What It Signals](/stories/lakers-new-court-2026)
 - [Lakers New Jersey Patch 2026: Goodbye Bibigo, Hello Albert on a $30 Million Deal](/stories/lakers-albert-jersey-patch-2026)
 - [Lawrence Tanter Retires: The Lakers Just Lost the Greatest PA Announcer in Sports History](/stories/lawrence-tanter-retires-lakers-pa-announcer-2026)

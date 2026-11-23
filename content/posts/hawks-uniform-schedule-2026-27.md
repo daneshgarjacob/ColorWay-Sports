@@ -2,7 +2,7 @@
 title: "Hawks Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-23"
 excerpt: "The full Hawks uniform schedule for 2026-27: the jersey for all 80 dated games, how many times they wear each one, and every City Edition date."
 gradient: "linear-gradient(135deg, #E03A3E 0%, #C1D32F 100%)"
 cardStyle: words
@@ -64,6 +64,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
 
 ## More Hawks Coverage
 
+- [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys): the Hawks are one of the eight oldest franchises, founded in 1946 as the Buffalo Bisons
 - [Leaked: New 2026-27 NBA Wordmarks for the Hawks, Nets, Rockets, and Timberwolves Reveal Three Throwbacks and One Wild Card](/stories/nba-wordmarks-2026-27)
 - [2026 NBA Playoffs and NBA Finals Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded](/stories/nba-playoffs-crowd-giveaway-tracker-2026)
 - [2026 NBA Playoffs Round 1 Jersey Tracker: Every Game and Uniform Matchup Graded](/stories/nba-playoffs-2026-round-1-jersey-tracker)

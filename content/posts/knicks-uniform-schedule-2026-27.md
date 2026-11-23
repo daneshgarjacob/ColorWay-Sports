@@ -2,7 +2,7 @@
 title: "Knicks Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-23"
 excerpt: "The full Knicks uniform schedule for 2026-27: the jersey for all 80 dated games, how many times they wear each one, and every City Edition date."
 gradient: "linear-gradient(135deg, #006BB6 0%, #F58426 100%)"
 cardStyle: words
@@ -64,6 +64,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
 
 ## More Knicks Coverage
 
+- [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys): the Knicks are one of the eight oldest franchises, founded in 1946 as an original BAA team
 - [The Knicks Won the 2026 Title in Almost the Exact Same Uniform as 1973 — Spot the Difference](/stories/knicks-1973-vs-2026-championship-uniforms-compared)
 - [New York Knicks 2026 NBA Champions Hat and T-Shirt: Locker Room Gear Graded](/stories/knicks-2026-nba-champions-hat-shirt-graded)
 - [Google's NBA Finals Doodle Today Is Pure Genius: GOO in Spurs Black-and-Silver Jersey Wordmark, GLE in Knicks Orange-and-Blue, Larry O'Brien Trophy Cutting Right Through the Middle](/stories/google-nba-finals-doodle-spurs-knicks-2026)

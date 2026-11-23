@@ -2,7 +2,7 @@
 title: "Celtics Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-23"
 excerpt: "The full Celtics uniform schedule for 2026-27: the jersey for all 80 dated games, how many times they wear each one, and every City Edition date."
 gradient: "linear-gradient(135deg, #007A33 0%, #BA9653 100%)"
 cardStyle: words
@@ -64,6 +64,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
 
 ## More Celtics Coverage
 
+- [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys): the Celtics are one of the eight oldest franchises, founded in 1946 as an original BAA team
 - [NBA Playoffs Logo on the Stanchion: Lakers-Rockets Series Tracker](/stories/nba-playoffs-stanchion-logo-2026)
 - [2026 NBA Playoffs and NBA Finals Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded](/stories/nba-playoffs-crowd-giveaway-tracker-2026)
 - [NBC Sports NBA Score Bug 2026: Clean Template Shared by Four Teams](/stories/nbc-nba-scorebug-2026)

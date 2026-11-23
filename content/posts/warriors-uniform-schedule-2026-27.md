@@ -2,7 +2,7 @@
 title: "Warriors Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-23"
 excerpt: "The full Warriors uniform schedule for 2026-27: the jersey for all 80 dated games, how many times they wear each one, and every City Edition date."
 gradient: "linear-gradient(135deg, #1D428A 0%, #FFC72C 100%)"
 cardStyle: words
@@ -64,6 +64,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
 
 ## More Warriors Coverage
 
+- [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys): the Warriors are one of the eight oldest franchises, founded in 1946 as the Philadelphia Warriors
 - [NBA Play-In 2026 Night 2 Uniform Review: Magic vs Sixers and Warriors vs Clippers Jerseys Graded](/stories/nba-play-in-2026-night-2-jersey-review)
 - [NBC Sports NBA Score Bug 2026: Clean Template Shared by Four Teams](/stories/nbc-nba-scorebug-2026)
 - [Golden State Warriors 2026 NBA Christmas Jersey Leaked: Bay Bridge Design Falls Flat](/stories/warriors-christmas-jersey-2026)

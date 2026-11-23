@@ -2,7 +2,7 @@
 title: "Pistons Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-23"
 excerpt: "The full Pistons uniform schedule for 2026-27: the jersey for all 80 dated games, how many times they wear each one, and every City Edition date."
 gradient: "linear-gradient(135deg, #C8102E 0%, #1D42BA 100%)"
 cardStyle: words
@@ -64,6 +64,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
 
 ## More Pistons Coverage
 
+- [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys): the Pistons are one of the eight oldest franchises, founded in 1937 as the Fort Wayne Zollner Pistons
 - [2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded](/stories/nba-playoffs-2026-round-2-jersey-tracker)
 - [2026 NBA Playoffs and NBA Finals Crowd Giveaways: Every T-Shirt, Towel, and Rally Giveaway Graded](/stories/nba-playoffs-crowd-giveaway-tracker-2026)
 - [FanDuel Sports Network NBA Score Bug 2026: The Same Template for 13 Teams](/stories/fanduel-nba-scorebug-2026)

@@ -2,7 +2,7 @@
 title: "Sacramento Kings Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-23"
 excerpt: "The full Kings uniform schedule for 2026-27: the jersey for all 80 dated games, how many times they wear each one, and every City Edition date."
 gradient: "linear-gradient(135deg, #5A2D81 0%, #63727A 100%)"
 cardStyle: words
@@ -64,6 +64,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
 
 ## More Sacramento Kings Coverage
 
+- [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys): the Kings are one of the eight oldest franchises, founded in 1923 as the Rochester Seagrams
 - [NBC Sports NBA Score Bug 2026: Clean Template Shared by Four Teams](/stories/nbc-nba-scorebug-2026)
 - [Sacramento Kings 2026 NBA Christmas Jersey Leaked: Light the Beam on a Black Base](/stories/kings-christmas-jersey-2026)
 
