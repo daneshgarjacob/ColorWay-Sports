@@ -39,7 +39,7 @@ The four alternate dates the team announced over the summer are unchanged in the
 
 **Week 11 combination, confirmed:** against the Jets, Sunday, November 22, 1:05 p.m. PT at SoFi Stadium (FOX): **powder blue jersey, powder blue pants and white socks**, from the team's "Threads" post on November 19, captioned "powder on powder." It is the second and last powder-on-powder game of the season, after Week 5 against Denver, when the Chargers wore it with the white helmet. The Jets confirmed White on Green: green helmet, white jersey and green pants.
 
-**Our take:** powder on powder is our least favorite Chargers combination. The powder blue jersey is the best thing in the closet, and it looks best over white pants, the way the Chargers wore it on opening day. With matching powder pants the whole uniform runs together. Matchup grade: **B-** (provisional). More in [our story on the Chargers' powder blue jerseys and powder blue pants against the Jets](/stories/chargers-powder-blue-jerseys-powder-blue-pants-jets-2026).
+**Our take:** powder on powder is our least favorite Chargers combination. The powder blue jersey is the best thing in the closet, and it looks best over white pants, the way the Chargers wore it on opening day. With matching powder pants the whole uniform runs together. Matchup grade: **B-**. More in [our story on the Chargers' powder blue jerseys and powder blue pants against the Jets](/stories/chargers-powder-blue-jerseys-powder-blue-pants-jets-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/chargers/status/2123597949275955434"></a></blockquote>

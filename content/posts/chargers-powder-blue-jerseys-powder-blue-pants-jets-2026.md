@@ -26,7 +26,7 @@ teams: ["los-angeles-chargers", "new-york-jets"]
 - **What time is the game, and what channel?** Sunday, November 22, 4:05 p.m. Eastern on FOX.
 - **How many times do the Chargers wear powder on powder this season?** Twice. Week 5 against Denver, and this game.
 - **Records:** Chargers 1-8, Jets 2-8, per ESPN.
-- **Our matchup grade:** B- (provisional).
+- **Our matchup grade:** B-.
 
 ## What The Chargers Are Wearing
 
@@ -58,7 +58,7 @@ Powder on powder is the Chargers combination I like least. The powder blue jerse
 
 The matchup itself is fine. Powder blue against the Jets' white jersey and green pants is bright, and the two teams look nothing alike, so it will be easy to follow on TV. That is what keeps the grade up.
 
-**Matchup grade: B- (provisional).** We grade the final look in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) after the game.
+**Matchup grade: B-.** The final look is logged in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
 
 ## How Each Team Has Done In These Looks
 
