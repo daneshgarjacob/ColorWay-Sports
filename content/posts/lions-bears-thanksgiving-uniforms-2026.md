@@ -3,7 +3,7 @@ title: "What Are The Lions Wearing On Thanksgiving 2026? Honolulu Blue Vs. The B
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-18"
+updatedDate: "2026-11-23"
 excerpt: "The Lions host the Bears on Thanksgiving, Thursday, November 26 at 1:00 p.m. ET on CBS. Detroit is expected in its Honolulu blue home jersey with the silver helmet, with no throwback on its 2026 calendar, and Chicago in white. Detroit's Thanksgiving uniform history, and our grade."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0C1526 55%, #C83803 130%)"
 cardStyle: words
@@ -25,7 +25,7 @@ teams: ["detroit-lions", "chicago-bears"]
 ## Quick Answers
 
 - **What are the Lions wearing on Thanksgiving 2026?** The Honolulu blue home jersey with the silver helmet. **Expected.**
-- **Are the Lions wearing throwbacks on Thanksgiving?** Not as far as anything Detroit has published. They wore them against Green Bay in 2023 and 2025, but there is no throwback on the 2026 calendar.
+- **Are the Lions wearing throwbacks on Thanksgiving?** Not as far as anything Detroit has published. They wore them against Green Bay in 2023 and 2025, but there is no throwback on the 2026 calendar. Detroit is 0-5 on Thanksgiving in the throwback: [the full record](/stories/lions-record-in-throwbacks-on-thanksgiving).
 - **What are the Bears wearing?** The white road jersey with the navy helmet. **Expected.**
 - **When is it?** Thursday, November 26, 1:00 p.m. ET (noon in Chicago) on CBS, at Ford Field.
 - **Our grade:** B+ for the matchup.

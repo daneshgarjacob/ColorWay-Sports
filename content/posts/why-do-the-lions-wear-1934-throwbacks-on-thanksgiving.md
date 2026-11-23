@@ -3,7 +3,7 @@ title: "Why Do The Lions Wear 1934 Throwback Uniforms On Thanksgiving? The First
 author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-11-21"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-23"
 excerpt: "Why do the Detroit Lions wear a 1934 throwback on Thanksgiving? The uniform copies what Detroit wore in its first season, the same year the Lions started their Thanksgiving game: Bears at Detroit, November 29, 1934, sold out two weeks early and carried on 94 NBC radio stations. Every Thanksgiving it has been worn, what it gets right, and what we know about this year."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 coverImage: "/images/posts/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving/program-1934.jpg"
@@ -23,7 +23,7 @@ teams:
 
 **When the Lions wear their throwback on Thanksgiving, they are dressing like the team that started the tradition.** The plain Honolulu blue uniform with silver numbers copies what Detroit wore in 1934, its first season in the city. That was also the year the Lions played their first Thanksgiving game, against the Chicago Bears, on November 29, 1934.
 
-So the throwback and the holiday share a birth year. Detroit wore the copy on Thanksgiving in 2017, 2023 and 2025. Here is the story of that first game, what the 1934 Lions actually looked like, how the throwback matches it, and what we know about this year's Thanksgiving game against the Bears.
+So the throwback and the holiday share a birth year. Detroit has worn the copy on five Thanksgivings: 2017, 2018, 2020, 2023 and 2025. Here is the story of that first game, what the 1934 Lions actually looked like, how the throwback matches it, and what we know about this year's Thanksgiving game against the Bears.
 
 ## Quick Answers
 
@@ -32,7 +32,7 @@ So the throwback and the holiday share a birth year. Detroit wore the copy on Th
 - **Who won?** The Bears, 19-16, according to the Pro Football Hall of Fame.
 - **How big was it?** All 26,000 tickets sold out two weeks before the game, and owner George A. Richards set up a 94-station NBC radio network to carry it nationally.
 - **What does the throwback look like?** A solid Honolulu blue jersey with silver block numbers, no sleeve stripes and no shoulder numbers, with silver pants and a silver helmet with no logo.
-- **When have the Lions worn it on Thanksgiving?** 2017 against Minnesota, and 2023 and 2025 against Green Bay.
+- **When have the Lions worn it on Thanksgiving?** Five times: 2017 against Minnesota, 2018 against Chicago, 2020 against Houston, and 2023 and 2025 against Green Bay. Detroit lost all five ([the full record](/stories/lions-record-in-throwbacks-on-thanksgiving)).
 - **Are they wearing it on Thanksgiving 2026?** It has not been announced. We expect the Honolulu blue home uniform against the Bears on November 26.
 - **Our take (opinion):** It should be the Lions' Thanksgiving uniform every year.
 
@@ -92,13 +92,15 @@ The current throwback arrived with Detroit's 2017 rebrand. The team said it "rep
 ### Every Thanksgiving In The 1934 Throwback
 
 <div style="overflow-x:auto;margin:1.5em 0;border:1px solid #e3e7ec;border-radius:12px;"><table style="width:100%;border-collapse:collapse;margin:0;">
-<thead><tr><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#0076B6;">Thanksgiving</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#0076B6;">Opponent</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#0076B6;">Source</th></tr></thead><tbody>
-<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">Nov. 23, 2017</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Minnesota Vikings</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;"><a href="https://www.detroitlions.com/news/lions-to-wear-alternate-uniforms-this-season-19026253" rel="nofollow noopener" target="_blank">DetroitLions.com</a></td></tr>
-<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">2023</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Green Bay Packers</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;"><a href="https://profootballnetwork.com/detroit-lions-uniforms-different-throwbacks-thanksgiving-nfl-2023" rel="nofollow noopener" target="_blank">Pro Football Network</a></td></tr>
-<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">2025</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Green Bay Packers</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;"><a href="https://www.wilx.com/2025/11/26/lions-return-classic-throwback-look-thanksgiving-game/" rel="nofollow noopener" target="_blank">WILX</a></td></tr>
+<thead><tr><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#0076B6;">Thanksgiving</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#0076B6;">Opponent</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#0076B6;">Result</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#0076B6;">Source</th></tr></thead><tbody>
+<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">Nov. 23, 2017</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Minnesota Vikings</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">L 30-23</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;"><a href="https://www.detroitlions.com/news/lions-to-wear-alternate-uniforms-this-season-19026253" rel="nofollow noopener" target="_blank">DetroitLions.com</a></td></tr>
+<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">Nov. 22, 2018</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Chicago Bears</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">L 23-16</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;"><a href="https://x.com/Lions/status/1065752934535839750" rel="nofollow noopener" target="_blank">Lions game photo</a>, <a href="https://www.gridiron-uniforms.com/GUD/controller/controller.php?action=weekly&year=2018&week=12" rel="nofollow noopener" target="_blank">Gridiron Uniform Database</a></td></tr>
+<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">Nov. 26, 2020</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Houston Texans</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">L 41-25</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;"><a href="https://x.com/Lions/status/1331946809237893120" rel="nofollow noopener" target="_blank">Lions game-day graphic</a>, <a href="https://www.gridiron-uniforms.com/GUD/controller/controller.php?action=weekly&year=2020&week=12" rel="nofollow noopener" target="_blank">Gridiron Uniform Database</a></td></tr>
+<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">Nov. 23, 2023</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Green Bay Packers</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">L 29-22</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;"><a href="https://x.com/Lions/status/1727402567238312341" rel="nofollow noopener" target="_blank">Lions</a>, <a href="https://profootballnetwork.com/detroit-lions-uniforms-different-throwbacks-thanksgiving-nfl-2023" rel="nofollow noopener" target="_blank">Pro Football Network</a></td></tr>
+<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">Nov. 27, 2025</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Green Bay Packers</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">L 31-24</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;"><a href="https://x.com/Lions/status/1993076365889777799" rel="nofollow noopener" target="_blank">Lions</a>, <a href="https://www.wilx.com/2025/11/26/lions-return-classic-throwback-look-thanksgiving-game/" rel="nofollow noopener" target="_blank">WILX</a></td></tr>
 </tbody></table></div>
 
-For 2025, WILX described the full set: the throwback jersey with a silver helmet with no logo and silver pants. Green Bay won that game 31-24. Sports Illustrated's year-by-year list of Lions Thanksgiving uniforms also counts 2018 against the Bears and 2020 against the Texans as throwback games; we have not confirmed either from the team itself, so they are not in the table.
+For 2025, WILX described the full set: the throwback jersey with a silver helmet with no logo and silver pants. Green Bay won that game 31-24. **Update, November 23:** we have now confirmed 2018 against the Bears and 2020 against the Texans as throwback games, from the Lions' own game-day images and the Gridiron Uniform Database, so the table has all five. Detroit lost every one, which is where the 0-5 stat fans are quoting this week comes from. Every Thanksgiving since 2017, uniform by uniform: [the Lions' record in throwbacks on Thanksgiving](/stories/lions-record-in-throwbacks-on-thanksgiving).
 
 ## Why Thanksgiving Is The Right Day For It
 
@@ -153,7 +155,11 @@ Every year except 1939 through 1944.
 
 **When have the Lions worn the 1934 throwback on Thanksgiving?**
 
-In 2017 against the Vikings, and in 2023 and 2025 against the Packers.
+Five times: 2017 against the Vikings, 2018 against the Bears, 2020 against the Texans, and 2023 and 2025 against the Packers.
+
+**What is the Lions' record in throwbacks on Thanksgiving?**
+
+0-5. Detroit lost all five Thanksgiving games in the throwback. The full breakdown is in [the Lions' record in throwbacks on Thanksgiving](/stories/lions-record-in-throwbacks-on-thanksgiving).
 
 **What does the Lions 1934 throwback look like?**
 
@@ -182,6 +188,7 @@ In 1935, their second season in Detroit, beating the Giants 26-7 on December 15,
 ## More Lions And Thanksgiving Coverage
 
 - [What are the Lions wearing on Thanksgiving 2026?](/stories/lions-bears-thanksgiving-uniforms-2026)
+- [Lions' record in throwbacks on Thanksgiving: 0-5 since 2017](/stories/lions-record-in-throwbacks-on-thanksgiving)
 - [Why do NFL teams wear throwback uniforms on Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving): every holiday throwback, Lions and Cowboys included
 - [Why do the Lions wear Honolulu blue?](/stories/why-do-the-lions-wear-honolulu-blue)
 - [Best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026)
@@ -191,4 +198,4 @@ In 1935, their second season in Detroit, beating the Giants 26-7 on December 15,
 - [Detroit Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026)
 - [Every Lions jersey ranked](/stories/lions-jerseys-2026-ranked)
 
-*Sources: Pro Football Hall of Fame, ["Thanksgiving and the NFL"](https://profootballhof.com/football-history/thanksgiving-and-the-nfl); [History.com](https://www.history.com/articles/thanksgiving-football-nfl-lions-bears-tradition) on the 1934 Lions-Bears game; Pro-Football-Reference, [1935 NFL Championship box score](https://www.pro-football-reference.com/boxscores/193512150det.htm); DetroitLions.com, ["Lions to wear alternate uniforms this season"](https://www.detroitlions.com/news/lions-to-wear-alternate-uniforms-this-season-19026253); Pro Football Network on Thanksgiving 2023; WILX (November 26, 2025) on Thanksgiving 2025; WDET and the Lions' team history, as cited in our Honolulu blue story. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Detroit Lions or the National Football League.*
+*Sources: Pro Football Hall of Fame, ["Thanksgiving and the NFL"](https://profootballhof.com/football-history/thanksgiving-and-the-nfl); [History.com](https://www.history.com/articles/thanksgiving-football-nfl-lions-bears-tradition) on the 1934 Lions-Bears game; Pro-Football-Reference, [1935 NFL Championship box score](https://www.pro-football-reference.com/boxscores/193512150det.htm); DetroitLions.com, ["Lions to wear alternate uniforms this season"](https://www.detroitlions.com/news/lions-to-wear-alternate-uniforms-this-season-19026253); Pro Football Network on Thanksgiving 2023; WILX (November 26, 2025) on Thanksgiving 2025; the Gridiron Uniform Database and the Lions' posts on X for 2018 and 2020; WDET and the Lions' team history, as cited in our Honolulu blue story. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Detroit Lions or the National Football League.*
