@@ -11,3 +11,5 @@ The WHL's **Red Deer Rebels** unveiled a **second alternate jersey** on Monday, 
 It debuts at **Retro Night on Friday, November 20, against the Lethbridge Hurricanes** at the Marchant Crane Centrium. Replicas go on sale that night at the team store in the arena, along with retro shirts and hats.
 
 "Rebels fans have been asking a long time to see these jerseys again," Rebels vice president of business development **Dean Williams** said in the team's announcement.
+
+**Update, November 23:** Red Deer won 6-2 in the retro sweater, and the team says the look is now a permanent alternate. What it looks like next to the current sweater, and our grade: [Red Deer Rebels retro jersey](/stories/red-deer-rebels-retro-night-jersey-1992).

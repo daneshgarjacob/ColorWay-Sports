@@ -3,7 +3,7 @@ title: "Special Uniforms This Weekend: Every Alternate, Throwback And One-Time L
 author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-11-19"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-23"
 excerpt: "Every special uniform this weekend, Nov. 20-23: Florida State's first turquoise game, Miami's camo, UCF's Knights script helmet, the Bills' all-white Cold Front, the Commanders' black Hail Raiser debut on Monday night, the Pacers' and Nets' ABA throwbacks, seven NHL Hometown Remix teams and the Maine Celtics' L.L.Bean camo. Who, when, what it looks like and our grade."
 gradient: "linear-gradient(135deg, #0B1F4A 0%, #0f6f73 60%, #5A1414 130%)"
 cardStyle: words
@@ -28,7 +28,7 @@ Thursday night is already covered: the Texans debut the white-helmet HOUSTON/US 
 | UCF | Fri | Knights Script Mode: black helmet with gold Knights script, black jersey, black pants. Won 48-17 vs. Iowa State | C |
 | Oregon | Fri | Yellow helmet with green wings, white jersey, yellow pants. Won 45-7 at Michigan State | A- |
 | [Florida State basketball](/stories/florida-state-basketball-turquoise-uniforms-2026) | Fri | Turquoise for the Seminole Heritage game: turquoise jersey with garnet SEMINOLES, garnet and cream side panels, N7 shoes. Won 87-63 vs. Green Bay | A- |
-| Red Deer Rebels (WHL) | Fri | 1992 retro: black, white and grey with the original script | None yet |
+| [Red Deer Rebels (WHL)](/stories/red-deer-rebels-retro-night-jersey-1992) | Fri | 1992 retro: black, white and grey with the original script. Won 6-2 vs. Lethbridge | B+ |
 | Florida State | Sat | First turquoise game: gold helmet, turquoise jersey, turquoise pants. Lost 28-10 vs. NC State | A+ |
 | Miami | Sat | Digital camo: black helmet with camo U, camo jersey, black pants. Won 28-20 vs. Virginia Tech | B- |
 | Ole Miss | Sat | Military Appreciation: gray camo helmet with a stars and stripes Ole Miss script, navy jersey, gray pants. Won 59-17 vs. Wofford | B |
@@ -78,7 +78,7 @@ Grades are for the uniform unless the row says matchup. NHL Remix sweaters witho
 
 ### Red Deer Rebels: 1992 Retro Night Vs. Lethbridge
 
-**Friday, WHL, at the Marchant Crane Centrium. Confirmed.** The Red Deer Rebels debut a second alternate at Retro Night against the Lethbridge Hurricanes: a **black, white and grey** sweater that recreates what the team wore in its first five seasons, 1992-93 through 1996-97, with the **original Rebels script** and the **original skate blade logo**. It marks the club's 35th WHL season. [The Wire item](/news/2026-11-16-red-deer-rebels-retro-night-original-jerseys).
+**Friday, WHL, at the Marchant Crane Centrium. Confirmed.** The Red Deer Rebels debut a second alternate at Retro Night against the Lethbridge Hurricanes: a **black, white and grey** sweater that recreates what the team wore in its first five seasons, 1992-93 through 1996-97, with the **original Rebels script** and the **original skate blade logo**. It marks the club's 35th WHL season. Red Deer won 6-2, and the team says the look is now a permanent alternate. Full story and our grade: [Red Deer Rebels retro jersey](/stories/red-deer-rebels-retro-night-jersey-1992).
 
 ### NBA Statement Nights On Friday
 
