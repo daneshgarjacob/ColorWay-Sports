@@ -154,7 +154,7 @@ Gray again, this time with six orange arm stripes and the Liberty Bell's inscrip
 
 Black with the round Gateway Arch crest and wave patterns for the Mississippi. Nothing wrong with it, nothing exciting about it either. A bit boring.
 
-**First worn Tuesday, Nov. 17 vs. Anaheim. 10 games.** [Blues uniform schedule](/stories/blues-uniform-schedule-2026-27)
+**First worn Tuesday, Nov. 17 vs. Anaheim. 10 games.** [Blues uniform schedule](/stories/blues-uniform-schedule-2026-27) · [The Blues Remix so far: 2-0, and every date left](/stories/blues-black-hometown-remix-jersey-oilers-2026)
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/StLouisBlues/status/2117278105807053280"></a></blockquote>

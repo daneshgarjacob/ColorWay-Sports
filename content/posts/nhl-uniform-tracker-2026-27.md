@@ -26,7 +26,7 @@ Wondering what sweater your team is wearing tonight? Every club's [2026-27 unifo
 
 ## Sunday, November 22
 
-Five games on Sunday, every sweater confirmed from game photos. The one home team out of its usual dark was St. Louis, back in its black Hometown Remix for the second time, with royal and light blue stripes and the round note crest, and the Blues beat the Oilers 5-4 in a shootout. Everyone else wore the usual dark at home and white on the road: the Blackhawks in white won 6-3 in Vancouver behind Roman Kantserov's first career hat trick, the Sabres in white beat the Lightning 6-2, the Hurricanes in white beat the Rangers 5-2 at the Garden, and the Stars in victory green shut out the Penguins 1-0.
+Five games on Sunday, every sweater confirmed from game photos. The one home team out of its usual dark was St. Louis, back in its black Hometown Remix for the second time, with royal and light blue stripes and the round note crest, and the Blues beat the Oilers 5-4 in a shootout ([the Blues Remix story](/stories/blues-black-hometown-remix-jersey-oilers-2026)). Everyone else wore the usual dark at home and white on the road: the Blackhawks in white won 6-3 in Vancouver behind Roman Kantserov's first career hat trick, the Sabres in white beat the Lightning 6-2, the Hurricanes in white beat the Rangers 5-2 at the Garden, and the Stars in victory green shut out the Penguins 1-0.
 
 <!-- nhl-day:2026-11-22:start -->
 

@@ -44,6 +44,8 @@ St. Louis brought back its round "ST. LOUIS BLUES" crest with the Gateway Arch a
 
 It debuted Tuesday, Nov. 17 against the Anaheim Ducks. The Blues wear it 10 times this season: Nov. 17 vs. Ducks, Nov. 22 vs. Oilers, Nov. 25 at Islanders, Nov. 27 vs. Stars, Dec. 2 vs. Penguins, Dec. 13 vs. Lightning, Jan. 26 vs. Blackhawks, Jan. 30 vs. Canucks, Feb. 25 vs. Canucks and March 13 vs. Ducks. Each one is marked in the game log below.
 
+**Record in it: 2-0** after a comeback shootout win over Edmonton on Nov. 22. [The full Remix story: what it looks like, the record and every date left](/stories/blues-black-hometown-remix-jersey-oilers-2026).
+
 **Our ranking: No. 20 of 32.** See where it lands in [our ranking of all 32 Hometown Remix jerseys](/stories/nhl-hometown-remix-jerseys-ranked), and every design and debut date in [our NHL Hometown Remix guide](/stories/nhl-hometown-remix-2026-27).
 
 ## The Blues Game-by-Game Uniform Schedule
