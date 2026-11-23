@@ -7,6 +7,7 @@ updatedDate: "2026-11-21"
 excerpt: "The Commanders wear the all-black Hail Raiser for the first time against the Bengals on Monday Night Football, November 23, at home: the black helmet with the Spear W, a black jersey with burgundy numbers outlined in gold, and black pants. The Bengals have confirmed orange helmets, white jerseys and white pants. Every detail, the second date and our grade."
 gradient: "linear-gradient(135deg, #0b0b0d 0%, #3a0d0d 60%, #FFB612 130%)"
 coverImage: "/images/posts/commanders-reveal-2026/HF852oPWoAADrja.jpg"
+homepageHero: "2026-11-23"
 coverImagePosition: "center 40%"
 coverImageFit: "cover"
 coverCredit:

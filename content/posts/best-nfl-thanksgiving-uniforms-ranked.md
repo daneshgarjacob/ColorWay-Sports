@@ -11,7 +11,6 @@ kicker: "Ranked"
 logoSrc: "/logos/leagues/nfl.png"
 league: nfl
 teams: ["detroit-lions", "dallas-cowboys", "green-bay-packers", "chicago-bears", "los-angeles-rams", "carolina-panthers"]
-homepageHero: "2026-11-23"
 ---
 
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #013369; border-radius: 10px; padding: 18px 22px; margin: 1.5em 0;">
