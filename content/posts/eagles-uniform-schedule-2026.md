@@ -2,7 +2,7 @@
 title: "Eagles Uniform Schedule 2026: Kelly Green Games and Every Jersey"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-22"
 excerpt: "Eagles uniform schedule 2026: Kelly Green is Week 9 vs. the Giants and Week 16 vs. the Texans, all-black is Week 15 vs. Seattle. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #004C54 0%, #06282c 55%, #007233 130%)"
 cardStyle: words
@@ -115,11 +115,11 @@ How does every one of these jerseys stack up? See our [Eagles jerseys 2026 ranki
 
 **What jersey are the Eagles wearing today?**
 
-**Week 11 (Sunday, November 22, vs. Pittsburgh, 1:00 p.m. ET, CBS), confirmed:** midnight green helmet, midnight green jersey and white pants, from the team's Week 11 post. The Steelers are in white over gold pants. This answer updates every week. For the rest of the season: Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
+Week 11 against Pittsburgh, November 22, worn: midnight green helmet, midnight green jersey and white pants, as the team announced. The Steelers wore white over gold pants, and Philadelphia won 19-16. We grade the matchup a B. Next up is Week 12 at Dallas on Thanksgiving, Thursday, November 26, expected in white with the midnight green helmet, because the Cowboys wear their navy Classic throwback. This answer updates every week. For the rest of the season: Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
 
 **What jerseys are the Eagles wearing this week?**
 
-**Week 11 (Sunday, November 22, vs. Pittsburgh), confirmed:** midnight green helmet, midnight green jersey and white pants. The Steelers are in white over gold pants. Week 10 was a bye, and Week 9 against the Giants was Kelly Green over silver pants. For the rest of the season: Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
+Week 11 against Pittsburgh, November 22, worn: midnight green helmet, midnight green jersey and white pants, as the team announced. The Steelers wore white over gold pants, and Philadelphia won 19-16. We grade the matchup a B. Next up is Week 12 at Dallas on Thanksgiving, Thursday, November 26, expected in white with the midnight green helmet, because the Cowboys wear their navy Classic throwback. For the rest of the season: Midnight green at home and white on the road covers most of the season. The three alternate games are confirmed: Kelly Green in Week 9 against the Giants on November 8 and Week 16 against the Texans on December 24, and the black alternate in Week 15 against the Seahawks on December 19.
 
 **What uniform did the Eagles wear last week?**
 

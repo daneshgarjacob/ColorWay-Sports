@@ -3,7 +3,7 @@ topViewsRank: 11
 title: "Pittsburgh Steelers Jerseys & Uniforms 2026: Full Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-22"
 excerpt: "The Steelers are bringing back the 1933 throwback, and we have it on Black Friday against Denver. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
@@ -120,11 +120,11 @@ How does every one of these jerseys stack up? See our [Steelers jerseys 2026 ran
 
 **What jersey are the Steelers wearing today?**
 
-**Week 11 (Sunday, November 22, at Philadelphia, 1:00 p.m. ET, CBS), confirmed:** black helmet, white jersey and gold pants, from the team's Week 11 graphic. The Eagles are in midnight green over white pants. **Week 10 at Cincinnati, worn:** black helmet, black jersey and gold pants, because the Bengals wore their White Bengal uniform at home. Cincinnati won 38-18. This answer updates every week. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
+Week 11 at Philadelphia, November 22, worn: black helmet, white jersey and gold pants, as the team's Week 11 graphic showed. The Eagles wore midnight green over white pants and won 19-16. We grade the matchup a B. Next up is Week 12 against Denver on Black Friday, November 27, in the 1933 throwback. This answer updates every week. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
 
 **What jerseys are the Steelers wearing this week?**
 
-**Week 11 (Sunday, November 22, at Philadelphia, 1:00 p.m. ET, CBS), confirmed:** black helmet, white jersey and gold pants, from the team's Week 11 graphic. The Eagles are in midnight green over white pants. **Week 10 at Cincinnati, worn:** black helmet, black jersey and gold pants, because the Bengals wore their White Bengal uniform at home. Cincinnati won 38-18. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
+Week 11 at Philadelphia, November 22, worn: black helmet, white jersey and gold pants, as the team's Week 11 graphic showed. The Eagles wore midnight green over white pants and won 19-16. We grade the matchup a B. Next up is Week 12 against Denver on Black Friday, November 27, in the 1933 throwback. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the 1933 throwback against Denver on Black Friday in Week 12, and the all-black Color Rush against Houston in Week 13.
 
 **What uniform did the Steelers wear last week?**
 

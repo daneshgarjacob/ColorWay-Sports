@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-22"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -28,7 +28,7 @@ Want them graded instead? Here is [every Denver Broncos jersey ranked](/stories/
 
 Nine games in Summit White, four in Sunset Orange, two in Midnight Navy, two in the Orange Crush throwback, and a Week 10 bye.
 
-**Week 11 combination, as announced for game week:** navy helmet, Sunset Orange jersey, white pants and white socks against the Raiders on Sunday, November 22, from the team's "Threads" graphic posted November 21 with the caption 🟠⚪️⚪️.
+**Week 11 combination, as announced for game week and worn:** navy helmet, Sunset Orange jersey, white pants and white socks against the Raiders on Sunday, November 22, from the team's "Threads" graphic posted November 21 with the caption 🟠⚪️⚪️, and confirmed in ESPN's game photos. **Final: Broncos 38, Raiders 24.**
 
 **Week 8 combination, as announced for game week:** navy helmet, Sunset Orange jersey, Summit White pants and Midnight Navy socks against the Chiefs on Sunday, November 1, per the team's game-week announcement on October 31. Denver is 2-1 in orange over white since the Mile High Collection debuted in 2024, with wins over the Colts in 2024 and the Packers in 2025. Kansas City is expected in white.
 
@@ -55,7 +55,7 @@ Nine games in Summit White, four in Sunset Orange, two in Midnight Navy, two in 
   <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Sunset Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Summit White · Navy Pants</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Sunset Orange</div></div>
+  <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Raiders</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Sunset Orange · White Pants</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Steelers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Summit White</div></div>
   <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Sunset Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jets</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Summit White</div></div>
@@ -219,11 +219,11 @@ How does every one of these jerseys stack up? See our [Broncos jerseys 2026 rank
 
 **What jersey are the Broncos wearing today?**
 
-Week 9 at Carolina, November 8, worn: navy helmet, Summit White jersey and navy pants. The Panthers wore the silver helmet with black, and Denver won 26-21. We grade the matchup a B. This answer updates every week. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
+Week 11 against Las Vegas, November 22, worn: Sunset Orange, the navy helmet, orange jersey and white pants, as the team's game-week "Threads" graphic announced and as ESPN's game photos show. The Raiders wore the silver helmet, white jersey and silver pants, and Denver won 38-24. We grade the matchup a B+. Next up is Week 12 at Pittsburgh on Black Friday, November 27, in Summit White. This answer updates every week. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
 
 **What jerseys are the Broncos wearing this week?**
 
-Week 9 at Carolina, November 8, worn: navy helmet, Summit White jersey and navy pants. The Panthers wore the silver helmet with black, and Denver won 26-21. We grade the matchup a B. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
+Week 11 against Las Vegas, November 22, worn: Sunset Orange, the navy helmet, orange jersey and white pants, as the team's game-week "Threads" graphic announced and as ESPN's game photos show. The Raiders wore the silver helmet, white jersey and silver pants, and Denver won 38-24. We grade the matchup a B+. Next up is Week 12 at Pittsburgh on Black Friday, November 27, in Summit White. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
 
 **What uniform did the Broncos wear last week?**
 

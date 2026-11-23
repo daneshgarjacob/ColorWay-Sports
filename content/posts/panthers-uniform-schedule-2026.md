@@ -2,7 +2,7 @@
 title: "Panthers Jersey & Uniform Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-20"
+updatedDate: "2026-11-22"
 excerpt: "Carolina Panthers jersey schedule 2026: black six times at home, Panther blue three, white on every road trip. Every uniform, week by week, confirmed."
 gradient: "linear-gradient(135deg, #0085CA 0%, #08496e 55%, #101820 130%)"
 coverImage: "/images/posts/panthers-uniform-schedule-2026/cover.jpg"
@@ -121,11 +121,11 @@ How does every one of these jerseys stack up? See our [Panthers jerseys 2026 ran
 
 **What jersey are the Panthers wearing today?**
 
-Week 10 at New Orleans, November 15, worn: silver helmet, white jersey and white pants. The Saints went all black, and Carolina won 20-17. We grade the matchup a B. Next up is Week 11 at home against Baltimore on Sunday, November 22, confirmed by the team: silver helmet, black jersey, silver pants and black socks. This answer updates every week. For the rest of the season: Check the grid above, because Carolina has now published all seventeen games. Black at home in Weeks 4, 9, 11, 15, 17 and 18, Panther blue at home in Weeks 1, 7 and 14, and white in all eight road games. Pants and socks are still announced closer to kickoff.
+Week 11 against Baltimore, November 22, worn: silver helmet, black jersey, silver pants and black socks, as the team announced. The Ravens wore the black helmet, white jersey and purple pants, and Carolina won 35-33. We grade the matchup a B. Next up is Week 12 at Tampa Bay on Monday Night Football, November 30, in white. This answer updates every week. For the rest of the season: Check the grid above, because Carolina has now published all seventeen games. Black at home in Weeks 4, 9, 11, 15, 17 and 18, Panther blue at home in Weeks 1, 7 and 14, and white in all eight road games. Pants and socks are still announced closer to kickoff.
 
 **What jerseys are the Panthers wearing this week?**
 
-Week 10 at New Orleans, November 15, worn: silver helmet, white jersey and white pants. The Saints went all black, and Carolina won 20-17. We grade the matchup a B. Next up is Week 11 against Baltimore, confirmed: silver helmet, black jersey, silver pants and black socks. For the rest of the season: Check the grid above, because Carolina has now published all seventeen games. Black at home in Weeks 4, 9, 11, 15, 17 and 18, Panther blue at home in Weeks 1, 7 and 14, and white in all eight road games. Pants and socks are still announced closer to kickoff.
+Week 11 against Baltimore, November 22, worn: silver helmet, black jersey, silver pants and black socks, as the team announced. The Ravens wore the black helmet, white jersey and purple pants, and Carolina won 35-33. We grade the matchup a B. Next up is Week 12 at Tampa Bay on Monday Night Football, November 30, in white. For the rest of the season: Check the grid above, because Carolina has now published all seventeen games. Black at home in Weeks 4, 9, 11, 15, 17 and 18, Panther blue at home in Weeks 1, 7 and 14, and white in all eight road games. Pants and socks are still announced closer to kickoff.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Panthers/status/2115497115115983341"></a></blockquote>

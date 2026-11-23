@@ -2,7 +2,7 @@
 title: "Arizona Cardinals Uniform Schedule 2026: Every Jersey by Week"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-22"
 excerpt: "Arizona Cardinals uniform schedule 2026: the desert Rivalries jersey once, black twice, red seven times including two road games, white seven times. Week by week."
 gradient: "linear-gradient(135deg, #97233F 0%, #5e1628 55%, #141414 130%)"
 coverImage: "/images/posts/arizona-cardinals-uniform-schedule-2026/cover.jpg"
@@ -142,11 +142,11 @@ How does every one of these jerseys stack up? See our [Cardinals jerseys 2026 ra
 
 **What jersey are the Cardinals wearing today?**
 
-Week 10 against the Rams, today, November 15, 4:05 p.m. ET on CBS, wearing: white helmet, cardinal red jersey and cardinal red pants, confirmed from in-game photos. The Rams are in the royal helmet, white jersey and white pants. We grade the matchup a B. This answer updates every week. For the rest of the season: Every game is assigned in the grid above. The short version: red in Weeks 7, 8, 10, 13, 16, 17 and 18, white in Weeks 1, 3, 4, 6, 9, 11 and 15, black in Weeks 5 and 12, and the desert Rivalries jersey in Week 2 against Seattle.
+Week 11 at Kansas City, November 22, worn: all white, the white helmet, white jersey and white pants, as the team announced. The Chiefs wore red over white pants and won 34-7. We grade the matchup a B. Next up is Week 12 against Washington at home on Sunday, November 29, in the black alternate with the black helmet, as the team scheduled. This answer updates every week. For the rest of the season: Every game is assigned in the grid above. The short version: red in Weeks 7, 8, 10, 13, 16, 17 and 18, white in Weeks 1, 3, 4, 6, 9, 11 and 15, black in Weeks 5 and 12, and the desert Rivalries jersey in Week 2 against Seattle.
 
 **What jerseys are the Cardinals wearing this week?**
 
-Week 10 against the Rams, today, November 15, 4:05 p.m. ET on CBS, wearing: white helmet, cardinal red jersey and cardinal red pants, confirmed from in-game photos. The Rams are in the royal helmet, white jersey and white pants. We grade the matchup a B. For the rest of the season: Every game is assigned in the grid above. The short version: red in Weeks 7, 8, 10, 13, 16, 17 and 18, white in Weeks 1, 3, 4, 6, 9, 11 and 15, black in Weeks 5 and 12, and the desert Rivalries jersey in Week 2 against Seattle.
+Week 11 at Kansas City, November 22, worn: all white, the white helmet, white jersey and white pants, as the team announced. The Chiefs wore red over white pants and won 34-7. We grade the matchup a B. Next up is Week 12 against Washington at home on Sunday, November 29, in the black alternate with the black helmet, as the team scheduled. For the rest of the season: Every game is assigned in the grid above. The short version: red in Weeks 7, 8, 10, 13, 16, 17 and 18, white in Weeks 1, 3, 4, 6, 9, 11 and 15, black in Weeks 5 and 12, and the desert Rivalries jersey in Week 2 against Seattle.
 
 **What uniform did the Cardinals wear last week?**
 

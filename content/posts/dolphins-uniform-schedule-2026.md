@@ -16,7 +16,7 @@ teams: ["miami-dolphins"]
 
 Miami has confirmed two uniform games for 2026, and they sit at opposite ends of the taste spectrum. The white throwback comes out in Week 14 against Chicago, and it is still the best thing the franchise owns. The Dark Water Rivalries uniform closes the home schedule against Buffalo on January 3, and we have already said our piece about that one. Here is the full Miami Dolphins 2026 uniform schedule: the confirmed jersey dates first, then a week-by-week outlook for the aqua and white sets.
 
-**Update, November 22:** Week 11 at Buffalo (1:00 p.m. ET, CBS) is aqua head to toe below the helmet: the **white helmet, aqua jersey and aqua pants**, confirmed from the Dolphins' own photos from the game. The Bills are in Cold Front, their all-white Rivalries uniform. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
+**Update, November 22:** Week 11 at Buffalo was aqua head to toe below the helmet: the **white helmet, aqua jersey and aqua pants**, confirmed from the Dolphins' own photos from the game. The Bills wore Cold Front, their all-white Rivalries uniform. **Final: Bills 26, Dolphins 9.** Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
 
 Want them graded instead? Here is [every Miami Dolphins jersey ranked](/stories/dolphins-jerseys-2026-ranked), worst to best.
 
@@ -111,11 +111,11 @@ How does every one of these jerseys stack up? See our [Dolphins jerseys 2026 ran
 
 **What jersey are the Dolphins wearing today?**
 
-Week 10 at Indianapolis, November 15, worn: white helmet, white jersey and aqua pants. The Colts wore royal blue over white pants, and Indianapolis won 24-22. We grade the matchup a B. This answer updates every week. Week 11 at Buffalo, today, November 22, wearing: white helmet, aqua jersey and aqua pants, confirmed from the team's game photos, against the Bills in all-white Cold Front. For the rest of the season: Mostly white, home and away. Aqua comes out three times: at the Jets in Week 7, at Buffalo in Week 11, and at home against the Chargers in Week 16. The two confirmed specials are the white throwback in Week 14 against Chicago and the Dark Water Rivalries set in Week 17 against Buffalo, both at Hard Rock Stadium.
+Week 11 at Buffalo, November 22, worn: white helmet, aqua jersey and aqua pants, confirmed from the team's game photos. The Bills wore the all-white Cold Front and won 26-9. We grade the matchup an A-. Next up is Week 12 against the Jets at home on Sunday, November 29, in white. This answer updates every week. For the rest of the season: Mostly white, home and away. Aqua comes out three times: at the Jets in Week 7, at Buffalo in Week 11, and at home against the Chargers in Week 16. The two confirmed specials are the white throwback in Week 14 against Chicago and the Dark Water Rivalries set in Week 17 against Buffalo, both at Hard Rock Stadium.
 
 **What jerseys are the Dolphins wearing this week?**
 
-Week 10 at Indianapolis, November 15, worn: white helmet, white jersey and aqua pants. The Colts wore royal blue over white pants, and Indianapolis won 24-22. We grade the matchup a B. Week 11 at Buffalo, today, November 22, wearing: white helmet, aqua jersey and aqua pants, confirmed from the team's game photos, against the Bills in all-white Cold Front. For the rest of the season: Mostly white, home and away. Aqua comes out three times: at the Jets in Week 7, at Buffalo in Week 11, and at home against the Chargers in Week 16. The two confirmed specials are the white throwback in Week 14 against Chicago and the Dark Water Rivalries set in Week 17 against Buffalo, both at Hard Rock Stadium.
+Week 11 at Buffalo, November 22, worn: white helmet, aqua jersey and aqua pants, confirmed from the team's game photos. The Bills wore the all-white Cold Front and won 26-9. We grade the matchup an A-. Next up is Week 12 against the Jets at home on Sunday, November 29, in white. For the rest of the season: Mostly white, home and away. Aqua comes out three times: at the Jets in Week 7, at Buffalo in Week 11, and at home against the Chargers in Week 16. The two confirmed specials are the white throwback in Week 14 against Chicago and the Dark Water Rivalries set in Week 17 against Buffalo, both at Hard Rock Stadium.
 
 **What uniform did the Dolphins wear last week?**
 

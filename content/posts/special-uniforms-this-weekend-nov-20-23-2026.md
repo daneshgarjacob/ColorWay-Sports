@@ -3,7 +3,7 @@ title: "Special Uniforms This Weekend: Every Alternate, Throwback And One-Time L
 author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-11-19"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-22"
 excerpt: "Every special uniform this weekend, Nov. 20-23: Florida State's first turquoise game, Miami's camo, UCF's Knights script helmet, the Bills' all-white Cold Front, the Commanders' black Hail Raiser debut on Monday night, the Pacers' and Nets' ABA throwbacks, seven NHL Hometown Remix teams and the Maine Celtics' L.L.Bean camo. Who, when, what it looks like and our grade."
 gradient: "linear-gradient(135deg, #0B1F4A 0%, #0f6f73 60%, #5A1414 130%)"
 cardStyle: words
@@ -43,10 +43,10 @@ Thursday night is already covered: the Texans debut the white-helmet HOUSTON/US 
 | San Jose Sharks | Sat | Hometown Remix: teal with shark-teeth sleeves. Won 4-3 vs. Seattle | No. 5 of 32 |
 | Vancouver Canucks | Sat | Hometown Remix: navy and bright blue. Won 4-3 in a shootout vs. Minnesota | D+ |
 | Winnipeg Jets | Sat, Mon | Hometown Remix: midnight navy with northern lights. Lost 5-4 in a shootout to Vegas on Saturday | C- |
-| Buffalo Bills | Sun | Cold Front: white helmet, white jersey, white pants | B- |
-| Detroit Lions | Sun | Black alternate with the Honolulu blue helmet | Matchup B- |
-| Tennessee Titans | Sun | Light blue jersey over light blue pants, a first | Matchup B+ |
-| Los Angeles Chargers | Sun | Powder blue jersey over powder blue pants | Matchup A- |
+| Buffalo Bills | Sun | Cold Front: white helmet, white jersey, white pants. Won 26-9 vs. Miami | B- |
+| Detroit Lions | Sun | Black alternate with the Honolulu blue helmet and black pants. Won 31-21 vs. Tampa Bay | Matchup B- |
+| Tennessee Titans | Sun | Light blue jersey over light blue pants, a first. Lost 51-30 at Dallas | Matchup B+ |
+| Los Angeles Chargers | Sun | Powder blue jersey over powder blue pants, white helmet. Lost 27-24 vs. the Jets | Matchup B- |
 | Indiana Pacers | Sun | Classic Threads: royal blue ABA road uniform | A+ |
 | Maine Celtics (G League) | Sun | L.L.Bean camo in Celtics green, debut | B- |
 | St. Louis Blues | Sun | Hometown Remix: black with the Arch crest | C+ |
@@ -228,7 +228,7 @@ Five teams wore their Hometown Remix sweaters on Saturday, each on the Remix sch
 
 ### Buffalo Bills: Cold Front Vs. Miami Dolphins
 
-**Sunday, 1 p.m. ET, CBS. Confirmed.** Buffalo wears **Cold Front**, its all-white Rivalries uniform, for its Salute to Service game. It has one date in 2026, and this is it: a **white helmet with a metal-flake finish**, a cracked-ice center stripe and a frosted charging buffalo, with an **all-white jersey and pants**, silver and frost-blue numbers and cracked ice across the shoulders. Miami is expected in aqua. Our grade for Cold Front: **B-**. Our matchup grade: **A-**. [Every Bills jersey ranked](/stories/bills-jerseys-2026-ranked).
+**Sunday, 1 p.m. ET, CBS. Confirmed.** Buffalo wears **Cold Front**, its all-white Rivalries uniform, for its Salute to Service game. It has one date in 2026, and this is it: a **white helmet with a metal-flake finish**, a cracked-ice center stripe and a frosted charging buffalo, with an **all-white jersey and pants**, silver and frost-blue numbers and cracked ice across the shoulders. Miami is expected in aqua. Our grade for Cold Front: **B-**. Our matchup grade: **A-**. [Every Bills jersey ranked](/stories/bills-jerseys-2026-ranked). **Final: Bills 26, Dolphins 9.** Buffalo wore Cold Front as scheduled, confirmed from the team's game photos, and Miami wore the white helmet, aqua jersey and aqua pants.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/1974979548539494514"></a></blockquote>
@@ -237,7 +237,7 @@ Five teams wore their Hometown Remix sweaters on Saturday, each on the Remix sch
 
 ### Detroit Lions: Black Alternate Vs. Tampa Bay
 
-**Sunday, 1 p.m. ET, FOX. Confirmed.** Detroit posted "Back in black" on Wednesday, and the team's banner for this game shows the **black jersey with the Honolulu blue helmet**. It is the second of three black alternate home dates. The Lions have not shown the pants yet. Tampa Bay confirmed all white under the pewter helmet. Our matchup grade: **B-**, because black replaces Honolulu blue, the best color Detroit owns. [Lions uniform schedule](/stories/lions-uniform-schedule-2026).
+**Sunday, 1 p.m. ET, FOX. Confirmed.** Detroit posted "Back in black" on Wednesday, and the team's banner for this game shows the **black jersey with the Honolulu blue helmet**. It is the second of three black alternate home dates. The Lions did not show the pants before game day. Tampa Bay confirmed all white under the pewter helmet. Our matchup grade: **B-**, because black replaces Honolulu blue, the best color Detroit owns. [Lions uniform schedule](/stories/lions-uniform-schedule-2026). **Final: Lions 31, Buccaneers 21.** Detroit wore the full black set, Honolulu blue helmet, black jersey and black pants, confirmed from the team's game photos, and Tampa Bay wore all white under the pewter helmet.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2123059580276265120"></a></blockquote>
@@ -246,7 +246,7 @@ Five teams wore their Hometown Remix sweaters on Saturday, each on the Remix sch
 
 ### Tennessee Titans: Light Blue Over Light Blue At Dallas
 
-**Sunday, 1 p.m. ET, FOX. Confirmed.** Dallas wears white at home, so Tennessee confirmed its **light blue jersey with light blue pants** and white socks. It is the first time the new 2026 uniforms have been paired blue over blue. The Cowboys are scheduled in white under the silver star helmet. Our matchup grade: **B+**. [The full story](/stories/titans-light-blue-pants-first-time-cowboys-2026).
+**Sunday, 1 p.m. ET, FOX. Confirmed.** Dallas wears white at home, so Tennessee confirmed its **light blue jersey with light blue pants** and white socks. It is the first time the new 2026 uniforms have been paired blue over blue. The Cowboys are scheduled in white under the silver star helmet. Our matchup grade: **B+**. [The full story](/stories/titans-light-blue-pants-first-time-cowboys-2026). **Final: Cowboys 51, Titans 30.** Tennessee wore the white helmet, light blue jersey and light blue pants as confirmed, from the team's game photos, and Dallas wore the silver star helmet, white jersey and silver-green pants.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Titans/status/2123110583176429582"></a></blockquote>
@@ -255,7 +255,7 @@ Five teams wore their Hometown Remix sweaters on Saturday, each on the Remix sch
 
 ### Los Angeles Chargers: Powder Blue Over Powder Blue Vs. Jets
 
-**Sunday, 4:05 p.m. ET, FOX. Confirmed.** The Chargers published every jersey and pants call before the season, and this is the second and last date for the **powder blue jersey over powder blue pants**. The first was Week 5 against Denver, under the white helmet. The helmet for this game comes with the team's game-week post. The Jets confirmed a green helmet, white jersey and green pants. Our matchup grade: **A-**. [Chargers uniform schedule](/stories/chargers-uniform-schedule-2026).
+**Sunday, 4:05 p.m. ET, FOX. Confirmed.** The Chargers published every jersey and pants call before the season, and this is the second and last date for the **powder blue jersey over powder blue pants**. The first was Week 5 against Denver, under the white helmet. The helmet was the white one, from the team's game-day photos. The Jets confirmed a green helmet, white jersey and green pants. Our matchup grade: **B-**, because powder on powder is our least favorite Chargers combination. [Chargers uniform schedule](/stories/chargers-uniform-schedule-2026). **Final: Jets 27, Chargers 24.** Los Angeles wore the powder blue jersey and powder blue pants under the white helmet, confirmed from ESPN's game photos and the FOX broadcast, and the Jets wore White on Green.
 
 ### Indiana Pacers: Classic Threads At The Knicks
 

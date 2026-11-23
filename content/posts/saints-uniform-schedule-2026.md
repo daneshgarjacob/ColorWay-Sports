@@ -16,7 +16,7 @@ teams: ["new-orleans-saints"]
 
 The Saints published their full 2026 uniform schedule on September 7, and the plan is built on helmets rather than jerseys. The **gold jersey comes out once**, against Cleveland under the black helmet, **white gets two home dates**, black travels to Baltimore, and all three helmets are on the calendar: the gold shell as the base, the white shell three times, the black shell twice. The one thing the team left open is pants, which the captains pick the week of each game. Here is the full New Orleans Saints 2026 uniform schedule, week by week, every game confirmed by the club.
 
-**Update, November 22:** Week 11 at Chicago (1:00 p.m. ET, FOX) is the standard road set, confirmed from the Saints' own photos from the game: **gold helmet, white jersey and white pants**. The Bears are in navy over white pants. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
+**Update, November 22:** Week 11 at Chicago was the standard road set, confirmed from the Saints' own photos from the game: **gold helmet, white jersey and white pants**. The Bears wore navy over white pants. **Final: Bears 21, Saints 13.** Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
 
 **Update, November 5:** New Orleans confirmed its Week 9 look against Cleveland on Sunday, November 8 (1:00 p.m. ET, CBS), and it is the gold game as scheduled: **black helmet, gold jersey, gold pants** and black socks, from the team's game-week uniform graphic.
 
@@ -135,11 +135,11 @@ How does every one of these jerseys stack up? See our [Saints jerseys 2026 ranki
 
 **What jersey are the Saints wearing today?**
 
-Week 10 against Carolina, November 15, worn: all black, the black helmet, black jersey and black pants. The Panthers wore the silver helmet, white jersey and white pants, and Carolina won 20-17. We grade the matchup a B. This answer updates every week. Week 11 at Chicago, today, November 22, wearing: gold helmet, white jersey and white pants, confirmed from the team's game photos. The Bears are in navy. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
+Week 11 at Chicago, November 22, worn: gold helmet, white jersey and white pants, confirmed from the team's game photos. The Bears wore navy over white pants and won 21-13. We grade the matchup a B+. Next up is Week 12 at Cincinnati on Sunday, November 29, in the white alternate with the white helmet. This answer updates every week. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
 
 **What jerseys are the Saints wearing this week?**
 
-Week 10 against Carolina, November 15, worn: all black, the black helmet, black jersey and black pants. The Panthers wore the silver helmet, white jersey and white pants, and Carolina won 20-17. We grade the matchup a B. Week 11 at Chicago, today, November 22, wearing: gold helmet, white jersey and white pants, confirmed from the team's game photos. The Bears are in navy. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
+Week 11 at Chicago, November 22, worn: gold helmet, white jersey and white pants, confirmed from the team's game photos. The Bears wore navy over white pants and won 21-13. We grade the matchup a B+. Next up is Week 12 at Cincinnati on Sunday, November 29, in the white alternate with the white helmet. For the rest of the season: Check the week in the grid above, because the Saints published a full plan: black at home except two white games and the gold game against Cleveland, white on the road except black in Baltimore.
 
 **What uniform did the Saints wear last week?**
 

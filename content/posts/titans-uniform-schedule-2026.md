@@ -16,7 +16,7 @@ teams: ["tennessee-titans"]
 
 Tennessee's 2026 uniform schedule is different from everyone else's, because every single week is a debut. The Titans unveiled a full rebrand in March, their first uniform change since 2018, and the new light blue home set has not played a regular season snap yet. There is no throwback on the calendar. What there is instead is a clean two-uniform system plus one brand-new third look: the Music City Rivalries uniform, revealed August 25 and confirmed for Week 10 against Jacksonville. Here is the full Tennessee Titans 2026 uniform schedule, week by week.
 
-**Update, November 22:** Week 11 at Dallas (1:00 p.m. ET, FOX) is light blue over light blue under the **white helmet**, confirmed from the Titans' own photos from the game: white helmet, light blue jersey and light blue pants. The Cowboys are in white over silver-green pants. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
+**Update, November 22:** Week 11 at Dallas was light blue over light blue under the **white helmet**, confirmed from the Titans' own photos from the game: white helmet, light blue jersey and light blue pants. The Cowboys wore white over silver-green pants. **Final: Cowboys 51, Titans 30.** Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
 
 Want them graded instead? Here is [every Tennessee Titans jersey ranked](/stories/titans-jerseys-2026-ranked), worst to best.
 
@@ -139,11 +139,11 @@ How does every one of these jerseys stack up? See our [Titans jerseys 2026 ranki
 
 **What jersey are the Titans wearing today?**
 
-Week 10 against Jacksonville, November 15, worn: the Music City Rivalries debut, the Titans Blue helmet with the circular navy T, navy Music City jersey and navy pants. The Jaguars wore the black helmet, white jersey and black pants, and won 40-23. We grade the matchup a B. This answer updates every week. Week 11 at Dallas, today, November 22, wearing: white helmet, light blue jersey and light blue pants, confirmed from the team's game photos. The Cowboys are in white. For the rest of the season: Titans Blue at home and white on the road in the new uniform set, with one confirmed exception: the Music City Rivalries uniform in Week 10 against Jacksonville. Week 11 at Dallas is the light blue set, because the Cowboys wear white at home.
+Week 11 at Dallas, November 22, worn: white helmet, light blue jersey and light blue pants, confirmed from the team's game photos. The Cowboys wore white over silver-green pants and won 51-30. We grade the matchup a B+. Next up is Week 12 at Jacksonville on Sunday, November 29, expected in white. This answer updates every week. For the rest of the season: Titans Blue at home and white on the road in the new uniform set, with one confirmed exception: the Music City Rivalries uniform in Week 10 against Jacksonville. Week 11 at Dallas is the light blue set, because the Cowboys wear white at home.
 
 **What jerseys are the Titans wearing this week?**
 
-Week 10 against Jacksonville, November 15, worn: the Music City Rivalries debut, the Titans Blue helmet with the circular navy T, navy Music City jersey and navy pants. The Jaguars wore the black helmet, white jersey and black pants, and won 40-23. We grade the matchup a B. Week 11 at Dallas, today, November 22, wearing: white helmet, light blue jersey and light blue pants, confirmed from the team's game photos. The Cowboys are in white. For the rest of the season: Titans Blue at home and white on the road in the new uniform set, with one confirmed exception: the Music City Rivalries uniform in Week 10 against Jacksonville. Week 11 at Dallas is the light blue set, because the Cowboys wear white at home.
+Week 11 at Dallas, November 22, worn: white helmet, light blue jersey and light blue pants, confirmed from the team's game photos. The Cowboys wore white over silver-green pants and won 51-30. We grade the matchup a B+. Next up is Week 12 at Jacksonville on Sunday, November 29, expected in white. For the rest of the season: Titans Blue at home and white on the road in the new uniform set, with one confirmed exception: the Music City Rivalries uniform in Week 10 against Jacksonville. Week 11 at Dallas is the light blue set, because the Cowboys wear white at home.
 
 **What uniform did the Titans wear last week?**
 

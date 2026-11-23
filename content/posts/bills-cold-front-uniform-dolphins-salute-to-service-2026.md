@@ -1,10 +1,10 @@
 ---
-title: "Bills Will Wear The Cold Front Uniform Vs. Dolphins On Salute To Service Sunday: All White, Metal-Flake Helmet On November 22"
+title: "Bills Wore The Cold Front Uniform Vs. Dolphins On Salute To Service Sunday: All White, Metal-Flake Helmet In A 26-9 Win"
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
 updatedDate: "2026-11-22"
-excerpt: "The Bills wear Cold Front, their all-white Rivalries uniform, against the Dolphins on Sunday, November 22, at 1:00 p.m. ET on CBS, their Salute to Service game and its only date this season: a white metal-flake helmet with a cracked-ice stripe, a white BUFFALO jersey with frosted silver numbers and white pants. Miami is expected in aqua. Every detail and our grade."
+excerpt: "The Bills wore Cold Front, their all-white Rivalries uniform, in a 26-9 win over the Dolphins on Sunday, November 22, their Salute to Service game and its only date this season: a white metal-flake helmet with a cracked-ice stripe, a white BUFFALO jersey with frosted silver numbers and white pants. Miami wore aqua. Every detail and our grade."
 gradient: "linear-gradient(135deg, #e8eef5 0%, #00338D 70%, #0a1a3a 130%)"
 coverImage: "/images/posts/bills-cold-front-uniform-dolphins-salute-to-service-2026/cover-cold-front-44.jpg"
 coverImagePosition: "center 25%"
@@ -22,6 +22,8 @@ teams: ["buffalo-bills", "miami-dolphins"]
 ---
 
 **Cold Front comes out once this season, and this is the day.** The Bills wear their all-white Rivalries uniform when they host the Miami Dolphins on **Sunday, November 22, at 1:00 p.m. Eastern on CBS**, Buffalo's Salute to Service game. That is a **white helmet with a metal-flake finish** and a cracked-ice center stripe, a **white jersey** with frosted silver numbers outlined in royal blue, and **white pants**. Buffalo put this game on its home schedule as "Rivalries" before the season started, and it is the only Cold Front date in 2026.
+
+**Update, November 22, final:** the Bills beat the Dolphins 26-9 in Cold Front. ESPN's game photos match the team's: all white for Buffalo, aqua over aqua under the white helmet for Miami. We keep our B- for the uniform.
 
 **Update, November 22:** it is on the field. The Bills' own pregame and first-half photos show the full set as described below, the metal-flake white helmet, white BUFFALO jersey and white pants, and Miami in the **white helmet, aqua jersey and aqua pants**.
 

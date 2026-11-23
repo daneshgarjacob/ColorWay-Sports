@@ -3,7 +3,7 @@ topViewsRank: 10
 title: "New York Jets Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-10"
-updatedDate: "2026-11-20"
+updatedDate: "2026-11-22"
 excerpt: "The Jets' 2026 uniform schedule: confirmed dates for the new all-white White Out, the Classic throwback, and the Gotham City Rivalries jersey, plus a week-by-week outlook."
 gradient: "linear-gradient(135deg, #125740 0%, #0a3327 60%, #1f7a55 130%)"
 coverImage: "/images/posts/jets-uniform-schedule-2026/cover.jpg"
@@ -126,11 +126,11 @@ How does every one of these jerseys stack up? See our [Jets jerseys 2026 ranking
 
 **What jersey are the Jets wearing today?**
 
-Week 10 against Buffalo, November 15, worn: Black on Black, the black helmet, black jersey and black pants, for the Salute to Service game. The Bills wore all white and won 31-12. We grade the matchup a B-. This answer updates every week. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
+Week 11 at the Chargers, November 22, worn: White on Green, the green helmet, white jersey and green pants, as the team announced and as ESPN's game photos show. The Chargers wore powder blue over powder blue pants, and New York won 27-24. We grade the matchup a B-. Next up is Week 12 at Miami on Sunday, November 29, in green. This answer updates every week. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
 
 **What jerseys are the Jets wearing this week?**
 
-Week 10 against Buffalo, November 15, worn: Black on Black, the black helmet, black jersey and black pants, for the Salute to Service game. The Bills wore all white and won 31-12. We grade the matchup a B-. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
+Week 11 at the Chargers, November 22, worn: White on Green, the green helmet, white jersey and green pants, as the team announced and as ESPN's game photos show. The Chargers wore powder blue over powder blue pants, and New York won 27-24. We grade the matchup a B-. Next up is Week 12 at Miami on Sunday, November 29, in green. For the rest of the season: Gotham green at home and white on the road, with three confirmed exceptions, all at MetLife. Week 2 against Green Bay is the White Out, Week 7 against Miami is the Classic set, and Week 16 against New England is the Gotham City Rivalries jersey. Week 10 against Buffalo is the black alternate, and the Jets wear green on the road at Miami in Week 12 and Arizona in Week 15.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/nyjets/status/2115443769134678515"></a></blockquote>
 
@@ -142,7 +142,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Jets wearing next week?**
 
-Week 11 at the Chargers, Sunday, November 22, confirmed: White on Green, the green helmet, white jersey and green pants, from the team's game-week post. After that, Gotham green at home and white away, unless the week is one of the three confirmed alternate dates above, the black alternate against Buffalo in Week 10, or a green road game at Miami in Week 12 or Arizona in Week 15.
+Week 12 at Miami, Sunday, November 29, in green, since the Dolphins wear white at home. Week 11 at the Chargers was White on Green, the green helmet, white jersey and green pants, in a 27-24 win. After that, Gotham green at home and white away, unless the week is one of the three confirmed alternate dates above, the black alternate against Buffalo in Week 10, or a green road game at Miami in Week 12 or Arizona in Week 15.
 
 **What jerseys do the Jets have in 2026?**
 

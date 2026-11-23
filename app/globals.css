@@ -412,6 +412,17 @@ a {
   margin: 1em 0;
 }
 
+/* X embeds before widgets.js swaps them in (or when it is blocked): the
+   fallback link is a bare URL, one unbroken line that pushed phone pages
+   sideways. Wrap it and keep the box inside its column. */
+blockquote.twitter-tweet,
+blockquote.twitter-video {
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
 /* One bottom bar at a time on phones: while the newsletter bar is up
    (components/EmailCapture.tsx sets the flag), the story "Up Next" bar waits. */
 html[data-cw-bottom-bar] .cw-upnext {
