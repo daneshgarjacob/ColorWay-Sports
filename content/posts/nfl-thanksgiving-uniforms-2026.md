@@ -3,7 +3,7 @@ title: "NFL Thanksgiving Uniforms 2026: What Every Team Will Wear, Wednesday Thr
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-02"
-updatedDate: "2026-11-19"
+updatedDate: "2026-11-23"
 excerpt: "NFL Thanksgiving uniforms for 2026, all five holiday-week games: the Rams debut Fearsome White against the Packers on Thanksgiving Eve, the Cowboys wear their 1960s Classic throwback against the Eagles, the Lions host the Bears in Honolulu blue, the Bills wear royal blue against the Chiefs at night, and the Steelers host the Broncos on Black Friday."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #869397 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -43,9 +43,9 @@ Matchups, kickoff times and networks are from ESPN's NFL schedule. Every team's 
 
 **Rams: Fearsome White (Scheduled).** Los Angeles assigned all 17 of its 2026 games on September 1, and this is the only date for Fearsome White: a white jersey with royal blue numbers, a continuous horn stripe over the shoulder, and a royal blue helmet with white horns and a white facemask. It is named for the Fearsome Foursome defensive line of the 1960s ([who they were](/stories/who-were-the-fearsome-foursome)), and we graded it an A- when it [first leaked](/stories/rams-leaked-alternate-jerseys-2026). Full season in our [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
 
-**Packers: green jersey (Expected).** Two teams cannot both wear white, so Green Bay brings the green home jersey to SoFi Stadium with the gold helmet and gold pants, as it did at the Jets in Week 2. It is one of three road games this season where the host took white first. See our [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
+**Packers: green jersey (Confirmed).** Two teams cannot both wear white, so Green Bay brings the green home jersey to SoFi Stadium with the gold helmet and gold pants, as it did at the Jets in Week 2. The Packers confirmed it on November 23 ("On Wednesdays we wear Green & Gold"). It is one of three road games this season where the host took white first. See our [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/packers-green-home.jpg" alt="Green Bay Packers green jersey, expected at the Rams on Thanksgiving Eve 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Packers · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-fearsome-white.jpg" alt="Los Angeles Rams Fearsome White alternate jersey, on the team's published schedule for Thanksgiving Eve 2026 against the Packers" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams · Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/packers-green-home.jpg" alt="Green Bay Packers green jersey, confirmed for the Rams game on Thanksgiving Eve 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Packers · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-fearsome-white.jpg" alt="Los Angeles Rams Fearsome White alternate jersey, on the team's published schedule for Thanksgiving Eve 2026 against the Packers" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams · Scheduled</figcaption></figure></div>
 
 It is the first NFL game ever played on Thanksgiving Eve. [How the league picks these windows](/stories/how-nfl-picks-prime-time-games-2026). Every Fearsome White detail and our grade: [What Are The Rams Wearing On Thanksgiving Eve 2026?](/stories/packers-rams-thanksgiving-eve-uniforms-2026)
 
@@ -116,7 +116,7 @@ No. The Cowboys' Classic throwback is a navy jersey, so Philadelphia needs to we
 
 **What are the Rams wearing on Thanksgiving Eve?**
 
-Fearsome White, the new white alternate with the white-horn helmet, against the Packers on Wednesday, November 25. It is on the uniform schedule the Rams published on September 1, and it is the jersey's only game this season. We expect Green Bay in its green jersey.
+Fearsome White, the new white alternate with the white-horn helmet, against the Packers on Wednesday, November 25. It is on the uniform schedule the Rams published on September 1, and it is the jersey's only game this season. Green Bay has confirmed its green jersey, gold pants and gold helmet.
 
 **Is there an NFL game the night before Thanksgiving in 2026?**
 
