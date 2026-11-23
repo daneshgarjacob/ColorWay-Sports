@@ -21,7 +21,7 @@ Same template, very different results. One of them is great, a couple are fun, a
 
 ## Quick Answers
 
-- **What is the best Specter Edition jersey?** The Detroit Pistons', with red and blue flames on black.
+- **What is the best Specter Edition jersey?** The Detroit Pistons', with red, orange and yellow flames on black.
 - **What is the worst?** The Golden State Warriors'. The graphic only covers one side.
 - **What makes the good ones work?** A real idea tied to the team (Detroit's hot-rod flames, Boston's green) or real color (Atlanta).
 - **When do teams wear them?** Three home games each, between November 29 and December 29. The Pistons, Warriors, Knicks and Kings go first on November 29.
@@ -75,10 +75,10 @@ Hard to see on the runway, because the model wore a jacket over it. Flat, it's b
 
 ## 5. Los Angeles Lakers
 
-<img src="/images/posts/nba-xmas-2026-lakers/lakers-specter-nba.jpg" alt="Los Angeles Lakers Specter Edition jersey: black with a dark purple satin-like sheen and gold numbers" style="display:block;width:100%;max-width:420px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
+<img src="/images/posts/nba-xmas-2026-lakers/lakers-specter-nba.jpg" alt="Los Angeles Lakers Specter Edition jersey: black with a dark purple satin-like sheen and black numbers outlined in gold" style="display:block;width:100%;max-width:420px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image via NBA</p>
 
-Dark purple with a satin-like sheen over black, plus gold numbers and wordmark. The purple is so dark it reads almost black on TV, and the gold barely shows up. For a team whose whole identity is purple and gold, it's too quiet. Not bad, just right in the middle.
+Dark purple with a satin-like sheen over black, plus black numbers outlined in gold and a gold wordmark. The purple is so dark it reads almost black on TV, and the gold barely shows up. For a team whose whole identity is purple and gold, it's too quiet. Not bad, just right in the middle.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lakers/status/2124946654470226085"></a></blockquote>
@@ -128,10 +128,10 @@ Bright blue, teal and lime brushstrokes across the whole front. These aren't Atl
 
 ## 1. Detroit Pistons
 
-<img src="/images/posts/nba-xmas-2026-pistons/pistons-specter-nba.jpg" alt="Detroit Pistons Specter Edition jersey: black with red and blue flames and teal trim" style="display:block;width:100%;max-width:420px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
+<img src="/images/posts/nba-xmas-2026-pistons/pistons-specter-nba.jpg" alt="Detroit Pistons Specter Edition jersey: black with red, orange and yellow flames and teal trim" style="display:block;width:100%;max-width:420px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image via NBA</p>
 
-Not close. Red and blue flames rising from the waist and coming down from the shoulders, with teal trim, on a black base. Flames are usually a bad idea on a jersey, but this is the Motor City, and hot-rod flames are part of Detroit. It's the only one of the eight where the dark base and the graphic feel like they belong together. This is the one we'd buy.
+Not close. Red, orange and yellow flames rising from the waist and coming down from the shoulders, with teal trim, on a black base. Flames are usually a bad idea on a jersey, but this is the Motor City, and hot-rod flames are part of Detroit. It's the only one of the eight where the dark base and the graphic feel like they belong together. This is the one we'd buy.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/DetroitPistons/status/2124946113744523729"></a></blockquote>
@@ -150,7 +150,7 @@ Want the design breakdown and every date in one place? See our [Specter Edition 
 
 **What is the best NBA Specter Edition jersey?**
 
-The Detroit Pistons'. Red and blue hot-rod flames on a black base with teal trim. It is the only one of the eight where the dark template and the graphic feel like they belong together.
+The Detroit Pistons'. Red, orange and yellow hot-rod flames on a black base with teal trim. It is the only one of the eight where the dark template and the graphic feel like they belong together.
 
 **What is the worst NBA Specter Edition jersey?**
 
