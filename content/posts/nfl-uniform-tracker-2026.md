@@ -309,7 +309,7 @@ What the Jaguars and Giants wore, helmet to pants, confirmed from ESPN's game ph
 
 ### Minnesota Vikings at San Francisco 49ers
 
-What the Vikings and 49ers wore, helmet to pants, confirmed from ESPN's game photos at Estadio Banorte in Mexico City, where San Francisco was the designated home team. The 49ers wore the gold helmet, scarlet jersey and gold pants, as the team scheduled. Minnesota wore the purple helmet, white jersey and white pants. The 49ers won 35-10. We grade it a B.
+What the Vikings and 49ers wore, helmet to pants, confirmed from ESPN's game photos at Estadio Banorte in Mexico City, where San Francisco was the designated home team. The 49ers wore the gold helmet, scarlet jersey and gold pants, as the team scheduled. Minnesota wore the purple helmet, white jersey and white pants. The 49ers won 35-10. We grade it a B. More: [what both teams wore in Mexico City, and every Mexico City game uniform since 2005](/stories/49ers-vikings-mexico-city-uniforms-2026).
 
 <div style="margin: 1.4em 0 0.6em;">
 <div data-card="nfl-d5" style="position: relative; background: radial-gradient(120% 90% at 100% 0%, rgba(47,107,237,0.38) 0%, rgba(47,107,237,0) 55%), linear-gradient(160deg, #142a52 0%, #0b1a2f 55%, #08121f 100%); border-radius: 16px; padding: clamp(12px, 3.5vw, 20px); box-shadow: 0 1px 2px rgba(8,18,31,0.10), 0 10px 28px rgba(8,18,31,0.18);">

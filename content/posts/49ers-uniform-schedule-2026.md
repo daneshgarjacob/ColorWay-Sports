@@ -71,7 +71,7 @@ The 49ers wear their standard scarlet and white for most of the season, includin
 
 **Their Week 1 opponent:** the [Los Angeles Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) has the other side of this matchup, and the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what both teams actually wear once it is played.
 
-Scarlet at Levi's, white on the road, and four dates that break the pattern. Week 11 against Minnesota is at Estadio Azteca in Mexico City, where San Francisco is the designated home team.
+Scarlet at Levi's, white on the road, and four dates that break the pattern. Week 11 against Minnesota is at Estadio Azteca in Mexico City, where San Francisco is the designated home team. It wore scarlet and gold pants there and won 35-10: [what both teams wore in Mexico City, and every Mexico City game uniform since 2005](/stories/49ers-vikings-mexico-city-uniforms-2026).
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
   <div style="background: #f1f3f8; color: #333; border: 2px solid #AA0000; border-radius: 10px; padding: 11px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.9;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Rams</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Melbourne</div></div>
