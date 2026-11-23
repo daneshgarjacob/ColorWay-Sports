@@ -117,7 +117,7 @@ The Lions host the Bears again this year, at Ford Field on Thursday, November 26
 
 ## Our Take
 
-This should be Detroit's Thanksgiving uniform every year. The Cowboys have made their 1960s Classic the standard on the holiday, and it has become part of how Thanksgiving looks. The Lions have a better story than Dallas: the Thanksgiving game is Detroit's, it started in 1934, and the team already owns a uniform from 1934. The plain blue jersey, the silver numbers and the logo-free silver helmet look good on their own. Against the Bears, the team that played the first one, it would be a perfect fit. Wear it every year.
+This should be Detroit's Thanksgiving uniform every year. The Cowboys have made their 1960s Classic the standard on the holiday, and it has become part of how Thanksgiving looks. The Lions have a better story than Dallas: the Thanksgiving game is Detroit's, it started in 1934, and the team already owns a uniform from 1934. The plain blue jersey, the silver numbers and the logo-free silver helmet look good on their own. Against the Bears, the team that played the first one, it would be a perfect fit. Wear it every year, starting Thursday: it's their history, so they should learn how to win in it, even after going [0-5 in it on Thanksgiving](/stories/lions-record-in-throwbacks-on-thanksgiving).
 
 ## Frequently Asked Questions
 

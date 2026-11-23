@@ -1,6 +1,6 @@
 ---
 title: "Lions' Record In Throwbacks On Thanksgiving: 0-5 Since 2017, And Every Game Year By Year"
-author: "colorway-sports-staff"
+author: "jake-daneshgar"
 category: NFL
 date: "2026-11-23"
 updatedDate: "2026-11-23"
@@ -25,7 +25,7 @@ The record is real. It is also not the uniform's fault: in the **other four** Th
 - **Are 2018 and 2020 really throwback games?** Yes. Gridiron Uniform Database logs the same uniform for 2017, 2018 and 2020, and the Lions' own photos from both games show the logo-free silver helmet and stripeless blue jersey. Neither was the grey Color Rush.
 - **Record in other uniforms on Thanksgiving since 2017:** **1-3.** The only win was 2024, in all blue.
 - **What are the Lions wearing on Thanksgiving 2026?** **Not announced.** We expect the Honolulu blue home jersey with the silver helmet. In recent years Detroit has announced its Thanksgiving look one to two days before the game.
-- **Should they wear the throwbacks?** Yes. Five losses in a uniform is not a curse, and the throwback is the right uniform for this game.
+- **Should they wear the throwbacks?** Yes. It's their history, so they should learn how to win in it.
 
 ## Every Lions Thanksgiving Since 2017
 
@@ -110,9 +110,9 @@ Detroit hosts the Bears at Ford Field on **Thursday, November 26, at 1 p.m. ET o
 
 ## Should They Wear Them? Yes.
 
-The 0-5 is real and it does not matter. The Lions lost those games because of who they were playing and who they were. Three of the five came in 2017, 2018 and 2020, seasons Detroit finished 9-7, 6-10 and 5-11 and missed the playoffs every time. The other two were losses to Green Bay, a division rival that knows them better than anyone. The same stretch has the Lions 1-3 in their other uniforms, including two losses in the grey Color Rush and one in their regular home set. If the throwback is cursed, so is the home jersey.
+We want the Lions in the throwbacks on Thursday. It's their history. This is the uniform Detroit wore in 1934, the year the Lions started the Thanksgiving game, against the same Bears who come to Ford Field this week. The full story is in [why the Lions wear 1934 throwbacks on Thanksgiving](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving).
 
-The case for wearing it is everything else. It is a copy of what Detroit wore in 1934, the year the Lions started the Thanksgiving game, and this year's opponent is the Bears, the same team they played that first Thanksgiving. The full story is in [why the Lions wear 1934 throwbacks on Thanksgiving](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving). A uniform with that history, on that date, against that opponent, should not be benched over a stat. Wear them, and win in them.
+The 0-5 is no reason to put them away. Detroit is 1-3 in everything else over the same stretch, so the jersey isn't the problem. It's their history, so they should learn how to win in it. Thursday is a good place to start.
 
 ## Frequently Asked Questions
 
