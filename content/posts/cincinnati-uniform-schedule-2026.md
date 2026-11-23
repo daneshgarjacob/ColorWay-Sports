@@ -3,7 +3,7 @@ title: "Cincinnati Uniform Schedule 2026: Every Jersey and When the Bearcats Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-23"
 excerpt: "Cincinnati Bearcats uniform schedule 2026: every jersey and helmet week by week, from the all-red opener to black at Nipp at Night and white on the road."
 gradient: "linear-gradient(135deg, #000000 0%, #1f1f1f 55%, #E00122 130%)"
 cardStyle: words
@@ -80,7 +80,7 @@ The current wardrobe arrived in July 2025 with the start of Cincinnati's Nike de
 
 **November 21 vs. Colorado.** Black or red expected. The last home game of the season, with Colorado in white per the [Colorado 2026 uniform schedule](/stories/colorado-uniform-schedule-2026). **Worn: red helmet, black jersey, black pants**, confirmed from the game broadcast. Colorado wore a white helmet, gold jersey and white pants. **Final: Cincinnati 35, Colorado 28.**
 
-**November 28 at BYU.** White expected. The regular season finale in Provo, where BYU wears royal at home, per the [BYU 2026 uniform schedule](/stories/byu-uniform-schedule-2026).
+**November 28 at BYU.** White expected. The regular season finale in Provo, where BYU wears royal at home. BYU has announced its look for the game: a **white helmet, royal jersey and white pants**, posted on Monday of game week as "Classic"; see the [BYU 2026 uniform schedule](/stories/byu-uniform-schedule-2026). Cincinnati has not posted its uniform yet.
 
 ## The Bottom Line
 

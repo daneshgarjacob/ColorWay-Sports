@@ -100,10 +100,10 @@ The 76ers had not posted official Specter photos as of November 23.
 
 ## 3. Boston Celtics
 
-<img src="/images/posts/nba-xmas-2026-celtics/celtics-specter-nba.jpg" alt="Boston Celtics Specter Edition jersey: green with a dark green glow pattern, white numbers and black trim" style="display:block;width:100%;max-width:420px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
+<img src="/images/posts/nba-xmas-2026-celtics/celtics-specter-nba.jpg" alt="Boston Celtics Specter Edition jersey: green with a dark green glow pattern, dark green numbers outlined in white and black trim" style="display:block;width:100%;max-width:420px;margin:0.5em auto;border-radius:10px;" loading="lazy" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image via NBA</p>
 
-Mostly Celtics green, with a darker green glow swirling through it and white numbers. It's the one jersey in the set that still looks exactly like the team from a distance. Boston owns that green, and letting it take over the dark template was the right call. A little busy up close, but it works.
+Mostly Celtics green, with a darker green glow swirling through it and dark green numbers outlined in white. It's the one jersey in the set that still looks exactly like the team from a distance. Boston owns that green, and letting it take over the dark template was the right call. A little busy up close, but it works.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/celtics/status/2124936497262739796"></a></blockquote>

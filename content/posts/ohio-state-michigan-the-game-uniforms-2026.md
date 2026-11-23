@@ -3,6 +3,7 @@ title: "What Are Ohio State And Michigan Wearing? The Game Uniforms 2026"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-19"
+updatedDate: "2026-11-23"
 excerpt: "Ohio State vs. Michigan uniforms for The Game 2026: noon ET on FOX at Ohio Stadium on November 28. Ohio State is the home team in scarlet with three alternates still unassigned, and Michigan is expected in white. What both wore in 2023, 2024 and 2025, everything each has worn this season, and what to watch for in game week."
 gradient: "linear-gradient(135deg, #BB0000 0%, #1a0505 55%, #00274C 130%)"
 cardStyle: words
@@ -25,7 +26,7 @@ resurfaceOnUpdate: true
 ## Quick Answers
 
 - **What is Ohio State wearing against Michigan?** Expected: silver helmet, scarlet jersey. Ohio State is the home team.
-- **What is Michigan wearing at Ohio State?** Expected: the winged helmet and white jersey, the road set it wore in Columbus in 2024.
+- **What is Michigan wearing at Ohio State?** Expected: the winged helmet and white jersey, the road set it wore in Columbus in 2024. Michigan's Monday "Rivalry Week" promo photo shows that look, but it is not a game uniform post.
 - **Is Ohio State wearing an alternate?** Not announced. Scarlet Rush, Sub Zero and Tunnel Vision all exist, and none has been assigned a game.
 - **When is The Game?** Saturday, November 28, noon ET on FOX, at Ohio Stadium in Columbus.
 - **What did they wear last year?** In Ann Arbor in 2025, Michigan wore its "Big Game Blues," navy over navy, and Ohio State wore white. Ohio State won 27-9.
@@ -66,6 +67,14 @@ From our [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-202
 - **Blue over blue** for the Stripe Out against Iowa on September 26.
 - **Maize helmet, navy jersey, navy pants** against Indiana on October 24, posted by Michigan as "Saturday's Threads."
 - **On the road:** the winged helmet and white jersey with **blue pants** at Minnesota (Oct. 3) and with **maize pants** at Oregon (Nov. 14), the last road game before Columbus.
+
+On Monday, November 23, Michigan posted "Rivalry Week." with a promo photo for the game: a player in the **white jersey and the maize winged helmet**, shot inside the Ohio Stadium rotunda, with "Nov. 28, Noon ET, on FOX" at the bottom. That is a promo graphic, not the team's game uniform post, so Michigan stays **expected in white** here until it posts its uniform for Saturday, as it did in game week for Indiana and Oregon.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UMichFootball/status/2124873790853464573"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">Michigan's Rivalry Week promo photo, not a uniform announcement, via <a href="https://x.com/UMichFootball" target="_blank" rel="noopener">@UMichFootball</a></p>
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UMichFootball/status/2121323847500923033"></a></blockquote>

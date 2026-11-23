@@ -3,7 +3,7 @@ title: "BYU Uniform Schedule 2026: Every Jersey and When the Cougars Wear It"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-23"
 excerpt: "What BYU wears every game in 2026: royal home jerseys, white road uniforms, navy looks, helmet swaps, and the full Cougars uniform schedule week by week."
 gradient: "linear-gradient(135deg, #002E5D 0%, #0062B8 55%, #ffffff 130%)"
 cardStyle: words
@@ -49,7 +49,7 @@ BYU has not announced a 2026 alternate or throwback yet. Its past specials inclu
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Utah</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0062B8; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Baylor</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / Royal / Royal</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kansas</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; White / White / White</div></div>
-  <div style="background: #0062B8; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Royal</div></div>
+  <div style="background: #0062B8; color: #ffffff; border: 2px solid #002E5D; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Cincinnati</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Announced: White / Royal / White</div></div>
 </div>
 
 Starred cells are confirmed and list helmet / jersey / pants. Unstarred cells show the announced or expected color.
@@ -95,7 +95,10 @@ See the [TCU 2026 uniform schedule](/stories/tcu-uniform-schedule-2026) for the 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;"><blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2122350572917621028"></a></blockquote></div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Game 11 uniform reveal, via @BYUfootball</p>
 
-**November 28 vs. Cincinnati.** Royal expected. The regular season finale and the last home game in Provo.
+**November 28 vs. Cincinnati.** Royal expected. The regular season finale and the last home game in Provo. Announced: **white helmet, royal jersey, white pants**. BYU revealed it on Monday of game week as "Classic," with a Gameday Threads, Game 12, vs Cincinnati graphic: the white shell with royal stripes and the royal oval Y, the royal home jersey with white numbers, and white pants with a royal, white and royal stripe. It is the same helmet, jersey and pants BYU announced for Notre Dame on October 17. Cincinnati is expected in white; see the [Cincinnati 2026 uniform schedule](/stories/cincinnati-uniform-schedule-2026). We will star it once we see it on the broadcast.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;"><blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BYUfootball/status/2124912192780939474"></a></blockquote></div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Game 12 uniform reveal, via @BYUfootball</p>
 
 ## The Bottom Line
 
@@ -105,7 +108,7 @@ BYU has one of the easiest color rules in the sport and one of the hardest wardr
 
 **What jersey is BYU wearing this week?**
 
-BYU wore its announced all-white uniform at Kansas on Saturday, November 21: a white helmet with a royal blue facemask, a white jersey and white pants, all trimmed in royal blue, confirmed from the game broadcast. The Cougars won 31-29 in triple overtime. Next is Cincinnati at home on November 28, the regular season finale, where royal is expected.
+BYU wore its announced all-white uniform at Kansas on Saturday, November 21: a white helmet with a royal blue facemask, a white jersey and white pants, all trimmed in royal blue, confirmed from the game broadcast. The Cougars won 31-29 in triple overtime. Next is Cincinnati at home on November 28, the regular season finale, and BYU has announced a white helmet with royal stripes, a royal jersey and white pants for it, posted on Monday of game week as "Classic."
 
 **What are BYU's football uniforms for 2026?**
 

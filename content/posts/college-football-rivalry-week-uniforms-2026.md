@@ -115,7 +115,7 @@ Every look in this table is Expected unless the game section below says otherwis
 
 **Ohio State: scarlet (Expected).** Ohio State has broken out alternates for this game before: in 2009 it wore a one-time Nike Pro Combat uniform honoring its 1954 national champions, white helmets included, at Michigan ([Ohio State Athletics](https://ohiostatebuckeyes.com/news/2009/11/17/ohio-state-to-wear-tribute-uniforms)). If anything is being held back for one Saturday, it is this one. [Ohio State 2026 uniform schedule](/stories/ohio-state-uniform-schedule-2026).
 
-**Michigan: white (Expected).** The road set for Columbus. [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026).
+**Michigan: white (Expected).** The road set for Columbus. [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-2026). Michigan's "Rivalry Week" promo photo on November 23 shows the white jersey and maize winged helmet, but it is a promo graphic, not a game uniform post; [more in our full preview of The Game](/stories/ohio-state-michigan-the-game-uniforms-2026).
 
 **Full game preview:** [What Are Ohio State And Michigan Wearing? The Game Uniforms 2026](/stories/ohio-state-michigan-the-game-uniforms-2026), with what both teams wore in 2023, 2024 and 2025.
 
