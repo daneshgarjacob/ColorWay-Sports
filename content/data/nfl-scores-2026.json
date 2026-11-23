@@ -1,7 +1,7 @@
 {
  "note": "Final scores from ESPN's public scoreboard, cached by scripts/build-uniform-records.mjs. The site build reads this file and never calls ESPN.",
  "season": 2026,
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "weeks": {
   "1": [
    {
@@ -1675,6 +1675,17 @@
   ],
   "11": [
    {
+    "id": "401873078",
+    "week": 11,
+    "date": "2026-11-23",
+    "kickoff": "2026-11-24T01:15Z",
+    "home": "Washington Commanders",
+    "away": "Cincinnati Bengals",
+    "homeScore": 0,
+    "awayScore": 0,
+    "final": false
+   },
+   {
     "id": "401873066",
     "week": 11,
     "date": "2026-11-19",
@@ -1692,9 +1703,9 @@
     "kickoff": "2026-11-22T18:00Z",
     "home": "Buffalo Bills",
     "away": "Miami Dolphins",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "homeScore": 26,
+    "awayScore": 9,
+    "final": true
    },
    {
     "id": "401873071",
@@ -1703,9 +1714,9 @@
     "kickoff": "2026-11-22T18:00Z",
     "home": "Chicago Bears",
     "away": "New Orleans Saints",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "homeScore": 21,
+    "awayScore": 13,
+    "final": true
    },
    {
     "id": "401873073",
@@ -1714,9 +1725,9 @@
     "kickoff": "2026-11-22T18:00Z",
     "home": "Dallas Cowboys",
     "away": "Tennessee Titans",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "homeScore": 51,
+    "awayScore": 30,
+    "final": true
    },
    {
     "id": "401873072",
@@ -1725,9 +1736,9 @@
     "kickoff": "2026-11-22T18:00Z",
     "home": "Detroit Lions",
     "away": "Tampa Bay Buccaneers",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "homeScore": 31,
+    "awayScore": 21,
+    "final": true
    },
    {
     "id": "401873067",
@@ -1736,9 +1747,9 @@
     "kickoff": "2026-11-22T18:00Z",
     "home": "Kansas City Chiefs",
     "away": "Arizona Cardinals",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "homeScore": 34,
+    "awayScore": 7,
+    "final": true
    },
    {
     "id": "401873076",
@@ -1747,9 +1758,9 @@
     "kickoff": "2026-11-22T18:00Z",
     "home": "Philadelphia Eagles",
     "away": "Pittsburgh Steelers",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "homeScore": 19,
+    "awayScore": 16,
+    "final": true
    },
    {
     "id": "401873068",
@@ -1758,9 +1769,9 @@
     "kickoff": "2026-11-22T18:00Z",
     "home": "Carolina Panthers",
     "away": "Baltimore Ravens",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "homeScore": 35,
+    "awayScore": 33,
+    "final": true
    },
    {
     "id": "401873074",
@@ -1769,9 +1780,9 @@
     "kickoff": "2026-11-22T21:05Z",
     "home": "Los Angeles Chargers",
     "away": "New York Jets",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "homeScore": 24,
+    "awayScore": 27,
+    "final": true
    },
    {
     "id": "401873075",
@@ -1780,9 +1791,9 @@
     "kickoff": "2026-11-22T21:25Z",
     "home": "Denver Broncos",
     "away": "Las Vegas Raiders",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "homeScore": 38,
+    "awayScore": 24,
+    "final": true
    },
    {
     "id": "401873069",
@@ -1791,9 +1802,9 @@
     "kickoff": "2026-11-22T21:25Z",
     "home": "New York Giants",
     "away": "Jacksonville Jaguars",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "homeScore": 23,
+    "awayScore": 18,
+    "final": true
    },
    {
     "id": "401873077",
@@ -1802,20 +1813,9 @@
     "kickoff": "2026-11-23T01:20Z",
     "home": "San Francisco 49ers",
     "away": "Minnesota Vikings",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
-   },
-   {
-    "id": "401873078",
-    "week": 11,
-    "date": "2026-11-23",
-    "kickoff": "2026-11-24T01:15Z",
-    "home": "Washington Commanders",
-    "away": "Cincinnati Bengals",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "homeScore": 35,
+    "awayScore": 10,
+    "final": true
    }
   ]
  }

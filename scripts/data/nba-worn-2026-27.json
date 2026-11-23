@@ -3399,6 +3399,105 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (Knicks white Association, Trail Blazers black Icon; https://www.espn.com/nba/game/_/gameId/401910024)"
+    },
+    "2026-11-22 BOS@GSW": {
+      "score": {
+        "away": 87,
+        "home": 88
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Warriors blue Icon, Celtics white Association; https://www.espn.com/nba/game/_/gameId/401910035)"
+    },
+    "2026-11-22 DAL@UTA": {
+      "score": {
+        "away": 116,
+        "home": 114
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Jazz white Association, Mavericks blue DALLAS Icon; https://www.espn.com/nba/game/_/gameId/401910033)"
+    },
+    "2026-11-22 DEN@CHI": {
+      "score": {
+        "away": 151,
+        "home": 145
+      },
+      "ot": true,
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Bulls white Association, Nuggets navy DENVER Icon; https://www.espn.com/nba/game/_/gameId/401910032)"
+    },
+    "2026-11-22 DET@ATL": {
+      "score": {
+        "away": 97,
+        "home": 107
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Hawks red ATLANTA Icon, Pistons blue Icon; https://www.espn.com/nba/game/_/gameId/401910029)"
+    },
+    "2026-11-22 IND@NYK": {
+      "score": {
+        "away": 106,
+        "home": 113
+      },
+      "away": {
+        "call": "Classic Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Knicks white Association, Pacers navy INDIANA Classic with gold side panels; https://www.espn.com/nba/game/_/gameId/401910034)"
+    },
+    "2026-11-22 OKC@MIA": {
+      "score": {
+        "away": 113,
+        "home": 123
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Heat black MIAMI Icon, Thunder blue Icon; https://www.espn.com/nba/game/_/gameId/401910030)"
+    },
+    "2026-11-22 ORL@WAS": {
+      "score": {
+        "away": 96,
+        "home": 116
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Wizards red Icon, Magic white pinstripe Association; https://www.espn.com/nba/game/_/gameId/401910031)"
     }
   }
 }

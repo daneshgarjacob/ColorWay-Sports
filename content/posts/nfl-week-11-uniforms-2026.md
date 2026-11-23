@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-13"
 updatedDate: "2026-11-22"
-excerpt: "NFL Week 11 uniforms (Nov. 19-23): the Texans debuted their white-helmet HOUSTON/US Rivalries uniform in a 26-3 Thursday night win over the Colts, the Bills beat Miami 26-9 in Cold Front, the Jets beat the Chargers 27-24 at SoFi, where Los Angeles went powder on powder, the Commanders bring the black Hail Raiser to Monday night, plus Mexico City and every other game."
+excerpt: "NFL Week 11 uniforms (Nov. 19-23): the Texans debuted their white-helmet HOUSTON/US Rivalries uniform in a 26-3 Thursday night win over the Colts, the Bills beat Miami 26-9 in Cold Front, the Jets beat the Chargers 27-24 at SoFi, where Los Angeles went powder on powder, the 49ers beat the Vikings 35-10 in Mexico City, the Commanders bring the black Hail Raiser to Monday night, plus every other game."
 gradient: "linear-gradient(135deg, #03202F 0%, #0C1526 55%, #5A1414 130%)"
 logoSrc: "/logos/leagues/nfl.png"
 kicker: "This Week"
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 11 of the 2026 NFL season runs from Thursday, November 19 to Monday, November 23, with 13 games and six teams on bye: the Atlanta Falcons, Cleveland Browns, Green Bay Packers, Los Angeles Rams, New England Patriots and Seattle Seahawks. Three teams have a confirmed or published special look, and two of them land in prime time: the **Texans debuted the white-helmet HOUSTON/US Rivalries uniform** on Thursday night and beat the Colts 26-3, and the **Commanders wear the all-black Hail Raiser** for the first time on Monday night. In between, the **Bills wore the all-white Cold Front** in a 26-9 win over Miami on Salute to Service Sunday, the **Chargers went powder blue on powder blue** in a 27-24 loss to the Jets, and the 49ers and Vikings play Sunday night in Mexico City. All ten Sunday afternoon games are final, and each one below says what was actually worn, confirmed from the teams' own photos and ESPN's game photos.
+Week 11 of the 2026 NFL season runs from Thursday, November 19 to Monday, November 23, with 13 games and six teams on bye: the Atlanta Falcons, Cleveland Browns, Green Bay Packers, Los Angeles Rams, New England Patriots and Seattle Seahawks. Three teams have a confirmed or published special look, and two of them land in prime time: the **Texans debuted the white-helmet HOUSTON/US Rivalries uniform** on Thursday night and beat the Colts 26-3, and the **Commanders wear the all-black Hail Raiser** for the first time on Monday night. In between, the **Bills wore the all-white Cold Front** in a 26-9 win over Miami on Salute to Service Sunday, the **Chargers went powder blue on powder blue** in a 27-24 loss to the Jets, and the 49ers beat the Vikings 35-10 on Sunday night in Mexico City, scarlet and gold against white. All eleven Sunday games are final, and each one below says what was actually worn, confirmed from the teams' own photos and ESPN's game photos.
 
 Below is every Week 11 look we know, special ones first and then the rest of the games in kickoff order. **Confirmed** means the team has announced the jersey or the full combination. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
 
@@ -116,7 +116,7 @@ Black against all white is a clean read, but it trades away Honolulu blue, the b
 ## The Prime-Time Games
 
 - **Thursday, 8:15 p.m. ET, Prime Video:** Colts at Texans, royal blue against the HOUSTON/US Rivalries debut. **Final: Texans 26, Colts 3.**
-- **Sunday, 8:20 p.m. ET, NBC:** Vikings vs. 49ers in Mexico City, white against scarlet.
+- **Sunday, 8:20 p.m. ET, NBC:** Vikings vs. 49ers in Mexico City, white against scarlet. **Final: 49ers 35, Vikings 10.**
 - **Monday, 8:15 p.m. ET, ESPN:** Bengals at Commanders, white against the Hail Raiser.
 
 ## The Rest Of Week 11
@@ -202,9 +202,9 @@ Black over silver against white over purple gave each side a color the other did
 
 ### Minnesota Vikings Vs. San Francisco 49ers In Mexico City
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/vikings-white-road.jpg" alt="Minnesota Vikings white road jersey, expected against the 49ers in Mexico City in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Vikings &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/49ers-scarlet-home.jpg" alt="San Francisco 49ers scarlet home jersey, expected as the designated home team in Mexico City in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">49ers &middot; Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/vikings-white-road.jpg" alt="Minnesota Vikings white road jersey, worn with white pants and the purple helmet against the 49ers in Mexico City in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Vikings &middot; Worn</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/49ers-scarlet-home.jpg" alt="San Francisco 49ers scarlet home jersey, worn with gold pants and the gold helmet as the designated home team in Mexico City in Week 11 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">49ers &middot; Worn</figcaption></figure></div>
 
-**Sunday, 8:20 p.m. ET, NBC, Estadio Banorte (Estadio Azteca), Mexico City. 49ers scheduled, Vikings expected.** San Francisco is the designated home team, so the game counts as one of its home dates, and the 49ers' own uniform schedule lists **scarlet**, its red primary, under the gold helmet. Minnesota is expected in its **white** road set, which the Vikings have not announced for this trip. Neither team has named a special look for Mexico City. Our matchup grade: **B**. See the [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026) and the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026).
+**Sunday, 8:20 p.m. ET, NBC, Estadio Banorte (Estadio Azteca), Mexico City. Final: 49ers 35, Vikings 10.** San Francisco was the designated home team, so the game counts as one of its home dates, and the 49ers' own uniform schedule listed **scarlet**, its red primary, under the gold helmet. That is what it wore: the **gold helmet, scarlet jersey and gold pants**. Minnesota wore its **white** road set, the **purple helmet, white jersey and white pants**, the same look as its Week 10 win at Green Bay. Neither team wore a special look for Mexico City. Both are confirmed from ESPN's game photos. Our matchup grade: **B**. See the [49ers 2026 uniform schedule](/stories/49ers-uniform-schedule-2026) and the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026).
 
 ## Every Week 11 Game
 
@@ -224,7 +224,7 @@ Black over silver against white over purple gave each side a color the other did
 - **New York Jets at Los Angeles Chargers**, 4:05 p.m. ET, FOX. **Final: Jets 27, Chargers 24.** Jets: green helmet, white jersey, green pants (worn). Chargers: white helmet, powder blue jersey, powder blue pants (worn). Matchup grade: B-.
 - **Las Vegas Raiders at Denver Broncos**, 4:25 p.m. ET, CBS. **Final: Broncos 38, Raiders 24.** Raiders: silver helmet, white jersey, silver pants (worn). Broncos: Sunset Orange, navy helmet, orange jersey, white pants (worn). Matchup grade: B+.
 - **Jacksonville Jaguars at New York Giants**, 4:25 p.m. ET, CBS. **Final: Giants 23, Jaguars 18.** Jaguars: black helmet, white jersey, black pants (worn). Giants: blue helmet, royal blue jersey, white pants (worn). Matchup grade: B.
-- **Minnesota Vikings vs. San Francisco 49ers** (Mexico City), 8:20 p.m. ET, NBC. Vikings: white (expected). 49ers: gold helmet, scarlet jersey (scheduled by the team). Matchup grade: B.
+- **Minnesota Vikings vs. San Francisco 49ers** (Mexico City), 8:20 p.m. ET, NBC. **Final: 49ers 35, Vikings 10.** Vikings: purple helmet, white jersey, white pants (worn). 49ers: gold helmet, scarlet jersey, gold pants (worn). Matchup grade: B.
 
 ### Monday, November 23
 
@@ -282,9 +282,9 @@ Yes. The Lions posted "Back in black" on Wednesday of game week, and their X ban
 
 Light blue over light blue under the white helmet. The Titans confirmed on November 18 that they would wear the light blue jersey with light blue pants and white socks, a first for the 2026 uniforms, and their game photos show it. The Cowboys wore the silver star helmet, white jersey and silver-green pants and won 51-30.
 
-**What are the 49ers and Vikings wearing in Mexico City?**
+**What did the 49ers and Vikings wear in Mexico City?**
 
-San Francisco is the designated home team at Estadio Banorte, so the 49ers are scheduled in scarlet (per the team's uniform schedule) and Minnesota is expected in white. Neither team has announced a special look. Kickoff is Sunday, November 22 at 8:20 p.m. Eastern on NBC.
+San Francisco was the designated home team at Estadio Banorte, so the 49ers wore scarlet, as their uniform schedule listed: the gold helmet, scarlet jersey and gold pants. Minnesota wore white, the purple helmet, white jersey and white pants. Neither team wore a special look, confirmed from ESPN's game photos. The 49ers won 35-10 on Sunday night, November 22.
 
 **What did the Eagles and Steelers wear in Week 11?**
 
