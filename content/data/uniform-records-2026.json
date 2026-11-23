@@ -4294,7 +4294,7 @@
       "#4F2683"
      ],
      "img": "/images/posts/nfl-tracker-jerseys/vikings-white-road.jpg",
-     "w": 2,
+     "w": 3,
      "l": 0,
      "t": 0,
      "games": [
@@ -4317,26 +4317,7 @@
        "oppScore": 13,
        "result": "W",
        "link": "/stories/nfl-uniform-tracker-2026"
-      }
-     ]
-    },
-    {
-     "id": "white-purple-white",
-     "helmet": "Purple",
-     "jersey": "White",
-     "jerseyName": "White",
-     "jerseyKey": "vikings-white-road",
-     "pants": "White",
-     "hexes": [
-      "#4F2683",
-      "#FFFFFF",
-      "#FFFFFF"
-     ],
-     "img": "/images/posts/nfl-tracker-jerseys/vikings-white-road.jpg",
-     "w": 1,
-     "l": 1,
-     "t": 0,
-     "games": [
+      },
       {
        "week": 10,
        "date": "2026-11-15",
@@ -4345,16 +4326,6 @@
        "teamScore": 30,
        "oppScore": 10,
        "result": "W",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      },
-      {
-       "week": 11,
-       "date": "2026-11-22",
-       "opponent": "San Francisco 49ers",
-       "home": false,
-       "teamScore": 10,
-       "oppScore": 35,
-       "result": "L",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
      ]
@@ -4412,6 +4383,35 @@
        "home": false,
        "teamScore": 15,
        "oppScore": 19,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
+    {
+     "id": "white-purple-white",
+     "helmet": "Purple",
+     "jersey": "White",
+     "jerseyName": "White",
+     "jerseyKey": "vikings-white-road",
+     "pants": "White",
+     "hexes": [
+      "#4F2683",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/vikings-white-road.jpg",
+     "w": 0,
+     "l": 1,
+     "t": 0,
+     "games": [
+      {
+       "week": 11,
+       "date": "2026-11-22",
+       "opponent": "San Francisco 49ers",
+       "home": false,
+       "teamScore": 10,
+       "oppScore": 35,
        "result": "L",
        "link": "/stories/nfl-uniform-tracker-2026"
       }

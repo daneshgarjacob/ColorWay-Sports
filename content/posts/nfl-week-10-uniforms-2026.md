@@ -3,7 +3,7 @@ title: "NFL Week 10 Uniforms 2026: What Every Team Is Wearing, Including Giants 
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-09"
-updatedDate: "2026-11-17"
+updatedDate: "2026-11-23"
 excerpt: "NFL Week 10 uniforms (Nov. 12-16): the Giants wear Vintage White on Thursday night, the Ravens debut all-black Darkness Falls on Monday night, the Bengals wear the White Bengal, the 49ers bring the red 1994 throwback to Dallas, the Titans debut Music City, plus Munich and every other game."
 gradient: "linear-gradient(135deg, #0B2265 0%, #0C1526 55%, #241773 130%)"
 coverImage: "/images/posts/nfl-week-10-uniforms-2026/cover.jpg"
@@ -199,7 +199,7 @@ All three national windows carry a confirmed alternate, covered above.
 
 **Sunday, 1:00 p.m. ET, FOX. Expected on both sides.** Green Bay is expected in **green** under the gold helmet for its only November home game, and Minnesota in **white**. Our matchup grade: **B**. See the [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026) and the [Vikings 2026 uniform schedule](/stories/vikings-uniform-schedule-2026).
 
-**Final: Vikings 30, Packers 10.** What was worn: as expected. Green Bay wore the gold helmet, green jersey and gold pants, and Minnesota wore the purple helmet, white jersey and white pants.
+**Final: Vikings 30, Packers 10.** What was worn: Green Bay as expected, in the gold helmet, green jersey and gold pants. Minnesota wore the purple helmet, white jersey and purple pants, confirmed from the Vikings' and Packers' game photos.
 
 ### Kansas City Chiefs at Atlanta Falcons
 
@@ -236,7 +236,7 @@ All three national windows carry a confirmed alternate, covered above.
 - **New England Patriots at Detroit Lions** (Munich), 9:30 a.m. ET, FOX. **Final: Lions 35, Patriots 10.** Worn: Patriots silver helmet, white jersey, silver pants; Lions silver helmet, Honolulu blue jersey, silver pants. Grade: B.
 - **Kansas City Chiefs at Atlanta Falcons**, 1:00 p.m. ET, CBS. **Final: Chiefs 35, Falcons 13.** Worn: Chiefs red helmet, white jersey, red pants; Falcons black helmet, red jersey, black pants. Grade: B.
 - **Houston Texans at Cleveland Browns**, 1:00 p.m. ET, FOX. **Final: Browns 27, Texans 24.** Worn: Texans navy helmet, white jersey, white pants; Browns Alpha Dawg, brown helmet, brown jersey, brown pants. Grade: C.
-- **Minnesota Vikings at Green Bay Packers**, 1:00 p.m. ET, FOX. **Final: Vikings 30, Packers 10.** Worn: Vikings purple helmet, white jersey, white pants; Packers gold helmet, green jersey, gold pants. Grade: B.
+- **Minnesota Vikings at Green Bay Packers**, 1:00 p.m. ET, FOX. **Final: Vikings 30, Packers 10.** Worn: Vikings purple helmet, white jersey, purple pants; Packers gold helmet, green jersey, gold pants. Grade: B.
 - **Jacksonville Jaguars at Tennessee Titans**, 1:00 p.m. ET, FOX. **Final: Jaguars 40, Titans 23.** Worn: Jaguars black helmet, white jersey, black pants; Titans Music City, Titans Blue helmet, navy jersey, navy pants. Grade: B.
 - **Miami Dolphins at Indianapolis Colts**, 1:00 p.m. ET, CBS. **Final: Colts 24, Dolphins 22.** Worn: Dolphins white helmet, white jersey, aqua pants; Colts white helmet, royal blue jersey, white pants. Grade: B.
 - **Carolina Panthers at New Orleans Saints**, 1:00 p.m. ET, FOX. **Final: Panthers 20, Saints 17.** Worn: Panthers silver helmet, white jersey, white pants; Saints all black, black helmet, black jersey, black pants. Grade: B.

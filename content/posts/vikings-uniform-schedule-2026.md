@@ -3,7 +3,7 @@ title: "Vikings Uniform & Jersey Schedule 2026: Throwback Dates"
 category: "NFL"
 homepageFeature: true
 date: "2026-07-29"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-23"
 excerpt: "Vikings uniform schedule 2026: Classic throwbacks vs. Green Bay, the new Rivalries jersey vs. Detroit and the Winter Warrior whiteout. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #4F2683 0%, #1a0d2e 55%, #FFC62F 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -62,7 +62,7 @@ Home games carry the confirmed jersey. Most road games are the white road set, w
   <div style="background: #35155c; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Colts</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: #FFC62F;">★ Purple · White Pants</div></div>
   <div style="background: #4F2683; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Lions</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Purple</div></div>
   <div style="background: #4F2683; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bills</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Purple / White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Packers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Packers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · Purple Pants (Worn)</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at 49ers (MEX)</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div></div>
   <div style="background: #4F2683; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Purple / White</div></div>
   <div style="background: #4F2683; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Purple / White</div></div>
@@ -74,6 +74,8 @@ Home games carry the confirmed jersey. Most road games are the white road set, w
 </div>
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">What the grid can and cannot promise: every ★ is <strong>officially confirmed by the Vikings</strong>, and that covers all nine home games at U.S. Bank Stadium. Five of the eight road games are the white road set, which is the standard away look but has not been announced week by week, and that includes Week 11 in Mexico City, where San Francisco is the designated home team. Minnesota wears purple at Tampa Bay in Week 3 and at Detroit in Week 8, and the Winter Warrior at the Jets in Week 17. Pant colors on the road are an equipment-staff call the week of each game. The Week 16 and Week 18 dates are still open because the league holds late-season windows for flexible scheduling. The Rivalries uniform was revealed on August 25.</p>
+
+**Announced vs. worn:** twice this season Minnesota wore different pants than it had listed, in Week 5 at New Orleans and Week 7 against the Colts. [Every 2026 Vikings game, what the team announced and what it actually wore](/stories/vikings-announced-uniforms-vs-what-they-wore-2026).
 
 ## Classic Throwback (Week 1, Confirmed)
 

@@ -125,11 +125,11 @@ How does every one of these jerseys stack up? See our [Packers jerseys 2026 rank
 
 **What jersey are the Packers wearing today?**
 
-Week 10 against Minnesota, November 15, worn: gold helmet, green jersey and gold pants. The Vikings wore white over white pants, and Minnesota won 30-10. We grade the matchup a B. This answer updates every week. For the rest of the season: Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
+Week 10 against Minnesota, November 15, worn: gold helmet, green jersey and gold pants. The Vikings wore white over purple pants, and Minnesota won 30-10. We grade the matchup a B. This answer updates every week. For the rest of the season: Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
 
 **What jerseys are the Packers wearing this week?**
 
-Week 10 against Minnesota, November 15, worn: gold helmet, green jersey and gold pants. The Vikings wore white over white pants, and Minnesota won 30-10. We grade the matchup a B. For the rest of the season: Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
+Week 10 against Minnesota, November 15, worn: gold helmet, green jersey and gold pants. The Vikings wore white over purple pants, and Minnesota won 30-10. We grade the matchup a B. For the rest of the season: Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
 
 **What uniform did the Packers wear last week?**
 
