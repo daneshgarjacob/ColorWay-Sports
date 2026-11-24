@@ -3,7 +3,7 @@ title: "Michigan State Uniform Schedule 2026: Every Jersey and When the Spartans
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-20"
+updatedDate: "2026-11-23"
 excerpt: "What Michigan State wears every game in 2026: green home jerseys, the white road set, the Greek key helmet, the black alternate, and the full Spartans uniform schedule."
 gradient: "linear-gradient(135deg, #18453B 0%, #236352 55%, #ffffff 130%)"
 cardStyle: words
@@ -14,6 +14,8 @@ resurfaceOnUpdate: true
 ---
 
 Michigan State wears green at home and white on the road, but the Spartans reveal a new helmet, jersey and pants combination almost every week, so the base colors are only half the answer. This is the full Michigan State 2026 uniform schedule: the green home set, the white road set, the Greek key helmets, the black alternate, and a week-by-week outlook for all twelve games in Pat Fitzgerald's first season. Six games in, the Spartans have worn green over white pants twice, green head to toe twice, and the white jersey on both road trips. We update this page as each combination is confirmed.
+
+**Update, November 23:** Michigan State and Nike announced an eight-year extension through June 30, 2035, with custom football and basketball alternates written into the deal. [What the Nike renewal means for Spartan uniforms](/stories/michigan-state-nike-extension-through-2035).
 
 **Update, November 20:** Michigan State wore a **black helmet, black jersey and black pants** for Senior Day against Oregon, confirmed from both schools' game photos, and lost **45-7**.
 

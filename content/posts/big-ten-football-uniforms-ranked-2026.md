@@ -53,7 +53,7 @@ The base set is better than this ranking. A purple helmet with the oversized whi
 
 ## 15. Michigan State: C+
 
-Spartan green is one of the best colors in college football, and this set buries it under a Greek key pattern. The key runs down the center of the helmet, around the sleeves and down the pants. Once is a detail. Three times is wallpaper. The 2026 change makes it worse: the MSU Federal Credit Union patch is on the jersey and its logo is printed on the helmet bumper. The black Shadow alternate has no chest wordmark and no reason to exist at a green school.
+Spartan green is one of the best colors in college football, and this set buries it under a Greek key pattern. The key runs down the center of the helmet, around the sleeves and down the pants. Once is a detail. Three times is wallpaper. The 2026 change makes it worse: the MSU Federal Credit Union patch is on the jersey and its logo is printed on the helmet bumper. The black Shadow alternate has no chest wordmark and no reason to exist at a green school. Nike and Michigan State [extended their deal through 2035](/stories/michigan-state-nike-extension-through-2035) in November, with custom alternates included.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 2em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/MSU_Football/status/2096025030123532469"></a></blockquote>
