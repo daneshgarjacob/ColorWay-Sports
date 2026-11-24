@@ -7,6 +7,7 @@ excerpt: "The Lakers posted official photos of their Nike Specter Edition jersey
 gradient: "linear-gradient(135deg, #0b0b12 0%, #2a1250 55%, #552583 100%)"
 author: "colorway-sports-staff"
 coverImage: "/images/posts/lakers-specter-edition-jersey-2026-27/cover.jpg"
+homepageHero: "2026-11-24"
 coverImagePosition: "center 45%"
 coverImageFit: "cover"
 coverCredit:

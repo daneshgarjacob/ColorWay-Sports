@@ -8,7 +8,10 @@ export const MOST_READ: string[] = [
   "bears-uniform-schedule-2026",
   "bills-uniform-schedule-2026",
   "miami-hurricanes-military-appreciation-camo-uniforms-2026",
+  "miami-hurricanes-uniform-schedule-2026",
   "49ers-vikings-mexico-city-uniforms-2026",
   "bengals-uniform-schedule-2026",
+  "texans-uniform-schedule-2026",
   "florida-state-turquoise-uniforms-seminole-heritage-2026",
+  "nfl-uniform-tracker-2026",
 ];
