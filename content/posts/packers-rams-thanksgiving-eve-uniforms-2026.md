@@ -3,8 +3,8 @@ title: "What Are The Rams Wearing On Thanksgiving Eve 2026? Fearsome White Vs. T
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-23"
-excerpt: "The Rams wear Fearsome White against the Packers on Thanksgiving Eve, Wednesday, November 25 at 8:00 p.m. ET on Netflix: a white jersey with royal blue numbers, a royal helmet with white horns and a white facemask. It is the uniform's only game of 2026. The Packers confirmed their look on November 23: green jersey, gold pants, gold helmet. Every detail and our grade."
+updatedDate: "2026-11-24"
+excerpt: "The Rams wear Fearsome White against the Packers on Thanksgiving Eve, Wednesday, November 25 at 8:00 p.m. ET on Netflix: a white jersey with royal blue numbers, a royal helmet with white horns and a white facemask. It is the uniform's only game of 2026, and the Rams confirmed it on November 24 with a Fearsome White look book: white jersey, white pants, white-horn helmet. The Packers confirmed their look on November 23: green jersey, gold pants, gold helmet. Every detail and our grade."
 gradient: "linear-gradient(135deg, #003594 0%, #0C1526 55%, #203731 130%)"
 cardStyle: words
 kicker: "Thanksgiving Week"
@@ -14,7 +14,7 @@ league: nfl
 teams: ["los-angeles-rams", "green-bay-packers"]
 ---
 
-**The Rams wear Fearsome White on Thanksgiving Eve, and it is the only time you will see it this season.** Los Angeles hosts the Green Bay Packers at SoFi Stadium on **Wednesday, November 25, at 8:00 p.m. Eastern (5:00 p.m. Pacific) on Netflix**, the first NFL game ever played the night before Thanksgiving. The Rams put Fearsome White on this date when they published all 17 of their 2026 uniform assignments on September 1: a **white jersey with royal blue numbers**, a royal stripe that runs over the shoulder like a horn, **white pants**, and a **royal blue helmet with white horns and a white facemask**. Green Bay has **confirmed** its look: the Packers posted their Week 12 uniform on Monday, November 23, and it is the **green jersey with gold pants and the gold helmet**.
+**The Rams wear Fearsome White on Thanksgiving Eve, and it is the only time you will see it this season.** Los Angeles hosts the Green Bay Packers at SoFi Stadium on **Wednesday, November 25, at 8:00 p.m. Eastern (5:00 p.m. Pacific) on Netflix**, the first NFL game ever played the night before Thanksgiving. The Rams put Fearsome White on this date when they published all 17 of their 2026 uniform assignments on September 1: a **white jersey with royal blue numbers**, a royal stripe that runs over the shoulder like a horn, **white pants**, and a **royal blue helmet with white horns and a white facemask**. The Rams **confirmed** it on Tuesday, November 24, in a "Fearsome White Uniform Look Book" of player photos. Green Bay has **confirmed** its look: the Packers posted their Week 12 uniform on Monday, November 23, and it is the **green jersey with gold pants and the gold helmet**.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RamsNFL/status/2080494428846702703"></a></blockquote>
@@ -24,14 +24,22 @@ teams: ["los-angeles-rams", "green-bay-packers"]
 
 ## Quick Answers
 
-- **What are the Rams wearing on Thanksgiving Eve?** Fearsome White: white jersey with royal blue numbers, white pants, royal helmet with white horns and a white facemask. **Scheduled**, from the uniform schedule the Rams published September 1.
+- **What are the Rams wearing on Thanksgiving Eve?** Fearsome White: white jersey with royal blue numbers, white pants, royal helmet with white horns and a white facemask. **Confirmed** by the Rams on November 24, matching the uniform schedule they published September 1.
 - **What are the Packers wearing?** The green jersey with gold pants and the gold helmet. **Confirmed** by the Packers on November 23. Green Bay is in green on the road because the Rams took white first.
 - **When is it?** Wednesday, November 25, 8:00 p.m. ET (5:00 p.m. PT) on Netflix, at SoFi Stadium.
 - **How many times will the Rams wear Fearsome White in 2026?** Once. This is the only date.
 - **Is this the first NFL game on Thanksgiving Eve?** Yes.
 - **Our grade:** A- for the uniform, A- for the matchup.
 
-## What The Rams Are Wearing (Scheduled)
+## What The Rams Are Wearing (Confirmed)
+
+**Update, Tuesday, November 24:** the Rams posted a "Fearsome White Uniform Look Book," seven photos of players in the full uniform with the caption "Fearsome's in the fabric." It matches the schedule: the **royal blue helmet with white horns and a white facemask, white jersey with royal blue numbers and the royal shoulder stripe, and white pants**.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/RamsNFL/status/2125303436636012569"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Rams' Fearsome White look book, via <a href="https://x.com/RamsNFL" target="_blank" rel="noopener">@RamsNFL</a></p>
 
 Fearsome White was revealed in July alongside the gold Classic Sol set, and it is named for the Fearsome Foursome, the Rams defensive line of the 1960s ([who they were](/stories/who-were-the-fearsome-foursome)). Here is every piece:
 
@@ -41,7 +49,7 @@ Fearsome White was revealed in July alongside the gold Classic Sol set, and it i
 
 It is a home game, and the Rams are choosing white at home. That is the whole point of the date: a standalone national window on the biggest week of the regular season, and the cleanest uniform in the closet. Every other Rams date is in our [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026), and the full grades for all five Rams sets are in [every Rams jersey, ranked](/stories/rams-jerseys-2026-ranked).
 
-<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-fearsome-white.jpg" alt="Los Angeles Rams Fearsome White alternate jersey, white with royal blue numbers, scheduled for Thanksgiving Eve 2026 against the Packers" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams &middot; Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-fearsome-white.jpg" alt="Los Angeles Rams Fearsome White alternate jersey, white with royal blue numbers, confirmed for Thanksgiving Eve 2026 against the Packers" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams &middot; Confirmed</figcaption></figure></div>
 
 ## What The Packers Are Wearing (Confirmed)
 
@@ -77,7 +85,7 @@ Not in 2026. After Wednesday, the Rams are back in white on the road and royal a
 
 **What are the Rams wearing against the Packers on Thanksgiving Eve?**
 
-Fearsome White: a white jersey with royal blue numbers and a royal shoulder stripe, white pants, and the royal helmet with white horns and a white facemask. It is on the uniform schedule the Rams published September 1.
+Fearsome White: a white jersey with royal blue numbers and a royal shoulder stripe, white pants, and the royal helmet with white horns and a white facemask. It is on the uniform schedule the Rams published September 1, and the team confirmed it with a Fearsome White look book on November 24.
 
 **What time is Packers vs. Rams on Thanksgiving Eve?**
 
@@ -124,4 +132,4 @@ Yes, but not here. Green Bay has its navy 1923 Classic in Week 14 against Buffal
 - [What the Steelers are wearing against the Broncos on Black Friday](/stories/steelers-broncos-black-friday-uniforms-2026)
 - [How every NFL team got its colors](/stories/how-every-nfl-team-got-its-colors), and the rest of our [Explained](/explained) shelf
 
-*Sources: the Los Angeles Rams' 2026 uniform schedule (September 1) and Fearsome White reveal (July 2026), NFL.com, Sports Illustrated's 2026 Thanksgiving schedule, the Green Bay Packers' 2026 Uniform Lineup and the Packers' Week 12 uniform post (November 23). ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Los Angeles Rams, the Green Bay Packers or the National Football League.*
+*Sources: the Los Angeles Rams' 2026 uniform schedule (September 1) and Fearsome White reveal (July 2026), NFL.com, Sports Illustrated's 2026 Thanksgiving schedule, the Green Bay Packers' 2026 Uniform Lineup, the Rams' Fearsome White look book (November 24) and the Packers' Week 12 uniform post (November 23). ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Los Angeles Rams, the Green Bay Packers or the National Football League.*

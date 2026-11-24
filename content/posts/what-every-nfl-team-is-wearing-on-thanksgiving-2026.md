@@ -3,8 +3,8 @@ title: "What Every NFL Team Is Wearing On Thanksgiving 2026: All Six Uniforms Fo
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-21"
-updatedDate: "2026-11-21"
-excerpt: "What every NFL team is wearing on Thanksgiving 2026, in plain colors: the Cowboys in their 1960s Classic throwback (white helmet, navy jersey, white pants) against the Eagles in white, the Lions in Honolulu blue against the Bears in white, and the Bills in royal blue against the Chiefs in white. Which looks the teams have put on their own schedules, which are our projections, kickoff times and TV."
+updatedDate: "2026-11-24"
+excerpt: "What every NFL team is wearing on Thanksgiving 2026, in plain colors: the Cowboys in their 1960s Classic throwback (white helmet, navy jersey, white pants) against the Eagles in white, the Lions in Honolulu blue against the Bears in white, and the Bills in royal blue over royal blue pants, confirmed, against the Chiefs in white. Which looks the teams have put on their own schedules, which are our projections, kickoff times and TV."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #B0B7BC 130%)"
 cardStyle: words
 kicker: "Thanksgiving Day"
@@ -15,7 +15,9 @@ teams: ["detroit-lions", "chicago-bears", "dallas-cowboys", "philadelphia-eagles
 
 Three games, six teams, one Thursday. Here is what every NFL team is wearing on Thanksgiving 2026, **Thursday, November 26**, with the helmet, jersey and pants spelled out in colors. The headline look is in Arlington: **the Cowboys wear their 1960s Classic throwback against the Eagles** for the fifth straight Thanksgiving. Detroit opens the day at home against Chicago, and Buffalo hosts Kansas City at night.
 
-Each look carries one of two labels:
+Each look carries one of three labels:
+
+- **Confirmed:** the team has posted its full uniform for this game.
 
 - **Scheduled:** the uniform is on the team's own published 2026 uniform schedule. Dallas and Buffalo both put their Thanksgiving jerseys in writing before the season.
 - **Expected:** our projection, from the team's 2026 uniform schedule post on this site and how it has dressed all season. Teams show their game-week look in the days before kickoff, and this page switches the label the same day they do.
@@ -30,7 +32,7 @@ Each look carries one of two labels:
 <tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bears<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Expected</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Shown game week</td></tr>
 <tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Cowboys<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Scheduled</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, vintage star</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy, white shoulders with stars</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, navy stripes</td></tr>
 <tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Eagles<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Expected</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Midnight green</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White or midnight green</td></tr>
-<tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bills<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Scheduled</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Royal blue</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bills<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Confirmed</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Royal blue</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Royal blue</td></tr>
 <tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Chiefs<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Expected</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Red</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Red (white worn once)</td></tr>
 </tbody>
 </table>
@@ -90,15 +92,15 @@ The full game page, with the Cowboys' Thanksgiving history and our grade: [What 
 
 ## Chiefs At Bills: 8:20 p.m. ET, NBC
 
-### What The Bills Are Wearing (Scheduled)
+### What The Bills Are Wearing (Confirmed)
 
-**White helmet with the red charging buffalo, royal blue jersey, white pants.** Buffalo published the jersey for every 2026 home game before the season, and Thanksgiving night is the royal blue primary. It is the first Thanksgiving game at the new Highmark Stadium. Buffalo's red helmet is saved for Christmas Day at Denver. Every date is in our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
+**White helmet with the red charging buffalo, royal blue jersey, royal blue pants, white socks.** Buffalo published the jersey for every 2026 home game before the season, and Thanksgiving night is the royal blue primary. On November 24 the Bills posted the full combination as "Thanksgiving Threads," labeled "Blue Blue White." It is the first Thanksgiving game at the new Highmark Stadium. Buffalo's red helmet is saved for Christmas Day at Denver. Every date is in our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
-  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2099139055174717852"></a></blockquote>
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2125279230502265049"></a></blockquote>
 </div>
 
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The royal blue jersey and white helmet, via <a href="https://x.com/BuffaloBills" target="_blank" rel="noopener">@BuffaloBills</a></p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">"Thanksgiving Threads," the Bills' Week 12 uniform, via <a href="https://x.com/BuffaloBills" target="_blank" rel="noopener">@BuffaloBills</a></p>
 
 ### What The Chiefs Are Wearing (Expected)
 
@@ -118,7 +120,7 @@ All six teams wear the round [John Madden Thanksgiving patch](/stories/john-madd
 
 ## More For Thanksgiving Week
 
-- **The whole holiday week**, including the Rams' Fearsome White on Thanksgiving Eve and the Steelers-Broncos game on Black Friday: [NFL Thanksgiving Uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026).
+- **The whole holiday week**, including the Rams' Fearsome White on Thanksgiving Eve and the Steelers' Color Rush against the Broncos on Black Friday, both confirmed: [NFL Thanksgiving Uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026).
 - **Vote for the best Thanksgiving uniform ever**, with the winner revealed Thanksgiving morning: [Best NFL Thanksgiving Uniforms Bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026).
 - **Why Detroit's throwback belongs on this day:** [Why Do The Lions Wear 1934 Throwback Uniforms On Thanksgiving?](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving)
 - **Every Thanksgiving throwback, 1994 to now:** [Why Do NFL Teams Wear Throwback Uniforms On Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
@@ -128,7 +130,7 @@ All six teams wear the round [John Madden Thanksgiving patch](/stories/john-madd
 
 **What is every NFL team wearing on Thanksgiving 2026?**
 
-Lions: silver helmet, Honolulu blue jersey (expected). Bears: navy helmet, white jersey (expected). Cowboys: the 1960s Classic throwback, white helmet, navy jersey, white pants (on the team's schedule). Eagles: midnight green helmet, white jersey (expected). Bills: white helmet, royal blue jersey, white pants (on the team's schedule). Chiefs: red helmet, white jersey, red pants (expected).
+Lions: silver helmet, Honolulu blue jersey (expected). Bears: navy helmet, white jersey (expected). Cowboys: the 1960s Classic throwback, white helmet, navy jersey, white pants (on the team's schedule). Eagles: midnight green helmet, white jersey (expected). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Chiefs: red helmet, white jersey, red pants (expected).
 
 **What are the Lions wearing on Thanksgiving 2026?**
 
@@ -160,7 +162,7 @@ No. Kelly Green is set for Weeks 9 and 16, and a green jersey cannot be worn aga
 
 **What are the Bills wearing on Thanksgiving?**
 
-The royal blue primary: white helmet, royal blue jersey, white pants. Buffalo listed it on its published 2026 home schedule.
+Blue over blue: the white helmet, royal blue jersey, royal blue pants and white socks, confirmed in the Bills' "Thanksgiving Threads" post on November 24.
 
 **What are the Chiefs wearing on Thanksgiving?**
 
@@ -174,4 +176,4 @@ Bears at Lions at 1:00 p.m. ET on CBS, Eagles at Cowboys at 4:30 p.m. ET on FOX,
 
 Yes. Every player in the three Thanksgiving games wears the round John Madden Thanksgiving patch on the left chest, confirmed by the NFL on November 19, 2026.
 
-*Kickoff times and networks: ESPN NFL schedule. Uniform schedules: the Dallas Cowboys (published September 2, 2026) and Buffalo Bills (published before the 2026 season); all other looks are our projections from each team's 2026 uniform schedule post. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Football League or any team.*
+*Kickoff times and networks: ESPN NFL schedule. Uniform schedules: the Dallas Cowboys (published September 2, 2026) and Buffalo Bills (published before the 2026 season), and the Bills' "Thanksgiving Threads" post (November 24); all other looks are our projections from each team's 2026 uniform schedule post. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Football League or any team.*

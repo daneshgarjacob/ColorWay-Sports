@@ -2,7 +2,7 @@
 title: "Chargers Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-24"
 excerpt: "Chargers uniform schedule 2026: every jersey and pants combo for all 17 games, from powder blue at home to the Super Chargers navy nights. Week by week."
 gradient: "linear-gradient(135deg, #0080C6 0%, #00477e 55%, #001a37 130%)"
 coverImage: "/images/posts/chargers-uniform-schedule-2026/cover.jpg"
@@ -30,7 +30,7 @@ The four alternate dates the team announced over the summer are unchanged in the
 <div style="margin: 1.5em 0; padding: 1.5em 1.5em; background: linear-gradient(135deg, #0080C6 0%, #002A5E 100%); border-radius: 16px; border: 2px solid #ffffff;">
   <p style="font-size: 1em; color: #ffffff; margin: 0 0 0.9em; text-transform: uppercase; letter-spacing: 2px; font-weight: 800; text-align: center;">Confirmed Jersey Dates</p>
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#FFC20E;">Super Chargers Navy</strong> &middot; Week 9 vs. Texans &middot; Sunday, November 8</p>
-  <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#FFC20E;">Super Chargers Navy</strong> &middot; Week 12 vs. Patriots &middot; Sunday, November 29 &middot; SNF</p>
+  <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#FFC20E;">Super Chargers Navy</strong> &middot; Week 12 vs. Patriots &middot; Sunday, November 29 &middot; 4:05 ET</p>
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#FFC20E;">Charger Power Gold</strong> &middot; Week 13 at Buccaneers &middot; Sunday, December 6</p>
   <p style="font-size: 1em; color: #ffffff; margin: 0.5em 0; line-height: 1.5;"><strong style="color:#FFC20E;">Super Chargers Navy</strong> &middot; Week 17 vs. Chiefs &middot; Date to be set</p>
 </div>
@@ -83,13 +83,13 @@ Here is the whole season at a glance, jersey and pants, exactly as the team anno
 
 ## Super Chargers Navy (Weeks 9, 12, and 17, Confirmed)
 
-The all-navy Super Chargers set gets three home dates: Houston in Week 9 on Sunday, November 8, New England in Week 12 on Sunday, November 29 in the Sunday night window, and Kansas City in Week 17 to close out the home schedule. The Chargers are not shy about it, calling these "the best alternate uniforms in the NFL" in their own announcement.
+The all-navy Super Chargers set gets three home dates: Houston in Week 9 on Sunday, November 8, New England in Week 12 on Sunday, November 29 at 4:05 p.m. Eastern on CBS (it was in the Sunday night window until the league moved Raiders-Browns there), and Kansas City in Week 17 to close out the home schedule. The Chargers are not shy about it, calling these "the best alternate uniforms in the NFL" in their own announcement.
 
 **New for Week 9:** the Chargers posted the Texans game field design on November 3. The midfield logo is the **navy Super Chargers helmet**, replacing the white bolt from last season's Super Chargers games, with navy end zones. [See the new field](/stories/chargers-super-chargers-field-texans-2026).
 
 The set is a modern throwback to the navy jerseys the franchise wore from 1992 to 2006, the era of the 1994 AFC Championship team, and it is built to invoke Junior Seau, LaDainian Tomlinson, Antonio Gates, and Philip Rivers. What makes it work is restraint. The navy is deep enough to make the gold bolts glow rather than blend, and the helmet carries the lightning without the set tipping into costume. It is the rare modern throwback that looks like it belongs to the team wearing it.
 
-Three wearings is also the maximum most teams get out of an alternate, and the Chargers spent all three on high-visibility dates: a division rival to close the year, a national Sunday night window, and a Houston team that will be in white. That is good scheduling.
+Three wearings is also the maximum most teams get out of an alternate, and the Chargers spent all three on high-visibility dates: a division rival to close the year, a late-afternoon national window against New England, and a Houston team that will be in white. That is good scheduling.
 
 
 ## Charger Power Gold (Week 13 at Buccaneers, Confirmed)
@@ -151,11 +151,11 @@ Powder blue at home and white away, unless the week lands on one of the four con
 
 **What jerseys do the Chargers have in 2026?**
 
-Four uniforms, and Los Angeles published the jersey and the pants for all 17 games on September 1. Powder blue is the home identity and gets five dates, with all three pant colors underneath: white pants against the Cardinals in Week 1, powder pants against the Broncos in Week 5 and the Jets in Week 11, and gold pants against the Raiders in Week 2 and the 49ers in Week 15. The white road set covers eight of the nine away games and splits the same three ways, powder pants at Seattle, Baltimore and Denver, all white at Buffalo, the Rams and Las Vegas, and gold pants at Kansas City and Miami. The all-navy Super Chargers set, a modern throwback to the navy jerseys the franchise wore from 1992 to 2006, gets three home dates, the Texans in Week 9, the Patriots in Week 12 on Sunday night and the Chiefs in Week 17. The gold Charger Power jersey, introduced in 2025 as a nod to the Air Coryell era, gets one road game with white pants, Week 13 at Tampa Bay, which is only possible because the Buccaneers are wearing their white creamsicle throwback. Neither alternate is new for 2026, and Week 1 was the white helmet, powder blue jersey and white pants.
+Four uniforms, and Los Angeles published the jersey and the pants for all 17 games on September 1. Powder blue is the home identity and gets five dates, with all three pant colors underneath: white pants against the Cardinals in Week 1, powder pants against the Broncos in Week 5 and the Jets in Week 11, and gold pants against the Raiders in Week 2 and the 49ers in Week 15. The white road set covers eight of the nine away games and splits the same three ways, powder pants at Seattle, Baltimore and Denver, all white at Buffalo, the Rams and Las Vegas, and gold pants at Kansas City and Miami. The all-navy Super Chargers set, a modern throwback to the navy jerseys the franchise wore from 1992 to 2006, gets three home dates, the Texans in Week 9, the Patriots in Week 12 and the Chiefs in Week 17. The gold Charger Power jersey, introduced in 2025 as a nod to the Air Coryell era, gets one road game with white pants, Week 13 at Tampa Bay, which is only possible because the Buccaneers are wearing their white creamsicle throwback. Neither alternate is new for 2026, and Week 1 was the white helmet, powder blue jersey and white pants.
 
 **When do the Chargers wear the Super Chargers navy uniform in 2026?**
 
-Three times, all at SoFi Stadium: Week 9 against the Houston Texans on Sunday, November 8, Week 12 against the New England Patriots on Sunday, November 29 on Sunday Night Football, and Week 17 against the Kansas City Chiefs, whose kickoff time has not been set.
+Three times, all at SoFi Stadium: Week 9 against the Houston Texans on Sunday, November 8, Week 12 against the New England Patriots on Sunday, November 29 at 4:05 p.m. Eastern, and Week 17 against the Kansas City Chiefs, whose kickoff time has not been set.
 
 **When do the Chargers wear the gold Charger Power jersey in 2026?**
 

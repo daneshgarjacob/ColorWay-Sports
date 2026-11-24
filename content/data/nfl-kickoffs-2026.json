@@ -1,6 +1,6 @@
 {
  "source": "ESPN week scoreboard",
- "fetched": "2026-11-04T20:05:10.376Z",
+ "fetched": "2026-11-24T19:17:48.679Z",
  "games": [
   {
    "week": 1,
@@ -1408,11 +1408,11 @@
   },
   {
    "week": 11,
-   "away": "Jaguars",
-   "home": "Giants",
-   "kickoff": "2026-11-22T21:25Z",
+   "away": "Steelers",
+   "home": "Eagles",
+   "kickoff": "2026-11-22T18:00Z",
    "timeSet": true,
-   "venue": "MetLife Stadium",
+   "venue": "Lincoln Financial Field",
    "neutral": false
   },
   {
@@ -1444,11 +1444,11 @@
   },
   {
    "week": 11,
-   "away": "Steelers",
-   "home": "Eagles",
-   "kickoff": "2026-11-22T18:00Z",
+   "away": "Jaguars",
+   "home": "Giants",
+   "kickoff": "2026-11-22T21:25Z",
    "timeSet": true,
-   "venue": "Lincoln Financial Field",
+   "venue": "MetLife Stadium",
    "neutral": false
   },
   {
@@ -1525,15 +1525,6 @@
   },
   {
    "week": 12,
-   "away": "Raiders",
-   "home": "Browns",
-   "kickoff": "2026-11-29T18:00Z",
-   "timeSet": true,
-   "venue": "Huntington Bank Field",
-   "neutral": false
-  },
-  {
-   "week": 12,
    "away": "Giants",
    "home": "Colts",
    "kickoff": "2026-11-29T18:00Z",
@@ -1561,6 +1552,15 @@
   },
   {
    "week": 12,
+   "away": "Titans",
+   "home": "Jaguars",
+   "kickoff": "2026-11-29T18:00Z",
+   "timeSet": true,
+   "venue": "EverBank Stadium",
+   "neutral": false
+  },
+  {
+   "week": 12,
    "away": "Ravens",
    "home": "Texans",
    "kickoff": "2026-11-29T18:00Z",
@@ -1570,11 +1570,11 @@
   },
   {
    "week": 12,
-   "away": "Titans",
-   "home": "Jaguars",
+   "away": "Patriots",
+   "home": "Chargers",
    "kickoff": "2026-11-29T21:05Z",
    "timeSet": true,
-   "venue": "EverBank Stadium",
+   "venue": "SoFi Stadium",
    "neutral": false
   },
   {
@@ -1597,11 +1597,11 @@
   },
   {
    "week": 12,
-   "away": "Patriots",
-   "home": "Chargers",
+   "away": "Raiders",
+   "home": "Browns",
    "kickoff": "2026-11-30T01:20Z",
    "timeSet": true,
-   "venue": "SoFi Stadium",
+   "venue": "Huntington Bank Field",
    "neutral": false
   },
   {

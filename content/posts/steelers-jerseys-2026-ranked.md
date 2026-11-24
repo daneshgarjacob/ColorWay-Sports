@@ -2,7 +2,7 @@
 title: "Every Pittsburgh Steelers Jersey Ranked, Worst to Best (2026)"
 category: NFL
 date: "2026-09-16"
-updatedDate: "2026-10-13"
+updatedDate: "2026-11-24"
 excerpt: "Pittsburgh Steelers jerseys 2026, ranked: the black home and white road jerseys graded, plus where the 1933 throwback and Color Rush stand."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 author: "colorway-sports-staff"
@@ -46,7 +46,7 @@ It grades an A-. It is a classic road set with nothing wrong with it. It ranks s
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2088411671765160340"></a></blockquote>
 </div>
 
-The black home jersey has gold numbers and gold sleeve stripes. Pittsburgh opened the season in it against Atlanta with the black helmet and yellow pants, and won 20-13. It projects to the other seven home games at Acrisure Stadium: the Bengals in Week 3, the Colts in Week 5, the Browns in Week 8, the Broncos on Black Friday in Week 12, the Texans on Sunday Night Football in Week 13, the Ravens in Week 15 and the Panthers in Week 16. It also goes on the road once, in Week 10 at Cincinnati on Sunday Night Football, where the Bengals wear their White Bengal look and Pittsburgh stays in black.
+The black home jersey has gold numbers and gold sleeve stripes. Pittsburgh opened the season in it against Atlanta with the black helmet and yellow pants, and won 20-13. It projects to the other home games at Acrisure Stadium except Black Friday, where the team confirmed the Color Rush: the Bengals in Week 3, the Colts in Week 5, the Browns in Week 8, the Texans on Sunday Night Football in Week 13, the Ravens in Week 15 and the Panthers in Week 16. It also goes on the road once, in Week 10 at Cincinnati on Sunday Night Football, where the Bengals wear their White Bengal look and Pittsburgh stays in black.
 
 This jersey has barely moved since the 1960s, and it has never needed to. Gold on black is the highest-contrast version of the Steelers palette, and it is the one that matches the hypocycloids on the helmet, still the only asymmetric mark in the sport. It works because nobody has ever redesigned it to make a statement.
 
@@ -54,14 +54,15 @@ It grades an A, the top mark in the closet. It looks like football, which is the
 
 ## The Steelers Uniforms Without a 2026 Date
 
-Two more uniforms are in Pittsburgh's closet, and neither has a game yet, so neither gets a ranking. Team president Art Rooney II has confirmed that the **1933 throwback**, the gold jersey with black stripes and the matte gold helmet, returns in 2026, but the team has not picked the game. The **all-black Color Rush** set is unconfirmed, and the only home night game this season, Week 13 against Houston on Sunday, December 6, is its only realistic slot. We will add both to this ranking the day a date is set.
+Two more uniforms are in Pittsburgh's closet, and neither is in this ranking yet. Team president Art Rooney II has confirmed that the **1933 throwback**, the gold jersey with black stripes and the matte gold helmet, returns in 2026, but the team has not picked the game. **Update, November 24:** the **all-black Color Rush** now has a date: the Steelers announced it for Black Friday against Denver on November 27, their first Color Rush game of 2026. [What the Steelers are wearing on Black Friday](/stories/steelers-broncos-black-friday-uniforms-2026).
 
 ## Every Pittsburgh Steelers Jersey in 2026, at a Glance
 
 <div style="margin: 1.5em 0; padding: 1.5em 1.8em; background: #eef2f7; border: 1px solid #d6e0ec; border-radius: 14px;">
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>1. Black Home</strong> · A · eight home games plus Week 10 at Cincinnati</p>
   <p style="margin: 0 0 10px; color: #000000; font-size: 0.98em;"><strong>2. White Road</strong> · A- · eight road games, including Paris</p>
-  <p style="margin: 0; color: #000000; font-size: 0.98em;"><strong>Not yet scheduled</strong> · 1933 throwback and Color Rush</p>
+  <p style="margin: 0 0 0; color: #000000; font-size: 0.98em;"><strong>Color Rush</strong> · not ranked yet · Black Friday vs. Broncos, Week 12</p>
+  <p style="margin: 10px 0 0; color: #000000; font-size: 0.98em;"><strong>Not yet scheduled</strong> · 1933 throwback</p>
 </div>
 
 For the week-by-week plan, the [Pittsburgh Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026) has every game, and the [Steelers uniform calendar](/nfl-tracker/steelers) lays all 18 weeks out at a glance. Once a game is played, our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) logs what Pittsburgh actually wore and grades the matchup.
@@ -76,7 +77,7 @@ There is no weak jersey here, and no gimmick either. The only question left for 
 
 **What jerseys do the Steelers have in 2026?**
 
-Four uniforms are in the closet: the black home set, the white road set, the all-black Color Rush and the 1933 throwback. Only the black and white jerseys have games assigned so far.
+Four uniforms are in the closet: the black home set, the white road set, the all-black Color Rush and the 1933 throwback. The black and white jerseys carry most of the schedule, and the Color Rush is confirmed for Black Friday against Denver. The 1933 throwback has no date yet.
 
 **What is the best Steelers jersey?**
 
@@ -96,4 +97,4 @@ The team has confirmed it returns this season but has not announced the game. Ou
 
 **Will the Steelers wear the Color Rush uniform in 2026?**
 
-It is not confirmed. The only home night game is Week 13 against the Houston Texans on Sunday Night Football, December 6, which is the likeliest slot if it comes out.
+Yes. The Steelers announced on November 24 that they wear the Color Rush against the Denver Broncos on Black Friday, November 27, their first Color Rush game of 2026.

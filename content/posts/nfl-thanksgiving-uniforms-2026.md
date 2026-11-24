@@ -3,8 +3,8 @@ title: "NFL Thanksgiving Uniforms 2026: What Every Team Will Wear, Wednesday Thr
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-02"
-updatedDate: "2026-11-23"
-excerpt: "NFL Thanksgiving uniforms for 2026, all five holiday-week games: the Rams debut Fearsome White against the Packers on Thanksgiving Eve, the Cowboys wear their 1960s Classic throwback against the Eagles, the Lions host the Bears in Honolulu blue, the Bills wear royal blue against the Chiefs at night, and the Steelers host the Broncos on Black Friday."
+updatedDate: "2026-11-24"
+excerpt: "NFL Thanksgiving uniforms for 2026, all five holiday-week games: the Rams debut Fearsome White against the Packers on Thanksgiving Eve (confirmed), the Cowboys wear their 1960s Classic throwback against the Eagles, the Lions host the Bears in Honolulu blue, the Bills wear blue over blue against the Chiefs at night (confirmed), and the Steelers wear the all-black Color Rush against the Broncos on Black Friday (confirmed)."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #869397 130%)"
 logoSrc: "/logos/leagues/nfl.png"
 league: nfl
@@ -14,7 +14,7 @@ coverImagePosition: "center 25%"
 homepageHero: "2026-11-26"
 ---
 
-Thanksgiving week 2026 has five NFL games in three days: the league's first Thanksgiving Eve game on Wednesday, November 25, three games on Thanksgiving Thursday, November 26, and a Black Friday game on November 27. The two biggest looks are already on the teams' own published schedules. **The Rams wear their new Fearsome White alternate against the Packers on Wednesday night**, its only date of the season, and **Dallas wears its 1960s Classic throwback against Philadelphia** for the fifth straight Thanksgiving, as published on the Cowboys' own uniform schedule. Detroit hosts Chicago in the early game, Buffalo hosts Kansas City at night, and Pittsburgh hosts Denver the next afternoon.
+Thanksgiving week 2026 has five NFL games in three days: the league's first Thanksgiving Eve game on Wednesday, November 25, three games on Thanksgiving Thursday, November 26, and a Black Friday game on November 27. The two biggest looks are already on the teams' own published schedules. **The Rams wear their new Fearsome White alternate against the Packers on Wednesday night**, its only date of the season, and **Dallas wears its 1960s Classic throwback against Philadelphia** for the fifth straight Thanksgiving, as published on the Cowboys' own uniform schedule. Detroit hosts Chicago in the early game, Buffalo hosts Kansas City at night in blue over blue, and Pittsburgh hosts Denver the next afternoon in the **all-black Color Rush**, which the Steelers announced on November 24.
 
 Every look below carries one of three labels, and we keep them separate:
 
@@ -41,11 +41,11 @@ Matchups, kickoff times and networks are from ESPN's NFL schedule. Every team's 
 
 ## Thanksgiving Eve: Packers at Rams, 8:00 p.m. ET on Netflix
 
-**Rams: Fearsome White (Scheduled).** Los Angeles assigned all 17 of its 2026 games on September 1, and this is the only date for Fearsome White: a white jersey with royal blue numbers, a continuous horn stripe over the shoulder, and a royal blue helmet with white horns and a white facemask. It is named for the Fearsome Foursome defensive line of the 1960s ([who they were](/stories/who-were-the-fearsome-foursome)), and we graded it an A- when it [first leaked](/stories/rams-leaked-alternate-jerseys-2026). Full season in our [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
+**Rams: Fearsome White (Confirmed).** Los Angeles assigned all 17 of its 2026 games on September 1, and this is the only date for Fearsome White: a white jersey with royal blue numbers, a continuous horn stripe over the shoulder, white pants, and a royal blue helmet with white horns and a white facemask. The Rams confirmed the full set on November 24 in a "Fearsome White Uniform Look Book." It is named for the Fearsome Foursome defensive line of the 1960s ([who they were](/stories/who-were-the-fearsome-foursome)), and we graded it an A- when it [first leaked](/stories/rams-leaked-alternate-jerseys-2026). Full season in our [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
 
 **Packers: green jersey (Confirmed).** Two teams cannot both wear white, so Green Bay brings the green home jersey to SoFi Stadium with the gold helmet and gold pants, as it did at the Jets in Week 2. The Packers confirmed it on November 23 ("On Wednesdays we wear Green & Gold"). It is one of three road games this season where the host took white first. See our [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/packers-green-home.jpg" alt="Green Bay Packers green jersey, confirmed for the Rams game on Thanksgiving Eve 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Packers · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-fearsome-white.jpg" alt="Los Angeles Rams Fearsome White alternate jersey, on the team's published schedule for Thanksgiving Eve 2026 against the Packers" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams · Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/packers-green-home.jpg" alt="Green Bay Packers green jersey, confirmed for the Rams game on Thanksgiving Eve 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Packers · Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-fearsome-white.jpg" alt="Los Angeles Rams Fearsome White alternate jersey, confirmed for Thanksgiving Eve 2026 against the Packers" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams · Confirmed</figcaption></figure></div>
 
 It is the first NFL game ever played on Thanksgiving Eve. [How the league picks these windows](/stories/how-nfl-picks-prime-time-games-2026). Every Fearsome White detail and our grade: [What Are The Rams Wearing On Thanksgiving Eve 2026?](/stories/packers-rams-thanksgiving-eve-uniforms-2026)
 
@@ -69,19 +69,31 @@ The last time these two met on Thanksgiving, in 2024, Detroit wore its all-blue 
 
 ## Chiefs at Bills, 8:20 p.m. ET on NBC
 
-**Bills: royal blue primary (Scheduled).** Buffalo published the jersey for every 2026 home game before the season, and Thanksgiving night against Kansas City is the blue primary: white helmet, royal blue jersey, white pants. See our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
+**Bills: royal blue over blue pants (Confirmed).** Buffalo published the jersey for every 2026 home game before the season, and Thanksgiving night against Kansas City is the blue primary. On November 24 the Bills posted "Thanksgiving Threads": **white helmet, royal blue jersey, royal blue pants and white socks**.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2125279230502265049"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Bills' Thanksgiving uniform, via <a href="https://x.com/BuffaloBills" target="_blank" rel="noopener">@BuffaloBills</a></p>
+ See our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
 
 **Chiefs: white road jersey (Expected).** Kansas City has worn white on the road all season except at Miami, where the Dolphins wore white. Our [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) has the standard road set for Buffalo: red helmet, white jersey, red pants. The full game page: [What Are The Bills Wearing On Thanksgiving 2026?](/stories/bills-chiefs-thanksgiving-uniforms-2026)
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-white-road.jpg" alt="Kansas City Chiefs white road jersey, expected at Buffalo on Thanksgiving night 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg" alt="Buffalo Bills royal blue home jersey, on the team's published schedule for Thanksgiving night 2026 against the Chiefs" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-white-road.jpg" alt="Kansas City Chiefs white road jersey, expected at Buffalo on Thanksgiving night 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg" alt="Buffalo Bills royal blue home jersey, confirmed with royal blue pants for Thanksgiving night 2026 against the Chiefs" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Confirmed</figcaption></figure></div>
 
 ## Black Friday: Broncos at Steelers, 3:00 p.m. ET on Prime Video
 
-**Steelers: 1933 throwback (Expected).** Team president Art Rooney II has said the 1933 throwback and its matte gold helmet return in 2026, but Pittsburgh has not attached it to a date. Our [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026) puts it here: a standalone national window and the first Black Friday game in franchise history. The look is a gold jersey with black stripes, beige pants and the gold helmet, first worn on October 26, 2025 against Green Bay. If the throwback goes elsewhere, the standard black home set takes this game.
+**Steelers: all-black Color Rush (Confirmed).** Pittsburgh announced on November 24 that it wears the Color Rush against Denver, its first Color Rush game of 2026: the **black helmet, black jersey with gold numbers and gold sleeve stripes, and black pants**. We had the gold 1933 throwback here; it is not this game, and the team still has not dated it. Our [Steelers 2026 uniform schedule](/stories/steelers-uniform-schedule-2026) now has the throwback on Sunday night against Houston in Week 13.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2125273480924934194"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">"Black (&amp; Gold) Friday", via <a href="https://x.com/steelers" target="_blank" rel="noopener">@steelers</a></p>
+
 
 **Broncos: Summit White (Scheduled).** Denver published its jersey for all 17 games, and Week 12 at Pittsburgh is Summit White. The Broncos have paired it with the navy helmet and both white and navy pants this season; the pants come with the team's game-week post. See our [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026). The full game page: [What Are The Steelers Wearing On Black Friday 2026?](/stories/steelers-broncos-black-friday-uniforms-2026)
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/broncos-white-road.jpg" alt="Denver Broncos Summit White road jersey, on the team's published schedule for Black Friday 2026 at Pittsburgh" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Broncos · Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/steelers-gold-1933-throwback.jpg" alt="Pittsburgh Steelers gold 1933 throwback jersey, expected against the Broncos on Black Friday 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Steelers · Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/broncos-white-road.jpg" alt="Denver Broncos Summit White road jersey, on the team's published schedule for Black Friday 2026 at Pittsburgh" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Broncos · Scheduled</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/steelers-black-alternate.jpg" alt="Pittsburgh Steelers black Color Rush jersey with gold numbers, confirmed against the Broncos on Black Friday 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Steelers · Confirmed</figcaption></figure></div>
 
 ## Thanksgiving Uniform History, Briefly
 
@@ -93,6 +105,7 @@ We will update this page as each team posts its game-week uniform, and the [2026
 
 ## More For Thanksgiving Week
 
+- **The whole Week 12 slate**, all 16 games from Wednesday to Monday night with grades: [NFL Week 12 Uniforms 2026](/stories/nfl-week-12-uniforms-2026).
 - **Just the six Thanksgiving Day teams**, helmet, jersey and pants in one table: [What Every NFL Team Is Wearing On Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026).
 - **Why teams wear throwbacks on the holiday**, year by year from 1994 to now: [Why Do NFL Teams Wear Throwback Uniforms On Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
 - **Vote for the best Thanksgiving uniform ever** in our eight-look fan bracket, with the winner revealed Thanksgiving morning: [Best NFL Thanksgiving Uniforms Ever](/stories/best-nfl-thanksgiving-uniforms-bracket-2026).
@@ -116,7 +129,7 @@ No. The Cowboys' Classic throwback is a navy jersey, so Philadelphia needs to we
 
 **What are the Rams wearing on Thanksgiving Eve?**
 
-Fearsome White, the new white alternate with the white-horn helmet, against the Packers on Wednesday, November 25. It is on the uniform schedule the Rams published on September 1, and it is the jersey's only game this season. Green Bay has confirmed its green jersey, gold pants and gold helmet.
+Fearsome White, the new white alternate with the white-horn helmet, against the Packers on Wednesday, November 25. It is on the uniform schedule the Rams published on September 1, the team confirmed it with a look book on November 24 (royal helmet with white horns, white jersey, white pants), and it is the jersey's only game this season. Green Bay has confirmed its green jersey, gold pants and gold helmet.
 
 **Is there an NFL game the night before Thanksgiving in 2026?**
 
@@ -128,7 +141,7 @@ Bears at Lions at 1:00 p.m. ET on CBS, Eagles at Cowboys at 4:30 p.m. ET on FOX,
 
 **What are the Bills wearing against the Chiefs on Thanksgiving?**
 
-The royal blue primary with the white helmet and white pants. Buffalo listed it on its published 2026 home schedule. We expect Kansas City in white jerseys with red pants.
+Blue over blue: the white helmet, royal blue jersey and royal blue pants with white socks, confirmed in the Bills' "Thanksgiving Threads" post on November 24. We expect Kansas City in white jerseys with red pants.
 
 **Is there a Black Friday NFL game in 2026?**
 
@@ -136,7 +149,7 @@ Yes. The Denver Broncos play at the Pittsburgh Steelers on Friday, November 27 a
 
 **What are the Steelers wearing on Black Friday?**
 
-We expect the gold 1933 throwback. The Steelers have confirmed it returns in 2026, and this is the game our schedule has it in. Denver wears Summit White, per its published schedule.
+The all-black Color Rush: black helmet, black jersey with gold numbers, black pants, as the Steelers announced on November 24. It is not the 1933 throwback. Denver wears Summit White, per its published schedule.
 
 **What are the Bears wearing on Thanksgiving?**
 

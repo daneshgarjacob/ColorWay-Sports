@@ -1,10 +1,10 @@
 ---
-title: "What Are The Bills Wearing On Thanksgiving 2026? Royal Blue Vs. The Chiefs On Thanksgiving Night"
+title: "What Are The Bills Wearing On Thanksgiving 2026? Royal Blue Over Blue Pants Vs. The Chiefs, Confirmed"
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-16"
-excerpt: "The Bills wear their royal blue home jersey with the white helmet and white pants against the Chiefs on Thanksgiving night, Thursday, November 26 at 8:20 p.m. ET on NBC, per Buffalo's published home schedule. Kansas City is expected in white with red pants. Every detail and our grade."
+updatedDate: "2026-11-24"
+excerpt: "The Bills wear blue over blue against the Chiefs on Thanksgiving night, Thursday, November 26 at 8:20 p.m. ET on NBC: the white helmet, royal blue jersey and royal blue pants with white socks, confirmed in Buffalo's 'Thanksgiving Threads' post on November 24. Kansas City is expected in white with red pants. Every detail and our grade."
 gradient: "linear-gradient(135deg, #00338D 0%, #0C1526 55%, #E31837 130%)"
 cardStyle: words
 kicker: "Thanksgiving Week"
@@ -14,7 +14,7 @@ league: nfl
 teams: ["buffalo-bills", "kansas-city-chiefs"]
 ---
 
-**The Bills wear royal blue on Thanksgiving night.** Buffalo hosts the Kansas City Chiefs at the new Highmark Stadium on **Thursday, November 26, at 8:20 p.m. Eastern on NBC and Peacock**, the last of three games on Thanksgiving Day. Buffalo published the jersey for every 2026 home game before the season, and this one is the **royal blue primary: white helmet, royal blue jersey, white pants**. Kansas City is expected in its standard road look, **red helmet, white jersey, red pants**.
+**The Bills wear royal blue on Thanksgiving night.** Buffalo hosts the Kansas City Chiefs at the new Highmark Stadium on **Thursday, November 26, at 8:20 p.m. Eastern on NBC and Peacock**, the last of three games on Thanksgiving Day. Buffalo published the jersey for every 2026 home game before the season, and this one is the **royal blue primary**. On Tuesday, November 24, the Bills posted the full combination as "Thanksgiving Threads": **white helmet, royal blue jersey, royal blue pants and white socks**, a graphic the team labeled "Blue Blue White." Kansas City is expected in its standard road look, **red helmet, white jersey, red pants**.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2099139055174717852"></a></blockquote>
@@ -24,19 +24,27 @@ teams: ["buffalo-bills", "kansas-city-chiefs"]
 
 ## Quick Answers
 
-- **What are the Bills wearing on Thanksgiving 2026?** The royal blue home jersey with the white helmet and white pants. **Scheduled**, from Buffalo's published 2026 home schedule.
+- **What are the Bills wearing on Thanksgiving 2026?** The royal blue home jersey with royal blue pants, white socks and the white helmet. **Confirmed** by the Bills on November 24.
 - **What are the Chiefs wearing?** White jersey, red pants, red helmet. **Expected.**
 - **When is it?** Thursday, November 26, 8:20 p.m. ET on NBC and Peacock, at Highmark Stadium in Orchard Park.
 - **Are the Bills wearing an alternate on Thanksgiving?** No. The red alternate, the gray Nickel City set and the white Cold Front Rivalries uniform all have other dates.
 - **Our grade:** B+ for the matchup.
 
-## What The Bills Are Wearing (Scheduled)
+## What The Bills Are Wearing (Confirmed)
 
-The royal blue primary is the uniform most people picture when they picture the Bills: the **white helmet** with the red charging buffalo, a **royal blue jersey** with white numbers, and **white pants**. Buffalo gave it the four biggest non-alternate home dates on its calendar, the Week 2 opener at the new stadium against Detroit, Crucial Catch against New England, Native American Heritage against Baltimore, and Thanksgiving night against Kansas City. Saving the base uniform for the biggest nights is the right call, and opening a new stadium in it was the tell.
+**Update, Tuesday, November 24:** Buffalo's "Thanksgiving Threads" graphic for Week 12 against Kansas City reads "Blue Blue White" and shows the **white helmet, royal blue jersey, royal blue pants and white socks**. The jersey is the one on the published schedule; the pants are blue, not the white we had listed.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2125279230502265049"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">"Thanksgiving Threads," the Bills' Week 12 uniform, via <a href="https://x.com/BuffaloBills" target="_blank" rel="noopener">@BuffaloBills</a></p>
+
+The royal blue primary is the uniform most people picture when they picture the Bills: the **white helmet** with the red charging buffalo and a **royal blue jersey** with white numbers. Buffalo gave it the four biggest non-alternate home dates on its calendar, the Week 2 opener at the new stadium against Detroit, Crucial Catch against New England, Native American Heritage against Baltimore, and Thanksgiving night against Kansas City. Saving the base uniform for the biggest nights is the right call, and opening a new stadium in it was the tell.
 
 It is also the first Thanksgiving game at the new Highmark Stadium. Every Buffalo date is in our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026), and the full grades are in [every Bills jersey, ranked](/stories/bills-jerseys-2026-ranked).
 
-<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg" alt="Buffalo Bills royal blue home jersey, on the team's published schedule for Thanksgiving night 2026 against the Chiefs" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills &middot; Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg" alt="Buffalo Bills royal blue home jersey, confirmed with royal blue pants for Thanksgiving night 2026 against the Chiefs" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills &middot; Confirmed</figcaption></figure></div>
 
 ## What The Chiefs Are Wearing (Expected)
 
@@ -51,7 +59,7 @@ Kansas City has worn white on the road all season except at Miami in Week 3, whe
 
 ## Our Grade
 
-**B+.** Royal blue and white against red and white is about as American as football gets on Thanksgiving, and both earned an A- in our [NFL uniform rankings](/stories/best-nfl-uniforms-2026-ranked), Kansas City ninth and Buffalo eleventh. Under the lights in late November in western New York, the colors will look great. What holds it back from an A is that it is two standard uniforms on a holiday where Dallas is in a throwback and the Rams just wore a one-night alternate. Buffalo has a red helmet it saves for holiday games now, and it went to the Christmas Day trip to Denver instead. We would have split them.
+**B+.** Royal blue against red and white is about as American as football gets on Thanksgiving, and both earned an A- in our [NFL uniform rankings](/stories/best-nfl-uniforms-2026-ranked), Kansas City ninth and Buffalo eleventh. Under the lights in late November in western New York, the colors will look great. What holds it back from an A is that it is two standard uniforms on a holiday where Dallas is in a throwback and the Rams just wore a one-night alternate. Buffalo has a red helmet it saves for holiday games now, and it went to the Christmas Day trip to Denver instead. We would have split them.
 
 ## Everything Else Thanksgiving Week
 
@@ -61,7 +69,7 @@ Packers at Rams opens the week on Wednesday night, Bears at Lions and Eagles at 
 
 **What are the Bills wearing on Thanksgiving 2026?**
 
-The royal blue primary: white helmet, royal blue jersey, white pants. Buffalo listed it on its published 2026 home schedule.
+Blue over blue: the white helmet, royal blue jersey, royal blue pants and white socks. Buffalo listed the royal blue jersey on its published 2026 home schedule and posted the full combination as "Thanksgiving Threads" on November 24.
 
 **What time is Chiefs vs. Bills on Thanksgiving?**
 
@@ -108,4 +116,4 @@ Yes. The NFL confirmed on November 19, 2026 that every player in the three Thank
 - [What the Steelers are wearing against the Broncos on Black Friday](/stories/steelers-broncos-black-friday-uniforms-2026)
 - [Every Chiefs jersey, ranked](/stories/chiefs-jerseys-2026-ranked)
 
-*Sources: the Buffalo Bills' published 2026 home uniform schedule, Sports Illustrated and NBC's 2026 Thanksgiving schedules, CBS Sports (2022 result), and ABC7 (2025 viewership). ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Buffalo Bills, the Kansas City Chiefs or the National Football League.*
+*Sources: the Buffalo Bills' published 2026 home uniform schedule and "Thanksgiving Threads" post (November 24), Sports Illustrated and NBC's 2026 Thanksgiving schedules, CBS Sports (2022 result), and ABC7 (2025 viewership). ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Buffalo Bills, the Kansas City Chiefs or the National Football League.*

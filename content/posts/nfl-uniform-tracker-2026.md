@@ -5,7 +5,7 @@ author: "colorway-sports-staff"
 resurfaceOnUpdate: true
 category: NFL
 date: "2026-08-04"
-updatedDate: "2026-11-23"
+updatedDate: "2026-11-24"
 excerpt: "What NFL teams are wearing, game by game. Every helmet, jersey and pants combination logged and graded, all 32 teams, from Week 1 onward."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #D50A0A 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -25,7 +25,7 @@ If you came here to find out what an NFL team is wearing tonight, that is exactl
 
 Baseball has a jersey. Football has a combination. A team can wear the same jersey three weeks running and look like three different teams depending on the helmet and the pants underneath it, and nobody keeps a proper record of it. So we are keeping it: what all 32 teams actually wear, game by game, all season, with a grade on every matchup.
 
-**Week 11 is done.** All 13 games are logged: the Texans debuted their white-helmet HOUSTON/US Rivalries uniform and beat the Colts 26-3, the Bills beat Miami 26-9 in all-white Cold Front, the Jets won 27-24 at SoFi against the Chargers' powder on powder, the 49ers beat the Vikings 35-10 in Mexico City in scarlet and gold, and on Monday night the Commanders debuted the all-black Hail Raiser and beat the Bengals 22-20 on a walk-off field goal. **Week 10 is done.** It opened on Thursday, November 12, with Washington's 24-21 win at New York, the Giants in Vintage White and the Commanders all burgundy, and closed on Monday night with the Chargers' 23-20 win in Baltimore, where the Ravens debuted all-black Darkness Falls. Every game is final and logged with what was actually worn. Weeks 1 to 9 sit underneath, logged and graded game by game.
+**Week 12 is Thanksgiving week**, Wednesday, November 25 to Monday, November 30, and every confirmed and expected look is on the [Week 12 uniform board](/stories/nfl-week-12-uniforms-2026); the games are logged here as they are played. **Week 11 is done.** All 13 games are logged: the Texans debuted their white-helmet HOUSTON/US Rivalries uniform and beat the Colts 26-3, the Bills beat Miami 26-9 in all-white Cold Front, the Jets won 27-24 at SoFi against the Chargers' powder on powder, the 49ers beat the Vikings 35-10 in Mexico City in scarlet and gold, and on Monday night the Commanders debuted the all-black Hail Raiser and beat the Bengals 22-20 on a walk-off field goal. **Week 10 is done.** It opened on Thursday, November 12, with Washington's 24-21 win at New York, the Giants in Vintage White and the Commanders all burgundy, and closed on Monday night with the Chargers' 23-20 win in Baltimore, where the Ravens debuted all-black Darkness Falls. Every game is final and logged with what was actually worn. Weeks 1 to 9 sit underneath, logged and graded game by game.
 
 <div style="display:flex;gap:22px;flex-wrap:wrap;align-items:center;margin:1.4em 0 0.4em;padding:13px 16px;background:#f5f7fa;border:1px solid #e3e6ec;border-radius:11px;"><span style="font-size:10px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:#6b7180;">Reading a card</span><span style="font-size:12px;color:#14223f;">Each team shows three icons: <b>helmet</b>, <b>jersey</b>, <b>pants</b>.</span><span style="font-size:11.5px;color:#8a8f98;">Away team left, home team right. Grade sits under the matchup.</span></div>
 

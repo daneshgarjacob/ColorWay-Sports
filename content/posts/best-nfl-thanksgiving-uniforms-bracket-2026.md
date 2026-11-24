@@ -72,7 +72,7 @@ The newcomer. A white jersey with royal blue numbers and a royal stripe that run
 
 We looked for looks that were worn on the holiday, that fans still argue about, and that each say something different: two true throwbacks (Lions 1934, Cowboys 1960s), two that brought back a color the team had dropped (Bears orange, Packers 1967 stripes), three Color Rush sets from the years the NFL used Thanksgiving to show them off, and one brand-new uniform that gets its only game of the season the night before Thanksgiving.
 
-Left out, and fair to argue about: the Lions in all blue in 2024, the Steelers' gold 1933 throwback (expected on Black Friday this year, not yet worn on the holiday), and the Cowboys' standard white-at-home set.
+Left out, and fair to argue about: the Lions in all blue in 2024, the Steelers' gold 1933 throwback (never worn on the holiday; Pittsburgh wears the Color Rush on Black Friday this year), and the Cowboys' standard white-at-home set.
 
 ## What Happens Next
 

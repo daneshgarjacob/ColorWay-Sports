@@ -10,4 +10,6 @@ linkLabel: "The field, frame by frame"
 ---
 Washington's **"MNF field reveal"** for the Bengals on Monday night: a giant **black helmet outlined in white**, with the **Spear W in burgundy and gold** across the top, painted on the grass at Northwest Stadium. It is the helmet from the all-black **Hail Raiser**, which the Commanders wear for the first time in this game. The Bengals have confirmed orange helmets, white jerseys and white pants. Kickoff is 8:15 p.m. Eastern on ESPN.
 
+**Update, November 23:** the Hail Raiser went on as announced, black helmet, black jersey and black pants, and Washington beat Cincinnati **22-20** on a walk-off field goal. The Bengals wore orange helmets over white. [What the Commanders wore](/stories/commanders-hail-raiser-uniform-bengals-monday-night-football-2026).
+
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2124193208523526502"></a></blockquote>
