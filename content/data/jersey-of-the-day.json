@@ -1069,6 +1069,49 @@
     }
    ],
    "shopQuery": "Washington Commanders Hail Raiser jersey"
+  },
+  "2026-11-24": {
+   "team": "Washington Wizards",
+   "teamShort": "Wizards",
+   "league": "NBA",
+   "season": "2026-27",
+   "edition": "Statement Edition (home)",
+   "jerseyName": "The District (Navy, Red Stars and Bars)",
+   "colorwayGrade": "A-",
+   "image": "/images/jersey-of-the-day/wizards-district-statement-2026-11-24.jpg",
+   "imageAlt": "A Wizards player at 2026 media day in the navy Statement jersey: three red stars across the chest, red bars with The District and Of Columbia in white, and a white No. 4",
+   "imagePosition": "center 30%",
+   "credit": {
+    "text": "Washington Wizards",
+    "url": "https://x.com/WashWizards/status/2104579493478187200",
+    "license": "via the team"
+   },
+   "tweet": {
+    "url": "https://x.com/WashWizards/status/2104579493478187200",
+    "label": "The District jersey at media day, from the Wizards"
+   },
+   "worn": {
+    "date": "2026-11-24",
+    "matchup": "vs. Boston Celtics, 8 p.m. ET on NBC (NBA Cup group play)",
+    "status": "Announced",
+    "note": "Statement Edition per the NBA's official game-by-game uniform schedule, the Wizards' most-worn jersey this season (28 games). Boston is scheduled for its white Association jersey."
+   },
+   "why": "The D.C. flag on a basketball jersey: navy with three red stars and two red bars, the one Wizards look that could only belong to Washington.",
+   "whyPlaceholder": true,
+   "story": "The Wizards wear The District, their navy Statement jersey, against the Celtics tonight in NBA Cup group play at Capital One Arena: three red stars across the chest and two red bars from the D.C. flag, with The District and Of Columbia in white. Boston is scheduled for its white Association jersey. Team executives say a Wizards uniform change is aimed at 2027-28, so this could be the last season for it. Tip-off is 8 p.m. Eastern on NBC. We graded it an A-.",
+   "scheduleSlug": "wizards-uniform-schedule-2026-27",
+   "scheduleLabel": "Wizards 2026-27 uniform schedule",
+   "related": [
+    {
+     "slug": "nba-new-uniforms-2027-28-raptors-wizards-pacers-spurs",
+     "label": "The Wizards rebrand aimed at 2027-28"
+    },
+    {
+     "slug": "nba-uniform-closets-ranked-2026-27",
+     "label": "Every NBA uniform closet, ranked"
+    }
+   ],
+   "shopQuery": "Washington Wizards The District Statement jersey"
   }
  }
 }

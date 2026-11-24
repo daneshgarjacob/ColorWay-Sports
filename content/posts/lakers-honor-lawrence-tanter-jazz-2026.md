@@ -4,7 +4,7 @@ author: "jake-daneshgar"
 category: "NBA"
 date: "2026-11-24"
 updatedDate: "2026-11-24"
-excerpt: "We were at Crypto.com Arena on Monday when the Lakers honored Lawrence Tanter, their PA announcer for 43 seasons, who died in September at 76. A plaque and a headset at the announcer's spot, a video tribute, Michael Cooper and Mychal Thompson on the court, and a banner on Star Plaza. What the Lakers and Jazz wore, whether there is a jersey patch, and how other teams have honored their voices."
+excerpt: "We were at Crypto.com Arena on Monday when the Lakers honored Lawrence Tanter, their PA announcer for 43 seasons, who died in September at 76. A plaque and a headset at the scorer's table, right in front of his seat, a video tribute, Michael Cooper and Mychal Thompson on the court, and a banner on Star Plaza. What the Lakers and Jazz wore, whether there is a jersey patch, and how other teams have honored their voices."
 gradient: "linear-gradient(135deg, #552583 0%, #2a1240 60%, #FDB927 140%)"
 coverImage: "/images/posts/lakers-honor-lawrence-tanter-jazz-2026/remembering-lawrence-tanter-scoreboard.jpg"
 coverImagePosition: "center 50%"
@@ -20,7 +20,7 @@ league: "nba"
 teams: ["los-angeles-lakers", "utah-jazz"]
 ---
 
-**The Lakers honored Lawrence Tanter on Monday night, and we were in the building.** Tanter was the Lakers' public address announcer for 43 seasons, from 1982 until he retired in June after a stroke. He died on September 23 at 76. Before the Lakers beat the Jazz 109-94 at Crypto.com Arena on November 23, the team put a commemorative banner on Star Plaza for fans to sign. During the game it played a video tribute, brought Michael Cooper and Mychal Thompson onto the court to speak about him, and showed a plaque with a headset resting on it at the announcer's spot on the big screen.
+**The Lakers honored Lawrence Tanter on Monday night, and we were in the building.** Tanter was the Lakers' public address announcer for 43 seasons, from 1982 until he retired in June after a stroke. He died on September 23 at 76. Before the Lakers beat the Jazz 109-94 at Crypto.com Arena on November 23, the team put a commemorative banner on Star Plaza for fans to sign. During the game it played a video tribute, brought Michael Cooper and Mychal Thompson onto the court to speak about him, and showed on the big screen a plaque with a headset resting on it, standing at the scorer's table where players check into the game, right in front of where Tanter sat.
 
 <img src="/images/posts/lakers-honor-lawrence-tanter-jazz-2026/remembering-lawrence-tanter-scoreboard.jpg" alt="The Crypto.com Arena center-hung scoreboard reading Remembering Lawrence Tanter, showing a black Lakers plaque that reads Remembering Lawrence Tanter, Public Address Announcer, 43 seasons, with a headset resting on it, and the score Lakers 30, Jazz 20 before the second quarter" style="display: block; width: 100%; max-width: 560px; margin: 1.5em auto 0; border-radius: 10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin-top: 0.5em;">"Remembering Lawrence Tanter" on the scoreboard before the second quarter, Lakers vs. Jazz, Nov. 23, 2026. Photo: Jake Daneshgar / ColorWay Sports</p>
@@ -37,7 +37,7 @@ teams: ["los-angeles-lakers", "utah-jazz"]
 
 ## What We Saw at Crypto.com Arena
 
-The tribute that stopped us came at the break before the second quarter. The center-hung scoreboard went purple, with "Remembering Lawrence Tanter" on every panel and on the ribbon boards around the bowl. In the middle was a live shot of a black plaque with the Lakers logo, standing courtside where the public address announcer works, with a pair of headphones and a microphone resting on it.
+The tribute that stopped us came at the break before the second quarter. The center-hung scoreboard went purple, with "Remembering Lawrence Tanter" on every panel and on the ribbon boards around the bowl. In the middle was a live shot of a black plaque with the Lakers logo, standing at the scorer's table, at the spot where players wait to check into the game and right in front of the seat Tanter worked from, with a pair of headphones and a microphone resting on it.
 
 The plaque reads "Lakers," "Remembering Lawrence Tanter," "Public Address Announcer" and "43 seasons." The score bug underneath said Lakers 30, Jazz 20. The Lakers led after one quarter by the same score, per ESPN.
 
@@ -84,7 +84,7 @@ This was not the first moment for him this season. The Lakers held a moment of s
 
 ### Was There a Jersey Patch?
 
-No. We found no announcement of a Tanter patch, armband or warm-up shirt from the Lakers, and we did not see one on Monday. The Lakers' purple jerseys carried the usual Albert sponsor patch and the Jordan logo on the chest, and nothing else that we could see from our seats or in the NBA TV highlights. The Lakers honored Tanter through the arena itself: the scoreboard, the plaque at his old spot, the video and the banner outside.
+No. We found no announcement of a Tanter patch, armband or warm-up shirt from the Lakers, and we did not see one on Monday. The Lakers' purple jerseys carried the usual Albert sponsor patch and the Jordan logo on the chest, and nothing else that we could see from our seats or in the NBA TV highlights. The Lakers honored Tanter through the arena itself: the scoreboard, the plaque in front of his old seat, the video and the banner outside.
 
 ## What the Lakers and Jazz Wore
 
@@ -114,7 +114,7 @@ A PA announcer is the only one of these voices you hear only in the building. Sh
 
 ## Our Take
 
-The Lakers got this right. The plaque and the headset at his spot were the best part of the night: quiet and specific to the job he did. The video of him calling Magic, Kareem, Shaq, Kobe, LeBron and Luka covered every era of the franchise, and he was the one constant through all of it.
+The Lakers got this right. The plaque and the headset in front of his seat, where every player checking in walked past it, were the best part of the night: quiet and specific to the job he did. The video of him calling Magic, Kareem, Shaq, Kobe, LeBron and Luka covered every era of the franchise, and he was the one constant through all of it.
 
 The one thing missing is on the uniform. The Yankees put a microphone on their sleeve for Bob Sheppard. The Lakers could have done the same with a small "LT" patch for one night, or for the season. Lawrence Tanter was the greatest PA announcer in sports, and his voice is part of what the Lakers are, the same as the purple and gold.
 
@@ -130,7 +130,7 @@ On September 23, 2026, at age 76. The Lakers announced his death that night.
 Yes. He had a stroke in March 2026, missed the rest of that season, and the Lakers announced his retirement on June 16, 2026. He stayed with the team as special advisor for game presentation.
 
 **How did the Lakers honor Lawrence Tanter?**
-At the November 23, 2026 home game against the Jazz: a commemorative banner on Star Plaza where fans left messages, a video tribute, Michael Cooper and Mychal Thompson speaking on the court, and a plaque with a headset at the announcer's spot shown on the scoreboard. The team also held a moment of silence at its first home preseason game on October 8.
+At the November 23, 2026 home game against the Jazz: a commemorative banner on Star Plaza where fans left messages, a video tribute, Michael Cooper and Mychal Thompson speaking on the court, and a plaque with a headset at the scorer's table, in front of his old seat, shown on the scoreboard. The team also held a moment of silence at its first home preseason game on October 8.
 
 **Are the Lakers wearing a patch for Lawrence Tanter?**
 No patch has been announced, and the Lakers did not wear one on November 23. Their purple jerseys had only the usual Albert sponsor patch and Jordan logo.
