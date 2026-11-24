@@ -3,7 +3,7 @@ title: "Commanders Will Wear The Hail Raiser Vs. Bengals On Monday Night Footbal
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-23"
 excerpt: "The Commanders wear the all-black Hail Raiser for the first time against the Bengals on Monday Night Football, November 23, at home: the black helmet with the Spear W, a black jersey with burgundy numbers outlined in gold, and black pants. The Bengals have confirmed orange helmets, white jerseys and white pants. Every detail, the second date and our grade."
 gradient: "linear-gradient(135deg, #0b0b0d 0%, #3a0d0d 60%, #FFB612 130%)"
 coverImage: "/images/posts/commanders-reveal-2026/HF852oPWoAADrja.jpg"
@@ -21,7 +21,9 @@ league: nfl
 teams: ["washington-commanders", "cincinnati-bengals"]
 ---
 
-**The Commanders are going all black next Monday night.** Washington wears its **Hail Raiser** alternate when it hosts the Cincinnati Bengals on **Monday, November 23, at 8:15 p.m. Eastern on ESPN**. That is the **black helmet with the Spear W**, a **black jersey** with burgundy numbers outlined in gold, and **black pants**. It is the first game for the uniform Washington revealed in April, and the first of only two dates it gets in 2026.
+**Final: Commanders 22, Bengals 20.** Washington wore the Hail Raiser exactly as announced, black helmet, black jersey and black pants, and won on a walk-off field goal. Cincinnati wore the orange helmet, white jersey and white pants. Both looks are confirmed from ESPN's game photos and logged in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
+
+**The Commanders went all black on Monday night.** Washington wore its **Hail Raiser** alternate when it hosted the Cincinnati Bengals on **Monday, November 23, at 8:15 p.m. Eastern on ESPN**. That is the **black helmet with the Spear W**, a **black jersey** with burgundy numbers outlined in gold, and **black pants**. It was the first game for the uniform Washington revealed in April, and the first of only two dates it gets in 2026.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2077774248848883798"></a></blockquote>
@@ -38,10 +40,10 @@ teams: ["washington-commanders", "cincinnati-bengals"]
 
 ## Quick Answers
 
-- **What are the Commanders wearing on Monday Night Football?** The Hail Raiser: a black helmet with the Spear W logo, a black jersey and black pants, with burgundy and gold trim.
+- **What did the Commanders wear on Monday Night Football?** The Hail Raiser: a black helmet with the Spear W logo, a black jersey and black pants, with burgundy and gold trim.
 - **When?** Monday, November 23, 8:15 p.m. ET on ESPN, against the Bengals in Landover.
-- **What are the Bengals wearing?** Confirmed by the Bengals: orange helmet, white jersey, white pants and black socks.
-- **Is this the first time the Hail Raiser is worn?** Yes. It was revealed on April 15, 2026, and this is its first game.
+- **What did the Bengals wear?** As the Bengals announced: orange helmet, white jersey, white pants and black socks.
+- **Is this the first time the Hail Raiser is worn?** Yes. It was revealed on April 15, 2026, and this was its first game, a 22-20 win.
 - **Will the Commanders wear it again?** Once more, in Week 15 against Atlanta on Sunday, December 20, also at home.
 - **Our grade:** A for the uniform, A- for the matchup. It's the best uniform Washington owns.
 
@@ -109,7 +111,7 @@ The Commanders' alternate logo: the W with a spear running through it, pulled fr
 
 **Have the Commanders worn the Hail Raiser before?**
 
-No. Monday night against the Bengals is its first game.
+No. Monday night against the Bengals, November 23, was its first game, and Washington won 22-20.
 
 **How many times will the Commanders wear the Hail Raiser in 2026?**
 

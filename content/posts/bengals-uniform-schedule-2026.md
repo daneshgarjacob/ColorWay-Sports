@@ -3,7 +3,7 @@ topViewsRank: 2
 title: "Bengals Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-11-17"
+updatedDate: "2026-11-23"
 excerpt: "Every Bengals jersey for 2026, week by week. The all-white White Bengal comes out at home in Week 10 vs. Pittsburgh on SNF, and New Year's Eve is White Bengal Stripe night."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"
@@ -99,7 +99,7 @@ Black with orange tiger stripes is the look the franchise is known for, and the 
 
 The white road uniform projects to eight of the nine away games, plus one home date, the Week 17 White Bengal Stripe night against Baltimore: at the Texans, Steelers, Ravens, Commanders, Browns, Panthers, Colts, and the Week 9 game at Atlanta in Madrid. That last one is the wrinkle. Cincinnati is playing at the Bernabéu on Sunday, November 8 at 9:30 a.m. Eastern, but the Falcons are the designated home team, so it is a road game for the Bengals and they are in white despite the neutral site. The one road exception is Week 5 at Miami, where the Dolphins take white and Cincinnati wears orange.
 
-**Week 11 at Washington is confirmed: orange helmet, white jersey, white pants.** The Bengals posted the combination on Bengals.com for the Monday night game on November 23, which they call White-White-Black for the jersey, pants and socks. Washington wears the all-black Hail Raiser for the first time that night, so it is white against black from helmet to cleats except for Cincinnati's striped orange shell. Sports Illustrated counts it as Cincinnati's most-worn combination, 15-8 going into this game.
+**Week 11 at Washington is confirmed: orange helmet, white jersey, white pants.** The Bengals posted the combination on Bengals.com for the Monday night game on November 23, which they call White-White-Black for the jersey, pants and socks. Washington wears the all-black Hail Raiser for the first time that night, so it is white against black from helmet to cleats except for Cincinnati's striped orange shell. Sports Illustrated counts it as Cincinnati's most-worn combination, 15-8 going into this game. **Final: Commanders 22, Bengals 20.** Cincinnati wore exactly what it announced, confirmed from ESPN's game photos.
 
 One more road date worth flagging: the Week 16 trip to Indianapolis is the Colts' Indiana Nights game, their black alternate. We covered it in the [Colts 2026 uniform schedule](/stories/colts-uniform-schedule-2026), and white against that black set is one of the better road looks Cincinnati will get all year.
 
@@ -116,11 +116,11 @@ How does every one of these jerseys stack up? See our [Bengals jerseys 2026 rank
 
 **What jersey are the Bengals wearing today?**
 
-Week 10 against the Steelers, November 15, worn: the White Bengal, white helmet, white jersey and white pants, a 38-18 win. Next up is Week 11 at Washington on Monday Night Football, November 23, and the Bengals have confirmed it: orange helmet, white jersey and white pants against the Commanders' all-black Hail Raiser. This answer updates every week. For the rest of the season: Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
+Week 11 at Washington, Monday, November 23, worn: the striped orange helmet, white jersey and white pants, as the Bengals announced, confirmed from ESPN's game photos. The Commanders wore the all-black Hail Raiser for the first time and won 22-20 on a walk-off field goal. We grade the matchup an A-. Next up is Week 12 against New Orleans at Paycor Stadium on Sunday, November 29, where we expect black, Cincinnati's usual home look. This answer updates every week. For the rest of the season: Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
 
 **What jerseys are the Bengals wearing this week?**
 
-Week 10 against the Steelers, November 15, worn: the White Bengal, white helmet, white jersey and white pants, a 38-18 win. Next up is Week 11 at Washington on Monday Night Football, November 23, and the Bengals have confirmed it: orange helmet, white jersey and white pants against the Commanders' all-black Hail Raiser. For the rest of the season: Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
+Week 11 at Washington, Monday, November 23, worn: the striped orange helmet, white jersey and white pants, as the Bengals announced, confirmed from ESPN's game photos. The Commanders wore the all-black Hail Raiser for the first time and won 22-20 on a walk-off field goal. We grade the matchup an A-. Next up is Week 12 against New Orleans at Paycor Stadium on Sunday, November 29, where we expect black, Cincinnati's usual home look. For the rest of the season: Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
 
 **What uniform did the Bengals wear last week?**
 
@@ -128,7 +128,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Bengals wearing next week?**
 
-Week 11 at Washington on Monday, November 23 is confirmed: orange helmet, white jersey, white pants. After that, black at Paycor Stadium and white on the trip, unless it is the orange week against Kansas City in Week 14, or Week 17 against Baltimore, where we have the standard white at home.
+Black at home against New Orleans in Week 12 on Sunday, November 29, our projection, since the Bengals have not announced it. After that, black at Paycor Stadium and white on the trip, unless it is the orange week against Kansas City in Week 14, or Week 17 against Baltimore, where we have the standard white at home.
 
 **What jerseys do the Bengals have in 2026?**
 
@@ -166,9 +166,9 @@ No. Two games are confirmed by the team: Open In Orange in Week 1 and the White 
 
 That is the White Bengal, Cincinnati's all-white alternate with the black tiger stripes kept at full strength, and its 2026 date is a primetime home game, Week 10 against the Steelers on Sunday, November 15. We also have Cincinnati in its standard white at home in Week 17 against the Ravens on Thursday, December 31, the New Year's Eve White Bengal Stripe game.
 
-**What are the Bengals wearing against the Commanders?**
+**What did the Bengals wear against the Commanders?**
 
-The orange striped helmet, the white jersey and white pants with black socks, confirmed by the Bengals for Monday Night Football at Washington on November 23. The Commanders wear their all-black Hail Raiser for the first time that night, with the black helmet.
+The orange striped helmet, the white jersey and white pants with black socks, as the Bengals announced for Monday Night Football at Washington on November 23. The Commanders wore their all-black Hail Raiser for the first time that night, with the black helmet, and won 22-20.
 
 **Why are the Bengals wearing white helmets?**
 

@@ -4,7 +4,7 @@ author: "jake-daneshgar"
 category: NFL
 date: "2026-11-23"
 updatedDate: "2026-11-23"
-excerpt: "Look closely at the Commanders' Spear W, the logo on the black Hail Raiser helmet Washington debuts tonight against the Bengals. The spear goes over the first stroke of the W, under the second, over the third and under the fourth. A straight spear can't do that through a flat letter. Follow the spear step by step, see where the head and back end come out, the 1960s spear helmet it comes from, and whether it matters."
+excerpt: "Look closely at the Commanders' Spear W, the logo on the black Hail Raiser helmet Washington debuted Monday night in a 22-20 win over the Bengals. The spear goes over the first stroke of the W, under the second, over the third and under the fourth. A straight spear can't do that through a flat letter. Follow the spear step by step, see where the head and back end come out, the 1960s spear helmet it comes from, and whether it matters."
 gradient: "linear-gradient(135deg, #0b0b0d 0%, #5A1414 60%, #FFB612 130%)"
 coverImage: "/images/posts/commanders-spear-w-logo-impossible/spear-w-logo.jpg"
 coverImagePosition: "center 45%"
@@ -20,7 +20,9 @@ league: nfl
 teams: ["washington-commanders", "cincinnati-bengals"]
 ---
 
-**The spear in the Commanders' new logo can't exist.** Look closely at the **Spear W**, the logo on the black **Hail Raiser** helmet Washington wears for the first time tonight against the Bengals on Monday Night Football. The spear runs straight across the W, and it passes **over** the first stroke, **under** the second, **over** the third and **under** the fourth. The team calls it an interweave. Through a flat letter, a straight spear can't weave. It would have to pass through the letter three times, and a straight line can only cross a flat surface once.
+**Update: the Spear W helmet debuted on Monday night, November 23, and the Commanders beat the Bengals 22-20 on a walk-off field goal.**
+
+**The spear in the Commanders' new logo can't exist.** Look closely at the **Spear W**, the logo on the black **Hail Raiser** helmet Washington wore for the first time on Monday night against the Bengals on Monday Night Football. The spear runs straight across the W, and it passes **over** the first stroke, **under** the second, **over** the third and **under** the fourth. The team calls it an interweave. Through a flat letter, a straight spear can't weave. It would have to pass through the letter three times, and a straight line can only cross a flat surface once.
 
 <img src="/images/posts/commanders-spear-w-logo-impossible/spear-w-logo.jpg" alt="The Washington Commanders Spear W alternate logo from the team's reveal graphic: a burgundy W outlined in gold with a gold spear running straight across it and a gold spearhead pointing right" style="display:block;width:100%;max-width:680px;margin:1.5em auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">The Spear W, from the team's April 15 "New Alternate Logo" graphic, via the Washington Commanders</p>
@@ -31,7 +33,7 @@ teams: ["washington-commanders", "cincinnati-bengals"]
 - **What does the team say?** The Commanders describe it as "the spear and the W interwoven at their center," a joining of past and present.
 - **Where does the spear come out?** The back end sticks out on the left as a plain gold shaft with no feathers. On the right, the shaft stops short, and the spearhead floats just past it without touching.
 - **Where is the logo?** On both sides of the black Hail Raiser helmet. It isn't on the burgundy helmet that goes with the white and burgundy jerseys.
-- **When can I see it?** Tonight, Monday, November 23, 8:15 p.m. ET on ESPN, Commanders vs. Bengals in Landover, and again on December 20 against the Falcons.
+- **When can I see it?** It debuted Monday, November 23, in a 22-20 win over the Bengals in Landover. Next is Sunday, December 20, against the Falcons.
 - **Where does the spear come from?** Washington wore a spear on its helmets from 1965 to 1969, and brought that helmet back for its 70th season in 2002.
 - **Does it matter?** No. It's still the best logo in Washington's new set.
 
@@ -73,16 +75,16 @@ The detached spearhead is the same kind of trick. On a real spear, the head is f
 <img src="/images/posts/commanders-spear-w-logo-impossible/hail-raiser-helmet-spear-w.jpg" alt="The black Washington Commanders Hail Raiser helmet seen from the side, with the burgundy and gold Spear W decal and the gold spearhead pointing toward the facemask" style="display:block;width:100%;max-width:680px;margin:1.5em auto 0.5em;border-radius:10px;" loading="lazy" decoding="async" />
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 2em;">The Spear W on the Hail Raiser helmet. Photo: Emily Morgan/Washington Commanders</p>
 
-The Spear W is the alternate logo from Washington's April 15, 2026 redesign. On the field it appears in one place: **both sides of the black Hail Raiser helmet**. The team says the helmet has "a Spear W logo helmet decal on both sides," with a low-gloss black finish. The spear points toward the facemask on both sides, so from the front you see two gold spearheads facing you. The burgundy helmet worn with the white and burgundy jerseys keeps the primary W. The Spear W is also on team merchandise, and Washington painted it across a giant black helmet on its field for tonight's game. Details in our [Monday Night Football field story](/stories/commanders-monday-night-football-field-hail-raiser-helmet-bengals-2026).
+The Spear W is the alternate logo from Washington's April 15, 2026 redesign. On the field it appears in one place: **both sides of the black Hail Raiser helmet**. The team says the helmet has "a Spear W logo helmet decal on both sides," with a low-gloss black finish. The spear points toward the facemask on both sides, so from the front you see two gold spearheads facing you. The burgundy helmet worn with the white and burgundy jerseys keeps the primary W. The Spear W is also on team merchandise, and Washington painted it across a giant black helmet on its field for Monday night's game. Details in our [Monday Night Football field story](/stories/commanders-monday-night-football-field-hail-raiser-helmet-bengals-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2044415206416080901"></a></blockquote>
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The April 15 reveal, Hail Raiser helmet included, via <a href="https://x.com/Commanders" target="_blank" rel="noopener">@Commanders</a></p>
 
-## Tonight: The Spear W's First Game
+## Monday Night: The Spear W's First Game
 
-Washington hosts the **Cincinnati Bengals tonight, Monday, November 23, at 8:15 p.m. Eastern on ESPN**. The Commanders wear the Hail Raiser for the first time: the black helmet with the Spear W, a black jersey with burgundy numbers outlined in gold, and black pants. The Bengals have confirmed orange helmets, white jerseys and white pants. Everything both teams are wearing is in our [Hail Raiser Monday Night Football story](/stories/commanders-hail-raiser-uniform-bengals-monday-night-football-2026). The second and last Hail Raiser game of 2026 is **Sunday, December 20, against Atlanta**, also at home. The full calendar is on our [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026).
+Washington hosted the **Cincinnati Bengals on Monday, November 23, on ESPN** and won 22-20. The Commanders wore the Hail Raiser for the first time: the black helmet with the Spear W, a black jersey with burgundy numbers outlined in gold, and black pants. The Bengals wore orange helmets, white jerseys and white pants. Everything both teams wore is in our [Hail Raiser Monday Night Football story](/stories/commanders-hail-raiser-uniform-bengals-monday-night-football-2026). The second and last Hail Raiser game of 2026 is **Sunday, December 20, against Atlanta**, also at home. The full calendar is on our [Commanders 2026 uniform schedule](/stories/commanders-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Commanders/status/2124193208523526502"></a></blockquote>
@@ -107,7 +109,7 @@ Impossible drawings are rare in sports logos. Hidden letters are more common:
 
 It doesn't matter that it's impossible. Logos aren't engineering drawings, and the weave is what makes the spear and the W read as one piece. It ties the 1960s spear to the current W in one mark, and from the front, the two spearheads give the black helmet a look nobody else in the league has. That's why we graded the Hail Raiser an **A** and ranked it first in [every Commanders jersey ranked](/stories/commanders-jerseys-2026-ranked).
 
-If we could change one thing, it would be the gap at the head. The weave is a choice. The head floating off the end of the shaft looks like a part that hasn't been attached yet. Tonight, under the lights, nobody will notice either one.
+If we could change one thing, it would be the gap at the head. The weave is a choice. The head floating off the end of the shaft looks like a part that hasn't been attached yet. Under the lights on Monday night, nobody noticed either one.
 
 ## Frequently Asked Questions
 
@@ -135,13 +137,13 @@ No. The shaft comes out of the right side of the W and ends, and the spearhead s
 
 No. The back end of the new spear is a plain gold shaft. The 1960s helmet spear had feathers.
 
-**What helmet are the Commanders wearing tonight?**
+**What helmet did the Commanders wear on Monday night?**
 
-The black Hail Raiser helmet with the Spear W, for the first time, against the Bengals on Monday Night Football, November 23.
+The black Hail Raiser helmet with the Spear W, for the first time, against the Bengals on Monday Night Football, November 23, a 22-20 win.
 
-**What are the Commanders wearing on Monday Night Football?**
+**What did the Commanders wear on Monday Night Football?**
 
-The all-black Hail Raiser: the black Spear W helmet, a black jersey with burgundy numbers outlined in gold, and black pants. The Bengals wear orange helmets, white jerseys and white pants.
+The all-black Hail Raiser: the black Spear W helmet, a black jersey with burgundy numbers outlined in gold, and black pants. The Bengals wore orange helmets, white jerseys and white pants.
 
 **Is the Spear W on the Commanders' regular helmet?**
 
@@ -153,7 +155,7 @@ From 1965 to 1969, before the feathered "R" arrived in 1970. Washington wore a r
 
 **How many times will the Commanders wear the Spear W helmet in 2026?**
 
-Twice, both at home: tonight against the Bengals and Sunday, December 20, against the Falcons.
+Twice, both at home: Monday, November 23, against the Bengals and Sunday, December 20, against the Falcons.
 
 ## More Commanders Uniform Coverage
 

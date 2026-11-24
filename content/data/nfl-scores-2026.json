@@ -1,7 +1,7 @@
 {
  "note": "Final scores from ESPN's public scoreboard, cached by scripts/build-uniform-records.mjs. The site build reads this file and never calls ESPN.",
  "season": 2026,
- "fetched": "2026-11-23",
+ "fetched": "2026-11-24",
  "weeks": {
   "1": [
    {
@@ -1675,17 +1675,6 @@
   ],
   "11": [
    {
-    "id": "401873078",
-    "week": 11,
-    "date": "2026-11-23",
-    "kickoff": "2026-11-24T01:15Z",
-    "home": "Washington Commanders",
-    "away": "Cincinnati Bengals",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
-   },
-   {
     "id": "401873066",
     "week": 11,
     "date": "2026-11-19",
@@ -1815,6 +1804,17 @@
     "away": "Minnesota Vikings",
     "homeScore": 35,
     "awayScore": 10,
+    "final": true
+   },
+   {
+    "id": "401873078",
+    "week": 11,
+    "date": "2026-11-23",
+    "kickoff": "2026-11-24T01:15Z",
+    "home": "Washington Commanders",
+    "away": "Cincinnati Bengals",
+    "homeScore": 22,
+    "awayScore": 20,
     "final": true
    }
   ]

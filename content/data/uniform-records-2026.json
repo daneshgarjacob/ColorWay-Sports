@@ -2,12 +2,12 @@
  "league": "nfl",
  "season": 2026,
  "throughWeek": 11,
- "built": "2026-11-23",
+ "built": "2026-11-24",
  "note": "Built by scripts/build-uniform-records.mjs from the ColorWay Sports NFL uniform tracker (worn looks only, logged from game photos) and ESPN final scores. Do not hand-edit.",
  "totals": {
   "teams": 32,
-  "gamesPlayed": 162,
-  "teamGamesCounted": 324,
+  "gamesPlayed": 163,
+  "teamGamesCounted": 326,
   "teamGamesUnlogged": 0
  },
  "teams": [
@@ -1340,13 +1340,62 @@
    "key": "bengals",
    "name": "Cincinnati Bengals",
    "nickname": "Bengals",
-   "gamesPlayed": 9,
-   "gamesCounted": 9,
+   "gamesPlayed": 10,
+   "gamesCounted": 10,
    "w": 7,
-   "l": 2,
+   "l": 3,
    "t": 0,
    "missing": [],
    "combos": [
+    {
+     "id": "white-orange-white",
+     "helmet": "Orange",
+     "jersey": "White",
+     "jerseyName": "White",
+     "jerseyKey": "bengals-white-road",
+     "pants": "White",
+     "hexes": [
+      "#FB4F14",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/bengals-white-road.jpg",
+     "w": 2,
+     "l": 1,
+     "t": 0,
+     "games": [
+      {
+       "week": 2,
+       "date": "2026-09-20",
+       "opponent": "Houston Texans",
+       "home": false,
+       "teamScore": 20,
+       "oppScore": 6,
+       "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 7,
+       "date": "2026-10-25",
+       "opponent": "Baltimore Ravens",
+       "home": false,
+       "teamScore": 35,
+       "oppScore": 13,
+       "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 11,
+       "date": "2026-11-23",
+       "opponent": "Washington Commanders",
+       "home": false,
+       "teamScore": 20,
+       "oppScore": 22,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
     {
      "id": "orange-orange-white",
      "helmet": "Orange",
@@ -1381,45 +1430,6 @@
        "home": false,
        "teamScore": 31,
        "oppScore": 24,
-       "result": "W",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      }
-     ]
-    },
-    {
-     "id": "white-orange-white",
-     "helmet": "Orange",
-     "jersey": "White",
-     "jerseyName": "White",
-     "jerseyKey": "bengals-white-road",
-     "pants": "White",
-     "hexes": [
-      "#FB4F14",
-      "#FFFFFF",
-      "#FFFFFF"
-     ],
-     "img": "/images/posts/nfl-tracker-jerseys/bengals-white-road.jpg",
-     "w": 2,
-     "l": 0,
-     "t": 0,
-     "games": [
-      {
-       "week": 2,
-       "date": "2026-09-20",
-       "opponent": "Houston Texans",
-       "home": false,
-       "teamScore": 20,
-       "oppScore": 6,
-       "result": "W",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      },
-      {
-       "week": 7,
-       "date": "2026-10-25",
-       "opponent": "Baltimore Ravens",
-       "home": false,
-       "teamScore": 35,
-       "oppScore": 13,
        "result": "W",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
@@ -6494,9 +6504,9 @@
    "key": "commanders",
    "name": "Washington Commanders",
    "nickname": "Commanders",
-   "gamesPlayed": 9,
-   "gamesCounted": 9,
-   "w": 3,
+   "gamesPlayed": 10,
+   "gamesCounted": 10,
+   "w": 4,
    "l": 5,
    "t": 1,
    "missing": [],
@@ -6614,6 +6624,35 @@
        "teamScore": 13,
        "oppScore": 30,
        "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
+    {
+     "id": "black-black-black",
+     "helmet": "Black",
+     "jersey": "Black",
+     "jerseyName": "Black",
+     "jerseyKey": "commanders-black-alternate",
+     "pants": "Black",
+     "hexes": [
+      "#101820",
+      "#101820",
+      "#101820"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/commanders-black-alternate.jpg",
+     "w": 1,
+     "l": 0,
+     "t": 0,
+     "games": [
+      {
+       "week": 11,
+       "date": "2026-11-23",
+       "opponent": "Cincinnati Bengals",
+       "home": true,
+       "teamScore": 22,
+       "oppScore": 20,
+       "result": "W",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
      ]

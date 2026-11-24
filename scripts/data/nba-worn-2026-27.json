@@ -3498,6 +3498,147 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (Wizards red Icon, Magic white pinstripe Association; https://www.espn.com/nba/game/_/gameId/401910031)"
+    },
+    "2026-11-23 BKN@MIN": {
+      "score": {
+        "away": 116,
+        "home": 142
+      },
+      "away": {
+        "call": "Classic Edition"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Timberwolves black Statement, Nets white script Classic; https://www.espn.com/nba/game/_/gameId/401910040)"
+    },
+    "2026-11-23 CLE@CHI": {
+      "score": {
+        "away": 108,
+        "home": 122
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Bulls black pinstripe Statement, Cavaliers white Association; https://www.espn.com/nba/game/_/gameId/401910041)"
+    },
+    "2026-11-23 LAC@HOU": {
+      "score": {
+        "away": 104,
+        "home": 116
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Rockets red Icon, Clippers white Association; https://www.espn.com/nba/game/_/gameId/401910043)"
+    },
+    "2026-11-23 MEM@CHA": {
+      "score": {
+        "away": 117,
+        "home": 111
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Hornets white Association, Grizzlies navy Icon; https://www.espn.com/nba/game/_/gameId/401910036)"
+    },
+    "2026-11-23 MIL@TOR": {
+      "score": {
+        "away": 116,
+        "home": 111
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Raptors white Association, Bucks green Icon; https://www.espn.com/nba/game/_/gameId/401910039)"
+    },
+    "2026-11-23 OKC@IND": {
+      "score": {
+        "away": 120,
+        "home": 125
+      },
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Pacers yellow pinstripe INDIANA Statement, Thunder blue Icon; https://www.espn.com/nba/game/_/gameId/401910038)"
+    },
+    "2026-11-23 PHX@NOP": {
+      "score": {
+        "away": 123,
+        "home": 119
+      },
+      "ot": true,
+      "away": {
+        "call": "Icon Edition"
+      },
+      "home": {
+        "call": "Association White"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Pelicans white Association, Suns purple SUNS Icon; https://www.espn.com/nba/game/_/gameId/401910042)"
+    },
+    "2026-11-23 POR@PHI": {
+      "score": {
+        "away": 128,
+        "home": 111
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (76ers royal blue PHILA Icon, Trail Blazers white Association; https://www.espn.com/nba/game/_/gameId/401910037)"
+    },
+    "2026-11-23 SAS@SAC": {
+      "score": {
+        "away": 123,
+        "home": 107
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Icon Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Kings black Icon, Spurs white Association; https://www.espn.com/nba/game/_/gameId/401910045)"
+    },
+    "2026-11-23 UTA@LAL": {
+      "score": {
+        "away": 94,
+        "home": 109
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Lakers purple Statement, Jazz white Association; https://www.espn.com/nba/game/_/gameId/401910044)"
     }
   }
 }
