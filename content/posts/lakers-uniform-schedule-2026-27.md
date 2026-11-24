@@ -72,6 +72,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
 - [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys): the Lakers are one of the eight oldest franchises, founded in 1946 as the Detroit Gems
 - [Lakers New Court Revealed: The LA Logo, a Lot More Black, and What It Signals](/stories/lakers-new-court-2026)
 - [Lakers New Jersey Patch 2026: Goodbye Bibigo, Hello Albert on a $30 Million Deal](/stories/lakers-albert-jersey-patch-2026)
+- [Lakers Honor Lawrence Tanter: The Plaque, The Headset And 43 Seasons As The Voice Of The Lakers](/stories/lakers-honor-lawrence-tanter-jazz-2026)
 - [Lawrence Tanter Retires: The Lakers Just Lost the Greatest PA Announcer in Sports History](/stories/lawrence-tanter-retires-lakers-pa-announcer-2026)
 - [2026 NBA Finals Court vs 2009 Lakers Finals Court: 4 Things That Changed in 17 Years](/stories/2026-nba-finals-court-vs-2009-lakers-finals-court-compared)
 - [2026 NBA Playoffs Round 2 Jersey Tracker: Every Matchup Graded](/stories/nba-playoffs-2026-round-2-jersey-tracker)

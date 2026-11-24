@@ -86,5 +86,6 @@ Tanter will serve as a special advisor on the Lakers' game presentation, keeping
 
 ## More Lakers Coverage
 
+- [Lakers Honor Lawrence Tanter: The Plaque, The Headset And 43 Seasons As The Voice Of The Lakers](/stories/lakers-honor-lawrence-tanter-jazz-2026) · Tanter died on September 23, 2026; how the Lakers honored him on November 23
 - [Lakers PA Announcer Lawrence Tanter Misses Game Due to Illness](/stories/lawrence-tanter-lakers-pa-announcer-illness-2026) · our March story on the absence that turned out to be a stroke
 - [2026 NBA Finals Court vs the 2009 Lakers Finals Court, Compared](/stories/2026-nba-finals-court-vs-2009-lakers-finals-court-compared) · a look at how the Lakers' Finals floor has evolved
