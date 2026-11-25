@@ -3,15 +3,20 @@ import type { Sponsor } from "@/lib/sponsors";
 // "Presented by" strip under a story's byline (lib/sponsors.ts). A static,
 // self-hosted image and a plain sponsored link: no ad tags or tracking pixels.
 export default function SponsorStrip({ sponsor }: { sponsor: Sponsor & { href: string } }) {
+  // Sized logos (a square badge, a taller wordmark) stack the label on two even
+  // lines so it never leaves a wide gap before the logo. Default stays as Daps ran.
+  const sized = Boolean(sponsor.logoDisplayHeight);
   return (
     <a
       href={sponsor.href}
       target="_blank"
       rel="sponsored noopener"
       data-sponsor={sponsor.id}
-      className="mt-4 flex max-w-[560px] items-center gap-3 rounded-[10px] border border-[#d6dcf5] bg-[#f3f6ff] px-4 py-2.5 no-underline hover:border-[#0025CC]"
+      className={`mt-4 flex ${sized ? "max-w-[600px]" : "max-w-[560px]"} items-center gap-3 rounded-[10px] border border-[#d6dcf5] bg-[#f3f6ff] px-4 py-2.5 no-underline hover:border-[#0025CC]`}
     >
-      <span className="text-[10px] font-extrabold uppercase leading-tight tracking-[0.16em] text-[#6b7280]">
+      <span
+        className={`text-[10px] font-extrabold uppercase leading-tight tracking-[0.16em] text-[#6b7280]${sized ? " max-w-[176px] shrink-0" : ""}`}
+      >
         {sponsor.label}
       </span>
       <img
@@ -19,8 +24,8 @@ export default function SponsorStrip({ sponsor }: { sponsor: Sponsor & { href: s
         alt={sponsor.name}
         width={sponsor.logoWidth}
         height={sponsor.logoHeight}
-        className="h-[22px] w-auto shrink-0"
-        style={{ boxShadow: "none" }}
+        className={sized ? "w-auto shrink-0" : "h-[22px] w-auto shrink-0"}
+        style={sized ? { boxShadow: "none", height: sponsor.logoDisplayHeight } : { boxShadow: "none" }}
       />
       <span className="ml-auto hidden whitespace-nowrap text-[13px] font-semibold text-[#002fd9] sm:inline">
         {sponsor.line} →

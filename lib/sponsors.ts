@@ -13,6 +13,7 @@ export type Sponsor = {
   logo: string; // transparent PNG under public/
   logoWidth: number;
   logoHeight: number;
+  logoDisplayHeight?: number; // on-page height in px (default 22, the Daps wordmark)
   url: string; // landing page, UTM tags added per page
   campaign: string;
   enabled: boolean;
@@ -44,6 +45,28 @@ export const SPONSORS: Sponsor[] = [
     enabled: true,
     start: "2026-11-01",
     end: "2026-11-08",
+    slugs: NFL_TEAM_SCHEDULES,
+  },
+  {
+    // TrophySmack trial (Josh Weaver, 11/24): $150 flat for Tue Dec 1 through Thu
+    // Dec 31 on all 32 NFL team schedule pages; report first week of January.
+    // NOT LIVE: flip `enabled` once the sponsor confirms logo, line, URL and payment.
+    // Logo: square fantasy badge (sponsor's preference). Alternative supplied:
+    // /images/sponsors/trophysmack-wordmark.png (720x199, use logoDisplayHeight 30).
+    id: "trophysmack",
+    name: "TrophySmack",
+    label: "NFL Uniform Schedules presented by",
+    // Placeholder line until TrophySmack sends their own (~5 words).
+    line: "Fantasy football trophies and belts",
+    logo: "/images/sponsors/trophysmack-badge.png",
+    logoWidth: 353,
+    logoHeight: 400,
+    logoDisplayHeight: 56,
+    url: "https://www.trophysmack.com",
+    campaign: "colorway_nfl_schedules_dec_trial",
+    enabled: false,
+    start: "2026-12-01",
+    end: "2026-12-31",
     slugs: NFL_TEAM_SCHEDULES,
   },
 ];
