@@ -2,7 +2,7 @@
 title: "NBA Specter Edition Jerseys 2026-27: All 8 Teams, Graded"
 category: "NBA"
 date: "2026-09-10"
-updatedDate: "2026-11-23"
+updatedDate: "2026-11-24"
 excerpt: "Nike's Specter Edition is a fifth uniform for the NBA's eight oldest franchises. All eight teams' official photos, every date from the November 29 debut to December 29, the November 30 on-sale date, why only eight teams got one, and a grade for each design."
 gradient: "linear-gradient(135deg, #0b0b12 0%, #2a1a4a 55%, #6b2fb3 130%)"
 logoSrc: "/logos/leagues/nba.png"
@@ -82,6 +82,8 @@ Seven of the eight teams posted their official Specter photos on Monday, Novembe
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/SacramentoKings/status/2124956218263306623"></a></blockquote>
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Kings' Specter Edition, via <a href="https://x.com/SacramentoKings" target="_blank" rel="noopener">@SacramentoKings</a></p>
+
+**Update, November 24:** The Kings followed with a teaser dated **11.28.26**, linking to a team store sign-up for when their Specter jersey drops. They have no game on November 28; their court debut is still November 29 vs the Timberwolves.
 
 The photos match the designs we graded, with a few details the leak images did not show clearly. The Lakers' numbers are black with a gold outline, with purple light streaks across the front. The Pistons' flames run yellow, orange and red up from the hem, with teal streaks. The Knicks' numbers are black with an orange outline.
 

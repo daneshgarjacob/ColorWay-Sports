@@ -19,6 +19,8 @@ The Sacramento Kings open 2026-27 at Golden 1 Center in October 2026. This is th
 **Update, October 19:** The full Kings jersey schedule for 2026-27 is out, a call for all 80 dated games. The Association Edition is the most-worn Kings jersey this season at **29 games** (8 home, 21 road), ahead of the Icon Edition at 26. Opening night, October 21 at the Clippers, is the **Association Edition**. The City Edition debuts **January 15 at the Trail Blazers** and is scheduled for ten games in all. The new [Specter Edition](/stories/nba-specter-edition-jerseys-2026-27) gets three nights: November 29 vs the Timberwolves, November 30 vs the Pelicans and December 23 vs the Mavericks. Every game is filled in below.
 <!-- nba-uniform-counts:intro:end -->
 
+**Update, November 24:** The Kings posted a Specter teaser dated **11.28.26** ("New threads incoming") with a link to their Specter page, a team store sign-up to hear when the jersey drops. Sacramento does not play on November 28, so that is not a game date: the on-court debut is still **November 29 vs the Timberwolves**.
+
 <!-- nba-uniform-counts:grid:start -->
 ## How Many Times the Kings Wear Each Jersey in 2026-27
 

@@ -2,7 +2,7 @@
 title: "PSG's 2026/27 Kits: The Best Wardrobe In Europe, Graded"
 category: "Soccer"
 date: "2026-08-06"
-updatedDate: "2026-08-07"
+updatedDate: "2026-11-24"
 excerpt: "PSG have the best wardrobe in Europe for 2026/27 and the kit of the season. Both jerseys graded, and why restraint won."
 gradient: "linear-gradient(135deg, #004170 0%, #0A1A2F 55%, #DA291C 120%)"
 cardStyle: words
@@ -43,6 +43,18 @@ The colours are right and the black at the sleeve tips is the small decision tha
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PSG_English/status/2085059092154843395"></a></blockquote>
 </div>
 
+## What Does Paris Saint-Germain's 2026/27 Third Kit Look Like?
+
+**Update, Nov. 24:** Paris Saint-Germain and Jordan Brand unveiled the 2026/27 third kit on **Monday, November 23**, and it went on sale the same day at the club's online store, PSG stores and Nike.
+
+In the club's own words, the shirt has "a subtle tie-dye effect in varying shades of green" across the whole body. Down the middle, a set of fine **green, red and purple vertical stripes** reworks the central Hechter stripe, and **yellow** picks out the lettering and numbering. PSG call it the third kit in a season-long run of reinterpretations of that stripe, after the home and away.
+
+It launches with a 1990s-inspired Jordan lifestyle collection in black and green with the same red, purple and yellow accents, plus a red goalkeeper jersey and a graphic pre-match jersey. The club is marking the launch with a pop-up in Paris's 18th arrondissement on Wednesday, November 25, the night PSG host AS Roma in the Champions League.
+
+<div style="display: flex; justify-content: center; margin: 1.75em 0;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PSG_English/status/2124790454692491496"></a></blockquote>
+</div>
+
 ## Paris Saint-Germain's 2026/27 Wardrobe Grade
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #004170 0%, #DA291C 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.18); text-align: center;">
@@ -71,7 +83,15 @@ See where every one of these shirts landed in [our full ranking of all 42 Europe
 
 **What are PSG's 2026/27 kits?**
 
-The home shirt is Old Royal blue with a bold central red Hechter stripe flanked by two white lines, running unbroken onto the back. The away is close to an inverted version of it with black at the sleeve tips. Both are made by Nike. The third kit has not been released.
+The home shirt is Old Royal blue with a bold central red Hechter stripe flanked by two white lines, running unbroken onto the back. The away is close to an inverted version of it with black at the sleeve tips. Both are made by Nike. The third kit, released November 23 under Jordan Brand, is a green tie-dye shirt with fine green, red and purple stripes down the centre and yellow lettering and numbering.
+
+**When was PSG's 2026/27 third kit released?**
+
+Monday, November 23, 2026. Paris Saint-Germain and Jordan Brand unveiled it that day, and it went on sale immediately at the club's online store, PSG stores and Nike.
+
+**What does PSG's 2026/27 third kit look like?**
+
+Per the club, a subtle tie-dye effect in shades of green across the body, with a series of fine green, red and purple vertical stripes down the centre that reimagine the Hechter stripe, and yellow on the lettering and numbering.
 
 **What grade do PSG's 2026/27 kits get?**
 
@@ -91,4 +111,4 @@ Yes, on the away kit. The authentic version carries a different crest from the r
 
 **Who makes PSG's kits?**
 
-Nike, who have supplied Paris Saint-Germain since 1989, one of the longest continuous kit partnerships in European football.
+Nike, who have supplied Paris Saint-Germain since 1989, one of the longest continuous kit partnerships in European football. The 2026/27 third kit carries Nike's Jordan Brand.

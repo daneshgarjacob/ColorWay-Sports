@@ -2,6 +2,7 @@
 title: "Utah Mammoth And Avalanche Winter Classic Jerseys 2027: Every Detail And Our Grades"
 category: "NHL"
 date: "2026-11-18"
+updatedDate: "2026-11-24"
 excerpt: "The Mammoth and Avalanche revealed their 2027 Winter Classic jerseys for New Year's Eve at Rice-Eccles Stadium. Utah goes Mountain Blue and brown, with stripes from Hygeia Iceland, the state's first rink. Colorado goes cream with a burgundy Tuscan C and its first burgundy helmets. Every detail, the game info and our grades."
 gradient: "linear-gradient(135deg, #5fb4e5 0%, #4a2c1f 60%, #6F263D 120%)"
 author: "jake-daneshgar"
@@ -116,6 +117,13 @@ Every other night on both calendars: [Utah Mammoth uniform schedule 2026-27](/st
 
 Both jerseys went on sale the morning of the reveal. The NHL says they are available at the Mammoth and Avalanche team stores, the NHL Shop in New York and across the Fanatics network, including NHLShop.com and NHLShop.ca, along with Winter Classic hats, apparel and other gear.
 
+**Update, November 24: a record launch.** Andrew Low Ah Kee, CEO of Fanatics Commerce, posted on Friday, November 20 that Mammoth and Avalanche fans made it **the biggest Winter Classic launch in history**, a record day at **more than double the previous best**. He added that **8 of the top 10 products across every league on Fanatics** were Winter Classic items, six weeks before the game.
+
+<div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/alowahkee/status/2123782204996157620"></a></blockquote>
+</div>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Via <a href="https://x.com/alowahkee" target="_blank" rel="noopener">Andrew Low Ah Kee</a> of Fanatics</p>
+
 ## Frequently Asked Questions
 
 **What do the Utah Mammoth Winter Classic jerseys look like?**
@@ -185,6 +193,10 @@ Fanatics, the NHL's authentic outfitter. The league and Fanatics unveiled them t
 **Can I buy the Utah Mammoth Winter Classic jersey?**
 
 Yes. It went on sale November 18 at the Mammoth team store and across the Fanatics network, including NHLShop.com and NHLShop.ca.
+
+**How well are the 2027 Winter Classic jerseys selling?**
+
+Better than any before them. Andrew Low Ah Kee, CEO of Fanatics Commerce, said on November 20 that it was the biggest Winter Classic launch in history, at more than double the previous best, and that 8 of the top 10 products across every league on Fanatics were Winter Classic items.
 
 **Which Winter Classic jersey is better, Utah or Colorado?**
 
