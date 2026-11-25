@@ -2,7 +2,7 @@
 title: "Warriors Uniform Schedule 2026-27: Every Jersey and When They Wear It"
 category: "NBA"
 date: "2026-08-26"
-updatedDate: "2026-11-23"
+updatedDate: "2026-11-24"
 excerpt: "The full Warriors uniform schedule for 2026-27: the jersey for all 80 dated games, how many times they wear each one, and every City Edition date."
 gradient: "linear-gradient(135deg, #1D428A 0%, #FFC72C 100%)"
 cardStyle: words
@@ -18,6 +18,8 @@ The Golden State Warriors open 2026-27 at Chase Center in October 2026. This is 
 <!-- nba-uniform-counts:intro:start -->
 **Update, October 19:** The full Warriors jersey schedule for 2026-27 is out, a call for all 80 dated games. The Association Edition is the most-worn Warriors jersey this season at **32 games** (12 home, 20 road), ahead of the Icon Edition at 18. Opening night, October 21 at the Lakers, is the **Icon Edition**. The City Edition debuts **January 22 vs the Bucks** and is scheduled for 11 games in all. The new [Specter Edition](/stories/nba-specter-edition-jerseys-2026-27) gets three nights: November 29 vs the Clippers, December 1 vs the Jazz and December 22 vs the Mavericks. Every game is filled in below.
 <!-- nba-uniform-counts:intro:end -->
+
+**Warriors Specter Edition, official photos out November 23:** the black Specter jersey, with royal blue light streaks down one side, black numbers outlined in gold and a small gold WARRIORS wordmark, is worn three times, all at home: **November 29 vs the Clippers** (the debut), **December 1 vs the Jazz** and **December 22 vs the Mavericks**. It goes on sale November 30. Photos, details and our grade: [Warriors Specter Edition Jersey](/stories/warriors-specter-edition-jersey-2026-27).
 
 <!-- nba-uniform-counts:grid:start -->
 ## How Many Times the Warriors Wear Each Jersey in 2026-27
@@ -64,6 +66,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
 
 ## More Warriors Coverage
 
+- [Warriors Specter Edition Jersey: What The Black And Blue Uniform Looks Like And Every Game They Wear It](/stories/warriors-specter-edition-jersey-2026-27)
 - [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys): the Warriors are one of the eight oldest franchises, founded in 1946 as the Philadelphia Warriors
 - [NBA Play-In 2026 Night 2 Uniform Review: Magic vs Sixers and Warriors vs Clippers Jerseys Graded](/stories/nba-play-in-2026-night-2-jersey-review)
 - [NBC Sports NBA Score Bug 2026: Clean Template Shared by Four Teams](/stories/nbc-nba-scorebug-2026)
