@@ -19,6 +19,8 @@ The New York Knicks open 2026-27 at Madison Square Garden in October 2026. This 
 **Update, October 19:** The full Knicks jersey schedule for 2026-27 is out, a call for all 80 dated games. The Association Edition is the most-worn Knicks jersey this season at **40 games** (16 home, 24 road), ahead of the Statement Edition at 14. Opening night, October 20 vs the 76ers, is the **Association Edition**. The City Edition debuts **January 14 vs the Heat** and is scheduled for 11 games in all. The new [Specter Edition](/stories/nba-specter-edition-jerseys-2026-27) gets three nights: November 29 vs the Hawks, December 23 vs the Jazz and December 27 vs the Nets. Every game is filled in below.
 <!-- nba-uniform-counts:intro:end -->
 
+**Knicks Specter Edition, official photos out November 23:** the Specter jersey, with grainy royal blue and black vertical stripes, black numbers outlined in orange and an orange NEW YORK wordmark, is worn three times, all at home: **November 29 vs the Hawks** (the debut), **December 23 vs the Jazz** and **December 27 vs the Nets**. It goes on sale November 30. Photos, details and our grade: [Knicks Specter Edition Jersey](/stories/knicks-specter-edition-jersey-2026-27).
+
 <!-- nba-uniform-counts:grid:start -->
 ## How Many Times the Knicks Wear Each Jersey in 2026-27
 
@@ -64,6 +66,7 @@ That covers all 80 games the league has dated. The last two December dates wait 
 
 ## More Knicks Coverage
 
+- [Knicks Specter Edition Jersey: What The Blue And Black Uniform Looks Like And Every Game They Wear It](/stories/knicks-specter-edition-jersey-2026-27)
 - [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys): the Knicks are one of the eight oldest franchises, founded in 1946 as an original BAA team
 - [The Knicks Won the 2026 Title in Almost the Exact Same Uniform as 1973 — Spot the Difference](/stories/knicks-1973-vs-2026-championship-uniforms-compared)
 - [New York Knicks 2026 NBA Champions Hat and T-Shirt: Locker Room Gear Graded](/stories/knicks-2026-nba-champions-hat-shirt-graded)

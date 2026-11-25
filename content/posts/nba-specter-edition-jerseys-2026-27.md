@@ -211,6 +211,7 @@ It is a template choice shared across the collection, part of the streetwear-fir
 - [NBA Specter Edition Jerseys Ranked: All 8 From Worst To Best](/stories/nba-specter-edition-jerseys-ranked)
 - [Lakers Specter Edition Jersey: What It Looks Like And Every Game They Wear It](/stories/lakers-specter-edition-jersey-2026-27)
 - [Warriors Specter Edition Jersey: What It Looks Like And Every Game They Wear It](/stories/warriors-specter-edition-jersey-2026-27)
+- [Knicks Specter Edition Jersey: What It Looks Like And Every Game They Wear It](/stories/knicks-specter-edition-jersey-2026-27)
 - [NBA City Edition Jerseys 2026-27: Every Team and the September 15 Reveal](/stories/nba-city-edition-jerseys-2026-27) — the program Specter is not
 - [NBA Uniforms 2026-27: Every New Jersey, Court and Rebrand, Graded](/stories/nba-uniforms-2026-27) — the season hub
 - [The September 15 NBA Reveal, Explained](/stories/nba-september-15-2026-uniform-reveal) — what is actually being announced that day

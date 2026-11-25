@@ -259,6 +259,7 @@ In our ranking, the Pistons' flames are No. 1 and the Hawks' brushstrokes are No
 - [NBA Specter Edition Jerseys Ranked: All 8 From Worst To Best](/stories/nba-specter-edition-jerseys-ranked)
 - [Lakers Specter Edition Jersey: What The Black And Gold Uniform Looks Like And Every Game They Wear It](/stories/lakers-specter-edition-jersey-2026-27)
 - [Warriors Specter Edition Jersey: What The Black And Blue Uniform Looks Like And Every Game They Wear It](/stories/warriors-specter-edition-jersey-2026-27)
+- [Knicks Specter Edition Jersey: What The Blue And Black Uniform Looks Like And Every Game They Wear It](/stories/knicks-specter-edition-jersey-2026-27)
 - Every team's full jersey schedule: [Kings](/stories/sacramento-kings-uniform-schedule-2026-27), [Pistons](/stories/pistons-uniform-schedule-2026-27), [Celtics](/stories/celtics-uniform-schedule-2026-27), [Knicks](/stories/knicks-uniform-schedule-2026-27), [Warriors](/stories/warriors-uniform-schedule-2026-27), [Hawks](/stories/hawks-uniform-schedule-2026-27), [76ers](/stories/76ers-uniform-schedule-2026-27), [Lakers](/stories/lakers-uniform-schedule-2026-27)
 
 *Sources: Nike's Specter Edition announcement (September 10, 2026), each team's official Specter posts (November 23, 2026), the Atlanta Hawks' Specter page on NBA.com, the NBA's 2026-27 game-by-game uniform schedule, NBA.com's history of the original NBA teams, and each franchise's published history. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by Nike, the NBA or any team.*
