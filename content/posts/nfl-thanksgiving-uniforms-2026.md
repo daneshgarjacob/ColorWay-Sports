@@ -3,7 +3,7 @@ title: "NFL Thanksgiving Uniforms 2026: What Every Team Will Wear, Wednesday Thr
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-02"
-updatedDate: "2026-11-24"
+updatedDate: "2026-11-25"
 excerpt: "NFL Thanksgiving uniforms for 2026, all five holiday-week games: the Rams debut Fearsome White against the Packers on Thanksgiving Eve (confirmed), the Cowboys wear their 1960s Classic throwback against the Eagles, the Lions host the Bears in Honolulu blue, the Bills wear blue over blue against the Chiefs at night (confirmed), and the Steelers wear the all-black Color Rush against the Broncos on Black Friday (confirmed)."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #869397 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -61,7 +61,7 @@ The last time these two met on Thanksgiving, in 2024, Detroit wore its all-blue 
 
 ## Eagles at Cowboys, 4:30 p.m. ET on FOX
 
-**Cowboys: Thanksgiving Classic throwback (Scheduled).** Dallas published all 17 of its 2026 uniform assignments on September 2, and Week 12 is the Classic, the 1960s throwback: a **white helmet with the vintage star and a gray facemask**, a navy jersey with stars on the white shoulder yoke and solid block numbers, and white pants with twin navy stripes. The Cowboys wore it on Thanksgiving in 2022, 2023, 2024 and 2025. Full details are in our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026). Dallas wearing a dark jersey at home is the exception: [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home) the rest of the year.
+**Cowboys: Thanksgiving Classic throwback (Confirmed).** Dallas published all 17 of its 2026 uniform assignments on September 2 and confirmed this one with its Week 12 "Gameday Threads" post on November 24. It is the Classic, the 1960s throwback: a **white helmet with the vintage star and a gray facemask**, a navy jersey with stars on the white shoulder yoke and solid block numbers, and white pants with twin navy stripes. The Cowboys wore it on Thanksgiving in 2022, 2023, 2024 and 2025. Full details are in our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026). Dallas wearing a dark jersey at home is the exception: [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home) the rest of the year.
 
 **Eagles: white road jersey (Expected).** Dallas usually wears white at home, which normally lets a visitor bring a colored jersey to AT&T Stadium; Philadelphia wore Kelly Green there in 2025. That option is closed this year because the Classic is a navy jersey, so the Eagles take white. Philadelphia confirmed its three 2026 alternate dates on September 4 (Kelly Green in Weeks 9 and 16, the black alternate in Week 15), and Thanksgiving is not one of them. Our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) has the midnight green helmet and white jersey for this game. The full game page: [What Are The Cowboys Wearing On Thanksgiving 2026?](/stories/cowboys-eagles-thanksgiving-uniforms-2026)
 
@@ -121,7 +121,7 @@ We expect Honolulu blue at home against the Chicago Bears on Thursday, November 
 
 **What are the Cowboys wearing on Thanksgiving 2026?**
 
-The 1960s Classic throwback against the Eagles: white helmet with the vintage star, navy jersey with stars on the shoulders, and white pants with navy stripes. It is on the uniform schedule Dallas published on September 2, and it is the fifth straight Thanksgiving in that uniform.
+The 1960s Classic throwback against the Eagles: white helmet with the vintage star, navy jersey with stars on the shoulders, and white pants with navy stripes. It is on the uniform schedule Dallas published on September 2, the team confirmed it in its game-week post on November 24, and it is the fifth straight Thanksgiving in that uniform.
 
 **Will the Eagles wear Kelly Green on Thanksgiving?**
 

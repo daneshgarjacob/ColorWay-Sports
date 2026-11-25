@@ -3,7 +3,7 @@ title: "NFL Week 12 Uniforms 2026: What Every Team Is Wearing, Including The Ste
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-24"
-updatedDate: "2026-11-24"
+updatedDate: "2026-11-25"
 excerpt: "NFL Week 12 uniforms (Nov. 25-30), Thanksgiving week: the Rams wear Fearsome White against the Packers on Thanksgiving Eve, the Cowboys wear their 1960s Classic against the Eagles, the Bills go blue over blue against the Chiefs, the Steelers wear the all-black Color Rush against the Broncos on Black Friday, plus the Cardinals in all black, the Chargers in navy Super Chargers and every other game, with grades."
 gradient: "linear-gradient(135deg, #101820 0%, #0C1526 55%, #FFB612 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -42,11 +42,11 @@ Royal and white against green and gold is four strong colors with no overlap, un
 ### Philadelphia Eagles At Dallas Cowboys: The Thanksgiving Classic
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
-<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/1993428379585200234"></a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/2125316385874096622"></a></blockquote>
 </div>
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Classic on Thanksgiving 2025, the same uniform Dallas has scheduled for 2026, via <a href="https://x.com/dallascowboys" target="_blank" rel="noopener">@dallascowboys</a></p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Cowboys' Week 12 Gameday Threads post from November 24, confirming the Classic, via <a href="https://x.com/dallascowboys" target="_blank" rel="noopener">@dallascowboys</a></p>
 
-**Thursday, 4:30 p.m. ET, FOX.** Dallas published all 17 of its 2026 uniform assignments on September 2, and Week 12 is the **Classic**, the 1960s throwback: a **white helmet with the vintage star and a gray facemask**, a navy jersey with stars on the white shoulder yoke and solid block numbers, and white pants with twin navy stripes. The Cowboys have worn it on Thanksgiving every year since 2022. **Scheduled**; the team had not posted its game-week look as of Tuesday.
+**Thursday, 4:30 p.m. ET, FOX.** Dallas published all 17 of its 2026 uniform assignments on September 2, and Week 12 is the **Classic**, the 1960s throwback: a **white helmet with the vintage star and a gray facemask**, a navy jersey with stars on the white shoulder yoke and solid block numbers, and white pants with twin navy stripes. The Cowboys have worn it on Thanksgiving every year since 2022. **Confirmed**: the team posted the Classic as its Week 12 "Gameday Threads" on November 24.
 
 Philadelphia is **expected** in **white** with the midnight green helmet. The Classic is a navy jersey, so the Eagles cannot bring a color to AT&T Stadium the way they did with Kelly Green in 2025, and none of their three alternate dates falls on Thanksgiving.
 
@@ -211,7 +211,7 @@ Every player in the three Thanksgiving Day games wears the round [John Madden Th
 ### Thursday, November 26 (Thanksgiving)
 
 - **Chicago Bears at Detroit Lions**, 1:00 p.m. ET, CBS. Bears: navy helmet, white jersey (expected). Lions: silver helmet, Honolulu blue jersey (expected). Matchup grade: B+.
-- **Philadelphia Eagles at Dallas Cowboys**, 4:30 p.m. ET, FOX. Eagles: midnight green helmet, white jersey (expected). Cowboys: the 1960s Classic, white helmet with the vintage star, navy jersey, white pants (scheduled). Matchup grade: A-.
+- **Philadelphia Eagles at Dallas Cowboys**, 4:30 p.m. ET, FOX. Eagles: midnight green helmet, white jersey (expected). Cowboys: the 1960s Classic, white helmet with the vintage star, navy jersey, white pants (confirmed). Matchup grade: A-.
 - **Kansas City Chiefs at Buffalo Bills**, 8:20 p.m. ET, NBC. Chiefs: red helmet, white jersey, red pants (expected). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Matchup grade: B+.
 
 ### Friday, November 27 (Black Friday)
@@ -265,7 +265,7 @@ The 1960s Classic throwback against the Eagles: white helmet with the vintage st
 
 **What are the Lions wearing on Thanksgiving 2026?**
 
-We expect Honolulu blue at home against Chicago with the silver helmet. Detroit announces one game at a time and had not posted this one as of Tuesday, November 24, and it has no throwback on its 2026 calendar.
+We expect Honolulu blue at home against Chicago with the silver helmet. Detroit announces one game at a time and had not posted this one as of Wednesday, November 25, and it has no throwback on its 2026 calendar.
 
 **What are the Bills wearing against the Chiefs?**
 

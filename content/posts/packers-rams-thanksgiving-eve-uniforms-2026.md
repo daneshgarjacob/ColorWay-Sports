@@ -4,6 +4,7 @@ author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
 updatedDate: "2026-11-24"
+homepageHero: "2026-11-25"
 excerpt: "The Rams wear Fearsome White against the Packers on Thanksgiving Eve, Wednesday, November 25 at 8:00 p.m. ET on Netflix: a white jersey with royal blue numbers, a royal helmet with white horns and a white facemask. It is the uniform's only game of 2026, and the Rams confirmed it on November 24 with a Fearsome White look book: white jersey, white pants, white-horn helmet. The Packers confirmed their look on November 23: green jersey, gold pants, gold helmet. Every detail and our grade."
 gradient: "linear-gradient(135deg, #003594 0%, #0C1526 55%, #203731 130%)"
 cardStyle: words

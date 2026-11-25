@@ -3,7 +3,7 @@ title: "What Are The Cowboys Wearing On Thanksgiving 2026? The 1960s Classic Thr
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-16"
+updatedDate: "2026-11-25"
 excerpt: "The Cowboys wear their 1960s Classic throwback against the Eagles on Thanksgiving, Thursday, November 26 at 4:30 p.m. ET on FOX: white helmet, navy jersey with stars on the shoulders, white pants. It is the fifth straight year. Philadelphia is expected in white, and no, it will not be Kelly Green."
 gradient: "linear-gradient(135deg, #041E42 0%, #0C1526 55%, #004C54 130%)"
 cardStyle: words
@@ -24,14 +24,14 @@ teams: ["dallas-cowboys", "philadelphia-eagles"]
 
 ## Quick Answers
 
-- **What are the Cowboys wearing on Thanksgiving 2026?** The 1960s Classic throwback: white helmet, navy jersey with stars on the shoulders, white pants with navy stripes. **Scheduled**, from the uniform schedule Dallas published September 2.
+- **What are the Cowboys wearing on Thanksgiving 2026?** The 1960s Classic throwback: white helmet, navy jersey with stars on the shoulders, white pants with navy stripes. **Confirmed**: it is on the uniform schedule Dallas published September 2, and the team posted it as its Week 12 "Gameday Threads" on November 24.
 - **What are the Eagles wearing?** White jerseys with the midnight green helmet. **Expected.**
 - **Will the Eagles wear Kelly Green on Thanksgiving?** No. The Cowboys are in navy, so Philadelphia has to wear white.
 - **When is it?** Thursday, November 26, 4:30 p.m. ET (3:30 p.m. CT) on FOX, at AT&T Stadium in Arlington.
 - **How many Thanksgivings in a row is this?** Five: 2022, 2023, 2024, 2025 and 2026.
 - **Our grade:** A- for the matchup.
 
-## What The Cowboys Are Wearing (Scheduled)
+## What The Cowboys Are Wearing (Confirmed)
 
 The Classic is a throwback to the Cowboys of the 1960s, and it is the one day a year Dallas changes its silhouette.
 
