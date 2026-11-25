@@ -3,7 +3,7 @@ title: "Boston Bruins Uniform History: From Brown And Gold In 1924 To The Varsit
 author: "colorway-sports-staff"
 category: "NHL"
 date: "2026-11-11"
-updatedDate: "2026-11-11"
+updatedDate: "2026-11-24"
 excerpt: "Every era of Boston Bruins sweaters: the brown and gold of 1924 and the grocery chain behind it, the switch to black and gold, the Spoked-B in 1948-49, the gold Pooh Bear third, four Winter Classics, two Reverse Retros, the Centennial set and the brown Varsity Sweater that debuts Thursday."
 gradient: "linear-gradient(135deg, #111111 0%, #4a3222 60%, #FFB81C 130%)"
 coverImage: "/images/posts/boston-bruins-uniform-history/bruins-1929-team.jpg"
@@ -85,7 +85,7 @@ The Pooh Bear has come back twice since. In 2022-23 it returned as Boston's Reve
 
 ## 2007-2017: The Reebok Spoked-B And The Men In Black
 
-Reebok took over NHL uniforms in 2007, and the Bruins used the moment to sharpen the Spoked-B by adding a serif. The shoulder bear became a redrawn version of the original 1924 bear. From 2008 to 2016 the third jersey was the "Men in Black": a V-neck with no laces, the bear on the front and the Spoked-B moved to the shoulders. Boston won the 2011 Stanley Cup in this era. Adidas took over in 2017 with only small changes.
+Reebok took over NHL uniforms in 2007, and the Bruins used the moment to sharpen the Spoked-B by adding a serif. The shoulder bear became a redrawn version of the original 1924 bear. From 2008 to 2016 the third jersey was the "Men in Black": a V-neck with no laces, the bear on the front and the Spoked-B moved to the shoulders. Boston won the 2011 Stanley Cup in this era, with Patrice Bergeron scoring the Cup winner in Game 7; the Bruins [retire his No. 37 on Dec. 1, 2026](/stories/bruins-retire-patrice-bergeron-number-37-dec-1-2026). Adidas took over in 2017 with only small changes.
 
 ## Every Bruins Winter Classic Jersey
 

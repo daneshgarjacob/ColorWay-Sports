@@ -2,7 +2,7 @@
 title: "Bruins Uniform Schedule 2026-27: Every Sweater and When They Wear It"
 category: "NHL"
 date: "2026-08-26"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-24"
 excerpt: "Every Bruins sweater for 2026-27 and when they wear it. The full uniform closet now, with the game-by-game schedule filled in as the season runs."
 gradient: "linear-gradient(135deg, #FFB81C 0%, #000000 100%)"
 cardStyle: words
@@ -60,6 +60,8 @@ It debuted Thursday, Nov. 12 against the Montreal Canadiens. The Bruins wear it 
 
 ## More Bruins Coverage
 
+- [Bruins Retire Patrice Bergeron's No. 37 On Dec. 1: Ceremony Time, TV And Every Retired Bruins Number](/stories/bruins-retire-patrice-bergeron-number-37-dec-1-2026)
+- [Boston Bruins Uniform History: From Brown And Gold In 1924 To The Varsity Sweater](/stories/boston-bruins-uniform-history)
 - [2026 NHL Stanley Cup Playoffs Crowd Giveaway Tracker: Every T-Shirt and Towel Graded](/stories/nhl-stanley-cup-playoffs-crowd-giveaway-tracker-2026)
 - [2026 NHL Stanley Cup Playoffs Round 1 Jersey Tracker: Every Matchup Graded](/stories/nhl-playoffs-2026-round-1-jersey-tracker)
 
