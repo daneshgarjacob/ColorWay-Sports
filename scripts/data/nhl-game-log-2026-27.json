@@ -378,7 +378,8 @@
     "TOR Road White @ NYI Home Royal Blue": "B",
     "UTA Road White @ WPG Hometown Remix": "B+",
     "ANA Road White @ SEA Home Deep Sea Blue": "B",
-    "MIN Road White @ SJS Home Teal": "B"
+    "MIN Road White @ SJS Home Teal": "B",
+    "VGK Road White @ EDM Home Royal Blue": "B+"
   },
   "games": {
     "2026-09-29 FLA@CAR": { "confirmed": true, "source": "ESPN game photos + banner-night highlight" },
@@ -783,6 +784,7 @@
     "2026-11-23 UTA@WPG": {"confirmed": true, "source": "Sportsnet highlight frames via ESPN (Jets Hometown Remix: navy with the round Jets crest and aurora blue-to-green gradient sleeves and hem; Mammoth road white)", "note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "image": "/images/posts/nhl-daily-tracker/jets-remix.jpg", "color": "#004C97"}},
     "2026-11-23 ANA@SEA": {"confirmed": true, "source": "ESPN highlight frames (Kraken home deep sea blue, Ducks road white with orange)"},
     "2026-11-23 MIN@SJS": {"confirmed": true, "source": "NBC Sports California highlight frames via ESPN (Sharks home teal with white and black stripes, not the Remix; Wild road white)"},
+    "2026-11-24 VGK@EDM": {"confirmed": true, "source": "TNT Sports highlight frames via ESPN (Oilers home royal blue with orange shoulders, not the Oil Country tan alternate; Golden Knights road white with gold)"},
     "2026-11-25 NJD@CBJ": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "color": "#002654"}},
     "2026-11-25 NSH@DAL": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix Debut", "color": "#006847"}, "away": {"call": "Hometown Remix", "color": "#041E42"}},
     "2026-11-25 NYR@BUF": {"note": "Hometown Remix (team schedule, revealed Nov 2)", "home": {"call": "Hometown Remix", "color": "#003087"}},

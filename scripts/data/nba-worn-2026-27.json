@@ -3639,6 +3639,48 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (Lakers purple Statement, Jazz white Association; https://www.espn.com/nba/game/_/gameId/401910044)"
+    },
+    "2026-11-24 BOS@WAS": {
+      "score": {
+        "away": 131,
+        "home": 116
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Wizards navy District Statement with red stars and bars, Celtics white Association; https://www.espn.com/nba/game/_/gameId/401909315)"
+    },
+    "2026-11-24 DAL@DEN": {
+      "score": {
+        "away": 120,
+        "home": 101
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Nuggets royal blue MILE HIGH CITY Statement, Mavericks white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909316)"
+    },
+    "2026-11-24 DET@ORL": {
+      "score": {
+        "away": 104,
+        "home": 86
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Magic black pinstripe Statement, Pistons white Association; https://www.espn.com/nba/game/_/gameId/401909314)"
     }
   }
 }

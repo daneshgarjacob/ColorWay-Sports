@@ -1093,12 +1093,12 @@
    "worn": {
     "date": "2026-11-24",
     "matchup": "vs. Boston Celtics, 8 p.m. ET on NBC (NBA Cup group play)",
-    "status": "Announced",
-    "note": "Statement Edition per the NBA's official game-by-game uniform schedule, the Wizards' most-worn jersey this season (28 games). Boston is scheduled for its white Association jersey."
+    "status": "Confirmed",
+    "note": "Worn as scheduled, confirmed from ESPN's game photos: the navy District jersey with three red stars and the red bars across the chest, The District in white, and navy shorts with red stars. Boston wore its white Association jersey. Final: Celtics 131, Wizards 116."
    },
    "why": "The D.C. flag on a basketball jersey: navy with three red stars and two red bars, the one Wizards look that could only belong to Washington.",
    "whyPlaceholder": true,
-   "story": "The Wizards wear The District, their navy Statement jersey, against the Celtics tonight in NBA Cup group play at Capital One Arena: three red stars across the chest and two red bars from the D.C. flag, with The District and Of Columbia in white. Boston is scheduled for its white Association jersey. Team executives say a Wizards uniform change is aimed at 2027-28, so this could be the last season for it. Tip-off is 8 p.m. Eastern on NBC. We graded it a B+.",
+   "story": "The Wizards wore The District, their navy Statement jersey, against the Celtics in NBA Cup group play at Capital One Arena: three red stars across the chest and two red bars from the D.C. flag, with The District and Of Columbia in white. Boston wore its white Association jersey, and the Celtics won 131-116 behind 41 points from Jayson Tatum to stay unbeaten in the Cup. Team executives say a Wizards uniform change is aimed at 2027-28, so this could be the last season for it. We graded it a B+.",
    "scheduleSlug": "wizards-uniform-schedule-2026-27",
    "scheduleLabel": "Wizards 2026-27 uniform schedule",
    "related": [
@@ -1112,6 +1112,49 @@
     }
    ],
    "shopQuery": "Washington Wizards The District Statement jersey"
+  },
+  "2026-11-25": {
+   "team": "Los Angeles Rams",
+   "teamShort": "Rams",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Alternate (only game of 2026)",
+   "jerseyName": "Fearsome White (White, Royal Helmet With White Horns)",
+   "colorwayGrade": "A-",
+   "image": "/images/jersey-of-the-day/rams-fearsome-white-2026-11-25.jpg",
+   "imageAlt": "A Rams player in the Fearsome White uniform seated in front of the lockers: white jersey with a royal blue No. 1 and royal shoulder stripes, white pants, and the royal blue helmet with white horns and a white facemask at his feet",
+   "imagePosition": "center 30%",
+   "credit": {
+    "text": "Los Angeles Rams",
+    "url": "https://x.com/RamsNFL/status/2125303436636012569",
+    "license": "via the team"
+   },
+   "tweet": {
+    "url": "https://x.com/RamsNFL/status/2125303436636012569",
+    "label": "The Fearsome White look book, from the Rams"
+   },
+   "worn": {
+    "date": "2026-11-25",
+    "matchup": "vs. Green Bay Packers, 8 p.m. ET on Netflix (Thanksgiving Eve)",
+    "status": "Announced",
+    "note": "Fearsome White per the uniform schedule the Rams published September 1, and confirmed by the team's look book on November 24: royal blue helmet with white horns and a white facemask, white jersey with royal blue numbers, white pants. The Packers have confirmed the green jersey, gold pants and gold helmet."
+   },
+   "why": "Royal horns on a white field: the Rams' brightest look, and it only comes out once all year.",
+   "whyPlaceholder": true,
+   "story": "The Rams wear Fearsome White against the Packers tonight at SoFi Stadium in the first NFL game ever played on Thanksgiving Eve: a royal blue helmet with white horns and a white facemask, a white jersey with royal blue numbers and a royal stripe over the shoulder, and white pants. It is the uniform's only game of 2026, and the Rams confirmed it with a look book on Tuesday. Green Bay wears its green jersey with gold pants and the gold helmet. Kickoff is 8 p.m. Eastern on Netflix. We graded it an A-.",
+   "scheduleSlug": "rams-uniform-schedule-2026",
+   "scheduleLabel": "Rams 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "packers-rams-thanksgiving-eve-uniforms-2026",
+     "label": "Fearsome White vs. the Packers: every detail"
+    },
+    {
+     "slug": "rams-jerseys-2026-ranked",
+     "label": "Every Rams jersey ranked"
+    }
+   ],
+   "shopQuery": "Los Angeles Rams Fearsome White jersey"
   }
  }
 }

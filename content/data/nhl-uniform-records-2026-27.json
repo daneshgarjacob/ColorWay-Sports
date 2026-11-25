@@ -1,13 +1,13 @@
 {
  "league": "nhl",
  "season": "2026-27",
- "through": "2026-11-23",
- "built": "2026-11-24",
+ "through": "2026-11-24",
+ "built": "2026-11-25",
  "note": "Built by scripts/build-uniform-records.mjs from scripts/data/nhl-game-log-2026-27.json (confirmed rows, regular season only) and ESPN finals cached in content/data/nhl-scores-2026-27.json. Records are W-L-OTL. Do not hand-edit.",
  "totals": {
   "teams": 32,
-  "gamesPlayed": 384,
-  "teamGamesCounted": 768,
+  "gamesPlayed": 385,
+  "teamGamesCounted": 770,
   "teamGamesUnlogged": 0,
   "preseasonExcluded": []
  },
@@ -3113,10 +3113,10 @@
    "name": "Edmonton Oilers",
    "nickname": "Oilers",
    "tri": "EDM",
-   "gamesPlayed": 26,
-   "gamesCounted": 26,
+   "gamesPlayed": 27,
+   "gamesCounted": 27,
    "w": 17,
-   "l": 5,
+   "l": 6,
    "t": 0,
    "otl": 4,
    "missing": [],
@@ -3267,7 +3267,7 @@
      ],
      "img": "/images/posts/nhl-daily-tracker/oilers-home.jpg",
      "w": 6,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "otl": 2,
      "games": [
@@ -3364,6 +3364,15 @@
        "oppScore": 2,
        "result": "W",
        "ot": "OT",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-24",
+       "opponent": "Vegas Golden Knights",
+       "home": true,
+       "teamScore": 3,
+       "oppScore": 5,
+       "result": "L",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -8997,9 +9006,9 @@
    "name": "Vegas Golden Knights",
    "nickname": "Golden Knights",
    "tri": "VGK",
-   "gamesPlayed": 25,
-   "gamesCounted": 25,
-   "w": 14,
+   "gamesPlayed": 26,
+   "gamesCounted": 26,
+   "w": 15,
    "l": 6,
    "t": 0,
    "otl": 5,
@@ -9019,7 +9028,7 @@
       "#FFFFFF"
      ],
      "img": "/images/posts/nhl-daily-tracker/golden-knights-road.jpg",
-     "w": 7,
+     "w": 8,
      "l": 3,
      "t": 0,
      "otl": 2,
@@ -9133,6 +9142,15 @@
        "oppScore": 4,
        "result": "W",
        "ot": "SO",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-24",
+       "opponent": "Edmonton Oilers",
+       "home": false,
+       "teamScore": 5,
+       "oppScore": 3,
+       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]

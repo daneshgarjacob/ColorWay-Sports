@@ -1,7 +1,7 @@
 {
  "note": "NHL final scores and a standings snapshot from ESPN's public API, cached by scripts/build-uniform-records.mjs. The site build reads the records file built from this and never calls ESPN.",
  "season": "2026-27",
- "fetched": "2026-11-24T08:10:00.431Z",
+ "fetched": "2026-11-25T05:39:34.599Z",
  "standings": {
   "CAR": {
    "w": 18,
@@ -107,15 +107,15 @@
   },
   "EDM": {
    "w": 17,
-   "l": 5,
+   "l": 6,
    "otl": 4,
-   "gp": 26
+   "gp": 27
   },
   "VGK": {
-   "w": 14,
+   "w": 15,
    "l": 6,
    "otl": 5,
-   "gp": 25
+   "gp": 26
   },
   "DAL": {
    "w": 15,
@@ -5636,6 +5636,176 @@
     "seasonType": 2,
     "away": "VGK",
     "home": "EDM",
+    "awayScore": 5,
+    "homeScore": 3,
+    "final": true,
+    "extra": null
+   }
+  ],
+  "2026-11-25": [
+   {
+    "id": "401892781",
+    "date": "2026-11-25",
+    "start": "2026-11-26T00:00Z",
+    "seasonType": 2,
+    "away": "WPG",
+    "home": "BOS",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892782",
+    "date": "2026-11-25",
+    "start": "2026-11-26T00:00Z",
+    "seasonType": 2,
+    "away": "NYR",
+    "home": "BUF",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892783",
+    "date": "2026-11-25",
+    "start": "2026-11-26T00:00Z",
+    "seasonType": 2,
+    "away": "CAR",
+    "home": "TBL",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892784",
+    "date": "2026-11-25",
+    "start": "2026-11-26T00:00Z",
+    "seasonType": 2,
+    "away": "OTT",
+    "home": "FLA",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892785",
+    "date": "2026-11-25",
+    "start": "2026-11-26T00:00Z",
+    "seasonType": 2,
+    "away": "STL",
+    "home": "NYI",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892786",
+    "date": "2026-11-25",
+    "start": "2026-11-26T00:00Z",
+    "seasonType": 2,
+    "away": "CGY",
+    "home": "PIT",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892787",
+    "date": "2026-11-25",
+    "start": "2026-11-26T00:00Z",
+    "seasonType": 2,
+    "away": "PHI",
+    "home": "WSH",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892788",
+    "date": "2026-11-25",
+    "start": "2026-11-26T00:00Z",
+    "seasonType": 2,
+    "away": "NJD",
+    "home": "CBJ",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892789",
+    "date": "2026-11-25",
+    "start": "2026-11-26T00:30Z",
+    "seasonType": 2,
+    "away": "VAN",
+    "home": "DET",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892790",
+    "date": "2026-11-25",
+    "start": "2026-11-26T01:00Z",
+    "seasonType": 2,
+    "away": "NSH",
+    "home": "DAL",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892791",
+    "date": "2026-11-25",
+    "start": "2026-11-26T01:00Z",
+    "seasonType": 2,
+    "away": "UTA",
+    "home": "MIN",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892792",
+    "date": "2026-11-25",
+    "start": "2026-11-26T02:30Z",
+    "seasonType": 2,
+    "away": "MTL",
+    "home": "COL",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892794",
+    "date": "2026-11-25",
+    "start": "2026-11-26T02:40Z",
+    "seasonType": 2,
+    "away": "CHI",
+    "home": "SEA",
+    "awayScore": 0,
+    "homeScore": 0,
+    "final": false,
+    "extra": null
+   },
+   {
+    "id": "401892793",
+    "date": "2026-11-25",
+    "start": "2026-11-26T03:00Z",
+    "seasonType": 2,
+    "away": "SJS",
+    "home": "ANA",
     "awayScore": 0,
     "homeScore": 0,
     "final": false,
