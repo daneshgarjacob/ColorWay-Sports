@@ -56,13 +56,13 @@ export const SPONSORS: Sponsor[] = [
     id: "trophysmack",
     name: "TrophySmack",
     label: "NFL Uniform Schedules presented by",
-    // Placeholder line until TrophySmack sends their own (~5 words).
-    line: "Fantasy football trophies and belts",
+    // Josh 11/25: Option A (badge), this line, and the fantasy trophies collection link.
+    line: "Fantasy Football Trophies and Belts",
     logo: "/images/sponsors/trophysmack-badge.png",
     logoWidth: 353,
     logoHeight: 400,
     logoDisplayHeight: 56,
-    url: "https://www.trophysmack.com",
+    url: "https://www.trophysmack.com/collections/fantasy-football-trophies",
     campaign: "colorway_nfl_schedules_dec_trial",
     enabled: false,
     start: "2026-12-01",
