@@ -55,6 +55,10 @@ It launches with a 1990s-inspired Jordan lifestyle collection in black and green
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/PSG_English/status/2124790454692491496"></a></blockquote>
 </div>
 
+**Grade: C+**
+
+It is a bit boring next to the other two shirts. The green tie-dye is quiet, and the reworked stripes down the middle make an awkward shape on the chest. After an A and an A-, this is the weak one of the three.
+
 ## Paris Saint-Germain's 2026/27 Wardrobe Grade
 
 <div style="margin: 2em 0; padding: 1.5em 2em; background: linear-gradient(135deg, #004170 0%, #DA291C 100%); border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.18); text-align: center;">
@@ -95,7 +99,7 @@ Per the club, a subtle tie-dye effect in shades of green across the body, with a
 
 **What grade do PSG's 2026/27 kits get?**
 
-The home shirt gets an A and is our kit of the season. The away gets an A-. The wardrobe grade is an A, the highest of Europe's fifteen biggest clubs.
+The home shirt gets an A and is our kit of the season. The away gets an A-. The third kit, released in November, gets a C+. The wardrobe grade, set on the home and away shirts, is an A, the highest of Europe's fifteen biggest clubs.
 
 **What is the best club kit of 2026/27?**
 

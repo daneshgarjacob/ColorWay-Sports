@@ -3,7 +3,7 @@ title: "Warriors Specter Edition Jersey: What The Black And Blue Uniform Looks L
 category: "NBA"
 date: "2026-11-24"
 updatedDate: "2026-11-24"
-excerpt: "The Warriors posted official photos of their Nike Specter Edition jersey on November 23: black, with royal blue light streaks running down one side, black numbers outlined in gold, a small gold WARRIORS wordmark and gold trim. They wear it three times at home, November 29 vs the Clippers, December 1 vs the Jazz and December 22 vs the Mavericks. On sale November 30. Our grade: C."
+excerpt: "The Warriors posted official photos of their Nike Specter Edition jersey on November 23: black, with royal blue light streaks running down one side, black numbers outlined in gold, a small gold WARRIORS wordmark and gold trim. They wear it three times at home, November 29 vs the Clippers, December 1 vs the Jazz and December 22 vs the Mavericks. On sale November 30. Our grade: B."
 gradient: "linear-gradient(135deg, #0b0b12 0%, #0f2350 55%, #1D428A 100%)"
 author: "colorway-sports-staff"
 cardStyle: words
@@ -28,7 +28,7 @@ teams: ["golden-state-warriors"]
 - **When is the first game?** Sunday, November 29, against the Clippers, 5:30 p.m. Pacific. It is the first night of the Specter Edition across the league.
 - **When does it go on sale?** November 30, the date the Specter jerseys go on sale (per the Hawks' official page). The Warriors have not posted their own sale details yet.
 - **Why do the Warriors have one?** Nike made the Specter Edition only for the NBA's eight oldest franchises. The Warriors date back to the 1946 Philadelphia Warriors. [Why only eight teams](/stories/why-only-8-nba-teams-got-specter-edition-jerseys).
-- **Our grade:** C. No. 8 of 8, dead last, in [our Specter ranking](/stories/nba-specter-edition-jerseys-ranked).
+- **Our grade:** B, the same grade we gave it in April. It is No. 8 of 8 in [our Specter ranking](/stories/nba-specter-edition-jerseys-ranked).
 
 ## What The Jersey Looks Like
 
@@ -95,13 +95,13 @@ The Specter jerseys go on sale **November 30**. The Hawks' official Specter page
 
 The Specter Edition is only for the league's eight oldest franchises, and the Warriors are one of them. The team started in 1946 as the **Philadelphia Warriors**, one of the original BAA teams, and won the league's first championship in 1947. They moved to San Francisco after the 1961-62 season and became the Golden State Warriors in 1971. The team's posts lean on that history: "80 seasons," and "Dub Nation's rise to one of basketball's winningest franchises." The other seven are the Kings, Pistons, Celtics, Knicks, Hawks, 76ers and Lakers. The full reasoning, with every team's founding year: [Why Did Only 8 NBA Teams Get Specter Edition Jerseys?](/stories/why-only-8-nba-teams-got-specter-edition-jerseys)
 
-## Our Grade: C
+## Our Grade: B
 
 The official photos look better than the leak image did. The blue streaks are brighter than we expected and actually look like light moving, and the gold outline on the numbers is sharp. The gold Nellie tag on the shoulder is a nice touch that the leak did not show.
 
 The problem is the same one we had in April. All of the blue is on one side. The left half of the jersey has a big royal blue graphic and the right half is plain black, so it still looks half finished. The Warriors have one of the best color sets in the league, royal and gold, and this is their third black jersey of the season. The gold WARRIORS is so small you will not be able to read it on TV.
 
-We gave it a **B** when it leaked in April ([our first review](/stories/warriors-christmas-jersey-2026)). Seeing it next to the other seven official photos, we are lowering it to a **C**, which matches where it sits in [our ranking of all eight](/stories/nba-specter-edition-jerseys-ranked): No. 8, last.
+We gave it a **B** when it leaked in April ([our first review](/stories/warriors-christmas-jersey-2026)), and the official photos keep it there. It is still No. 8, last, in [our ranking of all eight](/stories/nba-specter-edition-jerseys-ranked).
 
 ## Frequently Asked Questions
 
@@ -151,7 +151,7 @@ Five: Association (white), Icon (royal blue), Statement (black with gold GOLDEN 
 
 **Is the Warriors Specter jersey any good?**
 
-We grade it a C. The blue streaks look better in the official photos than in the leak, but the graphic only covers one side, and it is the third black jersey for a royal and gold team. It is last in our ranking of the eight.
+We grade it a B, the same as in April. The blue streaks look better in the official photos than in the leak, but the graphic only covers one side, and it is the third black jersey for a royal and gold team. It is last in our ranking of the eight.
 
 ## More Warriors And Specter Coverage
 
