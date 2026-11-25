@@ -44,7 +44,7 @@ The Gothics are the program's signature costume. Northwestern first introduced a
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NUFBFamily/status/1856343480613679338"></a></blockquote>
 </div>
 
-On June 30 the program teased a new one and then dropped it the same afternoon. The Purple Gothics take the same architectural language and move it onto the school's actual color.
+On June 30 the program teased a new one and then dropped it the same afternoon. The Purple Gothics take the same architectural language and move it onto the school's actual color. Men's basketball followed on November 24 with its own [Purple Gothic basketball uniforms](/stories/northwestern-purple-gothic-basketball-uniforms-2026), inspired by the stained glass on campus, debuting December 1 against Wisconsin.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NUFBFamily/status/2071959301489414516"></a></blockquote>
