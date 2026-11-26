@@ -8,7 +8,7 @@ export default function CyberWeekLine({ className = "" }: { className?: string }
   return (
     <p className={`mb-0 text-[14px] font-semibold ${className}`}>
       <Link prefetch={false} href={CYBER_WEEK.href} className="text-orange underline underline-offset-2 hover:text-blue-dark">
-        {CYBER_WEEK.text} &rarr;
+        {`${CYBER_WEEK.text} \u2192`}
       </Link>
     </p>
   );
