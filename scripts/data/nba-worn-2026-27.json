@@ -3779,6 +3779,34 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (Rockets black HOUSTON Statement with red, Suns white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909323)"
+    },
+    "2026-11-25 SAC@GSW": {
+      "score": {
+        "away": 110,
+        "home": 129
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Warriors black Statement with gold, Kings white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909324)"
+    },
+    "2026-11-25 SAS@POR": {
+      "score": {
+        "away": 111,
+        "home": 116
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game photos and highlights (Trail Blazers red Statement with the black sash, Spurs white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909325)"
     }
   }
 }

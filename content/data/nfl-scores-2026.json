@@ -1820,17 +1820,6 @@
   ],
   "12": [
    {
-    "id": "401873079",
-    "week": 12,
-    "date": "2026-11-25",
-    "kickoff": "2026-11-26T01:00Z",
-    "home": "Los Angeles Rams",
-    "away": "Green Bay Packers",
-    "homeScore": 26,
-    "awayScore": 13,
-    "final": true
-   },
-   {
     "id": "401873081",
     "week": 12,
     "date": "2026-11-26",
@@ -1862,6 +1851,17 @@
     "homeScore": 0,
     "awayScore": 0,
     "final": false
+   },
+   {
+    "id": "401873079",
+    "week": 12,
+    "date": "2026-11-25",
+    "kickoff": "2026-11-26T01:00Z",
+    "home": "Los Angeles Rams",
+    "away": "Green Bay Packers",
+    "homeScore": 26,
+    "awayScore": 13,
+    "final": true
    },
    {
     "id": "401873083",

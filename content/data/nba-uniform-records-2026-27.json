@@ -6,8 +6,8 @@
  "note": "Built by scripts/build-uniform-records.mjs from scripts/data/nba-worn-2026-27.json (confirmed rows only, scores from the same log). Do not hand-edit.",
  "totals": {
   "teams": 30,
-  "teamGamesCounted": 536,
-  "teamGamesUnlogged": 4
+  "teamGamesCounted": 540,
+  "teamGamesUnlogged": 0
  },
  "teams": [
   {
@@ -2262,17 +2262,11 @@
    "name": "Golden State Warriors",
    "nickname": "Warriors",
    "gamesPlayed": 18,
-   "gamesCounted": 17,
-   "w": 9,
+   "gamesCounted": 18,
+   "w": 10,
    "l": 8,
    "t": 0,
-   "missing": [
-    {
-     "date": "2026-11-25",
-     "opponent": "Sacramento Kings",
-     "home": true
-    }
-   ],
+   "missing": [],
    "combos": [
     {
      "id": "royal-blue",
@@ -2468,7 +2462,7 @@
       "#111111"
      ],
      "img": "/images/posts/nba-daily-tracker/warriors-statement.jpg",
-     "w": 1,
+     "w": 2,
      "l": 2,
      "t": 0,
      "games": [
@@ -2499,6 +2493,16 @@
        "teamScore": 94,
        "oppScore": 115,
        "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-25",
+       "opponent": "Sacramento Kings",
+       "home": true,
+       "teamScore": 129,
+       "oppScore": 110,
+       "result": "W",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
       }
@@ -6123,17 +6127,11 @@
    "name": "Portland Trail Blazers",
    "nickname": "Trail Blazers",
    "gamesPlayed": 18,
-   "gamesCounted": 17,
-   "w": 11,
+   "gamesCounted": 18,
+   "w": 12,
    "l": 6,
    "t": 0,
-   "missing": [
-    {
-     "date": "2026-11-25",
-     "opponent": "San Antonio Spurs",
-     "home": true
-    }
-   ],
+   "missing": [],
    "combos": [
     {
      "id": "white",
@@ -6259,7 +6257,7 @@
       "#C8102E"
      ],
      "img": "/images/posts/nba-daily-tracker/trail-blazers-statement.jpg",
-     "w": 5,
+     "w": 6,
      "l": 0,
      "t": 0,
      "games": [
@@ -6309,6 +6307,16 @@
        "home": true,
        "teamScore": 118,
        "oppScore": 108,
+       "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-25",
+       "opponent": "San Antonio Spurs",
+       "home": true,
+       "teamScore": 116,
+       "oppScore": 111,
        "result": "W",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
@@ -6372,17 +6380,11 @@
    "name": "Sacramento Kings",
    "nickname": "Kings",
    "gamesPlayed": 18,
-   "gamesCounted": 17,
+   "gamesCounted": 18,
    "w": 2,
-   "l": 15,
+   "l": 16,
    "t": 0,
-   "missing": [
-    {
-     "date": "2026-11-25",
-     "opponent": "Golden State Warriors",
-     "home": false
-    }
-   ],
+   "missing": [],
    "combos": [
     {
      "id": "white",
@@ -6399,7 +6401,7 @@
      ],
      "img": "/images/posts/nba-daily-tracker/kings-association.jpg",
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "games": [
       {
@@ -6468,6 +6470,16 @@
        "home": false,
        "teamScore": 104,
        "oppScore": 106,
+       "result": "L",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-25",
+       "opponent": "Golden State Warriors",
+       "home": false,
+       "teamScore": 110,
+       "oppScore": 129,
        "result": "L",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
@@ -6621,17 +6633,11 @@
    "name": "San Antonio Spurs",
    "nickname": "Spurs",
    "gamesPlayed": 19,
-   "gamesCounted": 18,
+   "gamesCounted": 19,
    "w": 15,
-   "l": 3,
+   "l": 4,
    "t": 0,
-   "missing": [
-    {
-     "date": "2026-11-25",
-     "opponent": "Portland Trail Blazers",
-     "home": false
-    }
-   ],
+   "missing": [],
    "combos": [
     {
      "id": "white",
@@ -6648,7 +6654,7 @@
      ],
      "img": "/images/posts/nba-daily-tracker/spurs-association.jpg",
      "w": 6,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "games": [
       {
@@ -6728,6 +6734,16 @@
        "teamScore": 123,
        "oppScore": 107,
        "result": "W",
+       "ot": false,
+       "link": "/stories/nba-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-25",
+       "opponent": "Portland Trail Blazers",
+       "home": false,
+       "teamScore": 111,
+       "oppScore": 116,
+       "result": "L",
        "ot": false,
        "link": "/stories/nba-uniform-tracker-2026-27"
       }

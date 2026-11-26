@@ -3,7 +3,7 @@ title: "What Every NFL Team Is Wearing On Thanksgiving 2026: All Six Uniforms Fo
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-21"
-updatedDate: "2026-11-25"
+updatedDate: "2026-11-26"
 excerpt: "What every NFL team is wearing on Thanksgiving 2026, in plain colors: the Cowboys in their 1960s Classic throwback (white helmet, navy jersey, white pants) against the Eagles in white, the Lions in Honolulu blue against the Bears in white, and the Bills in royal blue over royal blue pants, confirmed, against the Chiefs in white. Which looks the teams have put on their own schedules, which are our projections, kickoff times and TV."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #B0B7BC 130%)"
 cardStyle: words
@@ -28,7 +28,7 @@ Each look carries one of three labels:
 <table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
 <thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 8px; text-align: left;">Team</th><th style="padding: 10px 8px; text-align: left;">Helmet</th><th style="padding: 10px 8px; text-align: left;">Jersey</th><th style="padding: 10px 8px; text-align: left;">Pants</th></tr></thead>
 <tbody>
-<tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Lions<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Expected</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Silver</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Honolulu blue</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Silver (blue possible)</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Lions<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Confirmed</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Silver</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Honolulu blue</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Silver</td></tr>
 <tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bears<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Expected</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Shown game week</td></tr>
 <tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Cowboys<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Confirmed</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, vintage star</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy, white shoulders with stars</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, navy stripes</td></tr>
 <tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Eagles<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Expected</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Midnight green</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White or midnight green</td></tr>
@@ -42,9 +42,9 @@ Kickoff times and networks are from ESPN's NFL schedule: Bears at Lions at 1:00 
 
 ## Bears At Lions: 1:00 p.m. ET, CBS
 
-### What The Lions Are Wearing (Expected)
+### What The Lions Are Wearing (Confirmed)
 
-**Silver helmet, Honolulu blue jersey, silver pants.** Our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) has the blue home set for Thanksgiving, and Detroit has paired it with silver pants this season. The other option is blue pants: the Lions went all blue the last time Chicago came to Detroit on Thanksgiving, in 2024. The pants are the one piece to watch on game week.
+**Silver helmet, Honolulu blue jersey, silver pants.** Detroit confirmed it on Thanksgiving morning in the team's ["Thanksgiving Threads" post](https://x.com/Lions/status/2125953219213824130) on Thursday morning, with blue socks. It is the blue home set our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) had for the game, and the pants are silver, not the all-blue look the Lions wore the last time Chicago came to Detroit on Thanksgiving, in 2024.
 
 What Detroit has not put on its 2026 calendar is a throwback. The Lions wore their 1934-style throwbacks, a logo-free silver helmet with a plain blue jersey, on Thanksgiving in 2023 and 2025, and the story behind that uniform is in [Why Do The Lions Wear 1934 Throwback Uniforms On Thanksgiving?](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving). For 2026, Detroit's alternate dates have gone elsewhere: Rivalries Silver debuted against Minnesota on November 1, and the black alternate is set for Tampa Bay this Sunday. If Detroit shows a throwback during game week, this page changes that day.
 
@@ -130,11 +130,11 @@ All six teams wear the round [John Madden Thanksgiving patch](/stories/john-madd
 
 **What is every NFL team wearing on Thanksgiving 2026?**
 
-Lions: silver helmet, Honolulu blue jersey (expected). Bears: navy helmet, white jersey (expected). Cowboys: the 1960s Classic throwback, white helmet, navy jersey, white pants (confirmed). Eagles: midnight green helmet, white jersey (expected). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Chiefs: red helmet, white jersey, red pants (expected).
+Lions: silver helmet, Honolulu blue jersey, silver pants (confirmed). Bears: navy helmet, white jersey (expected). Cowboys: the 1960s Classic throwback, white helmet, navy jersey, white pants (confirmed). Eagles: midnight green helmet, white jersey (expected). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Chiefs: red helmet, white jersey, red pants (expected).
 
 **What are the Lions wearing on Thanksgiving 2026?**
 
-We expect the Honolulu blue home jersey with the silver helmet and silver pants against the Bears. Detroit has no throwback on its 2026 calendar, and the team shows its look during game week.
+The Honolulu blue home jersey with the silver helmet and silver pants against the Bears, confirmed by the team's Thanksgiving Threads post on Thursday morning. It is not a throwback.
 
 **Are the Lions wearing throwbacks on Thanksgiving 2026?**
 

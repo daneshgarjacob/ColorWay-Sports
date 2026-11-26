@@ -3,7 +3,7 @@ title: "Black Friday And Cyber Monday 2026 Jersey Deals: Where The Sales Are And
 author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-11-25"
-updatedDate: "2026-11-25"
+updatedDate: "2026-11-26"
 excerpt: "Where the real jersey and fan gear sales are for Black Friday and Cyber Monday 2026: Fanatics, HOMAGE (25% off sitewide through Friday night) and BreakingT (15% off through Cyber Monday), with end dates, and the jerseys we graded highest this year so you buy a good one."
 gradient: "linear-gradient(135deg, #0B1F4A 0%, #1a2f5e 55%, #C8102E 130%)"
 cardStyle: words
@@ -15,13 +15,13 @@ league: nfl
 
 **Three stores we trust have real sales running for Black Friday and Cyber Monday 2026: Fanatics for jerseys, HOMAGE for vintage-style tees and BreakingT for player shirts. Here is what each one is offering, when it ends, and which jerseys we would actually buy.**
 
-A sale only helps if the jersey is good. We grade every new uniform the day it comes out, so this page does two jobs: it tells you where the discounts are, and it points you to the jerseys that earned an A from us this year. We checked every offer below on Wednesday, November 25. Stores change their codes during the week, so look at the top of each site before you pay.
+A sale only helps if the jersey is good. We grade every new uniform the day it comes out, so this page does two jobs: it tells you where the discounts are, and it points you to the jerseys that earned an A from us this year. We checked every offer below on Thanksgiving morning, Thursday, November 26. Stores change their codes during the week, so look at the top of each site before you pay.
 
 ## The Sales, Store By Store
 
 ### Fanatics: Jerseys For Every League
 
-Fanatics is running a new code almost every day this week. On Wednesday the code was **WRAP**: 30% off orders of $50 or more and 25% off with no minimum, ending at 11:59 p.m. Eastern that night. Expect a fresh code for Black Friday (November 27) and again for Cyber Monday (November 30). The current one is always printed in the bar at the top of the site, and shipping is free over $99. Only one code works per order, and some new releases are excluded.
+Fanatics has started its Black Friday sale. As of Thursday, November 26, the code is **BF60**, advertised as up to 60% off, and it runs through Friday, November 27, at 11:59 p.m. Eastern. Wednesday's code, WRAP, has expired. Expect a fresh code for Cyber Monday (November 30). The current one is always printed in the bar at the top of the site, and shipping is free over $99. Only one code works per order, and some new releases are excluded.
 
 <p class="cw-aff" style="font-size: 0.95em; font-weight: 600; margin: 0.8em 0 1.6em;"><a href="https://fanatics.93n6tx.net/5kZn3j?subId1=cyber-week-deals&u=https%3A%2F%2Fwww.fanatics.com%2F" rel="sponsored nofollow noopener" target="_blank" style="color: inherit; text-decoration: underline; text-underline-offset: 2px;">See today's code at Fanatics</a></p>
 
@@ -63,7 +63,7 @@ Friday, November 27. Cyber Monday is November 30.
 
 **What is the Fanatics Black Friday code?**
 
-Fanatics changes its code during the week. On Wednesday, November 25, it was WRAP, for 30% off $50 or more and 25% off with no minimum. The current code is printed at the top of fanatics.com.
+As of Thursday, November 26, it is BF60, advertised as up to 60% off, good through Friday, November 27, at 11:59 p.m. Eastern. Fanatics changes its code during the week, and the current one is printed at the top of fanatics.com.
 
 **How long is the HOMAGE Black Friday sale?**
 

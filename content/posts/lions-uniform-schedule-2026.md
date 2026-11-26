@@ -3,7 +3,7 @@ topViewsRank: 3
 title: "Detroit Lions Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-26"
 excerpt: "Detroit debuts its Rivalries uniform on November 1 against the Vikings. Here is the full 2026 Lions jersey schedule, week by week, with Munich and Thanksgiving explained."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 coverImage: "/images/posts/lions-uniform-schedule-2026/cover.jpg"
@@ -53,7 +53,7 @@ Nine home games, eight on the road, one Rivalries game on November 1, three blac
   <div style="background: #0076B6; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Honolulu Blue · Blue Pants</div></div>
   <div style="background: #0076B6; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Patriots</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Blue · Silver Pants · Munich</div></div>
   <div style="background: #1A1A1A; color: #ffffff; border: 2px solid #0076B6; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Black</div></div>
-  <div style="background: #0076B6; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue · Thanksgiving</div></div>
+  <div style="background: #0076B6; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Bears</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Blue · Silver Pants · Thanksgiving</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #0076B6; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Honolulu Blue</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Vikings</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -131,9 +131,9 @@ It is also the only international game on Detroit's calendar, and it drops the L
 
 ## Thanksgiving (Week 12, vs the Bears)
 
-Detroit hosts Chicago on **Thursday, November 26**, which is the game the franchise is known for more than any other. The Lions will be in Honolulu blue and the Bears in white, per our [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026).
+Detroit hosts Chicago on **Thursday, November 26**, which is the game the franchise is known for more than any other. The Lions are in Honolulu blue with the silver helmet and silver pants, confirmed by the team's ["Thanksgiving Threads" post](https://x.com/Lions/status/2125953219213824130) on Thursday morning, and the Bears are expected in white, per our [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026).
 
-There is no throwback announced for it. Detroit has worn a variety of alternates on Thanksgiving over the years, including the much-argued-about grey set, but nothing has been scheduled for 2026 and we are not putting one on the grid on a hunch.
+There is no throwback for it. Detroit has worn a variety of alternates on Thanksgiving over the years, including the much-argued-about grey set, but nothing has been scheduled for 2026 and we are not putting one on the grid on a hunch.
 
 ## Will the Lions Wear the Black Alternate in 2026?
 
@@ -161,11 +161,11 @@ How does every one of these jerseys stack up? See our [Lions jerseys 2026 rankin
 
 **What jersey are the Lions wearing today?**
 
-Week 11 against Tampa Bay, November 22, worn: the black alternate, Honolulu blue helmet, black jersey and black pants, confirmed from the team's game photos. The Buccaneers wore all white, and Detroit won 31-21. We grade the matchup a B-. Next up is Week 12 against Chicago on Thanksgiving, Thursday, November 26, expected in Honolulu blue with the silver helmet. This answer updates every week. For the rest of the season: Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
+Week 11 against Tampa Bay, November 22, worn: the black alternate, Honolulu blue helmet, black jersey and black pants, confirmed from the team's game photos. The Buccaneers wore all white, and Detroit won 31-21. We grade the matchup a B-. Next up is Week 12 against Chicago on Thanksgiving, Thursday, November 26, confirmed by the team in Honolulu blue with the silver helmet and silver pants. This answer updates every week. For the rest of the season: Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
 
 **What jerseys are the Lions wearing this week?**
 
-Week 11 against Tampa Bay, November 22, worn: the black alternate, Honolulu blue helmet, black jersey and black pants, confirmed from the team's game photos. The Buccaneers wore all white, and Detroit won 31-21. We grade the matchup a B-. Next up is Week 12 against Chicago on Thanksgiving, Thursday, November 26, expected in Honolulu blue with the silver helmet. For the rest of the season: Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
+Week 11 against Tampa Bay, November 22, worn: the black alternate, Honolulu blue helmet, black jersey and black pants, confirmed from the team's game photos. The Buccaneers wore all white, and Detroit won 31-21. We grade the matchup a B-. Next up is Week 12 against Chicago on Thanksgiving, Thursday, November 26, confirmed by the team in Honolulu blue with the silver helmet and silver pants. For the rest of the season: Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
 
 **What uniform did the Lions wear last week?**
 
@@ -193,7 +193,7 @@ Honolulu blue. Detroit is the designated home team for the Week 10 game against 
 
 **What are the Lions wearing on Thanksgiving 2026?**
 
-Honolulu blue at home against the Chicago Bears on Thursday, November 26. No throwback or alternate has been announced for the game.
+Honolulu blue at home against the Chicago Bears on Thursday, November 26, with the silver helmet and silver pants. The team confirmed it on Thanksgiving morning, and it is not a throwback.
 
 **Will the Lions wear their black jerseys in 2026?**
 

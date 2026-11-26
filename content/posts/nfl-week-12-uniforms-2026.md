@@ -3,7 +3,7 @@ title: "NFL Week 12 Uniforms 2026: What Every Team Is Wearing, Including The Ste
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-24"
-updatedDate: "2026-11-25"
+updatedDate: "2026-11-26"
 excerpt: "NFL Week 12 uniforms (Nov. 25-30), Thanksgiving week: the Rams wear Fearsome White against the Packers on Thanksgiving Eve, the Cowboys wear their 1960s Classic against the Eagles, the Bills go blue over blue against the Chiefs, the Steelers wear the all-black Color Rush against the Broncos on Black Friday, plus the Cardinals in all black, the Chargers in navy Super Chargers and every other game, with grades."
 gradient: "linear-gradient(135deg, #101820 0%, #0C1526 55%, #FFB612 130%)"
 logoSrc: "/logos/leagues/nfl.png"
@@ -137,7 +137,7 @@ Navy head to toe against white is clean, and it is a far better Chargers look th
 ## The Prime-Time And Holiday Games
 
 - **Wednesday, 8:00 p.m. ET, Netflix:** Packers at Rams, green and gold against Fearsome White. Both worn as confirmed. Final: Rams 26, Packers 13.
-- **Thursday, 1:00 p.m. ET, CBS:** Bears at Lions, white against Honolulu blue. Both expected.
+- **Thursday, 1:00 p.m. ET, CBS:** Bears at Lions, white against Honolulu blue. The Lions are confirmed, the Bears expected.
 - **Thursday, 4:30 p.m. ET, FOX:** Eagles at Cowboys, white against the Classic throwback.
 - **Thursday, 8:20 p.m. ET, NBC:** Chiefs at Bills, white against blue over blue.
 - **Friday, 3:00 p.m. ET, Prime Video:** Broncos at Steelers, Summit White against the all-black Color Rush.
@@ -150,9 +150,9 @@ Every player in the three Thanksgiving Day games wears the round [John Madden Th
 
 ### Chicago Bears At Detroit Lions
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bears-white-road.jpg" alt="Chicago Bears white road jersey, expected with the navy helmet at Detroit on Thanksgiving in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bears &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-honolulu-blue-home.jpg" alt="Detroit Lions Honolulu blue home jersey, expected with the silver helmet against the Bears on Thanksgiving in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions &middot; Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bears-white-road.jpg" alt="Chicago Bears white road jersey, expected with the navy helmet at Detroit on Thanksgiving in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bears &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-honolulu-blue-home.jpg" alt="Detroit Lions Honolulu blue home jersey, expected with the silver helmet against the Bears on Thanksgiving in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions &middot; Confirmed</figcaption></figure></div>
 
-**Thursday, 1:00 p.m. ET, CBS.** Detroit hosts on Thanksgiving every year, and our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) has the **Honolulu blue** home set, **expected**, with the silver helmet: the Lions announce one game at a time and have not posted this one, and nothing on their calendar points to a throwback. They have already used Rivalries Silver (Week 8) and the black alternate (Weeks 7 and 11). Chicago is **expected** in **white** with the navy helmet, its road look; its only special date is the Rivalries debut on Christmas Day. The Lions are 0-5 in their 1934 throwback on Thanksgiving since 2017 ([every game](/stories/lions-record-in-throwbacks-on-thanksgiving)). Our matchup grade: **B+**, up to an A- if Detroit announces the throwback. More in [what the Lions are wearing on Thanksgiving](/stories/lions-bears-thanksgiving-uniforms-2026). See the [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026).
+**Thursday, 1:00 p.m. ET, CBS.** Detroit hosts on Thanksgiving every year, and our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) had the **Honolulu blue** home set, now **confirmed**: the Lions posted the silver helmet, Honolulu blue jersey and silver pants on Thanksgiving morning in the team's ["Thanksgiving Threads" post](https://x.com/Lions/status/2125953219213824130) on Thursday morning. It is not a throwback. They have already used Rivalries Silver (Week 8) and the black alternate (Weeks 7 and 11). Chicago is **expected** in **white** with the navy helmet, its road look; its only special date is the Rivalries debut on Christmas Day. The Lions are 0-5 in their 1934 throwback on Thanksgiving since 2017 ([every game](/stories/lions-record-in-throwbacks-on-thanksgiving)). Our matchup grade: **B+**. More in [what the Lions are wearing on Thanksgiving](/stories/lions-bears-thanksgiving-uniforms-2026). See the [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026).
 
 ### New York Giants At Indianapolis Colts
 
@@ -210,7 +210,7 @@ Every player in the three Thanksgiving Day games wears the round [John Madden Th
 
 ### Thursday, November 26 (Thanksgiving)
 
-- **Chicago Bears at Detroit Lions**, 1:00 p.m. ET, CBS. Bears: navy helmet, white jersey (expected). Lions: silver helmet, Honolulu blue jersey (expected). Matchup grade: B+.
+- **Chicago Bears at Detroit Lions**, 1:00 p.m. ET, CBS. Bears: navy helmet, white jersey (expected). Lions: silver helmet, Honolulu blue jersey, silver pants (confirmed). Matchup grade: B+.
 - **Philadelphia Eagles at Dallas Cowboys**, 4:30 p.m. ET, FOX. Eagles: midnight green helmet, white jersey (expected). Cowboys: the 1960s Classic, white helmet with the vintage star, navy jersey, white pants (confirmed). Matchup grade: A-.
 - **Kansas City Chiefs at Buffalo Bills**, 8:20 p.m. ET, NBC. Chiefs: red helmet, white jersey, red pants (expected). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Matchup grade: B+.
 
@@ -265,7 +265,7 @@ The 1960s Classic throwback against the Eagles: white helmet with the vintage st
 
 **What are the Lions wearing on Thanksgiving 2026?**
 
-We expect Honolulu blue at home against Chicago with the silver helmet. Detroit announces one game at a time and had not posted this one as of Wednesday, November 25, and it has no throwback on its 2026 calendar.
+Honolulu blue at home against Chicago with the silver helmet and silver pants, confirmed by the team's Thanksgiving Threads post on Thursday morning, November 26. It is not a throwback.
 
 **What are the Bills wearing against the Chiefs?**
 

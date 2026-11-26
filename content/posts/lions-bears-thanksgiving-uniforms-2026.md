@@ -3,8 +3,8 @@ title: "What Are The Lions Wearing On Thanksgiving 2026? Honolulu Blue Vs. The B
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-23"
-excerpt: "The Lions host the Bears on Thanksgiving, Thursday, November 26 at 1:00 p.m. ET on CBS. Detroit is expected in its Honolulu blue home jersey with the silver helmet, with no throwback on its 2026 calendar, and Chicago in white. Detroit's Thanksgiving uniform history, and our grade."
+updatedDate: "2026-11-26"
+excerpt: "The Lions host the Bears on Thanksgiving, Thursday, November 26 at 1:00 p.m. ET on CBS. Detroit has confirmed its Honolulu blue home jersey with the silver helmet and silver pants, not a throwback, and Chicago is expected in white. Detroit's Thanksgiving uniform history, and our grade."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0C1526 55%, #C83803 130%)"
 cardStyle: words
 kicker: "Thanksgiving Week"
@@ -14,7 +14,7 @@ league: nfl
 teams: ["detroit-lions", "chicago-bears"]
 ---
 
-**The Lions are expected in Honolulu blue on Thanksgiving, not a throwback.** Detroit hosts the Chicago Bears at Ford Field on **Thursday, November 26, at 1:00 p.m. Eastern on CBS**, the first of three games on Thanksgiving Day. Our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) has the **Honolulu blue home jersey with the silver helmet**, and nothing on Detroit's 2026 calendar points to a throwback or an alternate for this date. The Bears are expected in their **white road jersey with the navy helmet**. Detroit has announced its uniforms one game at a time this season, so both labels below are Expected until the teams post their game-week looks.
+**The Lions are wearing Honolulu blue on Thanksgiving, not a throwback, and the team has confirmed it.** Detroit hosts the Chicago Bears at Ford Field on **Thursday, November 26, at 1:00 p.m. Eastern on CBS**, the first of three games on Thanksgiving Day. Our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) had the **Honolulu blue home jersey with the silver helmet**, and Detroit confirmed it on Thursday morning in the team's ["Thanksgiving Threads" post](https://x.com/Lions/status/2125953219213824130) on Thursday morning: silver helmet, Honolulu blue jersey, silver pants and blue socks. The Bears are expected in their **white road jersey with the navy helmet**; Chicago has not posted its full look.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2088048738308678047"></a></blockquote>
@@ -24,26 +24,31 @@ teams: ["detroit-lions", "chicago-bears"]
 
 ## Quick Answers
 
-- **What are the Lions wearing on Thanksgiving 2026?** The Honolulu blue home jersey with the silver helmet. **Expected.**
-- **Are the Lions wearing throwbacks on Thanksgiving?** Not as far as anything Detroit has published. They wore them against Green Bay in 2023 and 2025, but there is no throwback on the 2026 calendar. Detroit is 0-5 on Thanksgiving in the throwback: [the full record](/stories/lions-record-in-throwbacks-on-thanksgiving).
+- **What are the Lions wearing on Thanksgiving 2026?** The Honolulu blue home jersey with the silver helmet and silver pants. **Confirmed** by the team on Thanksgiving morning.
+- **Are the Lions wearing throwbacks on Thanksgiving?** No. Detroit's game-day uniform post shows the standard Honolulu blue home set. They wore them against Green Bay in 2023 and 2025, but there is no throwback on the 2026 calendar. Detroit is 0-5 on Thanksgiving in the throwback: [the full record](/stories/lions-record-in-throwbacks-on-thanksgiving).
 - **What are the Bears wearing?** The white road jersey with the navy helmet. **Expected.**
 - **When is it?** Thursday, November 26, 1:00 p.m. ET (noon in Chicago) on CBS, at Ford Field.
 - **Our grade:** B+ for the matchup.
 
-## What The Lions Are Wearing (Expected)
+## What The Lions Are Wearing (Confirmed)
 
-Honolulu blue jersey, the silver helmet with the leaping lion, and, if Detroit follows its pattern, silver pants, the 1934 formula. Detroit is 3-0 in silver pants this season, a streak we track in our [Honolulu blue explainer](/stories/why-do-the-lions-wear-honolulu-blue). It is the uniform the Lions are best known for, and Thanksgiving is the game the franchise is best known for, so it fits. Detroit has hosted a Thanksgiving game every year since 1934 except for the World War II years.
+Honolulu blue jersey, the silver helmet with the leaping lion, and silver pants with blue socks, the 1934 formula. The Lions posted it on Thanksgiving morning under the line "Bringing out the fine silver for Thanksgiving."
 
-Why we are not projecting a throwback: Detroit's two special sets already have their dates. The new **Rivalries Silver** uniform debuted against Minnesota on November 1, and the **black alternate** was worn against Green Bay in Week 7 and is confirmed for Tampa Bay this Sunday (the Lions posted "Back in black" on November 18), with one more home date on our grid against the Giants in Week 16. Neither set is assigned to Thanksgiving, and the team has not announced a throwback for 2026. The "Back in black" post is for the Buccaneers game on November 22, not Thanksgiving.
+<blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2125953219213824130"></a></blockquote>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The Lions' Thanksgiving Threads, via <a href="https://x.com/Lions" target="_blank" rel="noopener">@Lions</a></p>
+
+ Detroit is 3-0 in silver pants this season, a streak we track in our [Honolulu blue explainer](/stories/why-do-the-lions-wear-honolulu-blue). It is the uniform the Lions are best known for, and Thanksgiving is the game the franchise is best known for, so it fits. Detroit has hosted a Thanksgiving game every year since 1934 except for the World War II years.
+
+Why there was never a throwback on our grid: Detroit's two special sets already have their dates. The new **Rivalries Silver** uniform debuted against Minnesota on November 1, and the **black alternate** was worn against Green Bay in Week 7 and is confirmed for Tampa Bay this Sunday (the Lions posted "Back in black" on November 18), with one more home date on our grid against the Giants in Week 16. Neither set is assigned to Thanksgiving, and the team has not announced a throwback for 2026. The "Back in black" post is for the Buccaneers game on November 22, not Thanksgiving.
 
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2123059580276265120"></a></blockquote>
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">"Back in black," posted during Tampa Bay game week, via <a href="https://x.com/Lions" target="_blank" rel="noopener">@Lions</a></p>
- We would rather say Expected and be right than put a throwback on the page on a hunch. If Detroit announces one, this page changes the same day.
 
 Why that blue is called Honolulu blue at all is its own story: [Why Do The Lions Wear Honolulu Blue?](/stories/why-do-the-lions-wear-honolulu-blue)
 
-<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-honolulu-blue-home.jpg" alt="Detroit Lions Honolulu blue home jersey, expected against the Bears on Thanksgiving 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions &middot; Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/lions-honolulu-blue-home.jpg" alt="Detroit Lions Honolulu blue home jersey, confirmed against the Bears on Thanksgiving 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Lions &middot; Confirmed</figcaption></figure></div>
 
 ## What The Bears Are Wearing (Expected)
 
