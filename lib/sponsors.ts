@@ -78,7 +78,12 @@ function etToday(now: Date): string {
 /** The active sponsor for a post, with its tracked link, or null. */
 export function sponsorForPost(slug: string, now = new Date()): (Sponsor & { href: string }) | null {
   const today = etToday(now);
-  const s = SPONSORS.find((x) => x.enabled && x.slugs.includes(slug) && today >= x.start && today <= x.end);
+  // Local preview only: SPONSOR_PREVIEW=<id> in .env.local shows that sponsor's
+  // strip regardless of `enabled` and dates. Never set in production.
+  const preview = process.env.NODE_ENV !== "production" ? process.env.SPONSOR_PREVIEW : undefined;
+  const s = SPONSORS.find(
+    (x) => x.slugs.includes(slug) && (x.id === preview || (x.enabled && today >= x.start && today <= x.end))
+  );
   if (!s) return null;
   const content = slug.replace(/-uniform-schedule-\d{4}(-\d{2})?$/, "");
   const q = new URLSearchParams({
