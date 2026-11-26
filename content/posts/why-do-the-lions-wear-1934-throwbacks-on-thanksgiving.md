@@ -3,8 +3,8 @@ title: "Why Do The Lions Wear 1934 Throwback Uniforms On Thanksgiving? The First
 author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-11-21"
-updatedDate: "2026-11-23"
-excerpt: "Why do the Detroit Lions wear a 1934 throwback on Thanksgiving? The uniform copies what Detroit wore in its first season, the same year the Lions started their Thanksgiving game: Bears at Detroit, November 29, 1934, sold out two weeks early and carried on 94 NBC radio stations. Every Thanksgiving it has been worn, what it gets right, and what we know about this year."
+updatedDate: "2026-11-26"
+excerpt: "Why do the Detroit Lions wear a 1934 throwback on Thanksgiving? The uniform copies what Detroit wore in its first season, the same year the Lions started their Thanksgiving game: Bears at Detroit, November 29, 1934, sold out two weeks early and carried on 94 NBC radio stations. Every Thanksgiving it has been worn, what it gets right, and why Detroit wore Honolulu blue instead on Thanksgiving 2026."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 coverImage: "/images/posts/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving/program-1934.jpg"
 coverImagePosition: "center 30%"
@@ -21,9 +21,11 @@ teams:
   - detroit-lions
 ---
 
+**Thanksgiving 2026 update: Detroit did not wear the throwback.** Against the Bears on Thursday, November 26, the Lions wore their standard home set, Honolulu blue with silver pants and the silver helmet, as the team posted that morning and as ESPN's game photos confirm, and lost 39-35 on a Chicago touchdown with 3 seconds left. The throwback record below stays 0-5.
+
 **When the Lions wear their throwback on Thanksgiving, they are dressing like the team that started the tradition.** The plain Honolulu blue uniform with silver numbers copies what Detroit wore in 1934, its first season in the city. That was also the year the Lions played their first Thanksgiving game, against the Chicago Bears, on November 29, 1934.
 
-So the throwback and the holiday share a birth year. Detroit has worn the copy on five Thanksgivings: 2017, 2018, 2020, 2023 and 2025. Here is the story of that first game, what the 1934 Lions actually looked like, how the throwback matches it, and what we know about this year's Thanksgiving game against the Bears.
+So the throwback and the holiday share a birth year. Detroit has worn the copy on five Thanksgivings: 2017, 2018, 2020, 2023 and 2025. Here is the story of that first game, what the 1934 Lions actually looked like, how the throwback matches it, and what Detroit wore instead against the Bears in 2026.
 
 ## Quick Answers
 
@@ -33,7 +35,7 @@ So the throwback and the holiday share a birth year. Detroit has worn the copy o
 - **How big was it?** All 26,000 tickets sold out two weeks before the game, and owner George A. Richards set up a 94-station NBC radio network to carry it nationally.
 - **What does the throwback look like?** A solid Honolulu blue jersey with silver block numbers, no sleeve stripes and no shoulder numbers, with silver pants and a silver helmet with no logo.
 - **When have the Lions worn it on Thanksgiving?** Five times: 2017 against Minnesota, 2018 against Chicago, 2020 against Houston, and 2023 and 2025 against Green Bay. Detroit lost all five ([the full record](/stories/lions-record-in-throwbacks-on-thanksgiving)).
-- **Are they wearing it on Thanksgiving 2026?** It has not been announced. We expect the Honolulu blue home uniform against the Bears on November 26.
+- **Did they wear it on Thanksgiving 2026?** No. Detroit wore Honolulu blue with silver pants and the silver helmet against the Bears on November 26 and lost 39-35.
 - **Our take (opinion):** It should be the Lions' Thanksgiving uniform every year.
 
 ## 1934: A New Team Needs A Big Game
@@ -108,16 +110,16 @@ Detroit has plenty of chances to wear an alternate. The throwback makes the most
 
 That is our read of why it fits, and we seeded it No. 2 in our [best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026), where readers are voting now. In our own ranking of the [best NFL Thanksgiving uniforms ever](/stories/best-nfl-thanksgiving-uniforms-ranked), it is No. 1.
 
-## Thanksgiving 2026: What We Know
+## Thanksgiving 2026: Honolulu Blue, Not The Throwback
 
-The Lions host the Bears again this year, at Ford Field on Thursday, November 26, at 1 p.m. ET on CBS, the same matchup as the first Thanksgiving game in 1934. As of today, Detroit has not announced the throwback for this game. We expect the Honolulu blue home uniform, and our [Lions vs. Bears Thanksgiving uniform preview](/stories/lions-bears-thanksgiving-uniforms-2026) has the full outlook and our grade. If the Lions announce the 1934 look during game week, that page changes the same day.
+The Lions hosted the Bears at Ford Field on Thursday, November 26, the same matchup as the first Thanksgiving game in 1934, and the 1934 look stayed in the closet. Detroit wore its standard home set, the **silver helmet with the leaping lion, Honolulu blue jersey and silver pants**, as the team showed in its ["Thanksgiving Threads" post](https://x.com/Lions/status/2125953219213824130) that morning and as ESPN's game photos confirm. The one addition was a black "MFF" helmet decal for owner Martha Firestone Ford, who died that week. Chicago won 39-35, as it did in the first one, 19-16, in 1934. Because Detroit was not in the throwback, the 0-5 record above does not change. Every detail and our grade: [what the Lions wore on Thanksgiving 2026](/stories/lions-bears-thanksgiving-uniforms-2026).
 
 <img src="/images/posts/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving/fordfield-2006.jpg" alt="Exterior of Ford Field in Detroit, the brick warehouse facade and glass entrance of the Lions' home stadium" style="width:100%;max-width:100%;border-radius:10px;display:block;margin:1.2em auto 0;" loading="lazy" decoding="async" />
-<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Ford Field, where the Lions host the Bears on Thanksgiving 2026. Photo: powerbooktrance, via <a href="https://commons.wikimedia.org/wiki/File:Ford_Field_(1).jpg" rel="nofollow noopener" target="_blank">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by/2.0/" rel="nofollow noopener" target="_blank">CC BY 2.0</a></p>
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">Ford Field, where the Lions hosted the Bears on Thanksgiving 2026. Photo: powerbooktrance, via <a href="https://commons.wikimedia.org/wiki/File:Ford_Field_(1).jpg" rel="nofollow noopener" target="_blank">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by/2.0/" rel="nofollow noopener" target="_blank">CC BY 2.0</a></p>
 
 ## Our Take
 
-This should be Detroit's Thanksgiving uniform every year. The Cowboys have made their 1960s Classic the standard on the holiday, and it has become part of how Thanksgiving looks. The Lions have a better story than Dallas: the Thanksgiving game is Detroit's, it started in 1934, and the team already owns a uniform from 1934. The plain blue jersey, the silver numbers and the logo-free silver helmet look good on their own. Against the Bears, the team that played the first one, it would be a perfect fit. Wear it every year, starting Thursday: it's their history, so they should learn how to win in it, even after going [0-5 in it on Thanksgiving](/stories/lions-record-in-throwbacks-on-thanksgiving).
+This should be Detroit's Thanksgiving uniform every year. The Cowboys have made their 1960s Classic the standard on the holiday, and it has become part of how Thanksgiving looks. The Lions have a better story than Dallas: the Thanksgiving game is Detroit's, it started in 1934, and the team already owns a uniform from 1934. The plain blue jersey, the silver numbers and the logo-free silver helmet look good on their own. Against the Bears, the team that played the first one, it would have been a perfect fit, and Detroit passed on it in 2026. Wear it every year, starting in 2027: it's their history, so they should learn how to win in it, even after going [0-5 in it on Thanksgiving](/stories/lions-record-in-throwbacks-on-thanksgiving).
 
 ## Frequently Asked Questions
 
@@ -171,11 +173,11 @@ The throwback is built on the plain look of the 1930s, so the helmet is silver w
 
 **Are the Lions wearing throwbacks on Thanksgiving 2026?**
 
-Not announced. We expect the Honolulu blue home uniform against the Bears on November 26. Our [Thanksgiving preview](/stories/lions-bears-thanksgiving-uniforms-2026) updates if that changes.
+No. On November 26 Detroit wore Honolulu blue with silver pants and the silver helmet against the Bears, not the 1934 throwback, and lost 39-35. Details: [what the Lions wore on Thanksgiving 2026](/stories/lions-bears-thanksgiving-uniforms-2026).
 
-**Who do the Lions play on Thanksgiving 2026?**
+**Who did the Lions play on Thanksgiving 2026?**
 
-The Chicago Bears, at Ford Field, Thursday, November 26, at 1 p.m. ET on CBS. It is the same matchup as the first Lions Thanksgiving game.
+The Chicago Bears, at Ford Field, Thursday, November 26, the same matchup as the first Lions Thanksgiving game. Chicago won 39-35.
 
 **What were the Lions called before 1934?**
 
@@ -187,7 +189,7 @@ In 1935, their second season in Detroit, beating the Giants 26-7 on December 15,
 
 ## More Lions And Thanksgiving Coverage
 
-- [What are the Lions wearing on Thanksgiving 2026?](/stories/lions-bears-thanksgiving-uniforms-2026)
+- [What the Lions wore on Thanksgiving 2026](/stories/lions-bears-thanksgiving-uniforms-2026)
 - [Lions' record in throwbacks on Thanksgiving: 0-5 since 2017](/stories/lions-record-in-throwbacks-on-thanksgiving)
 - [Why do NFL teams wear throwback uniforms on Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving): every holiday throwback, Lions and Cowboys included
 - [Why do the Lions wear Honolulu blue?](/stories/why-do-the-lions-wear-honolulu-blue)
@@ -198,4 +200,4 @@ In 1935, their second season in Detroit, beating the Giants 26-7 on December 15,
 - [Detroit Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026)
 - [Every Lions jersey ranked](/stories/lions-jerseys-2026-ranked)
 
-*Sources: Pro Football Hall of Fame, ["Thanksgiving and the NFL"](https://profootballhof.com/football-history/thanksgiving-and-the-nfl); [History.com](https://www.history.com/articles/thanksgiving-football-nfl-lions-bears-tradition) on the 1934 Lions-Bears game; Pro-Football-Reference, [1935 NFL Championship box score](https://www.pro-football-reference.com/boxscores/193512150det.htm); DetroitLions.com, ["Lions to wear alternate uniforms this season"](https://www.detroitlions.com/news/lions-to-wear-alternate-uniforms-this-season-19026253); Pro Football Network on Thanksgiving 2023; WILX (November 26, 2025) on Thanksgiving 2025; the Gridiron Uniform Database and the Lions' posts on X for 2018 and 2020; WDET and the Lions' team history, as cited in our Honolulu blue story. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Detroit Lions or the National Football League.*
+*Sources: Pro Football Hall of Fame, ["Thanksgiving and the NFL"](https://profootballhof.com/football-history/thanksgiving-and-the-nfl); [History.com](https://www.history.com/articles/thanksgiving-football-nfl-lions-bears-tradition) on the 1934 Lions-Bears game; Pro-Football-Reference, [1935 NFL Championship box score](https://www.pro-football-reference.com/boxscores/193512150det.htm); DetroitLions.com, ["Lions to wear alternate uniforms this season"](https://www.detroitlions.com/news/lions-to-wear-alternate-uniforms-this-season-19026253); Pro Football Network on Thanksgiving 2023; WILX (November 26, 2025) on Thanksgiving 2025; the Gridiron Uniform Database and the Lions' posts on X for 2018 and 2020; the Lions' Thanksgiving Threads post and ESPN's game photos for 2026; WDET and the Lions' team history, as cited in our Honolulu blue story. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Detroit Lions or the National Football League.*

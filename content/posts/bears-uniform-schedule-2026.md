@@ -3,7 +3,7 @@ topViewsRank: 1
 title: "Chicago Bears Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-12"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-26"
 excerpt: "The Bears' new Rivalries uniform is out: navy and burnt orange, the 1983 GSH patch, orange pants. They wear it once, on Christmas Day against the Packers."
 gradient: "linear-gradient(135deg, #0B162A 0%, #16273f 55%, #C83803 130%)"
 coverImage: "/images/posts/bears-uniform-schedule-2026/cover.jpg"
@@ -105,7 +105,7 @@ The one road game where Chicago stays in navy, and it is not the Bears' call. Mi
 
 <div style="margin: 1.5em 0; background: #ffffff; border: 1px solid #e3e6ec; border-radius: 12px; padding: 18px; text-align: center;"><img src="/images/posts/dolphins-uniform-schedule-2026/white-throwback.jpg" alt="Miami Dolphins white throwback jersey with aqua numbers outlined in orange, aqua and orange sleeve stripes and the leaping dolphin logo, which forces the Bears into navy in Week 14" style="max-height: 420px; max-width: 100%; object-fit: contain;" /><p style="font-size: 0.75em; color: #999; margin: 12px 0 0;">The white throwback: aqua numbers with an orange outline, aqua and orange sleeve stripes, the leaping dolphin. Shown here as the Mitchell &amp; Ness 1995 Dan Marino version of the same design, via the Dolphins team store.</p></div>
 
-The Week 12 game is the one to circle. Chicago plays at Detroit on Thanksgiving, which puts the white set in the biggest daytime window of the regular season, and against a Lions team that has become one of the better-dressed in the league. The Week 8 trip to Seattle on Monday night is the other good one, since our [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) has them in College Navy for it, which makes for a genuinely handsome navy-on-white frame.
+The Week 12 game was the one to circle. Chicago played at Detroit on Thanksgiving, the white set in the biggest daytime window of the regular season, and wore the navy helmet, white jersey and navy pants against Detroit's Honolulu blue and silver in a 39-35 win. The Week 8 trip to Seattle on Monday night is the other good one, since our [Seahawks 2026 uniform schedule](/stories/seahawks-uniform-schedule-2026) has them in College Navy for it, which makes for a genuinely handsome navy-on-white frame.
 
 ## Is the Orange Jersey Coming Back?
 
@@ -134,11 +134,11 @@ The three letters on the left sleeve of the navy and white jerseys, and on the c
 
 **What jersey are the Bears wearing today?**
 
-Week 11 against New Orleans, November 22, worn: navy helmet, navy jersey and white pants, confirmed from the team's game photos. The Saints wore the gold helmet, white jersey and white pants, and Chicago won 21-13. We grade the matchup a B+. Next up is Week 12 at Detroit on Thanksgiving, Thursday, November 26, expected in white with the navy helmet. This answer updates every week. For the rest of the season: Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
+Week 12 at Detroit on Thanksgiving, Thursday, November 26, worn: navy helmet, white jersey and navy pants, confirmed from ESPN's game photos. The Lions wore the silver helmet, Honolulu blue jersey and silver pants, not a throwback, and Chicago won 39-35 on Caleb Williams' touchdown pass to Rome Odunze with 3 seconds left. We grade the matchup a B+. Next up is Week 13 against Jacksonville at Soldier Field on Sunday, December 6, where our schedule has the classic throwback in white. This answer updates every week. For the rest of the season: Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
 
 **What jerseys are the Bears wearing this week?**
 
-Week 11 against New Orleans, November 22, worn: navy helmet, navy jersey and white pants, confirmed from the team's game photos. The Saints wore the gold helmet, white jersey and white pants, and Chicago won 21-13. We grade the matchup a B+. Next up is Week 12 at Detroit on Thanksgiving, Thursday, November 26, expected in white with the navy helmet. For the rest of the season: Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
+Week 12 at Detroit on Thanksgiving, Thursday, November 26, worn: navy helmet, white jersey and navy pants, confirmed from ESPN's game photos. The Lions wore the silver helmet, Honolulu blue jersey and silver pants, not a throwback, and Chicago won 39-35 on Caleb Williams' touchdown pass to Rome Odunze with 3 seconds left. We grade the matchup a B+. Next up is Week 13 against Jacksonville at Soldier Field on Sunday, December 6, where our schedule has the classic throwback in white. For the rest of the season: Navy if Chicago is at Soldier Field, white if they are on the road. Three exceptions on the 2026 schedule: Week 13 against Jacksonville, when the Bears wear their classic throwback in white at home, Week 14 in Miami, where the Dolphins wear their white throwback so the Bears wear navy, and Week 16 on Christmas Day against the Packers, when the Bears debut their Rivalries uniform.
 
 **What uniform did the Bears wear last week?**
 
@@ -146,7 +146,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Bears wearing next week?**
 
-Look up the week in the schedule above. Navy at home, white on the road except the Week 14 trip to Miami, the classic throwback in white at home against Jacksonville in Week 13, and the Rivalries uniform only in Week 16.
+The classic throwback in white at home against Jacksonville in Week 13 on Sunday, December 6, then navy at Miami in Week 14, because the Dolphins wear their white throwback, and the Rivalries uniform against Green Bay on Christmas Day in Week 16. Otherwise navy at home and white on the road.
 
 **What jerseys do the Bears have in 2026?**
 

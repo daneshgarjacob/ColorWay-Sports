@@ -17,6 +17,8 @@ teams: ["detroit-lions"]
 
 Honolulu blue and silver is one of the best color combos in sports, and the Lions' blue home jersey is still their best. The silver Rivalries uniform already came and went, on November 1 against the Vikings. Every Lions game is below, with what they wore and what's next.
 
+**Update, November 26 (Thanksgiving): Bears 39, Lions 35.** Detroit wore **Honolulu blue with silver pants and the silver helmet**, not the 1934 throwback, as the team posted that morning in its ["Thanksgiving Threads" post](https://x.com/Lions/status/2125953219213824130) and as ESPN's game photos confirm. Chicago wore the navy helmet, white jersey and navy pants and won on a touchdown with 3 seconds left. The Lions added a black **"MFF" decal** on the back of the helmet for owner Martha Firestone Ford, who died this week, [per the team](https://x.com/Lions/status/2125992981895495707), and say a jersey patch for her debuts at Atlanta on December 6. Every detail: [what the Lions wore on Thanksgiving](/stories/lions-bears-thanksgiving-uniforms-2026).
+
 **Update, November 22:** the pants are in: the Lions' own photos from the Tampa Bay game show **black pants**, so Week 11 was the full black set, the **Honolulu blue helmet, black jersey and black pants**, as in Week 7 against Green Bay. The Buccaneers wore all white. **Final: Lions 31, Buccaneers 21.**
 
 **Update, November 18: Week 11 is the black alternate.** The Lions posted "Back in black" on Wednesday of Tampa Bay game week, and the team's X banner for the game (Sunday, November 22, 1:00 p.m. ET, FOX) shows a player in the **black jersey with the Honolulu blue helmet**. Detroit has not shown the pants yet. In Week 7 the black set was worn with black pants. Every Week 11 look is in our [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026). Tampa Bay confirmed on November 19 that it comes to Ford Field in all white, pewter helmet over white jersey and white pants. Thanksgiving against the Bears four days later is still Honolulu blue.
@@ -131,9 +133,9 @@ It is also the only international game on Detroit's calendar, and it drops the L
 
 ## Thanksgiving (Week 12, vs the Bears)
 
-Detroit hosts Chicago on **Thursday, November 26**, which is the game the franchise is known for more than any other. The Lions are in Honolulu blue with the silver helmet and silver pants, confirmed by the team's ["Thanksgiving Threads" post](https://x.com/Lions/status/2125953219213824130) on Thursday morning, and the Bears are expected in white, per our [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026).
+Detroit hosted Chicago on **Thursday, November 26**, the game the franchise is known for more than any other, and lost 39-35. The Lions wore Honolulu blue with the silver helmet and silver pants, as the team's ["Thanksgiving Threads" post](https://x.com/Lions/status/2125953219213824130) showed on Thursday morning and ESPN's game photos confirm, with a black "MFF" helmet decal for Martha Firestone Ford. The Bears wore the navy helmet, white jersey and navy pants, per our [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026) and ESPN's game photos.
 
-There is no throwback for it. Detroit has worn a variety of alternates on Thanksgiving over the years, including the much-argued-about grey set, but nothing has been scheduled for 2026 and we are not putting one on the grid on a hunch.
+There was no throwback. Detroit has worn a variety of alternates on Thanksgiving over the years, including the much-argued-about grey set and the 1934-style throwback in 2023 and 2025, but it stayed in the standard blue in 2026. The story of that throwback is in [why the Lions wear 1934 throwbacks on Thanksgiving](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving).
 
 ## Will the Lions Wear the Black Alternate in 2026?
 
@@ -146,7 +148,7 @@ The Monday nighter is the showcase, the only standalone primetime home game left
 1. **Honolulu blue at home, white on the road.** The exceptions are the Rivalries game, the three black alternate games, and blue on the road at Miami.
 2. **The Rivalries debut is Week 8** against Minnesota, and **the black alternate gets Weeks 7, 11 and 16**.
 3. **The Munich game counts as a Lions home game**, so blue, not white.
-4. **No throwback on the calendar**, including Thanksgiving.
+4. **No throwback in 2026**, not even on Thanksgiving, where Detroit wore Honolulu blue.
 5. **Pants and helmet combinations** are a week-of call, as they are for every club.
 
 ## The Bottom Line
@@ -161,11 +163,11 @@ How does every one of these jerseys stack up? See our [Lions jerseys 2026 rankin
 
 **What jersey are the Lions wearing today?**
 
-Week 11 against Tampa Bay, November 22, worn: the black alternate, Honolulu blue helmet, black jersey and black pants, confirmed from the team's game photos. The Buccaneers wore all white, and Detroit won 31-21. We grade the matchup a B-. Next up is Week 12 against Chicago on Thanksgiving, Thursday, November 26, confirmed by the team in Honolulu blue with the silver helmet and silver pants. This answer updates every week. For the rest of the season: Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
+Week 12 against Chicago on Thanksgiving, Thursday, November 26, worn: silver helmet, Honolulu blue jersey and silver pants, not the 1934 throwback, as the team posted that morning and as ESPN's game photos show, with a black "MFF" helmet decal for Martha Firestone Ford. The Bears wore the navy helmet, white jersey and navy pants, and Chicago won 39-35. We grade the matchup a B+. Next up is Week 13 at Atlanta on Sunday, December 6, where we have the white road set; the Lions say a Martha Firestone Ford jersey patch debuts that day. This answer updates every week. For the rest of the season: Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
 
 **What jerseys are the Lions wearing this week?**
 
-Week 11 against Tampa Bay, November 22, worn: the black alternate, Honolulu blue helmet, black jersey and black pants, confirmed from the team's game photos. The Buccaneers wore all white, and Detroit won 31-21. We grade the matchup a B-. Next up is Week 12 against Chicago on Thanksgiving, Thursday, November 26, confirmed by the team in Honolulu blue with the silver helmet and silver pants. For the rest of the season: Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
+Week 12 against Chicago on Thanksgiving, Thursday, November 26, worn: silver helmet, Honolulu blue jersey and silver pants, not the 1934 throwback, as the team posted that morning and as ESPN's game photos show, with a black "MFF" helmet decal for Martha Firestone Ford. The Bears wore the navy helmet, white jersey and navy pants, and Chicago won 39-35. We grade the matchup a B+. Next up is Week 13 at Atlanta on Sunday, December 6, where we have the white road set; the Lions say a Martha Firestone Ford jersey patch debuts that day. For the rest of the season: Honolulu blue if Detroit is at Ford Field, white if they are on the road. The exceptions are Week 8 on November 1 against the Vikings, when the Lions debut their Rivalries uniform, and the black alternate in Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants.
 
 **What uniform did the Lions wear last week?**
 
@@ -173,11 +175,11 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Lions wearing next week?**
 
-Look up the week in the schedule above. Blue at home, white on the road, the Rivalries uniform only in Week 8, and the black alternate in Weeks 7, 11 and 16.
+White at Atlanta in Week 13 on Sunday, December 6, our projection until the Lions post it, with the new Martha Firestone Ford jersey patch debuting that day, then Honolulu blue at home against Tennessee in Week 14. After that, the black alternate returns against the Giants in Week 16.
 
 **What jerseys do the Lions have in 2026?**
 
-Four with games on the calendar. The Honolulu blue home set takes five of the nine home dates, including the Munich game against New England in Week 10, where Detroit is the designated home team, and it travels once, Week 9 at Miami, because the Dolphins wear white at home that day. The white road set covers the other seven trips, and Week 2 at Buffalo is confirmed as the all-white version, white jersey with white pants. The new look for 2026 is the Nike Rivalries uniform, revealed August 25 and worn exactly once, Week 8 against the Vikings on Sunday, November 1: Rivalries Silver, a pale silver jersey with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, black back as a real accent, and a metallic electric-blue helmet with glossy carbon-fiber racing stripes and a carbon-fiber lion. The black alternate takes three home games, Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants on Monday night, and no throwback is on the calendar, including Thanksgiving.
+Four with games on the calendar. The Honolulu blue home set takes five of the nine home dates, including the Munich game against New England in Week 10, where Detroit is the designated home team, and it travels once, Week 9 at Miami, because the Dolphins wear white at home that day. The white road set covers the other seven trips, and Week 2 at Buffalo is confirmed as the all-white version, white jersey with white pants. The new look for 2026 is the Nike Rivalries uniform, revealed August 25 and worn exactly once, Week 8 against the Vikings on Sunday, November 1: Rivalries Silver, a pale silver jersey with DETROIT across the chest and italicized numbers filled with a carbon-fiber weave, black back as a real accent, and a metallic electric-blue helmet with glossy carbon-fiber racing stripes and a carbon-fiber lion. The black alternate takes three home games, Week 7 against Green Bay, Week 11 against Tampa Bay and Week 16 against the Giants on Monday night, and there was no throwback, including on Thanksgiving, where Detroit wore Honolulu blue.
 
 **When do the Lions wear their Rivalries uniform in 2026?**
 
@@ -193,7 +195,7 @@ Honolulu blue. Detroit is the designated home team for the Week 10 game against 
 
 **What are the Lions wearing on Thanksgiving 2026?**
 
-Honolulu blue at home against the Chicago Bears on Thursday, November 26, with the silver helmet and silver pants. The team confirmed it on Thanksgiving morning, and it is not a throwback.
+Detroit wore Honolulu blue at home against the Chicago Bears on Thursday, November 26, with the silver helmet and silver pants, not the 1934 throwback. The team posted it on Thanksgiving morning and ESPN's game photos confirm it. The Bears won 39-35.
 
 **Will the Lions wear their black jerseys in 2026?**
 
@@ -213,7 +215,7 @@ It dates to 1934, when George A. Richards bought the team and moved it to Detroi
 
 **What patch are the Lions wearing?**
 
-On Thanksgiving, the NFL has players wear a round patch of John Madden in a headset high on the left chest, a tribute to the late Hall of Fame coach and broadcaster worn every Thanksgiving since 2023, including 2025, when Detroit hosted Green Bay. The Lions host the Bears on Thanksgiving, Thursday, November 26, 2026, and the NFL confirmed on November 19 that the patch is back for all three Thanksgiving games. Details: [the John Madden Thanksgiving patch](/stories/john-madden-thanksgiving-patch-2026).
+On Thanksgiving, the NFL has players wear a round patch of John Madden in a headset high on the left chest, a tribute to the late Hall of Fame coach and broadcaster worn every Thanksgiving since 2023, including 2025, when Detroit hosted Green Bay. The Lions wore it against the Bears on Thanksgiving, Thursday, November 26, 2026, along with a black "MFF" helmet decal for owner Martha Firestone Ford, who died that week, [per the team](https://x.com/Lions/status/2125992981895495707). The team says a Martha Firestone Ford jersey patch debuts on December 6 at Atlanta. Details: [the John Madden Thanksgiving patch](/stories/john-madden-thanksgiving-patch-2026).
 
 <div data-division-crosslinks style="margin: 2.25em 0; padding: 1.35em 1.5em; background: #f6f7f9; border: 1px solid #e3e7ec; border-radius: 12px;"><p style="font-size: 0.7em; font-weight: 800; letter-spacing: 2.2px; text-transform: uppercase; color: #5f7085; margin: 0 0 0.35em;">The rest of the NFC North</p><p style="font-size: 0.9em; color: #5f7085; margin: 0 0 0.9em; line-height: 1.5;">Every division rival's jersey calendar for 2026.</p><a href="/stories/bears-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Chicago Bears 2026 Uniform Schedule</a><a href="/stories/packers-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Green Bay Packers 2026 Uniform Schedule</a><a href="/stories/vikings-uniform-schedule-2026" style="display: block; padding: 9px 0; border-bottom: 1px solid #e3e7ec; color: #14284b; font-weight: 700; text-decoration: none;">Minnesota Vikings 2026 Uniform Schedule</a><a href="/stories/nfl-uniform-schedule-2026" style="display: block; margin-top: 12px; padding: 11px 14px; background: #14284b; border-radius: 8px; color: #ffffff; font-weight: 800; font-size: 13.5px; text-decoration: none; text-align: center; letter-spacing: 0.3px;">All 32 teams &middot; the 2026 NFL Uniform Schedule &rarr;</a></div>
 

@@ -1820,26 +1820,26 @@
   ],
   "12": [
    {
-    "id": "401873081",
-    "week": 12,
-    "date": "2026-11-26",
-    "kickoff": "2026-11-26T18:00Z",
-    "home": "Detroit Lions",
-    "away": "Chicago Bears",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
-   },
-   {
     "id": "401873080",
     "week": 12,
     "date": "2026-11-26",
     "kickoff": "2026-11-26T21:30Z",
     "home": "Dallas Cowboys",
     "away": "Philadelphia Eagles",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 28,
+    "awayScore": 10,
     "final": false
+   },
+   {
+    "id": "401873081",
+    "week": 12,
+    "date": "2026-11-26",
+    "kickoff": "2026-11-26T18:00Z",
+    "home": "Detroit Lions",
+    "away": "Chicago Bears",
+    "homeScore": 35,
+    "awayScore": 39,
+    "final": true
    },
    {
     "id": "401873082",

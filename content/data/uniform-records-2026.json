@@ -6,8 +6,8 @@
  "note": "Built by scripts/build-uniform-records.mjs from the ColorWay Sports NFL uniform tracker (worn looks only, logged from game photos) and ESPN final scores. Do not hand-edit.",
  "totals": {
   "teams": 32,
-  "gamesPlayed": 164,
-  "teamGamesCounted": 328,
+  "gamesPlayed": 165,
+  "teamGamesCounted": 330,
   "teamGamesUnlogged": 0
  },
  "teams": [
@@ -1189,9 +1189,9 @@
    "key": "bears",
    "name": "Chicago Bears",
    "nickname": "Bears",
-   "gamesPlayed": 10,
-   "gamesCounted": 10,
-   "w": 8,
+   "gamesPlayed": 11,
+   "gamesCounted": 11,
+   "w": 9,
    "l": 2,
    "t": 0,
    "missing": [],
@@ -1288,7 +1288,7 @@
       "#0B162A"
      ],
      "img": "/images/posts/nfl-tracker-jerseys/bears-white-road.jpg",
-     "w": 3,
+     "w": 4,
      "l": 1,
      "t": 0,
      "games": [
@@ -1329,6 +1329,16 @@
        "home": false,
        "teamScore": 34,
        "oppScore": 17,
+       "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 12,
+       "date": "2026-11-26",
+       "opponent": "Detroit Lions",
+       "home": false,
+       "teamScore": 39,
+       "oppScore": 35,
        "result": "W",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
@@ -2258,13 +2268,62 @@
    "key": "lions",
    "name": "Detroit Lions",
    "nickname": "Lions",
-   "gamesPlayed": 10,
-   "gamesCounted": 10,
+   "gamesPlayed": 11,
+   "gamesCounted": 11,
    "w": 8,
-   "l": 2,
+   "l": 3,
    "t": 0,
    "missing": [],
    "combos": [
+    {
+     "id": "honolulu-blue-silver-silver",
+     "helmet": "Silver",
+     "jersey": "Honolulu Blue",
+     "jerseyName": "Honolulu Blue",
+     "jerseyKey": "lions-honolulu-blue-home",
+     "pants": "Silver",
+     "hexes": [
+      "#B0B7BC",
+      "#0076B6",
+      "#B0B7BC"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/lions-honolulu-blue-home.jpg",
+     "w": 2,
+     "l": 1,
+     "t": 0,
+     "games": [
+      {
+       "week": 3,
+       "date": "2026-09-27",
+       "opponent": "New York Jets",
+       "home": true,
+       "teamScore": 31,
+       "oppScore": 24,
+       "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 10,
+       "date": "2026-11-15",
+       "opponent": "New England Patriots",
+       "home": true,
+       "teamScore": 35,
+       "oppScore": 10,
+       "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 12,
+       "date": "2026-11-26",
+       "opponent": "Chicago Bears",
+       "home": true,
+       "teamScore": 35,
+       "oppScore": 39,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
     {
      "id": "black-honolulu-blue-black",
      "helmet": "Honolulu Blue",
@@ -2338,45 +2397,6 @@
        "home": false,
        "teamScore": 19,
        "oppScore": 9,
-       "result": "W",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      }
-     ]
-    },
-    {
-     "id": "honolulu-blue-silver-silver",
-     "helmet": "Silver",
-     "jersey": "Honolulu Blue",
-     "jerseyName": "Honolulu Blue",
-     "jerseyKey": "lions-honolulu-blue-home",
-     "pants": "Silver",
-     "hexes": [
-      "#B0B7BC",
-      "#0076B6",
-      "#B0B7BC"
-     ],
-     "img": "/images/posts/nfl-tracker-jerseys/lions-honolulu-blue-home.jpg",
-     "w": 2,
-     "l": 0,
-     "t": 0,
-     "games": [
-      {
-       "week": 3,
-       "date": "2026-09-27",
-       "opponent": "New York Jets",
-       "home": true,
-       "teamScore": 31,
-       "oppScore": 24,
-       "result": "W",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      },
-      {
-       "week": 10,
-       "date": "2026-11-15",
-       "opponent": "New England Patriots",
-       "home": true,
-       "teamScore": 35,
-       "oppScore": 10,
        "result": "W",
        "link": "/stories/nfl-uniform-tracker-2026"
       }

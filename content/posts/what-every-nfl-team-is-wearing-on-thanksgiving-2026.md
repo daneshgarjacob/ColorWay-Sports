@@ -13,13 +13,14 @@ league: nfl
 teams: ["detroit-lions", "chicago-bears", "dallas-cowboys", "philadelphia-eagles", "buffalo-bills", "kansas-city-chiefs"]
 ---
 
-Three games, six teams, one Thursday. Here is what every NFL team is wearing on Thanksgiving 2026, **Thursday, November 26**, with the helmet, jersey and pants spelled out in colors. The headline look is in Arlington: **the Cowboys wear their 1960s Classic throwback against the Eagles** for the fifth straight Thanksgiving. Detroit opens the day at home against Chicago, and Buffalo hosts Kansas City at night.
+Three games, six teams, one Thursday. Here is what every NFL team is wearing on Thanksgiving 2026, **Thursday, November 26**, with the helmet, jersey and pants spelled out in colors. The headline look is in Arlington: **the Cowboys wear their 1960s Classic throwback against the Eagles** for the fifth straight Thanksgiving. Detroit opened the day at home against Chicago and lost 39-35, in Honolulu blue and silver pants, not the 1934 throwback. Buffalo hosts Kansas City at night.
 
 Each look carries one of three labels:
 
 - **Confirmed:** the team has posted its full uniform for this game.
 
 - **Scheduled:** the uniform is on the team's own published 2026 uniform schedule. Dallas and Buffalo both put their Thanksgiving jerseys in writing before the season.
+- **Worn:** the game is over and the look is confirmed from game photos.
 - **Expected:** our projection, from the team's 2026 uniform schedule post on this site and how it has dressed all season. Teams show their game-week look in the days before kickoff, and this page switches the label the same day they do.
 
 ## Thanksgiving 2026 At A Glance
@@ -28,10 +29,10 @@ Each look carries one of three labels:
 <table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
 <thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 8px; text-align: left;">Team</th><th style="padding: 10px 8px; text-align: left;">Helmet</th><th style="padding: 10px 8px; text-align: left;">Jersey</th><th style="padding: 10px 8px; text-align: left;">Pants</th></tr></thead>
 <tbody>
-<tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Lions<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Confirmed</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Silver</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Honolulu blue</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Silver</td></tr>
-<tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bears<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Expected</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Shown game week</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Lions<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Worn</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Silver</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Honolulu blue</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Silver</td></tr>
+<tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bears<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Worn</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy</td></tr>
 <tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Cowboys<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Confirmed</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, vintage star</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy, white shoulders with stars</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, navy stripes</td></tr>
-<tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Eagles<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Expected</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Midnight green</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White or midnight green</td></tr>
+<tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Eagles<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Confirmed</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Midnight green</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Midnight green</td></tr>
 <tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bills<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Confirmed</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Royal blue</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Royal blue</td></tr>
 <tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Chiefs<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Expected</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Red</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Red (white worn once)</td></tr>
 </tbody>
@@ -42,11 +43,13 @@ Kickoff times and networks are from ESPN's NFL schedule: Bears at Lions at 1:00 
 
 ## Bears At Lions: 1:00 p.m. ET, CBS
 
-### What The Lions Are Wearing (Confirmed)
+**Final: Bears 39, Lions 35.** Caleb Williams found Rome Odunze for the winning touchdown with 3 seconds left. Both looks below are confirmed from ESPN's game photos.
 
-**Silver helmet, Honolulu blue jersey, silver pants.** Detroit confirmed it on Thanksgiving morning in the team's ["Thanksgiving Threads" post](https://x.com/Lions/status/2125953219213824130) on Thursday morning, with blue socks. It is the blue home set our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) had for the game, and the pants are silver, not the all-blue look the Lions wore the last time Chicago came to Detroit on Thanksgiving, in 2024.
+### What The Lions Wore (Worn)
 
-What Detroit has not put on its 2026 calendar is a throwback. The Lions wore their 1934-style throwbacks, a logo-free silver helmet with a plain blue jersey, on Thanksgiving in 2023 and 2025, and the story behind that uniform is in [Why Do The Lions Wear 1934 Throwback Uniforms On Thanksgiving?](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving). For 2026, Detroit's alternate dates have gone elsewhere: Rivalries Silver debuted against Minnesota on November 1, and the black alternate is set for Tampa Bay this Sunday. If Detroit shows a throwback during game week, this page changes that day.
+**Silver helmet, Honolulu blue jersey, silver pants.** Detroit confirmed it on Thanksgiving morning in the team's ["Thanksgiving Threads" post](https://x.com/Lions/status/2125953219213824130) on Thursday morning, with blue socks. It was the blue home set our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026) had for the game, and the pants are silver, not the all-blue look the Lions wore the last time Chicago came to Detroit on Thanksgiving, in 2024.
+
+What Detroit did not wear was a throwback. The Lions wore their 1934-style throwbacks, a logo-free silver helmet with a plain blue jersey, on Thanksgiving in 2023 and 2025, and the story behind that uniform is in [Why Do The Lions Wear 1934 Throwback Uniforms On Thanksgiving?](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving). For 2026, Detroit's alternate dates went elsewhere: Rivalries Silver debuted against Minnesota on November 1, and the black alternate came out in Weeks 7 and 11. The one addition on Thanksgiving was a black "MFF" decal on the back of the helmet for owner Martha Firestone Ford, who died this week, [per the team](https://x.com/Lions/status/2125992981895495707).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Lions/status/2088048738308678047"></a></blockquote>
@@ -54,9 +57,9 @@ What Detroit has not put on its 2026 calendar is a throwback. The Lions wore the
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Lions' Honolulu blue home jersey, shown here in the preseason with blue pants, via <a href="https://x.com/Lions" target="_blank" rel="noopener">@Lions</a></p>
 
-### What The Bears Are Wearing (Expected)
+### What The Bears Wore (Worn)
 
-**Navy helmet with the orange wishbone C, white jersey.** Chicago wears white on the road, and our [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026) has the white set at Ford Field. The Bears have no special uniform on Thanksgiving; their one special date this season is the Rivalries debut against Green Bay on Christmas Day. The pants come with Chicago's game-week post.
+**Navy helmet with the orange wishbone C, white jersey, navy pants.** Chicago wore its road set at Ford Field, as our [Bears 2026 uniform schedule](/stories/bears-uniform-schedule-2026) projected, confirmed from ESPN's game photos. The Bears had no special uniform on Thanksgiving; their one special date this season is the Rivalries debut against Green Bay on Christmas Day.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/ChicagoBears/status/2099135159945621999"></a></blockquote>
@@ -78,9 +81,9 @@ Bears at Lions is also the oldest matchup on the holiday: Chicago played at Detr
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Cowboys' Week 12 Gameday Threads post from November 24, confirming the Classic, via <a href="https://x.com/dallascowboys" target="_blank" rel="noopener">@dallascowboys</a></p>
 
-### What The Eagles Are Wearing (Expected)
+### What The Eagles Are Wearing (Confirmed)
 
-**Midnight green helmet, white jersey.** With Dallas in navy, Philadelphia has to wear white, so there is no Kelly Green on Thanksgiving. The Eagles' three 2026 alternate dates, Kelly Green in Weeks 9 and 16 and the black alternate in Week 15, were set on September 4, and this game is not one of them. Philadelphia has paired the white jersey with both white and midnight green pants this season. Our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) has every date.
+**Midnight green helmet, white jersey, midnight green pants.** The Eagles showed the white jerseys in their ["Thanksgiving threads" locker-room video](https://x.com/Eagles/status/2125995395587485846) on Thursday morning, and their [first-quarter game photo](https://x.com/Eagles/status/2126081246845354358) shows the midnight green pants. With Dallas in navy, Philadelphia has to wear white, so there is no Kelly Green on Thanksgiving. The Eagles' three 2026 alternate dates, Kelly Green in Weeks 9 and 16 and the black alternate in Week 15, were set on September 4, and this game is not one of them. Philadelphia has paired the white jersey with both white and midnight green pants this season. Our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) has every date.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Eagles/status/2088784207120138296"></a></blockquote>
@@ -130,19 +133,19 @@ All six teams wear the round [John Madden Thanksgiving patch](/stories/john-madd
 
 **What is every NFL team wearing on Thanksgiving 2026?**
 
-Lions: silver helmet, Honolulu blue jersey, silver pants (confirmed). Bears: navy helmet, white jersey (expected). Cowboys: the 1960s Classic throwback, white helmet, navy jersey, white pants (confirmed). Eagles: midnight green helmet, white jersey (expected). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Chiefs: red helmet, white jersey, red pants (expected).
+Lions: silver helmet, Honolulu blue jersey, silver pants (worn; Bears won 39-35). Bears: navy helmet, white jersey, navy pants (worn). Cowboys: the 1960s Classic throwback, white helmet, navy jersey, white pants (confirmed). Eagles: midnight green helmet, white jersey, midnight green pants (confirmed). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Chiefs: red helmet, white jersey, red pants (expected).
 
 **What are the Lions wearing on Thanksgiving 2026?**
 
-The Honolulu blue home jersey with the silver helmet and silver pants against the Bears, confirmed by the team's Thanksgiving Threads post on Thursday morning. It is not a throwback.
+The Lions wore the Honolulu blue home jersey with the silver helmet and silver pants against the Bears, as the team's Thanksgiving Threads post showed on Thursday morning and ESPN's game photos confirm. It was not a throwback. Chicago won 39-35.
 
 **Are the Lions wearing throwbacks on Thanksgiving 2026?**
 
-Nothing Detroit has published puts the 1934-style throwback on this game. The Lions wore it on Thanksgiving in 2023 and 2025. If they show it during game week, we will update this page that day.
+No. Detroit wore Honolulu blue with silver pants and the silver helmet, not the 1934-style throwback it wore on Thanksgiving in 2023 and 2025, and lost 39-35 to the Bears.
 
 **What are the Bears wearing on Thanksgiving?**
 
-We expect the white road jersey with the navy helmet at Ford Field. Chicago's only special uniform this season is the Rivalries set on Christmas Day.
+The white road jersey with the navy helmet and navy pants at Ford Field, confirmed from ESPN's game photos, in a 39-35 win. Chicago's only special uniform this season is the Rivalries set on Christmas Day.
 
 **What are the Cowboys wearing on Thanksgiving 2026?**
 
@@ -154,7 +157,7 @@ Dallas has worn the 1960s Classic every Thanksgiving since 2022, the first seaso
 
 **What are the Eagles wearing on Thanksgiving?**
 
-We expect white jerseys with the midnight green helmet. The Cowboys wear a navy jersey that day, so Philadelphia has to wear white.
+White jerseys with midnight green pants and the midnight green helmet, confirmed by the Eagles' own posts on Thanksgiving. The Cowboys wear a navy jersey that day, so Philadelphia has to wear white.
 
 **Will the Eagles wear Kelly Green on Thanksgiving?**
 

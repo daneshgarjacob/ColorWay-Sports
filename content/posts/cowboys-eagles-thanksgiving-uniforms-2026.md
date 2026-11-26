@@ -3,8 +3,8 @@ title: "What Are The Cowboys Wearing On Thanksgiving 2026? The 1960s Classic Thr
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-25"
-excerpt: "The Cowboys wear their 1960s Classic throwback against the Eagles on Thanksgiving, Thursday, November 26 at 4:30 p.m. ET on FOX: white helmet, navy jersey with stars on the shoulders, white pants. It is the fifth straight year. Philadelphia is expected in white, and no, it will not be Kelly Green."
+updatedDate: "2026-11-26"
+excerpt: "The Cowboys wear their 1960s Classic throwback against the Eagles on Thanksgiving, Thursday, November 26 at 4:30 p.m. ET on FOX: white helmet, navy jersey with stars on the shoulders, white pants. It is the fifth straight year. Philadelphia is confirmed in white with midnight green pants, and no, it is not Kelly Green."
 gradient: "linear-gradient(135deg, #041E42 0%, #0C1526 55%, #004C54 130%)"
 cardStyle: words
 kicker: "Thanksgiving Week"
@@ -14,7 +14,7 @@ league: nfl
 teams: ["dallas-cowboys", "philadelphia-eagles"]
 ---
 
-**The Cowboys wear the Classic throwback on Thanksgiving for the fifth year in a row.** Dallas hosts the Philadelphia Eagles at AT&T Stadium on **Thursday, November 26, at 4:30 p.m. Eastern (3:30 p.m. Central) on FOX**. The team put the Classic on Week 12 when it published all 17 of its 2026 uniform assignments on September 2: a **white helmet with the vintage star**, a **navy jersey with stars on the white shoulders**, and **white pants with two navy stripes**. Because that is a dark jersey, Philadelphia is expected in **white**, not Kelly Green.
+**The Cowboys wear the Classic throwback on Thanksgiving for the fifth year in a row.** Dallas hosts the Philadelphia Eagles at AT&T Stadium on **Thursday, November 26, at 4:30 p.m. Eastern (3:30 p.m. Central) on FOX**. The team put the Classic on Week 12 when it published all 17 of its 2026 uniform assignments on September 2: a **white helmet with the vintage star**, a **navy jersey with stars on the white shoulders**, and **white pants with two navy stripes**. Because that is a dark jersey, Philadelphia is in **white with midnight green pants**, not Kelly Green, confirmed by the Eagles' own posts on Thanksgiving.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/1993428379585200234"></a></blockquote>
@@ -25,7 +25,7 @@ teams: ["dallas-cowboys", "philadelphia-eagles"]
 ## Quick Answers
 
 - **What are the Cowboys wearing on Thanksgiving 2026?** The 1960s Classic throwback: white helmet, navy jersey with stars on the shoulders, white pants with navy stripes. **Confirmed**: it is on the uniform schedule Dallas published September 2, and the team posted it as its Week 12 "Gameday Threads" on November 24.
-- **What are the Eagles wearing?** White jerseys with the midnight green helmet. **Expected.**
+- **What are the Eagles wearing?** White jerseys with midnight green pants and the midnight green helmet. **Confirmed** by the team on Thanksgiving.
 - **Will the Eagles wear Kelly Green on Thanksgiving?** No. The Cowboys are in navy, so Philadelphia has to wear white.
 - **When is it?** Thursday, November 26, 4:30 p.m. ET (3:30 p.m. CT) on FOX, at AT&T Stadium in Arlington.
 - **How many Thanksgivings in a row is this?** Five: 2022, 2023, 2024, 2025 and 2026.
@@ -41,9 +41,9 @@ The Classic is a throwback to the Cowboys of the 1960s, and it is the one day a 
 
 This is also the only home game all season where Dallas wears a dark jersey. The Cowboys wear white at home the rest of the year, which is a story of its own: [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home). For why the Cowboys' silvers and blues don't match each other, see [Why The Cowboys Uniform Colors Do Not Match](/stories/why-cowboys-uniform-colors-do-not-match). And if you have ever wondered what color the normal Cowboys pants actually are, we answered that too: [what color are the Cowboys' pants](/stories/what-color-are-the-cowboys-pants). Every other Dallas date is in our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026).
 
-## What The Eagles Are Wearing (Expected)
+## What The Eagles Are Wearing (Confirmed)
 
-Normally Dallas in white at home means the visitor gets to pick a color, and Philadelphia used exactly that opening in 2025 to wear Kelly Green at AT&T Stadium. That is off the table on Thanksgiving. The Classic is a navy jersey, so for this one game Dallas is the dark team and the Eagles take **white**, with the **midnight green helmet**. Philadelphia confirmed its three 2026 alternate dates on September 4, Kelly Green in Weeks 9 and 16 and the black alternate in Week 15, and Thanksgiving is not one of them. The Eagles have worn both white and midnight green pants with the white jersey this season; the pants come with their game-week post. See our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026).
+Normally Dallas in white at home means the visitor gets to pick a color, and Philadelphia used exactly that opening in 2025 to wear Kelly Green at AT&T Stadium. That is off the table on Thanksgiving. The Classic is a navy jersey, so for this one game Dallas is the dark team and the Eagles take **white**, with the **midnight green helmet**. Philadelphia confirmed its three 2026 alternate dates on September 4, Kelly Green in Weeks 9 and 16 and the black alternate in Week 15, and Thanksgiving is not one of them. The Eagles have worn both white and midnight green pants with the white jersey this season, and on Thanksgiving it is midnight green: the team showed the white jerseys in its ["Thanksgiving threads" locker-room video](https://x.com/Eagles/status/2125995395587485846) on Thursday morning, and its [first-quarter game photo](https://x.com/Eagles/status/2126081246845354358) shows the midnight green helmet, white jersey and midnight green pants. See our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Eagles/status/2088784207120138296"></a></blockquote>
@@ -51,7 +51,7 @@ Normally Dallas in white at home means the visitor gets to pick a color, and Phi
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">Philadelphia's uniforms, via <a href="https://x.com/Eagles" target="_blank" rel="noopener">@Eagles</a></p>
 
-<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/eagles-white-road.jpg" alt="Philadelphia Eagles white road jersey, expected at Dallas on Thanksgiving 2026 while the Cowboys wear their Classic throwback" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Eagles &middot; Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/eagles-white-road.jpg" alt="Philadelphia Eagles white road jersey, confirmed with midnight green pants at Dallas on Thanksgiving 2026 while the Cowboys wear their Classic throwback" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Eagles &middot; Confirmed</figcaption></figure></div>
 
 ## The Cowboys' Thanksgiving Uniform History
 
@@ -97,7 +97,7 @@ No. The Classic is a navy jersey, so Philadelphia needs to wear white. The Eagle
 
 **What are the Eagles wearing on Thanksgiving?**
 
-We expect the white road jersey with the midnight green helmet.
+The white road jersey with midnight green pants and the midnight green helmet, confirmed by the Eagles' Thanksgiving locker-room video and their first-quarter game photo.
 
 **Why do the Cowboys wear a blue jersey on Thanksgiving?**
 

@@ -2625,7 +2625,7 @@
       "#006847"
      ],
      "img": "/images/posts/nhl-daily-tracker/stars-home.jpg",
-     "w": 8,
+     "w": 6,
      "l": 5,
      "t": 0,
      "otl": 0,
@@ -2723,15 +2723,6 @@
        "link": "/stories/nhl-uniform-tracker-2026-27"
       },
       {
-       "date": "2026-11-14",
-       "opponent": "Buffalo Sabres",
-       "home": true,
-       "teamScore": 2,
-       "oppScore": 0,
-       "result": "W",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
        "date": "2026-11-15",
        "opponent": "Florida Panthers",
        "home": true,
@@ -2739,15 +2730,6 @@
        "oppScore": 1,
        "result": "W",
        "ot": "OT",
-       "link": "/stories/nhl-uniform-tracker-2026-27"
-      },
-      {
-       "date": "2026-11-22",
-       "opponent": "Pittsburgh Penguins",
-       "home": true,
-       "teamScore": 1,
-       "oppScore": 0,
-       "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }
      ]
@@ -2873,7 +2855,7 @@
       "#111111"
      ],
      "img": "/images/posts/nhl-daily-tracker/stars-the-99.jpg",
-     "w": 1,
+     "w": 3,
      "l": 0,
      "t": 0,
      "otl": 0,
@@ -2884,6 +2866,24 @@
        "home": true,
        "teamScore": 3,
        "oppScore": 1,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-14",
+       "opponent": "Buffalo Sabres",
+       "home": true,
+       "teamScore": 2,
+       "oppScore": 0,
+       "result": "W",
+       "link": "/stories/nhl-uniform-tracker-2026-27"
+      },
+      {
+       "date": "2026-11-22",
+       "opponent": "Pittsburgh Penguins",
+       "home": true,
+       "teamScore": 1,
+       "oppScore": 0,
        "result": "W",
        "link": "/stories/nhl-uniform-tracker-2026-27"
       }

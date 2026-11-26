@@ -3,7 +3,7 @@ title: "The 8 Best NFL Thanksgiving Uniforms Ever, Ranked And Graded"
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-23"
-updatedDate: "2026-11-23"
+updatedDate: "2026-11-26"
 excerpt: "The best NFL Thanksgiving uniforms ever, counted down from 8 to 1 and graded: the Lions' 1934 throwback, the Cowboys' 1960s Classic, Dallas in Double-Star white, the Packers' 1967 throwback, the Bears in orange, the Rams' Fearsome White, Detroit's wolf gray and Carolina's all blue. Helmet, jersey and pants in plain colors, the Thanksgivings each one was worn, and our take on every spot."
 gradient: "linear-gradient(135deg, #7A2E0E 0%, #0C1526 55%, #013369 130%)"
 cardStyle: words
@@ -15,7 +15,7 @@ teams: ["detroit-lions", "dallas-cowboys", "green-bay-packers", "chicago-bears",
 
 <div style="background: #f5f7fa; border: 1px solid #e3e6ec; border-left: 4px solid #013369; border-radius: 10px; padding: 18px 22px; margin: 1.5em 0;">
 <p style="margin: 0 0 8px; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #013369;">The Quick Answer</p>
-<p style="margin: 0; color: #1a1e28; font-size: 16px; line-height: 1.65;">The best NFL Thanksgiving uniform ever is the <strong>Lions' 1934 throwback</strong>: a plain Honolulu blue jersey with silver numbers, silver pants and a silver helmet with no logo, a copy of what Detroit wore the year its Thanksgiving game began. The <strong>Cowboys' 1960s Classic</strong> is a close second. Last on our list of eight is the <strong>Panthers' all-blue Color Rush</strong> from 2015.</p>
+<p style="margin: 0; color: #1a1e28; font-size: 16px; line-height: 1.65;"><strong>Thanksgiving 2026:</strong> Detroit did not wear it this year. The Lions played the Bears in Honolulu blue with silver pants and the silver helmet and lost 39-35. Our No. 1 stays No. 1. The best NFL Thanksgiving uniform ever is the <strong>Lions' 1934 throwback</strong>: a plain Honolulu blue jersey with silver numbers, silver pants and a silver helmet with no logo, a copy of what Detroit wore the year its Thanksgiving game began. The <strong>Cowboys' 1960s Classic</strong> is a close second. Last on our list of eight is the <strong>Panthers' all-blue Color Rush</strong> from 2015.</p>
 </div>
 
 Thanksgiving is the one day a year the whole country watches the same three games, and the Lions and Cowboys have hosted it for decades. That makes the holiday a uniform showcase. We picked the eight best looks ever worn in an NFL Thanksgiving week game and ranked them, counting down from 8 to 1.
@@ -35,7 +35,7 @@ Every uniform below was worn on Thanksgiving, apart from the Rams' Fearsome Whit
 <tr><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">4</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Packers 1967 Throwback</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">2003</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:800;">B</td></tr>
 <tr><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">3</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Cowboys Double-Star White</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">2015</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:800;">B+</td></tr>
 <tr><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">2</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Cowboys 1960s Classic</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">2004 to 2012, 2022 to 2025</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:800;">A-</td></tr>
-<tr style="background:#f7f8fa;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">1</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Lions 1934 Throwback</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">2017, 2023, 2025</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:800;">A-</td></tr>
+<tr style="background:#f7f8fa;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">1</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Lions 1934 Throwback</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">2017, 2018, 2020, 2023, 2025</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:800;">A-</td></tr>
 </tbody></table></div>
 
 ## 8. Panthers All Blue (2015): C
@@ -67,9 +67,9 @@ Every uniform below was worn on Thanksgiving, apart from the Rams' Fearsome Whit
 
 **The colors:** royal blue helmet with white horns and a white facemask, a white jersey with royal blue numbers and a royal stripe that runs over the shoulder like a horn, white pants.
 
-**When it is worn:** once. Wednesday, November 25, 2026, against the Packers, the first NFL game ever played on Thanksgiving Eve, at 8 p.m. ET on Netflix. It has not been worn in a game yet. Every detail is in [what the Rams are wearing on Thanksgiving Eve](/stories/packers-rams-thanksgiving-eve-uniforms-2026).
+**When it was worn:** once. Wednesday, November 25, 2026, against the Packers, the first NFL game ever played on Thanksgiving Eve, on Netflix. The Rams won 26-13, wearing it as announced. Every detail is in [what the Rams are wearing on Thanksgiving Eve](/stories/packers-rams-thanksgiving-eve-uniforms-2026).
 
-**Our take:** This might be the best-designed uniform on the whole list, and it still lands sixth. The shoulder stripe is the one idea in the Rams closet nobody else could wear, and the white facemask is a detail we have wanted from this team for years. It also has zero Thanksgivings behind it. Every uniform above it has a holiday game, a score and a memory attached. Fearsome White has a press release. The black outline on the numbers and the black swoosh still bother us too. Wear it well on Wednesday and come back next year, and it moves up.
+**Our take:** This might be the best-designed uniform on the whole list, and it still lands sixth. The shoulder stripe is the one idea in the Rams closet nobody else could wear, and the white facemask is a detail we have wanted from this team for years. It also has zero Thanksgivings behind it. Every uniform above it has a holiday game, a score and a memory attached. Fearsome White has one Wednesday night. The black outline on the numbers and the black swoosh still bother us too. It looked as good as we hoped on Wednesday. Bring it back next year, and it moves up.
 
 ## 5. Bears Orange Throwback (2004): B
 
@@ -80,7 +80,7 @@ Every uniform below was worn on Thanksgiving, apart from the Rams' Fearsome Whit
 
 **When it was worn:** Thanksgiving 2004 at Dallas. Chicago wore orange throwbacks honoring its 1933 and 1934 teams, per the [Chicago Bears](https://www.chicagobears.com/news/chalktalk/chalk-talk-what-s-bears-record-in-orange-jerseys), against a Cowboys team in the first Thanksgiving appearance of its 1960s throwback. Dallas won 21-7. It is still the last time the Bears wore orange jerseys on the road, per the [team](https://www.chicagobears.com/news/chalktalk/chalk-talk-when-was-last-time-bears-wore-orange).
 
-**Our take:** Orange against navy on national TV on Thanksgiving is about as loud as an NFL holiday has ever looked, and we mean that as a compliment. The Bears are a navy team, and the orange jersey is a reminder of how good their secondary color is. It ranks fifth because it is a one-game memory from more than 20 years ago, and because the Bears have worn orange at home plenty of times since, so the shock is gone. Chicago plays at Detroit this Thursday. Bring the orange back to Ford Field.
+**Our take:** Orange against navy on national TV on Thanksgiving is about as loud as an NFL holiday has ever looked, and we mean that as a compliment. The Bears are a navy team, and the orange jersey is a reminder of how good their secondary color is. It ranks fifth because it is a one-game memory from more than 20 years ago, and because the Bears have worn orange at home plenty of times since, so the shock is gone. Chicago played at Detroit on Thanksgiving 2026 in white over navy pants and won 39-35. Next time, bring the orange back to Ford Field.
 
 ## 4. Packers 1967 Throwback (2003): B
 
@@ -111,9 +111,9 @@ Every uniform below was worn on Thanksgiving, apart from the Rams' Fearsome Whit
 
 **The colors:** white helmet with a single navy star and a gray facemask, a navy jersey with oversized stars on white shoulders, and white pants with two navy stripes. It copies the uniform Dallas wore from 1960 through 1964.
 
-**When it was worn:** every Thanksgiving from 2004 through 2012, per the [Dallas Cowboys](https://www.dallascowboys.com/news/cowboys-unveil-alternate-helmet-for-2022-season), including Tony Romo's five-touchdown game against Tampa Bay in 2006. The NFL's one-helmet rule shelved it from 2013 through 2021. It came back on Thanksgiving 2022 against the Giants and has been the Thanksgiving uniform every year since: 13 Thanksgivings in all. It is scheduled again this Thursday against the Eagles, 4:30 p.m. ET on FOX: [what the Cowboys are wearing on Thanksgiving 2026](/stories/cowboys-eagles-thanksgiving-uniforms-2026).
+**When it was worn:** every Thanksgiving from 2004 through 2012, per the [Dallas Cowboys](https://www.dallascowboys.com/news/cowboys-unveil-alternate-helmet-for-2022-season), including Tony Romo's five-touchdown game against Tampa Bay in 2006. The NFL's one-helmet rule shelved it from 2013 through 2021. It came back on Thanksgiving 2022 against the Giants and has been the Thanksgiving uniform every year since: 14 Thanksgivings in all, counting 2026. It was on again on Thanksgiving 2026 against the Eagles: [what the Cowboys are wearing on Thanksgiving 2026](/stories/cowboys-eagles-thanksgiving-uniforms-2026).
 
-**Our take:** No team owns a holiday the way Dallas owns Thanksgiving in this uniform. Thirteen times on the biggest stage of the regular season, and nobody pictures the day without the white helmet anymore. Taking the silver away leaves the cleanest Cowboys look there is: three colors, big stars, block numbers. It is our favorite Cowboys uniform. It finishes second for one reason. The Cowboys turned an old uniform into a tradition. The Lions' throwback was already part of one.
+**Our take:** No team owns a holiday the way Dallas owns Thanksgiving in this uniform. Fourteen times on the biggest stage of the regular season, and nobody pictures the day without the white helmet anymore. Taking the silver away leaves the cleanest Cowboys look there is: three colors, big stars, block numbers. It is our favorite Cowboys uniform. It finishes second for one reason. The Cowboys turned an old uniform into a tradition. The Lions' throwback was already part of one.
 
 ## 1. Lions 1934 Throwback: A-
 
@@ -122,9 +122,9 @@ Every uniform below was worn on Thanksgiving, apart from the Rams' Fearsome Whit
 
 **The colors:** a silver helmet with no logo, a solid Honolulu blue jersey with silver block numbers, no sleeve stripes and no shoulder numbers, and silver pants. It copies what Detroit wore in 1934, its first season in the city. (One caveat we always add: 1935 card art shows leather-colored helmets, so the plain silver shell is a modern take.)
 
-**When it was worn:** Thanksgiving 2017 against the Vikings, per the [Detroit Lions](https://www.detroitlions.com/news/lions-to-wear-alternate-uniforms-this-season-19026253), and against the Packers in 2023 and 2025, per [WILX](https://www.wilx.com/2025/11/26/lions-return-classic-throwback-look-thanksgiving-game/). Green Bay won the 2025 game 31-24.
+**When it was worn:** Thanksgiving 2017 against the Vikings, per the [Detroit Lions](https://www.detroitlions.com/news/lions-to-wear-alternate-uniforms-this-season-19026253), 2018 against the Bears and 2020 against the Texans, per the Lions' own game-day images and the Gridiron Uniform Database, and against the Packers in 2023 and 2025, per [WILX](https://www.wilx.com/2025/11/26/lions-return-classic-throwback-look-thanksgiving-game/). Green Bay won the 2025 game 31-24. Detroit lost all five ([the full record](/stories/lions-record-in-throwbacks-on-thanksgiving)). It was not worn in 2026: the Lions wore Honolulu blue with silver pants and the silver helmet against the Bears and lost 39-35.
 
-**Our take:** This is the best Thanksgiving uniform ever because of where it comes from. The Lions' Thanksgiving game began on November 29, 1934, against the Bears, and this is a copy of what the host team, the one that started the whole tradition, wore that season. No other look on the list ties back to the first game like that. It is also just a great uniform: one blue, one silver, no stripes, no logo, nothing to take away. It stops at an A- because Detroit will not commit to it. We can confirm it on only three Thanksgivings since 2017, and Detroit has not announced it for this year, against the Bears, of all teams. Wear it every year and it is an A. The whole story: [why do the Lions wear 1934 throwbacks on Thanksgiving](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving).
+**Our take:** This is the best Thanksgiving uniform ever because of where it comes from. The Lions' Thanksgiving game began on November 29, 1934, against the Bears, and this is a copy of what the host team, the one that started the whole tradition, wore that season. No other look on the list ties back to the first game like that. It is also just a great uniform: one blue, one silver, no stripes, no logo, nothing to take away. It stops at an A- because Detroit will not commit to it. It has been worn on five of the ten Thanksgivings since 2017, and Detroit passed on it again in 2026, against the Bears, of all teams. Wear it every year and it is an A. The whole story: [why do the Lions wear 1934 throwbacks on Thanksgiving](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving).
 
 ## Disagree? Vote For Your Own Favorite
 
@@ -138,7 +138,7 @@ This is our ranking. The fan vote is yours. All eight of these uniforms are in o
 
 ## What They Are Wearing This Thanksgiving
 
-The Cowboys' Classic is on the schedule again for Thursday, November 26. The Lions have not announced a throwback for the Bears game, and we expect Honolulu blue at home. All six Thanksgiving Day uniforms, helmet, jersey and pants, are in [what every NFL team is wearing on Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026), and all five holiday-week games are in [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026). The history behind these looks, year by year: [why do NFL teams wear throwback uniforms on Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
+The Cowboys' Classic was on again on Thursday, November 26. The Lions did not wear a throwback: they played the Bears in Honolulu blue with silver pants and the silver helmet and lost 39-35. All six Thanksgiving Day uniforms, helmet, jersey and pants, are in [what every NFL team is wearing on Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026), and all five holiday-week games are in [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026). The history behind these looks, year by year: [why do NFL teams wear throwback uniforms on Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
 
 ## Frequently Asked Questions
 
@@ -160,7 +160,7 @@ The 1960s Classic, against the Eagles on Thursday, November 26, at 4:30 p.m. ET 
 
 **What do the Lions wear on Thanksgiving?**
 
-It changes. Detroit has worn its 1934 throwback (2017, 2023, 2025), its wolf gray Color Rush (2019, 2022), all blue (2024) and its regular home uniform (2021). For 2026, no throwback has been announced, and we expect Honolulu blue against the Bears. Our [Lions vs. Bears preview](/stories/lions-bears-thanksgiving-uniforms-2026) updates if that changes.
+It changes. Detroit has worn its 1934 throwback (2017, 2018, 2020, 2023, 2025), its wolf gray Color Rush (2019, 2022), all blue (2024) and its regular home uniform (2021). In 2026 it was Honolulu blue with silver pants and the silver helmet against the Bears, not the throwback, in a 39-35 loss. Details: [what the Lions wore on Thanksgiving 2026](/stories/lions-bears-thanksgiving-uniforms-2026).
 
 **Why do the Lions wear 1934 throwbacks on Thanksgiving?**
 
@@ -190,9 +190,9 @@ Yes, once: at Dallas on Thanksgiving 2004, in throwbacks honoring the 1933 and 1
 
 Two of them, both at Detroit. In 2001 Green Bay wore a 1939 throwback with plain gold helmets and white jerseys with no stripes. In 2003 it wore a 1967 throwback with green and gold sleeve stripes, lace-up gold pants and a gray facemask.
 
-**What are the Rams wearing on Thanksgiving Eve?**
+**What did the Rams wear on Thanksgiving Eve?**
 
-Fearsome White: a royal blue helmet with white horns and a white facemask, a white jersey with royal numbers and a royal stripe over the shoulder, and white pants. It is the uniform's only game of 2026, against the Packers on Wednesday, November 25, at 8 p.m. ET on Netflix.
+Fearsome White: a royal blue helmet with white horns and a white facemask, a white jersey with royal numbers and a royal stripe over the shoulder, and white pants. It was the uniform's only game of 2026, against the Packers on Wednesday, November 25, and the Rams won 26-13.
 
 **Have the Lions ever worn gray on Thanksgiving?**
 
@@ -213,7 +213,7 @@ In our [best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-u
 - [Why do NFL teams wear throwback uniforms on Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
 - [What every NFL team is wearing on Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026)
 - [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026): all five holiday-week games
-- [What are the Lions wearing against the Bears?](/stories/lions-bears-thanksgiving-uniforms-2026)
+- [What the Lions wore against the Bears](/stories/lions-bears-thanksgiving-uniforms-2026)
 - [What are the Rams wearing on Thanksgiving Eve?](/stories/packers-rams-thanksgiving-eve-uniforms-2026)
 
 **Team uniform schedules:** [Lions](/stories/lions-uniform-schedule-2026) · [Cowboys](/stories/cowboys-uniform-schedule-2026) · [Bears](/stories/bears-uniform-schedule-2026) · [Packers](/stories/packers-uniform-schedule-2026) · [Rams](/stories/rams-uniform-schedule-2026) · [Panthers](/stories/panthers-uniform-schedule-2026)
