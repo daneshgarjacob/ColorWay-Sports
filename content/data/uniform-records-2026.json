@@ -1,13 +1,13 @@
 {
  "league": "nfl",
  "season": 2026,
- "throughWeek": 11,
- "built": "2026-11-25",
+ "throughWeek": 12,
+ "built": "2026-11-26",
  "note": "Built by scripts/build-uniform-records.mjs from the ColorWay Sports NFL uniform tracker (worn looks only, logged from game photos) and ESPN final scores. Do not hand-edit.",
  "totals": {
   "teams": 32,
-  "gamesPlayed": 163,
-  "teamGamesCounted": 326,
+  "gamesPlayed": 164,
+  "teamGamesCounted": 328,
   "teamGamesUnlogged": 0
  },
  "teams": [
@@ -2485,10 +2485,10 @@
    "key": "packers",
    "name": "Green Bay Packers",
    "nickname": "Packers",
-   "gamesPlayed": 10,
-   "gamesCounted": 10,
+   "gamesPlayed": 11,
+   "gamesCounted": 11,
    "w": 6,
-   "l": 4,
+   "l": 5,
    "t": 0,
    "missing": [],
    "combos": [
@@ -2506,7 +2506,7 @@
      ],
      "img": "/images/posts/nfl-tracker-jerseys/packers-green-home.jpg",
      "w": 4,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "games": [
       {
@@ -2566,6 +2566,16 @@
        "home": true,
        "teamScore": 10,
        "oppScore": 30,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 12,
+       "date": "2026-11-25",
+       "opponent": "Los Angeles Rams",
+       "home": false,
+       "teamScore": 13,
+       "oppScore": 26,
        "result": "L",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
@@ -3847,9 +3857,9 @@
    "key": "rams",
    "name": "Los Angeles Rams",
    "nickname": "Rams",
-   "gamesPlayed": 10,
-   "gamesCounted": 10,
-   "w": 6,
+   "gamesPlayed": 11,
+   "gamesCounted": 11,
+   "w": 7,
    "l": 4,
    "t": 0,
    "missing": [],
@@ -4025,6 +4035,35 @@
        "home": true,
        "teamScore": 28,
        "oppScore": 6,
+       "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
+    {
+     "id": "white-royal-white",
+     "helmet": "Royal",
+     "jersey": "White",
+     "jerseyName": "White",
+     "jerseyKey": "rams-fearsome-white",
+     "pants": "White",
+     "hexes": [
+      "#003594",
+      "#FFFFFF",
+      "#FFFFFF"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/rams-fearsome-white.jpg",
+     "w": 1,
+     "l": 0,
+     "t": 0,
+     "games": [
+      {
+       "week": 12,
+       "date": "2026-11-25",
+       "opponent": "Green Bay Packers",
+       "home": true,
+       "teamScore": 26,
+       "oppScore": 13,
        "result": "W",
        "link": "/stories/nfl-uniform-tracker-2026"
       }

@@ -2,7 +2,7 @@
 title: "Packers Uniform & Jersey Schedule 2026: 1923 Throwback Dates"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-23"
+updatedDate: "2026-11-25"
 excerpt: "Packers uniform schedule 2026: Vintage Green, Classic White, the 1923 throwback and the new Rivalries set. Every Green Bay jersey, week by week, and this week's look."
 gradient: "linear-gradient(135deg, #203731 0%, #0d1714 55%, #FFB612 130%)"
 coverImage: "/images/posts/packers-uniform-schedule-2026/cover.jpg"
@@ -125,11 +125,11 @@ How does every one of these jerseys stack up? See our [Packers jerseys 2026 rank
 
 **What jersey are the Packers wearing today?**
 
-Week 10 against Minnesota, November 15, worn: gold helmet, green jersey and gold pants. The Vikings wore white over purple pants, and Minnesota won 30-10. We grade the matchup a B. This answer updates every week. For the rest of the season: Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
+Week 12 at the Rams, Wednesday, November 25, worn: gold helmet, green jersey and gold pants, as the team announced, confirmed from ESPN's game photos. The Rams wore Fearsome White, and Los Angeles won 26-13 on Thanksgiving Eve. We grade the matchup an A-. Next up is Week 13 at New Orleans on Sunday, December 6, where we have the Classic White road uniform. This answer updates every week. For the rest of the season: Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
 
 **What jerseys are the Packers wearing this week?**
 
-Week 10 against Minnesota, November 15, worn: gold helmet, green jersey and gold pants. The Vikings wore white over purple pants, and Minnesota won 30-10. We grade the matchup a B. For the rest of the season: Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
+Week 12 at the Rams, Wednesday, November 25, worn: gold helmet, green jersey and gold pants, as the team announced, confirmed from ESPN's game photos. The Rams wore Fearsome White, and Los Angeles won 26-13 on Thanksgiving Eve. We grade the matchup an A-. Next up is Week 13 at New Orleans on Sunday, December 6, where we have the Classic White road uniform. For the rest of the season: Vintage Green at Lambeau and Classic White on the road, with one confirmed exception: the new Rivalries uniform in Week 5 against the Bears. We have the 1923 throwback in Week 14 against Buffalo and the green jersey on the road at the Jets, Tampa Bay and the Rams. The all-white alternate the Packers ran the last two seasons is not in the lineup at all.
 
 **What uniform did the Packers wear last week?**
 
@@ -137,7 +137,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Packers wearing next week?**
 
-Green at home, white on the road, the Rivalries uniform in Week 5, and the 1923 throwback in Week 14. Green also travels to Tampa Bay in Week 4 and the Rams in Week 12.
+White at New Orleans in Week 13 on Sunday, December 6, our projection until the Packers post it, then the 1923 throwback at home against Buffalo in Week 14. Otherwise green at home and white on the road.
 
 **What jerseys do the Packers have in 2026?**
 

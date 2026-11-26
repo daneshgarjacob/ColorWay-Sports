@@ -3,7 +3,7 @@ topViewsRank: 12
 title: "Rams Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-07-24"
-updatedDate: "2026-11-15"
+updatedDate: "2026-11-25"
 excerpt: "Rams uniform schedule 2026: royal five times, white eight including at home vs. Dallas, plus Classic Sol, Fearsome White and Midnight Mode. Every jersey, week by week."
 gradient: "linear-gradient(135deg, #003594 0%, #0a1a3a 55%, #FFD100 130%)"
 coverImage: "/images/posts/rams-leaked-alternate-jerseys-2026/rams-five-uniforms-lineup.jpg"
@@ -141,11 +141,11 @@ How does every one of these jerseys stack up? See our [Rams jerseys 2026 ranking
 
 **What jersey are the Rams wearing today?**
 
-Week 10 at Arizona, November 15, worn: royal helmet with yellow horns, white jersey and white pants, as the team announced and as its game-day photos show. The Cardinals wore the white helmet, cardinal red jersey and cardinal red pants, and the Rams won 34-6. We grade the matchup a B. Next up is Week 12 against Green Bay on Wednesday, November 25, in Fearsome White, confirmed by the team on November 24: royal helmet with white horns, white jersey and white pants. This answer updates every week. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
+Week 12 against Green Bay, Wednesday, November 25, worn: Fearsome White, the royal helmet with white horns, white jersey and white pants, as the team announced, confirmed from ESPN's game photos. The Packers wore the gold helmet, green jersey and gold pants, and the Rams won 26-13 on Thanksgiving Eve. We grade the matchup an A-. Next up is Week 13 against Kansas City at SoFi Stadium on Thursday, December 3, in the gold Classic Sol throwback, per the Rams' uniform schedule. This answer updates every week. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
 
 **What jerseys are the Rams wearing this week?**
 
-Week 10 at Arizona, November 15, worn: royal helmet with yellow horns, white jersey and white pants, as the team announced and as its game-day photos show. The Cardinals wore the white helmet, cardinal red jersey and cardinal red pants, and the Rams won 34-6. We grade the matchup a B. Next up is Week 12 against Green Bay on Wednesday, November 25, in Fearsome White, confirmed by the team on November 24: royal helmet with white horns, white jersey and white pants. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
+Week 12 against Green Bay, Wednesday, November 25, worn: Fearsome White, the royal helmet with white horns, white jersey and white pants, as the team announced, confirmed from ESPN's game photos. The Packers wore the gold helmet, green jersey and gold pants, and the Rams won 26-13 on Thanksgiving Eve. We grade the matchup an A-. Next up is Week 13 against Kansas City at SoFi Stadium on Thursday, December 3, in the gold Classic Sol throwback, per the Rams' uniform schedule. For the rest of the season: Every game is assigned in the grid above. Royal in Weeks 1, 5, 6, 8 and 18; white in Weeks 3, 4, 7, 9, 10, 14, 15 and 17; Classic Sol in Weeks 2 and 13; Fearsome White in Week 12; and the black Midnight Mode Rivalries jersey in Week 16 at Seattle on Christmas Day.
 
 **What uniform did the Rams wear last week?**
 
@@ -153,7 +153,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Rams wearing next week?**
 
-Check the grid above; every game has a jersey. The one home game that is not royal or an alternate is Week 15 against Dallas, where the Rams wear white.
+Week 13 against Kansas City on Thursday, December 3, in the gold Classic Sol throwback, its second and last game of 2026. After that, check the grid above; every game has a jersey. The one home game that is not royal or an alternate is Week 15 against Dallas, where the Rams wear white.
 
 **What jerseys do the Rams have in 2026?**
 

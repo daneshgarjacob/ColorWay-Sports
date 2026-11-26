@@ -3681,6 +3681,104 @@
       },
       "confirmed": true,
       "source": "ESPN game highlights (Magic black pinstripe Statement, Pistons white Association; https://www.espn.com/nba/game/_/gameId/401909314)"
+    },
+    "2026-11-25 BKN@MIL": {
+      "score": {
+        "away": 104,
+        "home": 97
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Bucks black Statement with cream, Nets white BROOKLYN Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909322)"
+    },
+    "2026-11-25 CHI@CHA": {
+      "score": {
+        "away": 107,
+        "home": 105
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Hornets purple Statement with teal, Bulls white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909318)"
+    },
+    "2026-11-25 CLE@NYK": {
+      "score": {
+        "away": 102,
+        "home": 121
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Knicks black NEW YORK Statement with orange and blue side flames, Cavaliers white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909319)"
+    },
+    "2026-11-25 LAC@MEM": {
+      "score": {
+        "away": 97,
+        "home": 115
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Grizzlies light blue GRIZZLIES Statement, Clippers white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909321)"
+    },
+    "2026-11-25 MIA@PHI": {
+      "score": {
+        "away": 104,
+        "home": 111
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (76ers red Phila Statement, Heat white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909317)"
+    },
+    "2026-11-25 MIN@OKC": {
+      "score": {
+        "away": 113,
+        "home": 106
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Thunder orange OKC Statement, Timberwolves white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909320)"
+    },
+    "2026-11-25 PHX@HOU": {
+      "score": {
+        "away": 104,
+        "home": 116
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Rockets black HOUSTON Statement with red, Suns white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909323)"
     }
   }
 }

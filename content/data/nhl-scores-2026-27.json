@@ -1,30 +1,30 @@
 {
  "note": "NHL final scores and a standings snapshot from ESPN's public API, cached by scripts/build-uniform-records.mjs. The site build reads the records file built from this and never calls ESPN.",
  "season": "2026-27",
- "fetched": "2026-11-25T05:39:34.599Z",
+ "fetched": "2026-11-26T04:53:00.224Z",
  "standings": {
   "CAR": {
-   "w": 18,
+   "w": 19,
    "l": 3,
    "otl": 3,
-   "gp": 24
+   "gp": 25
   },
   "OTT": {
    "w": 16,
-   "l": 6,
+   "l": 7,
    "otl": 3,
+   "gp": 26
+  },
+  "NJD": {
+   "w": 17,
+   "l": 8,
+   "otl": 0,
    "gp": 25
   },
   "TBL": {
    "w": 15,
-   "l": 6,
+   "l": 7,
    "otl": 2,
-   "gp": 23
-  },
-  "NJD": {
-   "w": 16,
-   "l": 8,
-   "otl": 0,
    "gp": 24
   },
   "MTL": {
@@ -35,39 +35,51 @@
   },
   "BOS": {
    "w": 15,
-   "l": 7,
+   "l": 8,
    "otl": 1,
-   "gp": 23
+   "gp": 24
   },
   "FLA": {
-   "w": 13,
+   "w": 14,
    "l": 8,
    "otl": 3,
+   "gp": 25
+  },
+  "NYI": {
+   "w": 12,
+   "l": 7,
+   "otl": 5,
    "gp": 24
   },
   "NYR": {
    "w": 13,
-   "l": 9,
+   "l": 10,
    "otl": 1,
-   "gp": 23
-  },
-  "NYI": {
-   "w": 11,
-   "l": 7,
-   "otl": 5,
-   "gp": 23
+   "gp": 24
   },
   "BUF": {
-   "w": 10,
+   "w": 11,
    "l": 10,
    "otl": 4,
-   "gp": 24
+   "gp": 25
   },
   "PHI": {
    "w": 9,
-   "l": 11,
+   "l": 12,
    "otl": 6,
-   "gp": 26
+   "gp": 27
+  },
+  "WSH": {
+   "w": 11,
+   "l": 11,
+   "otl": 0,
+   "gp": 22
+  },
+  "DET": {
+   "w": 9,
+   "l": 12,
+   "otl": 3,
+   "gp": 24
   },
   "TOR": {
    "w": 9,
@@ -75,35 +87,23 @@
    "otl": 3,
    "gp": 26
   },
-  "WSH": {
-   "w": 10,
-   "l": 11,
-   "otl": 0,
-   "gp": 21
-  },
-  "DET": {
-   "w": 8,
-   "l": 12,
-   "otl": 3,
-   "gp": 23
-  },
   "CBJ": {
    "w": 9,
    "l": 13,
-   "otl": 0,
-   "gp": 22
+   "otl": 1,
+   "gp": 23
   },
   "PIT": {
    "w": 7,
-   "l": 14,
+   "l": 15,
    "otl": 2,
-   "gp": 23
+   "gp": 24
   },
   "MIN": {
    "w": 18,
-   "l": 3,
+   "l": 4,
    "otl": 5,
-   "gp": 26
+   "gp": 27
   },
   "EDM": {
    "w": 17,
@@ -119,9 +119,21 @@
   },
   "DAL": {
    "w": 15,
-   "l": 6,
+   "l": 7,
    "otl": 2,
-   "gp": 23
+   "gp": 24
+  },
+  "NSH": {
+   "w": 13,
+   "l": 6,
+   "otl": 5,
+   "gp": 24
+  },
+  "WPG": {
+   "w": 13,
+   "l": 9,
+   "otl": 4,
+   "gp": 26
   },
   "COL": {
    "w": 13,
@@ -129,29 +141,23 @@
    "otl": 3,
    "gp": 23
   },
-  "NSH": {
-   "w": 12,
-   "l": 6,
-   "otl": 5,
-   "gp": 23
-  },
   "STL": {
    "w": 13,
    "l": 9,
-   "otl": 2,
-   "gp": 24
-  },
-  "WPG": {
-   "w": 12,
-   "l": 9,
-   "otl": 4,
+   "otl": 3,
    "gp": 25
   },
   "UTA": {
-   "w": 12,
+   "w": 13,
    "l": 10,
    "otl": 3,
-   "gp": 25
+   "gp": 26
+  },
+  "CGY": {
+   "w": 11,
+   "l": 13,
+   "otl": 2,
+   "gp": 26
   },
   "SJS": {
    "w": 11,
@@ -171,12 +177,6 @@
    "otl": 1,
    "gp": 25
   },
-  "CGY": {
-   "w": 10,
-   "l": 13,
-   "otl": 2,
-   "gp": 25
-  },
   "LAK": {
    "w": 8,
    "l": 12,
@@ -191,9 +191,9 @@
   },
   "VAN": {
    "w": 6,
-   "l": 19,
+   "l": 20,
    "otl": 1,
-   "gp": 26
+   "gp": 27
   }
  },
  "dates": {
@@ -5650,9 +5650,9 @@
     "seasonType": 2,
     "away": "WPG",
     "home": "BOS",
-    "awayScore": 0,
-    "homeScore": 0,
-    "final": false,
+    "awayScore": 4,
+    "homeScore": 2,
+    "final": true,
     "extra": null
    },
    {
@@ -5662,9 +5662,9 @@
     "seasonType": 2,
     "away": "NYR",
     "home": "BUF",
-    "awayScore": 0,
-    "homeScore": 0,
-    "final": false,
+    "awayScore": 1,
+    "homeScore": 5,
+    "final": true,
     "extra": null
    },
    {
@@ -5674,9 +5674,9 @@
     "seasonType": 2,
     "away": "CAR",
     "home": "TBL",
-    "awayScore": 0,
-    "homeScore": 0,
-    "final": false,
+    "awayScore": 3,
+    "homeScore": 1,
+    "final": true,
     "extra": null
    },
    {
@@ -5686,9 +5686,9 @@
     "seasonType": 2,
     "away": "OTT",
     "home": "FLA",
-    "awayScore": 0,
-    "homeScore": 0,
-    "final": false,
+    "awayScore": 3,
+    "homeScore": 5,
+    "final": true,
     "extra": null
    },
    {
@@ -5698,10 +5698,10 @@
     "seasonType": 2,
     "away": "STL",
     "home": "NYI",
-    "awayScore": 0,
-    "homeScore": 0,
-    "final": false,
-    "extra": null
+    "awayScore": 2,
+    "homeScore": 3,
+    "final": true,
+    "extra": "SO"
    },
    {
     "id": "401892786",
@@ -5710,9 +5710,9 @@
     "seasonType": 2,
     "away": "CGY",
     "home": "PIT",
-    "awayScore": 0,
-    "homeScore": 0,
-    "final": false,
+    "awayScore": 6,
+    "homeScore": 3,
+    "final": true,
     "extra": null
    },
    {
@@ -5722,9 +5722,9 @@
     "seasonType": 2,
     "away": "PHI",
     "home": "WSH",
-    "awayScore": 0,
-    "homeScore": 0,
-    "final": false,
+    "awayScore": 3,
+    "homeScore": 7,
+    "final": true,
     "extra": null
    },
    {
@@ -5734,10 +5734,10 @@
     "seasonType": 2,
     "away": "NJD",
     "home": "CBJ",
-    "awayScore": 0,
-    "homeScore": 0,
-    "final": false,
-    "extra": null
+    "awayScore": 3,
+    "homeScore": 2,
+    "final": true,
+    "extra": "SO"
    },
    {
     "id": "401892789",
@@ -5746,9 +5746,9 @@
     "seasonType": 2,
     "away": "VAN",
     "home": "DET",
-    "awayScore": 0,
-    "homeScore": 0,
-    "final": false,
+    "awayScore": 1,
+    "homeScore": 5,
+    "final": true,
     "extra": null
    },
    {
@@ -5758,9 +5758,9 @@
     "seasonType": 2,
     "away": "NSH",
     "home": "DAL",
-    "awayScore": 0,
-    "homeScore": 0,
-    "final": false,
+    "awayScore": 3,
+    "homeScore": 1,
+    "final": true,
     "extra": null
    },
    {
@@ -5770,9 +5770,9 @@
     "seasonType": 2,
     "away": "UTA",
     "home": "MIN",
-    "awayScore": 0,
-    "homeScore": 0,
-    "final": false,
+    "awayScore": 4,
+    "homeScore": 3,
+    "final": true,
     "extra": null
    },
    {
@@ -5783,7 +5783,7 @@
     "away": "MTL",
     "home": "COL",
     "awayScore": 0,
-    "homeScore": 0,
+    "homeScore": 5,
     "final": false,
     "extra": null
    },
@@ -5794,7 +5794,7 @@
     "seasonType": 2,
     "away": "CHI",
     "home": "SEA",
-    "awayScore": 0,
+    "awayScore": 1,
     "homeScore": 0,
     "final": false,
     "extra": null
@@ -5807,7 +5807,7 @@
     "away": "SJS",
     "home": "ANA",
     "awayScore": 0,
-    "homeScore": 0,
+    "homeScore": 5,
     "final": false,
     "extra": null
    }

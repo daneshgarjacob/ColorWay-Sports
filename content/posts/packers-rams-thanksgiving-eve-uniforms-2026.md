@@ -21,6 +21,8 @@ league: nfl
 teams: ["los-angeles-rams", "green-bay-packers"]
 ---
 
+**Final: Rams 26, Packers 13.** Both teams wore exactly what they announced, confirmed from ESPN's game photos: the Rams in Fearsome White (royal blue helmet with white horns, white jersey, white pants) and the Packers in the gold helmet, green jersey and gold pants. We log every game in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
+
 **The Rams wear Fearsome White on Thanksgiving Eve, and it is the only time you will see it this season.** Los Angeles hosts the Green Bay Packers at SoFi Stadium on **Wednesday, November 25, at 8:00 p.m. Eastern (5:00 p.m. Pacific) on Netflix**, the first NFL game ever played the night before Thanksgiving. The Rams put Fearsome White on this date when they published all 17 of their 2026 uniform assignments on September 1: a **white jersey with royal blue numbers**, a royal stripe that runs over the shoulder like a horn, **white pants**, and a **royal blue helmet with white horns and a white facemask**. The Rams **confirmed** it on Tuesday, November 24, in a "Fearsome White Uniform Look Book" of player photos. Green Bay has **confirmed** its look: the Packers posted their Week 12 uniform on Monday, November 23, and it is the **green jersey with gold pants and the gold helmet**.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
@@ -92,7 +94,7 @@ Not in 2026. After Wednesday, the Rams are back in white on the road and royal a
 
 **What are the Rams wearing against the Packers on Thanksgiving Eve?**
 
-Fearsome White: a white jersey with royal blue numbers and a royal shoulder stripe, white pants, and the royal helmet with white horns and a white facemask. It is on the uniform schedule the Rams published September 1, and the team confirmed it with a Fearsome White look book on November 24.
+Fearsome White: a white jersey with royal blue numbers and a royal shoulder stripe, white pants, and the royal helmet with white horns and a white facemask. It is on the uniform schedule the Rams published September 1, and the team confirmed it with a Fearsome White look book on November 24. They wore it as announced, confirmed from ESPN's game photos, and beat the Packers 26-13.
 
 **What time is Packers vs. Rams on Thanksgiving Eve?**
 

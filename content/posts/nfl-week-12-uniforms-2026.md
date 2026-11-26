@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 12 of the 2026 NFL season is Thanksgiving week, and it runs six days, from Wednesday, November 25 to Monday, November 30: 16 games, no byes, and football on five of the six days. It opens with the first Thanksgiving Eve game in NFL history, Packers at Rams on Netflix, has three games on Thanksgiving Day and the first Black Friday game in Steelers history, and ends on Monday night in Tampa. Four teams have already posted their full look for the week. **The Rams confirmed Fearsome White**, the Bills confirmed **blue over blue** for Thanksgiving night, the Bengals confirmed black over orange pants for the Saints, and on Tuesday the Steelers announced the **all-black Color Rush** for Black Friday, not the gold 1933 throwback we had on that date. The Packers posted green over gold pants on Monday.
+Week 12 of the 2026 NFL season is Thanksgiving week, and it runs six days, from Wednesday, November 25 to Monday, November 30: 16 games, no byes, and football on five of the six days. It opened with the first Thanksgiving Eve game in NFL history, a 26-13 Rams win over the Packers on Netflix, with Los Angeles in Fearsome White, and has three games on Thanksgiving Day and the first Black Friday game in Steelers history, and ends on Monday night in Tampa. Four teams have already posted their full look for the week. **The Rams confirmed Fearsome White**, the Bills confirmed **blue over blue** for Thanksgiving night, the Bengals confirmed black over orange pants for the Saints, and on Tuesday the Steelers announced the **all-black Color Rush** for Black Friday, not the gold 1933 throwback we had on that date. The Packers posted green over gold pants on Monday.
 
 Below is every Week 12 look we know, special ones first and then the rest of the games in kickoff order. **Confirmed** means the team has posted the jersey or the full combination for this game. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, with the reason, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
 
@@ -31,13 +31,13 @@ Below is every Week 12 look we know, special ones first and then the rest of the
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Packers' Week 12 uniform, via <a href="https://x.com/packers" target="_blank" rel="noopener">@packers</a></p>
 
-**Wednesday, 8:00 p.m. ET, Netflix.** Los Angeles assigned all 17 of its 2026 games on September 1, and this is the only date for **Fearsome White**. On Tuesday the Rams confirmed it with a seven-photo "Fearsome White Uniform Look Book": the **royal blue helmet with white horns and a white facemask, a white jersey with royal blue numbers and a royal horn stripe over the shoulder, and white pants**. It is named for the Fearsome Foursome defensive line of the 1960s.
+**Wednesday, 8:00 p.m. ET, Netflix. Final: Rams 26, Packers 13.** Los Angeles assigned all 17 of its 2026 games on September 1, and this is the only date for **Fearsome White**. On Tuesday the Rams confirmed it with a seven-photo "Fearsome White Uniform Look Book": the **royal blue helmet with white horns and a white facemask, a white jersey with royal blue numbers and a royal horn stripe over the shoulder, and white pants**. It is named for the Fearsome Foursome defensive line of the 1960s. Both teams wore exactly what they announced, confirmed from ESPN's game photos.
 
 Green Bay **confirmed** its side on Monday, "On Wednesdays we wear Green & Gold": the **gold helmet, green jersey and gold pants** with green socks. The Packers are in green on the road because the Rams took white first, the same reason they wore that combination at the Jets in Week 2.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/packers-green-home.jpg" alt="Green Bay Packers green jersey, confirmed with gold pants and the gold helmet at the Rams on Thanksgiving Eve in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Packers &middot; Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/rams-fearsome-white.jpg" alt="Los Angeles Rams Fearsome White alternate jersey, white with royal blue numbers, confirmed against the Packers on Thanksgiving Eve in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Rams &middot; Confirmed</figcaption></figure></div>
 
-Royal and white against green and gold is four strong colors with no overlap, under the lights, on a night with no other football. Our matchup grade: **A-**. Every detail is in [what the Rams are wearing on Thanksgiving Eve](/stories/packers-rams-thanksgiving-eve-uniforms-2026). See the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) and the [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
+Royal and white against green and gold is four strong colors with no overlap, under the lights, on a night with no other football. Our matchup grade: **A-**. The Rams won 26-13. Every detail is in [what the Rams are wearing on Thanksgiving Eve](/stories/packers-rams-thanksgiving-eve-uniforms-2026). See the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) and the [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
 
 ### Philadelphia Eagles At Dallas Cowboys: The Thanksgiving Classic
 
@@ -136,7 +136,7 @@ Navy head to toe against white is clean, and it is a far better Chargers look th
 
 ## The Prime-Time And Holiday Games
 
-- **Wednesday, 8:00 p.m. ET, Netflix:** Packers at Rams, green and gold against Fearsome White. Both confirmed.
+- **Wednesday, 8:00 p.m. ET, Netflix:** Packers at Rams, green and gold against Fearsome White. Both worn as confirmed. Final: Rams 26, Packers 13.
 - **Thursday, 1:00 p.m. ET, CBS:** Bears at Lions, white against Honolulu blue. Both expected.
 - **Thursday, 4:30 p.m. ET, FOX:** Eagles at Cowboys, white against the Classic throwback.
 - **Thursday, 8:20 p.m. ET, NBC:** Chiefs at Bills, white against blue over blue.
@@ -206,7 +206,7 @@ Every player in the three Thanksgiving Day games wears the round [John Madden Th
 
 ### Wednesday, November 25
 
-- **Green Bay Packers at Los Angeles Rams**, 8:00 p.m. ET, Netflix. Packers: gold helmet, green jersey, gold pants (confirmed). Rams: Fearsome White, royal helmet with white horns, white jersey, white pants (confirmed). Matchup grade: A-.
+- **Green Bay Packers at Los Angeles Rams**, 8:00 p.m. ET, Netflix. Packers: gold helmet, green jersey, gold pants (confirmed). Rams: Fearsome White, royal helmet with white horns, white jersey, white pants (confirmed). Matchup grade: A-. Final: Rams 26, Packers 13, both looks worn as confirmed.
 
 ### Thursday, November 26 (Thanksgiving)
 
@@ -249,15 +249,15 @@ Week 12 has more holiday football than any week of the year and three of its fou
 
 **What uniforms are NFL teams wearing in Week 12 of 2026?**
 
-Week 12 is Thanksgiving week. The Rams wear Fearsome White against the Packers on Wednesday night, the Cowboys wear their 1960s Classic throwback against the Eagles on Thanksgiving, the Bills wear blue over blue against the Chiefs on Thanksgiving night, and the Steelers wear the all-black Color Rush against the Broncos on Black Friday. On Sunday the Cardinals wear their black alternate against Washington, the Chargers wear navy Super Chargers against New England and the Saints wear their white alternate at Cincinnati. Most other teams wear their standard sets, home in color and visitors in white.
+Week 12 is Thanksgiving week. The Rams wore Fearsome White and beat the Packers 26-13 on Wednesday night, the Cowboys wear their 1960s Classic throwback against the Eagles on Thanksgiving, the Bills wear blue over blue against the Chiefs on Thanksgiving night, and the Steelers wear the all-black Color Rush against the Broncos on Black Friday. On Sunday the Cardinals wear their black alternate against Washington, the Chargers wear navy Super Chargers against New England and the Saints wear their white alternate at Cincinnati. Most other teams wear their standard sets, home in color and visitors in white.
 
 **What are the Steelers wearing on Black Friday?**
 
 The all-black Color Rush: black helmet, black jersey with gold numbers and black pants, as the Steelers announced on November 24. It is their first Color Rush game of 2026. It is not the 1933 throwback.
 
-**What are the Rams wearing against the Packers on Thanksgiving Eve?**
+**What did the Rams wear against the Packers on Thanksgiving Eve?**
 
-Fearsome White, confirmed in the Rams' look book on November 24: the royal blue helmet with white horns and a white facemask, a white jersey with royal blue numbers and white pants. It is the uniform's only game of 2026. Green Bay wears the gold helmet, green jersey and gold pants.
+Fearsome White, as the Rams confirmed in their look book on November 24 and as seen in ESPN's game photos: the royal blue helmet with white horns and a white facemask, a white jersey with royal blue numbers and white pants. It was the uniform's only game of 2026. Green Bay wore the gold helmet, green jersey and gold pants, and the Rams won 26-13.
 
 **What are the Cowboys wearing on Thanksgiving 2026?**
 

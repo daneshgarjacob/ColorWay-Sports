@@ -41,6 +41,8 @@ Matchups, kickoff times and networks are from ESPN's NFL schedule. Every team's 
 
 ## Thanksgiving Eve: Packers at Rams, 8:00 p.m. ET on Netflix
 
+**Final: Rams 26, Packers 13.** Both teams wore exactly what they announced, confirmed from ESPN's game photos: Fearsome White for Los Angeles, gold, green and gold for Green Bay.
+
 **Rams: Fearsome White (Confirmed).** Los Angeles assigned all 17 of its 2026 games on September 1, and this is the only date for Fearsome White: a white jersey with royal blue numbers, a continuous horn stripe over the shoulder, white pants, and a royal blue helmet with white horns and a white facemask. The Rams confirmed the full set on November 24 in a "Fearsome White Uniform Look Book." It is named for the Fearsome Foursome defensive line of the 1960s ([who they were](/stories/who-were-the-fearsome-foursome)), and we graded it an A- when it [first leaked](/stories/rams-leaked-alternate-jerseys-2026). Full season in our [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026).
 
 **Packers: green jersey (Confirmed).** Two teams cannot both wear white, so Green Bay brings the green home jersey to SoFi Stadium with the gold helmet and gold pants, as it did at the Jets in Week 2. The Packers confirmed it on November 23 ("On Wednesdays we wear Green & Gold"). It is one of three road games this season where the host took white first. See our [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
