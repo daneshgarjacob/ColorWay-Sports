@@ -6,6 +6,7 @@ import InlineNewsletter from "@/components/InlineNewsletter";
 import { JotdTile, PhotoCredit, TodayFeature } from "@/components/JerseyOfTheDay";
 import TwitterEmbed from "@/components/TwitterEmbed";
 import ImageZoom from "@/components/ImageZoom";
+import CyberWeekLine from "@/components/CyberWeekLine";
 import { AFFILIATE_DISCLOSURE, on } from "@/lib/affiliates";
 import { revalidatePageWithin } from "@/lib/gameDayTitle";
 import { longDay, pickFor, etToday, secsToEtMidnight, shortDate, weekEnding } from "@/lib/jerseyOfTheDay";
@@ -122,6 +123,7 @@ export default async function JerseyOfTheDayPage() {
                 {on("jotd") && entry.shop !== false && (
                   <p className="mt-1 mb-0 text-center text-xs text-black/50 leading-snug px-2">{AFFILIATE_DISCLOSURE}</p>
                 )}
+                <CyberWeekLine className="mt-3 text-center" />
                 {entry.tweet && !entry.leadTweet && (
                   <div className="mt-8 max-w-[560px] mx-auto">
                     <h2 className="font-display text-[12px] font-extrabold tracking-[0.18em] uppercase text-steel m-0 mb-2 text-center">

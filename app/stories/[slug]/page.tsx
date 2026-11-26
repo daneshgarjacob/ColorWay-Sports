@@ -56,6 +56,7 @@ import { addNflGameDays, nflGridEnd } from "@/lib/nflGridGameDays";
 import UniformLogBox from "@/components/UniformLogBox";
 import { nflUniformLog, winterUniformLog } from "@/lib/uniformLog";
 import { getAuthor, authorSchema } from "@/lib/authors";
+import CyberWeekLine from "@/components/CyberWeekLine";
 import { AFFILIATE_DISCLOSURE, addHomageLine, addScheduleShopLinks, addShopListLinks, teamFromTitle } from "@/lib/affiliates";
 import type { Metadata } from "next";
 
@@ -564,6 +565,9 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
                 </TeamHubLink>
               ))}
             </nav>
+          )}
+          {post.league === "nfl" && /-uniform-schedule-2026$/.test(slug) && slug !== "nfl-uniform-schedule-2026" && (
+            <CyberWeekLine className="mt-4" />
           )}
           {(() => {
             const sponsor = sponsorForPost(post.slug);

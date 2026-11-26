@@ -286,3 +286,20 @@ export function teamFromTitle(title: string): { team: string; nickname: string }
   const two = ["Red Sox", "White Sox", "Blue Jays"].find((n) => team.endsWith(n));
   return { team, nickname: two ?? team.split(" ").slice(-1)[0] };
 }
+
+// ── Cyber Week (Jake 11/25) ─────────────────────────────────────────────────
+// ONE small text line pointing at our deals page, on the Jersey of the Day and
+// the 32 NFL team schedule posts. Shows only inside the window (US Eastern,
+// inclusive) and disappears by itself afterwards.
+export const CYBER_WEEK = {
+  start: "2026-11-25",
+  end: "2026-11-30",
+  href: "/stories/black-friday-cyber-monday-jersey-deals-2026",
+  text: "Black Friday week: where the jersey sales are, and the ones we would buy",
+};
+
+export function cyberWeekActive(now = new Date()): boolean {
+  if (!AFFILIATES.on) return false;
+  const today = new Intl.DateTimeFormat("en-CA", { timeZone: "America/New_York" }).format(now);
+  return today >= CYBER_WEEK.start && today <= CYBER_WEEK.end;
+}
