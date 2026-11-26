@@ -12,22 +12,25 @@ export default function SponsorStrip({ sponsor }: { sponsor: Sponsor & { href: s
       target="_blank"
       rel="sponsored noopener"
       data-sponsor={sponsor.id}
-      className={`mt-4 flex ${sized ? "max-w-[600px]" : "max-w-[560px]"} items-center gap-3 rounded-[10px] border border-[#d6dcf5] bg-[#f3f6ff] px-4 py-2.5 no-underline hover:border-[#0025CC]`}
+      className={`group mt-4 flex ${sized ? "max-w-[600px]" : "max-w-[560px]"} items-center gap-3.5 overflow-hidden rounded-lg border border-black/10 bg-white pr-4 no-underline transition-colors hover:border-[#0025CC]`}
     >
+      {/* Royal rule on the left edge: the same blue as the site header. */}
+      <span aria-hidden className="w-[5px] self-stretch bg-[#0025CC]" />
       <span
-        className={`text-[10px] font-extrabold uppercase leading-tight tracking-[0.16em] text-[#6b7280]${sized ? " max-w-[176px] shrink-0" : ""}`}
+        className={`py-3 font-display text-[10.5px] font-black uppercase leading-[1.35] tracking-[0.18em] text-black${sized ? " max-w-[176px] shrink-0" : ""}`}
       >
         {sponsor.label}
       </span>
+      <span aria-hidden className="h-8 w-px shrink-0 bg-black/10" />
       <img
         src={sponsor.logo}
         alt={sponsor.name}
         width={sponsor.logoWidth}
         height={sponsor.logoHeight}
-        className={sized ? "w-auto shrink-0" : "h-[22px] w-auto shrink-0"}
-        style={sized ? { boxShadow: "none", height: sponsor.logoDisplayHeight } : { boxShadow: "none" }}
+        className={sized ? "my-2 w-auto shrink-0" : "my-2 h-[22px] w-auto shrink-0"}
+        style={sized ? { boxShadow: "none", height: Math.min(sponsor.logoDisplayHeight ?? 44, 44) } : { boxShadow: "none" }}
       />
-      <span className="ml-auto hidden whitespace-nowrap text-[13px] font-semibold text-[#002fd9] sm:inline">
+      <span className="ml-auto hidden whitespace-nowrap text-[13px] font-semibold text-[#0025CC] group-hover:underline sm:inline">
         {sponsor.line} →
       </span>
     </a>
