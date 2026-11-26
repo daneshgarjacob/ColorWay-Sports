@@ -3,8 +3,8 @@ title: "Why Do The Lions Wear Honolulu Blue? The Real Story Behind Detroit's Col
 author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-11-16"
-updatedDate: "2026-11-16"
-excerpt: "Why do the Detroit Lions wear Honolulu blue? The team started as the purple-and-gold Portsmouth Spartans, owner George A. Richards picked blue and silver in 1934, and nobody agrees who chose the shade. Both origin stories, the exact color, and the Lions' 3-0 record in silver pants this season."
+updatedDate: "2026-11-26"
+excerpt: "Why do the Detroit Lions wear Honolulu blue? The team started as the purple-and-gold Portsmouth Spartans, owner George A. Richards picked blue and silver in 1934, and nobody agrees who chose the shade. Both origin stories, the exact color, and the Lions' 3-1 record in silver pants this season, through Thanksgiving."
 gradient: "linear-gradient(135deg, #0076B6 0%, #0a3d5c 55%, #B0B7BC 130%)"
 cardStyle: words
 kicker: "Explained"
@@ -27,7 +27,7 @@ The short version: the Lions started in Ohio as the Portsmouth Spartans, in purp
 - **What are the Lions' official colors?** Honolulu blue and silver. White and black are also in the current set.
 - **What is the hex code for Honolulu blue?** #0076B6 (RGB 0, 118, 182) is the widely published value. Silver is #B0B7BC.
 - **Have the Lions always worn silver pants?** Yes, from the first Detroit uniform in 1934: blue jersey, silver numbers, silver pants, silver helmet.
-- **The 2026 hook:** Detroit is 3-0 this season in silver pants, including the 35-10 win over New England in Munich on Sunday.
+- **The 2026 hook:** Detroit is 3-1 this season in silver pants. It won its first three, including 35-10 over New England in Munich, then lost 39-35 to the Bears on Thanksgiving.
 - **Our take (opinion):** Honolulu blue and silver is the best color pairing in the NFC, and the 2024 redesign finally treated it that way.
 
 ## From Portsmouth Purple To Detroit Blue
@@ -92,18 +92,19 @@ The Lions unveiled their current set on April 18, 2024, at Ford Field. Nike move
 
 The 2026 addition is the Nike Rivalries uniform, revealed August 25: Rivalries Silver, a pale silver jersey with DETROIT on the chest, italic numbers filled with a carbon-fiber weave, and a metallic electric-blue helmet. It is the first Lions jersey built on silver instead of blue or white. Detroit wore it once, against Minnesota on November 1, and won 19-15. We explain the league program in [what is the NFL Rivalries uniform program](/stories/what-is-the-nfl-rivalries-uniform-program), and we grade it against the rest of the closet in [every Lions jersey ranked](/stories/lions-jerseys-2026-ranked).
 
-## The 2026 Hook: 3-0 In Silver Pants
+## The 2026 Hook: 3-1 In Silver Pants
 
-In 2024, the first year of the redesign, Detroit wore its silver pants only once, in a Week 2 loss to Tampa Bay, according to the Gridiron Uniform Database as cited by Wikipedia. This season silver is back below the waist, and the Lions have not lost in it. From our game-by-game log:
+In 2024, the first year of the redesign, Detroit wore its silver pants only once, in a Week 2 loss to Tampa Bay, according to the Gridiron Uniform Database as cited by Wikipedia. This season silver is back below the waist. The Lions won their first three games in it and lost the fourth, on Thanksgiving. From our game-by-game log:
 
 <div style="overflow-x:auto;margin:1.5em 0;border:1px solid #e3e7ec;border-radius:12px;"><table style="width:100%;border-collapse:collapse;margin:0;">
 <thead><tr><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#0076B6;">Week</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#0076B6;">Opponent</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#0076B6;">Lions wore</th><th style="padding:10px 12px;text-align:left;font-size:0.78em;letter-spacing:0.06em;text-transform:uppercase;color:#ffffff;background:#0076B6;">Result</th></tr></thead><tbody>
 <tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">3</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Jets, Ford Field</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Silver helmet, Honolulu blue jersey, silver pants</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">W 31-24</td></tr>
 <tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">8</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Vikings, Ford Field</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Electric blue helmet, Rivalries Silver jersey, silver pants</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">W 19-15</td></tr>
 <tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">10</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Patriots, Munich</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Silver helmet, Honolulu blue jersey, silver pants</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">W 35-10</td></tr>
+<tr style="background:#ffffff;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">12</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Bears, Ford Field (Thanksgiving)</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Silver helmet, Honolulu blue jersey, silver pants</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">L 35-39</td></tr>
 </tbody></table></div>
 
-Two of the three are the classic 1934 formula, Honolulu blue over silver, and the third is the Rivalries set with matching silver pants. Detroit wore blue pants at Miami in Week 9 and won anyway, so the streak is a coincidence worth tracking, nothing more. Next up is Tampa Bay at Ford Field on Sunday, where we expect the black alternate, so the silver streak likely waits until Thanksgiving against the Bears on November 26. Every look is on our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026), and this week's matchups are in the [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
+Three of the four are the classic 1934 formula, Honolulu blue over silver, and the other is the Rivalries set with matching silver pants. Detroit wore blue pants at Miami in Week 9 and won anyway, so the early streak was a coincidence worth tracking, nothing more. It ended on Thanksgiving, when the Lions skipped the 1934 throwback, wore Honolulu blue over silver and lost 39-35 to the Bears. Every look is on our [Lions 2026 uniform schedule](/stories/lions-uniform-schedule-2026), and this week's matchups are in the [NFL Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026).
 
 ## Our Take
 
@@ -157,7 +158,7 @@ Silver pants were part of the very first Detroit uniform in 1934, and they have 
 
 **What is the Lions' record in silver pants in 2026?**
 
-3-0: wins over the Jets (31-24) and Patriots (35-10) in Honolulu blue over silver, and over the Vikings (19-15) in the Rivalries Silver uniform with silver pants.
+3-1 through Thanksgiving: wins over the Jets (31-24) and Patriots (35-10) in Honolulu blue over silver and over the Vikings (19-15) in the Rivalries Silver uniform, then a 39-35 loss to the Bears on Thanksgiving in Honolulu blue over silver.
 
 **Did the Lions ever wear red?**
 
