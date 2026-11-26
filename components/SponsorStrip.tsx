@@ -12,7 +12,7 @@ export default function SponsorStrip({ sponsor }: { sponsor: Sponsor & { href: s
       target="_blank"
       rel="sponsored noopener"
       data-sponsor={sponsor.id}
-      className={`mt-4 flex flex-wrap ${sized ? "max-w-[600px]" : "max-w-[560px]"} items-center gap-x-3 gap-y-1.5 rounded-[10px] border border-[#d6dcf5] bg-[#f3f6ff] px-4 py-2.5 no-underline hover:border-[#0025CC]`}
+      className={`mt-4 flex ${sized ? "max-w-[600px]" : "max-w-[560px]"} items-center gap-3 rounded-[10px] border border-[#d6dcf5] bg-[#f3f6ff] px-4 py-2.5 no-underline hover:border-[#0025CC]`}
     >
       <span
         className={`text-[10px] font-extrabold uppercase leading-tight tracking-[0.16em] text-[#6b7280]${sized ? " max-w-[176px] shrink-0" : ""}`}
@@ -27,9 +27,7 @@ export default function SponsorStrip({ sponsor }: { sponsor: Sponsor & { href: s
         className={sized ? "w-auto shrink-0" : "h-[22px] w-auto shrink-0"}
         style={sized ? { boxShadow: "none", height: sponsor.logoDisplayHeight } : { boxShadow: "none" }}
       />
-      {/* Phones: the line sits on its own row under the logo, so readers see what
-          the sponsor sells and that the strip is a link (11/25). */}
-      <span className="basis-full text-[14px] font-semibold text-[#002fd9] sm:ml-auto sm:basis-auto sm:whitespace-nowrap sm:text-[13px]">
+      <span className="ml-auto hidden whitespace-nowrap text-[13px] font-semibold text-[#002fd9] sm:inline">
         {sponsor.line} →
       </span>
     </a>
