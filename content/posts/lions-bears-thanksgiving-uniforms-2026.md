@@ -86,6 +86,8 @@ So the last two times the Bears came to Detroit on Thanksgiving, the Lions were 
 - **The MFF decal.** A black "MFF" decal on the back of Detroit's helmets for Martha Firestone Ford, [per the team](https://x.com/Lions/status/2125992981895495707).
 - **The rest of the day.** Eagles at Cowboys followed at 4:30 p.m. ET with Dallas in its Classic throwback, and Chiefs at Bills closes the night at 8:20 p.m. ET. All five holiday-week games are in our [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) guide, and we log what both teams actually wear in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026). All six Thanksgiving Day uniforms in one table: [what every NFL team is wearing on Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026).
 
+**After the game:** [What the Lions and Bears wore on Thanksgiving 2026, the MFF decal and Detroit's Thanksgiving record by uniform](/stories/lions-bears-thanksgiving-what-they-wore-2026). The Bears' second chest patch is explained in [why the Bears have an 89 patch on their jerseys](/stories/why-do-the-bears-have-an-89-patch-on-their-jerseys).
+
 ## Frequently Asked Questions
 
 **What are the Lions wearing on Thanksgiving 2026?**

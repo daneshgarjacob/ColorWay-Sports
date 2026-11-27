@@ -3223,6 +3223,8 @@ What the Bears and Titans wore, helmet to pants. We log the combination and grad
 - [2026 NFL Alternate Uniform Tracker](/stories/nfl-alternate-uniform-tracker-2026). Every new alternate jersey and helmet reveal, graded
 - [What Is the NFL Rivalries Uniform Program?](/stories/what-is-the-nfl-rivalries-uniform-program). The league's newest alternate push, explained
 
+**From our log:** [the NFL uniforms that have not lost in 2026, and the ones that have not won](/stories/nfl-uniforms-undefeated-and-winless-2026).
+
 ## Frequently Asked Questions
 
 **What jerseys are NFL teams wearing tonight?**

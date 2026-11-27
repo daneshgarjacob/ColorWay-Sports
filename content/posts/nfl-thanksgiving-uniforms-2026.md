@@ -117,6 +117,8 @@ We will update this page as each team posts its game-week uniform, and the [2026
 - **The why stories:** [Why the Lions wear Honolulu blue](/stories/why-do-the-lions-wear-honolulu-blue), [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home), [what color the Cowboys' pants really are](/stories/what-color-are-the-cowboys-pants) and [how every NFL team got its colors](/stories/how-every-nfl-team-got-its-colors). The full shelf is on our [Explained](/explained) page.
 - **Christmas is next:** the Rivalries uniforms come back on December 25. [What the Rivalries program is](/stories/what-is-the-nfl-rivalries-uniform-program), and [every Rivalries uniform, ranked](/stories/nfl-rivalries-uniforms-2026-ranked).
 
+**After the games:** [what the Lions and Bears wore](/stories/lions-bears-thanksgiving-what-they-wore-2026), [what the Cowboys and Eagles wore](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026), and [every NFL uniform's record through Thanksgiving](/stories/nfl-uniforms-undefeated-and-winless-2026).
+
 ## FAQs
 
 **What are the Lions wearing on Thanksgiving 2026?**

@@ -73,6 +73,8 @@ The white helmet is the reason this works. The NFL's alternate-helmet rule is wh
 
 Bears at Lions opens the day at 1:00 p.m. ET, and Chiefs at Bills closes it at 8:20 p.m. ET. All five holiday-week games, Wednesday through Black Friday, are in our [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) guide, and we log what both teams actually wear in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026). All six Thanksgiving Day uniforms in one table: [what every NFL team is wearing on Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026).
 
+**After the game:** [What the Cowboys and Eagles wore on Thanksgiving 2026, and the Classic's first Thanksgiving loss](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026).
+
 ## Frequently Asked Questions
 
 **What are the Cowboys wearing on Thanksgiving 2026?**
