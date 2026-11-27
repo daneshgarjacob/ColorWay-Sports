@@ -2,7 +2,7 @@
 title: "Utah Mammoth And Avalanche Winter Classic Jerseys 2027: Every Detail And Our Grades"
 category: "NHL"
 date: "2026-11-18"
-updatedDate: "2026-11-24"
+updatedDate: "2026-11-26"
 excerpt: "The Mammoth and Avalanche revealed their 2027 Winter Classic jerseys for New Year's Eve at Rice-Eccles Stadium. Utah goes Mountain Blue and brown, with stripes from Hygeia Iceland, the state's first rink. Colorado goes cream with a burgundy Tuscan C and its first burgundy helmets. Every detail, the game info and our grades."
 gradient: "linear-gradient(135deg, #5fb4e5 0%, #4a2c1f 60%, #6F263D 120%)"
 author: "jake-daneshgar"
@@ -21,6 +21,8 @@ teams: ["utah-mammoth", "colorado-avalanche"]
 
 The NHL says both sweaters are "inspired by outdoor hockey played at the base of ski hills." Utah wears **Mountain Blue with brown and beige**. Colorado wears **cream-white with blue stripes and a burgundy "C"**, plus burgundy helmets for the first time in team history.
 
+**Update, November 26: Colorado will wear it twice.** The Avalanche will wear the Winter Classic jersey again at home, on **Monday, January 4 against the Vegas Golden Knights at Ball Arena**, per the team's [Instagram account](https://www.instagram.com/coloradoavalanche/). That is four days after the outdoor game, and the first time the cream sweater and burgundy helmets are seen in Denver.
+
 ## Quick Answers
 
 - **What Utah wears:** Mountain Blue jersey, beige stripes, an arched "UTAH" over a brown walking mammoth, brown pants and gloves, Mountain Blue helmet and socks.
@@ -28,6 +30,7 @@ The NHL says both sweaters are "inspired by outdoor hockey played at the base of
 - **Where Utah's look comes from:** Hygeia Iceland, Utah's first ice rink, in Sugar House. The stripes honor the rink and the "UTAH" lettering copies the old Hygeia Ice Co. signs.
 - **Where Colorado's look comes from:** 19th-century Rocky Mountain town signs and the railway lines that tied them to Denver, plus vertical yoke stripes from historic Colorado hockey jerseys.
 - **When:** Thursday, December 31, 2026, 6 p.m. ET, Rice-Eccles Stadium.
+- **Will Colorado wear it again?** Yes: Monday, January 4, 2027, at home against Vegas.
 - **Our grades:** Utah **A+**. Colorado **C+**.
 
 ## The Utah Mammoth Winter Classic Jersey
@@ -129,6 +132,14 @@ Both jerseys went on sale the morning of the reveal. The NHL says they are avail
 **What do the Utah Mammoth Winter Classic jerseys look like?**
 
 Mountain Blue with beige stripes, an arched beige "UTAH" over a brown walking mammoth, brown numbers and nameplate letters, brown pants and gloves, a Mountain Blue helmet with "Utah" in script and Mountain Blue socks with beige stripes.
+
+**Will the Avalanche wear the Winter Classic jersey more than once?**
+
+Yes. After the outdoor game at Utah on December 31, Colorado will wear it at Ball Arena on Monday, January 4, 2027 against the Vegas Golden Knights, per the team.
+
+**When do the Avalanche wear the Winter Classic jersey at home?**
+
+Monday, January 4, 2027, against the Golden Knights. It is the only home date announced so far.
 
 **What do the Colorado Avalanche Winter Classic jerseys look like?**
 
