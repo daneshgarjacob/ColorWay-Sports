@@ -2,7 +2,7 @@
 title: "Bills Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-24"
+updatedDate: "2026-11-26"
 excerpt: "Bills uniform schedule 2026, week by week: two Nickel City games, Cold Front vs. Miami, the red alternate finale and the red helmet on Christmas Day."
 gradient: "linear-gradient(135deg, #00338D 0%, #0a1a3a 55%, #C60C30 130%)"
 coverImage: "/images/posts/bills-uniform-schedule-2026/cover.jpg"
@@ -110,7 +110,7 @@ The Bills close the regular season in red against the New York Jets, a home fina
 <div style="background: #f7f8fa; border: 1px solid #e3e6ec; border-radius: 12px; padding: 18px 16px 12px; text-align: center; margin: 1.25em 0 0.4em;"><img src="/images/posts/bills-uniform-schedule-2026/bills-blue-primary.png" alt="Buffalo Bills royal blue primary jersey 2026 with white numbers outlined in red and striped sleeves, front and back" style="max-height: 340px; max-width: 100%; object-fit: contain;" /><p style="font-size: 0.72em; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; color: #5b6474; margin: 12px 0 0;">Blue Primary</p></div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0 0 1.5em;">Image: Nike product shot via the Buffalo Bills team store.</p>
 
-The blue jersey remains the base, and it draws the four biggest non-alternate home dates on the calendar: the Week 2 home opener against the Detroit Lions on Thursday, September 17, which is also the first regular-season game at the new Highmark Stadium, then Crucial Catch against the New England Patriots in Week 4, Native American Heritage against the Baltimore Ravens in Week 8, and Thanksgiving night against the Kansas City Chiefs in Week 12. Royal blue over white with the white helmet is the look most people picture when they picture the Bills, and the team clearly wanted it for the moments that matter most. Opening a new stadium in it is the tell. **Confirmed November 24:** for Thanksgiving night against Kansas City the Bills posted "Thanksgiving Threads," labeled "Blue Blue White": the **white helmet, royal blue jersey, royal blue pants and white socks**. [What both teams wear on Thanksgiving night](/stories/bills-chiefs-thanksgiving-uniforms-2026).
+The blue jersey remains the base, and it draws the four biggest non-alternate home dates on the calendar: the Week 2 home opener against the Detroit Lions on Thursday, September 17, which is also the first regular-season game at the new Highmark Stadium, then Crucial Catch against the New England Patriots in Week 4, Native American Heritage against the Baltimore Ravens in Week 8, and Thanksgiving night against the Kansas City Chiefs in Week 12. Royal blue over white with the white helmet is the look most people picture when they picture the Bills, and the team clearly wanted it for the moments that matter most. Opening a new stadium in it is the tell. **Confirmed November 24:** for Thanksgiving night against Kansas City the Bills posted "Thanksgiving Threads," labeled "Blue Blue White": the **white helmet, royal blue jersey, royal blue pants and white socks**, and that is what Buffalo wore in a 13-10 win on Tyler Bass's 57-yard field goal at the gun. [What the Bills and Chiefs wore on Thanksgiving](/stories/bills-chiefs-thanksgiving-what-they-wore-2026).
 
 
 ## The White Road Set (8 Games, Expected)
@@ -167,7 +167,7 @@ How does every one of these jerseys stack up? See our [Bills jerseys 2026 rankin
 
 **What jersey are the Bills wearing today?**
 
-Week 11 against Miami, November 22, worn: Cold Front, the white metal-flake helmet, white jersey and white pants, confirmed from the team's game photos. The Dolphins wore aqua over aqua pants, and Buffalo won 26-9. We grade the matchup an A-. Next up is Week 12 against Kansas City on Thanksgiving night, Thursday, November 26, in the royal blue primary with **royal blue pants**, white socks and the white helmet, confirmed in the team's "Thanksgiving Threads" post on November 24. This answer updates every week. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
+Week 12 against Kansas City on Thanksgiving night, Thursday, November 26, worn: the white helmet, royal blue jersey, **royal blue pants** and white socks, as the team posted in "Thanksgiving Threads" on November 24 and as its game footage shows. The Chiefs wore the red helmet, white jersey and red pants, and Buffalo won 13-10 on Tyler Bass's 57-yard field goal as time expired. We grade the matchup a B+. Next up is Week 13 at New England on Sunday, December 6, at 4:25 p.m. ET on CBS, in the white road set. This answer updates every week. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
 
 **What color are the Bills end zones for the home opener?**
 
@@ -175,7 +175,7 @@ Red. Bills Mafia voted for red end zones in an official poll posted by team COO 
 
 **What jerseys are the Bills wearing this week?**
 
-Week 11 against Miami, November 22, worn: Cold Front, the white metal-flake helmet, white jersey and white pants, confirmed from the team's game photos. The Dolphins wore aqua over aqua pants, and Buffalo won 26-9. We grade the matchup an A-. Next up is Week 12 against Kansas City on Thanksgiving night, Thursday, November 26, in the royal blue primary with **royal blue pants**, white socks and the white helmet, confirmed in the team's "Thanksgiving Threads" post on November 24. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
+Week 12 against Kansas City on Thanksgiving night, Thursday, November 26, worn: the white helmet, royal blue jersey, **royal blue pants** and white socks, as the team posted in "Thanksgiving Threads" on November 24 and as its game footage shows. The Chiefs wore the red helmet, white jersey and red pants, and Buffalo won 13-10 on Tyler Bass's 57-yard field goal as time expired. We grade the matchup a B+. Next up is Week 13 at New England on Sunday, December 6, at 4:25 p.m. ET on CBS, in the white road set. For the rest of the season: Buffalo has the most crowded home calendar in the league, so the week matters more here than the venue. The blue primary has four confirmed home dates (Weeks 2, 4, 8 and 12), Nickel City gray gets Weeks 3 and 15, Cold Front is Week 11 against Miami, and the red alternate closes the season in Week 18. Road games are the white set.
 
 **What uniform did the Bills wear last week?**
 
@@ -183,7 +183,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Bills wearing next week?**
 
-Check the grid above rather than guessing, because Buffalo confirmed its home schedule and it rotates four different looks. Every road week is white.
+White at New England in Week 13, Sunday, December 6, then white at Green Bay in Week 14: both are road games, and every road week is white. For home games, check the grid above, because Buffalo confirmed its home schedule and it rotates four different looks.
 
 **What jerseys do the Bills have in 2026?**
 

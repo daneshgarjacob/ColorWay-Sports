@@ -13,7 +13,7 @@ league: nfl
 teams: ["detroit-lions", "chicago-bears", "dallas-cowboys", "philadelphia-eagles", "buffalo-bills", "kansas-city-chiefs"]
 ---
 
-Three games, six teams, one Thursday. Here is what every NFL team is wearing on Thanksgiving 2026, **Thursday, November 26**, with the helmet, jersey and pants spelled out in colors. The headline look was in Arlington: **the Cowboys wore their 1960s Classic throwback against the Eagles** for the fifth straight Thanksgiving and lost in it on the holiday for the first time, 39-38. Detroit opened the day at home against Chicago and lost 39-35, in Honolulu blue and silver pants, not the 1934 throwback. Buffalo hosts Kansas City at night.
+Three games, six teams, one Thursday. Here is what every NFL team is wearing on Thanksgiving 2026, **Thursday, November 26**, with the helmet, jersey and pants spelled out in colors. The headline look was in Arlington: **the Cowboys wore their 1960s Classic throwback against the Eagles** for the fifth straight Thanksgiving and lost in it on the holiday for the first time, 39-38. Detroit opened the day at home against Chicago and lost 39-35, in Honolulu blue and silver pants, not the 1934 throwback. Buffalo beat Kansas City 13-10 at night in blue over blue, on a 57-yard field goal as time expired.
 
 Each look carries one of three labels:
 
@@ -33,8 +33,8 @@ Each look carries one of three labels:
 <tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bears<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Worn</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy</td></tr>
 <tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Cowboys<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Worn</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, vintage star</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy, white shoulders with stars</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, navy stripes</td></tr>
 <tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Eagles<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Worn</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Midnight green</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Midnight green</td></tr>
-<tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bills<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Confirmed</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Royal blue</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Royal blue</td></tr>
-<tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Chiefs<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Expected</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Red</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Red (white worn once)</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bills<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Worn</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Royal blue</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Royal blue</td></tr>
+<tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Chiefs<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Worn</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Red</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Red</td></tr>
 </tbody>
 </table>
 </div>
@@ -97,9 +97,11 @@ The full game page, with the Cowboys' Thanksgiving history and our grade: [What 
 
 ## Chiefs At Bills: 8:20 p.m. ET, NBC
 
-### What The Bills Are Wearing (Confirmed)
+**Final: Bills 13, Chiefs 10.** Tyler Bass kicked a 57-yard field goal as time expired. Both looks below are confirmed from the teams' own posts and the game footage the Bills posted.
 
-**White helmet with the red charging buffalo, royal blue jersey, royal blue pants, white socks.** Buffalo published the jersey for every 2026 home game before the season, and Thanksgiving night is the royal blue primary. On November 24 the Bills posted the full combination as "Thanksgiving Threads," labeled "Blue Blue White." It is the first Thanksgiving game at the new Highmark Stadium. Buffalo's red helmet is saved for Christmas Day at Denver. Every date is in our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
+### What The Bills Wore (Worn)
+
+**White helmet with the red charging buffalo, royal blue jersey, royal blue pants, white socks.** Buffalo published the jersey for every 2026 home game before the season, and Thanksgiving night is the royal blue primary. On November 24 the Bills posted the full combination as "Thanksgiving Threads," labeled "Blue Blue White." It was the first Thanksgiving game at the new Highmark Stadium, and Buffalo wore exactly what it posted. Buffalo's red helmet is saved for Christmas Day at Denver. Every date is in our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2125279230502265049"></a></blockquote>
@@ -107,9 +109,9 @@ The full game page, with the Cowboys' Thanksgiving history and our grade: [What 
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">"Thanksgiving Threads," the Bills' Week 12 uniform, via <a href="https://x.com/BuffaloBills" target="_blank" rel="noopener">@BuffaloBills</a></p>
 
-### What The Chiefs Are Wearing (Expected)
+### What The Chiefs Wore (Worn)
 
-**Red helmet, white jersey, red pants.** Kansas City wears white on the road, and red pants are its usual pairing; the one change this season was white on white at Seattle on Sunday night in October. Our [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) has the white jersey for Buffalo. Kansas City has worn only its red home and white road jerseys this season, so the open question is the pants.
+**Red helmet, white jersey, red pants.** Kansas City wears white on the road, and red pants are its usual pairing; the one change this season was white on white at Seattle on Sunday night in October. Our [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) had the white jersey for Buffalo. Kansas City has worn only its red home and white road jerseys this season, so the open question was the pants, and they were red, as the team's pregame photos and the game footage show.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Chiefs/status/2113805587687596408"></a></blockquote>
@@ -117,7 +119,7 @@ The full game page, with the Cowboys' Thanksgiving history and our grade: [What 
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Chiefs' white road jersey, worn white on white at Seattle in October, via <a href="https://x.com/Chiefs" target="_blank" rel="noopener">@Chiefs</a></p>
 
-The full game page and our grade: [What Are The Bills Wearing On Thanksgiving 2026?](/stories/bills-chiefs-thanksgiving-uniforms-2026)
+The full game page and our grade: [What Are The Bills Wearing On Thanksgiving 2026?](/stories/bills-chiefs-thanksgiving-uniforms-2026). After the game: [what the Bills and Chiefs wore](/stories/bills-chiefs-thanksgiving-what-they-wore-2026).
 
 ## The Patch Every Player Wears
 
@@ -135,7 +137,7 @@ All six teams wear the round [John Madden Thanksgiving patch](/stories/john-madd
 
 **What is every NFL team wearing on Thanksgiving 2026?**
 
-Lions: silver helmet, Honolulu blue jersey, silver pants (worn; Bears won 39-35). Bears: navy helmet, white jersey, navy pants (worn). Cowboys: the 1960s Classic throwback, white helmet, navy jersey, white pants (worn; Eagles won 39-38). Eagles: midnight green helmet, white jersey, midnight green pants (worn). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Chiefs: red helmet, white jersey, red pants (expected).
+Lions: silver helmet, Honolulu blue jersey, silver pants (worn; Bears won 39-35). Bears: navy helmet, white jersey, navy pants (worn). Cowboys: the 1960s Classic throwback, white helmet, navy jersey, white pants (worn; Eagles won 39-38). Eagles: midnight green helmet, white jersey, midnight green pants (worn). Bills: white helmet, royal blue jersey, royal blue pants (worn; Bills won 13-10). Chiefs: red helmet, white jersey, red pants (worn).
 
 **What are the Lions wearing on Thanksgiving 2026?**
 
@@ -167,11 +169,11 @@ No. Kelly Green is set for Weeks 9 and 16, and a green jersey cannot be worn aga
 
 **What are the Bills wearing on Thanksgiving?**
 
-Blue over blue: the white helmet, royal blue jersey, royal blue pants and white socks, confirmed in the Bills' "Thanksgiving Threads" post on November 24.
+Blue over blue: the white helmet, royal blue jersey, royal blue pants and white socks, confirmed in the Bills' "Thanksgiving Threads" post on November 24 and worn that way. Buffalo beat Kansas City 13-10.
 
 **What are the Chiefs wearing on Thanksgiving?**
 
-We expect the red helmet, white jersey and red pants. Kansas City wore white pants with the white jersey once this season, at Seattle in October, so the pants are the one piece to watch.
+The red helmet, white jersey and red pants. Kansas City wore white pants with the white jersey once this season, at Seattle in October, but it was red pants at Buffalo, and the Chiefs lost 13-10.
 
 **What time are the NFL games on Thanksgiving 2026?**
 

@@ -2,7 +2,7 @@
 title: "Kansas City Chiefs Jerseys & Uniforms 2026: Week-by-Week Schedule"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-26"
 excerpt: "The Chiefs 2026 uniform schedule: red at home, white on the road except red at Miami, no new alternate, and the one combination that passes for variety."
 gradient: "linear-gradient(135deg, #E31837 0%, #7d0d1f 55%, #FFB81C 130%)"
 cardStyle: words
@@ -60,7 +60,7 @@ There is a strong argument that the Chiefs simply got it right the first time. T
 
 ## The White Road Set (8 Games)
 
-White jersey, red pants, red helmet. The one change so far was **white on white at Seattle** on Sunday night in Week 7: the red helmet, white jersey and white pants, posted by the team as "White on white on Sunday night" and confirmed from its game photos. Eight of the nine road games, everything but Week 3 at Miami, where Kansas City wears red because the Dolphins are in white, including the two Thursday dates that bookend the back half of the season: Thanksgiving at Buffalo on November 26 and the following Thursday at the Rams on December 3. Both of those are worth circling for a different reason, because in each one the Chiefs are the plain half of the frame. Buffalo has its blue primary that night and the Rams are in the gold Classic Sol, so Kansas City in road whites is the neutral backdrop twice in eight days.
+White jersey, red pants, red helmet. The one change so far was **white on white at Seattle** on Sunday night in Week 7: the red helmet, white jersey and white pants, posted by the team as "White on white on Sunday night" and confirmed from its game photos. Eight of the nine road games, everything but Week 3 at Miami, where Kansas City wears red because the Dolphins are in white, including the two Thursday dates that bookend the back half of the season: Thanksgiving at Buffalo on November 26 and the following Thursday at the Rams on December 3. Both of those are worth circling for a different reason, because in each one the Chiefs are the plain half of the frame. Buffalo had its blue primary that night and the Rams are in the gold Classic Sol, so Kansas City in road whites is the neutral backdrop twice in eight days. At Buffalo it was the red helmet, white jersey and red pants, a 13-10 loss on a 57-yard field goal as time expired ([what both teams wore](/stories/bills-chiefs-thanksgiving-what-they-wore-2026)).
 
 
 ## The Red-on-Red Wrinkle
@@ -83,11 +83,11 @@ How does every one of these jerseys stack up? See our [Chiefs jerseys 2026 ranki
 
 **What jersey are the Chiefs wearing today?**
 
-Week 11 against Arizona, November 22, worn: red helmet, red jersey and white pants, confirmed from the team's game photos. The Cardinals wore all white, and Kansas City won 34-7. We grade the matchup a B. Next up is Week 12 at Buffalo on Thanksgiving night, Thursday, November 26, expected in white with the red helmet. This answer updates every week. For the rest of the season: Red if Kansas City is at Arrowhead, white if they are on the road, with one exception: red at Miami in Week 3, since the Dolphins wear white at home. That is nearly the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
+Week 12 at Buffalo on Thanksgiving night, Thursday, November 26, worn: red helmet, white jersey and red pants, confirmed from the team's pregame photos and the game footage. The Bills wore blue over blue with the white helmet and won 13-10 on a 57-yard field goal as time expired. We grade the matchup a B+. Next up is Week 13 at the Rams on Thursday, December 3, at 8:15 p.m. ET on Prime Video, in white, where Los Angeles wears its gold Classic Sol. This answer updates every week. For the rest of the season: Red if Kansas City is at Arrowhead, white if they are on the road, with one exception: red at Miami in Week 3, since the Dolphins wear white at home. That is nearly the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
 
 **What jerseys are the Chiefs wearing this week?**
 
-Week 11 against Arizona, November 22, worn: red helmet, red jersey and white pants, confirmed from the team's game photos. The Cardinals wore all white, and Kansas City won 34-7. We grade the matchup a B. Next up is Week 12 at Buffalo on Thanksgiving night, Thursday, November 26, expected in white with the red helmet. For the rest of the season: Red if Kansas City is at Arrowhead, white if they are on the road, with one exception: red at Miami in Week 3, since the Dolphins wear white at home. That is nearly the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
+Week 12 at Buffalo on Thanksgiving night, Thursday, November 26, worn: red helmet, white jersey and red pants, confirmed from the team's pregame photos and the game footage. The Bills wore blue over blue with the white helmet and won 13-10 on a 57-yard field goal as time expired. We grade the matchup a B+. Next up is Week 13 at the Rams on Thursday, December 3, at 8:15 p.m. ET on Prime Video, in white, where Los Angeles wears its gold Classic Sol. For the rest of the season: Red if Kansas City is at Arrowhead, white if they are on the road, with one exception: red at Miami in Week 3, since the Dolphins wear white at home. That is nearly the whole answer. The Chiefs are the most conservative uniform team in the league and have no alternate, no throwback and nothing announced for 2026, so the only variable is home or away.
 
 **What uniform did the Chiefs wear last week?**
 
@@ -95,7 +95,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Chiefs wearing next week?**
 
-Red at home, white on the road, except Week 3 at Miami in red. Nine games in red, eight in white, and no alternates to complicate it.
+White at the Rams in Week 13, Thursday, December 3, against Los Angeles in the gold Classic Sol, then white at Cincinnati in Week 14. Red at home, white on the road, except Week 3 at Miami in red. Nine games in red, eight in white, and no alternates to complicate it.
 
 **What jerseys do the Chiefs have in 2026?**
 

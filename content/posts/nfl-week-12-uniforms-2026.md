@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 12 of the 2026 NFL season is Thanksgiving week, and it runs six days, from Wednesday, November 25 to Monday, November 30: 16 games, no byes, and football on five of the six days. It opened with the first Thanksgiving Eve game in NFL history, a 26-13 Rams win over the Packers on Netflix, with Los Angeles in Fearsome White, and has three games on Thanksgiving Day, the first a 39-35 Bears win at Detroit with the Lions in Honolulu blue, not a throwback, the second a 39-38 Eagles win at Dallas with the Cowboys in the 1960s Classic, and the first Black Friday game in Steelers history, and ends on Monday night in Tampa. Four teams have already posted their full look for the week. **The Rams confirmed Fearsome White**, the Bills confirmed **blue over blue** for Thanksgiving night, the Bengals confirmed black over orange pants for the Saints, and on Tuesday the Steelers announced the **all-black Color Rush** for Black Friday, not the gold 1933 throwback we had on that date. The Packers posted green over gold pants on Monday.
+Week 12 of the 2026 NFL season is Thanksgiving week, and it runs six days, from Wednesday, November 25 to Monday, November 30: 16 games, no byes, and football on five of the six days. It opened with the first Thanksgiving Eve game in NFL history, a 26-13 Rams win over the Packers on Netflix, with Los Angeles in Fearsome White, and has three games on Thanksgiving Day, the first a 39-35 Bears win at Detroit with the Lions in Honolulu blue, not a throwback, the second a 39-38 Eagles win at Dallas with the Cowboys in the 1960s Classic, the third a 13-10 Bills win over the Chiefs on a 57-yard field goal at the gun, and the first Black Friday game in Steelers history, and ends on Monday night in Tampa. Four teams have already posted their full look for the week. **The Rams confirmed Fearsome White**, the Bills confirmed **blue over blue** for Thanksgiving night, the Bengals confirmed black over orange pants for the Saints, and on Tuesday the Steelers announced the **all-black Color Rush** for Black Friday, not the gold 1933 throwback we had on that date. The Packers posted green over gold pants on Monday.
 
 Below is every Week 12 look we know, special ones first and then the rest of the games in kickoff order. **Confirmed** means the team has posted the jersey or the full combination for this game. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, with the reason, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
 
@@ -69,20 +69,20 @@ Denver published its jersey for all 17 games, and Week 12 is **Summit White**, *
 
 All black with gold numbers against white, navy and orange is a sharp game, and the black pants make the Color Rush a step up from the standard home set. It is still not the gold helmet on the first Black Friday game in team history. Our matchup grade: **B+**. Every detail: [what the Steelers are wearing on Black Friday](/stories/steelers-broncos-black-friday-uniforms-2026). See the [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026).
 
-### Kansas City Chiefs At Buffalo Bills: Blue Over Blue On Thanksgiving Night
+### Kansas City Chiefs At Buffalo Bills: Blue Over Blue On Thanksgiving Night (Final: Bills 13, Chiefs 10)
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2125279230502265049"></a></blockquote>
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">"Thanksgiving Threads", via <a href="https://x.com/BuffaloBills" target="_blank" rel="noopener">@BuffaloBills</a></p>
 
-**Thursday, 8:20 p.m. ET, NBC.** Buffalo published the jersey for every 2026 home game before the season, and Thanksgiving night is the royal blue primary. On Tuesday the Bills posted the full combination, "Thanksgiving Threads," labeled "Blue Blue White": the **white helmet, royal blue jersey, royal blue pants and white socks**. Blue pants, not the white we had listed. It is the first Thanksgiving game at the new Highmark Stadium.
+**Thursday, 8:20 p.m. ET, NBC. Final: Bills 13, Chiefs 10.** Buffalo published the jersey for every 2026 home game before the season, and Thanksgiving night is the royal blue primary. On Tuesday the Bills posted the full combination, "Thanksgiving Threads," labeled "Blue Blue White": the **white helmet, royal blue jersey, royal blue pants and white socks**. Blue pants, not the white we had listed. It was the first Thanksgiving game at the new Highmark Stadium, and Buffalo wore exactly that, as the game footage the Bills posted shows.
 
-Kansas City is **expected** in its road look, the **red helmet, white jersey and red pants**. The Chiefs have worn white on every trip this season except Miami, where the Dolphins wore white at home.
+Kansas City wore its road look, the **red helmet, white jersey and red pants**, confirmed from the team's own pregame photos and the game footage. The Chiefs have worn white on every trip this season except Miami, where the Dolphins wore white at home. Tyler Bass won it with a 57-yard field goal as time expired.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-white-road.jpg" alt="Kansas City Chiefs white road jersey, expected with red pants at Buffalo on Thanksgiving night in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs &middot; Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg" alt="Buffalo Bills royal blue jersey, confirmed with royal blue pants against the Chiefs on Thanksgiving night in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills &middot; Confirmed</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-white-road.jpg" alt="Kansas City Chiefs white road jersey, worn with red pants at Buffalo on Thanksgiving night in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs &middot; Worn</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg" alt="Buffalo Bills royal blue jersey, worn with royal blue pants against the Chiefs on Thanksgiving night in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills &middot; Worn</figcaption></figure></div>
 
-A royal blue jersey and royal blue pants under a white helmet, against red and white, is about as American as football gets on Thanksgiving night. It is two standard uniforms, though, on a holiday when Dallas is in a throwback. Our matchup grade: **B+**. More in [what the Bills are wearing on Thanksgiving](/stories/bills-chiefs-thanksgiving-uniforms-2026). See the [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026) and the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026).
+A royal blue jersey and royal blue pants under a white helmet, against red and white, is about as American as football gets on Thanksgiving night. It is two standard uniforms, though, on a holiday when Dallas is in a throwback. Our matchup grade: **B+**. More in [what the Bills wore on Thanksgiving](/stories/bills-chiefs-thanksgiving-what-they-wore-2026). See the [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026) and the [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026).
 
 ### New Orleans Saints At Cincinnati Bengals: All White Against Black And Orange
 
@@ -139,7 +139,7 @@ Navy head to toe against white is clean, and it is a far better Chargers look th
 - **Wednesday, 8:00 p.m. ET, Netflix:** Packers at Rams, green and gold against Fearsome White. Both worn as confirmed. Final: Rams 26, Packers 13.
 - **Thursday, 1:00 p.m. ET, CBS:** Bears at Lions, white against Honolulu blue. Final: Bears 39, Lions 35.
 - **Thursday, 4:30 p.m. ET, FOX:** Eagles at Cowboys, white over midnight green against the Classic throwback. Both worn as confirmed. Final: Eagles 39, Cowboys 38.
-- **Thursday, 8:20 p.m. ET, NBC:** Chiefs at Bills, white against blue over blue.
+- **Thursday, 8:20 p.m. ET, NBC:** Chiefs at Bills, white against blue over blue. Both worn as expected. Final: Bills 13, Chiefs 10.
 - **Friday, 3:00 p.m. ET, Prime Video:** Broncos at Steelers, Summit White against the all-black Color Rush.
 - **Sunday, 8:20 p.m. ET, NBC:** Raiders at Browns, flexed into Sunday night, white against brown.
 - **Monday, 8:15 p.m. ET, ESPN:** Panthers at Buccaneers, white against red.
@@ -212,7 +212,7 @@ Every player in the three Thanksgiving Day games wears the round [John Madden Th
 
 - **Chicago Bears at Detroit Lions**, 1:00 p.m. ET, CBS. Bears: navy helmet, white jersey, navy pants (worn). Lions: silver helmet, Honolulu blue jersey, silver pants (confirmed). Matchup grade: B+. Final: Bears 39, Lions 35, both looks confirmed from ESPN's game photos.
 - **Philadelphia Eagles at Dallas Cowboys**, 4:30 p.m. ET, FOX. Eagles: midnight green helmet, white jersey, midnight green pants (worn). Cowboys: the 1960s Classic, white helmet with the vintage star, navy jersey, white pants (worn). Matchup grade: A-. Final: Eagles 39, Cowboys 38, both looks confirmed from ESPN's game photos.
-- **Kansas City Chiefs at Buffalo Bills**, 8:20 p.m. ET, NBC. Chiefs: red helmet, white jersey, red pants (expected). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Matchup grade: B+.
+- **Kansas City Chiefs at Buffalo Bills**, 8:20 p.m. ET, NBC. Chiefs: red helmet, white jersey, red pants (worn). Bills: white helmet, royal blue jersey, royal blue pants (worn). Matchup grade: B+. Final: Bills 13, Chiefs 10.
 
 ### Friday, November 27 (Black Friday)
 
@@ -249,7 +249,7 @@ Week 12 has more holiday football than any week of the year and three of its fou
 
 **What uniforms are NFL teams wearing in Week 12 of 2026?**
 
-Week 12 is Thanksgiving week. The Rams wore Fearsome White and beat the Packers 26-13 on Wednesday night, the Lions wore Honolulu blue, not a throwback, in a 39-35 loss to the Bears on Thanksgiving afternoon, the Cowboys wore their 1960s Classic throwback in a 39-38 loss to the Eagles on Thanksgiving, the Bills wear blue over blue against the Chiefs on Thanksgiving night, and the Steelers wear the all-black Color Rush against the Broncos on Black Friday. On Sunday the Cardinals wear their black alternate against Washington, the Chargers wear navy Super Chargers against New England and the Saints wear their white alternate at Cincinnati. Most other teams wear their standard sets, home in color and visitors in white.
+Week 12 is Thanksgiving week. The Rams wore Fearsome White and beat the Packers 26-13 on Wednesday night, the Lions wore Honolulu blue, not a throwback, in a 39-35 loss to the Bears on Thanksgiving afternoon, the Cowboys wore their 1960s Classic throwback in a 39-38 loss to the Eagles on Thanksgiving, the Bills wore blue over blue and beat the Chiefs 13-10 on Thanksgiving night, and the Steelers wear the all-black Color Rush against the Broncos on Black Friday. On Sunday the Cardinals wear their black alternate against Washington, the Chargers wear navy Super Chargers against New England and the Saints wear their white alternate at Cincinnati. Most other teams wear their standard sets, home in color and visitors in white.
 
 **What are the Steelers wearing on Black Friday?**
 
@@ -269,7 +269,7 @@ Detroit wore Honolulu blue at home against Chicago with the silver helmet and si
 
 **What are the Bills wearing against the Chiefs?**
 
-Blue over blue: white helmet, royal blue jersey, royal blue pants and white socks, from the Bills' "Thanksgiving Threads" post on November 24. We expect Kansas City in the red helmet, white jersey and red pants.
+Blue over blue: white helmet, royal blue jersey, royal blue pants and white socks, from the Bills' "Thanksgiving Threads" post on November 24 and worn that way. Kansas City wore the red helmet, white jersey and red pants. Buffalo won 13-10.
 
 **What are the Bengals wearing against the Saints?**
 

@@ -14,7 +14,7 @@ coverImagePosition: "center 25%"
 homepageHero: "2026-11-26"
 ---
 
-Thanksgiving week 2026 has five NFL games in three days: the league's first Thanksgiving Eve game on Wednesday, November 25, three games on Thanksgiving Thursday, November 26, and a Black Friday game on November 27. The two biggest looks are already on the teams' own published schedules. **The Rams wear their new Fearsome White alternate against the Packers on Wednesday night**, its only date of the season, and **Dallas wore its 1960s Classic throwback against Philadelphia** for the fifth straight Thanksgiving, as published on the Cowboys' own uniform schedule, and lost in it on the holiday for the first time, 39-38. Detroit hosts Chicago in the early game, Buffalo hosts Kansas City at night in blue over blue, and Pittsburgh hosts Denver the next afternoon in the **all-black Color Rush**, which the Steelers announced on November 24.
+Thanksgiving week 2026 has five NFL games in three days: the league's first Thanksgiving Eve game on Wednesday, November 25, three games on Thanksgiving Thursday, November 26, and a Black Friday game on November 27. The two biggest looks are already on the teams' own published schedules. **The Rams wear their new Fearsome White alternate against the Packers on Wednesday night**, its only date of the season, and **Dallas wore its 1960s Classic throwback against Philadelphia** for the fifth straight Thanksgiving, as published on the Cowboys' own uniform schedule, and lost in it on the holiday for the first time, 39-38. Detroit hosts Chicago in the early game, Buffalo beat Kansas City 13-10 at night in blue over blue, and Pittsburgh hosts Denver the next afternoon in the **all-black Color Rush**, which the Steelers announced on November 24.
 
 Every look below carries one of three labels, and we keep them separate:
 
@@ -75,7 +75,9 @@ The last time these two met on Thanksgiving, in 2024, Detroit wore its all-blue 
 
 ## Chiefs at Bills, 8:20 p.m. ET on NBC
 
-**Bills: royal blue over blue pants (Confirmed).** Buffalo published the jersey for every 2026 home game before the season, and Thanksgiving night against Kansas City is the blue primary. On November 24 the Bills posted "Thanksgiving Threads": **white helmet, royal blue jersey, royal blue pants and white socks**.
+**Final: Bills 13, Chiefs 10.** Tyler Bass kicked a 57-yard field goal as time expired. Both teams wore what we list below, confirmed from the teams' own posts and the game footage the Bills posted: Buffalo in the white helmet, royal blue jersey and royal blue pants, and Kansas City in the red helmet, white jersey and red pants.
+
+**Bills: royal blue over blue pants (Worn).** Buffalo published the jersey for every 2026 home game before the season, and Thanksgiving night against Kansas City is the blue primary. On November 24 the Bills posted "Thanksgiving Threads": **white helmet, royal blue jersey, royal blue pants and white socks**.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/BuffaloBills/status/2125279230502265049"></a></blockquote>
@@ -83,9 +85,9 @@ The last time these two met on Thanksgiving, in 2024, Detroit wore its all-blue 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Bills' Thanksgiving uniform, via <a href="https://x.com/BuffaloBills" target="_blank" rel="noopener">@BuffaloBills</a></p>
  See our [Bills 2026 uniform schedule](/stories/bills-uniform-schedule-2026).
 
-**Chiefs: white road jersey (Expected).** Kansas City has worn white on the road all season except at Miami, where the Dolphins wore white. Our [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) has the standard road set for Buffalo: red helmet, white jersey, red pants. The full game page: [What Are The Bills Wearing On Thanksgiving 2026?](/stories/bills-chiefs-thanksgiving-uniforms-2026)
+**Chiefs: white road jersey (Worn).** Kansas City has worn white on the road all season except at Miami, where the Dolphins wore white. It wore the standard road set at Buffalo, as our [Chiefs 2026 uniform schedule](/stories/chiefs-uniform-schedule-2026) projected: red helmet, white jersey, red pants. The full game page: [What Are The Bills Wearing On Thanksgiving 2026?](/stories/bills-chiefs-thanksgiving-uniforms-2026), and after the game: [what the Bills and Chiefs wore](/stories/bills-chiefs-thanksgiving-what-they-wore-2026).
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-white-road.jpg" alt="Kansas City Chiefs white road jersey, expected at Buffalo on Thanksgiving night 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg" alt="Buffalo Bills royal blue home jersey, confirmed with royal blue pants for Thanksgiving night 2026 against the Chiefs" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Confirmed</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/chiefs-white-road.jpg" alt="Kansas City Chiefs white road jersey, worn with red pants at Buffalo on Thanksgiving night 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Chiefs · Worn</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg" alt="Buffalo Bills royal blue home jersey, worn with royal blue pants on Thanksgiving night 2026 against the Chiefs" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Bills · Worn</figcaption></figure></div>
 
 ## Black Friday: Broncos at Steelers, 3:00 p.m. ET on Prime Video
 
@@ -119,7 +121,7 @@ We will update this page as each team posts its game-week uniform, and the [2026
 - **The why stories:** [Why the Lions wear Honolulu blue](/stories/why-do-the-lions-wear-honolulu-blue), [why the Cowboys wear white at home](/stories/why-do-the-cowboys-wear-white-at-home), [what color the Cowboys' pants really are](/stories/what-color-are-the-cowboys-pants) and [how every NFL team got its colors](/stories/how-every-nfl-team-got-its-colors). The full shelf is on our [Explained](/explained) page.
 - **Christmas is next:** the Rivalries uniforms come back on December 25. [What the Rivalries program is](/stories/what-is-the-nfl-rivalries-uniform-program), and [every Rivalries uniform, ranked](/stories/nfl-rivalries-uniforms-2026-ranked).
 
-**After the games:** [what the Lions and Bears wore](/stories/lions-bears-thanksgiving-what-they-wore-2026), [what the Cowboys and Eagles wore](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026), and [every NFL uniform's record through Thanksgiving](/stories/nfl-uniforms-undefeated-and-winless-2026).
+**After the games:** [what the Lions and Bears wore](/stories/lions-bears-thanksgiving-what-they-wore-2026), [what the Cowboys and Eagles wore](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026), [what the Bills and Chiefs wore](/stories/bills-chiefs-thanksgiving-what-they-wore-2026), and [every NFL uniform's record through Thanksgiving](/stories/nfl-uniforms-undefeated-and-winless-2026).
 
 ## FAQs
 
@@ -149,7 +151,7 @@ Bears at Lions at 1:00 p.m. ET on CBS, Eagles at Cowboys at 4:30 p.m. ET on FOX,
 
 **What are the Bills wearing against the Chiefs on Thanksgiving?**
 
-Blue over blue: the white helmet, royal blue jersey and royal blue pants with white socks, confirmed in the Bills' "Thanksgiving Threads" post on November 24. We expect Kansas City in white jerseys with red pants.
+Blue over blue: the white helmet, royal blue jersey and royal blue pants with white socks, confirmed in the Bills' "Thanksgiving Threads" post on November 24 and worn that way. Kansas City wore white jerseys with red pants and the red helmet. Buffalo won 13-10.
 
 **Is there a Black Friday NFL game in 2026?**
 

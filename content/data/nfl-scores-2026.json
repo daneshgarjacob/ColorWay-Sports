@@ -1820,17 +1820,6 @@
   ],
   "12": [
    {
-    "id": "401873082",
-    "week": 12,
-    "date": "2026-11-26",
-    "kickoff": "2026-11-27T01:20Z",
-    "home": "Buffalo Bills",
-    "away": "Kansas City Chiefs",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
-   },
-   {
     "id": "401873081",
     "week": 12,
     "date": "2026-11-26",
@@ -1850,6 +1839,17 @@
     "away": "Philadelphia Eagles",
     "homeScore": 38,
     "awayScore": 39,
+    "final": true
+   },
+   {
+    "id": "401873082",
+    "week": 12,
+    "date": "2026-11-26",
+    "kickoff": "2026-11-27T01:20Z",
+    "home": "Buffalo Bills",
+    "away": "Kansas City Chiefs",
+    "homeScore": 13,
+    "awayScore": 10,
     "final": true
    },
    {

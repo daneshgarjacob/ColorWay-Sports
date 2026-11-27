@@ -6,8 +6,8 @@
  "note": "Built by scripts/build-uniform-records.mjs from the ColorWay Sports NFL uniform tracker (worn looks only, logged from game photos) and ESPN final scores. Do not hand-edit.",
  "totals": {
   "teams": 32,
-  "gamesPlayed": 166,
-  "teamGamesCounted": 332,
+  "gamesPlayed": 167,
+  "teamGamesCounted": 334,
   "teamGamesUnlogged": 0
  },
  "teams": [
@@ -716,9 +716,9 @@
    "key": "bills",
    "name": "Buffalo Bills",
    "nickname": "Bills",
-   "gamesPlayed": 10,
-   "gamesCounted": 10,
-   "w": 9,
+   "gamesPlayed": 11,
+   "gamesCounted": 11,
+   "w": 10,
    "l": 1,
    "t": 0,
    "missing": [],
@@ -822,6 +822,45 @@
      ]
     },
     {
+     "id": "royal-white-royal",
+     "helmet": "White",
+     "jersey": "Royal",
+     "jerseyName": "Royal",
+     "jerseyKey": "bills-royal-home",
+     "pants": "Royal",
+     "hexes": [
+      "#FFFFFF",
+      "#00338D",
+      "#00338D"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg",
+     "w": 2,
+     "l": 0,
+     "t": 0,
+     "games": [
+      {
+       "week": 1,
+       "date": "2026-09-13",
+       "opponent": "Houston Texans",
+       "home": false,
+       "teamScore": 36,
+       "oppScore": 31,
+       "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 12,
+       "date": "2026-11-26",
+       "opponent": "Kansas City Chiefs",
+       "home": true,
+       "teamScore": 13,
+       "oppScore": 10,
+       "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
+    {
      "id": "nickel-city-gray-royal-gray",
      "helmet": "Royal",
      "jersey": "Gray",
@@ -845,35 +884,6 @@
        "home": true,
        "teamScore": 24,
        "oppScore": 16,
-       "result": "W",
-       "link": "/stories/nfl-uniform-tracker-2026"
-      }
-     ]
-    },
-    {
-     "id": "royal-white-royal",
-     "helmet": "White",
-     "jersey": "Royal",
-     "jerseyName": "Royal",
-     "jerseyKey": "bills-royal-home",
-     "pants": "Royal",
-     "hexes": [
-      "#FFFFFF",
-      "#00338D",
-      "#00338D"
-     ],
-     "img": "/images/posts/nfl-tracker-jerseys/bills-royal-home.jpg",
-     "w": 1,
-     "l": 0,
-     "t": 0,
-     "games": [
-      {
-       "week": 1,
-       "date": "2026-09-13",
-       "opponent": "Houston Texans",
-       "home": false,
-       "teamScore": 36,
-       "oppScore": 31,
        "result": "W",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
@@ -3329,10 +3339,10 @@
    "key": "chiefs",
    "name": "Kansas City Chiefs",
    "nickname": "Chiefs",
-   "gamesPlayed": 10,
-   "gamesCounted": 10,
+   "gamesPlayed": 11,
+   "gamesCounted": 11,
    "w": 8,
-   "l": 2,
+   "l": 3,
    "t": 0,
    "missing": [],
    "combos": [
@@ -3429,7 +3439,7 @@
      ],
      "img": "/images/posts/nfl-tracker-jerseys/chiefs-white-road.jpg",
      "w": 2,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "games": [
       {
@@ -3460,6 +3470,16 @@
        "teamScore": 35,
        "oppScore": 13,
        "result": "W",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      },
+      {
+       "week": 12,
+       "date": "2026-11-26",
+       "opponent": "Buffalo Bills",
+       "home": false,
+       "teamScore": 10,
+       "oppScore": 13,
+       "result": "L",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
      ]
