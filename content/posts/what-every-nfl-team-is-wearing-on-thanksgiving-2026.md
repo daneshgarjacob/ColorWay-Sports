@@ -3,7 +3,7 @@ title: "What Every NFL Team Is Wearing On Thanksgiving 2026: All Six Uniforms Fo
 author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-21"
-updatedDate: "2026-11-26"
+updatedDate: "2026-11-27"
 excerpt: "What every NFL team is wearing on Thanksgiving 2026, in plain colors: the Cowboys in their 1960s Classic throwback (white helmet, navy jersey, white pants) against the Eagles in white, the Lions in Honolulu blue against the Bears in white, and the Bills in royal blue over royal blue pants, confirmed, against the Chiefs in white. Which looks the teams have put on their own schedules, which are our projections, kickoff times and TV."
 gradient: "linear-gradient(135deg, #013369 0%, #0C1526 55%, #B0B7BC 130%)"
 cardStyle: words
@@ -128,7 +128,7 @@ All six teams wear the round [John Madden Thanksgiving patch](/stories/john-madd
 ## More For Thanksgiving Week
 
 - **The whole holiday week**, including the Rams' Fearsome White on Thanksgiving Eve and the Steelers' Color Rush against the Broncos on Black Friday, both confirmed: [NFL Thanksgiving Uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026).
-- **Vote for the best Thanksgiving uniform ever**, with the winner revealed Thanksgiving morning: [Best NFL Thanksgiving Uniforms Bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026).
+- **The fan vote for the best Thanksgiving uniform ever**, which ended in a tie between the Lions' 1934 throwback and the Rams' Fearsome White: [Best NFL Thanksgiving Uniforms Bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026).
 - **Why Detroit's throwback belongs on this day:** [Why Do The Lions Wear 1934 Throwback Uniforms On Thanksgiving?](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving)
 - **Every Thanksgiving throwback, 1994 to now:** [Why Do NFL Teams Wear Throwback Uniforms On Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
 - **What actually gets worn** goes in the [2026 NFL uniform tracker](/stories/nfl-uniform-tracker-2026) after each game.

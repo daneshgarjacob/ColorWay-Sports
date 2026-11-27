@@ -6,7 +6,7 @@ excerpt: "Denver published all 17 games. Nine in Summit White, four in Sunset Or
 gradient: "linear-gradient(135deg, #0C2340 0%, #16345c 55%, #FB4F14 130%)"
 coverImage: "/images/posts/broncos-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-27"
 coverImageFit: "cover"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-denver-broncos.png"
@@ -219,11 +219,11 @@ How does every one of these jerseys stack up? See our [Broncos jerseys 2026 rank
 
 **What jersey are the Broncos wearing today?**
 
-Week 11 against Las Vegas, November 22, worn: Sunset Orange, the navy helmet, orange jersey and white pants, as the team's game-week "Threads" graphic announced and as ESPN's game photos show. The Raiders wore the silver helmet, white jersey and silver pants, and Denver won 38-24. We grade the matchup a B+. Next up is Week 12 at Pittsburgh on Black Friday, November 27, in Summit White. This answer updates every week. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
+Week 11 against Las Vegas, November 22, worn: Sunset Orange, the navy helmet, orange jersey and white pants, as the team's game-week "Threads" graphic announced and as ESPN's game photos show. The Raiders wore the silver helmet, white jersey and silver pants, and Denver won 38-24. We grade the matchup a B+. Next up is Week 12 at Pittsburgh on Black Friday, November 27: the navy helmet, Summit White jersey and orange pants, confirmed by the team's "Black Friday fit" Threads graphic on November 26. This answer updates every week. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
 
 **What jerseys are the Broncos wearing this week?**
 
-Week 11 against Las Vegas, November 22, worn: Sunset Orange, the navy helmet, orange jersey and white pants, as the team's game-week "Threads" graphic announced and as ESPN's game photos show. The Raiders wore the silver helmet, white jersey and silver pants, and Denver won 38-24. We grade the matchup a B+. Next up is Week 12 at Pittsburgh on Black Friday, November 27, in Summit White. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
+Week 11 against Las Vegas, November 22, worn: Sunset Orange, the navy helmet, orange jersey and white pants, as the team's game-week "Threads" graphic announced and as ESPN's game photos show. The Raiders wore the silver helmet, white jersey and silver pants, and Denver won 38-24. We grade the matchup a B+. Next up is Week 12 at Pittsburgh on Black Friday, November 27: the navy helmet, Summit White jersey and orange pants, confirmed by the team's "Black Friday fit" Threads graphic on November 26. For the rest of the season: Check the week. Denver published all 17 games: Summit White in Weeks 1, 4, 5, 7, 9, 12, 14, 15 and 17, Sunset Orange in Weeks 2, 8, 11 and 13, Midnight Navy in Weeks 3 and 16, and the Orange Crush throwback in Weeks 6 and 18. Week 10 is the bye.
 
 **What uniform did the Broncos wear last week?**
 

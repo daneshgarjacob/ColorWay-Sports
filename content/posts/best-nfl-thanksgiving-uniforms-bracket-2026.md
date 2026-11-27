@@ -3,8 +3,8 @@ title: "Best NFL Thanksgiving Uniforms Ever: Vote In Our Fan Bracket"
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-20"
-updatedDate: "2026-11-26"
-excerpt: "Eight of the best uniforms ever worn in an NFL Thanksgiving week game, and one fan vote to pick the best: the Cowboys 1960s Classic, the Lions 1934 throwback, Dallas in Double-Star white, the Bears in orange, the Packers in 1967 stripes, Detroit's wolf gray, Carolina's all blue and the Rams' brand-new Fearsome White. Voting is open until Wednesday night, November 25; the winner is revealed Thanksgiving morning."
+updatedDate: "2026-11-27"
+excerpt: "Eight of the best uniforms ever worn in an NFL Thanksgiving week game, and one fan vote to pick the best: the Cowboys 1960s Classic, the Lions 1934 throwback, Dallas in Double-Star white, the Bears in orange, the Packers in 1967 stripes, Detroit's wolf gray, Carolina's all blue and the Rams' brand-new Fearsome White. Voting closed Wednesday night, November 25, and it ended in a tie: the Lions 1934 throwback and the Rams' Fearsome White."
 gradient: "linear-gradient(135deg, #7A2E0E 0%, #0C1526 55%, #013369 130%)"
 cardStyle: words
 kicker: "Fan Vote"
@@ -13,7 +13,7 @@ league: nfl
 teams: ["dallas-cowboys", "detroit-lions", "chicago-bears", "green-bay-packers", "carolina-panthers", "los-angeles-rams"]
 ---
 
-**Eight Thanksgiving uniforms, one vote, and you pick the winner.** We chose eight of the best looks ever worn in an NFL Thanksgiving week game. Tap your favorite below. Voting is open until **Wednesday, November 25 at 11:59 p.m. ET**, and the winner is revealed on **Thanksgiving morning, Thursday, November 26**, a few hours before Bears at Lions kicks off.
+**Eight Thanksgiving uniforms, one vote, and you pick the winner.** We chose eight of the best looks ever worn in an NFL Thanksgiving week game. **Update, November 27:** voting closed on Wednesday, November 25 at 11:59 p.m. ET, and the vote ended in a tie between the Lions' 1934 throwback and the Rams' Fearsome White. Thank you to everyone who voted.
 
 **On the field this Thanksgiving:** the Lions' 1934 throwback, one of the eight below, did not come out in 2026. Detroit wore Honolulu blue with silver pants and the silver helmet against the Bears and lost 39-35. The Rams wore Fearsome White on Thanksgiving Eve and beat the Packers 26-13.
 
@@ -78,14 +78,14 @@ Left out, and fair to argue about: the Lions in all blue in 2024, the Steelers' 
 
 ## What Happens Next
 
-- **Wednesday, November 25:** voting closes at 11:59 p.m. ET.
-- **Thursday, November 26:** the winner and the final vote totals, on this page Thanksgiving morning.
+- **Wednesday, November 25:** voting closed at 11:59 p.m. ET.
+- **The result:** a tie between the Lions' 1934 throwback and the Rams' Fearsome White.
 
 What all ten teams wear this year, game by game: [NFL Thanksgiving Uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026). Just the six Thanksgiving Day teams, helmet, jersey and pants: [What Every NFL Team Is Wearing On Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026). The history behind these looks, year by year: [Why Do NFL Teams Wear Throwback Uniforms On Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
 
 ## One More Thing: A Free Shirt
 
-One person who comments their favorite Thanksgiving uniform on our TikTok, [@colorway.sports](https://www.tiktok.com/@colorway.sports), this week (through Thanksgiving, November 26) wins a free shirt from <a href="https://breakingt.com/collections/all?rfsn=9408677.d1e2b7" rel="sponsored noopener" target="_blank">BreakingT</a>. We pick the winner at random after Thanksgiving and message them on TikTok. Open to US residents only. No purchase necessary. ColorWay Sports may earn a commission on BreakingT purchases made through our links.
+The giveaway is closed. One person who commented their favorite Thanksgiving uniform on our TikTok, [@colorway.sports](https://www.tiktok.com/@colorway.sports), through Thanksgiving, November 26, wins a free shirt from <a href="https://breakingt.com/collections/all?rfsn=9408677.d1e2b7" rel="sponsored noopener" target="_blank">BreakingT</a>. The winner has been picked at random and contacted on TikTok. It was open to US residents only. No purchase necessary. ColorWay Sports may earn a commission on BreakingT purchases made through our links.
 
 ## FAQs
 
@@ -95,7 +95,7 @@ That is what this fan vote decides. The most-worn look in the field is the Cowbo
 
 **How do I vote for the best Thanksgiving uniform?**
 
-Tap your favorite of the eight uniforms on this page, then tap Vote. One vote per visitor. Voting is open until Wednesday, November 25 at 11:59 p.m. ET.
+Voting is closed. It ran through Wednesday, November 25 at 11:59 p.m. ET, one vote per visitor.
 
 **Why do the Cowboys wear a throwback on Thanksgiving?**
 
@@ -111,8 +111,8 @@ Yes. Chicago wore orange throwbacks at Dallas on Thanksgiving 2004, honoring its
 
 **How do I win the free BreakingT shirt?**
 
-Comment your favorite Thanksgiving uniform on our TikTok, @colorway.sports, by Thanksgiving, November 26. We pick one winner at random after Thanksgiving and message them on TikTok. US residents only; no purchase necessary.
+The giveaway is closed. Entries were comments on our TikTok, @colorway.sports, through Thanksgiving, November 26. The winner has been picked at random and contacted on TikTok.
 
 **When is the winner announced?**
 
-Thanksgiving morning, Thursday, November 26, 2026, before the first game kicks off.
+The fan vote closed on Wednesday, November 25, and ended in a tie between the Lions' 1934 throwback and the Rams' Fearsome White.

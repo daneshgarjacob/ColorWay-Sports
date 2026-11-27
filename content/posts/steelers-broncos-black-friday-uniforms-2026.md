@@ -3,10 +3,17 @@ title: "What Are The Steelers Wearing On Black Friday 2026? The All-Black Color 
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
-updatedDate: "2026-11-24"
-excerpt: "The Steelers wear the all-black Color Rush against the Broncos on Black Friday, November 27 at 3:00 p.m. ET on Prime Video, the team announced on November 24: black helmet, black jersey with gold numbers, black pants. It is their first Color Rush game of 2026. Denver wears Summit White, per its published schedule. The 1933 throwback is not this game. Every detail and our grade."
+updatedDate: "2026-11-27"
+homepageHero: "2026-11-27"
+excerpt: "The Steelers wear the all-black Color Rush against the Broncos on Black Friday, November 27 at 3:00 p.m. ET on Prime Video, the team announced on November 24: black helmet, black jersey with gold numbers, black pants. It is their first Color Rush game of 2026. Denver wears the navy helmet, Summit White jersey and orange pants, confirmed by the team on November 26. The 1933 throwback is not this game. Every detail and our grade."
 gradient: "linear-gradient(135deg, #FFB612 0%, #101820 55%, #FB4F14 130%)"
-cardStyle: words
+coverImage: "/images/posts/steelers-broncos-black-friday-uniforms-2026/cover.jpg"
+coverImagePosition: "center 30%"
+coverImageFit: "cover"
+coverCredit:
+  author: "Pittsburgh Steelers"
+  url: "https://x.com/steelers/status/2126318878619787752"
+  license: "via the team"
 kicker: "Thanksgiving Week"
 logoSrc: "/logos/leagues/nfl.png"
 logoSrc2: "/logos/teams/nfl-pittsburgh-steelers.png"
@@ -14,7 +21,7 @@ league: nfl
 teams: ["pittsburgh-steelers", "denver-broncos"]
 ---
 
-**The Steelers wear the all-black Color Rush on Black Friday, and the Broncos are in Summit White.** Pittsburgh announced it on Tuesday, November 24: the Color Rush against Denver at Acrisure Stadium on **Friday, November 27, at 3:00 p.m. Eastern on Prime Video**, the last game of the five-game Thanksgiving week and the first Black Friday game in Steelers history. It is the first time Pittsburgh has worn the Color Rush in 2026. We had the gold 1933 throwback on this date, and it is not; that uniform is still waiting for a date. Denver's side is not a projection either: the Broncos published their jersey for all 17 games, and Week 12 at Pittsburgh is **Summit White**.
+**The Steelers wear the all-black Color Rush on Black Friday, and the Broncos are in Summit White.** Pittsburgh announced it on Tuesday, November 24: the Color Rush against Denver at Acrisure Stadium on **Friday, November 27, at 3:00 p.m. Eastern on Prime Video**, the last game of the five-game Thanksgiving week and the first Black Friday game in Steelers history. It is the first time Pittsburgh has worn the Color Rush in 2026. We had the gold 1933 throwback on this date, and it is not; that uniform is still waiting for a date. Denver's side is confirmed too: the Broncos posted their Week 12 "Threads" graphic on Thursday, November 26, and it shows the **navy helmet, the Summit White jersey and orange pants**.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2125273480924934194"></a></blockquote>
@@ -25,7 +32,7 @@ teams: ["pittsburgh-steelers", "denver-broncos"]
 ## Quick Answers
 
 - **What are the Steelers wearing on Black Friday?** The all-black Color Rush: black helmet, black jersey with gold numbers and gold sleeve stripes, black pants. **Confirmed** by the Steelers on November 24.
-- **What are the Broncos wearing?** Summit White. **Scheduled**, from Denver's published 2026 uniform schedule. The helmet and pants come with the team's game-week post.
+- **What are the Broncos wearing?** The navy helmet, the Summit White jersey and orange pants. **Confirmed** by the Broncos' Week 12 "Threads" post on November 26.
 - **When is it?** Friday, November 27, 3:00 p.m. ET on Prime Video, at Acrisure Stadium in Pittsburgh.
 - **Is it the 1933 throwback?** No. The throwback and its gold helmet return in 2026, but not in this game.
 - **Is this the Steelers' first Black Friday game?** Yes.
@@ -49,9 +56,17 @@ Nothing yet. Team president Art Rooney II has said the 1933 throwback and its **
 
 If you have ever wondered why the regular Steelers helmet only has a logo on one side, we went through what it would look like with two: [What If The Steelers Put Their Logo On Both Sides?](/stories/what-if-steelers-logo-both-sides-helmet)
 
-## What The Broncos Are Wearing (Scheduled)
+## What The Broncos Are Wearing (Confirmed)
 
-Summit White is the road half of the Mile High Collection Denver introduced in 2024: **navy numbers outlined in orange**, a **BRONCOS wordmark across the chest**, an **orange collar**, and **orange sleeves cut with a navy mountain-peak graphic**. It is the Broncos' most-used jersey this year, nine games. Denver has paired it with the navy helmet and navy pants on its recent road trips, at San Francisco and Arizona, and opened the season at Kansas City in all white under a white helmet. The helmet and pants for Pittsburgh come with the team's game-week post. Every Denver date is in our [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026).
+**Update, Friday, November 27:** the Broncos posted their Week 12 "Threads" graphic on Thursday with the caption "Black Friday fit," and it shows Bo Nix in the **navy helmet, the Summit White jersey and orange pants**, with white socks. The Steelers' gameday graphic on Friday morning shows the Color Rush again, and the team posted that Acrisure Stadium's **end zones are painted black** for the game.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2126014120046502274"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">"Black Friday fit," the Week 12 Threads graphic, via <a href="https://x.com/Broncos" target="_blank" rel="noopener">@Broncos</a></p>
+
+Summit White is the road half of the Mile High Collection Denver introduced in 2024: **navy numbers outlined in orange**, a **BRONCOS wordmark across the chest**, an **orange collar**, and **orange sleeves cut with a navy mountain-peak graphic**. It is the Broncos' most-used jersey this year, nine games. Denver has paired it with the navy helmet and navy pants on its recent road trips, at San Francisco and Arizona, and opened the season at Kansas City in all white under a white helmet. For Pittsburgh it is the navy helmet and orange pants. Every Denver date is in our [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Broncos/status/2097792500417102233"></a></blockquote>
@@ -59,7 +74,7 @@ Summit White is the road half of the Mile High Collection Denver introduced in 2
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">Summit White in the all-white version Denver wore in the opener at Kansas City, via <a href="https://x.com/Broncos" target="_blank" rel="noopener">@Broncos</a></p>
 
-<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/broncos-white-road.jpg" alt="Denver Broncos Summit White road jersey, on the team's published schedule for Black Friday 2026 at Pittsburgh" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Broncos &middot; Scheduled</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/broncos-white-road.jpg" alt="Denver Broncos Summit White road jersey, confirmed with the navy helmet and orange pants for Black Friday 2026 at Pittsburgh" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Broncos &middot; Confirmed</figcaption></figure></div>
 
 ## Our Grade
 
@@ -89,7 +104,7 @@ Prime Video. In Pittsburgh it also airs on WTAE-TV.
 
 **What are the Broncos wearing on Black Friday?**
 
-Summit White, the white road jersey from the Mile High Collection. Denver published it for this game on its 2026 schedule.
+The navy helmet, the Summit White road jersey from the Mile High Collection and orange pants. Denver confirmed it in its Week 12 "Threads" post on November 26.
 
 **What is the Steelers Color Rush uniform?**
 
@@ -120,4 +135,4 @@ No. Denver's published schedule has Summit White for this game. Sunset Orange is
 - [What the Bills are wearing against the Chiefs](/stories/bills-chiefs-thanksgiving-uniforms-2026)
 - [Every Steelers jersey, ranked](/stories/steelers-jerseys-2026-ranked) and [every Broncos jersey, ranked](/stories/broncos-jerseys-2026-ranked)
 
-*Sources: Steelers.com, "Steelers to wear Color Rush uniforms on Black Friday" (November 24, 2026) and the team's Color Rush photo gallery, the Pittsburgh Steelers' 1933 throwback release (Steelers.com, July 2025) and Art Rooney II's comments on its 2026 return, the Denver Broncos' published 2026 uniform schedule, and NBC Sports and Sports Illustrated for the 2026 Black Friday game. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Pittsburgh Steelers, the Denver Broncos or the National Football League.*
+*Sources: Steelers.com, "Steelers to wear Color Rush uniforms on Black Friday" (November 24, 2026) and the team's Color Rush photo gallery, the Pittsburgh Steelers' 1933 throwback release (Steelers.com, July 2025) and Art Rooney II's comments on its 2026 return, the Denver Broncos' published 2026 uniform schedule and Week 12 "Threads" post (November 26, 2026), the Steelers' gameday and end zone posts (November 27, 2026), and NBC Sports and Sports Illustrated for the 2026 Black Friday game. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the Pittsburgh Steelers, the Denver Broncos or the National Football League.*

@@ -3,7 +3,7 @@ title: "The 8 Best NFL Thanksgiving Uniforms Ever, Ranked And Graded"
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-23"
-updatedDate: "2026-11-26"
+updatedDate: "2026-11-27"
 excerpt: "The best NFL Thanksgiving uniforms ever, counted down from 8 to 1 and graded: the Lions' 1934 throwback, the Cowboys' 1960s Classic, Dallas in Double-Star white, the Packers' 1967 throwback, the Bears in orange, the Rams' Fearsome White, Detroit's wolf gray and Carolina's all blue. Helmet, jersey and pants in plain colors, the Thanksgivings each one was worn, and our take on every spot."
 gradient: "linear-gradient(135deg, #7A2E0E 0%, #0C1526 55%, #013369 130%)"
 cardStyle: words
@@ -128,7 +128,7 @@ Every uniform below was worn on Thanksgiving, apart from the Rams' Fearsome Whit
 
 ## Disagree? Vote For Your Own Favorite
 
-This is our ranking. The fan vote is yours. All eight of these uniforms are in our [best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026), and readers pick the winner. Voting closes **Wednesday, November 25, at 11:59 p.m. ET**, and the winner is revealed Thanksgiving morning. If you think the Cowboys belong on top, or that the Rams should be higher, go prove it.
+This is our ranking. The fan vote is yours. All eight of these uniforms are in our [best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026), and readers picked the winner. Voting closed on Wednesday, November 25, and the vote ended in a tie between the Lions' 1934 throwback and the Rams' Fearsome White.
 
 ## The Ones That Just Missed
 
@@ -204,7 +204,7 @@ Yes. Players in the three Thanksgiving Day games wear the [John Madden Thanksgiv
 
 **Where can I vote for the best Thanksgiving uniform?**
 
-In our [best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026). Voting closes Wednesday, November 25, at 11:59 p.m. ET, and the winner is revealed Thanksgiving morning.
+In our [best NFL Thanksgiving uniforms bracket](/stories/best-nfl-thanksgiving-uniforms-bracket-2026). Voting closed on Wednesday, November 25, and it ended in a tie between the Lions' 1934 throwback and the Rams' Fearsome White.
 
 ## More Thanksgiving Uniform Coverage
 

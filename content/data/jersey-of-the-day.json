@@ -1197,6 +1197,49 @@
     }
    ],
    "shopQuery": "Dallas Cowboys Classic throwback jersey"
+  },
+  "2026-11-27": {
+   "team": "Pittsburgh Steelers",
+   "teamShort": "Steelers",
+   "league": "NFL",
+   "season": "2026",
+   "edition": "Color Rush alternate (first game of 2026)",
+   "jerseyName": "Color Rush (All Black, Gold Numbers)",
+   "image": "/images/jersey-of-the-day/steelers-color-rush-2026-11-27.jpg",
+   "imageAlt": "The Steelers' \"Rise of Color Rush\" graphic for Black Friday against the Broncos: a player shouting in the black helmet and the black Color Rush jersey with gold numbers",
+   "imagePosition": "center 30%",
+   "credit": {
+    "text": "Pittsburgh Steelers",
+    "url": "https://x.com/steelers/status/2125273480924934194",
+    "license": "via the team"
+   },
+   "tweet": {
+    "url": "https://x.com/steelers/status/2125273480924934194",
+    "label": "\"Black (& Gold) Friday,\" from the Steelers"
+   },
+   "worn": {
+    "date": "2026-11-27",
+    "matchup": "vs. Denver Broncos, 3 p.m. ET on Prime Video (Black Friday)",
+    "status": "Confirmed",
+    "note": "Announced by the Steelers on November 24 and shown again in the team's gameday graphic on Friday morning. Denver confirmed the navy helmet, Summit White jersey and orange pants."
+   },
+   "why": "All black with gold numbers on Black Friday, in front of black end zones: Pittsburgh's first Color Rush game of the year.",
+   "whyPlaceholder": true,
+   "_editorNote": "Added by the unattended morning update 11/27. Why-line is a draft and there is no colorwayGrade: we have only a matchup grade (B+) for this game, no grade for the jersey itself. Jake to supply both.",
+   "story": "The Steelers wear the all-black Color Rush against the Broncos on Black Friday at Acrisure Stadium: the black helmet, a black jersey with gold block numbers and gold sleeve stripes, and black pants. It is the first time Pittsburgh has worn it in 2026 and the first Black Friday game in franchise history, and the team painted the end zones black for it. Denver is in the navy helmet, Summit White jersey and orange pants.",
+   "scheduleSlug": "steelers-uniform-schedule-2026",
+   "scheduleLabel": "Steelers 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "steelers-broncos-black-friday-uniforms-2026",
+     "label": "Steelers vs. Broncos on Black Friday: every detail"
+    },
+    {
+     "slug": "nfl-week-12-uniforms-2026",
+     "label": "NFL Week 12 uniforms: every game"
+    }
+   ],
+   "shopQuery": "Pittsburgh Steelers Color Rush jersey"
   }
  }
 }
