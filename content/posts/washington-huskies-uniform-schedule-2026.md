@@ -3,7 +3,7 @@ title: "Washington Huskies Uniform Schedule 2026: Every Jersey and When the Husk
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-26"
 excerpt: "Washington Huskies uniform schedule 2026: every jersey and uniform week by week, from purple home and white road to the new all-black Dawgs alternate."
 gradient: "linear-gradient(135deg, #4B2E83 0%, #3a2366 55%, #B7A57A 130%)"
 cardStyle: words
@@ -83,7 +83,7 @@ See the [USC 2026 uniform schedule](/stories/usc-uniform-schedule-2026) for the 
 
 **November 21 vs. Indiana.** ★ Confirmed by Washington: **"Husky Heritage," a gold helmet with a purple and white center stripe and DAWGS on the front bumper, purple jersey with white numbers, gold pants**, posted November 18 as the "Game 11 Uniform." Salute to Service and Senior Day against the defending national champion, at 12:30 p.m. Pacific on Peacock. Last season Washington wore a one-off Honor and Support camouflage set for its Salute to Service game against Purdue. This year it is the standard purple and gold. Worn as posted, confirmed from Washington's game photos. Indiana wore a crimson helmet, white jersey and white pants. **Final: Washington 27, Indiana 24 (OT).**
 
-**November 28 at Oregon.** White expected. The regular season ends at Autzen Stadium, and Oregon's home look is never certain until warmups. Our [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) tracks the Ducks.
+**November 28 at Oregon.** Confirmed: all white, from the team's "Game 12 Threads" post. The regular season ends at Autzen Stadium, where Oregon is in apple green with a chrome helmet ([Oregon's Game 12 uniform for Washington, piece by piece](/stories/oregon-crystal-apple-uniforms-washington-2026)). Our [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026) tracks the Ducks.
 
 ## The Bottom Line
 
@@ -93,7 +93,7 @@ Six games in, Washington has stayed close to the base set, with one big exceptio
 
 **What jersey is Washington wearing this week?**
 
-Washington wore its Husky Heritage look against Indiana at Husky Stadium on Saturday, November 21: gold helmet, purple jersey and gold pants, as posted by the team on November 18 and confirmed from its game photos. It won 27-24 in overtime. Next is the regular season finale at Oregon on November 28, where white is expected.
+Washington wore its Husky Heritage look against Indiana at Husky Stadium on Saturday, November 21: gold helmet, purple jersey and gold pants, as posted by the team on November 18 and confirmed from its game photos. It won 27-24 in overtime. Next is the regular season finale at Oregon on November 28, in all white, as the team has posted.
 
 **What are Washington's football uniforms for 2026?**
 

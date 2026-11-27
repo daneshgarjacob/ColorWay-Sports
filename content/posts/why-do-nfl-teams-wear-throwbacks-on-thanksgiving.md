@@ -15,7 +15,7 @@ teams: ["detroit-lions", "dallas-cowboys", "green-bay-packers", "chicago-bears",
 
 **NFL teams wear throwback uniforms on Thanksgiving because the holiday is the league's oldest tradition, and the two teams that host it every year have chosen to dress the part.** The Lions have played on Thanksgiving since 1934 and the Cowboys since 1966. Detroit has worn some version of its early blue-and-silver look on the holiday at least ten times since 2001. Dallas wore its 1960s white-helmet throwback every Thanksgiving from 2004 through 2012, lost it to a league helmet rule for nine seasons, and has worn it every Thanksgiving since 2022.
 
-This year the Cowboys' 1960s Classic is on again, for the Eagles game on **Thursday, November 26**. Detroit did **not** wear a throwback: against the Bears the Lions wore Honolulu blue with silver pants and the silver helmet, their standard home set, and lost 39-35. Below is the whole history, year by year, with a source for every date.
+This year the Cowboys' 1960s Classic was on again, for the Eagles game on **Thursday, November 26**, and lost on the holiday for the first time since its 2022 return: Eagles 39, Cowboys 38, so it is now 4-1 on Thanksgiving. Detroit did **not** wear a throwback: against the Bears the Lions wore Honolulu blue with silver pants and the silver helmet, their standard home set, and lost 39-35. Below is the whole history, year by year, with a source for every date.
 
 ## Quick Answers
 
@@ -24,7 +24,7 @@ This year the Cowboys' 1960s Classic is on again, for the Eagles game on **Thurs
 - **Why do the Cowboys wear a throwback on Thanksgiving?** Dallas honored its original 1960s uniform every Thanksgiving from 2004 through 2012, according to the Cowboys, and has worn its 1960s Classic every Thanksgiving since 2022.
 - **Why did the Cowboys stop from 2013 to 2021?** The NFL did not allow alternate helmets, and the throwback needs a white helmet. In 2013 Dallas wore its regular blue jerseys at home instead.
 - **Why do the Lions wear throwbacks on Thanksgiving?** Their throwback copies the 1934 team, the one that played the first Lions Thanksgiving game. The full story is in [why do the Lions wear 1934 throwbacks on Thanksgiving](/stories/why-do-the-lions-wear-1934-throwbacks-on-thanksgiving).
-- **Who wears a throwback on Thanksgiving 2026?** The Cowboys, confirmed. The Lions did not: they wore Honolulu blue with silver pants and the silver helmet against the Bears.
+- **Who wore a throwback on Thanksgiving 2026?** The Cowboys, in the 1960s Classic, and lost 39-38 to the Eagles. The Lions did not: they wore Honolulu blue with silver pants and the silver helmet against the Bears.
 
 ## Two Teams, Two Old Traditions
 
@@ -117,14 +117,14 @@ These are the Thanksgiving games where a team wore a throwback, with the source 
 <tr><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">2023</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Lions (1934); Cowboys (Classic)</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;"><a href="https://profootballnetwork.com/detroit-lions-uniforms-different-throwbacks-thanksgiving-nfl-2023" rel="nofollow noopener" target="_blank">Pro Football Network</a>; Cowboys</td></tr>
 <tr><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">2024</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Cowboys (Classic)</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Cowboys</td></tr>
 <tr><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">2025</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Lions (1934); Cowboys (Classic)</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;"><a href="https://www.wilx.com/2025/11/26/lions-return-classic-throwback-look-thanksgiving-game/" rel="nofollow noopener" target="_blank">WILX</a>; <a href="https://x.com/dallascowboys/status/1993428379585200234" rel="nofollow noopener" target="_blank">@dallascowboys</a></td></tr>
-<tr style="background:#f7f8fa;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">2026</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Cowboys (Classic). Lions in their standard home set, no throwback</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Cowboys' 2026 uniform schedule; <a href="https://x.com/Lions/status/2125953219213824130" rel="nofollow noopener" target="_blank">@Lions</a></td></tr>
+<tr style="background:#f7f8fa;"><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;font-weight:700;">2026</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Cowboys (Classic; Eagles won 39-38). Lions in their standard home set, no throwback</td><td style="padding:10px 12px;border-top:1px solid #e3e7ec;font-size:0.9em;">Cowboys' 2026 uniform schedule; <a href="https://x.com/Lions/status/2125953219213824130" rel="nofollow noopener" target="_blank">@Lions</a></td></tr>
 </tbody></table></div>
 
 The 2001, 2004, 2008, 2018 and 2020 Lions entries come from Sports Illustrated's year-by-year list; we found no second source for those years, so treat them as that list's record. Some summaries online also describe a full throwback slate across Thanksgiving 2002 and a Cowboys throwback that year against Washington. We could not confirm either, so neither is in the table.
 
 ## Thanksgiving 2026: What Was Worn
 
-**Cowboys: the 1960s Classic, confirmed.** Dallas put it on Week 12 when it published its 2026 uniform schedule on September 2: a white helmet with the vintage star, a navy jersey with stars on the white shoulders and white pants. The Eagles wear white with midnight green pants, confirmed by the team on Thanksgiving. Kickoff is 4:30 p.m. ET on FOX. Details: [what are the Cowboys wearing on Thanksgiving 2026](/stories/cowboys-eagles-thanksgiving-uniforms-2026).
+**Cowboys: the 1960s Classic, worn.** Dallas put it on Week 12 when it published its 2026 uniform schedule on September 2: a white helmet with the vintage star, a navy jersey with stars on the white shoulders and white pants. ESPN's game photos confirm every piece. The Eagles wore white with midnight green pants and won 39-38 on a 59-yard field goal with two seconds left, the Classic's first Thanksgiving loss since 2022: it is now 4-1 on the holiday. Details: [what the Cowboys and Eagles wore](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026).
 
 **Lions: no throwback.** Detroit hosted the Bears, the same matchup as the first Lions Thanksgiving game in 1934, in its standard home set: the silver helmet with the logo, Honolulu blue jersey and silver pants, as the team posted that morning and as ESPN's game photos confirm. The Bears won 39-35. Details: [what the Lions wore on Thanksgiving 2026](/stories/lions-bears-thanksgiving-uniforms-2026).
 
@@ -168,7 +168,7 @@ The Lions' throwback copies their 1934 uniform, and 1934 is the year their Thank
 
 **Are the Cowboys wearing throwbacks on Thanksgiving 2026?**
 
-Yes. The 1960s Classic is on the schedule Dallas published September 2, for the Eagles game on November 26.
+Yes. Dallas wore the 1960s Classic, as on the schedule it published September 2, for the Eagles game on November 26, and lost 39-38.
 
 **Are the Lions wearing throwbacks on Thanksgiving 2026?**
 

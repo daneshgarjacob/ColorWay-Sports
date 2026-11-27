@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-26"
 updatedDate: "2026-11-26"
-excerpt: "Two NFL uniforms are 6-0 this season: the Chiefs' red jersey with white pants and the 49ers' scarlet jersey with gold pants. The Dolphins are 0-8 in white. The Steelers are 5-1 in black and 0-3 in white with gold pants, the day before Black Friday. The Cowboys are 1-6 in their home white and 4-0 in everything else. Every unbeaten and winless combination in the league, from our own game-by-game uniform log of 330 team-games through Thanksgiving afternoon."
+excerpt: "Two NFL uniforms are 6-0 this season: the Chiefs' red jersey with white pants and the 49ers' scarlet jersey with gold pants. The Dolphins are 0-8 in white. The Steelers are 5-1 in black and 0-3 in white with gold pants, the day before Black Friday. The Cowboys are 1-6 in their home white and 4-1 in everything else after losing to the Eagles in the Classic. Every unbeaten and winless combination in the league, from our own game-by-game uniform log of 332 team-games through Eagles-Cowboys on Thanksgiving."
 gradient: "linear-gradient(135deg, #E31837 0%, #0B1F4A 55%, #008E97 130%)"
 cardStyle: words
 kicker: "Uniform Data"
@@ -13,7 +13,7 @@ league: nfl
 teams: ["kansas-city-chiefs", "san-francisco-49ers", "miami-dolphins", "pittsburgh-steelers", "dallas-cowboys", "tampa-bay-buccaneers", "tennessee-titans"]
 ---
 
-**Two NFL uniforms have not lost a game in 2026: the Kansas City Chiefs' red jersey with the red helmet and white pants (6-0), and the San Francisco 49ers' scarlet jersey with the gold helmet and gold pants (6-0).** At the other end, the **Miami Dolphins are 0-8 in white**, and three more combinations are 0-4. These numbers come from our own log: ColorWay Sports records the helmet, jersey and pants every NFL team actually wore in every game, from game photos, and pairs it with the ESPN final. Through Thursday's Bears-Lions game that is **165 games and 330 team-games**, with nothing unlogged. We do not know of anyone else who keeps records by full uniform combination.
+**Two NFL uniforms have not lost a game in 2026: the Kansas City Chiefs' red jersey with the red helmet and white pants (6-0), and the San Francisco 49ers' scarlet jersey with the gold helmet and gold pants (6-0).** At the other end, the **Miami Dolphins are 0-8 in white**, and three more combinations are 0-4. These numbers come from our own log: ColorWay Sports records the helmet, jersey and pants every NFL team actually wore in every game, from game photos, and pairs it with the ESPN final. Through Thursday's Eagles-Cowboys game, the second of three on Thanksgiving, that is **166 games and 332 team-games**, with nothing unlogged. We do not know of anyone else who keeps records by full uniform combination.
 
 A combination here means all three pieces. The Bears in a navy jersey with white pants and the Bears in a white jersey with navy pants are two different uniforms, and they have two different records. We only list combinations worn at least three times.
 
@@ -23,8 +23,8 @@ A combination here means all three pieces. The Bears in a navy jersey with white
 - **Which NFL uniforms have not won?** Dolphins white jersey: **0-4 with aqua pants and 0-4 with white pants**. Titans light blue jersey with white pants: **0-4**. Buccaneers white jersey with white pants: **0-4**. Steelers white jersey with gold pants: **0-3**.
 - **What is the strangest split?** The Seahawks are 3-0 at home in all navy and 0-2 at home in navy with wolf grey pants. The Buccaneers are 2-3 in white with pewter pants and 0-4 in white with white pants. Same jersey, same helmet.
 - **What do the Steelers wear best?** Black with gold pants, **5-1**. They wear the all-black Color Rush on Black Friday, a combination with no record yet.
-- **What about the Cowboys?** **1-6** in the white home jersey, **4-0** in anything else, before Thursday's 39-38 loss to the Eagles in the navy Classic throwback.
-- **Does helmet color matter?** Teams in white helmets are **21-43**. Teams in navy helmets are **26-12**. That is mostly about which teams wear them.
+- **What about the Cowboys?** **1-6** in the white home jersey, **4-1** in anything else, after Thursday's 39-38 loss to the Eagles in the navy Classic throwback.
+- **Does helmet color matter?** Teams in white helmets are **21-44**. Teams in navy helmets are **26-12**. That is mostly about which teams wear them.
 
 ## The Undefeated Uniforms
 
@@ -71,7 +71,7 @@ Pittsburgh is **5-1 in the black jersey with gold pants**, the home look, and **
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;max-width:660px;margin:1em auto 1.4em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-white-home.jpg" alt="Dallas Cowboys white home jersey, 1-6 in 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">White home &middot; 1-6</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-white-alternate.jpg" alt="Dallas Cowboys Arctic White Color Rush, 2-0 in 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Color Rush &middot; 2-0</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/cowboys-navy.jpg" alt="Dallas Cowboys navy jersey, 2-0 in 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Navy &middot; 2-0</figcaption></figure></div>
 
-Dallas wears white at home, and in 2026 it has not worked. The Cowboys are **1-5 in the white jersey with the silver-green pants** and **0-1 in white with silver pants**, the 46-40 loss to the 49ers. In everything else they are **4-0**: 2-0 in the all-white Color Rush (Washington at home, Philadelphia on the road) and 2-0 in navy on the road (Houston and Indianapolis). On Thursday afternoon they wore the navy 1960s Classic against the Eagles, a fifth combination, and lost 39-38 after leading 31-10 ([what both teams wore](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026)). That makes Dallas 4-1 in everything but the home white. Why Dallas wears white at home at all is its own story: [Why do the Cowboys wear white at home?](/stories/why-do-the-cowboys-wear-white-at-home)
+Dallas wears white at home, and in 2026 it has not worked. The Cowboys are **1-5 in the white jersey with the silver-green pants** and **0-1 in white with silver pants**, the 46-40 loss to the 49ers. In everything else they are **4-1**: 2-0 in the all-white Color Rush (Washington at home, Philadelphia on the road), 2-0 in navy on the road (Houston and Indianapolis), and 0-1 in the 1960s Classic, the white helmet with the navy jersey and white pants, which they wore on Thursday afternoon and lost 39-38 to the Eagles after leading 31-10 ([what both teams wore](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026)). The Eagles' side of that game was their first win in the white jersey with midnight green pants, now 1-2. Why Dallas wears white at home at all is its own story: [Why do the Cowboys wear white at home?](/stories/why-do-the-cowboys-wear-white-at-home)
 
 ## By Helmet Color
 
@@ -81,9 +81,9 @@ Dallas wears white at home, and in 2026 it has not worked. The Cowboys are **1-5
 | Gold | **15-12** | 49ers, Packers, Saints |
 | Black | **21-24** | Steelers, Ravens, Falcons, Jaguars, Panthers and others |
 | Silver | **21-25** | Raiders, Cowboys, Patriots, Lions, Panthers, Seahawks |
-| White | **21-43** | Colts, Dolphins, Cardinals, Chargers, Titans, Bills and others |
+| White | **21-44** | Colts, Dolphins, Cardinals, Chargers, Titans, Bills and others |
 
-White helmets are 21-43, and that number tells you more about the standings than the shells. The Colts, Dolphins, Cardinals, Chargers and Titans wear white helmets almost every week, and those five teams are a combined 9-43. The one good team in a white helmet, Buffalo, is 7-1 in it. Navy helmets are 26-12 because the Bears and Broncos are a combined 17-4.
+White helmets are 21-44, and that number tells you more about the standings than the shells. The Colts, Dolphins, Cardinals, Chargers and Titans wear white helmets almost every week, and those five teams are a combined 9-43. The one good team in a white helmet, Buffalo, is 7-1 in it. Navy helmets are 26-12 because the Bears and Broncos are a combined 17-4.
 
 ## What This Does And Does Not Prove
 
@@ -91,13 +91,13 @@ A uniform does not win a game. Good teams wear their home uniform at home, where
 
 ## How We Count
 
-Every game is logged in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) from game photos, never from a schedule or a projection, and matched to ESPN's final score. A combination is helmet color, jersey and pants color. Records are through Thursday's Bears-Lions game (Bears 39, Lions 35). Every team's full record in every uniform is on our [uniform records page](/uniform-records), and the white-at-home numbers are in [NFL teams wearing white at home](/stories/nfl-teams-wearing-white-at-home-record-2026).
+Every game is logged in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) from game photos, never from a schedule or a projection, and matched to ESPN's final score. A combination is helmet color, jersey and pants color. Records are through Thursday's Eagles-Cowboys game (Eagles 39, Cowboys 38), the second of three games on Thanksgiving; Chiefs-Bills on Thursday night is not in them yet. Every team's full record in every uniform is on our [uniform records page](/uniform-records), and the white-at-home numbers are in [NFL teams wearing white at home](/stories/nfl-teams-wearing-white-at-home-record-2026).
 
 ## Frequently Asked Questions
 
 **Which NFL uniforms are undefeated in 2026?**
 
-Through Thursday's Bears-Lions game: the Chiefs' red helmet, red jersey and white pants (6-0) and the 49ers' gold helmet, scarlet jersey and gold pants (6-0). The Bills' all-white look, the Rams' white jersey with royal pants, the Vikings' white jersey with purple pants and the Seahawks' all navy are each 3-0.
+Through Thursday's Eagles-Cowboys game: the Chiefs' red helmet, red jersey and white pants (6-0) and the 49ers' gold helmet, scarlet jersey and gold pants (6-0). The Bills' all-white look, the Rams' white jersey with royal pants, the Vikings' white jersey with purple pants and the Seahawks' all navy are each 3-0.
 
 **What uniform have the Dolphins not won in?**
 
@@ -117,7 +117,7 @@ The all-black Color Rush against the Broncos, a combination they had not worn ye
 
 **What is the Cowboys' record in their white home jersey?**
 
-1-6 in 2026: 1-5 with the silver-green pants and 0-1 with the silver pants. Dallas is 4-0 in the all-white Color Rush and navy.
+1-6 in 2026: 1-5 with the silver-green pants and 0-1 with the silver pants. Dallas is 4-0 in the all-white Color Rush and navy, and 0-1 in the Thanksgiving Classic.
 
 **Do the Buccaneers win more in pewter pants?**
 
@@ -125,7 +125,7 @@ In 2026, yes: 2-3 in the white jersey with pewter pants and 0-4 with white pants
 
 **Which helmet color has the worst record in the NFL?**
 
-White, 21-43, mostly because five losing teams (the Colts, Dolphins, Cardinals, Chargers and Titans) wear white helmets. Buffalo is 7-1 in its white helmet.
+White, 21-44, mostly because five losing teams (the Colts, Dolphins, Cardinals, Chargers and Titans) wear white helmets. Buffalo is 7-1 in its white helmet.
 
 **Which helmet color has the best record?**
 
@@ -137,7 +137,7 @@ From ColorWay Sports' own NFL uniform tracker: every game logged from game photo
 
 **Is the Thanksgiving Cowboys-Eagles game included?**
 
-Not in the tables, which run through Bears-Lions. The Cowboys lost it 39-38 in the 1960s Classic, and the Eagles won in the white jersey with midnight green pants.
+Yes. The Cowboys lost it 39-38 in the 1960s Classic, their first game in it this season (0-1), and the Eagles won in the white jersey with midnight green pants (now 1-2). Chiefs-Bills on Thanksgiving night is not in these numbers yet.
 
 ## More NFL Uniform Data
 
@@ -147,6 +147,7 @@ Not in the tables, which run through Bears-Lions. The Cowboys lost it 39-38 in t
 - [NFL teams wearing white at home](/stories/nfl-teams-wearing-white-at-home-record-2026)
 - [Lions' record in throwbacks on Thanksgiving](/stories/lions-record-in-throwbacks-on-thanksgiving)
 - [What the Lions and Bears wore on Thanksgiving](/stories/lions-bears-thanksgiving-what-they-wore-2026)
+- [What the Cowboys and Eagles wore on Thanksgiving](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026)
 - [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) and [NFL Week 12 uniforms](/stories/nfl-week-12-uniforms-2026)
 
-*Source: ColorWay Sports NFL uniform tracker (helmet, jersey and pants logged from game photos) and ESPN final scores, Weeks 1-12 through November 26, 2026. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Football League or any of its teams.*
+*Source: ColorWay Sports NFL uniform tracker (helmet, jersey and pants logged from game photos) and ESPN final scores, Weeks 1-12 through Eagles-Cowboys on November 26, 2026. ColorWay Sports is an independent design site and is not affiliated with, endorsed by, or sponsored by the National Football League or any of its teams.*

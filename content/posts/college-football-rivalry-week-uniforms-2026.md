@@ -245,9 +245,9 @@ Every look in this table is Expected unless the game section below says otherwis
 
 *Saturday, November 28, Autzen Stadium, Eugene.*
 
-**Oregon: green (Expected).** Oregon's home look is never certain until warmups, and Washington is historically one of its bigger swings. [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026).
+**Oregon: apple green jersey and pants, silver chrome helmet with apple green wings (Confirmed).** Oregon posted its Game 12 uniform on November 25. [Oregon's Game 12 uniform for Washington, piece by piece](/stories/oregon-crystal-apple-uniforms-washington-2026). Washington answered with all white, also posted by the team. [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026).
 
-**Washington: white (Expected).** [Washington 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026).
+**Washington: all white (Confirmed).** The team posted "Road Whites for Game 12." [Washington 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026).
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/washington-huskies-white.jpg" alt="Washington white jersey, expected for Washington at Oregon 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Washington · Expected</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/oregon-ducks-green.jpg" alt="Oregon green jersey, expected for Washington at Oregon 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Oregon · Expected</figcaption></figure></div>
 

@@ -2,7 +2,7 @@
 title: "Cowboys Uniform & Jersey Schedule 2026: Every Week's Look"
 category: NFL
 date: "2026-08-05"
-updatedDate: "2026-11-22"
+updatedDate: "2026-11-26"
 excerpt: "Dallas Cowboys jersey schedule 2026: white ten times, navy three, the all-white Color Rush three, plus the Thanksgiving Classic vs. Philadelphia. Week by week."
 gradient: "linear-gradient(135deg, #041E42 0%, #16305e 55%, #869397 130%)"
 cardStyle: words
@@ -106,11 +106,11 @@ The Cowboys call it **Arctic White**: that is the name on the team's Week 2 game
 
 ## The Thanksgiving Classic (Week 12, Confirmed)
 
-The best uniform Dallas owns comes out once a year, and the team has now confirmed the date. The 1960s throwback, which the club labels the Classic, pairs a **white helmet** with the navy jersey, oversized stars on the white shoulder yoke, solid block numbers, and white pants with twin navy stripes. The Cowboys wore it on Thanksgiving in 2022, 2023, 2024 and 2025, and it is official for a fifth straight year: **Week 12 against Philadelphia at AT&T Stadium on Thursday, November 26.**
+The best uniform Dallas owns comes out once a year, and in 2026 it came out against the Eagles on Thanksgiving, as the team scheduled. The 1960s throwback, which the club labels the Classic, pairs a **white helmet** with the navy jersey, oversized stars on the white shoulder yoke, solid block numbers, and white pants with twin navy stripes. The Cowboys wore it on Thanksgiving in 2022, 2023, 2024 and 2025, and it was back for a fifth straight year: **Week 12 against Philadelphia at AT&T Stadium on Thursday, November 26.** ESPN's game photos confirm every piece. It was also the Classic's first Thanksgiving loss: the Eagles came back from 31-10 down and won 39-38 on a 59-yard field goal with two seconds left, so Dallas is now 4-1 in it on the holiday. Every detail is in [what the Cowboys and Eagles wore on Thanksgiving](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026).
 
 It is the marquee uniform game of the Dallas season. The white helmet is the whole trick: it removes the silver that anchors every other Cowboys look and leaves a cleaner, older, more graphic uniform underneath.
 
-One popular hope for this game does not survive contact with the rules, so it is worth heading off. Because Dallas wears white at home, a visiting team is normally free to bring a colored jersey to AT&T Stadium, and Philadelphia used exactly that opening in 2025 to wear **Kelly Green** on a trip to Dallas, the first road wearing since the set returned. That will not happen on Thanksgiving. The 1960s throwback is a **navy** jersey, not a white one, so for this one date Dallas is the dark team and Philadelphia takes white. A Cowboys throwback against a Kelly Green Eagles is not a combination the league permits.
+One popular hope for this game does not survive contact with the rules, so it is worth heading off. Because Dallas wears white at home, a visiting team is normally free to bring a colored jersey to AT&T Stadium, and Philadelphia used exactly that opening in 2025 to wear **Kelly Green** on a trip to Dallas, the first road wearing since the set returned. That did not happen on Thanksgiving. The 1960s throwback is a **navy** jersey, not a white one, so for this one date Dallas was the dark team and Philadelphia wore white, with the midnight green helmet and midnight green pants. A Cowboys throwback against a Kelly Green Eagles is not a combination the league permits.
 
 The Eagles have confirmed only one Kelly Green date so far, Week 9 against the Giants, and our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) has them in white for the Thanksgiving trip for exactly this reason. The green will have to come out on a week when Dallas is in white, and the Week 7 Monday-night game in Philadelphia, with Dallas in the Color Rush, is the obvious candidate.
 
@@ -129,11 +129,11 @@ The Cowboys' two silvers and two blues have never matched each other. The full s
 
 **What jersey are the Cowboys wearing today?**
 
-Week 11 against Tennessee, November 22, worn: silver star helmet, white jersey and silver-green pants, confirmed from the team's game photos. The Titans wore light blue over light blue, and Dallas won 51-30. We grade the matchup a B+. Next up is Week 12 against Philadelphia on Thanksgiving, Thursday, November 26, in the 1960s Thanksgiving Classic throwback with the white helmet, as the team scheduled. This answer updates every week. For the rest of the season: White in ten of the seventeen games, and the team has published the full list. The exceptions are navy at Houston in Week 4, at Indianapolis in Week 9 and at the Rams in Week 15; the all-white Color Rush against Washington in Week 2, at Philadelphia in Week 7 and against Jacksonville in Week 16; and the Thanksgiving Classic against the Eagles in Week 12. The week-by-week grid above has every date.
+Week 12 against Philadelphia on Thanksgiving, Thursday, November 26, worn: the 1960s Classic throwback, white helmet with the navy star, navy jersey with stars on the white shoulders and white pants, confirmed from ESPN's game photos and the team's Gameday Threads post. The Eagles wore the midnight green helmet, white jersey and midnight green pants, and won 39-38 on a 59-yard field goal with two seconds left, the Classic's first Thanksgiving loss (it is 4-1 on the holiday since 2022). We grade the matchup an A-. Next up is Week 13 at Seattle on Monday Night Football, December 7, in the standard white set, as the team scheduled; Week 14 is the bye. This answer updates every week. For the rest of the season: White in ten of the seventeen games, and the team has published the full list. The exceptions are navy at Houston in Week 4, at Indianapolis in Week 9 and at the Rams in Week 15; the all-white Color Rush against Washington in Week 2, at Philadelphia in Week 7 and against Jacksonville in Week 16; and the Thanksgiving Classic against the Eagles in Week 12. The week-by-week grid above has every date.
 
 **What jerseys are the Cowboys wearing this week?**
 
-Week 11 against Tennessee, November 22, worn: silver star helmet, white jersey and silver-green pants, confirmed from the team's game photos. The Titans wore light blue over light blue, and Dallas won 51-30. We grade the matchup a B+. Next up is Week 12 against Philadelphia on Thanksgiving, Thursday, November 26, in the 1960s Thanksgiving Classic throwback with the white helmet, as the team scheduled. For the rest of the season: White in ten of the seventeen games, and the team has published the full list. The exceptions are navy at Houston in Week 4, at Indianapolis in Week 9 and at the Rams in Week 15; the all-white Color Rush against Washington in Week 2, at Philadelphia in Week 7 and against Jacksonville in Week 16; and the Thanksgiving Classic against the Eagles in Week 12. The week-by-week grid above has every date.
+Week 12 against Philadelphia on Thanksgiving, Thursday, November 26, worn: the 1960s Classic throwback, white helmet with the navy star, navy jersey with stars on the white shoulders and white pants, confirmed from ESPN's game photos and the team's Gameday Threads post. The Eagles wore the midnight green helmet, white jersey and midnight green pants, and won 39-38 on a 59-yard field goal with two seconds left, the Classic's first Thanksgiving loss (it is 4-1 on the holiday since 2022). We grade the matchup an A-. Next up is Week 13 at Seattle on Monday Night Football, December 7, in the standard white set, as the team scheduled; Week 14 is the bye. For the rest of the season: White in ten of the seventeen games, and the team has published the full list. The exceptions are navy at Houston in Week 4, at Indianapolis in Week 9 and at the Rams in Week 15; the all-white Color Rush against Washington in Week 2, at Philadelphia in Week 7 and against Jacksonville in Week 16; and the Thanksgiving Classic against the Eagles in Week 12. The week-by-week grid above has every date.
 
 **What uniform did the Cowboys wear last week?**
 
@@ -141,7 +141,7 @@ For the uniform we logged in their most recent game, see the [NFL uniform tracke
 
 **What are the Cowboys wearing next week?**
 
-Find the week in the grid above. The team published all seventeen assignments on September 2, so the answer is no longer a projection.
+The standard white set at Seattle in Week 13, Monday, December 7, on the schedule the team published September 2. Week 14 is the bye, then navy at the Rams in Week 15. Every other week is in the grid above.
 
 **What jerseys do the Cowboys have in 2026?**
 
@@ -165,7 +165,7 @@ Three times: Week 2 against the Commanders on Sunday, September 20; Week 7 at th
 
 **When do the Cowboys wear the Thanksgiving throwback in 2026?**
 
-Week 12 against the Philadelphia Eagles on Thursday, November 26, confirmed by the team on September 2. It is the fifth straight Thanksgiving in the 1960s Classic.
+Week 12 against the Philadelphia Eagles on Thursday, November 26, confirmed by the team on September 2 and worn, per ESPN's game photos. It was the fifth straight Thanksgiving in the 1960s Classic, and the Eagles won 39-38.
 
 **What is the Cowboys Thanksgiving throwback uniform?**
 

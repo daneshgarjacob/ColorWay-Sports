@@ -111,7 +111,7 @@ Every uniform below was worn on Thanksgiving, apart from the Rams' Fearsome Whit
 
 **The colors:** white helmet with a single navy star and a gray facemask, a navy jersey with oversized stars on white shoulders, and white pants with two navy stripes. It copies the uniform Dallas wore from 1960 through 1964.
 
-**When it was worn:** every Thanksgiving from 2004 through 2012, per the [Dallas Cowboys](https://www.dallascowboys.com/news/cowboys-unveil-alternate-helmet-for-2022-season), including Tony Romo's five-touchdown game against Tampa Bay in 2006. The NFL's one-helmet rule shelved it from 2013 through 2021. It came back on Thanksgiving 2022 against the Giants and has been the Thanksgiving uniform every year since: 14 Thanksgivings in all, counting 2026. It was on again on Thanksgiving 2026 against the Eagles: [what the Cowboys are wearing on Thanksgiving 2026](/stories/cowboys-eagles-thanksgiving-uniforms-2026).
+**When it was worn:** every Thanksgiving from 2004 through 2012, per the [Dallas Cowboys](https://www.dallascowboys.com/news/cowboys-unveil-alternate-helmet-for-2022-season), including Tony Romo's five-touchdown game against Tampa Bay in 2006. The NFL's one-helmet rule shelved it from 2013 through 2021. It came back on Thanksgiving 2022 against the Giants and has been the Thanksgiving uniform every year since: 14 Thanksgivings in all, counting 2026. It was on again on Thanksgiving 2026 against the Eagles, who won 39-38 on a 59-yard field goal with two seconds left: the Classic's first Thanksgiving loss since its 2022 return, so it is 4-1 on the holiday in that run. [What the Cowboys and Eagles wore](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026).
 
 **Our take:** No team owns a holiday the way Dallas owns Thanksgiving in this uniform. Fourteen times on the biggest stage of the regular season, and nobody pictures the day without the white helmet anymore. Taking the silver away leaves the cleanest Cowboys look there is: three colors, big stars, block numbers. It is our favorite Cowboys uniform. It finishes second for one reason. The Cowboys turned an old uniform into a tradition. The Lions' throwback was already part of one.
 
@@ -138,7 +138,7 @@ This is our ranking. The fan vote is yours. All eight of these uniforms are in o
 
 ## What They Are Wearing This Thanksgiving
 
-The Cowboys' Classic was on again on Thursday, November 26. The Lions did not wear a throwback: they played the Bears in Honolulu blue with silver pants and the silver helmet and lost 39-35. All six Thanksgiving Day uniforms, helmet, jersey and pants, are in [what every NFL team is wearing on Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026), and all five holiday-week games are in [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026). The history behind these looks, year by year: [why do NFL teams wear throwback uniforms on Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
+The Cowboys' Classic was on again on Thursday, November 26, and lost on Thanksgiving for the first time since 2022, 39-38 to the Eagles, making it 4-1 on the holiday. The Lions did not wear a throwback: they played the Bears in Honolulu blue with silver pants and the silver helmet and lost 39-35. All six Thanksgiving Day uniforms, helmet, jersey and pants, are in [what every NFL team is wearing on Thanksgiving 2026](/stories/what-every-nfl-team-is-wearing-on-thanksgiving-2026), and all five holiday-week games are in [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026). The history behind these looks, year by year: [why do NFL teams wear throwback uniforms on Thanksgiving?](/stories/why-do-nfl-teams-wear-throwbacks-on-thanksgiving)
 
 ## Frequently Asked Questions
 
@@ -156,7 +156,7 @@ Their 1960s Classic throwback: a white helmet with a single navy star, a navy je
 
 **What are the Cowboys wearing on Thanksgiving 2026?**
 
-The 1960s Classic, against the Eagles on Thursday, November 26, at 4:30 p.m. ET on FOX. It is on the uniform schedule Dallas published on September 2. Details: [what are the Cowboys wearing on Thanksgiving 2026?](/stories/cowboys-eagles-thanksgiving-uniforms-2026)
+The 1960s Classic, against the Eagles on Thursday, November 26, as on the uniform schedule Dallas published on September 2, confirmed from ESPN's game photos. The Eagles won 39-38, the Classic's first Thanksgiving loss since 2022 (4-1). Details: [what the Cowboys and Eagles wore](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026).
 
 **What do the Lions wear on Thanksgiving?**
 

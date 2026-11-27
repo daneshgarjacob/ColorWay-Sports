@@ -13,7 +13,7 @@ league: nfl
 teams: ["detroit-lions", "chicago-bears", "dallas-cowboys", "philadelphia-eagles", "buffalo-bills", "kansas-city-chiefs"]
 ---
 
-Three games, six teams, one Thursday. Here is what every NFL team is wearing on Thanksgiving 2026, **Thursday, November 26**, with the helmet, jersey and pants spelled out in colors. The headline look is in Arlington: **the Cowboys wear their 1960s Classic throwback against the Eagles** for the fifth straight Thanksgiving. Detroit opened the day at home against Chicago and lost 39-35, in Honolulu blue and silver pants, not the 1934 throwback. Buffalo hosts Kansas City at night.
+Three games, six teams, one Thursday. Here is what every NFL team is wearing on Thanksgiving 2026, **Thursday, November 26**, with the helmet, jersey and pants spelled out in colors. The headline look was in Arlington: **the Cowboys wore their 1960s Classic throwback against the Eagles** for the fifth straight Thanksgiving and lost in it on the holiday for the first time, 39-38. Detroit opened the day at home against Chicago and lost 39-35, in Honolulu blue and silver pants, not the 1934 throwback. Buffalo hosts Kansas City at night.
 
 Each look carries one of three labels:
 
@@ -31,8 +31,8 @@ Each look carries one of three labels:
 <tbody>
 <tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Lions<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Worn</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Silver</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Honolulu blue</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Silver</td></tr>
 <tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bears<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Worn</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy</td></tr>
-<tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Cowboys<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Confirmed</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, vintage star</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy, white shoulders with stars</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, navy stripes</td></tr>
-<tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Eagles<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Confirmed</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Midnight green</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Midnight green</td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Cowboys<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Worn</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, vintage star</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Navy, white shoulders with stars</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White, navy stripes</td></tr>
+<tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Eagles<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Worn</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Midnight green</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Midnight green</td></tr>
 <tr style="background: #f7f8fa;"><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Bills<br><span style="font-size: 0.78em; font-weight: 700; color: #0a7a3d;">Confirmed</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Royal blue</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Royal blue</td></tr>
 <tr><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec; font-weight: 800;">Chiefs<br><span style="font-size: 0.78em; font-weight: 700; color: #5b6474;">Expected</span></td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Red</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">White</td><td style="padding: 9px 8px; border-top: 1px solid #e3e7ec;">Red (white worn once)</td></tr>
 </tbody>
@@ -71,9 +71,11 @@ Bears at Lions is also the oldest matchup on the holiday: Chicago played at Detr
 
 ## Eagles At Cowboys: 4:30 p.m. ET, FOX
 
-### What The Cowboys Are Wearing (Confirmed)
+**Final: Eagles 39, Cowboys 38.** Jake Elliott kicked a 59-yard field goal with two seconds left after Philadelphia trailed 31-10 in the third quarter. Both looks below are confirmed from ESPN's game photos.
 
-**White helmet with the vintage star, navy jersey with stars on the white shoulders, white pants with two navy stripes.** This is the Classic, Dallas's 1960s throwback, and it is on the uniform schedule the Cowboys published on September 2. The team confirmed it on November 24 with its Week 12 "Gameday Threads" post, labeled Classic. The white helmet replaces the usual silver one, and the navy jersey makes this the one home game all season where Dallas wears a dark jersey. It is the fifth straight Thanksgiving in this uniform, after 2022, 2023, 2024 and 2025. Every other Dallas date is in our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026).
+### What The Cowboys Wore (Worn)
+
+**White helmet with the vintage star, navy jersey with stars on the white shoulders, white pants with two navy stripes.** This is the Classic, Dallas's 1960s throwback, and it is on the uniform schedule the Cowboys published on September 2. The team confirmed it on November 24 with its Week 12 "Gameday Threads" post, labeled Classic. The white helmet replaces the usual silver one, and the navy jersey makes this the one home game all season where Dallas wears a dark jersey. It was the fifth straight Thanksgiving in this uniform, after 2022, 2023, 2024 and 2025, and the first loss in it on the holiday: the Classic is now 4-1 on Thanksgiving. Every other Dallas date is in our [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/2125316385874096622"></a></blockquote>
@@ -81,9 +83,9 @@ Bears at Lions is also the oldest matchup on the holiday: Chicago played at Detr
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Cowboys' Week 12 Gameday Threads post from November 24, confirming the Classic, via <a href="https://x.com/dallascowboys" target="_blank" rel="noopener">@dallascowboys</a></p>
 
-### What The Eagles Are Wearing (Confirmed)
+### What The Eagles Wore (Worn)
 
-**Midnight green helmet, white jersey, midnight green pants.** The Eagles showed the white jerseys in their ["Thanksgiving threads" locker-room video](https://x.com/Eagles/status/2125995395587485846) on Thursday morning, and their [first-quarter game photo](https://x.com/Eagles/status/2126081246845354358) shows the midnight green pants. With Dallas in navy, Philadelphia has to wear white, so there is no Kelly Green on Thanksgiving. The Eagles' three 2026 alternate dates, Kelly Green in Weeks 9 and 16 and the black alternate in Week 15, were set on September 4, and this game is not one of them. Philadelphia has paired the white jersey with both white and midnight green pants this season. Our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) has every date.
+**Midnight green helmet, white jersey, midnight green pants.** The Eagles showed the white jerseys in their ["Thanksgiving threads" locker-room video](https://x.com/Eagles/status/2125995395587485846) on Thursday morning, and their [first-quarter game photo](https://x.com/Eagles/status/2126081246845354358) shows the midnight green pants. With Dallas in navy, Philadelphia had to wear white, so there was no Kelly Green on Thanksgiving. The Eagles' three 2026 alternate dates, Kelly Green in Weeks 9 and 16 and the black alternate in Week 15, were set on September 4, and this game is not one of them. Philadelphia has paired the white jersey with both white and midnight green pants this season. Our [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026) has every date.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/Eagles/status/2088784207120138296"></a></blockquote>
@@ -91,7 +93,7 @@ Bears at Lions is also the oldest matchup on the holiday: Chicago played at Detr
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">The Eagles' white road jersey, via <a href="https://x.com/Eagles" target="_blank" rel="noopener">@Eagles</a></p>
 
-The full game page, with the Cowboys' Thanksgiving history and our grade: [What Are The Cowboys Wearing On Thanksgiving 2026?](/stories/cowboys-eagles-thanksgiving-uniforms-2026)
+The full game page, with the Cowboys' Thanksgiving history and our grade: [What Are The Cowboys Wearing On Thanksgiving 2026?](/stories/cowboys-eagles-thanksgiving-uniforms-2026). After the game: [what the Cowboys and Eagles wore](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026).
 
 ## Chiefs At Bills: 8:20 p.m. ET, NBC
 
@@ -133,7 +135,7 @@ All six teams wear the round [John Madden Thanksgiving patch](/stories/john-madd
 
 **What is every NFL team wearing on Thanksgiving 2026?**
 
-Lions: silver helmet, Honolulu blue jersey, silver pants (worn; Bears won 39-35). Bears: navy helmet, white jersey, navy pants (worn). Cowboys: the 1960s Classic throwback, white helmet, navy jersey, white pants (confirmed). Eagles: midnight green helmet, white jersey, midnight green pants (confirmed). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Chiefs: red helmet, white jersey, red pants (expected).
+Lions: silver helmet, Honolulu blue jersey, silver pants (worn; Bears won 39-35). Bears: navy helmet, white jersey, navy pants (worn). Cowboys: the 1960s Classic throwback, white helmet, navy jersey, white pants (worn; Eagles won 39-38). Eagles: midnight green helmet, white jersey, midnight green pants (worn). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Chiefs: red helmet, white jersey, red pants (expected).
 
 **What are the Lions wearing on Thanksgiving 2026?**
 
@@ -149,7 +151,7 @@ The white road jersey with the navy helmet and navy pants at Ford Field, confirm
 
 **What are the Cowboys wearing on Thanksgiving 2026?**
 
-The Classic, the 1960s throwback: white helmet with the vintage star, navy jersey with stars on the white shoulders, and white pants with navy stripes. It is on the uniform schedule Dallas published September 2.
+Dallas wore the Classic, the 1960s throwback: white helmet with the vintage star, navy jersey with stars on the white shoulders, and white pants with navy stripes, confirmed from ESPN's game photos. It was on the uniform schedule Dallas published September 2. The Eagles won 39-38.
 
 **Why do the Cowboys wear a throwback on Thanksgiving?**
 
@@ -157,7 +159,7 @@ Dallas has worn the 1960s Classic every Thanksgiving since 2022, the first seaso
 
 **What are the Eagles wearing on Thanksgiving?**
 
-White jerseys with midnight green pants and the midnight green helmet, confirmed by the Eagles' own posts on Thanksgiving. The Cowboys wear a navy jersey that day, so Philadelphia has to wear white.
+White jerseys with midnight green pants and the midnight green helmet, confirmed by the Eagles' own posts on Thanksgiving and ESPN's game photos. The Cowboys wore a navy jersey that day, so Philadelphia had to wear white.
 
 **Will the Eagles wear Kelly Green on Thanksgiving?**
 

@@ -87,6 +87,7 @@ const JERSEY_NAMES = {
   "broncos-orange-home": "Sunset Orange",
   "broncos-white-road": "Summit White",
   "vikings-purple-classic": "Classic Purple Throwback",
+  "cowboys-1960s-classic": "1960s Classic Throwback",
 };
 // Photos that show the same jersey as another photo: count them as one jersey.
 const JERSEY_ALIASES = {

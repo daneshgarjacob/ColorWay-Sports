@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 12 of the 2026 NFL season is Thanksgiving week, and it runs six days, from Wednesday, November 25 to Monday, November 30: 16 games, no byes, and football on five of the six days. It opened with the first Thanksgiving Eve game in NFL history, a 26-13 Rams win over the Packers on Netflix, with Los Angeles in Fearsome White, and has three games on Thanksgiving Day, the first a 39-35 Bears win at Detroit with the Lions in Honolulu blue, not a throwback, and the first Black Friday game in Steelers history, and ends on Monday night in Tampa. Four teams have already posted their full look for the week. **The Rams confirmed Fearsome White**, the Bills confirmed **blue over blue** for Thanksgiving night, the Bengals confirmed black over orange pants for the Saints, and on Tuesday the Steelers announced the **all-black Color Rush** for Black Friday, not the gold 1933 throwback we had on that date. The Packers posted green over gold pants on Monday.
+Week 12 of the 2026 NFL season is Thanksgiving week, and it runs six days, from Wednesday, November 25 to Monday, November 30: 16 games, no byes, and football on five of the six days. It opened with the first Thanksgiving Eve game in NFL history, a 26-13 Rams win over the Packers on Netflix, with Los Angeles in Fearsome White, and has three games on Thanksgiving Day, the first a 39-35 Bears win at Detroit with the Lions in Honolulu blue, not a throwback, the second a 39-38 Eagles win at Dallas with the Cowboys in the 1960s Classic, and the first Black Friday game in Steelers history, and ends on Monday night in Tampa. Four teams have already posted their full look for the week. **The Rams confirmed Fearsome White**, the Bills confirmed **blue over blue** for Thanksgiving night, the Bengals confirmed black over orange pants for the Saints, and on Tuesday the Steelers announced the **all-black Color Rush** for Black Friday, not the gold 1933 throwback we had on that date. The Packers posted green over gold pants on Monday.
 
 Below is every Week 12 look we know, special ones first and then the rest of the games in kickoff order. **Confirmed** means the team has posted the jersey or the full combination for this game. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, with the reason, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
 
@@ -39,20 +39,20 @@ Green Bay **confirmed** its side on Monday, "On Wednesdays we wear Green & Gold"
 
 Royal and white against green and gold is four strong colors with no overlap, under the lights, on a night with no other football. Our matchup grade: **A-**. The Rams won 26-13. Every detail is in [what the Rams are wearing on Thanksgiving Eve](/stories/packers-rams-thanksgiving-eve-uniforms-2026). See the [Rams 2026 uniform schedule](/stories/rams-uniform-schedule-2026) and the [Packers 2026 uniform schedule](/stories/packers-uniform-schedule-2026).
 
-### Philadelphia Eagles At Dallas Cowboys: The Thanksgiving Classic
+### Philadelphia Eagles At Dallas Cowboys: The Thanksgiving Classic (Final: Eagles 39, Cowboys 38)
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/dallascowboys/status/2125316385874096622"></a></blockquote>
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">The Cowboys' Week 12 Gameday Threads post from November 24, confirming the Classic, via <a href="https://x.com/dallascowboys" target="_blank" rel="noopener">@dallascowboys</a></p>
 
-**Thursday, 4:30 p.m. ET, FOX.** Dallas published all 17 of its 2026 uniform assignments on September 2, and Week 12 is the **Classic**, the 1960s throwback: a **white helmet with the vintage star and a gray facemask**, a navy jersey with stars on the white shoulder yoke and solid block numbers, and white pants with twin navy stripes. The Cowboys have worn it on Thanksgiving every year since 2022. **Confirmed**: the team posted the Classic as its Week 12 "Gameday Threads" on November 24.
+**Thursday, 4:30 p.m. ET, FOX. Final: Eagles 39, Cowboys 38.** Dallas published all 17 of its 2026 uniform assignments on September 2, and Week 12 is the **Classic**, the 1960s throwback: a **white helmet with the vintage star and a gray facemask**, a navy jersey with stars on the white shoulder yoke and solid block numbers, and white pants with twin navy stripes. The Cowboys have worn it on Thanksgiving every year since 2022. **Worn**: the team posted the Classic as its Week 12 "Gameday Threads" on November 24, and ESPN's game photos show the white helmet with the navy star, the navy jersey with starred white shoulders and the white pants on the field.
 
-Philadelphia is **confirmed** in **white with midnight green pants** and the midnight green helmet: the Eagles showed the white jerseys in their ["Thanksgiving threads" locker-room video](https://x.com/Eagles/status/2125995395587485846) on Thursday morning, and their [first-quarter game photo](https://x.com/Eagles/status/2126081246845354358) shows the midnight green pants. The Classic is a navy jersey, so the Eagles cannot bring a color to AT&T Stadium the way they did with Kelly Green in 2025, and none of their three alternate dates falls on Thanksgiving.
+Philadelphia wore **white with midnight green pants** and the midnight green helmet, confirmed from ESPN's game photos: the Eagles showed the white jerseys in their ["Thanksgiving threads" locker-room video](https://x.com/Eagles/status/2125995395587485846) on Thursday morning, and their [first-quarter game photo](https://x.com/Eagles/status/2126081246845354358) shows the midnight green pants. The Classic is a navy jersey, so the Eagles could not bring a color to AT&T Stadium the way they did with Kelly Green in 2025, and none of their three alternate dates fell on Thanksgiving. The Eagles trailed 31-10 in the third quarter and won on Jake Elliott's 59-yard field goal with two seconds left, the Classic's first Thanksgiving loss: it is now 4-1 on the holiday since 2022.
 
-<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/eagles-white-road.jpg" alt="Philadelphia Eagles white road jersey, confirmed with midnight green pants at Dallas on Thanksgiving in Week 12 of 2026 while the Cowboys wear their Classic throwback" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Eagles &middot; Confirmed</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/eagles-white-road.jpg" alt="Philadelphia Eagles white road jersey, worn with midnight green pants at Dallas on Thanksgiving in Week 12 of 2026 while the Cowboys wore their Classic throwback" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Eagles &middot; Worn</figcaption></figure></div>
 
-The Classic is the best uniform Dallas owns, and it is against the division rival Cowboys fans care about most. Our matchup grade: **A-**. More in [what the Cowboys are wearing on Thanksgiving](/stories/cowboys-eagles-thanksgiving-uniforms-2026). See the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and the [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026).
+The Classic is the best uniform Dallas owns, and it is against the division rival Cowboys fans care about most. Our matchup grade: **A-**. More in [what the Cowboys wore on Thanksgiving](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026). See the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and the [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026).
 
 ### Denver Broncos At Pittsburgh Steelers: The Color Rush On Black Friday
 
@@ -138,7 +138,7 @@ Navy head to toe against white is clean, and it is a far better Chargers look th
 
 - **Wednesday, 8:00 p.m. ET, Netflix:** Packers at Rams, green and gold against Fearsome White. Both worn as confirmed. Final: Rams 26, Packers 13.
 - **Thursday, 1:00 p.m. ET, CBS:** Bears at Lions, white against Honolulu blue. Final: Bears 39, Lions 35.
-- **Thursday, 4:30 p.m. ET, FOX:** Eagles at Cowboys, white over midnight green against the Classic throwback. Both confirmed.
+- **Thursday, 4:30 p.m. ET, FOX:** Eagles at Cowboys, white over midnight green against the Classic throwback. Both worn as confirmed. Final: Eagles 39, Cowboys 38.
 - **Thursday, 8:20 p.m. ET, NBC:** Chiefs at Bills, white against blue over blue.
 - **Friday, 3:00 p.m. ET, Prime Video:** Broncos at Steelers, Summit White against the all-black Color Rush.
 - **Sunday, 8:20 p.m. ET, NBC:** Raiders at Browns, flexed into Sunday night, white against brown.
@@ -211,7 +211,7 @@ Every player in the three Thanksgiving Day games wears the round [John Madden Th
 ### Thursday, November 26 (Thanksgiving)
 
 - **Chicago Bears at Detroit Lions**, 1:00 p.m. ET, CBS. Bears: navy helmet, white jersey, navy pants (worn). Lions: silver helmet, Honolulu blue jersey, silver pants (confirmed). Matchup grade: B+. Final: Bears 39, Lions 35, both looks confirmed from ESPN's game photos.
-- **Philadelphia Eagles at Dallas Cowboys**, 4:30 p.m. ET, FOX. Eagles: midnight green helmet, white jersey, midnight green pants (confirmed). Cowboys: the 1960s Classic, white helmet with the vintage star, navy jersey, white pants (confirmed). Matchup grade: A-.
+- **Philadelphia Eagles at Dallas Cowboys**, 4:30 p.m. ET, FOX. Eagles: midnight green helmet, white jersey, midnight green pants (worn). Cowboys: the 1960s Classic, white helmet with the vintage star, navy jersey, white pants (worn). Matchup grade: A-. Final: Eagles 39, Cowboys 38, both looks confirmed from ESPN's game photos.
 - **Kansas City Chiefs at Buffalo Bills**, 8:20 p.m. ET, NBC. Chiefs: red helmet, white jersey, red pants (expected). Bills: white helmet, royal blue jersey, royal blue pants (confirmed). Matchup grade: B+.
 
 ### Friday, November 27 (Black Friday)
@@ -241,7 +241,7 @@ None. All 32 teams play in Week 12.
 
 ## The Bottom Line
 
-Week 12 has more holiday football than any week of the year and three of its four best looks are on the holidays: Fearsome White on Wednesday night, the Cowboys' Classic on Thanksgiving afternoon, and the Steelers' Color Rush on Black Friday. Sunday adds the Cardinals' all-black set against Washington in white and navy Super Chargers at SoFi. The miss is the same one as every year: the Lions have a Thanksgiving throwback and left it in the closet, wearing Honolulu blue over silver in a 39-35 loss to the Bears. If you missed last week, our [Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026) has every Week 11 look, final and grade. All five holiday games are also in our [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) guide. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
+Week 12 has more holiday football than any week of the year and three of its four best looks are on the holidays: Fearsome White on Wednesday night, the Cowboys' Classic on Thanksgiving afternoon, which lost on the holiday for the first time, 39-38 to the Eagles, and the Steelers' Color Rush on Black Friday. Sunday adds the Cardinals' all-black set against Washington in white and navy Super Chargers at SoFi. The miss is the same one as every year: the Lions have a Thanksgiving throwback and left it in the closet, wearing Honolulu blue over silver in a 39-35 loss to the Bears. If you missed last week, our [Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026) has every Week 11 look, final and grade. All five holiday games are also in our [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) guide. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
 
 <span id="faq"></span>
 
@@ -249,7 +249,7 @@ Week 12 has more holiday football than any week of the year and three of its fou
 
 **What uniforms are NFL teams wearing in Week 12 of 2026?**
 
-Week 12 is Thanksgiving week. The Rams wore Fearsome White and beat the Packers 26-13 on Wednesday night, the Lions wore Honolulu blue, not a throwback, in a 39-35 loss to the Bears on Thanksgiving afternoon, the Cowboys wear their 1960s Classic throwback against the Eagles on Thanksgiving, the Bills wear blue over blue against the Chiefs on Thanksgiving night, and the Steelers wear the all-black Color Rush against the Broncos on Black Friday. On Sunday the Cardinals wear their black alternate against Washington, the Chargers wear navy Super Chargers against New England and the Saints wear their white alternate at Cincinnati. Most other teams wear their standard sets, home in color and visitors in white.
+Week 12 is Thanksgiving week. The Rams wore Fearsome White and beat the Packers 26-13 on Wednesday night, the Lions wore Honolulu blue, not a throwback, in a 39-35 loss to the Bears on Thanksgiving afternoon, the Cowboys wore their 1960s Classic throwback in a 39-38 loss to the Eagles on Thanksgiving, the Bills wear blue over blue against the Chiefs on Thanksgiving night, and the Steelers wear the all-black Color Rush against the Broncos on Black Friday. On Sunday the Cardinals wear their black alternate against Washington, the Chargers wear navy Super Chargers against New England and the Saints wear their white alternate at Cincinnati. Most other teams wear their standard sets, home in color and visitors in white.
 
 **What are the Steelers wearing on Black Friday?**
 
@@ -261,7 +261,7 @@ Fearsome White, as the Rams confirmed in their look book on November 24 and as s
 
 **What are the Cowboys wearing on Thanksgiving 2026?**
 
-The 1960s Classic throwback against the Eagles: white helmet with the vintage star, navy jersey with stars on the white shoulders and white pants with navy stripes. It is on the schedule Dallas published September 2, and Dallas has worn it every Thanksgiving since 2022.
+Dallas wore the 1960s Classic throwback against the Eagles: white helmet with the vintage star, navy jersey with stars on the white shoulders and white pants with navy stripes, confirmed from ESPN's game photos. It was on the schedule Dallas published September 2, and Dallas has worn it every Thanksgiving since 2022. The Eagles won 39-38, the Classic's first Thanksgiving loss (4-1 since 2022).
 
 **What are the Lions wearing on Thanksgiving 2026?**
 
@@ -301,7 +301,7 @@ None. All 32 teams play, across six days from Wednesday, November 25 to Monday, 
 
 **What are the Eagles wearing on Thanksgiving?**
 
-White with midnight green pants and the midnight green helmet, confirmed by the Eagles' Thanksgiving locker-room video and their own first-quarter game photo. The Cowboys' Classic throwback is a navy jersey, so Philadelphia could not bring Kelly Green or midnight green jerseys to AT&T Stadium.
+White with midnight green pants and the midnight green helmet, confirmed by the Eagles' Thanksgiving locker-room video, their own first-quarter game photo and ESPN's game photos. They won 39-38. The Cowboys' Classic throwback is a navy jersey, so Philadelphia could not bring Kelly Green or midnight green jerseys to AT&T Stadium.
 
 **What is on Monday Night Football in Week 12?**
 

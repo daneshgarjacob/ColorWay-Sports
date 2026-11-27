@@ -38,7 +38,7 @@ It is a fan vote, not an official ranking. The eight are our picks; the winner i
 
 ### Cowboys 1960s Classic Throwback
 
-A white helmet with a single navy star and a gray facemask, a navy jersey with white shoulders, and white pants. It copies the uniform Dallas wore from 1960 through 1964. The Cowboys wore a version of it on Thanksgiving every year from 2004 through 2012, per the [Dallas Cowboys](https://www.dallascowboys.com/news/cowboys-unveil-alternate-helmet-for-2022-season), including Tony Romo's five-touchdown game against Tampa Bay in 2006. The NFL's one-helmet rule shelved it after 2012; it came back on Thanksgiving 2022 against the Giants and has been the Thanksgiving uniform every year since. It is on the schedule again for the Eagles game this year: [What Are The Cowboys Wearing On Thanksgiving 2026?](/stories/cowboys-eagles-thanksgiving-uniforms-2026)
+A white helmet with a single navy star and a gray facemask, a navy jersey with white shoulders, and white pants. It copies the uniform Dallas wore from 1960 through 1964. The Cowboys wore a version of it on Thanksgiving every year from 2004 through 2012, per the [Dallas Cowboys](https://www.dallascowboys.com/news/cowboys-unveil-alternate-helmet-for-2022-season), including Tony Romo's five-touchdown game against Tampa Bay in 2006. The NFL's one-helmet rule shelved it after 2012; it came back on Thanksgiving 2022 against the Giants and has been the Thanksgiving uniform every year since. It was on again for the Eagles game this year, a 39-38 loss, its first on Thanksgiving since 2022: [What Did The Cowboys Wear On Thanksgiving 2026?](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026)
 
 ### Lions 1934 Throwback
 

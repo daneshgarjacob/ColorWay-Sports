@@ -1,7 +1,7 @@
 {
  "note": "Final scores from ESPN's public scoreboard, cached by scripts/build-uniform-records.mjs. The site build reads this file and never calls ESPN.",
  "season": 2026,
- "fetched": "2026-11-26",
+ "fetched": "2026-11-27",
  "weeks": {
   "1": [
    {
@@ -1820,14 +1820,14 @@
   ],
   "12": [
    {
-    "id": "401873080",
+    "id": "401873082",
     "week": 12,
     "date": "2026-11-26",
-    "kickoff": "2026-11-26T21:30Z",
-    "home": "Dallas Cowboys",
-    "away": "Philadelphia Eagles",
-    "homeScore": 28,
-    "awayScore": 10,
+    "kickoff": "2026-11-27T01:20Z",
+    "home": "Buffalo Bills",
+    "away": "Kansas City Chiefs",
+    "homeScore": 0,
+    "awayScore": 0,
     "final": false
    },
    {
@@ -1842,15 +1842,15 @@
     "final": true
    },
    {
-    "id": "401873082",
+    "id": "401873080",
     "week": 12,
     "date": "2026-11-26",
-    "kickoff": "2026-11-27T01:20Z",
-    "home": "Buffalo Bills",
-    "away": "Kansas City Chiefs",
-    "homeScore": 0,
-    "awayScore": 0,
-    "final": false
+    "kickoff": "2026-11-26T21:30Z",
+    "home": "Dallas Cowboys",
+    "away": "Philadelphia Eagles",
+    "homeScore": 38,
+    "awayScore": 39,
+    "final": true
    },
    {
     "id": "401873079",
