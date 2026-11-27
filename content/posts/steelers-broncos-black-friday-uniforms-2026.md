@@ -76,6 +76,16 @@ Summit White is the road half of the Mile High Collection Denver introduced in 2
 
 <div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/broncos-white-road.jpg" alt="Denver Broncos Summit White road jersey, confirmed with the navy helmet and orange pants for Black Friday 2026 at Pittsburgh" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Broncos &middot; Confirmed</figcaption></figure></div>
 
+## Why Are The Steelers' End Zones Black?
+
+For Black Friday. On the morning of the game the Steelers posted an overhead photo of Acrisure Stadium with the caption "Black endzones are here," and the field matches the uniform: both end zones are painted **solid black**, with **PITTSBURGH** in gold block letters in one and the **Steelers** wordmark in gold script in the other, a gold NFL shield and AFC logo in the corners, and the Steelers logo at midfield. The sideline stencils read "It Takes All Of Us" and "End Racism." Black field paint, black helmets, black jerseys and black pants match for the first all-black game Pittsburgh has played this season, on a day named after the color.
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2126341626045804831"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">"Black endzones are here," November 27, via <a href="https://x.com/steelers" target="_blank" rel="noopener">@steelers</a></p>
+
 ## Our Grade
 
 **B+.** All black with gold numbers against white, navy and orange is a sharp, high-contrast game, and the Color Rush is a better look than the standard black home set, because the black pants finish what the black jersey starts. What keeps it from an A is the date. The gold 1933 throwback on the first Black Friday game in franchise history would have been the most memorable look of the holiday week, and the Steelers went with the darker option.
@@ -121,6 +131,14 @@ Not before this game. Black Friday is the first time this season. Pittsburgh did
 **Will the Broncos wear orange in Pittsburgh?**
 
 No. Denver's published schedule has Summit White for this game. Sunset Orange is on four other dates.
+
+**Why are the Steelers' end zones black?**
+
+For the Black Friday game. The Steelers painted both end zones at Acrisure Stadium solid black with gold lettering, PITTSBURGH in one and the Steelers script in the other, and posted the field on game morning with the caption "Black endzones are here."
+
+**What color are the Steelers' end zones on Black Friday?**
+
+Black, with gold PITTSBURGH and Steelers lettering and gold NFL and AFC logos.
 
 **What time is Broncos vs. Steelers?**
 

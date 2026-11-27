@@ -46,8 +46,8 @@ export async function generateMetadata({
   const entry = nflTeamByKey(team);
   if (!entry) return {};
   const confirmed = entry.games.filter((g) => g.confirmed).length;
-  const title = `${entry.name} 2026 Uniform Calendar: Every Week, Every Jersey`;
-  const description = `A week-by-week ${entry.name} uniform calendar for 2026. All 18 weeks, which jersey they wear in each one, ${confirmed} officially confirmed, plus home and road splits.`;
+  const title = `What Are The ${entry.nickname} Wearing This Week? ${entry.name} 2026 Uniform Calendar`;
+  const description = `What the ${entry.nickname} are wearing this week and every week of 2026: the helmet, jersey and pants for all 18 weeks, ${confirmed} confirmed by the team, plus what they wore last game.`;
   return {
     title,
     description,
@@ -181,6 +181,13 @@ export default async function NflTeamCalendarPage({
               All 18 weeks laid out, colored by the jersey they wear. A star means the{" "}
               {entry.nickname} have confirmed it.
             </p>
+            <a
+              href={`/stories/${entry.scheduleSlug}`}
+              className="mt-5 inline-block rounded-xl bg-white px-5 py-3 text-[16px] font-extrabold leading-snug shadow-sm transition-opacity hover:opacity-90"
+              style={{ color: entry.color }}
+            >
+              {`Full ${entry.nickname} Uniform Schedule: Every Game, The Next Look And Our Grades`} &rarr;
+            </a>
 
             <div className="flex flex-wrap gap-x-8 gap-y-3 mt-7">
               {[
@@ -221,6 +228,10 @@ export default async function NflTeamCalendarPage({
           }
           answers={[]}
           link={latest ? { href: latest.trackerHref, label: "See the game in the NFL uniform tracker" } : null}
+          extraLinks={[
+            { href: `/stories/${entry.scheduleSlug}`, label: `${entry.nickname} Uniform Schedule: Every Game` },
+            ...(recordTeam ? [{ href: `/uniform-records/${recordTeam.slug}`, label: `The ${entry.nickname}' Record In Every Uniform` }] : []),
+          ]}
         />
 
         {/* Body + desktop ad rail, same as a story page (components/TrackerRail.tsx). */}

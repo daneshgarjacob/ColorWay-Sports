@@ -1,10 +1,10 @@
 ---
-title: "The John Madden Thanksgiving Patch Is Back For 2026: What The Patch On NFL Jerseys On Thanksgiving Is, And Which Six Teams Wear It"
+title: "The John Madden Thanksgiving Patch 2026: What The Patch On NFL Jerseys On Thanksgiving Was, And The Six Teams That Wore It"
 author: "colorway-sports-staff"
 category: "NFL"
 date: "2026-11-19"
-updatedDate: "2026-11-19"
-excerpt: "The John Madden Thanksgiving patch returns on November 26, 2026: a round patch with a silhouette of Madden in his broadcast headset, worn by every player on the Lions, Bears, Cowboys, Eagles, Bills and Chiefs. What it looks like, where it sits on the jersey, and how the tribute has grown since 2022."
+updatedDate: "2026-11-27"
+excerpt: "Every player on the Lions, Bears, Cowboys, Eagles, Bills and Chiefs wore the John Madden Thanksgiving patch on November 26, 2026: a round patch with a silhouette of Madden in his broadcast headset. What it looks like, where it sat on the jersey, what each team wore with it, and how the tribute has grown since 2022."
 gradient: "linear-gradient(135deg, #4A2A17 0%, #2a170c 55%, #F28C28 130%)"
 cardStyle: words
 kicker: "Thanksgiving Week"
@@ -13,9 +13,11 @@ league: "nfl"
 teams: ["detroit-lions", "chicago-bears", "dallas-cowboys", "philadelphia-eagles", "buffalo-bills", "kansas-city-chiefs"]
 ---
 
-**The John Madden Thanksgiving patch is back.** The NFL announced on Thursday, November 19 that its fifth annual **John Madden Thanksgiving Celebration** runs on Thanksgiving Day, **Thursday, November 26, 2026**, and that "a patch featuring a silhouette of Coach Madden will be included on the jersey of each player at all three games," per the league's release on [NFL.com](https://www.nfl.com/news/fifth-annual-john-madden-thanksgiving-celebration-on-thursday-nov-26). That means six teams: the **Detroit Lions and Chicago Bears**, the **Dallas Cowboys and Philadelphia Eagles**, and the **Buffalo Bills and Kansas City Chiefs**.
+**Update, November 27:** the three Thanksgiving games are in the books, and the patch was there. Every player in Bears-Lions, Eagles-Cowboys and Chiefs-Bills wore it on the left chest; you can see it on the Bears' post-game photos and on both jerseys in the Eagles' final-score photo. The Bears beat the Lions 39-35, the Eagles beat the Cowboys 39-38, and the Bills beat the Chiefs 13-10. What each team wore with the patch is in our three game stories: [Lions and Bears](/stories/lions-bears-thanksgiving-what-they-wore-2026), [Cowboys and Eagles](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026) and [Bills and Chiefs](/stories/bills-chiefs-thanksgiving-what-they-wore-2026).
 
-If you are watching on Thursday and wondering what the round orange-and-brown patch on every jersey is, this is it: a tribute to John Madden, the Hall of Fame coach and broadcaster who called 20 Thanksgiving Day games and died in December 2021.
+**The John Madden Thanksgiving patch came back for a fourth year.** The NFL announced on Thursday, November 19 that its fifth annual **John Madden Thanksgiving Celebration** runs on Thanksgiving Day, **Thursday, November 26, 2026**, and that "a patch featuring a silhouette of Coach Madden will be included on the jersey of each player at all three games," per the league's release on [NFL.com](https://www.nfl.com/news/fifth-annual-john-madden-thanksgiving-celebration-on-thursday-nov-26). That means six teams: the **Detroit Lions and Chicago Bears**, the **Dallas Cowboys and Philadelphia Eagles**, and the **Buffalo Bills and Kansas City Chiefs**.
+
+If you watched on Thursday and wondered what the round orange-and-brown patch on every jersey was, this is it: a tribute to John Madden, the Hall of Fame coach and broadcaster who called 20 Thanksgiving Day games and died in December 2021.
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/NFLMedia/status/2123433374534836704"></a></blockquote>
@@ -25,8 +27,9 @@ If you are watching on Thursday and wondering what the round orange-and-brown pa
 ## Quick Answers
 
 - **What is the patch on NFL jerseys on Thanksgiving?** The John Madden Thanksgiving patch, a round patch with a silhouette of Madden.
-- **Is it back in 2026?** Yes. The NFL confirmed it on November 19 for all three Thanksgiving Day games.
-- **Which teams wear it?** All six Thanksgiving Day teams: Lions, Bears, Cowboys, Eagles, Bills and Chiefs.
+- **Was it worn in 2026?** Yes, in all three Thanksgiving Day games on November 26.
+- **Which teams wore it?** All six Thanksgiving Day teams: Lions, Bears, Cowboys, Eagles, Bills and Chiefs.
+- **Final scores?** Bears 39, Lions 35. Eagles 39, Cowboys 38. Bills 13, Chiefs 10.
 - **Where does it go?** On the front of the jersey, high on the player's left chest, toward the shoulder.
 - **Since when?** The tribute started in 2022 with a helmet sticker. The jersey patch has been worn every Thanksgiving since 2023, so 2026 is its fourth year.
 
@@ -47,22 +50,22 @@ On the field, embroidered versions have read a little more gold than orange depe
 
 **On the front, on the player's left chest, high up and toward the shoulder, below the collar.** On the Lions' 2024 jersey above, the Madden patch sits on the left chest while the captain's "C" patch is on the opposite side of the chest. The Packers' photo gallery of team seamstresses [sewing the patch onto Green Bay's white jerseys](https://www.packers.com/photos/photos-packers-seamstresses-affix-madden-patch-ahead-of-week-13-thanksgiving-game-2025) before Thanksgiving 2025 shows the same spot.
 
-That location matters for the six 2026 uniforms. Dallas is scheduled to wear its navy **1960s Classic throwback**, so on the Cowboys the patch will sit on navy. Detroit is expected in Honolulu blue, Buffalo is scheduled in royal blue, and the three visitors are expected in white.
+That location mattered for the six 2026 uniforms. Dallas wore its navy **1960s Classic throwback**, so on the Cowboys the patch sat on navy. Detroit wore Honolulu blue, Buffalo wore royal blue, and the three visitors, Chicago, Philadelphia and Kansas City, wore white.
 
-## The Six Teams Wearing The Madden Patch In 2026
+## The Six Teams That Wore The Madden Patch In 2026
 
 <div style="overflow-x: auto; margin: 1.5em 0;">
 <table style="width: 100%; border-collapse: collapse; font-size: 0.88em;">
-<thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 12px; text-align: left;">Game</th><th style="padding: 10px 12px; text-align: left;">Kickoff (ET)</th><th style="padding: 10px 12px; text-align: left;">TV</th><th style="padding: 10px 12px; text-align: left;">Uniforms</th></tr></thead>
+<thead><tr style="background: #0d1322; color: #ffffff;"><th style="padding: 10px 12px; text-align: left;">Game</th><th style="padding: 10px 12px; text-align: left;">Kickoff (ET)</th><th style="padding: 10px 12px; text-align: left;">TV</th><th style="padding: 10px 12px; text-align: left;">Final and uniforms</th></tr></thead>
 <tbody>
-<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800;">Bears at Lions</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 1:00 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">CBS</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><a href="/stories/lions-bears-thanksgiving-uniforms-2026">Lions vs. Bears Thanksgiving uniforms</a></td></tr>
-<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800;">Eagles at Cowboys</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 4:30 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">FOX</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><a href="/stories/cowboys-eagles-thanksgiving-uniforms-2026">Cowboys vs. Eagles Thanksgiving uniforms</a></td></tr>
-<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800;">Chiefs at Bills</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 8:20 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">NBC</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;"><a href="/stories/bills-chiefs-thanksgiving-uniforms-2026">Bills vs. Chiefs Thanksgiving uniforms</a></td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800;">Bears at Lions</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 1:00 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">CBS</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Bears 39-35. <a href="/stories/lions-bears-thanksgiving-what-they-wore-2026">What the Lions and Bears wore</a></td></tr>
+<tr><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800;">Eagles at Cowboys</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 4:30 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">FOX</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Eagles 39-38. <a href="/stories/cowboys-eagles-thanksgiving-what-they-wore-2026">What the Cowboys and Eagles wore</a></td></tr>
+<tr style="background: #f7f8fa;"><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top; font-weight: 800;">Chiefs at Bills</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Thursday, Nov. 26, 8:20 p.m.</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">NBC</td><td style="padding: 9px 12px; border-top: 1px solid #e3e7ec; vertical-align: top;">Bills 13-10. <a href="/stories/bills-chiefs-thanksgiving-what-they-wore-2026">What the Bills and Chiefs wore</a></td></tr>
 </tbody>
 </table>
 </div>
 
-The league's release covers the three Thursday games. It does not mention the Packers at Rams on Thanksgiving Eve or the Broncos at Steelers on Black Friday, so do not expect the patch in those two games unless the NFL says otherwise. All five holiday-week games and every uniform are in our [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) guide.
+The league's release covers the three Thursday games. It does not mention the Packers at Rams on Thanksgiving Eve or the Broncos at Steelers on Black Friday, and the patch was a Thursday-only tribute. All five holiday-week games and every uniform are in our [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) guide.
 
 ## Everything Else In The 2026 Madden Celebration
 
@@ -109,13 +112,13 @@ This is how a memorial patch should work. It is small, it has no words on it, an
 
 It is the John Madden Thanksgiving patch, a round patch with a silhouette of the late Hall of Fame coach and broadcaster wearing his broadcast headset. Every player in the three Thanksgiving Day games wears it, as part of the NFL's John Madden Thanksgiving Celebration.
 
-**Is the Madden Thanksgiving patch back in 2026?**
+**Did NFL players wear the Madden patch on Thanksgiving 2026?**
 
-Yes. The NFL confirmed on November 19, 2026 that a patch with Madden's silhouette will be on the jersey of every player at all three Thanksgiving games on Thursday, November 26.
+Yes. Every player in all three Thanksgiving games on Thursday, November 26, 2026 wore the patch with Madden's silhouette, as the NFL announced on November 19.
 
-**Which teams wear the Madden patch in 2026?**
+**Which teams wore the Madden patch in 2026?**
 
-Six: the Detroit Lions and Chicago Bears (1:00 p.m. ET, CBS), the Dallas Cowboys and Philadelphia Eagles (4:30 p.m. ET, FOX), and the Buffalo Bills and Kansas City Chiefs (8:20 p.m. ET, NBC).
+Six: the Detroit Lions and Chicago Bears (Bears won 39-35), the Dallas Cowboys and Philadelphia Eagles (Eagles won 39-38), and the Buffalo Bills and Kansas City Chiefs (Bills won 13-10).
 
 **What does the Madden Thanksgiving patch look like?**
 
@@ -133,9 +136,9 @@ The John Madden Thanksgiving Celebration started in 2022, when the tribute was a
 
 Madden called 20 Thanksgiving Day NFL games as a broadcaster and made the holiday part of his on-air identity, from the turkey legs he handed out to the turducken. The league says the celebration brings together what mattered to him: family, football, food, tradition and fun.
 
-**Do the Thanksgiving Eve and Black Friday games have the Madden patch?**
+**Did the Thanksgiving Eve and Black Friday games have the Madden patch?**
 
-The NFL's release only covers the three Thursday games. It does not mention Packers at Rams on Wednesday, November 25, or Broncos at Steelers on Friday, November 27.
+The NFL's release only covered the three Thursday games. It does not mention Packers at Rams on Wednesday, November 25, or Broncos at Steelers on Friday, November 27.
 
 **What is on the Madden Thanksgiving coin?**
 
@@ -152,6 +155,9 @@ The NFL's release does not mention retail jerseys with the patch. Game-used item
 ## More Thanksgiving Uniform Coverage
 
 - [NFL Thanksgiving Uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026): all five holiday-week games, Wednesday through Black Friday
+- [What the Lions and Bears wore on Thanksgiving](/stories/lions-bears-thanksgiving-what-they-wore-2026)
+- [What the Cowboys and Eagles wore on Thanksgiving](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026)
+- [What the Bills and Chiefs wore on Thanksgiving](/stories/bills-chiefs-thanksgiving-what-they-wore-2026)
 - [Lions vs. Bears Thanksgiving Uniforms 2026](/stories/lions-bears-thanksgiving-uniforms-2026): the early game at Ford Field
 - [Cowboys vs. Eagles Thanksgiving Uniforms 2026](/stories/cowboys-eagles-thanksgiving-uniforms-2026): the 1960s Classic throwback in Arlington
 - [Bills vs. Chiefs Thanksgiving Uniforms 2026](/stories/bills-chiefs-thanksgiving-uniforms-2026): Thanksgiving night in Orchard Park

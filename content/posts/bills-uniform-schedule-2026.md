@@ -1,5 +1,5 @@
 ---
-title: "Bills Uniform & Jersey Schedule 2026: Every Week's Look"
+title: "Buffalo Bills Uniform Schedule 2026: What Jersey They Are Wearing This Week"
 category: NFL
 date: "2026-08-05"
 updatedDate: "2026-11-26"

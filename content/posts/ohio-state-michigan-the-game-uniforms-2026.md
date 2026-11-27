@@ -3,8 +3,8 @@ title: "What Are Ohio State And Michigan Wearing? The Game Uniforms 2026"
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-11-19"
-updatedDate: "2026-11-23"
-excerpt: "Ohio State vs. Michigan uniforms for The Game 2026: noon ET on FOX at Ohio Stadium on November 28. Ohio State is the home team in scarlet with three alternates still unassigned, and Michigan is expected in white. What both wore in 2023, 2024 and 2025, everything each has worn this season, and what to watch for in game week."
+updatedDate: "2026-11-27"
+excerpt: "Ohio State vs. Michigan uniforms for The Game 2026: noon ET on FOX at Ohio Stadium on November 28. Michigan is confirmed in all white under the maize winged helmet, Ohio State is expected in scarlet and showed off Victor Solomon cleats. What both wore in 2023, 2024 and 2025, everything each has worn this season, and what to watch for in game week."
 gradient: "linear-gradient(135deg, #BB0000 0%, #1a0505 55%, #00274C 130%)"
 cardStyle: words
 kicker: "Rivalry Week"
@@ -23,10 +23,24 @@ resurfaceOnUpdate: true
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">Ohio State's scarlet home jersey before the 2026 opener, via <a href="https://x.com/OhioStateFB" target="_blank" rel="noopener">@OhioStateFB</a></p>
 
+**Update, Friday, November 27:** Michigan is **confirmed in all white**. The Wolverines posted "Saturday's Threads" on Friday: the **maize winged helmet, white jersey with navy numbers and white pants**, the same all-white look Michigan wore the last time it played in Columbus, in 2024. Ohio State had not posted its game uniform on X as of Friday afternoon, so the Buckeyes stay **expected in scarlet**. What Ohio State did post was its cleats for The Game: red **Nike x Victor Solomon Vaporposites** with a gold swoosh and a gold chain hanging from the laces. Solomon is the artist who designed the NFL's new turkey-leg trophy for this year's [John Madden Thanksgiving MVP](/stories/john-madden-thanksgiving-patch-2026).
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UMichFootball/status/2126368356802429311"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">"Saturday's Threads," November 27, via <a href="https://x.com/UMichFootball" target="_blank" rel="noopener">@UMichFootball</a></p>
+
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/OhioStateFB/status/2126407515655311780"></a></blockquote>
+</div>
+
+<p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">Ohio State's Victor Solomon cleats for The Game, via <a href="https://x.com/OhioStateFB" target="_blank" rel="noopener">@OhioStateFB</a></p>
+
 ## Quick Answers
 
 - **What is Ohio State wearing against Michigan?** Expected: silver helmet, scarlet jersey. Ohio State is the home team.
-- **What is Michigan wearing at Ohio State?** Expected: the winged helmet and white jersey, the road set it wore in Columbus in 2024. Michigan's Monday "Rivalry Week" promo photo shows that look, but it is not a game uniform post.
+- **What is Michigan wearing at Ohio State?** **Confirmed:** the maize winged helmet, white jersey and white pants, all white, posted by Michigan as "Saturday's Threads" on November 27.
 - **Is Ohio State wearing an alternate?** Not announced. Scarlet Rush, Sub Zero and Tunnel Vision all exist, and none has been assigned a game.
 - **When is The Game?** Saturday, November 28, noon ET on FOX, at Ohio Stadium in Columbus.
 - **What did they wear last year?** In Ann Arbor in 2025, Michigan wore its "Big Game Blues," navy over navy, and Ohio State wore white. Ohio State won 27-9.
@@ -38,7 +52,7 @@ These are confirmed, from the schools, the network or the game photos:
 - **The game is in Columbus.** Ohio State announced on May 11 that The Game kicks off at noon on FOX at Ohio Stadium, so Ohio State is the home team. ([Ohio State Athletics](https://ohiostatebuckeyes.com/news/2026/5/11/football-the-game-set-to-air-on-fox-at-noon))
 - **Ohio State has five combinations in 2026 and picks one each week.** The May 15 uniform release lists the core home set, the core road set and three alternates, and says the uniform for each 2026 game "will be announced each game week." ([Ohio State Athletics](https://ohiostatebuckeyes.com/news/2026/5/15/ohio-state-football-honors-past-embraces-future-via-comprehensive-uniform-evolution-and-stadium-turf-modernization))
 - **The three alternates, as Ohio State lists them:** **Scarlet Rush** (silver helmet, scarlet jersey, scarlet pants), **Sub Zero** (silver helmet, white jersey, white pants) and **Tunnel Vision** (black helmet, black jersey, black pants). Tunnel Vision was introduced in 2015 and last worn in 2022.
-- **Neither team has posted a uniform for this game.** As of Thursday, November 19, Ohio State still has a road game at Nebraska and Michigan hosts UCLA first. Michigan has posted its uniform during game week this season (Indiana, Oregon), and Ohio State says it names each one in game week.
+- **Michigan posted its uniform on Friday, November 27: all white under the maize winged helmet.** Earlier in the week neither team had posted one. As of Thursday, November 19, Ohio State still has a road game at Nebraska and Michigan hosts UCLA first. Michigan has posted its uniform during game week this season (Indiana, Oregon), and Ohio State says it names each one in game week.
 
 ## What We're Watching For
 
@@ -46,7 +60,7 @@ This is our read. None of it is confirmed until a school posts it.
 
 - **Which scarlet look Ohio State wears.** Every Ohio Stadium game we have logged this season has been the silver helmet and scarlet jersey. What changes is the pants. They were gray against Illinois, Maryland and Northwestern, and scarlet against Oregon on November 7, which is the same helmet, jersey and pants Ohio State lists as Scarlet Rush.
 - **Whether Tunnel Vision comes out.** The black set has not been worn since 2022 and has no 2026 date. The Michigan game is Ohio State's last regular-season home date.
-- **Michigan's pants.** Michigan's white jersey has been worn with blue pants at Minnesota and maize pants at Oregon this season, so the jersey is close to certain and the pants are not.
+- **Michigan's pants.** Answered on Friday: white. Michigan's white jersey had been worn with blue pants at Minnesota and maize pants at Oregon this season; for Columbus it is white on white, as in 2024.
 - **The weather.** The Game is played in late November in Columbus. If it is cold, look for long sleeves and gloves, not a different uniform.
 
 ## What Ohio State Has Worn In 2026
@@ -68,7 +82,7 @@ From our [Michigan 2026 uniform schedule](/stories/michigan-uniform-schedule-202
 - **Maize helmet, navy jersey, navy pants** against Indiana on October 24, posted by Michigan as "Saturday's Threads."
 - **On the road:** the winged helmet and white jersey with **blue pants** at Minnesota (Oct. 3) and with **maize pants** at Oregon (Nov. 14), the last road game before Columbus.
 
-On Monday, November 23, Michigan posted "Rivalry Week." with a promo photo for the game: a player in the **white jersey and the maize winged helmet**, shot inside the Ohio Stadium rotunda, with "Nov. 28, Noon ET, on FOX" at the bottom. That is a promo graphic, not the team's game uniform post, so Michigan stays **expected in white** here until it posts its uniform for Saturday, as it did in game week for Indiana and Oregon.
+On Monday, November 23, Michigan posted "Rivalry Week." with a promo photo for the game: a player in the **white jersey and the maize winged helmet**, shot inside the Ohio Stadium rotunda, with "Nov. 28, Noon ET, on FOX" at the bottom. That was a promo graphic. The game uniform post came on Friday, November 27, and it matched: maize winged helmet, white jersey, white pants.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UMichFootball/status/2124873790853464573"></a></blockquote>
@@ -82,7 +96,7 @@ On Monday, November 23, Michigan posted "Rivalry Week." with a promo photo for t
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">Michigan's white road set for Oregon on November 14, via <a href="https://x.com/UMichFootball" target="_blank" rel="noopener">@UMichFootball</a></p>
 
-<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/michigan-wolverines-white.jpg" alt="Michigan white road jersey, expected at Ohio State in The Game 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Michigan &middot; Expected</figcaption></figure></div>
+<div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/cfb-jerseys/michigan-wolverines-white.jpg" alt="Michigan white road jersey, confirmed with white pants and the maize winged helmet at Ohio State in The Game 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.8em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Michigan &middot; Confirmed</figcaption></figure></div>
 
 ## What Ohio State And Michigan Wore In The Last Three Games
 
@@ -108,7 +122,11 @@ The silver helmet and scarlet jersey are expected, because The Game is at Ohio S
 
 **What is Michigan wearing against Ohio State?**
 
-The winged helmet and white jersey are expected. Michigan wore all white the last time it played in Columbus, in 2024. This season it has paired the white jersey with blue pants and with maize pants.
+All white under the maize winged helmet: white jersey and white pants, confirmed by Michigan's "Saturday's Threads" post on November 27. It is the same look Michigan wore the last time it played in Columbus, in 2024.
+
+**What cleats is Ohio State wearing against Michigan?**
+
+Red Nike x Victor Solomon Vaporposites with a gold swoosh and a gold chain on the laces, which Ohio State posted on November 27.
 
 **Is Ohio State wearing black against Michigan?**
 

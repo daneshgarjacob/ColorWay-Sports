@@ -3,7 +3,7 @@ title: "Louisville Uniform Schedule 2026: Every Jersey and When the Cardinals We
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-16"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-27"
 excerpt: "Louisville's 2026 uniform schedule: red home jerseys, white road uniforms, the Salute to Service helmet, and the black For The Ville alternate for Stanford."
 gradient: "linear-gradient(135deg, #AD0000 0%, #7a0000 55%, #000000 130%)"
 cardStyle: words
@@ -50,7 +50,7 @@ adidas makes all of it. The base red and white sets share one template: an arche
   <div style="background: #f1f3f8; color: #333; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Georgia Tech</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / White / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at North Carolina</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Red / White / Red</div></div>
   <div style="background: #AD0000; color: #ffffff; border: 2px solid #000000; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Pittsburgh</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Black / Red / Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #C8102E; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Kentucky</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">All Red</div></div>
 </div>
 
 **September 6 vs. Ole Miss, Nissan Stadium, Nashville.** ★ Confirmed from the broadcast: **white helmet, white jersey, white pants**. The helmet carried the red Cardinal head and a red facemask, the jersey had LOUISVILLE and the numerals in red with black outlines, and the pants had a red side stripe with the Cardinal head on the hip. Ole Miss was the designated home team for the Music City Kickoff, a Sunday night game, and wore navy over gray, so the all-white look was the visitor's default. No. 9 Ole Miss won 41-38 on a 48-yard field goal by Lucas Carneiro after Louisville had led 13-10 in the third quarter. The Rebels' side of the matchup is on the [Ole Miss 2026 uniform schedule](/stories/ole-miss-uniform-schedule-2026).
@@ -85,17 +85,19 @@ The Wolfpack side is on the [NC State 2026 uniform schedule](/stories/nc-state-u
 
 **November 21 vs. Pittsburgh.** Red expected. Senior Day and the final home game. **Worn: black helmet, red jersey, black pants**, confirmed from the game broadcast. Pitt wore a white helmet, white jersey and royal pants. **Final: Louisville 42, Pitt 10.**
 
-**November 28 at Kentucky.** White expected. The Governor's Cup is at Kroger Field this year, so Kentucky wears blue and Louisville comes in white. The Wildcats' side is on the [Kentucky 2026 uniform schedule](/stories/kentucky-uniform-schedule-2026).
+**November 28 at Kentucky.** ★ A **color rush**, per Kentucky Football's November 27 preview: Louisville in a **red helmet, red jersey and red pants**, Kentucky in all blue, the first time Louisville wears red in a true road game this season. Every detail: [Kentucky vs. Louisville color rush uniforms](/stories/kentucky-louisville-color-rush-governors-cup-uniforms-2026). The Wildcats' side is on the [Kentucky 2026 uniform schedule](/stories/kentucky-uniform-schedule-2026).
 
 ## The Bottom Line
 
 Five games in, Louisville has shown both sides of its base closet: all white in Nashville, red at home under a one-off flag helmet for the 9/11 anniversary, red over white and then red over red against SMU and Wake Forest, and a red helmet over the white road set at NC State. The rest of the calendar is simple. Red is the default for Florida State and Pittsburgh, white covers the four road trips left, and the black For The Ville set is locked in for Stanford on Halloween. That game is the one to watch, because it is the first time Louisville takes the field with no red on the uniform at all. The grid above has every date, and we fill in the stars as each uniform is confirmed.
 
+Read more: [Kentucky vs. Louisville color rush uniforms for the 2026 Governor's Cup](/stories/kentucky-louisville-color-rush-governors-cup-uniforms-2026): all blue against all red.
+
 ## Frequently Asked Questions
 
 **What jersey is Louisville wearing this week?**
 
-Louisville wore a black helmet, red jersey and black pants against Pittsburgh on Saturday, November 21, Senior Day and the final home game, confirmed from the game broadcast, and won 42-10. The week before, the Cardinals wore a red helmet, white jersey and red pants in a 16-14 win at North Carolina. Next is the Governor's Cup at Kentucky on November 28, where white is expected. The grid above lists every game with the expected uniform.
+Louisville wore a black helmet, red jersey and black pants against Pittsburgh on Saturday, November 21, Senior Day and the final home game, confirmed from the game broadcast, and won 42-10. The week before, the Cardinals wore a red helmet, white jersey and red pants in a 16-14 win at North Carolina. Next is the Governor's Cup at Kentucky on November 28, a color rush game: Louisville in a red helmet, red jersey and red pants, Kentucky in all blue, per Kentucky's November 27 preview. The grid above lists every game with the expected uniform.
 
 **What are Louisville's football uniforms for 2026?**
 

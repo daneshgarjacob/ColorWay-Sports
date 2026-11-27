@@ -73,6 +73,8 @@ The question is how the wave bands read on TV. Subtle curves can flatten into pl
 
 The home and away jerseys, including personalized player versions, are on sale at the PWHL's official shop in the U.S. and Canada. In Seattle they are sold, while quantities last, at the **Kraken Community Iceplex**, **The Armory at Seattle Center** and, on game days, **The Team Store at Climate Pledge Arena**.
 
+Read more: [NLL new jerseys 2026-27](/stories/nll-new-jerseys-2026-27-capelli-sport-every-team): all 12 teams in Capelli Sport, from each team's own reveal.
+
 ## Frequently Asked Questions
 
 **Did the Seattle Torrent get new jerseys?**

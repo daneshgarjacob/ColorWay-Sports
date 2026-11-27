@@ -3,7 +3,7 @@ title: "Kentucky Uniform Schedule 2026: Every Jersey and When the Wildcats Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-09-12"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-27"
 excerpt: "Kentucky goes black helmet, white jersey, black pants at Oklahoma on Oct. 17. The full 2026 uniform schedule: blue at home, white on the road, every helmet."
 gradient: "linear-gradient(135deg, #0033A0 0%, #0a2a70 55%, #FFFFFF 130%)"
 cardStyle: words
@@ -45,7 +45,7 @@ Twelve games, seven at Kroger Field, one bye, the Power K throwback against LSU,
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Tennessee</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Chrome · All White</div></div>
   <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Florida</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Night Ops: Black / Black / Black</div></div>
   <div style="background: #f1f3f8; color: #333; border: 2px solid #0033A0; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 21</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Missouri</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">&#9733; Blue / White / Blue</div></div>
-  <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Blue</div></div>
+  <div style="background: #0033A0; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">NOV 28</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Louisville</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">All Blue</div></div>
 </div>
 
 Home cells are blue, road cells are white, and a star marks a combination that has actually been worn. The black border on October 17 marks a combination the team has announced but not yet worn.
@@ -81,7 +81,7 @@ Home cells are blue, road cells are white, and a star marks a combination that h
 
 **November 21 at Missouri**, Columbia. White expected. [Missouri 2026 uniform schedule](/stories/missouri-uniform-schedule-2026). **Worn: blue helmet, white jersey, blue pants**, confirmed from the game broadcast. Missouri wore a black helmet with the gold M, black jersey and white pants. **Final: Missouri 28, Kentucky 14.**
 
-**November 28 vs. Louisville**, Lexington. Blue expected. The Governor's Cup is at Kroger Field this year, so Kentucky hosts in blue and Louisville comes in white. If the program is going to spring a black or alternate look in 2026, the rivalry finale is the most likely date. Nothing has been announced.
+**November 28 vs. Louisville**, Lexington, noon Eastern on ESPN2. ★ Announced by Kentucky on November 27 as a **color rush**: **blue helmet, blue jersey, blue pants**, with Louisville in all red. Every detail: [Kentucky vs. Louisville color rush uniforms](/stories/kentucky-louisville-color-rush-governors-cup-uniforms-2026).
 
 ## The Helmet Is the Big Question
 
@@ -91,11 +91,13 @@ Kentucky's jersey is mostly decided by the schedule. Blue at home, white on the 
 
 The Kentucky 2026 uniform schedule is two jerseys and three helmets. Blue jersey and white pants at Kroger Field, white jersey and white pants on the road, and a blue, white or chrome helmet on top depending on the week. The 2023 Nike set with the Wildcat shoulders and the checkerboard collar is in its fourth season. This fall has already brought a chrome helmet, the Power K throwback, an announced black helmet and black pants look for Oklahoma, a gray set against Vanderbilt and the all-black Night Ops set against Florida, so the November 28 Louisville game could bring one more.
 
+Read more: [Kentucky vs. Louisville color rush uniforms for the 2026 Governor's Cup](/stories/kentucky-louisville-color-rush-governors-cup-uniforms-2026): all blue against all red.
+
 ## Frequently Asked Questions
 
 **What jersey is Kentucky wearing this week?**
 
-Kentucky wore a blue helmet, white jersey and blue pants at Missouri on Saturday, November 21, confirmed from the game broadcast, and lost 28-14. Next is the Governor's Cup against Louisville at Kroger Field on November 28, where blue is expected. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
+Kentucky wore a blue helmet, white jersey and blue pants at Missouri on Saturday, November 21, confirmed from the game broadcast, and lost 28-14. Next is the Governor's Cup against Louisville at Kroger Field on November 28, a color rush game: Kentucky in a blue helmet, blue jersey and blue pants, Louisville in all red, per the team's November 27 preview. The Wildcats wear blue at home and white on the road in 2026, and the grid above lists every game with the expected jersey.
 
 **What are Kentucky's uniforms for 2026?**
 

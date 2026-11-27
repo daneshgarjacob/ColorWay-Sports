@@ -18,6 +18,7 @@ export default function TeamWearBox({
   lastGame,
   answers,
   link,
+  extraLinks,
   confirmedLabel = "Confirmed by the team",
   signup,
   nextOpponent,
@@ -34,6 +35,8 @@ export default function TeamWearBox({
   } | null;
   answers: WearAnswer[];
   link?: { href: string; label: string } | null;
+  /** Bigger "read this next" links under the answers (Jake 11/27: quick-lookup readers left after 12 seconds). */
+  extraLinks?: { href: string; label: string }[];
   confirmedLabel?: string;
   /** Team email signup, shown right under the headline answer (before the FAQ list) so it sits high on phones. */
   signup?: ReactNode;
@@ -141,6 +144,22 @@ export default function TeamWearBox({
           {signup}
 
           <WearQuickAnswers answers={answers} />
+
+          {extraLinks && extraLinks.length > 0 && (
+            <div className="mt-4 flex flex-col gap-2 sm:flex-row sm:flex-wrap">
+              {extraLinks.map((l) => (
+                <Link
+                  key={l.href}
+                  prefetch={false}
+                  href={l.href}
+                  className="flex-1 rounded-xl border-2 bg-white px-4 py-3 text-center text-[15px] font-bold leading-snug transition-colors hover:bg-black/[0.03]"
+                  style={{ borderColor: accent, color: accent }}
+                >
+                  {l.label} →
+                </Link>
+              ))}
+            </div>
+          )}
 
           {link && (
             <Link

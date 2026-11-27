@@ -3,7 +3,7 @@ title: "Michigan Uniform Schedule 2026: Every Jersey and When the Wolverines Wea
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-21"
+updatedDate: "2026-11-27"
 excerpt: "What Michigan wears every game in 2026: the winged helmet, the navy home set, the white road set, and every date week by week."
 gradient: "linear-gradient(135deg, #00274C 0%, #0b3a6b 55%, #FFCB05 130%)"
 cardStyle: words
@@ -83,7 +83,7 @@ The winged helmet is the whole identity, and it is worn with both sets, so the o
 
 **November 21 vs. UCLA.** Navy expected. **Worn: winged helmet, navy jersey, maize pants**, confirmed from game photos and the CBS broadcast. UCLA wore the gold helmet, white jersey and gold pants. **Final: Michigan 18, UCLA 16 (3OT).**
 
-**November 28 at Ohio State.** White expected. The Game, in Columbus. Michigan in white.
+**November 28 at Ohio State.** ★ Confirmed by Michigan ("Saturday's Threads," November 27): **maize winged helmet, white jersey, white pants**. The Game, in Columbus, in the same all-white look Michigan wore there in 2024. Full preview: [Ohio State vs. Michigan uniforms](/stories/ohio-state-michigan-the-game-uniforms-2026).
 
 ## The Bottom Line
 
@@ -93,7 +93,7 @@ Michigan's wardrobe is still short, but 2026 has already bent it. The all-maize 
 
 **What jersey is Michigan wearing this week?**
 
-Michigan wore the winged helmet, navy jersey and maize pants against UCLA on Saturday, November 21, confirmed from game photos and the CBS broadcast, and won 18-16 in triple overtime. Next is The Game at Ohio State on November 28, where white is expected. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
+Michigan wore the winged helmet, navy jersey and maize pants against UCLA on Saturday, November 21, confirmed from game photos and the CBS broadcast, and won 18-16 in triple overtime. Next is The Game at Ohio State on November 28, in all white under the maize winged helmet, as Michigan posted on November 27. Michigan wears navy at home and white on the road in 2026. The week-by-week grid above lists every game with the expected set, and we update it as combinations are confirmed.
 
 **What are Michigan's uniforms for 2026?**
 

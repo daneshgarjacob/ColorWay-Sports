@@ -14,6 +14,7 @@ import ReadingProgress from "@/components/ReadingProgress";
 import ImageZoom from "@/components/ImageZoom";
 import BracketVote from "@/components/BracketVote";
 import FavoriteVote from "@/components/FavoriteVote";
+import { allRecordTeams } from "@/lib/uniformRecords";
 import TrackerJumpNav, { type JumpNavItem } from "@/components/TrackerJumpNav";
 import TrackerSearch from "@/components/TrackerSearch";
 import TrackerTeamIndex from "@/components/TrackerTeamIndex";
@@ -172,6 +173,17 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
   const nflTracker = nflTeam ? await getPostBySlug("nfl-uniform-tracker-2026") : null;
   const nflLatest =
     nflTeam && nflTracker ? getNflLatestFromTracker(nflTracker.contentHtml, nflTeam.name) : null;
+  // Two things to read next, right under the answer: the club's win-loss in
+  // each uniform, and every uniform's record league-wide (Jake 11/27).
+  const nflRecordTeam = nflTeam ? allRecordTeams("nfl").find((t) => t.name === nflTeam.name && t.combos.length > 0) : undefined;
+  const nflExtraLinks = nflTeam
+    ? [
+        ...(nflRecordTeam
+          ? [{ href: `/uniform-records/${nflRecordTeam.slug}`, label: `The ${nflTeam.name.split(" ").slice(-1)[0]}' Record In Every Uniform This Season` }]
+          : []),
+        { href: "/stories/nfl-uniforms-undefeated-and-winless-2026", label: "The NFL Uniforms That Have Not Lost In 2026" },
+      ]
+    : [];
 
   // NBA/NHL schedule posts carry the club's month-by-month calendar (Jake 11/4:
   // fans search "uniform schedule", so the calendar lives here, not only on
@@ -621,6 +633,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
           }
           answers={nflWear.answers}
           link={nflLatest ? { href: nflLatest.trackerHref, label: "See the game in the NFL uniform tracker" } : null}
+          extraLinks={nflExtraLinks}
           nextOpponent={nflWear.headline ? nextOpp("nfl", nflWear.headline.opponent) : null}
           signup={boxSignup("nfl")}
         />

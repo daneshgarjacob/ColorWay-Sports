@@ -219,7 +219,7 @@ function PollBox({ poll, options }: { poll: Poll; options: PollOption[] }) {
           {status.fresh ? `Your vote is saved: ${nameOf(mine)}` : `You voted ${nameOf(mine)}. Your vote is saved.`}
         </div>
         <div className="m-0 mt-1 text-[16px] leading-snug text-[#4b5563]">
-          {status.t.closed ? `Voting is closed. ${votesWord(status.t.count)} in all.` : `${votesWord(status.t.count)} so far.`}
+          {status.t.closed ? "Voting is closed." : `${votesWord(status.t.count)} so far.`}
         </div>
       </div>
     );
@@ -247,7 +247,7 @@ function PollBox({ poll, options }: { poll: Poll; options: PollOption[] }) {
   } else if (closed) {
     statusEl = (
       <div className="m-0 text-[16px] font-bold leading-snug text-navy-deep">
-        Voting is closed.{status.t ? ` ${votesWord(status.t.count)} in all.` : ""}
+        Voting is closed.
       </div>
     );
   }
@@ -281,7 +281,7 @@ function PollBox({ poll, options }: { poll: Poll; options: PollOption[] }) {
                 type="button"
                 role={locked ? undefined : "radio"}
                 aria-checked={locked ? undefined : isChosen}
-                aria-label={`${fullName(o)}${isMine ? ", your pick" : ""}${share !== null ? `, ${share}%, ${votesWord(n)}` : ""}`}
+                aria-label={`${fullName(o)}${isMine ? ", your pick" : ""}${share !== null ? `, ${share}%` : ""}`}
                 disabled={locked}
                 onClick={() => setPicked(o.key)}
                 className={`group flex h-full w-full flex-col overflow-hidden rounded-[12px] border-2 bg-white text-left transition-[border-color,box-shadow] duration-150 [-webkit-tap-highlight-color:transparent] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-orange ${
@@ -315,7 +315,7 @@ function PollBox({ poll, options }: { poll: Poll; options: PollOption[] }) {
                     <span className="mt-auto block pt-2">
                       <span className="flex items-baseline justify-between gap-1">
                         <span className="text-[20px] font-extrabold tabular-nums text-navy-deep">{share}%</span>
-                        <span className="text-[14px] font-medium tabular-nums text-[#4b5563]">{votesWord(n)}</span>
+                        {!(closed || t?.closed) && <span className="text-[14px] font-medium tabular-nums text-[#4b5563]">{votesWord(n)}</span>}
                       </span>
                       <span aria-hidden="true" className="mt-1 block h-2 overflow-hidden rounded-full bg-[#e6e9ee]">
                         <span

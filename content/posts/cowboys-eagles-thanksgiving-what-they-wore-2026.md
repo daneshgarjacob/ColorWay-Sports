@@ -1,9 +1,9 @@
 ---
-title: "What Did The Cowboys Wear On Thanksgiving 2026? The 1960s Classic Vs. The Eagles, And Dallas's First Thanksgiving Loss In It"
+title: "What Did The Cowboys Wear On Thanksgiving 2026? The 1960s Classic, Its First Thanksgiving Loss, And Dallas's Throwback Record (Now 4-1)"
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-26"
-updatedDate: "2026-11-26"
+updatedDate: "2026-11-27"
 excerpt: "The Cowboys wore the 1960s Classic throwback on Thanksgiving for the fifth straight year: white helmet with the navy star, navy jersey with navy stars on white shoulders, white pants. The Eagles wore the midnight green helmet, white jersey and midnight green pants, came back from 31-10 down and won 39-38 on Jake Elliott's 59-yard field goal with two seconds left. It is the first time Dallas has lost a Thanksgiving game in the Classic. Every piece, confirmed from both teams' photos."
 gradient: "linear-gradient(135deg, #041E42 0%, #0C1526 55%, #004C54 130%)"
 cardStyle: words
@@ -69,7 +69,7 @@ The Cowboys brought the Classic back for Thanksgiving in 2022, the first season 
 | 2025 | Chiefs | **W 31-28** |
 | 2026 | Eagles | **L 38-39** |
 
-So the Classic is now **4-1 on Thanksgiving**. Dallas had a 21-point lead in it this time and still lost.
+So the Classic is now **4-1 on Thanksgiving**. Dallas had a 21-point lead in it this time and still lost. Per ESPN's scoring log, the Cowboys led **31-10 with 3:35 left in the third quarter** and **38-24 with 10:11 left in the game**, then gave up 15 points in the last nine minutes: Joe Milton's 15-yard run, his 24-yard touchdown pass to Makai Lemon with 2:10 left (both two-point tries failed), and Jake Elliott's 59-yarder with two seconds left. The closest of the four earlier Classic wins on Thanksgiving was 31-28 over the Chiefs in 2025.
 
 ## How Each Team Did In These Uniforms This Season
 
@@ -124,6 +124,18 @@ Yes. Both teams' jerseys carry the round Madden patch in the Eagles' final-score
 **Is the Cowboys' Thanksgiving helmet white?**
 
 Yes. The Classic helmet is white with a navy star and a navy-white-navy center stripe. The regular Cowboys helmet is silver.
+
+**What is the Cowboys' Thanksgiving throwback record?**
+
+4-1 in the 1960s Classic since it returned in 2022: 28-20 over the Giants (2022), 45-10 over the Commanders (2023), 27-20 over the Giants (2024), 31-28 over the Chiefs (2025), and a 39-38 loss to the Eagles (2026).
+
+**Have the Cowboys ever lost on Thanksgiving in the throwback uniform?**
+
+Once, in this era: November 26, 2026, Eagles 39, Cowboys 38. It was the Classic's first Thanksgiving loss since it came back in 2022.
+
+**How big was the Cowboys' lead against the Eagles on Thanksgiving 2026?**
+
+21 points. Dallas led 31-10 late in the third quarter and still led 38-24 with 10:11 left, per ESPN.
 
 **How many Thanksgivings in a row have the Cowboys worn the Classic?**
 

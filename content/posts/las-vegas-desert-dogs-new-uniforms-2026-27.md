@@ -105,6 +105,8 @@ The Desert Dogs are the National Lacrosse League's box lacrosse team in Las Vega
 
 **Our take:** the alternate should be the home jersey. A team that plays in the desert, in a city known for neon, chose black and white as its everyday look and saved the only color for a third jersey that does not ship until January. Wear the sunset as often as the league allows.
 
+Read more: [NLL new jerseys 2026-27](/stories/nll-new-jerseys-2026-27-capelli-sport-every-team): all 12 teams in Capelli Sport, from each team's own reveal.
+
 ## Frequently Asked Questions
 
 **Did the Las Vegas Desert Dogs get new uniforms?**
