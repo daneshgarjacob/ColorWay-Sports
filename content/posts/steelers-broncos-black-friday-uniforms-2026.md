@@ -1,11 +1,11 @@
 ---
-title: "What Are The Steelers Wearing On Black Friday 2026? The All-Black Color Rush Vs. The Broncos, Confirmed"
+title: "What Are The Steelers Wearing On Black Friday 2026? The All-Black Color Rush Vs. The Broncos, Worn In A 27-5 Win"
 author: "jake-daneshgar"
 category: NFL
 date: "2026-11-16"
 updatedDate: "2026-11-27"
 homepageHero: "2026-11-27"
-excerpt: "The Steelers wear the all-black Color Rush against the Broncos on Black Friday, November 27 at 3:00 p.m. ET on Prime Video, the team announced on November 24: black helmet, black jersey with gold numbers, black pants. It is their first Color Rush game of 2026. Denver wears the navy helmet, Summit White jersey and orange pants, confirmed by the team on November 26. The 1933 throwback is not this game. Every detail and our grade."
+excerpt: "The Steelers wore the all-black Color Rush against the Broncos on Black Friday, November 27, as the team announced on November 24: black helmet, black jersey with gold numbers, black pants, with the end zones painted black. Denver wore the navy helmet, Summit White jersey and orange pants. Pittsburgh won 27-5. The 1933 throwback was not this game. Every detail and our grade."
 gradient: "linear-gradient(135deg, #FFB612 0%, #101820 55%, #FB4F14 130%)"
 coverImage: "/images/posts/steelers-broncos-black-friday-uniforms-2026/cover.jpg"
 coverImagePosition: "center 30%"
@@ -21,7 +21,9 @@ league: nfl
 teams: ["pittsburgh-steelers", "denver-broncos"]
 ---
 
-**The Steelers wear the all-black Color Rush on Black Friday, and the Broncos are in Summit White.** Pittsburgh announced it on Tuesday, November 24: the Color Rush against Denver at Acrisure Stadium on **Friday, November 27, at 3:00 p.m. Eastern on Prime Video**, the last game of the five-game Thanksgiving week and the first Black Friday game in Steelers history. It is the first time Pittsburgh has worn the Color Rush in 2026. We had the gold 1933 throwback on this date, and it is not; that uniform is still waiting for a date. Denver's side is confirmed too: the Broncos posted their Week 12 "Threads" graphic on Thursday, November 26, and it shows the **navy helmet, the Summit White jersey and orange pants**.
+**Final: Steelers 27, Broncos 5.** Both teams wore what they announced, confirmed from the game footage both teams posted: Pittsburgh in the **all-black Color Rush** in front of **black end zones**, Denver in the **navy helmet, Summit White jersey and orange pants**. After the game: [what the Steelers and Broncos wore on Black Friday, with each team's record by uniform](/stories/steelers-broncos-black-friday-what-they-wore-2026).
+
+**The Steelers wore the all-black Color Rush on Black Friday, and the Broncos were in Summit White.** Pittsburgh announced it on Tuesday, November 24: the Color Rush against Denver at Acrisure Stadium on **Friday, November 27, at 3:00 p.m. Eastern on Prime Video**, the last game of the five-game Thanksgiving week and the first Black Friday game in Steelers history. It is the first time Pittsburgh has worn the Color Rush in 2026. We had the gold 1933 throwback on this date, and it is not; that uniform is still waiting for a date. Denver's side is confirmed too: the Broncos posted their Week 12 "Threads" graphic on Thursday, November 26, and it shows the **navy helmet, the Summit White jersey and orange pants**.
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2125273480924934194"></a></blockquote>
@@ -31,14 +33,14 @@ teams: ["pittsburgh-steelers", "denver-broncos"]
 
 ## Quick Answers
 
-- **What are the Steelers wearing on Black Friday?** The all-black Color Rush: black helmet, black jersey with gold numbers and gold sleeve stripes, black pants. **Confirmed** by the Steelers on November 24.
-- **What are the Broncos wearing?** The navy helmet, the Summit White jersey and orange pants. **Confirmed** by the Broncos' Week 12 "Threads" post on November 26.
-- **When is it?** Friday, November 27, 3:00 p.m. ET on Prime Video, at Acrisure Stadium in Pittsburgh.
-- **Is it the 1933 throwback?** No. The throwback and its gold helmet return in 2026, but not in this game.
-- **Is this the Steelers' first Black Friday game?** Yes.
-- **Our grade:** B+ for the matchup.
+- **What did the Steelers wear on Black Friday?** The all-black Color Rush: black helmet, black jersey with gold numbers and gold sleeve stripes, black pants. **Worn**, as the Steelers announced on November 24.
+- **What did the Broncos wear?** The navy helmet, the Summit White jersey and orange pants. **Worn**, as the Broncos' Week 12 "Threads" post showed on November 26.
+- **Final score?** Steelers 27, Broncos 5, at Acrisure Stadium on Friday, November 27, on Prime Video.
+- **Was it the 1933 throwback?** No. The throwback and its gold helmet return in 2026, but not in this game.
+- **Was this the Steelers' first Black Friday game?** Yes.
+- **Our grade:** B- for the matchup, C+ for the Steelers' Color Rush.
 
-## What The Steelers Are Wearing (Confirmed)
+## What The Steelers Wore
 
 **Update, Tuesday, November 24:** Steelers.com announced that Pittsburgh will wear its Color Rush uniforms against Denver, and the team posted "Black (& Gold) Friday" on X with a "Rise of Color Rush" graphic for the game. The team's photo gallery of the uniform, shot on November 17, shows every piece:
 
@@ -46,7 +48,7 @@ teams: ["pittsburgh-steelers", "denver-broncos"]
 - **The jersey.** Black, with **gold block numbers** and a set of gold stripes on each sleeve.
 - **The pants.** Black, the same black pants with a gold stripe that Pittsburgh paired with the white jersey in Paris in Week 7.
 
-The team calls it a fan favorite and says it is 9-3 in the Color Rush. Receiver Ben Skowronek told the team site he likes "black on black, especially at night at Acrisure Stadium." This game is at 3:00 p.m., so it will be black on black in the late afternoon light.
+The team calls it a fan favorite and says it is 9-3 in the Color Rush. Receiver Ben Skowronek told the team site he likes "black on black, especially at night at Acrisure Stadium." The game kicked off at 3:00 p.m., so it was black on black in gray late-afternoon light, finishing under the stadium lights.
 
 <div style="display:grid;grid-template-columns:1fr;max-width:220px;margin:1em auto 1.2em;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/steelers-black-alternate.jpg" alt="Pittsburgh Steelers black Color Rush jersey with gold numbers and gold sleeve stripes, confirmed against the Broncos on Black Friday 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Steelers &middot; Confirmed</figcaption></figure></div>
 
@@ -56,7 +58,7 @@ Nothing yet. Team president Art Rooney II has said the 1933 throwback and its **
 
 If you have ever wondered why the regular Steelers helmet only has a logo on one side, we went through what it would look like with two: [What If The Steelers Put Their Logo On Both Sides?](/stories/what-if-steelers-logo-both-sides-helmet)
 
-## What The Broncos Are Wearing (Confirmed)
+## What The Broncos Wore
 
 **Update, Friday, November 27:** the Broncos posted their Week 12 "Threads" graphic on Thursday with the caption "Black Friday fit," and it shows Bo Nix in the **navy helmet, the Summit White jersey and orange pants**, with white socks. The Steelers' gameday graphic on Friday morning shows the Color Rush again, and the team posted that Acrisure Stadium's **end zones are painted black** for the game.
 
@@ -88,7 +90,7 @@ For Black Friday. On the morning of the game the Steelers posted an overhead pho
 
 ## Our Grade
 
-**B+.** All black with gold numbers against white, navy and orange is a sharp, high-contrast game, and the Color Rush is a better look than the standard black home set, because the black pants finish what the black jersey starts. What keeps it from an A is the date. The gold 1933 throwback on the first Black Friday game in franchise history would have been the most memorable look of the holiday week, and the Steelers went with the darker option.
+**B- for the matchup, C+ for the Steelers' side.** The all-black Color Rush is a bit bland: black on black with gold numbers reads as one dark block, and the regular black jersey with gold pants is the better Steelers uniform because the gold pants break it up. Denver carried the color in this game, navy, white and orange, and orange pants under Summit White was the best part of it. The black end zones were a good touch. The gold 1933 throwback on the first Black Friday game in franchise history would have been the most memorable look of the holiday week, and the Steelers went with the darker option.
 
 ## The Rest Of Thanksgiving Week
 
@@ -96,25 +98,25 @@ Packers at Rams opens the week on Wednesday night with the Rams in Fearsome Whit
 
 ## Frequently Asked Questions
 
-**What are the Steelers wearing on Black Friday 2026?**
+**What did the Steelers wear on Black Friday 2026?**
 
-The all-black Color Rush: black helmet, black jersey with gold numbers, black pants. The Steelers announced it on November 24, and it is their first Color Rush game of 2026.
+The all-black Color Rush: black helmet, black jersey with gold numbers, black pants. The Steelers announced it on November 24, and it was their first Color Rush game of 2026. They beat the Broncos 27-5.
 
-**Are the Steelers wearing the 1933 throwback on Black Friday?**
+**Did the Steelers wear the 1933 throwback on Black Friday?**
 
 No. The throwback and its gold helmet return in 2026, but the team has not named the game, and Black Friday is the Color Rush. We now have the throwback for the Sunday night home game against Houston on December 6.
 
 **Is there an NFL game on Black Friday 2026?**
 
-Yes. The Denver Broncos play at the Pittsburgh Steelers on Friday, November 27 at 3:00 p.m. Eastern.
+Yes. The Denver Broncos played at the Pittsburgh Steelers on Friday, November 27 at 3:00 p.m. Eastern. The Steelers won 27-5.
 
 **What channel is the Black Friday NFL game on?**
 
 Prime Video. In Pittsburgh it also airs on WTAE-TV.
 
-**What are the Broncos wearing on Black Friday?**
+**What did the Broncos wear on Black Friday?**
 
-The navy helmet, the Summit White road jersey from the Mile High Collection and orange pants. Denver confirmed it in its Week 12 "Threads" post on November 26.
+The navy helmet, the Summit White road jersey from the Mile High Collection and orange pants, as Denver's Week 12 "Threads" post showed on November 26.
 
 **What is the Steelers Color Rush uniform?**
 
@@ -122,15 +124,15 @@ Pittsburgh's all-black alternate: a black jersey with gold numbers and gold slee
 
 **Have the Steelers ever played on Black Friday?**
 
-No. This is the first Black Friday game in franchise history.
+No. This was the first Black Friday game in franchise history, and they won it 27-5.
 
 **Have the Steelers worn the Color Rush in 2026?**
 
-Not before this game. Black Friday is the first time this season. Pittsburgh did borrow the Color Rush's black pants for the white jersey in Paris in Week 7.
+Not before this game. Black Friday was the first time this season. Pittsburgh did borrow the Color Rush's black pants for the white jersey in Paris in Week 7.
 
-**Will the Broncos wear orange in Pittsburgh?**
+**Did the Broncos wear orange in Pittsburgh?**
 
-No. Denver's published schedule has Summit White for this game. Sunset Orange is on four other dates.
+Orange pants, yes. The jersey was Summit White, as Denver's published schedule had it. Sunset Orange is on four other dates.
 
 **Why are the Steelers' end zones black?**
 
@@ -140,12 +142,13 @@ For the Black Friday game. The Steelers painted both end zones at Acrisure Stadi
 
 Black, with gold PITTSBURGH and Steelers lettering and gold NFL and AFC logos.
 
-**What time is Broncos vs. Steelers?**
+**Who won Broncos vs. Steelers on Black Friday?**
 
-3:00 p.m. Eastern, noon Pacific, Friday, November 27.
+The Steelers, 27-5. Pittsburgh is 7-4 and Denver 8-3.
 
 ## More Thanksgiving Week Uniforms
 
+- [After the game: what the Steelers and Broncos wore on Black Friday](/stories/steelers-broncos-black-friday-what-they-wore-2026)
 - [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026): all five games
 - [What the Rams are wearing against the Packers on Thanksgiving Eve](/stories/packers-rams-thanksgiving-eve-uniforms-2026)
 - [What the Lions are wearing against the Bears](/stories/lions-bears-thanksgiving-uniforms-2026)

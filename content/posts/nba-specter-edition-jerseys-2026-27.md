@@ -151,6 +151,8 @@ We owe readers the record. In April we published the eight designs as the 2026 C
 
 The Specter Edition is a new fifth uniform for the Lakers, Celtics, Warriors, Knicks, 76ers, Pistons, Hawks and Kings, built by Nike on one dark, streetwear-first template with the Swoosh centred and the player name dropped below the number. It debuts on court on November 29 and goes on sale November 30, separately from the City Edition, which every team still has. Our first-look grades run from an A for Detroit down to a C for the Lakers, with the collection at a D+, and the fairest summary of the set is that it makes eight famous teams look like one brand.
 
+**Will the Specter teams wear it on Christmas?** No. Five Specter teams play on December 25, and all five are scheduled for regular jerseys that day. See [what every team is wearing on Christmas Day 2026](/stories/nba-christmas-day-jerseys-2026).
+
 ## Frequently Asked Questions
 
 **What is the NBA Specter Edition?**

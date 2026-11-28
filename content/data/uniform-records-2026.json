@@ -2,12 +2,12 @@
  "league": "nfl",
  "season": 2026,
  "throughWeek": 12,
- "built": "2026-11-27",
+ "built": "2026-11-28",
  "note": "Built by scripts/build-uniform-records.mjs from the ColorWay Sports NFL uniform tracker (worn looks only, logged from game photos) and ESPN final scores. Do not hand-edit.",
  "totals": {
   "teams": 32,
-  "gamesPlayed": 167,
-  "teamGamesCounted": 334,
+  "gamesPlayed": 168,
+  "teamGamesCounted": 336,
   "teamGamesUnlogged": 0
  },
  "teams": [
@@ -2061,10 +2061,10 @@
    "key": "broncos",
    "name": "Denver Broncos",
    "nickname": "Broncos",
-   "gamesPlayed": 10,
-   "gamesCounted": 10,
+   "gamesPlayed": 11,
+   "gamesCounted": 11,
    "w": 8,
-   "l": 2,
+   "l": 3,
    "t": 0,
    "missing": [],
    "combos": [
@@ -2296,6 +2296,35 @@
        "home": false,
        "teamScore": 10,
        "oppScore": 31,
+       "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
+    {
+     "id": "summit-white-navy-orange",
+     "helmet": "Navy",
+     "jersey": "Summit White",
+     "jerseyName": "Summit White",
+     "jerseyKey": "broncos-white-road",
+     "pants": "Orange",
+     "hexes": [
+      "#0A1C33",
+      "#FFFFFF",
+      "#FB4F14"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/broncos-white-road.jpg",
+     "w": 0,
+     "l": 1,
+     "t": 0,
+     "games": [
+      {
+       "week": 12,
+       "date": "2026-11-27",
+       "opponent": "Pittsburgh Steelers",
+       "home": false,
+       "teamScore": 5,
+       "oppScore": 27,
        "result": "L",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
@@ -5696,9 +5725,9 @@
    "key": "steelers",
    "name": "Pittsburgh Steelers",
    "nickname": "Steelers",
-   "gamesPlayed": 10,
-   "gamesCounted": 10,
-   "w": 6,
+   "gamesPlayed": 11,
+   "gamesCounted": 11,
+   "w": 7,
    "l": 4,
    "t": 0,
    "missing": [],
@@ -5827,6 +5856,35 @@
        "teamScore": 16,
        "oppScore": 19,
        "result": "L",
+       "link": "/stories/nfl-uniform-tracker-2026"
+      }
+     ]
+    },
+    {
+     "id": "color-rush-black-black",
+     "helmet": "Black",
+     "jersey": "Black",
+     "jerseyName": "Color Rush",
+     "jerseyKey": "steelers-black-alternate",
+     "pants": "Black",
+     "hexes": [
+      "#101820",
+      "#101820",
+      "#101820"
+     ],
+     "img": "/images/posts/nfl-tracker-jerseys/steelers-black-alternate.jpg",
+     "w": 1,
+     "l": 0,
+     "t": 0,
+     "games": [
+      {
+       "week": 12,
+       "date": "2026-11-27",
+       "opponent": "Denver Broncos",
+       "home": true,
+       "teamScore": 27,
+       "oppScore": 5,
+       "result": "W",
        "link": "/stories/nfl-uniform-tracker-2026"
       }
      ]

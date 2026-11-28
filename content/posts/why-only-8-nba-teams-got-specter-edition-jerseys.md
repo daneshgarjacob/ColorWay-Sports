@@ -195,6 +195,8 @@ Picking the oldest teams is a good rule. It is simple, it is easy to explain, an
 
 The problem is what Nike did with the idea. A collection built on history has almost no history in it. All eight jerseys are black, all eight have a glowing streak graphic, and none of them uses a Rochester Royals script, a Fort Wayne piston, a Minneapolis Lakers stripe or a Syracuse Nationals logo. The teams were picked because they are old, and then they were dressed like they are brand new. Our ranking of the designs, Pistons first and Warriors last, is in [every Specter jersey ranked](/stories/nba-specter-edition-jerseys-ranked).
 
+Five of these eight teams play on Christmas Day, and none of them is scheduled to wear Specter that day. Here is [what every NBA team is wearing on December 25](/stories/nba-christmas-day-jerseys-2026).
+
 ## Frequently Asked Questions
 
 **Why did only 8 NBA teams get Specter Edition jerseys?**

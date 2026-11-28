@@ -86,6 +86,7 @@ const JERSEY_NAMES = {
   "broncos-mile-high-orange": "Orange Crush Throwback",
   "broncos-orange-home": "Sunset Orange",
   "broncos-white-road": "Summit White",
+  "steelers-black-alternate": "Color Rush", // Steelers.com: "Steelers to wear Color Rush uniforms on Black Friday" (Nov. 24, 2026)
   "vikings-purple-classic": "Classic Purple Throwback",
   "cowboys-1960s-classic": "1960s Classic Throwback",
 };

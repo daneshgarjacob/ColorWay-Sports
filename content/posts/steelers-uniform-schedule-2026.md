@@ -3,8 +3,8 @@ topViewsRank: 11
 title: "Pittsburgh Steelers Jerseys & Uniforms 2026: Full Schedule"
 category: NFL
 date: "2026-08-16"
-updatedDate: "2026-11-24"
-excerpt: "The Steelers wear the all-black Color Rush on Black Friday against Denver, confirmed by the team on November 24, and the 1933 throwback with the gold helmet is still to come. Here is the full 2026 jersey schedule, week by week."
+updatedDate: "2026-11-27"
+excerpt: "The Steelers wore the all-black Color Rush on Black Friday and beat Denver 27-5, and the 1933 throwback with the gold helmet is still to come. Here is the full 2026 jersey schedule, week by week."
 gradient: "linear-gradient(135deg, #101820 0%, #2a2a2a 55%, #FFB612 130%)"
 coverImage: "/images/posts/steelers-uniform-schedule-2026/cover.jpg"
 coverImagePosition: "center center"
@@ -15,7 +15,7 @@ league: nfl
 teams: ["pittsburgh-steelers"]
 ---
 
-**Update, November 24: the Steelers wear the all-black Color Rush on Black Friday against Denver in Week 12**, the team announced, its first Color Rush game of 2026. We had the 1933 throwback on that date; it is not. The team has also confirmed that the **1933 throwback and its gold helmet are coming back in 2026**, without a date, and we now have it nine days later on Sunday night against Houston in Week 13. In the meantime, here is the full Pittsburgh Steelers 2026 uniform schedule, week by week, with a clear line between what the team has actually said and what is still a projection.
+**Update, November 27: the Steelers wore the all-black Color Rush on Black Friday and beat Denver 27-5**, in front of end zones painted black. Black helmet, black jersey with gold numbers, black pants, as the team announced on November 24, its first Color Rush game of 2026. What both teams wore and each team's record by uniform: [what the Steelers wore on Black Friday](/stories/steelers-broncos-black-friday-what-they-wore-2026). We had the 1933 throwback on that date; it is not. The team has also confirmed that the **1933 throwback and its gold helmet are coming back in 2026**, without a date, and we now have it nine days later on Sunday night against Houston in Week 13. In the meantime, here is the full Pittsburgh Steelers 2026 uniform schedule, week by week, with a clear line between what the team has actually said and what is still a projection.
 
 Want them graded instead? Here is [every Pittsburgh Steelers jersey ranked](/stories/steelers-jerseys-2026-ranked), worst to best.
 
@@ -39,7 +39,7 @@ Eight home games at Acrisure Stadium, nine on the road, and a Week 9 bye. One of
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Bengals</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black · SNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Eagles</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Gold Pants</div></div>
-  <div style="background: #000000; color: #FFB612; border: 2px solid #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Color Rush · Black Friday</div></div>
+  <div style="background: #000000; color: #FFB612; border: 2px solid #FFB612; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Broncos</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Color Rush · W 27-5</div></div>
   <div style="background: #FFB612; color: #101820; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">1933 Throwback · SNF</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · MNF</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Black</div></div>
@@ -60,7 +60,7 @@ The uniform is a replica of what the franchise wore in its first season in 1933,
 
 ## The Color Rush On Black Friday (Week 12 Against Denver)
 
-**Confirmed November 24.** The Steelers announced they will wear the **Color Rush** against the Broncos on Black Friday, November 27 at 3:00 p.m. Eastern on Prime Video, the first time they have worn it in 2026. The team's photos show the **black helmet, black jersey with gold block numbers and gold sleeve stripes, and black pants**. The team says it is 9-3 in the Color Rush. Every detail is in [what the Steelers are wearing on Black Friday](/stories/steelers-broncos-black-friday-uniforms-2026).
+**Worn November 27: Steelers 27, Broncos 5.** The Steelers announced on November 24 that they would wear the **Color Rush** against the Broncos on Black Friday, November 27 at 3:00 p.m. Eastern on Prime Video, the first time they have worn it in 2026. The team's photos show the **black helmet, black jersey with gold block numbers and gold sleeve stripes, and black pants**. The team says it is 9-3 in the Color Rush. They wore exactly that. Every detail is in [what the Steelers wore on Black Friday](/stories/steelers-broncos-black-friday-what-they-wore-2026).
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2125273480924934194"></a></blockquote>
@@ -124,11 +124,11 @@ How does every one of these jerseys stack up? See our [Steelers jerseys 2026 ran
 
 **What jersey are the Steelers wearing today?**
 
-Week 11 at Philadelphia, November 22, worn: black helmet, white jersey and gold pants, as the team's Week 11 graphic showed. The Eagles wore midnight green over white pants and won 19-16. We grade the matchup a B. Next up is Week 12 against Denver on Black Friday, November 27, in the all-black Color Rush, confirmed by the team on November 24. This answer updates every week. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the all-black Color Rush against Denver on Black Friday in Week 12, confirmed, and the 1933 throwback against Houston in Week 13.
+Week 12 against Denver on Black Friday, November 27, worn: the all-black Color Rush, black helmet, black jersey with gold numbers and black pants, as the team announced on November 24 and as the game footage the team posted shows, with the end zones painted black. The Broncos wore the navy helmet, Summit White jersey and orange pants. Pittsburgh won 27-5. We grade the matchup a B-. Next up is Week 13 against Houston on Sunday night, December 6, on NBC; the team has not named that uniform. This answer updates every week. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the all-black Color Rush against Denver on Black Friday in Week 12, confirmed, and the 1933 throwback against Houston in Week 13.
 
 **What jerseys are the Steelers wearing this week?**
 
-Week 11 at Philadelphia, November 22, worn: black helmet, white jersey and gold pants, as the team's Week 11 graphic showed. The Eagles wore midnight green over white pants and won 19-16. We grade the matchup a B. Next up is Week 12 against Denver on Black Friday, November 27, in the all-black Color Rush, confirmed by the team on November 24. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the all-black Color Rush against Denver on Black Friday in Week 12, confirmed, and the 1933 throwback against Houston in Week 13.
+Week 12 against Denver on Black Friday, November 27, worn: the all-black Color Rush, black helmet, black jersey with gold numbers and black pants, as the team announced on November 24 and as the game footage the team posted shows, with the end zones painted black. The Broncos wore the navy helmet, Summit White jersey and orange pants. Pittsburgh won 27-5. We grade the matchup a B-. Next up is Week 13 against Houston on Sunday night, December 6, on NBC; the team has not named that uniform. For the rest of the season: Black if Pittsburgh is at Acrisure Stadium, white if they are on the road, with a few exceptions: black on the road at Tampa Bay in Week 6 and at Cincinnati in Week 10, the all-black Color Rush against Denver on Black Friday in Week 12, confirmed, and the 1933 throwback against Houston in Week 13.
 
 **What uniform did the Steelers wear last week?**
 
@@ -152,15 +152,15 @@ The gold helmet is worn with the 1933 throwback, which we have on Sunday night a
 
 **Will the Steelers wear the Color Rush uniform in 2026?**
 
-Yes. The Steelers confirmed the all-black Color Rush for Black Friday against Denver in Week 12, November 27, their first Color Rush game of 2026.
+Yes. The Steelers wore the all-black Color Rush on Black Friday against Denver in Week 12, November 27, their first Color Rush game of 2026, and won 27-5.
 
 **Are the Steelers the home team in Paris?**
 
 No. New Orleans is the designated home team for the Week 7 game at the Stade de France on October 25, so Pittsburgh wears white, with the black helmet and black pants, as the team confirmed on October 24. Both clubs' schedule pages show it as "vs", but NFL.com lists it as Steelers at Saints.
 
-**What are the Steelers wearing on Black Friday?**
+**What did the Steelers wear on Black Friday?**
 
-The all-black Color Rush, at home against Denver in Week 12 on November 27, as the team announced on November 24: black helmet, black jersey with gold numbers and black pants. It is the first Black Friday game in franchise history.
+The all-black Color Rush, at home against Denver in Week 12 on November 27, as the team announced on November 24: black helmet, black jersey with gold numbers and black pants. It was the first Black Friday game in franchise history, and Pittsburgh won 27-5.
 
 **How many uniforms do the Steelers have in 2026?**
 

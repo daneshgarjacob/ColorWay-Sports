@@ -4,7 +4,7 @@ author: "colorway-sports-staff"
 category: NFL
 date: "2026-11-24"
 updatedDate: "2026-11-27"
-excerpt: "NFL Week 12 uniforms (Nov. 25-30), Thanksgiving week: the Rams wear Fearsome White against the Packers on Thanksgiving Eve, the Cowboys wear their 1960s Classic against the Eagles, the Bills go blue over blue against the Chiefs, the Steelers wear the all-black Color Rush against the Broncos on Black Friday, plus the Cardinals in all black, the Chargers in navy Super Chargers and every other game, with grades."
+excerpt: "NFL Week 12 uniforms (Nov. 25-30), Thanksgiving week: the Rams wear Fearsome White against the Packers on Thanksgiving Eve, the Cowboys wear their 1960s Classic against the Eagles, the Bills go blue over blue against the Chiefs, the Steelers wore the all-black Color Rush and beat the Broncos 27-5 on Black Friday, plus the Cardinals in all black, the Chargers in navy Super Chargers and every other game, with grades."
 gradient: "linear-gradient(135deg, #101820 0%, #0C1526 55%, #FFB612 130%)"
 logoSrc: "/logos/leagues/nfl.png"
 kicker: "This Week"
@@ -13,7 +13,7 @@ teams: []
 resurfaceOnUpdate: true
 ---
 
-Week 12 of the 2026 NFL season is Thanksgiving week, and it runs six days, from Wednesday, November 25 to Monday, November 30: 16 games, no byes, and football on five of the six days. It opened with the first Thanksgiving Eve game in NFL history, a 26-13 Rams win over the Packers on Netflix, with Los Angeles in Fearsome White, and has three games on Thanksgiving Day, the first a 39-35 Bears win at Detroit with the Lions in Honolulu blue, not a throwback, the second a 39-38 Eagles win at Dallas with the Cowboys in the 1960s Classic, the third a 13-10 Bills win over the Chiefs on a 57-yard field goal at the gun, and the first Black Friday game in Steelers history, and ends on Monday night in Tampa. Four teams have already posted their full look for the week. **The Rams confirmed Fearsome White**, the Bills confirmed **blue over blue** for Thanksgiving night, the Bengals confirmed black over orange pants for the Saints, and on Tuesday the Steelers announced the **all-black Color Rush** for Black Friday, not the gold 1933 throwback we had on that date. The Packers posted green over gold pants on Monday.
+Week 12 of the 2026 NFL season is Thanksgiving week, and it runs six days, from Wednesday, November 25 to Monday, November 30: 16 games, no byes, and football on five of the six days. It opened with the first Thanksgiving Eve game in NFL history, a 26-13 Rams win over the Packers on Netflix, with Los Angeles in Fearsome White, and has three games on Thanksgiving Day, the first a 39-35 Bears win at Detroit with the Lions in Honolulu blue, not a throwback, the second a 39-38 Eagles win at Dallas with the Cowboys in the 1960s Classic, the third a 13-10 Bills win over the Chiefs on a 57-yard field goal at the gun, then the first Black Friday game in Steelers history, a 27-5 Pittsburgh win in the all-black Color Rush, and ends on Monday night in Tampa. Four teams have already posted their full look for the week. **The Rams confirmed Fearsome White**, the Bills confirmed **blue over blue** for Thanksgiving night, the Bengals confirmed black over orange pants for the Saints, and on Tuesday the Steelers announced the **all-black Color Rush** for Black Friday, not the gold 1933 throwback we had on that date. The Packers posted green over gold pants on Monday.
 
 Below is every Week 12 look we know, special ones first and then the rest of the games in kickoff order. **Confirmed** means the team has posted the jersey or the full combination for this game. **Scheduled** means the team put the jersey on its published season schedule. **Expected** is our projection from that team's uniform schedule, with the reason, and it gets replaced with what was actually worn in our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) once the game is played. Pants are the piece teams settle the week of the game, so treat every pants call below as the least certain part of the line until the team posts its game-week look.
 
@@ -54,20 +54,20 @@ Philadelphia wore **white with midnight green pants** and the midnight green hel
 
 The Classic is the best uniform Dallas owns, and it is against the division rival Cowboys fans care about most. Our matchup grade: **A-**. More in [what the Cowboys wore on Thanksgiving](/stories/cowboys-eagles-thanksgiving-what-they-wore-2026). See the [Cowboys 2026 uniform schedule](/stories/cowboys-uniform-schedule-2026) and the [Eagles 2026 uniform schedule](/stories/eagles-uniform-schedule-2026).
 
-### Denver Broncos At Pittsburgh Steelers: The Color Rush On Black Friday
+### Denver Broncos At Pittsburgh Steelers: The Color Rush On Black Friday, Final 27-5
 
 <div style="display: flex; justify-content: center; margin: 1.5em 0 0.5em;">
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/steelers/status/2125273480924934194"></a></blockquote>
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: 0.25em 0 1.5em;">"Black (&amp; Gold) Friday", via <a href="https://x.com/steelers" target="_blank" rel="noopener">@steelers</a></p>
 
-**Friday, 3:00 p.m. ET, Prime Video.** On Tuesday the Steelers announced they will wear the **Color Rush** against Denver: the **black helmet, black jersey with gold block numbers and gold sleeve stripes, and black pants**. It is their first Color Rush game of 2026, and the team says it is 9-3 in it. We had the gold 1933 throwback on this date; it is not this game, and the team still has not named one. Our [Steelers schedule](/stories/steelers-uniform-schedule-2026) now has the throwback on Sunday night against Houston in Week 13.
+**Friday, 3:00 p.m. ET, Prime Video. Final: Steelers 27, Broncos 5.** Both teams wore what they announced, confirmed from the game footage both teams posted. On Tuesday the Steelers announced they would wear the **Color Rush** against Denver: the **black helmet, black jersey with gold block numbers and gold sleeve stripes, and black pants**. It is their first Color Rush game of 2026, and the team says it is 9-3 in it. We had the gold 1933 throwback on this date; it is not this game, and the team still has not named one. Our [Steelers schedule](/stories/steelers-uniform-schedule-2026) now has the throwback on Sunday night against Houston in Week 13.
 
 **Update, Nov. 27:** Denver is **confirmed**. The Broncos' Week 12 ["Threads" graphic](https://x.com/Broncos/status/2126014120046502274), posted Thursday as "Black Friday fit," shows the **navy helmet, the Summit White jersey and orange pants**.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:440px;margin:1em auto 1.2em;align-items:end;"><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/broncos-white-road.jpg" alt="Denver Broncos Summit White road jersey, confirmed with the navy helmet and orange pants at Pittsburgh on Black Friday in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Broncos &middot; Confirmed</figcaption></figure><figure style="margin:0;text-align:center;"><img src="/images/posts/nfl-tracker-jerseys/steelers-black-alternate.jpg" alt="Pittsburgh Steelers black Color Rush jersey with gold numbers, confirmed against the Broncos on Black Friday in Week 12 of 2026" style="display:block;width:100%;max-width:200px;height:auto;margin:0 auto;border-radius:10px;background:#ffffff;border:1px solid #e3e7ec;" loading="lazy" decoding="async" /><figcaption style="margin-top:6px;font-size:0.72em;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:#5b6474;">Steelers &middot; Confirmed</figcaption></figure></div>
 
-All black with gold numbers against white, navy and orange is a sharp game, and the black pants make the Color Rush a step up from the standard home set. It is still not the gold helmet on the first Black Friday game in team history. Our matchup grade: **B+**. Every detail: [what the Steelers are wearing on Black Friday](/stories/steelers-broncos-black-friday-uniforms-2026). See the [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026).
+The all-black Color Rush is a bit bland for us, a C+ on its own: black on black with gold numbers reads as one dark block, and the regular black jersey with gold pants is the better Steelers look. Denver's navy, white and orange carried the color, and the black end zones were a good touch. Our matchup grade: **B-**. After the game: [what the Steelers and Broncos wore on Black Friday](/stories/steelers-broncos-black-friday-what-they-wore-2026), with each team's record by uniform. The preview: [what the Steelers are wearing on Black Friday](/stories/steelers-broncos-black-friday-uniforms-2026). See the [Broncos 2026 uniform schedule](/stories/broncos-uniform-schedule-2026).
 
 ### Kansas City Chiefs At Buffalo Bills: Blue Over Blue On Thanksgiving Night (Final: Bills 13, Chiefs 10)
 
@@ -140,7 +140,7 @@ Navy head to toe against white is clean, and it is a far better Chargers look th
 - **Thursday, 1:00 p.m. ET, CBS:** Bears at Lions, white against Honolulu blue. Final: Bears 39, Lions 35.
 - **Thursday, 4:30 p.m. ET, FOX:** Eagles at Cowboys, white over midnight green against the Classic throwback. Both worn as confirmed. Final: Eagles 39, Cowboys 38.
 - **Thursday, 8:20 p.m. ET, NBC:** Chiefs at Bills, white against blue over blue. Both worn as expected. Final: Bills 13, Chiefs 10.
-- **Friday, 3:00 p.m. ET, Prime Video:** Broncos at Steelers, Summit White against the all-black Color Rush.
+- **Friday, 3:00 p.m. ET, Prime Video:** Broncos at Steelers, Summit White against the all-black Color Rush. Final: Steelers 27, Broncos 5.
 - **Sunday, 8:20 p.m. ET, NBC:** Raiders at Browns, flexed into Sunday night, white against brown.
 - **Monday, 8:15 p.m. ET, ESPN:** Panthers at Buccaneers, white against red.
 
@@ -216,7 +216,7 @@ Every player in the three Thanksgiving Day games wears the round [John Madden Th
 
 ### Friday, November 27 (Black Friday)
 
-- **Denver Broncos at Pittsburgh Steelers**, 3:00 p.m. ET, Prime Video. Broncos: Summit White jersey (scheduled). Steelers: Color Rush, black helmet, black jersey, black pants (confirmed). Matchup grade: B+.
+- **Denver Broncos at Pittsburgh Steelers**, 3:00 p.m. ET, Prime Video. Broncos: navy helmet, Summit White jersey, orange pants (worn). Steelers: Color Rush, black helmet, black jersey, black pants (worn). Final: Steelers 27, Broncos 5. Matchup grade: B-.
 
 ### Sunday, November 29
 
@@ -241,7 +241,7 @@ None. All 32 teams play in Week 12.
 
 ## The Bottom Line
 
-Week 12 has more holiday football than any week of the year and three of its four best looks are on the holidays: Fearsome White on Wednesday night, the Cowboys' Classic on Thanksgiving afternoon, which lost on the holiday for the first time, 39-38 to the Eagles, and the Steelers' Color Rush on Black Friday. Sunday adds the Cardinals' all-black set against Washington in white and navy Super Chargers at SoFi. The miss is the same one as every year: the Lions have a Thanksgiving throwback and left it in the closet, wearing Honolulu blue over silver in a 39-35 loss to the Bears. If you missed last week, our [Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026) has every Week 11 look, final and grade. All five holiday games are also in our [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) guide. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
+Week 12 has more holiday football than any week of the year, and its two best looks were on the holidays: Fearsome White on Wednesday night and the Cowboys' Classic on Thanksgiving afternoon, which lost on the holiday for the first time, 39-38 to the Eagles. The Steelers' all-black Color Rush on Black Friday was the plainest of the holiday looks, in a 27-5 win. Sunday adds the Cardinals' all-black set against Washington in white and navy Super Chargers at SoFi. The miss is the same one as every year: the Lions have a Thanksgiving throwback and left it in the closet, wearing Honolulu blue over silver in a 39-35 loss to the Bears. If you missed last week, our [Week 11 uniform guide](/stories/nfl-week-11-uniforms-2026) has every Week 11 look, final and grade. All five holiday games are also in our [NFL Thanksgiving uniforms 2026](/stories/nfl-thanksgiving-uniforms-2026) guide. We log what every team actually wears, and grade every matchup, in the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) as the games are played, and every team's full season is in our [2026 NFL uniform schedule](/stories/nfl-uniform-schedule-2026).
 
 <span id="faq"></span>
 
@@ -249,11 +249,11 @@ Week 12 has more holiday football than any week of the year and three of its fou
 
 **What uniforms are NFL teams wearing in Week 12 of 2026?**
 
-Week 12 is Thanksgiving week. The Rams wore Fearsome White and beat the Packers 26-13 on Wednesday night, the Lions wore Honolulu blue, not a throwback, in a 39-35 loss to the Bears on Thanksgiving afternoon, the Cowboys wore their 1960s Classic throwback in a 39-38 loss to the Eagles on Thanksgiving, the Bills wore blue over blue and beat the Chiefs 13-10 on Thanksgiving night, and the Steelers wear the all-black Color Rush against the Broncos on Black Friday. On Sunday the Cardinals wear their black alternate against Washington, the Chargers wear navy Super Chargers against New England and the Saints wear their white alternate at Cincinnati. Most other teams wear their standard sets, home in color and visitors in white.
+Week 12 is Thanksgiving week. The Rams wore Fearsome White and beat the Packers 26-13 on Wednesday night, the Lions wore Honolulu blue, not a throwback, in a 39-35 loss to the Bears on Thanksgiving afternoon, the Cowboys wore their 1960s Classic throwback in a 39-38 loss to the Eagles on Thanksgiving, the Bills wore blue over blue and beat the Chiefs 13-10 on Thanksgiving night, and the Steelers wore the all-black Color Rush and beat the Broncos 27-5 on Black Friday. On Sunday the Cardinals wear their black alternate against Washington, the Chargers wear navy Super Chargers against New England and the Saints wear their white alternate at Cincinnati. Most other teams wear their standard sets, home in color and visitors in white.
 
-**What are the Steelers wearing on Black Friday?**
+**What did the Steelers wear on Black Friday?**
 
-The all-black Color Rush: black helmet, black jersey with gold numbers and black pants, as the Steelers announced on November 24. It is their first Color Rush game of 2026. It is not the 1933 throwback.
+The all-black Color Rush: black helmet, black jersey with gold numbers and black pants, as the Steelers announced on November 24. It was their first Color Rush game of 2026, not the 1933 throwback, and they beat the Broncos 27-5.
 
 **What did the Rams wear against the Packers on Thanksgiving Eve?**
 
@@ -285,7 +285,7 @@ Three times, all at SoFi Stadium: Week 9 against Houston, when it was the navy h
 
 **Is there an NFL game on Black Friday 2026?**
 
-Yes. The Denver Broncos play at the Pittsburgh Steelers on Friday, November 27 at 3:00 p.m. ET on Prime Video, the first Black Friday game in Steelers history.
+Yes. The Denver Broncos played at the Pittsburgh Steelers on Friday, November 27 at 3:00 p.m. ET on Prime Video, the first Black Friday game in Steelers history. The Steelers won 27-5.
 
 **What is the Sunday Night Football game in Week 12?**
 

@@ -3,8 +3,8 @@ topViewsRank: 2
 title: "Bengals Jerseys & Uniforms 2026: Schedule and This Week's Look"
 category: NFL
 date: "2026-08-11"
-updatedDate: "2026-11-24"
-excerpt: "Every Bengals jersey for 2026, week by week. The all-white White Bengal comes out at home in Week 10 vs. Pittsburgh on SNF, and New Year's Eve is White Bengal Stripe night."
+updatedDate: "2026-11-27"
+excerpt: "Bengals uniform schedule 2026, week by week: what Cincinnati wore in every game, the result, and its 7-3 record by uniform. This week: black jersey and orange pants vs. the Saints on Sunday, Nov. 29 (confirmed by the team). Next: white at Cleveland in Week 13, then orange vs. the Chiefs and White Bengal Stripe night on New Year's Eve."
 gradient: "linear-gradient(135deg, #FB4F14 0%, #8a2c0a 55%, #111111 130%)"
 coverImage: "/images/posts/bengals-uniform-schedule-2026/cover-v2.jpg"
 coverImagePosition: "center center"
@@ -17,6 +17,16 @@ teams: ["cincinnati-bengals"]
 ---
 
 The Bengals do something almost nobody in the NFL does: they wear white at home, in primetime, on purpose. It's a fun look, but the orange is still their best jersey and they don't wear it enough. Every Bengals game is below, with what they wore and what's next.
+
+**Update, November 27: what the Bengals wear this week.** Cincinnati (7-3) hosts the **New Orleans Saints in Week 12 on Sunday, November 29 at 1:00 p.m. ET on CBS**, and the look is confirmed by the team's "Week 12 Uni Combo" post: **striped orange helmet, black jersey, orange pants and black socks**. The Saints come to Paycor Stadium in their white alternate with the white helmet. Last time out, Week 11 at Washington on Monday night, the Bengals wore the orange helmet, white jersey and white pants and lost 22-20 on a walk-off field goal. **Next after that: Week 13 at the Cleveland Browns, Sunday, December 6, 1:00 p.m. ET on CBS.** The Bengals have not posted that uniform yet; we expect **white**, because the Browns host in brown, and we will confirm it here when Cincinnati posts its game-week combo.
+
+<div style="margin: 1.5em 0; background: #ffffff; border: 1px solid #e3e7ec; border-radius: 14px; padding: 10px 18px 14px;">
+<p style="margin: 8px 0 6px; font-size: 0.72em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.6px; color: #FB4F14;">Bengals Uniform Quick Answers</p>
+<p style="margin: 8px 0; line-height: 1.5;"><strong>This Week (Week 12 vs. Saints, Sun., Nov. 29):</strong> Orange helmet, black jersey, orange pants. Confirmed by the Bengals.</p>
+<p style="margin: 8px 0; line-height: 1.5;"><strong>Last Game (Week 11 at Commanders):</strong> Orange helmet, white jersey, white pants. Lost 22-20.</p>
+<p style="margin: 8px 0; line-height: 1.5;"><strong>Next Game (Week 13 at Browns, Sun., Dec. 6):</strong> White expected (Cleveland hosts in brown). Not yet posted by the team.</p>
+<p style="margin: 8px 0; line-height: 1.5;"><strong>Record by Jersey:</strong> White 4-2, Orange 2-0, Black 1-1. Full breakdown below.</p>
+</div>
 
 Want them graded instead? Here is [every Cincinnati Bengals jersey ranked](/stories/bengals-jerseys-2026-ranked), worst to best.
 
@@ -40,19 +50,19 @@ These are set by the Bengals themselves. The first two are at Paycor Stadium, an
 Here is the whole season at a glance. Confirmed games are marked with a star: Open In Orange in Week 1, the black jersey with white pants against the Titans in Week 8, the White Bengal in Week 10, and white over white pants at Washington in Week 11. Week 6 is the bye, and Week 9 is the Madrid game, where Atlanta is the designated home team.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: 10px; margin: 1.5em 0;">
-  <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Open In Orange · White Pants</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Steelers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White &middot; Black Pants</div></div>
-  <div style="background: #000000; color: #FB4F14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Black · Black Pants</div></div>
-  <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Orange · White Pants</div></div>
+  <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 1</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Buccaneers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ Open In Orange · White Pants</div><div style="font-size: 0.7em; font-weight: 700; margin-top: 4px; opacity: 0.85;">Final: W 33-27</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 2</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Texans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White · White Pants</div><div style="font-size: 0.7em; font-weight: 700; margin-top: 4px; opacity: 0.85;">Final: W 20-6</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 3</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Steelers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White &middot; Black Pants</div><div style="font-size: 0.7em; font-weight: 700; margin-top: 4px; opacity: 0.85;">Final: L 30-27</div></div>
+  <div style="background: #000000; color: #FB4F14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 4</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Jaguars</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Black · Black Pants</div><div style="font-size: 0.7em; font-weight: 700; margin-top: 4px; opacity: 0.85;">Final: L 22-17</div></div>
+  <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 5</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">at Dolphins</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Orange · White Pants</div><div style="font-size: 0.7em; font-weight: 700; margin-top: 4px; opacity: 0.85;">Final: W 31-24</div></div>
   <div style="background: #eceff3; color: #98a0ac; border: 1px dashed #cdd3db; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 6</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">Bye</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Off</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div></div>
-  <div style="background: #000000; color: #FB4F14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Black</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Orange Pants · Madrid</div></div>
-  <div style="background: #ffffff; color: #FB4F14; border: 2px solid #FB4F14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White Bengal</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Commanders</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 7</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Ravens</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div><div style="font-size: 0.7em; font-weight: 700; margin-top: 4px; opacity: 0.85;">Final: W 35-13</div></div>
+  <div style="background: #000000; color: #FB4F14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 8</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Titans</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Black · White Pants</div><div style="font-size: 0.7em; font-weight: 700; margin-top: 4px; opacity: 0.85;">Final: W 43-36 OT</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 9</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Falcons</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ White · Orange Pants · Madrid</div><div style="font-size: 0.7em; font-weight: 700; margin-top: 4px; opacity: 0.85;">Final: W 34-17</div></div>
+  <div style="background: #ffffff; color: #FB4F14; border: 2px solid #FB4F14; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 10</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Steelers</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White Bengal</div><div style="font-size: 0.7em; font-weight: 700; margin-top: 4px; opacity: 0.85;">Final: W 38-18</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 11</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Commanders</div><div style="font-size: 0.76em; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;">★ White · White Pants</div><div style="font-size: 0.7em; font-weight: 700; margin-top: 4px; opacity: 0.85;">Final: L 22-20</div></div>
   <div style="background: #101820; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.8;">WEEK 12</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">vs Saints</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">★ Black · Orange Pants</div></div>
-  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
+  <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 13</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Browns</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White (Expected)</div></div>
   <div style="background: #FB4F14; color: #ffffff; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.85;">WEEK 14</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0; color: #ffffff;">vs Chiefs</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Orange</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 15</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Panthers</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
   <div style="background: #f1f3f8; color: #333; border: 1px solid #dfe3ea; border-radius: 10px; padding: 12px 10px; text-align: center;"><div style="font-size: 0.68em; font-weight: 700; letter-spacing: 1px; opacity: 0.7;">WEEK 16</div><div style="font-size: 0.95em; font-weight: 800; margin: 4px 0;">at Colts</div><div style="font-size: 0.76em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">White</div></div>
@@ -61,6 +71,22 @@ Here is the whole season at a glance. Confirmed games are marked with a star: Op
 </div>
 
 <p style="font-size: 0.85em; color: #777; margin: 0 0 2.5em;">The honest caveat the grid cannot show: only the <strong>starred games are confirmed</strong> by the Bengals. The team has announced themes for other dates, but a theme is not always a uniform, and the jersey calls for the remaining weeks are our projection: the orange alternate against Kansas City in Week 14, the standard white at home against Baltimore in Week 17, and black at home and white on the road everywhere else. Pants and exact combinations are a week-of-game call for the unstarred weeks. The Open In Orange combination is now set: orange helmet, orange jersey, white pants. Week 5 at Miami is confirmed too: orange helmet, orange jersey, white pants with orange stripes and white socks, a combination the Bengals say they have never worn before. Week 11 at Washington is confirmed as well: orange helmet, white jersey, white pants and black socks, the combination the Bengals list as White-White-Black. The Week 16 and Week 18 kickoff times are still to be set.</p>
+
+## Bengals Record by Uniform in 2026
+
+Every game the Bengals have played, logged on our [NFL uniform tracker](/stories/nfl-uniform-tracker-2026) from team posts and game photos. Through Week 11, Cincinnati is **7-3**, and it has not lost in orange.
+
+| Combination (Helmet / Jersey / Pants) | Record | Games |
+|---|---|---|
+| Orange / Orange / White (Open In Orange) | 2-0 | W 33-27 vs. Buccaneers (Wk 1), W 31-24 at Dolphins (Wk 5) |
+| Orange / White / White | 2-1 | W 20-6 at Texans (Wk 2), W 35-13 at Ravens (Wk 7), L 22-20 at Commanders (Wk 11) |
+| White / White / White (White Bengal) | 1-0 | W 38-18 vs. Steelers (Wk 10) |
+| Orange / White / Orange | 1-0 | W 34-17 vs. Falcons in Madrid (Wk 9) |
+| Orange / Black / White | 1-0 | W 43-36 in overtime vs. Titans (Wk 8) |
+| Orange / White / Black | 0-1 | L 30-27 at Steelers (Wk 3) |
+| Orange / Black / Black | 0-1 | L 22-17 vs. Jaguars (Wk 4) |
+
+By jersey color: **white 4-2** (including the White Bengal), **orange 2-0**, **black 1-1**. The black jersey with orange pants against the Saints on Sunday is a combination Cincinnati has not worn yet this season.
 
 ## Open In Orange (Week 1 vs. Buccaneers, Confirmed)
 
@@ -118,23 +144,43 @@ The rest is simple. Orange for the opener and twice more in Weeks 5 and 14, blac
 
 How does every one of these jerseys stack up? See our [Bengals jerseys 2026 ranking](/stories/bengals-jerseys-2026-ranked), every uniform in the closet graded from best to worst.
 
+## The Bottom Line
+
+Cincinnati is 7-3 and has used seven different combinations in ten games. The orange jersey is unbeaten, the White Bengal won its one game, and the black jersey with orange pants against New Orleans is new for 2026. The orange against Kansas City in Week 14 is still the one we want to see most.
+
 ## Frequently Asked Questions
 
-**What jersey are the Bengals wearing today?**
+**What are the Bengals wearing today?**
 
-Week 11 at Washington, Monday, November 23, worn: the striped orange helmet, white jersey and white pants, as the Bengals announced, confirmed from ESPN's game photos. The Commanders wore the all-black Hail Raiser for the first time and won 22-20 on a walk-off field goal. We grade the matchup an A-. Next up is Week 12 against New Orleans at Paycor Stadium on Sunday, November 29, in the striped orange helmet, black jersey, orange pants and black socks, confirmed in the team's Week 12 uniform post on November 24. This answer updates every week. For the rest of the season: Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
+The Bengals' next game is Week 12 against the New Orleans Saints at Paycor Stadium on Sunday, November 29 (1:00 p.m. ET, CBS), in the striped orange helmet, black jersey, orange pants and black socks, confirmed in the team's Week 12 uniform post on November 24. The Saints wear their white alternate with the white helmet. Their last game was Week 11 at Washington on Monday, November 23: orange helmet, white jersey and white pants, a 22-20 loss. This answer updates every week.
 
-**What jerseys are the Bengals wearing this week?**
+**What color jersey are the Bengals wearing this week?**
 
-Week 11 at Washington, Monday, November 23, worn: the striped orange helmet, white jersey and white pants, as the Bengals announced, confirmed from ESPN's game photos. The Commanders wore the all-black Hail Raiser for the first time and won 22-20 on a walk-off field goal. We grade the matchup an A-. Next up is Week 12 against New Orleans at Paycor Stadium on Sunday, November 29, in the striped orange helmet, black jersey, orange pants and black socks, confirmed in the team's Week 12 uniform post on November 24. For the rest of the season: Black at home and white on the road for most of the season, but Cincinnati breaks that pattern more than almost anyone. Week 1 against Tampa Bay was Open In Orange, and the White Bengal comes out once, at home against Pittsburgh in Week 10. Both are confirmed. We also have the orange jersey at Miami in Week 5 and against Kansas City in Week 14, and the standard white at home against Baltimore in Week 17.
+Black. Against the Saints on Sunday, November 29, Cincinnati wears the black jersey with orange pants and the striped orange helmet, as the Bengals posted on November 24. It is the first time this season they have paired the black jersey with orange pants.
+
+**Bengals uniform schedule 2026: what do they wear every week?**
+
+Played so far: Week 1 orange (vs. Buccaneers, W), Week 2 white (at Texans, W), Week 3 white with black pants (at Steelers, L), Week 4 all black below the orange helmet (vs. Jaguars, L), Week 5 orange (at Dolphins, W), Week 7 white (at Ravens, W), Week 8 black with white pants (vs. Titans, W), Week 9 white with orange pants (vs. Falcons in Madrid, W), Week 10 the all-white White Bengal (vs. Steelers, W), Week 11 white (at Commanders, L). Still to come: black with orange pants vs. the Saints in Week 12 (confirmed), then our projections: white at Cleveland (Week 13), orange vs. Kansas City (Week 14), white at Carolina (Week 15) and Indianapolis (Week 16), standard white at home vs. Baltimore on New Year's Eve (Week 17) and black vs. Cleveland (Week 18). The grid at the top of this page has every week.
 
 **What uniform did the Bengals wear last week?**
 
-For the uniform we logged in their most recent game, see the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026), which we update through the week. The grid above is the season plan, and the tracker is the record of what actually went on the field.
+Week 11 at the Washington Commanders on Monday Night Football, November 23: the striped orange helmet, white jersey, white pants and black socks, exactly as the Bengals announced, confirmed from ESPN's game photos. Washington wore the all-black Hail Raiser and won 22-20. Every game is logged on the [NFL uniform tracker](/stories/nfl-uniform-tracker-2026).
 
 **What are the Bengals wearing next week?**
 
-Black over orange at home against New Orleans in Week 12 on Sunday, November 29: the striped orange helmet, black jersey, orange pants and black socks, confirmed by the Bengals on November 24. After that, black at Paycor Stadium and white on the trip, unless it is the orange week against Kansas City in Week 14, or Week 17 against Baltimore, where we have the standard white at home.
+Week 13 at the Cleveland Browns on Sunday, December 6 (1:00 p.m. ET, CBS). Cincinnati has not posted that uniform yet. We expect the white road jersey, because Cleveland hosts in brown, and we will confirm the helmet and pants when the Bengals post their game-week combo.
+
+**What is the Bengals' record in each uniform in 2026?**
+
+Through Week 11, 7-3 overall: 4-2 in white (including 1-0 in the White Bengal), 2-0 in orange and 1-1 in black. The table above breaks it down by helmet, jersey and pants.
+
+**What are the Bengals wearing against the Saints?**
+
+The striped orange helmet, black jersey, orange pants and black socks, for Week 12 at Paycor Stadium on Sunday, November 29, confirmed by the Bengals. New Orleans wears its white alternate jersey with the white helmet.
+
+**What are the Bengals wearing against the Browns?**
+
+Two games. Week 13 at Cleveland on December 6: white expected, since the Browns host in brown. Week 18 at home against Cleveland: our projection is the black home jersey. Neither is announced yet.
 
 **What jerseys do the Bengals have in 2026?**
 
