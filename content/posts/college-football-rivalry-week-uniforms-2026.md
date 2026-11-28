@@ -248,7 +248,7 @@ Every look in this table is Expected unless the game section below says otherwis
 
 *Saturday, November 28, Autzen Stadium, Eugene.*
 
-**Oregon: apple green jersey and pants, silver chrome helmet with apple green wings (Confirmed).** Oregon posted its Game 12 uniform on November 25. [Oregon's Game 12 uniform for Washington, piece by piece](/stories/oregon-crystal-apple-uniforms-washington-2026). Washington answered with all white, also posted by the team. [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026).
+**Oregon: apple green jersey and pants, silver chrome helmet with apple green wings (Confirmed).** Oregon posted its Game 12 uniform on November 25. [Oregon's Game 12 uniform for Washington, piece by piece](/stories/oregon-crystal-apple-uniforms-washington-2026). Washington answered with all white, also posted by the team. [Oregon 2026 uniform schedule](/stories/oregon-uniform-schedule-2026). The gold rope chain facemask photos going around on November 27 come from Oregon's "Mighty Metallic" cleat post; the posted Game 12 uniform has a plain silver facemask. [Is Oregon wearing gold chain facemasks?](/stories/is-oregon-wearing-gold-chain-facemasks-washington-2026)
 
 **Washington: all white (Confirmed).** The team posted "Road Whites for Game 12." [Washington 2026 uniform schedule](/stories/washington-huskies-uniform-schedule-2026).
 

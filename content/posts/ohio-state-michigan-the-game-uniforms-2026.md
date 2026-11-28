@@ -6,7 +6,14 @@ date: "2026-11-19"
 updatedDate: "2026-11-27"
 excerpt: "Ohio State vs. Michigan uniforms for The Game 2026: noon ET on FOX at Ohio Stadium on November 28. Michigan is confirmed in all white under the maize winged helmet, Ohio State is expected in scarlet and showed off Victor Solomon cleats. What both wore in 2023, 2024 and 2025, everything each has worn this season, and what to watch for in game week."
 gradient: "linear-gradient(135deg, #BB0000 0%, #1a0505 55%, #00274C 130%)"
-cardStyle: words
+homepageHero: "2026-11-28"
+coverImage: "/images/posts/ohio-state-michigan-the-game-uniforms-2026/cover.jpg"
+coverImagePosition: "center 30%"
+coverImageFit: "cover"
+coverCredit:
+  author: "Michigan Football"
+  url: "https://x.com/UMichFootball/status/2126368356802429311"
+  license: "via the team"
 kicker: "Rivalry Week"
 logoSrc: "/logos/leagues/ncaa-conf-big-ten.png"
 logoSrc2: "/logos/teams/ncaa-ohio-state-buckeyes.png"
@@ -23,7 +30,7 @@ resurfaceOnUpdate: true
 
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -1em 0 2em;">Ohio State's scarlet home jersey before the 2026 opener, via <a href="https://x.com/OhioStateFB" target="_blank" rel="noopener">@OhioStateFB</a></p>
 
-**Update, Friday, November 27:** Michigan is **confirmed in all white**. The Wolverines posted "Saturday's Threads" on Friday: the **maize winged helmet, white jersey with navy numbers and white pants**, the same all-white look Michigan wore the last time it played in Columbus, in 2024. Ohio State had not posted its game uniform on X as of Friday afternoon, so the Buckeyes stay **expected in scarlet**. What Ohio State did post was its cleats for The Game: red **Nike x Victor Solomon Vaporposites** with a gold swoosh and a gold chain hanging from the laces. Solomon is the artist who designed the NFL's new turkey-leg trophy for this year's [John Madden Thanksgiving MVP](/stories/john-madden-thanksgiving-patch-2026).
+**Update, Friday, November 27:** Michigan is **confirmed in all white**. The Wolverines posted "Saturday's Threads" on Friday: the **maize winged helmet, white jersey with navy numbers and white pants**, the same all-white look Michigan wore the last time it played in Columbus, in 2024. Ohio State had not posted its game uniform on X as of Friday evening (its Friday posts were practice photos, a team tradition photo and the cleats), so the Buckeyes stay **expected in scarlet**. What Ohio State did post was its cleats for The Game: red **Nike x Victor Solomon Vaporposites** with a gold swoosh and a gold chain hanging from the laces. Solomon is the artist who designed the NFL's new turkey-leg trophy for this year's [John Madden Thanksgiving MVP](/stories/john-madden-thanksgiving-patch-2026). He also worked on Oregon's gold "Mighty Metallic" cleats, the post behind the viral [gold chain facemask photos](/stories/is-oregon-wearing-gold-chain-facemasks-washington-2026).
 
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/UMichFootball/status/2126368356802429311"></a></blockquote>

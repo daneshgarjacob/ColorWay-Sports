@@ -1239,6 +1239,48 @@
     }
    ],
    "shopQuery": "Pittsburgh Steelers Color Rush jersey"
+  },
+  "2026-11-28": {
+   "team": "Oregon Ducks",
+   "teamShort": "Oregon",
+   "league": "College Football",
+   "season": "2026",
+   "edition": "Game 12 combination (home)",
+   "jerseyName": "Chrome Helmet With Apple Green Wings, Apple Green Jersey, Apple Green Pants",
+   "image": "/images/jersey-of-the-day/oregon-chrome-apple-green-2026-11-28.jpg",
+   "imageAlt": "Oregon No. 72 in the Game 12 uniform, crouched over a football in the Autzen tunnel: silver chrome helmet with apple green wings and a silver facemask, apple green jersey with yellow numbers, apple green pants and green cleats",
+   "imagePosition": "center 30%",
+   "credit": {
+    "text": "Oregon Athletics",
+    "url": "https://x.com/GoDucks/status/2125756496491233348",
+    "license": "via the team"
+   },
+   "tweet": {
+    "url": "https://x.com/oregonfootball/status/2125756422877220991",
+    "label": "\"Protect Autzen,\" the Game 12 uniform video, from Oregon"
+   },
+   "worn": {
+    "date": "2026-11-28",
+    "matchup": "vs. Washington, 7:30 p.m. ET on NBC",
+    "status": "Confirmed",
+    "note": "Posted by Oregon on November 25 as the Game 12 uniform combo: silver chrome helmet with apple green wings, apple green jersey with yellow numbers, apple green pants. Washington posted all white."
+   },
+   "why": "Chrome and apple green at Autzen: the brightest green Oregon owns, under a mirror helmet, for the last home game of the year.",
+   "whyPlaceholder": true,
+   "story": "Oregon wears its Game 12 combination against Washington at Autzen Stadium: a silver chrome helmet with apple green wings, an apple green jersey with yellow numbers and apple green pants, with green and gold Nike Vaporposite cleats. It is the first chrome or silver helmet Oregon has worn at home this season and only its third green jersey of 2026. Fans call it Crystal Apple. Washington wears all white.",
+   "scheduleSlug": "oregon-uniform-schedule-2026",
+   "scheduleLabel": "Oregon 2026 uniform schedule",
+   "related": [
+    {
+     "slug": "oregon-crystal-apple-uniforms-washington-2026",
+     "label": "Every detail of Oregon's Crystal Apple uniform"
+    },
+    {
+     "slug": "is-oregon-wearing-gold-chain-facemasks-washington-2026",
+     "label": "Is Oregon wearing gold chain facemasks?"
+    }
+   ],
+   "shopQuery": "Oregon Ducks football jersey"
   }
  }
 }

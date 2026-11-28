@@ -3807,6 +3807,76 @@
       },
       "confirmed": true,
       "source": "ESPN game photos and highlights (Trail Blazers red Statement with the black sash, Spurs white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909325)"
+    },
+    "2026-11-27 ATL@BOS": {
+      "score": {
+        "away": 87,
+        "home": 86
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Celtics black CELTICS Statement with green, Hawks white Association; https://www.espn.com/nba/game/_/gameId/401909330)"
+    },
+    "2026-11-27 BKN@TOR": {
+      "score": {
+        "away": 100,
+        "home": 124
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Raptors black Statement with red, Nets white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909329)"
+    },
+    "2026-11-27 MIA@NYK": {
+      "score": {
+        "away": 108,
+        "home": 105
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Knicks black NEW YORK Statement, Heat white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909326)"
+    },
+    "2026-11-27 MIL@DET": {
+      "score": {
+        "away": 98,
+        "home": 113
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Pistons navy DET Statement with red and white, Bucks white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909327)"
+    },
+    "2026-11-27 PHI@IND": {
+      "score": {
+        "away": 111,
+        "home": 87
+      },
+      "away": {
+        "call": "Association White"
+      },
+      "home": {
+        "call": "Statement Edition"
+      },
+      "confirmed": true,
+      "source": "ESPN game highlights (Pacers yellow pinstripe INDIANA Statement, 76ers white Association; NBA Cup court; https://www.espn.com/nba/game/_/gameId/401909328)"
     }
   }
 }

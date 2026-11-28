@@ -3,7 +3,7 @@ title: "Oregon Uniform Schedule 2026: Every Combination and When the Ducks Wear 
 author: "colorway-sports-staff"
 category: "College"
 date: "2026-08-27"
-updatedDate: "2026-11-26"
+updatedDate: "2026-11-27"
 excerpt: "What Oregon wears every game in 2026, starting with the confirmed yellow-green-yellow opener against Boise State. The most unpredictable closet in college football, tracked week by week."
 gradient: "linear-gradient(135deg, #154733 0%, #0a2c1f 55%, #FEE123 130%)"
 cardStyle: words
@@ -98,7 +98,7 @@ The season opened with three combinations. **Yellow helmet, green jersey, yellow
 
 **Friday, November 20 at Michigan State.** ★ Confirmed by Oregon: **yellow helmet with green wings, white jersey with green numbers trimmed in yellow, yellow pants**, posted November 18 as the "Game 11 uniform combo." It is the first time the yellow pants have been out since the Boise State opener. An 8 p.m. Eastern Friday night kickoff in East Lansing on FOX. [Every detail and the history](/stories/oregon-goldfinger-yellow-white-yellow-uniforms-michigan-state-2026). Worn as posted, confirmed from the team's game photos. Michigan State wore a black helmet, black jersey and black pants. **Final: Oregon 45, Michigan State 7.**
 
-**November 28 vs. Washington.** Confirmed by the team on November 25: silver chrome helmet with apple green wings, apple green jersey with yellow numbers, apple green pants. [Oregon's Game 12 uniform for Washington, piece by piece](/stories/oregon-crystal-apple-uniforms-washington-2026).
+**November 28 vs. Washington.** Confirmed by the team on November 25: silver chrome helmet with apple green wings, apple green jersey with yellow numbers, apple green pants. [Oregon's Game 12 uniform for Washington, piece by piece](/stories/oregon-crystal-apple-uniforms-washington-2026). The viral gold chain facemask photos are from Oregon's cleat post, not the posted uniform: [is Oregon wearing gold chain facemasks?](/stories/is-oregon-wearing-gold-chain-facemasks-washington-2026)
 
 ## The Bottom Line
 

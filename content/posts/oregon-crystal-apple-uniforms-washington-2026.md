@@ -2,7 +2,7 @@
 title: "Oregon Crystal Apple Uniforms Vs. Washington: Chrome Winged Helmet, Apple Green Jersey And Green Pants"
 category: "College"
 date: "2026-11-26"
-updatedDate: "2026-11-26"
+updatedDate: "2026-11-27"
 excerpt: "Oregon wears its Crystal Apple look against Washington on Saturday, November 28: a silver chrome helmet with apple green wings, an apple green jersey with yellow numbers and green pants. What the team posted, where the name comes from, how it fits the 11 looks Oregon has worn this season, what Washington wears, kickoff time and TV."
 gradient: "linear-gradient(135deg, #3fb618 0%, #154733 60%, #c9ccd1 130%)"
 author: "colorway-sports-staff"
@@ -41,6 +41,10 @@ The cleats got their own post. Twenty minutes later Oregon showed a green **Nike
 <blockquote class="twitter-tweet" data-dnt="true"><a href="https://twitter.com/oregonfootball/status/2125762388670722140"></a></blockquote>
 </div>
 <p style="text-align: center; font-size: 0.75em; color: #999; margin: -0.5em 0 2em;">The green and gold cleats for Washington, via <a href="https://x.com/oregonfootball" target="_blank" rel="noopener">@oregonfootball</a></p>
+
+## What About The Gold Chain Facemask Photos?
+
+On November 27, a photo of a silver Oregon helmet with gold rope chain wrapped across the facemask went viral after Yahoo Sports called it a "sneak peek" at gold rope chain facemasks. The photo comes from the Instagram version of the "Mighty Metallic" cleat post above, a collaboration with the artist Victor Solomon. Oregon's caption is about the cleats and does not mention a facemask, and Oregon has not said the chain will be worn against Washington. In the Game 12 uniform video and photos, the chrome helmet has a plain silver facemask. The full breakdown: [Is Oregon wearing gold chain facemasks against Washington?](/stories/is-oregon-wearing-gold-chain-facemasks-washington-2026)
 
 ## Why It Is Called "Crystal Apple"
 
@@ -141,6 +145,9 @@ NBC.
 
 **What are Oregon's cleats against Washington?**
 Green Nike Vaporposite Pro cleats with a gold swoosh and gold laces, which Oregon posted as "Mighty Metallic."
+
+**Is Oregon wearing gold chain facemasks against Washington?**
+Oregon has not said so. The gold chain helmet photo comes from the Instagram version of Oregon's "Mighty Metallic" cleat post on November 25, and the Game 12 uniform video shows the chrome helmet with a plain silver facemask. [What the viral photos actually show](/stories/is-oregon-wearing-gold-chain-facemasks-washington-2026).
 
 **How many times has Oregon worn a green jersey this season?**
 Three, counting Washington: the Boise State opener on September 5, Portland State on September 18, and Washington on November 28. That does not count the near-black Origin of Speed uniform against UCLA.
